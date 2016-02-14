@@ -27,7 +27,7 @@
 
 - 序　　論
 
-- 第一　說戒品
+- `第一　說戒品 <{filename}visuddhimagga-chap01%zh.rst>`_
 
 - 第二　說頭陀支品
 
