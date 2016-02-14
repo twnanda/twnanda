@@ -1,0 +1,6 @@
+{% extends "layout/groups.html" %}
+{%- from 'layout/includes/i18n.html' import gettext -%}
+
+{% set groups = tags %}
+{% set groups_name = gettext('Tags', DEFAULT_LANG) %}
+{% set groups_css_class = "tags" %}

@@ -1,0 +1,21 @@
+{% extends "layout/layout.html" %}
+{% block title %}{{ gettext('Archives', DEFAULT_LANG) }} - {{ super() }}{% endblock %}
+{% block content %}
+<section class="archives">
+  <header>
+    <h1>{{ gettext('Archives', DEFAULT_LANG) }} - {{ SITENAME }}</h1>
+  </header>
+
+  <dl>
+    {% for article in dates %}
+      <dt>
+        {{ article.date | strftime('%B %d, %Y') }}
+        {% if article.modified -%}
+        (Updated: {{ article.modified | strftime('%B %d, %Y') }})
+        {%- endif -%}
+      </dt>
+      <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+    {% endfor %}
+  </dl>
+</section>
+{% endblock %}

@@ -1,0 +1,189 @@
+/**
+ * References:
+ * 1. Default HTML (CSS) Stylesheets for reStructuredText
+ * URL: http://sourceforge.net/p/docutils/code/HEAD/tree/trunk/docutils/docutils/writers/html4css1/html4css1.css
+ * 2. Documentation: Create GitHub like styled html doc file with rst2html
+ * URL: https://gist.github.com/vergissberlin/6422a0fe146c8fc04d7f
+ */
+
+//font-size: 1.25em;
+
+// styling Gistfy source code
+//div.gist {font-size: 14px;}
+
+blockquote {
+  padding: 10px;
+  margin: 0 0 10px 0;
+  border-left: 5px solid #eee;
+}
+
+.common-code-style {
+  * { font-family: monospace; }
+
+  pre {
+    line-height: 18px;
+    font-size: 14px;
+    padding: 5px;
+    background-color: #f5f5f5;
+    margin: 0;
+  }
+}
+
+.common-linenos-code-table {
+  .highlight {
+    border-width: 0;
+  }
+  border-collapse: collapse;
+  @extend .common-code-style;
+  td.linenos {
+    border-right: 2px solid #ccc;
+  }
+}
+
+// style code snippet
+.highlight {
+  border: 1px solid #ccc;
+  @extend .common-code-style;
+}
+// style code snippet with line number
+table.highlighttable {
+  margin: 10px 0 10px 0;
+  border: 2px solid #ccc;
+  @extend .common-linenos-code-table;
+}
+
+// style github code file
+figure.github-file {
+  margin: 10px 0 10px 0;
+  border: 2px solid #ccc;
+  background-color: #f5f5f5;
+  figcaption {
+    padding: 5px;
+    background-color: #ececec;
+  }
+  div.code-file {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+
+    table.highlighttable {
+      margin: 0;
+      border-width: 0;
+      @extend .common-linenos-code-table;
+    }
+  }
+}
+
+// inline code highlight
+code {
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+// for styling of rst syntax: ``some_word_here``
+// <tt> is not supported in HTML5
+tt.literal {
+  white-space: nowrap;
+  margin: 0 2px;
+  padding: 0 5px;
+  border: 1px solid #ddd;
+  background-color: #f8f8f8;
+  //background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+
+p.rubric {
+  font-weight: bold;
+  font-size: larger;
+  color: maroon;
+  text-align: center;
+}
+
+.align-center {
+  clear: both;
+  text-align: center;
+}
+
+.default-image-align-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+img.align-center {
+  @extend .default-image-align-center;
+}
+
+.picasa-image {
+  img {
+    @extend .default-image-align-center;
+  }
+  div {
+    text-align: center;
+  }
+  div.album {
+    text-align: right;
+    font-size: .75em;
+  }
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+div.admonition, div.note,
+div.warning, div.tip {
+  margin: 2em;
+  border: medium outset;
+  padding: 1em;
+}
+
+div.admonition p.admonition-title,
+div.warning p.admonition-title,
+div.tip p.admonition-title,
+div.note p.admonition-title {
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+// responsive youtube embed
+// http://avexdesigns.com/responsive-youtube-embed/
+// screen width >= 420px, no need to be responsive
+@media (max-width: 419px) {
+  .video-container {
+      position: relative;
+      padding-bottom: 56.25%;
+      padding-top: 30px; height: 0; overflow: hidden;
+  }
+  .video-container iframe,
+  .video-container object,
+  .video-container embed {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+  }
+}
+// make description of iframe (youtube or google maps)
+// close to the iframe
+.video-container-description > dl {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+.video-container-description > p { margin: 0; }
+
+// for syntax comparison table
+table.table-syntax-diff {
+  width: 100%;
+  p { margin: 0 }
+}
+
+// for grid table
+table.docutils {
+  th, td {
+    padding: 3px;
+    pre { margin: 0; }
+  }
+}

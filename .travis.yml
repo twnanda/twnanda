@@ -1,0 +1,32 @@
+language: python
+python:
+- '2.7'
+branches:
+  only:
+  - master
+addons:
+  apt:
+    packages:
+    - language-pack-en
+    - language-pack-zh-hant
+install:
+- pip install -r requirements.txt
+- make download
+script:
+- make publish
+after_success:
+- git config --global user.email "travis@travis-ci.org"
+- git config --global user.name "Travis"
+- git config --global push.default simple
+- echo "Clone twnanda.github.io..."
+- git clone --depth 1 https://${GH_TOKEN}@github.com/twnanda/twnanda.github.io.git > /dev/null
+- cd twnanda.github.io
+- git rm -rf * > /dev/null
+- cp -r  ../output/* .
+- git add .
+- git status
+- git commit -m "Pushed by Travis CI"
+- git push --quiet
+env:
+  global:
+    secure: Vv1KPiSDMdJhPVBCBhF4KsNG7ANUngNr5jTr2UdNme03XFxxyZB4EpGvWMMhBSMUm0gqy0++5QxV1S4v28OI2YXrJF0+V69lEVrQsPFIfmw73v7ESvD9pcVRnVVg+ozIFPJIUoDi2PyWez0g78FMzSPLp6DDC5BtE5R1QYjY1qVyKYSr2iA2V8eL16Z+tnmDyk+G9scmXFaXUolimL+SLfStMKZ7QYKHkgA3O/pXDUToFfzRDaqd+Jr3t0NrzHlXH3FG374BA43JNHX2yvIqnhSFarohWZ9PxwU1c7xbEK8fKCCFK1KcIYJl9KLrgA70bZshRt9lJMnHM9Cbj8bpYZAHv3kU6hkczxWRYX32jRLSYh/wCltICCJTX/VDMfjAOG7pKZ98E7siHr6nAwC3WgrX5K9U/bjAmTOJrz8cddMWqjTYFs+Oce3GdhQSZpDQMsFQQnel8iU92UYPEfj6SyvMiuulYGeAUI3mKNVs5T1vmm1tLeRQdyPoibOrC7Ld0O9XrHZo08JEne1C1dlI0PmKxL4IoTzPpyeO3HC0Fvibfn4Y4uWdZewwSW4rhKTMWkM868o76m1G/W8f51mprEnrgTebvMiA1hbPZ3MqVX9LR0PzWs4KuboyZ9OaoVlXbZtrey69ygvjzD4mWoXddxgFmN2kJ2lj156Rej78rGc=

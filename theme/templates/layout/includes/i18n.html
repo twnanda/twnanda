@@ -1,0 +1,51 @@
+{% macro gettext(string, lang) -%}
+  {%- if lang == 'en' -%}
+    {{ string }}
+  {%- elif lang == 'zh' -%}
+    {%- if string == 'Archives' -%} 歸檔
+    {%- elif string == 'Categories' -%} 分類
+    {%- elif string == 'Category' -%} 分類
+    {%- elif string == 'Authors' -%} 作者
+    {%- elif string == 'Author' -%} 作者
+    {%- elif string == 'Tags' -%} 標籤
+    {%- elif string == 'Translation(s)' -%} 翻譯
+    {%- elif string == 'Edit on Github' -%} 在Github上編輯
+    {%- else -%}
+      {{ string }}
+    {%- endif -%}
+  {%- elif lang == 'th' -%}
+    {%- if string == 'Archives' -%} สารบรรณ
+    {%- elif string == 'Categories' -%} ประเภท
+    {%- elif string == 'Category' -%} ประเภท
+    {%- elif string == 'Authors' -%} ผู้เขียน
+    {%- elif string == 'Author' -%} ผู้เขียน
+    {%- elif string == 'Tags' -%} แท็ก
+    {%- elif string == 'Translation(s)' -%} การแปล
+    {%- elif string == 'Edit on Github' -%} แก้ไขที่ Github
+    {%- else -%}
+      {{ string }}
+    {%- endif -%}
+  {%- else -%}
+    {{ string }}
+  {%- endif -%}
+{%- endmacro %}
+
+{% macro lang_code2name(code)  %}
+  {%- if   code == 'en'    -%}   English
+  {%- elif code == 'zh'    -%}   中文
+  {%- elif code == 'th'    -%}   ไทย
+  {%- elif code == 'zh_TW' -%}   中文 (繁體)
+  {%- elif code == 'zh_CN' -%}   中文 (简体)
+  {%- else -%}{{ code }}{%- endif -%}
+{% endmacro %}
+
+{% macro translations_for(writing, SITEURL)  %}
+  {%- if writing.translations -%}
+    <div class="available-translations">
+      <span>{{- gettext("Translation(s)", writing.lang) -}}</span>:&nbsp;
+      {%- for translation in writing.translations -%}
+        <a href="{{ SITEURL }}/{{ translation.url }}">{{ lang_code2name(translation.lang) }}</a>&nbsp;
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
+{% endmacro %}
