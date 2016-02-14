@@ -74,3 +74,9 @@ Daily Development
     $ make serve
     # open your browser and preview the website at http://localhost:8000/
 
+
+References
+----------
+
+- `7. 附录：轻量级标记语言 — GotGitHub <http://www.worldhello.net/gotgithub/appendix/markups.html>`_
+  (`GitHub <https://github.com/gotgit/gotgithub/blob/master/appendix/markups.rst>`__)
