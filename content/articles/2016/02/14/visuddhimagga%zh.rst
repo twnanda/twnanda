@@ -32,9 +32,9 @@
 
 - `第二　說頭陀支品 <{filename}visuddhimagga-chap02%zh.rst>`_
 
-- 第三　說取業處品
+- `第三　說取業處品 <{filename}visuddhimagga-chap03%zh.rst>`_
 
-- 第四　說地遍品
+- `第四　說地遍品 <{filename}visuddhimagga-chap04%zh.rst>`_
 
 - 第五　說餘遍品
 
