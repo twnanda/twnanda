@@ -1,4 +1,5 @@
 :slug: index
+:lang: zh
 :status: hidden
 
 .. raw:: html
@@ -12,6 +13,15 @@
   </div>
 
 ----
+
+.. raw:: html
+
+  <aside>
+  <div class="edit-on-github">
+    <a href="https://github.com/twnanda/twnanda/blob/master/content/pages/index.rst">在GitHub上編輯</a>
+  </div>
+  </aside>
+
 
 - 府城地區寺院、道場、學佛社團
 
