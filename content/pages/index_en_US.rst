@@ -7,9 +7,14 @@
   <div class="picasa-image">
     <image src="/extra/img/buddha.jpg">
     <div>namo tassa bhagavato arahato sammāsambuddhassa</div>
-    <div>皈敬世尊、阿羅漢、正等正覺者</div>
+    <div>Homage to the Blessed One, the Worthy One, the Rightly Self-awakened One</div>
     <br/>
-    <div>諸惡莫作，眾善奉行，自淨其意，是諸佛教。〔法句經 183 偈頌〕</div>
+    <div>The non-doing of any evil,
+         The performance of what's skillful,
+         The cleansing of one's own mind:
+         This is the Buddhas' teaching.
+         〔Dhammapada 183 〕
+    </div>
   </div>
 
 ----

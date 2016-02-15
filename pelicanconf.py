@@ -15,7 +15,10 @@ READERS = {'html': None}
 # @see https://github.com/getpelican/pelican/issues/1587
 ARTICLE_PATHS = ['articles']
 STATIC_PATHS = ['articles', 'extra']
-EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'},}
+EXTRA_PATH_METADATA = {
+  'extra/robots.txt': {'path': 'robots.txt'},
+  'extra/yezi.png': {'path': 'favicon.ico'},
+}
 
 TIMEZONE = 'Asia/Taipei'
 
