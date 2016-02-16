@@ -931,3 +931,5 @@ somanassa’ 舊譯為喜。在中譯的五十二心所當中，「喜」這一�
 參考：
 
 .. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap01.htm>`_
+
+.. [2] 可參考另一版本。

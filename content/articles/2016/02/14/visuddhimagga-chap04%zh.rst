@@ -826,3 +826,5 @@
 參考：
 
 .. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap04.htm>`_
+
+.. [2] 可參考另一版本。

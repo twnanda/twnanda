@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2016-02-14T12:24+08:00
-:modified: 2016-02-15T06:01+08:00
+:modified: 2016-02-16T16:58+08:00
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 清淨道論
@@ -40,7 +40,7 @@
 
 - `第六　說不淨業處品 <{filename}visuddhimagga-chap06%zh.rst>`_
 
-- 第七　說六隨念品
+- `第七　說六隨念品 <{filename}visuddhimagga-chap07%zh.rst>`_
 
 - 第八　說隨念業處品
 
