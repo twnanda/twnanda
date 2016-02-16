@@ -42,7 +42,7 @@
 
 - `第七　說六隨念品 <{filename}visuddhimagga-chap07%zh.rst>`_
 
-- 第八　說隨念業處品
+- `第八　說隨念業處品 <{filename}visuddhimagga-chap08%zh.rst>`_
 
 - 第九　說梵住品
 
