@@ -44,7 +44,7 @@
 
 - `第八　說隨念業處品 <{filename}visuddhimagga-chap08%zh.rst>`_
 
-- 第九　說梵住品
+- `第九　說梵住品 <{filename}visuddhimagga-chap09%zh.rst>`_
 
 - 第十　說無色品
 
