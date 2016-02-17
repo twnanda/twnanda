@@ -48,7 +48,7 @@
 
 - `第十　說無色品 <{filename}visuddhimagga-chap10%zh.rst>`_
 
-- 第十一　說定品
+- `第十一　說定品 <{filename}visuddhimagga-chap11%zh.rst>`_
 
 - 第十二　說神變品
 
