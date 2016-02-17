@@ -2,9 +2,8 @@
 ########
 
 :date: 2016-02-13T16:05+08:00
-:modified: 2016-02-16T16:05+08:00
 :tags: 
-:category: 
+:category: 未分類
 :summary: 經文選讀
 
 
