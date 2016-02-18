@@ -36,7 +36,7 @@
 - `經文選讀 <{filename}/articles/uncategorized/canon-selected%zh.rst>`_
 
   * (南傳)法句經
-  * 《中部》經典閱讀地圖
+  * `《中部》經典閱讀地圖 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst>`_
   * 小部經典選譯
   * `《清淨道論》 <{tag}清淨道論>`_ 等等。
 
