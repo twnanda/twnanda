@@ -29,11 +29,11 @@
   * 府城地區其他寺院、道場
   * 學佛社團
 
-- 《(南傳) `巴利大藏經 <{filename}/articles/2016/02/13/tipitaka%zh.rst>`_ 》
+- 《(南傳) `巴利大藏經 <{filename}/articles/uncategorized/tipitaka%zh.rst>`_ 》
 
-  * `巴利語 <{filename}/articles/2016/02/13/paali%zh.rst>`_ 大藏經概要、漢譯、英譯(備註：尚未完備;逐次增加中)。
+  * `巴利語 <{filename}/articles/uncategorized/paali%zh.rst>`_ 大藏經概要、漢譯、英譯(備註：尚未完備;逐次增加中)。
 
-- `經文選讀 <{filename}/articles/2016/02/13/canon-selected%zh.rst>`_
+- `經文選讀 <{filename}/articles/uncategorized/canon-selected%zh.rst>`_
 
   * (南傳)法句經
   * 《中部》經典閱讀地圖
