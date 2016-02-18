@@ -27,11 +27,11 @@ LOCALE = 'zh_TW.UTF-8'
 
 # @see http://docs.getpelican.com/en/3.5.0/settings.html#basic-settings
 # @see http://docs.getpelican.com/en/3.5.0/settings.html#path-metadata
-PATH_METADATA = 'articles[-a-zA-Z0-9/]*/(?P<slug>[-a-zA-Z0-9]*)%(?P<lang>[_a-zA-Z]{2,5})\.rst'
+PATH_METADATA = 'articles/(?P<urlpath>[-a-zA-Z0-9/]*)/(?P<slug>[-a-zA-Z0-9]*)%(?P<lang>[_a-zA-Z]{2,5})\.rst'
 
 # @see http://docs.getpelican.com/en/3.5.0/settings.html#url-settings
-ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
-ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+ARTICLE_URL = '{urlpath}/{slug}/'
+ARTICLE_SAVE_AS = '{urlpath}/{slug}/index.html'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
