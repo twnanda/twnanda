@@ -1780,11 +1780,6 @@ _`MN 75`\: Māgandiya Sutta中部75摩犍提經，（\ `中阿含153鬚閑提經
 
 --------------
 
-資訊更新日期：\ `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`__
-(`BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__) 2558; (05.26, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2015 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
-
-----
-
 參考：
 
 .. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/maps-MN-Bodhi.html>`_
