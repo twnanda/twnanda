@@ -54,7 +54,7 @@
 
 - `第十三　說神通品 <{filename}visuddhimagga-chap13%zh.rst>`_
 
-- 第十四　說蘊品
+- `第十四　說蘊品 <{filename}visuddhimagga-chap14%zh.rst>`_
 
 - 第十五　說處界品
 
