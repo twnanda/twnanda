@@ -60,7 +60,7 @@
 
 - `第十六　說根諦品 <{filename}visuddhimagga-chap16%zh.rst>`_
 
-- 第十七　說慧地品
+- `第十七　說慧地品 <{filename}visuddhimagga-chap17%zh.rst>`_
 
 - 第十八　說見清淨品
 
