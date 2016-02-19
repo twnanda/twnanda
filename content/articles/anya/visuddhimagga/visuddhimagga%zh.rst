@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2016-02-14T12:24+08:00
-:modified: 2016-02-16T16:58+08:00
+:modified: 2016-02-19T08:43+08:00
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 清淨道論
@@ -56,7 +56,7 @@
 
 - `第十四　說蘊品 <{filename}visuddhimagga-chap14%zh.rst>`_
 
-- 第十五　說處界品
+- `第十五　說處界品 <{filename}visuddhimagga-chap15%zh.rst>`_
 
 - 第十六　說根諦品
 
