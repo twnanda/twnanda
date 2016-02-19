@@ -64,7 +64,7 @@
 
 - `第十八　說見清淨品 <{filename}visuddhimagga-chap18%zh.rst>`_
 
-- 第十九　說度疑清淨品
+- `第十九　說度疑清淨品 <{filename}visuddhimagga-chap19%zh.rst>`_
 
 - 第二十　說道非道智見清淨品
 
