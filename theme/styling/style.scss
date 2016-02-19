@@ -262,3 +262,9 @@ a {
   padding: 3px;
   float: right;
 }
+
+// footnote link
+a.citation-reference {
+  vertical-align: super;
+  font-size: smaller;
+}
