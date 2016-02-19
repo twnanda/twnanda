@@ -62,7 +62,7 @@
 
 - `第十七　說慧地品 <{filename}visuddhimagga-chap17%zh.rst>`_
 
-- 第十八　說見清淨品
+- `第十八　說見清淨品 <{filename}visuddhimagga-chap18%zh.rst>`_
 
 - 第十九　說度疑清淨品
 
