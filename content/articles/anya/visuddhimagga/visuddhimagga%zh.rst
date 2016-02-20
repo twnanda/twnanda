@@ -72,7 +72,7 @@
 
 - `第二十二　說智見清淨品 <{filename}visuddhimagga-chap22%zh.rst>`_
 
-- 第二十三　說修慧的功德品
+- `第二十三　說修慧的功德品 <{filename}visuddhimagga-chap23%zh.rst>`_
 
 - 結論
 
