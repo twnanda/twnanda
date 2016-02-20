@@ -70,7 +70,7 @@
 
 - `第二十一　說行道智見清淨品 <{filename}visuddhimagga-chap21%zh.rst>`_
 
-- 第二十二　說智見清淨品
+- `第二十二　說智見清淨品 <{filename}visuddhimagga-chap22%zh.rst>`_
 
 - 第二十三　說修慧的功德品
 
