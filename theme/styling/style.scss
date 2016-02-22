@@ -16,15 +16,19 @@ $link-hover-color: #2445ae;
 
 * { font-family: $font-stack; }
 
+body {
+  font-size: 20px;
+  line-height: 2;
+  background-color: #c7edcc;
+  color: black;
+}
+
 .common-title {
 }
 
 // top navigation bar
 .top-nav[role=navigation] {
   @extend .common-title;
-  background-image: linear-gradient(to bottom left, white, $primary-color);
-  border-radius: 4px;
-  margin-top: 8px;
 
   .nav-links {
     float: right;
@@ -32,6 +36,10 @@ $link-hover-color: #2445ae;
 
   @include clearfix;
 
+  ul {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
   ul li {
     display: inline;
     margin-right: 1em;
