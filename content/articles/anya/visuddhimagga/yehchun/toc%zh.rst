@@ -19,9 +19,9 @@
 
 序論
 
-第一  說戒品
+`第一  說戒品 <{filename}chap01%zh.rst>`_
 
-第二  說頭陀支品
+`第二  說頭陀支品 <{filename}chap02%zh.rst>`_
 
 第三  說取業處品
 
