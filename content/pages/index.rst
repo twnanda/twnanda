@@ -68,3 +68,56 @@
 
   * 當代南傳佛教大師(LIVING BUDDHIST MASTERS)
   * UNEXPECTED FREEDOM([by AJAHN MUNINDO; 【意想不到的自由】])
+
+..
+  02.04 2016 rev. 法句經 old:Tipitaka/Sutta/Khuddaka/Dhammapada/Dhammapada.htm;
+                覺悟之路 old:http://http//anicca.online-dhamma.net/
+                hide:巴利藏閱讀輔具計劃(Tipitaka for Pali Learner Project)：簡介； 工作細項(Updated:01.25 '13)、
+                add:bgcolor=C7EDCC
+  ------
+  09.26 rev. 有關尊者阿姜　曼傳; old:【最新修訂的尊者阿迦曼傳英譯本】結緣訊息(Updated:05.22 '10)
+  04.02 2014 Rev. 版面更動(參原始：dhamma-2013-1218-bak.htm)； change to "UTF-8"  add: 手機桌面中的APP圖示
+  12.18 add: ※※※本網站 Htmled 版權屬十方法界，歡迎複製流傳；※※※  ※※※法義尊貴，請勿商品化流通！※※※  參考台灣 (CC BY-NC-SA 3.0 TW)授權條款
+           願我們一起分享法施的功德、  願一切眾生受利樂、  願正法久住。
+  12.14 rev. replace (old: 西元 AD 2013) with 西元 2013 CE
+  06.22 add: 府城佛教網 on title; linking 多語言巴利藏閱讀; 巴利字典-- 巴利-英文,中文,日文,越南文,緬甸文 字典
+        rev. search myweb.ncku.edu.tw/~lsn46/ old:myweb.ncku.edu.tw/~lausinan/
+             & mirror of 法雨道場 old:http://www.online-dhamma.net/dhammarain/
+  05.26 rev. mirror old:http://www.online-dhamma.net/nanda/dhamma.htm new: amazon:
+  01.25 add: 巴利藏閱讀輔具計劃
+  01.01 2013 rev. 法雨道場Mirror 站 (old: nt.med); replace 菩提伽耶內覺禪林(del) with 原始佛法三摩地學會(new)
+  12.23 2012 del: nt link-- http://140.116.94.15/biochem/lsn/dhamma.htm (UPS failure)、（另一<u>mirror 站</u></a>）
+             add: META NAME="keywords" CONTENT="府城佛教網, 府城, 佛教, 佛教網, 原始佛教, 南傳, 上座部, 巴利三藏, 巴利大藏經, 巴利, 法句經
+  09.25 rev. linking of UNEXPECTED FREEDOM
+  09.13 2011 rev. 佛曆(BE) 2554; (西元 AD 2011); add: 法寂禪林; simplify--訊息公告-- 禪修通告; del:法藏講堂附設上座部學院通告; (內觀 <a href="http://140.116.94.15/TVC/Web/default.htm">Mirror 站</a>
+  05.22 2010 rev.【最新修訂的尊者阿迦曼傳英譯本】結緣訊息 old(:09.08 '06)
+  09.19 2008 簡化--法藏講堂附設上座部學院通告
+  07.27 2008 "國內外電子佛典資源"簡化為"電子佛典資源"; 加入覺醒之翼; 覺悟之路; 菩提伽耶內覺禪林
+  <tr>
+    <td class="home1"><a href="domestic-canon.html"><b>國內電子佛典資源</b></a></td>
+    <td class="home2" colspan="2"><a href="http://ccbs.ntu.edu.tw/">佛學數位圖書館暨博物館(原"台大佛學研究中心")</a>(<b>高度推薦！</b>)等等。</td>
+  </tr>
+  <tr>
+    <td class="home1"><a href="overseas-canon.html"><b>國外電子佛典資源</b></a></td>
+    <td class="home2" colspan="2"><a href="http://www.accesstoinsight.org/"> <b>Access to Insight</b>:Readings in Theravada Buddhism</a>等等。</td>
+  </tr>
+  06.02 add: <a href="http://www.online-dhamma.net/nanda/dhamma.htm"><u>（另一 </u></a>mirror 站）
+             & 法藏講堂禪修暨入雨安居(第五期)
+        del: <a href="TTBC/Pa_Auk_Sayadaw_Visit_2008.htm">帕奧禪師(Pa Auk Sayadaw)2008年4月6日蒞院指導(</a><sup><font size="-1">(Updated:03.26 '08)</font></sup>、<a href="TTBC/meditation_Fa-Jan.html">『法藏講堂』禪修暨短期出家
+             <a href="meditation-Cu_Min-2008Feb.html">持明寺一個月精進禪修</a><sup><font size="-1">(Updated:12.02 '07)</font></sup>、
+  03.26 '08 add:『法藏講堂』禪修法藏講堂(DhammaguttavihAra)附設上座部學院：<a href="TTBC/Pa_Auk_Sayadaw_Visit_2008.htm">帕奧禪師(Pa Auk Sayadaw)2008年4月6日蒞院指導(</a><sup><font size="-1">(Updated:03.26 '08)</font></sup>、
+  02.24 2008
+        add: <a href="lib/authors/munindo/Unexpected_Freeodm/Han/index-han.html">【意想不到的自由】</a><sup><font size="-1">(Updated:02.06 '08)</font></sup>]
+        del: <a href="meditation-Wen-Su-2007Dec.html">『聞思佛學圖書館』禪修訊息(2007)(</a><sup><font size="-1">(Updated:07.10 '07)</font></sup>、
+             <a href="newrain/new/new.html">『法雨道場』四念住禪修(</a><sup><font size="-1">(Updated:11.16 '07)</font></sup>、
+  12.02 持明寺一個月精進禪修 通告
+  11.16 『法雨道場』四念住禪修; 『法藏講堂』禪修暨短期出家
+  10.12 revise Mirror of newrain to NT Server
+  04.02 replace-- http://www.tt034.org.tw/newrain with http://www.dhammarain.org.tw/
+  03.04 2007 revise 皈敬 from 禮敬
+  09.09 增(換)一佛像; (訊息公告)加法雨道場四念住禪修通告; (文章選讀)加 UNEXPECTED FREEDOM;
+  06.14 200607.14; 06.12; 05.08; 94('05)/05/01(big revised);
+  12.18; 11.02; 07.29; 07.28; lsn.htm
+  93('04)/2/28 a href=http://www.buddhasasana.org/佛教正法維護網a href=http://www.buddhasasana.net b Buddha Sasana Online /b -
+  Unofficial Home of the Theravadaa href=http://parami.org/sadhu/
+  Saadhu!--The Theravada Buddhism Web Directory and Portala href=Original-Dhamma-Centre/index.html 法源中心
