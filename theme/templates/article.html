@@ -25,15 +25,6 @@
 
 {%- block article_metadata -%}
   <hr>
-  {%- if article.author -%}
-  <address><b>{{ gettext('Author', DEFAULT_LANG) }}</b>:
-    <a rel="author"
-       href="{{ SITEURL }}/{{ article.author.url }}">
-      {{- article.author -}}
-    </a>
-  </address>
-  {%- endif -%}
-
   {%- if article.category -%}
   <aside>
     <i>&isin;</i> <b>{{ gettext('Category', DEFAULT_LANG) }}</b>:

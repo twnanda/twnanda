@@ -49,30 +49,18 @@ DEFAULT_PAGINATION = False
 THEME = 'theme'
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['i18n_subsites', 'edit_on_github', 'embed_github_repository_file',
-           'embed_picasaweb_image']
+PLUGINS = ['edit_on_github', 'embed_github_repository_file', 'embed_picasaweb_image']
 
 # my custom setting for HTML meta info
 META_KEYWORDS = '府城佛教網, 府城, 佛教, 佛教網, 原始佛教, 南傳, 上座部, 南傳佛教, 上座部佛教, 巴利三藏, 巴利大藏經, 巴利, 法句經'
 META_DESCRIPTION = '府城佛教網'
-
-# mapping: language_code -> settings_overrides_dict
-I18N_SUBSITES = {
-  'en': {
-    'SITENAME': 'Dhamma Hu-Shiah',
-    'AUTHOR': 'Nanda Lau',
-    'LOCALE': 'zh_TW.UTF-8',
-    'META_KEYWORDS': 'Buddhism',
-    'META_DESCRIPTION': 'Dhamma Page of Tainan(Hu Shiah)',
-  },
-}
-I18N_UNTRANSLATED_ARTICLES = 'remove'
 
 # generate only index.html and pages and articles. (no archives, tags, categories)
 #DIRECT_TEMPLATES = ['index']
 # use metadata attribute 'order' in page files for ordering
 # @see http://docs.getpelican.com/en/3.5.0/settings.html#url-settings
 PAGE_ORDER_BY = 'order'
+DISPLAY_PAGES_ON_MENU = False
 
 # CONTENT_DIR_URL is the setting for edit_on_github plugin
 CONTENT_DIR_URL = u'https://github.com/twnanda/twnanda/tree/master/content'

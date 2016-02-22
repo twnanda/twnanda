@@ -39,25 +39,17 @@ First-time Setup
     $ cd ~/dev/twnanda/
     $ sudo pip install -r requirements.txt
 
-4. Install pelican `i18n_subsites <https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites>`_ plugin and download `normalize.css <http://necolas.github.io/normalize.css/>`_:
-
-.. code-block:: bash
-
-    $ cd ~/dev/twnanda/
-    $ make download
-
-5. Generate CSS file:
+4. Generate CSS file:
 
 .. code-block:: bash
 
     $ cd ~/dev/twnanda/
     $ make scss
 
-6. Install language packages to add locale (English, Traditional Chinese):
+5. Install language packages to add locale (Traditional Chinese):
 
 .. code-block:: bash
 
-    $ sudo apt-get install language-pack-en
     $ sudo apt-get install language-pack-zh-hant
 
 
