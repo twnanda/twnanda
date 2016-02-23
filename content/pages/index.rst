@@ -1,33 +1,7 @@
+:modified: 2016-02-23T10:30+08:00
 :slug: index
 :lang: zh
 :status: hidden
-
-.. raw:: html
-
-  <div class="picasa-image">
-    <div>namo tassa bhagavato arahato sammāsambuddhassa</div>
-    <image src="/extra/img/bss.jpg">
-  </div>
-  <div class="picasa-image">
-    <div>皈敬世尊、阿羅漢、正等正覺者</div>
-    <image src="/extra/img/Buddha2.jpg">
-  </div>
-  <div class="align-center"><strong>歡迎光臨</strong><h1>府城佛教網</h1></div>
-  <div class="picasa-image">
-    <image src="/extra/img/buddha.jpg">
-    <div>諸惡莫作，眾善奉行，自淨其意，是諸佛教。〔法句經 183 偈頌〕</div>
-  </div>
-
-
-----
-
-.. raw:: html
-
-  <aside>
-  <div class="edit-on-github">
-    <a href="https://github.com/twnanda/twnanda/blob/master/content/pages/index.rst">在GitHub上編輯</a>
-  </div>
-  </aside>
 
 
 - 府城地區寺院、道場、學佛社團
