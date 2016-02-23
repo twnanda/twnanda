@@ -187,3 +187,9 @@ table.docutils {
     pre { margin: 0; }
   }
 }
+
+// footnote link
+a.citation-reference, a.footnote-reference {
+  vertical-align: super;
+  font-size: smaller;
+}
