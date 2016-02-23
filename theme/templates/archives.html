@@ -10,7 +10,7 @@
     {% for article in dates %}
       <dt>
         {% if article.modified -%}
-        Updated: {{ Buddhist_calendar(article.modified) }}
+        更新：{{ Buddhist_calendar(article.modified) }}
         {%- else -%}
         {{ Buddhist_calendar(article.date) }}
         {%- endif -%}
