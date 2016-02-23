@@ -1,6 +1,7 @@
 <nav class="top-nav" role="navigation">
   <div class="nav-links">
     <ul>
+      <li><a href="{{ SITEURL }}/">首頁</a></li>
       {% if DISPLAY_PAGES_ON_MENU %}
       {%- for p in pages -%}
         <li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>

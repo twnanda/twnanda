@@ -1,6 +1,3 @@
-// include styling for code snippet
-@import "pygments";
-
 $font-stack: Arial, Helvetica, sans-serif, "微軟正黑體", "Microsoft JhengHei";
 $primary-color: #dddddd;
 $link-hover-color: #2445ae;
@@ -42,7 +39,7 @@ body {
   }
   ul li {
     display: inline;
-    margin-right: 1em;
+    margin-right: .25em;
   }
 }
 
