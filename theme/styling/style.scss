@@ -166,6 +166,12 @@ body {
 }
 
 .layout-footer {
-  padding: 3px;
-  float: right;
+
+  .align-center {
+    clear: both;
+    text-align: center;
+  }
+  .fake-h3 {font-size: 1.17em;}
+  .fake-h2 {font-size: 1.5em;}
+  .fake-h1 {font-size: 2em;}
 }
