@@ -10,11 +10,9 @@
     {% for article in dates %}
       <dt>
         {% if article.modified -%}
-        Updated: {{ article.modified | strftime('%B %d, %Y') }}
-        / <a href="https://zh.wikipedia.org/zh-tw/%E4%BD%9B%E6%9B%86">佛曆</a> {{article.modified.year + 543}}
+        Updated: {{ Buddhist_calendar(article.modified) }}
         {%- else -%}
-        {{ article.date | strftime('%B %d, %Y') }}
-        / <a href="https://zh.wikipedia.org/zh-tw/%E4%BD%9B%E6%9B%86">佛曆</a> {{article.date.year + 543}}
+        {{ Buddhist_calendar(article.date) }}
         {%- endif -%}
       </dt>
       <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>

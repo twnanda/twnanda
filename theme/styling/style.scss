@@ -1,5 +1,5 @@
 $font-stack: Arial, Helvetica, sans-serif, "微軟正黑體", "Microsoft JhengHei";
-$primary-color: #2445ae;
+$primary-color: #fff;
 $link-hover-color: #2445ae;
 
 // keep parent element of floated elements from collapsing
@@ -139,8 +139,8 @@ body {
       line-height: 1.5em;
       color: rgb(0, 0, 238);
       padding: 0 .75em 0 .75em;
-      background-color: #CCFFCC;
-      border-radius: 3px, 3px;
+      background-color: #fff;
+      border-radius: 6px;
     }
   }
 }

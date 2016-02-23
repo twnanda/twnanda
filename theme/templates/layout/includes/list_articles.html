@@ -1,3 +1,4 @@
+{%- from 'layout/includes/time.html' import Buddhist_calendar -%}
 {% for article in (articles_page.object_list if articles_page else articles) %}
 <article class="post">
   <header>
@@ -6,13 +7,11 @@
   <aside class="post-metadata-date">
     {%- if article.modified -%}
     <time datetime="{{ article.modified.isoformat() }}">
-      Updated: {{ article.modified | strftime('%B %d, %Y') }}
-      / <a href="https://zh.wikipedia.org/zh-tw/%E4%BD%9B%E6%9B%86">佛曆</a> {{article.modified.year + 543}}
+      Updated: {{ Buddhist_calendar(article.modified) }}
     </time>
     {%- else -%}
     <time datetime="{{ article.date.isoformat() }}">
-      {{ article.date | strftime('%B %d, %Y') }}
-      / <a href="https://zh.wikipedia.org/zh-tw/%E4%BD%9B%E6%9B%86">佛曆</a> {{article.date.year + 543}}
+      {{ Buddhist_calendar(article.date) }}
     </time>
     {%- endif -%}
   </aside>

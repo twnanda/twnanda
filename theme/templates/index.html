@@ -22,8 +22,7 @@
     <hr>
     <aside>
       <time datetime="{{ page.modified.isoformat() }}">
-        Updated: {{ page.modified | strftime('%B %d, %Y') }}
-        / <a href="https://zh.wikipedia.org/zh-tw/%E4%BD%9B%E6%9B%86">佛曆</a> {{page.modified.year + 543}}
+        Updated: {{ Buddhist_calendar(page.modified) }}
       </time>
     </aside>
     <aside>
