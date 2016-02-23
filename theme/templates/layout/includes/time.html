@@ -1,0 +1,9 @@
+<time datetime="{{ article.modified.isoformat() }}">
+  Updated: {{ article.modified | strftime('%B %d, %Y') }}
+  /<a href="https://zh.wikipedia.org/zh-tw/%E4%BD%9B%E6%9B%86">佛曆</a> {{article.date.year + 543}}
+</time>
+{%- else -%}
+<time datetime="{{ article.date.isoformat() }}">
+  {{ article.date | strftime('%B %d, %Y') }}
+  /<a href="https://zh.wikipedia.org/zh-tw/%E4%BD%9B%E6%9B%86">佛曆</a> {{article.date.year + 543}}
+</time>
