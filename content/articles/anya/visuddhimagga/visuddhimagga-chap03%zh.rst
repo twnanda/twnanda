@@ -450,4 +450,4 @@
 
 .. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap03.htm>`_
 
-.. [2] 可參考另一版本。
+.. [2] 可參考 `另一版本 <{filename}yehchun/chap03%zh.rst>`_ 。

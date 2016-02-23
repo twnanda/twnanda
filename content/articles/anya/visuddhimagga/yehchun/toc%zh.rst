@@ -23,7 +23,7 @@
 
 `第二  說頭陀支品 <{filename}chap02%zh.rst>`_
 
-第三  說取業處品
+`第三  說取業處品 <{filename}chap03%zh.rst>`_
 
 第四  說地遍品
 
