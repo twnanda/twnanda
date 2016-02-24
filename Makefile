@@ -5,6 +5,7 @@ PELICANOPTS=
 BASEDIR=$(CURDIR)
 THEMEDIR=$(BASEDIR)/theme
 CSSDIR=$(THEMEDIR)/static/css
+JSDIR=$(THEMEDIR)/static/js
 SCSSDIR=$(THEMEDIR)/styling
 INPUTDIR=$(BASEDIR)/content
 CACHEDIR=$(BASEDIR)/cache
@@ -20,6 +21,10 @@ scss:
 	[ -d $(CSSDIR) ] || mkdir -p $(CSSDIR)
 	$(PY) -mscss < $(SCSSDIR)/style.scss -I $(SCSSDIR) -o $(CSSDIR)/style.css
 
+js:
+	[ -d $(JSDIR) ] || mkdir -p $(JSDIR)
+	cd theme/javascript; $(PY) compile.py > $(JSDIR)/hushiah.js
+
 html: scss
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
@@ -34,7 +39,7 @@ else
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server
 endif
 
-publish: scss clean
+publish: js scss clean
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 .PHONY: download scss html clean serve publish

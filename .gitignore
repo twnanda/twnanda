@@ -2,3 +2,4 @@ cache
 output
 *.pyc
 theme/static/css/style.css
+theme/static/js/hushiah.js

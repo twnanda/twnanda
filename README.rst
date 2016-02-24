@@ -39,12 +39,13 @@ First-time Setup
     $ cd ~/dev/twnanda/
     $ sudo pip install -r requirements.txt
 
-4. Generate CSS file:
+4. Generate CSS/JS file:
 
 .. code-block:: bash
 
     $ cd ~/dev/twnanda/
     $ make scss
+    $ make js
 
 5. Install language packages to add locale (Traditional Chinese):
 

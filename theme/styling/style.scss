@@ -175,3 +175,13 @@ body {
   .fake-h2 {font-size: 1.5em;}
   .fake-h1 {font-size: 2em;}
 }
+
+.zh-convert {
+  &:hover {cursor: pointer;}
+  float: right;
+  margin-right: 3px;
+
+  padding: 5px 5px;
+  background: $primary-color;
+  border-radius: 4px;
+}
