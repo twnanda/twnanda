@@ -50,9 +50,13 @@
     <aside>
       {{- translations_for(content, SITEURL) -}}
       {%- if content.github_url -%}
-        <div class="edit-on-github"><a href="{{ content.github_url }}">{{ gettext('Edit on Github', DEFAULT_LANG) }}</a></div>
+        <div class="edit-on-github"><a href="{{ content.github_url }}">GitHub</a></div>
       {%- endif -%}
       <div class="zh-convert"><span id="zh-convert" data-zh="tw">简体</span></div>
+      <div class="font-adjust">
+        <span id="font-larger">字體++</span>
+        <span id="font-smaller">字體--</span>
+      </div>
     </aside>
     <hr>
     <div class="main-content">{{ content.content }}</div>

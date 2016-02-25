@@ -14,7 +14,6 @@ $link-hover-color: #2445ae;
 * { font-family: $font-stack; }
 
 body {
-  font-size: 20px;
   background-color: #c7edcc;
   color: black;
 }
@@ -75,6 +74,17 @@ a {
       }
     }
     .zh-convert {
+      float: right;
+      margin-right: 3px;
+
+      span {
+        &:hover {cursor: pointer;}
+        padding: 5px 5px;
+        background: $primary-color;
+        border-radius: 4px;
+      }
+    }
+    .font-adjust {
       float: right;
       margin-right: 3px;
 
