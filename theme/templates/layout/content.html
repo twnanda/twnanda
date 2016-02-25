@@ -49,7 +49,7 @@
       {%- if content.github_url -%}
         <div class="edit-on-github"><a href="{{ content.github_url }}">{{ gettext('Edit on Github', DEFAULT_LANG) }}</a></div>
       {%- endif -%}
-      <div id="zh-convert" class="zh-convert" data-zh="tw">简体</div>
+      <div class="zh-convert"><span id="zh-convert" data-zh="tw">简体</span></div>
     </aside>
     <hr>
     <div class="main-content">{{ content.content }}</div>

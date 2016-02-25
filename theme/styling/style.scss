@@ -70,6 +70,17 @@ body {
         border-radius: 4px;
       }
     }
+    .zh-convert {
+      float: right;
+      margin-right: 3px;
+
+      span {
+        &:hover {cursor: pointer;}
+        padding: 5px 5px;
+        background: $primary-color;
+        border-radius: 4px;
+      }
+    }
 
     .available-translations {
       float: left;
@@ -174,14 +185,4 @@ body {
   .fake-h3 {font-size: 1.17em;}
   .fake-h2 {font-size: 1.5em;}
   .fake-h1 {font-size: 2em;}
-}
-
-.zh-convert {
-  &:hover {cursor: pointer;}
-  float: right;
-  margin-right: 3px;
-
-  padding: 5px 5px;
-  background: $primary-color;
-  border-radius: 4px;
 }
