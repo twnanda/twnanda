@@ -34,6 +34,7 @@
 {% block content %}
 <main role="main" class="{{ content_css_class }}">
   <article>
+  {%- if content.title -%}
     <header>
       <h1>
         <a href="{{ SITEURL }}/{{ content.url }}"
@@ -43,6 +44,8 @@
         </a>
       </h1>
     </header>
+  {%- endif -%}
+  {% block index_only %}{% endblock %}
     {% block article_time %}{% endblock %}
     <aside>
       {{- translations_for(content, SITEURL) -}}

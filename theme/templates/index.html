@@ -1,10 +1,9 @@
-{% extends "layout/layout.html" %}
-{% block content %}
-<main role="main" class="article">
-  <article>
-  {% for page in hidden_pages if page.slug == "index" %}
-  <div class="main-content">
+{% set article = (hidden_pages|hidden_pages_get_page_with_slug_index) %}
+{% extends "layout/content.html" %}
+{% set content_css_class = "article" %}
 
+{%- block index_only -%}
+<div class="main-content">
   <div class="picasa-image">
     <div>namo tassa bhagavato arahato sammāsambuddhassa</div>
     <image src="/extra/img/bss.jpg">
@@ -18,23 +17,12 @@
     <image src="/extra/img/buddha.jpg">
     <div>諸惡莫作，眾善奉行，自淨其意，是諸佛教。〔法句經 183 偈頌〕</div>
   </div>
-
-    <hr>
-    <aside>
-      <time datetime="{{ page.modified.isoformat() }}">
-        更新：{{ Buddhist_calendar(page.modified) }}
-      </time>
-    </aside>
-    <aside>
-      {{- translations_for(page, SITEURL) -}}
-      {%- if page.github_url -%}
-        <div class="edit-on-github"><a href="{{ page.github_url }}">{{ gettext('Edit on Github', DEFAULT_LANG) }}</a></div>
-      {%- endif -%}
-      <div class="zh-convert"><span id="zh-convert" data-zh="tw">简体</span></div>
-    </aside>
-  {{ page.content }}
-  </div>
-  {% endfor %}
-  </article>
-</main>
-{% endblock %}
+</div>
+{%- endblock -%}
+{%- block article_time -%}
+<aside>
+  <time datetime="{{ article.modified.isoformat() }}">
+    更新：{{ Buddhist_calendar(article.modified) }}
+  </time>
+</aside>
+{%- endblock -%}
