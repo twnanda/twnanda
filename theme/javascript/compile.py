@@ -3,7 +3,7 @@
 
 # https://developers.google.com/closure/compiler/docs/api-tutorial1
 # https://developers.google.com/closure/compiler/docs/api-tutorial2
-import httplib, urllib, sys
+import httplib, urllib
 
 allJS = ["nanda.js"]
 
