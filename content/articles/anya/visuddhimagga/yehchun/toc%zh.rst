@@ -25,7 +25,7 @@
 
 `第三  說取業處品 <{filename}chap03%zh.rst>`_
 
-第四  說地遍品
+`第四  說地遍品 <{filename}chap04%zh.rst>`_
 
 第五  說餘遍品
 
