@@ -27,7 +27,7 @@
 
 `第四  說地遍品 <{filename}chap04%zh.rst>`_
 
-第五  說餘遍品
+`第五  說餘遍品 <{filename}chap05%zh.rst>`_
 
 第六  說不淨業處品
 
