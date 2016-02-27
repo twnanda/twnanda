@@ -3,7 +3,7 @@
 
 :date: 2015-05-06 23:00
 :modified: 2015-05-22 22:30
-:tags: 大念處經對讀, 念住大經對讀, DN 22 Mahāsatipaṭṭhānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāsatipaṭṭhāna sutta, DN 22, Dn22, dn 22
+:tags: 大念處經對讀, 念住大經對讀, DN 22 Mahāsatipaṭṭhānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāsatipaṭṭhāna sutta, DN 22
 :category: 巴利三藏長部
 :summary: 大念處經(念住大經) 多譯本對讀(段層次),  (DN 22 Mahāsatipaṭṭhānasuttaṃ),  Parallel Reading (paragraph granularity) of Mahāsatipaṭṭhāna sutta,  修行念處的成果, The Advantages of Developing the Ways of Attending to Mindfulness (Satipaṭṭhānabhāvanānisaṁso)
 
@@ -34,8 +34,8 @@
      - `隨觀身 <dn.22.contrast-reading-kaya.html>`__
      - `隨觀受 <dn.22.contrast-reading-vedana.html>`__
      - `隨觀心 <dn.22.contrast-reading-citta.html>`__
-     - `隨觀法 <dn.22.contrast-reading-dhamma.html>`__
-     - `修行念處的成果 <dn.22.contrast-reading-advantages.html>`__
+     - `隨觀法 <{filename}contrast-reading-dhamma%zh.rst>`__
+     - 修行念處的成果
      
    * - 《大念處經》
      - Summary
