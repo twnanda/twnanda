@@ -36,7 +36,7 @@ Availability of English translations (Print:):
 
 - `第三：心品      CITTAVAGGO <{filename}dhp-chap03%zh.rst>`_ (033~043)
 
-- 第四：華品      PUPPHAVAGGO (044~059)
+- `第四：華品      PUPPHAVAGGO <{filename}dhp-chap04%zh.rst>`_ (044~059)
 
 - 第五：愚品      BALAVAGGO (060~075)
 
