@@ -32,7 +32,7 @@ Availability of English translations (Print:):
 
 - `第一：雙品      YAMAKA-VAGGO <{filename}dhp-chap01%zh.rst>`_ (001~020)
 
-- 第二：不放逸品  APPAMADAVAGGO (021~032)
+- `第二：不放逸品  APPAMADAVAGGO <{filename}dhp-chap02%zh.rst>`_ (021~032)
 
 - 第三：心品      CITTAVAGGO (033~043)
 
@@ -101,8 +101,7 @@ Availability of English translations (Print:):
 .. [a] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/Dhammapada.htm>`_
 
 ..
-  04.03: add: 法(尋法) 比丘 譯(白話文版) Zip 壓縮檔; 了參 法師 譯(文言文版)； 明法 比丘 註：HTML； Zip 壓縮檔(309 KB); 
+  04.03: add: 法(尋法) 比丘 譯(白話文版) Zip 壓縮檔; 了參 法師 譯(文言文版)； 明法 比丘 註：HTML； Zip 壓縮檔(309 KB);
               巴利語法句譯註文燦　譯註：RTF(2,789 KB)； Zip 壓縮檔 (247 KB)
   佛曆　2551年 (04.02 2007)  add: (北傳) 法句經 (大正藏第4冊No. 210) and 南北傳《法句經》的對照表
   08.28; 佛曆　2548年 07.03 (2004); http://140.116.94.15/biochem/lsn/Dhamma_study/Dhamma_study.txt
-
