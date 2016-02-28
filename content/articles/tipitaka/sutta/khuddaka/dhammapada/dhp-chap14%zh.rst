@@ -59,9 +59,7 @@ Dhammapada 法句經(第十四：佛陀品)
        Difficult is listening to the True Dharma; hard to come by is the appearance of the Awakened Ones.
 
    * - 183(
-
-       研讀
-
+       `研讀 <{filename}dhp-study183%zh.rst>`__
        )
 
        184

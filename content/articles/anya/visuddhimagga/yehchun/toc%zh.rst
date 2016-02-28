@@ -76,3 +76,5 @@
 參考：
 
 .. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/Visuddhimagga_savr.htm>`_
+
+.. saved from url=(0044)http://crumb.idv.tw/zz/Isagoge/chigi0000.htm

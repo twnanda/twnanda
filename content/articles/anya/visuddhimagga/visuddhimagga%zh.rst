@@ -1,8 +1,8 @@
 清淨道論(Visuddhi Magga - The Path of Purification)
 ###################################################
 
-:date: 2016-02-14T12:24+08:00
-:modified: 2016-02-19T08:43+08:00
+:date: 1999-11-10
+:modified: 2004-07-10
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 清淨道論
@@ -97,6 +97,28 @@
 
 ----
 
+感謝 `法雨道場 <http://www.tt034.org.tw/newrain/>`_
+　明 法　法師(`Email <newrain@ms22.hinet.net>`_)發心促成，提供電子檔，Htmled Editor--Nanda 謹誌！
+
+----
+
+為求資料確實，若有誤植
+請與末學 `聯絡 <mailto:lsn46@mail.ncku.edu.tw>`_ 。
+善哉！善哉！
+
+..
+  h1 center 為求能早日完整掛上網，br
+  徵求法工義務校對；br
+  請與末學 a href="mailto:lsn46@mail.ncku.edu.tw" 聯絡 /a 。br
+  善哉！善哉！ /center /h1
+
+----
+
 參考：
 
 .. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/Visuddhimagga.htm>`_
+
+..
+  07.10(10th); 06.21(9th); 05.01(8th ed.); 04.03. 03.28; 03.07 '04;
+  88('99)/11/10(1st ed.), 89('00)/03/21(2nd ed.), 89('00)/07/08(3rd ed.)
+  90('01)/04/13(4th ed.) 93('04)/02/05(5th ed.);  93('04)/03/28(6th ed.)
