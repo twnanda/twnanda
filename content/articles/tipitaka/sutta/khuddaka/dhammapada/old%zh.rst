@@ -14,7 +14,7 @@
 
 - 英文版
 
-    - Cited from: 佛學數位圖書館暨博物館
+    - Cited from: `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/DLMBS/lesson/pali/lesson_pali3.jsp>`__
 
     - Dhammapada-- A Translation [Translated from the Pali by Thanissaro Bhikkhu (Geoffrey DeGraff)].
 
@@ -30,7 +30,7 @@ Availability of English translations (Print:):
 
 目錄
 
-- 第一：雙品      YAMAKA-VAGGO (001~020)
+- `第一：雙品      YAMAKA-VAGGO <{filename}dhp-chap01%zh.rst>`_ (001~020)
 
 - 第二：不放逸品  APPAMADAVAGGO (021~032)
 
