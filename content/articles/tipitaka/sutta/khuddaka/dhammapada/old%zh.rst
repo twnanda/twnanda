@@ -38,49 +38,49 @@ Availability of English translations (Print:):
 
 - `第四：華品      PUPPHAVAGGO <{filename}dhp-chap04%zh.rst>`_ (044~059)
 
-- 第五：愚品      BALAVAGGO (060~075)
+- `第五：愚品      BALAVAGGO <{filename}dhp-chap05%zh.rst>`_ (060~075)
 
-- 第六：智者品    PANDITAVAGGO (076~089)
+- `第六：智者品    PANDITAVAGGO <{filename}dhp-chap06%zh.rst>`_ (076~089)
 
-- 第七：阿羅漢品  ARAHANTAVAGGO (090~099)
+- `第七：阿羅漢品  ARAHANTAVAGGO <{filename}dhp-chap07%zh.rst>`_ (090~099)
 
-- 第八：千品      SAHASSAVAGGO (100~115)
+- `第八：千品      SAHASSAVAGGO <{filename}dhp-chap08%zh.rst>`_ (100~115)
 
-- 第九：惡品      PAPAVAGGO (116~128)
+- `第九：惡品      PAPAVAGGO <{filename}dhp-chap09%zh.rst>`_ (116~128)
 
-- 第十：刀杖品    DANDAVAGGO (129~145)
+- `第十：刀杖品    DANDAVAGGO <{filename}dhp-chap10%zh.rst>`_ (129~145)
 
-- 第十一：老品      JARAVAGGO (146~156)
+- `第十一：老品      JARAVAGGO <{filename}dhp-chap11%zh.rst>`_ (146~156)
 
-- 第十二：自己品    ATTAVAGGO (157~166)
+- `第十二：自己品    ATTAVAGGO <{filename}dhp-chap12%zh.rst>`_ (157~166)
 
-- 第十三：世品      LOKAVAGGO (167~178)
+- `第十三：世品      LOKAVAGGO <{filename}dhp-chap13%zh.rst>`_ (167~178)
 
-- 第十四：佛陀品    BUDDHAVAGGO (179~196)
+- `第十四：佛陀品    BUDDHAVAGGO <{filename}dhp-chap14%zh.rst>`_ (179~196)
 
-- 第十五：樂品      SUKHAVAGGO (197~208)
+- `第十五：樂品      SUKHAVAGGO <{filename}dhp-chap15%zh.rst>`_ (197~208)
 
-- 第十六：喜愛品    PIYAVAGGO (209~220)
+- `第十六：喜愛品    PIYAVAGGO <{filename}dhp-chap16%zh.rst>`_ (209~220)
 
-- 第十七：忿怒品    KODHAVAGGO (221~234)
+- `第十七：忿怒品    KODHAVAGGO <{filename}dhp-chap17%zh.rst>`_ (221~234)
 
-- 第十八：垢穢品    MALAVAGGO (235~255)
+- `第十八：垢穢品    MALAVAGGO <{filename}dhp-chap18%zh.rst>`_ (235~255)
 
-- 第十九：法住品    DHAMMATTHAVAGGO (256~272)
+- `第十九：法住品    DHAMMATTHAVAGGO <{filename}dhp-chap19%zh.rst>`_ (256~272)
 
-- 第二十：道品      MAGGAVAGGO (273~289)
+- `第二十：道品      MAGGAVAGGO <{filename}dhp-chap20%zh.rst>`_ (273~289)
 
-- 第廿一：雜品      PAKINNAKAVAGGO (290~305)
+- `第廿一：雜品      PAKINNAKAVAGGO <{filename}dhp-chap21%zh.rst>`_ (290~305)
 
-- 第廿二：地獄品    NIRAYAVAGGO (306~319)
+- `第廿二：地獄品    NIRAYAVAGGO <{filename}dhp-chap22%zh.rst>`_ (306~319)
 
-- 第廿三：象品      NAGAVAGGO (320~333)
+- `第廿三：象品      NAGAVAGGO <{filename}dhp-chap23%zh.rst>`_ (320~333)
 
-- 第廿四：愛慾品    TANHAVAGGO (334~359)
+- `第廿四：愛慾品    TANHAVAGGO <{filename}dhp-chap24%zh.rst>`_ (334~359)
 
-- 第廿五：比丘品    BHIKKHUVAGGO (360~382)
+- `第廿五：比丘品    BHIKKHUVAGGO <{filename}dhp-chap25%zh.rst>`_ (360~382)
 
-- 第廿六：波羅門品  BRAHMANAVAGGO (383~423)
+- `第廿六：波羅門品  BRAHMANAVAGGO <{filename}dhp-chap26%zh.rst>`_ (383~423)
 
 ----
 

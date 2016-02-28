@@ -94,9 +94,14 @@ def htmlTable2Rst(filepath, url):
 
 
 if __name__ == '__main__':
-  url = "http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Chap04.htm"
-  filepath = os.path.join("/tmp", os.path.basename(url))
+  for i in range(5, 27):
+    url = "http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Chap{0:02d}.htm".format(i)
+    filepath = os.path.join("/tmp", os.path.basename(url))
+    urllib.urlretrieve(url, filepath)
+    htmlTable2Rst(filepath, url)
+  """
   if os.path.exists(filepath):
     htmlTable2Rst(filepath, url)
   else:
     urllib.urlretrieve(url, filepath)
+  """
