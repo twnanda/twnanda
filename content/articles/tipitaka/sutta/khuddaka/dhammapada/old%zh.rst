@@ -34,7 +34,7 @@ Availability of English translations (Print:):
 
 - `第二：不放逸品  APPAMADAVAGGO <{filename}dhp-chap02%zh.rst>`_ (021~032)
 
-- 第三：心品      CITTAVAGGO (033~043)
+- `第三：心品      CITTAVAGGO <{filename}dhp-chap03%zh.rst>`_ (033~043)
 
 - 第四：華品      PUPPHAVAGGO (044~059)
 
