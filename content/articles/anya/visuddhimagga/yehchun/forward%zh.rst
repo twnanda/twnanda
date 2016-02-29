@@ -1,7 +1,8 @@
 清淨道論-漢譯前言·····葉均
 ##########################
 
-:date: 2016-02-21T08:32+08:00
+:date: 2004-07-10
+:modified: 2004-07-10
 :tags: 清淨道論（葉均）, 藏外文獻
 :category: 清淨道論（葉均）
 :summary: 清淨道論-漢譯前言·····葉均
@@ -32,3 +33,5 @@
 參考：
 
 .. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/translation_savr.htm>`_
+
+.. http://crumb.idv.tw/zz/Isagoge/chigi0100.htm

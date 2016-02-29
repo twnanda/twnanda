@@ -1,7 +1,8 @@
 第四  說地遍品 - 清淨道論（葉均）
 #################################
 
-:date: 2016-02-26T14:38+08:00
+:date: 2004-07-10
+:modified: 2004-07-10
 :tags: 清淨道論（葉均）, 藏外文獻
 :category: 清淨道論（葉均）
 :summary: 第四  說地遍品 - 清淨道論（葉均）
@@ -808,3 +809,5 @@
 參考：
 
 .. [a] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap04_savr.htm>`_
+
+.. saved from url=(0044)http://crumb.idv.tw/zz/Isagoge/chigi0004.htm
