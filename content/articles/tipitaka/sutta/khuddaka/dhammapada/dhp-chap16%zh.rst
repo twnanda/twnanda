@@ -1,8 +1,8 @@
 Dhammapada 法句經(第十六：喜愛品)
-===========================================
+=================================
 
-:date: 2004-04-03
-:modified: 2004-04-03
+:date: 2004-02-28
+:modified: 2005-07-24
 :tags: 法句經, Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine, 法集要頌經, 法句譬喻經, 出曜經, DHP, Dhp
 :category: 巴利三藏小部
 :summary: 法句經, Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine
@@ -137,3 +137,7 @@ Dhammapada 法句經(第十六：喜愛品)
 參考：
 
 .. [a] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Chap16.htm>`_
+
+..
+  07.24 2005
+  04.03; 02.28 2004
