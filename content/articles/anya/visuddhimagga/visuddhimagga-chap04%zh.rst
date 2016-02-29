@@ -1,7 +1,8 @@
 第四 說地遍品 - 清淨道論
 ########################
 
-:date: 2016-02-15T18:25+08:00
+:date: 1999-11-10
+:modified: 2004-06-27
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 第四 說地遍品 -- 清淨道論
@@ -828,3 +829,7 @@
 .. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap04.htm>`_
 
 .. [2] 可參考 `另一版本 <{filename}yehchun/chap04%zh.rst>`_ 。
+
+..
+  06.27(6th); 06.06(5th); 05.30; 04.03; 93('04)/02/05(3rd ed.);
+  88('99)/11/10(1st ed.), 89('00)/03/21(2nd ed.),
