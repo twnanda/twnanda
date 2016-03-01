@@ -8,6 +8,10 @@
 :summary: 清淨道論（葉均）
 
 
+.. raw:: html
+
+  <image src="/extra/img/bss.jpg">
+
 清 淨 道 論
 
 目錄
