@@ -3,6 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-06-20
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap20.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 第二十 說道非道智見清淨品 -- 清淨道論
@@ -395,14 +396,6 @@
 說明：依日文版及前、後文訂正。或—領解「只是諸行而觀…
 
 〔補註20-004〕 說明：1. 前七種參考 [607]~[608]; 2. Chap. XXII, [694]~[695]
-
-----
-
-參考：
-
-.. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap20.htm>`_
-
-.. [2] 可參考另一版本。
 
 ..
   06.20(7th); 04.09(6th); 04.07(5th ed.); 04.04(4th ed.); 93('04)/02/05(3rd ed.);

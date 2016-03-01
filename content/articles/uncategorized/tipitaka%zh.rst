@@ -2,6 +2,7 @@ Tipiṭaka 南傳大藏經 (The Pali Canon)
 ####################################
 
 :date: 2016-02-13T16:05+08:00
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/tipitaka.htm
 :tags: 
 :category: 未分類
 :summary: Tipiṭaka 南傳大藏經 (The Pali Canon)
@@ -80,11 +81,5 @@ Tipiṭaka 南傳大藏經 (The Pali Canon)
 　　約西元前一世紀，始有南傳大藏經之注釋。隨著南傳上座部佛教向東南亞各國傳播， 產生緬甸、泰國等國文字之藏經。一八八一年英國成立巴利聖典協會（ Paali TextSociety），將南傳大藏經及注釋之大部分以羅馬字校訂出版。此外另刊行 英譯本南傳大藏經。日本方面於昭和十年至十六年（1935～1941），由 高楠博士功績記念會將巴利聖典協會出版之巴利三藏翻成日文出版，題為 「南傳大藏經」，全部七十冊，其中含有若干藏外書。藏外之注釋有三藏之直接注 （巴 a.t.thakathaa）、復注（巴 .tiikaa，注之注）、復注之注（巴 anu.tiikaa）； 藏外書則有綱要書、史傳書等。（參閱「大藏經」893） p3748
 
 取材自 `佛光大辭典: 南傳大藏經`_
-
-----
-
-參考：
-
-.. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/tipitaka.htm>`_
 
 .. _佛光大辭典\: 南傳大藏經: http://dictionary.buddhistdoor.com/word/57310/%E5%8D%97%E5%82%B3%E5%A4%A7%E8%97%8F%E7%B6%93

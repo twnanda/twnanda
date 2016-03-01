@@ -3,6 +3,7 @@
 
 :date: 2015-05-05 15:30
 :modified: 2015-05-22 22:30
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Digha/dn.22.contrast-reading-dhamma.html
 :tags: 大念處經對讀, 念住大經對讀, DN 22 Mahāsatipaṭṭhānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāsatipaṭṭhāna sutta, DN 22
 :category: 巴利三藏長部
 :summary: 大念處經(念住大經) 多譯本對讀(段層次),  (DN 22 Mahāsatipaṭṭhānasuttaṃ),  Parallel Reading (paragraph granularity) of Mahāsatipaṭṭhāna sutta,  隨觀法, Contemplation of (the Nature of) Things (Dhammānupassanā)
@@ -2992,13 +2993,6 @@
 .. [BpitFn123] (BurmaPiṭakaA 123) Which will appear if he is not mindful of the five khandhas
 
 .. [BpitFn124] (BurmaPiṭakaA 124) And perceives that they are just Phenomena without any entity or soul
-
-
----------------------------
-
-參考：
-
-.. [a] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Digha/dn.22.contrast-reading-dhamma.html>`_
 
 ..
   <!-- 

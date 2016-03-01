@@ -4,6 +4,7 @@
 
 :date: 2012-04-03 07:00
 :modified: 2015-05-30 18:00
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/maps-MN-Bodhi.html
 :tags: 《中部尼柯耶》閱讀地圖, A Systematic Study of the Majjhima Nikāya--Exploring the Word of the Buddha (BODHI MONASTERY), 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
 :summary: 《中部尼柯耶》閱讀地圖, A Systematic Study of the Majjhima Nikāya--Exploring the Word of the Buddha (BODHI MONASTERY)(菩提尊者)
@@ -1777,9 +1778,3 @@ _`MN 75`\: Māgandiya Sutta中部75摩犍提經，（\ `中阿含153鬚閑提經
 
 | 取材自:\ `菩提比丘：《中部尼柯耶》閱讀地圖 <http://yifertw.blogspot.tw/2014/06/blog-post_7.html>`__ \ （“藏經閣外的掃葉人”網誌--\ `【台語與佛典】, 探討漢譯四阿含與巴利五部尼柯耶的教導，也介紹古漢譯和台語的關聯 <http://yifertw.blogspot.com/>`__, 2014年6月7日, 星期六(修訂版；初版--2011年11月12日, 星期六)）
 |  Original: `A Systematic Study of the Majjhima Nikāya <http://bodhimonastery.org/a-systematic-study-of-the-majjhima-nikaya.html>`__ -- Exploring the Word of the Buddha (`BODHI MONASTERY <http://bodhimonastery.org/>`__)
-
---------------
-
-參考：
-
-.. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/maps-MN-Bodhi.html>`_

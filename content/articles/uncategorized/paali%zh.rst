@@ -2,6 +2,7 @@ Pali Language (Pāli Bhāsā) 巴利語
 #################################
 
 :date: 2016-02-13T16:05+08:00
+:oldurl: http://nanda.online-dhamma.net/Pali/paali.htm
 :tags: 
 :category: 未分類
 :summary: Pali Language (Pāli Bhāsā) 巴利語
@@ -88,11 +89,5 @@ Pali Language (Pāli Bhāsā) 巴利語
     * `Tipitaka.net <http://www.tipitaka.net/pali/>`__ 網路線上課程
 
     * `BuddhaNet <http://www.buddhanet.net/ebooks_s.htm>`__ (PDF 文件檔).
-
-----
-
-參考：
-
-.. [1] `舊網頁 <http://nanda.online-dhamma.net/Pali/paali.htm>`_
 
 .. _佛光大辭典\: 巴利語: http://dictionary.buddhistdoor.com/word/44152/%E5%B7%B4%E5%88%A9%E8%AA%9E

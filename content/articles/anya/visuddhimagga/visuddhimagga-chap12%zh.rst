@@ -3,6 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-07-03
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap12.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 第十二 說神變品 -- 清淨道論
@@ -524,11 +525,7 @@
 
 ----
 
-參考：
-
-.. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap12.htm>`_
-
-.. [2] 可參考另一版本。
+可參考另一版本。
 
 ..
   07.03(6th); 06.19(5th); 06.03(4th); 04.04; 93('04)/02/05(3rd ed.);

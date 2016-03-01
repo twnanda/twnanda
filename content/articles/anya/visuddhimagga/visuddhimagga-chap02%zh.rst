@@ -3,6 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-06-26
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap02.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 第二 說頭陀支品 -- 清淨道論
@@ -558,11 +559,7 @@
 
 ----
 
-參考：
-
-.. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap02.htm>`_
-
-.. [2] 可參考 `另一版本 <{filename}yehchun/chap02%zh.rst>`_ 。
+可參考 `另一版本 <{filename}yehchun/chap02%zh.rst>`_ 。
 
 ..
   06.26(6th); 06.22(5th); 05.30; 93('04)/02/05(3rd ed.)

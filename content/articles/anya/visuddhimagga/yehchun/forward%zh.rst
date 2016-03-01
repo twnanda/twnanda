@@ -3,6 +3,7 @@
 
 :date: 2004-07-10
 :modified: 2004-07-10
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/translation_savr.htm
 :tags: 清淨道論（葉均）, 藏外文獻
 :category: 清淨道論（葉均）
 :summary: 清淨道論-漢譯前言·····葉均
@@ -27,11 +28,5 @@
 這部漢文譯本的完成，其經歷是曲折的。早在一九五三至一九五六年間，我在斯里蘭卡從巴利文學者般若難陀（Pandit P.Pa-bbananda）專研《清淨道論》時，即將每日所學的論文譯為漢文。其漢譯手稿，於一九五七年隨身帶回國內。後因中國佛學院部分同學需要參考，未經修改便謄印一百部，其中錯誤甚多。在一次火災中，所存全部手稿和油印本均被焚燬，化為灰燼。直至一九七八年始從別處找回一部幸存的油印本，方能重新據此而從事校對整理和修改工作，於一九八○年底告成。翻譯這部論著，斯國人民認為是交流中斯文化的部分工作，曾在該國『蘭卡之光報』上詳細地發表過消息。國內一些學者亦重視此事。不過由於個人才疏學淺，在譯文上錯誤之處實所難免，希望讀者指正。
 
 譯  者
-
-----
-
-參考：
-
-.. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/translation_savr.htm>`_
 
 .. http://crumb.idv.tw/zz/Isagoge/chigi0100.htm

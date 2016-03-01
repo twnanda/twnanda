@@ -2,6 +2,7 @@
 ########
 
 :date: 2016-02-13T16:05+08:00
+:oldurl: http://nanda.online-dhamma.net/canon-selected.html
 :tags: 
 :category: 未分類
 :summary: 經文選讀
@@ -26,9 +27,3 @@
 - 《攝阿毗達摩義論》（南傳上座部佛教重要著作！）
 
 - 小部經典選譯
-
-----
-
-參考：
-
-.. [1] `舊網頁 <http://nanda.online-dhamma.net/canon-selected.html>`_

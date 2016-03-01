@@ -3,6 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-06-20
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap19.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 第十九 說度疑清淨品 -- 清淨道論
@@ -160,14 +161,6 @@
 〔補註19-001〕 說明：本品可參考《原始佛典選譯》( 顧法嚴 譯, 慧炬出版), Pp.100 ~ 110。
 
 〔補註19-002〕 說明：日文版--入息者；巴利語 laddhassaaso 安穩、自信的; 英文版— When a man practising in sight has become possesed of this knowledge, he has found comfort in the Buddhas' Dispensation (laddhassaaso), he has found a foothold, he is certain of his destiny, he is called a 'Lesser Stream-enterer'. (cuu.lasotaapamma) 參見《如實知見》(Ven. Pa-Auk), Pp.137.
-
-----
-
-參考：
-
-.. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap19.htm>`_
-
-.. [2] 可參考另一版本。
 
 ..
   06.20(7th); 04.09(6th); 04.07(5th ed.); 04.04(4th ed.); 93('04)/02/05(3rd ed.);

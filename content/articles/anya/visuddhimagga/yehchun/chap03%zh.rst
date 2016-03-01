@@ -3,6 +3,7 @@
 
 :date: 2004-07-10
 :modified: 2004-07-10
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap03_savr.htm
 :tags: 清淨道論（葉均）, 藏外文獻
 :category: 清淨道論（葉均）
 :summary: 第三  說取業處品 - 清淨道論（葉均）
@@ -448,11 +449,5 @@
 .. [56]      《羅睺羅經》（Rahula-sutta）M.I,p.424,《中部》六二經。
 
 .. [57]      七業處（satta kammatthanani）慈、悲、喜、捨、不淨、無常想、入出息隨念。
-
-----
-
-參考：
-
-.. [a] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap03_savr.htm>`_
 
 .. saved from url=(0044)http://crumb.idv.tw/zz/Isagoge/chigi0003.htm

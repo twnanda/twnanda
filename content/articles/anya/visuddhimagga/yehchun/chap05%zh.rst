@@ -3,6 +3,7 @@
 
 :date: 2004-07-10
 :modified: 2004-07-10
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap05_savr.htm
 :tags: 清淨道論（葉均）, 藏外文獻
 :category: 清淨道論（葉均）
 :summary: 第五  說餘遍品 - 清淨道論（葉均）
@@ -161,11 +162,5 @@
 .. [16] A.I,122f；III,436.cf.S.III,225；Vibh.341.
 
 .. [17] 由無因、二因而結生，參考第十四品。
-
-----
-
-參考：
-
-.. [a] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap05_savr.htm>`_
 
 .. saved from http://crumb.idv.tw/zz/Isagoge/chigi0005.htm

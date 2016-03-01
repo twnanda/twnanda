@@ -3,6 +3,7 @@
 
 :date: 2004-07-10
 :modified: 2004-07-10
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap01_savr.htm
 :tags: 清淨道論（葉均）, 藏外文獻
 :category: 清淨道論（葉均）
 :summary: 第一  說戒品 - 清淨道論（葉均）
@@ -1078,11 +1079,5 @@
 .. [128]  掘（khatam）底本chatam誤。
 
 .. [129]  戒的解釋（Silaniddeso），譯者把品題寫作「第一說戒品」，直譯應作「第一品戒的解釋」（Pathamo paricchedo Silaniddeso），下面各品題都是這樣。
-
-----
-
-參考：
-
-.. [a] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap01_savr.htm>`_
 
 .. saved from url=(0044)http://crumb.idv.tw/zz/Isagoge/chigi0001.htm

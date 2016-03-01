@@ -3,6 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-06-05
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap01.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 第一　說戒品 -- 清淨道論
@@ -928,11 +929,7 @@ somanassa’ 舊譯為喜。在中譯的五十二心所當中，「喜」這一�
 
 ----
 
-參考：
-
-.. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap01.htm>`_
-
-.. [2] 可參考 `另一版本 <{filename}yehchun/chap01%zh.rst>`_ 。
+可參考 `另一版本 <{filename}yehchun/chap01%zh.rst>`_ 。
 
 .. _佛光大辭典\: 一尋: http://dictionary.buddhistdoor.com/word/31111/%E4%B8%80%E5%B0%8B
 

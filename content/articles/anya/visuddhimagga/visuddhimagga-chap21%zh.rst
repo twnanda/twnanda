@@ -3,6 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-06-21
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap21.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 第二十一　說行道智見清淨品 -- 清淨道論
@@ -560,14 +561,6 @@ And here (1.a.) what is terror is certainly (2.a.) suffering and what is sufferi
 〔補註21-009〕 說明：'Abhidhammaarataara' Pp. 124.
 
 〔補註21-010〕 說明：M.III, p.220 & p.43; (Sa.laayatana-vibha'nga Sutta)
-
-----
-
-參考：
-
-.. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap21.htm>`_
-
-.. [2] 可參考另一版本。
 
 ..
   06.21(6th); 04.08(5th ed.); 04.04(4th ed.); 93('04)/02/05(3rd ed.);

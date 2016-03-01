@@ -3,6 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-07-10
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/Visuddhimagga.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 清淨道論
@@ -103,7 +104,7 @@
 ----
 
 為求資料確實，若有誤植
-請與末學 `聯絡 <mailto:lsn46@mail.ncku.edu.tw>`_ 。
+請與末學 `聯絡 <mailto:tw.nanda@gmail.com>`_ 。
 善哉！善哉！
 
 ..
@@ -111,12 +112,6 @@
   徵求法工義務校對；br
   請與末學 a href="mailto:lsn46@mail.ncku.edu.tw" 聯絡 /a 。br
   善哉！善哉！ /center /h1
-
-----
-
-參考：
-
-.. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/Visuddhimagga.htm>`_
 
 ..
   07.10(10th); 06.21(9th); 05.01(8th ed.); 04.03. 03.28; 03.07 '04;

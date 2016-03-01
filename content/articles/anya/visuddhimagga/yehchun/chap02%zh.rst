@@ -3,6 +3,7 @@
 
 :date: 2004-07-10
 :modified: 2004-07-10
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap02_savr.htm
 :tags: 清淨道論（葉均）, 藏外文獻
 :category: 清淨道論（葉均）
 :summary: 第二  說頭陀支品 - 清淨道論（葉均）
@@ -605,11 +606,5 @@
 .. [59]      cf.Theragatha 982.
 
 .. [60]      原文idam-atthita英譯「為求此等法」。注說以此等善為滿足之意。這是一種智，比丘有此智，才能得諸頭陀支之德，故今譯為「求德」。
-
-----
-
-參考：
-
-.. [a] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap02_savr.htm>`_
 
 .. saved from url=(0044)http://crumb.idv.tw/zz/Isagoge/chigi0002.htm

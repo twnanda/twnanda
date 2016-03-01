@@ -3,6 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-06-20
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap16.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 第十六 說根諦品 -- 清淨道論
@@ -607,14 +608,6 @@ dukkha.m ('badness'): suffering, pain, because of vileness and emptiness
 〔補註16-008〕 說明：原紙本校注置於上一段之末,今對照前後文之後,推測應置於此.
 
 〔補註16-009〕 說明：此段可參見《原始佛典選譯》( 顧法嚴 譯, 慧炬出版), Pp.76
-
-----
-
-參考：
-
-.. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap16.htm>`_
-
-.. [2] 可參考另一版本。
 
 ..
   06.20(7th); 04.10(6th); 04/07(5th ed.); 04.04(4th ed.); 93('04)/02/05(3rd ed.); 88('99)/11/10(1st ed.), 89('00)/03/21(2nd ed.),

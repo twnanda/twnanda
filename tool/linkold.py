@@ -2,6 +2,9 @@
 # -*- coding:utf-8 -*-
 
 import os
+import re
+
+oldlink = re.compile('<http.+>')
 
 def processFile(path):
   print("process " + path + " ...")
@@ -9,13 +12,25 @@ def processFile(path):
   with open(path, "r") as f, open(tmpfilepath, "w") as fo:
     # http://www.tutorialspoint.com/python/file_readlines.htm
     lines = f.readlines()
-    for line in lines:
+    insertAt = 0
+    oldurl = ""
+    for index, line in enumerate(lines):
+      if ":tags:" in line:
+        insertAt = index
       if "舊網頁" in line:
-        print(line)
-      else:
-        fo.write(line)
+        result = oldlink.findall(line)
+        oldurl = result[0][1:-1]
 
-  print(tmpfilepath)
+    assert insertAt != 0
+    assert oldurl != ""
+    # http://www.tutorialspoint.com/python/list_insert.htm
+    # http://stackoverflow.com/questions/10507230/insert-line-at-middle-of-file-with-python
+    # http://stackoverflow.com/questions/11968998/remove-lines-that-contain-certain-string
+    lines.insert(insertAt, ":oldurl: " + oldurl + "\n")
+    fo.writelines(lines)
+
+  with open(tmpfilepath, "r") as f, open(path, "w") as fo:
+    fo.write(f.read())
 
 
 def processDir(rootDir):
@@ -24,7 +39,6 @@ def processDir(rootDir):
     for name in files:
       path = os.path.join(root, name)
       processFile(path)
-      return
 
 
 if __name__ == '__main__':

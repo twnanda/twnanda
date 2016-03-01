@@ -3,6 +3,7 @@
 
 :date: 2004-07-10
 :modified: 2004-07-10
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap04_savr.htm
 :tags: 清淨道論（葉均）, 藏外文獻
 :category: 清淨道論（葉均）
 :summary: 第四  說地遍品 - 清淨道論（葉均）
@@ -803,11 +804,5 @@
 .. [118]  「不苦不樂」（adukkhamasukha），在《解脫道論》中的解說為：「不苦不樂受者，意不攝受，心不棄捨，此謂不苦不樂受。不苦不樂受者，何相、何味、何起、何處？中間為相，住中為味，除是起，喜滅是處」。
 
 .. [119]  Vibh.p.261.
-
-----
-
-參考：
-
-.. [a] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap04_savr.htm>`_
 
 .. saved from url=(0044)http://crumb.idv.tw/zz/Isagoge/chigi0004.htm

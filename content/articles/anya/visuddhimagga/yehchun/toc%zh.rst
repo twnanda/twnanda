@@ -3,13 +3,11 @@
 
 :date: 2004-07-10
 :modified: 2004-07-10
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/Visuddhimagga_savr.htm
 :tags: 清淨道論（葉均）, 藏外文獻
 :category: 清淨道論（葉均）
 :summary: 清淨道論（葉均）
 
-
-.. image:: /extra/img/bswabud.jpg
-   :alt: image
 
 清 淨 道 論
 
@@ -74,11 +72,5 @@
 斯里蘭卡佛教史年表
 
 漢巴名詞索引
-
-----
-
-參考：
-
-.. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/Visuddhimagga_savr.htm>`_
 
 .. saved from url=(0044)http://crumb.idv.tw/zz/Isagoge/chigi0000.htm

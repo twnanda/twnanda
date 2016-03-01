@@ -3,6 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-06-20
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap18.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 第十八品 說見清淨品 -- 清淨道論
@@ -215,14 +216,6 @@
 〔補註18-004〕 說明：以下三段可參見《原始佛典選譯》( 顧法嚴 譯, 慧炬出版), Pp.73
 
 〔補註18-005〕 說明：以上三段可參見《原始佛典選譯》( 顧法嚴 譯, 慧炬出版), Pp.73
-
-----
-
-參考：
-
-.. [1] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap18.htm>`_
-
-.. [2] 可參考另一版本。
 
 ..
   06.20(7th); 04.09(6th ed.); 04.07(5th) ed.); 04.04(4th); 93('04)/02/05(3rd ed.);

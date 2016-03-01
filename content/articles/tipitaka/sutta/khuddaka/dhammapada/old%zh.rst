@@ -3,6 +3,7 @@
 
 :date: 2004-07-03
 :modified: 2007-04-03
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/Dhammapada.htm
 :tags: 法句經, Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine, 法集要頌經, 法句譬喻經, 出曜經, DHP, Dhp
 :category: 巴利三藏小部
 :summary: 法句經, Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine
@@ -93,12 +94,6 @@ Availability of English translations (Print:):
 - 南北傳《法句經》的對照表[The comparative catalog of Dhammapada (Pali) & Dharmapada (Chinese)]： ZIP -- 35 KB; doc -- 376 KB
 
 - (北傳) 法句經 (大正藏第4冊No. 210)： ZIP -- 75 KB; doc -- 258 KB{【經文編碼及註腳】-- 法雨道場2006.8.}
-
-----
-
-參考：
-
-.. [a] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/Dhammapada.htm>`_
 
 ..
   04.03: add: 法(尋法) 比丘 譯(白話文版) Zip 壓縮檔; 了參 法師 譯(文言文版)； 明法 比丘 註：HTML； Zip 壓縮檔(309 KB);

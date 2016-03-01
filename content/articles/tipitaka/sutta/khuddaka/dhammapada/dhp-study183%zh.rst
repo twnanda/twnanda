@@ -3,6 +3,7 @@
 
 :date: 2004-03-07
 :modified: 2004-03-07
+:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Study183.htm
 :tags: 法句經, Dhammapada
 :category: 巴利三藏小部
 :summary: 法句經研讀第 183 偈頌
@@ -61,9 +62,3 @@
        之 Dhammapada 。
 
 .. [9] 吳．天竺．沙門．維祇難等譯（吳．黃武三年 224 AD）《大正藏第四冊》
-
-----
-
-參考：
-
-.. [a] `舊網頁 <http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Study183.htm>`_
