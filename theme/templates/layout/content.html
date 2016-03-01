@@ -52,6 +52,9 @@
       {%- if content.github_url -%}
         <div class="edit-on-github"><a href="{{ content.github_url }}">GitHub</a></div>
       {%- endif -%}
+      {%- if content.oldurl -%}
+        <div class="old-url"><a href="{{ content.oldurl }}">Old</a></div>
+      {%- endif -%}
       <div class="zh-convert"><span id="zh-convert" data-zh="tw">简体</span></div>
       <div class="font-adjust">
         <span id="font-larger">字+</span>
