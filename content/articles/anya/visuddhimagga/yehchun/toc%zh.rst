@@ -31,7 +31,7 @@
 
 `第五  說餘遍品 <{filename}chap05%zh.rst>`_
 
-第六  說不淨業處品
+`第六  說不淨業處品 <{filename}chap06%zh.rst>`_
 
 第七  說六隨念品
 
