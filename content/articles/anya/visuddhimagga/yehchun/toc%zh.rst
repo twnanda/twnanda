@@ -33,7 +33,7 @@
 
 `第六  說不淨業處品 <{filename}chap06%zh.rst>`_
 
-第七  說六隨念品
+`第七  說六隨念品 <{filename}chap07%zh.rst>`_
 
 第八  說隨念業處品
 
