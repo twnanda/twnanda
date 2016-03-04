@@ -35,7 +35,7 @@
 
 `第七  說六隨念品 <{filename}chap07%zh.rst>`_
 
-第八  說隨念業處品
+`第八  說隨念業處品 <{filename}chap08%zh.rst>`_
 
 第九  說梵住品
 
