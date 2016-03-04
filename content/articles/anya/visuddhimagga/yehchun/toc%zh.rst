@@ -21,23 +21,23 @@
 
 序論
 
-`第一  說戒品 <{filename}chap01%zh.rst>`_
+第一  `說戒品 <{filename}chap01%zh.rst>`_
 
-`第二  說頭陀支品 <{filename}chap02%zh.rst>`_
+第二  `說頭陀支品 <{filename}chap02%zh.rst>`_
 
-`第三  說取業處品 <{filename}chap03%zh.rst>`_
+第三  `說取業處品 <{filename}chap03%zh.rst>`_
 
-`第四  說地遍品 <{filename}chap04%zh.rst>`_
+第四  `說地遍品 <{filename}chap04%zh.rst>`_
 
-`第五  說餘遍品 <{filename}chap05%zh.rst>`_
+第五  `說餘遍品 <{filename}chap05%zh.rst>`_
 
-`第六  說不淨業處品 <{filename}chap06%zh.rst>`_
+第六  `說不淨業處品 <{filename}chap06%zh.rst>`_
 
-`第七  說六隨念品 <{filename}chap07%zh.rst>`_
+第七  `說六隨念品 <{filename}chap07%zh.rst>`_
 
-`第八  說隨念業處品 <{filename}chap08%zh.rst>`_
+第八  `說隨念業處品 <{filename}chap08%zh.rst>`_
 
-第九  說梵住品
+第九  `說梵住品 <{filename}chap09%zh.rst>`_
 
 第十  說無色品
 

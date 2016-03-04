@@ -1,5 +1,5 @@
-大念處經(念住大經) 多譯本對讀(段層次),  (DN 22 Mahāsatipaṭṭhānasuttaṃ),  Parallel Reading (paragraph granularity) of Mahāsatipaṭṭhāna sutta, 隨觀法, Contemplation of (the Nature of) Things (Dhammānupassanā)
-==============================================================================================================================================================================================================
+隨觀法 - 大念處經
+=================
 
 :date: 2015-05-05 15:30
 :modified: 2015-05-22 22:30
@@ -8,7 +8,6 @@
 :category: 巴利三藏長部
 :summary: 大念處經(念住大經) 多譯本對讀(段層次),  (DN 22 Mahāsatipaṭṭhānasuttaṃ),  Parallel Reading (paragraph granularity) of Mahāsatipaṭṭhāna sutta,  隨觀法, Contemplation of (the Nature of) Things (Dhammānupassanā)
 
---------------
 
 | 本對讀包含下列數個版本：
 | 巴利原典 (CSCD)\ [1]_ \、漢譯(莊春江 譯, 莊春江工作站)\ [2]_ \、

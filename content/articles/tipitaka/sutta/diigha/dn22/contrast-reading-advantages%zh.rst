@@ -1,5 +1,5 @@
-大念處經(念住大經) 多譯本對讀(段層次),  (DN 22 Mahāsatipaṭṭhānasuttaṃ),  Parallel Reading (paragraph granularity) of Mahāsatipaṭṭhāna sutta,  修行念處的成果, The Advantages of Developing the Ways of Attending to Mindfulness (Satipaṭṭhānabhāvanānisaṁso)
-=============================================================================================================================================================================================================================================================
+修行念處的成果 - 大念處經
+=========================
 
 :date: 2015-05-06 23:00
 :modified: 2015-05-22 22:30
@@ -16,7 +16,7 @@
 | 英譯(Translated from the Pali by Burma Piṭaka Association) [7]_ 、英譯(Translated from the Pali by Ven. Thanissaro Bhikkhu) [8]_ 、
 | 英譯(Translated from the Pali by Ven. Bhikkhu Anālayo) [9]_ 、漢譯(香光書鄉編譯組，無著尊者 著) [10]_
 
---------------------------------------
+----
 
 .. list-table:: 《大念處經》多譯本對讀(分章及整部) Content of Mahāsatipaṭṭhānasuttaṃ
    :widths: 14 14 14 14 14 14 14
