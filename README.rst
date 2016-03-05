@@ -96,13 +96,15 @@
   $ git add ...
   # 確認修改
   $ git commit -m "..."
+  # 整合別人的修改
+  $ git pull
   # 上傳修改到GitHub
   $ git push
   # 接著git會問帳號密碼，請輸入你的帳號密碼
 
 
-How to Develope
-===============
+How to Develope (Ubuntu Linux)
+==============================
 
 .. See how to add travis ci image from https://raw.githubusercontent.com/demizer/go-rst/master/README.rst
    https://github.com/demizer/go-rst/commit/9651ab7b5acc997ea2751845af9f2d6efee825df
@@ -115,7 +117,7 @@ Development Environment: `Ubuntu 15.10 <http://releases.ubuntu.com/15.10/>`_
 First-time Setup
 ----------------
 
-1. Install `git <http://git-scm.com/>`_ and `pip <https://pypi.python.org/pypi/pip>`_:
+1. Install git_ and pip_:
 
 .. code-block:: bash
 
