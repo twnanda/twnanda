@@ -18,8 +18,8 @@
 
 - `經文選讀 <{filename}/articles/uncategorized/canon-selected%zh.rst>`_
 
-  * (南傳)法句經 / `舊版 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/old%zh.rst>`__
-  * `《中部》經典閱讀地圖 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst>`_
+  * (南傳) / `法句經 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp%zh.rst>`__ (`標籤為法句經之文章 <{tag}法句經>`_)
+  * `《中部》經典閱讀地圖 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst>`_ 
   * 小部經典選譯
   * `《清淨道論》 <{filename}/articles/anya/visuddhimagga/visuddhimagga%zh.rst>`_ 等等。
 
