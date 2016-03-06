@@ -39,7 +39,7 @@
 
 第九  `說梵住品 <{filename}chap09%zh.rst>`_
 
-第十  說無色品
+第十  `說無色品 <{filename}chap10%zh.rst>`_
 
 第十一  說定品
 
