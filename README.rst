@@ -90,7 +90,12 @@
 .. code-block:: bash
 
   $ cd /cygdrive/d/github/twnanda
-  # 觀看修改
+  $ make
+  # 此時打開瀏覽器(chrome, firefox, ...)，拜訪網址：
+  # http://localhost:8000/
+  # 確認是否正確。
+
+  # 觀看還未加入的修改
   $ git status
   # 加入修改
   $ git add ...
