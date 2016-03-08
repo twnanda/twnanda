@@ -43,7 +43,7 @@
 
 第十一  `說定品 <{filename}chap11%zh.rst>`_
 
-第十二  說神變品
+第十二  `說神變品 <{filename}chap12%zh.rst>`_
 
 第十三  說神通品
 
