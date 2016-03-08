@@ -45,7 +45,7 @@
 
 第十二  `說神變品 <{filename}chap12%zh.rst>`_
 
-第十三  說神通品
+第十三  `說神通品 <{filename}chap13%zh.rst>`_
 
 第十四  說蘊品
 
