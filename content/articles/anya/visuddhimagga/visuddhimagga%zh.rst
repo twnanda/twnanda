@@ -6,7 +6,7 @@
 :oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/Visuddhimagga.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
-:summary: 清淨道論
+:summary: 清淨道論(Visuddhi Magga - The Path of Purification)
 
 
 目　次
@@ -15,9 +15,9 @@
 
 - `解脫道論與清淨道論的比較研究 <{filename}comparison-vimutti-magga%zh.rst>`_
 
-- 譯者簡介
+- `譯者簡介 <{filename}translator-intro%zh.rst>`_
 
-- 小引（華宇版出版前言）
+- `小引（華宇版出版前言） <{filename}preface-universal-publication%zh.rst>`_
 
 - 漢譯前言
 
