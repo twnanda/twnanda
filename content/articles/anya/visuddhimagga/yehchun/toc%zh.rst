@@ -13,9 +13,9 @@
 
 目錄
 
-`漢譯前言·····葉均 <{filename}forward%zh.rst>`_
+`漢譯前言 <{filename}forward%zh.rst>`_ ·····葉均
 
-校訂序·····釋本寂
+`校訂序 <{filename}../proved-savr%zh.rst>`_ ·····釋本寂
 
 凡例
 

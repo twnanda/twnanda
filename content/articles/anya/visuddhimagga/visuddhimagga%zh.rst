@@ -21,7 +21,7 @@
 
 - `漢譯前言 <{filename}translation-forward%zh.rst>`_
 
-- 校訂序·····釋本寂 `（正覺學會版） <#sambuddha>`_
+- `校訂序 <{filename}proved-savr%zh.rst>`_ ·····釋本寂 `（正覺學會版） <#sambuddha>`_
 
 - 凡　　例
 
