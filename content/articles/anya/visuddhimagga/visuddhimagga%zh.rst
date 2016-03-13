@@ -19,7 +19,7 @@
 
 - `小引（華宇版出版前言） <{filename}preface-universal-publication%zh.rst>`_
 
-- 漢譯前言
+- `漢譯前言 <{filename}translation-forward%zh.rst>`_
 
 - 校訂序·····釋本寂（正覺學會版）
 
