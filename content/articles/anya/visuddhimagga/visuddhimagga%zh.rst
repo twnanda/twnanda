@@ -23,7 +23,7 @@
 
 - `校訂序 <{filename}proved-savr%zh.rst>`_ ·····釋本寂 `（正覺學會版） <#sambuddha>`_
 
-- 凡　　例
+- `凡　　例 <{filename}notification%zh.rst>`_
 
 - 紙本目錄
 
