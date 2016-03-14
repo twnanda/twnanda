@@ -75,7 +75,7 @@
 
 - `第二十三　說修慧的功德品 <{filename}visuddhimagga-chap23%zh.rst>`_
 
-- 結論
+- `結論 <{filename}conclusion-vimutti-magga%zh.rst>`_
 
 - 斯里蘭卡佛教史年表
 

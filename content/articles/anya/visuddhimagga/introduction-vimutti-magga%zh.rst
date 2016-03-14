@@ -6,7 +6,7 @@
 :oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/Introduction.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
-:summary: 清淨道論－－序　　論
+:summary: 清淨道論－－序　　論 (Introduction --Visuddhi Magga)
 
 
 .. container:: align-center
