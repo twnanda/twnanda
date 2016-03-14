@@ -27,7 +27,7 @@
 
 - `紙本目錄 <{filename}paper-content%zh.rst>`_
 
-- 序　　論
+- `序　　論 <{filename}introduction-vimutti-magga%zh.rst>`_
 
 - `第一　說戒品 <{filename}visuddhimagga-chap01%zh.rst>`_
 
