@@ -69,7 +69,7 @@
 
 結論
 
-斯里蘭卡佛教史年表
+`斯里蘭卡佛教史年表 <{filename}../buddhist-history-srilanka%zh.rst>`_
 
 漢巴名詞索引
 
