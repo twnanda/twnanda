@@ -108,6 +108,55 @@
   # 接著git會問帳號密碼，請輸入你的帳號密碼
 
 
+=================================
+Cygwin installation & Run Cygwin
+=================================
+
+1. | cygwin installation
+   | necessary package: Devel, Python
+2. python -V
+3. devel -V
+4. git -- version
+5. easy-install-2.7 pip
+6. cd d:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. | click cygwin icon
+   |  (cygwin window)
+
+2.  cd /cygdrive/d/github/twnanda
+
+3. make
+
+4. open chrome (or firefox, ..., )
+
+5. url: http://localhost:8000
+
+6. make
+
+   | make serve
+   | (if no update)
+   |
+
+7. | git status
+   | (red on file not added yet)
+   |
+
+8. | git add dir/file
+   | (e.g. content/articles/tipitaka/sutta/khuddaka/dhammapada)
+
+9. git status
+
+10. | git commit -m ""
+    | "remark what is added, changed, etc."
+
+11. git status
+
+12. | git push
+    | upload github server
+
+
 How to Develope (Ubuntu Linux)
 ==============================
 
