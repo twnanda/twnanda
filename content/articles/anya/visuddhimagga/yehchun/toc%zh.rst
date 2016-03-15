@@ -71,6 +71,6 @@
 
 `斯里蘭卡佛教史年表 <{filename}../buddhist-history-srilanka%zh.rst>`_
 
-漢巴名詞索引
+`漢巴名詞索引 <{filename}../index-han-pali%zh.rst>`_
 
 .. saved from url=(0044)http://crumb.idv.tw/zz/Isagoge/chigi0000.htm
