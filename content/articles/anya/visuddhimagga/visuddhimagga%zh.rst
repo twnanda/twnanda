@@ -11,7 +11,7 @@
 
 目　次
 
-- `出版前言 <{filename}preface%zh.rst>`_ (中華佛教百科文獻基金會版)
+- `出版前言 <{filename}preface%zh.rst>`_ (`中華佛教百科 <{filename}/articles/buddhist-encyclo/chinese-buddhist-encyclopaedia%zh.rst>`_ 文獻基金會版)
 
 - `解脫道論與清淨道論的比較研究 <{filename}comparison-vimutti-magga%zh.rst>`_
 
