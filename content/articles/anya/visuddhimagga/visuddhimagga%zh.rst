@@ -83,7 +83,7 @@
 
   * 加註： `止之概要分析表。 <{filename}samatha-table%zh.rst>`_
 
-  * 加註：觀之概要分析表。
+  * 加註： `觀之概要分析表。 <{filename}vipassana-table%zh.rst>`_
 
 ----
 
