@@ -69,7 +69,7 @@
 
 第二十三  `說修慧的功德品 <{filename}chap23%zh.rst>`_
 
-結論
+`結論 <{filename}conclusion-savr%zh.rst>`_
 
 `斯里蘭卡佛教史年表 <{filename}../buddhist-history-srilanka%zh.rst>`_
 
