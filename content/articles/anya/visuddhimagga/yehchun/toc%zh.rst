@@ -8,16 +8,18 @@
 :category: 清淨道論（葉均）
 :summary: 清淨道論（葉均）
 
+.. container:: align-center
 
-清 淨 道 論
+  清 淨 道 論
 
-目錄
+  目錄
+
 
 `漢譯前言 <{filename}forward%zh.rst>`_ ·····葉均
 
 `校訂序 <{filename}../proved-savr%zh.rst>`_ ·····釋本寂
 
-凡例
+`凡例 <{filename}notification-savr%zh.rst>`_
 
 序論
 
