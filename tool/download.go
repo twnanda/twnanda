@@ -1,8 +1,6 @@
 package main
 
 import (
-	//	"github.com/PuerkitoBio/goquery"
-	//	iconv "github.com/djimenez/iconv-go"
 	"flag"
 	"fmt"
 	"io"

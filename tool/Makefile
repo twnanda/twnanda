@@ -7,6 +7,7 @@ URL=http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Story0
 default:
 	@echo "\033[92mProcessing ${URL}...\033[0m"
 	@go run download.go -url=${URL}
+	@go run big5ToUTF8.go -input=$(notdir ${URL}) -output=/tmp/utf8-$(notdir ${URL})
 
 fmt:
 	@echo "\033[92mGo fmt source code...\033[0m"
