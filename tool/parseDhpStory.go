@@ -19,9 +19,8 @@ func processHTML(path string) {
 		panic(err)
 	}
 
-	title := doc.Find("title")
-	text, _ := title.Html()
-	fmt.Println(text)
+	title := doc.Find("title").Text()
+	fmt.Println(title)
 }
 
 func main() {
