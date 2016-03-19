@@ -1,12 +1,12 @@
-尊者的足跡
-==========
+護眼尊者的故事
+==============
 
 :date: 2004-03-07
 :modified: 2005-07-31
 :oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Story001.htm
 :tags: 法句經, 法句經故事集
 :category: 法句經故事集
-:summary: 尊者的足跡 - 法句經故事集
+:summary: 護眼尊者的故事 - 尊者的足跡 - 法句經故事集
 
 
 .. container:: align-center
