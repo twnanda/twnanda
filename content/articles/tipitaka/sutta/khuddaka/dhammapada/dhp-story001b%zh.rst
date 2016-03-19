@@ -4,6 +4,7 @@
 :date: 2004-03-07
 :modified: 2004-03-07
 :oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Story001b.htm
+:author: 護法法師
 :tags: 法句經, 法句經故事集, 尊者的足跡－南傳法句經的故事。
 :category: 尊者的足跡－南傳法句經的故事。
 :summary: 俄丁納布柏各的故事 - 尊者的足跡－南傳法句經的故事。
