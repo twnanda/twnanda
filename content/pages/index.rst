@@ -3,6 +3,35 @@
 :lang: zh
 :status: hidden
 
+.. container:: index-page-image
+
+  namo tassa bhagavato arahato sammāsambuddhassa
+
+  .. image:: {filename}/extra/img/bss.jpg
+     :alt: 佛陀
+
+.. container:: index-page-image
+
+  皈敬世尊、阿羅漢、正等正覺者
+
+  .. image:: {filename}/extra/img/Buddha2.jpg
+     :alt: 佛陀
+
+.. container:: align-center
+
+   **歡迎光臨**
+
+   **府城佛教網**
+
+.. container:: index-page-image
+
+  .. image:: {filename}/extra/img/buddha.jpg
+     :alt: 佛陀
+
+  諸惡莫作，眾善奉行，自淨其意，是諸佛教。
+  〔 `法句經 183 偈頌 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-study183%zh.rst>`_ 〕
+
+----
 
 - 府城地區寺院、道場、學佛社團
 
