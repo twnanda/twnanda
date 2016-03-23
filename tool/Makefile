@@ -2,11 +2,11 @@ export GOROOT=$(realpath ../../go)
 export GOPATH=$(realpath .)
 export PATH := $(GOROOT)/bin:$(GOPATH)/bin:$(PATH)
 
-URL=http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Story016.htm
+URL=http://nanda.online-dhamma.net/Tipitaka/Sutta/Digha/dn.16-SiuSK.html
 UTF8HTML=/tmp/utf8-$(notdir ${URL})
 
 parse:
-	@go run parseDhpStory.go -input=${UTF8HTML}
+	@go run parseSiuSK.go -input=tmp.txt -output=out.txt
 
 default:
 	@echo "\033[92mProcessing ${URL}...\033[0m"
