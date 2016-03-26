@@ -8,16 +8,18 @@
 :category: 清淨道論（葉均）
 :summary: 清淨道論（葉均）
 
+.. container:: align-center
 
-清 淨 道 論
+  清 淨 道 論
 
-目錄
+  目錄
 
-`漢譯前言·····葉均 <{filename}forward%zh.rst>`_
 
-校訂序·····釋本寂
+`漢譯前言 <{filename}forward%zh.rst>`_ ·····葉均
 
-凡例
+`校訂序 <{filename}../proved-savr%zh.rst>`_ ·····釋本寂
+
+`凡例 <{filename}notification-savr%zh.rst>`_
 
 序論
 
@@ -39,17 +41,17 @@
 
 第九  `說梵住品 <{filename}chap09%zh.rst>`_
 
-第十  說無色品
+第十  `說無色品 <{filename}chap10%zh.rst>`_
 
-第十一  說定品
+第十一  `說定品 <{filename}chap11%zh.rst>`_
 
-第十二  說神變品
+第十二  `說神變品 <{filename}chap12%zh.rst>`_
 
-第十三  說神通品
+第十三  `說神通品 <{filename}chap13%zh.rst>`_
 
-第十四  說蘊品
+第十四  `說蘊品 <{filename}chap14%zh.rst>`_
 
-第十五  說處界品
+第十五  `說處界品 <{filename}chap15%zh.rst>`_
 
 第十六  說根諦品
 
@@ -63,14 +65,14 @@
 
 第二十一  說行道智見清淨品
 
-第二十二  說智見清淨品
+第二十二  `說智見清淨品 <{filename}chap22%zh.rst>`_
 
-第二十三  說修慧的功德品
+第二十三  `說修慧的功德品 <{filename}chap23%zh.rst>`_
 
-結論
+`結論 <{filename}conclusion-savr%zh.rst>`_
 
-斯里蘭卡佛教史年表
+`斯里蘭卡佛教史年表 <{filename}../buddhist-history-srilanka%zh.rst>`_
 
-漢巴名詞索引
+`漢巴名詞索引 <{filename}../index-han-pali%zh.rst>`_
 
 .. saved from url=(0044)http://crumb.idv.tw/zz/Isagoge/chigi0000.htm

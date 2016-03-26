@@ -6,28 +6,28 @@
 :oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/Visuddhimagga.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
-:summary: 清淨道論
+:summary: 清淨道論(Visuddhi Magga - The Path of Purification)
 
 
 目　次
 
-- 出版前言(中華佛教百科文獻基金會版)
+- `出版前言 <{filename}preface%zh.rst>`_ (`中華佛教百科 <{filename}/articles/buddhist-encyclo/chinese-buddhist-encyclopaedia%zh.rst>`_ 文獻基金會版)
 
-- 解脫道論與清淨道論的比較研究
+- `解脫道論與清淨道論的比較研究 <{filename}comparison-vimutti-magga%zh.rst>`_
 
-- 譯者簡介
+- `譯者簡介 <{filename}translator-intro%zh.rst>`_
 
-- 小引（華宇版出版前言）
+- `小引（華宇版出版前言） <{filename}preface-universal-publication%zh.rst>`_
 
-- 漢譯前言
+- `漢譯前言 <{filename}translation-forward%zh.rst>`_
 
-- 校訂序·····釋本寂（正覺學會版）
+- `校訂序 <{filename}proved-savr%zh.rst>`_ ·····釋本寂 `（正覺學會版） <#sambuddha>`_
 
-- 凡　　例
+- `凡　　例 <{filename}notification%zh.rst>`_
 
-- 紙本目錄
+- `紙本目錄 <{filename}paper-content%zh.rst>`_
 
-- 序　　論
+- `序　　論 <{filename}introduction-vimutti-magga%zh.rst>`_
 
 - `第一　說戒品 <{filename}visuddhimagga-chap01%zh.rst>`_
 
@@ -75,21 +75,27 @@
 
 - `第二十三　說修慧的功德品 <{filename}visuddhimagga-chap23%zh.rst>`_
 
-- 結論
+- `結論 <{filename}conclusion-vimutti-magga%zh.rst>`_
 
-- 斯里蘭卡佛教史年表
+- `斯里蘭卡佛教史年表 <{filename}buddhist-history-srilanka%zh.rst>`_
 
-- 漢巴名詞索引
+- `漢巴名詞索引 <{filename}index-han-pali%zh.rst>`_
 
-  * 加註：止之概要分析表。 　　
+  * 加註： `止之概要分析表。 <{filename}samatha-table%zh.rst>`_
 
-  * 加註：觀之概要分析表。
+  * 加註： `觀之概要分析表。 <{filename}vipassana-table%zh.rst>`_
 
 ----
 
 可參考 `另一版本 <{filename}yehchun/toc%zh.rst>`_ (然電子檔尚缺"序論"與第十六說根諦品、第十七說慧地品、第十八說見清淨品、第十九說度疑清淨品、 第二十說道非道智見清淨品、第二十一說行道智見清淨品等數品)。
 
 ----
+
+
+.. raw:: html
+
+  <span id="sambuddha"></span>
+
 
 | 本 寂　法師校訂；正覺學會出版
 | 本版紙本印贈處：正覺學會

@@ -2,23 +2,6 @@
 {% extends "layout/content.html" %}
 {% set content_css_class = "article" %}
 
-{%- block index_only -%}
-<div class="main-content">
-  <div class="picasa-image">
-    <div>namo tassa bhagavato arahato sammāsambuddhassa</div>
-    <image src="{{ SITEURL }}/extra/img/bss.jpg">
-  </div>
-  <div class="picasa-image">
-    <div>皈敬世尊、阿羅漢、正等正覺者</div>
-    <image src="{{ SITEURL }}/extra/img/Buddha2.jpg">
-  </div>
-  <div class="align-center"><strong>歡迎光臨</strong><h1>府城佛教網</h1></div>
-  <div class="picasa-image">
-    <image src="{{ SITEURL }}/extra/img/buddha.jpg">
-    <div>諸惡莫作，眾善奉行，自淨其意，是諸佛教。〔<a href="{{ SITEURL }}/tipitaka/sutta/khuddaka/dhammapada/dhp-study183/">法句經 183 偈頌</a>〕</div>
-  </div>
-</div>
-{%- endblock -%}
 {%- block article_time -%}
 <aside>
   <time datetime="{{ article.modified.isoformat() }}">

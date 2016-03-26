@@ -551,7 +551,7 @@ http://140.111.1.22/mandr/clc/dict/GetContent.cgi?Database=dict&DocNum=76263&Gra
 
 ----
 
-可參考另一版本。
+可參考 `另一版本 <{filename}yehchun/chap22%zh.rst>`_ 。
 
 ..
   07.10(6th); 06.21(5th); 06.05(4th); 04.04; 93('04)/02/05(3rd ed.);
