@@ -3,18 +3,16 @@
 ===================
 
 :date: 2016-01-29 09:00
-:modified: 2016-03-03 21:30
+:modified: 2016-03-26 14:50
 :tags: 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經, Dhammapada
 
----------------------------
+--------------
 
-Namo tassa bhagavato arahato sammāsambuddhassa
+\ `PDF <dhp-contrast-reading.pdf>`__ 
 
-禮敬世尊、阿羅漢、正等正覺者
-
----------------------------
+--------------
 
 **巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**\ （節錄自：\ `巴利系佛教史綱　第六章　聖典　二　摘錄 <../../../../lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__\）
 
@@ -63,7 +61,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 - 巴、漢、英文多譯本對讀：
 
-  * 巴利原典(CSCD)、**了參 法師**\(葉均) 漢譯、**敬法 法師**\ 漢譯、**Ven. Acharya Buddharakkhita** (英譯)、**Ven. Thanissaro Bhikkhu** (英譯) 等等 ( `本站 <dhp.contrast-reading.html>`_ )
+  * 巴利原典(CSCD)、**了參 法師**\(葉均) 漢譯、**敬法 法師**\ 漢譯、**Ven. Acharya Buddharakkhita** (英譯)、**Ven. Thanissaro Bhikkhu** (英譯) 等等 ( `本站 <{filename}dhp-contrast-reading%zh.rst>`_ )
 
   * `Online Pāḷi Tipiṭaka <http://tipitaka.sutta.org/>`_：`巴漢比照對讀 <http://tipitaka.sutta.org/canon/sutta/khuddaka/dhammapada/yamakavaggo/zh_TW/%E4%BA%86%E5%8F%83%E6%B3%95%E5%B8%AB(%E8%91%89%E5%9D%87)/ContrastReading>`_ （**了參 法師**\(葉均) 翻譯）等等 [9]_
 
@@ -264,3 +262,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .. [38] 駒澤大學學報。復刊2, 3-24 ,19530000　
 
 .. [39] 駒澤大學佛教學部研究紀要。19, 11-33 ,19610300
+
+--------------
+
+- `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}../../../tipitaka%zh.rst>`__
