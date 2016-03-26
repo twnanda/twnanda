@@ -3,9 +3,15 @@
 
 :date: 2016-02-05 12:00
 :modified: 2016-03-26 14:50
-:tags: 法句經對讀, Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Yamakavaggo (Dhp.1-20), 雙品, The Pairs 
+:tags: 法句經對讀, Dhp, Dhammapada,
+       Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom,
+       法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi,
+       The Path of Dhamma, Yamakavaggo (Dhp.1-20),
+       雙品, The Pairs
 :category: 巴利三藏小部
-:summary: 法句經對讀, Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 1. Yamakavaggo (Dhp.1-20) 一、雙品 (The Pairs)
+:summary: 法句經對讀, Dhp, Dhammapada,
+          Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom,
+          1. Yamakavaggo (Dhp.1-20) 一、雙品 (The Pairs)
 
 .. created from 2016-02-05 12:00
 
@@ -142,7 +148,9 @@
 
 .. raw:: html 
 
-  本對讀包含下列數個版本，請自行勾選欲對讀之版本（感恩 <strong><a href="https://siongui.github.io/zh/pages/siong-ui-te.html">Siong-Ui Te 師兄</a></strong> 提供程式支援）：
+  本對讀包含下列數個版本，請自行勾選欲對讀之版本
+  （感恩 <strong><a href="https://siongui.github.io/zh/pages/siong-ui-te.html">Siong-Ui Te 師兄</a></strong>
+  提供程式支援）：
   
   <div id="option-contrast-reading"></div>
 
@@ -172,7 +180,9 @@
    * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
      - 一、雙品\ [LChnFn01-01]_\
 
-       1 諸法\ [LChnFn01-02]_\意先導，意主.意造作\ [MettFn01-01]_\。若以染污意，或語.或行業，是則苦隨彼，如輪隨獸足\ [LChnFn01-03]_\、\ [MettFn01-02]_\。\ [MettFn01-03]_\
+       1 諸法 [LChnFn01-02]_ 意先導，意主.意造作 [MettFn01-01]_ 。
+       若以染污意，或語.或行業，是則苦隨彼，如輪隨獸足 [LChnFn01-03]_ 、
+       [MettFn01-02]_ 。 [MettFn01-03]_
 
    * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
      - 第一：雙品
