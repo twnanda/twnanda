@@ -223,7 +223,7 @@
         1 All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with an evil thought, pain follows him, as the wheel follows the foot of the ox that draws the carriage.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 001 <../dhA-chap01/index.html#dhp001>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 001 <{filename}dhA-chap01%zh.rst#dhp001>`__
 
 .. _Dhp002:
 
@@ -286,7 +286,7 @@
      - 2 All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with a pure thought, happiness follows him, like a shadow that never leaves him.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 002 <../dhA-chap01/index.html#dhp002>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 002 <{filename}dhA-chap01%zh.rst#dhp002>`__
 
 .. _Dhp003:
 
@@ -343,7 +343,7 @@
      - 3 "He abused me, he beat me, he defeated me, he robbed me,"--in those who harbour such thoughts hatred will never cease.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 003 <../dhA-chap01/index.html#dhp003>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 003 <{filename}dhA-chap01%zh.rst#dhp003>`__
 
 .. _Dhp004:
 
@@ -400,7 +400,7 @@
      - 4 "He abused me, he beat me, he defeated me, he robbed me,"--in those who do not harbour such thoughts hatred will cease.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 004 <../dhA-chap01/index.html#dhp004>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 004 <{filename}dhA-chap01%zh.rst#dhp004>`__
 
 .. _Dhp005:
 
@@ -459,7 +459,7 @@
      - 5 For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 005 <../dhA-chap01/index.html#dhp005>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 005 <{filename}dhA-chap01%zh.rst#dhp005>`__
 
 .. _Dhp006:
 
@@ -514,7 +514,7 @@
      - 6 The world does not know that we must all come to an end here;--but those who know it, their quarrels cease at once.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 006 <../dhA-chap01/index.html#dhp006>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 006 <{filename}dhA-chap01%zh.rst#dhp006>`__
 
 .. _Dhp007:
 
@@ -575,7 +575,7 @@
      - 7 He who lives looking for pleasures only, his senses uncontrolled, immoderate in his food, idle, and weak, Mara (the tempter) will certainly overthrow him, as the wind throws down a weak tree.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 007 <../dhA-chap01/index.html#dhp007>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 007 <{filename}dhA-chap01%zh.rst#dhp007>`__
 
 .. _Dhp008:
 
@@ -635,7 +635,7 @@
      - 8 He who lives without looking for pleasures, his senses well controlled, moderate in his food, faithful and strong, him Mara will certainly not overthrow, any more than the wind throws down a rocky mountain.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 008 <../dhA-chap01/index.html#dhp008>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 008 <{filename}dhA-chap01%zh.rst#dhp008>`__
 
 .. _Dhp009:
 
@@ -691,7 +691,7 @@
      - 9 He who wishes to put on the yellow dress without having cleansed himself from sin, who disregards temperance and truth, is unworthy of the yellow dress.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 009 <../dhA-chap01/index.html#dhp009>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 009 <{filename}dhA-chap01%zh.rst#dhp009>`__
 
 .. _Dhp010:
 
@@ -748,7 +748,7 @@
      - 10 But he who has cleansed himself from sin, is well grounded in all virtues, and regards also temperance and truth, he is indeed worthy of the yellow dress.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 010 <../dhA-chap01/index.html#dhp010>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 010 <{filename}dhA-chap01%zh.rst#dhp010>`__
 
 .. _Dhp011:
 
@@ -805,7 +805,7 @@
      - 11 They who imagine truth in untruth, and see untruth in truth, never arrive at truth, but follow vain desires.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 011 <../dhA-chap01/index.html#dhp011>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 011 <{filename}dhA-chap01%zh.rst#dhp011>`__
 
 .. _Dhp012:
 
@@ -861,7 +861,7 @@
      - 12 They who know truth in truth, and untruth in untruth, arrive at truth, and follow true desires.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 012 <../dhA-chap01/index.html#dhp012>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 012 <{filename}dhA-chap01%zh.rst#dhp012>`__
 
 .. _Dhp013:
 
@@ -917,7 +917,7 @@
      - 13 As rain breaks through an ill-thatched house, passion will break through an unreflecting mind.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 013 <../dhA-chap01/index.html#dhp013>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 013 <{filename}dhA-chap01%zh.rst#dhp013>`__
 
 .. _Dhp014:
 
@@ -972,7 +972,7 @@
      - 14 As rain does not break through a well-thatched house, passion will not break through a well-reflecting mind.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 014 <../dhA-chap01/index.html#dhp014>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 014 <{filename}dhA-chap01%zh.rst#dhp014>`__
 
 .. _Dhp015:
 
@@ -1030,7 +1030,7 @@
      - 15 The evil-doer mourns in this world, and he mourns in the next; he mourns in both. He mourns and suffers when he sees the evil of his own work.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 015 <../dhA-chap01/index.html#dhp015>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 015 <{filename}dhA-chap01%zh.rst#dhp015>`__
 
 .. _Dhp016:
 
@@ -1088,7 +1088,7 @@
      - 16 The virtuous man delights in this world, and he delights in the next; he delights in both. He delights and rejoices, when he sees the purity of his own work.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 016 <../dhA-chap01/index.html#dhp016>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 016 <{filename}dhA-chap01%zh.rst#dhp016>`__
 
 .. _Dhp017:
 
@@ -1154,7 +1154,7 @@
      - 17 The evil-doer suffers in this world, and he suffers in the next; he suffers in both. He suffers when he thinks of the evil he has done; he suffers more when going on the evil path.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 017 <../dhA-chap01/index.html#dhp017>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 017 <{filename}dhA-chap01%zh.rst#dhp017>`__
 
 .. _Dhp018:
 
@@ -1216,7 +1216,7 @@
      - 18 The virtuous man is happy in this world, and he is happy in the next; he is happy in both. He is happy when he thinks of the good he has done; he is still more happy when going on the good path.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 018 <../dhA-chap01/index.html#dhp018>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 018 <{filename}dhA-chap01%zh.rst#dhp018>`__
 
 .. _Dhp019:
 
@@ -1271,7 +1271,7 @@
      - 19 The thoughtless man, even if he can recite a large portion (of the law), but is not a doer of it, has no share in the priesthood, but is like a cowherd counting the cows of others.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 019 <../dhA-chap01/index.html#dhp019>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 019 <{filename}dhA-chap01%zh.rst#dhp019>`__
 
 .. _Dhp020:
 
@@ -1348,7 +1348,7 @@
      - 20 The follower of the law, even if he can recite only a small portion (of the law), but, having forsaken passion and hatred and foolishness, possesses true knowledge and serenity of mind, he, caring for nothing in this world or that to come, has indeed a share in the priesthood.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 020 <../dhA-chap01/index.html#dhp020>`__
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 020 <{filename}dhA-chap01%zh.rst#dhp020>`__
 
 --------------
 
