@@ -39,10 +39,10 @@
   * 府城地區其他寺院、道場
   * 學佛社團
 
-- 《(南傳) `巴利大藏經 <{filename}/articles/uncategorized/tipitaka%zh.rst>`_ 》
+- 《(南傳) `巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`_ 》
 
   * `巴利語 <{filename}/articles/uncategorized/paali%zh.rst>`_
-    大藏經 `概要 <{filename}/articles/uncategorized/tipitaka%zh.rst>`_
+    大藏經 `概要 <{filename}/articles/tipitaka/tipitaka%zh.rst>`_
     、漢譯、英譯(備註：尚未完備;逐次增加中)。
 
 - `經文選讀 <{filename}/articles/uncategorized/canon-selected%zh.rst>`_
