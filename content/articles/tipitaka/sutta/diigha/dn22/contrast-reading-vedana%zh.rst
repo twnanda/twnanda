@@ -53,6 +53,14 @@
 
 --------------
 
+本對讀包含下列數個版本，請自行勾選欲對讀之版本：
+
+.. raw:: html
+
+  <div id="option-contrast-reading"></div>
+
+----
+
 .. list-table:: DN22 Mahāsatipaṭṭhānasuttaṃ CSCD paranum 380
    :widths: 15 75
    :header-rows: 0

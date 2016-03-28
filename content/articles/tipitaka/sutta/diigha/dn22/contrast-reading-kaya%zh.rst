@@ -35,7 +35,7 @@
      - `總說 <dn.22.contrast-reading-summary.html>`__
      - `隨觀身 <{filename}contrast-reading-kaya%zh.rst>`__
      - `隨觀受 <{filename}contrast-reading-vedana%zh.rst>`__
-     - `隨觀心 <dn.22.contrast-reading-citta.html>`__
+     - `隨觀心 <{filename}contrast-reading-citta%zh.rst>`__
      - `隨觀法 <{filename}contrast-reading-dhamma%zh.rst>`__
      - `修行念處的成果 <{filename}contrast-reading-advantages%zh.rst>`__
      
@@ -68,6 +68,14 @@
 **巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**\ （節錄自：\ `巴利系佛教史綱　第六章　聖典　二　摘錄 <../../../lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__\ ）
 
 --------------
+
+本對讀包含下列數個版本，請自行勾選欲對讀之版本：
+
+.. raw:: html
+
+  <div id="option-contrast-reading"></div>
+
+----
 
 .. list-table:: DN22 Mahāsatipaṭṭhānasuttaṃ CSCD paranum 374
    :widths: 15 75
