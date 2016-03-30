@@ -31,7 +31,7 @@
      - Dhammānupassanā 
      - Satipaṭṭhānabhāvanānisaṁso
         
-   * - `整部 <dn.22.contrast-reading-full.html>`__
+   * - `整部 <{filename}contrast-reading-full%zh.rst>`__
      - `總說 <{filename}contrast-reading-summary%zh.rst>`__
      - `隨觀身 <{filename}contrast-reading-kaya%zh.rst>`__
      - `隨觀受 <{filename}contrast-reading-vedana%zh.rst>`__

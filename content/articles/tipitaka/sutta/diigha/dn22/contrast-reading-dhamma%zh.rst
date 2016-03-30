@@ -31,12 +31,12 @@
      - Dhammānupassanā 
      - Satipaṭṭhānabhāvanānisaṁso
         
-   * - `整部 <dn.22.contrast-reading-full.html>`__
-     - `總說 <dn.22.contrast-reading-summary.html>`__
-     - `隨觀身 <dn.22.contrast-reading-kaya.html>`__
-     - `隨觀受 <dn.22.contrast-reading-vedana.html>`__
-     - `隨觀心 <dn.22.contrast-reading-citta.html>`__
-     - 隨觀法
+   * - `整部 <{filename}contrast-reading-full%zh.rst>`__
+     - `總說 <{filename}contrast-reading-summary%zh.rst>`__
+     - `隨觀身 <{filename}contrast-reading-kaya%zh.rst>`__
+     - `隨觀受 <{filename}contrast-reading-vedana%zh.rst>`__
+     - `隨觀心 <{filename}contrast-reading-citta%zh.rst>`__
+     - `隨觀法 <{filename}contrast-reading-dhamma%zh.rst>`__
      - `修行念處的成果 <{filename}contrast-reading-advantages%zh.rst>`__
      
    * - 《大念處經》
