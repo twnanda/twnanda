@@ -15,7 +15,7 @@
    :header-rows: 1
 
    * - `第一頌 <{filename}contrast-reading-chap1%zh.rst>`__
-     - `第二頌 <dn16.contrast-reading-chap2.html>`__
+     - `第二頌 <{filename}contrast-reading-chap2%zh.rst>`__
      - `第三頌 <dn16.contrast-reading-chap3.html>`__
      - `第四頌 <dn16.contrast-reading-chap4.html>`__
      - `第五頌 <dn16.contrast-reading-chap5.html>`__
