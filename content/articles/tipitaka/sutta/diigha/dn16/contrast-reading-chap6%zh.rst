@@ -20,7 +20,7 @@
      - `第四頌 <{filename}contrast-reading-chap4%zh.rst>`__
      - `第五頌 <{filename}contrast-reading-chap5%zh.rst>`__
      - `第六頌 <{filename}contrast-reading-chap6%zh.rst>`__
-     - `整部《大般涅槃經》 <dn16.contrast-reading-full.html>`__
+     - `整部《大般涅槃經》 <{filename}contrast-reading-full-dn16%zh.rst>`__
    
    * - 在摩揭陀國
      - 遊化至毘舍離
