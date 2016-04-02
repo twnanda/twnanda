@@ -35,7 +35,7 @@
 
 - 府城地區寺院、道場、學佛社團
 
-  * 妙心寺(臺南)
+  * `妙心寺(臺南) <{filename}/articles/miaucim/introduction-to-miau-sim-temple%zh.rst>`_
   * 府城地區其他寺院、道場
   * 學佛社團
 
