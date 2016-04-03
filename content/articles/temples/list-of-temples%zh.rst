@@ -9,7 +9,7 @@
 
 .. 資訊更新日期: 89('00)/12/02
 
-- 開元寺
+- `開元寺 <{filename}khai-guan/intro-khai-guan%zh.rst>`_
 - 法華寺
 - 竹溪寺
 - 彌陀寺
