@@ -14,7 +14,7 @@
 - 竹溪寺
 - 彌陀寺
 - 湛然寺
-- 德化堂
+- `德化堂 <{filename}dhrhvatan/intro-dhrhvatan%zh.rst>`_
 - 西華堂
 - 報恩堂
 - 擇賢堂
