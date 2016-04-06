@@ -24,6 +24,34 @@ func StringToLines(s string) []string {
 	return lines
 }
 
+func rstListTablePrefixOfEachLine(indexOfTd, indexOfLine int) string {
+	if indexOfTd == 0 {
+		if indexOfLine == 0 {
+			return "   * - "
+		} else {
+			return "       "
+		}
+	} else {
+		if indexOfLine == 0 {
+			return "     - "
+		} else {
+			return "       "
+		}
+	}
+}
+
+func processTr(tr *goquery.Selection, fo *os.File) {
+	tr.Find("td").Each(func(indexOfTd int, td *goquery.Selection) {
+		lines := StringToLines(td.Text())
+		for indexOfLine, line := range lines {
+			line = strings.TrimSpace(line)
+			fmt.Fprintf(fo, rstListTablePrefixOfEachLine(indexOfTd, indexOfLine))
+			fmt.Fprintf(fo, line)
+			fmt.Fprintf(fo, "\n")
+		}
+	})
+}
+
 func parseCRMN(path, outpath string) {
 	fmt.Println("Parsing " + path + " ...")
 
@@ -44,16 +72,12 @@ func parseCRMN(path, outpath string) {
 	}
 	defer fo.Close()
 
-	fmt.Fprintf(fo, ".. list-table::\n\n")
 	doc.Find("table").Each(func(i int, table *goquery.Selection) {
-		table.Find("td").Each(func(i2 int, td *goquery.Selection) {
-			lines := StringToLines(td.Text())
-			for _, line := range lines {
-				line = strings.TrimSpace(line)
-				fmt.Fprintf(fo, line)
-				fmt.Fprintf(fo, "\n")
-			}
+		fmt.Fprintf(fo, ".. list-table::\n\n")
+		table.Find("tr").Each(func(i2 int, tr *goquery.Selection) {
+			processTr(tr, fo)
 		})
+		fmt.Fprintf(fo, "\n\n")
 	})
 }
 
