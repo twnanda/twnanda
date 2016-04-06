@@ -8,13 +8,13 @@ DASH:= -
 HTMLSUFFIX:= -html
 RSTSUFFIX:= \%zh.rst
 MNHTML:= $(subst $(DOT),$(DASH),$(notdir ${URL}))
-MNRST:= $(subst $(HTMLSUFFIX),$(RSTSUFFIX),$(MNHTML))
+MNRST:= ../../content/articles/tipitaka/sutta/majjhima/$(subst $(HTMLSUFFIX),$(RSTSUFFIX),$(MNHTML))
 
 default:
 	@echo "\033[92mProcessing ${URL}...\033[0m"
 	@go run ../download.go -url=${URL}
 	@go run parseCRMN.go -input=$(notdir ${URL}) -output=${MNRST}
-	@cat ${MNRST}
+	@cat ${MNRST} | less
 
 fmt:
 	@echo "\033[92mGo fmt source code...\033[0m"

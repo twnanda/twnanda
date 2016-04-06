@@ -72,12 +72,34 @@ func parseCRMN(path, outpath string) {
 	}
 	defer fo.Close()
 
+	// rst metadata
+	title := doc.Find("title").Text()
+	fmt.Fprintf(fo, title + "\n")
+	fmt.Fprintf(fo, "########################################################################\n")
+	fmt.Fprintf(fo, "\n")
+	fmt.Fprintf(fo, ":date: 2012-04-22\n")
+	fmt.Fprintf(fo, ":modified: 2012-09-02\n")
+	fmt.Fprintf(fo, ":oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/" + path + "\n")
+	fmt.Fprintf(fo, ":tags: 中部, 尼柯耶, Majjhima Nikāya\n")
+	fmt.Fprintf(fo, ":category: 巴利三藏中部\n")
+	fmt.Fprintf(fo, ":summary: " + title + "\n")
+	fmt.Fprintf(fo, "\n\n")
+	fmt.Fprintf(fo, "本對讀包含下列數個版本，請自行勾選欲對讀之版本：\n\n")
+	fmt.Fprintf(fo, ".. raw:: html\n\n")
+	fmt.Fprintf(fo, "  <div id=\"option-contrast-reading\"></div>\n\n")
+	fmt.Fprintf(fo, "----\n\n")
+
+
 	doc.Find("table").Each(func(i int, table *goquery.Selection) {
-		fmt.Fprintf(fo, ".. list-table::\n\n")
+		fmt.Fprintf(fo, ".. list-table:: \n")
+		fmt.Fprintf(fo, "   :widths: 15 75\n")
+		fmt.Fprintf(fo, "   :header-rows: 0\n")
+		fmt.Fprintf(fo, "   :class: contrast-reading-table\n\n")
 		table.Find("tr").Each(func(i2 int, tr *goquery.Selection) {
 			processTr(tr, fo)
 		})
 		fmt.Fprintf(fo, "\n\n")
+		fmt.Fprintf(fo, "|\n|\n\n")
 	})
 }
 
