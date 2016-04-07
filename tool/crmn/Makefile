@@ -10,6 +10,10 @@ RSTSUFFIX:= \%zh.rst
 MNHTML:= $(subst $(DOT),$(DASH),$(notdir ${URL}))
 MNRST:= ../../content/articles/tipitaka/sutta/majjhima/$(subst $(HTMLSUFFIX),$(RSTSUFFIX),$(MNHTML))
 
+footnote:
+	sed -r 's/^〔註([0-9]{3})〕/.. [\1] /g' -i $(MNRST)
+	sed -r 's/([0-9]{3})/ [\1]_ /g' -i $(MNRST)
+
 default:
 	@echo "\033[92mProcessing ${URL}...\033[0m"
 	@go run ../download.go -url=${URL}

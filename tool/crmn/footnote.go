@@ -35,11 +35,11 @@ func (s *StateMachine) ProcessLine(line string) {
 	}
 }
 
-func ExtractFootnote(htmldoc *goquery.Document) {
+func ExtractFootnote(htmldoc *goquery.Document) string {
 	lines := StringToLines(htmldoc.Text())
 	sm := NewStateMachine()
 	for _, line := range lines {
 		sm.ProcessLine(line)
 	}
-	print(sm.FootnoteBody)
+	return sm.FootnoteBody
 }
