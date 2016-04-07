@@ -1,27 +1,11 @@
 package main
 
 import (
-	"bufio"
 	"fmt"
 	"github.com/PuerkitoBio/goquery"
 	"os"
 	"strings"
 )
-
-func StringToLines(s string) []string {
-	var lines []string
-
-	scanner := bufio.NewScanner(strings.NewReader(s))
-	for scanner.Scan() {
-		lines = append(lines, scanner.Text())
-	}
-
-	if err := scanner.Err(); err != nil {
-		fmt.Fprintln(os.Stderr, "reading standard input:", err)
-	}
-
-	return lines
-}
 
 func rstListTablePrefixOfEachLine(indexOfTd, indexOfLine int) string {
 	if indexOfTd == 0 {

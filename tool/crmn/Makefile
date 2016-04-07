@@ -13,7 +13,7 @@ MNRST:= ../../content/articles/tipitaka/sutta/majjhima/$(subst $(HTMLSUFFIX),$(R
 default:
 	@echo "\033[92mProcessing ${URL}...\033[0m"
 	@go run ../download.go -url=${URL}
-	@go run parseCRMN.go html2rst.go rstmetadata.go -input=$(notdir ${URL}) -output=${MNRST}
+	@go run parseCRMN.go html2rst.go rstmetadata.go readlines.go -input=$(notdir ${URL}) -output=${MNRST}
 	@cat ${MNRST} | less
 
 website:
