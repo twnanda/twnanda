@@ -60,4 +60,6 @@ func html2rst(fHtmlInput, fRstOutput *os.File, path string) {
 		fmt.Fprintf(fRstOutput, "\n\n")
 		fmt.Fprintf(fRstOutput, "|\n|\n\n")
 	})
+
+	ExtractFootnote(doc)
 }
