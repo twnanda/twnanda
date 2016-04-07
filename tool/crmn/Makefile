@@ -16,6 +16,12 @@ default:
 	@go run parseCRMN.go html2rst.go rstmetadata.go -input=$(notdir ${URL}) -output=${MNRST}
 	@cat ${MNRST} | less
 
+website:
+	@cd ../.. ; make
+
+serve:
+	@cd ../.. ; make serve
+
 fmt:
 	@echo "\033[92mGo fmt source code...\033[0m"
 	@go fmt *.go
