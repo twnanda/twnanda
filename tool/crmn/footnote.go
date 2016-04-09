@@ -2,6 +2,7 @@ package main
 
 import (
 	"github.com/PuerkitoBio/goquery"
+	"golang.org/x/net/html"
 	"strings"
 )
 
@@ -21,25 +22,67 @@ func NewStateMachine() *StateMachine {
 	}
 }
 
-func (s *StateMachine) ProcessLine(line string) {
-	if strings.HasPrefix(line, "備註") {
+func (s *StateMachine) ProcessNode(node *html.Node) {
+	if node.Type == html.ElementNode && node.Data == "a" {
+		href := ""
+		for _, a := range node.Attr {
+			if a.Key == "href" {
+				href = strings.TrimSpace(a.Val)
+				break
+			}
+		}
+
+		// check if has only one child
+		if node.FirstChild.Data != node.LastChild.Data {
+			panic("link with more than one child")
+		}
+
+		linkText := strings.TrimSpace(node.FirstChild.Data)
+
+		rstLink := "`" + linkText + " <" + href + ">`_"
+
+		if strings.HasPrefix(href, "#") {
+			s.FootnoteBody += linkText
+		} else {
+			s.FootnoteBody += rstLink
+		}
+		return
+	}
+
+	if node.Type == html.TextNode {
+		s.FootnoteBody += node.Data
+		return
+	} else if node.FirstChild != nil {
+		for c := node.FirstChild; c != nil; c = c.NextSibling {
+			s.ProcessNode(c)
+		}
+	}
+}
+
+func (s *StateMachine) ProcessSelection(sl *goquery.Selection) {
+	if strings.HasPrefix(sl.Text(), "備註") {
 		s.State = InFootnote
 	}
 
-	if strings.HasPrefix(line, "資訊更新日期") {
+	if strings.HasPrefix(sl.Text(), "資訊更新日期") {
 		s.State = NotInFootnote
 	}
 
 	if s.State == InFootnote {
-		s.FootnoteBody += (line + "\n")
+		if sl.Size() != 1 {
+			panic("element size is not 1")
+		}
+		s.ProcessNode(sl.Nodes[0])
 	}
 }
 
 func ExtractFootnote(htmldoc *goquery.Document) string {
-	lines := StringToLines(htmldoc.Text())
 	sm := NewStateMachine()
-	for _, line := range lines {
-		sm.ProcessLine(line)
-	}
+
+	htmldoc.Find("html body").Contents().Each(func(_ int, sl *goquery.Selection) {
+		sm.ProcessSelection(sl)
+	})
+
+	print(sm.FootnoteBody)
 	return sm.FootnoteBody
 }
