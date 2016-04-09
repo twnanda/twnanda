@@ -2,7 +2,7 @@ export GOROOT=$(realpath ../../../go)
 export GOPATH=$(realpath ..)
 export PATH := $(GOROOT)/bin:$(GOPATH)/bin:$(PATH)
 
-URL=http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/mn.012.contrast-reading.html
+URL=http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/mn.026.contrast-reading.html
 DOT:= .
 DASH:= -
 HTMLSUFFIX:= -html
@@ -19,7 +19,7 @@ default:
 
 footnote:
 	@#sed -r 's/^〔註(0[0-9]{2})〕/.. [\1] /g' -i $(MNRST)
-	sed -r 's/\[(0[0-9]{2})\]/[\1]_/g' -i $(MNRST)
+	@#sed -r 's/\[(0[0-9]{2})\]/[\1]_/g' -i $(MNRST)
 
 website:
 	@cd ../.. ; make
