@@ -18,8 +18,8 @@ default:
 	@cat ${MNRST} | less
 
 footnote:
-	sed -r 's/^〔註([0-9]{3})〕/.. [\1] /g' -i $(MNRST)
-	sed -r 's/([0-9]{3})/ [\1]_ /g' -i $(MNRST)
+	@#sed -r 's/^〔註(0[0-9]{2})〕/.. [\1] /g' -i $(MNRST)
+	sed -r 's/\[(0[0-9]{2})\]/[\1]_/g' -i $(MNRST)
 
 website:
 	@cd ../.. ; make
