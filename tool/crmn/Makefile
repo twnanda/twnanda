@@ -2,7 +2,7 @@ export GOROOT=$(realpath ../../../go)
 export GOPATH=$(realpath ..)
 export PATH := $(GOROOT)/bin:$(GOPATH)/bin:$(PATH)
 
-URL=http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/mn.046.contrast-reading.html
+URL=http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/mn.047.contrast-reading.html
 DOT:= .
 DASH:= -
 HTMLSUFFIX:= -html
