@@ -28,18 +28,21 @@ func (s *StateMachine) ProcessNode(node *html.Node) {
 		for _, a := range node.Attr {
 			if a.Key == "href" {
 				href = strings.TrimSpace(a.Val)
+				if href == "www.chilin.org" {
+					href = "http://www.chilin.org/"
+				}
 				break
 			}
 		}
 
 		// check if has only one child
-		if node.FirstChild.Data != node.LastChild.Data {
+		if node.FirstChild != node.LastChild {
 			panic("link with more than one child")
 		}
 
 		linkText := strings.TrimSpace(node.FirstChild.Data)
 
-		rstLink := "`" + linkText + " <" + href + ">`_"
+		rstLink := " `" + linkText + " <" + href + ">`_ "
 
 		if strings.HasPrefix(href, "#") {
 			s.FootnoteBody += linkText
