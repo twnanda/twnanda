@@ -36,7 +36,7 @@ func (s *StateMachine) ProcessNode(node *html.Node) {
 		}
 
 		// check if has only one child
-		if node.FirstChild != node.LastChild {
+		if node.FirstChild != nil && node.FirstChild != node.LastChild {
 			panic("link with more than one child")
 		}
 

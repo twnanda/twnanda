@@ -72,7 +72,7 @@
 - 訊息公告
 
   * 呼籲安全地保存佛陀的舍利
-  * 【新譯「尊者阿姜 曼傳」與「尊者阿姜 高傳」】相關訊息
+  * `【新譯「尊者阿姜 曼傳」與「尊者阿姜 高傳」】相關訊息 <{filename}/articles/uncategorized/open-distribution-the-biography-ven-acariya-mun%zh.rst>`_
 
 - 文章選讀
 
