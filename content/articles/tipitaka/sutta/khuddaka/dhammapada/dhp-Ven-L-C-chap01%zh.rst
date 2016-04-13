@@ -114,7 +114,7 @@
 雙品 [LChnFn01-01]_ YAMAKA-VAGGO
 --------------------------------
 
-一　諸法 [LChnFn01-02]_ 意先導，意主意造作。若以染污意，或語或行業，是則苦隨彼，如輪隨獸足 [LChnFn01-03]_ 。( `001 典故 <{filename}dhp-story001%zh.rst>`__ 或另一 `001 典故B <{filename}dhp-story001b%25zh.rst>`__ )
+一　諸法 [LChnFn01-02]_ 意先導，意主意造作。若以染污意，或語或行業，是則苦隨彼，如輪隨獸足 [LChnFn01-03]_ 。( `001 典故 <{filename}dhp-story001%zh.rst>`__ 或另一 `001 典故B <{filename}dhp-story001b%zh.rst>`__ )
 
 二　諸法意先導，意主意造作。若以清淨意，或語或行業，是則樂隨彼，如影不離形。 ( `002 典故 <{filename}dhp-story002%zh.rst>`__ )
 
