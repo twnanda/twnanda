@@ -2,7 +2,7 @@
 ###################################################################
 
 :date: 2016-02-05 12:00
-:modified: 2016-03-26 14:50
+:modified: 2016-04-12 14:30
 :tags: 法句經對讀, Dhp, Dhammapada,
        Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi,
@@ -17,7 +17,7 @@
 
 --------------
 
-\ `PDF <../../../../../extra/pdf/dhp-contrast-reading-chap01.pdf>`__ 
+`PDF <../../../../../extra/pdf/dhp-contrast-reading-chap01.pdf>`__ 
 
 ----------------------------------------
 
@@ -107,14 +107,14 @@
 
 ---------------------------
 
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**\ …，…，…，
-    …，…，…，\ **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。**\ …，…，…，
+**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**  …，…，…，
+    …，…，…， **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。**  …，…，…，
 
-    …，…，…，\ **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語**\ …，…，…，
+    …，…，…， **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語**  …，…，…，
 
-    …，…，…，\ **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
+    …，…，…， **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
 
-（節錄自：\ `巴利系佛教史綱　第六章　聖典　二　摘錄 <../../../../lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__\ ）
+（節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 <../../../../lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
 
 -------------------------------------
 
@@ -163,53 +163,53 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - 1. Yamakavaggo. 
 
        | 1. Manopubbaṅgamā dhammā manoseṭṭhā manomayā
        | Manasā ce paduṭṭhena bhāsati vā karoti vā
        | Tato naṃ dukkhamanveti cakkaṃ'va vahato padaṃ.
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - 1. Yamakavaggo
 
        | 1. Manopubbaṅgamā  dhammā, manoseṭṭhā manomayā;
        | Manasā ce paduṭṭhena, bhāsati vā karoti vā;
        | Tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 一、雙品\ [LChnFn01-01]_\
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 一、雙品 [LCanFn01-01]_ 
 
-       1 諸法 [LChnFn01-02]_ 意先導，意主.意造作 [MettFn01-01]_ 。
-       若以染污意，或語.或行業，是則苦隨彼，如輪隨獸足 [LChnFn01-03]_ 、
+       1 諸法 [LCanFn01-02]_ 意先導，意主.意造作 [MettFn01-01]_ 。
+       若以染污意，或語.或行業，是則苦隨彼，如輪隨獸足 [LCanFn01-03]_ 、
        [MettFn01-02]_ 。 [MettFn01-03]_
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 第一：雙品
 
-       | 1. 諸法以意為前導，以意為主由意造。\ [CFFn01-01]_\
+       | 1. 諸法以意為前導，以意為主由意造。 [CFFn01-01]_ 
        | 若人透過污染意，他或說話或造作，
        | 從此痛苦跟隨他，如輪隨拉車（牛）之足。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
-     - 1. 心為法本，心尊心使，中心念惡，即言即行，罪苦自追，車轢于轍。（法句經, T4,562a）\ [TSFn01-01]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 心為法本，心尊心使，中心念惡，即言即行，罪苦自追，車轢于轍。（法句經, T4,562a） [TSFn01-01]_
 
-       2. 心為法本，心尊心使，中心念惡，即言即行，罪苦自追，車轢於轍。（法句譬喻經, T04, 583a）\ [TSFn01-02]_
+       2. 心為法本，心尊心使，中心念惡，即言即行，罪苦自追，車轢於轍。（法句譬喻經, T04, 583a） [TSFn01-02]_
 
-       3. 心為法本，心尊心使，中心念惡，即言即行，罪苦自追，車轢于轍。（出曜經：T04, 760a）\ [TSFn01-03]_
+       3. 心為法本，心尊心使，中心念惡，即言即行，罪苦自追，車轢于轍。（出曜經：T04, 760a） [TSFn01-03]_
 
-       4. 心為諸法本，心尊是心使，心若念惡行，即言即惡行，罪苦自追隨，車轢終于轍。（法集要頌經，T04, 795c）\ [TSFn01-04]_
+       4. 心為諸法本，心尊是心使，心若念惡行，即言即惡行，罪苦自追隨，車轢終于轍。（法集要頌經，T04, 795c） [TSFn01-04]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
-     - Chapter 1 The Twin Verses (Yamaka\ [NāradaFn01-01]_\  Vagga)
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - Chapter 1 The Twin Verses (Yamaka [NāradaFn01-01]_  Vagga)
         EVIL BEGETS EVIL
-         1. Mind is the forerunner of (all evil) states. \ [NāradaFn01-02]_\ Mind is chief; mind-made are they. If one speaks or acts with wicked mind, because of that, suffering follows one, even as the wheel follows the hoof of the draught-ox.
+         1. Mind is the forerunner of (all evil) states.  [NāradaFn01-02]_ Mind is chief; mind-made are they. If one speaks or acts with wicked mind, because of that, suffering follows one, even as the wheel follows the hoof of the draught-ox.
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - Dhp I Pairs
         1. Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts suffering follows him like the wheel that follows the foot of the ox.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - Dhp I Pairs
         | **1** Phenomena are preceded by the heart,
         |            ruled by the heart,
@@ -221,14 +221,14 @@
         |      the track of the ox
         |      that pulls it.
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
-     - **\ 1. Twinned Verses** \
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - **  1. Twinned Verses** 
         | **1**  Mind precedes created things;
         | Mind’s their chief, from mind they spring.
         | With tainted mind who speaks or acts,
         | Pain trails that man like the wheel trails ox-tracks.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - Chapter I: The Twin-Verses
         1 All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with an evil thought, pain follows him, as the wheel follows the foot of the ox that draws the carriage.
 
@@ -242,41 +242,41 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 2. Manopubbaṅgamā dhammā manoseṭṭhā manomayā
        | Manasā ce pasannena bhāsati vā karoti vā
        | Tato naṃ sukhamanveti chāyā'va anapāyinī. 
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 2. Manopubbaṅgamā dhammā, manoseṭṭhā manomayā;
        | Manasā ce pasannena, bhāsati vā karoti vā;
        | Tato naṃ sukhamanveti, chāyāva anapāyinī **[anupāyinī (ka.)]**.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 2 諸法意先導，意主.意造作。若以清淨意，或語.或行業，是則樂隨彼，如影不離形。\ [MettFn01-04]_\
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 2 諸法意先導，意主.意造作。若以清淨意，或語.或行業，是則樂隨彼，如影不離形。 [MettFn01-04]_ 
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
-     - | 諸法以意為前導，以意為主由意造。1
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 諸法以意為前導，以意為主由意造。
        | 若人透過清淨意，他或說話或造作，
        | 從此快樂跟隨他，猶如影子不離身。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
-     - 1. 心為法本，心尊心使，中心念善，即言即行，福自追身，如影隨形。（法句經, T4,562a）\ [TSFn01-05]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 心為法本，心尊心使，中心念善，即言即行，福自追身，如影隨形。（法句經, T4,562a） [TSFn01-05]_
 
-       2. 心為法本，心尊心使，中心念善，即言即行，福樂自追，如影隨形。（法句譬喻經, T04, 583a）\ [TSFn01-06]_
+       2. 心為法本，心尊心使，中心念善，即言即行，福樂自追，如影隨形。（法句譬喻經, T04, 583a） [TSFn01-06]_
        
-       3.心為法本，心尊心使，中心念善，即言即行，福慶自隨，如影隨形。（出曜經, T04, 760a）\ [TSFn01-07]_
+       3.心為法本，心尊心使，中心念善，即言即行，福慶自隨，如影隨形。（出曜經, T04, 760a） [TSFn01-07]_
 
-       4. 心為諸法本，心尊是心使，心若念善行，即言即善行，福慶自追隨，如影隨其形。（法集要頌經, T04, 795c）\ [TSFn01-08]_
+       4. 心為諸法本，心尊是心使，心若念善行，即言即善行，福慶自追隨，如影隨其形。（法集要頌經, T04, 795c） [TSFn01-08]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - GOOD BEGETS GOOD
-        2. Mind is the forerunner of (all good) states. Mind is chief; mind-made are they. If one speaks or acts with pure mind, because of that, happiness follows one, even as one's shadow that never leaves.\ [NāradaFn01-03]_
+        2. Mind is the forerunner of (all good) states. Mind is chief; mind-made are they. If one speaks or acts with pure mind, because of that, happiness follows one, even as one's shadow that never leaves. [NāradaFn01-03]_
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 2. Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts happiness follows him like his never-departing shadow.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **2** Phenomena are  preceded by the heart,
        |            ruled by the heart,
        |            made of the heart.
@@ -286,13 +286,13 @@
        | like a shadow
        |   that never leaves. [ThaniSFn-V1-2]_
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **2** Mind precedes created things,
        | Mind’s their chief, from mind they spring.
        | Who speaks or acts with purified mind,
        | Joy trails that man, like his shadow, behind.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 2 All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with a pure thought, happiness follows him, like a shadow that never leaves him.
 
    * - 巴利註解漢譯 [11]_
@@ -305,35 +305,35 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 3. Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me
        | Ye taṃ upanayhanti veraṃ tesaṃ na sammati.
        | 
        | (3 Ākrośanmāmavocanmāma jayanmāmahāpayat
        |  Atra ye upanahyante vairaṃ teṣāṃ na śāmyati.)
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 3. Akkocchi  maṃ avadhi maṃ, ajini **[ajinī (?)]** maṃ ahāsi me;
        | Ye ca taṃ upanayhanti, veraṃ tesaṃ na sammati.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - 3 『彼罵我.打我，敗我.劫奪我』，若人懷此念，怨恨不能息。
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 3 「他辱罵我毆打我，他擊敗我掠奪我。」
        | 若人心懷此想法，他們之恨不會止。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 人若罵我，勝我不勝，快意從者，怨終不息。（出曜經, T04, 696c） [TSFn01-09]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - RETALIATION DOES NOT LEAD TO PEACE
         3. "He abused me, he beat me, he defeated me, he robbed me", in those who harbour such thoughts hatred is not appeased.
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 3. "He abused me, he struck me, he overpowered me, he robbed me." Those who harbor such thoughts do not still their hatred. 
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **3** 'He  insulted me,
        |   hit me,
        |   beat me,
@@ -341,7 +341,7 @@
        |  — for those who brood on this,
        |   hostility isn't stilled. 
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **3** “Me, she swore at”. 
        | “Me, he flogged”.
        | “Me, defeated”.
@@ -349,7 +349,7 @@
        | Those with hateful thoughts thus held,
        | Hatred in those ones will never be quelled. 
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 3 "He abused me, he beat me, he defeated me, he robbed me,"--in those who harbour such thoughts hatred will never cease.
 
    * - 巴利註解漢譯 [11]_
@@ -362,7 +362,7 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 4. Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me
        | Ye taṃ na upanayhanti veraṃ tesūpasammati. 
        |
@@ -370,27 +370,27 @@
        | Atra ye nopanahyante vairaṃ teṣāṃ praśāmyati. 
        | (Mūlasarvāstivādivinaya. Kośāmbakavastu) ]
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 4. Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me;
        | Ye ca taṃ nupanayhanti, veraṃ tesūpasammati.
  
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 4 『彼罵我.打我，敗我.劫奪我』，若人捨此念，怨恨自平息。\ [MettFn01-05]_\
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 4 『彼罵我.打我，敗我.劫奪我』，若人捨此念，怨恨自平息。 [MettFn01-05]_ 
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 4. 「他辱罵我毆打我，他擊敗我掠奪我。」
        | 若人不懷此想法，他們之恨會止息。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 若人致毀罵，彼勝我不勝，快樂從意者，怨終得休息。（法集要頌經, T04,784b） [TSFn01-10]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
-     - 4. "He abused me, he beat me, he defeated me, he robbed me", in those who do not harbour such thoughts hatred is appeased.\ [NāradaFn01-04]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 4. "He abused me, he beat me, he defeated me, he robbed me", in those who do not harbour such thoughts hatred is appeased. [NāradaFn01-04]_
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 4. "He abused me, he struck me, he overpowered me, he robbed me." Those who do not harbor such thoughts still their hatred.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **4** 'He insulted me,
        | hit me,
        | beat me,
@@ -398,7 +398,7 @@
        | for those who don't brood on this,
        | hostility is stilled.
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **4** “Me, she swore at”.
        | “Me, he flogged”.
        | “Me, defeated”.
@@ -406,7 +406,7 @@
        | Those who live such thoughts not held,
        | Hatred in those ones is utterly quelled.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 4 "He abused me, he beat me, he defeated me, he robbed me,"--in those who do not harbour such thoughts hatred will cease.
 
    * - 巴利註解漢譯 [11]_
@@ -419,39 +419,39 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 5. Na hi verena verāni sammantīdha kudācanaṃ
        | Averena ca sammanti esa dhammo sanantano.
        | 
        | (5 Na hi vaireṇa vairāṇi śāmyantīha kadācana
        | Kṣāntyā vairāṇi śāmyanti eṣa dharma: sanātana: )
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 5. Na hi verena verāni, sammantīdha kudācanaṃ;
        | Averena ca sammanti, esa dhammo sanantano.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 5 在於世界中\ [NandFn01-00]_\，從非怨止怨，唯以忍止怨；此古（聖常）法\ [LChnFn01-04]_\。\ [MettFn01-06]_\
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 5 在於世界中 [NandFn01-00]_ ，從非怨止怨，唯以忍止怨；此古（聖常）法 [LCanFn01-04]_ 。 [MettFn01-06]_ 
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 5 於這世上確如此，以恨止恨不曾有，
        | 唯有無恨能止恨，這是永恆的真理。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 慍於怨者，未嘗無怨，不慍自除，是道可宗。（法句經, T04, 562a） [TSFn01-11]_
 
        2. 不可怨以怨，終已得休息，行忍得息怨，此名如來法。（出曜經, T04, 697a） [TSFn01-12]_
 
        3. 不可怨以怨，終已得快樂，行忍怨自息，此名如來法。（法集要頌經, T4,784b） [TSFn01-13]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - ANGER IS CONQUERED BY LOVE
         5. Hatreds never cease through hatred in this world; through love [NāradaFn01-05]_ alone they cease. This is an eternal law. [NāradaFn01-06]_
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 5. Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **5** Hostilities aren't stilled
        |   through hostility,
        |   regardless.
@@ -459,13 +459,13 @@
        | through non-hostility:
        |   this, an unending truth.
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **5** Hatred by hatred has been pacified
        | Never, in all of creation.
        | Through freedom from hatred does hatred subside:
        | This law is of ageless duration.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 5 For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.
 
    * - 巴利註解漢譯 [11]_
@@ -478,7 +478,7 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 6. Pare ca na vijānanti mayamettha yamāmase
        | Ye ca tattha vijānanti tato sammanti medhagā.
        | 
@@ -486,44 +486,44 @@
        |   Atra ye tu vijānanti teṣāṃ śāmyanti medhakā: 
        |   (Mūlasarvāstivādivinaya. Kośāmbakavastu)]
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 6. Pare  ca na vijānanti, mayamettha yamāmase;
        | Ye ca tattha vijānanti, tato sammanti medhagā.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 6 彼人 [LChnFn01-05]_ 、 [MettFn01-07]_
-       不了悟：『我等將毀滅 [LChnFn01-06]_ 、 [MettFn01-08]_ 』。
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 6 彼人 [LCanFn01-05]_ 、 [MettFn01-07]_
+       不了悟：『我等將毀滅 [LCanFn01-06]_ 、 [MettFn01-08]_ 』。
        若彼等如此 [NandFn01-01]_
        ，則諍論自息。[MettFn01-09]_
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
-     - | 6 但是他人不知道：「於此我們將滅亡。」\ [CFFn01-02]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 6 但是他人不知道：「於此我們將滅亡。」 [CFFn01-02]_
        | 知道這點的人們，爭論因此得止息。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 不好責彼，務自省身，如有知此，永滅無患。（法句經, T04, 562a） [TSFn01-14]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - QUARRELS CEASE THROUGH RIGHT THINKING
         6. The others [NāradaFn01-07]_ know not that in this quarrel we perish; [NāradaFn01-08]_ those of them who realize it, have their quarrels calmed thereby. [NāradaFn01-09]_
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 6. There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **6** Unlike those who don't realize
        | that we're here on the verge
        |   of perishing,
        | those who do:
        |   their quarrels are stilled.
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **6** Most of men seem not to see
-       | That man should live restrained;\ [VaradoFn01-1]_
+       | That man should live restrained; [VaradoFn01-1]_
        | For those who have this realised,
        | Their quarrels fade away.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 6 The world does not know that we must all come to an end here;--but those who know it, their quarrels cease at once.
 
    * - 巴利註解漢譯 [11]_
@@ -536,39 +536,39 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 7. Subhānupassiṃ viharantaṃ indriyesu asaṃvutaṃ 
        | Bhojanambhi amattaññuṃ kusītaṃ hīnavīriyaṃ
        | Taṃ ve pasahati māro vāto rukkhaṃ'va dubbalaṃ. 
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 7. Subhānupassiṃ viharantaṃ, indriyesu asaṃvutaṃ;
        | Bhojanamhi cāmattaññuṃ, kusītaṃ hīnavīriyaṃ;
        | Taṃ ve pasahati māro, vāto rukkhaṃva dubbalaṃ.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 7 唯求住淨樂\ [LChnFn01-07]_\、\ [MettFn01-10]_\，不攝護諸根\ [MettFn01-11]_\，飲食不知量\ [MettFn01-12]_\，懈惰.不精進，彼實為魔\ [LChnFn01-08]_\、\ [MettFn01-13]_\服\ [NandFn01-02]_，如風吹弱樹\ [MettFn01-14]_\。
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 7 唯求住淨樂 [LCanFn01-07]_ 、 [MettFn01-10]_ ，不攝護諸根 [MettFn01-11]_ ，飲食不知量 [MettFn01-12]_ ，懈惰.不精進，彼實為魔 [LCanFn01-08]_ 、 [MettFn01-13]_ 服 [NandFn01-02]_，如風吹弱樹 [MettFn01-14]_ 。
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 7 住於觀淨美，諸根沒克制，
        | 於食不知足，怠惰不精進，
        | 魔王制伏他，如風吹弱樹。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 行見身淨，不攝諸根，飲食不節，慢墮怯弱，為邪所制，如風靡草。（法句經, T04,562a） [TSFn01-15]_
 
        2. 觀淨而自修，諸根不具足，於食無厭足，斯等凡品行，轉增於欲意，如屋壞穿漏。（出曜經, T04, 749b） [TSFn01-16]_
 
        3. 觀淨而自淨，諸根不具足，於食無厭足，斯等凡品行，轉增於欲意，如屋壞穿漏。（法集要頌經, T04, 793a） [TSFn01-17]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - THE WEAK SUCCUMB TO TEMPTATION BUT NOT THE STRONG
         7. Whoever lives contemplating pleasant things, [NāradaFn01-10]_ with senses unrestrained, in food immoderate, indolent, inactive, him verily Màra [NāradaFn01-11]_ overthrows, as the wind (overthrows) a weak tree.
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 7. Just as a storm throws down a weak tree, so does Mara overpower the man who lives for the pursuit of pleasures, who is uncontrolled in his senses, immoderate in eating, indolent, and dissipated. [BudRkFn01-01]_
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **7** One who stays focused on the beautiful,
        | is unrestrained with the senses,
        | knowing no moderation in food,
@@ -576,7 +576,7 @@
        |   Mara overcomes him
        |   as the wind, a weak tree.
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **7** One with senses unsubdued,
        | And indulgent with his food,
        | Living languid and at leisure,
@@ -584,7 +584,7 @@
        | Him, will Mara soon defeat,
        | Like the wind, a tree that’s weak.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 7 He who lives looking for pleasures only, his senses uncontrolled, immoderate in his food, idle, and weak, Mara (the tempter) will certainly overthrow him, as the wind throws down a weak tree.
 
    * - 巴利註解漢譯 [11]_
@@ -597,38 +597,38 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 8. Asubhānupassiṃ viharantaṃ indriyesu susaṃvutaṃ 
        | Bhojanambhi ca mattaññuṃ saddhaṃ āraddhavīriyaṃ
        | Taṃ ve nappasahati māro vāto selaṃ'va pabbataṃ.
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 8. Asubhānupassiṃ viharantaṃ, indriyesu susaṃvutaṃ;
        | Bhojanamhi ca mattaññuṃ, saddhaṃ āraddhavīriyaṃ;
        | Taṃ ve nappasahati māro, vāto selaṃva pabbataṃ.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 8 願求非樂\ [LChnFn01-09]_\、\ [MettFn01-15]_\住，善攝護諸根，飲食知節量，具信\ [MettFn01-16]_\又精進，魔\ [MettFn01-17]_\不能勝彼，如風吹石山。\ [MettFn01-18]_\
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 8 願求非樂 [LCanFn01-09]_ 、 [MettFn01-15]_ 住，善攝護諸根，飲食知節量，具信 [MettFn01-16]_ 又精進，魔 [MettFn01-17]_ 不能勝彼，如風吹石山。 [MettFn01-18]_ 
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 8 住於觀不淨，諸根善克制，
        | 於食且知足，具信且精進，
        | 魔無法制他，如風吹石山。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 觀身不淨，能攝諸根，食知節度，常樂精進，不為邪動，如風大山。（法句經T04, 562a） [TSFn01-18]_
        
        2. 當觀不淨行，諸根無缺漏，於食知止足，有信執精進，不恣於欲意，如風吹泰山。（出曜經T04, 749c） [TSFn01-19]_
        
        3. 當觀不淨行，諸根無缺漏，於食知止足，有信執精進，不恣於欲意，如風吹泰山。（法集要頌經T04, 793b） [TSFn01-20]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - 8. Whoever lives contemplating "the Impurities", [NāradaFn01-12]_ with senses restrained, in food moderate, full of faith, [NāradaFn01-13]_ full of sustained energy, him Màra overthrows not, as the wind (does not overthrow) a rocky mountain. [NāradaFn01-14]_ 
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 8. Just as a storm cannot prevail against a rocky mountain, so Mara can never overpower the man who lives meditating on the impurities, who is controlled in his senses, moderate in eating, and filled with faith and earnest effort. [BudRkFn01-02]_
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **8** One who stays focused on the foul,
        | is restrained with regard to the senses,
        | knowing moderation in food,
@@ -636,7 +636,7 @@
        |   Mara does not overcome him
        |   as the wind, a mountain of rock. [ThaniSFn-V7-8]_
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **8** One with faith and self-exertion,
        | Body-foulness contemplation,
        | With his senses well-subdued,
@@ -644,7 +644,7 @@
        | Him, will Mara not defeat,
        | Nor will wind, a granite peak.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 8 He who lives without looking for pleasures, his senses well controlled, moderate in his food, faithful and strong, him Mara will certainly not overthrow, any more than the wind throws down a rocky mountain.
 
    * - 巴利註解漢譯 [11]_
@@ -657,36 +657,36 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 9. Anikkasāvo kāsāvaṃ yo vatthaṃ paridahessati 
        | Apeto damasaccena na so kāsāvamarahati.
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 9. Anikkasāvo kāsāvaṃ, yo vatthaṃ paridahissati;
        | Apeto damasaccena, na so kāsāvamarahati.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 9 若人穿袈裟，不離諸垢穢\ [LChnFn01-10]_\，無誠實克己，不應著袈裟。
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 9 若人穿袈裟，不離諸垢穢 [LCanFn01-10]_ ，無誠實克己，不應著袈裟。
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 9 該人還未除污染，但卻身上穿袈裟，
        | 沒有自制不真實，穿著袈裟他不配。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 不吐毒態，欲心馳騁，未能自調，不應法衣。（法句經, T04, 562a） [TSFn01-21]_
 
        2. 無塵離於塵，能持此服者，無御無所至，此不應法服。（出曜經, T04, 748b） [TSFn01-22]_
 
        3. 無塵離於塵，能持此服者，無御無所至，此不應法服。（法集要頌經, T04,793a） [TSFn01-23]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - THE PURE ARE WORTHY OF THE YELLOW ROBE BUT NOT THE IMPURE
         9. Whoever, unstainless, without self control and truthfulness, should don the yellow robe, [NāradaFn01-15]_ is not worthy of it. 
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 9. Whoever being depraved, devoid of self-control and truthfulness, should don the monk's yellow robe, he surely is not worthy of the robe.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **9** He who,  depraved,
        |     devoid
        |   of truthfulness
@@ -694,13 +694,13 @@
        | puts on the ochre robe,
        | doesn't deserve the ochre robe.
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **9** The man not free of inward taints,
        | In ochre tints ordained,
        | Who’s full of lies and unrestrained,
        | Does not deserve that ochre stain.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 9 He who wishes to put on the yellow dress without having cleansed himself from sin, who disregards temperance and truth, is unworthy of the yellow dress.
 
    * - 巴利註解漢譯 [11]_
@@ -713,35 +713,35 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 10. Yo ca vantakasāvassa sīlesu susamāhito
        | Upeto damasaccena sa ve kāsāvamarahati. 
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 10. Yo ca vantakasāvassa, sīlesu susamāhito;
        | Upeto damasaccena, sa ve kāsāvamarahati.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 10 若人離諸垢\ [MettFn01-19]_\，能善持戒律\ [MettFn01-20]_\，克己與誠實，彼應著袈裟。\ [MettFn01-21]_\
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 10 若人離諸垢 [MettFn01-19]_ ，能善持戒律 [MettFn01-20]_ ，克己與誠實，彼應著袈裟。 [MettFn01-21]_ 
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
-     - | 10 該人已經除污染\ [CFFn01-03]_ ，善於持守其戒行，
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 10 該人已經除污染 [CFFn01-03]_ ，善於持守其戒行，
        | 具備自制與真實，的確他配穿袈裟。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 能吐毒態，戒意安靜，降心已調，此應法衣。（法句經, T04, 562a） [TSFn01-24]_
 
        2. 若能除垢穢，修戒等慧定，彼應思惟業，此應服袈裟。（出曜經, T04, 748b） [TSFn01-25]_
 
        3. 若能除垢穢，修戒等慧定，彼應思惟業，此應服袈裟。（法集要頌經, T04,793a） [TSFn01-26]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - 10. He who is purged of all stain, is well-established in morals and endowed with self-control and truthfulness, is indeed worthy of the yellow robe.
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 10. But whoever is purged of depravity, well-established in virtues and filled with self-control and truthfulness, he indeed is worthy of the yellow robe.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **10** But he who is free
        |                  of depravity
        |              endowed
@@ -751,13 +751,13 @@
        |                  in the precepts,
        | truly deserves the ochre robe.
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **10** Whatever monk is purged of taints,
        | With virtue well-ingrained,
        | A man sincere and well restrained,
        | Is worthy of the ochre stain.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 10 But he who has cleansed himself from sin, is well grounded in all virtues, and regards also temperance and truth, he is indeed worthy of the yellow dress.
 
    * - 巴利註解漢譯 [11]_
@@ -770,22 +770,22 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 11. Asāre sāramatino sāre cāsāradassino
        | Te sāraṃ nādhigacchanti micchāsaṃkappagocarā.
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 11. Asāre sāramatino, sāre cāsāradassino;
        | Te sāraṃ nādhigacchanti, micchāsaṅkappagocarā.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 11 **非真**\ [LChnFn01-11]_\ **思真實** \ [MettFn01-22]_\，真實\ [LChnFn01-12]_\見非真，邪思惟境界，彼不達真實。
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 11 **非真** [LCanFn01-11]_ **思真實** [MettFn01-22]_ ，真實 [LCanFn01-12]_ 見非真，邪思惟境界，彼不達真實。
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 11 思無內涵為有內涵，視有內涵為無內涵。
        | 擁有此邪思惟的人，他們不能達到內涵。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 以真為偽，以偽為真，是為邪計，不得真利。（法句經, T04, 562a） [TSFn01-27]_
 
        2. 以真為偽，以偽為真，是為邪計，不得真利。（法句譬喻經, T04,583c） [TSFn01-28]_
@@ -794,27 +794,27 @@
        
        4. 不堅起堅想，堅起不堅想，後不至於堅，由起邪見故。（法集要頌經, T04,793a） [TSFn01-30]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - RIGHT PERCEPTION LEADS TO THE REALIZATION OF THE TRUTH
         11. In the unessential they imagine the essential [NāradaFn01-16]_ , in the essential they see the unessential - they who entertain (such) wrong thoughts [NāradaFn01-17]_ never realize the essence. 
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 11. Those who mistake the unessential to be essential and the essential to be unessential, dwelling in wrong thoughts, never arrive at the essential.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **11** Those who regard
        | non-essence as essence
        | and see essence as non-,
        | don't get to the essence,
        |   ranging about in wrong resolves.
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **11** Quintessence they see as non-essence;
        | Non-essence they see as quintessence;
        | And they in wrong thoughts acquiescent,
        | Will never discover quintessence.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 11 They who imagine truth in untruth, and see untruth in truth, never arrive at truth, but follow vain desires.
 
    * - 巴利註解漢譯 [11]_
@@ -827,22 +827,22 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 12. Sārañca sārato ñatvā asārañca asārato
        | Te sāraṃ adhigacchanti sammāsaṃkappagocarā.
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 12. Sārañca  sārato ñatvā, asārañca asārato;
        | Te sāraṃ adhigacchanti, sammāsaṅkappagocarā.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 12. 真實思真實，非真知非真，正思惟境界，彼能達真實。\ [MettFn01-23]_\
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 12. 真實思真實，非真知非真，正思惟境界，彼能達真實。 [MettFn01-23]_ 
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 12 知有內涵為有內涵，知無內涵為無內涵。
        | 擁有此正思惟的人，他們能夠達到內涵。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 知真為真，見偽知偽，是為正計，必得真利。（法句經, T04, 562b） [TSFn01-31]_
 
        2. 知真為真，見偽知偽，是為正計，必得真利。（法句譬喻經, T04, 583c） [TSFn01-32]_
@@ -851,26 +851,26 @@
 
        4. 堅而知堅者，不堅知不堅，被人求於堅，正治以為本。（法集要頌經, T04,793a） [TSFn01-34]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - 12. What is essential they regard as essential, what is unessential they regard as unessential - they who entertain (such) right thoughts [NāradaFn01-18]_ realize the essence.
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 12. Those who know the essential to be essential and the unessential to be unessential, dwelling in right thoughts, do arrive at the essential.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **12** But those who know
        | essence as essence,
        | and non-essence as non-,
        | get to the essence,
        |   ranging about in right resolves. [ThaniSFn-V11-12]_
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **12** Quintessence they see as quintessence,
        | Non-essence they see as non-essence,
        | And they in right thoughts acquiescent,
        | Go on to discover quintessence.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 12 They who know truth in truth, and untruth in untruth, arrive at truth, and follow true desires.
 
    * - 巴利註解漢譯 [11]_
@@ -883,22 +883,22 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 13. Yathāgāraṃ ducchannaṃ vuṭṭhi samativijjhati
        | Evaṃ abhāvitaṃ cittaṃ rāgo samativijjhati.
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 13. Yathā agāraṃ ducchannaṃ, vuṭṭhī samativijjhati;
        | Evaṃ abhāvitaṃ cittaṃ, rāgo samativijjhati.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 13 如蓋屋不密，必為雨漏浸，如是不修心，貪欲必漏入。\ [MettFn01-24]_\
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 13 如蓋屋不密，必為雨漏浸，如是不修心，貪欲必漏入。 [MettFn01-24]_ 
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 13 就像雨可以滲透蓋得不好的屋子，
        | 貪欲亦可滲透尚未受到培育的心。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 蓋屋不密，天雨則漏，意不惟行，淫泆為穿。（法句經, T04, 562b） [TSFn01-35]_
        
        2. 蓋屋不密，天雨則漏，意不惟行，婬泆為穿。（法句譬喻經, T04, 583c） [TSFn01-36]_
@@ -907,26 +907,26 @@
 
        4. 蓋屋若不密，天雨則常漏，人不思惟行，恒歷婬怒癡。（法集要頌經, T04,795b） [TSFn01-38]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - LUST PIERCES THE HEARTS OF THE UNDEVELOPED BUT NOT THOSE OF THE DEVELOPED
         13. Even as rain penetrates as ill-thatched house, so does lust penetrate an undeveloped mind. 
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 13. Just as rain breaks through an ill-thatched house, so passion penetrates an undeveloped mind.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **13** As rain seeps into
        | an ill-thatched hut,
        | so passion,
        |   the undeveloped mind.
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **13 & 14** Like ill-thatched huts let in the rain,
        | Is lust let in by minds untrained.
        | In well-roofed huts no water leaks:
        | In well-trained minds no passion seeps.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 13 As rain breaks through an ill-thatched house, passion will break through an unreflecting mind.
 
    * - 巴利註解漢譯 [11]_
@@ -939,22 +939,22 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 14. Yathāgāraṃ succhannaṃ vuṭṭhi na samativijjhati
        | Evaṃ subhāvitaṃ cittaṃ rāgo na samativijjhati.
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 14. Yathā  agāraṃ suchannaṃ, vuṭṭhī na samativijjhati;
        | Evaṃ subhāvitaṃ cittaṃ, rāgo na samativijjhati.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 14 如善密蓋屋，不為雨漏浸，如是善修心，貪欲不漏入。\ [MettFn01-25]_\
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 14 如善密蓋屋，不為雨漏浸，如是善修心，貪欲不漏入。 [MettFn01-25]_ 
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 14 就像雨不能滲透蓋得很好的屋子，
-       | 貪欲亦滲不透已被良好培育的心。\ [CFFn01-04]_
+       | 貪欲亦滲不透已被良好培育的心。 [CFFn01-04]_
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 蓋屋善密，雨則不漏，攝意惟行，淫泆不生。（法句經, T04, 562b） [TSFn01-39]_
        
        2. 蓋屋善密，雨則不漏，攝意惟行，婬匿不生。（法句譬喻經, T04, 583c） [TSFn01-40]_
@@ -963,25 +963,25 @@
        
        4. 蓋屋若不密，天雨則常漏，人自思惟行，永無婬怒癡。（法集要頌經, T04,795b） [TSFn01-42]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - 14. Even as rain does not penetrate a well-thatched house, so does lust not penetrate a well-developed [NāradaFn01-19]_ mind. 
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 14. Just as rain does not break through a well-thatched house, so passion never penetrates a well-developed mind.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **14** As rain doesn't seep into
        | a well-thatched hut,
        | so passion does not,
        |   the well-developed mind.
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **13 & 14** Like ill-thatched huts let in the rain,
        | Is lust let in by minds untrained.
        | In well-roofed huts no water leaks:
        | In well-trained minds no passion seeps.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 14 As rain does not break through a well-thatched house, passion will not break through a well-reflecting mind.
 
    * - 巴利註解漢譯 [11]_
@@ -994,24 +994,24 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 15. Idha socati pecca socati pāpakārī ubhayattha socati
        | So socati so vihaññati disvā kamma kiliṭṭhamattano.
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 15. Idha  socati pecca socati, pāpakārī ubhayattha socati;
        | So socati so vihaññati, disvā kammakiliṭṭhamattano.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 15 現世此處悲，死後他處悲，作諸惡業者，兩處俱憂悲，見自惡業已，他悲.他苦惱。\ [MettFn01-26]_\
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 15 現世此處悲，死後他處悲，作諸惡業者，兩處俱憂悲，見自惡業已，他悲.他苦惱。 [MettFn01-26]_ 
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 15 此世他悲哀，來世他悲哀，
        | 造惡者於兩處都是悲哀。
        | 見到自己污穢的行為後，
        | 他感到悲哀，他感到苦惱。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 造憂後憂，行惡兩憂，彼憂惟懼，見罪心懅。（法句經, T04, 562b） [TSFn01-43]_
 
        2. 造憂後憂，行惡兩憂，彼憂唯懼，見罪心懅。（法句譬喻經, T04, 583b） [TSFn01-44]_
@@ -1020,14 +1020,14 @@
        
        4. 此憂彼亦憂，惡行二俱憂，彼憂彼受報，見行乃審知。（法集要頌經, T04,792c） [TSFn01-46]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - EVIL-DOERS SUFFER HERE AND HEREAFTER
         15. Here he grieves, [NāradaFn01-20]_ hereafter he grieves. [NāradaFn01-21] In both states the evil-doer grieves. He grieves, he is afflicted, perceiving the impurity of his own deeds.
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 15. The evil-doer grieves here and hereafter; he grieves in both the worlds. He laments and is afflicted, recollecting his own impure deeds.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **15** Here he grieves
        |   he grieves  hereafter.
        | In both worlds
@@ -1036,10 +1036,10 @@
        | seeing the corruption
        |   of his deeds.
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - **15** Evil-doers sorrow in both present and future lives. They sorrow and grieve, having realised their own defiled conduct.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 15 The evil-doer mourns in this world, and he mourns in the next; he mourns in both. He mourns and suffers when he sees the evil of his own work.
 
    * - 巴利註解漢譯 [11]_
@@ -1052,24 +1052,24 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 16. Idha modati pecca modati katapuñño ubhayattha modati
        | So modati so pamodati disvā kamma visuddhimattano. 
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 16. Idha modati pecca modati, katapuñño ubhayattha modati;
        | So modati so pamodati, disvā kammavisuddhimattano.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 16 現世此處樂，死後他處樂，作諸善業者，兩處俱受樂，見自善業已，他樂.他極樂。\ [MettFn01-27]_\
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 16 現世此處樂，死後他處樂，作諸善業者，兩處俱受樂，見自善業已，他樂.他極樂。 [MettFn01-27]_ 
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 16 此世他喜悅，來世他喜悅，
        | 行善者於兩處都是喜悅。
        | 見到自己清淨的行為後，
        | 他感到喜悅，非常的喜悅。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 造喜後喜，行善兩喜，彼喜惟歡，見福心安。（法句經, T04, 562b） [TSFn01-47]_
 
        2. 造喜後喜，行善兩喜，彼喜惟歡，見福心安。（法句譬喻經, T04, 583b） [TSFn01-48]_
@@ -1078,14 +1078,14 @@
        
        4. 此喜彼亦喜，福行二俱喜，彼行彼受報，見行自清淨。（法集要頌經, T04,792c） [TSFn01-50]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - HAPPY ARE THE WELL-DOERS HERE AND HEREAFTER
         16. Here he rejoices, [NāradaFn01-22]_ hereafter he rejoices. [NāradaFn01-23] In both states the well-doer rejoices. He rejoices, exceedingly rejoices, perceiving the purity of his own deeds. [NāradaFn01-24]
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 16. The doer of good rejoices here and hereafter; he rejoices in both the worlds. He rejoices and exults, recollecting his own pure deeds.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **16** Here he rejoices
        |   he rejoices hereafter.
        | In both worlds
@@ -1094,10 +1094,10 @@
        | seeing the purity
        | of his deeds.
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - **16** Kind people are happy in both present and future lives. They are happy and satisfied, having realised their own pure conduct.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 16 The virtuous man delights in this world, and he delights in the next; he delights in both. He delights and rejoices, when he sees the purity of his own work.
 
    * - 巴利註解漢譯 [11]_
@@ -1110,24 +1110,24 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 17. Idha tappati pecca tappati pāpakārī ubhayattha tappati
        | Pāpaṃ me katanti tappati bhiyyo tappati duggatiṃ gato.
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 17. Idha tappati pecca tappati, pāpakārī **[pāpakāri (?)]** ubhayattha tappati;
        | ‘‘Pāpaṃ me kata’’nti tappati, bhiyyo **[bhīyo (sī.)]** tappati duggatiṃ gato.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 17 現世此處苦，死後他處苦，作諸惡業者，兩處俱受苦，（現）悲『我作惡』，墮惡趣更苦\ [LChnFn01-13]_\。\ [MettFn01-28]_\
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 17 現世此處苦，死後他處苦，作諸惡業者，兩處俱受苦，（現）悲『我作惡』，墮惡趣更苦 [LCanFn01-13]_ 。 [MettFn01-28]_ 
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 17 此世他受苦，來世他受苦，
        | 造惡者在兩處都遭受痛苦。
        | 想到「我造了惡」時他痛苦。
        | 去到惡趣時，他更加痛苦。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 今悔後悔，為惡兩悔，厥為自殃，受罪熱惱。（法句經, T04, 562b） [TSFn01-51]_
 
        2. 今悔後悔，為惡兩悔，厥為自殃，受罪熱惱。（法句譬喻經, T04, 583b） [TSFn01-52]_
@@ -1136,14 +1136,14 @@
        
        4. 此煮彼亦煮，罪行二俱煮，彼煮彼受報，見行自有驗。（法集要頌經, T04,792c） [TSFn01-54]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - THE EVIL-DOER LAMENTS HERE AND HEREAFTER
         17. Here he suffers, hereafter he suffers. In both states the evil-doer suffers. "Evil have I done" (thinking thus), he suffers. Furthermore, he suffers, having gone to a woeful state. [NāradaFn01-25]_
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 17. The evil-doer suffers here and hereafter; he suffers in both the worlds. The thought, "Evil have I done," torments him, and he suffers even more when gone to realms of woe.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **17** Here he's tormented
        |   he's tormented  hereafter.
        | In both worlds
@@ -1154,7 +1154,7 @@
        | he's tormented
        |   all the more.
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **17** Here he regrets, 
        | Hereafter regrets,
        | In both worlds the doer of evil regrets.
@@ -1163,7 +1163,7 @@
        | The thought makes him mourn.
        | Still more he regrets when in low realms he’s born.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 17 The evil-doer suffers in this world, and he suffers in the next; he suffers in both. He suffers when he thinks of the evil he has done; he suffers more when going on the evil path.
 
    * - 巴利註解漢譯 [11]_
@@ -1176,36 +1176,36 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 18. Idha nandati pecca nandati pāpakārī ubhayattha nandati
        | Pāpaṃ me katanti nandati bhiyyo nandati suggatiṃ gato. 
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 18. Idha nandati pecca nandati, katapuñño ubhayattha nandati;
        | ‘‘Puññaṃ me kata’’nti nandati, bhiyyo nandati suggatiṃ gato.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 18 現世此處喜，死後他處喜，修諸福業者，兩處俱歡喜，現喜「我修福」，生善趣更喜。\ [MettFn01-29]_
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 18 現世此處喜，死後他處喜，修諸福業者，兩處俱歡喜，現喜「我修福」，生善趣更喜。 [MettFn01-29]_
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 18 此世他快樂，來世他快樂，
        | 行善者在兩處都感到快樂。
        | 想到「我造了福」時他快樂。
        | 去到善趣時，他更加快樂。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 今歡後歡，為善兩歡，厥為自祐，受福悅豫。（法句經, T04, 562b） [TSFn01-55]_
        
        2. 今歡後歡，為善兩歡，厥為自祐，受福悅豫。（法句譬喻經, T04, 583b） [TSFn01-56]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - HAPPY ARE THE RIGHTEOUS
         18. Here he is happy, hereafter he is happy. In both states the well-doer is happy. "Good have I done" (thinking thus), he is happy. Furthermore, he is happy, having gone to a blissful state.
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 18. The doer of good delights here and hereafter; he delights in both the worlds. The thought, "Good have I done," delights him, and he delights even more when gone to realms of bliss.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **18** Here he delights
        |   he delights hereafter.
        | In both worlds
@@ -1216,7 +1216,7 @@
        | he delights
        |   all the more. [ThaniSFn-V17-18]_
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **18** Here he’s delighted,
        | Hereafter delighted,
        | In both worlds the maker of merit’s delighted.
@@ -1225,7 +1225,7 @@
        | His glad exultation.
        | He’s happy still more with his good destination.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 18 The virtuous man is happy in this world, and he is happy in the next; he is happy in both. He is happy when he thinks of the good he has done; he is still more happy when going on the good path.
 
    * - 巴利註解漢譯 [11]_
@@ -1238,38 +1238,38 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 19. Bahumpi ce sahitaṃ bhāsamāno
        | Na takkaro hoti naro pamatto
        | Gopo'va gāvo gaṇayaṃ paresaṃ
        | Na bhāgavā sāmaññassa hoti. 
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 19. Bahumpi ce saṃhita **[sahitaṃ (sī. syā. kaṃ. pī.)]** bhāsamāno, na takkaro hoti naro pamatto;
        | Gopova  gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 19 雖多誦經集\ [LChnFn01-14]_\、4，放逸而不行，如牧數他牛\ [LChnFn01-15]_\，自無沙門分。
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 19 雖多誦經集 [LCanFn01-14]_ 、4，放逸而不行，如牧數他牛 [LCanFn01-15]_ ，自無沙門分。
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 19 即使背誦許多經，放逸者不實行它，
        | 猶如牧者數他牛，沒得分享沙門份。
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 巧言多求，放蕩無戒，懷婬怒癡，不惟止觀，聚如群牛，非佛弟子。（法句經, T04, 562b） [TSFn01-57]_
 
        2. 雖多誦習義，放逸不從正，如牧數他牛，不獲沙門正。（出曜經, T04, 643b） [TSFn01-58]_
        
        3. 雖誦習多義，放逸不從正，如牧數他牛，難獲沙門果。（法集要頌經, T04,779b） [TSFn01-59]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - LEARNING WITHOUT PRACTICE IS OF NO WORTH
         19. Though much he recites the Sacred Texts, [NāradaFn01-26]_ but acts not accordingly, that heedless man is like a cowherd who counts others' kine. He has no share in the fruits [NāradaFn01-27]_ of the Holy Life. [NāradaFn01-28]_ 
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 19. Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others — he does not partake of the blessings of the holy life.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **19** If he recites many teachings, but
        |   — heedless man —
        | doesn't do what they say,
@@ -1277,10 +1277,10 @@
        |          others,
        | he has no share in the contemplative life.
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - **19** Although he frequently recites the scriptures, a heedless person fails to put them into practice. He is like a cowherd, counting others’ cattle. He has no real share in the life of asceticism.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 19 The thoughtless man, even if he can recite a large portion (of the law), but is not a doer of it, has no share in the priesthood, but is like a cowherd counting the cows of others.
 
    * - 巴利註解漢譯 [11]_
@@ -1293,7 +1293,7 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS)\ [1]_
+   * - 巴利原典 (PTS) [1]_
      - | 20. Appampi ce sahitaṃ bhāsamāno20
        | Dhammassa hoti anudhammacārī
        | Rāgañca dosañca pahāya mohaṃ
@@ -1303,40 +1303,40 @@
        | 
        | Yamakavaggo paṭhamo.
 
-   * - 巴利原典 (CSCD)\ [2]_
+   * - 巴利原典 (CSCD) [2]_
      - | 20. Appampi ce saṃhita bhāsamāno, dhammassa hoti **[hotī (sī. pī.)]** anudhammacārī;
        | Rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto;
        | Anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.
        | 
        | Yamakavaggo paṭhamo niṭṭhito.
 
-   * - 漢譯(\ **了參 法師** \譯, 文言文版)\ [3]_
-     - 20 雖誦經典少，能依教實行，具足正知識，除滅貪.瞋.癡，善淨解脫心，棄捨於世欲，此界.或他界，彼得沙門分\ [MettFn01-31]_ \。\ [MettFn01-32]_
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 20 雖誦經典少，能依教實行，具足正知識，除滅貪.瞋.癡，善淨解脫心，棄捨於世欲，此界.或他界，彼得沙門分 [MettFn01-31]_ 。 [MettFn01-32]_
 
        雙品第一竟〔Yamakavaggo Pa.thamo〕
 
-   * - 漢譯(\ **敬法 法師** \ 譯, 白話文版)\ [4]_
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 20 即使背誦少許經，依法之人依法行，
        | 捨棄了貪和瞋痴，具備正知心全解，
-       | 今生來世不執著，他得分享沙門份。\ [CFFn01-05]_
+       | 今生來世不執著，他得分享沙門份。 [CFFn01-05]_
        | 
        | 雙品第一完畢
 
-   * - 漢譯(相當之古漢譯對應經典)\ [5]_
+   * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 時言少求，行道如法，除婬怒癡，覺正意解，見對不起，是佛弟子。（法句經, T04, 562b） [TSFn01-60]_
 
        2. 說法雖微少，一意專聽受，此名護法人，除去婬怒癡，眾結永盡者，故名為沙門。（出曜經, T04, 658c） [TSFn01-61]_
        
        | 3. a. 所謂持法者，不必多誦習，若少有所聞，具足法身行。（法集要頌經, T04,779b11）
-       | \　b. 若聞惡而忍，說行人讚嘆，消除貪瞋癡，彼獲沙門性。（法集要頌經, T04,779b15） [TSFn01-62]_
+       | 　 b. 若聞惡而忍，說行人讚嘆，消除貪瞋癡，彼獲沙門性。（法集要頌經, T04,779b15） [TSFn01-62]_
 
-   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** )\ [6]_
-     - 20. Though little he recites the Sacred Texts, but acts in accordance with the teaching, forsaking lust, hatred and ignorance, truly knowing, with mind well freed, clinging to naught here and hereafter, he shares the fruits of the Holy Life.
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 20. Though little he recites the Sacred Texts, but acts in  accordance with the teaching, forsaking lust, hatred and ignorance, truly knowing, with mind well freed, clinging to naught here and hereafter, he shares the fruits of the Holy Life.
 
-   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** )\ [7]_
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 20. Little though he recites the sacred texts, but puts the Teaching into practice, forsaking lust, hatred, and delusion, with true wisdom and emancipated mind, clinging to nothing of this or any other world — he indeed partakes of the blessings of a holy life.
 
-   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** )\ [8]_
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **20** If he recites next to nothing
        | but follows the Dhamma
        | in line with the Dhamma;
@@ -1348,7 +1348,7 @@
        |   either here or hereafter:
        | he has his share in the contemplative life.
 
-   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** )\ [9]_
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **20** Although a person infrequently recites the scriptures 
        |           if he practises in accordance with Dhamma; 
        |           if he has abandoned greed, hatred and delusion; 
@@ -1357,7 +1357,7 @@
        |           if he is attached to nothing in the human or deva realms,
        | he has a real share in the life of asceticism.
      
-   * - 英譯(Translated from the Pali by Friedrich Max Müller)\ [10]_
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 20 The follower of the law, even if he can recite only a small portion (of the law), but, having forsaken passion and hatred and foolishness, possesses true knowledge and serenity of mind, he, caring for nothing in this world or that to come, has indeed a share in the priesthood.
 
    * - 巴利註解漢譯 [11]_
@@ -1367,91 +1367,100 @@
 
 備註：
 
-.. [1] 〔註001〕　\ `巴利原典 (PTS) Dhammapadapāḷi <Dhp-PTS.html>`__ \ 乃參考\ `Access to Insight <http://www.accesstoinsight.org/>`_\ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`_\ : → `Dhp <http://www.accesstoinsight.org/tipitaka/kn/dhp/index.html>`__\ → `{Dhp 1-20} <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.1>`_\ ( `Dhp <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html>`__\ ; `Dhp 21-32 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.21>`_\ ; `Dhp 33-43 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.33>`_\ , etc..）
+.. [1] 〔註001〕　 `巴利原典 (PTS) Dhammapadapāḷi <Dhp-PTS.html>`__  乃參考 `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `Dhp <http://www.accesstoinsight.org/tipitaka/kn/dhp/index.html>`__ → `{Dhp 1-20} <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.1>`__ ( `Dhp <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html>`__ ; `Dhp 21-32 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.21>`__ ; `Dhp 33-43 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.33>`__ , etc..）
 
-.. [2] 〔註002〕　\ `巴利原典 (CSCD) Dhammapadapāḷi \ 乃參考\ `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`_\ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD (`Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版原始出處(original)請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單“Tipiṭaka Scripts”中選 `Roman→Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Khuddakanikāya → Dhammapadapāḷi → `1. Yamakavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul0.xml>`_\ (2. `Appamādavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul1.xml>`_\ , 3. `Cittavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul2.xml>`_\ , etc..)。]
+.. [2] 〔註002〕　 `巴利原典 (CSCD) Dhammapadapāḷi 乃參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版原始出處(original)請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單 “Tipiṭaka Scripts” 中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Khuddakanikāya → Dhammapadapāḷi → `1. Yamakavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul0.xml>`__ (2. `Appamādavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul1.xml>`__ , 3. `Cittavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul2.xml>`__ , etc..)。]
 
-.. [3] 〔註003〕　本譯文請參考：`文言文版 <Dhammapada.htm>`__ (\ **了參 法師** \ 譯，台北市：圓明出版社，1991。) 另參： 
+.. [3] 〔註003〕　本譯文請參考： `文言文版 <{filename}dhp-Ven-L-C%zh.rst>`__ ( **了參 法師** 譯，台北市：圓明出版社，1991。) 另參： 
 
-       一、 `Dhammapada 法句經(中英對照) <ec-dhp.htm>`__ \-- English translated by \ **Ven. Ācharya Buddharakkhita** \; Chinese translated by Yeh chun(葉均); Chinese commented by \ **Ven. Bhikkhu Metta(明法比丘)** \〔 \ **Ven. Ācharya Buddharakkhita** \ (\ **佛護 尊者** \) 英譯; \ **了參 法師(葉均)** \ 譯;　\ **明法比丘** \ 註（增加許多濃縮的故事）〕： `PDF <../../../../../extra/pdf/ec-dhp.pdf>`__ \、 `DOC <../../../../../extra/pdf/ec-dhp.doc>`__\；　`DOC (Foreign1 字型) <../../../../../extra/doc/ec-dhp-f1.doc>`__ \。
+       一、 Dhammapada 法句經(中英對照) -- English translated by **Ven. Ācharya Buddharakkhita** ; Chinese translated by Yeh chun(葉均); Chinese commented by **Ven. Bhikkhu Metta(明法比丘)** 〔 **Ven. Ācharya Buddharakkhita** ( **佛護 尊者** ) 英譯; **了參 法師(葉均)** 譯; **明法比丘** 註（增加許多濃縮的故事）〕： `PDF <../../../../../extra/pdf/ec-dhp.pdf>`__ 、 `DOC <../../../../../extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) <../../../../../extra/doc/ec-dhp-f1.doc>`__ 。
 
-       二、 `法句經 Dhammapada (Pāḷi-Chinese 巴漢對照) <pc-Dhammapada.htm>`__ \-- 漢譯：\ **了參 法師(葉均)** \ ；　單字注解：廖文燦；　注解：\ **尊者　明法比丘** \ ；`PDF <../../../../../extra/pdf/pc-Dhammapada.pdf>`__\、 `DOC <../../../../../extra/doc/pc-Dhammapada.doc>`__\；　`DOC (Foreign1 字型) <../../../../../extra/doc/pc-Dhammapada-f1.doc>`__
+       二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF <../../../../../extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <../../../../../extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) <../../../../../extra/doc/pc-Dhammapada-f1.doc>`__
 
-.. [4] 〔註004〕　本譯文請參考：`白話文版 (pdf) <../../../../../extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`_，**敬法 法師** \ 譯，第二修訂版 2015，`原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`_ ；　(`初版 <../../../../../extra/pdf/DhP_Ven-c-f.pdf>`__)
+.. [4] 〔註004〕　本譯文請參考： `白話文版 (pdf) <../../../../../extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__， **敬法 法師** 譯，第二修訂版 2015，`原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`__ ；　(`初版 <../../../../../extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
 
-.. [5] 〔註005〕　取材自：【部落格-- 荒草不曾鋤】--　`《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`_  （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+.. [5] 〔註005〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
 
-                  **參考相當之古漢譯對應經典：**
+          **參考相當之古漢譯對應經典：**
 
-                  - | `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`_ ，2014。
-                    | 〔大正新脩大藏經第四冊 `No. 210《法句經》 <http://www.cbeta.org/result/T04/T04n0210.htm>`_ ； **尊者 法救**\撰　吳天竺沙門　**維祇難**\等譯：`卷上 <http://www.cbeta.org/result/normal/T04/0210_001.htm>`__ 、`卷下 <http://www.cbeta.org/result/normal/T04/0210_002.htm>`__ 〕(CBETA)
+          - | `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ ，2014。
+            | 〔大正新脩大藏經第四冊 `No. 210《法句經》 <http://www.cbeta.org/result/T04/T04n0210.htm>`__ ； **尊者 法救** 撰　吳天竺沙門** 維祇難** 等譯： `卷上 <http://www.cbeta.org/result/normal/T04/0210_001.htm>`__ 、 `卷下 <http://www.cbeta.org/result/normal/T04/0210_002.htm>`__ 〕(CBETA)
 
-                  - 大正新脩大藏經 第四冊 `No. 211《法句譬喻經》 <http://www.cbeta.org/result/T04/T04n0211.htm>`_；晉世沙門　**法炬**\共　**法立**\譯：`卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__、`卷第二 <http://www.cbeta.org/result/normal/T04/0211_002.htm>`__、`卷第三 <http://www.cbeta.org/result/normal/T04/0211_003.htm>`__、`卷第四 <http://www.cbeta.org/result/normal/T04/0211_004.htm>`__ (CBETA)
+          - | `《法句譬喻經》校勘與標點 <http://yifert211.blogspot.tw/>`__ ，2014。
+            | 大正新脩大藏經 第四冊 `No. 211《法句譬喻經》 <http://www.cbeta.org/result/T04/T04n0211.htm>`__ ；晉世沙門 **法炬** 共 **法立** 譯： `卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0211_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0211_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0211_004.htm>`__ (CBETA)
 
-                  - | `《出曜經》校勘與標點 <http://yifertw212.blogspot.com/>`_ ，2014。
-                    | 〔大正新脩大藏經 第四冊 `No. 212《出曜經》 <http://www.cbeta.org/result/T04/T04n0212.htm>`_ ；姚秦涼州沙門　**竺佛念**\譯：`卷第一 <http://www.cbeta.org/result/normal/T04/0212_001.htm>`__ 、`卷第二 <http://www.cbeta.org/result/normal/T04/0212_001.htm>`__ 、`卷第三 <http://www.cbeta.org/result/normal/T04/0212_001.htm>`__ 、..., 、..., 、..., 、`卷第二十八 <http://www.cbeta.org/result/normal/T04/0212_028.htm>`__ 、`卷第二十九 <http://www.cbeta.org/result/normal/T04/0212_029.htm>`__ 、`卷第三十 <http://www.cbeta.org/result/normal/T04/0212_030.htm>`__ 〕(CBETA)
-                    | 
+          - | `《出曜經》校勘與標點 <http://yifertw212.blogspot.com/>`__ ，2014。
+            | 〔大正新脩大藏經 第四冊 `No. 212《出曜經》 <http://www.cbeta.org/result/T04/T04n0212.htm>`__ ；姚秦涼州沙門 **竺佛念** 譯： `卷第一 <http://www.cbeta.org/result/normal/T04/0212_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0212_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0212_003.htm>`__ 、..., 、..., 、..., 、 `卷第二十八 <http://www.cbeta.org/result/normal/T04/0212_028.htm>`__ 、 `卷第二十九 <http://www.cbeta.org/result/normal/T04/0212_029.htm>`__ 、 `卷第三十 <http://www.cbeta.org/result/normal/T04/0212_030.htm>`__ 〕(CBETA)
 
-                  - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`_ ，2014。
-                    | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`_ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、`卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__、`卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__、`卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__〕(CBETA)  ( **尊者 法救**\集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災**\奉　詔譯
+          - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
+            | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 \ **Ven Nārada Thera** \ 所譯；請參考原始出處(original): \ `Dhammapada <http://metta.lk/english/Narada/index.htm>`__-- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY \ **Ven Nārada Thera** \
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
-.. [7] 〔註007〕　此英譯為 \ **Ven. Ācharya Buddharakkhita** \ 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by \ **Ven. Ācharya Buddharakkhita** \: `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ \with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ \ by \ **Ven. Bhikkhu Bodhi** \; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ \, `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ \, `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ \, ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
+.. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__
 
-.. [8] 〔註008〕　此英譯為 \ **Ven. Thanissaro Bhikkhu** \ (\ **坦尼沙羅尊者** \ 所譯；請參考原始出處(original): The Dhammapada, A Translation translated from the Pali by \ **Ven. Thanissaro Bhikkhu** \ : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.than.html#preface>`__ ; `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.than.html#intro>`__ ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html>`_ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.than.html>`_ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.than.html>`_ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.than.html>`_  (`Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`_ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`_ → `Dhp <http://www.accesstoinsight.org/tipitaka/kn/dhp/index.html>`_ (Dhammapada The Path of Dhamma)
+.. [8] 〔註008〕　此英譯為 **Ven. Thanissaro Bhikkhu** ( **坦尼沙羅尊者** 所譯；請參考原始出處(original): The Dhammapada, A Translation translated from the Pali by **Ven. Thanissaro Bhikkhu** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.than.html#preface>`__ ; `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.than.html#intro>`__ ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.than.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.than.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.than.html>`__  (`Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ → `Dhp <http://www.accesstoinsight.org/tipitaka/kn/dhp/index.html>`__ (Dhammapada The Path of Dhamma)
 
-.. [9] 〔註009〕　此英譯為 **Ven. Varado Bhikkhu** and **Samanera Bodhesako** 所譯；請參考原始出處(original): `Dhammapada in Verse <http://www.suttas.net/english/suttas/khuddaka-nikaya/dhammapada/index.php>`_ -- Inward Path, Translated by **Bhante Varado** and **Samanera Bodhesako**, Malaysia, 2007
+.. [9] 〔註009〕　此英譯為 **Ven. Varado Bhikkhu** and **Samanera Bodhesako** 所譯；請參考原始出處(original): `Dhammapada in Verse <http://www.suttas.net/english/suttas/khuddaka-nikaya/dhammapada/index.php>`__ -- Inward Path, Translated by **Bhante Varado** and **Samanera Bodhesako**, Malaysia, 2007
 
-.. [10] 〔註010〕　此英譯為 `Friedrich Max Müller <https://en.wikipedia.org/wiki/Max_M%C3%BCller>`_ 所譯；請參考原始出處(original): `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`_ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
+.. [10] 〔註010〕　此英譯為 `Friedrich Max Müller <https://en.wikipedia.org/wiki/Max_M%C3%BCller>`__ 所譯；請參考原始出處(original): `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
-.. [11] 〔註011〕　取材自：【部落格-- 荒草不曾鋤】--　`《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__  （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+.. [11] 〔註011〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
 
-.. [LChnFn01-01] 〔了參法師註01-01〕　舊譯雙要品。
+.. [LCanFn01-01] 〔了參法師註01-01〕　舊譯雙要品。
 
-.. [LChnFn01-02] 〔了參法師註01-02〕　「法」即「達摩」(Dhamma)。這裡第一頌為不善法。第二頌為善法。
+.. [LCanFn01-02] 〔了參法師註01-02〕　「法」即「達摩」(Dhamma)。這裡第一頌為不善法。第二頌為善法。
 
-.. [LChnFn01-03] 〔了參法師註01-03〕　原文 Cakka.m va vahato pada.m 應譯為「如車輪隨於拖車之獸足」。
+.. [LCanFn01-03] 〔了參法師註01-03〕　原文 Cakka.m va vahato pada.m 應譯為「如車輪隨於拖車之獸足」。
 
-.. [LChnFn01-04] 〔了參法師註01-04〕　原文 Sanantano 為古代之意。古法（Sanantano Dhammo 或 Poranako Dhammo）即指一切諸佛與諸佛弟子，所共同遵守的永久不易之法。
+.. [LCanFn01-04] 〔了參法師註01-04〕　原文 Sanantano 為古代之意。古法（Sanantano Dhammo 或 Poranako Dhammo）即指一切諸佛與諸佛弟子，所共同遵守的永久不易之法。
 
-.. [LChnFn01-05] 〔了參法師註01-05〕　「彼人」指諍論的人。因此經乃世尊在祇陀林中針對俱生皮（Kosambi）的諍論比丘而說。
+.. [LCanFn01-05] 〔了參法師註01-05〕　「彼人」指諍論的人。因此經乃世尊在祇陀林中針對俱生皮（Kosambi）的諍論比丘而說。
 
-.. [LChnFn01-06] 〔了參法師註01-06〕　原文 Mayam Ettha Yamamase 直譯應作「我等將滅亡於此（諍論）中」。即為此諍論所困而走上毀滅之途。
+.. [LCanFn01-06] 〔了參法師註01-06〕　原文 Mayam Ettha Yamamase 直譯應作「我等將滅亡於此（諍論）中」。即為此諍論所困而走上毀滅之途。
 
-.. [LChnFn01-07] 〔了參法師註01-07〕　見色身以為淨而好樂之。
+.. [LCanFn01-07] 〔了參法師註01-07〕　見色身以為淨而好樂之。
 
-.. [LChnFn01-08] 〔了參法師註01-08〕　「魔羅」(Maara)，這裡指情欲。
+.. [LCanFn01-08] 〔了參法師註01-08〕　「魔羅」(Maara)，這裡指情欲。
 
-.. [LChnFn01-09] 〔了參法師註01-09〕　「非樂」(Asubha)，指不淨觀，如觀三十二不淨身等。
+.. [LCanFn01-09] 〔了參法師註01-09〕　「非樂」(Asubha)，指不淨觀，如觀三十二不淨身等。
 
-.. [LChnFn01-10] 〔了參法師註01-10〕　貪欲等。
+.. [LCanFn01-10] 〔了參法師註01-10〕　貪欲等。
 
-.. [LChnFn01-11] 〔了參法師註01-11〕　如四種資具及十種邪見等。
+.. [LCanFn01-11] 〔了參法師註01-11〕　如四種資具及十種邪見等。
 
-.. [LChnFn01-12] 〔了參法師註01-12〕　如戒定慧及正見等。
+.. [LCanFn01-12] 〔了參法師註01-12〕　如戒定慧及正見等。
 
-.. [LChnFn01-13] 〔了參法師註01-13〕　由於他作了種種惡業，而引起的現世悲哀稱為「悲我作惡」；然而這種悲哀，尚屬有限，將來墮在惡趣中受報的時候，其苦無窮。
+.. [LCanFn01-13] 〔了參法師註01-13〕　由於他作了種種惡業，而引起的現世悲哀稱為「悲我作惡」；然而這種悲哀，尚屬有限，將來墮在惡趣中受報的時候，其苦無窮。
 
-.. [LChnFn01-14] 〔了參法師註01-04〕　巴利 Sahita 或 Samhita 有集合、合理、感化等多義，這裡是佛陀所說三藏的名稱。 
+.. [LCanFn01-14] 〔了參法師註01-04〕　巴利 Sahita 或 Samhita 有集合、合理、感化等多義，這裡是佛陀所說三藏的名稱。 
 
-.. [LChnFn01-15] 〔了參法師註01-15〕　替別人放牛的人，早上把牛放出，晚上數過了牛的數目交還牛主，換取一天的工資而已。如果他希望去吃從牛所出的乳、酪、生酥、熟酥、醍醐等五味則不可得。
-
+.. [LCanFn01-15] 〔了參法師註01-15〕　替別人放牛的人，早上把牛放出，晚上數過了牛的數目交還牛主，換取一天的工資而已。如果他希望去吃從牛所出的乳、酪、生酥、熟酥、醍醐等五味則不可得。
 
 
 .. [MettFn01-01] 〔明法尊者註01-01〕　**諸法** (mental phenomena、mental states)︰在此指善.惡業(kamma)。**意** ︰指心識。此句即：心為所有作為的前導，心為它們的主人，它們為心所造作。
 
 .. [MettFn01-02] 〔明法尊者註01-02〕　**如輪隨獸足** ：cakkaṁ’va vahato padaṁ，如車輪跟隨拖車的獸足。
 
-.. [MettFn01-03] 〔明法尊者註01-03〕　這是護眼長老(Cakkhupālatthera)的故事，他因瞎了眼，在晚上經行踏死很多小生物，隔天被其他比丘發現。佛陀說他無心殺，沒有罪。《本事經》：「諸不善法生，為因能感苦，皆意為前導，與煩惱俱生。意為前導法，意尊意所使，由意有染污，故有說有行，苦隨此而生，如輪因手轉。」(T4.663.3)；PS: 請參 `001 典故 <{filename}dhp-story001%zh.rst>`__  \（ `001 典故 pdf <../../../../../extra/pdf/DhP_Story001.pdf>`__ ）；或\ `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`_ \ ，一～一、瞎眼的阿羅漢 (偈 001)。
+.. [MettFn01-03] 〔明法尊者註01-03〕　這是護眼長老(Cakkhupālatthera)的故事，他因瞎了眼，在晚上經行踏死很多小生物，隔天被其他比丘發現。佛陀說他無心殺，沒有罪。《本事經》：「諸不善法生，為因能感苦，皆意為前導，與煩惱俱生。意為前導法，意尊意所使，由意有染污，故有說有行，苦隨此而生，如輪因手轉。」(T4.663.3)；
 
-.. [MettFn01-04] 〔明法尊者註01-04〕　舍衛城一位吝嗇的婆羅門之子，甚至快死了，父親也不延醫，佛陀知道此事，去托缽，經過他家，向他放光，他對佛陀生信，死後生忉利天。他父親到墳墓去哭，他下來勸他的父親要親近佛陀。《本事經》：「諸淨善法生，為因能感樂，皆意為前導，與善法俱生。意為前導法，意尊意所使，由意有清淨，故有說有行，樂隨此而生，如影隨形轉。」(T4.664.1)；PS: 請參 `002 典故 <{filename}dhp-story002%zh.rst>`__  \（ `002 典故 pdf <../../../../../extra/pdf/DhP_Story002.pdf>`__ ）；或\ `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`_ \ ，一～二、何必妄想 (偈 002)。
+                  PS: 請參 `001 典故 <{filename}dhp-story001%zh.rst>`__ ；或 `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～一、瞎眼的阿羅漢 (偈 001)。
 
-.. [MettFn01-05] 〔明法尊者註01-05〕　這是關於帝沙長老(Tissatthera)的故事。帝沙長老是佛陀的表弟，晚年出家，卻喜裝作長老，常與年輕比丘爭吵。他不只是今生頑固，前世也很頑固。PS: 請參 `003-004 典故 <{filename}dhp-story003-4%zh.rst>`__ \；（ `003-004 典故 pdf <../../../../../extra/pdf/DhP_Story003_4.pdf>`__ ）\；或\ `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`_ \ ，一～三、報復的苦行者 (偈 003~004)。 
+.. [MettFn01-04] 〔明法尊者註01-04〕　舍衛城一位吝嗇的婆羅門之子，甚至快死了，父親也不延醫，佛陀知道此事，去托缽，經過他家，向他放光，他對佛陀生信，死後生忉利天。他父親到墳墓去哭，他下來勸他的父親要親近佛陀。《本事經》：「諸淨善法生，為因能感樂，皆意為前導，與善法俱生。意為前導法，意尊意所使，由意有清淨，故有說有行，樂隨此而生，如影隨形轉。」(T4.664.1)；
 
-.. [MettFn01-06] 〔明法尊者註01-06〕　本則是妻與妾多世冤冤相報的故事。佛陀作了勸導。《增壹阿含24.8經》︰「怨怨不休息，自古有此法，無怨能勝怨，此法終不朽。」(T2.627.2)。PS: 請參 `005 典故 <{filename}dhp-story005%zh.rst>`__  \（ `005 典故 pdf <../../../../../extra/pdf/DhP_Story005.pdf>`__ ）；或 \ `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`_ \ ，一～四、累劫以來的仇恨 (偈 005)。
+                  PS: 請參 `002 典故 <{filename}dhp-story002%zh.rst>`__ ；或 `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～二、何必妄想 (偈 002)。
 
-.. [MettFn01-07] 〔明法尊者註01-07〕　**彼人** (Pare其他諸人)：指在憍賞彌(Kosambi)的比丘，因精通律的比丘與精通法的比丘判定有罪、無罪意見不同而起諍論。故事與第328-330偈同。PS: 請參\ `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`_ \ ，一～五、憍賞彌諍論不休的比丘們 (偈 006)。
+.. [MettFn01-05] 〔明法尊者註01-05〕　這是關於帝沙長老(Tissatthera)的故事。帝沙長老是佛陀的表弟，晚年出家，卻喜裝作長老，常與年輕比丘爭吵。他不只是今生頑固，前世也很頑固。
+
+                  PS: 請參 `003-004 典故 <{filename}dhp-story003-4%zh.rst>`__ ；或 `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～三、報復的苦行者 (偈 003~004)。 
+
+.. [MettFn01-06] 〔明法尊者註01-06〕　本則是妻與妾多世冤冤相報的故事。佛陀作了勸導。《增壹阿含24.8經》︰「怨怨不休息，自古有此法，無怨能勝怨，此法終不朽。」(T2.627.2)。
+
+                  PS: 請參 `005 典故 <{filename}dhp-story005%zh.rst>`__ ；或  `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～四、累劫以來的仇恨 (偈 005)。
+
+.. [MettFn01-07] 〔明法尊者註01-07〕　**彼人** (Pare其他諸人)：指在憍賞彌(Kosambi)的比丘，因精通律的比丘與精通法的比丘判定有罪、無罪意見不同而起諍論。故事與第328-330偈同。PS: 請參 `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～五、憍賞彌諍論不休的比丘們 (偈 006)。
+       
+                  PS: 另參： `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap23.pdf>`__  ，二十三～七、照顧佛陀的大象 (偈 328~330)。 
 
 .. [MettFn01-08] 〔明法尊者註01-08〕　**我等將毀滅**：我們將滅亡於此諍論之中。另譯作：「我們在此處要止息」(mayam ettha yamāmase)。
 
@@ -1473,35 +1482,54 @@
 
 .. [MettFn01-17] 〔明法尊者註01-17〕　**魔**：煩惱魔。
 
-.. [MettFn01-18] 〔明法尊者註01-18〕　偈頌故事︰摩訶迦羅和小迦羅兄弟都是生意人，後來都出家，摩訶迦羅努力在墓地禪修，並觀照身體的無常，證得阿羅漢果。小迦羅對修行沒有興趣，最後被他的妻妾說服還俗。相反地，摩訶迦羅已不為欲望所動。PS: 請參 \ `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`_ \ ，一～六、摩訶迦羅比丘和小迦羅比丘的命運 (偈 007~008)。
+.. [MettFn01-18] 〔明法尊者註01-18〕　偈頌故事︰摩訶迦羅和小迦羅兄弟都是生意人，後來都出家，摩訶迦羅努力在墓地禪修，並觀照身體的無常，證得阿羅漢果。小迦羅對修行沒有興趣，最後被他的妻妾說服還俗。相反地，摩訶迦羅已不為欲望所動。
+
+                  PS: 請參  `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～六、摩訶迦羅比丘和小迦羅比丘的命運 (偈 007~008)。
 
 .. [MettFn01-19] 〔明法尊者註01-19〕　**離諸垢** (vanta-kāsāva吐污)：離煩惱。有煩惱垢、塵垢、垢穢、惑垢、染垢等名詞。
 
 .. [MettFn01-20] 〔明法尊者註01-20〕　**戒律**︰DhA：sīlesūti catupārisuddhisīlesu. (於諸戒：於四遍清淨的戒。)
 
-.. [MettFn01-21] 〔明法尊者註01-21〕　舍利弗.目犍連尊者不瞭解提婆達多，誤把一件高價的袈裟供養他。PS: 請參 \ `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`_ \ ，一～七、誰有得到黃色布料供養的資格 (偈 009~010)。
+.. [MettFn01-21] 〔明法尊者註01-21〕　舍利弗、目犍連尊者不瞭解提婆達多，誤把一件高價的袈裟供養他。
+
+                  PS: 請參  `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～七、誰有得到黃色布料供養的資格 (偈 009~010)。
 
 .. [MettFn01-22] 〔明法尊者註01-22〕　**非真思真實**：DhA：**asāre sāramatino** ti cattāro paccayā, dasavatthukā micchādiṭṭhi, tassā upanissayabhūtā dhammadesanāti ayaṁ asāro nāma. (**在非核心之中思量核心**：從四資具，它的十事的邪見解，已成為依靠的指示法，此名叫非核心。)
 
-.. [MettFn01-23] 〔明法尊者註01-23〕　11~12偈為優婆提舍(舍利弗)和拘律陀(目犍連)，聽到馬勝比丘念誦：「諸法因緣生，如來說諸因。諸法因緣滅，大沙門如是說。」的法偈，當下就證得預流果。之後，優婆提舍把這因緣的偈頌告訴拘律陀，他聽完這偈頌後，也立刻證得預流果。然後，他們就去找他們的老師刪闍耶，並告訴他說，他們已經找到可以指引究竟解脫之道的人，邀他一齊去見佛陀，但是被刪闍耶拒絕。他們向世尊表示刪闍耶的拒絕，世尊說了此偈。PS: 請參 \ `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`_ \ ，一～八、了解正法甚難 (偈 011~012)。
+.. [MettFn01-23] 〔明法尊者註01-23〕　11~12偈為優婆提舍(舍利弗)和拘律陀(目犍連)，聽到馬勝比丘念誦：「諸法因緣生，如來說諸因。諸法因緣滅，大沙門如是說。」的法偈，當下就證得預流果。之後，優婆提舍把這因緣的偈頌告訴拘律陀，他聽完這偈頌後，也立刻證得預流果。然後，他們就去找他們的老師刪闍耶，並告訴他說，他們已經找到可以指引究竟解脫之道的人，邀他一齊去見佛陀，但是被刪闍耶拒絕。他們向世尊表示刪闍耶的拒絕，世尊說了此偈。
+
+                  PS: 請參  `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～八、了解正法甚難 (偈 011~012)。
 
 .. [MettFn01-24] 〔明法尊者註01-24〕　《增壹阿含18.7經》：「蓋屋不密，天雨則漏，人不惟行，漏婬怒癡。蓋屋善密，天雨不漏，人能惟行，無婬怒癡。」(T2.591.3)
 
-.. [MettFn01-25] 〔明法尊者註01-25〕　13~14偈為難陀(Nanda，世尊姨母弟，即摩訶波闍波提的兒子)戀戀不忘未婚妻，渴望還俗。世尊為難陀說法的偈頌。PS: 請參 \ `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`_ \ ，一～九、難陀為了女人修行 (偈 013~014)。
+.. [MettFn01-25] 〔明法尊者註01-25〕　13~14偈為難陀(Nanda，世尊姨母弟，即摩訶波闍波提的兒子)戀戀不忘未婚妻，渴望還俗。世尊為難陀說法的偈頌。
 
-.. [MettFn01-26] 〔明法尊者註01-26〕　本偈為住在竹林精舍附近，屠豬夫純陀(Cundasūkarika)，臨終前作豬叫，在地上打滾，經一星期，死後下地獄，世尊說出此偈。PS: 請參 \ `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`_ \ ，一～十、生生世世受苦的屠夫 (偈 015)。
+                  PS: 請參  `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～九、難陀為了女人修行 (偈 013~014)。
+                  另參：《原始佛典選譯》(顧法嚴)(慧炬)p.253, 典故:巴利本生經 182
 
-.. [MettFn01-27] 〔明法尊者註01-27〕　本偈說曇彌優婆塞(Dhammika-upāsaka)的故事。住在舍衛城的曇彌樂善好施，臨終時有六天的六匹馬車來迎，他告訴兒女，他選擇去兜率天。PS: 請參 `016 典故 <{filename}dhp-story016%zh.rst>`_  \（ `016 典故 pdf <../../../../../extra/pdf/DhP_Story016.pdf>`_ ）；或 \ `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`_ \ ，一～十一、世世幸福 (偈 016)。
+.. [MettFn01-26] 〔明法尊者註01-26〕　本偈為住在竹林精舍附近，屠豬夫純陀(Cundasūkarika)，臨終前作豬叫，在地上打滾，經一星期，死後下地獄，世尊說出此偈。
 
-.. [MettFn01-28] 〔明法尊者註01-28〕　本偈說提婆達多(Devadatta)的故事。他是大師的表弟，他學成神通之後，曾以神通博得阿闍世王的信任，之後，日日獲得很多供養。他想當僧團的領導人，曾跟佛陀索眾，佛陀沒有答應。他懷恨在心，有三次謀害佛陀不成，其中一次利用山上的滾石，傷到佛足，出佛身血；殺佛不成，他就有分裂僧團的動作；又殺害蓮華色阿羅漢尼(Uppalavaṇṇa)。多項五逆罪，死後投生大阿鼻地獄(avīcimahāniraya)。PS: 請參 \ `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`_ \ ，一～十二、提婆達多悲慘的命運 (偈 017)。
+                  PS: 請參  `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～十、生生世世受苦的屠夫 (偈 015)。
 
-.. [MettFn01-29] 〔明法尊者註01-29〕　給孤獨長者的第三女兒善意天(Sumanadevī)，臨終時稱父親為「弟弟」。給孤獨長者困惑不安，以為她臨終時沒有正念。佛陀說，她臨終時正念現前，因為她證得二果，境界比給孤獨長者高，死後往生兜率天。PS: 請參 \ `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`_ \ ，一～十三、年輕女孩的成就 (偈 018)。
+.. [MettFn01-27] 〔明法尊者註01-27〕　本偈說曇彌優婆塞(Dhammika-upāsaka)的故事。住在舍衛城的曇彌樂善好施，臨終時有六天的六匹馬車來迎，他告訴兒女，他選擇去兜率天。
 
-.. [MettFn01-30] 〔明法尊者註01-30〕　**經集**：DhA：**saṁhitan** \ti tepiṭakassa buddhavacanassetaṁ nāmaṁ.(**經集**：這是佛說的三藏之名。)
+                  PS: 請參 `016 典故 <{filename}dhp-story016%zh.rst>`_ ；或  `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～十一、世世幸福 (偈 016)。
+
+.. [MettFn01-28] 〔明法尊者註01-28〕　本偈說提婆達多(Devadatta)的故事。他是大師的表弟，他學成神通之後，曾以神通博得阿闍世王的信任，之後，日日獲得很多供養。他想當僧團的領導人，曾跟佛陀索眾，佛陀沒有答應。他懷恨在心，有三次謀害佛陀不成，其中一次利用山上的滾石，傷到佛足，出佛身血；殺佛不成，他就有分裂僧團的動作；又殺害蓮華色阿羅漢尼(Uppalavaṇṇa)。多項五逆罪，死後投生大阿鼻地獄(avīcimahāniraya)。
+
+                  PS: 請參  `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～十二、提婆達多悲慘的命運 (偈 017)。
+
+.. [MettFn01-29] 〔明法尊者註01-29〕　給孤獨長者的第三女兒善意天(Sumanadevī)，臨終時稱父親為「弟弟」。給孤獨長者困惑不安，以為她臨終時沒有正念。佛陀說，她臨終時正念現前，因為她證得二果，境界比給孤獨長者高，死後往生兜率天。
+
+                  PS: 請參  `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～十三、年輕女孩的成就 (偈 018)。
+
+.. [MettFn01-30] 〔明法尊者註01-30〕　**經集**：DhA：**saṁhitan** ti tepiṭakassa buddhavacanassetaṁ nāmaṁ.(**經集**：這是佛說的三藏之名。)
 
 .. [MettFn01-31] 〔明法尊者註01-31〕　**沙門分**︰bhāgavā sāmaññassa，沙門的成分，指沙門的利益：道與果。
 
-.. [MettFn01-32] 〔明法尊者註01-32〕　19-20偈說兩位好友比丘的故事。一位已證阿羅漢果，一位只精通經教。PS: 請參 `019-020 典故 <{filename}dhp-story019-20%zh.rst>`_  \（ `019-020 典故 pdf <../../../../../extra/pdf/DhP_Story001.pdf>`_ ）；或 \ `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`_ \ ，一～十四、知識不等於證悟 (偈 019~020)。
+.. [MettFn01-32] 〔明法尊者註01-32〕　19-20偈說兩位好友比丘的故事。一位已證阿羅漢果，一位只精通經教。
+
+                  PS: 請參 `019-020 典故 <{filename}dhp-story019-20%zh.rst>`_ ；或  `法句經故事集 <../../../../../extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～十四、知識不等於證悟 (偈 019~020)。
 
 .. [NandFn01-00] 〔Nanda 校註01-00〕 〝於此世界中〞
                   說明：參考法雨道場( 明法 法師)出版之修訂版，依巴、英及語體本更正。
@@ -1524,7 +1552,7 @@
 
 .. [CFFn01-05] 〔敬法法師註01-05〕　註：沙門份是指道果。
 
-.. [TSFn01-01] 〔古漢譯註01-01〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 1；標注 T04n0210_p0562a11(00); 參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 1
+.. [TSFn01-01] 〔古漢譯註01-01〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 1；標注 T04n0210_p0562a11(00); 參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 1
 
                 PS:【大】 于 ； 【聖】 為 
 
@@ -1532,11 +1560,11 @@
 
                 PS:【大】 於 ； 【聖】 于 
 
-.. [TSFn01-03] 〔古漢譯註01-03〕　《出曜經》，卷28，〈32 心意品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷28〈32 心意品〉(CBETA, T04, no. 212, p. 758, c12-p. 764, c5) <http://yifertw212.blogspot.tw/2013/11/2832-cbeta-t04-no-212-p-758-c12-p-764-c5.html>`__ ，【13. 中心念惡】
+.. [TSFn01-03] 〔古漢譯註01-03〕　《出曜經》，卷28，〈32 心意品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷28〈32 心意品〉(CBETA, T04, no. 212, p. 758, c12-p. 764, c5) <http://yifertw212.blogspot.tw/2013/11/2832-cbeta-t04-no-212-p-758-c12-p-764-c5.html>`__ ，【13. 中心念惡】
 
-.. [TSFn01-04] 〔古漢譯註01-04〕　《法集要頌經》，〈31 護心品〉，偈頌 13； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》(T213) 〈31 護心品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-31.html>`__ ，偈頌 13
+.. [TSFn01-04] 〔古漢譯註01-04〕　《法集要頌經》，〈31 護心品〉，偈頌 13； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》(T213) 〈31 護心品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-31.html>`__ ，偈頌 13
 
-.. [TSFn01-05] 〔古漢譯註01-05〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 2；標注 T04n0210_p0562a11(00); 參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 2
+.. [TSFn01-05] 〔古漢譯註01-05〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 2；標注 T04n0210_p0562a11(00); 參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 2
 
                 PS:【大】 樂自追 ； 【聖】 自追身
 
@@ -1544,19 +1572,22 @@
 
                 PS:【大】 追 ； 【聖】 進
 
-.. [TSFn01-07] 〔古漢譯註01-07〕　《出曜經》，卷28，〈32 心意品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷28〈32 心意品〉(CBETA, T04, no. 212, p. 758, c12-p. 764, c5) <http://yifertw212.blogspot.tw/2013/11/2832-cbeta-t04-no-212-p-758-c12-p-764-c5.html>`__ ，【14. 中心念善】
+.. [TSFn01-07] 〔古漢譯註01-07〕　《出曜經》，卷28，〈32 心意品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷28〈32 心意品〉(CBETA, T04, no. 212, p. 758, c12-p. 764, c5) <http://yifertw212.blogspot.tw/2013/11/2832-cbeta-t04-no-212-p-758-c12-p-764-c5.html>`__ ，【14. 中心念善】
 
-.. [TSFn01-08] 〔古漢譯註01-08〕　《法集要頌經》，〈31 護心品〉，偈頌 14； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》(T213) 〈31 護心品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-31.html>`__ ，偈頌 14
+.. [TSFn01-08] 〔古漢譯註01-08〕　《法集要頌經》，〈31 護心品〉，偈頌 14； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》(T213) 〈31 護心品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-31.html>`__ ，偈頌 14
 
-.. [TSFn01-09] 〔古漢譯註01-09〕　《出曜經》，卷16 〈15 忿怒品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月12日 星期二 `卷16 〈15 忿怒品〉(CBETA, T04, no. 212, p. 693, b19-p. 698, a26) <http://yifertw212.blogspot.tw/2013/11/16-15-cbeta-t04-no-212-p-693-b19-p-698.html>`__ ，【7. 人若罵我】（另參：法句經：隨亂意行，拘愚入冥，自大無法，何解善言T04, 562a）
+.. [TSFn01-09] 〔古漢譯註01-09〕　《出曜經》，卷16 〈15 忿怒品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月12日 星期二 `卷16 〈15 忿怒品〉(CBETA, T04, no. 212, p. 693, b19-p. 698, a26) <http://yifertw212.blogspot.tw/2013/11/16-15-cbeta-t04-no-212-p-693-b19-p-698.html>`__ ，【7. 人若罵我】
 
-.. [TSFn01-10] 〔古漢譯註01-10〕　《法集要頌經》，〈14怨家品〉，偈頌 10； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月12日 星期四 `《法集要頌經》(T213) 卷2〈14怨家品〉 <http://yifertw213.blogspot.tw/2013/12/1414.html>`__ ，偈頌 10（另參：法句經：隨正意行，開解清明，不為妬嫉，敏達善言。 [TSFn01-10-1]_ T04, 562a）
+                PS: 另參：法句經：隨亂意行，拘愚入冥，自大無法，何解善言T04, 562a
 
-  .. [TSFn01-10-1] 〔古漢譯註01-10-1〕　「敏達善言」，宋、元、明版藏經、《聖語藏》、《磧砂藏》與《趙城金藏》作「愍達善言」，《大正藏》作「敏達善言」
+.. [TSFn01-10] 〔古漢譯註01-10〕　《法集要頌經》，〈14怨家品〉，偈頌 10； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月12日 星期四 `《法集要頌經》(T213) 卷2〈14怨家品〉 <http://yifertw213.blogspot.tw/2013/12/1414.html>`__ ，偈頌 10
+                PS: 另參：法句經：隨正意行，開解清明，不為妬嫉，敏達善言。 [TSFn01-10-1]_ T04, 562a
 
-.. [TSFn01-11] 〔古漢譯註01-11〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 5；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 5
+                .. [TSFn01-10-1] 〔古漢譯註01-10-1〕　「敏達善言」，宋、元、明版藏經、《聖語藏》、《磧砂藏》與《趙城金藏》作「愍達善言」，《大正藏》作「敏達善言」
 
-                PS: 1. 【大】 慍 ； 【聖】 懆 
+.. [TSFn01-11] 〔古漢譯註01-11〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 5；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 5
+
+                PS: 1. 【大】 慍 ； 【聖】 懆
                     2. 【大】 甞 ； 【聖】 常; 
                     3. 「甞」 為「嘗」之異體。參 `研訂說明 <http://140.111.1.40/yitia/lda/lda00664.htm#bm_001>`__ ← `a00664-001 <http://140.111.1.40/yitia/yda/yda00664.htm#bm_001>`__  ← `A00664 【嘗】 <http://140.111.1.40/yitia/fra/fra00664.htm>`__ （`教育部《異體字字典》 <http://140.111.1.40/main.htm>`__ ）
                     4. 【宋】-- 宋本-- 南宋思溪藏 (The 'Sung Edition' A. D. 1239)
@@ -1565,79 +1596,79 @@
                     7. 【聖】-- 正倉院聖語藏本（天平寫經） (The Tempyō Mss. [A. D. 729-] and the Chinese Mss. of the Sui [A. D. 581-617] and Tang [A. D. 618-822] dynasties, belonging to the Imperial Treasure House Shōsō-in at Nara, specially called Shōgo-zō)
                     8. 【大】-- 大正藏 -- 大正新脩大藏經(Taisho Tripitaka); 紙本來源：大正新修大藏經刊行會 編 / 東京：大藏出版株式會社, Popular Edition in 1988.
 
-.. [TSFn01-12] 〔古漢譯註01-12〕　《出曜經》，卷16 〈15 忿怒品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月12日 星期二 `卷16 〈15 忿怒品〉(CBETA, T04, no. 212, p. 693, b19-p. 698, a26) <http://yifertw212.blogspot.tw/2013/11/16-15-cbeta-t04-no-212-p-693-b19-p-698.html>`__ ，【8. 不可怨以怨】
+.. [TSFn01-12] 〔古漢譯註01-12〕　《出曜經》，卷16 〈15 忿怒品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月12日 星期二 `卷16 〈15 忿怒品〉(CBETA, T04, no. 212, p. 693, b19-p. 698, a26) <http://yifertw212.blogspot.tw/2013/11/16-15-cbeta-t04-no-212-p-693-b19-p-698.html>`__ ，【8. 不可怨以怨】
 
                 PS: 【大】 已 ； 【明】 以
 
-.. [TSFn01-13] 〔古漢譯註01-13〕　《法集要頌經》，〈14怨家品〉，偈頌 9； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月12日 星期四 `《法集要頌經》(T213) 卷2〈14怨家品〉 <http://yifertw213.blogspot.tw/2013/12/1414.html>`__ ，偈頌 9
+.. [TSFn01-13] 〔古漢譯註01-13〕　《法集要頌經》，〈14怨家品〉，偈頌 9； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月12日 星期四 `《法集要頌經》(T213) 卷2〈14怨家品〉 <http://yifertw213.blogspot.tw/2013/12/1414.html>`__ ，偈頌 9
 
-.. [TSFn01-14] 〔古漢譯註01-14〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 6；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 6
+.. [TSFn01-14] 〔古漢譯註01-14〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 6；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 6
 
-.. [TSFn01-15] 〔古漢譯註01-15〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 7；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉, <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 7
+.. [TSFn01-15] 〔古漢譯註01-15〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 7；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉, <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 7
 
                 PS: 1. 【大】 身 ； 【宋】 行 ； 【聖】 行
                     2. 【大】 墮 ； 【宋】 隨
                     3. 【大】 弱 ； 【聖】 溺 
  
-.. [TSFn01-16] 〔古漢譯註01-16〕　《出曜經》，卷26〈30 雙要品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月21日 星期四 `卷26〈30 雙要品〉(CBETA, T04, no. 212, p. 747, c6-p. 753, a2) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【15. 觀淨而自脩】
+.. [TSFn01-16] 〔古漢譯註01-16〕　《出曜經》，卷26〈30 雙要品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月21日 星期四 `卷26〈30 雙要品〉(CBETA, T04, no. 212, p. 747, c6-p. 753, a2) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【15. 觀淨而自脩】
 
                 PS: 「脩」為「修」之異體。參 `研訂說明 <http://140.111.1.40/yitia/lda/lda00194.htm#bm_005_1>`__ ← `a00194-005_1 <http://140.111.1.40/yitia/yda/yda00194.htm#bm_005_1>`__  ← `A00194 【修】 <http://140.111.1.40/yitia/fra/fra00194.htm>`__ （`教育部《異體字字典》 <http://140.111.1.40/main.htm>`__ ）
 
-.. [TSFn01-17] 〔古漢譯註01-17〕　《法集要頌經》，〈29 相應品〉，偈頌 15； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月17日 星期二 `《法集要頌經》(T213) 〈29 相應品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-29.html>`__ ，偈頌 15
+.. [TSFn01-17] 〔古漢譯註01-17〕　《法集要頌經》，〈29 相應品〉，偈頌 15； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月17日 星期二 `《法集要頌經》(T213) 〈29 相應品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-29.html>`__ ，偈頌 15
 
-.. [TSFn01-18] 〔古漢譯註01-18〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 8；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 8
+.. [TSFn01-18] 〔古漢譯註01-18〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 8；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 8
 
-.. [TSFn01-19] 〔古漢譯註01-19〕　《出曜經》，卷26〈30 雙要品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月21日 星期四 `卷26〈30 雙要品〉(CBETA, T04, no. 212, p. 747, c6-p. 753, a2) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【16. 當觀不淨行】
+.. [TSFn01-19] 〔古漢譯註01-19〕　《出曜經》，卷26〈30 雙要品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月21日 星期四 `卷26〈30 雙要品〉(CBETA, T04, no. 212, p. 747, c6-p. 753, a2) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【16. 當觀不淨行】
 
-.. [TSFn01-20] 〔古漢譯註01-20〕　《法集要頌經》，〈29 相應品〉，偈頌 16； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月17日 星期二 `《法集要頌經》(T213) 〈29 相應品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-29.html>`__ ，偈頌 16
+.. [TSFn01-20] 〔古漢譯註01-20〕　《法集要頌經》，〈29 相應品〉，偈頌 16； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月17日 星期二 `《法集要頌經》(T213) 〈29 相應品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-29.html>`__ ，偈頌 16
 
-.. [TSFn01-21] 〔古漢譯註01-21〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 9；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 9
+.. [TSFn01-21] 〔古漢譯註01-21〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 9；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 9
 
-.. [TSFn01-22] 〔古漢譯註01-22〕　《出曜經》，卷26〈30 雙要品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月21日 星期四 `卷26〈30 雙要品〉(CBETA, T04, no. 212, p. 747, c6-p. 753, a2) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【7. 無塵離於塵】
+.. [TSFn01-22] 〔古漢譯註01-22〕　《出曜經》，卷26〈30 雙要品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月21日 星期四 `卷26〈30 雙要品〉(CBETA, T04, no. 212, p. 747, c6-p. 753, a2) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【7. 無塵離於塵】
 
-.. [TSFn01-23] 〔古漢譯註01-23〕　《法集要頌經》，〈29 相應品〉，偈頌 7； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月17日 星期二 `《法集要頌經》(T213),〈29 相應品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-29.html>`__ ，偈頌 7
+.. [TSFn01-23] 〔古漢譯註01-23〕　《法集要頌經》，〈29 相應品〉，偈頌 7； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月17日 星期二 `《法集要頌經》(T213),〈29 相應品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-29.html>`__ ，偈頌 7
 
-.. [TSFn01-24] 〔古漢譯註01-24〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 10；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 10
+.. [TSFn01-24] 〔古漢譯註01-24〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 10；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 10
 
                 PS:【大】 戒 ； 【聖】 我 
 
-.. [TSFn01-25] 〔古漢譯註01-25〕　《出曜經》，卷26〈30 雙要品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月21日 星期四 `卷26〈30 雙要品〉(CBETA, T04, no. 212, p. 747, c6-p. 753, a2) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【8. 若能除垢穢】
+.. [TSFn01-25] 〔古漢譯註01-25〕　《出曜經》，卷26〈30 雙要品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月21日 星期四 `卷26〈30 雙要品〉(CBETA, T04, no. 212, p. 747, c6-p. 753, a2) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【8. 若能除垢穢】
 
-.. [TSFn01-26] 〔古漢譯註01-26〕　《法集要頌經》，〈29 相應品〉，偈頌 8； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月17日 星期二 `《法集要頌經》(T213),〈29 相應品〉對照表，偈頌 8 <http://yifertw213.blogspot.tw/2013/12/t213-29.html>`__ ，偈頌 8
+.. [TSFn01-26] 〔古漢譯註01-26〕　《法集要頌經》，〈29 相應品〉，偈頌 8； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月17日 星期二 `《法集要頌經》(T213),〈29 相應品〉對照表，偈頌 8 <http://yifertw213.blogspot.tw/2013/12/t213-29.html>`__ ，偈頌 8
 
-.. [TSFn01-27] 〔古漢譯註01-27〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 11；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 11
+.. [TSFn01-27] 〔古漢譯註01-27〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 11；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 11
 
 .. [TSFn01-28] 〔古漢譯註01-28〕　`《法句譬喻經》，卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__，雙要品第九，T04n0211_p0583c02(00)
 
-.. [TSFn01-29] 〔古漢譯註01-29〕　《出曜經》，卷26〈30 雙要品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月21日 星期四 `卷26〈30 雙要品〉(CBETA, T04, no. 212, p. 747, c6-p. 753, a2) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【3. 不牢起牢想】
+.. [TSFn01-29] 〔古漢譯註01-29〕　《出曜經》，卷26〈30 雙要品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月21日 星期四 `卷26〈30 雙要品〉(CBETA, T04, no. 212, p. 747, c6-p. 753, a2) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【3. 不牢起牢想】
 
-.. [TSFn01-30] 〔古漢譯註01-30〕　《法集要頌經》，〈29 相應品〉，偈頌 3； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月17日 星期二 `《法集要頌經》(T213), 〈29 相應品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-29.html>`__ ，偈頌 3
+.. [TSFn01-30] 〔古漢譯註01-30〕　《法集要頌經》，〈29 相應品〉，偈頌 3； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月17日 星期二 `《法集要頌經》(T213), 〈29 相應品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-29.html>`__ ，偈頌 3
 
-.. [TSFn01-31] 〔古漢譯註01-31〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 12；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 12
+.. [TSFn01-31] 〔古漢譯註01-31〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 12；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 12
 
 .. [TSFn01-32] 〔古漢譯註01-32〕　`《法句譬喻經》，卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__，雙要品第九，T04n0211_p0583c03(00)
 
                 PS:【大】 為 ； 【宋】 知 ； 【元】 知 ； 【明】 知 ； 【聖】 知
 
-.. [TSFn01-33] 〔古漢譯註01-33〕　《出曜經》，卷26〈30 雙要品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月21日 星期四 `卷26〈30 雙要品〉(CBETA, T04, no. 212, p. 747, c6-p. 753, a2) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【4. 牢而知牢者】
+.. [TSFn01-33] 〔古漢譯註01-33〕　《出曜經》，卷26〈30 雙要品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月21日 星期四 `卷26〈30 雙要品〉(CBETA, T04, no. 212, p. 747, c6-p. 753, a2) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【4. 牢而知牢者】
 
                 PS:【大】 人 ； 【宋】 入 ； 【元】 入 ； 【明】 入 
 
-.. [TSFn01-34] 〔古漢譯註01-34〕　《法集要頌經》，〈29 相應品〉，偈頌 4； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月17日 星期二 `《法集要頌經》(T213), 〈29 相應品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-29.html>`__ ，偈頌 4
+.. [TSFn01-34] 〔古漢譯註01-34〕　《法集要頌經》，〈29 相應品〉，偈頌 4； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月17日 星期二 `《法集要頌經》(T213), 〈29 相應品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-29.html>`__ ，偈頌 4
 
                 PS:【大】 人 ； 【宋】 入 ； 【元】 入 ； 【明】 入
 
-.. [TSFn01-35] 〔古漢譯註01-35〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 13；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 13
+.. [TSFn01-35] 〔古漢譯註01-35〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 13；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 13
 
                 PS:【大】 淫 ； 【宋】 婬 ； 【元】 婬 ； 【明】 婬 
 
 .. [TSFn01-36] 〔古漢譯註01-36〕　`《法句譬喻經》，卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__，雙要品第九，T04n0211_p0583c14(00)
 
-.. [TSFn01-37] 〔古漢譯註01-37〕　《出曜經》，卷28〈32 心意品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷28〈32 心意品〉(CBETA, T04, no. 212, p. 758, c12-p. 764, c5) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【11. 蓋屋不密】
+.. [TSFn01-37] 〔古漢譯註01-37〕　《出曜經》，卷28〈32 心意品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷28〈32 心意品〉(CBETA, T04, no. 212, p. 758, c12-p. 764, c5) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【11. 蓋屋不密】
 
-.. [TSFn01-38] 〔古漢譯註01-38〕　《法集要頌經》，〈31 護心品〉，偈頌 11； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》(T213) 〈31 護心品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-31.html>`__ ，偈頌 11
+.. [TSFn01-38] 〔古漢譯註01-38〕　《法集要頌經》，〈31 護心品〉，偈頌 11； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》(T213) 〈31 護心品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-31.html>`__ ，偈頌 11
 
-.. [TSFn01-39] 〔古漢譯註01-39〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 14；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 14
+.. [TSFn01-39] 〔古漢譯註01-39〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 14；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 14
 
                 PS:【大】 淫 ； 【大】 淫 ； 【宋】 婬 ； 【元】 婬 ； 【明】 婬
 
@@ -1645,14 +1676,14 @@
 
                 PS:【大】 密 ； 【聖】 蜜
 
-.. [TSFn01-41] 〔古漢譯註01-41〕　《出曜經》，卷28〈32 心意品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷28〈32 心意品〉(CBETA, T04, no. 212, p. 758, c12-p. 764, c5) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【12. 蓋屋緻密】
+.. [TSFn01-41] 〔古漢譯註01-41〕　《出曜經》，卷28〈32 心意品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷28〈32 心意品〉(CBETA, T04, no. 212, p. 758, c12-p. 764, c5) <http://yifertw212.blogspot.tw/2013/11/2630-cbeta-t04-no-212-p-747-c6-p-753-a2.html>`__ ，【12. 蓋屋緻密】
 
                 PS: 1. 【大】 不 ； 【宋】 緻 ； 【元】 緻 ； 【明】 緻 
                     2. 【大】 則 ； 【宋】 不 ； 【元】 不 ； 【明】 不 
 
-.. [TSFn01-42] 〔古漢譯註01-42〕　《法集要頌經》，〈31 護心品〉，偈頌 11； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》(T213) 〈31 護心品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-31.html>`__ ，偈頌 12： **蓋屋若善密，天雨則不漏** ，人自思惟行，永無婬怒癡。
+.. [TSFn01-42] 〔古漢譯註01-42〕　《法集要頌經》，〈31 護心品〉，偈頌 11； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》(T213) 〈31 護心品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-31.html>`__ ，偈頌 12： **蓋屋若善密，天雨則不漏** ，人自思惟行，永無婬怒癡。
 
-.. [TSFn01-43] 〔古漢譯註01-43〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 17；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 17
+.. [TSFn01-43] 〔古漢譯註01-43〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 17；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 17
 
                 PS: 1. 【大】 憂 ； 【聖】 優 
                     2. 【大】 彼 ； 【宋】 後 ； 【聖】 後 
@@ -1662,60 +1693,60 @@
                 PS: 1. 【大】 唯 ； 【宋】 惟 ； 【元】 惟 ； 【明】 惟 ； 【聖】 惟 
                     2. 【大】 懼 ； 【宋】 惟 
 
-.. [TSFn01-45] 〔古漢譯註01-45〕　《出曜經》，卷25〈29 惡行品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷25〈29 惡行品〉(CBETA, T04, no. 212, p. 741, b24-p. 747, b27) <http://yifertw212.blogspot.tw/2013/11/2529-cbeta-t04-no-212-p-741-b24-p-747.html>`__ ，【32. 此憂彼亦憂】
+.. [TSFn01-45] 〔古漢譯註01-45〕　《出曜經》，卷25〈29 惡行品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷25〈29 惡行品〉(CBETA, T04, no. 212, p. 741, b24-p. 747, b27) <http://yifertw212.blogspot.tw/2013/11/2529-cbeta-t04-no-212-p-741-b24-p-747.html>`__ ，【32. 此憂彼亦憂】
 
-.. [TSFn01-46] 〔古漢譯註01-46〕　《法集要頌經》，〈28 罪障品〉，偈頌 31； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》(T213) 〈28 罪障品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-28.html>`__ ，偈頌 31
+.. [TSFn01-46] 〔古漢譯註01-46〕　《法集要頌經》，〈28 罪障品〉，偈頌 31； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》(T213) 〈28 罪障品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-28.html>`__ ，偈頌 31
 
-.. [TSFn01-47] 〔古漢譯註01-47〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 18；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 18
+.. [TSFn01-47] 〔古漢譯註01-47〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 18；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 18
 
 .. [TSFn01-48] 〔古漢譯註01-48〕　`《法句譬喻經》，卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__，雙要品第九，T04n0211_p0583b02(00)
 
-.. [TSFn01-49] 〔古漢譯註01-49〕　《出曜經》，卷25〈29 惡行品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷25〈29 惡行品〉(CBETA, T04, no. 212, p. 741, b24-p. 747, b27) <http://yifertw212.blogspot.tw/2013/11/2529-cbeta-t04-no-212-p-741-b24-p-747.html>`__ ，【33. 此喜彼亦喜】
+.. [TSFn01-49] 〔古漢譯註01-49〕　《出曜經》，卷25〈29 惡行品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷25〈29 惡行品〉(CBETA, T04, no. 212, p. 741, b24-p. 747, b27) <http://yifertw212.blogspot.tw/2013/11/2529-cbeta-t04-no-212-p-741-b24-p-747.html>`__ ，【33. 此喜彼亦喜】
 
-.. [TSFn01-50] 〔古漢譯註01-50〕　《法集要頌經》，〈28 罪障品〉，偈頌 32； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》(T213) 〈28 罪障品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-28.html>`__ ，偈頌 32
+.. [TSFn01-50] 〔古漢譯註01-50〕　《法集要頌經》，〈28 罪障品〉，偈頌 32； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》(T213) 〈28 罪障品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-28.html>`__ ，偈頌 32
 
-.. [TSFn01-51] 〔古漢譯註01-51〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 19；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 19
+.. [TSFn01-51] 〔古漢譯註01-51〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 19；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 19
 
 .. [TSFn01-52] 〔古漢譯註01-52〕　`《法句譬喻經》，卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__，雙要品第九，T04n0211_p0583b13(00)
 
-.. [TSFn01-53] 〔古漢譯註01-53〕　《出曜經》，卷25〈29 惡行品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷25〈29 惡行品〉(CBETA, T04, no. 212, p. 741, b24-p. 747, b27) <http://yifertw212.blogspot.tw/2013/11/2529-cbeta-t04-no-212-p-741-b24-p-747.html>`__ ，【34. 此煮彼亦煮】
+.. [TSFn01-53] 〔古漢譯註01-53〕　《出曜經》，卷25〈29 惡行品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷25〈29 惡行品〉(CBETA, T04, no. 212, p. 741, b24-p. 747, b27) <http://yifertw212.blogspot.tw/2013/11/2529-cbeta-t04-no-212-p-741-b24-p-747.html>`__ ，【34. 此煮彼亦煮】
 
-.. [TSFn01-54] 〔古漢譯註01-54〕　《法集要頌經》，〈28 罪障品〉，偈頌 33； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》(T213) 〈28 罪障品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-28.html>`__ ，偈頌 33
+.. [TSFn01-54] 〔古漢譯註01-54〕　《法集要頌經》，〈28 罪障品〉，偈頌 33； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》(T213) 〈28 罪障品〉對照表 <http://yifertw213.blogspot.tw/2013/12/t213-28.html>`__ ，偈頌 33
 
-.. [TSFn01-55] 〔古漢譯註01-55〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 20；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 20
+.. [TSFn01-55] 〔古漢譯註01-55〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 20；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 20
 
                 PS:【大】 歡 ； 【聖】 勤
 
 .. [TSFn01-56] 〔古漢譯註01-56〕　`《法句譬喻經》，卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__，雙要品第九，T04n0211_p0583b03(00)
 
-.. [TSFn01-57] 〔古漢譯註01-57〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 21；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 21
+.. [TSFn01-57] 〔古漢譯註01-57〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 21；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 21
 
-.. [TSFn01-58] 〔古漢譯註01-58〕　《出曜經》，卷6〈4 無放逸品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷6〈4 無放逸品〉(CBETA, T04, no. 212, p. 632, b20-p. 638, b2) <http://yifertw212.blogspot.tw/2013/06/64-cbeta-t04-no-212-p-632-b20-p-638-b2.html>`__ ，【7. 雖多誦習義】
+.. [TSFn01-58] 〔古漢譯註01-58〕　《出曜經》，卷6〈4 無放逸品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷6〈4 無放逸品〉(CBETA, T04, no. 212, p. 632, b20-p. 638, b2) <http://yifertw212.blogspot.tw/2013/06/64-cbeta-t04-no-212-p-632-b20-p-638-b2.html>`__ ，【7. 雖多誦習義】
 
                 PS:【大】 牛 ； 【明】 年 
 
-.. [TSFn01-59] 〔古漢譯註01-59〕　《法集要頌經》，〈4 放逸品〉，偈頌 22； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》卷1〈4 放逸品〉(CBETA, T04, no. 213, p. 779, a1-c21) <http://yifertw213.blogspot.tw/2013/12/t213-28.html>`__ ，偈頌 22
+.. [TSFn01-59] 〔古漢譯註01-59〕　《法集要頌經》，〈4 放逸品〉，偈頌 22； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》卷1〈4 放逸品〉(CBETA, T04, no. 213, p. 779, a1-c21) <http://yifertw213.blogspot.tw/2013/12/t213-28.html>`__ ，偈頌 22
 
-.. [TSFn01-60] 〔古漢譯註01-60〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 22；參照\ `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四\ `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 22
+.. [TSFn01-60] 〔古漢譯註01-60〕　《法句經》，卷上，〈9 雙要品〉；CBETA, T04, no. 210, p. 562, a11-b17，偈頌 22；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月28日 星期四 `〈9 雙要品〉 <http://yifert210.blogspot.tw/2013/11/9.html>`__ ，偈頌 22
 
-.. [TSFn01-61] 〔古漢譯註01-61〕　《出曜經》，卷7〈5 放逸品〉; 參照\ `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷7〈5 放逸品〉(CBETA, T04, no. 212, p. 658, c22-p. 660, a7) 與 (CBETA, T04, no. 212, p. 644, a13-p. 649, b25) <http://yifertw212.blogspot.tw/2013/06/75-cbeta-t04-no-212-p-658-c22-p-660-a7.html>`__ ，【8. 說法雖微少】 [TSFn01-61-1]_
+.. [TSFn01-61] 〔古漢譯註01-61〕　《出曜經》，卷7〈5 放逸品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 2013年11月22日 星期五 `卷7〈5 放逸品〉(CBETA, T04, no. 212, p. 658, c22-p. 660, a7) 與 (CBETA, T04, no. 212, p. 644, a13-p. 649, b25) <http://yifertw212.blogspot.tw/2013/06/75-cbeta-t04-no-212-p-658-c22-p-660-a7.html>`__ ，【8. 說法雖微少】 [TSFn01-61-1]_
 
   .. [TSFn01-61-1] 〔古漢譯註01-61-1〕　依《磧砂藏》，〈5 放逸品〉第7頌「雖多誦習義」之後，下接「說法雖微少」到…「時阿蘭即告弟子而說此頌」共1627字。《大正藏》則在 `卷七 <http://www.cbeta.org/result/normal/T04/0212_007.htm>`__ 之首，標示〈放逸品之二〉，下接「吾觀遠來士」一頌，釋文則為「是時菩薩問阿蘭曰」。實際上，《大正藏》卷七的卷首此頌與「是時菩薩問阿蘭曰」，應上承自 `《出曜經》卷9〈7 戒品〉 <http://www.cbeta.org/result/normal/T04/0212_009.htm>`__ 卷末的：「時阿蘭即告弟子而說此頌」(CBETA, T04, no. 212, p. 660, a6-7)，而歸屬〈5 放逸品〉。顯然《大正藏》經文錯落，今依《磧砂藏》更動次序，以恢復「原貌」。
 
       | PS: T04n0212_p0658c22(00)║　說法雖微少，　　一意專聽受，
-      | T04n0212_p0658c23(00)║　此名護法人，　　除去婬怒癡，
-      | T04n0212_p0658c24(00)║　眾結永盡者，　　故名為沙門。
+      |  　　T04n0212_p0658c23(00)║　此名護法人，　　除去婬怒癡，
+      |  　　T04n0212_p0658c24(00)║　眾結永盡者，　　故名為沙門。
       |       
       | 註：〔說法乃至卷末字此頌〕一千六百二十三字在卷第六終【宋】【元】【明】，(P. 644)
 
-.. [TSFn01-62] 〔古漢譯註01-62〕　《法集要頌經》，〈4 放逸品〉，偈頌 21, 23； 參照\ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》卷1〈4 放逸品〉(CBETA, T04, no. 213, p. 779, a1-c21) <http://yifertw213.blogspot.tw/2013/12/t213-28.html>`__ ，偈頌 21, 23
+.. [TSFn01-62] 〔古漢譯註01-62〕　《法集要頌經》，〈4 放逸品〉，偈頌 21, 23； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月19日 星期四 `《法集要頌經》卷1〈4 放逸品〉(CBETA, T04, no. 213, p. 779, a1-c21) <http://yifertw213.blogspot.tw/2013/12/4-40.html>`__ ，偈頌 21, 23
 
                 | PS: T04,779b11 取材自：【部落格-- 荒草不曾鋤】--　`《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ 
                 | 　　T04,779b15 取材自：《法句経の対照研究》-- 法句経の発展成立史研究，丹生実憲 著
 
 .. [NāradaFn01-01]  (Ven. Nārada 01-01) Yamaka means a pair. This chapter is so named because it consists of ten pairs of parallel verses.
 
-.. [NāradaFn01-02]  (Ven. Nārada 01-02) "Things are forerun by mind" - Mrs. Rhys Davids. "(The mental) natures are the result of what we have thought" - Radhakrishnan. "All that we are is the result of what we have thought" -Irving Babbit.
+.. [NāradaFn01-02]  (Ven. Nārada 01-02) "Things are forerun by mind" - Mrs. Rhys Davids. "(The mental) natures are the result of what we have thought" - Radhakrishnan. "All that we are is the result of what we have thought" - Irving Babbit.
 
 .. [NāradaFn01-03]  (Ven. Nārada 01-03) These two parallel verses were uttered by the Buddha on two different occasions to show the inevitable effects of evil and good Kamma respectively.
 
