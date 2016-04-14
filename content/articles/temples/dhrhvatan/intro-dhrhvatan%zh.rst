@@ -37,15 +37,17 @@
   | 出版地	臺南市 
   | 關鍵詞	臺南市
   |
-  | Cite from: 臺灣鄉土書目資料庫-- 詳細資料
+  | Cite from: 臺灣鄉土書目資料庫-- `詳細資料`_
 
 - 台南市政府文化局(舊版)。
 - 德化堂（原置於「風月無情--個性小舖」站之「古蹟巡禮」，現已移除；沿用本網站之歷史庫存檔）。
-- 德化堂（鯤島本土文化園地-- 府城廟宇巡禮 -13）。
+- `德化堂 <http://www.dang.idv.tw/temple/t13.htm>`_
+  （ `鯤島本土文化園地`_ -- `府城廟宇巡禮`_ -13）。
 - `從龍華教到佛教---光復前台南德化堂的歷史。 <http://ccbs.ntu.edu.tw/FULLTEXT/JR-BJ010/bj97036.htm>`_
-- 台南德化堂-- 數位典藏與學習聯合目錄。
-- 以台南德化堂為中心之台灣齋教研究──德化堂的成立史與宗教意識的認同 （取自：台灣佛教史料庫 ）。
-- 古蹟建築 - 台南德化堂（取自：臺灣建築檔案(行政院國科會數位典藏國家型科技計畫 - 臺灣建築史)）。
+- `台南德化堂 <http://catalog.digitalarchives.tw/item/00/2f/eb/c7.html>`__ --
+  `數位典藏與學習聯合目錄`_ 。
+- `以台南德化堂為中心之台灣齋教研究──德化堂的成立史與宗教意識的認同`_ （取自：台灣佛教史料庫 ）。
+- `古蹟建築 - 台南德化堂`_ （取自： `臺灣建築檔案`_ (行政院國科會數位典藏國家型科技計畫 - 臺灣建築史)）。
 
 .. _台南德化堂: http://zh.wikipedia.org/wiki/%E5%8F%B0%E5%8D%97%E5%BE%B7%E5%8C%96%E5%A0%82
 .. _維基百科: http://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
@@ -53,6 +55,14 @@
 .. _國家圖書館: http://www.ncl.edu.tw/
 .. _臺灣鄉土文獻影像資料庫: http://localdap.ncl.edu.tw/
 .. _臺南市古蹟使用調查與評估: http://localdap.ncl.edu.tw/hypage.cgi?HYPAGE=search/search_res.hpg&dtd_id=1&sysid=00000289
+.. _詳細資料: http://localdoc.ncl.edu.tw/tmld/detail1.jsp?xmlid=0000726115&displayMode=detail&title=%E8%87%BA%E5%8D%97%E5%B8%82%E5%8F%A4%E8%B9%9F%E4%BD%BF%E7%94%A8%E8%AA%BF%E6%9F%A5%E8%88%87%E8%A9%95%E4%BC%B0&isBrowsing=true
+.. _鯤島本土文化園地: http://www.dang.idv.tw/
+.. _府城廟宇巡禮: http://www.dang.idv.tw/temple/index.htm
+.. _數位典藏與學習聯合目錄: http://digitalarchives.tw/
+.. _以台南德化堂為中心之台灣齋教研究──德化堂的成立史與宗教意識的認同: http://buddhistinformatics.ddbc.edu.tw/taiwanbuddhism/tb/md/md06-05.htm
+.. _台灣佛教史料庫: http://buddhistinformatics.ddbc.edu.tw/taiwanbuddhism/tb/
+.. _古蹟建築 - 台南德化堂: http://www.dm.ncyu.edu.tw/database/titleout_content_n.asp?ID=249&OName=%A5x%ABn%BCw%A4%C6%B0%F3&AllText=
+.. _臺灣建築檔案: http://www.dm.ncyu.edu.tw/
 
 ..
   rev. 08.14 2011 

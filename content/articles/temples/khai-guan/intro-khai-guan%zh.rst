@@ -27,13 +27,15 @@
   |  出版地	臺南市 
   |  關鍵詞	臺南市
   |
-  |  Cite from: 臺灣鄉土書目資料庫-- 詳細資料
+  |  Cite from: 臺灣鄉土書目資料庫-- `詳細資料`_
 
-- 開元寺(取自：台灣佛寺時空平台-- 台灣佛寺線上導覽--寺廟檢視)
-- 開元寺慧光圖書館; 開元禪學院圖書館(原置於佛學數位圖書館暨博物館之圖書館錄，現已不存；；沿用本網站之歷史庫存檔)。
+- `開元寺 <http://buddhistinformatics.ddbc.edu.tw/taiwanbudgis/searchRes.php?id=704A15>`__
+  (取自：台灣佛寺時空平台-- `台灣佛寺線上導覽`_ --寺廟檢視)
+- 開元寺慧光圖書館; 開元禪學院圖書館(原置於 `佛學數位圖書館暨博物館`_ 之圖書館錄，現已不存；；沿用本網站之歷史庫存檔)。
 - 開元禪學院院況簡介
 - 開元寺（原置於「風月無情--個性小舖」站之「古蹟巡禮」，現已移除；沿用本網站之歷史庫存檔）。
-- 開元寺（鯤島本土文化園地-- 府城廟宇巡禮 -7）。
+- `開元寺 <http://www.dang.idv.tw/temple/t7.htm>`__
+  （ `鯤島本土文化園地`_ -- `府城廟宇巡禮`_ -7）。
 - 戀念台南情---開元寺(日據時期明信片)
 - 開元寺-- 台南市(原智凰網路科技股份有限公司設立之休閒驛站(Trevel King)，現已不存；沿用本網站之歷史庫存檔)。
 
@@ -41,6 +43,11 @@
 .. _國家圖書館: http://www.ncl.edu.tw/
 .. _臺灣鄉土文獻影像資料庫: http://localdap.ncl.edu.tw/
 .. _臺南市古蹟使用調查與評估: http://localdap.ncl.edu.tw/hypage.cgi?HYPAGE=search/search_res.hpg&dtd_id=1&sysid=00000289
+.. _詳細資料: http://localdoc.ncl.edu.tw/tmld/detail1.jsp?xmlid=0000726115&displayMode=detail&title=%E8%87%BA%E5%8D%97%E5%B8%82%E5%8F%A4%E8%B9%9F%E4%BD%BF%E7%94%A8%E8%AA%BF%E6%9F%A5%E8%88%87%E8%A9%95%E4%BC%B0&isBrowsing=true
+.. _台灣佛寺線上導覽: http://buddhistinformatics.ddbc.edu.tw/taiwanbudgis/index.php
+.. _佛學數位圖書館暨博物館: http://ccbs.ntu.edu.tw/
+.. _鯤島本土文化園地: http://www.dang.idv.tw/
+.. _府城廟宇巡禮: http://www.dang.idv.tw/temple/index.htm
 
 ..
   rev. 08.14 2011 
