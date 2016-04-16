@@ -132,6 +132,89 @@
 
 有關紙本訊息可參考： `【新譯「尊者阿姜 曼傳」與「尊者阿姜 考傳」】相關訊息 <{filename}open-distribution-the-biography-ven-acariya-mun%zh.rst>`_
 
+----
+
+- 《沙門》；作者：摩訶布瓦尊者（Venerable Ācariya Mahā Boowa Ñāṇasampanno）；
+  編譯：戒寶比丘 Bhikkhu Dick Silaratano；
+  中譯：捷平；校對審閱：李梓榕 等；
+  中文排版：Lam Kin Chow；傳承出版社；2014年10月；
+  簡體漢文； `PDF <https://drive.google.com/file/d/0B5kWb6KL_IVXR0RyUV9MLW1mZWM/view>`__ ；
+  〔 `另一網站 <http://www.forestdhamma.org/ebooks/chinese/pdf/Samana-chinese.pdf>`__
+  （ `Forest Dhamma Organization 書籍 <http://www.forestdhamma.org/books/chinese/>`__ 〕。
+  `摩訶布瓦尊者傳（HTML <http://www.charity.idv.tw/q1/q11.htm>`__ ，正體漢文）
+
+----
+
+- 《智慧之樹，不返之流-- 觀禪的修行與進程》 (The Tree of Wisdom，The River of No Return-- The practice and development on insight meditattion)：
+
+  | 作者：慈濟瓦禪師(Venerable Sujiva)； 譯者：雷叔雲、湯華俊；
+  | 出版社： `Sukhi Hontu <http://www.sukhihotu.com/>`_ , 馬來西亞(Malaysia)；
+  | 出版策劃主持：美國休士頓禪修中心(`Houston Meditation Center <http://houmedcen.blogspot.com/>`_)；
+  | 出版日期：2013年09月；語言：繁體中文；ISBN：983-9382-71-6；裝訂：平裝
+  | 英文版(English, July 2009)： `PDF 下載 <http://www.buddha-heute.de/downloads/treeriver.pdf>`__ （Copyright reserved, Free Distribution ONLY, 版權所有，免費結緣；請勿有商業行為）。 漢譯紙本，免費結緣；意洽 `此電子信箱 <lsn46@mail.ncku.edu.tw>`_ （限台灣國內；版權所有，請勿有商業行為）。
+
+----
+
+- 《慈心禪：帶來平靜、喜悅與定力》(Meditation on Loving Kindness and other Sublime States)：
+
+  作者：慈濟瓦禪師(Venerable Sujiva)； 譯者：雷叔雲； 出版社：橡樹林；出版日期：2009年06月19日；語言：繁體中文；ISBN：9789866409028；裝訂：平裝
+
+  書籍簡介： `城邦讀書花園 <http://www.cite.com.tw/product_info.php?products_id=15551>`__ 、
+  `博客來書籍館 <http://www.books.com.tw/exep/prod/booksfile.php?item=0010437809>`__ 、
+  `金石堂網路書店 <http://www.kingstone.com.tw/Book/book_page.asp?kmcode=2012260134447&show=author_intro&OpenArea=1>`__ 、
+  `華文網網路書店 <https://www.book4u.com.tw/book_Detail.asp?goods_ser=kk0241058>`__
+
+----
+
+- 《火山的熄滅》及《禪修心法--正確的修行態度》
+  `漢譯合刊 <http://nanda.online-dhamma.net/lib/authors/sujiva/Volcano/Volcano-Attitude.pdf>`__
+
+----
+
+- 《火山的熄滅－－內觀禪介紹》：
+  `漢譯 <http://nanda.online-dhamma.net/lib/authors/sujiva/Volcano/volcanos-Han.pdf>`__ (初版!)
+  (`For the Stilling of Volcanoes <http://www.buddhanet.net/pdf_file/volcanos.pdf>`_, by Ven. Sujiva)
+
+  [馬來西亞, `蘇吉瓦（蘇濟瓦）禪師 <http://nanda.online-dhamma.net/lib/authors/sujiva/sujiva.htm>`_ 著
+
+----
+
+- 《佛教要語的基礎知識》
+
+  作 者:水野弘元著; 藍吉富主編; 出處題名:世界佛學名著譯叢(共 100 冊1988.06); 卷 期:第 3 冊; 出版者:華宇出版社; 出版日期:1988; 館 藏 地:法光; 中華; 妙心; 央圖; 台大; 清華; 中興; 師大
+
+- 《印度佛學源流略講》
+
+  作 者:呂澂著; 藍吉富主編; 出處題名:現代佛學大系; 卷 期:第 23 冊; 出版者:彌勒出版社; 日期:1983(編修日期: 1998.07.22); 館 藏 地:法光; 中華; 妙心; 央圖; 台大; 清華; 中興; 師大
+
+  1987; 天華出版公司，以書名《印度佛學思想概論》再版;台北
+
+- 《巴利系佛教史綱》
+
+  出處題名:世界佛學名著譯叢; 卷 期:第 34 冊; 出版者:華宇出版社; 日期:1988; 館 藏 地:法光;中華;妙心;央圖; 台大; 清華; 中興; 師大
+
+- 《原始佛典選譯》
+
+  亨利‧克拉克‧華倫 著; 顧法嚴譯; 慧炬出版社
+
+- 《佛教的原點》
+
+  水野弘元著; 達和法師；陳淑慧譯; 圓明出版社
+
+----
+
+- `阿含聖典的解脫心法 <http://nanda.online-dhamma.net/vimutticitta/vimuttic.htm>`__
+  （大卿弘法師於 1996 年的開示摘錄）
+
+- `線上經典示範：金剛經 <http://nanda.online-dhamma.net/demo/uajprdem.htm>`_
+  【測試版(依〝 `中華佛教百科文獻基金會 <{filename}/articles/buddhist-encyclo/chinese-buddhist-encyclopaedia%zh.rst>`_ 〞
+  編著之《中華佛教百科全書》(第四冊 p. 2035 )】
+
+- `e世代佛典羅馬拼音台語版（金剛經．藥師經．彌陀經．普門品） <http://nanda.online-dhamma.net/lib/authors/ta-guan/Di-Guang-Si-TAIWANISH-Chanting.htm>`_ ：自然音標(口語調)﹒台語﹒羅馬注音版
+
+- `掬月囈語 <http://nanda.online-dhamma.net/Seefo/Asen/index.htm>`_
+  （嘉義西佛寺　上傳下正　法師撰）
+
 ..
   10.13 add: 摩訶布瓦尊者傳（HTML，正體漢文）
   10.12 add:沙門(作者 ：摩訶布瓦尊者，中譯 ：捷平)
