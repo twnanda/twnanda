@@ -78,7 +78,7 @@
 
   * 當代南傳佛教大師(LIVING BUDDHIST MASTERS)
   * `UNEXPECTED FREEDOM <{filename}/articles/uncategorized/paper-selected%zh.rst#unexpected-freedom>`_
-    ([by AJAHN MUNINDO; 【意想不到的自由】])
+    ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_])
 
 ..
   02.04 2016 rev. 法句經 old:Tipitaka/Sutta/Khuddaka/Dhammapada/Dhammapada.htm;
