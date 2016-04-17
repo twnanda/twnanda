@@ -1,0 +1,1032 @@
+法句經 二、不放逸品 多譯本對讀(段層次) Dhammapada (Dhp.) 2. Appamādavaggo  (Dhp.21-32)
+===================================================================================================
+
+:date: 2016-02-11 11:30
+:modified: 2016-04-11 22:30
+:tags: 法句經對讀, Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, 2. Appamādavaggo (Dhp.21-32) 不放逸品, Heedfulness
+:category: 巴利三藏小部
+:summary: 法句經對讀, Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 2. Appamādavaggo (Dhp.21-32), 二、不放逸品, Heedfulness
+
+--------------
+
+`PDF </extra/pdf/dhp-contrast-reading-chap02.pdf>`__ 
+
+----------------------------------------
+
+- `《法句經》多譯本對讀目錄 <{filename}dhp-contrast-reading%zh.rst>`__
+
+---------------------------
+
+**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。** …，…，…，
+    …，…，…， **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。** …，…，…，
+
+    …，…，…， **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語** …，…，…，
+
+    …，…，…， **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
+
+（節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 </articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
+
+-----------------------------
+
+.. list-table:: 偈頌目錄
+   :widths: 2 2 2 2 2 2 
+   :header-rows: 1
+
+   * - Dhp021_
+     - Dhp022_
+     - Dhp023_
+     - Dhp024_
+     - Dhp025_
+     - Dhp026_
+
+   * - Dhp027_
+     - Dhp028_
+     - Dhp029_
+     - Dhp030_
+     - Dhp031_
+     - Dhp032_
+
+--------------
+
+.. raw:: html 
+
+  本對讀包含下列數個版本，請自行勾選欲對讀之版本
+  （感恩 <strong><a href="https://siongui.github.io/zh/pages/siong-ui-te.html">Siong-Ui Te 師兄</a></strong>
+  提供程式支援）：
+  
+  <div id="option-contrast-reading"></div>
+
+--------------
+
+.. _Dhp021:
+
+.. list-table:: Dhammapada Dhp. 021
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - 2. Appamādavaggo.
+
+       | 21. Appamādo amatapadaṃ pamādo maccuno padaṃ
+       | Appamattā na mīyanti ye pamattā yathā matā. 
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 2. Appamādavaggo
+
+       | 21. Appamādo  amatapadaṃ **[amataṃ padaṃ (ka.)]**, pamādo maccuno padaṃ;
+       | Appamattā na mīyanti, ye pamattā yathā matā.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 二、不放逸品
+
+       21 無逸不死道，放逸趣死路。無逸者不死，放逸者如尸。 [LCanFn02-01]_ 、 [MettFn02-01]_ 、 [MettFn02-02]_ 、 [LCanFn02-02]_
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - 第二：不放逸品
+
+       | 21 不放逸是不死境，放逸是死亡之境；
+       | 不放逸的人不死，放逸者猶如已死。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 戒為甘露道，放逸為死徑，不貪則不死，失道為自喪。（法句經, T04,562b） [TSFn02-01]_
+
+       2. 戒為甘露道，放逸為死徑，不貪則不死，失道為自喪。（出曜經：T04,636c） [TSFn02-02]_
+
+       3. 法集要頌經：戒為甘露道，放逸為死徑，不貪則不死，失道乃自喪。（法集要頌經，T04, 779a） [TSFn02-03]_
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - Chapter 2 Heedfulness
+        THE HEEDLESS DIE; THE HEEDFUL DO NOT
+         21. Heedfulness [NāradaFn02-01]_ is the path to the deathless, [NāradaFn02-02]_ heedlessness is the path to death. The heedful do not die; [NāradaFn02-03]_ the heedless are like unto the dead.
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - Dhp II Heedfulness
+        21. Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already. [BudRkFn02-01]_
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - Dhp II Heedfulness
+        | **21** Heedfulness:  the path to the Deathless.
+        | Heedlessness: the path to death.
+        | The heedful do not die.
+        | The heedless are as if
+        | already dead. [ThaniSFn-V21]_
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - **2. Diligence** 
+        | **21** Diligence is the path to the Deathless,
+        | And negligence the pathway to death.
+        | They perish not, those who are diligent;
+        | The negligent are like unto the dead.
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - Chapter II: On Earnestness
+        21 Earnestness is the path of immortality (Nirvana), thoughtlessness the path of death. Those who are in earnest do not die, those who are thoughtless are as if dead already. 
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 021 <{filename}dhA-chap02%zh.rst#dhp021>`__
+
+.. _Dhp022:
+
+.. list-table:: Dhammapada Dhp. 022
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 22. Etaṃ visesato ñatvā appamādamhi paṇḍitā
+       | Appamāde pamodanti ariyānaṃ gocare ratā.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 22. Evaṃ **[etaṃ (sī. syā. kaṃ. pī.)]** visesato ñatvā, appamādamhi paṇḍitā;
+       | Appamāde pamodanti, ariyānaṃ gocare ratā.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 22 智者深知此，所行不放逸。不放逸得樂，喜悅於聖境。 [LCanFn02-03]_ 、 [LCanFn02-04]_ 
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 22 清楚了知這一點，智者絕對不放逸，
+       | 他們樂於不放逸，他們喜樂於聖界。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 慧智守道勝，終不為放逸，不貪致歡喜，從是得道樂。（法句經, T04,562b） [TSFn02-04]_
+
+       2. 慧智守道勝，終不為放逸，不貪致歡喜，從是得道樂。（出曜經, T04,637b）
+
+       3. 智者守道勝，終不為迷醉，不貪致喜樂，從是得聖道。（法集要頌經, T04,779a）
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 22. Distinctly understanding this (difference [NāradaFn02-04]_ ), the wise (intent) on heedfulness rejoice in heedfulness, delighting in the realm of the Ariyas. [NāradaFn02-05]_
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - 22. Clearly understanding this excellence of heedfulness, the wise exult therein and enjoy the resort of the Noble Ones. [BudRkFn02-02]_
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | **22** Knowing this as a true distinction,
+       | those wise in heedfulness
+       | rejoice in heedfulness,
+       | enjoying the range of the noble ones. [ThaniSFn-V22]_ 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | 22&23 The wise, recognising the special quality of diligence, rejoice in it, delighting in the realm of morally outstanding people (ariyans). They apply themselves constantly and unwaveringly. The steadfast reach Nibbana, ultimate safety.
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 22 Those who are advanced in earnestness, having understood this clearly, delight in earnestness, and rejoice in the knowledge of the Ariyas (the elect).
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 022 <{filename}dhA-chap02%zh.rst#dhp022>`__
+
+.. _Dhp023:
+
+.. list-table:: Dhammapada Dhp. 023
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 23. Te jhāyino sātatikā niccaṃ daḷhaparakkamā
+       | Phusanti dhīrā nibbāṇaṃ yogakkhemaṃ anuttaraṃ.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 23. Te jhāyino sātatikā, niccaṃ daḷhaparakkamā;
+       | Phusanti dhīrā nibbānaṃ, yogakkhemaṃ anuttaraṃ.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 23 智者常堅忍，勇猛修禪定。解脫得安隱，證無上涅槃。 [LCanFn02-05]_ 、 [NandFn02-01]_
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 23 那些禪者持恆地、常常穩固地精進，
+       | 賢者們體驗涅槃：無上的解脫諸軛。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 常當惟念道，自強守正行，健者得度世，吉祥無有上。（法句經, T04,562b）
+
+       2. 常當惟念道，自強守正行，健者得度世，吉祥無有上。（出曜經, T04,637b）
+
+       3.法集要頌經：恒思修善法，自守常堅固，智者求寂靜，吉祥無有上。（法集要頌經, T04,779a）
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 23. The constantly meditative, [NāradaFn02-06]_ the ever steadfast ones realize the bond-free, [NāradaFn02-07]_ supreme Nibbàna. [NāradaFn02-08]_
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - 23. The wise ones, ever meditative and steadfastly persevering, alone experience Nibbana, the incomparable freedom from bondage.
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | 23 The enlightened, constantly
+       |   absorbed in jhana,
+       |   persevering,
+       |   firm in their effort:
+       | they touch Unbinding,
+       | the unexcelled rest
+       |   from the yoke. [ThaniSFn-V23]_ 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | 22&23 The wise, recognising the special quality of diligence, rejoice in it, delighting in the realm of morally outstanding people (ariyans). They apply themselves constantly and unwaveringly. The steadfast reach Nibbana, ultimate safety.
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 23 These wise people, meditative, steady, always possessed of strong powers, attain to Nirvana, the highest happiness.
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 023 <{filename}dhA-chap02%zh.rst#dhp023>`__
+
+.. _Dhp024:
+
+.. list-table:: Dhammapada Dhp. 024
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 24. Uṭṭhānavato satimato sucikammassa nisammakārino
+       | Saññatassa ca dhammajīvino appamattassa yaso'bhivaḍḍhati.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 24. Uṭṭhānavato satīmato **[satimato (sī. syā. ka.)]**, sucikammassa nisammakārino;
+       | Saññatassa dhammajīvino, appamattassa **[apamattassa (?)]** yasobhivaḍḍhati.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 24  奮勉常正念，淨行能克己，如法而生活，無逸善名增。 [MettFn02-03]_ 、 [MettFn02-04]_ 、 [NandFn02-02]_
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 24 對於精進、具備正念、行為清淨、慎重行事、
+       | 防護諸根、依法生活、不放逸者，其譽增長。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 正念常興起，行淨惡易滅，自制以法壽，不犯善名增。（法句經, T04,562b）
+
+       2. 正念常興起，行淨惡易滅，自制以法壽，不犯善名增。（出曜經, T04,638b）
+
+       3. 正念常興起，意靜易滅除，自制以法命，不犯善名稱。（法集要頌經, T04, 779a）
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - THE ENERGETIC PROSPER
+        24. The glory of him who is energetic, mindful, pure in deed, considerate, self-controlled, right-living, and heedful steadily increases.
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - 24. Ever grows the glory of him who is energetic, mindful and pure in conduct, discerning and self-controlled, righteous and heedful.
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | 24 Those with initiative,
+       |   mindful,
+       |   clean in action,
+       | acting with due consideration,
+       |   heedful, restrained,
+       | living the Dhamma:
+       |   their glory
+       |   grows.
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | 24 People who are
+       |         energetic,
+       |         attentive,
+       |         pure in conduct,
+       |         careful in conduct,
+       |         restrained,
+       |         of right livelihood,
+       |         diligent,
+       |    their glory grows.
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 24 If an earnest person has roused himself, if he is not forgetful, if his deeds are pure, if he acts with consideration, if he restrains himself, and lives according to law,--then his glory will increase.
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 024 <{filename}dhA-chap02%zh.rst#dhp024>`__
+
+.. _Dhp025:
+
+.. list-table:: Dhammapada Dhp. 025
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 25. Uṭṭhānenappamādena saññamena damena ca
+       | Dīpaṃ kayirātha medhāvī yaṃ ogho nābhikīrati.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 25. Uṭṭhānenappamādena , saṃyamena damena ca;
+       | Dīpaṃ kayirātha medhāvī, yaṃ ogho nābhikīrati.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 25 奮勉不放逸，克己自調御，智者自作洲，不為洪水沒。 [LCanFn02-06]_ 、 [LCanFn02-07]_ 、 [MettFn02-05]_ 、 [MettFn02-06]_ 
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 25 透過勤奮不放逸、守戒與調服（諸根），
+       | 智者應該做個島：洪水淹不了的島。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 發行不放逸，約己自調心，慧能作錠明，不返冥淵中。（法句經, T04, 562b） [TSFn02-05]_
+
+       2. 發行不放逸，約己自調心，慧能作錠明，不反入冥淵。（出曜經, T04,638a） [TSFn02-06]_
+
+       3. 發行不放逸，約己調伏心，能善作智燈，黑闇自破壞。（法集要頌經, T04,779a）
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - BY THEIR EFFORTS THE WISE CREATE THEIR OWN HEAVENS
+        25. By sustained effort, earnestness, discipline, and self-control let the wise man make for himself an island, [NāradaFn02-09]_ which no flood overwhelms.
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - 25. By effort and heedfulness, discipline and self-mastery, let the wise one make for himself an island which no flood can overwhelm.
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | 25 Through initiative, heedfulness,
+       | restraint, & self-control,
+       | the wise would make
+       |      an island
+       | no flood
+       | can submerge.
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | 25 The wise by means of
+       |        energy,
+       |        diligence,
+       |        sense restraint,
+       |        self-taming,
+       |     make an island which no flood can destroy.
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 25 By rousing himself, by earnestness, by restraint and control, the wise man may make for himself an island which no flood can overwhelm.
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 025 <{filename}dhA-chap02%zh.rst#dhp025>`__
+
+.. _Dhp026:
+
+.. list-table:: Dhammapada Dhp. 026
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 26. Pamādamanuyuñjanti bālā dummedhino janā
+       | Appamādañca medhāvi dhanaṃ seṭṭhaṃ'va rakkhati.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 26. Pamādamanuyuñjanti, bālā dummedhino janā;
+       | Appamādañca medhāvī, dhanaṃ seṭṭhaṃva rakkhati.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 26 暗鈍愚癡人，耽溺於放逸，智者不放逸，如富人護寶。
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 26 無慧愚痴的大眾，他們耽溺於放逸；
+       | 智者守護不放逸，猶如守護至上財。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 愚人意難解，貪亂好諍訟，上智當重慎，護斯為寶尊。（法句經, T04,562c） [TSFn02-07]_ 
+
+       2. 修習放逸人，愚人所狎習，定則不放逸，如財主守藏。（出曜經, T04,639c）
+
+       3. 修習放逸人，愚人所狎習，定則無放逸，便能盡有漏。（出曜經, T04,64a） [TSFn02-08]_
+
+       4. 修習放逸人，愚人所狎習，正觀不散亂，如財主守藏。（法集要頌經, T04,779a） [TSFn02-09]_
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - BE HEEDFUL NOT HEEDLESS
+        26. The ignorant, foolish folk indulge in heedlessness; the wise man guards earnestness as the greatest treasure.
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - 26. The foolish and ignorant indulge in heedlessness, but the wise one keeps his heedfulness as his best treasure.
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | 26 They're addicted to heedlessness
+       |  — dullards, fools —
+       | while one who is wise
+       | cherishes heedfulness
+       | as his highest wealth.
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | 26 They’re given to slackness, the dull and inane;
+       | The wise foster diligence, their paramount gain.
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 26 Fools follow after vanity, men of evil wisdom. The wise man keeps earnestness as his best jewel.
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 026 <{filename}dhA-chap02%zh.rst#dhp026>`__
+
+.. _Dhp027:
+
+.. list-table:: Dhammapada Dhp. 027
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 27. Mā pamādamanuyuñjetha mā kāmarati santhavaṃ
+       | Appamatto hi jhāyanto pappoti vipulaṃ sukhaṃ. 
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 27. Mā pamādamanuyuñjetha, mā kāmaratisanthavaṃ **[sandhavaṃ (ka)]**;
+       | Appamatto hi jhāyanto, pappoti vipulaṃ sukhaṃ.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 27 莫耽溺放逸。莫嗜愛欲樂。警覺修定者，始得大安樂。 [MettFn02-07]_ 
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 27 不應耽溺於放逸，不應沉湎於欲樂，
+       | 禪修不放逸的人，的確獲得許多樂。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 莫貪莫好諍，亦莫嗜欲樂，思心不放逸，可以獲大安。（法句經, T04, 562c）
+
+       2. 莫貪莫好爭，亦莫嗜欲樂，思念不放逸，可以獲大安。（出曜經, T04,640a） [TSFn02-10]_
+
+       3. 莫貪樂鬪諍，亦勿嗜欲樂，思念不放逸，可以獲大安。（法集要頌經, T04,779a）
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 27. Indulge not in heedlessness; have no intimacy with sensuous delights. Verily, the earnest, meditative person obtains abundant bliss.
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - 27. Do not give way to heedlessness. Do not indulge in sensual pleasures. Only the heedful and meditative attain great happiness.
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | 27 Don't give way to heedlessness
+       |   or to intimacy
+       |   with sensual delight —
+       | for a heedful person,
+       | absorbed in jhana,
+       | attains an abundance of ease.
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | 27 Don’t be given to negligence;
+       | Turn aside from sensual treats.
+       | The diligent one who meditates
+       | Gets joy that’s abundantly sweet.
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 27 Follow not after vanity, nor after the enjoyment of love and lust! He who is earnest and meditative, obtains ample joy.
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 027 <{filename}dhA-chap02%zh.rst#dhp027>`__
+
+.. _Dhp028:
+
+.. list-table:: Dhammapada Dhp. 028
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 28. Pamādaṃ appamādena yadā nudati paṇḍito
+       | Paññāpāsādamāruyha asoko sokiniṃ pajaṃ
+       | Pabbataṭṭho'va bhummaṭṭhe dhīro bāle avekkhati.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 28. Pamādaṃ appamādena, yadā nudati paṇḍito;
+       | Paññāpāsādamāruyha, asoko sokiniṃ pajaṃ;
+       | Pabbataṭṭhova bhūmaṭṭhe **[bhummaṭṭhe (sī. syā.)]**, dhīro bāle avekkhati.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 28 智者以無逸，除逸則無憂，聖賢登慧閣，觀愚者多憂，如登於高山，俯視地上物。 [MettFn02-08]_ 
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 28 智者透過不放逸，去除放逸的時候，
+       | 他登上了智慧殿，無憂看著憂苦眾，
+       | 猶如賢哲山頂立，下看平原的愚人。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 放逸如自禁，能却之為賢，已昇智慧閣，去危為即安，明智觀於愚，譬如山與地。（法句經, T04, 562c） [TSFn02-11]_
+
+       2. 放逸如自禁，能卻之為賢，已昇智慧堂，去危而即安。明智觀於愚，譬如山與地，當念捨憍慢，智者習明慧。（出曜經, T04, 637c） [TSFn02-12]_
+       　 
+       3. 迷醉如自禁，能去之為賢，已昇智慧堂，去危乃獲安。智者觀愚人，譬如山與地，當念捨憍慢，智者習明慧。（法集要頌經, T04, 779a）
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - HEEDLESSNESS SHOULD BE CONQUERED BY HEEDFULNESS
+        28. When an understanding one discards heedlessness by heedfulness, he, free from sorrow, ascends to the palace of wisdom and surveys the sorrowing folk as a wise mountaineer surveys the ignorant groundlings. [NāradaFn02-10]_
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - 28. Just as one upon the summit of a mountain beholds the groundlings, even so when the wise man casts away heedlessness by heedfulness and ascends the high tower of wisdom, this sorrowless sage beholds the sorrowing and foolish multitude.
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | 28 When the wise person drives out
+       |   heedlessness
+       |   with heedfulness,
+       | having climbed the high tower
+       | of discernment,
+       |   sorrow-free,
+       | he observes the sorrowing crowd —
+       | as the enlightened man,
+       | having scaled
+       |   a summit,
+       | the fools on the ground below.
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | 28 With negligence scattered by diligent power,
+       | The sage ascends great wisdom’s tower.
+       | On the sorrowing masses he looks, free of woe,
+       | As if from a mountain on groundlings below.
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 28 When the learned man drives away vanity by earnestness, he, the wise, climbing the terraced heights of wisdom, looks down upon the fools, serene he looks upon the toiling crowd, as one that stands on a mountain looks down upon them that stand upon the plain.
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 028 <{filename}dhA-chap02%zh.rst#dhp028>`__
+
+.. _Dhp029:
+
+.. list-table:: Dhammapada Dhp. 029
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 29. Appamatto pamattesu suttesu bahujāgaro
+       | Abalassaṃ'va sīghasso hitvā yāti sumedhaso.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 29. Appamatto  pamattesu, suttesu bahujāgaro;
+       | Abalassaṃva  sīghasso, hitvā yāti sumedhaso.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 29 放逸中無逸，如眾睡獨醒。智者如駿馳，駑駘所不及。 [MettFn02-09]_ 
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 29 在眾放逸人中他不放逸，在眾昏睡人中他極警覺，
+       | 智者猶如快馬迅速前進，把疲憊的馬遠拋在後頭。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 居亂而身正，彼為獨覺悟，是力過師子，棄惡為大智。（法句經, T04, 562c）
+
+       2. 不自放逸，從是多悟，羸馬比良，棄惡為賢。（法句經, T04, 570c） [TSFn02-13]_
+
+       3. 不恣在放恣，於眠多覺寤，如羸馬比良，棄惡乃為賢。（出曜經, T04,711c）
+
+       4. 不恣在放恣，於眠多覺悟，如羸馬比良，棄惡乃為賢。（法集要頌經, T04, 786c） [TSFn02-14]_
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - THE STRENUOUS AND THE ALERT OVERTAKE THE THOUGHTLESS AND THE INDOLENT
+        29. Heedful amongst the heedless, wide awake amongst the slumbering, the wise man advances as does a swift horse, leaving a weak jade behind.
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - 29. Heedful among the heedless, wide-awake among the sleepy, the wise man advances like a swift horse leaving behind a weak jade.
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | 29 Heedful among the heedless,
+       | wakeful among those asleep,
+       | just as a fast horse advances,
+       | leaving the weak behind:
+       |   so the wise.
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | 29 Heedful amongst the oblivious,
+       | Awake in the land of the sleeping,
+       | The wise man proceeds
+       | Like a galloping steed:
+       | Passing faltering jades,
+       | Leaves them standing.
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 29 Earnest among the thoughtless, awake among the sleepers, the wise man advances like a racer, leaving behind the hack.
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 029 <{filename}dhA-chap02%zh.rst#dhp029>`__
+
+.. _Dhp030:
+
+.. list-table:: Dhammapada Dhp. 030
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 30. Appamādena maghavā devānaṃ seṭṭhataṃ gato
+       | Appamādaṃ pasaṃsanti pamādo garahito sadā.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 30. Appamādena maghavā, devānaṃ seṭṭhataṃ gato;
+       | Appamādaṃ pasaṃsanti, pamādo garahito sadā.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 30 摩伽 [LCanFn02-08]_ 、 [MettFn02-10]_ 以無逸，得為諸天主。無逸人、所讚，放逸為人訶。
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 30 摩伽透過不放逸，得以生為天之主。 [CFFn02-01]_
+       | 眾人讚賞不放逸，放逸永遠被責備。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 不放而得稱，放逸致毀謗，不逸摩竭人，緣淨得生天。（出曜經, T04, 659a）
+
+       2. 讚歎不放逸，毀彼放逸人，恒獲人天報，最上為殊勝。（法集要頌經, T04, 779b）
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - EARNESTNESS LEADS TO SOVEREIGNTY
+        30. By earnestness Maghavà [NāradaFn02-11]_ rose to the lordship of the gods. [NāradaFn02-12]_ Earnestness is ever praised; negligence is ever despised.
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - 30. By Heedfulness did Indra become the overlord of the gods. Heedfulness is ever praised, and heedlessness ever despised. [BudRkFn02-03]_
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | 30 Through heedfulness, Indra won
+       | to lordship over the gods.
+       | Heedfulness is praised,
+       | heedlessness censured —
+       |   always.
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | 30 Sakka, through heedful behaviour,
+       | Was crowned as the sovereign deva.
+       | Thus, heedfulness wins acclamation,
+       | And slackness receives deprecation.
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 30 By earnestness did Maghavan (Indra) rise to the lordship of the gods. People praise earnestness; thoughtlessness is always blamed.
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 030 <{filename}dhA-chap02%zh.rst#dhp030>`__
+
+.. _Dhp031:
+
+.. list-table:: Dhammapada Dhp. 031
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 31. Appamādarato bhikkhu pamāde bhaya dassivā
+       | Saṃyojanaṃ aṇuṃ thūlaṃ ḍahaṃ aggīva gacchati.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 31. Appamādarato bhikkhu, pamāde bhayadassi vā;
+       | Saṃyojanaṃ aṇuṃ thūlaṃ, ḍahaṃ aggīva gacchati.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 31 樂不放逸比丘，或者懼見放逸，猶如猛火炎炎，燒去大結 [MettFn02-11]_ 、小結 [LCanFn02-09]_ 。 [MettFn02-12]_
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 31 樂於不放逸的比丘，看見放逸中的危險，
+       | 他有如火焰般前進，燒盡一切大小束縛。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 比丘謹慎樂，放逸多憂愆，變諍小致大，積惡入火焚。（法句經, T04, 562c） [TSFn02-15]_
+
+       | 2. 比丘謹慎樂，放逸多憂愆，能免深海難，如象拔淤泥。（出曜經, T04, 645c）
+       | 3. 比丘謹慎樂，放逸多憂愆，散灑諸惡法，如風飄落葉。（出曜經, T04, 646c）
+       | 4. 比丘謹慎樂，放逸多憂愆，結使所纏裹，為火燒已盡。（出曜經, T04, 646c）
+       | 
+       | 5. 比丘謹慎樂，放逸多憂愆，各各以次第，得盡諸結使。（出曜經, T04, 647a）
+       | 
+       | 6. （出曜經, T04, 647a）
+       | 比丘謹慎樂，放逸多憂愆，義解分別句，行息永安寧。
+       | 比丘謹慎樂，放逸多憂愆，變諍小致大，積惡入火焚。 [TSFn02-16]_
+       | 
+       | 7.法集要頌經：。（法集要頌經, T04, 779b）
+       | 苾芻懷謹慎，放逸多憂愆，如象拔淤泥，難救深海苦。
+       | 苾芻懷謹慎，放逸多憂愆，抖擻諸罪塵，如風飄落葉。
+       | 苾芻懷謹慎，放逸多憂愆，結使深纏縛，如火焚枯薪。
+       | 苾芻懷謹慎，放逸多憂愆，各各順次第，得盡諸結使。
+       | 苾芻懷謹慎，放逸多憂愆，義解分別句，寂靜永安寧。
+       | 苾芻懷謹慎，放逸多憂愆，煩惱若消除，能得涅槃樂。
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - THE HEEDFUL ADVANCE
+        31. The Bhikkhu [NāradaFn02-13]_ who delights in heedfulness, and looks with fear on heedlessness, advances like fire, burning all fetters [NāradaFn02-14]_ great and small.
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - 31. The monk who delights in heedfulness and looks with fear at heedlessness advances like fire, burning all fetters, small and large.
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | 31 The monk delighting in heedfulness,
+       | seeing danger in heedlessness,
+       | advances like a fire,
+       | burning fetters
+       |   great & small.
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | 31 The monk who in diligence finds his delight,
+       | Looking at negligence with fearful dislike,
+       | Leaping ahead, like a flaming fireball,
+       | Erases his fetters, the great and the small.
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 31 A Bhikshu (mendicant) who delights in earnestness, who looks with fear on thoughtlessness, moves about like fire, burning all his fetters, small or large.
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 031 <{filename}dhA-chap02%zh.rst#dhp031>`__
+
+.. _Dhp032:
+
+.. list-table:: Dhammapada Dhp. 032
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 32. Appamādarato bhikkhu pamāde bhaya dassivā
+       | Abhabbo parihāṇāya nibbāṇasseva santike. 
+       | 
+       | Appamādavaggo dutiyo.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 32. Appamādarato bhikkhu, pamāde bhayadassi vā;
+       | Abhabbo parihānāya, nibbānasseva santike.
+       | 
+       | Appamādavaggo dutiyo niṭṭhito.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - | 32 樂不放逸比丘，或者懼見放逸，彼已鄰近涅槃，必定不易墮落。[MettFn02-13]_
+       | 
+       | 不放逸品第二竟〔Appamaadavaggo Dutiyo〕
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 32 樂於不放逸的比丘，看見放逸中的危險，
+       | 他絕不可能會倒退，而且已很接近涅槃。 [CFFn02-02]_
+       | 不放逸品第二完畢
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 守戒福致喜，犯戒有懼心，能斷三界漏，此乃近泥洹。（法句經, T04, 562c） [TSFn02-17]_
+
+       2. 守戒福致喜，犯戒有懼心，能斷三界漏，此乃近涅槃。（法句譬喻經, T04, 放逸品第十） [TSFn02-18]_
+
+       3. 依此毘尼法，不懷放逸行，消除生死輪，永得盡苦惱。（法集要頌經, T04, 779c）
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - THE HEEDFUL ARE IN THE PRESENCE OF NIBBâNA
+        32. The Bhikkhu who delights in heedfulness, and looks with fear on heedlessness, is not liable to fall. [NāradaFn02-15]_ He is in the presence of Nibbàna.
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - 32. The monk who delights in heedfulness and looks with fear at heedlessness will not fall. He is close to Nibbana.
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | 32 The monk delighting in heedfulness,
+       | seeing danger in heedlessness
+       |  — incapable of falling back —
+       | stands right on the verge
+       |   of Unbinding.
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | 32 The monk who in diligence finds his delight,
+       | Looking at negligence with fearful dislike,
+       | Of falling away, he has no possibility;
+       | He’s brought himself into Nibbana’s vicinity.
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 32 A Bhikshu (mendicant) who delights in reflection, who looks with fear on thoughtlessness, cannot fall away (from his perfect state)--he is close upon Nirvana.
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 032 <{filename}dhA-chap02%zh.rst#dhp032>`__
+
+--------------
+
+備註：
+
+.. [1] 〔註001〕　 `巴利原典 (PTS) Dhammapadapāḷi <Dhp-PTS.html>`__ 乃參考 `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `Dhp <http://www.accesstoinsight.org/tipitaka/kn/dhp/index.html>`__ → `{Dhp 1-20} <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.1>`__ ( `Dhp <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html>`__ ; `Dhp 21-32 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.21>`__ ; `Dhp 33-43 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.33>`__ , etc..）
+
+.. [2] 〔註002〕　 `巴利原典 (CSCD) Dhammapadapāḷi 乃參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版原始出處(original)請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Khuddakanikāya → Dhammapadapāḷi → `1. Yamakavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul0.xml>`__ (2. `Appamādavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul1.xml>`__ , 3. `Cittavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul2.xml>`__ , etc..)。]
+
+.. [3] 〔註003〕　本譯文請參考： `文言文版 <{filename}dhp-Ven-L-C%zh.rst>`__ ( **了參 法師** 譯，台北市：圓明出版社，1991。) 另參： 
+
+       一、 Dhammapada 法句經(中英對照) -- English translated by **Ven. Ācharya Buddharakkhita** ; Chinese translated by Yeh chun(葉均); Chinese commented by **Ven. Bhikkhu Metta(明法比丘)** 〔 **Ven. Ācharya Buddharakkhita** ( **佛護 尊者** ) 英譯; **了參 法師(葉均)** 譯; **明法比丘** 註（增加許多濃縮的故事）〕： `PDF </extra/pdf/ec-dhp.pdf>`__ 、 `DOC </extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) </extra/doc/ec-dhp-f1.doc>`__ 。
+
+       二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF </extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC </extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) </extra/doc/pc-Dhammapada-f1.doc>`__
+
+.. [4] 〔註004〕　本譯文請參考： `白話文版 (pdf) </extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__， **敬法 法師** 譯，第二修訂版 2015，`原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`__ ；　(`初版 </extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
+
+.. [5] 〔註005〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+
+          **參考相當之古漢譯對應經典：**
+
+          - | `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ ，2014。
+            | 〔大正新脩大藏經第四冊 `No. 210《法句經》 <http://www.cbeta.org/result/T04/T04n0210.htm>`__ ； **尊者 法救** 撰　吳天竺沙門** 維祇難** 等譯： `卷上 <http://www.cbeta.org/result/normal/T04/0210_001.htm>`__ 、 `卷下 <http://www.cbeta.org/result/normal/T04/0210_002.htm>`__ 〕(CBETA)
+
+          - | `《法句譬喻經》校勘與標點 <http://yifert211.blogspot.tw/>`__ ，2014。
+            | 大正新脩大藏經 第四冊 `No. 211《法句譬喻經》 <http://www.cbeta.org/result/T04/T04n0211.htm>`__ ；晉世沙門 **法炬** 共 **法立** 譯： `卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0211_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0211_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0211_004.htm>`__ (CBETA)
+
+          - | `《出曜經》校勘與標點 <http://yifertw212.blogspot.com/>`__ ，2014。
+            | 〔大正新脩大藏經 第四冊 `No. 212《出曜經》 <http://www.cbeta.org/result/T04/T04n0212.htm>`__ ；姚秦涼州沙門 **竺佛念** 譯： `卷第一 <http://www.cbeta.org/result/normal/T04/0212_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0212_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0212_003.htm>`__ 、..., 、..., 、..., 、 `卷第二十八 <http://www.cbeta.org/result/normal/T04/0212_028.htm>`__ 、 `卷第二十九 <http://www.cbeta.org/result/normal/T04/0212_029.htm>`__ 、 `卷第三十 <http://www.cbeta.org/result/normal/T04/0212_030.htm>`__ 〕(CBETA)
+
+          - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
+            | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
+
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+
+.. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
+
+.. [8] 〔註008〕　此英譯為 **Ven. Thanissaro Bhikkhu** ( **坦尼沙羅尊者** 所譯；請參考原始出處(original): The Dhammapada, A Translation translated from the Pali by **Ven. Thanissaro Bhikkhu** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.than.html#preface>`__ ; `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.than.html#intro>`__ ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.than.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.than.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.than.html>`__ (`Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ → `Dhp <http://www.accesstoinsight.org/tipitaka/kn/dhp/index.html>`__ (Dhammapada The Path of Dhamma)
+
+.. [9] 〔註009〕　此英譯為 **Ven. Varado Bhikkhu** and **Samanera Bodhesako** 所譯；請參考原始出處(original): `Dhammapada in Verse <http://www.suttas.net/english/suttas/khuddaka-nikaya/dhammapada/index.php>`__ -- Inward Path, Translated by **Bhante Varado** and **Samanera Bodhesako**, Malaysia, 2007
+
+.. [10] 〔註010〕　此英譯為 `Friedrich Max Müller <https://en.wikipedia.org/wiki/Max_M%C3%BCller>`__ 所譯；請參考原始出處(original): `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
+
+.. [11] 〔註011〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+
+.. [LCanFn02-01] 〔了參法師註02-01〕　不死(Amata)，又做甘露、涅槃。
+　
+.. [LCanFn02-02] 〔了參法師註02-02〕　因不放逸的人證得涅槃境界，便不會再有生死輪迴的繼續。放逸的人如死屍ㄧ樣，不知向好的方面去努力。
+
+.. [LCanFn02-03] 〔了參法師註02-03〕　此頌接續前頌而來。「此」即不要放逸而住於不放逸。
+
+.. [LCanFn02-04] 〔了參法師註02-04〕　佛，辟支佛及阿羅漢的境界。
+
+.. [LCanFn02-05] 〔了參法師註02-05〕　證得涅槃必須解除四種軛--欲軛(Kaamayoga)，有軛(Bhavayoga)，見軛(Di.t.thiyoga)，無明軛(Avijjayoga)。
+
+.. [LCanFn02-06] 〔了參法師註02-06〕　猶如較高的陸地，可以作避免水災的安全處。智者自己證得阿羅漢果，即不為煩惱所擾。
+
+.. [LCanFn02-07] 〔了參法師註02-07〕　是貪瞋癡等煩惱。
+
+.. [LCanFn02-08] 〔了參法師註02-08〕　「摩伽」(Maghava)是帝釋(Sakka)的別名。他未成帝釋之前在人間的名字叫摩伽。因他勤於掃地，以此功德，得為諸天之主。
+
+.. [LCanFn02-09] 〔了參法師註02-09〕　「結」（Samyojana 或 Sannojana）在佛教的特殊意義，是指煩惱（Kilesa）。
+
+.. [MettFn02-01] 〔明法尊者註02-01〕** 不死道**：amatapadaṁ，涅槃的一種名稱。《相應部》〈無為相應〉提到三十二種涅槃的別名之一‘amata’。DhA.CS:pg.1.103.︰**Amatapadan** ti amataṁ vuccati nibbānaṁ.(**不死的路**：「不死」被叫做「涅槃」。)
+
+.. [MettFn02-02] 〔明法尊者註02-02〕** 死路**：maccu (death死)。
+
+.. [MettFn02-03] 〔明法尊者註02-03〕** 奮勉**：DhA：**uṭṭhānavato** ti uṭṭhānavīriyavantassa.(**奮起**：奮起的英雄本色。)
+
+.. [MettFn02-04] 〔明法尊者註02-04〕** 淨行**：DhA：**Sucikammassā** ti niddosehi niraparādhehi kāyakammādīhi samannāgatassa.(**淨業**： 已被無為難的、無違犯的身業等俱行。)
+
+.. [MettFn02-05] 〔明法尊者註02-05〕** 不為洪水沒**：智者以法與律作為依止，不為煩惱(喻作：洪水)所淹沒。DhA：「洪水為四種污染(catubbidhopi kilesogho)」。四洪水(cattāro oghā)就是四漏(四流向, 4 āsavā<(ā向﹑從…+ **su** (梵 **sru** )流動))。
+
+.. [MettFn02-06] 〔明法尊者註02-06〕　有一天，名醫耆婆(Jīvako)邀請佛陀和眾多比丘到他家接受供養，但是周利槃特(Cūḷapanthako)除外。周利槃特十分沮喪。佛陀明白他的心意後，就給他一塊布，要他一邊搓揉布塊，一邊複誦「去除污垢，去除污垢。」(‘rajoharaṇaṁ rajoharaṇan’ti)佛陀離開後，周利槃特努力搓揉布塊，並複誦「去除污垢」，不久，布變髒了，這時候他了解到無常。佛陀就以神通力出現在他的面前，說：「不只是布因污垢而變髒，人心也有污垢，去除污垢，才能證果。」他繼續用功，不久就證得阿羅漢果。
+
+                  PS: 請參 `025 典故 <{filename}dhp-story025%zh.rst>`__ ；或 `法句經故事集 </extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～三、愚笨的周利槃特證得聖果 (偈 025)。
+
+.. [MettFn02-07] 〔明法尊者註02-07〕　舍衛城某次慶典時，一群年輕人惹事生非。佛陀說︰「諸愚者、無慧者會作騷擾事；有慧者像有價之財，護衛不放逸，圓滿證得不死的大涅槃。」
+
+                  PS: 請參 `法句經故事集 </extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～四、慶典期間幼稚的舉止 (偈 026~027)。
+
+.. [MettFn02-08] 〔明法尊者註02-08〕　有一次，大迦葉長老(Mahākassapatthera)住在畢缽離洞窟(Pipphaliguhāya)的時候，運用神通想要知道，誰有正念、誰迷糊，誰快往生了。這時候，佛陀明白大迦葉長老的作為，便告誡他：「大迦葉！你所知道的只是小境界，只有諸佛的境界才能夠知道一切眾生的生死。」
+
+                  PS: 請參 `法句經故事集 </extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～五、大迦葉尊者想知道生死輪迴的次數 (偈 028)。
+
+.. [MettFn02-09] 〔明法尊者註02-09〕　本偈說兩位比丘的故事，一位精進，一位懈怠，精進的比丘修習警寤瑜伽(一天當中只睡中夜10pm~2am)，懈怠的比丘愛講話。精進的比丘很短的時間就證得阿羅漢果。當他們去見佛陀時，佛陀跟懈怠的比丘告誡。
+
+                  PS: 請參 `法句經故事集 </extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～六、修行的目的 (偈 029)。
+
+.. [MettFn02-10] 〔明法尊者註02-10〕** 摩伽**：帝釋天王七個名字之一。帝釋天王做人時有七誓約(satta vatapadāni)︰「1.願終生孝養父母。2.願終生禮敬長輩。3.願終生語柔和。4.願終生不誹謗。5.願終生守住離慳垢；舒手施、樂捨施、有求必應、樂分配施。6.願終生說真實語。7.願終生不生氣，若生氣則速制伏。」(S.11.11.；cf.《雜阿含1105經》)。
+
+                  PS: 請參 `法句經故事集 </extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～七、瑪伽為何往生為帝釋 (偈 030)。
+
+.. [MettFn02-11] 〔明法尊者註02-11〕** 結**：煩惱的異名。
+
+.. [MettFn02-12] 〔明法尊者註02-12〕　本偈說一位比丘精進用功，卻感覺進步很少，他感到沮喪，他想要去見佛陀，請佛陀給予指引。在路上，他遇見熊熊大火，於是就跑到山上去觀察火勢。正當火勢漫延時，他領悟到，就像火燒毀一切東西，以聖道智之火也會燒掉大大小小的束縛。這時，佛陀出現在他的面前，說：「比丘！就如大火燒毀一切障礙，以智火能燒掉所有的結。」聽完偈頌之後，他透析燒掉束縛的事，不久，就證得阿羅漢果。
+
+                  PS: 請參 `法句經故事集 </extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～八、智慧之火 (偈 031)。
+
+.. [MettFn02-13] 〔明法尊者註02-13〕　出生在舍衛城附近的小村莊的尼迦瑪西提舍長老(Nigamavāsitissa- tthero)，出家後過著簡單的生活，有時其他比丘會誤會他的行為，如避開大型會。佛陀則讚嘆他少欲知足，說此偈。
+
+                  PS: 請參 `法句經故事集 </extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～九、知足的比丘 (偈 032)。
+
+.. [CFFn02-01] 〔敬法法師註02-01〕 註：由於造路等的善業，摩伽得以投生為帝釋天王。
+
+.. [CFFn02-02] 〔敬法法師註02-02〕 註釋：「**不可能會倒退**」：這樣的比丘不可能會從止觀法或道果倒退，不會從已達到之境倒退，也不會不達到未達之境。
+
+.. [NandFn02-01] 〔Nanda 校註02-01〕 第 21-23 偈頌，可參 `法句經故事集 </extra/pdf/Dhp-story-han-chap02.pdf>`_ ，二～一、摩醯提利陰謀陷害珊蔓娣皇后 (偈 021~023)。
+
+.. [NandFn02-02] 〔Nanda 校註02-02〕 第 24 偈頌，可參 `法句經故事集 </extra/pdf/Dhp-story-han-chap02.pdf>`_ ，二～二、富翁的聲音 (偈 024)。
+
+.. 〔《法句經》校勘與標點註02-00〕　(CBETA, T04, no. 210, p. 562, b19-c29), 標注 T04n0210_p0562b18(00) 放逸品者，引律戒情，防邪撿失，以道勸賢。本版本參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`_ 之 2013年11月29日 星期五 `〈10 放逸品〉 <http://yifert210.blogspot.tw/2013/11/10.html>`_
+
+.. [TSFn02-01] 〔古漢譯註02-01〕　《法句經》，卷上，〈10 放逸品〉；(T04n0210_p0562b21(00), CBETA, T04, no. 210, p. 562, b19-c29)，偈頌 1；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月29日 星期五 `〈10 放逸品〉 <http://yifert210.blogspot.tw/2013/11/10.html>`__ ，偈頌 1
+
+.. [TSFn02-02] 〔古漢譯註02-02〕　《出曜經》，卷5〈4 無放逸品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 `卷5〈4 無放逸品〉(CBETA, T04, no. 212, p. 636, c29-p. 638, b2) <http://yifertw212.blogspot.tw/2013/06/53cbeta-t04-no-212-p-632-b20-p-636-c27.html>`__ ，【1. 戒為甘露道】
+
+.. http://yifertw212.blogspot.tw/2013_06_01_archive.html
+
+.. [TSFn02-03] 〔古漢譯註02-03〕　《法集要頌經》，〈4 放逸品〉，偈頌 1； 參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月7日 星期六 `《法集要頌經》卷1〈4 放逸品〉(CBETA, T04, no. 213, p. 779, a1-c21) <http://yifertw213.blogspot.tw/2013/12/4-40.html>`__ ，偈頌 1
+
+.. [TSFn02-04] 〔古漢譯註02-04〕　CBETA: 【大】 慧 ； 【聖】 惠 
+
+.. [TSFn02-05] 〔古漢譯註02-05〕　《法句經》，卷上，〈10 放逸品〉；(T04n0210_p0562b29(00), CBETA, T04, no. 210, p. 562, b19-c29)，偈頌 1；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月29日 星期五 `〈10 放逸品〉 <http://yifert210.blogspot.tw/2013/11/10.html>`__ ，偈頌 5 [TSFn02-05-1]_
+
+                .. [TSFn02-05-1]  「慧能作錠明」，《大正藏》與《趙城金藏》作「慧能作定明」。宋、元、明版藏經與《磧砂藏》作「慧能作錠明」。「約己自調心」，《大正藏》與《趙城金藏》作「約以自調心」，《磧砂藏》作「約已自調心」。依《出曜經》校改。《出曜經》卷5〈4 無放逸品〉：「發行不放逸，約己自調心，慧能作錠明，不反入冥淵。」(CBETA, T04, no. 212, p. 638, a16-17)。
+
+                PS: CBETA: 1. 約以自調心-- 【大】 以 ； 【宋】 已 ； 【元】 已 ； 【明】 已
+
+                2. a. 慧能作錠明-- 【大】 慧 ； 【聖】 惠
+
+                   b. 【大】 定 ； 【宋】 錠 ； 【元】 錠 ； 【明】 錠 
+
+.. [TSFn02-06] 〔古漢譯註02-06〕　CBETA: 發行乃至冥淵二十字作五言偈 【宋】【元】【明】
+
+.. [TSFn02-07] 〔古漢譯註02-07〕　《法句經》，卷上，〈10 放逸品〉；(T04n0210_p0562c02(00), CBETA, T04, no. 210, p. 562, b19-c29)，偈頌 6；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月29日 星期五 `〈10 放逸品〉 <http://yifert210.blogspot.tw/2013/11/10.html>`__ ，偈頌 6 [TSFn02-07-1]_
+
+                .. [TSFn02-07-1] 「上智當重慎」，《大正藏》與《趙城金藏》作「上智常重慎」。宋、元、明版藏經與《磧砂藏》作「上智當重慎」。
+
+                PS: CBETA: 【大】 常 ； 【宋】 當 ； 【元】 當 ； 【明】 當 
+
+.. [TSFn02-08] 〔古漢譯註02-08〕　CBETA: 修習乃至有漏二十字作五言偈 【宋】【元】【明】
+
+.. [TSFn02-09] 〔古漢譯註02-09〕　《法集要頌經》，卷第一〈放逸品第四〉；(T04n0213_p0779a20(00)；參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月7日 星期六 `卷1〈4 放逸品〉40頌 (CBETA, T04, no. 213, p. 779, a1-c21)  <http://yifertw213.blogspot.tw/2013/12/4-40.html>`__ ，偈頌 11 [TSFn02-09-1]_
+
+                .. [TSFn02-09-1] 「正觀不散亂」，《大正藏》與《趙城金藏》作「止觀不散亂」，宋、元、明藏及《磧砂藏》作「正觀不散亂」。
+
+                PS: CBETA: 【大】 止 ； 【宋】 正 ； 【元】 正 ； 【明】 正
+
+.. [TSFn02-10] 〔古漢譯註02-10〕　CBETA: 1. 莫貪乃至大安二十字作五言偈 【宋】【元】【明】
+                                         2. 【大】 爭 ； 【宋】 諍 ； 【元】 諍 ； 【明】 諍 
+
+.. [TSFn02-11] 〔古漢譯註02-11〕　《法句經》，卷上，〈10 放逸品〉；(T04n0210_p0562c06(00), CBETA, T04, no. 210, p. 562, b19-c29)，偈頌 8；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月29日 星期五 `〈10 放逸品〉 <http://yifert210.blogspot.tw/2013/11/10.html>`__ ，偈頌 8 [TSFn02-11-1]_
+
+                .. [TSFn02-11-1]  「能却之為賢」，宋、元、明版藏經與《磧砂藏》作「能覺之為賢」。《出曜經》卷5〈4 無放逸品〉：「放逸如自禁，能却之為賢，已昇智慧堂，去危而即安，明智觀於愚，譬如山與地」(CBETA, T04, no. 212, p. 637, c13-14)。
+
+                PS: CBETA: 1. 【大】 却 ； 【宋】 覺 ； 【元】 覺 ； 【明】 覺 
+
+                2. 【大】 慧 ； 【聖】 惠 
+ 
+.. [TSFn02-12] 〔古漢譯註02-12〕  《出曜經》，卷5〈4 無放逸品〉; 參照 `《出曜經》校勘與標點 <http://yifertw212.blogspot.tw/>`__ 之 `卷5〈4 無放逸品〉(CBETA, T04, no. 212, p. 636, c29-p. 638, b2) <http://yifertw212.blogspot.tw/2013/06/53cbeta-t04-no-212-p-632-b20-p-636-c27.html>`__ ，【4. 放逸如自禁】【5. 明智觀於愚】 [TSFn02-12-1]_ 
+
+                .. [TSFn02-12-1]  《法句經》卷1〈10 放逸品〉：「放逸如自禁，能却之為賢，已昇智慧閣，去危為即安，明智觀於愚，譬如山與地。」(CBETA, T04, no. 210, p. 562, c6-9)。巴利《法句經》對應偈頌(28偈)為：「當智者以精進排除放逸，無憂地登上智慧的高閣時，他觀察煩憂的人像在高山上觀察在平地的愚人。」上述兩部《法句經》均顯示前六句為一首偈頌。《磧砂藏》與「宋、元、明藏」此處之後缺四十字：「是故捨憍慢者，…是故說曰智者習明慧。」(CBETA, T04, no. 212, p. 637, c15-19)。校勘者依《磧砂藏》，將此四十字移至「明智觀於愚，譬如山與地」兩句的詮釋之後。「當念捨憍慢」五字，《大正藏》與《趙城金藏》作「是故捨憍慢」，依《磧砂藏》與「宋、元、明藏」校改。
+
+                PS: CBETA:  1. 放逸乃至明慧四十字作五言偈 【宋】【元】【明】
+
+                2. 【大】 是故 ； 【宋】 當念 ； 【元】 當念 ； 【明】 當念
+
+                3. 【大】 明慧 ； 【宋】 明慧放逸如自禁能却之為賢者 ； 【元】 明慧放逸如自禁能却之為賢者 ； 【明】 明慧放逸如自禁能却之為賢者 
+
+.. [TSFn02-13] 〔古漢譯註02-13〕　《法句經》，卷下，〈31 象喻品〉；(T04n0210_p0570c13(00), CBETA, T04, no. 210, p. 570, b10-c14)，偈頌 17；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年12月3日 星期二 `〈31 象喻品〉 <http://yifert210.blogspot.tw/2013/12/31.html>`__ ，偈頌 17 [TSFn02-13-1]_
+
+                .. [TSFn02-13-1] 　「不自放逸」，《大正藏》與《趙城金藏》作「不自放恣」，宋、元、明藏與《磧砂藏》作「不自放逸」。
+
+                PS: CBETA: 1. 【大】 恣 ； 【宋】 逸 ； 【元】 逸 ； 【明】 逸
+
+                2. 【大】 寤 ； 【宋】 悟 ； 【元】 悟 ； 【明】 悟
+
+.. NandFn02-03 〔Nanda 校註02-03〕 另參考：                  | 10. 睡眠重若山，癡冥為所蔽，安臥不計苦，是以常受胎。 [TSFn02-04-1]_                  | 11. 不為時自恣，能制漏得盡，自恣魔得便，如師子搏鹿。                  | 12. 能不自恣者，是為戒比丘，彼思正淨者，常當自護心。 [TSFn02-05-1]_                  |                   | 及象喻品法句經第三十一十有八章 T04n0210_p0570c13：                  |                   | 不自放恣　從是多寤                  | 羸馬比良　棄惡爲賢
+.. TSFn02-04-1 〔《法句經》校勘與標點註02-04〕　「癡冥為所蔽」，《大正藏》與《趙城金藏》作「癡冥為所弊」。元、明版藏經與《磧砂藏》作「癡冥為所蔽」。
+.. TSFn02-05-1] 〔《法句經》校勘與標點註02-05〕　「彼思正淨者」，元、明版藏經與《磧砂藏》作「彼思正靜者」，《大正藏》與《趙城金藏》作「彼思正淨者」。
+
+.. [TSFn02-14] 〔古漢譯註02-14〕　《法集要頌經》，卷第二〈馬喻品第十九〉；(T04n0213_p0786c11(00)；參照 `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.tw/>`__ 之 2013年12月13日 星期五 `卷2〈19 馬喻品〉16頌(CBETA, T04, no. 213, p. 786, c3-p. 787, a7) <http://yifertw213.blogspot.tw/2013/12/19-16.html>`__ ，偈頌 4 
+
+.. old: 引用了「不可靠」的《趙城金藏》-- [TSFn02-14-1]  「不自在放恣」，《大正藏》與《大正藏》作「不恣在放恣」，此處依《法句經》校改：《法句經》卷2〈31 象喻品〉：「不自放恣，從是多寤，羸馬比良，棄惡為賢。」(CBETA, T04, no. 210, p. 570, c13-14)。
+
+.. [TSFn02-15] 〔古漢譯註02-15〕　《法句經》，卷上，〈10 放逸品〉；(T04n0210_p0562c17(00), CBETA, T04, no. 210, p. 562, b19-c29)，偈頌 13；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月29日 星期五 `〈10 放逸品〉 <http://yifert210.blogspot.tw/2013/11/10.html>`__ ，偈頌 13 [TSFn02-15-1]_　
+
+                .. [TSFn02-15-1] 　「積惡入火焚」，《大正藏》作「積惡入火焰」。宋、元、明版藏經、《聖語藏》、《趙城金藏》與《磧砂藏》作「積惡入火焚」。《出曜經》卷7〈5 放逸品〉：「比丘謹慎樂，放逸多憂愆，變諍小致大，積惡入火焚。」(CBETA, T04, no. 212, p. 647, b2-3)。
+
+                PS: CBETA: 1. 【大】 積 ； 【聖】 債 
+
+                2. 【大】 焰 ； 【宋】 焚 ； 【元】 焚 ； 【明】 焚 ； 【聖】 焚 
+
+.. [TSFn02-16] 〔古漢譯註02-16〕　CBETA: 【大】 戀 ； 【宋】 變 ； 【元】 變 ； 【明】 變 
+
+.. [TSFn02-17] 〔古漢譯註02-17〕　《法句經》，卷上，〈10 放逸品〉；(T04n0210_p0562c19(00), CBETA, T04, no. 210, p. 562, b19-c29)，偈頌 14；參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ 之 2013年11月29日 星期五 `〈10 放逸品〉 <http://yifert210.blogspot.tw/2013/11/10.html>`__ ，偈頌 14 [TSFn02-17-1]_　
+
+                .. [TSFn02-17-1] 　「守戒福致喜」，《大正藏》、《趙城金藏》作「守戒福致善」。《磧砂藏》作「守戒福致喜。」
+
+                PS: CBETA: 【大】 善 ； 【元】 喜 ； 【明】 喜 
+
+.. [TSFn02-18] 〔古漢譯註02-18〕　`《法句譬喻經》，卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__，放逸品第十，T04n0211_p0584a24(00)
+
+
+.. [NāradaFn02-01]  (Ven. Nārada 02-01) Appamàda, literally, means non-infatuation i.e., ever-present mindfulness, watchfulness or earnestness in doing good. The ethical essence of Buddhism may be summed up by this word - appamàda. The last words of the Buddha were - appamàdena sampàdetha - strive on with diligence.
+
+.. [NāradaFn02-02]  (Ven. Nārada 02-02) Amata - Nibbàna, the ultimate goal of Buddhists. As this positive term clearly indicates, Nibbàna is not annihilation or a state of nothingness as some are apt to believe. It is the permanent, immortal, supramundane state which cannot be expressed by mundane terms.
+
+.. [NāradaFn02-03]  (Ven. Nārada 02-03) This should not be understood to mean that they are immortal. No being is immortal, not even Buddhas or Arahants. The idea implied herein is that the heedful, who realize Nibbàna are not reborn, and so do not die. The heedless are regarded as dead because they are not intent on doing good, and are subject to repeated births and deaths.
+
+.. [NāradaFn02-04]  (Ven. Nārada 02-04) Knowing well that there is emancipation for the heedful, but not for the heedless.
+
+.. [NāradaFn02-05]  (Ven. Nārada 02-05) Here Ariyas mean the pure ones like the Buddhas and Arahants. The realm of the Ariyas means the thirty-seven factors of Enlightenment (Bodhipakkhiyadhamma) and the nine supramundane states. See notes on v.44 and v.115.
+
+.. [NāradaFn02-06]  (Ven. Nārada 02-06) Here meditation includes both concentration (samatha) and contemplation or insight (vipassanà).
+
+.. [NāradaFn02-07]  (Ven. Nārada 02-07) Yogakkhema - free from the four bonds of sense-desires (kàma), craving for existence (bhava), false views (diññhi), and ignorance (avijjà).
+
+.. [NāradaFn02-08]  (Ven. Nārada 02-08) Nibbàna = ni + vàna, lit., departure from craving. It is a supramundane state that can be attained in this life itself. It is also explained as extinction of passions, but not a state of nothingness. It is an eternal blissful state of relief that results from the complete eradication of the passions.
+
+                    Metaphysically Nibbàna is the extinction of suffering; psychologically it is the elimination of egoism; ethically it is the eradication of lust, hatred and ignorance.
+
+.. [NāradaFn02-09]  (Ven. Nārada 02-09) An island situated on a higher level cannot be flooded although the surrounding low-lying land may be inundated. Such an island becomes a refuge to all. In the same way the wise man who develops insight should make an island of himself by attaining Arahantship so that he may not be drowned by the four floods of sense-desires (kàma) false beliefs (ditthi), craving for existence (bhava) and ignorance (avijjà).
+
+.. [NāradaFn02-10]  (Ven. Nārada 02-10) The sorrowless Arahants look compassionately with their Divine Eye upon the ignorant folk, who, being subject to repeated births, are not free from sorrow.
+
+.. [NāradaFn02-11]  (Ven. Nārada 02-11) Maghavà is synonymous with Sakka, king of the gods. The Maghamànavaka Jataka relates that in the remote past a public-spirited person who had spent his whole lifetime in welfare work with the cooperation of his friends, was born as Sakka as the result of his good actions.
+
+.. [NāradaFn02-12]  (Ven. Nārada 02-12) Devas. lit., sporting or shining ones, are a class of beings with subtle physical bodies invisible to the naked eye. They live in the celestial planes. There are also earth-bound deities.
+
+.. [NāradaFn02-13]  (Ven. Nārada 02-13) A fully ordained disciple of the Buddha is called a Bhikkhu. "Mendicant monk" may be suggested as the closest equivalent for "Bhikkhu". He is not a priest as he is no mediator between God and man. He has no vows for life but he is bound by his rules which he takes of his own accord. He leads a life of voluntary poverty and celibacy. If he is unable to live the Holy Life, he can discard the robe at any time.
+
+.. [NāradaFn02-14]  (Ven. Nārada 02-14) Sa§yojana - lit., that which yokes beings to the ocean of life. There are ten kinds of fetters- namely: self-illusion (sakkàyadiññhi), doubts (vicikicchà), indulgence in (wrongful) rites and ceremonies (sãlabbataparàmàsa), sense-desires (kàmaràga), hatred (pañigha), attachment to the Realms of Form (råparàga), attachment to the Formless Realms (aråparàga), conceit (màna), restlessness (uddhacca) and ignorance (avijjà).
+
+                    The first five, pertaining to This Shore (orambhàgiya) are regarded as small, the rest, pertaining to the Further Shore (uddhambhàgiya) as great.
+
+                    The first three are eradicated on attaining the first Stage of Sainthood (Sotàpatti).
+
+                    The second two are attenuated on attaining the second stage of Sainthood (Sakadàgàmi).
+
+                    The second two are destroyed on attaining the third stage of Sainthood (Anàgàmi).
+
+                    The last five are eradicated on attaining the fourth stage of Sainthood (Arahatta).
+                    
+.. [NāradaFn02-15]  (Ven. Nārada 02-15) From his spiritual heights which he has attained.
+
+.. [BudRkFn02-01]  (Ven. Buddharakkhita 02-01) (v. 21) *The Deathless (amata)*: Nibbana, so called because those who attain it are free from the cycle of repeated birth and death.
+
+.. [BudRkFn02-02]  (Ven. Buddharakkhita 02-02) (v. 22) *The Noble Ones (ariya)*: those who have reached any of the four stages of supramundane attainment leading irreversibly to Nibbana.
+
+.. [BudRkFn02-03]  *Indra*: the ruler of the gods in ancient Indian mythology.
+
+.. [ThaniSFn-V21] (Ven. Thanissaro V. 21) The Deathless = Unbinding (nibbana/nirvana), which gives release from the cycle of death and rebirth.
+
+.. [ThaniSFn-V22] (Ven. Thanissaro V. 22) "The range of the noble ones": Any of the four stages of Awakening, as well as the total Unbinding to which they lead. The four stages are: (1) stream-entry, at which one abandons the first three mental fetters tying one to the round of rebirth: self-identity views, uncertainty, and grasping at habits and practices; (2) once-returning, at which passion, aversion, and delusion are further weakened; (3) non-returning, at which sensual passion and irritation are abandoned; and (4) arahantship, at which the final five fetters are abandoned: passion for form, passion for formless phenomena, conceit, restlessness, and ignorance. For other references to the "range of the noble ones," see `92-93 <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.07.than.html#dhp-92>`_ and `179-180 <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.than.html#dhp-179>`_.
+
+.. [ThaniSFn-V23] (Ven. Thanissaro V. 23) `AN 4.10 <http://www.accesstoinsight.org/tipitaka/an/an04/an04.010.than.html>`_ lists four yokes: the yoke of sensuality, the yoke of becoming, the yoke of views, and the yoke of ignorance. To gain rest from the first three yokes, one must discern, as it actually is present, the origination, the passing away, the allure, the drawbacks, and the escape from that yoke. One will then not be obsessed with passion, delight, attraction, infatuation, thirst, fever, fascination, craving with regard to that yoke. To gain rest from the yoke of ignorance, one must discern, as it actually is present, the origination, the passing away, the allure, the drawbacks, and the escape from the six sense media. One will then not be obsessed with not-knowing.
+
+----------------------------
+
+- `法句經首頁  <{filename}../dhp%zh.rst>`__
+
+- `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
