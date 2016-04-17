@@ -83,13 +83,12 @@
 
 - UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
-  Read `on line <http://nanda.online-dhamma.net/lib/authors/munindo/Unexpected_Freeodm/English/index.htm>`__
-  or `PDF <http://nanda.online-dhamma.net/lib/authors/munindo/Unexpected_Freeodm/English/Unexpected_Freedom_2009.pdf>`__ (full text);
+  Read `on line <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/en/index.htm>`__
+  or `PDF <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/en/Unexpected_Freedom_2009.pdf>`__ (full text);
   These pages are copied on this server by courtesy of
-  `Ven. MUNINDO <http://www.ratanagiri.org.uk/index.php?option=com_content&view=article&id=51&Itemid=56>`_
-  (`Origianal Webpages <http://aruno.org/index.php?option=com_content&task=view&id=212&Itemid=51>`__) (linking updated 09.25 '11);
+  `Ven. MUNINDO <https://ratanagiri.org.uk/about/residents>`_
 
-  漢譯： `【意想不到的自由】 <http://nanda.online-dhamma.net/lib/authors/munindo/Unexpected_Freeodm/Han/index-han.html>`_
+  漢譯： `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_
   -- 阿姜 穆寧多[穆寧多(牟尼度) 法師]演講輯 (02.06 '08)
 
 ----
