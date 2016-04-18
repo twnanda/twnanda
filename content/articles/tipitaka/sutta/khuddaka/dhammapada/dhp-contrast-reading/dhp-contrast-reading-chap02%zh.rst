@@ -2,7 +2,7 @@
 ===================================================================================================
 
 :date: 2016-02-11 11:30
-:modified: 2016-04-11 22:30
+:modified: 2016-04-18 15:15
 :tags: 法句經對讀, Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, 2. Appamādavaggo (Dhp.21-32) 不放逸品, Heedfulness
 :category: 巴利三藏小部
 :summary: 法句經對讀, Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 2. Appamādavaggo (Dhp.21-32), 二、不放逸品, Heedfulness
@@ -841,7 +841,7 @@
 
 .. [MettFn02-06] 〔明法尊者註02-06〕　有一天，名醫耆婆(Jīvako)邀請佛陀和眾多比丘到他家接受供養，但是周利槃特(Cūḷapanthako)除外。周利槃特十分沮喪。佛陀明白他的心意後，就給他一塊布，要他一邊搓揉布塊，一邊複誦「去除污垢，去除污垢。」(‘rajoharaṇaṁ rajoharaṇan’ti)佛陀離開後，周利槃特努力搓揉布塊，並複誦「去除污垢」，不久，布變髒了，這時候他了解到無常。佛陀就以神通力出現在他的面前，說：「不只是布因污垢而變髒，人心也有污垢，去除污垢，才能證果。」他繼續用功，不久就證得阿羅漢果。
 
-                  PS: 請參 `025 典故 <{filename}dhp-story025%zh.rst>`__ ；或 `法句經故事集 </extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～三、愚笨的周利槃特證得聖果 (偈 025)。
+                  PS: 請參 `025 典故 <{filename}../dhp-story/dhp-story025%zh.rst>`__ ；或 `法句經故事集 </extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～三、愚笨的周利槃特證得聖果 (偈 025)。
 
 .. [MettFn02-07] 〔明法尊者註02-07〕　舍衛城某次慶典時，一群年輕人惹事生非。佛陀說︰「諸愚者、無慧者會作騷擾事；有慧者像有價之財，護衛不放逸，圓滿證得不死的大涅槃。」
 
