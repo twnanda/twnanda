@@ -98,7 +98,7 @@
 
 ------------------------------------------
 
-- `法句經研究 < <{filename}dhp-reseach/dhp-reseach%zh.rst>`_
+- `法句經研究 <{filename}dhp-reseach/dhp-reseach%zh.rst>`_
 
 ------------------------------------------
 
