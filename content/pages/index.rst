@@ -76,7 +76,7 @@
 
 - 文章選讀
 
-  * 當代南傳佛教大師(LIVING BUDDHIST MASTERS)
+  * `當代南傳佛教大師(LIVING BUDDHIST MASTERS) <{filename}/extra/authors/jack-kornfield/living-buddhist-masters/Theravadian-Masters.htm>`_
   * `UNEXPECTED FREEDOM <{filename}/articles/uncategorized/paper-selected%zh.rst#unexpected-freedom>`_
     ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_])
 
