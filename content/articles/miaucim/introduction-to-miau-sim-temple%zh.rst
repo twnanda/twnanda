@@ -15,7 +15,7 @@
 
   `妙心全球資訊網 <http://www.mst.org.tw/>`_
 
-- 妙心雜誌。{No.70[91('02)/07)]!}
+- `妙心雜誌。 <{filename}miau-sim-magazine%zh.rst%zh.rst>`_ {No.70[91('02)/07)]!}
 - `八大人覺經。 <{filename}8buddhap%zh.rst>`_
 - 上傳下道法師演講:菩薩的精神。
 - `妙心寺位置 <https://www.google.com.tw/maps/place/%E5%B0%8F%E4%B8%9C%E5%B1%B1%E5%A6%99%E5%BF%83%E5%AF%BA/@22.9935964,120.2376094,14z/>`_
