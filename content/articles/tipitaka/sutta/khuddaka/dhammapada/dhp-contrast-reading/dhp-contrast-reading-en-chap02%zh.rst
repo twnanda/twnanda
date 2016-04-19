@@ -2,7 +2,7 @@ Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhamma
 ###############################################################################################################################################
 
 :date: 2016-04-12 11:50
-:modified: 2016-04-17 20:30
+:modified: 2016-04-19 15:00
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma, Heedfulness 
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.), Chapter 2. Heedfulness
@@ -612,4 +612,4 @@ NOTE：
 
 --------------
 
-- `Homepage of Dhammapada <{filename}../dhp-en-ref%zh.rst>`__
+- `Homepage of Dhammapada <{filename}../dhp-reseach/dhp-en-ref%zh.rst>`__

@@ -2,7 +2,7 @@
 ===============
 
 :date: 2016-04-17 21:30
-:modified: 2016-04-17 21:30
+:modified: 2016-04-19 14:50
 :tags: 法句經研究, 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經研究
@@ -43,7 +43,7 @@
 
 - `法句經研究 <{filename}dhp-reseach%zh.rst>`__
 
-- 參考 `法句經英文資料 <{filename}../dhp-en-ref%zh.rst>`__
+- 參考 `法句經英文資料 <{filename}dhp-en-ref%zh.rst>`__
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

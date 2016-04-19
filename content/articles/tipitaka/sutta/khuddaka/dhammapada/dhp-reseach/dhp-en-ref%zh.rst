@@ -2,7 +2,7 @@ Dhammapada, The Buddha's Path of Wisdom
 ========================================
 
 :date: 2016-03-03 21:30
-:modified: 2016-04-17 21:30
+:modified: 2016-04-19 14:50
 :tags: Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine, DHP, Dhp.
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya 
 :summary: Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine
@@ -51,7 +51,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
   * `Multilingual edition of Dhammapada <https://www2.hf.uio.no/polyglotta/index.php?page=volume&vid=80>`_ in the Bibliotheca Polyglotta (Gāndhārī, Pāḷi, English, The Buddhist Hybrid Sanskrit, Chinese)
 
-  * **Ven. Acharya Buddharakkhita**, **Ven. Thanissaro Bhikkhu** etc. ( `this site <{filename}dhp-contrast-reading/dhp-contrast-reading-en%zh.rst>`_ )
+  * **Ven. Acharya Buddharakkhita**, **Ven. Thanissaro Bhikkhu** etc. ( `this site <{filename}../dhp-contrast-reading/dhp-contrast-reading-en%zh.rst>`_ )
 
 -----------------------------------------
 
@@ -99,7 +99,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 --------------
 
-refer to `Chinese reference <{filename}dhp%zh.rst>`_
+refer to `Chinese reference <{filename}../dhp%zh.rst>`_
 
 ----------------------------------------------------
 

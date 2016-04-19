@@ -2,7 +2,7 @@
 ===================================================================================================
 
 :date: 2016-02-11 11:30
-:modified: 2016-04-18 15:15
+:modified: 2016-04-19 14:50
 :tags: 法句經對讀, Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, 2. Appamādavaggo (Dhp.21-32) 不放逸品, Heedfulness
 :category: 巴利三藏小部
 :summary: 法句經對讀, Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 2. Appamādavaggo (Dhp.21-32), 二、不放逸品, Heedfulness
@@ -124,7 +124,7 @@
         21 Earnestness is the path of immortality (Nirvana), thoughtlessness the path of death. Those who are in earnest do not die, those who are thoughtless are as if dead already. 
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 021 <{filename}dhA-chap02%zh.rst#dhp021>`__
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 021 <{filename}../dhA/dhA-chap02%zh.rst#dhp021>`__
 
 .. _Dhp022:
 
@@ -174,7 +174,7 @@
      - 22 Those who are advanced in earnestness, having understood this clearly, delight in earnestness, and rejoice in the knowledge of the Ariyas (the elect).
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 022 <{filename}dhA-chap02%zh.rst#dhp022>`__
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 022 <{filename}../dhA/dhA-chap02%zh.rst#dhp022>`__
 
 .. _Dhp023:
 
@@ -227,7 +227,7 @@
      - 23 These wise people, meditative, steady, always possessed of strong powers, attain to Nirvana, the highest happiness.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 023 <{filename}dhA-chap02%zh.rst#dhp023>`__
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 023 <{filename}../dhA/dhA-chap02%zh.rst#dhp023>`__
 
 .. _Dhp024:
 
@@ -290,7 +290,7 @@
      - 24 If an earnest person has roused himself, if he is not forgetful, if his deeds are pure, if he acts with consideration, if he restrains himself, and lives according to law,--then his glory will increase.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 024 <{filename}dhA-chap02%zh.rst#dhp024>`__
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 024 <{filename}../dhA/dhA-chap02%zh.rst#dhp024>`__
 
 .. _Dhp025:
 
@@ -348,7 +348,7 @@
      - 25 By rousing himself, by earnestness, by restraint and control, the wise man may make for himself an island which no flood can overwhelm.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 025 <{filename}dhA-chap02%zh.rst#dhp025>`__
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 025 <{filename}../dhA/dhA-chap02%zh.rst#dhp025>`__
 
 .. _Dhp026:
 
@@ -403,7 +403,7 @@
      - 26 Fools follow after vanity, men of evil wisdom. The wise man keeps earnestness as his best jewel.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 026 <{filename}dhA-chap02%zh.rst#dhp026>`__
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 026 <{filename}../dhA/dhA-chap02%zh.rst#dhp026>`__
 
 .. _Dhp027:
 
@@ -458,7 +458,7 @@
      - 27 Follow not after vanity, nor after the enjoyment of love and lust! He who is earnest and meditative, obtains ample joy.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 027 <{filename}dhA-chap02%zh.rst#dhp027>`__
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 027 <{filename}../dhA/dhA-chap02%zh.rst#dhp027>`__
 
 .. _Dhp028:
 
@@ -522,7 +522,7 @@
      - 28 When the learned man drives away vanity by earnestness, he, the wise, climbing the terraced heights of wisdom, looks down upon the fools, serene he looks upon the toiling crowd, as one that stands on a mountain looks down upon them that stand upon the plain.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 028 <{filename}dhA-chap02%zh.rst#dhp028>`__
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 028 <{filename}../dhA/dhA-chap02%zh.rst#dhp028>`__
 
 .. _Dhp029:
 
@@ -581,7 +581,7 @@
      - 29 Earnest among the thoughtless, awake among the sleepers, the wise man advances like a racer, leaving behind the hack.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 029 <{filename}dhA-chap02%zh.rst#dhp029>`__
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 029 <{filename}../dhA/dhA-chap02%zh.rst#dhp029>`__
 
 .. _Dhp030:
 
@@ -634,7 +634,7 @@
      - 30 By earnestness did Maghavan (Indra) rise to the lordship of the gods. People praise earnestness; thoughtlessness is always blamed.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 030 <{filename}dhA-chap02%zh.rst#dhp030>`__
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 030 <{filename}../dhA/dhA-chap02%zh.rst#dhp030>`__
 
 .. _Dhp031:
 
@@ -703,7 +703,7 @@
      - 31 A Bhikshu (mendicant) who delights in earnestness, who looks with fear on thoughtlessness, moves about like fire, burning all his fetters, small or large.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 031 <{filename}dhA-chap02%zh.rst#dhp031>`__
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 031 <{filename}../dhA/dhA-chap02%zh.rst#dhp031>`__
 
 .. _Dhp032:
 
@@ -765,7 +765,7 @@
      - 32 A Bhikshu (mendicant) who delights in reflection, who looks with fear on thoughtlessness, cannot fall away (from his perfect state)--he is close upon Nirvana.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 032 <{filename}dhA-chap02%zh.rst#dhp032>`__
+     - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 032 <{filename}../dhA/dhA-chap02%zh.rst#dhp032>`__
 
 --------------
 
@@ -775,7 +775,7 @@
 
 .. [2] 〔註002〕　 `巴利原典 (CSCD) Dhammapadapāḷi 乃參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版原始出處(original)請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Khuddakanikāya → Dhammapadapāḷi → `1. Yamakavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul0.xml>`__ (2. `Appamādavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul1.xml>`__ , 3. `Cittavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul2.xml>`__ , etc..)。]
 
-.. [3] 〔註003〕　本譯文請參考： `文言文版 <{filename}dhp-Ven-L-C%zh.rst>`__ ( **了參 法師** 譯，台北市：圓明出版社，1991。) 另參： 
+.. [3] 〔註003〕　本譯文請參考： `文言文版 <{filename}../dhp-Ven-L-C/dhp-Ven-L-C%zh.rst>`__ ( **了參 法師** 譯，台北市：圓明出版社，1991。) 另參： 
 
        一、 Dhammapada 法句經(中英對照) -- English translated by **Ven. Ācharya Buddharakkhita** ; Chinese translated by Yeh chun(葉均); Chinese commented by **Ven. Bhikkhu Metta(明法比丘)** 〔 **Ven. Ācharya Buddharakkhita** ( **佛護 尊者** ) 英譯; **了參 法師(葉均)** 譯; **明法比丘** 註（增加許多濃縮的故事）〕： `PDF </extra/pdf/ec-dhp.pdf>`__ 、 `DOC </extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) </extra/doc/ec-dhp-f1.doc>`__ 。
 
