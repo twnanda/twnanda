@@ -2,7 +2,7 @@ Dhammapada, The Buddha's Path of Wisdom
 ========================================
 
 :date: 2016-03-03 21:30
-:modified: 2016-04-19 14:50
+:modified: 2016-04-21 21:50
 :tags: Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine, DHP, Dhp.
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya 
 :summary: Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine
@@ -15,7 +15,7 @@ Dhammapada, The Buddha's Path of Wisdom
 
 ---------------------------
 
-Namo tassa bhagavato arahato sammāsambuddhassa
+**Namo tassa bhagavato arahato sammāsambuddhassa**
 
 ---------------------------
 
@@ -55,9 +55,13 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 -----------------------------------------
 
-- `A Comparative Edition of the Dhammapada <http://www.ancient-buddhist-texts.net/Buddhist-Texts/C3-Comparative-Dhammapada/>`__ (`academia.edu <https://www.academia.edu/22666481/Parallels_to_the_P%C4%81li_Dhammapada_Verses/>`__ ), with parallels from Sanskritised Prakrit edited together with A Study of the Dhammapada Collection, by **Ven. Ānandajoti Bhikkhu** (2nd revised edition July, 2007 - 2551); and also `Patna Dharmapada <http://www.ancient-buddhist-texts.net/Buddhist-Texts/C5-Patna/>`_ , `Udānavarga <http://www.ancient-buddhist-texts.net/Buddhist-Texts/S1-Udanavarga/index.htm>`_ (from `Original Texts and Studies-- Canonical Works <http://www.ancient-buddhist-texts.net/Buddhist-Texts/BT-index.htm>`_ )
+- `A Comparative Edition of the Dhammapada <http://www.ancient-buddhist-texts.net/Buddhist-Texts/C3-Comparative-Dhammapada/>`__ (`academia.edu <https://www.academia.edu/22666481/Parallels_to_the_P%C4%81li_Dhammapada_Verses/>`__ ), with parallels from Sanskritised Prakrit (Buddhist Publication Society, Kandy, Sri Lanka.) edited together with A Study of the Dhammapada Collection, by **Ven. Ānandajoti Bhikkhu** (2nd revised edition July, 2007 - 2551)
 
-- `The Dhammapada <http://www.ancient-buddhist-texts.net/Buddhist-Texts/K2-Dhammapada-New/index.htm>`__ -- A New Edition, edited by **Ven. Ānandajoti Bhikkhu** (version 2.2, September 2007)
+- `Patna Dharmapada <http://www.ancient-buddhist-texts.net/Buddhist-Texts/C5-Patna/>`_ 
+
+- `Udānavarga <http://www.ancient-buddhist-texts.net/Buddhist-Texts/S1-Udanavarga/index.htm>`_ (from `Original Texts and Studies-- Canonical Works <http://www.ancient-buddhist-texts.net/Buddhist-Texts/BT-index.htm>`_ )
+
+- `The Dhammapada <http://www.ancient-buddhist-texts.net/Buddhist-Texts/K2-Dhammapada-New/index.htm>`__ -- A New Edition (Buddhist Publication Society, Kandy, Sri Lanka.) edited by **Ven. Ānandajoti Bhikkhu** (version 2.2, September 2007)
 
 - `Parallels to the Dhammapada Verses <http://www.ancient-buddhist-texts.net/Buddhist-Texts/K2-Dhammapada-Parallels/>`__ , collated and studied by ** Ven. Ānandajoti Bhikkhu** (1.2 February 2016)
 
@@ -69,21 +73,39 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
   Including explanation of grammar ( `Digital Library & Museum of Buddhist Studies <http://buddhism.lib.ntu.edu.tw/>`_ )
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Andersen, Dines, A Pāli Glossary Vol. 2, ( `A Pāli Glossary --- Pāli reader and of the Dharmapada <http://static.sirimangalo.org/pdf/andersen2.pdf>`_ , vol. II, PDF), (Delhi 1979, first published 1901), Award publishing House, New Delhi, India.
+
+- Agostini, Giulio, (2010), ‘“ `Preceded by thought are the Dhammas <https://www.academia.edu/4084875/Preceded_by_Thought_Are_the_Dhammas_The_Ancient_Exegesis_on_Dhp_1-2>`_ ”—The Ancient Exegesis on Dhammapada 1-2’, Buddhist Asia 2(Papers from the second conference of Buddhist Studies held in Naples Jun 2004), pp. 1-34, Ed. Giacomella Orofino and Silvio Vita, Italian School of East Asia Studies, Kyoto, Japan.
+ 
+- Bernhard, F., Udānavarga, (1965), (Sanskrit texte aus den Turfanfunden X, Abhandlungen der Akademie der Wissenschaften in Göttingen, Philologisch-historische Klasse, Dritte Folge, Nr. 54), Vandenhoeck & Ruprecht, vol. 1, Göttingen, Germany.  `Link A <http://www2.hf.uio.no/polyglotta/index.php?page=volume&vid=71>`__  ;  `Link B-- academia.edu <https://www.academia.edu/23015506/Ud%C4%81navarga>`__
+
+- Brough, John, (1962, 2001), The Gāndhārī Dharmapada, Motilal Banarsidass Publishers Private Limited, Delhi, India.
+
+- Cone, M. (1989), `“Patna Dharmapada” <https://www.academia.edu/22323867/Patna_Dharmapada>`__ , Journal of the Pali Text Society, vol. 13, pp. 101-217.
+
 - Ven. Dhammajoti, K. L., Bhikkhu, (1995), The Chinese Version of Dharmapada, Translated with Introduction and Annotation, University of Kelaniya, Sri Lanka.
 
-- Willemen, Charles. (1978), The Chinese Udānavarga: A Collection of Important Odes of the Law Fa Chi Yao Sung Ching. Bruxelles: Institut Belge des Hautes Etudes Chinoises
+- Falk, `Harry <https://www.academia.edu/11754140/A_new_G%C4%81ndh%C4%81r%C4%AB_Dharmapada>`__ , (2015), `A New Gāndhārī Dharmapada <https://www.academia.edu/11754140/A_new_G%C4%81ndh%C4%81r%C4%AB_Dharmapada>`_ (Texts from the Split Collection 3),  Annual Report of the International Research Institute for Advanced Buddhology at Soka University for the Academic Year 2015, pp. 23-62. The International Research Institute of Advanced Buddhology at Soka University, Tokyo, Japan.
 
-- Udānavarga, Bernhard (1965):
+- Lenz, Timothy, Glass, Andrew, Bhikshu Dharmamitra, (2003), A New Version of the Gāndhārī Dharmapada and a Collection of Previous-Birth Stories, British Library Kharoṣṭhī Fragments, University of Washington Press, Seattle, USA and London, UK. 
 
-  - `Link A <http://www2.hf.uio.no/polyglotta/index.php?page=volume&vid=71>`__
+- Norman, K. R., (1995), The Group Discourses II, PTS, Oxford, UK.
 
-  - `Link B-- academia.edu <https://www.academia.edu/23015506/Ud%C4%81navarga>`__
+- Norman, K. R., (1997), ‘Does Māra Have Flower-tipped Arrows?’, in Paul Harrison and Gregory Scopen, eds., Sūryacandrā: Essays in Honour of Akira Yuyama On the Occasion of His 65th Birthday ( Indica et Tibetica 35), Swisttal-Odendorf: Indica et Tibetica Verlag, pp. 135-142.
+
+- Sen, Tansen, (2002), ‘The Revival and Failure of Buddhist Translations during the Song Dynasty’, T’oung Pao, issues 88, pp.27-80, Leiden, Netherlands.
+
+- Willemen, Charles. (1978), The Chinese Udānavarga: A Collection of Important Odes of the Law Fa Chi Yao Sung Ching. Bruxelles: Institut Belge des Hautes Etudes Chinoises. 2013. 329 pp.
+
+- Willemen, Charles. (2013), A Collection of Important Odes of the Law. The Chinese Udanavarga Fa ji yao song jing T.213, Berkeley:Institute of Buddhist Studies and BDK, USA.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - `Gandhari Dharmapada <https://gandhari.org/a_document.php?catid=CKD0510>`__
 
-- `Patna Dharmapada <https://www.academia.edu/22323867/Patna_Dharmapada>`__
-
-`Devasanti's Blog <http://yathasukha.blogspot.tw/>`__
+- `Devasanti's Blog <http://yathasukha.blogspot.tw/>`__
 
 - `A Dictionary of Gāndhārī <https://gandhari.org/n_dictionary.php>`__ Baums, Stefan, and Glass, Andrew, (2014) 
 

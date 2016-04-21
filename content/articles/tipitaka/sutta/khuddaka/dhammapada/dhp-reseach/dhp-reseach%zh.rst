@@ -2,7 +2,7 @@
 ===========
 
 :date: 2016-04-17 21:30
-:modified: 2016-04-21 17:50
+:modified: 2016-04-21 20:50
 :tags: 法句經研究, 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經研究
@@ -97,51 +97,37 @@
 
   * 《優陀那品》(Udānavarga)，Bernhard (1965)。「梵文法句經」之一： `鏈結一 <http://www2.hf.uio.no/polyglotta/index.php?page=volume&vid=71>`__ ； `鏈結二 <https://www.academia.edu/23015506/Ud%C4%81navarga>`__
 
-  * 蘇錦坤，(2014a)， `〈《法句經》的「四言偈頌」與「五言偈頌」〉 <http://yifertw.blogspot.tw/2014/06/blog-post_13.html>`_ ，《福嚴佛學研究》9期，23-48頁，新竹市，台灣。 [19]_
+--------------------------
 
-  * 蘇錦坤，(2014b)， `〈〈法句序〉與《法句經》重譯偈頌〉 <http://yifertw.blogspot.tw/2014/10/blog-post_6.html>`_ ，《正觀雜誌》70期，77-132頁，南投縣，台灣。 [20]_
+- 蘇錦坤，(2014a)， `〈《法句經》的「四言偈頌」與「五言偈頌」〉 <http://yifertw.blogspot.tw/2014/06/blog-post_13.html>`_ ，《福嚴佛學研究》9期，23-48頁，新竹市，台灣。 [19]_
 
-  * 蘇錦坤，(2015a)， `〈《法句經》「三言」偈頌的標點與詮釋〉 <http://yifertw.blogspot.tw/2015/04/blog-post_42.html>`_ ，《正觀雜誌》72期，39-88頁，南投縣，台灣。 [14]_
+- 蘇錦坤，(2014b)， `〈〈法句序〉與《法句經》重譯偈頌〉 <http://yifertw.blogspot.tw/2014/10/blog-post_6.html>`_ ，《正觀雜誌》70期，77-132頁，南投縣，台灣。 [20]_
 
-  * 蘇錦坤，(2015b)， `〈《出曜經》研究〉 <http://yifertw.blogspot.tw/2015/05/blog-post.html>`_ ，《新加坡佛學研究學刊》2期65-175頁，新加坡佛學院，新加坡。 [15]_
+- 蘇錦坤，(2015a)， `〈《法句經》「三言」偈頌的標點與詮釋〉 <http://yifertw.blogspot.tw/2015/04/blog-post_42.html>`_ ，《正觀雜誌》72期，39-88頁，南投縣，台灣。 [14]_
 
-  * 蘇錦坤，(2015c)，`〈試論「甘肅博物館001號《法句經》寫本」的異讀〉 <http://yifertw.blogspot.tw/2015/06/001.html>`_ ，《福嚴佛學研究》10期，19-39頁，新竹市，台灣。 [16]_
+- 蘇錦坤，(2015b)， `〈《出曜經》研究〉 <http://yifertw.blogspot.tw/2015/05/blog-post.html>`_ ，《新加坡佛學研究學刊》2期65-175頁，新加坡佛學院，新加坡。 [15]_
 
-  * 蘇錦坤，(2015d)， `〈《法句經》的翻譯議題與重譯偈頌〉 <http://yifertw.blogspot.tw/2015/11/blog-post_35.html>`_ ，《吳越佛教》第10輯48-67頁，杭州佛學院，杭州市，中國。[13]_
+- 蘇錦坤，(2015c)，`〈試論「甘肅博物館001號《法句經》寫本」的異讀〉 <http://yifertw.blogspot.tw/2015/06/001.html>`_ ，《福嚴佛學研究》10期，19-39頁，新竹市，台灣。 [16]_
 
-  * 蘇錦坤，(2015e)， `〈《法句經》(T210)的詮釋與翻譯---法光法師《法句經之英譯及研究》評介〉 <https://www.academia.edu/12947299/Book_Review_The_Chinese_Version_of_Dharmapada_Translated_with_Introduction_and_Annotation_%E6%B3%95%E5%85%89%E6%B3%95%E5%B8%AB_%E6%B3%95%E5%8F%A5%E7%B6%93%E4%B9%8B%E8%8B%B1%E8%AD%AF%E5%8F%8A%E7%A0%94%E7%A9%B6_%E8%A9%95%E4%BB%8B>`__ ，(2015e) (academia.edu)
+- 蘇錦坤，(2015d)， `〈《法句經》的翻譯議題與重譯偈頌〉 <http://yifertw.blogspot.tw/2015/11/blog-post_35.html>`_ ，《吳越佛教》第10輯48-67頁，杭州佛學院，杭州市，中國。[13]_
 
-  * 蘇錦坤，(待發表)，〈《法集要頌經》的翻譯議題〉，
+- 蘇錦坤，(2015e)， `〈《法句經》(T210)的詮釋與翻譯---法光法師《法句經之英譯及研究》評介〉 <https://www.academia.edu/12947299/Book_Review_The_Chinese_Version_of_Dharmapada_Translated_with_Introduction_and_Annotation_%E6%B3%95%E5%85%89%E6%B3%95%E5%B8%AB_%E6%B3%95%E5%8F%A5%E7%B6%93%E4%B9%8B%E8%8B%B1%E8%AD%AF%E5%8F%8A%E7%A0%94%E7%A9%B6_%E8%A9%95%E4%BB%8B>`__ ，(2015e) (academia.edu)
 
-  * 蘇錦坤(待發表)，〈T210《法句經》的初譯偈頌與後譯偈頌〉。
+- 蘇錦坤，(待發表)，〈《法集要頌經》的翻譯議題〉，
 
-  * 蘇錦坤(待發表)，〈T210《法句經》的校讀舉例〉
+- 蘇錦坤(待發表)，〈T210《法句經》的初譯偈頌與後譯偈頌〉。
 
-  * 蘇錦坤，〈漢譯佛教文獻的偈頌詮釋與翻譯 --《八犍度論》與《發智論》對勘〉，(待發表)。
+- 蘇錦坤(待發表)，〈T210《法句經》的校讀舉例〉
 
-  * 水野弘元，(1981)，《法句経の研究》，春秋社，東京，日本。昭和56 (1981)
+- 蘇錦坤，〈漢譯佛教文獻的偈頌詮釋與翻譯 --《八犍度論》與《發智論》對勘〉，(待發表)。
+
+- 水野弘元，(1981)，《法句経の研究》，春秋社，東京，日本。昭和56 (1981)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - `犍陀羅語字典 <https://gandhari.org/n_dictionary.php>`__ Baums, Stefan, and Glass, Andrew, (2014), A Dictionary of Gāndhārī.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 - 日譯(和訳)： `《法句經》 <http://www.aozora.gr.jp/cards/001529/files/45958_30545.html>`__；荻原雲來訳註
-
-- `法句經 <http://www.gaya.org.tw/library/b-ip/sutra/dhammapada.htm>`__ (更新日期：96.1.6)-- `香光尼僧團；香光資訊網 <http://www.gaya.org.tw/>`_ [22]_
-
-- `《法句經》諸種漢譯本之比較研究暨《法句經》與《道德經》比較之探討 <http://myweb.ncku.edu.tw/~lsn46/Dharmagupta/thesis/content.htm>`__；(尼泊爾籍) **護法 法師** 碩士論文
-
-- `法句經 <https://zh.wikipedia.org/wiki/%E6%B3%95%E5%8F%A5%E7%B6%93>`__ （`維基百科 <http://zh.wikipedia.org/>`_ [23]_
-
-- `法句經研究書目 <http://www.gaya.org.tw/library/readers/guide-62.htm>`_ (更新日期：96.1.6)-- `香光尼僧團；香光資訊網 <http://www.gaya.org.tw/>`_ [24]_ 
-
-- `從《法句經》中研習佛法（簡介） <http://www.chilin.edu.hk/edu/book_detail.asp?id=83>`_ ，作者： **Ven. Dr. Kakkapalliye Anuruddha** ，2004年 [26]_
-
-- `「出曜經序」 <http://ctext.org/wiki.pl?if=gb&chapter=954320>`_ 。藍吉富主編；梅鼎祚輯。 [33]_ 
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - 《法句経の対照研究》-- 法句経の発展成立史研究，丹生実憲 著，日本印度学会，昭和43（1968）， `大学図書館所蔵，日本館藏地 <http://ci.nii.ac.jp/ncid/BA36414177>`_
 
@@ -185,19 +171,6 @@
 .. [20] 《正觀雜誌》70期， `77-132頁(pdf) <http://www.tt034.org.tw/Download/pdf/70_02.pdf>`_ ，南投縣，台灣。`另一連結 <https://www.academia.edu/17535001/T210_and_Its_Core_26_Chapters_%E6%B3%95%E5%8F%A5%E5%BA%8F_%E8%88%87_%E6%B3%95%E5%8F%A5%E7%B6%93_%E9%87%8D%E8%AD%AF%E5%81%88%E9%A0%8C_2014_in_Chinese_>`__ (academia.edu 網站)。
 
 .. [21] “藏經閣外的掃葉人”網誌----`【台語與佛典】, 探討漢譯四阿含與巴利五部尼柯耶的教導，也介紹古漢譯和台語的關聯 <http://yifertw.blogspot.com/>`_
-
-.. [22] `香光尼僧團；香光資訊網 <http://www.gaya.org.tw/>`_ ／ `圖書館服務 <http://www.gaya.org.tw/library/>`_ ／ `佛教入門網站 <http://www.gaya.org.tw/library/b-ip/b-ip.htm>`_ ／ `佛教經典 <http://www.gaya.org.tw/library/b-ip/sutra/sutra.htm>`_ ／ `法句經 <http://www.gaya.org.tw/library/b-ip/sutra/dhammapada.htm>`__ 
-
-.. [23] `維基百科 <http://zh.wikipedia.org/>`_ ，自由的百科全書）( `Dhammapada <https://en.wikipedia.org/wiki/Dhammapada>`_ , `Wikipedia <http://en.wikipedia.org/>`_ , the free encyclopedia)
-
-.. [24] `香光尼僧團；香光資訊網 <http://www.gaya.org.tw/>`__ ／ `圖書館服務 <http://www.gaya.org.tw/library/>`_ ／ `讀者指引 <http://www.gaya.org.tw/library/readers/index.htm>`_ ／ `利用指引 <http://www.gaya.org.tw/library/readers/guide.htm>`_ ／ `法句經研究書目 <http://www.gaya.org.tw/library/readers/guide-62.htm>`_
-
-.. [26] 從《法句經》中研習佛法 STUDY OF BUDDHISM THROUGH THE DHAMMAPA；從《法句經》中研習佛法 (二)，2005年，香港，志蓮淨苑文化部及夜書院
-
-
-..  [33] 藍吉富主編；梅鼎祚輯。《現代佛學大系. 8：釋文紀》。（初版。台北縣新店市：彌勒，民71-73）。
-
-
 
 .. [36] 佛教研究 5, pp.382~310, 1976年3月
 

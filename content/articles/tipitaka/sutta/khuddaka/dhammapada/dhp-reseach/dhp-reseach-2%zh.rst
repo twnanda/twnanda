@@ -2,7 +2,7 @@
 ===============
 
 :date: 2016-04-17 21:30
-:modified: 2016-04-19 14:50
+:modified: 2016-04-21 20:50
 :tags: 法句經研究, 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經研究
@@ -12,6 +12,18 @@
 `PDF </extra/pdf/dhp-reseach-2.pdf>`__ 
 
 --------------
+
+- `法句經 <http://www.gaya.org.tw/library/b-ip/sutra/dhammapada.htm>`__ (更新日期：96.1.6)-- `香光尼僧團；香光資訊網 <http://www.gaya.org.tw/>`_ [22]_
+
+- `《法句經》諸種漢譯本之比較研究暨《法句經》與《道德經》比較之探討 <http://myweb.ncku.edu.tw/~lsn46/Dharmagupta/thesis/content.htm>`__；(尼泊爾籍) **護法 法師** 碩士論文
+
+- `法句經 <https://zh.wikipedia.org/wiki/%E6%B3%95%E5%8F%A5%E7%B6%93>`__ （`維基百科 <http://zh.wikipedia.org/>`_ [23]_
+
+- `法句經研究書目 <http://www.gaya.org.tw/library/readers/guide-62.htm>`_ (更新日期：96.1.6)-- `香光尼僧團；香光資訊網 <http://www.gaya.org.tw/>`_ [24]_ 
+
+- `從《法句經》中研習佛法（簡介） <http://www.chilin.edu.hk/edu/book_detail.asp?id=83>`_ ，作者： **Ven. Dr. Kakkapalliye Anuruddha** ，2004年 [26]_
+
+- `「出曜經序」 <http://ctext.org/wiki.pl?if=gb&chapter=954320>`_ 。藍吉富主編；梅鼎祚輯。 [33]_ 
 
 - `法句經講要 <http://www.qnfj.org/article/925.html>`_ (簡體)，呂澂 [27]_
 
@@ -47,6 +59,17 @@
 
 備註：
 ------
+
+.. [22] `香光尼僧團；香光資訊網 <http://www.gaya.org.tw/>`_ ／ `圖書館服務 <http://www.gaya.org.tw/library/>`_ ／ `佛教入門網站 <http://www.gaya.org.tw/library/b-ip/b-ip.htm>`_ ／ `佛教經典 <http://www.gaya.org.tw/library/b-ip/sutra/sutra.htm>`_ ／ `法句經 <http://www.gaya.org.tw/library/b-ip/sutra/dhammapada.htm>`__ 
+
+.. [23] `維基百科 <http://zh.wikipedia.org/>`_ ，自由的百科全書）( `Dhammapada <https://en.wikipedia.org/wiki/Dhammapada>`_ , `Wikipedia <http://en.wikipedia.org/>`_ , the free encyclopedia)
+
+.. [24] `香光尼僧團；香光資訊網 <http://www.gaya.org.tw/>`__ ／ `圖書館服務 <http://www.gaya.org.tw/library/>`_ ／ `讀者指引 <http://www.gaya.org.tw/library/readers/index.htm>`_ ／ `利用指引 <http://www.gaya.org.tw/library/readers/guide.htm>`_ ／ `法句經研究書目 <http://www.gaya.org.tw/library/readers/guide-62.htm>`_
+
+.. [26] 從《法句經》中研習佛法 STUDY OF BUDDHISM THROUGH THE DHAMMAPA；從《法句經》中研習佛法 (二)，2005年，香港，志蓮淨苑文化部及夜書院
+
+
+..  [33] 藍吉富主編；梅鼎祚輯。《現代佛學大系. 8：釋文紀》。（初版。台北縣新店市：彌勒，民71-73）。
 
 .. [27] 《大師講解經論上》，臺灣．新北，大千出版社，2012-12-05；《呂澂佛學論著選集》(1-5冊)，【第二冊】三、法句經講要，中國．濟南，齊魯書社，1996.12
 
