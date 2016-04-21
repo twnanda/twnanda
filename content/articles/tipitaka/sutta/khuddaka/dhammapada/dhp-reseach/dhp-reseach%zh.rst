@@ -2,7 +2,7 @@
 ===========
 
 :date: 2016-04-17 21:30
-:modified: 2016-04-19 14:30
+:modified: 2016-04-21 17:50
 :tags: 法句經研究, 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經研究
@@ -13,53 +13,11 @@
 
 --------------
 
+- 研究的基本書單_
+
 - 佛學數位圖書館 → 語言教學 → 巴利語教學 → `3. 經文選讀 (英) <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ → Dhammapada → `Dhammapada 1 <http://buddhism.lib.ntu.edu.tw/lesson/pali/reading/gatha1.htm>`__ ; `Dhammapada 2 <http://buddhism.lib.ntu.edu.tw/lesson/pali/reading/gatha2.htm>`__ ; `Dhammapada 3 <http://buddhism.lib.ntu.edu.tw/lesson/pali/reading/gatha3.htm>`__ ; ..., ..., ... ; `Dhammapada 421 <http://buddhism.lib.ntu.edu.tw/lesson/pali/reading/gatha421.htm>`__ ; `Dhammapada 422 <http://buddhism.lib.ntu.edu.tw/lesson/pali/reading/gatha422.htm>`__ ; `Dhammapada 423 <http://buddhism.lib.ntu.edu.tw/lesson/pali/reading/gatha423.htm>`__
 
-- Dhammajoti, K. L., Bhikkhu 法光, (1995), The Chinese Version of Dharmapada, Translated with Introduction and Annotation 法句經之英譯及研究, University of Kelaniya, Sri Lanka.
-
-- Norman, K. R., (1997c), The Word of the Doctrine (Dhammapada), PTS, London, UK.
-
-- Willemen, Charles. (1978), The Chinese Udānavarga: A Collection of Important Odes of the Law Fa Chi Yao Sung Ching. Bruxelles: Institut Belge des Hautes Etudes Chinoises
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- 巴利《法句經》：
-
-  - `巴利《法句經》 <http://tipitaka.sutta.org/>`__ ，巴漢、巴英對讀
-
-  - `VRI 設立 <http://www.tipitaka.org/romn/>`__ （內觀研究中心）
-
-  - `academia.edu <https://www.academia.edu/22666469/The_Dhammapada_KN_2_A_New_Edition>`__
-
-- 《優陀那品》(Udānavarga)，Bernhard (1965)。「梵文法句經」之一：
-
-  - `鏈結一 <http://www2.hf.uio.no/polyglotta/index.php?page=volume&vid=71>`__
-
-  - `鏈結二 <https://www.academia.edu/23015506/Ud%C4%81navarga>`__
-
-- `犍陀羅《法句經》 <https://gandhari.org/a_document.php?catid=CKD0510>`__
-
-- `Patna 波特那《法句經》 <https://www.academia.edu/22323867/Patna_Dharmapada>`__
-
-- 「《法句經》偈頌對照表」：
-
-  - `Ven. Ānandajoti <http://www.ancient-buddhist-texts.net/Buddhist-Texts/C3-Comparative-Dhammapada/>`__
-
-  - `academia.edu <https://www.academia.edu/22666481/Parallels_to_the_P%C4%81li_Dhammapada_Verses/>`__
-
-- `Devasanti 部落格《荒草不曾鋤》 <http://yathasukha.blogspot.tw/>`__
-
-- `犍陀羅語字典 <https://gandhari.org/n_dictionary.php>`__ Baums, Stefan, and Glass, Andrew, (2014), A Dictionary of Gāndhārī.
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- `〈《法句經》的翻譯議題與重譯偈頌〉 <http://yifertw.blogspot.tw/2015/11/blog-post_35.html>`_ ，蘇錦坤，2015 [13]_
-
-- `〈《法句經》「三言」偈頌的標點與詮釋〉 <http://yifertw.blogspot.tw/2015/04/blog-post_42.html>`_ ，蘇錦坤，2015 [14]_
-
-- `〈《出曜經》研究〉 <http://yifertw.blogspot.tw/2015/05/blog-post.html>`_ ，蘇錦坤，2015 [15]_
-
-- `〈試論「甘肅博物館001號《法句經》寫本」的異讀〉 <http://yifertw.blogspot.tw/2015/06/001.html>`_ ，蘇錦坤，2015 [16]_
 
 - `「法句序」 <http://yinshun-edu.org.tw/Master_yinshun/y23_06>`__ 。 **印順 法師** 作。 [17]_
 
@@ -67,13 +25,109 @@
 
 - 南北傳《法句經》的對照表， **尊者 明法 比丘** ： `PDF </extra/pdf/S-vs-N-Dharmapada.pdf>`__ ; `doc </extra/doc/S-vs-N-Dharmapada.doc>`_ ; `DOC (Foreign1 字型) </extra/doc/S-vs-N-Dharmapada-f1.doc>`__
 
-- `〈《法句經》的「四言偈頌」與「五言偈頌」〉 <http://yifertw.blogspot.tw/2014/06/blog-post_13.html>`_ ，蘇錦坤，2014 [19]_
-
-- `〈〈法句序〉與《法句經》重譯偈頌〉 <http://yifertw.blogspot.tw/2014/10/blog-post_6.html>`_ ，蘇錦坤，2014 [20]_
-
 - `法句經讀書會 <http://yifertw.blogspot.tw/search/label/%E6%B3%95%E5%8F%A5%E7%B6%93%E8%AE%80%E6%9B%B8%E6%9C%83>`_ （具有“法句經讀書會”標籤的文章）“藏經閣外的掃葉人”網誌 [21]_
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. _研究的基本書單:
+
+- 《法句經》研究的基本書單〔蘇錦坤老師（藏經閣外的掃葉人）推薦，網誌： `【台語與佛典】,探討漢譯四阿含與巴利五部尼柯耶的教導，也介紹古漢譯和台語的關聯 <http://yifertw.blogspot.com/>`__ 〕：
+
+  * Andersen, Dines, A Pāli Glossary Vol. 2, ( `A Pāli Glossary --- Pāli reader and of the Dharmapada <http://static.sirimangalo.org/pdf/andersen2.pdf>`_ , vol. II, PDF), (Delhi 1979, first published 1901), Award publishing House, New Delhi, India.
+
+  * Agostini, Giulio, (2010), ‘“ `Preceded by thought are the Dhammas <https://www.academia.edu/4084875/Preceded_by_Thought_Are_the_Dhammas_The_Ancient_Exegesis_on_Dhp_1-2>`_ ”—The Ancient Exegesis on Dhammapada 1-2’, Buddhist Asia 2(Papers from the second conference of Buddhist Studies held in Naples Jun 2004), pp. 1-34, Ed. Giacomella Orofino and Silvio Vita, Italian School of East Asia Studies, Kyoto, Japan.
+
+  * Ānandajoti, Bhikkhu, (2007a), `A Comparative Edition of the Dhammapada <http://www.ancient-buddhist-texts.net/Buddhist-Texts/C3-Comparative-Dhammapada/>`__ (`academia.edu <https://www.academia.edu/22666481/Parallels_to_the_P%C4%81li_Dhammapada_Verses/>`__ )--with parallels from Sanskritised Prakrit, Buddhist Publication Society, Kandy, Sri Lanka.
+
+  * Ānandajoti, Bhikkhu, (2007b), `The Dhammapada <http://www.ancient-buddhist-texts.net/Buddhist-Texts/K2-Dhammapada-New/index.htm>`__ — A New Edition, Buddhist Publication Society, Kandy, Sri Lanka.
+
+  * Bernhard, F., Udānavarga, (1965), (Sanskrit texte aus den Turfanfunden X, Abhandlungen der Akademie der Wissenschaften in Göttingen, Philologisch-historische Klasse, Dritte Folge, Nr. 54), Vandenhoeck & Ruprecht, vol. 1, Göttingen, Germany.
+
+  * Brough, John, (1962, 2001), The Gāndhārī Dharmapada, Motilal Banarsidass Publishers Private Limited, Delhi, India.
+
+  * Cone, M. (1989), `“Patna Dharmapada” <https://www.academia.edu/22323867/Patna_Dharmapada>`__ , Journal of the Pali Text Society, vol. 13, pp. 101-217.
+
+  * Dhammajoti, K. L., Bhikkhu 法光, (1995), The Chinese Version of Dharmapada, Translated with Introduction and Annotation 法句經之英譯及研究, University of Kelaniya, Sri Lanka.
+
+  * Falk, `Harry <https://www.academia.edu/11754140/A_new_G%C4%81ndh%C4%81r%C4%AB_Dharmapada>`__ , (2015), `A New Gāndhārī Dharmapada <https://www.academia.edu/11754140/A_new_G%C4%81ndh%C4%81r%C4%AB_Dharmapada>`_ (Texts from the Split Collection 3),  Annual Report of the International Research Institute for Advanced Buddhology at Soka University for the Academic Year 2015, pp. 23-62. The International Research Institute of Advanced Buddhology at Soka University, Tokyo, Japan.
+
+  * Lenz, Timothy, Glass, Andrew, Bhikshu Dharmamitra, (2003), A New Version of the Gāndhārī Dharmapada and a Collection of Previous-Birth Stories, British Library Kharoṣṭhī Fragments, University of Washington Press, Seattle, USA and London, UK. 
+
+  * Norman, K. R., (1995), The Group Discourses II, PTS, Oxford, UK.
+
+  * Norman, K. R., (1997), ‘Does Māra Have Flower-tipped Arrows?’, in Paul Harrison and Gregory Scopen, eds., Sūryacandrā: Essays in Honour of Akira Yuyama On the Occasion of His 65th Birthday ( Indica et Tibetica 35), Swisttal-Odendorf: Indica et Tibetica Verlag, pp. 135-142.
+
+  * Norman, K. R., (1997), The Word of the Doctrine (Dhammapada), PTS, London, UK.
+
+  * Sen, Tansen 沈丹森, (2002), ‘The Revival and Failure of Buddhist Translations during the Song Dynasty’, T’oung Pao, issues 88, pp.27-80, Leiden, Netherlands.
+
+  * Willemen, Charles. (1978), The Chinese Udānavarga: A Collection of Important Odes of the Law Fa Chi Yao Sung Ching. Bruxelles: Institut Belge des Hautes Etudes Chinoises..2013.329 pp.
+
+  * Willemen, Charles. (2013), A Collection of Important Odes of the Law. The Chinese Udanavarga Fa ji yao song jing T.213, Berkeley:Institute of Buddhist Studies and BDK, USA.
+
+  * 荊三隆、邵之茜，(2013)，《法句譬喻經注譯與辨析》，中國社會出版社，北京，中國。
+
+  * 屈大成，(2014)，《法句經今注今譯》，新文豐出版社，台北市，台灣。全套2冊, ISBN：9789571722078
+
+  * 巴利《法句經》：
+
+    - `巴利《法句經》 <http://tipitaka.sutta.org/>`__ ，巴漢、巴英對讀
+
+    - `VRI 設立 <http://www.tipitaka.org/romn/>`__ （內觀研究中心）
+
+    - `academia.edu <https://www.academia.edu/22666469/The_Dhammapada_KN_2_A_New_Edition>`__
+
+  * `犍陀羅《法句經》 <https://gandhari.org/a_document.php?catid=CKD0510>`__
+
+  * `Patna 波特那《法句經》 <https://www.academia.edu/22323867/Patna_Dharmapada>`__
+
+  * 「《法句經》偈頌對照表」：
+
+    * 1. `Ven. Ānandajoti <http://www.ancient-buddhist-texts.net/Buddhist-Texts/C3-Comparative-Dhammapada/>`__ ( `academia.edu <https://www.academia.edu/22666481/Parallels_to_the_P%C4%81li_Dhammapada_Verses/>`__ )
+ 
+    * 2. `Devasanti 部落格《荒草不曾鋤》 <http://yathasukha.blogspot.tw/>`__
+
+    * 3. `「《法句經》、《出曜經》、《法集要頌經》偈頌對照表」 <http://yifertwtw.blogspot.com/>`__
+
+    * 4. `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`_ ，2014。
+
+  * `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`_ ，2014。
+
+  * `《出曜經》校勘與標點 <http://yifertw212.blogspot.com/>`_ ，2014。
+
+  * 《優陀那品》(Udānavarga)，Bernhard (1965)。「梵文法句經」之一： `鏈結一 <http://www2.hf.uio.no/polyglotta/index.php?page=volume&vid=71>`__ ； `鏈結二 <https://www.academia.edu/23015506/Ud%C4%81navarga>`__
+
+  * 蘇錦坤，(2014a)， `〈《法句經》的「四言偈頌」與「五言偈頌」〉 <http://yifertw.blogspot.tw/2014/06/blog-post_13.html>`_ ，《福嚴佛學研究》9期，23-48頁，新竹市，台灣。 [19]_
+
+  * 蘇錦坤，(2014b)， `〈〈法句序〉與《法句經》重譯偈頌〉 <http://yifertw.blogspot.tw/2014/10/blog-post_6.html>`_ ，《正觀雜誌》70期，77-132頁，南投縣，台灣。 [20]_
+
+  * 蘇錦坤，(2015a)， `〈《法句經》「三言」偈頌的標點與詮釋〉 <http://yifertw.blogspot.tw/2015/04/blog-post_42.html>`_ ，《正觀雜誌》72期，39-88頁，南投縣，台灣。 [14]_
+
+  * 蘇錦坤，(2015b)， `〈《出曜經》研究〉 <http://yifertw.blogspot.tw/2015/05/blog-post.html>`_ ，《新加坡佛學研究學刊》2期65-175頁，新加坡佛學院，新加坡。 [15]_
+
+  * 蘇錦坤，(2015c)，`〈試論「甘肅博物館001號《法句經》寫本」的異讀〉 <http://yifertw.blogspot.tw/2015/06/001.html>`_ ，《福嚴佛學研究》10期，19-39頁，新竹市，台灣。 [16]_
+
+  * 蘇錦坤，(2015d)， `〈《法句經》的翻譯議題與重譯偈頌〉 <http://yifertw.blogspot.tw/2015/11/blog-post_35.html>`_ ，《吳越佛教》第10輯48-67頁，杭州佛學院，杭州市，中國。[13]_
+
+  * 蘇錦坤，(2015e)， `〈《法句經》(T210)的詮釋與翻譯---法光法師《法句經之英譯及研究》評介〉 <https://www.academia.edu/12947299/Book_Review_The_Chinese_Version_of_Dharmapada_Translated_with_Introduction_and_Annotation_%E6%B3%95%E5%85%89%E6%B3%95%E5%B8%AB_%E6%B3%95%E5%8F%A5%E7%B6%93%E4%B9%8B%E8%8B%B1%E8%AD%AF%E5%8F%8A%E7%A0%94%E7%A9%B6_%E8%A9%95%E4%BB%8B>`__ ，(2015e) (academia.edu)
+
+  * 蘇錦坤，(待發表)，〈《法集要頌經》的翻譯議題〉，
+
+  * 蘇錦坤(待發表)，〈T210《法句經》的初譯偈頌與後譯偈頌〉。
+
+  * 蘇錦坤(待發表)，〈T210《法句經》的校讀舉例〉
+
+  * 蘇錦坤，〈漢譯佛教文獻的偈頌詮釋與翻譯 --《八犍度論》與《發智論》對勘〉，(待發表)。
+
+  * 水野弘元，(1981)，《法句経の研究》，春秋社，東京，日本。昭和56 (1981)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- `犍陀羅語字典 <https://gandhari.org/n_dictionary.php>`__ Baums, Stefan, and Glass, Andrew, (2014), A Dictionary of Gāndhārī.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 日譯(和訳)： `《法句經》 <http://www.aozora.gr.jp/cards/001529/files/45958_30545.html>`__；荻原雲來訳註
 
 - `法句經 <http://www.gaya.org.tw/library/b-ip/sutra/dhammapada.htm>`__ (更新日期：96.1.6)-- `香光尼僧團；香光資訊網 <http://www.gaya.org.tw/>`_ [22]_
 
@@ -94,8 +148,6 @@
 - 《法句經對照表》。水野弘元。1974。「法句經對照表(3)」。 [36]_
 
 - 《法句經について》。水野弘元。日本，1972。
-
-- 《法句經の研究》。水野弘元著。日本東京都：春秋社，昭和56 (1981)。
 
 -  `《Gandhari Dharmapada について》。(關於犍陀羅語法句經) <http://echo-lab.ddo.jp/Libraries/%E5%8D%B0%E5%BA%A6%E5%AD%A6%E4%BB%8F%E6%95%99%E5%AD%A6%E7%A0%94%E7%A9%B6/%E5%8D%B0%E5%BA%A6%E5%AD%B8%E4%BD%9B%E6%95%99%E5%AD%B8%E7%A0%94%E7%A9%B6%E7%AC%AC11%E5%B7%BB%E7%AC%AC2%E5%8F%B7/Vol.11%20,%20No.2(1963)085%E6%B0%B4%E9%87%8E%20%E5%BC%98%E5%85%83%E3%80%8CGandhari%20Dharmapada%20%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%8D.pdf>`_ (pdf)。水野弘元。 [37]_
 
@@ -160,3 +212,6 @@
 - `法句經首頁  <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+.. http://dhamma4khmer2.org/TripitakaEnglish/DHAMMAPADA.pdf
+   Norman, K. R., (1997), The Word of the Doctrine (Dhammapada), PTS, London, UK.

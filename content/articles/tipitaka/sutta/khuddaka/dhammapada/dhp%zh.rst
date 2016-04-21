@@ -2,7 +2,7 @@
 ===================
 
 :date: 2016-01-29 09:00
-:modified: 2016-04-19 14:50
+:modified: 2016-04-21 10:50
 :tags: 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經, Dhammapada
@@ -70,31 +70,42 @@
 
 -----------------------------------------
 
-- 日譯(和訳)： `《法句經》 <http://www.aozora.gr.jp/cards/001529/files/45958_30545.html>`__；荻原雲來訳註
+- 初學者閱讀〔蘇錦坤老師（藏經閣外的掃葉人）推薦，網誌： `【台語與佛典】,探討漢譯四阿含與巴利五部尼柯耶的教導，也介紹古漢譯和台語的關聯 <http://yifertw.blogspot.com/>`__ 〕：
 
-- `法句經解題 <http://www.gaya.org.tw/library/readers/guide-fjj.htm>`__ -- 香光尼眾佛學院圖書館整理
+  * 《法句經今注今釋》(全套2冊)，屈大成，2014.06，新文豐，台灣． ISBN：9789571722078 
 
-- 《法句經》，吳根友 (白話釋譯)，1997，佛光山宗務委員會，台灣．高雄市。
+  * | 法句經講記；主講： **釋傳道** ： `（一） <http://www.mst.org.tw/magazine/magazinep/dhamma-rain/65%E6%B3%95%E5%8F%A5%E7%B6%93%E8%AC%9B%E8%A8%98.htm>`_ 、 `（二） <http://www.mst.org.tw/magazine/magazinep/dhamma-rain/66%E6%B3%95%E5%8F%A5%E7%B6%93%E8%AC%9B%E8%A8%98.htm>`_ 、 `（三） <http://www.mst.org.tw/magazine/magazinep/dhamma-rain/67.%e6%b3%95%e5%8f%a5%e7%b6%93%e8%ac%9b%e8%a8%98%20%e4%b8%89.htm>`_ 、 `（四） <http://www.mst.org.tw/magazine/magazinep/dhamma-rain/68%E6%B3%95%E5%8F%A5%E7%B6%93%E8%AC%9B%E8%A8%98.htm>`_ 、 `（五） <http://www.mst.org.tw/magazine/magazinep/dhamma-rain/70%E6%B3%95%E5%8F%A5%E7%B6%93%E8%AC%9B%E8%A8%98%E4%BA%94.htm>`_ 、..., ..., ...、 `（六十七） <http://www.mst.org.tw/magazine/magazinep/dhamma-rain/152-%e6%b3%95%e5%8f%a5%e7%b6%93%e8%ac%9b%e8%a8%98%ef%bc%88%e5%85%ad%e5%8d%81%e4%b8%83%ef%bc%89.htm>`_ ；其他請詳參【妙心法雨】 `目錄 <http://www.mst.org.tw/magazine/magazinep/dhamma-rain/>`__ （【妙心寺】【妙心雜誌】） [25]_ 
+    | 聆聽下載影音_ 
 
-- 《法句經今注今釋》(全套2冊)，屈大成，2014.06，新文豐，台灣． ISBN：9789571722078
+-----------------------------------------
 
 - `法句經故事集 <http://www.budaedu.org/story/dp000.php>`__ -- 馬來西亞．**達摩難陀長老** 著，臺灣．周金言 譯， `佛陀教育基金會 <http://www.budaedu.org/>`__ 。 `PDF (橫式排版，文字檔) </extra/pdf/Dhp-story-han.pdf>`_ [11]_
 
 - `南傳法句經的故事 <{filename}dhp-story/dhp-story-Ven-Dharmagupta%zh.rst>`_ （幾則；翻譯者: **護法 法師 Ven. Dharmagupta** ，尼泊爾籍） [12]_
 
-- 法句經講記；主講： **釋傳道** ： `（一） <http://www.mst.org.tw/magazine/magazinep/dhamma-rain/65%E6%B3%95%E5%8F%A5%E7%B6%93%E8%AC%9B%E8%A8%98.htm>`_ 、 `（二） <http://www.mst.org.tw/magazine/magazinep/dhamma-rain/66%E6%B3%95%E5%8F%A5%E7%B6%93%E8%AC%9B%E8%A8%98.htm>`_ 、 `（三） <http://www.mst.org.tw/magazine/magazinep/dhamma-rain/67.%e6%b3%95%e5%8f%a5%e7%b6%93%e8%ac%9b%e8%a8%98%20%e4%b8%89.htm>`_ 、 `（四） <http://www.mst.org.tw/magazine/magazinep/dhamma-rain/68%E6%B3%95%E5%8F%A5%E7%B6%93%E8%AC%9B%E8%A8%98.htm>`_ 、 `（五） <http://www.mst.org.tw/magazine/magazinep/dhamma-rain/70%E6%B3%95%E5%8F%A5%E7%B6%93%E8%AC%9B%E8%A8%98%E4%BA%94.htm>`_ 、..., ..., ...、 `（六十六） <http://www.mst.org.tw/magazine/magazinep/dhamma-rain/150-%E6%B3%95%E5%8F%A5%E7%B6%93%E8%AC%9B%E8%A8%98%EF%BC%88%E5%85%AD%E5%8D%81%E5%85%AD%EF%BC%89.htm>`_ ；其他請詳參：http://www.mst.org.tw/magazine/magazinep/dhamma-rain/ [25]_
+- `法句經讀書會 <http://yifertw.blogspot.tw/search/label/%E6%B3%95%E5%8F%A5%E7%B6%93%E8%AE%80%E6%9B%B8%E6%9C%83>`_ （具有“法句經讀書會”標籤的文章）“藏經閣外的掃葉人”網誌 [21]_
+
+-----------------------------------------
+
+- 《法句經》，吳根友 (白話釋譯)，1997，佛光山宗務委員會，台灣．高雄市。
 
 - 「法句經　Dhammapada」。《中英對照佛教聖典》。（第八版。日本東京都：佛教傳道協會，1980）。 [28]_
 
 - 「泰國南傳大藏經中之《法句經》」。黃謹良。 [29]_ 
 
+- 日譯(和訳)： `《法句經》 <http://www.aozora.gr.jp/cards/001529/files/45958_30545.html>`__；荻原雲來訳註
+
+- `法句經解題 <http://www.gaya.org.tw/library/readers/guide-fjj.htm>`__ -- 香光尼眾佛學院圖書館整理
+
 -----------------------------------------
+
+.. _聆聽下載影音:
 
 - 聆聽、下載《法句經》：
 
-  * `法句經 <http://www.budaedu.org.tw/ghosa/C008/T0579/>`__ [T0579]（**尊者 強帝瑪 法師**）（影片、音訊、講義）
-
   * 法句經，台語， **傳道 法師** ： `法句經 台語 1上 <https://www.youtube.com/watch?v=J8WDV1kGkwY>`_ 、 `法句經 台語 1下 <https://www.youtube.com/watch?v=UUSf9J8EFcE>`_ 、 `法句經 台語 2上 <https://www.youtube.com/watch?v=0_TEVxXztgc>`_ 、 `法句經 台語 2下 <https://www.youtube.com/watch?v=4eO_wapk_LM>`_ 、 `法句經 台語 3上 <https://www.youtube.com/watch?v=du_PXOmAF_c>`_ 、 `法句經 台語 3下 <https://www.youtube.com/watch?v=8JADNKu3GXU>`_ 、 `法句經 台語 4上 <https://www.youtube.com/watch?v=FVDXR3SrJPo>`_ 、 `法句經 台語 4下 <https://www.youtube.com/watch?v=iEjk_X6JRMg>`_ 、 `法句經 台語 5上 <https://www.youtube.com/watch?v=jPYEIUJwruA>`_ 、 `法句經 台語 5下 <https://www.youtube.com/watch?v=BkRgBRMMAn4>`_ 、 `法句經 台語 6上 <https://www.youtube.com/watch?v=S2PT2l0fyQ4>`_ 、 `法句經 台語 6下 <https://www.youtube.com/watch?v=0LOF94kttHY>`_ 、 `法句經 台語 7上 <https://www.youtube.com/watch?v=YWWpPQulP-g>`_ 、 `法句經 台語 7下 <https://www.youtube.com/watch?v=nVwCaKZ2evc>`_ 、 `法句經 台語 8上 <https://www.youtube.com/watch?v=63Zs1bWldjo>`_ 、 `法句經 台語 8下 <https://www.youtube.com/watch?v=RqQT3lcHKlo>`_ 、 `法句經 台語 9上 <https://www.youtube.com/watch?v=dgtUb6u7zEg>`_ 、 `法句經 台語 9下 <https://www.youtube.com/watch?v=rCWk7wWVZ_Y>`_ 、 `法句經 台語 10上 <https://www.youtube.com/watch?v=UlvGw050fKY>`_ 、 `法句經 台語 10下 <https://www.youtube.com/watch?v=kDPbyk92nFg>`_ 、, ..., ..., ..., `法句經 台語 70上 <https://www.youtube.com/watch?v=McIcAg8UYgo>`_ 、 `法句經 台語 70下 <https://www.youtube.com/watch?v=U8hTlL5_agQ>`_ 、
+
+  * `法句經 <http://www.budaedu.org.tw/ghosa/C008/T0579/>`__ [T0579]（**尊者 強帝瑪 法師**）（影片、音訊、講義）
 
 ------------------------------------------
 
@@ -138,6 +149,8 @@
 .. [11] 取材自： `法句經故事集 <http://www.budaedu.org/story/dp000.php>`__ ，佛陀教育基金會； `PDF(原始直式排版，掃描影像檔 <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`_ ，34.2 MB)
 
 .. [12] 陳建宏，邱秀華，謝素鳳整理。《涅槃的高速公路》。（台南縣：原始佛教學院，2003）。
+
+.. [21] “藏經閣外的掃葉人”網誌----`【台語與佛典】, 探討漢譯四阿含與巴利五部尼柯耶的教導，也介紹古漢譯和台語的關聯 <http://yifertw.blogspot.com/>`_
 
 .. [25] 紀錄：吳一忠，謝杏熏
 
