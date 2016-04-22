@@ -1,6 +1,7 @@
 cache/
 output/
 aws/
+ncku/
 *.pyc
 theme/static/css/style.css
 theme/static/js/hushiah.js

@@ -11,10 +11,12 @@ INPUTDIR=$(BASEDIR)/content
 CACHEDIR=$(BASEDIR)/cache
 OUTPUTDIR=$(BASEDIR)/output
 AWSOUTPUTDIR=$(BASEDIR)/aws
+NCKUOUTPUTDIR=$(BASEDIR)/ncku
 PLUGINSDIR=$(BASEDIR)/plugins
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 AWSPUBLISHCONF=$(BASEDIR)/awspublishconf.py
+NCKUPUBLISHCONF=$(BASEDIR)/nckupublishconf.py
 
 
 default: html serve
@@ -46,5 +48,8 @@ publish: js scss clean
 
 aws: js scss clean
 	$(PELICAN) $(INPUTDIR) -o $(AWSOUTPUTDIR) -s $(AWSPUBLISHCONF) $(PELICANOPTS)
+
+ncku: js scss clean
+	$(PELICAN) $(INPUTDIR) -o $(NCKUOUTPUTDIR) -s $(NCKUPUBLISHCONF) $(PELICANOPTS)
 
 .PHONY: download scss html clean serve publish
