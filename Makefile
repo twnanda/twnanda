@@ -10,9 +10,11 @@ SCSSDIR=$(THEMEDIR)/styling
 INPUTDIR=$(BASEDIR)/content
 CACHEDIR=$(BASEDIR)/cache
 OUTPUTDIR=$(BASEDIR)/output
+AWSOUTPUTDIR=$(BASEDIR)/aws
 PLUGINSDIR=$(BASEDIR)/plugins
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
+AWSPUBLISHCONF=$(BASEDIR)/awspublishconf.py
 
 
 default: html serve
@@ -41,5 +43,8 @@ endif
 
 publish: js scss clean
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+
+aws: js scss clean
+	$(PELICAN) $(INPUTDIR) -o $(AWSOUTPUTDIR) -s $(AWSPUBLISHCONF) $(PELICANOPTS)
 
 .PHONY: download scss html clean serve publish

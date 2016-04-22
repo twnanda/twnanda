@@ -1,5 +1,6 @@
-cache
-output
+cache/
+output/
+aws/
 *.pyc
 theme/static/css/style.css
 theme/static/js/hushiah.js
