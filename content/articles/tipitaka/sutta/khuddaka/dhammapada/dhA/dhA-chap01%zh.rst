@@ -664,7 +664,7 @@
 
 .. [MettFn01-31] 〔明法尊者註01-31〕　**沙門分**︰bhāgavā sāmaññassa，沙門的成分，指沙門的利益：道與果。
 
-.. [MettFn01-32] 〔明法尊者註01-32〕　19-20偈說兩位好友比丘的故事。一位已證阿羅漢果，一位只精通經教。PS: 請參 `19-20 典故 <{filename}../dhp-story/dhp-story19-20%zh.rst>`_ ；或  `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～十四、知識不等於證悟 (偈 019~020)。
+.. [MettFn01-32] 〔明法尊者註01-32〕　19-20偈說兩位好友比丘的故事。一位已證阿羅漢果，一位只精通經教。PS: 請參 `19-20 典故 <{filename}../dhp-story/dhp-story019-20%zh.rst>`_ ；或  `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～十四、知識不等於證悟 (偈 019~020)。
 
 .. [NandFn01-00] 〔Nanda 校註01-00〕 〝於此世界中〞
                   

@@ -62,7 +62,7 @@ Dhammapada 法句經(第三：心品)
    * - 037
 
        (
-       `典故 <{filename}dhp-story037%zh.rst>`__
+       `典故 <{filename}dhp-story/dhp-story037%zh.rst>`__
        )
 
      - 遠行與獨行，無形隱深窟。誰能調伏心，解脫魔羅縛。
@@ -76,7 +76,7 @@ Dhammapada 法句經(第三：心品)
 
        039
        (
-       `典故 <{filename}dhp-story038-39%zh.rst>`__
+       `典故 <{filename}dhp-story/dhp-story038-39%zh.rst>`__
        )
 
      - 心若不安定，又不了正法，信心不堅者，智慧不成就。

@@ -142,7 +142,7 @@
 
 .. [2] 〔註002〕　 `巴利原典 (CSCD) Dhammapadapāḷi 乃參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版原始出處(original)請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單 “Tipiṭaka Scripts” 中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Khuddakanikāya → Dhammapadapāḷi → `1. Yamakavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul0.xml>`__ (2. `Appamādavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul1.xml>`__ , 3. `Cittavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul2.xml>`__ , etc..)。]
 
-.. [3] 〔註003〕　本譯文請參考： `文言文版 <{filename}dhp-Ven-L-C%zh.rst>`__ ( **了參 法師** 譯，台北市：圓明出版社，1991。) 另參： 
+.. [3] 〔註003〕　本譯文請參考： `文言文版 <{filename}../dhp-Ven-L-C/dhp-Ven-L-C%zh.rst>`__ ( **了參 法師** 譯，台北市：圓明出版社，1991。) 另參： 
 
        一、 Dhammapada 法句經(中英對照) -- English translated by **Ven. Ācharya Buddharakkhita** ; Chinese translated by Yeh chun(葉均); Chinese commented by **Ven. Bhikkhu Metta(明法比丘)** 〔 **Ven. Ācharya Buddharakkhita** ( **佛護 尊者** ) 英譯; **了參 法師(葉均)** 譯; **明法比丘** 註（增加許多濃縮的故事）〕： `PDF </extra/pdf/ec-dhp.pdf>`__ 、 `DOC </extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) </extra/doc/ec-dhp-f1.doc>`__ 。
 

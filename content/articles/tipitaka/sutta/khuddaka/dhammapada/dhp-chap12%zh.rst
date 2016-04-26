@@ -44,7 +44,7 @@ Dhammapada 法句經(第十二：自己品)
    * - 159
 
        (
-       `典故 <{filename}dhp-story159%zh.rst>`__
+       `典故 <{filename}dhp-story/dhp-story159%zh.rst>`__
        )
 
      - 若欲誨他者，應如己所行（自）制乃制（他），克己實最難。
@@ -92,7 +92,7 @@ Dhammapada 法句經(第十二：自己品)
    * - 164
 
        (
-       `典故 <{filename}dhp-story164%zh.rst>`__
+       `典故 <{filename}dhp-story/dhp-story164%zh.rst>`__
        )
 
      - 惡慧愚癡人，以其邪見故，侮蔑羅漢教，依正法行者，以及尊者教，而自取毀滅，如格他格草，結果自滅亡。

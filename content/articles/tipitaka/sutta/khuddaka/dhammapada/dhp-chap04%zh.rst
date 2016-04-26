@@ -71,7 +71,7 @@ Dhammapada 法句經(第四：華品)
    * - 049
 
        (
-       `典故 <{filename}dhp-story049%zh.rst>`__
+       `典故 <{filename}dhp-story/dhp-story049%zh.rst>`__
        )
 
      - 牟尼人村落，譬如蜂採華，不壞色與香，但取其蜜去。
