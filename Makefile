@@ -10,12 +10,10 @@ SCSSDIR=$(THEMEDIR)/styling
 INPUTDIR=$(BASEDIR)/content
 CACHEDIR=$(BASEDIR)/cache
 OUTPUTDIR=$(BASEDIR)/output
-AWSOUTPUTDIR=$(BASEDIR)/aws
 NCKUOUTPUTDIR=$(BASEDIR)/ncku
 PLUGINSDIR=$(BASEDIR)/plugins
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
-AWSPUBLISHCONF=$(BASEDIR)/awspublishconf.py
 NCKUPUBLISHCONF=$(BASEDIR)/nckupublishconf.py
 
 
@@ -45,9 +43,6 @@ endif
 
 publish: js scss clean
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-
-aws: js scss clean
-	$(PELICAN) $(INPUTDIR) -o $(AWSOUTPUTDIR) -s $(AWSPUBLISHCONF) $(PELICANOPTS)
 
 ncku: js scss clean
 	$(PELICAN) $(INPUTDIR) -o $(NCKUOUTPUTDIR) -s $(NCKUPUBLISHCONF) $(PELICANOPTS)
