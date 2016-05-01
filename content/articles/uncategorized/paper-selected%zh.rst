@@ -3,7 +3,7 @@
 
 :date: 2005-05-01
 :modified: 2015-10-13
-:oldurl: http://nanda.online-dhamma.net/paper-selected.html
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/paper-selected.html
 :tags: 
 :category: 未分類
 :summary: 文章選讀

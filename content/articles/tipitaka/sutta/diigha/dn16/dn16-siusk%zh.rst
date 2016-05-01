@@ -3,7 +3,7 @@
 
 :date: 2015-02-21
 :modified: 2015-02-22
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Digha/dn.16-SiuSK.html
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16-SiuSK.html
 :author: 蕭式球
 :tags: 巴利三藏長部, 大般湼槃經
 :category: 巴利三藏長部

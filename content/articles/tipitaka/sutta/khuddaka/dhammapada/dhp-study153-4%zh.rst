@@ -3,7 +3,7 @@
 
 :date: 2004-03-07
 :modified: 2004-03-07
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Study153-4.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Study153-4.htm
 :tags: 法句經, Dhammapada
 :category: 巴利三藏小部
 :summary: 法句經研讀第 153 與 154 偈頌(Study of Gatha# 153 & 154 of Dhamma-Pada

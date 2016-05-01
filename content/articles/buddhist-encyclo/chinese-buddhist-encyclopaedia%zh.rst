@@ -3,7 +3,7 @@
 
 :date: 2001-04-12
 :modified: 2004-04-06
-:oldurl: http://nanda.online-dhamma.net/BuddhistEncyclo/encyclop.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/BuddhistEncyclo/encyclop.htm
 :tags: 中華佛教百科全書
 :category: 佛教百科
 :summary: 《中華佛教百科全書》 Chinese Buddhist Encyclopaedia

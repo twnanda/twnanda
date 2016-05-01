@@ -3,7 +3,7 @@
 
 :date: 2001-04-12
 :modified: 2004-04-04
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/vipassana-table.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Visuddhimagga/vipassana-table.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 觀之概要分析(Analysis of Vipassanasangahavibhaaga)

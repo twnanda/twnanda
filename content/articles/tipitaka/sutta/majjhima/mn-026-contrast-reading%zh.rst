@@ -3,7 +3,7 @@
 
 :date: 2012-04-03
 :modified: 2012-12-04
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/mn.026.contrast-reading.html
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/mn.026.contrast-reading.html
 :tags: 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
 :summary: 中部 026 聖求經(Ariyapariyesana Sutta, The Noble Search)對讀

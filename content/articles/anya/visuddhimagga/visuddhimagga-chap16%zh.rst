@@ -3,7 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-06-20
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap16.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Visuddhimagga/chap16.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 第十六 說根諦品 -- 清淨道論

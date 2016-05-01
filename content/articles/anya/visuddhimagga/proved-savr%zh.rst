@@ -3,7 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-05-01
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/proved_savr.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Visuddhimagga/proved_savr.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 清淨道論 校訂序

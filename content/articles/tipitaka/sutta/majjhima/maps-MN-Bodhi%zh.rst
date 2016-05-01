@@ -3,7 +3,7 @@
 
 :date: 2012-04-03 07:00
 :modified: 2015-05-30 18:00
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/maps-MN-Bodhi.html
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/maps-MN-Bodhi.html
 :tags: 《中部尼柯耶》閱讀地圖, A Systematic Study of the Majjhima Nikāya--Exploring the Word of the Buddha (BODHI MONASTERY), 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
 :summary: 《中部尼柯耶》閱讀地圖, A Systematic Study of the Majjhima Nikāya--Exploring the Word of the Buddha (BODHI MONASTERY)(菩提尊者)

@@ -2,7 +2,7 @@
 ##################
 
 :date: 2000-12-02
-:oldurl: http://nanda.online-dhamma.net/Temples/temples.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Temples/temples.htm
 :tags: 府城地區寺院、道場
 :category: 府城地區寺院、道場
 :summary: 府城地區寺院、道場

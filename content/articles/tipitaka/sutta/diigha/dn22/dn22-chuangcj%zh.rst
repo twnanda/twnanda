@@ -3,7 +3,7 @@
 
 :date: 2015-05-01 17:00:00
 :modified: 2015-05-01 17:00:00
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Digha/dn.22-ChuangCJ.rst
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.22-ChuangCJ.rst
 :author: 莊春江
 :tags: 念住大經, 莊春江, D22 Mahāsatipaṭṭhānasuttaṃ
 :category: 巴利三藏長部

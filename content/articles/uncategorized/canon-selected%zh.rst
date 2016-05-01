@@ -2,7 +2,7 @@
 ########
 
 :date: 2016-02-13T16:05+08:00
-:oldurl: http://nanda.online-dhamma.net/canon-selected.html
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/canon-selected.html
 :tags: 
 :category: 未分類
 :summary: 經文選讀

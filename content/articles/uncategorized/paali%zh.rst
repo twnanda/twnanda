@@ -2,7 +2,7 @@ Pali Language (Pāli Bhāsā) 巴利語
 #################################
 
 :date: 2016-02-13T16:05+08:00
-:oldurl: http://nanda.online-dhamma.net/Pali/paali.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Pali/paali.htm
 :tags: 
 :category: 未分類
 :summary: Pali Language (Pāli Bhāsā) 巴利語

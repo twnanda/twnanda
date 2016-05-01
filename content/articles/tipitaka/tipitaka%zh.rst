@@ -2,7 +2,7 @@ Tipiṭaka 南傳大藏經 (The Pali Canon)
 ####################################
 
 :date: 2016-02-13T16:05+08:00
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/tipitaka.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/tipitaka.htm
 :tags: 
 :category: 未分類
 :summary: Tipiṭaka 南傳大藏經 (The Pali Canon)

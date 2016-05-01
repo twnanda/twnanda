@@ -3,7 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-02-05
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/translator.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Visuddhimagga/translator.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 清淨道論－－譯者簡介(Brief Introduction to the translator of Chinese Version of Visuddhi Magga)

@@ -3,7 +3,7 @@
 
 :date: 2015-04-21 16:30
 :modified: 2015-05-31 15:30
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Digha/dn16.contrast-reading-chap6.rst
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn16.contrast-reading-chap6.rst
 :tags: 大般涅槃經對讀, 般涅槃大經對讀, DN16 Mahāparinibbānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, DN 16, Dn16, Dn 16
 :category: 巴利三藏長部
 :summary: 大般涅槃經 (般涅槃大經) 多譯本對讀(段層次) 第六頌（第六章）, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, Chapter 5

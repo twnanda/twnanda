@@ -3,7 +3,7 @@
 
 :date: 2004-12-19
 :modified: 2015-10-12
-:oldurl: http://nanda.online-dhamma.net/open_distribution-The_Biography_Ven_Acariya_Mun.html
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/open_distribution-The_Biography_Ven_Acariya_Mun.html
 :tags: 
 :category: 未分類
 :summary: 【新譯「尊者阿姜 曼傳」與「尊者阿姜 考傳」】相關訊息

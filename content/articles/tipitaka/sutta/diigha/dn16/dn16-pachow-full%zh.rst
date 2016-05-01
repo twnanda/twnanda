@@ -4,7 +4,7 @@
 
 :date: 2015-03-25 20:40
 :modified: 2015-03-25 20:40
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Digha/dn.16-Pachow-full.rst
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16-Pachow-full.rst
 :author: 巴宙
 :tags: 南傳大般涅槃經, 大般涅槃經, 巴利三藏長部
 :category: 巴利三藏長部

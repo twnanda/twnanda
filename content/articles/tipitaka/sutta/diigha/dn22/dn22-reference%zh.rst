@@ -3,7 +3,7 @@
 
 :date: 2004-07-03 09:00
 :modified: 2015-05-22 21:30
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Digha/dn.22.rst
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.22.rst
 :tags: 大念處經, 念住大經, DN 22 Mahāsatipaṭṭhānasuttaṃ, dn 22, Dn22, The Long Discourse about the Ways of Attending to Mindfulness, The Great Frames of Reference
 :category: 巴利三藏長部
 :summary: 大念處經 (念住大經, DN 22 Mahāsatipaṭṭhānasuttaṃ) The Great Frames of Reference; The Long Discourse about the Ways of Attending to Mindfulness

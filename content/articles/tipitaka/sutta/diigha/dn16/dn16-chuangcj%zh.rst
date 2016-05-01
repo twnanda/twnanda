@@ -3,7 +3,7 @@
 
 :date: 2015-03-08 15:48:37
 :modified: 2015-03-08 15:48:37
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Digha/dn.16-ChuangCJ.rst
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16-ChuangCJ.rst
 :author: 莊春江
 :tags: 巴利三藏長部, 般涅槃大經, 莊春江, D16 Mahāparinibbānasuttaṃ
 :category: 巴利三藏長部

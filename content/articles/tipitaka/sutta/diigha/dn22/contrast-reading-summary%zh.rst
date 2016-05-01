@@ -4,7 +4,7 @@
 
 :date: 2015-05-02 17:45
 :modified: 2015-05-20 22:00
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Digha/dn.22.contrast-reading-summary.rst
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.22.contrast-reading-summary.rst
 :tags: 大念處經對讀, 念住大經對讀, DN 22 Mahāsatipaṭṭhānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāsatipaṭṭhāna sutta, DN 22, Dn22, dn 22
 :category: 巴利三藏長部
 :summary: 大念處經(念住大經) 多譯本對讀(段層次),  (DN 22 Mahāsatipaṭṭhānasuttaṃ),  Parallel Reading (paragraph granularity) of Mahāsatipaṭṭhāna sutta,  總說, Summary (Uddeso)

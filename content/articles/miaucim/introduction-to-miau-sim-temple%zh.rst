@@ -2,7 +2,7 @@
 ################
 
 :date: 2002-07-07
-:oldurl: http://nanda.online-dhamma.net/MiauCim/index.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/MiauCim/index.htm
 :tags: 小東山妙心寺, 府城地區寺院、道場
 :category: 小東山妙心寺
 :summary: Introduction to Miau Sim Temple 小東山妙心寺簡介

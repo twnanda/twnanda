@@ -3,7 +3,7 @@
 
 :date: 2015-01-11
 :modified: 2015-01-10
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/mn.057.contrast-reading.html
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/mn.057.contrast-reading.html
 :tags: 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
 :summary: 中部 57 狗行者經 (狗戒經,

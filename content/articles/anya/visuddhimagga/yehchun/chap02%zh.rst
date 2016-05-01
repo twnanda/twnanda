@@ -3,7 +3,7 @@
 
 :date: 2004-07-10
 :modified: 2004-07-10
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap02_savr.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Visuddhimagga/chap02_savr.htm
 :tags: 清淨道論（葉均）, 藏外文獻
 :category: 清淨道論（葉均）
 :summary: 第二  說頭陀支品 - 清淨道論（葉均）

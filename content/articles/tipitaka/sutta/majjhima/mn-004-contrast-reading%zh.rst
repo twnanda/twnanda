@@ -3,7 +3,7 @@
 
 :date: 2012-04-22
 :modified: 2012-09-02
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/mn.004.contrast-reading.html
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/mn.004.contrast-reading.html
 :tags: 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
 :summary: 中部 004 怖駭經 (MN 4 Bhaya-bherava Sutta, Fear & Terror)對讀

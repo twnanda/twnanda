@@ -3,7 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-02-05
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/comparison.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Visuddhimagga/comparison.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 解脫道論與清淨道論的比較研究　　長井真琴 著

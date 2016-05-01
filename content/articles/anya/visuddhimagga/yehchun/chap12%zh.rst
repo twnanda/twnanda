@@ -3,7 +3,7 @@
 
 :date: 2004-07-10
 :modified: 2004-07-10
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap12_savr.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Visuddhimagga/chap12_savr.htm
 :tags: 清淨道論（葉均）, 藏外文獻
 :category: 清淨道論（葉均）
 :summary: 第十二  說神變品 - 清淨道論（葉均）

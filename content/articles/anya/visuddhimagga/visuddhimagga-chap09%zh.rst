@@ -3,7 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-07-01
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap09.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Visuddhimagga/chap09.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 第九 說梵住品 -- 清淨道論

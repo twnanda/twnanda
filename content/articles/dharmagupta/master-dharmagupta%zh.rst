@@ -3,7 +3,7 @@
 
 :date: 2000-07-08
 :modified: 2007-11-03
-:oldurl: http://nanda.online-dhamma.net/Dharmagupta/master.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Dharmagupta/master.htm
 :tags: 護法法師
 :category: 護法法師
 :summary: 護法法師 Home Page (Home Page of Master Dharmagupta)

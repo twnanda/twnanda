@@ -3,7 +3,7 @@
 
 :date: 2000-12-02
 :modified: 2011-08-14
-:oldurl: http://nanda.online-dhamma.net/Temples/Dhrhvatan/dhrhvatan.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Temples/Dhrhvatan/dhrhvatan.htm
 :tags: 府城地區寺院、道場
 :category: 府城地區寺院、道場
 :summary: 府城德化堂

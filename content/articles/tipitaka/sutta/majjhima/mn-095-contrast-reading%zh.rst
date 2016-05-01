@@ -3,7 +3,7 @@
 
 :date: 2013-12-07
 :modified: 2013-12-07
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/mn.095.contrast-reading.html
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/mn.095.contrast-reading.html
 :tags: 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
 :summary: 中部 095 商伽經 (闡基經, MN 95 Caṅkīsuttaṃ, Canki Sutta: With Canki, To the Brahmin Canki)對讀

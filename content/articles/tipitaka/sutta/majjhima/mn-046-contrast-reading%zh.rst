@@ -3,7 +3,7 @@
 
 :date: 2014-06-04
 :modified: 2015-01-09
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/mn.046.contrast-reading.html
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/mn.046.contrast-reading.html
 :tags: 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
 :summary: 中部 46 得法大經 (大行法經, MN 46 mahādhammasamādānasuttaṃ,

@@ -3,7 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-07-10
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/index_Han_Pali.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Visuddhimagga/index_Han_Pali.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 漢巴名詞索引

@@ -3,7 +3,7 @@
 
 :date: 2004-03-07
 :modified: 2004-03-07
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Story101.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Story101.htm
 :author: 護法法師
 :tags: 法句經, 法句經故事集, 尊者的足跡－南傳法句經的故事。
 :category: 尊者的足跡－南傳法句經的故事。

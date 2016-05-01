@@ -3,7 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-06-21
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/notification.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Visuddhimagga/notification.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 清淨道論－－凡 例 (Notification of Visuddhi Magga)

@@ -3,7 +3,7 @@
 
 :date: 2012-07-02
 :modified: 2012-07-09
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/mn.047.contrast-reading.html
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/mn.047.contrast-reading.html
 :tags: 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
 :summary: 中部 047 審察經 (思察經,

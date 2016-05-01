@@ -2,7 +2,7 @@
 ##############
 
 :date: 2002-07-07
-:oldurl: http://nanda.online-dhamma.net/MiauCim/8buddhap.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/MiauCim/8buddhap.htm
 :tags: 小東山妙心寺, 府城地區寺院、道場
 :category: 小東山妙心寺
 :summary: 佛說八大人覺經

@@ -3,7 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-06-27
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap06.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Visuddhimagga/chap06.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 第六 說不淨業處品 -- 清淨道論

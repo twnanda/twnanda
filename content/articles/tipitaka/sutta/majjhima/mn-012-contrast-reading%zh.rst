@@ -3,7 +3,7 @@
 
 :date: 2012-05-05
 :modified: 2012-05-06
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/mn.012.contrast-reading.html
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/mn.012.contrast-reading.html
 :tags: 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
 :summary: 中部 012 獅子吼大經 (MN 12 Mahasihanada Sutta, The Great Discourse on the Lion's Roar)對讀

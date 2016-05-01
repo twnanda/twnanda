@@ -3,7 +3,7 @@
 
 :date: 2012-04-22
 :modified: 2012-05-03
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/mn.036.contrast-reading.html
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/mn.036.contrast-reading.html
 :tags: 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
 :summary: 中部 036 薩迦大經 (MN 36: Mahasaccaka Sutta, The Longer Discourse to Saccaka)對讀

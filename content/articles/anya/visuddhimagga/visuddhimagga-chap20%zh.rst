@@ -3,7 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-06-20
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Post-Canon/Visuddhimagga/chap20.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Visuddhimagga/chap20.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 第二十 說道非道智見清淨品 -- 清淨道論

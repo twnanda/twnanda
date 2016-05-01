@@ -2,7 +2,7 @@
 ########
 
 :date: 2002-07-07
-:oldurl: http://nanda.online-dhamma.net/MiauCim/magazine.htm
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/MiauCim/magazine.htm
 :tags: 小東山妙心寺, 府城地區寺院、道場
 :category: 小東山妙心寺
 :summary: 妙心雜誌 (Magazine of Miau Cim Temple)

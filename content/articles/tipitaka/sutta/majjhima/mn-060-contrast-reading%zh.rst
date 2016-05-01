@@ -3,7 +3,7 @@
 
 :date: 2012-04-22
 :modified: 2012-07-01
-:oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Majjhima/mn.060.contrast-reading.html
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/mn.060.contrast-reading.html
 :tags: 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
 :summary: 中部 060 無疑經 (無諍經, MN 60 Apannaka Sutta, A Safe Bet)對讀
