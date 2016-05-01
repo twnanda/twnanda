@@ -75,7 +75,7 @@
 
 ----
 
-- `當代南傳佛教大師(LIVING BUDDHIST MASTERS) <http://nanda.online-dhamma.net/Theravadian-Masters/Theravadian-Masters.htm>`_
+- `當代南傳佛教大師(LIVING BUDDHIST MASTERS) <{filename}/extra/authors/jack-kornfield/living-buddhist-masters/Theravadian-Masters.htm>`_
 
 ----
 
@@ -94,7 +94,7 @@
 ----
 
 - 《煩惱熄滅--　隆波連佛法開示錄與傳略》：
-  `PDF (16.8 MB) <http://nanda.online-dhamma.net/lib/authors/liem/Ajahn_Liem-No-Worries.pdf>`__ ；
+  `PDF (16.8 MB) <{filename}/extra/authors/ajahn-liem/Ajahn_Liem-No-Worries.pdf>`__ ；
   原始出處： `No worries <http://www.dhammatalks.net/Chinese/Ajahn_Liem-No-Worries.pdf>`_
   - 17MB PDF (Original from:
   `for Knowing and Seeing-- a Handful of Leaves <http://www.dhammatalks.net/index2.htm#Chinese>`_);
