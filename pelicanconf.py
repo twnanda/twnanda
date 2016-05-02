@@ -3,8 +3,10 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Nanda Lau'
+NANDA_EMAIL = u'tw.nanda@gmail.com'
 SITENAME = u'府城佛教網'
 SITEURL = ''
+MIRROR_SITEURL = 'http://myweb.ncku.edu.tw/~lsn46/'
 
 PATH = 'content'
 

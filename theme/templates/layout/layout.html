@@ -28,11 +28,11 @@
 {%- block content -%}{%- endblock -%}
 
 <footer class="layout-footer">
-  <div>府城佛教網<a href="http://myweb.ncku.edu.tw/~lsn46/">（mirror 站）</a></div>
+  <div>府城佛教網<a href="{{ MIRROR_SITEURL }}">（mirror 站）</a></div>
   <hr>
   <strong>
   {%- block nanda_email -%}
-    Nanda歡迎<a href="mailto:tw.nanda@gmail.com">來函</a>指教！
+    Nanda歡迎<a href="mailto:{{ NANDA_EMAIL }}">來函</a>指教！
   {%- endblock -%}
   </strong>
   <hr>

@@ -10,7 +10,9 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
+NANDA_EMAIL = u'lsn46@mail.ncku.edu.tw'
 SITEURL = 'http://myweb.ncku.edu.tw/~lsn46'
+MIRROR_SITEURL = 'http://nanda.online-dhamma.net/'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = None
