@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>404 找無(Not Found)</title>
+  <style>
+    .container {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>404 找無(Not Found)</h1>
+  <div><a id="link" href="/">建議嘗試此連結</a></div>
+  <div>或</div>
+  <div><a href="/">回到首頁</a></div>
+</div>
+
+<script>
+  var prefix = "http://myweb.ncku.edu.tw/~lsn46";
+  var redirect_url = prefix + window.location.pathname;
+  var linkElm = document.getElementById("link");
+  linkElm.href = redirect_url;
+</script>
+</body>
+</html>

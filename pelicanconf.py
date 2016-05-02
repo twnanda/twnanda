@@ -18,6 +18,7 @@ STATIC_PATHS = ['articles', 'extra']
 EXTRA_PATH_METADATA = {
   'extra/robots.txt': {'path': 'robots.txt'},
   'extra/CNAME': {'path': 'CNAME'},
+  'extra/404.html': {'path': '404.html'},
   'extra/img/yezi.png': {'path': 'favicon.ico'},
 }
 
