@@ -79,3 +79,6 @@ def hidden_pages_get_page_with_slug_index(hidden_pages):
 JINJA_FILTERS = {
     "hidden_pages_get_page_with_slug_index": hidden_pages_get_page_with_slug_index,
 }
+
+# Google Custom Search
+GOOGLE_CSE = '000759460633137666077:lx1yueta8ju'

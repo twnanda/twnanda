@@ -61,6 +61,7 @@
       </div>
     </aside>
     <hr>
+    {% if GOOGLE_CSE %}<gcse:search></gcse:search>{% endif %}
     <div class="main-content">{{ content.content }}</div>
     <footer>{% block article_metadata %}{% endblock %}</footer>
   </article>
