@@ -1,4 +1,4 @@
-:modified: 2016-02-23T10:30+08:00
+:modified: 2016-05-04T10:30+08:00
 :slug: index
 :lang: zh
 :status: hidden
@@ -33,11 +33,10 @@
 
 ----
 
-- 府城地區寺院、道場、學佛社團
+- 府城地區寺院、道場
 
   * `妙心寺(臺南) <{filename}/articles/miaucim/introduction-to-miau-sim-temple%zh.rst>`_
   * `府城地區其他寺院、道場 <{filename}/articles/temples/list-of-temples%zh.rst>`_
-  * 學佛社團
 
 - 《(南傳) `巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`_ 》
 
@@ -81,6 +80,7 @@
     ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_])
 
 ..
+  05.04 del: 學佛社團
   02.04 2016 rev. 法句經 old:Tipitaka/Sutta/Khuddaka/Dhammapada/Dhammapada.htm;
                 覺悟之路 old:http://http//anicca.online-dhamma.net/
                 hide:巴利藏閱讀輔具計劃(Tipitaka for Pali Learner Project)：簡介； 工作細項(Updated:01.25 '13)、
