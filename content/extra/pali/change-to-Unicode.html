@@ -1,0 +1,174 @@
+﻿<html>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+</HEAD>
+<title>將舊有以不同字型(例如 foreign1, Kh2 或 VriRomanPali CN, Times_CSX+)羅馬化轉寫巴利語之檔案換為 Unicode字型</title>
+<body bgcolor=C7EDCC text=black link=C4870E vlink=F00CD9 alink=red>
+<center>
+<h1>將舊有以不同字型<br><font size=-2>(例如 foreign1, Kh2 或 VriRomanPali CN, Times_CSX+)</font><br>羅馬化轉寫巴利語之檔案，<br>藉由 ms Word 巨集換為 Unicode字型步驟
+</h1>
+</center>
+<HR>
+
+<h4>資訊更新日期: 11.17, <a href="http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86">佛曆</a> (<a href="http://en.wikipedia.org/wiki/Buddhist_calendar">BE</a>)
+ 2557; <a href="http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83">西元</a> 2014 <a href="http://en.wikipedia.org/wiki/Common_Era">CE</a>)
+  <!-- Buddhist-Era-wiki-Han.htm; Buddhist-Era-wiki-Eng.htm //-->
+</h4>
+<HR>
+<center>
+<h2>藉由 Word 巨集操作的步驟</h2>
+<h3>（以〝毗婆舍那禪〞 一書，處理 foreign1 轉 Unicode 的文字為例。）<br>
+※※※ 其他字型請參考<a href="#others">文末</a> ※※※</h3>
+</center>
+<ol>
+ <li>開啟 Word 檔，執行主功能表的 工具 → 巨集 → 巨集 ... , 即下圖紅框處.</li>
+
+<img src="macro-Uni-01.jpg">
+ <p>
+ <li>出現一個巨集的對話框, 先在中間下方 〝巨集作用於〞 下拉選擇 〝Normal.dot (共用範本)〞 , 如此一來, 此巨集可以適用在其它 word 檔案,
+若不希望如此, 最後也可以刪除它. </li>
+ <p>
+然後在上方巨集名稱輸入 〝for2uni〞 , 這是取 foreign1 to unicode 的意思.
+ <p>
+然後按下右方的 〝建立〞 .
+  <p>
+<img src="macro-Uni-02.jpg">
+  <p>
+  <li>按下建立後, 即會有如下視窗出現, 並有一小段程式, 如下圖紅框處.</li>
+ <p>
+請將這些文字全部刪除.
+  <p>
+<img src="macro-Uni-03.jpg">
+  <p>
+ <li>再把 〝<a href="for2uni-macro.txt">for2uni-macro.txt</a>〞的內容全部複製<br>
+ (或將滑鼠點上面〝for2uni-macro.txt〞這個鏈結 → 按右鍵　→ 〝另存新檔〞或〝另存連結為〞→〝存檔〞→ 再以〝記事簿〞將其開啟 → 全選 → 複製)　並貼入視窗中, 如下圖所示.</li>
+  <p>
+完成後可以選左上方的儲存, 並關閉此視窗, 就會回到 word 視窗.
+  <p>
+<img src="macro-Uni-04.jpg">
+  <p>
+ <li>回到 word 視窗後, 再次執行主功能表的 工具 → 巨集 → 巨集 ... , 即下圖紅框處.</li>
+  <p>
+<img src="macro-Uni-05.jpg">
+ 
+ <li>此時可以看到有一個巨集 for2uni 在裡面.</li>
+若沒看到, 中間的 〝巨集作用於〞 請下拉選擇 〝Normal.dot (共用範本)〞
+  <p>
+選擇 for2uni 後, 再按下執行, 就會把整篇 word 中的 foreign1 字型全部換成 unicode 字型.
+  <p>
+完成後, 若不想保留此巨集, 只要按下 〝刪除〞 即可.
+  <p>
+ <img src="macro-Uni-06.jpg">
+ <p>
+ <li>這是處理前的畫面, 選擇的文字字型是 〝Foreign1〞</li>
+  <p>
+<img src="macro-Uni-07.jpg">
+  <p>
+ <li>這是處理後的畫面, 選擇的文字字型是 〝Arial Unicode MS〞</li>
+  <p>
+<img src="macro-Uni-08.jpg">
+  <p>
+ <li>整個程式的原理, 是利用 word 的取代功能, 底下的意思就是</li>
+  <p>
+把 Foreign1 字型的 a , 全部換成 Arial Unicode MS 字型的 ā
+  <p>
+而字型的選擇方法, 就是先把游標分別放在 a 及 ā 的輸入欄位中, 並按下最底下的〝格式〞 → 〝字型〞
+就可以選擇要取代的字型了. 若沒有選擇字型, 則是不論什麼字型都要取代, 那就不是我們所要的了.
+  <p>
+程式就是把大小寫由 a 到 z 全部取代一次。(沒有 c, x, z )
+</ol>
+  <p>
+<img src="macro-Uni-09.jpg">
+  <p>
+*** 轉好的Word文件，若發覺 unicode 字元好像變寬了，可以全部選擇，字型選〝Times New Roman〞就正常了。
+    <blockquote>
+*** Macro script for Foreign1 to Unicode for MS Word on Windows: <a href="for2uni-macro.txt">for2uni-macro.txt</a> ***
+    </blockquote>
+<hr noshade>
+<a name="others">
+<h3>
+<li><a href="#merged-to-Uni-macro">整合多種字型(foreign1, Kh2, Times_CSX+, VriRomanPali_CN and VriRomanPali_CB) 轉 Unicode</a>、
+<li><a href="#Kh2">Kh2 字型轉 Unicode</a>、
+<li><a href="#Times_CSX">Times_CSX+ 字型轉 Unicode</a>、
+<li><a href="#VriRomanPali_CN or VriRomanPali_CB">VriRomanPali_CN or VriRomanPali_CB 字型轉 Unicode</a>
+</h3>
+<hr>
+<a name="merged-to-Uni-macro">
+<p>
+<p style="text-align: left;">　　<font size=+2>若</font>欲將多種字型(例如 foreign1, Kh2, Times_CSX+, VriRomanPali_CN and VriRomanPali_CB)轉為 Unicode 字型：則於步驟2 中建立 〝merged2Uni〞 巨集 ( multifonts merged to unicode)，再於步驟 4 中，以 〝<a href="to-Uni-macro-utf8.txt">to-Uni-macro-utf8.txt</a>〞的內容全部複製<br>
+ (或將滑鼠點上面〝to-Uni-macro-utf8.txt〞這個鏈結 → 按右鍵　→ 〝另存新檔〞或〝另存連結為〞→〝存檔〞→ 再以〝記事簿〞將其開啟 → 全選 → 複製)　並貼入視窗中。</p>
+  <p>
+<p style="text-align: left;">　　<font size=+2>其</font>他與前面所述之 for2uni 類推！</p>
+    <blockquote>
+*** Macro script for multi-fonts (including foreign1, Kh2, Times_CSX+, VriRomanPali_CN and VriRomanPali_CB) to Unicode for MS Word on Windows: <a href="to-Uni-macro-utf8.txt">to-Uni-macro-utf8.txt</a> ***
+    </blockquote>
+<hr noshade>
+<a name="Kh2">
+  <p>
+<p style="text-align: left;">　　<font size=+2>若</font>為 Kh2 字型：則於步驟2 中建立 〝KH22Uni〞 巨集 ( Kh2 to unicode)，如下圖：</p>
+  <p>
+<img src="macro-Uni-10.jpg">
+  <p>
+<p style="text-align: left;">　　<font size=+2>再</font>於步驟 4 中，以 〝<a href="Kh2-to-Uni-macro.txt">Kh2-to-Uni-macro.txt</a>〞的內容全部複製<br>
+ (或將滑鼠點上面〝Kh2-to-Uni-macro.txt〞這個鏈結 → 按右鍵　→ 〝另存新檔〞或〝另存連結為〞→〝存檔〞→ 再以〝記事簿〞將其開啟 → 全選 → 複製)　並貼入視窗中。</p>
+  <p>
+<p style="text-align: left;">　　<font size=+2>其</font>他與前面所述之 for2uni 類推！</p>
+  <p>
+    <blockquote>
+*** Macro script for KH2 to Unicode for MS Word on Windows: <a href="Kh2-to-Uni-macro.txt">Kh2-to-Uni-macro.txt</a> ***
+    </blockquote>
+<hr noshade>
+
+<a name="Times_CSX">
+<p style="text-align: left;">　　<font size=+2>若</font>為 Times_CSX+ 字型：則於步驟2 中建立 〝TimesCSX2Uni〞 巨集 ( TimesCSX+ to unicode)，再於步驟 4 中，以 〝<a href="Times_CSX-to-Uni-macro.txt">Times_CSX-to-Uni-macro.txt</a>〞的內容全部複製<br>
+ (或將滑鼠點上面〝Times_CSX-to-Uni-macro.txt〞這個鏈結 → 按右鍵　→ 〝另存新檔〞或〝另存連結為〞→〝存檔〞→ 再以〝記事簿〞將其開啟 → 全選 → 複製)　並貼入視窗中。</p>
+  <p>
+<p style="text-align: left;">　　<font size=+2>其</font>他與前面所述之 for2uni 類推！</p>
+    <blockquote>
+*** Macro script for Times_CSX+ to Unicode for MS Word on Windows: <a href="Times_CSX-to-Uni-macro.txt">Times_CSX-to-Uni-macro.txt</a> ***
+    </blockquote>
+<hr noshade>
+<p>
+<a name="VriRomanPali_CN or VriRomanPali_CB">
+  <p>
+<p style="text-align: left;">　　<font size=+2>若</font>為 VriRomanPali_CN or VriRomanPali_CB 字型：則於步驟2 中建立 〝VriRomanPaliCN_B_Latin2Uni〞 巨集 ( VriRomanPali_CN and VriRomanPali_CB to unicode)，再於步驟 4 中，以 〝<a href="VriRomanPali_CNB-non-Latin-Win-to-Uni-macro-utf8.txt">VriRomanPali_CNB-non-Latin-Win-to-Uni-macro-utf8.txt</a>〞的內容全部複製<br>
+ (或將滑鼠點上面〝VriRomanPali_CNB-non-Latin-Win-to-Uni-macro-utf8.txt〞這個鏈結 → 按右鍵　→ 〝另存新檔〞或〝另存連結為〞→〝存檔〞→ 再以〝記事簿〞將其開啟 → 全選 → 複製)　並貼入視窗中。</p>
+  <p>
+<p style="text-align: left;">　　<font size=+2>其</font>他與前面所述之 for2uni 類推！</p>
+  <p>
+  <blockquote>
+<p style="text-align: left;">　　<font size=+2>備註：</font>若於英文版視窗或無法執行，請改為：則於步驟2 中建立 〝VriRomanPaliCN_B_Latin2Uni〞 巨集 ( VriRomanPali_CN and VriRomanPali_CB to unicode)，再於步驟 4 中，以 〝<a href="VriRomanPali_CNB-Latin-Win-to-Uni-macro-utf8.txt">VriRomanPali_CNB-Latin-Win-to-Uni-macro-utf8.txt</a>〞的內容全部複製<br>
+ (或將滑鼠點上面〝VriRomanPali_CNB-Latin-Win-to-Uni-macro-utf8.txt〞這個鏈結 → 按右鍵　→ 〝另存新檔〞或〝另存連結為〞→〝存檔〞→ 再以〝記事簿〞將其開啟 → 全選 → 複製)　並貼入視窗中。</p>
+  <p>
+<p style="text-align: left;">　　<font size=+2>其</font>他與前面所述之 for2uni 類推！</p>
+  <p>
+  Macro script for VriRomanPali CN and CB font to Unicode for MS Word on Latin-Windows (e.g. English, German, French, etc. Windows): <a href="VriRomanPali_CNB-Latin-Win-to-Uni-macro-utf8.txt">VriRomanPali_CNB-Latin-Win-to-Uni-macro-utf8.txt</a>
+  </blockquote>
+  <hr>
+  <p>
+<font size=+1>*** 感謝 <u><b>Heaven Chou</b></u> ( Heaven Chou 的 <a href="http://heavenchou.buddhason.org/">網站</a> 、 <a href="https://www.facebook.com/heavenchou"> FB</a> )、<u><b>Gregory Chou (周)</u></b>　兩位工程師　師兄提供以上技術資訊！</font>
+<p>
+*** The editor of this webpage want to thank <b>Db. Heaven Chou</b> (Mr. Heaven Chou's <a href="http://heavenchou.buddhason.org/">website</a> and <a href="https://www.facebook.com/heavenchou"> FB </a>) and <b>Db. Gregory Chou</b>, who kindly provide the support of information technics. ***
+  <hr>
+<p>
+<font size=-2>
+最近更新(last updated): 11.17 (兩個檔案：to-Uni-macro-utf8.txt & Times_CSX-to-Uni-macro.txt)<br>
+Ver. 2: 10.22, 初版(1<sup>st</sup> ed.): 09.13
+</font>
+<hr noshade>
+<h2><li>回到<a href="../dharma.htm">府城佛教網</a></h2>
+<p>
+<a href="mailto:lsn46@mail.ncku.edu.tw">歡迎指教!</a>
+<p>
+</body>
+<!--
+06.11 2015 rev. old:*** 轉好的Word文件，若發覺unicode字元好像變寬了，可以全部複製，再貼(Paste)到新文件上就正常了。
+11.17 rev. to-Uni-macro-utf8.txt & Times_CSX-to-Uni-macro.txt
+10.22 add: English acknowlege
+10.21 add: Times_CSX, VriRomanPali_CN or VriRomanPali_CB 轉為 Unicode字型
+10.11 Rev. old:將舊有轉寫巴利語之字型(例如 foreign1 或 Kh2)轉為 Unicode字型; 小武; (西元 AD 2014) 
+bgcolor="sea green" text="#000000;" link="#C4870E;" vlink="#F00CD9;"
+alink=red  #C7EDCC; 
+09.13 2014 created
+//-->
+</html>
