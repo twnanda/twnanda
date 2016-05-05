@@ -19,7 +19,7 @@
 ----
 
 - `台南德化堂`_ （取自： `維基百科`_ ）。
-- `德化堂 <{filename}/extra/authors/dhrhwatan/Culture-apx3-7.html>`__ 〔原置於文化建設委員會( `文化部 <http://www.moc.gov.tw/>`__ )網站之台南市古蹟使用調查與評估--附錄--靜修地類古蹟，現已移除；沿用本網站之歷史庫存檔。〕
+- `德化堂 <{filename}/extra/temples/dhrhwatan/Culture-apx3-7.html>`__ 〔原置於文化建設委員會( `文化部 <http://www.moc.gov.tw/>`__ )網站之台南市古蹟使用調查與評估--附錄--靜修地類古蹟，現已移除；沿用本網站之歷史庫存檔。〕
 
   | 另可參考「 `國家圖書館`_ 」內【 `臺灣鄉土文獻影像資料庫`_ 】中之 `臺南市古蹟使用調查與評估`_ ）。
   | 
@@ -42,7 +42,7 @@
 - `德化堂 <http://www.tnwcdo.gov.tw/culture01a.asp?ID=%7B3FDFEF37-A30C-4A76-8B5B-350C9B8DD253%7D>`__ -- 台南市中西區公所- `古蹟瀏覽 <http://www.tnwcdo.gov.tw/culture01.asp>`__
 
 - `德化堂 <http://asc.tnc.gov.tw/index.php/media/placedetail/89/>`__ -- 臺南市政府文化局影視支援中心
-- `德化堂 <{filename}/extra/authors/dhrhwatan/3.htm>`__ （原置於「風月無情--個性小舖」站之「古蹟巡禮」，現已移除；沿用本網站之歷史庫存檔）。
+- `德化堂 <{filename}/extra/temples/dhrhwatan/3.htm>`__ （原置於「風月無情--個性小舖」站之「古蹟巡禮」，現已移除；沿用本網站之歷史庫存檔）。
 - `德化堂 <http://www.dang.idv.tw/temple/t13.htm>`_
   （ `鯤島本土文化園地`_ -- `府城廟宇巡禮`_ -13）。
 - `從龍華教到佛教---光復前台南德化堂的歷史。 <http://ccbs.ntu.edu.tw/FULLTEXT/JR-BJ010/bj97036.htm>`_

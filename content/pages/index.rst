@@ -40,7 +40,7 @@
 
 - 《(南傳) `巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`_ 》
 
-  * `巴利語 <{filename}/articles/uncategorized/paali%zh.rst>`_
+  * `巴利語 <{filename}/articles/pali/paali%zh.rst>`_
     大藏經 `概要 <{filename}/articles/tipitaka/tipitaka%zh.rst>`_
     、漢譯、英譯(備註：尚未完備;逐次增加中)。
 
