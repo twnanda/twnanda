@@ -24,13 +24,27 @@
 
 - `轉寫巴利語之各種字型字元對應 (Romanized Pāḷi Character Mapping) <{filename}/extra/pali/Romanized-Paali-Character-font-Mapping-naVriCB.pdf>`__
 
+----
+
+- `巴利語字典 <http://dictionary.sutta.org/>`_ : Pāli to English, Chinese, Japanese, Vietnamese, Burmese Dictionary 整合巴漢、巴日、巴英多種字典
+
+  * `備用站一 <https://palidictionary.appspot.com/>`_
+
+  * `備用站二 <https://siongui.github.io/pali-dictionary/>`_
+
+----
+
 - `簡明巴英詞典 <{filename}/extra/pali/Concise-Pali-Han-Maha.html>`__ (Concise Pali-English Dictionary), A.P. Buddhadatta Mahāthera 原著, 大馬比丘 **漢譯** ; 「法雨道場」訂正，補充。2005.4. `PDF <{filename}/extra/pali/Concise-Pali-Han-Maha.pdf>`__ ; `RST <{filename}/extra/pali/Concise-Pali-Han-Maha.rst>`__
 
 - `簡明巴英詞典 <{filename}/extra/pali/Concise-Pali-Han-Maha-Ver-B.html>`__ (Concise Pali-English Dictionary), A.P. Buddhadatta Mahāthera 原著,  大馬比丘 漢譯; Digital Edition: Marcus Bingenheimer with Shi Zhanghui 釋章慧, Guan Zefu 關則富, Yue Jiandong 越建東, Zhuang Guobin 莊國彬, Huang Yumei 黃玉媺, Cai Bolang 蔡伯郎; Digital Edition Version 1.0 (Autumn 2005); `PDF <{filename}/extra/pali/Concise-Pali-Han-Maha-Ver-B.pdf>`__ 
 
 - `巴漢辭典（附 巴利字索引） <{filename}/extra/pali/Pali-han-Liau.html>`__，譯者：（台灣．斗六）廖文燦； 2009.4. `PDF <{filename}/extra/pali/Pali-han-Liau.pdf>`__ ; `RST <{filename}/extra/pali/Pali-han-Liau.rst>`__
 
+----
+
 - `把【巴利專有名詞新音譯方案】的文字(例如苟答馬、阿拉漢、比庫等等)藉由 ms Word 巨集 回復為一般譯名(喬答摩、阿羅漢、比丘等等) <{filename}/extra/pali/pali-term-recover-normal-macro.html>`__ ； `PDF <{filename}/extra/pali/pali-term-recover-normal-macro.pdf>`__ ； 請參考： `〈「喬答摩」沒有必要「規範」為「果德瑪」〉迴響輯要  <{filename}/extra/pali/pali-term-change-response.html>`__ , `PDF <{filename}/extra/pali/pali-term-change-response.pdf>`__ 
+
+----
 
 - `巴利語-漢語-英語-日語 電子助讀辭典 <http://dhamma.sutta.org/pali-course/Pali-Chinese-English%20Dictionary.html>`_ [1]_
 
@@ -49,14 +63,6 @@
 - `The Pali alphabets in Devanagari and Roman characters--Extension(123) <{filename}/extra/pali/Devanagari/P-D-R123.htm>`__ .
 
 - `天城體文字 <http://jianrenṭripod.com/devanagari.html>`_ 。
-
-----
-
-- `巴利語字典 <http://dictionary.sutta.org/>`_ : Pāli to English, Chinese, Japanese, Vietnamese, Burmese Dictionary 整合巴漢、巴日、巴英多種字典
-
-  * `備用站一 <https://palidictionary.appspot.com/>`_
-
-  * `備用站二 <https://siongui.github.io/pali-dictionary/>`_
 
 - `Pali_Chinese_Group·巴利語討論群(中文) <https://hk.groups.yahoo.com/neo/groups/Pali_Chinese_Group/info>`_
 
