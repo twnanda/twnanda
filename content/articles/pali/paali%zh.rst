@@ -2,7 +2,6 @@
 #################################
 
 :date: 2016-02-13T16:05+08:00
-:oldurl: http://mywebṇcku.edu.tw/~lsn46/Pali/pāli.htm
 :tags: Pali
 :category: 未分類
 :summary: 巴利語 Pali Language (Pāli Bhāsā)
@@ -134,3 +133,5 @@
   Devanagari(Open Learning Hindi). (http://www.latrobe.edu.au/indiangallery/devanagari.htm)
 
   巴利語字典 : Pāli to English, Chinese, Japanese, Vietnamese, Burmese Dictionary 整合巴漢、巴日、巴英多種字典  備用站一 備用站二 (07.21 2012)
+
+  :oldurl:http://myweb.ncku.edu.tw/~lsn46/Pali/pāli.htm
