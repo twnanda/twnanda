@@ -1,0 +1,170 @@
+/* CSS Document */
+  
+        
+/* ++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* +++ BETA VERSION +++ */
+/* ++++++++++++++++++++++++++++++++++++++++++++++++++ */
+body	{
+	margin: 0;
+	padding: 0;
+	background-color: rgb(176,162,152);
+	font-family: georgia, serif;
+	}
+	
+	A:link {text-decoration: none ; }
+	A:link {color: #0000ff ; }
+	
+	A:visited {text-decoration:  none }
+	A:active {text-decoration: none;}
+
+       .sf {font-family:georgia, serif;font-size:10pt;color:#000000;}
+
+
+#container	{
+	background-color: white;
+	width: 775px;
+	position: relative;
+	margin: 10px auto;
+	background-image: url(strip.gif); /* TO BE ADDED LATER */
+	background-repeat: repeat-y;
+	}
+
+
+#header	{
+	height: 120px;
+	background-color: white;
+	padding: 0;
+	margin: 0;
+	background-image: url(header.gif);
+	background-repeat: no-repeat;
+	border-bottom: 1px solid gray;
+	}
+#header img	{
+	float: left;
+	margin: 4px 0 4px 20px;
+	}
+#header h1 	{
+	padding: 40px 0 0 0px;
+	margin: 0 0 0 160px;
+	}
+	
+	h3 {
+	color: #aa33ff;
+	}
+	
+	
+	
+#header a:link {text-decoration: none ; }
+#header a:visited 	{
+	color: rgb(1,58,108);
+	text-decoration: none;
+	}
+
+
+#main	{
+	margin: 0 10px 1em 240px;
+	padding: 0;
+	min-height: 30em;
+	}
+
+
+#navbar	{
+	width: 200px;
+	position: absolute;
+	top: 120px;
+	background-color: rgb(1,58,108);
+	font-family: verdana, sans-serif;
+	}
+#navbar a:link	{
+	color: white;
+	}
+#navbar	{
+	position: absolute;
+	left: 0;
+	font-size: 0.8em;
+	font-weight: bold;
+	background-color: rgb(1,58,108);
+	font-family: verdana, sans-serif;
+	}
+#navbar a:link , #navbar a:visited	{
+	display: block;
+	padding: 0.5em 0 0.5em 10px;
+	margin: 0;
+	text-decoration: none;
+	border-top: 1px solid rgb(176,162,152);
+	color: white;
+	width: 100%;
+	voice-family: "\"}\"";
+	voice-family: inherit;
+	width: 190px;
+	}
+html > body #navbar a	{
+	width: auto;
+	}
+#navbar a:hover	{
+	color: black;
+	background: rgb(206,234,253);
+	}
+
+
+#footer	{
+	border-bottom: 10px solid rgb(176,162,152);
+	background-color: rgb(1,58,108);
+	padding: 1em 0;
+	color: white;
+	font-family: verdana, sans-serif;
+	}
+#footer a:link, #footer a:visited	{
+	color: white;
+	}
+#footer a:hover	{
+	color: rgb(176,162,152);
+	}
+#footer p  	{
+	text-align: center;
+	margin: 0;
+	font-size: 80%;
+	}
+
+
+p , ul , li	{
+	margin-top: 0;
+	}
+#main a:link	{
+	text-decoration: none ; 
+	}
+	
+	
+#main a:visited	{
+	text-decoration:  none
+	}
+#main a:hover	{
+	background-color: rgb(1,58,108);
+		color: white;
+	}
+ol li, ul li{
+	line-height: 1.5em;
+	}
+ul li 	{
+	list-style-type: square;
+	}
+
+
+#main table   {
+	border-collapse: collapse;
+	
+	}
+#main th	{
+	color: white;
+	background-color: rgb(1,58,108);
+	border: 1px solid white;
+	padding: .5em;
+	font-family: verdana, sans-serif;
+	
+	}
+#main td	{
+	border: 1px solid rgb(1,58,108);
+	padding: .5em; 
+	
+	
+	}
