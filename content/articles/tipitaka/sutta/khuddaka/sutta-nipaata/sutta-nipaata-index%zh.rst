@@ -30,7 +30,7 @@ Availability of English translations (Print:):
 
 **目錄(繁體)**
 
-- `經集介紹與討論 <{filename}Snp-discuss.html>`_
+- `經集介紹與討論 <{filename}/extra/tipitaka/sutta/khuddaka/sutta-nipaata/Snp-discuss.html>`_
 - 第一品　蛇品
 - 第二品　小品
 - 第三品　大品

@@ -196,7 +196,7 @@ V. `Khuddaka-nikaya 小部 (Khuddaka-nikaaya)[The Division of Short Books(PS:17 
 ----
 
 
-`Abhidhamma Pitaka 論藏 (Abhidhamma Pi.taka) <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Abhidhamma.htm>`_
+`Abhidhamma Pitaka 論藏 (Abhidhamma Pi.taka) <{filename}abhidhamma/abhidhamma%zh.rst>`_
 
 (The collection of texts in which the underlying doctrinal principles presented in the Sutta Pitaka are reworked and reorganized into a systematic framework that can be applied to an investigation into the nature of mind and matter):
 
