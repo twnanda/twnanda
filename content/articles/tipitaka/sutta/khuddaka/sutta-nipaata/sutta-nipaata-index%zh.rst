@@ -30,7 +30,7 @@ Availability of English translations (Print:):
 
 **目錄(繁體)**
 
-- `經集介紹與討論 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/Sutta-nipata/Snp-discuss.html>`_
+- `經集介紹與討論 <{filename}Snp-discuss.html>`_
 - 第一品　蛇品
 - 第二品　小品
 - 第三品　大品
@@ -39,7 +39,7 @@ Availability of English translations (Print:):
 
 ----
 
-`選譯(臺灣。高雄) <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/man-o-r.htm>`_
+`選譯(臺灣。高雄) <{filename}/extra/authors/nanda/man-o-r.htm>`_
 
 ..
   09.08; 
