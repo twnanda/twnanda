@@ -18,6 +18,49 @@
 
 --------------
 
+一、\ `佛陀的正等正覺`_ ： `MN 26`_ 、 `MN 4`_ 、 `MN 36`_ 、 `MN 12`_
+
+| 二、\ `理解正法`_ \ ：1. `智慧的選擇`_ \ ： `AN3_65`_ 、 `MN 60`_
+|  　　　　　　　2. `對佛陀的審察`_ \ ：　\ `MN 47`_
+|  　　　　　　　3. `正信修行與證果`_ \ ：　\ `MN 95`_
+|
+| 三、\ `道德生活`_ \ ：1. `世間四種受報`_ \ ：　\ `MN 46`_ : 
+|  　　　　　　　2. `業果`_ \ ： `MN 57`_ 、 `MN 135`_
+|  　　　　　　　3. `得生善趣`_ \ ： `MN 41`_ 、 `MN 120`_ 
+|  　　　　　　　4. `正語與安忍`_ \ ： `MN 61`_ 、 `MN 21`_
+
+| 四、\ `正觀世間`_ \ ：1. `世間過患`_ \ ：　\ `MN 13`_
+|  　　　　　　　2. `欲樂過患`_ \ ：`MN 54`_ 、 `MN 75`_
+|  　　　　　　　3. `無始輪迴`_ \ ：　\ SN 15 `無始相應`_
+|  　　　　　　　4. `賴吒和羅與尋求解脫`_ \ ：　\ `MN 82`_
+
+| 五、\ `解脫道`_ \ ：1. `修行目的`_ \ ： `MN 63`_ 、 `MN 29`_
+|  　　　　　　2. `修行次第`_ \ ： `MN 27`_ 、 `MN 39`_ 
+|  　　　　　　3. `沙門道跡`_ \ (如何為比丘)：　`MN 40`_
+|  　　　　　　4. `持戒功德`_ \ ：　\ `MN 6`_
+|  　　　　　　5. `心清淨`_ \ ：`MN 19`_ 、 `MN 20`_ 、 `MN 7`_ 、 `MN 8`_
+
+| 六、\ `道品`_ \ ：1. `八正道`_ \ ：`SN45_8`_ 、 `MN 117`_
+|  　　　　　2. `念處`_ \ ：　\ `MN 10`_
+|  　　　　　3. `安那般那念`_ \ ：　\ `MN 118`_
+|  　　　　　4. `證悟的助緣`_ \ ：　\ `MN 77`_
+
+| 七、\ `正慧的修習`_ \ ：1. `正見`_ \ ： `MN 9`_ 、 `MN 11`_ 、 `MN 22`_ 、 `MN 38`_
+|  　　　　　　　　2. `內觀`_ \ ：`MN 148`_ 、 `MN 146`_ 、 `MN 149`_ 、 `MN 28`_
+|  　　　　　　　　3. `捨斷繫著`_ \ ：　\ `MN 66`_
+|  　　　　　　　　4. `究竟解脫`_ \ ： `MN 64`_ 、 `MN 52`_ 、 `MN 140`_
+|  　　　　　　　　5. `聖弟子的類型`_ \ ：　\ `MN 70`_
+| 
+八、\ `如來`_ \ ：　　　　\ MN 12
+
+| 九、\ `僧伽生活`_ \ ：1. `僧伽的和敬生活`_ \ ：　\ `MN 31`_
+|  　　　　　　　2. `理想的僧伽`_ \ ：　\ `MN 32`_
+|  　　　　　　　3. `不馴的僧侶`_ \ ：　\ `MN 65`_
+|  　　　　　　　4. `未來和諧的準則`_ \ ：　\ `MN 104`_
+|  　　　　　　　5. `世尊涅槃之後`_ \ ：　\ `MN 108`_
+
+----------------------
+
 .. _佛陀的正等正覺:
 
 一、 佛陀的正等正覺：
@@ -1257,7 +1300,7 @@ MN 75: Māgandiya Sutta中部75摩犍提經，（\ `中阿含153鬚閑提經 <ht
 
 .. _MN 9:
 
-| 　　　MN 9` : Sammādiṭṭhi Sutta 中部9正見經，（\ `中阿含29大拘絺羅經 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0026_p0461b22>`__
+| 　　　MN 9: Sammādiṭṭhi Sutta 中部9正見經，（\ `中阿含29大拘絺羅經 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0026_p0461b22>`__
 |         　　　　　MA 29, 中阿含經卷第七，（二九）舍梨子相應品大拘絺羅經第九(初一日誦)，或
 | 　　　　　　`雜阿含經（三四四） <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T02n0099_p0094b02>`__
 |         　　　　　SA 344, 雜阿含經卷第十四，（三四四））。
@@ -1339,7 +1382,7 @@ MN 75: Māgandiya Sutta中部75摩犍提經，（\ `中阿含153鬚閑提經 <ht
 
 - 英譯：
 
-  - 22. Alagaddūpama Sutta: The Simile of the Snake `Translated from the Pali by Ven. Bodhi Bhikkhu) <http://www.wisdompubs.org/book/middle-length-discourses-buddha/selections/middle-length-discourses-22-alagaddupama-sutta>`__
+  - 22._ Alagaddūpama Sutta: The Simile of the Snake `Translated from the Pali by Ven. Bodhi Bhikkhu) <http://www.wisdompubs.org/book/middle-length-discourses-buddha/selections/middle-length-discourses-22-alagaddupama-sutta>`__
 
   \*\*\* "This work is licensed under a `Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License <http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US>`_ ." \*\*\*
 
@@ -1392,7 +1435,7 @@ MN 75: Māgandiya Sutta中部75摩犍提經，（\ `中阿含153鬚閑提經 <ht
 
 .. _MN 148:
 
-| 　　　　　MN 148` : Chachaka Sutta中部148六六經，（\ `雜阿含304經 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T02n0099_p0086c23>`__ \ (SA 304, 雜阿含經卷第十三（三○四）或
+| 　　　　　MN 148: Chachaka Sutta中部148六六經，（\ `雜阿含304經 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T02n0099_p0086c23>`__ \ (SA 304, 雜阿含經卷第十三（三○四）或
 | 　　　　　　`中阿含86說處經 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0026_p0562a19>`__ \ (MA 86 (T 26.86) 部份, 中阿含經卷第二十一，（八六）中阿含長壽王品說處經第十五(第二小土城誦)）。
 
 - `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ \ 原典：Chachakkasuttaṃ
@@ -1516,7 +1559,7 @@ MN 75: Māgandiya Sutta中部75摩犍提經，（\ `中阿含153鬚閑提經 <ht
 
 .. _MN 66:
 
-| 　　　　MN 66` : Laṭukikopama Sutta中部66鶉喻經，（\ `中阿含192加樓烏陀夷經 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0026_p0740c15>`__
+| 　　　　MN 66: Laṭukikopama Sutta中部66鶉喻經，（\ `中阿含192加樓烏陀夷經 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0026_p0740c15>`__
 |         　　　　　　 (MA 192, 中阿含經卷第五十（一九二）中阿含大品加樓烏陀夷經第一。
 |         　　　　　　另可參考上述 `四部尼柯耶對應經典目錄 (Online Sutta Correspondence Project) <http://suttacentral.net/>`__　之　`中部尼柯耶對應經典目錄 <http://suttacentral.net/mn>`__ \ ）。
 |
@@ -1755,7 +1798,7 @@ MN 75: Māgandiya Sutta中部75摩犍提經，（\ `中阿含153鬚閑提經 <ht
 
 | 　　　　MN 65: Bhaddāli Sutta中部65跋陀利經，（\ `中阿含194跋陀和利經 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0026_p0746b18>`__
 |         　　　　　　 (MA 194, 中阿含經卷第五十一，雙品第四，（一九四）大品跋陀和利經第三(第五後誦)
-| 　　　　　　另可參考上述之`中部尼柯耶對應經典目錄 <http://suttacentral.net/mn>`__ \ ）。
+| 　　　　　　另可參考上述之 `中部尼柯耶對應經典目錄 <http://suttacentral.net/mn>`__ \ ）。
 
 - `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ \ 原典：Bhaddālisuttaṃ
 
