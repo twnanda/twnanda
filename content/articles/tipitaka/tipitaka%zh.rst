@@ -225,7 +225,7 @@ V. `Khuddaka-nikaya 小部 (Khuddaka-nikaaya)[The Division of Short Books(PS:17 
 --
 
 
-`A~n~na paali gantha 藏外佛典 (Post-canonical Pali Literature) <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Anna_paali_gantha.htm>`_:
+`A~n~na paali gantha 藏外佛典 (Post-canonical Pali Literature) <{filename}../anya/anna-paali-gantha%zh.rst>`_:
 
   - Milindapa~nha 彌蘭王所問經 (Questions of Milinda)
   - Diipava'msa 島王統史 (Island Chronicle)
