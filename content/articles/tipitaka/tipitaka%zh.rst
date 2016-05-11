@@ -172,7 +172,7 @@ IV. `Avguttara-nikaya 增支部 (A"nguttara-nikaaya)(Abr.=A)(The Book of the Gra
   10. Dasakanipaata 十集
   11. Ekaadasakanipaata 十一集
 
-V. `Khuddaka-nikaya 小部 (Khuddaka-nikaaya)[The Division of Short Books(PS:17 in the Thai edition;18 in the Burmese)[Minor Anthologies(SBB)] <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Khuddaka-nikaaya.htm>`_
+V. `Khuddaka-nikaya 小部 (Khuddaka-nikaaya)[The Division of Short Books(PS:17 in the Thai edition;18 in the Burmese)[Minor Anthologies(SBB)] <{filename}sutta/khuddaka/khuddaka-nikaaya%zh.rst>`_
  
   1. `Khuddaka-patha 小誦 (Khuddaka-paa.tha)(Abr.=Khp)(with Commentary PTS); (The short passages) <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/Khuddaka-patha/Khuddaka-patha.html>`_
   2. `Dhammapada 法句 (Abr.=Dhp)(PTS); (The Path of Dhamma) or (The Buddha's Path of Wisdom) <{filename}sutta/khuddaka/dhammapada/dhp%zh.rst>`_
