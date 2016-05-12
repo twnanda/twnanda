@@ -2,21 +2,22 @@
 ########
 
 :date: 2016-02-13T16:05+08:00
+:modified: 2016-05-12 22:00
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/canon-selected.html
 :tags: 
 :category: 未分類
 :summary: 經文選讀
 
 
-- (南傳)法句經;護法法師翻譯自巴利語原典之法句經典故
+- (南傳) `法句經 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp%zh.rst>`__ ; `護法法師 <{filename}/articles/dharmagupta/master-dharmagupta%zh.rst>`__ 翻譯自巴利語原典之 `法句經典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-Ven-Dharmagupta%zh.rst>`__
 
-- 《中部》經典閱讀地圖(長老 菩提比丘教學大綱；“藏經閣外的掃葉人” 漢譯)
+- `《中部》經典閱讀地圖 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst>`__ (長老 菩提比丘教學大綱；“藏經閣外的掃葉人” 漢譯)
   〔“藏經閣外的掃葉人”網誌--
   `【台語與佛典】, 探討漢譯四阿含與巴利五部尼柯耶的教導，也介紹古漢譯和台語的關聯 <http://yifertw.blogspot.com/>`_ 〕
 
 - 法輪轉起經(轉法輪經, 初轉法輪經) Dhammacakkappavattanasuttaṃ
 
-- (南傳巴利語)大般涅槃經(般涅槃大經) Mahāparinibbānasuttaṃ
+- (南傳巴利語) `大般涅槃經(般涅槃大經) Mahāparinibbānasuttaṃ <{filename}/articles/tipitaka/sutta/diigha/dn16/dn16%zh.rst>`__
 
 - (南傳巴利語)大念處經 (念住大經) Mahāsatipaṭṭhānasuttaṃ
 
