@@ -11,7 +11,7 @@ Khuddaka-nikaaya 小部
           [Minor Anthologies(SBB)]
 
 
-1. `Khuddaka-patha 小誦 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/Khuddaka-patha/Khuddaka-patha.html>`_ (Khuddaka-paa.tha)
+1. `Khuddaka-patha 小誦 <{filename}khuddaka-patha/khuddaka-patha%zh.rst>`_ (Khuddaka-paa.tha)
    (Abr.=Khp)(with Commentary PTS); (The short passages)
 
 2. `Dhammapada 法句 <{filename}dhammapada/dhp%zh.rst>`_ (Abr.=Dhp)(PTS);

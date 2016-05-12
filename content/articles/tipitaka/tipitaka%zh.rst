@@ -174,7 +174,7 @@ IV. `Avguttara-nikaya 增支部 (A"nguttara-nikaaya)(Abr.=A)(The Book of the Gra
 
 V. `Khuddaka-nikaya 小部 (Khuddaka-nikaaya)[The Division of Short Books(PS:17 in the Thai edition;18 in the Burmese)[Minor Anthologies(SBB)] <{filename}sutta/khuddaka/khuddaka-nikaaya%zh.rst>`_
  
-  1. `Khuddaka-patha 小誦 (Khuddaka-paa.tha)(Abr.=Khp)(with Commentary PTS); (The short passages) <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/Khuddaka-patha/Khuddaka-patha.html>`_
+  1. `Khuddaka-patha 小誦 (Khuddaka-paa.tha)(Abr.=Khp)(with Commentary PTS); (The short passages) <{filename}sutta/khuddaka/khuddaka-patha/khuddaka-patha%zh.rst>`_
   2. `Dhammapada 法句 (Abr.=Dhp)(PTS); (The Path of Dhamma) or (The Buddha's Path of Wisdom) <{filename}sutta/khuddaka/dhammapada/dhp%zh.rst>`_
   3. Udana 自說 (Udaana)(Abr.=Ud)(PTS); (Exclamations)
   4. Iti-vuttaka 如是語 (Abr.=It)(PTS); (Sayings of Buddha) or (The Thus-saids)
