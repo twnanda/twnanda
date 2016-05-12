@@ -2,7 +2,7 @@
 ================================
 
 :date: 2012-04-03 07:00
-:modified: 2016-05-11 12:00
+:modified: 2016-05-12 15:20
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/maps-MN-Bodhi.html
 :tags: 《中部尼柯耶》閱讀地圖, A Systematic Study of the Majjhima Nikāya--Exploring the Word of the Buddha (BODHI MONASTERY), 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
@@ -312,7 +312,7 @@ Anālayo, Bhikkhu, (2011), *A Comparative Study of the Majjhima-nikāya*, Vol. 1
 
 - 巴、漢、英文對讀：
 
-  -  `本站 <{filename}/extra/tipitaka/anguttara/an03/an03.65.contrast-reading.html>`__
+  -  `本站 <{filename}/extra/tipitaka/sutta/anguttara/an03/an03.65.contrast-reading.html>`__
 
   -  `Online Pāḷi Tipiṭaka <http://tipitaka.sutta.org/>`_ \ ：\ `5. 迦藍磨經(kesamuttisuttaṃ, Aṅguttara Nikāya, 3:65) 蕭式球翻譯比照對讀 <http://tipitaka.sutta.org/canon/sutta/a%E1%B9%85guttara/tikanip%C4%81ta/mah%C4%81vaggo/zh_TW/%E8%95%AD%E5%BC%8F%E7%90%83/ContrastReading>`_ \ （\ `Aṅguttaranikāya (增支部) → Tikanipātapāḷi (三集) → (7) 2. Mahāvaggo (大品) <http://tipitaka.sutta.org/canon/sutta/a%E1%B9%85guttara/tikanip%C4%81ta/mah%C4%81vaggo>`_ \ ）；
 
