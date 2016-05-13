@@ -17,23 +17,23 @@ Khuddaka-patha 小誦 (The Short Passages)
 
 漢文版
 
-1. 三皈文(Saraṇattayaṁ)： `尊者 明法比丘譯 <Khp.1-9.metta.html#khp1>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <Khp.1-9.Guan-Heng.html#khp1>`__
-2. 十戒文(Dasasikkhāpadaṁ)： `尊者 明法比丘譯 <Khp.1-9.metta.html#khp2>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <Khp.1-9.Guan-Heng.html#khp2>`__
-3. 三十二身分(Dvattiṁsākāro)： `尊者 明法比丘譯 <Khp.1-9.metta.html#khp3>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <Khp.1-9.Guan-Heng.html#khp3>`__
-4. 問童子(Kumārapañhā, 問沙彌文)： `尊者 明法比丘譯 <Khp.1-9.metta.html#khp4>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <Khp.1-9.Guan-Heng.html#khp4>`__
-5. 吉祥經(Maṅgalasuttaṁ)： `尊者 明法比丘譯 <Khp.1-9.metta.html#khp5>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <Khp.1-9.Guan-Heng.html#khp5>`__
-6. 寶經(Ratanasuttaṁ, 三寶經)： `尊者 明法比丘譯 <Khp.1-9.metta.html#khp6>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <Khp.1-9.Guan-Heng.html#khp6>`__
-7. 戶外經(Tirokuṭṭasuttaṁ)： `尊者 明法比丘譯 <Khp.1-9.metta.html#khp7>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <Khp.1-9.Guan-Heng.html#khp7>`__
-8. 伏藏經(Nidhikaṇḍasuttaṁ)： `尊者 明法比丘譯 <Khp.1-9.metta.html#khp8>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <Khp.1-9.Guan-Heng.html#khp8>`__
-9. 慈悲經(Mettasuttaṁ)： `尊者 明法比丘譯 <Khp.1-9.metta.html#khp9>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <Khp.1-9.Guan-Heng.html#khp9>`__
+1. 三皈文(Saraṇattayaṁ)： `尊者 明法比丘譯 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.metta.html#khp1>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.Guan-Heng.html#khp1>`__
+2. 十戒文(Dasasikkhāpadaṁ)： `尊者 明法比丘譯 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.metta.html#khp2>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.Guan-Heng.html#khp2>`__
+3. 三十二身分(Dvattiṁsākāro)： `尊者 明法比丘譯 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.metta.html#khp3>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.Guan-Heng.html#khp3>`__
+4. 問童子(Kumārapañhā, 問沙彌文)： `尊者 明法比丘譯 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.metta.html#khp4>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.Guan-Heng.html#khp4>`__
+5. 吉祥經(Maṅgalasuttaṁ)： `尊者 明法比丘譯 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.metta.html#khp5>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.Guan-Heng.html#khp5>`__
+6. 寶經(Ratanasuttaṁ, 三寶經)： `尊者 明法比丘譯 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.metta.html#khp6>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.Guan-Heng.html#khp6>`__
+7. 戶外經(Tirokuṭṭasuttaṁ)： `尊者 明法比丘譯 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.metta.html#khp7>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.Guan-Heng.html#khp7>`__
+8. 伏藏經(Nidhikaṇḍasuttaṁ)： `尊者 明法比丘譯 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.metta.html#khp8>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.Guan-Heng.html#khp8>`__
+9. 慈悲經(Mettasuttaṁ)： `尊者 明法比丘譯 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.metta.html#khp9>`__ （《小誦》巴漢對照，法雨道場）； `元亨寺版 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.Guan-Heng.html#khp9>`__
 
 ----
 
-- `小誦(九經)介紹 <Khp-discuss.html>`__
+- `小誦(九經)介紹 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp-discuss.html>`__
 
-- `Khuddakapāṭhapāḷi《小誦》巴漢對照 <pc-Khuddakapatha.htm>`__ [法雨道場, 尊者 明法比丘 (2550 B.E. 2006 C.E.)]；
-  `PDF <pc-Khuddakapatha-UTF.pdf>`__ ；
-  `m$, doc <pc-Khuddakapatha-UTF.doc>`__
+- `Khuddakapāṭhapāḷi《小誦》巴漢對照 <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/pc-Khuddakapatha.htm>`__ [法雨道場, 尊者 明法比丘 (2550 B.E. 2006 C.E.)]；
+  `PDF <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/pc-Khuddakapatha-UTF.pdf>`__ ；
+  `m$, doc <{filename}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/pc-Khuddakapatha-UTF.doc>`__
 
 
 ..
