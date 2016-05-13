@@ -2,7 +2,7 @@
 ########
 
 :date: 2016-02-13T16:05+08:00
-:modified: 2016-05-12 22:30
+:modified: 2016-05-13 12:30
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/canon-selected.html
 :tags: 
 :category: 未分類
@@ -19,7 +19,7 @@
 
 - (南傳巴利語) `大般涅槃經(般涅槃大經) Mahāparinibbānasuttaṃ <{filename}/articles/tipitaka/sutta/diigha/dn16/dn16%zh.rst>`__
 
-- (南傳巴利語)大念處經 (念住大經) Mahāsatipaṭṭhānasuttaṃ
+- (南傳巴利語) `大念處經 (念住大經) Mahāsatipaṭṭhānasuttaṃ <{filename}/articles/tipitaka/sutta/diigha/dn22/dn22%zh.rst>`__
 
 - 《清淨道論導讀-- 涅槃的北二高》：（護法法師（Dharmagupta）與觀淨法師合著）
 
