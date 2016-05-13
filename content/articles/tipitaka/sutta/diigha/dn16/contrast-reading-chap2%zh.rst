@@ -2,7 +2,7 @@
 #######################################
 
 :date: 2015-04-21 16:30
-:modified: 2015-05-31 10:30
+:modified: 2016-05-13 15:00
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn16.contrast-reading-chap2.rst
 :tags: 大般涅槃經對讀, 般涅槃大經對讀, DN16 Mahāparinibbānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, DN 16, Dn16, Dn 16
 :category: 巴利三藏長部
@@ -63,10 +63,12 @@
 
 --------------
 
-本對讀包含下列數個版本，請自行勾選欲對讀之版本：
+.. raw:: html 
 
-.. raw:: html
-
+  本對讀包含下列數個版本，請自行勾選欲對讀之版本
+  （感恩 <strong><a href="https://siongui.github.io/zh/pages/siong-ui-te.html">Siong-Ui Te 師兄</a></strong>
+  提供程式支援）：
+  
   <div id="option-contrast-reading"></div>
 
 ----

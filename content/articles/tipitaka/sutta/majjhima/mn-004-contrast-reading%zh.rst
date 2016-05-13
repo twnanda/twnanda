@@ -2,17 +2,31 @@
 ################################################################################
 
 :date: 2012-04-22
-:modified: 2012-09-02
+:modified: 2016-05-13
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/mn.004.contrast-reading.html
 :tags: 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
 :summary: 中部 004 怖駭經 (MN 4 Bhaya-bherava Sutta, Fear & Terror)對讀
 
+---------------------------
 
-本對讀包含下列數個版本，請自行勾選欲對讀之版本：
+**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。** …，…，…，
+    …，…，…， **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。** …，…，…，
 
-.. raw:: html
+    …，…，…， **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語** …，…，…，
 
+    …，…，…， **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
+
+（節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 </articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
+
+--------------
+
+.. raw:: html 
+
+  本對讀包含下列數個版本，請自行勾選欲對讀之版本
+  （感恩 <strong><a href="https://siongui.github.io/zh/pages/siong-ui-te.html">Siong-Ui Te 師兄</a></strong>
+  提供程式支援）：
+  
   <div id="option-contrast-reading"></div>
 
 ----

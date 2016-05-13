@@ -2,7 +2,7 @@
 ==============================================
 
 :date: 2015-05-02 17:30
-:modified: 2015-05-22 21:30
+:modified: 2016-05-13 15:00
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.22.contrast-reading.rst
 :tags: 大念處經對讀, 念住大經對讀, DN 22 Mahāsatipaṭṭhānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāsatipaṭṭhāna sutta, DN 22, Dn22, Dn 22
 :category: 巴利三藏長部
@@ -116,7 +116,7 @@
 
     …，…，…，\ **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
 
-（節錄自：\ `巴利系佛教史綱　第六章　聖典　二　摘錄 <../../../lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__\ ）
+（節錄自：\ `巴利系佛教史綱　第六章　聖典　二　摘錄 </articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__\ ）
 
 --------------
 

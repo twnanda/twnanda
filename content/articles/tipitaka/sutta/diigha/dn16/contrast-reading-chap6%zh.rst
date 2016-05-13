@@ -2,7 +2,7 @@
 #######################################
 
 :date: 2015-04-21 16:30
-:modified: 2015-05-31 15:30
+:modified: 2016-05-13 15:00
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn16.contrast-reading-chap6.rst
 :tags: 大般涅槃經對讀, 般涅槃大經對讀, DN16 Mahāparinibbānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, DN 16, Dn16, Dn 16
 :category: 巴利三藏長部
@@ -58,12 +58,14 @@
 
 **巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**\ （節錄自：\ `巴利系佛教史綱　第六章　聖典　二　摘錄 </articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__\ ）
 
-----------------------------
+--------------
 
-本對讀包含下列數個版本，請自行勾選欲對讀之版本：
+.. raw:: html 
 
-.. raw:: html
-
+  本對讀包含下列數個版本，請自行勾選欲對讀之版本
+  （感恩 <strong><a href="https://siongui.github.io/zh/pages/siong-ui-te.html">Siong-Ui Te 師兄</a></strong>
+  提供程式支援）：
+  
   <div id="option-contrast-reading"></div>
 
 ----
