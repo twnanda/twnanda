@@ -15,7 +15,7 @@
   〔“藏經閣外的掃葉人”網誌--
   `【台語與佛典】, 探討漢譯四阿含與巴利五部尼柯耶的教導，也介紹古漢譯和台語的關聯 <http://yifertw.blogspot.com/>`_ 〕
 
-- 法輪轉起經(轉法輪經, 初轉法輪經) Dhammacakkappavattanasuttaṃ
+- `法輪轉起經(轉法輪經, 初轉法輪經) Dhammacakkappavattanasuttaṃ <{filename}/articles/tipitaka/sutta/samyutta/sn56/sn56-011%zh.rst>`__
 
 - (南傳巴利語) `大般涅槃經(般涅槃大經) Mahāparinibbānasuttaṃ <{filename}/articles/tipitaka/sutta/diigha/dn16/dn16%zh.rst>`__
 
