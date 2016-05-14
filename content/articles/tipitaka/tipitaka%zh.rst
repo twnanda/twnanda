@@ -158,7 +158,7 @@ III. `Samyutta-nikaya 相應部 (Sa"myutta-nikaaya)(Abr.=S)(The Book of Kindred 
   4. Sa.laayatanavagga 六處品
   5. Mahaavagga 大品
 
-IV. `Avguttara-nikaya 增支部 (A"nguttara-nikaaya)(Abr.=A)(The Book of the Gradual Sayings)(PTS) or (The "Grouped" Discourses), 5 vols <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Anguttara-nikaaya.htm>`_
+IV. `Avguttara-nikaya 增支部 (A"nguttara-nikaaya)(Abr.=A)(The Book of the Gradual Sayings)(PTS) or (The "Grouped" Discourses), 5 vols <{filename}sutta/anguttara/anguttara-nikaaya%zh.rst>`_
  
   1. Ekakanipaata 一集
   2. Dukanipaata 二集
