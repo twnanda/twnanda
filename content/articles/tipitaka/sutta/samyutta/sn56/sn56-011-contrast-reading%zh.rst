@@ -37,29 +37,33 @@
 
    * - 巴利原典 (PTS) [1]_
      - | Suttantapiṭake
-       | Saṃyuttanikāyo
+       | Saṃyuttanikāyo 
+       
        | Pañcamo bhāgo
-       | Mahāvaggo
+       | Mahāvaggo 
+       
        | 12. Saccasaṃyuttaṃ 
        | 12. 1. 10 
        | 2. Dhammacakkappavattana suttaṃ 
        |  
-       \3853. Evaṃ me sutaṃ, ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye **[PTS Page 421]** [\q 421/] tatra kho bhagavā pañcavaggiye bhikkhū āmantesi: "dve me bhikkhave, antā pabbajitena na sevitabbā1. Yocayāṃ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṃhito, yo cāyaṃ attakilamathānuyogo dukkho anariyo anatthasaṃhito, ete te2 bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati. 
+       | 3853. Evaṃ me sutaṃ, ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye **[PTS Page 421]** [\q 421/] tatra kho bhagavā pañcavaggiye bhikkhū āmantesi: "dve me bhikkhave, antā pabbajitena na sevitabbā1. Yocayāṃ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṃhito, yo cāyaṃ attakilamathānuyogo dukkho anariyo anatthasaṃhito, ete te2 bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati. 
 
    * - 巴利原典 (CSCD)\ [2]_ 
      - | 12. Saccasaṃyuttaṃ
-       | 2. Dhammacakkappavattanavaggo
+       | 2. Dhammacakkappavattanavaggo 
+
        | 1. Dhammacakkappavattanasuttaṃ
-       |
-       \1081. Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi – ‘‘dveme, bhikkhave, antā pabbajitena na sevitabbā. Katame dve? Yo cāyaṃ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṃhito, yo cāyaṃ attakilamathānuyogo dukkho anariyo anatthasaṃhito. Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati’’.
+       | 
+       | 1081. Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi – ‘‘dveme, bhikkhave, antā pabbajitena na sevitabbā. Katame dve? Yo cāyaṃ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṃhito, yo cāyaṃ attakilamathānuyogo dukkho anariyo anatthasaṃhito. Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati’’.
 
    * - 漢譯(**莊春江** 譯, 莊春江工作站)\ [3]_
      - | 12. 諦相應
-       | 2. 法輪轉起品
+       | 2. 法輪轉起品 
+
        | 1. 法輪轉起經
-       | （相應部56相應11經/法輪轉起經(諦相應/大篇/修多羅)(莊春江譯)）
-       |
-       1081.　　有一次\ [CFn001]_ \，世尊\ [CFn002]_ \住在波羅奈鹿野苑的仙人墜落處。
+       | （相應部56相應11經/法輪轉起經(諦相應/大篇/修多羅)(莊春江譯)） 
+       | 
+       | 1081.　　有一次\ [CFn001]_ \，世尊\ [CFn002]_ \住在波羅奈鹿野苑的仙人墜落處。
 
        在那裡，世尊召喚[那]群五比丘\ [CFn003]_ \們：
 
@@ -67,10 +71,11 @@
 
    * - 漢譯(**蕭式球** 譯, 香港志蓮淨苑)\ [4]_
      - | 56. 諦相應
-       | 2. 法輪轉起品
+       | 2. 法輪轉起品 
+
        | 十一．如來所說之一
-       |
-       1081.　　這是我所聽見的：
+       | 
+       | 1081.　　這是我所聽見的：
 
        有一次，世尊住在波羅奈的仙人住處鹿野苑。
 
@@ -86,11 +91,12 @@
 
    * - 漢譯(**覓寂尊者** 譯, 臺灣) 
      - | 56. 諦相應
-       | 2. 法輪轉起品
+       | 2. 法輪轉起品 
+
        | 轉法輪經
-       | (Vin.i,p.10.; S.v,p.420.)
-       |
-       1081.　　（如是我聞，）一時，世尊住在波羅奈城仙人降處的鹿野苑。
+       | (Vin.i,p.10.; S.v,p.420.) 
+       | 
+       | 1081.　　（如是我聞，）一時，世尊住在波羅奈城仙人降處的鹿野苑。
 
        在那裡，世尊對五比丘說：「諸比丘，這兩邊〔極端〕是出家人不應當從事的。是哪兩邊呢？凡是在諸欲沉迷於欲樂，這是低劣、粗俗、凡夫、非神聖、沒有利益的（行為）；凡是自我折磨的苦行，這是痛苦、非神聖、沒有利益的（行為）。
 
@@ -98,35 +104,42 @@
 
    * - 漢譯(\ **坦尼沙羅尊者**\ 英譯, \ **良稹**\ 中譯)\ [5]_
      - | 56. 諦相應
-       | 2. 法輪轉起品
-       | 轉法輪經
+       | 2. 法輪轉起品 
+
+       | 轉法輪經 
        | 
+
        | 原文版權所有 © 1993 坦尼沙羅比丘。免費發行。本文允許在任何媒體再版、重排、重印、印發。然而，作者希望任何再版與分發以對公衆免費與無限制的形式進行，譯文與轉載也要求表明作者原衷。
-       | 中譯版權所有 © 2005 良稹， `http://www.theravadacn.org <http://www.theravadacn.org>`__ ，流通條件如上。轉載時請包括本站連接，并登載本版權聲明。
+       | 中譯版權所有 © 2005 良稹， `http://www.theravadacn.org <http://www.theravadacn.org>`__ ，流通條件如上。轉載時請包括本站連接，并登載本版權聲明。 
+
        | 
-       1081.　　[如是我聞]，一時薄伽梵住波羅那斯仙人墜的鹿野苑。在那裏，薄伽梵對五衆比丘說：
+       | 1081.　　[如是我聞]，一時薄伽梵住波羅那斯仙人墜的鹿野苑。在那裏，薄伽梵對五衆比丘說：
 
        "比丘們，有此兩極端，隱者[出家者]不可耽於其中——哪兩極? 於感官對象， 追求感官之樂：是低級、粗鄙、庸俗、非聖、無益的; 追求自虐：是痛苦、非聖、無益的。比丘們，避此兩極端，如來實現的中道——引生見、引生知——趨向甯靜、直覺智、自覺醒、涅槃。
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu**.)\ [6]_
      - | 12. Saccasaṃyuttaṃ
-       | 2. Dhammacakkappavattanavaggo
-       | Setting the Wheel of Dhamma in Motion
-       | Dhammacakkapavattana Sutta
-       | SN 56.11 PTS: S v 420 CDB ii 1843
+       | 2. Dhammacakkappavattanavaggo 
+
+       | Setting the Wheel of Dhamma in Motion 
+       | Dhammacakkapavattana Sutta 
+
+       | SN 56.11 PTS: S v 420 CDB ii 1843 
        | 
-       1081. I have heard that on one occasion the Blessed One was staying at Varanasi in the Game Refuge at Isipatana. There he addressed the group of five monks:
+       | 1081. I have heard that on one occasion the Blessed One was staying at Varanasi in the Game Refuge at Isipatana. There he addressed the group of five monks:
 
        "There are these two extremes that are not to be indulged in by one who has gone forth. Which two? That which is devoted to sensual pleasure with reference to sensual objects: base, vulgar, common, ignoble, unprofitable; and that which is devoted to self-affliction: painful, ignoble, unprofitable. Avoiding both of these extremes, the middle way realized by the Tathagata — producing vision, producing knowledge — leads to calm, to direct knowledge, to self-awakening, to Unbinding.
 
    * - 英譯(Translated from the Pali by **Ven. Bhikkhu Bodhi**.)\ [7]_
      - | 12. Saccasaṃyuttaṃ
-       | 2. Dhammacakkappavattanavaggo
+       | 2. Dhammacakkappavattanavaggo 
+
        | Setting in Motion the Wheel of the Dhamma
-       | Dhammacakkapavattana Sutta
+       | Dhammacakkapavattana Sutta 
+
        | Samyutta Nikaya LVI, 11
        | 
-       1081. Thus have I heard. On one occasion the Blessed One was dwelling at Baranasi in the Deer Park at Isipatana. There the Blessed One addressed the bhikkhus of the group of five thus:
+       | 1081. Thus have I heard. On one occasion the Blessed One was dwelling at Baranasi in the Deer Park at Isipatana. There the Blessed One addressed the bhikkhus of the group of five thus:
 
        "Bhikkhus, these two extremes should not be followed by one who has gone forth into homelessness. What two? The pursuit of sensual happiness in sensual pleasures, which is low, vulgar, the way of worldlings, ignoble, unbeneficial; and the pursuit of self-mortification, which is painful, ignoble, unbeneficial. Without veering towards either of these extremes, the Tathagata has awakened to the middle way, which gives rise to vision, which gives rise to knowledge, which leads to peace, to direct knowledge, to enlightenment, to Nibbana.
 
