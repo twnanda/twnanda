@@ -138,7 +138,7 @@ III. Parivara 附隨 (Parivaara), 2 vols
 Sutta Pitaka 經藏 (Sutta Pi.taka)
 (The collection of discourses):
 
-I. `Digha-nikaya 長部 (Diigha-nikaaya)(Abr.=D)(Dialogues of the Buddha)(SBB) or (The "Long" Discourses), 3 vols <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Diigha-nikaaya.htm>`_
+I. `Digha-nikaya 長部 (Diigha-nikaaya)(Abr.=D)(Dialogues of the Buddha)(SBB) or (The "Long" Discourses), 3 vols <{filename}sutta/diigha/diigha-nikaaya%zh.rst>`_
  
   1. Siilakkhandhavagga 戒(集)蘊品
   2. Mahaavagga 大品
