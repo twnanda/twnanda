@@ -150,7 +150,7 @@ II. `Majjhima-nikaya 中部 (Majjhima-nikaaya)(Abr.=M)(Further Dialogues of the 
   2. Majjhimapa.n.naasa 中分五十經篇
   3. Uparipa.n.naasa 後分五十經篇
 
-III. `Samyutta-nikaya 相應部 (Sa"myutta-nikaaya)(Abr.=S)(The Book of Kindred Sayings)(PTS) or (The "Grouped" Discourses), 5 vols <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm>`_
+III. `Samyutta-nikaya 相應部 (Sa"myutta-nikaaya)(Abr.=S)(The Book of Kindred Sayings)(PTS) or (The "Grouped" Discourses), 5 vols <{filename}sutta/samyutta/samyutta-nikaaya%zh.rst>`_
  
   1. Sagaathaavagga 有偈品
   2. Nidaanavagga 因緣品
