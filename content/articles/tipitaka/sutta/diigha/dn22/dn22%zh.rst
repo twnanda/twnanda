@@ -14,11 +14,10 @@
 
 **禮敬世尊、阿羅漢、正等正覺者**
 
-------------------------------
+.. `PDF <{filename}/extra/tipitaka/sutta/digha/dn22.pdf>`__
 
-`PDF <{filename}/extra/tipitaka/sutta/digha/dn22.pdf>`__ 
+----
 
---------------
 
 - `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāsatipaṭṭhānasuttaṃ
 
