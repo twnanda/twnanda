@@ -11,7 +11,7 @@
 
 --------------
 
-`PDF </extra/pdf/dhA-chap01.pdf>`__
+`PDF <{filename}/extra/pdf/dhA-chap01.pdf>`__
 
 ----------------------------------------
 
@@ -26,7 +26,7 @@
 
     …，…，…， **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
 
-（節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 </articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
+（節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
 
 -------------------------------------
 
@@ -564,9 +564,9 @@
 
 .. [3] 〔註003〕　本譯文請參考： `文言文版 <{filename}../dhp-Ven-L-C/dhp-Ven-L-C%zh.rst>`__ ( **了參 法師** 譯，台北市：圓明出版社，1991。) 另參： 
 
-       一、 Dhammapada 法句經(中英對照) -- English translated by **Ven. Ācharya Buddharakkhita** ; Chinese translated by Yeh chun(葉均); Chinese commented by **Ven. Bhikkhu Metta(明法比丘)** 〔 **Ven. Ācharya Buddharakkhita** ( **佛護 尊者** ) 英譯; **了參 法師(葉均)** 譯; **明法比丘** 註（增加許多濃縮的故事）〕： `PDF </extra/pdf/ec-dhp.pdf>`__ 、 `DOC </extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) </extra/doc/ec-dhp-f1.doc>`__ 。
+       一、 Dhammapada 法句經(中英對照) -- English translated by **Ven. Ācharya Buddharakkhita** ; Chinese translated by Yeh chun(葉均); Chinese commented by **Ven. Bhikkhu Metta(明法比丘)** 〔 **Ven. Ācharya Buddharakkhita** ( **佛護 尊者** ) 英譯; **了參 法師(葉均)** 譯; **明法比丘** 註（增加許多濃縮的故事）〕： `PDF <{filename}/extra/pdf/ec-dhp.pdf>`__ 、 `DOC <{filename}/extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/ec-dhp-f1.doc>`__ 。
 
-       二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF </extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC </extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) </extra/doc/pc-Dhammapada-f1.doc>`__
+       二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF <{filename}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{filename}/extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/pc-Dhammapada-f1.doc>`__
 
 .. [4] 〔註004〕　取材自：【部落格-- 荒草不曾鋤】--　`《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`_  （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
 
@@ -606,15 +606,15 @@
 
 .. [MettFn01-02] 〔明法尊者註01-02〕　**如輪隨獸足** ：cakkaṁ’va vahato padaṁ，如車輪跟隨拖車的獸足。
 
-.. [MettFn01-03] 〔明法尊者註01-03〕　這是護眼長老(Cakkhupālatthera)的故事，他因瞎了眼，在晚上經行踏死很多小生物，隔天被其他比丘發現。佛陀說他無心殺，沒有罪。《本事經》：「諸不善法生，為因能感苦，皆意為前導，與煩惱俱生。意為前導法，意尊意所使，由意有染污，故有說有行，苦隨此而生，如輪因手轉。」(T4.663.3)；PS: 請參 `001 典故 <{filename}../dhp-story/dhp-story001%zh.rst>`_ ；或 `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～一、瞎眼的阿羅漢 (偈 001)。
+.. [MettFn01-03] 〔明法尊者註01-03〕　這是護眼長老(Cakkhupālatthera)的故事，他因瞎了眼，在晚上經行踏死很多小生物，隔天被其他比丘發現。佛陀說他無心殺，沒有罪。《本事經》：「諸不善法生，為因能感苦，皆意為前導，與煩惱俱生。意為前導法，意尊意所使，由意有染污，故有說有行，苦隨此而生，如輪因手轉。」(T4.663.3)；PS: 請參 `001 典故 <{filename}../dhp-story/dhp-story001%zh.rst>`_ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～一、瞎眼的阿羅漢 (偈 001)。
 
-.. [MettFn01-04] 〔明法尊者註01-04〕　舍衛城一位吝嗇的婆羅門之子，甚至快死了，父親也不延醫，佛陀知道此事，去托缽，經過他家，向他放光，他對佛陀生信，死後生忉利天。他父親到墳墓去哭，他下來勸他的父親要親近佛陀。《本事經》：「諸淨善法生，為因能感樂，皆意為前導，與善法俱生。意為前導法，意尊意所使，由意有清淨，故有說有行，樂隨此而生，如影隨形轉。」(T4.664.1)；PS: 請參 `002 典故 <{filename}../dhp-story/dhp-story002%zh.rst>`_ ；或 `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～二、何必妄想 (偈 002)。
+.. [MettFn01-04] 〔明法尊者註01-04〕　舍衛城一位吝嗇的婆羅門之子，甚至快死了，父親也不延醫，佛陀知道此事，去托缽，經過他家，向他放光，他對佛陀生信，死後生忉利天。他父親到墳墓去哭，他下來勸他的父親要親近佛陀。《本事經》：「諸淨善法生，為因能感樂，皆意為前導，與善法俱生。意為前導法，意尊意所使，由意有清淨，故有說有行，樂隨此而生，如影隨形轉。」(T4.664.1)；PS: 請參 `002 典故 <{filename}../dhp-story/dhp-story002%zh.rst>`_ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～二、何必妄想 (偈 002)。
 
-.. [MettFn01-05] 〔明法尊者註01-05〕　這是關於帝沙長老(Tissatthera)的故事。帝沙長老是佛陀的表弟，晚年出家，卻喜裝作長老，常與年輕比丘爭吵。他不只是今生頑固，前世也很頑固。PS: 請參 `003-4 典故 <{filename}../dhp-story/dhp-story003-4%zh.rst>`_ ；或 `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～三、報復的苦行者 (偈 003~004)。 
+.. [MettFn01-05] 〔明法尊者註01-05〕　這是關於帝沙長老(Tissatthera)的故事。帝沙長老是佛陀的表弟，晚年出家，卻喜裝作長老，常與年輕比丘爭吵。他不只是今生頑固，前世也很頑固。PS: 請參 `003-4 典故 <{filename}../dhp-story/dhp-story003-4%zh.rst>`_ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～三、報復的苦行者 (偈 003~004)。 
 
-.. [MettFn01-06] 〔明法尊者註01-06〕　本則是妻與妾多世冤冤相報的故事。佛陀作了勸導。《增壹阿含24.8經》︰「怨怨不休息，自古有此法，無怨能勝怨，此法終不朽。」(T2.627.2)。PS: 請參 `005 典故 <{filename}../dhp-story/dhp-story005%zh.rst>`_ ；或  `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～四、累劫以來的仇恨 (偈 005)。
+.. [MettFn01-06] 〔明法尊者註01-06〕　本則是妻與妾多世冤冤相報的故事。佛陀作了勸導。《增壹阿含24.8經》︰「怨怨不休息，自古有此法，無怨能勝怨，此法終不朽。」(T2.627.2)。PS: 請參 `005 典故 <{filename}../dhp-story/dhp-story005%zh.rst>`_ ；或  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～四、累劫以來的仇恨 (偈 005)。
 
-.. [MettFn01-07] 〔明法尊者註01-07〕　**彼人** (Pare其他諸人)：指在憍賞彌(Kosambi)的比丘，因精通律的比丘與精通法的比丘判定有罪、無罪意見不同而起諍論。故事與第328-330偈同。PS: 請參 `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～五、憍賞彌諍論不休的比丘們 (偈 006)。
+.. [MettFn01-07] 〔明法尊者註01-07〕　**彼人** (Pare其他諸人)：指在憍賞彌(Kosambi)的比丘，因精通律的比丘與精通法的比丘判定有罪、無罪意見不同而起諍論。故事與第328-330偈同。PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～五、憍賞彌諍論不休的比丘們 (偈 006)。
 
 .. [MettFn01-08] 〔明法尊者註01-08〕　**我等將毀滅**：我們將滅亡於此諍論之中。另譯作：「我們在此處要止息」(mayam ettha yamāmase)。
 
@@ -636,35 +636,35 @@
 
 .. [MettFn01-17] 〔明法尊者註01-17〕　**魔**：煩惱魔。
 
-.. [MettFn01-18] 〔明法尊者註01-18〕　偈頌故事︰摩訶迦羅和小迦羅兄弟都是生意人，後來都出家，摩訶迦羅努力在墓地禪修，並觀照身體的無常，證得阿羅漢果。小迦羅對修行沒有興趣，最後被他的妻妾說服還俗。相反地，摩訶迦羅已不為欲望所動。PS: 請參  `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～六、摩訶迦羅比丘和小迦羅比丘的命運 (偈 007~008)。
+.. [MettFn01-18] 〔明法尊者註01-18〕　偈頌故事︰摩訶迦羅和小迦羅兄弟都是生意人，後來都出家，摩訶迦羅努力在墓地禪修，並觀照身體的無常，證得阿羅漢果。小迦羅對修行沒有興趣，最後被他的妻妾說服還俗。相反地，摩訶迦羅已不為欲望所動。PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～六、摩訶迦羅比丘和小迦羅比丘的命運 (偈 007~008)。
 
 .. [MettFn01-19] 〔明法尊者註01-19〕　**離諸垢** (vanta-kāsāva吐污)：離煩惱。有煩惱垢、塵垢、垢穢、惑垢、染垢等名詞。
 
 .. [MettFn01-20] 〔明法尊者註01-20〕　**戒律**︰DhA：sīlesūti catupārisuddhisīlesu. (於諸戒：於四遍清淨的戒。)
 
-.. [MettFn01-21] 〔明法尊者註01-21〕　舍利弗.目犍連尊者不瞭解提婆達多，誤把一件高價的袈裟供養他。PS: 請參  `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～七、誰有得到黃色布料供養的資格 (偈 009~010)。
+.. [MettFn01-21] 〔明法尊者註01-21〕　舍利弗.目犍連尊者不瞭解提婆達多，誤把一件高價的袈裟供養他。PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～七、誰有得到黃色布料供養的資格 (偈 009~010)。
 
 .. [MettFn01-22] 〔明法尊者註01-22〕　**非真思真實**：DhA：**asāre sāramatino** ti cattāro paccayā, dasavatthukā micchādiṭṭhi, tassā upanissayabhūtā dhammadesanāti ayaṁ asāro nāma. (**在非核心之中思量核心**：從四資具，它的十事的邪見解，已成為依靠的指示法，此名叫非核心。)
 
-.. [MettFn01-23] 〔明法尊者註01-23〕　11~12偈為優婆提舍(舍利弗)和拘律陀(目犍連)，聽到馬勝比丘念誦：「諸法因緣生，如來說諸因。諸法因緣滅，大沙門如是說。」的法偈，當下就證得預流果。之後，優婆提舍把這因緣的偈頌告訴拘律陀，他聽完這偈頌後，也立刻證得預流果。然後，他們就去找他們的老師刪闍耶，並告訴他說，他們已經找到可以指引究竟解脫之道的人，邀他一齊去見佛陀，但是被刪闍耶拒絕。他們向世尊表示刪闍耶的拒絕，世尊說了此偈。PS: 請參  `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～八、了解正法甚難 (偈 011~012)。
+.. [MettFn01-23] 〔明法尊者註01-23〕　11~12偈為優婆提舍(舍利弗)和拘律陀(目犍連)，聽到馬勝比丘念誦：「諸法因緣生，如來說諸因。諸法因緣滅，大沙門如是說。」的法偈，當下就證得預流果。之後，優婆提舍把這因緣的偈頌告訴拘律陀，他聽完這偈頌後，也立刻證得預流果。然後，他們就去找他們的老師刪闍耶，並告訴他說，他們已經找到可以指引究竟解脫之道的人，邀他一齊去見佛陀，但是被刪闍耶拒絕。他們向世尊表示刪闍耶的拒絕，世尊說了此偈。PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～八、了解正法甚難 (偈 011~012)。
 
 .. [MettFn01-24] 〔明法尊者註01-24〕　《增壹阿含18.7經》：「蓋屋不密，天雨則漏，人不惟行，漏婬怒癡。蓋屋善密，天雨不漏，人能惟行，無婬怒癡。」(T2.591.3)
 
-.. [MettFn01-25] 〔明法尊者註01-25〕　13~14偈為難陀(Nanda，世尊姨母弟，即摩訶波闍波提的兒子)戀戀不忘未婚妻，渴望還俗。世尊為難陀說法的偈頌。PS: 請參  `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～九、難陀為了女人修行 (偈 013~014)。
+.. [MettFn01-25] 〔明法尊者註01-25〕　13~14偈為難陀(Nanda，世尊姨母弟，即摩訶波闍波提的兒子)戀戀不忘未婚妻，渴望還俗。世尊為難陀說法的偈頌。PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～九、難陀為了女人修行 (偈 013~014)。
 
-.. [MettFn01-26] 〔明法尊者註01-26〕　本偈為住在竹林精舍附近，屠豬夫純陀(Cundasūkarika)，臨終前作豬叫，在地上打滾，經一星期，死後下地獄，世尊說出此偈。PS: 請參  `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～十、生生世世受苦的屠夫 (偈 015)。
+.. [MettFn01-26] 〔明法尊者註01-26〕　本偈為住在竹林精舍附近，屠豬夫純陀(Cundasūkarika)，臨終前作豬叫，在地上打滾，經一星期，死後下地獄，世尊說出此偈。PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～十、生生世世受苦的屠夫 (偈 015)。
 
-.. [MettFn01-27] 〔明法尊者註01-27〕　本偈說曇彌優婆塞(Dhammika-upāsaka)的故事。住在舍衛城的曇彌樂善好施，臨終時有六天的六匹馬車來迎，他告訴兒女，他選擇去兜率天。PS: 請參 `016 典故 <{filename}../dhp-story/dhp-story016%zh.rst>`_ ；或  `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～十一、世世幸福 (偈 016)。
+.. [MettFn01-27] 〔明法尊者註01-27〕　本偈說曇彌優婆塞(Dhammika-upāsaka)的故事。住在舍衛城的曇彌樂善好施，臨終時有六天的六匹馬車來迎，他告訴兒女，他選擇去兜率天。PS: 請參 `016 典故 <{filename}../dhp-story/dhp-story016%zh.rst>`_ ；或  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～十一、世世幸福 (偈 016)。
 
-.. [MettFn01-28] 〔明法尊者註01-28〕　本偈說提婆達多(Devadatta)的故事。他是大師的表弟，他學成神通之後，曾以神通博得阿闍世王的信任，之後，日日獲得很多供養。他想當僧團的領導人，曾跟佛陀索眾，佛陀沒有答應。他懷恨在心，有三次謀害佛陀不成，其中一次利用山上的滾石，傷到佛足，出佛身血；殺佛不成，他就有分裂僧團的動作；又殺害蓮華色阿羅漢尼(Uppalavaṇṇa)。多項五逆罪，死後投生大阿鼻地獄(avīcimahāniraya)。PS: 請參  `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～十二、提婆達多悲慘的命運 (偈 017)。
+.. [MettFn01-28] 〔明法尊者註01-28〕　本偈說提婆達多(Devadatta)的故事。他是大師的表弟，他學成神通之後，曾以神通博得阿闍世王的信任，之後，日日獲得很多供養。他想當僧團的領導人，曾跟佛陀索眾，佛陀沒有答應。他懷恨在心，有三次謀害佛陀不成，其中一次利用山上的滾石，傷到佛足，出佛身血；殺佛不成，他就有分裂僧團的動作；又殺害蓮華色阿羅漢尼(Uppalavaṇṇa)。多項五逆罪，死後投生大阿鼻地獄(avīcimahāniraya)。PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～十二、提婆達多悲慘的命運 (偈 017)。
 
-.. [MettFn01-29] 〔明法尊者註01-29〕　給孤獨長者的第三女兒善意天(Sumanadevī)，臨終時稱父親為「弟弟」。給孤獨長者困惑不安，以為她臨終時沒有正念。佛陀說，她臨終時正念現前，因為她證得二果，境界比給孤獨長者高，死後往生兜率天。PS: 請參  `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～十三、年輕女孩的成就 (偈 018)。
+.. [MettFn01-29] 〔明法尊者註01-29〕　給孤獨長者的第三女兒善意天(Sumanadevī)，臨終時稱父親為「弟弟」。給孤獨長者困惑不安，以為她臨終時沒有正念。佛陀說，她臨終時正念現前，因為她證得二果，境界比給孤獨長者高，死後往生兜率天。PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～十三、年輕女孩的成就 (偈 018)。
 
 .. [MettFn01-30] 〔明法尊者註01-30〕　**經集**：DhA：**saṁhitan** ti tepiṭakassa buddhavacanassetaṁ nāmaṁ.(**經集**：這是佛說的三藏之名。)
 
 .. [MettFn01-31] 〔明法尊者註01-31〕　**沙門分**︰bhāgavā sāmaññassa，沙門的成分，指沙門的利益：道與果。
 
-.. [MettFn01-32] 〔明法尊者註01-32〕　19-20偈說兩位好友比丘的故事。一位已證阿羅漢果，一位只精通經教。PS: 請參 `19-20 典故 <{filename}../dhp-story/dhp-story019-20%zh.rst>`_ ；或  `法句經故事集 </extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～十四、知識不等於證悟 (偈 019~020)。
+.. [MettFn01-32] 〔明法尊者註01-32〕　19-20偈說兩位好友比丘的故事。一位已證阿羅漢果，一位只精通經教。PS: 請參 `19-20 典故 <{filename}../dhp-story/dhp-story019-20%zh.rst>`_ ；或  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`_  ，一～十四、知識不等於證悟 (偈 019~020)。
 
 .. [NandFn01-00] 〔Nanda 校註01-00〕 〝於此世界中〞
                   

@@ -2,14 +2,14 @@
 ===================
 
 :date: 2016-01-29 09:00
-:modified: 2016-04-21 10:50
+:modified: 2016-05-16 10:50
 :tags: 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經, Dhammapada
 
 --------------
 
-`PDF </extra/pdf/dhp.pdf>`__ 
+`PDF <{filename}/extra/pdf/dhp.pdf>`__ 
 
 --------------
 
@@ -27,17 +27,17 @@
 
   * `文言文版 <{filename}dhp-Ven-L-C/dhp-Ven-L-C%zh.rst>`__ ( **了參 法師** 譯，台北市：圓明出版社，1991。)
 
-  * Dhammapada 法句經(中英對照)--　 **尊者 明法 比丘** 註（增加許多濃縮的故事）〕： `PDF </extra/pdf/ec-dhp.pdf>`__ 、 `DOC </extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) </extra/doc/ec-dhp-f1.doc>`__ [3]_
+  * Dhammapada 法句經(中英對照)--　 **尊者 明法 比丘** 註（增加許多濃縮的故事）〕： `PDF <{filename}/extra/pdf/ec-dhp.pdf>`__ 、 `DOC <{filename}/extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/ec-dhp-f1.doc>`__ [3]_
 
-  * 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師** (葉均)，注解： **尊者 明法 比丘** ； `PDF </extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC </extra/doc/pc-Dhammapada.doc>`__； `DOC (Foreign1 字型) </extra/doc/pc-Dhammapada-f1.doc>`__ [4]_
+  * 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師** (葉均)，注解： **尊者 明法 比丘** ； `PDF <{filename}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{filename}/extra/doc/pc-Dhammapada.doc>`__； `DOC (Foreign1 字型) <{filename}/extra/doc/pc-Dhammapada-f1.doc>`__ [4]_
 
-  * `白話文版 (pdf) </extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`_ ， **敬法 法師** 譯，第二修訂版 2015， `原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`_ ；　( `初版 </extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
+  * `白話文版 (pdf) <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`_ ， **敬法 法師** 譯，第二修訂版 2015， `原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`_ ；　( `初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
 
   * **《真理的語言(法句經)》** ， **淨海 法師** 中譯 [5]_
 
   * `南傳法句經新譯 <http://www.book853.com/show.aspx?id=1332&cid=89>`_ ，文言文版， **尊者 法增 比丘** 譯（七葉佛教書舍）
 
-  * 巴利語法句譯註 [6]_ ，廖文燦； `PDF </extra/pdf/Dp-Liau.pdf>`__ 、 `RTF </extra/doc/Dp-Liau.rtf>`__
+  * 巴利語法句譯註 [6]_ ，廖文燦； `PDF <{filename}/extra/pdf/Dp-Liau.pdf>`__ 、 `RTF <{filename}/extra/doc/Dp-Liau.rtf>`__
 
 - 參考相當之古漢譯對應經典：
 
@@ -54,7 +54,7 @@
 
     | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`_ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__〕(CBETA)  ( **尊者 法救** 集， **天息災** 譯) [7]_
 
-  * (北傳) 法句經-- 經文編碼及註腳，法雨道場； `PDF </extra/pdf/c-N-Dharmapada.pdf>`__ 、 `DOC </extra/doc/c-N-Dharmapada.doc>`__； `DOC (Foreign1 字型) </extra/doc/c-N-Dharmapada-f1.doc>`__
+  * (北傳) 法句經-- 經文編碼及註腳，法雨道場； `PDF <{filename}/extra/pdf/c-N-Dharmapada.pdf>`__ 、 `DOC <{filename}/extra/doc/c-N-Dharmapada.doc>`__； `DOC (Foreign1 字型) <{filename}/extra/doc/c-N-Dharmapada-f1.doc>`__
 
 - 《白話藏傳法句經》。 `（上） <blog.xuite.net/wisely619/twblog/129469780>`__ \、 `（中） <http://blog.xuite.net/wisely619/twblog/129469781>`__ \、 `（下） <http://blog.xuite.net/wisely619/twblog/129469782>`__ \；或 `（上） <https://manjusri0404pemajungney0710.wordpress.com/2009/12/12/%E7%99%BD%E8%A9%B1%E8%97%8F%E5%82%B3%E6%B3%95%E5%8F%A5%E7%B6%93%E3%80%80%EF%BC%88%E4%B8%8A%EF%BC%89%E3%80%80%E3%80%80%E3%80%80%E6%B3%95%E6%95%91%E5%B0%8A%E8%80%85%E8%91%97%EF%BC%8C%E8%91%9B%E9%9B%B7/>`__ \、 `（下） <https://manjusri0404pemajungney0710.wordpress.com/2009/12/12/%E7%99%BD%E8%A9%B1%E8%97%8F%E5%82%B3%E6%B3%95%E5%8F%A5%E7%B6%93%E3%80%80%EF%BC%88%E4%B8%8B%EF%BC%89%E3%80%80%E3%80%80%E3%80%80%E6%B3%95%E6%95%91%E5%B0%8A%E8%80%85%E8%91%97%EF%BC%8C%E8%91%9B%E9%9B%B7/>`__ 。 [8]_
 
@@ -79,7 +79,7 @@
 
 -----------------------------------------
 
-- `法句經故事集 <http://www.budaedu.org/story/dp000.php>`__ -- 馬來西亞．**達摩難陀長老** 著，臺灣．周金言 譯， `佛陀教育基金會 <http://www.budaedu.org/>`__ 。 `PDF (橫式排版，文字檔) </extra/pdf/Dhp-story-han.pdf>`_ [11]_
+- `法句經故事集 <http://www.budaedu.org/story/dp000.php>`__ -- 馬來西亞．**達摩難陀長老** 著，臺灣．周金言 譯， `佛陀教育基金會 <http://www.budaedu.org/>`__ 。 `PDF (橫式排版，文字檔) <{filename}/extra/pdf/Dhp-story-han.pdf>`_ [11]_
 
 - `南傳法句經的故事 <{filename}dhp-story/dhp-story-Ven-Dharmagupta%zh.rst>`_ （幾則；翻譯者: **護法 法師 Ven. Dharmagupta** ，尼泊爾籍） [12]_
 

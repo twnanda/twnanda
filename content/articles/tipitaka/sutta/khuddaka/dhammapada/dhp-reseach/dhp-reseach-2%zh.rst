@@ -9,7 +9,7 @@
 
 --------------
 
-`PDF </extra/pdf/dhp-reseach-2.pdf>`__ 
+`PDF <{filename}/extra/pdf/dhp-reseach-2.pdf>`__ 
 
 --------------
 

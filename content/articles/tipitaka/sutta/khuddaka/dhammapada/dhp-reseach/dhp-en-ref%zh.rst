@@ -11,7 +11,7 @@ Dhammapada, The Buddha's Path of Wisdom
 
 --------------
 
-`PDF </extra/pdf/dhp-en-ref.pdf>`__ 
+`PDF <{filename}/extra/pdf/dhp-en-ref.pdf>`__ 
 
 ---------------------------
 

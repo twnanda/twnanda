@@ -2,14 +2,14 @@
 ===========
 
 :date: 2016-04-17 21:30
-:modified: 2016-04-21 20:50
+:modified: 2016-05-16 11:30
 :tags: 法句經研究, 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經研究
 
 --------------
 
-`PDF </extra/pdf/dhp-reseach.pdf>`__ 
+`PDF <{filename}/extra/pdf/dhp-reseach.pdf>`__ 
 
 --------------
 
@@ -23,7 +23,7 @@
 
 - `「法句——優陀那」 <http://yinshun-edu.org.tw/Master_yinshun/y35_11_02>`_ 。 **印順 法師** 著。 [18]_
 
-- 南北傳《法句經》的對照表， **尊者 明法 比丘** ： `PDF </extra/pdf/S-vs-N-Dharmapada.pdf>`__ ; `doc </extra/doc/S-vs-N-Dharmapada.doc>`_ ; `DOC (Foreign1 字型) </extra/doc/S-vs-N-Dharmapada-f1.doc>`__
+- 南北傳《法句經》的對照表， **尊者 明法 比丘** ： `PDF <{filename}/extra/pdf/S-vs-N-Dharmapada.pdf>`__ ; `doc <{filename}/extra/doc/S-vs-N-Dharmapada.doc>`_ ; `DOC (Foreign1 字型) <{filename}/extra/doc/S-vs-N-Dharmapada-f1.doc>`__
 
 - `法句經讀書會 <http://yifertw.blogspot.tw/search/label/%E6%B3%95%E5%8F%A5%E7%B6%93%E8%AE%80%E6%9B%B8%E6%9C%83>`_ （具有“法句經讀書會”標籤的文章）“藏經閣外的掃葉人”網誌 [21]_
 

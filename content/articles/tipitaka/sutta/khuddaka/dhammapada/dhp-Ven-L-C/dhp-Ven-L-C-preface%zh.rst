@@ -10,7 +10,7 @@
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`PDF </extra/pdf/dhp-Ven-L-C-preface.pdf>`__ 
+`PDF <{filename}/extra/pdf/dhp-Ven-L-C-preface.pdf>`__ 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

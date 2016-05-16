@@ -9,7 +9,7 @@
 
 --------------
 
-`PDF </extra/pdf/dhA-content.pdf>`__
+`PDF <{filename}/extra/pdf/dhA-content.pdf>`__
 
 ----------------------------------------
 
