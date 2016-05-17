@@ -8,9 +8,9 @@ addons:
   apt:
     packages:
     - language-pack-zh-hant
-    - wkhtmltopdf
-    - xvfb
     - ttf-wqy-microhei
+    - xvfb
+    - wkhtmltopdf
 install:
 - pip install -r requirements.txt
 script:
