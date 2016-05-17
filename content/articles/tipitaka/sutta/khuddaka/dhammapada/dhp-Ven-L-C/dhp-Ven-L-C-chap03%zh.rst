@@ -1,15 +1,18 @@
-第　　　：　　　品（法句經, Dhammapada,    -VAGGO, 了參 法師 譯, 文言文版）
-===========================================================================
+======================================================================
+第三：心品 （法句經, Dhammapada, CITTA-VAGGO, 了參 法師 譯, 文言文版）
+======================================================================
 
 :date: 2016-04-05 17:30
-:modified: 2016-04-17 21:00
-:tags: 第　　：　　品, 法句經, Dhammapada, 了參法師, 文言文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP 
+:modified: 2016-05-16 18:30
+:tags: 心品, 法句經, Dhammapada, 了參法師, 文言文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP 
 :category: 巴利三藏小部
-:summary: 第　　　：　　　品, 法句經, Dhammapada, 了參法師, 文言文版
+:summary: 第三：心品, 法句經, Dhammapada, 了參法師, 文言文版
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`PDF </extra/pdf/dhp-Ven-L-C-chap01.pdf>`__ 
+PDF 
+
+.. <{filename}/extra/pdf/dhp-Ven-L-C-chap03.pdf>`__ 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -17,14 +20,68 @@
 
 ---------------------------
 
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。** （節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 </articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
+**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。** （節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-建構中 Under Construction!
+.. _CITTA:
+
+心品 CITTAVAGGO
+----------------
+
+三三　輕動變易心，難護難制服，智者調直之，如匠搦箭直。
+三四　如魚離水棲，投於陸地上，以此戰慄心，擺脫魔境界。
+
+三五　此心隨欲轉，輕躁難捉摸。善哉心調伏，心調得安樂。
+
+三六　此心隨欲轉，微妙極難見。智者防護心，心護得安樂。
+
+三七　遠行與獨行，無形隱深窟 [LChnFn03-01]_ 。誰能調伏心，解脫魔羅縛。 ( `037 典故 <{filename}../dhp-story/dhp-story037%zh.rst>`__ )
+
+三八　心若不安定，又不了正法，信心不堅者，智慧不成就。
+三九　若得無漏 [LChnFn03-02]_ 心，亦無諸惑亂，超越善與惡 [LChnFn03-03]_ ，覺者無恐怖。  ( `038~39 典故 <{filename}../dhp-story/dhp-story038-39%zh.rst>`__ )
+
+四０  知身如陶器 [LChnFn03-04]_ ，住心似城廓，慧劍擊魔羅，守勝 [LChnFn03-05]_ 莫染著 [LChnFn03-06]_ 。
+
+四一　此身實不久，當睡於地下，被棄 [LChnFn03-07]_ 無意識，無用如木屑 [LChnFn03-08]_ 。
+
+四二　仇敵害仇敵，怨家對怨家 [LChnFn03-09]_ ，若心向邪行 [LChnFn03-10]_ ，惡業最為大。
+
+四三  （善）非父母作，亦非他眷屬，若心向正行 [LChnFn03-11]_ ，善業最為大。
+
+**心品第三竟〔Cittavaggo  Tatiyo〕**
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+注釋：
+------
+
+.. [LChnFn03-01] 〔註03-01〕  這兩句都是形容心的。
+
+.. [LChnFn03-02] 〔註03-02〕  不漏落於貪欲。
+
+.. [LChnFn03-03] 〔註03-03〕  證得阿羅漢果以後，便不作新業，無論善業惡業都是超越了的。
+
+.. [LChnFn03-04] 〔註03-04〕  易碎的。
+
+.. [LChnFn03-05] 〔註03-05〕  「勝」利的果實是指進步的禪觀境界。
+
+.. [LChnFn03-06] 〔註03-06〕  不要染著於某種禪定境界，必須更求精進，努力向上。
+
+.. [LChnFn03-07] 〔註03-07〕  將被丟在一邊。
+
+.. [LChnFn03-08] 〔註03-08〕  在南方佛教國家中，佛弟子將死時，例請僧作最後供養。僧人即為頌此偈三遍。
+
+.. [LChnFn03-09] 〔註03-09〕  惡害。
+
+.. [LChnFn03-10] 〔註03-10〕  使他的心趨向於十種惡（Akusala）–– 殺生（Panatipato），偷盜（Adinnadanam），邪淫（Kamesu micchacaro），妄語（Musavado），兩舌（Pisuna vaca），粗惡語（Pharusa vaca），綺語（Samphappalapo），慳貪（Abhijjha），瞋恚（Vyapado），邪見（Micchaditthi）。 
+
+.. [LChnFn03-11] 〔註03-11〕  使他的心趨向於十種善（Kusala）––佈施（Danam），持戒（Silam），修禪定（Bhavana），尊敬（Apacayanam），作事（Veyyavaccam），回向功德（Pattidanam），隨喜功德（Pattanumodana），聽法（Dhammasavanam），說法（Dhammadesana），正直見（Ditthujjukammam）。
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - `法句經 首頁 <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+.. (研讀).: 33~34; 37; 38~39; 40; 41
