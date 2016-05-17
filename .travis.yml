@@ -8,6 +8,7 @@ addons:
   apt:
     packages:
     - language-pack-zh-hant
+    - wkhtmltopdf
 install:
 - pip install -r requirements.txt
 script:
