@@ -1,18 +1,18 @@
+sudo: required
+dist: trusty
 language: python
 python:
 - '2.7'
 branches:
   only:
   - master
-addons:
-  apt:
-    packages:
-    - language-pack-zh-hant
-    - ttf-wqy-microhei
-    - xvfb
-    - wkhtmltopdf
+before_install:
+- sudo add-apt-repository ppa:ecometrica/servers -y
+- sudo apt-get -qq update
+- sudo apt-get install -y language-pack-zh-hant wkhtmltopdf fonts-wqy-microhei ttf-wqy-microhei fonts-wqy-zenhei ttf-wqy-zenhei
 install:
 - pip install -r requirements.txt
+- fc-cache -f -v
 script:
 - make publish
 after_success:
