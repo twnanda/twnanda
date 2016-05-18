@@ -11,10 +11,6 @@ Dhammapada, The Buddha's Path of Wisdom
 
 --------------
 
-`PDF <{filename}/extra/pdf/dhp-en-ref.pdf>`__ 
-
----------------------------
-
 **Namo tassa bhagavato arahato sammāsambuddhassa**
 
 ---------------------------

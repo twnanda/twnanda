@@ -9,10 +9,6 @@
 
 --------------
 
-`PDF <{filename}/extra/pdf/dhp-contrast-reading-chap02.pdf>`__ 
-
-----------------------------------------
-
 - `《法句經》多譯本對讀目錄 <{filename}dhp-contrast-reading%zh.rst>`__
 
 ---------------------------

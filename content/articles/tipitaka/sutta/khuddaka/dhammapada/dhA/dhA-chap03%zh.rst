@@ -3,15 +3,11 @@
 
 :date: 2016-04-12 10:00
 :modified: 2016-04-16 21:40
-:tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma,    vaggo (Dhp. -  ), 　品,    
+:tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma
 :category: 巴利三藏小部
-:summary: 巴利法句經註解, 雙品, Dhammapada Aṭṭhakathā (DhA)
+:summary: 巴利法句經註解, 品, Dhammapada Aṭṭhakathā (DhA)
 
 --------------
-
-`PDF <{filename}/extra/pdf/dhA-chap0  %zh.pdf>`__
-
-----------------------------------------
 
 - `巴利《法句經》註解漢譯目錄 <{filename}dhA-content%zh.rst>`_
 

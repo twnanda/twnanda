@@ -14,8 +14,6 @@
 
 **禮敬世尊、阿羅漢、正等正覺者**
 
-.. `PDF <{filename}/extra/tipitaka/sutta/digha/dn22.pdf>`__
-
 ----
 
 
@@ -190,11 +188,7 @@
 
 **巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**\ …，…，…，
 
-（節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 </articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ \ ）
-
---------------
-
-資訊更新日期: 05.22, `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`__ (`BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__) 2558; (西元 CE 2015)
+（節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ \ ）
 
 --------------
 

@@ -1,15 +1,11 @@
-Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.) Chapter  .      ;  .    vaggo  (Dhp.   -   )
-#########################################################################################################################################
+Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.) Chapter 3. ;  vaggo  (Dhp. )
+########################################################################################################################
 
 :date: 2016-04-12 15:15
 :modified: 2016-04-19 15:00
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma, Pairs 
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.), Chapter  .      
-
---------------
-
-`PDF </extra/pdf/dhp-contrast-reading-en-chap00.pdf>`__ 
 
 --------------
 

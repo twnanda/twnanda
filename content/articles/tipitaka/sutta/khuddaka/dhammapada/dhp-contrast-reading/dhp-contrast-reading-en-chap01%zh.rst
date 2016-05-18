@@ -9,10 +9,6 @@ Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhamma
 
 --------------
 
-`PDF <{filename}/extra/pdf/dhp-contrast-reading-en-chap01.pdf>`__ 
-
---------------
-
 - `Content of Contrast-reading of Dhammapada <{filename}dhp-contrast-reading-en%zh.rst>`__
 
 ---------------------------

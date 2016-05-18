@@ -1,4 +1,4 @@
-法句經, Dhammapada, 敬法 比丘 譯, 第二修訂版2015, 白話文版
+法句經, Dhammapada, 白話文版, 敬法 比丘 譯, 第二修訂版2015
 ##########################################################
 
 :date: 2016-04-03 17:30
@@ -9,11 +9,7 @@
 
 --------------
 
-`PDF <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__ 
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。** （節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 </articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
+**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。** （節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -250,8 +246,8 @@
 
 .. _APPAMADA:
 
-第二：不放逸品　APPAMADAVAGGO
------------------------------
+第二：不放逸品
+--------------
 
 - | 21 Appamādo amatapadaṃ [amataṃ padaṃ (ka.)], pamādo maccuno padaṃ;
   | Appamattā na mīyanti, ye pamattā yathā matā.
@@ -283,20 +279,130 @@
   | 透過勤奮不放逸、守戒與調服（諸根），
   | 智者應該做個島：洪水淹不了的島。
   | 
-
-**不放逸品第二竟〔Appamaadavaggo Dutiyo〕**
+- | 26 Pamādamanuyuñjanti, bālā dummedhino janā;
+  | Appamādañca medhāvī, dhanaṃ seṭṭhaṃva rakkhati.
+  |   
+  | 無慧愚痴的大眾，他們耽溺於放逸；
+  | 智者守護不放逸，猶如守護至上財。
+  | 
+- | 27 Mā pamādamanuyuñjetha, mā kāmaratisanthavaṃ [sandhavaṃ (ka)];
+  | Appamatto hi jhāyanto, pappoti vipulaṃ sukhaṃ. 
+  | 
+  | 不應耽溺於放逸，不應沉湎於欲樂，
+  | 禪修不放逸的人，的確獲得許多樂。
+  | 
+- | 28 Pamādaṃ appamādena, yadā nudati paṇḍito;
+  | Paññāpāsādamāruyha, asoko sokiniṃ pajaṃ;
+  | Pabbataṭṭhova bhūmaṭṭhe [bhummaṭṭhe (sī. syā.)], dhīro bāle avekkhati.
+  |   
+  | 智者透過不放逸，去除放逸的時候，
+  | 他登上了智慧殿，無憂看著憂苦眾，
+  | 猶如賢哲山頂立，下看平原的愚人。
+  | 
+- | 29 Appamatto pamattesu, suttesu bahujāgaro;
+  | Abalassaṃva sīghasso, hitvā yāti sumedhaso.
+  | 
+  | 在眾放逸人中他不放逸，在眾昏睡人中他極警覺，
+  | 智者猶如快馬迅速前進，把疲憊的馬遠拋在後頭。
+  | 
+- | 30 Appamādena maghavā, devānaṃ seṭṭhataṃ gato;
+  | Appamādaṃ pasaṃsanti, pamādo garahito sadā.
+  | 
+  | 摩伽透過不放逸，得以生為天之主。 [CFFn02-01]_
+  | 眾人讚賞不放逸，放逸永遠被責備。
+  | 
+- | 31 Appamādarato bhikkhu, pamāde bhayadassi vā;
+  | Saṃyojanaṃ aṇuṃ thūlaṃ, ḍahaṃ aggīva gacchati.
+  | 樂於不放逸的比丘，看見放逸中的危險，
+  | 他有如火焰般前進，燒盡一切大小束縛。
+  | 
+- | 32 Appamādarato bhikkhu, pamāde bhayadassi vā;
+  | Abhabbo parihānāya, nibbānasseva santike.
+  | 
+  | 樂於不放逸的比丘，看見放逸中的危險，
+  | 他絕不可能會倒退，而且已很接近涅槃。 [CFFn02-02]_
+  | 
+  | Appamādavaggo dutiyo niṭṭhito.
+  | 
+  | **不放逸品第二完畢**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _CITTA:
 
 心品 CITTAVAGGO
+---------------
 
-
-
-
-心品第三竟〔Cittavaggo  Tatiyo]_ 
-
+- | 33 Phandanaṃ capalaṃ cittaṃ, dūrakkhaṃ [durakkhaṃ (sabbattha)] dunnivārayaṃ;
+  | Ujuṃ karoti medhāvī, usukārova tejanaṃ.
+  | 
+  | 心浮不定且搖晃，難以防護難控制，
+  | 智者把心調正直，就像矢師矯正箭。
+  | 
+- | 34 Vārijova thale khitto, okamokataubbhato;
+  | Pariphandatidaṃ cittaṃ, māradheyyaṃ pahātave.
+  | 
+  | 水中魚被取出投擲於地時，牠會跳躍不安；
+  | 嘗試要把此心帶離魔界時，它亦跳躍不安。[CFFn03-01]_
+  | 
+- | 35 Dunniggahassa lahuno, yatthakāmanipātino;
+  | Cittassa damatho sādhu, cittaṃ dantaṃ sukhāvahaṃ.
+  | 
+  | 心難控制且輕浮，隨著喜好而停留。
+  | 能調服心的確好，調服之心帶來樂。
+  | 
+- | 36 Sududdasaṃ sunipuṇaṃ, yatthakāmanipātinaṃ;
+  | Cittaṃ rakkhetha medhāvī, cittaṃ guttaṃ sukhāvahaṃ.
+  | 
+  | 心極難見極微細，隨著喜好而停留。
+  | 且讓智者防護心，受護之心帶來樂。
+  | 
+- | 37 Dūraṅgamaṃ ekacaraṃ [ekacāraṃ (ka.)], asarīraṃ guhāsayaṃ;
+  | Ye cittaṃ saṃyamessanti, mokkhanti mārabandhanā.
+  | 
+  | 心單獨行走活動，它無身住於洞穴。 [CFFn03-02]_
+  | 能制伏己心的人，解脫魔王的束縛。
+  | 
+- | 38 Anavaṭṭhitacittassa, saddhammaṃ avijānato;
+  | Pariplavapasādassa, paññā na paripūrati.
+  | 
+  | 對於心不安定，又不了知正法，
+  | 信心動搖之人，其慧不會圓滿。
+  | 
+- | 39 Anavassutacittassa, ananvāhatacetaso;
+  | Puññapāpapahīnassa, natthi jāgarato bhayaṃ.
+  | 
+  | 對於心沒被貪浸透、心沒有被瞋恨打擊、
+  | 已斷善惡的警覺者，對他而言沒有怖畏。 [CFFn03-03]_
+  | 
+- |  40 Kumbhūpamaṃ kāyamimaṃ viditvā, nagarūpamaṃ cittamidaṃ ṭhapetvā;
+  | Yodhetha māraṃ paññāvudhena, jitañca rakkhe anivesano siyā.
+  | 
+  | 了知此身脆如瓶，建立此心固若城，
+  | 當以慧器與魔戰，保護勝利不執著。 [CFFn03-04]_
+  | 
+- | 41 Aciraṃ vatayaṃ kāyo, pathaviṃ adhisessati;
+  | Chuddho apetaviññāṇo, niratthaṃva kaliṅgaraṃ.
+  | 
+  | 的確在不久之後，此身將躺在大地，
+  | 被丟棄且無心識，如丟棄無用木頭。
+  | 
+- | 42 Diso disaṃ yaṃ taṃ kayirā, verī vā pana verinaṃ;
+  | Micchāpaṇihitaṃ cittaṃ, pāpiyo [pāpiyaṃ (?)] naṃ tato kare.
+  | 
+  | 敵人對敵人所做的，怨家對怨家的傷害；
+  | 然而導向錯誤的心，卻比它們為害更大。
+  | 
+- | 43 Na taṃ mātā pitā kayirā, aññe vāpi ca ñātakā;
+  | Sammāpaṇihitaṃ cittaṃ, seyyaso naṃ tato kare.
+  | 
+  | 不是母親與父親所做的，也不是任何親戚所做的，
+  | 能比得上導向正確的心，能為自己帶來更大幸福。
+  | 
+  | **Cittavaggo tatiyo niṭṭhito.**
+  | 
+  | **心品第三完畢**
+  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _PUPPHA:
@@ -606,6 +712,16 @@
 .. [CFFn02-01] 〔敬法法師註02-01〕 註：由於造路等的善業，摩伽得以投生為帝釋天王。
 
 .. [CFFn02-02] 〔敬法法師註02-02〕 註釋：「**不可能會倒退**」：這樣的比丘不可能會從止觀法或道果倒退，不會從已達到之境倒退，也不會不達到未達之境。
+
+
+.. [CFFn03-01] 〔敬法法師註03-01〕 註：魔界是指煩惱輪轉。
+
+.. [CFFn03-02] 〔敬法法師註03-02〕 註：心單獨自活動是指在同一個心識剎那裡只能有一個心識生起。只有在前一個心識滅後，下一個心識才會生起。心是依靠位於心室裡的心所依處而生起的。
+
+.. [CFFn03-03] 〔敬法法師註03-04〕 註：已捨棄善惡即已成為阿羅漢。阿羅漢已根除了貪瞋痴，不再造業，包括善惡兩者。他的一切身語意行為都只是唯作而已。
+
+.. [CFFn03-04] 〔敬法法師註03-03〕 註：保護勝利是指保護已獲得的初階觀智，不執著是指不執著於禪那，而繼續修行觀禪直至證悟聖道果。
+
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -9,10 +9,6 @@
 
 --------------
 
-`PDF <{filename}/extra/pdf/dhp-contrast-reading.pdf>`__ 
-
---------------
-
 - 本對讀包含下列 個版本：
 
   - 巴利原典 (PTS) [1]_ 
@@ -117,8 +113,8 @@
 
    * - `25. Bhikkhuvaggo (Dhp.360-382) <{filename}../dhp-chap25%zh.rst>`_
      - `26. Brāhmaṇavaggo (Dhp.383-423) <{filename}../dhp-chap26%zh.rst>`_
-     - `Dhammapada (Dhp.001-423) <{filename}dhp-contrast-reading-full%zh.rst>`__
-
+     - Dhammapada (Dhp.001-423) -full
+     
    * - 25. 比丘品 (The Monk)
      - 26. 婆羅門品 (The Holy Man)
      - 整部 (The Full Text)

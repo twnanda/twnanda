@@ -8,7 +8,7 @@
 :category: 巴利三藏長部
 :summary: 大般涅槃經 (般涅槃大經) 多譯本對讀(段層次) 第三頌（第三章）, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, Chapter 3
 
-.. created from 03.18
+.. created from 2015.03.18
 
 .. list-table:: 《大般涅槃經》多譯本對讀(分章及整部) Content of Mahāparinibbānasuttaṃ
    :widths: 14 14 14 14 14 14 16 
@@ -72,7 +72,7 @@
 
 --------------
 
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**\ （節錄自：\ `巴利系佛教史綱　第六章　聖典　二　摘錄 </articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__\ ）
+**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**\ （節錄自：\ `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__\ ）
 
 --------------
 
