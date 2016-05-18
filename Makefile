@@ -51,6 +51,5 @@ publish: js scss clean
 
 ncku: js scss clean
 	$(PELICAN) $(INPUTDIR) -o $(NCKUOUTPUTDIR) -s $(NCKUPUBLISHCONF) $(PELICANOPTS)
-	bash tool/html2pdf.sh $(NCKUOUTPUTDIR) $(WEBSITECSS)
 
 .PHONY: download scss html clean serve publish

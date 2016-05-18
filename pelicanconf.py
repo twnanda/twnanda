@@ -7,6 +7,7 @@ NANDA_EMAIL = u'tw.nanda@gmail.com'
 SITENAME = u'府城佛教網'
 SITEURL = ''
 MIRROR_SITEURL = 'http://myweb.ncku.edu.tw/~lsn46/'
+PDF_SITEURL = 'http://nanda.online-dhamma.net'
 
 PATH = 'content'
 
