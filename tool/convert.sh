@@ -4,7 +4,7 @@
 # Google Search: bash append newline to end of file
 
 # $1 is the directory in which files to be processed
-for path in $(find $1 -type f)
+for path in $(find $1 -name "*.htm")
 do
   echo -e "\033[92mProcessing ${path} ...\033[0m"
   # big5 to utf8
