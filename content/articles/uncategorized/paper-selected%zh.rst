@@ -2,8 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2015-10-13
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/paper-selected.html
+:modified: 2016-05-19
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -38,9 +37,9 @@
 
   Cited from：佛陀教育基金會－經書電子檔下載 -- http://www.budaedu.org/publish/C1/index.php#CH11
 
-  `線上閱讀 <http://nanda.online-dhamma.net/lib/authors/Walpola-Rahula/What_the_Buddha_Taught-Han.html>`__ (HTML) 或下載(按滑鼠右鍵,選擇 "另存目標"(Chrome 則為"另存連結為")；便可直接存檔)：
-  `PDF <http://nanda.online-dhamma.net/lib/authors/Walpola-Rahula/What_the_Buddha_Taught-Han.pdf>`__ (含目錄及書籤功能)或
-  m$ `.DOC 檔 <http://nanda.online-dhamma.net/lib/authors/Walpola-Rahula/What_the_Buddha_Taught-Han.doc>`__
+  `線上閱讀 <{filename}/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.html>`__ (HTML) 或下載(按滑鼠右鍵,選擇 "另存目標"(Chrome 則為"另存連結為")；便可直接存檔)：
+  `PDF <{filename}/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.pdf>`__ (含目錄及書籤功能)或
+  m$ `.DOC 檔 <{filename}/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.doc>`__
 
   取材自：http://book.bfnn.org/books/0535.htm (直接閱讀 HTML)
 
@@ -53,10 +52,10 @@
 
   Venerable PIYADASSI THERA(毗那達西長老) 編著；方支/譯
 
-  `線上閱讀 <http://nanda.online-dhamma.net/lib/authors/Piyadassi/The-Buddhas-Ancient-Path-Han.htm>`__ (HTML)
+  `線上閱讀 <{filename}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.htm>`__ (HTML)
   或下載(按滑鼠右鍵,選擇 "另存目標"(Chrome 則為"另存連結為")；便可直接存檔)：
-  `PDF <http://nanda.online-dhamma.net/lib/authors/Piyadassi/The-Buddhas-Ancient-Path-Han.pdf>`__ (含目錄及書籤功能)或
-  m$ `.DOC 檔 <http://nanda.online-dhamma.net/lib/authors/Piyadassi/The-Buddhas-Ancient-Path-Han.doc>`__
+  `PDF <{filename}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.pdf>`__ (含目錄及書籤功能)或
+  m$ `.DOC 檔 <{filename}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.doc>`__
 
   取材自： ftp://ftp.puremind.org.tw/02%20南傳佛教入門資料%2F佛陀的古道.doc
 
@@ -69,7 +68,7 @@
 
   Venerable Narada Mahathera 那爛陀大長老 編著； 釋學愚法師 譯
 
-  線上閱讀或下載： `PDF <http://nanda.online-dhamma.net/lib/authors/Narada/The-Buddha-and-His-Teachings-Han.pdf>`__
+  線上閱讀或下載： `PDF <{filename}/extra/authors/narada/The-Buddha-and-His-Teachings-Han.pdf>`__
 
   英文版(English): `PDF(English) <http://nanda.online-dhamma.net/lib/authors/Narada/The-Buddha-and-His-Teachings-Han.pdf>`__
 
@@ -106,7 +105,7 @@
 
 ----
 
-- 《禪修心法--正確的修行態度》： `漢譯 <http://nanda.online-dhamma.net/lib/authors/shwe_oo_min/right_attitude-Han.pdf>`__
+- 《禪修心法--正確的修行態度》： `漢譯 <{filename}/extra/authors/shwe_oo_min/right_attitude-Han.pdf>`__
   (初版!)(`What is the Right Attitude for Meditation <http://www.vimokkha.com/WHAT%20IS%20THE%20RIGHT%20ATTITUDE%20FOR%20MEDITATION.htm>`_,
   Sayadaw Shwe O. Min originally wrote in Burmese,
   U. Tejaniya translates in English,
@@ -123,9 +122,9 @@
 
 - `《阿姜曼尊者正傳》 <http://www.charity.idv.tw/r/r.htm>`_ （新版《尊者阿姜　曼傳》，陳在昕、喬正一聯合翻譯。）
 
-- 《尊者阿姜　考‧阿納拉唷》： `正體中文 <http://nanda.online-dhamma.net/lib/authors/mahaboowa/Ajaan-Khao-trad-ch.pdf>`__
+- 《尊者阿姜　考‧阿納拉唷》： `正體中文 <{filename}/extra/authors/mahaboowa/Ajaan-Khao-trad-ch-Ver2-1.pdf>`__
   （取自： `One Drive-- Word Online <https://onedrive.live.com/view.aspx?cid=D7A954C2A604BF39&resid=D7A954C2A604BF39%21353&app=WordPdf&authkey=%21AFAgLw-E3vwNCAU>`__ ）；
-  `簡體中文 <http://nanda.online-dhamma.net/lib/authors/mahaboowa/Ajaan-Khao-simple-ch.pdf>`__
+  `簡體中文 <{filename}/extra/authors/mahaboowa/Ajaan-Khao-simple-ch-Ver2-1.pdf>`__
   （取自： `One Drive-- Word Online <https://onedrive.live.com/view.aspx?cid=D7A954C2A604BF39&resid=D7A954C2A604BF39%21352&app=WordPdf&authkey=%21AFAgLw-E3vwNCAU>`__ ）　←　 `One Drive <https://onedrive.live.com/?cid=d7a954c2a604bf39&id=D7A954C2A604BF39%21344&ithint=folder,pdf&authkey=!AFAgLw-E3vwNCAU>`__ ；短址：http://1drv.ms/1stcCxb）。
   中國法友請至（百度雲） `下載 <http://pan.baidu.com/s/1mgl1DOG>`__ 。
 
@@ -166,12 +165,12 @@
 ----
 
 - 《火山的熄滅》及《禪修心法--正確的修行態度》
-  `漢譯合刊 <http://nanda.online-dhamma.net/lib/authors/sujiva/Volcano/Volcano-Attitude.pdf>`__
+  `漢譯合刊 <{filename}/extra/authors/sujiva/Volcano/Volcano-Attitude.pdf>`__
 
 ----
 
 - 《火山的熄滅－－內觀禪介紹》：
-  `漢譯 <http://nanda.online-dhamma.net/lib/authors/sujiva/Volcano/volcanos-Han.pdf>`__ (初版!)
+  `漢譯 <{filename}/extra/authors/sujiva/Volcano/volcanos-Han.pdf>`__ (初版!)
   (`For the Stilling of Volcanoes <http://www.buddhanet.net/pdf_file/volcanos.pdf>`_, by Ven. Sujiva)
 
   [馬來西亞, `蘇吉瓦（蘇濟瓦）禪師 <http://nanda.online-dhamma.net/lib/authors/sujiva/sujiva.htm>`_ 著
@@ -202,16 +201,16 @@
 
 ----
 
-- `阿含聖典的解脫心法 <http://nanda.online-dhamma.net/vimutticitta/vimuttic.htm>`__
+- `阿含聖典的解脫心法 <{filename}/extra/vimutticitta/vimuttic.htm>`__
   （大卿弘法師於 1996 年的開示摘錄）
 
-- `線上經典示範：金剛經 <http://nanda.online-dhamma.net/demo/uajprdem.htm>`_
+- `線上經典示範：金剛經 <{filename}/extra/demo/uajprdem.htm>`_
   【測試版(依〝 `中華佛教百科文獻基金會 <{filename}/articles/buddhist-encyclo/chinese-buddhist-encyclopaedia%zh.rst>`_ 〞
   編著之《中華佛教百科全書》(第四冊 p. 2035 )】
 
-- `e世代佛典羅馬拼音台語版（金剛經．藥師經．彌陀經．普門品） <http://nanda.online-dhamma.net/lib/authors/ta-guan/Di-Guang-Si-TAIWANISH-Chanting.htm>`_ ：自然音標(口語調)﹒台語﹒羅馬注音版
+- `e世代佛典羅馬拼音台語版（金剛經．藥師經．彌陀經．普門品） <{filename}/extra/authors/ta-guan/Di-Guang-Si-TAIWANISH-Chanting.htm>`_ ：自然音標(口語調)﹒台語﹒羅馬注音版
 
-- `掬月囈語 <http://nanda.online-dhamma.net/Seefo/Asen/index.htm>`_
+- `掬月囈語 <{filename}/extra/seefo/Asen/index.htm>`_
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
