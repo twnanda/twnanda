@@ -173,7 +173,7 @@
   `漢譯 <{filename}/extra/authors/sujiva/Volcano/volcanos-Han.pdf>`__ (初版!)
   (`For the Stilling of Volcanoes <http://www.buddhanet.net/pdf_file/volcanos.pdf>`_, by Ven. Sujiva)
 
-  [馬來西亞, `蘇吉瓦（蘇濟瓦）禪師 <http://nanda.online-dhamma.net/lib/authors/sujiva/sujiva.htm>`_ 著
+  [馬來西亞, `蘇吉瓦（蘇濟瓦）禪師 <{filename}/extra/authors/sujiva/sujiva.htm>`_ 著
 
 ----
 
