@@ -2,14 +2,14 @@
 ===================
 
 :date: 2016-01-29 09:00
-:modified: 2016-05-16 10:50
+:modified: 2016-05-19 13:00
 :tags: 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經, Dhammapada
 
 --------------
 
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。** （節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 </articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
+**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。** （節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
 
 --------------
 
@@ -27,7 +27,7 @@
 
   * 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師** (葉均)，注解： **尊者 明法 比丘** ； `PDF <{filename}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{filename}/extra/doc/pc-Dhammapada.doc>`__； `DOC (Foreign1 字型) <{filename}/extra/doc/pc-Dhammapada-f1.doc>`__ [4]_
 
-  * `白話文版 (pdf) <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`_ ， **敬法 法師** 譯，第二修訂版 2015， `原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`_ ；　( `初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
+  * `白話文版 <{filename}dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__ (陸續補齊中)， **敬法 法師** 譯，第二修訂版 2015，`pdf <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__  `原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`_ ；　( `初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
 
   * **《真理的語言(法句經)》** ， **淨海 法師** 中譯 [5]_
 
