@@ -2,7 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2016-05-19
+:modified: 2016-05-20
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -105,11 +105,7 @@
 
 ----
 
-- 《禪修心法--正確的修行態度》： `漢譯 <{filename}/extra/authors/shwe_oo_min/right_attitude-Han.pdf>`__
-  (初版!)(`What is the Right Attitude for Meditation <http://www.vimokkha.com/WHAT%20IS%20THE%20RIGHT%20ATTITUDE%20FOR%20MEDITATION.htm>`_,
-  Sayadaw Shwe O. Min originally wrote in Burmese,
-  U. Tejaniya translates in English,
-  and Yeh Wenko translates in Chinese from English.)
+- 《禪修心法--正確的修行態度》： `漢譯 <{filename}/extra/authors/shwe_oo_min/What-is-the-Right-Attitude-for-Meditation-Han.html>`__ ; `PDF <{filename}/extra/authors/shwe_oo_min/right_attitude-Han.pdf>`__ (初版!) ( `What is the Right Attitude for Meditation <http://www.vimokkha.com/WHAT%20IS%20THE%20RIGHT%20ATTITUDE%20FOR%20MEDITATION.htm>`__ , Sayadaw Shwe O. Min originally wrote in Burmese, U. Tejaniya translates in English, and Yeh Wenko translates in Chinese from English.) 
 
   [緬甸, 西亞多 史歐明禪師 著（Sayadaw Shwe Oo Min 2002年11月辭世; 世壽 89）；
   烏 德旃尼亞 英譯；葉文可 漢譯]
