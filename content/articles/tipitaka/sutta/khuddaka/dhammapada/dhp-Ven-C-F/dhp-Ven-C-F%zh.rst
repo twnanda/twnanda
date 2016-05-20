@@ -3,7 +3,7 @@
 =================================================================
 
 :date: 2016-05-17 18:30
-:modified: 2016-05-17 20:30
+:modified: 2016-05-20 22:00
 :tags: 法句經, Dhammapada, 敬法比丘, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP 
 :category: 巴利三藏小部
 :summary: 《法句經》, Dhammapada, 白話文版, 敬法 比丘 譯, 第二修訂版 2015）
@@ -18,8 +18,8 @@
      - `第一：雙品 <{filename}dhp-Ven-C-F-chap01%zh.rst>`_
      - `第二：不放逸品 <{filename}dhp-Ven-C-F-chap02%zh.rst>`_
      - `第三：心品 <{filename}dhp-Ven-C-F-chap03%zh.rst>`_
-     - 第四：華品4
-     - 第五：愚品5
+     - 第四：華品 <{filename}dhp-Ven-C-F-chap04%zh.rst>`_
+     - 第五：愚品 <{filename}dhp-Ven-C-F-chap05%zh.rst>`_
 
    * - Preface
      - 1. Yamakavaggo (Dhp.1-20)
@@ -32,10 +32,10 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - 第六：智者品6
-     - 第七：阿羅漢品7
-     - 第八：千品8
-     - 第九：惡品9
+   * - 第六：智者品 <{filename}dhp-Ven-C-F-chap06%zh.rst>`_
+     - 第七：阿羅漢品 <{filename}dhp-Ven-C-F-chap07%zh.rst>`_
+     - 第八：千品 <{filename}dhp-Ven-C-F-chap08%zh.rst>`_
+     - 第九：惡品 <{filename}dhp-Ven-C-F-chap09%zh.rst>`_
      - 第十：刀杖品10
      - 第十一：老品11
 
