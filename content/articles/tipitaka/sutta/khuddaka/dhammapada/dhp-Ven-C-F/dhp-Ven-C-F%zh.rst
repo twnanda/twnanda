@@ -89,7 +89,7 @@
    * - 第廿四：愛欲品24
      - 第廿五：比丘品25
      - 第廿六：波羅門品26
-     - `整部 <{filename}dhp-Ven-C-F-Ver2-PaHan-full%zh.rst>`__
+     - `整部 <{filename}dhp-Ven-C-F-full%zh.rst>`__
 
    * - 24. Taṇhāvaggo (Dhp.334-359)
      - 25. Bhikkhuvaggo (Dhp.360-382)
