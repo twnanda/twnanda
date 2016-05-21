@@ -144,7 +144,7 @@ I. `Digha-nikaya 長部 (Diigha-nikaaya)(Abr.=D)(Dialogues of the Buddha)(SBB) o
   2. Mahaavagga 大品
   3. Paathikavagga 波梨品
 
-II. `Majjhima-nikaya 中部 (Majjhima-nikaaya)(Abr.=M)(Further Dialogues of the Buddha)(SBB) or (The "Middle-length" Discourses), 3 vols <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Majjhima-nikaaya.htm>`_
+II. `Majjhima-nikaya 中部 (Majjhima-nikaaya)(Abr.=M)(Further Dialogues of the Buddha)(SBB) or (The "Middle-length" Discourses), 3 vols <{filename}sutta/majjhima/majjhima-nikaaya%zh.rst>`_
  
   1. Muulapa.n.naasa  根本五十經篇
   2. Majjhimapa.n.naasa 中分五十經篇
