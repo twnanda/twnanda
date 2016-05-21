@@ -41,13 +41,10 @@
   | 
 - | 3 Akkocchi maṃ avadhi maṃ, ajini [ajinī (?)] maṃ ahāsi me;
   | Ye ca taṃ upanayhanti, veraṃ tesaṃ na sammati.
-  |   
   | 「他辱罵我毆打我，他擊敗我掠奪我。」
   | 若人心懷此想法，他們之恨不會止。
-  | 
 - | 4. Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me;
   | Ye ca taṃ nupanayhanti, veraṃ tesūpasammati.
-  | 
   | 「他辱罵我毆打我，他擊敗我掠奪我。」
   | 若人不懷此想法，他們之恨會止息。
   | 
@@ -65,54 +62,43 @@
 - | 7 Subhānupassiṃ viharantaṃ, indriyesu asaṃvutaṃ;
   | Bhojanamhi cāmattaññuṃ, kusītaṃ hīnavīriyaṃ;
   | Taṃ ve pasahati māro, vāto rukkhaṃva dubbalaṃ.
-  | 
   | 住於觀淨美，諸根沒克制，
   | 於食不知足，怠惰不精進，
   | 魔王制伏他，如風吹弱樹。
-  | 
 - | 8 Asubhānupassiṃ viharantaṃ, indriyesu susaṃvutaṃ;
   | Bhojanamhi ca mattaññuṃ, saddhaṃ āraddhavīriyaṃ;
   | Taṃ ve nappasahati māro, vāto selaṃva pabbataṃ.
-  | 
   | 住於觀不淨，諸根善克制，
   | 於食且知足，具信且精進，
   | 魔無法制他，如風吹石山。
   | 
 - | 9 Anikkasāvo kāsāvaṃ, yo vatthaṃ paridahissati;
   | Apeto damasaccena, na so kāsāvamarahati.
-  | 
   | 該人還未除污染，但卻身上穿袈裟，
   | 沒有自制不真實，穿著袈裟他不配。
-  | 
 - | 10 Yo ca vantakasāvassa, sīlesu susamāhito;
   | Upeto damasaccena, sa ve kāsāvamarahati.
-  | 
   | 該人已經除污染 [CFFn01-03]_ ，善於持守其戒行，
   | 具備自制與真實，的確他配穿袈裟。
   | 
 - | 11 Asāre sāramatino, sāre cāsāradassino;
   | Te sāraṃ nādhigacchanti, micchāsaṅkappagocarā.
-  | 
   | 思無內涵為有內涵，視有內涵為無內涵。
   | 擁有此邪思惟的人，他們不能達到內涵。
-  | 
 - | 12 Sārañca sārato ñatvā, asārañca asārato;
   | Te sāraṃ adhigacchanti, sammāsaṅkappagocarā.
-  | 
   | 知有內涵為有內涵，知無內涵為無內涵。
   | 擁有此正思惟的人，他們能夠達到內涵。
   | 
 - | 13 Yathā agāraṃ ducchannaṃ, vuṭṭhī samativijjhati;
   | Evaṃ abhāvitaṃ cittaṃ, rāgo samativijjhati.
-  | 
   | 就像雨可以滲透蓋得不好的屋子，
-  | 貪欲亦可滲透尚未受到培育的心。（接）
-  | 
+  | 貪欲亦可滲透尚未受到培育的心。
 - | 14 Yathā agāraṃ suchannaṃ, vuṭṭhī na samativijjhati;
   | Evaṃ subhāvitaṃ cittaṃ, rāgo na samativijjhati.
-  | 
   | 就像雨不能滲透蓋得很好的屋子，
   | 貪欲亦滲不透已被良好培育的心。 [CFFn01-04]_ 
+  | 
 - | 15 Idha socati pecca socati, pāpakārī ubhayattha socati;
   | So socati so vihaññati, disvā kammakiliṭṭhamattano.
   | 
@@ -146,35 +132,33 @@
   | 
 - | 19 Bahumpi ce saṃhita [sahitaṃ (sī. syā. kaṃ. pī.)] bhāsamāno, na takkaro hoti naro pamatto;
   | Gopova gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.
-  | 
   | 即使背誦許多經，放逸者不實行它，
   | 猶如牧者數他牛，沒得分享沙門份。
-  | 
 - | 20 Appampi ce saṃhita bhāsamāno, dhammassa hoti [hotī (sī. pī.)] anudhammacārī;
   | Rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto;
   | Anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.
-  | 
   | 即使背誦少許經，依法之人依法行，
   | 捨棄了貪和瞋痴，具備正知心全解，
   | 今生來世不執著，他得分享沙門份。 [CFFn01-05]_ 
   | 
-  | **Yamakavaggo pañhamo niññhito**
-  | **雙品第一完畢**
+
+**Yamakavaggo pañhamo niññhito**
+**雙品第一完畢**
 
 ~~~~~~~~~~~~~~~~
 
 注釋：
 ------
 
-.. [CFFn01-01] 〔敬法法師註01〕　於此，法是指五蘊中的受、想、行，意則是指識。
+.. [CFFn01-01] 〔敬法法師註01-01〕 1 於此，法是指五蘊中的受、想、行，意則是指識。
 
-.. [CFFn01-02] 〔敬法法師註01-02〕 註釋：於此，「他人」（pare）是指除了智者們之外，其他製造爭論的人就是他人。
+.. [CFFn01-02] 〔敬法法師註01-02〕 2 註釋：於此，「 **他人** 」（pare）是指除了智者們之外，其他製造爭論的人就是他人。
 
-.. [CFFn01-03] 〔敬法法師註01-03〕　註釋：「已去除污染之人」（vantakasàv'assa）是已透過四道去除污染、棄除污染、斷除污染之人。
+.. [CFFn01-03] 〔敬法法師註01-03〕 3 註釋：「 **已去除污染之人** 」（vantakasàv'assa）是已透過四道去除污染、棄除污染、斷除污染之人。
 
-.. [CFFn01-04] 〔敬法法師註01-04〕　註釋：「良好培育」是於止觀禪法得到良好培育。
+.. [CFFn01-04] 〔敬法法師註01-04〕 4 註釋：「 **良好培育** 」是於止觀禪法得到良好培育。
 
-.. [CFFn01-05] 〔敬法法師註01-05〕　註：沙門份是指道果。
+.. [CFFn01-05] 〔敬法法師註01-05〕 5 註：沙門份是指道果。
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

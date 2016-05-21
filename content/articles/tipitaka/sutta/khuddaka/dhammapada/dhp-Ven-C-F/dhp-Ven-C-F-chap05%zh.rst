@@ -103,14 +103,11 @@
   | 
 - | 73 Asantaṃ bhāvanamiccheyya [asantaṃ bhāvamiccheyya (syā.), asantabhāvanamiccheyya (ka.)], purekkhārañca bhikkhusu;
   | Āvāsesu ca issariyaṃ, pūjā parakulesu ca.
-  | 
   | 無德者有非份之求，要在眾比丘中居先，
-  | 要在寺院裡掌主權，及貪求別家的禮敬。 [CFFn05-03]_ （接）
-  | 
+  | 要在寺院裡掌主權，及貪求別家的禮敬。 [CFFn05-03]_ 
 - | 74 Mameva kata maññantu, gihīpabbajitā ubho;
   | Mamevātivasā assu, kiccākiccesu kismici;
   | Iti bālassa saṅkappo, icchā māno ca vaḍḍhati.
-  | 
   | 願居士出家眾兩者，皆想諸事因我成就。
   | 無論一切大小的事，讓他們聽我的指示。
   | 這就是愚人的想法，其貪欲與我慢增長。
@@ -133,11 +130,11 @@
 注釋：
 ------
 
-.. [CFFn05-01] 〔敬法法師註05-01〕 一由旬大約有七英里。
+.. [CFFn05-01] 〔敬法法師註05-01〕 16 一由旬大約有七英里。
 
-.. [CFFn05-02] 〔敬法法師註05-02〕 註釋：頭顱是指智慧。
+.. [CFFn05-02] 〔敬法法師註05-02〕 17 註釋： **頭顱** 是指智慧。
 
-.. [CFFn05-03] 〔敬法法師註05-03〕 18 註釋：以及別家的禮敬（påjà parakulesu ca）：對於不是父母親，也不是親戚的（別人家），他如此期望他們以四資具來禮敬：「啊，願他們只給我，而不是（供養給）其他人！」
+.. [CFFn05-03] 〔敬法法師註05-03〕 18 註釋： **以及別家的禮敬** （påjà parakulesu ca）：對於不是父母親，也不是親戚的（別人家），他如此期望他們以四資具來禮敬：「啊，願他們只給我，而不是（供養給）其他人！」
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

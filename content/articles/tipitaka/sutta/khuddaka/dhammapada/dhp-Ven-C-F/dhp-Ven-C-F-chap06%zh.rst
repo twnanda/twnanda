@@ -83,26 +83,20 @@
   | 
 - | 85 Appakā te manussesu, ye janā pāragāmino;
   | Athāyaṃ itarā pajā, tīramevānudhāvati.
-  | 
   | 到達彼岸的人，只有少數幾個；
   | 其他所有的人，於此岸來回跑。
-  | 
 - | 86 Ye ca kho sammadakkhāte, dhamme dhammānuvattino;
   | Te janā pāramessanti, maccudheyyaṃ suduttaraṃ.
-  | 
   | 然而那些依圓滿宣說之法實行的人，
   | 他們將到達彼岸，越渡極難越渡的死界。
   | 
 - | 87 Kaṇhaṃ dhammaṃ vippahāya, sukkaṃ bhāvetha paṇḍito;
   | Okā anokamāgamma, viveke yattha dūramaṃ.
-  | 
 - | 88 Tatrābhiratimiccheyya, hitvā kāme akiñcano;
   | Pariyodapeyya [pariyodāpeyya (?)] attānaṃ, cittaklesehi paṇḍito.
-  | 
   | 離家來到無家的智者，應捨棄黑暗培育光明。
   | 他應在遠離之中尋求，甚難享受到的極大樂。
   | 捨棄欲樂後再無障礙，智者清淨自心的煩惱。
-  | 
 - | 89 Yesaṃ sambodhiyaṅgesu, sammā cittaṃ subhāvitaṃ;
   | Ādānapaṭinissagge, anupādāya ye ratā;
   | Khīṇāsavā jutimanto, te loke parinibbutā.

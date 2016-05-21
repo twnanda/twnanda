@@ -25,19 +25,14 @@
 
 - | 21 Appamādo amatapadaṃ [amataṃ padaṃ (ka.)], pamādo maccuno padaṃ;
   | Appamattā na mīyanti, ye pamattā yathā matā.
-  | 
   | 不放逸是不死境，放逸是死亡之境；
   | 不放逸的人不死，放逸者猶如已死。
-  | 
 - | 22 Evaṃ [etaṃ (sī. syā. kaṃ. pī.)] visesato ñatvā, appamādamhi paṇḍitā;
   | Appamāde pamodanti, ariyānaṃ gocare ratā.
-  | 
   | 清楚了知這一點，智者絕對不放逸，
   | 他們樂於不放逸，他們喜樂於聖界。
-  | 
 - | 23 Te jhāyino sātatikā, niccaṃ daḷhaparakkamā;
   | Phusanti dhīrā nibbānaṃ, yogakkhemaṃ anuttaraṃ.
-  | 
   | 那些禪者持恆地、常常穩固地精進，
   | 賢者們體驗涅槃：無上的解脫諸軛。
   | 
@@ -55,13 +50,10 @@
   | 
 - | 26 Pamādamanuyuñjanti, bālā dummedhino janā;
   | Appamādañca medhāvī, dhanaṃ seṭṭhaṃva rakkhati.
-  |   
   | 無慧愚痴的大眾，他們耽溺於放逸；
   | 智者守護不放逸，猶如守護至上財。
-  | 
 - | 27 Mā pamādamanuyuñjetha, mā kāmaratisanthavaṃ [sandhavaṃ (ka)];
   | Appamatto hi jhāyanto, pappoti vipulaṃ sukhaṃ. 
-  | 
   | 不應耽溺於放逸，不應沉湎於欲樂，
   | 禪修不放逸的人，的確獲得許多樂。
   | 
@@ -96,18 +88,19 @@
   | 樂於不放逸的比丘，看見放逸中的危險，
   | 他絕不可能會倒退，而且已很接近涅槃。 [CFFn02-02]_
   | 
-  | Appamādavaggo dutiyo niṭṭhito.
-  | 
-  | **不放逸品第二完畢**
+
+**Appamādavaggo dutiyo niṭṭhito.**
+
+**不放逸品第二完畢**
 
 ~~~~~~
 
 注釋：
 ------
 
-.. [CFFn02-01] 〔敬法法師註02-01〕 註：由於造路等的善業，摩伽得以投生為帝釋天王。
+.. [CFFn02-01] 〔敬法法師註02-01〕 6 註：由於造路等的善業，摩伽得以投生為帝釋天王。
 
-.. [CFFn02-02] 〔敬法法師註02-02〕 註釋：「**不可能會倒退**」：這樣的比丘不可能會從止觀法或道果倒退，不會從已達到之境倒退，也不會不達到未達之境。
+.. [CFFn02-02] 〔敬法法師註02-02〕 7 註釋：「**不可能會倒退**」：這樣的比丘不可能會從止觀法或道果倒退，不會從已達到之境倒退，也不會不達到未達之境。
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

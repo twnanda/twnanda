@@ -2,7 +2,7 @@
 ##########################################################
 
 :date: 2016-04-03 17:30
-:modified: 2016-05-20 17:00
+:modified: 2016-05-21 21:30
 :tags: 法句經, Dhammapada, 敬法比丘, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP 
 :category: 巴利三藏小部
 :summary: 法句經, Dhammapada, 敬法比丘, 白話文版
@@ -122,13 +122,10 @@
   | 
 - | 3 Akkocchi maṃ avadhi maṃ, ajini [ajinī (?)] maṃ ahāsi me;
   | Ye ca taṃ upanayhanti, veraṃ tesaṃ na sammati.
-  |   
   | 「他辱罵我毆打我，他擊敗我掠奪我。」
   | 若人心懷此想法，他們之恨不會止。
-  | 
 - | 4. Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me;
   | Ye ca taṃ nupanayhanti, veraṃ tesūpasammati.
-  | 
   | 「他辱罵我毆打我，他擊敗我掠奪我。」
   | 若人不懷此想法，他們之恨會止息。
   | 
@@ -146,54 +143,43 @@
 - | 7 Subhānupassiṃ viharantaṃ, indriyesu asaṃvutaṃ;
   | Bhojanamhi cāmattaññuṃ, kusītaṃ hīnavīriyaṃ;
   | Taṃ ve pasahati māro, vāto rukkhaṃva dubbalaṃ.
-  | 
   | 住於觀淨美，諸根沒克制，
   | 於食不知足，怠惰不精進，
   | 魔王制伏他，如風吹弱樹。
-  | 
 - | 8 Asubhānupassiṃ viharantaṃ, indriyesu susaṃvutaṃ;
   | Bhojanamhi ca mattaññuṃ, saddhaṃ āraddhavīriyaṃ;
   | Taṃ ve nappasahati māro, vāto selaṃva pabbataṃ.
-  | 
   | 住於觀不淨，諸根善克制，
   | 於食且知足，具信且精進，
   | 魔無法制他，如風吹石山。
   | 
 - | 9 Anikkasāvo kāsāvaṃ, yo vatthaṃ paridahissati;
   | Apeto damasaccena, na so kāsāvamarahati.
-  | 
   | 該人還未除污染，但卻身上穿袈裟，
   | 沒有自制不真實，穿著袈裟他不配。
-  | 
 - | 10 Yo ca vantakasāvassa, sīlesu susamāhito;
   | Upeto damasaccena, sa ve kāsāvamarahati.
-  | 
   | 該人已經除污染 [CFFn01-03]_ ，善於持守其戒行，
   | 具備自制與真實，的確他配穿袈裟。
   | 
 - | 11 Asāre sāramatino, sāre cāsāradassino;
   | Te sāraṃ nādhigacchanti, micchāsaṅkappagocarā.
-  | 
   | 思無內涵為有內涵，視有內涵為無內涵。
   | 擁有此邪思惟的人，他們不能達到內涵。
-  | 
 - | 12 Sārañca sārato ñatvā, asārañca asārato;
   | Te sāraṃ adhigacchanti, sammāsaṅkappagocarā.
-  | 
   | 知有內涵為有內涵，知無內涵為無內涵。
   | 擁有此正思惟的人，他們能夠達到內涵。
   | 
 - | 13 Yathā agāraṃ ducchannaṃ, vuṭṭhī samativijjhati;
   | Evaṃ abhāvitaṃ cittaṃ, rāgo samativijjhati.
-  | 
   | 就像雨可以滲透蓋得不好的屋子，
-  | 貪欲亦可滲透尚未受到培育的心。（接）
-  | 
+  | 貪欲亦可滲透尚未受到培育的心。
 - | 14 Yathā agāraṃ suchannaṃ, vuṭṭhī na samativijjhati;
   | Evaṃ subhāvitaṃ cittaṃ, rāgo na samativijjhati.
-  | 
   | 就像雨不能滲透蓋得很好的屋子，
   | 貪欲亦滲不透已被良好培育的心。 [CFFn01-04]_ 
+  | 
 - | 15 Idha socati pecca socati, pāpakārī ubhayattha socati;
   | So socati so vihaññati, disvā kammakiliṭṭhamattano.
   | 
@@ -227,20 +213,17 @@
   | 
 - | 19 Bahumpi ce saṃhita [sahitaṃ (sī. syā. kaṃ. pī.)] bhāsamāno, na takkaro hoti naro pamatto;
   | Gopova gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.
-  | 
   | 即使背誦許多經，放逸者不實行它，
   | 猶如牧者數他牛，沒得分享沙門份。
-  | 
 - | 20 Appampi ce saṃhita bhāsamāno, dhammassa hoti [hotī (sī. pī.)] anudhammacārī;
   | Rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto;
   | Anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.
-  | 
   | 即使背誦少許經，依法之人依法行，
   | 捨棄了貪和瞋痴，具備正知心全解，
   | 今生來世不執著，他得分享沙門份。 [CFFn01-05]_ 
+  | 
 
 **Yamakavaggo pañhamo niññhito**
-
 **雙品第一完畢**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -252,19 +235,14 @@
 
 - | 21 Appamādo amatapadaṃ [amataṃ padaṃ (ka.)], pamādo maccuno padaṃ;
   | Appamattā na mīyanti, ye pamattā yathā matā.
-  | 
   | 不放逸是不死境，放逸是死亡之境；
   | 不放逸的人不死，放逸者猶如已死。
-  | 
 - | 22 Evaṃ [etaṃ (sī. syā. kaṃ. pī.)] visesato ñatvā, appamādamhi paṇḍitā;
   | Appamāde pamodanti, ariyānaṃ gocare ratā.
-  | 
   | 清楚了知這一點，智者絕對不放逸，
   | 他們樂於不放逸，他們喜樂於聖界。
-  | 
 - | 23 Te jhāyino sātatikā, niccaṃ daḷhaparakkamā;
   | Phusanti dhīrā nibbānaṃ, yogakkhemaṃ anuttaraṃ.
-  | 
   | 那些禪者持恆地、常常穩固地精進，
   | 賢者們體驗涅槃：無上的解脫諸軛。
   | 
@@ -282,13 +260,10 @@
   | 
 - | 26 Pamādamanuyuñjanti, bālā dummedhino janā;
   | Appamādañca medhāvī, dhanaṃ seṭṭhaṃva rakkhati.
-  |   
   | 無慧愚痴的大眾，他們耽溺於放逸；
   | 智者守護不放逸，猶如守護至上財。
-  | 
 - | 27 Mā pamādamanuyuñjetha, mā kāmaratisanthavaṃ [sandhavaṃ (ka)];
   | Appamatto hi jhāyanto, pappoti vipulaṃ sukhaṃ. 
-  | 
   | 不應耽溺於放逸，不應沉湎於欲樂，
   | 禪修不放逸的人，的確獲得許多樂。
   | 
@@ -322,7 +297,7 @@
   | 
   | 樂於不放逸的比丘，看見放逸中的危險，
   | 他絕不可能會倒退，而且已很接近涅槃。 [CFFn02-02]_
-
+  | 
 
 **Appamādavaggo dutiyo niṭṭhito.**
 
@@ -337,13 +312,10 @@
 
 - | 33 Phandanaṃ capalaṃ cittaṃ, dūrakkhaṃ [durakkhaṃ (sabbattha)] dunnivārayaṃ;
   | Ujuṃ karoti medhāvī, usukārova tejanaṃ.
-  | 
   | 心浮不定且搖晃，難以防護難控制，
   | 智者把心調正直，就像矢師矯正箭。
-  | 
 - | 34 Vārijova thale khitto, okamokataubbhato;
   | Pariphandatidaṃ cittaṃ, māradheyyaṃ pahātave.
-  | 
   | 水中魚被取出投擲於地時，牠會跳躍不安；
   | 嘗試要把此心帶離魔界時，它亦跳躍不安。[CFFn03-01]_
   | 
@@ -367,13 +339,10 @@
   | 
 - | 38 Anavaṭṭhitacittassa, saddhammaṃ avijānato;
   | Pariplavapasādassa, paññā na paripūrati.
-  | 
   | 對於心不安定，又不了知正法，
   | 信心動搖之人，其慧不會圓滿。
-  | 
 - | 39 Anavassutacittassa, ananvāhatacetaso;
   | Puññapāpapahīnassa, natthi jāgarato bhayaṃ.
-  | 
   | 對於心沒被貪浸透、心沒有被瞋恨打擊、
   | 已斷善惡的警覺者，對他而言沒有怖畏。 [CFFn03-03]_
   | 
@@ -400,6 +369,7 @@
   | 
   | 不是母親與父親所做的，也不是任何親戚所做的，
   | 能比得上導向正確的心，能為自己帶來更大幸福。
+  | 
 
 **Cittavaggo tatiyo niṭṭhito.**
 
@@ -414,13 +384,10 @@
 
 - | 44 Ko  imaṃ [komaṃ (ka.)] pathaviṃ vicessati [vijessati (sī. syā. pī.)], yamalokañca imaṃ sadevakaṃ;
   | Ko dhammapadaṃ sudesitaṃ, kusalo pupphamiva pacessati [pupphamivappacessati (ka.)].
-  | 
   | 誰能審查此大地、閻魔界與人天界？ [CFFn04-01]_
   | 誰能如善巧花匠，了知善說的真理？
-  | 
 - | 45 Sekho pathaviṃ vicessati, yamalokañca imaṃ sadevakaṃ;
   | Sekho dhammapadaṃ sudesitaṃ, kusalo pupphamiva pacessati.
-  | 
   | 有學者審查大地、閻魔界與人天界。 [CFFn04-02]_
   | 有學者如巧花匠，了知善說的真理。
   | 
@@ -458,13 +425,10 @@
   | 
 - | 51 Yathāpi ruciraṃ pupphaṃ, vaṇṇavantaṃ agandhakaṃ;
   | Evaṃ subhāsitā vācā, aphalā hoti akubbato.
-  | 
   | 猶如美麗卻不香的花朵，
   | 如是不實踐之善語無果。
-  | 
 - | 52 Yathāpi ruciraṃ pupphaṃ, vaṇṇavantaṃ sugandhakaṃ [sagandhakaṃ (sī. syā. kaṃ. pī.)];
   | Evaṃ subhāsitā vācā, saphalā hoti kubbato [sakubbato (sī. pī.), pakubbato (sī. aṭṭha.), sukubbato (syā. kaṃ.)].
-  | 
   | 猶如既美麗又香的花朵，
   | 如是實踐之善語有結果。
   | 
@@ -476,13 +440,10 @@
   | 
 - | 54 Na pupphagandho paṭivātameti, na candanaṃ tagaramallikā [tagaramallikā (sī. syā. kaṃ. pī.)];
   | Satañca gandho paṭivātameti, sabbā disā sappuriso pavāyati.
-  | 
   | 花香不能逆風吹送，檀香、多伽羅及茉莉都不能；
   | 智者之香逆風吹送，善士之香能吹送至一切方向。
-  | 
 - | 55 Candanaṃ tagaraṃ vāpi, uppalaṃ atha vassikī;
   | Etesaṃ gandhajātānaṃ, sīlagandho anuttaro.
-  | 
   | 檀香、多伽羅、蓮花及茉莉之香，
   | 於那些香當中，戒德之香乃無上。
   | 
@@ -500,19 +461,16 @@
   | 
 - | 58 Yathā saṅkāraṭhānasmiṃ [saṅkāradhānasmiṃ (sī. syā. kaṃ. pī.)], ujjhitasmiṃ mahāpathe;
   | Padumaṃ tattha jāyetha, sucigandhaṃ manoramaṃ.
-  | 
   | 猶如丟棄於大道的垃圾堆裡，
-  | 也能生長著清香悅意的蓮花；（接）
-  | 
+  | 也能生長著清香悅意的蓮花；
 - | 59 Evaṃ saṅkārabhūtesu, andhabhūte [andhībhūte (ka.)] puthujjane;
   | Atirocati paññāya, sammāsambuddhasāvako.
-  | 
   | 在無用的眾生裡，也能出現佛弟子，
   | 他以智慧來照耀，超越盲目的凡夫。
   | 
 
 **Pupphavaggo catuttho niṭṭhito.**
- 
+
 **花品第四完畢**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -602,14 +560,11 @@
   | 
 - | 73 Asantaṃ bhāvanamiccheyya [asantaṃ bhāvamiccheyya (syā.), asantabhāvanamiccheyya (ka.)], purekkhārañca bhikkhusu;
   | Āvāsesu ca issariyaṃ, pūjā parakulesu ca.
-  | 
   | 無德者有非份之求，要在眾比丘中居先，
-  | 要在寺院裡掌主權，及貪求別家的禮敬。 [CFFn05-03]_ （接）
-  | 
+  | 要在寺院裡掌主權，及貪求別家的禮敬。 [CFFn05-03]_ 
 - | 74 Mameva kata maññantu, gihīpabbajitā ubho;
   | Mamevātivasā assu, kiccākiccesu kismici;
   | Iti bālassa saṅkappo, icchā māno ca vaḍḍhati.
-  | 
   | 願居士出家眾兩者，皆想諸事因我成就。
   | 無論一切大小的事，讓他們聽我的指示。
   | 這就是愚人的想法，其貪欲與我慢增長。
@@ -694,26 +649,20 @@
   | 
 - | 85 Appakā te manussesu, ye janā pāragāmino;
   | Athāyaṃ itarā pajā, tīramevānudhāvati.
-  | 
   | 到達彼岸的人，只有少數幾個；
   | 其他所有的人，於此岸來回跑。
-  | 
 - | 86 Ye ca kho sammadakkhāte, dhamme dhammānuvattino;
   | Te janā pāramessanti, maccudheyyaṃ suduttaraṃ.
-  | 
   | 然而那些依圓滿宣說之法實行的人，
   | 他們將到達彼岸，越渡極難越渡的死界。
   | 
 - | 87 Kaṇhaṃ dhammaṃ vippahāya, sukkaṃ bhāvetha paṇḍito;
   | Okā anokamāgamma, viveke yattha dūramaṃ.
-  | 
 - | 88 Tatrābhiratimiccheyya, hitvā kāme akiñcano;
   | Pariyodapeyya [pariyodāpeyya (?)] attānaṃ, cittaklesehi paṇḍito.
-  | 
   | 離家來到無家的智者，應捨棄黑暗培育光明。
   | 他應在遠離之中尋求，甚難享受到的極大樂。
   | 捨棄欲樂後再無障礙，智者清淨自心的煩惱。
-  | 
 - | 89 Yesaṃ sambodhiyaṅgesu, sammā cittaṃ subhāvitaṃ;
   | Ādānapaṭinissagge, anupādāya ye ratā;
   | Khīṇāsavā jutimanto, te loke parinibbutā.
@@ -824,13 +773,10 @@
   | 
 - | 102 Yo ca gāthā sataṃ bhāse, anatthapadasaṃhitā [anatthapadasañhitaṃ (ka.) visesanaṃ hetaṃ gāthātipadassa];
   | Ekaṃ dhammapadaṃ seyyo, yaṃ sutvā upasammati.
-  | 
   | 一個聽後得平靜的法句，
   | 好過誦百首無意義的偈。
-  | 
 - | 103 Yo sahassaṃ sahassena, saṅgāme mānuse jine;
   | Ekañca jeyyamattānaṃ [attānaṃ (sī. pī.)], sa ve saṅgāmajuttamo.
-  | 
   | 即使有人在戰場上，戰勝一千人一千次，
   | 但戰勝自己一人者，才真是至上戰勝者。
   | 
@@ -940,13 +886,10 @@
   | 
 - | 119 Pāpopi passati bhadraṃ, yāva pāpaṃ na paccati;
   | Yadā ca paccati pāpaṃ, atha pāpo pāpāni [atha pāpāni (?)] passati.
-  | 
   | 只要惡業還未成熟，惡人還是看到快樂；
   | 然而當惡業成熟時，惡人就會看到惡報。
-  | 
 - | 120 Bhadropi passati pāpaṃ, yāva bhadraṃ na paccati;
   | Yadā ca paccati bhadraṃ, atha bhadro bhadrāni [atha bhadrāni (?)] passati.
-  | 
   | 只要善業還未成熟，善人還是看到痛苦；
   | 然而當善業成熟時，善人就會看到善報。
   | 
@@ -1011,115 +954,794 @@
 
 .. _DANDA:
 
-刀杖品  　DANDAVAGGO
--------------------------------
+刑罰品  　Daṇḍavaggo
+--------------------
 
+- | 129 Sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno;
+  | Attānaṃ upamaṃ katvā, na haneyya na ghātaye.
+  | 
+  | 一切眾生對刑罰顫抖，一切眾生都害怕死亡。
+  | 推己及人後，人們不應親自或唆使他人殺生。
+  | 
+- | 130 Sabbe tasanti daṇḍassa, sabbesaṃ jīvitaṃ piyaṃ;
+  | Attānaṃ upamaṃ katvā, na haneyya na ghātaye.
+  | 
+  | 一切眾生對刑罰顫抖，生命對一切眾生都可愛。
+  | 推己及人後，人們不應親自或唆使他人殺生。
+  | 
+- | 131 Sukhakāmāni bhūtāni, yo daṇḍena vihiṃsati;
+  | Attano sukhamesāno, pecca so na labhate sukhaṃ.
+  | 對喜歡樂的眾生，若人以棍杖傷害，
+  | 來為自己求快樂，來世他不得安樂。
+- | 132 Sukhakāmāni bhūtāni, yo daṇḍena na hiṃsati;
+  | Attano sukhamesāno, pecca so labhate sukhaṃ.
+  | 對喜歡樂的眾生，若人不以杖傷害，
+  | 來為自己求快樂，來世他得到安樂。
+  | 
+- | 133 Māvoca pharusaṃ kañci, vuttā paṭivadeyyu taṃ [paṭivadeyyuṃ taṃ (ka.)];
+  | Dukkhā hi sārambhakathā, paṭidaṇḍā phuseyyu taṃ [phuseyyuṃ taṃ (ka.)].
+  | 莫向任何人說粗惡語，受到辱罵者將會反駁。
+  | 憤怒之言的確是痛苦，換來的只是你被痛打。（接）
+- | 134 Sace neresi attānaṃ, kaṃso upahato yathā;
+  | Esa pattosi nibbānaṃ, sārambho te na vijjati.
+  | 若你能保持自己沉默，像破裂之鼓不再聲響，
+  | 你就已經證悟了涅槃。於你再也找不到憤怒。
+  | 
+- | 135 Yathā daṇḍena gopālo, gāvo pājeti gocaraṃ;
+  | Evaṃ jarā ca maccu ca, āyuṃ pājenti pāṇinaṃ.
+  | 
+  | 猶如牧牛人以棍棒驅趕牛群去牧場，
+  | 如是老與死也在驅逐著眾生的壽命。
+  | 
+- | 136 Atha pāpāni kammāni, karaṃ bālo na bujjhati;
+  | Sehi kammehi dummedho, aggidaḍḍhova tappati.
+  | 
+  | 造做惡業的時候，愚人不知其為惡，
+  | 愚人因己業受苦，猶如被烈火焚燒。
+  | 
+- | 137 Yo daṇḍena adaṇḍesu, appaduṭṭhesu dussati;
+  | Dasannamaññataraṃ ṭhānaṃ, khippameva nigacchati.
+  | 若人以棍棒傷害無害、不應受到傷害的人，
+  | 他會很快就遭受到十種事情之一：
+- | 138 Vedanaṃ pharusaṃ jāniṃ, sarīrassa ca bhedanaṃ [sarīrassa pabhedanaṃ (syā.)];
+  | Garukaṃ vāpi ābādhaṃ, cittakkhepañca [cittakkhepaṃ va (sī. syā. pī.)] pāpuṇe.
+- | 139 Rājato vā upasaggaṃ [upassaggaṃ (sī. pī.)], abbhakkhānañca [abbhakkhānaṃ va (sī. pī.)] dāruṇaṃ;
+  | Parikkhayañca [parikkhayaṃ va (sī. syā. pī.)] ñātīnaṃ, bhogānañca [bhogānaṃ va (sī. syā. pī.)] pabhaṅguraṃ [pabhaṅgunaṃ (ka.)].
+- | 140 Atha vāssa agārāni, aggi ḍahati [ḍayhati (ka.)] pāvako;
+  | Kāyassa bhedā duppañño, nirayaṃ sopapajjati [so upapajjati (sī. syā.)].
+  | 
+  | 138 他會遭受劇痛，或身體傷殘，或重病，或心失常，
+  | 139 或遇王難，或被嚴重誣陷，或親人被滅，或破財，
+  | 140 或其家被火燒毀。身體毀壞後，愚人將墮入地獄。
+  | 
+- | 141 Na naggacariyā na jaṭā na paṅkā, nānāsakā thaṇḍilasāyikā vā;
+  | Rajojallaṃ ukkuṭikappadhānaṃ, sodhenti maccaṃ avitiṇṇakaṅkhaṃ.
+  | 
+  | 不是裸行，不是結髮，不是以泥塗身，不是睡在露
+  | 天之下，不是以灰塵塗身，也不是蹲著勤修能夠清
+  | 淨還未破除疑惑的人。
+  | 
+- | 142 Alaṅkato cepi samaṃ careyya, santo danto niyato brahmacārī;
+  | Sabbesu bhūtesu nidhāya daṇḍaṃ, so brāhmaṇo so samaṇo sa bhikkhu.
+  | 
+  | 雖然莊嚴其身，若他平靜過活、
+  | 寧靜且已調服、確定及行梵行、
+  | 對於一切眾生，已放下了傷害，
+  | 他就是婆羅門，是沙門是比丘。
+  | 
+- | 143 Hirīnisedho puriso, koci lokasmi vijjati;
+  | Yo niddaṃ [nindaṃ (sī. pī.) saṃ. ni. 1.18] apabodheti [apabodhati (sī. syā. pī.)], asso bhadro kasāmiva.
+  | 於世間很難找到，會羞於為惡的人，
+  | 他避免令人指責，如良馬避免鞭打。
+- | 144 Asso yathā bhadro kasāniviṭṭho, ātāpino saṃvegino bhavātha;
+  | Saddhāya sīlena ca vīriyena ca, samādhinā dhammavinicchayena ca;
+  | Sampannavijjācaraṇā patissatā, jahissatha [pahassatha (sī. syā. pī.)] dukkhamidaṃ anappakaṃ.
+  | 如良馬受到鞭策，你應勤奮及悚懼。
+  | 以信以戒及精進，以定以及抉擇法、
+  | 具足明行與正念，解脫這無量之苦。
+  | 
+- | 145 Udakañhi nayanti nettikā, usukārā namayanti tejanaṃ;
+  | Dāruṃ namayanti tacchakā, attānaṃ damayanti subbatā.
+  | 
+  | 治水者疏導水流，矢師們矯正箭矢，
+  | 木匠們修飾木材，善行者調服自己。
+  | 
 
+**Daṇḍavaggo dasamo niṭṭhito.**
 
-
-
-**刀杖品第十竟〔Da.n.davaggo Dasamo〕**
+**懲罰品第十完畢**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _JARA:
 
-老品　JARAVAGGO
--------------------------------
+老品　Jarāvaggo
+---------------
 
+- | 146 Ko nu hāso [kinnu hāso (ka.)] kimānando, niccaṃ pajjalite sati;
+  | Andhakārena onaddhā, padīpaṃ na gavesatha.
+  | 
+  | （世間）常常在燃燒，為何笑為何高興？
+  | 當被黑暗覆蔽時，為何不尋求明燈？
+  | 
+- | 147 Passa cittakataṃ bimbaṃ, arukāyaṃ samussitaṃ;
+  | Āturaṃ bahusaṅkappaṃ, yassa natthi dhuvaṃ ṭhiti.
+  | 
+  | 看這裝飾美麗的身體，一堆瘡痍一堆組成物，
+  | 多病與受到諸多思念，於它沒什麼恆常存在。
+  | 
+- | 148 Parijiṇṇamidaṃ rūpaṃ, roganīḷaṃ [roganiḍḍhaṃ (sī. pī.), roganiddhaṃ (syā.)] pabhaṅguraṃ;
+  | Bhijjati pūtisandeho, maraṇantañhi jīvitaṃ.
+  | 
+  | 此身已徹底衰老，是一巢病並毀壞。
+  | 這堆不淨分解時，生命結束於死亡。
+  | 
+- | 149 Yānimāni apatthāni [yānimāni apatthāni (sī. syā. pī.), yānimāni’paviddhāni (?)], alābūneva [alāpūneva (sī. syā. pī.)] sārade;
+  | Kāpotakāni aṭṭhīni, tāni disvāna kā rati.
+  | 
+  | 這些白骨像秋天丟棄的葫蘆，
+  | 見到它們又有什麼可喜的呢？
+  | 
+- | 150 Aṭṭhīnaṃ nagaraṃ kataṃ, maṃsalohitalepanaṃ;
+  | Yattha jarā ca maccu ca, māno makkho ca ohito.
+  | 
+  | 此城以骨建，以血肉包裝；
+  | 其中藏老死、我慢與藐視。
+  | 
+- | 151 Jīranti ve rājarathā sucittā, atho sarīrampi jaraṃ upeti;
+  | Satañca dhammo na jaraṃ upeti, santo have sabbhi pavedayanti.
+  | 
+  | 莊嚴的王車亦終須損壞，人體也一樣會變得衰老，
+  | 然而善人之法不會老化，眾善人的確會互相說示。 [CFFn11-01]_
+  | 
+- | 152 Appassutāyaṃ puriso, balibaddhova [balivaddova (sī. syā. pī.)] jīrati;
+  | Maṃsāni tassa vaḍḍhanti, paññā tassa na vaḍḍhati.
+  | 
+  | 這個少聞之人，如公牛般長大，
+  | 他的肌肉增長，其智慧不增長。
+  | 
+- | 153 Anekajātisaṃsāraṃ , sandhāvissaṃ anibbisaṃ;
+  | Gahakāraṃ [gahakārakaṃ (sī. syā. pī.)] gavesanto, dukkhā jāti punappunaṃ.
+  | 在生死輪迴當中，我尋找了許多世
+  | 卻找不到造屋者，一再投生的確苦。
+- | 154 Gahakāraka diṭṭhosi, puna gehaṃ na kāhasi;
+  | Sabbā te phāsukā bhaggā, gahakūṭaṃ visaṅkhataṃ;
+  | Visaṅkhāragataṃ cittaṃ, taṇhānaṃ khayamajjhagā.
+  | 造屋者你已被見！你已不能再造屋。
+  | 你所有的椽已斷，你的橫梁已粉碎。
+  | 我心已證無為法，已經達到愛盡毀。 [CFFn11-02]_
+  | 
+  | 26 註：屋子是身體；造屋者是貪愛；無為是涅槃；愛滅
+  | 盡即已證得阿羅漢果。
+  | 
+- | 155 Acaritvā brahmacariyaṃ, aladdhā yobbane dhanaṃ;
+  | Jiṇṇakoñcāva jhāyanti, khīṇamaccheva pallale.
+  | 少壯時不修梵行，也沒有賺取財富；
+  | 他們像衰老的鷺，在無魚的池等死。
+- | 156 Acaritvā brahmacariyaṃ, aladdhā yobbane dhanaṃ;
+  | Senti cāpātikhīṇāva, purāṇāni anutthunaṃ.
+  | 
+  | 少壯時不修梵行，也沒有賺取財富；
+  | 猶如破弓躺在地，悲嘆種種的過去。
+  | 
 
+**Jarāvaggo ekādasamo niṭṭhito.**
 
+**老品第十一完畢**
 
-
-**老品第十一竟〔Jaraavaggo Ekaadasamo〕**
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 .. _ATTA:
 
-自己品　ATTAVAGGO
--------------------------------
+自品　Attavaggo
+-----------------
 
+- | 157 Attānañce piyaṃ jaññā, rakkheyya naṃ surakkhitaṃ;
+  | Tiṇṇaṃ aññataraṃ yāmaṃ, paṭijaggeyya paṇḍito.
+  | 
+  | 若人懂得愛惜自己，他應妥善地保護它。
+  | 三個階段的每一個，智者都應保持警覺。
+  | 
+- | 158 Attānameva paṭhamaṃ, patirūpe nivesaye;
+  | Athaññamanusāseyya, na kilisseyya paṇḍito.
+  | 
+  | 首先應該讓自己，建立起適當之法，
+  | 然後才指導他人，如此智者沒污染。
+  | 
+- | 159 Attānaṃ ce tathā kayirā, yathāññamanusāsati;
+  | Sudanto vata dametha, attā hi kira duddamo.
+  | 
+  | 正如指導別人那樣，自己也應該那樣做；
+  | 已調服者才可調人，自己的確很難調服。
+  | 
+- | 160 Attā hi attano nātho, ko hi nātho paro siyā;
+  | Attanā hi sudantena, nāthaṃ labhati dullabhaṃ.
+  | 
+  | 自己是自己的依歸，他人怎能作為依歸？
+  | 透過完全調服自己，他得到難得的依歸。
+  | 
+- | 161 Attanā hi kataṃ pāpaṃ, attajaṃ attasambhavaṃ;
+  | Abhimatthati [abhimantati (sī. pī.)] dummedhaṃ, vajiraṃ vasmamayaṃ [vajiraṃva’mhamayaṃ (syā. ka.)] maṇiṃ.
+  | 
+  | 惡是由自己所造，自己生自己造成，
+  | 它摧毀了敗慧者，如金剛磨碎寶石。
+  | 
+- | 162 Yassa accantadussīlyaṃ, māluvā sālamivotthataṃ;
+  | Karoti so tathattānaṃ, yathā naṃ icchatī diso.
+  | 
+  | 對於極其邪惡者，如蔓藤纏娑羅樹，
+  | 他對自己所做的，正是其敵所願的。
+  | 
+- | 163 Sukarāni asādhūni, attano ahitāni ca;
+  | Yaṃ ve hitañca sādhuñca, taṃ ve paramadukkaraṃ.
+  | 
+  | 對己無益的壞事，那是很容易做的，
+  | 對己有益的好事，的確是最難做的。
+  | 
+- | 164 Yo sāsanaṃ arahataṃ, ariyānaṃ dhammajīvinaṃ;
+  | Paṭikkosati dummedho, diṭṭhiṃ nissāya pāpikaṃ;
+  | Phalāni kaṭṭhakasseva, attaghātāya [attaghaññāya (sī. syā. pī.)] phallati.
+  | 
+  | 愚人因為邪見誹謗阿羅漢、聖者、依法而活者的教
+  | 法，實是自我毀滅，正如迦達迦竹生果實毀自己。
+  | 
+- | 165 Attanā hi [attanāva (sī. syā. pī.)] kataṃ pāpaṃ, attanā saṃkilissati;
+  | Attanā akataṃ pāpaṃ, attanāva visujjhati;
+  | Suddhī asuddhi paccattaṃ, nāñño aññaṃ [nāññamañño(sī.)] visodhaye.
+  | 
+  | 惡是由自己所造，自己在污染自己，
+  | 不造惡也由自己，是自己清淨自己。
+  | 淨與不淨靠自己，無人能清淨他人。
+  | 
+- | 166 Attadatthaṃ paratthena, bahunāpi na hāpaye;
+  | Attadatthamabhiññāya, sadatthapasuto siyā.
+  | 
+  | 無論他人福利有多大，也莫忽視自己的福利；
+  | 清楚了知自己的福利，他應尋求自己的福利。 [CFFn12-01]_
+  | 
 
+**Attavaggo dvādasamo niṭṭhito.**
 
-
-
-**自己品第十二竟〔Attavaggo Dvaadasamo〕**
+**自品第十二完畢**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _LOKA:
 
-世品   LOKAVAGGO
--------------------------------
+世間品   Lokavaggo
+------------------
 
+- | 167 Hīnaṃ dhammaṃ na seveyya, pamādena na saṃvase;
+  | Micchādiṭṭhiṃ na seveyya, na siyā lokavaḍḍhano.
+  | 
+  | 莫做卑劣事，莫怠惰過活，
+  | 莫執持邪見，莫延長世界。
+  | 
+- | 168 Uttiṭṭhe nappamajjeyya, dhammaṃ sucaritaṃ care;
+  | Dhammacārī sukhaṃ seti, asmiṃ loke paramhi ca.
+  | 應站立不可放逸，應妥善奉行此法。 [CFFn13-01]_
+  | 實踐這個法的人，今生來世皆安樂。
+- | 169 Dhammaṃ care sucaritaṃ, na naṃ duccaritaṃ care;
+  | Dhammacārī sukhaṃ seti, asmiṃ loke paramhi ca.
+  | 應妥善奉行此法，莫不當地奉行它。
+  | 實踐這個法的人，今生來世皆安樂。
+  | 
+- | 170 Yathā pubbuḷakaṃ [pubbuḷakaṃ (sī. pī.)] passe, yathā passe marīcikaṃ;
+  | Evaṃ lokaṃ avekkhantaṃ, maccurājā na passati.
+  | 
+  | 猶如看待水泡，猶如看待蜃景，
+  | 如是看待世界，死王看不到他。
+  | 
+- | 171 Etha passathimaṃ lokaṃ, cittaṃ rājarathūpamaṃ;
+  | Yattha bālā visīdanti, natthi saṅgo vijānataṃ.
+  | 
+  | 你們來看這個世界，像莊嚴的皇家馬車；
+  | 愚人們沉湎於其中，了知的人沒有執著。
+  | 
+- | 172 Yo ca pubbe pamajjitvā, pacchā so nappamajjati;
+  | Somaṃ lokaṃ pabhāseti, abbhā muttova candimā.
+  | 
+  | 在以前曾經放逸，後來不放逸的人，
+  | 他照耀這個世間，如脫離雲的明月。
+  | 
+- | 173 Yassa pāpaṃ kataṃ kammaṃ, kusalena pidhīyati [pitīyati (sī. syā. pī.)];
+  | Somaṃ lokaṃ pabhāseti, abbhā muttova candimā.
+  | 
+  | 對於已造的惡業，他以善來做彌補， [CFFn13-02]_
+  | 他照耀這個世間，如脫離雲的明月。
+  | 
+- | 174 Andhabhūto [andhībhūto (ka.)] ayaṃ loko, tanukettha vipassati;
+  | Sakuṇo jālamuttova, appo saggāya gacchati.
+  | 
+  | 這個世界是黑暗的，於此能觀之人很少。
+  | 就像逃脫羅網的鳥，很少人能去到天界。
+  | 
+- | 175 Haṃsādiccapathe yanti, ākāse yanti iddhiyā;
+  | Nīyanti dhīrā lokamhā, jetvā māraṃ savāhiniṃ [savāhanaṃ (syā. ka.)].
+  | 
+  | 天鵝在太陽行道飛翔，人以神通在空中飛行；
+  | 賢者戰勝魔及其軍後，他們被帶離這個世間。
+  | 
+- | 176 Ekaṃ dhammaṃ atītassa, musāvādissa jantuno;
+  | Vitiṇṇaparalokassa, natthi pāpaṃ akāriyaṃ.
+  | 
+  | 對違犯一法、說妄語的人、 [CFFn13-03]_
+  | 漠視來世者，無惡不可為。
+  | 
+- | 177 Na ve kadariyā devalokaṃ vajanti, bālā have nappasaṃsanti dānaṃ;
+  | Dhīro ca dānaṃ anumodamāno, teneva so hoti sukhī parattha.
+  | 吝嗇的人不會上生天界，愚人的確不會讚歎佈施；
+  | 然而賢者則會隨喜佈施，因此他在來世獲得快樂。
+- | 178 Pathabyā ekarajjena, saggassa gamanena vā;
+  | Sabbalokādhipaccena, sotāpattiphalaṃ varaṃ.
+  | 比起成為大地唯一統治者，或去天界，
+  | 或統治整個世界，須陀洹果則是最勝。
+  | 
 
+**Lokavaggo terasamo niṭṭhito.**
 
-
-世品第十三竟〔Lokavaggo Terasamo]_ 
+**世間品第十三完畢**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _BUDDHA:
 
-佛陀品　BUDDHAVAGGO
--------------------------------
+佛陀品　Buddhavaggo
+-------------------
 
+- | 179 Yassa jitaṃ nāvajīyati, jitaṃ yassa [jitamassa (sī. syā. pī.), jitaṃ massa (ka.)] no yāti koci loke;
+  | Taṃ buddhamanantagocaraṃ, apadaṃ kena padena nessatha.
+  | 他的勝利不能被反勝，於世他勝的煩惱不能跟他。
+  | 佛陀之境無邊又無道，你們能以何道引誘他？
+- | 180 Yassa jālinī visattikā, taṇhā natthi kuhiñci netave;
+  | Taṃ buddhamanantagocaraṃ, apadaṃ kena padena nessatha.
+  | 他沒有羅網般糾纏的貪愛會帶引他去任何地方，
+  | 佛陀之境無邊又無道，你們能以何道引誘他？ [CFFn14-01]_
+  | 
+- | 181 Ye jhānapasutā dhīrā, nekkhammūpasame ratā;
+  | Devāpi tesaṃ pihayanti, sambuddhānaṃ satīmataṃ.
+  | 
+  | 賢者熱衷於禪修，樂於出離之寂靜。
+  | 對於具念自覺者，甚至諸神也喜愛。
+  | 
+- | 182 Kiccho manussapaṭilābho, kicchaṃ maccāna jīvitaṃ;
+  | Kicchaṃ saddhammassavanaṃ, kiccho buddhānamuppādo.
+  | 
+  | 甚難獲得此人身，會死生命真難過，
+  | 聽聞正法真是難，甚難會有佛出現。
+  | 
+- | 183 Sabbapāpassa akaraṇaṃ, kusalassa upasampadā [kusalassūpasampadā (syā.)];
+  | Sacittapariyodapanaṃ [sacittapariyodāpanaṃ (?)], etaṃ buddhāna sāsanaṃ.
+  | 不造作一切惡，圓滿種種的善，
+  | 清淨自己的心，這是諸佛所教。
+- | 184 Khantī paramaṃ tapo titikkhā, nibbānaṃ [nibbāṇaṃ (ka. sī. pī.)] paramaṃ vadanti buddhā;
+  | Na hi pabbajito parūpaghātī, na [ayaṃ nakāro sī. syā. pī. pātthakesu na dissati] samaṇo hoti paraṃ viheṭhayanto.
+  | 忍辱是最高的磨練，諸佛皆說涅槃至上。
+  | 傷他人者非出家人，壓迫他人者非沙門。
+- | 185 Anūpavādo anūpaghāto [anupavādo anupaghāto (syā. ka.)], pātimokkhe ca saṃvaro;
+  | Mattaññutā ca bhattasmiṃ, pantañca sayanāsanaṃ;
+  | Adhicitte ca āyogo, etaṃ buddhāna sāsanaṃ.
+  | 莫辱罵莫傷害、依護解脫克制、
+  | 飲食當知節量、安住於寂靜處、
+  | 及勤修增上心，這是諸佛所教。
+  | （護解脫pātimokkha 是比丘的兩百廿七條根本戒。）
+  | 
+- | 186 Na kahāpaṇavassena, titti kāmesu vijjati;
+  | Appassādā dukhā kāmā, iti viññāya paṇḍito.
+- | 187 Api dibbesu kāmesu, ratiṃ so nādhigacchati;
+  | Taṇhakkhayarato hoti, sammāsambuddhasāvako.
+  | 
+  | 沒有金幣雨能滿足的貪欲。
+  | 欲樂只有少許甜頭卻多苦。
+  | 智者如此了知，他連天界的欲樂也不追求，
+  | 圓滿自覺者的弟子只樂於愛盡毀。
+  | 
+- | 188 Bahuṃ ve saraṇaṃ yanti, pabbatāni vanāni ca;
+  | Ārāmarukkhacetyāni, manussā bhayatajjitā.
+  | 被怖畏驚嚇的人尋求許多歸依處：
+  | 山、林、園、樹與塔。
+- | 189 Netaṃ kho saraṇaṃ khemaṃ, netaṃ saraṇamuttamaṃ;
+  | Netaṃ saraṇamāgamma, sabbadukkhā pamuccati.
+  | 此非平安歸依處，此非至上歸依處。
+  | 歸依這個歸依處，不能解脫一切苦。
+- | 190 Yo ca buddhañca dhammañca, saṅghañca saraṇaṃ gato;
+  | Cattāri ariyasaccāni, sammappaññāya passati.
+  | 歸依佛與法與僧者，以正慧知見四聖諦：
+- | 191 Dukkhaṃ dukkhasamuppādaṃ, dukkhassa ca atikkamaṃ;
+  | Ariyaṃ caṭṭhaṅgikaṃ maggaṃ, dukkhūpasamagāminaṃ.
+  | 苦、苦的集起、超越苦與導向苦止息的八支聖道。
+- | 192 Etaṃ kho saraṇaṃ khemaṃ, etaṃ saraṇamuttamaṃ;
+  | Etaṃ saraṇamāgamma, sabbadukkhā pamuccati.
+  | 這是平安歸依處，這是至上歸依處。
+  | 歸依這個歸依處，就能解脫一切苦。
+  | 
+- | 193 Dullabho purisājañño, na so sabbattha jāyati;
+  | Yattha so jāyati dhīro, taṃ kulaṃ sukhamedhati.
+  | 
+  | 至聖潔者甚難得，他不生於一切處。
+  | 此賢者出生之地，其家必定得安樂。 [CFFn14-02]_
+  | 
+- | 194 Sukho buddhānamuppādo, sukhā saddhammadesanā;
+  | Sukhā saṅghassa sāmaggī, samaggānaṃ tapo sukho.
+  | 
+  | 諸佛的出現是樂，正法的宣說是樂，
+  | 僧伽的和合是樂，和合者之修行樂。
+  | 
+- | 195 Pūjārahe pūjayato, buddhe yadi va sāvake;
+  | Papañcasamatikkante, tiṇṇasokapariddave.
+  | 他頂禮應頂禮的人，無論是佛陀或弟子：
+  | 已經超越虛妄的人、已越渡了愁悲的人；
+- | 196 Te tādise pūjayato, nibbute akutobhaye;
+  | Na sakkā puññaṃ saṅkhātuṃ, imettamapi kenaci.
+  | 他向這樣的人頂禮：寂靜各方皆無畏者，
+  | 他從中獲得的功德，無人能計量有多少。
+  | 
 
+**Buddhavaggo cuddasamo niṭṭhito.**
 
-
-**佛陀品第十四竟〔Buddhavaggo Cuddasamo〕**
+**佛陀品第十四完畢**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _SUKHA:
 
-樂品 　SUKHAVAGGO
--------------------------------
+樂品 　Sukhavaggo
+-----------------
 
+- | 197 Susukhaṃ vata jīvāma, verinesu averino;
+  | Verinesu manussesu, viharāma averino.
+  | 我們的確很安樂過活，在眾怨之中我們無怨；
+  | 在充滿怨恨的眾人中，我們安住於無怨無恨。
+- | 198 Susukhaṃ vata jīvāma, āturesu anāturā;
+  | Āturesu manussesu, viharāma anāturā.
+  | 我們的確很安樂過活，在眾病之中我們無病；
+  | 在充滿病患的眾人中，我們安住於沒有病患。
+- | 199 Susukhaṃ vata jīvāma, ussukesu anussukā;
+  | Ussukesu manassesu, viharāma anussukā.
+  | 我們的確很安樂過活，在眾欲之中我們無欲；
+  | 在充滿欲求的眾人中，我們安住於無欲無求。33
+  | 
+  | 33 註：病是煩惱病；欲求是追求五欲。
+  | 
+- | 200 Susukhaṃ vata jīvāma, yesaṃ no natthi kiñcanaṃ;
+  | Pītibhakkhā bhavissāma, devā ābhassarā yathā.
+  | 
+  | 我們很安樂過活，我們沒什麼障礙。34
+  | 我們以喜悅為食，就像光音天之神。
+  | 
+  | 34 註：「沒有障礙」（natthi ki¤cana§）是指沒有貪欲等障礙。
+  | 
+- | 201 Jayaṃ veraṃ pasavati, dukkhaṃ seti parājito;
+  | Upasanto sukhaṃ seti, hitvā jayaparājayaṃ.
+  | 
+  | 勝利會招來怨恨，戰敗者痛苦過活；
+  | 捨棄了勝敗之後，寂靜者安樂過活。35
+  | 
+  | 35 註釋：「 **寂靜者** 」（upasanto）的意思是：於內已經平息了貪欲等煩惱的漏盡者，捨棄了勝敗之後，他快樂地過活，在一切姿勢裡都快樂地安住。
+  | 
+- | 202 Natthi rāgasamo aggi, natthi dosasamo kali;
+  | Natthi khandhasamā [khandhādisā (sī. syā. pī. rūpasiddhiyā sameti)] dukkhā, natthi santiparaṃ sukhaṃ.
+  | 
+  | 無火能和貪欲同等，無惡能和瞋恨同等，
+  | 無苦能和五蘊同等，無樂能夠超越寂靜。36
+  | 
+  | 36 註釋：「 **超越寂靜** 」（santipara§）：沒有其他快樂能夠超越涅槃，意思是涅槃是至上的快樂。
+  | 
+- | 203 Jighacchāparamā rogā, saṅkhāraparamā [saṅkārā paramā (bahūsu)] dukhā;
+  | Etaṃ ñatvā yathābhūtaṃ, nibbānaṃ paramaṃ sukhaṃ.
+  | 
+  | 餓是最大的病，諸行則是最苦。
+  | 如實了知它後，得證至樂涅槃。
+  | 
+- | 204 Ārogyaparamā lābhā, santuṭṭhiparamaṃ dhanaṃ;
+  | Vissāsaparamā ñāti [vissāsaparamo ñāti (ka. sī.), vissāsaparamā ñātī (sī. aṭṭha.), vissāsā paramā ñāti (ka.)], nibbānaṃ paramaṃ [nibbāṇaparamaṃ (ka. sī.)] sukhaṃ.
+  | 
+  | 健康是最大的收獲，知足是最大的財富，
+  | 可信者是最好親人，涅槃是至上的快樂。
+  | 
+- | 205 Pavivekarasaṃ pitvā [pītvā (sī. syā. kaṃ. pī.)], rasaṃ upasamassa ca;
+  | Niddaro hoti nippāpo, dhammapītirasaṃ pivaṃ.
+  | 
+  | 嚐了獨處味，以及寂靜味，
+  | 他無苦無惡，得飲法喜味。
+  | 
+- | 206 Sāhu dassanamariyānaṃ, sannivāso sadā sukho;
+  | Adassanena bālānaṃ, niccameva sukhī siyā.
+  | 得見聖者真是好，和他們相處常樂；
+  | 只要能不見愚人，就能永遠都快樂。
+- | 207 Bālasaṅgatacārī [bālasaṅgaticārī (ka.)] hi, dīghamaddhāna socati;
+  | Dukkho bālehi saṃvāso, amitteneva sabbadā;
+  | Dhīro ca sukhasaṃvāso, ñātīnaṃva samāgamo.
+  | 與愚人同行的人，他真的長期苦惱。
+  | 與愚人相處是苦，如永遠與敵生活；
+  | 與賢者相處是樂，猶如與親人相處。
+- | 208 Tasmā hi – Dhīrañca paññañca bahussutañca, dhorayhasīlaṃ vatavantamariyaṃ;
+  | Taṃ tādisaṃ sappurisaṃ sumedhaṃ, bhajetha nakkhattapathaṃva candimā [tasmā hi dhīraṃ paññañca, bahussutañca dhorayhaṃ; sīlaṃ dhutavatamariyaṃ, taṃ tādisaṃ sappurisaṃ; sumedhaṃ bhajetha nakkhattapathaṃva candimā; (ka.)].
+  | 因此，你們應跟隨賢者、慧者、多聞者、
+  | 具戒者、盡責者、聖者；
+  | 跟隨這樣的善士妙智者，
+  | 就像月亮順著星道而行。
+  | 
+  
+**Sukhavaggo pannarasamo niṭṭhito.**
 
-
-
-
-**樂品第十五竟〔Sukhavaggo Pa.n.narasamo〕**
+**樂品第十五完畢**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _PIYA:
 
-喜愛品　PIYAVAGGO
--------------------------------
+喜愛品　Piyavaggo
+-----------------
 
+- | 209 Ayoge yuñjamattānaṃ, yogasmiñca ayojayaṃ;
+  | Atthaṃ hitvā piyaggāhī, pihetattānuyoginaṃ.
+  | 自己致力於不該做的，卻沒有致力於該做的；
+  | 放棄修行追求欲樂者，將羨慕能自己奮鬥者。
+- | 210 Mā piyehi samāgañchi, appiyehi kudācanaṃ;
+  | Piyānaṃ adassanaṃ dukkhaṃ, appiyānañca dassanaṃ.
+  | 莫與喜愛者相處，莫與厭惡者相處；
+  | 不見喜愛者是苦，見厭惡者也是苦。
+- | 211 Tasmā piyaṃ na kayirātha, piyāpāyo hi pāpako;
+  | Ganthā tesaṃ na vijjanti, yesaṃ natthi piyāppiyaṃ.
+  | 因此不應有喜愛，與喜愛者別離苦；
+  | 無喜愛無不喜者，他們沒有諸束縛。
+  | 
+- | 212 Piyato jāyatī soko, piyato jāyatī [jāyate (ka.)] bhayaṃ;
+  | Piyato vippamuttassa, natthi soko kuto bhayaṃ.
+  | 
+  | 由喜愛引生憂愁，由喜愛引生恐懼。
+  | 對於解脫喜愛者，既無憂哪來恐懼？
+  | 
+- | 213 Pemato jāyatī soko, pemato jāyatī bhayaṃ;
+  | Pemato vippamuttassa, natthi soko kuto bhayaṃ.
+  | 
+  | 由親愛引生憂愁，由親愛引生恐懼。
+  | 對於解脫親愛者，既無憂哪來恐懼？
+  | 
+- | 214 Ratiyā jāyatī soko, ratiyā jāyatī bhayaṃ;
+  | Ratiyā vippamuttassa, natthi soko kuto bhayaṃ.
+  | 
+  | 由喜樂引生憂愁，由喜樂引生恐懼。
+  | 對於解脫喜樂者，既無憂哪來恐懼？
+  | 
+- | 215 Kāmato jāyatī soko, kāmato jāyatī bhayaṃ;
+  | Kāmato vippamuttassa, natthi soko kuto bhayaṃ.
+  | 
+  | 由欲樂引生憂愁，由欲樂引生恐懼。
+  | 對於解脫欲樂者，既無憂哪來恐懼？
+  | 
+- | 216 Taṇhāya jāyatī [jāyate (ka.)] soko, taṇhāya jāyatī bhayaṃ;
+  | Taṇhāya vippamuttassa, natthi soko kuto bhayaṃ.
+  | 
+  | 由貪愛引生憂愁，由貪愛引生恐懼。
+  | 對於解脫貪愛者，既無憂哪來恐懼？
+  | 
+- | 217 Sīladassanasampannaṃ , dhammaṭṭhaṃ saccavedinaṃ;
+  | Attano kamma kubbānaṃ, taṃ jano kurute piyaṃ.
+  | 
+  | 具足戒行與智見、住於法及悟真諦、 [CFFn16-01]_
+  | 實行自己的任務，此人受眾人喜愛。
+  | 
+- | 218 Chandajāto anakkhāte, manasā ca phuṭo siyā;
+  | Kāmesu ca appaṭibaddhacitto [appaṭibandhacitto (ka.)], uddhaṃsototi vuccati.
+  | 
+  | 對超言說生起欲，其心盈滿了（三果）， [CFFn16-02]_
+  | 心不受欲樂束縛，他被稱為上流人。
+  | 
+- | 219 Cirappavāsiṃ purisaṃ, dūrato sotthimāgataṃ;
+  | Ñātimittā suhajjā ca, abhinandanti āgataṃ.
+  | 如長久在異鄉之人，從遠方平安歸來時，
+  | 親友及願他幸福者，愉快地歡迎他歸來。
+- | 220 Tatheva katapuññampi, asmā lokā paraṃ gataṃ;
+  | Puññāni paṭigaṇhanti, piyaṃ ñātīva āgataṃ.
+  | 造了福的人也一樣，從這世去到他世時，
+  | 諸福業會來迎接他，如親戚迎接親人回。
+  | 
 
+**Piyavaggo soḷasamo niṭṭhito.**
 
-
-**喜愛品第十六竟〔Piyavaggo So.lasamo〕**
+**喜愛品第十六完畢**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _KODHA:
 
-忿怒品　KODHAVAGGO
--------------------------------
+忿怒品　Kodhavaggo
+------------------
 
+- | 221 Kodhaṃ jahe vippajaheyya mānaṃ, saṃyojanaṃ sabbamatikkameyya;
+  | Taṃ nāmarūpasmimasajjamānaṃ, akiñcanaṃ nānupatanti dukkhā.
+  | 
+  | 捨棄忿怒捨棄慢，應當克服一切結；
+  | 不執名色無所有，痛苦不會降臨他。 [CFFn17-01]_
+  | 
+- | 222 Yo ve uppatitaṃ kodhaṃ, rathaṃ bhantaṃva vāraye [dhāraye (sī. syā. pī.)];
+  | Tamahaṃ sārathiṃ brūmi, rasmiggāho itaro jano.
+  | 
+  | 他抑制生起的忿怒，如制止疾行的馬車，
+  | 我稱此人為調御者，其他人只是執韁人。
+  | 
+- | 223 Akkodhena jine kodhaṃ, asādhuṃ sādhunā jine;
+  | Jine kadariyaṃ dānena, saccenālikavādinaṃ.
+  | 
+  | 以無忿戰勝忿怒者，以善戰勝不善的人，
+  | 以佈施戰勝吝嗇者，以真實戰勝妄語者。
+  | 
+- | 224 Saccaṃ bhaṇe na kujjheyya, dajjā appampi [dajjā’ppasmimpi (sī. pī.), dajjā appasmi (syā. ka.)] yācito;
+  | Etehi tīhi ṭhānehi, gacche devāna santike.
+  | 
+  | 說真話及不忿怒、物少仍施乞求者；
+  | 透過這三件事情，他得以上生天界。
+  | 
+- | 225 Ahiṃsakā ye munayo [ahiṃsakāyā munayo (ka.)], niccaṃ kāyena saṃvutā;
+  | Te yanti accutaṃ ṭhānaṃ, yattha gantvā na socare.
+  | 
+  | 牟尼不傷害他人，常防護自身行為，
+  | 他們去到不死處，去到該處無憂愁。
+  | 
+- | 226 Sadā jāgaramānānaṃ, ahorattānusikkhinaṃ;
+  | Nibbānaṃ adhimuttānaṃ, atthaṃ gacchanti āsavā.
+  | 
+  | 對於永遠保持心醒覺、日以續夜地訓練自己、
+  | 決心要證悟涅槃的人，諸煩惱必定會被摧毀。
+  | 
+- | 227 Porāṇametaṃ atula, netaṃ ajjatanāmiva;
+  | Nindanti tuṇhimāsīnaṃ, nindanti bahubhāṇinaṃ;
+  | Mitabhāṇimpi nindanti, natthi loke anindito.
+  | 自古如此阿都拉，不是今日才這樣，
+  | 人們毀謗沉默者，人們毀謗多語者，
+  | 也毀謗少語的人，世間無人不被謗。
+- | 228 Na cāhu na ca bhavissati, na cetarahi vijjati;
+  | Ekantaṃ nindito poso, ekantaṃ vā pasaṃsito.
+  | 過去未來都沒有，現在也是找不到，
+  | 單只被毀謗的人，或只受稱讚的人。
+- | 229 Yaṃ ce viññū pasaṃsanti, anuvicca suve suve;
+  | Acchiddavuttiṃ [acchinnavuttiṃ (ka.)] medhāviṃ, paññāsīlasamāhitaṃ.
+  | 日復一日檢討後，智者們會稱讚他――
+  | 生命無瑕且賢明、慧與戒兼備的人。
+- | 230 Nikkhaṃ [nekkhaṃ (sī. syā. pī.)] jambonadasseva, ko taṃ ninditumarahati;
+  | Devāpi naṃ pasaṃsanti, brahmunāpi pasaṃsito.
+  | 對此猶如純金者，誰還會去毀謗他？
+  | 眾天神都稱讚他，他也受梵天稱讚。
+  | 
+- | 231 Kāyappakopaṃ rakkheyya, kāyena saṃvuto siyā;
+  | Kāyaduccaritaṃ hitvā, kāyena sucaritaṃ care.
+  | 防止身惡行，善克制己身；
+  | 捨棄身惡行，培育身善行。
+- | 232 Vacīpakopaṃ rakkheyya, vācāya saṃvuto siyā;
+  | Vacīduccaritaṃ hitvā, vācāya sucaritaṃ care.
+  | 防止語惡行，善克制己語；
+  | 捨棄語惡行，培育語善行。
+- | 233 Manopakopaṃ rakkheyya, manasā saṃvuto siyā;
+  | Manoduccaritaṃ hitvā, manasā sucaritaṃ care.
+  | 防止意惡行，善克制己意；
+  | 捨棄意惡行，培育意善行。
+- | 234 Kāyena saṃvutā dhīrā, atho vācāya saṃvutā;
+  | Manasā saṃvutā dhīrā, te ve suparisaṃvutā.
+  | 賢者制御身，御語亦御意；
+  | 賢者於自制，真能善圓滿。
+  | 
 
+**Kodhavaggo sattarasamo niṭṭhito.**
 
-
-
-**忿怒品第十七竟〔Kodhavaggo Sattarasamo〕**
+**忿怒品第十七完畢**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _MALA:
 
-垢穢品　MALAVAGGO
--------------------------------
+污垢品　Malavaggo
+-----------------
 
-
-
-
-
-**垢穢品第十八竟〔Malavaggo A.t.thaarasamo〕**
+- | 235 Paṇḍupalāsova dānisi, yamapurisāpi ca te [taṃ (sī. syā. kaṃ. pī.)] upaṭṭhitā;
+  | Uyyogamukhe ca tiṭṭhasi, pātheyyampi ca te na vijjati.
+  | 如今你就像枯黃的葉，死亡使者已在等著你；
+  | 你就站在出發的門口，然而你連旅費都沒有。
+- | 236 So karohi dīpamattano, khippaṃ vāyama paṇḍito bhava;
+  | Niddhantamalo anaṅgaṇo, dibbaṃ ariyabhūmiṃ upehisi [dibbaṃ ariyabhūmimehisi (sī. syā. pī.), dibbamariyabhūmiṃ upehisi (?)].
+  | 你應為自己做個島，趕快精進以成智者。
+  | 清除了污垢且無染，你會去天界的聖地。 [CFFn18-01]_ 
+- | 237 Upanītavayo ca dānisi, sampayātosi yamassa santike;
+  | Vāso [vāsopi ca (bahūsu)] te natthi antarā, pātheyyampi ca te na vijjati.
+  | 如今你的命已到終點，你就要去死王的面前，
+  | 途中你又沒有住宿處，然而你連旅費都沒有。
+- | 238 So karohi dīpamattano, khippaṃ vāyama paṇḍito bhava;
+  | Niddhantamalo anaṅgaṇo, na punaṃ jātijaraṃ [na puna jātijaraṃ (sī. syā.), na puna jātijjaraṃ (ka.)] upehisi.
+  | 你應為自己做個島，趕快精進以成智者。
+  | 清除了污垢且無染，你將不會再生與老。
+  | 
+- | 239 Anupubbena medhāvī, thokaṃ thokaṃ khaṇe khaṇe;
+  | Kammāro rajatasseva, niddhame malamattano.
+  | 
+  | 智者漸次地、一點一點地、剎那至剎那地
+  | 清除自己的污垢，就像金匠清除銀的雜質。
+  | 
+- | 240 Ayasāva malaṃ samuṭṭhitaṃ [samuṭṭhāya (ka.)], tatuṭṭhāya [taduṭṭhāya (sī. syā. pī.)] tameva khādati;
+  | Evaṃ atidhonacārinaṃ, sāni kammāni [sakakammāni (sī. pī.)] nayanti duggatiṃ.
+  | 
+  | 如鐵鏽自鐵而生，生鏽後反蝕其鐵；
+  | 違犯者也是如此，被自業帶到惡趣。
+  | 
+- | 241 Asajjhāyamalā mantā, anuṭṭhānamalā gharā;
+  | Malaṃ vaṇṇassa kosajjaṃ, pamādo rakkhato malaṃ.
+  | 
+  | 不背誦是學習的污垢，不維修是屋子的污垢，
+  | 懈怠則是美貌的污垢，放逸是守護者的污垢。
+  | 
+- | 242 Malitthiyā duccaritaṃ, maccheraṃ dadato malaṃ;
+  | Malā ve pāpakā dhammā, asmiṃ loke paramhi ca.
+  | 邪淫是婦女的污垢，吝嗇是施者的污垢；
+  | 於此世及其他世裡，惡法的確就是污垢。
+- | 243 Tato malā malataraṃ, avijjā paramaṃ malaṃ;
+  | Etaṃ malaṃ pahantvāna, nimmalā hotha bhikkhavo.
+  | 無明是最糟的污垢，比這些污垢還糟糕，
+  | 諸比丘應斷此污垢，以便成為無污垢者。
+  | 
+- | 244 Sujīvaṃ ahirikena, kākasūrena dhaṃsinā;
+  | Pakkhandinā pagabbhena, saṃkiliṭṭhena jīvitaṃ.
+  | 無恥、勇若烏鴉、背後講人壞話、大膽、傲慢與腐
+  | 敗者的生活是容易的。
+- | 245 Hirīmatā ca dujjīvaṃ, niccaṃ sucigavesinā;
+  | Alīnenāppagabbhena, suddhājīvena passatā.
+  | 但是知恥、常求清淨、無著、謙虛、清淨活命及有
+  | 知見者的生活是難的。
+  | 
+- | 246 Yo pāṇamatipāteti, musāvādañca bhāsati;
+  | Loke adinnamādiyati, paradārañca gacchati.
+- | 247 Surāmerayapānañca, yo naro anuyuñjati;
+  | Idhevameso lokasmiṃ, mūlaṃ khaṇati attano.
+  | 殺生、說妄語、盜取世間不與之物、勾引別人的妻
+  | 子和沉湎於飲酒的人，這樣的人在今世就把自己的
+  | 根都挖掉了。
+- | 248 Evaṃ bho purisa jānāhi, pāpadhammā asaññatā;
+  | Mā taṃ lobho adhammo ca, ciraṃ dukkhāya randhayuṃ.
+  | 善人你應如是知：惡法不易受控制。
+  | 莫被貪與非法拖，拖去長久的痛苦。
+  | 
+- | 249 Dadāti ve yathāsaddhaṃ, yathāpasādanaṃ [yattha pasādanaṃ (katthaci)] jano;
+  | Tattha yo maṅku bhavati [tattha ce maṃku yo hoti (sī.), tattha yo maṅkuto hoti (syā.)], paresaṃ pānabhojane;
+  | Na so divā vā rattiṃ vā, samādhimadhigacchati.
+  | 人們依照淨信與喜好行佈施。
+  | 若人對他人的飲食心懷不滿，
+  | 他於白晝或黑夜皆不能得定。
+- | 250 Yassa cetaṃ samucchinnaṃ, mūlaghaccaṃ [mūlaghacchaṃ (ka.)] samūhataṃ;
+  | Sa ve divā vā rattiṃ vā, samādhimadhigacchati.
+  | 若人能斷除根除、以及消滅此不滿，
+  | 無論白晝或黑夜，他都的確能得定。
+  | 
+- | 251 Natthi rāgasamo aggi, natthi dosasamo gaho;
+  | Natthi mohasamaṃ jālaṃ, natthi taṇhāsamā nadī.
+  | 
+  | 無火能和貪欲同等，無捉取能和瞋同等，
+  | 無羅網能和痴同等，無河流能和愛同等。
+  | 
+- | 252 Sudassaṃ vajjamaññesaṃ, attano pana duddasaṃ;
+  | Paresaṃ hi so vajjāni, opunāti [ophunāti (ka.)] yathā bhusaṃ;
+  | Attano pana chādeti, kaliṃva kitavā saṭho.
+  | 
+  | 他人之過容易見到，自己之過卻很難見。
+  | 對於他人種種過失，他會儘量多多宣揚。
+  | 自己之過他則覆藏，如捕鳥者以樹藏身 [CFFn18-02]_ 。
+  | 
+- | 253 Paravajjānupassissa , niccaṃ ujjhānasaññino;
+  | Āsavā tassa vaḍḍhanti, ārā so āsavakkhayā.
+  | 
+  | 對於見他人之過、時常在埋怨的人，
+  | 他的諸漏在增長，漏盡離他真遙遠。
+  | 
+- | 254 Ākāseva padaṃ natthi, samaṇo natthi bāhire;
+  | Papañcābhiratā pajā, nippapañcā tathāgatā.
+  | 虛空中沒有行道，正法外無聖沙門。
+  | 眾生耽樂於虛妄，諸如來已無虛妄。
+- | 255 Ākāseva padaṃ natthi, samaṇo natthi bāhire;
+  | Saṅkhārā sassatā natthi, natthi buddhānamiñjitaṃ.
+  | 虛空中沒有行道，正法外無聖沙門。
+  | 沒有恆常的行法，諸佛皆不受動搖。
+  
+**Malavaggo aṭṭhārasamo niṭṭhito.**
+  
+**污垢品第十八完畢**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1228,11 +1850,11 @@
 
 .. [CFFn01-01] 〔敬法法師註01-01〕 1 於此，法是指五蘊中的受、想、行，意則是指識。
 
-.. [CFFn01-02] 〔敬法法師註01-02〕 2 註釋：於此，「他人」（pare）是指除了智者們之外，其他製造爭論的人就是他人。
+.. [CFFn01-02] 〔敬法法師註01-02〕 2 註釋：於此，「 **他人** 」（pare）是指除了智者們之外，其他製造爭論的人就是他人。
 
-.. [CFFn01-03] 〔敬法法師註01-03〕 3 註釋：「已去除污染之人」（vantakasàv'assa）是已透過四道去除污染、棄除污染、斷除污染之人。
+.. [CFFn01-03] 〔敬法法師註01-03〕 3 註釋：「 **已去除污染之人** 」（vantakasàv'assa）是已透過四道去除污染、棄除污染、斷除污染之人。
 
-.. [CFFn01-04] 〔敬法法師註01-04〕 4 註釋：「良好培育」是於止觀禪法得到良好培育。
+.. [CFFn01-04] 〔敬法法師註01-04〕 4 註釋：「 **良好培育** 」是於止觀禪法得到良好培育。
 
 .. [CFFn01-05] 〔敬法法師註01-05〕 5 註：沙門份是指道果。
 
@@ -1251,7 +1873,6 @@
 .. [CFFn03-04] 〔敬法法師註03-03〕 11 註：保護勝利是指保護已獲得的初階觀智，不執著是指不執著於禪那，而繼續修行觀禪直至證悟聖道果。
 
 
-
 .. [CFFn04-01] 〔敬法法師註04-01〕 12 註：於此，大地是指此身，閻魔界是指四惡道。
 
 .. [CFFn04-02] 〔敬法法師註04-02〕 13 有學者是證悟須陀洹道到阿羅漢道的聖人。
@@ -1263,9 +1884,9 @@
 
 .. [CFFn05-01] 〔敬法法師註05-01〕 16 一由旬大約有七英里。
 
-.. [CFFn05-02] 〔敬法法師註05-02〕 17 註釋：頭顱是指智慧。
+.. [CFFn05-02] 〔敬法法師註05-02〕 17 註釋： **頭顱** 是指智慧。
 
-.. [CFFn05-03] 〔敬法法師註05-03〕 18 註釋：以及別家的禮敬（påjà parakulesu ca）：對於不是父母親，也不是親戚的（別人家），他如此期望他們以四資具來禮敬：「啊，願他們只給我，而不是（供養給）其他人！」
+.. [CFFn05-03] 〔敬法法師註05-03〕 18 註釋： **以及別家的禮敬** （påjà parakulesu ca）：對於不是父母親，也不是親戚的（別人家），他如此期望他們以四資具來禮敬：「啊，願他們只給我，而不是（供養給）其他人！」
 
 
 .. [CFFn06-01] 〔敬法法師註06-01〕 19 註：此界是指五蘊。
@@ -1281,6 +1902,47 @@
 
 .. [CFFn09-01] 〔敬法法師註09-01〕 24 註釋： **母胎** 於此是指人之母胎。
 
+
+.. [CFFn11-01] 〔敬法法師註11-01〕 25 註：善人之法是指九出世間法。
+
+.. [CFFn11-02] 〔敬法法師註11-02〕 26 註：屋子是身體；造屋者是貪愛；無為是涅槃；愛滅盡即已證得阿羅漢果。
+
+
+.. [CFFn12-01] 〔敬法法師註12-01〕 27 註：「自己的福利」（attadattha§）是指道、果與涅槃。
+
+
+.. [CFFn13-01] 〔敬法法師註13-01〕 28 註釋：「 **應站立** 」：站在別人的門口托缽食。「 **法** 」：捨棄不當的，他不間斷地行走，這就是 **妥善奉行** 此乞食法。「 **不當地奉行它** 」：走去妓女等的地方是不當地奉行乞食法。
+
+.. [CFFn13-02] 〔敬法法師註13-02〕 29 註釋：「 **以善** 」（kusalena）的善是指阿羅漢道智。
+
+.. [CFFn13-03] 〔敬法法師註13-03〕 30 註釋：「 **一法** 」：真實。
+
+
+.. [CFFn14-01] 〔敬法法師註14-02〕 31 註釋：「 **無邊之境** 」（anantagocara§）：能取無邊所緣的一切知智（sabba¤¤uta¤¤àõa）之境是無限的。「以何道」（kena padena）：對於還有貪欲等道其中一道的人，你們能以道來引誘他。但是佛陀連一道也沒有了，你們能以何道來引誘無道之佛？
+
+.. [CFFn14-02] 〔敬法法師註14-02〕 32 註：於此，至聖潔者與賢者是指佛陀。
+
+
+.. [CFFn15-01] 〔敬法法師註15-01〕 33 註：病是煩惱病；欲求是追求五欲。
+
+.. [CFFn15-02] 〔敬法法師註15-02〕 34 註：「沒有障礙」（natthi ki¤cana§）是指沒有貪欲等障礙。
+
+.. [CFFn15-03] 〔敬法法師註15-03〕 35 註釋：「 **寂靜者** 」（upasanto）的意思是：於內已經平息了貪欲等煩惱的漏盡者，捨棄了勝敗之後，他快樂地過活，在一切姿勢裡都快樂地安住。
+
+.. [CFFn15-04] 〔敬法法師註15-04〕 36 註釋：「 **超越寂靜** 」（santipara§）：沒有其他快樂能夠超越涅槃，意思是涅槃是至上的快樂。
+
+
+.. [CFFn16-01] 〔敬法法師註16-01〕 37 註釋： **住於法** （dhammaññha§）：住立於九種出世間法。
+
+.. [CFFn16-02] 〔敬法法師註16-02〕 38 註釋： **超言說** （anakkhàte）：涅槃。 **上流人** ：阿那含聖者。
+
+
+.. [CFFn17-01] 〔敬法法師註17-01〕 39 註釋：「 **結** 」（saṃyojanaṃ）：欲貪結等十種結。因為沒有貪欲等而無所有（rāgādīnaṃ abhāvena akiñcanaṃ）。
+
+
+.. [CFFn18-01] 〔敬法法師註18-01〕 40 註：「天界的聖地」就是五淨居天。
+
+.. [CFFn18-02] 〔敬法法師註18-02〕 41 saṭho 狡猾的人（註釋解釋他為捕鳥者）
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -43,13 +43,10 @@
   | 
 - | 119 Pāpopi passati bhadraṃ, yāva pāpaṃ na paccati;
   | Yadā ca paccati pāpaṃ, atha pāpo pāpāni [atha pāpāni (?)] passati.
-  | 
   | 只要惡業還未成熟，惡人還是看到快樂；
   | 然而當惡業成熟時，惡人就會看到惡報。
-  | 
 - | 120 Bhadropi passati pāpaṃ, yāva bhadraṃ na paccati;
   | Yadā ca paccati bhadraṃ, atha bhadro bhadrāni [atha bhadrāni (?)] passati.
-  | 
   | 只要善業還未成熟，善人還是看到痛苦；
   | 然而當善業成熟時，善人就會看到善報。
   | 

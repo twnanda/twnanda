@@ -37,13 +37,10 @@
   | 
 - | 102 Yo ca gāthā sataṃ bhāse, anatthapadasaṃhitā [anatthapadasañhitaṃ (ka.) visesanaṃ hetaṃ gāthātipadassa];
   | Ekaṃ dhammapadaṃ seyyo, yaṃ sutvā upasammati.
-  | 
   | 一個聽後得平靜的法句，
   | 好過誦百首無意義的偈。
-  | 
 - | 103 Yo sahassaṃ sahassena, saṅgāme mānuse jine;
   | Ekañca jeyyamattānaṃ [attānaṃ (sī. pī.)], sa ve saṅgāmajuttamo.
-  | 
   | 即使有人在戰場上，戰勝一千人一千次，
   | 但戰勝自己一人者，才真是至上戰勝者。
   | 

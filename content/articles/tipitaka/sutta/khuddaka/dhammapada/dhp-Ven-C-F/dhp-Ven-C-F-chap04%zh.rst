@@ -25,13 +25,10 @@
 
 - | 44 Ko  imaṃ [komaṃ (ka.)] pathaviṃ vicessati [vijessati (sī. syā. pī.)], yamalokañca imaṃ sadevakaṃ;
   | Ko dhammapadaṃ sudesitaṃ, kusalo pupphamiva pacessati [pupphamivappacessati (ka.)].
-  | 
   | 誰能審查此大地、閻魔界與人天界？ [CFFn04-01]_
   | 誰能如善巧花匠，了知善說的真理？
-  | 
 - | 45 Sekho pathaviṃ vicessati, yamalokañca imaṃ sadevakaṃ;
   | Sekho dhammapadaṃ sudesitaṃ, kusalo pupphamiva pacessati.
-  | 
   | 有學者審查大地、閻魔界與人天界。 [CFFn04-02]_
   | 有學者如巧花匠，了知善說的真理。
   | 
@@ -69,13 +66,10 @@
   | 
 - | 51 Yathāpi ruciraṃ pupphaṃ, vaṇṇavantaṃ agandhakaṃ;
   | Evaṃ subhāsitā vācā, aphalā hoti akubbato.
-  | 
   | 猶如美麗卻不香的花朵，
   | 如是不實踐之善語無果。
-  | 
 - | 52 Yathāpi ruciraṃ pupphaṃ, vaṇṇavantaṃ sugandhakaṃ [sagandhakaṃ (sī. syā. kaṃ. pī.)];
   | Evaṃ subhāsitā vācā, saphalā hoti kubbato [sakubbato (sī. pī.), pakubbato (sī. aṭṭha.), sukubbato (syā. kaṃ.)].
-  | 
   | 猶如既美麗又香的花朵，
   | 如是實踐之善語有結果。
   | 
@@ -87,13 +81,10 @@
   | 
 - | 54 Na pupphagandho paṭivātameti, na candanaṃ tagaramallikā [tagaramallikā (sī. syā. kaṃ. pī.)];
   | Satañca gandho paṭivātameti, sabbā disā sappuriso pavāyati.
-  | 
   | 花香不能逆風吹送，檀香、多伽羅及茉莉都不能；
   | 智者之香逆風吹送，善士之香能吹送至一切方向。
-  | 
 - | 55 Candanaṃ tagaraṃ vāpi, uppalaṃ atha vassikī;
   | Etesaṃ gandhajātānaṃ, sīlagandho anuttaro.
-  | 
   | 檀香、多伽羅、蓮花及茉莉之香，
   | 於那些香當中，戒德之香乃無上。
   | 
@@ -111,34 +102,30 @@
   | 
 - | 58 Yathā saṅkāraṭhānasmiṃ [saṅkāradhānasmiṃ (sī. syā. kaṃ. pī.)], ujjhitasmiṃ mahāpathe;
   | Padumaṃ tattha jāyetha, sucigandhaṃ manoramaṃ.
-  | 
   | 猶如丟棄於大道的垃圾堆裡，
-  | 也能生長著清香悅意的蓮花；（接）
-  | 
+  | 也能生長著清香悅意的蓮花；
 - | 59 Evaṃ saṅkārabhūtesu, andhabhūte [andhībhūte (ka.)] puthujjane;
   | Atirocati paññāya, sammāsambuddhasāvako.
-  | 
   | 在無用的眾生裡，也能出現佛弟子，
   | 他以智慧來照耀，超越盲目的凡夫。
   | 
-  | 
-  | **Pupphavaggo catuttho niṭṭhito.**
-  | 
-  | **花品第四完畢**
-  | 
+
+**Pupphavaggo catuttho niṭṭhito.**
+
+**花品第四完畢**
 
 ~~~~~~
 
 注釋：
 ------
 
-.. [CFFn04-01] 〔敬法法師註04-01〕 註：於此，大地是指此身，閻魔界是指四惡道。
+.. [CFFn04-01] 〔敬法法師註04-01〕 12 註：於此，大地是指此身，閻魔界是指四惡道。
 
-.. [CFFn04-02] 〔敬法法師註04-02〕 有學者是證悟須陀洹道到阿羅漢道的聖人。
+.. [CFFn04-02] 〔敬法法師註04-02〕 13 有學者是證悟須陀洹道到阿羅漢道的聖人。
 
-.. [CFFn04-03] 〔敬法法師註04-03〕 註：魔王之花箭是指煩惱輪轉、業輪轉與果報輪轉。
+.. [CFFn04-03] 〔敬法法師註04-03〕 14 註：魔王之花箭是指煩惱輪轉、業輪轉與果報輪轉。
 
-.. [CFFn04-04] 〔敬法法師註04-04〕 註：阿羅漢已不會再生，魔王盡了全力也找不到阿羅漢死後去了哪裡。
+.. [CFFn04-04] 〔敬法法師註04-04〕 15 註：阿羅漢已不會再生，魔王盡了全力也找不到阿羅漢死後去了哪裡。
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
