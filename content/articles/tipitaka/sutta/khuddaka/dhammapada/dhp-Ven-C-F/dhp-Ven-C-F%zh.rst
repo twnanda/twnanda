@@ -18,8 +18,8 @@
      - `第一：雙品 <{filename}dhp-Ven-C-F-chap01%zh.rst>`_
      - `第二：不放逸品 <{filename}dhp-Ven-C-F-chap02%zh.rst>`_
      - `第三：心品 <{filename}dhp-Ven-C-F-chap03%zh.rst>`_
-     - `第四：華品 <{filename}dhp-Ven-C-F-chap04%zh.rst>`_
-     - `第五：愚品 <{filename}dhp-Ven-C-F-chap05%zh.rst>`_
+     - `第四：花品 <{filename}dhp-Ven-C-F-chap04%zh.rst>`_
+     - `第五：愚人品 <{filename}dhp-Ven-C-F-chap05%zh.rst>`_
 
    * - Preface
      - 1. Yamakavaggo (Dhp.1-20)
@@ -36,8 +36,8 @@
      - `第七：阿羅漢品 <{filename}dhp-Ven-C-F-chap07%zh.rst>`_
      - `第八：千品 <{filename}dhp-Ven-C-F-chap08%zh.rst>`_
      - `第九：惡品 <{filename}dhp-Ven-C-F-chap09%zh.rst>`_
-     - 第十：刀杖品10
-     - 第十一：老品11
+     - `第十：刑罰品 <{filename}dhp-Ven-C-F-chap10%zh.rst>`_
+     - `第十一：老品 <{filename}dhp-Ven-C-F-chap11%zh.rst>`_
 
    * - 6. Paṇḍitavaggo (Dhp.76-89)
      - 7. Arahantavaggo (Dhp.90-99)
@@ -50,12 +50,12 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - 第十二：自己品12
-     - 第十三：世品13
-     - 第十四：佛陀品14
-     - 第十五：樂品15
-     - 第十六：喜愛品16
-     - 第十七：忿怒品17
+   * - `第十二：自品 <{filename}dhp-Ven-C-F-chap12%zh.rst>`_
+     - `第十三：世間品 <{filename}dhp-Ven-C-F-chap13%zh.rst>`_
+     - `第十四：佛陀品 <{filename}dhp-Ven-C-F-chap14%zh.rst>`_
+     - `第十五：樂品 <{filename}dhp-Ven-C-F-chap15%zh.rst>`_
+     - `第十六：喜愛品 <{filename}dhp-Ven-C-F-chap16%zh.rst>`_
+     - `第十七：忿怒品 <{filename}dhp-Ven-C-F-chap17%zh.rst>`_
 
    * - 12. Attavaggo (Dhp.157-166)
      - 13. Lokavaggo (Dhp.167-178)
@@ -68,8 +68,8 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - 第十八：垢穢品18
-     - 第十九：法住品19
+   * - `第十八：污垢品 <{filename}dhp-Ven-C-F-chap18%zh.rst>`_
+     - 第十九：住於法品19
      - 第二十：道品20
      - 第廿一：雜品21
      - 第廿二：地獄品22
@@ -86,7 +86,7 @@
    :widths: 16 16 16 16
    :header-rows: 1
 
-   * - 第廿四：愛欲品24
+   * - 第廿四：貪愛品24
      - 第廿五：比丘品25
      - 第廿六：波羅門品26
      - `整部 <{filename}dhp-Ven-C-F-full%zh.rst>`__

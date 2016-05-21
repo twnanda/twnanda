@@ -20,27 +20,27 @@
 - YAMAKA_ VAGGO (001~020)　第一：雙品
 - APPAMADA_ VAGGO (021~032) 第二：不放逸品
 - CITTA_ VAGGO (033~043) 第三：心品
-- PUPPHA_ VAGGO (044~059) 第四：華品      
-- BALA_ VAGGO (060~075) 第五：愚品
+- PUPPHA_ VAGGO (044~059) 第四：花品      
+- BALA_ VAGGO (060~075) 第五：愚人品
 - PANDITA_ VAGGO (076~089) 第六：智者品
 - ARAHANTA_ VAGGO (090~099) 第七：阿羅漢品
 - SAHASSA_ VAGGO (100~115) 第八：千品
 - PAPA_ VAGGO (116~128) 第九：惡品
-- DANDA_ VAGGO (129~145) 第十：刀杖品
+- DANDA_ VAGGO (129~145) 第十：刑罰品
 - JARA_ VAGGO (146~156) 第十一：老品
-- ATTA_ VAGGO (157~166) 第十二：自己品
-- LOKA_ VAGGO (167~178) 第十三：世品
+- ATTA_ VAGGO (157~166) 第十二：自品
+- LOKA_ VAGGO (167~178) 第十三：世間品
 - BUDDHA_ VAGGO (179~196) 第十四：佛陀品
 - SUKHA_ VAGGO (197~208) 第十五：樂品
 - PIYA_ VAGGO (209~220) 第十六：喜愛品
 - KODHA_ VAGGO (221~234) 第十七：忿怒品
-- MALA_ VAGGO (235~255) 第十八：垢穢品
-- DHAMMATTHA_ VAGGO (256~272) 第十九：法住品
+- MALA_ VAGGO (235~255) 第十八：污垢品
+- DHAMMATTHA_ VAGGO (256~272) 第十九：住於法品
 - MAGGA_ VAGGO (273~289) 第二十：道品
 - PAKINNAKA_ VAGGO (290~305) 第廿一：雜品
 - NIRAYA_ VAGGO (306~319) 第廿二：地獄品
 - NAGA_ VAGGO (320~333) 第廿三：象品
-- TANHA_ VAGGO (334~359) 第廿四：愛欲品
+- TANHA_ VAGGO (334~359) 第廿四：貪愛品
 - BHIKKHU_ VAGGO (360~382) 第廿五：比丘品
 - BRAHMANA_ VAGGO (383~423) 第廿六：波羅門品
 
@@ -1747,7 +1747,7 @@
 
 .. _DHAMMATTHA:
 
-法住品 　DHAMMATTHAVAGGO
+住於法品 　DHAMMATTHAVAGGO
 -------------------------------
 
 
@@ -1807,7 +1807,7 @@
 
 .. _TANHA:
 
-愛欲品  TANHAVAGGO
+貪愛品  TANHAVAGGO
 -------------------------------
 
 
