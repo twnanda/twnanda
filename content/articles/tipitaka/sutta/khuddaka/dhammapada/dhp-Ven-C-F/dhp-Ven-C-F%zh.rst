@@ -3,7 +3,7 @@
 =================================================================
 
 :date: 2016-05-17 18:30
-:modified: 2016-05-20 22:00
+:modified: 2016-05-22 21:00
 :tags: 法句經, Dhammapada, 敬法比丘, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP 
 :category: 巴利三藏小部
 :summary: 《法句經》, Dhammapada, 白話文版, 敬法 比丘 譯, 第二修訂版 2015）
@@ -14,7 +14,7 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - 二版序 
+   * - `二版序 <{filename}dhp-Ven-C-F-Ver2-preface-%zh.rst>`_
      - `第一：雙品 <{filename}dhp-Ven-C-F-chap01%zh.rst>`_
      - `第二：不放逸品 <{filename}dhp-Ven-C-F-chap02%zh.rst>`_
      - `第三：心品 <{filename}dhp-Ven-C-F-chap03%zh.rst>`_
@@ -69,11 +69,11 @@
    :header-rows: 1
 
    * - `第十八：污垢品 <{filename}dhp-Ven-C-F-chap18%zh.rst>`_
-     - 第十九：住於法品19
-     - 第二十：道品20
-     - 第廿一：雜品21
-     - 第廿二：地獄品22
-     - 第廿三：象品23
+     - `第十九：住於法品 <{filename}dhp-Ven-C-F-chap19%zh.rst>`_
+     - `第二十：道品 <{filename}dhp-Ven-C-F-chap20%zh.rst>`_
+     - `第廿一：雜品 <{filename}dhp-Ven-C-F-chap21%zh.rst>`_
+     - `第廿二：地獄品 <{filename}dhp-Ven-C-F-chap22%zh.rst>`_
+     - `第廿三：象品 <{filename}dhp-Ven-C-F-chap23%zh.rst>`_
 
    * - 18. Malavaggo (Dhp.235-255)
      - 19. Dhammaṭṭhavaggo (Dhp.256-272)
@@ -86,9 +86,9 @@
    :widths: 16 16 16 16
    :header-rows: 1
 
-   * - 第廿四：貪愛品24
-     - 第廿五：比丘品25
-     - 第廿六：波羅門品26
+   * - `第廿四：貪愛品 <{filename}dhp-Ven-C-F-chap24%zh.rst>`_
+     - `第廿五：比丘品 <{filename}dhp-Ven-C-F-chap25%zh.rst>`_
+     - `第廿六：波羅門品 <{filename}dhp-Ven-C-F-chap26%zh.rst>`_
      - `整部 <{filename}dhp-Ven-C-F-full%zh.rst>`__
 
    * - 24. Taṇhāvaggo (Dhp.334-359)
