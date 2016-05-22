@@ -37,7 +37,7 @@ Siilakkhandhavagga 戒蘊(集)品
   * - DN 2
     - D i 47
     - Samaññaphala Sutta
-    - `沙門果經 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/Saamannaphala/Saamannaphala.html>`__
+    - `沙門果經 <{filename}dn02/saamannaphala%zh.rst>`__
     - The Fruits of the Contemplative Life
 
       `Translated from the Pali by Ven. Thanissaro Bhikkhu <http://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html>`__
