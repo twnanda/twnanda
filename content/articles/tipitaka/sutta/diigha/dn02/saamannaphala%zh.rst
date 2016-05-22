@@ -18,14 +18,14 @@
 
 - 主譯：德雄比丘（Bhikkhu Guooavaara）(中文助譯：不成道人)(2002年9月)[英文編譯：菩提比丘（Bhikkhu Bodhi）1988年5月]
 
-  * `版權頁 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/Saamannaphala/DN02-Ven-Dhasioun-donors.html>`__
-  * `導 讀 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/Saamannaphala/DN02-Ven-Dhasioun-introduction.html>`__
-  * `英譯序 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/Saamannaphala/DN02-Ven-Dhasioun-preface-Eng.html>`__
-  * `中譯序 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/Saamannaphala/DN02-Ven-Dhasioun-preface-Han.html>`__
-  * `Ⅰ. 經文篇 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/Saamannaphala/DN02-Ven-Dhasioun.html>`__
-  * `Ⅱ. 註疏篇 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/Saamannaphala/DN02-Ven-Dhasioun-commentary.html>`__
+  * `版權頁 <{filename}/extra/authors/guooavaara/DN02-Ven-Dhasioun-donors.html>`__
+  * `導 讀 <{filename}/extra/authors/guooavaara/DN02-Ven-Dhasioun-introduction.html>`__
+  * `英譯序 <{filename}/extra/authors/guooavaara/DN02-Ven-Dhasioun-preface-Eng.html>`__
+  * `中譯序 <{filename}/extra/authors/guooavaara/DN02-Ven-Dhasioun-preface-Han.html>`__
+  * `Ⅰ. 經文篇 <{filename}/extra/authors/guooavaara/DN02-Ven-Dhasioun.html>`__
+  * `Ⅱ. 註疏篇 <{filename}/extra/authors/guooavaara/DN02-Ven-Dhasioun-commentary.html>`__
 
-- `臺灣 廖文燦譯(AB 佛曆　2549年;  2005 AD) <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/Saamannaphala/DN02-TW-Liau.htm>`__
+- `臺灣 廖文燦譯(AB 佛曆　2549年;  2005 AD) <{filename}/extra/authors/liau/DN02-TW-Liau.htm>`__
 
 - 大乘比丘著, 《通達涅槃沙門果修道次第》, 初版, 基隆市, 佛文化禪觀研發社, 民96。
 
