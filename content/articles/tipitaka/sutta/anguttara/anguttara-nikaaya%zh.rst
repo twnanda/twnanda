@@ -9,14 +9,14 @@ Aṅguttaranikāya (增支部, The Further-factored Discourses)
           (Abr.=A)(The Book of the Gradual Sayings)(PTS) or
           (The "Grouped" Discourses), 5 vols
 
-1. Ekakanipaata 一集
-2. Dukanipaata 二集
-3. Tikanipaata 三集
-4. Catukkanipaata 四集
-5. Pa~ncakanipaata 五集
-6. Chakkanipaata 六集
-7. Sattakanipaata 七集
-8. A.t.thakanipaata 八集
-9. Navakanipaata 九集
-10. Dasakanipaata 十集
-11. Ekaadasakanipaata 十一集
+1. ekakanipāta 一集
+2. dukanipāta 二集
+3. tikanipāta 三集
+4. catukkanipāta 四集
+5. pañcakanipāta 五集
+6. chakkanipāta 六集
+7. sattakanipāta 七集
+8. aṭṭhakanipāta 八集
+9. navakanipāta 九集
+10. dasakanipāta 十集
+11. ekādasakanipāta 十一集
