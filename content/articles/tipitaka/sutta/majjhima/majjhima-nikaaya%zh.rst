@@ -1,11 +1,11 @@
-Majjhima-nikaaya 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
-=======================================================================================
+Majjhima-nikāya 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
+======================================================================================
 
 :date: 2003-07-13
 :modified: 2013-12-18
 :tags: 中部尼柯耶, 中部, 尼柯耶, Majjhima nikāya, 巴利三藏中部
 :category: 巴利三藏中部
-:summary: Majjhima-nikaaya 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
+:summary: Majjhima-nikāya 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
           (Abr.=M)(Further Dialogues of the Buddha)(SBB) or
           (The "Middle-length" Discourses), 3 vols
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Majjhima-nikaaya.htm
@@ -18,68 +18,68 @@ Original:
 
 ----
 
-1. Muulapa.n.naasa  根本五十經篇 （MN 1 ～ MN 50）
-2. Majjhimapa.n.naasa 中分五十經篇 （MN 51 ～ MN 100）
-3. Uparipa.n.naasa 後分五十經篇 （MN 101 ～ MN 152）
+1. mūlapaṇṇāsa  根本五十經篇 （MN 1 ～ MN 50）
+2. majjhimapaṇṇāsa 中分五十經篇 （MN 51 ～ MN 100）
+3. uparipaṇṇāsa 後分五十經篇 （MN 101 ～ MN 152）
 
 
-Muulapa.n.naasa  根本五十經篇
+mūlapaṇṇāsa  根本五十經篇
 
 .. list-table::
 
-  * - `Muulapariyaayavaggo 根本法門品 <#Muulapariyaayavaggo>`__ (MN 1 ～ MN 10)
-    - `Siihanaadavaggo 獅子吼品 <#Siihanaadavaggo>`__ (MN 11 ～ MN 20)
+  * - `mūlapariyāyavaggo 根本法門品 <#mūlapariyāyavaggo>`__ (MN 1 ～ MN 10)
+    - `sīhanādavaggo 獅子吼品 <#sīhanādavaggo>`__ (MN 11 ～ MN 20)
     - `Opammavaggo 譬喻法品 <#Opammavaggo>`__ (MN 21 ～ MN 30)
-  * - `Mahaayamakavaggo 雙大品(MN 31 ～ MN 40) <#Mahaayamakavaggo>`__
-    - `Jaraa-Vaggo 雙小品 <#Cuu.layamakavaggo>`__ (MN 41 ～ MN 50)
+  * - `mahāyamakavaggo 雙大品(MN 31 ～ MN 40) <#mahāyamakavaggo>`__
+    - `jarā-Vaggo 雙小品 <#cūḷayamakavaggo>`__ (MN 41 ～ MN 50)
     - 
 
-Majjhimapa.n.naasa 中分五十經篇 （MN 51 ～ MN 100）
+majjhimapaṇṇāsa 中分五十經篇 （MN 51 ～ MN 100）
 
 .. list-table::
 
   * - `Gahapativaggo 居士品 <#Gahapativaggo>`__ (MN 51 ～ MN 60)
     - `Bhikkhuvaggo 比丘品 <#Bhikkhuvaggo>`__ (MN 61 ～ MN 70)
-    - `Paribbaajakavaggo 普行者品 <#Paribbaajakavaggo>`__ (MN 71 ～ MN 80)
-  * - `Raajavaggo 王品 <#Raajavaggo>`__ (MN 81 ～ MN 90)
-    - `Braahma.navaggo 婆羅門品 <#Braahma.navaggo>`__ (MN 91 ～ MN 100)
+    - `paribbājakavaggo 普行者品 <#paribbājakavaggo>`__ (MN 71 ～ MN 80)
+  * - `rājavaggo 王品 <#rājavaggo>`__ (MN 81 ～ MN 90)
+    - `brāhmaṇavaggo 婆羅門品 <#brāhmaṇavaggo>`__ (MN 91 ～ MN 100)
     - 
 
-Uparipa.n.naasa 後分五十經篇 （MN 101 ～ MN 152）
+uparipaṇṇāsa 後分五十經篇 （MN 101 ～ MN 152）
 
 .. list-table::
 
   * - `Devadahavaggo 天臂品 <#Devadahavaggo>`__ (MN 101 ～ MN 110)
     - `Anupadavaggo 不斷品 <#Anupadavaggo>`__ (MN 111 ～ MN 120)
-    - `Su~n~natavaggo 空品 <#Su~n~natavaggo>`__ (MN 121 ～ MN 130)
+    - `suññatavaggo 空品 <#suññatavaggo>`__ (MN 121 ～ MN 130)
   * - `Vibha'ngavaggo 分別品 <#Vibha'ngavaggo>`__ (MN 131 ～ MN 142)
-    - `Sa.laayatanavaggo 六處品(MN 143 ～ MN 152) <#Sa.laayatanavaggo>`__
+    - `saḷāyatanavaggo 六處品(MN 143 ～ MN 152) <#saḷāyatanavaggo>`__
     - 
 
 ----
 
-Muulapa.n.naasa 根本五十經篇
-Muulapariyaayavaggo 根本法門品
+mūlapaṇṇāsa 根本五十經篇
+mūlapariyāyavaggo 根本法門品
 (MN 1 ～ MN 10)
 
 .. list-table::
 
   * - MN 1
     - M i 1
-    - Muulapariyaaya Sutta
+    - mūlapariyāya Sutta
     - 根本法門經
     - The Root Sequence
       (1. `Translated from the Pali by Ven. Thanissaro Bhikkhu. <../AccessToInsight/html/canon/sutta/majjhima/mn001-tb0.html>`__)
     - 
   * - MN 2
     - M i 6
-    - Sabbaasava  Sutta
+    - sabbāsava  Sutta
     - 一切漏經
     - 
     - 
   * - MN 3
     - M i 
-    - Dhammadaayaada Sutta
+    - dhammadāyāda Sutta
     - 法嗣經
       `陳慈蘭摘譯 <Sutta/Majjhima/mn003-han-ref.html>`__[2003/12/25(語體文)]; 
       `Original <http://www.infs.idv.tw/02_books/l_forest/forest018_may.htm>`__
@@ -95,14 +95,14 @@ Muulapariyaayavaggo 根本法門品
 
   * - MN 5
     - M i 
-    - Ana”nga.na Sutta
+    - Ana”ngaṇa Sutta
     - 無穢經
     - Blemishes
       `from ”www.metta.lk” <http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/005-anangana-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
     - 
   * - MN 6
     - M i 
-    - Aaka”nkheyya Sutta
+    - āka”nkheyya Sutta
     - 願經
     - 
     - 
@@ -133,8 +133,8 @@ Muulapariyaayavaggo 根本法門品
 
 ----
 
-Muulapa.n.naasa 根本五十經篇
-Siihanaadavaggo 獅子吼品
+mūlapaṇṇāsa 根本五十經篇
+sīhanādavaggo 獅子吼品
 (MN 11 ～ MN 20)
 
 .. list-table::
@@ -167,7 +167,7 @@ Siihanaadavaggo 獅子吼品
     - 
   * - MN 15
     - M i  
-    - Anumaana  Sutta
+    - anumāna  Sutta
     - 思量經
     - Self Observation
       `from ”www.metta.lk” <http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/015-anumana-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
@@ -208,7 +208,7 @@ Siihanaadavaggo 獅子吼品
 
 ----
 
-Muulapa.n.naasa 根本五十經篇
+mūlapaṇṇāsa 根本五十經篇
 Opammavaggo 譬喻法品
 (MN 21 ～ MN 30)
 
@@ -282,21 +282,21 @@ Opammavaggo 譬喻法品
 
 ----
 
-Muulapa.n.naasa 根本五十經篇
-Mahaayamakavaggo 雙大品
+mūlapaṇṇāsa 根本五十經篇
+mahāyamakavaggo 雙大品
 (MN 31 ～ MN 40)
 
 .. list-table::
 
   * - MN 31
     - M i 
-    - Cuulagosi”ngasuttam
+    - cūlagosi”ngasuttam
     - 牛角林小經
     - 
     - 
   * - MN 32
     - M i 
-    - Mahaagosi”nga Sutta
+    - mahāgosi”nga Sutta
     - 牛角林大經
     - 
     - 
@@ -356,8 +356,8 @@ Mahaayamakavaggo 雙大品
 
 ----
 
-Muulapa.n.naasa 根本五十經篇
-Cuu.layamakavaggo 雙小品
+mūlapaṇṇāsa 根本五十經篇
+cūḷayamakavaggo 雙小品
 (MN 41 ～ MN 50)
 
 .. list-table::
@@ -429,7 +429,7 @@ Cuu.layamakavaggo 雙小品
 
 ----
 
-Majjhimapa.n.naasa 中分五十經篇
+majjhimapaṇṇāsa 中分五十經篇
 Gahapativaggo 居士品
 (MN 51 ～ MN 60)
 
@@ -492,7 +492,7 @@ Gahapativaggo 居士品
     - Bahuvedaniya Sutta
     - 多受經
     - The Many Kinds of Feeling/Many Things to be Experienced
-      (1. `Translated from the Pali by Ven. ~Nanamoli Thera. <http://www.accesstoinsight.org/tipitaka/mn/mn.059.nypo.html>`__);
+      (1. `Translated from the Pali by Ven. ñanamoli Thera. <http://www.accesstoinsight.org/tipitaka/mn/mn.059.nypo.html>`__);
     - 
   * - MN 60
     - M i 400
@@ -503,7 +503,7 @@ Gahapativaggo 居士品
 
 ----
 
-Majjhimapa.n.naasa 中分五十經篇
+majjhimapaṇṇāsa 中分五十經篇
 Bhikkhuvaggo 比丘品
 (MN 61 ～ MN 70)
 
@@ -572,8 +572,8 @@ Bhikkhuvaggo 比丘品
 
 ----
 
-Majjhimapa.n.naasa 中分五十經篇
-Paribbaajakavaggo 普行者品
+majjhimapaṇṇāsa 中分五十經篇
+paribbājakavaggo 普行者品
 (MN 71 ～ MN 80)
 
 .. list-table::
@@ -616,19 +616,19 @@ Paribbaajakavaggo 普行者品
     - cf. 
   * - MN 77
     - M i 
-    - Maahasakuludaayi Sutta
+    - māhasakuludāyi Sutta
     - 善生優陀夷大經
     - 
     - 
   * - MN 78
     - M i 
-    - Samanamu.n.dika Sutta
+    - samanamuṇḍika Sutta
     - 沙門文祁子經
     - 
     - 
   * - MN 79
     - M i 
-    - Cuu.lasakuludayi Sutta
+    - cūḷasakuludayi Sutta
     - 善生優陀夷小經
     - 
     - 
@@ -641,8 +641,8 @@ Paribbaajakavaggo 普行者品
 
 ----
 
-Majjhimapa.n.naasa 中分五十經篇
-Raajavaggo 王品
+majjhimapaṇṇāsa 中分五十經篇
+rājavaggo 王品
 (MN 81 ～ 
 
 
@@ -650,13 +650,13 @@ Raajavaggo 王品
 
   * - MN 81
     - M i 
-    - Gha.tikaara Sutta
+    - ghaṭikāra Sutta
     - 陶師經
     - 
     - 
   * - MN 82
     - M i 
-    - Ra.t.thapaala Sutta
+    - raṭṭhapāla Sutta
     - 賴吒恕羅經
     - 
     - 
@@ -674,25 +674,25 @@ Raajavaggo 王品
     - 
   * - MN 85
     - M i 
-    - Bodhiraajakumaara Sutta
+    - bodhirājakumāra Sutta
     - 菩提王子經
     - 
     - 
   * - MN 86
     - M i 
-    - A”ngulimaala Sutta
+    - A”ngulimāla Sutta
     - 鴦掘摩經
     - 
     - 
   * - MN 87
     - M i 
-    - Piyajaatika Sutta
+    - piyajātika Sutta
     - 愛生經
     - 
     - 
   * - MN 88
     - M i 
-    - Baahitika Sutta
+    - bāhitika Sutta
     - 鞞訶提經
     - 
     - 
@@ -704,22 +704,22 @@ Raajavaggo 王品
     - 
   * - MN 90
     - M i 
-    - Ka.n.nakatthala Sutta
+    - kaṇṇakatthala Sutta
     - 普棘刺林經
     - 
     - 
 
 ----
 
-Majjhimapa.n.naasa 中分五十經篇
-Braahma.navaggo 婆羅門品
+majjhimapaṇṇāsa 中分五十經篇
+brāhmaṇavaggo 婆羅門品
 (MN 91 ～ MN 100)
 
 .. list-table::
 
   * - MN 91
     - M i 
-    - Brahmaayu Sutta
+    - brahmāyu Sutta
     - 梵摩經
     - 
     - 
@@ -731,13 +731,13 @@ Braahma.navaggo 婆羅門品
     - 
   * - MN 93
     - M i 
-    - Assalaayana Sutta
+    - assalāyana Sutta
     - 阿攝[和/心]經
     - 
     - 
   * - MN 94
     - M i 
-    - Gho.tamukha Sutta
+    - ghoṭamukha Sutta
     - 瞿哆牟伽經
     - 
     - cf. 
@@ -756,13 +756,13 @@ Braahma.navaggo 婆羅門品
     - 
   * - MN 97
     - M i 
-    - Dhana~njaani Sutta
+    - dhanañjāni Sutta
     - 陀然經
     - 
     - 
   * - MN 98
     - M i 
-    - Vaase.t.tha Sutta
+    - vāseṭṭha Sutta
     - 婆私吒經
     - 
     - 
@@ -774,14 +774,14 @@ Braahma.navaggo 婆羅門品
     - 
   * - MN 100
     - M i 
-    - Sa”ngaarava Sutta
+    - Sa”ngārava Sutta
     - 傷歌邏經
     - 
     - 世尊苦行精進，參照
 
 ----
 
-Uparipa.n.naasa 後分五十經篇
+uparipaṇṇāsa 後分五十經篇
 Devadahavaggo 天臂品
 (MN 101 ～ MN 110)
 
@@ -795,7 +795,7 @@ Devadahavaggo 天臂品
     - 
   * - MN 102
     - M i 
-    - Pa~ncattaya Sutta
+    - pañcattaya Sutta
     - 五三經
     - 
     - cf.
@@ -807,7 +807,7 @@ Devadahavaggo 天臂品
     - 
   * - MN 104
     - M i 
-    - Saamagaama Sutta
+    - sāmagāma Sutta
     - 舍彌村經
     - 
     - 
@@ -819,38 +819,38 @@ Devadahavaggo 天臂品
     - 
   * - MN 106
     - M i 
-    - AAne~njasappaaya Sutta
+    - āneñjasappāya Sutta
     - 不動利益經
     - 
     - 
   * - MN 107
     - M i 
-    - Ga.nakamoggallaana Sutta
+    - gaṇakamoggallāna Sutta
     - 算數家目犍連經
     - 
     - 
   * - MN 108
     - M i 
-    - Gopakamoggallaana Sutta
+    - gopakamoggallāna Sutta
     - 瞿默目犍連經
     - 
     - 
   * - MN 109
     - M i 
-    - Mahaapu.n.nama Sutta
+    - mahāpuṇṇama Sutta
     - 滿月大經
     - 
     - 
   * - MN 110
     - M i 
-    - Cuu.lapu.n.nama Sutta
+    - cūḷapuṇṇama Sutta
     - 滿月小經
     - 
     - cf. 
 
 ----
 
-Uparipa.n.naasa 後分五十經篇
+uparipaṇṇāsa 後分五十經篇
 Anupadavaggo 不斷品
 (MN 111 ～ MN 120)
 
@@ -876,13 +876,13 @@ Anupadavaggo 不斷品
     - 
   * - MN 114
     - M i 
-    - Sevitabbaasevitabba Sutta
+    - sevitabbāsevitabba Sutta
     - 應習不應習經
     - 
     - 北傳無相當之經
   * - MN 115
     - M i 
-    - Bahudhaatuka Sutta
+    - bahudhātuka Sutta
     - 多界經
     - 
     - 
@@ -894,47 +894,47 @@ Anupadavaggo 不斷品
     - 
   * - MN 117
     - M i 
-    - Mahaacattaariisaka Sutta
+    - mahācattārīsaka Sutta
     - 大四十經
     - 
     - 
   * - MN 118
     - M i 
-    - AAnaapaanassati Sutta
+    - ānāpānassati Sutta
     - 入出息念經; 安那般那念經
     - 
     - 
   * - MN 119
     - M i 
-    - Kaayagataasati Sutta
+    - kāyagatāsati Sutta
     - 身行念經
     - 
     - 
   * - MN 120
     - M i 
-    - Sa”nkhaarupapatti Sutta
+    - Sa”nkhārupapatti Sutta
     - 行生經
-    - Majjhima Nikaaya III-- 2. 10. Sankhaaruppattisuttam; (120) Arising of Intentions
+    - Majjhima nikāya III-- 2. 10. sankhāruppattisuttam; (120) Arising of Intentions
       `Translated by Sister Upalavanna <http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/120-sankharuppatti-e.html>`__
     - 
 
 ----
 
-Uparipa.n.naasa 後分五十經篇
-Su~n~natavaggo 空品
+uparipaṇṇāsa 後分五十經篇
+suññatavaggo 空品
 (MN 121 ～ MN 130)
 
 .. list-table::
 
   * - MN 121
     - M i 
-    - Cuu.lasu~n~nata Sutta
+    - cūḷasuññata Sutta
     - 空小經
     - 
     - 
   * - MN 122
     - M i 
-    - Mahaasu~n~nata Sutta
+    - mahāsuññata Sutta
     - 空大經
     - 
     - 
@@ -946,19 +946,19 @@ Su~n~natavaggo 空品
     - 
   * - MN 124
     - M i 
-    - Baakula Sutta
+    - bākula Sutta
     - 薄拘羅經
     - 
     - 
   * - MN 125
     - M i 
-    - Dantabhuumi Sutta
+    - dantabhūmi Sutta
     - 調御地經
     - 
     - 
   * - MN 126
     - M i 
-    - Bhuumija Sutta
+    - bhūmija Sutta
     - 浮彌經
     - 
     - 
@@ -976,20 +976,20 @@ Su~n~natavaggo 空品
     - 
   * - MN 129
     - M i 
-    - Baalapa.n.dita Sutta
+    - bālapaṇḍita Sutta
     - 賢愚經
     - 
     - 
   * - MN 130
     - M i 
-    - Devaduuta Sutta
+    - devadūta Sutta
     - 天使經
     - 
     - 
 
 ----
 
-Uparipa.n.naasa 後分五十經篇
+uparipaṇṇāsa 後分五十經篇
 Vibha'ngavaggo 分別品
 (MN 131 ～ MN 142)
 
@@ -1004,13 +1004,13 @@ Vibha'ngavaggo 分別品
     - 北傳漢譯無此經
   * - MN 132
     - M i 
-    - AAnandabhaddekaratta Sutta
+    - ānandabhaddekaratta Sutta
     - 阿難一夜賢者經
     - 
     - 
   * - MN 133
     - M i 
-    - Mahaakaccaanabhaddekaratta Sutta
+    - mahākaccānabhaddekaratta Sutta
     - 大迦旃延一夜賢者經
     - 
     - 
@@ -1022,19 +1022,19 @@ Vibha'ngavaggo 分別品
     - 
   * - MN 135
     - M i 
-    - Cuu.lakammavibha”nga Sutta
+    - cūḷakammavibha”nga Sutta
     - 小業分別經
     - 
     - 
   * - MN 136
     - M i 
-    - Maahakammavibha”nga Sutta
+    - māhakammavibha”nga Sutta
     - 大業分別經
     - 
     - 
   * - MN 137
     - M i 
-    - Sa.laayatanavibha”nga Sutta
+    - saḷāyatanavibha”nga Sutta
     - 六處分別經
     - 
     - 
@@ -1046,13 +1046,13 @@ Vibha'ngavaggo 分別品
     - 
   * - MN 139
     - M i 
-    - Ara.navibha”nga Sutta
+    - araṇavibha”nga Sutta
     - 無諍分別經
     - 
     - 
   * - MN 140
     - M i 
-    - Dhaatuvibha”nga Sutta
+    - dhātuvibha”nga Sutta
     - 界分別經
     - 
     - 
@@ -1071,8 +1071,8 @@ Vibha'ngavaggo 分別品
 
 ----
 
-Uparipa.n.naasa 後分五十經篇
-Sa.laayatanavaggo 六處品
+uparipaṇṇāsa 後分五十經篇
+saḷāyatanavaggo 六處品
 (MN 143 ～ MN 152)
 
 
@@ -1080,31 +1080,31 @@ Sa.laayatanavaggo 六處品
 
   * - MN 143
     - M i 
-    - Anaathapi.n.dikovaada Sutta
+    - anāthapiṇḍikovāda Sutta
     - 教給孤獨經
     - 
     - 
   * - MN 144
     - M i 
-    - Channovaada Sutta
+    - channovāda Sutta
     - 教闡陀經
     - 
     - 
   * - MN 145
     - M i 
-    - Pu.n.novaada Sutta
+    - puṇṇovāda Sutta
     - 教富樓那經
     - 
     - 
   * - MN 146
     - M i 
-    - Nandakovaada Sutta
+    - nandakovāda Sutta
     - 教難陀迦經
     - 
     - 
   * - MN 147
     - M i 
-    - Cuu.laraahulovaada Sutta
+    - cūḷarāhulovāda Sutta
     - 教羅[目+侯]羅小經
     - 
     - 
@@ -1116,7 +1116,7 @@ Sa.laayatanavaggo 六處品
     - 
   * - MN 149
     - M i 
-    - Mahaasa.laayatanika Sutta
+    - mahāsaḷāyatanika Sutta
     - 大六處經
     - 
     - 
@@ -1128,13 +1128,13 @@ Sa.laayatanavaggo 六處品
     - 
   * - MN 151
     - M i 
-    - Pi.n.dapaatapaarisuddhi Sutta
+    - piṇḍapātapārisuddhi Sutta
     - 乞食清淨經
     - 
     - 
   * - MN 152
     - M i 
-    - Indriyabhaavanaa Sutta
+    - indriyabhāvanā Sutta
     - 根修習經
     - 
     - 
@@ -1148,8 +1148,8 @@ Sa.laayatanavaggo 六處品
   12.14 complete from maps of mn.
   12.13 till mn 38; 
   12.12 rev. mn 141, mn 142 move to Vibha'ngavaggo 分別品
-        add: Muulapa.n.naasa 根本五十經篇 （MN 1 ～ MN 50）; Majjhimapa.n.naasa 中分五十經篇 （MN 51 ～ MN 100）; Uparipa.n.naasa 後分五十經篇 （MN 101 ～ MN 152）
-             Muulapariyaayavaggo 根本法門品(MN 1 ～ MN 10); Siihanaadavaggo 獅子吼品(MN 11 ～ MN 20); ..., ..., Vibha'ngavaggo 分別品(MN 131 ～ MN 142); Sa.laayatanavaggo 六處品(MN 143 ～ MN 152)
+        add: mūlapaṇṇāsa 根本五十經篇 （MN 1 ～ MN 50）; majjhimapaṇṇāsa 中分五十經篇 （MN 51 ～ MN 100）; uparipaṇṇāsa 後分五十經篇 （MN 101 ～ MN 152）
+             mūlapariyāyavaggo 根本法門品(MN 1 ～ MN 10); sīhanādavaggo 獅子吼品(MN 11 ～ MN 20); ..., ..., Vibha'ngavaggo 分別品(MN 131 ～ MN 142); saḷāyatanavaggo 六處品(MN 143 ～ MN 152)
   12.04 2013 add:《中部尼柯耶》閱讀地圖(菩提比丘)
   --------------------------------------  
   08.05 add: some English translations
