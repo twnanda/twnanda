@@ -2,7 +2,7 @@
 #############################
 
 :date: 2016-04-16 21:50
-:modified: 2016-05-18 22:00
+:modified: 2016-05-26 17:30
 :tags: 法句經註解目錄, Dhammapada Aṭṭhakathā, DhA, Dha. The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma
 :category: 巴利三藏小部
 :summary: 巴利法句經註解, 目錄, Dhammapada Aṭṭhakathā (DhA)
@@ -16,9 +16,9 @@
    * - `1. Yamakavaggo (Dhp.1-20) <{filename}dhA-chap01%zh.rst>`__
      - `2. Appamādavaggo (Dhp.21-32) <{filename}dhA-chap02%zh.rst>`__
      - `3. Cittavaggo (Dhp.33-43) <{filename}dhA-chap03%zh.rst>`__
-     - 4. Pupphavaggo (Dhp.44-59) 04
-     - 5. Bālavaggo (Dhp.60-75) 05
-     - 6. Paṇḍitavaggo (Dhp.76-89) 06
+     - `4. Pupphavaggo (Dhp.44-59) <{filename}dhA-chap04%zh.rst>`__ 
+     - `5. Bālavaggo (Dhp.60-75) <{filename}dhA-chap05%zh.rst>`__ 
+     - `6. Paṇḍitavaggo (Dhp.76-89) <{filename}dhA-chap06%zh.rst>`__ 
    
    * - 1. 雙品 (The Pairs)
      - 2. 不放逸品 (Heedfulness)
@@ -31,12 +31,12 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - 7. Arahantavaggo (Dhp.90-99) 07
-     - 8. Sahassavaggo (Dhp.100-115) 08
-     - 9. Pāpavaggo (Dhp.116-128) 09
-     - 10. Daṇḍavaggo (Dhp.129-145) 10
-     - 11. Jarāvaggo (Dhp.146-156) 11
-     - 12. Attavaggo (Dhp.157-166) 12
+   * - `7. Arahantavaggo (Dhp.90-99) <{filename}dhA-chap07%zh.rst>`__ 
+     - `8. Sahassavaggo (Dhp.100-115) <{filename}dhA-chap08%zh.rst>`__ 
+     - `9. Pāpavaggo (Dhp.116-128) <{filename}dhA-chap09%zh.rst>`__ 
+     - `10. Daṇḍavaggo (Dhp.129-145) <{filename}dhA-chap10%zh.rst>`__ 
+     - `11. Jarāvaggo (Dhp.146-156) <{filename}dhA-chap11%zh.rst>`__ 
+     - `12. Attavaggo (Dhp.157-166) <{filename}dhA-chap12%zh.rst>`__
 
    * - 7. 阿羅漢品 (The Arahat)
      - 8. 千品 (The Thousands)
@@ -49,7 +49,7 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - 13. Lokavaggo (Dhp.167-178) 13
+   * - `13. Lokavaggo (Dhp.167-178) <{filename}dhA-chap13%zh.rst>`__
      - 14. Buddhavaggo (Dhp.179-196) 14
      - 15. Sukhavaggo (Dhp.197-208) 15
      - 16. Piyavaggo (Dhp.209~220) 16

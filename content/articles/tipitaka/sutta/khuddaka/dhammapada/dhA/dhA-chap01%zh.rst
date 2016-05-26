@@ -3,7 +3,7 @@
 
 :date: 2016-03-08 12:00
 :modified: 2016-04-19 22:00
-:tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Yamakavaggo (Dhp.1-20), 雙品, The Pairs 
+:tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Yamakavaggo, 雙品, The Pairs 
 :category: 巴利三藏小部
 :summary: 巴利法句經註解, 雙品, Dhammapada Aṭṭhakathā (DhA)
 
@@ -62,14 +62,14 @@
    :class: contrast-reading-table
 
    * - 巴利原典 (CSCD) [2]_
-     - 1. Yamakavaggo
+     - **1. Yamakavaggo**
 
        | 1. Manopubbaṅgamā  dhammā, manoseṭṭhā manomayā;
        | Manasā ce paduṭṭhena, bhāsati vā karoti vā;
        | Tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一、雙品 [LChnFn01-01]_ 
+     - **一、雙品** [LChnFn01-01]_ 
 
        1 諸法意先導，意主.意造作。若以染污意，或語.或行業，是則苦隨彼，如輪隨獸足。 [LChnFn01-02]_ 、 [MettFn01-01]_ 、 [LChnFn01-03]_ 、 [MettFn01-02]_ 、 [MettFn01-03]_
 
@@ -532,12 +532,13 @@
        | Rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto;
        | Anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.
        | 
-       | Yamakavaggo paṭhamo niṭṭhito.
+
+       **Yamakavaggo paṭhamo niṭṭhito.**
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - 20 雖誦經典少，能依教實行，具足正知識，除滅貪.瞋.癡，善淨解脫心，棄捨於世欲，此界.或他界，彼得沙門分。 [MettFn01-31]_ 、 [MettFn01-32]_
 
-       雙品第一竟〔Yamakavaggo Pa.thamo〕
+       **雙品第一竟**
 
    * - 註解 [4]_
      - appam pi 少量，如一章或二章。

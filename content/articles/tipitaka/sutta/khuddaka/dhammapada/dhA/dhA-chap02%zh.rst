@@ -3,7 +3,7 @@
 
 :date: 2016-04-12 08:00
 :modified: 2016-04-16 21:50
-:tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Appamādavaggo (Dhp.21-32), 不放逸品, Heedfulness
+:tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Appamādavaggo, 不放逸品, Heedfulness
 :category: 巴利三藏小部
 :summary: 巴利法句經註解, 不放逸品, Dhammapada Aṭṭhakathā (DhA)
 
@@ -54,13 +54,13 @@
    :class: contrast-reading-table
 
    * - 巴利原典 (CSCD) [2]_
-     - | 2. Appamādavaggo
+     - **2. Appamādavaggo**
 
        | 21. Appamādo  amatapadaṃ **[amataṃ padaṃ (ka.)]**, pamādo maccuno padaṃ;
        | Appamattā na mīyanti, ye pamattā yathā matā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二、不放逸品
+     - **二、不放逸品**
 
        21 無逸不死道，放逸趣死路。無逸者不死，放逸者如尸。 [LCanFn02-01]_ 、 [MettFn02-01]_ 、 [MettFn02-02]_ 、 [LCanFn02-02]_
 
@@ -333,12 +333,13 @@
      - | 32. Appamādarato bhikkhu, pamāde bhayadassi vā;
        | Abhabbo parihānāya, nibbānasseva santike.
        | 
-       | Appamādavaggo dutiyo niṭṭhito.
+       
+       **Appamādavaggo dutiyo niṭṭhito.**
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - | 32 樂不放逸比丘，或者懼見放逸，彼已鄰近涅槃，必定不易墮落。[MettFn02-13]_
-       | 
-       | 不放逸品第二竟〔Appamaadavaggo Dutiyo〕
+     - 32 樂不放逸比丘，或者懼見放逸，彼已鄰近涅槃，必定不易墮落。[MettFn02-13]_
+
+       **不放逸品第二竟**
 
    * - 註解 [4]_
      - abhabbo parihānāya 如何不放逸的比丘，不可能從止、觀的修學過程退失，或從道、果退失；也就是不會從已得而退失，且能得未得。
