@@ -2,7 +2,7 @@
 ===================
 
 :date: 2016-01-29 09:00
-:modified: 2016-05-19 13:00
+:modified: 2016-05-26 17:30
 :tags: 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經, Dhammapada
@@ -27,7 +27,7 @@
 
   * 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師** (葉均)，注解： **尊者 明法 比丘** ； `PDF <{filename}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{filename}/extra/doc/pc-Dhammapada.doc>`__； `DOC (Foreign1 字型) <{filename}/extra/doc/pc-Dhammapada-f1.doc>`__ [4]_
 
-  * `白話文版 <{filename}dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__ (陸續補齊中)， **敬法 法師** 譯，第二修訂版 2015，`pdf <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__  `原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`_ ；　( `初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
+  * `白話文版 <{filename}dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__ ， **敬法 法師** 譯，第二修訂版 2015，`pdf <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__  `原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`_ ；　( `初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
 
   * **《真理的語言(法句經)》** ， **淨海 法師** 中譯 [5]_
 
@@ -60,7 +60,9 @@
 
   * `Online Pāḷi Tipiṭaka <http://tipitaka.sutta.org/>`_： `巴漢比照對讀 <http://tipitaka.sutta.org/canon/sutta/khuddaka/dhammapada/yamakavaggo/zh_TW/%E4%BA%86%E5%8F%83%E6%B3%95%E5%B8%AB(%E8%91%89%E5%9D%87)/ContrastReading>`__ （**了參 法師** (葉均) 翻譯）等等 [9]_
 
-  * `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ ： **具 pali 註解** 。涵蓋了 T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯（部落格-- 荒草不曾鋤）
+  * `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ ： **具 pali 註解** 。涵蓋了 T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯（部落格-- 荒草不曾鋤）；
+
+    * **pali 註解** （ `本站 <{filename}dhA/dhA-content%zh.rst>`__ ）——　取自上述之【部落格-- 荒草不曾鋤】
 
   * `Multilingual edition of Dhammapada <https://www2.hf.uio.no/polyglotta/index.php?page=volume&vid=80>`__ (犍陀羅語、巴利語、英語、混合佛教梵語、漢語多語對讀) [10]_
 
