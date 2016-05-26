@@ -237,7 +237,7 @@
 
 四三　（善）非父母作，亦非他眷屬，若心向正行 [LChnFn03-11]_ ，善業最為大。
 
-心品第三竟〔Cittavaggo  Tatiyo]_ 
+心品第三竟〔Cittavaggo  Tatiyo〕
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -602,7 +602,7 @@
 
 一七八　一統大地者，得生天上者，一切世界主，不及預流 [LChnFn13-06]_ 勝。 ( `178 典故 <{filename}../dhp-story/dhp-story178%zh.rst>`__ ).
 
-世品第十三竟〔Lokavaggo Terasamo]_ 
+世品第十三竟〔Lokavaggo Terasamo〕 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

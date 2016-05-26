@@ -47,7 +47,7 @@
 
 一七八　一統大地者，得生天上者，一切世界主，不及預流 [LChnFn13-06]_ 勝。 ( `178 典故 <{filename}../dhp-story/dhp-story178%zh.rst>`__ ).
 
-世品第十三竟〔Lokavaggo Terasamo]_ 
+世品第十三竟〔Lokavaggo Terasamo〕
 
 ~~~~~~~~~~~~~~~~
 
