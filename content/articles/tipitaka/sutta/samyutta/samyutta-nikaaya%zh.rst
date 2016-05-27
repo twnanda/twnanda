@@ -17,7 +17,7 @@ Saṃyuttanikāya 相應部 (The Book of Kindred Sayings; The "Grouped" Discours
 
   * - 01
     - devatāsaṃyuttaṃ
-    - `諸天相應 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Devataa.htm>`__
+    - `諸天相應 <{filename}devataa%zh.rst>`__
     - Devas
     - (30經)
   * - 02
