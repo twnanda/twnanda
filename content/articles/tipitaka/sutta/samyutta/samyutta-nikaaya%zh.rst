@@ -219,7 +219,7 @@ Saṃyuttanikāya 相應部 (The Book of Kindred Sayings; The "Grouped" Discours
     - (207經)
   * - 36
     - vedanāsaṃyuttaṃ
-    - `受相應 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Vedanaa.htm>`__
+    - `受相應 <{filename}vedanaa%zh.rst>`__
     - Feeling
     - (29經)
   * - 37
