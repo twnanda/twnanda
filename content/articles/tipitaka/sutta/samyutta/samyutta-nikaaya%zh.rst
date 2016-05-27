@@ -22,7 +22,7 @@ Saṃyuttanikāya 相應部 (The Book of Kindred Sayings; The "Grouped" Discours
     - (30經)
   * - 02
     - devaputtasaṃyuttaṃ
-    - `天子相應 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Devaputta.htm>`__
+    - `天子相應 <{filename}devaputta%zh.rst>`__
     - Sons of the Devas
     - (30經)
   * - 03
