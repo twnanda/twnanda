@@ -3,7 +3,7 @@
 
 :date: 2016-02-11 11:30
 :modified: 2016-05-16 11:30
-:tags: 法句經對讀, Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, 2. Appamādavaggo (Dhp.21-32) 不放逸品, Heedfulness
+:tags: 法句經對讀, Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Appamādavaggo, 不放逸品, Heedfulness
 :category: 巴利三藏小部
 :summary: 法句經對讀, Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 2. Appamādavaggo (Dhp.21-32), 二、不放逸品, Heedfulness
 
