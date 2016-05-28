@@ -45,7 +45,17 @@
      - Dhp088_
      - Dhp089_
 
--------------------------------------
+--------------
+
+.. raw:: html 
+
+  本對讀包含下列數個版本，請自行勾選欲對讀之版本
+  （感恩 <strong><a href="https://siongui.github.io/zh/pages/siong-ui-te.html">Siong-Ui Te 師兄</a></strong>
+  提供程式支援）：
+  
+  <div id="option-contrast-reading"></div>
+
+--------------
 
 .. _Dhp076:
 

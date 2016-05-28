@@ -2,7 +2,7 @@
 #############################
 
 :date: 2016-04-16 21:50
-:modified: 2016-05-26 17:30
+:modified: 2016-05-28 22:30
 :tags: 法句經註解目錄, Dhammapada Aṭṭhakathā, DhA, Dha. The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma
 :category: 巴利三藏小部
 :summary: 巴利法句經註解, 目錄, Dhammapada Aṭṭhakathā (DhA)
@@ -50,11 +50,11 @@
    :header-rows: 1
 
    * - `13. Lokavaggo (Dhp.167-178) <{filename}dhA-chap13%zh.rst>`__
-     - 14. Buddhavaggo (Dhp.179-196) 14
-     - 15. Sukhavaggo (Dhp.197-208) 15
-     - 16. Piyavaggo (Dhp.209~220) 16
-     - 17. Kodhavaggo (Dhp.221-234) 17
-     - 18. Malavaggo (Dhp.235-255) 18
+     - `14. Buddhavaggo (Dhp.179-196) <{filename}dhA-chap14%zh.rst>`__
+     - `15. Sukhavaggo (Dhp.197-208) <{filename}dhA-chap15%zh.rst>`__
+     - `16. Piyavaggo (Dhp.209~220) <{filename}dhA-chap16%zh.rst>`__
+     - `17. Kodhavaggo (Dhp.221-234) <{filename}dhA-chap17%zh.rst>`__
+     - `18. Malavaggo (Dhp.235-255) <{filename}dhA-chap18%zh.rst>`__
 
    * - 13. 世品 (世間品 The World)
      - 14. 佛陀品 (The Buddha)
@@ -67,12 +67,12 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - 19. Dhammaṭṭhavaggo (Dhp.256-272) 19
-     - 20 Maggavaggo (Dhp.273-289) 20
-     - 21. Pakiṇṇakavaggo (Dhp.290-305) 21
-     - 22. Nirayavaggo (Dhp.306-319) 22
-     - 23. Nāgavaggo (Dhp.320-333) 23
-     - 24. Taṇhāvaggo (Dhp.334-359) 24
+   * - `19. Dhammaṭṭhavaggo (Dhp.256-272) <{filename}dhA-chap19%zh.rst>`__
+     - `20 Maggavaggo (Dhp.273-289) <{filename}dhA-chap20%zh.rst>`__
+     - `21. Pakiṇṇakavaggo (Dhp.290-305) <{filename}dhA-chap21%zh.rst>`__
+     - `22. Nirayavaggo (Dhp.306-319) <{filename}dhA-chap22%zh.rst>`__
+     - `23. Nāgavaggo (Dhp.320-333) <{filename}dhA-chap23%zh.rst>`__
+     - `24. Taṇhāvaggo (Dhp.334-359) <{filename}dhA-chap24%zh.rst>`__
 
    * - 19. 法住品 (The Just)
      - 20. 道品 (The Path)
@@ -85,8 +85,8 @@
    :widths: 16 16 68
    :header-rows: 1
 
-   * - 25. Bhikkhuvaggo (Dhp.360-382) 25
-     - 26. Brāhmaṇavaggo (Dhp.383-423) 26
+   * - `25. Bhikkhuvaggo (Dhp.360-382) <{filename}dhA-chap25%zh.rst>`__
+     - `26. Brāhmaṇavaggo (Dhp.383-423) <{filename}dhA-chap26%zh.rst>`__
      - Dhammapada (Dhp.001-423) dhA-full
 
    * - 25. 比丘品 (The Monk)

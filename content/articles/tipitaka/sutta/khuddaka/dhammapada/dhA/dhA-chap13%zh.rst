@@ -43,12 +43,22 @@
      - Dhp177_
      - Dhp178_
 
--------------------------------------
+--------------
+
+.. raw:: html 
+
+  本對讀包含下列數個版本，請自行勾選欲對讀之版本
+  （感恩 <strong><a href="https://siongui.github.io/zh/pages/siong-ui-te.html">Siong-Ui Te 師兄</a></strong>
+  提供程式支援）：
+  
+  <div id="option-contrast-reading"></div>
+
+--------------
 
 .. _Dhp167:
 
 .. list-table:: Dhammapada Dhp. 167
-   :widths: 16 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -76,7 +86,7 @@
 .. _Dhp168:
 
 .. list-table:: Dhammapada Dhp. 168
-   :widths: 16 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -99,7 +109,7 @@
 .. _Dhp169:
 
 .. list-table:: Dhammapada Dhp. 169
-   :widths: 16 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -116,7 +126,7 @@
 .. _Dhp170:
 
 .. list-table:: Dhammapada Dhp. 170
-   :widths: 17 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -135,7 +145,7 @@
 .. _Dhp171:
 
 .. list-table:: Dhammapada Dhp. 171
-   :widths: 17 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -160,7 +170,7 @@
 .. _Dhp172:
 
 .. list-table:: Dhammapada Dhp. 172
-   :widths: 17 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -179,7 +189,7 @@
 .. _Dhp173:
 
 .. list-table:: Dhammapada Dhp. 173
-   :widths: 17 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -196,7 +206,7 @@
 .. _Dhp174:
 
 .. list-table:: Dhammapada Dhp. 174
-   :widths: 17 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -221,7 +231,7 @@
 .. _Dhp175:
 
 .. list-table:: Dhammapada Dhp. 175
-   :widths: 17 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -242,7 +252,7 @@
 .. _Dhp176:
 
 .. list-table:: Dhammapada Dhp. 176
-   :widths: 17 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -265,7 +275,7 @@
 .. _Dhp177:
 
 .. list-table:: Dhammapada Dhp. 177
-   :widths: 17 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -288,7 +298,7 @@
 .. _Dhp178:
 
 .. list-table:: Dhammapada Dhp. 178
-   :widths: 17 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 

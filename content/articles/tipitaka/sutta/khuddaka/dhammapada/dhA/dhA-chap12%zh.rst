@@ -41,7 +41,17 @@
      - Dhp165_
      - Dhp166_
 
--------------------------------------
+--------------
+
+.. raw:: html 
+
+  本對讀包含下列數個版本，請自行勾選欲對讀之版本
+  （感恩 <strong><a href="https://siongui.github.io/zh/pages/siong-ui-te.html">Siong-Ui Te 師兄</a></strong>
+  提供程式支援）：
+  
+  <div id="option-contrast-reading"></div>
+
+--------------
 
 .. _Dhp157:
 
@@ -117,7 +127,7 @@
 .. _Dhp160:
 
 .. list-table:: Dhammapada Dhp. 160
-   :widths: 16 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -140,7 +150,7 @@
 .. _Dhp161:
 
 .. list-table:: Dhammapada Dhp. 161
-   :widths: 16 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -157,7 +167,7 @@
 .. _Dhp162:
 
 .. list-table:: Dhammapada Dhp. 162
-   :widths: 16 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -174,7 +184,7 @@
 .. _Dhp163:
 
 .. list-table:: Dhammapada Dhp. 163
-   :widths: 16 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -199,7 +209,7 @@
 .. _Dhp164:
 
 .. list-table:: Dhammapada Dhp. 164
-   :widths: 16 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -221,7 +231,7 @@
 .. _Dhp165:
 
 .. list-table:: Dhammapada Dhp. 165
-   :widths: 16 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
@@ -247,7 +257,7 @@
 .. _Dhp166:
 
 .. list-table:: Dhammapada Dhp. 166
-   :widths: 16 75
+   :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
 
