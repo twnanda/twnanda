@@ -17,12 +17,12 @@ Saṃyuttanikāya 相應部 (The Book of Kindred Sayings; The "Grouped" Discours
 
   * - 01
     - devatāsaṃyuttaṃ
-    - `諸天相應 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Devataa.htm>`__
+    - `諸天相應 <{filename}devataa%zh.rst>`__
     - Devas
     - (30經)
   * - 02
     - devaputtasaṃyuttaṃ
-    - `天子相應 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Devaputta.htm>`__
+    - `天子相應 <{filename}devaputta%zh.rst>`__
     - Sons of the Devas
     - (30經)
   * - 03
@@ -219,7 +219,7 @@ Saṃyuttanikāya 相應部 (The Book of Kindred Sayings; The "Grouped" Discours
     - (207經)
   * - 36
     - vedanāsaṃyuttaṃ
-    - `受相應 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Vedanaa.htm>`__
+    - `受相應 <{filename}vedanaa%zh.rst>`__
     - Feeling
     - (29經)
   * - 37
