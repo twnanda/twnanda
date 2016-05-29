@@ -19,7 +19,7 @@
 
 - `Visuddhimagga 清淨道論 (The Path of Purification) <{filename}visuddhimagga/visuddhimagga%zh.rst>`_
 
-- `Abhidhammatha-Sa'ngaha 攝阿毗達摩義論 (A summary of the Abhidhamma) <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Abhidhammattha-Sangaha/content.htm>`_
+- `Abhidhammatha-Sa'ngaha 攝阿毗達摩義論 (A summary of the Abhidhamma) <{filename}../anya/abhidhammattha-sangaha%zh.rst>`_
 
 - 阿育王刻文
 

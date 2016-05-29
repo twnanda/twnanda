@@ -232,7 +232,7 @@ V. `Khuddaka-nikaya 小部 (Khuddaka-nikāya)[The Division of Short Books(PS:17 
   - Mahava'msa 大王統史 (The Great Chronicle)
   - cūḷava'msa 小王統史 (The Lesser Chronicle)
   - `Visuddhimagga 清淨道論 (The Path of Purification) <{filename}../anya/visuddhimagga/visuddhimagga%zh.rst>`_
-  - `Abhidhammatha-Sa'ngaha 攝阿毗達摩義論 (A summary of the Abhidhamma) <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Abhidhammattha-Sangaha/content.htm>`_
+  - `Abhidhammatha-Sa'ngaha 攝阿毗達摩義論 (A summary of the Abhidhamma) <{filename}../anya/abhidhammattha-sangaha%zh.rst>`_
   - 阿育王刻文
   - ... 其他 (And so on)
 
