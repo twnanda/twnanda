@@ -1,16 +1,16 @@
 =======================================================
-巴利《法句經》註解　漢譯　十三：世品 (世間品 The World)
+巴利《法句經》註解　摘譯　十三：世品 (世間品 The World)
 =======================================================
 
 :date: 2016-05-26 17:30
 :modified: 2016-05-26 17:30
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Lokavaggo, 世品, 世間品, The World
 :category: 巴利三藏小部
-:summary: 巴利《法句經》註解　漢譯　十三：世品 (世間品 The World)
+:summary: 巴利《法句經》註解　摘譯　十三：世品 (世間品 The World)
 
 --------------
 
-- `巴利《法句經》註解漢譯目錄 <{filename}dhA-content%zh.rst>`_
+- `巴利《法句經》註解摘譯目錄 <{filename}dhA-content%zh.rst>`_
 
 ---------------------------
 

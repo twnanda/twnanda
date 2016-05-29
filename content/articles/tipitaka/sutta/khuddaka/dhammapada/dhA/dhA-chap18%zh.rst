@@ -1,16 +1,16 @@
 =================================================
-巴利《法句經》註解　漢譯　十八：垢穢品 (Impurity)
+巴利《法句經》註解　摘譯　十八：垢穢品 (Impurity)
 =================================================
 
 :date: 2016-05-27 16:00
 :modified: 2016-05-27 16:00
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Malavaggo, 垢穢品, Impurity
 :category: 巴利三藏小部
-:summary: 巴利《法句經》註解　漢譯　十八：垢穢品 (Impurity)
+:summary: 巴利《法句經》註解　摘譯　十八：垢穢品 (Impurity)
 
 --------------
 
-- `巴利《法句經》註解漢譯目錄 <{filename}dhA-content%zh.rst>`_
+- `巴利《法句經》註解摘譯目錄 <{filename}dhA-content%zh.rst>`_
 
 ---------------------------
 

@@ -1,16 +1,16 @@
 ===================================================
-巴利《法句經》註解　漢譯　六：智者品 (The Wise Man)
+巴利《法句經》註解　摘譯　六：智者品 (The Wise Man)
 ===================================================
 
 :date: 2016-05-24 21:30
 :modified: 2016-05-24 21:30
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Paṇḍitavaggo, 智者品, The Wise Man
 :category: 巴利三藏小部
-:summary: 巴利《法句經》註解　漢譯　六：智者品 (The Wise Man)
+:summary: 巴利《法句經》註解　摘譯　六：智者品 (The Wise Man)
 
 --------------
 
-- `巴利《法句經》註解漢譯目錄 <{filename}dhA-content%zh.rst>`_
+- `巴利《法句經》註解摘譯目錄 <{filename}dhA-content%zh.rst>`_
 
 ---------------------------
 

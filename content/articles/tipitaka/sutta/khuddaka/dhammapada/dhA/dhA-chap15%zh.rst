@@ -1,16 +1,16 @@
 ================================================
-巴利《法句經》註解　漢譯　十五：樂品 (Happiness)
+巴利《法句經》註解　摘譯　十五：樂品 (Happiness)
 ================================================
 
 :date: 2016-05-27 11:30
 :modified: 2016-05-27 11:30
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Sukhavaggo, 樂品, Happiness
 :category: 巴利三藏小部
-:summary: 巴利《法句經》註解　漢譯　十五：樂品 (Happiness)
+:summary: 巴利《法句經》註解　摘譯　十五：樂品 (Happiness)
 
 --------------
 
-- `巴利《法句經》註解漢譯目錄 <{filename}dhA-content%zh.rst>`_
+- `巴利《法句經》註解摘譯目錄 <{filename}dhA-content%zh.rst>`_
 
 ---------------------------
 

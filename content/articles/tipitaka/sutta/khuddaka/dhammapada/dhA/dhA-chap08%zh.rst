@@ -1,16 +1,16 @@
 ==================================================
-巴利《法句經》註解　漢譯　八：千品 (The Thousands)
+巴利《法句經》註解　摘譯　八：千品 (The Thousands)
 ==================================================
 
 :date: 2016-05-25 08:00
 :modified: 2016-05-25 08:00
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Sahassavaggo, 千品, The Thousands
 :category: 巴利三藏小部
-:summary: 巴利《法句經》註解　漢譯　八：千品 (The Thousands)
+:summary: 巴利《法句經》註解　摘譯　八：千品 (The Thousands)
 
 --------------
 
-- `巴利《法句經》註解漢譯目錄 <{filename}dhA-content%zh.rst>`_
+- `巴利《法句經》註解摘譯目錄 <{filename}dhA-content%zh.rst>`_
 
 ---------------------------
 

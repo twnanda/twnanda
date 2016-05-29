@@ -1,15 +1,15 @@
-巴利《法句經》註解 漢譯 目錄
+巴利《法句經》註解 摘譯 目錄
 #############################
 
 :date: 2016-04-16 21:50
 :modified: 2016-05-28 22:30
-:tags: 法句經註解目錄, Dhammapada Aṭṭhakathā, DhA, Dha. The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma
+:tags: 法句經註解摘譯目錄, Dhammapada Aṭṭhakathā, DhA, Dha. The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma
 :category: 巴利三藏小部
-:summary: 巴利法句經註解, 目錄, Dhammapada Aṭṭhakathā (DhA)
+:summary: 巴利法句經註解摘譯, 目錄, Dhammapada Aṭṭhakathā (DhA)
 
 --------------
 
-.. list-table:: 巴利《法句經》註解漢譯目錄(Content of Dhammapada Aṭṭhakathā)
+.. list-table:: 巴利《法句經》註解摘譯目錄(Content of Dhammapada Aṭṭhakathā)
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
@@ -87,7 +87,7 @@
 
    * - `25. Bhikkhuvaggo (Dhp.360-382) <{filename}dhA-chap25%zh.rst>`__
      - `26. Brāhmaṇavaggo (Dhp.383-423) <{filename}dhA-chap26%zh.rst>`__
-     - Dhammapada (Dhp.001-423) dhA-full
+     - `Dhammapada (Dhp.001-423) <{filename}dhA-full%zh.rst>`__
 
    * - 25. 比丘品 (The Monk)
      - 26. 婆羅門品 (The Holy Man)

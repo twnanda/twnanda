@@ -1,17 +1,17 @@
-巴利《法句經》註解　漢譯　一、雙品 (The Pairs)
+巴利《法句經》註解　摘譯　一、雙品 (The Pairs)
 ###############################################
 
 :date: 2016-03-08 12:00
 :modified: 2016-04-19 22:00
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Yamakavaggo, 雙品, The Pairs 
 :category: 巴利三藏小部
-:summary: 巴利法句經註解, 雙品, Dhammapada Aṭṭhakathā (DhA)
+:summary: 巴利法句經註解, 摘譯, 雙品, Dhammapada Aṭṭhakathā (DhA)
 
 .. created from 2016-03-08 12:00, 03.11, 
 
 --------------
 
-- `巴利《法句經》註解漢譯目錄 <{filename}dhA-content%zh.rst>`_
+- `巴利《法句經》註解摘譯目錄 <{filename}dhA-content%zh.rst>`_
 
 ---------------------------
 

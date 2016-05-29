@@ -1,16 +1,16 @@
 =================================================
-巴利《法句經》註解　漢譯　十九：法住品 (The Just)
+巴利《法句經》註解　摘譯　十九：法住品 (The Just)
 =================================================
 
 :date: 2016-05-27 17:00
 :modified: 2016-05-27 17:00
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Dhammaṭṭhavaggo, 法住品, The Just
 :category: 巴利三藏小部
-:summary: 巴利《法句經》註解　漢譯　十九：法住品 (The Just)
+:summary: 巴利《法句經》註解　摘譯　十九：法住品 (The Just)
 
 --------------
 
-- `巴利《法句經》註解漢譯目錄 <{filename}dhA-content%zh.rst>`_
+- `巴利《法句經》註解摘譯目錄 <{filename}dhA-content%zh.rst>`_
 
 ---------------------------
 
@@ -490,7 +490,6 @@
 .. [LChnFn19-16] 〔註19-16〕  原文vivicca-sayanena直譯「以獨臥」。 
 
 .. [LChnFn19-17] 〔註19-17〕  原文 vissasam apadi 是結合的句子，即等於 vissasamma apadi 直譯為「莫生信賴」。各英譯本多作「莫生滿足想」。 
-
 
 ---------------------------
 

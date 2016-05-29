@@ -1,17 +1,17 @@
-巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness)
+巴利《法句經》註解　摘譯　二、不放逸品 (Heedfulness)
 ####################################################
 
 :date: 2016-04-12 08:00
 :modified: 2016-04-16 21:50
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Appamādavaggo, 不放逸品, Heedfulness
 :category: 巴利三藏小部
-:summary: 巴利法句經註解, 不放逸品, Dhammapada Aṭṭhakathā (DhA)
+:summary: 巴利法句經註解, 摘譯, 不放逸品, Dhammapada Aṭṭhakathā (DhA)
 
 .. created from 2016-03-08 12:00
 
 --------------
 
-- `巴利《法句經》註解漢譯目錄 <{filename}dhA-content%zh.rst>`_
+- `巴利《法句經》註解摘譯目錄 <{filename}dhA-content%zh.rst>`_
 
 ---------------------------
 

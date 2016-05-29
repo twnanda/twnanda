@@ -1,16 +1,16 @@
 =============================================
-巴利《法句經》註解　漢譯　三：心品 (The Mind)
+巴利《法句經》註解　摘譯　三：心品 (The Mind)
 =============================================
 
 :date: 2016-05-23 17:00
 :modified: 2016-05-23 17:00
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Cittavaggo, 心品, The Mind
 :category: 巴利三藏小部
-:summary: 巴利法句經註解, 心品, Dhammapada Aṭṭhakathā (DhA)
+:summary: 巴利法句經註解, 摘譯, 心品, Dhammapada Aṭṭhakathā (DhA)
 
 --------------
 
-- `巴利《法句經》註解漢譯目錄 <{filename}dhA-content%zh.rst>`_
+- `巴利《法句經》註解摘譯目錄 <{filename}dhA-content%zh.rst>`_
 
 ---------------------------
 

@@ -1,16 +1,16 @@
 ===================================================
-巴利《法句經》註解　漢譯　二十五：比丘品 (The Monk)
+巴利《法句經》註解　摘譯　二十五：比丘品 (The Monk)
 ===================================================
 
 :date: 2016-05-28 21:00
 :modified: 2016-05-28 21:00
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Bhikkhuvaggo, 比丘品, The Monk
 :category: 巴利三藏小部
-:summary: 巴利《法句經》註解　漢譯　二十五：比丘品 (The Monk)
+:summary: 巴利《法句經》註解　摘譯　二十五：比丘品 (The Monk)
 
 --------------
 
-- `巴利《法句經》註解漢譯目錄 <{filename}dhA-content%zh.rst>`_
+- `巴利《法句經》註解摘譯目錄 <{filename}dhA-content%zh.rst>`_
 
 ---------------------------
 

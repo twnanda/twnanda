@@ -1,16 +1,16 @@
 =====================================================
-巴利《法句經》註解　漢譯　第十四：佛陀品 (The Buddha)
+巴利《法句經》註解　摘譯　第十四：佛陀品 (The Buddha)
 =====================================================
 
 :date: 2016-05-27 11:00
 :modified: 2016-05-27 11:00
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Buddhavaggo, 佛陀品, The Buddha
 :category: 巴利三藏小部
-:summary: 巴利《法句經》註解　漢譯　第十四：佛陀品 (The Buddha)
+:summary: 巴利《法句經》註解　摘譯　第十四：佛陀品 (The Buddha)
 
 --------------
 
-- `巴利《法句經》註解漢譯目錄 <{filename}dhA-content%zh.rst>`_
+- `巴利《法句經》註解摘譯目錄 <{filename}dhA-content%zh.rst>`_
 
 ---------------------------
 
