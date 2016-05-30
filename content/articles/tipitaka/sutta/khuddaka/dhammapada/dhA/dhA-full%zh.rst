@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2016-05-29 11:30
-:modified: 2016-05-29 11:30
+:modified: 2016-05-30 21:30
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Aṭṭhakathā
 :category: 巴利三藏小部
 :summary: 巴利法句經註解摘譯 整部 (The Full Text), Dhammapada Aṭṭhakathā (DhA)
@@ -621,14 +621,6 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS) [1]_
-     - | 6. Pare ca na vijānanti mayamettha yamāmase
-       | Ye ca tattha vijānanti tato sammanti medhagā.
-       | 
-       | [ 6 Pare'tra na vijānanti vayamatrodyamāmahe
-       |   Atra ye tu vijānanti teṣāṃ śāmyanti medhakā: 
-       |   (Mūlasarvāstivādivinaya. Kośāmbakavastu)]
-
    * - 巴利原典 (CSCD) [2]_
      - | 6. Pare  ca na vijānanti, mayamettha yamāmase;
        | Ye ca tattha vijānanti, tato sammanti medhagā.
@@ -1026,10 +1018,6 @@
    :widths: 15 75
    :header-rows: 0
    :class: contrast-reading-table
-
-   * - 巴利原典 (PTS) [1]_
-     - | 23. Te jhāyino sātatikā niccaṃ daḷhaparakkamā
-       | Phusanti dhīrā nibbāṇaṃ yogakkhemaṃ anuttaraṃ.
 
    * - 巴利原典 (CSCD) [2]_
      - | 23. Te jhāyino sātatikā, niccaṃ daḷhaparakkamā;
@@ -4251,7 +4239,7 @@
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - 一六六　莫以利他事，忽於己利益 [LChnFn12-06]_ 。善知己利者，常專心利益。
 
-**自己品第十二竟**
+       **自己品第十二竟**
 
    * - 註解 [4]_
      - 對在家人而言，首先，不會因為別人的目標，縱使值百千錢，而忽略自己的目標，縱使不值一分錢。因為那是自己的目標，僅值一分錢，卻可提供個人營養所需，但別人的目標卻不能。於此文中，是指禪修的主題，因此，由於我不可忽略我自己目前的觀念，不可放棄僧團所交託的工作，如維修殿堂的完好及對親教師的義務。因為，僅完成這些工作，才能證聖果，所以從這個意義而言，這些也是自己的目的。
@@ -9213,10 +9201,7 @@
 
    * - 巴利原典 (CSCD) [2]_
      - | 390. Na brāhmaṇassetadakiñci seyyo, yadā nisedho manaso piyehi;
-
-Yato yato hiṃsamano nivattati, tato tato sammatimeva dukkhaṃ.
-
-
+       | Yato yato hiṃsamano nivattati, tato tato sammatimeva dukkhaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - 三九０　婆羅門此非小益──若自喜樂制其心。隨時斷除於害心，是唯得止於苦痛。
@@ -9832,8 +9817,6 @@ Yato yato hiṃsamano nivattati, tato tato sammatimeva dukkhaṃ.
 --------------
 
 備註：
-
-.. [1] 〔註001〕　 `巴利原典 (PTS) Dhammapadapāḷi <Dhp-PTS.html>`__ 乃參考 `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `Dhp <http://www.accesstoinsight.org/tipitaka/kn/dhp/index.html>`__ → `{Dhp 1-20} <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.1>`__ ( `Dhp <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html>`__ ; `Dhp 21-32 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.21>`__ ; `Dhp 33-43 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.33>`__ , etc..）
 
 .. [2] 〔註002〕　 `巴利原典 (CSCD) Dhammapadapāḷi 乃參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版原始出處(original)請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Khuddakanikāya → Dhammapadapāḷi → `1. Yamakavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul0.xml>`__ (2. `Appamādavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul1.xml>`__ , 3. `Cittavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul2.xml>`__ , etc..)。]
 

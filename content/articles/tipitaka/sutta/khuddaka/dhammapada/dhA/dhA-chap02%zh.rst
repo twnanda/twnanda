@@ -115,10 +115,6 @@
    :header-rows: 0
    :class: contrast-reading-table
 
-   * - 巴利原典 (PTS) [1]_
-     - | 23. Te jhāyino sātatikā niccaṃ daḷhaparakkamā
-       | Phusanti dhīrā nibbāṇaṃ yogakkhemaṃ anuttaraṃ.
-
    * - 巴利原典 (CSCD) [2]_
      - | 23. Te jhāyino sātatikā, niccaṃ daḷhaparakkamā;
        | Phusanti dhīrā nibbānaṃ, yogakkhemaṃ anuttaraṃ.
@@ -359,8 +355,6 @@
 --------------
 
 備註：
-
-.. [1] 〔註001〕　 `巴利原典 (PTS) Dhammapadapāḷi <Dhp-PTS.html>`__ 乃參考 `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `Dhp <http://www.accesstoinsight.org/tipitaka/kn/dhp/index.html>`__ → `{Dhp 1-20} <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.1>`__ ( `Dhp <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html>`__ ; `Dhp 21-32 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.21>`__ ; `Dhp 33-43 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.33>`__ , etc..）
 
 .. [2] 〔註002〕　 `巴利原典 (CSCD) Dhammapadapāḷi 乃參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版原始出處(original)請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Khuddakanikāya → Dhammapadapāḷi → `1. Yamakavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul0.xml>`__ (2. `Appamādavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul1.xml>`__ , 3. `Cittavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul2.xml>`__ , etc..)。]
 

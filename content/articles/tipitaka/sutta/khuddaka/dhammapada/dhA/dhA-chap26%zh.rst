@@ -254,10 +254,7 @@
 
    * - 巴利原典 (CSCD) [2]_
      - | 390. Na brāhmaṇassetadakiñci seyyo, yadā nisedho manaso piyehi;
-
-Yato yato hiṃsamano nivattati, tato tato sammatimeva dukkhaṃ.
-
-
+       | Yato yato hiṃsamano nivattati, tato tato sammatimeva dukkhaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - 三九０　婆羅門此非小益──若自喜樂制其心。隨時斷除於害心，是唯得止於苦痛。
