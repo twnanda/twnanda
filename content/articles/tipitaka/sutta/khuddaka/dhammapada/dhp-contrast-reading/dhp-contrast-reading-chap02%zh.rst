@@ -1,26 +1,20 @@
-法句經 二、不放逸品 多譯本對讀(段層次) Dhammapada (Dhp.) 2. Appamādavaggo  (Dhp.21-32)
-===================================================================================================
+=========================================================================
+法句經 二、不放逸品 多譯本對讀(段層次) Dhammapada (Dhp.) 2. Appamādavaggo
+=========================================================================
 
 :date: 2016-02-11 11:30
-:modified: 2016-05-16 11:30
-:tags: 法句經對讀, Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Appamādavaggo, 不放逸品, Heedfulness
+:modified: 2016-05-30 15:00
+:tags: 法句經對讀, 不放逸品, Dhp, Dhammapada, Appamādavaggo, 
+       Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
+       法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Heedfulness
 :category: 巴利三藏小部
-:summary: 法句經對讀, Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 2. Appamādavaggo (Dhp.21-32), 二、不放逸品, Heedfulness
+:summary: 法句經 二、不放逸品 多譯本對讀(段層次), Dhp, Dhammapada, 
+          2. Appamādavaggo (Dhp.21-32), Parallel Reading (paragraph granularity) of 
+          The Buddha's Path of Wisdom, Heedfulness
 
 --------------
 
 - `《法句經》多譯本對讀目錄 <{filename}dhp-contrast-reading%zh.rst>`__
-
----------------------------
-
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。** …，…，…，
-    …，…，…， **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。** …，…，…，
-
-    …，…，…， **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語** …，…，…，
-
-    …，…，…， **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
-
-（節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
 
 -----------------------------
 
@@ -90,6 +84,14 @@
        2. 戒為甘露道，放逸為死徑，不貪則不死，失道為自喪。（出曜經：T04,636c） [TSFn02-02]_
 
        3. 法集要頌經：戒為甘露道，放逸為死徑，不貪則不死，失道乃自喪。（法集要頌經，T04, 779a） [TSFn02-03]_
+
+       | 4.增壹阿含經：無憍甘露跡，放逸是死徑，無慢則不死，慢者即是死T02, 563c
+       | 5.增壹阿含經：戒為甘露道，放逸為死徑，不貪則不死，失道為自喪T02, 699b
+       | 6.佛說大般泥洹經：若無放逸，是處不死，若其放逸，是為死徑。無放逸者，得不死處，若放逸者，常處生死T12, 889c
+       | 7.大般涅槃經：謹慎無放逸，是處名甘露，放逸不謹慎，是名為死句。若不放逸者，則得不死處，如其放逸者，常趣於死路T12, 415c
+       | 8.大般涅槃經：謹慎無放逸，是處名甘露，放逸不謹慎，是名為死句。若不放逸者，則得不死處，如其放逸者，常趣於死路T12, 656b
+       | 9.正法念處經：不放逸不死，放逸是死處，不放逸不死，放逸常生死。不放逸不死，放逸是死句，我以不放逸，今得天中勝T17, 146b
+       | 10.根本說一切有部毘奈耶雜事：若不放逸者，能得不死處，若作放逸人，終歸於死路T24, 274b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - Chapter 2 Heedfulness
@@ -488,6 +490,10 @@
        　 
        3. 迷醉如自禁，能去之為賢，已昇智慧堂，去危乃獲安。智者觀愚人，譬如山與地，當念捨憍慢，智者習明慧。（法集要頌經, T04, 779a）
 
+       | 4.佛說大般泥洹經：猶如明目住山頂，諦了其地愚夫等，如來道眼昇慧臺，無憂憂念群生類T12, 890a
+       | 5.大般涅槃經：精進勇健者，若處於山頂，平地及曠野，常見諸凡夫。昇大智慧殿，無上微妙臺，既自除憂患，亦見眾生憂T12, 415c
+       | 6.大般涅槃經：精進勇健者，若處於山頂，平地及曠野，常見諸凡夫。昇大智慧殿，無上微妙臺，既自除憂患，亦見眾生憂T12, 656c
+
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - HEEDLESSNESS SHOULD BE CONQUERED BY HEEDFULNESS
         28. When an understanding one discards heedlessness by heedfulness, he, free from sorrow, ascends to the palace of wisdom and surveys the sorrowing folk as a wise mountaineer surveys the ignorant groundlings. [NāradaFn02-10]_
@@ -550,6 +556,9 @@
        3. 不恣在放恣，於眠多覺寤，如羸馬比良，棄惡乃為賢。（出曜經, T04,711c）
 
        4. 不恣在放恣，於眠多覺悟，如羸馬比良，棄惡乃為賢。（法集要頌經, T04, 786c） [TSFn02-14]_
+
+       | 5.大毘婆沙論：不放逸放逸，多覺寤睡眠，如乘利鈍馬，勤行者先至T27, 482c
+       | 6.毘婆沙論：不放逸放逸，睡眠覺寤者，猶如利鈍馬，前發者先至T28, 355b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - THE STRENUOUS AND THE ALERT OVERTAKE THE THOUGHTLESS AND THE INDOLENT
@@ -674,6 +683,9 @@
        | 苾芻懷謹慎，放逸多憂愆，各各順次第，得盡諸結使。
        | 苾芻懷謹慎，放逸多憂愆，義解分別句，寂靜永安寧。
        | 苾芻懷謹慎，放逸多憂愆，煩惱若消除，能得涅槃樂。
+       | 
+
+       8.佛說犯戒罪報輕重經：比丘謹慎樂，放逸多憂譴，變諍小致大，積惡入火焚T24, 910c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - THE HEEDFUL ADVANCE
@@ -737,6 +749,9 @@
 
        3. 依此毘尼法，不懷放逸行，消除生死輪，永得盡苦惱。（法集要頌經, T04, 779c）
 
+       | 4.佛說犯戒罪報輕重經：持戒福致喜，破戒有懼心，永斷三界漏，爾乃得涅槃T24, 910c
+       | 5.本事經：常樂不放逸，見放逸生怖，諸見能永斷，速證般涅槃T17, 679a
+
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - THE HEEDFUL ARE IN THE PRESENCE OF NIBBâNA
         32. The Bhikkhu who delights in heedfulness, and looks with fear on heedlessness, is not liable to fall. [NāradaFn02-15]_ He is in the presence of Nibbàna.
@@ -777,7 +792,7 @@
 
        二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF <{filename}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{filename}/extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/pc-Dhammapada-f1.doc>`__
 
-.. [4] 〔註004〕　本譯文請參考： `白話文版 (pdf) <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__， **敬法 法師** 譯，第二修訂版 2015，`原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`__ ；　(`初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
+.. [4] 〔註004〕　本譯文請參考： `白話文版 <{filename}../dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__ ， **敬法 法師** 譯，第二修訂版 2015，`pdf <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__ ，`原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`__ ；　(`初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
 
 .. [5] 〔註005〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
 
@@ -1022,6 +1037,17 @@
 .. [ThaniSFn-V23] (Ven. Thanissaro V. 23) `AN 4.10 <http://www.accesstoinsight.org/tipitaka/an/an04/an04.010.than.html>`_ lists four yokes: the yoke of sensuality, the yoke of becoming, the yoke of views, and the yoke of ignorance. To gain rest from the first three yokes, one must discern, as it actually is present, the origination, the passing away, the allure, the drawbacks, and the escape from that yoke. One will then not be obsessed with passion, delight, attraction, infatuation, thirst, fever, fascination, craving with regard to that yoke. To gain rest from the yoke of ignorance, one must discern, as it actually is present, the origination, the passing away, the allure, the drawbacks, and the escape from the six sense media. One will then not be obsessed with not-knowing.
 
 ----------------------------
+
+**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。** …，…，…，
+    …，…，…， **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。** …，…，…，
+
+    …，…，…， **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語** …，…，…，
+
+    …，…，…， **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
+
+（節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
+
+---------------------------
 
 - `法句經首頁  <{filename}../dhp%zh.rst>`__
 

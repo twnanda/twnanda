@@ -2,33 +2,20 @@
 ###################################################################
 
 :date: 2016-02-05 12:00
-:modified: 2016-05-16 11:30
-:tags: 法句經對讀, Dhp, Dhammapada,
-       Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom,
-       法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi,
-       The Path of Dhamma, Yamakavaggo (Dhp.1-20),
-       雙品, The Pairs
+:modified: 2016-05-30 15:00
+:tags: 法句經對讀, 雙品, Dhp, Dhammapada, Yamakavaggo, 
+       Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
+       法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Pairs
 :category: 巴利三藏小部
-:summary: 法句經對讀, Dhp, Dhammapada,
-          Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom,
-          1. Yamakavaggo (Dhp.1-20) 一、雙品 (The Pairs)
+:summary: 法句經 一、雙品 多譯本對讀(段層次), Dhp, Dhammapada, 1. Yamakavaggo (Dhp.1-20)
+          Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 
+          The Pairs
 
 .. created from 2016-02-05 12:00
 
 --------------
 
 - `《法句經》多譯本對讀目錄 <{filename}dhp-contrast-reading%zh.rst>`__
-
----------------------------
-
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**  …，…，…，
-    …，…，…， **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。**  …，…，…，
-
-    …，…，…， **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語**  …，…，…，
-
-    …，…，…， **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
-
-（節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
 
 -------------------------------------
 
@@ -114,6 +101,16 @@
 
        4. 心為諸法本，心尊是心使，心若念惡行，即言即惡行，罪苦自追隨，車轢終于轍。（法集要頌經，T04, 795c） [TSFn01-04]_
 
+       | 5. 增壹阿含經：心為法本，心尊心使，心之念惡，即行即施，於彼受苦，輪轢于轍T02, 827b
+       | 6.央掘魔羅經：意法前行，意勝法生，意法淨信，若說若作，快樂自追，如影隨形T02, 540a
+       | 7.佛說自愛經：心為法本，心尊心使，中心念惡，即言即行，罪苦自追，車轢于轍T17, 549c
+       | 8.本事經：諸不善法生，為因能感苦，皆意為前導，與煩惱俱生。意為前導法，意尊意所使，由意有染污，故有說有行，苦隨此而生，如輪因手轉T17,664a
+       | 9.根本說一切有部毘奈耶藥事：意常為首，起業為最，心有所恨，速受其報，苦來逼身，輪斷其頭T24, 35b
+       | 10.大毘婆沙論：諸法意前行，意尊意所引，意染淨言作，苦樂如影隨T27,371b
+       | 11.阿毘曇毘婆沙論：意為前導，意尊意駛，意若念惡，即言即行，罪惡報應，如影隨形T28, 281b
+       | 12.鞞婆沙論：意法在前，意妙意疾，意為念惡，若說若作，罪苦自隨，輪道轢殺T28, 428a
+       | 13.舍利弗阿毘曇論：心為法本，心尊心使，中心念惡，即言即行，罪苦自追，車轢於轍T28, 628b
+
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - Chapter 1 The Twin Verses (Yamaka [NāradaFn01-01]_  Vagga)
         EVIL BEGETS EVIL
@@ -183,6 +180,16 @@
 
        4. 心為諸法本，心尊是心使，心若念善行，即言即善行，福慶自追隨，如影隨其形。（法集要頌經, T04, 795c） [TSFn01-08]_
 
+       | 5.增壹阿含經：心為法本，心尊心使，中心念善，即行即為，受其善報，如影隨形T02, 827b
+       | 6.央掘魔羅經：意法前行，意勝意生，意法為惡，若說若作，眾苦自追，如輪隨跡T02, 540a
+       | 7.佛說自愛經：心為法本，心尊心使，中心念善，即言即行，福樂自追，如影隨形T17, 549c
+       | 8.本事經：諸淨善法生，為因能感樂，皆意為前導，與善法俱生。意為前導法，意尊意所使，由意有清淨，故有說有行，樂隨此而生，如影隨形轉T17,664a
+       | 9.根本說一切有部毘奈耶藥事：意常為首，起業為最，心意清淨，即受善報T24, 35b
+       | 10.阿毘曇毘婆沙論：心為前導，心尊心使，中心念善，亦言亦行，安樂自追，如影隨形T28, 15c
+       | 11.鞞婆沙論：意法在前，意妙意疾，意為念善，若說若作，福樂自隨，影逐其形T28, 428a
+       | 12.舍利弗阿毘曇論：心為法本，心尊心使，中心念善，即言即行，福樂自追，如影隨形T28, 628c
+       | 13.根本說一切有部毘奈耶：諸法心為首，心勝心速疾，由心清淨故，讚歎并身禮，當受勝妙樂，如影鎮隨形T23, 751b
+
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - GOOD BEGETS GOOD
         2. Mind is the forerunner of (all good) states. Mind is chief; mind-made are they. If one speaks or acts with pure mind, because of that, happiness follows one, even as one's shadow that never leaves. [NāradaFn01-03]_
@@ -239,6 +246,12 @@
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 人若罵我，勝我不勝，快意從者，怨終不息。（出曜經, T04, 696c） [TSFn01-09]_
+
+       | 2.法集要頌經：若人致毀罵，彼勝我不勝，快樂從意者，怨終得休息T04,784b
+       | 3.法句經：隨亂意行，拘愚入冥，自大無法，何解善言T04, 562a
+       | 4.中阿含經：若不思真義，怨結焉得息，罵詈責數說，而能制和合T01,535b
+       | 5.彌沙塞部和醯五分律：汝等相罵辱，執而不捨者，怨禍無由息，日夜增根栽。T22, 160a
+       | 6.四分律：汝曹可無有，種種罵詈者，其有如是者，彼怨終不除T22,882b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - RETALIATION DOES NOT LEAD TO PEACE
@@ -297,6 +310,10 @@
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 若人致毀罵，彼勝我不勝，快樂從意者，怨終得休息。（法集要頌經, T04,784b） [TSFn01-10]_
+
+       | 2.中阿含經：若思真實義，怨結必得息，T01, 535c
+       | 3.五分律：種種惡聲罵，若能不加報，此忍不致怨，有怨自然除T22, 160a
+       | 4.四分律：種種惡罵詈，終不還加報，其能忍默者，彼怨自得除T22, 882b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - 4. "He abused me, he beat me, he defeated me, he robbed me", in those who do not harbour such thoughts hatred is appeased. [NāradaFn01-04]_
@@ -358,6 +375,12 @@
 
        3. 不可怨以怨，終已得快樂，行忍怨自息，此名如來法。（法集要頌經, T4,784b） [TSFn01-13]_
 
+       | 3.五分律：若以怨除怨，怨終不可息，不念怨自除，是則最勇健T22, 160a
+       | 4.四分律：以怨除怨仇，怨仇終不除，無怨怨自息，其法勇健樂T22, 882b
+       | 5.中阿含經：若以諍止諍，至竟不見止，唯忍能止諍，是法可尊貴T01,535c
+       | 6.增壹阿含經：怨怨不休息，自古有此法，無怨能勝怨，此法終不朽T02,627b
+       | 7.菩薩本緣經：非以怨心，能息怨憎，唯以忍辱，然後乃滅T03, 69a
+
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - ANGER IS CONQUERED BY LOVE
         5. Hatreds never cease through hatred in this world; through love [NāradaFn01-05]_ alone they cease. This is an eternal law. [NāradaFn01-06]_
@@ -416,6 +439,8 @@
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 不好責彼，務自省身，如有知此，永滅無患。（法句經, T04, 562a） [TSFn01-14]_
+
+       2. 中阿含經：他人不解義，唯我獨能知，若有能解義，彼恚便得息T01,535c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - QUARRELS CEASE THROUGH RIGHT THINKING
@@ -593,6 +618,10 @@
 
        3. 無塵離於塵，能持此服者，無御無所至，此不應法服。（法集要頌經, T04,793a） [TSFn01-23]_
 
+       | 4.五分律：此衣無欲衣，不施有欲者，不能調其意，不任此袈裟T22, 68c
+       | 5.四分律：雖有袈裟服，壞抱於結使，不能除怨害，彼不應袈裟T22, 882c
+       | 6.摩訶僧祇律：內不離癡服，外託被袈裟，心常懷毒害，袈裟非所應T22,241a
+
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - THE PURE ARE WORTHY OF THE YELLOW ROBE BUT NOT THE IMPURE
         9. Whoever, unstainless, without self control and truthfulness, should don the yellow robe, [NāradaFn01-15]_ is not worthy of it. 
@@ -648,6 +677,10 @@
        2. 若能除垢穢，修戒等慧定，彼應思惟業，此應服袈裟。（出曜經, T04, 748b） [TSFn01-25]_
 
        3. 若能除垢穢，修戒等慧定，彼應思惟業，此應服袈裟。（法集要頌經, T04,793a） [TSFn01-26]_
+
+       | 4.五分律：已能離貪欲，於戒常一心，如是調心者，乃應此衣服T22, 68c
+       | 5.四分律：結使已除滅，持戒自莊嚴，調伏於怨仇，彼則應袈裟T22, 882c
+       | 6.摩訶僧祇律：三昧寂無想，永滅煩惱患，內心常寂滅，袈裟應其服T22,241a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - 10. He who is purged of all stain, is well-established in morals and endowed with self-control and truthfulness, is indeed worthy of the yellow robe.
@@ -708,6 +741,8 @@
        
        4. 不堅起堅想，堅起不堅想，後不至於堅，由起邪見故。（法集要頌經, T04,793a） [TSFn01-30]_
 
+       5.四分律：無堅說堅牢，堅牢不見堅，彼不解堅牢，墮邪憶念中T22,882c
+
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - RIGHT PERCEPTION LEADS TO THE REALIZATION OF THE TRUTH
         11. In the unessential they imagine the essential [NāradaFn01-16]_ , in the essential they see the unessential - they who entertain (such) wrong thoughts [NāradaFn01-17]_ never realize the essence. 
@@ -765,6 +800,8 @@
 
        4. 堅而知堅者，不堅知不堅，被人求於堅，正治以為本。（法集要頌經, T04,793a） [TSFn01-34]_
 
+       5. 四分律：堅牢知堅牢，不堅知不堅，彼解堅牢法，入於正念中T22,882c
+
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - 12. What is essential they regard as essential, what is unessential they regard as unessential - they who entertain (such) right thoughts [NāradaFn01-18]_ realize the essence.
 
@@ -820,6 +857,8 @@
        3. 蓋屋不密，天雨則漏，人不惟行，漏婬怒癡。（出曜經, T04, 759c） [TSFn01-37]_
 
        4. 蓋屋若不密，天雨則常漏，人不思惟行，恒歷婬怒癡。（法集要頌經, T04,795b） [TSFn01-38]_
+
+       5. 增壹阿含經：蓋屋不密，天雨則漏，人不惟行，漏婬怒癡T02, 591c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - LUST PIERCES THE HEARTS OF THE UNDEVELOPED BUT NOT THOSE OF THE DEVELOPED
@@ -877,6 +916,8 @@
        
        4. 蓋屋若不密，天雨則常漏，人自思惟行，永無婬怒癡。（法集要頌經, T04,795b） [TSFn01-42]_
 
+       5. 增壹阿含經：蓋屋善密，天雨不漏，人能惟行，無婬怒癡T02, 591c
+
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - 14. Even as rain does not penetrate a well-thatched house, so does lust not penetrate a well-developed [NāradaFn01-19]_ mind. 
 
@@ -933,6 +974,9 @@
        3. 此憂彼亦憂，惡行二俱憂，彼憂彼受報，見行乃知審。（出曜經, T04, 746b） [TSFn01-45]_
        
        4. 此憂彼亦憂，惡行二俱憂，彼憂彼受報，見行乃審知。（法集要頌經, T04,792c） [TSFn01-46]_
+
+       | 5.增壹阿含經：此憂彼亦憂，為惡二處憂，為惡後受報，皆由現報故T02,692b
+       | 6.根本說一切有部毘奈耶雜事：今生若苦來生苦，由其作罪二俱苦，自知此苦由惡業，更復受苦於餘趣T24, 244a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - EVIL-DOERS SUFFER HERE AND HEREAFTER
@@ -992,6 +1036,8 @@
        
        4. 此喜彼亦喜，福行二俱喜，彼行彼受報，見行自清淨。（法集要頌經, T04,792c） [TSFn01-50]_
 
+       5. 三彌底部論：生世樂歡喜，異世樂欣然，作福二處歡，自見其業淨。此世業報竟，來世復應受，陰壞隨業往，更受異陰身T32, 463b
+
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - HAPPY ARE THE WELL-DOERS HERE AND HEREAFTER
         16. Here he rejoices, [NāradaFn01-22]_ hereafter he rejoices. [NāradaFn01-23] In both states the well-doer rejoices. He rejoices, exceedingly rejoices, perceiving the purity of his own deeds. [NāradaFn01-24]
@@ -1049,6 +1095,8 @@
        3. 此煮彼亦煮，罪行二俱煮，彼煮彼受罪，見行自有驗。（出曜經, T04,747a） [TSFn01-53]_
        
        4. 此煮彼亦煮，罪行二俱煮，彼煮彼受報，見行自有驗。（法集要頌經, T04,792c） [TSFn01-54]_
+
+       5. 根本說一切有部毘奈耶雜事：今生若燒來世燒，由其作罪二俱燒，自知此燒由惡業，更復轉生於惡趣T24, 244a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - THE EVIL-DOER LAMENTS HERE AND HEREAFTER
@@ -1176,6 +1224,8 @@
        
        3. 雖誦習多義，放逸不從正，如牧數他牛，難獲沙門果。（法集要頌經, T04,779b） [TSFn01-59]_
 
+       4. 增壹阿含經：多誦無益事，此法非為妙，猶算牛頭數，非此沙門要T02,673b
+
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - LEARNING WITHOUT PRACTICE IS OF NO WORTH
         19. Though much he recites the Sacred Texts, [NāradaFn01-26]_ but acts not accordingly, that heedless man is like a cowherd who counts others' kine. He has no share in the fruits [NāradaFn01-27]_ of the Holy Life. [NāradaFn01-28]_ 
@@ -1243,6 +1293,9 @@
        
        | 3. a. 所謂持法者，不必多誦習，若少有所聞，具足法身行。（法集要頌經, T04,779b11）
        | 　 b. 若聞惡而忍，說行人讚嘆，消除貪瞋癡，彼獲沙門性。（法集要頌經, T04,779b15） [TSFn01-62]_
+       | 
+
+       4. 增壹阿含經：若少多誦習，於法而行法，此法極為上，可謂沙門法T02,673b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - 20. Though little he recites the Sacred Texts, but acts in  accordance with the teaching, forsaking lust, hatred and ignorance, truly knowing, with mind well freed, clinging to naught here and hereafter, he shares the fruits of the Holy Life.
@@ -1291,7 +1344,7 @@
 
        二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF <{filename}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{filename}/extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/pc-Dhammapada-f1.doc>`__
 
-.. [4] 〔註004〕　本譯文請參考： `白話文版 (pdf) <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__， **敬法 法師** 譯，第二修訂版 2015，`原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`__ ；　(`初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
+.. [4] 〔註004〕　本譯文請參考： `白話文版 <{filename}../dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__ ， **敬法 法師** 譯，第二修訂版 2015，`pdf <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__ ，`原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`__ ；　(`初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
 
 .. [5] 〔註005〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
 
@@ -1739,6 +1792,17 @@
 .. [ThaniSFn-V17-18]  (Ven. Thanissaro V. 17-18) "Destination" in these two verses and throughout the text means one's destination after death.
 
 .. [VaradoFn01-1]  (Ven. Varado 01-1) Verse 6: "man should live restrained" (yamāmase). PED (yamati): "to control oneself".
+
+---------------------------
+
+**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**  …，…，…，
+    …，…，…， **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。**  …，…，…，
+
+    …，…，…， **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語**  …，…，…，
+
+    …，…，…， **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
+
+（節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
 
 ---------------------------
 
