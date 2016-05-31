@@ -2,7 +2,7 @@
 ############################################
 
 :date: 2016-02-28 17:30
-:modified: 2016-05-16 11:30
+:modified: 2016-05-31 11:30
 :tags: 法句經對讀, Dhp, Dhammapada, Dhammapadapāḷi, 法集要頌, 法句譬喻經, 出曜經, , Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, The Path of Dhamma 
 :category: 巴利三藏小部
 :summary: 法句經多譯本對讀(段層次), Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom
@@ -41,7 +41,7 @@
 
    * - `1. Yamakavaggo (Dhp.1-20) <{filename}dhp-contrast-reading-chap01%zh.rst>`__
      - `2. Appamādavaggo (Dhp.21-32) <{filename}dhp-contrast-reading-chap02%zh.rst>`__
-     - `3. Cittavaggo (Dhp.33-43) <{filename}../dhp-chap03%zh.rst>`__
+     - `3. Cittavaggo (Dhp.33-43) <{filename}dhp-contrast-reading-chap03%zh.rst>`__
      - `4. Pupphavaggo (Dhp.44-59) <{filename}../dhp-chap04%zh.rst>`__
      - `5. Bālavaggo (Dhp.60-75) <{filename}../dhp-chap05%zh.rst>`__
      - `6. Paṇḍitavaggo (Dhp.76-89) <{filename}../dhp-chap06%zh.rst>`__
