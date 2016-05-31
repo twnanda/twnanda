@@ -33,6 +33,13 @@
 
 {% block content %}
 <main role="main" class="{{ content_css_class }}">
+  {%- if 'content/articles/tipitaka/' in content.source_path or 'content/articles/anya/' in content.source_path -%}
+    <div class="align-center">
+      <p><strong>namo tassa bhagavato arahato sammāsambuddhassa</strong></p>
+      <p><strong>皈敬世尊、阿羅漢、正等正覺者</strong></p>
+    </div>
+    <hr>
+  {%- endif -%}
   <article>
   {%- if content.title -%}
     <header>
@@ -67,6 +74,16 @@
     {% if GOOGLE_CSE %}<gcse:search></gcse:search>{% endif %}
     <div class="main-content">{{ content.content }}</div>
     <footer>{% block article_metadata %}{% endblock %}</footer>
+  {%- if 'content/articles/tipitaka/' in content.source_path or 'content/articles/anya/' in content.source_path -%}
+    <hr>
+    <div>
+      <p>巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。 …，…，…，</p>
+      <p>…，…，…， 這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。 …，…，…，</p>
+      <p>…，…，…， 巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語 …，…，…，</p>
+      <p>…，…，…， 重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。</p>
+      <p>（節錄自： <a href="http://nanda.online-dhamma.net/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html">巴利系佛教史綱　第六章　聖典　二　摘錄 ）</a></p>
+    </div>
+  {%- endif -%}
   </article>
 </main>
 {% endblock %}
