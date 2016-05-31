@@ -3,7 +3,7 @@
 ==================================================================
 
 :date: 2016-05-29 18:30
-:modified: 2016-05-31 16:00
+:modified: 2016-05-31 16:30
 :tags: 法句經對讀, 心品, Dhp, Dhammapada, Cittavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Mind
@@ -327,7 +327,7 @@
        |   the mind.
        | Those who restrain it:
        |   from Mara's bonds
-       |   they'll be freed.
+       |   they'll be freed. [ThaniSFn-V37]_
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **37** How far the mind roams!
@@ -438,7 +438,7 @@
        | abandoning merit & evil,
        |   wakeful,
        | there is no danger
-       |      no fear.
+       |      no fear. [ThaniSFn-V39]_
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **39** For one whose mind is not flooded by lust, and not plagued by doubt; for one who has given up both merit and evil; for him, watchful and vigilant, there are no fears.
@@ -497,7 +497,7 @@
        |   with the spear of discernment,
        | then guard what's won
        |   without settling there,
-       |   without laying claim.
+       |   without laying claim. [ThaniSFn-V40]_
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **40** Having realised this body’s like a pitcher - it’s as breakable - 
@@ -607,7 +607,7 @@
        | or a foe to a foe,
        | the ill-directed mind
        | can do to you
-       |   even worse.
+       |   even worse. [ThaniSFn-V42]_
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **42** Whatever aggressors might do to aggressors,
