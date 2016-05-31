@@ -19,7 +19,7 @@ Abhidhammatthasaṅgaho 阿毗達摩概要精解
 
   (`PDF-- Sep. 2010 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Abhidhammattha-Sangaha/Ven-Bodhi-2-Dhammagavesaka/Ven-Bodhi-2-Dhammagavesaka-Rev-2010-09.pdf>`__)
 
-- `攝阿毗達摩義論 中譯者：葉均(早年出家法號：了參) <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Abhidhammattha-Sangaha/Ven-Liau-Chan/content-liau-chan.htm>`_
+- `攝阿毗達摩義論 中譯者：葉均(早年出家法號：了參) <{filename}/extra/authors/yehchun/abhidhammattha-sangaha/content-liau-chan.htm>`_
 
 ----
 
