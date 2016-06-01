@@ -9,10 +9,6 @@
 
 --------------
 
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。** （節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
-
---------------
-
 - `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Dhammapadapāḷi
 
   * PTS: Dhammapadapāḷi-- { `Dhp 1-20 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.1>`__ } ( `Dhp <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html>`__ ; `Dhp 21-32 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.21>`__ ; `Dhp 33-43 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.33>`__ , etc..） [1]_
