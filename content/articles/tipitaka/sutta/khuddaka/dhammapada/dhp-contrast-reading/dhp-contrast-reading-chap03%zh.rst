@@ -3,7 +3,7 @@
 ==================================================================
 
 :date: 2016-05-29 18:30
-:modified: 2016-05-31 16:30
+:modified: 2016-05-31 21:30
 :tags: 法句經對讀, 心品, Dhp, Dhammapada, Cittavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Mind
@@ -111,7 +111,7 @@
         33 As a fletcher makes straight his arrow, a wise man makes straight his trembling and unsteady thought, which is difficult to guard, difficult to hold back. 
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　三、心品 (Cittavaggo) Dhp. 033 <{filename}../dhA/dhA-chap02%zh.rst#dhp033>`__
+     - 請參考 `巴利《法句經》註解　摘譯　三、心品 (Cittavaggo) Dhp. 033 <{filename}../dhA/dhA-chap03%zh.rst#dhp033>`__
 
 .. _Dhp034:
 
@@ -162,7 +162,7 @@
      - 34 As a fish taken from his watery home and thrown on dry ground, our thought trembles all over in order to escape the dominion of Mara (the tempter).
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　三、心品 (Cittavaggo) Dhp. 034 <{filename}../dhA/dhA-chap02%zh.rst#dhp034>`__
+     - 請參考 `巴利《法句經》註解　摘譯　三、心品 (Cittavaggo) Dhp. 034 <{filename}../dhA/dhA-chap03%zh.rst#dhp034>`__
 
 .. _Dhp035:
 
@@ -219,7 +219,7 @@
      - 35 It is good to tame the mind, which is difficult to hold in and flighty, rushing wherever it listeth; a tamed mind brings happiness. 
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　三、心品 (Cittavaggo) Dhp. 035 <{filename}../dhA/dhA-chap02%zh.rst#dhp035>`__
+     - 請參考 `巴利《法句經》註解　摘譯　三、心品 (Cittavaggo) Dhp. 035 <{filename}../dhA/dhA-chap03%zh.rst#dhp035>`__
 
 .. _Dhp036:
 
@@ -270,7 +270,7 @@
      - 36 Let the wise man guard his thoughts, for they are difficult to perceive, very artful, and they rush wherever they list: thoughts well guarded bring happiness.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　三、心品 (Cittavaggo) Dhp. 036 <{filename}../dhA/dhA-chap02%zh.rst#dhp036>`__
+     - 請參考 `巴利《法句經》註解　摘譯　三、心品 (Cittavaggo) Dhp. 036 <{filename}../dhA/dhA-chap03%zh.rst#dhp036>`__
 
 .. _Dhp037:
 
@@ -341,7 +341,7 @@
      - 37 Those who bridle their mind which travels far, moves about alone, is without a body, and hides in the chamber (of the heart), will be free from the bonds of Mara (the tempter).
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　三、心品 (Cittavaggo) Dhp. 037 <{filename}../dhA/dhA-chap02%zh.rst#dhp037>`__
+     - 請參考 `巴利《法句經》註解　摘譯　三、心品 (Cittavaggo) Dhp. 037 <{filename}../dhA/dhA-chap03%zh.rst#dhp037>`__
 
 .. _Dhp038:
 
@@ -396,7 +396,7 @@
      - 38 If a man's thoughts are unsteady, if he does not know the true law, if his peace of mind is troubled, his knowledge will never be perfect.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　三、心品 (Cittavaggo) Dhp. 038 <{filename}../dhA/dhA-chap02%zh.rst#dhp038>`__
+     - 請參考 `巴利《法句經》註解　摘譯　三、心品 (Cittavaggo) Dhp. 038 <{filename}../dhA/dhA-chap03%zh.rst#dhp038>`__
 
 .. _Dhp039:
 
@@ -447,7 +447,7 @@
      - 39 If a man's thoughts are not dissipated, if his mind is not perplexed, if he has ceased to think of good or evil, then there is no fear for him while he is watchful.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　三、心品 (Cittavaggo) Dhp. 039 <{filename}../dhA/dhA-chap02%zh.rst#dhp039>`__
+     - 請參考 `巴利《法句經》註解　摘譯　三、心品 (Cittavaggo) Dhp. 039 <{filename}../dhA/dhA-chap03%zh.rst#dhp039>`__
 
 .. _Dhp040:
 
@@ -509,7 +509,7 @@
      - 40 Knowing that this body is (fragile) like a jar, and making this thought firm like a fortress, one should attack Mara (the tempter) with the weapon of knowledge, one should watch him when conquered, and should never rest.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　三、心品 (Cittavaggo) Dhp. 040 <{filename}../dhA/dhA-chap02%zh.rst#dhp040>`__
+     - 請參考 `巴利《法句經》註解　摘譯　三、心品 (Cittavaggo) Dhp. 040 <{filename}../dhA/dhA-chap03%zh.rst#dhp040>`__
 
 .. _Dhp041:
 
@@ -565,7 +565,7 @@
      - 41 Before long, alas! this body will lie on the earth, despised, without understanding, like a useless log.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　三、心品 (Cittavaggo) Dhp. 041 <{filename}../dhA/dhA-chap02%zh.rst#dhp041>`__
+     - 請參考 `巴利《法句經》註解　摘譯　三、心品 (Cittavaggo) Dhp. 041 <{filename}../dhA/dhA-chap03%zh.rst#dhp041>`__
 
 .. _Dhp042:
 
@@ -619,7 +619,7 @@
      - 42 Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly-directed mind will do us greater mischief.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　三、心品 (Cittavaggo) Dhp. 042 <{filename}../dhA/dhA-chap02%zh.rst#dhp042>`__
+     - 請參考 `巴利《法句經》註解　摘譯　三、心品 (Cittavaggo) Dhp. 042 <{filename}../dhA/dhA-chap03%zh.rst#dhp042>`__
 
 .. _Dhp043:
 
@@ -681,7 +681,7 @@
      - 43 Not a mother, not a father will do so much, nor any other relative; a well-directed mind will do us greater service.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　三、心品 (Cittavaggo) Dhp. 043 <{filename}../dhA/dhA-chap02%zh.rst#dhp043>`__
+     - 請參考 `巴利《法句經》註解　摘譯　三、心品 (Cittavaggo) Dhp. 043 <{filename}../dhA/dhA-chap03%zh.rst#dhp043>`__
 
 --------------
 
@@ -799,17 +799,6 @@
 .. [ThaniSFn-V40] (Ven. Thanissaro V. 40) "Without settling there, without laying claim": two meanings of the word anivesano.
 
 .. [ThaniSFn-V42] (Ven. Thanissaro V. 42) `AN 7.60 <http://www.accesstoinsight.org/tipitaka/an/an07/an07.060.than.html>`__ illustrates this point with seven ways that a person harms him/herself when angry, bringing on results that an enemy would wish: He/she becomes ugly, sleeps badly, mistakes profit for loss and loss for profit, loses wealth, loses his/her reputation, loses friends, and acts in such a way that — after death — he/she reappears in a bad rebirth.
-
----------------------------
-
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。** …，…，…，
-    …，…，…， **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。** …，…，…，
-
-    …，…，…， **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語** …，…，…，
-
-    …，…，…， **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
-
-（節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
 
 -------------
 

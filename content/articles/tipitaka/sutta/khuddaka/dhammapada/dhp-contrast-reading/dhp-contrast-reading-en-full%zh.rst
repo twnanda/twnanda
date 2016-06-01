@@ -1,28 +1,17 @@
-Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.) Chapter  .      ;  .    vaggo  (Dhp.   -   )
-#########################################################################################################################################
+Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
+###########################################################################################
 
 :date: 2016-04-12 15:15
 :modified: 2016-04-19 15:00
-:tags: Dhp, Dhammapada, Dhammapadapāḷi, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma, Pairs 
+:tags: Dhp, Dhammapada, Dhammapadapāḷi, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
-:summary: Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.), Chapter  .      
+:summary: Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
 
 --------------
 
 - `Content of Contrast-reading of Dhammapada <{filename}dhp-contrast-reading-en%zh.rst>`__
 
 ---------------------------
-
-**the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
-    …，…，…， **there is another cause for this tedious peculiarity, namely that for a long period the Pitakas were handed down by oral tradition only.** …，…，…，
-
-    …，…，…， **It may be too that the wearisome and mechanical iteration of the Pali Canon is partly due to the desire of the Sinhalese to lose nothing of the sacred word imparted to them by missionaries from a foreign country**, …，…，…，
-
-    …，…，…， **repetition characterized not only the reports of the discourses but the discourses themselves. No doubt the versions which we have are the result of compressing a free discourse into numbered paragraphs and repetitions: the living word of the Buddha was surely more vivacious and plastic than these stiff tabulations.**
-
-（excerpt from: HINDUISM AND BUDDHISM-- AN HISTORICAL SKETCH, BY SIR CHARLES ELIOT; BOOK III-- PALI BUDDHISM, CHAPTER XIII, `THE CANON <http://www.gutenberg.org/files/15255/15255-h/15255-h.htm#page275>`__ , 2)
-
------------------------------
 
 - | list-table:: content of gatha
   | widths: 9 9 9 9 9 9 9 9 9 9 
@@ -98,7 +87,18 @@ Below is Simply for Template
      - Chapter I: The Twin-Verses
         1 All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with an evil thought, pain follows him, as the wheel follows the foot of the ox that draws the carriage.
 
-------------------------------------------
+-----------------------------------------
+
+**the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
+    …，…，…， **there is another cause for this tedious peculiarity, namely that for a long period the Pitakas were handed down by oral tradition only.** …，…，…，
+
+    …，…，…， **It may be too that the wearisome and mechanical iteration of the Pali Canon is partly due to the desire of the Sinhalese to lose nothing of the sacred word imparted to them by missionaries from a foreign country**, …，…，…，
+
+    …，…，…， **repetition characterized not only the reports of the discourses but the discourses themselves. No doubt the versions which we have are the result of compressing a free discourse into numbered paragraphs and repetitions: the living word of the Buddha was surely more vivacious and plastic than these stiff tabulations.**
+
+（excerpt from: HINDUISM AND BUDDHISM-- AN HISTORICAL SKETCH, BY SIR CHARLES ELIOT; BOOK III-- PALI BUDDHISM, CHAPTER XIII, `THE CANON <http://www.gutenberg.org/files/15255/15255-h/15255-h.htm#page275>`__ , 2)
+
+-------
 
 NOTE：
 

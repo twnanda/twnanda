@@ -7,10 +7,6 @@
 :category: 巴利三藏小部
 :summary: 法句經, Dhammapada, 敬法比丘, 白話文版
 
---------------
-
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。** （節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 目錄

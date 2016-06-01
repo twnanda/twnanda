@@ -11,17 +11,6 @@ Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhamma
 
 - `Content of Contrast-reading of Dhammapada <{filename}dhp-contrast-reading-en%zh.rst>`__
 
----------------------------
-
-**the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
-    …，…，…， **there is another cause for this tedious peculiarity, namely that for a long period the Pitakas were handed down by oral tradition only.** …，…，…，
-
-    …，…，…， **It may be too that the wearisome and mechanical iteration of the Pali Canon is partly due to the desire of the Sinhalese to lose nothing of the sacred word imparted to them by missionaries from a foreign country**, …，…，…，
-
-    …，…，…， **repetition characterized not only the reports of the discourses but the discourses themselves. No doubt the versions which we have are the result of compressing a free discourse into numbered paragraphs and repetitions: the living word of the Buddha was surely more vivacious and plastic than these stiff tabulations.**
-
-（excerpt from: HINDUISM AND BUDDHISM-- AN HISTORICAL SKETCH, BY SIR CHARLES ELIOT; BOOK III-- PALI BUDDHISM, CHAPTER XIII, `THE CANON <http://www.gutenberg.org/files/15255/15255-h/15255-h.htm#page275>`__ , 2)
-
 -----------------------------
 
 .. list-table:: content of gatha
@@ -534,7 +523,18 @@ Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhamma
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 32 A Bhikshu (mendicant) who delights in reflection, who looks with fear on thoughtlessness, cannot fall away (from his perfect state)--he is close upon Nirvana.
 
-------------------------------------------
+---------------------------
+
+**the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
+    …，…，…， **there is another cause for this tedious peculiarity, namely that for a long period the Pitakas were handed down by oral tradition only.** …，…，…，
+
+    …，…，…， **It may be too that the wearisome and mechanical iteration of the Pali Canon is partly due to the desire of the Sinhalese to lose nothing of the sacred word imparted to them by missionaries from a foreign country**, …，…，…，
+
+    …，…，…， **repetition characterized not only the reports of the discourses but the discourses themselves. No doubt the versions which we have are the result of compressing a free discourse into numbered paragraphs and repetitions: the living word of the Buddha was surely more vivacious and plastic than these stiff tabulations.**
+
+（excerpt from: HINDUISM AND BUDDHISM-- AN HISTORICAL SKETCH, BY SIR CHARLES ELIOT; BOOK III-- PALI BUDDHISM, CHAPTER XIII, `THE CANON <http://www.gutenberg.org/files/15255/15255-h/15255-h.htm#page275>`__ , 2)
+
+------
 
 NOTE：
 

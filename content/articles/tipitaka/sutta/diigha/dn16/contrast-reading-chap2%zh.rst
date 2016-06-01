@@ -59,10 +59,6 @@
 
 --------------
 
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**\ （節錄自：\ `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__\ ）
-
---------------
-
 .. raw:: html 
 
   本對讀包含下列數個版本，請自行勾選欲對讀之版本
@@ -1153,17 +1149,6 @@
        34. "When he dwells contemplating the body in the body, earnestly, clearly comprehending, and mindfully, after having overcome desire and sorrow in regard to the world; when he dwells contemplating feelings in feelings, the mind in the mind, and mental objects in mental objects, earnestly, clearly comprehending, and mindfully, after having overcome desire and sorrow in regard to the world, then, truly, he is an island unto himself, a refuge unto himself, seeking no external refuge; having the Dhamma as his island, the Dhamma as his refuge, seeking no other refuge.
 
        35. "Those bhikkhus of mine, Ananda, who now or after I am gone, abide as an island unto themselves, as a refuge unto themselves, seeking no other refuge; having the Dhamma as their island and refuge, seeking no other refuge: it is they who will become the highest,\ [VFn20]_ \ if they have the desire to learn."
-
-----------------------------
-
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**\ …，…，…，
-    …，…，…，\ **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。**\ …，…，…，
-
-    …，…，…，\ **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語**\ …，…，…，
-
-    …，…，…，\ **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
-
-（節錄自：\ `巴利系佛教史綱　第六章　聖典　二　摘錄 <../../../lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__\ ）
 
 --------------
 

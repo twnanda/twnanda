@@ -11,16 +11,6 @@
 
 ------------
 
-**Namo tassa bhagavato arahato sammāsambuddhassa**
-
-**禮敬世尊、阿羅漢、正等正覺者**
-
-------------
-
-巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。（節錄自：`巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
-
-------------
-
 - `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāparinibbānasuttaṃ
 
   * PTS: mahāparinibbānasuttaṃ  [original: 原始出處請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__: → `DN <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → DN 16: Maha-parinibbana Sutta → `D ii 137 <http://www.accesstoinsight.org/tipitaka/sltp/DN_II_utf8.html#pts.072>`__; (Page 072）]
@@ -121,17 +111,6 @@
 - `Mahaparinibbana Sutta <http://en.wikipedia.org/wiki/Mahaparinibbana_Sutta>`__ , `Wikipedia <http://en.wikipedia.org/>`__ , the free encyclopedia
 
 - `大般涅槃経 (上座部) <http://ja.wikipedia.org/wiki/%E5%A4%A7%E8%88%AC%E6%B6%85%E6%A7%83%E7%B5%8C_(%E4%B8%8A%E5%BA%A7%E9%83%A8)>`__ （ `ウィキペディア <http://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8>`__ 、フリー百科事典)
-
-----------------------------
-
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**\ …，…，…，
-    …，…，…，\ **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。**\ …，…，…，
-
-    …，…，…，\ **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語**\ …，…，…，
-
-    …，…，…，\ **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
-
-（節錄自：\ `巴利系佛教史綱　第六章　聖典　二　摘錄 </articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__\ ）
 
 --------------
 

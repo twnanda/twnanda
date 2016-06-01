@@ -60,10 +60,6 @@
 
   - `遊行者須跋陀的事`_ (Subhaddaparibbājakavatthu); Subhadda, the Last Direct Disciple; The Last Convert; The Lion's Roar
 
----------------------------
-
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**\ （節錄自：\ `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__\ ）
-
 --------------
 
 .. raw:: html 
@@ -1490,18 +1486,6 @@
        67. Then the wandering ascetic Subhadda said to the Venerable Ananda: "It is a gain to you, friend Ananda, a blessing, that in the presence of the Master himself you have received the sprinkling of ordination as a disciple."
 
        68. So it came about that the wandering ascetic Subhadda, in the presence of the Blessed One, received admission and higher ordination. And from the time of his ordination the Venerable Subhadda remained alone, secluded, heedful, ardent, and resolute. And before long he attained to the goal for which a worthy man goes forth rightly from home to homelessness, the supreme goal of the holy life; and having by himself realized it with higher knowledge, he dwelt therein. He knew: "Destroyed is birth; the higher life is fulfilled; nothing more is to be done, and beyond this life nothing more remains." And the Venerable Subhadda became yet another among the arahats, and he was the last disciple converted by the Blessed One himself.
-
-
-----------------------------
-
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**\ …，…，…，
-    …，…，…，\ **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。**\ …，…，…，
-
-    …，…，…，\ **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語**\ …，…，…，
-
-    …，…，…，\ **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
-
-（節錄自：\ `巴利系佛教史綱　第六章　聖典　二　摘錄 <../../../lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__\ ）
 
 --------------
 

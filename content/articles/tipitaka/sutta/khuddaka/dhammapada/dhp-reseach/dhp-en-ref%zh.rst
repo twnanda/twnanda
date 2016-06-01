@@ -13,10 +13,6 @@ Dhammapada, The Buddha's Path of Wisdom
 
 **Namo tassa bhagavato arahato sammāsambuddhassa**
 
----------------------------
-
-**the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** (cited from: Part 2, CHAPTER XIII, `THE CANON <http://www.gutenberg.org/files/15255/15255-h/15255-h.htm#page275>`__ ,  `"HINDUISM AND BUDDHISM-- AN HISTORICAL SKETCH", "VOLUME I <http://www.gutenberg.org/ebooks/15255?msg=welcome_stranger#page275>`__ , BOOK III-- PALI BUDDHISM" BY SIR CHARLES ELIOT; `Read this book online: HTML <http://www.gutenberg.org/files/15255/15255-h/15255-h.htm>`__ ; `EPUB (with images) <http://www.gutenberg.org/ebooks/15255.epub.images?session_id=7e3d5b07086be61f2f912c3b289621a0064d210e>`__ ; `EPUB (no images) <http://www.gutenberg.org/ebooks/15255.epub.noimages?session_id=f41a35ac839e3599239d06a219d47a8e7a0152c2>`__ ; `Kindle (with images) <http://www.gutenberg.org/ebooks/15255.kindle.images?session_id=7e3d5b07086be61f2f912c3b289621a0064d210e>`__ ; `Kindle (no images) <http://www.gutenberg.org/ebooks/15255.kindle.noimages?session_id=7e3d5b07086be61f2f912c3b289621a0064d210e>`__ ; `Plain Text UTF-8 <http://www.gutenberg.org/files/15255/15255-0.txt>`__ ; `More Files… <http://www.gutenberg.org/files/15255/>`__ )
-
 --------------
 
 - Text translated in English:
@@ -119,6 +115,10 @@ Dhammapada, The Buddha's Path of Wisdom
 
 refer to `Chinese reference <{filename}../dhp%zh.rst>`_
 
-----------------------------------------------------
+--------------------------
+
+**the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** (cited from: Part 2, CHAPTER XIII, `THE CANON <http://www.gutenberg.org/files/15255/15255-h/15255-h.htm#page275>`__ ,  `"HINDUISM AND BUDDHISM-- AN HISTORICAL SKETCH", "VOLUME I <http://www.gutenberg.org/ebooks/15255?msg=welcome_stranger#page275>`__ , BOOK III-- PALI BUDDHISM" BY SIR CHARLES ELIOT; `Read this book online: HTML <http://www.gutenberg.org/files/15255/15255-h/15255-h.htm>`__ ; `EPUB (with images) <http://www.gutenberg.org/ebooks/15255.epub.images?session_id=7e3d5b07086be61f2f912c3b289621a0064d210e>`__ ; `EPUB (no images) <http://www.gutenberg.org/ebooks/15255.epub.noimages?session_id=f41a35ac839e3599239d06a219d47a8e7a0152c2>`__ ; `Kindle (with images) <http://www.gutenberg.org/ebooks/15255.kindle.images?session_id=7e3d5b07086be61f2f912c3b289621a0064d210e>`__ ; `Kindle (no images) <http://www.gutenberg.org/ebooks/15255.kindle.noimages?session_id=7e3d5b07086be61f2f912c3b289621a0064d210e>`__ ; `Plain Text UTF-8 <http://www.gutenberg.org/files/15255/15255-0.txt>`__ ; `More Files… <http://www.gutenberg.org/files/15255/>`__ )
+
+------
 
 - Any comment sent by `email <mailto:lsn46@mail.ncku.edu.tw>`__ (lsn46 {AT} mail {DOT} ncku {DOT} edu {DOT} tw) is welcome!

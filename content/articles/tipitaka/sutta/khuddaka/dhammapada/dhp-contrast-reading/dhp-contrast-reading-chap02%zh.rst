@@ -1036,17 +1036,6 @@
 
 .. [ThaniSFn-V23] (Ven. Thanissaro V. 23) `AN 4.10 <http://www.accesstoinsight.org/tipitaka/an/an04/an04.010.than.html>`_ lists four yokes: the yoke of sensuality, the yoke of becoming, the yoke of views, and the yoke of ignorance. To gain rest from the first three yokes, one must discern, as it actually is present, the origination, the passing away, the allure, the drawbacks, and the escape from that yoke. One will then not be obsessed with passion, delight, attraction, infatuation, thirst, fever, fascination, craving with regard to that yoke. To gain rest from the yoke of ignorance, one must discern, as it actually is present, the origination, the passing away, the allure, the drawbacks, and the escape from the six sense media. One will then not be obsessed with not-knowing.
 
-----------------------------
-
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。** …，…，…，
-    …，…，…， **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。** …，…，…，
-
-    …，…，…， **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語** …，…，…，
-
-    …，…，…， **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
-
-（節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
-
 ---------------------------
 
 - `法句經首頁  <{filename}../dhp%zh.rst>`__
