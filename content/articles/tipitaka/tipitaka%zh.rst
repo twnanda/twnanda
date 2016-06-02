@@ -209,7 +209,7 @@ V. `Khuddaka-nikaya 小部 (Khuddaka-nikāya)[The Division of Short Books(PS:17 
   III. Dhatu-katha 界說論 (dhātu-kathā)[with Commentary(Abr.=Dhk)]
        (Discussion with Reference to the Elements)
 
-  IV. Puggala-pabbatti 人施設論 (Puggala-paññatti)(Abr.=Pp)
+  IV. `Puggala-pabbatti 人施設論 (Puggala-paññatti) <{filename}/extra/authors/dhammavihaarii/puggala-pannatti/Puggala-pannatti.html>`_ (Abr.=Pp)
       [Designation of Human-type(PTS)] or (Description of Individuals)
 
   V. Katha-vatthu 論事 (kathā-vatthu)(Abr.=KV)
