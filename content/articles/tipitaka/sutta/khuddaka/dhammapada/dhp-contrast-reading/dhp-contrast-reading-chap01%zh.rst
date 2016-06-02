@@ -505,7 +505,7 @@
         7. Whoever lives contemplating pleasant things, [NāradaFn01-10]_ with senses unrestrained, in food immoderate, indolent, inactive, him verily Màra [NāradaFn01-11]_ overthrows, as the wind (overthrows) a weak tree.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - 7. Just as a storm throws down a weak tree, so does Mara overpower the man who lives for the pursuit of pleasures, who is uncontrolled in his senses, immoderate in eating, indolent, and dissipated. [BudRkFn01-01]_
+     - 7. Just as a storm throws down a weak tree, so does Mara overpower the man who lives for the pursuit of pleasures, who is uncontrolled in his senses, immoderate in eating, indolent, and dissipated. [BudRkFn-v7]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **7** One who stays focused on the beautiful,
@@ -565,7 +565,7 @@
      - 8. Whoever lives contemplating "the Impurities", [NāradaFn01-12]_ with senses restrained, in food moderate, full of faith, [NāradaFn01-13]_ full of sustained energy, him Màra overthrows not, as the wind (does not overthrow) a rocky mountain. [NāradaFn01-14]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - 8. Just as a storm cannot prevail against a rocky mountain, so Mara can never overpower the man who lives meditating on the impurities, who is controlled in his senses, moderate in eating, and filled with faith and earnest effort. [BudRkFn01-02]_
+     - 8. Just as a storm cannot prevail against a rocky mountain, so Mara can never overpower the man who lives meditating on the impurities, who is controlled in his senses, moderate in eating, and filled with faith and earnest effort. [BudRkFn-v8]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **8** One who stays focused on the foul,
@@ -1775,9 +1775,9 @@
 
                     As such Buddhism is not a mere philosophy, but a unique Path of Enlightenment.
 
-.. [BudRkFn01-01]  (Ven. Buddharakkhita 01-01) (v. 7) Mara: the Tempter in Buddhism, represented in the scriptures as an evil-minded deity who tries to lead people from the path to liberation. The commentaries explain Mara as the lord of evil forces, as mental defilements and as death.
+.. [BudRkFn-v7]  (Ven. Buddharakkhita v. 7) Mara: the Tempter in Buddhism, represented in the scriptures as an evil-minded deity who tries to lead people from the path to liberation. The commentaries explain Mara as the lord of evil forces, as mental defilements and as death.
 
-.. [BudRkFn01-02]  (Ven. Buddharakkhita 01-02) (v. 8) The impurities (asubha): subjects of meditation which focus on the inherent repulsiveness of the body, recommended especially as powerful antidotes to lust.
+.. [BudRkFn-v8]  (Ven. Buddharakkhita v. 8) The impurities (asubha): subjects of meditation which focus on the inherent repulsiveness of the body, recommended especially as powerful antidotes to lust.
 
 .. [ThaniSFn-V1-2] (Ven. Thanissaro V. 1-2) The fact that the word mano is paired here with dhamma would seem to suggest that it is meant in its role as "intellect," the sense medium that conveys knowledge of ideas or mental objects (two possible meanings for the word dhamma). However, the illustrations in the second sentence of each verse show that it is actually meant in its role as the mental factor responsible for the quality of one's actions (as in mano-kamma), the factor of will and intention, shaping not only mental events, but also physical reality (on this point, see `SN 35.145 <http://www.accesstoinsight.org/tipitaka/sn/sn35/sn35.145.than.html>`_ ). Thus, following a Thai tradition, I have rendered it here as "heart."
 

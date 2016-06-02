@@ -100,7 +100,7 @@
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - Dhp II Heedfulness
-        21. Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already. [BudRkFn02-01]_
+        21. Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already. [BudRkFn-v21]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - Dhp II Heedfulness
@@ -157,7 +157,7 @@
      - 22. Distinctly understanding this (difference [NāradaFn02-04]_ ), the wise (intent) on heedfulness rejoice in heedfulness, delighting in the realm of the Ariyas. [NāradaFn02-05]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - 22. Clearly understanding this excellence of heedfulness, the wise exult therein and enjoy the resort of the Noble Ones. [BudRkFn02-02]_
+     - 22. Clearly understanding this excellence of heedfulness, the wise exult therein and enjoy the resort of the Noble Ones. [BudRkFn-v22]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **22** Knowing this as a true distinction,
@@ -620,7 +620,7 @@
         30. By earnestness Maghavà [NāradaFn02-11]_ rose to the lordship of the gods. [NāradaFn02-12]_ Earnestness is ever praised; negligence is ever despised.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - 30. By Heedfulness did Indra become the overlord of the gods. Heedfulness is ever praised, and heedlessness ever despised. [BudRkFn02-03]_
+     - 30. By Heedfulness did Indra become the overlord of the gods. Heedfulness is ever praised, and heedlessness ever despised. [BudRkFn-v30]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | 30 Through heedfulness, Indra won
@@ -1024,11 +1024,11 @@
                     
 .. [NāradaFn02-15]  (Ven. Nārada 02-15) From his spiritual heights which he has attained.
 
-.. [BudRkFn02-01]  (Ven. Buddharakkhita 02-01) (v. 21) *The Deathless (amata)*: Nibbana, so called because those who attain it are free from the cycle of repeated birth and death.
+.. [BudRkFn-v21]  (Ven. Buddharakkhita v. 21) *The Deathless (amata)*: Nibbana, so called because those who attain it are free from the cycle of repeated birth and death.
 
-.. [BudRkFn02-02]  (Ven. Buddharakkhita 02-02) (v. 22) *The Noble Ones (ariya)*: those who have reached any of the four stages of supramundane attainment leading irreversibly to Nibbana.
+.. [BudRkFn-v22]  (Ven. Buddharakkhita v. 22) *The Noble Ones (ariya)*: those who have reached any of the four stages of supramundane attainment leading irreversibly to Nibbana.
 
-.. [BudRkFn02-03]  *Indra*: the ruler of the gods in ancient Indian mythology.
+.. [BudRkFn-v30]  (Ven. Buddharakkhita v. 30) *Indra*: the ruler of the gods in ancient Indian mythology.
 
 .. [ThaniSFn-V21] (Ven. Thanissaro V. 21) The Deathless = Unbinding (nibbana/nirvana), which gives release from the cycle of death and rebirth.
 

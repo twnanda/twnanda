@@ -429,7 +429,7 @@
      - 39. He whose mind is not soaked (by lust) he who is not affected (by hatred), he who has transcended both good and evil [NāradaFn03-07]_ - for such a vigilant [NāradaFn03-08]_ one there is no fear.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - 39. There is no fear for an awakened one, whose mind is not sodden (by lust) nor afflicted (by hate), and who has gone beyond both merit and demerit. [BudRkFn03-01]_
+     - 39. There is no fear for an awakened one, whose mind is not sodden (by lust) nor afflicted (by hate), and who has gone beyond both merit and demerit. [BudRkFn-v39]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - | **39** For a person of unsoddened mind,
@@ -790,7 +790,7 @@
 
 .. [NāradaFn03-14]  (Ven. Nārada 03-14) That is the mind directed towards the ten kinds of meritorious deeds (kusala) - namely: 1. generosity, 2. morality, 3. meditation, 4. reverence, 5. service, 6. transference of merit, 7. rejoicing in others' merit, 8. hearing the doctrine, 9. expounding the doctrine, and 10. straightening one's right views.
 
-.. [BudRkFn03-01]  (Ven. Buddharakkhita 03-01) (v. 39) The arahant is said to be beyond both merit and demerit because, as he has abandoned all defilements, he can no longer perform evil actions; and as he has no more attachment, his virtuous actions no longer bear kammic fruit.
+.. [BudRkFn-v39]  (Ven. Buddharakkhita v. 39) The arahant is said to be beyond both merit and demerit because, as he has abandoned all defilements, he can no longer perform evil actions; and as he has no more attachment, his virtuous actions no longer bear kammic fruit.
 
 .. [ThaniSFn-V37] (Ven. Thanissaro V. 37) "Lying in a cave": According to the Dhp Commentary (hereafter referred to as DhpA), "cave" here means the physical heart, as well as the four great properties — earth (solidity), water (liquidity), fire (heat), and wind (motion) — that make up the body. `Sn 4.2 <http://www.accesstoinsight.org/tipitaka/kn/snp/snp.4.02.than.html>`__ also compares the body to a cave.
 
