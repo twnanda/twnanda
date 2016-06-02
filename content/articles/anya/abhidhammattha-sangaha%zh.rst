@@ -9,7 +9,7 @@ Abhidhammatthasaṅgaho 阿毗達摩概要精解
 :summary: Abhidhammatthasaṅgaho 阿毗達摩概要精解
 
 
-- `阿毗達摩概要精解 (A Comprehensive Manual of Abhidhamma) <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Abhidhammattha-Sangaha/Ven-Bodhi-2-Dhammagavesaka/content-Ven-Bodhi.htm>`_
+- `阿毗達摩概要精解 (A Comprehensive Manual of Abhidhamma) <{filename}/extra/authors/dhammagavesaka/bodhi2/content-Ven-Bodhi.htm>`_
 
   英編者：菩提比丘 Bhikkhu Bodhi
 
