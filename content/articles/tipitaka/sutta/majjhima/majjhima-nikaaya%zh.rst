@@ -27,39 +27,42 @@ mūlapaṇṇāsa  根本五十經篇
 
 .. list-table::
 
-  * - `mūlapariyāyavaggo 根本法門品 <#mūlapariyāyavaggo>`__ (MN 1 ～ MN 10)
-    - `sīhanādavaggo 獅子吼品 <#sīhanādavaggo>`__ (MN 11 ～ MN 20)
-    - `Opammavaggo 譬喻法品 <#Opammavaggo>`__ (MN 21 ～ MN 30)
-  * - `mahāyamakavaggo 雙大品(MN 31 ～ MN 40) <#mahāyamakavaggo>`__
-    - `jarā-Vaggo 雙小品 <#cūḷayamakavaggo>`__ (MN 41 ～ MN 50)
+  * - `mūlapariyāyavaggo 根本法門品`_ (MN 1 ～ MN 10)
+    - `sīhanādavaggo 獅子吼品`_ (MN 11 ～ MN 20)
+    - `Opammavaggo 譬喻法品`_ (MN 21 ～ MN 30)
+  * - `mahāyamakavaggo 雙大品`_
+    - `cūḷayamakavaggo 雙小品`_ (MN 41 ～ MN 50)
     - 
 
 majjhimapaṇṇāsa 中分五十經篇 （MN 51 ～ MN 100）
 
 .. list-table::
 
-  * - `Gahapativaggo 居士品 <#Gahapativaggo>`__ (MN 51 ～ MN 60)
-    - `Bhikkhuvaggo 比丘品 <#Bhikkhuvaggo>`__ (MN 61 ～ MN 70)
-    - `paribbājakavaggo 普行者品 <#paribbājakavaggo>`__ (MN 71 ～ MN 80)
-  * - `rājavaggo 王品 <#rājavaggo>`__ (MN 81 ～ MN 90)
-    - `brāhmaṇavaggo 婆羅門品 <#brāhmaṇavaggo>`__ (MN 91 ～ MN 100)
+  * - `Gahapativaggo 居士品`_ (MN 51 ～ MN 60)
+    - `Bhikkhuvaggo 比丘品`_ (MN 61 ～ MN 70)
+    - `paribbājakavaggo 普行者品`_ (MN 71 ～ MN 80)
+  * - `rājavaggo 王品`_ (MN 81 ～ MN 90)
+    - `brāhmaṇavaggo 婆羅門品`_ (MN 91 ～ MN 100)
     - 
 
 uparipaṇṇāsa 後分五十經篇 （MN 101 ～ MN 152）
 
 .. list-table::
 
-  * - `Devadahavaggo 天臂品 <#Devadahavaggo>`__ (MN 101 ～ MN 110)
-    - `Anupadavaggo 不斷品 <#Anupadavaggo>`__ (MN 111 ～ MN 120)
-    - `suññatavaggo 空品 <#suññatavaggo>`__ (MN 121 ～ MN 130)
-  * - `Vibha'ngavaggo 分別品 <#Vibha'ngavaggo>`__ (MN 131 ～ MN 142)
-    - `saḷāyatanavaggo 六處品(MN 143 ～ MN 152) <#saḷāyatanavaggo>`__
+  * - `Devadahavaggo 天臂品`_ (MN 101 ～ MN 110)
+    - `Anupadavaggo 不斷品`_ (MN 111 ～ MN 120)
+    - `suññatavaggo 空品`_ (MN 121 ～ MN 130)
+  * - `Vibha'ngavaggo 分別品`_ (MN 131 ～ MN 142)
+    - `saḷāyatanavaggo 六處品`_ (MN 143 ～ MN 152)
     - 
 
 ----
 
 mūlapaṇṇāsa 根本五十經篇
+
 mūlapariyāyavaggo 根本法門品
+++++++++++++++++++++++++++++
+
 (MN 1 ～ MN 10)
 
 .. list-table::
@@ -81,7 +84,7 @@ mūlapariyāyavaggo 根本法門品
     - M i 
     - dhammadāyāda Sutta
     - 法嗣經
-      `陳慈蘭摘譯 <Sutta/Majjhima/mn003-han-ref.html>`__[2003/12/25(語體文)]; 
+      `陳慈蘭摘譯 <Sutta/Majjhima/mn003-han-ref.html>`__ [2003/12/25(語體文)]; 
       `Original <http://www.infs.idv.tw/02_books/l_forest/forest018_may.htm>`__
     - To Inherit the Teaching
       `from ”www.metta.lk” <http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/003-dhammadayada-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
@@ -134,7 +137,10 @@ mūlapariyāyavaggo 根本法門品
 ----
 
 mūlapaṇṇāsa 根本五十經篇
+
 sīhanādavaggo 獅子吼品
+++++++++++++++++++++++
+
 (MN 11 ～ MN 20)
 
 .. list-table::
@@ -209,7 +215,10 @@ sīhanādavaggo 獅子吼品
 ----
 
 mūlapaṇṇāsa 根本五十經篇
+
 Opammavaggo 譬喻法品
+++++++++++++++++++++
+
 (MN 21 ～ MN 30)
 
 .. list-table::
@@ -283,7 +292,10 @@ Opammavaggo 譬喻法品
 ----
 
 mūlapaṇṇāsa 根本五十經篇
+
 mahāyamakavaggo 雙大品
+++++++++++++++++++++++
+
 (MN 31 ～ MN 40)
 
 .. list-table::
@@ -357,7 +369,10 @@ mahāyamakavaggo 雙大品
 ----
 
 mūlapaṇṇāsa 根本五十經篇
+
 cūḷayamakavaggo 雙小品
+++++++++++++++++++++++
+
 (MN 41 ～ MN 50)
 
 .. list-table::
@@ -430,7 +445,10 @@ cūḷayamakavaggo 雙小品
 ----
 
 majjhimapaṇṇāsa 中分五十經篇
+
 Gahapativaggo 居士品
+++++++++++++++++++++
+
 (MN 51 ～ MN 60)
 
 
@@ -504,7 +522,10 @@ Gahapativaggo 居士品
 ----
 
 majjhimapaṇṇāsa 中分五十經篇
+
 Bhikkhuvaggo 比丘品
++++++++++++++++++++
+
 (MN 61 ～ MN 70)
 
 .. list-table::
@@ -573,7 +594,10 @@ Bhikkhuvaggo 比丘品
 ----
 
 majjhimapaṇṇāsa 中分五十經篇
+
 paribbājakavaggo 普行者品
++++++++++++++++++++++++++
+
 (MN 71 ～ MN 80)
 
 .. list-table::
@@ -642,7 +666,10 @@ paribbājakavaggo 普行者品
 ----
 
 majjhimapaṇṇāsa 中分五十經篇
+
 rājavaggo 王品
+++++++++++++++
+
 (MN 81 ～ 
 
 
@@ -712,7 +739,10 @@ rājavaggo 王品
 ----
 
 majjhimapaṇṇāsa 中分五十經篇
+
 brāhmaṇavaggo 婆羅門品
+++++++++++++++++++++++
+
 (MN 91 ～ MN 100)
 
 .. list-table::
@@ -782,7 +812,10 @@ brāhmaṇavaggo 婆羅門品
 ----
 
 uparipaṇṇāsa 後分五十經篇
+
 Devadahavaggo 天臂品
+++++++++++++++++++++
+
 (MN 101 ～ MN 110)
 
 .. list-table::
@@ -851,7 +884,10 @@ Devadahavaggo 天臂品
 ----
 
 uparipaṇṇāsa 後分五十經篇
+
 Anupadavaggo 不斷品
++++++++++++++++++++
+
 (MN 111 ～ MN 120)
 
 .. list-table::
@@ -921,7 +957,10 @@ Anupadavaggo 不斷品
 ----
 
 uparipaṇṇāsa 後分五十經篇
+
 suññatavaggo 空品
++++++++++++++++++
+
 (MN 121 ～ MN 130)
 
 .. list-table::
@@ -990,7 +1029,10 @@ suññatavaggo 空品
 ----
 
 uparipaṇṇāsa 後分五十經篇
+
 Vibha'ngavaggo 分別品
++++++++++++++++++++++
+
 (MN 131 ～ MN 142)
 
 
@@ -1072,7 +1114,10 @@ Vibha'ngavaggo 分別品
 ----
 
 uparipaṇṇāsa 後分五十經篇
+
 saḷāyatanavaggo 六處品
+++++++++++++++++++++++
+
 (MN 143 ～ MN 152)
 
 
