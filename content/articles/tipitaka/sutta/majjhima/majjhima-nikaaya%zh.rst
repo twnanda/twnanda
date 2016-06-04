@@ -74,8 +74,8 @@ mūlapariyāyavaggo 根本法門品
 
 (MN 1 ～ MN 10)
 
-.. list-table:: 　
-   :header-rows: 1
+.. list-table::
+  :header-rows: 1
 
   * - PTS 編次(No.)
     - PTS 頁碼(Pp.)
@@ -159,8 +159,8 @@ sīhanādavaggo 獅子吼品
 
 (MN 11 ～ MN 20)
 
-.. list-table:: 　
-   :header-rows: 1
+.. list-table::
+  :header-rows: 1
 
   * - PTS 編次(No.)
     - PTS 頁碼(Pp.)
@@ -245,8 +245,8 @@ Opammavaggo 譬喻法品
 
 (MN 21 ～ MN 30)
 
-.. list-table:: 　
-   :header-rows: 1
+.. list-table::
+  :header-rows: 1
 
   * - PTS 編次(No.)
     - PTS 頁碼(Pp.)
@@ -330,8 +330,8 @@ mahāyamakavaggo 雙大品
 
 (MN 31 ～ MN 40)
 
-.. list-table:: 　
-   :header-rows: 1
+.. list-table::
+  :header-rows: 1
 
   * - PTS 編次(No.)
     - PTS 頁碼(Pp.)
@@ -415,8 +415,8 @@ cūḷayamakavaggo 雙小品
 
 (MN 41 ～ MN 50)
 
-.. list-table:: 　
-   :header-rows: 1
+.. list-table::
+  :header-rows: 1
 
   * - PTS 編次(No.)
     - PTS 頁碼(Pp.)
@@ -500,8 +500,8 @@ Gahapativaggo 居士品
 (MN 51 ～ MN 60)
 
 
-.. list-table:: 　
-   :header-rows: 1
+.. list-table::
+  :header-rows: 1
 
   * - PTS 編次(No.)
     - PTS 頁碼(Pp.)
@@ -584,8 +584,8 @@ Bhikkhuvaggo 比丘品
 
 (MN 61 ～ MN 70)
 
-.. list-table:: 　
-   :header-rows: 1
+.. list-table::
+  :header-rows: 1
 
   * - PTS 編次(No.)
     - PTS 頁碼(Pp.)
@@ -664,8 +664,8 @@ paribbājakavaggo 普行者品
 
 (MN 71 ～ MN 80)
 
-.. list-table:: 　
-   :header-rows: 1
+.. list-table::
+  :header-rows: 1
 
   * - PTS 編次(No.)
     - PTS 頁碼(Pp.)
@@ -745,8 +745,8 @@ rājavaggo 王品
 (MN 81 ～ 
 
 
-.. list-table:: 　
-   :header-rows: 1
+.. list-table::
+  :header-rows: 1
 
   * - PTS 編次(No.)
     - PTS 頁碼(Pp.)
@@ -825,8 +825,8 @@ brāhmaṇavaggo 婆羅門品
 
 (MN 91 ～ MN 100)
 
-.. list-table:: 　
-   :header-rows: 1
+.. list-table::
+  :header-rows: 1
 
   * - PTS 編次(No.)
     - PTS 頁碼(Pp.)
@@ -906,8 +906,8 @@ Devadahavaggo 天臂品
 
 (MN 101 ～ MN 110)
 
-.. list-table:: 　
-   :header-rows: 1
+.. list-table::
+  :header-rows: 1
 
   * - PTS 編次(No.)
     - PTS 頁碼(Pp.)
@@ -986,8 +986,8 @@ Anupadavaggo 不斷品
 
 (MN 111 ～ MN 120)
 
-.. list-table:: 　
-   :header-rows: 1
+.. list-table::
+  :header-rows: 1
 
   * - PTS 編次(No.)
     - PTS 頁碼(Pp.)
@@ -1067,8 +1067,8 @@ suññatavaggo 空品
 
 (MN 121 ～ MN 130)
 
-.. list-table:: 　
-   :header-rows: 1
+.. list-table::
+  :header-rows: 1
 
   * - PTS 編次(No.)
     - PTS 頁碼(Pp.)
@@ -1148,8 +1148,8 @@ Vibha'ngavaggo 分別品
 (MN 131 ～ MN 142)
 
 
-.. list-table:: 　
-   :header-rows: 1
+.. list-table::
+  :header-rows: 1
 
   * - PTS 編次(No.)
     - PTS 頁碼(Pp.)
@@ -1241,8 +1241,8 @@ saḷāyatanavaggo 六處品
 (MN 143 ～ MN 152)
 
 
-.. list-table:: 　
-   :header-rows: 1
+.. list-table::
+  :header-rows: 1
 
   * - PTS 編次(No.)
     - PTS 頁碼(Pp.)
