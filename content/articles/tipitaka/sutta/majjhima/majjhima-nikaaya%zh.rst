@@ -72,7 +72,7 @@ mūlapariyāyavaggo 根本法門品
     - mūlapariyāya Sutta
     - 根本法門經
     - The Root Sequence
-      (1. `Translated from the Pali by Ven. Thanissaro Bhikkhu. <../AccessToInsight/html/canon/sutta/majjhima/mn001-tb0.html>`__)
+      (1. `Translated from the Pali by Ven. Thanissaro Bhikkhu. <http://www.accesstoinsight.org/tipitaka/mn/mn.001.than.html>`__)
     - 
   * - MN 2
     - M i 6
@@ -84,10 +84,9 @@ mūlapariyāyavaggo 根本法門品
     - M i 
     - dhammadāyāda Sutta
     - 法嗣經
-      `陳慈蘭摘譯 <Sutta/Majjhima/mn003-han-ref.html>`__ [2003/12/25(語體文)]; 
-      `Original <http://www.infs.idv.tw/02_books/l_forest/forest018_may.htm>`__
+      `陳慈蘭摘譯 <http://enlight.lib.ntu.edu.tw/FULLTEXT/JR-MAG/mag388929.pdf>`__ [2003/12/25(語體文)];
     - To Inherit the Teaching
-      `from ”www.metta.lk” <http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/003-dhammadayada-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
+      `from ”www.metta.lk” <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/003-dhammadayada-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
     - 
   * - MN 4
     - M i 16
@@ -101,7 +100,7 @@ mūlapariyāyavaggo 根本法門品
     - Ana”ngaṇa Sutta
     - 無穢經
     - Blemishes
-      `from ”www.metta.lk” <http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/005-anangana-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
+      `from ”www.metta.lk” <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/005-anangana-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
     - 
   * - MN 6
     - M i 
@@ -176,21 +175,21 @@ sīhanādavaggo 獅子吼品
     - anumāna  Sutta
     - 思量經
     - Self Observation
-      `from ”www.metta.lk” <http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/015-anumana-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
+      `from ”www.metta.lk” <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/015-anumana-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
     - 
   * - MN 16
     - M i  
     - Cetokhila Sutta
     - 心荒蕪經
     - The Arrow in the Mind
-      `from ”www.metta.lk” <http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/016-cetokhila-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
+      `from ”www.metta.lk” <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/016-cetokhila-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
     - 
   * - MN 17
     - M i  
     - Vanapattha Sutta
     - 林藪經
     - The Ways of the Forest
-      `from ”www.metta.lk” <http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/017-vanapattha-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
+      `from ”www.metta.lk” <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/017-vanapattha-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
     - 
   * - MN 18
     - M i 108
@@ -951,7 +950,7 @@ Anupadavaggo 不斷品
     - Sa”nkhārupapatti Sutta
     - 行生經
     - Majjhima nikāya III-- 2. 10. sankhāruppattisuttam; (120) Arising of Intentions
-      `Translated by Sister Upalavanna <http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/120-sankharuppatti-e.html>`__
+      `Translated by Sister Upalavanna <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/120-sankharuppatti-e.html>`__
     - 
 
 ----
