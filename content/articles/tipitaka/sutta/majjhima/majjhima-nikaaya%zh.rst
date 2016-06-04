@@ -18,12 +18,15 @@ Original:
 
 ----
 
-1. mūlapaṇṇāsa  根本五十經篇 （MN 1 ～ MN 50）
-2. majjhimapaṇṇāsa 中分五十經篇 （MN 51 ～ MN 100）
-3. uparipaṇṇāsa 後分五十經篇 （MN 101 ～ MN 152）
+1. `mūlapaṇṇāsa  根本五十經篇`_ （MN 1 ～ MN 50）
+2. `majjhimapaṇṇāsa 中分五十經篇`_ （MN 51 ～ MN 100）
+3. `uparipaṇṇāsa 後分五十經篇`_ （MN 101 ～ MN 152）
 
 
 mūlapaṇṇāsa  根本五十經篇
++++++++++++++++++++++++++
+
+（MN 1 ～ MN 50）
 
 .. list-table::
 
@@ -34,7 +37,10 @@ mūlapaṇṇāsa  根本五十經篇
     - `cūḷayamakavaggo 雙小品`_ (MN 41 ～ MN 50)
     - 
 
-majjhimapaṇṇāsa 中分五十經篇 （MN 51 ～ MN 100）
+majjhimapaṇṇāsa 中分五十經篇
+++++++++++++++++++++++++++++
+
+（MN 51 ～ MN 100）
 
 .. list-table::
 
@@ -45,7 +51,10 @@ majjhimapaṇṇāsa 中分五十經篇 （MN 51 ～ MN 100）
     - `brāhmaṇavaggo 婆羅門品`_ (MN 91 ～ MN 100)
     - 
 
-uparipaṇṇāsa 後分五十經篇 （MN 101 ～ MN 152）
+uparipaṇṇāsa 後分五十經篇
++++++++++++++++++++++++++
+
+（MN 101 ～ MN 152）
 
 .. list-table::
 
@@ -65,7 +74,15 @@ mūlapariyāyavaggo 根本法門品
 
 (MN 1 ～ MN 10)
 
-.. list-table::
+.. list-table:: 　
+   :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - MN 1
     - M i 1
@@ -142,7 +159,15 @@ sīhanādavaggo 獅子吼品
 
 (MN 11 ～ MN 20)
 
-.. list-table::
+.. list-table:: 　
+   :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - MN 11
     - M i 63
@@ -220,7 +245,15 @@ Opammavaggo 譬喻法品
 
 (MN 21 ～ MN 30)
 
-.. list-table::
+.. list-table:: 　
+   :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - MN 21
     - M i 122
@@ -297,7 +330,15 @@ mahāyamakavaggo 雙大品
 
 (MN 31 ～ MN 40)
 
-.. list-table::
+.. list-table:: 　
+   :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - MN 31
     - M i 
@@ -374,7 +415,15 @@ cūḷayamakavaggo 雙小品
 
 (MN 41 ～ MN 50)
 
-.. list-table::
+.. list-table:: 　
+   :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - MN 41
     - M i 285
@@ -451,7 +500,15 @@ Gahapativaggo 居士品
 (MN 51 ～ MN 60)
 
 
-.. list-table::
+.. list-table:: 　
+   :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - MN 51
     - M i 
@@ -527,7 +584,15 @@ Bhikkhuvaggo 比丘品
 
 (MN 61 ～ MN 70)
 
-.. list-table::
+.. list-table:: 　
+   :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - MN 61
     - M i 
@@ -599,7 +664,15 @@ paribbājakavaggo 普行者品
 
 (MN 71 ～ MN 80)
 
-.. list-table::
+.. list-table:: 　
+   :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - MN 71
     - M i 
@@ -672,7 +745,15 @@ rājavaggo 王品
 (MN 81 ～ 
 
 
-.. list-table::
+.. list-table:: 　
+   :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - MN 81
     - M i 
@@ -744,7 +825,15 @@ brāhmaṇavaggo 婆羅門品
 
 (MN 91 ～ MN 100)
 
-.. list-table::
+.. list-table:: 　
+   :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - MN 91
     - M i 
@@ -817,7 +906,15 @@ Devadahavaggo 天臂品
 
 (MN 101 ～ MN 110)
 
-.. list-table::
+.. list-table:: 　
+   :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - MN 101
     - M i 
@@ -889,7 +986,15 @@ Anupadavaggo 不斷品
 
 (MN 111 ～ MN 120)
 
-.. list-table::
+.. list-table:: 　
+   :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - MN 111
     - M i 
@@ -962,7 +1067,15 @@ suññatavaggo 空品
 
 (MN 121 ～ MN 130)
 
-.. list-table::
+.. list-table:: 　
+   :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - MN 121
     - M i 
@@ -1035,7 +1148,15 @@ Vibha'ngavaggo 分別品
 (MN 131 ～ MN 142)
 
 
-.. list-table::
+.. list-table:: 　
+   :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - MN 131
     - M i 
@@ -1120,7 +1241,15 @@ saḷāyatanavaggo 六處品
 (MN 143 ～ MN 152)
 
 
-.. list-table::
+.. list-table:: 　
+   :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - MN 143
     - M i 
@@ -1185,7 +1314,6 @@ saḷāyatanavaggo 六處品
 
 
 ..
-  -
   12.18 add: 版權屬十方法界，歡迎複製流傳；※※※  ※※※法義尊貴，請勿商品化流通！※※※
              願我們一起分享法施的功德、 願一切眾生受利樂、 願正法久住。
              META NAME="keywords" 
@@ -1204,5 +1332,3 @@ saḷāyatanavaggo 六處品
   92(2003). 07.13 
   
   Ref: 150; 151 
-  //
-
