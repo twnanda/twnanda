@@ -90,13 +90,23 @@ mūlapariyāyavaggo 根本法門品
     - 根本法門經
     - The Root Sequence
       (1. `Translated from the Pali by Ven. Thanissaro Bhikkhu. <http://www.accesstoinsight.org/tipitaka/mn/mn.001.than.html>`__)
-    - 
+    - 《中阿含106經》想經(大正1.596.);
+
+      No.56.《樂想經》(大正1.851.)
+
   * - MN 2
     - M i 6
     - sabbāsava  Sutta
     - 一切漏經
     - 
-    - 
+    - 《中阿含10經》漏盡經(大正1.431.);
+
+      No.31.《一切流攝守因經》(大正1.813.)
+
+      《增壹阿含40.6經》淨諸漏(大正2.740.)
+
+      《增支部》A.6.58.
+
   * - MN 3
     - M i 
     - dhammadāyāda Sutta
@@ -104,13 +114,16 @@ mūlapariyāyavaggo 根本法門品
       `陳慈蘭摘譯 <http://enlight.lib.ntu.edu.tw/FULLTEXT/JR-MAG/mag388929.pdf>`__ [2003/12/25(語體文)];
     - To Inherit the Teaching
       `from ”www.metta.lk” <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/003-dhammadayada-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
-    - 
+    - 《中阿含88經》求法經(大正1.569.);
+
+      《增壹阿含18.3經》(大正2.587.)
+
   * - MN 4
     - M i 16
     - Bhaya-bherava Sutta
     - 怖駭經：
     - 
-    - 
+    - 《增壹阿含31.1經》(大正2.665.)
 
   * - MN 5
     - M i 
@@ -118,37 +131,60 @@ mūlapariyāyavaggo 根本法門品
     - 無穢經
     - Blemishes
       `from ”www.metta.lk” <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/005-anangana-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
-    - 
+    - 《中阿含87經》穢品經(大正1.566.)
+
+      No.49.《求欲經》(大正1.839.) 《增壹阿含25.6經》結(大正2.632.)
+
   * - MN 6
     - M i 
     - āka”nkheyya Sutta
     - 願經
     - 
-    - 
+    - 《中阿含105經》願經(大正1.595.)
+
   * - MN 7
     - M i 36
     - Vatthupama Sutta
     - 布喻經
     - 
-    - 
+    - 《中阿含93經》水淨梵志經(大正1.575.);
+
+      No.51.《梵志許水淨經》(大正1.843.);
+
+      《增壹阿含13.5經》孫陀利(大正2.573.)後半;
+
+      《雜阿含1185經》 (大正2.321.);
+
+      《別譯雜阿含99經》 (大正2.408.)
+
   * - MN 8
     - M i 40
     - Sallekha Sutta
     - 削減經
     - 
-    - 
+    - 《中阿含91經》周那問見經(大正1.573.)
+
   * - MN 9
     - M i 46
     - Sammaditthi Sutta
     - 正見經
     - 
-    - 
+    - 《中阿含29經》;
+
+      《增壹阿含49.5經》後半(大正2.797.);
+
+      《雜阿含344經》
+
   * - MN 10
     - M i 55
     - Satipatthana Sutta
     - 念處經
     - 
-    - `《中阿含98經》念處經第二(大正1.582b)(卷第二十四) <../Taisho/T01/T0026_024.htm#九八>`__;
+    - `《中阿含98經》念處經第二(大正1.582b)(卷第二十四) <http://myweb.ncku.edu.tw/~lsn46/Taisho/T01/T0026_024.htm#九八>`__;
+
+      `增12. 1 四意止(大2. 568a) <http://myweb.ncku.edu.tw/~lsn46/Taisho/T02/T0125_005.htm#品第十二（一）>`__;
+
+      另可參考 `《長部 D. 22 Mahaasatipa.t.thaanasutta.m 大念處經》 <{filename}../diigha/dn22/contrast-reading%zh.rst>`__ (缺18~21.); (The Great Frames of Reference)
 
 ----
 
@@ -174,20 +210,38 @@ sīhanādavaggo 獅子吼品
     - Cula-sihanada Sutta
     - 獅子吼小經
     - 
-    - 
+    - 《中阿含103經》師子吼經(大正1.590.)
+
   * - MN 12
     - M i 68
     - Maha-sihanada Sutta
     - 獅子吼大經
     - 
-    - 
+    - No.757.《身毛喜堅經》(大正17.591.);
+
+      《增壹阿含46.4經》力(大正2.776.);
+
+      《增壹阿含50.6經》(大正2.811.);
+
+      《雜阿含684經》(大正2.186.);
+
+      《增壹阿含31.8經》 (大正2.670.);
+
+      No.802.《信解智力經》(大正17.747.);
+
+      A.10.21. Sihanadasuttam師子(如來十力)
 
   * - MN 13
     - M i 83
     - Maha-dukkhakkhandha Sutta
     - 苦蘊大經
     - 
-    - 
+    - 《中阿含99經》苦陰經(大正1.587.);
+
+      No.53.《苦陰經》(大正1.846.);
+
+      《增壹阿含21.9經》苦除(大正2.604.)
+
   * - MN 14
     - M i 91
     - Cula-dukkhakkhandha Sutta
