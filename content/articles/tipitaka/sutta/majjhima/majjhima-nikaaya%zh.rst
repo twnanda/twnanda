@@ -248,47 +248,63 @@ sīhanādavaggo 獅子吼品
     - 苦蘊小經
     - The Lesser Mass of Stress (The Shorter Discourse on the Mass of Suffering)
       (1. `Translated from the Pali by Ven. Thanissaro Bhikkhu. <http://www.accesstoinsight.org/tipitaka/mn/mn.014.than.html>`__)
-    - 
+    - 《中阿含100經》苦陰經(大正1.586.);
+
+      No.55.《苦陰因事經》(大正1.846.);
+
+      No.54.《釋摩訶男本四子經》(大正1.848.)
+
   * - MN 15
     - M i  
     - anumāna  Sutta
     - 思量經
     - Self Observation
       `from ”www.metta.lk” <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/015-anumana-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
-    - 
+    - 《中阿含89經》比丘講經(大正1.571.);
+
+      No.50.《受歲經》(大正1.842.)
+
   * - MN 16
     - M i  
     - Cetokhila Sutta
     - 心荒蕪經
     - The Arrow in the Mind
       `from ”www.metta.lk” <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/016-cetokhila-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
-    - 
+    - 《中阿含206經》心穢經(大正1.780.);
+
+      《增壹阿含經》51.4 (大正2.817.)
+
   * - MN 17
     - M i  
     - Vanapattha Sutta
     - 林藪經
     - The Ways of the Forest
       `from ”www.metta.lk” <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/017-vanapattha-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
-    - 
+    - 《中阿含107~108經》林經(大正1.596，1.597.)
+
   * - MN 18
     - M i 108
     - Madhupindika Sutta
     - 蜜丸經
     - The Ball of Honey
       (1. `Translated from the Pali by Ven. Thanissaro Bhikkhu. <../AccessToInsight/html/canon/sutta/majjhima/mn018-tb0.html>`__)
-    - 
+    - 《中阿含115經》蜜丸經(大正1.603.);
+
+      《增壹阿含40.10經》甘露法味(大正2.743.)
+
   * - MN 19
     - M i 114
     - Dvedhavitakka Sutta
     - 雙想經; 雙考察經
     - 
-    - 
+    - 《中阿含102經》念經(大正1.589.)
+
   * - MN 20
     - M i 118
     - Vitakkasanthana Sutta
     - 想念止息經; 尋行止息經
     - 
-    - 
+    - 《中阿含101經》增上心經(大正1.588.)
 
 ----
 
@@ -314,59 +330,81 @@ Opammavaggo 譬喻法品
     - Kakacupama Sutta
     - 鋸喻經
     - 
-    - 
+    - 《中阿含193經》牟犁破群那經(大正1.744.);
+
+      《增壹阿含50.8經》(大正2.813.)
+
   * - MN 22
     - M i 130
     - Alagaddupama Sutta
     - 蛇喻經
     - 
-    - 
+    - 《中阿含200經》阿黎吒經(大正2.763.);
+
+      《增壹阿含經》43.5船筏(大正2.759.)
+
   * - MN 23
     - M i 
     - Vammika Sutta
     - 蟻垤經
     - The Simile of the Ant Hill
       (1. `Translated <../Mahindarama/e-tipitaka/Majjhima-Nikaya/mn-23.htm>`__ by `Mahindarama. <http://www.mahindarama.com>`__)
-    - 
+    - No.95.《蟻喻經》(大正1.918.);
+
+      《雜阿含1079經》(大正2.282.);
+
+      《別譯雜阿含18經》(大正2.379.);
+
+      《增壹阿含39.9經》婆蜜(大正2.733.)
+
   * - MN 24
     - M i 145
     - Ratha-vinita Sutta
     - 傳車經
     - Relay Chariots
       (1. `Translated from the Pali by Ven. Thanissaro Bhikkhu. <../AccessToInsight/html/canon/sutta/majjhima/mn024-tb0.html>`__)
-    - 
+    - 《中阿含9經》七車經(大正1.429.);
+
+      《增壹阿含39.10經》七車經(大正2.733.)
+
   * - MN 25
     - M i 
     - Nivapa Sutta
     - 撒餌經
     - The Bait
       (1. `Translated <../Mahindarama/e-tipitaka/Majjhima-Nikaya/mn-25.htm>`__ by `Mahindarama. <http://www.mahindarama.com>`__)
-    - 
+    - 《中阿含178經》獵師經(大正1.781.)
+
   * - MN 26
     - M i 160
     - Ariyapariyesana Sutta
     - 聖求經：
     - 
-    - 
+    - 《中阿含204經》羅摩經(大正1.775.);
+
+      cf.No.765.《本事經》卷四(大正17.679.)
 
   * - MN 27
     - M i 
     - Cula-hatthipadopama Sutta
     - 象跡喻小經
     - 
-    - 
+    - 《中阿含30經》象跡喻經(大正1.464.)
+
   * - MN 28
     - M i 184
     - Maha-hatthipadopama Sutta
     - 象跡喻大經
     - 
-    - 
+    - 《中阿含30經》象跡喻經(大正1.464.)
+
   * - MN 29
     - M i 
     - Mahasaropama Sutta
     - 心材喻大經
     - 
-    - 
+    - 《增壹阿含43.4經》(大正2.759.)
+
   * - MN 30
     - M i 
     - Culasaropama Sutta
@@ -399,34 +437,53 @@ mahāyamakavaggo 雙大品
     - cūlagosi”ngasuttam
     - 牛角林小經
     - 
-    - 
+    - 《中阿含185經》牛角林經(大正1.739.)
+
   * - MN 32
     - M i 
     - mahāgosi”nga Sutta
     - 牛角林大經
     - 
-    - 
+    - 《中阿含184經》牛角婆羅林經(大正1.736.);
+
+      No.154.《生經》一六‧比丘各誌經(大正3.80.);
+
+      《增壹阿含37.3經》(大正2.710.)
+
   * - MN 33
     - M i 220
     - Maha-gopalaka Sutta
     - 牧牛者大經
     - The Greater Cowherd Discourse
       `Translated from the Pali by Ven. Thanissaro Bhikkhu. <http://www.accesstoinsight.org/tipitaka/mn/mn.033.than.html>`__)
-    - 
+    - 《雜阿含1249經》(大正2.342.);
+
+      《增壹阿含49.1經》(大正2.794.);
+
+      No.123.《牧牛經》(大正2.546.);
+
+      A.11.18.Gopalak牧牛者
+
   * - MN 34
     - M i 225
     - Culagopalaka Sutta
     - 牧牛者小經
     - The Shorter Discourse on the Cowherd
       `Translated from the Pali by Olendzki (excerpt). <http://www.accesstoinsight.org/tipitaka/mn/mn.034x.olen.html>`__)
-    - 
+    - 《雜阿含1248經》(大正2.342.);
+
+      《增壹阿含43.6經》(大正2.761.)
+
   * - MN 35
     - M i 
     - Culasaccaka Sutta
     - 薩遮迦小經
     - The Shorter Discourse to Saccaka
       (1. `from ”www.dhammaweb.net” <http://www.dhammaweb.net/Tipitaka/read.php?id=69>`__);
-    - 
+    - 《雜阿含110經》薩遮(大正2.35.);
+
+      《增壹阿含37.10經》薩遮(大正2.715.)
+
   * - MN 36
     - M i 237
     - Maha-Saccaka Sutta
@@ -440,25 +497,33 @@ mahāyamakavaggo 雙大品
     - 愛盡小經
     - The Shorter Discourse on the Destruction of Craving
       (1. `Translated from the Pali by Ven. Bodhi Bhikkhu. <http://www.what-buddha-taught.net/Books9/Bhikkhu_Bodhi_Culatanhasankhaya_Sutta.htm>`__);
-    - 
+    - 《雜阿含505經》愛盡(大正2.133.);
+
+      《增壹阿含19.3經》斷盡(大正2.593.)
+
   * - MN 38
     - M i 
     - Culatanhasankhaya Sutta
     - 愛盡大經
     - 
-    - 
+    - 《中阿含201經》嗏帝經(大正1.766.)
+
   * - MN 39
     - M i 271
     - Maha-Assapura Sutta
     - 馬邑大經
     - 
-    - 
+    - 《中阿含182經》馬邑經(大正1.724.);
+
+      《增壹阿含49.8經》(大正2.801.)
+
   * - MN 40
     - M i
     - Cula-Assapura Sutta
     - 馬邑小經
     - 
-    - 
+    - 《中阿含183經》馬邑經(大正1.725.)
+
 
 ----
 
@@ -497,52 +562,73 @@ cūḷayamakavaggo 雙小品
     - 有明大經
     - The Greater Set of Questions-and-Answers
       (1. `Translated from the Pali by Ven. Thanissaro Bhikkhu. <http://www.accesstoinsight.org/tipitaka/mn/mn.043.than.html>`__);
-    - 
+    - 《中阿含211經》大拘稀羅經(大正1.790.);
+
+      《雜阿含251經》(大正2.60.)
+
   * - MN 44
     - M i 299
     - Culavedalla Sutta
     - 有明小經
     - The Shorter Set of Questions-and-Answers
       (1. `Translated from the Pali by Ven. Thanissaro Bhikkhu. <http://www.accesstoinsight.org/tipitaka/mn/mn.044.than.html>`__);
-    - 
+    - 《中阿含210經》法樂比丘尼經(大正1.788.)
+
   * - MN 45
     - M i 305
     - Culadhammasamadana Sutta
     - 得法小經
     - The Shorter Discourse on Taking on Practices
       (1. `Translated from the Pali by Ven. Thanissaro Bhikkhu. <http://www.accesstoinsight.org/tipitaka/mn/mn.045.than.html>`__);
-    - 
+    - 《中阿含174經》受法經(大正1.711.)
+
   * - MN 46
     - M i 
     - Mahadhammasamadana Sutta
     - 得法大經
     - 
-    - 
+    - 《中阿含175經》受法經(大正1.712.)
+
   * - MN 47
     - M i 
     - Vimamsaka Sutta
     - 思察經
     - 
-    - 
+    - 《中阿含176經》求解經(大正1.732.)
+
   * - MN 48
     - M i 
     - Kosambiya Sutta
     - 憍賞彌經
     - 
-    - 
+    - 《增壹阿含24.8經》(大正2.626.);
+
+      《本生經》J.428;
+
+      cf. 《律藏》〈大品〉〈憍賞彌犍度〉Vin. Mv. p.338ff.;
+
+      No.1421.《五分律》卷24(大正22.158下);
+
+      No.1428.《四分律》卷43(大正22.874下)
+
   * - MN 49
     - M i 326
     - Brahmanimantanika Sutta
     - 梵天請經
     - The Brahma Invitation
       (1. `Translated from the Pali by Ven. Thanissaro Bhikkhu. <http://www.accesstoinsight.org/tipitaka/mn/mn.049.than.html>`__);
-    - 
+    - 《中阿含78經》梵天請佛經(大正1.547.)
+
   * - MN 50
     - M i 
     - Maratajjaniya Sutta
     - 魔訶責經
     - 
-    - 
+    - 《中阿含131經》降魔經(大正1.620.);
+
+      No.66.《弊魔試目連經》(大正1.864.);
+
+      No.67.《魔嬈亂經》(大正1.864.)
 
 ----
 
