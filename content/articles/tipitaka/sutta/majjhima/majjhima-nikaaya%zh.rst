@@ -655,26 +655,35 @@ Gahapativaggo 居士品
     - Kandaraka Sutta
     - 乾達羅迦經
     - 
-    - 
+    - A.4.198. Attantapasuttam自苦;
+
+      《人施設論》Pug.4,23.pp.56-61(CSCD4,174-177 pg.163-166);
+
+      《集異門足論》九(大正藏26.406a)
+
   * - MN 52
     - M i 349
     - Atthakanagara Sutta
     - 八城經
     - 
-    - 
+    - 《中阿含217經》八城經(大正1.802.);
+
+      《十支居士八城人經》No.92.(大正1.916.)
+
   * - MN 53
     - M i 353
     - Sekha Sutta
     - 有學經
     - The Practice for One in Training
       (1. `Translated from the Pali by Ven. Thanissaro Bhikkhu. <http://www.accesstoinsight.org/tipitaka/mn/mn.053.than.html>`__);
-    - 北傳雖無相當經典，
+    - 北傳雖無相當經典，《雜阿含1176經》 (大正2.316.)部份相合。其次阿難說法部份，北傳為大目犍連說法，內容亦不同。
   * - MN 54
     - M i 359
     - Potaliya Sutta
     - 哺多利經
     - 
-    - 
+    - 《中阿含203經》晡利多經(大正1.773.)
+
   * - MN 55
     - M i 
     - Jivaka Sutta
@@ -686,7 +695,8 @@ Gahapativaggo 居士品
     - Upali Sutta
     - 優婆離經
     - 
-    - 
+    - 《中阿含133經》優婆離經(大正1.628.)
+
   * - MN 57
     - M i 387
     - Kukkuravatika Sutta
@@ -701,13 +711,17 @@ Gahapativaggo 居士品
     - To Prince Abhaya (On Right Speech)
       (1. `Translated from the Pali by Ven. Thanissaro Bhikkhu. <http://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html>`__);
     - 北傳無相當之經
+
   * - MN 59
     - M i 396
     - Bahuvedaniya Sutta
     - 多受經
     - The Many Kinds of Feeling/Many Things to be Experienced
       (1. `Translated from the Pali by Ven. ñanamoli Thera. <http://www.accesstoinsight.org/tipitaka/mn/mn.059.nypo.html>`__);
-    - 
+    - 《雜阿含485經》(大正2.123.);
+
+      《相應部》S.36.19般奢康伽經
+
   * - MN 60
     - M i 400
     - Apannaka Sutta
@@ -739,61 +753,76 @@ Bhikkhuvaggo 比丘品
     - Ambalatthikarahulovada Sutta
     - 菴婆孽林教誡羅(目+侯)羅經
     - 
-    - 
+    - 《中阿含14經》羅云經(大正1.436.)
+
   * - MN 62
     - M i 
     - Maharahulovada Sutta
     - 教誡羅(目+侯)羅大經
     - 
-    - 
+    - 《增壹阿含17.1經》羅云(大正2.581.)
+
   * - MN 63
     - M i 
     - Culamalukya Sutta
     - 摩羅迦小經
     - 
-    - 
+    - 《中阿含221經》箭喻經(大正1.804.);
+
+      《箭喻大經》No.94.(大正1.917.)
+
   * - MN 64
     - M i 
     - Mahamalukya Sutta
     - 摩羅迦大經
     - 
-    - 
+    - 《中阿含205經》五下分結經(大正1.778.)
+
   * - MN 65
     - M i 
     - Bhaddali Sutta
     - 跋陀利經
     - 
-    - 
+    - 《中阿含194經》跋陀和利經(大正1.746.);
+
+      《增壹阿含47.7經》(大正2.800.)前部
+
   * - MN 66
     - M i 
     - Latukikopama Sutta
     - 鶉喻經
     - 
-    - 
+    - 《中阿含192經》迦樓烏陀夷經(大正1.740.)
+
   * - MN 67
     - M i 
     - Catuma Sutta
     - 車頭聚落經
     - 
-    - 
+    - 《增壹阿含45.2經》 (大正2.770.);
+
+      No.137.《舍利弗摩目犍連遊四衢經》(大正2.860.)
+
   * - MN 68
     - M i 
     - Nalakapana Sutta
     - 那羅伽波寧村經
     - 
-    - 
+    - 《中阿含77經》娑雞帝三族姓子經(大正1.544.)
+
   * - MN 69
     - M i 
     - Goliyani Sutta
     - 瞿尼師經
     - 
-    - 
+    - 《中阿含26經》瞿尼師經(大正1.454.)
+
   * - MN 70
     - M i 
     - Kitagiri Sutta
     - 枳吒山邑經
     - 
-    - 
+    - 《中阿含195經》阿濕貝經(大正1.749.)
 
 ----
 
@@ -825,55 +854,75 @@ paribbājakavaggo 普行者品
     - Aggivaccha Sutta
     - 婆蹉衢多火[喻]經
     - 
-    - 
+    - 《雜阿含962經》(大正2.245.);
+
+      《別譯雜阿含195經》 (大正2.444.)
+
   * - MN 73
     - M i 
     -  Sutta
     - 婆蹉衢多大經
     - 
-    - 
+    - 《雜阿含964經》(大正2.246.);
+
+      《別譯雜阿含198經》 (大正2.446.)
+
   * - MN 74
     - M i 
     - Dighanakha Sutta
     - 長爪經
     - 
-    - 
+    - 《雜阿含969經》 (大正2.249.);
+
+      《別譯雜阿含203經》 (大正2.449.)
+
   * - MN 75
     - M i 
     - Magandiya Sutta
     - 摩犍提經
     - 
-    - 
+    - 《中阿含153經》鬚閑提經(大正1.670.)
+
   * - MN 76
     - M i 
     - Sandaka Sutta
     - 刪陀迦經
     - 
-    - cf. 
+    - cf. M.60. Apannakasuttam 無戲論經;
+
+      cf. D.1. Brahmajalasuttam 梵網經;
+
+      cf. 《雜阿含973經》 (大正2.251.);
+
+      cf. 《別譯雜阿含207經》 (大正2.451.)
+
   * - MN 77
     - M i 
     - māhasakuludāyi Sutta
     - 善生優陀夷大經
     - 
-    - 
+    - 《中阿含207經》箭毛經(大正1.783.)
+
   * - MN 78
     - M i 
     - samanamuṇḍika Sutta
     - 沙門文祁子經
     - 
-    - 
+    - 《中阿含179經》五支物主經(大正1.720.)
+
   * - MN 79
     - M i 
     - cūḷasakuludayi Sutta
     - 善生優陀夷小經
     - 
-    - 
+    - 《中阿含208經》箭毛經(大正1.783.)
+
   * - MN 80
     - M i 
     - Vekhanasa Sutta
     - 鞞摩那修經
     - 
-    - 
+    - 《中阿含209經》鞞摩那修經(大正1.786.)
 
 ----
 
@@ -900,61 +949,90 @@ rājavaggo 王品
     - ghaṭikāra Sutta
     - 陶師經
     - 
-    - 
+    - 《中阿含63經》鞞婆陵耆經(大正1.499.)
+
   * - MN 82
     - M i 
     - raṭṭhapāla Sutta
     - 賴吒恕羅經
     - 
-    - 
+    - 《中阿含132經》賴吒恕羅經(大正1.623.)
+
   * - MN 83
     - M i 
     - Maghadeva Sutta
-    - 大天[木+奈]林經
+    - 大天㮈林經
     - 
-    - 
+    - 《中阿含67經》大天㮈林經(大正1.511.)
+
   * - MN 84
     - M i 
     - Madhura Sutta
     - 摩偷羅經
     - 
-    - 
+    - 《雜阿含548經》摩偷羅經(大正2.142.)
+
   * - MN 85
     - M i 
     - bodhirājakumāra Sutta
     - 菩提王子經
     - 
-    - 
+    - 世尊詳述當年苦行的部份和《中部》26經同。;
+
+      cf. No..《五分律》卷10(大正22.71下)
+
   * - MN 86
     - M i 
     - A”ngulimāla Sutta
     - 鴦掘摩經
     - 
-    - 
+    - 《雜阿含1077經》;
+
+      《別譯雜阿含16經》(大正2.378.);
+
+      No.118.《佛說鴦掘摩經》(大正2.508.);
+
+      No.119.《鴦崛髻經》(大正2.510.);
+
+      No.120.《央掘魔羅經》(大正2.512.);
+
+      《增壹阿含38.6經》(大正2.719.);
+
+      《法句經》Dhp.172, 173, 382;
+
+      《長老偈》Thag.871~873.
+
   * - MN 87
     - M i 
     - piyajātika Sutta
     - 愛生經
     - 
-    - 
+    - 《中阿含216經》愛生經(大正1.800.);
+
+      No.91.《佛說婆羅門子命終愛念不離經》(大正1.915.);
+
+      《增壹阿含13.3經》
+
   * - MN 88
     - M i 
     - bāhitika Sutta
     - 鞞訶提經
     - 
-    - 
+    - 《中阿含214經》鞞訶提經(大正1.797.)
+
   * - MN 89
     - M i 
     - Dhammacetiya Sutta
     - 法莊嚴經
     - 
-    - 
+    - 《中阿含213經》法莊嚴經(大正1.795.)
+
   * - MN 90
     - M i 
     - kaṇṇakatthala Sutta
     - 普棘刺林經
     - 
-    - 
+    - 《中阿含212經》一切智經(大正1.792.)
 
 ----
 
@@ -980,25 +1058,31 @@ brāhmaṇavaggo 婆羅門品
     - brahmāyu Sutta
     - 梵摩經
     - 
-    - 
+    - 《中阿含161經》梵摩經(大正1.685.)
+
   * - MN 92
     - M i 
     - Sela Sutta
     - 施羅經
     - 
-    - 
+    - 《經集》Sn.3.7. Selasuttam賽羅經;
+
+      《長老偈》Thag.818~841.
+
   * - MN 93
     - M i 
     - assalāyana Sutta
     - 阿攝[和/心]經
     - 
-    - 
+    - 《中阿含151經》阿攝[和/心]經(大正1.663.)
+
   * - MN 94
     - M i 
     - ghoṭamukha Sutta
     - 瞿哆牟伽經
     - 
-    - cf. 
+    - cf. M.51.Kandarakasuttam 乾達羅迦經
+
   * - MN 95
     - M i 
     - Ca”nki Sutta
@@ -1011,31 +1095,37 @@ brāhmaṇavaggo 婆羅門品
     - Esukaarii Sutta
     - 鬱瘦歌邏經
     - 
-    - 
+    - 《中阿含150經》鬱瘦歌邏經(大正1.661.)
+
   * - MN 97
     - M i 
     - dhanañjāni Sutta
     - 陀然經
     - 
-    - 
+    - 《中阿含27經》陀然梵志經(大正1.456.)
+
   * - MN 98
     - M i 
     - vāseṭṭha Sutta
     - 婆私吒經
     - 
-    - 
+    - 《經集》Sn.3.9. Vasetthasuttam婆塞特經
+
   * - MN 99
     - M i 
     - Subha Sutta
     - 須婆經
     - 
-    - 
+    - 《中阿含152經》鸚鵡經(大正1.666.)
+
   * - MN 100
     - M i 
     - Sa”ngārava Sutta
     - 傷歌邏經
     - 
-    - 世尊苦行精進，參照
+    - 世尊苦行精進，參照《中部》M.26. Pasarasisuttam;
+
+      M.36.Mahasaccakasuttam
 
 ----
 
@@ -1061,61 +1151,76 @@ Devadahavaggo 天臂品
     - Devadaha Sutta
     - 天臂經
     - 
-    - 
+    - 《中阿含19經》尼乾經(大正1.442.);
+
+      部份參照《中部》M.27. Culahatthipadopamasuttam象跡喻小經
+
   * - MN 102
     - M i 
     - pañcattaya Sutta
     - 五三經
     - 
-    - cf.
+    - cf.《長部》D.1. Brahmajalasuttam 梵網經
+
   * - MN 103
     - M i 
     - Kinti Sutta
     - 如何經
     - 
-    - 
+    - 北傳無相當之經
+
   * - MN 104
     - M i 
     - sāmagāma Sutta
     - 舍彌村經
     - 
-    - 
+    - 《中阿含196經》周那經(大正1.752.)
+
   * - MN 105
     - M i 
     - Sunakkhatta Sutta
     - 善星經
     - 
-    - 
+    - No.757.《佛說身毛喜堅經》(大正17.591.)
+
   * - MN 106
     - M i 
     - āneñjasappāya Sutta
     - 不動利益經
     - 
-    - 
+    - 《中阿含75經》淨不動道經(大正1.542.)
+
   * - MN 107
     - M i 
     - gaṇakamoggallāna Sutta
     - 算數家目犍連經
     - 
-    - 
+    - 《中阿含144經》算數目犍連經(大正1.652.);
+
+      No70..《數經》(大正1.875.)
+
   * - MN 108
     - M i 
     - gopakamoggallāna Sutta
     - 瞿默目犍連經
     - 
-    - 
+    - 《中阿含145經》瞿默目犍連經(大正1.653.)
+
   * - MN 109
     - M i 
     - mahāpuṇṇama Sutta
     - 滿月大經
     - 
-    - 
+    - 《雜阿含58經》 (大正2.14.);
+
+      《相應部》S.22.82. Pu.n.namaa 滿月
+
   * - MN 110
     - M i 
     - cūḷapuṇṇama Sutta
     - 滿月小經
     - 
-    - cf. 
+    - cf. 《增支部》A.4.187./ II,179.作雨者(禹舍婆羅門問知不知善不善士)
 
 ----
 
@@ -1142,61 +1247,76 @@ Anupadavaggo 不斷品
     - 不斷經
     - 
     - 北傳無相當之經
+
   * - MN 112
     - M i 
     - Chabbisodhana Sutta
     - 六淨經
     - 
-    - 
+    - 《中阿含187經》說智經(大正1.732.)
+
   * - MN 113
     - M i 
     - Sappurisa Sutta
     - 善士經
     - 
-    - 
+    - 《中阿含85經》真人經(大正1.561.);
+
+      No.48.《是法非法經》(大正1.837.)
+
   * - MN 114
     - M i 
     - sevitabbāsevitabba Sutta
     - 應習不應習經
     - 
     - 北傳無相當之經
+
   * - MN 115
     - M i 
     - bahudhātuka Sutta
     - 多界經
     - 
-    - 
+    - 《中阿含181經》多界經(大正1.723.);
+
+      No.776.《佛說四品法門經》(大正17.712.)
+
   * - MN 116
     - M i 
     - Isigili Sutta
     - 仙吞經
     - 
-    - 
+    - 《增壹阿含38.7經》仙人崛經(大正2.723.)
+
   * - MN 117
     - M i 
     - mahācattārīsaka Sutta
     - 大四十經
     - 
-    - 
+    - 《中阿含189經》聖道經(大正1.735.)
+
   * - MN 118
     - M i 
     - ānāpānassati Sutta
     - 入出息念經; 安那般那念經
     - 
-    - 
+    - No.96.《佛說治意經》(大正1.919.);
+
+      《雜阿含810經》 (大正2.208.)
+
   * - MN 119
     - M i 
     - kāyagatāsati Sutta
     - 身行念經
     - 
-    - 
+    - 《中阿含81經》念身經(大正1.554.)
+
   * - MN 120
     - M i 
     - Sa”nkhārupapatti Sutta
     - 行生經
     - Majjhima nikāya III-- 2. 10. sankhāruppattisuttam; (120) Arising of Intentions
       `Translated by Sister Upalavanna <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/120-sankharuppatti-e.html>`__
-    - 
+    - 《中阿含168經》意行經(大正1.700.)
 
 ----
 
@@ -1222,61 +1342,80 @@ suññatavaggo 空品
     - cūḷasuññata Sutta
     - 空小經
     - 
-    - 
+    - 《中阿含190經》小空經(大正1.736.)
+
   * - MN 122
     - M i 
     - mahāsuññata Sutta
     - 空大經
     - 
-    - 
+    - 《中阿含191經》小空經(大正1.738.)
+
   * - MN 123
     - M i 
     - Acchariya-abbhuta Sutta
     - 希有未曾有法經
     - 
-    - 
+    - 《中阿含32經》未曾有法經(大正1.469.)
+
   * - MN 124
     - M i 
     - bākula Sutta
     - 薄拘羅經
     - 
-    - 
+    - 《中阿含34經》薄拘羅經(大正1.475.)
+
   * - MN 125
     - M i 
     - dantabhūmi Sutta
     - 調御地經
     - 
-    - 
+    - 《中阿含198經》調御地經(大正1.757.)
+
   * - MN 126
     - M i 
     - bhūmija Sutta
     - 浮彌經
     - 
-    - 
+    - 《中阿含173經》浮彌經(大正1.709.)
+
   * - MN 127
     - M i 
     - Anuruddha Sutta
     - 阿那律經
     - 
-    - 
+    - 《中阿含79經》有勝天經(大正1.549.)
+
   * - MN 128
     - M i 
     - Upakkilesa Sutta
     - 隨煩惱經
     - 
-    - 
+    - 《中阿含72經》長壽王本起經(大正1.532.);
+
+      《增壹阿含24.8經》(大正2.626.)
+
   * - MN 129
     - M i 
     - bālapaṇḍita Sutta
     - 賢愚經
     - 
-    - 
+    - 《中阿含199經》癡慧地經(大正1.759.);
+
+      No.86.《佛說泥犁經》(大正1.907.)
+
   * - MN 130
     - M i 
     - devadūta Sutta
     - 天使經
     - 
-    - 
+    - 《中阿含64經》天使經(大正1.503.);
+
+      No.42.《鐵城泥梨經》(大正1.826.);
+
+      No.43.《閻羅王五使者經》(大正1.828.);
+
+      《增壹阿含32.4經》大子經(大正2.674.)
 
 ----
 
@@ -1309,67 +1448,91 @@ Vibha'ngavaggo 分別品
     - ānandabhaddekaratta Sutta
     - 阿難一夜賢者經
     - 
-    - 
+    - 《中阿含167經》阿難說經(大正1.699.)
+
   * - MN 133
     - M i 
     - mahākaccānabhaddekaratta Sutta
     - 大迦旃延一夜賢者經
     - 
-    - 
+    - 《中阿含165經》溫泉林天經(大正1.696.)
+
   * - MN 134
     - M i 
     - Lomasaka”ngiyabhaddekaratta Sutta
     - 盧夷強耆一夜賢者經
     - 
-    - 
+    - 《中阿含166經》釋中禪室尊經(大正1.698.);
+
+      No.77.《佛經尊上經》(大正1.886.)
+
   * - MN 135
     - M i 
     - cūḷakammavibha”nga Sutta
     - 小業分別經
     - 
-    - 
+    - 《中阿含170經》鸚鵡經(大正1.703.);
+
+      No.78.《兜調經》(大正1.887.);
+
+      No.79.《鸚鵡經》(大正1.888.);
+
+      No.80.《佛為首加長者說業報差別經》(大正1.891.);
+
+      No.81.《分別善惡報應經》(大正1.895.)
+
   * - MN 136
     - M i 
     - māhakammavibha”nga Sutta
     - 大業分別經
     - 
-    - 
+    - 《中阿含171經》分別大業經(大正1.706.)
+
   * - MN 137
     - M i 
     - saḷāyatanavibha”nga Sutta
     - 六處分別經
     - 
-    - 
+    - 《中阿含163經》分別六處經(大正1.692.)
+
   * - MN 138
     - M i 
     - Uddesavibha”nga Sutta
     - 總說分別經
     - 
-    - 
+    - 《中阿含163經》分別六處經(大正1.694.);
+
   * - MN 139
     - M i 
     - araṇavibha”nga Sutta
     - 無諍分別經
     - 
-    - 
+    - 《中阿含169經》拘樓瘦無諍經(大正1.701.)
+
   * - MN 140
     - M i 
     - dhātuvibha”nga Sutta
     - 界分別經
     - 
-    - 
+    - 《中阿含162經》分別六界經(大正1.690.)
+
   * - MN 141
     - M i 
     - Saccavibha”nga Sutta
     - 諦分別經
     - 
-    - 
+    - 《中阿含31經》分別聖諦經(大正1.467.);
+
+      No.32.《佛說四諦經》(大正1.814.);
+
+      《增壹阿含27.1經》(大正2.643.)
+
   * - MN 142
     - M i 
     - Dakkhinavibha”nga Sutta
     - 施分別經
     - 
-    - 
+    - 《中阿含180經》瞿曇彌經(大正1.721.)
 
 ----
 
@@ -1396,61 +1559,90 @@ saḷāyatanavaggo 六處品
     - anāthapiṇḍikovāda Sutta
     - 教給孤獨經
     - 
-    - 
+    - 《中阿含28經》教化病經(大正1.458.);
+
+      《增壹阿含51.8經》(大正2.819.);
+
+      《雜阿含1032經》(大正2.269.);
+
+      《S.55.26. Dussilya破戒
+
   * - MN 144
     - M i 
     - channovāda Sutta
     - 教闡陀經
     - 
-    - 
+    - 《雜阿含1266經》(大正2.347.);
+
+      cf. 《相應部》S.35.87.
+
   * - MN 145
     - M i 
     - puṇṇovāda Sutta
     - 教富樓那經
     - 
-    - 
+    - 《雜阿含311經》(大正2.89.);
+
+      No.108.《佛說滿願子經》(大正2.502.)前半;
+
+      《雜阿含215經》(大正2.54.);
+
+      《相應部》S.35.87. Channa 闡陀
+
   * - MN 146
     - M i 
     - nandakovāda Sutta
     - 教難陀迦經
     - 
-    - 
+    - 《雜阿含276經》(大正2.73.)
+
   * - MN 147
     - M i 
     - cūḷarāhulovāda Sutta
-    - 教羅[目+侯]羅小經
+    - 教羅睺羅小經
     - 
-    - 
+    - 《雜阿含200經》(大正2.51.);
+
+      《相應部》S.35.121.Rahula 羅睺羅
+
   * - MN 148
     - M i 
     - Chachakka Sutta
     - 六六經
     - 
-    - 
+    - 《中阿含86經》說處經(大正1.562.);
+
+      《雜阿含304經》(大正2.86.)
+
   * - MN 149
     - M i 
     - mahāsaḷāyatanika Sutta
     - 大六處經
     - 
-    - 
+    - 《雜阿含305經》(大正2.87.)
+
   * - MN 150
     - M i 
     - Nagaravindeyya Sutta
     - 頻頭城經
     - 
-    - 
+    - 《雜阿含280經》(大正2.76.)
+
   * - MN 151
     - M i 
     - piṇḍapātapārisuddhi Sutta
     - 乞食清淨經
     - 
-    - 
+    - 《雜阿含236經》(大正2.57.);
+
+      《增壹阿含45.6經》(大正2.773.)
+
   * - MN 152
     - M i 
     - indriyabhāvanā Sutta
     - 根修習經
     - 
-    - 
+    - 《雜阿含282經》(大正2.78.)
 
 
 ..
