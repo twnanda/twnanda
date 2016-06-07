@@ -14,6 +14,13 @@ Saṃyuttanikāya 相應部 (The Book of Kindred Sayings; The "Grouped" Discours
 `sagāthāvagga <http://www.accesstoinsight.org/tipitaka/sn/index.html#sagatha>`__ 有偈品
 
 .. list-table::
+  :header-rows: 1
+
+  * - 相應目次
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 包含經典部數
 
   * - 01
     - devatāsaṃyuttaṃ
@@ -78,6 +85,13 @@ Saṃyuttanikāya 相應部 (The Book of Kindred Sayings; The "Grouped" Discours
 `nidānavagga <http://www.accesstoinsight.org/tipitaka/sn/index.html#nidana>`__ 因緣品
 
 .. list-table::
+  :header-rows: 1
+
+  * - 相應目次
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 包含經典部數
 
   * - 12
     - nidānasaṃyuttaṃ
@@ -137,6 +151,13 @@ Saṃyuttanikāya 相應部 (The Book of Kindred Sayings; The "Grouped" Discours
 `Khandhavagga <http://www.accesstoinsight.org/tipitaka/sn/index.html#khandha>`__ 蘊品
 
 .. list-table::
+  :header-rows: 1
+
+  * - 相應目次
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 包含經典部數
 
   * - 22
     - khandhasaṃyuttaṃ
@@ -211,6 +232,13 @@ Saṃyuttanikāya 相應部 (The Book of Kindred Sayings; The "Grouped" Discours
 `saḷāyatanavagga <http://www.accesstoinsight.org/tipitaka/sn/index.html#salayatana>`__ 六處品
 
 .. list-table::
+  :header-rows: 1
+
+  * - 相應目次
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 包含經典部數
 
   * - 35
     - saḷāyatanasaṃyuttaṃ
@@ -270,6 +298,13 @@ Saṃyuttanikāya 相應部 (The Book of Kindred Sayings; The "Grouped" Discours
 `mahāvagga <http://www.accesstoinsight.org/tipitaka/sn/index.html#maha>`__ 大品
 
 .. list-table::
+  :header-rows: 1
+
+  * - 相應目次
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 包含經典部數
 
   * - 45
     - maggasaṃyuttaṃ

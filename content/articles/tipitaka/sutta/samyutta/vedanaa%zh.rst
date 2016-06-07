@@ -8,31 +8,39 @@ Vedanaasa.myutta.m (Feeling 受相應)
 :summary: Vedanaasa.myutta.m (Feeling 受相應)
 
 
-.. list-table::
-
-  * - `Sagaathaavaggo-Vaggo <#Sagaathaavaggo-Vaggo>`__
-    - `Rahogata-Vaggo <#Rahogata-Vaggo>`__
-    - `A.t.thasatapariyaaya-Vaggo <#A.t.thasatapariyaaya-Vaggo>`__
+.. contents:: 目錄
 
 ----
 
 Sagaathaavaggo-Vaggo 第一 有偈品
+++++++++++++++++++++++++++++++++
 
 .. list-table::
+  :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - SN XXXVI.1
     - S iv 204
     - Samaadhi Sutta
     - 禪(定)(三昧)
     - Concentration
-      `Translated from the Pali by Ven. Nyanaponika Thera. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-001.html>`__
-    - `雜17. 18. 禪（四七四）(大2. 121 a) <../../../Taisho/T02/0099_017.htm>`__
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.001.nypo.html>`__ ]
+    - 雜17. 18. 禪（四七四）(大2. 121 a)
+
   * - SN XXXVI.2
     - S iv 204
     - Sukha Sutta (Sukhaya)
     - 樂
     - Happiness
-      `Translated from the Pali by Ven. Nyanaponika Thera. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-002.html>`__
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.002.nypo.html>`__ ]
     - 
 
   * - SN XXXVI.3
@@ -40,50 +48,60 @@ Sagaathaavaggo-Vaggo 第一 有偈品
     - Pahaana Sutta (Pahaanena)
     - 捨離
     - Giving up
-      `Translated from the Pali by Ven. Nyanaponika Thera. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-003.html>`__
-    - `雜17. 13. （四六八）(大2. 119 b) <../../../Taisho/T02/0099_017.htm>`__
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.003.nypo.html>`__ ]
+    - 雜17. 13. （四六八）(大2. 119 b)
   * - SN XXXVI.4
     - S iv 206
     - Paataala Sutta
     - 崖
     - The Bottomless Chasm
-      (1.`Translated from the Pali by Ven. Thanissaro Bhikkhu. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-004.html>`__)
-    - `雜17. 14 深嶮（四六九）(大2. 119 c) <../../../Taisho/T02/0099_017.htm>`__
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.004.nypo.html>`__ |
+      `Thanissaro <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.004.than.html>`__ ]
+    - 雜17. 14 深嶮（四六九）(大2. 119 c)
   * - SN XXXVI.5
     - S iv 207
     - Da.t.thabba Sutta
     - 當見
     - To Be Known
-      `Translated from the Pali by Ven. Nyanaponika Thera. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-005.html>`__
-    - `雜17. 12. 劍刺（四六七）(大2. 119 a) <../../../Taisho/T02/0099_017.htm>`__
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.005.nypo.html>`__ ]
+    - 雜17. 12. 劍刺（四六七）(大2. 119 a)
   * - SN XXXVI.6
     - S iv 207
     - Salla Sutta
     - 箭
     - The Arrow
-      (1.`Translated from the Pali by Ven. Thanissaro Bhikkhu. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-006.html>`__)
-    - `雜17. 15. 箭（四七○）(大2. 119 c) <../../../Taisho/T02/0099_017.htm>`__
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.nypo.html>`__ |
+      `Thanissaro <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html>`__ ]
+    - 雜17. 15. 箭（四七○）(大2. 119 c)
   * - SN XXXVI.7
     - S iv 210
     -  (Pa.thama)gela~n~a Sutta
     - 疾病(一)
     - The Sick Ward (1)
-      (1.`Translated from the Pali by Ven. Thanissaro Bhikkhu. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-007.html>`__)
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.007.nypo.html>`__ |
+      `Thanissaro <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.007.than.html>`__ ]
     - 2-5= D. 16 Mahaaparinibbaana S.2. 12-13; S. 47. 2 Soto
   * - SN XXXVI.8
     - S iv 213
     -  (Dutiya)gela~n~a Sutta
     - 疾病(二)
     - At the Sick Room (2)
-      `Translated from the Pali by Ven. Nyanaponika Thera. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-008a.html>`__)
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.008.nypo.html>`__ ]
     - 
 
   * - SN XXXVI.9
     - S iv 214
     - Anicca Sutta
     - 無常
-    - ) -- Impermanent
-      `Translated from the Pali by Ven. Nyanaponika Thera. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-009.html>`__)
+    - Impermanent
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.009.nypo.html>`__ ]
     - 
 
   * - SN XXXVI.10
@@ -91,14 +109,24 @@ Sagaathaavaggo-Vaggo 第一 有偈品
     - Phassamuulaka Sutta
     - 以觸為根本者
     - Rooted in Sense-impression
-      `Translated from the Pali by Ven. Nyanaponika Thera. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-010.html>`__)
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.010.nypo.html>`__ ]
     - 
 
 ----
 
 Rahogata-Vaggo 第二 獨坐品
+++++++++++++++++++++++++++
 
 .. list-table::
+  :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - SN XXXVI.11
     - S iv 216
@@ -177,8 +205,17 @@ Rahogata-Vaggo 第二 獨坐品
 ----
 
 A.t.thasatapariyaaya-Vaggo 第三 百八理品
+++++++++++++++++++++++++++++++++++++++++
 
 .. list-table::
+  :header-rows: 1
+
+  * - PTS 編次(No.)
+    - PTS 頁碼(Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - SN XXXVI.21
     - S iv 230
