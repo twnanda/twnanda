@@ -248,6 +248,7 @@ A.t.thasatapariyaaya-Vaggo 第三 百八理品
     -  A~n~natarabhikkhu (Bhikkhu) Sutta
     - 比丘
     - To a Monk
+
       [ `Thanissaro <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.023.than.html>`__ ]
     - `雜17. 22. 禪思（四七六）(大2. 121 c) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.24

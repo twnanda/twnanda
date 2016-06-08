@@ -60,7 +60,7 @@ Naanaatitthiya-Vaggo 第三 種種外道品
     - Naanaatitthiyasaavaka Sutta
     - 種種之外道師
     - Followers of Various Other Faiths
-      (`Translated by U Tin U (Myaung), Yangon <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/U_Tin_U/nanatitt.htm>`__)
+      (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/nanatitt.htm>`__)
     - 雜49. 15. 外道諸見（）(大2. 359 b);
 
 ----
