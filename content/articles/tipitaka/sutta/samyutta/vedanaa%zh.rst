@@ -133,14 +133,17 @@ Rahogata-Vaggo 第二 獨坐品
     - Rahogata Sutta
     - 獨坐
     - Alone
-      (1.`Translated from the Pali by Ven. Thanissaro Bhikkhu. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-011.html>`__)
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.011.nypo.html>`__ |
+      `Thanissaro <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.011.than.html>`__ ]
     - `雜17. 22. 禪思（四七六）(大2. 121 c) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.12
     - S iv 218
     - Pa.thama-aakaasa Sutta
     - 虛空(一)
     - In the Sky (1)
-      `Translated from the Pali by Ven. Nyanaponika Thera. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-012.html>`__)
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.012.nypo.html>`__ ]
     - `雜17. 16. 虛空（四七一）(大2. 120 b) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.13
     - S iv 219
@@ -155,14 +158,16 @@ Rahogata-Vaggo 第二 獨坐品
     - Agaara Sutta
     - 客舍
     - The Guest House
-      `Translated from the Pali by Ven. Nyanaponika Thera. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-014.html>`__)
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.014.nypo.html>`__ ]
     - `雜17. 17. 客舍（四七二）(大2. 120 c) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.15
     - S iv 219
     - Pa.thama-aananda (Santaka) Sutta
     - 止息(一)
     - To Ananda (1)
-      `Translated from the Pali by Ven. Nyanaponika Thera. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-015.html>`__)
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.015.nypo.html>`__ ]
     - `雜17. 19. 止息（四七四）(大2. 121 a) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.16
     - S iv 221
@@ -177,14 +182,14 @@ Rahogata-Vaggo 第二 獨坐品
     - Pa.thamasambahula (A.t.thaka) Sutta
     - 八支(一)
     - Eightfold (1)
-      In these two suttas the same questions and answers found in `SN XXXVI.15 <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-015.html>`__ are repeated in the case of "many monks." (sambahula-- many)
+      In these two suttas the same questions and answers found in `SN XXXVI.15 <http://www.accesstoinsight.org/tipitaka/sn/index.html#sn36.015.nypo>`__ are repeated in the case of "many monks." (sambahula-- many)
     - `雜17. 22. 禪思（四七五）(大2. 121 c) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.18
     - S iv 221
     -  Dutiyasambahula (A.t.thaka) Sutta
     - 八支(二)
     - Eightfold (2)
-      In these two suttas the same questions and answers found in `SN XXXVI.15 <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-015.html>`__ are repeated in the case of "many monks." (sambahula-- many)
+      In these two suttas the same questions and answers found in `SN XXXVI.15 <http://www.accesstoinsight.org/tipitaka/sn/index.html#sn36.015.nypo>`__ are repeated in the case of "many monks." (sambahula-- many)
     - 
 
   * - SN XXXVI.19
@@ -192,7 +197,9 @@ Rahogata-Vaggo 第二 獨坐品
     - Pa~ncaka'nga Sutta
     - 般奢康伽
     - Carpenter Fivetools
-      `Translated from the Pali by Ven. Nyanaponika Thera. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-019.html>`__)
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.019.nypo.html>`__ |
+      `Thanissaro <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.019.than.html>`__ ]
     - `雜17. 32. 優陀夷（四八五）(大2. 123 c); <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.20
     - S iv 228
@@ -222,14 +229,18 @@ A.t.thasatapariyaaya-Vaggo 第三 百八理品
     - Siivaka (Moliyasivaka) Sutta
     - 尸婆
     - To Sivaka
-      `Translated from the Pali by Ven. Nyanaponika Thera. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-021.html>`__)
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.021.nypo.html>`__ |
+      `Thanissaro <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.021.than.html>`__ ]
     - `雜35. 8. 尸婆（九七七）(大2. 252 c); <../../../Taisho/T02/0099_035.htm>`__
   * - SN XXXVI.22
     - S iv 231
     - A.t.thasata Sutta
     - 百八
     - One Hundred Eight Feelings
-      `Translated from the Pali by Ven. Nyanaponika Thera. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-022.html>`__)
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.022.nypo.html>`__ |
+      `Thanissaro <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.022.than.html>`__ ]
     - 
 
   * - SN XXXVI.23
@@ -237,6 +248,7 @@ A.t.thasatapariyaaya-Vaggo 第三 百八理品
     -  A~n~natarabhikkhu (Bhikkhu) Sutta
     - 比丘
     - To a Monk
+      [ `Thanissaro <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.023.than.html>`__ ]
     - `雜17. 22. 禪思（四七六）(大2. 121 c) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.24
     - S iv 233
@@ -290,7 +302,9 @@ A.t.thasatapariyaaya-Vaggo 第三 百八理品
     - Niraamisa Sutta
     - (清淨之)無食樂
     - Unworldly
-      `Translated from the Pali by Ven. Nyanaponika Thera. <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-031.html>`__)
+
+      [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.031.nypo.html>`__ |
+      `Thanissaro <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.031.than.html>`__ ]
     - `雜17. 30. (清淨之)無食樂（四八三）(大2. 123 a) <../../../Taisho/T02/0099_017.htm>`__
 
 ----
