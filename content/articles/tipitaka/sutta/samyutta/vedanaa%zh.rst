@@ -1,18 +1,18 @@
-Vedanaasa.myutta.m (Feeling 受相應)
+vedanāsaṃyuttaṃ (Feeling 受相應)
 ###################################
 
 :date: 2005-02-12
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Vedanaa.htm
 :tags: 巴利三藏相應部
 :category: 巴利三藏相應部
-:summary: Vedanaasa.myutta.m (Feeling 受相應)
+:summary: vedanāsaṃyuttaṃ (Feeling 受相應)
 
 
 .. contents:: 目錄
 
 ----
 
-Sagaathaavaggo-Vaggo 第一 有偈品
+sagāthāvaggo-Vaggo 第一 有偈品
 ++++++++++++++++++++++++++++++++
 
 .. list-table::
@@ -27,7 +27,7 @@ Sagaathaavaggo-Vaggo 第一 有偈品
 
   * - SN XXXVI.1
     - S iv 204
-    - Samaadhi Sutta
+    - samādhi Sutta
     - 禪(定)(三昧)
     - Concentration
 
@@ -45,7 +45,7 @@ Sagaathaavaggo-Vaggo 第一 有偈品
 
   * - SN XXXVI.3
     - S iv 205
-    - Pahaana Sutta (Pahaanena)
+    - pahāna Sutta (pahānena)
     - 捨離
     - Giving up
 
@@ -53,7 +53,7 @@ Sagaathaavaggo-Vaggo 第一 有偈品
     - 雜17. 13. （四六八）(大2. 119 b)
   * - SN XXXVI.4
     - S iv 206
-    - Paataala Sutta
+    - pātāla Sutta
     - 崖
     - The Bottomless Chasm
 
@@ -62,7 +62,7 @@ Sagaathaavaggo-Vaggo 第一 有偈品
     - 雜17. 14 深嶮（四六九）(大2. 119 c)
   * - SN XXXVI.5
     - S iv 207
-    - Da.t.thabba Sutta
+    - daṭṭhabba Sutta
     - 當見
     - To Be Known
 
@@ -79,13 +79,13 @@ Sagaathaavaggo-Vaggo 第一 有偈品
     - 雜17. 15. 箭（四七○）(大2. 119 c)
   * - SN XXXVI.7
     - S iv 210
-    -  (Pa.thama)gela~n~a Sutta
+    -  (paṭhama)gela~n~a Sutta
     - 疾病(一)
     - The Sick Ward (1)
 
       [ `Nyanaponika <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.007.nypo.html>`__ |
       `Thanissaro <http://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.007.than.html>`__ ]
-    - 2-5= D. 16 Mahaaparinibbaana S.2. 12-13; S. 47. 2 Soto
+    - 2-5= D. 16 mahāparinibbāna S.2. 12-13; S. 47. 2 Soto
   * - SN XXXVI.8
     - S iv 213
     -  (Dutiya)gela~n~a Sutta
@@ -106,7 +106,7 @@ Sagaathaavaggo-Vaggo 第一 有偈品
 
   * - SN XXXVI.10
     - S iv 215
-    - Phassamuulaka Sutta
+    - phassamūlaka Sutta
     - 以觸為根本者
     - Rooted in Sense-impression
 
@@ -139,7 +139,7 @@ Rahogata-Vaggo 第二 獨坐品
     - `雜17. 22. 禪思（四七六）(大2. 121 c) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.12
     - S iv 218
-    - Pa.thama-aakaasa Sutta
+    - paṭhama-ākāsa Sutta
     - 虛空(一)
     - In the Sky (1)
 
@@ -147,7 +147,7 @@ Rahogata-Vaggo 第二 獨坐品
     - `雜17. 16. 虛空（四七一）(大2. 120 b) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.13
     - S iv 219
-    - Dutiya-aakaasa Sutta
+    - Dutiya-ākāsa Sutta
     - 虛空(二)
     - In the Sky (2)
       This sutta repeats the prose section of the preceding sutta, without the verse.
@@ -155,7 +155,7 @@ Rahogata-Vaggo 第二 獨坐品
 
   * - SN XXXVI.14
     - S iv 219
-    - Agaara Sutta
+    - agāra Sutta
     - 客舍
     - The Guest House
 
@@ -163,7 +163,7 @@ Rahogata-Vaggo 第二 獨坐品
     - `雜17. 17. 客舍（四七二）(大2. 120 c) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.15
     - S iv 219
-    - Pa.thama-aananda (Santaka) Sutta
+    - paṭhama-ānanda (Santaka) Sutta
     - 止息(一)
     - To Ananda (1)
 
@@ -171,7 +171,7 @@ Rahogata-Vaggo 第二 獨坐品
     - `雜17. 19. 止息（四七四）(大2. 121 a) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.16
     - S iv 221
-    - Dutiya-aananda (Santaka) Sutta
+    - Dutiya-ānanda (Santaka) Sutta
     - 止息(二)
     - To Ananda (2)
       In this sutta the Buddha puts to Ven. Ananda the same questions as in the preceding sutta, and answers them in the same way.
@@ -179,14 +179,14 @@ Rahogata-Vaggo 第二 獨坐品
 
   * - SN XXXVI.17
     - S iv 221
-    - Pa.thamasambahula (A.t.thaka) Sutta
+    - paṭhamasambahula (aṭṭhaka) Sutta
     - 八支(一)
     - Eightfold (1)
       In these two suttas the same questions and answers found in `SN XXXVI.15 <http://www.accesstoinsight.org/tipitaka/sn/index.html#sn36.015.nypo>`__ are repeated in the case of "many monks." (sambahula-- many)
     - `雜17. 22. 禪思（四七五）(大2. 121 c) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.18
     - S iv 221
-    -  Dutiyasambahula (A.t.thaka) Sutta
+    -  Dutiyasambahula (aṭṭhaka) Sutta
     - 八支(二)
     - Eightfold (2)
       In these two suttas the same questions and answers found in `SN XXXVI.15 <http://www.accesstoinsight.org/tipitaka/sn/index.html#sn36.015.nypo>`__ are repeated in the case of "many monks." (sambahula-- many)
@@ -194,7 +194,7 @@ Rahogata-Vaggo 第二 獨坐品
 
   * - SN XXXVI.19
     - S iv 223
-    - Pa~ncaka'nga Sutta
+    - pañcaka'nga Sutta
     - 般奢康伽
     - Carpenter Fivetools
 
@@ -211,7 +211,7 @@ Rahogata-Vaggo 第二 獨坐品
 
 ----
 
-A.t.thasatapariyaaya-Vaggo 第三 百八理品
+aṭṭhasatapariyāya-Vaggo 第三 百八理品
 ++++++++++++++++++++++++++++++++++++++++
 
 .. list-table::
@@ -226,7 +226,7 @@ A.t.thasatapariyaaya-Vaggo 第三 百八理品
 
   * - SN XXXVI.21
     - S iv 230
-    - Siivaka (Moliyasivaka) Sutta
+    - sīvaka (Moliyasivaka) Sutta
     - 尸婆
     - To Sivaka
 
@@ -235,7 +235,7 @@ A.t.thasatapariyaaya-Vaggo 第三 百八理品
     - `雜35. 8. 尸婆（九七七）(大2. 252 c); <../../../Taisho/T02/0099_035.htm>`__
   * - SN XXXVI.22
     - S iv 231
-    - A.t.thasata Sutta
+    - aṭṭhasata Sutta
     - 百八
     - One Hundred Eight Feelings
 
@@ -245,7 +245,7 @@ A.t.thasatapariyaaya-Vaggo 第三 百八理品
 
   * - SN XXXVI.23
     - S iv 232
-    -  A~n~natarabhikkhu (Bhikkhu) Sutta
+    -  aññatarabhikkhu (Bhikkhu) Sutta
     - 比丘
     - To a Monk
 
@@ -253,40 +253,40 @@ A.t.thasatapariyaaya-Vaggo 第三 百八理品
     - `雜17. 22. 禪思（四七六）(大2. 121 c) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.24
     - S iv 233
-    - Pubba (Pubbe~naa.na) Sutta
+    - Pubba (pubbeñāṇa) Sutta
     - 宿智
     - Knowledge of the Past
     - `雜17. 20. 先時（四七五）(大2. 121 b) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.25
     - S iv 233
-    - ~Naa.na Sutta
+    - ñāṇa Sutta
     - (智)
     - Knowledge
     - 
 
   * - SN XXXVI.26
     - S iv 234
-    - Sambahulabhikkhu (Bhikkhunaa) Sutta
+    - Sambahulabhikkhu (bhikkhunā) Sutta
     - (諸)比丘
     - To A Number of Bhikkhus
     - `雜17. 24. 比丘（四七九）(大2. 122 a) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.27
     - S iv 234
-    - Pa.thamasama.nabraahma.na Sutta
+    - paṭhamasamaṇabrāhmaṇa Sutta
     - 沙門婆羅門(一)
     - Contemplatives and Brahmans (1)
       These suttas repeat paragraphs 3-4 of `SN XXXVI.15 <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-015.html#para3>`__; only the interlocutors differ.
     - `雜17. 26. 沙門婆羅門（四八○）(大2. 122 a) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.28
     - S iv 235
-    - Dutiyasama.nabraahma.na Sutta
+    - dutiyasamaṇabrāhmaṇa Sutta
     - 沙門婆羅門(二)
     - Contemplatives and Brahmans (2)
       These suttas repeat paragraphs 3-4 of `SN XXXVI.15 <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-015.html#para3>`__; only the interlocutors differ.
     - `雜17. 26. 沙門婆羅門（四八○）(大2. 122 a) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.29
     - S iv 235
-    - Tatiyasama.nabraahma.na Sutta
+    - tatiyasamaṇabrāhmaṇa Sutta
     - 沙門婆羅門(三)
     - Contemplatives and Brahmans (3)
       These suttas repeat paragraphs 3-4 of `SN XXXVI.15 <../../../AccessToInsight/html/canon/sutta/samyutta/sn36-015.html#para3>`__; only the interlocutors differ.
@@ -300,7 +300,7 @@ A.t.thasatapariyaaya-Vaggo 第三 百八理品
     - `雜17. 30. 清淨(之無食樂)（四八三）(大2. 123 a) <../../../Taisho/T02/0099_017.htm>`__
   * - SN XXXVI.31
     - S iv 235
-    - Niraamisa Sutta
+    - nirāmisa Sutta
     - (清淨之)無食樂
     - Unworldly
 

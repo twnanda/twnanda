@@ -1,4 +1,4 @@
-Devataasa.myutta.m (Devas 諸天相應)
+devatāsaṃyuttaṃ (Devas 諸天相應)
 ###################################
 
 :date: 2004-07-31
@@ -6,20 +6,20 @@ Devataasa.myutta.m (Devas 諸天相應)
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Devataa.htm
 :tags: 巴利三藏相應部
 :category: 巴利三藏相應部
-:summary: Devataasa.myutta.m (Devas 諸天相應)
+:summary: devatāsaṃyuttaṃ (Devas 諸天相應)
 
 .. contents:: 目錄
 
 ----
 
-Na.la-Vaggo 第一 葦品
+naḷa-Vaggo 第一 葦品
 +++++++++++++++++++++
 
 .. list-table::
 
   * - SN I.1
     - S i 1
-    - Ogha-tara.na Sutta
+    - Ogha-taraṇa Sutta
     - 瀑流
     - Crossing Over the Flood
       (1. `Translated from the Pali by Ven. Thanissaro Bhikkhu. <../../../AccessToInsight/html/canon/sutta/samyutta/sn01-001.html>`__)
@@ -33,7 +33,7 @@ Na.la-Vaggo 第一 葦品
     - `雜48. 2.（一二六八）(大2. 348 b) <http://myweb.ncku.edu.tw/~lsn46/Taisho/T02/0099_048.htm>`__;
   * - SN I.3
     - S i 2
-    - Upaniiya Sutta
+    - upanīya Sutta
     - 引導者
     - Coming of Death
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/nalavagg.htm#3>`__)
@@ -54,35 +54,35 @@ Na.la-Vaggo 第一 葦品
     - 雜36. 10. 思惟（）(大2. 262 c);
   * - SN I.6
     - S i 3
-    - Jaagara Sutta
+    - jāgara Sutta
     - 不眠
     - Wakeful Factors
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/nalavagg.htm#6>`__)
     - 雜36. 11. 睡寤（）(大2. 262 c);
   * - SN I.7
     - S i 3
-    - Appa.tividita Sutta
+    - appaṭividita Sutta
     - 不了知
     - Lack of Insight
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/nalavagg.htm#7>`__)
     - 雜22. 4. 不善知（）(大2. 154 a);
   * - SN I.8
     - S i 4
-    - Susammu.t.tha Sutta
+    - susammuṭṭha Sutta
     - 迷亂
     - Forgetfulness of the Ariya Truths
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/nalavagg.htm#8>`__)
     - 雜22. 5. 善調（）(大2. 154 b);
   * - SN I.9
     - S i 4
-    - Maanakaama Sutta
+    - mānakāma Sutta
     - 慢之欲
     - Being Conceited
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/nalavagg.htm#9>`__)
     - 雜36. 4. 憍慢（）(大2. 261 a);
   * - SN I.10
     - S i 4
-    - Ara~n~na Sutta
+    - arañña Sutta
     - 住森林
     - `Wilderness <../../../AccessToInsight/html/canon/sutta/samyutta/sn01-010.html>`__
     - 雜36. 3. 阿練（）(大2. 260 c);(阿蘭若住)
@@ -123,14 +123,14 @@ Nandana-Vaggo 第二 歡喜園品
     - 雜36. 15. 剎利（）(大2. 263 b)
   * - SN I.15
     - S i 7
-    - Sa.namaana Sutta
+    - saṇamāna Sutta
     - 大林鳴(寂靜身)
     - Forest Noises
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/sanamana.htm>`__)
     - 雜50. 11. 安住（）(大2. 368 b);
   * - SN I.16
     - S i 7
-    - Niddaa tandii Sutta
+    - niddā tandī Sutta
     - 睡眠、懶惰
     - Sleepiness and Sloth
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/niddatan.htm>`__)
@@ -152,7 +152,7 @@ Nandana-Vaggo 第二 歡喜園品
     - 雜22. 3. 慚愧（）(大2. 154 a);
   * - SN I.19
     - S i 8
-    - Ku.tikaa Sutta
+    - kuṭikā Sutta
     - 茅屋
     - Simile of the Hut
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/kutika.htm>`__)
@@ -190,14 +190,14 @@ Satti-Vaggo 第三 劍品
     - 雜48. 9. 觸（）(大2. 350 c);
   * - SN I.23
     - S i 13
-    - Ja.taa Sutta
+    - jaṭā Sutta
     - 纏縺
     - Entanglement of Craving
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/jati.htm>`__)
     - 雜22. 24. 髻髮（）(大2. 160 b);
   * - SN I.24
     - S i 14
-    - Manonivaara.na Sutta
+    - manonivāraṇa Sutta
     - 制止心
     - Restraining the Mind
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/manoniva.htm>`__)
@@ -218,14 +218,14 @@ Satti-Vaggo 第三 劍品
     - 雜49. 17. 照明（）(大2. 360 b);
   * - SN I.27
     - S i 15
-    - Saraa Sutta
+    - sarā Sutta
     - 流
     - Expanse of Water
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/sara.htm>`__)
     - 雜22. 26. 池水（）(大2. 160 c);
   * - SN I.28
     - S i 15
-    - Mahaddhanaa Sutta
+    - mahaddhanā Sutta
     - 大富
     - Persons of Great wealth
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/mahadana.htm>`__)
@@ -239,7 +239,7 @@ Satti-Vaggo 第三 劍品
     - 雜22. 13. 四輪轉（）(大2. 156 a);
   * - SN I.30
     - S i 16
-    - E.nija'ngha Sutta
+    - eṇija'ngha Sutta
     - 靡鹿之[跳-兆+尃]
     - Discourse Beginning with the Words 'Enijangham'(A kind of antelope)
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/enijangh.htm>`__)
@@ -247,7 +247,7 @@ Satti-Vaggo 第三 劍品
 
 ----
 
-Satullapakaayika-Vaggo 第四 沙睹羅巴天群品
+satullapakāyika-Vaggo 第四 沙睹羅巴天群品
 ++++++++++++++++++++++++++++++++++++++++++
 
 .. list-table::
@@ -268,7 +268,7 @@ Satullapakaayika-Vaggo 第四 沙睹羅巴天群品
     - 雜48. 22. 慳貪（）(大2. 354 c);
   * - SN I.33
     - S i 20
-    - Saadhu Sutta
+    - sādhu Sutta
     - 善哉
     - Praise of Charity, Morality and Comprehension of Nibbana
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/sadhu.htm>`__)
@@ -283,14 +283,14 @@ Satullapakaayika-Vaggo 第四 沙睹羅巴天群品
     - 雜48. 20. 種別（）(大2. 354 b);
   * - SN I.35
     - S i 23
-    - Ujjhaanasa~n~ni Sutta
+    - ujjhānasaññi Sutta
     - 嫌責天
     - the Censorious Devas
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/ujjhanas.htm>`__)
     - 雜48. 11. 嫌責（）(大2. 351 a);
   * - SN I.36
     - S i 25
-    - Saddhaa Sutta
+    - saddhā Sutta
     - 信
     - Faith
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/saddha.htm>`__)
@@ -311,14 +311,14 @@ Satullapakaayika-Vaggo 第四 沙睹羅巴天群品
     - 雜48. 23. 八天（）(大2. 355 a);
   * - SN I.39
     - S i 29
-    - Pa.thamapajjunnadhiitu Sutta
+    - paṭhamapajjunnadhītu Sutta
     - 雲天公主(其一)
     - Utterance of the Rain-God's Daughter(The First Discourse)
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/ppajjuna.htm>`__)
     - 雜48. 8. 波純提女（）(大2. 350 a);
   * - SN I.40
     - S i 30
-    - Dutiyapajjunnadhiitu Sutta
+    - dutiyapajjunnadhītu Sutta
     - 雲天公主(其二)
     - Utterance of the Rain-Gods Daughter(The Second Discourse)
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/dpajjuna.htm>`__)
@@ -326,21 +326,21 @@ Satullapakaayika-Vaggo 第四 沙睹羅巴天群品
 
 ----
 
-AAditta-Vaggo 第五 燃燒品
+āditta-Vaggo 第五 燃燒品
 +++++++++++++++++++++++++
 
 .. list-table::
 
   * - SN I.41
     - S i 31
-    - AAditta Sutta
+    - āditta Sutta
     - 正在燒
     - (The House) On Fire
       (`Translated from the Pali by Ven. Thanissaro Bhikkhu. <../../../AccessToInsight/html/canon/sutta/samyutta/sn01-041.html>`__)
     - 參:別雜5. 4（）(大2. 403)
   * - SN I.42
     - S i 32
-    - Ki.mdada Sutta
+    - kiṃdada Sutta
     - 以與何
     - (The House) On Fire
       (`Translated from the Pali by Ven. Thanissaro Bhikkhu. <../../../AccessToInsight/html/canon/sutta/samyutta/sn01-042.html>`__)
@@ -354,7 +354,7 @@ AAditta-Vaggo 第五 燃燒品
     - 雜36. 7. 生歡喜（）(大2. 261 c);
   * - SN I.44
     - S i 32
-    - Ekamuula Sutta
+    - ekamūla Sutta
     - 一根
     - That Which Has One Root Cause
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/ekamula.htm>`__)
@@ -365,10 +365,10 @@ AAditta-Vaggo 第五 燃燒品
     - 完人
     - Possessor of Numerous Worthy Epithets
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/anoma.htm>`__)
-    - 參: Suttanipaata (經集) 177, 153
+    - 參: suttanipāta (經集) 177, 153
   * - SN I.46
     - S i 33
-    - Accharaa Sutta
+    - accharā Sutta
     - 天女
     - Celestial Park
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/acchara.htm>`__)
@@ -396,7 +396,7 @@ AAditta-Vaggo 第五 燃燒品
     - 
   * - SN I.50
     - S i 35
-    - Gha.tiikaara Sutta
+    - ghaṭīkāra Sutta
     - 陶師
     - Ghatikara
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/ghatika.htm>`__)
@@ -404,21 +404,21 @@ AAditta-Vaggo 第五 燃燒品
 
 ----
 
-Jaraa-Vaggo 第六 老品
+jarā-Vaggo 第六 老品
 +++++++++++++++++++++
 
 .. list-table::
 
   * - SN I.51
     - S i 36
-    - Jaraa Sutta
+    - jarā Sutta
     - 老
     - Old Age
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/jara.htm>`__)
     - 雜36. 24. 持戒至老（）(大2. 265 b);
   * - SN I.52
     - S i 36
-    - Ajarasaa Sutta
+    - ajarasā Sutta
     - 依不老
     - Non-deterioration
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/ajarasa.htm>`__)
@@ -438,7 +438,7 @@ Jaraa-Vaggo 第六 老品
     - 雜36. 13. 義利（）(大2. 263 a);
   * - SN I.55
     - S i 37
-    - Pa.thamajana Sutta
+    - paṭhamajana Sutta
     - 生因(一)
     - First Discourse on Cause of Rebirth
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/pjana.htm>`__)
@@ -486,7 +486,7 @@ Addha-Vaggo 第七 勝品
 
   * - SN I.61
     - S i 39
-    - Naama Sutta
+    - nāma Sutta
     - 名
     - 
     - 雜36. 29. 最上勝（）(大2. 266 a);
@@ -498,13 +498,13 @@ Addha-Vaggo 第七 勝品
     - 雜36. 18. 意（）(大2. 264 a);
   * - SN I.63
     - S i 39
-    - Ta.nhaa Sutta
+    - taṇhā Sutta
     - 渴愛
     - 
     - 
   * - SN I.64
     - S i 39
-    - Sa.myojana Sutta
+    - saṃyojana Sutta
     - 結
     - 
     - 雜36. 19. 縛（）(大2. 264 b);
@@ -522,7 +522,7 @@ Addha-Vaggo 第七 勝品
     - 後半 Thera G. 448
   * - SN I.67
     - S i 40
-    - U.d.dita Sutta
+    - uḍḍita Sutta
     - 為繼
     - 
     - 
@@ -534,7 +534,7 @@ Addha-Vaggo 第七 勝品
     - 雜36. 20. 覆（）(大2. 264 b);
   * - SN I.69
     - S i 40
-    - Icchaa Sutta
+    - icchā Sutta
     - 欲望
     - Desire
       (`Translated from the Pali by Ven. Thanissaro Bhikkhu. <../../../AccessToInsight/html/canon/sutta/samyutta/sn01-069.html>`__)
@@ -548,14 +548,14 @@ Addha-Vaggo 第七 勝品
 
 ----
 
-Chetvaa-Vaggo 第八 斷品
+chetvā-Vaggo 第八 斷品
 +++++++++++++++++++++++
 
 .. list-table::
 
   * - SN I.71
     - S i 41
-    - Chetvaa Sutta
+    - chetvā Sutta
     - 殺
     - Having Killed
       (`Translated from the Pali by Ven. Thanissaro Bhikkhu. <../../../AccessToInsight/html/canon/sutta/samyutta/sn01-071.html>`__)
@@ -574,19 +574,19 @@ Chetvaa-Vaggo 第八 斷品
     - 雜36. . 信（）(大2. );
   * - SN I.74
     - S i 42
-    - Vu.t.thi Sutta
+    - vuṭṭhi Sutta
     - 雨
     - 
     - 雜. . （）(大2. );
   * - SN I.75
     - S i 42
-    - Bhiitaa Sutta
+    - bhītā Sutta
     - 恐怖
     - 
     - 雜. . （）(大2. );
   * - SN I.76
     - S i 43
-    - Najiirati Sutta
+    - najīrati Sutta
     - 不老
     - 
     - 雜. . （）(大2. );
@@ -598,13 +598,13 @@ Chetvaa-Vaggo 第八 斷品
     - 雜. . （）(大2. );
   * - SN I.78
     - S i 44
-    - Kaama Sutta
+    - kāma Sutta
     - 欲愛
     - 
     - 雜. . （）(大2. );
   * - SN I.79
     - S i 44
-    - Paatheyya Sutta
+    - pātheyya Sutta
     - 食糧
     - 
     - 雜. . （）(大2. );
@@ -616,7 +616,7 @@ Chetvaa-Vaggo 第八 斷品
     - 雜. . （）(大2. );
   * - SN I.81
     - S i 44
-    - Ara.na Sutta
+    - araṇa Sutta
     - 無諍
     - 
     - 雜. . （）(大2. );

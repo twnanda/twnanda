@@ -1,22 +1,18 @@
-Devaputtasa.myutta.m (Sons of the Devas 天子相應)
+devaputtasaṃyuttaṃ (Sons of the Devas 天子相應)
 #################################################
 
 :date: 2004-08-21
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Devaputta.htm
 :tags: 巴利三藏相應部
 :category: 巴利三藏相應部
-:summary: Devaputtasa.myutta.m (Sons of the Devas 天子相應)
+:summary: devaputtasaṃyuttaṃ (Sons of the Devas 天子相應)
 
-
-.. list-table::
-
-  * - `Pa.thama-Vaggo <#Pa.thama-Vaggo>`__
-    - `Anaathapi.n.dika-Vaggo <#Anaathapi.n.dika-Vaggo>`__
-    - `Naanaatitthiya-Vaggo <#Naanaatitthiya-Vaggo>`__
+.. contents:: 目錄
 
 ----
 
-Pa.thama-Vaggo 第一 迦葉品
+paṭhama-Vaggo 第一 迦葉品
++++++++++++++++++++++++++
 
 .. list-table::
 
@@ -29,7 +25,7 @@ Pa.thama-Vaggo 第一 迦葉品
     - 雜22. 8. 月天子（）(大2. 155 a);
   * - SN II.10
     - S i 51
-    - Suuriya Sutta
+    - sūriya Sutta
     - 日天子
     - The Sun Deity's Prayer for Protection
       `Translated from the Pali by Ven. Piyadassi Thera. <http://www.accesstoinsight.org/tipitaka/sn/sn02/sn02.010.piya.html>`__)
@@ -37,7 +33,8 @@ Pa.thama-Vaggo 第一 迦葉品
 
 ----
 
-Anaathapi.n.dika-Vaggo 第二 給孤獨品
+anāthapiṇḍika-Vaggo 第二 給孤獨品
++++++++++++++++++++++++++++++++++
 
 .. list-table::
 
@@ -51,13 +48,14 @@ Anaathapi.n.dika-Vaggo 第二 給孤獨品
 
 ----
 
-Naanaatitthiya-Vaggo 第三 種種外道品
+nānātitthiya-Vaggo 第三 種種外道品
+++++++++++++++++++++++++++++++++++
 
 .. list-table::
 
   * - SN II. ?
     - S i 65
-    - Naanaatitthiyasaavaka Sutta
+    - nānātitthiyasāvaka Sutta
     - 種種之外道師
     - Followers of Various Other Faiths
       (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/nanatitt.htm>`__)
