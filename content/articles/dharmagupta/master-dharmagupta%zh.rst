@@ -16,7 +16,7 @@
 - `涅槃的高速公路 <{filename}/extra/authors/dharmagupta/nibbana.htm>`_
 - `涅槃的北二高--清淨道論導讀 <{filename}/extra/authors/dharmagupta/ntro-vis.htm>`_
 - `涅槃的中二高 <{filename}/extra/authors/dharmagupta/Buddhism-for-the-Tricky.html>`_ (Nov. '07)
-- 涅槃的捷運
+- `涅槃的捷運 <{filename}/extra/authors/dharmagupta/Buddhism-for-Explorer.html>`_
 - 護法法師於嘉義新雨道場「靜坐班」之開示：含
 
 - 《內觀禪修法》。
