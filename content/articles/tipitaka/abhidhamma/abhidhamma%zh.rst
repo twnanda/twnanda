@@ -18,7 +18,7 @@ Abhidhammapiṭaka 論藏
 3. Dhatu-katha 界說論 (Dhaatu-kathaa)[with Commentary(Abr.=Dhk)]
    (Discussion with Reference to the Elements)
 
-4. `Puggala-pabbatti 人施設論 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Abhidhamma/Puggala-pannatti/Puggala-pannatti.html>`_ (Puggala-pa~n~natti)(Abr.=Pp)
+4. `Puggala-pabbatti 人施設論 <{filename}/extra/authors/dhammavihaarii/puggala-pannatti/Puggala-pannatti.html>`_ (Puggala-pa~n~natti)(Abr.=Pp)
    [Designation of Human-type(PTS)] or (Description of Individuals)
 
 5. Katha-vatthu 論事 (Kathaa-vatthu)(Abr.=KV)

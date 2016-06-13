@@ -21,10 +21,10 @@
 
 - (南傳巴利語) `大念處經 (念住大經) Mahāsatipaṭṭhānasuttaṃ <{filename}/articles/tipitaka/sutta/diigha/dn22/dn22%zh.rst>`__
 
-- 《清淨道論導讀-- 涅槃的北二高》：（護法法師（Dharmagupta）與觀淨法師合著）
+- `《清淨道論導讀-- 涅槃的北二高》 <{filename}/extra/authors/dharmagupta/ntro-vis.htm>`_ ：（ `護法法師 <{filename}/articles/dharmagupta/master-dharmagupta%zh.rst>`__ （Dharmagupta）與觀淨法師合著）
 
 - `《清淨道論》 <{category}清淨道論>`_ （南傳上座部佛教重要著作！）
 
-- 《攝阿毗達摩義論》（南傳上座部佛教重要著作！）
+- `《攝阿毗達摩義論》 <{filename}../anya/abhidhammattha-sangaha%zh.rst>`_ （南傳上座部佛教重要著作！）
 
-- 小部經典選譯
+- `小部經典選譯 <{filename}/extra/authors/nanda/man-o-r.htm>`_

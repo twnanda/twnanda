@@ -70,7 +70,7 @@
 
 - 訊息公告
 
-  * 呼籲安全地保存佛陀的舍利
+  * `呼籲安全地保存佛陀的舍利 <{filename}/extra/relics-of-the-buddha/Relics_of_the_Buddha.html>`_
   * `【新譯「尊者阿姜 曼傳」與「尊者阿姜 高傳」】相關訊息 <{filename}/articles/uncategorized/open-distribution-the-biography-ven-acariya-mun%zh.rst>`_
 
 - `文章選讀 <{filename}/articles/uncategorized/paper-selected%zh.rst>`_
