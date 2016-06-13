@@ -546,7 +546,7 @@
 校註：
 ------
 
-.. [NandFn18-01] 〔校註18-001〕(研讀; c.f. `gatha050 <{filename}dhA-chap04%zh.rst#gatha050>`__ ).
+.. [NandFn18-01] 〔校註18-001〕(研讀; c.f. `gatha050 <{filename}dhA-chap04%zh.rst#Dhp050>`__ ).
 
 ---------------------------
 

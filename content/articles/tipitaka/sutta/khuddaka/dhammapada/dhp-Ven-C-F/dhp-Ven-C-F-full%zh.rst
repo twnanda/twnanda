@@ -2179,7 +2179,7 @@
 - | 332 Sukhā matteyyatā loke, atho petteyyatā sukhā;
   | Sukhā sāmaññatā loke, atho brahmaññatā sukhā.
   | 於世間事奉母親是樂，事奉父親同樣也是樂。
-  | 於世間事奉沙門是樂，事奉婆羅門一樣是樂。51
+  | 於世間事奉沙門是樂，事奉婆羅門一樣是樂。 [CFFn23-01]_
 - | 333 Sukhaṃ yāva jarā sīlaṃ, sukhā saddhā patiṭṭhitā;
   | Sukho paññāya paṭilābho, pāpānaṃ akaraṇaṃ sukhaṃ.
   | 持戒到老是樂，信心穩立是樂，

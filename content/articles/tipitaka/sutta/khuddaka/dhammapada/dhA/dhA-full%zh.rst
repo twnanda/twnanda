@@ -10343,7 +10343,7 @@
 
 .. [LChnFn18-07] 〔註18-07〕  原文 Papanca有虛妄、障礙等意，這裡特別指愛（Tanha），見（Ditthi），慢（Mano）而言。 
 
-.. [NandFn18-01] 〔校註18-001〕(研讀; c.f. `gatha050 <{filename}dhA-chap04%zh.rst#gatha050>`__ ).
+.. [NandFn18-01] 〔校註18-001〕(研讀; c.f. `gatha050 <{filename}dhA-chap04%zh.rst#Dhp050>`__ ).
 
 .. [LChnFn19-01] 〔註19-01〕  「法住」（Dharmattha）乃依法而行，安住於奉之意。亦可譯為「奉法」。 
 

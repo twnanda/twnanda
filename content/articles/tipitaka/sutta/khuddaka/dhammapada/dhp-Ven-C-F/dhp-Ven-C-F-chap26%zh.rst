@@ -102,7 +102,7 @@
   | 
   | 並非因從母胎出生，我就稱他為婆羅門。
   | 如果他還是有障礙，他只是個名字尊者。
-  | 對無障礙無執取者，我才稱他為婆羅門。62
+  | 對無障礙無執取者，我才稱他為婆羅門。 [CFFn26-06]_
   | 
 - | 397 Sabbasaṃyojanaṃ chetvā, yo ve na paritassati;
   | Saṅgātigaṃ visaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.
