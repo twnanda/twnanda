@@ -13,7 +13,7 @@
 - `尊者的足跡－南傳法句經的故事。 <{category}尊者的足跡－南傳法句經的故事。>`_
 - `心靈法語－ DHARMAGUPTA 。 <{filename}/extra/authors/dharmagupta/vipasana.htm>`_
 - `靜坐實用手冊－－你在嗎？覺知嗎？心去那裡了？ <{filename}/extra/authors/dharmagupta/meditation.htm>`_
-- 涅槃的高速公路
+- `涅槃的高速公路 <{filename}/extra/authors/dharmagupta/nibbana.htm>`_
 - `涅槃的北二高--清淨道論導讀 <{filename}/extra/authors/dharmagupta/ntro-vis.htm>`_
 - 涅槃的中二高 (Nov. '07)
 - 涅槃的捷運
