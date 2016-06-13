@@ -4,7 +4,7 @@
 
 :date: 2016-05-29 18:30
 :modified: 2016-05-31 21:30
-:tags: 法句經對讀, 心品, Dhp, Dhammapada, Cittavaggo, 
+:tags: 法句經, 法句經對讀, 心品, Dhp, Dhammapada, Cittavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Mind
 :category: 巴利三藏小部

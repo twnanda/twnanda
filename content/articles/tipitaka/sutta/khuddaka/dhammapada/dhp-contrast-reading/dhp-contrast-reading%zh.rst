@@ -2,8 +2,8 @@
 ############################################
 
 :date: 2016-02-28 17:30
-:modified: 2016-06-02 18:00
-:tags: 法句經對讀, Dhp, Dhammapada, Dhammapadapāḷi, 法集要頌, 法句譬喻經, 出曜經, , Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, The Path of Dhamma 
+:modified: 2016-06-13 12:00
+:tags: 法句經, 法句經對讀, Dhp, Dhammapada, Dhammapadapāḷi, 法集要頌, 法句譬喻經, 出曜經, , Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, The Path of Dhamma 
 :category: 巴利三藏小部
 :summary: 法句經多譯本對讀(段層次), Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom
 
@@ -43,8 +43,8 @@
      - `2. Appamādavaggo (Dhp.21-32) <{filename}dhp-contrast-reading-chap02%zh.rst>`__
      - `3. Cittavaggo (Dhp.33-43) <{filename}dhp-contrast-reading-chap03%zh.rst>`__
      - `4. Pupphavaggo (Dhp.44-59) <{filename}dhp-contrast-reading-chap04%zh.rst>`__
-     - `5. Bālavaggo (Dhp.60-75) <{filename}../dhp-chap05%zh.rst>`__
-     - `6. Paṇḍitavaggo (Dhp.76-89) <{filename}../dhp-chap06%zh.rst>`__
+     - `5. Bālavaggo (Dhp.60-75) <{filename}dhp-contrast-reading-chap05%zh.rst>`__
+     - `6. Paṇḍitavaggo (Dhp.76-89) <{filename}dhp-contrast-reading-chap06%zh.rst>`__
    
    * - 1. 雙品 (The Pairs)
      - 2. 不放逸品 (Heedfulness)
@@ -57,12 +57,12 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `7. Arahantavaggo (Dhp.90-99) <{filename}../dhp-chap07%zh.rst>`_
-     - `8. Sahassavaggo (Dhp.100-115) <{filename}../dhp-chap08%zh.rst>`_
-     - `9. Pāpavaggo (Dhp.116-128) <{filename}../dhp-chap09%zh.rst>`_
-     - `10. Daṇḍavaggo (Dhp.129-145) <{filename}../dhp-chap10%zh.rst>`_
-     - `11. Jarāvaggo (Dhp.146-156) <{filename}../dhp-chap11%zh.rst>`_
-     - `12. Attavaggo (Dhp.157-166) <{filename}../dhp-chap12%zh.rst>`_
+   * - `7. Arahantavaggo (Dhp.90-99) <{filename}dhp-contrast-reading-chap07%zh.rst>`_
+     - `8. Sahassavaggo (Dhp.100-115) <{filename}dhp-contrast-reading-chap08%zh.rst>`_
+     - `9. Pāpavaggo (Dhp.116-128) <{filename}dhp-contrast-reading-chap09%zh.rst>`_
+     - `10. Daṇḍavaggo (Dhp.129-145) <{filename}dhp-contrast-reading-chap10%zh.rst>`_
+     - `11. Jarāvaggo (Dhp.146-156) <{filename}dhp-contrast-reading-chap11%zh.rst>`_
+     - `12. Attavaggo (Dhp.157-166) <{filename}dhp-contrast-reading-chap12%zh.rst>`_
 
    * - 7. 阿羅漢品 (The Arahat)
      - 8. 千品 (The Thousands)
@@ -75,12 +75,12 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `13. Lokavaggo (Dhp.167-178) <{filename}../dhp-chap13%zh.rst>`_
-     - `14. Buddhavaggo (Dhp.179-196) <{filename}../dhp-chap14%zh.rst>`_
-     - `15. Sukhavaggo (Dhp.197-208) <{filename}../dhp-chap15%zh.rst>`_
-     - `16. Piyavaggo (Dhp.209~220) <{filename}../dhp-chap16%zh.rst>`_
-     - `17. Kodhavaggo (Dhp.221-234) <{filename}../dhp-chap17%zh.rst>`_
-     - `18. Malavaggo (Dhp.235-255) <{filename}../dhp-chap18%zh.rst>`_
+   * - `13. Lokavaggo (Dhp.167-178) <{filename}dhp-contrast-reading-chap13%zh.rst>`_
+     - `14. Buddhavaggo (Dhp.179-196) <{filename}dhp-contrast-reading-chap14%zh.rst>`_
+     - `15. Sukhavaggo (Dhp.197-208) <{filename}dhp-contrast-reading-chap15%zh.rst>`_
+     - `16. Piyavaggo (Dhp.209~220) <{filename}dhp-contrast-reading-chap16%zh.rst>`_
+     - `17. Kodhavaggo (Dhp.221-234) <{filename}dhp-contrast-reading-chap17%zh.rst>`_
+     - `18. Malavaggo (Dhp.235-255) <{filename}dhp-contrast-reading-chap18%zh.rst>`_
 
    * - 13. 世品 (世間品 The World)
      - 14. 佛陀品 (The Buddha)
@@ -93,12 +93,12 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `19. Dhammaṭṭhavaggo (Dhp.256-272) <{filename}../dhp-chap19%zh.rst>`_
-     - `20 Maggavaggo (Dhp.273-289) <{filename}../dhp-chap20%zh.rst>`_
-     - `21. Pakiṇṇakavaggo (Dhp.290-305) <{filename}../dhp-chap21%zh.rst>`_
-     - `22. Nirayavaggo (Dhp.306-319) <{filename}../dhp-chap22%zh.rst>`_
-     - `23. Nāgavaggo (Dhp.320-333) <{filename}../dhp-chap23%zh.rst>`_
-     - `24. Taṇhāvaggo (Dhp.334-359) <{filename}../dhp-chap24%zh.rst>`_
+   * - `19. Dhammaṭṭhavaggo (Dhp.256-272) <{filename}dhp-contrast-reading-chap19%zh.rst>`_
+     - `20. Maggavaggo (Dhp.273-289) <{filename}dhp-contrast-reading-chap20%zh.rst>`_
+     - `21. Pakiṇṇakavaggo (Dhp.290-305) <{filename}dhp-contrast-reading-chap21%zh.rst>`_
+     - `22. Nirayavaggo (Dhp.306-319) <{filename}dhp-contrast-reading-chap22%zh.rst>`_
+     - `23. Nāgavaggo (Dhp.320-333) <{filename}dhp-contrast-reading-chap23%zh.rst>`_
+     - `24. Taṇhāvaggo (Dhp.334-359) <{filename}dhp-contrast-reading-chap24%zh.rst>`_
 
    * - 19. 法住品 (The Just)
      - 20. 道品 (The Path)
@@ -111,8 +111,8 @@
    :widths: 16 16 68
    :header-rows: 1
 
-   * - `25. Bhikkhuvaggo (Dhp.360-382) <{filename}../dhp-chap25%zh.rst>`_
-     - `26. Brāhmaṇavaggo (Dhp.383-423) <{filename}../dhp-chap26%zh.rst>`_
+   * - `25. Bhikkhuvaggo (Dhp.360-382) <{filename}dhp-contrast-reading-chap25%zh.rst>`_
+     - `26. Brāhmaṇavaggo (Dhp.383-423) <{filename}dhp-contrast-reading-chap26%zh.rst>`_
      - Dhammapada (Dhp.001-423) -full
      
    * - 25. 比丘品 (The Monk)

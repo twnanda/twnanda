@@ -4,7 +4,7 @@
 
 :date: 2016-02-11 11:30
 :modified: 2016-05-30 15:00
-:tags: 法句經對讀, 不放逸品, Dhp, Dhammapada, Appamādavaggo, 
+:tags: 法句經, 法句經對讀, 不放逸品, Dhp, Dhammapada, Appamādavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Heedfulness
 :category: 巴利三藏小部

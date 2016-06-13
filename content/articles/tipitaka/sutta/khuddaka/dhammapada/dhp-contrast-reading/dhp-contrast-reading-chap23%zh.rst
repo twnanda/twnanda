@@ -1,0 +1,818 @@
+========================================================================
+法句經 第二十三：象品 多譯本對讀(段層次) Dhammapada (Dhp.) 23. Nāgavaggo
+========================================================================
+
+:date: 2016-06-04 17:00
+:modified: 2016-06-13 10:30
+:tags: 法句經, 法句經對讀, 象品, Dhp, Dhammapada, Nāgavaggo, 
+       Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
+       法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Elephant
+:category: 巴利三藏小部, 
+:summary: 法句經 第二十三：象品 多譯本對讀(段層次) Dhammapada (Dhp.) 23. Nāgavaggo 
+          (Dhp.320-333)
+          Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 
+          The Elephant
+
+--------------
+
+.. list-table:: 偈頌目錄
+   :widths: 2 2 2 2 2 2 2
+   :header-rows: 1
+
+   * - Dhp320_
+     - Dhp321_
+     - Dhp322_
+     - Dhp323_
+     - Dhp324_
+     - Dhp325_
+     - Dhp326_
+
+   * - Dhp327_
+     - Dhp328_
+     - Dhp329_
+     - Dhp330_
+     - Dhp331_
+     - Dhp332_
+     - Dhp333_
+
+--------------
+
+.. raw:: html 
+
+  本對讀包含下列數個版本，請自行勾選欲對讀之版本
+  （感恩 <strong><a href="https://siongui.github.io/zh/pages/siong-ui-te.html">Siong-Ui Te 師兄</a></strong>
+  提供程式支援）：
+  
+  <div id="option-contrast-reading"></div>
+
+--------------
+
+.. _Dhp320:
+
+.. list-table:: Dhammapada Dhp. 320
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - 23. Nāgavaggo. 
+ 
+       | 320. Ahaṃ nāgo'va saṅgāme cāpāto patitaṃ saraṃ
+       | Ativākyaṃ titikkhissaṃ dussīlo hi bahujjano.
+
+   * - 巴利原典 (CSCD) [2]_
+     - **23. Nāgavaggo**
+
+       | 320. Ahaṃ  nāgova saṅgāme, cāpato patitaṃ saraṃ;
+       | Ativākyaṃ titikkhissaṃ, dussīlo hi bahujjano.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - **二十三：象品**
+
+       三二０　如象在戰陣，（堪忍）弓箭射，**我忍謗（亦爾）。世多破戒者。**
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - 第廿三：象品
+
+       | 320 我就像戰場上的象，忍受從弓射來的箭，
+       | 我忍受他人的毀謗。許多人的確是無戒。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 法句經：我如象鬪，不恐中箭，當以誠信，度無戒人T4,570b
+       2. 法句譬喻經：我如象鬪，不恐中箭，當以誠信，度無戒人T4,600b
+
+       | 3. 義足經：我如象行鬪，被瘡不著想，念我忍意爾，世人無善念T4,177b
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 320. 
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - **320.** 
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | **320** 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | **320** 
+       | 
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 320 
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 320 <{filename}../dhA/dhA-chap23%zh.rst#Dhp320>`__
+
+.. _Dhp321:
+
+.. list-table:: Dhammapada Dhp. 321
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 321. Dantaṃ nayanti samitiṃ dantaṃ rājā'bhirūhati
+       | Danto seṭṭho manussesu yo'tivākyaṃ titikkhati.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 321. Dantaṃ  nayanti samitiṃ, dantaṃ rājābhirūhati;
+       | Danto seṭṭho manussesu, yotivākyaṃ titikkhati.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 三二一　調御（象）可赴集會，調御（象）可為王乘。**若能堪忍於謗言，人中最勝調御者。**
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 321 馴服之獸可帶往人群；國王只騎馴服的動物。
+       | 已調服及能忍毀謗者，他是眾人中的最上者。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 法句經：譬象調正，可中王乘，調為尊人，乃受誠信T4,570b
+       2. 法句譬喻經：譬象調伏，可中王乘，調為尊人，乃受誠信T4,600b
+       3. 出曜經：譬馬調正，可中王乘，調為人尊，乃受誠信T4,712a
+
+       | 4. 長含：如象善調，隨意所之，大眾如是，隨教而還T1,10a
+       | 5. 智度：能忍惡罵人，是名人中上，譬如好良馬，可中為王乘T25,316a
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 321. 
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - **321.** 
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | **321** 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | **321** 
+       | 
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 321 
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 321 <{filename}../dhA/dhA-chap23%zh.rst#Dhp321>`__
+
+.. _Dhp322:
+
+.. list-table:: Dhammapada Dhp. 322
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 322. Varamassatarā dantā ājānīyā ca sindhavā
+       | Kuñjarā ca mahānāgā attadanto tato varaṃ.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 322. Varamassatarā dantā, ājānīyā ca [ājānīyāva (syā.)] sindhavā;
+       | Kuñjarā ca [kuñjarāva (syā.)] mahānāgā, attadanto tato varaṃ.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 三二二　調御之騾為優良，信度駿馬 [LChnFn23-01]_ 為優良，矯羅 [LChnFn23-02]_ 大象亦優良，自調御者更優良。
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 322 已馴服的騾是最好，信度馬是最好的馬，
+       | 崑迦拉是最好的象，調服自己者更優良。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 法句經：雖為常調，如彼新馳，亦最善象，不如自調T4,570b
+       2. 法句譬喻經：雖為常調，如彼新馳，亦最善象，不如自調T4,600c
+       3. 出曜經：雖為常調，如彼新馳，亦最善象，不如自調T4,712a
+       4. 法集：雖為常調伏，如彼新馳馬，亦如善龍象，不如自調者T4,786c
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 322. 
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - **322.** 
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | **322** 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | **322** 
+       | 
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 322 
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 322 <{filename}../dhA/dhA-chap23%zh.rst#Dhp322>`__
+
+.. _Dhp323:
+
+.. list-table:: Dhammapada Dhp. 323
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 323. Na hi etehi yānehi gaccheyya agataṃ disaṃ
+       | Yathāttanā sudantena danto dantena gacchati.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 323. Na  hi etehi yānehi, gaccheyya agataṃ disaṃ;
+       | Yathāttanā sudantena, danto dantena gacchati.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 三二三  實非彼等車乘，得達難到境地 [LChnFn23-03]_ ，若人善自調御，由於調御得達。
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 323 以任何車乘皆不能去到未到過之地（涅槃）；
+       | 只有完全調服自己的人才能到達其地。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 法句經：彼不能適，人所不至，唯自調者，能到調方T4,570b
+       2. 法句譬喻經：彼不能適，人所不至，唯自調者，能到調方T4,600c
+       3. 出曜經：彼不能乘，人所不至，唯自調者，乃到調方T4,712b
+       4. 法集：彼人不能乘，人所亦不至，惟自調伏者，乃到調方所T4,786c
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 323. 
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - **323.** 
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | **323** 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | **323** 
+       | 
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 323 
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 323 <{filename}../dhA/dhA-chap23%zh.rst#Dhp323>`__
+
+.. _Dhp324:
+
+.. list-table:: Dhammapada Dhp. 324
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 324. Dhanapālako nāma kuñjaro kaṭukappabhedano dunnivārayo
+       | Baddho kabalaṃ na bhuñjati sumarati nāgavanassa kuñjaro.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 324. Dhanapālo [dhanapālako (sī. syā. kaṃ. pī.)] nāma kuñjaro, kaṭukabhedano [kaṭukappabhedano (sī. syā. pī.)] dunnivārayo;
+       | Baddho kabaḷaṃ na bhuñjati, sumarati [susarati (ka.)] nāgavanassa kuñjaro.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 三二四　如象名財護 [LChnFn23-04]_ ，泌液暴難制 [LChnFn23-05]_ ，繫縛不少食，惟念於象林 [LChnFn23-06]_ 。 [NandFn23-01]_
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 324 那隻名為護財的象，像發情之象難制伏，
+       | 牠連美食也不要吃，只想著要回去象林（顧母親）。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 法句經：如象名財守，猛害難禁制，繫絆不與食，而猶暴逸象T4,570b
+       2. 法句譬喻經：如象名護財，猛害難禁制，繫靽不與食，而猶慕逸象T4,600c
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 324. 
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - **324.** 
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | **324** 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | **324** 
+       | 
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 324 
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 324 <{filename}../dhA/dhA-chap23%zh.rst#Dhp324>`__
+
+.. _Dhp325:
+
+.. list-table:: Dhammapada Dhp. 325
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 325. Middhī yadā hoti mahagghaso ca niddāyitā samparivattasāyī
+       | Mahāvarāho'va nivāpapuṭṭho punappunaṃ gabbhamupeti mando.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 325. Middhī  yadā hoti mahagghaso ca, niddāyitā samparivattasāyī;
+       | Mahāvarāhova nivāpapuṭṭho, punappunaṃ gabbhamupeti mando.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 三二五　樂睡又貪食，轉側唯長眠，如豬食無厭，愚者數入胎 [LChnFn23-07]_ 。
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 325 若人懶慵吃太多，猶如飽食大肥豬，
+       | 輾轉翻身睡懶覺，懶人一再地入胎。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 法句經：沒在惡行者，恒以貪自繫，其象不知厭，故數入胞胎T4,570b
+       2. 出曜經：貪餮不自節，三轉隨時行，如圈被養猪，數數受胞胎T4,749a
+       3. 法集：貪餮不自節，三轉隨時行，如圈被養猪，數數受胞胎T4,786c
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 325. 
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - **325.** 
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | **325** 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | **325** 
+       | 
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 325 
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 325 <{filename}../dhA/dhA-chap23%zh.rst#Dhp325>`__
+
+.. _Dhp326:
+
+.. list-table:: Dhammapada Dhp. 326
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 326. Idaṃ pure cittamacāri cārikaṃ
+       | Yenicchakaṃ yatthakāmaṃ yathāsukhaṃ
+       | Tadajjahaṃ niggahessāmi yoniso
+       | Hatthippabhinnaṃ viya aṅkusaggaho.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 326. Idaṃ  pure cittamacāri cārikaṃ, yenicchakaṃ yatthakāmaṃ yathāsukhaṃ;
+       | Tadajjahaṃ niggahessāmi yoniso, hatthippabhinnaṃ viya aṅkusaggaho.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 三二六　我此過去心──任意隨所欲，隨愛好遊行。我今悉調伏，如象師持鉤，（制御）泌液象。
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 326 以前此心四處飄蕩，隨著所欲所喜所樂。
+       | 今天我將善御己心，如象師持鉤制狂象。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 法句經：本意為純行，及常行所安，悉捨降伏結，如鉤制象調T4,570b
+       2. 法句譬喻經：本意為純行，及常行所安，悉捨降結使，如鈎制象調T4,600c
+       3. 出曜經：汝心莫遊行，恣意而遊逸，我今還攝汝，如御暴逸象T4,759a
+       4. 法集：汝心莫遊行，恣意而放逸，我今還攝汝，如御暴逸象T4,795b
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 326. 
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - **326.** 
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | **326** 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | **326** 
+       | 
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 326 
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 326 <{filename}../dhA/dhA-chap23%zh.rst#Dhp326>`__
+
+.. _Dhp327:
+
+.. list-table:: Dhammapada Dhp. 327
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 327. Appamādaratā hotha sacittamanurakkhatha
+       | Duggā uddharathattānaṃ paṅke sanno'va kuñjaro. 
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 327. Appamādaratā hotha, sacittamanurakkhatha;
+       | Duggā uddharathattānaṃ, paṅke sannova [sattova (sī. pī.)] kuñjaro.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 三二七　當樂不放逸，善護於自心。自救出難處，如象（出）泥坑。
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 327 你們應樂於不放逸，你們應當防護己心；
+       | 讓自己脫離種種惡，猶如困象脫離泥沼。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 法句經：樂道不放逸，能常自護心，是為拔身苦，如象出于塪T4,570b
+       2. 法句譬喻經：樂道不放逸，能常自護心，是為拔身苦，如象出于陷T4,600c
+       3. 出曜經：比丘謹慎樂，放逸多憂愆，能免深海難，如象拔淤泥T4,645c
+       4. 法集：苾芻懷謹慎，放逸多憂愆，如象拔淤泥，難救深海苦T4,779b
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 327. 
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - **327.** 
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | **327** 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | **327** 
+       | 
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 327 
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 327 <{filename}../dhA/dhA-chap23%zh.rst#Dhp327>`__
+
+.. _Dhp328:
+
+.. list-table:: Dhammapada Dhp. 328
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 328. Sace labhetha nipakaṃ sahāyaṃ
+       | Saddhiṃ caraṃ sādhu vihāri dhīraṃ
+       | Abhibhuyya sabbāni parissayāni
+       | Careyya tenattamano satīmā.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 328. Sace labhetha nipakaṃ sahāyaṃ, saddhiṃ caraṃ sādhuvihāridhīraṃ;
+       | Abhibhuyya sabbāni parissayāni, careyya tenattamano satīmā.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 三二八　若得同行伴───善行富智慮，能服諸艱困，欣然共彼行。
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 328 如果找到和他一同生活會好的有智慧賢友為伴，
+       | 他應歡喜及正念地與其人同行，克服一切危難。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 法句經：若得賢能伴，俱行行善悍，能伏諸所聞，至到不失意T4,570b
+       2. 出曜經：若得親善友，共遊於世界，不積有遺餘，專念同其意T4,697a
+       3. 法集：若人親善友，共遊於世間，不積有冤餘，專念同其意T4,784b
+
+       | 4. 中含72：若得定為侶，慧者共修善，捨本所執意，歡喜常相隨T1,535c
+       | 5. 四分：若審得善伴，共行住勇健，遊處在諸眾，其心常歡喜T22,882c
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 328. 
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - **328.** 
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | **328** 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | **328** 
+       | 
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 328 
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 328 <{filename}../dhA/dhA-chap23%zh.rst#Dhp328>`__
+
+.. _Dhp329:
+
+.. list-table:: Dhammapada Dhp. 329
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 329. No ce labhetha nipakaṃ sahāyaṃ
+       | Saddhiṃ caraṃ sādhu vihāri dhīraṃ
+       | Rājā'va raṭṭhaṃ vijitaṃ pahāya
+       | Eko care mātaṅgaraññe'va nāgo.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 329. No  ce labhetha nipakaṃ sahāyaṃ, saddhiṃ caraṃ sādhuvihāridhīraṃ;
+       | Rājāva raṭṭhaṃ vijitaṃ pahāya, eko care mātaṅgaraññeva nāgo.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 三二九　若無同行伴───善行富智慮，應如王棄國，如象獨行林。
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 329 如果找不到和他一同生活會好的有智慧賢友為伴，
+       | 他應像捨棄國土之王，如象在瑪當林裡獨自生活。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 法句經：不得賢能伴，俱行行惡悍，廣斷王邑里，寧獨不為惡T4,570b
+       2. 法句譬喻經：學無朋類，不得善友，寧獨守善，不與愚偕T4,577c,559c
+       3. 出曜經：設不得親友，獨遊無伴侶，廣觀諸方界，獨善不造惡T4,697a
+       4. 法集：學無同伴侶，又不得親友，寧獨守善行，不與愚人偕T4,784b
+
+       | 5. 中含72：若不得定伴，慧者獨修善，如王嚴治國，如象獨在野T1,535c
+       | 6. 四分：若不得善伴，獨行常勇健，捨於郡國邑，無事如野象T22,882c
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 329. 
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - **329.** 
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | **329** 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | **329** 
+       | 
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 329 
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 329 <{filename}../dhA/dhA-chap23%zh.rst#Dhp329>`__
+
+.. _Dhp330:
+
+.. list-table:: Dhammapada Dhp. 330
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 330. Ekassa caritaṃ seyyo
+       | Natthi bāle sahāyatā
+       | Eko care na ca pāpāni kayirā
+       | Appossukko mātaṅgaraññe'va nāgo.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 330. Ekassa caritaṃ seyyo, natthi bāle sahāyatā;
+       | Eko care na ca pāpāni kayirā, appossukko mātaṅgaraññeva nāgo.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 三三０　寧一人獨行，不與愚為友。獨行離欲惡，如象獨遊林。
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 330 獨自一人生活更好，絕對不和愚人為友。
+       | 獨自過活不造諸惡，如象在瑪當林自在。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 法句經：寧獨行為善，不與愚為侶，獨而不為惡，如象驚自護T4,570c
+       2. 法句經：樂戒學行，奚用伴為，獨善無憂，如空野象T4,559c
+       3. 法句譬喻經：樂戒學行，奚用伴為，獨善無憂，如空野象T4,578a
+       4. 出曜經：樂戒學行，奚用伴為，獨善無憂，如空野象T4,698a
+       5. 法集：樂戒學法行，奚用伴侶為，如龍好深淵，如象樂曠野T4,784b
+
+       | 6. 中含72：獨行莫為惡，如象獨在野，獨行為善勝，勿與惡共會T1,535c
+       | 7. 四分：寧獨自行善，不與愚惡伴，獨行莫作惡，如山頂野象T22,882c
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 330. 
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - **330.** 
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | **330** 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | **330** 
+       | 
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 330 
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 330 <{filename}../dhA/dhA-chap23%zh.rst#Dhp330>`__
+
+.. _Dhp331:
+
+.. list-table:: Dhammapada Dhp. 331
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 331. Atthamhi jātamhi sukhā sahāyā
+       | Tuṭṭhī sukhā yā itarītarena
+       | Puññaṃ sukhaṃ jīvitasaṅkhayamhi
+       | Sabbassa dukkhassa sukhaṃ pahāṇaṃ.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 331. Atthamhi  jātamhi sukhā sahāyā, tuṭṭhī sukhā yā itarītarena;
+       | Puññaṃ sukhaṃ jīvitasaṅkhayamhi, sabbassa dukkhassa sukhaṃ pahānaṃ.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 三三一　應時得友樂，適時滿足樂，命終善業樂，離一切苦樂。
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 331 有事時有朋友是樂，滿足於所擁有是樂，
+       | 臨終時有福業是樂，一切苦的斷除是樂。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 法句經：生而有利安，伴軟和為安，命盡為福安，眾惡不犯安T4,570c
+       2. 出曜經：義興則有樂，朋友食福樂，彼滅寂然樂，展轉普及人，苦為樂為本T4,757b
+       3. 法集：聚則有樂，朋友食福樂，彼滅寂然樂，展轉普及人T4,795a
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 331. 
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - **331.** 
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | **331** 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | **331** 
+       | 
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 331 
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 331 <{filename}../dhA/dhA-chap23%zh.rst#Dhp331>`__
+
+.. _Dhp332:
+
+.. list-table:: Dhammapada Dhp. 332
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 332. Sukhā matteyyatā loke atho petteyyatā sukhā
+       | Sukhā sāmaññatā loke atho brahmaññatā sukhā.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 332. Sukhā  matteyyatā loke, atho petteyyatā sukhā;
+       | Sukhā sāmaññatā loke, atho brahmaññatā sukhā.
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 三三二　世中敬母樂，敬父親亦樂。世敬沙門樂，敬聖人亦樂。
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 332 於世間事奉母親是樂，事奉父親同樣也是樂。
+       | 於世間事奉沙門是樂，事奉婆羅門一樣是樂。
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 法句經：人家有母樂，有父斯亦樂，世有沙門樂，天下有道樂T4,570c
+       2. 出曜經：世有父母樂，眾聚和亦樂，世有沙門樂，靜志樂亦然T4,755b
+       3. 法集：世有父母樂，眾集和亦樂，世有沙門樂，靜志樂亦然T4,794c
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 332. 
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - **332.** 
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | **332** 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | **332** 
+       | 
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 332 
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 332 <{filename}../dhA/dhA-chap23%zh.rst#Dhp332>`__
+
+.. _Dhp333:
+
+.. list-table:: Dhammapada Dhp. 333
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典 (PTS) [1]_
+     - | 333. Sukhaṃ yāva jarā sīlaṃ sukhā saddhā patiṭṭhitā
+       | Sukho paññāya paṭilābho pāpānaṃ akaraṇaṃ sukhaṃ. 
+       |  
+
+       Nāgavaggo tevīsatimo.
+
+   * - 巴利原典 (CSCD) [2]_
+     - | 333. Sukhaṃ yāva jarā sīlaṃ, sukhā saddhā patiṭṭhitā;
+       | Sukho paññāya paṭilābho, pāpānaṃ akaraṇaṃ sukhaṃ.
+       | 
+
+       **Nāgavaggo tevīsatimo niṭṭhito.**
+
+   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
+     - 三三三　至老持戒樂，正信成就樂，獲得智慧樂，不作諸惡業。
+
+       **象品第二十三竟**
+
+   * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
+     - | 333 持戒到老是樂，信心穩立是樂，
+       | 獲得智慧是樂，不造諸惡是樂。
+       | 
+
+       **象品第廿三完畢**
+
+   * - 漢譯(相當之古漢譯對應經典) [5]_
+     - 1. 法句經：持戒終老安，信正所正善，智慧最安身，不犯惡最安T4,570c
+       2. 出曜經：耆老持戒樂，有信成就樂，分別義趣樂，不造眾惡樂T4,755b
+       3. 法集：耆年持戒樂，有信成就樂，分別義趣樂，不造眾惡業T4,794c
+
+       | 4. 中本起：持戒終老安，信正所止善，智慧最安身，眾惡不犯安T4,150a
+
+   * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
+     - 333. 
+
+   * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
+     - **333.** 
+
+   * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
+     - | **333** 
+
+   * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
+     - | **333** 
+       | 
+     
+   * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
+     - 333 
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 333 <{filename}../dhA/dhA-chap23%zh.rst#Dhp333>`__
+
+--------------
+
+備註：
+------
+
+.. [1] 〔註001〕　 `巴利原典 (PTS) Dhammapadapāḷi <Dhp-PTS.html>`__ 乃參考 `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `Dhp <http://www.accesstoinsight.org/tipitaka/kn/dhp/index.html>`__ → `{Dhp 1-20} <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.1>`__ ( `Dhp <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html>`__ ; `Dhp 21-32 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.21>`__ ; `Dhp 33-43 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.33>`__ , etc..）
+
+.. [2] 〔註002〕　 `巴利原典 (CSCD) Dhammapadapāḷi 乃參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版原始出處(original)請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Khuddakanikāya → Dhammapadapāḷi → `1. Yamakavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul0.xml>`__ (2. `Appamādavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul1.xml>`__ , 3. `Cittavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul2.xml>`__ , etc..)。]
+
+.. [3] 〔註003〕　本譯文請參考： `文言文版 <{filename}../dhp-Ven-L-C/dhp-Ven-L-C%zh.rst>`__ ( **了參 法師** 譯，台北市：圓明出版社，1991。) 另參： 
+
+       一、 Dhammapada 法句經(中英對照) -- English translated by **Ven. Ācharya Buddharakkhita** ; Chinese translated by Yeh chun(葉均); Chinese commented by **Ven. Bhikkhu Metta(明法比丘)** 〔 **Ven. Ācharya Buddharakkhita** ( **佛護 尊者** ) 英譯; **了參 法師(葉均)** 譯; **明法比丘** 註（增加許多濃縮的故事）〕： `PDF <{filename}/extra/pdf/ec-dhp.pdf>`__ 、 `DOC <{filename}/extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/ec-dhp-f1.doc>`__ 。
+
+       二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF <{filename}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{filename}/extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/pc-Dhammapada-f1.doc>`__
+
+.. [4] 〔註004〕　本譯文請參考： `白話文版 <{filename}../dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__ ， **敬法 法師** 譯，第二修訂版 2015，`pdf <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__ ，`原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`__ ；　(`初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
+
+.. [5] 〔註005〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+
+          **參考相當之古漢譯對應經典：**
+
+          - | `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ ，2014。
+            | 〔大正新脩大藏經第四冊 `No. 210《法句經》 <http://www.cbeta.org/result/T04/T04n0210.htm>`__ ； **尊者 法救** 撰　吳天竺沙門** 維祇難** 等譯： `卷上 <http://www.cbeta.org/result/normal/T04/0210_001.htm>`__ 、 `卷下 <http://www.cbeta.org/result/normal/T04/0210_002.htm>`__ 〕(CBETA)
+
+          - | `《法句譬喻經》校勘與標點 <http://yifert211.blogspot.tw/>`__ ，2014。
+            | 大正新脩大藏經 第四冊 `No. 211《法句譬喻經》 <http://www.cbeta.org/result/T04/T04n0211.htm>`__ ；晉世沙門 **法炬** 共 **法立** 譯： `卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0211_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0211_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0211_004.htm>`__ (CBETA)
+
+          - | `《出曜經》校勘與標點 <http://yifertw212.blogspot.com/>`__ ，2014。
+            | 〔大正新脩大藏經 第四冊 `No. 212《出曜經》 <http://www.cbeta.org/result/T04/T04n0212.htm>`__ ；姚秦涼州沙門 **竺佛念** 譯： `卷第一 <http://www.cbeta.org/result/normal/T04/0212_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0212_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0212_003.htm>`__ 、..., 、..., 、..., 、 `卷第二十八 <http://www.cbeta.org/result/normal/T04/0212_028.htm>`__ 、 `卷第二十九 <http://www.cbeta.org/result/normal/T04/0212_029.htm>`__ 、 `卷第三十 <http://www.cbeta.org/result/normal/T04/0212_030.htm>`__ 〕(CBETA)
+
+          - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
+            | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
+
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+
+.. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
+
+.. [8] 〔註008〕　此英譯為 **Ven. Thanissaro Bhikkhu** ( **坦尼沙羅尊者** 所譯；請參考原始出處(original): The Dhammapada, A Translation translated from the Pali by **Ven. Thanissaro Bhikkhu** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.than.html#preface>`__ ; `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.than.html#intro>`__ ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.than.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.than.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.than.html>`__ (`Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ → `Dhp <http://www.accesstoinsight.org/tipitaka/kn/dhp/index.html>`__ (Dhammapada The Path of Dhamma)
+
+.. [9] 〔註009〕　此英譯為 **Ven. Varado Bhikkhu** and **Samanera Bodhesako** 所譯；請參考原始出處(original): `Dhammapada in Verse <http://www.suttas.net/english/suttas/khuddaka-nikaya/dhammapada/index.php>`__ -- Inward Path, Translated by **Bhante Varado** and **Samanera Bodhesako**, Malaysia, 2007
+
+.. [10] 〔註010〕　此英譯為 `Friedrich Max Müller <https://en.wikipedia.org/wiki/Max_M%C3%BCller>`__ 所譯；請參考原始出處(original): `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
+
+.. [11] 〔註011〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+
+.. [LChnFn23-01] 〔註23-01〕  「信度 (Sindhu) 駿馬」，即印度河地方所產的駿馬。
+
+.. [LChnFn23-02] 〔註23-02〕  「矯羅」(Ku~njara) 象名。
+
+.. [LChnFn23-03] 〔註23-03〕  指涅槃。
+
+.. [LChnFn23-04] 〔註23-04〕  「財護」（Dhanapala）。 
+
+.. [LChnFn23-05] 〔註23-05〕  象在發慾之期，從牠的顳(需+頁)分泌出一種臭液。這時牠的性情最難調制。
+
+.. [LChnFn23-06] 〔註23-06〕  故事說明此象如何思念牠的象母。意思是說我人應該孝順父母。
+
+.. [LChnFn23-07] 〔註23-07〕  指生死輪迴。
+
+.. [CFFn23-01] 〔敬法法師註23-01〕 51 註釋： **婆羅門** 是已捨棄諸惡、修行圓滿的佛陀、辟支佛與弟子們。
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+校註：
+------
+
+.. [NandFn23-01] 〔校註23-001〕 繫縛不入食
+
+                     說明：參考法雨道場( 明法 法師)出版之修訂版，依巴、英及語體本更正。
+
+---------------------------
+
+- `法句經 (Dhammapada) <{filename}../dhp%zh.rst>`__
+
+- `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__

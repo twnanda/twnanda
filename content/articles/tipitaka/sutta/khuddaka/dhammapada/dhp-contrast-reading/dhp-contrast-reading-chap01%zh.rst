@@ -3,7 +3,7 @@
 
 :date: 2016-02-05 12:00
 :modified: 2016-05-30 15:00
-:tags: 法句經對讀, 雙品, Dhp, Dhammapada, Yamakavaggo, 
+:tags: 法句經, 法句經對讀, 雙品, Dhp, Dhammapada, Yamakavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Pairs
 :category: 巴利三藏小部
