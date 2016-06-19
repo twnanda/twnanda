@@ -13,31 +13,34 @@
 - `尊者的足跡－南傳法句經的故事。 <{category}尊者的足跡－南傳法句經的故事。>`_
 - `心靈法語－ DHARMAGUPTA 。 <{filename}/extra/authors/dharmagupta/vipasana.htm>`_
 - `靜坐實用手冊－－你在嗎？覺知嗎？心去那裡了？ <{filename}/extra/authors/dharmagupta/meditation.htm>`_
-- 涅槃的高速公路
+- `涅槃的高速公路 <{filename}/extra/authors/dharmagupta/nibbana.htm>`_
 - `涅槃的北二高--清淨道論導讀 <{filename}/extra/authors/dharmagupta/ntro-vis.htm>`_
-- 涅槃的中二高 (Nov. '07)
-- 涅槃的捷運
-- 護法法師於嘉義新雨道場「靜坐班」之開示：含
+- `涅槃的中二高 <{filename}/extra/authors/dharmagupta/Buddhism-for-the-Tricky.html>`_ (Nov. '07)
+- `涅槃的捷運 <{filename}/extra/authors/dharmagupta/Buddhism-for-Explorer.html>`_
+- `護法法師於嘉義新雨道場「靜坐班」之開示 <{filename}/extra/authors/dharmagupta/newrain.htm>`_ ：含
 
 - 《內觀禪修法》。
 
-  《內觀禪修法（一）》。　　《內觀禪修法（二）》。
-
-  《內觀禪修法（三）》。　　《內觀禪修法（四）》。
-
-  《內觀禪修法（五）》。　　《內觀禪修法（六）》。
+  * `《內觀禪修法（一）》。 <{filename}/extra/authors/dharmagupta/newrain/vipasana.htm>`_
+  * `《內觀禪修法（二）》。 <{filename}/extra/authors/dharmagupta/newrain/vipasan2.htm>`_
+  * `《內觀禪修法（三）》。 <{filename}/extra/authors/dharmagupta/newrain/vipasan3.htm>`_
+  * `《內觀禪修法（四）》。 <{filename}/extra/authors/dharmagupta/newrain/vipasan4.htm>`_
+  * `《內觀禪修法（五）》。 <{filename}/extra/authors/dharmagupta/newrain/vipasan5.htm>`_
+  * `《內觀禪修法（六）》。 <{filename}/extra/authors/dharmagupta/newrain/vipasan6.htm>`_
 
 - 《靜坐與喜悅之路》。
 
-  《靜坐與喜悅之路（一）》。　　《靜坐與喜悅之路（二）》。
+  * `《靜坐與喜悅之路（一）》。 <{filename}/extra/authors/dharmagupta/newrain/medtjoy1.htm>`_
+  * `《靜坐與喜悅之路（二）》。 <{filename}/extra/authors/dharmagupta/newrain/medtjoy2.htm>`_
+  * `《靜坐與喜悅之路（三）》。 <{filename}/extra/authors/dharmagupta/newrain/medtjoy3.htm>`_
+  * `《靜坐與喜悅之路（四）》。 <{filename}/extra/authors/dharmagupta/newrain/medtjoy4.htm>`_
+  * `《靜坐與喜悅之路（五）》。 <{filename}/extra/authors/dharmagupta/newrain/medtjoy5.htm>`_
+  * `《靜坐與喜悅之路（六）》。 <{filename}/extra/authors/dharmagupta/newrain/medtjoy6.htm>`_
 
-  《靜坐與喜悅之路（三）》。　　《靜坐與喜悅之路（四）》。
+- `《命終關懷》。 <{filename}/extra/authors/dharmagupta/newrain/hospiece.htm>`_
 
-  《靜坐與喜悅之路（五）》。　　《靜坐與喜悅之路（六）》。
-
-- 《命終關懷》。
-
-- 三淨肉在南傳佛教經典之依據－－耆婆迦經(Jivaka-suttanta)〈中部經典二．第五十五〉
+- 三淨肉在南傳佛教經典之依據－－
+  `耆婆迦經(Jivaka-suttanta)〈中部經典二．第五十五〉 <{filename}/extra/authors/dharmagupta/M-55-Jiivaka.htm>`_
 
 ----
 
