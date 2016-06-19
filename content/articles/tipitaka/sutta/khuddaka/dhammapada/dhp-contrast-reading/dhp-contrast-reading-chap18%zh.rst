@@ -3,7 +3,7 @@
 ==================================================================================
 
 :date: 2016-06-04 16:30
-:modified: 2016-06-13 09:30
+:modified: 2016-06-19 18:00
 :tags: 法句經, 法句經對讀, 垢穢品, 污垢品, Dhp, Dhammapada, Malavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Impurity
@@ -1107,7 +1107,7 @@
 校註：
 ------
 
-.. [NandFn18-01] 〔校註18-001〕(研讀; c.f. `gatha050 <{filename}dhA-chap04%zh.rst#gatha050>`__ ).
+.. [NandFn18-01] 〔校註18-001〕(研讀; c.f. `gatha050 <{filename}../dhA/dhA-chap04%zh.rst#Dhp050>`__ ).
 
 ---------------------------
 

@@ -3,7 +3,7 @@
 =========================================================================
 
 :date: 2016-02-11 11:30
-:modified: 2016-05-30 15:00
+:modified: 2016-06-19 18:00
 :tags: 法句經, 法句經對讀, 不放逸品, Dhp, Dhammapada, Appamādavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Heedfulness
@@ -204,7 +204,7 @@
        3.法集要頌經：恒思修善法，自守常堅固，智者求寂靜，吉祥無有上。（法集要頌經, T04,779a）
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 23. The constantly meditative, [NāradaFn02-06]_ the ever steadfast ones realize the bond-free, [NāradaFn02-07]_ supreme Nibbàna. [NāradaFn02-08]_
+     - 23. The constantly meditative, [NāradaFn02-06]_ the ever steadfast ones realize the bond-free, [NāradaFn02-07]_ supreme Nibbāna. [NāradaFn02-08]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 23. The wise ones, ever meditative and steadfastly persevering, alone experience Nibbana, the incomparable freedom from bondage.
@@ -617,7 +617,7 @@
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - EARNESTNESS LEADS TO SOVEREIGNTY
-        30. By earnestness Maghavà [NāradaFn02-11]_ rose to the lordship of the gods. [NāradaFn02-12]_ Earnestness is ever praised; negligence is ever despised.
+        30. By earnestness Maghavā [NāradaFn02-11]_ rose to the lordship of the gods. [NāradaFn02-12]_ Earnestness is ever praised; negligence is ever despised.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 30. By Heedfulness did Indra become the overlord of the gods. Heedfulness is ever praised, and heedlessness ever despised. [BudRkFn-v30]_
@@ -753,8 +753,8 @@
        | 5.本事經：常樂不放逸，見放逸生怖，諸見能永斷，速證般涅槃T17, 679a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - THE HEEDFUL ARE IN THE PRESENCE OF NIBBâNA
-        32. The Bhikkhu who delights in heedfulness, and looks with fear on heedlessness, is not liable to fall. [NāradaFn02-15]_ He is in the presence of Nibbàna.
+     - THE HEEDFUL ARE IN THE PRESENCE OF NIBBĀNA
+        32. The Bhikkhu who delights in heedfulness, and looks with fear on heedlessness, is not liable to fall. [NāradaFn02-15]_ He is in the presence of Nibbāna.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 32. The monk who delights in heedfulness and looks with fear at heedlessness will not fall. He is close to Nibbana.
@@ -810,7 +810,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -982,43 +982,43 @@
 .. [TSFn02-18] 〔古漢譯註02-18〕　`《法句譬喻經》，卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__，放逸品第十，T04n0211_p0584a24(00)
 
 
-.. [NāradaFn02-01]  (Ven. Nārada 02-01) Appamàda, literally, means non-infatuation i.e., ever-present mindfulness, watchfulness or earnestness in doing good. The ethical essence of Buddhism may be summed up by this word - appamàda. The last words of the Buddha were - appamàdena sampàdetha - strive on with diligence.
+.. [NāradaFn02-01]  (Ven. Nārada 02-01) Appamāda, literally, means non-infatuation i.e., ever-present mindfulness, watchfulness or earnestness in doing good. The ethical essence of Buddhism may be summed up by this word - appamāda. The last words of the Buddha were - appamādena sampādetha - strive on with diligence.
 
-.. [NāradaFn02-02]  (Ven. Nārada 02-02) Amata - Nibbàna, the ultimate goal of Buddhists. As this positive term clearly indicates, Nibbàna is not annihilation or a state of nothingness as some are apt to believe. It is the permanent, immortal, supramundane state which cannot be expressed by mundane terms.
+.. [NāradaFn02-02]  (Ven. Nārada 02-02) Amata - Nibbāna, the ultimate goal of Buddhists. As this positive term clearly indicates, Nibbāna is not annihilation or a state of nothingness as some are apt to believe. It is the permanent, immortal, supramundane state which cannot be expressed by mundane terms.
 
-.. [NāradaFn02-03]  (Ven. Nārada 02-03) This should not be understood to mean that they are immortal. No being is immortal, not even Buddhas or Arahants. The idea implied herein is that the heedful, who realize Nibbàna are not reborn, and so do not die. The heedless are regarded as dead because they are not intent on doing good, and are subject to repeated births and deaths.
+.. [NāradaFn02-03]  (Ven. Nārada 02-03) This should not be understood to mean that they are immortal. No being is immortal, not even Buddhas or Arahants. The idea implied herein is that the heedful, who realize Nibbāna are not reborn, and so do not die. The heedless are regarded as dead because they are not intent on doing good, and are subject to repeated births and deaths.
 
 .. [NāradaFn02-04]  (Ven. Nārada 02-04) Knowing well that there is emancipation for the heedful, but not for the heedless.
 
 .. [NāradaFn02-05]  (Ven. Nārada 02-05) Here Ariyas mean the pure ones like the Buddhas and Arahants. The realm of the Ariyas means the thirty-seven factors of Enlightenment (Bodhipakkhiyadhamma) and the nine supramundane states. See notes on v.44 and v.115.
 
-.. [NāradaFn02-06]  (Ven. Nārada 02-06) Here meditation includes both concentration (samatha) and contemplation or insight (vipassanà).
+.. [NāradaFn02-06]  (Ven. Nārada 02-06) Here meditation includes both concentration (samatha) and contemplation or insight (vipassanā).
 
-.. [NāradaFn02-07]  (Ven. Nārada 02-07) Yogakkhema - free from the four bonds of sense-desires (kàma), craving for existence (bhava), false views (diññhi), and ignorance (avijjà).
+.. [NāradaFn02-07]  (Ven. Nārada 02-07) Yogakkhema - free from the four bonds of sense-desires (kāma), craving for existence (bhava), false views (diññhi), and ignorance (avijjā).
 
-.. [NāradaFn02-08]  (Ven. Nārada 02-08) Nibbàna = ni + vàna, lit., departure from craving. It is a supramundane state that can be attained in this life itself. It is also explained as extinction of passions, but not a state of nothingness. It is an eternal blissful state of relief that results from the complete eradication of the passions.
+.. [NāradaFn02-08]  (Ven. Nārada 02-08) Nibbāna = ni + vāna, lit., departure from craving. It is a supramundane state that can be attained in this life itself. It is also explained as extinction of passions, but not a state of nothingness. It is an eternal blissful state of relief that results from the complete eradication of the passions.
 
-                    Metaphysically Nibbàna is the extinction of suffering; psychologically it is the elimination of egoism; ethically it is the eradication of lust, hatred and ignorance.
+                    Metaphysically Nibbāna is the extinction of suffering; psychologically it is the elimination of egoism; ethically it is the eradication of lust, hatred and ignorance.
 
-.. [NāradaFn02-09]  (Ven. Nārada 02-09) An island situated on a higher level cannot be flooded although the surrounding low-lying land may be inundated. Such an island becomes a refuge to all. In the same way the wise man who develops insight should make an island of himself by attaining Arahantship so that he may not be drowned by the four floods of sense-desires (kàma) false beliefs (ditthi), craving for existence (bhava) and ignorance (avijjà).
+.. [NāradaFn02-09]  (Ven. Nārada 02-09) An island situated on a higher level cannot be flooded although the surrounding low-lying land may be inundated. Such an island becomes a refuge to all. In the same way the wise man who develops insight should make an island of himself by attaining Arahantship so that he may not be drowned by the four floods of sense-desires (kāma) false beliefs (ditthi), craving for existence (bhava) and ignorance (avijjā).
 
 .. [NāradaFn02-10]  (Ven. Nārada 02-10) The sorrowless Arahants look compassionately with their Divine Eye upon the ignorant folk, who, being subject to repeated births, are not free from sorrow.
 
-.. [NāradaFn02-11]  (Ven. Nārada 02-11) Maghavà is synonymous with Sakka, king of the gods. The Maghamànavaka Jataka relates that in the remote past a public-spirited person who had spent his whole lifetime in welfare work with the cooperation of his friends, was born as Sakka as the result of his good actions.
+.. [NāradaFn02-11]  (Ven. Nārada 02-11) Maghavā is synonymous with Sakka, king of the gods. The Maghamānavaka Jataka relates that in the remote past a public-spirited person who had spent his whole lifetime in welfare work with the cooperation of his friends, was born as Sakka as the result of his good actions.
 
 .. [NāradaFn02-12]  (Ven. Nārada 02-12) Devas. lit., sporting or shining ones, are a class of beings with subtle physical bodies invisible to the naked eye. They live in the celestial planes. There are also earth-bound deities.
 
 .. [NāradaFn02-13]  (Ven. Nārada 02-13) A fully ordained disciple of the Buddha is called a Bhikkhu. "Mendicant monk" may be suggested as the closest equivalent for "Bhikkhu". He is not a priest as he is no mediator between God and man. He has no vows for life but he is bound by his rules which he takes of his own accord. He leads a life of voluntary poverty and celibacy. If he is unable to live the Holy Life, he can discard the robe at any time.
 
-.. [NāradaFn02-14]  (Ven. Nārada 02-14) Sa§yojana - lit., that which yokes beings to the ocean of life. There are ten kinds of fetters- namely: self-illusion (sakkàyadiññhi), doubts (vicikicchà), indulgence in (wrongful) rites and ceremonies (sãlabbataparàmàsa), sense-desires (kàmaràga), hatred (pañigha), attachment to the Realms of Form (råparàga), attachment to the Formless Realms (aråparàga), conceit (màna), restlessness (uddhacca) and ignorance (avijjà).
+.. [NāradaFn02-14]  (Ven. Nārada 02-14) Saṃyojana - lit., that which yokes beings to the ocean of life. There are ten kinds of fetters- namely: self-illusion (sakkāyadiññhi), doubts (vicikicchā), indulgence in (wrongful) rites and ceremonies (sīlabbataparāmāsa), sense-desires (kāmarāga), hatred (pañigha), attachment to the Realms of Form (rūparāga), attachment to the Formless Realms (arūparāga), conceit (māna), restlessness (uddhacca) and ignorance (avijjā).
 
-                    The first five, pertaining to This Shore (orambhàgiya) are regarded as small, the rest, pertaining to the Further Shore (uddhambhàgiya) as great.
+                    The first five, pertaining to This Shore (orambhāgiya) are regarded as small, the rest, pertaining to the Further Shore (uddhambhāgiya) as great.
 
-                    The first three are eradicated on attaining the first Stage of Sainthood (Sotàpatti).
+                    The first three are eradicated on attaining the first Stage of Sainthood (Sotāpatti).
 
-                    The second two are attenuated on attaining the second stage of Sainthood (Sakadàgàmi).
+                    The second two are attenuated on attaining the second stage of Sainthood (Sakadāgāmi).
 
-                    The second two are destroyed on attaining the third stage of Sainthood (Anàgàmi).
+                    The second two are destroyed on attaining the third stage of Sainthood (Anāgāmi).
 
                     The last five are eradicated on attaining the fourth stage of Sainthood (Arahatta).
                     

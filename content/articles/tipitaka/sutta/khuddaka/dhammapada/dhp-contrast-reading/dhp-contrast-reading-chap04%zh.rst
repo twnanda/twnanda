@@ -3,7 +3,7 @@
 ==========================================================================
 
 :date: 2016-06-02 17:30
-:modified: 2016-06-02 17:30
+:modified: 2016-06-19 18:00
 :tags: 法句經, 法句經對讀, 華品, 花品, Dhp, Dhammapada, Pupphavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Flower
@@ -263,7 +263,7 @@
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - LIKE A MIRAGE IS THIS BODY
-        46. Knowing that this body is like foam, [NāradaFn04-08]_ and comprehending its mirage-nature, [NāradaFn04-09]_ one should destroy the flower-shafts of sensual passions (Màra), and pass beyond the sight of the king of death. [NāradaFn04-10]_
+        46. Knowing that this body is like foam, [NāradaFn04-08]_ and comprehending its mirage-nature, [NāradaFn04-09]_ one should destroy the flower-shafts of sensual passions (Māra), and pass beyond the sight of the king of death. [NāradaFn04-10]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **46.** Realizing that this body is like froth, penetrating its mirage-like nature, and plucking out Mara's flower-tipped arrows of sensuality, go beyond sight of the King of Death!
@@ -1040,7 +1040,7 @@
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - REBIRTH-CONSCIOUSNESS OF ARAHANTS CANNOT BE TRACED
-        57. Màra [NāradaFn04-14]_ finds not the path of those who are virtuous, careful in living, and freed by right knowledge.
+        57. Māra [NāradaFn04-14]_ finds not the path of those who are virtuous, careful in living, and freed by right knowledge.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **57.** Mara never finds the path of the truly virtuous, who abide in heedfulness and are freed by perfect knowledge.
@@ -1236,7 +1236,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -1302,7 +1302,7 @@
 .. [CFFn04-04] 〔敬法法師註04-04〕 15 註：阿羅漢已不會再生，魔王盡了全力也找不到阿羅漢死後去了哪裡。
 
 
-.. [NāradaFn04-01]  (Ven. Nārada 04-01) Vijessati = attano ¤àõena vijànissati - who will know by one's own wisdom? (Commentary).
+.. [NāradaFn04-01]  (Ven. Nārada 04-01) Vijessati = attano ñāṇena vijānissati - who will know by one's own wisdom? (Commentary).
 
 .. [NāradaFn04-02]  (Ven. Nārada 04-02)  That is one who will understand oneself as one really is.
 
@@ -1314,27 +1314,27 @@
 
 .. [NāradaFn04-06]  (Ven. Nārada 04-06)  Dhammapada. The Commentary states that this term is applied to the thirty-seven Factors of Enlightenment (Bodhipakkhiyadhamma). They are:-
 
-                    I.The four Foundations of Mindfulness (Satipaññhàna) - namely: 1. contemplation of the body (kàyànupassanà), 2. contemplation of the feelings (vedanànupassanà), 3. contemplation of thoughts (cittànupassanà), and 4. contemplation of phenomena (dhammànupassanà).
+                    I.The four Foundations of Mindfulness (Satipaññhāna) - namely: 1. contemplation of the body (kāyānupassanā), 2. contemplation of the feelings (vedanānupassanā), 3. contemplation of thoughts (cittānupassanā), and 4. contemplation of phenomena (dhammānupassanā).
 
-                    II.The four Supreme Efforts (Sammappadàna) - namely: 1. the effort to prevent evil that has not arisen, 2. the effort to discard evil that has already arisen, 3. the effort to cultivate unarisen good, and 4. the effort to promote good that has already arisen.
+                    II.The four Supreme Efforts (Sammappadāna) - namely: 1. the effort to prevent evil that has not arisen, 2. the effort to discard evil that has already arisen, 3. the effort to cultivate unarisen good, and 4. the effort to promote good that has already arisen.
 
-                    III.The four Means of Accomplishment (iddhipàda) - namely: will (chanda), energy (viriya), thought (citta), and wisdom (vima§sà).
+                    III.The four Means of Accomplishment (iddhipāda) - namely: will (chanda), energy (viriya), thought (citta), and wisdom (vimaṃsā).
 
-                    IV.The five faculties (Indriya) - namely: confidence (saddhà), energy (viriya), mindfulness (sati), concentration (samàdhi), and wisdom (pa¤¤à).
+                    IV.The five faculties (Indriya) - namely: confidence (saddhā), energy (viriya), mindfulness (sati), concentration (samādhi), and wisdom (paññā).
 
                     V.The five Forces (Bala), having the same names as the Indriyas.
 
-                    VI.The seven Constituents of Enlightenment (Bojjhaïga) - namely: mindfulness (sati), investigation of the Truth (Dhammavicaya), energy (viriya), joy (pãti), serenity (passaddhi), concentration (samàdhi), and equanimity (upekkhà).
+                    VI.The seven Constituents of Enlightenment (Bojjhaṅga) - namely: mindfulness (sati), investigation of the Truth (Dhammavicaya), energy (viriya), joy (pīti), serenity (passaddhi), concentration (samādhi), and equanimity (upekkhā).
 
-                    VII.The Eightfold Path (Aññhaïgikamagga) - namely: right views (sammà diññhi), right thoughts (sammà saïkappa), right speech (sammà vàcà), right actions (sammà kammanta), right livelihood (sammà àjãva), right endeavour (sammà vàyàma), right mindfulness (sammà sati) and right concentration (sammà samàdhi).
+                    VII.The Eightfold Path (Aññhaṅgikamagga) - namely: right views (sammā diññhi), right thoughts (sammā saṅkappa), right speech (sammā vācā), right actions (sammā kammanta), right livelihood (sammā ājīva), right endeavour (sammā vāyāma), right mindfulness (sammā sati) and right concentration (sammā samādhi).
 
-.. [NāradaFn04-07]  (Ven. Nārada 04-07)  The term sekha, lit., one who is still under going training, is applied to a disciple who has attained the first stage of Sainthood (Sotàpatti = Stream-winner) until he attains the final Arahatta fruit stage. When he totally eradicates all fetters (sa§yojana) and attains the fruit stage of an Arahant, he is called an Asekha, as he has perfected his training. It is an asekha disciple who understands him self and the whole world as they really are. There is no graceful English equivalent for this difficult Pali term. "Adept" (= one who has attained) may be suggested as the closest rendering.
+.. [NāradaFn04-07]  (Ven. Nārada 04-07)  The term sekha, lit., one who is still under going training, is applied to a disciple who has attained the first stage of Sainthood (Sotāpatti = Stream-winner) until he attains the final Arahatta fruit stage. When he totally eradicates all fetters (saṃyojana) and attains the fruit stage of an Arahant, he is called an Asekha, as he has perfected his training. It is an asekha disciple who understands him self and the whole world as they really are. There is no graceful English equivalent for this difficult Pali term. "Adept" (= one who has attained) may be suggested as the closest rendering.
 
 .. [NāradaFn04-08]  (Ven. Nārada 04-08)  Owing to its fleeting nature.
 
 .. [NāradaFn04-09]  (Ven. Nārada 04-09)  Because there is nothing substantial in this body.
 
-.. [NāradaFn04-10]  (Ven. Nārada 04-10)  Namely life's sorrow, born of passions. An Arahant destroys all passions by his wisdom and attains Nibbàna where there is no death.
+.. [NāradaFn04-10]  (Ven. Nārada 04-10)  Namely life's sorrow, born of passions. An Arahant destroys all passions by his wisdom and attains Nibbāna where there is no death.
 
 .. [NāradaFn04-11]  (Ven. Nārada 04-11)  Antaka, lit., Ender, which means death.
 

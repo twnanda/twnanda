@@ -3,7 +3,7 @@
 ==================================================================
 
 :date: 2016-05-29 18:30
-:modified: 2016-05-31 21:30
+:modified: 2016-06-19 18:00
 :tags: 法句經, 法句經對讀, 心品, Dhp, Dhammapada, Cittavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Mind
@@ -314,7 +314,7 @@
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - 37. FREE ARE THEY WHO HAVE CONTROLLED THEIR MINDS
 
-       Faring far, wandering alone, [NāradaFn03-03]_ bodiless, [NāradaFn03-04]_ lying in a cave, [NāradaFn03-05]_ is the mind. Those who subdue it are freed from the bond of Màra.
+       Faring far, wandering alone, [NāradaFn03-03]_ bodiless, [NāradaFn03-04]_ lying in a cave, [NāradaFn03-05]_ is the mind. Those who subdue it are freed from the bond of Māra.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 37. Dwelling in the cave (of the heart), the mind, without form, wanders far and alone. Those who subdue this mind are liberated from the bonds of Mara.
@@ -483,7 +483,7 @@
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - 40. FORTIFY YOUR MIND AND BE NON-ATTACHED
 
-       Realizing that this body is (as fragile) as a jar, establishing this mind (as firm) as a (fortified) city he should attack Màra [NāradaFn03-09]_ with the weapon of wisdom. He should guard his conquest [NāradaFn03-10]_ and be without attachment. [NāradaFn03-11]_ 
+       Realizing that this body is (as fragile) as a jar, establishing this mind (as firm) as a (fortified) city he should attack Māra [NāradaFn03-09]_ with the weapon of wisdom. He should guard his conquest [NāradaFn03-10]_ and be without attachment. [NāradaFn03-11]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 40. Realizing that this body is as fragile as a clay pot, and fortifying this mind like a well-fortified city, fight out Mara with the sword of wisdom. Then, guarding the conquest, remain unattached.
@@ -716,7 +716,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -760,15 +760,15 @@
 .. [CFFn03-04] 〔敬法法師註03-03〕 11 註：保護勝利是指保護已獲得的初階觀智，不執著是指不執著於禪那，而繼續修行觀禪直至證悟聖道果。
 
 
-.. [NāradaFn03-01]  (Ven. Nārada 03-01) Citta is derived from the root cit, to think. The traditional interpretation of the term is "that which is aware of an object" (cinteti = vijànàti). Actually it is not that which thinks of an object as the term implies. If it could be said "it thinks" as one says in English "it rains", it would be more in consonance with the Buddha's teaching. From an ultimate standpoint citta may be defined as the awareness of an object, since Buddhism denies a subjective agent like a soul. According to Buddhism no distinction is made between mind and consciousness, terms which are used as equivalents for citta.
+.. [NāradaFn03-01]  (Ven. Nārada 03-01) Citta is derived from the root cit, to think. The traditional interpretation of the term is "that which is aware of an object" (cinteti = vijānāti). Actually it is not that which thinks of an object as the term implies. If it could be said "it thinks" as one says in English "it rains", it would be more in consonance with the Buddha's teaching. From an ultimate standpoint citta may be defined as the awareness of an object, since Buddhism denies a subjective agent like a soul. According to Buddhism no distinction is made between mind and consciousness, terms which are used as equivalents for citta.
 
-.. [NāradaFn03-02]  (Ven. Nārada 03-02) Pahàtave is used in the sense of pahàtabba = should be shunned.
+.. [NāradaFn03-02]  (Ven. Nārada 03-02) Pahātave is used in the sense of pahātabba = should be shunned.
 
 .. [NāradaFn03-03]  (Ven. Nārada 03-03) Because no two thought moments arise at a particular time.
 
 .. [NāradaFn03-04]  (Ven. Nārada 03-04) The imperceptible mind is immaterial and colourless.
 
-.. [NāradaFn03-05]  (Ven. Nārada 03-05) Guhàsaya§ - i.e., the seat of consciousness. It is clear that the Buddha has not definitely assigned a specific basis for consciousness as He had done with the other senses. It was the cardiac theory (the theory that the heart is the seat of consciousness) that prevailed in His time, and this was evidently supported by the Upanishads. The Buddha could have adopted this popular theory, but He did not commit Himself. In the Paññhàna, the Book of Relations, the Buddha refers to the basis of consciousness in such indirect terms as ya§ råpa§ nissàya, dependent on that material thing. What the material thing was the Buddha did not positively assert. According to the views of commentators like the Venerables Buddhaghosa and Anuruddha the seat of consciousness is the heart (hadayavatthu).
+.. [NāradaFn03-05]  (Ven. Nārada 03-05) Guhāsayaṃ - i.e., the seat of consciousness. It is clear that the Buddha has not definitely assigned a specific basis for consciousness as He had done with the other senses. It was the cardiac theory (the theory that the heart is the seat of consciousness) that prevailed in His time, and this was evidently supported by the Upanishads. The Buddha could have adopted this popular theory, but He did not commit Himself. In the Paññhāna, the Book of Relations, the Buddha refers to the basis of consciousness in such indirect terms as yaṃ rūpaṃ nissāya, dependent on that material thing. What the material thing was the Buddha did not positively assert. According to the views of commentators like the Venerables Buddhaghosa and Anuruddha the seat of consciousness is the heart (hadayavatthu).
 
                     One wonders whether one is justified in presenting the cardiac theory as Buddhistic when the Buddha Himself neither rejected nor accepted this popular theory.
 
@@ -776,15 +776,15 @@
 
 .. [NāradaFn03-07]  (Ven. Nārada 03-07) The deeds of an Arahant, a perfect Saint, are neither good nor bad because he has gone beyond both good and evil. This does not mean that he is passive. He is active but his activity is selfless and is directed to help others to tread the path he has trod himself. His deeds, ordinarily accepted as good, lack creative power as regards himself in producing Kammic effects. He is not however exempt from the effects of his past actions. He accumulates no fresh kammic activities. Whatever actions he does, as an Arahant, are termed "inoperative" (kiriya), and are not regarded as Kamma. They are ethically ineffective. Understanding things as they truly are, he has finally shattered the cosmic chain of cause and effect.
 
-.. [NāradaFn03-08]  (Ven. Nārada 03-08) It should not erroneously be understood that Arahants do not sleep. Whether asleep or awake they are regarded as sleepless or vigilant ones, since the five stimulating virtues - namely confidence (saddhà), energy (viriya), mindfulness (sati), concentration (samàdhi), and wisdom (pa¤¤à) are ever present in them.
+.. [NāradaFn03-08]  (Ven. Nārada 03-08) It should not erroneously be understood that Arahants do not sleep. Whether asleep or awake they are regarded as sleepless or vigilant ones, since the five stimulating virtues - namely confidence (saddhā), energy (viriya), mindfulness (sati), concentration (samādhi), and wisdom (paññā) are ever present in them.
 
 .. [NāradaFn03-09]  (Ven. Nārada 03-09) The passions.
 
-.. [NāradaFn03-10]  (Ven. Nārada 03-10) By conquest is here meant the newly developed insight (vipassanà).
+.. [NāradaFn03-10]  (Ven. Nārada 03-10) By conquest is here meant the newly developed insight (vipassanā).
 
-.. [NāradaFn03-11]  (Ven. Nārada 03-11) For the Jhànas (absorptions or ecstasies) which the aspirant has developed. The Jhànas are highly developed mental states obtained by intensified concentration.
+.. [NāradaFn03-11]  (Ven. Nārada 03-11) For the Jhānas (absorptions or ecstasies) which the aspirant has developed. The Jhānas are highly developed mental states obtained by intensified concentration.
 
-.. [NāradaFn03-12]  (Ven. Nārada 03-12) Kaëingara§, a rotten log which cannot be used for any purpose.
+.. [NāradaFn03-12]  (Ven. Nārada 03-12) Kaëingaraṃ, a rotten log which cannot be used for any purpose.
 
 .. [NāradaFn03-13]  (Ven. Nārada 03-13) That is, the mind directed towards the ten kinds of evil - namely: 1. killing, 2. stealing, 3. sexual misconduct, 4. lying, 5. slandering, 6. harsh speech, 7. vain talk, 8. covetousness, 9. ill-will, and 10. false belief.
 

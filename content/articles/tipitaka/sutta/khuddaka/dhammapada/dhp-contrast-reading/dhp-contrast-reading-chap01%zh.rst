@@ -2,7 +2,7 @@
 ###################################################################
 
 :date: 2016-02-05 12:00
-:modified: 2016-05-30 15:00
+:modified: 2016-06-19 18:00
 :tags: 法句經, 法句經對讀, 雙品, Dhp, Dhammapada, Yamakavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Pairs
@@ -502,7 +502,7 @@
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - THE WEAK SUCCUMB TO TEMPTATION BUT NOT THE STRONG
-        7. Whoever lives contemplating pleasant things, [NāradaFn01-10]_ with senses unrestrained, in food immoderate, indolent, inactive, him verily Màra [NāradaFn01-11]_ overthrows, as the wind (overthrows) a weak tree.
+        7. Whoever lives contemplating pleasant things, [NāradaFn01-10]_ with senses unrestrained, in food immoderate, indolent, inactive, him verily Māra [NāradaFn01-11]_ overthrows, as the wind (overthrows) a weak tree.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 7. Just as a storm throws down a weak tree, so does Mara overpower the man who lives for the pursuit of pleasures, who is uncontrolled in his senses, immoderate in eating, indolent, and dissipated. [BudRkFn-v7]_
@@ -562,7 +562,7 @@
        3. 當觀不淨行，諸根無缺漏，於食知止足，有信執精進，不恣於欲意，如風吹泰山。（法集要頌經T04, 793b） [TSFn01-20]_
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 8. Whoever lives contemplating "the Impurities", [NāradaFn01-12]_ with senses restrained, in food moderate, full of faith, [NāradaFn01-13]_ full of sustained energy, him Màra overthrows not, as the wind (does not overthrow) a rocky mountain. [NāradaFn01-14]_ 
+     - 8. Whoever lives contemplating "the Impurities", [NāradaFn01-12]_ with senses restrained, in food moderate, full of faith, [NāradaFn01-13]_ full of sustained energy, him Māra overthrows not, as the wind (does not overthrow) a rocky mountain. [NāradaFn01-14]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 8. Just as a storm cannot prevail against a rocky mountain, so Mara can never overpower the man who lives meditating on the impurities, who is controlled in his senses, moderate in eating, and filled with faith and earnest effort. [BudRkFn-v8]_
@@ -1362,7 +1362,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__
 
@@ -1513,7 +1513,7 @@
 
 .. [CFFn01-02] 〔敬法法師註01-02〕 註釋：於此，「他人」（pare）是指除了智者們之外，其他製造爭論的人就是他人。
 
-.. [CFFn01-03] 〔敬法法師註01-03〕　註釋：「已去除污染之人」（vantakasàv'assa）是已透過四道去除污染、棄除污染、斷除污染之人。
+.. [CFFn01-03] 〔敬法法師註01-03〕　註釋：「已去除污染之人」（vantakasāv'assa）是已透過四道去除污染、棄除污染、斷除污染之人。
 
 .. [CFFn01-04] 〔敬法法師註01-04〕　註釋：「良好培育」是於止觀禪法得到良好培育。
 
@@ -1723,37 +1723,37 @@
 
 .. [NāradaFn01-04]  (Ven. Nārada 01-04) The Buddha's constant advice to His followers is not to retaliate but to practise patience at all times, at all places, even under provocation. The Buddha extols those who bear and forbear the wrongs of others though they have the power to retaliate. In the Dhammapada itself there are many instances to show how the Buddha practised patience even when He was severely criticised, abused, and attacked. Patience is not a sign of weakness or defeatism but the unfailing strength of great men and women.
 
-.. [NāradaFn01-05]  (Ven. Nārada 01-05) Avera, literally, means non-anger. Here it means the virtue opposed to the vice of anger, that is, loving-kindness (Mettà).
+.. [NāradaFn01-05]  (Ven. Nārada 01-05) Avera, literally, means non-anger. Here it means the virtue opposed to the vice of anger, that is, loving-kindness (Mettā).
 
 .. [NāradaFn01-06]  (Ven. Nārada 01-06) Sanantana an ancient principle followed by the Buddha and His disciples. (Commentary).
 
 .. [NāradaFn01-07]  (Ven. Nārada 01-07) The quarrelsome persons.
 
-.. [NāradaFn01-08]  (Ven. Nārada 01-08) Yamàmase; derived from yam, to perish, or to restrain.
+.. [NāradaFn01-08]  (Ven. Nārada 01-08) Yamāmase; derived from yam, to perish, or to restrain.
 
 .. [NāradaFn01-09]  (Ven. Nārada 01-09) The first line may also be rendered thus: Others do not know that here we must restrain ourselves. "The world does not know that we must all come to an end here" - Max Muller, "People do not discern that here we straitened are in life, in time" - Mrs. Rhys Davids.
 
 .. [NāradaFn01-10]  (Ven. Nārada 01-10) Desiring pleasurable sensual objects.
 
-.. [NāradaFn01-11]  (Ven. Nārada 01-11) According to Buddhism there are five kinds of Màras - namely: i. the five Aggregates (khandha), ii. moral and immoral activities (abhisaïkhàra), iii. death (maccu), iv. passions (kilesa), and v. Màra the deity (devaputta). Here the term Màra is used in the sense of passions.
+.. [NāradaFn01-11]  (Ven. Nārada 01-11) According to Buddhism there are five kinds of Māras - namely: i. the five Aggregates (khandha), ii. moral and immoral activities (abhisaṅkhāra), iii. death (maccu), iv. passions (kilesa), and v. Māra the deity (devaputta). Here the term Māra is used in the sense of passions.
 
 .. [NāradaFn01-12]  (Ven. Nārada 01-12) The thirty-two impurities of the body such as hair, hair of the skin, nails, teeth, skin, etc. To overcome lust, meditation on the impurities of the body is recommended.
 
-.. [NāradaFn01-13]  (Ven. Nārada 01-13) Saddhà is faith in the Buddha (the Teacher), the Dhamma (the Teaching) and the Sangha (the Order), based on knowledge. There is no blind faith in Buddhism. One is not expected to accept anything on mere unreasoning faith.
+.. [NāradaFn01-13]  (Ven. Nārada 01-13) Saddhā is faith in the Buddha (the Teacher), the Dhamma (the Teaching) and the Sangha (the Order), based on knowledge. There is no blind faith in Buddhism. One is not expected to accept anything on mere unreasoning faith.
 
 .. [NāradaFn01-14]  (Ven. Nārada 01-14) These two verses are meant exclusively for Bhikkhus who lead the Holy Life. The first verse indicates the worldly path of sense-gratification; the second, the spiritual path of sense-control and asceticism. It should be noted that Buddhism offers one way of life to the monks and another to the laity.
 
-.. [NāradaFn01-15]  (Ven. Nārada 01-15) Kasàva means stains of passion. Kàsàva means a dyed robe, the outward symbol of renunciation. Robes of monks are dyed to make them valueless. Here is a play on words. External mark of the Holy Life is of no consequence without internal purity. On another occasion the Buddha remarked that a pure person is indeed an ideal recluse or Bhikkhu, irrespective of his external apparel. See v. 142.
+.. [NāradaFn01-15]  (Ven. Nārada 01-15) Kasāva means stains of passion. Kāsāva means a dyed robe, the outward symbol of renunciation. Robes of monks are dyed to make them valueless. Here is a play on words. External mark of the Holy Life is of no consequence without internal purity. On another occasion the Buddha remarked that a pure person is indeed an ideal recluse or Bhikkhu, irrespective of his external apparel. See v. 142.
 
-.. [NāradaFn01-16]  (Ven. Nārada 01-16) Sàra means the core or essence. Asàra are the unessentials like the necessaries of life, false beliefs, etc. Sàra are the essentials like right beliefs, (sammà diññhi) morality (sãla), concentration (samàdhi), wisdom (pa¤¤à), etc. The essence of the Holy Life cannot be achieved by caring for unessentials.
+.. [NāradaFn01-16]  (Ven. Nārada 01-16) Sāra means the core or essence. Asāra are the unessentials like the necessaries of life, false beliefs, etc. Sāra are the essentials like right beliefs, (sammā diññhi) morality (sīla), concentration (samādhi), wisdom (paññā), etc. The essence of the Holy Life cannot be achieved by caring for unessentials.
 
-                    In the Mahà Sàropama Sutta (Majjhima Nikàya, No. 29) the Buddha has compared the leaves and branches of a tree to gain and fame, the bark to morality, the greenwood to concentration, the fruits to the five kinds of super-intellect (abhi¤¤à) and the core to Arahantship.
+                    In the Mahā Sāropama Sutta (Majjhima Nikāya, No. 29) the Buddha has compared the leaves and branches of a tree to gain and fame, the bark to morality, the greenwood to concentration, the fruits to the five kinds of super-intellect (abhiññā) and the core to Arahantship.
 
-.. [NāradaFn01-17]  (Ven. Nārada 01-17) Such as lust (kàma), illwill (vyàpàda), and harmfulness (vihi§sà)
+.. [NāradaFn01-17]  (Ven. Nārada 01-17) Such as lust (kāma), illwill (vyāpāda), and harmfulness (vihiṃsā)
 
-.. [NāradaFn01-18]  (Ven. Nārada 01-18) Such as renunciation or non-attachment (nekkhamma), loving-kindness (avyàpàda), and harmlessness (avihi§sà). These pure thoughts constitute the second factor of the Noble Eightfold Path.
+.. [NāradaFn01-18]  (Ven. Nārada 01-18) Such as renunciation or non-attachment (nekkhamma), loving-kindness (avyāpāda), and harmlessness (avihiṃsā). These pure thoughts constitute the second factor of the Noble Eightfold Path.
 
-.. [NāradaFn01-19]  (Ven. Nārada 01-19) Bhàvita§, lit., made to become, i.e., trained, cultivated, developed. Mind is trained by concentration, which leads to one-pointedness of the mind and mental purification, and by contemplation, which leads to the understanding of things as they truly are. The ultimate goal of a Buddhist is achieved by these two stages of mental development. As physical exercise is to the body, so is meditation to the mind. A well-developed mind is not easily dominated by passions.
+.. [NāradaFn01-19]  (Ven. Nārada 01-19) Bhāvitaṃ, lit., made to become, i.e., trained, cultivated, developed. Mind is trained by concentration, which leads to one-pointedness of the mind and mental purification, and by contemplation, which leads to the understanding of things as they truly are. The ultimate goal of a Buddhist is achieved by these two stages of mental development. As physical exercise is to the body, so is meditation to the mind. A well-developed mind is not easily dominated by passions.
 
 .. [NāradaFn01-20]  (Ven. Nārada 01-20) Repenting over his evil deeds, he suffers mentally.
 
@@ -1767,11 +1767,11 @@
 
 .. [NāradaFn01-25]  (Ven. Nārada 01-25) Duggati is a woeful state and Sugati is a blissful state. Rebirths in all such states are temporary.
 
-.. [NāradaFn01-26]  (Ven. Nārada 01-26) Sahita§ = saha + hita§, is that which is associated with what is beneficial. Commentary states that sahita§ is a synonym for the Tipiñaka, the three Baskets, taught by the Buddha, namely: Vinaya Piñaka, the Basket of Discipline, Sutta Piñaka, the Basket of Discourses, and Abhidhamma Piñaka, the Basket of Ultimate Doctrine.
+.. [NāradaFn01-26]  (Ven. Nārada 01-26) Sahitaṃ = saha + hitaṃ, is that which is associated with what is beneficial. Commentary states that sahitaṃ is a synonym for the Tipiñaka, the three Baskets, taught by the Buddha, namely: Vinaya Piñaka, the Basket of Discipline, Sutta Piñaka, the Basket of Discourses, and Abhidhamma Piñaka, the Basket of Ultimate Doctrine.
 
-.. [NāradaFn01-27]  (Ven. Nārada 01-27) The blessings of a monk are the four stages of Sainthood - namely: Sotàpatti, Stream Winner, Sakadàgàmi, Once-Returner, Anàgàmi, Never-Returner, and Arahanta, the Worthy.
+.. [NāradaFn01-27]  (Ven. Nārada 01-27) The blessings of a monk are the four stages of Sainthood - namely: Sotāpatti, Stream Winner, Sakadāgāmi, Once-Returner, Anāgāmi, Never-Returner, and Arahanta, the Worthy.
 
-.. [NāradaFn01-28]  (Ven. Nārada 01-28) Sàma¤¤assa = lit. the state of a monk or ascetic, i.e., the Holy life. According to Buddhism learning is of no avail without actual practice.
+.. [NāradaFn01-28]  (Ven. Nārada 01-28) Sāmaññassa = lit. the state of a monk or ascetic, i.e., the Holy life. According to Buddhism learning is of no avail without actual practice.
 
                     As such Buddhism is not a mere philosophy, but a unique Path of Enlightenment.
 
