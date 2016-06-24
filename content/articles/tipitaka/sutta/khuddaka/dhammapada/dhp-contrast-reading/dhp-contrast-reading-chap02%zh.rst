@@ -3,7 +3,7 @@
 =========================================================================
 
 :date: 2016-02-11 11:30
-:modified: 2016-06-19 18:00
+:modified: 2016-06-24 10:30
 :tags: 法句經, 法句經對讀, 不放逸品, Dhp, Dhammapada, Appamādavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Heedfulness
@@ -104,11 +104,37 @@
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - Dhp II Heedfulness
-        | **21** Heedfulness:  the path to the Deathless.
-        | Heedlessness: the path to death.
-        | The heedful do not die.
-        | The heedless are as if
-        | already dead. [ThaniSFn-V21]_
+       
+       **21-24** [ThaniSFn-V21]_
+       ::
+             
+          Heedfulness:  the path to the Deathless.  
+          Heedlessness: the path to death.  
+          The heedful do not die.   
+          The heedless are as if    
+            already dead. 
+              
+          Knowing this as a true distinction,   
+          those wise in heedfulness   
+          rejoice in heedfulness,   
+          enjoying the range of the noble ones.   
+              
+          The enlightened, constantly   
+            absorbed in jhana,  
+            persevering,  
+            firm in their effort: 
+          they touch Unbinding,   
+          the unexcelled rest   
+            from the yoke.  
+              
+          Those with initiative,    
+            mindful,  
+            clean in action,  
+          acting with due consideration,    
+            heedful, restrained,  
+          living the Dhamma:    
+            their glory 
+            grows.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - **2. Diligence** 
@@ -160,10 +186,36 @@
      - 22. Clearly understanding this excellence of heedfulness, the wise exult therein and enjoy the resort of the Noble Ones. [BudRkFn-v22]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **22** Knowing this as a true distinction,
-       | those wise in heedfulness
-       | rejoice in heedfulness,
-       | enjoying the range of the noble ones. [ThaniSFn-V22]_ 
+     - **21-24** [ThaniSFn-V22]_
+       ::
+             
+          Heedfulness:  the path to the Deathless.  
+          Heedlessness: the path to death.  
+          The heedful do not die.   
+          The heedless are as if    
+            already dead. 
+              
+          Knowing this as a true distinction,   
+          those wise in heedfulness   
+          rejoice in heedfulness,   
+          enjoying the range of the noble ones.   
+              
+          The enlightened, constantly   
+            absorbed in jhana,  
+            persevering,  
+            firm in their effort: 
+          they touch Unbinding,   
+          the unexcelled rest   
+            from the yoke.  
+              
+          Those with initiative,    
+            mindful,  
+            clean in action,  
+          acting with due consideration,    
+            heedful, restrained,  
+          living the Dhamma:    
+            their glory 
+            grows.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | 22&23 The wise, recognising the special quality of diligence, rejoice in it, delighting in the realm of morally outstanding people (ariyans). They apply themselves constantly and unwaveringly. The steadfast reach Nibbana, ultimate safety.
@@ -210,13 +262,36 @@
      - 23. The wise ones, ever meditative and steadfastly persevering, alone experience Nibbana, the incomparable freedom from bondage.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | 23 The enlightened, constantly
-       |   absorbed in jhana,
-       |   persevering,
-       |   firm in their effort:
-       | they touch Unbinding,
-       | the unexcelled rest
-       |   from the yoke. [ThaniSFn-V23]_ 
+     - **21-24** [ThaniSFn-V23]_
+       ::
+             
+          Heedfulness:  the path to the Deathless.  
+          Heedlessness: the path to death.  
+          The heedful do not die.   
+          The heedless are as if    
+            already dead. 
+              
+          Knowing this as a true distinction,   
+          those wise in heedfulness   
+          rejoice in heedfulness,   
+          enjoying the range of the noble ones.   
+              
+          The enlightened, constantly   
+            absorbed in jhana,  
+            persevering,  
+            firm in their effort: 
+          they touch Unbinding,   
+          the unexcelled rest   
+            from the yoke.  
+              
+          Those with initiative,    
+            mindful,  
+            clean in action,  
+          acting with due consideration,    
+            heedful, restrained,  
+          living the Dhamma:    
+            their glory 
+            grows.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | 22&23 The wise, recognising the special quality of diligence, rejoice in it, delighting in the realm of morally outstanding people (ariyans). They apply themselves constantly and unwaveringly. The steadfast reach Nibbana, ultimate safety.
@@ -264,14 +339,36 @@
      - 24. Ever grows the glory of him who is energetic, mindful and pure in conduct, discerning and self-controlled, righteous and heedful.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | 24 Those with initiative,
-       |   mindful,
-       |   clean in action,
-       | acting with due consideration,
-       |   heedful, restrained,
-       | living the Dhamma:
-       |   their glory
-       |   grows.
+     - **21-24** 
+       ::
+             
+          Heedfulness:  the path to the Deathless.  
+          Heedlessness: the path to death.  
+          The heedful do not die.   
+          The heedless are as if    
+            already dead. 
+              
+          Knowing this as a true distinction,   
+          those wise in heedfulness   
+          rejoice in heedfulness,   
+          enjoying the range of the noble ones.   
+              
+          The enlightened, constantly   
+            absorbed in jhana,  
+            persevering,  
+            firm in their effort: 
+          they touch Unbinding,   
+          the unexcelled rest   
+            from the yoke.  
+              
+          Those with initiative,    
+            mindful,  
+            clean in action,  
+          acting with due consideration,    
+            heedful, restrained,  
+          living the Dhamma:    
+            their glory 
+            grows.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | 24 People who are
@@ -327,12 +424,15 @@
      - 25. By effort and heedfulness, discipline and self-mastery, let the wise one make for himself an island which no flood can overwhelm.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | 25 Through initiative, heedfulness,
-       | restraint, & self-control,
-       | the wise would make
-       |      an island
-       | no flood
-       | can submerge.
+     - **25**
+       ::
+              
+          Through initiative, heedfulness,    
+          restraint, & self-control,    
+          the wise would make   
+               an island  
+          no flood    
+          can submerge.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | 25 The wise by means of
@@ -387,11 +487,14 @@
      - 26. The foolish and ignorant indulge in heedlessness, but the wise one keeps his heedfulness as his best treasure.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | 26 They're addicted to heedlessness
-       |  — dullards, fools —
-       | while one who is wise
-       | cherishes heedfulness
-       | as his highest wealth.
+     - **26**
+       ::
+              
+          They're addicted to heedlessness    
+           — dullards, fools —    
+          while one who is wise   
+          cherishes heedfulness   
+          as his highest wealth.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | 26 They’re given to slackness, the dull and inane;
@@ -439,12 +542,15 @@
      - 27. Do not give way to heedlessness. Do not indulge in sensual pleasures. Only the heedful and meditative attain great happiness.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | 27 Don't give way to heedlessness
-       |   or to intimacy
-       |   with sensual delight —
-       | for a heedful person,
-       | absorbed in jhana,
-       | attains an abundance of ease.
+     - **27** 
+       ::
+              
+          Don't give way to heedlessness    
+            or to intimacy  
+            with sensual delight —  
+          for a heedful person,   
+          absorbed in jhana,    
+          attains an abundance of ease.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | 27 Don’t be given to negligence;
@@ -502,17 +608,20 @@
      - 28. Just as one upon the summit of a mountain beholds the groundlings, even so when the wise man casts away heedlessness by heedfulness and ascends the high tower of wisdom, this sorrowless sage beholds the sorrowing and foolish multitude.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | 28 When the wise person drives out
-       |   heedlessness
-       |   with heedfulness,
-       | having climbed the high tower
-       | of discernment,
-       |   sorrow-free,
-       | he observes the sorrowing crowd —
-       | as the enlightened man,
-       | having scaled
-       |   a summit,
-       | the fools on the ground below.
+     - **28** 
+       ::
+              
+          When the wise person drives out   
+            heedlessness  
+            with heedfulness, 
+          having climbed the high tower   
+          of discernment,   
+            sorrow-free,  
+          he observes the sorrowing crowd —   
+          as the enlightened man,   
+          having scaled   
+            a summit, 
+          the fools on the ground below.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | 28 With negligence scattered by diligent power,
@@ -568,11 +677,14 @@
      - 29. Heedful among the heedless, wide-awake among the sleepy, the wise man advances like a swift horse leaving behind a weak jade.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | 29 Heedful among the heedless,
-       | wakeful among those asleep,
-       | just as a fast horse advances,
-       | leaving the weak behind:
-       |   so the wise.
+     - **29** 
+       ::
+              
+          Heedful among the heedless,   
+          wakeful among those asleep,   
+          just as a fast horse advances,    
+          leaving the weak behind:    
+            so the wise.     
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | 29 Heedful amongst the oblivious,
@@ -623,11 +735,14 @@
      - 30. By Heedfulness did Indra become the overlord of the gods. Heedfulness is ever praised, and heedlessness ever despised. [BudRkFn-v30]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | 30 Through heedfulness, Indra won
-       | to lordship over the gods.
-       | Heedfulness is praised,
-       | heedlessness censured —
-       |   always.
+     - **30** 
+       ::
+              
+          Through heedfulness, Indra won    
+          to lordship over the gods.    
+          Heedfulness is praised,   
+          heedlessness censured —   
+            always.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | 30 Sakka, through heedful behaviour,
@@ -695,11 +810,20 @@
      - 31. The monk who delights in heedfulness and looks with fear at heedlessness advances like fire, burning all fetters, small and large.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | 31 The monk delighting in heedfulness,
-       | seeing danger in heedlessness,
-       | advances like a fire,
-       | burning fetters
-       |   great & small.
+     - **31-32**
+       ::
+              
+          The monk delighting in heedfulness,   
+          seeing danger in heedlessness,    
+          advances like a fire,   
+          burning fetters   
+            great & small.  
+              
+          The monk delighting in heedfulness,   
+          seeing danger in heedlessness   
+           — incapable of falling back —    
+          stands right on the verge   
+            of Unbinding.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | 31 The monk who in diligence finds his delight,
@@ -760,11 +884,20 @@
      - 32. The monk who delights in heedfulness and looks with fear at heedlessness will not fall. He is close to Nibbana.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | 32 The monk delighting in heedfulness,
-       | seeing danger in heedlessness
-       |  — incapable of falling back —
-       | stands right on the verge
-       |   of Unbinding.
+     - **31-32**
+       ::
+              
+          The monk delighting in heedfulness,   
+          seeing danger in heedlessness,    
+          advances like a fire,   
+          burning fetters   
+            great & small.  
+              
+          The monk delighting in heedfulness,   
+          seeing danger in heedlessness   
+           — incapable of falling back —    
+          stands right on the verge   
+            of Unbinding.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | 32 The monk who in diligence finds his delight,

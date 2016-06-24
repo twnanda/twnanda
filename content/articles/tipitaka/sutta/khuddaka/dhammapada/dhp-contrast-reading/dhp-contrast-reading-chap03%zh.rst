@@ -3,7 +3,7 @@
 ==================================================================
 
 :date: 2016-05-29 18:30
-:modified: 2016-06-19 18:00
+:modified: 2016-06-24 11:00
 :tags: 法句經, 法句經對讀, 心品, Dhp, Dhammapada, Cittavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Mind
@@ -91,13 +91,48 @@
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - Dhp III The Mind
-        | **33** Quivering, wavering,
-        | hard to guard,
-        | to hold in check:
-        |   the mind.
-        | The sage makes it straight —
-        | like a fletcher,
-        | the shaft of an arrow.
+
+       **33-37** 
+       ::
+              
+          Quivering, wavering,    
+          hard to guard,    
+          to hold in check:   
+            the mind. 
+          The sage makes it straight —    
+          like a fletcher,    
+          the shaft of an arrow.    
+              
+          Like a fish   
+          pulled from its home in the water   
+          & thrown on land:   
+          this mind flips & flaps about   
+            to escape Mara's sway.  
+              
+          Hard to hold down,    
+            nimble, 
+          alighting wherever it likes:    
+            the mind. 
+          Its taming is good.   
+          The mind well-tamed   
+            brings ease.  
+              
+          So hard to see,   
+          so very, very subtle,   
+          alighting wherever it likes:    
+            the mind. 
+          The wise should guard it.   
+          The mind protected    
+            brings ease.  
+              
+          Wandering far,    
+          going alone,    
+          bodiless,   
+          lying in a cave:    
+            the mind. 
+          Those who restrain it:    
+            from Mara's bonds 
+            they'll be freed.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - **3. The Mind** 
@@ -146,11 +181,47 @@
      - 34. As a fish when pulled out of water and cast on land throbs and quivers, even so is this mind agitated. Hence should one abandon the realm of Mara.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - |  **34** Like a fish
-       | pulled from its home in the water
-       | & thrown on land:
-       | this mind flips & flaps about
-       |   to escape Mara's sway.
+     - **33-37** 
+       ::
+              
+          Quivering, wavering,    
+          hard to guard,    
+          to hold in check:   
+            the mind. 
+          The sage makes it straight —    
+          like a fletcher,    
+          the shaft of an arrow.    
+              
+          Like a fish   
+          pulled from its home in the water   
+          & thrown on land:   
+          this mind flips & flaps about   
+            to escape Mara's sway.  
+              
+          Hard to hold down,    
+            nimble, 
+          alighting wherever it likes:    
+            the mind. 
+          Its taming is good.   
+          The mind well-tamed   
+            brings ease.  
+              
+          So hard to see,   
+          so very, very subtle,   
+          alighting wherever it likes:    
+            the mind. 
+          The wise should guard it.   
+          The mind protected    
+            brings ease.  
+              
+          Wandering far,    
+          going alone,    
+          bodiless,   
+          lying in a cave:    
+            the mind. 
+          Those who restrain it:    
+            from Mara's bonds 
+            they'll be freed.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **34** Like a fish that has been landed,
@@ -201,13 +272,47 @@
      - 35. Wonderful, indeed, it is to subdue the mind, so difficult to subdue, ever swift, and seizing whatever it desires. A tamed mind brings happiness.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - |  **35** Hard to hold down,
-       |   nimble,
-       | alighting wherever it likes:
-       |   the mind.
-       | Its taming is good.
-       | The mind well-tamed
-       |   brings ease.
+     - **33-37** 
+       ::
+              
+          Quivering, wavering,    
+          hard to guard,    
+          to hold in check:   
+            the mind. 
+          The sage makes it straight —    
+          like a fletcher,    
+          the shaft of an arrow.    
+              
+          Like a fish   
+          pulled from its home in the water   
+          & thrown on land:   
+          this mind flips & flaps about   
+            to escape Mara's sway.  
+              
+          Hard to hold down,    
+            nimble, 
+          alighting wherever it likes:    
+            the mind. 
+          Its taming is good.   
+          The mind well-tamed   
+            brings ease.  
+              
+          So hard to see,   
+          so very, very subtle,   
+          alighting wherever it likes:    
+            the mind. 
+          The wise should guard it.   
+          The mind protected    
+            brings ease.  
+              
+          Wandering far,    
+          going alone,    
+          bodiless,   
+          lying in a cave:    
+            the mind. 
+          Those who restrain it:    
+            from Mara's bonds 
+            they'll be freed.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **35** Hard to control is this mind, and so changeable,
@@ -255,13 +360,47 @@
      - 36. Let the discerning man guard the mind, so difficult to detect and extremely subtle, seizing whatever it desires. A guarded mind brings happiness.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **36** So hard to see,
-       | so very, very subtle,
-       | alighting wherever it likes:
-       |   the mind.
-       | The wise should guard it.
-       | The mind protected
-       |   brings ease.
+     - **33-37** 
+       ::
+              
+          Quivering, wavering,    
+          hard to guard,    
+          to hold in check:   
+            the mind. 
+          The sage makes it straight —    
+          like a fletcher,    
+          the shaft of an arrow.    
+              
+          Like a fish   
+          pulled from its home in the water   
+          & thrown on land:   
+          this mind flips & flaps about   
+            to escape Mara's sway.  
+              
+          Hard to hold down,    
+            nimble, 
+          alighting wherever it likes:    
+            the mind. 
+          Its taming is good.   
+          The mind well-tamed   
+            brings ease.  
+              
+          So hard to see,   
+          so very, very subtle,   
+          alighting wherever it likes:    
+            the mind. 
+          The wise should guard it.   
+          The mind protected    
+            brings ease.  
+              
+          Wandering far,    
+          going alone,    
+          bodiless,   
+          lying in a cave:    
+            the mind. 
+          Those who restrain it:    
+            from Mara's bonds 
+            they'll be freed.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **36** The mind is very subtle and difficult to see. It descends on whatever it finds pleasant. A wise person should protect the mind: a protected mind brings happiness.
@@ -320,14 +459,47 @@
      - 37. Dwelling in the cave (of the heart), the mind, without form, wanders far and alone. Those who subdue this mind are liberated from the bonds of Mara.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **37** Wandering far,
-       | going alone,
-       | bodiless,
-       | lying in a cave:
-       |   the mind.
-       | Those who restrain it:
-       |   from Mara's bonds
-       |   they'll be freed. [ThaniSFn-V37]_
+     - **33-37** [ThaniSFn-V37]_
+       ::
+              
+          Quivering, wavering,    
+          hard to guard,    
+          to hold in check:   
+            the mind. 
+          The sage makes it straight —    
+          like a fletcher,    
+          the shaft of an arrow.    
+              
+          Like a fish   
+          pulled from its home in the water   
+          & thrown on land:   
+          this mind flips & flaps about   
+            to escape Mara's sway.  
+              
+          Hard to hold down,    
+            nimble, 
+          alighting wherever it likes:    
+            the mind. 
+          Its taming is good.   
+          The mind well-tamed   
+            brings ease.  
+              
+          So hard to see,   
+          so very, very subtle,   
+          alighting wherever it likes:    
+            the mind. 
+          The wise should guard it.   
+          The mind protected    
+            brings ease.  
+              
+          Wandering far,    
+          going alone,    
+          bodiless,   
+          lying in a cave:    
+            the mind. 
+          Those who restrain it:    
+            from Mara's bonds 
+            they'll be freed.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **37** How far the mind roams!
@@ -379,11 +551,14 @@
      - 38. Wisdom never becomes perfect in one whose mind is not steadfast, who knows not the Good Teaching and whose faith wavers.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **38** For a person of unsteady mind,
-       | not knowing true Dhamma,
-       |   serenity
-       |   set        adrift:
-       | discernment doesn't grow full.
+     - **38** 
+       ::
+              
+          For a person of unsteady mind,    
+          not knowing true Dhamma,    
+            serenity  
+            set        adrift:  
+          discernment doesn't grow full.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **38** In one who is
@@ -432,13 +607,16 @@
      - 39. There is no fear for an awakened one, whose mind is not sodden (by lust) nor afflicted (by hate), and who has gone beyond both merit and demerit. [BudRkFn-v39]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **39** For a person of unsoddened mind,
-       |          unassaulted
-       | awareness,
-       | abandoning merit & evil,
-       |   wakeful,
-       | there is no danger
-       |      no fear. [ThaniSFn-V39]_
+     - **39** [ThaniSFn-V39]_
+       ::
+              
+          For a person of unsoddened mind,    
+                   unassaulted  
+          awareness,    
+          abandoning merit & evil,    
+            wakeful,  
+          there is no danger    
+               no fear.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **39** For one whose mind is not flooded by lust, and not plagued by doubt; for one who has given up both merit and evil; for him, watchful and vigilant, there are no fears.
@@ -489,15 +667,18 @@
      - 40. Realizing that this body is as fragile as a clay pot, and fortifying this mind like a well-fortified city, fight out Mara with the sword of wisdom. Then, guarding the conquest, remain unattached.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **40** Knowing this body
-       |   is like a clay jar,
-       | securing this mind
-       |   like a fort,
-       |      attack Mara
-       |   with the spear of discernment,
-       | then guard what's won
-       |   without settling there,
-       |   without laying claim. [ThaniSFn-V40]_
+     - **40** [ThaniSFn-V40]_
+       ::
+              
+          Knowing this body   
+            is like a clay jar, 
+          securing this mind    
+            like a fort,  
+               attack Mara  
+            with the spear of discernment,  
+          then guard what's won   
+            without settling there, 
+            without laying claim.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **40** Having realised this body’s like a pitcher - it’s as breakable - 
@@ -548,12 +729,15 @@
      - 41. Ere long, alas! this body will lie upon the earth, unheeded and lifeless, like a useless log.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **41** All too soon, this body
-       | will lie on the ground
-       |   cast off,
-       | bereft of consciousness,
-       | like a useless scrap
-       |   of wood.
+     - **41** 
+       ::
+              
+          All too soon, this body   
+          will lie on the ground    
+            cast off, 
+          bereft of consciousness,    
+          like a useless scrap    
+            of wood.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **41** Not long, indeed, till it will rest,
@@ -602,12 +786,22 @@
      - 42. Whatever harm an enemy may do to an enemy, or a hater to a hater, an ill-directed mind inflicts on oneself a greater harm.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **42** Whatever an enemy might do
-       | to an enemy,
-       | or a foe to a foe,
-       | the ill-directed mind
-       | can do to you
-       |   even worse. [ThaniSFn-V42]_
+     - **42-43** [ThaniSFn-V42]_
+       ::
+              
+          Whatever an enemy might do    
+          to an enemy,    
+          or a foe to a foe,    
+          the ill-directed mind   
+          can do to you   
+            even worse. 
+              
+          Whatever a mother, father   
+          or other kinsman    
+          might do for you,   
+          the well-directed mind    
+          can do for you    
+            even better.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **42** Whatever aggressors might do to aggressors,
@@ -666,12 +860,22 @@
      - 43. Neither mother, father, nor any other relative can do one greater good than one's own well-directed mind.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **43** Whatever a mother, father
-       | or other kinsman
-       | might do for you,
-       | the well-directed mind
-       | can do for you
-       |   even better.
+     - **42-43** 
+       ::
+              
+          Whatever an enemy might do    
+          to an enemy,    
+          or a foe to a foe,    
+          the ill-directed mind   
+          can do to you   
+            even worse. 
+              
+          Whatever a mother, father   
+          or other kinsman    
+          might do for you,   
+          the well-directed mind    
+          can do for you    
+            even better.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **43** What mother or father or kindred can’t do,

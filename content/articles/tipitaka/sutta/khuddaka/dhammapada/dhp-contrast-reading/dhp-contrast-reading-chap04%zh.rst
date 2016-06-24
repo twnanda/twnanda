@@ -3,7 +3,7 @@
 ==========================================================================
 
 :date: 2016-06-02 17:30
-:modified: 2016-06-19 18:00
+:modified: 2016-06-24 11:00
 :tags: 法句經, 法句經對讀, 華品, 花品, Dhp, Dhammapada, Pupphavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Flower
@@ -102,24 +102,26 @@
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - Dhp IV Blossoms
 
-       | **44-45** [ThaniSFn-V44-45]_ 
-       | Who will penetrate this earth
-       | & this realm of death
-       | with all its gods?
-       | Who will ferret out
-       | the well-taught Dhamma-saying,
-       | as the skillful flower-arranger
-       |   the flower?
-       | 
-       | The learner-on-the-path
-       | will penetrate this earth
-       | & this realm of death
-       | with all its gods.
-       | The learner-on-the-path
-       | will ferret out
-       | the well-taught Dhamma-saying,
-       | as the skillful flower-arranger
-       |   the flower.
+       **44-45** [ThaniSFn-V44-45]_ 
+       ::
+              
+          Who will penetrate this earth   
+          & this realm of death   
+          with all its gods?    
+          Who will ferret out   
+          the well-taught Dhamma-saying,    
+          as the skillful flower-arranger   
+            the flower? 
+              
+          The learner-on-the-path   
+          will penetrate this earth   
+          & this realm of death   
+          with all its gods.    
+          The learner-on-the-path   
+          will ferret out   
+          the well-taught Dhamma-saying,    
+          as the skillful flower-arranger   
+            the flower.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - **4. Flowers** 
@@ -181,24 +183,26 @@
      - **45.** A striver-on-the path shall overcome this earth, this realm of Yama and this sphere of men and gods. The striver-on-the-path shall bring to perfection the well-taught path of wisdom, as an expert garland-maker would his floral design. [BudRkFn-v45]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **44-45** [ThaniSFn-V44-45]_ 
-       | Who will penetrate this earth
-       | & this realm of death
-       | with all its gods?
-       | Who will ferret out
-       | the well-taught Dhamma-saying,
-       | as the skillful flower-arranger
-       |   the flower?
-       | 
-       | The learner-on-the-path
-       | will penetrate this earth
-       | & this realm of death
-       | with all its gods.
-       | The learner-on-the-path
-       | will ferret out
-       | the well-taught Dhamma-saying,
-       | as the skillful flower-arranger
-       |   the flower.
+     - **44-45** [ThaniSFn-V44-45]_ 
+       ::
+              
+          Who will penetrate this earth   
+          & this realm of death   
+          with all its gods?    
+          Who will ferret out   
+          the well-taught Dhamma-saying,    
+          as the skillful flower-arranger   
+            the flower? 
+              
+          The learner-on-the-path   
+          will penetrate this earth   
+          & this realm of death   
+          with all its gods.    
+          The learner-on-the-path   
+          will ferret out   
+          the well-taught Dhamma-saying,    
+          as the skillful flower-arranger   
+            the flower.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **44&45** Which person will master this world of humanity,
@@ -269,14 +273,17 @@
      - **46.** Realizing that this body is like froth, penetrating its mirage-like nature, and plucking out Mara's flower-tipped arrows of sensuality, go beyond sight of the King of Death!
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **46** Knowing this body
-       | is like foam,
-       | realizing its nature
-       |   — a mirage —
-       | cutting out
-       | the blossoms of Mara,
-       | you go where the King of Death
-       |   can't see.
+     - **46** 
+       ::
+              
+          Knowing this body   
+          is like foam,   
+          realizing its nature    
+            — a mirage —  
+          cutting out   
+          the blossoms of Mara,   
+          you go where the King of Death    
+            can't see.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **46** When you see that this body’s like foam,
@@ -329,20 +336,22 @@
      - **47.** As a mighty flood sweeps away the sleeping village, so death carries away the person of distracted mind who only plucks the flowers (of pleasure).
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **47-48** [ThaniSFn-V48]_ 
-       | The man immersed in
-       | gathering blossoms,
-       | his heart distracted:
-       | death sweeps him away —
-       |   as a great flood,
-       |   a village asleep.
-       | 
-       | The man immersed in
-       | gathering blossoms,
-       | his heart distracted,
-       | insatiable in sensual pleasures:
-       | the End-Maker holds him
-       | under his sway.
+     - **47-48** 
+       ::
+              
+          The man immersed in   
+          gathering blossoms,   
+          his heart distracted:   
+          death sweeps him away —   
+            as a great flood, 
+            a village asleep. 
+              
+          The man immersed in   
+          gathering blossoms,   
+          his heart distracted,   
+          insatiable in sensual pleasures:    
+          the End-Maker holds him   
+          under his sway.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **47** They who gather flowers of pleasure,
@@ -396,20 +405,22 @@
      - **48.** The Destroyer brings under his sway the person of distracted mind who, insatiate in sense desires, only plucks the flowers (of pleasure).
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **47-48** [ThaniSFn-V48]_ 
-       | The man immersed in
-       | gathering blossoms,
-       | his heart distracted:
-       | death sweeps him away —
-       |   as a great flood,
-       |   a village asleep.
-       | 
-       | The man immersed in
-       | gathering blossoms,
-       | his heart distracted,
-       | insatiable in sensual pleasures:
-       | the End-Maker holds him
-       | under his sway.
+     - **47-48** [ThaniSFn-V48]_ 
+       ::
+              
+          The man immersed in   
+          gathering blossoms,   
+          his heart distracted:   
+          death sweeps him away —   
+            as a great flood, 
+            a village asleep. 
+              
+          The man immersed in   
+          gathering blossoms,   
+          his heart distracted,   
+          insatiable in sensual pleasures:    
+          the End-Maker holds him   
+          under his sway.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **48** On they who gather flowers of pleasure,
@@ -481,13 +492,16 @@
      - **49.** As a bee gathers honey from the flower without injuring its color or fragrance, even so the sage goes on his alms-round in the village. [BudRkFn-v49]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **49** As a bee — without harming
-       |   the blossom,
-       |   its color,
-       |   its fragrance —
-       | takes its nectar & flies away:
-       | so should the sage
-       | go through a village.
+     - **49** 
+       ::
+              
+          As a bee — without harming    
+            the blossom,  
+            its color,  
+            its fragrance — 
+          takes its nectar & flies away:    
+          so should the sage    
+          go through a village.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **49** Whenever a bumble-bee visits a flower,
@@ -558,13 +572,16 @@
      - **50.** Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **50** Focus,
-       | not on the rudenesses of others,
-       | not on what they've done
-       |   or left undone,
-       | but on what you
-       | have & haven't done
-       |   yourself.
+     - **50** 
+       ::
+              
+          Focus,    
+          not on the rudenesses of others,    
+          not on what they've done    
+            or left undone, 
+          but on what you   
+          have & haven't done   
+            yourself.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **50** Don’t try and seek out another’s iniquity;
@@ -617,19 +634,22 @@
      - **51.** Like a beautiful flower full of color but without fragrance, even so, fruitless are the fair words of one who does not practice them.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **51-52** Just like a blossom,
-       | bright colored
-       |   but scentless:
-       | a well-spoken word
-       |   is fruitless
-       | when not carried out.
-       | 
-       | Just like a blossom,
-       | bright colored
-       |   & full of scent:
-       | a well-spoken word
-       |   is fruitful
-       | when well carried out.
+     - **51-52**
+       ::
+              
+          Just like a blossom,    
+          bright colored    
+            but scentless:  
+          a well-spoken word    
+            is fruitless  
+          when not carried out.   
+              
+          Just like a blossom,    
+          bright colored    
+            & full of scent:  
+          a well-spoken word    
+            is fruitful 
+          when well carried out.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **51** One’s well-spoken Dhamma is empty of fruit
@@ -679,19 +699,22 @@
      - **52.** Like a beautiful flower full of color and also fragrant, even so, fruitful are the fair words of one who practices them.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **51-52** Just like a blossom,
-       | bright colored
-       |   but scentless:
-       | a well-spoken word
-       |   is fruitless
-       | when not carried out.
-       | 
-       | Just like a blossom,
-       | bright colored
-       |   & full of scent:
-       | a well-spoken word
-       |   is fruitful
-       | when well carried out.
+     - **51-52**
+       ::
+              
+          Just like a blossom,    
+          bright colored    
+            but scentless:  
+          a well-spoken word    
+            is fruitless  
+          when not carried out.   
+              
+          Just like a blossom,    
+          bright colored    
+            & full of scent:  
+          a well-spoken word    
+            is fruitful 
+          when well carried out.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **52** One’s well-spoken Dhamma is bursting with fruit
@@ -744,14 +767,16 @@
      - **53.** As from a great heap of flowers many garlands can be made, even so should many good deeds be done by one born a mortal.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **53** [ThaniSFn-V53]_ 
-       | Just as from a heap of flowers
-       | many garland strands can be made,
-       |   even so
-       | one born & mortal
-       |   should do
-       |  — with what's born & is mortal —
-       |   many a skillful thing.
+     - **53** [ThaniSFn-V53]_ 
+       ::
+              
+          Just as from a heap of flowers    
+          many garland strands can be made,   
+            even so 
+          one born & mortal   
+            should do 
+           — with what's born & is mortal —   
+            many a skillful thing.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **53** From a mass of flowers profuse,
@@ -812,29 +837,31 @@
      - **54.** Not the sweet smell of flowers, not even the fragrance of sandal, tagara, or jasmine blows against the wind. But the fragrance of the virtuous blows against the wind. Truly the virtuous man pervades all directions with the fragrance of his virtue. [BudRkFn-v54]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **54-56** [ThaniSFn-V54-56]_
-       | No flower's scent
-       | goes against the wind —
-       |   not sandalwood,
-       |      jasmine,
-       |      tagara.
-       | But the scent of the good
-       | does go against the wind.
-       | The person of integrity
-       | wafts a scent
-       | in every direction.
-       | 
-       | Sandalwood, tagara,
-       | lotus, & jasmine:
-       | Among these scents,
-       | the scent of virtue
-       | is unsurpassed.
-       | 
-       | Next to nothing, this fragrance
-       |  — sandalwood, tagara —
-       | while the scent of the virtuous
-       | wafts to the gods,
-       |   supreme.
+     - **54-56** [ThaniSFn-V54-56]_ 
+       ::
+              
+          No flower's scent   
+          goes against the wind —   
+            not sandalwood, 
+               jasmine, 
+               tagara.  
+          But the scent of the good   
+          does go against the wind.   
+          The person of integrity   
+          wafts a scent   
+          in every direction.   
+              
+          Sandalwood, tagara,   
+          lotus, & jasmine:   
+          Among these scents,   
+          the scent of virtue   
+          is unsurpassed.   
+              
+          Next to nothing, this fragrance   
+           — sandalwood, tagara —   
+          while the scent of the virtuous   
+          wafts to the gods,    
+            supreme.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **54** Lavender, sandalwood, jasmine and lotus
@@ -892,29 +919,31 @@
      - **55.** Of all the fragrances — sandal, tagara, blue lotus and jasmine — the fragrance of virtue is the sweetest.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **54-56** [ThaniSFn-V54-56]_
-       | No flower's scent
-       | goes against the wind —
-       |   not sandalwood,
-       |      jasmine,
-       |      tagara.
-       | But the scent of the good
-       | does go against the wind.
-       | The person of integrity
-       | wafts a scent
-       | in every direction.
-       | 
-       | Sandalwood, tagara,
-       | lotus, & jasmine:
-       | Among these scents,
-       | the scent of virtue
-       | is unsurpassed.
-       | 
-       | Next to nothing, this fragrance
-       |  — sandalwood, tagara —
-       | while the scent of the virtuous
-       | wafts to the gods,
-       |   supreme.
+     - **54-56** [ThaniSFn-V54-56]_ 
+       ::
+              
+          No flower's scent   
+          goes against the wind —   
+            not sandalwood, 
+               jasmine, 
+               tagara.  
+          But the scent of the good   
+          does go against the wind.   
+          The person of integrity   
+          wafts a scent   
+          in every direction.   
+              
+          Sandalwood, tagara,   
+          lotus, & jasmine:   
+          Among these scents,   
+          the scent of virtue   
+          is unsurpassed.   
+              
+          Next to nothing, this fragrance   
+           — sandalwood, tagara —   
+          while the scent of the virtuous   
+          wafts to the gods,    
+            supreme.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **55** The fragrance of virtue surpasses that of sandalwood, lavender, lotus and jasmine.
@@ -966,29 +995,31 @@
      - **56.** Faint is the fragrance of tagara and sandal, but excellent is the fragrance of the virtuous, wafting even amongst the gods.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **54-56** [ThaniSFn-V54-56]_
-       | No flower's scent
-       | goes against the wind —
-       |   not sandalwood,
-       |      jasmine,
-       |      tagara.
-       | But the scent of the good
-       | does go against the wind.
-       | The person of integrity
-       | wafts a scent
-       | in every direction.
-       | 
-       | Sandalwood, tagara,
-       | lotus, & jasmine:
-       | Among these scents,
-       | the scent of virtue
-       | is unsurpassed.
-       | 
-       | Next to nothing, this fragrance
-       |  — sandalwood, tagara —
-       | while the scent of the virtuous
-       | wafts to the gods,
-       |   supreme.
+     - **54-56** [ThaniSFn-V54-56]_ 
+       ::
+              
+          No flower's scent   
+          goes against the wind —   
+            not sandalwood, 
+               jasmine, 
+               tagara.  
+          But the scent of the good   
+          does go against the wind.   
+          The person of integrity   
+          wafts a scent   
+          in every direction.   
+              
+          Sandalwood, tagara,   
+          lotus, & jasmine:   
+          Among these scents,   
+          the scent of virtue   
+          is unsurpassed.   
+              
+          Next to nothing, this fragrance   
+           — sandalwood, tagara —   
+          while the scent of the virtuous   
+          wafts to the gods,    
+            supreme.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **56** Lavender, sandal and lotus aromas
@@ -1046,11 +1077,13 @@
      - **57.** Mara never finds the path of the truly virtuous, who abide in heedfulness and are freed by perfect knowledge.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **57** [ThaniSFn-V57]_
-       | Those consummate in virtue,
-       | dwelling    in heedfulness,
-       | released    through right knowing:
-       | Mara can't follow their tracks.
+     - **57** [ThaniSFn-V57]_
+       ::
+              
+          Those consummate in virtue,   
+          dwelling    in heedfulness,   
+          released    through right knowing:    
+          Mara can't follow their tracks.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **57** Mara cannot trace the path of those who are accomplished in virtue, who abide diligently, and who are freed through final knowledge.
@@ -1099,16 +1132,19 @@
      - **58.** Upon a heap of rubbish in the road-side ditch blooms a lotus, fragrant and pleasing.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **58-59** As in a pile of rubbish
-       | cast by the side of a highway
-       |   a lotus might grow
-       |   clean-smelling
-       |   pleasing the heart,
-       | so in the midst of the rubbish-like,
-       | people run-of-the-mill & blind,
-       |   there dazzles with discernment
-       |   the disciple of the Rightly
-       |   Self-Awakened One.
+     - **58-59** 
+       ::
+              
+          As in a pile of rubbish   
+          cast by the side of a highway   
+            a lotus might grow  
+            clean-smelling  
+            pleasing the heart, 
+          so in the midst of the rubbish-like,    
+          people run-of-the-mill & blind,   
+            there dazzles with discernment  
+            the disciple of the Rightly 
+            Self-Awakened One.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **58&59** As upon a rubbish pit,
@@ -1175,16 +1211,19 @@
      - **59.** Even so, on the rubbish heap of blinded mortals the disciple of the Supremely Enlightened One shines resplendent in wisdom.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **58-59** As in a pile of rubbish
-       | cast by the side of a highway
-       |   a lotus might grow
-       |   clean-smelling
-       |   pleasing the heart,
-       | so in the midst of the rubbish-like,
-       | people run-of-the-mill & blind,
-       |   there dazzles with discernment
-       |   the disciple of the Rightly
-       |   Self-Awakened One.
+     - **58-59** 
+       ::
+              
+          As in a pile of rubbish   
+          cast by the side of a highway   
+            a lotus might grow  
+            clean-smelling  
+            pleasing the heart, 
+          so in the midst of the rubbish-like,    
+          people run-of-the-mill & blind,   
+            there dazzles with discernment  
+            the disciple of the Rightly 
+            Self-Awakened One.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **58&59** As upon a rubbish pit,

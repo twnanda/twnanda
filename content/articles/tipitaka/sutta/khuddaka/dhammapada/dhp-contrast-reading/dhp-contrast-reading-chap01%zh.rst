@@ -2,7 +2,7 @@
 ###################################################################
 
 :date: 2016-02-05 12:00
-:modified: 2016-06-19 18:00
+:modified: 2016-06-24 10:30
 :tags: 法句經, 法句經對讀, 雙品, Dhp, Dhammapada, Yamakavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Pairs
@@ -122,15 +122,28 @@
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
      - Dhp I Pairs
-        | **1** Phenomena are preceded by the heart,
-        |            ruled by the heart,
-        |            made of the heart.
-        | If you speak or act
-        | with a corrupted heart,
-        | then suffering follows you —
-        | as the wheel of the cart,
-        |      the track of the ox
-        |      that pulls it.
+        
+       **1-2** [ThaniSFn-V1-2]_
+       ::
+              
+          Phenomena are   preceded by the heart,    
+            ruled by the heart, 
+            made of the heart.  
+          If you speak or act   
+          with a corrupted heart,   
+          then suffering follows you —    
+          as the wheel of the cart,   
+            the track of the ox 
+            that pulls it.  
+              
+          Phenomena are  preceded by the heart,   
+            ruled by the heart, 
+            made of the heart.  
+          If you speak or act   
+          with a calm, bright heart,    
+          then happiness follows you,   
+          like a shadow   
+            that never leaves.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - **  1. Twinned Verses** 
@@ -198,14 +211,27 @@
      - 2. Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts happiness follows him like his never-departing shadow.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **2** Phenomena are  preceded by the heart,
-       |            ruled by the heart,
-       |            made of the heart.
-       | If you speak or act
-       | with a calm, bright heart,
-       | then happiness follows you,
-       | like a shadow
-       |   that never leaves. [ThaniSFn-V1-2]_
+     - **1-2** [ThaniSFn-V1-2]_
+       ::
+              
+          Phenomena are   preceded by the heart,    
+            ruled by the heart, 
+            made of the heart.  
+          If you speak or act   
+          with a corrupted heart,   
+          then suffering follows you —    
+          as the wheel of the cart,   
+            the track of the ox 
+            that pulls it.  
+              
+          Phenomena are  preceded by the heart,   
+            ruled by the heart, 
+            made of the heart.  
+          If you speak or act   
+          with a calm, bright heart,    
+          then happiness follows you,   
+          like a shadow   
+            that never leaves.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **2** Mind precedes created things,
@@ -261,12 +287,35 @@
      - 3. "He abused me, he struck me, he overpowered me, he robbed me." Those who harbor such thoughts do not still their hatred. 
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **3** 'He  insulted me,
-       |   hit me,
-       |   beat me,
-       |   robbed me'
-       |  — for those who brood on this,
-       |   hostility isn't stilled. 
+     - **3-6**
+       ::
+              
+          'He insulted me,  
+            hit me, 
+            beat me,  
+            robbed me'  
+           — for those who brood on this,   
+            hostility isn't stilled.  
+              
+          'He insulted me,    
+          hit me,   
+          beat me,    
+          robbed me' —    
+          for those who don't brood on this,    
+            hostility is stilled. 
+              
+          Hostilities aren't stilled    
+            through hostility,  
+            regardless. 
+          Hostilities are stilled   
+          through non-hostility:    
+            this, an unending truth.  
+              
+          Unlike those who don't realize    
+          that we're here on the verge    
+            of perishing, 
+          those who do:   
+            their quarrels are stilled.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **3** “Me, she swore at”. 
@@ -322,12 +371,35 @@
      - 4. "He abused me, he struck me, he overpowered me, he robbed me." Those who do not harbor such thoughts still their hatred.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **4** 'He insulted me,
-       | hit me,
-       | beat me,
-       | robbed me' —
-       | for those who don't brood on this,
-       | hostility is stilled.
+     - **3-6**
+       ::
+              
+          'He insulted me,  
+            hit me, 
+            beat me,  
+            robbed me'  
+           — for those who brood on this,   
+            hostility isn't stilled.  
+              
+          'He insulted me,    
+          hit me,   
+          beat me,    
+          robbed me' —    
+          for those who don't brood on this,    
+            hostility is stilled. 
+              
+          Hostilities aren't stilled    
+            through hostility,  
+            regardless. 
+          Hostilities are stilled   
+          through non-hostility:    
+            this, an unending truth.  
+              
+          Unlike those who don't realize    
+          that we're here on the verge    
+            of perishing, 
+          those who do:   
+            their quarrels are stilled.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **4** “Me, she swore at”.
@@ -389,12 +461,35 @@
      - 5. Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **5** Hostilities aren't stilled
-       |   through hostility,
-       |   regardless.
-       | Hostilities are stilled
-       | through non-hostility:
-       |   this, an unending truth.
+     - **3-6**
+       ::
+              
+          'He insulted me,  
+            hit me, 
+            beat me,  
+            robbed me'  
+           — for those who brood on this,   
+            hostility isn't stilled.  
+              
+          'He insulted me,    
+          hit me,   
+          beat me,    
+          robbed me' —    
+          for those who don't brood on this,    
+            hostility is stilled. 
+              
+          Hostilities aren't stilled    
+            through hostility,  
+            regardless. 
+          Hostilities are stilled   
+          through non-hostility:    
+            this, an unending truth.  
+              
+          Unlike those who don't realize    
+          that we're here on the verge    
+            of perishing, 
+          those who do:   
+            their quarrels are stilled.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **5** Hatred by hatred has been pacified
@@ -450,11 +545,35 @@
      - 6. There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **6** Unlike those who don't realize
-       | that we're here on the verge
-       |   of perishing,
-       | those who do:
-       |   their quarrels are stilled.
+     - **3-6**
+       ::
+              
+          'He insulted me,  
+            hit me, 
+            beat me,  
+            robbed me'  
+           — for those who brood on this,   
+            hostility isn't stilled.  
+              
+          'He insulted me,    
+          hit me,   
+          beat me,    
+          robbed me' —    
+          for those who don't brood on this,    
+            hostility is stilled. 
+              
+          Hostilities aren't stilled    
+            through hostility,  
+            regardless. 
+          Hostilities are stilled   
+          through non-hostility:    
+            this, an unending truth.  
+              
+          Unlike those who don't realize    
+          that we're here on the verge    
+            of perishing, 
+          those who do:   
+            their quarrels are stilled.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **6** Most of men seem not to see
@@ -508,12 +627,22 @@
      - 7. Just as a storm throws down a weak tree, so does Mara overpower the man who lives for the pursuit of pleasures, who is uncontrolled in his senses, immoderate in eating, indolent, and dissipated. [BudRkFn-v7]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **7** One who stays focused on the beautiful,
-       | is unrestrained with the senses,
-       | knowing no moderation in food,
-       | apathetic, unenergetic:
-       |   Mara overcomes him
-       |   as the wind, a weak tree.
+     - **7-8** [ThaniSFn-V7-8]_
+       ::
+              
+          One who stays focused on the beautiful,   
+          is unrestrained with the senses,    
+          knowing no moderation in food,    
+          apathetic, unenergetic:   
+            Mara overcomes him  
+            as the wind, a weak tree. 
+              
+          One who stays focused on the foul,    
+          is restrained with regard to the senses,    
+          knowing moderation in food,   
+          full of conviction & energy:    
+            Mara does not overcome him  
+            as the wind, a mountain of rock.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **7** One with senses unsubdued,
@@ -568,12 +697,22 @@
      - 8. Just as a storm cannot prevail against a rocky mountain, so Mara can never overpower the man who lives meditating on the impurities, who is controlled in his senses, moderate in eating, and filled with faith and earnest effort. [BudRkFn-v8]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **8** One who stays focused on the foul,
-       | is restrained with regard to the senses,
-       | knowing moderation in food,
-       | full of conviction & energy:
-       |   Mara does not overcome him
-       |   as the wind, a mountain of rock. [ThaniSFn-V7-8]_
+     - **7-8** [ThaniSFn-V7-8]_
+       ::
+              
+          One who stays focused on the beautiful,   
+          is unrestrained with the senses,    
+          knowing no moderation in food,    
+          apathetic, unenergetic:   
+            Mara overcomes him  
+            as the wind, a weak tree. 
+              
+          One who stays focused on the foul,    
+          is restrained with regard to the senses,    
+          knowing moderation in food,   
+          full of conviction & energy:    
+            Mara does not overcome him  
+            as the wind, a mountain of rock.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **8** One with faith and self-exertion,
@@ -630,12 +769,24 @@
      - 9. Whoever being depraved, devoid of self-control and truthfulness, should don the monk's yellow robe, he surely is not worthy of the robe.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **9** He who,  depraved,
-       |     devoid
-       |   of truthfulness
-       |   & self-control,
-       | puts on the ochre robe,
-       | doesn't deserve the ochre robe.
+     - **9-10** 
+       ::
+              
+          He who, depraved, 
+              devoid
+            of truthfulness 
+            & self-control, 
+          puts on the ochre robe,   
+          doesn't deserve the ochre robe.   
+              
+          But he who is free    
+                           of depravity 
+                       endowed  
+                           with truthfulness  
+                           & self-control,  
+                       well-established 
+                           in the precepts, 
+          truly deserves the ochre robe.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **9** The man not free of inward taints,
@@ -689,14 +840,24 @@
      - 10. But whoever is purged of depravity, well-established in virtues and filled with self-control and truthfulness, he indeed is worthy of the yellow robe.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **10** But he who is free
-       |                  of depravity
-       |              endowed
-       |                  with truthfulness
-       |                  & self-control,
-       |              well-established
-       |                  in the precepts,
-       | truly deserves the ochre robe.
+     - **9-10** 
+       ::
+              
+          He who, depraved, 
+              devoid
+            of truthfulness 
+            & self-control, 
+          puts on the ochre robe,   
+          doesn't deserve the ochre robe.   
+              
+          But he who is free    
+                           of depravity 
+                       endowed  
+                           with truthfulness  
+                           & self-control,  
+                       well-established 
+                           in the precepts, 
+          truly deserves the ochre robe.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **10** Whatever monk is purged of taints,
@@ -751,11 +912,20 @@
      - 11. Those who mistake the unessential to be essential and the essential to be unessential, dwelling in wrong thoughts, never arrive at the essential.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **11** Those who regard
-       | non-essence as essence
-       | and see essence as non-,
-       | don't get to the essence,
-       |   ranging about in wrong resolves.
+     - **11-12** [ThaniSFn-V11-12]_
+       ::
+              
+          Those who regard    
+          non-essence as essence    
+          and see essence as non-,    
+          don't get to the essence,   
+            ranging about in wrong resolves.  
+              
+          But those who know    
+          essence as essence,   
+          and non-essence as non-,    
+          get to the essence,   
+            ranging about in right resolves.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **11** Quintessence they see as non-essence;
@@ -809,11 +979,20 @@
      - 12. Those who know the essential to be essential and the unessential to be unessential, dwelling in right thoughts, do arrive at the essential.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **12** But those who know
-       | essence as essence,
-       | and non-essence as non-,
-       | get to the essence,
-       |   ranging about in right resolves. [ThaniSFn-V11-12]_
+     - **11-12** [ThaniSFn-V11-12]_
+       ::
+              
+          Those who regard    
+          non-essence as essence    
+          and see essence as non-,    
+          don't get to the essence,   
+            ranging about in wrong resolves.  
+              
+          But those who know    
+          essence as essence,   
+          and non-essence as non-,    
+          get to the essence,   
+            ranging about in right resolves.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **12** Quintessence they see as quintessence,
@@ -868,10 +1047,18 @@
      - 13. Just as rain breaks through an ill-thatched house, so passion penetrates an undeveloped mind.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **13** As rain seeps into
-       | an ill-thatched hut,
-       | so passion,
-       |   the undeveloped mind.
+     - **13-14** 
+       ::
+              
+          As rain seeps into    
+          an ill-thatched hut,    
+          so passion,   
+            the undeveloped mind. 
+              
+          As rain doesn't seep into   
+          a well-thatched hut,    
+          so passion does not,    
+            the well-developed mind.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **13 & 14** Like ill-thatched huts let in the rain,
@@ -925,10 +1112,18 @@
      - 14. Just as rain does not break through a well-thatched house, so passion never penetrates a well-developed mind.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **14** As rain doesn't seep into
-       | a well-thatched hut,
-       | so passion does not,
-       |   the well-developed mind.
+     - **13-14** 
+       ::
+              
+          As rain seeps into    
+          an ill-thatched hut,    
+          so passion,   
+            the undeveloped mind. 
+              
+          As rain doesn't seep into   
+          a well-thatched hut,    
+          so passion does not,    
+            the well-developed mind.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **13 & 14** Like ill-thatched huts let in the rain,
@@ -986,13 +1181,44 @@
      - 15. The evil-doer grieves here and hereafter; he grieves in both the worlds. He laments and is afflicted, recollecting his own impure deeds.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **15** Here he grieves
-       |   he grieves  hereafter.
-       | In both worlds
-       | the wrong-doer grieves.
-       | He grieves, he's afflicted,
-       | seeing the corruption
-       |   of his deeds.
+     - **15-18** 
+       ::
+              
+          Here  he grieves  
+            he grieves  hereafter.
+          In both worlds    
+          the wrong-doer grieves.   
+          He grieves, he's afflicted,   
+          seeing the corruption   
+            of his deeds. 
+              
+          Here  he rejoices 
+            he rejoices hereafter.
+          In both worlds    
+          the merit-maker rejoices.   
+          He rejoices, is jubilant,   
+          seeing the purity   
+            of his deeds. 
+              
+          Here  he's tormented  
+            he's tormented  hereafter.  
+          In both worlds    
+          the wrong-doer's tormented.   
+          He's tormented at the thought,    
+            'I've done wrong.'  
+          Having gone to a bad destination,   
+          he's tormented    
+            all the more. 
+              
+          Here  he delights 
+            he delights hereafter.
+          In both worlds    
+          the merit-maker delights.   
+          He delights at the thought,   
+            'I've made merit.'  
+          Having gone to a good destination,    
+          he delights   
+            all the more.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - **15** Evil-doers sorrow in both present and future lives. They sorrow and grieve, having realised their own defiled conduct.
@@ -1046,13 +1272,44 @@
      - 16. The doer of good rejoices here and hereafter; he rejoices in both the worlds. He rejoices and exults, recollecting his own pure deeds.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **16** Here he rejoices
-       |   he rejoices hereafter.
-       | In both worlds
-       | the merit-maker rejoices.
-       | He rejoices, is jubilant,
-       | seeing the purity
-       | of his deeds.
+     - **15-18** 
+       ::
+              
+          Here  he grieves  
+            he grieves  hereafter.
+          In both worlds    
+          the wrong-doer grieves.   
+          He grieves, he's afflicted,   
+          seeing the corruption   
+            of his deeds. 
+              
+          Here  he rejoices 
+            he rejoices hereafter.
+          In both worlds    
+          the merit-maker rejoices.   
+          He rejoices, is jubilant,   
+          seeing the purity   
+            of his deeds. 
+              
+          Here  he's tormented  
+            he's tormented  hereafter.  
+          In both worlds    
+          the wrong-doer's tormented.   
+          He's tormented at the thought,    
+            'I've done wrong.'  
+          Having gone to a bad destination,   
+          he's tormented    
+            all the more. 
+              
+          Here  he delights 
+            he delights hereafter.
+          In both worlds    
+          the merit-maker delights.   
+          He delights at the thought,   
+            'I've made merit.'  
+          Having gone to a good destination,    
+          he delights   
+            all the more.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - **16** Kind people are happy in both present and future lives. They are happy and satisfied, having realised their own pure conduct.
@@ -1106,15 +1363,44 @@
      - 17. The evil-doer suffers here and hereafter; he suffers in both the worlds. The thought, "Evil have I done," torments him, and he suffers even more when gone to realms of woe.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **17** Here he's tormented
-       |   he's tormented  hereafter.
-       | In both worlds
-       | the wrong-doer's tormented.
-       | He's tormented at the thought,
-       |   'I've done wrong.'
-       | Having gone to a bad destination,
-       | he's tormented
-       |   all the more.
+     - **15-18** [ThaniSFn-V17-18]_
+       ::
+              
+          Here  he grieves  
+            he grieves  hereafter.
+          In both worlds    
+          the wrong-doer grieves.   
+          He grieves, he's afflicted,   
+          seeing the corruption   
+            of his deeds. 
+              
+          Here  he rejoices 
+            he rejoices hereafter.
+          In both worlds    
+          the merit-maker rejoices.   
+          He rejoices, is jubilant,   
+          seeing the purity   
+            of his deeds. 
+              
+          Here  he's tormented  
+            he's tormented  hereafter.  
+          In both worlds    
+          the wrong-doer's tormented.   
+          He's tormented at the thought,    
+            'I've done wrong.'  
+          Having gone to a bad destination,   
+          he's tormented    
+            all the more. 
+              
+          Here  he delights 
+            he delights hereafter.
+          In both worlds    
+          the merit-maker delights.   
+          He delights at the thought,   
+            'I've made merit.'  
+          Having gone to a good destination,    
+          he delights   
+            all the more.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **17** Here he regrets, 
@@ -1168,15 +1454,44 @@
      - 18. The doer of good delights here and hereafter; he delights in both the worlds. The thought, "Good have I done," delights him, and he delights even more when gone to realms of bliss.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **18** Here he delights
-       |   he delights hereafter.
-       | In both worlds
-       | the merit-maker delights.
-       | He delights at the thought,
-       |   'I've made merit.'
-       | Having gone to a good destination,
-       | he delights
-       |   all the more. [ThaniSFn-V17-18]_
+     - **15-18** [ThaniSFn-V17-18]_
+       ::
+              
+          Here  he grieves  
+            he grieves  hereafter.
+          In both worlds    
+          the wrong-doer grieves.   
+          He grieves, he's afflicted,   
+          seeing the corruption   
+            of his deeds. 
+              
+          Here  he rejoices 
+            he rejoices hereafter.
+          In both worlds    
+          the merit-maker rejoices.   
+          He rejoices, is jubilant,   
+          seeing the purity   
+            of his deeds. 
+              
+          Here  he's tormented  
+            he's tormented  hereafter.  
+          In both worlds    
+          the wrong-doer's tormented.   
+          He's tormented at the thought,    
+            'I've done wrong.'  
+          Having gone to a bad destination,   
+          he's tormented    
+            all the more. 
+              
+          Here  he delights 
+            he delights hereafter.
+          In both worlds    
+          the merit-maker delights.   
+          He delights at the thought,   
+            'I've made merit.'  
+          Having gone to a good destination,    
+          he delights   
+            all the more.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **18** Here he’s delighted,
@@ -1234,12 +1549,26 @@
      - 19. Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others — he does not partake of the blessings of the holy life.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **19** If he recites many teachings, but
-       |   — heedless man —
-       | doesn't do what they say,
-       | like a cowherd counting the cattle of
-       |          others,
-       | he has no share in the contemplative life.
+     - **19-20**
+       ::
+              
+          If he recites many teachings, but   
+            — heedless man —  
+          doesn't do what they say,   
+          like a cowherd counting the cattle of   
+                   others,  
+          he has no share in the contemplative life.    
+              
+          If he recites next to nothing   
+          but follows the Dhamma    
+          in line with the Dhamma;    
+            abandoning passion, 
+               aversion, delusion;  
+            alert,  
+            his mind well-released, 
+               not clinging 
+            either here or hereafter: 
+          he has his share in the contemplative life.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - **19** Although he frequently recites the scriptures, a heedless person fails to put them into practice. He is like a cowherd, counting others’ cattle. He has no real share in the life of asceticism.
@@ -1304,16 +1633,26 @@
      - 20. Little though he recites the sacred texts, but puts the Teaching into practice, forsaking lust, hatred, and delusion, with true wisdom and emancipated mind, clinging to nothing of this or any other world — he indeed partakes of the blessings of a holy life.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **20** If he recites next to nothing
-       | but follows the Dhamma
-       | in line with the Dhamma;
-       |   abandoning passion,
-       |      aversion, delusion;
-       |   alert,
-       |   his mind well-released,
-       |      not clinging
-       |   either here or hereafter:
-       | he has his share in the contemplative life.
+     - **19-20**
+       ::
+              
+          If he recites many teachings, but   
+            — heedless man —  
+          doesn't do what they say,   
+          like a cowherd counting the cattle of   
+                   others,  
+          he has no share in the contemplative life.    
+              
+          If he recites next to nothing   
+          but follows the Dhamma    
+          in line with the Dhamma;    
+            abandoning passion, 
+               aversion, delusion;  
+            alert,  
+            his mind well-released, 
+               not clinging 
+            either here or hereafter: 
+          he has his share in the contemplative life.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **20** Although a person infrequently recites the scriptures 
