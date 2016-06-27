@@ -3,7 +3,7 @@
 ============================================================================
 
 :date: 2016-06-04 17:00
-:modified: 2016-06-13 10:30
+:modified: 2016-06-27 16:00
 :tags: 法句經, 法句經對讀, 地獄品, Dhp, Dhammapada, Nirayavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The State of Woe
@@ -85,20 +85,46 @@
        | 4. 鼻奈：妄語地獄近，作之言不作，二罪後俱受，是行自牽去T24,878c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 306. 
+     - **Chapter 22  Woeful State**
+
+       **LIARS SUFFER**
+
+       306. The speaker of untruth goes to a woeful state, and also he who, having done aught, says, "I did not". Both after death become equal, men of base actions in the other world.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **306.** 
+     - **Dhp XXII Hell**
+
+       **306.** The liar goes to the state of woe; also he who, having done (wrong), says, "I did not do it." Men of base actions both, on departing they share the same destiny in the other world.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **306** 
+     - **Dhp XXII  Hell**
+
+       **306** 
+       ::
+              
+          He goes to hell,    
+          the one who asserts   
+          what didn't take place,   
+          as does the one   
+          who, having done,   
+          says, 'I didn't.'   
+          Both — low-acting people —    
+          there become equal:   
+          after death, in the world beyond.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **306** 
-       | 
+     - **Chapter 22 The Abyss**
+
+       | **306** 
+       |  He’s doomed, the person speaking lies,  
+       |  And he who sins, but that denies. 
+       |  These two, at death, are equalised  
+       |  In hell, where both will re-arise.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 306 
+     - **Chapter XXII: The Downward Course**
+
+       306 He who says what is not, goes to hell; he also who, having done a thing, says I have not done it. After death both are equal, they are men with evil deeds in the next world.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十二：地獄品 Dhp. 306 <{filename}../dhA/dhA-chap22%zh.rst#Dhp306>`__
@@ -136,20 +162,38 @@
        | 7. 鼻奈：法衣在其身，為惡不自禁，苟為惡行者，命逝墮地獄T24,878c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 307. 
+     - CORRUPT MONKS SUFFER
+
+       307. Many with a yellow robe on their necks are of evil disposition and uncontrolled. Evil-doers on account of their evil deeds are born in a woeful state.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **307.** 
+     - **307.** There are many evil characters and uncontrolled men wearing the saffron robe. These wicked men will be born in states of woe because of their evil deeds.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **307** 
+     - **307-308** 
+       ::
+              
+          An ochre robe tied 'round their necks,    
+          many with evil qualities    
+           — unrestrained, evil —   
+          rearise, because of their evil acts,    
+            in hell.  
+              
+          Better to eat an iron ball    
+           — glowing, aflame —    
+          than that, unprincipled &   
+            unrestrained, 
+          you should eat the alms of the country.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **307** 
-       | 
+       |  Many men who in the ochre cloth are robed 
+       |  Have wicked natures and are uncontrolled. 
+       |  Such men, by conduct that’s depraved, 
+       |  Will after death arise in hells ablaze.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 307 
+     - 307 Many men whose shoulders are covered with the yellow gown are ill-conditioned and unrestrained; such evil-doers by their evil deeds go to hell.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十二：地獄品 Dhp. 307 <{filename}../dhA/dhA-chap22%zh.rst#Dhp307>`__
@@ -193,20 +237,38 @@
        | 13. 鼻奈：無戒受供養，街巷乞不慚，死噉燒鐵丸，極熱劇赤火T24,879a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 308. 
+     - BE NOT IMMORAL
+
+       308. Better to swallow a red-hot iron ball (which would consume one) like a flame of fire, than to be an immoral and uncontrolled person feeding on the alms offered by people. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **308.** 
+     - **308.** It would be better to swallow a red-hot iron ball, blazing like fire, than as an immoral and uncontrolled monk to eat the alms of the people.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **308** 
+     - **307-308** 
+       ::
+              
+          An ochre robe tied 'round their necks,    
+          many with evil qualities    
+           — unrestrained, evil —   
+          rearise, because of their evil acts,    
+            in hell.  
+              
+          Better to eat an iron ball    
+           — glowing, aflame —    
+          than that, unprincipled &   
+            unrestrained, 
+          you should eat the alms of the country.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **308** 
-       | 
+       |  For one lacking restraint and immoral,  
+       |  For him it is better to swallow 
+       |  A globule of metal aflame 
+       |  Than to eat any alms he obtains.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 308 
+     - 308 Better it would be to swallow a heated iron ball, like flaring fire, than that a bad unrestrained fellow should live on the charity of the land.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十二：地獄品 Dhp. 308 <{filename}../dhA/dhA-chap22%zh.rst#Dhp308>`__
@@ -241,20 +303,55 @@
        3. 法集：放逸有四事，好犯他人婦，初獄二尠福，毀三睡眠四T4,779a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 309. 
+     - ADULTERY IS EVIL
+
+       309. Four misfortunes befall a careless man who commits adultery: acquisition of demerit, disturbed sleep, thirdly blame, and fourthly a state of woe.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **309.** 
+     - **309.** Four misfortunes befall the reckless man who consorts with another's wife: acquisition of demerit, disturbed sleep, ill-repute, and (rebirth in) states of woe.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **309** 
+     - **309-310** 
+       ::
+              
+          Four things befall the heedless man   
+          who lies down with the wife of another:   
+          a wealth of demerit;    
+          a lack of good sleep;   
+          third, censure;   
+          fourth, hell.   
+              
+          A wealth of demerit, an evil destination,   
+          & the brief delight of a    
+            fearful man with a  
+            fearful woman,  
+          & the king inflicts a harsh punishment.   
+            So  
+          no man should lie down    
+          with the wife of another.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **309** 
-       | 
+     - | **309 & 310** 
+       |   
+       |  Four disasters will betide  
+       |  A fool who beds another’s wife: 
+       |    
+       |  Acquisition of bad kamma; 
+       |  When in bed at night, insomnia; 
+       |  Thirdly, words of condemnation; 
+       |  Fourth, he’ll suffer in damnation.  
+       |    
+       |  For that pair, there’s trepidation; 
+       |  Guilty bliss of short duration; 
+       |  Evil kamma generation;  
+       |  From the king, harsh castigation. 
+       |    
+       |  Hence the moral obligation  
+       |  To avoid participation  
+       |  In adulterous violation.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 309 
+     - 309 Four things does a wreckless man gain who covets his neighbour's wife,--a bad reputation, an uncomfortable bed, thirdly, punishment, and lastly, hell.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十二：地獄品 Dhp. 309 <{filename}../dhA/dhA-chap22%zh.rst#Dhp309>`__
@@ -289,20 +386,53 @@
        3. 法集：無福利墮惡，畏而畏樂寡，王法加重罪，身死入地獄T4,779a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 310. 
+     - 310. There is acquisition of demerit as well as evil destiny. Brief is the joy of the frightened man and woman. The King imposes a heavy punishment. Hence no man should frequent another's wife.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **310.** 
+     - **310.** Such a man acquires demerit and an unhappy birth in the future. Brief is the pleasure of the frightened man and woman, and the king imposes heavy punishment. Hence, let no man consort with another's wife.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **310** 
+     - **309-310** 
+       ::
+              
+          Four things befall the heedless man   
+          who lies down with the wife of another:   
+          a wealth of demerit;    
+          a lack of good sleep;   
+          third, censure;   
+          fourth, hell.   
+              
+          A wealth of demerit, an evil destination,   
+          & the brief delight of a    
+            fearful man with a  
+            fearful woman,  
+          & the king inflicts a harsh punishment.   
+            So  
+          no man should lie down    
+          with the wife of another.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **310** 
-       | 
+     - | **309 & 310** 
+       |   
+       |  Four disasters will betide  
+       |  A fool who beds another’s wife: 
+       |    
+       |  Acquisition of bad kamma; 
+       |  When in bed at night, insomnia; 
+       |  Thirdly, words of condemnation; 
+       |  Fourth, he’ll suffer in damnation.  
+       |    
+       |  For that pair, there’s trepidation; 
+       |  Guilty bliss of short duration; 
+       |  Evil kamma generation;  
+       |  From the king, harsh castigation. 
+       |    
+       |  Hence the moral obligation  
+       |  To avoid participation  
+       |  In adulterous violation.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 310 
+     - 310 There is bad reputation, and the evil way (to hell), there is the short pleasure of the frightened in the arms of the frightened, and the king imposes heavy punishment; therefore let no man think of his neighbour's wife.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十二：地獄品 Dhp. 310 <{filename}../dhA/dhA-chap22%zh.rst#Dhp310>`__
@@ -337,20 +467,47 @@
        | 4. 四分：猶如人執箭，執緩自傷手，沙門不善良，增益於地獄T22,782c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 311. 
+     - ``CORRUPT LIVES ENTAIL SUFFERING   A LIFE OF DUBIOUS HOLINESS IS NOT COMMENDABLE   WHAT IS PROPER SHOULD BE DONE WITH ONE'S WHOLE MIGHT``
+
+       311. Just as kusa grass, wrongly grasped, cuts the hand, even so the monkhood wrongly handled drags one to a woeful state.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **311.** 
+     - **311.** Just as kusa grass wrongly handled cuts the hand, even so, a recluse's life wrongly lived drags one to states of woe.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **311** 
+     - **311-314** 
+       ::
+              
+          Just as sharp-bladed grass,   
+          if wrongly held,    
+          wounds the very hand that holds it —    
+          the contemplative life, if wrongly grasped,   
+          drags you down to hell.   
+              
+          Any slack act,    
+          or defiled observance,    
+          or fraudulent life of chastity    
+          bears no great fruit.   
+              
+          If something's to be done,    
+          then work at it firmly,   
+          for a slack going-forth   
+          kicks up all the more dust.   
+              
+          It's better to leave a misdeed    
+            undone. 
+          A misdeed burns you afterward.    
+          Better that a good deed be done   
+          that, after you've done it,   
+          won't make you burn.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **311** 
-       | 
+       |  Improperly clasped sharp-bladed grass will gash the hand: 
+       |  By improperly handled monastic existence a man is damned.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 311 
+     - 311 As a grass-blade, if badly grasped, cuts the arm, badly-practised asceticism leads to hell.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十二：地獄品 Dhp. 311 <{filename}../dhA/dhA-chap22%zh.rst#Dhp311>`__
@@ -385,20 +542,47 @@
        5. 法集：習行懈緩者，勞意勿除之，非淨則梵行，焉致大財寶T4,797a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 312. 
+     - 312. Any loose act, any corrupt practice, a life of dubious [NāradaFn22-01]_ holiness - none of these is of much fruit.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **312.** 
+     - **312.** Any loose act, any corrupt observance, any life of questionable celibacy — none of these bear much fruit.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **312** 
+     - **311-314** 
+       ::
+              
+          Just as sharp-bladed grass,   
+          if wrongly held,    
+          wounds the very hand that holds it —    
+          the contemplative life, if wrongly grasped,   
+          drags you down to hell.   
+              
+          Any slack act,    
+          or defiled observance,    
+          or fraudulent life of chastity    
+          bears no great fruit.   
+              
+          If something's to be done,    
+          then work at it firmly,   
+          for a slack going-forth   
+          kicks up all the more dust.   
+              
+          It's better to leave a misdeed    
+            undone. 
+          A misdeed burns you afterward.    
+          Better that a good deed be done   
+          that, after you've done it,   
+          won't make you burn.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **312** 
-       | 
+       |  Neither perfunctory endeavour,  
+       |  Nor tarnished religious observance, 
+       |  Nor a practice of dubious integrity 
+       |  Will yield a monk any great benefit.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 312 
+     - 312 An act carelessly performed, a broken vow, and hesitating obedience to discipline, all this brings no great reward.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十二：地獄品 Dhp. 312 <{filename}../dhA/dhA-chap22%zh.rst#Dhp312>`__
@@ -430,20 +614,47 @@
        2. 出曜經：智者立行，精勤果獲，行人執緩，轉更增塵T4,678b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 313. 
+     - 313. If aught should be done, let one do it. Let one promote it steadily, for slack asceticism scatters dust all the more.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **313.** 
+     - **313.** If anything is to be done, let one do it with sustained vigor. A lax monastic life stirs up the dust of passions all the more.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **313** 
+     - **311-314** 
+       ::
+              
+          Just as sharp-bladed grass,   
+          if wrongly held,    
+          wounds the very hand that holds it —    
+          the contemplative life, if wrongly grasped,   
+          drags you down to hell.   
+              
+          Any slack act,    
+          or defiled observance,    
+          or fraudulent life of chastity    
+          bears no great fruit.   
+              
+          If something's to be done,    
+          then work at it firmly,   
+          for a slack going-forth   
+          kicks up all the more dust.   
+              
+          It's better to leave a misdeed    
+            undone. 
+          A misdeed burns you afterward.    
+          Better that a good deed be done   
+          that, after you've done it,   
+          won't make you burn.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **313** 
-       | 
+       |  When a monk’s obliged to do a duty, 
+       |  May he do it, and may he do it vigorously!  
+       |  For should a monk pursue the holy life half-heartedly,  
+       |  Then all the more he’ll raise the dust-clouds of impurity.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 313 
+     - 313 If anything is to be done, let a man do it, let him attack it vigorously! A careless pilgrim only scatters the dust of his passions more widely.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十二：地獄品 Dhp. 313 <{filename}../dhA/dhA-chap22%zh.rst#Dhp313>`__
@@ -476,20 +687,46 @@
        3. 法集：非造非無造，前憂後亦憂，造者為善妙，以作不懷憂T4,793c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 314. 
+     - DON'T DO EVEN A SLIGHT WRONG
+
+       314. An evil deed is better not done: a misdeed torments one hereafter. Better it is to do a good deed, after doing which one does not grieve.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **314.** 
+     - **314.** An evil deed is better left undone, for such a deed torments one afterwards. But a good deed is better done, doing which one repents not later.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **314** 
+     - **311-314** 
+       ::
+              
+          Just as sharp-bladed grass,   
+          if wrongly held,    
+          wounds the very hand that holds it —    
+          the contemplative life, if wrongly grasped,   
+          drags you down to hell.   
+              
+          Any slack act,    
+          or defiled observance,    
+          or fraudulent life of chastity    
+          bears no great fruit.   
+              
+          If something's to be done,    
+          then work at it firmly,   
+          for a slack going-forth   
+          kicks up all the more dust.   
+              
+          It's better to leave a misdeed    
+            undone. 
+          A misdeed burns you afterward.    
+          Better that a good deed be done   
+          that, after you've done it,   
+          won't make you burn.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **314** 
-       | 
+       |  Misdeeds are better left undone: they will torment you in the future. It is better to do good deeds, which will not later torment you.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 314 
+     - 314 An evil deed is better left undone, for a man repents of it afterwards; a good deed is better done, for having done it, one does not repent.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十二：地獄品 Dhp. 314 <{filename}../dhA/dhA-chap22%zh.rst#Dhp314>`__
@@ -525,20 +762,33 @@
        3. 法集：猶如防邊城，內外悉牢固，當自善防護，後剎那虛悔，時過則生憂，須臾墮地獄T4,780a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 315. 
+     - GUARD YOURSELF LIKE A FORTIFIED CITY
+
+       315. Like a border city, guarded within and without, so guard yourself. Do not let slip this opportunity, [NāradaFn22-02]_ for they who let slip the opportunity grieve when born in a woeful state.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **315.** 
+     - **315.** Just as a border city is closely guarded both within and without, even so, guard yourself. Do not let slip this opportunity (for spiritual growth). For those who let slip this opportunity grieve indeed when consigned to hell.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **315** 
+     - **315** 
+       ::
+              
+          Like a frontier fortress,   
+          guarded inside & out,   
+            guard yourself. 
+          Don't let the moment pass by.   
+          Those for whom the moment is past   
+          grieve, consigned to hell.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **315** 
-       | 
+     - | **315a** 
+       |  A border town is guarded both within and without. Guard yourself likewise!  
+       |  
+       |  **315b**
+       |  Do not miss the opportunity to practise. [VaradoFn-V315]_ When the opportunity is lost, people grieve, consigned to hell.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 315 
+     - 315 Like a well-guarded frontier fort, with defences within and without, so let a man guard himself. Not a moment should escape, for they who allow the right moment to pass, suffer pain when they are in hell.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十二：地獄品 Dhp. 315 <{filename}../dhA/dhA-chap22%zh.rst#Dhp315>`__
@@ -571,20 +821,44 @@
        3. 法集：不羞而反羞，反羞而不羞，不畏而現畏，畏現而不畏，生為人邪見，死定入地獄T4,785a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 316. 
+     - ``BE MODEST WHERE MODESTY IS NEEDED   HAVE NO FEAR IN THE NON-FEARSOME``
+
+       316. Beings who are ashamed of what is not shameful, and are not ashamed of what is shameful, embrace wrong views and go to a woeful state.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **316.** 
+     - **316.** Those who are ashamed of what they should not be ashamed of, and are not ashamed of what they should be ashamed of — upholding false views, they go to states of woe.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **316** 
+     - **316-319** 
+       ::
+              
+          Ashamed of what's not shameful,   
+          not ashamed of what is,   
+          beings adopting wrong views   
+          go to a bad destination.    
+              
+          Seeing danger where there is none,    
+          & no danger where there is,   
+          beings adopting wrong views   
+          go to a bad destination.    
+              
+          Imagining error where there is none,    
+          and seeing no error where there is,   
+          beings adopting wrong views   
+          go to a bad destination.    
+              
+          But knowing error as error,   
+          and non-error as non-,    
+          beings adopting right views   
+            go to a good  
+            destination.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **316** 
-       | 
+       |  People ashamed of what is innocent, and unashamed of what is despicable, by upholding wrong views, suffer unhappy rebirths.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 316 
+     - 316 They who are ashamed of what they ought not to be ashamed of, and are not ashamed of what they ought to be ashamed of, such men, embracing false doctrines enter the evil path.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十二：地獄品 Dhp. 316 <{filename}../dhA/dhA-chap22%zh.rst#Dhp316>`__
@@ -615,20 +889,42 @@
      - 1. suspended
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 317. 
+     - 317. Beings who see fear in what is not to be feared, and see no fear in the fearsome, embrace false views and go to a woeful state.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **317.** 
+     - **317.** Those who see something to fear where there is nothing to fear, and see nothing to fear where there is something to fear — upholding false views, they go to states of woe.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **317** 
+     - **316-319** 
+       ::
+              
+          Ashamed of what's not shameful,   
+          not ashamed of what is,   
+          beings adopting wrong views   
+          go to a bad destination.    
+              
+          Seeing danger where there is none,    
+          & no danger where there is,   
+          beings adopting wrong views   
+          go to a bad destination.    
+              
+          Imagining error where there is none,    
+          and seeing no error where there is,   
+          beings adopting wrong views   
+          go to a bad destination.    
+              
+          But knowing error as error,   
+          and non-error as non-,    
+          beings adopting right views   
+            go to a good  
+            destination.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **317** 
-       | 
+       |  Those who see danger in safety, and safety in danger, by upholding wrong views, suffer unhappy rebirths.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 317 
+     - 317 They who fear when they ought not to fear, and fear not when they ought to fear, such men, embracing false doctrines, enter the evil path.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十二：地獄品 Dhp. 317 <{filename}../dhA/dhA-chap22%zh.rst#Dhp317>`__
@@ -659,20 +955,44 @@
      - 1. 法句經：可避不避，可就不就，翫習邪見，死墮地獄T4,570b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 318. 
+     - ``SEE NO WRONG IN WHAT IS NOT WRONG   SEE WRONG AS WRONG AND RIGHT AS RIGHT``
+
+       318. Beings who imagine faults in the faultless, [NāradaFn22-04]_ and perceive no wrong in what is wrong, embrace false views and go to a woeful state.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **318.** 
+     - **318.** Those who imagine evil where there is none, and do not see evil where it is — upholding false views, they go to states of woe.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **318** 
+     - **316-319** 
+       ::
+              
+          Ashamed of what's not shameful,   
+          not ashamed of what is,   
+          beings adopting wrong views   
+          go to a bad destination.    
+              
+          Seeing danger where there is none,    
+          & no danger where there is,   
+          beings adopting wrong views   
+          go to a bad destination.    
+              
+          Imagining error where there is none,    
+          and seeing no error where there is,   
+          beings adopting wrong views   
+          go to a bad destination.    
+              
+          But knowing error as error,   
+          and non-error as non-,    
+          beings adopting right views   
+            go to a good  
+            destination.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **318** 
-       | 
+       |  People who think an offence is purity, or that purity is an offence, by upholding wrong views, suffer unhappy rebirths.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 318 
+     - 318 They who forbid when there is nothing to be forbidden, and forbid not when there is something to be forbidden, such men, embracing false doctrines, enter the evil path.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十二：地獄品 Dhp. 318 <{filename}../dhA/dhA-chap22%zh.rst#Dhp318>`__
@@ -714,20 +1034,42 @@
      - 1. 法句經：可近則近，可遠則遠，恒守正見，死墮善道T4,570b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 319. 
+     - 319. Beings knowing wrong as wrong and what is right as right, embrace right views and go to a blissful state.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **319.** 
+     - **319.** Those who discern the wrong as wrong and the right as right — upholding right views, they go to realms of bliss.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **319** 
+     - **316-319** 
+       ::
+              
+          Ashamed of what's not shameful,   
+          not ashamed of what is,   
+          beings adopting wrong views   
+          go to a bad destination.    
+              
+          Seeing danger where there is none,    
+          & no danger where there is,   
+          beings adopting wrong views   
+          go to a bad destination.    
+              
+          Imagining error where there is none,    
+          and seeing no error where there is,   
+          beings adopting wrong views   
+          go to a bad destination.    
+              
+          But knowing error as error,   
+          and non-error as non-,    
+          beings adopting right views   
+            go to a good  
+            destination.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **319** 
-       | 
+       |  People who regard an offence as an offence, and purity as purity, by upholding right views, enjoy happy rebirths.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 319 
+     - 319 They who know what is forbidden as forbidden, and what is not forbidden as not forbidden, such men, embracing the true doctrine, enter the good path.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十二：地獄品 Dhp. 319 <{filename}../dhA/dhA-chap22%zh.rst#Dhp319>`__
@@ -765,7 +1107,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -780,6 +1122,16 @@
 .. [LChnFn22-01] 〔註22-01〕  下二頌連貫。
 
 .. [LChnFn22-02] 〔註22-02〕  「孤沙」(Kusa)，香草的名字。
+
+.. [NāradaFn22-01] (Ven. Nārada 22-01) Saṅkassaraṃ = to think or remember with suspicion.
+
+.. [NāradaFn22-02] (Ven. Nārada 22-02) The birth of a Buddha, a congenial habitation, a healthy body, the possession of right views, etc.
+
+.. [NāradaFn22-03] (Ven. Nārada 22-03) Nigaṇñha, literally, "free from ties or bonds" is the term applied to Jaina ascetics, who, according to this story, cover their pudenda. Acelaka ascetics wander completely naked.
+
+.. [NāradaFn22-04] (Ven. Nārada 22-04) Avajja means right belief and vajja means wrong belief.
+
+.. [VaradoFn-V315] (Ven. Varado V.315) Verse 315: "Do not miss the opportunity (khano)". PED (khano): opportunity, as well as moment.
 
 ---------------------------
 

@@ -3,7 +3,7 @@
 ===============================================================================
 
 :date: 2016-06-04 15:00
-:modified: 2016-06-12 21:00
+:modified: 2016-06-26 21:30
 :tags: 法句經, 法句經對讀, 世品, 世間品, Dhp, Dhammapada, Lokavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The World
@@ -80,20 +80,41 @@
        2. 法集要頌經：不親卑漏法，不與放逸會，不種邪見根，不於世增惡T04,779a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 167. 
+     - **Chapter 13  The World**
+
+       **GIVE UP BASE DESIRES**
+
+       167. Do not serve mean ends, [NāradaFn13-01]_ Do not live in heedlessness. Do not embrace false views. Do not be a world-upholder. [NāradaFn13-02]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **167.** 
+     - **Dhp XIII The World**
+
+       **167.** Follow not the vulgar way; live not in heedlessness; hold not false views; linger not long in worldly existence.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **167** 
+     - **Dhp XIII  Worlds**
+      
+       **167** 
+       ::
+              
+          Don't associate with lowly qualities.   
+          Don't consort with heedlessness.    
+          Don't associate with wrong views.   
+          Don't busy yourself with the world.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **167** 
-       | 
+     - **Chapter 13 The World**
+
+       | **167** 
+       |  Do not pursue the vulgar way; 
+       |  Wrongful views, don’t entertain;  
+       |  In heedless states do not abide;  
+       |  To worldly ways do not incline.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 167 
+     - Chapter XIII: The World
+
+       167 Do not follow the evil law! Do not live on in thoughtlessness! Do not follow false doctrine! Be not a friend of the world.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 167 <{filename}../dhA/dhA-chap13%zh.rst#Dhp167>`__
@@ -127,20 +148,38 @@
        | 3. 善見律：起已不懈怠，善法恒自行，行法得安眠，今世若後世T24, 791b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 168. 
+     - THE RIGHTEOUS ARE HAPPY BE RIGHTEOUS
+
+       168. Be not heedless in standing [NāradaFn13-03]_ (at people's doors for alms). Observe (this) practice scrupulously. He who observes this practice lives happily both in this world and in the next. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **168.** 
+     - **168.** Arise! Do not be heedless! Lead a righteous life. The righteous live happily both in this world and the next.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **168** 
+     - **168-169** 
+       ::
+              
+          Get up! Don't be heedless.    
+          Live the Dhamma well.   
+          One who lives the Dhamma    
+            sleeps with ease  
+          in this world & the next.   
+              
+          Live the Dhamma well.   
+          Don't live it badly.    
+          One who lives the Dhamma    
+            sleeps with ease  
+          in this world & the next.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **168** 
-       | 
+       |  Strive! Try! Don’t be perfunctory:  
+       |  Take on the practice, and do it painstakingly.  
+       |  Seekers of Dhamma when sleeping, sleep blissfully,  
+       |  Both in life here, and hereafter additionally.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 168 
+     - 168 Rouse thyself! do not be idle! Follow the law of virtue! The virtuous rests in bliss in this world and in the next.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 168 <{filename}../dhA/dhA-chap13%zh.rst#Dhp168>`__
@@ -176,20 +215,36 @@
        | 5. 大智度論：如法應修行，非法不應受，今世亦後世，行法者安隱T25,178c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 169. 
+     - 169. Scrupulously observe (this) practice. Do not observe it unscrupulously. He who observes this practice lives happily both in this world and in the next.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **169.** 
+     - **169.** Lead a righteous life; lead not a base life. The righteous live happily both in this world and the next.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **169** 
+     - **168-169** 
+       ::
+              
+          Get up! Don't be heedless.    
+          Live the Dhamma well.   
+          One who lives the Dhamma    
+            sleeps with ease  
+          in this world & the next.   
+              
+          Live the Dhamma well.   
+          Don't live it badly.    
+          One who lives the Dhamma    
+            sleeps with ease  
+          in this world & the next.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **169** 
-       | 
+       |  Take on the practice and do it painstakingly: 
+       |  Don’t take it on and then do it disgracefully.  
+       |  Seekers of Dhamma when sleeping, sleep blissfully,  
+       |  Both in life here, and hereafter additionally.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 169 
+     - 169 Follow the law of virtue; do not follow that of sin. The virtuous rests in bliss in this world and in the next.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 169 <{filename}../dhA/dhA-chap13%zh.rst#Dhp169>`__
@@ -223,20 +278,31 @@
        4. 法集要頌經：當觀水上泡，亦觀幻野馬，如是不觀身，亦不見死至。當觀水上泡，亦觀幻野馬，如是不觀世，亦不見死王T04, 791b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 170. 
+     - LIKE A BUBBLE IS THIS WORLD
+
+       170. Just as one would look upon a bubble, just as one would look upon a mirage [NāradaFn13-04]_ - if a person thus looks upon the world, the King of Death sees him not.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **170.** 
+     - **170.** One who looks upon the world as a bubble and a mirage, him the King of Death sees not.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **170** 
+     - **170** [ThaniSFn-V170]_
+       ::
+              
+          See it  as a bubble,    
+          see it  as a mirage:    
+          one who regards the world this way    
+          the King of Death doesn't see.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **170** 
-       | 
+       |  As if you might a bubble see, 
+       |  As if it should a mirage be:  
+       |  When thus you gaze upon the world 
+       |  You’re not by Death’s great king observed.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 170 
+     - 170 Look upon the world as a bubble, look upon it as a mirage: the king of death does not see him who thus looks down upon the world.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 170 <{filename}../dhA/dhA-chap13%zh.rst#Dhp170>`__
@@ -268,20 +334,33 @@
        2. 出曜經：如是當觀身，如王雜色車，愚者所染著，智者遠離之T04, 738b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 171. 
+     - THE WISE ARE NOT ATTACHED TO THE WORLD
+
+       171. Come, behold this world [NāradaFn13-05]_ which is like unto an ornamented royal chariot, wherein fools flounder, but for the wise there is no attachment. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **171.** 
+     - **171.** Come! Behold this world, which is like a decorated royal chariot. Here fools flounder, but the wise have no attachment to it.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **171** 
+     - **171** 
+       ::
+              
+          Come look at this world   
+          all decked out    
+          like a royal chariot,   
+          where fools plunge in,    
+          while those who know    
+            don't cling.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **171** 
-       | 
+       |  Let’s gaze upon this pompous world  
+       |  (A royal coach resplendent!)  
+       |  In which the fools have settled down: 
+       |  The wise have no attachment.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 171 
+     - 171 Come, look at this glittering world, like unto a royal chariot; the foolish are immersed in it, but the wise do not touch it.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 171 <{filename}../dhA/dhA-chap13%zh.rst#Dhp171>`__
@@ -321,20 +400,36 @@
        | 9. 央掘魔羅經：人前放逸，後止不犯，是照世間，如月雲消T02, 543a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 172. 
+     - THE HEEDFUL ILLUMINE THE WORLD
+
+       172. Whoever was heedless before and afterwards is not; such a one illumines this world like the moon freed from clouds.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **172.** 
+     - **172.** He who having been heedless is heedless no more, illuminates this world like the moon freed from clouds.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **172** 
+     - **172-173** 
+       ::
+              
+          Who once was heedless,    
+          but later is not,   
+            brightens the world 
+            like the moon set free from a cloud.  
+              
+          His evil-done deed    
+          is replaced with skillfulness:    
+            he brightens the world  
+            like the moon set free from a cloud.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **172** 
-       | 
+       |  Whoever though earlier negligent, 
+       |  In passage of time became diligent, 
+       |  Is one who throws light on the world, 
+       |  Like the moon which from clouds has emerged.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 172 
+     - 172 He who formerly was reckless and afterwards became sober, brightens up this world, like the moon when freed from clouds.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 172 <{filename}../dhA/dhA-chap13%zh.rst#Dhp172>`__
@@ -376,20 +471,36 @@
        | 11. 雜阿含經：若度諸惡業，正善能令滅，是則照世間，如雲解月現T02,281b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 173. 
+     - EVIL CAN BE ERASED BY GOOD
+
+       173. Whoever, by a good deed, [NāradaFn13-06]_ covers the evil done, [NāradaFn13-07]_ such a one illumines this world like the moon freed from clouds.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **173.** 
+     - **173.** He, who by good deeds covers the evil he has done, illuminates this world like the moon freed from clouds.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **173** 
+     - **172-173** 
+       ::
+              
+          Who once was heedless,    
+          but later is not,   
+            brightens the world 
+            like the moon set free from a cloud.  
+              
+          His evil-done deed    
+          is replaced with skillfulness:    
+            he brightens the world  
+            like the moon set free from a cloud.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **173** 
-       | 
+       |  One guilty of past misdemeanour 
+       |  Who shrouds it with skilful endeavour 
+       |  Is one who throws light on the world, 
+       |  Like the moon which from clouds has emerged.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 173 
+     - 173 He whose evil deeds are covered by good deeds, brightens up this world, like the moon when freed from clouds.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 173 <{filename}../dhA/dhA-chap13%zh.rst#Dhp173>`__
@@ -422,20 +533,34 @@
        3. 法句經：癡覆天下，貪令不見，邪疑却道，苦愚從是T04, 566b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 174. 
+     - FEW ARE THE CLEAR-SIGHTED
+
+       174. Blind is this world. Few are those who clearly see. As birds escape from a net few go to a blissful state. [NāradaFn13-08]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **174.** 
+     - **174.** Blind is the world; here only a few possess insight. Only a few, like birds escaping from the net, go to realms of bliss.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **174** 
+     - **174** 
+       ::
+              
+          Blinded this world —    
+          how few here see clearly!   
+          Just as birds who've escaped    
+            from a net are  
+            few, few  
+            are the people  
+          who make it to heaven.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **174** 
-       | 
+       |  Benighted is humanity:  
+       |  How few there are that see! 
+       |  As few men go to paradise 
+       |  As birds from nets break free.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 174 
+     - 174 This world is dark, few only can see here; a few only go to heaven, like birds escaped from the net.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 174 <{filename}../dhA/dhA-chap13%zh.rst#Dhp174>`__
@@ -468,20 +593,31 @@
        3. 法集要頌經：淨心常憶念，無所有貪愛，已度愚癡淵，如鵝守枯池。彼心既棄捨，翱翔昇虛空，修行出世間，能破魔羅眾T04, 785c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 175. 
+     - THE WISE SEEK AN ESCAPE FROM THIS WORLD
+
+       175. Swans wing along on the path of the sun. (Men) go through air by psychic powers, [NāradaFn13-09]_ The wise are led away from the world, [NāradaFn13-10]_ having conquered Māra and his host. [NāradaFn13-11]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **175.** 
+     - **175.** Swans fly on the path of the sun; men pass through the air by psychic powers; the wise are led away from the world after vanquishing Mara and his host.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **175** 
+     - **175** 
+       ::
+              
+          Swans fly the path of the sun;    
+          those with the power fly through space;   
+          the enlightened flee from the world,    
+          having defeated the armies of Mara.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **175** 
-       | 
+       |  Swans wing their way on the sun’s westward path;  
+       |  By their powers sublime, through the air, adepts pass.  
+       |  The sages take leave of the worldly domain  
+       |  Having Mara defeated, and all Mara’s train.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 175 
+     - 175 The swans go on the path of the sun, they go through the ether by means of their miraculous power; the wise are led out of this world, when they have conquered Mara and his train.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 175 <{filename}../dhA/dhA-chap13%zh.rst#Dhp175>`__
@@ -525,20 +661,32 @@
        | 13. 正法念處經：若有何等人，起一妄語法，則不畏他世，無惡不造作T17, 5b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 176. 
+     - THERE IS NO EVIL THAT A LIAR CANNOT COMMIT
+
+       176. There is no evil that cannot be done by the liar, [NāradaFn13-12]_ who has transgressed the one law (of truthfulness) and who is indifferent to a world beyond.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **176.** 
+     - **176.** For a liar who has violated the one law (of truthfulness) who holds in scorn the hereafter, there is no evil that he cannot do.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **176** 
+     - **176** [ThaniSFn-V176]_
+       ::
+              
+          The person who tells a lie,   
+          who transgresses in this one thing,   
+          transcending concern for the world beyond:    
+            there's no evil 
+            he might not do.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **176** 
-       | 
+       |  They who, in speaking, are guilty of falsity, 
+       |  Flouting one virtue, the virtue of honesty -  
+       |  Doubting the chance of an after-life destiny -  
+       |  Won’t draw the line at a single iniquity.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 176 
+     - 176 If a man has transgressed one law, and speaks lies, and scoffs at another world, there is no evil he will not do.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 176 <{filename}../dhA/dhA-chap13%zh.rst#Dhp176>`__
@@ -573,20 +721,35 @@
        3. 法集要頌經：愚不修天行，亦不讚布施，正直隨喜施，彼得後世樂T04,782a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 177. 
+     - THE STINGY ARE NOT HAPPY
+
+       177. Verily misers go not to the celestial realms. Fools do not indeed praise liberality. The wise man rejoices in giving and thereby become happy thereafter.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **177.** 
+     - **177.** Truly, misers fare not to heavenly realms; nor, indeed, do fools praise generosity. But the wise man rejoices in giving, and by that alone does he become happy hereafter.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **177** 
+     - **177** 
+       ::
+              
+          No misers go    
+          to the world of the devas.    
+          Those who don't praise giving   
+                   are fools. 
+          The enlightened   
+          express their approval for giving   
+            and so find ease  
+            in the world beyond.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **177** 
-       | 
+       |  To realms of the gods will proceed not the niggardly; 
+       |  Fools, who don’t see this, do not extol charity.  
+       |  Those who are prudent commend open-handedness;  
+       |  Thus, after death, they are happy in consequence.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 177 
+     - 177 The uncharitable do not go to the world of the gods; fools only do not praise liberality; a wise man rejoices in liberality, and through it becomes blessed in the other world.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 177 <{filename}../dhA/dhA-chap13%zh.rst#Dhp177>`__
@@ -632,20 +795,32 @@
        | 4. 解脫道論：於地一國王，於天堂一王，領一切世間，須陀洹果勝T32,458a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 178. 
+     - SPIRITUAL ADVANCEMENT IS BETTER THAN WORLDLY SOVEREIGNTY
+
+       178. Better than absolute sovereignty [NāradaFn13-13]_ over the earth, better than going to heaven, better than even lordship over all the worlds, is the Fruit of a Stream-Winner. [NāradaFn13-14]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **178.** 
+     - **178.** Better than sole sovereignty over the earth, better than going to heaven, better even than lordship over all the worlds is the supramundane Fruition of Stream Entrance. [BudRkFn-v178]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **178** 
+     - **178** [ThaniSFn-V178]_
+       ::
+              
+          Sole dominion over the earth,   
+          going to heaven,    
+          lordship over all worlds:   
+            the fruit of stream-entry 
+            excels them.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **178** 
-       | 
+       |  Better than sovereignty over the earth, 
+       |  Or finding in heaven a blessed rebirth, 
+       |  Or ruling the cosmos with total authority,  
+       |  Better than these is securing of stream-entry.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 178 
+     - 178 Better than sovereignty over the earth, better than going to heaven, better than lordship over all worlds, is the reward of the first step in holiness.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 178 <{filename}../dhA/dhA-chap13%zh.rst#Dhp178>`__
@@ -683,7 +858,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -716,6 +891,59 @@
 .. [CFFn13-02] 〔敬法法師註13-02〕 29 註釋：「 **以善** 」（kusalena）的善是指阿羅漢道智。
 
 .. [CFFn13-03] 〔敬法法師註13-03〕 30 註釋：「 **一法** 」：真實。
+
+.. [NāradaFn13-01] (Ven. Nārada 13-01) That is, sensual pleasures.
+
+.. [NāradaFn13-02] (Ven. Nārada 13-02) By being subject to repeated births and deaths.
+
+.. [NāradaFn13-03] (Ven. Nārada 13-03) This translation is according to the Commentary but owing to the ambiguity of the first word it may be translated, "be alert, be not heedless", etc.
+
+.. [NāradaFn13-04] (Ven. Nārada 13-04) This psycho-physical organism is to be regarded as being as empty as a bubble and as illusive as a mirage. The wise man who could so regard it would end the ills of life.
+
+.. [NāradaFn13-05] (Ven. Nārada 13-05) This body, composed of the five Aggregates.
+
+.. [NāradaFn13-06] (Ven. Nārada 13-06) By the Path of Arahantship.
+
+.. [NāradaFn13-07] (Ven. Nārada 13-07) One has to reap the effects of one's Kamma. But one is not bound to reap the effects of all actions one has done in the course of Saṃsāra. If one were, an escape from birth and death would be impossible. At times it is possible to obliterate one's evil kamma by performing powerful good kamma.
+
+.. [NāradaFn13-08] (Ven. Nārada 13-08) Sagga - blissful states, not eternal heavens.
+
+.. [NāradaFn13-09] (Ven. Nārada 13-09) Iddhi. By mental development it is possible to fly through the air, walk on water, dive into the earth, etc. Such kinds of powers are psychic and supernormal, but not miraculous.
+
+.. [NāradaFn13-10] (Ven. Nārada 13-10) That is, the Arahants attain Parinibbāna without coming into birth again.
+
+.. [NāradaFn13-11] (Ven. Nārada 13-11) The host of Māra, the Evil One, is described as comprising ten kinds of passions (kilesa). They are: 1. material pleasures (kāma), 2. aversion for the Holy Life (arati), 3. hunger and thirst (khuppipāsā), 4. craving (taṇhā), 5. sloth and torpor (thīna-middha), 6. fear (bhaya), 7. doubt (vicikicchā), 8. detraction and obstinacy (makkha-thambha), 9. gain (lābha), praise (siloka) honour (sakkāra) and ill-gotten fame (yasa), 10. Extolling of oneself and contempt for others (attukkaṃsana-paravambhana).
+
+.. [NāradaFn13-12] (Ven. Nārada 13-12) An untruthful person, devoid of self-respect, who has no belief in an after life and who has no fear for the attendant consequences of evil, is liable to commit any evil. Such a person does not see earthly bliss or heavenly bliss or Nibbānic bliss (Commentary).
+
+.. [NāradaFn13-13] (Ven. Nārada 13-13) Internal purification is far superior to fleeting worldly possessions of transitory heavenly bliss.
+
+.. [NāradaFn13-14] (Ven. Nārada 13-14) Sotāpatti. Here Sota means the stream that leads to Nibbāna. It is the noble Eightfold Path. "Ā" means for the first time. "Patti" means attainment. Sotāpatti means the attainment of the stream for the first time. It is the realization of Nibbāna for the first time. This is the first stage of Sainthood. The Stream-Winners are not born in woeful states, but the worldly great are not exempt from them.
+
+.. [BudRkFn-v178]  (Ven. Buddharakkhita v. 178) Stream-entry (sotapatti): the first stage of supramundane attainment.
+
+.. [ThaniSFn-V170] (Ven. Thanissaro V.170) The Sutta Nipata (Sn 5.15) reports a conversation between the Buddha and the brahman Mogharaja with a point similar to that of this verse:
+                    ::
+
+                     Mogharaja:
+                     In what way does one view the world
+                     so as not to be seen
+                       by Death's king?
+
+                     The Buddha:
+                     View the world, Mogharaja,
+                          as empty —
+                     always mindful
+                     to have removed any view
+                          about self.
+                     This way one is above & beyond death.
+                     This is the way one views the world
+                     so as not to be seen
+                       by Death's king.
+
+.. [ThaniSFn-V176] (Ven. Thanissaro V.176) This verse is also found at Iti.25, where the context makes clear the meaning of ekam dhammam, or "this one thing": the principle of truthfulness.
+
+.. [ThaniSFn-V178] (Ven. Thanissaro V.178) The fruit of stream-entry is the first of the four stages of Awakening (see note 22). A person who has attained stream entry — entry into the stream that flows inevitably to Unbinding — is destined to attain full Awakening within at most seven lifetimes, never falling below the human state in the interim.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

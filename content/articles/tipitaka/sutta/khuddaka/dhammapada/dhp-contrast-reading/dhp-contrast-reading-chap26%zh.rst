@@ -3,7 +3,7 @@
 ================================================================================
 
 :date: 2016-06-04 18:00
-:modified: 2016-06-13 11:30
+:modified: 2016-06-27 17:30
 :tags: 法句經, 法句經對讀, 婆羅門品, Dhp, Dhammapada, Brāhmaṇavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Holy Man
@@ -119,20 +119,43 @@
        5. 法集要頌經：截流而已渡，無欲如梵天，智行以盡漏，是名為梵志T4,798a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 383. 
+     - **Chapter 26  The Brāhmaṇa**  [NāradaFn26-01]_
+        
+       **BE A KNOWER OF THE UNCREATED**
+
+       383. Strive and cleave the stream. [NāradaFn26-02]_ Discard, O brāhmaṇa, sense-desires. Knowing the destruction of conditioned things, be, O brāhmaṇa, a knower of the Unmade [NāradaFn26-03]_ (Nibbāna). 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **383.** 
+     - **Dhp XXVI The Holy Man**
+
+       **383.** Exert yourself, O holy man! Cut off the stream (of craving), and discard sense desires. Knowing the destruction of all the conditioned things, become, O holy man, the knower of the Uncreated (Nibbana)! [BudRkFn-v383]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **383** 
+     - **Dhp XXVI  Brahmans**
+
+       **383** [ThaniSFn-V383]_
+       ::
+              
+          Having striven, brahman,    
+            cut the stream. 
+            Expel sensual passions. 
+          Knowing the ending of fabrications,   
+               brahman, 
+            you know the Unmade.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **383** 
-       | 
+     - **Chapter 26 The Brahman**
+
+       | **383** 
+       |  Cut the stream of craving energetically,  
+       |  And drive away, O wise man, sensuality. 
+       |  The end of things conditioned having seen,  
+       |  Then knower of the un-formed will you be.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 383 
+     - **Chapter XXVI - The Brahmana (Arhat)**
+
+       383 Stop the stream valiantly, drive away the desires, O Brahmana! When you have understood the destruction of all that was made, you will understand that which was not made.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 383 <{filename}../dhA/dhA-chap26%zh.rst#Dhp383>`__
@@ -166,20 +189,29 @@
        4. 法集要頌經：彼以不二行，清淨無瑕穢，諸欲斷縛著，是名為梵志T4,798a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 384. 
+     - CULTIVATE CONCENTRATION AND INSIGHT
+
+       384. When in two states [NāradaFn26-04]_ a brāhmaṇa goes to the Farther Shore, [NāradaFn26-05]_ then all the fetters of that "one who knows" pass away.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **384.** 
+     - **384.** When a holy man has reached the summit of two paths (meditative concentration and insight), he knows the truth and all his fetters fall away.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **384** 
+     - **384** [ThaniSFn-V384]_
+       ::
+              
+          When the brahman has gone   
+          to the beyond of two things,    
+          then all his fetters    
+          go to their end —   
+            he who knows.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **384** 
-       | 
+       |  When, through concentration and insight, a true brahman has gone beyond, he understands truth, and all his bonds fall away.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 384 
+     - 384 If the Brahmana has reached the other shore in both laws (in restraint and contemplation), all bonds vanish from him who has obtained knowledge.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 384 <{filename}../dhA/dhA-chap26%zh.rst#Dhp384>`__
@@ -212,20 +244,31 @@
        3. 法集要頌經：適彼則無彼，彼彼適亦無，捨離於貪欲，是名為梵志T4,798b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 385. 
+     - THE UNBOUND PERSON IS A BRĀHMAṆA
+        
+       385. For whom there exists neither the hither [NāradaFn26-06]_ nor the farther shore, nor both the hither and the farther shore, [NāradaFn26-07]_ he who is undistressed and unbound, [NāradaFn26-08]_ - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **385.** 
+     - **385.** He for whom there is neither this shore nor the other shore, nor yet both, he who is free of cares and is unfettered — him do I call a holy man. [BudRkFn-v385]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **385** 
+     - **385** [ThaniSFn-V385]_
+       ::
+              
+          One whose beyond or   
+          not-beyond or   
+          beyond-&-not-beyond   
+          can't be found;   
+          unshackled, carefree:   
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **385** 
-       | 
+       |  One for whom there is no attachment to this world, or to the world beyond, or to both; one who is free of sorrow and fetters, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 385 
+     - 385 He for whom there is neither this nor that shore, nor both, him, the fearless and unshackled, I call indeed a Brahmana.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 385 <{filename}../dhA/dhA-chap26%zh.rst#Dhp385>`__
@@ -256,20 +299,30 @@
      - 1. 法句經：思惟無垢，所行不漏，上求不起，是謂梵志T4,572b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 386. 
+     - HE WHO IS MEDITATIVE AND PURE IS A BRĀHMAṆA
+
+       386. He who is meditative, [NāradaFn26-09]_ stainless and secluded, [NāradaFn26-10]_ he who has done his duty and is free from corruptions, [NāradaFn26-11]_ he who has attained the Highest Goal [NāradaFn26-12]_ - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **386.** 
+     - **386.** He who is meditative, stainless and settled, whose work is done and who is free from cankers, having reached the highest goal — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **386** 
+     - **386** 
+       ::
+              
+          Sitting silent, dustless,   
+          absorbed in jhana,    
+          his task done, effluents gone,    
+          ultimate goal attained:   
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **386** 
-       | 
+       |  One who sits in meditation, stainless, duty done, free of the asavas, the highest goal attained, I call such a person a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 386 
+     - 386 He who is thoughtful, blameless, settled, dutiful, without passions, and who has attained the highest end, him I call indeed a Brahmana.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 386 <{filename}../dhA/dhA-chap26%zh.rst#Dhp386>`__
@@ -305,20 +358,37 @@
        3. 法集要頌經：日照照於晝，月照照於夜，甲兵照於軍，禪照於道人，佛出照天下，能照一切冥T4,799b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 387. 
+     - THE BUDDHA SHINES THROUGHOUT DAY AND NIGHT
+       
+       387. The sun shines by day; the moon is radiant by night. Armoured shines the warrior king. [NāradaFn26-13]_ Meditating the brāhmaṇa [NāradaFn26-14]_ shines. But all day and night the Buddha [NāradaFn26-15]_ shines in glory.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **387.** 
+     - **387.** The sun shines by day, the moon shines by night. The warrior shines in armor, the holy man shines in meditation. But the Buddha shines resplendent all day and all night.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **387** 
+     - **387** 
+       ::
+              
+          By day shines the sun;    
+          by night, the moon;   
+          in armor, the warrior;    
+          in jhana, the brahman.    
+          But all day & all night,    
+          every day & every night,    
+          the Awakened One shines   
+            in splendor.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **387** 
-       | 
+       |  The sun by day shines bright; 
+       |  The moon’s ablaze at night; 
+       |  The soldier gleams when wearing armour; 
+       |  Brahmans glow immersed in jhana;  
+       |  But through the daytime and the night,  
+       |  The Buddha floods the world with light.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 387 
+     - 387 The sun is bright by day, the moon shines by night, the warrior is bright in his armour, the Brahmana is bright in his meditation; but Buddha, the Awakened, is bright with splendour day and night.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 387 <{filename}../dhA/dhA-chap26%zh.rst#Dhp387>`__
@@ -352,20 +422,34 @@
        4. 法集要頌經：出家為梵行，入正為沙門，棄捨眾穢行，是則名捨家T4,798a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 388. 
+     - HE IS HOLY WHO HAS DISCARDED ALL EVIL
+       
+       388. Because he has discarded evil, he is called a brāhmaṇa; because he lives in peace, [NāradaFn26-16]_ he is called a samana; because he gives up the impurities, he is called a pabbajita - recluse.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **388.** 
+     - **388.** Because he has discarded evil, he is called a holy man. Because he is serene in conduct, he is called a recluse. And because he has renounced his impurities, he is called a renunciate.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **388** 
+     - **388** [ThaniSFn-V388]_
+       ::
+              
+          He's called a brahman   
+            for having banished his evil, 
+          a contemplative   
+            for living in consonance, 
+          one gone forth    
+            for having forsaken 
+            his own impurities.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **388** 
-       | 
+       |  By renouncing all evil one’s called a renunciate. 
+       |  If anchored in peace, then one’s known as an anchorite. 
+       |  And whoever their spiritual defects removes,  
+       |  It is proper to label the person, recluse.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 388 
+     - 388 Because a man is rid of evil, therefore he is called Brahmana; because he walks quietly, therefore he is called Samana; because he has sent away his own impurities, therefore he is called Pravragita (Pabbagita, a pilgrim).
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 388 <{filename}../dhA/dhA-chap26%zh.rst#Dhp388>`__
@@ -398,20 +482,33 @@
        | 2. 發智論：不應害梵志，亦復不應捨，若害彼或捨，俱世智所訶T26,1029b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 389. 
+     - HARM NOT AN ARAHANT
+       
+       389. One should not strike a brāhmaṇa, [NāradaFn26-17]_ nor should a brāhmaṇa vent (his wrath) on one who has struck him. Shame on him who strikes a brāhmaṇa! More shame on him who gives vent (to his wrath)!
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **389.** 
+     - **389.** One should not strike a holy man, nor should a holy man, when struck, give way to anger. Shame on him who strikes a holy man, and more shame on him who gives way to anger.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **389** 
+     - **389** [ThaniSFn-V389]_
+       ::
+              
+          One should not strike a brahman,    
+          nor should the brahman    
+          let loose with his anger.   
+          Shame on a brahman's killer.    
+          More shame on the brahman   
+            whose anger's let loose.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **389** 
-       | 
+       |  One shouldn’t ever strike a monk; 
+       |  A monk should not retaliate.  
+       |  Shame on those who first attack,  
+       |  And shame on those who then strike back!
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 389 
+     - 389 No one should attack a Brahmana, but no Brahmana (if attacked) should let himself fly at his aggressor! Woe to him who strikes a Brahmana, more woe to him who flies at his aggressor!
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 389 <{filename}../dhA/dhA-chap26%zh.rst#Dhp389>`__
@@ -448,20 +545,34 @@
        5. 法集要頌經：梵志無有是，有憂無憂念，如如意所轉，彼彼滅狐疑T4,799a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 390. 
+     - AN ARAHANT DOES NOT RETALIATE
+       
+       390. Unto a brāhmaṇa that (non-retaliation) is of no small advantage. When the mind is weaned from things dear, whenever the intent to harm ceases, then and then only doth sorrow subside.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **390.** 
+     - **390.** Nothing is better for a holy man than when he holds his mind back from what is endearing. To the extent the intent to harm wears away, to that extent does suffering subside.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **390** 
+     - **390** [ThaniSFn-V390]_
+       ::
+              
+          Nothing's better for the brahman    
+          than when the mind is held back   
+          from what is endearing & not.   
+          However his harmful-heartedness   
+            wears away, 
+          that's how stress   
+          simply comes to rest.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **390** 
-       | 
+       |  For a monk there’s naught excelling   
+       |  Holding back from what’s endearing. 
+       |  As desires destructive fade,  
+       |  So his sorrows melt away. [VaradoFn-V390]_
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 390 
+     - 390 It advantages a Brahmana not a little if he holds his mind back from the pleasures of life; when all wish to injure has vanished, pain will cease.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 390 <{filename}../dhA/dhA-chap26%zh.rst#Dhp390>`__
@@ -494,20 +605,31 @@
        3. 法集要頌經：身口及與意，清淨無過失，能攝三種行，是名為梵志T4,798b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 391. 
+     - HE IS A TRUE BRĀHMAṆA WHO IS WELL-RESTRAINED
+       
+       391. He that does no evil through body, speech or mind, who is restrained in these three respects - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **391.** 
+     - **391.** He who does no evil in deed, word and thought, who is restrained in these three ways — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **391** 
+     - **391** 
+       ::
+              
+          Whoever does no wrong   
+            in body,  
+            speech, 
+            heart,  
+          is restrained in these three ways:    
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **391** 
-       | 
+       |  I call someone a true brahman if he is restrained in three ways: doing no wrong by body, speech or mind.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 391 
+     - 391 Him I call indeed a Brahmana who does not offend by body, word, or thought, and is controlled on these three points.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 391 <{filename}../dhA/dhA-chap26%zh.rst#Dhp391>`__
@@ -541,20 +663,33 @@
        4. 法集要頌經：諸有知深法，不問老以少，審諦守戒信，猶祀火梵志T4,799b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 392. 
+     - HONOUR TO WHOM HONOUR IS DUE
+       
+       392. If from anybody one should understand the doctrine preached by the Fully Enlightened One, devoutly should one reverence him, as a brahmin reveres the sacrificial fire.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **392.** 
+     - **392.** Just as a brahman priest reveres his sacrificial fire, even so should one devoutly revere the person from whom one has learned the Dhamma taught by the Buddha.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **392** 
+     - **392** [ThaniSFn-V392]_
+       ::
+              
+          The person from whom    
+          you would learn the Dhamma    
+          taught by the Rightly   
+          Self-Awakened One:    
+          you should honor him with respect —   
+          as a brahman, the flame for a sacrifice.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **392** 
-       | 
+       |  To him through whom you first received  
+       |  The Dhamma that the Lord revealed,  
+       |  Bestow respectful salutation, 
+       |  Like priests serve fire, with veneration.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 392 
+     - 392 After a man has once understood the law as taught by the Well- awakened (Buddha), let him worship it carefully, as the Brahmana worships the sacrificial fire.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 392 <{filename}../dhA/dhA-chap26%zh.rst#Dhp392>`__
@@ -586,20 +721,40 @@
        2. 法句譬喻經：非蔟結髮，名為梵志，誠行法行，清白則賢T4,605a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 393. 
+     - PURE IS HE WHO IS TRUTHFUL AND RIGHTEOUS
+       
+       393. Not by matted hair, nor by family, nor by birth does one become a brāhmaṇa. But in whom there exist both truth [NāradaFn26-19]_ and righteousness, [NāradaFn26-20]_ pure is he, a brāhmaṇa is he.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **393.** 
+     - **393.** Not by matted hair, nor by lineage, nor by birth does one become a holy man. But he in whom truth and righteousness exist — he is pure, he is a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **393** 
+     - **393-394** [ThaniSFn-V393]_
+       ::
+              
+          Not by matted hair,   
+          by clan, or by birth,   
+          is one a brahman.   
+          Whoever has truth   
+          & rectitude:    
+            he is a pure one, 
+            he, a brahman.  
+              
+          What's the use of your matted hair,   
+            you dullard?  
+          What's the use of your deerskin cloak?    
+          The tangle's inside you.    
+          You comb the outside.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **393** 
-       | 
+       |  Not matted hair, nor birth, nor clan  
+       |  Establish one’s a godly man.  
+       |  But knowing truth, and conduct righteous, 
+       |  Evince one’s pure, indeed religious. [VaradoFn-V393_395-396]_
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 393 
+     - 393 A man does not become a Brahmana by his platted hair, by his family, or by birth; in whom there is truth and righteousness, he is blessed, he is a Brahmana.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 393 <{filename}../dhA/dhA-chap26%zh.rst#Dhp393>`__
@@ -634,20 +789,40 @@
        5. Cf. 法句經：T4,559c：被髮學邪道，草衣內貪濁，曚曚不識真，如聾聽五音
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 394. 
+     - BE PURE WITHIN
+       
+       394. What is the use of your matted hair, O witless man? What is the use of your antelope skin garment? Within, you are full of passions; without, you embellish yourself. [NāradaFn26-21]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **394.** 
+     - **394.** What is the use of your matted hair, O witless man? What of your garment of antelope's hide? Within you is the tangle (of passion); only outwardly do you cleanse yourself. [BudRkFn-v394]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **394** 
+     - **393-394** [ThaniSFn-V394]_
+       ::
+              
+          Not by matted hair,   
+          by clan, or by birth,   
+          is one a brahman.   
+          Whoever has truth   
+          & rectitude:    
+            he is a pure one, 
+            he, a brahman.  
+              
+          What's the use of your matted hair,   
+            you dullard?  
+          What's the use of your deerskin cloak?    
+          The tangle's inside you.    
+          You comb the outside.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **394** 
-       | 
+       |  Why, O fool, the matted hair? 
+       |  What good, the deerskin cloak you wear? 
+       |  Within you lies entanglement; 
+       |  Outside is mere embellishment.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 394 
+     - 394 What is the use of platted hair, O fool! what of the raiment of goat-skins? Within thee there is ravening, but the outside thou makest clean.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 394 <{filename}../dhA/dhA-chap26%zh.rst#Dhp394>`__
@@ -681,20 +856,33 @@
        4. Cf. 出曜經：T4,773c：比丘塜間衣，觀於欲非真，坐樹空閑處，是謂為梵志。384
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 395. 
+     - WHO MEDITATES ALONE IN THE FOREST IS A BRĀHMAṆA
+       
+       395. The person who wears dust-heap robes, [NāradaFn26-22]_ who is lean, whose veins stand out, who meditates alone in the forest - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **395.** 
+     - **395.** The person who wears a robe made of rags, who is lean, with veins showing all over the body, and who meditates alone in the forest — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **395** 
+     - **395** 
+       ::
+              
+          Wearing cast-off rags   
+           — his body lean & lined with veins —   
+          absorbed in jhana,    
+          alone in the forest:    
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **395** 
-       | 
+       |  The monk who uses rag-cloth robes,  
+       |  Who sits alone in lonely groves,  
+       |  Whose frame is lean, with sinews lined, 
+       |  That person’s one I’d call divine. [VaradoFn-V393_395-396]_
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 395 
+     - 395 The man who wears dirty raiments, who is emaciated and covered with veins, who lives alone in the forest, and meditates, him I call indeed a Brahmana.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 395 <{filename}../dhA/dhA-chap26%zh.rst#Dhp395>`__
@@ -730,20 +918,48 @@
        3. 法集要頌經：我不說梵志，託父母生者，彼多眾瑕穢，滅則為梵志T4,798b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 396. 
+     - THE NON-POSSESSIVE AND THE NON-ATTACHED PERSON IS A BRĀHMAṆA
+       
+       396. I do not call him a brāhmaṇa merely because he is born of a (brahmin) womb or sprung from a (brahmin) mother. He is merely a "Dear-addresser", [NāradaFn26-23]_ if he be with impediments. He who is free from impediments, free from clinging - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **396.** 
+     - **396.** I do not call him a holy man because of his lineage or high-born mother. If he is full of impeding attachments, he is just a supercilious man. But who is free from impediments and clinging — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **396** 
+     - **396** [ThaniSFn-V396]_
+       ::
+              
+          I don't call one a brahman    
+          for being born of a mother    
+          or sprung from a womb.    
+          He's called a 'bho-sayer'   
+          if he has anything at all.    
+          But someone with nothing,   
+          who clings to no thing:   
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **396** 
-       | 
-     
+       |  From mother born, 
+       |  And womb emerged, 
+       |  Don’t mean a man  
+       |  “A saint” be termed. [VaradoFn-V393_395-396]_
+       |    
+       |  A man inclined  
+       |  To call things “mine”,  
+       |  And then refer  
+       |  To men as “Sir”:  
+       |  He should be termed,  
+       |  “Addresser by ‘Sir’”. 
+       |    
+       |  But he who’s free 
+       |  Of thoughts of ‘me’, [VaradoFn-V396]_ 
+       |  And holding-on, 
+       |  A saint is he.
+
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 396 
+     - 396 I do not call a man a Brahmana because of his origin or of his mother. He is indeed arrogant, and he is wealthy: but the poor, who is free from all attachments, him I call indeed a Brahmana.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 396 <{filename}../dhA/dhA-chap26%zh.rst#Dhp396>`__
@@ -776,20 +992,37 @@
        3. 法集要頌經：盡斷一切結，亦不有熱惱，如來覺無著，是名為梵志T4,799a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 397. 
+     - A BRĀHMAṆA IS HE WHO HAS DESTROYED ALL FETTERS
+       
+       397. He who has cut off all fetters, who trembles not, who has gone beyond ties, who is unbound - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **397.** 
+     - **397.** He who, having cut off all fetters, trembles no more, who has overcome all attachments and is emancipated — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **397** 
+     - **397** 
+       ::
+              
+          Having cut every fetter,    
+          he doesn't get ruffled.   
+          Beyond attachment,    
+          unshackled:   
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **397** 
-       | 
+     - **397** 
+       ::
+              
+         One who   
+                   has sundered all fetters, 
+                   is free of worry and excitement,  
+                   is free of bonds, 
+                   is liberated, 
+         I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 397 
+     - 397 Him I call indeed a Brahmana who has cut all fetters, who never trembles, is independent and unshackled.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 397 <{filename}../dhA/dhA-chap26%zh.rst#Dhp397>`__
@@ -822,20 +1055,36 @@
        3. 法集要頌經：能斷生死河，能忍超度世，自覺出苦塹，是名為梵志T4,799b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 398. 
+     - A BRĀHMAṆA IS HE WHO HAS NO HATRED
+       
+       398. He who has cut the strap (hatred), the thong (craving), and the rope (heresies), together with the appendages (latent tendencies), who has thrown up the cross-bar (ignorance), who is enlightened [NāradaFn26-24]_ (Buddha) - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **398.** 
+     - **398.** He who has cut off the thong (of hatred), the band (of craving), and the rope (of false views), together with the appurtenances (latent evil tendencies), he who has removed the crossbar (of ignorance) and is enlightened — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **398** 
+     - **398** [ThaniSFn-V398]_
+       ::
+              
+          Having cut the strap & thong,   
+            cord & bridle,  
+          having thrown off the bar,    
+            awakened: 
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **398** 
-       | 
+       |  One who has cut the reins of craving, 
+       |  The traces of hatred, 
+       |  The lead of views,  
+       |  Together with the bridle of the latent tendencies,  
+       |  Who has thrown off the yoke of ignorance, 
+       |  Who is fully enlightened, 
+       |  I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 398 
+     - 398 Him I call indeed a Brahmana who has cut the strap and the thong, the chain with all that pertains to it, who has burst the bar, and is awakened.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 398 <{filename}../dhA/dhA-chap26%zh.rst#Dhp398>`__
@@ -868,20 +1117,36 @@
        3. 法集要頌經：見罵見相擊，默受不生怒，有大忍辱力，是名為梵志T4,798b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 399. 
+     - A BRĀHMAṆA IS HE WHO IS PATIENT
+       
+       399. He who, without anger, endures reproach, flogging and punishments, whose power and potent army is patience - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **399.** 
+     - **399.** He who without resentment endures abuse, beating and punishment; whose power, real might, is patience — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **399** 
+     - **399** 
+       ::
+              
+          He endures — unangered —    
+          insult, assault, & imprisonment.    
+          His army is strength;   
+          his strength, forbearance:    
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **399** 
-       | 
+     - **399** 
+       ::
+              
+         One who bears, without resentment,  
+                   verbal abuse, 
+                   flogging, 
+                   physical restraint; 
+         whose power, whose invincible army, is patience, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 399 
+     - 399 Him I call indeed a Brahmana who, though he has committed no offence, endures reproach, bonds, and stripes, who has endurance for his force, and strength for his army.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 399 <{filename}../dhA/dhA-chap26%zh.rst#Dhp399>`__
@@ -914,20 +1179,39 @@
        3. 法集要頌經：若見相侵欺，但念守戒行，端身自調伏，是名為梵志T4,798b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 400. 
+     - A BRĀHMAṆA IS HE WHO IS NOT WRATHFUL
+       
+       400. He who is not wrathful, but is dutiful, [NāradaFn26-25]_ virtuous, free from craving, self-controlled and bears his final body, [NāradaFn26-26]_ - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **400.** 
+     - **400.** He who is free from anger, is devout, virtuous, without craving, self-subdued and bears his final body — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **400** 
+     - **400** [ThaniSFn-V400]_
+       ::              
+
+          Free from anger,    
+          duties observed,    
+          principled, with no overbearing pride,    
+          trained, a 'last-body':   
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **400** 
-       | 
+     - **400** 
+       ::
+              
+         One who 
+                   is free of anger, 
+                   carefully observes his religious duties,  
+                   is virtuous,  
+                   is free of defilement,  
+                   is tamed, 
+                   has been born for the last time,  
+         I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 400 
+     - 400 Him I call indeed a Brahmana who is free from anger, dutiful, virtuous, without appetite, who is subdued, and has received his last body.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 400 <{filename}../dhA/dhA-chap26%zh.rst#Dhp400>`__
@@ -962,20 +1246,32 @@
        | 4. 善見律毘婆沙：如蓮華在水，芥子投針鋒，若於欲不染，我名婆羅門T24,725a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 401. 
+     - HE IS A BRĀHMAṆA WHO CLINGS NOT TO SENSUAL PLEASURES
+       
+       401. Like water on a lotus leaf, like a mustard seed on the point of a needle, he who clings not to sensual pleasures - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **401.** 
+     - **401.** Like water on a lotus leaf, or a mustard seed on the point of a needle, he who does not cling to sensual pleasures — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **401** 
+     - **401** 
+       ::
+              
+            Like water     on a lotus leaf, 
+          a mustard seed  on the tip of an awl,   
+          he doesn't adhere to sensual pleasures:   
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **401** 
-       | 
+       |  A lotus leaf scatters the droplets of rain; 
+       |  A needlepoint lets fall a mustard-seed grain. 
+       |  If someone should likewise life’s pleasures relinquish, 
+       |  That person, I say, is one truly religious.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 401 
+     - 401 Him I call indeed a Brahmana who does not cling to pleasures, like water on a lotus leaf, like a mustard seed on the point of a needle.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 401 <{filename}../dhA/dhA-chap26%zh.rst#Dhp401>`__
@@ -1008,20 +1304,32 @@
        3. 法集要頌經：如今盡所知，究其苦源際，無復欲愛心，是名為梵志T4,798b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 402. 
+     - A BRĀHMAṆA IS HE WHO HAS LAID THE BURDEN ASIDE
+       
+       402. He who realizes here in this world the destruction of his sorrow, who has laid the burden [NāradaFn26-27]_ aside and is emancipated, [NāradaFn26-28]_ - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **402.** 
+     - **402.** He who in this very life realizes for himself the end of suffering, who has laid aside the burden and become emancipated — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **402** 
+     - **402** [ThaniSFn-V402]_
+       ::
+              
+          He discerns right here,   
+            for himself,  
+            on his own, 
+            his own 
+            ending of stress. 
+          Unshackled, his burden laid down:   
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **402** 
-       | 
+       |  One who, in his lifetime, knows the complete destruction of suffering, whose burden is laid down, who is unbound, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 402 
+     - 402 Him I call indeed a Brahmana who, even here, knows the end of his suffering, has put down his burden, and is unshackled.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 402 <{filename}../dhA/dhA-chap26%zh.rst#Dhp402>`__
@@ -1054,20 +1362,38 @@
        3. 法集要頌經：深解微妙慧，辯道不正道，體解無上義，是名為梵志T4,798c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 403. 
+     - A BRĀHMAṆA IS HE WHO HAS REACHED HIS ULTIMATE GOAL
+       
+       403. He whose knowledge is deep, who is wise, who is skilled in the right and wrong way, [NāradaFn26-29]_ who has reached the highest goal - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **403.** 
+     - **403.** He who has profound knowledge, who is wise, skilled in discerning the right or wrong path, and has reached the highest goal — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **403** 
+     - **403** 
+       ::
+              
+          Wise, profound    
+          in discernment, astute    
+          as to what is the path    
+          & what's not;   
+          his ultimate goal attained:   
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **403** 
-       | 
+     - **403** 
+       ::
+              
+         One who 
+                   is of profound wisdom,  
+                   is insightful,  
+                   knows what is the path, and what is not,  
+                   has attained the highest goal,  
+         I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 403 
+     - 403 Him I call indeed a Brahmana whose knowledge is deep, who possesses wisdom, who knows the right way and the wrong, and has attained the highest end.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 403 <{filename}../dhA/dhA-chap26%zh.rst#Dhp403>`__
@@ -1100,20 +1426,31 @@
        3. 法集要頌經：能捨於家業，拔於愛欲本，無貪能知足，是名為梵志T4,798c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 404. 
+     - A BRĀHMAṆA IS HE WHO HAS NO INTIMACY WITH ANY
+       
+       404. He who is not intimate either with householders or with the homeless ones, who wanders without an abode, who is without desires - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **404.** 
+     - **404.** He who holds aloof from householders and ascetics alike, and wanders about with no fixed abode and but few wants — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **404** 
+     - **404** 
+       ::
+              
+          Uncontaminated    
+          by householders   
+          & houseless ones alike;   
+          living with no home,    
+          with next to no wants:    
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **404** 
-       | 
+       |  One who is aloof from both laypeople and the religious, with nowhere called ‘home’, and with few needs, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 404 
+     - 404 Him I call indeed a Brahmana who keeps aloof both from laymen and from mendicants, who frequents no houses, and has but few desires.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 404 <{filename}../dhA/dhA-chap26%zh.rst#Dhp404>`__
@@ -1146,20 +1483,30 @@
        3. 法集要頌經：慈愍於有情，使不生恐懼，不害有益善，是名為梵志T4,798c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 405. 
+     - A BRĀHMAṆA IS HE WHO IS ABSOLUTELY HARMLESS
+       
+       405. He who has laid aside the cudgel in his dealings with beings, [NāradaFn26-30]_ whether feeble or strong, who neither harms nor kills - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **405.** 
+     - **405.** He who has renounced violence towards all living beings, weak or strong, who neither kills nor causes others to kill — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **405** 
+     - **405** 
+       ::
+              
+          Having put aside violence   
+          against beings fearful or firm,   
+          he neither kills nor    
+          gets others to kill:    
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **405** 
-       | 
+       |  One who has abandoned the use of weapons against creatures, either fierce or timorous, and who neither kills nor encourages others to kill, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 405 
+     - 405 Him I call indeed a Brahmana who finds no fault with other beings, whether feeble or strong, and does not kill nor cause slaughter.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 405 <{filename}../dhA/dhA-chap26%zh.rst#Dhp405>`__
@@ -1192,20 +1539,32 @@
        3. 法集要頌經：避怨則無怨，無所於傷損，去其邪僻見，是名為梵志T4,798c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 406. 
+     - A BRĀHMAṆA IS HE WHO IS FRIENDLY AMONGST THE HOSTILE
+       
+       406. He who is friendly amongst the hostile, who is peaceful amongst the violent, who is unattached amongst the attached, [NāradaFn26-31]_ - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **406.** 
+     - **406.** He who is friendly amidst the hostile, peaceful amidst the violent, and unattached amidst the attached — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **406** 
+     - **406** 
+       ::
+              
+          Unopposing among opposition,    
+          unbound     among the armed,    
+          unclinging  among those who cling:    
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **406** 
-       | 
+       |  One tranquil amid the tempestuous,  
+       |  And friendly amid the ferocious,  
+       |  Who's gracious amid the rapacious,  
+       |  Is rightfully labelled religious.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 406 
+     - 406 Him I call indeed a Brahmana who is tolerant with the intolerant, mild with fault-finders, and free from passion among the passionate.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 406 <{filename}../dhA/dhA-chap26%zh.rst#Dhp406>`__
@@ -1239,20 +1598,38 @@
        4. 法集要頌經：去其婬怒癡，憍慢諸惡行，針貫於芥子，是名為梵志T4,798c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 407. 
+     - A BRĀHMAṆA IS HE WHO HAS DISCARDED ALL PASSIONS
+       
+       407. In whom lust, hatred, pride, detraction are fallen off like a mustard seed from the point of a needle - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **407.** 
+     - **407.** He whose lust and hatred, pride and hypocrisy have fallen off like a mustard seed from the point of a needle — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **407** 
+     - **407** 
+       ::
+              
+          His passion, aversion,    
+          conceit, & contempt,    
+          have fallen away —    
+          like a mustard seed   
+          from the tip of an awl:   
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **407** 
-       | 
+       |  A pin-tip retains 
+       |  Not a mustard-seed grain. 
+       |  They who likewise have sloughed 
+       |  Their ill-feelings and lust,  
+       |  And put also aside  
+       |  Their contempt and their pride; 
+       |  Having cast off these stains, 
+       |  As true brahmans they’re named.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 407 
+     - 407 Him I call indeed a Brahmana from whom anger and hatred, pride and envy have dropt like a mustard seed from the point of a needle.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 407 <{filename}../dhA/dhA-chap26%zh.rst#Dhp407>`__
@@ -1286,20 +1663,34 @@
        4. 法集要頌經：斷絕於世事，口無麤獷言，八正道審諦，是名為梵志T4,799a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 408. 
+     - A BRĀHMAṆA IS HE WHO GIVES OFFENCE TO NONE
+       
+       408. He who utters gentle, instructive, true words, who by his speech gives offence to none - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **408.** 
+     - **408.** He who utters gentle, instructive and truthful words, who imprecates none — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **408** 
+     - **408** 
+       ::
+              
+          He would say    
+          what's  non-grating,    
+                   instructive, 
+                   true — 
+          abusing no one:   
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **408** 
-       | 
+       |  With gentle discourse, never lies,  
+       |  With courteous speech, he edifies;  
+       |  And with his tongue, he none maligns: 
+       |  He is, indeed, a man divine.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 408 
+     - 408 Him I call indeed a Brahmana who utters true speech, instructive and free from harshness, so that he offend no one.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 408 <{filename}../dhA/dhA-chap26%zh.rst#Dhp408>`__
@@ -1332,20 +1723,31 @@
        3. 法集要頌經：世所稱善惡，脩短及巨細，無取若無與，是名為梵志T4,798b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 409. 
+     - A BRĀHMAṆA IS HE WHO STEALS NOT
+       
+       409. He who in this world takes nothing that is not given, be it long or short, small or great, fair or foul - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **409.** 
+     - **409.** He who in this world takes nothing that is not given to him, be it long or short, small or big, good or bad — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **409** 
+     - **409** 
+       ::
+              
+          Here in the world   
+          he takes nothing not-given    
+           — long, short,   
+            large, small, 
+               attractive, not: 
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **409** 
-       | 
+       |  One who would not steal anything at all, either large or small, attractive or unattractive, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 409 
+     - 409 Him I call indeed a Brahmana who takes nothing in the world that is not given him, be it long or short, small or large, good or bad.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 409 <{filename}../dhA/dhA-chap26%zh.rst#Dhp409>`__
@@ -1380,20 +1782,30 @@
        5. 法集要頌經：有情無希望，今世及後世，以無所希望，是名為梵志T4,798c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 410. 
+     - A BRĀHMAṆA IS HE WHO IS DESIRELESS
+       
+       410. He who has no longings, pertaining to this world or to the next, who is desireless and emancipated - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **410.** 
+     - **410.** He who wants nothing of either this world or the next, who is desire-free and emancipated — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **410** 
+     - **410** 
+       ::
+              
+          His longing for this    
+          & for the next world    
+          can't be found;   
+          free from longing, unshackled:    
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **410** 
-       | 
+       |  One who is free of longing for all worlds, either human or divine, who is free of hopes and expectations, who is free of attachment, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 410 
+     - 410 Him I call indeed a Brahmana who fosters no desires for this world or for the next, has no inclinations, and is unshackled.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 410 <{filename}../dhA/dhA-chap26%zh.rst#Dhp410>`__
@@ -1426,20 +1838,33 @@
        3. 法集要頌經：棄緣捨居家，出家無所畏，能服甘露味，是名為梵志T4,799a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 411. 
+     - A BRĀHMAṆA IS HE WHO HAS NO LONGINGS
+       
+       411. He who has no longings, who, through knowledge, is free from doubts, who has gained a firm footing in the Deathless (Nibbāna) - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **411.** 
+     - **411.** He who has no attachment, who through perfect knowledge is free from doubts and has plunged into the Deathless — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **411** 
+     - **411** [ThaniSFn-V411]_
+       ::
+              
+          His attachments,    
+            his homes,  
+               can't be found.  
+          Through knowing   
+          he is unperplexed,    
+          has come ashore   
+          in the Deathless:   
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **411** 
-       | 
+       |  One in whom no attachment is found; who, through final knowledge, has no doubts about Dhamma; and who has attained to the depths of the Immortal, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 411 
+     - 411 Him I call indeed a Brahmana who has no interests, and when he has understood (the truth), does not say How, how? and who has reached the depth of the Immortal.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 411 <{filename}../dhA/dhA-chap26%zh.rst#Dhp411>`__
@@ -1472,20 +1897,30 @@
        3. 法集要頌經：於罪并與福，兩行應永除，三處無染著，是名為梵志T4,798b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 412. 
+     - A BRĀHMAṆA IS HE WHO HAS TRANSCENDED GOOD AND EVIL
+       
+       412. Herein he who has transcended both good and bad and the ties [NāradaFn26-33]_ as well, who is sorrowless, stainless, and pure - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **412.** 
+     - **412.** He who in this world has transcended the ties of both merit and demerit, who is sorrowless, stainless and pure — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **412** 
+     - **412** [ThaniSFn-V412]_
+       ::
+              
+          He has gone   
+          beyond attachment here    
+          for both merit & evil —   
+          sorrowless, dustless, & pure:   
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **412** 
-       | 
+       |  One who has overcome attachment to both good and evil, who is sorrowless, stainless, and pure, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 412 
+     - 412 Him I call indeed a Brahmana who in this world is above good and evil, above the bondage of both, free from grief from sin, and from impurity.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 412 <{filename}../dhA/dhA-chap26%zh.rst#Dhp412>`__
@@ -1518,20 +1953,33 @@
        3. 法集要頌經：心喜無塵垢，如月盛圓滿，謗毀以盡除，是名為梵志T4,798c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 413. 
+     - A BRĀHMAṆA IS HE WHO IS PURE
+       
+       413. He who is spotless as the moon, who is pure, serene, and unperturbed, [NāradaFn26-34]_ who has destroyed craving for becoming - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **413.** 
+     - **413.** He, who, like the moon, is spotless and pure, serene and clear, who has destroyed the delight in existence — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **413** 
+     - **413** 
+       ::
+              
+          Spotless, pure, like the moon   
+            — limpid & calm — 
+          his delights, his becomings,    
+               totally gone:  
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **413** 
-       | 
+       |  Unruffled as the moon, as spotless, 
+       |  Pure, resplendent and serene; 
+       |  Becoming and delight uprooted;  
+       |  Brahmans true, are deemed to be.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 413 
+     - 413 Him I call indeed a Brahmana who is bright like the moon, pure, serene, undisturbed, and in whom all gaiety is extinct.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 413 <{filename}../dhA/dhA-chap26%zh.rst#Dhp413>`__
@@ -1567,20 +2015,36 @@
        3. 法集要頌經：城以塹為固，來往受其苦，欲適度彼岸，不宜受他語，惟能滅不起，是名為梵志T4,798c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 414. 
+     - A BRĀHMAṆA IS HE WHO CLINGS TO NAUGHT
+       
+       414. He who has passed beyond this quagmire, [NāradaFn26-35]_ this difficult path, [NāradaFn26-36]_ the ocean of life (saṃsāra), and delusion, [NāradaFn26-37]_ who has crossed [NāradaFn26-38]_ and gone beyond, who is meditative, free from craving and doubts, who, clinging to naught, has attained Nibbāna - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **414.** 
+     - **414.** He who, having traversed this miry, perilous and delusive round of existence, has crossed over and reached the other shore; who is meditative, calm, free from doubt, and, clinging to nothing, has attained to Nibbana — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **414** 
+     - **414** 
+       ::
+              
+          He has made his way past    
+          this hard-going path    
+           — samsara, delusion —    
+          has crossed over,   
+          has gone beyond,    
+          is free from want,    
+            from perplexity,  
+          absorbed in jhana,    
+          through no-clinging   
+          Unbound:    
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **414** 
-       | 
+       |  He who has escaped danger, this difficult road, samsara, delusion; he who has reached the other shore, attained Nibbana, is meditative, free of lust, free of doubt, free of clinging, desireless, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 414 
+     - 414 Him I call indeed a Brahmana who has traversed this miry road, the impassable world and its vanity, who has gone through, and reached the other shore, is thoughtful, guileless, free from doubts, free from attachment, and content.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 414 <{filename}../dhA/dhA-chap26%zh.rst#Dhp414>`__
@@ -1612,20 +2076,37 @@
        2. 法集要頌經：若能棄欲愛，去家捨諸受，以斷於欲漏，是名為梵志T4,798c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 415. 
+     - A BRĀHMAṆA IS HE WHO HAS GIVEN UP SENSE-DESIRES
+       
+       415. He who in this world giving up sense-desires, would renounce worldly life and become a homeless one, he who has destroyed sense-desires and becoming - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **415.** 
+     - **415.** He who, having abandoned sensual pleasures, has renounced the household life and become a homeless one; has destroyed both sensual desire and continued existence — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **415** 
+     - **415-416** 
+       ::
+              
+          Whoever, abandoning sensual passions here,    
+          would go forth from home —    
+          his sensual passions, becomings,    
+               totally gone:  
+            he's what I call  
+            a brahman.  
+              
+          Whoever, abandoning craving here,   
+          would go forth from home —    
+          his cravings, becomings,    
+               totally gone:  
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **415** 
-       | 
+       |  One who has overcome his lusts, who wanders homeless, who has destroyed sensuality and becoming, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 415 
+     - 415 Him I call indeed a Brahmana who in this world, leaving all desires, travels about without a home, and in whom all concupiscence is extinct.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 415 <{filename}../dhA/dhA-chap26%zh.rst#Dhp415>`__
@@ -1659,20 +2140,37 @@
        4. 法集要頌經：以斷於恩愛，離家無愛欲，愛欲若已盡，是名為梵志T4,798b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 416. 
+     - A BRĀHMAṆA IS HE WHO HAS GIVEN UP CRAVING
+       
+       416. He who in this world giving up craving, would renounce worldly life and become a homeless one, he who has destroyed craving and becoming - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **416.** 
+     - **416.** He who, having abandoned craving, has renounced the household life and become a homeless one, has destroyed both craving and continued existence — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **416** 
+     - **415-416** 
+       ::
+              
+          Whoever, abandoning sensual passions here,    
+          would go forth from home —    
+          his sensual passions, becomings,    
+               totally gone:  
+            he's what I call  
+            a brahman.  
+              
+          Whoever, abandoning craving here,   
+          would go forth from home —    
+          his cravings, becomings,    
+               totally gone:  
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **416** 
-       | 
+       |  One who abandons craving, becomes a homeless wanderer, and who then destroys both craving and becoming, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 416 
+     - 416 Him I call indeed a Brahmana who, leaving all longings, travels about without a home, and in whom all covetousness is extinct.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 416 <{filename}../dhA/dhA-chap26%zh.rst#Dhp416>`__
@@ -1704,20 +2202,31 @@
        2. 法句譬喻經：離人聚處，不墮天聚，諸聚不歸，是為梵志T4,605a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 417. 
+     - A BRĀHMAṆA IS HE WHO HAS DISCARDED ALL BONDS
+       
+       417. He who, discarding human ties and transcending celestial ties, is completely delivered from all ties - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **417.** 
+     - **417.** He who, casting off human bonds and transcending heavenly ties, is wholly delivered of all bondages — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **417** 
+     - **417** 
+       ::
+              
+          Having left behind    
+            the human bond, 
+          having made his way past    
+            the divine, 
+          from all bonds unshackled:    
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **417** 
-       | 
+       |  One who has forsaken human bonds, transcended divine bonds, who is thus liberated from all bonds, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 417 
+     - 417 Him I call indeed a Brahmana who, after leaving all bondage to men, has risen above all bondage to the gods, and is free from all and every bondage.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 417 <{filename}../dhA/dhA-chap26%zh.rst#Dhp417>`__
@@ -1748,20 +2257,32 @@
      - 1. 法句經：棄樂無樂，滅無熅燸，健違諸世，是謂梵志T4,573a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 418. 
+     - A BRĀHMAṆA IS HE WHO HAS GIVEN UP LIKES AND DISLIKES
+       
+       418. He who has given up likes [NāradaFn26-39]_ and dislikes, [NāradaFn26-40]_ who is cooled and is without defilements, [NāradaFn26-41]_ who has conquered the world [NāradaFn26-42]_ and is strenuous - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **418.** 
+     - **418.** He who, having cast off likes and dislikes, has become tranquil, is rid of the substrata of existence and like a hero has conquered all the worlds — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **418** 
+     - **418** 
+       ::
+              
+          Having left behind    
+          delight & displeasure,    
+          cooled, with no acquisitions —    
+          a hero who has conquered    
+               all the world, 
+               every world: 
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **418** 
-       | 
+       |  One who has given up liking and disliking, who is free of passion, free of possessiveness, a hero who has conquered all worldly attachment, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 418 
+     - 418 Him I call indeed a Brahmana who has left what gives pleasure and what gives pain, who is cold, and free from all germs (of renewed life), the hero who has conquered all the worlds.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 418 <{filename}../dhA/dhA-chap26%zh.rst#Dhp418>`__
@@ -1794,20 +2315,32 @@
        3. 法集要頌經：自識於宿命，知有情因緣，如來覺無著，是名為梵志T4,799a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 419. 
+     - A BRĀHMAṆA IS HE WHO IS NOT ATTACHED
+       
+       419. He who in every way knows the death and rebirth of beings, who is non-attached, well-gone, [NāradaFn26-43]_ and enlightened, [NāradaFn26-44]_ - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **419.** 
+     - **419.** He who in every way knows the death and rebirth of all beings, and is totally detached, blessed and enlightened — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **419** 
+     - **419** 
+       ::
+              
+          He knows in every way   
+          beings' passing away,   
+          and their re-   
+          arising;    
+          unattached, awakened,   
+          well-gone:    
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **419** 
-       | 
+       |  One who understands in every way both the death and rebirth of beings, who is free of clinging, who has attained bliss, and is awakened, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 419 
+     - 419 Him I call indeed a Brahmana who knows the destruction and the return of beings everywhere, who is free from bondage, welfaring (Sugata), and awakened (Buddha).
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 419 <{filename}../dhA/dhA-chap26%zh.rst#Dhp419>`__
@@ -1840,20 +2373,29 @@
        3. 法集要頌經：自己識不知，天人彥達嚩，能知無量觀，是名為梵志。歸命人中尊，歸命人中上，不審今世尊，為因何等禪，惟願天中天，敷演其教戒T4,799a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 420. 
+     - A BRĀHMAṆA IS HE WHO IS AN ARAHANT
+       
+       420. He whose destiny neither gods nor gandhabbas [NāradaFn26-45]_ nor men know, who has destroyed all corruptions, and is far removed from passions (Arahant) - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **420.** 
+     - **420.** He whose track no gods, no angels, no humans trace, the arahant who has destroyed all cankers — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **420** 
+     - **420** 
+       ::
+              
+          He whose course they don't know   
+           — devas, gandhabbas, & human beings —    
+          his effluents ended, an arahant:    
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **420** 
-       | 
+       |  One whose destiny is unknowable to humans, spirits and devas; who has destroyed the asavas, an arahant, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 420 
+     - 420 Him I call indeed a Brahmana whose path the gods do not know, nor spirits (Gandharvas), nor men, whose passions are extinct, and who is an Arhat (venerable).
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 420 <{filename}../dhA/dhA-chap26%zh.rst#Dhp420>`__
@@ -1886,20 +2428,30 @@
        3. 法集要頌經：于前及于後，及中則無有，無操無捨行，是名為梵志T4,798c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 421. 
+     - A BRĀHMAṆA IS HE WHO YEARNS FOR NAUGHT
+       
+       421. He who has no clinging to Aggregates that are past, future, or present, who is without clinging and grasping - him I call a brāhmaṇa. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **421.** 
+     - **421.** He who clings to nothing of the past, present and future, who has no attachment and holds on to nothing — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **421** 
+     - **421** [ThaniSFn-V421]_
+       ::
+              
+          He who has nothing    
+           — in front, behind, in between —   
+          the one with nothing    
+          who clings to no thing:   
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **421** 
-       | 
+       |  One who has no attachment to anything, either in the past, future or present; who is free of attachment and clinging, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 421 
+     - 421 Him I call indeed a Brahmana who calls nothing his own, whether it be before, behind, or between, who is poor, and free from the love of the world.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 421 <{filename}../dhA/dhA-chap26%zh.rst#Dhp421>`__
@@ -1932,20 +2484,30 @@
        3. 法集要頌經：仙人龍中上，大仙最為尊，無數佛沐浴，是名為梵志T4,799a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 422. 
+     - A BRĀHMAṆA IS HE WHO IS ENLIGHTENED
+       
+       422. The fearless, [NāradaFn26-46]_ the noble, the hero, the great sage, [NāradaFn26-47]_ the conqueror, [NāradaFn26-48]_ the desireless, the cleanser [NāradaFn26-49]_ (of defilements), the enlightened, [NāradaFn26-50]_ - him I call a brāhmaṇa.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **422.** 
+     - **422.** He, the Noble, the Excellent, the Heroic, the Great Sage, the Conqueror, the Passionless, the Pure, the Enlightened one — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **422** 
+     - **422** 
+       ::
+              
+          A splendid bull, conqueror,   
+          hero, great seer —    
+               free from want,  
+               awakened, washed:  
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **422** 
-       | 
+       |  One who is mighty, noble, heroic, a great sage, victorious, free of lust, cleansed of evil, enlightened, I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 422 
+     - 422 Him I call indeed a Brahmana, the manly, the noble, the hero, the great sage, the conqueror, the impassible, the accomplished, the awakened.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 422 <{filename}../dhA/dhA-chap26%zh.rst#Dhp422>`__
@@ -2005,20 +2567,42 @@
        4. 法集要頌經：自識於宿命，得見天人道，知生盡苦原，智心永寂滅T4,799a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 423. 
+     - A BRĀHMAṆA IS HE WHO HAS PERFECTED HIMSELF
+       
+       423. That sage who knows his former abodes, who sees the blissful [NāradaFn26-51]_ and the woeful states, [NāradaFn26-52]_ who has reached the end of births, [NāradaFn26-53]_ who, with superior wisdom, has perfected himself, [NāradaFn26-54]_ who has completed [NāradaFn26-55]_ (the holy life), and reached the end of all passions - him I call a brāhmaṇa.
+
+       THE END
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **423.** 
+     - **423.** He who knows his former births, who sees heaven and hell, who has reached the end of births and attained to the perfection of insight, the sage who has reached the summit of spiritual excellence — him do I call a holy man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **423** 
+     - **423** [ThaniSFn-V423]_
+       ::
+              
+          He knows    his former lives.   
+          He sees         heavens & states of woe,    
+          has attained    the ending of birth,    
+          is a sage   who has mastered full-knowing,    
+                       his mastery  
+          totally mastered:   
+            he's what I call  
+            a brahman.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **423** 
-       | 
+     - **423** 
+       ::
+              
+         One who   
+                   knows his former lives, 
+                   sees heaven and hell, 
+                   has ended birth,  
+                   has attained the special knowledges,  
+                   is fully accomplished, a sage,  
+         I call a true brahman.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 423 
+     - 423 Him I call indeed a Brahmana who knows his former abodes, who sees heaven and hell, has reached the end of births, is perfect in knowledge, a sage, and whose perfections are all perfect.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十六：婆羅門品 Dhp. 423 <{filename}../dhA/dhA-chap26%zh.rst#Dhp423>`__
@@ -2056,7 +2640,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -2120,6 +2704,177 @@
 
 .. [CFFn26-08] 〔敬法法師註26-08〕 64 註：三魔是煩惱魔（kilesamāra）、死魔（maraṇamāra）與天子魔（devaputtamāra）。
 
+.. [NāradaFn26-01] (Ven. Nārada 26-01) Though a racial term here it is applied either to a Buddha or an Arahant - to one who has completed the Way and has won Enlightenment.
+
+.. [NāradaFn26-02] (Ven. Nārada 26-02) Sotaṃ - stream of craving.
+
+.. [NāradaFn26-03] (Ven. Nārada 26-03) Nibbāna is not made of anything. It is unconditioned.
+
+.. [NāradaFn26-04] (Ven. Nārada 26-04) Concentration (samatha) and Insight (vipassanā).
+
+.. [NāradaFn26-05] (Ven. Nārada 26-05) That is, in acquiring higher intellect (abhiññā).
+
+.. [NāradaFn26-06] (Ven. Nārada 26-06) Pāraṃ - the six personal sense-fields; apāraṃ - the six external sense-fields.
+
+.. [NāradaFn26-07] (Ven. Nārada 26-07) Not grasping anything as "me" and "mine".
+
+.. [NāradaFn26-08] (Ven. Nārada 26-08) Not connected with the passions.
+
+.. [NāradaFn26-09] (Ven. Nārada 26-09) He who practises concentration (samatha) and insight (vipassanā).
+
+.. [NāradaFn26-10] (Ven. Nārada 26-10) Āsīnaṃ, living alone in the forest.
+
+.. [NāradaFn26-11] (Ven. Nārada 26-11) By realizing the four Truths and eradicating the fetters.
+
+.. [NāradaFn26-12] (Ven. Nārada 26-12) That is, Nibbāna.
+
+.. [NāradaFn26-13] (Ven. Nārada 26-13) Here Khattiya refers to a king.
+
+.. [NāradaFn26-14] (Ven. Nārada 26-14) That is, an Arahant.
+
+.. [NāradaFn26-15] (Ven. Nārada 26-15) The Buddha eclipses immorality by the power of morality (sīla), vice by the power of virtue (guṇa), ignorance by the power of wisdom (paññā), demerit by the power of merit (puñña), unrighteousness by the power of righteousness (dhamma). (Commentary).
+
+.. [NāradaFn26-16] (Ven. Nārada 26-16) Having subdued all evil.
+
+.. [NāradaFn26-17] (Ven. Nārada 26-17) Here brāhmaṇa is used in the sense of an Arahant.
+
+.. [NāradaFn26-18] (Ven. Nārada 26-18) The adherents of certain cults worshipped the four cardinal points, the zenith and the nadir, e.g., Sigāla (of the Sigālovāda Sutta).
+
+.. [NāradaFn26-19] (Ven. Nārada 26-19) The realization of the four Noble Truths.
+
+.. [NāradaFn26-20] (Ven. Nārada 26-20) Here Dhamma refers to the nine supramundane States - the four Paths, the four Fruits, and Nibbāna.
+
+.. [NāradaFn26-21] (Ven. Nārada 26-21) With the paraphernalia of the ascetics.
+
+.. [NāradaFn26-22] (Ven. Nārada 26-22) Robes made of cast-off rags.
+
+.. [NāradaFn26-23] (Ven. Nārada 26-23) Bho is a familiar form of address which even the Buddha used in addressing laymen. The term Bho-vādi is applied to the Buddha as well.
+
+.. [NāradaFn26-24] (Ven. Nārada 26-24) Who has understood the four Noble Truths.
+
+.. [NāradaFn26-25] (Ven. Nārada 26-25) Devoted to religious austerity.
+
+.. [NāradaFn26-26] (Ven. Nārada 26-26) "Final body" because he, having destroyed the passions, would be reborn no more.
+
+.. [NāradaFn26-27] (Ven. Nārada 26-27) The burden of the Aggregates.
+
+.. [NāradaFn26-28] (Ven. Nārada 26-28) From all defilements.
+
+.. [NāradaFn26-29] (Ven. Nārada 26-29) Who knows the way to the woeful states, to the blissful states, and to Nibbāna.
+
+.. [NāradaFn26-30] (Ven. Nārada 26-30) Literally, towards beings.
+
+.. [NāradaFn26-31] (Ven. Nārada 26-31) Those who are attached to the Aggregates.
+
+.. [NāradaFn26-32] (Ven. Nārada 26-32) See v. 25.
+
+.. [NāradaFn26-33] (Ven. Nārada 26-33) Lust, hatred, delusion, pride, and false views.
+
+.. [NāradaFn26-34] (Ven. Nārada 26-34) Undisturbed by defilements.
+
+.. [NāradaFn26-35] (Ven. Nārada 26-35) Of lust and so forth.
+
+.. [NāradaFn26-36] (Ven. Nārada 26-36) Of passions.
+
+.. [NāradaFn26-37] (Ven. Nārada 26-37) That which veils the four Noble Truths.
+
+.. [NāradaFn26-38] (Ven. Nārada 26-38) The four floods - namely: sense-desires, becoming, false views, and ignorance.
+
+.. [NāradaFn26-39] (Ven. Nārada 26-39) That is, attachment to sense-desires.
+
+.. [NāradaFn26-40] (Ven. Nārada 26-40) Arati = dislike for forest life. (Commentary)
+
+.. [NāradaFn26-41] (Ven. Nārada 26-41) Upadhi - there are four kinds of upadhi - namely: the aggregates (khandha), the passions (kilesa), volitional activities (abhisaṅkāra), and sense-desires (kāma).
+
+.. [NāradaFn26-42] (Ven. Nārada 26-42) That is, the world of Aggregates.
+
+.. [NāradaFn26-43] (Ven. Nārada 26-43) Sugataṃ = well-gone in practice, that is, to Nibbāna.
+
+.. [NāradaFn26-44] (Ven. Nārada 26-44) Buddhaṃ = he who has understood the four Noble Truths.
+
+.. [NāradaFn26-45] (Ven. Nārada 26-45) A class of celestial beings.
+
+.. [NāradaFn26-46] (Ven. Nārada 26-46) Usabhaṃ, fearless as a bull.
+
+.. [NāradaFn26-47] (Ven. Nārada 26-47) Mahesiṃ, seeker of higher morality, concentration, and wisdom.
+
+.. [NāradaFn26-48] (Ven. Nārada 26-48) Vijitāvinaṃ, the conqueror of passions.
+
+.. [NāradaFn26-49] (Ven. Nārada 26-49) Nahātakaṃ, he who has washed away all impurities.
+
+.. [NāradaFn26-50] (Ven. Nārada 26-50) Buddhaṃ, he who has understood the four Noble Truths.
+
+.. [NāradaFn26-51] (Ven. Nārada 26-51) Sagga, the six heavenly realms, the sixteen Rūpa Realms, and the four Arūpa Realms.
+
+.. [NāradaFn26-52] (Ven. Nārada 26-52) Apāya, the four woeful states.
+
+.. [NāradaFn26-53] (Ven. Nārada 26-53) Jātikkhayaṃ, i.e., Arahantship.
+
+.. [NāradaFn26-54] (Ven. Nārada 26-54) Abhiññāvosito, i.e., reached the culmination by comprehending that which should be comprehended, by discarding that which should be discarded, by realizing that which should be realized, and by developing that which should be developed. (Commentary)
+
+.. [NāradaFn26-55] (Ven. Nārada 26-55) Sabbavositavosānaṃ, i.e., having lived the Holy Life which culminates in wisdom pertaining to the Path of Arahantship, the end of all passions.
+
+.. [BudRkFn-v383] (Ven. Buddharakkhita (v. 383) "Holy man" is used as a makeshift rendering for brahmana, intended to reproduce the ambiguity of the Indian word. Originally men of spiritual stature, by the time of the Buddha the brahmans had turned into a privileged priesthood which defined itself by means of birth and lineage rather than by genuine inner sanctity. The Buddha attempted to restore to the word brahmana its original connotation by identifying the true "holy man" as the arahant, who merits the title through his own inward purity and holiness regardless of family lineage. The contrast between the two meanings is highlighted in verses 393 and 396. Those who led a contemplative life dedicated to gaining Arahantship could also be called brahmans, as in verses 383, 389, and 390.
+
+.. [BudRkFn-v385] (Ven. Buddharakkhita (v. 385) This shore: the six sense organs; the other shore: their corresponding objects; both: I-ness and my-ness.
+
+.. [BudRkFn-v394] (Ven. Buddharakkhita (v. 394) In the time of the Buddha, such ascetic practices as wearing matted hair and garments of hides were considered marks of holiness.
+
+.. [ThaniSFn-V383] (Ven. Thanissaro V. 383) This verse, addressed to a member of the brahman caste, is one of the few in Dhp where the word brahman is used in its ordinary sense, as indicating caste membership, and not in its special Buddhist sense as indicating an arahant.
+
+.. [ThaniSFn-V384] (Ven. Thanissaro V. 384) DhpA: two things = tranquility meditation and insight meditation.
+
+.. [ThaniSFn-V385] (Ven. Thanissaro V. 385) DhpA: This verse refers to a person who has no sense of "I" or "mine," either for the senses ("not-beyond") or their objects ("beyond"). The passage may also refer to the sense of total limitlessness that makes the experience of Unbinding totally ineffable, as reflected in the following conversation (Sn 5.6):
+                    ::
+
+                     Upasiva:
+                     He who has reached the end:
+                      Does he not exist,
+                      or is he for eternity free from dis-ease?
+                     Please, sage, declare this to me
+                      as this phenomenon has been known by you.
+
+                     The Buddha:
+                     One who has reached the end has no criterion
+                     by which anyone would say that —
+                         it doesn't exist for him.
+                     When all phenomena are done away with,
+                     all means of speaking are done away with as well.
+
+.. [ThaniSFn-V388] (Ven. Thanissaro V. 388) Stains = the impurities listed in note 236. On "consonance," see note 265.
+
+.. [ThaniSFn-V389] (Ven. Thanissaro V. 389) The word "anger" here is added from DhpA, which interprets the "letting loose" as the act of retaliating with anger against one's assailant. Some translators read "brahman" as the subject not only of the second line, but also the first: "A brahman should/would not strike a brahman." However, this reading is unlikely, for a brahman (in this context, an arahant) would not strike anyone at all. If a brahman retaliates with anger to being struck, that is a sign that he is not a true brahman: thus more shame on him for having assumed a status not truly his. On the topic of how to react to violent attack, see MN 21 and MN 145.
+
+.. [ThaniSFn-V390] (Ven. Thanissaro V. 390) "What's endearing & not": In the phrase manaso piyehi, piyehi can be read straight as it is, as "endearing," or as an elided form of apiyehi, "not endearing." The former reading is more straightforward, but given the reference to "harmful-heartedness" in the next line, the latter reading serves to tie the stanza together. It is also consistent with the fact that DhpA takes this verse to be a continuation of 389. Given the way in which kavya cultivated a taste for ambiguities and multiple interpretations, both readings may have been intended.
+
+.. [ThaniSFn-V392] (Ven. Thanissaro V. 392) "Brahman" here is used in its ordinary sense, as indicating caste membership, and not in its special Buddhist sense as indicating an arahant.
+
+.. [ThaniSFn-V393] (Ven. Thanissaro V. 393) "He is a pure one": reading so suci with the Thai edition, a reading supported by the Chinese translation of the Dhp.
+
+.. [ThaniSFn-V394] (Ven. Thanissaro V. 394) In India of the Buddha's day, matted hair, etc., were regarded as visible signs of spiritual status.
+
+.. [ThaniSFn-V396] (Ven. Thanissaro V. 396) "Bho-sayer" — Brahmans addressed others as "bho" as a way of indicating their (the brahmans') superior caste. "If he has anything" (reading sa ce with the Burmese edition) = if he/she lays claim to anything as his/her own.
+
+.. [ThaniSFn-V398] (Ven. Thanissaro V. 398) DhpA: strap = hatred; thong = craving; cord = 62 forms of wrong view (listed in the Brahmajala Suttanta, DN 1); bridle = obsessions (sensuality, becoming, anger, conceit, views, uncertainty, ignorance).
+
+.. [ThaniSFn-V400] (Ven. Thanissaro V. 400) "With no overbearing pride": reading anussadam with the Thai and Burmese editions. "Last-body": see note 352.
+
+.. [ThaniSFn-V402] (Ven. Thanissaro V. 402) "For himself, on his own, his own ending of stress": Three different ways that the one word attano functions in this verse.
+
+.. [ThaniSFn-V411] (Ven. Thanissaro V. 411) According to DhpA, "attachments/homes (alaya)" = cravings. "Knowing": the knowledge of full Awakening.
+
+.. [ThaniSFn-V412] (Ven. Thanissaro V. 412) See note 39.
+
+.. [ThaniSFn-V421] (Ven. Thanissaro V. 421) See note 348.
+
+.. [ThaniSFn-V423] (Ven. Thanissaro V. 423) The forms of mastery listed in this verse correspond to the three knowledges that comprised the Buddha's Awakening: knowledge of previous lives, knowledge of how beings pass away and are reborn in the various levels of being, and knowledge of the ending of the effluents that maintain the process of birth.
+
+.. [VaradoFn-V390] (Ven. Varado V.390) Verse 390: "As desires destructive (hiṃsamano) fade/ So his sorrows melt away": I assume, from the previous line, that 'mano' means 'desire of the mind for what's endearing'. This desire is destructive because of associated attachment. As desire fades, so his sorrows melt away.
+
+.. [VaradoFn-V393_395-396] (Ven. Varado V.393_395-396) Verse 393, 395, 396: The word 'brahman' has various implied meanings, including religiosity, saintliness, godliness, divinity. I use these words interchangeably.
+
+.. [VaradoFn-V396] (Ven. Varado V.396) Verse 396: as in verse 221: "free of all identity" (akiñcanaṃ). PED: having nothing.
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 校註：
@@ -2136,6 +2891,7 @@
 .. [NandFn26-03] 〔校註26-003〕 具忍力強軍
 
                      說明：參考法雨道場( 明法 法師)出版之修訂版，依巴、英及語體本更正。
+
 
 ---------------------------
 

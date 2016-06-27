@@ -3,7 +3,7 @@
 =======================================================================
 
 :date: 2016-06-04 16:00
-:modified: 2016-06-12 22:00
+:modified: 2016-06-26 21:30
 :tags: 法句經, 法句經對讀, 樂品, Dhp, Dhammapada, Sukhavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Happiness
@@ -79,20 +79,59 @@
        2. 法句譬喻經：我生已安，不慍於怨，眾人有怨，我行無怨T4,594c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 197. 
+     - **Chapter 15  Happiness**
+
+       ``AMONGST THE HATEFUL BE WITHOUT HATE   AMONGST THE SICK BE IN GOOD HEALTH   AMONGST THE PASSIONATE BE WITHOUT PASSION``
+     
+       197. Ah, happily do we live without hate amongst the hateful; amidst hateful men we dwell unhating. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **197.** 
+     - **Dhp XV Happiness**
+
+       **197.** Happy indeed we live, friendly amidst the hostile. Amidst hostile men we dwell free from hatred.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **197** 
+     - **Dhp XV  Happy**
+       
+       **197-200** 
+       ::
+              
+          How very happily we live,   
+          free from hostility   
+          among those who are hostile.    
+          Among hostile people,   
+          free from hostility we dwell.   
+              
+          How very happily we live,   
+          free from misery    
+          among those who are miserable.    
+          Among miserable people,   
+          free from misery we dwell.    
+              
+          How very happily we live,   
+          free from busyness    
+          among those who are busy.   
+          Among busy people,    
+          free from busyness we dwell.    
+              
+          How very happily we live,   
+          we who have nothing.    
+          We will feed on rapture 
+          like the Radiant gods.    
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **197** 
-       | 
+     - **Chapter 15 Happiness**
+
+       | **197** 
+       |  ‘Midst those with animosity,  
+       |  Those seething with antipathy,  
+       |  Indeed, we live on happily, 
+       |  Well wishing and kind heartedly.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 197 
+     - **Chapter XV: Happiness**
+
+       197 Let us live happily then, not hating those who hate us! among men who hate us let us dwell free from hatred!
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 197 <{filename}../dhA/dhA-chap15%zh.rst#Dhp197>`__
@@ -124,20 +163,47 @@
        2. 法句譬喻經：我生已安，不病於病，眾人有病，我行無病T4,594c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 198. 
+     - 198. Ah, happily do we live in good health [NāradaFn15-01]_ amongst the ailing; amidst ailing men we dwell in good health.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **198.** 
+     - **198.** Happy indeed we live, friendly amidst the afflicted (by craving). Amidst afflicted men we dwell free from affliction.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **198** 
+     - **197-200** 
+       ::
+              
+          How very happily we live,   
+          free from hostility   
+          among those who are hostile.    
+          Among hostile people,   
+          free from hostility we dwell.   
+              
+          How very happily we live,   
+          free from misery    
+          among those who are miserable.    
+          Among miserable people,   
+          free from misery we dwell.    
+              
+          How very happily we live,   
+          free from busyness    
+          among those who are busy.   
+          Among busy people,    
+          free from busyness we dwell.    
+              
+          How very happily we live,   
+          we who have nothing.    
+          We will feed on rapture 
+          like the Radiant gods.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **198** 
-       | 
+       |  ‘Midst sick-at-heart humanity,  
+       |  Their consciousness in malady,  
+       |  Indeed, we live on happily, 
+       |  In deepest health and sanity.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 198 
+     - 198 Let us live happily then, free from ailments among the ailing! among men who are ailing let us dwell free from ailments!
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 198 <{filename}../dhA/dhA-chap15%zh.rst#Dhp198>`__
@@ -169,20 +235,47 @@
        2. 法句譬喻經：我生已安，不慼於憂，眾人有憂，我行無憂T4,594c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 199. 
+     - 199. Ah, happily do we live without yearning (for sensual pleasures) amongst those who yearn (for them); amidst those who yearn (for them) we dwell without yearning.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **199.** 
+     - **199.** Happy indeed we live, free from avarice amidst the avaricious. Amidst the avaricious men we dwell free from avarice.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **199** 
+     - **197-200** 
+       ::
+              
+          How very happily we live,   
+          free from hostility   
+          among those who are hostile.    
+          Among hostile people,   
+          free from hostility we dwell.   
+              
+          How very happily we live,   
+          free from misery    
+          among those who are miserable.    
+          Among miserable people,   
+          free from misery we dwell.    
+              
+          How very happily we live,   
+          free from busyness    
+          among those who are busy.   
+          Among busy people,    
+          free from busyness we dwell.    
+              
+          How very happily we live,   
+          we who have nothing.    
+          We will feed on rapture 
+          like the Radiant gods.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **199** 
-       | 
+       |  ‘Midst those who crave insatiably,  
+       |  Desiring things voraciously,  
+       |  Indeed, we live on happily, 
+       |  Indifferent and contentedly.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 199 
+     - 199 Let us live happily then, free from greed among the greedy! among men who are greedy let us dwell free from greed!
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 199 <{filename}../dhA/dhA-chap15%zh.rst#Dhp199>`__
@@ -216,20 +309,54 @@
        4. 法集：諸欲得樂壽，終己無結者，當食於念食，如彼光音天T4,795a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 200. 
+     - BE WITHOUT IMPEDIMENTS
+
+       200. Ah, happily do we live we who have no impediments. [NāradaFn15-02]_ Feeders of joy shall we be even as the gods of the Radiant Realm. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **200.** 
+     - **200.** Happy indeed we live, we who possess nothing. Feeders on joy we shall be, like the Radiant Gods.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **200** 
+     - **197-200** 
+       ::
+              
+          How very happily we live,   
+          free from hostility   
+          among those who are hostile.    
+          Among hostile people,   
+          free from hostility we dwell.   
+              
+          How very happily we live,   
+          free from misery    
+          among those who are miserable.    
+          Among miserable people,   
+          free from misery we dwell.    
+              
+          How very happily we live,   
+          free from busyness    
+          among those who are busy.   
+          Among busy people,    
+          free from busyness we dwell.    
+              
+          How very happily we live,   
+          we who have nothing.    
+          We will feed on rapture 
+          like the Radiant gods.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **200** 
-       | 
+       |  How happily, here,  
+       |  Do we our days fill!  
+       |  Possessionless, we, 
+       |  The owners of nil.  
+       |    
+       |  We’ll feed on our joy;  
+       |  We’ll live on delight;  
+       |  Like the Radiant Gods 
+       |  In the heavens of light.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 200 
+     - 200 Let us live happily then, though we call nothing our own! We shall be like the bright gods, feeding on happiness!
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 200 <{filename}../dhA/dhA-chap15%zh.rst#Dhp200>`__
@@ -268,20 +395,33 @@
        | 8. 雜寶：得勝增長怨，負則益憂苦，不諍勝負者，其樂最第一T4,456b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 201. 
+     - VICTORY BREEDS HATRED
+
+       201. Victory breeds hatred. The defeated live in pain. Happily the peaceful live, giving up victory and defeat.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **201.** 
+     - **201.** Victory begets enmity; the defeated dwell in pain. Happily the peaceful live, discarding both victory and defeat.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **201** 
+     - **201** 
+       ::
+              
+          Winning gives birth to hostility.   
+          Losing, one lies down in pain.    
+          The calmed lie down with ease,    
+            having set  
+            winning & losing  
+               aside.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **201** 
-       | 
+       |  From triumph grows antipathy; 
+       |  The conquered sleep in misery.  
+       |  The calmed ones slumber blissfully; 
+       |  They’ve spurned defeat and victory.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 201 
+     - 201 Victory breeds hatred, for the conquered is unhappy. He who has given up both victory and defeat, he, the contented, is happy.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 201 <{filename}../dhA/dhA-chap15%zh.rst#Dhp201>`__
@@ -313,20 +453,43 @@
        2. 法句譬喻經：熱無過婬，毒無過怒，苦無過身，樂無過滅T4,595a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 202. 
+     - LUST IS A FIRE
+
+       202. There is no fire like lust, no crime like hate. There is no ill like the body, [NāradaFn15-03]_ no bliss higher than Peace (Nibbāna).
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **202.** 
+     - **202.** There is no fire like lust and no crime like hatred. There is no ill like the aggregates (of existence) and no bliss higher than the peace (of Nibbana). [BudRkFn-v202]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **202** 
+     - **202-204** 
+       ::
+              
+          There's no fire like passion,   
+          no loss like anger,   
+          no pain like the aggregates,    
+          no ease other than peace.   
+              
+          Hunger: the foremost illness.   
+          Fabrications: the foremost pain.    
+          For one knowing this truth    
+          as it actually is,    
+            Unbinding 
+          is the foremost ease.   
+              
+          Freedom from illness: the foremost good fortune.    
+          Contentment: the foremost wealth.   
+          Trust: the foremost kinship.    
+          Unbinding: the foremost ease.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **202** 
-       | 
+       |  There’s no blaze like desire; 
+       |  No misfortune like ire; 
+       |  Like the khandhas, no stress; 
+       |  Like appeasement, no bliss.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 202 
+     - 202 There is no fire like passion; there is no losing throw like hatred; there is no pain like this body; there is no happiness higher than rest.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 202 <{filename}../dhA/dhA-chap15%zh.rst#Dhp202>`__
@@ -361,20 +524,40 @@
        | 4. 波須蜜：飢渴第一病，行為第一苦，如實知是者，涅槃第一樂T28,807a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 203. 
+     - HUNGER IS THE GREATEST AFFLICTION
+
+       203. Hunger [NāradaFn15-04]_ is the greatest disease. Aggregates [NāradaFn15-05]_ are the greatest ill. Knowing this as it really is, (the wise realize) Nibbāna, bliss supreme.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **203.** 
+     - **203.** Hunger is the worst disease, conditioned things the worst suffering. Knowing this as it really is, the wise realize Nibbana, the highest bliss.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **203** 
+     - **202-204** 
+       ::
+              
+          There's no fire like passion,   
+          no loss like anger,   
+          no pain like the aggregates,    
+          no ease other than peace.   
+              
+          Hunger: the foremost illness.   
+          Fabrications: the foremost pain.    
+          For one knowing this truth    
+          as it actually is,    
+            Unbinding 
+          is the foremost ease.   
+              
+          Freedom from illness: the foremost good fortune.    
+          Contentment: the foremost wealth.   
+          Trust: the foremost kinship.    
+          Unbinding: the foremost ease.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **203** 
-       | 
+       |  Hunger is the primary disease; conditioned phenomena, the primary suffering. Having seen the truth of this, Nibbana becomes the primary happiness.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 203 
+     - 203 Hunger is the worst of diseases, the body the greatest of pains; if one knows this truly, that is Nirvana, the highest happiness.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 203 <{filename}../dhA/dhA-chap15%zh.rst#Dhp203>`__
@@ -412,20 +595,43 @@
        | 7. 大莊嚴：無病第一利，知足第一富，善友第一親，涅槃第一樂T4,268a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 204. 
+     - HEALTH IS PARAMOUNT
+
+       204. Health is the highest gain. Contentment is the greatest wealth. The trusty [NāradaFn15-06]_ are the best kinsmen. Nibbāna is the highest bliss.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **204.** 
+     - **204.** Health is the most precious gain and contentment the greatest wealth. A trustworthy person is the best kinsman, Nibbana the highest bliss.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **204** 
+     - **202-204** 
+       ::
+              
+          There's no fire like passion,   
+          no loss like anger,   
+          no pain like the aggregates,    
+          no ease other than peace.   
+              
+          Hunger: the foremost illness.   
+          Fabrications: the foremost pain.    
+          For one knowing this truth    
+          as it actually is,    
+            Unbinding 
+          is the foremost ease.   
+              
+          Freedom from illness: the foremost good fortune.    
+          Contentment: the foremost wealth.   
+          Trust: the foremost kinship.    
+          Unbinding: the foremost ease.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **204** 
-       | 
+       |  Above all gains, the best is health;  
+       |  Contentment ranks as greatest wealth. 
+       |  The loyal friend is kin that’s best;  
+       |  Of all, Nibbana stands most blest.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 204 
+     - 204 Health is the greatest of gifts, contentedness the best riches; trust is the best of relationships, Nirvana the highest happiness.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 204 <{filename}../dhA/dhA-chap15%zh.rst#Dhp204>`__
@@ -457,20 +663,34 @@
        2. 法集：解知念待味，思惟休息義，無熱無飢想，當服於法味T4,792a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 205. 
+     - HAPPY IS HE WHO TASTES THE FLAVOUR OF TRUTH
+
+       205. Having tasted the flavour of seclusion and the flavour of appeasement, [NāradaFn15-07]_ free from anguish and stain becomes he, imbibing the taste of the joy of the Dhamma.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **205.** 
+     - **205.** Having savored the taste of solitude and peace (of Nibbana), pain-free and stainless he becomes, drinking deep the taste of the bliss of the Truth.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **205** 
+     - **205** 
+       ::
+              
+          Drinking the nourishment,   
+            the flavor, 
+          of seclusion & calm,    
+          one is freed from evil, devoid    
+            of distress,  
+          refreshed with the nourishment    
+          of rapture in the Dhamma.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **205** 
-       | 
+       |  Having tasted the sweet of seclusion, 
+       |  And savoured the taste of tranquillity, 
+       |  Dhamma’s ambrosia and joy may you drink,  
+       |  And be free of distress and iniquity!
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 205 
+     - 205 He who has tasted the sweetness of solitude and tranquillity, is free from fear and free from sin, while he tastes the sweetness of drinking in the law.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 205 <{filename}../dhA/dhA-chap15%zh.rst#Dhp205>`__
@@ -506,20 +726,51 @@
        | 5. 佛本行集：見諸聖為樂，共居亦復樂，不見群癡輩，是則名常樂T3,877c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 206. 
+     - ``BLESSED IS THE SIGHT OF THE NOBLE   SORROWFUL IS ASSOCIATION WITH THE FOOLISH   ASSOCIATE WITH THE WISE``
+
+       206. Good is the sight of the Ariyas: their company is ever happy. Not seeing the foolish, one may ever be happy.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **206.** 
+     - **206.** Good is it to see the Noble Ones; to live with them is ever blissful. One will always be happy by not encountering fools.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **206** 
+     - **206-208** 
+       ::
+              
+          It's good to see Noble Ones.    
+          Happy their company — always.   
+          Through not seeing fools    
+          constantly, constantly    
+            one would be happy. 
+              
+          For, living with a fool,    
+          one grieves a long time.    
+          Painful is communion with fools,    
+          as with an enemy —    
+            always. 
+          Happy is communion    
+          with the enlightened,   
+          as with a gathering of kin.   
+              
+            So:   
+          the enlightened man —   
+          discerning, learned,    
+          enduring, dutiful, noble,   
+          intelligent, a man of integrity:    
+            follow him  
+            — one of this sort —  
+            as the moon, the path 
+            of the zodiac stars.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **206** 
-       | 
+       |  How blessed, the sight of accomplished disciples! 
+       |  Companionship, ever, with them is delightful. 
+       |  If ignorant people one never should see,  
+       |  How endlessly pleasant, indeed, would it be!
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 206 
+     - 206 The sight of the elect (Arya) is good, to live with them is always happiness; if a man does not see fools, he will be truly happy.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 206 <{filename}../dhA/dhA-chap15%zh.rst#Dhp206>`__
@@ -558,20 +809,52 @@
        6. 法句喻：使賢居快，如親親會T4,601c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 207. 
+     - 207. Truly he who moves in company with fools grieves for a long time. Association with the foolish is ever painful as with a foe. Happy is association with the wise, even like meeting with kinsfolk.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **207.** 
+     - **207.** Indeed, he who moves in the company of fools grieves for longing. Association with fools is ever painful, like partnership with an enemy. But association with the wise is happy, like meeting one's own kinsmen.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **207** 
+     - **206-208** 
+       ::
+              
+          It's good to see Noble Ones.    
+          Happy their company — always.   
+          Through not seeing fools    
+          constantly, constantly    
+            one would be happy. 
+              
+          For, living with a fool,    
+          one grieves a long time.    
+          Painful is communion with fools,    
+          as with an enemy —    
+            always. 
+          Happy is communion    
+          with the enlightened,   
+          as with a gathering of kin.   
+              
+            So:   
+          the enlightened man —   
+          discerning, learned,    
+          enduring, dutiful, noble,   
+          intelligent, a man of integrity:    
+            follow him  
+            — one of this sort —  
+            as the moon, the path 
+            of the zodiac stars.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **207** 
-       | 
+       |  A woman will grieve for a very long time  
+       |  If she moves in the circle of people unwise;  
+       |  For it ever is so, that to live with a fool 
+       |  Is as painful as if one should live with a foe. 
+       |    
+       |  But a living acquaintance with people sagacious 
+       |  Is happy as if they were cherished relations.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 207 
+     - 207 He who walks in the company of fools suffers a long way; company with fools, as with an enemy, is always painful; company with the wise is pleasure, like meeting with kinsfolk.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 207 <{filename}../dhA/dhA-chap15%zh.rst#Dhp207>`__
@@ -621,20 +904,55 @@
        3. 法句經：近仁智者，多聞高遠。 T4,567c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 208. 
+     - 208. Therefore:-
+
+       With the intelligent, the wise, [NāradaFn15-08]_ the learned, [NāradaFn15-09]_ the enduring, [NāradaFn15-10]_ the dutiful, [NāradaFn15-11]_ and the Ariya [NāradaFn15-12]_ - with a man of such virtue and intellect should one associate, as the moon (follows) the starry path. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **208.** 
+     - **208.** Therefore, follow the Noble One, who is steadfast, wise, learned, dutiful and devout. One should follow only such a man, who is truly good and discerning, even as the moon follows the path of the stars.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **208** 
+     - **206-208** 
+       ::
+              
+          It's good to see Noble Ones.    
+          Happy their company — always.   
+          Through not seeing fools    
+          constantly, constantly    
+            one would be happy. 
+              
+          For, living with a fool,    
+          one grieves a long time.    
+          Painful is communion with fools,    
+          as with an enemy —    
+            always. 
+          Happy is communion    
+          with the enlightened,   
+          as with a gathering of kin.   
+              
+            So:   
+          the enlightened man —   
+          discerning, learned,    
+          enduring, dutiful, noble,   
+          intelligent, a man of integrity:    
+            follow him  
+            — one of this sort —  
+            as the moon, the path 
+            of the zodiac stars.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **208** 
-       | 
+       |  With men of great learning, 
+       |  Insightful, discerning, 
+       |  In wisdom excelling,  
+       |  Devout, persevering,  
+       |  The noble and excellent,  
+       |  Ever associate, 
+       |  Just as the moon  
+       |  With the stars of the zodiac.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 208 
+     - 208 Therefore, one ought to follow the wise, the intelligent, the learned, the much enduring, the dutiful, the elect; one ought to follow a good and wise man, as the moon follows the path of the stars.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 208 <{filename}../dhA/dhA-chap15%zh.rst#Dhp208>`__
@@ -672,7 +990,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -707,6 +1025,34 @@
 .. [CFFn15-03] 〔敬法法師註15-03〕 35 註釋：「 **寂靜者** 」（upasanto）的意思是：於內已經平息了貪欲等煩惱的漏盡者，捨棄了勝敗之後，他快樂地過活，在一切姿勢裡都快樂地安住。
 
 .. [CFFn15-04] 〔敬法法師註15-04〕 36 註釋：「 **超越寂靜** 」（santiparaṁ）：沒有其他快樂能夠超越涅槃，意思是涅槃是至上的快樂。
+
+.. [NāradaFn15-01] (Ven. Nārada 15-01) Free from the disease of passions.
+
+.. [NāradaFn15-02] (Ven. Nārada 15-02) Kiñcana, such as lust, hatred, and delusion which are hindrances to spiritual progress.
+
+.. [NāradaFn15-03] (Ven. Nārada 15-03) Pañcakkhandha the five Aggregates.
+
+.. [NāradaFn15-04] (Ven. Nārada 15-04) Ordinary diseases are usually curable by a suitable remedy, but hunger has to be appeased daily.
+
+.. [NāradaFn15-05] (Ven. Nārada 15-05) Here Saṃkhāra is used in the sense of khandha, the five Aggregates - namely: the body (rūpa), feeling (vedanā), perception (saññā), mental states (saṃkhārā), and consciousness (viññāṇa).
+
+                    The so-called being is composed of these five constituent parts. Both khandha and saṃkhārā are used to denote these five conditioned things. Excluding feeling and perception, the remaining fifty mental states are implied by the term saṅkhāra in the five Aggregates.
+
+.. [NāradaFn15-06] (Ven. Nārada 15-06) Whether related or not.
+
+.. [NāradaFn15-07] (Ven. Nārada 15-07) Upasama, the bliss of Nibbāna resulting from the subjugation of passions.
+
+.. [NāradaFn15-08] (Ven. Nārada 15-08) Paññaṃ = possessed of mundane and supramundane knowledge (Commentary).
+
+.. [NāradaFn15-09] (Ven. Nārada 15-09) Bahussutaṃ = endowed with the teaching and the realization (Commentary).
+
+.. [NāradaFn15-10] (Ven. Nārada 15-10) Dhorayhasīlaṃ = literally, engaged in the bearing of the yoke (leading to Nibbāna) (Commentary).
+
+.. [NāradaFn15-11] (Ven. Nārada 15-11) Vatavantaṃ = replete with morality (Sīla) and ascetic practices (Dhutaṅga).
+
+.. [NāradaFn15-12] (Ven. Nārada 15-12) Far removed from passions.
+
+.. [BudRkFn-v202] (Ven. Buddharakkhita v. 202) Aggregates (of existence) (khandha): the five groups of factors into which the Buddha analyzes the living being — material form, feeling, perception, mental formations, and consciousness.
 
 ---------------------------
 

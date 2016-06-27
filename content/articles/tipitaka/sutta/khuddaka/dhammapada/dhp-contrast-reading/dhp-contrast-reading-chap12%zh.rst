@@ -3,7 +3,7 @@
 ==============================================================================
 
 :date: 2016-06-04 15:00
-:modified: 2016-06-12 21:00
+:modified: 2016-06-26 21:00
 :tags: 法句經, 法句經對讀, 自己品, 自品, Dhp, Dhammapada, Attavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Self
@@ -80,20 +80,42 @@
        | 4. 中本起經：自愛身者，慎護所守，調心正體，福應上天T04, 161a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 157. 
+     - **Chapter 12  The Self**
+
+       BE VIGILANT
+
+       157. If one holds oneself [NāradaFn12-01]_ dear, one should protect oneself well. During every one of the three watches the wise man should keep vigil.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **157.** 
+     - **Dhp XII The Self**
+
+       **157.** If one holds oneself dear, one should diligently watch oneself. Let the wise man keep vigil during any of the three watches of the night.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **157** 
-
+     - **Dhp XII  Self**
+      
+       **157** [ThaniSFn-V157]_
+       ::
+              
+          If you hold yourself dear   
+          then guard, guard yourself well.    
+          The wise person would stay awake    
+            nursing himself 
+          in any of the three watches of the night,   
+            the three stages of life.
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **157** 
-       | 
+     - **Chapter 12 The Self**
+
+       | **157** 
+       |  If we saw that the love for ourselves is not slight,  
+       |  We’d watch over ourselves without lassitude.  
+       |  Thus, the prudent, at least for one third of the night, 
+       |  Should attend to themselves with solicitude.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 157 
+     - **Chapter XII: Self**
+
+       157 If a man hold himself dear, let him watch himself carefully; during one at least out of the three watches a wise man should be watchful.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 157 <{filename}../dhA/dhA-chap12%zh.rst#Dhp157>`__
@@ -131,20 +153,36 @@
        | 7. 十住毘婆沙論：若能自安身，在於善處者，然後安餘人，自同於所利T26,24b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 158. 
+     - ADVISERS SHOULD SET THE EXAMPLE FIRST
+
+       158. Let one first establish oneself in what is proper, and then instruct others. Such a wise man will not be defiled. [NāradaFn12-02]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **158.** 
+     - **158.** One should first establish oneself in what is proper; then only should one instruct others. Thus the wise man will not be reproached.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **158** 
+     - **158** 
+       ::
+              
+            First 
+          he'd settle himself   
+          in what is correct,   
+            only then 
+          teach others.   
+          He wouldn't stain his name    
+               : he is wise.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **158** 
-       | 
+       |  Once you’ve established 
+       |  Your own firm foundation  
+       |  In ways that are proper 
+       |  Train others thereafter.  
+       |  For ‘learned exponents’ 
+       |  Should not have defilements . . .
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 158 
+     - 158 Let each man direct himself first to what is proper, then let him teach others; thus a wise man will not suffer.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 158 <{filename}../dhA/dhA-chap12%zh.rst#Dhp158>`__
@@ -178,20 +216,34 @@
        4. 法集要頌經：先自而正己，然後正他人，若自而正者，乃謂之上士T04, 788b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 159. 
+     - ACT AS YOU INSTRUCT
+
+       159. As he instructs others so should he himself act. Himself fully controlled, he should control (others); for oneself, indeed, is difficult to control.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **159.** 
+     - **159.** One should do what one teaches others to do; if one would train others, one should be well controlled oneself. Difficult, indeed, is self-control.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **159** 
+     - **159** 
+       ::
+              
+          If you'd mold yourself    
+          the way you teach others,   
+          then, well-trained,   
+          go ahead & tame —   
+            for, as they say, 
+          what's hard to tame is you    
+            yourself.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **159** 
-       | 
+       |  If, at first, he himself did behave 
+       |  In the way that he others might train,  
+       |  Himself thus being tamed, as a trainer he’s capable -   
+       |  But taming oneself is a task that’s formidable.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 159 
+     - 159 If a man make himself as he teaches others to be, then, being himself well subdued, he may subdue (others); one's own self is indeed difficult to subdue.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 159 <{filename}../dhA/dhA-chap12%zh.rst#Dhp159>`__
@@ -227,20 +279,33 @@
        | 5. 不壞假名論：我以己為依，詎以他為依，智者能調我，生天受安樂T25, 896b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 160. 
+     - SELF IS ONE'S REFUGE
+
+       160. Oneself, indeed, is one's saviour, for what other saviour would there be? With oneself well controlled one obtains a saviour difficult to find.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **160.** 
+     - **160.** One truly is the protector of oneself; who else could the protector be? With oneself fully controlled, one gains a mastery that is hard to gain.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **160** 
+     - **160** 
+       ::
+              
+          Your own self is    
+          your own mainstay,    
+          for who else could your mainstay be?    
+          With you yourself well-trained    
+          you obtain the mainstay   
+          hard to obtain.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **160** 
-       | 
+       |  You are indeed your own guardian; 
+       |  Which person else could it be?  
+       |  With yourself satisfactorily mastered,  
+       |  You come by a guardian not easy to meet.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 160 
+     - 160 Self is the lord of self, who else could be the lord? With self well subdued, a man finds a lord such as few can find.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 160 <{filename}../dhA/dhA-chap12%zh.rst#Dhp160>`__
@@ -274,20 +339,31 @@
        4. 法集要頌經：達己淨不淨，何慮他人淨，愚者不自鍊，如鐵鑽鈍鋼T04,792b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 161. 
+     - ONE IS RESPONSIBLE FOR ONE'S EVIL
+
+       161. By oneself alone is evil done; it is self-born, it is self-caused. Evil grinds the unwise as a diamond grinds a hard gem.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **161.** 
+     - **161.** The evil a witless man does by himself, born of himself and produced by himself, grinds him as a diamond grinds a hard gem.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **161** 
+     - **161** 
+       ::
+              
+          The evil he himself has done    
+           — self-born, self-created —    
+          grinds down the dullard,    
+          as a diamond, a precious stone.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **161** 
-       | 
+       |  The evil that one executes  
+       |  Is what one has oneself produced. 
+       |  Like diamond grinds the hardest jewel,  
+       |  That self-made evil grinds the fool.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 161 
+     - 161 The evil done by oneself, self-begotten, self-bred, crushes the foolish, as a diamond breaks a precious stone.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 161 <{filename}../dhA/dhA-chap12%zh.rst#Dhp161>`__
@@ -319,20 +395,31 @@
        2. 出曜經：至竟犯戒人，葛藤纏樹枯，斯作自為身，為恚火所燒T04,679c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 162. 
+     - THE CORRUPT BRING ABOUT THEIR OWN RUIN
+
+       162. He who is exceedingly corrupt, like a māluvā creeper strangling a sal tree, does to himself what even an enemy would wish for him.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **162.** 
+     - **162.** Just as a single creeper strangles the tree on which it grows, even so, a man who is exceedingly depraved harms himself as only an enemy might wish.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **162** 
+     - **162** [ThaniSFn-V162]_
+       ::
+              
+          When overspread by extreme vice —   
+          like a sal tree by a vine —   
+          you do to yourself    
+          what an enemy would wish.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **162** 
-       | 
+       |  A man who has conduct that’s truly malign 
+       |  Is just like a tree with a strangling vine: 
+       |  What he does to himself is the very same thing  
+       |  That his foe would take pleasure in doing to him.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 162 
+     - 162 He whose wickedness is very great brings himself down to that state where his enemy wishes him to be, as a creeper does with the tree which it surrounds.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 162 <{filename}../dhA/dhA-chap12%zh.rst#Dhp162>`__
@@ -367,20 +454,35 @@
        | 4. 中本起經：惡行危身，愚謂為易，善最安身，愚人謂難T04, 161a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 163. 
+     - EVIL IS EASY BUT GOOD IS DIFFICULT
+
+       163. Easy to do are things that are hard and not beneficial to oneself, but very, very, difficult indeed, to do is that which is beneficial and good.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **163.** 
+     - **163.** Easy to do are things that are bad and harmful to oneself. But exceedingly difficult to do are things that are good and beneficial.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **163** 
+     - **163** 
+       ::
+              
+          They're easy to do —    
+          things of no good   
+          & no use to yourself.   
+          What's truly useful & good    
+          is truly harder than hard to do.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **163** 
-       | 
+       |  What’s immoral to do, 
+       |  And self-damaging too,  
+       |  Is not hard to pursue.  
+       |    
+       |  But what’s proper to do,  
+       |  And is salutary too,  
+       |  It is hard carrying through.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 163 
+     - 163 Bad deeds, and deeds hurtful to ourselves, are easy to do; what is beneficial and good, that is very difficult to do.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 163 <{filename}../dhA/dhA-chap12%zh.rst#Dhp163>`__
@@ -417,20 +519,41 @@
        | 4. 成實論：聖人以法壽，以此法教化，鈍根依惡見，違逆如是語。如刺竹結實，則自害其形，是人墮地獄，首下足在上。T32, 291b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 164. 
+     - SCORN NOT THE NOBLE
+
+       164. The stupid man, who, on account of false views, scorns the teaching of the Arahants, the Noble Ones, and the Righteous, ripens like the fruit of the kāshta reed, only for his own destruction.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **164.** 
+     - **164.** Whoever, on account of perverted views, scorns the Teaching of the Perfected Ones, the Noble and Righteous Ones — that fool, like the bamboo, produces fruits only for self destruction. [BudRkFn-v164]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **164** 
+     - **164** [ThaniSFn-V164]_
+       ::
+              
+          The teaching of those who live the Dhamma,    
+          worthy ones, noble:   
+          whoever maligns it    
+                  — a dullard,  
+                  inspired by evil view — 
+          bears fruit for his own destruction,    
+          like the fruiting of the bamboo.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **164** 
-       | 
+       |  The woman who’s senseless 
+       |  Denounces the teachings 
+       |  Of those who are noble, 
+       |  Whose living is righteous.  
+       |    
+       |  She’s under the sway  
+       |  Of opinions profane,  
+       |  And the fruits of her life  
+       |  Will just bring her to ruin,  
+       |  As bearing of fruit 
+       |  Is the bamboo’s undoing.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 164 
+     - 164 The foolish man who scorns the rule of the venerable (Arahat), of the elect (Ariya), of the virtuous, and follows false doctrine, he bears fruit to his own destruction, like the fruits of the Katthaka reed.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 164 <{filename}../dhA/dhA-chap12%zh.rst#Dhp164>`__
@@ -465,20 +588,41 @@
        3. 出曜經：人之為惡，後自受報，己不為惡，後無所憂，達己淨不淨，何慮他人淨T04,743c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 165. 
+     - PURITY AND IMPURITY DEPEND ON ONESELF
+
+       165. By oneself, indeed, is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself indeed, is one purified. Purity and impurity depend on oneself. No one purifies another.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **165.** 
+     - **165.** By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure. Purity and impurity depend on oneself; no one can purify another.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **165** 
+     - **165** [ThaniSFn-V165]_
+       ::
+              
+          Evil is done    by oneself    
+              
+          by oneself is one defiled.    
+          Evil is left undone by oneself    
+              
+          by oneself is one cleansed.   
+          Purity & impurity are one's own doing.    
+            No one purifies another.  
+            No other purifies one.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **165** 
-       | 
+       |  By each themselves is evil done;  
+       |  By each is each defiled.  
+       |  By each themselves is evil shunned; 
+       |  By each is each refined.  
+       |    
+       |  To polish or stain, 
+       |  On ourselves it depends,  
+       |  For a person cannot 
+       |  By another be cleansed.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 165 
+     - 165 By oneself the evil is done, by oneself one suffers; by oneself evil is left undone, by oneself one is purified. Purity and impurity belong to oneself, no one can purify another.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 165 <{filename}../dhA/dhA-chap12%zh.rst#Dhp165>`__
@@ -522,20 +666,32 @@
        3. 法集要頌經：為己或為彼，多有不成就，其有學此者，自正兼訓彼T04, 788c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 166. 
+     - STRIVE FOR YOUR SPIRITUAL WELFARE
+
+       166. For the sake of others' welfare, however great, let not one neglect one's own welfare. [NāradaFn12-03]_ Clearly perceiving one's own welfare, let one be intent on one's own goal.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **166.** 
+     - **166.** Let one not neglect one's own welfare for the sake of another, however great. Clearly understanding one's own welfare, let one be intent upon the good.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **166** 
+     - **166** [ThaniSFn-V166]_
+       ::
+              
+          Don't sacrifice your own welfare    
+          for that of another,    
+          no matter how great.    
+          Realizing your own true welfare,    
+          be intent on just that.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **166** 
-       | 
+       |  Do not disregard your own welfare 
+       |  For others, for even a throng.  
+       |  Having well understood your own welfare,  
+       |  Venture the taking it on!
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 166 
+     - 166 Let no one forget his own duty for the sake of another's, however great; let a man, after he has discerned his own duty, be always attentive to his duty.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 166 <{filename}../dhA/dhA-chap12%zh.rst#Dhp166>`__
@@ -573,7 +729,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -599,6 +755,25 @@
 
 .. [CFFn12-01] 〔敬法法師註12-01〕 27 註：「自己的福利」（attadatthaṁ）是指道、果與涅槃。
 
+.. [NāradaFn12-01] (Ven. Nārada 12-01) According to Buddhism there is no permanent soul or unchanging entity (atta) either created by a God or emanating from a Paramātma. Here the term atta (self) is applied to the whole body, or one's personality, or mind, or life flux.
+
+.. [NāradaFn12-02] (Ven. Nārada 12-02) Will not be blamed by others.
+
+.. [NāradaFn12-03] (Ven. Nārada 12-03)  Here "welfare" denotes one's ultimate goal, i.e., Nibbāna. Personal sanctification should not be sacrificed for the sake of external homage.
+
+                    One must not misunderstand this verse to mean that one should not selflessly work for the weal of others. Selfless service is highly commended by the Buddha.
+
+.. [BudRkFn-v164]  (Ven. Buddharakkhita v. 164) Certain reeds of the bamboo family perish immediately after producing fruits.
+
+.. [ThaniSFn-V157] (Ven. Thanissaro V.157) "The three watches of the night": this is the literal meaning of the verse, but DhpA shows that the image of staying up to nurse someone in the night is meant to stand for being wakeful and attentive throughout the three stages of life: youth, middle age, and old age. The point here is that it is never too early or too late to wake up and begin nurturing the good qualities of mind that will lead to one's true benefit. On this point, see A 3.51 & 52, where the Buddha counsels two old brahmans, nearing the end of their life span, to begin practicing generosity along with restraint in thought, word, and deed.
+
+.. [ThaniSFn-V162] (Ven. Thanissaro V.162) DhpA completes the image of the poem by saying that one's vice brings about one's own downfall, just as a maluva creeper ultimately brings about the downfall of the tree it overspreads. See note 42.
+
+.. [ThaniSFn-V164] (Ven. Thanissaro V.164) A bamboo plant bears fruit only once and then dies soon after.
+
+.. [ThaniSFn-V165] (Ven. Thanissaro V.165) "No one purifies another. No other purifies one." These are the two meanings of the one phrase, nañño aññam visodhaye.
+
+.. [ThaniSFn-V166] (Ven. Thanissaro V.166) AN 4.95 lists four types of people in descending order: those devoted to their own true welfare as well as that of others, those devoted to their own true welfare but not that of others, those devoted to the true welfare of others but not their own, and those devoted neither to their own true welfare nor that of others. SN 47.19 makes the point that if one is truly devoted to one's own welfare, others automatically benefit, in the same way that an acrobat maintaining his/her own balance helps his/her partner stay balanced as well.
 
 ---------------------------
 

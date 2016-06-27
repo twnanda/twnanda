@@ -3,7 +3,7 @@
 ============================================================================
 
 :date: 2016-06-02 21:30
-:modified: 2016-06-10 18:00
+:modified: 2016-06-26 15:30
 :tags: 法句經, 法句經對讀, 愚品, 愚人品, Dhp, Dhammapada, Bālavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Fool
@@ -85,20 +85,43 @@
        4. 大智度論：不寐夜長，疲惓道長，愚生死長，莫知正法T25, 307c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 60. 
+     - **Chapter 5 Fools**
+
+       **LONG IS saṃsāra TO THOSE WHO KNOW NOT THE DHAMMA**
+
+       60. Long is the night to the wakeful; long is the league to the weary; long is saṃsāra [NāradaFn05-01]_ to the foolish who know not the Sublime Truth.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **60.** 
+     - **Dhp V The Fool**
+
+       **60.** Long is the night to the sleepless; long is the league to the weary. Long is worldly existence to fools who know not the Sublime Truth.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **60** 
+     - **Dhp V Fools**
+
+       **60**
+       ::
+
+        Long for the wakeful is the night.
+        Long for the weary, a league.
+        For fools
+        unaware of True Dhamma,
+                     samsara
+        is long.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **60** 
-       | 
-     
+     - **Chapter 5 Fools**
+
+       | **60** 
+       |  How long, indeed, a sleepless night;  
+       |  How long a weary ten mile hike; 
+       |  And, for the fool, how long samsara,  
+       |  Failing to perceive true Dhamma.
+
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 60 
+     - **Chapter V: The Fool**
+
+       60 Long is the night to him who is awake; long is a mile to him who is tired; long is life to the foolish who do not know the true law.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 060 <{filename}../dhA/dhA-chap05%zh.rst#dhp060>`__
@@ -135,20 +158,33 @@
        | 6.四分律：處處遍求伴，無有稱己者，寧獨堅其心，不與愚者同T22, 882c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 61. 
+     - AVOID COMPANIONSHIP WITH THE FOOLISH
+       
+       61. If, as the disciple fares along, he meets no companion who is better or equal, let him firmly pursue his solitary career. There is no fellowship [NāradaFn05-02]_ with the foolish. [NāradaFn05-03]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **61.** 
+     - **61.** Should a seeker not find a companion who is better or equal, let him resolutely pursue a solitary course; there is no fellowship with the fool.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **61** 
+     - **61** 
+       ::
+
+        If, in your course, you don't meet
+        your equal, your better,
+        then continue your course,
+          firmly,
+             alone.
+        There's no fellowship with fools.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **61** 
-       | 
+       |  If a woman does not find
+       |  Her betters or her equals, she
+       |  Should fare alone, steadfast in mind:
+       |  With fools there is no company.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 61 
+     - 61 If a traveller does not meet with one who is his better, or his equal, let him firmly keep to his solitary journey; there is no companionship with a fool.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 061 <{filename}../dhA/dhA-chap05%zh.rst#dhp061>`__
@@ -182,20 +218,33 @@
        4. 法集要頌經：有子兼有財，慳惜遇散壞，愚夫不自觀，何恃有財子T04, 777b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 62. 
+     - ONE IS NOT ONE'S OWN
+       
+       62. "Sons have I; wealth have I": Thus is the fool worried. Verily, he himself is not his own. Whence sons? Whence wealth?
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **62.** 
+     - **62.** The fool worries, thinking, "I have sons, I have wealth." Indeed, when he himself is not his own, whence are sons, whence is wealth?
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **62** 
+     - **62** 
+       ::
+
+        'I have sons, I have wealth' —
+        the fool torments himself.
+        When even he himself
+        doesn't belong to himself,
+          how then sons?
+          How wealth?
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **62** 
-       | 
+       |  “I have sons!” “I have wealth!”
+       |  Thus the fool exalts herself.
+       |  She has not her very self,
+       |  Let alone her sons or wealth.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 62 
+     - 62 "These sons belong to me, and this wealth belongs to me," with such thoughts a fool is tormented. He himself does not belong to himself; how much less sons and wealth?
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 062 <{filename}../dhA/dhA-chap05%zh.rst#dhp062>`__
@@ -229,23 +278,35 @@
        4. 出曜經：愚者自稱愚，當知善黠慧，愚人自稱智，是謂愚中甚T04, 729c
        5. 法集要頌經：愚者自稱愚，當知善黠慧，愚人自稱智，是謂愚中甚T04,790b
        
-       6.有部毘奈耶：愚人自說愚，此名為智者，愚者妄稱智，此謂真愚癡T23, 796c
+       | 6.有部毘奈耶：愚人自說愚，此名為智者，愚者妄稱智，此謂真愚癡T23, 796c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 63. 
+     - WISE IS HE WHO ACKNOWLEDGES HIS FOOLISHNESS
+       
+       63. The fool who knows that he is a fool is for that very reason a wise man; the fool who thinks that he is wise is called a fool indeed.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **63.** 
+     - **63.** A fool who knows his foolishness is wise at least to that extent, but a fool who thinks himself wise is a fool indeed.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **63** 
+     - **63** 
+       ::
+
+        A fool with a sense of his foolishness
+        is — at least to that extent — wise.
+        But a fool who thinks himself wise
+        really deserves to be called
+          a fool.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **63** 
-       | 
+       |  The fool who does her folly see
+       |  Indeed’s a sage to that degree;
+       |  But who to wisdom gives false airs,
+       |  That fool indeed’s a fool declared.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 63 
+     - 63 The fool who knows his foolishness, is wise at least so far. But a fool who thinks himself wise, he is called a fool indeed.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 063 <{filename}../dhA/dhA-chap05%zh.rst#dhp063>`__
@@ -281,20 +342,38 @@
        | 5. 菩薩所集論：盡形壽愚癡，親近諸智者，彼不識了法，猶杓不別味T28, 802b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 64. 
+     - A FOOL CANNOT APPRECIATE THE VALUE OF THE DHAMMA
+       
+       64. Though a fool, through all his life, associates with a wise man, he no more understands the Dhamma than a spoon (tastes) the flavour of soup.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **64.** 
+     - **64.** Though all his life a fool associates with a wise man, he no more comprehends the Truth than a spoon tastes the flavor of the soup.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **64** 
+     - **64-65** 
+       ::
+
+        Even if for a lifetime
+        the fool stays with the wise,
+        he knows nothing of the Dhamma —
+          as the ladle,
+          the taste of the soup.
+        
+        Even if for a moment,
+        the perceptive person stays with the wise,
+        he immediately knows the Dhamma —
+          as the tongue,
+          the taste of the soup.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **64** 
-       | 
+       |  Although a fool might well engage
+       |  All his lifetime with a sage,
+       |  He’ll the Dhamma no more savour
+       |  Than the spoon the curry’s flavour.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 64 
+     - 64 If a fool be associated with a wise man even all his life, he will perceive the truth as little as a spoon perceives the taste of soup.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 064 <{filename}../dhA/dhA-chap05%zh.rst#dhp064>`__
@@ -328,20 +407,38 @@
        4. 法集要頌經：智若須臾間，承事賢聖人，一一知真法，如舌了眾味T04,790a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 65. 
+     - THE WISE CAN APPRECIATE THE VALUE OF THE DHAMMA
+       
+       65. Though an intelligent person, associates with a wise man for only a moment, he quickly understands the Dhamma as the tongue (tastes) the flavour of soup.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **65.** 
+     - **65.** Though only for a moment a discerning person associates with a wise man, quickly he comprehends the Truth, just as the tongue tastes the flavor of the soup.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **65** 
+     - **64-65** 
+       ::
+
+        Even if for a lifetime
+        the fool stays with the wise,
+        he knows nothing of the Dhamma —
+          as the ladle,
+          the taste of the soup.
+        
+        Even if for a moment,
+        the perceptive person stays with the wise,
+        he immediately knows the Dhamma —
+          as the tongue,
+          the taste of the soup.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **65** 
-       | 
+       |  Although the prudent might engage
+       |  But a moment with a sage,
+       |  Still, he’ll Dhamma quickly savour,
+       |  As the tongue the curry’s flavour.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 65 
+     - 65 If an intelligent man be associated for one minute only with a wise man, he will soon perceive the truth, as the tongue perceives the taste of soup.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 065 <{filename}../dhA/dhA-chap05%zh.rst#dhp065>`__
@@ -378,20 +475,33 @@
        | 6.法句經：愚人着數，憂慼久長，與愚居苦，於我猶怨T04, 563b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 66. 
+     - BITTER IS THE FRUIT OF EVIL
+       
+       66. Fools of little wit move about with the very self as their own foe, doing evil deeds the fruit of which is bitter. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **66.** 
+     - **66.** Fools of little wit are enemies unto themselves as they move about doing evil deeds, the fruits of which are bitter.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **66** 
+     - **66** 
+       ::
+
+        Fools, their wisdom weak,
+        are their own enemies
+        as they go through life,
+        doing evil
+        that bears
+              bitter fruit.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **66** 
-       | 
+       |  The fool of little wit proceeds
+       |  Undertaking evil deeds,
+       |  Acting as her own ill-wisher,
+       |  Reaping fruit profusely bitter.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 66 
+     - 66 Fools of little understanding have themselves for their greatest enemies, for they do evil deeds which must bear bitter fruits.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 066 <{filename}../dhA/dhA-chap05%zh.rst#dhp066>`__
@@ -426,20 +536,40 @@
        | 4. 雜阿含經：既作不善業，終則受諸惱，造業雖歡喜，啼泣受其報T02, 351a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 67. 
+     - NOT WELL DONE IS THAT DEED WHICH CAUSES REPENTANCE
+       
+       67. That deed is not well done when, after having done it, one repents, and when weeping, with tearful face, one reaps the fruit thereof.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **67.** 
+     - **67.** Ill done is that action of doing which one repents later, and the fruit of which one, weeping, reaps with tears.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **67** 
+     - **67-68**
+       ::
+
+        It's not good,
+        the doing of the deed
+        that, once it's done,
+        you regret,
+        whose result you reap crying,
+        your face in tears.
+        
+        It's good,
+        the doing of the deed
+        that, once it's done,
+        you don't regret,
+        whose result you reap gratified,
+            happy at heart.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **67** 
-       | 
+       |  Acts and deeds are not propitious,
+       |  Acts which done, she lives to rue;
+       |  Which lead to tears and lamentation
+       |  When the kammic fruits ensue.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 67 
+     - 67 That deed is not well done of which a man must repent, and the reward of which he receives crying and with a tearful face.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 067 <{filename}../dhA/dhA-chap05%zh.rst#dhp067>`__
@@ -473,20 +603,40 @@
        | 3.出曜經：吉人行德，相隨積增，甘心為之，福應自然T04, 671b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 68. 
+     - WELL DONE IS THAT DEED WHICH CAUSES NO REPENTANCE
+       
+       68. That deed is well done when, after having done it, one repents not, and when, with joy and pleasure, one reaps the fruit thereof.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **68.** 
+     - **68.** Well done is that action of doing which one repents not later, and the fruit of which one reaps with delight and happiness.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **68** 
+     - **67-68**
+       ::
+
+        It's not good,
+        the doing of the deed
+        that, once it's done,
+        you regret,
+        whose result you reap crying,
+        your face in tears.
+        
+        It's good,
+        the doing of the deed
+        that, once it's done,
+        you don't regret,
+        whose result you reap gratified,
+            happy at heart.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **68** 
-       | 
+       |  Deeds and actions are propitious,
+       |  If when done, she rests appeased,
+       |  Which lead to happy satisfaction
+       |  With the kammic fruits received.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 68 
+     - 68 No, that deed is well done of which a man does not repent, and the reward of which he receives gladly and cheerfully.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 068 <{filename}../dhA/dhA-chap05%zh.rst#dhp068>`__
@@ -519,20 +669,32 @@
        3. 法集要頌經：愚者自謂正，猶惡不成熟，惡已成熟滿，諸苦亦復熟T04, 792b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 69. 
+     - EVIL-DOERS COME TO GRIEF
+       
+       69. As sweet as honey is an evil deed, so thinks the fool so long as it ripens not; but when it ripens, then he comes to grief.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **69.** 
+     - **69.** So long as an evil deed has not ripened, the fool thinks it as sweet as honey. But when the evil deed ripens, the fool comes to grief.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **69** 
+     - **69** 
+       ::
+
+        As long as evil has yet to ripen,
+        the fool mistakes it for honey.
+        But when that evil ripens,
+        the fool falls into
+                          pain.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **69** 
-       | 
+       |  Like honey does the fool adore
+       |  Evil deeds that still are raw.
+       |  When those evil deeds are ripe,
+       |  Then the fool will sorrow strike.       | 
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 69 
+     - 69 As long as the evil deed done does not bear fruit, the fool thinks it is like honey; but when it ripens, then the fool suffers grief.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 069 <{filename}../dhA/dhA-chap05%zh.rst#dhp069>`__
@@ -567,20 +729,34 @@
        | 4.佛本行集經：猶如小兒月月學，所食如彼茅草頭，若人歸信佛如來，能勝於彼十六分T03, 856c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 70. 
+     - REALIZATION IS FAR SUPERIOR TO MERE FASTING
+       
+       70. Month after month a fool may eat only as much food as can be picked up on the tip of a kusa grass blade; [NāradaFn05-05]_ but he is not worth a sixteenth part of them who have comprehended the Truth. [NāradaFn05-06]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **70.** 
+     - **70.** Month after month a fool may eat his food with the tip of a blade of grass, but he still is not worth a sixteenth part of the those who have comprehended the Truth.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **70** 
+     - **70** 
+       ::
+
+        Month after month
+        the fool might eat
+        only a tip-of-grass measure of food,
+        but he wouldn't be worth
+             one sixteenth
+        of those who've fathomed
+        the Dhamma.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **70** 
-       | 
+       |  Though month after month, as a spoon for his nourishment,
+       |  A fool should a grass-tip employ (as self-punishment),
+       |  His value is not even one in sixteen
+       |  Of that person who Dhamma, with insight, has seen.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 70 
+     - 70 Let a fool month after month eat his food (like an ascetic) with the tip of a blade of Kusa grass, yet he is not worth the sixteenth particle of those who have well weighed the law.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 070 <{filename}../dhA/dhA-chap05%zh.rst#dhp070>`__
@@ -622,20 +798,34 @@
        | 11.鞞婆沙論：作惡不即受，如薩闍乳酪，罪惡燒所追，如灰覆火上T28,464c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 71. 
+     - EVIL TAKES EFFECT AT THE OPPORTUNE MOMENT
+       
+       71. Verily, an evil deed committed does not immediately bear fruit, just as milk curdles not at once; smouldering, it follows the fool like fire covered with ashes.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **71.** 
+     - **71.** Truly, an evil deed committed does not immediately bear fruit, like milk that does not turn sour all at once. But smoldering, it follows the fool like fire covered by ashes.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **71** 
+     - **71** [ThaniSFn-V71]_
+       ::
+
+        An evil deed, when done,
+        doesn't — like ready milk —
+        come out right away.
+        It follows the fool,
+               smoldering
+        like a fire
+        hidden in ashes.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **71** 
-       | 
+       |  Though milk squirts out immediately,
+       |  Iniquity’s corollary
+       |  Will burn the fool enduringly,
+       |  Like coal that smoulders steadily.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 71 
+     - 71 An evil deed, like newly-drawn milk, does not turn (suddenly); smouldering, like fire covered by ashes, it follows the fool.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 071 <{filename}../dhA/dhA-chap05%zh.rst#dhp071>`__
@@ -672,20 +862,42 @@
        | 6.有部毘奈耶：利養及名聞，愚人所愛樂，能壞眾善法，如劍斫人頭T23, 701b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 72. 
+     - KNOWLEDGE AND FAME TEND TO THE RUIN OF FOOLS
+       
+       72. To his ruin, indeed, the fool gains knowledge and fame; they destroy his bright lot and cleave his head. [NāradaFn05-07]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **72.** 
+     - **72.** To his own ruin the fool gains knowledge, for it cleaves his head and destroys his innate goodness.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **72** 
+     - **72-74** 
+       ::
+
+        Only for his ruin
+        does renown come to the fool.
+        It ravages his bright fortune
+        & rips his head     apart.
+
+        He would want unwarranted status,
+        preeminence     among monks,
+        authority       among monasteries,
+        homage      from lay families.
+
+        'Let householders & those gone forth
+        both think that this
+        was done by me alone.
+        May I alone determine
+        what's a duty, what's not':
+          the resolve of a fool
+          as they grow —
+             his desire & pride.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **72** 
-       | 
+       |  Training arises for a fool, to his detriment. It ruins any goodness in him, and utterly destroys him.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 72 
+     - 72 And when the evil deed, after it has become known, brings sorrow to the fool, then it destroys his bright lot, nay, it cleaves his head.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 072 <{filename}../dhA/dhA-chap05%zh.rst#dhp072>`__
@@ -719,20 +931,45 @@
        4. 法集要頌經：貪利不善性，苾芻勿羨之，住處多愛戀，希望他供養T04, 783c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 73. 
+     - THE IGNORANT SEEK UNDUE FAME
+       
+       73. The fool will desire undue reputation, precedence among monks, authority in the monasteries, honour among other families.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **73.** 
+     - **73.** The fool seeks undeserved reputation, precedence among monks, authority over monasteries, and honor among householders.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **73** 
+     - **72-74** 
+       :: 
+
+        Only for his ruin
+        does renown come to the fool.
+        It ravages his bright fortune
+        & rips his head     apart.
+
+        He would want unwarranted status,
+        preeminence     among monks,
+        authority       among monasteries,
+        homage      from lay families.
+
+        'Let householders & those gone forth
+        both think that this
+        was done by me alone.
+        May I alone determine
+        what's a duty, what's not':
+          the resolve of a fool
+          as they grow —
+             his desire & pride.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **73** 
-       | 
+       |  A fool might wish for undue reverence,
+       |  To be the master of the residence,
+       |  ‘Midst monks to have the right to precedence,
+       |  And from the folk, respectful deference.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 73 
+     - 73 Let the fool wish for a false reputation, for precedence among the Bhikshus, for lordship in the convents, for worship among other people!
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 073 <{filename}../dhA/dhA-chap05%zh.rst#dhp073>`__
@@ -768,20 +1005,46 @@
        4. 法集要頌經：在家及出家，族姓諸愚迷，貪利興嫉心，我為降伏彼，愚為愚計想，欲慢日夜增T04, 783c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 74. 
+     - 74. Let both laymen and monks think, "by myself was this done; in every work, great or small, let them refer to me". Such is the ambition of the fool; his desires and pride increase.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **74.** 
+     - **74.** "Let both laymen and monks think that it was done by me. In every work, great and small, let them follow me" — such is the ambition of the fool; thus his desire and pride increase.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **74** 
+     - **72-74** 
+       ::
+
+        Only for his ruin
+        does renown come to the fool.
+        It ravages his bright fortune
+        & rips his head     apart.
+
+        He would want unwarranted status,
+        preeminence     among monks,
+        authority       among monasteries,
+        homage      from lay families.
+
+        'Let householders & those gone forth
+        both think that this
+        was done by me alone.
+        May I alone determine
+        what's a duty, what's not':
+          the resolve of a fool
+          as they grow —
+             his desire & pride.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **74** 
-       | 
+       |  “Let monks and all the folk conceive
+       |  The author of these things was me!
+       |  And in their many undertakings,
+       |  May they take up my suggestions!”
+       |  For this fool, his thoughts unwise,
+       |  His pride expands, his longings thrive.
+
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 74 
+     - 74 "May both the layman and he who has left the world think that this is done by me; may they be subject to me in everything which is to be done or is not to be done," thus is the mind of the fool, and his desire and pride increase.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 074 <{filename}../dhA/dhA-chap05%zh.rst#dhp074>`__
@@ -817,7 +1080,6 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 75 一個導向世俗成就，另一個則導向涅槃；
        | 如是明瞭此中差別，身為佛弟子的比丘，
-       
        | 不應樂於世俗利養，應該致力培育捨離。
        | 
        
@@ -830,20 +1092,39 @@
        4. 法集要頌經：異哉得利養，圓寂趣不同，能論知足者，苾芻真佛子，不貪著名譽，喜悅是智人T04, 783c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 75. 
+     - THE PATH TO GAIN IS ONE AND TO NIBBĀNA IS ANOTHER
+       
+       75. Surely the path that leads to worldly gain is one, and the path that leads to Nibbāna is another; understanding this, the bhikkhu, the disciple of the Buddha, should not rejoice in worldly favours, but cultivate detachment. [NāradaFn05-08]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **75.** 
+     - **75.** One is the quest for worldly gain, and quite another is the path to Nibbana. Clearly understanding this, let not the monk, the disciple of the Buddha, be carried away by worldly acclaim, but develop detachment instead.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **75** 
+     - **75** 
+       ::
+
+        The path to material gain
+          goes one way,
+        the way to Unbinding,
+          another.
+        Realizing this, the monk,
+        a disciple to the Awakened One,
+        should not relish offerings,
+        should cultivate        seclusion
+             instead.
+
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **75** 
-       | 
+       |  One path leads to liberation;
+       |  One to gifts accumulation.
+       |  Those who pay the Lord attention
+       |  See both paths with comprehension.
+       |  With no like for veneration,
+       |  May they strive in isolation!
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 75 
+     - 75 "One is the road that leads to wealth, another the road that leads to Nirvana;" if the Bhikshu, the disciple of Buddha, has learnt this, he will not yearn for honour, he will strive after separation from the world.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 075 <{filename}../dhA/dhA-chap05%zh.rst#dhp075>`__
@@ -881,7 +1162,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -914,6 +1195,26 @@
 .. [CFFn05-02] 〔敬法法師註05-02〕 17 註釋： **頭顱** 是指智慧。
 
 .. [CFFn05-03] 〔敬法法師註05-03〕 18 註釋： **以及別家的禮敬** （pūjā parakulesu ca）：對於不是父母親，也不是親戚的（別人家），他如此期望他們以四資具來禮敬：「啊，願他們只給我，而不是（供養給）其他人！」
+
+.. [NāradaFn05-01]  (Ven. Nārada 05-01) Lit., wandering again and again. It is the ocean of life or existence. Saṃsāra is defined as the unbroken flow of the stream of aggregates, elements, and sense-faculties. Saṃsāra is also explained as the "continued flow of the stream of being from life to life, from existence to existence".
+
+.. [NāradaFn05-02]  (Ven. Nārada 05-02) Sahāyatā, According to the Commentary this term connotes higher morality, insight, Paths and Fruits of Sainthood. No such virtues are found in the foolish.
+
+.. [NāradaFn05-03]  (Ven. Nārada 05-03) Out of compassion, to work for their betterment one may associate with the foolish but not be contaminated by them.
+
+.. [NāradaFn05-04]  (Ven. Nārada 05-04) Madhu vā - in most texts
+
+.. [NāradaFn05-05]  (Ven. Nārada 05-05) Literally month after month, with a kusa grass blade, a fool may eat his food.
+
+.. [NāradaFn05-06]  (Ven. Nārada 05-06) Saṅkhatadhammānaṃ, "who have well weighed the Law", Max Muller and Burlingame. "Who well have taken things into account", Mrs. Rhys Davids. "Who have studied the Dhamma noble", Woodward. The commentarial explanation is: "The Ariyas who have realized the four Noble Truths".
+
+                    The prolonged, so-called meritorious fasting of alien ascetics who have not destroyed the passions, is not worth the sixteenth part of a solitary day's fasting of an Ariya who has realized the four noble Truths.
+
+.. [NāradaFn05-07]  (Ven. Nārada 05-07) That is, his wisdom.
+
+.. [NāradaFn05-08]  (Ven. Nārada 05-08) Viveka, separation or detachment, is threefold, namely: bodily separation from the crowd (kāyaviveka), mental separation from passions (cittaviveka), and complete separation from all conditioned things which is Nibbāna (upadhiviveka).
+
+.. [ThaniSFn-V71] (Ven. Thanissaro V. 71) "Doesn't — like ready milk — come out right away": All Pali recensions of this verse give the verb muccati — "to come out" or "to be released" — whereas DhpA agrees with the Sanskrit recensions in reading the verb as if it were mucchati/murchati, "to curdle." The former reading makes more sense, both in terms of the image of the poem — which contrasts coming out with staying hidden — and with the plain fact that fresh milk doesn't curdle right away. The Chinese translation of Dhp supports this reading, as do two of three scholarly editions of the Patna Dhp.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

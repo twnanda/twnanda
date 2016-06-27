@@ -3,7 +3,7 @@
 =======================================================================
 
 :date: 2016-06-04 17:00
-:modified: 2016-06-13 10:00
+:modified: 2016-06-27 15:30
 :tags: 法句經, 法句經對讀, 道品, Dhp, Dhammapada, Maggavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Path
@@ -86,20 +86,43 @@
        3. 法集要頌經：道為八真妙，聖諦四句上，無欲法之最，明眼善觀察T4,783a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 273. 
+     - **Chapter 20  The Way Or The Path**
+
+       ``THE EIGHTFOLD PATH IS THE BEST   FOLLOW THIS PATH FOR PURITY   FOLLOWING THIS PATH YOU CAN PUT AN END TO SUFFERING   YOU MUST EXERT YOURSELVES``
+       
+       273. The best of paths is the Eightfold Path. [NāradaFn20-01]_ The best of truths are the four Sayings. [NāradaFn20-02]_ Non-attachment [NāradaFn20-03]_ is the best of states. The best of bipeds is the Seeing One.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **273.** 
+     - **Dhp XX The Path**
+
+       **273.** Of all the paths the Eightfold Path is the best; of all the truths the Four Noble Truths are the best; of all things passionlessness is the best: of men the Seeing One (the Buddha) is the best.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **273** 
+     - **Dhp XX  The Path**
+
+       **273** [ThaniSFn-V273]_
+       ::
+              
+          Of paths, the eightfold is best.    
+          Of truths, the four sayings.    
+          Of qualities, dispassion.   
+          Of two-footed beings,   
+            the one with the eyes 
+            to see.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **273** 
-       | 
+     - **Chapter 20 The Path**
+
+       | **273** 
+       |  The eightfold path, of paths, is foremost;  
+       |  Four truths are, of truths, the cream;  
+       |  Dispassion is, of states, the greatest; 
+       |  Buddhas are, of men, supreme.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 273 
+     - **Chapter XX: The Way**
+
+       273 The best of ways is the eightfold; the best of truths the four words; the best of virtues passionlessness; the best of men he who has eyes to see.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 273 <{filename}../dhA/dhA-chap20%zh.rst#Dhp273>`__
@@ -132,20 +155,52 @@
        3. 法集要頌經：此道無別法，見諦之所淨，趣向滅眾苦，能壞魔羅軍T4,783b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 274. 
+     - 274. This is the only Way. There is none other for the purity of vision. Do you follow this path. This is the bewilderment of Māra.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **274.** 
+     - **274.** This is the only path; there is none other for the purification of insight. Tread this path, and you will bewilder Mara.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **274** 
+     - **274-276** 
+       ::
+              
+            Just this 
+            is the path 
+           — there is no other —    
+          to purify vision.   
+            Follow it,  
+          and that will be Mara's   
+            bewilderment. 
+              
+          Following it,   
+          you put an end    
+          to suffering & stress.    
+          I have taught you this path   
+          having known    
+           — for your knowing —   
+          the extraction of arrows.   
+              
+          It's for you to strive    
+            ardently. 
+          Tathagatas simply   
+          point out the way.    
+          Those who practice,   
+          absorbed in jhana:    
+            from Mara's bonds 
+            they'll be freed.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **274** 
-       | 
+       |  The Path is this: 
+       |  None else exists  
+       |  To purify one’s vision. 
+       |    
+       |  If entered on 
+       |  The Path effects  
+       |  The Evil One’s confusion.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 274 
+     - 274 This is the way, there is no other that leads to the purifying of intelligence. Go on this way! Everything else is the deceit of Mara (the tempter).
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 274 <{filename}../dhA/dhA-chap20%zh.rst#Dhp274>`__
@@ -180,20 +235,50 @@
        | 4. 央掘：我已稱說道，憂悲毒刺拔，汝等應當作，如來之所說T2,539c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 275. 
+     - 275. Entering upon that path, you will make an end of pain. Having learnt the removal of thorns, [NāradaFn20-04]_ have I taught you the path.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **275.** 
+     - **275.** Walking upon this path you will make an end of suffering. Having discovered how to pull out the thorn of lust, I make known the path.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **275** 
+     - **274-276** [ThaniSFn-V275]_
+       ::
+              
+            Just this 
+            is the path 
+           — there is no other —    
+          to purify vision.   
+            Follow it,  
+          and that will be Mara's   
+            bewilderment. 
+              
+          Following it,   
+          you put an end    
+          to suffering & stress.    
+          I have taught you this path   
+          having known    
+           — for your knowing —   
+          the extraction of arrows.   
+              
+          It's for you to strive    
+            ardently. 
+          Tathagatas simply   
+          point out the way.    
+          Those who practice,   
+          absorbed in jhana:    
+            from Mara's bonds 
+            they'll be freed.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **275** 
-       | 
+       |  The sting of the arrow I’ve known,  
+       |  And, to you, the appeasement I’ve shown. [VaradoFn-V275]_
+       |  If the path of the Dhamma 
+       |  You’ll enter upon,  
+       |  It will bring to your sorrows a close.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 275 
+     - 275 If you go on this way, you will make an end of pain! The way was preached by me, when I had understood the removal of the thorns (in the flesh).
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 275 <{filename}../dhA/dhA-chap20%zh.rst#Dhp275>`__
@@ -227,20 +312,49 @@
        4. 法集要頌經：吾已說道迹，拔愛堅固刺，宜以自勗勵，諦受如來言T4,783b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 276. 
+     - 276. Striving should be done by yourselves; [NāradaFn20-05]_ the Tathāgatas [NāradaFn20-06]_ are only teachers. The meditative ones, who enter the way, are delivered from the bonds of Māra.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **276.** 
+     - **276.** You yourselves must strive; the Buddhas only point the way. Those meditative ones who tread the path are released from the bonds of Mara.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **276** 
+     - **274-276** 
+       ::
+              
+            Just this 
+            is the path 
+           — there is no other —    
+          to purify vision.   
+            Follow it,  
+          and that will be Mara's   
+            bewilderment. 
+              
+          Following it,   
+          you put an end    
+          to suffering & stress.    
+          I have taught you this path   
+          having known    
+           — for your knowing —   
+          the extraction of arrows.   
+              
+          It's for you to strive    
+            ardently. 
+          Tathagatas simply   
+          point out the way.    
+          Those who practice,   
+          absorbed in jhana:    
+            from Mara's bonds 
+            they'll be freed.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **276** 
-       | 
+       |  Effort is your obligation;  
+       |  Buddhas do but point the Way. 
+       |  Those who practise, meditators, 
+       |  Find release from Mara’s stays.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 276 
+     - 276 You yourself must make an effort. The Tathagatas (Buddhas) are only preachers. The thoughtful who enter the way are freed from the bondage of Mara.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 276 <{filename}../dhA/dhA-chap20%zh.rst#Dhp276>`__
@@ -273,20 +387,44 @@
        3. 法集要頌經：一切行無常，如慧所觀察，若能覺此苦，行道淨其迹T4,783a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 277. 
+     - TRANSIENT ARE CONDITIONED THINGS
+
+       277. "Transient are all conditioned things": [NāradaFn20-07]_ when this, with wisdom, one discerns, then is one disgusted with ill; [NāradaFn20-08]_ this is the path to purity.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **277.** 
+     - **277.** "All conditioned things are impermanent" — when one sees this with wisdom, one turns away from suffering. This is the path to purification.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **277** 
+     - **277-279** 
+       ::
+              
+          When you see with discernment,    
+          'All fabrications are inconstant' —   
+          you grow disenchanted with stress.    
+            This is the path  
+            to purity.  
+              
+          When you see with discernment,    
+          'All fabrications are stressful' —    
+          you grow disenchanted with stress.    
+            This is the path  
+            to purity.  
+              
+          When you see with discernment,    
+          'All phenomena are not-self' —    
+          you grow disenchanted with stress.    
+            This is the path  
+            to purity.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **277** 
-       | 
+       |  Fleeting are configurations.  
+       |  When, with wisdom, this one sees, 
+       |  Disgust arising for affliction  
+       |  Leads one on to purity.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 277 
+     - 277 'All created things perish,' he who knows and sees this becomes passive in pain; this is the way to purity.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 277 <{filename}../dhA/dhA-chap20%zh.rst#Dhp277>`__
@@ -319,20 +457,44 @@
        3. 法集要頌經：一切諸行苦，如慧之所見，若能覺此苦，行道淨其迹T4,783a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 278. 
+     - SORROWFUL ARE ALL CONDITIONED THINGS
+
+       278. "Sorrowful are all conditioned things": when this, with wisdom, one discerns, then is one disgusted with ill; this is the path to purity.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **278.** 
+     - **278.** "All conditioned things are unsatisfactory" — when one sees this with wisdom, one turns away from suffering. This is the path to purification.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **278** 
+     - **277-279** 
+       ::
+              
+          When you see with discernment,    
+          'All fabrications are inconstant' —   
+          you grow disenchanted with stress.    
+            This is the path  
+            to purity.  
+              
+          When you see with discernment,    
+          'All fabrications are stressful' —    
+          you grow disenchanted with stress.    
+            This is the path  
+            to purity.  
+              
+          When you see with discernment,    
+          'All phenomena are not-self' —    
+          you grow disenchanted with stress.    
+            This is the path  
+            to purity.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **278** 
-       | 
+       |  Distressing are configurations. 
+       |  When, with wisdom, this one sees, 
+       |  Disgust arising for affliction  
+       |  Leads one on to purity.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 278 
+     - 278 'All created things are grief and pain,' he who knows and sees this becomes passive in pain; this is the way that leads to purity.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 278 <{filename}../dhA/dhA-chap20%zh.rst#Dhp278>`__
@@ -368,20 +530,44 @@
        | 5. 舊婆沙：若能以智觀，一切行無我，能生厭苦心，是道得清淨T28,33b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 279. 
+     - EVERYTHING IS SOULLESS
+
+       279. "All Dhammas are without a soul": [NāradaFn20-09]_ when this, with wisdom, one discerns, then is one disgusted with ill; this is the path to purity.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **279.** 
+     - **279.** "All things are not-self" — when one sees this with wisdom, one turns away from suffering. This is the path to purification.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **279** 
+     - **277-279** 
+       ::
+              
+          When you see with discernment,    
+          'All fabrications are inconstant' —   
+          you grow disenchanted with stress.    
+            This is the path  
+            to purity.  
+              
+          When you see with discernment,    
+          'All fabrications are stressful' —    
+          you grow disenchanted with stress.    
+            This is the path  
+            to purity.  
+              
+          When you see with discernment,    
+          'All phenomena are not-self' —    
+          you grow disenchanted with stress.    
+            This is the path  
+            to purity.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **279** 
-       | 
+       |  No-one’s are configurations.  
+       |  When, with wisdom, this one sees, 
+       |  Disgust arising for affliction  
+       |  Leads one on to purity.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 279 
+     - 279 'All forms are unreal,' he who knows and sees this becomes passive in pain; this is the way that leads to purity.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 279 <{filename}../dhA/dhA-chap20%zh.rst#Dhp279>`__
@@ -416,20 +602,35 @@
        3. 法集要頌經：應修而不修，恃力不精勤，自陷人形卑，懈怠不解慧T4,795c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 280. 
+     - THE SLOTHFUL DO NOT REALIZE THE PATH
+
+       280. The inactive idler who strives not when he should strive, who, though young and strong, is slothful, with (good) thoughts depressed, [NāradaFn20-10]_ does not by wisdom realize the Path.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **280.** 
+     - **280.** The idler who does not exert himself when he should, who though young and strong is full of sloth, with a mind full of vain thoughts — such an indolent man does not find the path to wisdom.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **280** 
+     - **280** 
+       ::
+              
+          At the time for initiative    
+          he takes no initiative.   
+          Young, strong, but lethargic,   
+          the resolves of his heart   
+            exhausted,  
+          the lazy, lethargic one   
+          loses the path    
+          to discernment.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **280** 
-       | 
+       |  Her body is young and she’s sturdy, 
+       |  But dreary her mind, and she’s lazy.  
+       |  When effort is called for she wastes away time: 
+       |  The pathway to wisdom such idlers won’t find.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 280 
+     - 280 He who does not rouse himself when it is time to rise, who, though young and strong, is full of sloth, whose will and thought are weak, that lazy and idle man will never find the way to knowledge.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 280 <{filename}../dhA/dhA-chap20%zh.rst#Dhp280>`__
@@ -480,20 +681,40 @@
        | 18. 解脫戒：善護於口業，自淨其心意，身莫作眾惡，此三業清淨T24,659c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 281. 
+     - PURIFY THOUGHTS, WORDS AND DEEDS
+
+       281. Watchful of speech, well restrained in mind, let him do nought unskilful through his body. Let him purify these three ways of action and win the path realized by the sages.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **281.** 
+     - **281.** Let a man be watchful of speech, well controlled in mind, and not commit evil in bodily action. Let him purify these three courses of action, and win the path made known by the Great Sage.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **281** 
+     - **281** 
+       ::
+              
+            Guarded    in speech, 
+          well-restrained in mind,    
+          you should do nothing unskillful    
+                   in body. 
+            Purify  
+          these three courses of action.    
+            Bring to fruition 
+          the path that seers have proclaimed.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **281** 
-       | 
+       |  In speaking be careful; 
+       |  In thought be restrained; 
+       |  From bodily conduct unskilful,  
+       |  Refrain!  
+       |    
+       |  These three kinds of flawlessness,  
+       |  May you attain! 
+       |  And the Path that the sages have walked,  
+       |  May you gain!
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 281 
+     - 281 Watching his speech, well restrained in mind, let a man never commit any wrong with his body! Let a man but keep these three roads of action clear, and he will achieve the way which is taught by the wise.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 281 <{filename}../dhA/dhA-chap20%zh.rst#Dhp281>`__
@@ -527,20 +748,36 @@
      - 1. 法句經：念應念則正，念不應則邪，慧而不起邪，思正道乃成T4,569b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 282. 
+     - ACT IN SUCH A WAY THAT YOU INCREASE YOUR WISDOM
+
+       282. Verily, from meditation arises wisdom. Without meditation wisdom wanes. Knowing this twofold path of gain and loss, let one so conduct oneself that wisdom may increase.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **282.** 
+     - **282.** Wisdom springs from meditation; without meditation wisdom wanes. Having known these two paths of progress and decline, let a man so conduct himself that his wisdom may increase.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **282** 
+     - **282** 
+       ::
+              
+          From striving comes wisdom;   
+          from not, wisdom's end.   
+          Knowing these two courses   
+           — to development,    
+               decline —  
+          conduct yourself    
+          so that wisdom will grow.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **282** 
-       | 
+       |  Application’s wisdom’s rise;  
+       |  Lack of which is its demise.  
+       |  When this branching path’s cognised 
+       |  That leads to progress or decline,  
+       |  May you so yourselves incline 
+       |  So, consequently, wisdom thrives!
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 282 
+     - 282 Through zeal knowledge is gotten, through lack of zeal knowledge is lost; let a man who knows this double path of gain and loss thus place himself that knowledge may grow.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 282 <{filename}../dhA/dhA-chap20%zh.rst#Dhp282>`__
@@ -574,20 +811,56 @@
        4. 法集要頌經：截林勿截樹，因林生怖畏，截林而滅已，苾芻得圓寂T4,783b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 283. 
+     - ``BE WITHOUT ATTACHMENT   MIND IS IN BONDAGE AS LONG AS THERE IS ATTACHMENT``
+
+       283. Cut down the forest (of the passions [NāradaFn20-11]_ ), but not real trees. [NāradaFn20-12]_ From the forest (of the passions) springs fear. Cutting down both forest [NāradaFn20-13]_ and brushwood (of the passions), be forestless, [NāradaFn20-14]_ O bhikkhus.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **283.** 
+     - **283.** Cut down the forest (lust), but not the tree; from the forest springs fear. Having cut down the forest and the underbrush (desire), be passionless, O monks! [BudRkFn-v283]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **283** 
+     - **283-285** 
+       ::
+              
+          Cut down    
+          the forest of desire,   
+          not the forest of trees.    
+          From the forest of desire   
+          come danger & fear.   
+          Having cut down this forest   
+          & its underbrush, monks,    
+            be deforested.  
+              
+          For as long as the least    
+          bit of underbrush   
+          of a man for women    
+          is not cleared away,    
+          the heart is fixated    
+            like a suckling calf  
+            on its mother.  
+              
+          Crush   
+          your sense of self-allure   
+            like an autumn lily 
+            in the hand.  
+          Nurture only the path to peace    
+            — Unbinding — 
+          as taught by the One Well Gone.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **283** 
-       | 
+       |  Cut down the whole jungle 
+       |  Not just the odd tree:  
+       |  From the jungle of passion  
+       |  Does fear come to be. 
+       |    
+       |  When the jungle is felled,  
+       |  Cut the brushwood as well,  
+       |  Then of every luxuriant growth  
+       |  You’ll be free.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 283 
+     - 283 Cut down the whole forest (of lust), not a tree only! Danger comes out of the forest (of lust). When you have cut down both the forest (of lust) and its undergrowth, then, Bhikshus, you will be rid of the forest and free!
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 283 <{filename}../dhA/dhA-chap20%zh.rst#Dhp283>`__
@@ -622,20 +895,49 @@
        4. 法集要頌經：截林不斷根，因林生怖畏，未斷分毫間，令意生纏縛。截林勿斷根，因林生怖畏，心纏最難離，如犢戀愛母T4,786a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 284. 
+     - 284. For as long as the slightest brushwood (of the passions) of man towards women is not cut down, so long is his mind in bondage, like the milch calf to its mother-cow.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **284.** 
+     - **284.** For so long as the underbrush of desire, even the most subtle, of a man towards a woman is not cut down, his mind is in bondage, like the sucking calf to its mother.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **284** 
+     - **283-285** 
+       ::
+              
+          Cut down    
+          the forest of desire,   
+          not the forest of trees.    
+          From the forest of desire   
+          come danger & fear.   
+          Having cut down this forest   
+          & its underbrush, monks,    
+            be deforested.  
+              
+          For as long as the least    
+          bit of underbrush   
+          of a man for women    
+          is not cleared away,    
+          the heart is fixated    
+            like a suckling calf  
+            on its mother.  
+              
+          Crush   
+          your sense of self-allure   
+            like an autumn lily 
+            in the hand.  
+          Nurture only the path to peace    
+            — Unbinding — 
+          as taught by the One Well Gone.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **284** 
-       | 
+       |  If any jungly growth remains, 
+       |  The smallest bush, of man for maid, 
+       |  So long his mind is shackled fast,  
+       |  Like to its dam, a suckling calf.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 284 
+     - 284 So long as the love of man towards women, even the smallest, is not destroyed, so long is his mind in bondage, as the calf that drinks milk is to its mother.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 284 <{filename}../dhA/dhA-chap20%zh.rst#Dhp284>`__
@@ -668,20 +970,51 @@
        3. 法集要頌經：當自斷愛戀，猶如枯蓮池，息跡受正教，佛說圓寂樂T4,786a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 285. 
+     - DEVELOP THE PATH OF PEACE
+
+       285. Cut off your affection, as though it were an autumn lily, with the hand. Cultivate the very path of peace. Nibbāna has been expounded by the Auspicious One.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **285.** 
+     - **285.** Cut off your affection in the manner of a man who plucks with his hand an autumn lotus. Cultivate only the path to peace, Nibbana, as made known by the Exalted One.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **285** 
+     - **283-285** [ThaniSFn-V285]_
+       ::
+              
+          Cut down    
+          the forest of desire,   
+          not the forest of trees.    
+          From the forest of desire   
+          come danger & fear.   
+          Having cut down this forest   
+          & its underbrush, monks,    
+            be deforested.  
+              
+          For as long as the least    
+          bit of underbrush   
+          of a man for women    
+          is not cleared away,    
+          the heart is fixated    
+            like a suckling calf  
+            on its mother.  
+              
+          Crush   
+          your sense of self-allure   
+            like an autumn lily 
+            in the hand.  
+          Nurture only the path to peace    
+            — Unbinding — 
+          as taught by the One Well Gone.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **285** 
-       | 
+       |  In your hand you might crush an exquisite carnation; [VaradoFn-V285]_ 
+       |  So should you crumple your self-adoration.  
+       |  The pathway to peace you should practise instead: 
+       |  To Nibbana it leads, as the Buddha has said.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 285 
+     - 285 Cut out the love of self, like an autumn lotus, with thy hand! Cherish the road of peace. Nirvana has been shown by Sugata (Buddha).
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 285 <{filename}../dhA/dhA-chap20%zh.rst#Dhp285>`__
@@ -715,20 +1048,37 @@
        3. 法集要頌經：今歲雖云在，冬夏不久停，凡夫貪世樂，中間不驚怖T4,777c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 286. 
+     - THE IGNORANT REALIZE NOT THE FEAR OF DEATH
+
+       286. Here will I live in the rainy season, here in the autumn and in the summer: thus muses the fool. He realizes not the danger (of death).
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **286.** 
+     - **286.** "Here shall I live during the rains, here in winter and summer" — thus thinks the fool. He does not realize the danger (that death might intervene).
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **286** 
+     - **286-287** 
+       ::
+              
+          'Here I'll stay for the rains.    
+          Here, for the summer & winter.'   
+          So imagines the fool,   
+          unaware of obstructions.    
+              
+          That drunk-on-his-sons-&-cattle man,    
+          all tangled up in the mind:   
+          death sweeps him away —   
+            as a great flood, 
+            a village asleep.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **286** 
-       | 
+       |  “For the months of the rains I’ll stay here,  
+       |  And in winter and summer stay there.” 
+       |  With assurance do fools thus conceive.  
+       |  What’s contingent they fail to perceive.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 286 
+     - 286 'Here I shall dwell in the rain, here in winter and summer,' thus the fool meditates, and does not think of his death.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 286 <{filename}../dhA/dhA-chap20%zh.rst#Dhp286>`__
@@ -761,20 +1111,37 @@
        3. 出曜經：生子歡豫，愛染不離，醉遇暴河，溺沒形命T4,624a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 287. 
+     - DEATH SEIZES THE DOTING MAN
+
+       287. The doting man with mind set on children and herds, death seizes and carries away, as a great flood (sweeps away) a slumbering village.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **287.** 
+     - **287.** As a great flood carries away a sleeping village, so death seizes and carries away the man with a clinging mind, doting on his children and cattle.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **287** 
+     - **286-287** 
+       ::
+              
+          'Here I'll stay for the rains.    
+          Here, for the summer & winter.'   
+          So imagines the fool,   
+          unaware of obstructions.    
+              
+          That drunk-on-his-sons-&-cattle man,    
+          all tangled up in the mind:   
+          death sweeps him away —   
+            as a great flood, 
+            a village asleep.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **287** 
-       | 
+       |  The person whose mind is besotted,  
+       |  With children and cattle obsessed,  
+       |  Like a flood drowns a village asleep, 
+       |  Will that fool be demolished by death.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 287 
+     - 287 Death comes and carries off that man, praised for his children and flocks, his mind distracted, as a flood carries off a sleeping village.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 287 <{filename}../dhA/dhA-chap20%zh.rst#Dhp287>`__
@@ -810,20 +1177,41 @@
        6. 法集要頌經：父母與兄弟，妻子并眷屬，無常來牽引，無能救濟者T4,777c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 288. 
+     - NO PROTECTION FROM ANY AT THE MOMENT OF DEATH
+
+       288. There are no sons for one's protection, neither father nor even kinsmen; for one who is overcome by death no protection is to be found among kinsmen.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **288.** 
+     - **288.** For him who is assailed by death there is no protection by kinsmen. None there are to save him — no sons, nor father, nor relatives.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **288** 
+     - **288-289** [ThaniSFn-V288]_
+       ::
+              
+          There are   no sons   
+            to give shelter,  
+               no father, 
+               no family  
+          for one seized by the Ender,    
+            no shelter among kin. 
+              
+            Conscious   
+          of this compelling reason,    
+          the wise man, restrained by virtue,   
+          should make the path pure   
+            — right away —  
+          that goes all the way to Unbinding.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **288** 
-       | 
+     - | **288 & 289** 
+       |    
+       |  When cornered by death one can’t hope for protection  
+       |  From father or son or another relation. 
+       |  The wise see this fact as imperative reason 
+       |  To quickly lay open the pathway to freedom.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 288 
+     - 288 Sons are no help, nor a father, nor relations; there is no help from kinsfolk for one whom death has seized.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 288 <{filename}../dhA/dhA-chap20%zh.rst#Dhp288>`__
@@ -868,20 +1256,39 @@
        3. 出曜經：智者學牢固，於諸禁戒律，直趣泥洹路，速得至滅度T4,657b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 289. 
+     - 289. Realizing this fact, let the virtuous and wise person swiftly clear the way that leads to Nibbāna.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **289.** 
+     - **289.** Realizing this fact, let the wise man, restrained by morality, hasten to clear the path leading to Nibbana.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **289** 
+     - **288-289** 
+       ::
+              
+          There are   no sons   
+            to give shelter,  
+               no father, 
+               no family  
+          for one seized by the Ender,    
+            no shelter among kin. 
+              
+            Conscious   
+          of this compelling reason,    
+          the wise man, restrained by virtue,   
+          should make the path pure   
+            — right away —  
+          that goes all the way to Unbinding.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **289** 
-       | 
+     - | **288 & 289** 
+       |    
+       |  When cornered by death one can’t hope for protection  
+       |  From father or son or another relation. 
+       |  The wise see this fact as imperative reason 
+       |  To quickly lay open the pathway to freedom.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 289 
+     - 289 A wise and good man who knows the meaning of this, should quickly clear the way that leads to Nirvana.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十：道品 Dhp. 289 <{filename}../dhA/dhA-chap20%zh.rst#Dhp289>`__
@@ -919,7 +1326,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -954,6 +1361,56 @@
 .. [LChnFn20-11] 〔註20-11〕  指前頌的意義。
 
 .. [CFFn20-01] 〔敬法法師註20-01〕 47 註：在此，慧是指觀智。
+
+.. [NāradaFn20-01] (Ven. Nārada 20-01) The Eightfold Path is the Middle Way discovered by the Buddha for the realization of Nibbāna. It consists of: right understanding(sammā diññhi), right thoughts (sammā saṅkappa), right speech (sammā vācā), right action (sammā kammanta), right livelihood (sammā ājīva), right effort (sammā vāyāma), right mindfulness (sammā sati), and right concentration (sammā samādhi).
+
+                    This is the unique path of Enlightenment. From a philosophical stand-point these eight factors are the eight mental states found in the supramundane consciousness which has Nibbāna for its object.
+
+.. [NāradaFn20-02] (Ven. Nārada 20-02) They are the four Noble Truths - suffering, the cause of suffering, the destruction of suffering, and the path leading to the destruction of suffering. The first truth of suffering is to be comprehended, the cause of suffering (which is craving) is to be eradicated, the destruction of suffering (which is Nibbāna) is to be realized, the path leading to the destruction of suffering (which is the Eightfold Path) is to be developed. Whether the Buddhas arise or not these four truths exist in the world. It is the Buddhas that reveal them to mankind.
+
+.. [NāradaFn20-03] (Ven. Nārada 20-03) Virāga = Nibbāna.
+
+.. [NāradaFn20-04] (Ven. Nārada 20-04) Of lust etc.
+
+.. [NāradaFn20-05] (Ven. Nārada 20-05) That is, to control passions in order to realize Nibbāna.
+
+.. [NāradaFn20-06] (Ven. Nārada 20-06) When the Buddha refers to Himself He employs the term Tathāgata which means "who thus hath come".
+
+.. [NāradaFn20-07] (Ven. Nārada 20-07) Saṅkhāra is a multisignificant term. Here it is used in the sense of things conditioned by causes. Supermundane Nibbāna is not included in saṅkhāra as it is not conditioned by any cause. It is causeless and timeless.
+
+.. [NāradaFn20-08] (Ven. Nārada 20-08) Suffering caused by attending to the five Aggregates.
+
+.. [NāradaFn20-09] (Ven. Nārada 20-09) Impermanence (anicca), sorrow (dukkha) and no-soul (anatta) are the three characteristics of all things conditioned by causes. It is by contemplating them that one realizes Nibbāna. The aspirant may choose any characteristic that appeals to him most.
+
+                     Anattā or no-soul is the crux of Buddhism. The term saṅkhāra which is applied to any conditioned thing is used in the two previous verses, while in the third verse the term dhamma is used. The commentator interprets dhamma as the "aggregates" (khandhā). The same interpretation he gives to saṅkhāra too. If by dhamma is meant saṅkhāra, there is no reason for the Buddha to make a differentiation in the third verse.
+
+                     Saṅkhāra is applied only to those things conditioned by causes. Dhamma can be applied to both conditioned and unconditioned things and states. It embraces both conditioned and unconditioned things including Nibbāna. In order to show that even Nibbāna is free from a permanent soul the Buddha used the term dhamma in the third verse. Nibbāna is a positive supramundane state and is without a soul.
+
+                     "All the elements of being are non-self. When one by wisdom realizes (this), he heeds not (is superior to) (this world of) sorrow, this is the path to purity". Radhakrishnan.
+
+.. [NāradaFn20-10] (Ven. Nārada 20-10) Saṃsannasaṅkappamano literally, mind with right thoughts depressed.
+
+.. [NāradaFn20-11] (Ven. Nārada 20-11) Here vana means forest of such passions as lust, hatred, and delusion.
+
+.. [NāradaFn20-12] (Ven. Nārada 20-12) When the Buddha said, "Cut down the forest", some newly ordained monks erroneously gave the expression its literal meaning. The Buddha, reading their thoughts, corrected them, stating that what he meant was not actual trees but passions.
+
+.. [NāradaFn20-13] (Ven. Nārada 20-13) Vana means big trees and vanatha means smaller trees. Here vana means the powerful passions and vanatha means the lesser passions.
+
+.. [NāradaFn20-14] (Ven. Nārada 20-14) Having eradicated all passions by means of the four Paths, be passionless.
+
+.. [BudRkFn-v283] (Ven. Buddharakkhita (v. 283) The meaning of this injunction is: "Cut down the forest of lust, but do not mortify the body."
+
+.. [ThaniSFn-V273] (Ven. Thanissaro V. 273) The four truths: stress, its cause, its cessation, and the path to its cessation (which is identical to the eightfold path). See note 191.
+
+.. [ThaniSFn-V275] (Ven. Thanissaro V. 275) "I have taught you this path": reading akkhato vo maya maggo with the Thai edition, a reading supported by the Patna Dhp. "Having known — for your knowing": two ways of interpreting what is apparently a play on the Pali word, aññaya, which can be either be the gerund of ajanati or the dative of añña. On the extraction of arrows as a metaphor for the practice, see MN 63 and MN 105.
+
+.. [ThaniSFn-V285] (Ven. Thanissaro V. 285) Although the first word in this verse, ucchinda, literally means "crush," "destroy," "annihilate," I have found no previous English translation that renders it accordingly. Most translate it as "cut out" or "uproot," which weakens the image. On the role played by self-allure in leading the heart to become fixated on others, see AN 7.48.
+
+.. [ThaniSFn-V288] (Ven. Thanissaro V. 288) Ender = death.
+
+.. [VaradoFn-V275] (Ven. Varado V.275) Verse 275: The sting of the arrow I’ve known/ And, to you, the appeasement (santhanaṃ) I’ve shown. PED (santhana): appeasing.  
+
+.. [VaradoFn-V285] (Ven. Varado V.285) Verse 285: "crush (ucchinda) an exquisite carnation". PED (ucchindati): destroy.
 
 ---------------------------
 

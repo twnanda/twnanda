@@ -3,7 +3,7 @@
 ===================================================================================
 
 :date: 2016-06-04 17:30
-:modified: 2016-06-13 11:00
+:modified: 2016-06-27 17:00
 :tags: 法句經, 法句經對讀, 愛欲品, 貪愛品, Dhp, Dhammapada, Taṇhāvaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Craving
@@ -96,20 +96,43 @@
        3. 法集要頌經：貪著放逸者，如猿逢果樹，貪意甚堅牢，趣而還復趣T4,778b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 334. 
+     - **Chapter 24  Craving**
+
+       **CRAVING ARISES IN THE NEGLIGENT**
+
+       334. The craving [NāradaFn24-01]_ of the person addicted to careless living grows like a creeper. He jumps from life to life like a fruit-loving monkey in the forest. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **334.** 
+     - **Dhp XXIV Craving**
+
+       **334.** The craving of one given to heedless living grows like a creeper. Like the monkey seeking fruits in the forest, he leaps from life to life (tasting the fruit of his kamma).
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **334** 
+     - **Dhp XXIV  Craving**
+
+       **334** 
+       ::
+              
+          When a person lives heedlessly,   
+          his craving grows like a creeping vine.   
+          He runs now here    
+            & now  there, 
+          as if looking for fruit:    
+            a monkey in the forest.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **334** 
-       | 
+     - **Chapter 24 Craving**
+
+       | **334** 
+       |  The lusts of him with heedless traits 
+       |  Like strangling vines proliferate.  
+       |  From life to life he leaps and swoops:  
+       |  A jungly monkey greedy for fruit.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 334 
+     - **Chapter XXIV: Thirst**
+
+       334 The thirst of a thoughtless man grows like a creeper; he runs from life to life, like a monkey seeking fruit in the forest.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 334 <{filename}../dhA/dhA-chap24%zh.rst#Dhp334>`__
@@ -141,20 +164,38 @@
        2. 出曜經：以為愛忍苦，貪欲著世間，憂患日夜長，莚如蔓草生T4,634a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 335. 
+     - THOSE WHO CRAVE MULTIPLY THEIR SORROWS
+
+       335. Whomsoever in this world this base clinging thirst overcomes, his sorrows flourish like well-watered bīraṇa grass.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **335.** 
+     - **335.** Whoever is overcome by this wretched and sticky craving, his sorrows grow like grass after the rains.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **335** 
+     - **335-336** 
+       ::
+              
+          If this sticky, uncouth craving   
+          overcomes you in the world,   
+          your sorrows grow like wild grass   
+            after rain. 
+              
+          If, in the world, you overcome    
+          this uncouth craving, hard to escape,   
+          sorrows roll off you,   
+            like water beads off  
+            a lotus.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **335** 
-       | 
+     - | **335 & 336** 
+       |   
+       |  Whosoever by craving’s entanglements gets choked, 
+       |  His sorrows will flourish like grass that rain soaks. 
+       |  Whosoever quells craving – hard to conquer – sheds pain,  
+       |  Just as the lotus sheds droplets of rain.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 335 
+     - 335 Whomsoever this fierce thirst overcomes, full of poison, in this world, his sufferings increase like the abounding Birana grass.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 335 <{filename}../dhA/dhA-chap24%zh.rst#Dhp335>`__
@@ -187,20 +228,38 @@
        3. 法集要頌經：若遠離貪愛，煩惱不能侵，貪欲若薄劣，如水滴蓮上T4,778c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 336. 
+     - THERE IS NO SORROW TO THE CRAVING-FREE
+
+       336. Whoso in the world overcomes this base unruly craving, from him sorrows fall away like water-drops from a lotus-leaf.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **336.** 
+     - **336.** But whoever overcomes this wretched craving, so difficult to overcome, from him sorrows fall away like water from a lotus leaf.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **336** 
+     - **335-336** 
+       ::
+              
+          If this sticky, uncouth craving   
+          overcomes you in the world,   
+          your sorrows grow like wild grass   
+            after rain. 
+              
+          If, in the world, you overcome    
+          this uncouth craving, hard to escape,   
+          sorrows roll off you,   
+            like water beads off  
+            a lotus.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **336** 
-       | 
+     - | **335 & 336** 
+       |   
+       |  Whosoever by craving’s entanglements gets choked, 
+       |  His sorrows will flourish like grass that rain soaks. 
+       |  Whosoever quells craving – hard to conquer – sheds pain,  
+       |  Just as the lotus sheds droplets of rain.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 336 
+     - 336 He who overcomes this fierce thirst, difficult to be conquered in this world, sufferings fall off from him, like water-drops from a lotus leaf.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 336 <{filename}../dhA/dhA-chap24%zh.rst#Dhp336>`__
@@ -235,20 +294,37 @@
        2. 出曜經：諸賢我今說，眾會咸共聽，共拔愛根本，如擇取細新，以拔愛根本，無憂何有懼T4,634a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 337. 
+     - CUT OFF CRAVING FROM THE ROOT
+
+       337. This I say to you: Good luck to you all who have assembled here! Dig up the root of craving like one in quest of bīraṇa's sweet root. Let not Māra [NāradaFn24-02]_ crush you again and again as a flood (crushes) a reed.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **337.** 
+     - **337.** This I say to you: Good luck to all assembled here! Dig up the root of craving, like one in search of the fragrant root of the birana grass. Let not Mara crush you again and again, as a flood crushes a reed.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **337** 
+     - **337** [ThaniSFn-V337]_
+       ::
+              
+          To all of you gathered here   
+          I say: Good fortune.    
+            Dig up craving  
+           — as when seeking medicinal roots, wild grass —    
+            by the root.  
+          Don't let Mara cut you down   
+           — as a raging river, a reed —    
+          over & over again.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **337** 
-       | 
+       |  Some words auspicious I will say  
+       |  To those assembled here today:  
+       |  Dig up craving by the root  
+       |  (Like with weeds), not just the shoot;  
+       |  Or else, by Mara you’ll be crushed, 
+       |  As floods destroy the weak bulrush.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 337 
+     - 337 This salutary word I tell you, 'Do ye, as many as are here assembled, dig up the root of thirst, as he who wants the sweet- scented Usira root must dig up the Birana grass, that Mara (the tempter) may not crush you again and again, as the stream crushes the reeds.'
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 337 <{filename}../dhA/dhA-chap24%zh.rst#Dhp337>`__
@@ -287,20 +363,37 @@
        | 6. 舊婆沙：如樹不拔根，雖斷而復生，不拔愛使本，數數還受苦T28,300c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 338. 
+     - THERE IS SUFFERING AS LONG AS THERE IS CRAVING
+
+       338. Just as a tree with roots unharmed and firm, though hewn down, sprouts again, even so while latent craving is not rooted out, this sorrow springs up again and again.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **338.** 
+     - **338.** Just as a tree, though cut down, sprouts up again if its roots remain uncut and firm, even so, until the craving that lies dormant is rooted out, suffering springs up again and again.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **338** 
+     - **338** 
+       ::
+              
+          If its root remains   
+          undamaged & strong,   
+          a tree, even if cut,    
+          will grow back.   
+          So too if latent craving    
+          is not rooted out,    
+          this suffering returns    
+            again 
+            & 
+            again.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **338** 
-       | 
+       |  If its roots are firm and stout,  
+       |  A tree, though felled, once more will sprout: 
+       |  If latent craving’s not laid low, 
+       |  Again and again fresh sorrow will grow.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 338 
+     - 338 As a tree, even though it has been cut down, is firm so long as its root is safe, and grows again, thus, unless the feeders of thirst are destroyed, the pain (of life) will return again and again.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 338 <{filename}../dhA/dhA-chap24%zh.rst#Dhp338>`__
@@ -337,20 +430,38 @@
        | 6. 八犍度：諸三十六水，意流有倍，順流二見，由婬覺出T26,916a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 339. 
+     - LUSTFUL THOUGHTS ARISE IN HIM WHO HAS CRAVING
+
+       339. If in anyone the thirty-six streams (of craving [NāradaFn24-03]_ ) that rush towards pleasurable thoughts [NāradaFn24-04]_ are strong, such a deluded person, torrential thoughts of lust carry off.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **339.** 
+     - **339.** The misguided man in whom the thirty-six currents of craving strongly rush toward pleasurable objects, is swept away by the flood of his passionate thoughts. [BudRkFn-v339]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **339** 
+     - **339-340** [ThaniSFn-V339]_
+       ::
+              
+          He whose 36 streams,    
+          flowing to what is appealing, are strong:   
+          the currents — resolves based on passion —    
+          carry him, of base views, away.   
+              
+          They flow every which way, the streams,   
+          but the sprouted creeper stays    
+               in place.  
+          Now, seeing that the creeper's arisen,    
+          cut through its root    
+          with discernment.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **339** 
-       | 
+       |  If the thirty-six streams of his sensual desire 
+       |  Abundantly flow to things loved and admired,  
+       |  Then a torrent of many a lust-inspired plan 
+       |  Will carry away the intemperate man.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 339 
+     - 339 He whose thirst running towards pleasure is exceeding strong in the thirty-six channels, the waves will carry away that misguided man, viz. his desires which are set on passion.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 339 <{filename}../dhA/dhA-chap24%zh.rst#Dhp339>`__
@@ -382,20 +493,38 @@
        2. 法句譬喻經：一切意流衍，愛結如葛藤，，唯慧分別見，能斷意根原T4,601b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 340. 
+     - CUT OFF CRAVING WITH WISDOM
+
+       340. The streams (craving) flow everywhere. The creeper (craving) sprouts [NāradaFn24-05]_ and stands. [NāradaFn24-06]_ Seeing the creeper that has sprung up, with wisdom cut off root.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **340.** 
+     - **340.** Everywhere these currents flow, and the creeper (of craving) sprouts and grows. Seeing that the creeper has sprung up, cut off its root with wisdom.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **340** 
+     - **339-340** [ThaniSFn-V340]_
+       ::
+              
+          He whose 36 streams,    
+          flowing to what is appealing, are strong:   
+          the currents — resolves based on passion —    
+          carry him, of base views, away.   
+              
+          They flow every which way, the streams,   
+          but the sprouted creeper stays    
+               in place.  
+          Now, seeing that the creeper's arisen,    
+          cut through its root    
+          with discernment.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **340** 
-       | 
+       |  A river courses far and wide: 
+       |  The creeping vine, where it sprouts it abides. [VaradoFn-V340]_ 
+       |  So, seeing clinging’s vine-like shoots, 
+       |  With wisdom cut it at the root.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 340 
+     - 340 The channels run everywhere, the creeper (of passion) stands sprouting; if you see the creeper springing up, cut its root by means of knowledge.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 340 <{filename}../dhA/dhA-chap24%zh.rst#Dhp340>`__
@@ -429,20 +558,30 @@
        4. 法集要頌經：夫貪愛潤澤，思想為滋蔓，貪欲深無底，老死是用增T4,778b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 341. 
+     - ATTACHMENT TO SENSUAL PLEASURES LEAD TO BIRTH AND DECAY
+
+       341. In beings there arise pleasures that rush (towards sense-objects) and (such beings) are steeped in craving. Bent on happiness, they seek happiness. Verily, such men come to birth and decay.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **341.** 
+     - **341.** Flowing in (from all objects) and watered by craving, feelings of pleasure arise in beings. Bent on pleasures and seeking enjoyment, these men fall prey to birth and decay.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **341** 
+     - **341** [ThaniSFn-V341]_
+       ::
+              
+          Loosened & oiled    
+          are the joys of a person.   
+          People, bound by enticement,    
+          looking for ease:   
+          to birth & aging they go.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **341** 
-       | 
+       |  The sensual happiness of beings arises in accordance with the flow of desire. [VaradoFn-V341]_
+       |  Attached to pleasure, seeking bliss, beings suffer birth and old age.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 341 
+     - 341 A creature's pleasures are extravagant and luxurious; sunk in lust and looking for pleasure, men undergo (again and again) birth and decay.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 341 <{filename}../dhA/dhA-chap24%zh.rst#Dhp341>`__
@@ -473,20 +612,41 @@
      - 1. 出曜經：眾生愛纏裹，猶兔在於罝，為結使所纏，數數受苦惱T4,633c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 342. 
+     - FETTERED BY CRAVING THEY COME TO GRIEF
+
+       342. Folk enwrapt in craving are terrified like a captive hare. Held fast by fetters and bonds, [NāradaFn24-07]_ for long they come to sorrow again and again.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **342.** 
+     - **342.** Beset by craving, people run about like an entrapped hare. Held fast by mental fetters, they come to suffering again and again for a long time.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **342** 
+     - **342-343** 
+       ::
+              
+          Encircled with craving,   
+          people hop round & around   
+          like a rabbit caught in a snare.    
+          Tied with fetters & bonds   
+          they go on to suffering,    
+          again & again, for long.    
+              
+          Encircled with craving,   
+          people hop round & around   
+          like a rabbit caught in a snare.    
+            So a monk 
+          should dispel   craving,    
+          should aspire   to dispassion   
+            for himself.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **342** 
-       | 
+       |  When a person's entangled by craving, 
+       |  He quails like a trapped mountain hare: 
+       |  Held tightly by fetters and clinging, 
+       |  For long he’ll meet grief and despair.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 342 
+     - 342 Men, driven on by thirst, run about like a snared hare; held in fetters and bonds, they undergo pain for a long time, again and again.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 342 <{filename}../dhA/dhA-chap24%zh.rst#Dhp342>`__
@@ -517,20 +677,41 @@
      - 1. suspended
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 343. 
+     - HE WHO DESIRES PASSIONLESSNESS SHOULD DISCARD CRAVING
+
+       343. Folk, enwrapt in craving, are terrified like a captive hare. Therefore a bhikkhu who wishes his own passionlessness (Nibbāna) should discard craving.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **343.** 
+     - **343.** Beset by craving, people run about like an entrapped hare. Therefore, one who yearns to be passion-free should destroy his own craving.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **343** 
+     - **342-343** [ThaniSFn-V343]_
+       ::
+              
+          Encircled with craving,   
+          people hop round & around   
+          like a rabbit caught in a snare.    
+          Tied with fetters & bonds   
+          they go on to suffering,    
+          again & again, for long.    
+              
+          Encircled with craving,   
+          people hop round & around   
+          like a rabbit caught in a snare.    
+            So a monk 
+          should dispel   craving,    
+          should aspire   to dispassion   
+            for himself.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **343** 
-       | 
+       |  When a person’s entangled by craving, 
+       |  He quails like a trapped mountain hare. 
+       |  So, if he is longing for freedom, 
+       |  A bhikkhu should craving forswear.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 343 
+     - 343 Men, driven on by thirst, run about like a snared hare; let therefore the mendicant drive out thirst, by striving after passionlessness for himself.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 343 <{filename}../dhA/dhA-chap24%zh.rst#Dhp343>`__
@@ -562,20 +743,36 @@
        2. 法集要頌經：非園脫於園，脫園復就園，當復觀此人，脫縛復就縛T4,791c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 344. 
+     - IT IS FOOLISH TO RETURN TO WORLDLY LIFE
+ 
+       344. Whoever with no desire (for the household) finds pleasure in the forest (of asceticism) and though freed from desire (for the household), (yet) runs back to that very home. Come, behold that man! Freed, he runs back into that very bondage. [NāradaFn24-08]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **344.** 
+     - **344.** There is one who, turning away from desire (for household life) takes to the life of the forest (i.e., of a monk). But after being freed from the household, he runs back to it. Behold that man! Though freed, he runs back to that very bondage! [BudRkFn-v344]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **344** 
+     - **344** 
+       ::
+              
+          Cleared of the underbrush   
+          but obsessed with the forest,   
+          set free from the forest,   
+          right back to the forest he runs.   
+          Come, see the person set free   
+          who runs right back to the same old chains!
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **344** 
-       | 
+       |  Having mastered his sensual ‘woulds’ [VaradoFn-V344]_ 
+       |  A monk set his heart on the woods.  
+       |  Though free in his life in the woods  
+       |  He returned to his earlier ‘woulds’.  
+       |    
+       |  Come and examine the person, once free, 
+       |  Returning himself to captivity.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 344 
+     - 344 He who having got rid of the forest (of lust) (i.e. after having reached Nirvana) gives himself over to forest-life (i.e. to lust), and who, when removed from the forest (i.e. from lust), runs to the forest (i.e. to lust), look at that man! though free, he runs into bondage.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 344 <{filename}../dhA/dhA-chap24%zh.rst#Dhp344>`__
@@ -616,20 +813,66 @@
        | 6. 別雜62：王者繫縛人，以鐵木及繩，賢聖觀斯事，深知非牢縛。若戀於妻子，錢財及珍寶，如是繫縛人，堅牢過於彼。妻子及財寶，愚人生繫著，其實如瀑流，漂沒諸凡夫，是以宜速逝，趣向於解脫T2,395b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 345. 
+     - ATTACHMENT TO WORLDLY OBJECTS IS FAR STRONGER THAN IRON CHAINS
+
+       345. That which is made of iron, wood or hemp, is not a strong bond, say the wise; the longing for jewels, ornaments, children, and wives is a far greater attachment.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **345.** 
+     - **345-346.** That is not a strong fetter, the wise say, which is made of iron, wood or hemp. But the infatuation and longing for jewels and ornaments, children and wives — that, they say, is a far stronger fetter, which pulls one downward and, though seemingly loose, is hard to remove. This, too, the wise cut off. Giving up sensual pleasure, and without any longing, they renounce the world.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **345** 
+     - **345-347** 
+       ::
+              
+          That's not a strong bond    
+           — so say the enlightened —   
+          the one made of iron, of wood, or of grass.   
+          To be smitten, enthralled,    
+            with jewels & ornaments,  
+            longing for children & wives: 
+          that's the strong bond,   
+           — so say the enlightened —   
+          one that's constraining,    
+            elastic,  
+            hard to untie.  
+          But having cut it, they   
+           — the enlightened — go forth,    
+          free of longing, abandoning   
+            sensual ease. 
+              
+          Those smitten with passion    
+               fall back  
+          into a self-made stream,    
+          like a spider snared in its web.    
+          But, having cut it, the enlightened set forth,    
+          free of longing, abandoning   
+            all suffering & stress.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **345** 
-       | 
+     - | **345 & 346** 
+       |    
+       |  That bond is weak,  
+       |  The wise opine, 
+       |  That’s made of teak 
+       |  Or bronze or twine. 
+       |    
+       |  Craving for gems  
+       |  And lusting for ladies, 
+       |  Relishing rings 
+       |  And longing for babies: 
+       |    
+       |  These are the bonds   
+       |  That truly are strong;  
+       |  Though easy to don, (4)  
+       |  They’re tenacious once on.  
+       |    
+       |  The wise thus proceed 
+       |  These bonds having severed, 
+       |  Free of all longing 
+       |  And rid of sense pleasure.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 345 
+     - 345 Wise people do not call that a strong fetter which is made of iron, wood, or hemp; far stronger is the care for precious stones and rings, for sons and a wife.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 345 <{filename}../dhA/dhA-chap24%zh.rst#Dhp345>`__
@@ -670,20 +913,66 @@
        | 6. 別雜62：王者繫縛人，以鐵木及繩，賢聖觀斯事，深知非牢縛。若戀於妻子，錢財及珍寶，如是繫縛人，堅牢過於彼。妻子及財寶，愚人生繫著，其實如瀑流，漂沒諸凡夫，是以宜速逝，趣向於解脫T2,395b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 346. 
+     - RENOUNCE SENSUAL PLEASURES
+
+       346. That bond is strong, say the wise. It hurls down, is supple, and is hard to loosen. This too the wise cut off, and leave the world, with no longing, renouncing sensual pleasures.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **346.** 
+     - **345-346.** That is not a strong fetter, the wise say, which is made of iron, wood or hemp. But the infatuation and longing for jewels and ornaments, children and wives — that, they say, is a far stronger fetter, which pulls one downward and, though seemingly loose, is hard to remove. This, too, the wise cut off. Giving up sensual pleasure, and without any longing, they renounce the world.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **346** 
+     - **345-347** [ThaniSFn-V346]_
+       ::
+              
+          That's not a strong bond    
+           — so say the enlightened —   
+          the one made of iron, of wood, or of grass.   
+          To be smitten, enthralled,    
+            with jewels & ornaments,  
+            longing for children & wives: 
+          that's the strong bond,   
+           — so say the enlightened —   
+          one that's constraining,    
+            elastic,  
+            hard to untie.  
+          But having cut it, they   
+           — the enlightened — go forth,    
+          free of longing, abandoning   
+            sensual ease. 
+              
+          Those smitten with passion    
+               fall back  
+          into a self-made stream,    
+          like a spider snared in its web.    
+          But, having cut it, the enlightened set forth,    
+          free of longing, abandoning   
+            all suffering & stress.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **346** 
-       | 
+     - | **345 & 346** 
+       |    
+       |  That bond is weak,  
+       |  The wise opine, 
+       |  That’s made of teak 
+       |  Or bronze or twine. 
+       |    
+       |  Craving for gems  
+       |  And lusting for ladies, 
+       |  Relishing rings 
+       |  And longing for babies: 
+       |    
+       |  These are the bonds   
+       |  That truly are strong;  
+       |  Though easy to don, [VaradoFn-V346]_   
+       |  They’re tenacious once on.  
+       |    
+       |  The wise thus proceed 
+       |  These bonds having severed, 
+       |  Free of all longing 
+       |  And rid of sense pleasure.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 346 
+     - 346 That fetter wise people call strong which drags down, yields, but is difficult to undo; after having cut this at last, people leave the world, free from cares, and leaving desires and pleasures behind.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 346 <{filename}../dhA/dhA-chap24%zh.rst#Dhp346>`__
@@ -717,20 +1006,50 @@
        2. 法句譬喻經：以婬樂自裹，譬如蠶作繭，智者能斷棄，不眄除眾苦T4,602b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 347. 
+     - THE LUSTFUL ARE CAUGHT IN THEIR OWN WEB
+
+       347. Those who are infatuated with lust fall back into the stream as (does) a spider into the web spun by itself. This too the wise cut off and wander, with no longing, released from all sorrow.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **347.** 
+     - **347.** Those who are lust-infatuated fall back into the swirling current (of samsara) like a spider on its self-spun web. This, too, the wise cut off. Without any longing, they abandon all suffering and renounce the world.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **347** 
+     - **345-347** 
+       ::
+              
+          That's not a strong bond    
+           — so say the enlightened —   
+          the one made of iron, of wood, or of grass.   
+          To be smitten, enthralled,    
+            with jewels & ornaments,  
+            longing for children & wives: 
+          that's the strong bond,   
+           — so say the enlightened —   
+          one that's constraining,    
+            elastic,  
+            hard to untie.  
+          But having cut it, they   
+           — the enlightened — go forth,    
+          free of longing, abandoning   
+            sensual ease. 
+              
+          Those smitten with passion    
+               fall back  
+          into a self-made stream,    
+          like a spider snared in its web.    
+          But, having cut it, the enlightened set forth,    
+          free of longing, abandoning   
+            all suffering & stress.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **347** 
-       | 
+       |  Those flowing with lust will fall into its current, 
+       |  Like into its web a spider might plummet. 
+       |  Removing their passion, the wise thus proceed 
+       |  Without any longings, from sorrowing freed.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 347 
+     - 347 Those who are slaves to passions, run down with the stream (of desires), as a spider runs down the web which he has made himself; when they have cut this, at last, wise people leave the world free from cares, leaving all affection behind.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 347 <{filename}../dhA/dhA-chap24%zh.rst#Dhp347>`__
@@ -762,20 +1081,34 @@
        2. 法集要頌經：捨前及捨後，捨間越於有，一切盡皆捨，不復受生老T4,794a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 348. 
+     - RELEASE YOUR MIND
+
+       348. Let go the past. Let go the future. Let go the present [NāradaFn24-10]_ (front, back and middle). Crossing to the farther shore of existence, with mind released from everything, do not again undergo birth and decay.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **348.** 
+     - **348.** Let go of the past, let go of the future, let go of the present, and cross over to the farther shore of existence. With mind wholly liberated, you shall come no more to birth and death.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **348** 
+     - **348** [ThaniSFn-V348]_
+       ::
+              
+          Gone to the beyond of becoming,   
+            you let go of in front, 
+              let go of behind,
+              let go of between.
+          With a heart everywhere let-go,   
+          you don't come again to birth   
+              & aging.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **348** 
-       | 
+       |  Let go of what’s been and whatever’s foreseen,  
+       |  And let go of the present which stands in between.  
+       |  Having left all becoming, with mind well-released,  
+       |  Then returning to birth and old-age, you will cease.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 348 
+     - 348 Give up what is before, give up what is behind, give up what is in the middle, when thou goest to the other shore of existence; if thy mind is altogether free, thou wilt not again enter into birth and decay.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 348 <{filename}../dhA/dhA-chap24%zh.rst#Dhp348>`__
@@ -811,20 +1144,43 @@
        | 5. 瑜伽：眾生尋思所鑽搖，猛利貪欲隨觀妙，倍增染愛而流轉，便能自為堅固縛T30,379b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 349. 
+     - CRAVING GROWS IN THE PASSIONATE
+
+       349. For the person who is perturbed by (evil) thoughts, who is exceedingly lustful, who contemplates pleasant things, craving increases more and more. Surely, he makes the bond (of Māra) stronger.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **349.** 
+     - **349.** For a person tormented by evil thoughts, who is passion-dominated and given to the pursuit of pleasure, his craving steadily grows. He makes the fetter strong, indeed.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **349** 
+     - **349-350** 
+       ::
+              
+          For a person    
+            forced on by his thinking,  
+            fierce in his passion,  
+            focused on beauty,  
+          craving grows all the more.   
+          He's the one    
+            who tightens the bond.  
+              
+          But one who delights    
+            in the stilling of thinking,  
+          always  mindful   
+                   cultivating  
+            a focus on the foul:  
+          He's the one    
+            who will make an end, 
+          the one who will cut Mara's bond.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **349** 
-       | 
+       |  Whoever by fanciful thinking’s oppressed, 
+       |  Full of strong passions, with beauty obsessed,  
+       |  He generates craving, he cultivates lust, 
+       |  That person indeed makes his fetters robust.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 349 
+     - 349 If a man is tossed about by doubts, full of strong passions, and yearning only for what is delightful, his thirst will grow more and more, and he will indeed make his fetters strong.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 349 <{filename}../dhA/dhA-chap24%zh.rst#Dhp349>`__
@@ -858,20 +1214,43 @@
        4. 法集要頌經：離貪善觀察，疑慮得消除，棄捨彼貪愛，堅固縛自壞T4,778b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 350. 
+     - THE MINDFUL END CRAVING
+
+       350. He who delights in subduing (evil) thoughts, who meditates on "the loathesomeness" [NāradaFn24-11]_ (of the body) who is ever mindful - it is he who will make an end (of craving). He will sever Māra's bond.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **350.** 
+     - **350.** He who delights in subduing evil thoughts, who meditates on the impurities and is ever mindful — it is he who will make an end of craving and rend asunder Mara's fetter.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **350** 
+     - **349-350** [ThaniSFn-V350]_
+       ::
+              
+          For a person    
+            forced on by his thinking,  
+            fierce in his passion,  
+            focused on beauty,  
+          craving grows all the more.   
+          He's the one    
+            who tightens the bond.  
+              
+          But one who delights    
+            in the stilling of thinking,  
+          always  mindful   
+                   cultivating  
+            a focus on the foul:  
+          He's the one    
+            who will make an end, 
+          the one who will cut Mara's bond.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **350** 
-       | 
+       |  Whoever’s devoted to calming his thinking,  
+       |  Who’s mindful of bodily aspects unpleasing, 
+       |  That person erases his sensual ardour:  
+       |  He shatters asunder the fetters of Mara.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 350 
+     - 350 If a man delights in quieting doubts, and, always reflecting, dwells on what is not delightful (the impurity of the body, &c.), he certainly will remove, nay, he will cut the fetter of Mara.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 350 <{filename}../dhA/dhA-chap24%zh.rst#Dhp350>`__
@@ -905,20 +1284,47 @@
        | 3. 大婆沙：已到究竟者，無怖無疑悔，永拔有箭故，彼住後邊身T27,173a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 351. 
+     - HE WHO IS FREE FROM CRAVING IS IN HIS FINAL LIFE
+
+       351. He who has reached the goal, is fearless, is without craving, is passionless, has cut off the thorns of life. This is his final body.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **351.** 
+     - **351.** He who has reached the goal, is fearless, free from craving, passionless, and has plucked out the thorns of existence — for him this is the last body.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **351** 
+     - **351-352** 
+       ::
+              
+          Arrived at the finish,    
+          unfrightened, unblemished, free   
+          of craving, he has cut away   
+          the arrows of becoming.   
+          This physical heap is his last.   
+              
+          Free from craving,    
+          ungrasping,   
+          astute in expression,   
+          knowing the combination of sounds —   
+          which comes first & which after.    
+          He's called a   
+            last-body 
+            greatly discerning  
+            great man.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **351** 
-       | 
+     - **351** 
+       ::
+              
+         The person who  
+                   has attained the Goal;  
+                   is free of trembling; 
+                   is free of craving; 
+                   is free of blemish; 
+                   has removed the dart of existence:  
+         this is his last body.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 351 
+     - 351 He who has reached the consummation, who does not tremble, who is without thirst and without sin, he has broken all the thorns of life: this will be his last body.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 351 <{filename}../dhA/dhA-chap24%zh.rst#Dhp351>`__
@@ -952,20 +1358,46 @@
      - 1. 法句經：盡道除獄縛，一切此彼解，已得度邊行，是為大智士T4,571b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 352. 
+     - THE NON-ATTACHED PERSON IS A GREAT SAGE
+
+       352. He who is without craving and grasping, who is skilled in etymology and terms, [NāradaFn24-12]_ who knows the grouping of letters and their sequence - it is he who is called the bearer of the final body, one of profound wisdom, a great man.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **352.** 
+     - **352.** He who is free from craving and attachment, is perfect in uncovering the true meaning of the Teaching, and knows the arrangement of the sacred texts in correct sequence — he, indeed, is the bearer of his final body. He is truly called the profoundly wise one, the great man.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **352** 
+     - **351-352** [ThaniSFn-V352]_
+       ::
+              
+          Arrived at the finish,    
+          unfrightened, unblemished, free   
+          of craving, he has cut away   
+          the arrows of becoming.   
+          This physical heap is his last.   
+              
+          Free from craving,    
+          ungrasping,   
+          astute in expression,   
+          knowing the combination of sounds —   
+          which comes first & which after.    
+          He's called a   
+            last-body 
+            greatly discerning  
+            great man.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **352** 
-       | 
+       |  Whoever’s adept at linguistics, 
+       |  Proficient in words and semantics,  
+       |  And skilled in phonetics, 
+       |  An expert in syntax,  
+       |  Whose craving and clinging’s destroyed: 
+       |  “A great intellect”,  
+       |  “The salt of the earth”,  
+       |  “A last-body person” is called. [VaradoFn-V352]_
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 352 
+     - 352 He who is without thirst and without affection, who understands the words and their interpretation, who knows the order of letters (those which are before and which are after), he has received his last body, he is called the great sage, the great man.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 352 <{filename}../dhA/dhA-chap24%zh.rst#Dhp352>`__
@@ -1010,20 +1442,42 @@
        | 10. 別雜：一切世間，我悉知之，捨棄一切，盡諸愛結。如此勝法，名為獨住T2,376b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 353. 
+     - THE OMNISCIENT ONE HAS NO TEACHER
+
+       353. All have I overcome, all do I know. From all am I detached. All have I renounced. Wholly absorbed am I in "the destruction of craving". [NāradaFn24-13]_ Having comprehended all by myself, whom shall I call my teacher?
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **353.** 
+     - **353.** A victor am I over all, all have I known. Yet unattached am I to all that is conquered and known. Abandoning all, I am freed through the destruction of craving. Having thus directly comprehended all by myself, whom shall I call my teacher? [BudRkFn-v353]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **353** 
+     - **353** [ThaniSFn-V353]_
+       ::
+              
+          All-conquering,   
+          all-knowing am I,   
+          with regard to all things,    
+            unadhering. 
+          All-abandoning,   
+          released in the ending of craving:    
+          having fully known on my own,   
+          to whom should I point as my teacher?
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **353** 
-       | 
+       |  All-conquering, I:  
+       |  All things do I know, 
+       |  And by all things am I undefiled. 
+       |    
+       |  By destruction of craving,  
+       |  I’m utterly free; 
+       |  By renouncing, I’ve left all behind.  
+       |    
+       |  Having thus comprehended  
+       |  All things by myself, 
+       |  Then who could I say was my guide?
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 353 
+     - 353 'I have conquered all, I know all, in all conditions of life I am free from taint; I have left all, and through the destruction of thirst I am free; having learnt myself, whom shall I teach?'
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 353 <{filename}../dhA/dhA-chap24%zh.rst#Dhp353>`__
@@ -1058,20 +1512,32 @@
        3. 法集要頌經：眾施法施勝，眾樂法樂上，眾力忍力最，愛盡圓寂樂T4,791a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 354. 
+     - THE GIFT OF TRUTH EXCELS ALL OTHER GIFTS
+
+       354. The gift of Truth excels all (other) gifts. The flavour of Truth excels all (other) flavours. The pleasure in Truth excels all (other) pleasures. He who has destroyed craving overcomes all sorrow.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **354.** 
+     - **354.** The gift of Dhamma excels all gifts; the taste of the Dhamma excels all tastes; the delight in Dhamma excels all delights. The Craving-Freed vanquishes all suffering.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **354** 
+     - **354** [ThaniSFn-V354]_
+       ::
+              
+          A gift of Dhamma conquers   all gifts;    
+          the taste of Dhamma,            all tastes;   
+          a delight in Dhamma,            all delights;   
+          the ending of craving,      all suffering   
+                                       & stress.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **354** 
-       | 
+       |  The giving of Dhamma surpasses all gifts; 
+       |  The pleasure of Dhamma surpasses all bliss; 
+       |  The flavour of Dhamma, of tastes, is the chief; 
+       |  For in conquering craving, one conquers all grief.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 354 
+     - 354 The gift of the law exceeds all gifts; the sweetness of the law exceeds all sweetness; the delight in the law exceeds all delights; the extinction of thirst overcomes all pain.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 354 <{filename}../dhA/dhA-chap24%zh.rst#Dhp354>`__
@@ -1105,20 +1571,35 @@
        4. 法集要頌經：愚以貪自縛，不求度彼岸，貪財為愛欲，害人亦自縛T4,778b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 355. 
+     - RICHES RUIN THE IGNORANT
+
+       355. Riches ruin the foolish, but not those in quest of the Beyond (Nibbāna). Through craving for riches the ignorant man ruins himself as (if he were ruining) others.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **355.** 
+     - **355.** Riches ruin only the foolish, not those in quest of the Beyond. By craving for riches the witless man ruins himself as well as others.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **355** 
+     - **355** 
+       ::
+              
+          Riches ruin the man   
+          weak in discernment,    
+          but not those who seek    
+            the beyond. 
+          Through craving for riches    
+          the man weak in discernment   
+               ruins himself  
+          as he would others.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **355** 
-       | 
+       |  Wealth will surely harm the witless,  
+       |  Not the seekers of the Deathless. 
+       |  Fools, in craving revenue,  
+       |  Will harm themselves and others too.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 355 
+     - 355 Pleasures destroy the foolish, if they look not for the other shore; the foolish by his thirst for pleasures destroys himself, as if he were his own enemy.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 355 <{filename}../dhA/dhA-chap24%zh.rst#Dhp355>`__
@@ -1156,20 +1637,50 @@
        | 7. 舊婆沙：欲心壞眾生，如草敗良田，若施無欲者，必得於大果T28,110c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 356. 
+     - LUST IS THE BLEMISH OF MANKIND
+
+       356. Weeds are the bane of fields, lust is the bane of mankind. Hence what is given to those lustless yields abundant fruit.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **356.** 
+     - **356.** Weeds are the bane of fields, lust is the bane of mankind. Therefore, what is offered to those free of lust yields abundant fruit.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **356** 
+     - **356-359** 
+       ::
+              
+          Fields are spoiled by weeds;    
+          people, by passion.   
+          So what's given to those    
+          free of passion   
+            bears great fruit.  
+              
+          Fields are spoiled by weeds;    
+          people, by aversion.    
+          So what's given to those    
+          free of aversion    
+            bears great fruit.  
+              
+          Fields are spoiled by weeds;    
+          people, by delusion.    
+          So what's given to those    
+          free of delusion    
+            bears great fruit.  
+              
+          Fields are spoiled by weeds;    
+          people, by longing.   
+          So what's given to those    
+          free of longing   
+            bears great fruit.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **356** 
-       | 
+       |  A flaw of crops is rust;  
+       |  A flaw of men is lust.  
+       |  Thus, fruits of gifts to him are great, 
+       |  The one who’s rid of lustful states.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 356 
+     - 356 The fields are damaged by weeds, mankind is damaged by passion: therefore a gift bestowed on the passionless brings great reward.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 356 <{filename}../dhA/dhA-chap24%zh.rst#Dhp356>`__
@@ -1201,20 +1712,50 @@
        2. 法集要頌經：猶如穢惡田，瞋恚滋蔓生，是故當離恚，施報無有量T4,785b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 357. 
+     - HATRED IS THE BLEMISH OF MANKIND
+
+       357. Weeds are the bane of fields, hatred is the bane of mankind. Hence what is given to those rid of hatred yields abundant fruit.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **357.** 
+     - **357.** Weeds are the bane of fields, hatred is the bane of mankind. Therefore, what is offered to those free of hatred yields abundant fruit.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **357** 
+     - **356-359** 
+       ::
+              
+          Fields are spoiled by weeds;    
+          people, by passion.   
+          So what's given to those    
+          free of passion   
+            bears great fruit.  
+              
+          Fields are spoiled by weeds;    
+          people, by aversion.    
+          So what's given to those    
+          free of aversion    
+            bears great fruit.  
+              
+          Fields are spoiled by weeds;    
+          people, by delusion.    
+          So what's given to those    
+          free of delusion    
+            bears great fruit.  
+              
+          Fields are spoiled by weeds;    
+          people, by longing.   
+          So what's given to those    
+          free of longing   
+            bears great fruit.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **357** 
-       | 
+       |  A flaw of crops is blight;  
+       |  A flaw of men is spite. 
+       |  Thus, fruits of gifts to him are great, 
+       |  The one who’s rid of spiteful states.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 357 
+     - 357 The fields are damaged by weeds, mankind is damaged by hatred: therefore a gift bestowed on those who do not hate brings great reward.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 357 <{filename}../dhA/dhA-chap24%zh.rst#Dhp357>`__
@@ -1246,20 +1787,50 @@
        2. 法集要頌經：猶如穢惡田，愚癡滋蔓生，是故當離愚，獲報無有量T4,785b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 358. 
+     - DELUSION IS THE BLEMISH OF MANKIND
+
+       358. Weeds are the bane of fields, delusion is the bane of mankind. Hence what is given to those rid of delusion yields abundant fruit.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **358.** 
+     - **358.** Weeds are the bane of fields, delusion is the bane of mankind. Therefore, what is offered to those free of delusion yields abundant fruit.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **358** 
+     - **356-359** 
+       ::
+              
+          Fields are spoiled by weeds;    
+          people, by passion.   
+          So what's given to those    
+          free of passion   
+            bears great fruit.  
+              
+          Fields are spoiled by weeds;    
+          people, by aversion.    
+          So what's given to those    
+          free of aversion    
+            bears great fruit.  
+              
+          Fields are spoiled by weeds;    
+          people, by delusion.    
+          So what's given to those    
+          free of delusion    
+            bears great fruit.  
+              
+          Fields are spoiled by weeds;    
+          people, by longing.   
+          So what's given to those    
+          free of longing   
+            bears great fruit.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **358** 
-       | 
+       |  A flaw of a coppice is holly; 
+       |  A flaw of men is folly. 
+       |  Thus, fruits of gifts to him are great, 
+       |  The one who’s rid of foolish states.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 358 
+     - 358 The fields are damaged by weeds, mankind is damaged by vanity: therefore a gift bestowed on those who are free from vanity brings great reward.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 358 <{filename}../dhA/dhA-chap24%zh.rst#Dhp358>`__
@@ -1305,20 +1876,50 @@
        2. 法集要頌經：猶如穢惡田，愛樂滋蔓生，是故當離愛，獲報無有量T4,785b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 359. 
+     - DESIRE IS THE BLEMISH OF MANKIND
+
+       359. Weeds are the bane of fields, craving is the bane of mankind. Hence what is given to those rid of craving yields abundant fruit.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **359.** 
+     - **359.** Weeds are the bane of fields, desire is the bane of mankind. Therefore, what is offered to those free of desire yields abundant fruit.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **359** 
+     - **356-359** 
+       ::
+              
+          Fields are spoiled by weeds;    
+          people, by passion.   
+          So what's given to those    
+          free of passion   
+            bears great fruit.  
+              
+          Fields are spoiled by weeds;    
+          people, by aversion.    
+          So what's given to those    
+          free of aversion    
+            bears great fruit.  
+              
+          Fields are spoiled by weeds;    
+          people, by delusion.    
+          So what's given to those    
+          free of delusion    
+            bears great fruit.  
+              
+          Fields are spoiled by weeds;    
+          people, by longing.   
+          So what's given to those    
+          free of longing   
+            bears great fruit.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **359** 
-       | 
+       |  A flaw of fields is weeds;  
+       |  A flaw of men is greed. 
+       |  Thus, fruits of gifts to him are great, 
+       |  The one who’s rid of greedy states.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 359 
+     - 359 The fields are damaged by weeds, mankind is damaged by lust: therefore a gift bestowed on those who are free from lust brings great reward.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十四：愛欲品 Dhp. 359 <{filename}../dhA/dhA-chap24%zh.rst#Dhp359>`__
@@ -1356,7 +1957,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -1394,6 +1995,83 @@
 
 .. [LChnFn24-13] 〔註24-13〕  這是佛陀成道之後，從菩提場去鹿野苑的時候，在路上碰到一位異教徒的修道者--優波迦 (Upaka)，問佛陀道：『你從誰而出家？誰是你的師父？你信什麼宗教』？於是佛陀答以此頌。
 
+.. [NāradaFn24-01] (Ven. Nārada 24-01) Craving is threefold, viz: craving for sensual pleasures (kāmataṇhā), craving connected with the notion of eternalism (bhavataṇhā), and craving connected with the notion of nihilism (vibhavataṇhā).
+
+                    Craving for personal sense-fields, such as eye, ear, nose, tongue, body and mind, and for external sense-fields, such as form, sound, scent, taste, contact, and dhammas (mental objects), when viewed in the foregoing three aspects, divides itself into thirty-six varieties. When they are viewed according to past, present, and future they become one hundred and eight.
+
+                    Bhavataṇhā may also be interpreted as attachment to life or Realms of Form, and vibhavataṇhā as attachment to annihilation or Formless Realms.
+
+.. [NāradaFn24-02] (Ven. Nārada 24-02) Passions.
+
+.. [NāradaFn24-03] (Ven. Nārada 24-03) See note on v. 334.
+
+.. [NāradaFn24-04] (Ven. Nārada 24-04) Through the six sense-doors.
+
+.. [NāradaFn24-05] (Ven. Nārada 24-05) That is, from the six sense-doors.
+
+.. [NāradaFn24-06] (Ven. Nārada 24-06) Resting on the six sense-objects.
+
+.. [NāradaFn24-07] (Ven. Nārada 24-07) There are five kinds of bonds (saṅga) - namely: lust, hatred, delusion, pride, and false views.
+
+.. [NāradaFn24-08] (Ven. Nārada 24-08) Here is a pun on the two meanings of vana, forest and desire.
+
+.. [NāradaFn24-09] (Ven. Nārada 24-09) Editor's note: The text here actually reads vajanti dhīrā, as in the following verse; but Ven Nārada translates: 'leave the world' which can only refer to paribbajanti as in other editions.
+
+.. [NāradaFn24-10] (Ven. Nārada 24-10) That is, attachment to the past, present, and future Aggregates.
+
+.. [NāradaFn24-11] (Ven. Nārada 24-11) This is the meditation on the impurities of the body by practising which one can get rid of attachment to the body.
+
+.. [NāradaFn24-12] (Ven. Nārada 24-12) Niruttipadakovido - versed in the four kinds of analytical knowledge (pañisambhidā) - namely: meaning (attha), text (dhamma), etymology (nirutti), and understanding (pañibhāna).
+
+.. [NāradaFn24-13] (Ven. Nārada 24-13) Arahantship.
+
+.. [BudRkFn-v339] (Ven. Buddharakkhita (v. 339) The thirty-six currents of craving: the three cravings — for sensual pleasure, for continued existence, and for annihilation — in relation to each of the twelve bases — the six sense organs, including mind, and their corresponding objects.
+
+.. [BudRkFn-v344] (Ven. Buddharakkhita (v. 344) This verse, in the original, puns with the Pali word vana meaning both "desire" and "forest."
+
+.. [BudRkFn-v353] (Ven. Buddharakkhita (v. 353) This was the Buddha's reply to a wandering ascetic who asked him about his teacher. The Buddha's answer shows that Supreme Enlightenment was his own unique attainment, which he had not learned from anyone else.
+
+.. [ThaniSFn-V337] (Ven. Thanissaro V. 337) This verse provides a Buddhist twist to the typical benedictions found in works of kavya. Instead of expressing a wish that the listeners meet with wealth, fame, status, or other worldly forms of good fortune, it describes the highest good fortune, which can be accomplished only through one's own skillful kamma: the uprooting of craving and the resulting state of total freedom from the round of death and rebirth. A similar twist on the theme of good fortune is found in the Mangala Sutta (Khp.5, Sn 2.4), which teaches that the best protective charm is to develop skillful kamma, ultimately developing the mind to the point where it is untouched by the vagaries of the world.
+
+.. [ThaniSFn-V339] (Ven. Thanissaro V. 339) 36 streams = three forms of desire for each of the internal and external sense spheres (see note 294) — 3 x 2 x 6 = 36. According to one sub-commentary, the three forms of desire are desires focused on the present, past, and future. According to another, they are craving for sensuality, craving for becoming, and craving for no-becoming.
+
+.. [ThaniSFn-V340] (Ven. Thanissaro V. 340) "Every which way": Reading sabbadhi with the Thai and Burmese editions. The creeper, according to DhpA, is craving, which sends thoughts out to wrap around its objects, while it itself stays rooted in the mind.
+
+.. [ThaniSFn-V341] (Ven. Thanissaro V. 341) This verse contains an implied simile: the terms "loosened & oiled," here applied to joys, were commonly used to describe smooth bowel movements.
+
+.. [ThaniSFn-V343] (Ven. Thanissaro V. 343) For the various meanings that attano — "for himself" — can have in this verse, see note 402.
+
+.. [ThaniSFn-V346] (Ven. Thanissaro V. 346) "Elastic": The usual translation for sithilam — "slack" — does not fit in this verse, but all the Pali recensions are unanimous on this reading, so I have chosen a near synonym that does. The Patna Dhp renders this term as "subtle," whereas the Tibetan commentary to the Udanavarga explains the line as a whole as meaning "hard for the slack to untie." Both alternatives make sense, but may be attempts to "correct" a term that could well have originally meant "elastic," a meaning that got lost with the passage of time.
+
+.. [ThaniSFn-V348] (Ven. Thanissaro V. 348) DhpA: In front = the aggregates of the past; behind = the aggregates of the future; in between = the aggregates of the present. See also note 385.
+
+.. [ThaniSFn-V350] (Ven. Thanissaro V. 350) "A focus on the foul": A meditative exercise in focusing on the foul parts of the body so as to help undercut lust and attachment for the body. See note 7-8.
+
+.. [ThaniSFn-V352] (Ven. Thanissaro V. 352) "Astute in expression, knowing the combination of sounds — which comes first & which after": Some arahants, in addition to their ability to overcome all of their defilements, are also endowed with four forms of acumen (patisambhida), one of which is acumen with regard to expression (nirutti-patisambhida), i.e., a total mastery of linguistic expression. This talent in particular must have been of interest to the anthologist(s) who put together the Dhp.
+
+                     "Last-body": Because an arahant will not be reborn, this present body is his/her last.
+
+.. [ThaniSFn-V353] (Ven. Thanissaro V. 353) According to MN 26 and Mv I.6.7, one of the first people the Buddha met after his Awakening was an ascetic who commented on the clarity of his faculties and asked who his teacher was. This verse was part of the Buddha's response.
+
+.. [ThaniSFn-V354] (Ven. Thanissaro V. 354) This verse contains several terms related to aesthetics. Both dhamma (justice) and dana (gift/generosity) are sub-types of the heroic rasa, or savor. (See the Introduction.) The third sub-type of the heroic — yuddha (warfare) — is suggested by the verb "conquer," which occurs four times in the Pali. Rati (delight/love) is the emotion (bhava) that corresponds to the sensitive rasa. In effect, the verse is saying that the highest forms of rasa and emotion are those related to Dhamma; the highest expression of the heroic Dhamma rasa is in the ending of craving.
+
+.. [VaradoFn-V340] (Ven. Varado V.340) Verse 340: "A river courses far and wide/ The creeping vine, where it sprouts it abides". I take this to mean that although sensation (vedana) courses far and wide, free of attachment, like a river, clinging is static, like a vine.  
+
+.. [VaradoFn-V341] (Ven. Varado V.341) Verse 341: My translation of the first line has been largely guided by the context of the second line. 
+
+.. [VaradoFn-V344] (Ven. Varado V.344) Verse 344: "wood/would" reflects the Pali "vana/vana" word-play. 
+
+.. [VaradoFn-V346] (Ven. Varado V.346) Verse 346: "easy to don" (ohārinaṃ sithilaṃ). Comments in PED suggest this can be translated as "yielding to take down". 
+
+.. [VaradoFn-V352] (Ven. Varado V.352) Verse 352:   
+                    Adept at linguistics (niruttipadakovido) which PED says means "skilled in the dialect or the original language of the holy Scriptures".   
+                  
+                    Proficient in words and semantics (sannipātaṃ) which PED says means "collocation" i.e. the characteristic combination of words in a language.
+
+                    Skilled in phonetics (akkhara) which PED says means "phonetics which probably included grammar".  
+                  
+                    Expert in syntax (pubbāparā) which PED says means what precedes and what follows, what comes first and what last, with reference to the successive order of syllables and words in the text of the Scriptures".
+
 ---------------------------
 
 - `法句經 (Dhammapada) <{filename}../dhp%zh.rst>`__
@@ -1405,4 +2083,3 @@
 ..
   三五五　財富毀滅愚人，決非求彼岸者。愚人為財欲害，自害如（害）他人。 (研讀). 
   原始佛典選譯(顧法嚴)(慧炬)p.127 增支部第三經
-

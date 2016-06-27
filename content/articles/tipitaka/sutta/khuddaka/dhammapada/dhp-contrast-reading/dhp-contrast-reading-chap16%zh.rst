@@ -3,7 +3,7 @@
 ========================================================================
 
 :date: 2016-06-04 16:30
-:modified: 2016-06-12 22:00
+:modified: 2016-06-27 15:00
 :tags: 法句經, 法句經對讀, 喜愛品, Dhp, Dhammapada, Piyavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Affection
@@ -78,20 +78,47 @@
      - 1. 法句經：違道則自順，順道則自違，捨義取所好，是為順愛欲T4,567c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 209. 
+     - **Chapter 16  Affection**
+       
+       **AVOID THAT WHICH SHOULD BE SHUNNED**
+
+       209. Applying oneself [NāradaFn16-01]_ to that which should be avoided, not applying oneself to that which should be pursued, [NāradaFn16-02]_ and giving up the quest, [NāradaFn16-03]_ one who goes after pleasure envies them who exert themselves. [NāradaFn16-04]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **209.** 
+     - **Dhp XVI Affection**
+
+       **209.** Giving himself to things to be shunned and not exerting where exertion is needed, a seeker after pleasures, having given up his true welfare, envies those intent upon theirs.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **209** 
+     - **Dhp XVI  Dear Ones**
+
+       **209** [ThaniSFn-V209]_
+       ::
+              
+          Having applied himself    
+          to what was not his own task,   
+          and not having applied himself    
+          to what was,    
+          having disregarded the goal   
+          to grasp at what he held dear,    
+          he now envies those   
+          who kept after themselves,    
+               took themselves  
+                   to task.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **209** 
-       | 
+     - **Chapter 16 Affection**
+
+       | **209** 
+       |  Having ventured upon what they should have eschewed,
+       |  And neglected whatever they should have pursued,
+       |  Having spurned their true welfare, held fast by affection,
+       |  Such envy the people with self-application.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 209 
+     - **Chapter XVI: Pleasure**
+
+       209 He who gives himself to vanity, and does not give himself to meditation, forgetting the real aim (of life) and grasping at pleasure, will in time envy him who has exerted himself in meditation.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 209 <{filename}../dhA/dhA-chap16%zh.rst#Dhp209>`__
@@ -124,20 +151,41 @@
        3. 法集要頌經：莫與愛念會，亦莫不念俱，念愛不見苦，不愛念憂慼T4,780b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 210. 
+     - GIVE UP BOTH WHAT IS DEAR AND NOT DEAR
+
+       210. Consort not with those that are dear, [NāradaFn16-05]_ never with those that are not dear; not seeing those that are dear and seeing those that are not dear, are both painful. [NāradaFn16-06]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **210.** 
+     - **210.** Seek no intimacy with the beloved and also not with the unloved, for not to see the beloved and to see the unloved, both are painful.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **210** 
+     - **210-211** 
+       ::
+              
+          Don't ever — regardless —   
+          be conjoined with what's dear   
+            or undear.  
+          It's painful    
+          not to see what's dear    
+          or to see what's not.   
+              
+          So don't make anything dear,    
+          for it's dreadful to be far   
+          from what's dear.   
+          No bonds are found    
+          for those for whom    
+          there's neither dear    
+          nor undear.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **210** 
-       | 
+       |  One shouldn't consort with the ones one adores,
+       |  And certainly never with those one abhors.
+       |  For painful it is to behold the displeasing,
+       |  And painful no longer to see the endearing.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 210 
+     - 210 Let no man ever look for what is pleasant, or what is unpleasant. Not to see what is pleasant is pain, and it is pain to see what is unpleasant.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 210 <{filename}../dhA/dhA-chap16%zh.rst#Dhp210>`__
@@ -169,20 +217,41 @@
        2. 出曜經：是故不生念，念者是惡累，彼則無諸縛，無念無不念T4,650c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 211. 
+     - HOLD NOTHING DEAR
+
+       211. Hence hold nothing dear, for separation from those that are dear is bad; bonds do not exist or those to whom naught is dear or not dear.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **211.** 
+     - **211.** Therefore hold nothing dear, for separation from the dear is painful. There are no bonds for those who have nothing beloved or unloved.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **211** 
+     - **210-211** 
+       ::
+              
+          Don't ever — regardless —   
+          be conjoined with what's dear   
+            or undear.  
+          It's painful    
+          not to see what's dear    
+          or to see what's not.   
+              
+          So don't make anything dear,    
+          for it's dreadful to be far   
+          from what's dear.   
+          No bonds are found    
+          for those for whom    
+          there's neither dear    
+          nor undear.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **211** 
-       | 
+       |  Attachment should not be developed:
+       |  The parting from loved ones is wretched.
+       |  Where nothing's detested and nothing’s beloved,
+       |  Attachment cannot, in such case, be discovered.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 211 
+     - 211 Let, therefore, no man love anything; loss of the beloved is evil. Those who love nothing and hate nothing, have no fetters.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 211 <{filename}../dhA/dhA-chap16%zh.rst#Dhp211>`__
@@ -222,20 +291,56 @@
        | 9. 四十二：從愛欲生憂，從憂生畏，無愛即無憂，不憂即無畏T17,723c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 212. 
+     - GRIEF SPRINGS FROM WHAT IS DEAR
+
+       212. From endearment springs grief, from endearment springs fear; for him who is wholly free from endearment there is no grief, much less fear.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **212.** 
+     - **212.** From endearment springs grief, from endearment springs fear. For one who is wholly free from endearment there is no grief, whence then fear?
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **212** 
+     - **212-216** 
+       ::
+              
+          From what's dear is born grief,   
+          from what's dear is born fear.    
+          For one freed from what's dear    
+          there's no grief    
+            — so how fear?  
+              
+          From what's loved is born grief,    
+          from what's loved is born fear.   
+          For one freed from what's loved   
+          there's no grief    
+            — so how fear?  
+              
+          From delight is born grief,   
+          from delight is born fear.    
+          For one freed from delight    
+          there's no grief    
+            — so how fear?  
+              
+          From sensuality is born grief,    
+          from sensuality is born fear.   
+          For one freed from sensuality   
+          there's no grief    
+            — so how fear?  
+              
+          From craving is born grief,   
+          from craving is born fear.    
+          For one freed from craving    
+          there's no grief    
+            — so how fear?
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **212** 
-       | 
+       |  Fondness leads to lamentation;
+       |  Fondness leads to trepidation.
+       |  Having reached emancipation,
+       |  Grief is not, whence trepidation?
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 212 
+     - 212 From pleasure comes grief, from pleasure comes fear; he who is free from pleasure knows neither grief nor fear.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 212 <{filename}../dhA/dhA-chap16%zh.rst#Dhp212>`__
@@ -266,20 +371,56 @@
      - 1. 法集要頌經：由愛生憂愁，由愛生怖畏，若遠離念愛，遂捨狂亂終T4,779c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 213. 
+     - GRIEF SPRINGS FROM AFFECTION
+
+       213. From affection springs grief, from affection springs fear; for him who is wholly free from affection there is no grief, much less fear.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **213.** 
+     - **213.** From affection springs grief, from affection springs fear. For one who is wholly free from affection there is no grief, whence then fear?
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **213** 
+     - **212-216** 
+       ::
+              
+          From what's dear is born grief,   
+          from what's dear is born fear.    
+          For one freed from what's dear    
+          there's no grief    
+            — so how fear?  
+              
+          From what's loved is born grief,    
+          from what's loved is born fear.   
+          For one freed from what's loved   
+          there's no grief    
+            — so how fear?  
+              
+          From delight is born grief,   
+          from delight is born fear.    
+          For one freed from delight    
+          there's no grief    
+            — so how fear?  
+              
+          From sensuality is born grief,    
+          from sensuality is born fear.   
+          For one freed from sensuality   
+          there's no grief    
+            — so how fear?  
+              
+          From craving is born grief,   
+          from craving is born fear.    
+          For one freed from craving    
+          there's no grief    
+            — so how fear?
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **213** 
-       | 
+       |  Love gives rise to lamentation;
+       |  Love gives rise to trepidation.
+       |  Having reached emancipation,
+       |  Grief is not, whence trepidation?
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 213 
+     - 213 From affection comes grief, from affection comes fear; he who is free from affection knows neither grief nor fear.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 213 <{filename}../dhA/dhA-chap16%zh.rst#Dhp213>`__
@@ -313,20 +454,56 @@
        4. 法集要頌經：從愛生煩惱，從愛生怖畏，離愛得解脫，無怖無煩惱T4,778a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 214. 
+     - GRIEF SPRINGS FROM ATTACHMENT
+
+       214. From attachment springs grief, from attachment springs fear; for him who is wholly free from attachment there is no grief, much less fear.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **214.** 
+     - **214.** From attachment springs grief, from attachment springs fear. For one who is wholly free from attachment there is no grief, whence then fear?
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **214** 
+     - **212-216** 
+       ::
+              
+          From what's dear is born grief,   
+          from what's dear is born fear.    
+          For one freed from what's dear    
+          there's no grief    
+            — so how fear?  
+              
+          From what's loved is born grief,    
+          from what's loved is born fear.   
+          For one freed from what's loved   
+          there's no grief    
+            — so how fear?  
+              
+          From delight is born grief,   
+          from delight is born fear.    
+          For one freed from delight    
+          there's no grief    
+            — so how fear?  
+              
+          From sensuality is born grief,    
+          from sensuality is born fear.   
+          For one freed from sensuality   
+          there's no grief    
+            — so how fear?  
+              
+          From craving is born grief,   
+          from craving is born fear.    
+          For one freed from craving    
+          there's no grief    
+            — so how fear?
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **214** 
-       | 
+       |  Passion leads to lamentation;
+       |  Passion leads to trepidation.
+       |  Having reached emancipation,
+       |  Grief is not, whence trepidation?
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 214 
+     - 214 From lust comes grief, from lust comes fear; he who is free from lust knows neither grief nor fear.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 214 <{filename}../dhA/dhA-chap16%zh.rst#Dhp214>`__
@@ -357,20 +534,56 @@
      - 1. 出曜經：愛欲生憂，愛欲生畏，無所愛欲，何憂何畏？T4,627c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 215. 
+     - GRIEF SPRINGS FROM LUST
+
+       215. From lust springs grief, from lust springs fear; for him who is wholly free from lust there is no grief, much less fear.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **215.** 
+     - **215.** From lust springs grief, from lust springs fear. For one who is wholly free from craving there is no grief; whence then fear?
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **215** 
+     - **212-216** 
+       ::
+              
+          From what's dear is born grief,   
+          from what's dear is born fear.    
+          For one freed from what's dear    
+          there's no grief    
+            — so how fear?  
+              
+          From what's loved is born grief,    
+          from what's loved is born fear.   
+          For one freed from what's loved   
+          there's no grief    
+            — so how fear?  
+              
+          From delight is born grief,   
+          from delight is born fear.    
+          For one freed from delight    
+          there's no grief    
+            — so how fear?  
+              
+          From sensuality is born grief,    
+          from sensuality is born fear.   
+          For one freed from sensuality   
+          there's no grief    
+            — so how fear?  
+              
+          From craving is born grief,   
+          from craving is born fear.    
+          For one freed from craving    
+          there's no grief    
+            — so how fear?
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **215** 
-       | 
+       |  Sensual lust brings lamentation.
+       |  Sensual lust brings trepidation.
+       |  Having reached emancipation,
+       |  Grief is not, whence trepidation?
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 215 
+     - 215 From love comes grief, from love comes fear; he who is free from love knows neither grief nor fear.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 215 <{filename}../dhA/dhA-chap16%zh.rst#Dhp215>`__
@@ -402,20 +615,56 @@
        2. 法句譬喻經：貪欲生憂，貪欲生畏，解無貪欲，何憂何畏？T4,595c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 216. 
+     - GRIEF SPRINGS FROM CRAVING
+
+       216. From craving springs grief, from craving springs fear; for him who is wholly free from craving there is no grief, much less fear.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **216.** 
+     - **216.** From craving springs grief, from craving springs fear. For one who is wholly free from craving there is no grief; whence then fear?
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **216** 
+     - **212-216** 
+       ::
+              
+          From what's dear is born grief,   
+          from what's dear is born fear.    
+          For one freed from what's dear    
+          there's no grief    
+            — so how fear?  
+              
+          From what's loved is born grief,    
+          from what's loved is born fear.   
+          For one freed from what's loved   
+          there's no grief    
+            — so how fear?  
+              
+          From delight is born grief,   
+          from delight is born fear.    
+          For one freed from delight    
+          there's no grief    
+            — so how fear?  
+              
+          From sensuality is born grief,    
+          from sensuality is born fear.   
+          For one freed from sensuality   
+          there's no grief    
+            — so how fear?  
+              
+          From craving is born grief,   
+          from craving is born fear.    
+          For one freed from craving    
+          there's no grief    
+            — so how fear?
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **216** 
-       | 
+       |  Craving kindles lamentation.
+       |  Craving kindles trepidation.
+       |  Having found emancipation,
+       |  Grief is not, whence trepidation?
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 216 
+     - 216 From greed comes grief, from greed comes fear; he who is free from greed knows neither grief nor fear.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 216 <{filename}../dhA/dhA-chap16%zh.rst#Dhp216>`__
@@ -451,20 +700,36 @@
        | 5. 瑜伽：住法具尸羅，有慚言諦實，能保愛自身，亦令他所愛T30,380b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 217. 
+     - THE VIRTUOUS ARE DEAR TO ALL
+
+       217. Whoso is perfect in virtue, [NāradaFn16-07]_ and insight, [NāradaFn16-08]_ is established in the Dhamma, [NāradaFn16-09]_ has realized the Truths, [NāradaFn16-10]_ and fulfils his own duties [NāradaFn16-11]_ - him do folk hold dear.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **217.** 
+     - **217.** People hold dear him who embodies virtue and insight, who is principled, has realized the truth, and who himself does what he ought to be doing.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **217** 
+     - **217** 
+       ::
+              
+          One consummate in virtue & vision,    
+          judicious,    
+          speaking the truth,   
+          doing his own task:   
+            the world holds him dear.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **217** 
-       | 
+     - **217** 
+       ::
+              
+         The religious 
+                   who are accomplished in virtue and insight;
+                   who are well-established in Dhamma;
+                   who know Truth;
+                   who have done what needed to be done for themselves:
+         laypeople adore them.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 217 
+     - 217 He who possesses virtue and intelligence, who is just, speaks the truth, and does what is his own business, him the world will hold dear.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 217 <{filename}../dhA/dhA-chap16%zh.rst#Dhp217>`__
@@ -497,20 +762,35 @@
        3. 出曜經：欲生無漏行，意願常充滿，於欲心不縛，上流一究竟T4,629c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 218. 
+     - THE NON-ATTACHED GO UPSTREAM
+
+       218. He who has developed a wish for the Undeclared [NāradaFn16-12]_ (Nibbāna), he whose mind is thrilled (with the three Fruits [NāradaFn16-13]_ ), he whose mind is not bound by material pleasures, such a person is called an "Upstream-bound One". [NāradaFn16-14]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **218.** 
+     - **218.** One who is intent upon the Ineffable (Nibbana), dwells with mind inspired (by supramundane wisdom), and is no more bound by sense pleasures — such a man is called "One Bound Upstream." [BudRkFn-v218]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **218** 
+     - **218** [ThaniSFn-V218]_
+       ::
+              
+            If  
+          you've given birth to a wish    
+            for what can't be expressed,  
+          are suffused with heart,    
+          your mind not enmeshed    
+          in sensual passions:    
+            you're said to be 
+            in the up-flowing stream.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **218** 
-       | 
+       |  Whoever have a longing to discover the ineffable,
+       |  Should bring about the flowering of their minds,
+       |  And liberate their hearts from every passion that is sensual:
+       |  As “people going upstream” are they styled.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 218 
+     - 218 He in whom a desire for the Ineffable (Nirvana) has sprung up, who is satisfied in his mind, and whose thoughts are not bewildered by love, he is called urdhvamsrotas (carried upwards by the stream).
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 218 <{filename}../dhA/dhA-chap16%zh.rst#Dhp218>`__
@@ -543,20 +823,45 @@
        3. 法集要頌經：譬如久行人，從遠吉却還，親厚亦安和，歸來懷慶悅T4,780a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 219. 
+     - MERIT WELCOMES THE DOERS OF GOOD
+
+       219. A man long absent and returned safe from afar, his kinsmen, friends, and well-wishers welcome on his arrival. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **219.** 
+     - **219.** When, after a long absence, a man safely returns from afar, his relatives, friends and well-wishers welcome him home on arrival.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **219** 
+     - **219-220** [ThaniSFn-V219]_
+       ::
+              
+          A man long absent   
+          comes home safe from afar.    
+          His kin, his friends, his companions,   
+          delight in his return.    
+              
+          In just the same way,   
+          when you've done good   
+          & gone from this world    
+            to the world beyond,  
+          your good deeds receive you —   
+          as kin, someone dear    
+            come home.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **219** 
-       | 
+     - | **219 & 220** 
+       |  
+       |  A man might for years from his family depart,
+       |  And then safely return from those faraway parts;
+       |  And his friends and relations, and those that are dear,
+       |  Would be dancing for joy when they see him appear.
+       |  
+       |  In the very same way, for a man of good deeds,
+       |  Who from life in this world to the next one proceeds,
+       |  With the warmest of welcomes his merit will greet him.
+       |  He’ll go like a son with a family to meet him.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 219 
+     - 219 Kinsmen, friends, and lovers salute a man who has been long away, and returns safe from afar.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 219 <{filename}../dhA/dhA-chap16%zh.rst#Dhp219>`__
@@ -600,20 +905,43 @@
        3. 法集要頌經：好福行善者，從此達於彼，自受多福祚，如親厚來喜T4,780b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 220. 
+     - 220. Likewise, his good deeds will receive the well-doer who has gone from this world to the next, as kinsmen will receive a dear one on his return.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **220.** 
+     - **220.** As kinsmen welcome a dear one on arrival, even so his own good deeds will welcome the doer of good who has gone from this world to the next.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **220** 
+     - **219-220** 
+       ::
+              
+          A man long absent   
+          comes home safe from afar.    
+          His kin, his friends, his companions,   
+          delight in his return.    
+              
+          In just the same way,   
+          when you've done good   
+          & gone from this world    
+            to the world beyond,  
+          your good deeds receive you —   
+          as kin, someone dear    
+            come home.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **220** 
-       | 
+     - | **219 & 220** 
+       |  
+       |  A man might for years from his family depart,
+       |  And then safely return from those faraway parts;
+       |  And his friends and relations, and those that are dear,
+       |  Would be dancing for joy when they see him appear.
+       |  
+       |  In the very same way, for a man of good deeds,
+       |  Who from life in this world to the next one proceeds,
+       |  With the warmest of welcomes his merit will greet him.
+       |  He’ll go like a son with a family to meet him.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 220 
+     - 220 In like manner his good works receive him who has done good, and has gone from this world to the other;--as kinsmen receive a friend on his return.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 220 <{filename}../dhA/dhA-chap16%zh.rst#Dhp220>`__
@@ -651,7 +979,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -678,6 +1006,42 @@
 .. [CFFn16-01] 〔敬法法師註16-01〕 37 註釋： **住於法** （dhammaṭṭhaṁ）：住立於九種出世間法。
 
 .. [CFFn16-02] 〔敬法法師註16-02〕 38 註釋： **超言說** （anakkhāte）：涅槃。 **上流人** ：阿那含聖者。
+
+.. [NāradaFn16-01] (Ven. Nārada 16-01) That is, frequenting places undesirable for bhikkhus.
+
+.. [NāradaFn16-02] (Ven. Nārada 16-02) That is, right attention (yoniso manasikāra).
+
+.. [NāradaFn16-03] (Ven. Nārada 16-03) The practice of higher Morality, Concentration, and Insight.
+
+.. [NāradaFn16-04] (Ven. Nārada 16-04) The bhikkhu with no right discrimination, gives up his quest and being attached to sensual pleasures, returns to lay life. Later, he sees successful bhikkhus and envies them.
+
+.. [NāradaFn16-05] (Ven. Nārada 16-05) Applicable to both animate and inanimate objects, pleasant persons or things.
+
+.. [NāradaFn16-06] (Ven. Nārada 16-06) Attachment in one case and aversion in the other.
+
+.. [NāradaFn16-07] (Ven. Nārada 16-07) Four kinds of morality.
+
+.. [NāradaFn16-08] (Ven. Nārada 16-08) Connected with the supramundane Paths and Fruits.
+
+.. [NāradaFn16-09] (Ven. Nārada 16-09) Nine supramundane states. See note on v. 115.
+
+.. [NāradaFn16-10] (Ven. Nārada 16-10) Saccavedinaṃ, "speaketh truth" (Mrs. Rhys Davids). The four Noble Truths are implied here.
+
+.. [NāradaFn16-11] (Ven. Nārada 16-11) The three modes of discipline, Morality (Sīla), Concentration (Samādhi), and Wisdom (Paññā).
+
+.. [NāradaFn16-12] (Ven. Nārada 16-12) Anakkhāta - Nibbāna. It is so called because it should not be said that Nibbāna was created by any or that it is of some such hue as blue, etc. (Commentary).
+
+.. [NāradaFn16-13] (Ven. Nārada 16-13) The first three stages of Sainthood. Sotāpatti, Sakadāgāmi, and Anāgāmi.
+
+.. [NāradaFn16-14] (Ven. Nārada 16-14) The reference is to the Anāgāmis (Never-Returners) who, after death, are born in the Pure Abodes. They are not born in the sense-sphere as they have eradicated sense-desires.
+
+.. [BudRkFn-v218] (Ven. Buddharakkhita (v. 218) One Bound Upstream: a non-returner (anagami).
+
+.. [ThaniSFn-V209] (Ven. Thanissaro V. 209) This verse plays with the various meanings of yoga (task, striving, application, meditation) and a related term, anuyuñjati (keeping after something, taking someone to task). In place of the Pali reading attanuyoginam, "those who kept after themselves," the Patna Dhp reads atthanuyoginam, "those who kept after/remained devoted to the goal."
+
+.. [ThaniSFn-V218] (Ven. Thanissaro V. 218) "The up-flowing stream": DhpA: the attainment of non-returning, the third of the four stages of Awakening (see note 22).
+
+.. [ThaniSFn-V219] (Ven. Thanissaro V. 219) The Pali in these verses repeats the word "comes" three times, to emphasize the idea that if the results of meritorious actions await one after death, one's going to the next world is more like a homecoming.
 
 ---------------------------
 

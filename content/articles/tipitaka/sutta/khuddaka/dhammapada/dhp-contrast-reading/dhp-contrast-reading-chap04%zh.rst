@@ -124,7 +124,8 @@
             the flower.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - **4. Flowers** 
+     - **4. Flowers**
+      
        | **44&45** Which person will master this world of humanity,
        | Here, with its gods, in this realm of mortality?
        | Which person will pick out the path of the Dhamma,

@@ -3,7 +3,7 @@
 ======================================================================
 
 :date: 2016-06-04 15:00
-:modified: 2016-06-12 20:30
+:modified: 2016-06-26 21:00
 :tags: 法句經, 法句經對讀, 老品, Dhp, Dhammapada, Jarāvaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Old Age
@@ -81,20 +81,43 @@
        4. 法集要頌經：如燭熾焰時，擲物在暗處，不使智燈尋，恒為煩惱覆T04,777a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 146. 
+     - **Chapter 11 Old Age**
+
+       **SEEK THE LIGHT**
+
+       146. What is laughter, what is joy, when the world is ever burning? [NāradaFn11-01]_ Shrouded by darkness, would you not seek the light?
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **146.** 
+     - **Dhp XI Old Age**
+
+       **146.** When this world is ever ablaze, why this laughter, why this jubilation? Shrouded in darkness, will you not see the light?
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **146** 
+     - **Dhp XI  Aging**
+       
+       **146** 
+       ::
+              
+          What laughter, why joy,   
+          when constantly aflame?   
+            Enveloped in darkness,  
+          don't you look for a lamp?
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **146** 
-       | 
+     - **Chapter 11 Decay**
+
+       | **146a** 
+       |  For what the mirth and jubilation 
+       |  In this endless conflagration?  
+       |
+       |  **146b**  
+       |  Blind in the black of the night:  
+       |  Won’t you endeavour to seek for a light?
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 146 
+     - **Chapter XI: Old Age**
+
+       146 How is there laughter, how is there joy, as this world is always burning? Why do you not seek a light, ye who are surrounded by darkness?
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 146 <{filename}../dhA/dhA-chap11%zh.rst#Dhp146>`__
@@ -128,20 +151,33 @@
        4. 法集要頌經：如是當觀身，眾病之所因，病與愚合會，焉能可恃怙T04, 791c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 147. 
+     - FOUL IS THIS GAILY DECKED BODY
+
+       147. Behold this beautiful body, a mass of sores, a heaped-up (lump), diseased, much thought of, in which nothing lasts, nothing persists. [NāradaFn11-02]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **147.** 
+     - **147.** Behold this body — a painted image, a mass of heaped up sores, infirm, full of hankering — of which nothing is lasting or stable!
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **147** 
+     - **147** 
+       ::
+              
+          Look at the beautified image,   
+          a heap of festering wounds, shored up:    
+          ill, but the object   
+            of many resolves, 
+          where there is nothing    
+            lasting or sure.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **147** 
-       | 
+       |  Look at this beautified puppet, 
+       |  Haughty and full of supposing;  
+       |  Orifice-marked(1), full of sickness;  
+       |  Unstable, with nothing enduring. [VaradoFn-V147]_
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 147 
+     - 147 Look at this dressed-up lump, covered with wounds, joined together, sickly, full of many thoughts, which has no strength, no hold!
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 147 <{filename}../dhA/dhA-chap11%zh.rst#Dhp147>`__
@@ -177,20 +213,32 @@
        | 5. 修行本起經：老則色衰，病無光澤，皮緩肌縮，死命近促T03, 466c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 148. 
+     - LIFE ENDS IN DEATH
+
+       148. Thoroughly worn out is this body, a nest of diseases, perishable. This putrid mass breaks up. Truly, life ends in death.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **148.** 
+     - **148.** Fully worn out is this body, a nest of disease, and fragile. This foul mass breaks up, for death is the end of life.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **148** 
+     - **148** 
+       ::
+              
+          Worn out is this body,    
+          a nest of diseases, dissolving.   
+          This putrid conglomeration    
+          is bound to break up,   
+          for life is hemmed in with death.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **148** 
-       | 
+       |  Decayed is your delicate frame, 
+       |  A nest of disease and affliction. 
+       |  This odious lump falls apart, 
+       |  And this life, indeed, comes to extinction.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 148 
+     - 148 This body is wasted, full of sickness, and frail; this heap of corruption breaks to pieces, life indeed ends in death.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 148 <{filename}../dhA/dhA-chap11%zh.rst#Dhp148>`__
@@ -224,20 +272,32 @@
        4. 法集要頌經：人身有形器，棄散在諸方，骸骨如鴿色，觀斯有何樂T04, 777a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 149. 
+     - WHAT DELIGHT IN SEEING WHITE BONES?
+
+       149. Like gourds cast away in autumn are these dove-hued bones. What pleasure is there in looking at them?
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **149.** 
+     - **149.** These dove-colored bones are like gourds that lie scattered about in autumn. Having seen them, how can one seek delight?
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **149** 
+     - **149** 
+       ::
+              
+          On seeing these bones   
+            discarded 
+          like gourds in the fall,    
+            pigeon-gray:  
+                   what delight?
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **149** 
-       | 
+       |  Your beloved’s grey bones, long-discarded,  
+       |  Like slender white gourds from the harvest: 
+       |  You wistfully view them with far-away eyes. 
+       |  What is the pleasure in them you descry?
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 149 
+     - 149 Those white bones, like gourds thrown away in the autumn, what pleasure is there in looking at them?
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 149 <{filename}../dhA/dhA-chap11%zh.rst#Dhp149>`__
@@ -273,20 +333,32 @@
        | 5. 瑜伽師地論：有城骨為牆，筋肉而塗飾，其中有貪恚，慢覆所任持T30, 383a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 150. 
+     - THIS BODY IS COMPOSED OF FLESH AND BLOOD
+
+       150. Of bones is (this) city made, plastered with flesh and blood. Herein are stored decay, death, conceit, and detraction.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **150.** 
+     - **150.** This city (body) is built of bones, plastered with flesh and blood; within are decay and death, pride and jealousy.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **150** 
+     - **150** 
+       ::
+              
+          A city made of bones,   
+          plastered over with flesh & blood,    
+          whose hidden treasures are:   
+            pride & contempt, 
+            aging & death.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **150** 
-       | 
+       |  Of bones is this citadel made;  
+       |  With meat and with blood it is swathed; 
+       |  Senescence and death wait inside –  
+       |  And vilification and pride.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 150 
+     - 150 After a stronghold has been made of the bones, it is covered with flesh and blood, and there dwell in it old age and death, pride and deceit.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 150 <{filename}../dhA/dhA-chap11%zh.rst#Dhp150>`__
@@ -326,20 +398,35 @@
        | 7. 菩薩所集論：此王車朽敗，身亦如是朽，真法不朽敗，於己而平均T28, 801c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 151. 
+     - RIGHTEOUSNESS DOES NOT WEAR AWAY
+
+       151. Even ornamented royal chariots wear out. So too the body reaches old age. But the Dhamma [NāradaFn11-03]_ of the Good grows not old. Thus do the Good reveal it among the Good. [NāradaFn11-04]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **151.** 
+     - **151.** Even gorgeous royal chariots wear out, and indeed this body too wears out. But the Dhamma of the Good does not age; thus the Good make it known to the good.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **151** 
+     - **151** 
+       ::
+              
+          Even royal chariots   
+          well-embellished    
+          get run down,   
+          and so does the body    
+          succumb to old age.   
+          But the Dhamma of the good    
+          doesn't succumb to old age:   
+          the good let the civilized know.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **151** 
-       | 
+       |  The state royal coaches decay:  
+       |  The body to old age approaches. 
+       |  The virtue of Dhamma does not waste away; 
+       |  The calmed make this known to the righteous.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 151 
+     - 151 The brilliant chariots of kings are destroyed, the body also approaches destruction, but the virtue of good people never approaches destruction,--thus do the good say to the good.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 151 <{filename}../dhA/dhA-chap11%zh.rst#Dhp151>`__
@@ -373,20 +460,29 @@
        | 3. 雜阿含經063何用巨大身，多肉而無慧？此賢勝智慧，則為上士夫。
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 152. 
+     - ONE WITH LITTLE LEARNING LACKS WISDOM
+
+       152. The man of little learning grows old like the ox. His muscles grow; his wisdom grows not.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **152.** 
+     - **152.** The man of little learning grows old like a bull. He grows only in bulk, but, his wisdom does not grow.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **152** 
+     - **152** [ThaniSFn-V152]_
+       ::
+              
+          This unlistening man    
+          matures like an ox.   
+          His muscles develop,    
+          his discernment     not.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **152** 
-       | 
+       |  The man of small learning matures like an ox: 
+       |  His body develops, his wisdom does not.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 152 
+     - 152 A man who has learnt little, grows old like an ox; his flesh grows, but his knowledge does not grow.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 152 <{filename}../dhA/dhA-chap11%zh.rst#Dhp152>`__
@@ -423,20 +519,54 @@
        | 6. 善見律：流轉非一生，走去無厭足，正覓屋住處，更生生辛苦T24,675c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 153. 
+     - CRAVING IS THE BUILDER OF THIS HOUSE
+
+       153. Through many a birth I wandered in saṃsāra, [NāradaFn11-05]_ seeking, but not finding, the builder of the house. Sorrowful is it to be born again and again.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **153.** 
+     - **153.** Through many a birth in samsara have I wandered in vain, seeking the builder of this house (of life). Repeated birth is indeed suffering!
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **153** 
+     - **153-154** [ThaniSFn-V153-154]_
+       ::
+              
+          Through the round of many births I roamed   
+            without reward, 
+            without rest, 
+          seeking the house-builder.    
+            Painful is birth  
+            again & again.  
+              
+          House-builder, you're seen!   
+          You will not build a house again.   
+          All your rafters broken,    
+          the ridge pole dismantled,    
+          immersed in dismantling, the mind   
+          has attained to the end of craving.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **153** 
-       | 
+     - | **153 & 154** 
+       |  
+       |  For lifetimes untold  
+       |  Through samsara I’ve roamed 
+       |  For the housebuilder seeking  
+       |  But failing to meet him.  
+       |    
+       |  How great is the pain 
+       |  Ever new births to gain!  
+       |    
+       |  But now, builder, you’re met; 
+       |  No more homes you’ll erect. 
+       |  For the rafters are fractured,  
+       |  The ridgepole is shattered. 
+       |    
+       |  My mind, in forsaking 
+       |  Conditioned causation,  
+       |  Through craving’s destruction,  
+       |  Has reached liberation.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 153 
+     - 153, 154. Looking for the maker of this tabernacle, I shall have to run through a course of many births, so long as I do not find (him); and painful is birth again and again. But now, maker of the tabernacle, thou hast been seen; thou shalt not make up this tabernacle again. All thy rafters are broken, thy ridge-pole is sundered; the mind, approaching the Eternal (visankhara, nirvana), has attained to the extinction of all desires.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 153 <{filename}../dhA/dhA-chap11%zh.rst#Dhp153>`__
@@ -478,20 +608,52 @@
        | 8. 菩薩所集論：我已見屋室，更不起愛著，汝盡脇勒摧，屋舍皆壞敗T28,803a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 154. 
+     - 154. O house-builder! Thou art seen. Thou shalt build no house again. All thy rafters are broken. Thy ridge-pole is shattered. My mind has attained the unconditioned. Achieved is the end of craving.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **154.** 
+     - **154.** O house-builder, you are seen! You will not build this house again. For your rafters are broken and your ridgepole shattered. My mind has reached the Unconditioned; I have attained the destruction of craving. [BudRkFn-v153-154]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **154** 
+     - **153-154** [ThaniSFn-V153-154]_
+       ::
+              
+          Through the round of many births I roamed   
+            without reward, 
+            without rest, 
+          seeking the house-builder.    
+            Painful is birth  
+            again & again.  
+              
+          House-builder, you're seen!   
+          You will not build a house again.   
+          All your rafters broken,    
+          the ridge pole dismantled,    
+          immersed in dismantling, the mind   
+          has attained to the end of craving.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **154** 
-       | 
+     - | **153 & 154** 
+       |  
+       |  For lifetimes untold  
+       |  Through samsara I’ve roamed 
+       |  For the housebuilder seeking  
+       |  But failing to meet him.  
+       |    
+       |  How great is the pain 
+       |  Ever new births to gain!  
+       |    
+       |  But now, builder, you’re met; 
+       |  No more homes you’ll erect. 
+       |  For the rafters are fractured,  
+       |  The ridgepole is shattered. 
+       |    
+       |  My mind, in forsaking 
+       |  Conditioned causation,  
+       |  Through craving’s destruction,  
+       |  Has reached liberation.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 154 
+     - 153, 154. Looking for the maker of this tabernacle, I shall have to run through a course of many births, so long as I do not find (him); and painful is birth again and again. But now, maker of the tabernacle, thou hast been seen; thou shalt not make up this tabernacle again. All thy rafters are broken, thy ridge-pole is sundered; the mind, approaching the Eternal (visankhara, nirvana), has attained to the extinction of all desires.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 154 <{filename}../dhA/dhA-chap11%zh.rst#Dhp154>`__
@@ -529,20 +691,35 @@
        | 7. 大毘婆沙論：少不修梵行，喪失聖財寶，今如二老鶴，共守一枯池T27, 660a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 155. 
+     - THEY REPENT WHO DO NOT PROGRESS MATERIALLY AND SPIRITUALLY
+
+       155. They who have not led the Holy Life, who in youth have not acquired wealth, pine away like old herons at a pond without fish. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **155.** 
+     - **155.** Those who in youth have not led the holy life, or have failed to acquire wealth, languish like old cranes in the pond without fish.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **155** 
+     - **155-156** 
+       ::
+              
+          Neither living the chaste life    
+          nor gaining wealth in their youth,    
+          they waste away like old herons   
+          in a dried-up lake    
+          depleted of fish.   
+              
+          Neither living the chaste life    
+          nor gaining wealth in their youth,    
+          they lie around,    
+          misfired from the bow,    
+          sighing over old times.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **155** 
-       | 
+       |  The old who, in their youth, neither took on the holy-life, nor made any savings, brood like old herons beside a fished-out lake.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 155 
+     - 155 Men who have not observed proper discipline, and have not gained treasure in their youth, perish like old herons in a lake without fish.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 155 <{filename}../dhA/dhA-chap11%zh.rst#Dhp155>`__
@@ -589,20 +766,33 @@
        | 6. 別譯雜阿含：不修於梵行，壯不聚財寶，念壯所好樂，住立如曲弓T02,403b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 156. 
+     - 156. They who have not led the Holy Life; who in youth have not acquired wealth, lie like worn-out bows, sighing after the past.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **156.** 
+     - **156.** Those who in youth have not lead the holy life, or have failed to acquire wealth, lie sighing over the past, like worn out arrows (shot from) a bow.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **156** 
+     - **155-156** 
+       ::
+              
+          Neither living the chaste life    
+          nor gaining wealth in their youth,    
+          they waste away like old herons   
+          in a dried-up lake    
+          depleted of fish.   
+              
+          Neither living the chaste life    
+          nor gaining wealth in their youth,    
+          they lie around,    
+          misfired from the bow,    
+          sighing over old times.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **156** 
-       | 
+       |  The old who, in their youth, neither took on the holy-life, nor made any savings, lie on their backs lamenting the past, like misfired arrows. 
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 156 
+     - 156 Men who have not observed proper discipline, and have not gained treasure in their youth, lie, like broken bows, sighing after the past.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 156 <{filename}../dhA/dhA-chap11%zh.rst#Dhp156>`__
@@ -640,7 +830,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -687,6 +877,32 @@
 .. [CFFn11-01] 〔敬法法師註11-01〕 25 註：善人之法是指九出世間法。
 
 .. [CFFn11-02] 〔敬法法師註11-02〕 26 註：屋子是身體；造屋者是貪愛；無為是涅槃；愛滅盡即已證得阿羅漢果。
+
+.. [NāradaFn11-01] (Ven. Nārada 11-01) This world is perpetually consumed with the flames of passions. It is completely surrounded by the veil of ignorance. Being placed in such a world, the wise should try to seek the light of wisdom.
+
+.. [NāradaFn11-02] (Ven. Nārada 11-02) As good and pleasant.
+
+.. [NāradaFn11-03] (Ven. Nārada 11-03) The nine supramundane states are the four Paths, the four Fruits and Nibbāna.
+
+.. [NāradaFn11-04] (Ven. Nārada 11-04) Such as the Buddhas.
+
+.. [NāradaFn11-05] (Ven. Nārada 11-05) These two verses, the first paean of joy (udāna) uttered by the Buddha immediately after His Enlightenment, are not found elsewhere. As the Venerable Ananda heard them from the lips of the Buddha they have been inserted here.
+
+                    Here the Buddha admits his past wanderings in existence which entails suffering, a fact which evidently proves the belief in rebirth. He was compelled to wander and consequently to suffer, as long as be could not discover the architect who built this house, the body. In His final birth He discovered by His own intuitive wisdom the elusive architect dwelling not outside but within the recesses of His own heart. The architect was Craving or Attachment (taṇhā), a self-created force a mental element latent in all. The discovery of the architect is the eradication of craving by attaining Arahantship which, in this utterance, is alluded to as the end of craving.
+
+                    The rafters of this self-created house are the defilements (kilesa). The ridge-pole that supports the rafters is ignorance (avijjā), the root cause of all defilements. The shattering of the ridge-pole of ignorance by wisdom results in the complete demolition of the house. The ridge-pole and the rafters are the material with which the architect builds this undesired house. With their destruction the architect is deprived of the wherewithal to rebuild the house which is not wanted. With the demolition of the house the mind attains the unconditioned which is Nibbāna.
+
+.. [BudRkFn-v153-154]  (Ven. Buddharakkhita vv. 153-154) According to the commentary, these verses are the Buddha's "Song of Victory," his first utterance after his Enlightenment. The house is individualized existence in samsara, the house-builder craving, the rafters the passions and the ridge-pole ignorance.
+
+.. [ThaniSFn-V152] (Ven. Thanissaro V.152) Muscles: This is a translation of the Pali mansani, which is usually rendered in this verse as "flesh." However, because the Pali word is in the plural form, "muscles" seems more accurate — and more to the point.
+
+.. [ThaniSFn-V153-154] (Ven. Thanissaro V. 153-154) DhpA: These verses were the Buddha's first utterance after his full Awakening. For some reason, they are not reported in any of the other canonical accounts of the events following on the Awakening.
+
+                        DhpA: "House" = selfhood; house-builder = craving. "House" may also refer to the nine abodes of beings — the seven stations of consciousness and two spheres (see Khp 4 and DN 15).
+
+                        The word anibbisam in 153 can be read either as the negative gerund of nibbisati ("earning, gaining a reward") or as the negative gerund of nivisati, altered to fit the meter, meaning "coming to a rest, settled, situated." Both readings make sense in the context of the verse, so the word is probably intended to have a double meaning: without reward, without rest.
+
+.. [VaradoFn-V147]  (Ven. Varado V.147) Verse 147: "orifice-marked" (arukāyaṃ). PED: "a heap of sores", which seems euphemistic.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

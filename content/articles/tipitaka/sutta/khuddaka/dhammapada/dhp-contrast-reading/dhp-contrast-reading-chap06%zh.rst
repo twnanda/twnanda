@@ -3,7 +3,7 @@
 ========================================================================
 
 :date: 2016-06-02 22:00
-:modified: 2016-06-12 11:30
+:modified: 2016-06-26 15:30
 :tags: 法句經, 法句經對讀, 智者品, Dhp, Dhammapada, Paṇḍitavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Wise Man
@@ -85,20 +85,58 @@
        3. 法集要頌經：人欲鍊其神，要當數修琢，智者易彫飾，乃名世之雄，能親近彼者，安隱無憂惱T04, 792a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 76. 
+     - **Chapter 6 The Wise**
+
+       ASSOCIATE WITH THE WISE WHO TRY TO CORRECT YOU
+       
+       76. Should one see a wise man, who, like a revealer of treasure, points out faults and reproves; let one associate with such a wise person; it will be better, not worse, for him who associates with such a one.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **76.** 
+     - **Dhp VI The Wise**
+
+       **76.** Should one find a man who points out faults and who reproves, let him follow such a wise and sagacious person as one would a guide to hidden treasure. It is always better, and never worse, to cultivate such an association.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **76** 
+     - **Dhp VI  The Wise**
+
+       **76-77** 
+       ::
+
+        Regard him as one who
+              points out
+              treasure,
+         the wise one who
+         seeing your faults
+              rebukes you.
+         Stay with this sort of sage.
+         For the one who stays
+         with a sage of this sort,
+              things get better,
+              not worse.
+         
+         Let him admonish, instruct,
+           deflect you
+         away from poor manners.
+         To the good, he's endearing;
+         to the bad, he's not.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **76** 
-       | 
+     - **Chapter 6 The Wise**
+
+       |  **76 & 77** 
+       |  A sage who chides with words of censure,
+       |  Showing faults like showing treasure:
+       |  If with her you’d pair together,
+       |  Then you’d be not worse, but better.
+       |  Let her censure, give instruction,
+       |  And restrain you from corruption.
+       |  Though by wastrels she’s abhorred,
+       |  By the sterling, she’s adored.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 76 
+     - Chapter VI: The Wise Man (Pandita)
+
+       76 If you see an intelligent man who tells you where true treasures are to be found, who shows what is to be avoided, and administers reproofs, follow that wise man; it will be better, not worse, for those who follow him.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 076 <{filename}../dhA/dhA-chap06%zh.rst#dhp076>`__
@@ -134,20 +172,48 @@
        6. 法集要頌經：好福行善者，從此達於彼，自受多福祚，如親厚來喜。起從至聖教，禁制不善心，近者則見愛，離道莫親愛。近者與不近，所往皆有異，近道則生天，不近墮地獄T04, 780b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 77. 
+     - ADVISERS ARE PLEASING TO THE GOOD, BUT NOT TO THE BAD
+       
+       77. Let him advise, instruct, and dissuade one from evil; truly pleasing is he to the good, displeasing is he to the bad.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **77.** 
+     - **77.** Let him admonish, instruct and shield one from wrong; he, indeed, is dear to the good and detestable to the evil.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **77** 
+     - **76-77** 
+        ::
+
+         Regard him as one who
+               points out
+               treasure,
+         the wise one who
+         seeing your faults
+              rebukes you.
+         Stay with this sort of sage.
+         For the one who stays
+         with a sage of this sort,
+              things get better,
+              not worse.
+         
+         Let him admonish, instruct,
+           deflect you
+         away from poor manners.
+         To the good, he's endearing;
+         to the bad, he's not.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **77** 
-       | 
+     - | **76 & 77** 
+       |  A sage who chides with words of censure,
+       |  Showing faults like showing treasure:
+       |  If with her you’d pair together,
+       |  Then you’d be not worse, but better.
+       |  Let her censure, give instruction,
+       |  And restrain you from corruption.
+       |  Though by wastrels she’s abhorred,
+       |  By the sterling, she’s adored.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 77 
+     - 77 Let him admonish, let him teach, let him forbid what is improper!- -he will be beloved of the good, by the bad he will be hated.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 077 <{filename}../dhA/dhA-chap06%zh.rst#dhp077>`__
@@ -181,20 +247,31 @@
        4. 佛說孛經抄：遠避惡人，婬荒朋友，從事賢者，以成明德T17, 732c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 78. 
+     - CULTIVATE GOOD FRIENDSHIP
+       
+       78. Associate not with evil friends, associate not with mean men; associate with good friends, associate with noble men.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **78.** 
+     - **78.** Do not associate with evil companions; do not seek the fellowship of the vile. Associate with the good friends; seek the fellowship of noble men.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **78** 
+     - **78** 
+        ::
+
+         Don't associate with bad friends.
+         Don't associate with the low.
+         Associate with admirable friends.
+         Associate with the best.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **78** 
-       | 
+       |  With evil friends don’t socialise;
+       |  With vulgar folk don’t fraternise.
+       |  With virtuous comrades congregate;
+       |  With noble beings collaborate.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 78 
+     - 78 Do not have evil-doers for friends, do not have low people for friends: have virtuous people for friends, have for friends the best of men.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 078 <{filename}../dhA/dhA-chap06%zh.rst#dhp078>`__
@@ -228,20 +305,35 @@
        4. 增壹阿含經：愛法快睡眠，意無有錯亂，賢聖所說法，智者之所樂T02, 718c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 79. 
+     - HAPPILY HE LIVES WHO DRINKS OF THE DHAMMA
+       
+       79. He who imbibes the Dhamma abides in happiness with mind pacified; the wise man ever delights in the Dhamma revealed by the Ariyas. [NāradaFn06-01]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **79.** 
+     - **79.** He who drinks deep the Dhamma lives happily with a tranquil mind. The wise man ever delights in the Dhamma made known by the Noble One (the Buddha).
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **79** 
+     - **79** [ThaniSFn-V79]_
+       ::
+
+        Drinking the Dhamma,
+        refreshed by the Dhamma,
+        one sleeps at ease
+        with clear awareness & calm.
+        In the Dhamma revealed
+        by the noble ones,
+        the wise person
+          always delights.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **79** 
-       | 
+       |  One who drinks Dhamma abides
+       |  Happy, with purified mind.
+       |  The learned ones ever will savour
+       |  The teachings made known by the Buddha.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 79 
+     - 79 He who drinks in the law lives happily with a serene mind: the sage rejoices always in the law, as preached by the elect (Ariyas).
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 079 <{filename}../dhA/dhA-chap06%zh.rst#dhp079>`__
@@ -279,20 +371,32 @@
        | 7. 增壹阿含經：弓師能調角，水人能調船，巧匠調其木，智者自調身T02, 721b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 80. 
+     - THE WISE CONTROL THEMSELVES
+
+       80. Irrigators lead the waters; fletchers bend the shafts; carpenters bend the wood; the wise control themselves. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **80.** 
+     - **80.** Irrigators regulate the rivers; fletchers straighten the arrow shaft; carpenters shape the wood; the wise control themselves.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **80** 
+     - **80** 
+       ::
+
+        Irrigators guide    the water.
+        Fletchers shape     the arrow shaft.
+        Carpenters shape    the wood.
+        The wise control
+                     themselves.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **80** 
-       | 
+       |  Farmers channel water;
+       |  Craftsmen fashion timber;
+       |  Fletchers trim their arrowshafts;
+       |  Those of wisdom train themselves.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 80 
+     - 80 Well-makers lead the water (wherever they like); fletchers bend the arrow; carpenters bend a log of wood; wise people fashion themselves.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 080 <{filename}../dhA/dhA-chap06%zh.rst#dhp080>`__
@@ -328,20 +432,30 @@
        | 5. 增壹阿含經：亦如大方石，風所不能動，如是得毀譽，心無有傾動T02, 718c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 81. 
+     - UNSHAKEN AS A ROCK ARE THE WISE AMIDST PRAISE AND BLAME
+       
+       81. As a solid rock is not shaken by the wind, even so the wise are not ruffled by praise or blame.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **81.** 
+     - **81.** Just as a solid rock is not shaken by the storm, even so the wise are not affected by praise or blame.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **81** 
+     - **81** 
+       ::
+
+        As a single slab of rock
+        won't budge in the wind,
+        so the wise are not moved
+          by praise,
+          by blame.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **81** 
-       | 
+       |  A solid rock by wind is undisturbed:
+       |  The wise by praise and blame are unperturbed.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 81 
+     - 81 As a solid rock is not shaken by the wind, wise people falter not amidst blame and praise.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 081 <{filename}../dhA/dhA-chap06%zh.rst#dhp081>`__
@@ -377,20 +491,32 @@
        | 5. 增壹阿含經：猶如深淵水，澄清無瑕穢，如是聞法人，清淨心樂受T02, 718c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 82. 
+     - THE WISE ARE PEACEFUL
+       
+       82. Just as a deep lake is clear and still, even so, on hearing the teachings, the wise become exceedingly peaceful. [NāradaFn06-02]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **82.** 
+     - **82.** On hearing the Teachings, the wise become perfectly purified, like a lake deep, clear and still.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **82** 
+     - **82** 
+       ::
+
+        Like a deep lake,
+        clear, unruffled, & calm:
+        so the wise become clear,
+          calm,
+        on hearing words of the Dhamma.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **82** 
-       | 
+       |  A fathomless water serene
+       |  That sparkles like glass is idyllic.
+       |  The person who Dhamma receives
+       |  Is someone who’s likewise pacific.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 82 
+     - 82 Wise people, after they have listened to the laws, become serene, like a deep, smooth, and still lake.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 082 <{filename}../dhA/dhA-chap06%zh.rst#dhp082>`__
@@ -424,20 +550,39 @@
        4. 法集要頌經：如苾芻在定，不著一切垢，眾生遭苦樂，而不能覺知T04, 795b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 83. 
+     - THE WISE ARE NEITHER ELATED NOR DEPRESSED
+
+       83. The good give up (attachment for) everything; [NāradaFn06-03]_ the saintly prattle not with sensual craving: whether affected by happiness or by pain, the wise show neither elation nor depression.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **83.** 
+     - **83.** The good renounce (attachment for) everything. The virtuous do not prattle with a yearning for pleasures. The wise show no elation or depression when touched by happiness or sorrow.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **83** 
+     - **83** [ThaniSFn-V83]_
+       ::
+
+        Everywhere, truly,
+        those of integrity
+          stand  apart.
+        They, the good,
+        don't chatter in hopes
+        of favor or gains.
+        When touched
+          now by pleasure,
+          now pain,
+        the wise give no sign
+          of high
+          or low.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **83** 
-       | 
+       |  True men shed things altogether;
+       |  Pure men hint not seeking pleasure.
+       |  Touched by joy or tribulation,
+       |  They grieve not, nor show elation.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 83 
+     - 83 Good people walk on whatever befall, the good do not prattle, longing for pleasure; whether touched by happiness or sorrow wise people never appear elated or depressed.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 083 <{filename}../dhA/dhA-chap06%zh.rst#dhp083>`__
@@ -473,20 +618,39 @@
        2. 法句譬喻經：大賢無世事，不願子財國，常守戒慧道，不貪邪富貴T04, 588b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 84. 
+     - SUCCESS SHOULD NOT BE SOUGHT BY WRONGFUL MEANS
+
+       84. Neither for the sake of oneself nor for the sake of another (does a wise person do any wrong); he should not desire son, wealth or kingdom (by doing wrong): by unjust means he should not seek his own success. Then (only) such a one is indeed virtuous, wise and righteous.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **84.** 
+     - **84.** He is indeed virtuous, wise, and righteous who neither for his own sake nor for the sake of another (does any wrong), who does not crave for sons, wealth, or kingdom, and does not desire success by unjust means.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **84** 
+     - **84** 
+       ::
+
+        One who wouldn't —
+        not for his own sake
+        nor that of another —
+        hanker for
+          wealth,
+          a son,
+          a kingdom,
+          his own fulfillment,
+        by unrighteous means:
+        he is righteous, rich
+             in virtue,
+             discernment.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **84** 
-       | 
+       |  Not for another, and not for yourself,
+       |  Should you seek for an empire, for sons or for wealth.
+       |  Nor should you long for dishonest success,
+       |  But rather should aim to be wise and righteous.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 84 
+     - 84 If, whether for his own sake, or for the sake of others, a man wishes neither for a son, nor for wealth, nor for lordship, and if he does not wish for his own success by unfair means, then he is good, wise, and virtuous.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 084 <{filename}../dhA/dhA-chap06%zh.rst#dhp084>`__
@@ -520,20 +684,57 @@
        4. 雜阿含經：少有修善人，能度於彼岸，一切眾生類，駈馳走此岸T02, 274c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 85. 
+     - FEW GO BEYOND
+
+       85. Few are there amongst men who go Beyond; the rest of mankind only run about on the bank. [NāradaFn06-04]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **85.** 
+     - **85.** Few among men are those who cross to the farther shore. The rest, the bulk of men, only run up and down the hither bank.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **85** 
+     - **85-89** [ThaniSFn-V86]_ , [ThaniSFn-V89]_
+       ::
+
+        Few are the people
+        who reach the Far Shore.
+          These others
+          simply scurry along
+          this shore.
+        
+        But those who practice Dhamma
+        in line with the well-taught Dhamma,
+        will cross over the realm of Death
+        so hard to transcend.
+        
+         Forsaking dark practices,
+          the wise person
+        should develop the bright,
+        having gone from home
+          to no-home
+        in seclusion, so hard to enjoy.
+        
+        There he should wish for delight,
+        discarding sensuality —
+          he who has nothing.
+        He should cleanse himself — wise —
+        of what defiles the mind.
+        
+        Whose minds are well-developed
+        in the factors of self-awakening,
+        who delight in non-clinging,
+        relinquishing grasping —
+          resplendent,
+          their effluents ended:
+          they, in the world,
+          are Unbound.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **85** 
-       | 
+       |  Few amongst mortals will cross to that land:
+       |  Most will just stroll about here on the strand.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 85 
+     - 85 Few are there among men who arrive at the other shore (become Arhats); the other people here run up and down the shore.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 085 <{filename}../dhA/dhA-chap06%zh.rst#dhp085>`__
@@ -568,20 +769,59 @@
        | 4. 雜阿含經：於此正法律，觀察法法相，此等度彼岸，摧伏死魔軍T02, 274c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 86. 
+     - THOSE WHO FOLLOW THE DHAMMA GO BEYOND
+
+       86. But those who act rightly according to the teaching, which is well expounded, those are they who will reach the Beyond - Nibbāna - (crossing) the realm of passions, [NāradaFn06-05]_ so hard to cross.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **86.** 
+     - **86.** But those who act according to the perfectly taught Dhamma will cross the realm of Death, so difficult to cross.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **86** 
+     - **85-89** [ThaniSFn-V86]_ , [ThaniSFn-V89]_
+       ::
+
+        Few are the people
+        who reach the Far Shore.
+          These others
+          simply scurry along
+          this shore.
+        
+        But those who practice Dhamma
+        in line with the well-taught Dhamma,
+        will cross over the realm of Death
+        so hard to transcend.
+        
+         Forsaking dark practices,
+          the wise person
+        should develop the bright,
+        having gone from home
+          to no-home
+        in seclusion, so hard to enjoy.
+        
+        There he should wish for delight,
+        discarding sensuality —
+          he who has nothing.
+        He should cleanse himself — wise —
+        of what defiles the mind.
+        
+        Whose minds are well-developed
+        in the factors of self-awakening,
+        who delight in non-clinging,
+        relinquishing grasping —
+          resplendent,
+          their effluents ended:
+          they, in the world,
+          are Unbound.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **86** 
-       | 
+       |  Conducting themselves in conformity
+       |  To Dhamma, expounded so thoroughly,
+       |  They will transcend the vast sphere of mortality,
+       |  Freedom from which is achieved with great difficulty.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 86 
+     - 86 But those who, when the law has been well preached to them, follow the law, will pass across the dominion of death, however difficult to overcome.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 086 <{filename}../dhA/dhA-chap06%zh.rst#dhp086>`__
@@ -616,20 +856,63 @@
        4. 法集要頌經：除斷濁黑業，惟修白淨行，度愛得清淨，棄捨穢惡行T04,785b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 87. 
+     - ``GIVE UP EVIL, CULTIVATE GOOD     SEEK HAPPINESS IN SOLITUDE    THE NON-ATTACHED ARE PEACEFUL``
+       
+       87-88. Coming from home to the homeless, the wise man should abandon dark states [NāradaFn06-06]_ and cultivate the bright. He should seek great delight in detachment (Nibbāna), so hard to enjoy. Giving up sensual pleasures, with no impediments, [NāradaFn06-07]_ the wise man should cleanse himself of the impurities of the mind.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **87.** 
+     - **87-88.** Abandoning the dark way, let the wise man cultivate the bright path. Having gone from home to homelessness, let him yearn for that delight in detachment, so difficult to enjoy. Giving up sensual pleasures, with no attachment, let the wise man cleanse himself of defilements of the mind.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **87** 
+     - **85-89** [ThaniSFn-V86]_ , [ThaniSFn-V89]_
+       ::
+
+        Few are the people
+        who reach the Far Shore.
+          These others
+          simply scurry along
+          this shore.
+        
+        But those who practice Dhamma
+        in line with the well-taught Dhamma,
+        will cross over the realm of Death
+        so hard to transcend.
+        
+         Forsaking dark practices,
+          the wise person
+        should develop the bright,
+        having gone from home
+          to no-home
+        in seclusion, so hard to enjoy.
+        
+        There he should wish for delight,
+        discarding sensuality —
+          he who has nothing.
+        He should cleanse himself — wise —
+        of what defiles the mind.
+        
+        Whose minds are well-developed
+        in the factors of self-awakening,
+        who delight in non-clinging,
+        relinquishing grasping —
+          resplendent,
+          their effluents ended:
+          they, in the world,
+          are Unbound.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **87** 
-       | 
+     - | **87 & 88** 
+       |  Having left their homes for homelessness,
+       |  The learned ones, possessionless,
+       |  Should aim for inner happiness
+       |  In hard-to-relish loneliness.
+       |  They must leave all states of murkiness
+       |  And cultivate what’s luminous,
+       |  Abandon all voluptuousness,
+       |  And purge their minds’ uncleanliness.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 87 
+     - 87, 88. A wise man should leave the dark state (of ordinary life), and follow the bright state (of the Bhikshu). After going from his home to a homeless state, he should in his retirement look for enjoyment where there seemed to be no enjoyment. Leaving all pleasures behind, and calling nothing his own, the wise man should purge himself from all the troubles of the mind.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 087 <{filename}../dhA/dhA-chap06%zh.rst#dhp087>`__
@@ -662,20 +945,61 @@
      - 1. 法句經：抑制情欲，絕樂無為，能自拯濟，使意為慧T04, 564a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 88. 
+     - 87-88. Coming from home to the homeless, the wise man should abandon dark states [NāradaFn06-06]_ and cultivate the bright. He should seek great delight in detachment (Nibbāna), so hard to enjoy. Giving up sensual pleasures, with no impediments, [NāradaFn06-07]_ the wise man should cleanse himself of the impurities of the mind.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **88.** 
+     - **87-88.** Abandoning the dark way, let the wise man cultivate the bright path. Having gone from home to homelessness, let him yearn for that delight in detachment, so difficult to enjoy. Giving up sensual pleasures, with no attachment, let the wise man cleanse himself of defilements of the mind.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **88** 
+     - **85-89** [ThaniSFn-V86]_ , [ThaniSFn-V89]_
+       ::
+
+        Few are the people
+        who reach the Far Shore.
+          These others
+          simply scurry along
+          this shore.
+        
+        But those who practice Dhamma
+        in line with the well-taught Dhamma,
+        will cross over the realm of Death
+        so hard to transcend.
+        
+         Forsaking dark practices,
+          the wise person
+        should develop the bright,
+        having gone from home
+          to no-home
+        in seclusion, so hard to enjoy.
+        
+        There he should wish for delight,
+        discarding sensuality —
+          he who has nothing.
+        He should cleanse himself — wise —
+        of what defiles the mind.
+        
+        Whose minds are well-developed
+        in the factors of self-awakening,
+        who delight in non-clinging,
+        relinquishing grasping —
+          resplendent,
+          their effluents ended:
+          they, in the world,
+          are Unbound.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **88** 
-       | 
+     - | **87 & 88** 
+       |  Having left their homes for homelessness,
+       |  The learned ones, possessionless,
+       |  Should aim for inner happiness
+       |  In hard-to-relish loneliness.
+       |  They must leave all states of murkiness
+       |  And cultivate what’s luminous,
+       |  Abandon all voluptuousness,
+       |  And purge their minds’ uncleanliness.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 88 
+     - 87, 88. A wise man should leave the dark state (of ordinary life), and follow the bright state (of the Bhikshu). After going from his home to a homeless state, he should in his retirement look for enjoyment where there seemed to be no enjoyment. Leaving all pleasures behind, and calling nothing his own, the wise man should purge himself from all the troubles of the mind.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 088 <{filename}../dhA/dhA-chap06%zh.rst#dhp088>`__
@@ -711,7 +1035,6 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 89 他們之心已善修，圓滿所有七覺支，
        | 一切執著已捨棄，他們樂於無執著。
-
        | 他們漏盡具光明，即 於此界證涅槃。 [CFFn06-01]_
        | 
        
@@ -725,20 +1048,57 @@
        3. 法集要頌經：心念七覺意，等意不差違，當捨愚惑意，樂於不起忍，盡漏無有漏，於世取滅度T04, 795c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 89. 
+     - 89. Whose minds are well perfected in the Factors of Enlightenment, [NāradaFn06-08]_ who, without clinging, delight in "the giving up of grasping" [NāradaFn06-09]_ (i.e., Nibbāna), they, the corruption-free, shining ones, have attained Nibbāna even in this world.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **89.** 
+     - **89.** Those whose minds have reached full excellence in the factors of enlightenment, who, having renounced acquisitiveness, rejoice in not clinging to things — rid of cankers, glowing with wisdom, they have attained Nibbana in this very life. [BudRkFn-v89]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **89** 
+     - **85-89** [ThaniSFn-V86]_ , [ThaniSFn-V89]_
+       ::
+
+        Few are the people
+        who reach the Far Shore.
+          These others
+          simply scurry along
+          this shore.
+        
+        But those who practice Dhamma
+        in line with the well-taught Dhamma,
+        will cross over the realm of Death
+        so hard to transcend.
+        
+         Forsaking dark practices,
+          the wise person
+        should develop the bright,
+        having gone from home
+          to no-home
+        in seclusion, so hard to enjoy.
+        
+        There he should wish for delight,
+        discarding sensuality —
+          he who has nothing.
+        He should cleanse himself — wise —
+        of what defiles the mind.
+        
+        Whose minds are well-developed
+        in the factors of self-awakening,
+        who delight in non-clinging,
+        relinquishing grasping —
+          resplendent,
+          their effluents ended:
+          they, in the world,
+          are Unbound.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **89** 
-       | 
+       |  Their minds are well-developed in components of enlightenment;
+       |  They’re free of all attachment, and delight in disentanglement;
+       |  Their cankers are extinguished and their mental states are brilliant:
+       |  The people in this world who’ve gained that freedom most magnificent.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 89 
+     - 89 Those whose mind is well grounded in the (seven) elements of knowledge, who without clinging to anything, rejoice in freedom from attachment, whose appetites have been conquered, and who are full of light, are free (even) in this world.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 089 <{filename}../dhA/dhA-chap06%zh.rst#dhp089>`__
@@ -776,7 +1136,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -817,6 +1177,35 @@
 .. [LChnFn06-14] 〔註06-14〕  原文Khinasava譯為「滅盡諸漏」或「諸漏已盡」。即滅盡一切煩惱之意。
 
 .. [CFFn06-01] 〔敬法法師註06-01〕 19 註：此界是指五蘊。
+
+
+.. [NāradaFn06-01] (Ven. Nārada 06-01) Ariya, which means "one who is far removed from passions", was originally a racial term. In Buddhism it indicates nobility of character, and is invariably applied to the Buddhas and the Arahants.
+
+.. [NāradaFn06-02] (Ven. Nārada 06-02) By attaining Sainthood.
+
+.. [NāradaFn06-03] (Ven. Nārada 06-03) The five Aggregates etc. See v. 203.
+
+.. [NāradaFn06-04] (Ven. Nārada 06-04) Namely: self-illusion (sakkāyaditthi). The majority are born again in this world.
+
+.. [NāradaFn06-05] (Ven. Nārada 06-05) Maccudheyya. i.e., worldly existence where passions dominate.
+
+.. [NāradaFn06-06] (Ven. Nārada 06-06) The dark states (kaṇhaṃ dhammaṃ) are the ten kinds of evil deeds, and the bright states (sukkaṃ) are the ten kinds of good deeds. See notes on vv. 42, 43.
+
+.. [NāradaFn06-07] (Ven. Nārada 06-07) The five Hindrances (nīvaraṇa) that obstruct the way to Deliverance. They are, sense-desires (kāmacchanda), ill-will (vyāpāda), sloth and torpor (thīnamiddha), restlessness and brooding (uddhacca-kukkucca) and indecision (vicikicchā). See A Manual of Buddhism by the translator.
+
+.. [NāradaFn06-08] (Ven. Nārada 06-08) See note on v 44.
+
+.. [NāradaFn06-09] (Ven. Nārada 06-09) There are four kinds of grasping - namely: sense-desires, false beliefs, adherence to (wrongful) rites and ceremonies, and self-illusion.
+
+.. [BudRkFn-v89]  (Ven. Buddharakkhita v. 89) This verse describes the arahant, dealt with more fully in the following chapter. The "cankers" (asava) are the four basic defilements of sensual desire, desire for continued existence, false views and ignorance.
+
+.. [ThaniSFn-V79] (Ven. Thanissaro V. 79) "Drinking the Dhamma, refreshed by the Dhamma": two meanings of the word, dhammapiti. "Clear... calm": two meanings of vipasannena.
+
+.. [ThaniSFn-V83] (Ven. Thanissaro V. 83) "Stand apart": reading cajanti with DhpA and many Asian editions.
+
+.. [ThaniSFn-V86] (Ven. Thanissaro V. 86) The syntax of this verse yields the best sense if we take param as meaning "across," and not as "the far shore."
+
+.. [ThaniSFn-V89] (Ven. Thanissaro V. 89) Factors for self-awakening = mindfulness, analysis of qualities, persistence, rapture, serenity, concentration, and equanimity.
 
 ---------------------------
 

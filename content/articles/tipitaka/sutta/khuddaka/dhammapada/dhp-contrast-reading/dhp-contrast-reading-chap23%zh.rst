@@ -3,7 +3,7 @@
 ========================================================================
 
 :date: 2016-06-04 17:00
-:modified: 2016-06-13 10:30
+:modified: 2016-06-27 16:00
 :tags: 法句經, 法句經對讀, 象品, Dhp, Dhammapada, Nāgavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Elephant
@@ -84,20 +84,42 @@
        | 3. 義足經：我如象行鬪，被瘡不著想，念我忍意爾，世人無善念T4,177b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 320. 
+     - **Chapter 23  The Elephant**
+
+       **THE MAJORITY ARE UNDISCIPLINED**
+
+       320. As an elephant in the battlefield withstands the arrows shot from a bow, even so will I endure abuse; verily most people are undisciplined.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **320.** 
+     - **Dhp XXIII The Elephant**
+
+       **320.** As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse. There are many, indeed, who lack virtue.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **320** 
+     - **Dhp XXIII  Elephants**
+
+       **320** 
+       ::
+              
+          I — like an elephant in battle,   
+          enduring an arrow shot from a bow —   
+          will endure a false accusation,   
+          for the mass of people    
+          have        no principles.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **320** 
-       | 
+     - **Chapter 23 The Elephant**
+
+       | **320** 
+       |  A tusker on the battlefront 
+       |  Must bear both spike and blade; 
+       |  And I must likewise bear abuse, 
+       |  For most folk are depraved.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 320 
+     - **Chapter XXIII: The Elephant**
+
+       320 Silently shall I endure abuse as the elephant in battle endures the arrow sent from the bow: for the world is ill-natured.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 320 <{filename}../dhA/dhA-chap23%zh.rst#Dhp320>`__
@@ -133,20 +155,35 @@
        | 5. 智度：能忍惡罵人，是名人中上，譬如好良馬，可中為王乘T25,316a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 321. 
+     - THE CULTURED ENDURE ABUSE
+
+       321. They lead the trained (horses or elephants) to an assembly. The king mounts the trained animal. Best among men are the trained who endure abuse.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **321.** 
+     - **321.** A tamed elephant is led into a crowd, and the king mounts a tamed elephant. Best among men is the subdued one who endures abuse.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **321** 
+     - **321** 
+       ::
+              
+          The tamed is the one    
+          they take into assemblies.    
+          The tamed is the one    
+          the king mounts.    
+          The tamed who endures   
+          a false accusation    
+          is, among human beings,   
+            the best.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **321** 
-       | 
+       |  A steed that’s tamed, a king will mount;  
+       |  Grand meetings does that horse attend.  
+       |  Those well-tamed men who bear insults 
+       |  Are likewise truly excellent.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 321 
+     - 321 They lead a tamed elephant to battle, the king mounts a tamed elephant; the tamed is the best among men, he who silently endures abuse.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 321 <{filename}../dhA/dhA-chap23%zh.rst#Dhp321>`__
@@ -180,20 +217,36 @@
        4. 法集：雖為常調伏，如彼新馳馬，亦如善龍象，不如自調者T4,786c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 322. 
+     - BLESSED IS HE WHO CONTROLS HIMSELF
+
+       322. Excellent are trained mules, so are thoroughbred horses of Sindh and noble tusked elephants; but far better is he who has trained himself.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **322.** 
+     - **322.** Excellent are well-trained mules, thoroughbred Sindhu horses and noble tusker elephants. But better still is the man who has subdued himself.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **322** 
+     - **322-323** 
+       ::
+              
+          Excellent are tamed mules,    
+            tamed thoroughbreds,  
+            tamed horses from Sindh.  
+          Excellent, tamed tuskers,   
+            great elephants.  
+          But even more excellent   
+          are those   self-tamed.   
+              
+          For not by these mounts could you go    
+          to the land unreached,    
+          as the tamed one goes   
+          by taming, well-taming, himself.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **322** 
-       | 
+       |  Trained mules are excellent, as are thoroughbred horses from Sindh, and majestic elephants. But a person who has tamed himself is even more excellent.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 322 
+     - 322 Mules are good, if tamed, and noble Sindhu horses, and elephants with large tusks; but he who tames himself is better still.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 322 <{filename}../dhA/dhA-chap23%zh.rst#Dhp322>`__
@@ -227,20 +280,39 @@
        4. 法集：彼人不能乘，人所亦不至，惟自調伏者，乃到調方所T4,786c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 323. 
+     - SELF-CONTROL LEADS TO ONE'S GOAL
+
+       323. Surely never by those vehicles would one go to the untrodden land (Nibbāna) as does one who is controlled through his subdued [NāradaFn23-01]_ and well-trained [NāradaFn23-02]_ self.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **323.** 
+     - **323.** Not by these mounts, however, would one go to the Untrodden Land (Nibbana), as one who is self-tamed goes by his own tamed and well-controlled mind.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **323** 
+     - **322-323** 
+       ::
+              
+          Excellent are tamed mules,    
+            tamed thoroughbreds,  
+            tamed horses from Sindh.  
+          Excellent, tamed tuskers,   
+            great elephants.  
+          But even more excellent   
+          are those   self-tamed.   
+              
+          For not by these mounts could you go    
+          to the land unreached,    
+          as the tamed one goes   
+          by taming, well-taming, himself.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **323** 
-       | 
+       |  By no means using carts or steeds 
+       |  To final Truth will men proceed;  
+       |  But, rather, they who’ve tamed their minds. 
+       |  Tamed by taming, the Truth they’ll find.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 323 
+     - 323 For with these animals does no man reach the untrodden country (Nirvana), where a tamed man goes on a tamed animal, viz. on his own well-tamed self.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 323 <{filename}../dhA/dhA-chap23%zh.rst#Dhp323>`__
@@ -272,20 +344,32 @@
        2. 法句譬喻經：如象名護財，猛害難禁制，繫靽不與食，而猶慕逸象T4,600c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 324. 
+     - AN ELEPHANT CARED FOR HIS MOTHER
+
+       324. The uncontrollable, captive tusker named Dhanapālaka, with pungent juice flowing, eats no morsel; the tusker calls to mind the elephant forest.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **324.** 
+     - **324.** Musty during rut, the tusker named Dhanapalaka is uncontrollable. Held in captivity, the tusker does not touch a morsel, but only longingly calls to mind the elephant forest.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **324** 
+     - **324** [ThaniSFn-V324]_
+       ::
+              
+          The tusker, Dhanapalaka,    
+          deep in rut, is hard to control.    
+          Bound, he won't eat a morsel:   
+          the tusker misses   
+          the elephant wood.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **324** 
-       | 
+       |  ‘Treasurer’, the elephant, is standing distraught:  
+       |  He’s been fastened with bindings both painful and taut. 
+       |  Though provided with grass, he will eat not a blade -   
+       |  He remembers the bliss of the elephant glade.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 324 
+     - 324 The elephant called Dhanapalaka, his temples running with sap, and difficult to hold, does not eat a morsel when bound; the elephant longs for the elephant grove.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 324 <{filename}../dhA/dhA-chap23%zh.rst#Dhp324>`__
@@ -318,20 +402,33 @@
        3. 法集：貪餮不自節，三轉隨時行，如圈被養猪，數數受胞胎T4,786c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 325. 
+     - BE MODERATE IN EATING
+
+       325. The stupid one, when he is torpid, gluttonous, sleepy, rolls about lying like a great hog nourished on pig-wash, goes to rebirth again and again.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **325.** 
+     - **325.** When a man is sluggish and gluttonous, sleeping and rolling around in bed like a fat domestic pig, that sluggard undergoes rebirth again and again.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **325** 
+     - **325** 
+       ::
+              
+          When torpid & over-fed,   
+          a sleepy-head lolling about   
+          like a stout hog, fattened on fodder:   
+          a dullard enters the womb   
+            over &  
+            over again.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **325** 
-       | 
+       |  The indolent glutton who gobbles his fill 
+       |  Like a corpulent porker that’s fattened on swill, 
+       |  Rolling around in luxurious slumber,  
+       |  Will enter the womb again, times without number.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 325 
+     - 325 If a man becomes fat and a great eater, if he is sleepy and rolls himself about, that fool, like a hog fed on wash, is born again and again.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 325 <{filename}../dhA/dhA-chap23%zh.rst#Dhp325>`__
@@ -367,20 +464,33 @@
        4. 法集：汝心莫遊行，恣意而放逸，我今還攝汝，如御暴逸象T4,795b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 326. 
+     - CONTROL YOUR THOUGHTS
+
+       326. Formerly this mind went wandering where it liked, as it wished and as it listed. Today with attentiveness I shall completely hold it in check, as a mahout (holds in check) an elephant in must.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **326.** 
+     - **326.** Formerly this mind wandered about as it liked, where it wished and according to its pleasure, but now I shall thoroughly master it with wisdom as a mahout controls with his ankus an elephant in rut.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **326** 
+     - **326** 
+       ::
+              
+          Before, this mind went wandering    
+            however it pleased, 
+            wherever it wanted, 
+            by whatever way that it liked.  
+          Today I will hold it aptly in check —   
+          as one wielding a goad, an elephant in rut.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **326** 
-       | 
+       |  This mind went a-wandering in previous times  
+       |  Whenever, wherever, its pleasure inclined;  
+       |  But today, using wisdom, I’ll hold it restrained  
+       |  Like a driver with hook might an elephant train.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 326 
+     - 326 This mind of mine went formerly wandering about as it liked, as it listed, as it pleased; but I shall now hold it in thoroughly, as the rider who holds the hook holds in the furious elephant.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 326 <{filename}../dhA/dhA-chap23%zh.rst#Dhp326>`__
@@ -414,20 +524,35 @@
        4. 法集：苾芻懷謹慎，放逸多憂愆，如象拔淤泥，難救深海苦T4,779b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 327. 
+     - AVOID THE EVIL WAY
+
+       327. Take delight in heedfulness. Guard your mind well. Draw yourselves out of the evil way as did the elephant sunk in the mire.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **327.** 
+     - **327.** Delight in heedfulness! Guard well your thoughts! Draw yourself out of this bog of evil, even as an elephant draws himself out of the mud.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **327** 
+     - **327** 
+       ::
+              
+          Delight in heedfulness.   
+          Watch over your own mind.   
+          Lift yourself up    
+          from the hard-going way,    
+          like a tusker sunk in the mud.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **327** 
-       | 
+       |  Take pleasure in diligence, 
+       |  Guarding your consciousness.  
+       |    
+       |  Evil, though difficult, 
+       |  Act like the elephant:  
+       |  Stuck in a marsh, 
+       |  He just pulls himself out of it.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 327 
+     - 327 Be not thoughtless, watch your thoughts! Draw yourself out of the evil way, like an elephant sunk in mud.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 327 <{filename}../dhA/dhA-chap23%zh.rst#Dhp327>`__
@@ -465,20 +590,42 @@
        | 5. 四分：若審得善伴，共行住勇健，遊處在諸眾，其心常歡喜T22,882c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 328. 
+     - ASSOCIATE WITH THE WISE
+
+       328. If you get a prudent companion (who is fit) to live with you, who behaves well and is wise, you should live with him joyfully and mindfully, overcoming all dangers.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **328.** 
+     - **328.** If for company you find a wise and prudent friend who leads a good life, you should, overcoming all impediments, keep his company joyously and mindfully.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **328** 
+     - **328-330** 
+       ::
+              
+          If you gain a mature companion —    
+          a fellow traveler, right-living, enlightened —    
+          overcoming all dangers    
+            go with him, gratified, 
+            mindful.  
+              
+          If you don't gain a mature companion —    
+          a fellow traveler, right-living, enlightened —    
+            go alone  
+          like a king renouncing his kingdom,   
+          like the elephant in the Matanga wilds,   
+            his herd. 
+              
+          Going alone is better,    
+          there's no companionship with a fool.   
+            Go alone, 
+          doing no evil, at peace,    
+          like the elephant in the Matanga wilds.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **328** 
-       | 
+       |  If you find a prudent friend or companion who is virtuous and wise, overcoming all difficulties, you should live together happily and mindfully.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 328 
+     - 328 If a man find a prudent companion who walks with him, is wise, and lives soberly, he may walk with him, overcoming all dangers, happy, but considerate.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 328 <{filename}../dhA/dhA-chap23%zh.rst#Dhp328>`__
@@ -517,20 +664,42 @@
        | 6. 四分：若不得善伴，獨行常勇健，捨於郡國邑，無事如野象T22,882c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 329. 
+     - WANDER ALONE IF THERE IS NO SUITABLE COMPANION
+
+       329. If you do not get a prudent companion who (is fit) to live with you, who behaves well and is wise, then like a king who leaves a conquered kingdom, you should live alone as an elephant does in the elephant forest.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **329.** 
+     - **329.** If for company you cannot find a wise and prudent friend who leads a good life, then, like a king who leaves behind a conquered kingdom, or like a lone elephant in the elephant forest, you should go your way alone.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **329** 
+     - **328-330** [ThaniSFn-V329-330]_
+       ::
+              
+          If you gain a mature companion —    
+          a fellow traveler, right-living, enlightened —    
+          overcoming all dangers    
+            go with him, gratified, 
+            mindful.  
+              
+          If you don't gain a mature companion —    
+          a fellow traveler, right-living, enlightened —    
+            go alone  
+          like a king renouncing his kingdom,   
+          like the elephant in the Matanga wilds,   
+            his herd. 
+              
+          Going alone is better,    
+          there's no companionship with a fool.   
+            Go alone, 
+          doing no evil, at peace,    
+          like the elephant in the Matanga wilds.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **329** 
-       | 
+       |  If you find no prudent friend or companion who is virtuous and wise, like a king abandoning his conquered kingdom, live alone, like an elephant in Elephant Jungle.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 329 
+     - 329 If a man find no prudent companion who walks with him, is wise, and lives soberly, let him walk alone, like a king who has left his conquered country behind,--like an elephant in the forest.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 329 <{filename}../dhA/dhA-chap23%zh.rst#Dhp329>`__
@@ -570,20 +739,42 @@
        | 7. 四分：寧獨自行善，不與愚惡伴，獨行莫作惡，如山頂野象T22,882c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 330. 
+     - A SOLITARY CAREER IS BETTER
+
+       330. Better it is to live alone. There is no fellowship [NāradaFn23-03]_ with the ignorant. Let one live alone doing no evil, care-free, like an elephant in the elephant forest.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **330.** 
+     - **330.** Better it is to live alone; there is no fellowship with a fool. Live alone and do no evil; be carefree like an elephant in the elephant forest.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **330** 
+     - **328-330** [ThaniSFn-V329-330]_
+       ::
+              
+          If you gain a mature companion —    
+          a fellow traveler, right-living, enlightened —    
+          overcoming all dangers    
+            go with him, gratified, 
+            mindful.  
+              
+          If you don't gain a mature companion —    
+          a fellow traveler, right-living, enlightened —    
+            go alone  
+          like a king renouncing his kingdom,   
+          like the elephant in the Matanga wilds,   
+            his herd. 
+              
+          Going alone is better,    
+          there's no companionship with a fool.   
+            Go alone, 
+          doing no evil, at peace,    
+          like the elephant in the Matanga wilds.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **330** 
-       | 
+       |  To live alone is better: there’s no fellowship with fools. Live alone, doing no evil, free of troubles, like an elephant in Elephant Jungle.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 330 
+     - 330 It is better to live alone, there is no companionship with a fool; let a man walk alone, let him commit no sin, with few wishes, like an elephant in the forest.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 330 <{filename}../dhA/dhA-chap23%zh.rst#Dhp330>`__
@@ -618,20 +809,43 @@
        3. 法集：聚則有樂，朋友食福樂，彼滅寂然樂，展轉普及人T4,795a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 331. 
+     - BLESSED ARE FRIENDS IN NEED
+
+       331. When need arises, pleasant (is it to have) friends. Pleasant is it to be content with just this and that. Pleasant is merit when life is at an end. Pleasant is the shunning of all ill.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **331.** 
+     - **331.** Good are friends when need arises; good is contentment with just what one has; good is merit when life is at an end, and good is the abandoning of all suffering (through Arahantship).
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **331** 
+     - **331-333** 
+       ::
+              
+          A blessing:     friends when the need arises.   
+          A blessing:     contentment with whatever there is.   
+          Merit at the ending of life is a blessing.    
+          A blessing:     the abandoning of all suffering   
+                       & stress.  
+              
+          A blessing in the world:    reverence to your mother.   
+          A blessing:     reverence to your father as well.   
+          A blessing in the world:    reverence to a contemplative.   
+          A blessing:     reverence for a brahman, too.   
+              
+          A blessing into old age is virtue.    
+          A blessing:     conviction established.   
+          A blessing:     discernment attained.   
+          The non-doing of evil things is   
+               a blessing.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **331** 
-       | 
+       |  How happy are friends when there’s critical need; 
+       |  How happy are tastes that are easily pleased; 
+       |  How happy is merit on reaching life’s end;  
+       |  How happy, all suffering to finally transcend!
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 331 
+     - 331 If an occasion arises, friends are pleasant; enjoyment is pleasant, whatever be the cause; a good work is pleasant in the hour of death; the giving up of all grief is pleasant.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 331 <{filename}../dhA/dhA-chap23%zh.rst#Dhp331>`__
@@ -664,20 +878,45 @@
        3. 法集：世有父母樂，眾集和亦樂，世有沙門樂，靜志樂亦然T4,794c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 332. 
+     - BLESSED IS MINISTERING UNTO PARENTS
+
+       332. Pleasant in this world is ministering to mother. [NāradaFn23-04]_ Ministering to father too is pleasant in this world. Pleasant is ministering to ascetics. Pleasant too is ministering to the Noble Ones. [NāradaFn23-05]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **332.** 
+     - **332.** In this world, good it is to serve one's mother, good it is to serve one's father, good it is to serve the monks, and good it is to serve the holy men.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **332** 
+     - **331-333** 
+       ::
+              
+          A blessing:     friends when the need arises.   
+          A blessing:     contentment with whatever there is.   
+          Merit at the ending of life is a blessing.    
+          A blessing:     the abandoning of all suffering   
+                       & stress.  
+              
+          A blessing in the world:    reverence to your mother.   
+          A blessing:     reverence to your father as well.   
+          A blessing in the world:    reverence to a contemplative.   
+          A blessing:     reverence for a brahman, too.   
+              
+          A blessing into old age is virtue.    
+          A blessing:     conviction established.   
+          A blessing:     discernment attained.   
+          The non-doing of evil things is   
+               a blessing.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **332** 
-       | 
+     - **332** 
+       ::
+              
+         Happy, is respect 
+                   for one’s mother and father;  
+                   for ascetics; 
+                   for arahants.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 332 
+     - 332 Pleasant in the world is the state of a mother, pleasant the state of a father, pleasant the state of a Samana, pleasant the state of a Brahmana.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 332 <{filename}../dhA/dhA-chap23%zh.rst#Dhp332>`__
@@ -723,20 +962,43 @@
        | 4. 中本起：持戒終老安，信正所止善，智慧最安身，眾惡不犯安T4,150a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 333. 
+     - BLESSED ARE VIRTUE, FAITH AND WISDOM
+
+       333. Pleasant is virtue (continued) until old age. Pleasant is steadfast confidence. Pleasant is the attainment of wisdom. Pleasant is it to do no evil.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **333.** 
+     - **333.** Good is virtue until life's end, good is faith that is steadfast, good is the acquisition of wisdom, and good is the avoidance of evil.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **333** 
+     - **331-333** 
+       ::
+              
+          A blessing:     friends when the need arises.   
+          A blessing:     contentment with whatever there is.   
+          Merit at the ending of life is a blessing.    
+          A blessing:     the abandoning of all suffering   
+                       & stress.  
+              
+          A blessing in the world:    reverence to your mother.   
+          A blessing:     reverence to your father as well.   
+          A blessing in the world:    reverence to a contemplative.   
+          A blessing:     reverence for a brahman, too.   
+              
+          A blessing into old age is virtue.    
+          A blessing:     conviction established.   
+          A blessing:     discernment attained.   
+          The non-doing of evil things is   
+               a blessing.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **333** 
-       | 
+       |  Happy: maintaining one’s virtue till old age. 
+       |  Happy: having faith that is unshakeable.  
+       |  Happy: attaining wisdom.  
+       |  Happy: not doing any evil.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 333 
+     - 333 Pleasant is virtue lasting to old age, pleasant is a faith firmly rooted; pleasant is attainment of intelligence, pleasant is avoiding of sins.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十三：象品 Dhp. 333 <{filename}../dhA/dhA-chap23%zh.rst#Dhp333>`__
@@ -774,7 +1036,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -801,6 +1063,20 @@
 .. [LChnFn23-07] 〔註23-07〕  指生死輪迴。
 
 .. [CFFn23-01] 〔敬法法師註23-01〕 51 註釋： **婆羅門** 是已捨棄諸惡、修行圓滿的佛陀、辟支佛與弟子們。
+
+.. [NāradaFn23-01] (Ven. Nārada 23-01) Dantena by sense-control.
+
+.. [NāradaFn23-02] (Ven. Nārada 23-02) Sudantena by the development of the Noble Path.
+
+.. [NāradaFn23-03] (Ven. Nārada 23-03) Sahāyatā. By this term are meant morality, austere practices, insight, Paths, Fruits and Nibbāna. (Commentary) See v. 61.
+
+.. [NāradaFn23-04] (Ven. Nārada 23-04) Matteyyatā does not mean motherhood or "to have a mother". The Commentarial explanation is good conduct (sammā-pañipatti) towards the mother, that is, ministering to the mother. The other terms are similarly explained.
+
+.. [NāradaFn23-05] (Ven. Nārada 23-05) The Buddha, the Arahants, and so on.
+
+.. [ThaniSFn-V324] (Ven. Thanissaro V. 324) DhpA: Dhanapalaka was a noble elephant captured for the king of Kasi. Although given palatial quarters with the finest food, he showed no interest, but thought only of the sorrow his mother felt, alone in the elephant wood, separated from her son.
+
+.. [ThaniSFn-V329-330] (Ven. Thanissaro V. 329-330) DhpA: The bull elephant named Matanga, reflecting on the inconveniences of living in a herd crowded with she-elephants and young elephants — he was pushed around as he went into the river, had to drink muddied water, had to eat leaves that others had already nibbled, etc. — decided that he would find more pleasure in living alone. His story parallels that of the elephant in AN 9.40 and elephant the Buddha met in the Parileyyaka Forest (Mv X.4.6-7).
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

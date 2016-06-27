@@ -3,7 +3,7 @@
 ===========================================================================
 
 :date: 2016-06-03 21:30
-:modified: 2016-06-12 13:30
+:modified: 2016-06-26 16:00
 :tags: 法句經, 法句經對讀, 阿羅漢品, Dhp, Dhammapada, Arahantavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Arahat
@@ -79,20 +79,48 @@
        3. 法集要頌經：行路無復憂，終日得解脫，一切結使盡，無復有眾惱T04, 793c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 90. 
+     - **Chapter 7 Arahanta Vagga** [NāradaFn07-01]_  **The Worthy**
+
+       **NO SUFFERING FOR THE EMANCIPATED**
+
+       90. For him who has completed the journey, [NāradaFn07-02]_ for him who is sorrowless, for him who from everything [NāradaFn07-03]_ is wholly free, [NāradaFn07-04]_ for him who has destroyed all Ties, [NāradaFn07-05]_ the fever (of passion) exists not. [NāradaFn07-06]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **90.** 
+     - **Dhp VII The Arahant or Perfected One**
+
+       **90.** The fever of passion exists not for him who has completed the journey, who is sorrowless and wholly set free, and has broken all ties.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **90** 
+     - **Dhp VII Arahants**
+
+       **90** 
+       ::
+
+              In one who
+         has gone the full distance,
+         is free from sorrow,
+         is fully released
+                in all respects,
+         has abandoned all bonds:
+                no fever is found.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **90** 
-       | 
+     - **Chapter 7 The Arahant**
+
+       **90** 
+       ::
+
+         In a person 
+                   who has completed the journey;  
+                   who is free of sorrow;  
+                   who is completely liberated from all things;  
+                   who is free of all bonds: 
+         burning distress is not found.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 90 
+     - **Chapter VII: The Venerable (Arhat)**
+
+       90 There is no suffering for him who has finished his journey, and abandoned grief, who has freed himself on all sides, and thrown off all fetters.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 090 <{filename}../dhA/dhA-chap07%zh.rst#Dhp090>`__
@@ -125,20 +153,32 @@
        3. 法集要頌經：淨心常憶念，無所有貪愛，已度愚癡淵，如鵝守枯池T04, 785c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 91. 
+     - ARAHANTS ARE FREE FROM ATTACHMENT
+       
+       91. The mindful exert themselves. To no abode are they attached. Like swans that quit their pools, home after home they abandon (and go). [NāradaFn07-07]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **91.** 
+     - **91.** The mindful ones exert themselves. They are not attached to any home; like swans that abandon the lake, they leave home after home behind.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **91** 
+     - **91** 
+       ::
+
+        The mindful keep active,
+        don't delight in settling back.
+        They renounce every home,
+             every home,
+        like swans taking off from a lake.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **91** 
-       | 
+       |  Mindful beings get on their way:  
+       |  They don’t enjoy in homes to stay.  
+       |  Hearths and homes those men forsake,  
+       |  Like swans depart a charming lake.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 91 
+     - 91 They depart with their thoughts well-collected, they are not happy in their abode; like swans who have left their lake, they leave their house and home.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 091 <{filename}../dhA/dhA-chap07%zh.rst#Dhp091>`__
@@ -174,20 +214,44 @@
        3. 法集要頌經：若人無所依，知彼所貴食，空及無相願，思惟以為行。鳥飛於虛空，而無足跡現，如彼行行人，言說無所趣T04, 793b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 92. 
+     - BE NOT ATTACHED TO FOOD
+
+       92. They for whom there is no accumulation, [NāradaFn07-08]_ who reflect well over their food, [NāradaFn07-09]_ who have Deliverance [NāradaFn07-10]_ which is Void and Signless, as their object - their course, like that of birds in the air, cannot be traced.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **92.** 
+     - **92.** Those who do not accumulate and are wise regarding food, whose object is the Void, the Unconditioned Freedom — their track cannot be traced, like that of birds in the air.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **92** 
+     - **92-93** [ThaniSFn-V92-93]_
+       ::
+
+        Not hoarding,
+        having comprehended food,
+        their pasture — emptiness
+        & freedom without sign:
+          their trail,
+        like that of birds through space,
+          can't be traced.
+        
+        Effluents ended,
+        independent of nutriment,
+        their pasture — emptiness
+        & freedom without sign:
+          their trail,
+        like that of birds through space,
+          can't be traced.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **92** 
-       | 
+       |  Those who hoards of goods don’t keep, 
+       |  Who see with wisdom what they eat,  
+       |  Who focus on, in meditation,  
+       |  Signless void emancipation: 
+       |  Unknowable their future state,  
+       |  Like birds that through the skies migrate.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 92 
+     - 92 Men who have no riches, who live on recognised food, who have perceived void and unconditioned freedom (Nirvana), their path is difficult to understand, like that of birds in the air.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 092 <{filename}../dhA/dhA-chap07%zh.rst#Dhp092>`__
@@ -222,20 +286,44 @@
        2. 法集要頌經：如鳥飛虛空，而無有所礙，彼人獲無漏，空無相願定。如鳥飛虛空，而無有所礙，行人到彼岸，空無相願定T04, 793c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 93. 
+     - FREE ARE THE UNDEFILED ONES
+
+       93. He whose corruptions are destroyed, he who is not attached to food, he who has Deliverance, which is Void and Signless, as his object - his path, like that of birds in the air, cannot be traced.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **93.** 
+     - **93.** He whose cankers are destroyed and who is not attached to food, whose object is the Void, the Unconditioned Freedom — his path cannot be traced, like that of birds in the air.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **93** 
+     - **92-93** [ThaniSFn-V92-93]_
+       ::
+
+        Not hoarding,
+        having comprehended food,
+        their pasture — emptiness
+        & freedom without sign:
+          their trail,
+        like that of birds through space,
+          can't be traced.
+        
+        Effluents ended,
+        independent of nutriment,
+        their pasture — emptiness
+        & freedom without sign:
+          their trail,
+        like that of birds through space,
+          can't be traced.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **93** 
-       | 
+       |  Those who do not cling to food, 
+       |  The taints of whom are all removed, 
+       |  Who focus on, in meditation,  
+       |  Signless void emancipation: 
+       |  Their final path is hard to spy 
+       |  As that in space on which birds fly.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 93 
+     - 93 He whose appetites are stilled, who is not absorbed in enjoyment, who has perceived void and unconditioned freedom (Nirvana), his path is difficult to understand, like that of birds in the air.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 093 <{filename}../dhA/dhA-chap07%zh.rst#Dhp093>`__
@@ -273,20 +361,47 @@
        | 6. 大智度論：人守護六情，如好馬善調，如是實智人，諸天所敬視T25, 81b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 94. 
+     - THE SENSE-CONTROLLED ARE DEAR TO ALL
+
+       94. He whose senses are subdued, like steeds well-trained by a charioteer, he whose pride is destroyed and is free from the corruptions - such a steadfast one even the gods hold dear.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **94.** 
+     - **94.** Even the gods hold dear the wise one, whose senses are subdued like horses well trained by a charioteer, whose pride is destroyed and who is free from the cankers.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **94** 
+     - **94-96** [ThaniSFn-V94]_ , [ThaniSFn-V95]_
+       ::
+
+        He whose senses are steadied
+          like stallions
+        well-trained by the charioteer,
+        his conceit abandoned,
+          free of effluent,
+          Such:
+        even devas adore him.
+        
+        Like the earth, he doesn't react —
+          cultured,
+          Such,
+        like Indra's pillar,
+        like a lake free of mud.
+        For him
+             — Such —
+        there's no traveling on.
+        
+        Calm is his mind,
+        calm his speech
+          & his deed:
+        one who's released through right knowing,
+          pacified,
+          Such.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **94** 
-       | 
+       |  One who has calmed his faculties - like a charioteer his well-trained horses - and who has abandoned the presumption of a ‘me’, and who is free of the asavas, even the devas adore him.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 94 
+     - 94 The gods even envy him whose senses, like horses well broken in by the driver, have been subdued, who is free from pride, and free from appetites.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 094 <{filename}../dhA/dhA-chap07%zh.rst#Dhp094>`__
@@ -322,20 +437,47 @@
        | 5. 瑜伽師地論：智者如空無染污，不動猶如天帝幢，如泛清涼盈滿池，不樂淤泥生死海T30, 382b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 95. 
+     - LIKE THE EARTH ARAHANTS RESENT NOT
+
+       95. Like the earth a balanced and well-disciplined person resents not. He is comparable to an Indakhīla. [NāradaFn07-11]_ Like a pool unsullied by mud, is he; to such a balanced one [NāradaFn07-12]_ life's wanderings do not arise. [NāradaFn07-13]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **95.** 
+     - **95.** There is no more worldly existence for the wise one who, like the earth, resents nothing, who is firm as a high pillar and as pure as a deep pool free from mud.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **95** 
+     - **94-96** [ThaniSFn-V94]_ , [ThaniSFn-V95]_
+       ::
+
+        He whose senses are steadied
+          like stallions
+        well-trained by the charioteer,
+        his conceit abandoned,
+          free of effluent,
+          Such:
+        even devas adore him.
+        
+        Like the earth, he doesn't react —
+          cultured,
+          Such,
+        like Indra's pillar,
+        like a lake free of mud.
+        For him
+             — Such —
+        there's no traveling on.
+        
+        Calm is his mind,
+        calm his speech
+          & his deed:
+        one who's released through right knowing,
+          pacified,
+          Such.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **95** 
-       | 
+       |  For someone as hard to offend as the earth, as firm in his spiritual vows as a rock, as free of dirt as a lake, there is no more wandering in samsara.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 95 
+     - 95 Such a one who does his duty is tolerant like the earth, like Indra's bolt; he is like a lake without mud; no new births are in store for him.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 095 <{filename}../dhA/dhA-chap07%zh.rst#Dhp095>`__
@@ -369,20 +511,54 @@
        4. 法集要頌經：自則致歡喜，身口意相應，以得等解脫，苾芻息意快，一切諸結盡，無復有塵勞T04, 796a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 96. 
+     - CALM ARE THE PEACEFUL
+
+       96. Calm is his mind, calm is his speech, calm is his action, who, rightly knowing, is wholly freed, [NāradaFn07-14]_ perfectly peaceful, [NāradaFn07-15]_ and equipoised.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **96.** 
+     - **96.** Calm is his thought, calm his speech, and calm his deed, who, truly knowing, is wholly freed, perfectly tranquil and wise.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **96** 
+     - **94-96** [ThaniSFn-V94]_ , [ThaniSFn-V95]_
+       ::
+
+        He whose senses are steadied
+          like stallions
+        well-trained by the charioteer,
+        his conceit abandoned,
+          free of effluent,
+          Such:
+        even devas adore him.
+        
+        Like the earth, he doesn't react —
+          cultured,
+          Such,
+        like Indra's pillar,
+        like a lake free of mud.
+        For him
+             — Such —
+        there's no traveling on.
+        
+        Calm is his mind,
+        calm his speech
+          & his deed:
+        one who's released through right knowing,
+          pacified,
+          Such.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **96** 
-       | 
+     - **96** 
+       ::
+
+         Those who are 
+                   peaceful in mind; 
+                   peaceful in speech; 
+                   peaceful in conduct;  
+                   freed through perfect insight:  
+         such ones are utterly peaceful.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 96 
+     - 96 His thought is quiet, quiet are his word and deed, when he has obtained freedom by true knowledge, when he has thus become a quiet man.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 096 <{filename}../dhA/dhA-chap07%zh.rst#Dhp096>`__
@@ -420,20 +596,40 @@
        | 7. 成實論：知不作者，不信者等，是名上人。T32, 245c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 97. 
+     - NOBLE IS HE WHO IS NOT CREDULOUS
+
+       97. [NāradaFn07-16]_ The man who is not credulous, [NāradaFn07-17]_ who understands the Uncreate [NāradaFn07-18]_ (Nibbāna), who has cut off the links, [NāradaFn07-19]_ who has put an end to occasion [NāradaFn07-20]_ (of good and evil), who has eschewed [NāradaFn07-21]_ all desires, [NāradaFn07-22]_ he indeed, is a supreme man.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **97.** 
+     - **97.** The man who is without blind faith, who knows the Uncreated, who has severed all links, destroyed all causes (for karma, good and evil), and thrown out all desires — he, truly, is the most excellent of men. [BudRkFn-v97]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **97** 
+     - **97** [ThaniSFn-V97]_  
+       ::
+
+                 The man
+             faithless / beyond conviction
+          ungrateful / knowing the Unmade
+             a burglar / who has severed connections
+             who's destroyed   
+          his chances / conditions
+        who eats vomit: / has disgorged expectations:
+             the ultimate person.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **97** 
-       | 
+     - **97** 
+       ::
+
+         A person  
+                   who is not credulous; 
+                   who knows the unconditioned;  
+                   who has broken all fetters; 
+                   who has destroyed the possibility of rebirth; 
+                   who has eliminated passion; 
+         is the greatest of persons.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 97 
+     - 97 The man who is free from credulity, but knows the uncreated, who has cut all ties, removed all temptations, renounced all desires, he is the greatest of men.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 097 <{filename}../dhA/dhA-chap07%zh.rst#Dhp097>`__
@@ -469,20 +665,31 @@
        | 5. 有部毘奈耶：若村若林中，若高若下處，僧伽居住者，令生愛樂心T23, 755b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 98. 
+     - DELIGHTFUL IS THE SPOT WHERE ARAHANTS DWELL
+
+       98. Whether in village or in forest in vale or on hill, [NāradaFn07-23]_ wherever Arahants dwell - delightful, indeed, is that spot. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **98.** 
+     - **98.** Inspiring, indeed, is that place where Arahants dwell, be it a village, a forest, a vale, or a hill.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **98** 
+     - **98** 
+       ::
+
+        In village or wilds,
+        valley, plateau:
+        that place is delightful
+        where arahants dwell.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **98** 
-       | 
+       |  Wherever an arahant chooses to stay,  
+       |  High on a mountain, or down on the plain, 
+       |  Whether in village or quiet forestation,  
+       |  Delightful indeed is that lovely location.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 98 
+     - 98 In a hamlet or in a forest, in the deep water or on the dry land, wherever venerable persons (Arhanta) dwell, that place is delightful.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 098 <{filename}../dhA/dhA-chap07%zh.rst#Dhp098>`__
@@ -504,8 +711,8 @@
    * - 巴利原典 (CSCD) [2]_
      - | 99. Ramaṇīyāni  araññāni, yattha na ramatī jano;
        | Vītarāgā ramissanti, na te kāmagavesino.
-       |
-        
+       | 
+
        **Arahantavaggo sattamo niṭṭhito.**
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
@@ -527,20 +734,33 @@
        4. 法集要頌經：空閑甚可樂，然人不樂彼，無欲常居之，非欲之所處T04, 793b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 99. 
+     - DELIGHTFUL ARE THE FORESTS TO THE PASSIONLESS
+
+       99. Delightful are the forests where worldlings delight not; the passionless [NāradaFn07-24]_ will rejoice (therein), (for) they seek no sensual pleasures.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **99.** 
+     - **99.** Inspiring are the forests in which worldlings find no pleasure. There the passionless will rejoice, for they seek no sensual pleasures.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **99** 
+     - **99** 
+       ::
+
+        Delightful wilds
+        where the crowds don't delight,
+        those free from passion
+          delight,
+        for they're not searching
+        for sensual pleasures.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **99** 
-       | 
+       |  Delightful indeed is that wild forestation  
+       |  Where commonplace people find no titillation. 
+       |  There, passionless men find a quiet delectation,  
+       |  For they are not thirsting for sense stimulation.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 99 
+     - 99 Forests are delightful; where the world finds no delight, there the passionless will find delight, for they look not for pleasures.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 099 <{filename}../dhA/dhA-chap07%zh.rst#Dhp099>`__
@@ -578,7 +798,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -621,6 +841,64 @@
 .. [CFFn07-01] 〔敬法法師註07-01〕 20 註：不儲藏是指不再造業及不儲藏四資具。徹知是指三遍知。空、無相與解脫皆是指涅槃。
 
 .. [CFFn07-02] 〔敬法法師註07-02〕 21 如如不動者是指不受世間的起落動搖之人。
+
+.. [NāradaFn07-01]  (Ven. Nārada 07-01) Arahanta has several meanings. It may be interpreted as "Worthy One". "Passionless One". Or one who commits no evil even secretly. He has got rid of both death and birth. After death, in conventional terms, he attains parinibbāna. Until his death he serves other seekers of truth by example and by precept.
+
+.. [NāradaFn07-02]  (Ven. Nārada 07-02) Of life in the round of existence, i.e., an Arahant.
+
+.. [NāradaFn07-03]  (Ven. Nārada 07-03) Sabbadhi, the five Aggregates, etc.
+
+.. [NāradaFn07-04]  (Ven. Nārada 07-04) One gives up sorrow by attaining Anāgāmi, the third stage of Sainthood. It is at this stage one eradicates completely attachment to sense-desires and ill-will or aversion.
+
+.. [NāradaFn07-05]  (Ven. Nārada 07-05) There are four kinds of ganthas (Ties) - namely: i. covetousness (abhijjhā). ii. ill-will (vyāpāda). iii. indulgence in (wrongful) rites and ceremonies (sīlabbataparāmāsa), and iv. adherence to one's preconceptions as truth (idaṃ saccābhinivesa).
+
+.. [NāradaFn07-06]  (Ven. Nārada 07-06) This verse refers to the ethical state of an Arahant. Heat is both physical and mental. An Arahant experiences bodily heat as long as he is alive, but is not thereby worried. Mental heat of passions he experiences not.
+
+.. [NāradaFn07-07]  (Ven. Nārada 07-07) Arahants wander whithersoever they like without any attachment to any particular place as they are free from the conception of "I" and "mine".
+
+.. [NāradaFn07-08]  (Ven. Nārada 07-08) There are two kinds of accumulation- namely: kammic activities and the four necessaries of life. The former tend to prolong life in Saṃsāra and the latter, though essential, may prove an obstacle to spiritual progress.
+
+.. [NāradaFn07-09]  (Ven. Nārada 07-09) To get rid of the desire for food.
+
+.. [NāradaFn07-10]  (Ven. Nārada 07-10) Nibbāna is Deliverance from suffering (vimokkha). It is called Void because it is void of lust, hatred and ignorance, not because it is nothingness or annihilation. Nibbāna is a positive supramundane state which cannot be expressed in mundane words. It is Signless because it is free from the signs of lust etc., Arahants experience Nibbānic bliss while alive. It is not correct to say that Arahants exist after death or do not exist after death, for Nibbāna is neither eternalism nor nihilism. In Nibbāna nothing is eternalised nor is anything, except passions, annihilated. Arahants experience Nibbānic bliss by attaining to the fruit of Arahantship in this life itself.
+
+.. [NāradaFn07-11]  (Ven. Nārada 07-11) By indakhīla is meant either a column as firm and high as that of Sakka's, or the chief column that stands at the entrance to a city. Commentators state that these indakhīlas are firm posts which are erected either inside or outside the city as an embellishment. Usually they are made of bricks or of durable wood and are octagonal in shape. Half of the post is embedded in the earth, hence the metaphor 'as firm and steady as an indakhīla'.
+
+.. [NāradaFn07-12]  (Ven. Nārada 07-12) Tādi is one who has neither attachment to desirable objects nor aversion to undesirable objects. Nor does he cling to anything. Amidst the eight worldly conditions - gain and loss, fame and infamy, blame and praise, happiness and pain - an Arahant remains unperturbed, manifesting neither attachment nor aversion, neither elation nor depression.
+
+.. [NāradaFn07-13]  (Ven. Nārada 07-13) As they are not subject to birth and death. See note on saṃsāra, vs 60.
+
+.. [NāradaFn07-14]  (Ven. Nārada 07-14) From all defilements.
+
+.. [NāradaFn07-15]  (Ven. Nārada 07-15) Since his mind is absolutely pure.
+
+.. [NāradaFn07-16]  (Ven. Nārada 07-16) The pun in the original Pāëi is lost in the translation.
+
+.. [NāradaFn07-17]  (Ven. Nārada 07-17) Assaddho, lit. unfaithful. He does not merely accept from other sources because he himself knows from personal experience.
+
+.. [NāradaFn07-18]  (Ven. Nārada 07-18) Akata, Nibbāna. It is so called because it is not created by anyone. Akataññū can also be interpreted as ungrateful.
+
+.. [NāradaFn07-19]  (Ven. Nārada 07-19) The links of existence and rebirth. Sandhicchedo also means a housebreaker, that is, a burglar.
+
+.. [NāradaFn07-20]  (Ven. Nārada 07-20) Hata + avakāso - he who has destroyed the opportunity.
+
+.. [NāradaFn07-21]  (Ven. Nārada 07-21) Vanta + āso he who eats vomit is another meaning.
+
+.. [NāradaFn07-22]  (Ven. Nārada 07-22) By means of the four paths of Sainthood. Gross forms of desire are eradicated at the first three stages, the subtle forms at the last stage.
+
+.. [NāradaFn07-23]  (Ven. Nārada 07-23) Ninna and thala, lit., low-lying and elevated grounds.
+
+.. [NāradaFn07-24]  (Ven. Nārada 07-24) The passionless Arahants rejoice in secluded forests which have no attraction for worldlings.
+
+.. [ThaniSFn-V92-93] (Ven. Thanissaro V. 92-93) "Having understood food... independent of nutriment": The first question in the Novice's Questions (Khp 4) is "What is one?" The answer: "All animals subsist on nutriment." The concept of food and nutriment here refers to the most basic way of understanding the causal principle that plays such a central role in the Buddha's teaching. As SN 12.64 points out, "There are these four nutriments for the establishing of beings who have taken birth or for the support of those in search of a place to be born. Which four? Physical nutriment, gross or refined; contact as the second, consciousness the third, and intellectual intention the fourth." The present verses make the point that the arahant has so fully understood the process of physical and mental causality that he/she is totally independent of it, and thus will never take birth again. Such a person cannot be comprehended by any of the forms of understanding that operate within the causal realm.
+
+.. [ThaniSFn-V94] (Ven. Thanissaro V. 94) "Such (tadin)": an adjective used to describe one who has attained the goal of Buddhist practice, indicating that the person's state is indefinable but not subject to change or influences of any sort. "Right knowing": the knowledge of full Awakening.
+
+.. [ThaniSFn-V95] (Ven. Thanissaro V. 95) Indra's pillar = a post set up at the gate of a city. According to DhpA, there was an ancient custom of worshipping this post with flowers and offerings, although those who wanted to show their disrespect for this custom would urinate and defecate on the post. In either case, the post did not react.
+
+.. [ThaniSFn-V97] (Ven. Thanissaro V. 97) This verse is a series of puns. The negative meanings of the puns are on the left side of the slashes; the positive meanings, on the right. The negative meanings are so extremely negative that they were probably intended to shock their listeners. One scholar has suggested that the last word — uttamaporiso, the ultimate person — should also be read as a pun, with the negative meaning, "the extreme of audacity," but that would weaken the shock value of the verse.
+
+.. [BudRkFn-v97]  (Ven. Buddharakkhita v. 97) In the Pali this verse presents a series of puns, and if the "underside" of each pun were to be translated, the verse would read thus: "The man who is faithless, ungrateful, a burglar, who destroys opportunities and eats vomit — he truly is the most excellent of men."
 
 ---------------------------
 

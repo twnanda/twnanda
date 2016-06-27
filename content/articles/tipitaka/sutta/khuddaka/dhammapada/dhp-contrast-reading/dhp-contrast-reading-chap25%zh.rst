@@ -3,7 +3,7 @@
 =============================================================================
 
 :date: 2016-06-04 17:30
-:modified: 2016-06-13 11:00
+:modified: 2016-06-27 17:00
 :tags: 法句經, 法句經對讀, 比丘品, Dhp, Dhammapada, Bhikkhuvaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Monk
@@ -91,20 +91,60 @@
      - 1. 法句經：端目耳鼻口，身意常守正，，比丘行如是，可以免眾苦T4,572a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 360. 
+     - **Chapter 25  The Bhikkhu Or The Mendicant**
+      
+       **GUARD THE SENSES**
+
+       360. Good is restraint in the eye; good is restraint in the ear; good is restraint in the nose; good is restraint in the tongue.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **360.** 
+     - **Dhp XXV The Monk**
+
+       **360.** Good is restraint over the eye; good is restraint over the ear; good is restraint over the nose; good is restraint over the tongue.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **360** 
+     - **Dhp XXV  Monks**
+
+       **360-361** [ThaniSFn-V360-361]_
+       ::
+              
+          Restraint with the eye is good,   
+          good is restraint with the ear.   
+          Restraint with the nose is good,    
+          good is restraint with the tongue.    
+          Restraint with the body is good,    
+          good is restraint with speech.    
+          Restraint with the heart is good,   
+          good is restraint   everywhere.   
+          A monk everywhere restrained    
+          is released from all suffering & stress.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **360** 
-       | 
+     - **Chapter 25 The Bhikkhu**
+
+       | **360 &361** 
+       |   
+       |  In visual perception, 
+       |  In body sensation,  
+       |  Audition, olfaction,  
+       |  Gustation, conception:  
+       |  In allowing sensation,  
+       |  How good is restriction.  
+       |    
+       |  In physical action, 
+       |  In spoken transaction,  
+       |  In inward reflection, 
+       |  How good circumscription. 
+       |    
+       |  Restraining all conduct,  
+       |  Restricting sensation,  
+       |  A monk finds salvation  
+       |  From grief and affliction.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 360 
+     - **Chapter XXV: The Bhikshu (Mendicant)**
+
+       360 Restraint in the eye is good, good is restraint in the ear, in the nose restraint is good, good is restraint in the tongue.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 360 <{filename}../dhA/dhA-chap21%zh.rst#Dhp360>`__
@@ -151,20 +191,50 @@
        | 7. 十住毘婆沙論：護身為善哉，能護口亦善，護意為善哉，護一切亦善，比丘護一切，得遠離諸惡T26,77b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 361. 
+     - HE WHO GUARDS HIS SENSES IS RELEASED FROM SORROW
+
+       361. Good is restraint in deed; good is restraint in speech; good is restraint in mind; good is restraint in everything. The bhikkhu, [NāradaFn25-01]_ restrained at all points, [NāradaFn25-02]_ is freed from sorrow.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **361.** 
+     - **361.** Good is restraint in the body; good is restraint in speech; good is restraint in thought. Restraint everywhere is good. The monk restrained in every way is freed from all suffering.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **361** 
+     - **360-361** [ThaniSFn-V360-361]_
+       ::
+              
+          Restraint with the eye is good,   
+          good is restraint with the ear.   
+          Restraint with the nose is good,    
+          good is restraint with the tongue.    
+          Restraint with the body is good,    
+          good is restraint with speech.    
+          Restraint with the heart is good,   
+          good is restraint   everywhere.   
+          A monk everywhere restrained    
+          is released from all suffering & stress.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **361** 
-       | 
-     
+     - | **360 &361** 
+       |   
+       |  In visual perception, 
+       |  In body sensation,  
+       |  Audition, olfaction,  
+       |  Gustation, conception:  
+       |  In allowing sensation,  
+       |  How good is restriction.  
+       |    
+       |  In physical action, 
+       |  In spoken transaction,  
+       |  In inward reflection, 
+       |  How good circumscription. 
+       |    
+       |  Restraining all conduct,  
+       |  Restricting sensation,  
+       |  A monk finds salvation  
+       |  From grief and affliction.
+
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 361 
+     - 361 In the body restraint is good, good is restraint in speech, in thought restraint is good, good is restraint in all things. A Bhikshu, restrained in all things, is freed from all pain.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 361 <{filename}../dhA/dhA-chap21%zh.rst#Dhp361>`__
@@ -198,20 +268,41 @@
        2. 出曜經：手足莫妄犯，節言慎所行，常內樂定意，守行謂比丘T4,765b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 362. 
+     - THE FULLY CONTROLLED PERSON IS CALLED A BHIKKHU
+
+       362. He who is controlled in hand, in foot, in speech, and in the highest (i.e., the head); he who delights in meditation, [NāradaFn25-03]_ and is composed; he who is alone, and is contented - him they call a bhikkhu.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **362.** 
+     - **362.** He who has control over his hands, feet and tongue; who is fully controlled, delights in inward development, is absorbed in meditation, keeps to himself and is contented — him do people call a monk.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **362** 
+     - **362** 
+       ::
+              
+          Hands restrained,   
+          feet restrained   
+          speech restrained,    
+            supremely restrained —  
+          delighting in what is inward,   
+          content, centered, alone:   
+          he's what they call   
+            a monk.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **362** 
-       | 
+     - **362** 
+       ::
+              
+         If a monk is  
+                   restrained in acts of hands and feet; 
+                   restrained in speech and thought; 
+                   inwardly joyful;  
+                   composed; 
+                   reclusive;  
+                   easily contented; 
+         he is really a monk.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 362 
+     - 362 He who controls his hand, he who controls his feet, he who controls his speech, he who is well controlled, he who delights inwardly, who is collected, who is solitary and content, him they call Bhikshu.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 362 <{filename}../dhA/dhA-chap21%zh.rst#Dhp362>`__
@@ -245,20 +336,31 @@
        4. 法集要頌經：苾芻挹損意，不躁言得忠，義說如法說，所語言柔軟T4,781b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 363. 
+     - SWEET IS HIS SPEECH WHO CONTROLS HIS TONGUE
+
+       363. The bhikkhu who is controlled in tongue, who speaks wisely, [NāradaFn25-04]_ who is not puffed up, who explains the meaning and the text - sweet, indeed, is his speech.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **363.** 
+     - **363.** That monk who has control over his tongue, is moderate in speech, unassuming and who explains the Teaching in both letter and spirit — whatever he says is pleasing.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **363** 
+     - **363** [ThaniSFn-V363]_
+       ::
+              
+          A monk restrained in his speaking,    
+          giving counsel unruffled,   
+          declaring the message & meaning:    
+            sweet is his speech.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **363** 
-       | 
+       |  The words of a monk who’s restrained in his speech, 
+       |  Whose advice is incisive, whose manner is meek, 
+       |  Who illuminates Dhamma, both letter and spirit, 
+       |  The words he delivers indeed are exquisite.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 363 
+     - 363 The Bhikshu who controls his mouth, who speaks wisely and calmly, who teaches the meaning and the law, his word is sweet.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 363 <{filename}../dhA/dhA-chap21%zh.rst#Dhp363>`__
@@ -291,20 +393,35 @@
        3. 法集要頌經：樂法意欲法，思惟安隱法，苾芻依法行，正而勿廢忘T4,796b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 364. 
+     - HE WHO FINDS PLEASURE IN THE DHAMMA DOES NOT FALL
+
+       364. That bhikkhu who dwells in the Dhamma, who delights in the Dhamma, who meditates on the Dhamma, who well remembers the Dhamma, does not fall away from the sublime Dhamma.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **364.** 
+     - **364.** The monk who abides in the Dhamma, delights in the Dhamma, meditates on the Dhamma, and bears the Dhamma well in mind — he does not fall away from the sublime Dhamma.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **364** 
+     - **364** 
+       ::
+              
+          Dhamma his dwelling,    
+          Dhamma his delight,   
+          a monk pondering Dhamma,    
+            calling Dhamma to mind, 
+          does not fall away    
+          from true Dhamma.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **364** 
-       | 
+       |  A monk who’s delighted  
+       |  With Dhamma, devoted, 
+       |  And Dhamma who weighs,  
+       |  And Dhamma retains, 
+       |  From Dhamma sublime 
+       |  Shall never decline.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 364 
+     - 364 He who dwells in the law, delights in the law, meditates on the law, follows the law, that Bhikshu will never fall away from the true law.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 364 <{filename}../dhA/dhA-chap21%zh.rst#Dhp364>`__
@@ -337,20 +454,39 @@
        3. 出曜經：自得不恃，不從他望，望彼比丘，不至正定T4,691c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 365. 
+     - BE CONTENTED
+
+       365. Let him not despise what he has received, nor should he live envying (the gains of) others. The bhikkhu who envies (the gains of) others does not attain concentration. [NāradaFn25-05]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **365.** 
+     - **365.** One should not despise what one has received, nor envy the gains of others. The monk who envies the gains of others does not attain to meditative absorption.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **365** 
+     - **365-366** 
+       ::
+              
+            Gains:  
+          don't treat your own with scorn,    
+          don't go coveting those of others.    
+          A monk who covets those of others   
+            attains 
+            no concentration. 
+              
+          Even if he gets next to nothing,    
+          he doesn't treat his gains with scorn.    
+          Living purely, untiring:    
+            he's the one  
+            that the devas praise.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **365** 
-       | 
+       |  One shouldn’t disparage the gifts one obtains,  
+       |  Nor crave the possessions that others have gained.  
+       |  The bhikkhu who envies his comrades’ possessions  
+       |  Will never experience the mind’s concentration.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 365 
+     - 365 Let him not despise what he has received, nor ever envy others: a mendicant who envies others does not obtain peace of mind.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 365 <{filename}../dhA/dhA-chap21%zh.rst#Dhp365>`__
@@ -385,20 +521,39 @@
        5. 法集要頌經：苾芻若乞食，以得勿積聚，天人所歎譽，生淨無瑕穢T4,796b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 366. 
+     - DESPISE NOT WHAT ONE GETS
+
+       366. Though receiving but little, if a bhikkhu does not despise his own gains, even the gods praise such a one who is pure in livelihood and is not slothful.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **366.** 
+     - **366.** A monk who does not despise what he has received, even though it be little, who is pure in livelihood and unremitting in effort — him even the gods praise.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **366** 
+     - **365-366** 
+       ::
+              
+            Gains:  
+          don't treat your own with scorn,    
+          don't go coveting those of others.    
+          A monk who covets those of others   
+            attains 
+            no concentration. 
+              
+          Even if he gets next to nothing,    
+          he doesn't treat his gains with scorn.    
+          Living purely, untiring:    
+            he's the one  
+            that the devas praise.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **366** 
-       | 
+       |  The monk whose gifts received are modest, 
+       |  But nonetheless are not disdained,  
+       |  And he himself is pure and zealous, 
+       |  The gods themselves that man acclaim.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 366 
+     - 366 A Bhikshu who, though he receives little, does not despise what he has received, even the gods will praise him, if his life is pure, and if he is not slothful.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 366 <{filename}../dhA/dhA-chap21%zh.rst#Dhp366>`__
@@ -431,20 +586,34 @@
        3. 法集要頌經：一切諸名色，非有莫生惑，不近則不愛，乃名真苾芻T4,796c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 367. 
+     - HE IS A BHIKKHU WHO HAS NO ATTACHMENT
+
+       367. He who has no thought of "l" and "mine" whatever towards mind and body, he who grieves not for that which he has not, he is, indeed, called a bhikkhu.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **367.** 
+     - **367.** He who has no attachment whatsoever for the mind and body, who does not grieve for what he has not — he is truly called a monk.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **367** 
+     - **367** 
+       ::
+              
+          For whom, in name & form    
+            in every way, 
+          there's no sense of mine,   
+          & who doesn't grieve    
+          for what's not:   
+          he's deservedly called    
+            a monk.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **367** 
-       | 
+       |  If body and mind in any way 
+       |  A monk as ‘his’ does not conceive;  
+       |  For what is not, he’s undismayed, 
+       |  A monk is justly said to be.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 367 
+     - 367 He who never identifies himself with name and form, and does not grieve over what is no more, he indeed is called a Bhikshu.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 367 <{filename}../dhA/dhA-chap21%zh.rst#Dhp367>`__
@@ -479,20 +648,29 @@
        5. 法集要頌經：苾芻得慈定，承受諸佛教，極得滅盡跡，無親慎莫覩T4,796c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 368. 
+     - THE BHIKKHU WHO RADIATES LOVING-KINDNESS RADIATES PEACE
+
+       368. The bhikkhu who abides in loving-kindness, [NāradaFn25-06]_ who is pleased with the Buddha's Teaching, attains to that state of peace and happiness, [NāradaFn25-07]_ the stilling of conditioned things.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **368.** 
+     - **368.** The monk who abides in universal love and is deeply devoted to the Teaching of the Buddha attains the peace of Nibbana, the bliss of the cessation of all conditioned things.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **368** 
+     - **368** [ThaniSFn-V368]_
+       ::
+              
+          Dwelling in kindness, a monk    
+          with faith in the Awakened One's teaching,    
+          would attain the good state,    
+               the peaceful state:  
+          stilling-of-fabrications ease.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **368** 
-       | 
+       |  The monk who abides in goodwill and who is devoted to the Buddha’s teaching, reaches the peaceful state, the allaying of causal conditions, bliss.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 368 
+     - 368 The Bhikshu who acts with kindness, who is calm in the doctrine of Buddha, will reach the quiet place (Nirvana), cessation of natural desires, and happiness.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 368 <{filename}../dhA/dhA-chap21%zh.rst#Dhp368>`__
@@ -525,20 +703,32 @@
        3. 法集要頌經：苾芻速杼船，以杼便當輕，求斷貪欲情，然後至圓寂T4,790c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 369. 
+     - GIVE UP LUST AND HATRED
+
+       369. Empty this boat, [NāradaFn25-08]_ O bhikkhu! Emptied by you it will move swiftly. Cutting off lust and hatred, to Nibbāna you will thereby go.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **369.** 
+     - **369.** Empty this boat, O monk! Emptied, it will sail lightly. Rid of lust and hatred, you shall reach Nibbana.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **369** 
+     - **369** [ThaniSFn-V369]_
+       ::
+              
+          Monk, bail out this boat.   
+          It will take you lightly when bailed.   
+          Having cut through passion, aversion,   
+          you go from there to Unbinding.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **369** 
-       | 
+       |  This heavy vessel you should bail:  
+       |  When emptied it will swiftly sail.  
+       |  Discard all anger,  
+       |  Shed all greed, 
+       |  Thence to Nibbana you’ll proceed.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 369 
+     - 369 O Bhikshu, empty this boat! if emptied, it will go quickly; having cut off passion and hatred thou wilt go to Nirvana.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 369 <{filename}../dhA/dhA-chap21%zh.rst#Dhp369>`__
@@ -574,20 +764,34 @@
        | 4. 別雜140：能斷於五蓋，棄捨於五欲，增上修五根，成就五分法，能渡駛流水，得名為比丘T2,427c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 370. 
+     - FLOOD-CROSSER IS ONE WHO HAS GIVEN UP THE FETTERS
+
+       370. Five cut off, [NāradaFn25-09]_ five give up, [NāradaFn25-10]_ five further cultivate. [NāradaFn25-11]_ The bhikkhu who has gone beyond the five bonds [NāradaFn25-12]_ is called a "Flood-Crosser".
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **370.** 
+     - **370.** Cut off the five, abandon the five, and cultivate the five. The monk who has overcome the five bonds is called one who has crossed the flood. [BudRkFn-v370]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **370** 
+     - **370** [ThaniSFn-V370]_
+       ::
+              
+          Cut through five,   
+          let go of five,   
+          & develop five above all.   
+          A monk gone past five attachments   
+          is said to have crossed the flood.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **370** 
-       | 
+       |  Five fetters extinguish,  
+       |  Five fetters relinquish,  
+       |  Five powers, moreover, establish. 
+       |  The monk who has quelled  
+       |  The five bonds as well, 
+       |  Has transcended the ocean of anguish.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 370 
+     - 370 Cut off the five (senses), leave the five, rise above the five. A Bhikshu, who has escaped from the five fetters, he is called Oghatinna, 'saved from the flood.'
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 370 <{filename}../dhA/dhA-chap21%zh.rst#Dhp370>`__
@@ -625,20 +829,34 @@
        5. 法集要頌經：在靜自修學，慎勿逐欲跡，莫吞熱鐵丸，嘷哭受其報T4,795c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 371. 
+     - MEDITATE EARNESTLY
+
+       371. Meditate, O bhikkhu! Be not heedless. Do not let your mind whirl on sensual pleasures. Do not be careless and swallow a ball of lead. As you burn cry not "This is sorrow".
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **371.** 
+     - **371.** Meditate, O monk! Do not be heedless. Let not your mind whirl on sensual pleasures. Heedless, do not swallow a red-hot iron ball, lest you cry when burning, "O this is painful!"
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **371** 
+     - **371** 
+       ::
+              
+          Practice jhana, monk,   
+          and don't be heedless.    
+          Don't take your mind roaming    
+          in sensual strands.   
+          Don't swallow — heedless —    
+          the ball of iron aflame.    
+          Don't burn & complain: 'This is pain.'
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **371** 
-       | 
+       |  Do not be slack, monk: meditate!  
+       |  Don’t let your thinking round pleasure gyrate.  
+       |  Don’t later swallow an iron ball aflame – 
+       |  And don’t (when you’re burning) then cry “I’m in pain!”
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 371 
+     - 371 Meditate, O Bhikshu, and be not heedless! Do not direct thy thought to what gives pleasure that thou mayest not for thy heedlessness have to swallow the iron ball (in hell), and that thou mayest not cry out when burning, 'This is pain.'
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 371 <{filename}../dhA/dhA-chap21%zh.rst#Dhp371>`__
@@ -673,20 +891,37 @@
        | 4. 異門足論：非有定無慧，非有慧無定，要有定有慧，方證於涅槃T26, 375b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 372. 
+     - THERE IS NO WISDOM IN THOSE WHO DO NOT THINK
+
+       372. There is no concentration in one who lacks wisdom, nor is there wisdom in him who lacks concentration. In whom are both concentration and wisdom, he, indeed, is in the presence of Nibbāna.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **372.** 
+     - **372.** There is no meditative concentration for him who lacks insight, and no insight for him who lacks meditative concentration. He in whom are found both meditative concentration and insight, indeed, is close to Nibbana.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **372** 
+     - **372** 
+       ::
+              
+               There's     no jhana 
+            for one with   no discernment,  
+                           no 
+          discernment   
+            for one with   no jhana.  
+            But one with   both jhana 
+                           &  
+          discernment:    
+          he's on the verge   
+               of Unbinding.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **372** 
-       | 
+       |  In one without wisdom, there’s no concentration;  
+       |  Without concentration, there’s no revelation. 
+       |  Whoever has wisdom together with jhana, 
+       |  Indeed, is not far from beholding Nibbana.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 372 
+     - 372 Without knowledge there is no meditation, without meditation there is no knowledge: he who has knowledge and meditation is near unto Nirvana.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 372 <{filename}../dhA/dhA-chap21%zh.rst#Dhp372>`__
@@ -719,20 +954,40 @@
        3. 法集要頌經：當學入空定，苾芻常安靜，愛樂非人處，觀察平等法T4,796c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 373. 
+     - HE WHO IS CALM EXPERIENCES TRANSCENDENTAL JOY
+
+       373. The bhikkhu who has retired to a lonely abode, who has calmed his mind, who perceives the doctrine clearly, experiences a joy transcending that of men. [NāradaFn25-13]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **373.** 
+     - **373.** The monk who has retired to a solitary abode and calmed his mind, who comprehends the Dhamma with insight, in him there arises a delight that transcends all human delights.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **373** 
+     - **373-374** 
+       ::
+              
+          A monk with his mind at peace,    
+          going into an empty dwelling,   
+          clearly seeing the Dhamma aright:   
+            his delight is more 
+            than human. 
+              
+          However it is,    
+          however it is he touches    
+          the arising-&-passing of aggregates:    
+          he gains rapture & joy:   
+            that, for those who know it,  
+               is deathless,  
+               the Deathless.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **373** 
-       | 
+       |  The monk who has gone to a lonely hut 
+       |  And made his mind serene, 
+       |  Discovers a joy of unearthly delight, 
+       |  Having Dhamma insightfully seen.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 373 
+     - 373 A Bhikshu who has entered his empty house, and whose mind is tranquil, feels a more than human delight when he sees the law clearly.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 373 <{filename}../dhA/dhA-chap21%zh.rst#Dhp373>`__
@@ -765,20 +1020,40 @@
        3. 法集要頌經：當制於五蘊，服意如水流，清淨恒和悅，為飲甘露味T4,796c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 374. 
+     - HE IS HAPPY WHO REFLECTS ON RISE AND FALL
+
+       374. Whenever he reflects on the rise and fall of the Aggregates, he experiences joy and happiness. To "those who know" that (reflection [NāradaFn25-14]_ ) is Deathless.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **374.** 
+     - **374.** Whenever he sees with insight the rise and fall of the aggregates, he is full of joy and happiness. To the discerning one this reflects the Deathless. [BudRkFn-v374]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **374** 
+     - **373-374** 
+       ::
+              
+          A monk with his mind at peace,    
+          going into an empty dwelling,   
+          clearly seeing the Dhamma aright:   
+            his delight is more 
+            than human. 
+              
+          However it is,    
+          however it is he touches    
+          the arising-&-passing of aggregates:    
+          he gains rapture & joy:   
+            that, for those who know it,  
+               is deathless,  
+               the Deathless.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **374** 
-       | 
+       |  When, or wherever, a bhikkhu reflects 
+       |  On the rise and the fall of the five aggregates,  
+       |  He savours the joy and felicity 
+       |  That is known to draw near immortality.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 374 
+     - 374 As soon as he has considered the origin and destruction of the elements (khandha) of the body, he finds happiness and joy which belong to those who know the immortal (Nirvana).
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 374 <{filename}../dhA/dhA-chap21%zh.rst#Dhp374>`__
@@ -812,20 +1087,41 @@
      - 1. 法句經：不受所有，為慧比丘，攝根知足，戒律悉持，生當行淨，求善師友T4,572a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 375. 
+     - A WISE BHIKKHU MUST POSSESS HIS CARDINAL VIRTUES
+
+       375. And this becomes the beginning here for a wise bhikkhu: sense-control, contentment, restraint with regard to the Fundamental Code (Pātimokkha [NāradaFn25-15]_ ), association with beneficent and energetic friends whose livelihood is pure.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **375.** 
+     - **375.** Control of the senses, contentment, restraint according to the code of monastic discipline — these form the basis of holy life here for the wise monk.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **375** 
+     - **375-376** 
+       ::
+              
+          Here the first things   
+          for a discerning monk   
+          are     guarding the senses,    
+            contentment,  
+            restraint in line with the Patimokkha.  
+          He should associate with admirable friends.   
+          Living purely, untiring,    
+            hospitable by habit,  
+            skilled in his conduct, 
+            gaining a manifold joy, 
+          he will put an end    
+          to suffering & stress.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **375** 
-       | 
+       |  Guarding senses, being content, 
+       |  By the bhikkhu’s Code restrained; 
+       |  With upright friends being intimate,  
+       |  Whose lifestyle’s pure, not indolent: 
+       |  These are training rudiments  
+       |  For the sapient mendicant.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 375 
+     - 375 And this is the beginning here for a wise Bhikshu: watchfulness over the senses, contentedness, restraint under the law; keep noble friends whose life is pure, and who are not slothful.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 375 <{filename}../dhA/dhA-chap21%zh.rst#Dhp375>`__
@@ -862,20 +1158,39 @@
        2. 出曜經：念親同朋友，正命無雜糅，施知應所施，亦令威儀具，比丘備眾行，乃能盡苦際T4,765b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 376. 
+     - A BHIKKHU SHOULD BE CORDIAL IN ALL HIS WAYS
+
+       376. Let him be cordial in his ways and refined in conduct; filled thereby with joy, he will make an end of ill.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **376.** 
+     - **376.** Let him associate with friends who are noble, energetic, and pure in life, let him be cordial and refined in conduct. Thus, full of joy, he will make an end of suffering.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **376** 
+     - **375-376** 
+       ::
+              
+          Here the first things   
+          for a discerning monk   
+          are     guarding the senses,    
+            contentment,  
+            restraint in line with the Patimokkha.  
+          He should associate with admirable friends.   
+          Living purely, untiring,    
+            hospitable by habit,  
+            skilled in his conduct, 
+            gaining a manifold joy, 
+          he will put an end    
+          to suffering & stress.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **376** 
-       | 
+       |  May you be hospitable,  
+       |  Mannerly, agreeable!  
+       |  You will thereby joy attain,  
+       |  Making thus an end of pain.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 376 
+     - 376 Let him live in charity, let him be perfect in his duties; then in the fulness of delight he will make an end of suffering.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 376 <{filename}../dhA/dhA-chap21%zh.rst#Dhp376>`__
@@ -908,20 +1223,31 @@
        3. 法集要頌經：如末哩妙華，末拘羅清淨，貪欲瞋若除，苾芻淨香潔T4,786a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 377. 
+     - CAST OFF LUST AND HATRED
+
+       377. As the jasmine creeper sheds its withered flowers, even so, O bhikkhus, should you totally cast off lust and hatred.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **377.** 
+     - **377.** Just as the jasmine creeper sheds its withered flowers, even so, O monks, should you totally shed lust and hatred!
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **377** 
+     - **377** 
+       ::
+              
+          Shed passion    
+          & aversion, monks —   
+          as a jasmine would,   
+          its withered flowers.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **377** 
-       | 
+       |  The jasmine plant sheds 
+       |  Its flowers that are dead,  
+       |  Just as monks must forsake  
+       |  All their lust and their hate.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 377 
+     - 377 As the Vassika plant sheds its withered flowers, men should shed passion and hatred, O ye Bhikshus!
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 377 <{filename}../dhA/dhA-chap21%zh.rst#Dhp377>`__
@@ -954,20 +1280,39 @@
        3. 法集要頌經：息身而息意，攝口亦乃善，捨世為苾芻，度苦無有礙T4,796c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 378. 
+     - HE IS PEACEFUL WHO IS FREE FROM ALL WORLDLY THINGS
+
+       378. The bhikkhu who is calm in body, calm in speech, calm in mind, who is well-composed, who has spewed out worldly things, is truly called a "peaceful one".
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **378.** 
+     - **378.** The monk who is calm in body, calm in speech, calm in thought, well-composed and who has spewn out worldliness — he, truly, is called serene.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **378** 
+     - **378** 
+       ::
+              
+          Calmed in body,   
+          calmed in speech,   
+          well-centered & calm,   
+          having disgorged the baits of the world,    
+          a monk is called    
+            thoroughly  
+            calmed.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **378** 
-       | 
+       |  Peaceful in conduct,  
+       |  Peaceful in speaking, 
+       |  Inwardly still, 
+       |  And peaceful in thinking: 
+       |    
+       |  Having brushed off the world  
+       |  With its lure and its charm,  
+       |  A monk who’s like this  
+       |  Is one truly called ‘calm’.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 378 
+     - 378 The Bhikshu whose body and tongue and mind are quieted, who is collected, and has rejected the baits of the world, he is called quiet.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 378 <{filename}../dhA/dhA-chap21%zh.rst#Dhp378>`__
@@ -998,20 +1343,33 @@
      - 1. 法句經：當自勅身，內與心爭，護身念諦，比丘惟安T4,572a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 379. 
+     - HE WHO GUARDS HIMSELF LIVES HAPPILY
+
+       379. By self do you censure yourself. By self do you examine yourself. Self-guarded and mindful, O bhikkhu, you will live happily.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **379.** 
+     - **379.** By oneself one must censure oneself and scrutinize oneself. The self-guarded and mindful monk will always live in happiness.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **379** 
+     - **379** 
+       ::
+              
+          You yourself should reprove yourself,   
+                   should examine 
+          yourself.   
+          As a self-guarded monk    
+          with guarded self,    
+          mindful, you dwell at ease.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **379** 
-       | 
+       |  Monk, you must inspect yourself,  
+       |  And you should exhort yourself. 
+       |  Mindful and self-guarded thus,  
+       |  You will live in happiness.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 379 
+     - 379 Rouse thyself by thyself, examine thyself by thyself, thus self- protected and attentive wilt thou live happily, O Bhikshu!
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 379 <{filename}../dhA/dhA-chap21%zh.rst#Dhp379>`__
@@ -1047,20 +1405,34 @@
        3. 法集要頌經：自師自衛護，自歸求自度，是故躬謹慎，如商賈智馬T4,787a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 380. 
+     - YOU ARE YOUR OWN SAVIOUR
+
+       380. Self, indeed, is the protector of self. Self, indeed, is one's refuge. Control, therefore, your own self as a merchant controls a noble steed.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **380.** 
+     - **380.** One is one's own protector, one is one's own refuge. Therefore, one should control oneself, even as a trader controls a noble steed.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **380** 
+     - **380** 
+       ::
+              
+          Your own self is    
+          your own mainstay.    
+          Your own self is    
+          your own guide.   
+          Therefore you should    
+          watch over yourself —   
+          as a trader, a fine steed.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **380** 
-       | 
+       |  The protector of you, is you. 
+       |  You are your destiny, too.  
+       |  Yourself, you should therefore control and restrain 
+       |  Like a dealer in horses a fine steed would tame.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 380 
+     - 380 For self is the lord of self, self is the refuge of self; therefore curb thyself as the merchant curbs a good horse.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 380 <{filename}../dhA/dhA-chap21%zh.rst#Dhp380>`__
@@ -1091,20 +1463,29 @@
      - 1. 法句經：喜在佛教，可以多喜，至到寂寞，行滅永安T4,572b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 381. 
+     - WITH JOY AND FAITH TRY TO WIN YOUR GOAL
+
+       381. Full of joy, full of confidence in the Buddha's Teaching, the bhikkhu will attain the Peaceful State, the stilling of conditioned things, the bliss (supreme).
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **381.** 
+     - **381.** Full of joy, full of faith in the Teaching of the Buddha, the monk attains the Peaceful State, the bliss of cessation of conditioned things.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **381** 
+     - **381** [ThaniSFn-V381]_
+       ::
+              
+          A monk with a manifold joy,   
+          with faith in the Awakened One's teaching,    
+          would attain the good state,    
+               the peaceful state:  
+          stilling-of-fabrications ease.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **381** 
-       | 
+       |  The monk who is full of joy, who is devoted to the Buddha’s teaching, reaches the peaceful state, the allaying of causal conditions, bliss.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 381 
+     - 381 The Bhikshu, full of delight, who is calm in the doctrine of Buddha will reach the quiet place (Nirvana), cessation of natural desires, and happiness.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 381 <{filename}../dhA/dhA-chap21%zh.rst#Dhp381>`__
@@ -1155,20 +1536,31 @@
        | 9. 大婆沙：善修息念滿，漸習隨佛教，彼能明照世，如日出重雲T26,135b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 382. 
+     - EVEN A YOUNG MONK, IF DEVOUT, CAN ILLUMINE THE WHOLE WORLD
+
+       382. The bhikkhu who, while still young, devotes himself to the Buddha's Teaching, illumines this world like the moon freed from a cloud.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **382.** 
+     - **382.** That monk who while young devotes himself to the Teaching of the Buddha illumines this world like the moon freed from clouds.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **382** 
+     - **382** 
+       ::
+              
+          A young monk who strives    
+          in the Awakened One's teaching,   
+            brightens the world 
+          like the moon set free from a cloud.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **382** 
-       | 
+       |  A bhikkhu though of tender years, 
+       |  Who in the training is sincere, 
+       |  This world of ours he glorifies:  
+       |  A moon that shines in cloudless skies.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 382 
+     - 382 He who, even as a young Bhikshu, applies himself to the doctrine of Buddha, brightens up this world, like the moon when free from clouds.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 382 <{filename}../dhA/dhA-chap21%zh.rst#Dhp382>`__
@@ -1206,7 +1598,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -1243,6 +1635,55 @@
 .. [CFFn25-04] 〔敬法法師註25-04〕 55 五根是信、精進、念、定與慧。
 
 .. [CFFn25-05] 〔敬法法師註25-05〕 56 五種執著是貪、瞋、痴、慢與邪見。
+
+.. [NāradaFn25-01] (Ven. Nārada 25-01) Bhikkhu is exclusively a Buddhist term. "Mendicant monk" may be suggested as the best English equivalent.
+
+.. [NāradaFn25-02] (Ven. Nārada 25-02) That is, in all senses, literally, everywhere.
+
+.. [NāradaFn25-03] (Ven. Nārada 25-03) Here the Pali term ajjhatta, literally, personal, refers to the subject of meditation.
+
+.. [NāradaFn25-04] (Ven. Nārada 25-04) Manta here means wisdom.
+
+.. [NāradaFn25-05] (Ven. Nārada 25-05) Samādhi, both mundane and supramundane concentration.
+
+.. [NāradaFn25-06] (Ven. Nārada 25-06) Having developed the third and fourth jhānas (ecstasies) with mettā (loving-kindness) as the object of meditation.
+
+.. [NāradaFn25-07] (Ven. Nārada 25-07) That is, Nibbāna.
+
+.. [NāradaFn25-08] (Ven. Nārada 25-08) The boat resembles the body, water resembles bad thoughts.
+
+.. [NāradaFn25-09] (Ven. Nārada 25-09) They are the five fetters (orambhāgiya saṃyojana) that pertain to this shore - namely: self-illusion (sakkāyadiññhi), doubt (vicikicchā), indulgence in (wrongful) rites and ceremonies (sīlabbataparāmāsa), sense-desire (kāmarāga), and hatred (pañigha).
+
+.. [NāradaFn25-10] (Ven. Nārada 25-10) They are the five fetters that pertain to the Farther Shore (uddhambhāgiyasaṃyojana), namely: attachment to the Realms of Form (rūparāga), attachment to the Formless Realms (arūparāga), conceit (māna), restlessness (uddhacca), and ignorance (avijjā).
+
+.. [NāradaFn25-11] (Ven. Nārada 25-11) Namely: confidence (saddhā), mindfulness (sati), effort (viriya), concentration (samādhi), and wisdom (pa¤¤ā). These five factors have to be cultivated if one desires to destroy the fetters.
+
+.. [NāradaFn25-12] (Ven. Nārada 25-12) See note under v. 342.
+
+.. [NāradaFn25-13] (Ven. Nārada 25-13) Amānusī ratī = the eight Attainments (aññhasamāpatti), the four Rūpa Jhānas and the four Arūpa Jhānas.
+
+.. [NāradaFn25-14] (Ven. Nārada 25-14) As it leads to Nibbāna.
+
+.. [NāradaFn25-15] (Ven. Nārada 25-15) Pātimokkha which deals with the rules that a bhikkhu is bound to observe.
+
+.. [NāradaFn25-16] (Ven. Nārada 25-16) Pañimaṃsetha attanā in some books
+
+.. [BudRkFn-v370] (Ven. Buddharakkhita (v. 370) The five to be cut off are the five "lower fetters": self-illusion, doubt, belief in rites and rituals, lust and ill-will. The five to be abandoned are the five "higher fetters": craving for the divine realms with form, craving for the formless realms, conceit, restlessness, and ignorance. Stream-enterers and once-returners cut off the first three fetters, non-returners the next two and Arahants the last five. The five to be cultivated are the five spiritual faculties: faith, energy, mindfulness, concentration, and wisdom. The five bonds are: greed, hatred, delusion, false views, and conceit.
+
+.. [BudRkFn-v374] (Ven. Buddharakkhita (v. 374) See note 17 (to v. 202).
+
+.. [ThaniSFn-V360-361] (Ven. Thanissaro V. V360-361) See note 7-8.
+
+.. [ThaniSFn-V363] (Ven. Thanissaro V. 363) "Counsel": In the context of Indian literary theory, this is the meaning of the word manta, which can also mean "chant." The literary context seems to be the proper one here.
+
+.. [ThaniSFn-V368] (Ven. Thanissaro V. 368) "Stilling-of-fabrications ease": the true ease and freedom experienced when all five aggregates are stilled.
+
+.. [ThaniSFn-V369] (Ven. Thanissaro V. 369) DhpA: The boat = one's own personhood (atta-bhava, the body-mind complex); the water that needs to be bailed out = wrong thoughts (imbued with passion, aversion, or delusion).
+
+.. [ThaniSFn-V370] (Ven. Thanissaro V. 370) DhpA: Cut through five = the five lower fetters that tie the mind to the round of rebirth (self-identity views, uncertainty, grasping at habits & practices, sensual passion, irritation); let go of five = the five higher fetters (passion for form, passion for formless phenomena, conceit, restlessness, ignorance); develop five = the five faculties (conviction, persistence, mindfulness, concentration, discernment); five attachments = passion, aversion, delusion, conceit, views.
+
+.. [ThaniSFn-V381] (Ven. Thanissaro V. 381) See note 368.
+
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

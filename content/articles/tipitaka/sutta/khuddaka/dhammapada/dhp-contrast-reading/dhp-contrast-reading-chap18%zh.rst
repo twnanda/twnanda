@@ -3,7 +3,7 @@
 ==================================================================================
 
 :date: 2016-06-04 16:30
-:modified: 2016-06-19 18:00
+:modified: 2016-06-27 15:00
 :tags: 法句經, 法句經對讀, 垢穢品, 污垢品, Dhp, Dhammapada, Malavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Impurity
@@ -88,20 +88,72 @@
      - 1. suspended
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 235. 
+     - **Chapter 18  Impurities Or Taints**
+       
+       **DEATH IS NEAR TO YOU**
+       
+       235. Like a withered leaf are you now. The messengers of death wait on you. On the threshold of decay you stand. Provision too there is none for you.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **235.** 
+     - **Dhp XVIII Impurity**
+
+       **235.** Like a withered leaf are you now; death's messengers await you. You stand on the eve of your departure, yet you have made no provision for your journey!
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **235** 
+     - **Dhp XVIII  Impurities**
+
+       **235-238** [ThaniSFn-V235]_
+       ::
+              
+            You are now 
+          like a yellowed leaf.   
+            Already 
+          Yama's minions stand near.    
+          You stand at the door to departure    
+          but have yet to provide   
+          for the journey.    
+              
+          Make an island for yourself!    
+          Work quickly! Be wise!    
+          With impurities all blown away,   
+            unblemished,  
+          you'll reach the divine realm   
+          of the noble ones.    
+              
+            You are now   
+          right at the end of your time.    
+            You are headed  
+          to Yama's presence,   
+          with no place to rest along the way,    
+          but have yet to provide   
+          for the journey.    
+              
+          Make an island for yourself!    
+          Work quickly! Be wise!    
+          With impurities all blown away,   
+            unblemished,  
+          you won't again undergo birth   
+                   & aging.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **235** 
-       | 
+     - **Chapter 18 Stains**
+
+       | **235 & 236** 
+       |    
+       |  A shrivelled leaf you now resemble; 
+       |  Yama’s men nearby assemble. 
+       |  Here at death you stand, however, 
+       |  You’ve provisions none whatever.  
+       |    
+       |  So: for yourself, an island make. 
+       |  By nimble effort, be a sage.  
+       |  When cleansed of taints and free of stain,  
+       |  The Pure Abodes will you attain.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 235 
+     - **Chapter XVIII: Impurity**
+
+       235 Thou art now like a sear leaf, the messengers of death (Yama) have come near to thee; thou standest at the door of thy departure, and thou hast no provision for thy journey.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 235 <{filename}../dhA/dhA-chap18%zh.rst#Dhp235>`__
@@ -132,20 +184,62 @@
      - 1. suspended
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 236. 
+     - STRIVE HARD
+
+       236. Make an island unto yourself. Strive quickly; become wise. Purged of stain and passionless, you shall enter the heavenly stage of the Ariyas. [NāradaFn18-01]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **236.** 
+     - **236.** Make an island for yourself! Strive hard and become wise! Rid of impurities and cleansed of stain, you shall enter the celestial abode of the Noble Ones.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **236** 
+     - **235-238** [ThaniSFn-V236]_
+       ::
+              
+            You are now 
+          like a yellowed leaf.   
+            Already 
+          Yama's minions stand near.    
+          You stand at the door to departure    
+          but have yet to provide   
+          for the journey.    
+              
+          Make an island for yourself!    
+          Work quickly! Be wise!    
+          With impurities all blown away,   
+            unblemished,  
+          you'll reach the divine realm   
+          of the noble ones.    
+              
+            You are now   
+          right at the end of your time.    
+            You are headed  
+          to Yama's presence,   
+          with no place to rest along the way,    
+          but have yet to provide   
+          for the journey.    
+              
+          Make an island for yourself!    
+          Work quickly! Be wise!    
+          With impurities all blown away,   
+            unblemished,  
+          you won't again undergo birth   
+                   & aging.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **236** 
-       | 
+     - | **235 & 236**
+       |    
+       |  A shrivelled leaf you now resemble; 
+       |  Yama’s men nearby assemble. 
+       |  Here at death you stand, however, 
+       |  You’ve provisions none whatever.  
+       |    
+       |  So: for yourself, an island make. 
+       |  By nimble effort, be a sage.  
+       |  When cleansed of taints and free of stain,  
+       |  The Pure Abodes will you attain.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 236 
+     - 236 Make thyself an island, work hard, be wise! When thy impurities are blown away, and thou art free from guilt, thou wilt enter into the heavenly world of the elect (Ariya).
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 236 <{filename}../dhA/dhA-chap18%zh.rst#Dhp236>`__
@@ -180,20 +274,62 @@
        | 4. 舊婆沙：壯年便老病，當生閻羅邊，中間無息處，亦不用資糧T28,264b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 237. 
+     - LIFE COMES TO AN END
+
+       237. Your life has come to an end now. To the presence of death you are setting out. No halting place is there for you by the way. Provision too there is none for you.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **237.** 
+     - **237.** Your life has come to an end now; You are setting forth into the presence of Yama, the king of death. No resting place is there for you on the way, yet you have made no provision for the journey!
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **237** 
+     - **235-238** 
+       ::
+              
+            You are now 
+          like a yellowed leaf.   
+            Already 
+          Yama's minions stand near.    
+          You stand at the door to departure    
+          but have yet to provide   
+          for the journey.    
+              
+          Make an island for yourself!    
+          Work quickly! Be wise!    
+          With impurities all blown away,   
+            unblemished,  
+          you'll reach the divine realm   
+          of the noble ones.    
+              
+            You are now   
+          right at the end of your time.    
+            You are headed  
+          to Yama's presence,   
+          with no place to rest along the way,    
+          but have yet to provide   
+          for the journey.    
+              
+          Make an island for yourself!    
+          Work quickly! Be wise!    
+          With impurities all blown away,   
+            unblemished,  
+          you won't again undergo birth   
+                   & aging.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **237** 
-       | 
+     - | **237 & 238** 
+       |    
+       |  The close of life you now have reached; 
+       |  You’ll now to Yama’s court proceed. 
+       |  No half-way house lies on your way; 
+       |  Provisions, you have not arranged.  
+       |    
+       |  So: for yourself, an island make. 
+       |  By nimble effort, be a sage.  
+       |  When cleansed of taints and free of stain,  
+       |  You’ll not face birth and age again.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 237 
+     - 237 Thy life has come to an end, thou art come near to death (Yama), there is no resting-place for thee on the road, and thou hast no provision for thy journey.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 237 <{filename}../dhA/dhA-chap18%zh.rst#Dhp237>`__
@@ -226,20 +362,62 @@
        3. 法集要頌經：坐臥求方便，發起於精進，如工鍊真金，除其塵垢冥，不為闇所蔽，永離老死患T4,785a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 238. 
+     - BE PASSIONLESS
+
+       238. Make an island unto yourself. Strive without delay; become wise. Purged of stain and passionless, you will not come again to birth and old age.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **238.** 
+     - **238.** Make an island unto yourself! Strive hard and become wise! Rid of impurities and cleansed of stain, you shall not come again to birth and decay.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **238** 
+     - **235-238** 
+       ::
+              
+            You are now 
+          like a yellowed leaf.   
+            Already 
+          Yama's minions stand near.    
+          You stand at the door to departure    
+          but have yet to provide   
+          for the journey.    
+              
+          Make an island for yourself!    
+          Work quickly! Be wise!    
+          With impurities all blown away,   
+            unblemished,  
+          you'll reach the divine realm   
+          of the noble ones.    
+              
+            You are now   
+          right at the end of your time.    
+            You are headed  
+          to Yama's presence,   
+          with no place to rest along the way,    
+          but have yet to provide   
+          for the journey.    
+              
+          Make an island for yourself!    
+          Work quickly! Be wise!    
+          With impurities all blown away,   
+            unblemished,  
+          you won't again undergo birth   
+                   & aging.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **238** 
-       | 
+     - | **237 & 238** 
+       |    
+       |  The close of life you now have reached; 
+       |  You’ll now to Yama’s court proceed. 
+       |  No half-way house lies on your way; 
+       |  Provisions, you have not arranged.  
+       |    
+       |  So: for yourself, an island make. 
+       |  By nimble effort, be a sage.  
+       |  When cleansed of taints and free of stain,  
+       |  You’ll not face birth and age again.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 238 
+     - 238 Make thyself an island, work hard, be wise! When thy impurities are blown away, and thou art free from guilt, thou wilt not enter again into birth and decay.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 238 <{filename}../dhA/dhA-chap18%zh.rst#Dhp238>`__
@@ -274,20 +452,37 @@
        | 4. 佛性論：聰明人次第，數數細細修，除滅自身垢，如金師鍊金T31,800c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 239. 
+     - PURIFY YOURSELF GRADUALLY
+
+       239. By degrees, little by little, from time to time, a wise person should remove his own impurities, as a smith removes (the dross) of silver.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **239.** 
+     - **239.** One by one, little by little, moment by moment, a wise man should remove his own impurities, as a smith removes his dross from silver.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **239** 
+     - **239** 
+       ::
+              
+          Just as a silver smith    
+          step by   
+          step,   
+            bit by  
+            bit,  
+               moment to  
+               moment,  
+          blows away the impurities   
+          of molten silver —    
+          so the wise man, his own.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **239** 
-       | 
+       |  Little by little, and step by step, 
+       |  In steady succession, the sage ejects 
+       |  Stains of mind, which, just like dross, 
+       |  From molten silver, smiths drain off.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 239 
+     - 239 Let a wise man blow off the impurities of his self, as a smith blows off the impurities of silver one by one, little by little, and from time to time.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 239 <{filename}../dhA/dhA-chap18%zh.rst#Dhp239>`__
@@ -322,20 +517,35 @@
        | 4. 孛經：惡從心生，反以自賊，如鐵生垢，消毀其形T17,731b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 240. 
+     - ONE'S EVIL RUINS ONESELF
+
+       240. As rust sprung from iron eats itself away when arisen, even so his own deeds lead the transgressor [NāradaFn18-02]_ to states of woe.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **240.** 
+     - **240.** Just as rust arising from iron eats away the base from which it arises, even so, their own deeds lead transgressors to states of woe.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **240** 
+     - **240** [ThaniSFn-V240]_
+       ::
+              
+          Just as rust    
+           — iron's impurity —    
+          eats the very iron    
+          from which it is born,    
+            so the deeds  
+          of one who lives slovenly   
+            lead him on 
+          to a bad destination.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **240** 
-       | 
+       |  Just as rust from iron that grows,  
+       |  That very iron the rust corrodes; 
+       |  So, deeds of them who live indulgently, [VaradoFn-V240]_
+       |  Lead them on to states of misery. 
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 240 
+     - 240 As the impurity which springs from the iron, when it springs from it, destroys it; thus do a transgressor's own works lead him to the evil path.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 240 <{filename}../dhA/dhA-chap18%zh.rst#Dhp240>`__
@@ -365,22 +575,45 @@
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：不誦為言垢，不勤為家垢，不嚴為色垢，放逸為事垢T4,568b
        2. 法句譬喻經：不誦為言垢，不勤為家垢，不嚴為色垢，放逸為事垢T4,596c
-
+    
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 241. 
+     - CAUSES OF STAIN
+
+       241. Non-recitation is the rust of incantations; [NāradaFn18-03]_ non-exertion is the rust of homes; [NāradaFn18-04]_ sloth is the taint of beauty; carelessness is the flaw of a watcher.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **241.** 
+     - **241.** Non-repetition is the bane of scriptures; neglect is the bane of a home; slovenliness is the bane of personal appearance, and heedlessness is the bane of a guard.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **241** 
+     - **241-243** 
+       ::
+              
+          No recitation: the ruinous impurity   
+                   of chants. 
+          No initiative: of a household.    
+          Indolence: of beauty.   
+          Heedlessness: of a guard.   
+              
+          In a woman, misconduct is an impurity.    
+          In a donor, stinginess.   
+          Evil deeds are the real impurities    
+          in this world & the next.   
+              
+          More impure than these impurities   
+          is the ultimate impurity:   
+            ignorance.  
+          Having abandoned this impurity,   
+          monks, you're impurity-free.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **241** 
-       | 
+       |  Non-study’s the stain of the scriptures;  
+       |  Supineness, the stain of a house; 
+       |  The stain of a guard is remissness; 
+       |  The stain of the comely is sloth.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 241 
+     - 241 The taint of prayers is non-repetition; the taint of houses, non- repair; the taint of the body is sloth; the taint of a watchman, thoughtlessness.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 241 <{filename}../dhA/dhA-chap18%zh.rst#Dhp241>`__
@@ -412,20 +645,43 @@
        2. 法句譬喻經：慳為惠施垢，不善為行垢，今世亦後世，惡法為常垢T4,596c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 242. 
+     - TAINTS ARE EVIL THINGS IGNORANCE IS THE GREATEST TAINT
+
+       242. Misconduct is the taint of a woman. Stinginess is the taint of a donor. Taints, indeed, are all evil things both in this world and in the next.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **242.** 
+     - **242.** Unchastity is the taint in a woman; niggardliness is the taint in a giver. Taints, indeed, are all evil things, both in this world and the next.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **242** 
+     - **241-243** 
+       ::
+              
+          No recitation: the ruinous impurity   
+                   of chants. 
+          No initiative: of a household.    
+          Indolence: of beauty.   
+          Heedlessness: of a guard.   
+              
+          In a woman, misconduct is an impurity.    
+          In a donor, stinginess.   
+          Evil deeds are the real impurities    
+          in this world & the next.   
+              
+          More impure than these impurities   
+          is the ultimate impurity:   
+            ignorance.  
+          Having abandoned this impurity,   
+          monks, you're impurity-free.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **242** 
-       | 
+       |  Misconduct’s a stain on a woman;  
+       |  And meanness, on one who would give.  
+       |  Stains are thus states that are truly unfortunate,  
+       |  Both in this world and the worlds that are subsequent.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 242 
+     - 242 Bad conduct is the taint of woman, greediness the taint of a benefactor; tainted are all evil ways in this world and in the next.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 242 <{filename}../dhA/dhA-chap18%zh.rst#Dhp242>`__
@@ -457,20 +713,39 @@
        2. 法句譬喻經：垢中之垢，莫甚於癡，學當捨此，比丘無垢T4,596c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 243. 
+     - 243. A worse taint than these is ignorance, the greatest taint. Abandoning this taint, be taintless, O Bhikkhus!
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **243.** 
+     - **243.** A worse taint than these is ignorance, the worst of all taints. Destroy this one taint and become taintless, O monks!
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **243** 
+     - **241-243** 
+       ::
+              
+          No recitation: the ruinous impurity   
+                   of chants. 
+          No initiative: of a household.    
+          Indolence: of beauty.   
+          Heedlessness: of a guard.   
+              
+          In a woman, misconduct is an impurity.    
+          In a donor, stinginess.   
+          Evil deeds are the real impurities    
+          in this world & the next.   
+              
+          More impure than these impurities   
+          is the ultimate impurity:   
+            ignorance.  
+          Having abandoned this impurity,   
+          monks, you're impurity-free.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **243** 
-       | 
+       |  Ignorance, of stains, is the greatest:  
+       |  Casting it off, monks, be stainless!
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 243 
+     - 243 But there is a taint worse than all taints,--ignorance is the greatest taint. O mendicants! throw off that taint, and become taintless!
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 243 <{filename}../dhA/dhA-chap18%zh.rst#Dhp243>`__
@@ -503,20 +778,43 @@
        3. 法集要頌經：知慚壽中上，焉以貪牽縛，力士無畏忌，斯等命短促T4,791b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 244. 
+     - IT IS EASY TO LEAD A SHAMELESS LIFE IT IS HARD TO LEAD A MODEST LIFE
+
+       244. Easy is the life of a shameless one who is as impudent as a crow, back-biting, presumptuous, arrogant, and corrupt.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **244.** 
+     - **244.** Easy is life for the shameless one who is impudent as a crow, is backbiting and forward, arrogant and corrupt.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **244** 
+     - **244-245** 
+       ::
+              
+          Life's easy to live   
+          for someone unscrupulous,   
+            cunning as a crow,  
+            corrupt, back-biting, 
+            forward, & brash; 
+          but for someone who's constantly    
+            scrupulous, cautious, 
+            observant, sincere, 
+            pure in his livelihood, 
+            clean in his pursuits,  
+                   it's hard.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **244** 
-       | 
+     - **244** 
+       ::
+              
+         Life, for the   
+                   shameless,  
+                   presumptious, 
+                   audacious,  
+                   offensive,  
+                   immoral,  
+         is lived without struggle.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 244 
+     - 244 Life is easy to live for a man who is without shame, a crow hero, a mischief-maker, an insulting, bold, and wretched fellow.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 244 <{filename}../dhA/dhA-chap18%zh.rst#Dhp244>`__
@@ -549,20 +847,41 @@
        3. 法集要頌經：知漸不盡壽，恒求清淨行，威儀不缺漏，當觀真淨壽T4,791b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 245. 
+     - 245. Hard is the life of a modest one who ever seeks purity, is detached, humble, clean in life, and reflective.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **245.** 
+     - **245.** Difficult is life for the modest one who always seeks purity, is detached and unassuming, clean in life, and discerning.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **245** 
+     - **244-245** 
+       ::
+              
+          Life's easy to live   
+          for someone unscrupulous,   
+            cunning as a crow,  
+            corrupt, back-biting, 
+            forward, & brash; 
+          but for someone who's constantly    
+            scrupulous, cautious, 
+            observant, sincere, 
+            pure in his livelihood, 
+            clean in his pursuits,  
+                   it's hard.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **245** 
-       | 
+     - **245** 
+       ::
+              
+         Life, for those who are 
+                   scrupulous, 
+                   tactful,  
+                   punctilious,  
+                   vigilant, 
+                   virtuous, 
+         is truly strenuous.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 245 
+     - 245 But life is hard to live for a modest man, who always looks for what is pure, who is disinterested, quiet, spotless, and intelligent.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 245 <{filename}../dhA/dhA-chap18%zh.rst#Dhp245>`__
@@ -593,20 +912,43 @@
      - 1. 法句經：愚人好殺，言無誠實，不與而取，好犯人婦T4,568c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 246. 
+     - ``HE WHO DOES NOT OBSERVE THE FIVE PRECEPTS RUINS HIMSELF   BE NOT AVARICIOUS AND DO NO WRONG``
+
+       246-247. Whoso in this world destroys life, tells lies, takes what is not given, goes to others' wives, and is addicted to intoxicating drinks, such a one digs up his own root in this world.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **246.** 
+     - **246-247.** One who destroys life, utters lies, takes what is not given, goes to another man's wife, and is addicted to intoxicating drinks — such a man digs up his own root even in this world.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **246** 
+     - **246-248** 
+       ::
+              
+          Whoever kills, lies, steals,    
+          goes to someone else's wife,    
+          & is addicted to intoxicants,   
+            digs himself up 
+            by the root 
+          right here in this world.   
+              
+          So know, my good man,   
+          that bad deeds are reckless.    
+          Don't let greed & unrighteousness   
+          oppress you with long-term pain.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **246** 
-       | 
+     - | **246 & 247** 
+       |    
+       |  The taker by theft, 
+       |  The slayer of life, 
+       |  One given to drink  
+       |  Or another man’s wife,  
+       |  And he in this world  
+       |  Who delivers untruths,  
+       |  Are but people who dig themselves 
+       |  Up by the roots.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 246 
+     - 246 He who destroys life, who speaks untruth, who in this world takes what is not given him, who goes to another man's wife;
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 246 <{filename}../dhA/dhA-chap18%zh.rst#Dhp246>`__
@@ -637,20 +979,41 @@
      - 1. 法句經：逞心犯戒，迷惑於酒，斯人世世，自掘身本T4,568c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 247. 
+     - 246-247. Whoso in this world destroys life, tells lies, takes what is not given, goes to others' wives, and is addicted to intoxicating drinks, such a one digs up his own root in this world.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **247.** 
+     - **246-247.** One who destroys life, utters lies, takes what is not given, goes to another man's wife, and is addicted to intoxicating drinks — such a man digs up his own root even in this world.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **247** 
+     - **246-248** 
+       ::
+              
+          Whoever kills, lies, steals,    
+          goes to someone else's wife,    
+          & is addicted to intoxicants,   
+            digs himself up 
+            by the root 
+          right here in this world.   
+              
+          So know, my good man,   
+          that bad deeds are reckless.    
+          Don't let greed & unrighteousness   
+          oppress you with long-term pain.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **247** 
-       | 
+     - | **246 & 247** 
+       |    
+       |  The taker by theft, 
+       |  The slayer of life, 
+       |  One given to drink  
+       |  Or another man’s wife,  
+       |  And he in this world  
+       |  Who delivers untruths,  
+       |  Are but people who dig themselves 
+       |  Up by the roots.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 247 
+     - 247 And the man who gives himself to drinking intoxicating liquors, he, even in this world, digs up his own root.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 247 <{filename}../dhA/dhA-chap18%zh.rst#Dhp247>`__
@@ -681,20 +1044,36 @@
      - 1. 法句經：人如覺是，不當念惡，愚近非法，久自燒沒T4,568c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 248. 
+     - 248. Know thus O good man: "Not easy of restraint are evil things". Let not greed and wickedness 5 drag you to protracted misery.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **248.** 
+     - **248.** Know this, O good man: evil things are difficult to control. Let not greed and wickedness drag you to protracted misery.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **248** 
+     - **246-248** 
+       ::
+              
+          Whoever kills, lies, steals,    
+          goes to someone else's wife,    
+          & is addicted to intoxicants,   
+            digs himself up 
+            by the root 
+          right here in this world.   
+              
+          So know, my good man,   
+          that bad deeds are reckless.    
+          Don't let greed & unrighteousness   
+          oppress you with long-term pain.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **248** 
-       | 
+       |  That loose living, my dear friend,  
+       |  Is but evil, comprehend!  
+       |  Don’t let turpitude and greed,  
+       |  To long tribulation lead.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 248 
+     - 248 O man, know this, that the unrestrained are in a bad state; take care that greediness and vice do not bring thee to grief for a long time!
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 248 <{filename}../dhA/dhA-chap18%zh.rst#Dhp248>`__
@@ -730,20 +1109,49 @@
        3. 法集要頌經：若人懷懊惱，貪他人衣食，彼人晝夜寐，不獲三摩地T4,782b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 249. 
+     - THE ENVIOUS ARE NOT AT PEACE THE UNENVIOUS ARE AT PEACE
+
+       249. People give according to their faith and as they are pleased. Whoever therein is envious of others' food and drink, gains no peace [NāradaFn18-06]_ either by day or by night.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **249.** 
+     - **249.** People give according to their faith or regard. If one becomes discontented with the food and drink given by others, one does not attain meditative absorption, either by day or by night.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **249** 
+     - **249-250** 
+       ::
+              
+          People give   
+          in line with their faith,   
+          in line with conviction.    
+          Whoever gets flustered    
+          at food & drink given to others,    
+          attains no concentration    
+          by day or by night.   
+              
+          But one in whom this is   
+            cut    through  
+            up-    rooted 
+            wiped out — 
+          attains concentration   
+          by day or by night.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **249** 
-       | 
+     - | **249 & 250** 
+       |    
+       |  People’s alms donations 
+       |  Come from faith and inspiration.  
+       |  If a bhikkhu feels dejected 
+       |  By the offerings to others, 
+       |  Then no inner peace he’ll gain  
+       |  In the night-time, or the day.  
+       |    
+       |  But dejection, if it’s quelled, 
+       |  If uprooted and expelled, 
+       |  Then he’ll inner peace regain 
+       |  Through the night, and through the day.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 249 
+     - 249 The world gives according to their faith or according to their pleasure: if a man frets about the food and the drink given to others, he will find no rest either by day or by night.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 249 <{filename}../dhA/dhA-chap18%zh.rst#Dhp249>`__
@@ -776,20 +1184,47 @@
        3. 法集要頌經：若人能斷貪，如截多羅樹，彼人則晝夜，及獲三摩地T4,782b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 250. 
+     - 250. But he who has this (feeling) fully cut off, uprooted and destroyed, gains peace by day and by night.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **250.** 
+     - **250.** But he in who this (discontent) is fully destroyed, uprooted and extinct, he attains absorption, both by day and by night.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **250** 
+     - **249-250** 
+       ::
+              
+          People give   
+          in line with their faith,   
+          in line with conviction.    
+          Whoever gets flustered    
+          at food & drink given to others,    
+          attains no concentration    
+          by day or by night.   
+              
+          But one in whom this is   
+            cut    through  
+            up-    rooted 
+            wiped out — 
+          attains concentration   
+          by day or by night.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **250** 
-       | 
+     - | **249 & 250** 
+       |    
+       |  People’s alms donations 
+       |  Come from faith and inspiration.  
+       |  If a bhikkhu feels dejected 
+       |  By the offerings to others, 
+       |  Then no inner peace he’ll gain  
+       |  In the night-time, or the day.  
+       |    
+       |  But dejection, if it’s quelled, 
+       |  If uprooted and expelled, 
+       |  Then he’ll inner peace regain 
+       |  Through the night, and through the day.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 250 
+     - 250 He in whom that feeling is destroyed, and taken out with the very root, finds rest by day and by night.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 250 <{filename}../dhA/dhA-chap18%zh.rst#Dhp250>`__
@@ -822,20 +1257,31 @@
        | 2. 瑜伽：無淤泥等欲，無魑魅等瞋，無羅網等癡，無江河等愛T30,383c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 251. 
+     - THERE IS NO RIVER LIKE CRAVING
+
+       251. There is no fire like lust, no grip like hate, no net like delusion, no river like craving.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **251.** 
+     - **251.** There is no fire like lust; there is no grip like hatred; there is no net like delusion; there is no river like craving.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **251** 
+     - **251** 
+       ::
+              
+          There's no fire like passion,   
+          no seizure like anger,    
+          no snare like delusion,   
+          no river like craving.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **251** 
-       | 
+       |  There’s no fire like passion; 
+       |  No captor like hating;  
+       |  No snare like delusion; 
+       |  No river like craving.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 251 
+     - 251 There is no fire like passion, there is no shark like hatred, there is no snare like folly, there is no torrent like greed.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 251 <{filename}../dhA/dhA-chap18%zh.rst#Dhp251>`__
@@ -870,20 +1316,40 @@
        2. 法集要頌經：善觀己瑕隙，使己不露外，彼彼自有隙，如彼飛輕塵。 若己稱無瑕，罪福俱并至，但見他人隙，恒懷無明想T4,791b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 252. 
+     - EASY TO SEE ARE OTHERS' FAULTS
+
+       252. Easily seen are others' faults, hard indeed to see are one's own. Like chaff one winnows others' faults, but one's own (faults) one hides, as a crafty fowler conceals himself [NāradaFn18-07]_ by camouflage. [NāradaFn18-08]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **252.** 
+     - **252.** Easily seen is the fault of others, but one's own fault is difficult to see. Like chaff one winnows another's faults, but hides one's own, even as a crafty fowler hides behind sham branches.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **252** 
+     - **252-253** 
+       ::
+              
+          It's easy to see    
+          the errors of others,   
+          but hard to see   
+          your own.   
+          You winnow like chaff   
+          the errors of others,   
+          but conceal your own —    
+          like a cheat, an unlucky throw.
+              
+          If you focus on the errors of others,   
+          constantly finding fault,   
+          your effluents flourish.    
+          You're far from their ending.   
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **252** 
-       | 
+       |  Easy to see are another man’s flaws;  
+       |  Harder to see are the faults that are yours.  
+       |  Though you winnow like chaff what are other folks’ failings,  
+       |  You act like a card-sharp, your ‘losing hand’ veiling.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 252 
+     - 252 The fault of others is easily perceived, but that of oneself is difficult to perceive; a man winnows his neighbour's faults like chaff, but his own fault he hides, as a cheat hides the bad die from the gambler.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 252 <{filename}../dhA/dhA-chap18%zh.rst#Dhp252>`__
@@ -915,20 +1381,40 @@
        2. 瑜伽：若見他惡業，能審諦思惟，自身終不為，由彼業能縛T30,380b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 253. 
+     - DEFILEMENTS MULTIPLY IN THOSE WHO SEEK OTHERS' FAULTS
+
+       253. He who sees others' faults, and is ever irritable - the corruptions of such a one grow. He is far from the destruction of corruptions. [NāradaFn18-09]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **253.** 
+     - **253.** He who seeks another's faults, who is ever censorious — his cankers grow. He is far from destruction of the cankers.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **253** 
+     - **252-253** 
+       ::
+              
+          It's easy to see    
+          the errors of others,   
+          but hard to see   
+          your own.   
+          You winnow like chaff   
+          the errors of others,   
+          but conceal your own —    
+          like a cheat, an unlucky throw.
+              
+          If you focus on the errors of others,   
+          constantly finding fault,   
+          your effluents flourish.    
+          You're far from their ending.   
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
      - | **253** 
-       | 
+       |  If a man ever heeds 
+       |  Other persons’ misdeeds,  
+       |  And is always offended, 
+       |  His taints are distended.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 253 
+     - 253 If a man looks after the faults of others, and is always inclined to be offended, his own passions will grow, and he is far from the destruction of passions.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 253 <{filename}../dhA/dhA-chap18%zh.rst#Dhp253>`__
@@ -964,20 +1450,40 @@
        | 5. 瑜伽：虛空無鳥迹，外道無沙門，愚夫樂戲論，如來則無有T30,384a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 254. 
+     - ``OUTSIDE THERE ARE NO SAINTS WHO HAVE REALISED NIBBĀNA   THERE ARE NO AGGREGATES WHICH ARE ETERNAL``
+
+       254. In the sky there is no track. Outside 10 there is no Saint. [NāradaFn18-11]_ Mankind delights in obstacles. [NāradaFn18-12]_ The Tathāgatas [NāradaFn18-13]_ are free from obstacles.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **254.** 
+     - **254.** There is no track in the sky, and no recluse outside (the Buddha's dispensation). Mankind delights in worldliness, but the Buddhas are free from worldliness. [BudRkFn-v254-255]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **254** 
+     - **254-255** [ThaniSFn-V254-255]_
+       ::
+              
+          There's no trail in space,    
+          no outside contemplative.   
+          People are smitten    
+          with objectifications,    
+          but devoid of objectification are   
+          the Tathagatas.   
+              
+          There's no trail in space,    
+          no outside contemplative,   
+          no eternal fabrications,    
+          no wavering in the Awakened.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **254** 
-       | 
+     - | **254a** 
+       |  Roads don’t pass up through the sky,  
+       |  So, off the Path, no saints do lie. [VaradoFn-V254a]_  
+       |         
+       |  **254b**
+       |  Though people relish Self-perceptions, [VaradoFn-V254b]_
+       |  Buddhas have no such conceptions.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 254 
+     - 254 There is no path through the air, a man is not a Samana by outward acts. The world delights in vanity, the Tathagatas (the Buddhas) are free from vanity.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 254 <{filename}../dhA/dhA-chap18%zh.rst#Dhp254>`__
@@ -1020,20 +1526,38 @@
        2. 法集要頌經：虛空無轍迹，沙門無外意，世間皆無常，佛無我所有T4,782b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 255. 
+     - 255. In the sky there is no track. Outside there is no Saint. There are no conditioned things [NāradaFn18-14]_ that are eternal. There is no instability 15 in the Buddhas.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - **255.** 
+     - **255.** There is no track in the sky, and no recluse outside (the Buddha's dispensation). There are no conditioned things that are eternal, and no instability in the Buddhas.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - | **255** 
+     - **254-255** [ThaniSFn-V254-255]_
+       ::
+              
+          There's no trail in space,    
+          no outside contemplative.   
+          People are smitten    
+          with objectifications,    
+          but devoid of objectification are   
+          the Tathagatas.   
+              
+          There's no trail in space,    
+          no outside contemplative,   
+          no eternal fabrications,    
+          no wavering in the Awakened.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - | **255** 
-       | 
+     - | **255a** 
+       |  Roads don’t pass up through the sky,  
+       |  So, off the Path, no saints do lie. 
+       |  
+       | **255b**
+       |  Though nothing’s endless in creation, 
+       |  Buddhas have no agitation.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - 255 
+     - 255 There is no path through the air, a man is not a Samana by outward acts. No creatures are eternal; but the awakened (Buddha) are never shaken.
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 255 <{filename}../dhA/dhA-chap18%zh.rst#Dhp255>`__
@@ -1071,7 +1595,7 @@
           - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
             | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__ 
 
@@ -1101,6 +1625,53 @@
 
 .. [CFFn18-02] 〔敬法法師註18-02〕 41 saṭho 狡猾的人（註釋解釋他為捕鳥者）
 
+.. [NāradaFn18-01] (Ven. Nārada 18-01) Namely: the Pure Abodes (Suddhāvāsa).
+
+.. [NāradaFn18-02] (Ven. Nārada 18-02) Atidhonacāri = the bhikkhu who lives without reflecting on the necessaries of life. While using the four requisites, namely: robes, food, drink, and lodging, a bhikkhu is expected to reflect on their special usefulness and loathsomeness. If he does not, he transgresses a minor rule by not using them properly. Dhona means the four necessaries.
+
+.. [NāradaFn18-03] (Ven. Nārada 18-03) Mantā mean religious doctrines, arts and sciences. Non-recitation of the scriptures and non-practice of the arts tend to make one forget them.
+
+.. [NāradaFn18-04] (Ven. Nārada 18-04) Ghara is interpreted as householders.
+
+.. [NāradaFn18-05] (Ven. Nārada 18-05) Adhammo is here used in the sense of hatred. The root causes of evil are greed and hatred.
+
+.. [NāradaFn18-06] (Ven. Nārada 18-06) Samādhi, mundane or supramundane concentration.
+
+.. [NāradaFn18-07] (Ven. Nārada 18-07) Kaliü = attabhāva = body.
+
+.. [NāradaFn18-08] (Ven. Nārada 18-08) Kitavā = kitavāya = by means of sham branches etc.
+
+.. [NāradaFn18-09] (Ven. Nārada 18-09) Namely: the Fruit of Arahantship. See note on v. 226.
+
+.. [NāradaFn18-10] (Ven. Nārada 18-10) Outside the Dispensation (sāsana) of the Buddha.
+
+.. [NāradaFn18-11] (Ven. Nārada 18-11) Here samaṇa refers to Saints who have realised the four Paths and four Fruits. They are the Ariya Saints who have attained Nibbāna.
+
+.. [NāradaFn18-12] (Ven. Nārada 18-12) Impediments such as craving, pride, etc.
+
+.. [NāradaFn18-13] (Ven. Nārada 18-13) An epithet of the Buddha. Literally, it means "who thus hath come".
+
+.. [NāradaFn18-14] (Ven. Nārada 18-14) Saṅkhāra means the five aggregates conditioned by causes.
+
+.. [NāradaFn18-15] (Ven. Nārada 18-15) There is no single impediment such as craving, pride, and so on, by means of which the Buddhas regard the conditioned things as eternal.
+
+.. [BudRkFn-v254-255] (Ven. Buddharakkhita (vv. 254-255) Recluse (samana): here used in the special sense of those who have reached the four supramundane stages.
+
+.. [ThaniSFn-V235] (Ven. Thanissaro V. 235) Yama = the god of the underworld. Yama's minions or underlings were believed to appear to a person just prior to the moment of death.
+
+.. [ThaniSFn-V236] (Ven. Thanissaro V. 236) Impurities, blemishes = passion, aversion, delusion, and their various permutations, including envy, miserliness, hypocrisy, and boastfulness.
+
+.. [ThaniSFn-V240] (Ven. Thanissaro V. 240) "One who lives slovenly": As DhpA makes clear, this refers to one who uses the requisites of food, clothing, shelter, and medicine without the wisdom that comes with reflecting on their proper use. The Pali term here is atidhonacarin, a compound built around the word dhona, which means clean or pure. The ati- in the compound could mean "overly," thus yielding, "one overly scrupulous in his behavior," but it can also mean "transgressing," thus, "transgressing against what is clean" = "slovenly." The latter reading fits better with the image of rust as a deficiency in the iron resulting from carelessness.
+
+.. [ThaniSFn-V254-255] (Ven. Thanissaro V. 254-255) "No outside contemplative": No true contemplative, defined as a person who has attained any of the four stages of Awakening, exists outside of the practice of the Buddha's teachings (see note 22). In DN 16, the Buddha is quoted as teaching his final student: "In any doctrine & discipline where the noble eightfold path is not found, no contemplative of the first... second... third... fourth order [stream-winner, once-returner, non-returner, or arahant] is found. But in any doctrine & discipline where the noble eightfold path is found, contemplatives of the first... second... third... fourth order are found. The noble eightfold path is found in this doctrine & discipline, and right here there are contemplatives of the first... second... third... fourth order. Other teachings are empty of knowledgeable contemplatives. And if the monks dwell rightly, this world will not be empty of arahants." (On the noble eightfold path, see note 191.)
+
+                         On "objectification," see note 195-196.
+
+.. [VaradoFn-V240] (Ven. Varado V.240)  Verse 240: "those who live indulgently" (atidhonacārinaṃ). PTS: indulging too much in the use of the four requisites. 
+    
+.. [VaradoFn-V254a] (Ven. Varado V.254a) Verse 254a: "off the Path, no saints (samaṇo) do lie". 'Samaṇo' can mean one who has attained one of the four stages of Buddhist sainthood (e.g. see D.2.151). 
+    
+.. [VaradoFn-V254b] (Ven. Varado V.254b) Verse 254b: "Though people relish Self-perceptions (papañcā), Buddhas have no such conceptions". PED (papañcā): obstacle, illusion, diffuseness. But S.4.202 says “I am” is papañcā (asmīti bhikkhave papañcitametaṃ)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
