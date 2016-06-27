@@ -2,7 +2,7 @@ Dhammapada, The Buddha's Path of Wisdom
 ========================================
 
 :date: 2016-03-03 21:30
-:modified: 2016-04-21 21:50
+:modified: 2016-06-26 19:00
 :tags: Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine, DHP, Dhp.
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya 
 :summary: Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine
@@ -25,7 +25,9 @@ Dhammapada, The Buddha's Path of Wisdom
 
   * `Dhammapada in Verse <http://www.suttas.net/english/suttas/khuddaka-nikaya/dhammapada/index.php>`__ -- Inward Path, Translated by **Bhante Varado** and **Samanera Bodhesako**, Malaysia, 2007
 
-  * The Dhammapada: `A Collection of Verses: Being One of the Canonical Books of the Buddhists <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ , translated by Friedrich Max Müller (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002), `Wikisource <https://en.wikisource.org/>`__ 
+  * The Dhammapada: `A Collection of Verses: Being One of the Canonical Books of the Buddhists <https://en.wikisource.org/wiki/Dhammapada_(Müller)>`__ , translated by Friedrich Max Müller (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002), `Wikisource <https://en.wikisource.org/>`__ ; 
+
+    * THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
 
   * The Word of the Doctrine (Dhammapada), tr K. R. Norman, 1997, Pali Text Society, Bristol, London, UK.; the PTS's preferred translation
 
