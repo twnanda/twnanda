@@ -2,7 +2,7 @@ Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhamma
 ###########################################################################################
 
 :date: 2016-04-05 17:00
-:modified: 2016-04-19 15:00
+:modified: 2016-06-29 17:30
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma 
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -34,9 +34,9 @@ Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhamma
    * - `1. Yamakavaggo (Dhp.1-20) <{filename}dhp-contrast-reading-en-chap01%zh.rst>`__
      - `2. Appamādavaggo (Dhp.21-32) <{filename}dhp-contrast-reading-en-chap02%zh.rst>`__
      - `3. Cittavaggo (Dhp.33-43) <{filename}dhp-contrast-reading-en-chap03%zh.rst>`__
-     - 4. Pupphavaggo (Dhp.44-59) 04
-     - 5. Bālavaggo (Dhp.60-75) 05
-     - 6. Paṇḍitavaggo (Dhp.76-89) 06
+     - 4. Pupphavaggo (Dhp.44-59) <{filename}dhp-contrast-reading-en-chap04%zh.rst>`__ 
+     - 5. Bālavaggo (Dhp.60-75) <{filename}dhp-contrast-reading-en-chap05%zh.rst>`__ 
+     - 6. Paṇḍitavaggo (Dhp.76-89) <{filename}dhp-contrast-reading-en-chap06%zh.rst>`__ 
    
    * - 1. The Pairs
      - 2. Heedfulness
@@ -49,12 +49,12 @@ Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhamma
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - 7. Arahantavaggo (Dhp.90-99) 07
-     - 8. Sahassavaggo (Dhp.100-115) 08
-     - 9. Pāpavaggo (Dhp.116-128) 09
-     - 10. Daṇḍavaggo (Dhp.129-145) 10
-     - 11. Jarāvaggo (Dhp.146-156) 11
-     - 12. Attavaggo (Dhp.157-166) 12
+   * - 7. Arahantavaggo (Dhp.90-99) <{filename}dhp-contrast-reading-en-chap07%zh.rst>`__ 
+     - 8. Sahassavaggo (Dhp.100-115) <{filename}dhp-contrast-reading-en-chap08%zh.rst>`__ 
+     - 9. Pāpavaggo (Dhp.116-128) <{filename}dhp-contrast-reading-en-chap09%zh.rst>`__ 
+     - 10. Daṇḍavaggo (Dhp.129-145) <{filename}dhp-contrast-reading-en-chap10%zh.rst>`__ 
+     - 11. Jarāvaggo (Dhp.146-156) <{filename}dhp-contrast-reading-en-chap11%zh.rst>`__ 
+     - 12. Attavaggo (Dhp.157-166) <{filename}dhp-contrast-reading-en-chap12%zh.rst>`__ 
 
    * - 7. The Arahat
      - 8. The Thousands
@@ -67,12 +67,12 @@ Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhamma
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - 13. Lokavaggo (Dhp.167-178) 13
-     - 14. Buddhavaggo (Dhp.179-196) 14
-     - 15. Sukhavaggo (Dhp.197-208) 15
-     - 16. Piyavaggo (Dhp.209~220) 16
-     - 17. Kodhavaggo (Dhp.221-234) 17
-     - 18. Malavaggo (Dhp.235-255) 18
+   * - 13. Lokavaggo (Dhp.167-178) <{filename}dhp-contrast-reading-en-chap13%zh.rst>`__ 
+     - 14. Buddhavaggo (Dhp.179-196) <{filename}dhp-contrast-reading-en-chap14%zh.rst>`__ 
+     - 15. Sukhavaggo (Dhp.197-208) <{filename}dhp-contrast-reading-en-chap15%zh.rst>`__ 
+     - 16. Piyavaggo (Dhp.209~220) <{filename}dhp-contrast-reading-en-chap16%zh.rst>`__ 
+     - 17. Kodhavaggo (Dhp.221-234) <{filename}dhp-contrast-reading-en-chap17%zh.rst>`__ 
+     - 18. Malavaggo (Dhp.235-255) <{filename}dhp-contrast-reading-en-chap18%zh.rst>`__ 
 
    * - 13. The World
      - 14. The Buddha
@@ -85,12 +85,12 @@ Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhamma
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - 19. Dhammaṭṭhavaggo (Dhp.256-272) 19
-     - 20 Maggavaggo (Dhp.273-289) 20
-     - 21. Pakiṇṇakavaggo (Dhp.290-305) 21
-     - 22. Nirayavaggo (Dhp.306-319) 22
-     - 23. Nāgavaggo (Dhp.320-333) 23
-     - 24. Taṇhāvaggo (Dhp.334-359) 24
+   * - 19. Dhammaṭṭhavaggo (Dhp.256-272) <{filename}dhp-contrast-reading-en-chap19%zh.rst>`__ 
+     - 20 Maggavaggo (Dhp.273-289) <{filename}dhp-contrast-reading-en-chap20%zh.rst>`__ 
+     - 21. Pakiṇṇakavaggo (Dhp.290-305) <{filename}dhp-contrast-reading-en-chap21%zh.rst>`__ 
+     - 22. Nirayavaggo (Dhp.306-319) <{filename}dhp-contrast-reading-en-chap22%zh.rst>`__ 
+     - 23. Nāgavaggo (Dhp.320-333) <{filename}dhp-contrast-reading-en-chap23%zh.rst>`__ 
+     - 24. Taṇhāvaggo (Dhp.334-359) <{filename}dhp-contrast-reading-en-chap24%zh.rst>`__ 
 
    * - 19. The Just
      - 20. The Path
@@ -103,9 +103,9 @@ Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhamma
    :widths: 16 16 68
    :header-rows: 1
 
-   * - 25. Bhikkhuvaggo (Dhp.360-382) 25
-     - 26. Brāhmaṇavaggo (Dhp.383-423) 26
-     - `Dhammapada (Dhp.001-423) <{filename}dhp-contrast-reading-en-full%zh.rst>`_
+   * - 25. Bhikkhuvaggo (Dhp.360-382) <{filename}dhp-contrast-reading-en-chap25%zh.rst>`__ 
+     - 26. Brāhmaṇavaggo (Dhp.383-423) <{filename}dhp-contrast-reading-en-chap26%zh.rst>`__ 
+     - Dhammapada (Dhp.001-423) 
 
    * - 25. The Monk
      - 26. The Holy Man
@@ -139,6 +139,8 @@ NOTE：
 .. [6] (note 006) original: `Dhammapada in Verse <http://www.suttas.net/english/suttas/khuddaka-nikaya/dhammapada/index.php>`__ -- Inward Path, Translated by **Bhante Varado** and **Samanera Bodhesako**, Malaysia, 2007
 
 .. [7] (note 007) original: `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
+
+        THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
 
 --------------
 
