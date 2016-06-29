@@ -3,7 +3,7 @@ Chapter 16. Affection; Piyavaggo (Dhp.209~220), Parallel Reading (paragraph gran
 ==============================================================================================================================================
 
 :date: 2016-06-29 13:30
-:modified: 2016-06-29 13:30
+:modified: 2016-06-29 22:00
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, Affection, Piyavaggo, Pleasure, Dear Ones, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Chapter 16. Affection; Piyavaggo (Dhp.209~220), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -119,9 +119,6 @@ Chapter 16. Affection; Piyavaggo (Dhp.209~220), Parallel Reading (paragraph gran
    * - Pāḷi Tipiṭaka (CSCD) [2]_
      - | 210. Mā  piyehi samāgañchi, appiyehi kudācanaṃ;
        | Piyānaṃ adassanaṃ dukkhaṃ, appiyānañca dassanaṃ.
-
-   * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二一０　 **莫結交愛人，莫結不愛人。不見愛人苦，見憎人亦苦。**
 
    * - Translated from the Pali by **Ven. Nārada Thera** ) [3]_
      - GIVE UP BOTH WHAT IS DEAR AND NOT DEAR
