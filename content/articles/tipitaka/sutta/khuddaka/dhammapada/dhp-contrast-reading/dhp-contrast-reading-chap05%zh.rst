@@ -3,7 +3,7 @@
 ============================================================================
 
 :date: 2016-06-02 21:30
-:modified: 2016-06-26 15:30
+:modified: 2016-07-01 15:00
 :tags: 法句經, 法句經對讀, 愚品, 愚人品, Dhp, Dhammapada, Bālavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Fool
@@ -11,6 +11,10 @@
 :summary: 法句經 第五、愚品 (愚人品) 多譯本對讀(段層次) Dhammapada (Dhp.) 5. Bālavaggo
           (Dhp.60-75)
           Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom,  The Fool
+
+--------------
+
+- `《法句經》多譯本對讀目錄 <{filename}dhp-contrast-reading%zh.rst>`__
 
 --------------
 

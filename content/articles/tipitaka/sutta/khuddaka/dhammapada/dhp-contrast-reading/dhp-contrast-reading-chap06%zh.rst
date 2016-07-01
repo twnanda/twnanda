@@ -3,7 +3,7 @@
 ========================================================================
 
 :date: 2016-06-02 22:00
-:modified: 2016-06-26 15:30
+:modified: 2016-07-01 15:00
 :tags: 法句經, 法句經對讀, 智者品, Dhp, Dhammapada, Paṇḍitavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Wise Man
@@ -11,6 +11,10 @@
 :summary: 法句經 第六、智者品 多譯本對讀(段層次) Dhammapada (Dhp.) 6. Paṇḍitavaggo
           (Dhp.76-89)
           Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, The Wise Man
+
+--------------
+
+- `《法句經》多譯本對讀目錄 <{filename}dhp-contrast-reading%zh.rst>`__
 
 --------------
 

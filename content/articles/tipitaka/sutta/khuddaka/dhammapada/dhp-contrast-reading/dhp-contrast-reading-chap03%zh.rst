@@ -3,7 +3,7 @@
 ==================================================================
 
 :date: 2016-05-29 18:30
-:modified: 2016-06-24 11:00
+:modified: 2016-07-01 15:00
 :tags: 法句經, 法句經對讀, 心品, Dhp, Dhammapada, Cittavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Mind
@@ -11,6 +11,10 @@
 :summary: 法句經 三、心品 多譯本對讀(段層次), Dhp, Dhammapada, 3. Cittavaggo (Dhp.33-43)
           Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 
           The Mind
+
+--------------
+
+- `《法句經》多譯本對讀目錄 <{filename}dhp-contrast-reading%zh.rst>`__
 
 --------------
 

@@ -3,7 +3,7 @@
 =========================================================================
 
 :date: 2016-06-04 16:30
-:modified: 2016-06-27 15:00
+:modified: 2016-07-01 15:30
 :tags: 法句經, 法句經對讀, 忿怒品, Dhp, Dhammapada, Kodhavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Anger
@@ -11,6 +11,10 @@
 :summary: 法句經 第十七：忿怒品 多譯本對讀(段層次) Dhammapada (Dhp.) 17. Kodhavaggo 
           (Dhp.221-234)
           Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, Anger
+
+--------------
+
+- `《法句經》多譯本對讀目錄 <{filename}dhp-contrast-reading%zh.rst>`__
 
 --------------
 

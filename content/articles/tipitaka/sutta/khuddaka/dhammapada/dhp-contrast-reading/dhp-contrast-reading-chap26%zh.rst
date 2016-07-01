@@ -3,7 +3,7 @@
 ================================================================================
 
 :date: 2016-06-04 18:00
-:modified: 2016-06-27 17:30
+:modified: 2016-07-01 15:30
 :tags: 法句經, 法句經對讀, 婆羅門品, Dhp, Dhammapada, Brāhmaṇavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Holy Man
@@ -12,6 +12,10 @@
           (Dhp.383-423)
           Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 
           The Holy Man
+
+--------------
+
+- `《法句經》多譯本對讀目錄 <{filename}dhp-contrast-reading%zh.rst>`__
 
 --------------
 

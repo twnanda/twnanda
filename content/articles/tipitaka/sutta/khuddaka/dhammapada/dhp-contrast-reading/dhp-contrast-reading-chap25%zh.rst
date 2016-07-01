@@ -3,7 +3,7 @@
 =============================================================================
 
 :date: 2016-06-04 17:30
-:modified: 2016-06-27 17:00
+:modified: 2016-07-01 15:30
 :tags: 法句經, 法句經對讀, 比丘品, Dhp, Dhammapada, Bhikkhuvaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Monk
@@ -11,6 +11,10 @@
 :summary: 法句經 第二十五：比丘品 多譯本對讀(段層次) Dhammapada (Dhp.) 25. Bhikkhuvaggo 
           (Dhp.360-382)
           Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, The Monk
+
+--------------
+
+- `《法句經》多譯本對讀目錄 <{filename}dhp-contrast-reading%zh.rst>`__
 
 --------------
 

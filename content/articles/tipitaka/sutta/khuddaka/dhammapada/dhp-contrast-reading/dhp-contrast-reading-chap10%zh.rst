@@ -3,7 +3,7 @@
 ===============================================================================
 
 :date: 2016-06-03 22:00
-:modified: 2016-06-26 21:00
+:modified: 2016-07-01 15:00
 :tags: 法句經, 法句經對讀, 刀杖品, 刑罰品, Dhp, Dhammapada, Daṇḍavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Violence
@@ -11,6 +11,10 @@
 :summary: 法句經 第十、刀杖品(刑罰品) 多譯本對讀(段層次) Dhammapada (Dhp.) 10. Daṇḍavaggo 
           (Dhp.129-145)
           Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, Violence
+
+--------------
+
+- `《法句經》多譯本對讀目錄 <{filename}dhp-contrast-reading%zh.rst>`__
 
 --------------
 

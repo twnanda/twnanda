@@ -3,7 +3,7 @@
 =======================================================================
 
 :date: 2016-06-04 16:00
-:modified: 2016-06-26 21:30
+:modified: 2016-07-01 15:00
 :tags: 法句經, 法句經對讀, 樂品, Dhp, Dhammapada, Sukhavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Happiness
@@ -11,6 +11,10 @@
 :summary: 法句經 第十五：樂品 多譯本對讀(段層次) Dhammapada (Dhp.) 15. Sukhavaggo 
           (Dhp.197-208)
           Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, Happiness
+
+--------------
+
+- `《法句經》多譯本對讀目錄 <{filename}dhp-contrast-reading%zh.rst>`__
 
 --------------
 

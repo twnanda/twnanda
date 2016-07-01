@@ -3,7 +3,7 @@
 ===================================================================================
 
 :date: 2016-06-04 17:30
-:modified: 2016-06-30 18:30
+:modified: 2016-07-01 15:30
 :tags: 法句經, 法句經對讀, 愛欲品, 貪愛品, Dhp, Dhammapada, Taṇhāvaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Craving
@@ -11,6 +11,10 @@
 :summary: 法句經 第二十四：愛欲品(貪愛品) 多譯本對讀(段層次) Dhammapada (Dhp.) 24. Taṇhāvaggo 
           (Dhp.334-359)
           Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, Craving
+
+--------------
+
+- `《法句經》多譯本對讀目錄 <{filename}dhp-contrast-reading%zh.rst>`__
 
 --------------
 

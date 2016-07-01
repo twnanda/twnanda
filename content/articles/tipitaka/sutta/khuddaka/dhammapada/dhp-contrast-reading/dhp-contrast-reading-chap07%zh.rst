@@ -3,7 +3,7 @@
 ===========================================================================
 
 :date: 2016-06-03 21:30
-:modified: 2016-06-26 16:00
+:modified: 2016-07-01 15:00
 :tags: 法句經, 法句經對讀, 阿羅漢品, Dhp, Dhammapada, Arahantavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Arahat
@@ -12,6 +12,10 @@
           (Dhp.90-99)
           Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, 
           The Arahat
+
+--------------
+
+- `《法句經》多譯本對讀目錄 <{filename}dhp-contrast-reading%zh.rst>`__
 
 --------------
 
