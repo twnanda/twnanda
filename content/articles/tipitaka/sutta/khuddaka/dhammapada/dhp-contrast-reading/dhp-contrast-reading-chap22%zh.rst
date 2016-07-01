@@ -3,7 +3,7 @@
 ============================================================================
 
 :date: 2016-06-04 17:00
-:modified: 2016-06-27 16:00
+:modified: 2016-06-30 16:00
 :tags: 法句經, 法句經對讀, 地獄品, Dhp, Dhammapada, Nirayavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The State of Woe
@@ -816,7 +816,7 @@
        | 持邪見的有情，將會墮入惡趣。
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
-     - 1. 法句經：可羞不羞，非羞反羞，生為邪見，死墮地獄。可畏不畏，非畏反畏，信向邪見，死墮地獄T4,570b
+     - 1. 法句經：可羞不羞，非羞反羞，生為邪見，死墮地獄。T4,570b
        2. 出曜經：不羞反羞，羞反不羞，不畏現畏，畏現不畏，生為邪見，死入地獄T4,702c
        3. 法集：不羞而反羞，反羞而不羞，不畏而現畏，畏現而不畏，生為人邪見，死定入地獄T4,785a
 
@@ -886,7 +886,9 @@
        | 持邪見的有情，將會墮入惡趣。
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
-     - 1. suspended
+     - 1. 法句經：可畏不畏，非畏反畏，信向邪見，死墮地獄T4,570b  [NandFn22-01]_
+       2. 出曜經：不畏現畏，畏現不畏，生為邪見，死入地獄T4,702c
+       3. 法集：不畏而現畏，畏現而不畏，生為人邪見，死定入地獄T4,785a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - 317. Beings who see fear in what is not to be feared, and see no fear in the fearsome, embrace false views and go to a woeful state.
@@ -1132,6 +1134,13 @@
 .. [NāradaFn22-04] (Ven. Nārada 22-04) Avajja means right belief and vajja means wrong belief.
 
 .. [VaradoFn-V315] (Ven. Varado V.315) Verse 315: "Do not miss the opportunity (khano)". PED (khano): opportunity, as well as moment.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+校註：
+------
+
+.. [NandFn22-01] 〔校註22-01〕 原參考處無；而 Dhp. 316: 法句經：可羞不羞，非羞反羞，生為邪見，死墮地獄。可畏不畏，非畏反畏，信向邪見，死墮地獄T4,570b 
 
 ---------------------------
 

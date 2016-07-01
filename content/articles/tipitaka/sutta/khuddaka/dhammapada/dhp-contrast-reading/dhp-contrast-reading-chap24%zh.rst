@@ -3,7 +3,7 @@
 ===================================================================================
 
 :date: 2016-06-04 17:30
-:modified: 2016-06-27 17:00
+:modified: 2016-06-30 18:30
 :tags: 法句經, 法句經對讀, 愛欲品, 貪愛品, Dhp, Dhammapada, Taṇhāvaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Craving
@@ -674,7 +674,7 @@
        | 故想讓己離欲者，他應該去除渴愛。
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
-     - 1. suspended
+     - （參考：眾生為愛使，染著三有中，方便求解脫，須權乃得出。—— 出曜經 T4,633c [NandFn24-01]_ ）
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - HE WHO DESIRES PASSIONLESSNESS SHOULD DISCARD CRAVING
@@ -2071,6 +2071,13 @@
                     Skilled in phonetics (akkhara) which PED says means "phonetics which probably included grammar".  
                   
                     Expert in syntax (pubbāparā) which PED says means what precedes and what follows, what comes first and what last, with reference to the successive order of syllables and words in the text of the Scriptures".
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+校註：
+------
+
+.. [NandFn24-01] 〔校註24-01〕 `出曜經卷第五 愛品第三 <http://www.cbeta.org/result/normal/T04/0212_005.htm>`__ ； T04n0212_p0633c12(00)〔（取材自《法句経の対照研究》-- 法句経の発展成立史研究，丹生実憲 著，日本印度学会，昭和43（1968）〕
 
 ---------------------------
 
