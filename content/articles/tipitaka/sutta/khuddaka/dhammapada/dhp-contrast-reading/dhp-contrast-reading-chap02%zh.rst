@@ -3,7 +3,7 @@
 =========================================================================
 
 :date: 2016-02-11 11:30
-:modified: 2016-06-24 10:30
+:modified: 2016-07-02 17:00
 :tags: 法句經, 法句經對讀, 不放逸品, Dhp, Dhammapada, Appamādavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Heedfulness
@@ -716,7 +716,7 @@
        | Appamādaṃ pasaṃsanti, pamādo garahito sadā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 30 摩伽 [LCanFn02-08]_ 、 [MettFn02-10]_ 以無逸，得為諸天主。無逸人、所讚，放逸為人訶。
+     - 30 摩伽 [LCanFn02-08]_ 、 [MettFn02-10]_ 以無逸，得為諸天主。無逸人所讚，放逸為人訶。
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 30 摩伽透過不放逸，得以生為天之主。 [CFFn02-01]_
