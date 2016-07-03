@@ -3,7 +3,7 @@
 ==================================================================
 
 :date: 2016-05-29 18:30
-:modified: 2016-07-01 15:00
+:modified: 2016-07-03 17:00
 :tags: 法句經, 法句經對讀, 心品, Dhp, Dhammapada, Cittavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Mind
@@ -70,7 +70,7 @@
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - **三、心品**
 
-       三三　輕動變易心，難護難制服，智者調直之，如匠搦箭直。
+       三三　輕動變易心，難護難制服，智者調直之，如匠搦箭直。 [MettFn03-01]_ 、 [MettFn03-02]_ 、 [MettFn03-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 第三：心品
@@ -168,7 +168,7 @@
        | Pariphandatidaṃ cittaṃ, māradheyyaṃ pahātave.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 三四　如魚離水棲，投於陸地上，以此戰慄心，擺脫魔境界。
+     - 三四　如魚離水棲，投於陸地上，以此戰慄心，擺脫魔境界。 [MettFn03-01]_ 
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 34 水中魚被取出投擲於地時，牠會跳躍不安；
@@ -346,7 +346,7 @@
        | Cittaṃ rakkhetha medhāvī, cittaṃ guttaṃ sukhāvahaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 三六　此心隨欲轉，微妙極難見。智者防護心，心護得安樂。
+     - 三六　此心隨欲轉，微妙極難見。智者防護心，心護得安樂。 [MettFn03-04]_ 、 [MettFn03-05]_ 、 [NandFn03-01]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 36 心極難見極微細，隨著喜好而停留。
@@ -431,7 +431,7 @@
        | Ye cittaṃ saṃyamessanti, mokkhanti mārabandhanā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 三七　遠行與獨行，無形隱深窟 [LChnFn03-01]_ 。誰能調伏心，解脫魔羅縛。 ( `037 典故 <{filename}../dhp-story/dhp-story037%zh.rst>`__ )
+     - 三七　遠行與獨行，無形隱深窟。誰能調伏心，解脫魔羅縛。  [LChnFn03-01]_ 、 [MettFn03-06]_ 、 [MettFn03-07]_ 
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 37 心單獨行走活動，它無身住於洞穴。 [CFFn03-02]_
@@ -593,7 +593,7 @@
        | Puññapāpapahīnassa, natthi jāgarato bhayaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 三九　若得無漏 [LChnFn03-02]_ 心，亦無諸惑亂，超越善與惡 [LChnFn03-03]_ ，覺者無恐怖。  ( `038~39 典故 <{filename}../dhp-story/dhp-story038-39%zh.rst>`__ )
+     - 三九　若得無漏心，亦無諸惑亂，超越善與惡，覺者無恐怖。 [LChnFn03-02]_ 、 [LChnFn03-03]_ 、 [MettFn03-08]_ 、 [MettFn03-09]_ 、 [MettFn03-10]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 39 對於心沒被貪浸透、心沒有被瞋恨打擊、
@@ -647,7 +647,7 @@
        | Yodhetha māraṃ paññāvudhena, jitañca rakkhe anivesano siyā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 四０  知身如陶器 [LChnFn03-04]_ ，住心似城廓，慧劍擊魔羅，守勝 [LChnFn03-05]_ 莫染著 [LChnFn03-06]_ 。
+     - 四０  知身如陶器，住心似城廓，慧劍擊魔羅，守勝莫染著。 [LChnFn03-04]_ 、 [LChnFn03-05]_ 、 [LChnFn03-06]_ 、 [MettFn03-11]_ 、 [MettFn03-12]_   
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 40 了知此身脆如瓶，建立此心固若城，
@@ -712,7 +712,7 @@
        | Chuddho apetaviññāṇo, niratthaṃva kaliṅgaraṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 四一　此身實不久，當睡於地下，被棄 [LChnFn03-07]_ 無意識，無用如木屑 [LChnFn03-08]_ 。
+     - 四一　此身實不久，當睡於地下，被棄無意識，無用如木屑。 [LChnFn03-07]_ 、 [MettFn03-13]_ 
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 41 的確在不久之後，此身將躺在大地，
@@ -771,7 +771,7 @@
        | Micchāpaṇihitaṃ cittaṃ, pāpiyo [pāpiyaṃ (?)] naṃ tato kare.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 四二　仇敵害仇敵，怨家對怨家 [LChnFn03-09]_ ，若心向邪行 [LChnFn03-10]_ ，惡業最為大。
+     - 四二　仇敵害仇敵，怨家對怨家，若心向邪行，惡業最為大。 [LChnFn03-09]_ 、 [LChnFn03-10]_ 、 [MettFn03-14]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 42 敵人對敵人所做的，怨家對怨家的傷害；
@@ -838,7 +838,7 @@
        **Cittavaggo tatiyo niṭṭhito.**
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 四三  （善）非父母作，亦非他眷屬，若心向正行 [LChnFn03-11]_ ，善業最為大。
+     - 四三  （善）非父母作，亦非他眷屬，若心向正行，善業最為大。 [LChnFn03-11]_ 、 [NandFn03-02]_
 
        **心品第三竟**
 
@@ -966,6 +966,56 @@
 .. [CFFn03-03] 〔敬法法師註03-04〕 10 註：已捨棄善惡即已成為阿羅漢。阿羅漢已根除了貪瞋痴，不再造業，包括善惡兩者。他的一切身語意行為都只是唯作而已。
 
 .. [CFFn03-04] 〔敬法法師註03-03〕 11 註：保護勝利是指保護已獲得的初階觀智，不執著是指不執著於禪那，而繼續修行觀禪直至證悟聖道果。
+
+.. [MettFn03-01] 〔明法尊者註03-01〕 Dh33-34的因緣是：彌醯長老(Meghiyatthera)當世尊的侍者時，他中意一處風景美好的地方，打算在此禪修，三次請求，世尊並不看好，但是最後還是答應他。彌醯長老在該處停留一天，但無法降服內心的煩惱。當他回到世尊的身邊時，世尊說出此偈。(參見DhA.；Ud.31)
+
+                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__  ，三～一、無法控制心念的彌醯 (偈 033~34)。
+
+.. [MettFn03-02] 〔明法尊者註03-02〕 **搦** ：ㄋㄨㄛˋ按壓及調整。此字屬補綴字，並不出現於文中。  
+
+.. [MettFn03-03] 〔明法尊者註03-03〕 《本事經》：「無別有一法，性躁動如心，難調御難防，大仙之所說。譬如有智人，以火等眾具，調直於利箭，令遠有所中。如是諸苾芻，應善學方便，調直於心性，令速證涅槃。」(T4.673.1)
+
+.. [MettFn03-04] 〔明法尊者註03-04〕 安樂：DhA：指「道、果、涅槃的樂」(magga-phala-nibbāna-sukhāni)。
+
+.. [MettFn03-05] 〔明法尊者註03-05〕 本偈的因緣為舍衛城的一位比丘，因要學的法很多而起煩惱，世尊因而以此偈頌教誡他。
+
+                PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__  ，三～二、能夠洞察他人內心的女士 (偈 035)。
+
+.. [MettFn03-06] 〔明法尊者註03-06〕 **無形(體)** ：asarīra(a無+sarīra身體)。
+
+.. [MettFn03-07] 〔明法尊者註03-07〕 僧護長老(Saṅgharakkhita)的一位侄子也出家，有一天，他打起一連串的妄想︰還俗，娶妻生子，駕車，跟太太搶孩子，孩子掉下車，被車子輾過，他生氣，打老婆。結果用扇子打到僧護長老。僧護長老說︰不打太太，怎麼打舅舅？」侄子感覺不安。僧護長老帶他去見佛陀。佛陀說了偈頌。
+
+                 PS: 請參 `037 典故 <{filename}../dhp-story/dhp-story037%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__  ，三～四、心念容易飄浮不定 (偈 037)。
+
+.. [MettFn03-08] 〔明法尊者註03-08〕 **無漏心** (anavassuta cittassa)：無(煩惱)洩漏的心。
+
+.. [MettFn03-09] 〔明法尊者註03-09〕 **超越善與惡** ︰puññapāpapahīnassa，阿羅漢已捨棄福(puñña)、惡(pāpa)之業(因)，不造成未來的任何果報。
+
+.. [MettFn03-10] 〔明法尊者註03-10〕 本偈為世尊因質多哈達長老(Cittahatthatthera)的證阿羅漢果後而說出的偈頌。質多哈達長老曾出家六次還俗六次。有一天，他看見妻子正在睡覺，大聲打鼾，張嘴流口水。他明白身體的不淨，並且想著：「我幾次出家半途而廢，就是因為迷戀如此德行的妻子。」就再度到精舍去出家，一路上，不停的念著「無常」、「苦」，而證得初果。出家後，過了幾天，他就證得阿羅漢果。
+
+                 PS: 請參 `038~39 典故 <{filename}../dhp-story/dhp-story038-39%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__  ，三～五、心猿意馬的比丘 (偈 038~39)。
+
+
+.. [MettFn03-11] 〔明法尊者註03-11〕 **守勝.莫染著** ：守護所克服的成果，而不執著，繼續修至解脫。
+
+.. [MettFn03-12] 〔明法尊者註03-12〕 五百位比丘到喜瑪拉雅山山下雨安居，受到樹神的干擾，世尊因此說《慈經》，諸比丘受到慈愛的保護，樹神不再干擾，雨安居後都證得阿羅漢果。
+
+                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__ ，三～六、騷擾比丘的神祇 (偈 040)。
+
+.. [MettFn03-13] 〔明法尊者註03-13〕 發臭的帝沙長老(Pūtigattatissatthera)身上首先長滿小疔，發膿發臭，同住者，沒人理會。佛陀預知他有證得阿羅漢果的潛能，親自去幫他燒熱水、洗滌。佛陀對他說︰「人死後，這身體無意識，將臥在地上，就像朽木一樣。」帝沙長老聞法後，就證得阿羅漢果，不久之後，也入滅了。佛陀說，帝沙長老在迦葉佛時是個殘酷的捕禽人，現在還有身體發臭的果報。最後，佛陀告誡諸比丘，出家為比丘，若不彼此照顧，誰會照顧你們？
+
+                  Aciraṁ vat’ayaṁ kāyo paṭhaviṁ adhisessati chuddho apetaviññāṇo niratthaṁ va kaliṅgaraṁ.此句常為南傳佛教國家比丘為臨終者誦念的法句。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__ ，三～七、身體發臭的比丘 (偈 041)。
+
+.. [MettFn03-14] 〔明法尊者註03-14〕 **邪行** ：micchāpaṇihitaṁ，不正行、邪道、惡業，在此指「瞋恚」。正行則指善業。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__ ，三～八、牧牛人難屠 (偈 042)。
+
+.. [NandFn03-01] 〔Nanda 校註03-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__  ，三～三、智者應護持自己的心念 (偈 036)。
+
+.. [NandFn03-02] 〔Nanda 校註03-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__ ，三～九、變性人 (偈 043)。
+
 
 
 .. [NāradaFn03-01]  (Ven. Nārada 03-01) Citta is derived from the root cit, to think. The traditional interpretation of the term is "that which is aware of an object" (cinteti = vijānāti). Actually it is not that which thinks of an object as the term implies. If it could be said "it thinks" as one says in English "it rains", it would be more in consonance with the Buddha's teaching. From an ultimate standpoint citta may be defined as the awareness of an object, since Buddhism denies a subjective agent like a soul. According to Buddhism no distinction is made between mind and consciousness, terms which are used as equivalents for citta.
