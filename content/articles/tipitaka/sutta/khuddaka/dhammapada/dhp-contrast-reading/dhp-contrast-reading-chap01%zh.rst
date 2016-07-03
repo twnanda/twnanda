@@ -2,7 +2,7 @@
 ###################################################################
 
 :date: 2016-02-05 12:00
-:modified: 2016-06-24 10:30
+:modified: 2016-07-02 17:00
 :tags: 法句經, 法句經對讀, 雙品, Dhp, Dhammapada, Yamakavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Pairs
@@ -1526,7 +1526,7 @@
        | Gopova  gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 19 雖多誦經集 [LCanFn01-14]_ 、4，放逸而不行，如牧數他牛 [LCanFn01-15]_ ，自無沙門分。
+     - 19 雖多誦經集 [LCanFn01-14]_ ，放逸而不行，如牧數他牛 [LCanFn01-15]_ ，自無沙門分。
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 19 即使背誦許多經，放逸者不實行它，
