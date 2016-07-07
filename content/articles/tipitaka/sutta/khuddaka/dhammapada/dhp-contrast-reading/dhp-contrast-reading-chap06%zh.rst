@@ -3,7 +3,7 @@
 ========================================================================
 
 :date: 2016-06-02 22:00
-:modified: 2016-07-07 17:00
+:modified: 2016-07-07 17:30
 :tags: 法句經, 法句經對讀, 智者品, Dhp, Dhammapada, Paṇḍitavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Wise Man
@@ -1204,15 +1204,15 @@
 
                   PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～五、年輕沙彌的修行成就 (偈 080)。
 
-.. [MettFn06-07] 〔明法尊者註06-07〕 善人離諸欲：Sabbattha ve sappurisā cajanti，真善人在一切處放出(欲)。DhA： **sabbatthā** \ ti  pañcakkhandhādibhedesu sabbadhammesu.( **在一切處** ：在五蘊等的諸項目、在一切的諸法。) 放出︰DhA： **Cajantī** \ ti arahattamaggañāṇena  apakaḍḍhantā chandarāgaṁ vijahanti.( **放出** ：諸正在牽引離開者，以阿羅漢道智，捨離意願的染。)
+.. [MettFn06-07] 〔明法尊者註06-07〕 善人離諸欲：Sabbattha ve sappurisā cajanti，真善人在一切處放出(欲)。DhA： **sabbatthā**\ ti  pañcakkhandhādibhedesu sabbadhammesu.( **在一切處** ：在五蘊等的諸項目、在一切的諸法。) 放出︰DhA： **Cajantī**\ ti arahattamaggañāṇena  apakaḍḍhantā chandarāgaṁ vijahanti.( **放出** ：諸正在牽引離開者，以阿羅漢道智，捨離意願的染。)
 
 .. [MettFn06-08] 〔明法尊者註06-08〕 佛陀受某婆羅門的邀請，到鞞蘭若(Verañja)雨安居，但是那位婆羅門後來就忘光了，那一次雨安居，佛陀及諸比丘每天只吃少許的馬麥維生。
 
                   PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～八、智者不為得失所動 (偈 083)。
 
-.. [MettFn06-09] 〔明法尊者註06-09〕 **彼岸** ：涅槃。 **此岸** ：生死。DhA： **Pāragāmino** \ ti  nibbānapāragāmino. ( **到彼岸** ：去到涅槃的彼岸。)
+.. [MettFn06-09] 〔明法尊者註06-09〕 **彼岸** ：涅槃。 **此岸** ：生死。DhA： **Pāragāmino**\ ti  nibbānapāragāmino. ( **到彼岸** ：去到涅槃的彼岸。)
 
-.. [MettFn06-10] 〔明法尊者註06-10〕 **魔境** ：maccudheyyaṁ，死天的領域，指生死輪迴。DhA： **Maccudheyyan** \ ti  kilesamārasaṅkhātassa maccussa nivāsaṭṭhānabhūtaṁ tebhūmikavaṭṭaṁ. ( **死天的領域** ：已顯露污染的魔羅的、死天的已變成住的地方，三地的輪轉。)
+.. [MettFn06-10] 〔明法尊者註06-10〕 **魔境** ：maccudheyyaṁ，死天的領域，指生死輪迴。DhA： **Maccudheyyan**\ ti  kilesamārasaṅkhātassa maccussa nivāsaṭṭhānabhūtaṁ tebhūmikavaṭṭaṁ. ( **死天的領域** ：已顯露污染的魔羅的、死天的已變成住的地方，三地的輪轉。)
 
 .. [MettFn06-11] 〔明法尊者註06-11〕 **黑法** ：惡業；白法：善業。
 
