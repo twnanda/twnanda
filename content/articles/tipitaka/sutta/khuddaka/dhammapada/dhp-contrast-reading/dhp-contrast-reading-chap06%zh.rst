@@ -3,7 +3,7 @@
 ========================================================================
 
 :date: 2016-06-02 22:00
-:modified: 2016-07-01 15:00
+:modified: 2016-07-07 17:00
 :tags: 法句經, 法句經對讀, 智者品, Dhp, Dhammapada, Paṇḍitavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Wise Man
@@ -74,7 +74,7 @@
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - **六、智者品** [LChnFn06-01]_
 
-       七六　若見彼智者──能指示過失，並能譴責者，當與彼為友；猶如知識者，能指示寶藏。與彼智人友，定善而無惡。
+       七六　若見彼智者──能指示過失，並能譴責者，當與彼為友；猶如知識者，能指示寶藏。與彼智人友，定善而無惡。 [MettFn06-01]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 第六：智者品
@@ -161,7 +161,7 @@
        | Satañhi so piyo hoti, asataṃ hoti appiyo.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_ 
-     - 七七　訓誡與教示，阻（他人）過惡。善人愛此人，但為惡人憎 [LChnFn06-02]_ 。
+     - 七七　訓誡與教示，阻（他人）過惡。善人愛此人，但為惡人憎。 [LChnFn06-02]_ 、 [MettFn06-02]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 77 智者應訓與指導，防止他人犯過錯。
@@ -238,7 +238,7 @@
        | Bhajetha mitte kalyāṇe, bhajetha purisuttame.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 七八　莫與惡友交，莫友卑鄙者。應與善友交，應友高尚士 [LChnFn06-03]_ 。
+     - 七八　莫與惡友交，莫友卑鄙者。應與善友交，應友高尚士。 [LChnFn06-03]_ 、 [MettFn06-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 78 不應親近邪惡友，不應親近卑劣人。
@@ -296,7 +296,7 @@
        | Ariyappavedite dhamme, sadā ramati paṇḍito.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 七九　得飲法（水）者，心清而安樂。智者常喜悅，聖者 [LChnFn06-04]_ 所說法。
+     - 七九　得飲法（水）者，心清而安樂。智者常喜悅，聖者所說法。 [LChnFn06-04]_ 、 [MettFn06-04]_ 、 [MettFn06-05]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 79 飲法者以寧靜心愉快過活；
@@ -358,7 +358,7 @@
        | Dāruṃ namayanti tacchakā, attānaṃ damayanti paṇḍitā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 八０　灌溉者引水，箭匠之矯箭，木匠之繩木，智者自調御 [LChnFn06-05]_ 。
+     - 八０　灌溉者引水，箭匠之矯箭，木匠之繩木，智者自調御。 [LChnFn06-05]_ 、 [MettFn06-06]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 80 治水者疏導水，矢師們矯正箭，
@@ -421,7 +421,7 @@
        | Evaṃ nindāpasaṃsāsu, na samiñjanti paṇḍitā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 八一　**猶如堅固巖，不為風所搖，毀謗與讚譽，智者不為動。** 
+     - 八一　**猶如堅固巖，不為風所搖，毀謗與讚譽，智者不為動。** [NandFn06-01]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 81 猶如岩嶽不受狂風動搖，
@@ -480,7 +480,7 @@
        | Evaṃ dhammāni sutvāna, vippasīdanti paṇḍitā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 八二　**亦如一深池，清明而澄淨，智者聞法已，如是心清淨。**
+     - 八二　**亦如一深池，清明而澄淨，智者聞法已，如是心清淨。** [NandFn06-02]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 82 猶如深潭清澈又平靜，
@@ -541,7 +541,7 @@
        | Sukhena phuṭṭhā atha vā dukhena, na uccāvacaṃ [noccāvacaṃ (sī. aṭṭha.)] paṇḍitā dassayanti.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 八三　**善人離諸（欲），不論諸欲事。苦樂所不動，智者無喜憂。**
+     - 八三　**善人離諸（欲），不論諸欲事。苦樂所不動，智者無喜憂。** [MettFn06-07]_ 、 [MettFn06-08]_ 
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 83 善士捨棄了一切；聖者不以貪閒談；
@@ -609,7 +609,7 @@
        | Na iccheyya [nayicche (pī.), nicche (?)] adhammena samiddhimattano, sa sīlavā paññavā dhammiko siyā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 八四　不因自因他，（智者作諸惡），不求子求財、及謀國（作惡）。不欲以非法，求自己繁榮。彼實具戒行，智慧正法者。
+     - 八四　不因自因他，（智者作諸惡），不求子求財、及謀國（作惡）。不欲以非法，求自己繁榮。彼實具戒行，智慧正法者。 [NandFn06-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 84 不為自己不為別人（而造惡），
@@ -675,7 +675,7 @@
        | Athāyaṃ itarā pajā, tīramevānudhāvati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 八五　於此人群中，達彼岸 [LChnFn06-06]_ 者少。其餘諸人等，徘徊於此岸 [LChnFn06-07]_ 。
+     - 八五　於此人群中，達彼岸者少。其餘諸人等，徘徊於此岸。 [LChnFn06-06]_ 、 [LChnFn06-07]_ 、 [MettFn06-09]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 85 到達彼岸的人，只有少數幾個；
@@ -759,7 +759,7 @@
        | Te janā pāramessanti, maccudheyyaṃ suduttaraṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 八六　善能說法者，及依正法行，彼能達彼岸，度難度魔境 [LChnFn06-08]_ 。
+     - 八六　善能說法者，及依正法行，彼能達彼岸，度難度魔境。 [LChnFn06-08]_ 、 [MettFn06-10]_ 、 [NandFn06-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 86 然而那些依圓滿宣說之法實行的人，
@@ -846,7 +846,7 @@
        | Okā anokamāgamma, viveke yattha dūramaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 八七　應捨棄黑法，智者修白法，從家來無家，喜獨處不易 [LChnFn06-09]_ 。
+     - 八七　應捨棄黑法，智者修白法，從家來無家，喜獨處不易。 [LChnFn06-09]_ 、 [MettFn06-11]_、 [MettFn06-12]_、 [MettFn06-13]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 87-88 離家來到無家的智者，應捨棄黑暗培育光明。
@@ -938,7 +938,7 @@
        | Pariyodapeyya [pariyodāpeyya (?)] attānaṃ, cittaklesehi paṇḍito.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 八八　 [LChnFn06-10]_ 當求是（法）樂。捨欲無所有 [LChnFn06-11]_ ，智者須清淨，自心諸垢穢。
+     - 八八　 當求是（法）樂。捨欲無所有，智者須清淨，自心諸垢穢。[LChnFn06-10]_ 、 [LChnFn06-11]_ 、 [MettFn06-14]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 87-88 離家來到無家的智者，應捨棄黑暗培育光明。
@@ -1032,7 +1032,7 @@
        **Paṇḍitavaggo chaṭṭho niṭṭhito.**
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 八九　彼於諸覺支 [LChnFn06-12]_ ，正心而修習。遠離諸固執 [LChnFn06-13]_ ，樂捨諸愛著，漏盡 [LChnFn06-14]_ 而光耀，此世證涅槃。
+     - 八九　彼於諸覺支，正心而修習。遠離諸固執，樂捨諸愛著，漏盡而光耀，此世證涅槃。 [LChnFn06-12]_ 、 [LChnFn06-13]_ 、 [LChnFn06-14]_ 、 [MettFn06-15]_ 、 [MettFn06-16]_ 、 [NandFn06-05]_
 
        **智者品第六竟**
 
@@ -1105,7 +1105,7 @@
      - 89 Those whose mind is well grounded in the (seven) elements of knowledge, who without clinging to anything, rejoice in freedom from attachment, whose appetites have been conquered, and who are full of light, are free (even) in this world.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 089 <{filename}../dhA/dhA-chap06%zh.rst#dhp089>`__
+     - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 089 <{filename}../dhA/dhA-chap06%zh.rst#dhp0*>`__
 
 --------------
 
@@ -1182,6 +1182,49 @@
 
 .. [CFFn06-01] 〔敬法法師註06-01〕 19 註：此界是指五蘊。
 
+.. [MettFn06-01] 〔明法尊者註06-01〕 一位老婆羅門羅陀(Rādha)出家後，很守規矩，很快就證得阿羅漢果。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～一、證得阿羅漢果的可憐人 (偈 076)。
+
+.. [MettFn06-02] 〔明法尊者註06-02〕 善人敬愛能訓誡與教示的人，惡人則憎惡此人。比丘阿濕具、富那婆修 (Assaji-Punabbasukabhikkhū) 及弟子住在迦羅賴精舍 (Kīṭāgiri)時，為了私利，種果樹，也犯一些小戒，使精舍吵鬧不停，妨礙其他比丘的修持。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～二、不守戒律的比丘 (偈 077)。
+
+.. [MettFn06-03] 〔明法尊者註06-03〕 **高尚士** ：purisuttama，最勝人、上人、聖人。本偈為世尊勸導車匿長老的話。車匿長老是傲慢的釋迦族人，他在世尊滅度後才證到阿羅漢果。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～三、頑倔不馴的車匿 (偈 078)。
+
+.. [MettFn06-04] 〔明法尊者註06-04〕 **安樂** ：臥樂。DhA： **Sukhaṁ setī**\ ti desanāmattamevetaṁ, catūhipi iriyāpathehi  sukhaṁ viharatīti attho. ( **臥樂** ：這是已沈浸在教說，他以四威儀(行住坐臥)的狀態住樂之義。)
+
+.. [MettFn06-05] 〔明法尊者註06-05〕 摩訶劫賓那 (Mahākappinatthera) 曾當國王，第一次聞佛說法，就證得阿羅 漢果，出家為比丘。之後，不分晝夜，常自言自語︰“aho sukhaṁ aho sukhan”ti (快樂得不得了！快樂得不得了！) 諸比丘誤以為他想起以前當王的快樂時光，而向佛陀報告，佛陀說出此偈。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～四、國王和大臣們證得聖果 (偈 079)。
+
+.. [MettFn06-06] 〔明法尊者註06-06〕 **智者自調御** ：attānaṁ damayanti paṇḍitā，各類匠師擅長他們各自的工作，而有智慧的人善於自我調伏。此偈為班迪達沙彌(Paṇḍitasāmaṇera)的故事，他思惟︰如果無心的水可以任人引至任何地方；無心且彎曲的竹子可以撫直；無心的木材也可以做成有用的東西。那麼，擁有心識的我，為什麼無法控制我的內心，修行清淨止觀呢？而在第八天證得阿羅漢果。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～五、年輕沙彌的修行成就 (偈 080)。
+
+.. [MettFn06-07] 〔明法尊者註06-07〕 善人離諸欲：Sabbattha ve sappurisā cajanti，真善人在一切處放出(欲)。DhA： **sabbatthā** \ ti  pañcakkhandhādibhedesu sabbadhammesu.( **在一切處** ：在五蘊等的諸項目、在一切的諸法。) 放出︰DhA： **Cajantī** \ ti arahattamaggañāṇena  apakaḍḍhantā chandarāgaṁ vijahanti.( **放出** ：諸正在牽引離開者，以阿羅漢道智，捨離意願的染。)
+
+.. [MettFn06-08] 〔明法尊者註06-08〕 佛陀受某婆羅門的邀請，到鞞蘭若(Verañja)雨安居，但是那位婆羅門後來就忘光了，那一次雨安居，佛陀及諸比丘每天只吃少許的馬麥維生。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～八、智者不為得失所動 (偈 083)。
+
+.. [MettFn06-09] 〔明法尊者註06-09〕 **彼岸** ：涅槃。 **此岸** ：生死。DhA： **Pāragāmino** \ ti  nibbānapāragāmino. ( **到彼岸** ：去到涅槃的彼岸。)
+
+.. [MettFn06-10] 〔明法尊者註06-10〕 **魔境** ：maccudheyyaṁ，死天的領域，指生死輪迴。DhA： **Maccudheyyan** \ ti  kilesamārasaṅkhātassa maccussa nivāsaṭṭhānabhūtaṁ tebhūmikavaṭṭaṁ. ( **死天的領域** ：已顯露污染的魔羅的、死天的已變成住的地方，三地的輪轉。)
+
+.. [MettFn06-11] 〔明法尊者註06-11〕 **黑法** ：惡業；白法：善業。
+
+.. [MettFn06-12] 〔明法尊者註06-12〕 **從家來無家** ：從在家人成為出家人(無家)。 **okā anokaṁ āgamma** 。DhA..87-89.CS:pg.1.381.： **anokaṁ** vuccati anālayo, ālayato nikkhamitvā anālayasaṅkhātaṁ nibbānaṁ paṭicca ārabbha taṁ patthayamāno bhāveyyāti attho.( **無住處(無家)** 被叫做無附著；從附著已離去後，無附著爲條件作為涅槃的緣，確立它自此以後應修習之義。)
+
+.. [MettFn06-13] 〔明法尊者註06-13〕 **喜獨處不易** ：指喜愛獨處.遠離，為凡夫不易享受的。
+
+.. [MettFn06-14] 〔明法尊者註06-14〕 捨欲無所有：空掉所有欲望，即涅槃。
+
+.. [MettFn06-15] 〔明法尊者註06-15〕 覺支：sambodhiyaṅga，指七覺支，一、念覺支，念念明白。二、擇法覺支，分別善惡，棄絕貪染之法，選擇趨解脫之法。三、精進覺支，一心於一境而努力不懈修善.斷惡，求解脫。四、喜覺支，得正法或禪定而喜悅。五、輕安覺支，指身.心輕快、安穩，不沉重。六、定覺支，得禪定，心不散亂。七、捨覺支，心無偏頗，不執著而保持平衡、中立。
+
+.. [MettFn06-16] 〔明法尊者註06-16〕 漏盡：khīṇāsavā，滅盡諸漏(貪.瞋.癡的煩惱)。
 
 .. [NāradaFn06-01] (Ven. Nārada 06-01) Ariya, which means "one who is far removed from passions", was originally a racial term. In Buddhism it indicates nobility of character, and is invariably applied to the Buddhas and the Arahants.
 
@@ -1210,6 +1253,20 @@
 .. [ThaniSFn-V86] (Ven. Thanissaro V. 86) The syntax of this verse yields the best sense if we take param as meaning "across," and not as "the far shore."
 
 .. [ThaniSFn-V89] (Ven. Thanissaro V. 89) Factors for self-awakening = mindfulness, analysis of qualities, persistence, rapture, serenity, concentration, and equanimity.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
+.. [NandFn06-01] 〔Nanda 校註06-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～六、固若磐石 (偈 081)。
+
+.. [NandFn06-02] 〔Nanda 校註06-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～七、辱罵比丘的女人 (偈 082)。
+
+.. [NandFn06-03] 〔Nanda 校註06-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～九、解脫要靠自己 (偈 084)。
+
+.. [NandFn06-04] 〔Nanda 校註06-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～十、只有少數人證得涅槃 (偈 085~086)。
+
+.. [NandFn06-05] 〔Nanda 校註06-05〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～十一、從黑暗趣向光明 (偈 087~089)。
 
 ---------------------------
 
