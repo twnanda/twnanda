@@ -3,7 +3,7 @@
 ===========================================================================
 
 :date: 2016-06-03 21:30
-:modified: 2016-07-01 15:00
+:modified: 2016-07-17 15:30
 :tags: 法句經, 法句經對讀, 阿羅漢品, Dhp, Dhammapada, Arahantavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Arahat
@@ -69,7 +69,7 @@
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - **七、阿羅漢品** [LChnFn07-01]_ 
 
-       九０　路行盡 [LChnFn07-02]_ 無憂，於一切解脫，斷一切繫縛 [LChnFn07-03]_ ，無有苦惱者。
+       九０　路行盡無憂，於一切解脫，斷一切繫縛，無有苦惱者。 [LChnFn07-02]_ 、 [LChnFn07-03]_ 、 [MettFn07-01]_ 、 [MettFn07-02]_ 、 [MettFn07-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 第七：阿羅漢品
@@ -145,7 +145,7 @@
        | Haṃsāva pallalaṃ hitvā, okamokaṃ jahanti te.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 九一　正念奮勇者，彼不樂在家。如鵝離池去，彼等棄水家 [LChnFn07-04]_ 。
+     - 九一　正念奮勇者，彼不樂在家。如鵝離池去，彼等棄水家。 [LChnFn07-04]_ 、 [NandFn07-01]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 91 具念者勤於修行，他們不執著住處；
@@ -205,7 +205,7 @@
        | Ākāse va sakuntānaṃ [sakuṇānaṃ (ka.)], gati tesaṃ durannayā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 九二　彼等無積聚 [LChnFn07-05]_ ，於食如實知 [LChnFn07-06]_ ，空無相解脫 [LChnFn07-07]_ ──是彼所行境，如鳥遊虛空，蹤跡不可得。
+     - 九二　彼等無積聚，於食如實知，空無相解脫──是彼所行境，如鳥遊虛空，蹤跡不可得。 [LChnFn07-05]_ 、 [LChnFn07-06]_ 、 [LChnFn07-07]_ 、 [MettFn07-04]_ 、 [MettFn07-05]_ 、 [NandFn07-02]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 92 對於沒有儲藏者，他們已徹知食物。
@@ -278,7 +278,7 @@
        | Ākāse va sakuntānaṃ, padaṃ tassa durannayaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 九三　彼等諸漏 [LChnFn07-08]_ 盡，亦不貪飲食，空無相解脫──是彼所行境，如鳥遊虛空，蹤跡不可得。
+     - 九三　彼等諸漏盡，亦不貪飲食，空無相解脫──是彼所行境，如鳥遊虛空，蹤跡不可得。 [LChnFn07-08]_ 、 [NandFn07-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 93 對於已滅盡諸漏、不依著於飲食者，
@@ -349,7 +349,7 @@
        | Pahīnamānassa anāsavassa, devāpi tassa pihayanti tādino.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 九四　彼諸根寂靜，如御者調馬，離我慢無漏，為天人所慕。
+     - 九四　彼諸根寂靜，如御者調馬，離我慢無漏，為天人所慕。 [MettFn07-06]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 94 他的諸根已達到平靜，就像馴馬師馴服的馬，
@@ -426,7 +426,7 @@
        | Rahadova apetakaddamo, saṃsārā na bhavanti tādino.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 九五　彼已無憤恨 [LChnFn07-09]_ ，猶如於大地，彼虔誠堅固，如因陀揭羅 [LChnFn07-10]_ ，如無污泥池，是人無輪迴。
+     - 九五　彼已無憤恨，猶如於大地，彼虔誠堅固，如因陀揭羅，如無污泥池，是人無輪迴。 [LChnFn07-09]_ 、 [LChnFn07-10]_ 、 [MettFn07-07]_ 、 [MettFn07-08]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 95 如如不動善修者如門柱，他猶如大地不會被激怒，
@@ -502,7 +502,7 @@
        | Sammadaññā vimuttassa, upasantassa tādino.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 九六　彼人心寂靜，語與業寂靜，正智而解脫，如是得安穩。
+     - 九六　彼人心寂靜，語與業寂靜，正智而解脫，如是得安穩。 [NandFn07-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 96 透過正慧而解脫、寂靜如如不動者，
@@ -583,7 +583,7 @@
        | Hatāvakāso vantāso, sa ve uttamaporiso.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 九七　無信 [LChnFn07-11]_ 知無為，斷繫 [LChnFn07-12]_ 因永謝 [LChnFn07-13]_ ，棄捨於貪欲，真實無上士。
+     - 九七　無信知無為，斷繫因永謝，棄捨於貪欲，真實無上士。 [LChnFn07-11]_ 、 [LChnFn07-12]_ 、 [LChnFn07-13]_ 、 [MettFn07-09]_ 、 [MettFn07-10]_ 、 [NandFn07-05]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 97 不盲信及知無為、斷除了繫縛的人，
@@ -654,7 +654,7 @@
        | Yattha arahanto viharanti, taṃ bhūmirāmaṇeyyakaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 九八　於村落林間，平地或丘陵 [LChnFn07-14]_ ，何處有羅漢，彼地即可慶。
+     - 九八　於村落林間，平地或丘陵，何處有羅漢，彼地即可慶。 [LChnFn07-14]_ 、 [MettFn07-11]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 98 在村子或森林裡，在山谷或在山上，
@@ -720,7 +720,7 @@
        **Arahantavaggo sattamo niṭṭhito.**
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 九九　林野甚可樂；世人所不樂；彼喜離欲樂，不求諸欲樂。
+     - 九九　林野甚可樂；世人所不樂；彼喜離欲樂，不求諸欲樂。 [NandFn07-06]_
 
        **阿羅漢品第七竟**
 
@@ -846,6 +846,36 @@
 
 .. [CFFn07-02] 〔敬法法師註07-02〕 21 如如不動者是指不受世間的起落動搖之人。
 
+.. [MettFn07-01] 〔明法尊者註07-01〕 **路行盡** ：旅行已完畢者，喻：業已盡，即所謂：諸漏已盡，所作已辦，梵行已立。
+
+.. [MettFn07-02] 〔明法尊者註07-02〕 **繫縛** ：gantha，貪、瞋、戒禁取(誤取邪因、邪道)、見取(持常見—永恆不滅的我或靈魂，或持斷見—凡事皆偶然，無因果)。
+
+.. [MettFn07-03] 〔明法尊者註07-03〕 佛陀受提婆達多推落的石片傷到腳姆指，耆婆神醫幫忙治療。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～一、佛陀和名醫耆域 (偈 090)。
+
+.. [MettFn07-04] 〔明法尊者註07-04〕 **彼等無積聚** ：DhA： **完全儲存(積聚)** ：有兩種：一、完全儲存業。二、完全儲存資具。對善業、不善業而言，名叫完全儲存業；四資具名叫完全儲存資具。
+
+.. [MettFn07-05] 〔明法尊者註07-05〕 **空解脫** ：DhA：於涅槃染.瞋.癡不存在而空。 **無相解脫** ：DhA：染等之相 不存在而無相。
+
+.. [MettFn07-06] 〔明法尊者註07-06〕 有一次，在雨安居結束日。帝釋率領眾天神前往東園(鹿母講堂)，帝釋以天香與天花鬘獻給佛陀，他看到僧團保留給摩訶迦旃延長老的位子，心裡多麼希望尊者也在精舍裡接受他的禮敬。這時候，摩訶迦旃延長老突然出現，帝釋非常歡喜，立刻以雙手按摩雙足頂禮。有些比丘不以為然，認為帝釋偏心。佛陀就說此偈。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～五、帝釋敬重摩訶迦旃延尊者 (偈 094)。
+
+.. [MettFn07-07] 〔明法尊者註07-07〕 **因陀揭羅** ：indrakhīla，門限，或是進城處安立堅固的柱子，象徵因陀羅(守護神)的所在。
+
+.. [MettFn07-08] 〔明法尊者註07-08〕 雨安居結束時，舍利弗長老正準備外出。有位比丘憤慨的向世尊告狀，說舍利弗尊者輕慢他。佛陀就請人召請舍利弗長老來，舍利弗長老表明他對待人的心態︰「我的心一直都像大地一樣，承受種種污穢、不淨物，不輕慢他人。我也像門墊、乞丐、斷腳的公牛一般，對污穢的血肉之軀感到厭惡，不再執著於它。」 (cf. A.9.11.) 舍利弗長老說完之後，那位年輕比丘感到愧疚，承認自己指控的錯誤，並且道歉。佛陀因此說了此偈。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～六、比丘控訴舍利弗 (偈 095)。
+
+.. [MettFn07-09] 〔明法尊者註07-09〕 **無信** ：assaddho，聖者自證知，悟不由他。
+
+.. [MettFn07-10] 〔明法尊者註07-10〕 **斷繫.因永謝** ︰斷了繫縛，煩惱的因永遠謝滅。
+
+.. [MettFn07-11] 〔明法尊者註07-11〕 舍利弗尊者的三位姐妹和兩位弟弟都出家，最小弟弟離婆多(Revato)沒出家，他被安排婚姻，但是在婚宴上，他看到一位很老的女賓客，知道人生不離老病死，於是就去出家當沙彌，經過一個雨安居就證得阿羅漢果。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～九、舍利弗尊者最小的弟弟 (偈 098)。
+
 .. [NāradaFn07-01]  (Ven. Nārada 07-01) Arahanta has several meanings. It may be interpreted as "Worthy One". "Passionless One". Or one who commits no evil even secretly. He has got rid of both death and birth. After death, in conventional terms, he attains parinibbāna. Until his death he serves other seekers of truth by example and by precept.
 
 .. [NāradaFn07-02]  (Ven. Nārada 07-02) Of life in the round of existence, i.e., an Arahant.
@@ -903,6 +933,22 @@
 .. [ThaniSFn-V97] (Ven. Thanissaro V. 97) This verse is a series of puns. The negative meanings of the puns are on the left side of the slashes; the positive meanings, on the right. The negative meanings are so extremely negative that they were probably intended to shock their listeners. One scholar has suggested that the last word — uttamaporiso, the ultimate person — should also be read as a pun, with the negative meaning, "the extreme of audacity," but that would weaken the shock value of the verse.
 
 .. [BudRkFn-v97]  (Ven. Buddharakkhita v. 97) In the Pali this verse presents a series of puns, and if the "underside" of each pun were to be translated, the verse would read thus: "The man who is faithless, ungrateful, a burglar, who destroys opportunities and eats vomit — he truly is the most excellent of men."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
+.. [NandFn07-01] 〔Nanda 校註07-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～二、阿羅漢不執著 (偈 091)。
+
+.. [NandFn07-02] 〔Nanda 校註07-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～三、儲藏米穀的比丘 (偈 092)。
+
+.. [NandFn07-03] 〔Nanda 校註07-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～四、阿那律陀比丘和女天神 (偈 093)。
+
+.. [NandFn07-04] 〔Nanda 校註07-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～七、一眼失明 (偈 096)。
+
+.. [NandFn07-05] 〔Nanda 校註07-05〕 請 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～八、只靠信仰無法證得涅槃 (偈 097)。
+
+.. [NandFn07-06] 〔Nanda 校註07-06〕 請 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～十、誘惑比丘的妓女 (偈 099)。
 
 ---------------------------
 
