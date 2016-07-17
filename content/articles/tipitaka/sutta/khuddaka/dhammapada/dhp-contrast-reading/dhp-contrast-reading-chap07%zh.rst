@@ -946,9 +946,9 @@
 
 .. [NandFn07-04] 〔Nanda 校註07-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～七、一眼失明 (偈 096)。
 
-.. [NandFn07-05] 〔Nanda 校註07-05〕 請 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～八、只靠信仰無法證得涅槃 (偈 097)。
+.. [NandFn07-05] 〔Nanda 校註07-05〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～八、只靠信仰無法證得涅槃 (偈 097)。
 
-.. [NandFn07-06] 〔Nanda 校註07-06〕 請 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～十、誘惑比丘的妓女 (偈 099)。
+.. [NandFn07-06] 〔Nanda 校註07-06〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～十、誘惑比丘的妓女 (偈 099)。
 
 ---------------------------
 
