@@ -3,7 +3,7 @@
 ======================================================================
 
 :date: 2016-06-03 21:00
-:modified: 2016-07-01 15:00
+:modified: 2016-07-24 21:30
 :tags: 法句經, 法句經對讀, 千品, Dhp, Dhammapada, Sahassavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Thousands
@@ -75,7 +75,7 @@
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - **八、千品**
 
-       一００　雖誦一千言，若無義理者，不如一義語，聞已得寂靜。
+       一００　雖誦一千言，若無義理者，不如一義語，聞已得寂靜。 [MettFn08-01]_ 、 [NandFn08-01]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 第八：千品
@@ -166,7 +166,7 @@
        | Ekaṃ gāthāpadaṃ seyyo, yaṃ sutvā upasammati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一０一　雖誦千句偈，若無義理者，不如一句偈，聞已得寂靜。 ( `101 典故 <{filename}../dhp-story/dhp-story101%zh.rst>`__ ).
+     - 一０一　雖誦千句偈，若無義理者，不如一句偈，聞已得寂靜。 [MettFn08-02]_ 、 [MettFn08-03]_ 、 [NandFn08-01]_ 、 [NandFn08-02]_ 
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 101 一首聽後得平靜的偈子，
@@ -246,7 +246,7 @@
        | Ekaṃ dhammapadaṃ seyyo, yaṃ sutvā upasammati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一０二　彼誦百句偈，若無義理者，不如一法句 [LChnFn08-01]_ ，聞已得寂靜。
+     - 一０二　彼誦百句偈，若無義理者，不如一法句，聞已得寂靜。 [LChnFn08-01]_ 、 [MettFn08-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 102 一個聽後得平靜的法句，
@@ -326,7 +326,7 @@
        | Ekañca jeyyamattānaṃ [attānaṃ (sī. pī.)], sa ve saṅgāmajuttamo.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一０三　彼於戰場上，雖勝百萬人；未若克己者，戰士之最上！ ( `102-3 典故 <{filename}../dhp-story/dhp-story102-3%zh.rst>`__ ).
+     - 一０三　彼於戰場上，雖勝百萬人；未若克己者，戰士之最上！ [MettFn08-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 103 即使有人在戰場上，戰勝一千人一千次，
@@ -395,7 +395,7 @@
        | Attadantassa posassa, niccaṃ saññatacārino.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一０四　 [LChnFn08-02]_ **能克制自己，過於勝他人。若有克己者，常行自節制。**
+     - 一０四　 **能克制自己，過於勝他人。若有克己者，常行自節制。** [LChnFn08-02]_ 、 [MettFn08-06]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 104-105 戰勝自己的確遠勝於戰勝他人。
@@ -463,7 +463,7 @@
        | Jitaṃ apajitaṃ kayirā, tathārūpassa jantuno.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一０五　天神乾闥婆 [LChnFn08-03]_ ，魔王 [LChnFn08-04]_ 並梵天 [LChnFn08-05]_ ，皆遭於敗北，不能勝彼人。
+     - 一０五　天神乾闥婆，魔王並梵天，皆遭於敗北，不能勝彼人。 [LChnFn08-03]_ 、 [LChnFn08-04]_ 、 [LChnFn08-05]_ 、 [MettFn08-05]_ 、 [MettFn08-06]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 104-105 戰勝自己的確遠勝於戰勝他人。
@@ -537,7 +537,7 @@
        | Sāyeva pūjanā seyyo, yañce vassasataṃ hutaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一０六　月月投千（金） [LChnFn08-06]_ ──供犧牲 [LChnFn08-07]_ 百年，不如須臾間，供養修己者，彼如是供養，勝祭祀百年。
+     - 一０六　月月投千（金）──供犧牲百年，不如須臾間，供養修己者，彼如是供養，勝祭祀百年。 [LChnFn08-06]_ 、 [LChnFn08-07]_ 、 [MettFn08-07]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 106 雖人於百年月復一月佈施一千錢，
@@ -621,7 +621,7 @@
        | Sāyeva pūjanā seyyo, yañce vassasataṃ hutaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一０七　若人一百年──事火於林中，不如須臾間，供養修己者，彼如是供養，勝祭祀百年。
+     - 一０七　若人一百年──事火於林中，不如須臾間，供養修己者，彼如是供養，勝祭祀百年。 [MettFn08-08]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 107 即使有人在森林中拜祭聖火百年，
@@ -711,7 +711,7 @@
        | Sabbampi taṃ na catubhāgameti, abhivādanā ujjugatesu seyyo.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一０八　若人於世間，施捨或供養 [LChnFn08-08]_ ，求福一週年，如是諸功德，不及四分一，禮敬正直者 [LChnFn08-09]_ 。
+     - 一０八　若人於世間，施捨或供養，求福一週年，如是諸功德，不及四分一，禮敬正直者。 [LChnFn08-08]_ 、 [LChnFn08-09]_ 、 [MettFn08-09]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 108 即使想造福者整年做了無論多少供養與佈施，
@@ -791,7 +791,7 @@
        | Cattāro dhammā vaḍḍhanti, āyu vaṇṇo sukhaṃ balaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一０九　**好樂敬禮者，常尊於長老**  [LChnFn08-10]_  **，四法得增長：壽美樂與力**  [LChnFn08-11]_ 。
+     - 一０九　**好樂敬禮者，常尊於長老，四法得增長：壽美樂與力** 。 [LChnFn08-10]_ 、 [LChnFn08-11]_ 、 [MettFn08-10]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 109 對於有禮敬的習慣、時常尊敬長輩的人，
@@ -848,7 +848,7 @@
        | Ekāhaṃ jīvitaṃ seyyo, sīlavantassa jhāyino.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一一０　若人壽百歲──破戒無三昧，不如生一日──持戒修禪定。
+     - 一一０　若人壽百歲──破戒無三昧，不如生一日──持戒修禪定。 [MettFn08-11]_ 、 [MettFn08-12]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 110 若人活了百年卻道德敗壞沒自制，
@@ -935,7 +935,7 @@
        | Ekāhaṃ jīvitaṃ seyyo, paññavantassa jhāyino.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一一一　若人壽百歲──無慧無三昧，不如生一日──具慧修禪定。
+     - 一一一　若人壽百歲──無慧無三昧，不如生一日──具慧修禪定。 [NandFn08-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 111 若人活了百年卻沒有智慧沒自制，
@@ -1021,7 +1021,7 @@
        | Ekāhaṃ jīvitaṃ seyyo, vīriyamārabhato daḷhaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一一二　若人壽百歲──怠惰不精進，不如生一日──勵力行精進。
+     - 一一二　若人壽百歲──怠惰不精進，不如生一日──勵力行精進。 [NandFn08-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 112 若人活了百年卻怠惰精進力薄弱，
@@ -1110,7 +1110,7 @@
        | Ekāhaṃ jīvitaṃ seyyo, passato udayabbayaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一一三　若人壽百歲──不見生滅法 [LChnFn08-12]_ ，不如生一日──得見生滅法。
+     - 一一三　若人壽百歲──不見生滅法，不如生一日──得見生滅法。 [LChnFn08-12]_ 、 [MettFn08-13]_ 、 [MettFn08-14]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 113 若人活了百年卻不曾見過生滅，
@@ -1201,7 +1201,7 @@
        | Ekāhaṃ jīvitaṃ seyyo, passato amataṃ padaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一一四　若人壽百歲──不見不死道，不如生一日──得見不死道。
+     - 一一四　若人壽百歲──不見不死道，不如生一日──得見不死道。 [MettFn08-15]_ 、 [MettFn08-16]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 114 若人活了百年卻不曾見過不死境，
@@ -1293,7 +1293,7 @@
        **Sahassavaggo aṭṭhamo niṭṭhito.**
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一一五　若人壽百歲──不見最上法，不如生一日──得見最上法。
+     - 一一五　若人壽百歲──不見最上法，不如生一日──得見最上法。 [MettFn08-17]_
 
        **千品第八竟**
 
@@ -1439,6 +1439,65 @@
 
 .. [CFFn08-02] 〔敬法法師註06-01〕 23 註釋： **至上法** 是指九種出世間法（四道、四果及涅 槃）。
 
+.. [MettFn08-01] 〔明法尊者註08-01〕 國家的劊子手坦巴達卡(Tambadāṭhikacoraghātaka)殺過499人，做滿五十五年後退休，退休後，有一個機會供養舍利弗尊者，聽法後，回家路上意外喪生，死後往生兜率天。聞法一次而正確的理解，就可能產生很大的利益。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__  ，八～一、行刑者的命運 (偈 100)。
+
+.. [MettFn08-02] 〔明法尊者註08-02〕 Dhp.(v.100)︰rāgādivūpasamena **upasammati,** taṁ atthasādhakaṁ nibbānappaṭisaṁyuttaṁ khandhadhātu-āyatana-indriyabalabojjhaṅgasatipaṭṭhānaparidīpakaṁ ekampi padaṁ seyyoyevāti attho. ( **寂靜** ︰‘染’等寂靜。與涅槃相關的善法義，如蘊、界、處、根、力、覺支、念處中說明的一句義(，聞已心寂靜)。)
+
+.. [MettFn08-03] 〔明法尊者註08-03〕 《增壹阿含31.11經》(T2.673.2)：「雖誦千言，不義何益，不如一義，聞可得道。」
+
+.. [MettFn08-04] 〔明法尊者註08-04〕 《增壹阿含31.11經》(T2.673.2)：「千千為敵，一夫勝之，未若自勝，已忍者上。」
+
+                  PS: 請參 `102-3 典故 <{filename}../dhp-story/dhp-story102-3%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__  ，八～三、嫁小偷的富家女 (偈 102~3)。
+
+.. [MettFn08-05] 〔明法尊者註08-05〕 **乾闥婆** ：gandhabha(梵 gandharva)，天界的一種樂神，他以香氣資養身體。
+
+.. [MettFn08-06] 〔明法尊者註08-06〕 一位婆羅門跟佛陀說：「尊者！我認為你只知有法益的修行，對無益的事一無所知。」佛陀說︰「我也了解無益且有害的事。」佛陀就列舉六種會消耗財產的行為：(1)日出之後睡覺。(2)懶惰成性。(3)殘暴。(4)耽溺飲酒。(5)在惹人懷疑的時間內逛街。(6)淫他人之妻。佛陀接著問這婆羅門如何維生，婆羅門回答說以賭博維生。佛陀說：「在賭博中獲勝，無法與克服煩惱的成就相比。」
+
+                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__  ，八～四、賭博的得失 (偈 104~5)。
+
+.. [MettFn08-07] 〔明法尊者註08-07〕 舍利弗尊者一位叔叔每月都供養裸行者，期望往生梵天，但是方法錯誤，舍利弗尊者帶他去見佛陀。佛陀就開導他，教正確生梵天的方法。
+
+                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__  ，八～五、往生梵天的方法 (偈 106)。
+
+.. [MettFn08-08] 〔明法尊者註08-08〕 舍利弗尊者一位侄子每月都火祭一隻羊，期望往生梵天，但是方法錯誤，舍利弗尊者帶他去見佛陀。佛陀就開導他，教正確生梵天的方法。
+
+                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__  ，八～六、火祭不究竟 (偈 107)。
+
+.. [MettFn08-09] 〔明法尊者註08-09〕 **施捨** ：yitthaṁ。Spk:S.24.5.： **Yiṭṭhaṁ** vuccati mahāyāgo.( **上供品** ︰被稱爲「大牲醴」)。DhA(v.108)： **Yiṭṭhan**\ ti yebhuyyena maṅgalakiriyādivasesu dinnadānaṁ.( **上供品** ：一般而言，在慶典等場合，以豐盛的施物祭祀。)。 **供養** ：hutaṁ。供給過客的布施。DhA(v.108)： **Hutan**\ ti abhisaṅkharitvā kataṁ pāhunadānañceva, kammañca phalañca saddahitvā katadānañca.( **獻供品** ：已周全安排好贈與款待賓客的食物後，信業及果後，並且作了施與。)
+
+                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～七、用動物祭祀的婆羅門 (偈 108)。
+
+.. [MettFn08-10] 〔明法尊者註08-10〕 Abhivādanasīlissa niccaṁ vuḍḍhāpacāyino cattāro dhammā vaḍḍhanti: āyu, vaṇṇo, sukhaṁ, balaṁ.南傳比丘受人禮拜時，常念誦的法句。法句中壽.美.樂.力，指長壽、莊嚴、安樂、力量。《摩奴法典》Ch.1.121︰「養成尊敬的習慣和常尊敬長者，它們壽命、學問、名譽和力量，四樣一定會增長。」
+
+                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～八、佛陀保護男孩 (偈 109)。
+
+.. [MettFn08-11] 〔明法尊者註08-11〕 **破戒.無三昧** ：dussīlo asamāhito，無道德，無等持(禪定)。
+
+.. [MettFn08-12] 〔明法尊者註08-12〕 本則故事說僧揭笈沙彌(Saṁkiccasāmaṇera)修慈心不為刀傷。
+
+                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～九、沙其卡沙彌的奇蹟 (偈 110)。
+
+.. [MettFn08-13] 〔明法尊者註08-13〕 **生滅法** ：udayabbayaṁ (＜udaya生+vaya滅)。觀察五蘊的二十五異相(pañcavīsatiyā lakkhaṇehi udayañca vayañca apassanto)的生滅。在修觀禪時，見到色法(物質—地.水.火.風的現象)或名法(受、想、行、識)的生滅、無常。「一日」(Ekāhaṁ= eka一 + aha天)在此作「一時」解釋。
+
+                  「阿難遊行宣化幾二十年。嘗至竹林中(即王舍城外竹林寺)聞比丘誦偈。若人生百歲。不見水老鶴。不如生一日。時得睹見之。阿難慘然曰。此非佛偈。當云。若人生百歲。不解生滅法。不如生一日。而得解了之。比丘向其師說。師曰。阿難老朽言不可信。阿難後時聞彼比丘猶誦前偈。即自思惟。今此比丘不受吾教。於世無益宜入涅槃。」(《佛祖統紀》卷第五,T49.171.1) Udakakāka,【陽】鸕鷀，水老鶴(cormorant)。
+
+.. [MettFn08-14] 〔明法尊者註08-14〕 波羅遮那(Paṭācārā)死了丈夫、兩個兒子、父母、和唯一的哥哥。佛陀安撫她，為她說〈無始相應〉(說輪迴無盡)。本則偈頌故事同 `288-289偈 <{filename}dhp-contrast-reading-chap20%zh.rst#Dhp288>`__ 。
+
+                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～十二、家破人亡的波她卡娜 (偈 113, Paṭācārātherī, 波羅遮那長老尼的故事)。 [NandFn08-05]_
+
+
+.. [MettFn08-15] 〔明法尊者註08-15〕 **不死道** ：DhA： **amataṁ padan**\ ti maraṇavirahitakoṭṭhāsaṁ,  amatamahānibbānanti attho.( **不死道** ：死亡空空如也，不死的大涅槃之義。)
+  
+.. [MettFn08-16] 〔明法尊者註08-16〕 吉離舍瞿曇彌(Kisāgotamī)因子夭折，抱著兒子的屍體到處求醫，有人請她去見佛陀，佛陀說，要她先去向某戶從未死親人的人家，要到一些芥子，她到處去問，問不到，才慢慢醒過來。她回來見佛，佛陀開示︰「妳不要以為‘只有我的兒子死’。所有的有情都會死，眾生的意圖尚未滿足之前，死王就以大洪水完全的捲入，丟進大海。」佛陀接著說偈頌(v.287)吉離舍瞿曇彌就證得須陀洹果。之後，吉離舍瞿曇彌出家，某日觀察油燈火焰，想︰「一切有情生生死死，只有證得涅槃才不出現(生死)。」以此作所緣，證得阿羅漢果。A.1.14./I,25.︰「持麤衣者，是翅舍憍答彌(Kisāgotamī)。」《增壹阿含5.1經》(T2.558.3)︰「十一限礙(頭陀)，所謂機梨舍瞿曇彌比丘尼是。」吉離舍瞿曇彌比丘尼另一則偈頌見 `287偈 <{filename}dhp-contrast-reading-chap20%zh.rst#Dhp287>`__ 。
+
+                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～十三、死而復生 (偈 114)。
+
+.. [MettFn08-17] 〔明法尊者註08-17〕 **最上法** ：指九出世間法(navavidhaṁ lokuttaradhammaṁ)，即：四道、四果及涅槃 (參見DhA)。
+
+                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～十四、疏於照顧母親的子女 (偈 115)。 （另可參考故事「父親與不肖的兒子們 」Dhp. 324）
+
 .. [NāradaFn08-03] (Ven. Nārada 08-03) Sahassaṃ sahassena, thousand multiplied by a thousand, that is, ten lakhs. (Commentary).
 
 .. [NāradaFn08-04] (Ven. Nārada 08-04) Atta -The Buddha often uses this term in the sense of oneself or mind but not in the sense of a soul or special self.
@@ -1466,6 +1525,42 @@
 .. [ThaniSFn-V100] (Ven. Thanissaro V.100) According to DhpA, the word sahassam in this and the following verses means "by the thousands" rather than "a thousand." The same principle would also seem to hold for satam — "by the hundreds" rather than "a hundred" — in 102.
 
 .. [ThaniSFn-V108] (Ven. Thanissaro V.108) "Doesn't come to a fourth": DhpA: The merit produced by all sacrificial offerings given in the world in the course of a year doesn't equal even one fourth of the merit made by paying homage once to one who has gone the straight way to Unbinding.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
+.. [NandFn08-01] 〔Nanda 校註08-01〕 參考：《增壹阿含31.11經》 (T2.673.b) 雖誦千章，不義何益？不如一句，聞可得道。雖誦千言，不義何益？不如一義，聞可得道。 (T02n0125_p0673b26--b28)
+
+.. [NandFn08-02] 〔Nanda 校註08-02〕 請參 `101 典故 <{filename}../dhp-story/dhp-story101%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～二、證阿羅漢果最快的方法 (偈 101)。
+
+.. [NandFn08-03] 〔Nanda 校註08-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～十、喬達那尊者和搶匪們 (偈 111)。
+
+.. [NandFn08-04] 〔Nanda 校註08-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～十一、自殺時證得聖果的沙帕達沙 (偈 112)。
+ 
+.. [NandFn08-05] 〔Nanda 校註08-05〕 波羅遮那 (取自： http://authority.ddbc.edu.tw/person/?fromInner=A015901 )
+
+                 | 別名 Alternative Names：
+                 | [正體中文] 鉢吒左囉,波黎遮婆夷,微妙,尸羅婆遮那,尸羅
+                 | [巴利文 (羅馬轉寫)] Paṭācārā
+                 | [梵文 (羅馬轉寫)] Paṭācārā
+                 | 
+                 | 規範碼 ID No ：A015901
+                 | 朝代 Dynasty：印度;
+                 | 性別 Gender：男（資料誤植，應為：女）
+                 | 是否為歷史人物 Historical Person：是
+                 | 
+                 | 註解(完整) Notes(full)：
+                 | 七大比丘尼之一。舍衛城的庶民出身，長者之女，因為跟父親的僕役墜入愛戀而私奔前往他國生活，卻在某夜失去丈夫跟兩名兒子而發狂，後來在佛陀的救渡下出家。此記述可見《長老尼偈》一一二-一一六偈。此外，同書一一七偈-一二一偈中記載波羅遮那比丘尼有三十位弟子，而在一二七-一三二偈中則講述弟子為五百人。另一說波羅遮那乃婆羅門之女，並且嫁入同為婆羅門的家族。一夕之間失去丈夫及兩名兒子成為寡婦，雖然後來又結婚三次，但三次都因故與後任丈夫死別。最後依止摩訶波闍波提而出家。（インド仏教：203）
+                 | 
+                 | Occurs in：
+                 | CBETA T02n0099_p0073c12 雜阿含經 http://www.cbeta.org/cgi-bin/goto.pl?linehead=T02n0099_p0073c12
+                 | CBETA T02n0125_p0559a04 增壹阿含經 http://www.cbeta.org/cgi-bin/goto.pl?linehead=T02n0125_p0559a04
+                 | CBETA X44n0744_p0497a22 四分律名義標釋 http://www.cbeta.org/cgi-bin/goto.pl?linehead=X44n0744_p0497a22
+                 | 
+                 |  (取自： http://authority.ddbc.edu.tw/person/?fromInner=A015901 )
+                 | 
+                 | 另參： Añguttara Commentary, JRAS., 1893, 552-560; Therī-Gāthā Commentary, xlvii: 108-112. (取自： HARVARD ORIENTAL SERIES, Vol. 28 , BUDDHIST LEGENDS, translated from the original Pali text of the DHAMMAPADA COMMENTARY BY EUGENE WATSON BURLINGAME, 1921)
 
 ---------------------------
 
