@@ -3,7 +3,7 @@
 ========================================================================
 
 :date: 2016-06-02 22:00
-:modified: 2016-07-07 17:30
+:modified: 2016-07-25 16:30
 :tags: 法句經, 法句經對讀, 智者品, Dhp, Dhammapada, Paṇḍitavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Wise Man
@@ -1105,7 +1105,7 @@
      - 89 Those whose mind is well grounded in the (seven) elements of knowledge, who without clinging to anything, rejoice in freedom from attachment, whose appetites have been conquered, and who are full of light, are free (even) in this world.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 089 <{filename}../dhA/dhA-chap06%zh.rst#dhp0*>`__
+     - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 089 <{filename}../dhA/dhA-chap06%zh.rst#dhp089>`__
 
 --------------
 

@@ -3,7 +3,7 @@
 ======================================================================
 
 :date: 2016-06-03 21:00
-:modified: 2016-07-24 21:30
+:modified: 2016-07-25 17:00
 :tags: 法句經, 法句經對讀, 千品, Dhp, Dhammapada, Sahassavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Thousands
@@ -148,7 +148,7 @@
        100 Even though a speech be a thousand (of words), but made up of senseless words, one word of sense is better, which if a man hears, he becomes quiet.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 100 <{filename}../dhA/dhA-chap08%zh.rst#Dhp100>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 100 <{filename}../dhA/dhA-chap08%zh.rst#dhp100>`__
 
 .. _Dhp101:
 
@@ -228,7 +228,7 @@
      - 101 Even though a Gatha (poem) be a thousand (of words), but made up of senseless words, one word of a Gatha is better, which if a man hears, he becomes quiet.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 101 <{filename}../dhA/dhA-chap08%zh.rst#Dhp101>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 101 <{filename}../dhA/dhA-chap08%zh.rst#dhp101>`__
 
 .. _Dhp102:
 
@@ -308,7 +308,7 @@
      - 102 Though a man recite a hundred Gathas made up of senseless words, one word of the law is better, which if a man hears, he becomes quiet.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 102 <{filename}../dhA/dhA-chap08%zh.rst#Dhp102>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 102 <{filename}../dhA/dhA-chap08%zh.rst#dhp102>`__
 
 .. _Dhp103:
 
@@ -377,7 +377,7 @@
      - 103 If one man conquer in battle a thousand times thousand men, and if another conquer himself, he is the greatest of conquerors.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 103 <{filename}../dhA/dhA-chap08%zh.rst#Dhp103>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 103 <{filename}../dhA/dhA-chap08%zh.rst#dhp103>`__
 
 .. _Dhp104:
 
@@ -445,7 +445,7 @@
      - 104, 105. One's own self conquered is better than all other people; not even a god, a Gandharva, not Mara with Brahman could change into defeat the victory of a man who has vanquished himself, and always lives under restraint.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 104 <{filename}../dhA/dhA-chap08%zh.rst#Dhp104>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 104 <{filename}../dhA/dhA-chap08%zh.rst#dhp104>`__
 
 .. _Dhp105:
 
@@ -517,7 +517,7 @@
      - 104, 105. One's own self conquered is better than all other people; not even a god, a Gandharva, not Mara with Brahman could change into defeat the victory of a man who has vanquished himself, and always lives under restraint.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 105 <{filename}../dhA/dhA-chap08%zh.rst#Dhp105>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 105 <{filename}../dhA/dhA-chap08%zh.rst#dhp105>`__
 
 .. _Dhp106:
 
@@ -601,7 +601,7 @@
      - 106 If a man for a hundred years sacrifice month after month with a thousand, and if he but for one moment pay homage to a man whose soul is grounded (in true knowledge), better is that homage than sacrifice for a hundred years.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 106 <{filename}../dhA/dhA-chap08%zh.rst#Dhp106>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 106 <{filename}../dhA/dhA-chap08%zh.rst#dhp106>`__
 
 .. _Dhp107:
 
@@ -691,7 +691,7 @@
      - 107 If a man for a hundred years worship Agni (fire) in the forest, and if he but for one moment pay homage to a man whose soul is grounded (in true knowledge), better is that homage than sacrifice for a hundred years.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 107 <{filename}../dhA/dhA-chap08%zh.rst#Dhp107>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 107 <{filename}../dhA/dhA-chap08%zh.rst#dhp107>`__
 
 .. _Dhp108:
 
@@ -773,7 +773,7 @@
      - 108 Whatever a man sacrifice in this world as an offering or as an oblation for a whole year in order to gain merit, the whole of it is not worth a quarter (a farthing); reverence shown to the righteous is better.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 108 <{filename}../dhA/dhA-chap08%zh.rst#Dhp108>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 108 <{filename}../dhA/dhA-chap08%zh.rst#dhp108>`__
 
 .. _Dhp109:
 
@@ -830,7 +830,7 @@
      - 109 He who always greets and constantly reveres the aged, four things will increase to him, viz. life, beauty, happiness, power.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 109 <{filename}../dhA/dhA-chap08%zh.rst#Dhp109>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 109 <{filename}../dhA/dhA-chap08%zh.rst#dhp109>`__
 
 .. _Dhp110:
 
@@ -917,7 +917,7 @@
      - 110 But he who lives a hundred years, vicious and unrestrained, a life of one day is better if a man is virtuous and reflecting.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 110 <{filename}../dhA/dhA-chap08%zh.rst#Dhp110>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 110 <{filename}../dhA/dhA-chap08%zh.rst#dhp110>`__
 
 .. _Dhp111:
 
@@ -1003,7 +1003,7 @@
      - 111 And he who lives a hundred years, ignorant and unrestrained, a life of one day is better if a man is wise and reflecting.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 111 <{filename}../dhA/dhA-chap08%zh.rst#Dhp111>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 111 <{filename}../dhA/dhA-chap08%zh.rst#dhp111>`__
 
 .. _Dhp112:
 
@@ -1092,7 +1092,7 @@
      - 112 And he who lives a hundred years, idle and weak, a life of one day is better if a man has attained firm strength.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 112 <{filename}../dhA/dhA-chap08%zh.rst#Dhp112>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 112 <{filename}../dhA/dhA-chap08%zh.rst#dhp112>`__
 
 .. _Dhp113:
 
@@ -1183,7 +1183,7 @@
      - 113 And he who lives a hundred years, not seeing beginning and end, a life of one day is better if a man sees beginning and end.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 113 <{filename}../dhA/dhA-chap08%zh.rst#Dhp113>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 113 <{filename}../dhA/dhA-chap08%zh.rst#dhp113>`__
 
 .. _Dhp114:
 
@@ -1269,7 +1269,7 @@
      - 114 And he who lives a hundred years, not seeing the immortal place, a life of one day is better if a man sees the immortal place.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 114 <{filename}../dhA/dhA-chap08%zh.rst#Dhp114>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 114 <{filename}../dhA/dhA-chap08%zh.rst#dhp114>`__
 
 .. _Dhp115:
 
@@ -1364,7 +1364,7 @@
      - 115 And he who lives a hundred years, not seeing the highest law, a life of one day is better if a man sees the highest law.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 115 <{filename}../dhA/dhA-chap08%zh.rst#Dhp115>`__
+     - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 115 <{filename}../dhA/dhA-chap08%zh.rst#dhp115>`__
 
 --------------
 
@@ -1483,14 +1483,14 @@
 
                   「阿難遊行宣化幾二十年。嘗至竹林中(即王舍城外竹林寺)聞比丘誦偈。若人生百歲。不見水老鶴。不如生一日。時得睹見之。阿難慘然曰。此非佛偈。當云。若人生百歲。不解生滅法。不如生一日。而得解了之。比丘向其師說。師曰。阿難老朽言不可信。阿難後時聞彼比丘猶誦前偈。即自思惟。今此比丘不受吾教。於世無益宜入涅槃。」(《佛祖統紀》卷第五,T49.171.1) Udakakāka,【陽】鸕鷀，水老鶴(cormorant)。
 
-.. [MettFn08-14] 〔明法尊者註08-14〕 波羅遮那(Paṭācārā)死了丈夫、兩個兒子、父母、和唯一的哥哥。佛陀安撫她，為她說〈無始相應〉(說輪迴無盡)。本則偈頌故事同 `288-289偈 <{filename}dhp-contrast-reading-chap20%zh.rst#Dhp288>`__ 。
+.. [MettFn08-14] 〔明法尊者註08-14〕 波羅遮那(Paṭācārā)死了丈夫、兩個兒子、父母、和唯一的哥哥。佛陀安撫她，為她說〈無始相應〉(說輪迴無盡)。本則偈頌故事同 `288-289偈 <{filename}dhp-contrast-reading-chap20%zh.rst#dhp288>`__ 。
 
                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～十二、家破人亡的波她卡娜 (偈 113, Paṭācārātherī, 波羅遮那長老尼的故事)。 [NandFn08-05]_
 
 
 .. [MettFn08-15] 〔明法尊者註08-15〕 **不死道** ：DhA： **amataṁ padan**\ ti maraṇavirahitakoṭṭhāsaṁ,  amatamahānibbānanti attho.( **不死道** ：死亡空空如也，不死的大涅槃之義。)
   
-.. [MettFn08-16] 〔明法尊者註08-16〕 吉離舍瞿曇彌(Kisāgotamī)因子夭折，抱著兒子的屍體到處求醫，有人請她去見佛陀，佛陀說，要她先去向某戶從未死親人的人家，要到一些芥子，她到處去問，問不到，才慢慢醒過來。她回來見佛，佛陀開示︰「妳不要以為‘只有我的兒子死’。所有的有情都會死，眾生的意圖尚未滿足之前，死王就以大洪水完全的捲入，丟進大海。」佛陀接著說偈頌(v.287)吉離舍瞿曇彌就證得須陀洹果。之後，吉離舍瞿曇彌出家，某日觀察油燈火焰，想︰「一切有情生生死死，只有證得涅槃才不出現(生死)。」以此作所緣，證得阿羅漢果。A.1.14./I,25.︰「持麤衣者，是翅舍憍答彌(Kisāgotamī)。」《增壹阿含5.1經》(T2.558.3)︰「十一限礙(頭陀)，所謂機梨舍瞿曇彌比丘尼是。」吉離舍瞿曇彌比丘尼另一則偈頌見 `287偈 <{filename}dhp-contrast-reading-chap20%zh.rst#Dhp287>`__ 。
+.. [MettFn08-16] 〔明法尊者註08-16〕 吉離舍瞿曇彌(Kisāgotamī)因子夭折，抱著兒子的屍體到處求醫，有人請她去見佛陀，佛陀說，要她先去向某戶從未死親人的人家，要到一些芥子，她到處去問，問不到，才慢慢醒過來。她回來見佛，佛陀開示︰「妳不要以為‘只有我的兒子死’。所有的有情都會死，眾生的意圖尚未滿足之前，死王就以大洪水完全的捲入，丟進大海。」佛陀接著說偈頌(v.287)吉離舍瞿曇彌就證得須陀洹果。之後，吉離舍瞿曇彌出家，某日觀察油燈火焰，想︰「一切有情生生死死，只有證得涅槃才不出現(生死)。」以此作所緣，證得阿羅漢果。A.1.14./I,25.︰「持麤衣者，是翅舍憍答彌(Kisāgotamī)。」《增壹阿含5.1經》(T2.558.3)︰「十一限礙(頭陀)，所謂機梨舍瞿曇彌比丘尼是。」吉離舍瞿曇彌比丘尼另一則偈頌見 `287偈 <{filename}dhp-contrast-reading-chap20%zh.rst#dhp287>`__ 。
 
                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～十三、死而復生 (偈 114)。
 

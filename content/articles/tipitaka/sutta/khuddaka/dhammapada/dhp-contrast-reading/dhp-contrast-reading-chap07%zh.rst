@@ -3,7 +3,7 @@
 ===========================================================================
 
 :date: 2016-06-03 21:30
-:modified: 2016-07-17 15:30
+:modified: 2016-07-25 17:00
 :tags: 法句經, 法句經對讀, 阿羅漢品, Dhp, Dhammapada, Arahantavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Arahat
@@ -127,7 +127,7 @@
        90 There is no suffering for him who has finished his journey, and abandoned grief, who has freed himself on all sides, and thrown off all fetters.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 090 <{filename}../dhA/dhA-chap07%zh.rst#Dhp090>`__
+     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 090 <{filename}../dhA/dhA-chap07%zh.rst#dhp090>`__
 
 .. _Dhp091:
 
@@ -185,7 +185,7 @@
      - 91 They depart with their thoughts well-collected, they are not happy in their abode; like swans who have left their lake, they leave their house and home.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 091 <{filename}../dhA/dhA-chap07%zh.rst#Dhp091>`__
+     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 091 <{filename}../dhA/dhA-chap07%zh.rst#dhp091>`__
 
 .. _Dhp092:
 
@@ -258,7 +258,7 @@
      - 92 Men who have no riches, who live on recognised food, who have perceived void and unconditioned freedom (Nirvana), their path is difficult to understand, like that of birds in the air.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 092 <{filename}../dhA/dhA-chap07%zh.rst#Dhp092>`__
+     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 092 <{filename}../dhA/dhA-chap07%zh.rst#dhp092>`__
 
 .. _Dhp093:
 
@@ -330,7 +330,7 @@
      - 93 He whose appetites are stilled, who is not absorbed in enjoyment, who has perceived void and unconditioned freedom (Nirvana), his path is difficult to understand, like that of birds in the air.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 093 <{filename}../dhA/dhA-chap07%zh.rst#Dhp093>`__
+     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 093 <{filename}../dhA/dhA-chap07%zh.rst#dhp093>`__
 
 .. _Dhp094:
 
@@ -408,7 +408,7 @@
      - 94 The gods even envy him whose senses, like horses well broken in by the driver, have been subdued, who is free from pride, and free from appetites.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 094 <{filename}../dhA/dhA-chap07%zh.rst#Dhp094>`__
+     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 094 <{filename}../dhA/dhA-chap07%zh.rst#dhp094>`__
 
 .. _Dhp095:
 
@@ -484,7 +484,7 @@
      - 95 Such a one who does his duty is tolerant like the earth, like Indra's bolt; he is like a lake without mud; no new births are in store for him.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 095 <{filename}../dhA/dhA-chap07%zh.rst#Dhp095>`__
+     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 095 <{filename}../dhA/dhA-chap07%zh.rst#dhp095>`__
 
 .. _Dhp096:
 
@@ -565,7 +565,7 @@
      - 96 His thought is quiet, quiet are his word and deed, when he has obtained freedom by true knowledge, when he has thus become a quiet man.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 096 <{filename}../dhA/dhA-chap07%zh.rst#Dhp096>`__
+     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 096 <{filename}../dhA/dhA-chap07%zh.rst#dhp096>`__
 
 .. _Dhp097:
 
@@ -636,7 +636,7 @@
      - 97 The man who is free from credulity, but knows the uncreated, who has cut all ties, removed all temptations, renounced all desires, he is the greatest of men.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 097 <{filename}../dhA/dhA-chap07%zh.rst#Dhp097>`__
+     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 097 <{filename}../dhA/dhA-chap07%zh.rst#dhp097>`__
 
 .. _Dhp098:
 
@@ -696,7 +696,7 @@
      - 98 In a hamlet or in a forest, in the deep water or on the dry land, wherever venerable persons (Arhanta) dwell, that place is delightful.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 098 <{filename}../dhA/dhA-chap07%zh.rst#Dhp098>`__
+     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 098 <{filename}../dhA/dhA-chap07%zh.rst#dhp098>`__
 
 .. _Dhp099:
 
@@ -767,7 +767,7 @@
      - 99 Forests are delightful; where the world finds no delight, there the passionless will find delight, for they look not for pleasures.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 099 <{filename}../dhA/dhA-chap07%zh.rst#Dhp099>`__
+     - 請參考 `巴利《法句經》註解　摘譯　七、阿羅漢品 Dhp. 099 <{filename}../dhA/dhA-chap07%zh.rst#dhp099>`__
 
 --------------
 

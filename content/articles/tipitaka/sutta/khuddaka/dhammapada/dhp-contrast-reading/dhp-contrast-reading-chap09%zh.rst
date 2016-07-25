@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2016-06-03 21:30
-:modified: 2016-07-25 13:00
+:modified: 2016-07-25 17:00
 :tags: 法句經, 法句經對讀, 惡品, Dhp, Dhammapada, Pāpavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Evil
@@ -126,7 +126,7 @@
        116 If a man would hasten towards the good, he should keep his thought away from evil; if a man does what is good slothfully, his mind delights in evil.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 116 <{filename}../dhA/dhA-chap09%zh.rst#Dhp116>`__
+     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 116 <{filename}../dhA/dhA-chap09%zh.rst#dhp116>`__
 
 .. _Dhp117:
 
@@ -191,7 +191,7 @@
      - 117 If a man commits a sin, let him not do it again; let him not delight in sin: pain is the outcome of evil.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 117 <{filename}../dhA/dhA-chap09%zh.rst#Dhp117>`__
+     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 117 <{filename}../dhA/dhA-chap09%zh.rst#dhp117>`__
 
 .. _Dhp118:
 
@@ -255,7 +255,7 @@
      - 118 If a man does what is good, let him do it again; let him delight in it: happiness is the outcome of good.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 118 <{filename}../dhA/dhA-chap09%zh.rst#Dhp118>`__
+     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 118 <{filename}../dhA/dhA-chap09%zh.rst#dhp118>`__
 
 .. _Dhp119:
 
@@ -323,7 +323,7 @@
      - 119 Even an evil-doer sees happiness as long as his evil deed has not ripened; but when his evil deed has ripened, then does the evil-doer see evil.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 119 <{filename}../dhA/dhA-chap09%zh.rst#Dhp119>`__
+     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 119 <{filename}../dhA/dhA-chap09%zh.rst#dhp119>`__
 
 .. _Dhp120:
 
@@ -389,7 +389,7 @@
      - 120 Even a good man sees evil days, as long as his good deed has not ripened; but when his good deed has ripened, then does the good man see happy days.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 120 <{filename}../dhA/dhA-chap09%zh.rst#Dhp120>`__
+     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 120 <{filename}../dhA/dhA-chap09%zh.rst#dhp120>`__
 
 .. _Dhp121:
 
@@ -475,7 +475,7 @@
      - 121 Let no man think lightly of evil, saying in his heart, It will not come nigh unto me. Even by the falling of water-drops a water-pot is filled; the fool becomes full of evil, even if he gather it little by little.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 121 <{filename}../dhA/dhA-chap09%zh.rst#Dhp121>`__
+     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 121 <{filename}../dhA/dhA-chap09%zh.rst#dhp121>`__
 
 .. _Dhp122:
 
@@ -556,7 +556,7 @@
      - 122 Let no man think lightly of good, saying in his heart, It will not come nigh unto me. Even by the falling of water-drops a water-pot is filled; the wise man becomes full of good, even if he gather it little by little.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 122 <{filename}../dhA/dhA-chap09%zh.rst#Dhp122>`__
+     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 122 <{filename}../dhA/dhA-chap09%zh.rst#dhp122>`__
 
 .. _Dhp123:
 
@@ -619,7 +619,7 @@
      - 123 Let a man avoid evil deeds, as a merchant, if he has few companions and carries much wealth, avoids a dangerous road; as a man who loves life avoids poison.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 123 <{filename}../dhA/dhA-chap09%zh.rst#Dhp123>`__
+     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 123 <{filename}../dhA/dhA-chap09%zh.rst#dhp123>`__
 
 .. _Dhp124:
 
@@ -681,7 +681,7 @@
      - 124 He who has no wound on his hand, may touch poison with his hand; poison does not affect one who has no wound; nor is there evil for one who does not commit evil.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 124 <{filename}../dhA/dhA-chap09%zh.rst#Dhp124>`__
+     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 124 <{filename}../dhA/dhA-chap09%zh.rst#dhp124>`__
 
 .. _Dhp125:
 
@@ -749,7 +749,7 @@
      - 125 If a man offend a harmless, pure, and innocent person, the evil falls back upon that fool, like light dust thrown up against the wind.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 125 <{filename}../dhA/dhA-chap09%zh.rst#Dhp125>`__
+     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 125 <{filename}../dhA/dhA-chap09%zh.rst#dhp125>`__
 
 .. _Dhp126:
 
@@ -813,7 +813,7 @@
      - 126 Some people are born again; evil-doers go to hell; righteous people go to heaven; those who are free from all worldly desires attain Nirvana.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 126 <{filename}../dhA/dhA-chap09%zh.rst#Dhp126>`__
+     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 126 <{filename}../dhA/dhA-chap09%zh.rst#dhp126>`__
 
 .. _Dhp127:
 
@@ -896,7 +896,7 @@
      - 127 Not in the sky, not in the midst of the sea, not if we enter into the clefts of the mountains, is there known a spot in the whole world where a man might be freed from an evil deed.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 127 <{filename}../dhA/dhA-chap09%zh.rst#Dhp127>`__
+     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 127 <{filename}../dhA/dhA-chap09%zh.rst#dhp127>`__
 
 .. _Dhp128:
 
@@ -987,7 +987,7 @@
      - 128 Not in the sky, not in the midst of the sea, not if we enter into the clefts of the mountains, is there known a spot in the whole world where death could not overcome (the mortal).
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 128 <{filename}../dhA/dhA-chap09%zh.rst#Dhp128>`__
+     - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 128 <{filename}../dhA/dhA-chap09%zh.rst#dhp128>`__
 
 --------------
 
