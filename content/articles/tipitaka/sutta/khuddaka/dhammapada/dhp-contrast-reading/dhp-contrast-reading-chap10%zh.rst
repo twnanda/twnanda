@@ -3,7 +3,7 @@
 ===============================================================================
 
 :date: 2016-06-03 22:00
-:modified: 2016-07-01 15:00
+:modified: 2016-07-25 17:00
 :tags: 法句經, 法句經對讀, 刀杖品, 刑罰品, Dhp, Dhammapada, Daṇḍavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Violence
@@ -76,7 +76,7 @@
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - **十、刀杖品**  [LChnFn10-01]_ 
 
-       一二九　一切懼刀杖，一切皆畏死，以自度（他情），莫殺教他殺。
+       一二九　一切懼刀杖，一切皆畏死，以自度（他情），莫殺教他殺。 [MettFn10-01]_ 、 [MettFn10-02]_ 、 [MettFn10-03]_  
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 第十：刑罰品
@@ -147,7 +147,7 @@
        129 All men tremble at punishment, all men fear death; remember that you are like unto them, and do not kill, nor cause slaughter.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 129 <{filename}../dhA/dhA-chap10%zh.rst#Dhp129>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 129 <{filename}../dhA/dhA-chap10%zh.rst#dhp129>`__
 
 .. _Dhp130:
 
@@ -165,7 +165,7 @@
        | Attānaṃ upamaṃ katvā, na haneyya na ghātaye.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一三０　一切懼刀杖，一切皆愛生，以自度（他情），莫殺教他殺。
+     - 一三０　一切懼刀杖，一切皆愛生，以自度（他情），莫殺教他殺。 [MettFn10-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 130 一切眾生對刑罰顫抖，生命對一切眾生都可愛。
@@ -215,7 +215,7 @@
      - 130 All men tremble at punishment, all men love life; remember that thou art like unto them, and do not kill, nor cause slaughter.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 130 <{filename}../dhA/dhA-chap10%zh.rst#Dhp130>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 130 <{filename}../dhA/dhA-chap10%zh.rst#dhp130>`__
 
 .. _Dhp131:
 
@@ -233,7 +233,7 @@
        | Attano sukhamesāno, pecca so na labhate sukhaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一三一　於求樂有情，刀杖加惱害，但求自己樂，後世樂難得。
+     - 一三一　於求樂有情，刀杖加惱害，但求自己樂，後世樂難得。 [MettFn10-05]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 131 對喜歡樂的眾生，若人以棍杖傷害，
@@ -273,7 +273,7 @@
      - 131 He who seeking his own happiness punishes or kills beings who also long for happiness, will not find happiness after death.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 131 <{filename}../dhA/dhA-chap10%zh.rst#Dhp131>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 131 <{filename}../dhA/dhA-chap10%zh.rst#dhp131>`__
 
 .. _Dhp132:
 
@@ -291,7 +291,7 @@
        | Attano sukhamesāno, pecca so labhate sukhaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一三二　於求樂有情，不加刀杖害，欲求自己樂，後世樂可得。
+     - 一三二　於求樂有情，不加刀杖害，欲求自己樂，後世樂可得。 [MettFn10-05]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 132 對喜歡樂的眾生，若人不以杖傷害，
@@ -332,7 +332,7 @@
      - 132 He who seeking his own happiness does not punish or kill beings who also long for happiness, will find happiness after death.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 132 <{filename}../dhA/dhA-chap10%zh.rst#Dhp132>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 132 <{filename}../dhA/dhA-chap10%zh.rst#dhp132>`__
 
 .. _Dhp133:
 
@@ -350,7 +350,7 @@
        | Dukkhā hi sārambhakathā, paṭidaṇḍā phuseyyu taṃ [phuseyyuṃ taṃ (ka.)].
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一三三　對人莫說粗惡語，汝所說者還說汝。憤怒之言實堪痛；互擊刀杖可傷汝。
+     - 一三三　對人莫說粗惡語，汝所說者還說汝。憤怒之言實堪痛；互擊刀杖可傷汝。 [MettFn10-06]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 133 莫向任何人說粗惡語，受到辱罵者將會反駁。
@@ -390,7 +390,7 @@
      - 133 Do not speak harshly to anybody; those who are spoken to will answer thee in the same way. Angry speech is painful, blows for blows will touch thee.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 133 <{filename}../dhA/dhA-chap10%zh.rst#Dhp133>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 133 <{filename}../dhA/dhA-chap10%zh.rst#dhp133>`__
 
 .. _Dhp134:
 
@@ -408,7 +408,7 @@
        | Esa pattosi nibbānaṃ, sārambho te na vijjati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一三四　汝若自默然，如一破銅鑼，已得涅槃路；於汝無諍故。
+     - 一三四　汝若自默然，如一破銅鑼，已得涅槃路；於汝無諍故。 [MettFn10-06]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 134 若你能保持自己沉默，像破裂之鼓不再聲響，
@@ -448,7 +448,7 @@
      - 134 If, like a shattered metal plate (gong), thou utter not, then thou hast reached Nirvana; contention is not known to thee.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 134 <{filename}../dhA/dhA-chap10%zh.rst#Dhp134>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 134 <{filename}../dhA/dhA-chap10%zh.rst#dhp134>`__
 
 .. _Dhp135:
 
@@ -466,7 +466,7 @@
        | Evaṃ jarā ca maccu ca, āyuṃ pājenti pāṇinaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一三五　如牧人以杖，驅牛至牧場，如是老與死．驅逐眾生命。
+     - 一三五　如牧人以杖，驅牛至牧場，如是老與死．驅逐眾生命。 [MettFn10-07]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 135 猶如牧牛人以棍棒驅趕牛群去牧場，
@@ -504,7 +504,7 @@
      - 135 As a cowherd with his staff drives his cows into the stable, so do Age and Death drive the life of men.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 135 <{filename}../dhA/dhA-chap10%zh.rst#Dhp135>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 135 <{filename}../dhA/dhA-chap10%zh.rst#dhp135>`__
 
 .. _Dhp136:
 
@@ -522,7 +522,7 @@
        | Sehi kammehi dummedho, aggidaḍḍhova tappati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一三六　愚夫造作諸惡業，卻不自知（有果報），癡人以自業感苦，宛如以火而自燒。
+     - 一三六　愚夫造作諸惡業，卻不自知（有果報），癡人以自業感苦，宛如以火而自燒。 [MettFn10-08]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 136 造做惡業的時候，愚人不知其為惡，
@@ -567,7 +567,7 @@
      - 136 A fool does not know when he commits his evil deeds: but the wicked man burns by his own deeds, as if burnt by fire.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 136 <{filename}../dhA/dhA-chap10%zh.rst#Dhp136>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 136 <{filename}../dhA/dhA-chap10%zh.rst#dhp136>`__
 
 .. _Dhp137:
 
@@ -585,7 +585,7 @@
        | Dasannamaññataraṃ ṭhānaṃ, khippameva nigacchati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一三七　 [LChnFn10-02]_ 若以刀杖害，無惡無害者 [LChnFn10-03]_ ，十事中一種，彼將迅速得。
+     - 一三七　若以刀杖害，無惡無害者，十事中一種，彼將迅速得。 [LChnFn10-02]_ 、 [LChnFn10-03]_ 、 [MettFn10-09]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 137 若人以棍棒傷害無害、不應受到傷害的人，
@@ -646,7 +646,7 @@
      - 137 He who inflicts pain on innocent and harmless persons, will soon come to one of these ten states:
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 137 <{filename}../dhA/dhA-chap10%zh.rst#Dhp137>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 137 <{filename}../dhA/dhA-chap10%zh.rst#dhp137>`__
 
 .. _Dhp138:
 
@@ -664,7 +664,7 @@
        | Garukaṃ vāpi ābādhaṃ, cittakkhepañca [cittakkhepaṃ va (sī. syā. pī.)] pāpuṇe.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一三八　極苦痛失財，身體被損害，或重病所逼，或失心狂亂。
+     - 一三八　極苦痛失財，身體被損害，或重病所逼，或失心狂亂。 [MettFn10-09]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 138 他會遭受劇痛，或身體傷殘，或重病，或心失常，
@@ -722,7 +722,7 @@
      - 138 He will have cruel suffering, loss, injury of the body, heavy affliction, or loss of mind,
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 138 <{filename}../dhA/dhA-chap10%zh.rst#Dhp138>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 138 <{filename}../dhA/dhA-chap10%zh.rst#dhp138>`__
 
 .. _Dhp139:
 
@@ -740,7 +740,7 @@
        | Parikkhayañca [parikkhayaṃ va (sī. syā. pī.)] ñātīnaṃ, bhogānañca [bhogānaṃ va (sī. syā. pī.)] pabhaṅguraṃ [pabhaṅgunaṃ (ka.)].
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一三九　或為王迫害，或被誣重罪，或眷屬離散，或破滅財產 [LChnFn10-04]_ 。
+     - 一三九　或為王迫害，或被誣重罪，或眷屬離散，或破滅財產。  [LChnFn10-04]_ 、 [MettFn10-09]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 139 或遇王難，或被嚴重誣陷，或親人被滅，或破財，
@@ -798,7 +798,7 @@
      - 139 Or a misfortune coming from the king, or a fearful accusation, or loss of relations, or destruction of treasures,
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 139 <{filename}../dhA/dhA-chap10%zh.rst#Dhp139>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 139 <{filename}../dhA/dhA-chap10%zh.rst#dhp139>`__
 
 .. _Dhp140:
 
@@ -816,7 +816,7 @@
        | Kāyassa bhedā duppañño, nirayaṃ sopapajjati [so upapajjati (sī. syā.)].
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一四０　或彼之房屋，為劫火焚燒。癡者身亡後，復墮於地獄。
+     - 一四０　或彼之房屋，為劫火焚燒。癡者身亡後，復墮於地獄。 [MettFn10-09]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 140 或其家被火燒毀。身體毀壞後，愚人將墮入地獄。
@@ -874,7 +874,7 @@
      - 140 Or lightning-fire will burn his houses; and when his body is destroyed, the fool will go to hell.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 140 <{filename}../dhA/dhA-chap10%zh.rst#Dhp140>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 140 <{filename}../dhA/dhA-chap10%zh.rst#dhp140>`__
 
 .. _Dhp141:
 
@@ -894,7 +894,7 @@
        | Rajojallaṃ ukkuṭikappadhānaṃ, sodhenti maccaṃ avitiṇṇakaṅkhaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一四一　 [LChnFn10-05]_ 非裸行結髮，非塗泥絕食，臥地自塵身，非以蹲踞（住） [LChnFn10-06]_ ，不斷疑惑者，能令得清淨。
+     - 一四一　非裸行結髮，非塗泥絕食，臥地自塵身，非以蹲踞（住），不斷疑惑者，能令得清淨。 [LChnFn10-05]_ 、 [LChnFn10-06]_ 、 [MettFn10-10]_ 、 [MettFn10-11]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 141 不是裸行，不是結髮，不是以泥塗身，不是睡在露
@@ -954,7 +954,7 @@
      - 141 Not nakedness, not platted hair, not dirt, not fasting, or lying on the earth, not rubbing with dust, not sitting motionless, can purify a mortal who has not overcome desires.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 141 <{filename}../dhA/dhA-chap10%zh.rst#Dhp141>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 141 <{filename}../dhA/dhA-chap10%zh.rst#dhp141>`__
 
 .. _Dhp142:
 
@@ -974,7 +974,7 @@
        | Sabbesu  bhūtesu nidhāya daṇḍaṃ, so brāhmaṇo so samaṇo sa bhikkhu.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一四二　嚴身住寂靜，調御而克制，必然 [LChnFn10-07]_ 修梵行，不以刀杖等，加害諸有情，彼即婆羅門，彼即是沙門，彼即是比丘。
+     - 一四二　嚴身住寂靜，調御而克制，必然修梵行，不以刀杖等，加害諸有情，彼即婆羅門，彼即是沙門，彼即是比丘。  [LChnFn10-07]_ 、 [MettFn10-12]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 142 雖然莊嚴其身，若他平靜過活、
@@ -1029,7 +1029,7 @@
      - 142 He who, though dressed in fine apparel, exercises tranquillity, is quiet, subdued, restrained, chaste, and has ceased to find fault with all other beings, he indeed is a Brahmana, an ascetic (sramana), a friar (bhikshu).
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 142 <{filename}../dhA/dhA-chap10%zh.rst#Dhp142>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 142 <{filename}../dhA/dhA-chap10%zh.rst#dhp142>`__
 
 .. _Dhp143:
 
@@ -1047,7 +1047,7 @@
        | Yo niddaṃ [nindaṃ (sī. pī.) saṃ. ni. 1.18] apabodheti [apabodhati (sī. syā. pī.)], asso bhadro kasāmiva.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一四三　以慚自禁者，世間所罕有，彼善避羞辱，如良馬避鞭。
+     - 一四三　以慚自禁者，世間所罕有，彼善避羞辱，如良馬避鞭。 [MettFn10-14]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 143 於世間很難找到，會羞於為惡的人，
@@ -1092,7 +1092,7 @@
      - 143 Is there in this world any man so restrained by humility that he does not mind reproof, as a well-trained horse the whip?
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 143 <{filename}../dhA/dhA-chap10%zh.rst#Dhp143>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 143 <{filename}../dhA/dhA-chap10%zh.rst#dhp143>`__
 
 .. _Dhp144:
 
@@ -1115,7 +1115,7 @@
        | Sampannavijjācaraṇā patissatā, jahissatha [pahassatha (sī. syā. pī.)] dukkhamidaṃ anappakaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一四四　如良馬加鞭，當奮勉懺悔。以信戒精進，以及三摩地，善分別正法，以及明行足 [LChnFn10-08]_ ，汝當念勿忘，消滅無窮苦。
+     - 一四四　如良馬加鞭，當奮勉懺悔。以信戒精進，以及三摩地，善分別正法，以及明行足，汝當念勿忘，消滅無窮苦。 [LChnFn10-08]_ 、 [MettFn10-13]_ 、 [MettFn10-14]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 144 如良馬受到鞭策，你應勤奮及悚懼。
@@ -1166,7 +1166,7 @@
      - 144 Like a well-trained horse when touched by the whip, be ye active and lively, and by faith, by virtue, by energy, by meditation, by discernment of the law you will overcome this great pain (of reproof), perfect in knowledge and in behaviour, and never forgetful.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 144 <{filename}../dhA/dhA-chap10%zh.rst#Dhp144>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 144 <{filename}../dhA/dhA-chap10%zh.rst#dhp144>`__
 
 .. _Dhp145:
 
@@ -1190,7 +1190,7 @@
        **Daṇḍavaggo dasamo niṭṭhito.**
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一四五　灌溉者引水，箭匠之矯箭，木匠之繩木，善行者自御。
+     - 一四五　灌溉者引水，箭匠之矯箭，木匠之繩木，善行者自御。 [NandFn10-01]_
 
        **刀杖品第十**
 
@@ -1239,7 +1239,7 @@
      - 145 Well-makers lead the water (wherever they like); fletchers bend the arrow; carpenters bend a log of wood; good people fashion themselves.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 145 <{filename}../dhA/dhA-chap10%zh.rst#Dhp145>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 145 <{filename}../dhA/dhA-chap10%zh.rst#dhp145>`__
 
 --------------
 
@@ -1303,6 +1303,58 @@
 .. [LChnFn10-07] 〔註10-07〕  「必然」（Niyata），據註釋為四果之道。
 
 .. [LChnFn10-08] 〔註10-08〕  即知與行具足。
+
+.. [MettFn10-01] 〔明法尊者註10-01〕 **刀杖** ：daṇḍa，亦作刑罰。
+
+.. [MettFn10-02] 〔明法尊者註10-02〕 **度** ㄉㄨㄛˋ：測量。原文為：upamaṁ(譬喻)。
+
+.. [MettFn10-03] 〔明法尊者註10-03〕 在竹林精舍，17位(為一群的)比丘正在清掃住處，準備住下，剛來的較年長的六位比丘也想住下，但被17位比丘拒絕，因此被六比丘打到大哭。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～一、為了塔而爭吵的比丘 (偈 129)。
+
+.. [MettFn10-04] 〔明法尊者註10-04〕 在竹林精舍，17位(為一群的)比丘正在清掃住處，準備住下，剛來較年長的六位比丘也想住下，雙方有衝突，六位比丘舉手作示威狀，佛陀制定比丘不可以舉手作示威狀。129-130偈的因緣記錄在《律藏》Vin.Pāci.IV,146~7. Bhikkhu Pāci.74.(=Bhikkhunī P 152)；Bhikkhu Pāci.75.(=Bhikkhunī P 153)
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～二、比丘爭吵 (偈 130)。
+
+.. [MettFn10-05] 〔明法尊者註10-05〕 有一次，佛陀到舍衛城托缽途中，遇見幾位年輕人用棍子打鼠蛇(gharasappajātika；Ptyas)。佛陀問︰「你們在做什麼？」他們說︰「我們在打蛇。」佛陀問︰「為什麼？」他們說︰「大德！我們怕被蛇咬。」「你們自己想要幸福，但是這種打殺的行為，無論投生到何處，你們都不會得到幸福；如果自己熱望幸福，就不應該打殺別人。」佛陀接著說出此偈。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～三、鞭打蛇的年輕人 (偈 131~132)。
+
+.. [MettFn10-06] 〔明法尊者註10-06〕 君達達那長老(Koṇḍadhānatthera)出家以來，身旁總是跟著一個女子幻像，但他自己卻看不見。佛陀跟他：「過去世時，你是個天神，當時，你卻喬裝成為女子，故意作弄兩位要好的比丘，跟隨其中的一位，造成他們的誤會。犯下這惡業，今生才會有女子的幻像的果報。」
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～四、君達那比丘與女子幻像 (偈 133~134)。
+
+.. [MettFn10-07] 〔明法尊者註10-07〕 佛陀對毘舍佉及參加布薩的女人說：「毘舍佉！有情一旦出生，等於手中有杖者、牧牛者(等，身份)，接近生、老，接近老、病，接近病、死，(最後)死亡的召喚，如斧斬，斬命；雖然這樣人們仍然留戀輪迴，渴望輪迴。」
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～五、祈福的女性 (偈 135)。
+
+.. [MettFn10-08] 〔明法尊者註10-08〕 大目犍連尊者與勒叉那尊者下山時，大目犍連尊者見到一隻人面蛇身的 餓鬼，大目犍連尊者微笑。這餓鬼在迦葉佛時為殘酷的小偷，他多次放火燒毀迦葉佛的精舍。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～六、惡有惡報 (偈 136)。
+
+.. [MettFn10-09] 〔明法尊者註10-09〕 137-140偈為大目犍連尊者為人所害的故事。他已被打殺，未般涅槃前還運用神通出現在佛陀的面前，向佛陀告別。他被殺是因為他過去世曾曾受妻子的慫恿而有殺瞎眼父母之舉，因有未遂之業，此生還在償舊業。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～七、大目犍連尊者死得不是時候 (偈 137~140)。
+
+                  另，偈頌 137~140 可參:原始佛典選譯(顧法嚴)(慧炬) p.121_127
+
+.. [MettFn10-10] 〔明法尊者註10-10〕 **蹲踞住** ：ukkuṭika，兩腳前後參差的蹲跪。古譯作「右膝著地」、「胡跪」。 DhA.︰ **Ukkuṭikappadhānan**\ ti ukkuṭikabhāvena āraddhavīriyaṁ.( **努力蹲踞** ︰發勤精進地在在蹲踞。)
+
+.. [MettFn10-11] 〔明法尊者註10-11〕 從前在舍衛城中有一位富翁巴富斑迪卡(Bahubhaṇḍika)，他的太太去世後，他決定出家，出家前他先蓋精舍，出家後儲存食物，請僕人煮飯，養尊處優。當佛陀告誡他，他卻發脾氣，就把袈裟脫掉。佛陀又告誡他這樣做就失去慚愧心，他明白自己錯了，並且請求原諒。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～八、富有的比丘 (偈 141)。
+
+.. [MettFn10-12] 〔明法尊者註10-12〕 **婆羅門、沙門、比丘** 都是指阿羅漢。本偈說山達迪大臣(Santatimahāmatta)聽完佛陀說法後，就證得阿羅漢果。但不久就入滅了。當時他還穿著在家人的衣服。諸比丘問佛陀：「他究竟是比丘呢？還是婆羅門？」「他既可稱之為比丘，也可以稱為婆羅門。」
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～九、證涅槃的優婆塞 (偈 142)。
+
+.. [MettFn10-13] 〔明法尊者註10-13〕 **明行足** ：sampannavijjācaraṇā。明：vijjā，智慧；行：caraṇā，德行(戒律)。 具足智慧與德行。
+
+.. [MettFn10-14] 〔明法尊者註10-14〕 阿難尊者見到卑盧帝沙(Pilotikatissa)舊衣服乞討食物，就問他是否願意出 家。他馬上答應了，他就把舊衣服放在一棵樹下，就去出家。出家後，他對比丘的生活不滿，想還俗。每次生起這種念頭的時候，他就到那棵樹下去，並且譴責自己：「不知羞恥！你還想還俗，穿舊衣，拿這盤子去過乞討生活啊！」這樣自責之後，他的不滿就消失了。其他比丘問他為什麼經常到那棵樹下？他告訴他們：「我去親近我的老師(ācariya)。」後來，他觀察舊衣服，清楚五蘊的真相，而證得阿羅漢果，之後，他就不再去那棵樹下了。其他比丘問他：「你現在怎麼不再去找你的老師了呢？」他回答說：「我以前去找老師，是因為有需要，但現在已經不需要了！」眾比丘就去問佛陀，佛陀告訴他們：「卑盧帝沙已經證得阿羅漢果了。」本則故事跟379-380偈的犁家長老(Naṅgalakulatthera)的故事雷同。 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__  ，二十五～十、執著於老舊的衣服 (偈 379~380)。 
+
+                      (cf. S.1.18./i.7) (《雜阿含578經》、《別譯雜阿含163經》) 
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～十、年輕比丘和破舊的衣服 (偈 143~144)。
 
 .. [NāradaFn10-01] (Ven. Nārada 10-01) Na haneyya na ghātaye = na pahareyya na paharāpeyya (Commentary).
 
@@ -1380,12 +1432,14 @@
 
 .. [VaradoFn-V129] (Ven. Varado V. 129) Verse 129: ghataye can mean either 'kill' or 'cause to be killed'. See PED under ghateti and hanati. 
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
+.. [NandFn10-01] 〔Nanda 校註10-01〕 請參照： `第六、智者品 偈頌 80 <{filename}dhp-contrast-reading-chap06%zh.rst#dhp080>`__ (詳參：《法句經》的「校讀」與「誤譯」，蘇錦坤，待出版, 2016)；另可參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～十一、殊卡沙彌 (偈 145)。 
+
 ---------------------------
 
 - `法句經 (Dhammapada) <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
-
-
-..
-  一三七~一四０:原始佛典選譯(顧法嚴)(慧炬)p.121_127
