@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2016-06-03 21:30
-:modified: 2016-07-01 15:00
+:modified: 2016-07-25 13:00
 :tags: 法句經, 法句經對讀, 惡品, Dhp, Dhammapada, Pāpavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Evil
@@ -71,7 +71,7 @@
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - 九、惡品
 
-       一一六　應急速作善，制止罪惡心。怠慢作善者，心則喜於惡。
+       一一六　應急速作善，制止罪惡心。怠慢作善者，心則喜於惡。 [NandFn09-01]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 第九：惡品
@@ -144,7 +144,7 @@
        | Na tamhi chandaṃ kayirātha, dukkho pāpassa uccayo.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一一七　若人作惡已，不可數數作；莫喜於作惡；積惡則受苦。
+     - 一一七　若人作惡已，不可數數作；莫喜於作惡；積惡則受苦。 [MettFn09-01]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 117 如果有人造了惡，不應該一再造惡，
@@ -209,7 +209,7 @@
        | Tamhi chandaṃ kayirātha, sukho puññassa uccayo.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一一八　若人作善已，應復數數作；當喜於作善；積善則受樂。
+     - 一一八　若人作善已，應復數數作；當喜於作善；積善則受樂。 [MettFn09-02]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 118 如果有人造了福，他應該一再造福，
@@ -273,7 +273,7 @@
        | Yadā ca paccati pāpaṃ, atha pāpo pāpāni [atha pāpāni (?)] passati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一一九　惡業未成熟，惡者以為樂。惡業成熟時，惡者方見惡。
+     - 一一九　惡業未成熟，惡者以為樂。惡業成熟時，惡者方見惡。 [NandFn09-02]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 119 只要惡業還未成熟，惡人還是看到快樂；
@@ -341,7 +341,7 @@
        | Yadā ca paccati bhadraṃ, atha bhadro bhadrāni [atha bhadrāni (?)] passati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一二０　善業未成熟，善人以為苦。善業成熟時，善人始見善。
+     - 一二０　善業未成熟，善人以為苦。善業成熟時，善人始見善。 [NandFn09-02]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 120 只要善業還未成熟，善人還是看到痛苦；
@@ -409,7 +409,7 @@
        | Bālo pūrati [pūrati bālo (sī. ka.), āpūrati bālo (syā.)] pāpassa, thokaṃ thokampi [thoka thokampi (sī. pī.)] ācinaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一二一　莫輕於小 [LChnFn09-01]_ 惡！謂『我不招報』，須知滴水落，亦可滿水瓶，愚夫盈其惡，少許少許積。
+     - 一二一　莫輕於小惡！謂『我不招報』，須知滴水落，亦可滿水瓶，愚夫盈其惡，少許少許積。  [LChnFn09-01]_ 、 [MettFn09-03]_ 、 [MettFn09-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 121 莫輕視惡行，以為「它不會為我帶來果報」；
@@ -495,7 +495,7 @@
        | Dhīro pūrati puññassa, thokaṃ thokampi ācinaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一二二　莫輕於小善！謂『我不招報』，須知滴水落，亦可滿水瓶，智者完其善，少許少許積。 ( `122 典故 <{filename}../dhp-story/dhp-story122%zh.rst>`__ ).
+     - 一二二　莫輕於小善！謂『我不招報』，須知滴水落，亦可滿水瓶，智者完其善，少許少許積。 [NandFn09-03]_ 
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 122 莫輕視善行，以為「它不會為我帶來果報」；
@@ -574,7 +574,7 @@
        | Visaṃ jīvitukāmova, pāpāni parivajjaye.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一二三　商人避險道，伴少而貨多；愛生避毒品，避惡當亦爾。
+     - 一二三　商人避險道，伴少而貨多；愛生避毒品，避惡當亦爾。 [MettFn09-05]_ 、 [MettFn09-06]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 123 如財多隊小的商人，會避開危險的路線，
@@ -637,7 +637,7 @@
        | Nābbaṇaṃ visamanveti, natthi pāpaṃ akubbato.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一二四　假若無有瘡傷手，可以其手持毒藥。毒不能患無傷手。不作惡者便無惡。
+     - 一二四　假若無有瘡傷手，可以其手持毒藥。毒不能患無傷手。不作惡者便無惡。 [NandFn09-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 124 如果手中無創口，則可以用手持毒，
@@ -702,7 +702,7 @@
        | Tameva bālaṃ pacceti pāpaṃ, sukhumo rajo paṭivātaṃva khitto.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一二五　若犯無邪者，清淨無染者，罪惡向愚人，如逆風揚塵。 ( `125 典故 <{filename}../dhp-story/dhp-story125%zh.rst>`__ ).
+     - 一二五　若犯無邪者，清淨無染者，罪惡向愚人，如逆風揚塵。 [MettFn09-07]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 125 若人冒犯不傷人者、清淨無染者，
@@ -767,7 +767,7 @@
        | Saggaṃ sugatino yanti, parinibbanti anāsavā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一二六　有人生於（母）胎中，作惡者則（墮）地獄，正直之人昇天界，漏盡者證入涅槃。 ( `126 典故 <{filename}../dhp-story/dhp-story126%zh.rst>`__ ).
+     - 一二六　有人生於（母）胎中，作惡者則（墮）地獄，正直之人昇天界，漏盡者證入涅槃。 [NandFn09-05]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 126 有些眾生投母胎，造惡業者墮地獄，
@@ -833,7 +833,7 @@
        | Na  vijjatī [na vijjati (ka. sī. pī. ka.)] so jagatippadeso, yatthaṭṭhito [yatraṭṭhito (syā.)] mucceyya pāpakammā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一二七　非於虛空及海中，亦非入深山洞窟，欲求逃遁惡業者，世間實無可覓處。
+     - 一二七　非於虛空及海中，亦非入深山洞窟，欲求逃遁惡業者，世間實無可覓處。 [NandFn09-06]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 127 無論在虛空中、海洋中或入山洞，
@@ -922,7 +922,7 @@
        **Pāpavaggo navamo niṭṭhito.**
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一二八　非於虛空及海中，亦非入深山洞窟，欲求不為死魔制，世間實無可覓處。
+     - 一二八　非於虛空及海中，亦非入深山洞窟，欲求不為死魔制，世間實無可覓處。 [NandFn09-07]_
 
        **惡品第九竟**
 
@@ -1038,6 +1038,30 @@
 
 .. [CFFn09-01] 〔敬法法師註09-01〕 24 註釋： **母胎** 於此是指人之母胎。
 
+.. [MettFn09-01] 〔明法尊者註09-01〕 數數：ㄕㄨㄛˇ ㄕㄨㄛˇ，經常。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__  ，九～二、克制性欲 (偈 117)。
+
+.. [MettFn09-02] 〔明法尊者註09-02〕 曾經供養大迦葉尊者的女人，死後生忉利天，天女會單獨來經精舍為尊者服務，尊者認為不恰當。天女就在哭泣，被佛陀聽到，佛陀說︰「天女！我的兒子大迦葉是作防護的考量，而那些熱望作福者認為‘這是我們的利益’--考量了作福的受惠，作福則來世是快樂的。」
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__  ，九～三、女天神照顧大迦葉尊者 (偈 118)。
+
+.. [MettFn09-03] 〔明法尊者註09-03〕 **莫輕於小** ︰Mappamaññetha：1. Ma+appamaññetha莫輕視。2.Ma+appa+maññetha莫想少。
+
+.. [MettFn09-04] 〔明法尊者註09-04〕 有位比丘每次從精舍拿椅、凳使用後，就把它留在外面，任日曬雨淋。其他比丘責備他的粗心大意時，他就反駁：「這只是小事，而且我又不是故意的。」所以，他依然故我。佛陀知道他的習性後，就告誡他。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__  ，九～五、粗心大意的比丘 (偈 121)。
+
+.. [MettFn09-05] 〔明法尊者註09-05〕 **愛生避毒品** ：愛惜生命則需避開毒害的物品。
+
+.. [MettFn09-06] 〔明法尊者註09-06〕 舍衛城有一位摩訶達那富商(Mahādhanavāṇija)，一群搶匪計劃搶劫他，卻苦無下手機會，當他們打聽到摩訶達那將裝滿貴重商品的五百車子外出時，就先在路上埋伏。摩訶達那抵達搶匪躲藏的森林外圍時，準備停留幾天之後再上路。這些搶匪知道後，就準備動手搶劫。摩訶達那知道之後，便決定折回，搶匪探聽到車隊要返回，就埋伏回去的路上。這時候，摩訶達那得到通風報信，就改變主意，決定在村子裡停留幾天，同行的眾多比丘因此就先回舍衛城，並向佛陀報告此事。佛陀說出此偈。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__  ，九～七、危險的旅程 (偈 123)。
+
+.. [MettFn09-07] 〔明法尊者註09-07〕 某日早上，獵人可可(Koka)去打獵。在路上，他遇見一位比丘正在托缽。他認為這是不祥的預兆，當天，他真的什麼也沒獵到。回程，他又遇到那位比丘托缽回來。他一時憤怒，就放獵狗追咬比丘，還好這比丘跑得快，爬上樹，獵狗咬不到他，獵人就用弓箭頭去刺他的腳底，比丘疼痛，無法拉住袈裟，袈裟就滑落下來，正好罩在樹下的獵人。群狗以為比丘掉下來，便撲上去狂咬，獵人因此被狗咬死。比丘疑惑他是否有破沙門戒體(samaṇabhāvo)，佛陀說：「你沒破沙門戒體，不須為獵人的死負責。」
+
+                  PS: 請參 `125 典故 <{filename}../dhp-story/dhp-story125%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__ ，九～九、獵人被自己的獵狗攻擊 (偈 125)。
+
 .. [NāradaFn09-01] (Ven. Nārada 09-01) There should be no delay in doing good deeds. One must avail oneself of every opportunity to do good. Such good actions redound to one's eternal happiness. Every effort also should be made to control the mind as it is prone to evil. The impure mind rejoices in evil thoughts.
 
 .. [NāradaFn09-02] (Ven. Nārada 09-02) Pāpa, evil, is that which defiles one's mind. It is that which leads to woeful states. "Sin", purely a Christian term is not a good English equivalent for pāpa. What is associated with the three immoral roots such as lust (rāga), anger (dosa), and delusion (moha) is evil. There are ten kinds of evil. They are killing, stealing, and sexual misconduct (which are committed by deed); lying, slandering, harsh speech, and frivolous talk (which are committed by word); and covetousness, ill-will, and false views (which are committed by mind).
@@ -1067,6 +1091,24 @@
 .. [ThaniSFn-V121-122] (Ven. Thanissaro V. 121-122) "('It won't amount to much')": reading na mattam agamissati with the Thai edition. Other editions read, na mantam agamissati, "It won't come to me."
 
 .. [ThaniSFn-V126] (Ven. Thanissaro V.126) Heaven and hell, in the Buddhist view of the cosmos, are not eternal states. One may be reborn on one of the various levels of heaven or hell as the result of one's kamma on the human plane, and then leave that level when that particular store of kamma wears out.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
+.. [NandFn09-01] 〔Nanda 校註09-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__  ，九～一、一位窮苦婆羅門的慷慨奉獻 (偈 116)。
+
+.. [NandFn09-02] 〔Nanda 校註09-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__  ，九～四、給孤獨長者與守護神祇 (偈 119~120)。
+
+.. [NandFn09-03] 〔Nanda 校註09-03〕 請參 `122 典故 <{filename}../dhp-story/dhp-story122%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__ ，九～六、供養少的富翁 (偈 122)。
+
+.. [NandFn09-04] 〔Nanda 校註09-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__  ，九～八、獵人全家領悟佛法 (偈 124)。
+
+.. [NandFn09-05] 〔Nanda 校註09-05〕 請參 `126 典故 <{filename}../dhp-story/dhp-story126%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__ ，九～十、首飾工匠毆打無辜的比丘 (偈 126)。
+
+.. [NandFn09-06] 〔Nanda 校註09-06〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__ ，九～十一、惡報無法逃避 (偈 127)。
+
+.. [NandFn09-07] 〔Nanda 校註09-07〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__ ，九～十二、善覺王阻擋佛陀的去路 (偈 128)。
 
 ---------------------------
 
