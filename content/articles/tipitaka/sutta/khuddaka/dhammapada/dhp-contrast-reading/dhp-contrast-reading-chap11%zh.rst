@@ -3,7 +3,7 @@
 ======================================================================
 
 :date: 2016-06-04 15:00
-:modified: 2016-07-01 15:00
+:modified: 2016-07-25 22:00
 :tags: 法句經, 法句經對讀, 老品, Dhp, Dhammapada, Jarāvaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Old Age
@@ -70,7 +70,7 @@
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - **十一、老品**
 
-       一四六　常在燃燒 [LChnFn11-01]_ 中，何喜何可笑？幽暗 [LChnFn11-02]_ 之所蔽，何不求光明 [LChnFn11-03]_ ？
+       一四六　常在燃燒中，何喜何可笑？幽暗之所蔽，何不求光明？ [LChnFn11-01]_ 、 [LChnFn11-02]_ 、 [LChnFn11-03]_ 、 [MettFn11-01]_ 、 [MettFn11-02]_ 、 [NandFn11-01]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 第十一：老品
@@ -124,7 +124,7 @@
        146 How is there laughter, how is there joy, as this world is always burning? Why do you not seek a light, ye who are surrounded by darkness?
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 146 <{filename}../dhA/dhA-chap11%zh.rst#Dhp146>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 146 <{filename}../dhA/dhA-chap11%zh.rst#dhp146>`__
 
 .. _Dhp147:
 
@@ -142,7 +142,7 @@
        | Āturaṃ bahusaṅkappaṃ, yassa natthi dhuvaṃ ṭhiti.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一四七　觀此粉飾身；瘡傷 [LChnFn11-04]_ 一堆骨 [LChnFn11-05]_ ，疾病多思惟 [LChnFn11-06]_ ，絕非常存者。
+     - 一四七　觀此粉飾身；瘡傷一堆骨，疾病多思惟，絕非常存者。 [LChnFn11-04]_ 、 [LChnFn11-05]_ 、 [LChnFn11-06]_ 、 [MettFn11-03]_ 、 [MettFn11-04]_ 、 [NandFn11-02]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 147 看這裝飾美麗的身體，一堆瘡痍一堆組成物，
@@ -184,7 +184,7 @@
      - 147 Look at this dressed-up lump, covered with wounds, joined together, sickly, full of many thoughts, which has no strength, no hold!
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 147 <{filename}../dhA/dhA-chap11%zh.rst#Dhp147>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 147 <{filename}../dhA/dhA-chap11%zh.rst#dhp147>`__
 
 .. _Dhp148:
 
@@ -202,7 +202,7 @@
        | Bhijjati pūtisandeho, maraṇantañhi jīvitaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一四八　此衰老形骸，病藪而易壞；朽聚必毀滅，有生終歸死。
+     - 一四八　此衰老形骸，病藪而易壞；朽聚必毀滅，有生終歸死。 [MettFn11-05]_ 、 [NandFn11-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 148 此身已徹底衰老，是一巢病並毀壞。
@@ -245,7 +245,7 @@
      - 148 This body is wasted, full of sickness, and frail; this heap of corruption breaks to pieces, life indeed ends in death.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 148 <{filename}../dhA/dhA-chap11%zh.rst#Dhp148>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 148 <{filename}../dhA/dhA-chap11%zh.rst#dhp148>`__
 
 .. _Dhp149:
 
@@ -263,7 +263,7 @@
        | Kāpotakāni aṭṭhīni, tāni disvāna kā rati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一四九　猶如葫盧瓜，散棄於秋季，骸骨如鴿色，觀此何可樂？
+     - 一四九　猶如葫盧瓜，散棄於秋季，骸骨如鴿色，觀此何可樂？ [NandFn11-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 149 這些白骨像秋天丟棄的葫蘆，
@@ -304,7 +304,7 @@
      - 149 Those white bones, like gourds thrown away in the autumn, what pleasure is there in looking at them?
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 149 <{filename}../dhA/dhA-chap11%zh.rst#Dhp149>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 149 <{filename}../dhA/dhA-chap11%zh.rst#dhp149>`__
 
 .. _Dhp150:
 
@@ -322,7 +322,7 @@
        | Yattha jarā ca maccu ca, māno makkho ca ohito.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一五０　此城 [LChnFn11-07]_ 骨所建，塗以血與肉，儲藏老與死，及慢並虛偽 [LChnFn11-08]_ 。
+     - 一五０　此城骨所建，塗以血與肉，儲藏老與死，及慢並虛偽。 [LChnFn11-07]_ 、 [LChnFn11-08]_ 、 [MettFn11-06]_ 、 [MettFn11-07]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 150 此城以骨建，以血肉包裝；
@@ -365,7 +365,7 @@
      - 150 After a stronghold has been made of the bones, it is covered with flesh and blood, and there dwell in it old age and death, pride and deceit.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 150 <{filename}../dhA/dhA-chap11%zh.rst#Dhp150>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 150 <{filename}../dhA/dhA-chap11%zh.rst#dhp150>`__
 
 .. _Dhp151:
 
@@ -385,7 +385,7 @@
        | Satañca dhammo na jaraṃ upeti, santo have sabbhi pavedayanti.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一五一　盛飾王車亦必朽，此身老邁當亦爾。唯善人 [LChnFn11-09]_ 法不老朽，善人傳示於善人。
+     - 一五一　盛飾王車亦必朽，此身老邁當亦爾。唯善人法不老朽，善人傳示於善人。 [LChnFn11-09]_ 、 [MettFn11-08]_ 、 [NandFn11-05]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 151 莊嚴的王車亦終須損壞，人體也一樣會變得衰老，
@@ -433,7 +433,7 @@
      - 151 The brilliant chariots of kings are destroyed, the body also approaches destruction, but the virtue of good people never approaches destruction,--thus do the good say to the good.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 151 <{filename}../dhA/dhA-chap11%zh.rst#Dhp151>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 151 <{filename}../dhA/dhA-chap11%zh.rst#dhp151>`__
 
 .. _Dhp152:
 
@@ -451,7 +451,7 @@
        | Maṃsāni tassa vaḍḍhanti, paññā tassa na vaḍḍhati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一五二　寡聞之（愚）人，生長如牡牛，唯增長筋肉，而不增智慧。
+     - 一五二　寡聞之（愚）人，生長如牡牛，唯增長筋肉，而不增智慧。 [NandFn11-06]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 152 這個少聞之人，如公牛般長大，
@@ -489,7 +489,7 @@
      - 152 A man who has learnt little, grows old like an ox; his flesh grows, but his knowledge does not grow.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 152 <{filename}../dhA/dhA-chap11%zh.rst#Dhp152>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 152 <{filename}../dhA/dhA-chap11%zh.rst#dhp152>`__
 
 .. _Dhp153:
 
@@ -507,7 +507,7 @@
        | Gahakāraṃ [gahakārakaṃ (sī. syā. pī.)] gavesanto, dukkhā jāti punappunaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一五三　 [LChnFn11-10]_ **經多生輪迴，尋求造屋者** [LChnFn11-11]_ **，但未得見之，痛苦再再生。**
+     - 一五三　**經多生輪迴，尋求造屋者，但未得見之，痛苦再再生。** [LChnFn11-10]_ 、 [LChnFn11-11]_ 、 [MettFn11-09]_ 、 [NandFn11-07]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 153 在生死輪迴當中，我尋找了許多世
@@ -573,7 +573,7 @@
      - 153, 154. Looking for the maker of this tabernacle, I shall have to run through a course of many births, so long as I do not find (him); and painful is birth again and again. But now, maker of the tabernacle, thou hast been seen; thou shalt not make up this tabernacle again. All thy rafters are broken, thy ridge-pole is sundered; the mind, approaching the Eternal (visankhara, nirvana), has attained to the extinction of all desires.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 153 <{filename}../dhA/dhA-chap11%zh.rst#Dhp153>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 153 <{filename}../dhA/dhA-chap11%zh.rst#dhp153>`__
 
 .. _Dhp154:
 
@@ -593,7 +593,7 @@
        | Visaṅkhāragataṃ cittaṃ, taṇhānaṃ khayamajjhagā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一五四　 **已見造屋者** [LChnFn11-12]_ **！不再造於屋** [LChnFn11-13]_ **。椽桷** [LChnFn11-14]_ **皆毀壞，棟梁** [LChnFn11-15]_ **亦摧折。** [NandFn11-01]_ **我既證無為** [LChnFn11-16]_ **，一切愛盡滅。** ( `153-54 研讀 <{filename}../dhp-study153-4%zh.rst>`__ ).
+     - 一五四　**已見造屋者！不再造於屋。椽桷皆毀壞，棟梁亦摧折。我既證無為，一切愛盡滅。**  [LChnFn11-12]_ 、 [LChnFn11-13]_ 、 [LChnFn11-14]_ 、 [LChnFn11-15]_ 、 [NandFn11-08]_ 、 [LChnFn11-16]_ 、 [MettFn11-10]_ 、 [MettFn11-11]_ 、 [MettFn11-12]_ 、 [NandFn11-07]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 154 造屋者你已被見！你已不能再造屋。
@@ -660,7 +660,7 @@
      - 153, 154. Looking for the maker of this tabernacle, I shall have to run through a course of many births, so long as I do not find (him); and painful is birth again and again. But now, maker of the tabernacle, thou hast been seen; thou shalt not make up this tabernacle again. All thy rafters are broken, thy ridge-pole is sundered; the mind, approaching the Eternal (visankhara, nirvana), has attained to the extinction of all desires.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 154 <{filename}../dhA/dhA-chap11%zh.rst#Dhp154>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 154 <{filename}../dhA/dhA-chap11%zh.rst#dhp154>`__
 
 .. _Dhp155:
 
@@ -678,7 +678,7 @@
        | Jiṇṇakoñcāva jhāyanti, khīṇamaccheva pallale.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一五五　少壯不得財，並不修梵行，如池邊老鷺，無魚而萎滅。
+     - 一五五　少壯不得財，並不修梵行，如池邊老鷺，無魚而萎滅。 [MettFn11-13]_、 [MettFn11-14]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 155 少壯時不修梵行，也沒有賺取財富；
@@ -726,7 +726,7 @@
      - 155 Men who have not observed proper discipline, and have not gained treasure in their youth, perish like old herons in a lake without fish.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 155 <{filename}../dhA/dhA-chap11%zh.rst#Dhp155>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 155 <{filename}../dhA/dhA-chap11%zh.rst#dhp155>`__
 
 .. _Dhp156:
 
@@ -749,7 +749,7 @@
        **Jarāvaggo ekādasamo niṭṭhito.**
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一五六　少壯不得財，並不修梵行，臥如破折弓，悲歎於過去。
+     - 一五六　少壯不得財，並不修梵行，臥如破折弓，悲歎於過去。 [MettFn11-14]_
 
        **老品第十一竟**
 
@@ -799,7 +799,7 @@
      - 156 Men who have not observed proper discipline, and have not gained treasure in their youth, lie, like broken bows, sighing after the past.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 156 <{filename}../dhA/dhA-chap11%zh.rst#Dhp156>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 156 <{filename}../dhA/dhA-chap11%zh.rst#dhp156>`__
 
 --------------
 
@@ -882,6 +882,40 @@
 
 .. [CFFn11-02] 〔敬法法師註11-02〕 26 註：屋子是身體；造屋者是貪愛；無為是涅槃；愛滅盡即已證得阿羅漢果。
 
+.. [MettFn11-01] 〔明法尊者註11-01〕 **燃燒** ︰世上有十一種火常在燃燒，貪rāga、瞋dosa、癡moha、病vyadhi、老jarā、死maraṇa、愁soka、悲parideva、苦dukkha、憂domanasa、惱upāyāsa。
+
+.. [MettFn11-02] 〔明法尊者註11-02〕 **幽暗** ：喻無知、無明。
+
+.. [MettFn11-03] 〔明法尊者註11-03〕 **瘡** ：指雙眼、雙耳、雙鼻孔、口、大便口、小便口等九處。
+
+.. [MettFn11-04] 〔明法尊者註11-04〕 **多思惟** ：bahusaṅkappaṁ，比喻多欲望。
+
+.. [MettFn11-05] 〔明法尊者註11-05〕 **病藪** ：roganiḍḍha(roga+niḍḍha< ni+sad坐)，病巢。
+
+.. [MettFn11-06] 〔明法尊者註11-06〕 **虛偽** ：makkho，偽善(hypocrisy)，或惡的覆藏。「覆藏」即屬於「慳」(macchariya)心所。Thanissaro Bhikkhu譯作︰contempt(輕視)。
+
+.. [MettFn11-07] 〔明法尊者註11-07〕 本偈是佛陀度化難陀的未婚妻嘉娜帕達卡婭妮公主 (Janapadakalyāṇī佛陀姨母的女兒) 的故事，公主後來出家成為色難陀長老尼(Rūpanandātherī)。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～五、觀美色無常而證阿羅漢果 (偈 150)。
+
+.. [MettFn11-08] 〔明法尊者註11-08〕 **善人法** ：satañca dhammo，指聖者的教法。
+
+.. [MettFn11-09] 〔明法尊者註11-09〕 **造屋者** ︰gahakārakaṁ，指渴愛；屋子指身體。 Dhp. 153-154 兩偈，據《法句註》(DhA) 說，是世尊成道時生起的心念。
+
+.. [MettFn11-10] 〔明法尊者註11-10〕 **椽桷** ：ㄔㄨㄢˊ ㄐㄩㄝˊphāsukā (肋骨(陰複主格))，支撐屋頂的木條。DhA： **Sabbā te phāsukā bhaggā**\ ti tava sabbā avasesā kilesaphāsukā mayā bhaggā(你的一切剩餘的‘污染肋’已被我破壞)。
+
+.. [MettFn11-11] 〔明法尊者註11-11〕 **棟樑** ：gahakūṭaṁ，屋頂。DhA： **Gahakūṭaṁ visaṅkhatan**\ ti imassa tayā katassa attabhāvagehassa avijjāsaṅkhātaṁ kaṇṇikamaṇḍalampi mayā viddhaṁsitaṁ.(這個被你已做的自己的家--所謂的無明-- **屋頂的椽桷** (kaṇṇika-maṇḍala支撐屋頂的木條)已被我破壞)。
+
+.. [MettFn11-12] 〔明法尊者註11-12〕 **無為** ︰即是涅槃； **一切愛盡滅** ︰即已證得阿羅漢果。 Dhp.153-154 《善見律毘婆沙》譯作：「流轉非一生，走去無厭足，正覓屋住處，更生生辛苦，今已見汝屋，不復更作屋，一切脊肋骨，碎折不復生，心已離煩惱，愛盡至涅槃。(T24.675) 這兩偈為佛陀成道時生起的心念。（白話試譯：我經多生的輪迴流轉，尋求造屋者而未發現，一再的生是痛苦的。造屋者！你已見被發現，你不再造屋。你的一切的肋已被(我)破壞，(你的)屋頂已被(我)破壞；已去到無為心，獲得諸渴愛的滅盡。)
+
+.. [MettFn11-13] 〔明法尊者註11-13〕 **少壯不得財** ︰aladdhā yobbane dhanaṁ，此句有「年輕時沒有儲蓄資財之意」。
+
+.. [MettFn11-14] 〔明法尊者註11-14〕 本 155~156 偈說波羅奈(Bārāṇasī)大富長者子(Mahādhanaseṭṭhiputta)的故事。大富不知理財，家財漸漸散盡，最後只好乞食為生。佛陀見到大富時，告訴阿難︰「如果他在人生的第一階段，做事業不耗損的話，將成為本城首富；出家的話，他將證得阿羅漢果，他的太太將證得阿那含果；如果他在人生的第二階段，做事業不耗損的話，將成為本城第二富；出家的話，他將證得阿那含果，他的太太將證得斯陀含果；如果他在人生的第三階段，做事業不耗損的話，將成為本城第三富；出家的話，他將證得斯陀含果，他的太太將證得須陀洹果；現在他的家財散盡，也空無沙門果。耗費殆盡之後，他現在就像蒼鷺守枯池一樣。」
+
+                  cf.《雜阿含1162經》、《別譯雜阿含85經》。 《大毘婆沙論》卷102(T27.660.2)作：「少不修梵行，喪失聖財寶，今如二老鶴，共守一枯池。」
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～九、摩訶達拿散盡家財 (偈 155~156)。
+
 .. [NāradaFn11-01] (Ven. Nārada 11-01) This world is perpetually consumed with the flames of passions. It is completely surrounded by the veil of ignorance. Being placed in such a world, the wise should try to seek the light of wisdom.
 
 .. [NāradaFn11-02] (Ven. Nārada 11-02) As good and pleasant.
@@ -910,10 +944,23 @@
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-校註：
-------
+**校註：**
 
-.. [NandFn11-01] 〔校註11-001〕 法雨道場( 明法 法師)出版之修訂版，建議改"棟樑亦摧折"
+.. [NandFn11-01] 〔Nanda 校註11-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～一、毘舍佉和喝醉酒的同伴 (偈 146)。
+
+.. [NandFn11-02] 〔Nanda 校註11-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～二、佛陀拍賣絲蕊瑪的屍首 (偈 147)。
+
+.. [NandFn11-03] 〔Nanda 校註11-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～三、佛陀安慰年老的比丘尼 (偈 148)。
+
+.. [NandFn11-04] 〔Nanda 校註11-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～四、過度自信的比丘 (偈 149)。
+
+.. [NandFn11-05] 〔Nanda 校註11-05〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～六、念念不忘小過的末利皇后 (偈 151)。
+
+.. [NandFn11-06] 〔Nanda 校註11-06〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～七、總是說錯話的比丘 (偈 152)。
+
+.. [NandFn11-07] 〔Nanda 校註11-07〕 請參 `153-54 研讀 <{filename}../dhp-study153-4%zh.rst>`__ 。 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～八、佛陀的讚美詞 (偈 153~154)。 
+
+.. [NandFn11-08] 〔校註11-08〕 法雨道場( 明法 法師)出版之修訂版，建議改"棟樑亦摧折"
 
                      說明：實無需要；蓋，樑乃「梁」之異體字也。
 
