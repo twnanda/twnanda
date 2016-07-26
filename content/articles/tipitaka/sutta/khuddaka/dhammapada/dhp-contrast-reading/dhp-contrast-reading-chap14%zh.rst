@@ -3,7 +3,7 @@
 ==========================================================================
 
 :date: 2016-06-04 16:00
-:modified: 2016-07-01 15:00
+:modified: 2016-07-26 22:00
 :tags: 法句經, 法句經對讀, 佛陀品, Dhp, Dhammapada, Buddhavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Buddha
@@ -77,7 +77,7 @@
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - **十四、佛陀品**
 
-       一七九　 [LChnFn14-01]_ **彼之勝利** [LChnFn14-02]_ 無能勝，敗者於世無可從** [LChnFn14-03]_ **，佛（智）無邊無行跡** [LChnFn14-04]_ **，汝復以何而誑惑？**
+       一七九　**彼之勝利無能勝，敗者於世無可從，佛（智）無邊無行跡，汝復以何而誑惑？** [LChnFn14-01]_ 、 [LChnFn14-02]_ 、 [LChnFn14-03]_ 、 [LChnFn14-04]_ 、 [MettFn14-01]_ 、 [NandFn14-01]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 第十四：佛陀品
@@ -143,7 +143,7 @@
        179 He whose conquest is not conquered again, into whose conquest no one in this world enters, by what track can you lead him, the Awakened, the Omniscient, the trackless?
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 179 <{filename}../dhA/dhA-chap14%zh.rst#Dhp179>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 179 <{filename}../dhA/dhA-chap14%zh.rst#dhp179>`__
 
 .. _Dhp180:
 
@@ -161,7 +161,7 @@
        | Taṃ buddhamanantagocaraṃ, apadaṃ kena padena nessatha.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一八０　 **彼已不具於結縛，愛欲難以誘使去，佛（智）無邊無行跡，汝復以何而誑惑？**
+     - 一八０　 **彼已不具於結縛，愛欲難以誘使去，佛（智）無邊無行跡，汝復以何而誑惑？** [NandFn14-01]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 180 他沒有羅網般糾纏的貪愛會帶引他去任何地方，
@@ -214,7 +214,7 @@
      - 180 He whom no desire with its snares and poisons can lead astray, by what track can you lead him, the Awakened, the Omniscient, the trackless?
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 180 <{filename}../dhA/dhA-chap14%zh.rst#Dhp180>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 180 <{filename}../dhA/dhA-chap14%zh.rst#dhp180>`__
 
 .. _Dhp181:
 
@@ -232,7 +232,7 @@
        | Devāpi tesaṃ pihayanti, sambuddhānaṃ satīmataṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一八一　智者修禪定，喜出家 [LChnFn14-05]_ 寂靜，正念正覺者，天人所敬愛。
+     - 一八一　智者修禪定，喜出家寂靜，正念正覺者，天人所敬愛。 [LChnFn14-05]_ 、 [MettFn14-02]_ 、 [MettFn14-03]_ 、 [NandFn14-02]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 181 賢者熱衷於禪修，樂於出離之寂靜。
@@ -273,7 +273,7 @@
      - 181 Even the gods envy those who are awakened and not forgetful, who are given to meditation, who are wise, and who delight in the repose of retirement (from the world).
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 181 <{filename}../dhA/dhA-chap14%zh.rst#Dhp181>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 181 <{filename}../dhA/dhA-chap14%zh.rst#dhp181>`__
 
 .. _Dhp182:
 
@@ -291,7 +291,7 @@
        | Kicchaṃ saddhammassavanaṃ, kiccho buddhānamuppādo.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一八二　得生人道難，生得壽終難，得聞正法難，遇佛出世難。
+     - 一八二　得生人道難，生得壽終難，得聞正法難，遇佛出世難。 [MettFn14-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 182 甚難獲得此人身，會死生命真難過，
@@ -331,7 +331,7 @@
      - 182 Difficult (to obtain) is the conception of men, difficult is the life of mortals, difficult is the hearing of the True Law, difficult is the birth of the Awakened (the attainment of Buddhahood).
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 182 <{filename}../dhA/dhA-chap14%zh.rst#Dhp182>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 182 <{filename}../dhA/dhA-chap14%zh.rst#dhp182>`__
 
 .. _Dhp183:
 
@@ -349,7 +349,7 @@
        | Sacittapariyodapanaṃ [sacittapariyodāpanaṃ (?)], etaṃ buddhāna sāsanaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一八三　 **一切惡莫作，一切善應行，自調淨其意，是則諸佛教。** ( `183 研讀 <{filename}../dhp-study183%zh.rst>`__ ).
+     - 一八三　 **一切惡莫作，一切善應行，自調淨其意，是則諸佛教。** [MettFn14-05]_、 [MettFn14-08]_ 、 [NandFn14-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 183 不造作一切惡，圓滿種種的善，
@@ -436,7 +436,7 @@
      - 183 Not to commit any sin, to do good, and to purify one's mind, that is the teaching of (all) the Awakened.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 183 <{filename}../dhA/dhA-chap14%zh.rst#Dhp183>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 183 <{filename}../dhA/dhA-chap14%zh.rst#dhp183>`__
 
 .. _Dhp184:
 
@@ -456,7 +456,7 @@
        | Na hi pabbajito parūpaghātī, na [ayaṃ nakāro sī. syā. pī. pātthakesu na dissati] samaṇo hoti paraṃ viheṭhayanto.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一八四　諸佛說涅槃最上，忍辱為最高苦行。害他實非出家者，惱他不名為沙門。
+     - 一八四　諸佛說涅槃最上，忍辱為最高苦行。害他實非出家者，惱他不名為沙門。 [MettFn14-08]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 184 忍辱是最高的磨練，諸佛皆說涅槃至上。
@@ -544,7 +544,7 @@
      - 184 The Awakened call patience the highest penance, long-suffering the highest Nirvana; for he is not an anchorite (pravragita) who strikes others, he is not an ascetic (sramana) who insults others.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 184 <{filename}../dhA/dhA-chap14%zh.rst#Dhp184>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 184 <{filename}../dhA/dhA-chap14%zh.rst#dhp184>`__
 
 .. _Dhp185:
 
@@ -564,7 +564,7 @@
        | Adhicitte ca āyogo, etaṃ buddhāna sāsanaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一八五　不誹與不害，嚴持於戒律 [LChnFn14-06]_ ，飲食知節量，遠處而獨居，勤修增上定 [LChnFn14-07]_ ，是為諸佛教。
+     - 一八五　不誹與不害，嚴持於戒律，飲食知節量，遠處而獨居，勤修增上定，是為諸佛教。 [LChnFn14-06]_ 、 [LChnFn14-07]_ 、 [MettFn14-06]_ 、 [MettFn14-07]_ 、 [MettFn14-08]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 185 莫辱罵莫傷害、依護解脫克制、
@@ -653,7 +653,7 @@
      - 185 Not to blame, not to strike, to live restrained under the law, to be moderate in eating, to sleep and sit alone, and to dwell on the highest thoughts,--this is the teaching of the Awakened.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 185 <{filename}../dhA/dhA-chap14%zh.rst#Dhp185>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 185 <{filename}../dhA/dhA-chap14%zh.rst#dhp185>`__
 
 .. _Dhp186:
 
@@ -671,7 +671,7 @@
        | Appassādā dukhā kāmā, iti viññāya paṇḍito.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一八六　 [LChnFn14-08]_ 即使雨金錢，欲心不滿足。智者知淫欲，樂少而苦多！
+     - 一八六　即使雨金錢，欲心不滿足。智者知淫欲，樂少而苦多！  [LChnFn14-08]_ 、 [MettFn14-09]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 186-187 沒有金幣雨能滿足的貪欲。
@@ -731,7 +731,7 @@
      - 186 There is no satisfying lusts, even by a shower of gold pieces; he who knows that lusts have a short taste and cause pain, he is wise;
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 186 <{filename}../dhA/dhA-chap14%zh.rst#Dhp186>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 186 <{filename}../dhA/dhA-chap14%zh.rst#dhp186>`__
 
 .. _Dhp187:
 
@@ -749,7 +749,7 @@
        | Taṇhakkhayarato hoti, sammāsambuddhasāvako.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一八七　故彼於天欲，亦不起希求。正覺者弟子，希滅於愛欲。
+     - 一八七　故彼於天欲，亦不起希求。正覺者弟子，希滅於愛欲。 [MettFn14-09]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 186-187 沒有金幣雨能滿足的貪欲。
@@ -806,7 +806,7 @@
      - 187 Even in heavenly pleasures he finds no satisfaction, the disciple who is fully awakened delights only in the destruction of all desires.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 187 <{filename}../dhA/dhA-chap14%zh.rst#Dhp187>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 187 <{filename}../dhA/dhA-chap14%zh.rst#dhp187>`__
 
 .. _Dhp188:
 
@@ -824,7 +824,7 @@
        | Ārāmarukkhacetyāni, manussā bhayatajjitā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一八八　 [LChnFn14-09]_ 諸人恐怖故，去皈依山岳，或依於森林，園苑樹支提 [LChnFn14-10]_ 。
+     - 一八八　諸人恐怖故，去皈依山岳，或依於森林，園苑樹支提。 [LChnFn14-09]_ 、 [LChnFn14-10]_ 、 [MettFn14-10]_ 、 [MettFn14-12]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 188 被怖畏驚嚇的人尋求許多歸依處：
@@ -927,7 +927,7 @@
      - 188 Men, driven by fear, go to many a refuge, to mountains and forests, to groves and sacred trees.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 188 <{filename}../dhA/dhA-chap14%zh.rst#Dhp188>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 188 <{filename}../dhA/dhA-chap14%zh.rst#dhp188>`__
 
 .. _Dhp189:
 
@@ -945,7 +945,7 @@
        | Netaṃ saraṇamāgamma, sabbadukkhā pamuccati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一八九　此非安穩依，此非最上依，如是皈依者，不離一切苦。
+     - 一八九　此非安穩依，此非最上依，如是皈依者，不離一切苦。 [MettFn14-12]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 189 此非平安歸依處，此非至上歸依處。
@@ -1046,7 +1046,7 @@
      - 189 But that is not a safe refuge, that is not the best refuge; a man is not delivered from all pains after having gone to that refuge.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 189 <{filename}../dhA/dhA-chap14%zh.rst#Dhp189>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 189 <{filename}../dhA/dhA-chap14%zh.rst#dhp189>`__
 
 .. _Dhp190:
 
@@ -1064,7 +1064,7 @@
        | Cattāri ariyasaccāni, sammappaññāya passati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一九０　若人皈依佛，皈依法及僧，由於正智慧，得見四聖諦。
+     - 一九０　若人皈依佛，皈依法及僧，由於正智慧，得見四聖諦。 [MettFn14-11]_ 、 [MettFn14-12]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 190 歸依佛與法與僧者，以正慧知見四聖諦：
@@ -1164,7 +1164,7 @@
      - 190 He who takes refuge with Buddha, the Law, and the Church; he who, with clear understanding, sees the four holy truths:--
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 190 <{filename}../dhA/dhA-chap14%zh.rst#Dhp190>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 190 <{filename}../dhA/dhA-chap14%zh.rst#dhp190>`__
 
 .. _Dhp191:
 
@@ -1182,7 +1182,7 @@
        | Ariyaṃ caṭṭhaṅgikaṃ maggaṃ, dukkhūpasamagāminaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一九一　苦與苦之因，以及苦之滅 [LChnFn14-11]_ ，並八支聖道，能令苦寂滅 [LChnFn14-12]_ 。
+     - 一九一　苦與苦之因，以及苦之滅，並八支聖道，能令苦寂滅。 [LChnFn14-11]_ 、 [LChnFn14-12]_ 、 [MettFn14-12]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 191 苦、苦的集起、超越苦與導向苦止息的八支聖道。
@@ -1282,7 +1282,7 @@
      - 191 Viz. pain, the origin of pain, the destruction of pain, and the eightfold holy way that leads to the quieting of pain;--
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 191 <{filename}../dhA/dhA-chap14%zh.rst#Dhp191>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 191 <{filename}../dhA/dhA-chap14%zh.rst#dhp191>`__
 
 .. _Dhp192:
 
@@ -1300,7 +1300,7 @@
        | Etaṃ saraṇamāgamma, sabbadukkhā pamuccati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一九二　此 [LChnFn14-13]_ 皈依安穩，此皈依無上，如是皈依者，解脫一切苦。
+     - 一九二　此皈依安穩，此皈依無上，如是皈依者，解脫一切苦。  [LChnFn14-13]_ 、 [MettFn14-12]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 192 這是平安歸依處，這是至上歸依處。
@@ -1400,7 +1400,7 @@
      - 192 That is the safe refuge, that is the best refuge; having gone to that refuge, a man is delivered from all pain.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 192 <{filename}../dhA/dhA-chap14%zh.rst#Dhp192>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 192 <{filename}../dhA/dhA-chap14%zh.rst#dhp192>`__
 
 .. _Dhp193:
 
@@ -1418,7 +1418,7 @@
        | Yattha so jāyati dhīro, taṃ kulaṃ sukhamedhati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一九三　聖人 [LChnFn14-14]_ 極難得，彼非隨處生；智者所生處，家族咸蒙慶。
+     - 一九三　聖人極難得，彼非隨處生；智者所生處，家族咸蒙慶。 [LChnFn14-14]_ 、 [MettFn14-13]_ 、 [MettFn14-14]_ 、 [MettFn14-15]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 193 至聖潔者甚難得，他不生於一切處。
@@ -1462,7 +1462,7 @@
      - 193 A supernatural person (a Buddha) is not easily found, he is not born everywhere. Wherever such a sage is born, that race prospers.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 193 <{filename}../dhA/dhA-chap14%zh.rst#Dhp193>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 193 <{filename}../dhA/dhA-chap14%zh.rst#dhp193>`__
 
 .. _Dhp194:
 
@@ -1480,7 +1480,7 @@
        | Sukhā saṅghassa sāmaggī, samaggānaṃ tapo sukho.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一九四　諸佛出現樂，演說正法樂，僧伽和合樂，修士和合樂。
+     - 一九四　諸佛出現樂，演說正法樂，僧伽和合樂，修士和合樂。 [MettFn14-16]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 194 諸佛的出現是樂，正法的宣說是樂，
@@ -1529,7 +1529,7 @@
      - 194 Happy is the arising of the awakened, happy is the teaching of the True Law, happy is peace in the church, happy is the devotion of those who are at peace.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 194 <{filename}../dhA/dhA-chap14%zh.rst#Dhp194>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 194 <{filename}../dhA/dhA-chap14%zh.rst#dhp194>`__
 
 .. _Dhp195:
 
@@ -1547,7 +1547,7 @@
        | Papañcasamatikkante, tiṇṇasokapariddave.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一九五　 [LChnFn14-15]_ 供養供應者──脫離於虛妄，超越諸憂患，佛及佛弟子。
+     - 一九五　供養供應者──脫離於虛妄，超越諸憂患，佛及佛弟子。 [LChnFn14-15]_ 、 [MettFn14-17]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 195 他頂禮應頂禮的人，無論是佛陀或弟子：
@@ -1594,7 +1594,7 @@
      - 195, 196. He who pays homage to those who deserve homage, whether the awakened (Buddha) or their disciples, those who have overcome the host (of evils), and crossed the flood of sorrow, he who pays homage to such as have found deliverance and know no fear, his merit can never be measured by anybody.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 195 <{filename}../dhA/dhA-chap14%zh.rst#Dhp195>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 195 <{filename}../dhA/dhA-chap14%zh.rst#dhp195>`__
 
 .. _Dhp196:
 
@@ -1618,7 +1618,7 @@
        **Buddhavaggo cuddasamo niṭṭhito.**
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一九六　若供養如是──寂靜無畏者，其所得功德，無能測量者。
+     - 一九六　若供養如是──寂靜無畏者，其所得功德，無能測量者。 [MettFn14-17]_
 
        **佛陀品第十四竟**
 
@@ -1670,7 +1670,7 @@
      - 195, 196. He who pays homage to those who deserve homage, whether the awakened (Buddha) or their disciples, those who have overcome the host (of evils), and crossed the flood of sorrow, he who pays homage to such as have found deliverance and know no fear, his merit can never be measured by anybody.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 196 <{filename}../dhA/dhA-chap14%zh.rst#Dhp196>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十四：佛陀品 Dhp. 196 <{filename}../dhA/dhA-chap14%zh.rst#dhp196>`__
 
 --------------
 
@@ -1751,6 +1751,55 @@
 
 .. [CFFn14-02] 〔敬法法師註14-02〕 32 註：於此，至聖潔者與賢者是指佛陀。
 
+.. [MettFn14-01] 〔明法尊者註14-01〕 **佛智無邊.無行跡** ：佛陀的智慧無邊(指具有「一切知智」sabbaññuta-ñāṇa)。無行跡(anantagocaraṁ)指無任何貪愛、無明之行為。
+
+.. [MettFn14-02] 〔明法尊者註14-02〕 **修禪定** ：DhA.：「 **凡是徹底從事禪那** ︰即思慮「相」、思慮「所緣」，在這兩種禪那上，會合應用：轉向、進入(定)、立足(定)、出定、省察(等五自在)。」
+
+.. [MettFn14-03] 〔明法尊者註14-03〕 **出家寂靜** ：nekkhammupasama，離欲.寂靜。
+
+
+.. [MettFn14-04] 〔明法尊者註14-04〕 霍香葉龍王(Erakapatta伊羅鉢多)在迦葉佛時為一比丘，因後悔拔霍香葉，持戒不圓滿，死後投生為一條獨木舟大小的龍王。霍香葉龍王派美麗的女兒每半個月到人間唱歌跳舞，兼出問題，如果可以全部解答就可能娶她為妻。題目是︰「誰是主宰王？誰是染污王？怎樣評論離染？怎樣評論愚蠢？」一位年輕人正要走去回答問題。佛陀觀察他有證果的潛力，於是在中途攔下，告訴他正確答案︰「主宰六門者稱王。受染污者為染污王。無染者為離染。染者稱為愚蠢。」他當下就證初果。他對龍女的欲望也消失，不夠他仍然前往回答。龍王知道有佛陀已出世，就跟他去見佛陀。佛陀說此偈。(《佛本行集經》卷第三十七~八,T3.825.3 ff.；cf.《大比丘三千威儀》卷上,T24.913.2)
+
+                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～三、龍王和他的女兒 (偈 182)。
+
+.. [MettFn14-05] 〔明法尊者註14-05〕 Sabbapāpassa akaranaṁ, kusalassa upasampadā, sacittapariyodapanaṁ, etaṁ Buddhāna sāsanaṁ. 本偈一般流傳：「諸惡莫作，眾善奉行，自淨其意，是諸佛教。」原意是︰「一切惡不作，具足眾善，淨化自心，這是一切佛陀所教示的。」
+
+.. [MettFn14-06] 〔明法尊者註14-06〕 **嚴持於戒律** ︰pātimokkhe ca saṁvaro，即比丘守護比丘戒(波羅提木叉)。
+
+.. [MettFn14-07] 〔明法尊者註14-07〕 **增上定** ︰即增上心（adhicitta）指禪定，四禪、四空定。
+
+.. [MettFn14-08] 〔明法尊者註14-08〕 有一次，阿難尊者請教佛陀，過去七佛的父母、壽量、菩提、聲聞眾、上首聲聞眾、上首侍者、所有的講說、不說布薩、為什麼他們不說布薩？其他的佛陀又如何？佛陀回答說，所有諸佛的佛法都是一樣的，佛陀馬上背誦過去諸佛在說法時所開講的一些偈語。
+
+                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～四、佛陀的教誨 (偈 183~185)。
+
+.. [MettFn14-09] 〔明法尊者註14-09〕  (Dhp. 186: cf. M i130); 一位比丘因父親過世，留遺產給他和弟弟，起初他說他不需要，後來，他想想如果有錢日子就好過，因此就悶悶不樂。佛陀就給他一些告誡。
+
+                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～五、不知足的年輕比丘 (偈 186~187)。
+
+.. [MettFn14-10] 〔明法尊者註14-10〕 **樹支提** ︰樹塔廟，建廟於樹邊，祭樹神。凡夫因恐怖的緣故，去皈依山岳、森林、園林、樹塔廟。在台灣也有拜樹頭公。
+
+.. [MettFn14-11] 〔明法尊者註14-11〕 **四聖諦** ：苦、集(苦因)、滅(苦滅--涅槃)、道(苦滅之道--八支聖道)。時時能實踐四聖諦，不久即可使苦滅絕。
+
+.. [MettFn14-12] 〔明法尊者註14-12〕 (Dhp. 192: cp. Dhp. 189); 火授婆羅門(Aggidattabrāhmaṇa)是摩訶憍薩羅王(Mahākosala)的國師，摩訶憍薩羅王是波斯匿王的父親。摩訶憍薩羅王逝世後，火授棄產，離家，成為苦行者。他住處附近有一隻兇猛的傘蛇(ahichatta)，火授向弟子說：「皈依山岳、森林、園林、樹，如此，你們就可以解除所有的痛苦。」有一天，佛陀跟大目犍連尊者就到火授的住處，借宿一夜。火授原本不答應，後來帶他們去傘蛇住的地方。這隻傘蛇被大目犍連尊者降伏。隔天，佛陀告誡火授：「只有依止佛法僧的人才能從世間苦解脫出來。」說法畢，火授和他的弟子們證得阿羅漢果，他們也都加入僧伽為比丘。
+
+                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～六、祀得皈依三寶 (偈 188~192)。
+
+.. [MettFn14-13] 〔明法尊者註14-13〕 **聖人** ︰purisājañño(purisa+jañña, 純粹的﹑貴族的)，優秀的人，指佛陀。
+
+.. [MettFn14-14] 〔明法尊者註14-14〕 DhA.： **yattha so jāyati dhīro** uttamapañño sammāsambuddho.( **智者所生處** ：最上智的佛陀。)
+
+.. [MettFn14-15] 〔明法尊者註14-15〕 有一天，阿難尊者想到一個問題：「佛陀告訴我們，純種的大象生長在參達塔種(Chaddantakule) 和優薩陀種(Uposathakule)，純種馬生長在信度種(Sindhavakule) 和哇拉卡沙王種 (Valāhakassarājakule)，純種牛生長在南方(dakkhiṇapathe)，但卻未提及最尊貴的人(purisājañño) 到底生長在何處？」於是，他就前去請教佛陀。佛陀說此偈。
+
+                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～七、最高貴的人 (偈 193)。
+
+.. [MettFn14-16] 〔明法尊者註14-16〕 諸比丘討論「在世間的幸福是什麼？」(“kiṁ nu kho imasmiṁ loke sukhan”ti)，佛陀說此偈。
+
+                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～八、幸福是什麼 (偈 194)。
+
+.. [MettFn14-17] 〔明法尊者註14-17〕 一婆羅門在耕作，佛陀請他過來相見。婆羅門來的時候順便拜天祠，但他沒有禮敬佛陀。佛陀肯定他拜天祠是對的，婆羅門就心情愉快。佛陀運用神通，在空中示現迦葉佛的金色塔，又說造塔的事，再說偈頌。
+
+                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～九、尊敬值得尊敬的人 (偈 195~196)。
+
 .. [NāradaFn14-01] (Ven. Nārada 14-01) As the Buddha had eradicated all passions of lust, hatred, and delusion they could not arise in Him any more. His spiritual victory was unconquerable.
 
 .. [NāradaFn14-02] (Ven. Nārada 14-02) Because the eradicated passions do not arise again.
@@ -1800,6 +1849,16 @@
 .. [ThaniSFn-V195-196] (Ven. Thanissaro V. 195-196) Objectification = papañca. Alternative translations of this term would be proliferation, elaboration, exaggeration, complication. The term is used both in philosophical contexts — in connection with troubles and conflict — and in artistic contexts, in connection with the way in which an artistic theme is objectified and elaborated. Sn 4.14 states that the classifications of objectification begin with the perception by which one objectifies oneself — "I am thinker" — and then spread to objectify the rest of experience around the issues caused by that perception. MN 18 explains how this leads to conflict: "Dependent on eye & forms, eye-consciousness arises. The meeting of the three is contact. With contact as a requisite condition, there is feeling. What one feels, one perceives [labels in the mind]. What one perceives, one thinks about. What one thinks about, one objectifies. Based on what a person objectifies, the perceptions & categories of objectification assail him/her with regard to past, present, & future forms cognizable via the eye. [Similarly with the other senses.]... Now, with regard to the cause whereby the perceptions & categories of objectification assail a person: if there is nothing there to relish, welcome, or remain fastened to, then that is the end of obsession with passion, irritation, views, uncertainty, conceit, passion for becoming, & ignorance. That is the end of taking up rods & bladed weapons, of arguments, quarrels, disputes, accusations, divisive tale-bearing, & false speech. That is where these evil, unskillful actions cease without remainder."
 
 .. [VaradoFn-V181] (Ven. Varado V.181)  Verse 181: "gods would wish their situation" (devāpi tesaṃ pihayanti). PED says pihayanti means desire or envy. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
+.. [NandFn14-01] 〔Nanda 校註14-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～一、向佛陀求婚 (偈 179~180)。
+
+.. [NandFn14-02] 〔Nanda 校註14-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～二、佛陀從忉利天返回世間 (偈 181)。
+
+.. [NandFn14-03] 〔Nanda 校註14-03〕 請參 `183 研讀 <{filename}../dhp-study183%zh.rst>`__ 。
 
 ---------------------------
 
