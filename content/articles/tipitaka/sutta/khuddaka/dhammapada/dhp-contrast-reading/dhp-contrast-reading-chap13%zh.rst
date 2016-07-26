@@ -3,7 +3,7 @@
 ===============================================================================
 
 :date: 2016-06-04 15:00
-:modified: 2016-07-01 15:00
+:modified: 2016-07-26 17:30
 :tags: 法句經, 法句經對讀, 世品, 世間品, Dhp, Dhammapada, Lokavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The World
@@ -71,7 +71,7 @@
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - **十三、世品**
 
-       一六七　莫從卑劣法。莫住於放逸。莫隨於邪見。莫增長世俗 [LChnFn13-01]_ 。 ( `167 典故 <{filename}../dhp-story/dhp-story167%zh.rst>`__ ).
+       一六七　莫從卑劣法。莫住於放逸。莫隨於邪見。莫增長世俗。 [LChnFn13-01]_ 、 [MettFn13-01]_ 、 [MettFn13-02]_ 、 [NandFn13-02]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 第十三：世間品
@@ -121,7 +121,7 @@
        167 Do not follow the evil law! Do not live on in thoughtlessness! Do not follow false doctrine! Be not a friend of the world.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 167 <{filename}../dhA/dhA-chap13%zh.rst#Dhp167>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 167 <{filename}../dhA/dhA-chap13%zh.rst#dhp167>`__
 
 .. _Dhp168:
 
@@ -139,7 +139,7 @@
        | Dhammacārī sukhaṃ seti, asmiṃ loke paramhi ca.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一六八　 [LChnFn13-02]_ **奮起莫放逸！行正法善行。依正法行者，此世他世樂。**
+     - 一六八　**奮起莫放逸！行正法善行。依正法行者，此世他世樂。**  [LChnFn13-02]_ 、 [NandFn13-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 168 應站立不可放逸，應妥善奉行此法。 [CFFn13-01]_
@@ -186,7 +186,7 @@
      - 168 Rouse thyself! do not be idle! Follow the law of virtue! The virtuous rests in bliss in this world and in the next.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 168 <{filename}../dhA/dhA-chap13%zh.rst#Dhp168>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 168 <{filename}../dhA/dhA-chap13%zh.rst#dhp168>`__
 
 .. _Dhp169:
 
@@ -204,7 +204,7 @@
        | Dhammacārī sukhaṃ seti, asmiṃ loke paramhi ca.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一六九　 **行正法善行。勿行於惡行。依正法行者，此世他世樂。** 
+     - 一六九　 **行正法善行。勿行於惡行。依正法行者，此世他世樂。** [NandFn13-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 169 應妥善奉行此法，莫不當地奉行它。
@@ -251,7 +251,7 @@
      - 169 Follow the law of virtue; do not follow that of sin. The virtuous rests in bliss in this world and in the next.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 169 <{filename}../dhA/dhA-chap13%zh.rst#Dhp169>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 169 <{filename}../dhA/dhA-chap13%zh.rst#dhp169>`__
 
 .. _Dhp170:
 
@@ -269,7 +269,7 @@
        | Evaṃ lokaṃ avekkhantaṃ, maccurājā na passati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一七０　視如水上浮漚，視如海市蜃樓，若人觀世如是，死王不得見他。
+     - 一七０　視如水上浮漚，視如海市蜃樓，若人觀世如是，死王不得見他。 [MettFn13-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 170 猶如看待水泡，猶如看待蜃景，
@@ -309,7 +309,7 @@
      - 170 Look upon the world as a bubble, look upon it as a mirage: the king of death does not see him who thus looks down upon the world.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 170 <{filename}../dhA/dhA-chap13%zh.rst#Dhp170>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 170 <{filename}../dhA/dhA-chap13%zh.rst#dhp170>`__
 
 .. _Dhp171:
 
@@ -327,7 +327,7 @@
        | Yattha bālā visīdanti, natthi saṅgo vijānataṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一七一　來看言個世界，猶如莊嚴王車。愚人沈湎此中，智者毫無執著。
+     - 一七一　來看言個世界，猶如莊嚴王車。愚人沈湎此中，智者毫無執著。 [MettFn13-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 171 你們來看這個世界，像莊嚴的皇家馬車；
@@ -367,7 +367,7 @@
      - 171 Come, look at this glittering world, like unto a royal chariot; the foolish are immersed in it, but the wise do not touch it.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 171 <{filename}../dhA/dhA-chap13%zh.rst#Dhp171>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 171 <{filename}../dhA/dhA-chap13%zh.rst#dhp171>`__
 
 .. _Dhp172:
 
@@ -385,7 +385,7 @@
        | Somaṃ lokaṃ pabhāseti, abbhā muttova candimā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一七二　若人先放逸，但後不放逸。彼照耀此世，如月出雲翳。
+     - 一七二　若人先放逸，但後不放逸。彼照耀此世，如月出雲翳。 [MettFn13-05]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 172 在以前曾經放逸，後來不放逸的人，
@@ -436,7 +436,7 @@
      - 172 He who formerly was reckless and afterwards became sober, brightens up this world, like the moon when freed from clouds.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 172 <{filename}../dhA/dhA-chap13%zh.rst#Dhp172>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 172 <{filename}../dhA/dhA-chap13%zh.rst#dhp172>`__
 
 .. _Dhp173:
 
@@ -454,7 +454,7 @@
        | Somaṃ lokaṃ pabhāseti, abbhā muttova candimā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一七三　若作惡業已，覆之以善者。彼照耀此世，如月出雲翳。
+     - 一七三　若作惡業已，覆之以善者。彼照耀此世，如月出雲翳。 [MettFn13-06]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 173 對於已造的惡業，他以善來做彌補， [CFFn13-02]_
@@ -507,7 +507,7 @@
      - 173 He whose evil deeds are covered by good deeds, brightens up this world, like the moon when freed from clouds.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 173 <{filename}../dhA/dhA-chap13%zh.rst#Dhp173>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 173 <{filename}../dhA/dhA-chap13%zh.rst#dhp173>`__
 
 .. _Dhp174:
 
@@ -525,7 +525,7 @@
        | Sakuṇo jālamuttova, appo saggāya gacchati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一七四　此世界盲暝 [LChnFn13-03]_ 。能得此者少。如鳥脫羅網，鮮有昇天者。 [NandFn13-01]_  ( `174 典故 <{filename}../dhp-story/dhp-story174%zh.rst>`__ ).
+     - 一七四　此世界盲暝。能得此者少。如鳥脫羅網，鮮有昇天者。  [LChnFn13-03]_ 、 [NandFn13-01]_ 、 [NandFn13-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 174 這個世界是黑暗的，於此能觀之人很少。
@@ -567,7 +567,7 @@
      - 174 This world is dark, few only can see here; a few only go to heaven, like birds escaped from the net.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 174 <{filename}../dhA/dhA-chap13%zh.rst#Dhp174>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 174 <{filename}../dhA/dhA-chap13%zh.rst#dhp174>`__
 
 .. _Dhp175:
 
@@ -585,7 +585,7 @@
        | Nīyanti dhīrā lokamhā, jetvā māraṃ savāhiniṃ [savāhanaṃ (syā. ka.)].
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一七五　天鵝飛行太陽道 [LChnFn13-04]_ ，以神通力可行空。智者破魔王魔眷，得能脫離於世間。
+     - 一七五　天鵝飛行太陽道，以神通力可行空。智者破魔王魔眷，得能脫離於世間。 [LChnFn13-04]_ 、 [MettFn13-07]_ 、 [MettFn13-08]_ 、 [MettFn13-09]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 175 天鵝在太陽行道飛翔，人以神通在空中飛行；
@@ -624,7 +624,7 @@
      - 175 The swans go on the path of the sun, they go through the ether by means of their miraculous power; the wise are led out of this world, when they have conquered Mara and his train.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 175 <{filename}../dhA/dhA-chap13%zh.rst#Dhp175>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 175 <{filename}../dhA/dhA-chap13%zh.rst#dhp175>`__
 
 .. _Dhp176:
 
@@ -642,7 +642,7 @@
        | Vitiṇṇaparalokassa, natthi pāpaṃ akāriyaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一七六　違犯一（乘）法 [LChnFn13-05]_ ，及說妄語者，不信來世者，則無惡不作。
+     - 一七六　違犯一（乘）法，及說妄語者，不信來世者，則無惡不作。 [LChnFn13-05]_ 、 [MettFn13-10]_ 、 [MettFn13-11]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 176 對違犯一法、說妄語的人、 [CFFn13-03]_
@@ -693,7 +693,7 @@
      - 176 If a man has transgressed one law, and speaks lies, and scoffs at another world, there is no evil he will not do.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 176 <{filename}../dhA/dhA-chap13%zh.rst#Dhp176>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 176 <{filename}../dhA/dhA-chap13%zh.rst#dhp176>`__
 
 .. _Dhp177:
 
@@ -713,7 +713,7 @@
        | Dhīro ca dānaṃ anumodamāno, teneva  so hoti sukhī parattha.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一七七　慳者不生天。愚者不讚布施。智者隨喜施，後必得安樂。
+     - 一七七　慳者不生天。愚者不讚布施。智者隨喜施，後必得安樂。 [NandFn13-05]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 177 吝嗇的人不會上生天界，愚人的確不會讚歎佈施；
@@ -756,7 +756,7 @@
      - 177 The uncharitable do not go to the world of the gods; fools only do not praise liberality; a wise man rejoices in liberality, and through it becomes blessed in the other world.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 177 <{filename}../dhA/dhA-chap13%zh.rst#Dhp177>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 177 <{filename}../dhA/dhA-chap13%zh.rst#dhp177>`__
 
 .. _Dhp178:
 
@@ -780,7 +780,7 @@
        **Lokavaggo terasamo niṭṭhito.**
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一七八　一統大地者，得生天上者，一切世界主，不及預流 [LChnFn13-06]_ 勝。 ( `178 典故 <{filename}../dhp-story/dhp-story178%zh.rst>`__ ).
+     - 一七八　一統大地者，得生天上者，一切世界主，不及預流 [LChnFn13-06]_ 勝。 [MettFn13-12]_ 、 [NandFn13-06]_
 
        **世品第十三竟**
 
@@ -827,7 +827,7 @@
      - 178 Better than sovereignty over the earth, better than going to heaven, better than lordship over all worlds, is the reward of the first step in holiness.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 178 <{filename}../dhA/dhA-chap13%zh.rst#Dhp178>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十三：世品 (世間品) Dhp. 178 <{filename}../dhA/dhA-chap13%zh.rst#dhp178>`__
 
 --------------
 
@@ -896,6 +896,42 @@
 
 .. [CFFn13-03] 〔敬法法師註13-03〕 30 註釋：「 **一法** 」：真實。
 
+.. [MettFn13-01] 〔明法尊者註13-01〕 卑劣法：DhA：hīnaṁ dhammanti pañcakāmaguṇaṁ dhammaṁ.(卑劣法：五種欲的法。) 五種欲︰五種感官(眼、耳、鼻、舌、身、意)的欲望。
+
+.. [MettFn13-02] 〔明法尊者註13-02〕 世俗︰loka，指生死輪迴。
+
+.. [MettFn13-03] 〔明法尊者註13-03〕 有五百位修觀的比丘(pañcasate vipassake bhikkhū)到阿蘭若去禪修。但進展緩慢，他們決定回精舍向佛陀請示，途中，他們遇見了海市蜃樓(遠處景象透過空中折射產生的幻影)，就以這種業處作觀。當他們抵達精舍時，突然暴雨，大雨滴打在地上，形成水泡，很快就消失。他們因此如是思惟：「我們的身體就像這些水泡，終究會毀壞。」而察覺到五蘊無常。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～三、觀想海市蜃樓 (偈 170)。
+
+.. [MettFn13-04] 〔明法尊者註13-04〕 無畏王子(Abhayarājakumāra)弭平邊疆叛亂，回宮後，頻婆沙羅王(Bimbisāra)很高興，特派擅長歌舞的舞女犒勞七天，讓他享受國王般的待遇，在第七天，舞女暴斃，王子很傷心，他尋求佛陀的慰藉，佛陀說此偈。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～四、佛陀安慰悲傷的王子 (偈 171)。
+
+.. [MettFn13-05] 〔明法尊者註13-05〕 正人長老(Sammajjanatthera沙嗎迦那)大部分的時間都在掃地，同住比丘建議他撥空觀身、觀生命實相、誦經等，他接受建議，不久即證得阿羅漢果。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～五、手執掃帚的比丘 (偈 172)。
+
+.. [MettFn13-06] 〔明法尊者註13-06〕 (cp. Dhp 172) (cf. M ii 104); 本則為佛陀為鴦掘摩羅長老(Aṅgulimālatthera)而說的。鴦掘摩羅原為殺人魔王，後來被佛陀降伏，出家，證得阿羅漢果。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～六、證聖果的殺人兇手 (偈 173)。
+
+.. [MettFn13-07] 〔明法尊者註13-07〕 **太陽道** ：太陽行走的道路，即虛空。
+
+.. [MettFn13-08] 〔明法尊者註13-08〕 **神通力** ︰超出常人的特別能力，如能遠視、遠聽或飛行等。修鍊禪定達第四禪時，可以進一步引發超常的神通。
+
+.. [MettFn13-09] 〔明法尊者註13-09〕 約有三十位比丘來會見佛陀，阿難尊者轉身出去一下，再進來，他們都不見了，阿難尊者問︰「他們去哪裡？」「阿難！走了。」「大德！怎麼走的？」「阿難！從天空走。」「他們是漏盡者？」「他們聽法之後證得阿羅漢果。」
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～八、三十位比丘突然消失 (偈 175)。
+
+.. [MettFn13-10] 〔明法尊者註13-10〕 **一乘法** ：ekaṁ dhammaṁ(一法)，是指真理(saccaṁ諦)。
+
+.. [MettFn13-11] 〔明法尊者註13-11〕 在舍衛城，信佛法者日增，信外道者日減。於是外道就慫恿一位美麗的女信徒辛迦摩娜薇卡(Ciñcamāṇavikā)假裝跟佛陀懷孕，並要佛陀當眾出醜。正在聚眾說法的場面，她出面指責佛陀，但是正當此時，綁在她的腰部的繩子斷了，她的技倆就被拆穿了。大眾中很多人譴責她。這時候，她擔心自己的安危，趕快逃跑。但跑不了多遠，就不幸發生意外而慘死。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～九、辛迦摩娜薇卡誣告佛陀 (偈 176)。
+
+.. [MettFn13-12] 〔明法尊者註13-12〕 **預流果** ：sotapattiphalaṁ，即初果、須陀洹果，證悟預流果即入聖人的行  列，它斷除了三結──身見(我見，以為有永恆不變的我)、疑(懷疑因果、緣起、佛.法.僧)、戒禁取見(邪因以為正因，邪道以為正道)。
+
 .. [NāradaFn13-01] (Ven. Nārada 13-01) That is, sensual pleasures.
 
 .. [NāradaFn13-02] (Ven. Nārada 13-02) By being subject to repeated births and deaths.
@@ -949,14 +985,23 @@
 
 .. [ThaniSFn-V178] (Ven. Thanissaro V.178) The fruit of stream-entry is the first of the four stages of Awakening (see note 22). A person who has attained stream entry — entry into the stream that flows inevitably to Unbinding — is destined to attain full Awakening within at most seven lifetimes, never falling below the human state in the interim.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
 
-校註：
-------
+**校註：**
 
-.. [NandFn13-01] 〔校註13-001〕 能得見者少
+.. [NandFn13-01] 〔校註13-01〕 能得見者少
 
                      說明：參考法雨道場( 明法 法師)出版之修訂版，依巴、英及語體本更正。
+
+.. [NandFn13-02] 〔Nanda 校註13-02〕 請參 `167 典故 <{filename}../dhp-story/dhp-story167%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～一、與少女爭吵的比丘 (偈 167)。
+
+.. [NandFn13-03] 〔Nanda 校註13-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～二、佛陀返回迦毗羅衛城 (偈 168~169)。
+
+.. [NandFn13-04] 〔Nanda 校註13-04〕 請參 `174 典故 <{filename}../dhp-story/dhp-story174%zh.rst>`__ ；或  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～七、明白世間實相的紡織女 (偈 174)。
+
+.. [NandFn13-05] 〔Nanda 校註13-05〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～十、供養比賽 (偈 177)。
+
+.. [NandFn13-06] 〔Nanda 校註13-06〕 請參 `178 典故 <{filename}../dhp-story/dhp-story178%zh.rst>`__ ；或  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～十一、給孤獨長者兒子的故事 (偈 178)。
 
 ---------------------------
 

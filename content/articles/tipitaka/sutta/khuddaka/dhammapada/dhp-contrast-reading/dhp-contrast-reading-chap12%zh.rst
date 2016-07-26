@@ -3,7 +3,7 @@
 ==============================================================================
 
 :date: 2016-06-04 15:00
-:modified: 2016-07-01 15:00
+:modified: 2016-07-26 16:30
 :tags: 法句經, 法句經對讀, 自己品, 自品, Dhp, Dhammapada, Attavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Self
@@ -68,7 +68,7 @@
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - **十二、自己品**
 
-       一五七　若人知自愛，須善自保護。三時中一時 [LChnFn12-01]_ ，智者應醒覺。
+       一五七　若人知自愛，須善自保護。三時中一時，智者應醒覺。 [LChnFn12-01]_ 、 [MettFn12-01]_ 、 [MettFn12-02]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 第十二：自品
@@ -122,7 +122,7 @@
        157 If a man hold himself dear, let him watch himself carefully; during one at least out of the three watches a wise man should be watchful.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 157 <{filename}../dhA/dhA-chap12%zh.rst#Dhp157>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 157 <{filename}../dhA/dhA-chap12%zh.rst#dhp157>`__
 
 .. _Dhp158:
 
@@ -140,7 +140,7 @@
        | Athaññamanusāseyya, na kilisseyya paṇḍito.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一五八　第一將自己，安置於正道，然後教他人；賢者始無過。
+     - 一五八　第一將自己，安置於正道，然後教他人；賢者始無過。 [NandFn12-01]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 158 首先應該讓自己，建立起適當之法，
@@ -189,7 +189,7 @@
      - 158 Let each man direct himself first to what is proper, then let him teach others; thus a wise man will not suffer.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 158 <{filename}../dhA/dhA-chap12%zh.rst#Dhp158>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 158 <{filename}../dhA/dhA-chap12%zh.rst#dhp158>`__
 
 .. _Dhp159:
 
@@ -207,7 +207,7 @@
        | Sudanto vata dametha, attā hi kira duddamo.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一五九　若欲誨他者，應如己所行（自）制乃制（他），克己實最難。 ( `159 典故 <{filename}../dhp-story/dhp-story159%zh.rst>`__ ).
+     - 一五九　若欲誨他者，應如己所行（自）制乃制（他），克己實最難。 [NandFn12-02]_ 
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 159 正如指導別人那樣，自己也應該那樣做；
@@ -250,7 +250,7 @@
      - 159 If a man make himself as he teaches others to be, then, being himself well subdued, he may subdue (others); one's own self is indeed difficult to subdue.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 159 <{filename}../dhA/dhA-chap12%zh.rst#Dhp159>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 159 <{filename}../dhA/dhA-chap12%zh.rst#dhp159>`__
 
 .. _Dhp160:
 
@@ -268,7 +268,7 @@
        | Attanā hi sudantena, nāthaṃ labhati dullabhaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一六０　自為自依怙 [LChnFn12-02]_ ，他人何可依？自己善調御，證難得所依 [LChnFn12-03]_ 。
+     - 一六０　自為自依怙，他人何可依？自己善調御，證難得所依。 [LChnFn12-02]_ 、 [LChnFn12-03]_ 、 [MettFn12-03]_ 、 [MettFn12-04]_ 、 [NandFn12-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 160 自己是自己的依歸，他人怎能作為依歸？
@@ -312,7 +312,7 @@
      - 160 Self is the lord of self, who else could be the lord? With self well subdued, a man finds a lord such as few can find.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 160 <{filename}../dhA/dhA-chap12%zh.rst#Dhp160>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 160 <{filename}../dhA/dhA-chap12%zh.rst#dhp160>`__
 
 .. _Dhp161:
 
@@ -330,7 +330,7 @@
        | Abhimatthati [abhimantati (sī. pī.)] dummedhaṃ, vajiraṃ vasmamayaṃ [vajiraṃva’mhamayaṃ (syā. ka.)] maṇiṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一六一　惡業實由自己作，從自己生而自起。（惡業）摧壞於愚者，猶如金剛破寶石。
+     - 一六一　惡業實由自己作，從自己生而自起。（惡業）摧壞於愚者，猶如金剛破寶石。 [MettFn12-05]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 161 惡是由自己所造，自己生自己造成，
@@ -370,7 +370,7 @@
      - 161 The evil done by oneself, self-begotten, self-bred, crushes the foolish, as a diamond breaks a precious stone.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 161 <{filename}../dhA/dhA-chap12%zh.rst#Dhp161>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 161 <{filename}../dhA/dhA-chap12%zh.rst#dhp161>`__
 
 .. _Dhp162:
 
@@ -388,7 +388,7 @@
        | Karoti so tathattānaṃ, yathā naṃ icchatī diso.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一六二　破戒如蔓蘿，纏覆裟羅樹 [LChnFn12-04]_ 。彼自如此作，徒快敵者意。
+     - 一六二　破戒如蔓蘿，纏覆裟羅樹。彼自如此作，徒快敵者意。 [LChnFn12-04]_ 、 [MettFn12-06]_ 、 [NandFn12-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 162 對於極其邪惡者，如蔓藤纏娑羅樹，
@@ -426,7 +426,7 @@
      - 162 He whose wickedness is very great brings himself down to that state where his enemy wishes him to be, as a creeper does with the tree which it surrounds.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 162 <{filename}../dhA/dhA-chap12%zh.rst#Dhp162>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 162 <{filename}../dhA/dhA-chap12%zh.rst#dhp162>`__
 
 .. _Dhp163:
 
@@ -444,7 +444,7 @@
        | Yaṃ ve hitañca sādhuñca, taṃ ve paramadukkaraṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一六三　不善事易作，然無益於己；善與利益事，實為極難行。
+     - 一六三　不善事易作，然無益於己；善與利益事，實為極難行。 [MettFn12-07]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 163 對己無益的壞事，那是很容易做的，
@@ -489,7 +489,7 @@
      - 163 Bad deeds, and deeds hurtful to ourselves, are easy to do; what is beneficial and good, that is very difficult to do.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 163 <{filename}../dhA/dhA-chap12%zh.rst#Dhp163>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 163 <{filename}../dhA/dhA-chap12%zh.rst#dhp163>`__
 
 .. _Dhp164:
 
@@ -509,7 +509,7 @@
        | Phalāni kaṭṭhakasseva, attaghātāya [attaghaññāya (sī. syā. pī.)] phallati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一六四　惡慧愚癡人，以其邪見故，侮蔑羅漢教，依正法行者，以及尊者教，而自取毀滅，如格他格草，結果自滅亡 [LChnFn12-05]_ 。 ( `164 典故 <{filename}../dhp-story/dhp-story164%zh.rst>`__ ).
+     - 一六四　惡慧愚癡人，以其邪見故，侮蔑羅漢教，依正法行者，以及尊者教，而自取毀滅，如格他格草，結果自滅亡。 [LChnFn12-05]_ 、 [MettFn12-08]_ 、 [NandFn12-05]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 164 愚人因為邪見誹謗阿羅漢、聖者、依法而活者的教法，
@@ -560,7 +560,7 @@
      - 164 The foolish man who scorns the rule of the venerable (Arahat), of the elect (Ariya), of the virtuous, and follows false doctrine, he bears fruit to his own destruction, like the fruits of the Katthaka reed.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 164 <{filename}../dhA/dhA-chap12%zh.rst#Dhp164>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 164 <{filename}../dhA/dhA-chap12%zh.rst#dhp164>`__
 
 .. _Dhp165:
 
@@ -580,7 +580,8 @@
        | Suddhī asuddhi paccattaṃ, nāñño aññaṃ [nāññamañño(sī.)] visodhaye.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一六五　惡實由己作，染污亦由己；由己不作惡，清淨亦由己。淨不淨依己，他何能淨他？
+     - 一六五　惡實由己作，染污亦由己；由己不作惡，清淨亦由己。淨不淨依己，他何能淨他？ [NandFn12-06]_
+
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 165 惡是由自己所造，自己在污染自己，
        | 不造惡也由自己，是自己清淨自己。
@@ -629,7 +630,7 @@
      - 165 By oneself the evil is done, by oneself one suffers; by oneself evil is left undone, by oneself one is purified. Purity and impurity belong to oneself, no one can purify another.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 165 <{filename}../dhA/dhA-chap12%zh.rst#Dhp165>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 165 <{filename}../dhA/dhA-chap12%zh.rst#dhp165>`__
 
 .. _Dhp166:
 
@@ -653,7 +654,7 @@
        **Attavaggo dvādasamo niṭṭhito.**
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一六六　莫以利他事，忽於己利益 [LChnFn12-06]_ 。善知己利者，常專心利益。
+     - 一六六　莫以利他事，忽於己利益。善知己利者，常專心利益。 [LChnFn12-06]_ 、 [MettFn12-09]_ 、 [MettFn12-10]_
 
        **自己品第十二竟**
 
@@ -698,7 +699,7 @@
      - 166 Let no one forget his own duty for the sake of another's, however great; let a man, after he has discerned his own duty, be always attentive to his duty.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 166 <{filename}../dhA/dhA-chap12%zh.rst#Dhp166>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十二：自己品 Dhp. 166 <{filename}../dhA/dhA-chap12%zh.rst#dhp166>`__
 
 --------------
 
@@ -757,7 +758,36 @@
 
 .. [LChnFn12-06] 〔註12-06〕  指生死解脫事。
 
-.. [CFFn12-01] 〔敬法法師註12-01〕 27 註：「自己的福利」（attadatthaṁ）是指道、果與涅槃。
+.. [CFFn12-01] 〔敬法法師註12-01〕 註：「自己的福利」（attadatthaṁ）是指道、果與涅槃。
+
+.. [MettFn12-01] 〔明法尊者註12-01〕 **三時** ：過去、未來、現在。在此指指人生三時──青年、中年、老年，應該從事修行。
+
+.. [MettFn12-02] 〔明法尊者註12-02〕 菩提羅迦王子(Bodhirājakumāra)建了一座王宮，落成典禮時，他邀請佛陀前來祝福，並接受他的供養。他就在餐廳的地板上舖設長的地毯，並暗中許願，如果他們夫妻終究有子息，就請佛陀踏上地毯。當佛陀抵達時，佛陀卻駐足，不踏上地毯，王子就叫人把地毯收起來。佛陀告訴王子，他們夫婦今生不會有兒子，是因為過去世所造惡業的影響。在過去某一世時，王子夫婦是一次船難的生還者，他們被沖上一座荒島，只能吃鳥和鳥蛋為生，連幼鳥也不放過。因為這些惡業，他們今生不可能有子息。如果當時有悔意，他們今生就會有孩子了。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～一、沒有子息的王子 (偈 157)。
+
+.. [MettFn12-03] 〔明法尊者註12-03〕 修行者要依怙自己的經驗、判斷，依怙正法來達到解脫。
+
+.. [MettFn12-04] 〔明法尊者註12-04〕 **證難得所依** ：nāthaṁ labhati dullabhaṁ，證得難得的歸依處(涅槃)。
+
+.. [MettFn12-05] 〔明法尊者註12-05〕 住在王舍城的摩訶迦羅(Mahākāla)是須陀洹果的優婆塞，他到祇樹給孤獨園去參加齋戒，天快要亮了，他到精舍附近的池塘去洗臉，小偷把贓物丟在他的面前就逃逸，追趕的人把他當作小偷打死。這些比丘知情後，就回精舍向佛陀報告，佛陀回答他們：「他是在償還過去某一世的惡業。那時候，他愛上一位有夫之婦，而把婦人的丈夫打死。因此，惡有惡報，甚至使人墮落地獄。」
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～五、死得不是時候的信徒 (偈 161)。
+
+.. [MettFn12-06] 〔明法尊者註12-06〕 **蔓蘿(梵)** ：maluva，籐類。裟羅樹被此籐纏住將枯死。
+
+.. [MettFn12-07] 〔明法尊者註12-07〕 有一天，提婆達多跟佛陀說，他日漸衰老，建議他把僧團領導的責任移交給他。佛陀拒絕他。從此以後，他內心痛苦，也企圖殺害佛陀，但都失敗了。後來，他改採其它手段：建議所有的比丘，在一生之中都要遵守以下五條戒律(Vin.Cv.II,197.)：(1)(比丘)應該盡形壽住曠野(阿蘭若)，若到村落就犯罪。(2)應該盡形壽乞食，若受邀請食就犯罪。(3)應該盡形壽著糞掃衣，若受居士衣就犯罪。(4)應該盡形壽樹下住，若住屋就犯罪。(2)應該盡形壽不吃魚肉，若吃魚肉就犯罪。提婆達兜承認他所以提議增設五條戒律是要分裂僧伽。佛陀說：「提婆達兜如此分裂僧團，是非常嚴重的惡行，他將來會為這邪惡的企圖受苦難。」提婆達兜終於率領一群比丘到象頂山。後來，舍利弗尊者和大目犍連尊者前去勸誡跟隨他前去的比丘，其中很多比丘也知過悔改，回來依止佛陀。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～七、僧團不和的故事 (偈 163)。
+
+.. [MettFn12-08] 〔明法尊者註12-08〕 **格他格草** ：katthaka，蘆葦類，結實則死。
+
+
+.. [MettFn12-09] 〔明法尊者註12-09〕 **(自)己利益** ︰attadatthaṁ，指道、果、涅槃。
+
+.. [MettFn12-10] 〔明法尊者註12-10〕 佛陀宣告︰「四個月後即將般涅槃。」七百位凡夫比丘(puthujjanā bhikkhū)生起悚懼心，來親近佛陀，共商︰「我們該怎麼辦？」有位自利長老(Attadatthatthero阿塔達塔)依然保持正常的作息，不來佛陀的身邊。其他比丘誤解他的心意，便向佛陀報告。自利長老於是恭敬地向佛陀解釋，他對佛陀最崇敬的就是在佛陀般涅槃之前，證得阿羅漢果。佛陀讚歎他：「做得好！尊敬我的比丘，應該像你一樣。只有真正法隨法行(dhammānudhammaṁ paṭipajjantāyeva)的人才是真正尊敬我的人。」(與 `364 偈 <{filename}dhp-contrast-reading-chap25%zh.rst#dhp364>`__ 的故事同)。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～十、精進的比丘 (偈 166)。
 
 .. [NāradaFn12-01] (Ven. Nārada 12-01) According to Buddhism there is no permanent soul or unchanging entity (atta) either created by a God or emanating from a Paramātma. Here the term atta (self) is applied to the whole body, or one's personality, or mind, or life flux.
 
@@ -778,6 +808,22 @@
 .. [ThaniSFn-V165] (Ven. Thanissaro V.165) "No one purifies another. No other purifies one." These are the two meanings of the one phrase, nañño aññam visodhaye.
 
 .. [ThaniSFn-V166] (Ven. Thanissaro V.166) AN 4.95 lists four types of people in descending order: those devoted to their own true welfare as well as that of others, those devoted to their own true welfare but not that of others, those devoted to the true welfare of others but not their own, and those devoted neither to their own true welfare nor that of others. SN 47.19 makes the point that if one is truly devoted to one's own welfare, others automatically benefit, in the same way that an acrobat maintaining his/her own balance helps his/her partner stay balanced as well.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
+.. [NandFn12-01] 〔Nanda 校註12-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～二、貪婪的比丘 (偈 158)。
+
+.. [NandFn12-02] 〔Nanda 校註12-02〕 請參 `159 典故 <{filename}../dhp-story/dhp-story159%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～三、不奉行佛法的弘法比丘 (偈 159)。
+
+.. [NandFn12-03] 〔Nanda 校註12-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～四、比丘尼的兒子 (偈 160)。
+
+.. [NandFn12-04] 〔Nanda 校註12-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～六、提婆達多的故事 (偈 162)。
+
+.. [NandFn12-05] 〔Nanda 校註12-05〕 請參 `164 典故 <{filename}../dhp-story/dhp-story164%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～八、嫉妒的比丘 (偈 164)。
+
+.. [NandFn12-06] 〔Nanda 校註12-06〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～九、受妓女保護的信徒 (偈 165)。
 
 ---------------------------
 
