@@ -3,7 +3,7 @@
 =======================================================================
 
 :date: 2016-06-04 16:00
-:modified: 2016-07-01 15:00
+:modified: 2016-08-22 15:00
 :tags: 法句經, 法句經對讀, 樂品, Dhp, Dhammapada, Sukhavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Happiness
@@ -70,7 +70,7 @@
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - **十五：樂品** [LChnFn15-01]_ 
 
-       一九七　我等 [LChnFn15-02]_ 實樂生，憎怨中無僧。於僧怨人中，我等無憎住。
+       一九七　我等實樂生，憎怨中無僧。於僧怨人中，我等無憎住。 [LChnFn15-02]_ 、 [MettFn15-01]_ 、 [MettFn15-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 第十五：樂品
@@ -138,7 +138,7 @@
        197 Let us live happily then, not hating those who hate us! among men who hate us let us dwell free from hatred!
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 197 <{filename}../dhA/dhA-chap15%zh.rst#Dhp197>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 197 <{filename}../dhA/dhA-chap15%zh.rst#dhp197>`__
 
 .. _Dhp198:
 
@@ -156,7 +156,7 @@
        | Āturesu manussesu, viharāma anāturā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一九八　我等實樂生，疾病中無病 [LChnFn15-03]_ 。於疾病人中，我等無病住。
+     - 一九八　我等實樂生，疾病中無病。於疾病人中，我等無病住。 [LChnFn15-03]_ 、 [MettFn15-02] 、 [MettFn15-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 198 我們的確很安樂過活，在眾病之中我們無病；
@@ -210,7 +210,7 @@
      - 198 Let us live happily then, free from ailments among the ailing! among men who are ailing let us dwell free from ailments!
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 198 <{filename}../dhA/dhA-chap15%zh.rst#Dhp198>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 198 <{filename}../dhA/dhA-chap15%zh.rst#dhp198>`__
 
 .. _Dhp199:
 
@@ -228,7 +228,7 @@
        | Ussukesu  manassesu, viharāma anussukā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一九九　我等實樂生，貪欲中無欲。於貪欲人中，我等無欲住。
+     - 一九九　我等實樂生，貪欲中無欲。於貪欲人中，我等無欲住。 [MettFn15-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 199 我們的確很安樂過活，在眾欲之中我們無欲；
@@ -282,7 +282,7 @@
      - 199 Let us live happily then, free from greed among the greedy! among men who are greedy let us dwell free from greed!
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 199 <{filename}../dhA/dhA-chap15%zh.rst#Dhp199>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 199 <{filename}../dhA/dhA-chap15%zh.rst#dhp199>`__
 
 .. _Dhp200:
 
@@ -300,7 +300,7 @@
        | Pītibhakkhā bhavissāma, devā ābhassarā yathā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二００　我等實樂生，我等無物障 [LChnFn15-04]_ ，我等樂為食，如光音天人 [LChnFn15-05]_ 。
+     - 二００　我等實樂生，我等無物障，我等樂為食，如光音天人。 [LChnFn15-04]_ 、 [LChnFn15-05]_ 、 [MettFn15-04]_ 、 [MettFn15-05]_ 、 [MettFn15-06]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 200 我們很安樂過活，我們沒什麼障礙。 [CFFn15-02]_
@@ -363,7 +363,7 @@
      - 200 Let us live happily then, though we call nothing our own! We shall be like the bright gods, feeding on happiness!
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 200 <{filename}../dhA/dhA-chap15%zh.rst#Dhp200>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 200 <{filename}../dhA/dhA-chap15%zh.rst#dhp200>`__
 
 .. _Dhp201:
 
@@ -381,7 +381,7 @@
        | Upasanto sukhaṃ seti, hitvā jayaparājayaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二０一　 **勝利生憎怨，敗者住苦惱。勝敗兩俱捨，和靜住安樂。**
+     - 二０一　 **勝利生憎怨，敗者住苦惱。勝敗兩俱捨，和靜住安樂。** [MettFn15-07]_ 、 [MettFn15-08]
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 201 勝利會招來怨恨，戰敗者痛苦過活；
@@ -428,7 +428,7 @@
      - 201 Victory breeds hatred, for the conquered is unhappy. He who has given up both victory and defeat, he, the contented, is happy.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 201 <{filename}../dhA/dhA-chap15%zh.rst#Dhp201>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 201 <{filename}../dhA/dhA-chap15%zh.rst#dhp201>`__
 
 .. _Dhp202:
 
@@ -446,7 +446,7 @@
        | Natthi khandhasamā [khandhādisā (sī. syā. pī. rūpasiddhiyā sameti)] dukkhā, natthi santiparaṃ sukhaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二０二　無火如貪欲，無惡如瞋恨，無苦如（五）蘊，無樂勝寂靜 [LChnFn15-06]_ 。
+     - 二０二　無火如貪欲，無惡如瞋恨，無苦如（五）蘊，無樂勝寂靜。 [LChnFn15-06]_ 、 [MettFn15-09]_ 、 [NandFn15-01]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 202 無火能和貪欲同等，無惡能和瞋恨同等，
@@ -496,7 +496,7 @@
      - 202 There is no fire like passion; there is no losing throw like hatred; there is no pain like this body; there is no happiness higher than rest.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 202 <{filename}../dhA/dhA-chap15%zh.rst#Dhp202>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 202 <{filename}../dhA/dhA-chap15%zh.rst#dhp202>`__
 
 .. _Dhp203:
 
@@ -514,7 +514,7 @@
        | Etaṃ ñatvā yathābhūtaṃ, nibbānaṃ paramaṃ sukhaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二０三　飢為最大病，行 [LChnFn15-07]_ 為最大苦；如實知此已，涅槃樂最上。
+     - 二０三　飢為最大病，行為最大苦；如實知此已，涅槃樂最上。 [LChnFn15-07]_ 、 [MettFn15-10]_ 、 [NandFn15-02]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 203 餓是最大的病，諸行則是最苦。
@@ -564,7 +564,7 @@
      - 203 Hunger is the worst of diseases, the body the greatest of pains; if one knows this truly, that is Nirvana, the highest happiness.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 203 <{filename}../dhA/dhA-chap15%zh.rst#Dhp203>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 203 <{filename}../dhA/dhA-chap15%zh.rst#dhp203>`__
 
 .. _Dhp204:
 
@@ -582,7 +582,7 @@
        | Vissāsaparamā ñāti [vissāsaparamo ñāti (ka. sī.), vissāsaparamā ñātī (sī. aṭṭha.), vissāsā paramā ñāti (ka.)], nibbānaṃ paramaṃ [nibbāṇaparamaṃ (ka. sī.)] sukhaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二０四　無病最上利，知足最上財，信賴最上親，涅槃最上樂。
+     - 二０四　無病最上利，知足最上財，信賴最上親，涅槃最上樂。 [MettFn15-11]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 204 健康是最大的收獲，知足是最大的財富，
@@ -638,7 +638,7 @@
      - 204 Health is the greatest of gifts, contentedness the best riches; trust is the best of relationships, Nirvana the highest happiness.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 204 <{filename}../dhA/dhA-chap15%zh.rst#Dhp204>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 204 <{filename}../dhA/dhA-chap15%zh.rst#dhp204>`__
 
 .. _Dhp205:
 
@@ -656,7 +656,7 @@
        | Niddaro hoti nippāpo, dhammapītirasaṃ pivaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二０五　已飲獨居味，以及寂靜味，喜飲於法味，離怖畏去惡。
+     - 二０五　已飲獨居味，以及寂靜味，喜飲於法味，離怖畏去惡。 [NandFn15-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 205 嚐了獨處味，以及寂靜味，
@@ -697,7 +697,7 @@
      - 205 He who has tasted the sweetness of solitude and tranquillity, is free from fear and free from sin, while he tastes the sweetness of drinking in the law.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 205 <{filename}../dhA/dhA-chap15%zh.rst#Dhp205>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 205 <{filename}../dhA/dhA-chap15%zh.rst#dhp205>`__
 
 .. _Dhp206:
 
@@ -715,7 +715,7 @@
        | Adassanena bālānaṃ, niccameva sukhī siyā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二０六　善哉見聖者，與彼同住樂。由不見愚人，彼即常歡樂。
+     - 二０六　善哉見聖者，與彼同住樂。由不見愚人，彼即常歡樂。 [MettFn15-12]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 206 得見聖者真是好，和他們相處常樂；
@@ -777,7 +777,7 @@
      - 206 The sight of the elect (Arya) is good, to live with them is always happiness; if a man does not see fools, he will be truly happy.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 206 <{filename}../dhA/dhA-chap15%zh.rst#Dhp206>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 206 <{filename}../dhA/dhA-chap15%zh.rst#dhp206>`__
 
 .. _Dhp207:
 
@@ -797,7 +797,7 @@
        | Dhīro ca sukhasaṃvāso, ñātīnaṃva samāgamo.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二０七　與愚者同行，長時處憂悲。與愚同住苦，如與敵同居。與智者同住，樂如會親族。
+     - 二０七　與愚者同行，長時處憂悲。與愚同住苦，如與敵同居。與智者同住，樂如會親族。 [MettFn15-12]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 207 與愚人同行的人，他真的長期苦惱。
@@ -861,7 +861,7 @@
      - 207 He who walks in the company of fools suffers a long way; company with fools, as with an enemy, is always painful; company with the wise is pleasure, like meeting with kinsfolk.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 207 <{filename}../dhA/dhA-chap15%zh.rst#Dhp207>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 207 <{filename}../dhA/dhA-chap15%zh.rst#dhp207>`__
 
 .. _Dhp208:
 
@@ -889,7 +889,7 @@
        **Sukhavaggo pannarasamo niṭṭhito.**
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二０八　是故真實： [LChnFn15-08]_ 賢者智者多聞者，持戒虔誠與聖者，從斯善人賢慧遊，猶如月從於星道。
+     - 二０八　是故真實： [LChnFn15-08]_ 賢者智者多聞者，持戒虔誠與聖者，從斯善人賢慧遊，猶如月從於星道。 [MettFn15-12]_
 
        **樂品第十五竟**
 
@@ -959,7 +959,7 @@
      - 208 Therefore, one ought to follow the wise, the intelligent, the learned, the much enduring, the dutiful, the elect; one ought to follow a good and wise man, as the moon follows the path of the stars.
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 208 <{filename}../dhA/dhA-chap15%zh.rst#Dhp208>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 208 <{filename}../dhA/dhA-chap15%zh.rst#dhp208>`__
 
 --------------
 
@@ -1030,6 +1030,42 @@
 
 .. [CFFn15-04] 〔敬法法師註15-04〕 36 註釋：「 **超越寂靜** 」（santiparaṁ）：沒有其他快樂能夠超越涅槃，意思是涅槃是至上的快樂。
 
+.. [MettFn15-01] 〔明法尊者註15-01〕 **我等** ：佛陀自稱。jīvāma(我們生)，以複數表示。DhpA.vv.197-199.說偈之前的說法中，以‘ahaṁ’(我)、‘viharāmi’(我住)，表示佛陀自己的心情。
+
+.. [MettFn15-02] 〔明法尊者註15-02〕 **疾病** ：種種煩惱痛苦。
+
+.. [MettFn15-03] 〔明法尊者註15-03〕 釋迦族的迦毗羅衛城(Kapilavatthunagara)，和拘利族的拘利城(Koliyanagara)，兩個城市的農民都用赤牛河(Rohiṇī盧奚多河)水灌溉。有一年，發生大旱災，雙方為了爭水源，準備用武力解決。佛陀知道他在河兩岸的親戚們正準備戰爭，他決定加以阻止，就一個人單獨到河中的空地上盤腿而坐。諸親戚看見佛陀時，都把手上的武器放在一邊，向佛陀禮敬。佛陀說：「大王！為什麼要動干戈？」「大德！我們不知道。」「有誰知道？」「副王知道，將軍知道。」做十業道來問答之後，「大德！爭水。」「大王！水有價值嗎？」「大德！沒有價值。」「大王！眾剎帝利有價值嗎？」「大德！眾剎帝利無價的。」「不適當的。你們為了少量沒有價值的水，來殺戮無價的剎帝利。」他們就沉默下來。佛陀喊他們︰「你們為什麼要這樣做？今天，如果不是我在這裡的話，你們將會血流成河了。這樣做是不應該的。你們懷抱著五種怨(殺、盜、淫、妄、酒)，懷恨過日子，而我是沒有恨過日子；你們會不舒服過日子，而我舒服過日子；你們尋找五欲過日子，而我與世無爭過日子。」佛陀再說197-199偈頌。雙方聽完佛陀的勸誡後，避免一場流血戰爭。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～一、為水爭吵 (偈 197~199)。
+
+.. [MettFn15-04] 〔明法尊者註15-04〕 **我等實樂生** ︰natthi kiñcanaṁ (無憂無慮)，是指無貪、無瞋及無痴。
+
+.. [MettFn15-05] 〔明法尊者註15-05〕 **無物障** ：無貪.瞋.痴之障。
+
+.. [MettFn15-06] 〔明法尊者註15-06〕 **光音天** ：devā ābhassarā (照明聲音的諸天)，屬於第三禪天。《相應部》S.4.18.、《雜阿含1095 經》說佛陀托空缽，佛陀回應魔波旬的話。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～二、天魔波旬影響村民，使他們反對佛陀。 (偈 200)。
+
+.. [MettFn15-07] 〔明法尊者註15-07〕 和靜︰upasanto「寂靜者」是指已斷除煩惱的人。
+
+.. [MettFn15-08] 〔明法尊者註15-08〕 憍薩羅國波斯匿王與摩揭陀國阿闍世王打戰，連續三次敗戰，他覺得︰「被年輕人打敗，沒面子、無能，不知如何活下去。」佛陀說此偈。cf. S.3.14./I,83; 《雜阿含1236經》，《別譯雜阿含63經》
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～三、勝利使人產生恨意 (偈 201)。
+
+.. [MettFn15-09] 〔明法尊者註15-09〕 本句白話中譯：沒有像貪欲的火，沒有像瞋恨的惡，沒有像五蘊之苦，沒有喜樂勝過涅槃。
+
+.. [MettFn15-10] 〔明法尊者註15-10〕 行︰saṅkhārā，「諸行」是指五蘊。
+
+.. [MettFn15-11] 〔明法尊者註15-11〕 憍薩羅國波斯匿王，早餐吃一桶量的咖哩飯(taṇḍuladoṇassa odanaṁ tadupiyena sūpabyañjanena bhuñjati)，吃完後，前往竹林精舍聽聞佛陀說法時，無法驅除打瞌睡(bhattasammada)。佛陀說︰「大王！怎麼沒有先休息一下再來？」「大德！我吃飯之後，感覺很不舒服苦。」佛陀說︰「大王！吃太飽才是苦。」佛陀就勸誡他：「大王！進食應適量，身體才會舒適。」國王接受佛陀建議，從此以後適量的飲食，身體就比較輕盈，也比較健康。佛陀告訴國王：「無病是最上的利得」云云。
+
+                  S.3.13./I,81作：「常具正念人，取食知其量；是人(苦)受少，衰緩壽得長。」《別譯雜阿含73經》︰「夫人常當自憶念，若得飲食應知量，身體輕便受苦少，正得消化護命長。」
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～六、飲食要節制 (偈 204)。
+
+.. [MettFn15-12] 〔明法尊者註15-12〕 佛陀般涅槃前，在毗舍離附近的鞞羅柧村(Veḷuvagāmake)雨安居。那時候，他身染血痢(lohitapakkhandikābādha, 《諸病源候論》︰「血痢者，熱毒折受於血，血滲入大腸故也。」)。帝釋親自前來照顧佛陀，直到佛陀身體好轉。眾多比丘受到感動，佛陀說出此偈。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～八、帝釋看護佛陀 (偈 206~208)。
+
 .. [NāradaFn15-01] (Ven. Nārada 15-01) Free from the disease of passions.
 
 .. [NāradaFn15-02] (Ven. Nārada 15-02) Kiñcana, such as lust, hatred, and delusion which are hindrances to spiritual progress.
@@ -1057,6 +1093,16 @@
 .. [NāradaFn15-12] (Ven. Nārada 15-12) Far removed from passions.
 
 .. [BudRkFn-v202] (Ven. Buddharakkhita v. 202) Aggregates (of existence) (khandha): the five groups of factors into which the Buddha analyzes the living being — material form, feeling, perception, mental formations, and consciousness.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
+.. [NandFn15-01] 〔Nanda 校註15-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～四、欲望之火 (偈 202)。
+
+.. [NandFn15-02] 〔Nanda 校註15-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～五、佛陀和一位飢餓的人 (偈 203)。
+
+.. [NandFn15-03] 〔Nanda 校註15-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～七、尊敬佛陀的方法 (偈 205)。
 
 ---------------------------
 
