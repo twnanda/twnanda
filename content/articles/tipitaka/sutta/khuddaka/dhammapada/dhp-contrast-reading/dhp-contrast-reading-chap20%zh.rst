@@ -1414,7 +1414,7 @@
 
                   PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap20.pdf>`__  ，二十～十、瀕臨死亡的富商 (偈 286)。
 
-.. [MettFn20-18] 〔明法尊者註20-18〕 另參 `047偈 <{filename}dhp-contrast-reading-chap08%zh.rst#dhp047>`__ 。本則偈頌故事同114偈，吉離舍瞿曇彌(Kisāgotamī)的故事。
+.. [MettFn20-18] 〔明法尊者註20-18〕 另參 `047偈 <{filename}dhp-contrast-reading-chap04%zh.rst#dhp047>`__ 。本則偈頌故事同114偈，吉離舍瞿曇彌(Kisāgotamī)的故事。
 
                  PS: 請參見 `114偈 <{filename}dhp-contrast-reading-chap08%zh.rst#dhp114>`__ ； `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～十三、死而復生 (偈 114) ；  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap20.pdf>`__ ，二十～十一、眾生皆會死 (偈 287)。
 
