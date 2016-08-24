@@ -3,7 +3,7 @@
 ========================================================================================
 
 :date: 2016-06-04 16:30
-:modified: 2016-07-01 15:30
+:modified: 2016-08-23 11:30
 :tags: 法句經, 法句經對讀, 法住品, 住於法品, Dhp, Dhammapada, Dhammaṭṭhavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Just
@@ -76,7 +76,7 @@
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - **十九：法住品** [LChnFn19-01]_ 
 
-       二五六　鹵莽 [LChnFn19-02]_ 處事故，不為法住者。智者應辦別──孰正與孰邪。
+       二五六　鹵莽處事故，不為法住者。智者應辦別──孰正與孰邪。 [LChnFn19-02]_ 、 [MettFn19-01]_ 、 [NandFn19-01]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - 第十九：住於法品
@@ -149,7 +149,7 @@
        | Dhammassa gutto medhāvī, ‘‘dhammaṭṭho’’ti pavuccati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二五七　導人不鹵莽，如法而公平，智者護於法，是名法住者。
+     - 二五七　導人不鹵莽，如法而公平，智者護於法，是名法住者。 [NandFn19-01]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 257 智者不誤導他人，辦事如法與平等
@@ -209,7 +209,7 @@
        | Khemī averī abhayo, ‘‘paṇḍito’’ti pavuccati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二五八　不以多言故，彼即為智者。安靜無怨怖，是名為智者。
+     - 二五八　不以多言故，彼即為智者。安靜無怨怖，是名為智者。 [MettFn19-02]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 258 人不會只因為講得多就是智者；
@@ -277,7 +277,7 @@
        | Sa ve dhammadharo hoti, yo dhammaṃ nappamajjati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二五九　不以多言故，彼為持法者。彼雖聞少分，但由身見法 [LChnFn19-03]_ ，於法不放逸，是名持法者。
+     - 二五九　不以多言故，彼為持法者。彼雖聞少分，但由身見法，於法不放逸，是名持法者。 [LChnFn19-03]_ 、 [MettFn19-03]_ 、 [NandFn19-02]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 259 不只因為講得多，他就是精通法者；
@@ -346,7 +346,7 @@
        | Paripakko  vayo tassa, ‘‘moghajiṇṇo’’ti vuccati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二六０　不因彼白頭，即得為長老 [LChnFn19-04]_ 。彼年齡虛熟，徒有長老名。
+     - 二六０　不因彼白頭，即得為長老。彼年齡虛熟，徒有長老名。 [LChnFn19-04]_ 、 [MettFn19-05]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 260 他不會只是因為白了頭髮即是長老，
@@ -415,7 +415,7 @@
        | Sa ve vantamalo dhīro, ‘‘thero’’ iti [so theroti (syā. ka.)] pavuccati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二六一　於彼具真實 [LChnFn19-05]_ ，具法 [LChnFn19-06]_ 不殺生，節制 [LChnFn19-07]_ 並調伏 [LChnFn19-08]_ ，彼有智慧人。除滅諸垢穢，實名為長老。
+     - 二六一　於彼具真實，具法不殺生，節制並調伏，彼有智慧人。除滅諸垢穢，實名為長老。 [LChnFn19-05]_ 、 [LChnFn19-06]_ 、 [LChnFn19-07]_ 、 [LChnFn19-08]_ 、 [MettFn19-04]_ 、 [MettFn19-05]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 261 於他有諦又有法 [CFFn19-01]_ 、無害有戒與自制，
@@ -481,7 +481,7 @@
        | Sādhurūpo naro hoti, issukī maccharī saṭho.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二六二　 [LChnFn19-09]_ 嫉慳虛偽者，雖以其辯才，或由相端嚴，不為善良人。
+     - 二六二　嫉慳虛偽者，雖以其辯才，或由相端嚴，不為善良人。 [LChnFn19-09]_ 、 [MettFn19-06]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 262 嫉妒吝嗇狡猾的人，不會只因說話優雅，
@@ -553,7 +553,7 @@
        | Sa vantadoso medhāvī, ‘‘sādhurūpo’’ti vuccati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二六三　若斬斷此（心），拔根及除滅，彼捨瞋智者，名為善良人。
+     - 二六三　若斬斷此（心），拔根及除滅，彼捨瞋智者，名為善良人。 [MettFn19-06]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 263 若人已斷除根除、以及消滅該惡法，
@@ -623,7 +623,7 @@
        | Icchālobhasamāpanno, samaṇo kiṃ bhavissati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二六四　若破戒妄語，削髮非沙門。充滿欲與貪，云何為沙門？
+     - 二六四　若破戒妄語，削髮非沙門。充滿欲與貪，云何為沙門？ [NandFn19-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 264 無戒說妄語的人，不因剃頭是沙門。
@@ -690,7 +690,7 @@
        | Samitattā hi pāpānaṃ, ‘‘samaṇo’’ti pavuccati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二六五　彼息滅諸惡──無論大與小，因息滅諸惡，故名為沙門。
+     - 二六五　彼息滅諸惡──無論大與小，因息滅諸惡，故名為沙門。 [NandFn19-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 265 已平息一切大小惡的人，
@@ -754,7 +754,7 @@
        | Vissaṃ dhammaṃ samādāya, bhikkhu hoti na tāvatā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二六六　僅向他行乞，不即是比丘。行宗教法儀，亦不為比丘。
+     - 二六六　僅向他行乞，不即是比丘。行宗教法儀，亦不為比丘。 [NandFn19-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 266 他不會只是因為向別人乞食就是比丘。
@@ -822,7 +822,7 @@
        | Saṅkhāya loke carati, sa ve ‘‘bhikkhū’’ti vuccati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二六七　僅捨善與惡，修於梵行者，以知 [LChnFn19-10]_ 住此世，彼實名比丘。
+     - 二六七　僅捨善與惡，修於梵行者，以知住此世，彼實名比丘。 [LChnFn19-10]_ 、 [MettFn19-07] 、 [NandFn19-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 267 若人於此教法中，已捨善惡具梵行、
@@ -887,7 +887,7 @@
        | Yo ca tulaṃva paggayha, varamādāya paṇḍito.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二六八　 [LChnFn19-11]_ 愚昧無知者，不以默然故，而名為牟尼。智者如權衡。
+     - 二六八　愚昧無知者，不以默然故，而名為牟尼。智者如權衡。 [LChnFn19-11]_ 、 [MettFn19-08]_ 、 [MettFn19-10]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 268-269 愚痴且無智的人，不因沉默是牟尼。
@@ -956,7 +956,7 @@
        | Yo munāti ubho loke, ‘‘muni’’ tena pavuccati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二六九  捨惡取其善，乃得為牟尼。彼知於兩界 [LChnFn19-12]_ ，故稱為牟尼。
+     - 二六九  捨惡取其善，乃得為牟尼。彼知於兩界，故稱為牟尼。 [LChnFn19-12]_ 、 [MettFn19-09]_ 、 [MettFn19-10]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 268-269 愚痴且無智的人，不因沉默是牟尼。
@@ -1019,7 +1019,7 @@
        | Ahiṃsā  sabbapāṇānaṃ, ‘‘ariyo’’ti pavuccati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二七０　彼人非聖賢，以其殺生故。不害諸眾生，是名為聖者。
+     - 二七０　彼人非聖賢，以其殺生故。不害諸眾生，是名為聖者。 [NandFn19-05]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 270 他不會因為傷害生命而成聖人；
@@ -1074,7 +1074,7 @@
        | Atha vā samādhilābhena, vivittasayanena vā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二七一　 [LChnFn19-13]_ 不以戒律行 [LChnFn19-14]_ ，或由於多聞 [LChnFn19-15]_ ，或由證三昧，或由於獨居 [LChnFn19-16]_ 。
+     - 二七一　不以戒律行，或由於多聞，或由證三昧，或由於獨居。 [LChnFn19-13]_ 、 [LChnFn19-14]_ 、 [LChnFn19-15]_ 、 [LChnFn19-16]_ 、 [NandFn19-06]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 271-272 比丘不可只因為有戒行、或多聞、或得定、或獨處
@@ -1153,7 +1153,7 @@
         **Dhammaṭṭhavaggo ekūnavīsatimo niṭṭhito.**
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二七二　謂『受出家樂，非凡夫所能』。汝等漏未盡，莫生保信想 [LChnFn19-17]_ ！
+     - 二七二　謂『受出家樂，非凡夫所能』。汝等漏未盡，莫生保信想！ [LChnFn19-17]_ 、 [MettFn19-11]_ 、 [MettFn19-12]_ 、 [NandFn19-06]_
 
        **法住品第十九竟**
 
@@ -1306,6 +1306,40 @@
 
 .. [CFFn19-05] 〔敬法法師註19-05〕 46 註釋： **出離樂** （nekkhammasukhaṁ）是指阿那含樂。
 
+.. [MettFn19-01] 〔明法尊者註19-01〕 **法住** ：dhammaṭṭha，依法奉行，或說「奉法」。
+
+.. [MettFn19-02] 〔明法尊者註19-02〕 六位(為一群的)比丘，總是在齋堂遊走惹事生非，在某日用過餐，什麽類型？
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～二、愚人才會騷擾別人 (偈 258)。 
+
+.. [MettFn19-03] 〔明法尊者註19-03〕 **身見法** ：指心見法，自證知法，不由他而悟。
+
+.. [MettFn19-04] 〔明法尊者註19-04〕 **具法** ：具足正法與戒律。
+
+.. [MettFn19-05] 〔明法尊者註19-05〕 有一天，約三十位阿蘭若比丘前來向佛陀頂禮。佛陀明白他們證得阿羅漢果的機緣已經成熟，就問他們︰「你們進來的時候，有沒有看見一位上座？」他們說︰「沒有看見。」「你們怎麼沒有看見？」「大德！我們看見一位沙彌。」「他不是沙彌，是上座吧？」「大德！他是很小的。」佛陀說：「諸比丘！他不是沙彌，而是上座。我不因為人的歲數大就稱他作上座，任何人究竟明白四聖諦，而且不傷害別人，才是上座。」
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～四、年齡不是判斷的標準 (偈 260~261)。
+
+.. [MettFn19-06] 〔明法尊者註19-06〕 有些比丘羨慕資深比丘享受年輕比丘和沙彌的服務，他們也希望有這種待遇，請求佛陀允准他們也可以作指導，以便有這種待遇。佛陀知道他們的動機，斷然拒絕。
+
+                  (Dhp. 263 cp. Dhp. 250)
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～五、虛張聲勢 (偈 262~263)。
+
+.. [MettFn19-07] 〔明法尊者註19-07〕 **以知住此世** ：即了知地行於這(五蘊)世間。知：saṅkhāya(考量)。  (Dhp. 266~267 cf. S.7.20./I,182; 《雜阿含97經》，《別譯雜阿含263經》)
+
+.. [MettFn19-08] 〔明法尊者註19-08〕 **智者如權衡** ︰智者如持秤般捨惡而取最上(varam指戒.定.慧)。
+
+.. [MettFn19-09] 〔明法尊者註19-09〕 **兩界** ：Ubho loke，兩種世間，指內.外五蘊。內五蘊指自己的五蘊；外五蘊指其他眾生的五蘊。
+
+.. [MettFn19-10] 〔明法尊者註19-10〕 苦行者在接受供養後，會對布施者說些賜福的話，如：「願你們遠離危險，祝你們興旺，財源滾滾來，願你們長命百歲。」而比丘在接受供養之後，卻默默不語。佛陀證悟以後的前二十年，他們是如此。當時的人就說：「苦行者祝福我們，而敬愛的比丘卻什麼也沒說。」比丘向佛陀反應這件事，佛陀從此要比丘在接受供養後，也要說適如其分的祝福。
+
+                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～八、沉默不代表智慧 (偈 268~269)。
+
+.. [MettFn19-11] 〔明法尊者註19-11〕 **出家樂** ：nekkhamasukham出離樂。
+
+.. [MettFn19-12] 〔明法尊者註19-12〕 **保信想** ：vissāsamāpādi= vissāsamma āpādi，莫生信賴。
+
 .. [NāradaFn19-01] (Ven. Nārada 19-01) Kāyena - that is, nāmakāyena, through the mental body, or, in other words, through self-realization.
 
 .. [NāradaFn19-02] (Ven. Nārada 19-02) Thera - a term applied to those bhikkhus who have counted at least ten years in the Order from the date of their higher ordination. Thera, literally, means one who is firm or stable.
@@ -1357,6 +1391,22 @@
 .. [ThaniSFn-V271-272] (Ven. Thanissaro V. 271-272) This verse has what seems to be a rare construction, in which na + instrumental nouns + a verb in the aorist tense gives the force of a prohibitive ("Don't, on account of x, do y"). "The renunciate ease that run-of-the-mill people don't know," according to DhpA, is the state of non-returning, the third of the four stages of Awakening (see note 22). Because non-returners are still attached to subtle states of becoming on the level of form and formlessness, DhpA drives home the message that even non-returners should not be complacent by paraphrasing a passage from AN 1 (202 in the Thai edition; at the end of Chapter 19 in the PTS edition) that reads, "Just as even a small amount of excrement is foul-smelling, in the same way I do not praise even a small amount of becoming, even for the extent of a fingersnap."
 
 .. [VaradoFn-V266] (Ven. Varado V.266) Verse 266: "A bhikkhu is one who commits/ To the whole of the training, not bits" (vissaṃ dhammaṃ samādāya bhikkhu hoti na tāvatā). PED (vissaṃ): all, every, entire. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
+.. [NandFn19-01] 〔Nanda 校註19-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～一、收受賄賂的法官 (偈 256~257)。
+
+.. [NandFn19-02] 〔Nanda 校註19-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～三、知識不等於領悟 (偈 259)。
+
+.. [NandFn19-03] 〔Nanda 校註19-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～六、好辯的比丘 (偈 264~265)。
+
+.. [NandFn19-04] 〔Nanda 校註19-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～七、誰才是比丘 (偈 266~267)。
+
+.. [NandFn19-05] 〔Nanda 校註19-05〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～九、人如其名 (偈 270)。
+
+.. [NandFn19-06] 〔Nanda 校註19-06〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～十、證阿羅漢果甚難 (偈 271~272)。
 
 ---------------------------
 
