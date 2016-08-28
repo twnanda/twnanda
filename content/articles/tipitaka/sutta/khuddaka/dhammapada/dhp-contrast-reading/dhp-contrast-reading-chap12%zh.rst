@@ -3,7 +3,7 @@
 ==============================================================================
 
 :date: 2016-06-04 15:00
-:modified: 2016-07-26 16:30
+:modified: 2016-08-28 12:00
 :tags: 法句經, 法句經對讀, 自己品, 自品, Dhp, Dhammapada, Attavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Self
@@ -785,7 +785,7 @@
 
 .. [MettFn12-09] 〔明法尊者註12-09〕 **(自)己利益** ︰attadatthaṁ，指道、果、涅槃。
 
-.. [MettFn12-10] 〔明法尊者註12-10〕 佛陀宣告︰「四個月後即將般涅槃。」七百位凡夫比丘(puthujjanā bhikkhū)生起悚懼心，來親近佛陀，共商︰「我們該怎麼辦？」有位自利長老(Attadatthatthero阿塔達塔)依然保持正常的作息，不來佛陀的身邊。其他比丘誤解他的心意，便向佛陀報告。自利長老於是恭敬地向佛陀解釋，他對佛陀最崇敬的就是在佛陀般涅槃之前，證得阿羅漢果。佛陀讚歎他：「做得好！尊敬我的比丘，應該像你一樣。只有真正法隨法行(dhammānudhammaṁ paṭipajjantāyeva)的人才是真正尊敬我的人。」(與 `364 偈 <{filename}dhp-contrast-reading-chap25%zh.rst#dhp364>`__ 的故事同)。
+.. [MettFn12-10] 〔明法尊者註12-10〕 佛陀宣告︰「四個月後即將般涅槃。」七百位凡夫比丘(puthujjanā bhikkhū)生起悚懼心，來親近佛陀，共商︰「我們該怎麼辦？」有位自利長老(Attadatthatthero阿塔達塔)依然保持正常的作息，不來佛陀的身邊。其他比丘誤解他的心意，便向佛陀報告。自利長老於是恭敬地向佛陀解釋，他對佛陀最崇敬的就是在佛陀般涅槃之前，證得阿羅漢果。佛陀讚歎他：「做得好！尊敬我的比丘，應該像你一樣。只有真正法隨法行(dhammānudhammaṁ paṭipajjantāyeva)的人才是真正尊敬我的人。」(與364偈的 `故事--二十五～四、尊重佛陀的方法 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__ 同)。
 
                   PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～十、精進的比丘 (偈 166)。
 
