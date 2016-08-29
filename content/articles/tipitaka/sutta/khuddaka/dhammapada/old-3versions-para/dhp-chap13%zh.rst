@@ -26,7 +26,7 @@ Dhammapada 法句經(第十三：世品)
    * - 167
 
        (
-       `典故 <{filename}dhp-story/dhp-story167%zh.rst>`__
+       `典故 <{filename}../dhp-story/dhp-story167%zh.rst>`__
        )
 
      - 莫從卑劣法。莫住於放逸。莫隨於邪見。莫增長世俗。
@@ -93,7 +93,7 @@ Dhammapada 法句經(第十三：世品)
    * - 174
 
        (
-       `典故 <{filename}dhp-story/dhp-story174%zh.rst>`__
+       `典故 <{filename}../dhp-story/dhp-story174%zh.rst>`__
        )
 
      - 此世界盲暝。能得此者少。如鳥脫羅網，鮮有昇天者。
@@ -133,7 +133,7 @@ Dhammapada 法句經(第十三：世品)
    * - 178
 
        (
-       `典故 <{filename}dhp-story/dhp-story178%zh.rst>`__
+       `典故 <{filename}../dhp-story/dhp-story178%zh.rst>`__
        )
 
      - 一統大地者，得生天上者，一切世界主，不及預流勝。

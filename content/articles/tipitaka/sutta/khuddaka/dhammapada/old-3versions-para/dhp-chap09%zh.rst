@@ -81,7 +81,7 @@ Dhammapada 法句經(第九：惡品)
    * - 122
 
        (
-       `典故 <{filename}dhp-story/dhp-story122%zh.rst>`__
+       `典故 <{filename}../dhp-story/dhp-story122%zh.rst>`__
        )
 
      - 莫輕於小善！謂『我不招報』，須知滴水落，亦可滿水瓶，智者完其善，少許少許積。
@@ -113,7 +113,7 @@ Dhammapada 法句經(第九：惡品)
    * - 125
 
        (
-       `典故 <{filename}dhp-story/dhp-story125%zh.rst>`__
+       `典故 <{filename}../dhp-story/dhp-story125%zh.rst>`__
        )
 
      - 若犯無邪者，清淨無染者，罪惡向愚人，如逆風揚塵。
@@ -126,7 +126,7 @@ Dhammapada 法句經(第九：惡品)
    * - 126
 
        (
-       `典故 <{filename}dhp-story/dhp-story126%zh.rst>`__
+       `典故 <{filename}../dhp-story/dhp-story126%zh.rst>`__
        )
 
      - 有人生於（母）胎中，作惡者則（墮）地獄，正直之人昇天界，漏盡者證入涅槃。

@@ -31,57 +31,57 @@ Availability of English translations (Print:):
 
 目錄
 
-- `第一：雙品      YAMAKA-VAGGO <{filename}dhp-chap01%zh.rst>`_ (001~020)
+- `第一：雙品      YAMAKA-VAGGO <{filename}old-3versions-para/dhp-chap01%zh.rst>`_ (001~020)
 
-- `第二：不放逸品  APPAMADAVAGGO <{filename}dhp-chap02%zh.rst>`_ (021~032)
+- `第二：不放逸品  APPAMADAVAGGO <{filename}old-3versions-para/dhp-chap02%zh.rst>`_ (021~032)
 
-- `第三：心品      CITTAVAGGO <{filename}dhp-chap03%zh.rst>`_ (033~043)
+- `第三：心品      CITTAVAGGO <{filename}old-3versions-para/dhp-chap03%zh.rst>`_ (033~043)
 
-- `第四：華品      PUPPHAVAGGO <{filename}dhp-chap04%zh.rst>`_ (044~059)
+- `第四：華品      PUPPHAVAGGO <{filename}old-3versions-para/dhp-chap04%zh.rst>`_ (044~059)
 
-- `第五：愚品      BALAVAGGO <{filename}dhp-chap05%zh.rst>`_ (060~075)
+- `第五：愚品      BALAVAGGO <{filename}old-3versions-para/dhp-chap05%zh.rst>`_ (060~075)
 
-- `第六：智者品    PANDITAVAGGO <{filename}dhp-chap06%zh.rst>`_ (076~089)
+- `第六：智者品    PANDITAVAGGO <{filename}old-3versions-para/dhp-chap06%zh.rst>`_ (076~089)
 
-- `第七：阿羅漢品  ARAHANTAVAGGO <{filename}dhp-chap07%zh.rst>`_ (090~099)
+- `第七：阿羅漢品  ARAHANTAVAGGO <{filename}old-3versions-para/dhp-chap07%zh.rst>`_ (090~099)
 
-- `第八：千品      SAHASSAVAGGO <{filename}dhp-chap08%zh.rst>`_ (100~115)
+- `第八：千品      SAHASSAVAGGO <{filename}old-3versions-para/dhp-chap08%zh.rst>`_ (100~115)
 
-- `第九：惡品      PAPAVAGGO <{filename}dhp-chap09%zh.rst>`_ (116~128)
+- `第九：惡品      PAPAVAGGO <{filename}old-3versions-para/dhp-chap09%zh.rst>`_ (116~128)
 
-- `第十：刀杖品    DANDAVAGGO <{filename}dhp-chap10%zh.rst>`_ (129~145)
+- `第十：刀杖品    DANDAVAGGO <{filename}old-3versions-para/dhp-chap10%zh.rst>`_ (129~145)
 
-- `第十一：老品      JARAVAGGO <{filename}dhp-chap11%zh.rst>`_ (146~156)
+- `第十一：老品      JARAVAGGO <{filename}old-3versions-para/dhp-chap11%zh.rst>`_ (146~156)
 
-- `第十二：自己品    ATTAVAGGO <{filename}dhp-chap12%zh.rst>`_ (157~166)
+- `第十二：自己品    ATTAVAGGO <{filename}old-3versions-para/dhp-chap12%zh.rst>`_ (157~166)
 
-- `第十三：世品      LOKAVAGGO <{filename}dhp-chap13%zh.rst>`_ (167~178)
+- `第十三：世品      LOKAVAGGO <{filename}old-3versions-para/dhp-chap13%zh.rst>`_ (167~178)
 
-- `第十四：佛陀品    BUDDHAVAGGO <{filename}dhp-chap14%zh.rst>`_ (179~196)
+- `第十四：佛陀品    BUDDHAVAGGO <{filename}old-3versions-para/dhp-chap14%zh.rst>`_ (179~196)
 
-- `第十五：樂品      SUKHAVAGGO <{filename}dhp-chap15%zh.rst>`_ (197~208)
+- `第十五：樂品      SUKHAVAGGO <{filename}old-3versions-para/dhp-chap15%zh.rst>`_ (197~208)
 
-- `第十六：喜愛品    PIYAVAGGO <{filename}dhp-chap16%zh.rst>`_ (209~220)
+- `第十六：喜愛品    PIYAVAGGO <{filename}old-3versions-para/dhp-chap16%zh.rst>`_ (209~220)
 
-- `第十七：忿怒品    KODHAVAGGO <{filename}dhp-chap17%zh.rst>`_ (221~234)
+- `第十七：忿怒品    KODHAVAGGO <{filename}old-3versions-para/dhp-chap17%zh.rst>`_ (221~234)
 
-- `第十八：垢穢品    MALAVAGGO <{filename}dhp-chap18%zh.rst>`_ (235~255)
+- `第十八：垢穢品    MALAVAGGO <{filename}old-3versions-para/dhp-chap18%zh.rst>`_ (235~255)
 
-- `第十九：法住品    DHAMMATTHAVAGGO <{filename}dhp-chap19%zh.rst>`_ (256~272)
+- `第十九：法住品    DHAMMATTHAVAGGO <{filename}old-3versions-para/dhp-chap19%zh.rst>`_ (256~272)
 
-- `第二十：道品      MAGGAVAGGO <{filename}dhp-chap20%zh.rst>`_ (273~289)
+- `第二十：道品      MAGGAVAGGO <{filename}old-3versions-para/dhp-chap20%zh.rst>`_ (273~289)
 
-- `第廿一：雜品      PAKINNAKAVAGGO <{filename}dhp-chap21%zh.rst>`_ (290~305)
+- `第廿一：雜品      PAKINNAKAVAGGO <{filename}old-3versions-para/dhp-chap21%zh.rst>`_ (290~305)
 
-- `第廿二：地獄品    NIRAYAVAGGO <{filename}dhp-chap22%zh.rst>`_ (306~319)
+- `第廿二：地獄品    NIRAYAVAGGO <{filename}old-3versions-para/dhp-chap22%zh.rst>`_ (306~319)
 
-- `第廿三：象品      NAGAVAGGO <{filename}dhp-chap23%zh.rst>`_ (320~333)
+- `第廿三：象品      NAGAVAGGO <{filename}old-3versions-para/dhp-chap23%zh.rst>`_ (320~333)
 
-- `第廿四：愛慾品    TANHAVAGGO <{filename}dhp-chap24%zh.rst>`_ (334~359)
+- `第廿四：愛慾品    TANHAVAGGO <{filename}old-3versions-para/dhp-chap24%zh.rst>`_ (334~359)
 
-- `第廿五：比丘品    BHIKKHUVAGGO <{filename}dhp-chap25%zh.rst>`_ (360~382)
+- `第廿五：比丘品    BHIKKHUVAGGO <{filename}old-3versions-para/dhp-chap25%zh.rst>`_ (360~382)
 
-- `第廿六：波羅門品  BRAHMANAVAGGO <{filename}dhp-chap26%zh.rst>`_ (383~423)
+- `第廿六：波羅門品  BRAHMANAVAGGO <{filename}old-3versions-para/dhp-chap26%zh.rst>`_ (383~423)
 
 ----
 

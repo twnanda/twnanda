@@ -9,7 +9,7 @@
 :summary: 法句經研讀第 153 與 154 偈頌(Study of Gatha# 153 & 154 of Dhamma-Pada
 
 
-南傳法句經 `老品　JARAVAGGO <{filename}dhp-chap11%zh.rst>`_ 第　153　與　154　偈頌
+南傳法句經 `老品　JARAVAGGO <{filename}old-3versions-para/dhp-chap11%zh.rst>`_ 第　153　與　154　偈頌
 
 ----
 

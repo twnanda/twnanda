@@ -9,7 +9,7 @@
 :summary: 法句經研讀第 183 偈頌
 
 
-南傳法句經 `佛陀品　BUDDHAVAGGO <{filename}dhp-chap14%zh.rst>`_ 第183 偈頌
+南傳法句經 `佛陀品　BUDDHAVAGGO <{filename}old-3versions-para/dhp-chap14%zh.rst>`_ 第183 偈頌
 
 - 一切惡莫作，一切善應行，自調淨其意，是則諸佛教。 [1]_
 

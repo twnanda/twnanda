@@ -61,7 +61,7 @@ Dhammapada 法句經(第二：不放逸品)
    * - 025
 
        (
-       `典故 <{filename}dhp-story/dhp-story025%zh.rst>`__
+       `典故 <{filename}../dhp-story/dhp-story025%zh.rst>`__
        )
 
      - 奮勉不放逸，克己自調御，智者自作洲，不為洪水沒。

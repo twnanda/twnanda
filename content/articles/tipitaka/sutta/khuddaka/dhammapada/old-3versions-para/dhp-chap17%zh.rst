@@ -26,7 +26,7 @@ Dhammapada 法句經(第十七：忿怒品)
    * - 221
 
        (
-       `典故 <{filename}dhp-story/dhp-story221%zh.rst>`__
+       `典故 <{filename}../dhp-story/dhp-story221%zh.rst>`__
        )
 
      - 捨棄於忿怒，除滅於我慢，解脫一切縛，不執著名色，彼無一物者，苦不能相隨。
