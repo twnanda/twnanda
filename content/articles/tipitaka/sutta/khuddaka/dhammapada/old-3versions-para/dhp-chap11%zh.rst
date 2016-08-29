@@ -89,7 +89,7 @@ Dhammapada 法句經(第十一：老品)
 
        154
        (
-       `研讀 <{filename}dhp-study153-4%zh.rst>`_
+       `研讀 <{filename}../dhp-study153-4%zh.rst>`_
        )
 
      - 經多生輪迴，尋求造屋者，但未得見之，痛苦再再生。
