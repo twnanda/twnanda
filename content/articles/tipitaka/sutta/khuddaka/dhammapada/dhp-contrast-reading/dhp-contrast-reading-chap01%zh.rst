@@ -2,7 +2,7 @@
 ###################################################################
 
 :date: 2016-02-05 12:00
-:modified: 2016-07-02 17:00
+:modified: 2016-09-04 18:00
 :tags: 法句經, 法句經對讀, 雙品, Dhp, Dhammapada, Yamakavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Pairs
@@ -112,16 +112,19 @@
        | 13.舍利弗阿毘曇論：心為法本，心尊心使，中心念惡，即言即行，罪苦自追，車轢於轍T28, 628b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - Chapter 1 The Twin Verses (Yamaka [NāradaFn01-01]_  Vagga)
-        EVIL BEGETS EVIL
-         1. Mind is the forerunner of (all evil) states.  [NāradaFn01-02]_ Mind is chief; mind-made are they. If one speaks or acts with wicked mind, because of that, suffering follows one, even as the wheel follows the hoof of the draught-ox.
+     - **Chapter 1 The Twin Verses (Yamaka** [NāradaFn01-01]_ **Vagga)**
+
+       **EVIL BEGETS EVIL**
+       
+       1. Mind is the forerunner of (all evil) states.  [NāradaFn01-02]_ Mind is chief; mind-made are they. If one speaks or acts with wicked mind, because of that, suffering follows one, even as the wheel follows the hoof of the draught-ox.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - Dhp I Pairs
-        1. Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts suffering follows him like the wheel that follows the foot of the ox.
+     - **Dhp I Pairs**
+
+       1. Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts suffering follows him like the wheel that follows the foot of the ox.
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - Dhp I Pairs
+     - **Dhp I Pairs**
         
        **1-2** [ThaniSFn-V1-2]_
        ::
@@ -146,15 +149,28 @@
             that never leaves.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - **  1. Twinned Verses** 
-        | **1**  Mind precedes created things;
-        | Mind’s their chief, from mind they spring.
-        | With tainted mind who speaks or acts,
-        | Pain trails that man like the wheel trails ox-tracks.
+     - **1. Twinned Verses**
+
+       | **1**  Mind precedes created things;
+       | Mind’s their chief, from mind they spring.
+       | With tainted mind who speaks or acts,
+       | Pain trails that man like the wheel trails ox-tracks.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - Chapter I: The Twin-Verses
-        1 All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with an evil thought, pain follows him, as the wheel follows the foot of the ox that draws the carriage.
+     - **Chapter I: The Twin-Verses**
+
+       1 All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with an evil thought, pain follows him, as the wheel follows the foot of the ox that draws the carriage.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - **Chapter 1: The Pairs**
+
+       | **DhP 1** 
+       | All mental phenomena are preceded by mind, 
+       | Mind is their master, they are produced by mind. 
+       | If somebody speaks or acts 
+       | With a corrupted mind, 
+       | Hence suffering follows him, 
+       | Like the wheel the foot of the bearing animal. [DLMBSFn-V001]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 001 <{filename}../dhA/dhA-chap01%zh.rst#dhp001>`__
@@ -204,8 +220,9 @@
        | 13.根本說一切有部毘奈耶：諸法心為首，心勝心速疾，由心清淨故，讚歎并身禮，當受勝妙樂，如影鎮隨形T23, 751b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - GOOD BEGETS GOOD
-        2. Mind is the forerunner of (all good) states. Mind is chief; mind-made are they. If one speaks or acts with pure mind, because of that, happiness follows one, even as one's shadow that never leaves. [NāradaFn01-03]_
+     - **GOOD BEGETS GOOD**
+
+       2. Mind is the forerunner of (all good) states. Mind is chief; mind-made are they. If one speaks or acts with pure mind, because of that, happiness follows one, even as one's shadow that never leaves. [NāradaFn01-03]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 2. Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts happiness follows him like his never-departing shadow.
@@ -241,6 +258,15 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 2 All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with a pure thought, happiness follows him, like a shadow that never leaves him.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 2**
+       | All things are preceded by mind, 
+       | Mind is their master, they are produced by mind. 
+       | If somebody speaks or acts 
+       | With a purified mind, 
+       | Hence happiness follows him, 
+       | Like never departing shadow. [DLMBSFn-V002]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 002 <{filename}../dhA/dhA-chap01%zh.rst#dhp002>`__
@@ -328,6 +354,13 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 3 "He abused me, he beat me, he defeated me, he robbed me,"--in those who harbour such thoughts hatred will never cease.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 3**
+       | He abused me, he beat me, 
+       | He defeated me, he robbed me. 
+       | Those, who harbour such thoughts, 
+       | Their hatred is not appeased.  [DLMBSFn-V003]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 003 <{filename}../dhA/dhA-chap01%zh.rst#dhp003>`__
 
@@ -412,6 +445,13 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 4 "He abused me, he beat me, he defeated me, he robbed me,"--in those who do not harbour such thoughts hatred will cease.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 4**
+       | He abused me, he beat me, 
+       | He defeated me, he robbed me. 
+       | Those, who do not harbour such thoughts, 
+       | Their hatred is appeased.  [DLMBSFn-V004]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 004 <{filename}../dhA/dhA-chap01%zh.rst#dhp004>`__
 
@@ -454,8 +494,9 @@
        | 7.菩薩本緣經：非以怨心，能息怨憎，唯以忍辱，然後乃滅T03, 69a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - ANGER IS CONQUERED BY LOVE
-        5. Hatreds never cease through hatred in this world; through love [NāradaFn01-05]_ alone they cease. This is an eternal law. [NāradaFn01-06]_
+     - **ANGER IS CONQUERED BY LOVE**
+
+       5. Hatreds never cease through hatred in this world; through love [NāradaFn01-05]_ alone they cease. This is an eternal law. [NāradaFn01-06]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 5. Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.
@@ -500,6 +541,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 5 For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 5**
+       | Hatred is indeed never appeased by hatred here. 
+       | It is appeased by non-hatred - this law is eternal. [DLMBSFn-V005]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 005 <{filename}../dhA/dhA-chap01%zh.rst#dhp005>`__
 
@@ -538,8 +584,9 @@
        2. 中阿含經：他人不解義，唯我獨能知，若有能解義，彼恚便得息T01,535c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - QUARRELS CEASE THROUGH RIGHT THINKING
-        6. The others [NāradaFn01-07]_ know not that in this quarrel we perish; [NāradaFn01-08]_ those of them who realize it, have their quarrels calmed thereby. [NāradaFn01-09]_
+     - **QUARRELS CEASE THROUGH RIGHT THINKING**
+
+       6. The others [NāradaFn01-07]_ know not that in this quarrel we perish; [NāradaFn01-08]_ those of them who realize it, have their quarrels calmed thereby. [NāradaFn01-09]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 6. There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels.
@@ -584,6 +631,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 6 The world does not know that we must all come to an end here;--but those who know it, their quarrels cease at once.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 6**
+       | The others do not understand that we should restrain ourselves here. 
+       | Those who understand that, therefore appease their quarrels. [DLMBSFn-V006]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 006 <{filename}../dhA/dhA-chap01%zh.rst#dhp006>`__
 
@@ -620,8 +672,9 @@
        3. 觀淨而自淨，諸根不具足，於食無厭足，斯等凡品行，轉增於欲意，如屋壞穿漏。（法集要頌經, T04, 793a） [TSFn01-17]_
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - THE WEAK SUCCUMB TO TEMPTATION BUT NOT THE STRONG
-        7. Whoever lives contemplating pleasant things, [NāradaFn01-10]_ with senses unrestrained, in food immoderate, indolent, inactive, him verily Māra [NāradaFn01-11]_ overthrows, as the wind (overthrows) a weak tree.
+     - **THE WEAK SUCCUMB TO TEMPTATION BUT NOT THE STRONG**
+
+       7. Whoever lives contemplating pleasant things, [NāradaFn01-10]_ with senses unrestrained, in food immoderate, indolent, inactive, him verily Māra [NāradaFn01-11]_ overthrows, as the wind (overthrows) a weak tree.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 7. Just as a storm throws down a weak tree, so does Mara overpower the man who lives for the pursuit of pleasures, who is uncontrolled in his senses, immoderate in eating, indolent, and dissipated. [BudRkFn-v7]_
@@ -654,6 +707,12 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 7 He who lives looking for pleasures only, his senses uncontrolled, immoderate in his food, idle, and weak, Mara (the tempter) will certainly overthrow him, as the wind throws down a weak tree.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 7**
+       | The person, who lives contemplating pleasant things, who is not restrained in senses, 
+       | Who does not know moderation in food, who is indolent and of poor effort, 
+       | Mara will overcome him, as wind a weak tree. [DLMBSFn-V007]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 007 <{filename}../dhA/dhA-chap01%zh.rst#dhp007>`__
@@ -725,6 +784,12 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 8 He who lives without looking for pleasures, his senses well controlled, moderate in his food, faithful and strong, him Mara will certainly not overthrow, any more than the wind throws down a rocky mountain.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 8**
+       | The one, who does not live contemplating pleasant things, who is well restrained in senses, 
+       | Who does know moderation in food, who is trusting and firm in effort, 
+       | Mara will not overcome him, as wind a rocky mountain. [DLMBSFn-V008]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 008 <{filename}../dhA/dhA-chap01%zh.rst#dhp008>`__
 
@@ -762,8 +827,9 @@
        | 6.摩訶僧祇律：內不離癡服，外託被袈裟，心常懷毒害，袈裟非所應T22,241a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - THE PURE ARE WORTHY OF THE YELLOW ROBE BUT NOT THE IMPURE
-        9. Whoever, unstainless, without self control and truthfulness, should don the yellow robe, [NāradaFn01-15]_ is not worthy of it. 
+     - **THE PURE ARE WORTHY OF THE YELLOW ROBE BUT NOT THE IMPURE**
+
+       9. Whoever, unstainless, without self control and truthfulness, should don the yellow robe, [NāradaFn01-15]_ is not worthy of it. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 9. Whoever being depraved, devoid of self-control and truthfulness, should don the monk's yellow robe, he surely is not worthy of the robe.
@@ -796,6 +862,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 9 He who wishes to put on the yellow dress without having cleansed himself from sin, who disregards temperance and truth, is unworthy of the yellow dress.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 9**
+       | Who is not rid of defilement, and will wear a yellow robe, 
+       | Devoid of restraint and truth, he does not deserve a yellow robe. [DLMBSFn-V009]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 009 <{filename}../dhA/dhA-chap01%zh.rst#dhp009>`__
@@ -868,6 +939,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 10 But he who has cleansed himself from sin, is well grounded in all virtues, and regards also temperance and truth, he is indeed worthy of the yellow dress.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 10**
+       | And who would get rid of defilement, well settled in virtues, 
+       | Endowed with restraint and truth, he deserves a yellow robe. [DLMBSFn-V010]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 010 <{filename}../dhA/dhA-chap01%zh.rst#dhp010>`__
 
@@ -905,8 +981,9 @@
        5.四分律：無堅說堅牢，堅牢不見堅，彼不解堅牢，墮邪憶念中T22,882c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - RIGHT PERCEPTION LEADS TO THE REALIZATION OF THE TRUTH
-        11. In the unessential they imagine the essential [NāradaFn01-16]_ , in the essential they see the unessential - they who entertain (such) wrong thoughts [NāradaFn01-17]_ never realize the essence. 
+     - **RIGHT PERCEPTION LEADS TO THE REALIZATION OF THE TRUTH**
+
+       11. In the unessential they imagine the essential [NāradaFn01-16]_ , in the essential they see the unessential - they who entertain (such) wrong thoughts [NāradaFn01-17]_ never realize the essence. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 11. Those who mistake the unessential to be essential and the essential to be unessential, dwelling in wrong thoughts, never arrive at the essential.
@@ -935,6 +1012,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 11 They who imagine truth in untruth, and see untruth in truth, never arrive at truth, but follow vain desires.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 11**
+       | Thinking to be essential, what is not, seeing no essence in what is essential, 
+       | they, feeding on wrong thoughts, do not discover the essence. [DLMBSFn-V011]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 011 <{filename}../dhA/dhA-chap01%zh.rst#dhp011>`__
@@ -1003,6 +1085,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 12 They who know truth in truth, and untruth in untruth, arrive at truth, and follow true desires.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 12**
+       | Having known the essence as the essence, non-essential as non-essential, 
+       | they, feeding on right thoughts, discover the essence. [DLMBSFn-V012]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 012 <{filename}../dhA/dhA-chap01%zh.rst#dhp012>`__
 
@@ -1040,8 +1127,9 @@
        5. 增壹阿含經：蓋屋不密，天雨則漏，人不惟行，漏婬怒癡T02, 591c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - LUST PIERCES THE HEARTS OF THE UNDEVELOPED BUT NOT THOSE OF THE DEVELOPED
-        13. Even as rain penetrates as ill-thatched house, so does lust penetrate an undeveloped mind. 
+     - **LUST PIERCES THE HEARTS OF THE UNDEVELOPED BUT NOT THOSE OF THE DEVELOPED**
+
+       13. Even as rain penetrates as ill-thatched house, so does lust penetrate an undeveloped mind. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 13. Just as rain breaks through an ill-thatched house, so passion penetrates an undeveloped mind.
@@ -1068,6 +1156,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 13 As rain breaks through an ill-thatched house, passion will break through an unreflecting mind.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 13**
+       | As a poorly covered house is penetrated by a rain, 
+       | thus an undeveloped mind is penetrated by passion. [DLMBSFn-V013]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 013 <{filename}../dhA/dhA-chap01%zh.rst#dhp013>`__
@@ -1134,6 +1227,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 14 As rain does not break through a well-thatched house, passion will not break through a well-reflecting mind.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 14**
+       | As a well covered house is not penetrated by a rain, 
+       | thus a well developed mind is not penetrated by passion. [DLMBSFn-V014]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 014 <{filename}../dhA/dhA-chap01%zh.rst#dhp014>`__
 
@@ -1174,8 +1272,9 @@
        | 6.根本說一切有部毘奈耶雜事：今生若苦來生苦，由其作罪二俱苦，自知此苦由惡業，更復受苦於餘趣T24, 244a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - EVIL-DOERS SUFFER HERE AND HEREAFTER
-        15. Here he grieves, [NāradaFn01-20]_ hereafter he grieves. [NāradaFn01-21] In both states the evil-doer grieves. He grieves, he is afflicted, perceiving the impurity of his own deeds.
+     - **EVIL-DOERS SUFFER HERE AND HEREAFTER**
+
+       15. Here he grieves, [NāradaFn01-20]_ hereafter he grieves. [NāradaFn01-21] In both states the evil-doer grieves. He grieves, he is afflicted, perceiving the impurity of his own deeds.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 15. The evil-doer grieves here and hereafter; he grieves in both the worlds. He laments and is afflicted, recollecting his own impure deeds.
@@ -1226,6 +1325,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 15 The evil-doer mourns in this world, and he mourns in the next; he mourns in both. He mourns and suffers when he sees the evil of his own work.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 15**
+       | He grieves here, he grieves after death, in both states does the wrongdoer grieve. 
+       | He grieves, he is vexed, having seen his own evil deeds. [DLMBSFn-V015]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 015 <{filename}../dhA/dhA-chap01%zh.rst#dhp015>`__
 
@@ -1265,8 +1369,9 @@
        5. 三彌底部論：生世樂歡喜，異世樂欣然，作福二處歡，自見其業淨。此世業報竟，來世復應受，陰壞隨業往，更受異陰身T32, 463b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - HAPPY ARE THE WELL-DOERS HERE AND HEREAFTER
-        16. Here he rejoices, [NāradaFn01-22]_ hereafter he rejoices. [NāradaFn01-23] In both states the well-doer rejoices. He rejoices, exceedingly rejoices, perceiving the purity of his own deeds. [NāradaFn01-24]
+     - **HAPPY ARE THE WELL-DOERS HERE AND HEREAFTER**
+
+       16. Here he rejoices, [NāradaFn01-22]_ hereafter he rejoices. [NāradaFn01-23] In both states the well-doer rejoices. He rejoices, exceedingly rejoices, perceiving the purity of his own deeds. [NāradaFn01-24]
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 16. The doer of good rejoices here and hereafter; he rejoices in both the worlds. He rejoices and exults, recollecting his own pure deeds.
@@ -1317,6 +1422,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 16 The virtuous man delights in this world, and he delights in the next; he delights in both. He delights and rejoices, when he sees the purity of his own work.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 16**
+       | He rejoices here, he rejoices after death, in both states does the well-doer rejoice. 
+       | He rejoices, he is happy, having seen his own good deeds. [DLMBSFn-V016]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 016 <{filename}../dhA/dhA-chap01%zh.rst#dhp016>`__
 
@@ -1356,8 +1466,9 @@
        5. 根本說一切有部毘奈耶雜事：今生若燒來世燒，由其作罪二俱燒，自知此燒由惡業，更復轉生於惡趣T24, 244a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - THE EVIL-DOER LAMENTS HERE AND HEREAFTER
-        17. Here he suffers, hereafter he suffers. In both states the evil-doer suffers. "Evil have I done" (thinking thus), he suffers. Furthermore, he suffers, having gone to a woeful state. [NāradaFn01-25]_
+     - **THE EVIL-DOER LAMENTS HERE AND HEREAFTER**
+
+       17. Here he suffers, hereafter he suffers. In both states the evil-doer suffers. "Evil have I done" (thinking thus), he suffers. Furthermore, he suffers, having gone to a woeful state. [NāradaFn01-25]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 17. The evil-doer suffers here and hereafter; he suffers in both the worlds. The thought, "Evil have I done," torments him, and he suffers even more when gone to realms of woe.
@@ -1414,6 +1525,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 17 The evil-doer suffers in this world, and he suffers in the next; he suffers in both. He suffers when he thinks of the evil he has done; he suffers more when going on the evil path.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 17**
+       | He is tormented here, he is tormented after death, in both states is the wrongdoer tormented. 
+       | He is tormented [by the thought] "I have done evil". He is tormented even more, having gone to a bad birth. [DLMBSFn-V017]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 017 <{filename}../dhA/dhA-chap01%zh.rst#dhp017>`__
 
@@ -1447,8 +1563,9 @@
        2. 今歡後歡，為善兩歡，厥為自祐，受福悅豫。（法句譬喻經, T04, 583b） [TSFn01-56]_
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - HAPPY ARE THE RIGHTEOUS
-        18. Here he is happy, hereafter he is happy. In both states the well-doer is happy. "Good have I done" (thinking thus), he is happy. Furthermore, he is happy, having gone to a blissful state.
+     - **HAPPY ARE THE RIGHTEOUS**
+
+       18. Here he is happy, hereafter he is happy. In both states the well-doer is happy. "Good have I done" (thinking thus), he is happy. Furthermore, he is happy, having gone to a blissful state.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 18. The doer of good delights here and hereafter; he delights in both the worlds. The thought, "Good have I done," delights him, and he delights even more when gone to realms of bliss.
@@ -1505,6 +1622,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 18 The virtuous man is happy in this world, and he is happy in the next; he is happy in both. He is happy when he thinks of the good he has done; he is still more happy when going on the good path.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 18**
+       | He is delighted here, he is delighted after death, in both states is the well-doer delighted. 
+       | He is delighted [by the thought] "I have done good". He is delighted even more, having gone to a good birth. [DLMBSFn-V018]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 018 <{filename}../dhA/dhA-chap01%zh.rst#dhp018>`__
 
@@ -1542,8 +1664,9 @@
        4. 增壹阿含經：多誦無益事，此法非為妙，猶算牛頭數，非此沙門要T02,673b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - LEARNING WITHOUT PRACTICE IS OF NO WORTH
-        19. Though much he recites the Sacred Texts, [NāradaFn01-26]_ but acts not accordingly, that heedless man is like a cowherd who counts others' kine. He has no share in the fruits [NāradaFn01-27]_ of the Holy Life. [NāradaFn01-28]_ 
+     - **LEARNING WITHOUT PRACTICE IS OF NO WORTH**
+
+       19. Though much he recites the Sacred Texts, [NāradaFn01-26]_ but acts not accordingly, that heedless man is like a cowherd who counts others' kine. He has no share in the fruits [NāradaFn01-27]_ of the Holy Life. [NāradaFn01-28]_ 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 19. Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others — he does not partake of the blessings of the holy life.
@@ -1578,6 +1701,11 @@
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 019 <{filename}../dhA/dhA-chap01%zh.rst#dhp019>`__
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 19**
+       | Even if he recites a lot of scriptures, but does not act accordingly, the negligent man.
+       | He is like a cowherd who counts others' cows. He does not share the [blessings of] monkshood. [DLMBSFn-V019]_
 
 .. _Dhp020:
 
@@ -1666,6 +1794,12 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 20 The follower of the law, even if he can recite only a small portion (of the law), but, having forsaken passion and hatred and foolishness, possesses true knowledge and serenity of mind, he, caring for nothing in this world or that to come, has indeed a share in the priesthood.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 20**
+       | Even if he recites a little of scriptures, but lives in truth according to the Dharma, 
+       | having abandoned lust, hatred and delusion, has the right knowledge, with a well emancipated mind, 
+       | is not attached to anything, either in this world, nor in the other one, he shares the [blessings of] monkshood. [DLMBSFn-V020]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 020 <{filename}../dhA/dhA-chap01%zh.rst#dhp020>`__
 
@@ -1712,6 +1846,8 @@
 .. [10] 〔註010〕　此英譯為 `Friedrich Max Müller <https://en.wikipedia.org/wiki/Max_M%C3%BCller>`__ 所譯；請參考原始出處(original): `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
 .. [11] 〔註011〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+
+.. [12] 〔註012〕　取材自： `經文選讀 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ （ `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/index.jsp>`__ --- 語言教學． `巴利語教學 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali1.jsp>`__ ）
 
 .. [LCanFn01-01] 〔了參法師註01-01〕　舊譯雙要品。
 
@@ -2131,6 +2267,74 @@
 .. [ThaniSFn-V17-18]  (Ven. Thanissaro V. 17-18) "Destination" in these two verses and throughout the text means one's destination after death.
 
 .. [VaradoFn01-1]  (Ven. Varado 01-1) Verse 6: "man should live restrained" (yamāmase). PED (yamati): "to control oneself".
+
+.. [DLMBSFn-V001] (DLMBS Commentary V001) In this verse (and the following one, DhP 2) some philosophical observations are made about the nature of our mind. It says that all the mental phenomena, happiness or suffering, joy or sorrow are made by, or are the outcome of, the quality of the mind. These mental phenomena are (according to the teachings of Abhidhamma) feelings (vedanā), perception (saññā) and volitional activities (saṅkhāra). And because these phenomena are created by, or so closely related to, the mind, they are always "colored" in the same way as the mind is. If the mind (as in this verse) is corrupted, full of evil thoughts, then only suffering and sorrow awaits us as a result of this. In other words, the mind, creating these mental phenomena simply creates them "to its own image". Therefore, negative thinking always brings with it suffering and sorrow, just as the wheel follows in the path of the animal carrying the charriot. We experience suffering only because our minds are not purified, we are not awakened. To purify the mind is to get rid of suffering once and for all.
+
+.. [DLMBSFn-V002] (DLMBS Commentary V002) This verse is closely related to the previous one (DhP 1). If the mind is purified, the mental phenomena it creates are also pure. Therefore, joy and happiness follow as surely as suffering and sorrow in case of a defiled mind. As we can see from these two verses, happiness and suffering depends on us entirely, on our own minds, on the thoughts that we are harboring. There is no other way to happiness then purification of mind and ultimately, in destroying all the defilement completely and reaching the highest goal, the awakenment of Nirvana.
+
+.. [DLMBSFn-V003] (DLMBS Commentary V003) This verse speaks about the very well known fact, so stressed by the modern psychology. If we succumb to thoughts of injustice done to us, if we always consider ourselves "poor things" that the "strong ones" play with, our suffering and hatred will never disappear, but it will increase, because "they" will feel our insecurity and will enjoy inflicting pain on us even more. "Oh, how could he (or she, for that matter) do this to me? It is so unfair!" By this thinking we will certainly not prevent these things to happen in the future again.
+
+                  How to deal with this situation is spoken about in the following verse.
+
+.. [DLMBSFn-V004] (DLMBS Commentary V004) This verse is a "twin verse" of the previous one. If we can not conquer the hatred and suffering by crying and feeling powerless, it is exactly by the absence of such thoughts, that our hatred will disappear and dissolve. And when those people who enjoy making us suffer, see that we are not intimidated and do not give in to their way of thinking, they will eventually stop this kind of behavior.
+
+                  Indeed, it is said very easily and the majority of people will quickly agree with it, but it is extremely difficult to bring this idea to life. Therefore, we must practice this more often in our daily lives -- and our effort must bear its fruits.
+
+.. [DLMBSFn-V005] (DLMBS Commentary V005) This pair of verses (DhP 5 and 6) is very close in meaning to the previous pair (DhP 3 and 4). Again, a very simple truth, that most of the religions in the history have stressed again and again. The only cure for hatred is the abstention from it. Never can we stop people from hating us by hating them. In this way, mutual hatred will rise -- often to the point when hatred gives way to violence.
+
+                  The only way to stop this chain of hatred is to stop hating, of course. As the verse says, this is an eternal law. It was always so and always will be. One can only wish that we could remember this verse in all situations and deal accordingly. How many wars, how much suffering could be easily averted just by taking the advice of this short verse seriously.
+
+.. [DLMBSFn-V006] (DLMBS Commentary V006) This verse is related to the previous one (DhP 5), even if this relation is not apparent immediately. In DhP 5 we are told that hatred can not be appeased by hatred but only by abstention from hatred. Here it says that some people do not understand this, do not know that we should restrain ourselves, that we should not give in to hatred. Those who realize that, of course, stop their enmity and quarreling, thus stopping hatred completely.
+
+                  By the word "others" the authors probably meant the people, who do not realize this eternal law (that hatred can be appeased by non-hatred only). The use of the word "here" ("that we should restrain ourselves here") suggests this world, our present situation. It can also point to the previous verse -- then we should understand "here" as "this" (meaning this eternal law of appeasing hatred by non-hatred).
+
+.. [DLMBSFn-V007] (DLMBS Commentary V007) What we have described here, is a recipe, how to become a prey of our own mind. For Mara, The Evil One, is not some outside force, some "devil" or deity of death and destruction, it is only our mind, our bad habits, laziness, evil intentions and especially ignorance, the true root of all evil. If we dwell with our minds only on the pleasant things, if we indulge in enjoying pleasurable things (subhānupassiṃ viharantaṃ), then it is easy for these tendencies in our brain ("Mara") to gain strength. The same thing happens, when we are unrestrained in six senses (eye, ear, nose, tongue, body and mind), taking in without restraint and reflection everything that comes and if we never have enough of sense pleasures (indriyesu asaṃvutaṃ). And of course, if we do not know moderation in food, we can expect the same result, because indulgence in food is actually a part of lack of restraint in senses (bhojanamhi cāmattaññuṃ). Laziness (kusītaṃ) and lack of effort to change our ways (hīnavīriyaṃ) will not help us to get rid of these bad habits and the roots of meditative life will slowly wither and die away. And without strong, often cultivated roots, the tree of our practice will not grow higher and higher, will never bring fruits in reaching the Nirvana, but our bad tendencies will subdue us, our hope for reaching the goal, just as easily, as wind uproots a weak tree.
+
+.. [DLMBSFn-V008] (DLMBS Commentary V008)   Here, on the other hand (in contrast to DhP 7) is described the way, how to nourish the roots of meditative life, how to destroy the bad tendencies, how to become immune to Mara, to the evil part of our mind. We must not dwell with our minds only on the pleasant things and indulge in enjoying pleasurable things (asubhānupassiṃ viharantaṃ). Another way to understand this phrase is that we should contemplate the unpleasant things, to understand that there is really nothing to be attached to, that attachment to pleasant things brings about the strength of "Mara", of our bad habits and tendencies. 
+                  
+                  We must also be well restrained (indriyesu susaṃvutaṃ) in senses and know moderation in food (bhojanamhi ca mattaññuṃ). Thus, senses are guarded, we do not take everything in indiscriminately, and we contemplate on what we see, hear, smell, taste, touch and think. We are not attached to pleasant sense-impressions, we do not hate unpleasant sense-impressions, and we are observant and concentrated and thus able to bring meditation to everyday life. 
+                  
+                  Important part is also trust (saddhaṃ). Trust in the way, that the Buddha taught us, trust in the methods that are part of the way, trust in the goal that can be reached by following this way. Without this basic trust (which is not blind faith, for it is easily verified, as we go forward on the way) no progress is possible. 
+                  
+                  We must also be firm in effort (āraddhavīriyaṃ). Effort is of course a basic necessity. We must make an effort to put everything that was said above into our daily lives. It is only by this constant effort, that we are able to progress towards the goal. 
+                  
+                  If we practice in this way, the roots of meditation will flourish, will become strong and invincible. Eventually, the tree of our practice will bear its fruit, our mind will reach the peaceful state of Nirvana. Mara, the dark side of our mind has no way to influence us, no way to overcome us, just like the wind is not able to blow away a rocky mountain.
+
+.. [DLMBSFn-V009] (DLMBS Commentary V009) This verse as well as the following one (DhP 10) talks about who is and who is not worthy to wear a monk's robe. One, who did not get rid of defilement (anikkasāvo), who is full of these impurities, who does not know self-control and restraint (dama) and who is far away (apeto) from truth (sacca), does not deserve to wear a yellow robe. Such a person can not call himself a monk, even if he should be dressed in the monk's robe. 
+
+                  As defilement (kasāva) are usually understood so called three roots of evil: lobha (greed), dosa (hatred) and moha (delusion).
+
+.. [DLMBSFn-V010] (DLMBS Commentary V010) In contrast to DhP 9, the person, who deserves to wear a monk's robe is described here. Who "threw up", or got completely rid of, defilement (vantakasāvo), who is well settled and well established in his virtues (sīlesu susamāhito) and who is endowed (upeto) with restraint (dama) and knows the truth (sacca), such a person deserves to wear a yellow monk's robe. Such a person can truly be called a monk.
+
+.. [DLMBSFn-V011] (DLMBS Commentary V011)  One can of course never expect to understand, or get close to, the "essence", the heart of the problem, if one keeps looking in the wrong direction. This is true in every field of our endeavor. Therefore this rule necessarily applies also to spiritual efforts. This verse says that if we mistake the essential things for nonsense and think that there is some essence in things that are actually empty of it, we can not ever get even close to the reality. All kinds of superstition fall into this category, various activities that (although they look nice and can be even pleasant) do not bring us closer to the goal, which is the purification of mind. As the verse notes, this is the "pasture for wrong thoughts". As the cows on the pasture, the thoughts, wandering in this direction, will grow stronger and will multiply. The only problem is -- it will not help us on our way at all.
+
+.. [DLMBSFn-V012] (DLMBS Commentary V012) In contrast to DhP 11, if we really know, what is important and what is empty, if we know, where the essence lies, it is possible for us to discover it. We can take as an example the case if we want to clean the dirty floor. It will not help us to start scrubbing the table. Sure, a clean table is a nice thing, but we wanted the floor to be clean, not the table. In the same way, if we want to purify our mind, we must carefully decide and understand, how to do it, what is the correct procedure. If we know, what is essential in order to reach our goal, then we have a chance of accomplishing it. This is a "pasture for right thoughts". The right thoughts will grow and multiply -- this time only for our benefit.
+
+.. [DLMBSFn-V013] (DLMBS Commentary V013) A roof is the most important part of any house. If the roof is not well done, if we try to "cheat" and use cheap material of poor quality, we can be surprised when a strong rain comes. The roof will not be able to hold off the water and it will leak. Everything inside the house then becomes wet instantly - and after the rain we can start building again.
+
+                  In the same way, the mind is the most important part of the human being. If it is not "well developed", if we have not practiced meditation earnestly, it will also "leak". The passions, hatred and other stuff will enter our mind and make it difficult for us to purify our minds. After one such "rain" we can start "rebuilding" our mind again.
+
+.. [DLMBSFn-V014] (DLMBS Commentary V014) And (continuing from DhP 13) if the roof on our house is well done, if we have made careful plans and executed them well, if we paid enough attention to the roof, then we do not have to be afraid of any rain, no matter how strong. The roof will hold it and the inside of the house will not become flooded, not even wet.
+
+                  And in the case of mind, the same rule applies. If we made a conscious decision to develop it, to keep high level of mindfulness and alert, if we sharpen our mind in meditation, all the passions have no way of entering. The "roof" holds and we can concentrate on our main goal -- cleansing the mind, without a need to repair the roof after every light shower.
+
+.. [DLMBSFn-V015] (DLMBS Commentary V015) Doing evil deeds is a sure way to grief and despair. As we know from modern history, the greatest evildoers of this century (Stalin, Mao, Hitler, etc.) did not have an easy life. Their were troubled personalities, seeing enemies behind every shadow. The amount of evil they created hunted them mercilessly and efficiently.
+
+                  If we commit an evil deed (a definition of evil deed is that it is an action which harms other living beings in any way -- physical or mental) not only our consciences bothers us (or at least it should, if we are to call ourselves human beings), but it will also bring us a bad rebirth. Thus, when we see our evil deeds, we will grieve both in this life and in the next one.
+
+.. [DLMBSFn-V016] (DLMBS Commentary V016) In direct contrast to the verse 15 (see), if we commit good deeds, helping all living beings in different ways, we will not only be happy in this life, having the satisfaction of doing good deeds, but we will also obtain a favorable rebirth. So, when we see our good deeds, we rejoice in the knowledge thereof.
+
+.. [DLMBSFn-V017] (DLMBS Commentary V017) This pair of verses (DhP 17 and DhP 18) is closely related to the previous pair (DhP 15 and DhP 16).
+
+                  Here again, the evildoer is tormented both here and in the next life. Not only does the very idea that he has done evil torment him, but even more grief awaits him in his next life, where he will go to the undesirable states of being -- as an animal, to the hell etc.
+
+.. [DLMBSFn-V018] (DLMBS Commentary V018) In contrast to the previous verse (DhP 17), one, who performs good deeds is happy and delighted both in this life and after death. The idea "I have done good deeds" brings him inner satisfaction and happiness. Even more happiness then brings him his next birth - as a human being (the best of all possibilities), as a celestial being in various heavenly worlds etc.
+
+.. [DLMBSFn-V019] (DLMBS Commentary V019) The teacher must act according to his own words. A monk, who talks nice, true words, but his acts are not in accordance with them, does not really share the blessings of monk's life. He is like a hireling, doing work for others.
+
+                  A cowherd is poor, he usually does not have his own cows, and he just takes others' cows out to the pasture. He does not have a real profit out of his actions. In the same sense, the monk who only talks about the Buddha's teachings, but does not put them into practice himself, does not reap the fruit thereof, is just like the cowherd. Thus he neglects his own practice and as we will soon hear in coming verses, the negligence is not a good path to take.
+
+.. [DLMBSFn-V020] (DLMBS Commentary V020) So, who can be truly called a monk, who shares the blessings of monkshood? It must be a person, who is living in accordance with the Dharma, as proclaimed by the Buddha. He must abandon all three roots of evil (lust, hatred and delusion), must have the right knowledge of the Dharma and his mind must be liberated. He must not of course be attached to anything in this world, but neither to anything in his possible future rebirths. Such a person is sharing all the blessings of monkshood, even if he does not preach the Dharma a lot.
 
 ---------------------------
 
