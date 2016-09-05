@@ -3,7 +3,7 @@
 =========================================================================
 
 :date: 2016-02-11 11:30
-:modified: 2016-07-02 17:00
+:modified: 2016-09-05 17:00
 :tags: 法句經, 法句經對讀, 不放逸品, Dhp, Dhammapada, Appamādavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Heedfulness
@@ -94,16 +94,19 @@
        | 10.根本說一切有部毘奈耶雜事：若不放逸者，能得不死處，若作放逸人，終歸於死路T24, 274b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - Chapter 2 Heedfulness
-        THE HEEDLESS DIE; THE HEEDFUL DO NOT
-         21. Heedfulness [NāradaFn02-01]_ is the path to the deathless, [NāradaFn02-02]_ heedlessness is the path to death. The heedful do not die; [NāradaFn02-03]_ the heedless are like unto the dead.
+     - **Chapter 2 Heedfulness**
+
+       **THE HEEDLESS DIE; THE HEEDFUL DO NOT**
+
+       21. Heedfulness [NāradaFn02-01]_ is the path to the deathless, [NāradaFn02-02]_ heedlessness is the path to death. The heedful do not die; [NāradaFn02-03]_ the heedless are like unto the dead.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - Dhp II Heedfulness
+     - **Dhp II Heedfulness**
+
         21. Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already. [BudRkFn-v21]_
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - Dhp II Heedfulness
+     - **Dhp II Heedfulness**
        
        **21-24** [ThaniSFn-V21]_
        ::
@@ -137,15 +140,24 @@
             grows.
 
    * - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu** ) [9]_
-     - **2. Diligence** 
-        | **21** Diligence is the path to the Deathless,
-        | And negligence the pathway to death.
-        | They perish not, those who are diligent;
-        | The negligent are like unto the dead.
+     - **2. Diligence**
+
+       | **21** Diligence is the path to the Deathless,
+       | And negligence the pathway to death.
+       | They perish not, those who are diligent;
+       | The negligent are like unto the dead.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - Chapter II: On Earnestness
-        21 Earnestness is the path of immortality (Nirvana), thoughtlessness the path of death. Those who are in earnest do not die, those who are thoughtless are as if dead already. 
+     - **Chapter II: On Earnestness**
+
+       21 Earnestness is the path of immortality (Nirvana), thoughtlessness the path of death. Those who are in earnest do not die, those who are thoughtless are as if dead already. 
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - **Chapter 2: Conscientiousness**
+
+       | **DhP 21** 
+       | Conscientiousness is the state of deathlessness. Negligence is the state of death. 
+       | The conscientious ones do not die. Those, who are negligent, are as if dead. [DLMBSFn-V021]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 021 <{filename}../dhA/dhA-chap02%zh.rst#dhp021>`__
@@ -223,6 +235,10 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 22 Those who are advanced in earnestness, having understood this clearly, delight in earnestness, and rejoice in the knowledge of the Ariyas (the elect).
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 22**
+       | Having thus distinctively understood about conscientiousness, the wise ones rejoice in conscientiousness, delighting in the sphere of the Noble Ones. [DLMBSFn-V022]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 022 <{filename}../dhA/dhA-chap02%zh.rst#dhp022>`__
 
@@ -299,6 +315,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 23 These wise people, meditative, steady, always possessed of strong powers, attain to Nirvana, the highest happiness.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 23**
+       | Those meditating perseveringly, constantly with strong effort, 
+       | those clever ones touch the Nirvana, the highest peace from bondage. [DLMBSFn-V023]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 023 <{filename}../dhA/dhA-chap02%zh.rst#dhp023>`__
 
@@ -332,8 +353,9 @@
        3. 正念常興起，意靜易滅除，自制以法命，不犯善名稱。（法集要頌經, T04, 779a）
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - THE ENERGETIC PROSPER
-        24. The glory of him who is energetic, mindful, pure in deed, considerate, self-controlled, right-living, and heedful steadily increases.
+     - **THE ENERGETIC PROSPER**
+
+       24. The glory of him who is energetic, mindful, pure in deed, considerate, self-controlled, right-living, and heedful steadily increases.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 24. Ever grows the glory of him who is energetic, mindful and pure in conduct, discerning and self-controlled, righteous and heedful.
@@ -384,6 +406,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 24 If an earnest person has roused himself, if he is not forgetful, if his deeds are pure, if he acts with consideration, if he restrains himself, and lives according to law,--then his glory will increase.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 24**
+       | The good repute of someone, who is energetic, mindful, of pure deeds, acting 
+       | considerately, self-controlled, living righteously and conscientious, increases. [DLMBSFn-V024]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 024 <{filename}../dhA/dhA-chap02%zh.rst#dhp024>`__
 
@@ -417,8 +444,9 @@
        3. 發行不放逸，約己調伏心，能善作智燈，黑闇自破壞。（法集要頌經, T04,779a）
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - BY THEIR EFFORTS THE WISE CREATE THEIR OWN HEAVENS
-        25. By sustained effort, earnestness, discipline, and self-control let the wise man make for himself an island, [NāradaFn02-09]_ which no flood overwhelms.
+     - **BY THEIR EFFORTS THE WISE CREATE THEIR OWN HEAVENS**
+
+       25. By sustained effort, earnestness, discipline, and self-control let the wise man make for himself an island, [NāradaFn02-09]_ which no flood overwhelms.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 25. By effort and heedfulness, discipline and self-mastery, let the wise one make for himself an island which no flood can overwhelm.
@@ -444,6 +472,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 25 By rousing himself, by earnestness, by restraint and control, the wise man may make for himself an island which no flood can overwhelm.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 25**
+       | By exertion, conscientiousness, self-control and moderation, 
+       | a wise should make an island, that a flood can not overwhelm. [DLMBSFn-V025]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 025 <{filename}../dhA/dhA-chap02%zh.rst#dhp025>`__
@@ -480,8 +513,9 @@
        4. 修習放逸人，愚人所狎習，正觀不散亂，如財主守藏。（法集要頌經, T04,779a） [TSFn02-09]_
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - BE HEEDFUL NOT HEEDLESS
-        26. The ignorant, foolish folk indulge in heedlessness; the wise man guards earnestness as the greatest treasure.
+     - **BE HEEDFUL NOT HEEDLESS**
+
+       26. The ignorant, foolish folk indulge in heedlessness; the wise man guards earnestness as the greatest treasure.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 26. The foolish and ignorant indulge in heedlessness, but the wise one keeps his heedfulness as his best treasure.
@@ -502,6 +536,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 26 Fools follow after vanity, men of evil wisdom. The wise man keeps earnestness as his best jewel.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 26**
+       | The fools, the ignorant people give themselves up to negligence. 
+       | And the wise one protects conscientiousness as the greatest treasure. [DLMBSFn-V026]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 026 <{filename}../dhA/dhA-chap02%zh.rst#dhp026>`__
@@ -561,6 +600,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 27 Follow not after vanity, nor after the enjoyment of love and lust! He who is earnest and meditative, obtains ample joy.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 27**
+       | Don't pursue negligence or intimacy with pleasure delights. 
+       | Conscientious practitioner of meditation obtains abundant happiness. [DLMBSFn-V027]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 027 <{filename}../dhA/dhA-chap02%zh.rst#dhp027>`__
 
@@ -601,8 +645,9 @@
        | 6.大般涅槃經：精進勇健者，若處於山頂，平地及曠野，常見諸凡夫。昇大智慧殿，無上微妙臺，既自除憂患，亦見眾生憂T12, 656c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - HEEDLESSNESS SHOULD BE CONQUERED BY HEEDFULNESS
-        28. When an understanding one discards heedlessness by heedfulness, he, free from sorrow, ascends to the palace of wisdom and surveys the sorrowing folk as a wise mountaineer surveys the ignorant groundlings. [NāradaFn02-10]_
+     - **HEEDLESSNESS SHOULD BE CONQUERED BY HEEDFULNESS**
+
+       28. When an understanding one discards heedlessness by heedfulness, he, free from sorrow, ascends to the palace of wisdom and surveys the sorrowing folk as a wise mountaineer surveys the ignorant groundlings. [NāradaFn02-10]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 28. Just as one upon the summit of a mountain beholds the groundlings, even so when the wise man casts away heedlessness by heedfulness and ascends the high tower of wisdom, this sorrowless sage beholds the sorrowing and foolish multitude.
@@ -631,6 +676,13 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 28 When the learned man drives away vanity by earnestness, he, the wise, climbing the terraced heights of wisdom, looks down upon the fools, serene he looks upon the toiling crowd, as one that stands on a mountain looks down upon them that stand upon the plain.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 28**
+       | When the wise one expels negligence by conscientiousness, 
+       | having climbed the stronghold of wisdom, without sorrow, 
+       | such a clever one observes the sorrowing crowd 
+       | as somebody standing on a mountain observes the foolish people on the ground. [DLMBSFn-V028]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 028 <{filename}../dhA/dhA-chap02%zh.rst#dhp028>`__
@@ -670,8 +722,9 @@
        | 6.毘婆沙論：不放逸放逸，睡眠覺寤者，猶如利鈍馬，前發者先至T28, 355b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - THE STRENUOUS AND THE ALERT OVERTAKE THE THOUGHTLESS AND THE INDOLENT
-        29. Heedful amongst the heedless, wide awake amongst the slumbering, the wise man advances as does a swift horse, leaving a weak jade behind.
+     - **THE STRENUOUS AND THE ALERT OVERTAKE THE THOUGHTLESS AND THE INDOLENT**
+       
+       29. Heedful amongst the heedless, wide awake amongst the slumbering, the wise man advances as does a swift horse, leaving a weak jade behind.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 29. Heedful among the heedless, wide-awake among the sleepy, the wise man advances like a swift horse leaving behind a weak jade.
@@ -696,6 +749,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 29 Earnest among the thoughtless, awake among the sleepers, the wise man advances like a racer, leaving behind the hack.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 29**
+       | Conscientious amongst the negligent, watchful amongst the sleeping, 
+       | the wise one advances like a swift horse, having left behind a weak one. [DLMBSFn-V029]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 029 <{filename}../dhA/dhA-chap02%zh.rst#dhp029>`__
@@ -728,8 +786,9 @@
        2. 讚歎不放逸，毀彼放逸人，恒獲人天報，最上為殊勝。（法集要頌經, T04, 779b）
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - EARNESTNESS LEADS TO SOVEREIGNTY
-        30. By earnestness Maghavā [NāradaFn02-11]_ rose to the lordship of the gods. [NāradaFn02-12]_ Earnestness is ever praised; negligence is ever despised.
+     - **EARNESTNESS LEADS TO SOVEREIGNTY**
+
+       30. By earnestness Maghavā [NāradaFn02-11]_ rose to the lordship of the gods. [NāradaFn02-12]_ Earnestness is ever praised; negligence is ever despised.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 30. By Heedfulness did Indra become the overlord of the gods. Heedfulness is ever praised, and heedlessness ever despised. [BudRkFn-v30]_
@@ -752,6 +811,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 30 By earnestness did Maghavan (Indra) rise to the lordship of the gods. People praise earnestness; thoughtlessness is always blamed.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 30**
+       | By conscientiousness did Indra become the chief amongst the gods. 
+       | Conscientiousness is praised, negligence is always censured. [DLMBSFn-V030]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 030 <{filename}../dhA/dhA-chap02%zh.rst#dhp030>`__
@@ -803,8 +867,9 @@
        8.佛說犯戒罪報輕重經：比丘謹慎樂，放逸多憂譴，變諍小致大，積惡入火焚T24, 910c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - THE HEEDFUL ADVANCE
-        31. The Bhikkhu [NāradaFn02-13]_ who delights in heedfulness, and looks with fear on heedlessness, advances like fire, burning all fetters [NāradaFn02-14]_ great and small.
+     - **THE HEEDFUL ADVANCE**
+
+       31. The Bhikkhu [NāradaFn02-13]_ who delights in heedfulness, and looks with fear on heedlessness, advances like fire, burning all fetters [NāradaFn02-14]_ great and small.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 31. The monk who delights in heedfulness and looks with fear at heedlessness advances like fire, burning all fetters, small and large.
@@ -833,6 +898,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 31 A Bhikshu (mendicant) who delights in earnestness, who looks with fear on thoughtlessness, moves about like fire, burning all his fetters, small or large.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 31**
+       | The monk, who is devoted to conscientiousness and who is fearful of negligence, 
+       | advances like a fire, burning the fetters, small or big. [DLMBSFn-V031]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 031 <{filename}../dhA/dhA-chap02%zh.rst#dhp031>`__
@@ -877,8 +947,9 @@
        | 5.本事經：常樂不放逸，見放逸生怖，諸見能永斷，速證般涅槃T17, 679a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - THE HEEDFUL ARE IN THE PRESENCE OF NIBBĀNA
-        32. The Bhikkhu who delights in heedfulness, and looks with fear on heedlessness, is not liable to fall. [NāradaFn02-15]_ He is in the presence of Nibbāna.
+     - **THE HEEDFUL ARE IN THE PRESENCE OF NIBBĀNA**
+
+       32. The Bhikkhu who delights in heedfulness, and looks with fear on heedlessness, is not liable to fall. [NāradaFn02-15]_ He is in the presence of Nibbāna.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - 32. The monk who delights in heedfulness and looks with fear at heedlessness will not fall. He is close to Nibbana.
@@ -907,6 +978,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 32 A Bhikshu (mendicant) who delights in reflection, who looks with fear on thoughtlessness, cannot fall away (from his perfect state)--he is close upon Nirvana.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 32**
+       | The monk, who is devoted to conscientiousness and who is fearful of negligence, 
+       | unable to regress, he is just in the vicinity of the Nirvana. [DLMBSFn-V032]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　漢譯　二、不放逸品 (Heedfulness) Dhp. 032 <{filename}../dhA/dhA-chap02%zh.rst#dhp032>`__
@@ -954,6 +1030,8 @@
 .. [10] 〔註010〕　此英譯為 `Friedrich Max Müller <https://en.wikipedia.org/wiki/Max_M%C3%BCller>`__ 所譯；請參考原始出處(original): `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
 .. [11] 〔註011〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+
+.. [12] 〔註012〕　取材自： `經文選讀 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ （ `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/index.jsp>`__ --- 語言教學． `巴利語教學 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali1.jsp>`__ ）
 
 .. [LCanFn02-01] 〔了參法師註02-01〕　不死(Amata)，又做甘露、涅槃。
 　
@@ -1168,6 +1246,88 @@
 .. [ThaniSFn-V22] (Ven. Thanissaro V. 22) "The range of the noble ones": Any of the four stages of Awakening, as well as the total Unbinding to which they lead. The four stages are: (1) stream-entry, at which one abandons the first three mental fetters tying one to the round of rebirth: self-identity views, uncertainty, and grasping at habits and practices; (2) once-returning, at which passion, aversion, and delusion are further weakened; (3) non-returning, at which sensual passion and irritation are abandoned; and (4) arahantship, at which the final five fetters are abandoned: passion for form, passion for formless phenomena, conceit, restlessness, and ignorance. For other references to the "range of the noble ones," see `92-93 <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.07.than.html#dhp-92>`_ and `179-180 <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.than.html#dhp-179>`_.
 
 .. [ThaniSFn-V23] (Ven. Thanissaro V. 23) `AN 4.10 <http://www.accesstoinsight.org/tipitaka/an/an04/an04.010.than.html>`_ lists four yokes: the yoke of sensuality, the yoke of becoming, the yoke of views, and the yoke of ignorance. To gain rest from the first three yokes, one must discern, as it actually is present, the origination, the passing away, the allure, the drawbacks, and the escape from that yoke. One will then not be obsessed with passion, delight, attraction, infatuation, thirst, fever, fascination, craving with regard to that yoke. To gain rest from the yoke of ignorance, one must discern, as it actually is present, the origination, the passing away, the allure, the drawbacks, and the escape from the six sense media. One will then not be obsessed with not-knowing.
+
+.. [DLMBSFn-V021] (DLMBS Commentary V021) Conscientiousness is one of the most important characteristics to be developed. Without it, we can not proceed on our path towards awakenment. If we are negligent, how can we find energy to purify our minds? 
+    
+                  So, the conscientiousness is the path to deathlessness. Only with it we can find our way to the final goal, Nirvana, which is the deathless state. Negligence on the other hand is the way to the repeated cycle of birth and death. 
+                  
+                  Conscientious people are able to reach the Nirvana, thus escaping the cycle of rebirths, whereas those, who are negligent, can not escape. They might as well be dead already.
+
+.. [DLMBSFn-V022] (DLMBS Commentary V022) The wise people know very clearly, that the conscientiousness is the state of deathlessness (the word thus refers to the previous verse, DhP 21). Therefore, they rejoice in conscientiousness, they praise it and pay high attention to it.
+
+                  They are delighting in the "sphere of the Noble Ones". This is of course nothing else than the Nirvana. So, again, the only way to reach this state is to make conscientious effort in this direction, applying all one's energy and striving.
+
+.. [DLMBSFn-V023] (DLMBS Commentary V023) Continuing the line of reasoning from previous verses (DhP 21 and DhP 22), if one knows, that conscientiousness is the key to reaching of the Nirvana, one maintains a high level of it. Applying this conscientiousness to the practice of meditation, one has to persevere, constantly and with strong effort. By this, we are able to reach Nirvana, to really "touch" it here and now. Thus, we obtain the highest peace from bondage, the only true peace and freedom available.
+
+.. [DLMBSFn-V024] (DLMBS Commentary V024) The story says that there was an heir of a rich family, named Kumbhaghosaka, once in the city of Rājagaha. His parents died in the epidemic and he alone escaped and lived in the forest for some time. When he returned, nobody recognized him. He did not want to use the family wealth (which was buried in a safe place) out of fear that people might think he found it accidentally and thus the king might confiscate it. So he found a job (waking people in the morning) and lived a poor life. 
+                  
+                  But the king saw him once and recognized that his voice and manners are of a man of great wealth. He then sent his maid to investigate. At the end he summoned Kumbhaghosaka to the court. There the young man told him the story and the king made him a banker and gave his daughter in marriage to him. 
+                  
+                  When the Buddha heard about it, he spoke this verse. 
+                  
+                  If one always acts properly, with energy and mindfulness, applies self-control and consideration, is always conscientious, his good repute will increase, because people will know that he is a man of honor, that they can trust him. And they will report this to the others - who will then come to see for themselves, again telling other people about this. So the good word will spread around and everybody will trust such a person.
+
+.. [DLMBSFn-V025] (DLMBS Commentary V025) With this verse is associated the famous story of Cūḷapanthaka. There were two brothers, Mahāpantkaha and Cūḷapanthaka. Both become monks, but Cūḷapanthaka was not very clever and he was not able to learn the Buddha's Teachings. Mahāpantkaha on the other hand was very bright and he soon became an arahant. 
+                  
+                  The Buddha once gave a clean piece of cloth to Cūḷapantkaha and told him to rub it while repeating the words "taking on impurity". Cūḷapanthaka then did as instructed and soon the cloth became dirty. The Buddha then told him, that our mind is very similar to that piece of cloth, becoming dirty with the "dust of passion, hatred and delusion. Attaining of arahantship is not very different from cleaning the piece of cloth - we have to "wash" our minds of this dust diligently. 
+                  
+                  Cūḷapanthaka realized this and practiced meditation accordingly. Soon, he too became an arahant, as his elder brother. 
+                  
+                  The Buddha then spoke this verse, telling us that only by diligence, self-control and applying energy we can make an island in ourselves which the flood of passion, hatred and delusion will not be able to overwhelm.
+
+.. [DLMBSFn-V026] (DLMBS Commentary V026) The story associated with this verse and the following one (DhP 27) speaks about a festival that was celebrated in the city of Sāvatthī while the Buddha was residing there. 
+                  
+                  Many young men were practicing some sort of religious rituals, roaming about the city, shouting and begging for money at every door in the city. 
+                  
+                  Buddha's lay disciples in that city warned him not to enter the city and they themselves did not leave their houses. After one week of the festival ended, the Buddha again entered Sāvatthī and then spoke these two verses (DhP 26 and 27).
+
+.. [DLMBSFn-V027] (DLMBS Commentary V027) The story for this verse is the same as for the previous one (see DhP 26). 
+                  
+                  Whereas the foolish and ignorant ones indulge in negligence and sense-pleasures, as the young men did during the festival in Sāvatthī, those, who are wise, treasure the conscientiousness like a jewel. If they practice the meditation diligently, with perseverance, never becoming negligent, they will at the end definitely reach the "abundant happiness" - which is of course only another term for the Awakenment and the Nirvana.
+
+.. [DLMBSFn-V028] (DLMBS Commentary V028) The story says, that one of the chief disciples of the Buddha, the Elder Mahākassapa was once practicing meditation, trying to find out which of the beings in the world were conscientious and which were negligent. He also tried to find who was about to be born and who was about to die. 
+                  
+                  The Buddha learned about this and told him not to waste his time on something like that - because such things do not lead to the Awakenment. In addition to that, such a task is possible only for a Buddha, because of the innumerable beings in the world. The Buddha the spoke this verse. 
+                  
+                  The negligence is of course best dispelled with the conscientiousness. When we are able to do that, we will "climb the stronghold of wisdom", we will reach the Nirvana. Then we can look at the others, who are still negligent, as somebody on the top of a mountain can watch the people on the plain below him.
+
+.. [DLMBSFn-V029] (DLMBS Commentary V029) Once, there were two monks, who were friends. They both got a subject of meditation from the Buddha. So they went to the forest monastery to meditate. One of them was rather lazy. Because it was winter, he was warming himself by the fire the first part of the night and the other part he spent talking to other monks and novices. But the other monk was very mindful and diligent. He spent the night meditating and soon he became an arahant. 
+                  
+                  After the end of the retreat they went back to see the Buddha. The lazy monk actually accused the diligent one of laziness! He told Buddha, whereas he himself was first warming himself by the fire and then "not-sleeping", his friend was idling, lying down and sleeping all the time. But the Buddha of course knew the truth and he told them this verse. One friend was like a weak horse, lazy and talkative, but the other one, like a swift horse, was diligent and mindful. And he left the other friend behind - he became an arahant. 
+
+.. [DLMBSFn-V030] (DLMBS Commentary V030) A young prince named Mahāli from the Licchavi state came to see the Buddha. He wanted to hear some teachings, so the Buddha told him the Sakkapañha Sutta (The Sutta of Sakka's questions). Mahāli wondered how was it possible, that the Buddha knew so much about Sakka, the king of the gods. Has the Buddha ever met Sakka? 
+
+                  The Buddha confirmed that he indeed has seen Sakka and further told Mahāli the story of Sakka's previous existence. 
+                  
+                  He was a man named Magha. He was very righteous and did a lot of charitable work, building roads and rest houses with his friends. He took seven obligations: to support his parents, to respect elders, to be gentle of speech, to avoid backbiting, to be generous and not avaricious, to speak the truth and to restrain himself from loosing temper. He was always mindful and kept all of them. Thus in his next existence he became Sakka, the king of gods.
+
+.. [DLMBSFn-V031] (DLMBS Commentary V031) Once there was a monk who received his subject of meditation from the Buddha. He practiced hard, but he made very little progress. So he became very depressed and frustrated. He went to see the Buddha about his problems. But on the way there he saw a big forest fire. He ran to the top of a mountain and observed. While there, he realized that just as the fire burnt up everything around, be it big or small, so the insights from the practice of meditation will burn up all the fetters, big and small. 
+                  
+                  The Buddha saw this from far away and appeared in front of the monk telling him that he was on the right track and to keep up the idea. The monk did accordingly and attained arahantship very soon. 
+                  
+                  According to Buddhist philosophy, there are ten fetters (saṃyojana). They can be divided into two kinds, five so called "lower" or "big" fetters and five "higher" or "small" fetters.
+
+                  | The five big fetters are: 
+                  | 1) personality belief (sakkāya-diṭṭhi), 
+                  | 2) skeptical doubt (vicikicchā), 
+                  | 3) clinging to rules and rituals (sīlabbata-paramāsa), 
+                  | 4) sensuous craving (kāma-rāga), 
+                  | 5) ill-will (vyāpāda).
+                  | 
+                  | The five small fetters are: 
+                  | 1) craving for fine-material existence (rūpa-rāga), 
+                  | 2) craving for immaterial existence (arūpa-rāga), 
+                  | 3) conceit (māna), 
+                  | 4) restlessness (uddhacca), 
+                  | 5) ignorance (avijjā).
+
+.. [DLMBSFn-V032] (DLMBS Commentary V032) Nigamavātissa was born and grew up in a small market town near Sāvatthi. He became a monk and lived a simple life. For his alms food he went to the village where his relatives lived and he kept away from all the big occasions. Even when big benefactors like Anāthapiṇḍika and king Pasenadi of Kosala gave monks alms on a grand scale, he did not attend. Some monks started to say, that he keeps only to his relatives and does not care about things. 
+                  
+                  The Buddha asked him about this. He replied that he goes to his village only for alms food, takes only as much as is enough, does not care if it is tasty or not. The Buddha praised him and told the other monks that they should all behave in this way. He also related the story of the king of parrots: 
+                  
+                  He lived in a grove of fig trees on the banks of Ganga with many subjects. When all the fruits were eaten, everybody left, except for the king, who was satisfied with little. Once Sakka, the king of gods, wanted to test him and his resolve. He assumed the form of a goose and asked him why doesn't he move away. The king said he can not leave out of the gratitude towards the tree. If he can find enough food to get by, he wouldn't go. It would be ungrateful. Sakka was impressed and revealed himself. Then he poured the Ganga water over the withered tree and it was suddenly green and full of fruit. 
+                  
+                  Then the Buddha said, that the king of parrots was himself in one of his previous existences and Sakka was Anuruddha, one of the Buddha's foremost disciples. He then uttered this verse (DhP 32). At the end of the discourse, Nigamavātissa became an arahant.
 
 ---------------------------
 

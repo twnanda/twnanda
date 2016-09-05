@@ -2,7 +2,7 @@
 ############################################
 
 :date: 2016-02-28 17:30
-:modified: 2016-06-13 12:00
+:modified: 2016-09-05 17:30
 :tags: 法句經, 法句經對讀, Dhp, Dhammapada, Dhammapadapāḷi, 法集要頌, 法句譬喻經, 出曜經, , Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, The Path of Dhamma 
 :category: 巴利三藏小部
 :summary: 法句經多譯本對讀(段層次), Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom
@@ -30,6 +30,8 @@
   - 英譯(Translated from the Pali by **Ven. Varado Bhikkhu**) [9]_ 
 
   - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_ 
+
+  - 英譯(Cited from DLMBS) [12]_
 
   - 巴利註解漢譯 [11]_
 
@@ -163,6 +165,8 @@
 .. [10] 〔註010〕　此英譯為 `Friedrich Max Müller <https://en.wikipedia.org/wiki/Max_M%C3%BCller>`__ 所譯；請參考原始出處(original): `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
 .. [11] 〔註011〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+
+.. [12] 〔註012〕　取材自： `經文選讀 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ （ `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/index.jsp>`__ --- 語言教學． `巴利語教學 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali1.jsp>`__ ）
 
 --------------
 

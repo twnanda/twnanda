@@ -2,7 +2,7 @@ Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhamma
 ###########################################################################################
 
 :date: 2016-04-05 17:00
-:modified: 2016-06-29 21:30
+:modified: 2016-09-05 17:30
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma 
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -24,6 +24,8 @@ Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhamma
   - Translated from the Pali by **Ven. Varado Bhikkhu** ) [6]_
 
   - Translated from the Pali by Friedrich Max Müller) [7]_
+
+  - Cited from DLMBS [8]_
 
 ----------------------------------------
 
@@ -141,6 +143,8 @@ NOTE：
 .. [7] (note 007) original: `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
         THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
+
+.. [8] (note 8) original: `Readings in Pali Texts <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp>`__ ( `Digital Library & Museum of Buddhist Studies (DLMBS) <http://buddhism.lib.ntu.edu.tw/DLMBS/en/>`__ --- `Pali Lessons <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali1.jsp>`__ )
 
 --------------
 
