@@ -3,7 +3,7 @@
 ==========================================================================
 
 :date: 2016-06-02 17:30
-:modified: 2016-07-03 20:30
+:modified: 2016-09-06 16:00
 :tags: 法句經, 法句經對讀, 華品, 花品, Dhp, Dhammapada, Pupphavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Flower
@@ -80,7 +80,7 @@
        四四　誰征服地界，閻魔界天界，誰善說法句，如巧匠採花？ [LChnFn04-02]_ 、 [LChnFn04-03]_ 、 [LChnFn04-04]_ 、 [LChnFn04-05]_ 、 [LChnFn04-06]_ 、 [MettFn04-01]_ 、 [MettFn04-02]_ 、 [MettFn04-03]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
-     - 第二：華品 (花品)
+     - 第四：華品 (花品)
 
        | 誰能審查此大地、閻魔界與人天界？ [CFFn04-01]_
        | 誰能如善巧花匠，了知善說的真理？
@@ -95,16 +95,19 @@
        4.法集要頌經：何人能擇地，捨地獄取天，，惟說善法句，如採善妙華T4,786a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - Chapter 4 Flowers
-        THE NOBLE DISCIPLE WILL CONQUER THIS SELF
-         44. Who will comprehend [NāradaFn04-01]_ this earth (self [NāradaFn04-02]_ ), and this realm of Yama, [NāradaFn04-03]_ and this world [NāradaFn04-04]_ together with the devas? [NāradaFn04-05]_ Who will investigate the well taught Path of Virtue [NāradaFn04-06]_ , even as an expert (garland maker) will pick flowers? 
+     - **Chapter 4 Flowers**
+
+       **THE NOBLE DISCIPLE WILL CONQUER THIS SELF**
+
+        44. Who will comprehend [NāradaFn04-01]_ this earth (self [NāradaFn04-02]_ ), and this realm of Yama, [NāradaFn04-03]_ and this world [NāradaFn04-04]_ together with the devas? [NāradaFn04-05]_ Who will investigate the well taught Path of Virtue [NāradaFn04-06]_ , even as an expert (garland maker) will pick flowers? 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
-     - Dhp IV Flowers
-        **44.** Who shall overcome this earth, this realm of Yama and this sphere of men and gods? Who shall bring to perfection the well-taught path of wisdom as an expert garland-maker would his floral design?
+     - **Dhp IV Flowers**
+
+       **44.** Who shall overcome this earth, this realm of Yama and this sphere of men and gods? Who shall bring to perfection the well-taught path of wisdom as an expert garland-maker would his floral design?
 
    * - 英譯(Translated from the Pali by **Ven. Thanissaro Bhikkhu** ) [8]_
-     - Dhp IV Blossoms
+     - **Dhp IV Blossoms**
 
        **44-45** [ThaniSFn-V44-45]_ 
        ::
@@ -141,8 +144,16 @@
        | Like one who was clever, a fine rose might garner.
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
-     - Chapter II: On Earnestness
-        44 Who shall overcome this earth, and the world of Yama (the lord of the departed), and the world of the gods? Who shall find out the plainly shown path of virtue, as a clever man finds out the (right) flower?
+     - **Chapter IV: Flowers**
+
+       44 Who shall overcome this earth, and the world of Yama (the lord of the departed), and the world of the gods? Who shall find out the plainly shown path of virtue, as a clever man finds out the (right) flower?
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - **Chapter 4: The Flower**
+
+       | **DhP 44** 
+       | Who will investigate this earth and this Yama's world with its deities? 
+       | Who will understand this well taught Dharma-verse, as a skilful person picks flowers? [DLMBSFn-V044]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 044 <{filename}../dhA/dhA-chap04%zh.rst#dhp044>`__
@@ -223,6 +234,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 45 The disciple will overcome the earth, and the world of Yama, and the world of the gods. The disciple will find out the plainly shown path of virtue, as a clever man finds out the (right) flower.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 45** 
+       | A disciple will investigate the earth and this Yama's world with its deities. 
+       | A disciple will understand this well taught Dharma-verse, as a skilful person picks flowers. [DLMBSFn-V045]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 045 <{filename}../dhA/dhA-chap04%zh.rst#dhp045>`__
 
@@ -271,8 +287,9 @@
        | 10. 八犍度論：知身如聚沫，覺法如野馬，斷魔華小華，不往見死王T26, 916c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - LIKE A MIRAGE IS THIS BODY
-        46. Knowing that this body is like foam, [NāradaFn04-08]_ and comprehending its mirage-nature, [NāradaFn04-09]_ one should destroy the flower-shafts of sensual passions (Māra), and pass beyond the sight of the king of death. [NāradaFn04-10]_
+     - **LIKE A MIRAGE IS THIS BODY**
+
+       46. Knowing that this body is like foam, [NāradaFn04-08]_ and comprehending its mirage-nature, [NāradaFn04-09]_ one should destroy the flower-shafts of sensual passions (Māra), and pass beyond the sight of the king of death. [NāradaFn04-10]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **46.** Realizing that this body is like froth, penetrating its mirage-like nature, and plucking out Mara's flower-tipped arrows of sensuality, go beyond sight of the King of Death!
@@ -298,6 +315,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 46 He who knows that this body is like froth, and has learnt that it is as unsubstantial as a mirage, will break the flower-pointed arrow of Mara, and never see the king of death.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 46** 
+       | Having understood that this body is like foam, having realized its mirage-like nature, 
+       | having cut off Mara's flower-tipped arrows, one should make himself invisible to the King of Death. [DLMBSFn-V046]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 046 <{filename}../dhA/dhA-chap04%zh.rst#dhp046>`__
@@ -334,8 +356,9 @@
        4. 增壹阿含經：彼天採華時，心意亂不寧，猶水漂村落，悉沒不得濟T02, 673a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - DEATH TAKES THE SENSUAL UNAWARES
-        47. The man who gathers flowers (of sensual pleasure), whose mind is distracted, death carries off as a great flood sweeps away a sleeping village.
+     - **DEATH TAKES THE SENSUAL UNAWARES**
+
+       47. The man who gathers flowers (of sensual pleasure), whose mind is distracted, death carries off as a great flood sweeps away a sleeping village.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **47.** As a mighty flood sweeps away the sleeping village, so death carries away the person of distracted mind who only plucks the flowers (of pleasure).
@@ -366,6 +389,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 47 Death carries off a man who is gathering flowers and whose mind is distracted, as a flood carries off a sleeping village.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 47** 
+       | The man who is only gathering flowers, with an attached mind, 
+       | the death will carry away, like a great flood the sleeping village. [DLMBSFn-V047]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 047 <{filename}../dhA/dhA-chap04%zh.rst#dhp047>`__
@@ -403,8 +431,9 @@
        | 如人採妙華，專意不散亂，未獲真財寶，長為窮所困T04, 786b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - WITH UNGRATIFIED DESIRES THE SENSUAL DIE
-        48. The man who gathers flowers (of sensual pleasure), whose mind is distracted, and who is insatiate in desires, the Destroyer [NāradaFn04-11]_ brings under his sway.
+     - **WITH UNGRATIFIED DESIRES THE SENSUAL DIE**
+
+       48. The man who gathers flowers (of sensual pleasure), whose mind is distracted, and who is insatiate in desires, the Destroyer [NāradaFn04-11]_ brings under his sway.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **48.** The Destroyer brings under his sway the person of distracted mind who, insatiate in sense desires, only plucks the flowers (of pleasure).
@@ -435,6 +464,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 48 Death subdues a man who is gathering flowers, and whose mind is distracted, before he is satiated in his pleasures.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 48** 
+       | The man who is only gathering flowers, with an attached mind, 
+       | unsatisfied in sense pleasures, Death gets under control. [DLMBSFn-V048]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 048 <{filename}../dhA/dhA-chap04%zh.rst#dhp048>`__
@@ -490,8 +524,9 @@
        | 24. 佛本行經：喻如眾蜂集，採花之精味，以時度施食，無壞人慈敬T04,107c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - SAINTLY MONKS CAUSE NO INCONVENIENCE TO ANY
-        49. As a bee without harming the flower, its colour or scent, flies away, collecting only the honey, even so should the sage wander in the village. [NāradaFn04-12]_
+     - **SAINTLY MONKS CAUSE NO INCONVENIENCE TO ANY**
+
+       49. As a bee without harming the flower, its colour or scent, flies away, collecting only the honey, even so should the sage wander in the village. [NāradaFn04-12]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **49.** As a bee gathers honey from the flower without injuring its color or fragrance, even so the sage goes on his alms-round in the village. [BudRkFn-v49]_ 
@@ -516,6 +551,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 49 As the bee collects nectar and departs without injuring the flower, or its colour or scent, so let a sage dwell in his village.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 49** 
+       | Just like a bee leaves the flower, not hurting the color and smell, 
+       | having taken its juice, so should a wise man walk through the village. [DLMBSFn-V049]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 049 <{filename}../dhA/dhA-chap04%zh.rst#dhp049>`__
@@ -570,8 +610,9 @@
        | 23. 大般涅槃經：於他語言，隨順不逆，亦不觀他，作以不作，但自觀身，善不善行T12, 667c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - SEEK NOT OTHERS' FAULTS BUT YOUR OWN
-        50. Let not one seek others' faults, things left done and undone by others, but one's own deeds done and undone. 
+     - **SEEK NOT OTHERS' FAULTS BUT YOUR OWN**
+
+       50. Let not one seek others' faults, things left done and undone by others, but one's own deeds done and undone. 
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **50.** Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.
@@ -596,6 +637,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 50 Not the perversities of others, not their sins of commission or omission, but his own misdeeds and negligences should a sage take notice of.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 50** 
+       | One should not look at others' wrong deeds, what the others have done or not. 
+       | One should look only at what one oneself has and has not done. [DLMBSFn-V050]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 050 <{filename}../dhA/dhA-chap04%zh.rst#dhp050>`__
@@ -632,8 +678,9 @@
        4. 大毘婆沙論：如花雖可愛，有色而無香，如是有妙語，無果無所作T27, 630c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - PRACTICE IS BETTER THAN MERE TEACHING
-        51. As a flower that is lovely and beautiful but is scentless, even so fruitless is the well-spoken word of one who does not practise it.
+     - **PRACTICE IS BETTER THAN MERE TEACHING**
+
+       51. As a flower that is lovely and beautiful but is scentless, even so fruitless is the well-spoken word of one who does not practise it.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **51.** Like a beautiful flower full of color but without fragrance, even so, fruitless are the fair words of one who does not practice them.
@@ -664,6 +711,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 51 Like a beautiful flower, full of colour, but without scent, are the fine but fruitless words of him who does not act accordingly.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 51** 
+       | Just like a beautiful flower, colorful but without smell, 
+       | is a well said speech of somebody, who does not act accordingly. [DLMBSFn-V051]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 051 <{filename}../dhA/dhA-chap04%zh.rst#dhp051>`__
@@ -730,6 +782,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 52 But, like a beautiful flower, full of colour and full of scent, are the fine and fruitful words of him who acts accordingly.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 52** 
+       | Just like a beautiful flower, colorful and with smell, 
+       | is a well said speech of somebody, who does act accordingly. [DLMBSFn-V052]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 052 <{filename}../dhA/dhA-chap04%zh.rst#dhp052>`__
 
@@ -765,8 +822,9 @@
        4. 法集要頌經：多集眾妙華，結鬘為步搖，有情積善根，後世轉殊勝T04, 786a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - DO MUCH GOOD
-        53. As from a heap of flowers many a garland is made, even so many good deeds should be done by one born a mortal.
+     - **DO MUCH GOOD**
+
+       53. As from a heap of flowers many a garland is made, even so many good deeds should be done by one born a mortal.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **53.** As from a great heap of flowers many garlands can be made, even so should many good deeds be done by one born a mortal.
@@ -791,6 +849,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 53 As many kinds of wreaths can be made from a heap of flowers, so many good things may be achieved by a mortal when once he is born.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 53** 
+       | Just as from the heap of flowers one can do a lot of garlands, 
+       | so a born mortal should do a lot of meritorious deeds. [DLMBSFn-V053]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 053 <{filename}../dhA/dhA-chap04%zh.rst#dhp053>`__
@@ -835,8 +898,9 @@
        | 11. 增壹阿含經：此香雖為妙，及諸檀蜜香，戒香之為妙，十方悉聞之。栴檀雖有香，優鉢及餘香，此諸眾香中，聞香最第一。栴檀雖有香，優鉢及餘香，此諸眾香中，施香最第一T02, 613c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - MORAL FRAGRANCE WAFTS EVERYWHERE
-        54. The perfume of flowers blows not against the wind, nor does the fragrance of sandalwood, tagara [NāradaFn04-13]_ and jasmine but the fragrance of the virtuous blows against the wind; the virtuous man pervades every direction.
+     - **MORAL FRAGRANCE WAFTS EVERYWHERE**
+
+       54. The perfume of flowers blows not against the wind, nor does the fragrance of sandalwood, tagara [NāradaFn04-13]_ and jasmine but the fragrance of the virtuous blows against the wind; the virtuous man pervades every direction.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **54.** Not the sweet smell of flowers, not even the fragrance of sandal, tagara, or jasmine blows against the wind. But the fragrance of the virtuous blows against the wind. Truly the virtuous man pervades all directions with the fragrance of his virtue. [BudRkFn-v54]_
@@ -876,6 +940,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 54 The scent of flowers does not travel against the wind, nor (that of) sandal-wood, or of Tagara and Mallika flowers; but the odour of good people travels even against the wind; a good man pervades every place.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 54** 
+       | The scent of flowers, sandal, tagara or jasmine does not go against the wind. 
+       | The scent of true ones goes against the wind. The true person pervades all directions. [DLMBSFn-V054]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 054 <{filename}../dhA/dhA-chap04%zh.rst#dhp054>`__
@@ -956,6 +1025,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 55 Sandal-wood or Tagara, a lotus-flower, or a Vassiki, among these sorts of perfumes, the perfume of virtue is unsurpassed.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 55** 
+       | Sandal or *tagara*, lotus and jasmine, 
+       | of these kinds of scent, the scent of the virtue is highest. [DLMBSFn-V055]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 055 <{filename}../dhA/dhA-chap04%zh.rst#dhp055>`__
 
@@ -993,8 +1067,9 @@
        | 6.佛說戒香經：所有世間沈檀等，其香微少非遍聞，若人持佛淨戒香，諸天普聞皆愛敬T02, 508b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - THE SCENT OF VIRTUE IS BY FAR THE BEST
-        56. Of little account is the fragrance of tagara or sandal; the fragrance of the virtuous, which blows even amongst the gods, is supreme.
+     - **THE SCENT OF VIRTUE IS BY FAR THE BEST**
+
+       56. Of little account is the fragrance of tagara or sandal; the fragrance of the virtuous, which blows even amongst the gods, is supreme.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **56.** Faint is the fragrance of tagara and sandal, but excellent is the fragrance of the virtuous, wafting even amongst the gods.
@@ -1034,6 +1109,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 56 Mean is the scent that comes from Tagara and sandal-wood;--the perfume of those who possess virtue rises up to the gods as the highest.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 56** 
+       | Very faint is this scent of *tagara* and sandal. 
+       | Highest is the scent of a virtuous one; it blows even amongst the gods. [DLMBSFn-V056]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 056 <{filename}../dhA/dhA-chap04%zh.rst#dhp056>`__
@@ -1075,8 +1155,9 @@
        | 9.法集要頌經：若人能持戒，清淨不放逸，正智得解脫，是名安樂處。此道無有上，消除禪定魔，賢聖德難量，得達八正路T04, 780c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - REBIRTH-CONSCIOUSNESS OF ARAHANTS CANNOT BE TRACED
-        57. Māra [NāradaFn04-14]_ finds not the path of those who are virtuous, careful in living, and freed by right knowledge.
+     - **REBIRTH-CONSCIOUSNESS OF ARAHANTS CANNOT BE TRACED**
+
+       57. Māra [NāradaFn04-14]_ finds not the path of those who are virtuous, careful in living, and freed by right knowledge.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **57.** Mara never finds the path of the truly virtuous, who abide in heedfulness and are freed by perfect knowledge.
@@ -1095,6 +1176,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 57 Of the people who possess these virtues, who live without thoughtlessness, and who are emancipated through true knowledge, Mara, the tempter, never finds the way.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 57** 
+       | Mara doesn't find the way of those endowed with virtue, 
+       | living in conscientiousness and freed by the right knowledge. [DLMBSFn-V057]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 057 <{filename}../dhA/dhA-chap04%zh.rst#dhp057>`__
@@ -1130,8 +1216,9 @@
        4. 法集要頌經：如田糞穢溝，而近于大道，其中生蓮華，香潔甚可悅T04, 786a
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - GREATNESS MAY BE FOUND EVEN AMONGST THE BASEST THE WISE OUTSHINE WORLDLINGS
-        58-59. As upon a heap of rubbish thrown on the highway, a sweet-smelling lovely lotus may grow, even so amongst worthless beings, a disciple of the Fully Enlightened One outshines the blind worldlings in wisdom. [NāradaFn04-15]_
+     - **GREATNESS MAY BE FOUND EVEN AMONGST THE BASEST THE WISE OUTSHINE WORLDLINGS**
+
+       58-59. As upon a heap of rubbish thrown on the highway, a sweet-smelling lovely lotus may grow, even so amongst worthless beings, a disciple of the Fully Enlightened One outshines the blind worldlings in wisdom. [NāradaFn04-15]_
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **58.** Upon a heap of rubbish in the road-side ditch blooms a lotus, fragrant and pleasing.
@@ -1164,6 +1251,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 58, 59. As on a heap of rubbish cast upon the highway the lily will grow full of sweet perfume and delight, thus the disciple of the truly enlightened Buddha shines forth by his knowledge among those who are like rubbish, among the people that walk in darkness.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 58** 
+       | Just as at the rubbish heap, thrown out by the big road, 
+       | can grow a lotus, of pure smell and delightful, [DLMBSFn-V058]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 058 <{filename}../dhA/dhA-chap04%zh.rst#dhp058>`__
@@ -1244,6 +1336,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 58, 59. As on a heap of rubbish cast upon the highway the lily will grow full of sweet perfume and delight, thus the disciple of the truly enlightened Buddha shines forth by his knowledge among those who are like rubbish, among the people that walk in darkness.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 59** 
+       | Thus, amidst the dust-like beings, amongst ignorant ordinary people, 
+       | The disciple of the truly and completely Awakened One magnificently shines with wisdom. [DLMBSFn-V059]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 059 <{filename}../dhA/dhA-chap04%zh.rst#dhp059>`__
 
@@ -1292,6 +1389,7 @@
 
 .. [11] 〔註011〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
 
+.. [12] 〔註012〕　取材自： `經文選讀 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ （ `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/index.jsp>`__ --- 語言教學． `巴利語教學 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali1.jsp>`__ ）
 
 .. [LChnFn04-01] 〔註04-01〕  吳譯花香品。
 
@@ -1472,6 +1570,118 @@
 
 .. [VaradoFn04-1]  (Ven. Varado 04-1) A sekha is a noble disciple who has achieved stream-entry but not arahantship. 
 
+.. [DLMBSFn-V044] (DLMBS Commentary V044) A group of monks accompanied the Buddha to a certain village and then they all returned to the monastery. The monks started to talk about the trip. They paid close attention to the condition of the land: whether it was level or hilly, whether the soil was clayey or sandy etc. 
+
+                  The Buddha visited them and when overheard the topic of their discussion, he told them to better concentrate on their own bodies. He said, that the earth is external and that they should strive to examine their own bodies and understand what they really are. 
+                  
+                  He then added that by understanding one's own body we are also able to understand the whole world. We will be able to realize the Dharma, just as a skilful garland-maker makes the garlands. 
+
+.. [DLMBSFn-V045] (DLMBS Commentary V045) The story for this verse is the same as for the previous one (DhP 44). 
+                  
+                  The disciple of the Buddha is able to investigate this world. By understanding and realizing the Dharma we can also fully understand the whole world with all its beings, because the Dharma is after all concerned just with this world, its conditions and our position in this world. So, just as a skilful garland-maker can pick flowers easily, we, as Buddha's followers, can investigate the Dharma and with it the whole world. 
+
+.. [DLMBSFn-V046] (DLMBS Commentary V046) A certain monk obtained his meditation subject from the Buddha. He went to the forest and practiced diligently. But for some reason he made very little progress and was not happy. He set out on a journey back to tell the Buddha about his difficulties and to obtain another meditation subject. 
+                  
+                  But on the way he saw a mirage. He realized, that a mirage is only an illusion of water and that also his body is an illusion as well. He fixed his mind on this understanding and continued with his meditation. 
+                  
+                  Later he went for a bath to a river and there he saw the foam, how it was insubstantial and breaking up quickly. Thus he further realized the impermanent nature of the body. 
+                  
+                  The Buddha then sent him his image and told him to keep up the meditation this way. The monk attained the arahantship and escaped the King of Death forever. 
+
+.. [DLMBSFn-V047] (DLMBS Commentary V047) By "flowers" are meant the pleasures of the senses here. One, who only keeps "gathering flowers", or in other words chase after the sense-pleasures, will be carried away by death, as the army of the king of Kosala in this story. 
+                  
+                  King Pasenadi of Kosala asked the clan of the Sākyans (Buddha's own relatives) to give him one of their daughters as a wife. But they sent him a daughter of a slave woman by king Mahānāma. Pasenadi did not know that and married her. She gave birth to a son, who was named Vidudabha. 
+                  
+                  Later Vidudabha found out, that his mother was a daughter of a slave and became very angry with the Sākyans. When he became the king, he declared war on them and killed almost all of the Sākyan clan. On the way back, he and his army encamped on the bank of a river. That night, heavy rain fell; the river swelled and carried Vidudabha and his army to the ocean. 
+                  
+                  When Buddha heard what happened, he uttered this verse.
+
+.. [DLMBSFn-V048] (DLMBS Commentary V048) In the city of Sāvatthi there lived a woman named Pati Pujikā Kumāri. She was very generous and virtuous. She gave alms to everyone in need and generally helped everybody. 
+                  
+                  She also remembered her one previous life. She used to be one of the wives of the God 
+                  
+                  Mālabhāri in the Tāvatimsa heaven. So she would often pray that she might be born there again in her next life. 
+                  
+                  One day she fell ill and passed away. And she was really reborn in the Tāvatimsa heaven. The other gods did not even miss her, because one hundred years in the human world is just one day in Tāvatimsa. So they asked her, where had she been the whole morning. She then told them the whole story. 
+                  
+                  When the Buddha heard, that Pati Pujikā died, he explained that the life was very brief. Before the beings could be satisfied in the pleasures of the senses, they would be overpowered by death. 
+
+.. [DLMBSFn-V049] (DLMBS Commentary V049) This verse talks about the practice of alms-rounds. The monks are supposed to obtain alms food from the people, going house from house and taking something here, something there, especially from those, who have a lot. Just like a bee takes the juice from the flower but does no harm to it, so the monks should get the food from the villagers, making no harm to them by taking too much from one family or from the poor families. 
+                  
+                  The following story is associated with this verse. 
+                  
+                  In one village there lived a very rich but very miserly couple. One day they made some pancakes, but because they did not want to share them with others, they made them secretly. 
+                  
+                  The Buddha saw this and sent one of his chief disciples, Moggallāna to their house. He arrived there and stood by the door. They tried to make a very small pancake and give it to him. But no matter how they tried, a small amount of dough would fill in the whole pan. Then they tried to offer him one of their own pancakes, but they were unable to separate them. So they gave him the whole basket with all their pancakes. 
+                  
+                  Moggallāna invited them to the monastery to see the Buddha. They offered the pancakes to the Buddha and the monks. The Buddha delivered a discourse on charity and both the husband and wife attained the first stage of Awakenment.
+
+.. [DLMBSFn-V050] (DLMBS Commentary V050) In Sāvatthi once lived a lady who was a disciple of the ascetic Pāthika. All her friends and neighbors were the disciples of the Buddha and she often wanted to go to the monastery herself, to hear the Buddha's teachings. But Pāthika always prevented her from going there. 
+                  
+                  So she invited the Buddha to her house for almsgiving instead. He came together with many monks and after the meal he delivered a teaching. She was very impressed and happy and exclaimed, "Well said!" 
+                  
+                  Pāthika heard this from the next room and became very angry. He left the house, cursing the woman and the Buddha. 
+                  
+                  The lady was very embarrassed by this. But the Buddha advised her not to be concerned about others' curses, but to be only mindful of her own good and bad deeds. At the end she attained the first stage of Awakenment.
+
+.. [DLMBSFn-V051] (DLMBS Commentary V051) A certain Buddha's disciple named Chattapāni has attained the second stage of Awakenment. Once, while he was listening to the Buddha's discourse, the king Pasenadi came to the monastery. Chattapāni did not get up, because by paying homage to the king he would disrespect the Buddha. The king was very unhappy about that, thinking that Chattapāni offended him. But the Buddha explained to the king what Chattapāni meant. The king was impressed and asked Chattapāni to teach Dharma to his queens. But he refused, saying that monks should teach Dharma, not mere lay disciples. 
+                  
+                  The Buddha then assigned Ānanda to teach them. After some time the Buddha asked, how much progress did the queens make. Ānanda replied, that the queen Mallikā was learning very quickly and seriously, the queen Vāsabha Khattiyā was not paying attention and therefore made no progress. 
+                  
+                  The Buddha replied by this verse, saying that only those, who learn diligently and then practice what they learned, can benefit from the Dharma.
+
+.. [DLMBSFn-V052] (DLMBS Commentary V052) The story for this verse is the same as for the previous one. 
+                  
+                  One who speaks well, who often admonishes others, but does not act according to one’s own speech speaks in vain. His words are just as a beautiful flower that does not smell. Only when one acts as well as one speak, one's speech can be considered well said, like a nice flower that also smells nicely.
+
+.. [DLMBSFn-V053] (DLMBS Commentary V053) The traditional commentary for this verse contains the famous story of the chief Buddha's benefactress Visākhā. 
+                  
+                  She married Punnavaddhana, the son of Migāra, a rich man who lived in the city of Sāvatthi. Once, when her father-in-law was eating his lunch, a monk came to their house on his alms-round. Migāra ignored him completely. Visākhā told the monk: "Sorry, venerable sir, my father-in-law only eats stale food". Migāra became very angry with her. She explained, that he was only reaping rewards of his good deeds from previous lives, not creating any merit in this life. Therefore she spoke about "stale food". 
+                  
+                  Migāra understood and allowed her to invite the Buddha with the monks for the alms-food. Migāra listened to Buddha's discourse from behind a curtain (because he was a lay disciple of some ascetic teacher and he did not want Migāra to show himself in front of the Buddha). After hearing Buddha's speech, Migāra attained the first stage of Awakenment. He was very grateful to Visākhā and declared that she would be like a mother to him. 
+                  
+                  Once she went to the monastery and carried her gem-entrusted cloak with her. She gave it to her maid to carry and she forgot it in the monastery. Visākhā then wanted to donate the cloak to the monks but they would not accept. So Visākhā tried to sell the cloak and donate the money for the use of the Sangha. But the cloak was so expensive that nobody could afford to buy it. Visākhā then bought it back herself. With the money she built a monastery for the Sangha. 
+                  
+                  Visākhā was very happy - all her desires were fulfilled. The Buddha explained that she was strongly inclined to do good deeds, had done much good in the past and will do a lot of good deeds in the future - just as one can do many garlands from the heap of flowers.
+
+.. [DLMBSFn-V054] (DLMBS Commentary V054) Venerable Ānanda was once sitting in meditation and he was pondering the problem of scent. All the known scents - perfumes, flowers, roots etc. go only with the wind. No scent can go against the wind. Is there any scent at all that can go against the wind? 
+                  
+                  He asked the Buddha about it. The Buddha said that there exists such thing. A person, who takes refuge in the Buddha, Dharma and Sangha, observes the moral precepts and is generous, is really worthy of praise. The "scent", or the reputation, of such a person spreads far and wide, with the wind and against it. Such a person is famous everywhere and people praise him.
+
+.. [DLMBSFn-V055] (DLMBS Commentary V055) tagaraṃ: tagara-, N.n: the incense obtained from a kind of shrub (in Latin: Tabernaemontana coronaria). Nom.Sg. = tagaraṃ.
+
+                  The story for this verse is identical with that for the previous verse (DhP 54). 
+                  
+                  The "scent" or reputation of virtue is the highest. All the other natural scents cannot compete with it, because they can be smelt only for a short time and only in a short distance. But the smell of virtue can be felt for a long period of time and in all directions. 
+
+.. [DLMBSFn-V056] (DLMBS Commentary V056) One of the Buddha's chief disciples, Venerable Kassapa, went to the city of Rājagaha for alms food. He wanted to give some poor man opportunity to give him food and thus obtain merit. 
+                  
+                  Sakka, the king of the gods saw this, he assumed the form of an old poor weaver and together with his wife Sujātā came to Rājagaha. Venerable Kassapa stood at their door and Sakka filled his bowl with delicious rice and curry. Kassapa thought, that this cannot be a poor man - how could such a person afford so delicious food? Kassapa then realized that this man and his wife are actually Sakka and Sujātā. 
+                  
+                  They admitted this fact and told Kassapa that they were too very poor - they did not have enough opportunity to give alms and thus did not accumulate any merit. 
+                  
+                  Monks asked the Buddha how Sakka knew Kassapa was such a virtuous person that any alms given to him reap great meritorious reward. The Buddha answered by this verse, telling them that the fame of Kassapa's virtue reached even amongst the gods.
+
+.. [DLMBSFn-V057] (DLMBS Commentary V057) A monk named Godhika was practicing meditation diligently. But whenever he made some progress in his meditation, he became seriously ill. It impaired effectiveness of his meditation, but he nevertheless continued to practice. 
+                  
+                  At the end he decided to strive for the arahantship even if he were to die. So he concentrated on physical pain as his meditation object and cut his throat (this can nor be considered a suicide, because he was very close to arahantship anyway and he already eradicated all cravings). Thus, concentrating on the pain, he attained his goal and then passed away. 
+                  
+                  Mara tried to find where Godhika was reborn but he could not find him anywhere. So he went and asked the Buddha about Godhika. The Buddha told him, that Godhika became an arahant and Mara could never be able to find him again. 
+
+.. [DLMBSFn-V058] (DLMBS Commentary V058) In the city of Sāvatthi, there lived two friends, Sirigutta and Garahadinna. Sirigutta was a student of the Buddha and Garahadinna followed Nigantha's teaching. Garahadinna always instigated his friend to become a Nigantha's follower too. He would boast that his teachers know all the past, present and future. 
+                  
+                  So Sirigutta once invited his friend's teachers to his house. He prepared a deep hole, filled it with dirt and put the seats on ropes on top of this trench. Niganthas came and when they sat down, the ropes broke and Niganthas fell into the pit. Sirigutta asked them how come they claim to know the future but they did not know what would happen to them. They did not know what to say and fled in terror. 
+                  
+                  Garahadinna wanted to take revenge on his friend's teacher too, so he invited the Buddha and some monks to his house for alms food. He dug a hole, filled it with burning coal, and covered with mats. But when the Buddha entered and sat down, the coal disappeared and instead of it big lotus flowers appeared. 
+                  
+                  Garahadinna was very alarmed. Then he realized that as he did not expect the Buddha to survive this test, he did not prepare any food. But when he entered the kitchen, he found out that a lot of food appeared there as if from nowhere. So he served the food to the Buddha and the monks. 
+                  
+                  After the lunch, the Buddha taught the two friends Dharma in a gradual manner. At the end they both attained the first stage of Awakenment.
+
+.. [DLMBSFn-V059] (DLMBS Commentary V059) The story to this verse is identical to the previous one. 
+                  
+                  Just as a lotus can grow in a dirty place, but does not become stained by it, so a true disciple of the Buddha lives in this world, but is not dirtied by it in any way.
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 校註：
@@ -1497,4 +1707,3 @@
 - `法句經首頁  <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
-

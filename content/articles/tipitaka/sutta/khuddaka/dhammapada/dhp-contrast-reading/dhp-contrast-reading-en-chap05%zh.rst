@@ -1,9 +1,9 @@
-==============================================================================================================================================
+=======================================================================================================================================
 Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.) 
-==============================================================================================================================================
+=======================================================================================================================================
 
 :date: 2016-06-28 16:00
-:modified: 2016-06-28 16:00
+:modified: 2016-09-06 18:30
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, The Fool, Bālavaggo, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.) 
@@ -105,6 +105,13 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
 
        60 Long is the night to him who is awake; long is a mile to him who is tired; long is life to the foolish who do not know the true law.
 
+   * - Cited from DLMBS [8]_
+     - **Chapter 5: The Fool**
+
+       | **DhP 60** 
+       | Long is the night for a wakeful; long is a yojana for a tired. 
+       | Long is the *Samsara* for the fools who do not know the true Dharma. [DLMBSFn-V060]_
+
 .. _Dhp061:
 
 .. list-table:: Dhammapada Dhp. 061
@@ -148,6 +155,11 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 61 If a traveller does not meet with one who is his better, or his equal, let him firmly keep to his solitary journey; there is no companionship with a fool.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 61** 
+       | If a wanderer should not find a companion better or similar to oneself, 
+       | then he should resolutely wander alone. There is no companionship with a fool. [DLMBSFn-V061]_
 
 .. _Dhp062:
 
@@ -193,6 +205,11 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 62 "These sons belong to me, and this wealth belongs to me," with such thoughts a fool is tormented. He himself does not belong to himself; how much less sons and wealth?
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 62** 
+       | The fool worries: "I have sons, I have wealth." 
+       | He does not even own himself. Whence sons and wealth? [DLMBSFn-V062]_
+
 .. _Dhp063:
 
 .. list-table:: Dhammapada Dhp. 063
@@ -235,6 +252,11 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 63 The fool who knows his foolishness, is wise at least so far. But a fool who thinks himself wise, he is called a fool indeed.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 63** 
+       | A fool who knows about his foolishness, just by that he is like a wise man. 
+       | And a fool, who is proud of his cleverness, he is indeed called a fool. [DLMBSFn-V063]_
 
 .. _Dhp064:
 
@@ -285,6 +307,11 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 64 If a fool be associated with a wise man even all his life, he will perceive the truth as little as a spoon perceives the taste of soup.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 64** 
+       | A fool can attend on a wise man even for whole his life, 
+       | he will not understand the Dharma, like a spoon does not know the taste of the soup. [DLMBSFn-V064]_
+
 .. _Dhp065:
 
 .. list-table:: Dhammapada Dhp. 065
@@ -334,6 +361,11 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 65 If an intelligent man be associated for one minute only with a wise man, he will soon perceive the truth, as the tongue perceives the taste of soup.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 65** 
+       | An intelligent person can attend on a wise man even for a second, 
+       | he will quickly understand the Dharma, like a tongue knows the taste of the soup. [DLMBSFn-V065]_
+
 .. _Dhp066:
 
 .. list-table:: Dhammapada Dhp. 066
@@ -377,6 +409,11 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 66 Fools of little understanding have themselves for their greatest enemies, for they do evil deeds which must bear bitter fruits.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 66** 
+       | The stupid fools behave as if they themselves were their enemies, 
+       | doing bad deeds, which have bitter fruit. [DLMBSFn-V066]_
 
 .. _Dhp067:
 
@@ -429,6 +466,11 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 67 That deed is not well done of which a man must repent, and the reward of which he receives crying and with a tearful face.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 67** 
+       | That deed is not well done, which one regrets when it is accomplished, 
+       | whose consequences one faces with a tearful face and crying. [DLMBSFn-V067]_
+
 .. _Dhp068:
 
 .. list-table:: Dhammapada Dhp. 068
@@ -480,6 +522,11 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 68 No, that deed is well done of which a man does not repent, and the reward of which he receives gladly and cheerfully.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 68** 
+       | That deed is well done, which one does not regret when it is accomplished, 
+       | whose consequences one faces delighted and happy. [DLMBSFn-V068]_
+
 .. _Dhp069:
 
 .. list-table:: Dhammapada Dhp. 069
@@ -522,6 +569,11 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 69 As long as the evil deed done does not bear fruit, the fool thinks it is like honey; but when it ripens, then the fool suffers grief.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 69** 
+       | The fool thinks it is as honey, as long as the evil is not ripe. 
+       | When the evil is ripe, then he undergoes suffering. [DLMBSFn-V069]_
 
 .. _Dhp070:
 
@@ -568,6 +620,11 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 70 Let a fool month after month eat his food (like an ascetic) with the tip of a blade of Kusa grass, yet he is not worth the sixteenth particle of those who have well weighed the law.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 70** 
+       | Month by month can a fool eat his food with a blade of the *kusa* grass, 
+       | he is not worth a sixteenth part of those, who have realized the Dharma. [DLMBSFn-V070]_
+
 .. _Dhp071:
 
 .. list-table:: Dhammapada Dhp. 071
@@ -612,6 +669,11 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 71 An evil deed, like newly-drawn milk, does not turn (suddenly); smouldering, like fire covered by ashes, it follows the fool.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 71** 
+       | An evil deed when done, doesn't instantly bear fruits; just like milk does not coagulate at once. 
+       | Burning, it follows the fool like fire covered with ashes. [DLMBSFn-V071]_
 
 .. _Dhp072:
 
@@ -665,6 +727,11 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 72 And when the evil deed, after it has become known, brings sorrow to the fool, then it destroys his bright lot, nay, it cleaves his head.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 72** 
+       | A fool gains knowledge altogether for his harm. 
+       | It kills his fortune; it destroys his head. [DLMBSFn-V072]_
 
 .. _Dhp073:
 
@@ -721,6 +788,11 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 73 Let the fool wish for a false reputation, for precedence among the Bhikshus, for lordship in the convents, for worship among other people!
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 73** 
+       | He might want undue respect, deference from monks, 
+       | supremacy over dwellings and devotion from other families. [DLMBSFn-V073]_
 
 .. _Dhp074:
 
@@ -780,6 +852,12 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 74 "May both the layman and he who has left the world think that this is done by me; may they be subject to me in everything which is to be done or is not to be done," thus is the mind of the fool, and his desire and pride increase.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 74** 
+       | "Let both householders and monks think that it was done by me, 
+       | let them be under my will, in whatever duties." 
+       | Such are fool's thoughts. His desire and pride grows. [DLMBSFn-V074]_
+
 .. _Dhp075:
 
 .. list-table:: Dhammapada Dhp. 075
@@ -838,6 +916,12 @@ Chapter 5. The Fool; Bālavaggo (Dhp.60-75), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 75 "One is the road that leads to wealth, another the road that leads to Nirvana;" if the Bhikshu, the disciple of Buddha, has learnt this, he will not yearn for honour, he will strive after separation from the world.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 75** 
+       | Something else are worldly gains, something else is the path leading to the Nirvana. 
+       | Thus let a monk, the Buddha's student, having fully understood this, 
+       | not rejoice at worship, but let him devote himself to solitude. [DLMBSFn-V075]_
+
 --------------
 
 **the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
@@ -869,6 +953,8 @@ NOTE:
 
         THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
 
+.. [8] (note 8) original: `Readings in Pali Texts <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp>`__ ( `Digital Library & Museum of Buddhist Studies (DLMBS) <http://buddhism.lib.ntu.edu.tw/DLMBS/en/>`__ --- `Pali Lessons <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali1.jsp>`__ )
+
 .. [NāradaFn05-01]  (Ven. Nārada 05-01) Lit., wandering again and again. It is the ocean of life or existence. Saṃsāra is defined as the unbroken flow of the stream of aggregates, elements, and sense-faculties. Saṃsāra is also explained as the "continued flow of the stream of being from life to life, from existence to existence".
 
 .. [NāradaFn05-02]  (Ven. Nārada 05-02) Sahāyatā, According to the Commentary this term connotes higher morality, insight, Paths and Fruits of Sainthood. No such virtues are found in the foolish.
@@ -889,6 +975,126 @@ NOTE:
 
 .. [ThaniSFn-V71] (Ven. Thanissaro V. 71) "Doesn't — like ready milk — come out right away": All Pali recensions of this verse give the verb muccati — "to come out" or "to be released" — whereas DhpA agrees with the Sanskrit recensions in reading the verb as if it were mucchati/murchati, "to curdle." The former reading makes more sense, both in terms of the image of the poem — which contrasts coming out with staying hidden — and with the plain fact that fresh milk doesn't curdle right away. The Chinese translation of Dhp supports this reading, as do two of three scholarly editions of the Patna Dhp.
 
+.. [DLMBSFn-V060] (DLMBS Commentary V060) King Pasenadi of Kosala once saw a beautiful woman in the city. He instantly fell in love with her. He found out that she was already married and so he gave her husband a job in the palace. Then the king sent the young man on an impossible mission. He told him to collect some lotus flowers and red earth from the underground world and to return to the city the same day. He thought of course that the man will never complete the task and so will never dare to come back. Thus the king could take the wife to himself. 
+
+                  The young man set out on his mission. On the way he shared his food with some traveler. Then he threw the rest of the food to the river and called the guardian spirits, telling them that he shares with them his merit obtained from sharing the food with others. The guardian spirit of the river then brought him the flowers and earth from the underworld. 
+                  
+                  The young man returned to the city only to find the gates closed. The king had the city gates closed early in fear that the man will complete the task in time. So he put the flowers and earth on the ground, declared loudly that his mission is complete and went for the night to the monastery of Jetavana. 
+                  
+                  The king was obsessed with his desire for the young woman, so he could not sleep that night. He heard some strange sounds. In the morning he went to see the Buddha about them. The Buddha told him that the sounds he heard came from the men who desired others' wives and now suffer in hell. 
+                  
+                  The king realized foolishness of his actions and reflected that now he knows how long is the night for the sleepless. Also the young man realized how long is the journey for one who is tired. 
+                  
+                  The Buddha told them by this verse that longest is the Samsara for those who are foolish and do not know the Dharma.
+
+.. [DLMBSFn-V061] (DLMBS Commentary V061) Venerable Mahākassapa was once staying near Rājagaha. At that time he had two novices with him. One of them was very good, diligent, respectful and obedient whereas the other one was lazy, disrespectful and naughty. 
+                  
+                  When Kassapa admonished the bad novice, he became angry. One day he went to the village to get some food and lied that Kassapa was sick. So the people gave him very good food for Venerable Kassapa. But the novice ate all himself and came back to Kassapa empty-handed. He was admonished once again, but instead of repenting he became even angrier. 
+                  
+                  The next day when Kassapa left for his alms-round, the young novice broke all things and set fire to the monastery. 
+                  
+                  When the Buddha heard about this he spoke this verse, remarking that it would be better for Kassapa to live alone than to associate himself with such a fool.
+
+.. [DLMBSFn-V062] (DLMBS Commentary V062) In the city of Sāvatthi there once lived a rich but very stingy man. He was extremely wealthy but he did not give anything away in charity. Before he died, he buried five pots of gold in the garden, but he did not tell his son about it. 
+                  
+                  He was born again in a village of beggars close to Sāvatthi. Since the time his mother became pregnant with him, the income of beggars decreased dramatically. They decided, that the boy must be unlucky, so they drove his mother and him from the village. So they begged on themselves. 
+                  
+                  Whenever she went begging by herself, she would get as much as before, but when she took the boy with her, she got nothing. So when the boy grew up, his mother sent him out alone to beg. 
+                  
+                  He wandered about in Sāvatthi and he entered his old house. His former son were frightened by him and ordered him to be thrown out of the house. 
+                  
+                  The Buddha happened to see this incident and he told him that the young beggar was nobody else but his own dead father. The son did not believe it, so the Buddha ordered the boy to reveal where he buried the gold. Only then did his son accept the truth and he became a disciple of the Buddha.
+
+.. [DLMBSFn-V063] (DLMBS Commentary V063) A group of Buddha's followers once went to the monastery to hear the Dharma. Two thieves joined them. One of them was busy stealing from the devotees, so he did not pay any attention to what the Buddha was saying. The other one listened and soon he understood the Dharma and stopped stealing. 
+                  
+                  When they returned home, the first thief laughed at the second one: "You are so stupid, you did not bring back anything! I am very wise, because I stole a lot of things." The other thief then went to the Buddha and told him what happened. 
+                  
+                  The Buddha explained by this verse that the fool who knows that he is a fool is wise at least to that extent, whereas the fool who thinks that he is wise can be truly called a fool.
+
+.. [DLMBSFn-V064] (DLMBS Commentary V064) There was a monk named Udāyi, who was very ignorant. He used to sit on the platform from which the best teachers delivered the discourses. Once a group of traveling monks took him for a learned monk and gave him some questions on the Dharma. But Udāyi could not answer, because he actually did not know anything about the Dharma. The monks were surprised that somebody can stay close to the Buddha for such a long time and still know so very little. 
+                  
+                  The Buddha explained by this verse that although a fool associates with somebody wise even for whole his life, he still does not realize the Dharma, just as a spoon can never taste the soup, although it is used it for eating the very soup.
+
+.. [DLMBSFn-V065] (DLMBS Commentary V065) In the city of Pāveyyaka there lived a group of young friends. Once they went to a forest and took a courtesan with them. While they were resting, the courtesan ran away with their money. While they searched for her in the forest, they met the Buddha. They stopped looking for the woman and listened to the Buddha's teachings. Immediately they all became monks and followed the Buddha to the monastery. They all practiced very diligently and soon (when the Buddha was delivering one of the discourses), they all became Arahants. 
+                  
+                  Some other monks were surprised, how is it possible to attain the arahantship so quickly. The Buddha explained by this verse, that an intelligent person could quickly realize the Dharma although he is associated with a wise person only for a very short time - just as the tongue tastes the soup. 
+
+.. [DLMBSFn-V066] (DLMBS Commentary V066) There was a man named Suppabuddha. In one of his previous existences he killed a courtesan and she vowed a revenge on him. In yet another existence he spat on a holy man. 
+                  
+                  As a result of these actions he was born as a leper. Once he listened to the Buddha's discourse. He very quickly realized the Dharma and followed the Buddha to the monastery. 
+                  
+                  Sakka, the king of gods, wanted to test him and so he appeared in front of him and told him: "You are only a poor man. If you renounce the Buddha, I will give you all the wealth of the world." But Suppabuddha replied, that he was actually an extremely rich man - having the faith in the Buddha and his teaching. 
+                  
+                  Then Sakka related the story to the Buddha, who said that a hundred Sakkas could not turn Suppabuddha of the right path. Suppabuddha then went to see the Buddha and on the way back from the monastery an evil spirit - the woman whom he killed in a previous existence - killed him. 
+                  
+                  The monks asked the Buddha where was Suppabuddha reborn and the Buddha told them, that he had been reborn in Tāvatimsa heaven. By doing bad deeds over the period of several lives he accumulated a lot of defilements. These caused him so much pain and suffering, but his realizing the Dharma has cleared them away. 
+
+.. [DLMBSFn-V067] (DLMBS Commentary V067) Some thieves were once dividing the stolen goods amongst themselves in the field. But accidentally, they left one bag of money behind. 
+                  
+                  Then a farmer from a nearby village started to plough that very field. The Buddha accompanied by Venerable Ānanda went by and the Buddha said: "Ānanda, look at that poisonous snake!" To which Ānanda replied: "Yes, Venerable Sir, it indeed is a very poisonous snake." The farmer was very curious so he went to investigate. He found the bag with money and took it with him. 
+                  
+                  Then the people who were robbed came to that place, followed the footprints of the farmer and found their money. They took the farmer to the king who ordered him executed. But on the way to the cemetery the poor man was constantly repeating the Buddha and Ānanda's words. The executioners were surprised, so they took him back to see the king. The king then brought the farmer to the presence of the Buddha. After hearing what happened that morning, the king set the farmer free and remarked that if the farmer were not able to call the Buddha as his witness, he would have been killed. 
+                  
+                  To that the Buddha replied with this verse, saying that a wise man should not do anything he could regret later.
+
+.. [DLMBSFn-V068] (DLMBS Commentary V068) In the city of Rājagaha there lived a florist named Sumana. His duty was to bring the king Bimbisāra fresh jasmine flowers every morning. One day he was on his way to the palace with the flowers, when he saw the Buddha and many monks on their alms round. He felt a strong desire to offer the flowers to the Buddha. He decided that even if the king were to fire him or even kill him, he would offer the flowers to the Buddha. He did so and was filled with delightful satisfaction. 
+                  
+                  When Bimbisāra heard about it, he was extremely happy with what Sumana have done. He praised him for his devotion and gave him a big reward. 
+                  
+                  Venerable Ānanda asked the Buddha what consequences would Sumana bear for this action. The Buddha replied that Sumana would not be reborn any more in any of the lower worlds and that he will attain arahantship in the near future.
+
+.. [DLMBSFn-V069] (DLMBS Commentary V069) In the city of Sāvatthi lived a beautiful girl named Uppalavaṇṇā. The news of her beauty traveled very far and she had many suitors from near and afar. Amongst them was her cousin Nanda who fell in love with her hopelessly. But she decided not to marry any of them and became a nun instead. One day after lightening a lamp she kept her mind fixed on the flame as her object of meditation and she attained arahantship. 
+                  
+                  Later she moved to the forest and lived in solitude. Once Nanda came to her hut when she was not there and hid under the couch. He was determined to take her by force if she did not agree to marry him. Uppalavaṇṇā returned and he jumped up. She tried to warn him, told him that he would have to bear consequences for his actions, but he did not listen and raped her. For this he indeed had to suffer a long period of time. 
+                  
+                  When the Buddha heard about this, he told King Pasenadi of Kosala about the dangers that nuns living by themselves in the forest had to face. The king built a monastery within the city and from that time on the nuns lived only in the city.
+
+.. [DLMBSFn-V070] (DLMBS Commentary V070) In the city of Sāvatthi there lived a young man of a rich family. His name was Jambuka. He had very strange habits. He would sleep only on the floor and eat his own excrements. When he grew up, his parents sent him to the ascetics. But even those ascetics felt his habits were too disgusting so they sent him away. After that he lived alone in the forest. During the day he would stay on one leg (as he said, he was to heavy for the earth to bear him) and with his mouth open (he boasted that he lived only on air). He also used to say that he never sits down and never sleeps. But at night he slept on the floor and ate his own excrements. 
+                  
+                  Many people started to count themselves as his followers; they would bring him food and gifts. But he did not take anything, only sometimes he would take a little bit of food and eat it with the tip of the kusa grass, which was quite common practice for ascetics. Thus he lived many years. 
+                  
+                  Once the Buddha came to where he was staying and asked for a place to spend the night. Jambuka let him sleep in the nearby cave. At night, many gods and supernatural beings came to pay homage to the Buddha. Jambuka saw this and asked the Buddha what happened. 
+                  
+                  When the Buddha told him that these beings were gods, Jambuka was impressed. He told the Buddha that he must be a very holy person, because although he himself spent years standing on one leg and eating only air, no god ever came to pay homage to him. The Buddha told him that he could not be fooled. He said that he knew very well that Jambuka slept on the ground every night and ate his excrements. 
+                  
+                  The Buddha also explained, that during one of his previous existences Jambuka had prevented a certain monk to go obtain alms food and how he threw away the food that was sent with him for that very monk. As a result of these actions he was born with these strange habits. 
+                  
+                  Jambuka realized his mistakes and paid respects to the Buddha. The Buddha delivered a discourse, at the end of which Jambuka attained arahantship and became one of the Buddha's monks. 
+                  
+                  When Jambuka's followers arrived they were surprised to see their teacher with the Buddha. Jambuka announced that he was now a member of Buddha's Sangha, the Order and a disciple of the Buddha. The Buddha explained that the cruelest austerities practiced for a long period of time are not worth even one-sixteenth of understanding of the true Dharma.
+
+.. [DLMBSFn-V071] (DLMBS Commentary V071) Once the Venerable Moggallāna with Venerable Lakkhana were on alms round in the city of Rājagaha. Suddenly Venerable Moggallāna smiled but did not say anything. When they returned to the monastery, Lakkhana asked why he smiled. Moggallāna explained, that he saw a peta-ghost in the village. The Buddha then said that he himself saw that very peta on the day he attained awakenment. In one of his previous existences it was a rich landowner. There lived an Individual Buddha (Paccekabuddha) close to one of his fields. People who went to pay their respects to this Buddha had to pass through his field. He feared that this would damage the field and so he set fire to it. So the Buddha had to move to some other place. Because of this evil deed he was reborn as a peta-ghost. 
+                  
+                  At the end the Buddha spoke this verse, saying that although at the time of the evil action it may seem there are no consequences, they will surely come in the future. Because we cannot see the fire through the ashes it is covered with, does not mean there is no fire at all. 
+
+.. [DLMBSFn-V072] (DLMBS Commentary V072) Venerable Moggallāna once saw a peta-ghost on one of his alms rounds. The Buddha then related the story about this particular ghost. He said, that a long time ago he was a man very skilful in throwing stones. He studied this art for a long time and then he asked his teacher for permission to try his skills. His teacher warned him not to hit cows or people - he would have to pay compensations to the owner of the cow or the relatives of that person. 
+                  
+                  This foolish man then went out and saw a holy man. Since the holy man had no relatives, he thought that this would be a good practice target. So he threw stones at the holy man and killed him. The public then became very angry and killed the man in turn. Besides, he was reborn many times in very miserable states. In this present existence, he was reborn as a peta-ghost whose head was being hit with hot hammers. 
+                  
+                  The Buddha then explained by this verse that a fool gains knowledge only for his misfortune, because he does not know how to use it properly and certainly it will cause him some harm.
+
+.. [DLMBSFn-V073] (DLMBS Commentary V073) A householder named Citta once met Venerable Mahānāma, one of the first Buddha's disciples. When listening to the discourse given by him, Citta realized the Dharma. Therefore, he built a monastery in his mango grove and installed a monk named Sudhamma as the resident monk. 
+                  
+                  On day, Venerable Moggallāna and Venerable Sāriputta came to the monastery. They gave a discourse and after hearing it, Citta attained the third stage of Awakenment. He then invited Moggallāna and Sāriputta to his house for alms food the next day. After that he also invited Sudhamma, but he refused, saying that he was invited only after the other two were. Citta repeated his invitation, but Sudhamma again turned it down. 
+                  
+                  But the next day Sudhamma came to the Citta's house nevertheless. He was invited inside, but he refused, saying that he was on his alms round. But when he saw tasty food being prepared for Moggallāna and Sāriputta he got envious and angry. He told Citta that he did not want to live in his monastery any longer. 
+                  
+                  Sudhamma then reported to the Buddha what happened. The Buddha told him, "You have offended a faithful and generous lay disciple. You must go back and apologize for your mistake!" Sudhamma did so, but Citta felt that he still did not realize his mistake fully and refused his apology. Sudhamma went back to the Buddha, who admonished him with this verse (and the following one, see DhP 74). He said, "You should not be attached to this or that dwelling, to this or that lay disciple - in this way the pride and envy will increase." 
+                  
+                  Sudhamma went back to the Citta's house and this time Citta accepted the apology. Not long after that, Sudhamma attained Arahantship.
+
+.. [DLMBSFn-V074] (DLMBS Commentary V074) The story for this verse is identical with the story for the previous one, as they actually form two parts of one rather long verse (see DhP 73). 
+                  
+                  As with the monk Sudhamma in the story, if we become too attached to our surroundings, if we identify ourselves with it, our desires will grow. If we feel that only we know how to do things and if we expect everybody to follow our leadership in whatever has to be done, our pride will only increase. Needles to say, desire and pride are hindrances on the way to Awakenment.
+
+.. [DLMBSFn-V075] (DLMBS Commentary V075) In the city of Sāvatthi lived a well-known man. He often offered alms food to the monks and especially to Venerable Sāriputta. He had a son named Tissa. At the age of seven, the young boy Tissa became a novice under Sāriputta. While living at the Jetavana monastery, relatives would visit him often and bring him many presents. Soon he was tired of these visits so he took a subject of meditation from the Buddha and moved away to the forest monastery. While there, he devoted himself to meditation. Whenever villagers offered him alms, he said just, "May you be well and happy!" After three months of meditation he attained arahantship. 
+                  
+                  Then Venerable Sāriputta, Moggallāna, and other senior monks paid visit to Tissa. Villagers requested Sāriputta to deliver a discourse, but he let speak Tissa instead. Villagers were not pleased, because they never heard anything from Tissa except for the words "May you be well and happy!" They thought he did not really understand Dharma. 
+                  
+                  But Tissa gave a discourse and spoke for the whole night. Villagers were impressed and felt lucky that they have such a wise monk with them. But still they were a bit angry with him for not speaking earlier. 
+                  
+                  Then the Buddha came to the village and told the villagers how lucky they were. If it was not for Tissa, would they all, the Buddha and so many senior monks, come to the village? The villagers realized their luck and did not think about the past any more.
+                  
 --------------
 
 - `Homepage of Dhammapada <{filename}../dhp-reseach/dhp-en-ref%zh.rst>`__

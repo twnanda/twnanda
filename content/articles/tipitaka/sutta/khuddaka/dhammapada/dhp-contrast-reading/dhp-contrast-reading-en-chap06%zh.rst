@@ -1,9 +1,9 @@
-==============================================================================================================================================
+===================================================================================================================================================
 Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.) 
-==============================================================================================================================================
+===================================================================================================================================================
 
 :date: 2016-06-28 16:30
-:modified: 2016-06-28 16:30
+:modified: 2016-09-08 11:30
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, The Wise, The Wise Man, Paṇḍitavaggo, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -120,6 +120,14 @@ Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragra
 
        76 If you see an intelligent man who tells you where true treasures are to be found, who shows what is to be avoided, and administers reproofs, follow that wise man; it will be better, not worse, for those who follow him.
 
+   * - Cited from DLMBS [8]_
+     - **Chapter 6: The Wise**
+
+       | **DhP 76** 
+       | Should one see an intelligent person, who speaks rebukingly, 
+       | who can see faults as if showing treasures, one should associate with such a wise one. 
+       | Associating with such people is better, not worse. [DLMBSFn-V076]_
+
 .. _Dhp077:
 
 .. list-table:: Dhammapada Dhp. 077
@@ -179,6 +187,11 @@ Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragra
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 77 Let him admonish, let him teach, let him forbid what is improper!- -he will be beloved of the good, by the bad he will be hated.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 77** 
+       | He should admonish, he should advice, and he should restrain one from evil. 
+       | He is indeed dear to the good ones and he is not agreeable to the bad ones. [DLMBSFn-V077]_
+
 .. _Dhp078:
 
 .. list-table:: Dhammapada Dhp. 078
@@ -220,6 +233,11 @@ Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragra
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 78 Do not have evil-doers for friends, do not have low people for friends: have virtuous people for friends, have for friends the best of men.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 78** 
+       | One should not associate with evil friends; one should not associate with vile people. 
+       | Associate with virtuous friends; associate with noble people. [DLMBSFn-V078]_
 
 .. _Dhp079:
 
@@ -267,6 +285,11 @@ Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragra
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 79 He who drinks in the law lives happily with a serene mind: the sage rejoices always in the law, as preached by the elect (Ariyas).
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 79** 
+       | One who finds joy in the Dharma dwells happily, with a bright mind. 
+       | The wise man always delights in the Dharma taught by the noble ones. [DLMBSFn-V079]_
+
 .. _Dhp080:
 
 .. list-table:: Dhammapada Dhp. 080
@@ -310,6 +333,11 @@ Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragra
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 80 Well-makers lead the water (wherever they like); fletchers bend the arrow; carpenters bend a log of wood; wise people fashion themselves.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 80** 
+       | Irrigators lead water. Arrow-makers bend arrow-shaft. 
+       | Carpenters bend wood. Wise ones master themselves. [DLMBSFn-V080]_
+
 .. _Dhp081:
 
 .. list-table:: Dhammapada Dhp. 081
@@ -350,6 +378,11 @@ Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragra
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 81 As a solid rock is not shaken by the wind, wise people falter not amidst blame and praise.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 81** 
+       | Just like a compact rock is not moved by the wind, 
+       | so the wise ones are not shaken by blame or praise. [DLMBSFn-V081]_
 
 .. _Dhp082:
 
@@ -393,6 +426,11 @@ Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragra
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 82 Wise people, after they have listened to the laws, become serene, like a deep, smooth, and still lake.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 82** 
+       | Just like a lake, deep, bright and clean, 
+       | so the wise ones become tranquil, after having heard the teachings. [DLMBSFn-V082]_
 
 .. _Dhp083:
 
@@ -443,6 +481,11 @@ Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragra
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 83 Good people walk on whatever befall, the good do not prattle, longing for pleasure; whether touched by happiness or sorrow wise people never appear elated or depressed.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 83** 
+       | True people abandon everything. Good people do not mutter, desiring pleasure. 
+       | Wise people do not show elation or depression when they are affected by happiness or suffering. [DLMBSFn-V083]_
 
 .. _Dhp084:
 
@@ -495,6 +538,11 @@ Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragra
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 84 If, whether for his own sake, or for the sake of others, a man wishes neither for a son, nor for wealth, nor for lordship, and if he does not wish for his own success by unfair means, then he is good, wise, and virtuous.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 84** 
+       | One should not want a son, wealth or kingdom, not for one's own sake, not for the sake of others, 
+       | one should not want one's own prosperity by injustice. Such a person is virtuous, wise and righteous. [DLMBSFn-V084]_
 
 .. _Dhp085:
 
@@ -563,6 +611,11 @@ Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragra
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 85 Few are there among men who arrive at the other shore (become Arhats); the other people here run up and down the shore.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 85** 
+       | Few are those amongst people, who have gone to the other shore. 
+       | And these other people just follow this shore. [DLMBSFn-V085]_
 
 .. _Dhp086:
 
@@ -633,6 +686,11 @@ Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragra
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 86 But those who, when the law has been well preached to them, follow the law, will pass across the dominion of death, however difficult to overcome.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 86** 
+       | And those who in the well-taught Dharma behave according to it, 
+       | those people will go beyond the realm of death, that is so difficult to cross. [DLMBSFn-V086]_
 
 .. _Dhp087:
 
@@ -708,6 +766,11 @@ Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragra
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 87, 88. A wise man should leave the dark state (of ordinary life), and follow the bright state (of the Bhikshu). After going from his home to a homeless state, he should in his retirement look for enjoyment where there seemed to be no enjoyment. Leaving all pleasures behind, and calling nothing his own, the wise man should purge himself from all the troubles of the mind.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 87** 
+       | Having abandoned the bad states let the wise man develop the good states. 
+       | having come from the house into houselessness, into solitude, which is not fit for pleasures. [DLMBSFn-V087]_
+
 .. _Dhp088:
 
 .. list-table:: Dhammapada Dhp. 088
@@ -780,6 +843,11 @@ Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragra
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 87, 88. A wise man should leave the dark state (of ordinary life), and follow the bright state (of the Bhikshu). After going from his home to a homeless state, he should in his retirement look for enjoyment where there seemed to be no enjoyment. Leaving all pleasures behind, and calling nothing his own, the wise man should purge himself from all the troubles of the mind.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 88** 
+       | A wise one should want delight there, having renounced the sense-pleasures, 
+       | without anything and having cleansed himself from the impurities of mind. [DLMBSFn-V088]_
 
 .. _Dhp089:
 
@@ -857,6 +925,12 @@ Chapter 6. The Wise Man; Paṇḍitavaggo (Dhp.76-89), Parallel Reading (paragra
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 89 Those whose mind is well grounded in the (seven) elements of knowledge, who without clinging to anything, rejoice in freedom from attachment, whose appetites have been conquered, and who are full of light, are free (even) in this world.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 89** 
+       | People, whose mind is truly well developed in the constituents of awakenment, 
+       | who are delighting in renunciation of attachments, without clinging, 
+       | with the taints removed and brilliant, they are completely emancipated in this world. [DLMBSFn-V089]_
+
 --------------
 
 **the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
@@ -888,6 +962,8 @@ NOTE:
 
         THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
 
+.. [8] (note 8) original: `Readings in Pali Texts <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp>`__ ( `Digital Library & Museum of Buddhist Studies (DLMBS) <http://buddhism.lib.ntu.edu.tw/DLMBS/en/>`__ --- `Pali Lessons <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali1.jsp>`__ )
+
 .. [NāradaFn06-01] (Ven. Nārada 06-01) Ariya, which means "one who is far removed from passions", was originally a racial term. In Buddhism it indicates nobility of character, and is invariably applied to the Buddhas and the Arahants.
 
 .. [NāradaFn06-02] (Ven. Nārada 06-02) By attaining Sainthood.
@@ -915,6 +991,91 @@ NOTE:
 .. [ThaniSFn-V86] (Ven. Thanissaro V. 86) The syntax of this verse yields the best sense if we take param as meaning "across," and not as "the far shore."
 
 .. [ThaniSFn-V89] (Ven. Thanissaro V. 89) Factors for self-awakening = mindfulness, analysis of qualities, persistence, rapture, serenity, concentration, and equanimity.
+
+.. [DLMBSFn-V076] (DLMBS Commentary V076) A poor old man named Rādha was staying in the monastery doing manual work, like sweeping, cutting the grass etc. He wanted to become a monk, but the elders were not willing to admit him. 
+
+                  One day the Buddha saw that Rādha had a potential to become an arahant, so he called the monks and asked them if any of them recollects a good deed done by Rādha. Venerable Sāriputta said that Rādha once offered him some rice. The Buddha then asked if it wasn't proper to repay the kindness by accepting the man into the Order and show him the way out of suffering. So Rādha became a monk under Venerable Sāriputta. He strictly followed Sāriputta's guidance and in a very short time he attained arahantship. 
+                  
+                  When the Buddha heard about this he explained by this verse that a monk should always be attentive to guidance by his betters and not resent rebukes for his faults.
+
+.. [DLMBSFn-V077] (DLMBS Commentary V077) There were two monks, Assaji and Punabhasuka, staying in the village of Kitāgiri together with their disciples. They planted trees for personal gain and violated some other minor monks' precepts. Thus, the monastery became noisy and not suitable for spiritual development. 
+                  
+                  When the Buddha heard about it, he sent Sāriputta and Moggallāna to advise these monks. After the admonition from the two Buddha's chief disciples, most of the monks changed their way of life. But some of them were not happy and returned to the household life. 
+                  
+                  The Buddha reacted with this verse, saying that admonishing and instructing is always fine with the good ones, whereas the bad ones never agree to being advised.
+
+.. [DLMBSFn-V078] (DLMBS Commentary V078) Channa was Prince Siddhattha's servant before he renounced the world. When he left the palace and went to homelessness, Channa accompanied him part of the way. After he became the Buddha, Channa also left the worldly life and became a monk. But on account of his close connection with the Buddha, he was very proud and arrogant. He used to scold Sāriputta and Moggallāna, envying them their positions as two Buddha's chief disciples. 
+                  
+                  The Buddha admonished him several times, but Channa still continued to abuse as before. This went on for a long time. Just before the Buddha passed away, he told Ānanda that after his death, a special punishment should be imposed on Channa - nobody was to talk to him, nobody was to associate with him. 
+                  
+                  When Channa learned about this, he felt a deep remorse for his behavior. He admitted his mistake and apologized. After that he changed his ways, practiced diligently and soon he became an Arahant.
+
+.. [DLMBSFn-V079] (DLMBS Commentary V079) King Mahākappina ruled in Kukkutavati. Once he heard from some merchants about the Buddha and his teachings. He and several of his ministers immediately left for Sāvatthi, where the Buddha was staying at that time. 
+                  
+                  They met the Buddha sitting under a tree on the bank of a river. After listening to his teachings, they immediately realized the Dharma and became monks. 
+                  
+                  When he did not return, his queen and wives of the ministers followed them to Sāvatthi. When they arrived there, the Buddha hid the former king and his ministers, because he knew that if the women saw their husbands in yellow robes and with their heads shaved, it would be impossible for them to realize the Dharma. So he just told them to sit down and listen to what he had to say, their husbands would join them soon. He then delivered a discourse. At the end the king and his ministers (they were sitting nearby) attained arahantship and the queen and the wives of the ministers attained the first stage of awakenment. The ladies also joined the Order and soon became arahants too. 
+                  
+                  Venerable Mahākappina would often exclaim: "Oh, what happiness!" When the other monks asked the Buddha what he meant, he replied with this verse, explaining that Mahākappina tasted the nectar of the Dharma and found it extremely sweet. He therefore lives happily, with a bright mind.
+
+.. [DLMBSFn-V080] (DLMBS Commentary V080) Venerable Sāriputta once had a very young novice. On the eighth day after becoming a novice he was with Sāriputta on an alms-round. He observed irrigators irrigating the fields, arrow-makers making their arrows and carpenters working with wood. He asked Venerable Sāriputta if those things, which have no mind, could be guided to wherever one wishes. Sāriputta replied that it is so. The young novice then thought, "If those things, which have no mind, could be guided to wherever one wishes, then why could not I master myself?" 
+                  
+                  He then asked permission from Sāriputta, returned to the monastery and diligently practiced. Very soon he attained the third stage of awakenment and was very close to attaining full arahantship. 
+                  
+                  Sāriputta then returned and was going towards the novice's hut. The Buddha saw this and he also saw that the novice was just about to attain the goal, so he met Sāriputta outside and prevented him from going to the novice's hut by asking him various questions. The novice indeed attained arahantship very soon and the Buddha explained that the reason, why he kept Sāriputta outside, was to enable the young novice to attain his goal without being interrupted.
+
+.. [DLMBSFn-V081] (DLMBS Commentary V081) At the Jetavana monastery lived a monk named Bhaddiya. Because he was very short, other monks would often tease him. Younger monks would pull his nose or pat him on the head and ask, "Uncle, how are you? Are you bored with your life as a monk?"But Bhaddiya was extremely good-natured and he never retaliated in anger. 
+                  
+                  Somebody once mentioned Bhaddiya's patience in front of the Buddha. The Buddha replied by this verse and he added, that Arahants are like that - they never loose temper for whatever reason. They are like mountain rocks - unmovable by the "wind" of praise or blame. Only then did the other monks understand, that this funny short Bhaddiya was actually an Arahant.
+
+.. [DLMBSFn-V082] (DLMBS Commentary V082) In one village there lived a woman named Kāṇa Mātā. She was a devout lay disciple of the Buddha. She had a daughter Kāṇa who was married to a man from another village. Once she was staying with her mother and her husband sent for her. But her mother told her to wait, because she wanted to send some cakes to her husband. 
+                  
+                  But the next day some monks came to the house and Kāṇa Mātā gave the cakes to them. Kāṇa had to wait for her mother to prepare new cakes and she could not return to her husband. This happened every day for three following days. All the cakes were given to the monks. 
+                  Kāṇa's husband then took another wife. Kāṇa accused the monks that they have ruined her marriage and became very bitter. She would insult and abuse the monks, wherever she saw them. 
+                  
+                  The Buddha then set a new rule for the monks, not to take advantage of the devotion of the lay disciples. He went to Kāṇa Mātā's house and asked Kāṇa if the monks took what was given or what was not given. Kāṇa replied that they took only what was given to them and realized that she was wrong. The Buddha then gave a discourse. At the end, Kāṇa attained the first stage of Arahantship. 
+                  
+                  King Pasenadi of Kosala heard about this, summoned Kāṇa to the palace and one of his ministers adopted her as his daughter. Every day she gave offerings to holy people who came to her door. 
+                  
+                  The Buddha then noted that Kāṇa's mind, originally confused and "muddy" became clear as a lake after listening to the Dharma. 
+
+.. [DLMBSFn-V083] (DLMBS Commentary V083) The Buddha and many monks once stayed for the Rain Retreat in the village of Veranja at a request of a Brahmin from that village. But for some reason the Brahmin did not look after them. Moreover, there was a famine in the region and people could not support them very well. But the monks were all contented and happy. Some horse traders offered them grain every day and they lived on that food and continued to practice meditation diligently. 
+                  
+                  When the Rains were over, the Buddha and the monks returned to Savatthi. At that time, a certain group of people was permitted to stay in the monastery. They only ate greedily, slept and played on the bank of the river. There was a lot of noise in the monastery and around it. 
+                  
+                  When monks remarked to the Buddha that people were so depressed during the famine and now, when it was over, they were so elated. The Buddha replied with this verse, adding that only the foolish are full of sorrow when things do not go well and extremely happy when everything is fine. The wise is always calm and equanimous whether they have to face good or bad things.
+
+.. [DLMBSFn-V084] (DLMBS Commentary V084) In the city of Savatthi, there lived a man with his pregnant wife. He wanted to become a monk so he asked his wife for permission. She told him to wait after the baby is born. When it happened, she again asked him to stay until the child could walk. When the man finally got to be a monk, he took a subject of meditation, practiced diligently and soon attained arahantship. 
+                  
+                  A few years later he visited his house in order to teach Dharma to his family. His son became a monk too and soon he also became an Arahant. The wife thought, "If both my husband and my son entered the Order, I'd better go too." So she left the house and became a nun. Eventually she too attained arahantship. 
+                  
+                  The Buddha was told how the whole family attained arahantship and he replied by this verse. He added, that a wise man works for his liberation and helps others towards the same goal. The awakenment can be realized only after much effort.
+
+.. [DLMBSFn-V085] (DLMBS Commentary V085) One day, a group of people came to the monastery to give offerings to the monks and listen to the discourses. It was arranged that they could stay the whole night and listen to the monks explaining the Dharma. 
+                  
+                  But some of them did not have enough energy and they returned home early. Some stayed for the night, but were sleepy and did not pay much attention to what was being said. Only a few were able to listen attentively to the discourses. 
+                  
+                  In the morning the Buddha was told about what happened. He replied by this verse, saying that most people are too attached to this world, only a few are able to reach the other shore and attain Nirvana. 
+                  
+                  He reminded the monks to strive diligently for the goal; only those who will do se will be able to reach the perfection of mind.
+
+.. [DLMBSFn-V086] (DLMBS Commentary V086) The story for this verse is identical to the story for the previous one. 
+                  
+                  It is not easy to reach the Nirvana, even if we practice diligently for a long time. Most people, although they listen to the discourses, read books and meditate, are not able to really cut the ties to "this shore" and realize the arahantship. Only when one is really living the Dharma for a long time and fully, one is able to achieve this goal.
+
+.. [DLMBSFn-V087] (DLMBS Commentary V087) A group of monks came to see the Buddha and asked him for advice on meditation. The Buddha advised them with this verse and with the two following ones (DhP 88, DhP 89). 
+                  
+                  In order to be able to devote oneself completely to the practice of meditation, one must "give up the bad states". These are evil deeds, evil thoughts. Then one must develop "good states", or good deeds and good thoughts. If one wants to practice wholeheartedly, it is very good to "go the houselessness", or in other words to became a monk or a nun and meditate diligently in solitude. That is extremely difficult, because in solitude there is nothing "to enjoy", nothing for our mind to occupy itself with, we are left only with ourselves and have to concentrate on the practice.
+
+.. [DLMBSFn-V088] (DLMBS Commentary V088) A group of monks came to see the Buddha and asked him for advice on meditation. The Buddha advised them with this verse and with the preceding and the following one (DhP 87, DhP 89). 
+                  
+                  In order to reach the awakenment, one must abandon all cravings and "have nothing", or in other words, not cling to anything. One must also purify the mind from the "impurities", or greed, hate, delusion, conceit, speculative views, skeptical doubt, mental torpor, restlessness, shamelessness and lack of moral dread. 
+                  
+                  This way, one will reach the state of arahantship and then one can truly find delight in solitude.
+
+.. [DLMBSFn-V089] (DLMBS Commentary V089) A group of monks came to see the Buddha and asked him for advice on meditation. The Buddha advised them with this verse and with the two preceeding ones (DhP 87, DhP 88). 
+                  
+                  In order to reach the awakenment, one must fully develop the "constituents of awakenment". They are seven: mindfulness (**sati**), investigation of the Dharma (**dhammavicaya**), energy (**viriya**), joy (**piti**), tranquility (**passadhi**), concentration (**samadhi**) and equanimity (**upekkha**). We also must not cling to anything and take delight in renouncing all the attachments. Most importantly, we must "remove the taints". Traditionally, these four taints (**asava**) are mentioned in the texts: sense desire (**kama**), desiring eternal existence (**bhava**), wrong views (**ditthi**) and ignorance (**avijja**). If we remove these taints, we will "shine" with wisdom and be truly completely emancipated from the suffering.
 
 --------------
 
