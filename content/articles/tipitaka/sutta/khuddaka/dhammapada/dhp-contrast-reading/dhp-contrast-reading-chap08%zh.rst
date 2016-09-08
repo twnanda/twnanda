@@ -3,7 +3,7 @@
 ======================================================================
 
 :date: 2016-06-03 21:00
-:modified: 2016-07-25 17:00
+:modified: 2016-09-08 21:00
 :tags: 法句經, 法句經對讀, 千品, Dhp, Dhammapada, Sahassavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Thousands
@@ -147,6 +147,13 @@
 
        100 Even though a speech be a thousand (of words), but made up of senseless words, one word of sense is better, which if a man hears, he becomes quiet.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - **Chapter 8: The Thousand**
+
+       | **DhP 100** 
+       | Rather then a thousand speeches without meaningful words, 
+       | is better one meaningful word, after hearing which, one can attain calm. [DLMBSFn-V100]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 100 <{filename}../dhA/dhA-chap08%zh.rst#dhp100>`__
 
@@ -226,6 +233,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 101 Even though a Gatha (poem) be a thousand (of words), but made up of senseless words, one word of a Gatha is better, which if a man hears, he becomes quiet.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 101** 
+       | Rather then a thousand verses without meaningful words, 
+       | is better one word of a verse, after hearing which, one can attain calm. [DLMBSFn-V101]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 101 <{filename}../dhA/dhA-chap08%zh.rst#dhp101>`__
@@ -307,6 +319,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 102 Though a man recite a hundred Gathas made up of senseless words, one word of the law is better, which if a man hears, he becomes quiet.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 102** 
+       | Who should say even a hundred verses without meaningful words, 
+       | better is one verse on the Dharma, after hearing which, one can attain calm. [DLMBSFn-V102]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 102 <{filename}../dhA/dhA-chap08%zh.rst#dhp102>`__
 
@@ -376,6 +393,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 103 If one man conquer in battle a thousand times thousand men, and if another conquer himself, he is the greatest of conquerors.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 103** 
+       | If one should conquer thousands of people in the battle, 
+       | and if one should conquer just one thing - himself, he indeed is the victor of the highest battle. [DLMBSFn-V103]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 103 <{filename}../dhA/dhA-chap08%zh.rst#dhp103>`__
 
@@ -443,6 +465,12 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 104, 105. One's own self conquered is better than all other people; not even a god, a Gandharva, not Mara with Brahman could change into defeat the victory of a man who has vanquished himself, and always lives under restraint.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 104** 
+       | It is better to conquer oneself than to conquer other people. 
+       | Of a person, who tamed himself, who is always acting with self-control, 
+       | [Continued in DhP 105]  [DLMBSFn-V104]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 104 <{filename}../dhA/dhA-chap08%zh.rst#dhp104>`__
@@ -515,6 +543,12 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 104, 105. One's own self conquered is better than all other people; not even a god, a Gandharva, not Mara with Brahman could change into defeat the victory of a man who has vanquished himself, and always lives under restraint.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 105** 
+       | [continued from DhP 104] 
+       | not a god, not a Gandharva, not Mara with Brahma, 
+       | can turn into defeat the victory of a person of such form. [DLMBSFn-V105]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 105 <{filename}../dhA/dhA-chap08%zh.rst#dhp105>`__
@@ -599,6 +633,12 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 106 If a man for a hundred years sacrifice month after month with a thousand, and if he but for one moment pay homage to a man whose soul is grounded (in true knowledge), better is that homage than sacrifice for a hundred years.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 106** 
+       | If one should sacrifice every month thousand times even by hundreds, 
+       | and if one should even for a moment pay respects to somebody, who has developed himself, 
+       | then such a devotion is better than hundred years of sacrifice. [DLMBSFn-V106]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 106 <{filename}../dhA/dhA-chap08%zh.rst#dhp106>`__
@@ -690,6 +730,12 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 107 If a man for a hundred years worship Agni (fire) in the forest, and if he but for one moment pay homage to a man whose soul is grounded (in true knowledge), better is that homage than sacrifice for a hundred years.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 107** 
+       | Whatever person should worship fire in the forest for hundred years, 
+       | and if one should even for a moment pay respects to somebody, who has developed himself, 
+       | then such a devotion is better than hundred years of sacrifice. [DLMBSFn-V107]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 107 <{filename}../dhA/dhA-chap08%zh.rst#dhp107>`__
 
@@ -772,6 +818,13 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 108 Whatever a man sacrifice in this world as an offering or as an oblation for a whole year in order to gain merit, the whole of it is not worth a quarter (a farthing); reverence shown to the righteous is better.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 108** 
+       | Whatever sacrifice or oblation in the world 
+       | might someone sacrifice in a year, looking for merit, 
+       | all that is not worth one fourth. 
+       | Showing respect to those of upright conduct is better. [DLMBSFn-V108]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 108 <{filename}../dhA/dhA-chap08%zh.rst#dhp108>`__
 
@@ -828,6 +881,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 109 He who always greets and constantly reveres the aged, four things will increase to him, viz. life, beauty, happiness, power.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 109** 
+       | For somebody, who is showing respect to those of virtuous character, who is always paying homage to the venerable ones, 
+       | four things grow for him: life-span, beauty of complexion, happiness, strength. [DLMBSFn-V109]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 109 <{filename}../dhA/dhA-chap08%zh.rst#dhp109>`__
@@ -916,6 +974,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 110 But he who lives a hundred years, vicious and unrestrained, a life of one day is better if a man is virtuous and reflecting.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 110** 
+       | Who would live for hundred years, with bad morality, without a firm mind, 
+       | better is the life for one day of somebody who is virtuous and meditating. [DLMBSFn-V110]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 110 <{filename}../dhA/dhA-chap08%zh.rst#dhp110>`__
 
@@ -1001,6 +1064,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 111 And he who lives a hundred years, ignorant and unrestrained, a life of one day is better if a man is wise and reflecting.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 111** 
+       | Who would live for hundred years, without wisdom, without a firm mind, 
+       | better is the life for one day of somebody who is wise and meditating. [DLMBSFn-V111]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 111 <{filename}../dhA/dhA-chap08%zh.rst#dhp111>`__
@@ -1090,6 +1158,11 @@
 
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 112 And he who lives a hundred years, idle and weak, a life of one day is better if a man has attained firm strength.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 112** 
+       | Who would live for hundred years, indolent and of poor effort, 
+       | better is the life for one day of somebody who has undertaken a firm effort. [DLMBSFn-V112]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 112 <{filename}../dhA/dhA-chap08%zh.rst#dhp112>`__
@@ -1182,6 +1255,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 113 And he who lives a hundred years, not seeing beginning and end, a life of one day is better if a man sees beginning and end.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 113** 
+       | Who would live for hundred years, not seeing rise and fall of things, 
+       | better is the life for one day of somebody who is seeing their rise and fall. [DLMBSFn-V113]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 113 <{filename}../dhA/dhA-chap08%zh.rst#dhp113>`__
 
@@ -1267,6 +1345,11 @@
 
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 114 And he who lives a hundred years, not seeing the immortal place, a life of one day is better if a man sees the immortal place.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 114** 
+       | Who would live for hundred years, not seeing the state of deathlessness, 
+       | better is the life for one day of somebody who is seeing the state of deathlessness. [DLMBSFn-V114]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 114 <{filename}../dhA/dhA-chap08%zh.rst#dhp114>`__
@@ -1363,6 +1446,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 115 And he who lives a hundred years, not seeing the highest law, a life of one day is better if a man sees the highest law.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 115** 
+       | Who would live for hundred years, not seeing the highest Law, 
+       | better is the life for one day of somebody who is seeing the highest Law. [DLMBSFn-V115]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　八、千品 Dhp. 115 <{filename}../dhA/dhA-chap08%zh.rst#dhp115>`__
 
@@ -1410,6 +1498,8 @@
 .. [10] 〔註010〕　此英譯為 `Friedrich Max Müller <https://en.wikipedia.org/wiki/Max_M%C3%BCller>`__ 所譯；請參考原始出處(original): `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
 .. [11] 〔註011〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+
+.. [12] 〔註012〕　取材自： `經文選讀 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ （ `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/index.jsp>`__ --- 語言教學． `巴利語教學 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali1.jsp>`__ ）
 
 .. [LChnFn08-01] 〔註08-01〕  據錫蘭版本，此字為Dhammapada故譯為「法句」，但巴利聖典出版協會本作Gathapada則應譯為「一句偈」。 
 
@@ -1561,6 +1651,110 @@
                  |  (取自： http://authority.ddbc.edu.tw/person/?fromInner=A015901 )
                  | 
                  | 另參： Añguttara Commentary, JRAS., 1893, 552-560; Therī-Gāthā Commentary, xlvii: 108-112. (取自： HARVARD ORIENTAL SERIES, Vol. 28 , BUDDHIST LEGENDS, translated from the original Pali text of the DHAMMAPADA COMMENTARY BY EUGENE WATSON BURLINGAME, 1921)
+
+.. [DLMBSFn-V100] (DLMBS Commentary V100) Once there was a former public executioner named Tambadathika. Once he went for a bath to the river and took some food with him. Just as he was leaving the house, Venerable Sāriputta stopped by his door on his way for almsfood. Tambadathika offered him his food. 
+
+                  After the meal, Sāriputta taught him the Dharma. But Tambadathika's mind was not peaceful, because he was disturbed and feeling remorse recollecting his past work. This did not allow him to pay attention to the Dharma. Sāriputta asked him if he killed those people because he wanted to, out of hate or anger – or was it just an order. Tambadathika replied that he was ordered to kill them by the king and personally did not feel hate towards them. So Sāriputta reassured him that he did nothing wrong. Tambadathika then calmed down and listened to the Dharma attentively. He then accompanied Sāriputta on the way back to the monastery. But on the way back home he died due to an accident. 
+                  
+                  The Buddha was told about this and he remarked that Tambadathika was reborn in Tusita heaven. The monks wondered how it was possible for somebody who killed so many people in his life to be reborn there. The Buddha told them by this verse that just one meaningful sentence that helped his mind to calm down and concentrate on the Dharma helped him to achieve this goal. For if one dies with a peaceful mind, one's rebirth is good. If at the time of death our mind is confused or angry - we face a bad rebirth.
+
+.. [DLMBSFn-V101] (DLMBS Commentary V101) Some merchants sailed in a boat. Their boat was wrecked and only one of them, named Bāhiya, survived. He got hold of a piece of wood and came to land in the city of Suppāraka. He tied a piece of bark to his body and sat in a public place. People gave him food; some thought that he was a holy man so they paid their respects to him. Some people offered him clothes but he refused. Everybody started to tell him that he was an Arahant so he began to consider himself one. 
+
+                  Now the god Brahma was a friend of Bāhiya's in one of previous lives. He came to see him one night and told him that he certainly was not an Arahant. Bāhiya asked if there are Arahants at all and where to find them. Brahma sent him to the city of Sāvatthi to see the Buddha. 
+
+                  Bāhiya immediately set on a journey to Sāvatthi. He did not rest much because he was anxious to meet the Buddha. Therefore when he arrived at Sāvatthi he was extremely tired. He met the Buddha going on an almsround with some other monks. He asked the Buddha to teach him the Dharma, but the Buddha refused saying that it was not a proper time for a discourse. But Bāhiya pleaded again and the Buddha realized that Bāhiya is ready to become an Arahant. So he told him: "Bāhiya, when you see a thing, be conscious only of the object. When you hear a sound, be conscious only of the sound. When you smell, taste, or touch anything, be conscious only of the smell, taste, or touch. When you think of anything, be conscious only of the mental object." 
+
+                  Bāhiya did this and immediately he attained Arahantship. He asked permission to be admitted into the Order as a monk. The Buddha agreed, but first he sent him to find some robes, the bowl and other requisites. Bāhiya went to find these things, but on the way he was attacked by a wild animal and died. When the Buddha and monks went back from the almsround, they found him laying dead on the road. The Buddha instructed the monks to cremate Bāhiya's body and erect a stupa around the ashes. 
+
+                  The Buddha then told the monks that Bāhiya has attained Arahantship. He proclaimed that Bāhiya was the quickest of all his disciples to do so. Some monks wondered how it was possible to attain Awakenment just after listening to a few words on the road. The Buddha then explained by this verse that the number of words or the length of the speech does not really matter if one's mind is really ready. 
+
+.. [DLMBSFn-V102] (DLMBS Commentary V102) In the city of Rājagaha there lived a girl named Kuṇḍala Kesi. She was a daughter of a very rich man. Once she saw a thief who was being led to be executed. She felt in love with him and threatened to die uless she could marry him. 
+
+                  Her parents therefore bribed the executioner and they married their daughter to the thief. But he was interested only in Kuṇḍala Kesi's wealth and did not love her. One day he told her to put one her best clothes and jewelry and took her to the top of the mountain saying he wanted to pay respects to the guardian spirits for saving his life. But when they reached the place, the thief wanted to kill her, take her jewels and run away. Kuṇḍala Kesi begged him to take her things but to spare her life. Her husband had no mercy and still wanted to kill her. Therefore she realized that in order to save herself, she must kill him. She pretended she wanted to pay him her respects for the last time and when she was behind him, she pushed him off the mountain. 
+
+                  The guardian spirit of the mountain applauded her, saying that from this one can clearly see that wisdom is not found only amongst men, that women are also very wise. 
+
+                  Kuṇḍala Kesi then did not return home, but became a disciple of some ascetics. She quickly mastered their teachings and they sent her to find some better teachers. She wandered around and challenged everyone to dispute with her. Many did - but she defeated them all, since no one could answer her questions. 
+
+                  Once she arrived in Sāvatthi. She made a small hill of sand and put a branch on top of it, thus inviting everybody for a dispute. Venerable Sāriputta took up this challenge. Kuṇḍala Kesi asked him many questions, but Sāriputta answered all of them without hesitation. Then it was his turn to ask questions. He asked just one question, "What is the meaning of One?" She was not able to answer, therefore she asked Sāriputta to teach her. Sāriputta told her the answer: "All the beings in the world are sustained by one thing - food." Kuṇḍala Kesi became a nun and within a very short time she became an Arahant. 
+
+                  Some monks wondered how it was possible to attain the Awakenment after hearing just few words of the Dharma? The Buddha told them by this verse that one verse of the Dharma is better the hundreds of meaningless sentences.
+
+.. [DLMBSFn-V103] (DLMBS Commentary V103) The story for this verse is the same as for the previous one. 
+
+                  The highest battle does not take place on the battlefield, or in the political or academic arena, but only in our own minds. The victor of the highest battle is not somebody who conquers millions of enemies, who wins over his opponents, but a person who conquers the most difficult thing - his own mind. In other words, only an Arahant can be truly called a victor, because he won the final battle and he does not have to "fight" any more.
+
+.. [DLMBSFn-V104] (DLMBS Commentary V104) A certain Brahmin once approached the Buddha and told him, "Venerable Sir, although you know all the beneficial practices, still I think you do not know the unbeneficial practices." The Buddha told him that he knew both beneficial and unbeneficial practices. He then proceeded to enumerate six unbeneficial practices that will cause loss of wealth. They are: sleeping until sunrise, idleness and laziness, cruelty, indulgence in intoxicating drinks that cause negligence and unclear mind, wandering alone in the city during night hours and sexual misconduct.
+
+                  Then the Buddha asked the Brahmin how he made his living. The Brahmin told him that he earned his living by gambling, by playing dice. The Buddha further asked if he won or lost. The Brahmin replied that sometimes he won and sometimes he lost. The Buddha told him that to win in a game of dice couldn't be compared with winning over one's own mind, over one's ignorance and mental defilements.
+
+.. [DLMBSFn-V105] (DLMBS Commentary V105) The story for this verse is identical to the one for the previous verse (see DhP 104). 
+
+                  The final victory in the highest battle with the mind is the attainment of Arahantship. When we achieve this victory, nothing in the world can "undo" it. Nobody can defeat us any more. No gods, not even Mara, the Evil One can do anything. We reach the deliverance and are free from the cycle of rebirth, from suffering and pain.
+
+.. [DLMBSFn-V106] (DLMBS Commentary V106) Venerable Sāriputta once asked his uncle if he was doing any good deeds. His uncle (who was a Brahmin) replied that every month he was making offerings to ascetics, hoping to be reborn in the heavenly world in the future existence. Sāriputta assured him that the ascetics did not really know the way to the heavenly world. He then took him to the Buddha who explained the Dharma to him and added that to pay respects to an Arahant is far better than to make offerings to somebody who is not really worth it.
+
+.. [DLMBSFn-V107] (DLMBS Commentary V107) Venerable Sāriputta once asked his cousin if he was following any beneficial religious practices. His cousin told him that he sacrifices one goat every month in the fire and thus he will reach a heavenly world in his next existence. Sāriputta explained to him, that this was not the way to the heavenly world and took him to see the Buddha. 
+
+                  The Buddha taught him the Dharma and further explained to him that to pay respects to an Arahant is far better than to sacrifice to the fire for hundred years. 
+
+.. [DLMBSFn-V108] (DLMBS Commentary V108) Venerable Sāriputta once asked his friend, if he was following any beneficial religious practices. His friend, a Brahmin, told him that he was giving many sacrificial offerings and as a result of this he hopes to reach a heavenly world in his future existence. Sāriputta explained to him that in this way he would certainly not reach any heavenly world. 
+
+                  He then took his friend to the Buddha who taught him the Dharma and told him that giving sacrificial offerings every day does not count one fourth of showing respect to the Arahants.
+
+.. [DLMBSFn-V109] (DLMBS Commentary V109) Once there were two ascetics living together and practicing austerities. Later one of them returned to the lay life and got married. When a son was born to him and his wife, they took the boy to see the other ascetic. He said, "May you live long!" to the parents, but he said nothing to the child. The parents were surprised and asked him why did he do that. The ascetic said that he could see with his powers that the boy would die after seven more days. He sent them to see the Buddha, who could know how to prevent his death. 
+
+                  When they got to the presence of the Buddha, he again said, "May you live long!" only to the parents and nothing to their son. In order to prevent his death, he told his parents to build a pavilion at their house and put the child on a couch inside it. He then sent some monks over to chant texts for protection. Many gods and other celestial beings came to the pavilion and were in attendance. On the seventh day, the Buddha himself arrived. Then an evil demon came to the pavilion and stood by the entrance. He waited for an opportunity to attack the boy. But as there were so many powerful beings around, he could not get near him. The chanting continued through the whole night, and in the morning the demon had to leave. The young child was saved. He then paid his respects to the Buddha who then told him, "May you live long!" The Buddha then told the parents that their child would live a very long life. 
+
+                  Many years passed and the boy grew up. Once he came to see the Buddha and asked him how to gain longevity. The Buddha replied with this verse, saying that those who respect people of virtuous character and who pay homage to those worth paying homage, not only will gain longevity, but also beauty, happiness and strength.
+
+.. [DLMBSFn-V110] (DLMBS Commentary V110) A group of monks took a subject of meditation from the Buddha and went to a forest village to practice. There were robbers in the jungle around the village. They wanted to make a human sacrifice and they decided to offer one of the monks to the spirits of the forest. They went to the monastery and told the monks to select one of them who would follow them to the jungle and be sacrificed. All of the monks volunteered. There was a young novice with them, named Samkicca. Although he was very young, he was already an Arahant. He told the monks that Venerable Sariputta sent him to that place with the task to be the one to go with the robbers. Although the other monks did not like it a lot, still they trusted in Sariputta's judgment and so let Samkicca go. 
+
+                  The bloody sacrifice was prepared deep in the jungle and the leader of the robbers took a sword and wanted to cut the young novice's head. At that time, Samkicca was in deep meditation and the sword did not cut him, but just curled up. The robber took another sword and hit again - only to find that the sword has bent upward. Samkicca was still unharmed. The robbers were terrified; all of them knelt down at the novice's feet and asked for forgiveness. They also asked his permission to become monks. He complied with this request and returned to the monastery with the new monks. 
+
+                  Everybody was very happy that Samkicca was unharmed and that he managed to bring the robbers into the Sangha. They all left for Sāvatthi to pay homage to the Buddha and Venerable Sariputta. The Buddha then admonished them with this verse, saying that it is better to live just for one day, but virtuously and in meditation, than to live a very long life, but immorally and without any self-control.
+
+.. [DLMBSFn-V111] (DLMBS Commentary V111) Venerable Kondañña once took a subject of meditation from the Buddha and went to practice to the forest. Soon he attained Awakenment. He was on his way back to the monastery and had to spend the night on the way. He sat by the road on a piece of rock and rested, in the deep meditation. 
+
+                  That night some robbers stole many thing in a village and came to the same place where Kondañña was sitting. They mistook him for a tree and put their loot all over and around his body. Then they fell asleep. 
+
+                  In the morning they realized that he was a living being and became frightened, because they though he was a ghost. Kondañña told them that he was only a monk. The robbers were very impressed by him. They paid homage to him and asked him to allow them to become monks themselves. Kondañña ordained them and together they returned to the monastery to see the Buddha. 
+
+                  The Buddha spoke to them this verse, saying that it was better to live just one single day, meditating and cultivating wisdom, than a hundred years without any self-control and totally devoid of any wisdom.
+
+.. [DLMBSFn-V112] (DLMBS Commentary V112) There was a certain monk named Sappadāsa, who was not happy with his life in the monastery. Although he tried his best, he could not attain Awakenment therefore he felt he was unable to do it and wanted to return to the worldly life. But he thought that would be very humiliating for him to do so. He contemplated his options and at the end he decided to commit suicide. He tried to put his hand into a pot with snakes but the snakes would not bite him. So he took a razor and wanted to cut his throat. He put the razor on his throat, but as he was about to cut himself, he reflected on his life as a monk. He realized that he had led a pure life, full of morality and spirituality. He became full of satisfaction and happiness. Then he detached himself from these feelings and reached Awakenment instantly. 
+
+                  The other monks asked him what happened to him and he told them his story. They went to ask the Buddha if it was possible for someone to attain Arahantship while attempting suicide. The Buddha replied with this verse, saying that indeed it was possible. He added that in reaching the Awakenment, time and space is not really relevant. It is possible to reach it while walking, before one's foot touches the ground.
+
+.. [DLMBSFn-V113] (DLMBS Commentary V113) In Sāvatthi there lived a wealthy man. He had a daughter named Paṭācārā. She was very beautiful and was guarded by her parents when she grew up. But she fell in love with her young servant and ran away with him. They settled in a small village far away from her former home. When she became pregnant, she wanted to go back to her parents' house to deliver the baby there. Her husband was afraid that they would punish him, so he refused to go. But Paṭācārā really wanted to go, so she set out for home while he was away. Her husband hurried after her and caught her on the way. She delivered the baby right there and returned home with him. 
+
+                  After some time, she became pregnant again. Again she requested they return back to Sāvatthi, again her husband refused. As before, she ran away, taking her first born with her. Her husband again found her and wanted to take her back home. At that time, she was about to deliver the baby. So he went away to search for a good place. While he was clearing some piece of land, a snake bit him and he died. Paṭācārā delivered the baby and in the morning she searched for her husband only to find him dead. She was very upset and blamed herself for his death. With both her children she continued to Sāvatthi. 
+
+                  She came to a river, which was full and flooded, because it was raining. She was unable to carry both of her children at the same time. So she left the older boy at the bank and crossed the river with her newborn. She left him on the other side and went back to get her older child. While she was in the middle, a hawk attacked her newborn baby. She tried to frighten him away and shouted, but it carried the baby with it. The elder child heard his mother shouting and thought she was calling for him. So he tried to cross the river, only to be carried away by the strong current. 
+
+                  Grief-stricken and crying she continued to Sāvatthi. At the outskirts of the city she asked a passer-by about her family. The man told her, that there was a terrible storm last night, her parents' house had fallen down, and both her parents and her brother died. So Paṭācārā lost all her family. On hearing this last piece of news she went completely crazy. Her clothes had fallen of her, but she did not notice and roamed through the streets of Sāvatthi. 
+
+                  After a time she reached the Jetavana monastery, where the Buddha was staying at that time. People did not want to allow her to enter, but the Buddha told them to let her come in. When Paṭācārā got to the Buddha, he told her to calm down and exercise some self-control. She then realized she was naked and covered herself with a piece of cloth. She told the Buddha her story. 
+
+                  The Buddha then preached the Dharma to her, telling her that the number of lives when she lost her relatives and cried, was innumerable. At the end of the discourse Paṭācārā reached a first degree of Awakenment. 
+
+                  She became a nun. Once she was washing her feet in the evening. She poured water from the pot, it flowed a short distance and disappeared in the ground. She poured the second time and water flowed little bit farther. When she poured water for the third time, it flowed farthest. She stood there contemplating that all things rise and fall, are born and die, some for a short time, some for longer. The Buddha saw her thoughts and told her this verse, saying that it was better to live shortly and understand this law than to live for hundred years and not to see it. Paṭācārā understood and attained Awakenment.
+
+.. [DLMBSFn-V114] (DLMBS Commentary V114) In Sāvatthi there lived a young woman Kisā Gotami. She married a wealthy young man, became pregnant and delivered a baby. But the baby died shortly after he was born. Kisā Gotami was grieving so much that she went all around the city, carrying her dead baby, and asking if somebody knew a cure that would bring him back to life. One of those people sent her to the Buddha, thinking that maybe he could help her in some way. 
+
+                  The Buddha told her that indeed he knew a cure. He requested one mustard seed from a house where nobody has died. Kisā Gotami thought it to be an easy task. Full of joy she began running from house to house asking if somebody died there. But she soon found out that there was death in every household in Sāvatthi and she was not the only one who lost somebody. She realized that everybody has to die and was no longer attached to her dead baby. Kisā Gotami buried her son and went back to the monastery, where she requested to be permitted to become a nun. 
+
+                  The Buddha sent her to the community of the nuns and she was ordained. She was very diligent, always meditating and purifying her mind. 
+
+                  One evening she was lightning oil lamps. She lighted them and kept looking at the flames. She soon realized that some flames were burning constantly, but other flickered out. She contemplated that it is exactly same with living beings: some flare up but others flicker out - only the Arahants can be seen no more. 
+
+                  The Buddha saw her thoughts and told her this verse, saying that it is better to live just for one day and see the deathless state (Nirvana) than to live for hundred years without seeing it. After hearing the verse, Kisā Gotami attained Awakenment.
+
+.. [DLMBSFn-V115] (DLMBS Commentary V115) In Sāvatthi there lived a husband and wife. They had many children and when they grew up, they got married and lived a nice life. The husband then died and the wife, Bahu Puttika, kept all the property to herself. The children asked her many timed to give them their inheritance and promised to look after her well. So at the end she agreed and divided up everything to her children and left nothing for herself. 
+
+                  She went to stay with her eldest son. But after few days his wife started complaining that she did not give them two shares so how she dares to come to stay with them. Bahu Puttika went to the second son, where the same happened. So she went from one child to another but she was not welcome anywhere. 
+
+                  She realized that nobody would give her proper care, so she decided to become a nun. Now because she left the home very old, she knew she did not have much time. Therefore she was extremely diligent and practiced meditation with a strong energy. The Buddha saw her effort and praised her with this verse, saying that it was better to live just for a short time but be able to realize the Dharma. A life, which lasts for many years, but is without understanding the Law, is useless. After hearing the verse, Bahu Puttika attained Awakenment.
 
 ---------------------------
 

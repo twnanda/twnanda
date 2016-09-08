@@ -1699,13 +1699,13 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 19 The thoughtless man, even if he can recite a large portion (of the law), but is not a doer of it, has no share in the priesthood, but is like a cowherd counting the cows of others.
 
-   * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 019 <{filename}../dhA/dhA-chap01%zh.rst#dhp019>`__
-
    * - 英譯(Cited from DLMBS) [12]_
      - | **DhP 19**
        | Even if he recites a lot of scriptures, but does not act accordingly, the negligent man.
        | He is like a cowherd who counts others' cows. He does not share the [blessings of] monkshood. [DLMBSFn-V019]_
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 019 <{filename}../dhA/dhA-chap01%zh.rst#dhp019>`__
 
 .. _Dhp020:
 

@@ -539,13 +539,13 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 66 Fools of little understanding have themselves for their greatest enemies, for they do evil deeds which must bear bitter fruits.
 
-   * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 066 <{filename}../dhA/dhA-chap05%zh.rst#dhp066>`__
-
    * - 英譯(Cited from DLMBS) [12]_
      - | **DhP 66** 
        | The stupid fools behave as if they themselves were their enemies, 
        | doing bad deeds, which have bitter fruit. [DLMBSFn-V066]_
+
+   * - 巴利註解漢譯 [11]_
+     - 請參考 `巴利《法句經》註解　摘譯　四、華品 (花品) Dhp. 066 <{filename}../dhA/dhA-chap05%zh.rst#dhp066>`__
 
 .. _Dhp067:
 

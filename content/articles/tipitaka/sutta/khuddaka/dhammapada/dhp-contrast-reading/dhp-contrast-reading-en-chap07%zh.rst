@@ -1,9 +1,9 @@
-==============================================================================================================================================
+====================================================================================================================================================
 Chapter 7. The Arahat; Arahantavaggo (Dhp.90-99), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.) 
-==============================================================================================================================================
+====================================================================================================================================================
 
 :date: 2016-06-28 16:30
-:modified: 2016-06-28 16:30
+:modified: 2016-09-08 15:30
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, The Arahat, Arahantavaggo, The Worthy, The Perfected One, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Chapter 7. The Arahat; Arahantavaggo (Dhp.90-99), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -104,6 +104,13 @@ Chapter 7. The Arahat; Arahantavaggo (Dhp.90-99), Parallel Reading (paragraph gr
 
        90 There is no suffering for him who has finished his journey, and abandoned grief, who has freed himself on all sides, and thrown off all fetters.
 
+   * - Cited from DLMBS [8]_
+     - **Chapter 7: The Arahant**
+
+       | **DhP 90** 
+       | Pain does not exist for one, who has finished the journey, is without sorrow, 
+       | who is emancipated in every respect and who has abandoned all bonds. [DLMBSFn-V090]_
+
 .. _Dhp091:
 
 .. list-table:: Dhammapada Dhp. 091
@@ -146,6 +153,11 @@ Chapter 7. The Arahat; Arahantavaggo (Dhp.90-99), Parallel Reading (paragraph gr
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 91 They depart with their thoughts well-collected, they are not happy in their abode; like swans who have left their lake, they leave their house and home.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 91** 
+       | Mindful ones depart; they do not find delight in houses. 
+       | They abandon every abode, just like swans leave a pond. [DLMBSFn-V091]_
 
 .. _Dhp092:
 
@@ -204,6 +216,12 @@ Chapter 7. The Arahat; Arahantavaggo (Dhp.90-99), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 92 Men who have no riches, who live on recognised food, who have perceived void and unconditioned freedom (Nirvana), their path is difficult to understand, like that of birds in the air.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 92** 
+       | Those, who do not accumulate and have well understood food, 
+       | whose sphere is the void emancipation without attributes - 
+       | their course is difficult to find out - like the course of the birds in the sky. [DLMBSFn-V092]_
+
 .. _Dhp093:
 
 .. list-table:: Dhammapada Dhp. 093
@@ -260,6 +278,12 @@ Chapter 7. The Arahat; Arahantavaggo (Dhp.90-99), Parallel Reading (paragraph gr
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 93 He whose appetites are stilled, who is not absorbed in enjoyment, who has perceived void and unconditioned freedom (Nirvana), his path is difficult to understand, like that of birds in the air.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 93** 
+       | Whose taints are completely removed, who is not attached to food, 
+       | whose sphere is the void emancipation without attributes - 
+       | his course is difficult to find out - like the path of the birds in the sky. [DLMBSFn-V093]_
 
 .. _Dhp094:
 
@@ -320,6 +344,11 @@ Chapter 7. The Arahat; Arahantavaggo (Dhp.90-99), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 94 The gods even envy him whose senses, like horses well broken in by the driver, have been subdued, who is free from pride, and free from appetites.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 94** 
+       | Whose senses are quieted, just like horses well tamed by the charioteer, 
+       | even the gods do envy such one, who has abandoned pride and is free from taints. [DLMBSFn-V094]_
+
 .. _Dhp095:
 
 .. list-table:: Dhammapada Dhp. 095
@@ -377,6 +406,11 @@ Chapter 7. The Arahat; Arahantavaggo (Dhp.90-99), Parallel Reading (paragraph gr
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 95 Such a one who does his duty is tolerant like the earth, like Indra's bolt; he is like a lake without mud; no new births are in store for him.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 95** 
+       | Such a one, who is not obstructed, just like the earth, who is similar to the Indra's stake, who is virtuous, 
+       | who is like a lake without mud - for such a one there is no more round of rebirth. [DLMBSFn-V095]_
 
 .. _Dhp096:
 
@@ -443,6 +477,11 @@ Chapter 7. The Arahat; Arahantavaggo (Dhp.90-99), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 96 His thought is quiet, quiet are his word and deed, when he has obtained freedom by true knowledge, when he has thus become a quiet man.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 96** 
+       | Peaceful is his mind; peaceful are his speech and deeds – 
+       | of such a one, who is freed by the right knowledge and tranquil. [DLMBSFn-V096]_
+
 .. _Dhp097:
 
 .. list-table:: Dhammapada Dhp. 097
@@ -494,6 +533,11 @@ Chapter 7. The Arahat; Arahantavaggo (Dhp.90-99), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 97 The man who is free from credulity, but knows the uncreated, who has cut all ties, removed all temptations, renounced all desires, he is the greatest of men.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 97** 
+       | A man who is not blindly trusting, who knows the Nirvana, who has broken the connections, 
+       | who has cut off the opportunities and who has given up all wishes - he is a greatest person indeed. [DLMBSFn-V097]_
+
 .. _Dhp098:
 
 .. list-table:: Dhammapada Dhp. 098
@@ -535,6 +579,11 @@ Chapter 7. The Arahat; Arahantavaggo (Dhp.90-99), Parallel Reading (paragraph gr
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 98 In a hamlet or in a forest, in the deep water or on the dry land, wherever venerable persons (Arhanta) dwell, that place is delightful.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 98** 
+       | In the village or in the forest, in the valley or on the hill - 
+       | wherever Arahants live, that place is pleasant. [DLMBSFn-V098]_
 
 .. _Dhp099:
 
@@ -586,6 +635,11 @@ Chapter 7. The Arahat; Arahantavaggo (Dhp.90-99), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 99 Forests are delightful; where the world finds no delight, there the passionless will find delight, for they look not for pleasures.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 99** 
+       | Delightful are the forests, where the crowd doesn't find delight. 
+       | Those free of passion will find delight there. They are not seeking pleasures. [DLMBSFn-V099]_
+
 --------------
 
 **the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
@@ -616,6 +670,8 @@ NOTE:
 .. [7] (note 007) original: `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
         THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
+
+.. [8] (note 8) original: `Readings in Pali Texts <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp>`__ ( `Digital Library & Museum of Buddhist Studies (DLMBS) <http://buddhism.lib.ntu.edu.tw/DLMBS/en/>`__ --- `Pali Lessons <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali1.jsp>`__ )
 
 .. [NāradaFn07-01]  (Ven. Nārada 07-01) Arahanta has several meanings. It may be interpreted as "Worthy One". "Passionless One". Or one who commits no evil even secretly. He has got rid of both death and birth. After death, in conventional terms, he attains parinibbāna. Until his death he serves other seekers of truth by example and by precept.
 
@@ -674,6 +730,55 @@ NOTE:
 .. [ThaniSFn-V97] (Ven. Thanissaro V. 97) This verse is a series of puns. The negative meanings of the puns are on the left side of the slashes; the positive meanings, on the right. The negative meanings are so extremely negative that they were probably intended to shock their listeners. One scholar has suggested that the last word — uttamaporiso, the ultimate person — should also be read as a pun, with the negative meaning, "the extreme of audacity," but that would weaken the shock value of the verse.
 
 .. [BudRkFn-v97]  (Ven. Buddharakkhita v. 97) In the Pali this verse presents a series of puns, and if the "underside" of each pun were to be translated, the verse would read thus: "The man who is faithless, ungrateful, a burglar, who destroys opportunities and eats vomit — he truly is the most excellent of men."
+
+.. [DLMBSFn-V090] (DLMBS Commentary V090) Devadatta once tried to kill the Buddha by pushing a big rock on him from the top of the mountain. But the rock split and only one splinter hurt the Buddha's foot. The physician Jivaka attended on him. He applied some medicine and promised to come back and take the bandage off in the evening. But he was held by some other business and the city gates were already closed when he wanted to go to the monastery. He knew that the bandage had to be taken off that night, so he was very distressed. 
+
+                  The next morning, Jivaka hurried to see the Buddha, only to find out that Venerable Ananda helped the Buddha to take the bandage off the previous night and the wound has already healed completely! So Jivaka asked if the Buddha felt any pain. The Buddha replied by this verse, saying that for those, who have reached the awakenment, there was no pain.
+
+.. [DLMBSFn-V091] (DLMBS Commentary V091) The Buddha once spent the Rain Retreat in the city of Rajagaha. With the end of the retreat he was getting ready to leave the city, so he told the monks to prepare for the journey. Venerable Kassapa was also preparing his robes. Some monks speculated if Kassapa would really leave Rajagaha - there were so many people who respected him very much and considered themselves his disciples. 
+                  
+                  The Buddha then decided that some monks should stay in Rajagaha, to offer spiritual guidance, to ordain new monks etc. He told Venerable Kassapa to stay in the monastery with some junior monks and take care of these things. 
+                  
+                  The other monks remarked that they predicted Kassapa would not accompany the Buddha this time. The Buddha overheard these conversations and said, "Do you think that Kassapa stays in Rajagaha because he is attached to his disciples? You are mistaken. Kassapa has no attachments anywhere!" He further added this verse.
+
+.. [DLMBSFn-V092] (DLMBS Commentary V092) Venerable Belatthi Sisa went on an almsround in a village. When he had enough food, he stopped on the way and ate. Then he continued on his almsround for more food. When he returned to the monastery, he dried the rice up and stored it. In this way he could concentrate only on his practice of meditation. Every day he would soak the rice in some water and eat it. The other monks saw this and thought that he is lazy and greedy. They reported the matter to the Buddha. The Buddha saw that if this practice became a habit amongst all monks, it could lead to laziness and greed and he discouraged the monks from hoarding food. 
+                  But because Belatthi Sisa did not store the rice out of greed for food, but only to save time for more meditation practice, the Buddha declared that he should not be blamed in any way. 
+                  
+                  He also added this verse, saying that the Arahants are not greedy for anything and they take food just to sustain the body in good condition, not for pleasure.
+
+.. [DLMBSFn-V093] (DLMBS Commentary V093) Venerable Anuruddha was once looking for discarded pieces of cloth in order to make himself a new robe. His wife Jalini from a previous existence, who was now a god, saw him. She brought three pieces of a very good material and put them on the rubbish heap. Venerable Anuruddha found them and took them back to the monastery to make his robe. 
+                  
+                  The Buddha and other senior disciples then arrived to the monastery and they also helped him to make the robe. Jalini then urged the villagers to bring lots of delicious food to the monastery, so there was more than enough for everyone. Some monks remarked that Anuruddha wanted to show off that he had many devotees, so he made them to bring so much good food. The Buddha overheard these conversations and said that Anuruddha did not ask anyone for anything. Arahants do not ask for food or clothes. They have removed their taints and are free and without attachments. Traditionally, the four taints (**āsava**) are mentioned in the texts: sense desire (**kāma**), desiring eternal existence (**bhava**), wrong views (**diṭṭhi**) and ignorance (**avijjā**).
+
+.. [DLMBSFn-V094] (DLMBS Commentary V094) One day Sakka, the chief of the gods, came to the monastery to pay homage to the Buddha. Venerable Maha Kaccayana was not in the monastery at that time and a seat was kept prepared for him. Sakka with the gods paid homage to the Buddha and then he declared his wish that Kaccayana would also be present so that he could pay homage also to him. At that moment Kaccayana arrived. Sakka was very happy and paid his respect to him. 
+                  
+                  Some monks accused Sakka of favoritism. Bu the Buddha replied with this verse, saying that who is restrained in his senses, even gods envy him his calm and respect him enormously.
+
+.. [DLMBSFn-V095] (DLMBS Commentary V095) Once a certain monk approached the Buddha and complained, that Venerable Sariputta has abused and beaten him. The Buddha sent for Sariputta and asked him if it was true. Sariputta was extremely humble and replied, "I am like the earth, I feel no pleasure or pain, I am like a door mat, like a beggar, I am not attached to my body any more. How could I not apologize to a fellow monk for a wrong doing?" 
+                  
+                  The monk felt remorse and admitted that he accused Sariputta wrongly, because he was angry with him for some small matter. He asked Sariputta for pardon. The Buddha advised Sariputta to accept the apology. Sariputta pardoned the monk and also asked him to be forgiven if he had done anything wrong. 
+                  
+                  The Budha then spoke this verse, saying that an Arahant is like the earth, or like an Indra's stake - he is patient and firm, serene and pure like a clear lake.
+
+.. [DLMBSFn-V096] (DLMBS Commentary V096) Once a young seven years old boy became a novice under Venerable Tissa. While his head was being shaved, he kept his mind fixed on the object of meditation and attained arahantship immediately.
+                  
+                  After a time, Venerable Tissa and the young novice set out on a journey to Savatthi to see the Buddha. On the way they stayed in a village monastery. Tissa went to sleep, but the young novice fell asleep only before the dawn. When Tissa woke up, he wanted to wake up also the novice. So he roused him with a palm-leaf fan. Accidentally he hit his eye with the handle and damaged his eye. The novice did not say anything, covered his eye with one hand and performed his duties - swept the floor and brought water to Tissa. When Tissa saw the novice offering him water with just one hand, he remarked that he should do it with both hands. The novice uncovered his eye and only then Tissa found out that the novice lost an eye. He also realized that he must be an Arahant! He felt very sorry and immediately started to apologize to the boy. But the novice said it was not Tissa's fault, it was only ripening of his old karma. Tissa just could not forget the whole story and he felt very depressed. 
+                  
+                  When they arrived in Savatthi, Tissa related the story to the Buddha. He replied with this verse, saying that an Arahant does not get angry with anyone, he is perfectly calm and peaceful.
+
+.. [DLMBSFn-V097] (DLMBS Commentary V097) A group of monks came from a village to pay their respects to the Buddha. The Buddha sent for Sariputta and asked him, "Sariputta, do you believe, that one can attain Nirvana by being mindful of the senses?" Sariputta replied, "I do not simply believe in this because I have faith on you and your teaching. Only those who have no personal experience accept the facts from others." The monks did not understand it and thought that Sariputta doesn't have faith in the Buddha, that he did not given up wrong views yet. 
+                  
+                  The Buddha explained that Sariputta accepts the fact that Nirvana can be attained by being mindful of senses by his own personal experience, because he already attained arahantship. He does not simply trust blindly in his teacher's words without testing them with his own practice. Blind faith has no place in Buddhism, only the trust in the method, which must be followed by one's own personal experience.
+
+.. [DLMBSFn-V098] (DLMBS Commentary V098) Revata was the brother of Venerable Sariputta and he was the only one who has not become a monk. His parents wanted him to get married and so they arranged a marriage for him while he was still very young. At the wedding ceremony he saw a very old woman and realized that all beings are subject to old age, illness and eventually death. He was horrified and immediately left for the monastery. He was admitted into the Order and became a novice. 
+                  
+                  He stayed alone in the forest, kept meditating diligently and very soon he attained arahantship. The Buddha, Sariputta and many other monks set out on a journey to visit him. 
+                  
+                  The journey was long and the area was uninhabited by people, but gods looked to the needs of the Buddha and monks. When they arrived, Revata also used his supernatural powers and created a monastery for the Buddha and the monks to stay. The Buddha remarked that wherever the Arahant lives, the place is always beautiful and delightful.
+
+.. [DLMBSFn-V099] (DLMBS Commentary V099) A certain monk received a subject of meditation from the Buddha and went to an old garden at the outskirts of the city. Some lascivious woman came into the garden and as there was nobody else around she tried to seduce the monk. She unloosened her hair, began to undress and laugh. The monk became very excited and upset. He did not know what to do. 
+                  
+                  The Buddha saw this from afar and told the monk this verse, saying that in seeking passions there is no delight. Only after freeing oneself from passion can one enjoy whatever place one is at. The monk did not care about the woman any more and attained arahantship quickly.
 
 --------------
 
