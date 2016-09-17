@@ -3,7 +3,7 @@
 ===============================================================================
 
 :date: 2016-06-03 22:00
-:modified: 2016-08-28 17:00
+:modified: 2016-09-17 22:00
 :tags: 法句經, 法句經對讀, 刀杖品, 刑罰品, Dhp, Dhammapada, Daṇḍavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Violence
@@ -146,6 +146,13 @@
 
        129 All men tremble at punishment, all men fear death; remember that you are like unto them, and do not kill, nor cause slaughter.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - **Chapter 10: The Punishment**
+
+       | **DhP 129** 
+       | Everybody trembles at punishment; everybody fears death. 
+       | Having made the comparison with oneself, let one not kill, nor cause another to kill. [DLMBSFn-V129]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 129 <{filename}../dhA/dhA-chap10%zh.rst#dhp129>`__
 
@@ -214,6 +221,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 130 All men tremble at punishment, all men love life; remember that thou art like unto them, and do not kill, nor cause slaughter.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 130** 
+       | Everybody trembles at punishment; life is dear to everybody. 
+       | Having made the comparison with oneself, let one not kill, nor cause another to kill. [DLMBSFn-V130]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 130 <{filename}../dhA/dhA-chap10%zh.rst#dhp130>`__
 
@@ -271,6 +283,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 131 He who seeking his own happiness punishes or kills beings who also long for happiness, will not find happiness after death.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 131** 
+       | Who hurts with a stick beings that desire happiness, 
+       | searching for happiness himself, he will not reach happiness after death. [DLMBSFn-V131]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 131 <{filename}../dhA/dhA-chap10%zh.rst#dhp131>`__
@@ -331,6 +348,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 132 He who seeking his own happiness does not punish or kill beings who also long for happiness, will find happiness after death.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 132** 
+       | Who does not hurt with a stick beings that desire happiness, 
+       | searching for happiness himself, he will reach happiness after death. [DLMBSFn-V132]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 132 <{filename}../dhA/dhA-chap10%zh.rst#dhp132>`__
 
@@ -388,6 +410,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 133 Do not speak harshly to anybody; those who are spoken to will answer thee in the same way. Angry speech is painful, blows for blows will touch thee.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 133** 
+       | Do not say anything harsh, those spoken to might reply to that. 
+       | Angry talk is painful, retribution might be attached to it. [DLMBSFn-V133]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 133 <{filename}../dhA/dhA-chap10%zh.rst#dhp133>`__
@@ -447,6 +474,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 134 If, like a shattered metal plate (gong), thou utter not, then thou hast reached Nirvana; contention is not known to thee.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 134** 
+       | If you yourself do not vibrate, just like a broken gong, 
+       | then you have reached Nirvana. Anger does not exist for you. [DLMBSFn-V134]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 134 <{filename}../dhA/dhA-chap10%zh.rst#dhp134>`__
 
@@ -502,6 +534,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 135 As a cowherd with his staff drives his cows into the stable, so do Age and Death drive the life of men.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 135** 
+       | Just like a cowherd drives cows to pasture with a stick, 
+       | so old age and death drive the life of living beings. [DLMBSFn-V135]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 135 <{filename}../dhA/dhA-chap10%zh.rst#dhp135>`__
@@ -565,6 +602,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 136 A fool does not know when he commits his evil deeds: but the wicked man burns by his own deeds, as if burnt by fire.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 136** 
+       | A fool does not realize when he is committing bad deeds. 
+       | The stupid person is tormented by his own deeds just as if burned by fire. [DLMBSFn-V136]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 136 <{filename}../dhA/dhA-chap10%zh.rst#dhp136>`__
@@ -645,6 +687,12 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 137 He who inflicts pain on innocent and harmless persons, will soon come to one of these ten states:
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 137** 
+       | Who offends with a stick somebody who is uncorrupted and without violence, 
+       | he will quickly go to one of the ten states: 
+       | [continued in DhP 138] [DLMBSFn-V137]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 137 <{filename}../dhA/dhA-chap10%zh.rst#dhp137>`__
 
@@ -720,6 +768,13 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 138 He will have cruel suffering, loss, injury of the body, heavy affliction, or loss of mind,
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 138** 
+       | [continued from DhP 137] 
+       | He would get harsh pain, loss of property, and bodily injury, 
+       | serious illness, or derangement of mind. 
+       | [continued in DhP 139]  [DLMBSFn-V138]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 138 <{filename}../dhA/dhA-chap10%zh.rst#dhp138>`__
@@ -797,6 +852,13 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 139 Or a misfortune coming from the king, or a fearful accusation, or loss of relations, or destruction of treasures,
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 139** 
+       | [continued from DhP 138] 
+       | Or a trouble from the king, and cruel accusations, 
+       | or loss of relatives, or destruction of wealth. 
+       | [continued in DhP 140] [DLMBSFn-V139]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 139 <{filename}../dhA/dhA-chap10%zh.rst#dhp139>`__
 
@@ -872,6 +934,12 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 140 Or lightning-fire will burn his houses; and when his body is destroyed, the fool will go to hell.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 140** 
+       | [continued from DhP 139] 
+       | Or then a blazing fire will burn his houses. 
+       | And after death this fool will be reborn in hell.  [DLMBSFn-V140]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 140 <{filename}../dhA/dhA-chap10%zh.rst#dhp140>`__
@@ -953,6 +1021,13 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 141 Not nakedness, not platted hair, not dirt, not fasting, or lying on the earth, not rubbing with dust, not sitting motionless, can purify a mortal who has not overcome desires.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 141** 
+       | Not wandering around naked, not matted hair, not mud on the body, 
+       | not fasting, nor lying on the bare ground, 
+       | dust and sweat, sitting on one's heels - 
+       | nothing can purify a mortal who has not overcome his doubts. [DLMBSFn-V141]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 141 <{filename}../dhA/dhA-chap10%zh.rst#dhp141>`__
 
@@ -1028,6 +1103,13 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 142 He who, though dressed in fine apparel, exercises tranquillity, is quiet, subdued, restrained, chaste, and has ceased to find fault with all other beings, he indeed is a Brahmana, an ascetic (sramana), a friar (bhikshu).
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 142** 
+       | Even if one would walk around like an adorned man, 
+       | [but he would be] peaceful, self-controlled, restrained and pure, 
+       | having given up punishing of all living beings, 
+       | he is a Brahmin, he is a recluse, he is a monk. [DLMBSFn-V142]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 142 <{filename}../dhA/dhA-chap10%zh.rst#dhp142>`__
 
@@ -1090,6 +1172,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 143 Is there in this world any man so restrained by humility that he does not mind reproof, as a well-trained horse the whip?
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 143** 
+       | In this world, does there exist a person restrained by conscience, 
+       | who avoids blame, like a good horse avoids a whip? [DLMBSFn-V143]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 143 <{filename}../dhA/dhA-chap10%zh.rst#dhp143>`__
@@ -1165,6 +1252,12 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 144 Like a well-trained horse when touched by the whip, be ye active and lively, and by faith, by virtue, by energy, by meditation, by discernment of the law you will overcome this great pain (of reproof), perfect in knowledge and in behaviour, and never forgetful.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 144** 
+       | Be like a good horse when touched by a whip - strenuous and anxious. 
+       | By faith, virtue, effort and concentration, by investigation of truth, 
+       | by having knowledge and conduct, by being mindful abandon this big suffering. [DLMBSFn-V144]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 144 <{filename}../dhA/dhA-chap10%zh.rst#dhp144>`__
 
@@ -1238,6 +1331,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 145 Well-makers lead the water (wherever they like); fletchers bend the arrow; carpenters bend a log of wood; good people fashion themselves.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 145** 
+       | Irrigators lead water. Arrow-makers bend arrow-shaft. 
+       | Carpenters bend wood. Virtuous ones master themselves. [DLMBSFn-V145]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十、刀杖品 Dhp. 145 <{filename}../dhA/dhA-chap10%zh.rst#dhp145>`__
 
@@ -1285,6 +1383,8 @@
 .. [10] 〔註010〕　此英譯為 `Friedrich Max Müller <https://en.wikipedia.org/wiki/Max_M%C3%BCller>`__ 所譯；請參考原始出處(original): `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
 .. [11] 〔註011〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+
+.. [12] 〔註012〕　取材自： `經文選讀 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ （ `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/index.jsp>`__ --- 語言教學． `巴利語教學 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali1.jsp>`__ ）
 
 .. [LChnFn10-01] 〔註10-01〕  「刀杖」（Danda）亦可譯為「刑罰」。 
 
@@ -1431,6 +1531,108 @@
                           in tune.
 
 .. [VaradoFn-V129] (Ven. Varado V. 129) Verse 129: ghataye can mean either 'kill' or 'cause to be killed'. See PED under ghateti and hanati. 
+
+.. [DLMBSFn-V129] (DLMBS Commentary V129) One group of monks was cleaning a certain building in the Jetavana monastery. They intended to stay there. When they were in the middle of cleaning, another group of monks arrived there and wanted them to give the building over to them. They felt that as they were more senior monks, they should have the right to choose. 
+
+                  But the first group did not agree to that and insisted on keeping the building to themselves. The monks from the second group beat them up till the monks cried in pain. 
+
+                  When the Buddha heard about this, he admonished the second group of monks harshly for inflicting pain on their fellow monks. He told them this verse, saying that violence is not a solution. He moreover laid down a new rule for the monks to abstain from hurting others.
+
+.. [DLMBSFn-V130] (DLMBS Commentary V130) In the last verse (see DhP 129) we saw monks beating each other because of a building. But the question of the building arose again. The second group of monks still intended to take it for themselves and again, the first group did not agree to that. 
+
+                  As a new rule was established, the monks from the second group did not physically attack the first group, but they made threatening gestures to them. The monks from the first group were frightened and cried out. 
+
+                  The Buddha again admonished the second group of monks, telling them this verse. And he also set another rule, that monks should not make threatening gestures to each other.
+
+.. [DLMBSFn-V131] (DLMBS Commentary V131) The Buddha once saw a group of young men from Sāvatthi beating a snake with sticks. He asked why were they doing such thing. The youths answered that they were afraid of being bitten by the snake therefore they beat it. The Buddha told them this verse, saying that if we do not wish to be harm by some being the first step is not to harm it ourselves. 
+
+                  The young men attained the first stage of Awakenment after hearing this discourse.
+
+.. [DLMBSFn-V132] (DLMBS Commentary V132) The story for this verse is identical with that to the previous one (DhP 131). 
+
+                  To abstain from violence is one of the basic principles of the Buddha's teaching. Especially in the case of the young men hurting the snake it can be seen that to hurt somebody first to stop him from hurting me is not a good idea. 
+
+                  We should practice the universal loving kindness, known as mettā and try to radiate it to all the directions. When faced with danger, we should radiate this mettā towards the being that intends or might intend to hurt us.
+
+.. [DLMBSFn-V133] (DLMBS Commentary V133) There was a monk named Kundadhāna. From the day he became a monk, others saw a female form always following him everywhere. But he himself did not see anything. 
+
+                  Once he went out on to gather alms food and people offered him two portions of food, saying that one was for him and the other for his friend. Then they reported to the king that one of the monks seems to have a girlfriend. The king Pasenadi started to investigate the matter. 
+
+                  When the king was in the room with the monk, the female form was not present. The monk himself also professed his innocence. When the king sent him out of the room, the female form suddenly appeared close to him. The king realized that the woman was not real and the monk was really innocent. So he invited him for almsfood. 
+
+                  The other monks were not happy and started to scold Kundadhāna, saying that in fact he had a girlfriend somewhere and that he had no morals. Kundadhāna got angry and retorted with his own accusations. 
+
+                  The Buddha then admonished him and told him this verse. He further explained, that in his previous life Kundadhāna was a deity who wanted to create discord between two monks who very good friends. He would assume the form of a woman and follow closely one of them, thus hoping to stop their friendship. For that deed a female form was now following him.
+
+.. [DLMBSFn-V134] (DLMBS Commentary V134) The story for this verse is identical with the one for the preceding verse (see DhP 133). 
+
+                  The vibrations in this verse point mainly to passion and hatred. If we do not have these feelings, then we are silent, just like a broken gong. It will not resonate when we try to hit it. In the same way, when we are devoid of passions and are "hit" by the objects that are usually causing them, we will not "resonate". That means, we are completely without passion, hatred and ignorance - and we have reached the goal, attained Nirvana and stopped all the suffering.
+
+.. [DLMBSFn-V135] (DLMBS Commentary V135) A large group of women came to the Pubbārāma monastery to observe the precepts for one day. Visākhā, the woman who built that monastery, asked them for what purpose did they come to observe the precepts. Different women gave her different answers. 
+
+                  Old women did so in order to have a good rebirth, middle aged women wanted to have peaceful and prosperous lives with their families, young women came in order to give birth to a son and unmarried girls wanted to find a good husband. 
+
+                  Visākhā took them to see the Buddha. He told her this verse, saying that although we are all constantly driven by birth, old age and death, there are still so few people who realize this and strive for Awakenment and release from this never-ending cycle. Most people still pursue only earthly goals and do not care about overcoming them. 
+
+.. [DLMBSFn-V136] (DLMBS Commentary V136) Venerable Moggallāna once went on an alms-round with Venerable Lakkhaṇa. On the way from a certain hill he smiled as if he saw something strange. When they were back at the monastery, Lakkhaṇa asked him about this incident. 
+
+                  Moggallāna said that he saw a ghost in the form of a snake, being burned by flames. The Buddha told them that he also saw that particular ghost and revealed to them his story. 
+
+                  A long time ago there was a thief who repeatedly burned a house of a certain man. Not satisfied with that he also set fire to a monastery, donated by that man. As a result of these deeds, he was reborn as that ghost-snake, burned by flames. 
+
+                  At the end the Buddha added this verse, saying that even though a fool does not realize evilness of his actions, the consequences will certainly reach him.
+
+.. [DLMBSFn-V137] (DLMBS Commentary V137) Some ascetics were planning to kill Venerable Moggallāna because they thought that the Buddha and his teaching would be hurt by this action. So they hired a group of killers who surrounded the cave where Moggallāna was staying. But he used his supernatural powers and escaped. The killers did not give up but were pursuing him around the clock. After three months Moggallāna realized that he had to get caught as a consequence of one bad deed he committed in one of his previous life. Although he was an Arahant and did not create any new karma, he was still reaping fruit of his actions before he reached the Awakenment. 
+
+                  So he let himself to be caught and the killers beat him up. When they thought he was dead, they left him in a forest and went away. But Moggallāna was still alive, used his supernatural powers to revive himself for a short time and went to pay his respects to the Buddha. He told the Buddha what happened and the Buddha asked him to teach the Dharma to all the monks for one last time. Moggallāna did so and died soon after that. 
+
+                  The king ordered an investigation, caught the killers and executed them. The monks asked the Buddha how was it possible that Moggallāna was killed like that. The Buddha told them a story from Moggallāna previous life. 
+
+                  Once he was a son of blind parents. At the beginning he was a very good son, treating them well. But after he got married, his wife hated his parents and induced him to kill them. Moggallāna took his parents to the forest and beat them to death, while pretending that some robbers were actually killing them. For this deed he had to die himself in his very last existence at the end of killers, beaten up to death.
+
+.. [DLMBSFn-V138] (DLMBS Commentary V138) The story for this verse is identical with the story for the previous verse (DhP 137), the story of Moggallana's untimely death.
+
+.. [DLMBSFn-V139] (DLMBS Commentary V139) The story for this verse is identical with the story for the previous verses (DhP 137, DhP 138), the story of Moggallana's untimely death.
+
+.. [DLMBSFn-V140] (DLMBS Commentary V140) The story for this verse is identical with the story for the previous verses (DhP 137, DhP 138, DhP 139), the story of Moggallana's untimely death.
+
+.. [DLMBSFn-V141] (DLMBS Commentary V141) In Sāvatthi there lived a rich man named Bahu Bhāṇḍika. When his wife died, he decided to become a monk. But first he built himself a monastery, brought many servants and provisions of food with him. So even as a monk he lived in comfort and had plenty of delicious food every day. 
+
+                  When the Buddha heard about this, he admonished the monk, saying that his teaching is about simple life and asked why did he bring so much property with him. The monks became angry and took off his robe, asking the Buddha if this was the way he wanted him to live from now on. 
+
+                  The Buddha again admonished him, "How come you have lost your sense of shame and fear of evil? Even in your former existence as a hungry ghost you had this sense, where did it go?" The monk realized his mistake and apologized for getting angry and taking off his clothes. 
+
+                  The Buddha then spoke this verse, saying that austerities and ascetic practices do not make a monk. Only when we discard ignorance can we be really free. 
+
+                  At the end of this discourse, many monks present attained the first stage of Awakenment.
+
+.. [DLMBSFn-V142] (DLMBS Commentary V142) The king Pasenadi of Kosala once sent his minister Santati to deal with some rebellion in the border area. Santati suppressed it quickly and efficiently and the king was very pleased. He gave Santati many gifts, amongst others also a dancing girl to entertain him. The minister spent several days drinking and enjoying the young dancer.
+
+                  On the last day, he went to the river to take a bath. On the way he met the Buddha and some monks. Even though he was drunk, he still bowed in respect. The Buddha remarked to Venerable Ānanda that Santati will reach the Awakenment the very same day and soon after that he will die. 
+
+                  In the evening, the dancer again entertained Santati and his guests. While dancing, she died due to exhaustion. The minister was shocked and distressed. Immediately he went to the Buddha and begged for some words of solace. The Buddha told him to get rid of his cravings, not to let these feelings to enslave him. By getting rid of all the cravings, all the roots of evil will be destroyed and he will reach the Nirvana. 
+
+                  After hearing this, Santati attained Awakenment. Realizing, that he was about to die, he thanked the Buddha for his help and told him that he was about to reach the final emancipation. Soon after that he passed away. 
+
+                  Some monks were confused that Santati attained the Arahantship, although he was wearing beautiful dress and ornaments. They asked if he was a monk or a Brahmin. The Buddha replied with this verse, saying that clothes and ornaments are not important. What counts is whether one has or has not freed oneself from ignorance and cravings.
+
+.. [DLMBSFn-V143] (DLMBS Commentary V143) Venerable Ānanda once met a young beggar who was going around dressed in old rags and holding a begging plate. After meeting Ānanda, the man decided to become a monk. His name was Pilotika. 
+
+                  When he became a monk, he put his old clothes and the plate under a certain tree. Sometimes he felt not satisfied with his life as a monk and he went back to the tree and contemplated going back to the layman's life. But when he realized how miserable were his days before he became a monk, he felt shame and returned to the monastery. 
+
+                  This happened many times. Other monks asked him where was he going all the time. He told them he went to see his teacher. Pilotika considered his old clothes and the plate to be his teacher, because they taught him futility of the lay life many times. He started to practice earnestly and took his old clothes as a meditation subject. Soon he was able to reach Awakenment and therefore he stopped going to the tree. 
+
+                  Other monks asked him again, why does not he go to see his teacher any more. Pilotika replied that he does not have need for a teacher any more, hinting that he was an Arahant. The monks went to see the Buddha and asked him if it was true, if Pilotika has really reached the goal. The Buddha replied in affirmative, saying that indeed Pilotika now has no need to see his "teacher" because he has nothing to learn from the old clothes anymore. He has realized the truth and became an Arahant. The Buddha further added this verse and the following one (DhP 144).
+
+.. [DLMBSFn-V144] (DLMBS Commentary V144) The story for this verse is identical with the story for the previous one (DhP 143). 
+
+                  There is no reason to whip a good horse - it knows what to do and how to do it. In the same way there is no need to blame a good person, he is not acting in a way that has to be blamed. 
+
+                  The good horse needs only to be touched by the whip and then it knows what to do. So it is with a good person. He is "touched" by the suffering and immediately starts to make effort to escape it forever.
+
+.. [DLMBSFn-V145] (DLMBS Commentary V145) Venerable Sāriputta once had a very young novice. His name was Sukha. One day, he went with Sāriputta on his alms-round. He observed irrigators irrigating the fields, arrow-makers making their arrows and carpenters working with wood. He asked Venerable Sāriputta if those things, which have no mind, could be guided to wherever one wishes. Sāriputta replied that it is so. The young novice then thought, "If those things, which have no mind, could be guided to wherever one wishes, then why could not I master myself?"
+
+                  He then asked permission from Sāriputta, returned to the monastery and diligently practiced. He was about to attain Arahantship, when Sāriputta returned and was going towards the novice's hut. The Buddha saw this and he also saw that the novice was just about to attain the goal, so he met Sāriputta outside and prevented him from going to the novice's hut by asking him various questions. The novice indeed attained Arahantship very soon and the Buddha explained that the reason, why he kept Sāriputta outside, was to enable the young novice to attain his goal without being interrupted.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

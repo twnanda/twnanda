@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2016-06-03 21:30
-:modified: 2016-07-25 17:00
+:modified: 2016-09-17 17:30
 :tags: 法句經, 法句經對讀, 惡品, Dhp, Dhammapada, Pāpavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Evil
@@ -125,6 +125,13 @@
 
        116 If a man would hasten towards the good, he should keep his thought away from evil; if a man does what is good slothfully, his mind delights in evil.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - **Chapter 9: The Evil**
+
+       | **DhP 116** 
+       | You should be quick in doing good. One should restrain mind from evil. 
+       | The mind of somebody, who is slow in doing good, delights in evil. [DLMBSFn-V116]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 116 <{filename}../dhA/dhA-chap09%zh.rst#dhp116>`__
 
@@ -190,6 +197,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 117 If a man commits a sin, let him not do it again; let him not delight in sin: pain is the outcome of evil.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 117** 
+       | Should a person do evil, let him not do it again and again. 
+       | One should not wish for it. Accumulation of evil is painful. [DLMBSFn-V117]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 117 <{filename}../dhA/dhA-chap09%zh.rst#dhp117>`__
 
@@ -253,6 +265,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 118 If a man does what is good, let him do it again; let him delight in it: happiness is the outcome of good.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 118** 
+       | Should a person do good, let him do it again and again. 
+       | One should wish for it. Accumulation of good is pleasant. [DLMBSFn-V118]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 118 <{filename}../dhA/dhA-chap09%zh.rst#dhp118>`__
@@ -322,6 +339,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 119 Even an evil-doer sees happiness as long as his evil deed has not ripened; but when his evil deed has ripened, then does the evil-doer see evil.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 119** 
+       | An evil person may even see goodness [in his evil deeds] as long as the evil has not ripened. 
+       | When the evil has ripened, then the evil person sees those evil deeds. [DLMBSFn-V119]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 119 <{filename}../dhA/dhA-chap09%zh.rst#dhp119>`__
 
@@ -387,6 +409,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 120 Even a good man sees evil days, as long as his good deed has not ripened; but when his good deed has ripened, then does the good man see happy days.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 120** 
+       | A good person may even see evil [in his good deeds] as long as the goodness has not ripened. 
+       | When the goodness has ripened, then the good person sees those good deeds. [DLMBSFn-V120]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 120 <{filename}../dhA/dhA-chap09%zh.rst#dhp120>`__
@@ -474,6 +501,12 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 121 Let no man think lightly of evil, saying in his heart, It will not come nigh unto me. Even by the falling of water-drops a water-pot is filled; the fool becomes full of evil, even if he gather it little by little.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 121** 
+       | Do not disregard evil, "It will not come to me!" 
+       | Falling drops of water can fill up even a water jar. 
+       | The fool fills himself up with evil, even if collecting it just little by little. [DLMBSFn-V121]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 121 <{filename}../dhA/dhA-chap09%zh.rst#dhp121>`__
 
@@ -555,6 +588,12 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 122 Let no man think lightly of good, saying in his heart, It will not come nigh unto me. Even by the falling of water-drops a water-pot is filled; the wise man becomes full of good, even if he gather it little by little.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 122** 
+       | Do not disregard goodness, "It will not come to me!" 
+       | Falling drops of water can fill up even a water jar. 
+       | The clever one fills himself up with goodness, even if collecting it just little by little. [DLMBSFn-V122]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 122 <{filename}../dhA/dhA-chap09%zh.rst#dhp122>`__
 
@@ -618,6 +657,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 123 Let a man avoid evil deeds, as a merchant, if he has few companions and carries much wealth, avoids a dangerous road; as a man who loves life avoids poison.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 123** 
+       | Like a merchant with a small caravan and a lot of money would avoid a dreadful path, 
+       | like someone who wants to live would avoid a poison, so should one avoid evil. [DLMBSFn-V123]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 123 <{filename}../dhA/dhA-chap09%zh.rst#dhp123>`__
 
@@ -679,6 +723,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 124 He who has no wound on his hand, may touch poison with his hand; poison does not affect one who has no wound; nor is there evil for one who does not commit evil.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 124** 
+       | If there is no wound in the palm, one can carry poison with it. 
+       | The poison does not affect one who is without a wound. There is no evil for one, who is not doing it. [DLMBSFn-V124]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 124 <{filename}../dhA/dhA-chap09%zh.rst#dhp124>`__
@@ -748,6 +797,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 125 If a man offend a harmless, pure, and innocent person, the evil falls back upon that fool, like light dust thrown up against the wind.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 125** 
+       | Who offends against an uncorrupted man, against a trusting and pure person, 
+       | the evil will fall back upon such a fool, like minute dust thrown against the wind. [DLMBSFn-V125]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 125 <{filename}../dhA/dhA-chap09%zh.rst#dhp125>`__
 
@@ -811,6 +865,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 126 Some people are born again; evil-doers go to hell; righteous people go to heaven; those who are free from all worldly desires attain Nirvana.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 126** 
+       | Some are born in the womb; evildoers arise in hell; 
+       | righteous ones go to heaven; those without taints are completely emancipated. [DLMBSFn-V126]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 126 <{filename}../dhA/dhA-chap09%zh.rst#dhp126>`__
@@ -894,6 +953,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 127 Not in the sky, not in the midst of the sea, not if we enter into the clefts of the mountains, is there known a spot in the whole world where a man might be freed from an evil deed.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 127** 
+       | Not in the air, not in the middle of the ocean, not entering the hole in the mountains. 
+       | There is no place in the world, where being one would be released from the [consequences of] evil deeds. [DLMBSFn-V127]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 127 <{filename}../dhA/dhA-chap09%zh.rst#dhp127>`__
@@ -986,6 +1050,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 128 Not in the sky, not in the midst of the sea, not if we enter into the clefts of the mountains, is there known a spot in the whole world where death could not overcome (the mortal).
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 128** 
+       | Not in the air, not in the middle of the ocean, not entering the hole in the mountains. 
+       | There is no place in the world, where being, one would not be overcome by death. [DLMBSFn-V128]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　九、惡品 Dhp. 128 <{filename}../dhA/dhA-chap09%zh.rst#dhp128>`__
 
@@ -1033,6 +1102,8 @@
 .. [10] 〔註010〕　此英譯為 `Friedrich Max Müller <https://en.wikipedia.org/wiki/Max_M%C3%BCller>`__ 所譯；請參考原始出處(original): `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
 .. [11] 〔註011〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+
+.. [12] 〔註012〕　取材自： `經文選讀 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ （ `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/index.jsp>`__ --- 語言教學． `巴利語教學 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali1.jsp>`__ ）
 
 .. [LChnFn09-01] 〔註09-01〕  原文 Maappama~n~netha 可作二義：一、Maa＋appama~n~nati意為「莫輕視」；Maa＋appa＋Ma~n~nati則為「莫想少」之意。
 
@@ -1091,6 +1162,98 @@
 .. [ThaniSFn-V121-122] (Ven. Thanissaro V. 121-122) "('It won't amount to much')": reading na mattam agamissati with the Thai edition. Other editions read, na mantam agamissati, "It won't come to me."
 
 .. [ThaniSFn-V126] (Ven. Thanissaro V.126) Heaven and hell, in the Buddhist view of the cosmos, are not eternal states. One may be reborn on one of the various levels of heaven or hell as the result of one's kamma on the human plane, and then leave that level when that particular store of kamma wears out.
+
+.. [DLMBSFn-V116] (DLMBS Commentary V116) In Sāvatthi there lived a poor brahmin with his wife. They had only one piece of outer garment, so only one of them could go out at one time. They were lay disciple of the Buddha and wanted to hear as many of his discourses as possible. So the brahmin would go to the monastery at night and his wife during the day. Once the brahmin was listening to the Buddha and he felt very strong wish to perform meritorious deeds. He wanted to offer his only piece of cloth to the Buddha. But he realized that he and his wife would have nothing to wear then. So his mind wavered and he hesitated. Finally during the last hours of the night he offered his cloth to the Buddha, saying, "I win!" 
+
+                  The king of Kosala, Pasenadi, was also present, and when he heard the brahmin he sent messengers to ask why he shouted, "I win!" When he learned the brahmin's story, he was very much impressed and decided to give him a reward. He ordered the brahmin be offered a new piece of cloth. The brahmin gave that piece also to the Buddha. The king gave him two pieces of cloth, which were again offered to the Buddha. Pasenadi again doubled the number of clothes; the brahmin again gave them to the Buddha. So at the end the king gave him thirty-two pieces of cloth, the brahmin kept one for himself, one for his wife, and remaining thirty he again offered to the Buddha. 
+
+                  The king was so much impressed that he decided to reward the brahmin further. He gave him two pieces of very expensive velvet cloth. The brahmin made two canopies out of them, kept one for himself and his wife and the second one he offered to the Buddha. The king then saw the canopy in the monastery and realized that the brahmin has done a meritorious deed again. So he decided to reward him even more. 
+
+                  Some monks wondered how it was possible that in this case a good deed brings good results so quickly. The Buddha replied, that had the brahmin offered his garment immediately when the idea occurred to him, his reward would have been much greater. He then added this verse, saying that if one wants to perform meritorious deeds, one should do so quickly, without hesitation. If one thinks about it too long, then maybe it becomes impossible to do anything at all, because the mind delights in evil.
+
+.. [DLMBSFn-V117] (DLMBS Commentary V117) There was a monk named Seyyasaka. He was not satisfied with his life as a monk. He had a habit of masturbating. When the Buddha heard about this, he admonished the monk for giving in to his desire for sensual pleasures. He made a new rule for the community of monks and nuns to abstain from such acts. He then added this verse, saying that one should not perform evil again and again, because such behavior leads to much suffering.
+
+.. [DLMBSFn-V118] (DLMBS Commentary V118) Venerable Mahākassapa once stayed in a cave, practicing meditation for seven days. When he arose from his meditation he wanted to give somebody a chance to gain merit by offering him food. He saw a young girl cooking meal. So he stood by her door looking for almsfood. She saw him and happily offered him some food, wishing that the merit gained offering might help her to realize the truth. 
+
+                  After some time she was bitten by a snake and died. She was reborn as a goddess in Tavatimsa heaven. 
+
+                  She understood that she was reborn there only because of the merit gained by offering almsfood to Kassapa. She wished to continue doing good deeds. So every morning she would come to the monastery, sweep the floor and fill the water-pots. At first Kassapa thought that some diligent young novice was doing this service, but later he found out that a goddess performed them all. He advised her not to come to the monastery too often, because people might start talking, if they saw her often there. She was quite upset and begged him not to destroy her chances for gaining more merit. 
+
+                  The Buddha heard her and supported Kassapa's opinion. He told her that although performing good deeds was very pleasant, she should not continue coming to the monastery every day.
+
+.. [DLMBSFn-V119] (DLMBS Commentary V119) One of the most famous benefactors of the Buddha was Anāthapindika from the city of Sāvatthi. He built the Jetavana monastery and regularly donated food and other requisites to the community of the Buddha's followers. By doing so, he gave away most of his wealth and became poor. The guardian spirit of his house came to him and told him to stop donating for some time, make money, become rich again, and then continue giving. Anāthapindika told the spirit to leave his house for saying such things.
+
+                  The guardian spirit went to see Sakka, the king of the gods, and asked him what should he do to get pardon from Anāthapindika. Sakka told him that there was some money Anāthapindika loaned to others and did not collect it back yet. He also pointed to the guardian spirit some wealth buried by Anāthapindika's ancestors. The spirit collected all those riches and brought them to Anāthapindika’s house. 
+
+                  Anāthapindika then permitted the spirit to enter the house and continue living there. The Buddha learned about this story and told them these two verses (DhP 119 and 120). Even though the good person can come to misfortune sometimes, the results of his good deeds will come sure enough - and so will the results of evil deeds of a bad person, even though for some time he might enjoy luck and happiness.
+
+.. [DLMBSFn-V120] (DLMBS Commentary V120) The story for this verse is identical with the story for the previous verse. 
+
+                  Sometimes it seems that people, who are committing evil deeds are lucky and enjoy happy life, whereas those, who are good and perform only meritorious deeds suffer the most. But at the end, the results of the deeds will ripe and when the time comes to that, the evildoer will finally receive the fruit of his evil deeds and the good person will be able to see the results of his beneficial actions.
+
+.. [DLMBSFn-V121] (DLMBS Commentary V121) A certain monk would use a piece of furniture for some time and then leave it outside in the monastery yard, exposing it to sun and rain. Other monks tried to admonish him, but he always said only that it is not his intention to destroy the things, and that no serious harm was actually done. 
+
+                  When the Buddha found out about this, he sent for the monk and told him this verse, saying that one should not disregard evil, however small, because a hundred small evils is actually equal to one big evil. Moreover, if one gets used to small evils, a bad habit is established, and a great evil then does not seem so terrible to such a person. 
+
+.. [DLMBSFn-V122] (DLMBS Commentary V122) A certain man from the city of Sāvatthi wanted to give in charity. Especially he wanted to get others to do so. He invited the Buddha with monks for meal the next day. He went around his neighbors and asked them to contribute if they want to participate in the almsgiving. One rich man thought that this man does not have enough money to do it himself and he was unhappy about this. So he contributed only a little amount of food. His contribution was kept separately and was not put together with the food that others contributed. The rich man thought that the man wanted others to know, that he, the rich man, has given only such a little amount. So the next day he sent a servant over to the house, where the alms were being given, and told him to observe everything. 
+
+                  The servant told the rich man, that his food was distributed in very small amounts into everything. This was done, so that the rich man would gain a lot of merit. But he did not understand it and the next day he went to the man's house, intending to kill him if he dared to reveal that he offered so little. 
+
+                  But the man told him the true reason of his action. The rich man realized his evil thoughts and apologized to the man. The Buddha heard this and told the rich man this verse, saying that we should not disregard good deeds, even if they seem small. Someday, doing of good deeds will become a habit, and thus we can perform a big good deed.
+
+.. [DLMBSFn-V123] (DLMBS Commentary V123) In Sāvatthi there lived a rich merchant named Mahā Dhana. A group of robbers wanted to rob him. Mahā Dhana decided to make a journey with a lot of valuable merchandise. He invited some monks who wanted to go on the same journey to go with him. The robbers hid themselves in a forest and waited for Mahā Dhana's caravan. But Mahā Dhana found out about their plan and decided to stop just in front of the forest and wait for the robbers to leave. When they did not do so, Mahā Dhana decided to go back home. The robbers found out and planned to attack him on the return journey. Some people told Mahā Dhana about this and so he stopped in the village and stayed there for some time. 
+
+                  The monks returned back to Sāvatthi and told the Buddha what happened. Buddha told them this verse, saying, that a merchant is wise to keep away from the journey full of robbers. Also one who wants to live better keep away from poison. And those, who want to attain Awakenment, should avoid evil.
+
+.. [DLMBSFn-V124] (DLMBS Commentary V124) A daughter of a rich family once lived in Rājagaha. She was very wise and understood the Dharma - she had attained the first stage of Awakenment. Once she met a hunter named Kukkuṭa Mitta and they fell in love. They got married and had seven children. After many years, all the children got themselves married. 
+
+                  Once the Buddha walked past one of Kukkuṭa Mitta's traps and he sat under a tree not far away and rested. Kukkuṭa Mitta came, saw the footsteps, but he saw no animal. So he thought that somebody stole his animal from the trap. Seeing the Buddha close, he took him to be that person. He became very angry and wanted to kill the Buddha. He took his bow and arrow, but as he was about to shoot he became immobilized just like a statue. His children came next and saw what happened to their father. They too took bows and arrows and tried to shoot the Buddha, only to become "statues" themselves. When they did not return in time, the hunter's wife went to the forest to look for them. When she saw what happened, she shouted to them, "Don't kill my father!" 
+
+                  The hunter and his children thought that the Buddha was her real father and they ceased hating him. Immediately they were able to move again. The woman told them to put down their bows and arrows and when they did so, the Buddha expounded the Dharma. At the end of the discourse, all of them also attained the first stage of Awakenment. 
+
+                  The Buddha went back to the monastery and told the monks the story. Some monks wondered how the woman, having already reached the first stage of Awakenment, could help her husband to take lives of animals. The Buddha replied with this verse, saying that if one has no intention to commit evil, no bad karma is actually created.
+
+.. [DLMBSFn-V125] (DLMBS Commentary V125) A hunter named Koka was leaving the city to hunt with his dogs. He met a monk who was entering the city to obtain some almsfood. The hunter took this for a bad sign and thought that that day he wouldn’t catch any animal. And that also happened - he did not get anything. Angry he went back home. On entering the city he met the same monk who obtained his food and was returning to the monastery. The hunter became so angry that he sent his dogs to kill the monk. But he climbed a tree and the dogs were unable to reach him. The hunter took an arrow and pricked the monk's feet with it. The monk was in pain and his robe fell down. 
+
+                  It just happened that the hunter was standing directly bellow. The robe fell onto him. His dogs thought that the monk fell down and attacked him. The monk threw some branches down and only then the dogs realized that they attacked their own master and ran away. The monk climbed down and found out that the hunter was already dead. 
+
+                  When he returned to the monastery, he went to see the Buddha, because he felt responsible for the hunter's death. But the Buddha told him that he was not responsible at all. Only hunter himself and his foolish actions caused him the untimely death. The Buddha then added this verse, saying that whoever wants to harm an innocent, calls evil on himself. Just like trying to throw dust against the wind - it will just come back and fall upon the very person who threw it.
+
+.. [DLMBSFn-V126] (DLMBS Commentary V126) In the city of Sāvatthi once lived a gem polisher. He has been giving almsfood to a certain monk for the last twelve years. One day, the gem polisher was carrying a piece of meat when a messenger for the king arrived, giving him a piece of gem that the king wanted to be cut and polished. The gem polisher took the gem with his hands bloody from the meat, put it on the table and went to wash his hands.
+
+                  The family had a pet bird. When it saw the gem covered with blood, it took it for a piece of meat and ate it. When the gem polisher returned, he did not see the gem anywhere. He asked everybody, but nobody knew anything. At the end he also asked the monk, who was also present. The monk replied that he did not take the gem.
+
+                  The gem polisher was convinced, that the monk was lying and decided to inflict torture on him. Even though his wife discouraged him from this action, saying that this monk was an Arahant and their teacher for so many years, the gem polisher paid no attention. He tied the monk up and beat him with a stick.
+
+                  The monk started to bleed all over his body and the bird came over again, drawn by the blood. The gem polisher was angry and kicked the bird, killing it instantly. Only then did the monk reveal that the bird ate the gem. The gem polisher cut the bird open and indeed found the gem inside.
+
+                  Immediately he untied the monk and asked for forgiveness. The monk replied that he feels no hatred towards him and even agreed to continue coming to his house for almsfood. Only after this he would not enter the house - just stay by the door.
+
+                  Soon after, the monk died from his injuries and reached the final Nirvana. The bird was born as the gem polisher's son. When the gem polisher died he was born in hell and his wife in heaven, because she spoke against beating of the innocent monk.
+
+.. [DLMBSFn-V127] (DLMBS Commentary V127) Three groups of monks were traveling from far away to see the Buddha. On the way strange things happened to them. 
+
+                  The first group stayed in a village on their way. Some people were cooking meal when their hut caught fire and burned. A crow was flying over the place, got caught in the fire and died. 
+
+                  When they met the Buddha, he told them this story. One farmer had a very lazy ox. It would not work, it would only lie down, eat and sleep. The farmer once got so angry, that he put a rope around the neck of the animal and set fire to it. So the ox died. Because of this, the farmer was reborn as a crow and died in the fire himself. 
+
+                  The second group took a boat. In the middle of the ocean the ship would not suddenly move. They searched for the unlucky person, who is causing this to happen. Three times lots were drawn and three times it fell on the captain's wife. So at the end they tied a pot of sand to her neck and drowned her. The ship then continued to the port safely and the monks got to see the Buddha. 
+
+                  He told them, that once there was a woman who had a pet dog. The dog would follow her everywhere; it just would not stay away even for a moment. Some people were making fun of her. So she felt ashamed, tied a pot of sand around the dog's neck and drowned it. Because of this, she was reborn as that unlucky woman who was drowned by other people. 
+
+                  The third group of seven monks stayed in a cave overnight. In the middle of the night a big rock fell from the mountain above and blocked the entrance into the cave. People discovered them in the morning and tried to move the rock, but they were unable to do it. Only on the seventh day they moved the rock away and the monks were free. 
+
+                  To them the Buddha related the story of seven cowherds who chased an iguana into a mound and for fun closed all the entrances. They let the iguana out only after seven days. So in this life they were reborn as the seven monks who were trapped in the cave for a week. 
+
+                  At the end the Buddha said this verse, saying that one can never escape the consequences of evil deeds. They will find us anywhere, nobody can hide from them, even in the air, ocean or in a cave - the consequences will befall us surely. 
+
+.. [DLMBSFn-V128] (DLMBS Commentary V128) Buddha had also some enemies. One of them was his own cousin Devadatta who wanted to take the Buddha's place in the Community. Devadatta's father was king Suppabuddha. He was also an enemy of the Buddha, because the Buddha married Suppabuddha's daughter, Yasodhara, and later left her and became a monk. 
+
+                  When the Buddha came for almsfood to his place, the king got drunk and blocked the way. He refused to make way for the Buddha. The Buddha turned around and went back, saying to the monks that the king make a bad karma by refusing to make way for a Buddha and would have to face the consequences very soon. 
+
+                  Suppabuddha wanted to prove the Buddha wrong, so he paid special attention to his deeds and also instructed his servants to protect him very carefully. But on the seventh day he heard his horse neighing loudly and kicking about. He wanted to handle the horse and went down to the stable. He fell down the stairs and died immediately. 
+
+                  The Buddha remarked that one can not escape death no matter how one tries, no matter where on hides.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
