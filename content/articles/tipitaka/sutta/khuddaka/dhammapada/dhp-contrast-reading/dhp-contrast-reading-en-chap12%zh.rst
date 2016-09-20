@@ -1,9 +1,9 @@
-==============================================================================================================================================
+====================================================================================================================================================
 Chapter 12. The Self; Attavaggo (Dhp.157-166), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.) 
-==============================================================================================================================================
+====================================================================================================================================================
 
 :date: 2016-06-28 21:30
-:modified: 2016-06-28 21:30
+:modified: 2016-09-20 17:30
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, The Self, Attavaggo, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Chapter 12. The Self; Attavaggo (Dhp.157-166), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -98,6 +98,13 @@ Chapter 12. The Self; Attavaggo (Dhp.157-166), Parallel Reading (paragraph granu
 
        157 If a man hold himself dear, let him watch himself carefully; during one at least out of the three watches a wise man should be watchful.
 
+   * - Cited from DLMBS [8]_
+     - **Chapter 12: The Self**
+
+       | **DhP 157** 
+       | If someone holds oneself dear, let him guard himself very well. 
+       | In any of the three watches of the night let the wise one be watchful. [DLMBSFn-V157]_
+
 .. _Dhp158:
 
 .. list-table:: Dhammapada Dhp. 158
@@ -145,6 +152,11 @@ Chapter 12. The Self; Attavaggo (Dhp.157-166), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 158 Let each man direct himself first to what is proper, then let him teach others; thus a wise man will not suffer.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 158** 
+       | Let one first establish oneself in what is proper, 
+       | and then instruct others. A wise one should not be impure. [DLMBSFn-V158]_
+
 .. _Dhp159:
 
 .. list-table:: Dhammapada Dhp. 159
@@ -190,6 +202,11 @@ Chapter 12. The Self; Attavaggo (Dhp.157-166), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 159 If a man make himself as he teaches others to be, then, being himself well subdued, he may subdue (others); one's own self is indeed difficult to subdue.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 159** 
+       | If only one always did what one advises others! 
+       | One well restrained can teach others. Indeed, it is difficult to control oneself. [DLMBSFn-V159]_
+
 .. _Dhp160:
 
 .. list-table:: Dhammapada Dhp. 160
@@ -234,6 +251,11 @@ Chapter 12. The Self; Attavaggo (Dhp.157-166), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 160 Self is the lord of self, who else could be the lord? With self well subdued, a man finds a lord such as few can find.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 160** 
+       | One is indeed one's own lord. What other lord would there be? 
+       | With oneself well restrained, one will obtain the lord that is so hard to get. [DLMBSFn-V160]_
+
 .. _Dhp161:
 
 .. list-table:: Dhammapada Dhp. 161
@@ -276,6 +298,11 @@ Chapter 12. The Self; Attavaggo (Dhp.157-166), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 161 The evil done by oneself, self-begotten, self-bred, crushes the foolish, as a diamond breaks a precious stone.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 161** 
+       | The evil is done by oneself, proceeding from oneself, originating from oneself. 
+       | It crushes the fool, just like a diamond crushes a hard gem. [DLMBSFn-V161]_
+
 .. _Dhp162:
 
 .. list-table:: Dhammapada Dhp. 162
@@ -317,6 +344,11 @@ Chapter 12. The Self; Attavaggo (Dhp.157-166), Parallel Reading (paragraph granu
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 162 He whose wickedness is very great brings himself down to that state where his enemy wishes him to be, as a creeper does with the tree which it surrounds.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 162** 
+       | Who is of extremely bad morality, like a creeper spread over a *Sala* tree, 
+       | he will do unto himself, what an enemy wishes to do unto him. [DLMBSFn-V162]_
 
 .. _Dhp163:
 
@@ -363,6 +395,11 @@ Chapter 12. The Self; Attavaggo (Dhp.157-166), Parallel Reading (paragraph granu
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 163 Bad deeds, and deeds hurtful to ourselves, are easy to do; what is beneficial and good, that is very difficult to do.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 163** 
+       | Easy done are deeds, that are wrong and harmful to oneself. 
+       | What is beneficial and good, that is indeed most difficult to do. [DLMBSFn-V163]_
 
 .. _Dhp164:
 
@@ -418,6 +455,12 @@ Chapter 12. The Self; Attavaggo (Dhp.157-166), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 164 The foolish man who scorns the rule of the venerable (Arahat), of the elect (Ariya), of the virtuous, and follows false doctrine, he bears fruit to his own destruction, like the fruits of the Katthaka reed.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 164** 
+       | Who scorns thee teaching of the Arahants, the Noble Ones, living righteously, 
+       | the fool, who is relying on wrong beliefs, 
+       | produces fruit just like a bamboo - for his own destruction. [DLMBSFn-V164]_
+
 .. _Dhp165:
 
 .. list-table:: Dhammapada Dhp. 165
@@ -472,6 +515,12 @@ Chapter 12. The Self; Attavaggo (Dhp.157-166), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 165 By oneself the evil is done, by oneself one suffers; by oneself evil is left undone, by oneself one is purified. Purity and impurity belong to oneself, no one can purify another.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 165** 
+       | The evil is done by oneself; by oneself one becomes impure. 
+       | The evil is undone by oneself; by oneself one becomes pure. 
+       | Purity and impurity depend on oneself. No one can purify another. [DLMBSFn-V165]_
+
 .. _Dhp166:
 
 .. list-table:: Dhammapada Dhp. 166
@@ -521,6 +570,11 @@ Chapter 12. The Self; Attavaggo (Dhp.157-166), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 166 Let no one forget his own duty for the sake of another's, however great; let a man, after he has discerned his own duty, be always attentive to his duty.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 166** 
+       | Let one not neglect one's own spiritual attainment for other's spiritual attainment, however great. 
+       | Having fully understood one's own spiritual attainment, let one pursue the true attainment. [DLMBSFn-V166]_
+
 --------------
 
 **the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
@@ -552,6 +606,8 @@ NOTE:
 
         THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
 
+.. [8] (note 8) original: `Readings in Pali Texts <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp>`__ ( `Digital Library & Museum of Buddhist Studies (DLMBS) <http://buddhism.lib.ntu.edu.tw/DLMBS/en/>`__ --- `Pali Lessons <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali1.jsp>`__ )
+
 .. [NāradaFn12-01] (Ven. Nārada 12-01) According to Buddhism there is no permanent soul or unchanging entity (atta) either created by a God or emanating from a Paramātma. Here the term atta (self) is applied to the whole body, or one's personality, or mind, or life flux.
 
 .. [NāradaFn12-02] (Ven. Nārada 12-02) Will not be blamed by others.
@@ -571,6 +627,68 @@ NOTE:
 .. [ThaniSFn-V165] (Ven. Thanissaro V.165) "No one purifies another. No other purifies one." These are the two meanings of the one phrase, nañño aññam visodhaye.
 
 .. [ThaniSFn-V166] (Ven. Thanissaro V.166) AN 4.95 lists four types of people in descending order: those devoted to their own true welfare as well as that of others, those devoted to their own true welfare but not that of others, those devoted to the true welfare of others but not their own, and those devoted neither to their own true welfare nor that of others. SN 47.19 makes the point that if one is truly devoted to one's own welfare, others automatically benefit, in the same way that an acrobat maintaining his/her own balance helps his/her partner stay balanced as well.
+
+.. [DLMBSFn-V157] (DLMBS Commentary V157) There was a prince named Bodhirāja. He had built a new palace and invited the Buddha with monks for alms offering. Because the prince had no children, he spread some pieces of cloth on the floor and made a wish that if the Buddha stepped on the cloth, he and his wife would be able to have children. 
+
+                  When the Buddha came, he asked Bodhirāja to remove the cloth. He told him he and his wife could not have children because of evil deeds they committed in the past. The Buddha then related the story to the prince. 
+
+                  He and his wife had been the only survivors of a shipwreck in one of their past existences. They were stranded on an island and ate the birds. They also ate their eggs and small fledglings. They did not even feel a slightest remorse for killing some other living creatures' babies. Because of that, they would not able to have any children in this life.
+
+.. [DLMBSFn-V158] (DLMBS Commentary V158) There was a monk named Upananda. He was a very good orator. He would preach eloquently about being satisfied with little, about contentment and about austerity, but actually he was very greedy and always took all he could get. 
+
+                  Once he wanted to spend the Rain Retreat in one monastery. When he found out that at the end of the retreat the monks there received only one robe each, he decided to go away. But he left his slippers there. It was similar at the second monastery, where the monks usually got two robes - he did not stay but left his staff. At the third monastery he left his water bottle, but himself left, because three robes that monks received there, did not satisfy him. Finally, he spent the Rain Retreat in the fourth monastery, where he received four robes at the end of the retreat. Because he left his things in three previous temples, he also claimed his share of the robes from them! 
+
+                  So, he set on the way back to his own monastery with ten robes. On the way he met two monks, who could not agree how to divide two robes and a blanket between themselves. Upananda agreed to act as an arbiter. He gave each of them one robe and he himself kept the blanket as a payment for his arbitration. 
+
+                  The monks went to see the Buddha and reported to him what happened. The Buddha reprimanded Upananda with this verse, saying that before one can teach others, he has to act properly - especially in the subject he wants to teach.
+
+.. [DLMBSFn-V159] (DLMBS Commentary V159) There was a monk named Padhānika Tissa. He has several monks as his students. He taught them how to meditate and told them to be always vigilant and diligent. In the evening he would tell them to keep practicing and then he would go to sleep. At night, just when the monks were about to go to bed, he returned and told them to continue meditating. 
+
+                  The monks were very tired because of lack of sleep. But they were still very obedient and even admired their teacher for being so diligent. Once they went to investigate how he meditates - only to find their teacher asleep! They became dissatisfied and as a result they made very little progress in their meditation. 
+
+                  When they returned to the Jetavana monastery to see the Buddha, they told him about their teacher. The Buddha advised them with this verse, saying that a teacher should first master the subject himself completely and only then attempt to teach others.
+
+.. [DLMBSFn-V160] (DLMBS Commentary V160) There was a young married woman who wanted to become a nun. She got permission from her husband and entered the Order. She became a pupil of Devadatta, the Buddha's cousin. Before she became a nun, she was already pregnant but did not know about it. When she found out, she asked Devadatta what to do. He sent her back to the lay life. But the woman was not happy and went to see the Buddha. The Buddha sent for Upāli, who was the master of Vinaya, rules of conduct. He further asked the king Pasenadi and the famous lay devotes, Anāthapindika and Visākhā to come and settle the case. 
+
+                  Visākhā examined the young woman and told Upāli that she was already pregnant when she joined the Order. Upāli therefore declared that the woman was pure of any misconduct and could continue her life as a nun. Later the woman gave birth to a son. He was named Kumara Kassapa and king Pasenadi adopted him. At the age of seven, the boy became a novice and when he was eighteen, he received the full ordination. He went to the forest to practice meditation and soon attained Arahantship. He lived in the forest for twelve years and then went back to the monastery. 
+
+                  His mother was very attached to him and whenever she saw him she would run after him calling his name. Kumara Kassapa decided that he should help his mother to get rid of this attachment. Therefore he spoke coolly to her, "How is it possible that you, as a nun, can not cut off even the affection for your son?" The woman reflected, "I have been weeping for twelve years, waiting for my son. Now he speaks so harshly to me! Why should I be attached to him?" Then she realized danger of all attachments and very soon reached Arahanthsip. 
+
+                  The monks then remarked to the Buddha that if the woman had listened to Devadatta's words, neither she nor her son would have reached Arahantship. The Buddha replied with this verse, saying that in striving for the goal one must depend only on himself and not seek others to lean on.
+
+.. [DLMBSFn-V161] (DLMBS Commentary V161) There was a lay disciple named Mahākāla. Once he spent the night in the monastery, observing the eight precepts and meditating. In the morning, on his way home, he stopped by a pond to wash his face. On the same night some thieves broke into a house and were chased by the owners. The thieves dropped their stolen things in front of Mahākāla and ran away. The owners mistook Mahākāla for a thief and beat him up. Mahākāla died of his injuries. Some monks discovered his body and reported the matter to the Buddha. 
+
+                  The Buddha explained, that in one of his previous lives, Mahākāla fell in love with a certain woman and had beaten her husband to death. He then added this verse, saying that one's own evil deeds surely come back to their doer and fall back on his head.
+
+.. [DLMBSFn-V162] (DLMBS Commentary V162) Some monks were discussing the subject of Devadatta, the Buddha's cousin, amongst themselves. They summed up all his bad actions: he got the confidence of prince Ajātasattu by unfair means, thus trying to gain fame. He instigated the prince to kill his own father, king Bimbisara and to become the king himself. Devadatta even tried to kill the Buddha for three times. 
+
+                  The monks reported the matter to the Buddha and added that Devadatta was a man without shame and morality. The Buddha then said that Devadatta was trying to kill him in many if the past lives. The Buddha spoke this verse, saying that immoral people will destroy themselves - just like a creeper strangles the tree on which it is spread.
+
+.. [DLMBSFn-V163] (DLMBS Commentary V163) The Buddha had a cousin Devadatta. He also became a monk but he was vicked. He envied the Buddha and wanted to take his place as the head of the Buddhist community. He went to see the Buddha and suggested, that since the Buddha is getting old, he, Devadatta should from now on be the leader of the Buddhist Order. The Buddha refused. Devadatta then tried to kill the Buddha three times, but he was not successful. 
+
+                  Later Devadatta had another plan. He went to see the Buddha and suggested five new rules for all monks to follow: 1) to live only in forests, 2) to eat only almsfood, 3) to wear only robes they make themselves from discarded pieces of cloth found on rubbish heaps, 4) to sleep under trees, 5) not to eat any meat (including fish). 
+
+                  The Buddha told him that, whoever wants to follow these rules, can do so. But they will not become binding for all the monks, because they are too strict and the Buddha's teaching teaches the Middle Path. 
+
+                  Devadatta was angry and tried to find some more followers. Indeed, he found some young monks who thought the rules of Devadatta were much better than those, introduced by the Buddha. 
+
+                  The Buddha questioned Devadatta about his intentions and the later admitted ha was trying to create a schism in the Community. The Buddha tried to explain him that to create a schism is a very bad deed, but Devadatta did not care. He took his followers and departed for the place called Gayasīsa where he established a new Order. Two prominents disciple of the Buddha, Sāriputta and Moggallana were able to make most of the Devadatta's followers realize their mistake and make them come back to the Buddha. 
+
+                  The Buddha commented the situation with this verse, saying that good and beneficial deeds are very difficult to perform, whereas an evil deed is done very quickly and without any difficulty.
+
+.. [DLMBSFn-V164] (DLMBS Commentary V164) In Sāvatthi there lived an old woman who was looking after a monk named Kāla. She often expressed her wish to go to the Jetavana monastery to hear the teaching from the Buddha’s own mouth. Three times she told Kāla about her wish and three times he advised her not to go. 
+
+                  However, one day she went to the monastery in spite of his objections. Kāla thought that she would have no more use for him, if she hears the Buddha to speak. So he went to the Buddha and told him not to teach the woman anything deep, because she was very stupid. 
+
+                  The Buddha knew the real reason for Kāla's words and he admonished him with this verse, saying that one who abuses the Teaching, is only destroying himself.
+
+.. [DLMBSFn-V165] (DLMBS Commentary V165) There was a lay disciple named Cūlakāla. Once he spent the night in the monastery, observing the eight precepts and practicing meditation. In the morning he was returning home and met a group of thieves who were being chased by the owners of the stolen goods. The thieves put their loot in front of Cūlakāla and ran away. The owners mistook Cūlakāla for a thief and started to beat him. Some prostitutes, who were on the way to the river, saw the whole incident and told the people Cūlakāla was innocent. The owners let him go. 
+
+                  When the Buddha was told about this, he replied with this verse and added that Cūlakāla was truly innocent and therefore had nothing to fear.
+
+.. [DLMBSFn-V166] (DLMBS Commentary V166) Close to the age of eighty, the Buddha declared that he would attain his final Parinirvāna in four months. There were many monks who have not reached the final goal yet and they were very distressed. They wept and kept close to the Buddha all the time. There was a monk, named Attadatta who decided to honor the Buddha by attaining the Awakenment during his lifetime. So he kept alone and practiced diligently. Some other monks did not understand his intention and told Buddha, "Attadatta does not love you, he did not come to pay homage to you! He is egoistic, indeed!" Attadatta explained his behavior, saying that in his opinion the greatest homage to Buddha would be if he attained the Arahantship within the remaining four months of the Buddha's life. 
+
+                  The Buddha approved of this and replied with this verse, saying that in spiritual attainment, one should diligently strive to reach the goal oneself and only then do other things.
 
 --------------
 

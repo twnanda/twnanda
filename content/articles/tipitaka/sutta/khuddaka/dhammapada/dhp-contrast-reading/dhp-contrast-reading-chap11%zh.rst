@@ -3,7 +3,7 @@
 ======================================================================
 
 :date: 2016-06-04 15:00
-:modified: 2016-07-25 22:00
+:modified: 2016-09-20 15:30
 :tags: 法句經, 法句經對讀, 老品, Dhp, Dhammapada, Jarāvaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Old Age
@@ -123,6 +123,13 @@
 
        146 How is there laughter, how is there joy, as this world is always burning? Why do you not seek a light, ye who are surrounded by darkness?
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - **Chapter 11: The Old Age**
+
+       | **DhP 146** 
+       | What laughter? Why joy? When everything is constantly burning? 
+       | Covered by darkness, you do not seek light? [DLMBSFn-V146]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 146 <{filename}../dhA/dhA-chap11%zh.rst#dhp146>`__
 
@@ -182,6 +189,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 147 Look at this dressed-up lump, covered with wounds, joined together, sickly, full of many thoughts, which has no strength, no hold!
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 147** 
+       | Look at this mind-created image, a compounded heap of sores, 
+       | diseased, with many plans, which does not have any permanence or stability. [DLMBSFn-V147]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 147 <{filename}../dhA/dhA-chap11%zh.rst#dhp147>`__
@@ -244,6 +256,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 148 This body is wasted, full of sickness, and frail; this heap of corruption breaks to pieces, life indeed ends in death.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 148** 
+       | Decayed is this body, a frail nest of diseases. 
+       | This foul mass breaks up. Indeed, the life ends in death. [DLMBSFn-V148]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 148 <{filename}../dhA/dhA-chap11%zh.rst#dhp148>`__
 
@@ -302,6 +319,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 149 Those white bones, like gourds thrown away in the autumn, what pleasure is there in looking at them?
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 149** 
+       | Those gray bones, thrown away like pumpkins in fall. 
+       | Seeing them, what love can there be? [DLMBSFn-V149]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 149 <{filename}../dhA/dhA-chap11%zh.rst#dhp149>`__
@@ -363,6 +385,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 150 After a stronghold has been made of the bones, it is covered with flesh and blood, and there dwell in it old age and death, pride and deceit.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 150** 
+       | There is a city made of bones, plastered with flesh and blood, 
+       | where there are deposited old age, death, conceit and hypocrisy. [DLMBSFn-V150]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 150 <{filename}../dhA/dhA-chap11%zh.rst#dhp150>`__
@@ -432,6 +459,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 151 The brilliant chariots of kings are destroyed, the body also approaches destruction, but the virtue of good people never approaches destruction,--thus do the good say to the good.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 151** 
+       | Beautiful king's chariots wear out. And also the body gets old. 
+       | But the teaching of the good ones does not get old. The good ones teach it to each other. [DLMBSFn-V151]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 151 <{filename}../dhA/dhA-chap11%zh.rst#dhp151>`__
 
@@ -487,6 +519,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 152 A man who has learnt little, grows old like an ox; his flesh grows, but his knowledge does not grow.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 152** 
+       | The person without learning grows old like an ox. 
+       | His flesh grows; his wisdom does not. [DLMBSFn-V152]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 152 <{filename}../dhA/dhA-chap11%zh.rst#dhp152>`__
@@ -571,6 +608,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 153, 154. Looking for the maker of this tabernacle, I shall have to run through a course of many births, so long as I do not find (him); and painful is birth again and again. But now, maker of the tabernacle, thou hast been seen; thou shalt not make up this tabernacle again. All thy rafters are broken, thy ridge-pole is sundered; the mind, approaching the Eternal (visankhara, nirvana), has attained to the extinction of all desires.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 153** 
+       | Through many rounds of rebirth have I ran, looking for the house-builder, 
+       | but not finding him. Painful is repeated rebirth. [DLMBSFn-V153]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 153 <{filename}../dhA/dhA-chap11%zh.rst#dhp153>`__
@@ -659,6 +701,12 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 153, 154. Looking for the maker of this tabernacle, I shall have to run through a course of many births, so long as I do not find (him); and painful is birth again and again. But now, maker of the tabernacle, thou hast been seen; thou shalt not make up this tabernacle again. All thy rafters are broken, thy ridge-pole is sundered; the mind, approaching the Eternal (visankhara, nirvana), has attained to the extinction of all desires.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 154** 
+       | Oh, house-builder, you are seen! You will not build this house again! 
+       | All your ribs are broken; the roof is destroyed. 
+       | My mind is dissolute; I have attained the end of all cravings. [DLMBSFn-V154]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 154 <{filename}../dhA/dhA-chap11%zh.rst#dhp154>`__
 
@@ -724,6 +772,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 155 Men who have not observed proper discipline, and have not gained treasure in their youth, perish like old herons in a lake without fish.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 155** 
+       | Those, who have not led the holy life, and have not obtained wealth while young, 
+       | ponder just like old herons in the lake without fish. [DLMBSFn-V155]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 155 <{filename}../dhA/dhA-chap11%zh.rst#dhp155>`__
@@ -798,6 +851,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 156 Men who have not observed proper discipline, and have not gained treasure in their youth, lie, like broken bows, sighing after the past.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 156** 
+       | Those, who have not led the holy life, and have not obtained wealth while young, 
+       | lie just like arrows shot from a bow, moaning over the past. [DLMBSFn-V156]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十一：老品 Dhp. 156 <{filename}../dhA/dhA-chap11%zh.rst#dhp156>`__
 
@@ -845,6 +903,8 @@
 .. [10] 〔註010〕　此英譯為 `Friedrich Max Müller <https://en.wikipedia.org/wiki/Max_M%C3%BCller>`__ 所譯；請參考原始出處(original): `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
 .. [11] 〔註011〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+
+.. [12] 〔註012〕　取材自： `經文選讀 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ （ `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/index.jsp>`__ --- 語言教學． `巴利語教學 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali1.jsp>`__ ）
 
 .. [LChnFn11-01] 〔註11-01〕  「燃燒」（Pajjalita）亦可譯為火燄。註釋謂世界有十一種火常在燃燒。即：貪（raga），瞋（dosa），癡（moha），病（vyadhi），老（jara），死（marana），愁（soka），悲（parideva），苦（dukkha），憂（domanasa），惱（upayasa）。
 
@@ -941,6 +1001,80 @@
                         The word anibbisam in 153 can be read either as the negative gerund of nibbisati ("earning, gaining a reward") or as the negative gerund of nivisati, altered to fit the meter, meaning "coming to a rest, settled, situated." Both readings make sense in the context of the verse, so the word is probably intended to have a double meaning: without reward, without rest.
 
 .. [VaradoFn-V147]  (Ven. Varado V.147) Verse 147: "orifice-marked" (arukāyaṃ). PED: "a heap of sores", which seems euphemistic.
+
+.. [DLMBSFn-V146] (DLMBS Commentary V146) Visākhā was one of the most famous female lay disciples. She was very devoted and generous. Once, some men from Sāvatthi asked Visākhā to be a companion to their wives, who were frivolous and liked to drink alcohol. Their husband hoped that Visākhā could have positive influence on them. 
+
+                  Once, the group of women went to the garden. The wives secretly brought some liquor and got drunk. When Visākhā found out about it, she was angry and reprimanded them. 
+
+                  At another occasion, the women wanted to go to the garden again. Visākhā refused, remembering what happened the last time. So they requested to go to the Jetavana monastery to pay respect to the Buddha. 
+
+                  After arriving at the monastery, the ladies again got drunk from the liquor they brought secretly along. Māra further influenced their minds and the women started to behave shamelessly: they were dancing, singing and jumping about. 
+
+                  When the Buddha saw this, he used his supernormal powers. He let the room get dark and illuminated the sky with rays of strong light. The women were frightened and awed at the same time. They got sober quickly. 
+
+                  The Buddha admonished them for their behavior and for getting drunk. He told them that drinking alcohol brings pain and unhappiness, it clouds our minds and then we are more likely to get under influence of evil passions. 
+
+                  At the end of the discourse, all the ladies were firmly established in the path and returned home mindfully and peacefully.
+
+.. [DLMBSFn-V147] (DLMBS Commentary V147) In Rājagaha there lived a beautiful courtesan named Sirimā. She was a devoted disciple of the Buddha and used to offer almsfood to the monks every day. One monk mentioned to his friends how generous and beautiful she was, how delicious the food offered by her was. One young monk heard this and fell in love with Sirimā without even seeing her. 
+
+                  The next day he joined the monks who went to her house. Although Sirimā was sick, she still paid her respects to the monks and gave them almsfood. After seeing her, the young monk desired her even more. 
+
+                  But that night Sirimā died. The Buddha wanted to teach the young monk a lesson, so asked the king to keep the corpse for few days without burying it. On the fourth day the dead body was put to the cemetery ground. It was no longer beautiful, it was bloated, stinky and full of worms. The Buddha told the young monk if he wanted to go to see Sirimā. The monk has not heard about her death so he was very happy to agree. How terrible his shock was when they got to the cemetery and he saw Sirimā’s corpse! 
+
+                  The Buddha then asked the king to announce, that anybody who paid one thousand coins, could spend the night with Sirimā. But nobody wanted to do so. The price went gradually down, until she was available for free. But even then there was nobody willing to spend the night with the corpse. 
+
+                  The Buddha then told the monks to realize, that few days ago many men would willing to pay even more than one thousand for a night with the courtesan, but now nobody wants her even for free. He further spoke on the subject of non-attachment to the body. The young monk gained insight into the true nature of the body and his love for Sirimā disappeared.
+
+.. [DLMBSFn-V148] (DLMBS Commentary V148) Uttarā was a very old nun - she was one hundred and twenty years old. But se was very generous and respectful. Many times she shared her almsfood with monks, just out of her kindness. 
+
+                  Once, while going on her almsround, she met the Buddha. Reverentially, she stepped out of his way and paid her homage. While she was doing that, she accidentally stepped on her own robe and fell down. 
+
+                  The Buddha consoled her and told her to understand the condition of her body. She was very old and her body frail and sick - she should practice diligently to perfect her mind. 
+
+                  Uttarā reflected on the Buddha's words and attained the first stage of Awakenment.
+
+.. [DLMBSFn-V149] (DLMBS Commentary V149) A group of monks once went to the forest to practice meditation. They were very diligent and very soon they attained very deep mental absorption (**jhāna**). They mistook this attainment for the Arahantship. Happily they returned to the Buddha and intended to tell him about their achievements.
+
+                  When they were about to approach, the Buddha asked Venerable Ānanda to send them to the cemetery first. Buddha knew about their mistaking **jhāna** for Awakenment and had an idea how to make them realize this mistake. 
+
+                  The monks went to the cemetery and saw different corpses there. When they saw old decaying bodies and bones, they were able to perceive them with equanimity. But when they saw some fresh corpses, they realized they still had some sensual desires left in them! The Buddha exhorted them with this verse. The monks finally understood how little had they achieved so far. 
+
+.. [DLMBSFn-V150] (DLMBS Commentary V150) Rūpanandā was the Buddha's stepsister and the fiancee of his cousin. She was very beautiful, so she was also known as Janapada Kalyāni ("Beauty of the area"). Because all of her relatives became monks and nuns, she decided to go to the monastery herself. But she did so only because of attachment to her family; she was not really devoted to the idea. 
+
+                  As she knew that the Buddha often talked about impermanency and non-attachment to the body, she did not dare to go to see him. She thought he would scold her for her beauty. But one day she finally decided to go and listen to one of the Buddha's discourses. 
+
+                  The Buddha knew that Rūpanandā is very attached to her body and conscious of her beauty. So he created a vision of a female form (visible only to Rūpanandā) to sit near him on the stage, where he was delivering his speech and to fan him. The girl was very young and extremely beautiful. Rūpanandā saw her and realized that compared to this girl she herself looked like a monkey. 
+
+                  While she was looking, the girl began to grow older. She became a young woman, then a grown up woman, middle aged, old - and finally she became a very old woman. Rūpanandā realized that the change of the body is a continuing process and she found out that this beautiful young girl changed into an old ugly woman. Then the woman on stage, no longer able to control her body, was lying there, dying and finally she died. Her body got swollen and worms were all over it. 
+
+                  Rūpanandā thus finally realized that also her beauty is very impermanent - it is a subject to illness, old age and death. The Buddha further instructed her with this verse and at the end Rūpanandā attained Arahantship.
+
+.. [DLMBSFn-V151] (DLMBS Commentary V151) Queen Mallikā was the wife of King Pasenadi. Once she went to the bathroom to wash herself and her dog entered with her. While she bent over to wash her feet, the dog started to misbehave with her and the queen did not stop it. When she came out, the king told her he saw everything through the window and scolded her for her behavior. But Mallikā denied doing anything and suggested that the bathroom was enchanted - whoever went inside could be seen doing strange things through the window. She sent the king inside and when he came out, she told him she saw him misbehaving with a goat. The king, not being very smart accepted this as an explanation. 
+
+                  But the queen felt very bad about lying to the king for many years. When she was dying, this moment kept coming to her consciousness over and over again. Because our dying thoughts determine our next birth, she was born in a state of suffering. The king wanted to ask the Buddha where Mallikā was reborn, but Buddha was not willing to tell him, because he did not want to hurt Pasenadi's feelings. 
+
+                  Only after seven days in the state of suffering, the queen was reborn in Tusita heaven as a result of her great meritorious deeds. Only then did the Buddha reply to the king's question. The king was happy to hear that, but at the same time he felt sad for her death. The Buddha replied with this verse, saying that everything is subject to old age and death; therefore we must practice the Dhamma diligently.
+
+.. [DLMBSFn-V152] (DLMBS Commentary V152) There was a monk named Lāludāyi. He was not very bright. He was never able to say things, which were appropriate for the occasion. On happy occasions he would talk about suffering and sorrow and on sorrowful occasions he would talk about happiness and joy. He was also never able to understand that he did and said something inappropriate in these cases. The Buddha spoke this verse in reference to Lāludāyi. 
+
+                  He also revealed the following story: in one of his former lives, Lāludāyi had been a farmer. He had two oxen to plow the fields. Suddenly one of them died. The farmer asked his son to go to the king and request another ox. But the son told him to go himself and taught him a verse to say in front of the king. 
+
+                  But the farmer made a mistake and instead of "My ox died, please give me another one", he said "My ox died, please take the other one away from me". 
+
+                  Fortunately, the king was very wise and understood that Lāludāyi just made a mistake and gave him sixteen oxen to help him with his farming.
+
+.. [DLMBSFn-V153] (DLMBS Commentary V153) This verse and the following one (DhP 154) are the first utterances of Prince Siddhattha Gotama, after he reached the supreme Awakenment, seating under the Tree of Awakenment. From that time on he was known as the Buddha. He finally comprehended what was the reason for suffering in the round of repeated rebirths - the craving that causes us to run in it over and over again. He formulated his teaching, summarized in the Four Noble Truths and became the founder of what is today known as Buddhism.
+
+.. [DLMBSFn-V154] (DLMBS Commentary V154) The story for this verse is identical with the story for the preceding one (DhP 153). It forms a part of the first utterance of the new Buddha (The Awakened One) just after he reached the Awakenment. He addressed the "builder" of his personality, the cravings. He finally understood that the craving is the main factor in the repeated rebirth. He destroyed "the ribs" or body of the craving and also "the roof of the house" or the reason for the round of repeated existence. His mind became dissolute, or in other words, he has reached the Nirvana. He has attained the end of all cravings and thus the end of the round of rebirth.
+
+.. [DLMBSFn-V155] (DLMBS Commentary V155) There was a rich man, named Mahādhana. He had a son. The boy had not studied anything while young, so he remained quite ignorant. Later he married a daughter of another rich man, who had no education at all. When their parents died, the young couple inherited immense riches. But since they knew only how to spend, and not how to earn and look after the money, they became poor very quickly. They lost all of their property and had to become beggars. 
+
+                  The Buddha saw them and commented the situation with this verse. He further said that had the young people study worldly wisdom, they would learn how to increase their riches, had they renounced the household life, they both could have attained Arahantship. But since they just wasted their youth away, they lost every opportunity - both material and spiritual.
+
+.. [DLMBSFn-V156] (DLMBS Commentary V156) The story for this verse is identical with the story for the previous one (DhP 155). 
+
+                  If we want to accomplish something in our lives, we have to start working early, in the young age. Be it material or spiritual goals, we should not waste our time and diligently learn the necessary skills and then apply them on the road to the goal we want to achieve. If we do nothing in our young age, all the opportunities will be lost and we will grow old, without ever accomplishing anything.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
