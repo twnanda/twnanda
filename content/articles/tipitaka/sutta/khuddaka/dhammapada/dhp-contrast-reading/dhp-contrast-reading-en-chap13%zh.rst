@@ -1,9 +1,9 @@
-==============================================================================================================================================
+====================================================================================================================================================
 Chapter 13. The World; Lokavaggo (Dhp.167-178), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.) 
-==============================================================================================================================================
+====================================================================================================================================================
 
 :date: 2016-06-28 21:30
-:modified: 2016-06-28 21:30
+:modified: 2016-09-24 18:00
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, The World, Lokavaggo, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Chapter 13. The World; Lokavaggo (Dhp.167-178), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -100,6 +100,13 @@ Chapter 13. The World; Lokavaggo (Dhp.167-178), Parallel Reading (paragraph gran
 
        167 Do not follow the evil law! Do not live on in thoughtlessness! Do not follow false doctrine! Be not a friend of the world.
 
+   * - Cited from DLMBS [8]_
+     - **Chapter 13: The World**
+
+       | **DhP 167** 
+       | Don't practice inferior teachings; don't connect with negligence. 
+       | Don't embrace wrong beliefs; don't be attached to the world. [DLMBSFn-V167]_
+
 .. _Dhp168:
 
 .. list-table:: Dhammapada Dhp. 168
@@ -149,6 +156,11 @@ Chapter 13. The World; Lokavaggo (Dhp.167-178), Parallel Reading (paragraph gran
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 168 Rouse thyself! do not be idle! Follow the law of virtue! The virtuous rests in bliss in this world and in the next.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 168** 
+       | Arise! Don't be negligent! Practice the good teaching! 
+       | One living in truth dwells happily, both in this world and in the next one. [DLMBSFn-V168]_
+
 .. _Dhp169:
 
 .. list-table:: Dhammapada Dhp. 169
@@ -196,6 +208,11 @@ Chapter 13. The World; Lokavaggo (Dhp.167-178), Parallel Reading (paragraph gran
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 169 Follow the law of virtue; do not follow that of sin. The virtuous rests in bliss in this world and in the next.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 169** 
+       | Practice the good teaching; don't practice the bad one! 
+       | One living in truth dwells happily, both in this world and in the next one. [DLMBSFn-V169]_
+
 .. _Dhp170:
 
 .. list-table:: Dhammapada Dhp. 170
@@ -237,6 +254,11 @@ Chapter 13. The World; Lokavaggo (Dhp.167-178), Parallel Reading (paragraph gran
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 170 Look upon the world as a bubble, look upon it as a mirage: the king of death does not see him who thus looks down upon the world.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 170** 
+       | As if one would see a bubble, as if one would see a mirage, 
+       | who observes the world like that, the King of Death does not see him. [DLMBSFn-V170]_
 
 .. _Dhp171:
 
@@ -281,6 +303,11 @@ Chapter 13. The World; Lokavaggo (Dhp.167-178), Parallel Reading (paragraph gran
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 171 Come, look at this glittering world, like unto a royal chariot; the foolish are immersed in it, but the wise do not touch it.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 171** 
+       | Come and look at this world, similar to a beautiful king's chariot. 
+       | Where the fools sink down, for those, who understand, there is no attachment. [DLMBSFn-V171]_
 
 .. _Dhp172:
 
@@ -329,6 +356,11 @@ Chapter 13. The World; Lokavaggo (Dhp.167-178), Parallel Reading (paragraph gran
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 172 He who formerly was reckless and afterwards became sober, brightens up this world, like the moon when freed from clouds.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 172** 
+       | Who has been formerly negligent, but later is not, 
+       | illuminates this world like a moon freed from cloud. [DLMBSFn-V172]_
+
 .. _Dhp173:
 
 .. list-table:: Dhammapada Dhp. 173
@@ -375,6 +407,11 @@ Chapter 13. The World; Lokavaggo (Dhp.167-178), Parallel Reading (paragraph gran
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 173 He whose evil deeds are covered by good deeds, brightens up this world, like the moon when freed from clouds.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 173** 
+       | Who covers his evil deeds with good ones, 
+       | illuminates this world like a moon freed from cloud. [DLMBSFn-V173]_
 
 .. _Dhp174:
 
@@ -463,6 +500,11 @@ Chapter 13. The World; Lokavaggo (Dhp.167-178), Parallel Reading (paragraph gran
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 175 The swans go on the path of the sun, they go through the ether by means of their miraculous power; the wise are led out of this world, when they have conquered Mara and his train.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 175** 
+       | Swans travel on the path of the sun. People travel through space by supernatural powers. 
+       | Wise ones are guided away from the world, having conquered Mara with his army. [DLMBSFn-V175]_
+
 .. _Dhp176:
 
 .. list-table:: Dhammapada Dhp. 176
@@ -505,6 +547,11 @@ Chapter 13. The World; Lokavaggo (Dhp.167-178), Parallel Reading (paragraph gran
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 176 If a man has transgressed one law, and speaks lies, and scoffs at another world, there is no evil he will not do.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 176** 
+       | For the person, who has transgressed the one law (of truthfulness) and is speaking falsely, 
+       | and has rejected the other world, there is no evil that could not be done. [DLMBSFn-V176]_
 
 .. _Dhp177:
 
@@ -553,6 +600,11 @@ Chapter 13. The World; Lokavaggo (Dhp.167-178), Parallel Reading (paragraph gran
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 177 The uncharitable do not go to the world of the gods; fools only do not praise liberality; a wise man rejoices in liberality, and through it becomes blessed in the other world.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 177** 
+       | Selfish ones do not get to the world of the gods. Fools do not praise giving. 
+       | And the wise one enjoys giving. Just because of that he is happy hereafter. [DLMBSFn-V177]_
 
 .. _Dhp178:
 
@@ -603,6 +655,11 @@ Chapter 13. The World; Lokavaggo (Dhp.167-178), Parallel Reading (paragraph gran
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 178 Better than sovereignty over the earth, better than going to heaven, better than lordship over all worlds, is the reward of the first step in holiness.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 178** 
+       | From sole sovereignty over the earth, or from going to heaven, 
+       | from lordship over the whole world, the fruit of Entering the Stream is the best. [DLMBSFn-V178]_
+
 --------------
 
 **the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
@@ -633,6 +690,8 @@ NOTE:
 .. [7] (note 007) original: `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
         THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
+
+.. [8] (note 8) original: `Readings in Pali Texts <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp>`__ ( `Digital Library & Museum of Buddhist Studies (DLMBS) <http://buddhism.lib.ntu.edu.tw/DLMBS/en/>`__ --- `Pali Lessons <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali1.jsp>`__ )
 
 .. [NāradaFn13-01] (Ven. Nārada 13-01) That is, sensual pleasures.
 
@@ -686,6 +745,99 @@ NOTE:
 .. [ThaniSFn-V176] (Ven. Thanissaro V.176) This verse is also found at Iti.25, where the context makes clear the meaning of ekam dhammam, or "this one thing": the principle of truthfulness.
 
 .. [ThaniSFn-V178] (Ven. Thanissaro V.178) The fruit of stream-entry is the first of the four stages of Awakening (see note 22). A person who has attained stream entry — entry into the stream that flows inevitably to Unbinding — is destined to attain full Awakening within at most seven lifetimes, never falling below the human state in the interim.
+
+.. [DLMBSFn-V167] (DLMBS Commentary V167) Visākhā was a very famous benefactress of the Buddhist Community from Sāvatthi. Once an older monks with his young pupil came to her house for almsfood. Visākhā's granddaughter was filtering water for the young monk and when she saw her reflection on the surface of the water, she laughed. The young monk also laughed. The girl got angry and said, "You shaven head, why do you laugh at me?!" The monk did not like it and replied, "You and your family are shaven heads yourself!" The girl went weeping to Visākhā. Visākhā tried to appease both the girl and the monk but the monk was angry and did not accept her explanations and apologies. The older monk also tried his best but did not succeed either. 
+
+                  The matter was brought to the Buddha, who saw that the monk was ready to reach the first stage of Awakenment. So he asked Visākhā, "Why did your granddaughter had to address my monk as a shaven head? All the monks had to shave their heads when they became members of the Community!" The young monk felt very happy and praised the Buddha that he was the only one who could understand him. The Buddha then replied with this verse, saying that the monk was also to blame; he should not quarrel because of such a small and unimportant thing. Hearing that, the young monk reached the first stage of Awakenment.
+
+.. [DLMBSFn-V168] (DLMBS Commentary V168) When the Buddha attained Awakenment, one of his first big journeys took him to the city of Kapilavatthu, where most of his family lived. He stayed at the outskirts of the city, in the Nigrodhārāma monastery. His father, king Suddhodana, assumed, that his son would come to his palace for food and made a lot of almsfood prepared. However, he did not invite the Buddha, as was necessary. 
+
+                  So the Buddha went on almsround around the city, as was his custom. He asked himself, if this was the proper course of action and realized that all the Buddhas of the past also went on almsround around the city they were born. 
+
+                  Suddhodana heard about it and went to the Buddha, saying, "Why should my son ask for alms in the very city, where he used to travel in a golden palanquin? I am so ashamed!" 
+
+                  The Buddha explained to him that he was only following the old custom of all the Buddhas and did not wish to put Suddhodana to shame. He also uttered this verse and the following one (DhP 169). The king finally accepted it and was no longer offended.
+
+.. [DLMBSFn-V169] (DLMBS Commentary V169) The story for this verse is identical with the story for the preceding one (DhP 168).
+
+.. [DLMBSFn-V170] (DLMBS Commentary V170) A group of monks went to the forest to practice meditation. But they made very little progress and decided to return to the Buddha and ask for further instructions. On the way to the monastery it was very hot and they saw a mirage. Then a storm broke out and the rain made bubbles on the ground, which soon disappeared. The monks reflected on the mirage and the bubbles, comparing it to their own bodies. Very soon they all attained Arahantship. 
+
+                  When they related the matter to the Buddha he uttered this verse, saying that this form of meditation was very good and one is able to reach the goal quickly.
+
+.. [DLMBSFn-V171] (DLMBS Commentary V171) Prince Abhaya was sent to repress some rebellion at the frontier. He did this job very successfully and so king Bimbisāra gave him the honor of a ruler for seven days. He was also given a young dancing girl for entertainment. But on the seventh day the girl died from exhaustion. The prince was very shocked and sad. 
+
+                  He went to see the Buddha, who consoled him with this verse, saying that we should not be attached to worldly things.
+
+.. [DLMBSFn-V172] (DLMBS Commentary V172) There was a monk named Sammunjjani. He spent most of his time inside the monastery, sweeping the premises. Venerable Revata was staying at the same monastery, practicing meditation. Sammunjjani thought Revata to be very lazy and one day confronted him and asked him if he did not think it would be proper for him to help him to sweep the monastery. Revata replied, that a monk should sweep for a short time in the morning and then should practice meditation and try to perceive the true nature of things in order to reach Awakenment. Sammunjjani closely followed this advice and in a very short time he became an Arahant. 
+
+                  Some other monks then asked him why he did not sweep as much as before. Sammunjjani replied that when he was negligent, he was sweeping all the time, but now he was mindful and so does not sweep so often. The monks went to the Buddha and reported to him, that Sammunjjani claims to be an Arahant. The Buddha confirmed, that Sammunjjani indeed reached the Awakenment and added this verse for the benefit of others.
+
+.. [DLMBSFn-V173] (DLMBS Commentary V173) In Kosala there lived a Brahmin, who was in the court of King Pasenadi. He had a son Ahimsaka. His father sent him to the famous city of Taksasilā for studies. He was very intelligent and obedient and so his teacher and his wife liked him very much. But other students were jealous of him and so accused him of having an affair with teacher's wife. The teacher, being told the same story from number of people, started to believe it. But he did not want to kill Ahimsaka. He came up with another idea. 
+
+                  At the end of the studies, it was a custom for the students to give presents to teachers and thank them for their effort. Ahimsaka's teacher told him to kill one thousand people and bring him a garland made of one thousand fingers. Ahimsaka had no other choice, but to start killing. He started to wear the garland around his neck to keep track of the number of fingers. He therefore became known as Angulimāla ("Finger-garland"). 
+
+                  The king dispatched some soldiers to catch him. When his mother heard about this, she went into the forest in search of her son. By that time, Angulimāla's garland had nine hundred and ninety-nine fingers on it; just one finger was missing. 
+
+                  The Buddha realized that if he did not intervene, Angulimāla would kill his own mother in his desperation to make up the one thousand. So he went to the forest himself. 
+
+                  When Angulimāla saw the Buddha, he ran after him with his knife. But no matter ho quickly he ran, the Buddha always stayed ahead of him. Finally, he cried, "O monk, stop!" The Buddha replied, "I have stopped, it is you who has to stop!" 
+
+                  Angulimāla was confused and asked him what he meant. The Buddha explained, that he himself has stopped killing and hurting all living beings whereas Angulimāla has not and should therefore stop. Angulimāla realized his mistake and asked the Buddha to admit him into the Order of monks. The Buddha did so. 
+
+                  When the king heard that Angulimāla has given up his evil deeds and was now living as a monk, he decided not to prosecute him. Angulimāla practiced meditation diligently and in the due course he attained Arahantship. 
+
+                  But his past evil deeds were always hunting him. Whenever he went on an almsround, he became a target of stones and sticks and returned to the monastery with broken head and bleeding. The Buddha always told him to realize what suffering would await him in his future lives had he not reached the Awakenment. 
+
+                  One day, Angulimāla saw a pregnant woman giving birth and in great pains. He recited, "Sister, since the day I became an Arahant, I have not consciously killed any living being. By the power of this truth, may you and your child be well." The woman delivered instantly and her pain ceased. This verse became known as Angulimāla-paritta and is used in similar cases to this day. 
+
+                  When Angulimāla died, other monks asked about his future life. When the Buddha declared, that Angulimāla has attained Arahantship and therefore there were no future lives for him, some monks were surprises, how was it possible for somebody who killed so many people to have reached the goal so quickly? The Buddha replied with this verse, saying that Angulimāla's evil deeds were negated by his diligent and mindful practice of meditation and highly moral life.
+
+.. [DLMBSFn-V174] (DLMBS Commentary V174) The Buddha once stayed in Ālavi and spoke to its people about the impermanence of life. He told them to be aware of death and to reflect that their life is uncertain. He added that they should practice mindfulness as a weapon against the death. Many people did not really understand what he was talking about, but some did. Amongst them there was a young girl, who was a weaver by profession. 
+
+                  Later the Buddha returned to Ālavi. The girl wanted to hear his discourse, but her father asked her to wind some thread spools and bring them to him. She did the job quickly and on the way to her father she stopped by the place where the Buddha was talking and listened. 
+
+                  The Buddha knew that the girl was ready to reach the first stage of Awakenment and so he looked at her directly. The girl approached respectfully. The Buddha then asked her four questions and she replied as follows:
+
+                  | "Where have you come from?" "I don't know." 
+                  | "Where are you going?" "I don't know." 
+                  | "Don't you know?" "Yes, I know." 
+                  | "Do you know?" "I don't know."
+
+                  Many people thought her answers were disrespectful, but the girl explained. By the first question the Buddha meant if she knew what was her previous existence. She replied that she did not know. The second question meant if she knew what would be her future existence. Since she did not know, she said so. The third question meant if she did not know that she would die one day. She replied she knew. And the last question meant if she knew when exactly would she die. She did not know and replied truthfully. 
+
+                  The Buddha applauded her and delivered a discourse. The girl attained the first stage of Awakenment. 
+
+                  Then she continued to her father. He was asleep and she woke him up. When he was waking up, her father accidentally pulled the shuttle and the sharp point hit the girl in her chest. She died instantly and was reborn in the Tusita heaven. Her father, full of remorse and broken-hearted went to the Buddha and asked to be admitted into the Order as a monk. The Buddha granted him permission and the man attained Arahantship soon.
+
+.. [DLMBSFn-V175] (DLMBS Commentary V175) At one occasion, thirty monks came to visit the Buddha. While they were talking, the Buddha’s attendant, Venerable Ānanda , went outside. When he came back he was surprised to see no monks inside. 
+
+                  When asked, the Buddha said that they left flying through the air, because they attained Arahantship, including supernatural powers. 
+
+                  Just then, the Buddha saw some swans flying in the sky and told Ānanda  that Arahants leave this world just as easily as the swans fly through the air.
+
+.. [DLMBSFn-V176] (DLMBS Commentary V176) The Buddha did not have only admirers and devotees. Some other teachers hated him for being so famous and for taking many disciples away from them. One such teacher instigated a beautiful young girl, a pupil of his, to ruin the Buddha's fame. 
+
+                  The girl, named Ciñca Mānavikā, would go towards the Jetavana monastery in the evening and return early in the morning, claiming she spent the night with the Buddha. After several months of this behavior, she started wrapping cloth around her stomach. She added more and more cloth to create an impression she was pregnant. Finally she went to the monastery to confront the Buddha. She accused him of making her pregnant and not caring about her. The Buddha told her not to lie, but she would just repeat her statements. 
+
+                  Just then Sakka, the king of gods, sent some rats to bit off the strings of the cloth the girl had wrapped around her body. It fell off and her deceit was uncovered. People started to reprimand her and she ran away in shame. Later she died due to an accident. 
+
+                  The next day some monks were discussing this story and the Buddha replied them with this verse, saying that lying is the first step towards all kinds of evil deeds. 
+
+                  He also told them, that Ciñca Mānavikā was a king's consort in one of her previous lives. She fell in love with a crown prince, but the young man did not respond to her love. She harmed herself and accused the prince of making advances to her and when she refused, he harmed her. The king was very angry and exiled his son immediately. Later he found out the truth and punished the evil woman.
+
+.. [DLMBSFn-V177] (DLMBS Commentary V177) King Pasenadi of Kosala was once competing with his subjects in almsgiving. However big offering the king made, his subjects always found a way to give more alms. Queen Mallikā then devised a plan. She had a great pavilion built, brought many white umbrellas and tame elephants. The elephants held the umbrellas over the monks. In the middle of the pavilion there was a lake with ten boats filled with incense and perfume. Finally, princesses served the food. Because the subjects had no elephants or umbrellas (white umbrellas could be owned only by kings) and of course had no princesses, they could not compete any more. 
+
+                  Two ministers of the king were present. One of them praised the king for offering so much. He realized that the merit would be shared by all the living beings in the kingdom. The other minister however thought that the king was giving away the national wealth for the sake of some lazy monks. 
+
+                  After the meal, the Buddha prepared to make a speech. He understood what the second minister was feeling and so he decided to give only a short speech instead of a long one he was originally planning. The king was disappointed by such a brief sermon and he reflected what he had done wrong. Therefore he went to the monastery and asked the Buddha. 
+
+                  The Buddha told him about one of his ministers and explained that had he delivered a long speech, the minister would be disappointed even more. The Buddha further added this verse for the benefit of the king.
+
+.. [DLMBSFn-V178] (DLMBS Commentary V178) Anāthapindika was a very famous benefactor of the Buddha and his followers. But his son Kāla did not have any interest in the teaching of the Buddha and would never come to attend the almsgiving ceremonies. His father was afraid that Kāla would never be able to understand the Dharma. So he promised his son one hundred pieces of gold if he went to the monastery for one day. The young man did so, but did not pay any attention to what was being said there. 
+
+                  At another time Anāthapindika promised Kāla one thousand pieces of gold if he could recite one verse of the Buddha's teaching. Because the Buddha knew Kāla was interested only in the money, he made it impossible for him to memorize anything. Thus Kāla went to the monastery very often and gradually he was able to understand the Dharma and attained the first level of Awakenment, called Entering the Stream. 
+
+                  In the morning of that day, he accompanied the Buddha and some monks to his father's house for the almsgiving. When his father offered him the money he earned, Kāla refused. The Buddha then explained that since Kāla attained the first level of Awakenment, he was on longer interested in the money. He further added this verse, saying that Entering the Stream was the best thing one could attain, far better than any worldly power or even attainment of a rebirth in heavens.
 
 --------------
 
