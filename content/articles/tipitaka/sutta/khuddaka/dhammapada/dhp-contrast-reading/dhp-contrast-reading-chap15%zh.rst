@@ -3,7 +3,7 @@
 =======================================================================
 
 :date: 2016-06-04 16:00
-:modified: 2016-08-22 15:00
+:modified: 2016-09-27 16:00
 :tags: 法句經, 法句經對讀, 樂品, Dhp, Dhammapada, Sukhavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Happiness
@@ -137,6 +137,13 @@
 
        197 Let us live happily then, not hating those who hate us! among men who hate us let us dwell free from hatred!
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - **Chapter 15: The Happiness**
+
+       | **DhP 197** 
+       | Very happily indeed we live, free of hatred amongst hateful. 
+       | Amongst hateful people we dwell without hatred. [DLMBSFn-V197]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 197 <{filename}../dhA/dhA-chap15%zh.rst#dhp197>`__
 
@@ -209,6 +216,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 198 Let us live happily then, free from ailments among the ailing! among men who are ailing let us dwell free from ailments!
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 198** 
+       | Very happily indeed we live, healthy amongst diseased ones. 
+       | Amongst diseased people we dwell healthy. [DLMBSFn-V198]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 198 <{filename}../dhA/dhA-chap15%zh.rst#dhp198>`__
 
@@ -280,6 +292,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 199 Let us live happily then, free from greed among the greedy! among men who are greedy let us dwell free from greed!
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 199** 
+       | Very happily indeed we live, without greed amongst greedy ones. 
+       | Amongst greedy people we dwell without greed. [DLMBSFn-V199]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 199 <{filename}../dhA/dhA-chap15%zh.rst#dhp199>`__
@@ -362,6 +379,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 200 Let us live happily then, though we call nothing our own! We shall be like the bright gods, feeding on happiness!
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 200** 
+       | Very happily indeed we live, who have nothing whatsoever. 
+       | We will be feeding on joy, just like the Radiant Gods. [DLMBSFn-V200]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 200 <{filename}../dhA/dhA-chap15%zh.rst#dhp200>`__
 
@@ -426,6 +448,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 201 Victory breeds hatred, for the conquered is unhappy. He who has given up both victory and defeat, he, the contented, is happy.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 201** 
+       | Victory produces hatred. Defeated one dwells in pain. 
+       | Tranquil one dwells happily, having renounced both victory and defeat. [DLMBSFn-V201]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 201 <{filename}../dhA/dhA-chap15%zh.rst#dhp201>`__
@@ -495,6 +522,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 202 There is no fire like passion; there is no losing throw like hatred; there is no pain like this body; there is no happiness higher than rest.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 202** 
+       | There is no fire like passion. There is no evil like hatred. 
+       | There is no suffering like the Aggregates of existence. There is no happiness higher than tranquility. [DLMBSFn-V202]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 202 <{filename}../dhA/dhA-chap15%zh.rst#dhp202>`__
 
@@ -562,6 +594,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 203 Hunger is the worst of diseases, the body the greatest of pains; if one knows this truly, that is Nirvana, the highest happiness.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 203** 
+       | Hunger is the highest illness. Conditioned things are the highest suffering.
+       | Having known this as it is, Nirvana is the highest happiness. [DLMBSFn-V203]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 203 <{filename}../dhA/dhA-chap15%zh.rst#dhp203>`__
@@ -637,6 +674,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 204 Health is the greatest of gifts, contentedness the best riches; trust is the best of relationships, Nirvana the highest happiness.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 204** 
+       | Health is the highest gain. Contentment is the highest wealth. 
+       | Trusted people are the best relatives. Nirvana is the highest happiness. [DLMBSFn-V204]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 204 <{filename}../dhA/dhA-chap15%zh.rst#dhp204>`__
 
@@ -695,6 +737,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 205 He who has tasted the sweetness of solitude and tranquillity, is free from fear and free from sin, while he tastes the sweetness of drinking in the law.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 205** 
+       | Having drunk the nectar of solitude and the nectar of tranquility, 
+       | one is free of fear and free of evil, drinking the nectar of the joy of Dharma. [DLMBSFn-V205]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 205 <{filename}../dhA/dhA-chap15%zh.rst#dhp205>`__
@@ -775,6 +822,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 206 The sight of the elect (Arya) is good, to live with them is always happiness; if a man does not see fools, he will be truly happy.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 206** 
+       | Good is seeing the Noble Ones; association with them is always happy. 
+       | By not seeing fools on would always be happy. [DLMBSFn-V206]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 206 <{filename}../dhA/dhA-chap15%zh.rst#dhp206>`__
@@ -859,6 +911,12 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 207 He who walks in the company of fools suffers a long way; company with fools, as with an enemy, is always painful; company with the wise is pleasure, like meeting with kinsfolk.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 207** 
+       | One who lives together with fools will suffer for a long time. 
+       | The company of fools is always painful - like the company of an enemy. 
+       | And a wise one is pleasant to live with, like meeting with relatives. [DLMBSFn-V207]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 207 <{filename}../dhA/dhA-chap15%zh.rst#dhp207>`__
@@ -958,6 +1016,14 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 208 Therefore, one ought to follow the wise, the intelligent, the learned, the much enduring, the dutiful, the elect; one ought to follow a good and wise man, as the moon follows the path of the stars.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 208** 
+       | Therefore: 
+       | Clever and wise and learned, 
+       | virtuous, devout and noble - 
+       | associate with such a smart true person, 
+       | just like the moon follows the path of the stars. [DLMBSFn-V208]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十五：樂品 Dhp. 208 <{filename}../dhA/dhA-chap15%zh.rst#dhp208>`__
 
@@ -1005,6 +1071,8 @@
 .. [10] 〔註010〕　此英譯為 `Friedrich Max Müller <https://en.wikipedia.org/wiki/Max_M%C3%BCller>`__ 所譯；請參考原始出處(original): `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
 .. [11] 〔註011〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+
+.. [12] 〔註012〕　取材自： `經文選讀 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ （ `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/index.jsp>`__ --- 語言教學． `巴利語教學 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali1.jsp>`__ ）
 
 .. [LChnFn15-01] 〔註15-01〕  日譯本為「安樂品」。
 
@@ -1093,6 +1161,66 @@
 .. [NāradaFn15-12] (Ven. Nārada 15-12) Far removed from passions.
 
 .. [BudRkFn-v202] (Ven. Buddharakkhita v. 202) Aggregates (of existence) (khandha): the five groups of factors into which the Buddha analyzes the living being — material form, feeling, perception, mental formations, and consciousness.
+
+.. [DLMBSFn-V197] (DLMBS Commentary V197) On the bank of the river Rohini there was the town of Kapilavatthu, where the Buddha's own relatives, Sākyans, lived. On the other side of that river there was the town of Koliya, where lived the Koliyans, who were also related to Sākyans. Both towns and farms around it used the water from Rohini River. 
+
+                  One year there was a severe draught. There was not enough water for everybody. Both sides started to quarrel because of water. No compromise could be found so both sides prepared to fight. 
+
+                  The Buddha found out about this and decided to stop the bloodshed. As both armies assembled on the riverbanks, the Buddha appeared in the middle. He then admonished them, that for the sake of water, which has little value, they were willing to sacrifice their lives, which were so precious and priceless! He further told them this verse and the two following ones (DhP 198, DhP 199). Both sides became ashamed and reached a compromise. Thus the war did not happen.
+
+.. [DLMBSFn-V198] (DLMBS Commentary V198) The story for this verse is identical with the one for the previous verse (DhP 197) and also the following verse (DhP 198).
+
+.. [DLMBSFn-V199] (DLMBS Commentary V199) The story for this verse is identical with the story for the two previous verses (DhP 197, DhP 198).
+
+.. [DLMBSFn-V200] (DLMBS Commentary V200) The Buddha once saw that a group of young girls from Pañcasāla village was very close to attaining the first stage of Awakenment. One day, when the girls were returning from the bath at the river, the Buddha entered the village for almsfood. However, the villagers were influenced by Māra and gave him nothing. 
+
+                  When the Buddha left the village, he met Māra who asked him if he has received enough almsfood. The Buddha, knowing that Māra influenced the villagers, admonished him for doing such a wrong deed. Māra wanted to make further fun of the Buddha and so told him to go back to the village to ask for almsfood again. 
+
+                  When the Buddha returned to the village, the girls came back from their bath and paid their homage to him. Māra appeared again and asked the Buddha if he was not quite hungry, not having eaten anything that day. The Buddha replied with this verse, saying that even if he did not get any food at all, he would sustain himself on joy and satisfaction, like the Radiant Gods, who live in constant joy and happiness.
+
+.. [DLMBSFn-V201] (DLMBS Commentary V201) King Ajātasattu was the son of King Bimbisāra and Queen Vedehi, the sister of the King of Kosala. Ajātasattu and the King of Kosala went to war three times. The King of Kosala was always defeated. Because of this, he was very depressed. He lamented that it was a terrible disgrace; he was not able to defeat Ajātasattu, who was very young and inexperienced. The King refused to eat and just stayed in his bed all the time. 
+
+                  When the Buddha learned about this, he admonished him with this verse. The King realized there was no victory in war and became the Buddha's devoted follower.
+
+.. [DLMBSFn-V202] (DLMBS Commentary V202) Once the Buddha was invited for almsfood to a house on the day the daughter of the family was getting married. Her bridegroom was very excited when he was observing her bringing almsfood and as a result he was not able to pay any attention to what the Buddha said. 
+
+                  The Buddha knew both the bride and the bridegroom were very close to realizing the Dharma and so he willed for the bridegroom not to see the bride and vice versa. Both young people then were able to pay attention to the Buddha's words. He told them this verse. 
+
+                  Reflecting on the meaning of the verse both the bride and the bridegroom realized the Dharma and became lay followers of the Buddha.
+
+.. [DLMBSFn-V203] (DLMBS Commentary V203) Once the Buddha came to the village of Ālavi. On that day, one poor man had lost his ox and he spent the whole morning looking for it everywhere. 
+
+                  The villagers offered almsfood to the Buddha and monks. After the meal, everybody got ready to listen to the Dharma, but the Buddha waited for the poor man, because he knew the man was very close to attaining the first stage of Awakenment. 
+
+                  When the man found his ox, he came back to the village. He was very tired and hungry. So the Buddha directed the villagers to let him eat first and only then he expounded the Dharma. At the end of the discourse, the poor man attained the first stage of Awakenment. 
+
+                  Later the monks asked the Buddha why he waited for the man before he delivered the discourse. The Buddha told them that the man was very hungry and very tired and if he had not eaten, he might not be able to comprehend the Dharma fully and reach the first stage of Awakenment.
+
+.. [DLMBSFn-V204] (DLMBS Commentary V204) The King Pasenadi of Kosala once came to the monastery to hear the Dharma. But on that day he ate too much and as a result he was sleepy, did not pay much attention and was only sitting there and nodding. 
+
+                  Seeing him, the Buddha advised him not to overeat, because moderation in food brings comfort to the body. Pasenadi did as he was told and after a time he lost some weight, was more fit and began to feel much better. 
+
+                  The Buddha then told him this verse, saying that health is the greatest gain and we should do everything to attain it.
+
+.. [DLMBSFn-V205] (DLMBS Commentary V205) The Buddha announced that in four months he would attain his final Parinirvana (death of a Buddha or any fully Awakened person). Many monks who had not yet attained the Awakenment were sad and depressed. They all came to the presence of the Buddha and paid him their respects. 
+
+                  But Venerable Tissa decided that he would pay the highest honor to the Buddha by attaining the Awakenment while he was still alive. Therefore he went to the secluded place in the forest and practiced meditation diligently. 
+
+                  Other monks did not understand his intentions and reported to the Buddha that Tissa had no respect for him and kept to himself instead of coming to pay his respects to the teacher. 
+
+                  The Buddha told them that Tissa was striving to attain Awakenment before the teacher died and then explained that this was the best way to honor the Buddha. The best salutation to the Buddha is practicing the Dharma diligently. At the end, the Buddha told the monks this verse.
+
+.. [DLMBSFn-V206] (DLMBS Commentary V206) Ten months before he reached the Parinirvana, the Buddha was staying at the village of Beluva. While he was there, he got sick. He suffered from dysentery. Sakka, the King of the Gods, personally came to attend to him. The Buddha told him there were many monks who could help him around, but Sakka insisted on helping the Buddha personally. 
+
+                  The monks were very surprised to find Sakka attending to the Buddha. The Buddha told them there was nothing surprising about this. In his previous life, Sakka heard the Dharma just for a short while, moments before he died. As a result, he was born as the present Sakka, the King of the Gods. Then the Buddha told the monks this verse and two following ones (DhP 207, DhP 208).
+
+.. [DLMBSFn-V207] (DLMBS Commentary V207) The story for this verse is identical with the one for the previous verse (DhP 206) and the following one (DhP 208). 
+
+                  The company of fools is not good for someone who wants to achieve his spiritual goal. In the company of fools we will learn nothing new, nothing important or good. We will only stagnate and eventually we will become just one of the fools.
+
+.. [DLMBSFn-V208] (DLMBS Commentary V208) The story for this verse is identical with the one for the two previous verses (DhP 206 and DhP 207). 
+
+                  As the moon follows and "associates with" the stars on the night sky, so should people who want to reach the highest goal follow and associate with only the best companions, who can teach one a lot on the way to the spiritual progress.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
