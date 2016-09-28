@@ -3,7 +3,7 @@
 =========================================================================
 
 :date: 2016-06-04 16:30
-:modified: 2016-08-22 15:30
+:modified: 2016-09-28 17:00
 :tags: 法句經, 法句經對讀, 忿怒品, Dhp, Dhammapada, Kodhavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Anger
@@ -122,6 +122,15 @@
 
        221 Let a man leave anger, let him forsake pride, let him overcome all bondage! No sufferings befall the man who is not attached to name and form, and who calls nothing his own.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - **Chapter 17: Anger**
+
+       | **DhP 221** 
+       | Renounce anger; abandon pride. 
+       | Overcome all fetters. 
+       | The one, who is not attached to mind and body, 
+       | and has nothing, is not followed by suffering. [DLMBSFn-V221]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十七：忿怒品 Dhp. 221 <{filename}../dhA/dhA-chap17%zh.rst#Dhp221>`__
 
@@ -187,6 +196,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 222 He who holds back rising anger like a rolling chariot, him I call a real driver; other people are but holding the reins.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 222** 
+       | Who would restrain rising anger, like a swaying chariot, 
+       | him I call a charioteer. Other people just hold the reins. [DLMBSFn-V222]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十七：忿怒品 Dhp. 222 <{filename}../dhA/dhA-chap17%zh.rst#Dhp222>`__
 
@@ -247,6 +261,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 223 Let a man overcome anger by love, let him overcome evil by good; let him overcome the greedy by liberality, the liar by truth!
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 223** 
+       | Conquer anger by non-anger; conquer badness by goodness. 
+       | Conquer stinginess by giving; conquer liar by truth. [DLMBSFn-V223]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十七：忿怒品 Dhp. 223 <{filename}../dhA/dhA-chap17%zh.rst#Dhp223>`__
@@ -312,6 +331,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 224 Speak the truth, do not yield to anger; give, if thou art asked for little; by these three steps thou wilt go near the gods.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 224** 
+       | Speak truth; don't get angry; when asked, give, even a little. 
+       | By these three means one will go to the presence of gods. [DLMBSFn-V224]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十七：忿怒品 Dhp. 224 <{filename}../dhA/dhA-chap17%zh.rst#Dhp224>`__
 
@@ -369,6 +393,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 225 The sages who injure nobody, and who always control their body, they will go to the unchangeable place (Nirvana), where, if they have gone, they will suffer no more.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 225** 
+       | The wise ones, who are not hurting, always guarding their behavior, 
+       | they will go to the Permanent Place (Nirvana), where one does not grieve. [DLMBSFn-V225]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十七：忿怒品 Dhp. 225 <{filename}../dhA/dhA-chap17%zh.rst#Dhp225>`__
@@ -428,6 +457,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 226 Those who are ever watchful, who study day and night, and who strive after Nirvana, their passions will come to an end.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 226** 
+       | Those, who are always watchful, studying all day and night, 
+       | intent upon reaching the Nirvana - their taints disappear. [DLMBSFn-V226]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十七：忿怒品 Dhp. 226 <{filename}../dhA/dhA-chap17%zh.rst#Dhp226>`__
@@ -505,6 +539,12 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 227 This is an old saying, O Atula, this is not only of to-day: 'They blame him who sits silent, they blame him who speaks much, they also blame him who says little; there is no one on earth who is not blamed.'
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 227** 
+       | O Atula, this is an old thing; it is not just today. 
+       | They blame one who is sitting silently; they blame one who is speaking a lot. 
+       | They blame also the one who is speaking moderately. There is nobody blameless in the world. [DLMBSFn-V227]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十七：忿怒品 Dhp. 227 <{filename}../dhA/dhA-chap17%zh.rst#Dhp227>`__
 
@@ -575,6 +615,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 228 There never was, there never will be, nor is there now, a man who is always blamed, or a man who is always praised.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 228** 
+       | There never was, never will be and even now does not exist 
+       | a person who is only blamed or only praised. [DLMBSFn-V228]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十七：忿怒品 Dhp. 228 <{filename}../dhA/dhA-chap17%zh.rst#Dhp228>`__
 
@@ -636,6 +681,12 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 229, 230. But he whom those who discriminate praise continually day after day, as without blemish, wise, rich in knowledge and virtue, who would dare to blame him, like a coin made of gold from the Gambu river? Even the gods praise him, he is praised even by Brahman.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 229** 
+       | Whom the wise ones praise, having examined him thoroughly day after day, 
+       | one with faultless conduct, intelligent, endowed with wisdom and virtue, 
+       | [continued in DhP 230] [DLMBSFn-V229]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十七：忿怒品 Dhp. 229 <{filename}../dhA/dhA-chap17%zh.rst#Dhp229>`__
 
@@ -694,6 +745,12 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 229, 230. But he whom those who discriminate praise continually day after day, as without blemish, wise, rich in knowledge and virtue, who would dare to blame him, like a coin made of gold from the Gambu river? Even the gods praise him, he is praised even by Brahman.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 230** 
+       | [continued from DhP 229] 
+       | Who is worthy enough to blame him, like a ring made of gold? 
+       | Even gods praise him; he is praised also by Brahma. [DLMBSFn-V230]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十七：忿怒品 Dhp. 230 <{filename}../dhA/dhA-chap17%zh.rst#Dhp230>`__
@@ -776,6 +833,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 231 Beware of bodily anger, and control thy body! Leave the sins of the body, and with thy body practise virtue!
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 231** 
+       | Protect yourself from blameworthy conduct; guard your body well. 
+       | Having renounced the wrong bodily deed, practice the right bodily action. [DLMBSFn-V231]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十七：忿怒品 Dhp. 231 <{filename}../dhA/dhA-chap17%zh.rst#Dhp231>`__
 
@@ -855,6 +917,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 232 Beware of the anger of the tongue, and control thy tongue! Leave the sins of the tongue, and practise virtue with thy tongue!
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 232** 
+       | Protect yourself from blameworthy speech; guard your speech well. 
+       | Having renounced the wrong verbal deed, practice the right verbal action. [DLMBSFn-V232]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十七：忿怒品 Dhp. 232 <{filename}../dhA/dhA-chap17%zh.rst#Dhp232>`__
 
@@ -933,6 +1000,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 233 Beware of the anger of the mind, and control thy mind! Leave the sins of the mind, and practise virtue with thy mind!
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 233** 
+       | Protect yourself from blameworthy thoughts; guard your mind well. 
+       | Having renounced the wrong mental deed, practice the right mental action. [DLMBSFn-V233]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十七：忿怒品 Dhp. 233 <{filename}../dhA/dhA-chap17%zh.rst#Dhp233>`__
@@ -1023,6 +1095,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 234 The wise who control their body, who control their tongue, the wise who control their mind, are indeed well controlled.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 234** 
+       | The wise ones, who are restrained in bodily conduct, in speech, 
+       | and in mind, they are indeed well and thoroughly restrained. [DLMBSFn-V234]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　十七：忿怒品 Dhp. 234 <{filename}../dhA/dhA-chap17%zh.rst#Dhp234>`__
 
@@ -1070,6 +1147,8 @@
 .. [10] 〔註010〕　此英譯為 `Friedrich Max Müller <https://en.wikipedia.org/wiki/Max_M%C3%BCller>`__ 所譯；請參考原始出處(original): `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
 .. [11] 〔註011〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+
+.. [12] 〔註012〕　取材自： `經文選讀 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ （ `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/index.jsp>`__ --- 語言教學． `巴利語教學 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali1.jsp>`__ ）
 
 .. [LChnFn17-01] 〔註17-01〕  「名色」（Namarupa）即精神與物質，亦可說心身。
 
@@ -1130,6 +1209,94 @@
 .. [ThaniSFn-V231-233] (Ven. Thanissaro V. 231-233) Bodily misconduct = killing, stealing, engaging in illicit sex. Verbal misconduct = lies, divisive speech, harsh speech, idle chatter. Mental misconduct = covetousness, ill will, wrong views.
 
 .. [VaradoFn-V221] (Ven. Varado V.221) Verse 221: "free of all identity" (akiñcanaṃ). PED: having nothing. 
+
+.. [DLMBSFn-V221] (DLMBS Commentary V221) There are ten fetters (saṃyojana). They can be divided into two kinds, five so called "lower" or "big" fetters and five "higher" or "small" fetters. 
+  
+                  The five big fetters are:
+
+                  1) personality belief (sakkāya-diṭṭhi), 
+                  2) skeptical doubt (vicikicchā), 
+                  3) clinging to rules and rituals (sīlabbata-paramāsa), 
+                  4) sensuous craving (kāma-rāga), 
+                  5) ill-will (vyāpāda). 
+  
+                  The five small fetters are: 
+
+                  1) craving for fine-material existence (rūpa-rāga), 
+                  2) craving for immaterial existence (arūpa-rāga), 
+                  3) conceit (māna), 
+                  4) restlessness (uddhacca), 
+                  5) ignorance (avijjā).
+
+                  Venerable Anuruddha once came to Kapilavatthu to see his relatives. All of them came to meet him; only his sister Rohini did not come. Anuruddha asked about her and learned that she was suffering from a skin disease. Anuruddha sent for her and told her to perform some meritorious deeds. Rohini began to build a community hall. Even before the construction was completed, she started to sweep it every day and fill the water pots. She began to feel better immediately. 
+
+                  When the hall was finished, the Buddha and monks were invited for an almsfood there. After the meal the Buddha asked Rohini to come. He then revealed, that she was suffering because of evil deed done in one of her previous lives. 
+
+                  She was the queen of Benares. The king had a dancer he liked very much. The queen became jealous and instructed her servants to put some itching powder into the dancer's bed. Thus the dancer itched all over and when she went to bed to rest, her condition got even worse. 
+
+                  The Buddha then exhorted her and all the people present to give up anger and pride and not to cling to anything. He further added this verse. Rohini and some other people attained full Awakenment immediately. At the same time Rohini's disease was cured and her skin became smooth and clear.
+
+.. [DLMBSFn-V222] (DLMBS Commentary V222) Once a certain monk wanted to build a hut for himself. He chose a tree and was about to cut it down. But a spirit lived in that tree with her son. The spirit asked the monk not to cut down their tree, but the monk did not listen. So the spirit put her son on the tree, hoping this would prevent the monk from cutting the tree down. 
+
+                  But the monk's ax was already swinging down and he was unable to stop it. The ax fell and cut of the baby's arm. The spirit became very angry and was about to kill the monk. But then she reflected and decided not to harm the monk, because she would acquire a lot of demerit. So instead, she went to see the Buddha and told him all what happened. 
+
+                  The Buddha told her this verse, praising her for her self-control. He then taught her the Dharma. After reflecting on what was taught, the spirit realized the Dharma. She was offered a new tree to live in, in vicinity of the monastery. 
+
+                  After this incident, the Buddha made a new rule for the monks, forbidding them to hurt plant life.
+
+.. [DLMBSFn-V223] (DLMBS Commentary V223) In Sāvathi there lived a rich man named Sumana. He had a servant named Puṇṇa. Once Puṇṇa and his wife offered almsfood to Venerable Sāriputta and as a result of this deed, Puṇṇa found gold in the field he was ploughing. The king declared him to be the royal banker and the whole family became extremely rich and influential. Once Puṇṇa and his family were offering almsfood to the Buddha and the monks for seven days. After hearing the Dharma from the Buddha the whole family, Puṇṇa, his wife and their daughter Uttarā, attained the Awakenment. 
+
+                  Uttarā got married to the son of Sumana. Because the family was not Buddhist, she was not able to perform meritorious deeds. Her father sent her some money and arranged for a woman named Sirimā to look after the household for a few days. 
+
+                  During this time, Uttarā was offering almsfood to the Buddha and the monks. When her husband saw her, he smiled, because he did not understand the significance of giving and thought her stupid. But Sirimā, seeing him smile, forgot she was there only for a few days, and became jealous. She brought some boiling oil with the intention to pour it over the head of Uttarā. Uttarā knew what was about to happen but she did not feel any anger or hatred. She was very grateful to Sirimā, because only with her help was she able to perform meritorious deeds. She made a firm resolution not to let any anger or hatred enter her mind. 
+
+                  The boiling oil then became harmless, like cold water. Sirimā did not understand and went to get another pot of hot oil. But by then other servants caught her and beat her up. 
+
+                  Then Sirimā realized what she had done and asked Uttarā for forgiveness. Uttarā told her to go to see "her father" - she meant the Buddha, who has taught her the Dharma and helped her to reach the Awakenment. 
+
+                  The Buddha listened to all what happened. Then he praised Uttarā for not feeling any anger or hatred. He told her this verse. At the end, Uttarā forgave Sirimā.
+
+.. [DLMBSFn-V224] (DLMBS Commentary V224) Venerable Moggallāna once visited the heaven world and asked the gods what good deeds had they done to be reborn in such happy state. Different gods had different answers. One was reborn as a god only because he always spoke truth. Another goddess said that she was a servant who never got angry with her master and never hated him, although he beat and abused her. Some gods replied they offered what little they could for the benefit of others. 
+
+                  Moggallāna returned back and asked the Buddha if it was really possible to be reborn as a god just by these deeds. The Buddha confirmed it and spoke this verse, saying even little good deeds lead to heaven.
+
+.. [DLMBSFn-V225] (DLMBS Commentary V225) The Buddha was once in the city of Sāketa for almsfood. While he was passing a certain brahmin’s house, the brahmin welcomed him: "Son, we have not seen you for a long time. Come and visit us again!" When the Buddha entered the house, the brahmin's wife also welcomed him as a long lost son. From that day, they offered almsfood to the Buddha. 
+
+                  The monks asked why did they call the Buddha their son. The Buddha explained that he had been their son for a great many lives in the past. The Buddha stayed with them for three months and both the brahmin and his wife attained the Awakenment. 
+
+                  Later the monks asked where were they reborn, since they did not know the couple had already reached the Nirvana. The Buddha replied with this verse, saying that the Arahants are not reborn anywhere, they have attained the Nirvana.
+
+.. [DLMBSFn-V226] (DLMBS Commentary V226) There was a young slave girl, named Punnā. One night she was doing some work for her master, when she saw some monks going to their rooms after listening to the Dharma. She pondered that she was up so late because she was poor and had to work hard. But she could not think about any reason for the monks to be up so late as well. 
+
+                  The next day she made for herself a simple rice cake and went to the riverside to rest and eat. But on the way she met the Buddha and offered the cake to him. The Buddha accepted and ate the cake. 
+
+                  After eating, the Buddha told her why the monks were up so late: they were always vigilant and learning something, no matter what time it was. He also told her this verse, saying that by being always watchful and mindful, one can eradicate one's taints. Punnā immediately realized the Dharma. 
+
+                  Traditionally, these four taints (**āsava**) are mentioned in the texts: sense desire (**kāma**), desiring eternal existence (**bhava**), wrong views (**diṭṭhi**) and ignorance (**avijjā**).
+
+.. [DLMBSFn-V227] (DLMBS Commentary V227) There was a man named Atula. Once he and his friends wanted to hear the Dharma. They went to see Venerable Revata. But he was practicing meditation and did not tell them anything. They were disappointed and so went to see Venerable Sāriputta. He expounded the Dharma in length, telling them many profound teachings they did not quite understand. Still unhappy, they went to Venerable Ānanda. He explained shortly basic teachings of the Buddha. 
+
+                  Atula and his friends then went to see the Buddha. They complained. Revata did not say anything at all, Sāriputta spoke too much and Ānanda too little. After such a long time, they still were not satisfied. The Buddha replied with this verse (and the following ones, DhP 228, DhP 229 and DhP 230), saying that, as before, so today, there is no one who is never blamed.
+
+.. [DLMBSFn-V228] (DLMBS Commentary V228) The story for this verse is identical with the one for the previous verse (DhP 227) and the following verses (DhP 229, DhP 230). 
+
+                  Even the best of people are always blamed by somebody for something. Gandhi was killed although he was very close to what we call "a saint". Therefore, even if we encounter someone who is hostile to us, we should not feel hatred or enmity.
+
+.. [DLMBSFn-V229] (DLMBS Commentary V229) The story for this verse is identical with the one for the previous verses (DhP 227, DhP 228) and the following verse (DhP 230).
+
+.. [DLMBSFn-V230] (DLMBS Commentary V230) The story for this verse is identical with the one for the previous verses (DhP 227, DhP 228 and DhP 229).
+
+.. [DLMBSFn-V231] (DLMBS Commentary V231) A group of six monks wearing wooden shoes and each holding a staff, were walking on a big stone, making a lot of noise and disturbing the peace of other monks. The Buddha asked Venerable Ānanda what was going on and having learned about the six monks, he admonished them with this verse (and the following ones, DhP 232, DhP 233 and DhP 234). He also made a new rule for the monks not to wear wooden shoes.
+
+.. [DLMBSFn-V232] (DLMBS Commentary V232) The story for this verse is identical with the one for the previous verse (DhP 231) and the following ones (DhP 233, DhP 234). 
+
+                  By this verse the Buddha stressed that both the right conduct in bodily deeds and the right conduct in verbal speech are equally important.
+
+.. [DLMBSFn-V233] (DLMBS Commentary V233) The story for this verse is identical with the one for the previous verses (DhP 231, DhP 232) and the following one (DhP 234). 
+
+                  Even the thinking is very important. Truly, mental action is probably the most important of the three (bodily, verbal, mental). The bodily and verbal actions are only byproducts of the mental action. Thinking comes first and only after that we act with our body or our mouth. Therefore, the key to controlling our bodily and verbal actions lays in controlling our minds.
+
+.. [DLMBSFn-V234] (DLMBS Commentary V234) The story for this verse is identical with the one for the previous verses (DhP 231, DhP 232 and DhP 233).
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
