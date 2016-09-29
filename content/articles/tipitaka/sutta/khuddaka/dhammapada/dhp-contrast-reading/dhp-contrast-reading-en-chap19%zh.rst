@@ -1,9 +1,9 @@
-==================================================================================================================================================
+===================================================================================================================================================
 Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.) 
-==================================================================================================================================================
+===================================================================================================================================================
 
 :date: 2016-06-29 15:30
-:modified: 2016-06-29 15:30
+:modified: 2016-09-29 21:30
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, The Just, Dhammaṭṭhavaggo, The Righteous, The Judge, Equity, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -111,6 +111,14 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
 
        256, 257. A man is not just if he carries a matter by violence; no, he who distinguishes both right and wrong, who is learned and leads others, not by violence, but by law and equity, and who is guarded by the law and intelligent, he is called just.
 
+   * - Cited from DLMBS [8]_
+     - **Chapter 1: The Righteous**
+
+       | **DhP 256** 
+       | One is not called righteous because one hastily judges what is good. 
+       | Which wise person has thoroughly investigated both right and wrong, 
+       | [continued in DhP 257] [DLMBSFn-V256]_
+
 .. _Dhp257:
 
 .. list-table:: Dhammapada Dhp. 257
@@ -156,6 +164,12 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 256, 257. A man is not just if he carries a matter by violence; no, he who distinguishes both right and wrong, who is learned and leads others, not by violence, but by law and equity, and who is guarded by the law and intelligent, he is called just.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 257** 
+       | [continued from DhP 256] 
+       | judging others without haste, justly and impartially, 
+       | such a wise person, guardian of law, is called "righteous". [DLMBSFn-V257]_
 
 .. _Dhp258:
 
@@ -208,6 +222,11 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 258 A man is not learned because he talks much; he who is patient, free from hatred and fear, he is called learned.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 258** 
+       | One is not called wise because one speaks a lot. 
+       | One, who is peaceful, without hatred and fearless, is called "wise". [DLMBSFn-V258]_
 
 .. _Dhp259:
 
@@ -263,6 +282,12 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 259 A man is not a supporter of the law because he talks much; even if a man has learnt little, but sees the law bodily, he is a supporter of the law, a man who never neglects the law.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 259** 
+       | One does not understand Dharma only because one speaks a lot. 
+       | Who sees Dharma directly, after having heard even a little of it, 
+       | and who does not neglect the Dharma, such a one does understand it. [DLMBSFn-V259]_
+
 .. _Dhp260:
 
 .. list-table:: Dhammapada Dhp. 260
@@ -313,6 +338,11 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 260 A man is not an elder because his head is grey; his age may be ripe, but he is called 'Old-in-vain.'
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 260** 
+       | One is not to be called an Elder just because his head is gray. 
+       | Such a person is of mature age and is called "grown old in vain". [DLMBSFn-V260]_
+
 .. _Dhp261:
 
 .. list-table:: Dhammapada Dhp. 261
@@ -360,6 +390,11 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 261 He in whom there is truth, virtue, love, restraint, moderation, he who is free from impurity and is wise, he is called an elder.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 261** 
+       | In whom there is truth, Law, non-violence, restraint and self-control, 
+       | he, the wise one who has discarded taints, is called "an Elder". [DLMBSFn-V261]_
 
 .. _Dhp262:
 
@@ -417,6 +452,11 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 262 An envious greedy, dishonest man does not become respectable by means of much talking only, or by the beauty of his complexion.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 262** 
+       | Not only by the act of speech or by beauty of complexion 
+       | is a man respectable, if he is envious, selfish and deceitful. [DLMBSFn-V262]_
+
 .. _Dhp263:
 
 .. list-table:: Dhammapada Dhp. 263
@@ -471,6 +511,11 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 263 He in whom all this is destroyed, and taken out with the very root, he, when freed from hatred and wise, is called respectable.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 263** 
+       | And who has cut off, removed and destroyed by the rot such thinking, 
+       | he, the wise one who has discarded hatred, is called "respectable". [DLMBSFn-V263]_
+
 .. _Dhp264:
 
 .. list-table:: Dhammapada Dhp. 264
@@ -522,6 +567,11 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 264 Not by tonsure does an undisciplined man who speaks falsehood become a Samana; can a man be a Samana who is still held captive by desire and greediness?
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 264** 
+       | One is not to be called a monk just because of his bald head, if one is immoral and speaking lies. 
+       | How can someone who has desire and greed be called a monk? [DLMBSFn-V264]_
+
 .. _Dhp265:
 
 .. list-table:: Dhammapada Dhp. 265
@@ -569,6 +619,11 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 265 He who always quiets the evil, whether small or large, he is called a Samana (a quiet man), because he has quieted all evil.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 265** 
+       | Who conquers evil thoroughly, be it small or big, 
+       | one is called a monk because of having conquered all evils. [DLMBSFn-V265]_
 
 .. _Dhp266:
 
@@ -620,6 +675,11 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 266 A man is not a mendicant (Bhikshu) simply because he asks others for alms; he who adopts the whole law is a Bhikshu, not he who only begs.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 266** 
+       | One is not a monk because one begs almsfood from others. 
+       | If one follows the life of a householder, one is not a monk because of that. [DLMBSFn-V266]_
+
 .. _Dhp267:
 
 .. list-table:: Dhammapada Dhp. 267
@@ -664,6 +724,11 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 267 He who is above good and evil, who is chaste, who with knowledge passes through the world, he indeed is called a Bhikshu.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 267** 
+       | Who has warded off both good and evil here, leading a holy life, 
+       | walks through the world understanding it, he is called "a monk". [DLMBSFn-V267]_
 
 .. _Dhp268:
 
@@ -718,6 +783,11 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 268, 269. A man is not a Muni because he observes silence (mona, i.e. mauna), if he is foolish and ignorant; but the wise who, taking the balance, chooses the good and avoids evil, he is a Muni, and is a Muni thereby; he who in this world weighs both sides is called a Muni.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 268** 
+       | One is not a sage by keeping a vow of silence, if he is deluded and ignorant. 
+       | Who accepts only the best, as if holding a scale, is a wise man. [DLMBSFn-V268]_
+
 .. _Dhp269:
 
 .. list-table:: Dhammapada Dhp. 269
@@ -765,6 +835,11 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 268, 269. A man is not a Muni because he observes silence (mona, i.e. mauna), if he is foolish and ignorant; but the wise who, taking the balance, chooses the good and avoids evil, he is a Muni, and is a Muni thereby; he who in this world weighs both sides is called a Muni.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 269** 
+       | The sage who avoids evil is called a sage because of that. 
+       | One, who understands both worlds, is called a sage on account of that. [DLMBSFn-V269]_
+
 .. _Dhp270:
 
 .. list-table:: Dhammapada Dhp. 270
@@ -805,6 +880,11 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 270 A man is not an elect (Ariya) because he injures living creatures; because he has pity on all living creatures, therefore is a man called Ariya.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 270** 
+       | One is not to be called Noble if he hurts living beings. 
+       | Because of non-violence towards all living beings is one called "Noble". [DLMBSFn-V270]_
 
 .. _Dhp271:
 
@@ -862,6 +942,12 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 271, 272. Not only by discipline and vows, not only by much learning, not by entering into a trance, not by sleeping alone, do I earn the happiness of release which no worldling can know. Bhikshu, be not confident as long as thou hast not attained the extinction of desires.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 271** 
+       | Not by mere rules and rituals, nor by great knowledge, 
+       | nor by attaining concentration, nor by having a solitary dwelling, 
+       | [continued in DhP 272] [DLMBSFn-V271]_
 
 .. _Dhp272:
 
@@ -924,6 +1010,12 @@ Chapter 19. The Just; Dhammaṭṭhavaggo (Dhp.256-272), Parallel Reading (parag
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 271, 272. Not only by discipline and vows, not only by much learning, not by entering into a trance, not by sleeping alone, do I earn the happiness of release which no worldling can know. Bhikshu, be not confident as long as thou hast not attained the extinction of desires.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 272** 
+       | [continued from DhP 271] 
+       | nor by thinking "I am experiencing the pleasure of renunciation, which is not practiced by ordinary people", 
+       | do, o monk, get content, if you have not attained dissolution of taints. [DLMBSFn-V272]_
+
 --------------
 
 **the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
@@ -954,6 +1046,8 @@ NOTE:
 .. [7] (note 007) original: `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
         THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
+
+.. [8] (note 8) original: `Readings in Pali Texts <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp>`__ ( `Digital Library & Museum of Buddhist Studies (DLMBS) <http://buddhism.lib.ntu.edu.tw/DLMBS/en/>`__ --- `Pali Lessons <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali1.jsp>`__ )
 
 .. [NāradaFn19-01] (Ven. Nārada 19-01) Kāyena - that is, nāmakāyena, through the mental body, or, in other words, through self-realization.
 
@@ -1006,6 +1100,75 @@ NOTE:
 .. [ThaniSFn-V271-272] (Ven. Thanissaro V. 271-272) This verse has what seems to be a rare construction, in which na + instrumental nouns + a verb in the aorist tense gives the force of a prohibitive ("Don't, on account of x, do y"). "The renunciate ease that run-of-the-mill people don't know," according to DhpA, is the state of non-returning, the third of the four stages of Awakening (see note 22). Because non-returners are still attached to subtle states of becoming on the level of form and formlessness, DhpA drives home the message that even non-returners should not be complacent by paraphrasing a passage from AN 1 (202 in the Thai edition; at the end of Chapter 19 in the PTS edition) that reads, "Just as even a small amount of excrement is foul-smelling, in the same way I do not praise even a small amount of becoming, even for the extent of a fingersnap."
 
 .. [VaradoFn-V266] (Ven. Varado V.266) Verse 266: "A bhikkhu is one who commits/ To the whole of the training, not bits" (vissaṃ dhammaṃ samādāya bhikkhu hoti na tāvatā). PED (vissaṃ): all, every, entire. 
+
+.. [DLMBSFn-V256] (DLMBS Commentary V256) Some monks were returning from Sāvatthi after their almsround. Because there was a heavy rain, they took a shelter in a hall of justice. While there, they observed the judges deciding the cases very quickly after having taken bribes. 
+
+    The monks later reported the matter to the Buddha who told them this verse (and the following one, DhP 257).
+
+.. [DLMBSFn-V257] (DLMBS Commentary V257) The story for this verse is identical with the one for the previous verse (DhP 257). 
+
+    It is very easy to judge others, to point out others' mistakes or bad qualities. Therefore we have to be very thorough when we have to judge others. We have to listen to every possible point of view; we have to look at the problem from all angles. Only then can we be able to judge according to truth and we can call ourselves "righteous".
+
+.. [DLMBSFn-V258] (DLMBS Commentary V258) A group of monks always caused troubles in the monastery. Wherever they went, some problems occurred. Once they boasted in front of some novices, saying only they were wise and intelligent. 
+
+    When the Buddha heard about this, he replied with this verse, saying that one should not be called wise only because one talks a lot. Only one who is peaceful and free from hate can be called wise.
+
+.. [DLMBSFn-V259] (DLMBS Commentary V259) A monk named Ekudāna lived alone in the forest. He knew by heart only one verse of the Dharma, but he fully understood its meaning. Whenever he would recite the verse, the guardian spirits of the forest would applaud. 
+
+    At one occasion, two learned monks with many disciples came to that place. They asked Ekudāna of there were many beings that wished to learn the Dharma. Ekudāna told them about the spirits applauding every time the Dharma was spoken. The two monks they took turns preaching the Dharma but when they finished, the guardian spirits did not applaud at all. Therefore they started to doubt Ekudāna’s words. But Ekudāna simply recited the verse he knew and immediately the spirits started to applaud. 
+
+    The two monks returned to Sāvatthi and reported the matter to Buddha. The Buddha replied with this verse, saying that in understanding the Dharma, quality is much more important than quantity. To remember only one verse, but understanding it fully is far better than remembering all the Buddha’s words but not actually grasping their meaning.
+
+.. [DLMBSFn-V260] (DLMBS Commentary V260) A group of monks came to see the Buddha. Because he knew they were very close to attaining the Awakenment, he asked them if they had seen an Elder just entering the room. The monks replied they did not see an Elder, only a young novice. The Buddha replied that this monk was actually not a novice, but an Elder. He further told them this verse (and the following one, DhP 261). 
+
+    The monks all attained the Arahantship.
+
+.. [DLMBSFn-V261] (DLMBS Commentary V261) The story for this verse is identical with the one for the previous verse (DhP 260). 
+
+    Wisdom cannot be measured by age. One who is old is not necessarily wise. Sometimes a young person can be far wiser than somebody old. To grow old is not a virtue demanding automatic respect. We should save our respect for those who deserve it. People, who understand the Buddha's teaching deeply, and act accordingly, are to be respected, be they young or old.
+
+.. [DLMBSFn-V262] (DLMBS Commentary V262) The elder monks usually had some young novices as their students. It was custom that these novices would attend on their teachers, wash their robes, get water for them to drink and other small services. Some monks who had no students started to envy these elders. So they suggested to the Buddha that the novices should have more teachers to receive more guidance. Of course, the Buddha knew their real motive (to get some work done by the novices) so he refused this. He further admonished the monks by this verse (and the following one, DhP 263).
+
+.. [DLMBSFn-V263] (DLMBS Commentary V263) The story for this verse is identical with the one for the previous verse (DhP 262). 
+
+    One, who wants to be respected, should discard all the impurities and clean one's mind. It is not possible to be envious, hating and selfish and expect others to respect us. To try to hide it away under the mask of nice words and smiling face maybe can fool somebody, but only for a short while. Then everybody will see the true face and their respect for us will quickly evaporate.
+
+.. [DLMBSFn-V264] (DLMBS Commentary V264) There was a monk named Hatthaka. He liked to argue with others. If he was defeated in an argument, he challenged his opponent to meet again at a specified place and time. Hatthaka would get to the place before the appointed time and would declare that the absence of his opponent means he acknowledges his defeat. Therefore he would boast he won the argument.
+    When the Buddha heard about this, he admonished Hatthaka by this verse (and the following one, DhP 265).
+
+.. [DLMBSFn-V265] (DLMBS Commentary V265) The story for this verse is identical with the one for the previous verse (DhP 264). 
+
+    To be a monk is not easy. Just to wear the monk's robe and have one's head shaven is certainly not enough. If a monk lacks discipline and resolve, then he is not to be called a monk. Only after having met and conquered evils, greed, desire and others, and with firm self-discipline, is one truly a monk.
+
+.. [DLMBSFn-V266] (DLMBS Commentary V266) There was a brahmin, who had the habit of going on almsround begging for almsfood, just as the Buddha's monks did. Therefore, he thought he was also to be called a monk. He went to see the Buddha and told him this idea. The Buddha reprimanded him with this verse (and the following one, DhP 267).
+
+.. [DLMBSFn-V267] (DLMBS Commentary V267) The story for this verse is identical with the one for the previous verse (DhP 266). 
+
+    A true monk is not the one who wears monk's robes and gets his almsfood from people, but his heart is full of worldly things. Only one, who leads a moral life and has a deep insight into the reality of things, can be called a monk. 
+
+.. [DLMBSFn-V268] (DLMBS Commentary V268) At the Buddha's times there were many ascetic orders. Some of them went for almsfood just like the Buddha's monks. After being offered food, some of them would say a few words of blessing; such as "May you be well and happy, may you live long." The Buddha's monks were at first instructed to keep silent. 
+
+    Some followers of the Buddha began to complain about that and wanted to hear some blessing also from the Buddha's monks. The Buddha then instructed his monks to do so, in order to keep lay followers happy. 
+
+    Then some other ascetics, who kept silence after being offered food, said that the Buddha's monks were not true sages (muni) because they did not keep the vow of silence in public (mona). 
+
+    The Buddha reacted with this verse (and the following one, DhP 269).
+
+.. [DLMBSFn-V269] (DLMBS Commentary V269) The story for this verse is identical with the one for the previous verse (DhP 268). 
+
+    Silence does not necessarily mean wisdom. Sometimes one can keep silent only because one has nothing to say, or out of stupidity and not understanding what is going on. One who understands the reality of this world and the next one, who does not cling to anything and has discarded evil, can be truly called a sage.
+
+.. [DLMBSFn-V270] (DLMBS Commentary V270) There was a fisherman named Ariya living in Sāvatthi. Once while he was fishing, the Buddha and some monks went around. Ariya got up and paid his respects to the Buddha, who asked him about his name. When replied, the Buddha spoke this verse, saying that he was not worthy to be called Ariya ("Noble")  if he harmed living beings. 
+
+    Ariya understood and attained the first level of Awakenment.
+
+.. [DLMBSFn-V271] (DLMBS Commentary V271) There were many monks who were practicing the Dharma. Not all of them had reached the Awakenment quickly. Once a group of monks came to see the Buddha. Some of them had observed the rules perfectly and were very virtuous. Others studied a lot of the Buddha's discourses and yet others were good in meditation. 
+
+    The Buddha asked them if they had attained the Awakenment. They replied that they did not but that it should be easy, since they had achieved so much already. The Buddha replied with this verse (and the following one, DhP 272).
+
+.. [DLMBSFn-V272] (DLMBS Commentary V272) The story for this verse is identical with the one for the previous verse (DhP 271). 
+
+    To attain the Awakenment is not easy. We should not compare it to other tasks. Even if we have attained some spiritual progress, like good concentration of mind, if we have learned a lot of Sutras, or if we are truly moral and spiritual people - in comparison with the ultimate goal these tasks are very easy indeed. Only when we have reached the final goal and eradicated all the taints from our minds, then we can finally be content and say that we have done what had to be done.
 
 --------------
 

@@ -1,9 +1,9 @@
-==============================================================================================================================================
+===================================================================================================================================================
 Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.) 
-==============================================================================================================================================
+===================================================================================================================================================
 
 :date: 2016-06-29 15:00
-:modified: 2016-06-29 15:00
+:modified: 2016-09-29 15:30
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, Impurity, Malavaggo, Taints, Stains, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -140,6 +140,13 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
 
        235 Thou art now like a sear leaf, the messengers of death (Yama) have come near to thee; thou standest at the door of thy departure, and thou hast no provision for thy journey.
 
+   * - Cited from DLMBS [8]_
+     - **Chapter 18: Taint**
+
+       | **DhP 235** 
+       | You are like a withered leaf. Yama's men are ready for you. 
+       | You are standing in the mouth of death. And you have nothing to take with you. [DLMBSFn-V235]_
+
 .. _Dhp236:
 
 .. list-table:: Dhammapada Dhp. 236
@@ -212,6 +219,11 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 236 Make thyself an island, work hard, be wise! When thy impurities are blown away, and thou art free from guilt, thou wilt enter into the heavenly world of the elect (Ariya).
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 236** 
+       | Be an island unto yourself! Strive quickly; be wise! 
+       | Without impurities and clear, you will approach the heavenly place of the Noble Ones. [DLMBSFn-V236]_
 
 .. _Dhp237:
 
@@ -286,6 +298,11 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 237 Thy life has come to an end, thou art come near to death (Yama), there is no resting-place for thee on the road, and thou hast no provision for thy journey.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 237** 
+       | You have come to the end of your life now. You are getting close to the presence of Yama. 
+       | On the way there, there is no resting place for you. And you have nothing to take with you. [DLMBSFn-V237]_
+
 .. _Dhp238:
 
 .. list-table:: Dhammapada Dhp. 238
@@ -359,6 +376,11 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 238 Make thyself an island, work hard, be wise! When thy impurities are blown away, and thou art free from guilt, thou wilt not enter again into birth and decay.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 238** 
+       | Be an island unto yourself! Strive quickly; be wise! 
+       | Without impurities and clear, you will never again come to birth and aging. [DLMBSFn-V238]_
+
 .. _Dhp239:
 
 .. list-table:: Dhammapada Dhp. 239
@@ -407,6 +429,11 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 239 Let a wise man blow off the impurities of his self, as a smith blows off the impurities of silver one by one, little by little, and from time to time.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 239** 
+       | A wise one should cleanse oneself of impurities, gradually, 
+       | little by little, moment by moment - just like a smith does with silver. [DLMBSFn-V239]_
+
 .. _Dhp240:
 
 .. list-table:: Dhammapada Dhp. 240
@@ -452,6 +479,11 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 240 As the impurity which springs from the iron, when it springs from it, destroys it; thus do a transgressor's own works lead him to the evil path.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 240** 
+       | Just like rust eats the very iron from which it has arisen, 
+       | so the one who is indulging too much in the use of four requisites of a monk is led to a miserable existence by his own deeds. [DLMBSFn-V240]_
 
 .. _Dhp241:
 
@@ -507,6 +539,11 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 241 The taint of prayers is non-repetition; the taint of houses, non- repair; the taint of the body is sloth; the taint of a watchman, thoughtlessness.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 241** 
+       | Non-studying is the stain of sacred texts. Neglect is the stain of houses. 
+       | The stain of beauty is idleness. The stain of a guard is negligence. [DLMBSFn-V241]_
+
 .. _Dhp242:
 
 .. list-table:: Dhammapada Dhp. 242
@@ -561,6 +598,11 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 242 Bad conduct is the taint of woman, greediness the taint of a benefactor; tainted are all evil ways in this world and in the next.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 242** 
+       | Wrong conduct is the stain of a woman. Stinginess is the stain of a donor. 
+       | Evil things are impure - in this world as well as in the other one. [DLMBSFn-V242]_
+
 .. _Dhp243:
 
 .. list-table:: Dhammapada Dhp. 243
@@ -610,6 +652,12 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 243 But there is a taint worse than all taints,--ignorance is the greatest taint. O mendicants! throw off that taint, and become taintless!
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 243** 
+       | [continuing from DhP 242] 
+       | Ignorance is the ultimate stain, greater than any of these other stains. 
+       | Having abandoned this stain, be pure, monks. [DLMBSFn-V243]_
 
 .. _Dhp244:
 
@@ -665,6 +713,11 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 244 Life is easy to live for a man who is without shame, a crow hero, a mischief-maker, an insulting, bold, and wretched fellow.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 244** 
+       | Easy is life for somebody who is shameless, unconscientious, 
+       | offensive, braggart, reckless and impure. [DLMBSFn-V244]_
+
 .. _Dhp245:
 
 .. list-table:: Dhammapada Dhp. 245
@@ -716,6 +769,12 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 245 But life is hard to live for a modest man, who always looks for what is pure, who is disinterested, quiet, spotless, and intelligent.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 245** 
+       | [continuing from DhP 244] 
+       | And difficult is life for somebody who has conscience, is always striving for purity, 
+       | sincere and cautious, of clean livelihood and seeing the truth. [DLMBSFn-V245]_
 
 .. _Dhp246:
 
@@ -771,6 +830,12 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 246 He who destroys life, who speaks untruth, who in this world takes what is not given him, who goes to another man's wife;
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 246** 
+       | Who kills living beings, speaks falsely, 
+       | takes whatever in the world is not given and goes to another's wife, 
+       | [continued in DhP 247] [DLMBSFn-V246]_
+
 .. _Dhp247:
 
 .. list-table:: Dhammapada Dhp. 247
@@ -823,6 +888,12 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 247 And the man who gives himself to drinking intoxicating liquors, he, even in this world, digs up his own root.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 247** 
+       | [continuing from DhP 246] 
+       | And whichever person enjoys drinking alcohol, 
+       | he digs out his own roots right here in this world. [DLMBSFn-V247]_
+
 .. _Dhp248:
 
 .. list-table:: Dhammapada Dhp. 248
@@ -869,6 +940,11 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 248 O man, know this, that the unrestrained are in a bad state; take care that greediness and vice do not bring thee to grief for a long time!
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 248** 
+       | My dear man, know this: evil things are difficult to restrain. 
+       | Let not greed and injustice bring you suffering for a long time. [DLMBSFn-V248]_
 
 .. _Dhp249:
 
@@ -932,6 +1008,12 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 249 The world gives according to their faith or according to their pleasure: if a man frets about the food and the drink given to others, he will find no rest either by day or by night.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 249** 
+       | People give alms according to their faith and gratification. 
+       | In this matter, who is discontented with others' food and drink, 
+       | he will never attain concentration, by day or night. [DLMBSFn-V249]_
+
 .. _Dhp250:
 
 .. list-table:: Dhammapada Dhp. 250
@@ -990,6 +1072,12 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 250 He in whom that feeling is destroyed, and taken out with the very root, finds rest by day and by night.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 250** 
+       | [continued from DhP 249] 
+       | And who has cut off, removed and destroyed by the rot such thinking, 
+       | he will attain concentration, by day or night. [DLMBSFn-V250]_
+
 .. _Dhp251:
 
 .. list-table:: Dhammapada Dhp. 251
@@ -1031,6 +1119,11 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 251 There is no fire like passion, there is no shark like hatred, there is no snare like folly, there is no torrent like greed.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 251** 
+       | There is no fire like passion. There is no grasp like hatred. 
+       | There is no net like delusion. There is no river like thirst. [DLMBSFn-V251]_
 
 .. _Dhp252:
 
@@ -1085,6 +1178,12 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 252 The fault of others is easily perceived, but that of oneself is difficult to perceive; a man winnows his neighbour's faults like chaff, but his own fault he hides, as a cheat hides the bad die from the gambler.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 252** 
+       | Easy to see are faults of others; one's own faults are difficult to see. 
+       | One exposes the faults of others like husks. 
+       | One's own conceals like a cheating player of dice an unlucky throw. [DLMBSFn-V252]_
+
 .. _Dhp253:
 
 .. list-table:: Dhammapada Dhp. 253
@@ -1136,6 +1235,11 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 253 If a man looks after the faults of others, and is always inclined to be offended, his own passions will grow, and he is far from the destruction of passions.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 253** 
+       | Who finds faults with others and is always irritable, 
+       | his taints only grow. He is far away from dissolution of taints. [DLMBSFn-V253]_
+
 .. _Dhp254:
 
 .. list-table:: Dhammapada Dhp. 254
@@ -1186,6 +1290,11 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 254 There is no path through the air, a man is not a Samana by outward acts. The world delights in vanity, the Tathagatas (the Buddhas) are free from vanity.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 254** 
+       | There are no tracks in the sky. There is not a true monk outside of this teaching. 
+       | Mankind delights in obsession. The Buddhas are free of obsession. [DLMBSFn-V254]_
 
 .. _Dhp255:
 
@@ -1242,6 +1351,11 @@ Chapter 18. Impurity; Malavaggo (Dhp.235-255), Parallel Reading (paragraph granu
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 255 There is no path through the air, a man is not a Samana by outward acts. No creatures are eternal; but the awakened (Buddha) are never shaken.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 255** 
+       | There are no tracks in the sky. There is not a true monk outside of this teaching. 
+       | There are no conditioned things that are eternal. There is no instability in the Buddhas. [DLMBSFn-V255]_
+
 --------------
 
 **the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
@@ -1272,6 +1386,8 @@ NOTE:
 .. [7] (note 007) original: `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
         THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
+
+.. [8] (note 8) original: `Readings in Pali Texts <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp>`__ ( `Digital Library & Museum of Buddhist Studies (DLMBS) <http://buddhism.lib.ntu.edu.tw/DLMBS/en/>`__ --- `Pali Lessons <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali1.jsp>`__ )
 
 .. [NāradaFn18-01] (Ven. Nārada 18-01) Namely: the Pure Abodes (Suddhāvāsa).
 
@@ -1320,6 +1436,95 @@ NOTE:
 .. [VaradoFn-V254a] (Ven. Varado V.254a) Verse 254a: "off the Path, no saints (samaṇo) do lie". 'Samaṇo' can mean one who has attained one of the four stages of Buddhist sainthood (e.g. see D.2.151). 
     
 .. [VaradoFn-V254b] (Ven. Varado V.254b) Verse 254b: "Though people relish Self-perceptions (papañcā), Buddhas have no such conceptions". PED (papañcā): obstacle, illusion, diffuseness. But S.4.202 says “I am” is papañcā (asmīti bhikkhave papañcitametaṃ)
+
+.. [DLMBSFn-V235] (DLMBS Commentary V235) In Sāvathi there lived an old butcher. He was used to eating beef curry every day. Once he put aside some meat to be cooked that day and went for a bath. In the meantime, his wife saw the meat and sold it. Therefore, when the butcher returned home, he realized that there would be no meat that day. He was so angry that he went and cut off the tongue of an ox. He has his wife to prepare it and began to eat. 
+
+    When he tried to take bite of the tongue, he bit off his own tongue. The butcher died in great pain and agony and was reborn in a painful state. 
+
+    The butcher's son was afraid that this evil would befall him as well so he left the city and went to Takkasilā (Taxilā). He became a goldsmith, got married and had children. When he got old, he and his family moved back to Sāvathi. His children were followers of the Buddha but he was not. The children were concerned for their father and so one day they invited the Buddha and monks for a meal. After the meal they told the Buddha that this offering was on behalf of their father. They asked the Buddha to give a discourse to the old man to help him to see the Dharma. 
+
+    The Buddha told the old goldsmith this verse (and the following ones, DhP 236, DhP 237 and DhP 238). At the end for the discourse, the old goldsmith attained the first stage of Awakenment.
+
+.. [DLMBSFn-V236] (DLMBS Commentary V236) The story for this verse is identical with the one for the previous verse (DhP 235) and the following ones (DhP 237, DhP 238). 
+
+    We should strive and make the best effort in order to purify our minds and make the best of our lives. By doing this, we will reach "the place of the Noble Ones", the Nirvana, the complete purification of the mind.
+
+.. [DLMBSFn-V237] (DLMBS Commentary V237) The story for this verse is identical with the one for the previous verses (DhP 235 and DhP 236) and the following one (DhP 238). 
+    Although this verse was originally told to an old man, it is actually true for all of us. We all are very close to death, even if we might be still young and healthy. Nobody ever knows the time of his death. Therefore, we all should make our best effort to overcome the defilements of our minds before it is too late.
+
+.. [DLMBSFn-V238] (DLMBS Commentary V238) The story for this verse is identical with the one for the previous verses (DhP 235, DhP 236 and DhP 237). 
+
+    If we strive and exert ourselves, we will purify our minds, attain the Awakenment - and therefore there will be no more birth, sickness, aging and death for us. Then we do not have to fear the death any longer.
+
+.. [DLMBSFn-V239] (DLMBS Commentary V239) Once a brahmin saw a group of monks preparing to enter the city for almsfood. They were rearranging their robes in order to go to the city. The brahmin saw that the robes touched the ground and got wet because of dew. So he cleared that place of grass. The next day he saw that the ground is dirty and it soiled the robes. So he covered the place with sand. During the next few days he saw that when the sun is shining the monks sweat and when it rains, they get wet. Therefore he built a shelter at that place. 
+
+    When it was ready, the brahmin invited the Buddha and monks for an almsfood. He then explained how he performed this good deed gradually. The Buddha replied him with this verse, saying that one should use every little opportunity to perform good deeds and cleanse one's mind of impurities.
+
+.. [DLMBSFn-V240] (DLMBS Commentary V240) A certain monk named Tissa received a beautiful robe and was very happy. He prepared to wear them the next day, but that very night he died. Because he was too attached to the robe, he was born as an insect in it. 
+
+    The monks decided to share his former robe amongst themselves. The insect was very angry and shouted, "They are destroying my robe!" The Buddha heard this and told the monks to leave the robe untouched for seven days. 
+    Later the insect died and was reborn in a happy state because of his former good deeds. The Buddha explained to the monks that if they were to use the robe while the insect was stile alive, he would feel hate and anger and would have to be born in miserable existence. The Buddha then told this verse, saying that the monks should not be attached to anything, especially not to their four requisites.
+
+.. [DLMBSFn-V241] (DLMBS Commentary V241) Venerable Sāriputta and Mahā Moggallāna used to deliver discourses in the city of Savatthi. Many people praised them for speaking clearly and eloquently. There was a monk named Lāludāyii who remarked that if he were invited to speak, people would praise him even more. So people invited him to deliver a discourse. But when Lāludāyii got to the platform, he could not open his mouth. So he asked another monk to speak first and that he would speak next. This happened three times. 
+
+    People realized that he was just boasting and laughed at him and reprimanded him. Lāludāyii left in shame. 
+    When the Buddha learned about this incident, he spoke this verse, saying that Lāludāyii did not study much and what he did study, he already forgot.
+
+.. [DLMBSFn-V242] (DLMBS Commentary V242) A certain woman committed adultery. Her husband was very ashamed and he avoided his friends and the Buddha. But after some time he came to see the Buddha and told him about his trouble. The Buddha told him this verse (and the following one, DhP 243), saying that all these taints originate from ignorance.
+
+.. [DLMBSFn-V243] (DLMBS Commentary V243) The story for this verse is identical with the one for the previous one (DhP 242). 
+
+    All the other stains, such as wrong conduct etc. are derived from the main "impurity", ignorance. It is because we are ignorant of the true reality, that we commit these evil deeds. Therefore, only if we destroy our ignorance, can we truly be called "pure". Destruction of ignorance is the main goal of the Buddha's teaching. This is what is called Nirvana.
+
+.. [DLMBSFn-V244] (DLMBS Commentary V244) There was a monk named Cūla Sāri. He was a physician and he often went to see patients. Once he was returning from a patient and he met Venerable Sāriputta. Cūla Sāri told him his patient gave him delicious food as a payment. He offered some food to Sāriputta, who did not say anything and just continued on his way. 
+
+    Later Sāriputta reported the matter to the Buddha. The Buddha told Cūla Sāri not to practice medicine for personal gain and told him this verse (and the following one, DhP 245).
+
+.. [DLMBSFn-V245] (DLMBS Commentary V245) The story for this verse is identical with the one for the previous verse (DhP 244). 
+
+    One who is always trying to do good things, not to offend anyone, has indeed a difficult life. Always thinking about one's action, always mindful and reflecting on one's deeds, thoughts and words - these are just the basic requirements for such a way of life. 
+
+    On the other hand, if we just do not care about others, if we do not think about how our actions can cause suffering and pain, then the life is very easy. 
+    If we want to walk on the Buddha's path we should try our best to lead the difficult kind of life. After all, reflection and mindfulness are a part of meditation.
+
+.. [DLMBSFn-V246] (DLMBS Commentary V246) Not only monks stayed at the Jetavana monastery. Lay followers would also come to stay for a few days, observe precepts and meditate. Once five lay disciples observed one precept each. They all claimed that he was observing the most difficult precept. They argued for a long time and then reported the matter to the Buddha. 
+
+    The Buddha replied them with this verse (and the following ones, DhP 247 and DhP 248), saying that all the precepts are very difficult and all of them are equally important for a good life.
+
+.. [DLMBSFn-V247] (DLMBS Commentary V247) The story for this verse is identical with the one for the previous verse (DhP 246) and the following one (DhP 248). 
+
+    To observe precepts and to lead a moral life is very difficult, but it is a basic step towards the Awakenment. That is why the Buddha says in this verse. If we do not follow them, we "dig out our own roots". That is to say, we postpone entering the way to Awakenment.
+
+.. [DLMBSFn-V248] (DLMBS Commentary V248) The story for this verse is identical with the one for the two previous verses (DhP 246, DhP 247). 
+
+    As it is very difficult to observe the precepts and to lead a moral life, it is also very easy to break them. And it is also very easy to loose self-control. Once we lose it, it is extremely hard to get things back on track and to start our way towards Awakenment again. Therefore we will be suffering for a prolonged period of time.
+
+.. [DLMBSFn-V249] (DLMBS Commentary V249) There was a young novice named Tissa. He always criticized other people's good deeds. He even scolded famous donors like Anātha Pindika and Visākhā. He also boasted that his parents were extremely rich and anybody could come to them and receive many precious gifts. 
+
+    Some monks decided to see if this was true. They went to Tissa's village only to find out that his parents were poor and that Tissa was only boasting. They returned and reported the matter to the Buddha. The Buddha reprimanded the young novice with this verse (and the following one, DhP 250).
+
+.. [DLMBSFn-V250] (DLMBS Commentary V250) The story for this verse is identical with the one for the previous verse (DhP 249). 
+
+    Discontentment is one of the main roots of a disturbed mind. If we are not happy about what others do, how then can we attain a peace of mind? Discontent with what other monks receive as alms is only one such example. 
+    When we destroy such discontentment completely, then we are able to attain a peace of mind and therefore we can concentrate our minds and start on the way towards the Awakenment.
+
+.. [DLMBSFn-V251] (DLMBS Commentary V251) Once there were five lay followers listening to the Buddha's discourse. One of them was sleeping, the second one was scratching the ground with his hands, the third was shaking a tree and the fourth was looking up at the sky. But the fifth one listened carefully and respectfully. Ānanda saw them and after the discourse was over he asked the Buddha about their behavior. 
+
+    The Buddha explained that the first one was a snake in his previous life therefore he liked to sleep. The second one was a subterranean animal, the third was a monkey and the fourth one was an astrologer. But the fifth one was a learned man; therefore he was able to listen with attention. 
+
+    Ānanda then asked what things prevent people from listening and understanding the Dharma. The Buddha replied with this verse, saying it is passion, hatred, delusion and thirst.
+
+.. [DLMBSFn-V252] (DLMBS Commentary V252) In the town of Bhaddiya there lived a rich man named Mendaka. When the Buddha arrived at Bhaddiya, he realized that Mendaka and his whole family are able to understand the Dharma. He explained the teaching to them and after hearing the Dharma from him, Mendaka, his wife, son, daughter-in-law and servant all attained the first level of Awakenment. Mendaka related how many ascetic teachers spoke ill of the Buddha and tried to dissuade Mendaka from seeing the Buddha. The Buddha explained by this verse, that it is only very natural to see others' faults and not to see one's own. 
+
+    The Buddha then revealed the past existences of Mendaka. He was always a rich man who donated many things to those seeking Awakenment.
+
+.. [DLMBSFn-V253] (DLMBS Commentary V253) There was a monk named Ujjhāna Saññi. He was always finding faults with others, very easy to get angry and speaking ill of people. When the Buddha found out, he spoke this verse. He also added that sometimes finding faults with others is good. When we see somebody to misbehave and we try to teach him good ways - that is worthy of praise. But if we do it out of spite and malice, then we won't be able to achieve concentration and therefore we get further and further away from the Awakenment.
+
+.. [DLMBSFn-V254] (DLMBS Commentary V254) The Buddha passed away in the town of Kusinarā. At that time the ascetic named Subhadda stayed at Kusinarā. He went to many religious teachers but none could satisfy his doubts and Subhadda did not become their pupil. Just before the Buddha died, Subhadda approached him and asked him some questions. The Buddha answered them in this verse (and the following one, DhP 255). Subhadda became a monk and later attained the Awakenment. He was the last direct pupil of the Buddha.
+
+.. [DLMBSFn-V255] (DLMBS Commentary V255) The story for this verse is identical with the one for the previous verse (DhP 254). 
+
+    The Buddhas, Awakened Ones have no "shaking". The meaning of this is that there is no instability, no wavering or unsteadiness of their minds. They have reached the highest Awakenment and their minds are truly firm and steady.
 
 --------------
 
