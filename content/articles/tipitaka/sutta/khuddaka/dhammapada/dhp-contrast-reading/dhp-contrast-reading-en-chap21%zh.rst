@@ -3,7 +3,7 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
 =====================================================================================================================================================
 
 :date: 2016-06-29 16:00
-:modified: 2016-06-29 16:00
+:modified: 2016-09-30 22:30
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, Miscellaneous, Pakiṇṇakavaggo, Miscellany, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -109,6 +109,13 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
 
        290 If by leaving a small pleasure one sees a great pleasure, let a wise man leave the small pleasure, and look to the great.
 
+   * - Cited from DLMBS [8]_
+     - **Chapter 21: Miscellaneous**
+
+       | **DhP 290** 
+       | Seeing that abandoning the small happiness one could obtain large happiness, 
+       | a wise one, considering the large happiness should abandon the small happiness. [DLMBSFn-V290]_
+
 .. _Dhp291:
 
 .. list-table:: Dhammapada Dhp. 291
@@ -152,6 +159,11 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 291 He who, by causing pain to others, wishes to obtain pleasure for himself, he, entangled in the bonds of hatred, will never be free from hatred.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 291** 
+       | He wants his own happiness by imposing suffering on others. 
+       | Full of hatred, he will not be released from hatred. [DLMBSFn-V291]_
 
 .. _Dhp292:
 
@@ -204,6 +216,11 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 292 What ought to be done is neglected, what ought not to be done is done; the desires of unruly, thoughtless people are always increasing.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 292** 
+       | What should be done - is rejected. What should not be done - that is being done. 
+       | Taints of those, who are proud and negligent, surely grow. [DLMBSFn-V292]_
+
 .. _Dhp293:
 
 .. list-table:: Dhammapada Dhp. 293
@@ -253,6 +270,12 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 293 But they whose whole watchfulness is always directed to their body, who do not follow what ought not to be done, and who steadfastly do what ought to be done, the desires of such watchful and wise people will come to an end.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 293** 
+       | Those who have very firm and constant mindfulness as to the body, 
+       | those do not practice what should not be done, they are persevering in what should be done. 
+       | The taints of those, who are mindful and thoughtful, become extinct. [DLMBSFn-V293]_
 
 .. _Dhp294:
 
@@ -307,6 +330,11 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 294 A true Brahmana goes scatheless, though he have killed father and mother, and two valiant kings, though he has destroyed a kingdom with all its subjects.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 294** 
+       | Having killed mother, father and two warrior kings, 
+       | having killed the whole country with its followers, undisturbed walks the holy man. [DLMBSFn-V294]_
+
 .. _Dhp295:
 
 .. list-table:: Dhammapada Dhp. 295
@@ -356,6 +384,11 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 295 A true Brahmana goes scatheless, though he have killed father and mother, and two holy kings, and an eminent man besides.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 295** 
+       | Having killed mother, father and two Brahmin kings, 
+       | having killed the tiger as fifth, undisturbed walks the Brahmin. [DLMBSFn-V295]_
 
 .. _Dhp296:
 
@@ -426,6 +459,11 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 296 The disciples of Gotama (Buddha) are always well awake, and their thoughts day and night are always set on Buddha.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 296** 
+       | The disciples of *Gotama*, whose mindfulness is day and night 
+       | constantly directed to the Buddha, those are always well awakened. [DLMBSFn-V296]_
+
 .. _Dhp297:
 
 .. list-table:: Dhammapada Dhp. 297
@@ -492,6 +530,11 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 297 The disciples of Gotama are always well awake, and their thoughts day and night are always set on the law.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 297** 
+       | The disciples of *Gotama*, whose mindfulness is day and night 
+       | constantly directed to the Dharma, those are always well awakened. [DLMBSFn-V297]_
 
 .. _Dhp298:
 
@@ -560,6 +603,11 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 298 The disciples of Gotama are always well awake, and their thoughts day and night are always set on the church.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 298** 
+       | The disciples of *Gotama*, whose mindfulness is day and night 
+       | constantly directed to the Sangha, those are always well awakened. [DLMBSFn-V298]_
+
 .. _Dhp299:
 
 .. list-table:: Dhammapada Dhp. 299
@@ -626,6 +674,11 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 299 The disciples of Gotama are always well awake, and their thoughts day and night are always set on their body.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 299** 
+       | The disciples of *Gotama*, whose mindfulness is day and night 
+       | constantly directed to the body, those are always well awakened. [DLMBSFn-V299]_
 
 .. _Dhp300:
 
@@ -694,6 +747,11 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 300 The disciples of Gotama are always well awake, and their mind day and night always delights in compassion.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 300** 
+       | The disciples of *Gotama*, whose mind is day and night 
+       | devoted to non-violence, those are always well awakened. [DLMBSFn-V300]_
+
 .. _Dhp301:
 
 .. list-table:: Dhammapada Dhp. 301
@@ -760,6 +818,11 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 301 The disciples of Gotama are always well awake, and their mind day and night always delights in meditation.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 301** 
+       | The disciples of *Gotama*, whose mind is day and night 
+       | devoted to meditation, those are always well awakened. [DLMBSFn-V301]_
+
 .. _Dhp302:
 
 .. list-table:: Dhammapada Dhp. 302
@@ -812,6 +875,12 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 302 It is hard to leave the world (to become a friar), it is hard to enjoy the world; hard is the monastery, painful are the houses; painful it is to dwell with equals (to share everything in common) and the itinerant mendicant is beset with pain. Therefore let no man be an itinerant mendicant and he will not be beset with pain.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 302** 
+       | It is difficult to become a monk. It is difficult to enjoy it. Unpleasant and difficult to endure is a life of a householder. 
+       | Painful is association with unequal. Wanderer in the round of rebirth is always followed by suffering. 
+       | Therefore, do not be a wanderer and do not be followed by suffering. [DLMBSFn-V302]_
+
 .. _Dhp303:
 
 .. list-table:: Dhammapada Dhp. 303
@@ -855,6 +924,11 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 303 Whatever place a faithful, virtuous, celebrated, and wealthy man chooses, there he is respected.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 303** 
+       | With trust, possessed of virtue, endowed with fame and wealth - 
+       | to whatever region does he resort, he is respected everywhere. [DLMBSFn-V303]_
+
 .. _Dhp304:
 
 .. list-table:: Dhammapada Dhp. 304
@@ -897,6 +971,11 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 304 Good people shine from afar, like the snowy mountains; bad people are not seen, like arrows shot by night.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 304** 
+       | The good ones shine from afar, like a snowy mountain. 
+       | The bad ones are unseen, like arrows shot at night. [DLMBSFn-V304]_
 
 .. _Dhp305:
 
@@ -949,6 +1028,11 @@ Chapter 21. Miscellaneous; Pakiṇṇakavaggo (Dhp.290-305), Parallel Reading (p
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 305 He alone who, without ceasing, practises the duty of sitting alone and sleeping alone, he, subduing himself, will rejoice in the destruction of all desires alone, as if living in a forest.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 305** 
+       | Sitting alone, sleeping in solitude, wandering alone and active, 
+       | alone subduing oneself - such a one would take delight in living in forests. [DLMBSFn-V305]_
+
 --------------
 
 **the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
@@ -979,6 +1063,8 @@ NOTE:
 .. [7] (note 007) original: `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
         THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
+
+.. [8] (note 8) original: `Readings in Pali Texts <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp>`__ ( `Digital Library & Museum of Buddhist Studies (DLMBS) <http://buddhism.lib.ntu.edu.tw/DLMBS/en/>`__ --- `Pali Lessons <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali1.jsp>`__ )
 
 .. [NāradaFn21-01] (Ven. Nārada 21-01) Observance of morality, practise of meditation, etc.
 
@@ -1015,6 +1101,76 @@ NOTE:
 .. [ThaniSFn-V301] (Ven. Thanissaro V. 301) "Developing the mind" in terms of the 37 Wings to Awakening: the four frames of reference (ardent, mindful alertness to body, feelings, mind states, and mental qualities in and of themselves), the four right exertions (to abandon and avoid evil, unskillful mental qualities, and to foster and strengthen skillful mental qualities), the four bases of power (concentration based on desire, persistence, intentness, and discrimination), the five strengths and five faculties (conviction, persistence, mindfulness, concentration, and discernment), the seven factors for self-awakening (see note 89), and the noble eightfold path (see note 191). For a full treatment of this topic, see The Wings to Awakening.
 
 .. [ThaniSFn-V303] (Ven. Thanissaro V. 303) DhpA: Wealth = both material wealth and the seven forms of noble wealth (ariya-dhana): conviction, virtue, shame, compunction (at the thought of doing evil), erudition, generosity, discernment.
+
+.. [DLMBSFn-V290] (DLMBS Commentary V290) Once there was a serious drought in Vesāli. It was followed by a famine and an epidemic of diseases. People of Vesāli tried many ways to ease this situation but nothing seemed to work. Finally, they sent messengers to the Buddha, asking him to go to Vesāli. The Buddha accepted. 
+
+    As soon as he with a large group of monks reached Vesāli there was a heavy rainfall, which cleaned the city. The Buddha recited a text called Ratana Sutta and instructed the monks to go around the city and recite the same text for seven days. After seven days, everything in Vesāli returned to normal. People of the city were very grateful to the Buddha and since that day, the Buddha had a large group of followers in Vesāli. The Ratana Sutta is used for protection even today.
+
+.. [DLMBSFn-V291] (DLMBS Commentary V291) Once there lived a woman who kept a hen. The hen would lay one egg every day and the woman would break it and eat it. The hen was very angry because of that and started hating the woman. As a result of his, they were always reborn together causing pain to each other. 
+
+    During the time of the Buddha, one of them was born as a woman and the other one as an ogress. Once the woman with her husband and son were on their way home from a visit to relatives. Her husband went to take a bath and she rested with her son by the roadside. At that moment, the ogress appeared and attacked her. The woman took her son and ran to the monastery for refuge. 
+
+    There the Buddha told them the whole story and asked them to stop hating each other, for otherwise they would never be free. He told them this verse to make them understand his meaning. Both of them realized the futility of hatred and agreed not to harm each other from then on.
+
+.. [DLMBSFn-V292] (DLMBS Commentary V292) In Bhaddiya there was a monastery with many monks. There was a sort of competition amongst these monks: who will make more beautiful ornamental slippers to wear. As a result of this, they neglected their meditation and they made no progress in spiritual matters. 
+
+    The matter was reported to the Buddha who admonished the monks from Bhaddiya. He told them this verse (and the following one, DhP 293). The monks realized the error of their ways and from that time on strove diligently to reach the Awakenment.
+
+.. [DLMBSFn-V293] (DLMBS Commentary V293) The story for this verse is identical with the one for the previous verse (DhP 292). 
+
+    These two verses are reminding us that we should not loose the vision of the final goal. If we spend most of our time trying to make "more and more beautiful slippers", then we have no time to practice in order to reach the goal. Only by diligently putting all of our effort into the practice, by staying mindful all of the time, can we hope to erase our taints and reach the Awakenment.
+
+.. [DLMBSFn-V294] (DLMBS Commentary V294) Once a group of monks visited the Buddha. While they were paying their respects, the monk Lakunṭaka Bhaddiya, who was an Arahant, passed by. The Buddha told the monks this verse (and the following one, DhP 295). He told the monks to look at Lakunṭaka Bhaddiya: he was a monk who has killed his parents, and kings, indeed the whole country; and yet he was walking calmly, without remorse. 
+
+    The monks could not understand what the Buddha was talking about! Surely this Arahant had killed nobody! Then the Buddha had to explain: "mother" means craving, "father" is conceit, "two warrior kings" are views of eternalism and nihilism, "the country" are sense-organs and sense-objects and the "followers" are attachment and lust.
+
+.. [DLMBSFn-V295] (DLMBS Commentary V295) The story for this verse is identical with the story for the previous one (DhP 294). 
+
+    Here, the Brahmin kings are a simile for two extreme views. The "tiger as fifth" is taken to mean the five mental hindrances. These are: sense-desire (**kāmacchanda**), ill-will (**vyāpāda**), sloth and torpor (**thīna-middha**), restlessness and scruples (**uddhacca-kukkucca**) and skeptical doubt (**vicikicchā**).
+
+.. [DLMBSFn-V296] (DLMBS Commentary V296) In the city of Rājagaha there lived a woodcutter. One day he took he and his son went to the forest to cut some wood. On the way back they stopped by a cemetery and ate their meal. While they were eating, their two oxen wandered away from them. When they realized this, the father went to search for the oxen and told the son to stay with the cart. The father found the oxen on the city but by that time the city gates were closed and he could not leave the city. 
+
+    The boy stayed outside by himself. He crawled under the cart and slept. At night, two spirits came and tried to frighten him. The boy cried, "I pay homage to the Buddha". The spirits immediately felt they had to protect the boy. One of them went to the palace of King Bimbisāra and brought the king's food tray full of food. The boy ate and then slept until morning. The spirits left a message for the king written on the food tray (but only the king could read it). 
+
+    In the morning the king's servants started to look for the tray. Finally they found it with the boy. They thought he stole it therefore they took him to the king. The king found the note on the tray and realized that this case was not easy. The boy kept telling them his parents came to him in the sleep and fed him. The king then sent for his parents who said they slept at home. 
+
+    The king decided and took all of them to see the Buddha. The Buddha explained what happened. The king then asked if mindfulness directed to the Buddha is the only way to guard against danger. The Buddha further explained by six verses (this one and the following five, DhP 297 - DhP 301) that mindfulness in general is the way to guard against danger.
+
+.. [DLMBSFn-V297] (DLMBS Commentary V297) The story for this verse is identical with the one for the previous verse (DhP 296) and the four following ones (DhP 298 - DhP 301). 
+
+    Recollection of the qualities of the Buddha, Dharma and Sangha is one of the most favorite meditation subjects in the meditation of insight (**vipassanā**).
+
+.. [DLMBSFn-V298] (DLMBS Commentary V298) The story for this verse is identical with the one for the previous verses (DhP 296, DhP 297) and the following ones (DhP 299 - DhP 301).
+
+.. [DLMBSFn-V299] (DLMBS Commentary V299) The story for this verse is identical with the one for the previous verses (DhP 296, DhP 297 and DhP 298) and the following ones (DhP 300 and DhP 301). 
+
+    This is perhaps the most important and most usual form of meditation - mindfulness of the body. We are trying to be mindful of all bodily movements, of breath, of every posture and intentions to move. There is one whole text in the Pali Buddhist Canon (**Satipaṭṭhāna-sutta**) dealing with this meditation.
+
+.. [DLMBSFn-V300] (DLMBS Commentary V300) The story for this verse is identical with the one for the previous verses (DhP 296, DhP 297, DhP 298 and DhP 299) and the following one (DhP 301). 
+
+    Non-violence is also one very important factor in Buddhist meditation. Active non-violence is also called **mettā** (loving-kindness). We should practice the meditation of loving-kindness at the end of every meditation session.
+
+.. [DLMBSFn-V301] (DLMBS Commentary V301) The story for this verse is identical with the one for the previous verses (DhP 296 - DhP 300). 
+
+    The forms of meditation described in the previous five verses are the most important in Buddhist practice. By following all of them, by devoting our minds to meditation day and night, we can truly hope to achieve the Awakenment and be free from suffering.
+
+.. [DLMBSFn-V302] (DLMBS Commentary V302) Once there was a big festival in Vesāli. The city was lit up and full of happy people, everybody was singing and dancing. A young monk in the monastery saw the festival from a distance and felt dissatisfied with his life as a monk. He complained aloud that he has the worst lot in the whole world. At that instant, a guardian spirit appeared and told the monk that as those in hells envy those in heaven, so do people from the city envy the monks in the forest. The monk realized the truth. 
+
+    In the morning he told this story to the Buddha, who admonished him with this verse, further adding that the monk should reflect on the impermanence and pain in the lives of all beings.
+
+.. [DLMBSFn-V303] (DLMBS Commentary V303) Venerable Sāriputta had a lay disciple named Citta. Although he was not a monk he attained the third level of Awakenment. Once he came to Sāvatthi in order to pay his respects to the Buddha. He came with a caravan, many carts loaded with food and other goods. He stayed in the monastery many days, continually making offerings to the Buddha and monks. But still his goods did not diminish one bit. 
+
+    The day before he had to leave for his hometown, Citta offered all of his goods to the Community. But his carts were immediately full again! The gods filled them up with various priceless things. Venerable Ānanda reported this to the Buddha. He replied with this verse, saying that somebody as Citta will be revered wherever he goes.
+
+.. [DLMBSFn-V304] (DLMBS Commentary V304) Anātha Piṇḍika and Ugga both studied under the same teacher while they were young. Later Anātha Piṇḍika had a daughter and Ugga had a son. When the children grew up, their parents arranged their marriage. The daughter of Anātha Piṇḍika, named Cūla Subhaddā went to live with her husband and parents-in-law. 
+
+    Ugga and his family were not followers of the Buddha, but they were disciples of different ascetic school (called "naked ascetics", because the monks did not wear any clothes). Cūla Subhaddā told her mother-in-law about the Buddha and she was anxious to see him. She agreed to invite the Buddha for the almsfood the next day. Because the Jetavana monastery was far away, Cūla Subhaddā made the invitation only with her heart. But the Buddha knew and accepted the invitation. 
+
+    At that day, Anātha Piṇḍika went to the monastery and invited the Buddha to have almsfood in his house the next day. But the Buddha replied that he had already accepted Cūla Subhaddā's invitation. Anātha Piṇḍika asked how was it possible if his daughter lived so far away. The Buddha replied with this verse, saying that the good ones can be seen and heard from far away. 
+
+    The next day, the Buddha with many monks went to the house of Ugga. After the meal, he delivered a discourse. The whole Ugga's family became followers of the Buddha.
+
+.. [DLMBSFn-V305] (DLMBS Commentary V305) Venerable Ekavihāri used to live alone, eat alone and meditating in solitude. He did not like to keep company of other monks. Some monks did not understand why he did so and reported the matter to the Buddha. The Buddha praised Ekavihāri and spoke this verse about how good it is for a monk to concentrate on meditation in seclusion.
 
 --------------
 
