@@ -3,7 +3,7 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
 ==============================================================================================================================================
 
 :date: 2016-06-29 15:30
-:modified: 2016-06-29 15:30
+:modified: 2016-09-30 18:00
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, The Path, Maggavaggo, The Way, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -107,6 +107,13 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
 
        273 The best of ways is the eightfold; the best of truths the four words; the best of virtues passionlessness; the best of men he who has eyes to see.
 
+   * - Cited from DLMBS [8]_
+     - **Chapter 1: The Path**
+
+       | **DhP 273** 
+       | The Eightfold Path is the best of Paths. The best of truths are the Four Truths. 
+       | The best of mental states is absence of passion. The best of people are the ones with insight. [DLMBSFn-V273]_
+
 .. _Dhp274:
 
 .. list-table:: Dhammapada Dhp. 274
@@ -170,6 +177,11 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 274 This is the way, there is no other that leads to the purifying of intelligence. Go on this way! Everything else is the deceit of Mara (the tempter).
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 274** 
+       | This is the path. There is no other for the purification of insight. 
+       | Enter upon this path. This is the deception of Mara. [DLMBSFn-V274]_
+
 .. _Dhp275:
 
 .. list-table:: Dhammapada Dhp. 275
@@ -231,6 +243,11 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 275 If you go on this way, you will make an end of pain! The way was preached by me, when I had understood the removal of the thorns (in the flesh).
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 275** 
+       | Having entered upon this path, you will make an end of suffering. 
+       | Having realized how to remove the arrow, I taught this path to you. [DLMBSFn-V275]_
+
 .. _Dhp276:
 
 .. list-table:: Dhammapada Dhp. 276
@@ -291,6 +308,11 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 276 You yourself must make an effort. The Tathagatas (Buddhas) are only preachers. The thoughtful who enter the way are freed from the bondage of Mara.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 276** 
+       | You must make an effort. The Buddhas are only teachers. 
+       | Those, who meditating entered upon this path, will be released from the bond of Mara. [DLMBSFn-V276]_
+
 .. _Dhp277:
 
 .. list-table:: Dhammapada Dhp. 277
@@ -345,6 +367,11 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 277 'All created things perish,' he who knows and sees this becomes passive in pain; this is the way to purity.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 277** 
+       | When one perceives with wisdom that all conditioned things are impermanent, 
+       | then one turns away from suffering. This is the path of purification. [DLMBSFn-V277]_
 
 .. _Dhp278:
 
@@ -401,6 +428,11 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 278 'All created things are grief and pain,' he who knows and sees this becomes passive in pain; this is the way that leads to purity.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 278** 
+       | When one perceives with wisdom that all conditioned things are unsatisfactory, 
+       | then one turns away from suffering. This is the path of purification. [DLMBSFn-V278]_
+
 .. _Dhp279:
 
 .. list-table:: Dhammapada Dhp. 279
@@ -456,6 +488,11 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 279 'All forms are unreal,' he who knows and sees this becomes passive in pain; this is the way that leads to purity.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 279** 
+       | When one perceives with wisdom that all things are without a self, 
+       | then one turns away from suffering. This is the path of purification. [DLMBSFn-V279]_
+
 .. _Dhp280:
 
 .. list-table:: Dhammapada Dhp. 280
@@ -503,6 +540,13 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 280 He who does not rouse himself when it is time to rise, who, though young and strong, is full of sloth, whose will and thought are weak, that lazy and idle man will never find the way to knowledge.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 280** 
+       | The lazy one, who is not exerting oneself during the time for exertion, 
+       | who is young and strong but full of sloth, 
+       | inactive and with a mind full of depressed thoughts - 
+       | such a one will not find a path of wisdom. [DLMBSFn-V280]_
 
 .. _Dhp281:
 
@@ -557,6 +601,13 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 281 Watching his speech, well restrained in mind, let a man never commit any wrong with his body! Let a man but keep these three roads of action clear, and he will achieve the way which is taught by the wise.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 281** 
+       | One should guard one's speech and restrain one's mind. 
+       | One should not do any evil bodily deed. 
+       | One should purify these three ways of acting. 
+       | One should attain the path declared by the Buddha. [DLMBSFn-V281]_
+
 .. _Dhp282:
 
 .. list-table:: Dhammapada Dhp. 282
@@ -605,6 +656,12 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 282 Through zeal knowledge is gotten, through lack of zeal knowledge is lost; let a man who knows this double path of gain and loss thus place himself that knowledge may grow.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 282** 
+       | From practice, knowledge is born. From absence of practice, loss of knowledge. 
+       | Having understood this crossroad of existence and cessation of knowledge, 
+       | one should so conduct oneself that the knowledge may grow. [DLMBSFn-V282]_
 
 .. _Dhp283:
 
@@ -673,6 +730,11 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 283 Cut down the whole forest (of lust), not a tree only! Danger comes out of the forest (of lust). When you have cut down both the forest (of lust) and its undergrowth, then, Bhikshus, you will be rid of the forest and free!
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 283** 
+       | Cut off the forest of passions, not just the single trees. From the forest, fear is born. 
+       | Having cut off the forest and the undergrowth, be without the forest of passions, monks. [DLMBSFn-V283]_
+
 .. _Dhp284:
 
 .. list-table:: Dhammapada Dhp. 284
@@ -733,6 +795,13 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 284 So long as the love of man towards women, even the smallest, is not destroyed, so long is his mind in bondage, as the calf that drinks milk is to its mother.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 284** 
+       | As long as the undergrowth of passion of a man towards women, 
+       | even a minuscule one, is not cut off, 
+       | so long his mind is bound, 
+       | just like a calf drinking milk from the mother. [DLMBSFn-V284]_
 
 .. _Dhp285:
 
@@ -796,6 +865,11 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 285 Cut out the love of self, like an autumn lotus, with thy hand! Cherish the road of peace. Nirvana has been shown by Sugata (Buddha).
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 285** 
+       | Cut off your own desires, as if picking an autumnal lotus with your hand. 
+       | Practice the path of tranquility, Nirvana taught by the Buddha. [DLMBSFn-V285]_
+
 .. _Dhp286:
 
 .. list-table:: Dhammapada Dhp. 286
@@ -845,6 +919,11 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 286 'Here I shall dwell in the rain, here in winter and summer,' thus the fool meditates, and does not think of his death.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 286** 
+       | "Here shall I spend the rains, here winter and summer", 
+       | thinks the fool. He does not understand the dangers. [DLMBSFn-V286]_
+
 .. _Dhp287:
 
 .. list-table:: Dhammapada Dhp. 287
@@ -892,6 +971,11 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 287 Death comes and carries off that man, praised for his children and flocks, his mind distracted, as a flood carries off a sleeping village.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 287** 
+       | That man who is delighting in his sons and cattle, with an attached mind, 
+       | the death will carry away, like a great flood the sleeping village. [DLMBSFn-V287]_
 
 .. _Dhp288:
 
@@ -944,6 +1028,11 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 288 Sons are no help, nor a father, nor relations; there is no help from kinsfolk for one whom death has seized.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 288** 
+       | Sons cannot protect you, or father, or other relatives. 
+       | When you are seized by the death, all relatives are of no help to you. [DLMBSFn-V288]_
 
 .. _Dhp289:
 
@@ -1002,6 +1091,11 @@ Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph gran
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 289 A wise and good man who knows the meaning of this, should quickly clear the way that leads to Nirvana.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 289** 
+       | The wise man restrained by virtue, knowing this reasoning, 
+       | should quickly purify the path leading to Nirvana. [DLMBSFn-V289]_
+
 --------------
 
 **the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
@@ -1032,6 +1126,8 @@ NOTE:
 .. [7] (note 007) original: `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
         THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
+
+.. [8] (note 8) original: `Readings in Pali Texts <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp>`__ ( `Digital Library & Museum of Buddhist Studies (DLMBS) <http://buddhism.lib.ntu.edu.tw/DLMBS/en/>`__ --- `Pali Lessons <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali1.jsp>`__ )
 
 .. [NāradaFn20-01] (Ven. Nārada 20-01) The Eightfold Path is the Middle Way discovered by the Buddha for the realization of Nibbāna. It consists of: right understanding(sammā diññhi), right thoughts (sammā saṅkappa), right speech (sammā vācā), right action (sammā kammanta), right livelihood (sammā ājīva), right effort (sammā vāyāma), right mindfulness (sammā sati), and right concentration (sammā samādhi).
 
@@ -1082,6 +1178,70 @@ NOTE:
 .. [VaradoFn-V275] (Ven. Varado V.275) Verse 275: The sting of the arrow I’ve known/ And, to you, the appeasement (santhanaṃ) I’ve shown. PED (santhana): appeasing.  
 
 .. [VaradoFn-V285] (Ven. Varado V.285) Verse 285: "crush (ucchinda) an exquisite carnation". PED (ucchindati): destroy.
+
+.. [DLMBSFn-V273] (DLMBS Commentary V273) Once the Buddha with a group of monks returned to the Jetavana monastery after a teaching trip. In the evening, some monks talked about the trip, about the condition of the path, about the nature of the land, whether it was hilly or flat etc. 
+
+    The Buddha entered the hall where they were talking and told them this verse (and the following ones, DhP 274, DhP 275 and DhP 276), saying that such talks were ultimately meaningless.
+
+.. [DLMBSFn-V274] (DLMBS Commentary V274) The story for this verse is identical with the one for the previous verse (DhP 273) and the following ones (DhP 275 and DhP 276). 
+    The Eightfold path is said to be the only way to reach the Awakenment. It means, we have to follow all the eight constituents of the Path in order to be able to purify the mind and attain the Nirvana. What are the eight constituents of the Eightfold path? They are Right View, Right Thought, Right Speech, Right Action, Right Livelihood, Right Effort, Right Mindfulness and Right Concentration.
+
+.. [DLMBSFn-V275] (DLMBS Commentary V275) The story for this verse is identical with the one for the previous verses (DhP 273, DhP 274) and the following one (DhP 276). 
+
+    The Buddha taught the teaching that he personally discovered. He taught from his own experience. He found out how to "remove the arrow", or how to end the suffering. He then proclaimed this path for everyone to follow. By doing so, we are able to do what the Buddha did - to put an end to suffering forever.
+
+.. [DLMBSFn-V276] (DLMBS Commentary V276) The story for this verse is identical with the one for the previous verses (DhP 273, DhP 274 and DhP 275). 
+
+    The Buddha found the way to make an end to suffering. He taught it to us. But we have to make the effort. Nobody will do it for us. We cannot wait for a teacher to pull us from the swamp by some miracle. Only by diligent meditation and daily practice can we be released from the bond of Mara, from the world of suffering.
+
+.. [DLMBSFn-V277] (DLMBS Commentary V277) Once a group of monks obtained a subject of meditation from the Buddha. They went to the forest and practiced meditation. However, they made a little progress. Therefore they returned to the Buddha and asked him for another subject of meditation. The Buddha reflected that due to their past lives they were ready to perceive the impermanence of things. He told them this verse and advised them to meditate on its meaning.
+
+.. [DLMBSFn-V278] (DLMBS Commentary V278) Once a group of monks obtained a subject of meditation from the Buddha. They went to the forest and practiced meditation. However, they made a little progress. Therefore they returned to the Buddha and asked him for another subject of meditation. The Buddha reflected that due to their past lives they were ready to perceive the unsatisfactoriness of conditioned things. He told them this verse and advised them to meditate on its meaning
+
+.. [DLMBSFn-V279] (DLMBS Commentary V279) Once a group of monks obtained a subject of meditation from the Buddha. They went to the forest and practiced meditation. However, they made a little progress. Therefore they returned to the Buddha and asked him for another subject of meditation. The Buddha reflected that due to their past lives they were ready to perceive that all things are without a self. He told them this verse and advised them to meditate on its meaning.
+
+.. [DLMBSFn-V280] (DLMBS Commentary V280) A group of young men became monks. They all received a subject of meditation from the Buddha and went to the forest to practice meditation. But one of them, named Tissa, stayed behind in the monastery and did not meditate diligently. 
+
+    The monks who practiced meditation all attained Awakenment and came back to the monastery to pay their respects to the Buddha. When Tissa saw that all of his friends were now Arahants, he regretted that he wasted his time. He decided to try very hard and started to meditate throughout the night. While he was practicing walking meditation he slipped and broke his leg. When the Buddha heard about this he spoke this verse, saying that we should exert while we can.
+
+.. [DLMBSFn-V281] (DLMBS Commentary V281) Venerable Moggallāna once went on an alms-round with Venerable Lakkhana. Suddenly Moggallāna smiled, because he saw a hungry ghost (*peta*) with the head of a pig and a human body. Later Lakkhana asked Moggallāna why he smiled. Moggallāna told him about the *peta*.
+
+    The Buddha overheard that and told them that he himself saw the same *peta*. He then related the *peta*'s story. Once he was a famous monk who was very good at expounding the Dharma. Once he came to a monastery, where two friend monks stayed. After a while he realized that he liked the place very much. There was plenty of good food and the lay followers liked his way of expounding the Dharma. So he decided to make the two monks go away and keep the place just for himself. He set one friend against the other. They quarreled and left away. 
+
+    Because of this the monk suffered for a long time. He had to be born as a hungry ghost. The Buddha finished his story by this verse, saying that we should always guard our actions bodily, verbal and mental.
+
+.. [DLMBSFn-V282] (DLMBS Commentary V282) There was a monk name Pothila. He knew the Dharma very well and taught it to many followers. But he did not practice meditation and was conceited. The Buddha wanted to put him on the right path and therefore called him "useless Pothila". Pothila reflected on those words and realized what did the Buddha mean. So he went to the senior monk and humbly asked to be his pupil. But the monk sent him to the next senior monk. This happened several times until Pothila ended up as a pupil of a young novice (who was an Arahant). 
+
+    He followed the meditation instructions diligently and was no longer conceited because of his theoretical mastery of the Dharma. The Buddha saw his effort and told him this verse. Soon after, Pothila reached the Awakenment.
+
+.. [DLMBSFn-V283] (DLMBS Commentary V283) In the city of Sāvatthi there lived five friends. When they became old, they all went forth and became monks. But they had the habit of going to their old homes for almsfood. Especially a former wife of one of them was a very good cook. So they went to her house often and she looked after them. But one day, this old lady fell sick and died. The five friends wept and lamented, praising her virtues. 
+
+    The Buddha overheard this and told them this verse (and the following one, DhP 284), saying that sorrow comes from ignorance, greed and hatred. Especially in this case, greed was the main factor. So he taught them to cut off "the forest" of greed and passions in order to be free from sorrow.
+
+.. [DLMBSFn-V284] (DLMBS Commentary V284) The story for this verse is identical with the one for the previous verse (DhP 283). 
+
+    Greed or passion is one of the three main roots of evil. Due to the underlying ignorance, we feel passion and hatred, like and dislike. Because of that we do things with the mind bound with passion or hatred. Therefore we create karma that keeps us in the circle of life and death. Only when we cut off these passions and dissolve ignorance, can we stop creating karmically good and bad deeds and be free from suffering, with a free mind.
+
+.. [DLMBSFn-V285] (DLMBS Commentary V285) Venerable Sāriputta had a young monk as a pupil. This monk was a son of a goldsmith. Sāriputta gave him a subject of meditation (impurity of the body) and the monk went to the forest to practice meditation. But he did not make any progress and kept returning to Sāriputta to ask for more instructions. So Sāriputta took him to see the Buddha. 
+
+    The Buddha changed the tactics. He gave the monk a beautiful lotus. He told him to put it in front of himself and meditate on its purity and beauty. The monk did so and was able to reach unbroken concentration and achieve the fourth level of mental absorption (**jhāna**). 
+
+    At that moment the Buddha made the lotus to wither. The monk saw this and 
+    realized the impermanence of all things. The Buddha then further exhorted him with this verse. The monk reflected on its meaning and attained the Awakenment.
+
+.. [DLMBSFn-V286] (DLMBS Commentary V286) Mahādhana was a merchant from Benares. Once he came to Sāvatthi during a festival, hoping to sell his goods. But on the way he was stopped by a flood and could not cross the river for seven days. Thus the festival ended before he even got there. 
+
+    Mahādhana decided to stay in Sāvatthi for some time and sell his goods slowly. Once the Buddha saw him and smiled. Ānanda asked him about the reason for his smile. The Buddha replied that Mahādhana is not aware of his impeding death and thinks he can stay in Sāvatthi comfortably, sell his goods and then return home. 
+
+    Ānanda then advised Mahādhana to listen to the Buddha's sermons and to practice mindfulness. Mahādhana was alarmed when he heard that he was about to die. For seven days he gave alms to the Buddha and monks and listened to the Dharma. After hearing this verse from the Buddha, he attained the first stage of Awakenment. After he died he was reborn in the Tusita heaven.
+
+.. [DLMBSFn-V287] (DLMBS Commentary V287) Kisā Gotami came to see the Buddha after her only son died. The Buddha told her this verse in order to calm her down. See DhP 114 for the whole story.
+
+.. [DLMBSFn-V288] (DLMBS Commentary V288) Paṭācārā lost her husband, two sons, parents and the only brother almost at the same time. She grieved so much that she went almost crazy. When she came to see the Buddha, he told her this verse (and the following one, DhP 289) to calm her down. For the whole story see DhP 113.
+
+.. [DLMBSFn-V289] (DLMBS Commentary V289) The story for this verse is identical with the one for the previous verse (DhP 288). 
+
+    The only help and protection against the death is constant and intensive practice of the Buddha’s teaching. No external help from relatives, friends or gods of any kind is possible when we have to face the death. Only by following the path of meditation and awareness, can we overcome death and face it without any fear.
 
 --------------
 
