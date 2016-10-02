@@ -3,7 +3,7 @@ Chapter 22. Hell; Nirayavaggo (Dhp.273-289), Parallel Reading (paragraph granula
 ==============================================================================================================================================
 
 :date: 2016-06-29 16:30
-:modified: 2016-06-29 16:30
+:modified: 2016-10-02 14:00
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, Hell, Nirayavaggo, The State of Woe, Woeful State, The Abyss, The Downward Course, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Chapter 20. The Path; Maggavaggo (Dhp.273-289), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -106,6 +106,15 @@ Chapter 22. Hell; Nirayavaggo (Dhp.273-289), Parallel Reading (paragraph granula
 
        306 He who says what is not, goes to hell; he also who, having done a thing, says I have not done it. After death both are equal, they are men with evil deeds in the next world.
 
+   * - Cited from DLMBS [8]_
+     - **Chapter 22: The Hell**
+
+       | **DhP 306** 
+       | One, who speaks lies, goes to hell. 
+       | And also the one, who having done a deed, says, "I did not do it". 
+       | Both these people of low actions are equal, 
+       | in the other world, after they die. [DLMBSFn-V306]_
+
 .. _Dhp307:
 
 .. list-table:: Dhammapada Dhp. 307
@@ -155,6 +164,11 @@ Chapter 22. Hell; Nirayavaggo (Dhp.273-289), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 307 Many men whose shoulders are covered with the yellow gown are ill-conditioned and unrestrained; such evil-doers by their evil deeds go to hell.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 307** 
+       | There are plenty of those who are wearing monk's robe but are of evil nature and without self-control. 
+       | These evil ones will be reborn in hell because of their evil deeds. [DLMBSFn-V307]_
+
 .. _Dhp308:
 
 .. list-table:: Dhammapada Dhp. 308
@@ -203,6 +217,11 @@ Chapter 22. Hell; Nirayavaggo (Dhp.273-289), Parallel Reading (paragraph granula
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 308 Better it would be to swallow a heated iron ball, like flaring fire, than that a bad unrestrained fellow should live on the charity of the land.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 308** 
+       | It is better to eat an iron ball, hot like a fire's crest, 
+       | than to eat a country's almsfood, immoral and without self-control. [DLMBSFn-V308]_
 
 .. _Dhp309:
 
@@ -272,6 +291,13 @@ Chapter 22. Hell; Nirayavaggo (Dhp.273-289), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 309 Four things does a wreckless man gain who covets his neighbour's wife,--a bad reputation, an uncomfortable bed, thirdly, punishment, and lastly, hell.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 309** 
+       | The negligent man, who chases after others' wives, 
+       | will get into these four states: 
+       | accumulation of demerit, uncomfortable bed, 
+       | blame as the third, hell as the fourth. [DLMBSFn-V309]_
+
 .. _Dhp310:
 
 .. list-table:: Dhammapada Dhp. 310
@@ -338,6 +364,13 @@ Chapter 22. Hell; Nirayavaggo (Dhp.273-289), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 310 There is bad reputation, and the evil way (to hell), there is the short pleasure of the frightened in the arms of the frightened, and the king imposes heavy punishment; therefore let no man think of his neighbour's wife.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 310** 
+       | Accumulation of demerit; and a bad rebirth. 
+       | The pleasure of the frightened couple is very small. 
+       | And the king inflicts a serious punishment. 
+       | Therefore a man should not chase after others' wives. [DLMBSFn-V310]_
+
 .. _Dhp311:
 
 .. list-table:: Dhammapada Dhp. 311
@@ -395,6 +428,11 @@ Chapter 22. Hell; Nirayavaggo (Dhp.273-289), Parallel Reading (paragraph granula
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 311 As a grass-blade, if badly grasped, cuts the arm, badly-practised asceticism leads to hell.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 311** 
+       | Just like a wrongly taken kusa grass cuts the hand, 
+       | wrongly grasped monkshood drags one towards the hell. [DLMBSFn-V311]_
 
 .. _Dhp312:
 
@@ -454,6 +492,11 @@ Chapter 22. Hell; Nirayavaggo (Dhp.273-289), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 312 An act carelessly performed, a broken vow, and hesitating obedience to discipline, all this brings no great reward.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 312** 
+       | A lax action, an impure vow, 
+       | a doubtful monk's life - all this does not bring much fruit. [DLMBSFn-V312]_
+
 .. _Dhp313:
 
 .. list-table:: Dhammapada Dhp. 313
@@ -512,6 +555,11 @@ Chapter 22. Hell; Nirayavaggo (Dhp.273-289), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 313 If anything is to be done, let a man do it, let him attack it vigorously! A careless pilgrim only scatters the dust of his passions more widely.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 313** 
+       | If something is to be done, one should then do it and undertake it firmly. 
+       | A lax life as a monk will only heap up more dust of hindrances. [DLMBSFn-V313]_
+
 .. _Dhp314:
 
 .. list-table:: Dhammapada Dhp. 314
@@ -569,6 +617,11 @@ Chapter 22. Hell; Nirayavaggo (Dhp.273-289), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 314 An evil deed is better left undone, for a man repents of it afterwards; a good deed is better done, for having done it, one does not repent.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 314** 
+       | It is better not to do a bad deed. One is tormented by remorse after a bad deed. 
+       | It is better to do a good deed, which one does not regret when it is accomplished. [DLMBSFn-V314]_
+
 .. _Dhp315:
 
 .. list-table:: Dhammapada Dhp. 315
@@ -614,6 +667,12 @@ Chapter 22. Hell; Nirayavaggo (Dhp.273-289), Parallel Reading (paragraph granula
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 315 Like a well-guarded frontier fort, with defences within and without, so let a man guard himself. Not a moment should escape, for they who allow the right moment to pass, suffer pain when they are in hell.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 315** 
+       | Just like a border city is guarded within and without, 
+       | so you should protect yourself. Let no moment escape you. 
+       | Those who let the right moment go by grieve, consigned to hell. [DLMBSFn-V315]_
 
 .. _Dhp316:
 
@@ -670,6 +729,11 @@ Chapter 22. Hell; Nirayavaggo (Dhp.273-289), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 316 They who are ashamed of what they ought not to be ashamed of, and are not ashamed of what they ought to be ashamed of, such men, embracing false doctrines enter the evil path.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 316** 
+       | They are ashamed of what is not shameful. They are not ashamed of what is shameful. 
+       | Believing in wrong theories, the beings go to a miserable existence. [DLMBSFn-V316]_
+
 .. _Dhp317:
 
 .. list-table:: Dhammapada Dhp. 317
@@ -722,6 +786,11 @@ Chapter 22. Hell; Nirayavaggo (Dhp.273-289), Parallel Reading (paragraph granula
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 317 They who fear when they ought not to fear, and fear not when they ought to fear, such men, embracing false doctrines, enter the evil path.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 317** 
+       | Being afraid of what is not frightful and not fearing the frightful thing, 
+       | believing in wrong theories, the beings go to a miserable existence. [DLMBSFn-V317]_
 
 .. _Dhp318:
 
@@ -777,6 +846,11 @@ Chapter 22. Hell; Nirayavaggo (Dhp.273-289), Parallel Reading (paragraph granula
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 318 They who forbid when there is nothing to be forbidden, and forbid not when there is something to be forbidden, such men, embracing false doctrines, enter the evil path.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 318** 
+       | Thinking to be faulty what is not and not seeing a fault where it is, 
+       | believing in wrong theories, the beings go to a miserable existence. [DLMBSFn-V318]_
 
 .. _Dhp319:
 
@@ -837,6 +911,11 @@ Chapter 22. Hell; Nirayavaggo (Dhp.273-289), Parallel Reading (paragraph granula
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 319 They who know what is forbidden as forbidden, and what is not forbidden as not forbidden, such men, embracing the true doctrine, enter the good path.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 319** 
+       | Having known the fault as the fault, non-faulty as non-faulty, 
+       | believing in right theories, the beings go to a pleasurable existence. [DLMBSFn-V319]_
+
 --------------
 
 **the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
@@ -868,6 +947,8 @@ NOTE:
 
         THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
 
+.. [8] (note 8) original: `Readings in Pali Texts <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp>`__ ( `Digital Library & Museum of Buddhist Studies (DLMBS) <http://buddhism.lib.ntu.edu.tw/DLMBS/en/>`__ --- `Pali Lessons <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali1.jsp>`__ )
+
 .. [NāradaFn22-01] (Ven. Nārada 22-01) Saṅkassaraṃ = to think or remember with suspicion.
 
 .. [NāradaFn22-02] (Ven. Nārada 22-02) The birth of a Buddha, a congenial habitation, a healthy body, the possession of right views, etc.
@@ -877,6 +958,70 @@ NOTE:
 .. [NāradaFn22-04] (Ven. Nārada 22-04) Avajja means right belief and vajja means wrong belief.
 
 .. [VaradoFn-V315] (Ven. Varado V.315) Verse 315: "Do not miss the opportunity (khano)". PED (khano): opportunity, as well as moment.
+
+.. [DLMBSFn-V306] (DLMBS Commentary V306) The Buddha had many followers. Some of them had been disciples of other teachers and came to the Buddha after hearing and realizing the Dharma. The other teachers did not much like this and some of them came up with a plan. 
+
+    They instructed a young woman named Sundarī to make it appear as if she had an affair with the Buddha. In the evening, she would go in the direction of the monastery and in the morning return from that direction to the city. To anyone interested she would say that she is the Buddha's mistress. Then the plotters hired some killers to kill Sundarī and dumped her body near the Buddha's monastery. 
+
+    The body was found and the plotters started to go around the city, saying that not only the Buddha had a mistress; he also killed her when the fact became known. The Buddha remained calm, he just replied with this verse. 
+
+    The king decided to investigate the matter further. Thus his men learned about the hired killers. When these were arrested, they admitted to being hired by the evil plotters. They were made to go around the city, proclaiming their own crime and the Buddha's complete innocence in the matter. The fame of the Buddha was much enhanced and he had even more followers than before.
+
+.. [DLMBSFn-V307] (DLMBS Commentary V307) Venerable Moggallāna once saw a group of hungry spirits (**peta**). When he returned to the monastery, he asked the Buddha about the spirits. The Buddha said that these were monks a long time ago. But they did not pay any attention to their spiritual development and committed a lot of evil deeds. Because of that, they were suffering in hell for a long period of time and now were still reborn in a woeful state. 
+
+    The Buddha then added this verse, saying that if a monk does not take the monkshood seriously, he can expect bad results.
+
+.. [DLMBSFn-V308] (DLMBS Commentary V308) Once there was a famine. In order to have enough food, some monks pretended in front of lay followers that they have attained Arahantship. The lay followers offered them only the best food, leaving almost nothing for themselves. 
+
+    At the end of the Rain Retreat, the monks went to see the Buddha. Whereas all the other monks were pale and undernourished, this group was very healthy and fat. The Buddha asked them how that was possible. They told him what happened. The Buddha spoke this verse, saying that for a monk to pretend some level of attainment was one of the worst things to do.
+
+.. [DLMBSFn-V309] (DLMBS Commentary V309) The famous benefactor Anātha Piṇḍika had a nephew named Khema. He was not only very rich, but also very handsome. Women fell attracted to him and Khema committed adultery often. He was caught several times, but the king did not take any actions against him, out of respect for his uncle. When Anātha Piṇḍika found out, he took Khema to see the Buddha. The Buddha spoke this verse (and the following one, Dhp 310) enumerating the bad results of adultery. Khema changed his behavior and observed the code of morality, the Five Precepts.
+
+.. [DLMBSFn-V310] (DLMBS Commentary V310) The story for this verse is identical with the one for the previous verse (DhP 309).
+
+.. [DLMBSFn-V311] (DLMBS Commentary V311) There was a monk who once unintentionally cut of some plants. He felt very remorseful and confessed to another monk his offence. This second monk just laughed at him, saying that cutting of plants is only a very minor offence. To show, what he felt about it, this monk started to uproot plants around him. 
+
+    When the Buddha heard about this, he advised this monk by this verse (and two following one, DhP 312 and DhP 313) not to think little of minor rules. Plants are also living beings and should not be destroyed without reason. At first, the monk was obstinate, but later he realized the importance of the monk's precepts. Thereafter he followed the moral code strictly and practiced the meditation diligently. Later he attained the Arahantship.
+
+.. [DLMBSFn-V312] (DLMBS Commentary V312) The story for this verse is identical with the one for the previous verse (DhP 311) and the following one (DhP 313). 
+
+    Again, we are reminded, that the life of a monk is not easy. We should not think it to be very undemanding. This life is very difficult and full of hardships. A monk must endure them all, without trying to bend the rules of monastic conduct. Only then will the monastic life bear the ultimate fruit - the attainment of Arahantship.
+
+.. [DLMBSFn-V313] (DLMBS Commentary V313) The story for this verse is identical with the one for the previous two verses (DhP 311, DhP 312). 
+
+    When one becomes a monk, it is because "there is something to be done". The task is - the complete liberation from the cycle of rebirths. All the energy should be applied to this task. If a monk is lax, there is no progress possible. The only result will be "heaping up" of more and more "dust" - hindrances and obstacles on the way to this final goal.
+
+.. [DLMBSFn-V314] (DLMBS Commentary V314) In Sāvatthi there lived a very jealous woman. She found out that her husband was having an affair with her maid. So one day she tied up the maid, cut off her ears and nose and locked her up in a room. Then she accompanied her husband to the Jetavana monastery. 
+
+    The relatives of the maid immediately found out what happened. They freed her and took her to see the Buddha. The maid told the whole congregation (where the woman with her husband were also present) what had happened. The Buddha admonished the woman with this verse, saying that it is better not to do any kind of evil, not even in secret - because everything will be known at the end. The woman realized her mistakes and strove to uproot her jealousy.
+
+.. [DLMBSFn-V315] (DLMBS Commentary V315) Some monks were staying at the border city. At the beginning the people of the city took good care of them and provided them with all the necessities. But later some bandits attacked the city, plundered it and took many citizens away. As a result, the city had to be rebuilt and the people did not have enough to look after the monks as much as before. 
+
+    After some time, the monks went to see the Buddha and told him the story. The Buddha told them they should not be greedy and be satisfied with a little. He further admonished them with this verse, saying that just like the citizens guarded their city, so a monk should be always on guard and practice earnestly.
+
+.. [DLMBSFn-V316] (DLMBS Commentary V316) A group of monks once saw some naked ascetics on their almsround. They were naked but they had their bowls covered with a piece of cloth. The monks remarked that perhaps they should put the cloth on the front part of the body. The naked ascetics retorted that they cover their bowls because they do not want insect and miniature life-form to enter the bowl and be killed by them later. 
+
+    The monks returned to the monastery and told the story to the Buddha. The Buddha reacted with this verse (and the following one, DhP 317), saying that one who is ashamed of what is not shameful, but not ashamed of a shameful thing, surely will undergo a bad rebirth.
+
+.. [DLMBSFn-V317] (DLMBS Commentary V317) The story for this verse is identical with the one for the preceding verse (DhP 316). 
+
+    We should be ashamed and afraid of things that are truly bad. Causing suffering to others in any way is bad and we should be always ashamed and afraid of doing so. 
+
+    On the other hand, being afraid and ashamed of something that is not bad at all (as for example the naked ascetics from the story) will not help us in any way on the road to the Awakenment. Thus we will only accumulate demerit and suffer a bad rebirth in the next life.
+
+.. [DLMBSFn-V318] (DLMBS Commentary V318) All members of a certain family in Sāvatthi were followers of an ascetic. They did not want their children to mix with the Buddha's followers' children. They specifically forbade their children to go to the Jetavana monastery. 
+
+    But once all the children were playing in the vicinity of the monastery and got thirsty. They asked one of their friends, whose parents were followers of the Buddha, to go to the monastery and bring them some water. The boy went inside and paid his respects to the Buddha. He told him about his friends who were not allowed to enter. 
+
+    The Buddha invited the children in to have a drink and gave them a discourse. At the end, the children became his followers. 
+
+    When they came home, they told their parents what happened. The parents were very angry and accused their children of disloyalty. But the neighbors, who were the followers of the Buddha, were able to change their view gradually and before long the whole family converted to the Buddha's teaching. 
+
+    When the Buddha heard about this, he spoke this verse (and the following one, DhP 319).
+
+.. [DLMBSFn-V319] (DLMBS Commentary V319) The story for this verse is identical with the one for the previous verse (DhP 318). 
+
+    In order to ascertain a good future existence, both in this life and in the next one, we must always understand and distinguish right from wrong, good from bad. We also must use our understanding and insight to be able to decide which is which. Without this understanding we might choose wrongly and believe the good to be bad and vice versa. In this way, our future existence will not be good.
 
 --------------
 
