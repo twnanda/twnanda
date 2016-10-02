@@ -3,7 +3,7 @@ Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph 
 ==============================================================================================================================================
 
 :date: 2016-06-29 16:30
-:modified: 2016-06-29 16:30
+:modified: 2016-10-02 19:00
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, The Elephant, Nāgavaggo, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -102,6 +102,13 @@ Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph 
 
        320 Silently shall I endure abuse as the elephant in battle endures the arrow sent from the bow: for the world is ill-natured.
 
+   * - Cited from DLMBS [8]_
+     - **Chapter 23: The Elephant**
+
+       | **DhP 320** 
+       | As an elephant in the battle endures the arrows shot from bows, 
+       | so will I endure abuse. Many people are of bad morality. [DLMBSFn-V320]_
+
 .. _Dhp321:
 
 .. list-table:: Dhammapada Dhp. 321
@@ -147,6 +154,11 @@ Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph 
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 321 They lead a tamed elephant to battle, the king mounts a tamed elephant; the tamed is the best among men, he who silently endures abuse.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 321** 
+       | A tamed elephant is led into the assembly. The king mounts a tamed elephant. 
+       | The tamed one, who endures abuses, is the best amongst people. [DLMBSFn-V321]_
 
 .. _Dhp322:
 
@@ -194,6 +206,11 @@ Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph 
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 322 Mules are good, if tamed, and noble Sindhu horses, and elephants with large tusks; but he who tames himself is better still.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 322** 
+       | Excellent are tamed mules; and the thoroughbred horses from Sindh; 
+       | Eand all kinds of elephants. One who tamed himself is the best of all. [DLMBSFn-V322]_
 
 .. _Dhp323:
 
@@ -245,6 +262,11 @@ Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph 
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 323 For with these animals does no man reach the untrodden country (Nirvana), where a tamed man goes on a tamed animal, viz. on his own well-tamed self.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 323** 
+       | Not by all these vehicles could one go to the land previously not traveled to, 
+       | as would one who is tamed would go by himself being tamed and well controlled. [DLMBSFn-V323]_
+
 .. _Dhp324:
 
 .. list-table:: Dhammapada Dhp. 324
@@ -287,6 +309,13 @@ Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph 
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 324 The elephant called Dhanapalaka, his temples running with sap, and difficult to hold, does not eat a morsel when bound; the elephant longs for the elephant grove.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 324** 
+       | The elephant named Dhanapala, 
+       | difficult to control in his rut 
+       | and bound does not eat his food. 
+       | He remembers his life in the elephant-grove. [DLMBSFn-V324]_
 
 .. _Dhp325:
 
@@ -331,6 +360,13 @@ Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph 
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 325 If a man becomes fat and a great eater, if he is sleepy and rolls himself about, that fool, like a hog fed on wash, is born again and again.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 325** 
+       | If one is sluggish and eats too much, 
+       | is sleepy and rolls about in his sleep, 
+       | such a lazy one is like a fat well fed hog - 
+       | will be born again and again. [DLMBSFn-V325]_
 
 .. _Dhp326:
 
@@ -378,6 +414,13 @@ Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph 
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 326 This mind of mine went formerly wandering about as it liked, as it listed, as it pleased; but I shall now hold it in thoroughly, as the rider who holds the hook holds in the furious elephant.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 326** 
+       | This mind of mine used to wander around aimlessly, 
+       | as it liked, wherever it wanted, as was its pleasure. 
+       | Today, I will restrain it thoroughly, 
+       | just as the elephant driver subdues an elephant in rut. [DLMBSFn-V326]_
+
 .. _Dhp327:
 
 .. list-table:: Dhammapada Dhp. 327
@@ -423,6 +466,11 @@ Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph 
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 327 Be not thoughtless, watch your thoughts! Draw yourself out of the evil way, like an elephant sunk in mud.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 327** 
+       | Be devoted to conscientiousness. Guard your own mind. 
+       | Lift yourself up from this bad place, just like an elephant sunk in mud. [DLMBSFn-V327]_
 
 .. _Dhp328:
 
@@ -479,6 +527,13 @@ Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph 
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 328 If a man find a prudent companion who walks with him, is wise, and lives soberly, he may walk with him, overcoming all dangers, happy, but considerate.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 328** 
+       | If you find an intelligent companion, 
+       | a fellow-traveler of pure actions and wise, 
+       | you should overcome all problems 
+       | and travel with him, delighted and mindful. [DLMBSFn-V328]_
+
 .. _Dhp329:
 
 .. list-table:: Dhammapada Dhp. 329
@@ -534,6 +589,13 @@ Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph 
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 329 If a man find no prudent companion who walks with him, is wise, and lives soberly, let him walk alone, like a king who has left his conquered country behind,--like an elephant in the forest.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 329** 
+       | If you do not find an intelligent companion, 
+       | a fellow-traveler of pure actions and wise, 
+       | like a king leaves behind the subdued kingdom, 
+       | you should travel alone, just like an elephant in the elephant-grove. [DLMBSFn-V329]_
+
 .. _Dhp330:
 
 .. list-table:: Dhammapada Dhp. 330
@@ -588,6 +650,12 @@ Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph 
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 330 It is better to live alone, there is no companionship with a fool; let a man walk alone, let him commit no sin, with few wishes, like an elephant in the forest.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 330** 
+       | It is better to live alone; there is no companionship with a fool. 
+       | One should live alone, and commit no evil. 
+       | One should be content with little, like an elephant in the elephant-grove. [DLMBSFn-V330]_
 
 .. _Dhp331:
 
@@ -645,6 +713,13 @@ Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph 
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 331 If an occasion arises, friends are pleasant; enjoyment is pleasant, whatever be the cause; a good work is pleasant in the hour of death; the giving up of all grief is pleasant.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 331** 
+       | Good are friends when need arises. 
+       | Good is satisfaction with whatever one has. 
+       | Good is merit when the life comes an end. 
+       | Good is to abandon all suffering completely. [DLMBSFn-V331]_
+
 .. _Dhp332:
 
 .. list-table:: Dhammapada Dhp. 332
@@ -700,6 +775,11 @@ Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph 
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 332 Pleasant in the world is the state of a mother, pleasant the state of a father, pleasant the state of a Samana, pleasant the state of a Brahmana.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 332** 
+       | Being filial towards one's mother and father is good in this world. 
+       | Good is to be a monk in this world. It is also good to be a true Brahmin. [DLMBSFn-V332]_
 
 .. _Dhp333:
 
@@ -761,6 +841,11 @@ Chapter 23. The Elephant; Nāgavaggo (Dhp.320-333), Parallel Reading (paragraph 
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 333 Pleasant is virtue lasting to old age, pleasant is a faith firmly rooted; pleasant is attainment of intelligence, pleasant is avoiding of sins.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 333** 
+       | It is good to be virtuous until you are old. Good is a firmly established trust. 
+       | Good is to attain wisdom. To abstain from doing evil is good. [DLMBSFn-V333]_
+
 --------------
 
 **the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
@@ -792,6 +877,8 @@ NOTE:
 
         THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
 
+.. [8] (note 8) original: `Readings in Pali Texts <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp>`__ ( `Digital Library & Museum of Buddhist Studies (DLMBS) <http://buddhism.lib.ntu.edu.tw/DLMBS/en/>`__ --- `Pali Lessons <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali1.jsp>`__ )
+
 .. [NāradaFn23-01] (Ven. Nārada 23-01) Dantena by sense-control.
 
 .. [NāradaFn23-02] (Ven. Nārada 23-02) Sudantena by the development of the Noble Path.
@@ -805,6 +892,65 @@ NOTE:
 .. [ThaniSFn-V324] (Ven. Thanissaro V. 324) DhpA: Dhanapalaka was a noble elephant captured for the king of Kasi. Although given palatial quarters with the finest food, he showed no interest, but thought only of the sorrow his mother felt, alone in the elephant wood, separated from her son.
 
 .. [ThaniSFn-V329-330] (Ven. Thanissaro V. 329-330) DhpA: The bull elephant named Matanga, reflecting on the inconveniences of living in a herd crowded with she-elephants and young elephants — he was pushed around as he went into the river, had to drink muddied water, had to eat leaves that others had already nibbled, etc. — decided that he would find more pleasure in living alone. His story parallels that of the elephant in AN 9.40 and elephant the Buddha met in the Parileyyaka Forest (Mv X.4.6-7).
+
+.. [DLMBSFn-V320] (DLMBS Commentary V320) The queen Māgandiya, the wife of the king Udena of Kosambi hated the Buddha. When he came to Kosambi, she hired some villains who followed the Buddha and abused him. Venerable Ānanda suggested that the Buddha should just leave Kosambi and go elsewhere, but the Buddha replied with this verse (and the following two, DhP 321 and Dhp 322), saying that he will endure the abuse patiently.
+
+.. [DLMBSFn-V321] (DLMBS Commentary V321) The story for this verse is identical with the one for the previous verse (DhP 320) and the following one (DhP 322). 
+
+    A tamed elephant is very valuable: it is an important symbol of the king. The king is driven all around the city on a tamed elephant. The tamed elephant is the best of all elephants. 
+
+    In the same way, one who "tamed" oneself is always the best of people. From the self-control begins the way to the Awakenment. Therefore, to show constraint when being abused is a very good training for those aspiring to the highest goal.
+
+.. [DLMBSFn-V322] (DLMBS Commentary V322) The story for this verse is identical with the one for the previous two verses (DhP 320 and DhP 321). 
+
+    People of all regions in all times always desired to own thoroughbred and tamed animals. In this verse we are told that someone who tamed himself is to be praised even more.
+
+.. [DLMBSFn-V323] (DLMBS Commentary V323) A group of monks once saw an elephant trainer trying to subdue an elephant. The trainer could not succeed in any way he tried. One monk used to be an elephant trainer himself so he explained to the trainer how he should proceed. The elephant was then tamed very quickly. 
+
+    When the monks returned to the monastery, they reported this story to the Buddha. The Buddha admonished the monk with this verse, saying that he should first tame himself. Only in this way will he be able to reach the Nirvana. Taming elephants will not help him one little bit in pursuing this goal.
+
+.. [DLMBSFn-V324] (DLMBS Commentary V324) In Sāvatthi there lived a rich Brahmin. When his wife died, he gave all his wealth to his sons. After that his sons did not care about him at all. He was left penniless and reduced to begging. He went to the Buddha and asked for advice. 
+
+    The Buddha told him to tell his story wherever there was a large gathering of people. So the Brahmin went to the meeting of all the Brahmins from Sāvatthi (where his sons were also present) and told his story. People in the crowd got very angry and his sons were embarrassed. 
+
+    From that time on, they took very good care of their father. The Brahmin was receiving four food-trays every day and he gave two of them to the Buddha in alms. After a time, the Buddha got invited to the house of the eldest son and there he spoke this verse: although Dhanapala was tied up in captivity, he still remembered his parents in the forest.
+
+.. [DLMBSFn-V325] (DLMBS Commentary V325) The king Pasenadi of Kosala once went to see the Buddha just after finishing an opulent meal. As a result, he was feeling drowsy and sleepy, could not concentrate on the Buddha's words and almost fell asleep. He apologized to the Buddha and told him about his heavy meal. 
+
+    The Buddha replied with this verse, saying that overeating creates discomfort. The king acted accordingly, ate less and became much healthier and more active.
+
+.. [DLMBSFn-V326] (DLMBS Commentary V326) Sānu was a young *sāmanera* (novice). Once he recited the teaching and at the end he made dedication of merit to his parents. A spirit, who had been his mother in a previous existence, heard that and shared his merit. As a result, she was much respected amongst other spirits and gods. 
+
+    But Sānu grew up and was dissatisfied with his life as a monk. He went to see his mother (in the present existence) and told her he decided to leave the Order. His mother tried to persuade him not to do so, but he was firm. The spirit also overheard this; possessed the young man's body so that he started rolling on the floor. People gathered and then spoke out about the advantages of the life of a monk. If Sānu were to disrobe, he would not reach the Awakenment. Then the spirit left. 
+
+    After this experience Sānu decided to continue in the quest for the ultimate goal. He went back to the monastery and was fully ordained as a *bhikkhu* (monk). 
+    The Buddha wanted to help him and so he spoke this verse, guiding Sānu to control his mind. Sānu reflected on the message and later attained the Arahantship. He even became a very famous and revered teacher.
+
+.. [DLMBSFn-V327] (DLMBS Commentary V327) There was an elephant that was very strong when young, but as he got old, he became weak. Once he went to a pond and got stuck in the mud. The king sent some elephant trainers to help him. They started to beat the battle-drums. When the elephant heard them, his spirit rose and he freed himself from the mud. 
+
+    When the Buddha heard about this, he spoke this verse, saying that just as the elephant pulled himself out of mud, so we must pull ourselves from the mud of defilements and suffering.
+
+.. [DLMBSFn-V328] (DLMBS Commentary V328) The monks in the city of Kosambi once quarreled about some trivial matter. This led to a terrible dispute. Even the Buddha was not able to appease the quarrelling monks. So the Buddha left them and went to the forest to stay alone. 
+
+    After some time the monks cooled down and they realized their mistake. Therefore they went to the forest to find the Buddha and ask for his forgiveness. The Buddha told them this verse (and the following two, DhP 329 and DhP 330) to emphasize the value of a true friendship.
+
+.. [DLMBSFn-V329] (DLMBS Commentary V329) The story for this verse is identical with the one for the previous verse (DhP 328) and for the following verse (DhP 330). 
+
+    If one does not find a good and worthy friend, it is better to be alone than to associate with bad people. Good friends are very important, because they can teach and guide us and set a good example worthy of following.
+
+.. [DLMBSFn-V330] (DLMBS Commentary V330) The story for this verse is identical with the one for the two previous verses (DhP 328 and DhP 329). 
+
+    Companionship with a fool is very stressful. We cannot change the fool's ways, because a fool is a fool and does not realize hi foolishness. We are even in danger of becoming fools ourselves, if we lose control and start to learn from the fool. Therefore it is far better to be alone and to concentrate solely on our mental development and on reaching the Awakenment.
+
+.. [DLMBSFn-V331] (DLMBS Commentary V331) The Buddha was once thinking about how so many people were ill-treated by evil rulers. He tried to think up some way to convince the kings to rule wisely. Māra then tried to entice the Buddha to become a king himself. But the Buddha replied him with this verse (and the two following ones, DhP 332 and DhP 333), saying that their teachings were quite different and it was impossible for Māra to influence him to become a king.
+
+.. [DLMBSFn-V332] (DLMBS Commentary V332) The story for this verse is identical with the one for the previous verse (DhP 331) and the following one (DhP 333). 
+
+    Filial love towards one's parents is (or should be) one of the basic foundations of our society even now, not to speak of the Buddha's times, when it was actually a crime not to look after one's parents (see the story for the verse in DhP 324). In this verse, the Buddha says that being a monk and reaching the state of a true Brahmin (which equals attaining the Awakenment) is as important as to love one’s parents. Maybe even more important - if we are able to reach Awakenment while our parents are still alive, we can teach them and help them on their own way towards this goal.
+
+.. [DLMBSFn-V333] (DLMBS Commentary V333) The story for this verse is identical with the one for the two previous verses (DhP 331 and DhP 332). 
+
+    Virtue is the first and the most important factor that we must firmly establish before we start on the way towards the Awakenment. Abstaining from evil can of course be seen as a part of a moral life, but special emphasis is being put on this, because it is the first basic part of morality. Then there is trust, confidence that the way is truly leading towards the goal, that the methods described by the Buddha really work. And then can we start cultivating our minds in meditation in order to attain wisdom and achieve the Awakenment.
 
 --------------
 
