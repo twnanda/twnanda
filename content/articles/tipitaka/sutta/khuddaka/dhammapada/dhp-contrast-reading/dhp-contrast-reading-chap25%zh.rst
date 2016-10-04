@@ -3,7 +3,7 @@
 =============================================================================
 
 :date: 2016-06-04 17:30
-:modified: 2016-08-28 16:00
+:modified: 2016-10-04 20:30
 :tags: 法句經, 法句經對讀, 比丘品, Dhp, Dhammapada, Bhikkhuvaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Monk
@@ -150,6 +150,13 @@
 
        360 Restraint in the eye is good, good is restraint in the ear, in the nose restraint is good, good is restraint in the tongue.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - **Chapter 25: The Monk**
+
+       | **DhP 360** 
+       | Restraint over the eye is good. Good is restraint over the ear. 
+       | Restraint over the nose is good. Good is restraint over the tongue. [DLMBSFn-V360]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 360 <{filename}../dhA/dhA-chap21%zh.rst#Dhp360>`__
 
@@ -240,6 +247,12 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 361 In the body restraint is good, good is restraint in speech, in thought restraint is good, good is restraint in all things. A Bhikshu, restrained in all things, is freed from all pain.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 361** 
+       | Restraint over the body is good. Good is restraint over the speech. 
+       | Restraint over the mind is good. Good is restraint everywhere. 
+       | The monk who is restrained everywhere will be freed from all suffering. [DLMBSFn-V361]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 361 <{filename}../dhA/dhA-chap21%zh.rst#Dhp361>`__
 
@@ -308,6 +321,13 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 362 He who controls his hand, he who controls his feet, he who controls his speech, he who is well controlled, he who delights inwardly, who is collected, who is solitary and content, him they call Bhikshu.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 362** 
+       | Who has control over his hands, feet 
+       | and speech, who is fully controlled, 
+       | with inward joy and firm, 
+       | in solitude and contented - him do people call a monk. [DLMBSFn-V362]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 362 <{filename}../dhA/dhA-chap21%zh.rst#Dhp362>`__
 
@@ -365,6 +385,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 363 The Bhikshu who controls his mouth, who speaks wisely and calmly, who teaches the meaning and the law, his word is sweet.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 363** 
+       | Sweet is the speech of the monk, who has control over his mouth, speaks cleverly, 
+       | is not proud, and explains the Dharma and its meaning. [DLMBSFn-V363]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 363 <{filename}../dhA/dhA-chap21%zh.rst#Dhp363>`__
@@ -426,6 +451,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 364 He who dwells in the law, delights in the law, meditates on the law, follows the law, that Bhikshu will never fall away from the true law.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 364** 
+       | The monk who is delighting in the Dharma, devoted to the Dharma, pondering the Dharma 
+       | and always bearing the Dharma in mind, will never fall away from the true Dharma. [DLMBSFn-V364]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 364 <{filename}../dhA/dhA-chap21%zh.rst#Dhp364>`__
@@ -491,6 +521,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 365 Let him not despise what he has received, nor ever envy others: a mendicant who envies others does not obtain peace of mind.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 365** 
+       | One should not neglect one's own spiritual gain. One should not envy others. 
+       | The monk who envies others will not attain concentration. [DLMBSFn-V365]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 365 <{filename}../dhA/dhA-chap21%zh.rst#Dhp365>`__
@@ -559,6 +594,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 366 A Bhikshu who, though he receives little, does not despise what he has received, even the gods will praise him, if his life is pure, and if he is not slothful.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 366** 
+       | Even the gods praise the monk, who is living a pure life and is active, 
+       | who does not neglect his spiritual profit, even though he has few material gains. [DLMBSFn-V366]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 366 <{filename}../dhA/dhA-chap21%zh.rst#Dhp366>`__
 
@@ -619,6 +659,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 367 He who never identifies himself with name and form, and does not grieve over what is no more, he indeed is called a Bhikshu.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 367** 
+       | Who is not attached to anything in his whole mind and body, 
+       | who does not grieve for nonexistent things, he is truly called a monk. [DLMBSFn-V367]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 367 <{filename}../dhA/dhA-chap21%zh.rst#Dhp367>`__
 
@@ -675,6 +720,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 368 The Bhikshu who acts with kindness, who is calm in the doctrine of Buddha, will reach the quiet place (Nirvana), cessation of natural desires, and happiness.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 368** 
+       | The monk, who is abiding in loving-kindness and trusting in the Buddha's teaching, 
+       | will acquire the peaceful state of Nirvana, quieting of all conditioned things and happiness. [DLMBSFn-V368]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 368 <{filename}../dhA/dhA-chap21%zh.rst#Dhp368>`__
@@ -733,6 +783,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 369 O Bhikshu, empty this boat! if emptied, it will go quickly; having cut off passion and hatred thou wilt go to Nirvana.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 369** 
+       | Empty this boat, monk! Empty it will travel quickly. 
+       | Having cut off passion and hatred, you will approach the Nirvana. [DLMBSFn-V369]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 369 <{filename}../dhA/dhA-chap21%zh.rst#Dhp369>`__
@@ -796,6 +851,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 370 Cut off the five (senses), leave the five, rise above the five. A Bhikshu, who has escaped from the five fetters, he is called Oghatinna, 'saved from the flood.'
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 370** 
+       | Cut off five things, abandon five, five further cultivate. 
+       | The monk who has overcome five attachments is called the one who has crossed over the flood. [DLMBSFn-V370]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 370 <{filename}../dhA/dhA-chap21%zh.rst#Dhp370>`__
@@ -862,6 +922,13 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 371 Meditate, O Bhikshu, and be not heedless! Do not direct thy thought to what gives pleasure that thou mayest not for thy heedlessness have to swallow the iron ball (in hell), and that thou mayest not cry out when burning, 'This is pain.'
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 371** 
+       | Meditate, o monk! Don't be negligent! 
+       | Let your mind not wander in the five strands of sensual pleasures. 
+       | Don't negligently swallow the metal ball. 
+       | When you are burning, don't lament, "This is suffering!" [DLMBSFn-V371]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 371 <{filename}../dhA/dhA-chap21%zh.rst#Dhp371>`__
 
@@ -926,6 +993,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 372 Without knowledge there is no meditation, without meditation there is no knowledge: he who has knowledge and meditation is near unto Nirvana.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 372** 
+       | There is no meditation for the ignorant one. There is no wisdom for someone, who does not meditate. 
+       | Who has both wisdom and meditation, he is indeed close to the Nirvana. [DLMBSFn-V372]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 372 <{filename}../dhA/dhA-chap21%zh.rst#Dhp372>`__
@@ -993,6 +1065,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 373 A Bhikshu who has entered his empty house, and whose mind is tranquil, feels a more than human delight when he sees the law clearly.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 373** 
+       | The monk, who dwells in solitude, whose mind is tranquil, 
+       | and who truly sees the Dharma with insight, experiences superhuman joy. [DLMBSFn-V373]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 373 <{filename}../dhA/dhA-chap21%zh.rst#Dhp373>`__
 
@@ -1058,6 +1135,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 374 As soon as he has considered the origin and destruction of the elements (khandha) of the body, he finds happiness and joy which belong to those who know the immortal (Nirvana).
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 374** 
+       | Whenever one understands thoroughly the rise and fall of the five aggregates, 
+       | he will obtain joy and happiness. For those, who understand, this is known as "the deathlessness". [DLMBSFn-V374]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 374 <{filename}../dhA/dhA-chap21%zh.rst#Dhp374>`__
@@ -1126,6 +1208,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 375 And this is the beginning here for a wise Bhikshu: watchfulness over the senses, contentedness, restraint under the law; keep noble friends whose life is pure, and who are not slothful.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 375** 
+       | This here are the basic tasks for the wise monk: 
+       | watchfulness over his senses, contentment and restraint in the monk's precepts. [DLMBSFn-V375]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 375 <{filename}../dhA/dhA-chap21%zh.rst#Dhp375>`__
@@ -1196,6 +1283,12 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 376 Let him live in charity, let him be perfect in his duties; then in the fulness of delight he will make an end of suffering.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 376** 
+       | Associate with virtuous friends who are of pure livelihood and active. 
+       | Act friendly and let your behavior be good. 
+       | Then, full of joy, you will make an end of suffering. [DLMBSFn-V376]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 376 <{filename}../dhA/dhA-chap21%zh.rst#Dhp376>`__
 
@@ -1252,6 +1345,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 377 As the Vassika plant sheds its withered flowers, men should shed passion and hatred, O ye Bhikshus!
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 377** 
+       | Just like the jasmine sheds its withered flowers, 
+       | so you should shed passion and hatred, monks. [DLMBSFn-V377]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 377 <{filename}../dhA/dhA-chap21%zh.rst#Dhp377>`__
@@ -1318,6 +1416,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 378 The Bhikshu whose body and tongue and mind are quieted, who is collected, and has rejected the baits of the world, he is called quiet.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 378** 
+       | The monk who is calm in body, calm in speech, tranquil, composed, 
+       | and has discarded all worldly gains, is called calmed. [DLMBSFn-V378]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 378 <{filename}../dhA/dhA-chap21%zh.rst#Dhp378>`__
 
@@ -1374,6 +1477,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 379 Rouse thyself by thyself, examine thyself by thyself, thus self- protected and attentive wilt thou live happily, O Bhikshu!
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 379** 
+       | You yourself exhort and control yourself. 
+       | The monk, who is self-guarded and mindful, will live happily. [DLMBSFn-V379]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 379 <{filename}../dhA/dhA-chap21%zh.rst#Dhp379>`__
@@ -1438,6 +1546,13 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 380 For self is the lord of self, self is the refuge of self; therefore curb thyself as the merchant curbs a good horse.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 380** 
+       | One is indeed one's own lord. 
+       | One is indeed one's own destiny. 
+       | Therefore restrain yourself, 
+       | just like a merchant restrains a good horse. [DLMBSFn-V380]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 380 <{filename}../dhA/dhA-chap21%zh.rst#Dhp380>`__
 
@@ -1490,6 +1605,11 @@
      
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 381 The Bhikshu, full of delight, who is calm in the doctrine of Buddha will reach the quiet place (Nirvana), cessation of natural desires, and happiness.
+
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 381** 
+       | The monk who is full of joy and trusting in the Buddha's teaching, 
+       | will acquire the peaceful state of Nirvana, quieting of all conditioned things and happiness. [DLMBSFn-V381]_
 
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 381 <{filename}../dhA/dhA-chap21%zh.rst#Dhp381>`__
@@ -1566,6 +1686,11 @@
    * - 英譯(Translated from the Pali by Friedrich Max Müller) [10]_
      - 382 He who, even as a young Bhikshu, applies himself to the doctrine of Buddha, brightens up this world, like the moon when free from clouds.
 
+   * - 英譯(Cited from DLMBS) [12]_
+     - | **DhP 382** 
+       | The monk who, while young, practices the teaching of the Buddha, 
+       | illuminates this world like a moon freed from cloud. [DLMBSFn-V382]_
+
    * - 巴利註解漢譯 [11]_
      - 請參考 `巴利《法句經》註解　摘譯　二十一：雜品 Dhp. 382 <{filename}../dhA/dhA-chap21%zh.rst#Dhp382>`__
 
@@ -1613,6 +1738,8 @@
 .. [10] 〔註010〕　此英譯為 `Friedrich Max Müller <https://en.wikipedia.org/wiki/Max_M%C3%BCller>`__ 所譯；請參考原始出處(original): `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
 .. [11] 〔註011〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
+
+.. [12] 〔註012〕　取材自： `經文選讀 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ （ `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/index.jsp>`__ --- 語言教學． `巴利語教學 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali1.jsp>`__ ）
 
 .. [LChnFn25-01] 〔註25-01〕  「舟」喻身體；「水」喻身中的念頭。
 
@@ -1739,6 +1866,126 @@
 .. [ThaniSFn-V370] (Ven. Thanissaro V. 370) DhpA: Cut through five = the five lower fetters that tie the mind to the round of rebirth (self-identity views, uncertainty, grasping at habits & practices, sensual passion, irritation); let go of five = the five higher fetters (passion for form, passion for formless phenomena, conceit, restlessness, ignorance); develop five = the five faculties (conviction, persistence, mindfulness, concentration, discernment); five attachments = passion, aversion, delusion, conceit, views.
 
 .. [ThaniSFn-V381] (Ven. Thanissaro V. 381) See note 368.
+
+.. [DLMBSFn-V360] (DLMBS Commentary V360) In Sāvatthi there were five monks who practiced restraint over just one of the senses. All of them claimed that they alone practiced the most important and difficult type of restraint. They quarreled for a long time and could not agree. Finally they went to ask the Buddha, who answered them with this verse (and the following one, DhP 361), saying that one must control all senses in order to reach the Awakenment.
+
+.. [DLMBSFn-V361] (DLMBS Commentary V361) The story for this verse is identical with the one for the previous verse (DhP 360). 
+
+    Restraint over the six senses (in Buddhist psychology, the mind is counted as the sixths sense) is one of the basic requirements for really beneficial meditation practice. Without this control, the meditation cannot progress, because we will always be distracted from it by input from these very six senses. Therefore we must practice concentration and mindfulness in our daily lives and then apply this tool in our meditation practice.
+
+.. [DLMBSFn-V362] (DLMBS Commentary V362) There was a monk who was very skilled in throwing stones. Once he was sitting with his friends and they observed some geese flying over them. The monk boasted he could hit the eye of one of the geese. He took a pebble and threw it. The pebble hit the bird in the eye and the goose fell down dead. 
+
+    Other monks reported the incident to the Buddha who admonished the monk with this verse, telling him not to hurt any living beings and to strive for the Awakenment by the way of practicing restraint.
+
+.. [DLMBSFn-V363] (DLMBS Commentary V363) Venerable Sāriputta and Venerable Moggallāna were abused by a monk named Kokālika. As a result, suffering befell Kokālika. The other monks then remarked that he had to suffer because he could not control his tongue. The Buddha replied with this verse, saying that control over one's mouth is very important.
+
+.. [DLMBSFn-V364] (DLMBS Commentary V364) Close to the age of eighty years, the Buddha announced that he would attain the Parinibbāna (pass away) very soon. The monks who had not attained the Awakenment yet, were very distressed and spent all the time with the Buddha, never leaving his presence. But there was a monk named Dhammārāma who did not come to see the Buddha but kept to himself. Other monks thought he was disrespectful towards the teacher. But Dhammārāma explained that in his opinion the highest homage to the Buddha would be if he could attain the Awakenment before the Buddha's passing away. 
+
+    The Buddha praised Dhammārāma by this verse saying that a monk who really wants to pay homage to him should act as Dhammārāma did.
+
+.. [DLMBSFn-V365] (DLMBS Commentary V365) Devadatta was the Buddha's cousin, He envied the Buddha his position and even though he himself was not an Arahant he tried to form his own separate school in opposition to the Buddha. 
+
+    Once a certain monk of the Buddha went to the Devadatta's monastery and appeared to be very friendly with the monks who lived there. He went there often, eating and enjoying that comfortable monastery. But still he claimed he did not become a follower of Devadatta. When the Buddha heard about this, he summoned the monk and told him this verse (and the following one, DhP 366) saying that he should not envy Devadatta's followers their comfort but should rather concentrate on his own meditation practice.
+
+.. [DLMBSFn-V366] (DLMBS Commentary V366) The story for this verse is identical with the one for the previous verse (DhP 365). 
+
+    For a monk, material gains and comforts should not be important. A monk should disregard all the material gains and concentrate solely on spiritual gains. Material comfort can actually be a hindrance on the monk's path towards the Awakenment. Of course, this does not apply only to monks. All the Buddha's followers should view material wealth as not really important and spiritual wealth as the only really valuable thing.
+
+.. [DLMBSFn-V367] (DLMBS Commentary V367) In Sāvatthi lived a Brahmin and his wife who were followers of the Buddha. Often they offered almsfood to him and the monks. 
+
+    One day the Buddha came to their house to ask for some almsfood. The Brahmin was already eating and his wife was afraid that if her husband saw the Buddha he would offer all their food to him and she would have to cook again. So she went out and told the Buddha they had not food left that day. The Buddha knew they were both close to attaining the third stage of Awakenment, so he just shook his head and kept standing there. The wife could not help herself and started laughing. 
+
+    Her husband came out and immediately offered all their food to the Buddha. Then he asked how a monk should be judged, what makes a true monk. The Buddha replied with this verse, saying that a true monk is not attached to anything in his body or his mind. Hearing this, the Brahmin and his wife attained the third stage of Awakenment (called **anāgāmi**).
+
+.. [DLMBSFn-V368] (DLMBS Commentary V368) There was a rich lady living in a certain village. She had a son named Sona, who became a monk. Once he passed through his hometown on his way back to the Jetavana monastery. When his mother heard this, she organized a grand charity in his honor. She also erected a pavilion so that Sona could teach her and other villagers the Dharma. 
+
+    While they were at the pavilion listening to Sona's discourse, some thieves broke into the lady's house. Their leader went to the pavilion to make sure she did not return home earlier. The maid who was left behind came quickly telling her about the thieves. But the lady just said, "Let them take everything, I will not be disturbed while listening to the Dharma". The leader of the thieves got scared, returned to the house and told his companions to return all the stolen goods. Then they all went to the pavilion and listened to the Dharma. 
+
+    When the discourse was finished, they begged the lady for forgiveness. She forgave them and all the thieves became monks. They went to the forest and practiced meditation diligently. The Buddha told them this verse (and the eight following ones) to help them on their way to the Awakenment.
+
+.. [DLMBSFn-V369] (DLMBS Commentary V369) The story for this verse is identical with the one for the previous verse (DhP 368) and for the seven following verses (DhP 370 - DhP 376). 
+    Our striving for the peace of mind, the Nirvana, is often compared with crossing a river. If our boat (our mind) is filled with water (passion and hatred) it is extremely hard or almost impossible to cross to the other shore. We have to empty the boat of our mind of water (consisting mainly but not only of passion and hatred) to be able to make it to the other shore of Nirvana quickly and safely.
+
+.. [DLMBSFn-V370] (DLMBS Commentary V370) The story for this verse is identical with the one for two previous verses (DhP 368, DhP 369) and for the following six verses (DhP 371 - DhP 376).
+
+    The five things to be cut off are the five "big" fetters: 
+
+    1) personality belief (**sakkāya-diṭṭhi**), 
+    2) skeptical doubt (**vicikicchā**), 
+    3) clinging to rules and rituals (**sīlabbata-paramāsa**), 
+    4) sensuous craving (**kāma-rāga**), 
+    5) ill-will (**vyāpāda**).
+
+    The five things to be abandoned are the five "small" fetters: 
+
+    1) craving for fine-material existence (**rūpa-rāga**), 
+    2) craving for immaterial existence (**arūpa-rāga**), 
+    3) conceit (**māna**), 
+    4) restlessness (**uddhacca**), 
+    5) ignorance (**avijjā**). 
+
+    The five things to be cultivated are: 
+
+    1) confidence (**saddhā**), 
+    2) mindfulness (**sati**), 
+    3) effort (**viriya**), 
+    4) concentration (**samādhi**), 
+    5) wisdom (**paññā**).
+
+    The five attachments are: 
+
+    1) passion (**rāga**), 
+    2) hatred (**dosa**), 
+    3) ignorance (**moha**), 
+    4) pride (**māna**), 
+    5) false views (**diṭṭhi**). 
+
+.. [DLMBSFn-V371] (DLMBS Commentary V371) The story for this verse is identical with the one for the three previous verses (DhP 368 - DhP 370) and for the following five verses (DhP 372 - DhP 376). 
+
+    The five strands of sensual pleasures are all the pleasures, which can be enjoyed by any of the five senses. These pleasures are what most of the people strive for in this world and also in the next existence. For a follower of the Buddha they are obstacles on his path to the Awakenment and they are to be eradicated if we want to achieve any progress at all. 
+
+    The metal ball and burning refers to suffering that will surely follow the enjoyment of the sensual pleasures. Then it will be late to cry. Therefore we should diligently meditate and restrain our mind, so that it will not seek for the pleasures.
+
+.. [DLMBSFn-V372] (DLMBS Commentary V372) The story for this verse is identical with the one for the four previous verses (DhP 368 - DhP 371) and for the following four verses (DhP 373 - DhP376). 
+
+    Wisdom comes as a product of long and diligent meditation. There is no other way to obtain wisdom. On the other hand, one must possess an initial small portion of wisdom in order to understand the necessity of meditation. As a result, most people never start to meditate or if they do, they tire quickly and give up. 
+    Only one, who is wise and uses the wisdom in meditation in order to achieve even more wisdom, is able to reach the goal of Nirvana.
+
+.. [DLMBSFn-V373] (DLMBS Commentary V373) The story for this verse is identical with the one for the five previous verses (DhP 368 - DhP 372) and for the following three verses (DhP 374 - DhP 376). 
+
+    Staying in solitude is beneficial for monks who are practicing meditation so that they are cut off from all outside distractions. If a monk diligently meditates in solitude, his mind becomes tranquil and peaceful. Then he can gain a deep insight into the Dharma and realize the true nature of things. As a result, he experiences joy that is not felt by most people who are worldly oriented and their mind are in a whirlwind.
+
+.. [DLMBSFn-V374] (DLMBS Commentary V374) The story for this verse is identical with the one for the six previous verses (DhP 368 – DhP 373) and for the following two verses (DhP 375 and DhP 376). 
+
+    The five aggregates (**khandha**) are: **rūpa** (form, body, matter), **vedanā** (feeling), **saññā** (perception), **saṅkhāra** (mental formations) and **viññāna** (consciousness). If we know truly and into last detail how these five aggregates come into being and how they disappear, we experience joy and happiness and know "the deathlessness" - in other words, the Nirvana.
+
+.. [DLMBSFn-V375] (DLMBS Commentary V375) The story for this verse is identical with the one for seven previous verses (DhP 368 - DhP 374) and also for the following verse (DhP 376). 
+
+    As a tree needs its roots in order to be able to grow higher, so the life of a monk needs some basic roots in order to be able to reach the Nirvana. They are: guarding of one's own senses (mind being the sixth sense), contentment with what one has and observing the 227 precepts of a monk, as given by the Buddha. If we nourish these roots diligently and for a long time, the tree of wisdom will grow higher and higher, fruiting in the attainment of Nirvana.
+
+.. [DLMBSFn-V376] (DLMBS Commentary V376) The story for this verse is identical with the one for eight previous verses (DhP 368 - DhP 375). 
+
+    Friends are very important for a monk as well as for all other people. Good friends can set up a good example and can help on our way to the Awakenment. And of course, we can help them. Bad friends will only drag us down, towards bad habits and negligence.
+
+.. [DLMBSFn-V377] (DLMBS Commentary V377) A group of monks received a subject of meditation from the Buddha and they started to practice diligently. Once they observed a jasmine flowers, which blossomed beautifully in the morning, only to wither away and be shed in the evening. They realized that they must do the same with all the mental defilements of their minds. The Buddha then spoke this verse to them, further reinforcing the idea. The monks reflected on this and soon all attained the Awakenment.
+
+.. [DLMBSFn-V378] (DLMBS Commentary V378) A certain monk name Santakāya used to be a lion in his previous existence. He was very calm, moved only a little, he was very composed. Other monks reported this to the Buddha who told them about Santakāya's former existence and then further spoke this verse, saying that every monk should behave in this way - be calm and composed, like a lion.
+
+.. [DLMBSFn-V379] (DLMBS Commentary V379) There was a poor farmer named Nangala Kula. Once he was ploughing a field wearing his old clothes, when he saw a monk passing by. He asked to be ordained and became a monk on the spot. He left his plough and old clothes there and went to the monastery, which was not very far. 
+
+    After a time he would grow discontented with a life of a monk. In that case, he would go back to the tree, where he left his plough and clothes and would remind himself of his poor past. Thus his discontent left and he went back to his meditation practice. This happened several times. 
+
+    Other monks observed his visits to the tree and asked him what it meant. He replied that he had to go to his teacher. After some time he attained the Arahantship and stopped going to the tree. The monks asked him why he stopped. He told them that he did not need a teacher any longer. The monks asked the Buddha if that was so and the Buddha confirmed that Nangala Kula has indeed attained the Arahantship. The Buddha then added this verse (and the following one, DhP 380).
+
+.. [DLMBSFn-V380] (DLMBS Commentary V380) The story for this verse is identical with the one for the previous verse (DhP 379). 
+
+    We are makers of our own destiny and we should not wait for any higher power to interfere in our lives and bring us happiness. By our actions, words and thoughts we every moment create our future. Therefore we must control our minds and tame it, just like if it was a horse. Only then our mind will "behave" and we will attain happiness.
+
+.. [DLMBSFn-V381] (DLMBS Commentary V381) In Sāvatthi there lived a young man named Vakkali. When he saw the Buddha for the first time he was very impressed with his calm and radiant appearance. He became a monk just to be close to the Buddha. As a result, he neglected his own spiritual development. The Buddha exhorted him that in order to see the Buddha, one must see the Dharma, his teaching. And he sent Vakkali away. Vakkali was very depressed and contemplated suicide. The Buddha understood his mind and sent forth his radiance to Vakkali’s presence. Vakkali felt as if the Buddha was really there, his mind calmed and he started to practice diligently. Soon he reached the Arahantship.
+
+.. [DLMBSFn-V382] (DLMBS Commentary V382) Venerable Anuruddha had a young pupil, a novice named Sumana. Although he was very young, he not only attained the Arahantship, but he was also endowed with supernatural powers. Once he brought a jar of water for his teacher from Anotatta Lake, which was extremely far away, by using his powers and flying to the lake. 
+
+    Once Anuruddha took Sumana to see the Buddha. Other novices laughed at Sumana because of his young age. So the Buddha announced that he wanted some novice to bring him water from Anotatta Lake. None of the novices was able to do so, except for Sumana, who flew to the lake as before. The Buddha then spoke this verse, saying that age does not matter if one practices the Dharma diligently.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
