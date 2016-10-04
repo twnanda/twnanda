@@ -3,7 +3,7 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
 ==============================================================================================================================================
 
 :date: 2016-06-29 17:00
-:modified: 2016-06-29 17:00
+:modified: 2016-10-04 15:00
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, Craving, Taṇhāvaggo, Thirst, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -117,6 +117,15 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
 
        334 The thirst of a thoughtless man grows like a creeper; he runs from life to life, like a monkey seeking fruit in the forest.
 
+   * - Cited from DLMBS [8]_
+     - **Chapter 24: The Thirst**
+
+       | **DhP 334** 
+       | The thirst of the person of careless actions 
+       | grows just like a creeper. 
+       | He flows from existence to existence, 
+       | just like a monkey in the forest desiring fruits. [DLMBSFn-V334]_
+
 .. _Dhp335:
 
 .. list-table:: Dhammapada Dhp. 335
@@ -165,6 +174,11 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 335 Whomsoever this fierce thirst overcomes, full of poison, in this world, his sufferings increase like the abounding Birana grass.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 335** 
+       | Who in this world is conquered by this miserable thirst and craving, 
+       | his sorrows grow, like grass after rains. [DLMBSFn-V335]_
 
 .. _Dhp336:
 
@@ -215,6 +229,11 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 336 He who overcomes this fierce thirst, difficult to be conquered in this world, sufferings fall off from him, like water-drops from a lotus leaf.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 336** 
+       | Who in this world conquers this miserable thirst that is difficult to overcome, 
+       | sorrows fall down from him, like a drop of water from a lotus. [DLMBSFn-V336]_
+
 .. _Dhp337:
 
 .. list-table:: Dhammapada Dhp. 337
@@ -263,7 +282,13 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
        |  As floods destroy the weak bulrush.
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
-     - 337 This salutary word I tell you, 'Do ye, as many as are here assembled, dig up the root of thirst, as he who wants the sweet- scented Usira root must dig up the Birana grass, that Mara (the tempter) may not crush you again and again, as the stream crushes the reeds.'
+     - 337 This salutary word I tell you, 'Do ye, as many as are here assembled, dig up the root of thirst, as he who wants the sweet- scented *Usira* root must dig up the Birana grass, that Mara (the tempter) may not crush you again and again, as the stream crushes the reeds.'
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 337** 
+       | I tell you this; bless all of you that have come here. 
+       | Dig up the root of thirst, like somebody desiring a *Usira* root would cut off the *Birana* grass. 
+       | Let not Mara break you again and again, like a stream breaks a reed. [DLMBSFn-V337]_
 
 .. _Dhp338:
 
@@ -315,6 +340,13 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 338 As a tree, even though it has been cut down, is firm so long as its root is safe, and grows again, thus, unless the feeders of thirst are destroyed, the pain (of life) will return again and again.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 338** 
+       | Just like the tree will grow again if it is cut down, 
+       | but its roots are strong and uninjured, 
+       | so this suffering will come back again and again 
+       | if the dormant craving is not destroyed. [DLMBSFn-V338]_
+
 .. _Dhp339:
 
 .. list-table:: Dhammapada Dhp. 339
@@ -363,6 +395,11 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 339 He whose thirst running towards pleasure is exceeding strong in the thirty-six channels, the waves will carry away that misguided man, viz. his desires which are set on passion.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 339** 
+       | The person in whom strong and carrying thirty-six streams flow towards the pleasurable things, 
+       | is carried towards wrong views by his thoughts full of passion. [DLMBSFn-V339]_
 
 .. _Dhp340:
 
@@ -413,6 +450,11 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 340 The channels run everywhere, the creeper (of passion) stands sprouting; if you see the creeper springing up, cut its root by means of knowledge.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 340** 
+       | The streams flow everywhere. The creeper sprung up and stands firm. 
+       | Having seen that creeper grown, cut off its root with your wisdom. [DLMBSFn-V340]_
+
 .. _Dhp341:
 
 .. list-table:: Dhammapada Dhp. 341
@@ -453,6 +495,11 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 341 A creature's pleasures are extravagant and luxurious; sunk in lust and looking for pleasure, men undergo (again and again) birth and decay.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 341** 
+       | People experience joy that is flowing in from the senses and is full of desires. 
+       | Those people attached to pleasure and desiring happiness, will undergo birth and old age. [DLMBSFn-V341]_
 
 .. _Dhp342:
 
@@ -506,6 +553,11 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 342 Men, driven on by thirst, run about like a snared hare; held in fetters and bonds, they undergo pain for a long time, again and again.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 342** 
+       | People followed by thirst crawl around like a captured hare. 
+       | Bound by the bonds of the Ten Fetters, they will undergo suffering again and again, for a long time. [DLMBSFn-V342]_
+
 .. _Dhp343:
 
 .. list-table:: Dhammapada Dhp. 343
@@ -558,6 +610,11 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 343 Men, driven on by thirst, run about like a snared hare; let therefore the mendicant drive out thirst, by striving after passionlessness for himself.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 343** 
+       | People followed by thirst crawl around like a captured hare. 
+       | Therefore you should remove thirst and wish for being free of passions yourselves. [DLMBSFn-V343]_
+
 .. _Dhp344:
 
 .. list-table:: Dhammapada Dhp. 344
@@ -604,6 +661,11 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 344 He who having got rid of the forest (of lust) (i.e. after having reached Nirvana) gives himself over to forest-life (i.e. to lust), and who, when removed from the forest (i.e. from lust), runs to the forest (i.e. to lust), look at that man! though free, he runs into bondage.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 344** 
+       | Imagine somebody who is free from the householder's life, inclined to live as a monk. Then, free of the forest of the householder's life, he runs back to it. 
+       | Come and look at that person! After being set free, he runs back to the bond! [DLMBSFn-V344]_
 
 .. _Dhp345:
 
@@ -684,6 +746,14 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 345 Wise people do not call that a strong fetter which is made of iron, wood, or hemp; far stronger is the care for precious stones and rings, for sons and a wife.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 345** 
+       | That fetter is not really strong, say the wise, 
+       | that is made of iron, wood or grass. 
+       | Strong infatuation with gems and ornaments, 
+       | whatever longing there is for sons and wives, 
+       | [continued in DhP 346] [DLMBSFn-V345]_
+
 .. _Dhp346:
 
 .. list-table:: Dhammapada Dhp. 346
@@ -763,6 +833,13 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 346 That fetter wise people call strong which drags down, yields, but is difficult to undo; after having cut this at last, people leave the world, free from cares, and leaving desires and pleasures behind.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 346** 
+       | That fetter is really strong, say the wise, 
+       | it seems loose, but it leads you astray and is difficult to be freed from. 
+       | Having cut off this fetter, those without desire wander about as monks, 
+       | having abandoned all sensual pleasures. [DLMBSFn-V346]_
+
 .. _Dhp347:
 
 .. list-table:: Dhammapada Dhp. 347
@@ -826,6 +903,13 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 347 Those who are slaves to passions, run down with the stream (of desires), as a spider runs down the web which he has made himself; when they have cut this, at last, wise people leave the world free from cares, leaving all affection behind.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 347** 
+       | Those who are excited by passion fall into the current 
+       | as if a spider would fall into his own web. 
+       | Having cut off this, the wise ones without desires wander about as monks, 
+       | having abandoned all suffering. [DLMBSFn-V347]_
+
 .. _Dhp348:
 
 .. list-table:: Dhammapada Dhp. 348
@@ -870,6 +954,13 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 348 Give up what is before, give up what is behind, give up what is in the middle, when thou goest to the other shore of existence; if thy mind is altogether free, thou wilt not again enter into birth and decay.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 348** 
+       | Let go of the past, let go of the future. 
+       | Let go of the present. When you cross over to the other shore of existence, 
+       | and your mind will be completely free, 
+       | you will never again come to birth and aging. [DLMBSFn-V348]_
 
 .. _Dhp349:
 
@@ -925,6 +1016,11 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 349 If a man is tossed about by doubts, full of strong passions, and yearning only for what is delightful, his thirst will grow more and more, and he will indeed make his fetters strong.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 349** 
+       | The thirst of a person who has confused thoughts, is strongly passionate and contemplates only the pleasant things 
+       | will only grow more. Such a person makes his fetters stronger. [DLMBSFn-V349]_
+
 .. _Dhp350:
 
 .. list-table:: Dhammapada Dhp. 350
@@ -978,6 +1074,13 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 350 If a man delights in quieting doubts, and, always reflecting, dwells on what is not delightful (the impurity of the body, &c.), he certainly will remove, nay, he will cut the fetter of Mara.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 350** 
+       | Who is devoted to calming of thoughts, 
+       | meditates on impurity, is always mindful, 
+       | such a person will put an end to craving. 
+       | Such a person will cut off the fetters of *Mara*. [DLMBSFn-V350]_
 
 .. _Dhp351:
 
@@ -1036,6 +1139,11 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 351 He who has reached the consummation, who does not tremble, who is without thirst and without sin, he has broken all the thorns of life: this will be his last body.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 351** 
+       | One who has attained perfection, is without fear, free of thirst and pure, 
+       | cut off the arrows of existence. For such a one, this is the very last life. [DLMBSFn-V351]_
 
 .. _Dhp352:
 
@@ -1096,6 +1204,12 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 352 He who is without thirst and without affection, who understands the words and their interpretation, who knows the order of letters (those which are before and which are after), he has received his last body, he is called the great sage, the great man.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 352** 
+       | If one who is without thirst, free of attachments and skilled in the language of the scriptures 
+       | should know the arrangement of the texts in the right sequence, 
+       | he then is known as a great person of great wisdom, living his last life. [DLMBSFn-V352]_
+
 .. _Dhp353:
 
 .. list-table:: Dhammapada Dhp. 353
@@ -1151,6 +1265,13 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 353 'I have conquered all, I know all, in all conditions of life I am free from taint; I have left all, and through the destruction of thirst I am free; having learnt myself, whom shall I teach?'
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 353** 
+       | I have conquered all and know everything. 
+       | I am unstained by anything. 
+       | I have given up everything, freed through destruction of thirst. 
+       | I have found all out by myself; whom should I point out as my teacher? [DLMBSFn-V353]_
+
 .. _Dhp354:
 
 .. list-table:: Dhammapada Dhp. 354
@@ -1195,6 +1316,13 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 354 The gift of the law exceeds all gifts; the sweetness of the law exceeds all sweetness; the delight in the law exceeds all delights; the extinction of thirst overcomes all pain.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 354** 
+       | The gift of Dharma conquers all gifts. 
+       | The taste of Dharma excels all tastes. 
+       | The joy of Dharma excels all joys. 
+       | The destruction of thirst conquers all suffering. [DLMBSFn-V354]_
 
 .. _Dhp355:
 
@@ -1241,6 +1369,11 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 355 Pleasures destroy the foolish, if they look not for the other shore; the foolish by his thirst for pleasures destroys himself, as if he were his own enemy.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 355** 
+       | Possessions hurt the stupid, but not those who are in search for the opposite shore of suffering. 
+       | With his thirst for possessions the fool hurts the others as well as himself. [DLMBSFn-V355]_
 
 .. _Dhp356:
 
@@ -1303,6 +1436,11 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 356 The fields are damaged by weeds, mankind is damaged by passion: therefore a gift bestowed on the passionless brings great reward.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 356** 
+       | Fields are ruined by weeds. This mankind is ruined by passions. 
+       | Therefore, what is given to those devoid of passions brings much fruit. [DLMBSFn-V356]_
+
 .. _Dhp357:
 
 .. list-table:: Dhammapada Dhp. 357
@@ -1364,6 +1502,11 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 357 The fields are damaged by weeds, mankind is damaged by hatred: therefore a gift bestowed on those who do not hate brings great reward.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 357** 
+       | Fields are ruined by weeds. This mankind is ruined by hatred. 
+       | Therefore, what is given to those devoid of hatred brings much fruit. [DLMBSFn-V357]_
+
 .. _Dhp358:
 
 .. list-table:: Dhammapada Dhp. 358
@@ -1424,6 +1567,11 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 358 The fields are damaged by weeds, mankind is damaged by vanity: therefore a gift bestowed on those who are free from vanity brings great reward.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 358** 
+       | Fields are ruined by weeds. This mankind is ruined by delusion. 
+       | Therefore, what is given to those devoid of delusion brings much fruit. [DLMBSFn-V358]_
 
 .. _Dhp359:
 
@@ -1495,6 +1643,11 @@ Chapter 24. Craving; Taṇhāvaggo (Dhp.334-359), Parallel Reading (paragraph gr
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 359 The fields are damaged by weeds, mankind is damaged by lust: therefore a gift bestowed on those who are free from lust brings great reward.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 359** 
+       | Fields are ruined by weeds. This mankind is ruined by desires. 
+       | Therefore, what is given to those devoid of desires brings much fruit. [DLMBSFn-V359]_
+
 --------------
 
 **the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
@@ -1525,6 +1678,8 @@ NOTE:
 .. [7] (note 007) original: `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
         THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
+
+.. [8] (note 8) original: `Readings in Pali Texts <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp>`__ ( `Digital Library & Museum of Buddhist Studies (DLMBS) <http://buddhism.lib.ntu.edu.tw/DLMBS/en/>`__ --- `Pali Lessons <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali1.jsp>`__ )
 
 .. [NāradaFn24-01] (Ven. Nārada 24-01) Craving is threefold, viz: craving for sensual pleasures (kāmataṇhā), craving connected with the notion of eternalism (bhavataṇhā), and craving connected with the notion of nihilism (vibhavataṇhā).
 
@@ -1602,6 +1757,130 @@ NOTE:
                     Skilled in phonetics (akkhara) which PED says means "phonetics which probably included grammar".  
                   
                     Expert in syntax (pubbāparā) which PED says means what precedes and what follows, what comes first and what last, with reference to the successive order of syllables and words in the text of the Scriptures".
+
+.. [DLMBSFn-V334] (DLMBS Commentary V334) A fisherman in Sāvatthi once caught a beautiful golden fish. But when the fish opened its mouth, horrible smell spread all around. The Buddha was asked why this was so. 
+
+    The fish had been a monk named Kapila long time ago. Kapila was very learned and famous. He taught the Dharma to many people. As a result of this he became very conceited and looked down on other monks. Whenever somebody would try to censure him, Kapila would just grow angry. Soon everybody avoided him and that made Kapila even angrier and he developed hatred for the monks and for the Dharma. 
+
+    As a result of his conceit and hatred, he had to suffer for a long time. Because he taught the Dharma to many, he had a beautiful golden body. But because he used his mouth to abuse the monks and the Dharma, his breath was stinky and foul. The Buddha then added this verse (and the three following ones, DhP 335, DhP 336 and DhP 337).
+
+.. [DLMBSFn-V335] (DLMBS Commentary V335) The story for this verse is identical with the one for the previous verse (DhP 334) and the two following verses (DhP 336 and DhP 337). 
+
+    Thirst and craving are one of the main roots of evil, origins of suffering. The more we are in power of craving, the more suffering and sorrow will befall us. To cut off the craving in our minds is to destroy all sorrow and suffering.
+
+.. [DLMBSFn-V336] (DLMBS Commentary V336) The story for this verse is identical with the one for the two previous verses (DhP 334 and DhP 335) and for the following verse (DhP 337). 
+
+    To defeat the thirst and craving is to defeat the suffering and sorrow. It equals the attainment of Awakenment. Only after reaching the goal of Arahantship, is the thirst completely eradicated and the mind is free from sorrow and suffering. In order to do that one must practice meditation diligently, as taught by the Buddha.
+
+.. [DLMBSFn-V337] (DLMBS Commentary V337) The fishermen in Sāvatthi once caught a beautiful golden fish. They took it to the king who in turn sent it to the Buddha. When the fish opened its mouth, horrible smell spread all around. 
+
+    When asked about this, the Buddha replied that this fish as a learned monk named Kapila a long time ago, during the times of the Buddha Kassapa. Kapila was learned, but very conceited. He did not stand any criticism from other monks, whom he looked down upon. As a result, the other monks started to avoid him. At one occasion, Kapila was delivering a discourse, but nobody went to attend. Kapila then started to think that Dharma had no meaning at all. Because of this, he was born as a fish with a foul breath. But because he taught the Dharma to many before he became so sour, he had a beautiful golden body. 
+
+    The Buddha then spoke this verse and went on to stress the importance of equally combining theoretical learning with meditation practice.
+
+.. [DLMBSFn-V338] (DLMBS Commentary V338) Once the Buddha saw a female pig and he smiled. Venerable Ānanda asked him about the reason for his smile. The Buddha told him that this pig used to be a hen during the times pf the previous Buddha. The hen lived close to a monastery and as a result listened to the discourses. Later she was reborn as a princess. Once she noticed some worms in the toilet and started to meditate on the repulsiveness of the body. Later she was reborn as a Brahma type of deity. And now again, because of some demerit, she was born as a pig. The Buddha commented in this verse (and the five following ones, DhP 339 - DhP 343) how there was simply no end of the round of existences on account of good and bad karma.
+
+.. [DLMBSFn-V339] (DLMBS Commentary V339) The story for this verse is identical with the one for the previous verse (DhP 338) and for the four following verses (DhP 340 - DhP 343). 
+
+    The thirty-six streams in this verse are the three types of craving (for sensual pleasure, for eternal existence, for non-existence) in relation to each of six sense organs that the Buddhist psychology works with: eye, nose, ears, tongue, body and mind.
+
+.. [DLMBSFn-V340] (DLMBS Commentary V340) The story for this verse is identical with the one for the two previous verses (DhP 338 and DhP 339) and with the three following verses (DhP 341, DhP 342 and DhP 343). 
+
+    The streams in this verse are identical with the thirty-six streams from the previous verse (DhP 339). The creeper means passion. It has to be cut off completely with the wisdom gained in meditation practice in order to enable us to reach the Awakenment.
+
+.. [DLMBSFn-V341] (DLMBS Commentary V341) The story for this verse is identical with the one for the three previous verses (DhP 338, Dhp 339 and Dhp 340) and for the two following verses (DhP 342 and DhP 343). 
+
+    Our senses bring in all kinds of data. We are attached to the pleasures coming from these senses. Because of that, we create positive and negative karma and this karma will come into fruition in the future as more births and deaths for us. The solution is to cut off the attachment to this pleasure and with equanimity concentrate on the highest goal, the Awakenment.
+
+.. [DLMBSFn-V342] (DLMBS Commentary V342) The story for this verse is identical with the one for the four previous verses (DhP 338, DhP 339, DhP 340 and DhP 341) and for the following verse (DhP 343). 
+
+    There are ten fetters (**saṃyojana**). They can be divided into two kinds, five so called "lower" or "big" fetters and five "higher" or "small" fetters. 
+  
+    The five big fetters are:
+
+    1) personality belief (**sakkāya-diṭṭhi**), 
+    2) skeptical doubt (**vicikicchā**), 
+    3) clinging to rules and rituals (**sīlabbata-paramāsa**), 
+    4) sensuous craving (**kāma-rāga**), 
+    5) ill-will (**vyāpāda**).
+
+    The five small fetters are:
+     
+    1) craving for fine-material existence (**rūpa-rāga**), 
+    2) craving for immaterial existence (**arūpa-rāga**), 
+    3) conceit (**māna**), 
+    4) restlessness (**uddhacca**), 
+    5) ignorance (**avijjā**). 
+
+.. [DLMBSFn-V343] (DLMBS Commentary V343) The story for this verse is identical with the one for the five previous verses (DhP 338, DhP 339, DhP 340, DhP 341 and DhP 342). 
+    Because of craving people "crawl around" from existence into existence. Just like a captured hare tries very hard to escape but the fetter is stronger, so it manages only to cut itself. People also try to be free but do it the wrong way, only falling more and more deeply into the snare of passions and repeated existence. The solution is to remove all the passion and thirst and escape the snare of *Samsara* forever.
+
+.. [DLMBSFn-V344] (DLMBS Commentary V344) A certain monk was a pupil of Venerable Mahā Kassapa. Although he did not reach any stage of Awakenment, he was able to achieve the four mental absorptions (**jhāna**). Once he visited his uncle who was a goldsmith and developed a strong craving for the gold ornaments he saw there. Therefore he left the Order and came to live with his uncle. 
+
+    But because he was lazy, his uncle threw him out of the house. The man became a thief. After some time he was caught and sentenced to execution. At the execution ground he did not show any fear at all and established himself in deep mental absorption. When the executioners saw that they were very surprised and informed the king. The king gave the order to release the man. 
+
+    The Buddha then admonished the monk with this verse, showing him how foolish it was to leave the monk's life. He further instructed the man in the meditation of insight. The man reached the first stage of Awakenment. Later he rejoined the Order and soon reached the Arahantship.
+
+.. [DLMBSFn-V345] (DLMBS Commentary V345) A group of monks once went to the city of Sāvatthi for almsfood. On their way they observed some prisoners being led with their hands and legs chained in bonds. When they returned to the monastery they related the matter to the Buddha. 
+
+    The Buddha spoke this verse (and the following one, DhP 346) and explained that passion and craving were much stronger fetters than all the chains and handcuffs.
+
+.. [DLMBSFn-V346] (DLMBS Commentary V346) The story for this verse is identical with the one for the previous verse (DhP 345). 
+
+    All the man-made fetters like iron handcuffs, ropes and wooden bonds can not equal craving and longing for beautiful things and loved persons. Bond by these fetters, all beings crawl from existence to existence, unable to break free. Only through abandoning this craving can we be free from the fetters of *Samsara*. 
+
+.. [DLMBSFn-V347] (DLMBS Commentary V347) Queen Khemā was the wife of king Bimbisāra. She was very beautiful and proud of her beauty. The king wanted her to go to the monastery and listen to the Buddha's discourse. But Khemā knew that the Buddha often talked about impermanency and non-attachment to the body, she did not dare to go to see him. 
+
+    Finally the king ordered his musicians to play a song praising the Veluvana monastery and the queen decided to go. She sat in the audience while the Buddha was expounding the teaching. The Buddha then created a vision of a female form (which was visible only to Khemā) to sit near him on the stage, where he was delivering his speech and to fan him. The girl was very young and extremely beautiful. Khemā saw her and realized that compared to this girl she herself looked like a monkey. 
+
+    While she was looking, the girl began to grow older. She became a young woman, then a grown up woman, middle aged, old - and finally she became a very old woman. Khemā realized that the change of the body is a continuing process and she found out that this beautiful young girl changed into an old ugly woman. Then the woman on stage, no longer able to control her body, was lying there, dying and finally she died. Her body got swollen and worms were all over it. 
+
+    Khemā thus finally realized that also her beauty was very impermanent - it was subjected to illness, old age and death. The Buddha further instructed her with this verse and at the end Khemā attained Arahantship. Later she joined the order and became the chief female disciple of the Buddha.
+
+.. [DLMBSFn-V348] (DLMBS Commentary V348) Once a group of wandering acrobats came to Rājagaha. A young man named Uggasena fell in love with a beautiful dancer from the troupe. He married her and joined the group. But since he was not an acrobat, he could only help carry boxes, drive carts and perform similar tasks. 
+
+    The girl gave birth to a son later but she often scolded her husband for not being able to do anything better. Uggasena therefore learned the secrets of acrobatics and became a very skilful acrobat himself. 
+
+    One day the group returned to Rājagaha. Uggasena was eager to perform as he expected to be applauded for his skills. Just as he was performing, the Buddha passed near the place and all the attention of the crowd was drawn to him. Uggasena just sat there feeling very depressed. The Buddha told him this verse and Uggasena reached the Awakenment there and then. He became a monk immediately. 
+
+    Later the Buddha told Uggasena's story. A long time ago, during the times of the Buddha Kassapa, Uggasena gave almsfood to a monk and made a wish that he could reach Arahantship one day. The monk was an Arahant and looked into the future and smiled, because he was able to see that his wish would be fulfilled. Uggasena misunderstood the monk's smile and thought the monk was laughing at him. Therefore he became angry. Because of that he had to travel with a group of acrobats for some time before reaching his goal.
+
+.. [DLMBSFn-V349] (DLMBS Commentary V349) A young monk once asked for some water in a house where a young woman lived alone. She fell in love with him immediately and invited him to come over for almsfood anytime he wanted. Later she would hint that she had enough money but felt very lonely. The monk felt himself attracted to her and began contemplating leaving the Order and marrying her. He became thin and nervous because of his thoughts and the matter was reported to the Buddha. 
+
+    The Buddha told the monk that in his previous life this woman was his wife. Once they were traveling and met some thieves. She fell in love with their leader and helped him kill her husband. Just like in the previous life she was the source of his death, so in this life she could well be the ruin of his life as a monk. The Buddha then spoke this verse (and the following one, DhP 350). 
+    The monk took the advice to his heart and began striving diligently towards the Awakenment.
+
+.. [DLMBSFn-V350] (DLMBS Commentary V350) The story for this verse is identical with the one for the previous verse (DhP 349). 
+
+    The more we think about the pleasant things, the more we desire them. The thirst and attachment will grow. We should also reflect on the unpleasant and impure things in order to restrain our thirst and craving. In this way, we will be able to cut off the fetters that bind us to this world and we can reach the Awakenment.
+
+.. [DLMBSFn-V351] (DLMBS Commentary V351) A large group of monks came to visit the Jetavana monastery. The Buddha's son, novice Rāhula had to sleep outside. Mara then took the form of an elephant and tried to scare Rāhula. But Rāhula did not show any trace of fear. The Buddha then came out and told Mara this verse (and the following one, DhP 352) telling him that Rāhula was an Arahant and could not be scared by anything in the world. Mara realized he lost and disappeared.
+
+.. [DLMBSFn-V352] (DLMBS Commentary V352) The story for this verse is identical with the one for the previous verse (DhP 351). 
+
+    At the time of the Buddha, the sacred texts of various religions were not supposed to be written down. It was considered a kind of sacrilege to do that. Writing was reserved only for worldly matters. Therefore it was crucial that the texts were always remembered correctly and without alteration, in order to protect the true words of the teacher without his disciples changing the meaning.
+
+.. [DLMBSFn-V353] (DLMBS Commentary V353) Just a short time after the Buddha had reached the Awakenment, he met a wandering ascetic named Upaka. Upaka was very impressed by the Buddha and asked him, who was his teacher. The Buddha replied with this verse, saying he did not have any teacher, but that he reached the Awakenment completely on his own. At the end Upaka said he did neither believed the Buddha nor disbelieved him and just walked away.
+
+.. [DLMBSFn-V354] (DLMBS Commentary V354) The gods were once arguing about four questions: Which is the best of all gifts? Which is the best among tastes? Which is the best of joys? How to conquer all suffering? They could not agree on an answer, so Sakka, the king of gods, went to see the Buddha and asked him these questions. The Buddha replied with this verse. 
+
+    Sakka then requested that he gods be invited to share the merit accumulated by the gift of Dharma. The Buddha agreed and from that time on it is a custom to invite the gods to partake of the merit whenever a good deed is done.
+
+.. [DLMBSFn-V355] (DLMBS Commentary V355) King of Kosala came to see the Buddha once and told him that a rich old man died that day in Sāvatthi. He did not leave any heirs and so all his wealth was taken to the state treasury. He also related that the man was very stingy and did not give anything in charity. 
+
+    The Buddha then revealed that this man was also very rich in one of his past existences. Once he offered some almsfood to a monk but then in his stinginess regretted his deed. His brother who was also very rich had a son and this man killed the young boy in order to inherit all his brother's wealth. Because of that these deeds he suffered for a long time. In this present existence he did nothing to accumulate merit and therefore missed a good opportunity to do good with his wealth.
+
+.. [DLMBSFn-V356] (DLMBS Commentary V356) When the Buddha's mother died, she became a goddess named Santusitā in the Tāvatimsa heaven. When the Buddha attained the Awakenment, he went there to teach her the Dharma. While he was there, he also met two other gods. One of them, Indaka, was a man in his previous existence, who once offered a little almsfood to Venerable Anuruddha, the Buddha's disciple. The other god, Ankura, had given much almsfood in his lifetime as a human being, but none of the almsfood was to truly Awakened people. Ankura asked the Buddha how was it possible, that he had given so much and still was reborn in the same heaven as Indaka, who gave almsfood only once. The Buddha then replied with this verse (and three following ones, DhP 357, DhP 358 and DhP 359), saying that quality is more important than quantity.
+
+.. [DLMBSFn-V357] (DLMBS Commentary V357) The story for this verse is identical with the one for the previous verse (DhP 356) and the two following verses (DhP 358, DhP 359). 
+
+    Giving alms is very important, but we must also differentiate to whom we give. The gifts to those who are free of attachments bring much more fruit than what we give to someone who is enslaved by passion, hatred and ignorance.
+
+.. [DLMBSFn-V358] (DLMBS Commentary V358) The story for this verse is identical with the one for two previous verses (DhP 356 and DhP 357) and for the following verse (DhP 359).
+
+.. [DLMBSFn-V359] (DLMBS Commentary V359) The story for this verse is identical with the one for three previous verses (DhP 356, DhP 357 and DhP 358). 
+
+    By these four verses the Buddha stresses the importance of giving alms to those who really deserve it. To give alms to those who are just lazy to work for their living will do harm to the society as well as to those people in question.
 
 --------------
 
