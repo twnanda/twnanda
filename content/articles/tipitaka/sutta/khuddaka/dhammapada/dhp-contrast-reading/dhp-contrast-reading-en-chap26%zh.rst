@@ -3,7 +3,7 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
 ==================================================================================================================================================
 
 :date: 2016-06-29 17:30
-:modified: 2016-06-29 17:30
+:modified: 2016-10-08 14:00
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, The Holy Man, Brāhmaṇavaggo, Brahman, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -137,6 +137,13 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
 
        383 Stop the stream valiantly, drive away the desires, O Brahmana! When you have understood the destruction of all that was made, you will understand that which was not made.
 
+   * - Cited from DLMBS [8]_
+     - **Chapter 26: The Brahmin**
+
+       | **DhP 383** 
+       | Having undertaken the effort, cut off the stream of suffering. Dispel sense-pleasures, Brahmin! 
+       | Having realized the destruction of conditioned things, you know the Nirvana, Brahmin! [DLMBSFn-V383]_
+
 .. _Dhp384:
 
 .. list-table:: Dhammapada Dhp. 384
@@ -176,6 +183,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 384 If the Brahmana has reached the other shore in both laws (in restraint and contemplation), all bonds vanish from him who has obtained knowledge.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 384** 
+       | If a Brahmin is crossed over to the opposite shore in regard of two things, 
+       | then all the bonds of such a knowing one disappear. [DLMBSFn-V384]_
 
 .. _Dhp385:
 
@@ -219,6 +231,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 385 He for whom there is neither this nor that shore, nor both, him, the fearless and unshackled, I call indeed a Brahmana.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 385** 
+       | For whom there does not exist the opposite shore, this shore nor both shores, 
+       | who is fearless and detached - him do I call a Brahmin. [DLMBSFn-V385]_
+
 .. _Dhp386:
 
 .. list-table:: Dhammapada Dhp. 386
@@ -259,6 +276,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 386 He who is thoughtful, blameless, settled, dutiful, without passions, and who has attained the highest end, him I call indeed a Brahmana.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 386** 
+       | Who is meditating, stainless, settled, has done his duty, is without taints, 
+       | has reached the highest attainment - him do I call a Brahmin. [DLMBSFn-V386]_
 
 .. _Dhp387:
 
@@ -310,6 +332,12 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 387 The sun is bright by day, the moon shines by night, the warrior is bright in his armour, the Brahmana is bright in his meditation; but Buddha, the Awakened, is bright with splendour day and night.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 387** 
+       | During the day shines the sun, at night shines the moon. 
+       | The Kshatriya shines when armed, the Brahmin shines when meditating. 
+       | And the Buddha shines with splendor all day and night. [DLMBSFn-V387]_
+
 .. _Dhp388:
 
 .. list-table:: Dhammapada Dhp. 388
@@ -355,6 +383,12 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 388 Because a man is rid of evil, therefore he is called Brahmana; because he walks quietly, therefore he is called Samana; because he has sent away his own impurities, therefore he is called Pravragita (Pabbagita, a pilgrim).
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 388** 
+       | One is called "a Brahmin" because he keeps away from evil. 
+       | One is called "a recluse" because he lives in tranquility. 
+       | If one has renounced one's own impurities, then one is called "a monk". [DLMBSFn-V388]_
+
 .. _Dhp389:
 
 .. list-table:: Dhammapada Dhp. 389
@@ -398,6 +432,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 389 No one should attack a Brahmana, but no Brahmana (if attacked) should let himself fly at his aggressor! Woe to him who strikes a Brahmana, more woe to him who flies at his aggressor!
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 389** 
+       | One should not strike a Brahmin. But a Brahmin should not get angry with the one, who hit him. 
+       | Shame to those who hurt Brahmins! More shame to those, who are angry with them! [DLMBSFn-V389]_
 
 .. _Dhp390:
 
@@ -446,6 +485,13 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 390 It advantages a Brahmana not a little if he holds his mind back from the pleasures of life; when all wish to injure has vanished, pain will cease.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 390** 
+       | For a Brahmin, there is nothing better 
+       | than when he is holding the mind back from agreeable things. 
+       | When one turns away from a wish to hurt, 
+       | then one just calms down the suffering. [DLMBSFn-V390]_
+
 .. _Dhp391:
 
 .. list-table:: Dhammapada Dhp. 391
@@ -487,6 +533,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 391 Him I call indeed a Brahmana who does not offend by body, word, or thought, and is controlled on these three points.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 391** 
+       | Who does not perform any evil deeds by body, speech or mind, 
+       | who is restrained in three ways - him do I call a Brahmin. [DLMBSFn-V391]_
 
 .. _Dhp392:
 
@@ -531,6 +582,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 392 After a man has once understood the law as taught by the Well- awakened (Buddha), let him worship it carefully, as the Brahmana worships the sacrificial fire.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 392** 
+       | From whom you learned the Dharma, that is taught by the truly and completely Awakened One, 
+       | you should duly pay your respects to him, like a Brahmin at the fire sacrifice. [DLMBSFn-V392]_
 
 .. _Dhp393:
 
@@ -583,6 +639,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 393 A man does not become a Brahmana by his platted hair, by his family, or by birth; in whom there is truth and righteousness, he is blessed, he is a Brahmana.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 393** 
+       | One is not a Brahmin because of matted hair, lineage or birth. 
+       | In whom there is truth and the Dharma, he is pure, he is a Brahmin. [DLMBSFn-V393]_
+
 .. _Dhp394:
 
 .. list-table:: Dhammapada Dhp. 394
@@ -634,6 +695,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 394 What is the use of platted hair, O fool! what of the raiment of goat-skins? Within thee there is ravening, but the outside thou makest clean.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 394** 
+       | What use is your matted hair, fool? What use is your garment from antelope skin? 
+       | Inside you is a jungle, you touch only the outside. [DLMBSFn-V394]_
+
 .. _Dhp395:
 
 .. list-table:: Dhammapada Dhp. 395
@@ -677,6 +743,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 395 The man who wears dirty raiments, who is emaciated and covered with veins, who lives alone in the forest, and meditates, him I call indeed a Brahmana.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 395** 
+       | The person who is wearing just rags from a dust heap, is lean, with veins showing, 
+       | who is meditating alone in the forest - him do I call a Brahmin. [DLMBSFn-V395]_
 
 .. _Dhp396:
 
@@ -739,6 +810,12 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 396 I do not call a man a Brahmana because of his origin or of his mother. He is indeed arrogant, and he is wealthy: but the poor, who is free from all attachments, him I call indeed a Brahmana.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 396** 
+       | I do not call one a Brahmin only because on account of birth, because he is born from [a Brahmin] mother. 
+       | If he has attachments, he is to be called only "self-important". 
+       | One who is without attachments and without clinging - him do I call a Brahmin. [DLMBSFn-V396]_
+
 .. _Dhp397:
 
 .. list-table:: Dhammapada Dhp. 397
@@ -787,6 +864,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 397 Him I call indeed a Brahmana who has cut all fetters, who never trembles, is independent and unshackled.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 397** 
+       | Who has cut off all fetters and doesn;t crave for anything, 
+       | who has overcome all binds and is detached - him do I call a Brahmin. [DLMBSFn-V397]_
+
 .. _Dhp398:
 
 .. list-table:: Dhammapada Dhp. 398
@@ -834,6 +916,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 398 Him I call indeed a Brahmana who has cut the strap and the thong, the chain with all that pertains to it, who has burst the bar, and is awakened.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 398** 
+       | Who has cut off strap and harness, fetter together with a bridle, 
+       | who has all the obstacles removed and is awakened - him do I call a Brahmin. [DLMBSFn-V398]_
+
 .. _Dhp399:
 
 .. list-table:: Dhammapada Dhp. 399
@@ -880,6 +967,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 399 Him I call indeed a Brahmana who, though he has committed no offence, endures reproach, bonds, and stripes, who has endurance for his force, and strength for his army.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 399** 
+       | Who benevolently endures abuse, beating and binding, 
+       | whose power is forbearance, with strong force - him do I call a Brahmin. [DLMBSFn-V399]_
 
 .. _Dhp400:
 
@@ -931,6 +1023,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 400 Him I call indeed a Brahmana who is free from anger, dutiful, virtuous, without appetite, who is subdued, and has received his last body.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 400** 
+       | Who is friendly, devout, virtuous and not arrogant, 
+       | restrained and living his last life - him do I call a Brahmin. [DLMBSFn-V400]_
+
 .. _Dhp401:
 
 .. list-table:: Dhammapada Dhp. 401
@@ -974,6 +1071,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 401 Him I call indeed a Brahmana who does not cling to pleasures, like water on a lotus leaf, like a mustard seed on the point of a needle.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 401** 
+       | Like water to a lotus leaf, like a mustard seed to the point of an arrow, 
+       | who doesn't cling to sense-pleasures - him do I call a Brahmin. [DLMBSFn-V401]_
+
 .. _Dhp402:
 
 .. list-table:: Dhammapada Dhp. 402
@@ -1016,6 +1118,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 402 Him I call indeed a Brahmana who, even here, knows the end of his suffering, has put down his burden, and is unshackled.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 402** 
+       | Who knows by himself the destruction of suffering in this world, 
+       | who has put down his burden and is detached - him do I call a Brahmin. [DLMBSFn-V402]_
 
 .. _Dhp403:
 
@@ -1066,6 +1173,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 403 Him I call indeed a Brahmana whose knowledge is deep, who possesses wisdom, who knows the right way and the wrong, and has attained the highest end.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 403** 
+       | One who is endowed with deep knowledge, intelligent, knowing the difference between what is a road and what is not, 
+       | who has reached the highest attainment - him do I call a Brahmin. [DLMBSFn-V403]_
+
 .. _Dhp404:
 
 .. list-table:: Dhammapada Dhp. 404
@@ -1108,6 +1220,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 404 Him I call indeed a Brahmana who keeps aloof both from laymen and from mendicants, who frequents no houses, and has but few desires.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 404** 
+       | Who is not associating neither with householders nor with monks, 
+       | wandering in houselessness, wanting little - him do I call a Brahmin. [DLMBSFn-V404]_
+
 .. _Dhp405:
 
 .. list-table:: Dhammapada Dhp. 405
@@ -1148,6 +1265,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 405 Him I call indeed a Brahmana who finds no fault with other beings, whether feeble or strong, and does not kill nor cause slaughter.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 405** 
+       | Who has given up punishing of all living beings, be they trembling or firm, 
+       | who does not kill, nor causes another to kill - him do I call a Brahmin. [DLMBSFn-V405]_
 
 .. _Dhp406:
 
@@ -1191,6 +1313,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 406 Him I call indeed a Brahmana who is tolerant with the intolerant, mild with fault-finders, and free from passion among the passionate.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 406** 
+       | One who is unhindered amongst the obstructed, one who is free amongst violent, 
+       | one who does not cling to anything amongst those who do - him do I call a Brahmin. [DLMBSFn-V406]_
 
 .. _Dhp407:
 
@@ -1241,6 +1368,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 407 Him I call indeed a Brahmana from whom anger and hatred, pride and envy have dropt like a mustard seed from the point of a needle.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 407** 
+       | Who has destroyed passion, hatred, conceit and hypocrisy, 
+       | as if a mustard seed falls down from the head of an arrow - him do I call a Brahmin. [DLMBSFn-V407]_
+
 .. _Dhp408:
 
 .. list-table:: Dhammapada Dhp. 408
@@ -1286,6 +1418,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 408 Him I call indeed a Brahmana who utters true speech, instructive and free from harshness, so that he offend no one.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 408** 
+       | Who speaks smooth, informative and true words, 
+       | by which he does not offend anyone - him do I call a Brahmin. [DLMBSFn-V408]_
+
 .. _Dhp409:
 
 .. list-table:: Dhammapada Dhp. 409
@@ -1328,6 +1465,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 409 Him I call indeed a Brahmana who takes nothing in the world that is not given him, be it long or short, small or large, good or bad.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 409** 
+       | Who here in this world does not take what was not given, be it long, short, 
+       | small, big, pleasant or unpleasant - him do I call a Brahmin. [DLMBSFn-V409]_
+
 .. _Dhp410:
 
 .. list-table:: Dhammapada Dhp. 410
@@ -1368,6 +1510,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 410 Him I call indeed a Brahmana who fosters no desires for this world or for the next, has no inclinations, and is unshackled.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 410** 
+       | Who has no longing anywhere in this or the next world, 
+       | who is independent and unattached - him do I call a Brahmin. [DLMBSFn-V410]_
 
 .. _Dhp411:
 
@@ -1413,6 +1560,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 411 Him I call indeed a Brahmana who has no interests, and when he has understood (the truth), does not say How, how? and who has reached the depth of the Immortal.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 411** 
+       | Who is without attachments, has realized the truth and is free from doubts, 
+       | merging into the Nirvana, has attained the goal - him do I call a Brahmin. [DLMBSFn-V411]_
+
 .. _Dhp412:
 
 .. list-table:: Dhammapada Dhp. 412
@@ -1453,6 +1605,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 412 Him I call indeed a Brahmana who in this world is above good and evil, above the bondage of both, free from grief from sin, and from impurity.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 412** 
+       | Who has in this world gone beyond both attachments of good and evil, 
+       | who is free from sorrow, stainless and pure - him do I call a Brahmin. [DLMBSFn-V412]_
 
 .. _Dhp413:
 
@@ -1497,6 +1654,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 413 Him I call indeed a Brahmana who is bright like the moon, pure, serene, undisturbed, and in whom all gaiety is extinct.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 413** 
+       | Who is like a moon, spotless, clean, bright and undisturbed, 
+       | who has destroyed the existence of pleasure - him do I call a Brahmin. [DLMBSFn-V413]_
 
 .. _Dhp414:
 
@@ -1547,6 +1709,12 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 414 Him I call indeed a Brahmana who has traversed this miry road, the impassable world and its vanity, who has gone through, and reached the other shore, is thoughtful, guileless, free from doubts, free from attachment, and content.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 414** 
+       | Who has overcome this danger, bad place, round of rebirth and delusion, 
+       | who has crossed, gone over to the opposite shore, is meditating, free from craving and doubts, 
+       | who is emancipated and without clinging - him do I call a Brahmin. [DLMBSFn-V414]_
+
 .. _Dhp415:
 
 .. list-table:: Dhammapada Dhp. 415
@@ -1594,6 +1762,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 415 Him I call indeed a Brahmana who in this world, leaving all desires, travels about without a home, and in whom all concupiscence is extinct.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 415** 
+       | Who in this world has renounced desires, wanders around homeless, 
+       | him, who has destroyed the existence of desire - him do I call a Brahmin. [DLMBSFn-V415]_
 
 .. _Dhp416:
 
@@ -1643,6 +1816,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 416 Him I call indeed a Brahmana who, leaving all longings, travels about without a home, and in whom all covetousness is extinct.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 416** 
+       | Who in this world has renounced thirst, wanders around homeless, 
+       | him, who has destroyed the existence of thirst - him do I call a Brahmin. [DLMBSFn-V416]_
+
 .. _Dhp417:
 
 .. list-table:: Dhammapada Dhp. 417
@@ -1684,6 +1862,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 417 Him I call indeed a Brahmana who, after leaving all bondage to men, has risen above all bondage to the gods, and is free from all and every bondage.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 417** 
+       | Who has renounced human bonds, and escaped divine bonds, 
+       | who is detached from al bonds - him do I call a Brahmin. [DLMBSFn-V417]_
 
 .. _Dhp418:
 
@@ -1728,6 +1911,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 418 Him I call indeed a Brahmana who has left what gives pleasure and what gives pain, who is cold, and free from all germs (of renewed life), the hero who has conquered all the worlds.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 418** 
+       | Who has renounced liking and dislike, tranquil and free from attachments, 
+       | The hero, who has conquered the whole world - him do I call a Brahmin. [DLMBSFn-V418]_
+
 .. _Dhp419:
 
 .. list-table:: Dhammapada Dhp. 419
@@ -1771,6 +1959,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 419 Him I call indeed a Brahmana who knows the destruction and the return of beings everywhere, who is free from bondage, welfaring (Sugata), and awakened (Buddha).
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 419** 
+       | Who has thoroughly understood the arising and passing away of beings, 
+       | who is unattached, well-gone and awakened - him do I call a Brahmin. [DLMBSFn-V419]_
+
 .. _Dhp420:
 
 .. list-table:: Dhammapada Dhp. 420
@@ -1810,6 +2003,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 420 Him I call indeed a Brahmana whose path the gods do not know, nor spirits (Gandharvas), nor men, whose passions are extinct, and who is an Arhat (venerable).
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 420** 
+       | Whose direction isn't known by the gods, Gandharvas and humans, 
+       | who has removed the taints and is an Arahant - him do I cal a Brahmin. [DLMBSFn-V420]_
 
 .. _Dhp421:
 
@@ -1852,6 +2050,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 421 Him I call indeed a Brahmana who calls nothing his own, whether it be before, behind, or between, who is poor, and free from the love of the world.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 421** 
+       | For whom there is nothing before, after or now, 
+       | One who is without attachments and without clinging - him do I call a Brahmin. [DLMBSFn-V421]_
+
 .. _Dhp422:
 
 .. list-table:: Dhammapada Dhp. 422
@@ -1892,6 +2095,11 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
      
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 422 Him I call indeed a Brahmana, the manly, the noble, the hero, the great sage, the conqueror, the impassible, the accomplished, the awakened.
+
+   * - Cited from DLMBS [8]_
+     - | **DhP 422** 
+       | Who is strong, noble, a hero, a great seer, victorious, 
+       | free from craving, his task finished and is awakened - him do I call a Brahmin. [DLMBSFn-V422]_
 
 .. _Dhp423:
 
@@ -1958,6 +2166,12 @@ Chapter 26. The Holy Man; Brāhmaṇavaggo (Dhp.383-423), Parallel Reading (para
    * - Translated from the Pali by Friedrich Max Müller) [7]_
      - 423 Him I call indeed a Brahmana who knows his former abodes, who sees heaven and hell, has reached the end of births, is perfect in knowledge, a sage, and whose perfections are all perfect.
 
+   * - Cited from DLMBS [8]_
+     - | **DhP 423** 
+       | Who knows his former births and sees both heaven and hell, 
+       | who has reached the end of rebirths, the sage who has attained higher wisdom, 
+       | one who has attained all accomplishments - him do I call a Brahmin. [DLMBSFn-V423]_
+
 --------------
 
 **the feature in the Pali scriptures which is most prominent and most tiresome to the unsympathetic reader is the repetition of words, sentences and whole paragraphs. This is partly the result of grammar or at least of style.** …，…，…，
@@ -1988,6 +2202,8 @@ NOTE:
 .. [7] (note 007) original: `The Dhammapada <https://en.wikisource.org/wiki/Dhammapada_(Muller)>`__ : A Collection of Verses: Being One of the Canonical Books of the Buddhists, translated by Friedrich Max Müller (en.wikisource.org) (revised Jack Maguire, SkyLight Pubns, Woodstock, Vermont, 2002)
 
         THE SACRED BOOKS OF THE EAST, VOLUME X PART I. THE DHAMMAPADA; TRANSLATED BY VARIOUS ORIENTAL SCHOLARS AND EDITED BY F. MAX MüLLER, OXFOKD UNIVERSITY FBESS WABEHOUSE, 1881; `PDF <http://sourceoflightmonastery.tripod.com/webonmediacontents/1373032.pdf>`__ ( from: http://sourceoflightmonastery.tripod.com)
+
+.. [8] (note 8) original: `Readings in Pali Texts <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali3.jsp>`__ ( `Digital Library & Museum of Buddhist Studies (DLMBS) <http://buddhism.lib.ntu.edu.tw/DLMBS/en/>`__ --- `Pali Lessons <http://buddhism.lib.ntu.edu.tw/DLMBS/en/lesson/pali/lesson_pali1.jsp>`__ )
 
 .. [NāradaFn26-01] (Ven. Nārada 26-01) Though a racial term here it is applied either to a Buddha or an Arahant - to one who has completed the Way and has won Enlightenment.
 
@@ -2159,6 +2375,198 @@ NOTE:
 .. [VaradoFn-V393_395-396] (Ven. Varado V.393_395-396) Verse 393, 395, 396: The word 'brahman' has various implied meanings, including religiosity, saintliness, godliness, divinity. I use these words interchangeably.
 
 .. [VaradoFn-V396] (Ven. Varado V.396) Verse 396: as in verse 221: "free of all identity" (akiñcanaṃ). PED: having nothing.
+
+.. [DLMBSFn-V383] (DLMBS Commentary V383) A certain Brahmin in Sāvatthi was a follower of the Buddha. Often he invited the monks to his house and he would address them as Arahants. Those monks, who had not yet attained the Arahantship, were embarrassed and many monks started to avoid the Brahmin's house. 
+
+    The Brahmin felt sad and asked the Buddha why so many monks stopped coming to his house. The Buddha then questioned the monks and they told him about the Brahmin's form of address. The Buddha told them that the Brahmin did not mean anything bad; he spoke only out of his respect and devotion to the Arahants. Then the Buddha spoke this verse, saying that monks should uproot the stream of suffering, realize the destruction of conditioned things and experience the Nirvana.
+
+.. [DLMBSFn-V384] (DLMBS Commentary V384) A group of monks once came to see the Buddha. Venerable Sāriputta perceived that those monks were very close to attaining the Arahantship. Therefore he approached the Buddha and asked him a question for the benefit of the monks. He asked, what were the two things that can bring about the disappearance of all bonds. The Buddha replied with this verse, adding that the two things were the tranquility and the insight meditations.
+
+.. [DLMBSFn-V385] (DLMBS Commentary V385) Māra once approached the Buddha and asked him what does the word **pāra** (the other shore) mean. The Buddha knew that it was Māra and replied with this verse, saying that the other shore is the Nirvana, which only the Arahants can reach.
+
+.. [DLMBSFn-V386] (DLMBS Commentary V386) Once a certain Brahmin thought that the Buddha always called his disciples "Brahmins" even though they were not Brahmins by caste. So he went to the Buddha and asked what he meant by "Brahmin". The Buddha replied with this verse, saying that one does not become a Brahmin by birth, but only by long and diligent practice of the Dharma.
+
+.. [DLMBSFn-V387] (DLMBS Commentary V387) The king Pasenadi once came to see the Buddha. He was dressed in royal clothes, with all the regalia. He was very resplendent. In the congregation sat Venerable Kāludāyi, who was in deep meditation and his body was bright, as if emitting light. In the sky, the sun was setting and the moon was just rising, both of them radiating beautiful rays of light. 
+
+    Venerable Ānanda observed all this and then he realized that the splendor of the Buddha is surpassing all others. He mentioned this and the Buddha replied with this verse, saying that the Buddha always shines by the power of morality, virtue, merit, wisdom and righteousness.
+
+.. [DLMBSFn-V388] (DLMBS Commentary V388) Once a certain ascetic came to see the Buddha and asked him, if he (the Brahmin) could also be called "a monk" (**pabbajita**). The Buddha replied with this verse, saying that in order to be called "a monk" one has to discard all evil and impurities of mind.
+
+.. [DLMBSFn-V389] (DLMBS Commentary V389) Venerable Sāriputta was famous for his patience and forbearance. Once a certain Brahmin boasted he would provoke Sāriputta to anger. He came to Sāriputta while he was on his almsround and hit him on his back. Sāriputta did not even turn around but calmly continued on his way. The Brahmin felt very ashamed and begged Sāriputta for pardon. He then invited Sāriputta to his house for almsfood. 
+
+    When the Buddha heard about this, he praised Sāriputta with this verse (and the following one, DhP 390).
+
+.. [DLMBSFn-V390] (DLMBS Commentary V390) The story for this verse is identical with the one for the previous verse (DhP 389). 
+
+    Whenever we are angry, but manage to turn away from the feelings of hatred and wish to hurt the opposite party, then we just won a small victory on the road towards the Awakenment and the appeasement of all suffering.
+
+.. [DLMBSFn-V391] (DLMBS Commentary V391) Pajāpati Gotamī was the Buddha's stepmother. When Māyā, his own mother, died, Gotamī raised the young prince Siddhattha, the future Buddha, herself. Later, when her husband, the Buddha's father, died, she became the first nun and established the Sangha of the nuns (**bhikkhunī**). 
+
+    Because she was the first nun, she was not ordained by the Sangha of the nuns, as was the rule. Therefore some nuns began to say that she was actually not nun at all and started to avoid her. 
+
+    When the Buddha heard about this, he told them that he himself gave Pajāpati Gotamī her ordination and therefore she was a properly ordained nun. He further said, that Pajāpati Gotamī was an Arahant and added this verse to praise her qualities.
+
+.. [DLMBSFn-V392] (DLMBS Commentary V392) Sāriputta and Moggallāna were friends ever since they were born. They grew up in one village, where their parents were Brahmins. Both youths searched for the teaching of Awakenment. They went to various teachers and performed various religious practices, but they were not satisfied. 
+
+    When they were at Rājagaha, the Buddha also came there together with his monks. One of them was Venerable Assaji, one of the first five disciples of the Buddha. Sāriputta met Assaji while the later was on his almsround. Sāriputta was impressed with Assaji's calmness and serenity and asked him who was his teacher and what was his teaching. Assaji spoke a short verse: 
+
+    "The Tathāgata (the Buddha) declared the cause and the cessation of all things that arise from a cause. This is what the Great Ascetic (The Buddha) says." 
+
+    Sāriputta immediately attained the first level of Awakenment. He then went to inform Moggallāna about this and told him the verse. Moggallāna also attained the first stage of Awakenment. Together they went to see the Buddha and became monks. Soon they attained the Arahantship. Later they became the Buddha's chief disciples. 
+
+    Venerable Sāriputta always remembered that it was Assaji who taught him the Dharma and used to pay his respect in the direction, where his teacher was. The other monks misunderstood this and reported to the Buddha that Sāriputta was still worshipping the directions as he had done before as a Brahmin. Sāriputta then explained that he only honored his teacher. The Buddha then spoke this verse, saying that we should always honor the person, who taught us the Dharma in the first place.
+
+.. [DLMBSFn-V393] (DLMBS Commentary V393) A certain Brahmin heard the Buddha to call his disciples "Brahmins". He asked the Buddha if they were truly Brahmins by birth. The Buddha replied that one ought not to be called "a Brahmin" because of birth, lineage or matted hair. Only someone who comprehends the truth and knows the Dharma can be called "a Brahmin".
+
+.. [DLMBSFn-V394] (DLMBS Commentary V394) There was a Brahmin, who climbed a tree near the city of Vesāli. He hanged down from it and told the people to bring him gifts - otherwise the city will suffer. Ignorant people indeed brought him many gifts, because they were superstitious and feared the powers of the Brahmin. 
+
+    When the Buddha heard about it, he spoke this verse, saying that such "Brahmins" could fool only ignorant people.
+
+.. [DLMBSFn-V395] (DLMBS Commentary V395) Sakka, the king of gods, once came to pay homage to the Buddha, with many lesser gods in attendance. At the same time, Kisā Gotamī, using her supernormal powers, flew to the Buddha also in order to pay homage to him. But when she saw Sakka with his entourage, she retreated. 
+
+    Sakka asked the Buddha who she was and the Buddha told him Kisā Gotamī's story (see DhP 114 for the story). Then he spoke this verse, extolling virtues of meditation and ascetic livelihood.
+
+.. [DLMBSFn-V396] (DLMBS Commentary V396) A certain Brahmin once asked Buddha why he called his disciples "Brahmins". Was it then not proper that he should be called "a Brahmin" too, since he was born from Brahmin parents? The Buddha replied with this verse, saying that a true Brahmin is one who overcame all his attachments, not the one who was born from Brahmin parents.
+
+.. [DLMBSFn-V397] (DLMBS Commentary V397) Uggasena married a dancer and became an acrobat (see DhP 348 for the whole story). Once, while practicing on the long bamboo pole, he heard the Buddha's teachings and attained the Arahantship. Then he became a monk. 
+
+    Later some monks questioned his attainment and asked the Buddha. The Buddha replied with this verse, saying that Uggasena was truly an Arahant, without any fetters. 
+  
+    There are ten fetters (*saṃyojana*). They can be divided into two kinds, five so called "lower" or "big" fetters and five "higher" or "small" fetters. 
+
+    The five big fetters are: 
+
+    1) personality belief (*sakkāya-diṭṭhi*), 
+    2) skeptical doubt (*vicikicchā*), 
+    3) clinging to rules and rituals (*sīlabbata-paramāsa*), 
+    4) sensuous craving (*kāma-rāga*), 
+    5) ill-will (*vyāpāda*).
+
+    The five small fetters are: 
+
+    1) craving for fine-material existence (*rūpa-rāga*), 
+    2) craving for immaterial existence (*arūpa-rāga*), 
+    3) conceit (*māna*), 
+    4) restlessness (*uddhacca*), 
+    5) ignorance (*avijjā*). 
+
+.. [DLMBSFn-V398] (DLMBS Commentary V398) Two men from Sāvatthi owned oxen and they quarreled whose ox was stronger. So they filled a cart with sand and the two oxen tried to pull it. But the cart was so heavy that the oxen were able only to break the ropes and harnesses. The Buddha commented on the story with this verse, saying that we should cut the harnesses and fetters of our mind.
+
+.. [DLMBSFn-V399] (DLMBS Commentary V399) A certain Brahmin's wife was a follower of the Buddha and once she spoke the words in homage to the Buddha while her husband was entertaining some guests. He became very angry and decided to challenge the Buddha. He went to the monastery and asked the Buddha what do we have to kill in order to live peacefully and happily. The Buddha replied that we have to kill anger. The Brahmin immediately became a monk and later became an Arahant. 
+
+    When his brother heard about this, he became furious and went to the monastery in order to abuse the Buddha. Before he got a chance to speak, the Buddha asked him, "If you invite the guests for dinner but they don't eat anything at all - to whom does the food belong?" The Brahmin replied that the food was then his. The Buddha continued, "In the same way, I do not accept your abuse, so it will go back to you." The Brahmin also became a monk and later attained the Arahantship. 
+
+    Later also their two younger brothers came in anger to the Buddha, but also they were converted, became monks and later Arahants. 
+
+    The monks commented how great were the powers of the Buddha, that he was able not only to stop the Brahmins from abuse, but also made them to became monks and Arahants. The Buddha replied with this verse, saying that forbearance was the best weapon and power.
+
+.. [DLMBSFn-V400] (DLMBS Commentary V400) Venerable Sāriputta and some monks went for almsfood in Nālaka village, where his family lived. His mother invited him and the monks into her house. But while she was serving them food, she was very rude to Sāriputta and also to the rest of the monks, because she was not happy about him becoming a monk. But Sāriputta borne the scolding patiently and without getting angry. Later the Buddha explained with this verse, that Arahants never loose their temper.
+
+.. [DLMBSFn-V401] (DLMBS Commentary V401) Once some monks were discussing the story of the Arahant nun Uppalavaṇṇā who was raped in the forest (see DhP 69). In this connection they asked the Buddha if Arahants enjoy sensual pleasures or do not. The Buddha replied with this verse, saying that the Arahants do not enjoy sensual pleasures, because the do not cling to anything at all.
+
+.. [DLMBSFn-V402] (DLMBS Commentary V402) A servant once escaped his master and became a monk, in due course reaching the Arahantship. Once when he was on an almsround with the Buddha, his former master saw him and tried grabbed him by his robe. But the Buddha explained that the man was not a servant any more, because he already escaped all kinds of enslavement by reaching the Arahantship.
+
+.. [DLMBSFn-V403] (DLMBS Commentary V403) The king of gods, Sakka came to pay homage to the Buddha once. At that time, the nun Khema came for the same purpose, using her supernormal powers, flying through the sky. But when she saw Sakka there, she left. Sakka asked the Buddha who this nun was. The Buddha described Khema with this verse, adding that she was foremost amongst the nuns as for wisdom.
+
+.. [DLMBSFn-V404] (DLMBS Commentary V404) A monk named Tissa lived in a cave practicing meditation. In the same cave there lived a spirit who found it difficult to live near somebody of such pure virtue, yet didn't dare to ask Tissa directly to leave. 
+
+    The spirit went to the nearby village and possessed a young boy. He then told the boy's mother that only after the boy is washed with water left over from washing Tissa's feet, would he leave the boy alone. The boy's mother asked Tissa for help and he agreed. 
+
+    The spirit then accused Tissa of exorcism (the practice of which is an offence for Buddhist monks) and on account of this asked him to leave. Tissa reflected on his acts and realized that he did not practice exorcism and had no offence. That gave him assurance and happiness and he attained the Arahantship in that very spot. 
+
+    Tissa continued to dwell in the cave for the whole Rain Retreat and when it was over, he went to see the Buddha. He narrated his encounter with the spirit and other monks asked the Buddha if Tissa was really an Arahant. The Buddha replied with this verse, confirming Tissa's attainment.
+
+.. [DLMBSFn-V405] (DLMBS Commentary V405) One monk went to the forest for meditation practice. He attained the Arahantship and went to the Buddha to offer his gratitude. On the way he passed through a certain village. 
+
+    There a wife quarreled with her husband and ran away. She followed close behind the monk. Her husband saw them and mistakenly thought that the monk is taking his wife away. So he beat the monk and took his wife back home. 
+
+    When the monk returned to the Jetavana monastery, he told his story. Other monks asked him if he was angry. He replied he was not, because he has no anger left in him. The Buddha then confirmed with this verse that the monk has indeed reached the Arahantship.
+
+.. [DLMBSFn-V406] (DLMBS Commentary V406) A Brahmin couple once prepared to offer food to the Buddhist monks. The wife sent her husband to the monastery to invite some senior monks. But the Buddha sent four novices (who were also Arahants). The wife was unhappy, did not offer the novices neither seats nor food and sent her husband back. He met Venerable Sāriputta and brought him to their house. When Sāriputta saw the situation, he returned to the monastery. The same thing happened next time, when the Brahmin brought Venerable Moggallāna with him. 
+
+    Sakka, the king of the gods, then took a form of an old Brahmin and came to the house. Husband and wife paid their respects to him and offered him the seat of honor. Sakka refused and paid respects to the four novices. Then he revealed that he was Sakka and the novices were actually Arahants. The Brahmin couple fell very ashamed and immediately served the novices food. 
+    When the Buddha heard about this, he spoke this verse, saying that Arahants are not angry toward those, who are hostile.
+
+.. [DLMBSFn-V407] (DLMBS Commentary V407) Two brothers, Mahāpanthaka and Cūḷapanthaka became monks. But whereas Mahāpanthaka soon became an Arahant, Cūḷapanthaka was quite dull and could not make any progress. His brother then suggested that maybe it would be better for him to return to the lay life. 
+
+    The monks thought that he spoke out of anger and asked the Buddha if Arahants still have any anger left in them. The Buddha said that Mahāpanthaka acted as he thought was the best for his brother - there was no anger at all. 
+    See also the story for gāthā 25.
+
+.. [DLMBSFn-V408] (DLMBS Commentary V408) There was a monk named Pilinda Vaccha, who always addressed people in a offensive manner, as if he was somewhat superior. Other monks complained to the Buddha about it and he told them that Pilinda Vaccha had been born as a Brahmin for many past existences. Therefore, the way he addressed others was not meant as an offense (for Vaccha was an Arahant), but he did it simply out of force of habit. The Buddha then spoke this verse, saying that Arahants have no intention of harming others even with their speech.
+
+.. [DLMBSFn-V409] (DLMBS Commentary V409) A certain Brahmin once put his clothes beside his house, in order to air it. A monk who happened to pass by mistook it for a thrown away piece of cloth and he took it. The Brahmin accused him of stealing and the monk then returned the cloth back and went to the monastery.
+
+    There he told the story to other monks. The monks started joking about this incident, asking him to describe the quality of the cloth. The monks only replied that he had no attachment to the clothes at all. 
+
+    The Buddha then confirmed that this monk was really an Arahant without attachment and added this verse, saying that Arahants do not take things not given to them.
+
+.. [DLMBSFn-V410] (DLMBS Commentary V410) Venerable Sāriputta once spent a Rain Retreat at a certain village. The people there promised to give the monks all the requisites (robes etc.) at the end of the Retreat. However, when the Rains were over, not everything was received. So Sāriputta told the monks to send the villagers over to him in case they brought the requisites. 
+
+    The monks misunderstood his intentions and told the Buddha that Sāriputta still had attachments to worldly thing like robes. The Buddha explained that Sāriputta's intention was to insure huge merit for the donors and enough of requisites for all the monks.
+
+.. [DLMBSFn-V411] (DLMBS Commentary V411) On one occasion, a similar thing that happened to Venerable Sāriputta in the previous verse (see the commentary for gāthā 410) happened to Venerable Moggallāna. The Buddha then spoke this verse, saying that Moggallāna was free of defilements.
+
+.. [DLMBSFn-V412] (DLMBS Commentary V412) One day the monks complained to the Buddha that a novice named Revata is getting many offerings from the people although he lives alone in the forest. They accused Revata of craving for material gains. The Buddha spoke this verse, saying that Revata has given up all cravings and is an Arahant.
+
+.. [DLMBSFn-V413] (DLMBS Commentary V413) There lived a Brahmin in Sāvatthi called Candābha. In one of his previous lives he made offerings to the stūpa of the Buddha Kassapa. Because of this, a circle of light resembling the moon was radiating from his navel. Therefore he was called Candābha (moonlight). Some Brahmins took advantage of this and allowed people to touch Candābha for money. 
+
+    Once they passed the Jetavana monastery and laughed at some disciples of the Buddha who were on the way to hear the Dharma. Then they took Candābha inside to compete with the Buddha. When Candābha was in the presence of the Buddha, his ring of light went out. Candābha then asked the Buddha to tech him how to make such marks appear and disappear. The Buddha told him to join the Order. 
+
+    So Candābha became a monk and very soon he attained Arahantship and told his followers to go away, since he would no longer go with them around showing his navel. The Buddha then confirmed his attainment with this verse.
+
+.. [DLMBSFn-V414] (DLMBS Commentary V414) A princess named Suppavāsa was pregnant for an unusually long time. She contemplated on the Three Jewels and then sent for the Buddha asking him for help. The Buddha recited, "May Suppavāsa be free from danger, may she give birth to a healthy son." Just as these words were said, Suppavāsa gave birth to a son. 
+
+    When he grew up, he became a monk named Sivali. Very quickly he attaind the Arahantship and was then famous for being able to receive offerings without difficulty. 
+
+    Once some monks asked why was his mother pregnant for such a long time. The Buddha said that in one of his previous life, Sivali was a prince who lost his kingdom and on an advice from his mother he besieged the city of his rival. As a result, the people of that city were hungry for several days. For this deed, Sivali and his mother had to suffer during the pregnancy and delivery.
+
+.. [DLMBSFn-V415] (DLMBS Commentary V415) In Sāvatthi there lived a rich family. They had a son named Sundara Samudda. He became a monk and lived in Rājagaha. His family missed him very much and they rented a courtesan to try to tempt him. 
+
+    She offered food to Sundara Samudda every day. Once she paid some children to play in the street and therefore she invited the monk inside her house, saying that it was too noisy and dusty outside. There she tried to tempt him to give up the life of a monk and become her husband. 
+
+    The monk got very alarmed and realized his mistake. But the Buddha was mindful of this struggle and sent forth his radiance and spoke this verse to Sundara Samudda. The monk attained the Arahantship.
+
+.. [DLMBSFn-V416] (DLMBS Commentary V416) This verse has two stories: 
+
+    1) After the passing away of the previous Buddha (Kassapa) a monk went around for donations to build a stūpa. He came to a house, where a goldsmith was quarreling with his wife. The man scolded him and sent him away. Later he realized the wrong he committed and donated gold flowers to the stūpa. 
+
+    In the present life he was a son of a rich woman who had an illicit affair. When he was born, his mother put him away. A young woman adopted him and named him Jaṭila. When he grew up, he married a daughter of a merchant and later discovered a large amount of gold in his house (as a result of donating the golden flowers). He had children and later he became a monk. He soon attained the Arahantship. 
+
+    Later other monks asked him if he was still attached to his gold, to which he replied that he was not. The Buddha then spoke this verse, confirming Jaṭila's Arahantship. 
+
+    2) In Rājagaha there lived a rich man named Jotika. Once he presented the prince Ajātasattu with a great ruby. Ajātasattu, seeing the beauty of his palace and his wealth, vowed to take Jotika's wealth away when he became a king. 
+
+    Later Ajātasattu killed his father and became a king. He tried to break into Jotika's palace and loot it, but he was not successful. He went to ask the Buddha how that was possible, only to find Jotika sitting in the monastery and listening to the Buddha's discourse. Jotika explained that his property couldn't be taken from him against his wish. 
+
+    Later Jotika became a monk and attained the Arahantship. Other monks asked him if he still missed his mansion and he replied that he did not. The Buddha then spoke this verse, confirming Jotika's Arahantship.
+
+.. [DLMBSFn-V417] (DLMBS Commentary V417) A dancer named Nāṭa Puttaka once became a monk and attained the Arahantship. One day he and other monks saw another dancer in the streets, practicing his art. They asked Nāṭa Puttaka if he still missed dancing. He replied that he did not. The Buddha then spoke this verse, confirming Nāṭa Puttaka's Arahantship.
+
+.. [DLMBSFn-V418] (DLMBS Commentary V418) The story for this verse as identical to the story for the previous one. See DhP 417.
+
+.. [DLMBSFn-V419] (DLMBS Commentary V419) In Rājagaha there lived a Brahmin Vaṅgīsa who had a special knowledge. He would tap on the skull of a dead person and from that he could tell where that person had been reborn. 
+
+    Once he heard that the Buddha also could tell the person's next birth so he came to contest the Buddha. 
+
+    There were skulls of people reborn in hell, as animals, as human, as a god and the skull of an Arahant. Vaṅgīsa knew all of them -- except the last one. He asked the Buddha if he could teach him this skill. The Buddha told him to become a monk and that he will teach him. 
+
+    As a monk, Vaṅgīsa soon attained the Awakenment and did not need this skill any more -- and told his friends that he had reached the Arahantship. The Buddha confirmed his attainment with this verse.
+
+.. [DLMBSFn-V420] (DLMBS Commentary V420) The story for this verse as identical to the story for the previous one. See DhP 419.
+
+.. [DLMBSFn-V421] (DLMBS Commentary V421) A man named Visākha from Sāvatthi heard a discourse of the Buddha and attained the third stage of Awakenment. He asked his wife Dhammadinnā for permission to become a monk. His wife did not accept his property, but instead decided to become a nun. Soon she attained the Arahantship. 
+
+    Once the former husband and wife met and discussed the Dharma. Dhammadinnā would gladly discuss with him everything up to and including the third stage of Awakenment. But she would not talk about the full Arahantship, because, as she said, Visākha has not attained this yet. 
+
+    The Buddha then confirmed with this verse that Dhammadinnā had attained the Awakenment.
+
+.. [DLMBSFn-V422] (DLMBS Commentary V422) The Kinf Pasenadi and Queen Mallikā once gave alms to the Buddha and Community. The offering was done on a big scale. There was an elephant holding an umbrella over each monk. Because there were many monks, one untrained elephant had to be used. He held an umbrella over Venerable Aṅgulimāla. Everybody was afraid that something would happen; however nothing did. 
+
+    Later, other monks asked Aṅgulimāla if he was scared at that time. He replied that he was not, since he was an Arahant. The Buddha then confirmed Aṅgulimāla's attainment with this verse.
+
+.. [DLMBSFn-V423] (DLMBS Commentary V423) The Buddha once suffered from some illness and asked a layman named Devahita for some water. Devahita was pleased and also sent some molasses. The Buddha had taken a bath and ate the molasses and felt better. 
+
+    Devahita then came to visit the Buddha to ask an offering made to whom gives more benefit. The Buddha replied with this verse, saying that the offering made to one who has given up all evil gives the most benefit.
 
 --------------
 
