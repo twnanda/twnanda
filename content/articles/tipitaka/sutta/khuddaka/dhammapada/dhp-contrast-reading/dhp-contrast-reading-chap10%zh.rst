@@ -1517,6 +1517,7 @@
 .. [ThaniSFn-V143] (Ven. Thanissaro V.143) Some translators have proposed that the verb apabodheti, here translated as "awakens" should be changed to appam bodheti, "to think little of." This, however, goes against the sense of the verse and of a recurrent image in the Canon, that the better-bred the horse, the more sensitive it is even to the idea of the whip, to say nothing of the whip itself. See, for example, A 4.113.
 
                      The question raised in this verse is answered in SN 1.18:
+                     
                      ::
 
                       Those restrained by conscience
