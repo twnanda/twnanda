@@ -2,7 +2,7 @@ Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhamma
 ###########################################################################################
 
 :date: 2016-04-05 17:00
-:modified: 2016-09-05 17:30
+:modified: 2016-10-09 22:00
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma 
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.)
@@ -107,7 +107,7 @@ Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhamma
 
    * - `25. Bhikkhuvaggo (Dhp.360-382) <{filename}dhp-contrast-reading-en-chap25%zh.rst>`__ 
      - `26. Brāhmaṇavaggo (Dhp.383-423) <{filename}dhp-contrast-reading-en-chap26%zh.rst>`__ 
-     - Dhammapada (Dhp.001-423) 
+     - `Dhammapada-- Fulltext (Dhp.001-423) <{filename}dhp-contrast-reading-en-full%zh.rst>`__
 
    * - 25. The Monk
      - 26. The Holy Man
