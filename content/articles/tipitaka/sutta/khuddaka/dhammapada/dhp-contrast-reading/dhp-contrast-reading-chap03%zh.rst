@@ -3,7 +3,7 @@
 ==================================================================
 
 :date: 2016-05-29 18:30
-:modified: 2016-09-05 21:30
+:modified: 2016-10-08 22:30
 :tags: 法句經, 法句經對讀, 心品, Dhp, Dhammapada, Cittavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Mind
@@ -760,7 +760,7 @@
        | Chuddho apetaviññāṇo, niratthaṃva kaliṅgaraṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 四一　此身實不久，當睡於地下，被棄無意識，無用如木屑。 [LChnFn03-07]_ 、 [MettFn03-13]_ 
+     - 四一　此身實不久，當睡於地下，被棄無意識，無用如木屑。 [LChnFn03-07]_ 、 [LChnFn03-08]_ 、 [MettFn03-13]_ 
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 41 的確在不久之後，此身將躺在大地，
