@@ -2,7 +2,7 @@
 ############################################
 
 :date: 2016-02-28 17:30
-:modified: 2016-09-05 17:30
+:modified: 2016-10-09 16:30
 :tags: 法句經, 法句經對讀, Dhp, Dhammapada, Dhammapadapāḷi, 法集要頌, 法句譬喻經, 出曜經, , Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, The Path of Dhamma 
 :category: 巴利三藏小部
 :summary: 法句經多譯本對讀(段層次), Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom
@@ -115,7 +115,7 @@
 
    * - `25. Bhikkhuvaggo (Dhp.360-382) <{filename}dhp-contrast-reading-chap25%zh.rst>`_
      - `26. Brāhmaṇavaggo (Dhp.383-423) <{filename}dhp-contrast-reading-chap26%zh.rst>`_
-     - Dhammapada (Dhp.001-423) -full
+     - `Dhammapada-- fulltext (Dhp.001-423) <{filename}dhp-contrast-reading-full%zh.rst>`_
      
    * - 25. 比丘品 (The Monk)
      - 26. 婆羅門品 (The Holy Man)
