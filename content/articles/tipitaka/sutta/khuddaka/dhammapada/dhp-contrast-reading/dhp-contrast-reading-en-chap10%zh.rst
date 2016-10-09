@@ -3,7 +3,7 @@ Chapter 10. The Rod Daṇḍavaggo (Dhp.129-145), Parallel Reading (paragraph gr
 ===================================================================================================================================================
 
 :date: 2016-06-28 21:00
-:modified: 2016-09-17 22:00
+:modified: 2016-10-09 21:30
 :tags: Dhp, Dhammapada, Dhammapadapāḷi, The Rod, The Stick, Punishment, Violence, Daṇḍavaggo, Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom, The Path of Dhamma
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya
 :summary: Chapter 10. The Rod, The Stick, Punishment, Violence; Daṇḍavaggo (Dhp.129-145), Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom-- Dhammapada (Dhp.) 
@@ -1137,6 +1137,7 @@ NOTE:
 .. [ThaniSFn-V143] (Ven. Thanissaro V.143) Some translators have proposed that the verb apabodheti, here translated as "awakens" should be changed to appam bodheti, "to think little of." This, however, goes against the sense of the verse and of a recurrent image in the Canon, that the better-bred the horse, the more sensitive it is even to the idea of the whip, to say nothing of the whip itself. See, for example, A 4.113.
 
                      The question raised in this verse is answered in SN 1.18:
+
                      ::
 
                       Those restrained by conscience
