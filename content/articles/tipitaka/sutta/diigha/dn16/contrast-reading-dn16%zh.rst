@@ -7,8 +7,6 @@
 :category: 巴利三藏長部
 :summary: 大般涅槃經 (般涅槃大經) 多譯本對讀(段層次) , Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta
 
-.. created from 03.18 2015
-
 - 本對讀包含下列六個版本：
 
   - 巴利原典 (CSCD)\ [1]_ \ 
@@ -185,9 +183,10 @@
 
 .. [3] 〔註003〕　本譯文請參考：`【長部．十六．大般湼槃經】；蕭式球 <dn.16-SiuSK.html>`__ 〔原始出處請參考：\ `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__--5.1. 利文佛典選譯-- 5.1.1.長部 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359>`__\ （或\ `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__--南傳佛教 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=359>`__\ ）〕
 
-.. [4] 〔註004〕　本譯文：\ `南傳大般涅槃經；巴宙譯 (1971 AD) <dn.16-Pachow-full-rst.html>`__ \ 
+.. [4] 〔註004〕　本譯文：\ `南傳大般涅槃經；巴宙譯 (1971 AD) <dn16-pachow-full%zh.rst>`__ \
 
 .. [5] 〔註005〕　此英譯為 **Ven.Ānandajoti Bhikkhu** [\ `阿難陀樵第尊者所譯 <dn16-anandajoti-Eng.pdf>`__ \ (edited and translated by Ven. Ānandajoti Bhikkhu)；請參考：The Discourse about the Great Emancipation (A Translation of Mahāparinibbānasutta (DN 16) (June, 2008 / 2552) [感恩　尊者慈允轉載(This is copied by courtesy of Ven. Ānandajoti Bhikkhu) 原始出處請參考(original): `The Discourse about the Great Emancipation (DN 16) <http://www.dhammatalks.net/ancient_buddhist_texts/Texts-and-ranslations/Mahaparinibbanasuttam/index.htm>`__ ( `Dhamma Talks <http://www.dhammatalks.net/>`__ (((((0))))) Attaining PEACE with KNOWING & SEEING a Handful of Leaves)]
 
 .. [6] 〔註006〕　此英譯為 **Sister Vajira & Francis Story**\ 所譯(請參考：\ `Maha-parinibbana Sutta: Last Days of the Buddha <dn.16.1-6.vaji.html>`__, translated from the Pali by **Sister Vajira & Francis Story** [原始出處請參考(original): Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story © 1998) <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ (`Access to Insight <http://www.accesstoinsight.org/>`__ → DN → `Digha Nikaya/The Long Discourses <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → DN 16: Maha-parinibbana Sutta — Last Days of the Buddha → Vajira/Story → Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ © 1998)
 
+.. created from 03.18 2015; 10.27 '16 rev.: dn16-pachow-full%zh.rst
