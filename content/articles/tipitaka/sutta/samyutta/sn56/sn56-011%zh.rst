@@ -3,7 +3,7 @@
 =======================================================================
 
 :date: 2016-05-13 16:00
-:modified: 2016-05-16 14:00
+:modified: 2016-11-10 20:30
 :tags: 初轉法輪經, 法輪轉起經, 轉法輪經, 初轉法輪經, SN 56.11 Dhammacakkappavattanasuttaṃ
 :category: 巴利三藏相應部
 :summary: 初轉法輪經 (法輪轉起經, 轉法輪經), SN 56.11 Dhammacakkappavattanasuttaṃ, Dhammacakkappavattana Sutta;
@@ -17,19 +17,26 @@
 
 - `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Dhammacakkappavattanasuttaṃ
 
-  * PTS: `Dhammacakkappavattana suttaṃ <{filename}/extra/tipitaka/sutta/samyutta/sn56.11-PTS.html>`__ （original: `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ → Maha Vagga: `56 <http://www.accesstoinsight.org/tipitaka/sn/index.html#sn56>`__ → SN 56.11: S v 420; → `2. Dhammacakkappavattana suttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/SN_V_utf8.html#pts.420>`__ ）
+  * PTS: `Dhammacakkappavattana suttaṃ <{filename}sn56-011-pts%zh.rst>`__ (original: Access to Insight) [1]_
 
-  * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ ： `Dhammacakkappavattanasuttaṃ <{filename}/extra/tipitaka/sutta/samyutta/sn56.11-CSCD.html>`__ [original: The Pāḷi Tipitaka (http://www.tipitaka.org/) (請於左邊選單 “Tipiṭaka Scripts”中選 `Roman→Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Mahāvaggapāḷi → `12. Saccasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`__ 2. Dhammacakkappavattanavaggo → 1. `Dhammacakkappavattanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`__ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
+  * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ ： `Dhammacakkappavattanasuttaṃ <{filename}sn56-011-cscd%zh.rst>`__ (original: The Pāḷi Tipitaka) [2]_
 
 - 漢譯：
 
-  * `法輪轉起經；莊春江 <{filename}/extra/tipitaka/sutta/samyutta/sn56.11-ChuangCJ.html>`__ [原始出處請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__ → 56.諦相應 → 11 → 2.法輪轉起品, 相應部56相應11經/(諦相應/大篇/修多羅) → `法輪轉起經; 莊春江 <http://agama.buddhason.org/SN/SN1708.htm>`__ ]。
+  * `法輪轉起經；莊春江 <{filename}sn56-011-chuangcj%zh.rst>`__ (原始出處請參考：臺灣【莊春江工作站】) [3]_
 
-  * `轉法輪經；覓寂尊者 <{filename}/extra/tipitaka/sutta/samyutta/sn56.11-Santv.html>`__
+  * `轉法輪經；覓寂尊者 <{filename}sn56-011-santv%zh.rst>`__
 
-  * `【十一．如來所說之一】；蕭式球 <{filename}/extra/tipitaka/sutta/samyutta/sn56.11-SiuSK.html>`__ (原始出處請參考： `香港【志蓮淨苑】文化部－－佛學園圃－－ 5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ －－ 5.1.2.026；或 `志蓮淨苑文化部－－研究員工作－－研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ －－南傳佛教－－ 5.1.2.026 → 56 諦相應 → 頁 2 `相應部．五十六．諦相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395>`__ → `【十一．如來所說之一】蕭式球) <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=48:121>`__
+  * `【十一．如來所說之一】；蕭式球 <{filename}sn56-011-siusk%zh.rst>`__ (原始出處請參考：香港【志蓮淨苑】 [4]_
 
-  * `轉法輪經 <{filename}/extra/tipitaka/sutta/samyutta/sn56.11-LiangJ.html>`__ , **坦尼沙羅尊者** 英譯, 良稹中譯 (原始出處請參考： `覺醒之翼——上座部佛教文獻選譯集 <http://www.dhammatalks.org/Dhamma/DhammaIndex2.htm>`__ → 經文選譯; → `中譯經文索引 <http://www.dhammatalks.org/Dhamma/Sutta/SuttaIndex2.htm>`__ → `《轉法輪經》 <http://www.dhammatalks.org/Dhamma/Sutta/Dhammacakkappavattana2.htm>`__ （ **坦尼沙羅尊者** 英譯, 良稹中譯）
+  * `轉法輪經 <{filename}sn56-011-liangj%zh.rst>`__ , **坦尼沙羅尊者** 英譯, 良稹 中譯 (原始出處請參考：覺醒之翼——上座部佛教文獻選譯集) [5]_
+
+  * `南傳轉法輪經 <http://tripitaka.cbeta.org/B07n0010_001>`__ ；(民國)　丘哌博 譯 [6]_
+
+  * `轉法輪經 <http://tripitaka.cbeta.org/B07n0011_001>`__ ；(民國)　岫廬 譯 (CBETA) [7]_
+
+  * `十一．如來所說之一 <http://tripitaka.cbeta.org/N18n0006_056>`__ ；雲庵 譯 [8]_
+
 
 - 參考相當之古漢譯對應經典：
 
@@ -47,21 +54,21 @@
 
 - 英譯(English)：
 
-  * `Setting in Motion the Wheel of the Dhamma <{filename}/extra/tipitaka/sutta/samyutta/sn56.011.bodhi.html>`__ , translated from the Pali by **Ven. Bodhi Bhikkhu (菩提尊者)** [original: Dhammacakkapavattana Sutta, Samyutta Nikaya LVI, 11:Setting in Motion the Wheel of the Dhamma-- `Translated from the Pali by Ven. Bodhi Bhikkhu <http://www.budsas.org/ebud/ebsut001.htm>`__ ) ( `BuddhaSasana <http://www.budsas.org/index.htm>`__ English Section)
+  * `Setting in Motion the Wheel of the Dhamma <{filename}sn56-011-bodhi%zh.rst>`__ , translated from the Pali by **Ven. Bodhi Bhikkhu (菩提尊者)** (with introduction by **Ven. Narada Maha Thera** , original: BuddhaSasana) [9]_
 
-  * `The Discourse on the Setting in Motion of the Wheel (of Vision) of the Basic Pattern: the Four True Realities for the Spiritually Ennobled Ones <{filename}/extra/tipitaka/sutta/samyutta/sn56.011.harv.html>`__ , translated from the Pali by **Peter Harvey** [original: The Discourse on the Setting in Motion of the Wheel (of Vision) of the Basic Pattern: the Four True Realities for the Spiritually Ennobled Ones `Translated from the Pali by Peter Harvey <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.harv.html>`__ ( `Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ → Tipitaka: SN → `Samyutta Nikaya <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ (The Grouped Discourses) → Maha Vagga:56 → `56. Sacca-samyutta — The Four Noble Truths <http://www.accesstoinsight.org/tipitaka/sn/index.html#sn56>`__ → SN 56.11: Dhammacakkappavattana Sutta ]
+  * `The Discourse on the Setting in Motion of the Wheel (of Vision) of the Basic Pattern: the Four True Realities for the Spiritually Ennobled Ones <{filename}sn56-011-harv%zh.rst>`__ , translated from the Pali by **Peter Harvey** (original: Access to Insight:Readings in Theravada Buddhism) [10]_
 
-  * `Setting Rolling the Wheel of Truth <{filename}/extra/tipitaka/sutta/samyutta/sn56.011.nymo.html>`__ , translated from the Pali by **Ñanamoli Thera (髻智長老)** [original: Dhammacakkappavattana Sutta: Setting Rolling the Wheel of Truth `translated from the Pali by Ñanamoli Thera <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.nymo.html>`__ ( `Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ ]
+  * `Setting Rolling the Wheel of Truth <{filename}sn56-011-nymo%zh.rst>`__ , translated from the Pali by **Ñanamoli Thera (髻智長老)** (original: Access to Insight:Readings in Theravada Buddhism) [11]_
 
-  * `Setting in Motion the Wheel of Truth <{filename}/extra/tipitaka/sutta/samyutta/sn56.011.piya.html>`__ , translated from the Pali by **Piyadassi Thera (喜見長老)** [original: Dhammacakkappavattana Sutta: Setting in Motion the Wheel of Truth, `translated from the Pali by Piyadassi Thera <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.piya.html>`__ ( `Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ ]
+  * `Setting in Motion the Wheel of Truth <{filename}sn56-011-piya%zh.rst>`__ , translated from the Pali by **Piyadassi Thera (喜見長老)** (original: Access to Insight:Readings in Theravada Buddhism) [12]_
 
-  * `Setting the Wheel of Dhamma in Motion <{filename}/extra/tipitaka/sutta/samyutta/sn56.011.than.html>`__ , Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** [original: Dhammacakkappavattana Sutta: Setting the Wheel of Dhamma in Motion `Translated from the Pali by Ven. Thanissaro Bhikkhu <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html>`__ ( `Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ ]
+  * `Setting the Wheel of Dhamma in Motion <{filename}sn56-011-than%zh.rst>`__ , Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** (original: Access to Insight:Readings in Theravada Buddhism) [13]_
 
 - 日譯(和訳)：初転法輪（しょてんぽうりん）経；《ダンマチャッカパヴァタナ・スッタ》
 
 - 巴、漢、英文多譯本對讀：
 
-  * `本站 <{filename}sn56-011-contrast-reading%zh.rst>`__ －－巴利原典(CSCD)、Ven. Bhikkhu Bodhi(英譯)、莊春江　漢譯、蕭式球　漢譯、 **覓寂尊者**　漢譯、( **坦尼沙羅尊者** 英譯)良稹　漢譯、 **Ven. Thanissaro Bhikkhu** (英譯)
+  * `本站 <{filename}sn56-011-contrast-reading%zh.rst>`__ －－巴利原典(CSCD)、 **Ven. Bhikkhu Bodhi** (英譯)、莊春江　漢譯、蕭式球　漢譯、 **覓寂尊者**　漢譯、( **坦尼沙羅尊者** 英譯)良稹　漢譯、 **Ven. Thanissaro Bhikkhu** (英譯)
 
   * `轉法輪經 (PDF) <{filename}/extra/tipitaka/sutta/samyutta/sn56_011-samadhi-buddha.pdf>`__ ，「原始佛法三摩地學會」中譯 (依 **菩提比丘** 之相應部英譯本為主；附《 **菩提比丘** 英譯本》（部份）、《 **坦尼沙羅比丘** 英譯本》、《雜阿含大正藏第379經》；原始出處請參考： `三摩地學會 <http://www.samadhi-buddha.org/>`__  → `三摩地譯著文集 <http://www.tseatw.org/modules/articles/article.php?id=180>`__ - `SN56.011：轉法輪經(先覺、覺法、後覺三寶具足，法輪常轉) : 三摩地學會‧解脫園） <http://www.tseatw.org/modules/articles/article.php?id=180>`__ → `相應部經‧第56諦相應‧011經：轉法輪經 <http://www.samadhi-buddha.org/Theravada/Canon/Cht/Nikaya/sn56_011.pdf>`__ ）
 
@@ -71,9 +78,9 @@
 
 - `轉法輪經(講記) <http://www.dhammarain.org.tw/books/run/005.htm>`__ （ `另一連結 <http://dhammarain.online-dhamma.net/books/run/005.htm>`__ ）〔取自 `《轉正法輪》 <http://www.dhammarain.org.tw/books/run/run-all.htm>`__ ；（ `另一連結 <http://dhammarain.online-dhamma.net/books/run/run-all.htm>`__ ） **帕奧禪師** 開示錄〕
 
-- `轉法輪經講記 (PDF) <http://tkwen.sutta.org/Dhammacakkhappavattana%20Sutta%20Mahasi%20Sayadw.pdf>`__ （ **馬哈希尊者** 著； U Ko Lay.英譯；溫宗堃、何孟玲 中譯；社團法人台灣佛陀原始正法學會 出版；西元 二○一一年 四月）（ `溫宗堃の風培基 <https://sites.google.com/site/tkwenhomepage/>`__ ）； `HTML <http://ebooks.dila.edu.tw/books/n/WZK_03>`__ ； `下載 EPUB 電子書 <http://ebooks.dila.edu.tw/epub/WZK_03>`__ (法鼓電子書城) 
+- `轉法輪經講記 (PDF) <http://tkwen.sutta.org/Dhammacakkhappavattana%20Sutta%20Mahasi%20Sayadw.pdf>`__ （ **馬哈希尊者** 著； U Ko Lay.英譯；溫宗堃、何孟玲 中譯 [14]_
 
-- `四聖諦與修行的關係：《轉法輪經》講記 <http://www.gaya.org.tw/publisher/faya/%E5%9B%9B%E8%81%96%E8%AB%A6%E8%88%87%E4%BF%AE%E8%A1%8C%E7%9A%84%E9%97%9C%E4%BF%82%EF%BC%9B%E3%80%8A%E8%BD%89%E6%B3%95%E8%BC%AA%E7%B6%93%E3%80%8B%E8%AC%9B%E8%A8%98.pdf>`__ -- 性空法師講；釋見擎﹐釋見耑﹐釋見愷文字整理；註釋﹐--初版﹐--嘉義市；香光書鄉﹐民 92（ `香光尼僧團；香光資訊網 <http://www.gaya.org.tw/>`__ → 文化志業 → `香光書鄉 <http://www.gaya.org.tw/publisher/>`__ → `法悅叢書 <http://www.gaya.org.tw/publisher/faya/fayaindex.htm>`__ → `四聖諦與修行的關係 <http://www.gaya.org.tw/publisher/faya/fournoble_index.htm>`__ → `四聖諦與修行的關係：《轉法輪經》講記） <http://www.gaya.org.tw/publisher/faya/%E5%9B%9B%E8%81%96%E8%AB%A6%E8%88%87%E4%BF%AE%E8%A1%8C%E7%9A%84%E9%97%9C%E4%BF%82%EF%BC%9B%E3%80%8A%E8%BD%89%E6%B3%95%E8%BC%AA%E7%B6%93%E3%80%8B%E8%AC%9B%E8%A8%98.pdf>`__
+- `四聖諦與修行的關係：《轉法輪經》講記 <http://www.gaya.org.tw/publisher/faya/%E5%9B%9B%E8%81%96%E8%AB%A6%E8%88%87%E4%BF%AE%E8%A1%8C%E7%9A%84%E9%97%9C%E4%BF%82%EF%BC%9B%E3%80%8A%E8%BD%89%E6%B3%95%E8%BC%AA%E7%B6%93%E3%80%8B%E8%AC%9B%E8%A8%98.pdf>`__ -- 性空法師講；釋見擎﹐釋見耑﹐釋見愷文字整理；註釋 [15]_ 
 
 - `轉法輪經 <http://zh.wikipedia.org/wiki/%E8%BD%AC%E6%B3%95%E8%BD%AE%E7%BB%8F>`__ （ `維基百科 <http://zh.wikipedia.org/>`__ ，自由的百科全書）( `Dhammacakkappavattana Sutta <http://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta>`__ , `Wikipedia <http://en.wikipedia.org/>`__ , the free encyclopedia)
 
@@ -81,29 +88,67 @@
 
   * 泰國式 Thailand Tradition, 美國慈林寺（Metta Forest Monastery）; 出處 original: `覺醒之翼——上座部佛教文獻選譯集 <http://www.dhammatalks.org/Dhamma/DhammaIndex2.htm>`__ → 巴利課誦與錄音(I)－－ `巴利經誦錄音下載 <http://www.dhammatalks.org/Dhamma/Chanting/ChantIndex2.htm>`__ ，美國慈林寺 → `下載 MP3 <http://www.dhammatalks.org/Dhamma/Chanting/23%20Dhamma-cakkappavattana%20Sutta.mp3>`__ ) (MP3, Pāḷi 巴利語, 11,818 KB, 00:12:38)；巴英中 文字對照－－ `轉法輪經 <http://www.dhammatalks.org/Dhamma/Chanting/Verselong2.htm#dhamma-cakka>`__ ；
 
-  * `緬甸式 Myanmar Tradition, 帕奧禪師 Sayadaw Pa Auk <https://ia701206.us.archive.org/27/items/PaliParittaSuttasChantingBySayadawPaAukmyanmarTradition/CH31.ogg>`__ (.ogg, Pāḷi 巴利語, 7,260 KB, 00:14:39)；(出處original: `Pali Paritta Suttas chanting by Sayadaw Pa Auk (Myanmar tradition) : khemarama.com : Free Download & Streaming : Internet Archive <https://archive.org/details/PaliParittaSuttasChantingBySayadawPaAukmyanmarTradition>`__ → 31 CH31 14:39)
+  * `緬甸式 Myanmar Tradition, 帕奧禪師 Sayadaw Pa Auk <https://ia701206.us.archive.org/27/items/PaliParittaSuttasChantingBySayadawPaAukmyanmarTradition/CH31.ogg>`__ (.ogg, Pāḷi 巴利語, 7,260 KB, 00:14:39)；(出處 original [16]_ )
 
-  * `斯里蘭卡式 Sri Lanka Tradition, 聖法大長老（Most Venerable Na-Uyane Ariyadhamma Mahathera) <http://ftp1.puremind.org.tw/index.php?dir=files%2F04%20%ABn%B6%C7%A6%F2%B1%D0%A4J%AA%F9%A9%C0%BBw%2FOvernight%20Chanting%20%A4j%C5%40%BD%C3%B8g%A9%C0%BBw>`__ (MP3, Pāḷi 巴利語, 22,942 KB, 00:24:28)；(出處original: `淨心文教基金會 <http://www.puremind.org.tw/>`__ → 下載專區 → 檔案下載 → `首頁 <http://ftp1.puremind.org.tw/index.php>`__ ＞files＞04 南傳佛教入門念誦＞Overnight Chanting 大護衛經念誦
+  * `斯里蘭卡式 Sri Lanka Tradition, 聖法大長老（Most Venerable Na-Uyane Ariyadhamma Mahathera) <http://ftp1.puremind.org.tw/index.php?dir=files%2F04%20%ABn%B6%C7%A6%F2%B1%D0%A4J%AA%F9%A9%C0%BBw%2FOvernight%20Chanting%20%A4j%C5%40%BD%C3%B8g%A9%C0%BBw>`__ (MP3, Pāḷi 巴利語, 22,942 KB, 00:24:28)；(出處original: [17]_ ) 
 
-  * `泰國式 Thailand Tradition, Phra Bhavana Visutthikhum (Phra Thepyanmogkol) <ftp://ftp2.puremind.org.tw/01%20%ABn%B6%C7%A6%F2%B1%D0%B8%EA%AE%C6%AEw-%B5%D8%BBy%B6%7D%A5%DC%2F6%BA%BF%AAY%BCw%B4L%AA%CC%3BVen.%20Mahinda%2F%B8g%A8%E5%A9%C0%BBw%2F%B6%C7%B2%CE%A6%A1%28MP3%29%2F%AE%F5%B0%EA%A6%A1%20Thailand%20Tradition%2F%A6%40%BBw%20Group%20Chanting%2FVisutthikhum%2C%20Phra%20Bhavana%2F02%20Dhammacakkappavattana%20Sutta.mp3>`__ (MP3, Pāḷi 巴利語, 2,139 KB, 00:18:14)；(出處original: 淨心文教基金會 首頁＞files＞01 南傳佛教資料庫-華語開示＞6瑪欣德尊者＞經典念誦＞傳統式(MP3)＞泰國式 Thailand Tradition＞共誦 Group Chanting＞Visutthikhum, Phra Bhavana
+  * `泰國式 Thailand Tradition, Phra Bhavana Visutthikhum (Phra Thepyanmogkol) <ftp://ftp2.puremind.org.tw/01%20%ABn%B6%C7%A6%F2%B1%D0%B8%EA%AE%C6%AEw-%B5%D8%BBy%B6%7D%A5%DC%2F6%BA%BF%AAY%BCw%B4L%AA%CC%3BVen.%20Mahinda%2F%B8g%A8%E5%A9%C0%BBw%2F%B6%C7%B2%CE%A6%A1%28MP3%29%2F%AE%F5%B0%EA%A6%A1%20Thailand%20Tradition%2F%A6%40%BBw%20Group%20Chanting%2FVisutthikhum%2C%20Phra%20Bhavana%2F02%20Dhammacakkappavattana%20Sutta.mp3>`__ (MP3, Pāḷi 巴利語, 2,139 KB, 00:18:14)；(出處original: [18]_ ) 
 
   * `轉法輪經- YouTube <https://www.youtube.com/watch?v=UtJeaFlrHF8>`__ (僅有聲音，華語白話讀頌)
 
-------------
+--------------
 
-巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。…，…，…，
-…，…，…，這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。…，…，…，
-…，…，…，巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語…，…，…，
+- `法輪轉起經(轉法輪經, 初轉法輪經) Dhammacakkappavattanasuttaṃ <{filename}sn56-011%zh.rst>`__
 
-…，…，…，重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。
-
-（節錄自：`巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
-
-------
+- Saṃyuttanikāya 相應部 (Sa"myutta-nikaaya) 
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
+------
+
+備註：
+------
+
+.. [1] `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ → Maha Vagga: `56 <http://www.accesstoinsight.org/tipitaka/sn/index.html#sn56>`__ → SN 56.11: S v 420; → `2. Dhammacakkappavattana suttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/SN_V_utf8.html#pts.420>`__ ）
+
+.. [2] The Pāḷi Tipitaka (http://www.tipitaka.org/) (請於左邊選單 “Tipiṭaka Scripts”中選 `Roman→Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Mahāvaggapāḷi → `12. Saccasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`__ 2. Dhammacakkappavattanavaggo → 1. `Dhammacakkappavattanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`__ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
+
+.. [3] `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__ → 56.諦相應 → 11 → 2.法輪轉起品, 相應部56相應11經/(諦相應/大篇/修多羅) → `法輪轉起經; 莊春江 <http://agama.buddhason.org/SN/SN1708.htm>`__ ]。
+
+.. [4] `香港【志蓮淨苑】文化部－－佛學園圃－－ 5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ －－ 5.1.2.026；或 `志蓮淨苑文化部－－研究員工作－－研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ －－南傳佛教－－ 5.1.2.026 → 56 諦相應 → 頁 2 `相應部．五十六．諦相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395>`__ → `【十一．如來所說之一】蕭式球) <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=48:121>`__
+
+.. [5] `覺醒之翼——上座部佛教文獻選譯集 <http://www.dhammatalks.org/Dhamma/DhammaIndex2.htm>`__ → 經文選譯; → `中譯經文索引 <http://www.dhammatalks.org/Dhamma/Sutta/SuttaIndex2.htm>`__ → `《轉法輪經》 <http://www.dhammatalks.org/Dhamma/Sutta/Dhammacakkappavattana2.htm>`__ （ **坦尼沙羅尊者** 英譯, 良稹中譯）
+
+.. [6]  `CBETA <http://www.cbeta.org/>`__ ; `CBETA 電子佛典集成 <http://tripitaka.cbeta.org/>`__ » `補編 (B) <http://tripitaka.cbeta.org/B>`__  » `第 7 冊 <http://tripitaka.cbeta.org/B07>`__ » `No.0010 <http://tripitaka.cbeta.org/B07n0010>`__  » 第 1 卷；紙本來源：《大藏經補編》；藍吉富 主編 / 臺灣．台北：華宇出版社, 1985.
+
+.. [7] `CBETA <http://www.cbeta.org/>`__ ; `CBETA 電子佛典集成 <http://tripitaka.cbeta.org/>`__ » `補編 (B, 《大藏經補編》) <http://tripitaka.cbeta.org/B>`__  » `第 7 冊 <http://tripitaka.cbeta.org/B07>`__ » No.0011 » 第 1 卷；紙本來源：《大藏經補編》；藍吉富 主編 / 臺灣． 台北：華宇出版社, 1985.
+
+.. [8]  `CBETA <http://www.cbeta.org/>`__ ; `CBETA 電子佛典集成 <http://tripitaka.cbeta.org/>`__ » `南傳 (N, 《漢譯南傳大藏經》) <http://tripitaka.cbeta.org/N>`__ » `第 18 冊 <http://tripitaka.cbeta.org/N18>`__ » `No.0006 <http://tripitaka.cbeta.org/N18n0006>`__ » 第 56 卷 (N18n0006_056 相應部經典(第48卷-第56卷) 第56卷)；[P.414] 第十二　諦相應 » 第二　轉法輪品；〔一一〕第一　如來所說（一）；[0311a08] ；紙本來源：元亨寺漢譯南傳大藏經編譯委員會 / 臺灣．高雄：元亨寺妙林出版社, 1995.
+
+.. [9] Dhammacakkapavattana Sutta, Samyutta Nikaya LVI, 11:Setting in Motion the Wheel of the Dhamma-- `Translated from the Pali by Ven. Bodhi Bhikkhu <http://www.budsas.org/ebud/ebsut001.htm>`__ ( `BuddhaSasana <http://www.budsas.org/index.htm>`__ English Section)
+
+.. [10] The Discourse on the Setting in Motion of the Wheel (of Vision) of the Basic Pattern: the Four True Realities for the Spiritually Ennobled Ones `Translated from the Pali by Peter Harvey <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.harv.html>`__ ( `Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ → Tipitaka: SN → `Samyutta Nikaya <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ (The Grouped Discourses) → Maha Vagga:56 → `56. Sacca-samyutta — The Four Noble Truths <http://www.accesstoinsight.org/tipitaka/sn/index.html#sn56>`__ → SN 56.11: Dhammacakkappavattana Sutta ]
+
+.. [11] Dhammacakkappavattana Sutta: Setting Rolling the Wheel of Truth `translated from the Pali by Ñanamoli Thera <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.nymo.html>`__ ( `Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ ]
+
+.. [12] Dhammacakkappavattana Sutta: Setting in Motion the Wheel of Truth, `translated from the Pali by Piyadassi Thera <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.piya.html>`__ ( `Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ ]
+
+.. [13] Dhammacakkappavattana Sutta: Setting the Wheel of Dhamma in Motion `Translated from the Pali by Ven. Thanissaro Bhikkhu <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html>`__ ( `Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ ]
+
+.. [14] 社團法人台灣佛陀原始正法學會 出版；西元 二○一一年 四月）（ `溫宗堃の風培基 <https://sites.google.com/site/tkwenhomepage/>`__ ）； `HTML <http://ebooks.dila.edu.tw/books/n/WZK_03>`__ ； `下載 EPUB 電子書 <http://ebooks.dila.edu.tw/epub/WZK_03>`__ (法鼓電子書城) 
+
+.. [15] 初版﹐--嘉義市；香光書鄉﹐民 92（ `香光尼僧團；香光資訊網 <http://www.gaya.org.tw/>`__ → 文化志業 → `香光書鄉 <http://www.gaya.org.tw/publisher/>`__ → `法悅叢書 <http://www.gaya.org.tw/publisher/faya/fayaindex.htm>`__ → `四聖諦與修行的關係 <http://www.gaya.org.tw/publisher/faya/fournoble_index.htm>`__ → `四聖諦與修行的關係：《轉法輪經》講記） <http://www.gaya.org.tw/publisher/faya/%E5%9B%9B%E8%81%96%E8%AB%A6%E8%88%87%E4%BF%AE%E8%A1%8C%E7%9A%84%E9%97%9C%E4%BF%82%EF%BC%9B%E3%80%8A%E8%BD%89%E6%B3%95%E8%BC%AA%E7%B6%93%E3%80%8B%E8%AC%9B%E8%A8%98.pdf>`__
+
+.. [16] `Pali Paritta Suttas chanting by Sayadaw Pa Auk (Myanmar tradition) : khemarama.com : Free Download & Streaming : Internet Archive <https://archive.org/details/PaliParittaSuttasChantingBySayadawPaAukmyanmarTradition>`__ → 31 CH31 14:39)
+
+.. [17] `淨心文教基金會 <http://www.puremind.org.tw/>`__ → 下載專區 → 檔案下載 → `首頁 <http://ftp1.puremind.org.tw/index.php>`__ ＞files＞04 南傳佛教入門念誦＞Overnight Chanting 大護衛經念誦
+
+.. [18] 淨心文教基金會 首頁＞files＞01 南傳佛教資料庫-華語開示＞6瑪欣德尊者＞經典念誦＞傳統式(MP3)＞泰國式 Thailand Tradition＞共誦 Group Chanting＞Visutthikhum, Phra Bhavana
+
 ..
+  11.05 del:節錄自： 巴利系佛教史綱　第六章　聖典　二　摘錄(已轉至 template)
+        add: sn56-011-santv%zh.rst
+  2016.05.13 add .rst 05.16 rev.
   溫宗堃の風培基 old: http://tkwen.theravada-chinese.org/
   2.18 add: 節錄自：巴利系佛教史綱　第六章　聖典　二　摘錄）
       rev. old: body bgcolor=seagreen  text=white link=gold vlink=purple alink=red

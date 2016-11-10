@@ -3,20 +3,10 @@
 ============================================================================================
 
 :date: 2015-02-13 08:30
-:modified: 2016-05-13 16:00
+:modified: 2016-11-10 18:30
 :tags: 初轉法輪經, 法輪轉起經, 轉法輪經, 初轉法輪經多譯本對讀(段層次), SN 56.11 Dhammacakkappavattanasuttaṃ
 :category: 巴利三藏相應部
 :summary: 初轉法輪經 (法輪轉起經, 轉法輪經), 多譯本對讀(段層次); Parallel Reading (paragraph granularity) of Dhammacakkappavattana Sutta; SN 56.11 Dhammacakkappavattanasuttaṃ
-
-
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。** …，…，…，
-    …，…，…， **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。** …，…，…，
-
-    …，…，…， **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語** …，…，…，
-
-    …，…，…， **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
-
-（節錄自： `巴利系佛教史綱　第六章　聖典　二　摘錄 <{filename}/articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__ ）
 
 --------------
 
@@ -89,7 +79,7 @@
 
        “比丘們，如來不落入這兩邊，覺悟一條中道，這條中道使人生出眼、生出智，帶來寧靜、無比智、正覺、湼槃。
 
-   * - 漢譯(**覓寂尊者** 譯, 臺灣) 
+   * - 漢譯(**覓寂尊者** 譯, 臺灣) [8]_ 
      - | 56. 諦相應
        | 2. 法輪轉起品 
 
@@ -162,7 +152,7 @@
    * - 漢譯(**蕭式球** 譯, 香港志蓮淨苑)\ [4]_
      - “比丘們，如來所覺悟的中道是什麼呢？這就是八正道──正見、正思維、正語、正業、正命、正精進、正念、正定。比丘們，這就是如來所覺悟的中道，這條中道可使人生出眼、生出智，可帶來寧靜、無比智、正覺、湼槃。
 
-   * - 漢譯(**覓寂尊者** 譯, 臺灣) 
+   * - 漢譯(**覓寂尊者** 譯, 臺灣) [8]_ 
      - 諸比丘，那如來所現自覺的中道，而生起眼、智，寂止、通智、自覺、涅槃的（中道）是什麼呢？那就是八支聖道，即正見、正思惟、正語、正業、正命、正精進、正念、正定。諸比丘，這就是如來所現自覺的中道，而生起眼、智，寂止、通智、自覺、涅槃的（中道）。
 
    * - 漢譯(\ **坦尼沙羅尊者**\ 英譯, \ **良稹**\ 中譯)\ [5]_
@@ -213,7 +203,7 @@
 
        “比丘們，這是苦滅之道聖諦：八正道──正見、正思維、正語、正業、正命、正精進、正念、正定。
 
-   * - 漢譯(**覓寂尊者** 譯, 臺灣) 
+   * - 漢譯(**覓寂尊者** 譯, 臺灣) [8]_ 
      - 諸比丘，這苦聖諦，即是：生是苦、老是苦、病是苦、死是苦、怨憎會是苦、愛別離是苦、求不得也是苦，簡略地說：五取蘊是苦。
        
        諸比丘，這苦集聖諦，即是：凡諸愛是（未來投生的）後有（生命的愛），伴隨喜與貪的（愛），四處歡喜的（愛），也就是欲愛、有愛及無有愛。
@@ -276,7 +266,7 @@
    * - 漢譯(**蕭式球** 譯, 香港志蓮淨苑)\ [4]_
      - “比丘們，這是苦聖諦，我之前從沒聽過這種法義，我在這種法義之中，眼生出來了，智生出來了，慧生出來了，明生出來了，光生出來了；比丘們，應去遍知苦，我之前從沒聽過這種法義，我在這種法義之中，眼生出來了，智生出來了，慧生出來了，明生出來了，光生出來了；比丘們，要徹底遍知苦，我之前從沒聽過這種法義，我在這種法義之中，眼生出來了，智生出來了，慧生出來了，明生出來了，光生出來了。
 
-   * - 漢譯(**覓寂尊者** 譯, 臺灣) 
+   * - 漢譯(**覓寂尊者** 譯, 臺灣) [8]_ 
      - 諸比丘，我對「這是苦聖諦」─前所未聞之法，生起眼、生起智、生起慧，生起明，生起光明。
        
        諸比丘，我對「這苦聖諦應當遍知」─前所未聞之法，生起眼、生起智、生起慧，生起明，生起光明。
@@ -321,7 +311,7 @@
    * - 漢譯(**蕭式球** 譯, 香港志蓮淨苑)\ [4]_
      - “比丘們，這是苦集聖諦……應去斷除苦集……要徹底斷除苦集……
 
-   * - 漢譯(**覓寂尊者** 譯, 臺灣) 
+   * - 漢譯(**覓寂尊者** 譯, 臺灣) [8]_ 
      - 諸比丘，我對「這是苦集聖諦」─前所未聞之法，生起眼、生起智、生起慧，生起明，生起光明。
        
        諸比丘，我對「這苦集聖諦應當永斷」─前所未聞之法，生起眼、生起智、生起慧，生起明，生起光明。
@@ -362,7 +352,7 @@
    * - 漢譯(**蕭式球** 譯, 香港志蓮淨苑)\ [4]_
      - “比丘們，這是苦滅聖諦……應去證得苦滅……要徹底證得苦滅……
 
-   * - 漢譯(**覓寂尊者** 譯, 臺灣) 
+   * - 漢譯(**覓寂尊者** 譯, 臺灣) [8]_ 
      - 諸比丘，我對「這是苦滅聖諦」─前所未聞之法，生起眼、生起智、生起慧，生起明，生起光明。
        
        諸比丘，我對「這苦滅聖諦應當證知」─前所未聞之法，生起眼、生起智、生起慧，生起明，生起光明。
@@ -403,7 +393,7 @@
    * - 漢譯(**蕭式球** 譯, 香港志蓮淨苑)\ [4]_
      - “比丘們，這是苦滅之道聖諦，我之前從沒聽過這種法義，我在這種法義之中，眼生出來了，智生出來了，慧生出來了，明生出來了，光生出來了；比丘們，應去修習苦滅之道，我之前從沒聽過這種法義，我在這種法義之中，眼生出來了，智生出來了，慧生出來了，明生出來了，光生出來了；比丘們，要徹底完成苦滅之道，我之前從沒聽過這種法義，我在這種法義之中，眼生出來了，智生出來了，慧生出來了，明生出來了，光生出來了。
 
-   * - 漢譯(**覓寂尊者** 譯, 臺灣) 
+   * - 漢譯(**覓寂尊者** 譯, 臺灣) [8]_ 
      - 諸比丘，我對「這是導至苦滅的道聖諦」─前所未聞之法，生起眼、生起智、生起慧，生起明，生起光明。
        
        諸比丘，我對「這導至苦滅的道聖諦應當修習」─前所未聞之法，生起眼、生起智、生起慧，生起明，生起光明。
@@ -440,7 +430,7 @@
    * - 漢譯(**蕭式球** 譯, 香港志蓮淨苑)\ [4]_
      - “比丘們，如果我對四聖諦沒有如實知見，不能清淨地三轉十二行\ [SFn01]_ \的話，便不會在這個有天神、魔羅、梵天、沙門、婆羅門、國王、眾人的世間宣稱我是無上等正覺。
 
-   * - 漢譯(**覓寂尊者** 譯, 臺灣) 
+   * - 漢譯(**覓寂尊者** 譯, 臺灣) [8]_ 
      - 諸比丘，當我對這三轉十二行相四聖諦的如實知見還沒有善清淨時，我就不向含有天、魔、梵的世間，有諸沙門、婆羅門、天與人的人界宣稱：「我已經現自覺無上正自菩提。」               
 
    * - 漢譯(\ **坦尼沙羅尊者**\ 英譯, \ **良稹**\ 中譯)\ [5]_
@@ -454,7 +444,7 @@
        "And, monks, as long as this knowledge & vision of mine — with its three rounds & twelve permutations concerning these four noble truths as they actually are present — was not pure, I did not claim to have directly awakened to the right self-awakening unexcelled in the cosmos with its devas, Maras, & Brahmas, with its contemplatives & priests, its royalty & commonfolk.   
 
    * - 英譯(Translated from the Pali by **Ven. Bhikkhu Bodhi**.)\ [7]_
-     - "So long, bhikkhus, as my knowledge and vision of these four noble truths as they really are in their three phases and twelve aspects was not thoroughly purified in this way\ [BFn01]_ \, I did not claim to have awakened to the unsurpassed perfect enlightenment in this world with its devas, Mara, and Brahma, in this generation with its recluses and brahmins, its devas and humans.         
+     - "So long, bhikkhus, as my knowledge and vision of these four noble truths as they really are in their three phases and twelve aspects was not thoroughly purified in this way [BFn01]_ , I did not claim to have awakened to the unsurpassed perfect enlightenment in this world with its devas, Mara, and Brahma, in this generation with its recluses and brahmins, its devas and humans.         
 
 .. list-table:: sn56.011 Dhammacakkappavattanasuttaṃ CSCD paranum 1081-9
    :widths: 15 75
@@ -480,7 +470,7 @@
        
        世尊說了以上的話後，五比丘對世尊的說話心感高興，滿懷歡喜。
 
-   * - 漢譯(**覓寂尊者** 譯, 臺灣) 
+   * - 漢譯(**覓寂尊者** 譯, 臺灣) [8]_ 
      - 然而，諸比丘，當我對這三轉十二行相四聖諦的如實知見已經善清淨時，我才向含有天、魔、梵的世間，有諸沙門、婆羅門、天與人的人界宣稱：「我已經現自覺無上正自菩提。」
        
        我生起了智見：「我得了不可動搖的（心）解脫，這是我的最後一生，現在已經沒有再有（未來的投生）。」
@@ -526,7 +516,7 @@
    * - 漢譯(**蕭式球** 譯, 香港志蓮淨苑)\ [4]_
      - 憍陳如尊者在這段解說之中去除塵垢，生起法眼，明白到： “所有集起法，都是滅盡法。”
 
-   * - 漢譯(**覓寂尊者** 譯, 臺灣) 
+   * - 漢譯(**覓寂尊者** 譯, 臺灣) [8]_ 
      - 在這說（法）之時，憍陳如（的心中）遠塵離垢，生起法眼：「凡生起的法，一切乃是滅法。」               
 
    * - 漢譯(\ **坦尼沙羅尊者**\ 英譯, \ **良稹**\ 中譯)\ [5]_
@@ -577,7 +567,7 @@
 
        三十三天……夜摩天……兜率天……化樂天……他化自在天……梵身天聽見他化自在天的說話後，隨即呼喚： “世尊在波羅奈的仙人住處鹿野苑轉無上法輪了！世上任何沙門、婆羅門、天神、魔羅、梵天都不能逆轉這個法輪。”
 
-   * - 漢譯(**覓寂尊者** 譯, 臺灣) 
+   * - 漢譯(**覓寂尊者** 譯, 臺灣) [8]_ 
      - 當世尊轉法輪時，地（居）天高聲唱說：「世尊在波羅奈仙人降處鹿（野）苑轉無上法輪，是沙門、婆羅門、天、魔、梵或任何世間所不能逆轉的。」
        
        當四大王天聽到地（居）天的聲音時，高聲唱說：「世尊在波羅奈仙人降處鹿（野）苑轉無上法輪，是沙門、婆羅門、天、魔、梵或任何世間所不能逆轉的。」
@@ -623,7 +613,7 @@
    * - 漢譯(**蕭式球** 譯, 香港志蓮淨苑)\ [4]_
      - 在短短的時刻，聲音傳遍整個梵世間。十千世界發生各種震動；世間出現無量光芒，勝於眾天神的光芒。
 
-   * - 漢譯(**覓寂尊者** 譯, 臺灣) 
+   * - 漢譯(**覓寂尊者** 譯, 臺灣) [8]_ 
      - 於那剎那、瞬間、須臾，聲音傳至梵天界。一萬個世間界動、搖動、震動，世間現起超越諸天威力之無量、廣大光明。               
 
    * - 漢譯(\ **坦尼沙羅尊者**\ 英譯, \ **良稹**\ 中譯)\ [5]_
@@ -662,7 +652,7 @@
        
        之後，憍陳如尊者得了一個稱號，為阿若憍陳如。
 
-   * - 漢譯(**覓寂尊者** 譯, 臺灣) 
+   * - 漢譯(**覓寂尊者** 譯, 臺灣) [8]_ 
      - 當時，世尊自說這話：「憍陳如確實已經了知了，憍陳如確實已經了知了。」所以憍陳如被稱為「已解之憍陳如（aññāsikoṇḍañña）」。               
 
    * - 漢譯(\ **坦尼沙羅尊者**\ 英譯, \ **良稹**\ 中譯)\ [5]_
@@ -673,17 +663,6 @@
 
    * - 英譯(Translated from the Pali by **Ven. Bhikkhu Bodhi**.)\ [7]_
      - Then the Blessed One uttered this inspired utterance: "Kondanna has indeed understood! Kondanna has indeed understood!" In this way the Venerable Kondanna acquired the name "Anna Kondanna-Kondanna Who Has Understood."         
-
-----------------------------
-
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**\ …，…，…，
-    …，…，…，\ **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。**\ …，…，…，
-
-    …，…，…，\ **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語**\ …，…，…，
-
-    …，…，…，\ **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
-
-（節錄自：\ `巴利系佛教史綱　第六章　聖典　二　摘錄 </articles/lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__\ ）
 
 --------------
 
@@ -696,20 +675,23 @@
 --------------
 
 備註：
+------
 
-.. [1] 〔註001〕　\ `巴利原典 (PTS) Dhammacakkappavattana suttaṃ <sn56.11-PTS.html>`__ （original: 原始出處請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ → Maha Vagga: `56 <http://www.accesstoinsight.org/tipitaka/sn/index.html#sn56>`__ → SN 56.11: S v 420 (PTS Page 421); → `2. Dhammacakkappavattana suttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/SN_V_utf8.html#pts.420>`__ ）
+.. [1] 〔註001〕　`巴利原典 (PTS) Dhammacakkappavattana suttaṃ <{filename}sn56-011-pts%zh.rst>`__ （original: 原始出處請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ → Maha Vagga: `56 <http://www.accesstoinsight.org/tipitaka/sn/index.html#sn56>`__ → SN 56.11: S v 420 (PTS Page 421); → `2. Dhammacakkappavattana suttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/SN_V_utf8.html#pts.420>`__ ）
 
-.. [2] 〔註002〕　巴利原典 (CSCD) 乃參考 `【國際內觀中心】(Vipassana) <http://www.dhamma.org/>`__ \ Meditation(As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD (\ `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版請參考：\ `Dhammacakkappavattanasuttaṃ <sn56.11-CSCD.html>`__ \[original: 原始出處請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單 “Tipiṭaka Scripts” 中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Mahāvaggapāḷi → `12. Saccasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`__ 2. Dhammacakkappavattanavaggo → 1. `Dhammacakkappavattanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`__ )。]
+.. [2] 〔註002〕　`巴利原典 (CSCD) Dhammacakkappavattana suttaṃ <{filename}sn56-011-cscd%zh.rst>`__ ；乃參考 `【國際內觀中心】(Vipassana) <http://www.dhamma.org/>`__ \ Meditation(As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD (\ `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版請參考：\ `Dhammacakkappavattanasuttaṃ <sn56.11-CSCD.html>`__ \[original: 原始出處請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單 “Tipiṭaka Scripts” 中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Mahāvaggapāḷi → `12. Saccasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`__ 2. Dhammacakkappavattanavaggo → 1. `Dhammacakkappavattanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`__ )。]
 
-.. [3] 〔註003〕　本譯文請參考：\ `法輪轉起經；莊春江 <sn56.11-ChuangCJ.html>`__ [原始出處請參考：\ `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → \ `漢譯相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__ → 56.諦相應 → 11 → 2.法輪轉起品, 相應部56相應11經/(諦相應/大篇/修多羅) → \ `法輪轉起經; 莊春江 <http://agama.buddhason.org/SN/SN1708.htm>`__ ]。
+.. [3] 〔註003〕　本譯文請參考：\ `法輪轉起經；莊春江 <{filename}sn56-011-chuangcj%zh.rst>`__ [原始出處請參考：\ `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → \ `漢譯相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__ → 56.諦相應 → 11 → 2.法輪轉起品, 相應部56相應11經/(諦相應/大篇/修多羅) → \ `法輪轉起經; 莊春江 <http://agama.buddhason.org/SN/SN1708.htm>`__ ]。
 
-.. [4] 〔註004〕　本譯文請參考：\ `【十一．如來所說之一】；蕭式球 <sn56.11-SiuSK.html>`__ (原始出處請參考：\ `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ --5.1.2.026；或\ `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ --南傳佛教-- 5.1.2.026 → 56 諦相應 → 頁 2 `相應部．五十六．諦相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395>`__ → `【十一．如來所說之一】蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=48:121>`__ )
+.. [4] 〔註004〕　本譯文請參考：\ `【十一．如來所說之一】；蕭式球 <{filename}sn56-011-siusk%zh.rst>`__ (原始出處請參考：\ `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ --5.1.2.026；或\ `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ --南傳佛教-- 5.1.2.026 → 56 諦相應 → 頁 2 `相應部．五十六．諦相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395>`__ → `【十一．如來所說之一】蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=48:121>`__ )
 
-.. [5] 〔註005〕　本譯文請參考：\ `轉法輪經, 坦尼沙羅尊者英譯, 良稹中譯 <sn56.11-LiangJ.html>`__ (原始出處請參考：\ `覺醒之翼——上座部佛教文獻選譯集 <http://www.dhammatalks.org/Dhamma/DhammaIndex2.htm>`__ → 經文選譯; → `中譯經文索引 <http://www.dhammatalks.org/Dhamma/Sutta/SuttaIndex2.htm>`__ → `《轉法輪經》（坦尼沙羅尊者英譯, 良稹中譯） <http://www.dhammatalks.org/Dhamma/Sutta/Dhammacakkappavattana2.htm>`__
+.. [5] 〔註005〕　本譯文請參考：\ `轉法輪經, 坦尼沙羅尊者英譯, 良稹中譯 <{filename}sn56-011-liangj%zh.rst>`__ (原始出處請參考：\ `覺醒之翼——上座部佛教文獻選譯集 <http://www.dhammatalks.org/Dhamma/DhammaIndex2.htm>`__ → 經文選譯; → `中譯經文索引 <http://www.dhammatalks.org/Dhamma/Sutta/SuttaIndex2.htm>`__ → `《轉法輪經》（坦尼沙羅尊者英譯, 良稹中譯） <http://www.dhammatalks.org/Dhamma/Sutta/Dhammacakkappavattana2.htm>`__
 
-.. [6] 〔註006〕　英譯為 **Ven. Thanissaro Bhikkhu**\ 所譯；請參考：\ `Setting the Wheel of Dhamma in Motion <sn56.011.than.html>`__, Translated from the Pali by **Ven. Thanissaro Bhikkhu** (**坦尼沙羅尊者**) [原始出處請參考(original): Dhammacakkappavattana Sutta: Setting the Wheel of Dhamma in Motion `Translated from the Pali by Ven. Thanissaro Bhikkhu <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html>`__ (`Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__) ]
+.. [6] 〔註006〕　英譯為 **Ven. Thanissaro Bhikkhu** 所譯；請參考： `Setting the Wheel of Dhamma in Motion <{filename}sn56-011-than%zh.rst>`__ , Translated from the Pali by **Ven. Thanissaro Bhikkhu** (**坦尼沙羅尊者**) [原始出處請參考(original): Dhammacakkappavattana Sutta: Setting the Wheel of Dhamma in Motion `Translated from the Pali by Ven. Thanissaro Bhikkhu <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html>`__ (`Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__) ]
 
-.. [7] 〔註007〕　英譯為 **Ven. Bodhi Bhikkhu** 所譯(Translated by Ven. Bodhi Bhikkhu)；請參考：\ `Setting in Motion the Wheel of the Dhamma <sn56.011.bodhi.html>`__ , translated from the Pali by **Ven. Bodhi Bhikkhu** (**菩提尊者**) [原始出處請參考(original): Dhammacakkapavattana Sutta, Samyutta Nikaya LVI, 11:Setting in Motion the Wheel of the Dhamma: `Translated from the Pali by Ven. Bodhi Bhikkhu) <http://www.budsas.org/ebud/ebsut001.htm>`__ ( `BuddhaSasana <http://www.budsas.org/index.htm>`__ English Section)
+.. [7] 〔註007〕　英譯為 **Ven. Bodhi Bhikkhu** 所譯(Translated by Ven. Bodhi Bhikkhu)；請參考： `Setting in Motion the Wheel of the Dhamma <{filename}sn56-011-bodhi%zh.rst>`__ , translated from the Pali by **Ven. Bodhi Bhikkhu** (**菩提尊者**) [原始出處請參考(original): Dhammacakkapavattana Sutta, Samyutta Nikaya LVI, 11:Setting in Motion the Wheel of the Dhamma: `Translated from the Pali by Ven. Bodhi Bhikkhu) <http://www.budsas.org/ebud/ebsut001.htm>`__ ( `BuddhaSasana <http://www.budsas.org/index.htm>`__ English Section)
+
+.. [8] 〔註008〕　本譯文請參考： `轉法輪經　覓寂 尊者 譯  <{filename}sn56-011-santv%zh.rst>`__ 。
 
 .. [CFn001] 〔莊　註001〕　「一時」，南傳作「有一次」(ekaṃ samayaṃ，直譯為「一時」)，菩提比丘長老英譯為「有一次」(On one occasion)。
 
@@ -782,14 +764,13 @@
 
 .. [BFn01]  (Ven. Bodhi. 01) The three phases (tiparivaa) are:
 
-            (i) the knowledge of each truth (sacca-nana), e.g., "This is the noble truth of suffering";
+   - i.) the knowledge of each truth (sacca-nana), e.g., "This is the noble truth of suffering";
 
-            (ii) the knowledge of the task to be accomplished regarding each truth (kicca-nana), e.g., "This noble truth of suffering is to be fully understood"; and
+   - ii.) the knowledge of the task to be accomplished regarding each truth (kicca-nana), e.g., "This noble truth of suffering is to be fully understood"; and
 
-            (iii) the knowledge of accomplishment regarding each truth (kata-nana), e.g., "This noble truth of suffering has been fully understood."
+   - iii.) the knowledge of accomplishment regarding each truth (kata-nana), e.g., "This noble truth of suffering has been fully understood."
 
-            The twelve modes (dvadasakara) are obtained by applying the three phases to the four truths.
-
+   The twelve modes (dvadasakara) are obtained by applying the three phases to the four truths.
 
 .. [TFn01]  (Ven. Thanissaro. 01) The Pali phrases for the four noble truths are grammatical anomalies. From these anomalies, some scholars have argued that the expression "noble truth" is a later addition to the texts. Others have argued even further that the content of the four truths is also a later addition. Both of these arguments are based on the unproven assumption that the language the Buddha spoke was grammatically regular, and that any irregularities were later corruptions of the language. This assumption forgets that the languages of the Buddha's time were oral dialects, and that the nature of such dialects is to contain many grammatical irregularities. Languages tend to become regular only when being used to govern a large nation state or to produce a large body of literature: events that happened in India only after the Buddha's time. (A European example: Italian was a group of irregular oral dialects until Dante fashioned it into a regular language for the sake of his poetry.) Thus the irregularity of the Pali here is no proof either for the earliness or lateness of this particular teaching.
 
@@ -799,6 +780,9 @@
 
 
 ..
+  2016.11.07 rev. correct local link (e.g. sn56-011-chuangcj%zh.rst) to rst
+             del:節錄自： 巴利系佛教史綱　第六章　聖典　二　摘錄(已轉至 template)
+  ----------------
   02.18 add: 節錄自：巴利系佛教史綱　第六章　聖典　二　摘錄）
       rev. old: body bgcolor=seagreen  text=white link=gold vlink=purple alink=red
   02.14 add: 巴、漢、英文多譯本對讀：本站; S. 56:11 Dhammacakkappavattanasuttam 《轉法輪經》─漢巴對讀分析、文法分析、法義加油站
