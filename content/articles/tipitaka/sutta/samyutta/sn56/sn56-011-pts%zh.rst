@@ -57,8 +57,6 @@ Itiha tena khaṇena tena muhuttena yāva brahmalokā saddo abbhuggañchi. Ayañ
 
 ------
 
-..  image:: ../../../../extra/img/cc-public-domain-88-31.jpg
-
 The text of this page ("SN V_utf8", by Public domain) is free of known copyright restrictions. Documents linked from this page may be subject to other restrictions. From the Sri Lanka Tripitaka Project, courtesy of the Journal of Buddhist Ethics.	Last revised for Access to Insight on 30 November 2013.
 
 **How to cite this document** (a suggested style): "SN V_utf8", edited by Access to Insight. Access to Insight (Legacy Edition), 30 November 2013, http://www.accesstoinsight.org/tipitaka/sltp/SN_V_utf8.html .
@@ -76,6 +74,8 @@ The text of this page ("SN V_utf8", by Public domain) is free of known copyright
 ..
   2016-11-07 add: .rst
   - `Tipiṭaka <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+  ..  image:: ../../../../extra/img/cc-public-domain-88-31.jpg
+  WARNING: Empty alt attribute for image cc-public-domain-88-31.jpg in /cygdrive/d/github/twnanda/content/articles/tipitaka/sutta/samyutta/sn56/sn56-011-pts%zh.rst
   -------
   02.06 add: ATI original; 
         rev. modi: <h2>Namo tassa ... old:<h1>
