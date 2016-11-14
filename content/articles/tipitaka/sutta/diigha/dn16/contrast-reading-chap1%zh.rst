@@ -2,13 +2,10 @@
 #######################################
 
 :date: 2015-04-21 16:30
-:modified: 2016-05-13 15:00
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn16.contrast-reading-chap1.rst
+:modified: 2016-11-14 21:30
 :tags: 大般涅槃經對讀, 般涅槃大經對讀, DN16 Mahāparinibbānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, DN 16, Dn16, Dn 16
 :category: 巴利三藏長部
 :summary: 大般涅槃經 (般涅槃大經) 多譯本對讀(段層次) 第一頌（第一章）, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, Chapter 1
-
-.. created from 03.18
 
 .. list-table:: 《大般涅槃經》多譯本對讀(分章及整部) Content of Mahāparinibbānasuttaṃ
    :widths: 14 14 14 14 14 14 16 
@@ -40,37 +37,38 @@
 
 ---------------------------
 
-- 本頌細目
+本頌（第一章：在摩揭陀國 In Māgadha）細目
+-------------------------------------------
 
-  - 第 一 章：在摩揭陀國， `阿闍世王`_ ; In Māgadha; King Ajātasattu
+- `阿闍世王`_ ; King Ajātasattu
 
-  - `作雨者婆羅門`_ (Vassakārabrāhmaṇo)
+- `作雨者婆羅門`_ (Vassakārabrāhmaṇo)
 
-  - `國王-不衰退法`_ (Rājaaparihāniyadhammā); Seven Things which Prevent Decline in the Vajjians; Conditions of a Nation's Welfare
+- `國王-不衰退法`_ (Rājaaparihāniyadhammā); Seven Things which Prevent Decline in the Vajjians; Conditions of a Nation's Welfare
 
-  - `比丘-不衰退法`_ (Bhikkhuaparihāniyadhammā); Seven Things which Prevent Decline in the Community; Welfare of the Bhikkhus
+- `比丘-不衰退法`_ (Bhikkhuaparihāniyadhammā); Seven Things which Prevent Decline in the Community; Welfare of the Bhikkhus
 
-    - `Seven Further Things which Prevent Decline in the Community`_ 僧團中另一種七不衰退法
+  * `Seven Further Things which Prevent Decline in the Community`_ 僧團中另一種七不衰退法
 
-    - `[5: Seven Further Things which Prevent Decline in the Community`_ 僧團中另外的七不衰退法; Seven Good Qualities
+  * `[5: Seven Further Things which Prevent Decline in the Community`_ 僧團中另外的七不衰退法; Seven Good Qualities
 
-    - `Seven Factors of Enlightenment`_ 僧團中另外的七不衰退法（七覺支）; Seven Further Things which Prevent Decline in the Community
+  * `Seven Factors of Enlightenment`_ 僧團中另外的七不衰退法（七覺支）; Seven Further Things which Prevent Decline in the Community
 
-    - `Seven Perceptions`_ 僧團中另外的七不衰退法（七想）
+  * `Seven Perceptions`_ 僧團中另外的七不衰退法（七想）
 
-    - `[8: Six Things which Prevent Decline in the Community`_ 僧團中六不衰退法; Six Conditions to be Remembered
+  * `[8: Six Things which Prevent Decline in the Community`_ 僧團中六不衰退法; Six Conditions to be Remembered
 
-    - `Counsel to the Bhikkhus`_ ; 對比丘們常做之法說
+  * `Counsel to the Bhikkhus`_ ; 對比丘們常做之法說
 
-    - `[9: The Story of the Teaching at Ambalaṭṭhikā]`_ ; 芒果樹苖圃之法說
+  * `[9: The Story of the Teaching at Ambalaṭṭhikā]`_ ; 芒果樹苖圃之法說
 
-  - `舍利弗的獅子吼`_ (Sāriputtasīhanādo); Sāriputta's Lion's Roar
+- `舍利弗的獅子吼`_ (Sāriputtasīhanādo); Sāriputta's Lion's Roar
 
-  - `破戒(壞品德)的過患`_ (Dussīlaādīnavā) 
+- `破戒(壞品德)的過患`_ (Dussīlaādīnavā) 
 
-  - `持戒(有品德)的效益`_ (Sīlavanttaānisaṃsā); The Advantages of Virtue
+- `持戒(有品德)的效益`_ (Sīlavanttaānisaṃsā); The Advantages of Virtue
 
-  - `華氏城的建築`_ (Pāṭaliputtanagaramāpanaṃ); Building up Pāṭaligāma
+- `華氏城的建築`_ (Pāṭaliputtanagaramāpanaṃ); Building up Pāṭaligāma
 
 ----
 
@@ -1992,18 +1990,19 @@
 --------------
 
 備註：
+^^^^^^^
 
-.. [1] 〔註001〕　\ `巴利原典 <dn.16-CSCD.html>`__ \ 乃參考\ `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`_\ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD (`Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版請參考：\ `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ [original: 原始出處請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單“Tipiṭaka Scripts”中選 `Roman→Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Dīghanikāya → Mahāvaggapāḷi → `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ )。]
+.. [1] 〔註001〕　 `巴利原典 <{filename}dn16-cscd%zh.rst>`__  乃參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`_ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD (`Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版請參考： `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ [original: 原始出處請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單“Tipiṭaka Scripts”中選 `Roman→Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Dīghanikāya → Mahāvaggapāḷi → `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ )。]
 
-.. [2] 〔註002〕　本譯文請參考：`般涅槃大經；莊春江 <dn.16-ChuangCJ.html>`__ [原始出處請參考：`臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ → 13 → `長部16經/般涅槃大經(大品[第二]); 莊春江 <http://agama.buddhason.org/DN/DN16.htm>`__ 03/08/2015 15:48:37 更新]。
+.. [2] 〔註002〕　本譯文請參考：`般涅槃大經；莊春江 <{filename}dn16-chuangcj%zh.rst>`__ [原始出處請參考：`臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ → 13 → `長部16經/般涅槃大經(大品[第二]); 莊春江 <http://agama.buddhason.org/DN/DN16.htm>`__ 03/08/2015 15:48:37 更新]。
 
-.. [3] 〔註003〕　本譯文請參考：`【長部．十六．大般湼槃經】；蕭式球 <dn.16-SiuSK.html>`__ 〔原始出處請參考：\ `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__--5.1. 利文佛典選譯-- 5.1.1.長部 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359>`__\ （或\ `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__--南傳佛教 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=359>`__\ ）〕
+.. [3] 〔註003〕　本譯文請參考：`【長部．十六．大般湼槃經】；蕭式球 <{filename}dn16-siusk%zh.rst>`__ 〔原始出處請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__--5.1. 利文佛典選譯-- 5.1.1.長部 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359>`__ （或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__--南傳佛教 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=359>`__ ）〕
 
-.. [4] 〔註004〕　本譯文：\ `南傳大般涅槃經；巴宙譯 (1971 AD) <dn.16-Pachow-full-rst.html>`__ \ 
+.. [4] 〔註004〕　本譯文： `南傳大般涅槃經；巴宙譯 (1971 AD) <{filename}dn16-pachow-full%zh.rst>`__ 
 
-.. [5] 〔註005〕　此英譯為 **Ven.Ānandajoti Bhikkhu** [\ `阿難陀樵第尊者所譯 <dn16-anandajoti-Eng.pdf>`__ \ (edited and translated by Ven. Ānandajoti Bhikkhu)；請參考：The Discourse about the Great Emancipation (A Translation of Mahāparinibbānasutta (DN 16) (June, 2008 / 2552) [感恩　尊者慈允轉載(This is copied by courtesy of Ven. Ānandajoti Bhikkhu) 原始出處請參考(original): `The Discourse about the Great Emancipation (DN 16) <http://www.dhammatalks.net/ancient_buddhist_texts/Texts-and-ranslations/Mahaparinibbanasuttam/index.htm>`__ ( `Dhamma Talks <http://www.dhammatalks.net/>`__ (((((0))))) Attaining PEACE with KNOWING & SEEING a Handful of Leaves)]
+.. [5] 〔註005〕　請參考： `The Discourse about the Great Emancipation <{filename}/extra/tipitaka/sutta/digha/aanandajoti/index-TheDiscourse_about_theGreatEmancipation.html>`__ ;  `PDF <{filename}/extra/tipitaka/sutta/digha/aanandajoti/dn16-anandajoti-Eng.pdf>`__ ；A Translation of Mahāparinibbānasutta (DN 16) (June, 2008 / 2552), edited and translated by Ven. Ānandajoti Bhikkhu [感恩　阿難陀樵第尊者慈允轉載(This is copied by courtesy of Ven. Ānandajoti Bhikkhu)]；原始出處請參考(original: The Discourse about the Great Emancipation (DN 16)-- `English (英文) <http://www.ancient-buddhist-texts.net/English-Texts/Great-Emancipation/index.htm>`__ ; `Texts and Translations (巴英對照) <http://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/index.htm>`__ ] ( `Ancient Buddhist Texts <http://www.ancient-buddhist-texts.net/>`__  →  `Texts and Translations <http://www.ancient-buddhist-texts.net/Texts-and-Translations/TT-index.htm>`__ → `Ancient Buddhist Texts <http://www.ancient-buddhist-texts.net/index.htm>`__ )
 
-.. [6] 〔註006〕　此英譯為 **Sister Vajira & Francis Story**\ 所譯(請參考：\ `Maha-parinibbana Sutta: Last Days of the Buddha <dn.16.1-6.vaji.html>`__, translated from the Pali by **Sister Vajira & Francis Story** [原始出處請參考(original): Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story © 1998) <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ (`Access to Insight <http://www.accesstoinsight.org/>`__ → DN → `Digha Nikaya/The Long Discourses <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → DN 16: Maha-parinibbana Sutta — Last Days of the Buddha → Vajira/Story → Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ © 1998)
+.. [6] 〔註006〕　此英譯為 **Sister Vajira & Francis Story**\ 所譯(請參考： `Maha-parinibbana Sutta: Last Days of the Buddha <{filename}dn16-vaji%zh.rst>`__, translated from the Pali by **Sister Vajira & Francis Story** [原始出處請參考(original): Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story © 1998) <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ (`Access to Insight <http://www.accesstoinsight.org/>`__ → DN → `Digha Nikaya/The Long Discourses <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → DN 16: Maha-parinibbana Sutta — Last Days of the Buddha → Vajira/Story → Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ © 1998)
 
 .. [CFn001] 〔莊　註001〕　「如是我聞(SA/DA)；我聞如是(MA)；聞如是(AA)」，南傳作「我聽到這樣」(Evaṃ me sutaṃ，直譯為「這樣被我聽聞」，忽略文法則為「如是-我-聞」)，菩提比丘長老英譯為「我聽到這樣」(Thus have I heard)。 「如是我聞……歡喜奉行。」的經文格式，依印順法師的考定，這樣的格式，應該是在《增一阿含》或《增支部》成立的時代才形成的(參看《原始佛教聖典之集成》p.9)，南傳《相應部》多數經只簡略地指出發生地點，應該是比較早期的風貌。
 
@@ -2303,3 +2302,15 @@
 
 .. [VFn16] (Vajira-Francis 016) *Puta-bhedanam*. Comy. explains as the breaking open, the unpacking, of boxes (*puta*) of merchandise for the purpose of distribution. But probably it refers to the bursting open of the seed-box of the *patali* flower.
 
+.. 
+  11.14 rev. footnote 1~6; 本頌細目; add: ver. memo
+        del: :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn16.contrast-reading-chap1.rst
+  06.01 remove (巴利系佛教史綱　第六章　聖典　二　摘錄) to template-- (theme/templates/layout/co… 
+  05.18 delete link of pdf for itself and add {filename} for some files
+  05.13 add thanks to Db. Siong-Ui's js and correct &/ add linking of 巴利系佛教史綱… 
+  05.12 correct linking of 巴利系佛教史綱　第六章　聖典　二　摘錄
+  05.01 change oldurl
+  2016-03-31 舊文移植：長部16經 第一頌 - 大般涅槃經 多譯本對讀
+  ------
+  05.31 10:00 add: 對讀版本選項
+  2015-03-18 created from rst ~ 04-21 16:30 finished 
