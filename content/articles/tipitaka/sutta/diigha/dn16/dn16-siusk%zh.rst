@@ -2,7 +2,7 @@
 =======================================================
 
 :date: 2015-02-21
-:modified: 2015-02-22
+:modified: 2016-11-14
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16-SiuSK.html
 :author: 蕭式球
 :tags: 巴利三藏長部, 大般湼槃經
@@ -1477,3 +1477,36 @@
 
 .. _大般湼槃經: http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359
 .. _蕭式球: https://www.google.com/search?q=%E8%95%AD%E5%BC%8F%E7%90%83
+
+------
+
+- `大般涅槃經/長部16經/般涅槃大經 Mahāparinibbānasuttaṃ <{filename}dn16%zh.rst>`__
+
+- 大般涅槃經 Mahāparinibbānasuttaṃ `多譯本對讀(段層次) <{filename}contrast-reading-dn16%zh.rst>`__
+
+- `經文選讀 <{filename}/articles/uncategorized/canon-selected%zh.rst>`__ 
+
+- `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+..
+  2016-11-11 add ver. memo & upper dir at the bottom; 11-14 upload
+  ------
+  05.01 change oldurl-- oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Digha/Tipitaka/Sutta/Digha/dn16-siusk%zh.rst with http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/Tipitaka/Sutta/Digha/dn16-siusk%zh.rst
+  03.27 add on github
+  03-22 create in .rst with pandoc (dn.16-SiuSK-pandoc-org.rst)
+  2015-02-21 created in html
+  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359
+  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=63:126
+  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=126:162
+  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=162:214
+  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=214:275
+  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=275:342
+  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=342:397
+  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=397:436
+  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=436:520
+  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=520:637
+  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=637:721
+  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=721:781
+  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=781:875
+  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=875:955
+  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=955:0
