@@ -1,0 +1,635 @@
+/* 1. basic page set-up */
+
+body {
+width:80%;
+max-width:720px;
+margin-top:1em;
+margin-left:auto;
+margin-bottom:2em;
+margin-right:auto;
+background-color:#FFF8F0;
+background-image:url(../images/siena.png);
+}
+
+p, li {color:darkblue;}
+
+p::after
+{
+content:" ";
+} 
+
+.Heading1 {text-align:center; color:darkblue; font-size:175%; font-weight:bold; }
+.Heading2 {text-align:center; color:darkblue; font-size:150%; font-weight:bold; }
+.Heading3 {text-align:center; color:darkblue; font-size:135%; font-weight:bold; }
+.Heading4 {margin-left:3em; color:darkblue; font-size:100%; font-weight:bold; letter-spacing:0.1em; }
+.Heading5 {text-align:center; color:darkblue; font-style:italic; font-size:100%; font-weight:bold; }
+.Heading6 {color:darkblue; font-size:100%; font-weight:bold; }
+.Heading7 {margin-left:3em; color:darkblue; font-size:100%; font-weight:bold; }
+
+.GTranslate {
+padding-top:15px;
+width:220px;
+position:absolute;
+right:0;
+top:0;
+}
+
+.issuuembed span {
+display:none;
+}
+
+#audio-player {
+width:360px; 
+margin-left:auto;
+margin-right:auto;
+padding-right:55px;
+visibility: hidden;
+}
+
+.saveas {
+position:relative; 
+top:-30px; 
+right:-240px;
+}
+
+#GSearch {
+width:360px;
+max-width:360px;
+margin:auto;
+padding-left:30px;
+display:none;
+margin-bottom:-20px;
+/*position: relative;
+top:-40px;
+right:-420px; 
+}
+
+#___gcse_0 {
+position: absolute;
+top:15px;
+left:60px; 
+max-width:360px; */
+}
+
+.Notice {
+display:block; 
+text-align:center;
+}
+
+.shareaholic-ui {margin-left:5px !important;}
+
+.diacritics-notice {
+text-align:left; 
+padding-left:30px;
+margin-bottom:-15px;
+font-weight:normal;
+font-style:italic;
+font-size:small;
+}
+
+ul {line-height:150%;}
+li {line-height:150%;}
+/* ol li {color:#7F9861;}
+li p {color:darkblue;} */
+
+em {color:darkred; font-style:italic; letter-spacing:1.25px;}
+cite {color:purple;}
+ins {color:red; text-decoration:none;} 
+strike {color:gray; text-decoration:none;} 
+u {color:green;}
+sup {vertical-align:text-top; font-size:75%; font-weight:normal; }
+
+.black, div.black p {color:black;}
+
+.vannana  {
+color:green;
+margin-left:2em;
+}
+div.vannana p  {
+color:green;
+}
+.vannana b {
+color:purple;
+}
+
+.peyyala, .peyyala b, div.peyyala p, div.peyyala b {color:#4D4D4D;}
+
+.metre {margin-left:2em; color:darkred; font-size:85%; line-height:100%; letter-spacing:1.25px;}
+
+.inline {text-indent:0em; margin-left:15em; margin-right:3em; padding:6px;  border:2px solid blue; font-size:95%; color:black;}
+
+.repetition, .repetition b, div.repetition p, div.repetition b {color:#4D4D4D;}
+.recitor {font-style:italic;}
+.prose {text-indent:3em;}
+.English-Title {color:darkred;}
+.number {color:#7F9861; font-weight:normal; font-size:small;}
+.indent3 {margin-left:2em; margin-right:2em;}
+.indent6 {margin-left:4em; margin-right:4em;}
+.indent9 {margin-left:6em; margin-right:6em;}
+.indent12 {margin-left:8em; margin-right:8em;}
+.center div {text-align:center; margin-left:auto; margin-right:auto;}
+div.center p {text-align:center; margin-left:auto; margin-right:auto;}
+.center {text-align:center; margin-left:auto; margin-right:auto;}
+.justify {text-align:justify;}
+.right {text-align:right;}
+.left {text-align:left;}
+.italic {font-style:italic;}
+.bold {font-weight:bold;}
+.normal {font-weight:normal; font-style:normal;}
+.text {color:darkblue; font-weight:bold;}
+.big {font-size:125%;}
+.translation {color:darkred;}
+.analysis {color:darkblue; font-weight:normal;}
+.blue {color:blue;}
+.highlight {color:red; padding:2px 4px; background-color:yellow;}
+.highlightimage {color:darkred; }
+.spacer {margin-left:3em; margin-right:3em;}
+.grey {color:lightgrey; text-align:center;}
+
+/* class tables*/
+
+.table {display: table; border:2px lightgray solid;}
+.row {display: table-row; border:2px lightgray solid; }
+.cell {display: table-cell; border:2px lightgray solid; padding:0px 10px;}
+.cell1 {display: table-cell; border:2px lightgray solid; padding:0px 10px;  }
+.cell2 {display: table-cell; border:2px lightgray solid; padding:0px 10px; }
+.cell3 {display: table-cell; border:2px lightgray solid; padding:0px 10px;  }
+.cell4 {display: table-cell; border:2px lightgray solid; padding:0px 10px;}
+.cell5 {display: table-cell; border:2px lightgray solid; padding:0px 10px; }
+.cell6 {display: table-cell; border:2px lightgray solid; padding:0px 10px;  }
+.cell7 {display: table-cell; border:2px lightgray solid; padding:0px 10px; }
+.cell8 {display: table-cell; border:2px lightgray solid; padding:0px 10px;}
+.cell9 {display: table-cell; border:2px lightgray solid; padding:0px 10px; }
+.cell10 {display: table-cell; border:2px lightgray solid; padding:0px 10px; }
+.cell11 {display: table-cell; border:2px lightgray solid; padding:0px 10px; }
+.cell12 {display: table-cell; border:2px lightgray solid; padding:0px 10px; }
+
+.table2.cell1 {width:50%;} 
+.table2.cell2 {width:50%;} 
+
+.table3.cell1 {width:33%;} 
+.table3.cell2 {width:33%;} 
+.table3.cell3 {width:33%;} 
+
+.table4.cell1 {width:25%;} 
+.table4.cell2 {width:25%;} 
+.table4.cell3 {width:25%;} 
+.table4.cell4 {width:25%;} 
+
+.LeftCol {
+position: relative;
+width: 49%;
+float: left;
+text-align:right;
+margin-bottom:1em;
+padding-right:1%;
+}
+
+.RightCol {
+position: relative;
+width: 49%;
+float: right;
+text-align:left;
+margin-bottom:1em;
+padding-left:1%;
+}
+
+.Windows-Form {letter-spacing:0.1em; font-weight:bold; color:#700000;}
+
+.ITM-Form {letter-spacing:0.1em;  font-weight:bold; color:#700000;}
+
+/* 2. definition for the hyperlinks
+- note the order:link, visited, hover, active - 
+this is important for the links to work properly -
+do not make declarations on one line, 
+as they are not interpreted by some browsers correctly! */
+
+/* 
+a[href$="pdf"]:after {
+content: url(../images/PDF.png); 
+} 
+*/
+
+
+a:link {
+color:blue;
+text-decoration:none;
+}
+
+a:visited {
+color:purple;
+text-decoration:none;
+}
+
+a:hover {
+color:red;
+text-decoration:none;
+}
+
+a:active {
+color:red;
+text-decoration:none;
+}
+
+/* hyperlink references */
+
+/* .reference {
+vertical-align:10%;
+}
+*/
+
+a.reference:link {
+color:blue;
+text-decoration:none;
+font-style:normal;
+font-weight:normal;
+}
+
+a.reference:visited {
+color:purple;
+text-decoration:none;
+font-style:normal;
+font-weight:normal;
+} 
+
+a.reference:hover {
+color:red;
+text-decoration:none;
+font-style:normal;
+font-weight:normal;
+}
+
+a.reference:active {
+color:purple;
+text-decoration:none;
+font-style:normal;
+font-weight:normal;
+}
+
+/*Navigation Bars*/
+
+.NavBar1 {
+font-weight:bold;
+font-size:100%;
+text-align:center;
+list-style:none;
+margin-bottom:-0.5em;
+}
+
+.NavBar1 a:link {
+color:#7F9861;
+text-decoration:none;
+font-size:100%; 
+}
+
+.NavBar1 a:visited {
+color:#7F9861;
+text-decoration:none;
+font-size:100%; 
+}
+
+.NavBar1 a:hover {
+color:red;
+text-decoration:none;
+font-size:100%; 
+}
+
+.NavBar1 a:active {
+color:red; 
+text-decoration:none;
+font-size:100%; 
+}
+
+/*2nd bar*/
+
+.NavBar2 {
+font-weight:bold;
+font-size:100%;
+text-align:center;
+list-style:none;
+margin-top:20px;
+}
+
+.NavBar2 a:link {
+color:#7F9861;
+text-decoration:none;
+font-size:100%; 
+}
+
+.NavBar2 a:visited {
+color:#7F9861;
+text-decoration:none;
+font-size:100%; 
+}
+
+.NavBar2 a:hover {
+color:red;
+text-decoration:none;
+font-size:100%; 
+}
+
+.NavBar2 a:active {
+color:red; 
+text-decoration:none;
+font-size:100%; 
+}
+
+/*3rd bar*/
+
+.NavBar3 {
+font-weight:bold;
+font-size:100%;
+text-align:center;
+list-style:none;
+margin-top:25px;
+/* border-bottom:groove 2px lightgreen; */
+}
+
+.NavBar3 a:link {
+color:#1272B1;
+text-decoration:none;
+font-size:100%; 
+}
+
+.NavBar3 a:visited {
+color:#1272B1;
+text-decoration:none;
+font-size:100%; 
+}
+
+.NavBar3 a:hover {
+color:red;
+text-decoration:none;
+font-size:100%; 
+}
+
+.NavBar3 a:active {
+color:red; 
+text-decoration:none;
+font-size:100%; 
+}
+
+
+/* Sidebar for the indexes */
+
+.SideBar {
+font-family:'Book Antiqua', 'Times New Roman', Serif;
+font-size:normal;
+font-weight:normal;
+text-align:center;
+
+overflow:auto;
+height:100%;
+margin-top:-25px;
+padding-top:25px;
+width:15%;
+position:fixed;
+left:0;
+top:20;
+bottom:20;
+/* border-right:0.25em solid darkblue; */
+}
+
+/* Style for the Tooltips */
+
+span.TT {
+position:relative; /*this is the key*/
+}
+
+span.TT span {
+z-index:25; 
+display:none;
+position: absolute; 
+left:-224;
+top:25px;
+color:darkblue; 
+padding:6px;
+width:22.5em;
+background-image:url(../images/White.jpg);
+text-align:left;
+border:2px solid blue;
+
+/* taking out unwanted formatting: */
+
+font-variant:normal;
+font-weight:normal;
+font-style:normal;
+font-size:11pt;
+margin-left:0em;
+text-indent:0em;
+text-shadow: none;
+letter-spacing:0em;
+line-height:100%;
+}
+
+span.TT span:after {
+content:" click the number to stick the note, click again to unstick it "; 
+color:gray; 
+font-style:normal; 
+font-size:small; 
+display: block; 
+text-align:center; 
+white-space:nowrap;
+}
+
+span.TT sup {
+color:blue;
+background-color:#FFF;
+}
+
+span.TT sup:hover {
+cursor:pointer;
+}
+
+span.TT cite {
+font-size:1em;
+}
+
+@media screen and (min-width: 0px) {
+span.TT span.TT {
+float: right; 
+right: -7em;
+top:20px;
+margin-bottom: 20px; 
+width: 0;
+   }
+}
+
+div.shr-bookmarks-classic { width: 100%; overflow: hidden; }
+div.shr-bookmarks-classic ul { list-style: none; position: relative; float: left; display: block; left: 50%; }
+div.shr-bookmarks-classic ul li { position: relative; float: left; display: block; right: 50%; }
+
+
+#HCB_comment_box blockquote
+{
+text-align:left;
+margin-left10px; 
+padding-left10px; 
+font-weight:normal;
+color:darkblue;
+}
+
+.dsq-comment-text
+{
+text-align:left;
+margin-left10px; 
+padding-left10px; 
+font-weight:normal;
+color:darkblue;
+}
+
+#HCB_comment_box textarea {
+  width:480px; height:180px;
+}
+
+/* layout grids */
+
+.pure-u {
+    display: inline-block;
+    zoom: 1; *display: inline;
+    vertical-align: top;
+    text-rendering: auto;
+}
+
+.pure-u-1,.pure-u-1-2,.pure-u-1-3,.pure-u-2-3,.pure-u-1-4,.pure-u-3-4 {
+    display: inline-block;
+    zoom: 1; *display: inline; 
+    vertical-align: top;
+    text-rendering: auto;
+}
+
+.pure-u-1 {
+    display:block;
+}
+
+.pure-u-1-2 {width: 50%;}
+
+.pure-offset-1-2 {margin-left: 50%;}
+    
+.pure-u-1-3 {width: 33.33333%;}
+
+.pure-offset-1-3 {margin-left: 33.33333%;}
+    
+.pure-u-2-3 {width: 66.66667%;}
+
+.pure-offset-2-3 {margin-left: 66.66667%;}
+    
+.pure-u-1-4 {width: 25%; margin:0;}
+
+.pure-offset-1-4 {margin-left: 25%;}
+    
+.pure-u-3-4 {width: 75%;}
+
+.pure-offset-3-4 {margin-left: 74%;}
+
+.pure-u-2-4 {width: 50%;}
+
+.pure-offset-2-4 {margin-left: 24%;}
+    
+
+.pure-g-r {letter-spacing: -0.99em; 
+*letter-spacing: -0.99em; 
+word-spacing: -0.99em;
+}
+
+.pure-u-1-2,
+.pure-u-1-3,
+.pure-u-2-3,
+.pure-u-1-4,
+.pure-u-3-4,
+.pure-u-1-5,
+.pure-u-2-5,
+.pure-u-3-5,
+.pure-u-4-5,
+.pure-u-1-6,
+.pure-u-5-6,
+.pure-u-1-8,
+.pure-u-3-8,
+.pure-u-5-8,
+.pure-u-7-8,
+.pure-u-1-12,
+.pure-u-5-12,
+.pure-u-7-12,
+.pure-u-11-12,
+.pure-u-1-24,
+.pure-u-5-24,
+.pure-u-7-24,
+.pure-u-11-24,
+.pure-u-13-24,
+.pure-u-17-24,
+.pure-u-19-24,
+.pure-u-23-24 {
+    display: inline-block;
+    *display: inline; /* IE < 8: fake inline-block */
+    zoom: 1;
+    letter-spacing: normal;
+    word-spacing: normal;
+    vertical-align: top;
+    text-rendering: auto;
+}
+
+.opera-only :-o-prefocus,
+.pure-g-r {word-spacing: -0.99em;}
+
+
+.pure-g-r img {max-width: 100%;}
+
+@media (max-width:480px) {
+            .pure-g-r > [class ^= "pure-u"] {
+                width:100%;
+            }
+        }
+    
+@media (max-width:767px) {
+
+            .pure-g-r > [class ^= "pure-u"] {
+                width:100%;
+            } 
+        }
+    
+@media (min-width:768px) and (max-width:1059px) {
+            .pure-g-r > [class ^= "pure-u"] {
+                width:50%; /* hack */
+        }
+}
+
+/* Table of Contents */
+
+@media (max-width:900px) {
+#toc {display:none;}
+} 
+.toc {
+display:none;
+width: 240px;
+position: fixed;
+font-size:small;
+padding: 0px 10px;
+text-indent: -20px ;
+right:20px;
+top:40px;
+color: #999;
+}
+.toc-p a {
+padding:3px;
+color: #999;
+}
+.toc b {
+font-weight: normal;
+color: #999;
+}
+.toc ul {
+list-style-type: none;
+}
+.toc span, .toc sup {
+display:none;
+}
+.toc-active a {
+background-color:lightgray;
+}
+.toc-active a, .toc-active b {
+  color: #666;
+}
+#toc-wrapper {
+width: 100%
+float:left;
+}

@@ -1,0 +1,66 @@
+/* style sheet developed 2011 */
+
+@font-face {
+    font-family: ITM_TMS_UNI;
+    src: local(ITM_TMS_UNI), url('http://www.ancient-buddhist-texts.net/download/itmsu-r.ttf') format('opentype');
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: ITM_TMS_UNI;
+    src: local(ITM_TMS_UNI), url('http://www.ancient-buddhist-texts.net/download/itmsu-b.ttf') format('opentype');
+    font-weight:bold;
+}
+
+@font-face {
+    font-family: ITM_TMS_UNI;
+    src: local(ITM_TMS_UNI), url('http://www.ancient-buddhist-texts.net/download/itmsu-i.ttf') format('opentype');
+    font-weight:normal;
+    font-style:italic;
+}
+
+@font-face {
+    font-family: ITM_TMS_UNI;
+    src: local(ITM_TMS_UNI), url('http://www.ancient-buddhist-texts.net/download/itmsu-bi.ttf') format('opentype');
+    font-weight:bold;
+    font-style:italic;
+}
+
+
+body {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;}
+
+table {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;}
+
+p sup {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;}
+
+.Heading1 {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;
+}
+.Heading2 {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;
+}
+.Heading3 {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;
+}
+.Heading4 {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;
+}
+.Heading5 {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;
+}
+.Heading6 {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;
+}
+.Heading7 {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;
+}
+
+.Windows {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;}
+.Windows-Form {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;}
+.ITM-Form {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;}
+.small-caps {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;}
+
+a:link {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;
+}
+a:visited {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;
+}
+a:hover {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;
+}
+a:active {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;
+}
+
+.TT {font-family: ITM_TMS_UNI, ITM_TFY_UNI, ITM_Verajja, "Gandhari Unicode", "Times Ext Roman","Times New Roman", "Times", "Indic Times", "Arial Unicode MS", Tahoma, Gentium, serif;
+font-variant:normal;}

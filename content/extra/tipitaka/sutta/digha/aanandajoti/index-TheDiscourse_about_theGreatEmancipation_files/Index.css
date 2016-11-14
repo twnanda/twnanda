@@ -1,0 +1,10 @@
+@import url(Main.css);
+
+p {font-weight:bold;}
+a {font-weight:bold;}
+
+ol {color:darkred; font-weight:bold;}
+ul {color:darkred; font-weight:bold;}
+li {color:darkred; font-weight:bold;}
+
+.ola {color:#4B3B1F; font-weight:bold; font-style:italic; text-align:center; background-image:url(../images/Ola.jpg);}

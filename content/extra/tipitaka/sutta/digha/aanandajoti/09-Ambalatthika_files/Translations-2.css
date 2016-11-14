@@ -1,0 +1,18 @@
+@import url(Main.css);
+
+p {color:darkred; font-weight:normal;}
+b {color:darkblue; font-weight:bold;}
+
+.Heading1 {color:darkred; font-weight:normal; }
+.Heading2 {color:darkred; font-weight:normal; }
+.Heading3 {color:darkred; font-weight:normal; }
+.Heading4 {color:darkred; font-weight:normal; }
+.Heading5 {color:darkred; font-weight:normal; }
+.Heading6 {color:darkred; font-weight:normal; text-align:left; }
+.Heading7 {color:darkred; font-weight:normal; text-align:center; font-size:135%; margin-left:0em; }
+
+.verse3 {text-indent:2em; margin-left:2em;}
+.verse6 {text-indent:2em; margin-left:4em;}
+.metre {color:darkred; font-size:85%; font-weight:normal; text-indent:2em;}
+
+
