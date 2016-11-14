@@ -3,7 +3,7 @@
 -----------------------------------------------------
 
 :date: 2004-08-24
-:modified: 2016-11-02 17:30
+:modified: 2016-11-14 20:30
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16.html
 :tags: 巴利三藏長部, 大般涅槃經, 般涅槃大經, D16 Mahāparinibbānasuttaṃ
 :category: 巴利三藏長部
@@ -13,9 +13,9 @@
 
 - `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāparinibbānasuttaṃ
 
-  * PTS: mahāparinibbānasuttaṃ (original: 原始出處) [1]_
+  * PTS: `mahāparinibbānasuttaṃ <{filename}dn16-pts%zh.rst>`__ (original: 原始出處) [1]_
 
-  * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__： Mahāparinibbānasuttaṃ (original: 原始出處) [2]_
+  * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__： `Mahāparinibbānasuttaṃ <{filename}dn16-cscd%zh.rst>`__ (original: 原始出處) [2]_
 
 - 漢譯：
 
@@ -29,12 +29,11 @@
 
   * 《長部》．十六　《大般涅槃經》；寧樂 [7]_
 
-  * `遍涅槃大經 <{filename}/extra/tipitaka/sutta/digha/dn16-TW-Liau.html>`__ ；臺灣 廖文燦 譯(AB 佛曆　2549年; 2005 AD) (`PDF <{filename}/extra/tipitaka/sutta/digha/dn16-TW-Liau.pdf>`__，ms. `.doc <{filename}/extra/tipitaka/sutta/digha/dn16-TW-Liau.doc>`__ )
+  * `遍涅槃大經 <{filename}/extra/tipitaka/sutta/digha/dn16-TW-Liau.html>`__ ；臺灣．廖文燦 譯(AB 佛曆　2549年; 2005 AD) (`PDF <{filename}/extra/tipitaka/sutta/digha/dn16-TW-Liau.pdf>`__，ms. `.doc <{filename}/extra/tipitaka/sutta/digha/dn16-TW-Liau.doc>`__ )
 
+  * `大槃涅槃經第十六 <http://tripitaka.cbeta.org/B06n0003_002>`__ (CBETA)；江鍊百譯；　沙門芝峯校證 [8]_
 
-  * `大槃涅槃經第十六 <http://tripitaka.cbeta.org/B06n0003_002>`__ ；江鍊百譯；　沙門芝峯校證 (original: 原始出處) [8]_
-
-  * `一六　大般涅槃經 <http://tripitaka.cbeta.org/T01n0007>`__ （元亨寺版；N07n0004_016 長部經典(第15卷-第23卷) 第16卷） (original: 原始出處) [9]_
+  * `一六　大般涅槃經 <http://tripitaka.cbeta.org/N07n0004_016>`__ (CBETA)；通妙譯，臺灣．元亨寺版；N07n0004_016 長部經典(第15卷-第23卷) 第16卷） [9]_
 
   * 漢譯巴利三藏·經藏·長部；著者：段晴　等 [10]_
 
@@ -56,34 +55,42 @@
 
 - 英譯(English)：
 
-  * `Last Days of the Buddha <{filename}/extra/tipitaka/sutta/digha/dn.16.1-6.vaji.html>`__ (complete text), translated from the Pali by Sister Vajira & Francis Story ( `PDF <{filename}/extra/tipitaka/sutta/digha/dn.16.vaji.pdf>`__ ) (original: [17]_ )
+  * `Last Days of the Buddha <{filename}dn16-vaji%zh.rst>`__ (complete text), translated from the Pali by Sister Vajira & Francis Story ( `PDF <{filename}/extra/tipitaka/sutta/digha/dn.16.vaji.pdf>`__ ) (original: [17]_ )
 
-  * `The Great Discourse on the Total Unbinding <{filename}/extra/tipitaka/sutta/digha/dn.16.5-6.than.html>`__ (excerpt), DN 16 PTS: D ii 137 chapters 5-6, Translated from the Pali by **Ven. Thanissaro Bhikkhu** ( **坦尼沙羅尊者** ) (original: [18]_ )
+  * `The Great Discourse on the Total Unbinding <{filename}dn16-than%zh.rst>`__ (excerpt), DN 16 PTS: D ii 137 chapters 5-6, Translated from the Pali by **Ven. Thanissaro Bhikkhu** ( **坦尼沙羅尊者** ) (original: [18]_ )
 
-  * Discourse on the Great Event of the Passing away of the Buddha, Translation by Myanmar Authors, SOURCE: "TEN SUTTAS FROM DIGHA NIKAYA", BURMA PITAKA ASSOCIATION, 1984: `part 1 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-I.html>`__ , `part 2 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-II.html>`__ , `part 3 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-III.html>`__ , `part 4 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-IV.html>`__ (original:[19]_ )
+  * `The Discourse about the Great Emancipation <{filename}/extra/tipitaka/sutta/digha/aanandajoti/index-TheDiscourse_about_theGreatEmancipation.html>`__ ;  `PDF <{filename}/extra/tipitaka/sutta/digha/aanandajoti/dn16-anandajoti-Eng.pdf>`__ (A Translation of Mahāparinibbānasutta (DN 16); June, 2008 / 2552, edited and translated by **Ven.Ānandajoti Bhikkhu** , original: [19]_ ) 
+
+  * Discourse on the Great Event of the Passing away of the Buddha, Translation by Myanmar Authors, SOURCE: "TEN SUTTAS FROM DIGHA NIKAYA", BURMA PITAKA ASSOCIATION, 1984: `part 1 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-I.html>`__ , `part 2 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-II.html>`__ , `part 3 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-III.html>`__ , `part 4 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-IV.html>`__ (original:[20]_ )
 
 - 日譯(和訳)：大般涅槃経（マハーパリニッバーナ・スッタンタ）；中村元 『ブッダ最後の旅 - 大パリニッバーナ経』 岩波文庫
 
 - 巴、漢、英文多譯本對讀：
 
-  * `巴、漢、英對讀 <{filename}contrast-reading-dn16%zh.rst>`__ **(本站)** ：巴利原典(CSCD)、莊春江 漢譯、蕭式球 漢譯、巴宙 漢譯、 Ven. Ānandajoti Bhikkhu(英譯)、Sister Vajira & Francis Story(英譯)對讀
+  * `巴、漢、英對讀 <{filename}contrast-reading-dn16%zh.rst>`__ **(本站)** ：巴利原典(CSCD)、莊春江 漢譯、蕭式球 漢譯、巴宙 漢譯、 **Ven. Ānandajoti Bhikkhu** (英譯)、Sister Vajira & Francis Story(英譯)對讀
 
-  * Pāḷi-English 巴、英對讀：`The Discourse about the Great Emancipation (DN 16) <http://www.dhammatalks.net/ancient_buddhist_texts/Texts-and-Translations/Mahaparinibbanasuttam/index.htm>`__ , edited and translated by Ven. Ānandajoti Bhikkhu (first published, July 2008)
+  * Pāḷi-English 巴、英對讀：The Discourse about the Great Emancipation (DN 16)-- `Texts and Translations <http://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/index.htm>`__ , edited and translated by **Ven. Ānandajoti Bhikkhu** (first published, July 2008) (original: [19]_ ) 
 
 -------------------
 
-- `南傳大般涅槃經述略 <{filename}/extra/tipitaka/sutta/digha/Mahaprinbb-intro.html>`__ －－ 陳士強 (法音, 1998, 11期; 總171期, Pp. 18) (取材自： [20]_ )
+- `南傳大般涅槃經述略 <{filename}/extra/tipitaka/sutta/digha/Mahaprinbb-intro.html>`__ －－ 陳士強 (法音, 1998, 11期; 總171期, Pp. 18) (取材自： [21]_ )
   
 
-- `南北傳涅槃經之比較 <http://www.fgsihb.org/article-info.asp?id=1568>`__ ，恆清法師 ( [21]_ )
+- `南北傳涅槃經之比較 <http://www.fgsihb.org/article-info.asp?id=1568>`__ ，恆清法師 ( [22]_ )
 
-- `高山杉〈新譯巴利《長部》雜談〉與徐文堪〈「喬答摩」沒有必要「規範」為「果德瑪」〉 <http://yifertw.blogspot.tw/2012/11/blog-post_19.html>`__ ( [22]_ )
+- `高山杉〈新譯巴利《長部》雜談〉與徐文堪〈「喬答摩」沒有必要「規範」為「果德瑪」〉 <http://yifertw.blogspot.tw/2012/11/blog-post_19.html>`__ ( [23]_ )
+
+- 佛陀最後之教誡，印順法師： `一 <http://yinshun-edu.org.tw/Master_yinshun/y27_05>`__ ～ `四 <http://yinshun-edu.org.tw/Master_yinshun/y27_05_04>`__， `印順文教基金會 <http://www.yinshun.org.tw/firstpage.htm>`__ （或 `佛陀最後之教誡 <http://www.mahabodhi.org/files/yinshun/27/yinshun27-05.html>`__ ， `美國菩提學會 <http://www.mahabodhi.org/>`__ ）；華雨集第三冊，印順法師佛學著作集 ( [24]_ )
 
 - `大般涅槃經 (上座部) <http://zh.wikipedia.org/wiki/%E5%A4%A7%E8%88%AC%E6%B6%85%E6%A7%83%E7%BB%8F_(%E4%B8%8A%E5%BA%A7%E9%83%A8)>`__ （ `維基百科 <http://zh.wikipedia.org/>`__，自由的百科全書）
 
 - `Mahaparinibbana Sutta <http://en.wikipedia.org/wiki/Mahaparinibbana_Sutta>`__ , `Wikipedia <http://en.wikipedia.org/>`__ , the free encyclopedia
 
 - `大般涅槃経 (上座部) <http://ja.wikipedia.org/wiki/%E5%A4%A7%E8%88%AC%E6%B6%85%E6%A7%83%E7%B5%8C_(%E4%B8%8A%E5%BA%A7%E9%83%A8)>`__ （ `ウィキペディア <http://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8>`__ 、フリー百科事典)
+
+- `大般涅槃經 <http://wiki.sutta.org/index.php?title=%E5%A4%A7%E8%88%AC%E6%B6%85%E6%A7%83%E7%BB%8F&variant=zh-hant>`__ （ `上座部佛教百科 <http://wiki.sutta.org/index.php?title=%E9%A6%96%E9%A1%B5&variant=zh-hant>`__ -- ``http://wiki.sutta.org`` ）
+
+- 長阿含遊行經；心魁居士〈蕭興勝〉白話語意譯述-- `長阿含遊行經〈上〉1 <http://www.mbh.idv.tw/index.php?mod=articles&ID=15&page=3&pid=1116>`__ ～ `長阿含遊行經〈下〉60 <http://www.mbh.idv.tw/index.php?mod=articles&ID=15&page=1&pid=1407>`__ (2008.2.12) (或另一站： `整部 <http://hsuxu53.pixnet.net/blog/post/305173912-%E7%B6%93%E8%97%8F-%E9%95%B7%E9%83%A8-%E7%AC%AC16-%E5%A4%A7%E8%88%AC%E6%B6%85%E6%A7%83%E7%B6%93-%E9%81%8A%E8%A1%8C%E7%B6%93>`__ )
 
 --------------
 
@@ -125,15 +132,70 @@
   .. _email links:
      Info@%40chi1in.org
 
-.. [8] 據日譯本重譯成為漢文，收在《普慧大藏經》中。電子檔： `大藏經補編 <http://tripitaka.cbeta.org/B>`__ （紙本來源：大藏經補編；藍吉富 主編 / 台北：華宇出版社, 1985.）　→　`第 6 冊 <http://tripitaka.cbeta.org/B06>`__ 　→　 `南傳長部經典 <http://tripitaka.cbeta.org/B06n0003>`__ （PDF： `A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/B/B0003.pdf>`__ ； `iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/B/B0003.pdf>`__ ） 　→　 `第2卷 <http://tripitaka.cbeta.org/B06n0003_002>`__  　→　 Pp. & Line 0047a01 ~ 0059a14 （ `CBETA <http://www.cbeta.org/>`__ ） 
+.. [8] 據日譯本重譯成為漢文，收在《普慧大藏經》中。電子檔： `大藏經補編 <http://tripitaka.cbeta.org/B>`__ （紙本來源：《大藏經補編》；藍吉富 主編 / 台北：華宇出版社, 1985.）　→　`第 6 冊 <http://tripitaka.cbeta.org/B06>`__ 　→　 `南傳長部經典 <http://tripitaka.cbeta.org/B06n0003>`__ （PDF： `A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/B/B0003.pdf>`__ ； `iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/B/B0003.pdf>`__ ） 　→　 `第2卷 <http://tripitaka.cbeta.org/B06n0003_002>`__  　→　 Pp. & Line 0047a01 ~ 0059a14 （ `CBETA <http://www.cbeta.org/>`__ ） 
 
         大般涅槃經第十六　　平等通昭原譯　　九
 
-        解題：
+        （題解：）
 
-        [0043a30] 舊譯　長阿含卷第二至第四遊行經（大正藏一）．佛般泥洹經（大正藏五）．般泥洹經（大正藏六）．大般涅槃經（大正藏七）。本經就分量言．為長部經典中之最長經典．關於佛陀晚年．王舍城附近之消息．最後之說法．向涅槃地之道途。入滅、荼毗、分舍利等．所述頗詳。本經全體．於巴漢雙方經文中．難見一致．然就巴漢及漢譯諸經相較．可得言者．為本經之二大骨幹．一、為一代師主佛陀之入滅．二、為領導教團者．以後非為佛之自身而是法．不論佛或存或沒．而此法當永為教團之中心。本經以此骨幹為主．此外有附加補充．形跡所在．隨處可見。所補充者．為佛之入滅談話．其相互間．初無聯系．嗣經整理．循序貫串．復於語句間．增補說明．因得演成此部經文。蓋本經原非完整之作．而於佛之入滅談話．當時編纂．似較散漫也。巴利聖典中．如大本經之過去佛傳。中部經典第二六及第三六．律藏之大品小品．及小經集經．隨處散記之佛陀生涯之事蹟．此等記述．皆屬鱗爪．而完整佛傳．除本經外．餘無有焉。又本經中．有二特點．一、所述佛陀為生身之師．同於人法．二、所載偈文．皆為古雅文言．於此可見本經所存佛傳資料．較近事實．足稱為佛傳文學之最古者。至華氏城之繁榮及三禍之豫言．以某教戒．勘校經律．辨其正邪．比丘相互間稱呼之指示．起塔之說等．顯屬後代之事實。然跋祇與摩揭陀之爭．種族國城之七不退法．則為表示當時社會政情之資料。而經中諸偈．多係佛及弟子思想感情之吐露與詠歎．為僧團所傳承．結集本經之動機在此．經文之中心亦在此．可謂為最原始之部分。
+        [0043a30] 舊譯　長阿含卷第二至第四遊行經（大正藏一）．佛般泥洹經（大正藏五）．般泥洹經（大正藏六）．大般涅槃經（大正藏七）。
 
-.. [9] 請參考： `漢譯南傳大藏經 <http://tripitaka.cbeta.org/N>`__ → N07 → `第 7 冊目錄 <http://tripitaka.cbeta.org/N07>`__ → N07n0004　長部經典(第15卷-第23卷) ( 9 卷)　【通妙譯】 → `第 7 冊　No. 0004　長部經典(第15卷-第23卷)　通妙譯 <http://tripitaka.cbeta.org/N07n0004>`__ → 第 016 卷 → `一六　大般涅槃經 <http://tripitaka.cbeta.org/N07n0004_016>`__ )（ `CBETA <http://www.cbeta.org/>`__ ）
+        本經就分量言．為長部經典中之最長經典．關於佛陀晚年．王舍城附近之消息．最後之說法．向涅槃地之道途。入滅、荼毗、分舍利等．所述頗詳。
+
+        本經全體．於巴漢雙方經文中．難見一致．然就巴漢及漢譯諸經相較．可得言者．為本經之二大骨幹．
+
+        一、為一代師主佛陀之入滅．
+
+        二、為領導教團者．以後非為佛之自身而是法．不論佛或存或沒．而此法當永為教團之中心。
+
+        本經以此骨幹為主．此外有附加補充．形跡所在．隨處可見。所補充者．為佛之入滅談話．其相互間．初無聯系．嗣經整理．循序貫串．復於語句間．增補說明．因得演成此部經文。
+
+        蓋本經原非完整之作．而於佛之入滅談話．當時編纂．似較散漫也。巴利聖典中．如大本經之過去佛傳。中部經典第二六及第三六．律藏之大品小品．及小經集經．隨處散記之佛陀生涯之事蹟．此等記述．皆屬鱗爪．而完整佛傳．除本經外．餘無有焉。
+
+        又本經中．有二特點．
+
+        一、所述佛陀為生身之師．同於人法．
+
+        二、所載偈文．皆為古雅文言．於此可見本經所存佛傳資料．較近事實．足稱為佛傳文學之最古者。
+
+        至華氏城之繁榮及三禍之豫言．以某教戒．勘校經律．辨其正邪．比丘相互間稱呼之指示．起塔之說等．顯屬後代之事實。
+
+        然跋祇與摩揭陀之爭．種族國城之七不退法．則為表示當時社會政情之資料。
+
+        而經中諸偈．多係佛及弟子思想感情之吐露與詠歎．為僧團所傳承．結集本經之動機在此．經文之中心亦在此．可謂為最原始之部分。
+
+.. [9] 請參考： `《漢譯南傳大藏經》 <http://tripitaka.cbeta.org/N>`__ （紙本來源：元亨寺漢譯南傳大藏經編譯委員會 / 高雄：元亨寺妙林出版社, 1995.） → N07 → `第 7 冊目錄 <http://tripitaka.cbeta.org/N07>`__ → N07n0004　長部經典(第15卷-第23卷) ( 9 卷)　【通妙譯】 → `第 7 冊　No. 0004　長部經典(第15卷-第23卷)　通妙譯 <http://tripitaka.cbeta.org/N07n0004>`__ → 第 016 卷 → `一六　大般涅槃經 <http://tripitaka.cbeta.org/N07n0004_016>`__ )（ `CBETA <http://www.cbeta.org/>`__ ）
+
+       題解：
+
+       本經相當於北傳漢譯長阿含卷二～四的遊行經(大正藏一)，佛般泥洹經(大正藏五)，般泥洹經(大正藏六)，大般涅槃經(大正藏七)。
+
+       在其量是長部經典為最長的，詳細記述佛陀晚年，於王舍城附近之消息。最後說法，涅槃地之道程，入滅，荼毘，分舍利等。
+
+       本經之全部，甚難看出巴漢互相間的一致，依於巴漢乃至漢譯互相之比較，為本經之要點，
+
+       是一代教主佛陀入滅之一大事，
+
+       及領導教團者，以後非佛陀本身而是法，不管佛在和不在，教以此法是永遠為教團的核心，
+
+       右（上）為本經的要點核心；對此則存有附加增補之痕跡，此等之增補部份，有關佛陀入滅的故事，而於互相無何連絡之語，在何時則輯以順序和組織，更加以此等之故事，或文句連關之說明，而成如現在的形狀，
+
+
+       所以本經非自開始就有統一，關於佛陀入滅的故事，可想是比較散漫的編篆。巴利聖典中，於大本經過去佛之傳記，中部經典第二六，第三六，律藏之大品、小品，小經集經等處，除去記述佛陀一生之片斷的事情外，在本經以外就無一完整的佛傳，
+
+
+       又見於本經中的佛陀，是生身的教主，在未經理想化之點上看，
+
+       由經中所引偈文，文體用語的古雅，如本經提供著原始的、比較近於事實的佛傳資料，可說為佛傳文學最古老的。
+
+       勿論華氏城之繁榮及三禍之預言（一、二六～二八）；說照合經、律之種種教誡，以判斷其邪、正（四、八～一一），指示關於比丘互相間之稱呼（六、二），對於塔之所說等（五、一二）；明顯地想足涉及後代之事實，
+
+
+       如跋祇和摩揭陀之爭，或種族國城之七不退法（一、四～五）示當時社會政治狀態之資料；
+
+       若經中所有之偈文，是佛陀及弟子切實的思想感情之吐露、詠嘆而傳承於僧團，為涅槃經編篆之動機，為經文中之核心，是最原始的部份。
+
+       斯如本經，以吟味、檢討經的內容及經典成立之過程時，大部份含有重要的要素。
 
 .. [10] 叢書名：北大-法勝巴利佛典；出版社： 中西書局；出版日期：2012-08-01；ISBN：9787547503829；版次：01版01次；裝幀：精裝；開本：16開；頁數：591
 
@@ -149,21 +211,25 @@
 
 .. [16] CBETA舊版：增壹阿含經卷第三十四 → 七日品第四十之一 `T02n0125_p0738a11(00)　（二） <http://www.cbeta.org/result/normal/T02/0125_034.htm>`__ ，東晉　罽賓三藏　瞿曇僧伽提婆　譯）
 
-.. [17] (original): Last Days of the Buddha-- (complete text) `Translated from the Pali by Sister Vajira & Francis Story <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ ( `Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ → Tipitaka: DN → `Digha Nikaya <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ (The Long Discourses) → DN 16: Maha-parinibbana Sutta → Vajira/Story → `Maha-parinibbana Sutta: Last Days of the Buddha <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ 1998, DN 16 PTS: D ii 72 chapters 1-6 and `PDF <http://www.bps.lk/olib/wh/wh067.pdf>`__ )
+.. [17] original: Last Days of the Buddha-- (complete text) `Translated from the Pali by Sister Vajira & Francis Story <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ ( `Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ → Tipitaka: DN → `Digha Nikaya <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ (The Long Discourses) → DN 16: Maha-parinibbana Sutta → Vajira/Story → `Maha-parinibbana Sutta: Last Days of the Buddha <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ 1998, DN 16 PTS: D ii 72 chapters 1-6 and `PDF <http://www.bps.lk/olib/wh/wh067.pdf>`__ )
 
-.. [18] (original): The Great Discourse on the Total Unbinding (excerpt) `Translated from the Pali by Ven. Thanissaro Bhikkhu <http://www.accesstoinsight.org/tipitaka/dn/dn.16.5-6.than.html>`__  ( `Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ )
+.. [18] original: The Great Discourse on the Total Unbinding (excerpt) `Translated from the Pali by Ven. Thanissaro Bhikkhu <http://www.accesstoinsight.org/tipitaka/dn/dn.16.5-6.than.html>`__  ( `Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ )
 
-.. [19] (original): Discourse on the Great Event of the Passing away of the Buddha, Maha Vagga, Digha Nikaya, Suttanta Pitaka, Translated from the Pali by Myanmar Authors, SOURCE: "TEN SUTTAS FROM DIGHA NIKAYA", BURMA PITAKA ASSOCIATION, 1984: `part 1 <http://www.myanmarnet.net/nibbana/tipitaka/mahapri1.htm>`__ , `part 2 <http://www.myanmarnet.net/nibbana/tipitaka/mahapri2.htm>`__ , `part 3 <http://www.myanmarnet.net/nibbana/tipitaka/mahapri3.htm>`__ , `part 4 <http://www.myanmarnet.net/nibbana/tipitaka/mahapri4.htm>`__  ( `Buddhism in Myanmar/Burma <http://www.myanmarnet.net/nibbana/>`__ → `Tipitaka: Pali Canon <http://www.myanmarnet.net/nibbana/tipitaka.htm>`__  → `Suttas <http://www.myanmarnet.net/nibbana/tipitaka/suttas.htm>`__  → Digha Nikaya → Maha Vagga (Large Division) → Mahaparinibbana Sutta - part 1, part 2, part 3, part 4) 
+.. [19] 感恩　阿難陀樵第 尊者(Ven. Ānandajoti Bhikkhu)慈允轉載 [This is copied by courtesy of Ven. Ānandajoti Bhikkhu, original: The Discourse about the Great Emancipation (DN 16)-- `English (英文) <http://www.ancient-buddhist-texts.net/English-Texts/Great-Emancipation/index.htm>`__ ; `Texts and Translations (巴英對照) <http://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/index.htm>`__ ] ( `Ancient Buddhist Texts <http://www.ancient-buddhist-texts.net/>`__  →  `Texts and Translations <http://www.ancient-buddhist-texts.net/Texts-and-Translations/TT-index.htm>`__ → `Ancient Buddhist Texts <http://www.ancient-buddhist-texts.net/index.htm>`__ )
 
-.. [20] 取材自：http://www.buddhism.com.cn/dzqk/fayin/dharma/9811/g9811f04.htm (簡體)
+.. [20] original: Discourse on the Great Event of the Passing away of the Buddha, Maha Vagga, Digha Nikaya, Suttanta Pitaka, Translated from the Pali by Myanmar Authors, SOURCE: "TEN SUTTAS FROM DIGHA NIKAYA", BURMA PITAKA ASSOCIATION, 1984: `part 1 <http://www.myanmarnet.net/nibbana/tipitaka/mahapri1.htm>`__ , `part 2 <http://www.myanmarnet.net/nibbana/tipitaka/mahapri2.htm>`__ , `part 3 <http://www.myanmarnet.net/nibbana/tipitaka/mahapri3.htm>`__ , `part 4 <http://www.myanmarnet.net/nibbana/tipitaka/mahapri4.htm>`__  ( `Buddhism in Myanmar/Burma <http://www.myanmarnet.net/nibbana/>`__ → `Tipitaka: Pali Canon <http://www.myanmarnet.net/nibbana/tipitaka.htm>`__  → `Suttas <http://www.myanmarnet.net/nibbana/tipitaka/suttas.htm>`__  → Digha Nikaya → Maha Vagga (Large Division) → Mahaparinibbana Sutta - part 1, part 2, part 3, part 4) 
 
-.. [21] 節錄自：《普門學報》第48期：二十世紀佛教文選‧比丘尼篇，頁 261~273，November, 2008.11.01，佛光山‧普門學報社 出版，ISSN 1609-476X（33.南北傳涅槃經之比較……恆　清）；原始出處:《覺世》第719期，1977年7月，頁282~300。 ]
+.. [21] 取材自：http://www.buddhism.com.cn/dzqk/fayin/dharma/9811/g9811f04.htm (簡體)
+
+.. [22] 節錄自：《普門學報》第48期：二十世紀佛教文選‧比丘尼篇，頁 261~273，November, 2008.11.01，佛光山‧普門學報社 出版，ISSN 1609-476X（33.南北傳涅槃經之比較……恆　清）；原始出處:《覺世》第719期，1977年7月，頁282~300。 ]
  
         收錄於《南傳大藏經解題》，世界佛學名著譯叢，第24冊，（台北：華宇出版社，1984年），頁282-300 （若連結失效，可嘗試 `這裡 <https://drive.google.com/open?id=0B-WGqLRmkmMpQTVKVlNuTTA0cjA>`__ ）
 
 .. inconvenient to access, so 
 
-.. [22] 《長部》--段晴　等著，北大-法勝巴利佛典；取材自： `台語與佛典 <http://yifertw.blogspot.tw/>`__ －－ 探討漢譯四阿含與巴利五部尼柯耶的教導，也介紹古漢譯和台語的關聯。原始出處： `〈新译巴利《长部》杂谈〉－－高山杉 <http://book.douban.com/review/5667867/>`__ 发表于2012-11-25 00:08, -上海书评-东方早报网
+.. [23] 《長部》--段晴　等著，北大-法勝巴利佛典；取材自： `台語與佛典 <http://yifertw.blogspot.tw/>`__ －－ 探討漢譯四阿含與巴利五部尼柯耶的教導，也介紹古漢譯和台語的關聯。原始出處： `〈新译巴利《长部》杂谈〉－－高山杉 <http://book.douban.com/review/5667867/>`__ 发表于2012-11-25 00:08, -上海书评-东方早报网
+
+.. [24] `華雨集第三冊 <http://yinshun-edu.org.tw/Master_yinshun/y27>`__ ， `印順法師佛學著作集 <http://www.mahabodhi.org/files/yinshun/index.html>`__ ， `印順文教基金會 <http://www.yinshun.org.tw/firstpage.htm>`__ （或 `華雨集第三冊 <http://www.mahabodhi.org/files/yinshun/27/yinshun27-00.html>`__ ， `印順法師佛學著作集 <http://www.mahabodhi.org/files/yinshun/index.html>`__ ， `美國菩提學會 <http://www.mahabodhi.org/>`__ ）
 
 --------------
 
@@ -172,9 +238,15 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  11.14 add: 英譯-- extra\tipitaka\sutta\digha\aanandajoti; dn16-than%zh.rst, dn16-vaji%zh.rst, dn16-pts%zh.rst, dn16-cscd%zh.rst, dn16-chuangcj%zh.rst; 通妙譯，臺灣元亨寺版; 上座部佛教百科 -- http://wiki.sutta.org; link of 長阿含遊行經；心魁居士〈蕭興勝〉白話語意譯述; ver. memo;
+        rev. link of Ven. Ānandajoti Bhikkhu @ dhammatalks
+             .. old original: `The Discourse about the Great Emancipation (DN 16) <http://www.dhammatalks.net/ancient_buddhist_texts/Texts-and-ranslations/Mahaparinibbanasuttam/index.htm>`__ ( `Dhamma Talks <http://www.dhammatalks.net/>`__ (((((0))))) Attaining PEACE with KNOWING & SEEING a Handful of Leaves))  
+             & http://www.dhammatalks.net/ancient_buddhist_texts/Texts-and-Translations/Mahaparinibbanasuttam/index.htm
   11.02 add link of 南傳長部經典，江鍊百譯 and 簡化於附註
-  10.27 rev. 南北傳涅槃經之比較 GglDrv 
+  10.27 rev. 南北傳涅槃經之比較 GglDrv
+  06.01 remove (巴利系佛教史綱　第六章　聖典　二　摘錄) to template-- ((theme/templates/layout/co…  ……ntent.html)
   05.10 2016 make .rst file  南北傳涅槃經之比較-- old: http://www.fgs.com.tw/pumen/pumen48/9702753TEXT(4).pdf (local:pumen48普門學報48-9702753TEXT-4.pdf)
+  ------
   04.21 add: 巴、漢、英對讀</a>：巴利原典(CSCD)、莊春江 漢譯、蕭式球 漢譯、巴宙 漢譯、 Ven. Ānandajoti Bhikkhu(英譯)、Sister Vajira & Francis Story(英譯)對讀
   03.18 rev. Pāḷi-English 巴、英對讀：Ven. Ānandajoti Bhikkhu-- old: http://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/index.htm
   02.28 add: 巴、漢、英文多譯本對讀：The Discourse about the Great Emancipation (DN 16)  edited and translated by Ven. Ānandajoti Bhikkhu ; 巴利原典(CSCD)、Sister Vajira & Francis Story(英譯)、莊春江 漢譯、蕭式球 漢譯、巴宙 漢譯、達和 法師 漢譯、寧樂 漢譯、Myanmar Authors(英譯)</a>(本站)(建構中); 
@@ -217,7 +289,7 @@
   ================================================
 
   09.08 2005
-  版權疑義,待洽中--
+  copyright suspended...
   <li><ahref="Mahaprinbb-preface.html">序言</a></p>
   <li><ahref="Mahaprinbb-Chap01.html">第一章：In Magadha</a></p>
   <li><ahref="Mahaprinbb-Chap02.html">第二章：The Journey to Vesali</a></p>
