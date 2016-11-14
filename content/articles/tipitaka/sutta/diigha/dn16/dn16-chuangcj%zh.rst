@@ -2,10 +2,10 @@
 ###########################################
 
 :date: 2015-03-08 15:48:37
-:modified: 2015-03-08 15:48:37
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16-ChuangCJ.rst
+:modified: 2016-11-14 15:30
+:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16-ChuangCJ.html
 :author: 莊春江
-:tags: 巴利三藏長部, 般涅槃大經, 莊春江, D16 Mahāparinibbānasuttaṃ
+:tags: 巴利三藏長部, 般涅槃大經, 莊春江, 大般涅槃經, D16 Mahāparinibbānasuttaṃ
 :category: 巴利三藏長部
 :summary: 長部16經/般涅槃大經(大品〔第二〕)(莊春江譯)
 
@@ -2333,3 +2333,20 @@
 
 .. [ChngFn204] 〔莊　註204〕　「分(DA.2)」，南傳作「部分」(bhāgaṃ)，Maurice Walshe先生英譯為「份兒；分配」(a share of)。
 
+------
+
+- `大般涅槃經/長部16經/般涅槃大經 Mahāparinibbānasuttaṃ <{filename}dn16%zh.rst>`__
+
+- 大般涅槃經 Mahāparinibbānasuttaṃ `多譯本對讀(段層次) <{filename}contrast-reading-dn16%zh.rst>`__
+
+- `經文選讀 <{filename}/articles/uncategorized/canon-selected%zh.rst>`__ 
+
+- `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+..
+  2016-11-11 add ver. memo & upper dir at the bottom; 11-14 upload
+  ------
+  05.01 change oldurl-- oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Digha/Tipitaka/Sutta/Digha/dn.16-ChuangCJ.rst with http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/Tipitaka/Sutta/Digha/dn.16-ChuangCJ.rst
+  03.27 create in .rst with pandoc (dn.16-ChuangCJ-pandoc-org.rst), add on github (by SiongUi)
+  2015-02-23 save from: http://agama.buddhason.org/DN/DN16.htm
+  
