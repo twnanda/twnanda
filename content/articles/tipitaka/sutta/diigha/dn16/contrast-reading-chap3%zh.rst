@@ -2,13 +2,10 @@
 #######################################
 
 :date: 2015-04-21 16:30
-:modified: 2016-05-13 15:00
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn16.contrast-reading-chap3.rst
+:modified: 2016-11-16 15:30
 :tags: 大般涅槃經對讀, 般涅槃大經對讀, DN16 Mahāparinibbānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, DN 16, Dn16, Dn 16
 :category: 巴利三藏長部
 :summary: 大般涅槃經 (般涅槃大經) 多譯本對讀(段層次) 第三頌（第三章）, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, Chapter 3
-
-.. created from 2015.03.18
 
 .. list-table:: 《大般涅槃經》多譯本對讀(分章及整部) Content of Mahāparinibbānasuttaṃ
    :widths: 14 14 14 14 14 14 16 
@@ -40,35 +37,34 @@
 
 ---------------------------
 
-- 本頌細目
+本頌（第三章：捨壽 Relinquishing the Will to Live）細目
+--------------------------------------------------------
 
-  - 第 三 章：捨壽， `徵相與暗示的談說`_ (Nimittobhāsakathā); The Third Chapter for Recitation, Ānanda's Failure; Part Three: Relinquishing the Will to Live, The Blessed One's Prompting
+- `徵相與暗示的談說`_ (Nimittobhāsakathā); Ānanda's Failure; The Blessed One's Prompting
 
-  - `魔請求的談說`_ (Mārayācanakathā); The Relinquishment of the Life Process; Mara's Appeal
+- `魔請求的談說`_ (Mārayācanakathā); The Relinquishment of the Life Process; Mara's Appeal
 
-  - `壽行的捨棄`_ (Āyusaṅkhāraossajjanaṃ); The Blessed One Relinquishes His Will to Live
+- `壽行的捨棄`_ (Āyusaṅkhāraossajjanaṃ); The Blessed One Relinquishes His Will to Live
 
-  - `大地震的原因`_ (Mahābhūmicālahetu); Eight Reasons for Earthquakes; Eight Causes of Earthquakes
+- `大地震的原因`_ (Mahābhūmicālahetu); Eight Reasons for Earthquakes; Eight Causes of Earthquakes
 
-  - `八眾`_ (Aṭṭha parisā); The Eight Assemblies
+- `八眾`_ (Aṭṭha parisā); The Eight Assemblies
 
-  - `八勝處`_ (Aṭṭha abhibhāyatanāni); The Eight Means of (Mind) mastery; Eight Fields of Mastery
+- `八勝處`_ (Aṭṭha abhibhāyatanāni); The Eight Means of (Mind) mastery; Eight Fields of Mastery
 
-  - `八解脫`_ (Aṭṭha vimokkhā); The Eight Liberations
+- `八解脫`_ (Aṭṭha vimokkhā); The Eight Liberations
 
-    - `Mara's Former Temptation`_ ; 以前魔羅的勸誘; Ānanda's Fault
+  * `Mara's Former Temptation`_ ; 以前魔羅的勸誘; Ānanda's Fault
 
+- `阿難請求的談說`_ (Ānandayācanakathā); Ananda's Appeal
 
-  - `阿難請求的談說`_ (Ānandayācanakathā); Ananda's Appeal
+  * `Ānanda's Fault at Rājagaha`_ ; 阿難在王舍城時的過失
 
+  * `Ānanda's Fault at Vesālī`_ ; 阿難在毘舍離時的過失
 
-    - `Ānanda's Fault at Rājagaha`_ ; 阿難在王舍城時的過失
+  * `The Thirty-Seven Things on the Side of Awakening`_ ; 三十七道品的教誡
 
-    - `Ānanda's Fault at Vesālī`_ ; 阿難在毘舍離時的過失
-
-    - `The Thirty-Seven Things on the Side of Awakening`_ ; 三十七道品的教誡
-
-    - `The Last Admonition`_ ; 最後的教誡
+  * `The Last Admonition`_ ; 最後的教誡
 
 --------------
 
@@ -1601,28 +1597,35 @@
 --------------
 
 備註：
+^^^^^^^
 
-.. [1] 〔註001〕　\ `巴利原典 <dn.16-CSCD.html>`__ \ 乃參考\ `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`_\ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD (`Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版請參考：\ `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ [original: 原始出處請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單“Tipiṭaka Scripts”中選 `Roman→Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Dīghanikāya → Mahāvaggapāḷi → `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ )。]
+.. [1] 〔註001〕　 `巴利原典 <{filename}dn16-cscd%zh.rst>`__  乃參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`_ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD (`Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版請參考： `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ [original: 原始出處請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單“Tipiṭaka Scripts”中選 `Roman→Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Dīghanikāya → Mahāvaggapāḷi → `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ )。]
 
-.. [2] 〔註002〕　本譯文請參考：`般涅槃大經；莊春江 <dn.16-ChuangCJ.html>`__ [原始出處請參考：`臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ → 13 → `長部16經/般涅槃大經(大品[第二]); 莊春江 <http://agama.buddhason.org/DN/DN16.htm>`__ 03/08/2015 15:48:37 更新]。
+.. [2] 〔註002〕　本譯文請參考：`般涅槃大經；莊春江 <{filename}dn16-chuangcj%zh.rst>`__ [原始出處請參考：`臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ → 13 → `長部16經/般涅槃大經(大品[第二]); 莊春江 <http://agama.buddhason.org/DN/DN16.htm>`__ 03/08/2015 15:48:37 更新]。
 
-.. [3] 〔註003〕　本譯文請參考：`【長部．十六．大般湼槃經】；蕭式球 <dn.16-SiuSK.html>`__ 〔原始出處請參考：\ `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__--5.1. 利文佛典選譯-- 5.1.1.長部 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359>`__\ （或\ `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__--南傳佛教 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=359>`__\ ）〕
+.. [3] 〔註003〕　本譯文請參考：`【長部．十六．大般湼槃經】；蕭式球 <{filename}dn16-siusk%zh.rst>`__ 〔原始出處請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__--5.1. 利文佛典選譯-- 5.1.1.長部 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359>`__ （或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__--南傳佛教 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=359>`__ ）〕
 
-.. [4] 〔註004〕　本譯文：\ `南傳大般涅槃經；巴宙譯 (1971 AD) <dn.16-Pachow-full-rst.html>`__ \ 
+.. [4] 〔註004〕　本譯文： `南傳大般涅槃經；巴宙譯 (1971 AD) <{filename}dn16-pachow-full%zh.rst>`__ 
 
-.. [5] 〔註005〕　此英譯為 **Ven.Ānandajoti Bhikkhu** [\ `阿難陀樵第尊者所譯 <dn16-anandajoti-Eng.pdf>`__ \ (edited and translated by Ven. Ānandajoti Bhikkhu)；請參考：The Discourse about the Great Emancipation (A Translation of Mahāparinibbānasutta (DN 16) (June, 2008 / 2552) [感恩　尊者慈允轉載(This is copied by courtesy of Ven. Ānandajoti Bhikkhu) 原始出處請參考(original): `The Discourse about the Great Emancipation (DN 16) <http://www.dhammatalks.net/ancient_buddhist_texts/Texts-and-ranslations/Mahaparinibbanasuttam/index.htm>`__ ( `Dhamma Talks <http://www.dhammatalks.net/>`__ (((((0))))) Attaining PEACE with KNOWING & SEEING a Handful of Leaves)]
+.. [5] 〔註005〕　請參考： `The Discourse about the Great Emancipation <{filename}/extra/tipitaka/sutta/digha/aanandajoti/index-TheDiscourse_about_theGreatEmancipation.html>`__ ;  `PDF <{filename}/extra/tipitaka/sutta/digha/aanandajoti/dn16-anandajoti-Eng.pdf>`__ ；A Translation of Mahāparinibbānasutta (DN 16) (June, 2008 / 2552), edited and translated by Ven. Ānandajoti Bhikkhu [感恩　阿難陀樵第尊者慈允轉載(This is copied by courtesy of Ven. Ānandajoti Bhikkhu)]；原始出處請參考(original: The Discourse about the Great Emancipation (DN 16)-- `English (英文) <http://www.ancient-buddhist-texts.net/English-Texts/Great-Emancipation/index.htm>`__ ; `Texts and Translations (巴英對照) <http://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/index.htm>`__ ] ( `Ancient Buddhist Texts <http://www.ancient-buddhist-texts.net/>`__  →  `Texts and Translations <http://www.ancient-buddhist-texts.net/Texts-and-Translations/TT-index.htm>`__ → `Ancient Buddhist Texts <http://www.ancient-buddhist-texts.net/index.htm>`__ )
 
-.. [6] 〔註006〕　此英譯為 **Sister Vajira & Francis Story**\ 所譯(請參考：\ `Maha-parinibbana Sutta: Last Days of the Buddha <dn.16.1-6.vaji.html>`__, translated from the Pali by **Sister Vajira & Francis Story** [原始出處請參考(original): Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story © 1998) <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ (`Access to Insight <http://www.accesstoinsight.org/>`__ → DN → `Digha Nikaya/The Long Discourses <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → DN 16: Maha-parinibbana Sutta — Last Days of the Buddha → Vajira/Story → Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ © 1998)
+.. [6] 〔註006〕　此英譯為 **Sister Vajira & Francis Story**\ 所譯(請參考： `Maha-parinibbana Sutta: Last Days of the Buddha <{filename}dn16-vaji%zh.rst>`__, translated from the Pali by **Sister Vajira & Francis Story** [原始出處請參考(original): Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story © 1998) <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ (`Access to Insight <http://www.accesstoinsight.org/>`__ → DN → `Digha Nikaya/The Long Discourses <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → DN 16: Maha-parinibbana Sutta — Last Days of the Buddha → Vajira/Story → Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ © 1998)
 
+.. [CFn004] 〔莊　註004〕 「大如意足；大神足(AA)」，南傳作「大神通力」(mahiddhikā)，菩提比丘長老英譯為「很大力量」(very powerful)或「大超常力量」(great spiritual power, SN.21.3)。
 
-.. [CFn004] FIXME
-.. [CFn014] FIXME
-.. [CFn019] FIXME
-.. [CFn034] FIXME
-.. [CFn062] FIXME
-.. [CFn063] FIXME
-.. [CFn064] FIXME
-.. [CFn073] FIXME
+.. [CFn014] 〔莊　註014〕 「塔所(SA)；塔(GA)；寺(MA)；宗廟(DA)；神寺；神廟(AA)」，南傳作「塔廟」(cetiye，音譯為「支提；枝提；制多」)，菩提比丘長老英譯為「廟祠」(Shrine)。
+
+.. [CFn019] 〔莊　註019〕 「知時(SA/MA)；宜知是時(GA/DA)；今正是時；知是時；宜知是時(AA)」，南傳作「你考量適當的時間」(kālaṃ maññasī，古譯為「知是時；宜知是時；知時」)，菩提比丘長老英譯為「你請便；你可以你自己的方便走」(you may go at your own convenience)，並解說這是表示離開的定型句，此處的翻譯，為適合上下文略作變更(I have varied the rendering slightly to fit the context. SN.11.18, note.650)。
+
+.. [CFn034] 〔莊　註034〕 「修習」(bhāveti，原意為「使有；使存在」， 名詞bhāvanā，特別用在禪修的場合)，菩提比丘長老英譯為「開發；發展」(develops, 名詞development)，或「默想的開發；禪修」(meditative development, AN.8.36)。
+
+.. [CFn062] 〔莊　註062〕 「四意止；四念處；四念住」(cattāro satipaṭṭhānā)，菩提比丘長老英譯為「四個深切注意的建立」(four establishments of mindfulness)，並解說「satipaṭṭhāna」一詞，論師們有兩種解讀法，若解讀為「念+現起」(sati + upaṭṭhāna)，則為「念住；深切注意的建立」，若解讀為「念+出發點」(sati + paṭṭhāna)，則為「念處；深切注意的基礎」，前者強調「建立念的行為」，後者強調「應用念的所緣」，雖然論師多傾向後者，但前者確定是更原始的。
+
+.. [CFn063]  〔莊　註063〕 「七覺意(DA/AA)；七覺支」(satta bojjhaṅgā, atta sambojjhaṅgā)，菩提比丘長老英譯為「七個開化要素」(the seven factors of enlightenment)。
+
+.. [CFn064] 〔莊　註064〕 「(已)現正覺」(abhisambuddha)，菩提比丘長老英譯為「完全開化」(fully enlightened)或「醒悟」(awakened)。按：這是「對；向」(abhi)與「正覺」(sambuddha)的複合詞，表示「正覺的體證」。
+
+.. [CFn073] 〔莊　註073〕 「示、教、利(照)、喜」，南傳作「開示、勸導、鼓勵……，使之歡喜」，「示；開示」(sandassesi)，菩提比丘長老英譯為「教導」(instructed)。「教；勸導」(samādapesi)，菩提比丘長老英譯為「熱心勸說」(exhorted)。「利；照；鼓勵」(samuttejesi)，菩提比丘長老英譯為「使鼓舞」(inspired)。「喜；使之歡喜」(sampahaṃsesi)，菩提比丘長老英譯為「使喜悅」(gladdened)。
 
 .. [CFn123] 〔莊　註123〕　「乞食；分衛(AA)」，南傳作「為了托鉢」(piṇḍāya，直譯為「為了團形食物」)，菩提比丘長老英譯為「為了施捨；為了捐獻」(for alms)。按：巴利語「為了托鉢」(piṇḍāya)為「團形食物」(piṇḍa)表示目的之「為格」語態，故譯為「為了托鉢」而不譯為容易讓人誤解為帶有乞討意味的「乞食」，「團形食物」為被握成一團的食物。
 
@@ -1808,3 +1811,16 @@
 
 .. [VFn35] (Vajira-Francis 035) *Subhan tveva adhimutto hoti*. Comy.: "Hereby, meditative absorption (*jhana*), obtained through blue-kasinas, etc., of very pure color is indicated."
 
+.. 
+  11.16 rev. footnote 1~6; 本頌細目; correct footnote CFn 004~073, add: ver. memo, 
+        del: :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn16.contrast-reading-chap3.rst
+
+  06.01 remove (巴利系佛教史綱　第六章　聖典　二　摘錄) to template-- (theme/templates/layout/co… 
+  05.18 delete link of pdf for itself and add {filename} for some files
+  05.13 add thanks to Db. Siong-Ui's js and correct &/ add linking of 巴利系佛教史綱… 
+  05.12 correct linking of 巴利系佛教史綱　第六章　聖典　二　摘錄
+  05.01 change oldurl
+  2016-03-31 舊文移植：長部16經 第三頌 - 大般涅槃經 多譯本對讀
+  ------
+  05.31 10:00 add: 對讀版本選項
+  2015-03-18 created from rst ~ 04-21 16:30 finished

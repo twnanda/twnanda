@@ -5,7 +5,7 @@
 :date: 2004-08-24
 :modified: 2016-11-14 20:30
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16.html
-:tags: 巴利三藏長部, 大般涅槃經, 般涅槃大經, D16 Mahāparinibbānasuttaṃ
+:tags: 巴利三藏長部, 大般涅槃經, 南傳大般涅槃經, 大般湼槃經, 般涅槃大經, D16 Mahāparinibbānasuttaṃ, D16, Mahāparinibbānasuttaṃ, DN 16, Dn16, dn16, dn 16
 :category: 巴利三藏長部
 :summary: (南傳巴利語)大般涅槃經/長部16經/般涅槃大經 Mahāparinibbānasuttaṃ
 
@@ -59,7 +59,7 @@
 
   * `The Great Discourse on the Total Unbinding <{filename}dn16-than%zh.rst>`__ (excerpt), DN 16 PTS: D ii 137 chapters 5-6, Translated from the Pali by **Ven. Thanissaro Bhikkhu** ( **坦尼沙羅尊者** ) (original: [18]_ )
 
-  * `The Discourse about the Great Emancipation <{filename}/extra/tipitaka/sutta/digha/aanandajoti/index-TheDiscourse_about_theGreatEmancipation.html>`__ ;  `PDF <{filename}/extra/tipitaka/sutta/digha/aanandajoti/dn16-anandajoti-Eng.pdf>`__ (A Translation of Mahāparinibbānasutta (DN 16); June, 2008 / 2552, edited and translated by **Ven.Ānandajoti Bhikkhu** , original: [19]_ ) 
+  * `The Discourse about the Great Emancipation <{filename}/extra/tipitaka/sutta/digha/aanandajoti/index-TheDiscourse_about_theGreatEmancipation.html>`__ ;  `PDF </extra/tipitaka/sutta/digha/aanandajoti/dn16-anandajoti-Eng.pdf>`__ (A Translation of Mahāparinibbānasutta (DN 16); June, 2008 / 2552, edited and translated by **Ven.Ānandajoti Bhikkhu** , original: [19]_ ) 
 
   * Discourse on the Great Event of the Passing away of the Buddha, Translation by Myanmar Authors, SOURCE: "TEN SUTTAS FROM DIGHA NIKAYA", BURMA PITAKA ASSOCIATION, 1984: `part 1 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-I.html>`__ , `part 2 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-II.html>`__ , `part 3 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-III.html>`__ , `part 4 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-IV.html>`__ (original:[20]_ )
 

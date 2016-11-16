@@ -2,13 +2,11 @@
 ##################################
 
 :date: 2015-04-21 16:30
-:modified: 2016-05-13 15:00
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn16.contrast-reading-full.rst
-:tags: 大般涅槃經對讀, 般涅槃大經對讀, DN16 Mahāparinibbānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, DN 16, Dn16, Dn 16
+:modified: 2016-11-16 17:00
+:tags: 大般涅槃經對讀, 般涅槃大經對讀, DN16 Mahāparinibbānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, 大般涅槃經, 南傳大般涅槃經, 大般湼槃經, 般涅槃大經, D16 Mahāparinibbānasuttaṃ, D16, Mahāparinibbānasuttaṃ, DN 16, Dn16, dn16, dn 16, 巴利三藏長部
 :category: 巴利三藏長部
 :summary: 大般涅槃經 (般涅槃大經) 多譯本對讀(段層次), Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta
 
-.. created from 2015.03.18
 
 .. list-table:: 《大般涅槃經》多譯本對讀(分章) Content of Mahāparinibbānasuttaṃ
    :widths: 16 16 16 16 16 16
@@ -37,125 +35,135 @@
      
 ---------------------------
 
-- 目錄
+目錄
+----
 
-  - 第 一 章：在摩揭陀國，\ `阿闍世王`_ \ ; In Māgadha; King Ajātasattu
+- 第 一 章：在摩揭陀國;  第一頌; In Māgadha
 
-  - \ `作雨者婆羅門`_ \ (Vassakārabrāhmaṇo)
+  - `阿闍世王`_ ; In Māgadha; King Ajātasattu
 
-  - \ `國王-不衰退法`_ \ (Rājaaparihāniyadhammā); Seven Things which Prevent Decline in the Vajjians; Conditions of a Nation's Welfare
+  - `作雨者婆羅門`_ (Vassakārabrāhmaṇo)
 
-  - \ `比丘-不衰退法`_ \ (Bhikkhuaparihāniyadhammā); Seven Things which Prevent Decline in the Community; Welfare of the Bhikkhus
+  - `國王-不衰退法`_ (Rājaaparihāniyadhammā); Seven Things which Prevent Decline in the Vajjians; Conditions of a Nation's Welfare
 
-    - \ `Seven Further Things which Prevent Decline in the Community`_ \ 僧團中另一種七不衰退法
+  - `比丘-不衰退法`_ (Bhikkhuaparihāniyadhammā); Seven Things which Prevent Decline in the Community; Welfare of the Bhikkhus
 
-    - \ `[5: Seven Further Things which Prevent Decline in the Community`_ \ 僧團中另外的七不衰退法; Seven Good Qualities
+    - `Seven Further Things which Prevent Decline in the Community`_ 僧團中另一種七不衰退法
 
-    - \ `Seven Factors of Enlightenment`_ \ 僧團中另外的七不衰退法（七覺支）; Seven Further Things which Prevent Decline in the Community
+    - `[5: Seven Further Things which Prevent Decline in the Community`_ 僧團中另外的七不衰退法; Seven Good Qualities
 
-    - \ `Seven Perceptions`_ \ 僧團中另外的七不衰退法（七想）
+    - `Seven Factors of Enlightenment`_ 僧團中另外的七不衰退法（七覺支）; Seven Further Things which Prevent Decline in the Community
 
-    - \ `[8: Six Things which Prevent Decline in the Community`_ \ 僧團中六不衰退法; Six Conditions to be Remembered
+    - `Seven Perceptions`_ 僧團中另外的七不衰退法（七想）
 
-    - \ `Counsel to the Bhikkhus`_ \ ; 對比丘們常做之法說
+    - `[8: Six Things which Prevent Decline in the Community`_ 僧團中六不衰退法; Six Conditions to be Remembered
 
-    - \ `[9: The Story of the Teaching at Ambalaṭṭhikā]`_ \ ; 芒果樹苖圃之法說
+    - `Counsel to the Bhikkhus`_ ; 對比丘們常做之法說
 
-  - \ `舍利弗的獅子吼`_ \ (Sāriputtasīhanādo); Sāriputta's Lion's Roar
+    - `[9: The Story of the Teaching at Ambalaṭṭhikā]`_ ; 芒果樹苖圃之法說
 
-  - \ `破戒(壞品德)的過患`_ \ (Dussīlaādīnavā) 
+  - `舍利弗的獅子吼`_ (Sāriputtasīhanādo); Sāriputta's Lion's Roar
 
-  - \ `持戒(有品德)的效益`_ \ (Sīlavanttaānisaṃsā); The Advantages of Virtue
+  - `破戒(壞品德)的過患`_ (Dussīlaādīnavā) 
 
-  - \ `華氏城的建築`_ \ (Pāṭaliputtanagaramāpanaṃ); Building up Pāṭaligāma
+  - `持戒(有品德)的效益`_ (Sīlavanttaānisaṃsā); The Advantages of Virtue
 
-
-  - 第 二 章：遊化至毘舍離，\ `聖諦的談說`_ \ (Ariyasaccakathā); The Second Chapter for Recitation, The Four Noble Truths; Part Two: The Journey to Vesali, The Four Noble Truths
-
-  - \ `不還者與以正覺為彼岸`_ \ (Anāvattidhammasambodhiparāyaṇā); The Four Specific Attainments
-
-  - \ `法鏡法門`_ \ (Dhammādāsadhammapariyāyā); The Mirror of (the True Nature of) Things; The Mirror of the Dhamma
+  - `華氏城的建築`_ (Pāṭaliputtanagaramāpanaṃ); Building up Pāṭaligāma
 
 
-    - \ `Mindfulness and Clear Comprehension`_ \ ; 正念、正知
+- 第 二 章：遊化至毘舍離; 第二頌; The Second Chapter for Recitation; Part Two: The Journey to Vesali
 
-  - \ `藝妓蓭婆巴利`_ \ (Ambapālīgaṇikā); 歌女菴婆婆梨; The Courtesan Ambapālī; Ambapali and the Licchavis
+  - `聖諦的談說`_ (Ariyasaccakathā);  The Four Noble Truths; The Four Noble Truths
 
-  - \ `在木瓜樹村進入雨季安居`_ \ (Veḷuvagāmavassūpagamanaṃ); 
+  - `不還者與以正覺為彼岸`_ (Anāvattidhammasambodhiparāyaṇā); The Four Specific Attainments
 
-    - \ `The Gracious One’s Sickness`_ \  ; The Blessed One's Deadly Sickness; 世尊生了重病，起激烈的、瀕臨死亡的感受
+  - `法鏡法門`_ (Dhammādāsadhammapariyāyā); The Mirror of (the True Nature of) Things; The Mirror of the Dhamma
 
-  - 第 三 章：捨壽，\ `徵相與暗示的談說`_ \ (Nimittobhāsakathā); The Third Chapter for Recitation, Ānanda's Failure; Part Three: Relinquishing the Will to Live, The Blessed One's Prompting
+    - `Mindfulness and Clear Comprehension`_ ; 正念、正知
 
-  - \ `魔請求的談說`_ \ (Mārayācanakathā); The Relinquishment of the Life Process; Mara's Appeal
+  - `藝妓蓭婆巴利`_ (Ambapālīgaṇikā); 歌女菴婆婆梨; The Courtesan Ambapālī; Ambapali and the Licchavis
 
-  - \ `壽行的捨棄`_ \ (Āyusaṅkhāraossajjanaṃ); The Blessed One Relinquishes His Will to Live
+  - `在木瓜樹村進入雨季安居`_ (Veḷuvagāmavassūpagamanaṃ); 
 
-  - \ `大地震的原因`_ \ (Mahābhūmicālahetu); Eight Reasons for Earthquakes; Eight Causes of Earthquakes
+    - `The Gracious One’s Sickness`_  ; The Blessed One's Deadly Sickness; 世尊生了重病，起激烈的、瀕臨死亡的感受
 
-  - \ `八眾`_ \ (Aṭṭha parisā); The Eight Assemblies
+- 第 三 章：捨壽; 第三頌; The Third Chapter for Recitation; Part Three: Relinquishing the Will to Live
 
-  - \ `八勝處`_ \ (Aṭṭha abhibhāyatanāni); The Eight Means of (Mind) mastery; Eight Fields of Mastery
+  - `徵相與暗示的談說`_ (Nimittobhāsakathā); Ānanda's Failure; The Blessed One's Prompting
 
-  - \ `八解脫`_ \ (Aṭṭha vimokkhā); The Eight Liberations
+  - `魔請求的談說`_ (Mārayācanakathā); The Relinquishment of the Life Process; Mara's Appeal
 
-    - \ `Mara's Former Temptation`_ \ ; 以前魔羅的勸誘; Ānanda's Fault
+  - `壽行的捨棄`_ (Āyusaṅkhāraossajjanaṃ); The Blessed One Relinquishes His Will to Live
 
+  - `大地震的原因`_ (Mahābhūmicālahetu); Eight Reasons for Earthquakes; Eight Causes of Earthquakes
 
-  - \ `阿難請求的談說`_ \ (Ānandayācanakathā); Ananda's Appeal
+  - `八眾`_ (Aṭṭha parisā); The Eight Assemblies
 
+  - `八勝處`_ (Aṭṭha abhibhāyatanāni); The Eight Means of (Mind) mastery; Eight Fields of Mastery
 
-    - \ `Ānanda's Fault at Rājagaha`_ \ ; 阿難在王舍城時的過失
+  - `八解脫`_ (Aṭṭha vimokkhā); The Eight Liberations
 
-    - \ `Ānanda's Fault at Vesālī`_ \ ; 阿難在毘舍離時的過失
+    - `Mara's Former Temptation`_ ; 以前魔羅的勸誘; Ānanda's Fault
 
-    - \ `The Thirty-Seven Things on the Side of Awakening`_ \ ; 三十七道品的教誡
+  - `阿難請求的談說`_ (Ānandayācanakathā); Ananda's Appeal
 
-    - \ `The Last Admonition`_ \ ; 最後的教誡
+    - `Ānanda's Fault at Rājagaha`_ ; 阿難在王舍城時的過失
 
-  - 第 四 章：世尊最後一餐，\ `龍象回顧`_ \ (Nāgāpalokitaṃ); The Fourth Chapter for Recitation, The Four Noble Things; Part Four: The Last Meal, The Elephant's Look
+    - `Ānanda's Fault at Vesālī`_ ; 阿難在毘舍離時的過失
 
-  - \ `四大法教`_ \ (Catumahāpadesakathā); The Four Great Referalls; The Four Great References
+    - `The Thirty-Seven Things on the Side of Awakening`_ ; 三十七道品的教誡
+
+    - `The Last Admonition`_ ; 最後的教誡
+
+- 第 四 章：世尊最後一餐; 第四頌; The Fourth Chapter for Recitation; Part Four: The Last Meal
+
+  - `龍象回顧`_ (Nāgāpalokitaṃ); The Elephant's Look
+
+  - `四大法教`_ (Catumahāpadesakathā); The Four Great Referalls; The Four Noble Things; The Four Great References
   
-  - \ `鐵匠之子純陀的事`_ \ (Kammāraputtacundavatthu); The Last Meal; The Buddha's Last Meal
+  - `鐵匠之子純陀的事`_ (Kammāraputtacundavatthu); The Last Meal; The Buddha's Last Meal
 
-  - \ `取水`_ \ (Pānīyāharaṇaṃ); Bringing Drinking Water; The Clearing of the Waters
+  - `取水`_ (Pānīyāharaṇaṃ); Bringing Drinking Water; The Clearing of the Waters
 
-  - \ `末羅人之子晡古色的事`_ \ (Pukkusamallaputtavatthu); The Story concerning Pukkusa Mallaputta; Pukkusa the Malla
+  - `末羅人之子晡古色的事`_ (Pukkusamallaputtavatthu); The Story concerning Pukkusa Mallaputta; Pukkusa the Malla
 
-    - \ `At the Kakuttha River`_ \ ; 在迦俱陀河
+    - `At the Kakuttha River`_ ; 在迦俱陀河
     
-    - \ `Cunda's Great Gain`_ \ ; 純陀的大獲得; Relieving Cunda's Remorse; 解除純陀的懊悔
+    - `Cunda's Great Gain`_ ; 純陀的大獲得; Relieving Cunda's Remorse; 解除純陀的懊悔
 
-  - 第 五 章：在拘尸那羅，\ `雙沙羅樹`_ \ (Yamakasālā); The Fifth Chapter for Recitation, Worshipping the Realised One; Part Five: At Kusinara, Last Place of Rest
+- 第 五 章：在拘尸那羅; 第五頌; The Fifth Chapter for Recitation; Part Five: At Kusinara
 
-  - \ `優波哇那上座`_ \ (Upavāṇatthero); The Visit of the Divinities; The Grief of the Gods
+  - `雙沙羅樹`_ (Yamakasālā); Worshipping the Realised One; Last Place of Rest
 
-  - \ `四個能激起宗教信仰心之處`_ \ (Catusaṃvejanīyaṭṭhānāni); The Four Places that Produce Enthusiasm; \ `Ananda's Concern`_ \ (阿難的掛念); Four Places of Pilgrimage
+  - `優波哇那上座`_ (Upavāṇatthero); The Visit of the Divinities; The Grief of the Gods
 
-  - \ `阿難問題的談說`_ \ (Ānandapucchākathā)
+  - `四個能激起宗教信仰心之處`_ (Catusaṃvejanīyaṭṭhānāni); The Four Places that Produce Enthusiasm;  `Ananda's Concern`_ (阿難的掛念); Four Places of Pilgrimage
 
-  - \ `值得領受塔的人`_ \ (Thūpārahapuggalo)
+  - `阿難問題的談說`_ (Ānandapucchākathā)
 
-  - \ `阿難的未曾有法`_ \ (Ānandaacchariyadhammo); Ānanda's Marvellous Qualities; \ `Ananda's Grief`_ \ (阿難的悲傷); Praise of Ananda
+  - `值得領受塔的人`_ (Thūpārahapuggalo)
 
-  - \ `大善見經的教導`_ \ (Mahāsudassanasuttadesanā); Kusinārā's History;  The Past Glory of Kusinara (拘尸那羅過往的光輝歷史); Lamentation of the Mallas (末羅人的悲嘆)
+  - `阿難的未曾有法`_ (Ānandaacchariyadhammo); Ānanda's Marvellous Qualities;  `Ananda's Grief`_ (阿難的悲傷); Praise of Ananda
 
-  - \ `末羅人的禮拜`_ \ (Mallānaṃ vandanā); The Mallas Worship the Gracious One
+  - `大善見經的教導`_ (Mahāsudassanasuttadesanā); Kusinārā's History;  The Past Glory of Kusinara (拘尸那羅過往的光輝歷史); Lamentation of the Mallas (末羅人的悲嘆)
 
-  - \ `遊行者須跋陀的事`_ \ (Subhaddaparibbājakavatthu); Subhadda, the Last Direct Disciple; The Last Convert; The Lion's Roar
+  - `末羅人的禮拜`_ (Mallānaṃ vandanā); The Mallas Worship the Gracious One
 
-  - 第 六 章：大般涅槃，\ `如來最後的話`_ \ (Tathāgatapacchimavācā); The Sixth Chapter for Recitation, The Last Instructions of the Realised One; Part Six: The Passing Away, The Blessed One's Final Exhortation
+  - `遊行者須跋陀的事`_ (Subhaddaparibbājakavatthu); Subhadda, the Last Direct Disciple; The Last Convert; The Lion's Roar
+
+- 第 六 章：大般涅槃; 第五頌; The Sixth Chapter for Recitation; Part Six: The Passing Away
+
+  - `如來最後的話`_ (Tathāgatapacchimavācā); The Last Instructions of the Realised One; The Blessed One's Final Exhortation
   
-  - \ `般涅槃的談說`_ \ (Parinibbutakathā);  The Final Emancipation; How the Blessed One Passed into Nibbana; \ `The World's Echo`_ \ ; \ `The Preparation of the Body`_ \ ; 
+  - `般涅槃的談說`_ (Parinibbutakathā);  The Final Emancipation; How the Blessed One Passed into Nibbana;  `The World's Echo`_ ;  `The Preparation of the Body`_ ; 
 
-  - \ `世尊遺體供養`_ \ (Buddhasarīrapūjā); Homage to the Remains
+  - `世尊遺體供養`_ (Buddhasarīrapūjā); Homage to the Remains
 
-  - \ `大迦葉的事`_ \ (Mahākassapattheravatthu); The Story concerning Mahākassapa
+  - `大迦葉的事`_ (Mahākassapattheravatthu); The Story concerning Mahākassapa
 
-  - \ `遺骨的分配`_ \ (Sarīradhātuvibhājanaṃ); The Distribution of the Relics; Partition of the Relics
+  - `遺骨的分配`_ (Sarīradhātuvibhājanaṃ); The Distribution of the Relics; Partition of the Relics
 
-  - \ `遺骨塔的尊敬`_ \ (Dhātuthūpapūjā)
+  - `遺骨塔的尊敬`_ (Dhātuthūpapūjā)
 
 --------------
 
@@ -9267,18 +9275,19 @@
 --------------
 
 備註：
+^^^^^^^
 
-.. [1] 〔註001〕　\ `巴利原典 <dn.16-CSCD.html>`__ \ 乃參考\ `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`_\ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD (`Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版請參考：\ `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ [original: 原始出處請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單“Tipiṭaka Scripts”中選 `Roman→Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Dīghanikāya → Mahāvaggapāḷi → `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ )。]
+.. [1] 〔註001〕　 `巴利原典 <{filename}dn16-cscd%zh.rst>`__  乃參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`_ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD (`Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版請參考： `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ [original: 原始出處請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單“Tipiṭaka Scripts”中選 `Roman→Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Dīghanikāya → Mahāvaggapāḷi → `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ )。]
 
-.. [2] 〔註002〕　本譯文請參考：`般涅槃大經；莊春江 <dn.16-ChuangCJ.html>`__ [原始出處請參考：`臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ → 13 → `長部16經/般涅槃大經(大品[第二]); 莊春江 <http://agama.buddhason.org/DN/DN16.htm>`__ 03/08/2015 15:48:37 更新]。
+.. [2] 〔註002〕　本譯文請參考：`般涅槃大經；莊春江 <{filename}dn16-chuangcj%zh.rst>`__ [原始出處請參考：`臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ → 13 → `長部16經/般涅槃大經(大品[第二]); 莊春江 <http://agama.buddhason.org/DN/DN16.htm>`__ 03/08/2015 15:48:37 更新]。
 
-.. [3] 〔註003〕　本譯文請參考：`【長部．十六．大般湼槃經】；蕭式球 <dn.16-SiuSK.html>`__ 〔原始出處請參考：\ `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__--5.1. 利文佛典選譯-- 5.1.1.長部 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359>`__\ （或\ `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__--南傳佛教 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=359>`__\ ）〕
+.. [3] 〔註003〕　本譯文請參考：`【長部．十六．大般湼槃經】；蕭式球 <{filename}dn16-siusk%zh.rst>`__ 〔原始出處請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__--5.1. 利文佛典選譯-- 5.1.1.長部 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359>`__ （或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__--南傳佛教 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=359>`__ ）〕
 
-.. [4] 〔註004〕　本譯文：\ `南傳大般涅槃經；巴宙譯 (1971 AD) <dn.16-Pachow-full-rst.html>`__ \ 
+.. [4] 〔註004〕　本譯文： `南傳大般涅槃經；巴宙譯 (1971 AD) <{filename}dn16-pachow-full%zh.rst>`__ 
 
-.. [5] 〔註005〕　此英譯為 **Ven.Ānandajoti Bhikkhu** [\ `阿難陀樵第尊者所譯 <dn16-anandajoti-Eng.pdf>`__ \ (edited and translated by Ven. Ānandajoti Bhikkhu)；請參考：The Discourse about the Great Emancipation (A Translation of Mahāparinibbānasutta (DN 16) (June, 2008 / 2552) [感恩　尊者慈允轉載(This is copied by courtesy of Ven. Ānandajoti Bhikkhu) 原始出處請參考(original): `The Discourse about the Great Emancipation (DN 16) <http://www.dhammatalks.net/ancient_buddhist_texts/Texts-and-ranslations/Mahaparinibbanasuttam/index.htm>`__ ( `Dhamma Talks <http://www.dhammatalks.net/>`__ (((((0))))) Attaining PEACE with KNOWING & SEEING a Handful of Leaves)]
+.. [5] 〔註005〕　請參考： `The Discourse about the Great Emancipation <{filename}/extra/tipitaka/sutta/digha/aanandajoti/index-TheDiscourse_about_theGreatEmancipation.html>`__ ;  `PDF <{filename}/extra/tipitaka/sutta/digha/aanandajoti/dn16-anandajoti-Eng.pdf>`__ ；A Translation of Mahāparinibbānasutta (DN 16) (June, 2008 / 2552), edited and translated by Ven. Ānandajoti Bhikkhu [感恩　阿難陀樵第尊者慈允轉載(This is copied by courtesy of Ven. Ānandajoti Bhikkhu)]；原始出處請參考(original: The Discourse about the Great Emancipation (DN 16)-- `English (英文) <http://www.ancient-buddhist-texts.net/English-Texts/Great-Emancipation/index.htm>`__ ; `Texts and Translations (巴英對照) <http://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/index.htm>`__ ] ( `Ancient Buddhist Texts <http://www.ancient-buddhist-texts.net/>`__  →  `Texts and Translations <http://www.ancient-buddhist-texts.net/Texts-and-Translations/TT-index.htm>`__ → `Ancient Buddhist Texts <http://www.ancient-buddhist-texts.net/index.htm>`__ )
 
-.. [6] 〔註006〕　此英譯為 **Sister Vajira & Francis Story**\ 所譯(請參考：\ `Maha-parinibbana Sutta: Last Days of the Buddha <dn.16.1-6.vaji.html>`__, translated from the Pali by **Sister Vajira & Francis Story** [原始出處請參考(original): Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story © 1998) <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ (`Access to Insight <http://www.accesstoinsight.org/>`__ → DN → `Digha Nikaya/The Long Discourses <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → DN 16: Maha-parinibbana Sutta — Last Days of the Buddha → Vajira/Story → Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ © 1998)
+.. [6] 〔註006〕　此英譯為 **Sister Vajira & Francis Story**\ 所譯(請參考： `Maha-parinibbana Sutta: Last Days of the Buddha <{filename}dn16-vaji%zh.rst>`__, translated from the Pali by **Sister Vajira & Francis Story** [原始出處請參考(original): Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story © 1998) <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ (`Access to Insight <http://www.accesstoinsight.org/>`__ → DN → `Digha Nikaya/The Long Discourses <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → DN 16: Maha-parinibbana Sutta — Last Days of the Buddha → Vajira/Story → Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ © 1998)
 
 .. [CFn001] 〔莊　註001〕　「如是我聞(SA/DA)；我聞如是(MA)；聞如是(AA)」，南傳作「我聽到這樣」(Evaṃ me sutaṃ，直譯為「這樣被我聽聞」，忽略文法則為「如是-我-聞」)，菩提比丘長老英譯為「我聽到這樣」(Thus have I heard)。 「如是我聞……歡喜奉行。」的經文格式，依印順法師的考定，這樣的格式，應該是在《增一阿含》或《增支部》成立的時代才形成的(參看《原始佛教聖典之集成》p.9)，南傳《相應部》多數經只簡略地指出發生地點，應該是比較早期的風貌。
 
@@ -9487,13 +9496,13 @@
 
 .. [CFn103] 〔莊　註103〕　「世間解」，南傳作「世間知者」(lokavidū，逐字直譯為「世間-知者；世間-賢明者」)，菩提比丘長老英譯為「世界的知道者」(knower of the world)。
 
-.. [CFn104] 〔莊　註104〕　「無上士調御丈夫(SA/GA)；無上調御丈夫(SA.909/923)；無上調御之師(GA.124)；無上士道法御(MA)；無上士道法御(AA)」，南傳作「應該被調御人的無上調御者」(anuttaro purisadammasārathi，另譯為「無上者、應該被調御人的調御者」)，菩提比丘長老英譯為「被馴服者的無可凌駕引導者」(unsurpassed leader of persons to be tamed)。按：「無上士調御丈夫」是一個稱號，詳細請參看\ `〈佛陀十號的釐清〉 <dn.16-ChuangCJ-app01.html>`_ \ （\ `原始出處 <http://agama.buddhason.org/book/bb/bb20.htm>`__ \）。
+.. [CFn104] 〔莊　註104〕　「無上士調御丈夫(SA/GA)；無上調御丈夫(SA.909/923)；無上調御之師(GA.124)；無上士道法御(MA)；無上士道法御(AA)」，南傳作「應該被調御人的無上調御者」(anuttaro purisadammasārathi，另譯為「無上者、應該被調御人的調御者」)，菩提比丘長老英譯為「被馴服者的無可凌駕引導者」(unsurpassed leader of persons to be tamed)。按：「無上士調御丈夫」是一個稱號，詳細請參看 `〈佛陀十號的釐清〉 <dn.16-ChuangCJ-app01.html>`_ （ `原始出處 <http://agama.buddhason.org/book/bb/bb20.htm>`__ \）。
 
 .. [CFn105] 〔莊　註105〕　「天人師」，南傳作「人天之師」(satthā devamanussānaṃ，逐字直譯為「師-天+人」，另譯為「天與人的大師」)，菩提比丘長老英譯為「天與人的老師」(teacher of devas and humans)。
 
 .. [CFn106] 〔莊　註106〕　「佛；佛陀」(buddho，義譯為「覺者」)，菩提比丘長老英譯為「開化者」(the Enlightened One)。
 
-.. [CFn107] 〔莊　註107〕　「世尊；眾祐」(bhagavā，音譯為「婆伽婆；婆伽梵；薄伽梵」，義譯為「有幸者」，古譯為「尊祐」)，菩提比丘長老英譯為「幸福者」(the Blessed One)。請參看\ `〈世尊譯詞的探討〉 <dn.16-ChuangCJ-app02.html>`_ \ （\ `原始出處 <http://agama.buddhason.org/book/bb/bb21.htm>`__ \）
+.. [CFn107] 〔莊　註107〕　「世尊；眾祐」(bhagavā，音譯為「婆伽婆；婆伽梵；薄伽梵」，義譯為「有幸者」，古譯為「尊祐」)，菩提比丘長老英譯為「幸福者」(the Blessed One)。請參看 `〈世尊譯詞的探討〉 <dn.16-ChuangCJ-app02.html>`_ （ `原始出處 <http://agama.buddhason.org/book/bb/bb21.htm>`__ \）
 
 .. [CFn108] 〔莊　註108〕　「善向(SA)；善趣向(MA)」，南傳作「依善而行者」(suppaṭipanno)，菩提比丘長老英譯為「實行好的路」(practising the good way)。
 
@@ -9531,7 +9540,7 @@
 
 .. [CFn125] 〔莊　註125〕　「多修習」(bahulīkaroti，逐字直譯為「多+作」)，菩提比丘長老英譯為「鍛鍊」(cultivates, AN.4.170)。
 
-.. [CFn126] 〔莊　註126〕　「四如意足」，南傳作「四神足」(catunnaṃ iddhipādānaṃ；另譯為「四如意足」)，Maurice Walshe先生英譯為「四條他能通往力量之路」(four road to power he can)。「如意足」(iddhipādānaṃ)菩提比丘長老英譯為「超常力量的基礎」(the basis for spiritual power, SN.51.15)。「四神足」的內容，參看\ `《雜阿含561經》 <http://agama.buddhason.org/SA/SA0561.htm>`_ \、\ `《中阿含70經》 <http://agama.buddhason.org/MA/MA070.htm>`_ \、\ `《增壹阿含258經》 <http://agama.buddhason.org/AA/AA258.htm>`_ \。
+.. [CFn126] 〔莊　註126〕　「四如意足」，南傳作「四神足」(catunnaṃ iddhipādānaṃ；另譯為「四如意足」)，Maurice Walshe先生英譯為「四條他能通往力量之路」(four road to power he can)。「如意足」(iddhipādānaṃ)菩提比丘長老英譯為「超常力量的基礎」(the basis for spiritual power, SN.51.15)。「四神足」的內容，參看 `《雜阿含561經》 <http://agama.buddhason.org/SA/SA0561.htm>`_ \、 `《中阿含70經》 <http://agama.buddhason.org/MA/MA070.htm>`_ \、 `《增壹阿含258經》 <http://agama.buddhason.org/AA/AA258.htm>`_ \。
 
 .. [CFn127] 〔莊　註127〕　「一劫有餘(DA.2)」，南傳作「一劫剩餘的時間」(kappāvasesaṃ)，菩提比丘長老英譯為「一劫的剩餘」(the remainder of an eon, AN.8.70)。
 
@@ -9585,13 +9594,13 @@
 
 .. [CFn152] 〔莊　註152〕　「四正斷；四正勤；四意斷」」，南傳作「在四正勤上」(Catūsu sammappadhānesu，另譯為「在四個正確的勤奮上」)，菩提比丘長老英譯為「在四個正確的努力上」(in the four right strivings)。「勤」(padhāna)，另譯為「精勤；斷；勤奮」。
 
-.. [CFn153] 〔莊　註153〕　「八聖道；八正道；八真行；八真直行；賢聖八道品；賢聖八品道」，南傳作「八支聖道」(ariyo aṭṭhaṅgiko maggo, Ariyañcaṭṭhaṅgikaṃ maggaṃ)，菩提比丘長老英譯為「八層的高潔之路」(Noble Eightfold Path)。其內容個別比對，參看\ `《雜阿含70經》 <http://agama.buddhason.org/SA/SA0070.htm>`_ \。
+.. [CFn153] 〔莊　註153〕　「八聖道；八正道；八真行；八真直行；賢聖八道品；賢聖八品道」，南傳作「八支聖道」(ariyo aṭṭhaṅgiko maggo, Ariyañcaṭṭhaṅgikaṃ maggaṃ)，菩提比丘長老英譯為「八層的高潔之路」(Noble Eightfold Path)。其內容個別比對，參看 `《雜阿含70經》 <http://agama.buddhason.org/SA/SA0070.htm>`_ \。
 
 .. [CFn154] 〔莊　註154〕　「磨滅法」，南傳作「消散法」(vayadhammo)，菩提比丘長老英譯為「屬於消散者」(subject to vanishing)，或「消散性質」(the nature of vanishing, SN.47.40)。這裡的「法」不是指「正法」。
 
 .. [CFn155] 〔莊　註155〕　「定」(samādhi)，音譯為「三摩地；三摩提；三昧」，義譯為「等持」)，菩提比丘長老英譯為「集中貫注」(concentration)。
 
-.. [CFn156] 〔莊　註156〕　「有眼者」(cakkhumā)，菩提比丘長老英譯為「有眼光者」(the one with vision, AN.7.66)，並在SN.6.1的註解中說明「有眼者」是指佛陀，參看\ `《雜阿含1192經》 <http://agama.buddhason.org/SA/SA1192.htm>`_ \「有眼者」比對。
+.. [CFn156] 〔莊　註156〕　「有眼者」(cakkhumā)，菩提比丘長老英譯為「有眼光者」(the one with vision, AN.7.66)，並在SN.6.1的註解中說明「有眼者」是指佛陀，參看 `《雜阿含1192經》 <http://agama.buddhason.org/SA/SA1192.htm>`_ \「有眼者」比對。
 
 .. [CFn157] 〔莊　註157〕　「四大教法(DA.2)；四大廣演(AA)」，南傳作「四大法教」(cattāro… mahāpadese)，菩提比丘長老英譯為「四大參考」(four great references)。「法教」(padese)，另譯為「教示；指示」，又譯為「地方；國土；場所；部分；限定；區域」，後者應該不適合於本經。
 
@@ -9679,7 +9688,7 @@
 
 .. [CFn199] 〔莊　註199〕　「以偈頌」(gāthāya，原形gāthā音譯為「伽陀」，或簡為「偈」)，菩提比丘長老英譯為「以詩」(in verse)。巴利語之偈頌，對音節數目與音韻有其一定的規則，中文的「詩賦」與之相當，古漢譯都以「詩」的形式翻譯，而比對菩提比丘長老的英譯，常發現其對有些字，乃至句的順序與原文大不相同，作了大幅更動以譯出其真正的含意與韻味，譯者對兩者均無力涉略，只能按原文直譯，不去琢磨所譯的字數與音韻了。
 
-.. [CFn200] 〔莊　註200〕　「釋提桓因(音譯)；天王釋；天帝釋(義譯)」(sakko devānamindo，另音譯為「釋提桓因陀羅」，另義譯為「諸天之王釋天」)，菩提比丘長老英譯為「神的統治者，Sakka」(Sakka, ruler of gods或Sakka, lord of the devas)，其名字為「拘翼；俱尸迦；憍尸迦」(kosiya)，菩提比丘長老註解說此字的意思是「貓頭鷹」(the owl)，常見的別名尚有「千眼、帝釋、舍脂夫、須闍之夫、襪瑟哇、摩伽婆、釋脂之夫摩佉婆」，參看\ `《雜阿含1106經》 <http://agama.buddhason.org/SA/SA1106.htm>`_ \。
+.. [CFn200] 〔莊　註200〕　「釋提桓因(音譯)；天王釋；天帝釋(義譯)」(sakko devānamindo，另音譯為「釋提桓因陀羅」，另義譯為「諸天之王釋天」)，菩提比丘長老英譯為「神的統治者，Sakka」(Sakka, ruler of gods或Sakka, lord of the devas)，其名字為「拘翼；俱尸迦；憍尸迦」(kosiya)，菩提比丘長老註解說此字的意思是「貓頭鷹」(the owl)，常見的別名尚有「千眼、帝釋、舍脂夫、須闍之夫、襪瑟哇、摩伽婆、釋脂之夫摩佉婆」，參看 `《雜阿含1106經》 <http://agama.buddhason.org/SA/SA1106.htm>`_ \。
 
 .. [CFn201] 〔莊　註201〕　「對像這樣的」(tādino，另譯為「堅固的」)，菩提比丘長老英譯為「穩固者」(the Stable One, SN.7.2)，並解說，這是將「tādī」依註釋的註解譯為「穩固者」，指佛陀。
 
@@ -10299,3 +10308,17 @@
 
 .. [VFn65] (Vajira-Francis 065) Comy. ascribes these verses to the "Elders of Tambapanni Island (Sri Lanka)."
 
+
+..
+  11.16 rev. tag 
+  11.14 rev. 目錄; add: ver. memo
+        del: :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn16.contrast-reading-full.rst
+  06.01 remove (巴利系佛教史綱　第六章　聖典　二　摘錄) to template-- (theme/templates/layout/co… 
+  05.18 delete link of pdf for itself and add {filename} for some files
+  05.13 add thanks to Db. Siong-Ui's js and correct &/ add linking of 巴利系佛教史綱… 
+  05.12 correct linking of 巴利系佛教史綱　第六章　聖典　二　摘錄
+  05.01 change oldurl
+  2016-03-31 舊文移植：長部16經 大般涅槃經 整部多譯本對讀
+  ------
+  05.31 10:00 add: 對讀版本選項
+  2015-03-18 created from rst ~ 04-21 16:30 finished 

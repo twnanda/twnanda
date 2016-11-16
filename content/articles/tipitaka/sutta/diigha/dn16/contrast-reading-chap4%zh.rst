@@ -2,13 +2,10 @@
 #######################################
 
 :date: 2015-04-21 16:30
-:modified: 2016-05-13 15:00
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn16.contrast-reading-chap4.rst
-:tags: 大般涅槃經對讀, 般涅槃大經對讀, DN16 Mahāparinibbānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, DN 16, Dn16, Dn 16
+:modified: 2016-11-16 16:00
+:tags: 大般涅槃經對讀, 般涅槃大經對讀, DN16 Mahāparinibbānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, 大般涅槃經, 南傳大般涅槃經, 大般湼槃經, 般涅槃大經, D16 Mahāparinibbānasuttaṃ, D16, Mahāparinibbānasuttaṃ, DN 16, Dn16, dn16, dn 16, 巴利三藏長部
 :category: 巴利三藏長部
 :summary: 大般涅槃經 (般涅槃大經) 多譯本對讀(段層次) 第四頌（第四章）, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, Chapter 4
-
-.. created from 2015.03.18
 
 .. list-table:: 《大般涅槃經》多譯本對讀(分章及整部) Content of Mahāparinibbānasuttaṃ
    :widths: 14 14 14 14 14 14 16 
@@ -40,21 +37,22 @@
 
 ---------------------------
 
-- 本頌細目
+本頌（第四章：世尊最後一餐 The Last Meal）細目
+-----------------------------------------------
 
-  - 第 四 章：世尊最後一餐， `龍象回顧`_ (Nāgāpalokitaṃ); The Fourth Chapter for Recitation, The Four Noble Things; Part Four: The Last Meal, The Elephant's Look
+- `龍象回顧`_ (Nāgāpalokitaṃ); The Elephant's Look
 
-  - `四大法教`_ (Catumahāpadesakathā); The Four Great Referalls; The Four Great References
+- `四大法教`_ (Catumahāpadesakathā); The Four Great Referalls; The Four Noble Things; The Four Great References
   
-  - `鐵匠之子純陀的事`_ (Kammāraputtacundavatthu); The Last Meal; The Buddha's Last Meal
+- `鐵匠之子純陀的事`_ (Kammāraputtacundavatthu); The Last Meal; The Buddha's Last Meal
 
-  - `取水`_ (Pānīyāharaṇaṃ); Bringing Drinking Water; The Clearing of the Waters
+- `取水`_ (Pānīyāharaṇaṃ); Bringing Drinking Water; The Clearing of the Waters
 
-  - `末羅人之子晡古色的事`_ (Pukkusamallaputtavatthu); The Story concerning Pukkusa Mallaputta; Pukkusa the Malla
+- `末羅人之子晡古色的事`_ (Pukkusamallaputtavatthu); The Story concerning Pukkusa Mallaputta; Pukkusa the Malla
 
-    - `At the Kakuttha River`_ ; 在迦俱陀河
+  * `At the Kakuttha River`_ ; 在迦俱陀河
     
-    - `Cunda's Great Gain`_ ; 純陀的大獲得; Relieving Cunda's Remorse; 解除純陀的懊悔
+  * `Cunda's Great Gain`_ ; 純陀的大獲得; Relieving Cunda's Remorse; 解除純陀的懊悔
 
 --------------
 
@@ -1440,19 +1438,19 @@
 --------------
 
 備註：
+^^^^^^^
 
-.. [1] 〔註001〕　\ `巴利原典 <dn.16-CSCD.html>`__ \ 乃參考\ `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`_\ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD (`Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版請參考：\ `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ [original: 原始出處請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單“Tipiṭaka Scripts”中選 `Roman→Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Dīghanikāya → Mahāvaggapāḷi → `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ )。]
+.. [1] 〔註001〕　 `巴利原典 <{filename}dn16-cscd%zh.rst>`__  乃參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`_ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD (`Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版請參考： `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ [original: 原始出處請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單“Tipiṭaka Scripts”中選 `Roman→Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Dīghanikāya → Mahāvaggapāḷi → `3. Mahāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ )。]
 
-.. [2] 〔註002〕　本譯文請參考：`般涅槃大經；莊春江 <dn.16-ChuangCJ.html>`__ [原始出處請參考：`臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ → 13 → `長部16經/般涅槃大經(大品[第二]); 莊春江 <http://agama.buddhason.org/DN/DN16.htm>`__ 03/08/2015 15:48:37 更新]。
+.. [2] 〔註002〕　本譯文請參考：`般涅槃大經；莊春江 <{filename}dn16-chuangcj%zh.rst>`__ [原始出處請參考：`臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ → 13 → `長部16經/般涅槃大經(大品[第二]); 莊春江 <http://agama.buddhason.org/DN/DN16.htm>`__ 03/08/2015 15:48:37 更新]。
 
-.. [3] 〔註003〕　本譯文請參考：`【長部．十六．大般湼槃經】；蕭式球 <dn.16-SiuSK.html>`__ 〔原始出處請參考：\ `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__--5.1. 利文佛典選譯-- 5.1.1.長部 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359>`__\ （或\ `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__--南傳佛教 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=359>`__\ ）〕
+.. [3] 〔註003〕　本譯文請參考：`【長部．十六．大般湼槃經】；蕭式球 <{filename}dn16-siusk%zh.rst>`__ 〔原始出處請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__--5.1. 利文佛典選譯-- 5.1.1.長部 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359>`__ （或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__--南傳佛教 → 16 大般湼槃經 → `長部．十六．大般湼槃經　　蕭式球 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=359>`__ ）〕
 
-.. [4] 〔註004〕　本譯文：\ `南傳大般涅槃經；巴宙譯 (1971 AD) <dn.16-Pachow-full-rst.html>`__ \ 
+.. [4] 〔註004〕　本譯文： `南傳大般涅槃經；巴宙譯 (1971 AD) <{filename}dn16-pachow-full%zh.rst>`__ 
 
-.. [5] 〔註005〕　此英譯為 **Ven.Ānandajoti Bhikkhu** [\ `阿難陀樵第尊者所譯 <dn16-anandajoti-Eng.pdf>`__ \ (edited and translated by Ven. Ānandajoti Bhikkhu)；請參考：The Discourse about the Great Emancipation (A Translation of Mahāparinibbānasutta (DN 16) (June, 2008 / 2552) [感恩　尊者慈允轉載(This is copied by courtesy of Ven. Ānandajoti Bhikkhu) 原始出處請參考(original): `The Discourse about the Great Emancipation (DN 16) <http://www.dhammatalks.net/ancient_buddhist_texts/Texts-and-ranslations/Mahaparinibbanasuttam/index.htm>`__ ( `Dhamma Talks <http://www.dhammatalks.net/>`__ (((((0))))) Attaining PEACE with KNOWING & SEEING a Handful of Leaves)]
+.. [5] 〔註005〕　請參考： `The Discourse about the Great Emancipation <{filename}/extra/tipitaka/sutta/digha/aanandajoti/index-TheDiscourse_about_theGreatEmancipation.html>`__ ;  `PDF <{filename}/extra/tipitaka/sutta/digha/aanandajoti/dn16-anandajoti-Eng.pdf>`__ ；A Translation of Mahāparinibbānasutta (DN 16) (June, 2008 / 2552), edited and translated by Ven. Ānandajoti Bhikkhu [感恩　阿難陀樵第尊者慈允轉載(This is copied by courtesy of Ven. Ānandajoti Bhikkhu)]；原始出處請參考(original: The Discourse about the Great Emancipation (DN 16)-- `English (英文) <http://www.ancient-buddhist-texts.net/English-Texts/Great-Emancipation/index.htm>`__ ; `Texts and Translations (巴英對照) <http://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/index.htm>`__ ] ( `Ancient Buddhist Texts <http://www.ancient-buddhist-texts.net/>`__  →  `Texts and Translations <http://www.ancient-buddhist-texts.net/Texts-and-Translations/TT-index.htm>`__ → `Ancient Buddhist Texts <http://www.ancient-buddhist-texts.net/index.htm>`__ )
 
-.. [6] 〔註006〕　此英譯為 **Sister Vajira & Francis Story**\ 所譯(請參考：\ `Maha-parinibbana Sutta: Last Days of the Buddha <dn.16.1-6.vaji.html>`__, translated from the Pali by **Sister Vajira & Francis Story** [原始出處請參考(original): Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story © 1998) <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ (`Access to Insight <http://www.accesstoinsight.org/>`__ → DN → `Digha Nikaya/The Long Discourses <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → DN 16: Maha-parinibbana Sutta — Last Days of the Buddha → Vajira/Story → Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ © 1998)
-
+.. [6] 〔註006〕　此英譯為 **Sister Vajira & Francis Story**\ 所譯(請參考： `Maha-parinibbana Sutta: Last Days of the Buddha <{filename}dn16-vaji%zh.rst>`__, translated from the Pali by **Sister Vajira & Francis Story** [原始出處請參考(original): Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story © 1998) <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ (`Access to Insight <http://www.accesstoinsight.org/>`__ → DN → `Digha Nikaya/The Long Discourses <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → DN 16: Maha-parinibbana Sutta — Last Days of the Buddha → Vajira/Story → Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ © 1998)
 
 .. [CFn010] 〔莊　註010〕　「瞿曇」，南傳作「喬達摩」(gotama)，菩提比丘長老英譯照錄原文。按：「喬達摩」(gotama，古音譯為「瞿曇」)，其意思為「黑(tama)牛(go)」，為釋迦牟尼佛、尊者阿難家族的姓。
 
@@ -1583,3 +1581,15 @@
 
 .. [VFn40] (Vajira-Francis 040) Alara Kalama was one of the Buddha's teachers before his Enlightenment. He taught the Bodhisatta how to attain the sphere of nothingness, but could not show him the path to Nibbana.
 
+..
+  11.16 rev. rev tag & footnote 1~6; 本頌細目; add: ver. memo
+        del: :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn16.contrast-reading-chap4.rst
+  06.01 remove (巴利系佛教史綱　第六章　聖典　二　摘錄) to template-- (theme/templates/layout/co… 
+  05.18 delete link of pdf for itself and add {filename} for some files
+  05.13 add thanks to Db. Siong-Ui's js and correct &/ add linking of 巴利系佛教史綱… 
+  05.12 correct linking of 巴利系佛教史綱　第六章　聖典　二　摘錄
+  05.01 change oldurl
+  2016-03-31 舊文移植：長部16經 第四頌 - 大般涅槃經 多譯本對讀
+  ------
+  05.31 10:00 add: 對讀版本選項
+  2015-04-21 created from rst 

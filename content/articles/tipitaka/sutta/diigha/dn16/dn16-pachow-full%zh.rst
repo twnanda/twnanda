@@ -5,7 +5,7 @@
 :date: 2015-03-25 20:40
 :modified: 2016-11-14 15:00
 :author: 巴宙
-:tags: 南傳大般涅槃經, 大般涅槃經, 巴利三藏長部
+:tags: 南傳大般涅槃經, 巴宙, 大般涅槃經, 大般湼槃經, 般涅槃大經, D16 Mahāparinibbānasuttaṃ, D16, Mahāparinibbānasuttaṃ, DN 16, Dn16, dn16, dn 16, 巴利三藏長部
 :category: 巴利三藏長部
 :summary: 南傳大般涅槃經, Mahāparinibbānasuttaṃ, 巴　宙譯,  (1971 CE)
 
@@ -27,7 +27,7 @@
 ====
 
 .. list-table:: 南傳大般涅槃經(Mahāparinibbānasuttaṃ, 巴　宙譯)目錄
-   :widths: 16 14 14 14 14 14 14
+   :widths: 14 14 14 14 14 14 14
    :header-rows: 0
 
    * - 序言_
@@ -1571,6 +1571,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  11.15 rev. tag
   2016-11-14 add preface & ver. memo; del: oldurl
   2016-11-11 add upper dir at the bottom
   ------

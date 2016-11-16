@@ -2,8 +2,8 @@
 #######################################
 
 :date: 2015-04-21 16:30
-:modified: 2016-11-14 22:00
-:tags: 大般涅槃經對讀, 般涅槃大經對讀, DN16 Mahāparinibbānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, DN 16, Dn16, Dn 16
+:modified: 2016-11-16 15:00
+:tags: 大般涅槃經對讀, 般涅槃大經對讀, DN16 Mahāparinibbānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, 大般涅槃經, 南傳大般涅槃經, 大般湼槃經, 般涅槃大經, D16 Mahāparinibbānasuttaṃ, D16, Mahāparinibbānasuttaṃ, DN 16, Dn16, dn16, dn 16, 巴利三藏長部
 :category: 巴利三藏長部
 :summary: 大般涅槃經 (般涅槃大經) 多譯本對讀(段層次) 第二頌（第二章）, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, Chapter 2
 
@@ -1248,17 +1248,25 @@
 
 .. [CFn112] 〔莊　註112〕　「身身觀念處；身身觀住；住身念處；觀身如身；觀內身如身；內身觀」，南傳作「住於在自己的身上隨觀身」(ajjhattaṃ kāye kāyānupassī viharati，逐字直譯為「內-身-身+隨觀-住」)，菩提比丘長老英譯為「住於在內在的身體凝視著身體」(dwells contemplating the body in the body internally)，並解說「在身上隨觀身」(kāye kāyānupassī)是「以將之從其它隔離(如受、心等)，決定所緣(身)」(“to determine the object (the body) by isolating it” from other things such as feeling, mind, etc.)，「凝視著身只是身而已，不是常、樂、我、淨(美)」(one contemplates only the body as such, not as permanent, pleasurable, a self, or beautiful)，其它「受」、「心」、「法」亦同。
 
-.. [CFn113] FIXME
-.. [CFn114] FIXME
-.. [CFn115] FIXME
-.. [CFn116] FIXME
-.. [CFn117] FIXME
-.. [CFn118] FIXME
-.. [CFn119] FIXME
-.. [CFn120] FIXME
-.. [CFn121] FIXME
-.. [CFn122] FIXME
+.. [CFn113] 〔莊　註113〕　「正知於行為者」(sampajānakārī，逐字直譯為「正知+作者」)，菩提比丘長老英譯為「以清楚的理解而行動者」(who acts with clear comprehension)。
 
+.. [CFn114] 〔莊　註114〕　「大衣」(saṅghāṭi，音譯為「僧伽梨；僧迦梨；僧迦利」，另譯為「重衣」)，菩提比丘長老英譯為「外衣」(outer robe)。
+
+.. [CFn115] 〔莊　註115〕　「交錯[而過]」(paṭivaṭṭesi，原意為「反轉；逆轉」)，Maurice Walshe先生英譯為「遇見」(met)，Sister Vajira & Francis Story英譯為「對開；錯車」(drove up against)。
+
+.. [CFn116] 〔莊　註116〕　「結夏安居；夏安居」、「夏坐安居」(GA)、「夏坐」(MA)，南傳作「雨季安居」(vassāvāsaṃ, vassaṃ，另譯為「雨安居；雨季的住所」)，菩提比丘長老英譯為「雨季駐留」(the rains residence)。「住過雨季安居」(vassaṃvuttho)按：佛陀制訂在雨季期間，出家佛弟子應選擇一固定的地方住下來，不再四處遊行，以避免行走的困難與危險之制度。當時，印度當地的雨季落在夏天的三個月期間，所以也稱為「結夏安居」。
+
+.. [CFn117] 〔莊　註117〕　「般涅槃」(parinibbāna，另譯為「般泥洹；圓寂；完全涅槃；遍涅槃」，名詞)，菩提比丘長老英譯為「最後的涅槃」(final nibbāna)。「般涅槃」(parinibbāyi, parinibbāti，動詞)，菩提比丘長老英譯為「達最後的涅槃」(attained final nibbāna)。
+
+.. [CFn118] 〔莊　註118〕　「壽命(DA.2)」，南傳作「壽命行」(jīvitasaṅkhāraṃ，另譯為「壽行」)，菩提比丘長老英譯為「生命力」(vital force, AN.8.70)。
+
+.. [CFn119] 〔莊　註119〕　「師傅留一手」(ācariyamuṭṭhi，逐字直譯為「師(阿闍梨)+拳；師的握拳」)，Maurice Walshe先生英譯為「老師的拳頭」(teacher's fist)。按：「師的握拳」指：老師教導時有所保留或弟子提問師未回答。
+
+.. [CFn120] 〔莊　註120〕　「方便修治(DA.2)」，南傳作「以包纏物交錯綑綁」(veṭhamissakena)，Maurice Walshe先生英譯為「以皮繩綑住」(by being strapped up)，並註解這裡的原文是「Vegha-missakena」(皮革帶子-相互交叉交錯，即：以皮帶綑綁)。按：此字各版本流傳差異頗大，另有作Vedhamissakena, Veḷumissakena, Vekhamissakena, Vekkhamissakena者。
+
+.. [CFn121] 〔莊　註121〕　「自洲(SA)；當自然法燈(MA)；當自熾燃(DA)；自熾然(AA)」，南傳作「以自己為依靠」(attadīpā)，Maurice Walshe先生英譯為「以你們自己為島嶼」(be islands unto yourselves)，菩提比丘長老英譯為「以你們自己為島嶼」(with yourselves as an island, SN.22.43)。按：「dīpa」有兩個意思，一是「燈火」，一是「洲島」，後者又引申為「庇護所」。
+
+.. [CFn122] 〔莊　註122〕　「自歸；自歸命(AA)」，南傳作「歸依」(saraṇaṃ gacchāmi)，菩提比丘長老英譯為「我前往依靠」(I go for refuge to)。
 
 .. [SFn04] 〔蕭　註04〕　阿羅漢至世尊是十個佛陀的稱號，漢傳佛教傳統上稱之為“如來十號” 。在《長部》的註釋《吉祥悅意》中，引《清淨道論》將無上士和調御者合為“無上的調御者” 而共成為九號。
 
@@ -1335,6 +1343,7 @@
 .. [VFn20] (Vajira-Francis 020) *Tamatagge*: a difficult word. Comy. takes it to stand for the superlative form, *aggatama*, "highest," but alludes also to the Pali word tama, "darkness." It is rather difficult to accept that a superlative suffix should be made to precede the word it qualifies. Tibetan and Chinese parallels (Waldschmidt, *Das Mahaparinirvana-sutra* Berlin, 1950-51) pp. 200 ff.) point to a meaning as "the highest." In the fragments of the Turfan Sanskrit version, these words are not preserved. Comy. says: "*Tamatagge* = *tama-agge*; the 't' in the middle is inserted for euphonic reasons. The meaning is: these are the very highest, the most eminent (*ime aggatama tamatagga*). Having cut every bondage of darkness (*tama-yoga*), those bhikkhus of mine will be on the very top, in the highest rank (*ativiya agge uttamabhave*). Among them those will be on the very summit (*ati-agge*) who are desirous of training; and those whose resort is the four foundations of mindfulness will be at the very top of them."
 
 .. 
+  11.16 rev tag, correct footnote CFn 113~122
   11.14 rev. footnote 1~6; 本頌細目; add: ver. memo
         del: :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn16.contrast-reading-chap2.rst
   06.01 remove (巴利系佛教史綱　第六章　聖典　二　摘錄) to template-- (theme/templates/layout/co… 
@@ -1342,7 +1351,7 @@
   05.13 add thanks to Db. Siong-Ui's js and correct &/ add linking of 巴利系佛教史綱… 
   05.12 correct linking of 巴利系佛教史綱　第六章　聖典　二　摘錄
   05.01 change oldurl
-  2016-03-31 舊文移植：長部16經 第一頌 - 大般涅槃經 多譯本對讀
+  2016-03-31 舊文移植：長部16經 第二頌 - 大般涅槃經 多譯本對讀
   ------
   05.31 10:00 add: 對讀版本選項
   2015-03-18 created from rst ~ 04-21 16:30 finished

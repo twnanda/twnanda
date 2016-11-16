@@ -2,8 +2,8 @@
 #######################################
 
 :date: 2015-04-21 16:30
-:modified: 2016-11-14 21:30
-:tags: 大般涅槃經對讀, 般涅槃大經對讀, DN16 Mahāparinibbānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, DN 16, Dn16, Dn 16
+:modified: 2016-11-16 16:30
+:tags: 大般涅槃經對讀, 般涅槃大經對讀, DN16 Mahāparinibbānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, 大般涅槃經, 南傳大般涅槃經, 大般湼槃經, 般涅槃大經, D16 Mahāparinibbānasuttaṃ, D16, Mahāparinibbānasuttaṃ, DN 16, Dn16, dn16, dn 16, 巴利三藏長部
 :category: 巴利三藏長部
 :summary: 大般涅槃經 (般涅槃大經) 多譯本對讀(段層次) 第一頌（第一章）, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, Chapter 1
 
@@ -2302,7 +2302,8 @@
 
 .. [VFn16] (Vajira-Francis 016) *Puta-bhedanam*. Comy. explains as the breaking open, the unpacking, of boxes (*puta*) of merchandise for the purpose of distribution. But probably it refers to the bursting open of the seed-box of the *patali* flower.
 
-.. 
+..
+  11.16 rev. tag 
   11.14 rev. footnote 1~6; 本頌細目; add: ver. memo
         del: :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn16.contrast-reading-chap1.rst
   06.01 remove (巴利系佛教史綱　第六章　聖典　二　摘錄) to template-- (theme/templates/layout/co… 

@@ -2,10 +2,10 @@
 ###########################################
 
 :date: 2015-03-08 15:48:37
-:modified: 2016-11-14 15:30
+:modified: 2016-11-15 15:30
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16-ChuangCJ.html
 :author: 莊春江
-:tags: 巴利三藏長部, 般涅槃大經, 莊春江, 大般涅槃經, D16 Mahāparinibbānasuttaṃ
+:tags: 般涅槃大經, 莊春江, 大般涅槃經, 南傳大般涅槃經, 大般湼槃經, D16 Mahāparinibbānasuttaṃ, D16, Mahāparinibbānasuttaṃ, DN 16, Dn16, dn16, dn 16, 巴利三藏長部
 :category: 巴利三藏長部
 :summary: 長部16經/般涅槃大經(大品〔第二〕)(莊春江譯)
 
@@ -2344,6 +2344,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  11.15 rev. tag
   2016-11-11 add ver. memo & upper dir at the bottom; 11-14 upload
   ------
   05.01 change oldurl-- oldurl: http://nanda.online-dhamma.net/Tipitaka/Sutta/Digha/Tipitaka/Sutta/Digha/dn.16-ChuangCJ.rst with http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/Tipitaka/Sutta/Digha/dn.16-ChuangCJ.rst
