@@ -1372,6 +1372,8 @@
    * - 巴利原典 (CSCD)\ [1]_ \ 
      - 183. ‘‘Nanu etaṃ evaṃ (syā. pī.), ānanda, mayā paṭikacceva paṭigacceva (sī. pī.) akkhātaṃ – ‘sabbeheva piyehi manāpehi nānābhāvo vinābhāvo aññathābhāvo. Taṃ kutettha, ānanda, labbhā, yaṃ taṃ jātaṃ bhūtaṃ saṅkhataṃ palokadhammaṃ, taṃ vata mā palujjīti netaṃ ṭhānaṃ vijjati’. Yaṃ kho panetaṃ, ānanda, tathāgatena cattaṃ vantaṃ muttaṃ pahīnaṃ paṭinissaṭṭhaṃ ossaṭṭho āyusaṅkhāro, ekaṃsena vācā bhāsitā – ‘na ciraṃ tathāgatassa parinibbānaṃ bhavissati. Ito tiṇṇaṃ māsānaṃ accayena tathāgato parinibbāyissatī’ti. Tañca taṃ vacanaṃ (sī.) tathāgato jīvitahetu puna paccāvamissatīti paccāgamissatīti (syā. ka.) netaṃ ṭhānaṃ vijjati. Āyāmānanda, yena mahāvanaṃ kūṭāgārasālā tenupasaṅkamissāmā’’ti. ‘‘Evaṃ, bhante’’ti kho āyasmā ānando bhagavato paccassosi.
 
+       Atha kho bhagavā āyasmatā ānandena saddhiṃ yena mahāvanaṃ kūṭāgārasālā tenupasaṅkami; upasaṅkamitvā āyasmantaṃ ānandaṃ āmantesi– “gaccha tvaṃ, ānanda, yāvatikā bhikkhū vesāliṃ upanissāya viharanti, te sabbe upaṭṭhānasālāyaṃ sannipātehī”ti. “Evaṃ, bhante”ti kho āyasmā ānando bhagavato paṭissutvā yāvatikā bhikkhū vesāliṃ upanissāya viharanti, te sabbe upaṭṭhānasālāyaṃ sannipātetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito kho āyasmā ānando bhagavantaṃ etadavoca “sannipatito, bhante, bhikkhusaṅgho, yassadāni, bhante, bhagavā kālaṃ maññatī”ti.
+
    * - 漢譯(莊春江 譯, 莊春江工作站)\ [2]_ \ 
      - 183. 阿難！以前這不是被我說過嗎？與一切所愛的、合意的分離、別離、異離。阿難！在這裡，這如何可得：凡那被生的、存在的、有為的、敗壞之法都不要被破壞，這是不可能的！而， 阿難！凡壽行被如來捨、吐、釋放、捨斷、斷念、捨棄，被〔他〕決定性說的話：『如來不久將般涅槃，三個月後如來將般涅槃。』者，因為活命的理由如來再收回，這是不可能的。來！阿難！我們去大林重閣講堂。」
       
