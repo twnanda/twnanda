@@ -2,7 +2,7 @@
 ##############################
 
 :date: 2015-04-21 16:30
-:modified: 2016-11-14 20:30
+:modified: 2016-12-07 22:00
 :tags: 大般涅槃經對讀, 般涅槃大經對讀, DN16 Mahāparinibbānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta, 大般涅槃經, 南傳大般涅槃經, 大般湼槃經, 般涅槃大經, D16 Mahāparinibbānasuttaṃ, D16, Mahāparinibbānasuttaṃ, DN 16, Dn16, dn16, dn 16, 巴利三藏長部
 :category: 巴利三藏長部
 :summary: 大般涅槃經 (般涅槃大經) 多譯本對讀(段層次) , Parallel Reading (paragraph granularity) of Mahāparinibbāna sutta
@@ -199,7 +199,12 @@
 
 .. [6] 〔註006〕　此英譯為 **Sister Vajira & Francis Story**\ 所譯(請參考： `Maha-parinibbana Sutta: Last Days of the Buddha <{filename}dn16-vaji%zh.rst>`__, translated from the Pali by **Sister Vajira & Francis Story** [原始出處請參考(original): Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story © 1998) <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ (`Access to Insight <http://www.accesstoinsight.org/>`__ → DN → `Digha Nikaya/The Long Discourses <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → DN 16: Maha-parinibbana Sutta — Last Days of the Buddha → Vajira/Story → Maha-parinibbana Sutta: Last Days of the Buddha: `Translated from the Pali by Sister Vajira & Francis Story <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ © 1998)
 
-.. 
+------
+
+資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`__ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2559; (12.07, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2016 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
+
+..
+  12.07 add: 資訊更新日期: 佛曆 (BE) 2559; (12.07, 西元 2016 CE)
   11.14 add: dn16-vaji%zh.rst, dn16-cscd%zh.rst, dn16-chuangcj%zh.rst, 
         dn16-siusk%zh.rst (dn.16.1-6.vaji.html) for footnote; ver. memo; 
         rev.  各頌細目 & old: `The Discourse about the Great Emancipation (DN 16) <http://www.dhammatalks.net/ancient_buddhist_texts/Texts-and-ranslations/Mahaparinibbanasuttam/index.htm>`__ ( `Dhamma Talks <http://www.dhammatalks.net/>`__ (((((0))))) Attaining PEACE with KNOWING & SEEING a Handful of Leaves)]
