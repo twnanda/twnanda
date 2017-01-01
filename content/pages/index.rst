@@ -1,4 +1,4 @@
-:modified: 2016-05-04T10:30+08:00
+:modified: 2017-01-01T20:00+08:00
 :slug: index
 :lang: zh
 :status: hidden
@@ -72,6 +72,7 @@
 
   * `呼籲安全地保存佛陀的舍利 <{filename}/extra/relics-of-the-buddha/Relics_of_the_Buddha.html>`_
   * `【新譯「尊者阿姜 曼傳」與「尊者阿姜 高傳」】相關訊息 <{filename}/articles/uncategorized/open-distribution-the-biography-ven-acariya-mun%zh.rst>`_
+  * `慈濟瓦禪師 (Bhante Sujiva) 佛法講座通告 <http://myweb.ncku.edu.tw/~lsn46/announce.html#dhamma-talk-Apr>`_
 
 - `文章選讀 <{filename}/articles/uncategorized/paper-selected%zh.rst>`_
 
@@ -80,6 +81,7 @@
     ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_])
 
 ..
+  2017.01.10 add: 慈濟瓦禪師(Bhante Sujiva)佛法講座通告
   05.04 del: 學佛社團
   02.04 2016 rev. 法句經 old:Tipitaka/Sutta/Khuddaka/Dhammapada/Dhammapada.htm;
                 覺悟之路 old:http://http//anicca.online-dhamma.net/
