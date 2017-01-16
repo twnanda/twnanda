@@ -2,7 +2,7 @@
 ===========
 
 :date: 2016-04-17 21:30
-:modified: 2017-01-16 17:00
+:modified: 2017-01-16 20:00
 :tags: 法句經研究, 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經研究
@@ -45,7 +45,12 @@
 
   * Dhammajoti, K. L., Bhikkhu 法光, (1995), The Chinese Version of Dharmapada, Translated with Introduction and Annotation 法句經之英譯及研究, University of Kelaniya, Sri Lanka.
 
-  * Falk, `Harry <https://www.academia.edu/11754140/A_new_G%C4%81ndh%C4%81r%C4%AB_Dharmapada>`__ , (2015), `A New Gāndhārī Dharmapada <https://www.academia.edu/11754140/A_new_G%C4%81ndh%C4%81r%C4%AB_Dharmapada>`_ (Texts from the Split Collection 3),  Annual Report of the International Research Institute for Advanced Buddhology at Soka University for the Academic Year 2015, pp. 23-62. The International Research Institute of Advanced Buddhology at Soka University, Tokyo, Japan.
+
+  * Falk, Harry, (2011), `The ‘Split’ Collection of Kharoṣṭhī Texts <https://www.academia.edu/3561702/split_collection>`__ ,  Annual Report of the International Research Institute for Advanced Buddhology at Soka University for the Academic Year 2011, pp. 13-23. The International Research Institute of Advanced Buddhology at Soka University, Tokyo, Japan.
+
+  * Falk, Harry & Ingo Strauch, (2014), “The Bajaur and Split Collections of Kharoṣṭhī Manuscripts within the context of Buddhist Gāndhārī Literature”, Paul Harrison & Jens-Uwe Hartmann (eds.), From Birch Bark to DigitalData: Recent Advances in Buddhist Manuscript Research (Österreichische Akademie der Wissenschaften, Phil.-Hist. Klasse, Denkschriften, 460 = Beiträge zur Kultur- und Geistesgeschichte Asiens, 80). Wien (Österreichische Akademie der Wissenschaften): 51-78.
+
+  * Falk, Harry, (2015), `A New Gāndhārī Dharmapada <https://www.academia.edu/11754140/A_new_G%C4%81ndh%C4%81r%C4%AB_Dharmapada>`_ (Texts from the Split Collection 3),  Annual Report of the International Research Institute for Advanced Buddhology at Soka University for the Academic Year 2015, pp. 23-62. The International Research Institute of Advanced Buddhology at Soka University, Tokyo, Japan.
 
   * Lenz, Timothy, Glass, Andrew, Bhikshu Dharmamitra, (2003), A New Version of the Gāndhārī Dharmapada and a Collection of Previous-Birth Stories, British Library Kharoṣṭhī Fragments, University of Washington Press, Seattle, USA and London, UK. 
 
@@ -194,7 +199,8 @@
    Norman, K. R., (1997), The Word of the Doctrine (Dhammapada), PTS, London, UK.
    
 
-   01.16 '17 add: 《法集要頌經》(T213)的翻譯議題; &《法句經》的「校讀」與「誤譯」
+   01.16 2017 add: 01.16 2017 add: Falk, Harry, (2011) & 2014
+                   《法集要頌經》(T213)的翻譯議題; &《法句經》的「校讀」與「誤譯」
              rev. 《正觀雜誌》old: <http://www.tt034.org.tw/pdf/index.htm>; 70期 `77-132頁(pdf) <http://www.tt034.org.tw/Download/pdf/70_02.pdf>; 72期 39-88頁， (pdf) <http://www.tt034.org.tw/Download/pdf/72_02.pdf; 資訊更新日期: 01.16, 佛曆 BE  2560; (西元 AD 2017) 
              <!-- Buddhist-Era-wiki-Han.htm; Buddhist-Era-wiki-Eng.htm //-->
              del: 蘇錦坤，(2015e)， `〈《法句經》(T210)的詮釋與翻譯---法光法師《法句經之英譯及研究》評介〉 <https://www.academia.edu/12947299/Book_Review_The_Chinese_Version_of_Dharmapada_Translated_with_Introduction_and_Annotation_%E6%B3%95%E5%85%89%E6%B3%95%E5%B8%AB_%E6%B3%95%E5%8F%A5%E7%B6%93%E4%B9%8B%E8%8B%B1%E8%AD%AF%E5%8F%8A%E7%A0%94%E7%A9%B6_%E8%A9%95%E4%BB%8B>`__ ，(2015e) (academia.edu); &  
