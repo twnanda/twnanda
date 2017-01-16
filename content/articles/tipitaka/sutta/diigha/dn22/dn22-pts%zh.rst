@@ -3,7 +3,8 @@ Mahāsatipaṭṭhānasuttaṃ (PTS)
 ==================================
 
 :date: 2015-11-11 11:00
-:modified: 2016-11-11 11:00
+:modified: 2017-01-16 21:00
+:old url: http://nanda.online-dhamma.net/extra/tipitaka/sutta/digha/dn.22-PTS.html
 :tags: Mahāsatipaṭṭhānasuttaṃ, dn22, DN22, PTS, 巴利三藏長部, 大念住經, 念住大經 
 :category: 巴利三藏長部
 :summary: Mahāsatipaṭṭhānasuttaṃ (PTS)
@@ -504,13 +505,15 @@ The text of this page ("DN II_utf8", by Public domain) is free of known copyrigh
 
 - `大念住經, 念住大經 Mahāsatipaṭṭhānasuttaṃ <{filename}dn22%zh.rst>`__
 
-- 大念住經 Mahāsatipaṭṭhānasuttaṃ `多譯本對讀(段層次) <{filename}contrast-reading-dn16%zh.rst>`__
+- 大念住經 Mahāsatipaṭṭhānasuttaṃ `多譯本對讀(段層次) <{filename}contrast-reading-dn22%zh.rst>`__
 
 - `經文選讀 <{filename}/articles/uncategorized/canon-selected%zh.rst>`__ 
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  01.16 2017 rev. rename contrast-reading-dn16%zh.rst with contrast-reading-dn22%zh.rst
+             add: old url
   2016-11-11 create in .rst
   - `Tipiṭaka <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
   ..  image:: /extra/img/cc-public-domain-88-31.jpg
