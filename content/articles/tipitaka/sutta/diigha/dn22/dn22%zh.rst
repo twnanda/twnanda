@@ -60,7 +60,7 @@
 
 - 巴、漢、英文多譯本對讀：
 
-  - `巴、漢、英對讀 <{filename}contrast-reading%zh.rst>`__ ：10 種譯本對讀〔 **本站** ：巴利原典(CSCD)、明法尊者(Ven. Bhikkhu Metta) 漢譯、莊春江 漢譯、蕭式球 漢譯、帕奧禪師弟子漢譯、Ven. Thanissaro Bhikkhu(英譯), Ven. Ānandajoti Bhikkhu(英譯)、Burma Piṭaka Association(英譯), Ven. Bhikkhu Anālayo (英譯, 漢譯) 〕
+  - `巴、漢、英對讀 <{filename}contrast-reading-dn22%zh.rst>`__ ：10 種譯本對讀〔 **本站** ：巴利原典(CSCD)、明法尊者(Ven. Bhikkhu Metta) 漢譯、莊春江 漢譯、蕭式球 漢譯、帕奧禪師弟子漢譯、Ven. Thanissaro Bhikkhu(英譯), Ven. Ānandajoti Bhikkhu(英譯)、Burma Piṭaka Association(英譯), Ven. Bhikkhu Anālayo (英譯, 漢譯) 〕
 
   - Pāḷi-English 巴、英對讀： `The Long Discourse about the Ways of Attending to Mindfulness <http://www.ancient-buddhist-texts.net/Texts-and-Translations/Satipatthana/index.htm>`__ \ , edited and translated by **Ānandajoti Bhikkhu** ( `Ancient Buddhist Texts <http://www.ancient-buddhist-texts.net/index.htm>`__ \ ); the other  `(mirror) <http://www.dhammatalks.net/ancient_buddhist_texts/Texts-and-Translations/Satipatthana/index.htm>`__ \ site  ( `Dhamma Talks <http://www.dhammatalks.net/>`__ \ (((((0))))) Attaining PEACE with KNOWING & SEEING a Handful of Leaves)
 
