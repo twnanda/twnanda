@@ -2,7 +2,7 @@ Majjhima-nikāya 中部 (Further Dialogues of the Buddha; The "Middle-length" Di
 ======================================================================================
 
 :date: 2003-07-13
-:modified: 2013-12-18
+:modified: 2017-01-16
 :tags: 中部尼柯耶, 中部, 尼柯耶, Majjhima nikāya, 巴利三藏中部
 :category: 巴利三藏中部
 :summary: Majjhima-nikāya 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
@@ -184,7 +184,7 @@ mūlapariyāyavaggo 根本法門品
 
       `增12. 1 四意止(大2. 568a) <http://myweb.ncku.edu.tw/~lsn46/Taisho/T02/T0125_005.htm#品第十二（一）>`__;
 
-      另可參考 `《長部 D. 22 Mahaasatipa.t.thaanasutta.m 大念處經》 <{filename}../diigha/dn22/contrast-reading%zh.rst>`__ (缺18~21.); (The Great Frames of Reference)
+      另可參考 `《長部 D. 22 Mahaasatipa.t.thaanasutta.m 大念處經》 <{filename}../diigha/dn22/contrast-reading-dn22%zh.rst>`__ 
 
 ----
 
@@ -1646,6 +1646,9 @@ saḷāyatanavaggo 六處品
 
 
 ..
+  01.16 2017 ren. contrast-reading%zh.rst with contrast-reading-dn22%zh.rst
+        del: 另可參考 (缺18~21.); (The Great Frames of Reference) @《長部 D. 22 Mahaasatipa.t.thaanasutta.m 大念處經》
+  -----------
   12.18 add: 版權屬十方法界，歡迎複製流傳；※※※  ※※※法義尊貴，請勿商品化流通！※※※
              願我們一起分享法施的功德、 願一切眾生受利樂、 願正法久住。
              META NAME="keywords" 
