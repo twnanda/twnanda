@@ -2,7 +2,7 @@
 ===========
 
 :date: 2016-04-17 21:30
-:modified: 2016-05-17 17:15
+:modified: 2017-01-16 17:00
 :tags: 法句經研究, 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經研究
@@ -107,15 +107,13 @@
 
 - 蘇錦坤，(2015d)， `〈《法句經》的翻譯議題與重譯偈頌〉 <http://yifertw.blogspot.tw/2015/11/blog-post_35.html>`_ ，《吳越佛教》第10輯48-67頁，杭州佛學院，杭州市，中國。[13]_
 
-- 蘇錦坤，(2015e)， `〈《法句經》(T210)的詮釋與翻譯---法光法師《法句經之英譯及研究》評介〉 <https://www.academia.edu/12947299/Book_Review_The_Chinese_Version_of_Dharmapada_Translated_with_Introduction_and_Annotation_%E6%B3%95%E5%85%89%E6%B3%95%E5%B8%AB_%E6%B3%95%E5%8F%A5%E7%B6%93%E4%B9%8B%E8%8B%B1%E8%AD%AF%E5%8F%8A%E7%A0%94%E7%A9%B6_%E8%A9%95%E4%BB%8B>`__ ，(2015e) (academia.edu)
+- 蘇錦坤，(2016)， `〈《法集要頌經》(T213)的翻譯議題〉 <http://yifertw.blogspot.tw/2017/01/t213.html>`__ ，《正觀79期》，99-171頁，南投縣，台灣。 [40]_
 
-- 蘇錦坤，(待發表)，〈《法集要頌經》的翻譯議題〉，
+- 蘇錦坤，(2016)， `〈《法句經》的「校讀」與「誤譯」〉 <http://yifertw.blogspot.tw/2017/01/blog-post_95.html>`__ ，《法鼓佛學學報》19期，93-158頁，法鼓文理學院，新北市，台灣。 [41]_
 
 - 蘇錦坤(待發表)，〈T210《法句經》的初譯偈頌與後譯偈頌〉。
 
-- 蘇錦坤(待發表)，〈T210《法句經》的校讀舉例〉
-
-- 蘇錦坤，〈漢譯佛教文獻的偈頌詮釋與翻譯 --《八犍度論》與《發智論》對勘〉，(待發表)。
+- 蘇錦坤(待發表)，〈漢譯佛教文獻的偈頌詮釋與翻譯 --《八犍度論》與《發智論》對勘〉。
 
 - 水野弘元，(1981)，《法句経の研究》，春秋社，東京，日本。昭和56 (1981)
 
@@ -152,7 +150,7 @@
 
 .. [13] `《吳越佛教》第10輯48-67頁 <https://www.academia.edu/17534484/Issues_on_Chinese_Dhammapadas_translation_%E6%B3%95%E5%8F%A5%E7%B6%93%E7%9A%84%E7%BF%BB%E8%AD%AF%E8%AD%B0%E9%A1%8C%E8%88%87%E9%87%8D%E8%AD%AF%E5%81%88%E9%A0%8C_2015_In_Chinese_>`_ (academia.edu 網站)，杭州佛學院，杭州市，中國。
 
-.. [14] `《正觀雜誌》 <http://www.tt034.org.tw/pdf/index.htm>`__ 72期， `39-88頁(pdf) <http://www.tt034.org.tw/Download/pdf/72_02.pdf>`_ ，南投縣，台灣； `另一連結 <https://www.academia.edu/17534897/The_Punctuation_and_Translation_Proposal_for_the_Trisyllabic_Verses_in_the_Faju_Jing_T210_%E6%B3%95%E5%8F%A5%E7%B6%93_%E4%B8%89%E8%A8%80_%E5%81%88%E9%A0%8C%E7%9A%84%E6%A8%99%E9%BB%9E%E8%88%87%E8%A9%A6%E8%AD%AF_2015_In_Chinese_>`__ (academia.edu 網站)
+.. [14] `《正觀雜誌》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__  （或 `佛學數位圖書館暨博物館 DLMBS <http://buddhism.lib.ntu.edu.tw/>`__ 之 `正觀雜誌=Satyabhisamaya: A Buddhist Studies Quarterly <http://buddhism.lib.ntu.edu.tw/DLMBS/toModule.do?prefix=/website&page=/periodical.jsp?seq=21>`__ ） 72期 39-88頁，《法句經》「三言」偈頌的標點與試譯 (pdf) <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1244&i=1>`_ ，南投縣，台灣； `另一連結 <https://www.academia.edu/17534897/The_Punctuation_and_Translation_Proposal_for_the_Trisyllabic_Verses_in_the_Faju_Jing_T210_%E6%B3%95%E5%8F%A5%E7%B6%93_%E4%B8%89%E8%A8%80_%E5%81%88%E9%A0%8C%E7%9A%84%E6%A8%99%E9%BB%9E%E8%88%87%E8%A9%A6%E8%AD%AF_2015_In_Chinese_>`__ (academia.edu 網站)
 
 .. [15] `《新加坡佛學研究學刊》 <http://www.bcs.edu.sg/index.php/bcs_en/journal/>`__ （The Singaporean Journal of Buddhist Studies） `第2期(pdf) <http://www.kmspks.org/wp-content/blogs.dir/1/files/BCS-Journal-2015-Vol-2-locked.pdf>`_ , 65-175頁，新加坡佛學院，新加坡。`另一連結 <https://www.academia.edu/17534620/Notes_on_Chu_Yao_Jing_T212_%E5%87%BA%E6%9B%9C%E7%B6%93_%E7%A0%94%E7%A9%B6_2015_in_Chinese_>`__ (academia.edu 網站)
 
@@ -164,7 +162,7 @@
 
 .. [19] `《福嚴佛學研究》9期，23-48頁(pdf) <http://www.fuyan.org.tw/download/FBS_vol9-2.pdf>`_ ，新竹市，台灣。`另一連結 <https://www.academia.edu/17534968/The_tetrasyllabic_verses_and_pentasyllabic_verses_of_the_Faju_jing_T210_%E6%B3%95%E5%8F%A5%E7%B6%93_%E7%9A%84_%E5%9B%9B%E8%A8%80%E5%81%88%E9%A0%8C_%E8%88%87_%E4%BA%94%E8%A8%80%E5%81%88%E9%A0%8C_2014_In_Chinese_>`__ (academia.edu 網站)。
 
-.. [20] 《正觀雜誌》70期， `77-132頁(pdf) <http://www.tt034.org.tw/Download/pdf/70_02.pdf>`_ ，南投縣，台灣。`另一連結 <https://www.academia.edu/17535001/T210_and_Its_Core_26_Chapters_%E6%B3%95%E5%8F%A5%E5%BA%8F_%E8%88%87_%E6%B3%95%E5%8F%A5%E7%B6%93_%E9%87%8D%E8%AD%AF%E5%81%88%E9%A0%8C_2014_in_Chinese_>`__ (academia.edu 網站)。
+.. [20] `《正觀雜誌》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__  （或 `佛學數位圖書館暨博物館 DLMBS <http://buddhism.lib.ntu.edu.tw/>`__ 之 `正觀雜誌=Satyabhisamaya: A Buddhist Studies Quarterly <http://buddhism.lib.ntu.edu.tw/DLMBS/toModule.do?prefix=/website&page=/periodical.jsp?seq=21>`__ ），70期 77-132頁，蘇錦坤 撰 ` ＜法句序＞與《法句經》重譯偈頌(pdf) <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1236&i=1>`_ ，南投縣，台灣。 `另一連結 <https://www.academia.edu/17535001/T210_and_Its_Core_26_Chapters_%E6%B3%95%E5%8F%A5%E5%BA%8F_%E8%88%87_%E6%B3%95%E5%8F%A5%E7%B6%93_%E9%87%8D%E8%AD%AF%E5%81%88%E9%A0%8C_2014_in_Chinese_>`__ (academia.edu 網站)。
 
 .. [21] “藏經閣外的掃葉人”網誌----`【台語與佛典】, 探討漢譯四阿含與巴利五部尼柯耶的教導，也介紹古漢譯和台語的關聯 <http://yifertw.blogspot.com/>`_
 
@@ -176,6 +174,16 @@
 
 .. [39] 駒澤大學佛教學部研究紀要。19, 11-33 ,19610300
 
+.. [40] `《正觀雜誌》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__  （或 `佛學數位圖書館暨博物館 DLMBS <http://buddhism.lib.ntu.edu.tw/>`__ 之 `正觀雜誌=Satyabhisamaya: A Buddhist Studies Quarterly <http://buddhism.lib.ntu.edu.tw/DLMBS/toModule.do?prefix=/website&page=/periodical.jsp?seq=21>`__ ） 79期， 99-111頁(pdf) ，南投縣，台灣。`另一連結 <https://www.academia.edu/30887434/2016_The_Translation_issues_of_T213_Faji_Yaosong_Jing_法集要頌經_T213_的翻譯議題>`__ (academia.edu 網站)。
+
+.. [41] `《法鼓佛學學報》 <https://sites.google.com/a/dila.edu.tw/scholarly_publishing/home/fa-gu-fu-xue-xue-bao>`__ （或 `佛學數位圖書館暨博物館 DLMBS <http://buddhism.lib.ntu.edu.tw/>`__ 之 `法鼓佛學學報=Dharma Drum Journal of Buddhist Studies <http://buddhism.lib.ntu.edu.tw/DLMBS/toModule.do?prefix=/website&page=/periodical_en.jsp?seq=48>`__ ）； `另一連結 <https://www.academia.edu/30888268/On_Issues_of_the_Translation_Errors_and_Collation_of_the_Faju_jing_T210_法句經_的_校讀_與_誤譯_>`__ (academia.edu 網站) 
+
+--------------
+
+| 資訊更新日期: 01.16, `佛曆 <https://zh.wikipedia.org/zh-tw/佛曆>`__ (`BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ )
+ 2560;
+|  ( `西元 <https://zh.wikipedia.org/wiki/公元>`__ C.E. 2017) 
+
 --------------
 
 - `法句經首頁  <{filename}../dhp%zh.rst>`__
@@ -184,3 +192,16 @@
 
 .. http://dhamma4khmer2.org/TripitakaEnglish/DHAMMAPADA.pdf
    Norman, K. R., (1997), The Word of the Doctrine (Dhammapada), PTS, London, UK.
+   
+
+   01.16 '17 add: 《法集要頌經》(T213)的翻譯議題; &《法句經》的「校讀」與「誤譯」
+             rev. 《正觀雜誌》old: <http://www.tt034.org.tw/pdf/index.htm>; 70期 `77-132頁(pdf) <http://www.tt034.org.tw/Download/pdf/70_02.pdf>; 72期 39-88頁， (pdf) <http://www.tt034.org.tw/Download/pdf/72_02.pdf; 資訊更新日期: 01.16, 佛曆 BE  2560; (西元 AD 2017) 
+             <!-- Buddhist-Era-wiki-Han.htm; Buddhist-Era-wiki-Eng.htm //-->
+             del: 蘇錦坤，(2015e)， `〈《法句經》(T210)的詮釋與翻譯---法光法師《法句經之英譯及研究》評介〉 <https://www.academia.edu/12947299/Book_Review_The_Chinese_Version_of_Dharmapada_Translated_with_Introduction_and_Annotation_%E6%B3%95%E5%85%89%E6%B3%95%E5%B8%AB_%E6%B3%95%E5%8F%A5%E7%B6%93%E4%B9%8B%E8%8B%B1%E8%AD%AF%E5%8F%8A%E7%A0%94%E7%A9%B6_%E8%A9%95%E4%BB%8B>`__ ，(2015e) (academia.edu); &  
+             蘇錦坤(待發表)，〈T210《法句經》的校讀舉例〉(分為兩篇-- 〈《法句經》的「校讀」與「誤譯」〉 & some other day 藉助漢譯來閱讀巴利《法句經》)
+   05.18 delete link of pdf for itself and add {filename} for some files
+   05.16 add {filename} for exactly make ncku
+   05.06 fix error @siongui
+   04.21 revise linking for 研究的基本書單, etc.; revise linking for 初學書單, etc.
+   04.19 revise linking of some files for subdirectory
+   2016. 04.17 add subdirectories (isolated from 法句經)
