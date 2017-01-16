@@ -74,8 +74,6 @@ note
 
 ------
 
-..  image:: ../../../../extra/img/cc-public-domain-88-31.jpg
-
 ©1993 Thanissaro Bhikkhu. The text of this page ("Dhammacakkappavattana Sutta: Setting the Wheel of Dhamma in Motion", by Thanissaro Bhikkhu) is licensed under a `Creative Commons Attribution-NonCommercial 4.0 International License <http://creativecommons.org/licenses/by-nc/4.0/>`__ . To view a copy of the license, visit http://creativecommons.org/licenses/by-nc/4.0/. Documents linked from this page may be subject to other restrictions. Transcribed from a file provided by the translator.	Last revised for Access to Insight on 30 November 2013.
 
 **How to cite this document** (a suggested style): "Dhammacakkappavattana Sutta: Setting the Wheel of Dhamma in Motion" (SN 56.11), translated from the Pali by Thanissaro Bhikkhu. Access to Insight (Legacy Edition), 30 November 2013, http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html .
@@ -93,6 +91,7 @@ note
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  image:: ../../../../extra/img/cc-public-domain-88-31.jpg
   2016-11-07 add: .rst
   - `Tipiṭaka <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
   -------
