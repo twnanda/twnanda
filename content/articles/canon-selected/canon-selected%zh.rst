@@ -21,7 +21,7 @@
 
 - (南傳巴利語) `大念處經 (念住大經) Mahāsatipaṭṭhānasuttaṃ <{filename}/articles/tipitaka/sutta/diigha/dn22/dn22%zh.rst>`__
 
-- 佛教經典中有關「病」之教誡 <{filename}/articles/canon-selected/gilaana-suttas-collection%zh.rst>`__
+- `佛教經典中有關「病」之教誡 <{filename}/articles/canon-selected/gilaana-suttas-collection%zh.rst>`__
 
 - `《清淨道論導讀-- 涅槃的北二高》 <{filename}/extra/authors/dharmagupta/ntro-vis.htm>`_ ：（ `護法法師 <{filename}/articles/dharmagupta/master-dharmagupta%zh.rst>`__ （Dharmagupta）與觀淨法師合著）
 
