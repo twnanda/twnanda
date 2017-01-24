@@ -1,4 +1,4 @@
-:modified: 2017-01-01T20:00+08:00
+:modified: 2017-01-24T17:30+08:00
 :slug: index
 :lang: zh
 :status: hidden
@@ -44,11 +44,17 @@
     大藏經 `概要 <{filename}/articles/tipitaka/tipitaka%zh.rst>`_
     、漢譯、英譯(備註：尚未完備;逐次增加中)。
 
-- `經文選讀 <{filename}/articles/uncategorized/canon-selected%zh.rst>`_
+- `經文選讀 <{filename}/articles/canon-selected/canon-selected%zh.rst>`_
 
   * (南傳) / `法句經 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp%zh.rst>`__ (`標籤為法句經之文章 <{tag}法句經>`_)
   * `《中部》經典閱讀地圖 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst>`_
-  * `小部經典選譯 <{filename}/extra/authors/nanda/man-o-r.htm>`_
+
+  * `法輪轉起經(轉法輪經, 初轉法輪經) <{filename}/articles/tipitaka/sutta/samyutta/sn56/sn56-011%zh.rst>`__
+
+  * (南傳巴利語) `大般涅槃經 <{filename}/articles/tipitaka/sutta/diigha/dn16/dn16%zh.rst>`__
+
+  * (南傳巴利語) `大念處經 <{filename}/articles/tipitaka/sutta/diigha/dn22/dn22%zh.rst>`__
+
   * `《清淨道論》 <{filename}/articles/anya/visuddhimagga/visuddhimagga%zh.rst>`_ 等等。
 
 - 佛教團體資源
@@ -81,6 +87,9 @@
     ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_])
 
 ..
+  01.24 create new category: 經文選讀
+        add: 法輪轉起經(轉法輪經, 初轉法輪經), 大般涅槃經, 大念處經, 佛教經典中有關「病」之教誡
+        del: * `小部經典選譯
   2017.01.10 add: 慈濟瓦禪師(Bhante Sujiva)佛法講座通告
   05.04 del: 學佛社團
   02.04 2016 rev. 法句經 old:Tipitaka/Sutta/Khuddaka/Dhammapada/Dhammapada.htm;
