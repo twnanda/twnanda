@@ -478,7 +478,7 @@ See also: `AN 3.72 <http://www.accesstoinsight.org/tipitaka/an/an03/an03.072.tha
 
 - 大般涅槃經 Mahāparinibbānasuttaṃ `多譯本對讀(段層次) <{filename}contrast-reading-dn16%zh.rst>`__
 
-- `經文選讀 <{filename}/articles/uncategorized/canon-selected%zh.rst>`__ 
+- `經文選讀 <{filename}/articles/canon-selected/canon-selected%zh.rst>`__ 
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
