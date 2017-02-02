@@ -1288,7 +1288,7 @@ _`相應部47相應9經` --病經(SN.47.9 Gilānasuttaṃ)
 
 - `病(蕭式球　譯) <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=353&page_id=0:120>`__ （ `香港【志蓮淨苑】文化部-- 佛學園圃-- 5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ → `47 念處相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=353>`__ (或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`_ -- 南傳佛教 → 47 念處相應) → `1 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=353&page_id=0:120>`__ → 九．病）
 
-- **參考經典** ： `長部16經《大般涅槃經》 <{filename}sutta/diigha/dn16/dn16%zh.rst>`__ -- `第二頌 <{filename}sutta/diigha/dn16/contrast-reading-chap2%zh.rst>`__ -- 在木瓜樹村進入雨季安居
+- **參考經典** ： `長部16經《大般涅槃經》 <{filename}/articles/tipitaka/sutta/diigha/dn16/dn16%zh.rst>`__ -- `第二頌 <{filename}/articles/tipitaka/sutta/diigha/dn16/contrast-reading-chap2%zh.rst>`__ -- 在木瓜樹村進入雨季安居
 
 ------
 
