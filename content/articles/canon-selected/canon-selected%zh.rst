@@ -2,8 +2,7 @@
 ########
 
 :date: 2016-02-13T16:05+08:00
-:modified: 2017-01-24 17:30
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/canon-selected.html
+:modified: 2017-02-02 17:30
 :tags: 
 :category: 經文選讀
 :summary: 經文選讀
@@ -25,13 +24,14 @@
 
 - `《清淨道論導讀-- 涅槃的北二高》 <{filename}/extra/authors/dharmagupta/ntro-vis.htm>`_ ：（ `護法法師 <{filename}/articles/dharmagupta/master-dharmagupta%zh.rst>`__ （Dharmagupta）與觀淨法師合著）
 
-- `《清淨道論》 <{category}清淨道論>`_ （南傳上座部佛教重要著作！）
+- `《清淨道論》 <{filename}../anya/visuddhimagga/visuddhimagga%zh.rst>`_ （南傳上座部佛教重要著作！）
 
 - `《攝阿毗達摩義論》 <{filename}../anya/abhidhammattha-sangaha%zh.rst>`_ （南傳上座部佛教重要著作！）
 
 - `小部經典選譯 <{filename}/extra/authors/nanda/man-o-r.htm>`_
 
 .. 
+  02.02 rev. old: 《清淨道論》{category}清淨道論; del::oldurl: http://myweb.ncku.edu.tw/~lsn46/canon-selected.html
   2017.01.24 create new category: 經文選讀
              add: 佛教經典中有關「病」之教誡
   ------
