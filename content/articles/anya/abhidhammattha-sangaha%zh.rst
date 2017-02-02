@@ -1,25 +1,22 @@
-Abhidhammatthasaṅgaho 阿毗達摩概要精解
-######################################
+Abhidhammatthasaṅgaho 攝阿毗達摩義論（阿毗達摩概要精解）
+#########################################################
 
 :date: 2000-07-08
-:modified: 2015-09-28
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Abhidhammattha-Sangaha/content.htm
-:tags: 藏外文獻
+:modified: 2017-02-02
+:tags: 藏外文獻, 攝阿毗達摩義論, Abhidhammatthasaṅgaho 阿毗達摩概要精解
 :category: 藏外文獻
-:summary: Abhidhammatthasaṅgaho 阿毗達摩概要精解
+:summary: Abhidhammatthasaṅgaho 攝阿毗達摩義論 (阿毗達摩概要精解)
 
 
-- `阿毗達摩概要精解 (A Comprehensive Manual of Abhidhamma) <{filename}/extra/authors/dhammagavesaka/bodhi2/content-Ven-Bodhi.htm>`_
+- 阿毗達摩概要精解 (A Comprehensive Manual of Abhidhamma)，英編者：菩提比丘 Bhikkhu Bodhi，中譯者：尋法比丘 Bhikkhu Dhammagavesaka：
 
-  英編者：菩提比丘 Bhikkhu Bodhi
+  - 中譯修訂版－2015 年4 月( `PDF <{filename}/extra/anya/abhidhammattha-sangaha/bodhi-abhidhammattha-sangaha/Ven-Bodhi-2-Dhammagavesaka-Han-Rev-2015-04.pdf>`__ );
 
-  中譯者：尋法比丘 Bhikkhu Dhammagavesaka (HTML, Mar. 1999)
+  - 2010 年9 月( `PDF <{filename}/extra/anya/abhidhammattha-sangaha/bodhi-abhidhammattha-sangaha/Ven-Bodhi-2-Dhammagavesaka-Rev-2010-09.pdf>`__ );
 
-  中譯修訂版－2015 年4 月(HTML, from:PDF);
+  - Mar. 1999 ( `HTML <{filename}/extra/anya/abhidhammattha-sangaha/bodhi-abhidhammattha-sangaha/content-Ven-Bodhi.htm>`__ )
 
-  (`PDF-- Sep. 2010 <http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Abhidhammattha-Sangaha/Ven-Bodhi-2-Dhammagavesaka/Ven-Bodhi-2-Dhammagavesaka-Rev-2010-09.pdf>`__)
-
-- `攝阿毗達摩義論 中譯者：葉均(早年出家法號：了參) <{filename}/extra/authors/yehchun/abhidhammattha-sangaha/content-liau-chan.htm>`_
+- `攝阿毗達摩義論 中譯者：葉均(早年出家法號：了參) <{filename}/extra/anya/abhidhammattha-sangaha/yehchun-abhidhammattha-sangaha/content-liau-chan.htm>`_
 
 ----
 
@@ -36,6 +33,12 @@ Abhidhammatthasaṅgaho 阿毗達摩概要精解
 `dhammarain.online-dhamma.net <http://dhammarain.online-dhamma.net/>`__ ）
 
 ..
+  2017.02.02 re-arrange directory, 
+             old: http://nanda.online-dhamma.net/extra/authors/dhammagavesaka/bodhi2/content-Ven-Bodhi.htm 
+             & http://nanda.online-dhamma.net/extra/authors/yehchun/abhidhammattha-sangaha/content-liau-chan.htm
+
+           del: oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Abhidhammattha-Sangaha/content.htm
+
   2015.09.28 add:中譯修訂版－2015.4月; 法雨道場 6 linkings
   rev. old:charset=big5; title:Abhidhammattha-Sangaha; body bgcolor:008000, seagreen  text=white link=gold vlink=purple alink=red 資訊更新日期: 06.03, 佛曆(BE) 2554 (西元 AD 2011)
   

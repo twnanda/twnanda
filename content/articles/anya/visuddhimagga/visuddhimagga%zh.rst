@@ -3,7 +3,7 @@
 
 :date: 1999-11-10
 :modified: 2004-07-10
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Post-Canon/Visuddhimagga/Visuddhimagga.htm
+:oldurl: http://nanda.online-dhamma.net/extra/anya/visuddhimagga/Visuddhimagga.htm or http://myweb.ncku.edu.tw/~lsn46/extra/anya/visuddhimagga/Visuddhimagga.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 清淨道論(Visuddhi Magga - The Path of Purification)
@@ -112,14 +112,14 @@
 為求資料確實，若有誤植
 請與末學 `聯絡 <mailto:tw.nanda@gmail.com>`_ 。
 善哉！善哉！
-
+ 
 ..
+  2017.02.02 add: oldurl
   h1 center 為求能早日完整掛上網，br
   徵求法工義務校對；br
   請與末學 a href="mailto:lsn46@mail.ncku.edu.tw" 聯絡 /a 。br
   善哉！善哉！ /center /h1
 
-..
   07.10(10th); 06.21(9th); 05.01(8th ed.); 04.03. 03.28; 03.07 '04;
   88('99)/11/10(1st ed.), 89('00)/03/21(2nd ed.), 89('00)/07/08(3rd ed.)
   90('01)/04/13(4th ed.) 93('04)/02/05(5th ed.);  93('04)/03/28(6th ed.)
