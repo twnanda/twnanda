@@ -3,13 +3,15 @@
 
 :date: 1999-11-10
 :modified: 2004-07-10
-:oldurl: http://nanda.online-dhamma.net/extra/anya/visuddhimagga/Visuddhimagga.htm or http://myweb.ncku.edu.tw/~lsn46/extra/anya/visuddhimagga/Visuddhimagga.htm
+:oldurl: http://nanda.online-dhamma.net/extra/anya/visuddhimagga/Visuddhimagga.htm
 :tags: 清淨道論, 藏外文獻
 :category: 清淨道論
 :summary: 清淨道論(Visuddhi Magga - The Path of Purification)
 
+`另一舊檔網址(the other old url) <http://myweb.ncku.edu.tw/~lsn46/extra/anya/visuddhimagga/Visuddhimagga.htm>`__
 
 目　次
+-------
 
 - `出版前言 <{filename}preface%zh.rst>`_ (`中華佛教百科 <{filename}/articles/buddhist-encyclo/chinese-buddhist-encyclopaedia%zh.rst>`_ 文獻基金會版)
 
@@ -114,7 +116,7 @@
 善哉！善哉！
  
 ..
-  2017.02.02 add: oldurl
+  2017.02.02 add: oldurl & 另一舊檔網址(the other old url)
   h1 center 為求能早日完整掛上網，br
   徵求法工義務校對；br
   請與末學 a href="mailto:lsn46@mail.ncku.edu.tw" 聯絡 /a 。br
