@@ -1,4 +1,4 @@
-:modified: 2017-01-24T17:30+08:00
+:modified: 2017-02-10T21:40+08:00
 :slug: index
 :lang: zh
 :status: hidden
@@ -78,6 +78,7 @@
 
   * `呼籲安全地保存佛陀的舍利 <{filename}/extra/relics-of-the-buddha/Relics_of_the_Buddha.html>`_
   * `【新譯「尊者阿姜 曼傳」與「尊者阿姜 高傳」】相關訊息 <{filename}/articles/uncategorized/open-distribution-the-biography-ven-acariya-mun%zh.rst>`_
+  * `烏‧ 悉臘禪師（Sayadaw U Sila）禪修通告(元亨禪修營) <http://myweb.ncku.edu.tw/~lsn46/announce.html#meditation-Jun2017>`_
   * `慈濟瓦禪師 (Bhante Sujiva) 佛法講座通告 <http://myweb.ncku.edu.tw/~lsn46/announce.html#dhamma-talk-Apr>`_
 
 - `文章選讀 <{filename}/articles/uncategorized/paper-selected%zh.rst>`_
@@ -87,6 +88,7 @@
     ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_])
 
 ..
+  02.10 add: 禪修通告(元亨禪修營) 烏‧ 悉臘禪師（Sayadaw U Sila）
   01.24 create new category: 經文選讀
         add: 法輪轉起經(轉法輪經, 初轉法輪經), 大般涅槃經, 大念處經, 佛教經典中有關「病」之教誡
         del: * `小部經典選譯
