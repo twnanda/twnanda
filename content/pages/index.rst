@@ -1,4 +1,4 @@
-:modified: 2017-02-10T21:40+08:00
+:modified: 2017-03-11T22:00+08:00
 :slug: index
 :lang: zh
 :status: hidden
@@ -57,13 +57,13 @@
 
   * `《清淨道論》 <{filename}/articles/anya/visuddhimagga/visuddhimagga%zh.rst>`_ 等等。
 
-- 佛教團體資源
+- `佛教團體資源 <{filename}/articles/uncategorized/buddhist-org%zh.rst>`_
 
   * `臺灣內觀中心 <http://www.udaya.dhamma.org/>`_
   * `法雨道場 <http://www.dhammarain.org.tw/>`_
   * `台灣南傳上座部佛教學院 <http://www.taiwandipa.org.tw/>`_
   * `法寂禪林 <http://www.buddhadipa.tw/>`_
-  * `CBETA 中華電子佛典協會 <http://www.cbeta.org/>`_
+  * `CBETA 中華電子佛典協會 <http://www.cbeta.org/>`_ 等等。
 
 - 電子佛典資源
 
@@ -72,7 +72,7 @@
   * `佛學數位圖書館暨博物館＊Digital Library & Museum of Buddhist Studies <http://ccbs.ntu.edu.tw/>`_
   * `觉悟之路 <http://dhamma.sutta.org/>`_
   * `多語言巴利藏閱讀 <http://tipitaka.sutta.org/>`_
-  * `巴利字典-- 巴利-英文,中文,日文,越南文,緬甸文 字典 <http://dictionary.sutta.org/>`_
+  * `巴利字典-- 巴利-英文,中文,日文,越南文,緬甸文 字典 <http://dictionary.sutta.org/>`_ 等等。
 
 - 訊息公告
 
@@ -85,9 +85,10 @@
 
   * `當代南傳佛教大師(LIVING BUDDHIST MASTERS) <{filename}/extra/authors/jack-kornfield/living-buddhist-masters/Theravadian-Masters.htm>`_
   * `UNEXPECTED FREEDOM <{filename}/articles/uncategorized/paper-selected%zh.rst#unexpected-freedom>`_
-    ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_])
+    ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_]) 等等。
 
 ..
+  03.11 add: 佛教團體資源 buddhist-org%zh.rst & "等等"。
   02.10 add: 禪修通告(元亨禪修營) 烏‧ 悉臘禪師（Sayadaw U Sila）
   01.24 create new category: 經文選讀
         add: 法輪轉起經(轉法輪經, 初轉法輪經), 大般涅槃經, 大念處經, 佛教經典中有關「病」之教誡
