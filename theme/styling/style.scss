@@ -11,8 +11,13 @@ $link-hover-color: #2445ae;
 }
 
 body {
-  background-color: #c7edcc;
   color: black;
+}
+
+@media screen {
+  body {
+    background-color: #c7edcc;
+  }
 }
 
 a {
