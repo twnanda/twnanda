@@ -74,7 +74,7 @@
   * `多語言巴利藏閱讀 <http://tipitaka.sutta.org/>`_
   * `巴利字典-- 巴利-英文,中文,日文,越南文,緬甸文 字典 <http://dictionary.sutta.org/>`_ 等等。
 
-- 訊息公告
+- `訊息公告 <{filename}/articles/uncategorized/announce%zh.rst>`_
 
   * `呼籲安全地保存佛陀的舍利 <{filename}/extra/relics-of-the-buddha/Relics_of_the_Buddha.html>`_
   * `【新譯「尊者阿姜 曼傳」與「尊者阿姜 高傳」】相關訊息 <{filename}/articles/uncategorized/open-distribution-the-biography-ven-acariya-mun%zh.rst>`_
