@@ -4,9 +4,9 @@
 
 :date: 2005-05-01
 :modified: 2017-03-12
-:tags: 佛教團體資源
+:tags: 訊息公告
 :category: 未分類
-:summary: 佛教團體資源
+:summary: 訊息公告
 
 - `多語言巴利藏閱讀 <http://tipitaka.sutta.org/>`_ (Updated:06.22 '13)、
 
