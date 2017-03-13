@@ -65,7 +65,7 @@
   * `法寂禪林 <http://www.buddhadipa.tw/>`_
   * `CBETA 中華電子佛典協會 <http://www.cbeta.org/>`_ 等等。
 
-- 電子佛典資源
+- `電子佛典資源  <{filename}/articles/uncategorized/canon-resource%zh.rst>`_
 
   * `Access to Insight <http://www.accesstoinsight.org/>`_
   * `覺醒之翼——上座部佛教文獻選譯集 <http://www.theravadacn.org/>`_
@@ -88,6 +88,7 @@
     ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_]) 等等。
 
 ..
+  03.11 add: 電子佛典資源 canon-resource%zh.rst
   03.11 add: 佛教團體資源 buddhist-org%zh.rst & "等等"。
   02.10 add: 禪修通告(元亨禪修營) 烏‧ 悉臘禪師（Sayadaw U Sila）
   01.24 create new category: 經文選讀
