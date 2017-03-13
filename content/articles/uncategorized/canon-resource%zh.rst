@@ -38,7 +38,7 @@
 
 - `覺悟之路網 <http://dhamma.sutta.org/>`_ (上座部佛教, Theravada Buddhism, 漢文簡體； `中國境外 <http://anicca.online-dhamma.net/>`__ )
 
-- `Dhamma Talks <http://www.dhammatalks.net/>`__ , for attaining Peace from Knowing and Seeing, a Handful of Leaves (multilingual-- English, Chinese, Japanese, ไทย, Myanmar, Sinhalese, Deutsch, Español, Français, Italiano, Português, Swedish, Hebrew, Indonesian, Malay, Vietnamese etc. 多種語言-- 英、漢、日、泰、緬、錫蘭、德、西、法、義、葡、瑞典、俄、希伯來、印尼、馬來、越文 等等)
+- `Dhamma Talks <http://www.dhammatalks.net/>`__ , for attaining Peace from Knowing and Seeing, a Handful of Leaves (multilingual-- English, Chinese, Japanese, ไทย, Myanmar, Sinhalese, Deutsch, Español, Français, Italiano, Português, Swedish, Hebrew, Indonesian, Malay, Vietnamese etc. 多種語文-- 英、漢、日、泰、緬、錫蘭、德、西、法、義、葡、瑞典、俄、希伯來、印尼、馬來、越文 等等)
 
 - `Pali 聖典 <https://sites.google.com/site/palishengdian/>`__
 
@@ -96,7 +96,7 @@
 
 ------
 
-資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2560; (03.12, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2017 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
+資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2560; (03.13, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2017 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 ..
   03.12 2017 make rst; add: 莊春江工作站
