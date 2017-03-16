@@ -3,7 +3,7 @@
 =============
 
 :date: 2008-07-27
-:modified: 2017-03-13
+:modified: 2017-03-15
 :tags: 電子佛典資源
 :category: 未分類
 :summary: 電子佛典資源
@@ -34,8 +34,6 @@
 
 - `台語與佛典 <http://yifertw.blogspot.com/>`_ (探討漢譯四阿含與巴利五部尼柯耶的教導，也介紹古漢譯和台語的關聯。)(by 藏經閣外的掃葉人, 漢文)
 
-- `Access to Insight <http://www.accesstoinsight.org/>`_ :Readings in Theravada Buddhism (in English)
-
 - `覺悟之路網 <http://dhamma.sutta.org/>`_ (上座部佛教, Theravada Buddhism, 漢文簡體； `中國境外 <http://anicca.online-dhamma.net/>`__ )
 
 - `Dhamma Talks <http://www.dhammatalks.net/>`__ , for attaining Peace from Knowing and Seeing, a Handful of Leaves (multilingual-- English, Chinese, Japanese, ไทย, Myanmar, Sinhalese, Deutsch, Español, Français, Italiano, Português, Swedish, Hebrew, Indonesian, Malay, Vietnamese etc. 多種語文-- 英、漢、日、泰、緬、錫蘭、德、西、法、義、葡、瑞典、俄、希伯來、印尼、馬來、越文 等等)
@@ -45,6 +43,12 @@
 - `南傳佛教典籍 <http://www.fodian.net/nanchuan/nanchuan.htm>`__ (漢文簡體)
 
 - `戒幢佛教育網 <http://www.jcedu.org/dispdir.php?class=001260>`_ (漢文簡體)
+
+- `Access to Insight <http://www.accesstoinsight.org/>`_ :Readings in Theravada Buddhism (in English)
+
+- `TIPITAKA: The Teachings of the Buddha <http://www.myanmarnet.net/nibbana/tipitaka/suttas.htm>`__ (Translation by Myanmar Authors)
+
+- `THE TIPITAKA-- The Pali is based on the Sri Lanka Buddha Jayanti Tipitaka Series <http://metta.lk/tipitaka/>`__ .
 
 - `BuddhaSasana <http://www.budsas.net/>`_ : A Buddhist Page by Binh Anson (Budsas, `in English <http://www.budsas.net/ebud/ebidx.htm>`__ , `in Vietnamese Tiếng Việt <http://www.budsas.net/uni/index.htm>`__ )
 
@@ -96,9 +100,10 @@
 
 ------
 
-資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2560; (03.13, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2017 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
+資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2560; (03.15, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2017 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 ..
+  03.15 add: TIPITAKA: The Teachings of the Buddha (Translation by Myanmar Authors); THE TIPITAKA-- The Pali is based on the Sri Lanka Buddha Jayanti Tipitaka Series.
   03.12 2017 make rst; add: 莊春江工作站
              bak(remark): Access to Insight:Readings in Theravada Buddhism (Mirror site), These pages are copied by courtesy of Mr. John Bullitt, the webmaster of it. (version: 2014.01.21.13)(in English), 03.13 finish
   07.07 2015 rev. 新修阿含藏-- old: http://a-vun2.sg1001.myweb.hinet.net/02/A/AHG/index.html; add: 佛光阿含藏; 佛光大藏經-線上查詢old: http://etext.fgs.org.tw/etext6/search-2.htm
