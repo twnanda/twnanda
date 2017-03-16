@@ -1,4 +1,4 @@
-:modified: 2017-03-11T22:00+08:00
+:modified: 2017-03-16
 :slug: index
 :lang: zh
 :status: hidden
@@ -62,17 +62,20 @@
   * `臺灣內觀中心 <http://www.udaya.dhamma.org/>`_
   * `法雨道場 <http://www.dhammarain.org.tw/>`_
   * `台灣南傳上座部佛教學院 <http://www.taiwandipa.org.tw/>`_
-  * `法寂禪林 <http://www.buddhadipa.tw/>`_
-  * `CBETA 中華電子佛典協會 <http://www.cbeta.org/>`_ 等等。
+  * `法寂禪林 <http://www.buddhadipa.tw/>`_ 等等。
 
 - `電子佛典資源  <{filename}/articles/uncategorized/canon-resource%zh.rst>`_
 
-  * `Access to Insight <http://www.accesstoinsight.org/>`_
+  * `莊春江工作站 <http://agama.buddhason.org/>`_
+  * `巴利文佛典選譯 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_ (香港 志蓮淨苑)
+  * `SuttaCentral <https://suttacentral.net/>`_ (包含漢文之多種語文)
   * `覺醒之翼——上座部佛教文獻選譯集 <http://www.theravadacn.org/>`_
-  * `佛學數位圖書館暨博物館＊Digital Library & Museum of Buddhist Studies <http://ccbs.ntu.edu.tw/>`_
-  * `觉悟之路 <http://dhamma.sutta.org/>`_
+  * `Access to Insight <http://www.accesstoinsight.org/>`_
+  * `觉悟之路網 <http://dhamma.sutta.org/>`_ (上座部佛教, Theravada Buddhism, 漢文簡體)
   * `多語言巴利藏閱讀 <http://tipitaka.sutta.org/>`_
-  * `巴利字典-- 巴利-英文,中文,日文,越南文,緬甸文 字典 <http://dictionary.sutta.org/>`_ 等等。
+  * `巴利字典-- 巴利-英文,中文,日文,越南文,緬甸文 字典 <http://dictionary.sutta.org/>`_ 
+  * `佛學數位圖書館暨博物館 <http://ccbs.ntu.edu.tw/>`_ (＊Digital Library & Museum of Buddhist Studies; 原"台大佛學研究中心")
+  * `CBETA 中華電子佛典協會 <http://www.cbeta.org/>`_ 等等。
 
 - `訊息公告 <{filename}/articles/uncategorized/announce%zh.rst>`_
 
@@ -88,6 +91,7 @@
     ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_]) 等等。
 
 ..
+  03.16 add some links on 電子佛典資源; & old: modified: 2017-03-11T22:00+08:00
   03.11 add: 電子佛典資源 canon-resource%zh.rst
   03.11 add: 佛教團體資源 buddhist-org%zh.rst & "等等"。
   02.10 add: 禪修通告(元亨禪修營) 烏‧ 悉臘禪師（Sayadaw U Sila）
@@ -97,7 +101,7 @@
   2017.01.10 add: 慈濟瓦禪師(Bhante Sujiva)佛法講座通告
   05.04 del: 學佛社團
   02.04 2016 rev. 法句經 old:Tipitaka/Sutta/Khuddaka/Dhammapada/Dhammapada.htm;
-                覺悟之路 old:http://http//anicca.online-dhamma.net/
+                覺悟之路 old http://http//anicca.online-dhamma.net/
                 hide:巴利藏閱讀輔具計劃(Tipitaka for Pali Learner Project)：簡介； 工作細項(Updated:01.25 '13)、
                 add:bgcolor=C7EDCC
   ------
