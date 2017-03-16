@@ -3,7 +3,7 @@
 =====================================
 
 :date: 2015-05-05 15:30
-:modified: 2016-05-13 15:00
+:modified: 2017-03-16
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.22.contrast-reading-citta.rst
 :tags: 大念處經對讀, 念住大經對讀, DN 22 Mahāsatipaṭṭhānasuttaṃ, Parallel Reading (paragraph granularity) of Mahāsatipaṭṭhāna sutta, DN 22, Dn22, dn 22
 :category: 巴利三藏長部
@@ -234,17 +234,6 @@
        
        「這就是他如此地，於心，安住於隨觀心。」
 
-----------------------------
-
-**巴利文經典最突出的特點，同時也是缺乏同情心的讀者最感厭倦的特點，就是單字、語句和整段文節的重複。這一部分是文法或至少是文體所產生的結果。**\ …，…，…，
-    …，…，…，\ **這種文句冗長的特性，另外還有一個原因，那就是在長時期中三藏經典只以口授相傳。**\ …，…，…，
-
-    …，…，…，\ **巴利文經典令人生厭的機械性的重覆敘述，也可能一部分是由於僧伽羅人(Sinhalese)不顧遺失外國傳教師傳授給他們的聖語**\ …，…，…，
-
-    …，…，…，\ **重覆敘述不僅是說教記錄的特點，而且也是說教本身的特點。我們持有的版本，無疑地是把一段自由說教壓縮成為編有號碼的段落和重覆敘述的產品。佛陀所說的話一定比這些生硬的表格更為活潑柔軟得多。**
-
-（節錄自：\ `巴利系佛教史綱　第六章　聖典　二　摘錄 <../lib/authors/Charles-Eliot/Pali_Buddhism-Charles_Eliot-han-chap06-selected.html>`__\ ）
-
 --------------
 
 備註：
@@ -316,4 +305,3 @@
 .. [BpitFn062] (BurmaPiṭakaA 062) I.e., citta — and perceives its impermanent, insecure, and soulless nature
 
 .. [BpitFn063] (BurmaPiṭakaA 063) The causes of the appearing of the mind are: Ignorance of the four Ariya Truths, craving, kamma, the complex of mental and physical aggregates (nāma-rūpa). The disappearances of these causes result in the dissolution of the mind.
-
