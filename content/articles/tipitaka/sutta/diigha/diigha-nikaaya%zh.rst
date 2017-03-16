@@ -2,7 +2,7 @@ Dīghanikāya 長部 (The "Long" Discourses)
 ########################################
 
 :date: 2003-07-13
-:modified: 2013-12-18
+:modified: 2017-03-16
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Diigha-nikaaya.htm
 :tags: 巴利三藏長部
 :category: 巴利三藏長部
@@ -23,8 +23,14 @@ sīlakkhandhavagga 戒蘊(集)品
 
 (DN 1 ～ DN 13)
 
-
 .. list-table::
+
+  * - PTS 編次 (No.)
+    - PTS 頁碼 (Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - DN 1
     - D i 1
@@ -115,7 +121,6 @@ sīlakkhandhavagga 戒蘊(集)品
     - Translated from the Pali by
     - `26.《三明經》(大正1.104) <../Taisho/T02/T0099_048.htm>`__
 
-
 ----
 
 mahāvagga 大品
@@ -123,8 +128,14 @@ mahāvagga 大品
 
 (DN 14 ～ DN 23)
 
-
 .. list-table::
+
+  * - PTS 編次 (No.)
+    - PTS 頁碼 (Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - DN 14
     - D i
@@ -197,8 +208,6 @@ mahāvagga 大品
     - Translated from the Pali by
     - `7.《弊宿經》(大正1.42) <../Taisho/T02/T0099_048.htm>`__;
 
-
-
 ----
 
 pāthikavagga 波梨品
@@ -206,8 +215,14 @@ pāthikavagga 波梨品
 
 (DN 24 ～ DN 34)
 
-
 .. list-table::
+
+  * - PTS 編次 (No.)
+    - PTS 頁碼 (Pp.)
+    - 巴利經名
+    - 漢文經名
+    - 英文經名
+    - 對照之阿含經典及其他
 
   * - DN 24
     - D i
@@ -282,9 +297,15 @@ pāthikavagga 波梨品
     - Translated from the Pali by
     - `10.《十上經》(大正1.52) <../Taisho/T02/T0099_048.htm>`__;
 
+------
+
+- `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+- `府城佛教網_首頁 <{filename}/pages/index.rst>`_
 
 ..
-  -
+  03.16 2017 add: table title--PTS 編次 (No.); PTS 頁碼 (Pp.); 巴利經名, etc.; Tipiṭaka 南傳大藏經; 巴利大藏經; 府城佛教網_首頁
+  ------
   12.18 2013 add: 版權屬十方法界，歡迎複製流傳；※※※  ※※※法義尊貴，請勿商品化流通！※※※
                   願我們一起分享法施的功德、 願一切眾生受利樂、 願正法久住。
                   品(DN 1 ～ DN 13); META NAME="keywords"; Dīghanikāya
