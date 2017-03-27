@@ -1,9 +1,9 @@
-------------------------------------
-Tipiṭaka 南傳大藏經 (The Pāḷi Canon)
-------------------------------------
+-----------------------------------------
+Tipiṭaka 南傳巴利大藏經 (The Pāḷi Canon)
+-----------------------------------------
 
 :date: 2016-02-13 T16:05+08:00
-:modified: 2017-03-16
+:modified: 2017-03-27
 :tags: Tipiṭaka, The Pāḷi Canon, The Pali Canon, 巴利大藏經, 巴利三藏, 南傳大藏經, 大藏經
 :category: 未分類
 :summary: Tipiṭaka 南傳大藏經 (The Pāḷi Canon)
@@ -232,6 +232,7 @@ Sutta Piṭaka 經藏 (The collection of discourses):
 -------------------------------
 
 ..
+  03.27 add 巴利 on title
   03.15 2017 rev. old:戒(集)蘊品; old: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/tipitaka.htm
   10.27 old: 佛光大辭典\: 南傳大藏經: http://dictionary.buddhistdoor.com/word/57310/%E5%8D%97%E5%82%B3%E5%A4%A7%E8%97%8F%E7%B6%93
 
