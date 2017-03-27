@@ -2,11 +2,20 @@ Dīghanikāya 巴利大藏經 經藏 長部 (The Long Discourses)
 #######################################################
 
 :date: 2003-07-13
-:modified: 2017-03-23
+:modified: 2017-03-27
 :tags: Dīghanikāya, 巴利三藏長部, Dialogues of the Buddha, The "Long" Discourses
 :category: 巴利三藏長部
 :summary: Dīghanikāya 長部
           (Abr.=D)(Dialogues of the Buddha)(SBB) or (The "Long" Discourses), 3 vols
+
+- 長部概要(題解)：
+
+  * `長部概要 <{filename}digha-nikaya-summary-santagavesaka%zh.rst>`__ ，尊者覓寂比丘(Santagavesaka Bhikkhu)
+
+  * 江鍊百據日譯本重譯 沙門芝峯校證：`長部經典一(DN 1~ DN 14) <http://tripitaka.cbeta.org/B06n0003_001>`__ 、 `長部經典二(DN 15~ DN 23) <http://tripitaka.cbeta.org/B06n0003_002>`__  ( `CBETA <http://www.cbeta.org/>`__ ) [5]_
+
+  *  `長部經典 <{filename}digha-nikaya-summary-guan-hiang%zh.rst>`__ ；通妙譯，元亨寺漢譯南傳大藏經編譯委員會，高雄：元亨寺妙林出版社, 1995.），經藏／長部
+
 
 - `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -66,9 +75,24 @@ _`細目`
 sīlakkhandhavagga 戒蘊(集)品
 +++++++++++++++++++++++++++++
 
-(DN 1 ～ DN 13) (CS:pg.1.1~236；PTS:I,1~253)
+.. list-table:: DN 1 ～ DN 13 (CS:pg.1.1~236；PTS:I,1~253)
+   :widths: 7 7 7 7 8 8 8 8 8 8 8 8 8 
 
-- DN 1 Brahmajāla Sutta [PTS 編次 (No.)]; D i 1 [PTS 頁碼 (Pp.)]
+   * - `DN 1`_
+     - `DN 2`_
+     - `DN 3`_
+     - `DN 4`_
+     - `DN 5`_
+     - `DN 6`_
+     - `DN 7`_
+     - `DN 8`_
+     - `DN 9`_
+     - `DN 10`_
+     - `DN 11`_
+     - `DN 12`_
+     - `DN 13`_
+
+- _`DN 1` Brahmajāla Sutta [PTS 編次 (No.)]; D i 1 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -88,9 +112,11 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * 對照之阿含經典及其他： 
 
-      * `梵動經 <http://tripitaka.cbeta.org/T01n0001_014>`__ ；後秦弘始年佛陀耶舍共竺佛念譯．大正藏．佛說長阿含經．卷第十四．（二一）第三分梵動經第二．[0088b12] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 88, b12)
+      * `梵網六十二見經 <http://tripitaka.cbeta.org/T01n0021_001>`__ 月支優婆塞支謙譯；大正藏．第 1 冊．第 1 卷． No. 21．佛說梵網六十二見經．[0264a20] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 21, p. 264, a20)
 
-      * `梵網六十二見經 <http://tripitaka.cbeta.org/T01n0021_001>`__ 月支優婆塞支謙譯．大正藏．第 1 冊．第 1 卷． No. 21．佛說梵網六十二見經．[0264a20] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 21, p. 264, a20)
+      * `梵動經 <http://tripitaka.cbeta.org/T01n0001_014>`__ ；後秦弘始年佛陀耶舍共竺佛念譯；大正藏．佛說長阿含經．卷第十四．（二一）第三分梵動經第二．[0088b12] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 88, b12)
+
+      * `舍利弗阿毘曇論 <http://tripitaka.cbeta.org/T28n1548_020?format=line&linehead=yes#0656b19>`__ ；姚秦 罽賓三藏 曇摩耶舍 共 曇摩崛多 等譯；大正藏．第 28 冊．No.1548．舍利弗阿毘曇論．卷第二十．非問分煩惱品第十一之三．[0656b19] ( `CBETA <http://www.cbeta.org/>`__ , T28, no. 1548, p. 656, b19) **部份參照** 
 
   * 英譯(English)：
 
@@ -102,9 +128,11 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `The Supreme Net: What the Teaching is Not <http://obo.genaud.net/dhamma-vinaya/wp/dn/dn.01.wlsh.wp.htm>`__ , translated from the Pali by Maurice Walshe. 1987. ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ ) ; `the other site <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/dn-1.htm>`__ ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
 
-- `DN 2 Samaññaphala Sutta, 沙門果經, The Fruits of the Contemplative Life <{filename}dn02/saamannaphala%zh.rst>`__ , THE FRUITS OF THE LIFE OF A RECLUSE, The Fruit Of The Homeless Life, Discourse on the advantages of a Samaṇa's life, Discourse on the Fruits of Recluseship; DN 2 [PTS 編次 (No.)]; D i 47 [PTS 頁碼 (Pp.)]
+    * Brahmajala Sutta - `Discourse on the Net of Perfect Wisdom <http://www.myanmarnet.net/nibbana/tipitaka/brahma1.htm>`__ ; SOURCE: "TEN SUTTAS FROM DIGHA NIKAYA" BURMA PITAKA ASSOCIATION, 1984 [ `TIPITAKA: The Teachings of the Buddha <http://www.myanmarnet.net/nibbana/tipitaka/suttas.htm>`__ (Translation by Myanmar Authors)]
 
-- DN 3 Ambaṭṭha Sutta [PTS 編次 (No.)]; D i 87 [PTS 頁碼 (Pp.)]
+- _`DN 2` `Samaññaphala Sutta, 沙門果經, The Fruits of the Contemplative Life <{filename}dn02/saamannaphala%zh.rst>`__ , THE FRUITS OF THE LIFE OF A RECLUSE, The Fruit Of The Homeless Life, Discourse on the advantages of a Samaṇa's life, Discourse on the Fruits of Recluseship; DN 2 [PTS 編次 (No.)]; D i 47 [PTS 頁碼 (Pp.)]
+
+- _`DN 3` Ambaṭṭha Sutta [PTS 編次 (No.)]; D i 87 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -136,7 +164,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `About Ambattha: Pride Humbled <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/dn-3.htm>`__ ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
 
-- DN 4 Soṇadaṇḍa Sutta [PTS 編次 (No.)]; D i 111 [PTS 頁碼 (Pp.)]
+- _`DN 4` Soṇadaṇḍa Sutta [PTS 編次 (No.)]; D i 111 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -166,7 +194,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `The Quality of a True Brahmin <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/dn-4.htm>`__ ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
 
-- DN 5 Kūṭadanta Sutta [PTS 編次 (No.)]; D i 127 [PTS 頁碼 (Pp.)]
+- _`DN 5` Kūṭadanta Sutta [PTS 編次 (No.)]; D i 127 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -186,7 +214,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * 對照之阿含經典及其他： 
 
-      * `阿摩晝經 <http://tripitaka.cbeta.org/T01n0001_015>`__ ；後秦弘始年佛陀耶舍共竺佛念譯．大正藏．佛說長阿含經．卷第十五．（二三）究羅檀頭經第四; [0096c16]; ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 96, c16)
+      * `究羅檀頭經 <http://tripitaka.cbeta.org/T01n0001_015>`__ ；後秦弘始年佛陀耶舍共竺佛念譯．大正藏．佛說長阿含經．卷第十五．（二三）究羅檀頭經第四; [0096c16]; ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 96, c16)
 
   * 英譯(English)：
 
@@ -196,7 +224,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `A Bloodless Sacrifice <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/dn-5.htm>`__ ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
 
-- DN 6 Mahāli Sutta [PTS 編次 (No.)]; D i 150 [PTS 頁碼 (Pp.)]
+- _`DN 6` Mahāli Sutta [PTS 編次 (No.)]; D i 150 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -226,7 +254,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `Heavenly Sights, Soul And Body <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/dn-6.htm>`__ ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
 
-- DN 7 Jāliya Sutta [PTS 編次 (No.)]; D i 159 [PTS 頁碼 (Pp.)]
+- _`DN 7` Jāliya Sutta [PTS 編次 (No.)]; D i 159 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -254,7 +282,24 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `About Jaliya <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/dn-7.htm>`__ , Where is Soul? Same as the body or separate? ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
 
-- DN 8 Sīhanāda Sutta [PTS 編次 (No.)]; D i 161 [PTS 頁碼 (Pp.)]
+.. list-table:: DN 1 ～ DN 13 (CS:pg.1.1~236；PTS:I,1~253)
+   :widths: 7 7 7 7 8 8 8 8 8 8 8 8 8 
+
+   * - `DN 1`_
+     - `DN 2`_
+     - `DN 3`_
+     - `DN 4`_
+     - `DN 5`_
+     - `DN 6`_
+     - `DN 7`_
+     - `DN 8`_
+     - `DN 9`_
+     - `DN 10`_
+     - `DN 11`_
+     - `DN 12`_
+     - `DN 13`_
+
+- _`DN 8` Sīhanāda Sutta [PTS 編次 (No.)]; D i 161 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -284,7 +329,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `The Great Lion's Roar <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/dn-8.htm>`__ ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
 
-- DN 9 Poṭṭhapāda Sutta [PTS 編次 (No.)]; D i 178 [PTS 頁碼 (Pp.)]
+- _`DN 9` Poṭṭhapāda Sutta [PTS 編次 (No.)]; D i 178 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -316,7 +361,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `Levels of Consciouness <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/dn-9.htm>`__ , States Of Consciousness ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
 
-- DN 10 Subha Sutta [PTS 編次 (No.)]; D i 204 [PTS 頁碼 (Pp.)]
+- _`DN 10` Subha Sutta [PTS 編次 (No.)]; D i 204 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -344,7 +389,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `About Subha <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/dn-10.htm>`__ ; Morality, Concentration and Wisdom ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
 
-- DN 11 Kevaḍḍha Sutta (Kevaṭṭa Sutta) [PTS 編次 (No.)]; D i 211 [PTS 頁碼 (Pp.)]
+- _`DN 11` Kevaḍḍha Sutta (Kevaṭṭa Sutta) [PTS 編次 (No.)]; D i 211 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -378,7 +423,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * To Kevatta (Kevaddha) ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
 
-- DN 12 Lohicca Sutta [PTS 編次 (No.)]; D i 224 [PTS 頁碼 (Pp.)]
+- _`DN 12` Lohicca Sutta [PTS 編次 (No.)]; D i 224 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -410,7 +455,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `To Lohicca <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/dn-12.htm>`__ ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
 
-- DN 13 Tevijja Sutta [PTS 編次 (No.)]; D i 235 [PTS 頁碼 (Pp.)]
+- _`DN 13` Tevijja Sutta [PTS 編次 (No.)]; D i 235 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -430,7 +475,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * 對照之阿含經典及其他： 
 
-      * `阿摩晝經 <http://tripitaka.cbeta.org/T01n0001_016>`__ ；後秦弘始年佛陀耶舍共竺佛念譯．大正藏．佛說長阿含經．卷第十六．（二六）佛說長阿含第三分三明經第七; [0104c16]; ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 104, c16)
+      * `三明經 <http://tripitaka.cbeta.org/T01n0001_016>`__ ；後秦弘始年佛陀耶舍共竺佛念譯．大正藏．佛說長阿含經．卷第十六．（二六）佛說長阿含第三分三明經第七; [0104c16]; ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 104, c16)
 
   * 英譯(English)：
 
@@ -444,90 +489,352 @@ sīlakkhandhavagga 戒蘊(集)品
 
 ----
 
+.. list-table::
+
+  * - 1. `sīlakkhandhavagga 戒蘊(集)品`_ (DN 1 ～ DN 13)
+    - 2. `mahāvagga 大品`_ (DN 14 ～ DN 23)
+    - 3. `pāthikavagga 波梨品`_ (DN 24 ～ DN 34)
+
+----
+
 mahāvagga 大品
 +++++++++++++++
 
-(DN 14 ～ DN 23)  (CS:pg.2.1~283；PTS:II,1~352)
+.. list-table:: (DN 14 ～ DN 23)  (CS:pg.2.1~283；PTS:II,1~352)
+   :widths: 10 10 10 10 10 10 10 10 10 10 
 
-.. list-table::
+   * - `DN 14`_
+     - `DN 15`_
+     - `DN 16`_
+     - `DN 17`_
+     - `DN 18`_
+     - `DN 19`_
+     - `DN 20`_
+     - `DN 21`_
+     - `DN 22`_
+     - `DN 23`_
 
-  * - PTS 編次 (No.)
-    - PTS 頁碼 (Pp.)
-    - 巴利經名
-    - 漢文經名
-    - 英文經名
-    - 對照之阿含經典及其他
+- _`DN 14`  Sutta [PTS 編次 (No.)]; D ii 1 [PTS 頁碼 (Pp.)]
 
-  * - DN 14
-    - D i
-    - mahāpadānasuttaṃ
-    - 大本經
-    - Translated from the Pali by
-    - `1.《大本經》(大正1.1) <../Taisho/T02/T0099_048.htm>`__;
-  * - DN 15
-    - D ii 55
-    - mahānidānasuttaṃ
-    - 大緣經
-    - The Great Causes Discourse
+  * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
-      `Translated from the Pali by Ven. Thanissaro Bhikkhu <http://www.accesstoinsight.org/tipitaka/dn/dn.15.0.than.html>`__
-    - `13.《大緣方便經》(大正1.60) <../Taisho/T02/T0099_048.htm>`__;
-  * - DN 16
-    - D ii 137
-    - mahāparinibbānasuttaṃ
-    - `大般涅槃經 <{filename}dn16/dn16%zh.rst>`__
-    - Last Days of the Buddha/The Great Discourse on the Total Unbinding
+    * PTS: `Mahāpadānasuttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/DN_II_utf8.html#pts.001>`__ ( `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [1]_
 
-      `Translated from the Pali by Sister Vajira & Francis Story <http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html>`__ (excerpt, chapters 1-6);
-    - `2.《遊行經》(大正1.11) <../Taisho/T02/T0099_048.htm>`__;
-  * - DN 17
-    - D ii
-    - mahāsudassanasuttaṃ
-    - 大善見王經
-    - Translated from the Pali by
-    - `2.《遊行經》第二中(大正1.21.) <../Taisho/T02/T0099_048.htm>`__;
-  * - DN 18
-    - D ii
-    - janavasabhasuttaṃ
-    - 闍尼沙經
-    - Translated from the Pali by
-    - `4.《闍尼沙經》(大正1.34) <../Taisho/T02/T0099_048.htm>`__;
-  * - DN 19
-    - D ii
-    - mahāgovindasuttaṃ
-    - 大典尊經
-    - Translated from the Pali by
-    - `3.《典尊經》(大正1.30) <../Taisho/T02/T0099_048.htm>`__;
-  * - DN 20
-    - D ii 253
-    - mahāsamayasuttaṃ
-    - 大會經
-    - The Great Assembly/The Great Meeting
+    * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__： `Mahāpadānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul0.xml>`__ [2]_
 
-      `Translated from the Pali by Ven. Piyadassi Thera <http://www.accesstoinsight.org/tipitaka/dn/dn.20.0.piya.html>`__;
-    - `19.《大會經》(大正1.79) <../Taisho/T02/T0099_048.htm>`__;
-  * - DN 21
-    - D ii 276
-    - sakkapañhasuttaṃ
-    - 帝釋所問經
-    - Sakka's Questions
+  * 漢譯：
 
-      `Translated from the Pali by Ven. Thanissaro Bhikkhu <http://www.accesstoinsight.org/tipitaka/dn/dn.21.2x.than.html>`__ (excerpt, chapter 2)]
-    - `14.《釋提桓因問經》(大正1.62) <../Taisho/T02/T0099_048.htm>`__;
-  * - DN 22
-    - D ii 290
-    - mahāsatipaṭṭhānasuttaṃ
-    - `大念處經 <{filename}dn22/dn22%zh.rst>`__
-    - The Great Frames of Reference
+    * `漢譯 長部14經/譬喻大經 <http://agama.buddhason.org/DN/DN14.htm>`__ ；莊春江 [3]_
 
-      `Translated from the Pali by Burma Piṭaka Association <http://www.accesstoinsight.org/tipitaka/dn/dn.22.0.bpit.html>`__; 
-    - `《中阿含98經》念處經》(大正1.582) <../Taisho/T02/T0099_048.htm>`__
-  * - DN 23
-    - D ii
-    - pāyāsisuttaṃ
-    - 弊宿經
-    - Translated from the Pali by
-    - `7.《弊宿經》(大正1.42) <../Taisho/T02/T0099_048.htm>`__;
+    * `大本經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=502>`__ ；蕭式球 [4]_
+
+    * `大本經 <http://tripitaka.cbeta.org/B06n0003_001#0036b01>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典一．大本經第十四; [0036b01] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 36, b1) [5]_
+
+    * `大本經 <http://tripitaka.cbeta.org/N06n0004_014>`__ ；通妙譯，元亨寺漢譯南傳大藏經；第 14 卷; 一四　大本經; [0272a03] ( `CBETA <http://www.cbeta.org/>`__ , N06, no. 4, p. 272, a3) [6]_
+
+    * 對照之阿含經典及其他： 
+
+      * `增壹阿含經．不善品第四十八入前品中．（四） <http://tripitaka.cbeta.org/T02n0125_045>`__ 東晉 罽賓三藏 瞿曇僧伽提婆 譯．增壹阿含經卷第四十五．大正藏．第 2 冊． No. 0125．[0790a06] ( `CBETA <http://www.cbeta.org/>`__ , T02, no. 125, p. 790, a6)
+
+      * `七佛父母姓字經 <http://tripitaka.cbeta.org/T01n0004_001>`__ 失譯附前魏譯．大正藏．第 1 冊． No. 4．七佛父母姓字經．[0159a24] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 4, p. 159, a24)
+
+      * `毘婆尸佛經 <http://tripitaka.cbeta.org/T01n0003_001>`__ 西天譯經三藏朝散大夫試鴻臚卿傳教大師臣 法天奉　詔譯．大正藏．第 1 冊． No. 3．毘婆尸佛經卷上．[0154b05] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 3, p. 154, b5)
+
+      * `初大本經 <http://tripitaka.cbeta.org/T01n0001_001>`__ ；後秦弘始年佛陀耶舍共竺佛念譯．大正藏．佛說長阿含經．卷第一．（一）第一分初大本經第一; [0001b11]; ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 1, b11)
+
+      * `佛說七佛經 <http://tripitaka.cbeta.org/T01n0002_001>`__ ；西天譯經三藏朝散大夫試鴻臚卿傳教大師臣法天奉　詔譯．大正藏．佛說七佛經; [0150a03] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 2, p. 150, 3)
+
+      * 梵 Mahāvadāna-s. (Waldschmidt.) `SF 36 <https://suttacentral.net/skt/sf36>`__ ( `SuttaCentral <https://suttacentral.net/>`__ ); `相應部12相應65經/城市經 SN 12.65 <http://agama.buddhason.org/SN/SN0336.htm>`__ 
+
+  * 英譯(English)：
+
+    * `The Sublime Story <http://obo.genaud.net/dhamma-vinaya/pts/dn/dn.14.rhyt.pts.htm>`__ -- translated from the Pali by T.W. Rhys Davids, II.4
+
+      WP: The Great Discourse on the Lineage, Walshe, trans., 199 ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ )
+
+- _`DN 15` Mahānidāna Sutta [PTS 編次 (No.)]; DN ii 1 [PTS 頁碼 (Pp.)]
+
+  * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
+
+    * PTS: `Mahānidānasuttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/DN_II_utf8.html#pts.055>`__ ( `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [1]_
+
+    * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__： `Mahānidānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul1.xml>`__ [2]_
+
+  * 漢譯：
+
+    * `漢譯 長部15經/因緣大經 <http://agama.buddhason.org/DN/DN15.htm>`__ ；莊春江 [3]_
+
+    * `大因緣經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=503>`__ ；蕭式球 [4]_
+
+    * `大緣經 <http://tripitaka.cbeta.org/B06n0003_002#0044b18>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典二．大緣經第十五; [0044b18] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 44, b18) [5]_
+
+    * `大緣經 <http://tripitaka.cbeta.org/N07n0004_015>`__ ；通妙譯，元亨寺漢譯南傳大藏經；一五　大緣經; [0001a03] ( `CBETA <http://www.cbeta.org/>`__ , N07, no. 4, p. 1, a3) [6]_
+
+    * 對照之阿含經典及其他： 
+
+      * `大因經 <http://tripitaka.cbeta.org/T01n0026_024>`__ ；東晉罽賓三藏瞿曇僧伽提婆譯．大正藏．第 1 冊． No. 26．中阿含經卷第二十四．（九七）中阿含因品大因經第一．[0578b07] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 26, p. 578, b7)
+
+      * `大生義經 <http://tripitaka.cbeta.org/T01n0052_001>`__ ；西天譯經三藏朝奉大夫試鴻臚卿傳法大師臣施護奉　詔譯．大正藏．第 1 冊． No. 52．佛說大生義經．[0844b09] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 52, p. 844, b9)
+
+      * `人本欲生經 <http://tripitaka.cbeta.org/T01n0014_001>`__ ；後漢安息三藏安世高譯．大正藏．第 1 冊． No. 14．佛說人本欲生經．[0241c23] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 14, p. 241, c23)
+
+      * `大緣方便經 <http://tripitaka.cbeta.org/T01n0001_010>`__ ；後秦弘始年佛陀耶舍共竺佛念譯．大正藏．佛說長阿含經．卷第十．（一三）第二分大緣方便經第九; [0060a28]; ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 60, a28)
+
+      * 梵Mahāvadāna-s. (Waldschmidt 1953.)
+
+  * 英譯(English)：
+
+    * Maha-nidana Sutta: `The Great Causes Discourse <http://www.accesstoinsight.org/tipitaka/dn/dn.15.0.than.html>`__ , translated from the Pali by **Ven. Thanissaro Bhikkhu** ( `AccessToInsight <http://www.accesstoinsight.org/>`__ )
+
+    * BD: `The Great Downbinding Spell <http://obo.genaud.net/dhamma-vinaya/bd/dn/dn.15.olds.bd.htm>`__ , translated from the Pali by Michael Olds
+
+      PTS: `The Great Discourse on Causation <http://obo.genaud.net/dhamma-vinaya/pts/dn/dn.15.rhyt.pts.htm>`__ , translated from the Pali by T.W. Rhys Davids, II.50
+
+      WP: `The Great Discourse on Origination <http://obo.genaud.net/dhamma-vinaya/wp/dn/dn.15.wlsh.wp.htm>`__ , translated from the Pali by Maurice Walshe, 223. © Maurice Walshe 1987.
+
+      **Buddhist Publication Society:** Bodhi: The Great Discourse on Causation
+
+      **Buddhism in Translations:** `There is No Ego. (DN 15: Excerpt). <http://obo.genaud.net/dhamma-vinaya/bit/bit-15.htm#page_135>`__ ; `Dependent Origination (DN 15: Excerpt) <http://obo.genaud.net/dhamma-vinaya/bit/bit-37.htm>`__ Warren, trans.  ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ )
+
+- _`DN 16` `Mahāparinibbānasuttaṃ; 大般涅槃經; Last Days of the Buddha <{filename}dn16/dn16%zh.rst>`__ ; 般涅槃大經; 大般湼槃經; The Great Discourse on the Total Unbinding; The Discourse about the Great Emancipation; Discourse on the Great Event of the Passing away of the Buddha; DN 16 [PTS 編次 (No.)]; D ii 137 [PTS 頁碼 (Pp.)]
+
+- _`DN 17`  Sutta [PTS 編次 (No.)]; DN ii 169 [PTS 頁碼 (Pp.)]
+
+  * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
+
+    * PTS: `Mahāsudassanasuttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/DN_II_utf8.html#pts.169>`__ ( `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [1]_
+
+    * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__： `Mahāsudassanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul3.xml>`__ [2]_
+
+  * 漢譯：
+
+    * `漢譯 長部17經/大善見經 <http://agama.buddhason.org/DN/DN17.htm>`__ ；莊春江 [3]_
+
+    * `大善見王經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=518>`__ ；蕭式球 [4]_
+
+    * `大善見王經 <http://tripitaka.cbeta.org/B06n0003_002#0059a12>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典二．大善見王經第十七; [0059a12] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p.59, a12) [5]_
+
+    * `大善見王經 <http://tripitaka.cbeta.org/N07n0004_015>`__ ；通妙譯，元亨寺漢譯南傳大藏經；一七　大善見王經; [0128a02] ( `CBETA <http://www.cbeta.org/>`__ , N07, no. 4, p. 128, a2) [6]_
+
+    * 對照之阿含經典及其他： 
+
+      * `大善見王經 <http://tripitaka.cbeta.org/T01n0026_014#0515b03>`__ ；東晉罽賓三藏瞿曇僧伽提婆譯．大正藏．第 1 冊． No. 26．中阿含經卷第十四．（六八）王相應品大善見王經第四(第二小土城誦)．[0515b03] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 26, p. 515, b3)
+
+      * `根本說一切有部毘奈耶雜事 <http://tripitaka.cbeta.org/T24n1451_037?format=line&linehead=yes#0393a01>`__ ；三藏法師義淨奉　制譯．大正藏．第 24 冊． No. 1451．根本說一切有部毘奈耶雜事．卷第三十七．第八門第十子攝頌之餘(說四黑四白法四種沙門次出廣嚴城向涅槃處)．[0393a01] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 24, p. 393, a1) **部份參照**
+
+      * `遊行經 <http://tripitaka.cbeta.org/T01n0001_002>`__ ；後秦 弘始年 佛陀耶舍 共 竺佛念 譯．大正藏．第 1 冊． No. 1．佛說長阿含經卷第二．（二）第一分遊行經第二初; [0011a07] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p.11, a7) **部份參照**
+
+      * `般泥洹經 <http://tripitaka.cbeta.org/T01n0006_001>`__ ；不載譯人附東晉錄．大正藏．第 1 冊． No. 6．般泥洹經; [0176a02] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 6, p.176, a2) **部份參照**
+
+      * `佛般泥洹經 <http://tripitaka.cbeta.org/T01n0005_001>`__ ；西晉 河內沙門 白法祖 譯．大正藏．第 1 冊． No. 5．佛般泥洹經; [0160b05] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 5, p.16, b5) **部份參照**
+
+      * 大般涅槃經；東晉 平陽沙門 釋法顯 譯．大正藏．第 1 冊． No. 7． `大般涅槃經卷中 <http://tripitaka.cbeta.org/T01n0007_002>`__ ; [0201a27, ff]； `大般涅槃經卷下 <http://tripitaka.cbeta.org/T01n0007_003>`__ ; [0202b28, ff] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 7, p. 201, a27; ff；T01, no. 7, p. 202, b28; ff) **部份參照**
+
+      * `本生經 <http://tripitaka.cbeta.org/B06n0005_002>`__；夏丏尊 據日譯本重譯；紙本：大藏經補編第 06 冊 No. 0005 南傳小部經典, J.95；第2卷．小部經典七．本生經二．九五　大善見王本生因緣．(〔菩薩＝王〕) [0251b22] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 5, p. 251, b22) **部份參照** 
+
+      * `本生經 <http://tripitaka.cbeta.org/N32n0018_003>`__；悟醒 譯；紙本：漢譯南傳大藏經．元亨寺妙林出版社．第 32 冊 No. 0018, J.95；本生經．九五　大善見王本生譚．（菩薩＝王） [0162a09] ( `CBETA <http://www.cbeta.org/>`__ , N32, no. 18, p. 162, a9) **部份參照** 
+
+  * 英譯(English)：
+
+    * Buddhist Suttas: translated from the Pali by T.W. Rhys Davids
+      
+      * `Chapter 6: Legend Of The Great King Of Glory <http://obo.genaud.net/dhamma-vinaya/bs/dn.17.rhyt.bs_6.intro.htm>`__ (introduction)
+
+      * `The Great King of Glory <http://obo.genaud.net/dhamma-vinaya/bs/dn.17.rhyt.bs_6.jataka.htm>`__
+      
+      PTS: `The Great King of Glory <http://obo.genaud.net/dhamma-vinaya/pts/dn/dn.17.rhyt.pts.htm>`__ , T.W. Rhys Davids, trans., II.199
+
+      WP: The Great Splendour: A King's Renunciation, Walshe, trans., 279 ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ )
+
+- _`DN 18`  Sutta [PTS 編次 (No.)]; DN ii 200 [PTS 頁碼 (Pp.)]
+
+  * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
+
+    * PTS: `Janavasabhasuttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/DN_II_utf8.html#pts.200>`__ ( `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [1]_
+
+    * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__： `Janavasabhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul4.xml>`__ [2]_
+
+  * 漢譯：
+
+    * `漢譯 長部18經/人牛王經 <http://agama.buddhason.org/DN/DN18.htm>`__ ；莊春江 [3]_
+
+    * `眾中雄經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=519>`__ ；蕭式球 [4]_
+
+    * `闍尼沙經 <http://tripitaka.cbeta.org/B06n0003_002#0062b13>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典二．闍尼沙經第十八; [0062b13] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 62, b13) [5]_
+
+    * `闍尼沙經 <http://tripitaka.cbeta.org/N07n0004_018>`__ ；通妙譯，元亨寺漢譯南傳大藏經；一八　闍尼沙經; [0160a03] ( `CBETA <http://www.cbeta.org/>`__ , N07, no. 4, p. 160, a3) [6]_
+
+    * 對照之阿含經典及其他： 
+
+      * `闍尼沙經 <http://tripitaka.cbeta.org/T01n0001_005#0034b04>`__ ；後秦弘始年佛陀耶舍共竺佛念譯．大正藏．第 1 冊． No. 1．佛說長阿含經．卷第五．（四）佛說長阿含第一分闍尼沙經第四．[0034b04] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 34, b4)
+
+      * `人仙經 <http://tripitaka.cbeta.org/T01n0009_001>`__ ；西天譯經三藏朝奉大夫試光祿卿明教大師臣法賢奉　詔譯．大正藏．第 1 冊． No. 9 ．佛說人仙經．[0213c22] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 9, p. 213, c22)
+
+  * 英譯(English)：
+
+    * PTS: `Jana-Vasabha's Story <http://obo.genaud.net/dhamma-vinaya/pts/dn/dn.18.rhyt.pts.htm>`__ , translated from the Pali by T.W. Rhys Davids, II.237
+
+    WP: About Janavasabha: Brahma Addresses the Gods, Walshe, trans., 291  ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ )
+
+.. list-table:: (DN 14 ～ DN 23)  (CS:pg.2.1~283；PTS:II,1~352)
+   :widths: 10 10 10 10 10 10 10 10 10 10 
+
+   * - `DN 14`_
+     - `DN 15`_
+     - `DN 16`_
+     - `DN 17`_
+     - `DN 18`_
+     - `DN 19`_
+     - `DN 20`_
+     - `DN 21`_
+     - `DN 22`_
+     - `DN 23`_
+
+- _`DN 19`  Sutta [PTS 編次 (No.)]; DN ii 220 [PTS 頁碼 (Pp.)]
+
+  * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
+
+    * PTS: `Mahāgovindasuttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/DN_II_utf8.html#pts.220>`__ ( `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [1]_
+
+    * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__： `Mahāgovindasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul5.xml>`__ [2]_
+
+  * 漢譯：
+
+    * `漢譯 長部19經/大總管經 <http://agama.buddhason.org/DN/DN19.htm>`__ ；莊春江 [3]_
+
+    * `大瞿毗陀經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=520>`__ ；蕭式球 [4]_
+
+    * `大典尊經 <http://tripitaka.cbeta.org/B06n0003_002#0065a12>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典二．大典尊經第十九; [0065a12] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 65, a12) [5]_
+
+    * `大典尊經 <http://tripitaka.cbeta.org/N07n0004_019>`__ ；通妙譯，元亨寺漢譯南傳大藏經；一九　大典尊經; [0179a03] ( `CBETA <http://www.cbeta.org/>`__ , N07, no. 4, p. 179, a3) [6]_
+
+    * 對照之阿含經典及其他： 
+
+      * `大堅固婆羅門緣起經 <http://tripitaka.cbeta.org/zh-cn/T01n0008_001>`__ ；西天譯經三藏朝奉大夫試光祿卿傳法大師賜紫臣施護等奉　詔譯．大正藏．第 1 冊． No. 8．佛說大堅固婆羅門緣起經．[0207c18] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 8, p. 207, c18)
+
+      * `典尊經 <http://tripitaka.cbeta.org/T01n0001_005>`__ ；後秦弘始年佛陀耶舍共竺佛念譯．大正藏．第 1 冊． No. 1．佛說長阿含經．卷第五．（三）第一分典尊經第三．[0030b10] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 30, b10)
+
+  * 英譯(English)：
+
+    * PTS: `The Lord High Steward <http://obo.genaud.net/dhamma-vinaya/pts/dn/dn.19.rhyt.pts.htm>`__ , translated from the Pali by T.W. Rhys Davids, II, 259
+
+      WP: The Great Steward: A Past Life of Gotama, Walshe, trans., 301 ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ )
+
+    * `The Great Steward: A Past Life Of Gotama <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/dn-19.htm>`__ ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
+
+- _`DN 20`  Sutta [PTS 編次 (No.)]; DN ii 253 [PTS 頁碼 (Pp.)]
+
+  * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
+
+    * PTS: `Mahāsamayasuttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/DN_II_utf8.html#pts.253>`__ ( `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [1]_
+
+    * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__： `Mahāsamayasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul0.xml>`__ [2]_
+
+  * 漢譯：
+
+    * `漢譯 長部20經/大集會經 <http://agama.buddhason.org/DN/DN20.htm>`__ ；莊春江 [3]_
+
+    * `大會經 <http://tripitaka.cbeta.org/B06n0003_002#0069a01>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典二．大會經第二十; [0069a01] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 69, a1) [5]_
+
+    * `大會經 <http://tripitaka.cbeta.org/N07n0004_020>`__ ；通妙譯，元亨寺漢譯南傳大藏經；二〇　大會經; [0212a03] ( `CBETA <http://www.cbeta.org/>`__ , N07, no. 4, p. 212, a3) [6]_
+
+    * 對照之阿含經典及其他： 
+
+      * `雜阿含一一九二經（集會） <http://tripitaka.cbeta.org/T02n0099_044#0323a12>`__ ；宋 天竺三藏 求那跋陀羅 譯．大正藏．第 2 冊． No. 99．雜阿含經．卷第四十四．（一一九二）．[0323a12] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 2, p. 323, a12) 。 `雜阿含1192經 <http://agama.buddhason.org/SA/SA1192.htm>`__ ( 臺灣「 `莊春江工作站 <http://agama.buddhason.org/DN/index.htm>`__ 」)
+
+      * `別譯雜阿含105經 <http://tripitaka.cbeta.org/T02n0100_005#0411a24>`__ ；失譯人名今附秦錄．大正藏．第 2 冊． No. 100．別譯雜阿含經．卷第五．初誦第五．（一〇五）．[0411a24] ( `CBETA <http://www.cbeta.org/>`__ , T02, no. 100, p. 411, a24) 。
+
+      * `大三摩惹經 <http://tripitaka.cbeta.org/T01n0019_001>`__ ；西天譯經三藏朝散大夫試鴻臚卿傳教大師臣法天奉　詔譯．大正藏．第 1 冊． No. 19．佛說大三摩惹經．[0258a10] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 19, p. 258, a10)
+
+      * `大會經 <http://tripitaka.cbeta.org/T01n0001_012#0079b01>`__ ；後秦弘始年佛陀耶舍共竺佛念譯．大正藏．第 1 冊． No. 1．佛說長阿含經．卷第十四．（一九）第二分大會經第十五．[0079b01] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 79, b1)
+
+      * `相應部1相應37經/集會經 <http://agama.buddhason.org/SN/SN0037.htm>`__ ( 臺灣「 `莊春江工作站 <http://agama.buddhason.org/DN/index.htm>`__ 」)
+
+      * 梵Mahāsamāja-s. (Waldschmidt 小經)
+
+  * 英譯(English)：
+
+    * Maha-samaya Sutta — `The Great Assembly <http://www.accesstoinsight.org/tipitaka/dn/dn.20.0.piya.html>`__ , translated from the Pali by **Ven. Piyadassi Thera** 
+
+      `The Great Meeting <http://www.accesstoinsight.org/tipitaka/dn/dn.20.0.than.html>`__ , translated from the Pali by **Ven. Thanissaro Bhikkhu** ( `AccessToInsight <http://www.accesstoinsight.org/>`__ )
+
+    * PTS: `The Great Concourse <http://obo.genaud.net/dhamma-vinaya/pts/dn/dn.20.rhyt.pts.htm>`__ , translated from the Pali by T.W. Rhys Davids, II.284
+
+      WP: The Mighty Gathering: Devas Come to See the Buddha, Walshe, trans., 315 ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ )
+
+- _`DN 21` Sakkapañha Sutta [PTS 編次 (No.)]; DN ii 263 [PTS 頁碼 (Pp.)]
+
+  * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
+
+    * PTS: `Sakkapañhasuttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/DN_II_utf8.html#pts.263>`__ ( `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [1]_
+
+    * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__： `Sakkapañhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul7.xml>`__ [2]_
+
+  * 漢譯：
+
+    * `漢譯 長部21/帝釋所問經 <http://agama.buddhason.org/DN/DN21.htm>`__ ；莊春江 [3]_
+
+    * `帝釋所問經 <http://tripitaka.cbeta.org/B06n0003_002#0070b01>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典二．帝釋所問經第二十一; [0070b01] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 70, b1) [5]_
+
+    * `帝釋所問經 <http://tripitaka.cbeta.org/N07n0004_021>`__ ；通妙譯，元亨寺漢譯南傳大藏經；二一　帝釋所問經; [0243a03] ( `CBETA <http://www.cbeta.org/>`__ , N07, no. 4, p. 243, a3) [6]_
+
+    * 對照之阿含經典及其他： 
+
+      * `帝釋問事緣 <http://tripitaka.cbeta.org/T04n0203_006#0476a17>`__ ；元魏 西域三藏 吉迦夜 共 曇曜 譯．大正藏．第 4 冊． No. 203．雜寶藏經．卷第六．（七三）帝釋問事緣; [0476a17] （或 `舊版 <http://tripitaka.cbeta.org/T04n0203_006?format=line&linehead=yes#0476a17>`__ ； `CBETA <http://www.cbeta.org/>`__ , T04, no. 203, p. 476, a17）
+
+      * `釋問經 <http://tripitaka.cbeta.org/T01n0026_033#0632c27>`__ ；東晉罽賓三藏瞿曇僧伽提婆譯．大正藏．第 1 冊． No. 26．中阿含經卷第三十三．（一三四）大品釋問經第十八(第三念誦)；《中阿含134經》; [0632c27] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 26, p. 632, c27)
+
+      * `帝釋所問經 <http://tripitaka.cbeta.org/ko/T01n0015_001>`__ ；西天譯經三藏朝奉大夫試光祿卿明教大師臣法賢奉　詔譯．大正藏．第 1 冊． No. 15．佛說帝釋所問經．[0246b03] ( `CBETA <http://www.cbeta.org/>`__ , T1, no. 15, p. 246, b3)
+
+      * `釋提桓因問經 <http://tripitaka.cbeta.org/T01n0001_010#0062b28>`__ ；後秦 弘始年 佛陀耶舍 共 竺佛念 譯．大正藏．第 1 冊． No. 1．佛說長阿含經．卷第十．（一四）第二分釋提桓因問經第十．[0062b28] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 8, b12)
+
+      * 梵Śakrapraśna-s. (Waldschmidt 小經)
+
+  * 英譯(English)：
+
+    * Sakka-pañha Sutta: `Sakka's Questions <http://www.accesstoinsight.org/tipitaka/dn/dn.21.2x.than.html>`__ (excerpt), translated from the Pali by **Ven. Thanissaro Bhikkhu** ( `AccessToInsight <http://www.accesstoinsight.org/>`__ )
+
+    * PTS: `The Questions of Sakka <http://obo.genaud.net/dhamma-vinaya/pts/dn/dn.21.rhyt.pts.htm>`__ , translated from the Pali by T.W. Rhys Davids, II.299
+
+      WP: Sakka's Questions: A God Consults the Buddha, Walshe, trans., 321 ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ )
+
+    * `Sakka's Questions <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/dn-21.htm>`__ (excerpt) ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
+
+- _`DN 22` `Mahāsatipaṭṭhānasuttaṃ; 大念處經; The Great Frames of Reference <{filename}dn22/dn22%zh.rst>`__ ; 大念住經; 念住大經; The Long Discourse about the Ways of Attending to Mindfulness ; The Great Discourse on the Establishing of Awareness; DN 16 [PTS 編次 (No.)]; D ii 290 [PTS 頁碼 (Pp.)]
+
+
+DN-Template-2
+
+
+- _`DN 23`  Sutta [PTS 編次 (No.)]; DN ii 316 [PTS 頁碼 (Pp.)]
+
+  * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
+
+    * PTS: `Pāyāsisuttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/DN_II_utf8.html#pts.316>`__ ( `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [1]_
+
+    * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__： `Pāyāsisuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul9.xml>`__ [2]_
+
+  * 漢譯：
+
+    * `漢譯 長部23經/波亞西經 <http://agama.buddhason.org/DN/DN23.htm>`__ ；莊春江 [3]_
+
+    * `弊宿經 <http://tripitaka.cbeta.org/B06n0003_002#0075b22>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典二．弊宿經第二十三; [0075b22] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 75, b22) [5]_
+
+    * `弊宿經 <http://tripitaka.cbeta.org/N07n0004_023>`__ ；通妙譯，元亨寺漢譯南傳大藏經；二三　弊宿經; [0300a03] ( `CBETA <http://www.cbeta.org/>`__ , N07, no. 4, p. 300, a3) [6]_
+
+    * 對照之阿含經典及其他： 
+
+      * `蜱肆經 <http://tripitaka.cbeta.org/T01n0026_016#0525a10>`__ ；東晉 罽賓三藏 瞿曇僧伽提婆 譯．大正藏．第 1 冊． No. 26．中阿含經卷第十六．（七一）王相應品蜱肆經第七(第二小土城誦)；《中阿含134經》; [0525a10] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 26, p. 525, a10)
+
+      * `弊宿經 <http://tripitaka.cbeta.org/T01n0001_007#0042b24>`__ ；後秦弘始年佛陀耶舍共竺佛念譯．大正藏．第 1 冊． No. 1．佛說長阿含經．卷第七．（七）第二分弊宿經第三．[0042b24] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 42, b24)
+
+      * `大正句王經 <http://tripitaka.cbeta.org/T01n0045_001>`__ ；西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉　詔譯．大正藏．第 1 冊． No. 45．大正句王經．[0831a06] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 45, p. 831, a6)
+
+  * 英譯(English)：
+
+    * PTS: `Rebirth and Karma <http://obo.genaud.net/dhamma-vinaya/pts/dn/dn.23.rhyt.pts.htm>`__ , translated from the Pali by T.W. Rhys Davids, II.349
+
+      WP: About Payasi: Debate with a Sceptic, Walshe, trans., 351 ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ )
 
 ----
 
@@ -664,6 +971,8 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
 .. [9] 部份經典選譯，請參考： `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ → `e-Tipitaka <http://www.mahindaramatemple.com/e-tipitaka/e-tipitaka.htm>`__ → `Suttanta Pitaka <http://www.mahindaramatemple.com/e-tipitaka/suttanta.htm>`__ → `1. Digha Nikaya-- Collection of Long Discourses of the Buddha <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/digha-nikaya.htm>`__ .  
 
 ..
+  03.27 finish changing table to list line for mahāvagga 大品(DN 14 ～ DN 23)
+        add: 長部概要(尊者覓寂比丘, 江鍊百 據日譯, 通妙 元亨寺)
   03.23 finish changing table to list line for sīlakkhandhavagga 戒蘊(集)品 (DN 1 ～ DN 13)
   03.22 http://tripitaka.cbeta.org/B06, no. 3, p. 16, a22
         →→→
