@@ -1254,8 +1254,6 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
-- `府城佛教網_首頁 <{filename}/pages/index.rst>`_
-
 ------
 
 .. [1] 請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__: → `DN <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → `{D i 1} <http://www.accesstoinsight.org/tipitaka/sltp/DN_I_utf8.html>`__ ; `{D ii 55} <http://www.accesstoinsight.org/tipitaka/sltp/DN_II_utf8.html>`__; `{D iii 58} <http://www.accesstoinsight.org/tipitaka/sltp/DN_III_utf8.html>`__ 
@@ -1278,7 +1276,7 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
 
 ..
   03.30 finish changing table to list line for pāthikavagga 波梨品(DN 24 ～ DN 34)
-        rev. move order of 對照之阿含經典及其他 according to Ven. Metta's works
+        rev. move order of 對照之阿含經典及其他 according to Ven. Metta's works; del:府城佛教網_首頁
   03.27 finish changing table to list line for mahāvagga 大品(DN 14 ～ DN 23)
         add: 長部概要(尊者覓寂比丘, 江鍊百 據日譯, 通妙 元亨寺)
   03.23 finish changing table to list line for sīlakkhandhavagga 戒蘊(集)品 (DN 1 ～ DN 13)
