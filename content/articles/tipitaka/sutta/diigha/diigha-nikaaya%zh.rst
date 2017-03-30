@@ -879,7 +879,7 @@ pāthikavagga 波梨品
 
       * `阿[少/兔]夷經 <http://tripitaka.cbeta.org/T01n0001_011>`__ ；後秦 弘始年 佛陀耶舍 共 竺佛念 譯．大正藏．第 1 冊． No. 1．佛說長阿含經．卷第十一．（一五）第二分阿[少/兔]夷經第十一．[0066a09] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 66, a9) [少/兔] (ㄋ一ㄡ‵ nyio)
 
-   * 英譯(English)：
+  * 英譯(English)：
 
     * PTS: `Mystic Wonders and the Origin of Things <http://obo.genaud.net/dhamma-vinaya/pts/dn/dn.24.rhyt.pts.htm>`__ , translated from the Pali by T.W. Rhys Davids, III.7
 
@@ -965,7 +965,7 @@ pāthikavagga 波梨品
 
       * `七日品第四十之一．（一） <http://tripitaka.cbeta.org/T02n0125_034#0735b19>`__ ；東晉 罽賓三藏 瞿曇僧伽提婆 譯．大正藏．第 1 冊． No. 1．增壹阿含經．卷第三十四．七日品第四十之一．（一）．增壹阿含40.1．[0735b19] ( `CBETA <http://www.cbeta.org/>`__ , T02, no. 125, p. 735, b19)
 
-      * `佛說白衣金幢二婆羅門緣起經 <http://tripitaka.cbeta.org/T01n0010_001#0216b10>`__ 西天譯經三藏朝奉大夫試光祿卿傳法大師賜紫沙門臣施護等奉　詔譯．大正藏．第 1 冊． No. 10．佛說白衣金幢二婆羅門緣起經．[0216b10] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 10, p. 216, b10)
+      * `佛說白衣金幢二婆羅門緣起經 <http://tripitaka.cbeta.org/T01n0010_001#0216b10>`__ ；西天譯經三藏朝奉大夫試光祿卿傳法大師賜紫沙門臣施護等奉　詔譯．大正藏．第 1 冊． No. 10．佛說白衣金幢二婆羅門緣起經．[0216b10] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 10, p. 216, b10)
 
   * 英譯(English)：
 
@@ -995,18 +995,13 @@ pāthikavagga 波梨品
 
       * `信佛功德經 <http://tripitaka.cbeta.org/T01n0018_001>`__ 西天譯經三藏朝奉大夫試光祿卿明教大師臣法賢奉　詔譯．大正藏．第 1 冊． No. 18．佛說信佛功德經．[0255a11] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 18, p. 255, a11)
 
-      * `雜阿含四九八經（那羅犍陀） <http://tripitaka.cbeta.org/T02n0099_044#0130c07>`__ ；宋 天竺三藏 求那跋陀羅 譯．大正藏．第 2 冊． No. 99．雜阿含經．卷第十八．（四九八）．[0130c07] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 99, p. 130, c7) 。 `雜阿含498經 <http://agama.buddhason.org/SA/SA0498.htm>`__ ( 臺灣「 `莊春江工作站 <http://agama.buddhason.org/DN/index.htm>`__ 」)
+      * `雜阿含四九八經（那羅犍陀） <http://tripitaka.cbeta.org/T02n0099_044#0130c07>`__ ；宋 天竺三藏 求那跋陀羅 譯．大正藏．第 2 冊． No. 99．雜阿含經．卷第十八．（四九八）．[0130c07]; ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 99, p. 130, c7) 。 `雜阿含498經 <http://agama.buddhason.org/SA/SA0498.htm>`__ ( 臺灣「 `莊春江工作站 <http://agama.buddhason.org/DN/index.htm>`__ 」)
 
   * 英譯(English)：
 
     * PTS: `The Faith that Satisfied <http://obo.genaud.net/dhamma-vinaya/pts/dn/dn.28.rhyt.pts.htm>`__ , translated from the Pali by T.W. Rhys Davids, III.95
 
       WP: Serene Faith, Walshe, trans., 417 ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ )
-
-----
-
-pāthikavagga 波梨品
-++++++++++++++++++++
 
 .. list-table:: (DN 24 ～ DN 34) (CS:pg.2.1~260；PTS:III,1~293)
    :widths: 9 9 9 9 9 9 9 9 9 9 10 
@@ -1070,8 +1065,6 @@ pāthikavagga 波梨品
     * PTS: `The Marks of the Superman <http://obo.genaud.net/dhamma-vinaya/pts/dn/dn.30.rhyt.pts.htm>`__ , translated from the Pali by T.W. Rhys Davids and C.A.F. Rhys Davids, III.137
 
       WP: The Marks of a Great Man, Walshe, trans., 441 ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ )
-
-    * `About Ambattha <>`__ ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
 
 - _`DN 31` Siṅgāla Sutta [PTS 編次 (No.)]; DN iii 180 [PTS 頁碼 (Pp.)]
 
@@ -1207,8 +1200,6 @@ pāthikavagga 波梨品
       * `The Chanting Together: 8s <http://obo.genaud.net/dhamma-vinaya/wp/dn/dn.33.08.wlsh.wp.htm>`_ Walshe, trans.
       * `The Chanting Together: 9s <http://obo.genaud.net/dhamma-vinaya/wp/dn/dn.33.09.wlsh.wp.htm>`_ Walshe, trans.
       * `The Chanting Together: 10s <http://obo.genaud.net/dhamma-vinaya/wp/dn/dn.33.10.wlsh.wp.htm>`_ Walshe, trans. ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ )
-
-    * `About Ambattha <>`__ ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
 
 - _`DN 34` Dasuttara Sutta [PTS 編次 (No.)]; DN iii 272 [PTS 頁碼 (Pp.)]
 
