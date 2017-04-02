@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2017-03-27
-:modified: 2017-03-30
+:modified: 2017-03-31
 :tags: Dīghanikāya, 巴利三藏長部, 長部概要, Santagavesaka Bhikkhu, 覓寂比丘 
 :category: 巴利三藏長部
 :summary: Dīghanikāya 長部概要
@@ -599,8 +599,6 @@ pāthikavagga 波梨品
 
 - `Tipiṭaka 南傳（巴利）大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
-- `府城佛教網 <{filename}/pages/index.rst>`__ 
-
 ------
 
 備註：
@@ -622,5 +620,6 @@ pāthikavagga 波梨品
 
 
 ..
+  03.31 del 府城佛教網首頁
   03.30 del 長部經典一
   create rst on 03.27 2017 
