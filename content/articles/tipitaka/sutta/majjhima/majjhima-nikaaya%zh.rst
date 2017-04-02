@@ -1,8 +1,8 @@
-Majjhima-nikāya 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
-======================================================================================
+Majjhima-nikāya 巴利大藏經 經藏 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
+==============================================================================================================
 
 :date: 2003-07-13
-:modified: 2017-01-16
+:modified: 2017-04-02
 :tags: 中部尼柯耶, 中部, 尼柯耶, Majjhima nikāya, 巴利三藏中部
 :category: 巴利三藏中部
 :summary: Majjhima-nikāya 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
@@ -10,13 +10,68 @@ Majjhima-nikāya 中部 (Further Dialogues of the Buddha; The "Middle-length" Di
           (The "Middle-length" Discourses), 3 vols
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Majjhima-nikaaya.htm
 
+- 中部概要(題解)：
 
-可參考： `《中部尼柯耶》閱讀地圖(菩提比丘) <{filename}maps-MN-Bodhi%zh.rst>`__
-〔取材自:`菩提比丘：《中部尼柯耶》閱讀地圖 <http://yifertw.blogspot.com/2011/11/blog-post_12.html>`__ (“藏經閣外的掃葉人”網誌--`【台語與佛典】, <http://yifertw.blogspot.com/>`__, 2011年11月12日, 星期六) 
-Original: 
-`A Systematic Study of the Majjhima Nikāya <http://bodhimonastery.org/a-systematic-study-of-the-majjhima-nikaya.html>`__-- Exploring the Word of the Buddha (`BODHI MONASTERY <http://bodhimonastery.org/>`__)
+  * `中部概要 <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst>`__ ，尊者覓寂比丘(Santagavesaka Bhikkhu)
 
-----
+  * 沙門芝峯據日譯本重譯：`中部經典一 (MN 1~ MN 50) <http://tripitaka.cbeta.org/B06n0004_001#0083a01>`__ ( `CBETA <http://www.cbeta.org/>`__ ) [1]_
+
+  *  `中部經典　經文說明 <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst>`__ ；通妙譯，元亨寺漢譯南傳大藏經編譯委員會，高雄：元亨寺妙林出版社, 1995，經藏／中部
+
+- `《中部尼柯耶》閱讀地圖 <{filename}maps-MN-Bodhi%zh.rst>`__ 〔取材自: 菩提比丘：《中部尼柯耶》閱讀地圖-- 【台語與佛典】 [2]_
+
+------
+
+- `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
+
+  * PTS: 
+
+    * `Majjhimanikāyo <http://www.accesstoinsight.org/tipitaka/sltp/MN_I_utf8.html>`__ (the others cf. `AccessToInsight <http://www.accesstoinsight.org/>`__ : original 其他請參原始出處) [3]_
+
+    * `直接閱讀 <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-PTS-dhammarain.htm>`__ (HTML), `PDF <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-PTS-dhammarain.pdf>`__ , `ms doc <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-PTS-dhammarain.doc>`__ , `ms rtf <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-PTS-dhammarain.rtf>`__ (*57.1 MB*) --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__  [with PTS pg. no. from CSCD, Original compiled by Bhikkhu Dhammagutta, Revised by Dhammavassārāma, 2551 B.E. (2007A.D.)]
+
+  * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__： `Majjhimanikāya <http://www.tipitaka.org/romn/cscd/s0201m.mul0.xml>`__ (the others cf. `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ : original 其他請參原始出處) [4]_
+
+  * Majjhimanikāya (M.)《中部》 ( **pāḷi 巴利** 原典)： `直接閱讀 <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-cscd-dhammarain.htm>`__ (HTML), `PDF <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-cscd-dhammarain.pdf>`__ , `ms doc <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-cscd-dhammarain.doc>`__ , `ms rtf <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-cscd-dhammarain.rtf>`__ (*57.1 MB*) --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 CS 及 PTS 頁碼標記；另有與《中阿含經》等可供參考之相當古漢譯對應經典註記,  with CS & PTS pg. no. & cp. with Madhyamāgama
+
+- 漢譯：
+
+  * `漢譯 中部/Majjhimanikāyo <http://agama.buddhason.org/MN/index.htm>`__ ；莊春江 (original: 原始出處) [5]_
+
+  * `中部 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ (5.1.2.中部)；蕭式球 (original: 原始出處) [6]_
+
+  * `南傳中部經典 <http://tripitaka.cbeta.org/B06n0004_001>`__ ；沙門芝峯據日譯本重譯（錄至《呵魔經第五十》）；下載 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/B/B0004.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/B/B0004.）pdf>`__ 、 `ePub <http://www.cbeta.org/download/epub/download.php?file=B/B0004.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/B/B0004.mobi>`__ ; original 原始出處: `CBETA <http://www.cbeta.org/>`__ [7]_
+
+  * `中部經典 <http://tripitaka.cbeta.org/N09>`__ ；通妙譯，元亨寺漢譯南傳大藏經； original 原始出處: `CBETA <http://www.cbeta.org/>`__ [8]_
+
+  * `Majjhima Nikāya <https://suttacentral.net/mn>`__ (MN, `SuttaCentral <https://suttacentral.net/>`__ , Early Buddhist texts, translations, and parallels; 包含巴、漢、英文等之多種語文對讀、翻譯)
+
+- `細目`_
+
+- 英譯(English)：
+
+  * `The Root 50 <http://obo.genaud.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_1.htm>`__ (Index of the Suttas of the Majjhima Nikāya Book I, Mūla-Paṇṇāsa-Pāḷi);  `The Magic (Middle) 50 <http://obo.genaud.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_2.htm>`__ (Book II, Majjhima-Paṇṇāsa-Pāḷi); `The Up-aroun-50 <http://obo.genaud.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_3.htm>`__; (Book III, Upari-Paṇṇāsa-Pāḷi) (collecting many translators's works, 選錄多位翻譯者之譯文) [9]_ 
+
+  * Majjhima Nikaya-- `The Middle-length Discourses <http://www.accesstoinsight.org/tipitaka/mn/index.html>`__ (Selected translations, original 部份經典選譯，其他請參原始出處: `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [10]_
+
+  * Majjhima Nikaya-- `Collection of Medium Length Discourses of the Buddha <http://www.mahindaramatemple.com/e-tipitaka/Majjhima-Nikaya/majjhima-nikaya.htm>`__ ；請參原始出處: `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) [11]_
+
+- `Majjhimanikāya 中部經典 <https://sites.google.com/site/palishengdian/pali/da/mn>`__ ( on `Pali 聖典 <https://sites.google.com/site/palishengdian/>`__ )
+
+- 日譯(和訳)： `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`_
+
+- `中部 (佛經) <https://zh.wikipedia.org/wiki/%E4%B8%AD%E9%83%A8_(%E4%BD%9B%E7%B6%93)>`__ （ `維基百科 <http://zh.wikipedia.org/>`__，自由的百科全書）
+
+- `Majjhima Nikaya <https://en.wikipedia.org/wiki/Majjhima_Nikaya>`__ , `Wikipedia <http://en.wikipedia.org/>`__ , the free encyclopedia
+
+- `中部 (パーリ) <https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A8_(%E3%83%91%E3%83%BC%E3%83%AA)>`__ （ `ウィキペディア <http://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8>`__ 、フリー百科事典)
+
+- `Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`_
+
+------
+
+_`細目`
+-------
 
 1. `mūlapaṇṇāsa  根本五十經篇`_ （MN 1 ～ MN 50）
 2. `majjhimapaṇṇāsa 中分五十經篇`_ （MN 51 ～ MN 100）
@@ -1644,8 +1699,58 @@ saḷāyatanavaggo 六處品
     - 
     - 《雜阿含282經》(大正2.78.)
 
+------
+
+_`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
+-------------------------------------------------------
+
+- Majjhimanikāya-aṭṭhakathā [MA. Papancasūdanī (Ps.)] by Bhadantācariya BUDDHAGHOSA (佛音﹐5 A.D.), with CS & PTS page number, **pāḷi 中部注《破除疑障》 巴利文** )： `直接閱讀 <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-atthakatha-cscd-dhammarain.htm>`__ (HTML), `PDF <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-atthakatha-cscd-dhammarain.pdf>`__ , `ms doc <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-atthakatha-cscd-dhammarain.doc>`__ , `ms rtf <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-atthakatha-cscd-dhammarain.rtf>`__ (*61.8 MB*) --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 CS 及 PTS 頁碼標記； with CS & PTS pg. no.
+
+  M.A. VRI Page No. vs  PTS Page No. 中部注《破除疑障》VRI 與 PTS 頁碼對照表： `直接閱讀 <http://www.dhammarain.org.tw/canon/MAJJHIMA/MA-VRI-PTS-table-dhammarain.htm>`__ (HTML), `PDF <http://www.dhammarain.org.tw/canon/MAJJHIMA/MA-VRI-PTS-table-dhammarain.pdf>`__ , `ms doc <http://www.dhammarain.org.tw/canon/MAJJHIMA/MA-VRI-PTS-table-dhammarain.doc>`__ , `ms rtf <http://www.dhammarain.org.tw/canon/MAJJHIMA/MA-VRI-PTS-table-dhammarain.rtf>`__ --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 
+
+- Majjhimanikāya-ṭīkā (MṬ.)(with CS & PTS page number)《中部疏》： `直接閱讀 <http://www.dhammarain.org.tw/canon/MAJJHIMA/MN-tika-dhammarain.htm>`__ (HTML), `PDF <http://www.dhammarain.org.tw/canon/MAJJHIMA/MN-tika-dhammarain.pdf>`__ , `ms doc <http://www.dhammarain.org.tw/canon/MAJJHIMA/MN-tika-dhammarain.doc>`__ , `ms rtf <http://www.dhammarain.org.tw/canon/MAJJHIMA/MN-tika-dhammarain.rtf>`__ --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 
+
+------
+
+- `Pali 聖典 <https://sites.google.com/site/palishengdian/>`__
+
+------
+
+  *  `中部經典總說 <{filename}/extra/tipitaka/sutta/majjhima/majjhimanikaya-introduction-guan-hiang.pdf>`__ ；通妙譯，元亨寺漢譯南傳大藏經編譯委員會，高雄：元亨寺妙林出版社, 1995，經藏／中部經典四
+
+------
+
+- `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+------
+
+備註：
+------
+
+.. [1] `南傳中部經典一 <http://tripitaka.cbeta.org/B06n0004_001>`__ ；沙門 芝峯 據日譯本重譯成為漢文，收在《普慧大藏經》中。請參考： `CBETA <http://www.cbeta.org/>`__ → CBETA 相關網站 → `漢文大藏經 <http://tripitaka.cbeta.org/>`__ → `B 大藏經補編選錄 <http://tripitaka.cbeta.org/B>`__ （紙本來源：大藏經補編，藍吉富 主編 / 台北：華宇出版社, 1985.） → 第 6 冊 `B06 <http://tripitaka.cbeta.org/B06>`__ → `B06n0004　南傳中部經典 ( 1 卷)　【芝峯譯】 <http://tripitaka.cbeta.org/B06n0004>`__  → `第 001 卷 <http://tripitaka.cbeta.org/B06n0004_001>`__ （下載 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/B/B0004.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/B/B0004.pdf>`__ 、 `ePub <http://www.cbeta.org/download/epub/download.php?file=B/B0004.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/B/B0004.mobi>`__ 
+
+.. [2] `菩提比丘：《中部尼柯耶》閱讀地圖 <http://yifertw.blogspot.com/2011/11/blog-post_12.html>`__ (“藏經閣外的掃葉人”網誌--`【台語與佛典】, <http://yifertw.blogspot.com/>`__, 2011年11月12日, 星期六) Original: `A Systematic Study of the Majjhima Nikāya <http://bodhimonastery.org/a-systematic-study-of-the-majjhima-nikaya.html>`__-- Exploring the Word of the Buddha (`BODHI MONASTERY <http://bodhimonastery.org/>`__)
+
+.. [3] 請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__: → `MN <http://www.accesstoinsight.org/tipitaka/mn/index.html>`__ → `{M i 1} <http://www.accesstoinsight.org/tipitaka/sltp/MN_I_utf8.html>`__ (PTS Vol M - 1); `{M ii 22} <http://www.accesstoinsight.org/tipitaka/sltp/MN_II_utf8.html>`__ (PTS Vol M - 2); `{M iii 1} <http://www.accesstoinsight.org/tipitaka/sltp/MN_III_utf8.html>`__ (PTS Vol M - 3)
+
+.. [4] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ ``*http://www.tipitaka.org/*`` (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Majjhimanikāya → Mūlapaṇṇāsapāḷi → `1. Mūlapariyāyavaggo <http://www.tipitaka.org/romn/cscd/s0201m.mul0.xml>`__ , `2. Sīhanādavaggo <http://www.tipitaka.org/romn/cscd/s0201m.mul1.xml>`__ , and so on)。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
+
+.. [5] 請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯中部/Majjhimanikāyo <http://agama.buddhason.org/MN/index.htm>`__
+
+.. [6] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.2.中部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ）
+
+.. [7] `南傳中部經典 <http://tripitaka.cbeta.org/B06n0004_001>`__ ；沙門芝峯據日譯本重譯（錄至《呵魔經第五十》），收在《普慧大藏經》中。請參考： `CBETA <http://www.cbeta.org/>`__ → CBETA 相關網站 → `漢文大藏經 <http://tripitaka.cbeta.org/>`__ → `B 大藏經補編選錄 <http://tripitaka.cbeta.org/B>`__ （紙本來源：大藏經補編，藍吉富 主編 / 台北：華宇出版社, 1985.） → 第 6 冊 `B06 <http://tripitaka.cbeta.org/B06>`__ → `B06n0004　南傳中部經典 ( 1 卷)　【芝峯譯】 <http://tripitaka.cbeta.org/B06n0004>`__  → `第 001 卷 <http://tripitaka.cbeta.org/B06n0004_001>`__；下載 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/B/B0004.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/B/B0004.pdf>`__ 、 `ePub <http://www.cbeta.org/download/epub/download.php?file=B/B0004.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/B/B0004.mobi>`__ ; original 原始出處: `CBETA <http://www.cbeta.org/>`__
+
+.. [8] 請參考： `N 《漢譯南傳大藏經》 <http://tripitaka.cbeta.org/N>`__ （紙本來源：元亨寺漢譯南傳大藏經編譯委員會 / 高雄：元亨寺妙林出版社, 1995.） → 經藏／中部 N09, N10, N11, N12 → `N09 <http://tripitaka.cbeta.org/N09>`__ → 第 9 冊：直接進入閱讀 `N09n0005　中部經典(第1卷-第4卷) ( 4 卷)　【通妙譯】 <http://tripitaka.cbeta.org/N09n0005>`_ （ `第 001 卷 <http://tripitaka.cbeta.org/N09n0005_001>`__ 、 `第 002 卷 <http://tripitaka.cbeta.org/N09n0005_002>`__ ..., ... 以此類推）、 下載 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/N/N0005.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/N/N0005.pdf>`__ 、 `ePub <http://www.cbeta.org/download/epub/download.php?file=N/N0005.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/N/N0005.mobi>`__ 。
+
+.. [9] 選錄多位翻譯者之譯文，請參 `Obo's Web <http://obo.genaud.net/index.htm>`__ → `Index to Sutta Indexes <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ → Majjhima Nikāya: `Mūla-Paṇṇāsaɱ <http://obo.genaud.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_1.htm>`__ (The Root 50: Suttas 1-50) (pts vol I: p 1-338), `Majjhima-Paṇṇāsaɱ <http://obo.genaud.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_2.htm>`_ (The Middle 50: Suttas 51-100) (pts vol I: p 339-524; vol II: 1-213); `Upari-Paṇṇāsaɱ <http://obo.genaud.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_3.htm>`_ (The Final 50: Suttas 101-152) (pts Vol II: 214-266; Vol III: p 1-302)
+
+.. [10] 部份經典選譯，請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__: / → `MN <http://www.accesstoinsight.org/tipitaka/mn/index.html>`__ 
+
+.. [11] 請參考： `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ → `e-Tipitaka <http://www.mahindaramatemple.com/e-tipitaka/e-tipitaka.htm>`__ → `Suttanta Pitaka <http://www.mahindaramatemple.com/e-tipitaka/suttanta.htm>`__ → 2. Majjhima Nikaya `Collection of Medium Length Discourses of the Buddha <http://www.mahindaramatemple.com/e-tipitaka/Majjhima-Nikaya/majjhima-nikaya.htm>`__ 
 
 ..
+  04.02 add: many items except table-- 中部概要(題解)、巴利(Pāḷi) 原典、漢譯、英譯(English), and so on)
   01.16 2017 ren. contrast-reading%zh.rst with contrast-reading-dn22%zh.rst
         del: 另可參考 (缺18~21.); (The Great Frames of Reference) @《長部 D. 22 Mahaasatipa.t.thaanasutta.m 大念處經》
   -----------
