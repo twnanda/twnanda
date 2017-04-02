@@ -14,7 +14,7 @@ Dīghanikāya 巴利大藏經 經藏 長部 (The Long Discourses)
 
   * 江鍊百據日譯本重譯 沙門芝峯校證：`長部經典一(DN 1~ DN 14) <http://tripitaka.cbeta.org/B06n0003_001>`__ 、 `長部經典二(DN 15~ DN 23) <http://tripitaka.cbeta.org/B06n0003_002>`__  ( `CBETA <http://www.cbeta.org/>`__ ) [5]_
 
-  *  `長部經典 <{filename}digha-nikaya-summary-guan-hiang%zh.rst>`__ ；通妙譯，元亨寺漢譯南傳大藏經編譯委員會，高雄：元亨寺妙林出版社, 1995.），經藏／長部
+  *  `長部經典　經文說明 <{filename}digha-nikaya-summary-guan-hiang%zh.rst>`__ ；通妙譯，元亨寺漢譯南傳大藏經編譯委員會，高雄：元亨寺妙林出版社, 1995.），經藏／長部
 
 
 - `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
@@ -1248,12 +1248,15 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
 
 ------
 
+- `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+------
+
 - `Pali 聖典 <https://sites.google.com/site/palishengdian/>`__
 
 ------
 
-- `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
-
+備註：
 ------
 
 .. [1] 請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__: → `DN <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → `{D i 1} <http://www.accesstoinsight.org/tipitaka/sltp/DN_I_utf8.html>`__ ; `{D ii 55} <http://www.accesstoinsight.org/tipitaka/sltp/DN_II_utf8.html>`__; `{D iii 58} <http://www.accesstoinsight.org/tipitaka/sltp/DN_III_utf8.html>`__ 
@@ -1275,6 +1278,7 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
 .. [9] 部份經典選譯，請參考： `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ → `e-Tipitaka <http://www.mahindaramatemple.com/e-tipitaka/e-tipitaka.htm>`__ → `Suttanta Pitaka <http://www.mahindaramatemple.com/e-tipitaka/suttanta.htm>`__ → `1. Digha Nikaya-- Collection of Long Discourses of the Buddha <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/digha-nikaya.htm>`__ .  
 
 ..
+  04.02 add: 長部經典．經文說明(通妙譯，元亨寺)
   03.30 finish changing table to list line for pāthikavagga 波梨品(DN 24 ～ DN 34)
         rev. move order of 對照之阿含經典及其他 according to Ven. Metta's works; del:府城佛教網_首頁
   03.27 finish changing table to list line for mahāvagga 大品(DN 14 ～ DN 23)
