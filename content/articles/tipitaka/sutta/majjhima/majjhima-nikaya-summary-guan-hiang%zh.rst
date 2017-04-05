@@ -2,7 +2,7 @@
 ##########################################################
 
 :date: 2017-04-01
-:modified: 2017-04-01
+:modified: 2017-04-05
 :tags: Majjhima-nikāya, Majjhimanikāya, Majjhima nikāya, 巴利三藏中部, 中部經文說明, 通妙, 元亨寺 
 :category: 巴利三藏中部
 :summary: 南傳大藏經 (巴利大藏經) Majjhima-nikāya 中部經文說明 (元亨寺 通妙譯)
@@ -1575,7 +1575,7 @@ Saḷāyatanavaggo 六處品
 
 ------
 
-- `巴利大藏經 經藏 長部 <{filename}diigha-nikaaya%zh.rst>`__
+- `巴利大藏經 經藏 中部 <{filename}majjhima-nikaaya%zh.rst>`__
 
 - `Tipiṭaka 南傳（巴利）大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
@@ -1607,4 +1607,5 @@ Saḷāyatanavaggo 六處品
 .. [11]  此為元亨寺版--《漢譯南傳大藏經》第十二冊的頁碼。
 
 ..
+  04.05 rev. correct for 巴利大藏經 經藏 中部 old:長部
   create rst on 03.31 '17; finished 04.01 2017; terms are reversed to be understandable and/or liked by the general public
