@@ -4520,7 +4520,7 @@ _`相應部47相應9經` --病經(SN.47.9 Gilānasuttaṃ)
 
 ------
 
-- * **參考經典** ： `長部16經《大般涅槃經》 <{filename}sutta/diigha/dn16/dn16%zh.rst>`__ -- `第二頌 <{filename}sutta/diigha/dn16/contrast-reading-chap2%zh.rst>`__ -- 在木瓜樹村進入雨季安居
+- * **參考經典** ： `長部16經《大般涅槃經》 <{filename}/articles/tipitaka/sutta/diigha/dn16/dn16%zh.rst>`__ -- `第二頌 <{filename}/articles/tipitaka/sutta/diigha/dn16/contrast-reading-chap2%zh.rst>`__ -- 在木瓜樹村進入雨季安居
 
 ------
 
