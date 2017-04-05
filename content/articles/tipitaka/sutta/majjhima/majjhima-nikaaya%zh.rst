@@ -2,7 +2,7 @@ Majjhima-nikāya 巴利大藏經 經藏 中部 (Further Dialogues of the Buddha;
 ==============================================================================================================
 
 :date: 2003-07-13
-:modified: 2017-04-02
+:modified: 2017-04-05
 :tags: 中部尼柯耶, 中部, 尼柯耶, Majjhima nikāya, 巴利三藏中部
 :category: 巴利三藏中部
 :summary: Majjhima-nikāya 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
@@ -56,6 +56,8 @@ Majjhima-nikāya 巴利大藏經 經藏 中部 (Further Dialogues of the Buddha;
 
   * Majjhima Nikaya-- `Collection of Medium Length Discourses of the Buddha <http://www.mahindaramatemple.com/e-tipitaka/Majjhima-Nikaya/majjhima-nikaya.htm>`__ ；請參原始出處: `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) [11]_
 
+- **Detail of** `English Translations`_
+
 - `Majjhimanikāya 中部經典 <https://sites.google.com/site/palishengdian/pali/da/mn>`__ ( on `Pali 聖典 <https://sites.google.com/site/palishengdian/>`__ )
 
 - 日譯(和訳)： `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`_
@@ -73,23 +75,21 @@ Majjhima-nikāya 巴利大藏經 經藏 中部 (Further Dialogues of the Buddha;
 _`細目`
 -------
 
-1. `mūlapaṇṇāsa  根本五十經篇`_ （MN 1 ～ MN 50）
+1. `Mūlapaṇṇāsa  根本五十經篇`_ （MN 1 ～ MN 50）
 2. `majjhimapaṇṇāsa 中分五十經篇`_ （MN 51 ～ MN 100）
 3. `uparipaṇṇāsa 後分五十經篇`_ （MN 101 ～ MN 152）
 
 
-mūlapaṇṇāsa  根本五十經篇
+Mūlapaṇṇāsa  根本五十經篇
 +++++++++++++++++++++++++
 
-（MN 1 ～ MN 50）
+.. list-table:: 根本五十經篇（MN 1 ～ MN 50）
 
-.. list-table::
-
-  * - `mūlapariyāyavaggo 根本法門品`_ (MN 1 ～ MN 10)
-    - `sīhanādavaggo 獅子吼品`_ (MN 11 ～ MN 20)
+  * - `Mūlapariyāyavaggo 根本法門品`_ (MN 1 ～ MN 10)
+    - `Sīhanādavaggo 獅子吼品`_ (MN 11 ～ MN 20)
     - `Opammavaggo 譬喻法品`_ (MN 21 ～ MN 30)
-  * - `mahāyamakavaggo 雙大品`_
-    - `cūḷayamakavaggo 雙小品`_ (MN 41 ～ MN 50)
+  * - `Mahāyamakavaggo 雙大品`_
+    - `Cūḷayamakavaggo 雙小品`_ (MN 41 ～ MN 50)
     - 
 
 majjhimapaṇṇāsa 中分五十經篇
@@ -122,130 +122,170 @@ uparipaṇṇāsa 後分五十經篇
 
 ----
 
-mūlapaṇṇāsa 根本五十經篇
+Mūlapaṇṇāsa 根本五十經篇
 
-mūlapariyāyavaggo 根本法門品
+Mūlapariyāyavaggo 根本法門品
 ++++++++++++++++++++++++++++
 
-(MN 1 ～ MN 10)
+.. list-table:: MN 1 ～ MN 10
+   :widths: 10 10 10 10 10 10 10 10 10 10
 
-.. list-table::
+   * - `MN 1`_
+     - `MN 2`_
+     - `MN 3`_
+     - `MN 4`_
+     - `MN 5`_
+     - `MN 6`_
+     - `MN 7`_
+     - `MN 8`_
+     - `MN 9`_
+     - `MN 10`_
+
+.. list-table:: Mūlapariyāyavaggo 根本法門品 (MN 1 ～ MN 10)
+  :widths: 10 15 15 25 35
   :header-rows: 1
 
-  * - PTS 編次(No.)
-    - PTS 頁碼(Pp.)
-    - 巴利經名
-    - 漢文經名
-    - 英文經名
+  * - PTS 編次(No.), 巴利經名, 頁碼(Pp.) [3]_ [4]_
+    - 莊春江 譯 [5]_
+    - 蕭式球 譯 [6]_
+    - 芝峯 譯(華宇) [7]_、通妙 譯(元亨寺) [8]_
+    - 對照之阿含經典及其他、 `English Translations`_ 英譯
+
+  * - _`MN 1`, Mūlapariyāyasuttaṃ, M i 1
+    - `根本法門經 <http://agama.buddhason.org/MN/MN001.htm>`__
+    - `根源經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=182>`__
+    - `根本法門經 <http://tripitaka.cbeta.org/B06n0004_001#0087b20>`__ (芝峯 譯)
+
+      `根本法門經 <http://tripitaka.cbeta.org/N09n0005_001>`__ (通妙 譯)
+
+    - `增壹阿含經 44.6 （六） <http://tripitaka.cbeta.org/T02n0125_040#0766a04>`__ ；法之本，EA 44.6, 大正藏．第二冊．第125經．第766頁．上欄．第4行。 (CBETA; T02, no. 125, p. 766, a4)
+
+      `中阿含106經 <http://tripitaka.cbeta.org/T01n0026_026#0596b09>`__ ；想經，大正藏．第一冊．第26經．第596頁．中欄．第9行。 (CBETA; T01, no. 26, p. 596, b9) **部份參照**
+
+      `樂想經 <http://tripitaka.cbeta.org/T01n0056_001#0851a23>`__ (CBETA; T01, no. 56, p. 851, a23) **部份參照**
+
+  * - _`MN 2`, Sabbāsavasuttaṃ, MN i 6
+    - `一切煩惱經 <http://agama.buddhason.org/MN/MN002.htm>`__
+    - `漏經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=183>`__
+    - `一切漏經 <http://tripitaka.cbeta.org/B06n0004_001#0088b09>`__ (芝峯 譯)
+
+      `一切漏經 <http://tripitaka.cbeta.org/N09n0005_001#0007a02>`__ (通妙 譯)
+
+    - `增壹阿含40.6經 <http://tripitaka.cbeta.org/T02n0125_034#0740a28>`__ ；淨諸漏，EA 40.6, (T02, no. 125, p. 740, a28)
+
+      `中阿含10經 <http://tripitaka.cbeta.org/T01n0026_002#0431c13>`__ ；漏盡經，大正藏．第一冊．第26經．第431頁．下欄．第13行。 (CBETA; T01, no. 26, p. 431, c13)
+
+      `一切流攝守因經 <http://tripitaka.cbeta.org/T01n0031_001#0813a05>`__ (T01, no. 31, p. 813, a5)
+
+      `增支部6集58經/煩惱經 <http://agama.buddhason.org/AN/AN1189.htm>`__ ; AN 6.58; 《增支部》6.58. 
+
+  * - _`MN 3`, Dhammadāyādasuttaṃ, MN i 12
+    - `法之繼承人經 <http://agama.buddhason.org/MN/MN003.htm>`__
+    - `法繼承經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=184>`__
+    - `法嗣經 <http://tripitaka.cbeta.org/B06n0004_001#0089b13>`__ (芝峯 譯)
+
+      `法嗣經 <http://tripitaka.cbeta.org/N09n0005_001#0014a02>`__ (通妙 譯)
+
+    - `中阿含88經 <http://tripitaka.cbeta.org/T01n0026_022#0569c23>`__；求法經 (CBETA; T01, no. 26, p. 569, c23)
+
+      `增壹阿含 18.3 經  <http://tripitaka.cbeta.org/T02n0125_009#0587c16>`__ （三），EA 18.3,  (CBETA; T02, no. 125, p. 587, a4)
+
+      `法嗣經 <http://enlight.lib.ntu.edu.tw/FULLTEXT/JR-MAG/mag388929.pdf>`__ --繼承我的法，陳慈蘭摘譯 [2003/12/25(語體文)];
+
+  * - _`MN 4`, Bhayabheravasuttaṃ, MN i 16
+    - `恐怖與害怕經 <http://agama.buddhason.org/MN/MN004.htm>`__
+    - `恐懼驚慌經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=185>`__
+    - `怖駭經 <http://tripitaka.cbeta.org/B06n0004_001#0090a32>`__ (芝峯 譯)
+
+      `怖駭經 <http://tripitaka.cbeta.org/N09n0005_001#0020a02>`__ (通妙 譯)
+
+    - `增壹阿含 31.1 經  <http://tripitaka.cbeta.org/T02n0125_009#0665b17>`__ （一），增上，EA 31.1,  (CBETA; T02, no. 125, p. 665, b17)
+
+  * - _`MN 5`, Anaṅgaṇasuttaṃ, MN i 24
+    - `無穢經 <http://agama.buddhason.org/MN/MN005.htm>`__
+    - `無穢經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=186>`__
+    - `無穢經 <http://tripitaka.cbeta.org/B06n0004_001#0091b13>`__ (芝峯 譯)
+
+      `無穢經 <http://tripitaka.cbeta.org/N09n0005_001#0030a02>`__ (通妙 譯)
+
+    - `中阿含87經 <http://tripitaka.cbeta.org/T01n0026_022#0566a13>`__；穢品經 (CBETA; T01, no. 26, p. 566, a13)
+
+      `增壹阿含 25.6 經  <http://tripitaka.cbeta.org/T02n0125_017#0632a20>`__ （六），結，EA 25.6,  (CBETA; T02, no. 125, p. 632, a20)
+
+      `求欲經 <http://tripitaka.cbeta.org/T01n0049_001#0839a05>`__ (CBETA; T01, no. 49, p. 839, )
+
+  * - _`MN 6`, Ākaṅkheyyasuttaṃ, MN i 33
+    - `希望經 <http://agama.buddhason.org/MN/MN006.htm>`__
+    - `希望經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=187>`__
+    - `願經 <http://tripitaka.cbeta.org/B06n0004_001#0093a17>`__ (芝峯 譯)
+
+      `願經 <http://tripitaka.cbeta.org/N09n0005_001#0041a02>`__ (通妙 譯)
+
+    - `中阿含105經 <http://tripitaka.cbeta.org/T01n0026_026#0595c11>`__；穢品經 (CBETA; T01, no. 26, p. 595, c11)
+
+  * - _`MN 7`, Vatthasuttaṃ, MN i 36
+    - `衣服經 <http://agama.buddhason.org/MN/MN007.htm>`__
+    - `布喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=188>`__
+    - `布喻經 <http://tripitaka.cbeta.org/B06n0004_001#0093b28>`__ (芝峯 譯)
+
+      `布喻經 <http://tripitaka.cbeta.org/N09n0005_001#0045a02>`__ (通妙 譯)
+
+    - `中阿含93經 <http://tripitaka.cbeta.org/T01n0026_023#0575a19>`__；水淨梵志經 (CBETA; T01, no. 26, p. 575, a19)
+
+      `梵志計水淨經 <http://tripitaka.cbeta.org/T01n0051_001#0843c13>`__ (CBETA; T01, no. 51, p. 843, c13)
+
+      `增壹阿含 13.5 經  <http://tripitaka.cbeta.org/T02n0125_017#0573c01>`__ ；（五），孫陀利，EA 13.5, (CBETA; T02, no. 125, p. 573, c01) **後半部份參照**
+
+      `雜阿含1185經 <http://tripitaka.cbeta.org/T02n0099_044#0321a24>`__ ；（一一八五），孫陀利 (CBETA; T02, no. 99, p. 321, a24) **部份參照**
+
+      `別譯雜阿含98經 <http://tripitaka.cbeta.org/T02n0100_005#0408b25>`__ (CBETA; T02, no. 100, p. 408, b25) **部份參照**
+
+  * - _`MN 8`, Sallekhasuttaṃ, MN i 40
+    - `削減經 <http://agama.buddhason.org/MN/MN008.htm>`__
+    - `漸損經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=189>`__
+    - `損損經 <http://tripitaka.cbeta.org/B06n0004_001#0094b17>`__ (芝峯 譯)
+
+      `削減經 <http://tripitaka.cbeta.org/N09n0005_001#0051a02>`__ (通妙 譯)
+
     - 對照之阿含經典及其他
 
-  * - MN 1
-    - M i 1
-    - mūlapariyāya Sutta
-    - 根本法門經
-    - The Root Sequence
-      (1. `Translated from the Pali by Ven. Thanissaro Bhikkhu. <http://www.accesstoinsight.org/tipitaka/mn/mn.001.than.html>`__)
-    - 《中阿含106經》想經(大正1.596.);
+      `中阿含 91 經 <http://tripitaka.cbeta.org/T01n0026_023#0573b13>`__ ；周那問見經 (CBETA; T01, no. 26, p. 573, b13)
+      
+  * - _`MN 9`, Sammādiṭṭhisuttaṃ, MN i 46
+    - `正見經 <http://agama.buddhason.org/MN/MN009.htm>`__
+    - `正見經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=190>`__
+    - `正見經 <http://tripitaka.cbeta.org/B06n0004_001#0096a06>`__ (芝峯 譯)
 
-      No.56.《樂想經》(大正1.851.)
+      `正見經 <http://tripitaka.cbeta.org/N09n0005_001#0060a02>`__ (通妙 譯)
 
-  * - MN 2
-    - M i 6
-    - sabbāsava  Sutta
-    - 一切漏經
-    - 
-    - 《中阿含10經》漏盡經(大正1.431.);
+    - `中阿含 29 經 <http://tripitaka.cbeta.org/T01n0026_007#0461b22>`__ ；大拘絺羅經 (CBETA; T01, no. 26, p. 461, b22)
 
-      No.31.《一切流攝守因經》(大正1.813.)
+      `雜阿含 344 經 <http://tripitaka.cbeta.org/T02n0099_014#0094b02>`__ ；（三四四），拘絺羅 (CBETA; T02, no. 99, p. 94, b2)
 
-      《增壹阿含40.6經》淨諸漏(大正2.740.)
+      `增壹阿含 49.5 經 <http://tripitaka.cbeta.org/T02n0125_046#0797b14>`__ ；（五），  (CBETA; T02, no. 125, p. 797, a4) **後半部份參照**
 
-      《增支部》A.6.58.
+      `增支部9集13經/拘絺羅經 <http://agama.buddhason.org/AN/AN1466.htm>`__ (AN 9.13)
 
-  * - MN 3
-    - M i 
-    - dhammadāyāda Sutta
-    - 法嗣經
-      `陳慈蘭摘譯 <http://enlight.lib.ntu.edu.tw/FULLTEXT/JR-MAG/mag388929.pdf>`__ [2003/12/25(語體文)];
-    - To Inherit the Teaching
-      `from ”www.metta.lk” <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/003-dhammadayada-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
-    - 《中阿含88經》求法經(大正1.569.);
+  * - _`MN 10`, Mahāsatipaṭṭhānasuttaṃ, MN i 55
+    - `念住大經 <http://agama.buddhason.org/MN/MN010.htm>`__
+    - `念處經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=191>`__
+    - `念處經 <http://tripitaka.cbeta.org/B06n0004_001#0097b30>`__ (芝峯 譯)
 
-      《增壹阿含18.3經》(大正2.587.)
+      `念處經 <http://tripitaka.cbeta.org/N09n0005_001#0073a02>`__ (通妙 譯)
 
-  * - MN 4
-    - M i 16
-    - Bhaya-bherava Sutta
-    - 怖駭經：
-    - 
-    - 《增壹阿含31.1經》(大正2.665.)
+    - `中阿含 98 經 <http://tripitaka.cbeta.org/T01n0026_024#0582b07>`__ ；念處經 (CBETA; T01, no. 26, p. 582, b7)
 
-  * - MN 5
-    - M i 
-    - Ana”ngaṇa Sutta
-    - 無穢經
-    - Blemishes
-      `from ”www.metta.lk” <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/005-anangana-sutta-e1.html>`__ (Sri Lanka, Main Translation by Sister Upalavanna)
-    - 《中阿含87經》穢品經(大正1.566.)
+      `增壹阿含 12.1 經 <http://tripitaka.cbeta.org/T02n0125_005#0568a01>`__ ；（一），四意止，EA 12.1,  (CBETA; T02, no. 125, p. 568, a1)
 
-      No.49.《求欲經》(大正1.839.) 《增壹阿含25.6經》結(大正2.632.)
+      `《長部 D. 22 Mahaasatipa.t.thaanasutta.m 大念處經》 <{filename}../diigha/dn22/dn22%zh.rst>`__ 
 
-  * - MN 6
-    - M i 
-    - āka”nkheyya Sutta
-    - 願經
-    - 
-    - 《中阿含105經》願經(大正1.595.)
-
-  * - MN 7
-    - M i 36
-    - Vatthupama Sutta
-    - 布喻經
-    - 
-    - 《中阿含93經》水淨梵志經(大正1.575.);
-
-      No.51.《梵志許水淨經》(大正1.843.);
-
-      《增壹阿含13.5經》孫陀利(大正2.573.)後半;
-
-      《雜阿含1185經》 (大正2.321.);
-
-      《別譯雜阿含99經》 (大正2.408.)
-
-  * - MN 8
-    - M i 40
-    - Sallekha Sutta
-    - 削減經
-    - 
-    - 《中阿含91經》周那問見經(大正1.573.)
-
-  * - MN 9
-    - M i 46
-    - Sammaditthi Sutta
-    - 正見經
-    - 
-    - 《中阿含29經》;
-
-      《增壹阿含49.5經》後半(大正2.797.);
-
-      《雜阿含344經》
-
-  * - MN 10
-    - M i 55
-    - Satipatthana Sutta
-    - 念處經
-    - 
-    - `《中阿含98經》念處經第二(大正1.582b)(卷第二十四) <http://myweb.ncku.edu.tw/~lsn46/Taisho/T01/T0026_024.htm#九八>`__;
-
-      `增12. 1 四意止(大2. 568a) <http://myweb.ncku.edu.tw/~lsn46/Taisho/T02/T0125_005.htm#品第十二（一）>`__;
-
-      另可參考 `《長部 D. 22 Mahaasatipa.t.thaanasutta.m 大念處經》 <{filename}../diigha/dn22/contrast-reading-dn22%zh.rst>`__ 
+      `中部119經/身至念經 <http://agama.buddhason.org/MN/MN119.htm>`__ (MN 119) **部份參照**
 
 ----
 
-mūlapaṇṇāsa 根本五十經篇
+Mūlapaṇṇāsa 根本五十經篇
 
-sīhanādavaggo 獅子吼品
+Sīhanādavaggo 獅子吼品
 ++++++++++++++++++++++
 
 (MN 11 ～ MN 20)
@@ -363,7 +403,7 @@ sīhanādavaggo 獅子吼品
 
 ----
 
-mūlapaṇṇāsa 根本五十經篇
+Mūlapaṇṇāsa 根本五十經篇
 
 Opammavaggo 譬喻法品
 ++++++++++++++++++++
@@ -470,9 +510,9 @@ Opammavaggo 譬喻法品
 
 ----
 
-mūlapaṇṇāsa 根本五十經篇
+Mūlapaṇṇāsa 根本五十經篇
 
-mahāyamakavaggo 雙大品
+Mahāyamakavaggo 雙大品
 ++++++++++++++++++++++
 
 (MN 31 ～ MN 40)
@@ -582,9 +622,9 @@ mahāyamakavaggo 雙大品
 
 ----
 
-mūlapaṇṇāsa 根本五十經篇
+Mūlapaṇṇāsa 根本五十經篇
 
-cūḷayamakavaggo 雙小品
+Cūḷayamakavaggo 雙小品
 ++++++++++++++++++++++
 
 (MN 41 ～ MN 50)
@@ -1704,7 +1744,7 @@ saḷāyatanavaggo 六處品
 _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 -------------------------------------------------------
 
-- Majjhimanikāya-aṭṭhakathā [MA. Papancasūdanī (Ps.)] by Bhadantācariya BUDDHAGHOSA (佛音﹐5 A.D.), with CS & PTS page number, **pāḷi 中部注《破除疑障》 巴利文** )： `直接閱讀 <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-atthakatha-cscd-dhammarain.htm>`__ (HTML), `PDF <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-atthakatha-cscd-dhammarain.pdf>`__ , `ms doc <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-atthakatha-cscd-dhammarain.doc>`__ , `ms rtf <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-atthakatha-cscd-dhammarain.rtf>`__ (*61.8 MB*) --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 CS 及 PTS 頁碼標記； with CS & PTS pg. no.
+- Majjhimanikāya-aṭṭhakathā [MA. Papancasūdanī (Ps.)] by Bhadantācariya BUDDHAGHOSA (佛音﹐5 A.D.), with CS & PTS page number, **pāḷi 中部注《破除疑障》 巴利文** )： `直接閱讀 <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-atthakatha-cscd-dhammarain.htm>`__ (HTML), `PDF <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-atthakatha-cscd-dhammarain.pdf>`__ , `ms doc <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-atthakatha-cscd-dhammarain.doc>`__ , `ms rtf <http://www.dhammarain.org.tw/canon/MAJJHIMA/majjhima-atthakatha-cscd-dhammarain.rtf>`__ (**61.8 MB**) --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 CS 及 PTS 頁碼標記； with CS & PTS pg. no.
 
   M.A. VRI Page No. vs  PTS Page No. 中部注《破除疑障》VRI 與 PTS 頁碼對照表： `直接閱讀 <http://www.dhammarain.org.tw/canon/MAJJHIMA/MA-VRI-PTS-table-dhammarain.htm>`__ (HTML), `PDF <http://www.dhammarain.org.tw/canon/MAJJHIMA/MA-VRI-PTS-table-dhammarain.pdf>`__ , `ms doc <http://www.dhammarain.org.tw/canon/MAJJHIMA/MA-VRI-PTS-table-dhammarain.doc>`__ , `ms rtf <http://www.dhammarain.org.tw/canon/MAJJHIMA/MA-VRI-PTS-table-dhammarain.rtf>`__ --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 
 
@@ -1716,9 +1756,556 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 
 ------
 
-  *  `中部經典總說 <{filename}/extra/tipitaka/sutta/majjhima/majjhimanikaya-introduction-guan-hiang.pdf>`__ ；通妙譯，元亨寺漢譯南傳大藏經編譯委員會，高雄：元亨寺妙林出版社, 1995，經藏／中部經典四
+- `中部經典總說 <{filename}/extra/tipitaka/sutta/majjhima/majjhimanikaya-introduction-guan-hiang.pdf>`__ ；通妙譯，元亨寺漢譯南傳大藏經編譯委員會，高雄：元亨寺妙林出版社, 1995，經藏／中部經典四
 
 ------
+
+_`English Translations` 英譯
+----------------------------
+
+1. `Mūlapaṇṇāsa`_ (MN 1 ~ MN 50) (CS.pg.1.1~1.415；PTS:I,1~338)
+2. `Majjhimapaṇṇāsa`_ (MN 51 ~ MN 100) (CS:pg.2.1~2.439；PTS:I,339~524.、II,1~213.)
+3. `Uparipaṇṇāsa`_ (MN 101 ~ MN 152) (CS.pg.3.1~3.352；PTS:II,214~555、III,1~302.)
+
+
+Mūlapaṇṇāsa
++++++++++++
+
+.. list-table:: Mūlapaṇṇāsa (MN 1 ~ MN 50)
+
+  * - `Mūlapariyāyavaggo`_ (MN 1 ~ MN 10)
+    - `Sīhanādavaggo`_ (MN 11 ~ MN 20)
+    - `Opammavaggo`_ (MN 21 ~ MN 30)
+  * - `Mahāyamakavaggo`_
+    - `Cūḷayamakavaggo`_ (MN 41 ~ MN 50)
+    - 
+
+Majjhimapaṇṇāsa
+++++++++++++++++
+
+.. list-table:: Majjhimapaṇṇāsa (MN 51 ~ MN 100)
+
+  * - `Gahapativaggo`_ (MN 51 ~ MN 60)
+    - `Bhikkhuvaggo`_ (MN 61 ~ MN 70)
+    - `Paribbājakavaggo`_ (MN 71 ~ MN 80)
+  * - `Rājavaggo`_ (MN 81 ~ MN 90)
+    - `Brāhmaṇavaggo`_ (MN 91 ~ MN 100)
+    - 
+
+Uparipaṇṇāsa
++++++++++++++++++++++++++
+
+.. list-table:: Uparipaṇṇāsa (MN 101 ~ MN 152)
+
+  * - `Devadahavaggo`_ (MN 101 ~ MN 110)
+    - `Anupadavaggo`_ (MN 111 ~ MN 120)
+    - `Suññatavaggo`_ (MN 121 ~ MN 130)
+  * - `Vibha'ngavaggo`_ (MN 131 ~ MN 142)
+    - `Saḷāyatanavaggo`_ (MN 143 ~ MN 152)
+    - 
+
+----
+
+Mūlapaṇṇāsa
+
+Mūlapariyāyavaggo
+++++++++++++++++++++++++++++
+
+.. list-table:: MN 1 ~ MN 10
+   :widths: 10 10 10 10 10 10 10 10 10 10
+
+   * - `MN001`_
+     - `MN002`_
+     - `MN003`_
+     - `MN004`_
+     - `MN005`_
+     - `MN006`_
+     - `MN007`_
+     - `MN008`_
+     - `MN009`_
+     - `MN010`_
+
+.. list-table:: Mūlapariyāyavaggo (MN 1 ~ MN 10)
+  :widths: 10 10 10 70
+  :header-rows: 1
+
+  * - PTS (No.) 
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+  * - _`MN001`
+    - Mūlapariyāyasuttaṃ 
+    - M i 1
+    - `The Root Sequence <http://www.accesstoinsight.org/tipitaka/mn/mn.001.than.html>`__ (Ven. Thanissaro Bhikkhu.) [ `AccessToInsight <http://www.accesstoinsight.org/tipitaka/mn/index.html>`_ ] [10]_
+
+      SBB: `How States of Consciousness Originate <http://obo.genaud.net/dhamma-vinaya/chlm/mn/mn.001.chlm.sbb.htm>`_ (Lord Chalmers, G.C.B.); 
+      
+      WP: `The Root of All Things <http://obo.genaud.net/dhamma-vinaya/wp/mn/mn.001.ntbb.wp.htm>`_ ( Ñanamoli Thera, trans., Bhk. Bodhi, ed., I.83); 
+      
+      PTS: `Discourse on the Synopsis of Fundamentals <http://obo.genaud.net/dhamma-vinaya/pts/mn/mn.001.horn.pts.htm>`_ (I.B. Horner); 
+      
+      BD: `The Root of All Evil <http://obo.genaud.net/dhamma-vinaya/bd/mn/mn.001.olds.bd.htm>`_ (Michael M. Olds); 
+
+      MNL: `Origin and Behaviour of All Thoughts <http://obo.genaud.net/dhamma-vinaya/mnl/mn/mn.001.upal.mnl.htm>`_ (Sister Upalavanna, Sister Uppalavanna, Sister Uppalavannā) [ `Index to Sutta Indexes (Obo's Web) <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`_ ] 
+
+  * - _`MN002` 
+    - Sabbāsavasuttaṃ
+    - MN i 6
+    - `Discourse on All Āsavas <http://www.accesstoinsight.org/tipitaka/mn/mn.002.bpit.html>`__ (Burma Piṭaka Association); 
+
+      `All the Fermentations <http://www.accesstoinsight.org/tipitaka/mn/mn.002.than.html>`__ (Ven. Thanissaro Bhikkhu.) [ `AccessToInsight <http://www.accesstoinsight.org/tipitaka/mn/index.html>`_ ]
+
+      SBB: `Coping with Cankers <http://obo.genaud.net/dhamma-vinaya/chlm/mn/mn.002.chlm.sbb.htm>`_ (Lord Chalmers G.C.B.)
+
+      BS (Buddhist Suttas): `All the Asavas <http://obo.genaud.net/dhamma-vinaya/bs/mn.002.rhyt.bs_7.htm>`_ (T. W. Rhys Davids)
+
+      PTS: `Discourse on All the Cankers <http://obo.genaud.net/dhamma-vinaya/pts/mn/mn.002.horn.pts.htm>`_ (I.B. Horner)
+
+      WP: `All the Taints <http://obo.genaud.net/dhamma-vinaya/wp/mn/mn.002.ntbb.wp.htm>`_ (Ñanamoli Thera. trans., Bhk. Bodhi, ed., 91)
+
+      MNL: `All Desires <http://obo.genaud.net/dhamma-vinaya/mnl/mn/mn.002.upal.mnl.htm>`_ (Sister Uppalavanna)
+
+      BD: `All the Influences, outline <http://obo.genaud.net/dhammatalk/bd_dhammatalk/dhamma_talk/the_asavas.htm>`_ (Olds) [ `Index to Sutta Indexes (Obo's Web) <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`_ ] 
+
+  * - _`MN003` 
+    - Dhammadāyādasuttaṃ
+    - MN i 12
+    - SBB: `Dhamma-Dāyāda-Suttaɱ, Unworldly Goods <http://obo.genaud.net/dhamma-vinaya/chlm/mn/mn.003.chlm.sbb.htm>`__ , Chalmers trans, Vol. I, pg 9
+
+      PTS: `Discourse on Heirs of Dhamma <http://obo.genaud.net/dhamma-vinaya/pts/mn/mn.003.horn.pts.htm>`__ , Horner, trans., I.16
+
+      MNL: `To Inherit the Teaching <http://obo.genaud.net/dhamma-vinaya/mnl/mn/mn.003.upal.mnl.htm>`__ , Sister Uppalavanna, trans.
+
+      WP: Heirs in Dhamma, Ñanamoli Thera, trans., Bhk. Bodhi, ed., 97 [ `Index to Sutta Indexes (Obo's Web) <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`_ ] 
+
+  * - _`MN004` 
+    - Bhayabheravasuttaṃ
+    - MN i 16
+    - `Bhaya-bherava Sutta: Fear & Terror <http://www.accesstoinsight.org/tipitaka/mn/mn.004.than.html>`__ (Ven. Thanissaro Bhikkhu.) [ `AccessToInsight <http://www.accesstoinsight.org/tipitaka/mn/index.html>`_ ]
+
+      SBB: `Of Braving Fears <http://obo.genaud.net/dhamma-vinaya/chlm/mn/mn.004.chlm.sbb.htm>`__ , Chalmers trans, Vol. I, pg 12
+
+      PTS: `Discourse on Fear and Dread <http://obo.genaud.net/dhamma-vinaya/pts/mn/mn.004.horn.pts.htm>`__ , Horner, trans., I.21
+
+      WP: `Fear and Dread, Ñanamoli Thera <http://obo.genaud.net/dhamma-vinaya/wp/mn/mn.004.ntbb.wp.htm>`__ , trans., Bhk. Bodhi, ed., 102
+
+      MNL: `Great Fear Sister Uppalavanna <http://obo.genaud.net/dhamma-vinaya/mnl/mn/mn.004.upal.mnl.htm>`__ , trans. [ `Index to Sutta Indexes (Obo's Web) <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`_ ] 
+
+  * - _`MN005` 
+    - Anaṅgaṇasuttaṃ
+    - MN i 24
+    - SBB: `Of Blemishes <http://obo.genaud.net/dhamma-vinaya/chlm/mn/mn.005.chlm.sbb.htm>`__ , Chalmers trans, Vol. I, pg 18
+
+      PTS: `Discourse on No Blemishes <http://obo.genaud.net/dhamma-vinaya/pts/mn/mn.005.horn.pts.htm>`__ , Horner, trans., I.31
+
+      WP: Without Blemishes, Ñanamoli Thera, trans., Bhk. Bodhi, ed., 108
+
+      MNL: `Blemishes <http://obo.genaud.net/dhamma-vinaya/mnl/mn/mn.005.upal.mnl.htm>`__ , Sister Uppalavanna, trans. [ `Index to Sutta Indexes (Obo's Web) <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`_ ] 
+
+  * - _`MN006` 
+    - Ākaṅkheyyasuttaṃ
+    - MN i 33
+    - SBE: `If He Should Desire <http://obo.genaud.net/dhamma-vinaya/bs/mn.006.rhyt.bs_4.htm>`__ , T.W. Rhys Davids, Buddhist Suttas, Volume XI of the Sacred Books of the East, 
+
+      Buddhism in Translations `MN 6: Ākaṇkheyya-sutta. (Excerpt) <http://obo.genaud.net/dhamma-vinaya/bit/bit-65.htm>`__  Warren, trans.
+
+      SBB: `Of Yearnings <http://obo.genaud.net/dhamma-vinaya/chlm/mn/mn.006.chlm.sbb.htm>`__ , Chalmers trans, Vol. I, pg 23
+
+      PTS: `Discourse on What one may Wish <http://obo.genaud.net/dhamma-vinaya/pts/mn/mn.006.horn.pts.htm>`__ , Horner, trans., I.41
+
+      WP: `If A Bhikkhu Should Wish <http://obo.genaud.net/dhamma-vinaya/wp/mn/mn.006.ntbb.wp.htm>`__ , Ñanamoli Thera, trans., Bhk. Bodhi, ed., 115
+
+      MNL: `If the Bhikkhu Desires <http://obo.genaud.net/dhamma-vinaya/mnl/mn/mn.006.upal.mnl.htm>`__ , Sister Uppalavanna, trans. [ `Index to Sutta Indexes (Obo's Web) <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`_ ] 
+
+  * - _`MN007` 
+    - Vatthasuttaṃ
+    - MN i 36
+    - `The Simile of the Cloth <http://www.accesstoinsight.org/tipitaka/mn/mn.007.nypo.html>`__ (Ven. Nyanaponika Thera) [ `AccessToInsight <http://www.accesstoinsight.org/tipitaka/mn/index.html>`_ ]
+
+      SBB: `On Fulling <http://obo.genaud.net/dhamma-vinaya/chlm/mn/mn.007.chlm.sbb.htm>`__ , Chalmers trans, Vol. I, pg 26
+
+      PTS: `Discourse on the Simile of the Cloth <http://obo.genaud.net/dhamma-vinaya/pts/mn/mn.007.horn.pts.htm>`__ , Horner, trans., I.45
+
+      WP: `The Simile of the Cloth <http://obo.genaud.net/dhamma-vinaya/wp/mn/mn.007.ntbb.wp.htm>`__ , Ñanamoli Thera, trans., Bhk. Bodhi, ed., 118
+
+      MNL: `The Simile of the Cloth <http://obo.genaud.net/dhamma-vinaya/mnl/mn/mn.007.upal.mnl.htm>`__ , Sister Uppalavanna, trans. [ `Index to Sutta Indexes (Obo's Web) <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`_ ] 
+
+  * - _`MN008` 
+    - Sallekhasuttaṃ
+    - MN i 40
+    - `The Discourse on Effacement <http://www.accesstoinsight.org/tipitaka/mn/mn.008.nypo.html>`__ (Ven. Nyanaponika Thera) [ `AccessToInsight <http://www.accesstoinsight.org/tipitaka/mn/index.html>`_ ]
+
+      SBB: `Of Expunging <http://obo.genaud.net/dhamma-vinaya/chlm/mn/mn.008.chlm.sbb.htm>`__ , Chalmers trans, Vol. I, pg 29
+
+      PTS: `Discourse on Expunging <http://obo.genaud.net/dhamma-vinaya/pts/mn/mn.008.horn.pts.htm>`__ , Horner, trans., I.51
+
+      WP: `Effacement <http://obo.genaud.net/dhamma-vinaya/wp/mn/mn.008.ntbb.wp.htm>`__ , Ñanamoli Thera, trans., Bhk. Bodhi, ed., 123
+
+      MNL: `Purity <http://obo.genaud.net/dhamma-vinaya/mnl/mn/mn.008.upal.mnl.htm>`__ , Sister Uppalavanna, trans.
+
+      BD: `Hoeing the Row <http://obo.genaud.net/dhamma-vinaya/bd/mn/mn.008.olds.bd.htm>`__ , Olds, trans. [ `Index to Sutta Indexes (Obo's Web) <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`_ ]
+
+  * - _`MN009` 
+    - Sammādiṭṭhisuttaṃ
+    - MN i 46
+    - `The Discourse on Right View <http://www.accesstoinsight.org/tipitaka/mn/mn.009.ntbb.html>`__ (Ñanamoli Thera & Bhikkhu Bodhi)
+
+      `Right View <http://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html>`__ (Ven. Thanissaro Bhikkhu) [ `AccessToInsight <http://www.accesstoinsight.org/tipitaka/mn/index.html>`_ ]
+
+      SBB: `Right Ideas <http://obo.genaud.net/dhamma-vinaya/chlm/mn/mn.009.chlm.sbb.htm>`__ , Chalmers trans, Vol. I, pg 33
+
+      PTS: `Discourse on Perfect View <http://obo.genaud.net/dhamma-vinaya/pts/mn/mn.009.horn.pts.htm>`__ , Horner, trans., I.57
+
+      WP: `Right View <http://obo.genaud.net/dhamma-vinaya/wp/mn/mn.009.ntbb.wp.htm>`__ , Ñanamoli Thera trans., Bhk. Bodhi, ed., 132
+
+      MNL: `Right View <http://obo.genaud.net/dhamma-vinaya/mnl/mn/mn.009.upal.mnl.htm>`__ , Sister Uppalavanna, trans. [ `Index to Sutta Indexes (Obo's Web) <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`_ ]
+
+  * - _`MN010` 
+    - Mahāsatipaṭṭhānasuttaṃ
+    - MN i 55
+    - `The Foundations of Mindfulness <http://www.accesstoinsight.org/tipitaka/mn/mn.010.nysa.html>`__ (Ven. Nyanasatta Thera)
+
+      `The Discourse on the Arousing of Mindfulness <http://www.accesstoinsight.org/tipitaka/mn/mn.010.soma.html>`__ (Ven. Soma Thera)
+
+      `Frames of Reference <http://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html>`__ (Ven. Thanissaro Bhikkhu; `The Great Frames of Reference <http://www.accesstoinsight.org/tipitaka/dn/dn.22.0.than.html>`__ (DN 22) [ `AccessToInsight <http://www.accesstoinsight.org/tipitaka/mn/index.html>`_ ]
+
+      SBB: `On Mindfulness <http://obo.genaud.net/dhamma-vinaya/chlm/mn/mn.010.chlm.sbb.htm>`__ , Chalmers trans, Vol. I, pg 41
+
+      PTS: `Discourse on the Applications of Mindfulness <http://obo.genaud.net/dhamma-vinaya/pts/mn/mn.010.horn.pts.htm>`__ , Horner, trans., I.70
+
+      WP: `The Foundations of Mindfulness <http://obo.genaud.net/dhamma-vinaya/wp/mn/mn.010.ntbb.wp.htm>`__ , Ñanamoli Thera, trans., Bhk. Bodhi, ed., 145
+
+      MNL: `Establishing Mindfulness <http://obo.genaud.net/dhamma-vinaya/mnl/mn/mn.010.upal.mnl.htm>`__ , Sister Uppalavanna, trans.
+
+      BD: `The Spell of Four Satisfactions <http://obo.genaud.net/dhamma-vinaya/bd/mn/mn.010.olds.bd.htm>`__ , Olds, trans.
+
+      BD: `Satipatthana Resources <http://obo.genaud.net/backmatter/indexes/idx_satipatthana_resources.htm>`__  Contents Page (Check this page for information on the MahaSatipatthana Suttaɱ, the Digha Nikaya version of this sutta and for resources for researching the technique for putting this sutta into practice) [ `Index to Sutta Indexes (Obo's Web) <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`_ ]
+
+----
+
+Mūlapaṇṇāsa
+
+Sīhanādavaggo
+++++++++++++++++++++++++++++
+
+.. list-table:: Sīhanādavaggo (MN 11 ~ MN 20)
+  :widths: 10 10 10 70
+  :header-rows: 1
+
+  * - PTS (No.) 
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+  * - MN011
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+----
+
+Mūlapaṇṇāsa
+
+Opammavaggo
+++++++++++++++++++++++++++++
+
+
+.. list-table:: Sīhanādavaggo (MN 21 ~ MN 30)
+  :widths: 10 10 10 70
+  :header-rows: 1
+
+  * - PTS (No.) 
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+  * - MN021
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+----
+
+Mūlapaṇṇāsa
+
+Mahāyamakavaggo
+++++++++++++++++++++++++++++
+
+.. list-table:: Sīhanādavaggo (MN 31 ~ MN 40)
+  :widths: 10 10 10 70
+  :header-rows: 1
+
+  * - PTS (No.) 
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+  * - MN031
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+----
+
+Mūlapaṇṇāsa
+
+Cūḷayamakavaggo
+++++++++++++++++++++++++++++
+
+.. list-table:: Sīhanādavaggo (MN 41 ~ MN 50)
+  :widths: 10 10 10 70
+  :header-rows: 1
+
+  * - PTS (No.) 
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+  * - MN041
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+----
+
+Majjhimapaṇṇāsa
+
+.. list-table:: Majjhimapaṇṇāsa (MN 51 ~ MN 100)
+
+  * - `Gahapativaggo`_ (MN 51 ~ MN 60)
+    - `Bhikkhuvaggo`_ (MN 61 ~ MN 70)
+    - `Paribbājakavaggo`_ (MN 71 ~ MN 80)
+  * - `Rājavaggo`_ (MN 81 ~ MN 90)
+    - `Brāhmaṇavaggo`_ (MN 91 ~ MN 100)
+    - 
+
+----
+
+Majjhimapaṇṇāsa 
+
+Gahapativaggo 
+++++++++++++++++++++
+
+.. list-table:: Gahapativaggo (MN 51 ～ MN 60)
+  :widths: 10 10 10 70
+  :header-rows: 1
+
+  * - PTS (No.) 
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+  * - MN051
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+----
+
+Majjhimapaṇṇāsa 
+
+Bhikkhuvaggo 
++++++++++++++++++++
+
+.. list-table:: Bhikkhuvaggo (MN 61 ～ MN 70)
+  :widths: 10 10 10 70
+  :header-rows: 1
+
+  * - PTS (No.) 
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+  * - _`MN061`
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+
+
+----
+
+Majjhimapaṇṇāsa 
+
+Paribbājakavaggo 
++++++++++++++++++++++++++
+
+.. list-table:: Paribbājakavaggo (MN 71 ～ MN 80)
+  :widths: 10 10 10 70
+  :header-rows: 1
+
+  * - PTS (No.) 
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+  * - _`MN071`
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+
+
+----
+
+Majjhimapaṇṇāsa 
+
+Rājavaggo 
+++++++++++++++
+
+.. list-table:: Rājavaggo (MN 81 ～ MN 90)
+  :widths: 10 10 10 70
+  :header-rows: 1
+
+  * - PTS (No.) 
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+  * - _`MN081`
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+----
+
+Majjhimapaṇṇāsa 
+
+Brāhmaṇavaggo 
+++++++++++++++++++++++
+
+.. list-table:: Brāhmaṇavaggo (MN 91 ～ MN 100)
+  :widths: 10 10 10 70
+  :header-rows: 1
+
+  * - PTS (No.) 
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+  * - _`MN091`
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+----
+
+Uparipaṇṇāsa
+
+.. list-table:: Uparipaṇṇāsa (MN 101 ~ MN 152)
+
+  * - `Devadahavaggo`_ (MN 101 ~ MN 110)
+    - `Anupadavaggo`_ (MN 111 ~ MN 120)
+    - `Suññatavaggo`_ (MN 121 ~ MN 130)
+  * - `Vibha'ngavaggo`_ (MN 131 ~ MN 142)
+    - `Saḷāyatanavaggo`_ (MN 143 ~ MN 152)
+    - 
+
+
+Uparipaṇṇāsa 
+
+Devadahavaggo 
+++++++++++++++++++++
+
+.. list-table:: Devadahavaggo (MN 101 ～ MN 110)
+  :widths: 10 10 10 70
+  :header-rows: 1
+
+  * - PTS (No.) 
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+  * - _`MN101`
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+
+----
+
+Uparipaṇṇāsa 
+
+Anupadavaggo 
++++++++++++++++++++
+
+.. list-table:: Anupadavaggo (MN 111 ～ MN 120)
+  :widths: 10 10 10 70
+  :header-rows: 1
+
+  * - PTS (No.) 
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+  * - _`MN111`
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+----
+
+Uparipaṇṇāsa 
+
+Suññatavaggo 
++++++++++++++++++
+
+.. list-table:: Suññatavaggo (MN 121 ～ MN 130)
+  :widths: 10 10 10 70
+  :header-rows: 1
+
+  * - PTS (No.) 
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+  * - _`MN121`
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+----
+
+Uparipaṇṇāsa 
+
+Vibha'ngavaggo 
++++++++++++++++++++++
+
+.. list-table:: Vibha'ngavaggo (MN 131 ～ MN 142)
+  :widths: 10 10 10 70
+  :header-rows: 1
+
+  * - PTS (No.) 
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+  * - _`MN131`
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+Uparipaṇṇāsa 
+
+Saḷāyatanavaggo 
+++++++++++++++++++++++
+
+.. list-table:: Saḷāyatanavaggo (MN 143 ～ MN 152)
+  :widths: 10 10 10 70
+  :header-rows: 1
+
+  * - PTS (No.) 
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+  * - _`MN143`
+    - Pali Name of Sutta
+    - Page No. (Pp.)
+    - Translations
+
+----
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
@@ -1750,6 +2337,7 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 .. [11] 請參考： `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ → `e-Tipitaka <http://www.mahindaramatemple.com/e-tipitaka/e-tipitaka.htm>`__ → `Suttanta Pitaka <http://www.mahindaramatemple.com/e-tipitaka/suttanta.htm>`__ → 2. Majjhima Nikaya `Collection of Medium Length Discourses of the Buddha <http://www.mahindaramatemple.com/e-tipitaka/Majjhima-Nikaya/majjhima-nikaya.htm>`__ 
 
 ..
+  04.05 rev: table of Mūlapariyāyavaggo 根本法門品 (MN 1 ～ MN 10)
   04.02 add: many items except table-- 中部概要(題解)、巴利(Pāḷi) 原典、漢譯、英譯(English), and so on)
   01.16 2017 ren. contrast-reading%zh.rst with contrast-reading-dn22%zh.rst
         del: 另可參考 (缺18~21.); (The Great Frames of Reference) @《長部 D. 22 Mahaasatipa.t.thaanasutta.m 大念處經》
