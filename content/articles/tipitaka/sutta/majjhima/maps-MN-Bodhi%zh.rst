@@ -198,7 +198,7 @@ Anālayo, Bhikkhu, (2011), *A Comparative Study of the Majjhima-nikāya*, Vol. 1
 
     - `恐懼驚慌經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=185>`_ 蕭式球 譯 [4]_
 
-    - `恐怖與害怕經 <http://agama.buddhason.org/MN/MN004.htm>`_  譯 [3]_
+    - `恐怖與害怕經 <http://agama.buddhason.org/MN/MN004.htm>`_ 莊春江 譯 [3]_
 
     - `怖駭經 <http://tripitaka.cbeta.org/B06n0004_001#0090a32>`__ (芝峯 譯)(華宇) [5]_
 
@@ -2097,7 +2097,7 @@ Anālayo, Bhikkhu, (2011), *A Comparative Study of the Majjhima-nikāya*, Vol. 1
 
   * 巴、漢、英文對讀：
 
-    - `Details for MN 140 Dhātuvibhaṅga <https://suttacentral.net/mn26>`__ ( `SuttaCentral <https://suttacentral.net/>`__ [10]_ )
+    - `Details for MN 140 Dhātuvibhaṅga <https://suttacentral.net/mn140>`__ ( `SuttaCentral <https://suttacentral.net/>`__ [10]_ )
 
 .. _聖弟子的類型:
 
@@ -2406,6 +2406,7 @@ Anālayo, Bhikkhu, (2011), *A Comparative Study of the Majjhima-nikāya*, Vol. 1
 .. [12] § 2.8.南傳《中部》第 120《行生經》（ `福嚴佛學院 <http://www.fuyan.org.tw/>`__ →研究論文→福嚴佛學研究第三期 (2008.04)；或 `溫宗堃の風培基 <http://tkwen.theravada-chinese.org>`__ →福嚴佛學院講義 → `福嚴佛學研究 第三期 (2008.04)(PDF) <http://tkwen.theravada-chinese.org/Fuyan/Buddhist/Studies/v3_2008.pdf>`__ ）
 
 ..
+  04.20 rev. some urls
   04.16 2017 rev. re-arrange (simplying) the items, add footnotes; 芝峯 譯(華宇); 通妙 譯(元亨寺); Sister Upalavanna: buddhadust.com & Mettanet Tipitaka Index; 對讀 Details for MN (SuttaCentral)
              old: 江鍊百漢譯；釋芝峯校證; 《得法大經第四十六》(PDF) mn.046.ShCFon.pdf;《薩羅村婆羅門經第四十一》mn.041.ShCFon.pdf; 江鍊百漢譯；釋芝峯校證《鋸喻經第二十一》(PDF) mn.021.ShCFon.pdf;《心材喻大經第二十九》(PDF) <mn.029.ShCFon.pdf
              江鍊百漢譯；釋芝峯校證《苦蘊大經第十三》(PDF) mn.013.ShCFon.pdf; 《象跡喻小經第二十七》(PDF) mn.027.ShCFon.pdf;《馬邑大經第三十九》(PDF) mn.039.ShCFon.pdf; 《馬邑小經第四十》(PDF) mn.040.ShCFon.pdf; 《願經第六》(PDF) mn.006.ShCFon.pdf; 《息思經第二十》(PDF) mn.020.ShCFon.pdf; 《布喻經第七》(PDF) <mn.007.ShCFon.pdf; 《損損經第八》(PDF) mn.008.ShCFon.pdf; 一切漏經第二》(PDF) <mn.002.ShCFon.pdf; 《念處經第十》(PDF) <mn.010.ShCFon.pdf; 《正見經第九》(PDF) mn.009.ShCFon.pdf; 《獅子吼小經第十一》(PDF) <mn.011.ShCFon.pdf; 《蛇喻經第二十二》(PDF) <mn.022.ShCFon.pdf; 《愛盡大經第三十八》(PDF) mn.038.ShCFon.pdf; 《象跡喻大經第二十八》(PDF) mn.028.ShCFon.pdf; 《牛角林小經第三十一》(PDF) <mn.031.ShCFon.pdf; 《牛角林大經第三十二》(PDF) <mn.032.ShCFon.pdf; 《雙思經第十九》(PDF) mn.019.ShCFon.pdf
