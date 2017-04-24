@@ -389,7 +389,7 @@ Anālayo, Bhikkhu, (2011), *A Comparative Study of the Majjhima-nikāya*, Vol. 1
 
     - `無諍經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=241>`_  ; 蕭式球 譯 [4]_
 
-    - `無風險經 <http://agama.buddhason.org/MN/MN060.htm>`_  ; 莊春江 譯 [3]_
+    - `無缺點經 <http://agama.buddhason.org/MN/MN060.htm>`_  ; 莊春江 譯 [3]_
 
     - `無戲論經 <http://tripitaka.cbeta.org/N10n0005_006#0155a02>`__ ; 通妙 譯(元亨寺) [6]_
 
@@ -2029,11 +2029,11 @@ Anālayo, Bhikkhu, (2011), *A Comparative Study of the Majjhima-nikāya*, Vol. 1
 
 .. _MN 52:
 
-- MN 52: Aṭṭhakanāgara Sutta中部52八城人經
+- MN 52: Aṭṭhakanāgara Sutta, 中部52, 八城經, 八城人經, M i 349
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Aṭṭhakanāgarasuttaṃ
 
-    - `2.1.2. Aṭṭhakanāgara suttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/MN_I_utf8.html#pts.432>`__ (PTS, `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
+    - `2.1.2. Aṭṭhakanāgara suttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/MN_I_utf8.html#pts.349>`__ (PTS, `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
     - `Aṭṭhakanāgarasuttaṃ <http://www.tipitaka.org/romn/cscd/s0202m.mul0.xml>`__ ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`_ , `VRI <http://www.vridhamma.org/>`_ ) [2]_
 
