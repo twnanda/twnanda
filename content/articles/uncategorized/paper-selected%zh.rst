@@ -2,7 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2016-05-20
+:modified: 2017-04-27
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -45,6 +45,10 @@
 
   英文版(English): `HTML <http://www.quangduc.com/English/basic/68whatbuddhataught.html>`__ or
   `PDF <http://www.dhammatalks.net/Books11/Bhante_Walpola_Rahula-What_the_Buddha_Taught.pdf>`__
+
+----
+
+- `《佛陀》 <{filename}/articles/a-path-to-freedom/biography-of-the-Buddha-masutani-excerpts%zh.rst>`__ ： 増谷文雄　著《仏陀 その生涯と思想》，《佛陀－－其生涯與思想》摘譯 (取材自： 「 `法雨道場 <http://www.dhammarain.org.tw/>`__ 」　→　「  `好書介紹 <http://www.dhammarain.org.tw/books/book1.html>`__ 」　→　 `《佛陀》 <http://www.dhammarain.org.tw/books/Autobiography-of-buddha/chap01.htm>`__ )
 
 ----
 
@@ -210,6 +214,7 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  04.27 2017 add: 《佛陀》 ： 増谷文雄　著《仏陀 その生涯と思想》，《佛陀－－其生涯與思想》摘譯
   10.13 add: 摩訶布瓦尊者傳（HTML，正體漢文）
   10.12 add:沙門(作者 ：摩訶布瓦尊者，中譯 ：捷平)
   04.24 2015 rev. old:尊者阿姜　高;  《阿姜曼尊者正傳》（新版《尊者阿姜　曼傳》，2004年，陳在昕、謝豐帆、喬正一 等三人聯合翻譯。）
