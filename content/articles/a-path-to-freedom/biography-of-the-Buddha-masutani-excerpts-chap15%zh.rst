@@ -43,15 +43,15 @@
 ──最後說法──
 --------------
 
-- `15a`_ 末期記錄
-- `15b`_ 最後旅途
-- `15c`_ 要以自己為依處
-- `15d`_ 在沙羅雙樹下
-- `15e`_ 偉大的死
+- `chap15a`_ 末期記錄
+- `chap15b`_ 最後旅途
+- `chap15c`_ 要以自己為依處
+- `chap15d`_ 在沙羅雙樹下
+- `chap15e`_ 偉大的死
 
 ----
 
-.. _15a:
+.. _chap15a:
 
 末期記錄
 --------------
@@ -81,7 +81,7 @@
 
 ----
 
-.. _15b:
+.. _chap15b:
 
 最後旅途
 --------------
@@ -119,7 +119,7 @@
 
 ----
 
-.. _15c:
+.. _chap15c:
 
 要以自己為依處
 ----------------
@@ -178,7 +178,7 @@
 
 ----
 
-.. _15d:
+.. _chap15d:
 
 在沙羅雙樹下
 --------------
@@ -229,7 +229,7 @@
 
 ----
 
-.. _15e:
+.. _chap15e:
 
 偉大的死
 --------------
@@ -351,6 +351,6 @@ Nanda 贅言 （代 跋）
   - 慈濟志業體圖書館(花蓮)： `《佛陀》 <http://www.tti.library.tcu.edu.tw/Webpac2/store.dll/?ID=197077&T=0&S=ASC&ty=ie&snc=2117270E4CEC5CC2B58BCF420569E872>`__  / 增谷文雄著 ; 李君奭譯 ( `已報銷；限慈大教職員生於校本部及人社院取件 <http://www.tti.library.tcu.edu.tw/Webpac2/store.dll/?ID=90085&T=0&S=ASC&ty=ie&snc=BEB29595BF9B82CDBC83C9BC87E86F>`__ 。)
 
 ..
-  04.28 rev. change some anchors in English; e.g. 15a for 末期記錄
+  04.28 rev. change some anchors in English; i.e. chap01a for 為人間榜樣的釋尊, etc.; change some anchors in English; e.g. 15a for 末期記錄
   04.26~27 2017 create rst  
   original: 1998.09.10  87('98)/09/10
