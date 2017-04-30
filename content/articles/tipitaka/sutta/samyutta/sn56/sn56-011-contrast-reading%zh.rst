@@ -3,7 +3,7 @@
 ============================================================================================
 
 :date: 2015-02-13 08:30
-:modified: 2016-11-10 18:30
+:modified: 2017-04-30 22:30
 :tags: 初轉法輪經, 法輪轉起經, 轉法輪經, 初轉法輪經多譯本對讀(段層次), SN 56.11 Dhammacakkappavattanasuttaṃ
 :category: 巴利三藏相應部
 :summary: 初轉法輪經 (法輪轉起經, 轉法輪經), 多譯本對讀(段層次); Parallel Reading (paragraph granularity) of Dhammacakkappavattana Sutta; SN 56.11 Dhammacakkappavattanasuttaṃ
@@ -45,6 +45,22 @@
        | 1. Dhammacakkappavattanasuttaṃ
        | 
        | 1081. Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi – ‘‘dveme, bhikkhave, antā pabbajitena na sevitabbā. Katame dve? Yo cāyaṃ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṃhito, yo cāyaṃ attakilamathānuyogo dukkho anariyo anatthasaṃhito. Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati’’.
+
+   * - 巴利原典 (BJT) [9]_ 
+     - [391] Evam me sutaŋ:|| ||
+
+       Ekaŋ samayaŋ Bhagavā Bārāņasiyaŋ viharati Isipatane Migadāye.|| ||
+
+       [421] 2. Tatra kho Bhagavā pañcavaggiye bhikkhū āmantesi:|| ||
+       
+       "Dve me bhikkhave, antā pabbajitena na sevitabbā.|| ||
+       
+       Katame dve?|| ||
+
+       | 3. Yo cayāŋ kāmesu kāmasu khallikānuyogo hīno gammo puthujjaniko anariyo anatthasaŋhito,||
+       | yo cāyaŋ attakilamathānuyogo dukkho anariyo anatthasaŋhito.|| ||
+       
+       Ete te bhikkhave, ubho ante anupakamma majjhimā paţipadā Tathāgatena abhisambuddhā cakkhukaraņī ñāņakaraņī upasamāya abhiññāya sambodhāya nibbānāya saŋvattati.|| ||
 
    * - 漢譯(**莊春江** 譯, 莊春江工作站)\ [3]_
      - | 12. 諦相應
@@ -144,6 +160,22 @@
    * - 巴利原典 (CSCD)\ [2]_ 
      - ‘‘Katamā ca sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati? Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ – sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi. Ayaṃ kho sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati.
 
+   * - 巴利原典 (BJT) [9]_ 
+     - 4. Katamā ca sā bhikkhave, majjhimā paţipadā Tathāgatena abhisambuddhā cakkhukaraņī ñāņakaraņī upasamāya abhiññāya sambodhāya nibbānāya saŋvattati?||
+
+       | Ayam eva ariyo aţţhaŋgiko maggo:||
+       | seyyathīdaŋ:||
+       | sammā-diţţhi,||
+       | sammā-saŋkappo,||
+       | sammā-vācā,||
+       | sammā-kammanto,||
+       | sammā-ājīvo,||
+       | sammā-vāyāmo,||
+       | sammā-sati,||
+       | sammā-samādhi.|| ||
+
+       Ayaŋ kho sā bhikkhave, majjhimā paţipadā Tathāgatena abhisambuddhā cakkhukaraņī ñāņakaraņī upasamāya abhiññāya sambodhāya nibbānāya saŋvattati.|| ||
+
    * - 漢譯(**莊春江** 譯, 莊春江工作站)\ [3]_
      - 比丘們！但什麼是那被如來現正覺、作眼、作智，導向寂靜、證智、正覺、涅槃的中道呢？就是這八支聖道\ [CFn010]_ \，即：正見、正志、正語、正業、正命、正精進、正念、正定。
 
@@ -184,6 +216,45 @@
 
    * - 巴利原典 (CSCD)\ [2]_ 
      - ‘‘Idaṃ kho pana, bhikkhave, dukkhaṃ ariyasaccaṃ – jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṃ, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṃ na labhati tampi dukkhaṃ – saṃkhittena pañcupādānakkhandhā pañcupādānakkhandhāpi (pī. ka.) dukkhā. Idaṃ kho pana, bhikkhave, dukkhasamudayaṃ ariyasaccaṃ – yāyaṃ taṇhā ponobbhavikā ponobhavikā (sī. pī.) nandirāgasahagatā tatratatrābhinandinī, seyyathidaṃ seyyathīdaṃ (sī. syā. kaṃ. pī.) – kāmataṇhā, bhavataṇhā, vibhavataṇhā. Idaṃ kho pana, bhikkhave, dukkhanirodhaṃ ariyasaccaṃ – yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo. Idaṃ kho pana, bhikkhave, dukkhanirodhagāminī paṭipadā ariyasaccaṃ – ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ – sammādiṭṭhi…pe… sammāsamādhi.
+
+   * - 巴利原典 (BJT) [9]_ 
+     - 5. Idaŋ kho pana bhikkhave, dukkhaŋ ariyasaccaŋ:|| ||
+
+       | Jāti pi dukkhā,||
+       | jarāpi dukkhā,||
+       | vyādhi pi dukkho,||
+       | maraņam pi dukkhaŋ,||
+       | sokaparidevadukkhadomanassupāyāsā pi dukkhā,||
+       | appiyehi sampayogo dukkho,||
+       | piyehi vippayogo dukkho,||
+       | yam p'icchaŋ na labhati tampi dukkhaŋ,||
+       | saŋkhittena pañcupādānakkhandhā dukkhā".|| ||
+
+       6. Idaŋ kho pana bhikkhave, dukkhasamudayo ariyasaccaŋ:|| ||
+
+       | "Yāyaŋ taņhā ponobhavikā nandi rāgasahagatā tatra tatrābhinandinī,||
+       | seyyathīdaŋ:|| ||
+
+       | Kāmataņhā,||
+       | bhavataņhā,||
+       | vibhavataņhā".|| ||
+
+       7. Idaŋ kho pana bhikkhave, dukkhanirodho ariyasaccaŋ:|| ||
+
+       Yo tassā yeva taņhāya asesavirāganirodho cāgo paţinissaggo mutti anālayo.|| ||
+
+       8. Idaŋ kho pana bhikkhave, dukkhanirodhagāminī paţipadā [422] ariyasaccaŋ:|| ||
+
+       | Ayam eva ariyo aţţhaŋgiko maggo,,||
+       | seyyathīdaŋ:||
+       | sammā-diţţhi,||
+       | sammā-saŋkappo,||
+       | sammā-vācā,||
+       | sammā-kammanto,||
+       | sammā-ājīvo,||
+       | sammā-vāyāmo,||
+       | sammā-sati,||
+       | sammā-samādhi.|| ||
 
    * - 漢譯(**莊春江** 譯, 莊春江工作站)\ [3]_
      - 而，比丘們！這是苦聖諦：生是苦，老也是苦，病也是苦，死也是苦，與不愛的結合是苦，與所愛的別離是苦，所求不得也是苦；總括之，五取蘊是苦。
@@ -256,6 +327,13 @@
    * - 巴利原典 (CSCD)\ [2]_ 
      - ‘‘‘Idaṃ dukkhaṃ ariyasacca’nti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘Taṃ kho panidaṃ dukkhaṃ ariyasaccaṃ pariññeyya’nti me, bhikkhave, pubbe…pe… udapādi. ‘Taṃ kho panidaṃ dukkhaṃ ariyasaccaṃ pariññāta’nti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
 
+   * - 巴利原典 (BJT) [9]_ 
+     - 9. Idaŋ dukkhaŋ ariyasaccan ti me bhikkhave pubbe ananussutesu dhammesu cakkhuŋ udapādi ñāņaŋ udapādi paññā udapādi vijjā udapādi āloko udapādi.|| ||
+
+       Taŋ kho pan'idaŋ dukkhaŋ ariyasaccaŋ pariññeyyan ti me bhikkhave, pubbe ananussutesu dhammesu cakkhuŋ udapādi ñāņaŋ udapādi paññā udapādi vijjā udapādi āloko udapādi.|| ||
+
+       Taŋ kho pana idaŋ dukkhaŋ ariyasaccaŋ pariññātanti me bhikkhave, pubbe ananussutesu dhammesu cakkhuŋ udapādi ñāņaŋ udapādi paññā udapādi vijjā udapādi āloko udapādi.|| ||
+
    * - 漢譯(**莊春江** 譯, 莊春江工作站)\ [3]_
      - 『這是苦聖諦』：比丘們！在以前所不曾聽過的法上，我的眼生起，智生起，慧生起，明生起，光生起。
        
@@ -301,6 +379,13 @@
    * - 巴利原典 (CSCD)\ [2]_ 
      - ‘‘‘Idaṃ dukkhasamudayaṃ ariyasacca’nti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘Taṃ kho panidaṃ dukkhasamudayaṃ ariyasaccaṃ pahātabba’nti me, bhikkhave, pubbe…pe… udapādi. ‘Taṃ kho panidaṃ dukkhasamudayaṃ ariyasaccaṃ pahīna’nti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
 
+   * - 巴利原典 (BJT) [9]_ 
+     - 10. Idaŋ dukkhasamudayo ariyasaccan ti me bhikkhave pubbe ananussutesu dhammesu cakkhuŋ udapādi ñāņaŋ udapādi paññā udapādi vijjā udapādi āloko udapādi.|| ||
+
+       Taŋ kho pana idaŋ dukkhasamudayo ariyasaccaŋ pahātabbanti me bhikkhave, pubbe ananussutesu dhammesu cakkhuŋ udapādi ñāņaŋ udapādi paññā udapādi vijjā udapādi āloko udapādi.|| ||
+
+       Taŋ kho pana idaŋ dukkhasamudayo ariyasaccaŋ pahīnanti me bhikkhave, pubbe ananussutesu dhammesu cakkhuŋ udapādi ñāņaŋ udapādi paññā udapādi vijjā udapādi āloko udapādi.|| ||
+
    * - 漢譯(**莊春江** 譯, 莊春江工作站)\ [3]_
      - 『這是苦集聖諦』：比丘們！在以前所不曾聽過的法上，我的眼生起，智生起，慧生起，明生起，光生起。
        
@@ -341,6 +426,13 @@
 
    * - 巴利原典 (CSCD)\ [2]_ 
      - ‘‘‘Idaṃ dukkhanirodhaṃ ariyasacca’nti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘Taṃ kho panidaṃ dukkhanirodhaṃ ariyasaccaṃ sacchikātabba’nti me, bhikkhave, pubbe…pe… udapādi. ‘Taṃ kho panidaṃ dukkhanirodhaṃ ariyasaccaṃ sacchikata’nti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
+
+   * - 巴利原典 (BJT) [9]_ 
+     - 11. Idaŋ dukkhanirodho ariyasaccanti me bhikkhave pubbe ananussutesu dhammesu cakkhuŋ udapādi ñāņaŋ udapādi paññā udapādi vijjā udapādi āloko udapādi.|| ||
+
+       Taŋ kho pana idaŋ dukkhanirodho ariyasaccaŋ sacchikātabbanti me bhikkhave, pubbe ananussutesu dhammesu cakkhuŋ udapādi ñāņaŋ udapādi paññā udapādi vijjā udapādi āloko udapādi.|| ||
+
+       Taŋ kho pana idaŋ dukkhanirodho ariyasaccaŋ sacchikatanti me bhikkhave, pubbe ananussutesu dhammesu cakkhuŋ udapādi ñāņaŋ udapādi paññā udapādi vijjā udapādi āloko udapādi.|| ||
 
    * - 漢譯(**莊春江** 譯, 莊春江工作站)\ [3]_
      - 『這是苦滅聖諦』：比丘們！在以前所不曾聽過的法上，我的眼生起，智生起，慧生起，明生起，光生起。
@@ -383,6 +475,13 @@
    * - 巴利原典 (CSCD)\ [2]_ 
      - ‘‘‘Idaṃ dukkhanirodhagāminī paṭipadā ariyasacca’nti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. Taṃ kho panidaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ bhāvetabba’nti me, bhikkhave, pubbe…pe… udapādi. ‘Taṃ kho panidaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ bhāvita’nti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
 
+   * - 巴利原典 (BJT) [9]_ 
+     - 12. Idaŋ dukkhanirodhagāminī paţipadā ariyasaccanti me bhikkhave pubbe ananussutesu dhammesu cakkhuŋ udapādi ñāņaŋ udapādi paññā udapādi vijjā udapādi āloko udapādi.|| ||
+
+       Taŋ kho pana idaŋ dukkhanirodhagāminī paţipadā ariyasaccaŋ bhāvetabbanti me bhikkhave, pubbe ananussutesu dhammesu cakkhuŋ udapādi ñāņaŋ udapādi paññā udapādi vijjā udapādi āloko udapādi.|| ||
+
+       Taŋ kho pana idaŋ dukkhanirodhagāminī paţipadā ariyasaccaŋ bhāvitanti me bhikkhave, pubbe ananussutesu dhammesu cakkhuŋ udapādi ñāņaŋ udapādi paññā udapādi vijjā udapādi āloko udapādi.|| ||
+
    * - 漢譯(**莊春江** 譯, 莊春江工作站)\ [3]_
      - 『這是導向苦滅道跡聖諦』：比丘們！在以前所不曾聽過的法上，我的眼生起，智生起，慧生起，明生起，光生起。
        
@@ -419,10 +518,17 @@
    :class: contrast-reading-table
 
    * - 巴利原典 (PTS) [1]_
-     - 
+     - Yāvakīvañca me bhikkhave, imesu catusu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi, neva tāvāhaṃ bhikkhave, **[PTS Page 423]** [\q 423/] sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddho 1 paccaññāsiṃ.
+
+       | --------------------------
+       | 1. Abhisambuddhoti-machasaṃ. 
 
    * - 巴利原典 (CSCD)\ [2]_ 
      - ‘‘Yāvakīvañca me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi, neva tāvāhaṃ, bhikkhave , sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ abhisambuddho paccaññāsiṃ (sī. syā. kaṃ.).
+
+   * - 巴利原典 (BJT) [9]_ 
+     - | 13. Yāva kīvañca me bhikkhave, imesu catusu ariyasaccesu evaŋ tiparivaţţaŋ dvādasākāraŋ yathābhūtaŋ ñāņadassanaŋ na suvisuddhaŋ ahosi,||
+       | n'eva tāvāhaŋ bhikkhave, [423] sadevake loke samārake sabrahmake sassamaņabrāhmaņiyā pajāya sadeva-manussāya anuttaraŋ sammāsambodhiŋ abhisambuddho paccaññāsiŋ.|| ||
 
    * - 漢譯(**莊春江** 譯, 莊春江工作站)\ [3]_
      - 比丘們！只要我對這四聖諦三轉\ [CFn021]_ \、十二行相\ [CFn022]_ \沒有這麼已善清淨的如實智見，我在這包括天、魔、梵的世間；包括沙門\ [CFn023]_ \、婆羅門\ [CFn024]_ \、天、人的世代\ [CFn025]_ \中，不自稱『已現正覺無上遍正覺』。
@@ -452,13 +558,17 @@
    :class: contrast-reading-table
 
    * - 巴利原典 (PTS) [1]_
-     - Yāvakīvañca me bhikkhave, imesu catusu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi, neva tāvāhaṃ bhikkhave, [PTS Page 423] [\q 423/] sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddho1 paccaññāsiṃ. Yato ca kho me bhikkhave, imesu catusu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ suvisuddhaṃ ahosi, athāhaṃ bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddho paccaññāsiṃ. Ñāṇañca pana me dassanaṃ udapādi akuppā me cetovimutti, ayamantimā jāti natthidāni punabbhavoti. Idamavoca bhagavā attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinandunti. 
-        
-       | --------------------------
-       | 1. Abhisambuddhoti-machasaṃ. 
+     - Yato ca kho me bhikkhave, imesu catusu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ suvisuddhaṃ ahosi, athāhaṃ bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddho paccaññāsiṃ. Ñāṇañca pana me dassanaṃ udapādi akuppā me cetovimutti, ayamantimā jāti natthidāni punabbhavoti. Idamavoca bhagavā attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinandunti.
 
    * - 巴利原典 (CSCD)\ [2]_ 
      - ‘‘Yato ca kho me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ suvisuddhaṃ ahosi, athāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ. Ñāṇañca pana me dassanaṃ udapādi – ‘akuppā me vimutti cetovimutti (sī. pī.), ayamantimā jāti, natthidāni punabbhavo’’’ti. Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinandunti.
+
+   * - 巴利原典 (BJT) [9]_ 
+     - | 14. Yato ca kho me bhikkhave, imesu catusu ariyasaccesu evaŋ tiparivaţţaŋ dvādasākāraŋ yathābhūtaŋ ñāņadassanaŋ suvisuddhaŋ ahosi,||
+       | athāhaŋ bhikkhave, sadevake loke samārake sabrahmake sassamaņabrāhmaņiyā pajāya sadeva-manussāya anuttaraŋ sammāsambodhiŋ abhisambuddho ti paccaññāsiŋ,||
+       | ñāņañca pana me dassanaŋ udapādi Akuppā me ceto-vimutti, ayam antimā jāti natthidāni punabbhavo ti.|| ||
+
+       15. Idam avoca Bhagavā attamanā pañcavaggiyā bhikkhū Bhagavato bhāsitaŋ abhinanduŋ,|| 
 
    * - 漢譯(**莊春江** 譯, 莊春江工作站)\ [3]_
      - 比丘們！但自從我對這四聖諦三轉、十二行相有這麼已善清淨的如實智見後，我在這包括天、魔、梵的世間；包括沙門、婆羅門、天、人的世代中，才自稱『已現正覺無上遍正覺』。又，我的智與見\ [CFn026]_ \生起：『我的解脫不可動搖，這是我最後一次的生，現在，不再有再生了。』」
@@ -508,6 +618,10 @@
    * - 巴利原典 (CSCD)\ [2]_ 
      - Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne āyasmato koṇḍaññassa virajaṃ vītamalaṃ dhammacakkhuṃ udapādi – ‘‘yaṃ kiñci samudayadhammaṃ, sabbaṃ taṃ nirodhadhamma’’nti.
 
+   * - 巴利原典 (BJT) [9]_ 
+     - | imasamiñ ca pana veyyākara-ņasmiŋ bhaññamāne āyasmato Koņđaññassa virajaŋ vītamalaŋ dhammacakkhuŋ udapādi:
+       | Yaŋ kiñci samudayadhammaŋ sabbantaŋ nirodhadhamman ti.|| ||
+
    * - 漢譯(**莊春江** 譯, 莊春江工作站)\ [3]_
      - 而當這個解說被說時\ [CFn027]_ \，尊者\ [CFn028]_ \憍陳如的遠塵、離垢之法眼\ [CFn029]_ \生起：
        
@@ -546,6 +660,23 @@
 
    * - 巴利原典 (CSCD)\ [2]_ 
      - Pavattite ca pana bhagavatā dhammacakke bhummā devā saddamanussāvesuṃ – ‘‘etaṃ bhagavatā bārāṇasiyaṃ isipatane migadāye anuttaraṃ dhammacakkaṃ pavattitaṃ appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmi’’nti. Bhummānaṃ devānaṃ saddaṃ sutvā cātumahārājikā devā saddamanussāvesuṃ – ‘‘etaṃ bhagavatā bārāṇasiyaṃ isipatane migadāye anuttaraṃ dhammacakkaṃ pavattitaṃ, appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmi’’nti. Cātumahārājikānaṃ devānaṃ saddaṃ sutvā tāvatiṃsā devā…pe… yāmā devā…pe… tusitā devā…pe… nimmānaratī devā…pe… paranimmitavasavattī devā…pe… brahmakāyikā devā saddamanussāvesuṃ – ‘‘etaṃ bhagavatā bārāṇasiyaṃ isipatane migadāye anuttaraṃ dhammacakkaṃ pavattitaṃ appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmi’’nti.
+
+   * - 巴利原典 (BJT) [9]_ 
+     - 16. Evam pavattite ca pana Bhagavatā dhammacakke Bhummā devā saddam anussāvesu: "etaŋ Bhagavatā Bārāņasiyaŋ Isipatane Migadāye anuttaraŋ dhammacakkaŋ pavattitaŋ appativattiyaŋ samaņena vā brāhmaņena vā devena vā mārena vā brahmunā vā kenaci vā lokasminti".|| ||
+
+       17. Bhummānaŋ devānaŋ saddaŋ sutvā cātummahārājikā devā saddamanussāvesuŋ: "etaŋ Bhagavatā bārānasiyaŋ Isipatane Migadāye anuttaraŋ dhammacakkaŋ pavattitaŋ appativattiyaŋ samaņena vā brāhmaņena vā devena vā mārena vā brahmunā vā kenaci vā lokasminti".|| ||
+
+       18. Cātummahārājikānaŋ devānaŋ saddaŋ sutvā Tāvatiŋsā devā saddamanussāvesuŋ: "etaŋ Bhagavatā Bārāņasiyaŋ Isipatane Migadāye anuttaraŋ dhammacakkaŋ pavattitaŋ appativattiyaŋ samaņena vā brāhmaņena vā devena vā mārena vā brahmunā vā kenaci vā lokasminti".|| ||
+
+       Tāvatiŋsānaŋ devānaŋ saddaŋ sutvā yāmā devā saddamanussāvesuŋ: "etaŋ Bhagavatā Bārāņasiyaŋ Isipatane Migadāye anuttaraŋ dhammacakkaŋ pavattitaŋ appativattiyaŋ samaņena vā brāhmaņena vā devena vā mārena vā brahmunā vā kenaci vā lokasminti".|| ||
+
+       Yāmānaŋ devānaŋ saddaŋ sutvā tusitā devā saddamanussāvesuŋ: "etaŋ Bhagavatā Bārāņasiyaŋ Isipatane Migadāye anuttaraŋ dhammacakkaŋ pavattitaŋ appativattiyaŋ2 samaņena vā brāhmaņena vā devena vā mārena vā brahmunā vā kenaci vā lokasminti".|| ||
+
+       Tusitānaŋ devānaŋ saddaŋ sutvā nimmāņaratī devā saddamanussāvesuŋ: "etaŋ Bhagavatā Bārāņasiyaŋ Isipatane Migadāye anuttaraŋ dhammacakkaŋ pavattitaŋ appativattiyaŋ samaņena vā brāhmaņena vā devena vā mārena vā brahmunā vā kenaci vā lokasminti".|| ||
+
+       Tusitānaŋ devānaŋ saddaŋ sutvā paranimmitavasavattī devā saddamanussāvesuŋ: "etaŋ Bhagavatā Bārāņasiyaŋ Isipatane Migadāye anuttaraŋ dhammacakkaŋ pavattitaŋ appativattiyaŋ samaņena vā brāhmaņena vā devena vā mārena vā brahmunā vā kenaci vā lokasminti".|| ||
+
+       Paranimmitavasavattīnaŋ devānaŋ saddaŋ sutvā brahmakāyikā devā saddamanussāvesuŋ: "etaŋ Bhagavatā Bārāņasiyaŋ Isipatane Migadāye anuttaraŋ dhammacakkaŋ pavattitaŋ [424] appativattiyaŋ samaņena vā brāhmaņena vā devena vā mārena vā brahmunā vā kenaci vā lokasminti".|| ||
 
    * - 漢譯(**莊春江** 譯, 莊春江工作站)\ [3]_
      - 而且，當法輪被世尊轉動了，諸地居天發聲道：
@@ -605,6 +736,13 @@
    * - 巴利原典 (CSCD)\ [2]_ 
      - Itiha tena khaṇena (tena layena) ( ) natthi (sī. syā. kaṃ.) tena muhuttena yāva brahmalokā saddo abbhuggacchi. Ayañca dasasahassilokadhātu saṅkampi sampakampi sampavedhi, appamāṇo ca uḷāro obhāso loke pāturahosi atikkamma devānaṃ devānubhāvanti.
 
+   * - 巴利原典 (BJT) [9]_ 
+     - 19. Iti ha tena khaņena tena muhuttena yāva Brahmalokā saddo abbhuggañchi.|| ||
+
+       Ayañ ca dasasahassī loka-dhātu saŋkampi sampakampi sampavedhi.|| ||
+
+       Appamāņo ca u'āro obhāso loke pātur ahosi atikkamma devānaŋ devānubhāvan ti.|| ||
+
    * - 漢譯(**莊春江** 譯, 莊春江工作站)\ [3]_
      - 像這樣，在那剎那，(在那頃刻，)在那片刻，聲音傳出直到梵天世界。
        
@@ -640,6 +778,12 @@
    * - 巴利原典 (CSCD)\ [2]_ 
      - Atha kho bhagavā imaṃ udānaṃ udānesi – ‘‘aññāsi vata, bho, koṇḍañño, aññāsi vata, bho, koṇḍañño’’ti! Iti hidaṃ āyasmato koṇḍaññassa ‘aññāsikoṇḍañño’ tveva nāmaṃ ahosīti.   Paṭhamaṃ.
 
+   * - 巴利原典 (BJT) [9]_ 
+     - | 20. Atha kho Bhagavā udānaŋ udānesi:||
+       | Aññāsi vata bho Koņđañño, aññāsi vata bho Koņđañño ti.|| ||
+
+         Iti h'idaŋ āyasmato Koņđaññassa Aññā-Koņđañño tv eva nāmaŋ ahosī ti.|| ||
+
    * - 漢譯(**莊春江** 譯, 莊春江工作站)\ [3]_
      - 那時，世尊自說這優陀那\ [CFn031]_ \：
        
@@ -668,7 +812,7 @@
 
 - `法輪轉起經(轉法輪經, 初轉法輪經) Dhammacakkappavattanasuttaṃ <{filename}sn56-011%zh.rst>`__
 
-- Saṃyuttanikāya 相應部 (Sa"myutta-nikaaya) 
+- `Saṃyuttanikāya 相應部 (Sa"myutta-nikaaya) <{filename}/articles/tipitaka/sutta/samyutta/samyutta-nikaaya%zh.rst>`__ 
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
@@ -692,6 +836,8 @@
 .. [7] 〔註007〕　英譯為 **Ven. Bodhi Bhikkhu** 所譯(Translated by Ven. Bodhi Bhikkhu)；請參考： `Setting in Motion the Wheel of the Dhamma <{filename}sn56-011-bodhi%zh.rst>`__ , translated from the Pali by **Ven. Bodhi Bhikkhu** (**菩提尊者**) [原始出處請參考(original): Dhammacakkapavattana Sutta, Samyutta Nikaya LVI, 11:Setting in Motion the Wheel of the Dhamma: `Translated from the Pali by Ven. Bodhi Bhikkhu) <http://www.budsas.org/ebud/ebsut001.htm>`__ ( `BuddhaSasana <http://www.budsas.org/index.htm>`__ English Section)
 
 .. [8] 〔註008〕　本譯文請參考： `轉法輪經　覓寂 尊者 譯  <{filename}sn56-011-santv%zh.rst>`__ 。
+
+.. [9] 〔註009〕　Adapted from the 1995 edition of the digital version of the Sri Lanka Buddha Jayanti Tripitaka Series. 請參 `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ →  `Saŋyutta Nikāya: 5.(sŋ 45-56) `Mahā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_05_mahavagga.htm>`__ (The Great Collection)  →  56. `Sacca-Saŋyutta <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/05_mv/idx_56_saccasamyutta.htm>`__ , V.414  →  II. Dhamma-Cakkapavattana Vaggo, V.420: [11] `Tathāgatena Vutta Suttaŋ <http://www.buddhadust.com/m/dhamma-vinaya/pali/sn/05_mv/sn05.56.011.pali.bd.htm>`__ , V.420     [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
 
 .. [CFn001] 〔莊　註001〕　「一時」，南傳作「有一次」(ekaṃ samayaṃ，直譯為「一時」)，菩提比丘長老英譯為「有一次」(On one occasion)。
 
@@ -780,6 +926,7 @@
 
 
 ..
+  2017.04.30 add: 巴利原典 (BJT), the Sri Lanka Buddha Jayanti Tripitaka Series.-- Obo's Web 
   2016.11.07 rev. correct local link (e.g. sn56-011-chuangcj%zh.rst) to rst
              del:節錄自： 巴利系佛教史綱　第六章　聖典　二　摘錄(已轉至 template)
   ----------------
