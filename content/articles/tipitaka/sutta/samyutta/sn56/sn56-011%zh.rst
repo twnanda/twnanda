@@ -82,7 +82,7 @@
 
     French Translation: `La Roue de la Loi <http://www.buddhadust.com/m/dhamma-vinaya/fra/sn/05_mv/sn05.56.011.prud.fra.htm>`__ , Christian Prud'homme
 
-    German Translation: `Vom Vollendeten Gesprochenes <http://www.buddhadust.com/m/dhamma-vinaya/deu/sn/05_mv/sn05.56.011.unon.deu.htm>`__ , unknown, trans from Palikanon.com <>`__ 
+    German Translation: `Vom Vollendeten Gesprochenes <http://www.buddhadust.com/m/dhamma-vinaya/deu/sn/05_mv/sn05.56.011.unon.deu.htm>`__ , unknown, trans from Palikanon.com <http://www.palikanon.com/>`__ 
 
     Russian Translation: `Сутта запуска колеса Дхаммы <http://dhamma.ru/canon/sn/sn56-11.htm>`__ , The DhammaCakkappaVattana Sutta in Russian, Alekseyevich Ivakhnenko, trans. 
 
