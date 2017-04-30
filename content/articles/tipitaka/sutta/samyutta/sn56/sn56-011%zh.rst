@@ -3,7 +3,7 @@
 =======================================================================
 
 :date: 2016-05-13 16:00
-:modified: 2016-11-10 20:30
+:modified: 2017-04-30 22:30
 :tags: 初轉法輪經, 法輪轉起經, 轉法輪經, 初轉法輪經, SN 56.11 Dhammacakkappavattanasuttaṃ
 :category: 巴利三藏相應部
 :summary: 初轉法輪經 (法輪轉起經, 轉法輪經), SN 56.11 Dhammacakkappavattanasuttaṃ, Dhammacakkappavattana Sutta;
@@ -64,6 +64,36 @@
 
   * `Setting the Wheel of Dhamma in Motion <{filename}sn56-011-than%zh.rst>`__ , Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** (original: Access to Insight:Readings in Theravada Buddhism) [13]_
 
+  * BD: `A Roll'n a-tha Dhamma Wheel <http://www.buddhadust.com/m/dhamma-vinaya/bd/sn/05_mv/sn05.56.011.olds.bd.htm>`__ , Olds translation
+
+    Misc: `The Formula of the Revolution of the Wheel of Experience <http://www.buddhadust.com/m/dhamma-vinaya/misc/sn/05_mv/sn05.56.011.pnji.misc.htm>`__ , Bhante Punnaji, trans.
+
+    BS: Rhys Davids, Buddhist Suttas, `Foundation of the Kingdom of Righteousness <http://www.buddhadust.com/m/dhamma-vinaya/bs/dn.26.rhyt.bs_2.htm>`__ 
+
+    PTS: `Spoken by the Tathagata a <http://www.buddhadust.com/m/dhamma-vinaya/pts/sn/05_mv/sn05.56.011.wood.pts.htm>`__ , V.356
+
+    WP: `Setting in Motion the Wheel of the Dhamma <http://www.buddhadust.com/m/dhamma-vinaya/wp/sn/05_mv/sn05.56.011.bodh.wp.htm>`__ , II.1843
+
+    ATI: `Setting the Wheel of Dhamma in Motion <http://www.buddhadust.com/m/dhamma-vinaya/ati/sn/05_mv/sn05.56.011.nymo.ati.htm>`__  Nanamoli Thera, trans
+
+    ATI: `Piyadassi Thera, trans <http://www.buddhadust.com/m/dhamma-vinaya/ati/sn/05_mv/sn05.56.011.piya.ati.htm>`__ 
+
+    ATI: `Thanissaro Bhikkhu, trans <http://www.buddhadust.com/m/dhamma-vinaya/ati/sn/05_mv/sn05.56.011.than.ati.htm>`__ 
+
+    French Translation: `La Roue de la Loi <http://www.buddhadust.com/m/dhamma-vinaya/fra/sn/05_mv/sn05.56.011.prud.fra.htm>`__ , Christian Prud'homme
+
+    German Translation: `Vom Vollendeten Gesprochenes <http://www.buddhadust.com/m/dhamma-vinaya/deu/sn/05_mv/sn05.56.011.unon.deu.htm>`__ , unknown, trans from Palikanon.com <>`__ 
+
+    Russian Translation: `Сутта запуска колеса Дхаммы <http://dhamma.ru/canon/sn/sn56-11.htm>`__ , The DhammaCakkappaVattana Sutta in Russian, Alekseyevich Ivakhnenko, trans. 
+
+    Spanish Translation: `El Discurso de la Puesta En Movimiento de la Rueda de la Doctrina <http://www.buddhadust.com/m/dhamma-vinaya/spa/nand/sn/05_mv/sn05.56.011.nand.spa.htm>`__ , Texto traducido del pali por Bhikkhu Nandisena
+
+    `A Para Fijar Rodar la Rueda de Dhamma <http://www.buddhadust.com/m/dhamma-vinaya/spa/olds/sn/05_mv/sn05.56.011.olds.spa.htm>`__ , spanish translation of mo version
+
+    Swedish Translation: `Lärans Hjul sätts i rörelse <http://www.buddhadust.com/m/dhamma-vinaya/swe/sn/05_mv/sn05.56.011.jnhg.swe.htm>`__ , Svensk översättning Kerstin Jönhagen
+
+    All Things Pali Group: `Discourse on the Setting in Motion of the Wheel of the Dhamma <http://www.buddhadust.com/m/dhamma-vinaya/yaho/sn/05_mv/sn05.56.011.kell.yaho.htm>`__  John Kelly, trans. [19]_
+
 - 日譯(和訳)：初転法輪（しょてんぽうりん）経；《ダンマチャッカパヴァタナ・スッタ》
 
 - 巴、漢、英文多譯本對讀：
@@ -71,6 +101,8 @@
   * `本站 <{filename}sn56-011-contrast-reading%zh.rst>`__ －－巴利原典(CSCD)、 **Ven. Bhikkhu Bodhi** (英譯)、莊春江　漢譯、蕭式球　漢譯、 **覓寂尊者**　漢譯、( **坦尼沙羅尊者** 英譯)良稹　漢譯、 **Ven. Thanissaro Bhikkhu** (英譯)
 
   * `轉法輪經 (PDF) <{filename}/extra/tipitaka/sutta/samyutta/sn56_011-samadhi-buddha.pdf>`__ ，「原始佛法三摩地學會」中譯 (依 **菩提比丘** 之相應部英譯本為主；附《 **菩提比丘** 英譯本》（部份）、《 **坦尼沙羅比丘** 英譯本》、《雜阿含大正藏第379經》；原始出處請參考： `三摩地學會 <http://www.samadhi-buddha.org/>`__  → `三摩地譯著文集 <http://www.tseatw.org/modules/articles/article.php?id=180>`__ - `SN56.011：轉法輪經(先覺、覺法、後覺三寶具足，法輪常轉) : 三摩地學會‧解脫園） <http://www.tseatw.org/modules/articles/article.php?id=180>`__ → `相應部經‧第56諦相應‧011經：轉法輪經 <http://www.samadhi-buddha.org/Theravada/Canon/Cht/Nikaya/sn56_011.pdf>`__ ）
+
+  * `Details for SN 56.11 Dhammacakkappavattana <https://suttacentral.net/sn56.11>`__ ( `SuttaCentral <https://suttacentral.net/>`__ [20]_ )
 
 ----
 
@@ -98,9 +130,7 @@
 
 --------------
 
-- `法輪轉起經(轉法輪經, 初轉法輪經) Dhammacakkappavattanasuttaṃ <{filename}sn56-011%zh.rst>`__
-
-- Saṃyuttanikāya 相應部 (Sa"myutta-nikaaya) 
+- `Saṃyuttanikāya 相應部 (Sa"myutta-nikaaya) <{filename}/articles/tipitaka/sutta/samyutta/samyutta-nikaaya%zh.rst>`__ 
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
@@ -145,7 +175,12 @@
 
 .. [18] 淨心文教基金會 首頁＞files＞01 南傳佛教資料庫-華語開示＞6瑪欣德尊者＞經典念誦＞傳統式(MP3)＞泰國式 Thailand Tradition＞共誦 Group Chanting＞Visutthikhum, Phra Bhavana
 
+.. [19] Adapted from the 1995 edition of the digital version of the Sri Lanka Buddha Jayanti Tripitaka Series. 請參 `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ →  `Saŋyutta Nikāya: 5.(sŋ 45-56) `Mahā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_05_mahavagga.htm>`__ (The Great Collection)  →  56. `Sacca-Saŋyutta <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/05_mv/idx_56_saccasamyutta.htm>`__ , V.414  →  II. Dhamma-Cakkapavattana Vaggo, V.420: [11] `Tathāgatena Vutta Suttaŋ <http://www.buddhadust.com/m/dhamma-vinaya/pali/sn/05_mv/sn05.56.011.pali.bd.htm>`__ , V.420     [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
+
+.. [20] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Saṃyutta Nikāya (SN) <https://suttacentral.net/sn>`__  →  SN 56  `Sacca Saṃyutta <https://suttacentral.net/sn56>`__   →  `SN 56.11 <https://suttacentral.net/pi/sn56.11>`__  →  `Details for SN 56.11 Dhamma-cakka­ppavattana <https://suttacentral.net/sn56.11>`__ 。
+
 ..
+  2017 add: Sri Lanka Buddha Jayanti Tripitaka Series (Obo's Web) & SuttaCentral
   11.05 del:節錄自： 巴利系佛教史綱　第六章　聖典　二　摘錄(已轉至 template)
         add: sn56-011-santv%zh.rst
   2016.05.13 add .rst 05.16 rev.
