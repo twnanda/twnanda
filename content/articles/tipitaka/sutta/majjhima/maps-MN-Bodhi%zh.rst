@@ -2,7 +2,7 @@
 ================================
 
 :date: 2012-04-03 07:00
-:modified: 2017-04-16 17:30
+:modified: 2017-04-20
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/maps-MN-Bodhi.html
 :tags: 《中部尼柯耶》閱讀地圖, A Systematic Study of the Majjhima Nikāya--Exploring the Word of the Buddha (BODHI MONASTERY), 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
@@ -23,7 +23,7 @@
 
 　　《中部》共152經，《中阿含》有222經，兩者均有的經典有98經，《中部》有16經為其他漢譯大藏經所無，而為巴利尼柯耶獨有的經典，其餘39經在《雜阿含》、《長阿含》、《增一阿含》、律藏等漢譯經典可找到對應經典。同樣地，《中阿含》也有15經為其他巴利聖典所無，而為《中阿含》所獨有的經典，其餘109經可以在五部尼柯耶找到對應經典。即使是對應經典，漢巴兩者之間有或大或小的差距，未對照原文之前，請讀者務必不可假設對應經典之間的人、事、提及的法義為完全相同。根據譯者所知，德國籍無著比丘(Ven. Anālayo)著有《中部尼柯耶的比較研究 》，
 
-Anālayo, Bhikkhu, (2011), *A Comparative Study of the Majjhima-nikāya*, Vol. 1 & 2, 法鼓佛教學院, 新北市, 台灣.**
+**Anālayo, Bhikkhu**, (2011), *A Comparative Study of the Majjhima-nikāya*, Vol. 1 & 2, 法鼓佛教學院, 新北市, 台灣.
 
 | 澳洲籍教授白瑞德(Prof. Rod Bucknell)與無著比丘編訂《中部尼柯耶的對照目錄--赤沼智善目錄的訂正 》
 |  Anālayo, Bhikkhu, and Bucknell Roderick S., (2006),‘\ **Correspondence Table for Parallels to the Discourses of the Majjhima Nikāya: Toward a Revision of Akanuma’s Comparative Catalogue** \ ’, Journal of the Centre for Buddhist Studies,*, Sri Lanka, Volume IV, pp. 215-243.
