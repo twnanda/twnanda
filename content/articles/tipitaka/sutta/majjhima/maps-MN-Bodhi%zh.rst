@@ -2,7 +2,7 @@
 ================================
 
 :date: 2012-04-03 07:00
-:modified: 2017-04-20
+:modified: 2017-05-07
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/maps-MN-Bodhi.html
 :tags: 《中部尼柯耶》閱讀地圖, A Systematic Study of the Majjhima Nikāya--Exploring the Word of the Buddha (BODHI MONASTERY), 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
@@ -1827,7 +1827,7 @@
 
   * 英譯：
 
-    - `The Six Sets of Six <http://www.wisdompubs.org/book/middle-length-discourses-buddha/selections/middle-length-discourses-148-chachakka-sutta>`__ `Translated from the Pali by **Ven. Bodhi Bhikkhu**) ( `Wisdom Publications <http://www.wisdompubs.org/>`__ ) [7]_
+    - `The Six Sets of Six <http://www.wisdompubs.org/book/middle-length-discourses-buddha/selections/middle-length-discourses-148-chachakka-sutta>`__ Translated from the Pali by **Ven. Bodhi Bhikkhu**) ( `Wisdom Publications <http://www.wisdompubs.org/>`__ ) [7]_
 
       \*\*\* "This work is licensed under a `Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License <http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US>`_ ." \*\*\*
 
@@ -2406,6 +2406,7 @@
 .. [12] § 2.8.南傳《中部》第 120《行生經》（ `福嚴佛學院 <http://www.fuyan.org.tw/>`__ →研究論文→福嚴佛學研究第三期 (2008.04)；或 `溫宗堃の風培基 <http://tkwen.theravada-chinese.org>`__ →福嚴佛學院講義 → `福嚴佛學研究 第三期 (2008.04)(PDF) <http://tkwen.theravada-chinese.org/Fuyan/Buddhist/Studies/v3_2008.pdf>`__ ）
 
 ..
+  05.07 correct some URLs
   04.20 rev. some urls
   04.16 2017 rev. re-arrange (simplying) the items, add footnotes; 芝峯 譯(華宇); 通妙 譯(元亨寺); Sister Upalavanna: buddhadust.com & Mettanet Tipitaka Index; 對讀 Details for MN (SuttaCentral)
              old: 江鍊百漢譯；釋芝峯校證; 《得法大經第四十六》(PDF) mn.046.ShCFon.pdf;《薩羅村婆羅門經第四十一》mn.041.ShCFon.pdf; 江鍊百漢譯；釋芝峯校證《鋸喻經第二十一》(PDF) mn.021.ShCFon.pdf;《心材喻大經第二十九》(PDF) <mn.029.ShCFon.pdf
