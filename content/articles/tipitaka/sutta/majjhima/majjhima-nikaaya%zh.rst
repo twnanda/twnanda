@@ -141,7 +141,7 @@ Mūlapaṇṇāsa 根本五十經篇
 
 - MN 1: Mūlapariyāya Sutta, 中部 1, 根本法門經, 根源經, M i 1 
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN1>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN1>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN1>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn1>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn1>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn1>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mūlapariyāyasuttaṃ
 
@@ -253,7 +253,7 @@ Mūlapaṇṇāsa 根本五十經篇
 
 - MN 3: Dhammadāyāda Sutta, 中部 3, 法嗣經, 法繼承經, 法之繼承人經, MN i 12
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN3>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN3>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN3>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn3>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn3>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn3>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sabbāsavasuttaṃ
 
@@ -351,7 +351,7 @@ Mūlapaṇṇāsa 根本五十經篇
 
 - MN 5: Anaṅgaṇa Sutta, 中部5, 無穢經, MN i 24
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN5>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN5>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN5>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn5>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn5>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn5>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Anaṅgaṇasuttaṃ
 
@@ -894,7 +894,7 @@ Sīhanādavaggo 獅子吼品
 
 - MN 14: Cūḷadukkhakkhandha Sutta, 中部14, 苦蘊小經, MN i 91 
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN14>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN14>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN14>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn14>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn14>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn14>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷadukkhakkhandhasuttaṃ
 
@@ -944,7 +944,7 @@ Sīhanādavaggo 獅子吼品
 
 - MN 15: Anumāna Sutta, 中部15, 思量經(推量經, 反思經), MN i 95
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN15>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN15>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN15>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn15>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn15>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn15>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Anumānasuttaṃ
 
@@ -1002,7 +1002,7 @@ Sīhanādavaggo 獅子吼品
 
 - MN 16: Cetokhila Sutta, 中部16, 心荒蕪經, MN i 101
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN16>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN16>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN16>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn16>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn16>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn16>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cetokhilasuttaṃ
 
@@ -1052,7 +1052,7 @@ Sīhanādavaggo 獅子吼品
 
 - MN 17: Vanapattha Sutta, 中部17, 林藪經, MN i 104
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN17>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN17>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN17>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn17>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn17>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn17>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Vanapatthasuttaṃ
 
@@ -1098,7 +1098,7 @@ Sīhanādavaggo 獅子吼品
 
 - MN 18: Madhupiṇḍika Sutta, 中部18, 蜜丸經, MN i 108
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN18>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN18>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN18>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn18>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn18>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn18>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Madhupiṇḍikasuttaṃ
 
@@ -1383,7 +1383,7 @@ Opammavaggo 譬喻法品
 
 - MN 23: Vammika Sutta, 中部23, 蟻丘經, 蟻垤經, M i 142
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN23>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN23>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN23>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn23>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn23>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn23>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Vammikasuttaṃ
 
@@ -1427,7 +1427,7 @@ Opammavaggo 譬喻法品
 
 - MN 24: Rathavinīta Sutta, 中部24, 傳車經, 接力車經, M i 145
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN24>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN24>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN24>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn24>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn24>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn24>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Rathavinītasuttaṃ
 
@@ -1467,7 +1467,7 @@ Opammavaggo 譬喻法品
 
 - MN 25: Nivāpa Sutta, 中部25, 餌經, 誘餌經, 撒餌經, M i 151
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN25>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN25>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN25>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn25>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn25>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn25>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Nivāpasuttaṃ
 
@@ -1700,7 +1700,7 @@ Opammavaggo 譬喻法品
 
 - MN 30: Cūḷasāropama Sutta, 中部30, 心材喻小經, 心材譬喻小經, 小實木喻經, M i 198
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN30>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN30>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN30>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn30>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn30>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn30>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Alagaddūpamasuttaṃ
 
@@ -1879,7 +1879,7 @@ Mahāyamakavaggo 雙大品
 
 - MN 33: Mahāgopālaka Sutta, 中部33, 牧牛者大經, 大牧牛人經, M i 220
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN33>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN33>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN33>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn33>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn33>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn33>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāgopālakasuttaṃ
 
@@ -1929,7 +1929,7 @@ Mahāyamakavaggo 雙大品
 
 - MN 34: Cūḷagopālaka Sutta, 中部31, 牧牛者小經, 小牧牛人經, M i 225
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN34>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN34>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN34>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn34>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn34>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn34>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷagopālakasuttaṃ
 
@@ -1975,7 +1975,7 @@ Mahāyamakavaggo 雙大品
 
 - MN 35: Cūḷasaccaka Sutta, 中部35, 薩遮迦小經, 小薩遮經, M i 227
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN35>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN35>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN35>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn35>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn35>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn35>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷasaccakasuttaṃ
 
@@ -2086,7 +2086,7 @@ Mahāyamakavaggo 雙大品
 
 - MN 37: Cūḷataṇhāsaṅkhaya Sutta, 中部37, 愛盡小經, 渴愛的滅盡小經, 小愛盡經,  M i 251
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN37>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN37>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN37>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn37>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn37>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn37>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷataṇhāsaṅkhayasuttaṃ
 
@@ -2380,7 +2380,7 @@ Cūḷayamakavaggo 雙小品
 
 - MN 42: Verañjaka sutta, 中部42, 娑羅經, 鞞蘭若村婆羅門經, 威樂若經, M i 290
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN42>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN42>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN42>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn42>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn42>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn42>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Verañjakasuttaṃ
 
@@ -2423,7 +2423,7 @@ Cūḷayamakavaggo 雙小品
 
 - MN 43: Mahāvedalla Sutta, 中部43, 有明大經, 毘陀羅大經, 大廣解經, M i 292
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN43>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN43>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN43>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn43>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn43>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn43>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāvedallasuttaṃ
 
@@ -2471,7 +2471,7 @@ Cūḷayamakavaggo 雙小品
 
 - MN 44: Cūḷavedalla  Sutta, 中部44, 有明小經, 小廣解經, 毘陀羅小經, M i 299
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN44>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN44>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN44>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn44>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn44>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn44>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷavedallasuttaṃ
 
@@ -2519,7 +2519,7 @@ Cūḷayamakavaggo 雙小品
 
 - MN 45: Cūḷadhammasamādāna Sutta, 中部45, 得法小經, 法的受持小經, 小行法經, M i 305
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN45>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN45>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN45>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn45>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn45>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn45>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷadhammasamādānasuttaṃ
 
@@ -2670,7 +2670,7 @@ Cūḷayamakavaggo 雙小品
 
 - MN 48: Kosambiya Sutta, 中部48, 憍賞彌經, 拘睒彌經, M i 320
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN48>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN48>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN48>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn48>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn48>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn48>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Kosambiyasuttaṃ
 
@@ -2714,7 +2714,7 @@ Cūḷayamakavaggo 雙小品
 
 - MN 49: Brahmanimantanika Sutta, 中部41, 梵天請經, 梵天的邀請經, 326
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN49>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN49>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN49>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn49>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn49>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn49>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Brahmanimantanikasuttaṃ
 
@@ -2760,7 +2760,7 @@ Cūḷayamakavaggo 雙小品
 
 - MN 50: Māratajjaniya Sutta, 中部50, 呵魔經, 魔羅受斥經, 魔訶責經, 應該被呵責的魔經, M i 332
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN50>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN50>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN50>`__ **芝峯** 譯(華宇) [7]_
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn50>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn50>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#mn50>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Māratajjaniyasuttaṃ
 
@@ -2859,7 +2859,7 @@ Gahapativaggo 居士品
 
 - MN 51: Kandaraka Sutta, 中部51, 乾達羅迦經, 緊達羅迦經, 耿達勒葛經, M i 339
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN51>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN51>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn51>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn51>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Kandarakasuttaṃ
 
@@ -2949,7 +2949,7 @@ Gahapativaggo 居士品
 
 - MN 53: Sekha Sutta, 中部53, 有學經, 學人經, M i 353
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN53>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN53>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn53>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn53>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sekhasuttaṃ
 
@@ -3054,7 +3054,7 @@ Gahapativaggo 居士品
     * 4.當該生物正遭殺害而受苦痛、憂傷時；
     * 5.當他對如來或如來弟子具有不淨嬈害心時 -- p.371. (p.116.)
 
-    ◎ 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN55>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN55>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+    ◎ 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn55>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn55>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Jīvakasuttaṃ
 
@@ -3108,7 +3108,7 @@ Gahapativaggo 居士品
 
 - MN 56: Upāli Sutta, 中部56, 優婆離經, 優波離經, M i 371
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN56>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN56>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn56>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn56>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Upālisuttaṃ
 
@@ -3204,7 +3204,7 @@ Gahapativaggo 居士品
 
 - MN 58: Abhayarājakumāra Sutta, 中部58, 無畏王子經, M i 392
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN58>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN58>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn58>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn58>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Abhayarājakumārasuttaṃ
 
@@ -3246,7 +3246,7 @@ Gahapativaggo 居士品
 
 - MN 59: Bahuvedanīya Sutta, 中部59, 多種受經, 多受經, M i 396
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN59>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN59>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn59>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn59>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bahuvedanīyasuttaṃ
 
@@ -3445,7 +3445,7 @@ Bhikkhuvaggo 比丘品
 
 - MN 62: Mahārāhulovāda Sutta, 中部62, 教誡羅侯羅大經, M i 420
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN62>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN62>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn62>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn62>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahārāhulovādasuttaṃ
 
@@ -3690,7 +3690,7 @@ Bhikkhuvaggo 比丘品
 
 - MN 67: Cātuma Sutta, 中部67, 遮堵瑪經, 遮偷摩經, 車頭聚落經, M i 456
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN67>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN67>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn67>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn67>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cātumasuttaṃ
 
@@ -3728,7 +3728,7 @@ Bhikkhuvaggo 比丘品
 
 - MN 68: Naḷakapāna Sutta, 中部68, 那勒葛波那經, 那羅伽波寧村經, 那邏迦波那經, M i 462
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN68>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN68>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn68>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn68>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Naḷakapānasuttaṃ
 
@@ -3766,7 +3766,7 @@ Bhikkhuvaggo 比丘品
 
 - MN 69: Gulissāni Sutta (Goliyāni Sutta), 中部69, 瞿尼師經, 枸哩亞尼經, M i 469
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN69>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN69>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn69>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn69>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Gulissānisuttaṃ (Goliyānisuttaṃ) 
 
@@ -3912,7 +3912,7 @@ Paribbājakavaggo 普行者品
 
 - MN 71: Tevijjavacchagotta (Tevijjavaccha) Sutta, 中部71, 三明與婆蹉經, 三明婆蹉種經, 婆蹉衢多三明經, M i 481
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN71>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN71>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn71>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn71>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Tevijjavacchagotta (Tevijjavaccha)
 
@@ -3951,7 +3951,7 @@ Paribbājakavaggo 普行者品
 
 - MN 72: Aggivacchagotta (Aggivaccha) Sutta, 中部72, 火婆蹉種經, 婆蹉火經, 婆蹉衢多火〔喻〕經, M i 483
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN72>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN72>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn72>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn72>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Aggivacchagotta suttaṃ (Aggivacchasuttaṃ)
 
@@ -3993,7 +3993,7 @@ Paribbājakavaggo 普行者品
 
 - MN 73: Mahāvacchagotta (Mahāvaccha) Sutta, 中部75, 婆蹉大經, 大婆蹉種經, 婆蹉衢多大經, M i 489
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN73>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN73>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn73>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn73>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāvacchagottasuttaṃ (Mahāvacchasuttaṃ)
 
@@ -4031,7 +4031,7 @@ Paribbājakavaggo 普行者品
 
 - MN 74: Dīghanakha Sutta, 中部74, 長爪經, 長甲經, M i 497
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN74>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN74>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn74>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn74>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Dīghanakhasuttaṃ
 
@@ -4137,7 +4137,7 @@ Paribbājakavaggo 普行者品
 
 - MN 76: Sandaka Sutta, 中部76, 刪陀迦經, 散達葛經, 散陀迦經, M i 513
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN76>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN76>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn76>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn76>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sandakasuttaṃ
 
@@ -4221,7 +4221,7 @@ Paribbājakavaggo 普行者品
 
 - MN 78: Samaṇamaṇḍikā Sutta, 中部78, 沙門木地葛經, 沙門文祁子經, 須摩滿提經, M ii 22
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN78>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN78>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn78>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn78>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Samaṇamaṇḍikā suttaṃ (Samaṇamuṇḍikasuttaṃ)
 
@@ -4261,7 +4261,7 @@ Paribbājakavaggo 普行者品
 
 - MN 79: Cūḷasakuludāyi Sutta, 中部79, 善生優陀夷小經, 小沙俱邏．優陀夷經, 色古巫大夷小經, M ii 29
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN79>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN79>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn79>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn79>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷasakuludāyisuttaṃ
 
@@ -4299,7 +4299,7 @@ Paribbājakavaggo 普行者品
 
 - MN 80: Vekhanassa Sutta, Vekhanasa Sutta, 中部80, 鞞摩那修經, 韋迦那經, 偉柯那色經, M ii 40
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN80>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN80>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn80>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn80>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Vekhanasasuttaṃ (Vekhanassasuttaṃ)
 
@@ -4393,7 +4393,7 @@ Rājavaggo 王品
 
 - MN 81: Ghaṭīkāra Sutta, Ghaṭikārasuttaṃ, 中部81, 陶師經, 額低葛勒經, 伽提迦羅經, M ii 45
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN81>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN81>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn81>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn81>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Ghaṭikārasuttaṃ (Ghaṭīkārasuttaṃ)
 
@@ -4479,7 +4479,7 @@ Rājavaggo 王品
 
 - MN 83: Makhādeva Sutta, Maghadeva Sutta, 中部83, 大天㮈林經, 大天[木*奈]林經, 大天王經, 麻額提婆經, M ii 74
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN83>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN83>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn83>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn83>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Maghadevasuttaṃ (Makhādevasuttaṃ)
 
@@ -4517,7 +4517,7 @@ Rājavaggo 王品
 
 - MN 84: Madhura Sutta, 中部84, 摩偷羅經, M ii 83
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN84>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN84>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn84>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn84>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Madhurasuttaṃ
 
@@ -4557,7 +4557,7 @@ Rājavaggo 王品
 
 - MN 85: Bodhirājakumāra Sutta, 中部85, 菩提王子經, M ii 91
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN85>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN85>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn85>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn85>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bodhirājakumārasuttaṃ
 
@@ -4609,7 +4609,7 @@ Rājavaggo 王品
 
 - MN 86: Raṭṭhapāla Sutta, 中部86, 鴦掘摩羅經, 鴦掘摩經, M ii 97
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN86>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN86>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn86>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn86>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Raṭṭhapālasuttaṃ
 
@@ -4655,7 +4655,7 @@ Rājavaggo 王品
 
 - MN 87: Piyajātika Sutta, 中部87, 愛生經, 鍾愛生經, 從可愛者所生經, M ii 106
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN87>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN87>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn87>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn87>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Piyajātikasuttaṃ
 
@@ -4695,7 +4695,7 @@ Rājavaggo 王品
 
 - MN 88: Bāhitika Sutta, 中部88, 斗蓬經, 鞞訶提經, M ii 112
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN88>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN88>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn88>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn88>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bāhitikasuttaṃ
 
@@ -4733,7 +4733,7 @@ Rājavaggo 王品
 
 - MN 89: Dhammacetiya Sutta, 中部89, 法莊嚴經, 法廟經, 法的塔廟經, M ii 118
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN89>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN89>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn89>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn89>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Dhammacetiyasuttaṃ
 
@@ -4771,7 +4771,7 @@ Rājavaggo 王品
 
 - MN 90: Kaṇṇakatthala Sutta, 中部90, 普棘刺林經, 葛那葛得勒經, 緊那迦陀邏經, M ii 125
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN90>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN90>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn90>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn90>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Kaṇṇakatthalasuttaṃ
 
@@ -4871,7 +4871,7 @@ Brāhmaṇavaggo 婆羅門品
 
 - MN 91: Brahmāyu Sutta, 中部91, 梵壽經, 梵摩經, M ii 133
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN91>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN91>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn91>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn91>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Brahmāyusuttaṃ
 
@@ -4909,7 +4909,7 @@ Brāhmaṇavaggo 婆羅門品
 
 - MN 92: Sela Sutta, 中部92, 謝勒經, 舍羅經, 施羅經, M ii 146
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN92>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN92>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn92>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn92>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Selasuttaṃ
 
@@ -4947,7 +4947,7 @@ Brāhmaṇavaggo 婆羅門品
 
 - MN 93: Assalāyana Sutta, 中部93, 阿攝羅耶那, 阿攝拉亞那經, 阿娑邏經, 阿攝惒經, M ii 147
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN93>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN93>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn93>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn93>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Assalāyanasuttaṃ
 
@@ -4987,7 +4987,7 @@ Brāhmaṇavaggo 婆羅門品
 
 - MN 94: Ghoṭamukha Sutta, 中部94, 瞿哆牟伽經, 瞿多目迦經, 苟德木柯經, M ii 157
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN94>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN94>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn94>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn94>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Ghoṭamukhasuttaṃ
 
@@ -5093,7 +5093,7 @@ Brāhmaṇavaggo 婆羅門品
 
 - MN 96: Esukārī Sutta, Phasukārī Sutta, 中部96, 鬱瘦歌邏經, 伊須迦利經, 耶蘇葛力經, M ii 177
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN96>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN96>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn96>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn96>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Esukārīsuttaṃ (Phasukārīsuttaṃ)
 
@@ -5131,7 +5131,7 @@ Brāhmaṇavaggo 婆羅門品
 
 - MN 97: Dhanañjāni Sutta, 中部97, 陀然經, 達那若尼經, M ii 184
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN97>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN97>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn97>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn97>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Dhanañjānisuttaṃ
 
@@ -5171,7 +5171,7 @@ Brāhmaṇavaggo 婆羅門品
 
 - MN 98: Vāseṭṭha Sutta, 中部98, 婆私吒經, 婆舍多經, 襪謝德經, M ii 196
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN98>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN98>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn98>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn98>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Vāseṭṭhasuttaṃ
 
@@ -5209,7 +5209,7 @@ Brāhmaṇavaggo 婆羅門品
 
 - MN 99: Subha Sutta, 中部99, 須婆經, 須跋經, 蘇玻經, M ii 197
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN99>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN99>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn99>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn99>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Subhasuttaṃ
 
@@ -5249,7 +5249,7 @@ Brāhmaṇavaggo 婆羅門品
 
 - MN 100: Saṅgārava Sutta, 中部100, 傷歌邏經, 僧伽羅婆經, M ii 209
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN100>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN100>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn100>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn100>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Saṅgāravasuttaṃ
 
@@ -5344,7 +5344,7 @@ Devadahavaggo 天臂品
 
 - MN 101: Devadaha Sutta, 中部101, 天湖經, 天臂經, M ii 214
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN101>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN101>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn101>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn101>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Devadahasuttaṃ
 
@@ -5388,7 +5388,7 @@ Devadahavaggo 天臂品
 
 - MN 102: Pañcattaya Sutta, Pañcāyatana Sutta, 中部102, 五三經, 五與三經, M ii 228
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN102>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN102>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn102>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn102>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Pañcattayasuttaṃ (pañcāyatanasutta)
 
@@ -5426,7 +5426,7 @@ Devadahavaggo 天臂品
 
 - MN 103: Kinti Sutta, 中部103, 如何經, 認為經, M ii 238
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN103>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN103>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn103>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn103>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Kintisuttaṃ
 
@@ -5510,7 +5510,7 @@ Devadahavaggo 天臂品
 
 - MN 105: Sunakkhatta Sutta, 中部105, 舍彌村經, M ii 252
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN105>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN105>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn105>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn105>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sunakkhattasuttaṃ
 
@@ -5564,7 +5564,7 @@ Devadahavaggo 天臂品
 
 - MN 106: Āneñjasappāya Sutta, 中部106, 不動利益經, 隨應於不動經, 助益不動搖經, M ii 261
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN106>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN106>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn106>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn106>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Āneñjasappāyasuttaṃ
 
@@ -5604,7 +5604,7 @@ Devadahavaggo 天臂品
 
 - MN 107: Gaṇakamoggallāna Sutta, 中部107, 舍彌村經, M iii 1
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN107>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN107>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn107>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn107>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Gaṇakamoggallānasuttaṃ
 
@@ -5690,7 +5690,7 @@ Devadahavaggo 天臂品
 
 - MN 109: Mahāpuṇṇama Sutta, 中部109, 滿月大經, 大月圓經, M iii 15
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN109>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN109>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn109>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn109>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāpuṇṇamasuttaṃ
 
@@ -5730,7 +5730,7 @@ Devadahavaggo 天臂品
 
 - MN 110: Cūḷapuṇṇama Sutta, 中部110, 舍彌村經, M iii 20
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN110>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN110>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn110>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn110>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷapuṇṇamasuttaṃ
 
@@ -5828,7 +5828,7 @@ Anupadavaggo 不斷品
 
 - MN 111: Anupada Sutta, 中部111, 逐步經, 逐一經, 不斷經, M iii 25
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN111>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN111>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn111>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn111>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Anupadasuttaṃ
 
@@ -5870,7 +5870,7 @@ Anupadavaggo 不斷品
 
 - MN 112: Chabbisodhana Sutta, 中部112, 六淨經, 六純淨經, 六種清淨經, M iii 29
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN112>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN112>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn112>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn112>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Chabbisodhanasuttaṃ
 
@@ -5910,7 +5910,7 @@ Anupadavaggo 不斷品
 
 - MN 113: Sappurisa Sutta, 中部113, 善人經, 善士經, M iii 37
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN113>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN113>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn113>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn113>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sappurisasuttaṃ
 
@@ -5950,7 +5950,7 @@ Anupadavaggo 不斷品
 
 - MN 114: Sevitabbāsevitabba Sutta, 中部114, 應習不應習經, 應行不應行經, 應該實行與不應該實行經, M iii 45
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN114>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN114>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn114>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn114>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sevitabbāsevitabbasuttaṃ
 
@@ -5988,7 +5988,7 @@ Anupadavaggo 不斷品
 
 - MN 115: Bahudhātuka Sutta, 中部115, 多界經, 多種界經, M iii 61
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN115>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN115>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn115>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn115>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bahudhātukasuttaṃ
 
@@ -6040,7 +6040,7 @@ Anupadavaggo 不斷品
 
 - MN 116: Isigili Sutta, 中部116, 仙吞經, 仙人山經, M iii 68
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN116>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN116>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn116>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn116>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Isigilisuttaṃ
 
@@ -6180,7 +6180,7 @@ Anupadavaggo 不斷品
 
 - MN 119: Kāyagatāsati Sutta, 中部119, 身至念經, 身行念經, 身念經, M iii 88
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN119>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN119>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn119>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn119>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Kāyagatāsatisuttaṃ
 
@@ -6319,7 +6319,7 @@ Suññatavaggo 空品
 
 - MN 121: Cūḷasuññata Sutta, 中部121, 空小經, 小空經, M iii 104
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN121>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN121>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn121>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn121>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Saṅkhārupapattisuttaṃ
 
@@ -6369,7 +6369,7 @@ Suññatavaggo 空品
 
 - MN 122: Mahāsuññata Sutta, 中部122, 空大經, 大空經, M iii 109
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN122>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN122>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn122>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn122>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāsuññatasuttaṃ
 
@@ -6413,7 +6413,7 @@ Suññatavaggo 空品
 
 - MN 123: Acchariya-abbhuta Sutta, 中部123, 未曾有法經, 希有未曾有法經, 不可思議-未曾有經, M iii 118
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN123>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN123>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn123>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn123>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Acchariya-abbhutasuttaṃ
 
@@ -6451,7 +6451,7 @@ Suññatavaggo 空品
 
 - MN 124: Bakkula Sutta, Bākula Sutta, 中部124, 薄拘羅經, 巴古勒經, M iii 124
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN124>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN124>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn124>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn124>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bākulasuttaṃ (Bakkulasuttaṃ)
 
@@ -6489,7 +6489,7 @@ Suññatavaggo 空品
 
 - MN 125: Dantabhūmi Sutta, 中部125, 調御地經, 已調御階位經, M iii 128
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN125>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN125>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn125>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn125>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Dantabhūmisuttaṃ
 
@@ -6541,7 +6541,7 @@ Suññatavaggo 空品
 
 - MN 126: Bhūmija Sutta, 中部126, 地生經, 浮彌經, M iii 138
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN126>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN126>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn126>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn126>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bhūmijasuttaṃ
 
@@ -6581,7 +6581,7 @@ Suññatavaggo 空品
 
 - MN 127: Anuruddha Sutta, 中部127, 阿那律經, 阿那律陀經, M iii 144
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN127>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN127>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn127>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn127>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Anuruddhasuttaṃ
 
@@ -6619,7 +6619,7 @@ Suññatavaggo 空品
 
 - MN 128: Upakkilesa Sutta, 中部128, 隨煩惱經, 隨雜染經, 污染經, M iii 152
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN128>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN128>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn128>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn128>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Upakkilesasuttaṃ
 
@@ -6657,7 +6657,7 @@ Suññatavaggo 空品
 
 - MN 129: Bālapaṇḍita Sutta, 中部129, 賢愚經, 愚者與賢者經, 愚人與智者經, M iii 163
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN129>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN129>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn129>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn129>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bālapaṇḍitasuttaṃ
 
@@ -6695,7 +6695,7 @@ Suññatavaggo 空品
 
 - MN 130: Devadūta Sutta, 中部130, 天使經, 天信使經, M iii 178
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN130>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN130>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn130>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn130>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Devadūtasuttaṃ
 
@@ -6796,7 +6796,7 @@ Vibhaṅgavaggo 分別品
 
 - MN 131: Bhaddekaratta Sutta, 中部131, 一夜賢者經, 賢善一夜者經, 當下勤修經, M iii 187
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN131>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN131>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn131>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn131>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bhaddekarattasuttaṃ
 
@@ -6840,7 +6840,7 @@ Vibhaṅgavaggo 分別品
 
 - MN 132: Ānanda bhaddekaratta Sutta, 中部132, 阿難一夜賢者經, 阿難賢善一夜者經, 阿難當下勤修經, M iii 189
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN132>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN132>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn132>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn132>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典： Ānandabhaddekarattasuttaṃ
 
@@ -6878,7 +6878,7 @@ Vibhaṅgavaggo 分別品
 
 - MN 133: Mahakaccānabhaddekaratta Sutta, 中部133, 大迦旃延一夜賢者經, 摩訶迦旃延賢善一夜者經, 大迦旃延當下勤修經, M iii 192
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN133>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN133>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn133>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn133>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahākaccānabhaddekarattasuttaṃ
 
@@ -6916,7 +6916,7 @@ Vibhaṅgavaggo 分別品
 
 - MN 134: Lomasakaṅgiya bhaddekaratta Sutta, 中部134, 羅麼色耿其雅賢善一夜者經, 盧夷強耆一夜賢者經, 羅摩沙迦當下勤修經, M iii 199
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN134>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN134>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn134>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn134>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Lomasakaṅgiyabhaddekarattasuttaṃ
 
@@ -7008,7 +7008,7 @@ Vibhaṅgavaggo 分別品
 
 - MN 136: Mahākammavibhaṅga Sutta, 中部136, 業分別大經, 大業分別經, 大分析業經, M iii 207
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN136>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN136>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn136>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn136>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahākammavibhaṅgasuttaṃ
 
@@ -7071,7 +7071,7 @@ Vibhaṅgavaggo 分別品
 
 - MN 137: Saḷāyatanavibhaṅga Sutta, 中部137, 六處分別經, 分析六處經, M iii 215
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN137>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN137>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn137>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn137>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Saḷāyatanavibhaṅgasuttaṃ
 
@@ -7111,7 +7111,7 @@ Vibhaṅgavaggo 分別品
 
 - MN 138: Uddesavibhaṅga Sutta, 中部138, 總說分別經, 分析義理經, M iii 223
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN138>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN138>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn138>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn138>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Uddesavibhaṅgasuttaṃ
 
@@ -7151,7 +7151,7 @@ Vibhaṅgavaggo 分別品
 
 - MN 139: Araṇavibhaṅga Sutta, 中部139, 無諍分別經, 無諍之分別經, 分析無諍經, M iii 230
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN139>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN139>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn139>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn139>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Araṇavibhaṅgasuttaṃ
 
@@ -7241,7 +7241,7 @@ Vibhaṅgavaggo 分別品
 
 - MN 141: Saccavibhaṅga Sutta, 中部141, 諦分別經, 分析聖諦經, M iii 248
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN141>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN141>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn141>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn141>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Saccavibhaṅgasuttaṃ
 
@@ -7283,7 +7283,7 @@ Vibhaṅgavaggo 分別品
 
 - MN 142: Dakkhiṇāvibhaṅga Sutta, 中部142, 供養分別經, 分析供養經, 施分別經, M iii 253
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN142>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN142>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn142>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn142>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Dakkhiṇāvibhaṅgasuttaṃ
 
@@ -7381,7 +7381,7 @@ Saḷāyatanavaggo 六處品
 
 - MN 143: Anāthapiṇḍikovāda Sutta, 中部143, 教誡給孤獨經, 教給孤獨經, 教化給孤獨長者經, M iii 258
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN143>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN143>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn143>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn143>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Anāthapiṇḍikovādasuttaṃ
 
@@ -7421,7 +7421,7 @@ Saḷāyatanavaggo 六處品
 
 - MN 144: Channovāda Sutta, 中部144, 教誡闡陀經, 教闡陀經, 教化車匿經, M iii 263
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN144>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN144>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn144>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn144>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Channovādasuttaṃ
 
@@ -7459,7 +7459,7 @@ Saḷāyatanavaggo 六處品
 
 - MN 145: Puṇṇovāda Sutta, 中部145, 教誡富樓那經, 教富樓那經, 教化富那經, M iii 267
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN145>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN145>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn145>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn145>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Puṇṇovādasuttaṃ
 
@@ -7545,7 +7545,7 @@ Saḷāyatanavaggo 六處品
 
 - MN 147: Cūḷarāhulovāda Sutta, 中部147, 教誡羅侯羅小經, 小教化羅睺邏經, M iii 277
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN147>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN147>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn147>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn147>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷarāhulovādasuttaṃ
 
@@ -7701,7 +7701,7 @@ Saḷāyatanavaggo 六處品
 
 - MN 150: Nagaravindeyya Sutta, 中部150, 頻頭城經, M iii 290
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN150>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN150>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn150>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn150>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Nagaravindeyyasuttaṃ
 
@@ -7739,7 +7739,7 @@ Saḷāyatanavaggo 六處品
 
 - MN 151: Piṇḍapātapārisuddhi Sutta, 中部151, 淨化施食經, 化食清淨經, 乞食清淨經, M iii 293
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN151>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN151>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn151>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn151>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Piṇḍapātapārisuddhisuttaṃ
 
@@ -7777,7 +7777,7 @@ Saḷāyatanavaggo 六處品
 
 - MN 152: Indriyabhāvanā Sutta, 中部152, 根修習經, 修習根經, M iii 298
 
-  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN152>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN152>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn152>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn152>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Indriyabhāvanāsuttaṃ
 
