@@ -2,7 +2,7 @@ Majjhima-nikāya 巴利大藏經 經藏 中部 (Further Dialogues of the Buddha;
 =============================================================================================================
 
 :date: 2003-07-13
-:modified: 2017-05-02
+:modified: 2017-05-07
 :tags: 中部尼柯耶, 中部, 尼柯耶, Majjhima nikāya, 巴利三藏中部
 :category: 巴利三藏中部
 :summary: Majjhima-nikāya 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
@@ -126,20 +126,22 @@ Mūlapaṇṇāsa 根本五十經篇
 .. list-table:: MN 1 ～ MN 10
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 1`_
-     - `MN 2`_
-     - `MN 3`_
-     - `MN 4`_
-     - `MN 5`_
-     - `MN 6`_
-     - `MN 7`_
-     - `MN 8`_
-     - `MN 9`_
-     - `MN 10`_
+   * - `MN1`_
+     - `MN2`_
+     - `MN3`_
+     - `MN4`_
+     - `MN5`_
+     - `MN6`_
+     - `MN7`_
+     - `MN8`_
+     - `MN9`_
+     - `MN10`_
 
-.. _MN 1:
+.. _MN1:
 
 - MN 1: Mūlapariyāya Sutta, 中部 1, 根本法門經, 根源經, M i 1 
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN1>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN1>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN1>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mūlapariyāyasuttaṃ
 
@@ -185,11 +187,11 @@ Mūlapaṇṇāsa 根本五十經篇
 
 ------
 
-.. _MN 2:
+.. _MN2:
 
 - MN 2: Sabbāsava Sutta, 中部 2, 一切漏經, 一切煩惱經, 漏經, MN i 6
 
-  * 五、解脫道 ： 6. 斷除諸漏  ( `MN 2 一切漏經 概要`_ )
+  * 五、解脫道 ： 6. 斷除諸漏  ( `MN2 一切漏經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sabbāsavasuttaṃ
 
@@ -247,9 +249,11 @@ Mūlapaṇṇāsa 根本五十經篇
 
 ------
 
-.. _MN 3:
+.. _MN3:
 
 - MN 3: Dhammadāyāda Sutta, 中部 3, 法嗣經, 法繼承經, 法之繼承人經, MN i 12
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN3>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN3>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN3>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sabbāsavasuttaṃ
 
@@ -291,11 +295,11 @@ Mūlapaṇṇāsa 根本五十經篇
 
 ------
 
-.. _MN 4:
+.. _MN4:
 
 - MN 4: Bhayabherava Sutta, 中部 4, 怖駭經, 恐懼驚慌經, 恐怖與害怕經, MN i 16
 
-  * 一、佛陀的正等正覺： 佛陀出家修行(聖求)的背景與過程，以及佛陀所證悟的正等正覺。 ( `MN 4 怖駭經 概要`_ )
+  * 一、佛陀的正等正覺： 佛陀出家修行(聖求)的背景與過程，以及佛陀所證悟的正等正覺。 ( `MN4 怖駭經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`_ 原典：Bhayabheravasuttaṃ
 
@@ -343,9 +347,11 @@ Mūlapaṇṇāsa 根本五十經篇
 
 ------
 
-.. _MN 5:
+.. _MN5:
 
 - MN 5: Anaṅgaṇa Sutta, 中部5, 無穢經, MN i 24
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN5>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN5>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN5>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Anaṅgaṇasuttaṃ
 
@@ -390,22 +396,22 @@ Mūlapaṇṇāsa 根本五十經篇
 .. list-table:: MN 1 ～ MN 10
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 1`_
-     - `MN 2`_
-     - `MN 3`_
-     - `MN 4`_
-     - `MN 5`_
-     - `MN 6`_
-     - `MN 7`_
-     - `MN 8`_
-     - `MN 9`_
-     - `MN 10`_
+   * - `MN1`_
+     - `MN2`_
+     - `MN3`_
+     - `MN4`_
+     - `MN5`_
+     - `MN6`_
+     - `MN7`_
+     - `MN8`_
+     - `MN9`_
+     - `MN10`_
 
-.. _MN 6:
+.. _MN6:
 
 - MN 6: Ākaṅkheyya Sutta, 中部 6, 願經, 希望經, MN i 33
 
-  * 五、解脫道 ： 4. 持戒功德 ( `MN 6 願經 概要`_ )
+  * 五、解脫道 ： 4. 持戒功德 ( `MN6 願經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Ākaṅkheyyasuttaṃ
 
@@ -433,7 +439,7 @@ Mūlapaṇṇāsa 根本五十經篇
 
     - SBE: `If He Should Desire <http://www.buddhadust.com/dhamma-vinaya/bs/mn.006.rhyt.bs_4.htm>`__ , **T.W. Rhys Davids**, Buddhist Suttas, Volume XI of the Sacred Books of the East, 
 
-      Buddhism in Translations `MN 6: Ākaṇkheyya-sutta. (Excerpt) <http://www.buddhadust.com/dhamma-vinaya/bit/bit-65.htm>`__  **Warren**, trans.
+      Buddhism in Translations `MN6: Ākaṇkheyya-sutta. (Excerpt) <http://www.buddhadust.com/dhamma-vinaya/bit/bit-65.htm>`__  **Warren**, trans.
 
       SBB: `Of Yearnings <http://www.buddhadust.com/dhamma-vinaya/chlm/mn/mn.006.chlm.sbb.htm>`__ , **Chalmers** trans, Vol. I, pg 23
 
@@ -449,11 +455,11 @@ Mūlapaṇṇāsa 根本五十經篇
 
 ------
 
-.. _MN 7:
+.. _MN7:
 
 - MN 7: Vatthūpama [Vattha] Sutta, 中部7, 布喻經, 衣服經, MN i 36
 
-  * 五、解脫道 ： 5. 心清淨 ( `MN 7 布喻經 概要`_ )
+  * 五、解脫道 ： 5. 心清淨 ( `MN7 布喻經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典： Vatthūpamasuttaṃ (Vatthasuttaṃ)
 
@@ -503,11 +509,11 @@ Mūlapaṇṇāsa 根本五十經篇
 
 ------
 
-.. _MN 8:
+.. _MN8:
 
 - MN 8: Sallekha Sutta, 中部8, 削減經, 漸損經, 損損經, MN i 40
 
-  * 五、解脫道 ： 5. 心清淨  ( `MN 8 削減經 概要`_ )
+  * 五、解脫道 ： 5. 心清淨  ( `MN8 削減經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sallekhasuttaṃ
 
@@ -551,11 +557,11 @@ Mūlapaṇṇāsa 根本五十經篇
 
 ------
 
-.. _MN 9:
+.. _MN9:
 
 - MN 9: Sammādiṭṭhi Sutta, 中部9, 正見經, MN i 46
 
-  * 七、正慧的修習 ：1. 正見 ( `MN 9 正見經 概要`_ )
+  * 七、正慧的修習 ：1. 正見 ( `MN9 正見經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sammādiṭṭhisuttaṃ
 
@@ -607,11 +613,11 @@ Mūlapaṇṇāsa 根本五十經篇
 
 ------
 
-.. _MN 10:
+.. _MN10:
 
 - MN 10: Satipaṭṭhāna Sutta, 中部10, 念處經, 念住大經, MN i 55
 
-  * 六、道品 ：2. 念處  ( `MN 10 念處經 概要`_ )
+  * 六、道品 ：2. 念處  ( `MN10 念處經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Satipaṭṭhānasuttaṃ (Mahāsatipaṭṭhānasuttaṃ)
 
@@ -712,22 +718,22 @@ Sīhanādavaggo 獅子吼品
 .. list-table:: MN 11 ～ MN 20
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 11`_
-     - `MN 12`_
-     - `MN 13`_
-     - `MN 14`_
-     - `MN 15`_
-     - `MN 16`_
-     - `MN 17`_
-     - `MN 18`_
-     - `MN 19`_
-     - `MN 20`_
+   * - `MN11`_
+     - `MN12`_
+     - `MN13`_
+     - `MN14`_
+     - `MN15`_
+     - `MN16`_
+     - `MN17`_
+     - `MN18`_
+     - `MN19`_
+     - `MN20`_
 
-.. _MN 11:
+.. _MN11:
 
 - MN 11: Cūḷasīhanāda Sutta, 中部11, 獅子吼小經, 師子吼小經, 小獅吼經, MN i 63 
 
-  * 七、正慧的修習 ：1. 正見 ( `MN 11 獅子吼小經 概要`_ )
+  * 七、正慧的修習 ：1. 正見 ( `MN11 獅子吼小經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷasīhanādasuttaṃ
 
@@ -767,11 +773,11 @@ Sīhanādavaggo 獅子吼品
 
 ------
 
-.. _MN 12:
+.. _MN12:
 
 - MN 12: Mahāsīhanāda Sutta, 中部12, 獅子吼大經, 師子吼大經, 大獅吼經, MN i 68 
 
-  * 一、佛陀的正等正覺 ： 佛陀出家修行(聖求)的背景與過程，以及佛陀所證悟的正等正覺。(部分) ；八、如來 ( `MN 12 獅子吼大經 概要`_ )
+  * 一、佛陀的正等正覺 ： 佛陀出家修行(聖求)的背景與過程，以及佛陀所證悟的正等正覺。(部分) ；八、如來 ( `MN12 獅子吼大經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`_ 原典：Mahāsīhanādasuttaṃ
 
@@ -834,11 +840,11 @@ Sīhanādavaggo 獅子吼品
 
 ------
 
-.. _MN 13:
+.. _MN13:
 
 - MN 13: Mahādukkhakkhandha Sutta, 中部13, 苦蘊大經, 大苦蘊經, MN i 83 
 
-  * 四、正觀世間 ：1. 世間過患  ( `MN 13 苦蘊大經 概要`_ )
+  * 四、正觀世間 ：1. 世間過患  ( `MN13 苦蘊大經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahādukkhakkhandhasuttaṃ
 
@@ -884,9 +890,11 @@ Sīhanādavaggo 獅子吼品
 
 ------
 
-.. _MN 14:
+.. _MN14:
 
 - MN 14: Cūḷadukkhakkhandha Sutta, 中部14, 苦蘊小經, MN i 91 
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN14>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN14>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN14>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷadukkhakkhandhasuttaṃ
 
@@ -924,7 +932,6 @@ Sīhanādavaggo 獅子吼品
 
       MNL: `The Minor Mass of Unpleasantness <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.014.upal.mnl.htm>`__ , Sister Upalavanna, Translated by **Sister Uppalavanna** ( buddhadust.com [9]_ or Mettanet Tipitaka Index [13]_
 
-
   * 日譯(和訳)： `一切漏経 <http://komyojikyozo.web.fc2.com/mnmlp/mn01/mn01c03.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
   * 巴、漢、英文對讀：
@@ -933,9 +940,11 @@ Sīhanādavaggo 獅子吼品
 
 ------
 
-.. _MN 15:
+.. _MN15:
 
 - MN 15: Anumāna Sutta, 中部15, 思量經(推量經, 反思經), MN i 95
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN15>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN15>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN15>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Anumānasuttaṃ
 
@@ -978,20 +987,22 @@ Sīhanādavaggo 獅子吼品
 .. list-table:: MN 11 ～ MN 20
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 11`_
-     - `MN 12`_
-     - `MN 13`_
-     - `MN 14`_
-     - `MN 15`_
-     - `MN 16`_
-     - `MN 17`_
-     - `MN 18`_
-     - `MN 19`_
-     - `MN 20`_
+   * - `MN11`_
+     - `MN12`_
+     - `MN13`_
+     - `MN14`_
+     - `MN15`_
+     - `MN16`_
+     - `MN17`_
+     - `MN18`_
+     - `MN19`_
+     - `MN20`_
 
-.. _MN 16:
+.. _MN16:
 
 - MN 16: Cetokhila Sutta, 中部16, 心荒蕪經, MN i 101
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN16>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN16>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN16>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cetokhilasuttaṃ
 
@@ -1037,9 +1048,11 @@ Sīhanādavaggo 獅子吼品
 
 ------
 
-.. _MN 17:
+.. _MN17:
 
 - MN 17: Vanapattha Sutta, 中部17, 林藪經, MN i 104
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN17>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN17>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN17>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Vanapatthasuttaṃ
 
@@ -1081,9 +1094,11 @@ Sīhanādavaggo 獅子吼品
 
 ------
 
-.. _MN 18:
+.. _MN18:
 
 - MN 18: Madhupiṇḍika Sutta, 中部18, 蜜丸經, MN i 108
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN18>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN18>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN18>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Madhupiṇḍikasuttaṃ
 
@@ -1125,11 +1140,11 @@ Sīhanādavaggo 獅子吼品
 
 ------
 
-.. _MN 19:
+.. _MN19:
 
 - MN 19: Dvedhāvitakka Sutta, 中部19, 雙考察經, 二種尋經, 兩類覺經, 雙思經, 雙想經, MN i 114
 
-  * 五、解脫道 ： 5. 心清淨  ( `MN 19 雙考察經 概要`_ )
+  * 五、解脫道 ： 5. 心清淨  ( `MN19 雙考察經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Dvedhāvitakkasuttaṃ
 
@@ -1175,11 +1190,11 @@ Sīhanādavaggo 獅子吼品
 
 ------
 
-.. _MN 20:
+.. _MN20:
 
 - MN 20: Vitakka­saṇṭhāna Sutta, 中部20, 尋行止息經, 尋之止息經, 覺止息經, 息思經, 想念止息經, MN i 118
 
-  * 五、解脫道 ： 5. 心清淨  ( `MN 20 尋行止息經 概要`_ )
+  * 五、解脫道 ： 5. 心清淨  ( `MN20 尋行止息經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Vitakkasaṇṭhānasuttaṃ
 
@@ -1269,22 +1284,22 @@ Opammavaggo 譬喻法品
 .. list-table:: Opammavaggo 譬喻法品 (MN 21 ～ MN 30)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 21`_
-     - `MN 22`_
-     - `MN 23`_
-     - `MN 24`_
-     - `MN 25`_
-     - `MN 26`_
-     - `MN 27`_
-     - `MN 28`_
-     - `MN 29`_
-     - `MN 30`_
+   * - `MN21`_
+     - `MN22`_
+     - `MN23`_
+     - `MN24`_
+     - `MN25`_
+     - `MN26`_
+     - `MN27`_
+     - `MN28`_
+     - `MN29`_
+     - `MN30`_
 
-.. _MN 21:
+.. _MN21:
 
 - MN 21: Kakacūpama Sutta, 中部21, 鋸喻經, 鋸子譬喻經, M i 122
 
-  * 三、道德生活 ：   4. 正語與安忍 ( `MN 21 鋸喻經 概要`_ )
+  * 三、道德生活 ：   4. 正語與安忍 ( `MN21 鋸喻經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Kakacūpamasuttaṃ
 
@@ -1320,11 +1335,11 @@ Opammavaggo 譬喻法品
 
 -------
 
-.. _MN 22:
+.. _MN22:
 
 - MN 22: Alagaddūpama Sutta, 中部22, 蛇喻經, 蛇譬喻經, M i 130
 
-  * 七、正慧的修習 ：1. 正見 ( `MN 22 蛇譬喻經 概要`_ )
+  * 七、正慧的修習 ：1. 正見 ( `MN22 蛇譬喻經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Alagaddūpamasuttaṃ
 
@@ -1364,9 +1379,11 @@ Opammavaggo 譬喻法品
 
 -------
 
-.. _MN 23:
+.. _MN23:
 
 - MN 23: Vammika Sutta, 中部23, 蟻丘經, 蟻垤經, M i 142
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN23>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN23>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN23>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Vammikasuttaṃ
 
@@ -1406,9 +1423,11 @@ Opammavaggo 譬喻法品
 
 -------
 
-.. _MN 24:
+.. _MN24:
 
 - MN 24: Rathavinīta Sutta, 中部24, 傳車經, 接力車經, M i 145
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN24>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN24>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN24>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Rathavinītasuttaṃ
 
@@ -1444,9 +1463,11 @@ Opammavaggo 譬喻法品
 
 -------
 
-.. _MN 25:
+.. _MN25:
 
 - MN 25: Nivāpa Sutta, 中部25, 餌經, 誘餌經, 撒餌經, M i 151
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN25>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN25>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN25>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Nivāpasuttaṃ
 
@@ -1485,22 +1506,22 @@ Opammavaggo 譬喻法品
 .. list-table:: Opammavaggo 譬喻法品 (MN 21 ～ MN 30)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 21`_
-     - `MN 22`_
-     - `MN 23`_
-     - `MN 24`_
-     - `MN 25`_
-     - `MN 26`_
-     - `MN 27`_
-     - `MN 28`_
-     - `MN 29`_
-     - `MN 30`_
+   * - `MN21`_
+     - `MN22`_
+     - `MN23`_
+     - `MN24`_
+     - `MN25`_
+     - `MN26`_
+     - `MN27`_
+     - `MN28`_
+     - `MN29`_
+     - `MN30`_
 
-.. _MN 26:
+.. _MN26:
  
 - MN 26: Ariyapariyesanā [Pāsarāsi] Sutta, 中部26, 聖求經, 聖遍求經, 尋求聖法經, 陷阱堆經, M i 160
 
-  * 一、佛陀的正等正覺： 佛陀出家修行(聖求)的背景與過程，以及佛陀所證悟的正等正覺。 ( `MN 26 聖求經 概要`_ )
+  * 一、佛陀的正等正覺： 佛陀出家修行(聖求)的背景與過程，以及佛陀所證悟的正等正覺。 ( `MN26 聖求經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`_ 原典：Ariyapariyesanasuttaṃ or Pāsarāsisuttaṃ
 
@@ -1549,11 +1570,11 @@ Opammavaggo 譬喻法品
 
 ------
 
-.. _MN 27:
+.. _MN27:
 
 - MN 27: Cūḷahatthi­padopama Sutta, 中部27, 象跡喻小經, 象足跡譬喻小經, 小象跡喻經, M i 175
 
-  * 五、解脫道 ： 2. 修行次第 ： ( `MN 27 象跡喻小經 概要`_ )
+  * 五、解脫道 ： 2. 修行次第 ： ( `MN27 象跡喻小經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷahatthipadopamasuttaṃ
 
@@ -1591,11 +1612,11 @@ Opammavaggo 譬喻法品
 
 ------
 
-.. _MN 28:
+.. _MN28:
 
 - MN 28: Mahāhatthipadopama Sutta, 中部28, 象跡喻大經, 象足跡譬喻大經, 大象跡喻經, M i 184
 
-  * 七、正慧的修習 ：2. 內觀  ( `MN 28 象跡喻大經 概要`_ )
+  * 七、正慧的修習 ：2. 內觀  ( `MN28 象跡喻大經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāhatthipadopamasuttaṃ
 
@@ -1633,11 +1654,11 @@ Opammavaggo 譬喻法品
 
 ------
 
-.. _MN 29:
+.. _MN29:
 
 - MN 29: Maha Saropama Sutta, 中部29, 心材喻大經, 心材譬喻大經, 大實木喻經, M i 192
 
-  * 五、解脫道 ：1. 修行目的 ( `MN 29 心材喻大經 概要`_ )
+  * 五、解脫道 ：1. 修行目的 ( `MN29 心材喻大經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāsāropamasuttaṃ
 
@@ -1675,9 +1696,11 @@ Opammavaggo 譬喻法品
 
 ------
 
-.. _MN 30:
+.. _MN30:
 
 - MN 30: Cūḷasāropama Sutta, 中部30, 心材喻小經, 心材譬喻小經, 小實木喻經, M i 198
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN30>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN30>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN30>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Alagaddūpamasuttaṃ
 
@@ -1761,22 +1784,22 @@ Mahāyamakavaggo 雙大品
 .. list-table:: Mahāyamakavaggo 雙大品 (MN 31 ～ MN 40)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 31`_
-     - `MN 32`_
-     - `MN 33`_
-     - `MN 34`_
-     - `MN 35`_
-     - `MN 36`_
-     - `MN 37`_
-     - `MN 38`_
-     - `MN 39`_
-     - `MN 40`_
+   * - `MN31`_
+     - `MN32`_
+     - `MN33`_
+     - `MN34`_
+     - `MN35`_
+     - `MN36`_
+     - `MN37`_
+     - `MN38`_
+     - `MN39`_
+     - `MN40`_
 
-.. _MN 31:
+.. _MN31:
 
 - MN 31: Cūḷagosiṅga Sutta, 中部31, 牛角林小經, 牛角小經, 小牛角經, M i 205
 
-  * 九、僧伽生活 ：1. 僧伽的和敬生活 ( `MN 31 牛角林小經 概要`_ )
+  * 九、僧伽生活 ：1. 僧伽的和敬生活 ( `MN31 牛角林小經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷagosiṅgasuttaṃ
 
@@ -1812,11 +1835,11 @@ Mahāyamakavaggo 雙大品
 
 ------
 
-.. _MN 32:
+.. _MN32:
 
 - MN 32: Mahāgosiṅga Sutta, 中部32, 牛角林大經, 牛角大經, 大牛角經, M i 212
 
-  * 九、僧伽生活 ： 2. 理想的僧伽  ( `MN 32 牛角林大經 概要`_ )
+  * 九、僧伽生活 ： 2. 理想的僧伽  ( `MN32 牛角林大經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāgosiṅgasuttaṃ
 
@@ -1852,9 +1875,11 @@ Mahāyamakavaggo 雙大品
 
 ------
 
-.. _MN 33:
+.. _MN33:
 
 - MN 33: Mahāgopālaka Sutta, 中部33, 牧牛者大經, 大牧牛人經, M i 220
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN33>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN33>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN33>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāgopālakasuttaṃ
 
@@ -1900,9 +1925,11 @@ Mahāyamakavaggo 雙大品
 
 ------
 
-.. _MN 34:
+.. _MN34:
 
 - MN 34: Cūḷagopālaka Sutta, 中部31, 牧牛者小經, 小牧牛人經, M i 225
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN34>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN34>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN34>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷagopālakasuttaṃ
 
@@ -1944,9 +1971,11 @@ Mahāyamakavaggo 雙大品
 
 ------
 
-.. _MN 35:
+.. _MN35:
 
 - MN 35: Cūḷasaccaka Sutta, 中部35, 薩遮迦小經, 小薩遮經, M i 227
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN35>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN35>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN35>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷasaccakasuttaṃ
 
@@ -1995,22 +2024,22 @@ Mahāyamakavaggo 雙大品
 .. list-table:: Mahāyamakavaggo 雙大品 (MN 31 ～ MN 40)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 31`_
-     - `MN 32`_
-     - `MN 33`_
-     - `MN 34`_
-     - `MN 35`_
-     - `MN 36`_
-     - `MN 37`_
-     - `MN 38`_
-     - `MN 39`_
-     - `MN 40`_
+   * - `MN31`_
+     - `MN32`_
+     - `MN33`_
+     - `MN34`_
+     - `MN35`_
+     - `MN36`_
+     - `MN37`_
+     - `MN38`_
+     - `MN39`_
+     - `MN40`_
 
-.. _MN 36:
+.. _MN36:
 
 - MN 36: Mahāsaccaka Sutta, 中部36, 薩遮迦大經, 薩迦大經, 大薩遮經, M i 237
 
-  * 一、佛陀的正等正覺： 佛陀出家修行(聖求)的背景與過程，以及佛陀所證悟的正等正覺。(部分) ( `MN 36 薩遮迦大經 概要`_ )
+  * 一、佛陀的正等正覺： 佛陀出家修行(聖求)的背景與過程，以及佛陀所證悟的正等正覺。(部分) ( `MN36 薩遮迦大經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`_ 原典：Mahāsaccakasuttaṃ
 
@@ -2053,9 +2082,11 @@ Mahāyamakavaggo 雙大品
 
 ------
 
-.. _MN 37:
+.. _MN37:
 
 - MN 37: Cūḷataṇhāsaṅkhaya Sutta, 中部37, 愛盡小經, 渴愛的滅盡小經, 小愛盡經,  M i 251
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN37>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN37>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN37>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷataṇhāsaṅkhayasuttaṃ
 
@@ -2095,11 +2126,11 @@ Mahāyamakavaggo 雙大品
 
 ------
 
-.. _MN 38:
+.. _MN38:
 
 - MN 38: Mahātaṇhā­saṅkhaya Sutta, 中部38, 愛盡大經, 渴愛的滅盡大經, 大愛盡經, M i 256
 
-  * 七、正慧的修習 ：1. 正見 ( `MN 38 愛盡大經 概要`_ )
+  * 七、正慧的修習 ：1. 正見 ( `MN38 愛盡大經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahātaṇhāsaṅkhayasuttaṃ
 
@@ -2143,11 +2174,11 @@ Mahāyamakavaggo 雙大品
 
 ------
 
-.. _MN 39:
+.. _MN39:
 
 - MN 39: Mahā-Assapura Sutta, 中部39, 馬邑大經, 馬城大經, 大馬城經, M i 271
 
-  * 五、解脫道 ： 2. 修行次第 ： ( `MN 39 馬邑大經 概要`_ )
+  * 五、解脫道 ： 2. 修行次第 ： ( `MN39 馬邑大經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāassapurasuttaṃ
 
@@ -2189,11 +2220,11 @@ Mahāyamakavaggo 雙大品
 
 ------
 
-.. _MN 40:
+.. _MN40:
 
 - MN 40: Cūḷa-Assapura Sutta, 中部40, 馬邑小經, 馬城小經, 小馬城經, M i 281
 
-  * 五、解脫道 ： 3. 沙門道跡 (如何為比丘) ： ( `MN 40 馬邑小經 概要`_ )
+  * 五、解脫道 ： 3. 沙門道跡 (如何為比丘) ： ( `MN40 馬邑小經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷaassapurasuttaṃ
 
@@ -2279,22 +2310,22 @@ Cūḷayamakavaggo 雙小品
 .. list-table:: Cūḷayamakavaggo 雙小品 (MN 41 ～ MN 50)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 41`_
-     - `MN 42`_
-     - `MN 43`_
-     - `MN 44`_
-     - `MN 45`_
-     - `MN 46`_
-     - `MN 47`_
-     - `MN 48`_
-     - `MN 49`_
-     - `MN 50`_
+   * - `MN41`_
+     - `MN42`_
+     - `MN43`_
+     - `MN44`_
+     - `MN45`_
+     - `MN46`_
+     - `MN47`_
+     - `MN48`_
+     - `MN49`_
+     - `MN50`_
 
-.. _MN 41:
+.. _MN41:
 
 - MN 41: Sāleyyaka Sutta, 中部41, 娑羅經, 娑羅村經, 薩羅村婆羅門經, 沙拉經, M i 285
 
-  * 三、道德生活 ：  3. 得生善趣 ( `MN 41 娑羅村經 概要`_ )
+  * 三、道德生活 ：  3. 得生善趣 ( `MN41 娑羅村經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sāleyyakasuttaṃ
 
@@ -2345,9 +2376,11 @@ Cūḷayamakavaggo 雙小品
 
 ------
 
-.. _MN 42:
+.. _MN42:
 
 - MN 42: Verañjaka sutta, 中部42, 娑羅經, 鞞蘭若村婆羅門經, 威樂若經, M i 290
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN42>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN42>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN42>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Verañjakasuttaṃ
 
@@ -2386,9 +2419,11 @@ Cūḷayamakavaggo 雙小品
 
 ------
 
-.. _MN 43:
+.. _MN43:
 
 - MN 43: Mahāvedalla Sutta, 中部43, 有明大經, 毘陀羅大經, 大廣解經, M i 292
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN43>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN43>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN43>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāvedallasuttaṃ
 
@@ -2432,9 +2467,11 @@ Cūḷayamakavaggo 雙小品
 
 ------
 
-.. _MN 44:
+.. _MN44:
 
 - MN 44: Cūḷavedalla  Sutta, 中部44, 有明小經, 小廣解經, 毘陀羅小經, M i 299
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN44>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN44>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN44>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷavedallasuttaṃ
 
@@ -2478,9 +2515,11 @@ Cūḷayamakavaggo 雙小品
 
 ------
 
-.. _MN 45:
+.. _MN45:
 
 - MN 45: Cūḷadhammasamādāna Sutta, 中部45, 得法小經, 法的受持小經, 小行法經, M i 305
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN45>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN45>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN45>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷadhammasamādānasuttaṃ
 
@@ -2527,22 +2566,22 @@ Cūḷayamakavaggo 雙小品
 .. list-table:: Cūḷayamakavaggo 雙小品 (MN 41 ～ MN 50)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 41`_
-     - `MN 42`_
-     - `MN 43`_
-     - `MN 44`_
-     - `MN 45`_
-     - `MN 46`_
-     - `MN 47`_
-     - `MN 48`_
-     - `MN 49`_
-     - `MN 50`_
+   * - `MN41`_
+     - `MN42`_
+     - `MN43`_
+     - `MN44`_
+     - `MN45`_
+     - `MN46`_
+     - `MN47`_
+     - `MN48`_
+     - `MN49`_
+     - `MN50`_
 
-.. _MN 46:
+.. _MN46:
 
 - MN 46: Mahādhamma­samādāna Sutta, 中部46, 得法大經, 法的受持大經, 大行法經, M i 309
 
-  * 三、道德生活 ：1. 世間四種受報 ：  ( `MN 46 得法大經 概要`_ )
+  * 三、道德生活 ：1. 世間四種受報 ：  ( `MN46 得法大經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahādhammasamādānasuttaṃ
 
@@ -2583,11 +2622,11 @@ Cūḷayamakavaggo 雙小品
 
 ------
 
-.. _MN 47:
+.. _MN47:
 
 - MN 47: Vīmaṃsaka Sutta, 中部47經, 思察經, 審察經, 考察經, 觀察經, M i 317
 
-  * 二、理解正法： 2. 對佛陀的審察： ( `MN 47 思察經 概要`_ )
+  * 二、理解正法： 2. 對佛陀的審察： ( `MN47 思察經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`_ 原典：Vīmaṃsakasuttaṃ
 
@@ -2627,9 +2666,11 @@ Cūḷayamakavaggo 雙小品
 
 ------
 
-.. _MN 48:
+.. _MN48:
 
 - MN 48: Kosambiya Sutta, 中部48, 憍賞彌經, 拘睒彌經, M i 320
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN48>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN48>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN48>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Kosambiyasuttaṃ
 
@@ -2669,9 +2710,11 @@ Cūḷayamakavaggo 雙小品
 
 ------
 
-.. _MN 49:
+.. _MN49:
 
 - MN 49: Brahmanimantanika Sutta, 中部41, 梵天請經, 梵天的邀請經, 326
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN49>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN49>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN49>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Brahmanimantanikasuttaṃ
 
@@ -2713,9 +2756,11 @@ Cūḷayamakavaggo 雙小品
 
 ------
 
-.. _MN 50:
+.. _MN50:
 
 - MN 50: Māratajjaniya Sutta, 中部50, 呵魔經, 魔羅受斥經, 魔訶責經, 應該被呵責的魔經, M i 332
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN50>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN50>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ） 、 `Ⅲ <{filename}majjhima-nikaya-summary-ci-fong%zh.rst#MN50>`__ **芝峯** 譯(華宇) [7]_
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Māratajjaniyasuttaṃ
 
@@ -2799,20 +2844,22 @@ Gahapativaggo 居士品
 .. list-table:: Gahapativaggo 居士品 (MN 51 ～ MN 60)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 51`_
-     - `MN 52`_
-     - `MN 53`_
-     - `MN 54`_
-     - `MN 55`_
-     - `MN 56`_
-     - `MN 57`_
-     - `MN 58`_
-     - `MN 59`_
-     - `MN 60`_
+   * - `MN51`_
+     - `MN52`_
+     - `MN53`_
+     - `MN54`_
+     - `MN55`_
+     - `MN56`_
+     - `MN57`_
+     - `MN58`_
+     - `MN59`_
+     - `MN60`_
 
-.. _MN 51:
+.. _MN51:
 
 - MN 51: Kandaraka Sutta, 中部51, 乾達羅迦經, 緊達羅迦經, 耿達勒葛經, M i 339
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN51>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN51>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Kandarakasuttaṃ
 
@@ -2848,11 +2895,11 @@ Gahapativaggo 居士品
 
 ------
 
-.. _MN 52:
+.. _MN52:
 
 - MN 52: Aṭṭhakanāgara Sutta, 中部52, 八城經, 八城人經, M i 349
 
-  * 七、正慧的修習 ： 4. 究竟解脫 ( `MN 52 八城經 概要`_ )
+  * 七、正慧的修習 ： 4. 究竟解脫 ( `MN52 八城經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Aṭṭhakanāgarasuttaṃ
 
@@ -2898,9 +2945,11 @@ Gahapativaggo 居士品
 
 ------
 
-.. _MN 53:
+.. _MN53:
 
 - MN 53: Sekha Sutta, 中部53, 有學經, 學人經, M i 353
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN53>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN53>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sekhasuttaṃ
 
@@ -2940,11 +2989,11 @@ Gahapativaggo 居士品
 
 ------
 
-.. _MN 54:
+.. _MN54:
 
 - MN 54: Potaliya Sutta, 中部54, 哺多利經, 頗多利耶經, 迫得利亞經, M i 359
 
-  * 四、正觀世間 ： 2. 欲樂過患  ( `MN 54 哺多利經 概要`_ )
+  * 四、正觀世間 ： 2. 欲樂過患  ( `MN54 哺多利經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Potaliyasuttaṃ
 
@@ -2988,22 +3037,24 @@ Gahapativaggo 居士品
 
 ------
 
-.. _MN 55:
+.. _MN55:
 
 - MN 55: Jīvaka Sutta, 中部55, 耆婆經, 耆婆迦經, M i 368
 
-  ◎ 本經乃述耆婆迦問食肉事，世尊對此回答，比丘若為自己所備，以見、聞、思之肉不得 受。又比丘于食不得貪著。
+  * ◎ 本經乃述耆婆迦問食肉事，世尊對此回答，比丘若為自己所備，以見、聞、思之肉不得受。又比丘于食不得貪著。
 
-  ◎ 世尊不允許食用三種肉：見、聞、疑(為己殺)；而允許食用三種肉：不見、不聞、不疑(為己殺)的肉 -- p.369. (p.113.)
+    ◎ 世尊不允許食用三種肉：見、聞、疑(為己殺)；而允許食用三種肉：不見、不聞、不疑(為己殺)的肉 -- p.369. (p.113.)
 
 
-  ◎ 任何人如果刻意殺生來供養如來或如來的弟子，會有帶來很多非福行的五種成因：
+    ◎ 任何人如果刻意殺生來供養如來或如來的弟子，會有帶來很多非福行的五種成因：
 
-     * 1.在說－你們去把該生物牽來；
-     * 2.當該生物被繫首牽來而感受苦痛、憂傷時；
-     * 3.在他命令：你們去把該生物殺死；
-     * 4.當該生物正遭殺害而受苦痛、憂傷時；
-     * 5.當他對如來或如來弟子具有不淨嬈害心時 -- p.371. (p.116.)
+    * 1.在說－你們去把該生物牽來；
+    * 2.當該生物被繫首牽來而感受苦痛、憂傷時；
+    * 3.在他命令：你們去把該生物殺死；
+    * 4.當該生物正遭殺害而受苦痛、憂傷時；
+    * 5.當他對如來或如來弟子具有不淨嬈害心時 -- p.371. (p.116.)
+
+    ◎ 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN55>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN55>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Jīvakasuttaṃ
 
@@ -3042,20 +3093,22 @@ Gahapativaggo 居士品
 .. list-table:: Gahapativaggo 居士品 (MN 51 ～ MN 60)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 51`_
-     - `MN 52`_
-     - `MN 53`_
-     - `MN 54`_
-     - `MN 55`_
-     - `MN 56`_
-     - `MN 57`_
-     - `MN 58`_
-     - `MN 59`_
-     - `MN 60`_
+   * - `MN51`_
+     - `MN52`_
+     - `MN53`_
+     - `MN54`_
+     - `MN55`_
+     - `MN56`_
+     - `MN57`_
+     - `MN58`_
+     - `MN59`_
+     - `MN60`_
 
-.. _MN 56:
+.. _MN56:
 
 - MN 56: Upāli Sutta, 中部56, 優婆離經, 優波離經, M i 371
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN56>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN56>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Upālisuttaṃ
 
@@ -3091,11 +3144,11 @@ Gahapativaggo 居士品
 
 ------
 
-.. _MN 57:
+.. _MN57:
 
 - MN 57: Kukkuravatika Sutta, 中部57, 狗行者經, 狗戒經, 守狗戒者經, M i 387
 
-  * 三、道德生活 ： 2. 業果 ：  ( `MN 57 狗行者經 概要`_ )
+  * 三、道德生活 ： 2. 業果 ：  ( `MN57 狗行者經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Kukkuravatikasuttaṃ (Kukkuravatiya suttaṃ)
 
@@ -3147,9 +3200,11 @@ Gahapativaggo 居士品
 
 ------
 
-.. _MN 58:
+.. _MN58:
 
 - MN 58: Abhayarājakumāra Sutta, 中部58, 無畏王子經, M i 392
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN58>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN58>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Abhayarājakumārasuttaṃ
 
@@ -3187,9 +3242,11 @@ Gahapativaggo 居士品
 
     - `Details for MN 58 Abhayarājakumāra <https://suttacentral.net/mn58>`__ ( `SuttaCentral <https://suttacentral.net/>`__ [14]_ )
 
-.. _MN 59:
+.. _MN59:
 
 - MN 59: Bahuvedanīya Sutta, 中部59, 多種受經, 多受經, M i 396
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN59>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN59>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bahuvedanīyasuttaṃ
 
@@ -3229,11 +3286,11 @@ Gahapativaggo 居士品
 
 ------
 
-.. _MN 60:
+.. _MN60:
 
 - MN 60: Apaṇṇaka Sutta, 中部60經, 無疑經, 無諍經, 無戲論經, 無缺點經, M i 400
 
-  * 二、理解正法 ：1. 智慧的選擇 ( `MN 60 無疑經 概要`_ )
+  * 二、理解正法 ：1. 智慧的選擇 ( `MN60 無疑經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`_ 原典：Apaṇṇakasuttaṃ
 
@@ -3327,22 +3384,22 @@ Bhikkhuvaggo 比丘品
 .. list-table:: Bhikkhuvaggo 比丘品 (MN 61 ～ MN 70)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 61`_
-     - `MN 62`_
-     - `MN 63`_
-     - `MN 64`_
-     - `MN 65`_
-     - `MN 66`_
-     - `MN 67`_
-     - `MN 68`_
-     - `MN 69`_
-     - `MN 70`_
+   * - `MN61`_
+     - `MN62`_
+     - `MN63`_
+     - `MN64`_
+     - `MN65`_
+     - `MN66`_
+     - `MN67`_
+     - `MN68`_
+     - `MN69`_
+     - `MN70`_
 
-.. _MN 61:
+.. _MN61:
 
 - MN 61: Ambalaṭṭhikārāhulovāda Sutta, 中部61, 教誡羅睺羅經, 菴婆蘖林教誡羅睺羅經, 芒果林教化羅睺邏經, 芒果樹苖圃教誡羅侯羅經, M i 414
 
-  * 三、道德生活 ：   4. 正語與安忍 ( `MN 61 教誡羅睺羅經 概要`_ )
+  * 三、道德生活 ：   4. 正語與安忍 ( `MN61 教誡羅睺羅經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Ambalaṭṭhikarāhulovādasuttaṃ
 
@@ -3384,9 +3441,11 @@ Bhikkhuvaggo 比丘品
 
 ------
 
-.. _MN 62:
+.. _MN62:
 
 - MN 62: Mahārāhulovāda Sutta, 中部62, 教誡羅侯羅大經, M i 420
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN62>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN62>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahārāhulovādasuttaṃ
 
@@ -3424,11 +3483,11 @@ Bhikkhuvaggo 比丘品
 
 -------
 
-.. _MN 63:
+.. _MN63:
 
 - MN 63: Cūḷamāluṅkya (Cūḷamālukya) Sutta, 中部63, 摩羅迦小經, 小摩倫迦經, 瑪魯迦小經, M i 426
 
-  * 五、解脫道 ：1. 修行目的 ( `MN 63 摩羅迦小經 概要`_ )
+  * 五、解脫道 ：1. 修行目的 ( `MN63 摩羅迦小經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典： Cūḷamālukyasuttaṃ (Cūḷamāluṅkya suttaṃ)
 
@@ -3479,11 +3538,11 @@ Bhikkhuvaggo 比丘品
 
 -------
 
-.. _MN 64:
+.. _MN64:
 
 - MN 64: Mahāmāluṅkya [Mahāmālukya] Sutta, 中部64, 摩羅迦大經, 大摩倫迦經, 瑪魯迦大經, M i 432
 
-  * 七、正慧的修習 ： 4. 究竟解脫 ( `MN 64 摩羅迦大經 概要`_ )
+  * 七、正慧的修習 ： 4. 究竟解脫 ( `MN64 摩羅迦大經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāmālukyasuttaṃ (Mahāmāluṅkyasuttaṃ)
 
@@ -3525,11 +3584,11 @@ Bhikkhuvaggo 比丘品
 
 -------
 
-.. _MN 65:
+.. _MN65:
 
 - MN 65: Bhaddāli Sutta, 中部65, 跋陀利經, 跋陀離經, 跋大哩經, M i 437
 
-  * 九、僧伽生活 ： 3. 不馴的僧侶 ( `MN 65 跋陀利經 概要`_ )
+  * 九、僧伽生活 ： 3. 不馴的僧侶 ( `MN65 跋陀利經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bhaddālisuttaṃ
 
@@ -3572,22 +3631,22 @@ Bhikkhuvaggo 比丘品
 .. list-table:: Bhikkhuvaggo 比丘品 (MN 61 ～ MN 70)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 61`_
-     - `MN 62`_
-     - `MN 63`_
-     - `MN 64`_
-     - `MN 65`_
-     - `MN 66`_
-     - `MN 67`_
-     - `MN 68`_
-     - `MN 69`_
-     - `MN 70`_
+   * - `MN61`_
+     - `MN62`_
+     - `MN63`_
+     - `MN64`_
+     - `MN65`_
+     - `MN66`_
+     - `MN67`_
+     - `MN68`_
+     - `MN69`_
+     - `MN70`_
 
-.. _MN 66:
+.. _MN66:
 
 - MN 66: Laṭukikopama Sutta, 中部66, 鶉喻經, 鵪鶉喻經, 鵪鶉譬喻經, M i 447
 
-  * 七、正慧的修習 ： 3. 捨斷繫著   ( `MN 66 鶉喻經 概要`_ )
+  * 七、正慧的修習 ： 3. 捨斷繫著   ( `MN66 鶉喻經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Laṭukikopamasuttaṃ
 
@@ -3627,9 +3686,11 @@ Bhikkhuvaggo 比丘品
 
 ------
 
-.. _MN 67:
+.. _MN67:
 
 - MN 67: Cātuma Sutta, 中部67, 遮堵瑪經, 遮偷摩經, 車頭聚落經, M i 456
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN67>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN67>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cātumasuttaṃ
 
@@ -3663,9 +3724,11 @@ Bhikkhuvaggo 比丘品
 
     - `Details for MN 67 Cātumā <https://suttacentral.net/mn67>`__ ( `SuttaCentral <https://suttacentral.net/>`__ [14]_ )
 
-.. _MN 68:
+.. _MN68:
 
 - MN 68: Naḷakapāna Sutta, 中部68, 那勒葛波那經, 那羅伽波寧村經, 那邏迦波那經, M i 462
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN68>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN68>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Naḷakapānasuttaṃ
 
@@ -3699,9 +3762,11 @@ Bhikkhuvaggo 比丘品
 
     - `Details for MN 68 Naḷakapāna <https://suttacentral.net/mn68>`__ ( `SuttaCentral <https://suttacentral.net/>`__ [14]_ )
 
-.. _MN 69:
+.. _MN69:
 
 - MN 69: Gulissāni Sutta (Goliyāni Sutta), 中部69, 瞿尼師經, 枸哩亞尼經, M i 469
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN69>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN69>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Gulissānisuttaṃ (Goliyānisuttaṃ) 
 
@@ -3737,11 +3802,11 @@ Bhikkhuvaggo 比丘品
 
 ------
 
-.. _MN 70:
+.. _MN70:
 
 - MN 70: Kīṭāgiri Sutta, 中部70, 枳吒山邑經, 基多山經, 記大其哩經, M i 473
 
-  * 七、正慧的修習 ： 5. 聖弟子的類型 ( `MN 70 枳吒山邑經 概要`_ )
+  * 七、正慧的修習 ： 5. 聖弟子的類型 ( `MN70 枳吒山邑經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Kīṭāgirisuttaṃ
 
@@ -3832,20 +3897,22 @@ Paribbājakavaggo 普行者品
 .. list-table:: Paribbājakavaggo 普行者品 (MN 71 ～ MN 80)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 71`_
-     - `MN 72`_
-     - `MN 73`_
-     - `MN 74`_
-     - `MN 75`_
-     - `MN 76`_
-     - `MN 77`_
-     - `MN 78`_
-     - `MN 79`_
-     - `MN 80`_
+   * - `MN71`_
+     - `MN72`_
+     - `MN73`_
+     - `MN74`_
+     - `MN75`_
+     - `MN76`_
+     - `MN77`_
+     - `MN78`_
+     - `MN79`_
+     - `MN80`_
 
-.. _MN 71:
+.. _MN71:
 
 - MN 71: Tevijjavacchagotta (Tevijjavaccha) Sutta, 中部71, 三明與婆蹉經, 三明婆蹉種經, 婆蹉衢多三明經, M i 481
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN71>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN71>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Tevijjavacchagotta (Tevijjavaccha)
 
@@ -3880,9 +3947,11 @@ Paribbājakavaggo 普行者品
 
 ------
 
-.. _MN 72:
+.. _MN72:
 
 - MN 72: Aggivacchagotta (Aggivaccha) Sutta, 中部72, 火婆蹉種經, 婆蹉火經, 婆蹉衢多火〔喻〕經, M i 483
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN72>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN72>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Aggivacchagotta suttaṃ (Aggivacchasuttaṃ)
 
@@ -3920,9 +3989,11 @@ Paribbājakavaggo 普行者品
 
 ------
 
-.. _MN 73:
+.. _MN73:
 
 - MN 73: Mahāvacchagotta (Mahāvaccha) Sutta, 中部75, 婆蹉大經, 大婆蹉種經, 婆蹉衢多大經, M i 489
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN73>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN73>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāvacchagottasuttaṃ (Mahāvacchasuttaṃ)
 
@@ -3956,9 +4027,11 @@ Paribbājakavaggo 普行者品
 
 ------
 
-.. _MN 74:
+.. _MN74:
 
 - MN 74: Dīghanakha Sutta, 中部74, 長爪經, 長甲經, M i 497
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN74>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN74>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Dīghanakhasuttaṃ
 
@@ -3994,11 +4067,11 @@ Paribbājakavaggo 普行者品
 
 ------
 
-.. _MN 75:
+.. _MN75:
 
 - MN 75: Māgandiya Sutta, 中部75, 摩犍提經, 摩緊提耶經, 馬更地亞經, M i 501
 
-  * 四、正觀世間 ： 2. 欲樂過患  ( `MN 75 摩犍提經 概要`_ )
+  * 四、正觀世間 ： 2. 欲樂過患  ( `MN75 摩犍提經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Māgaṇḍiyasuttaṃ
 
@@ -4049,20 +4122,22 @@ Paribbājakavaggo 普行者品
 .. list-table:: Paribbājakavaggo 普行者品 (MN 71 ～ MN 80)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 71`_
-     - `MN 72`_
-     - `MN 73`_
-     - `MN 74`_
-     - `MN 75`_
-     - `MN 76`_
-     - `MN 77`_
-     - `MN 78`_
-     - `MN 79`_
-     - `MN 80`_
+   * - `MN71`_
+     - `MN72`_
+     - `MN73`_
+     - `MN74`_
+     - `MN75`_
+     - `MN76`_
+     - `MN77`_
+     - `MN78`_
+     - `MN79`_
+     - `MN80`_
 
-.. _MN 76:
+.. _MN76:
 
-- MN 76: Sandaka Sutta, 中部76, 經, M i 513
+- MN 76: Sandaka Sutta, 中部76, 刪陀迦經, 散達葛經, 散陀迦經, M i 513
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN76>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN76>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sandakasuttaṃ
 
@@ -4098,11 +4173,11 @@ Paribbājakavaggo 普行者品
 
 ------
 
-.. _MN 77:
+.. _MN77:
 
 - MN 77: Mahāsakuludāyi Sutta, 中部77, 善生優陀夷大經, 大沙俱邏．優陀夷經, 色古巫大夷大經, M ii 1
 
-  * 六、道品 ： 4. 證悟的助緣 ( `MN 77 善生優陀夷大經 概要`_ )
+  * 六、道品 ： 4. 證悟的助緣 ( `MN77 善生優陀夷大經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāsakuludāyisuttaṃ
 
@@ -4142,9 +4217,11 @@ Paribbājakavaggo 普行者品
 
 ------
 
-.. _MN 78:
+.. _MN78:
 
 - MN 78: Samaṇamaṇḍikā Sutta, 中部78, 沙門木地葛經, 沙門文祁子經, 須摩滿提經, M ii 22
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN78>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN78>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Samaṇamaṇḍikā suttaṃ (Samaṇamuṇḍikasuttaṃ)
 
@@ -4180,9 +4257,11 @@ Paribbājakavaggo 普行者品
 
 ------
 
-.. _MN 79:
+.. _MN79:
 
 - MN 79: Cūḷasakuludāyi Sutta, 中部79, 善生優陀夷小經, 小沙俱邏．優陀夷經, 色古巫大夷小經, M ii 29
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN79>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN79>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷasakuludāyisuttaṃ
 
@@ -4216,9 +4295,11 @@ Paribbājakavaggo 普行者品
 
 ------
 
-.. _MN 80:
+.. _MN80:
 
 - MN 80: Vekhanassa Sutta, Vekhanasa Sutta, 中部80, 鞞摩那修經, 韋迦那經, 偉柯那色經, M ii 40
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN80>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN80>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Vekhanasasuttaṃ (Vekhanassasuttaṃ)
 
@@ -4297,20 +4378,22 @@ Rājavaggo 王品
 .. list-table:: Rājavaggo 王品 (MN 81 ～ MN 90)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 81`_
-     - `MN 82`_
-     - `MN 83`_
-     - `MN 84`_
-     - `MN 85`_
-     - `MN 86`_
-     - `MN 87`_
-     - `MN 88`_
-     - `MN 89`_
-     - `MN 90`_
+   * - `MN81`_
+     - `MN82`_
+     - `MN83`_
+     - `MN84`_
+     - `MN85`_
+     - `MN86`_
+     - `MN87`_
+     - `MN88`_
+     - `MN89`_
+     - `MN90`_
 
-.. _MN 81:
+.. _MN81:
 
 - MN 81: Ghaṭīkāra Sutta, Ghaṭikārasuttaṃ, 中部81, 陶師經, 額低葛勒經, 伽提迦羅經, M ii 45
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN81>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN81>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Ghaṭikārasuttaṃ (Ghaṭīkārasuttaṃ)
 
@@ -4344,11 +4427,11 @@ Rājavaggo 王品
 
 ------
 
-.. _MN 82:
+.. _MN82:
 
 - MN 82: Raṭṭhapāla Sutta, 中部82, 護國經, 賴吒和羅經, 賴吒惒羅經, M ii 54 
 
-  * 四、正觀世間 ： 4. 賴吒和羅與尋求解脫 ( `MN 82 賴吒惒羅經 概要`_ )
+  * 四、正觀世間 ： 4. 賴吒和羅與尋求解脫 ( `MN82 賴吒惒羅經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Raṭṭhapālasuttaṃ
 
@@ -4392,9 +4475,11 @@ Rājavaggo 王品
 
 ------
 
-.. _MN 83:
+.. _MN83:
 
 - MN 83: Makhādeva Sutta, Maghadeva Sutta, 中部83, 大天㮈林經, 大天[木*奈]林經, 大天王經, 麻額提婆經, M ii 74
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN83>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN83>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Maghadevasuttaṃ (Makhādevasuttaṃ)
 
@@ -4428,9 +4513,11 @@ Rājavaggo 王品
 
 ------
 
-.. _MN 84:
+.. _MN84:
 
 - MN 84: Madhura Sutta, 中部84, 摩偷羅經, M ii 83
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN84>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN84>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Madhurasuttaṃ
 
@@ -4466,9 +4553,11 @@ Rājavaggo 王品
 
 ------
 
-.. _MN 85:
+.. _MN85:
 
 - MN 85: Bodhirājakumāra Sutta, 中部85, 菩提王子經, M ii 91
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN85>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN85>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bodhirājakumārasuttaṃ
 
@@ -4505,20 +4594,22 @@ Rājavaggo 王品
 .. list-table:: Rājavaggo 王品 (MN 81 ～ MN 90)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 81`_
-     - `MN 82`_
-     - `MN 83`_
-     - `MN 84`_
-     - `MN 85`_
-     - `MN 86`_
-     - `MN 87`_
-     - `MN 88`_
-     - `MN 89`_
-     - `MN 90`_
+   * - `MN81`_
+     - `MN82`_
+     - `MN83`_
+     - `MN84`_
+     - `MN85`_
+     - `MN86`_
+     - `MN87`_
+     - `MN88`_
+     - `MN89`_
+     - `MN90`_
 
-.. _MN 86:
+.. _MN86:
 
 - MN 86: Raṭṭhapāla Sutta, 中部86, 鴦掘摩羅經, 鴦掘摩經, M ii 97
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN86>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN86>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Raṭṭhapālasuttaṃ
 
@@ -4560,9 +4651,11 @@ Rājavaggo 王品
 
 ------
 
-.. _MN 87:
+.. _MN87:
 
 - MN 87: Piyajātika Sutta, 中部87, 愛生經, 鍾愛生經, 從可愛者所生經, M ii 106
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN87>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN87>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Piyajātikasuttaṃ
 
@@ -4598,9 +4691,11 @@ Rājavaggo 王品
 
 ------
 
-.. _MN 88:
+.. _MN88:
 
 - MN 88: Bāhitika Sutta, 中部88, 斗蓬經, 鞞訶提經, M ii 112
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN88>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN88>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bāhitikasuttaṃ
 
@@ -4634,9 +4729,11 @@ Rājavaggo 王品
 
 ------
 
-.. _MN 89:
+.. _MN89:
 
 - MN 89: Dhammacetiya Sutta, 中部89, 法莊嚴經, 法廟經, 法的塔廟經, M ii 118
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN89>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN89>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Dhammacetiyasuttaṃ
 
@@ -4670,9 +4767,11 @@ Rājavaggo 王品
 
 ------
 
-.. _MN 90:
+.. _MN90:
 
 - MN 90: Kaṇṇakatthala Sutta, 中部90, 普棘刺林經, 葛那葛得勒經, 緊那迦陀邏經, M ii 125
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN90>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN90>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Kaṇṇakatthalasuttaṃ
 
@@ -4757,20 +4856,22 @@ Brāhmaṇavaggo 婆羅門品
 .. list-table:: Brāhmaṇavaggo 婆羅門品 (MN 91 ～ MN 100)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 91`_
-     - `MN 92`_
-     - `MN 93`_
-     - `MN 94`_
-     - `MN 95`_
-     - `MN 96`_
-     - `MN 97`_
-     - `MN 98`_
-     - `MN 99`_
-     - `MN 100`_
+   * - `MN91`_
+     - `MN92`_
+     - `MN93`_
+     - `MN94`_
+     - `MN95`_
+     - `MN96`_
+     - `MN97`_
+     - `MN98`_
+     - `MN99`_
+     - `MN100`_
 
-.. _MN 91:
+.. _MN91:
 
 - MN 91: Brahmāyu Sutta, 中部91, 梵壽經, 梵摩經, M ii 133
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN91>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN91>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Brahmāyusuttaṃ
 
@@ -4804,9 +4905,11 @@ Brāhmaṇavaggo 婆羅門品
 
 ------
 
-.. _MN 92:
+.. _MN92:
 
 - MN 92: Sela Sutta, 中部92, 謝勒經, 舍羅經, 施羅經, M ii 146
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN92>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN92>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Selasuttaṃ
 
@@ -4840,9 +4943,11 @@ Brāhmaṇavaggo 婆羅門品
 
 ------
 
-.. _MN 93:
+.. _MN93:
 
 - MN 93: Assalāyana Sutta, 中部93, 阿攝羅耶那, 阿攝拉亞那經, 阿娑邏經, 阿攝惒經, M ii 147
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN93>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN93>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Assalāyanasuttaṃ
 
@@ -4878,9 +4983,11 @@ Brāhmaṇavaggo 婆羅門品
 
 ------
 
-.. _MN 94:
+.. _MN94:
 
 - MN 94: Ghoṭamukha Sutta, 中部94, 瞿哆牟伽經, 瞿多目迦經, 苟德木柯經, M ii 157
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN94>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN94>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Ghoṭamukhasuttaṃ
 
@@ -4914,11 +5021,11 @@ Brāhmaṇavaggo 婆羅門品
 
 ------
 
-.. _MN 95:
+.. _MN95:
 
 - MN 95: Caṅkī Sutta, 中部95經, 商伽經, 闡基經, 鄭計經, M ii 164
 
-  * 二、理解正法： 3. 正信修行與證果 (正信，修行與證果)  ( `MN 95 闡基經 概要`_ )
+  * 二、理解正法： 3. 正信修行與證果 (正信，修行與證果)  ( `MN95 闡基經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Caṅkīsuttaṃ
 
@@ -4971,20 +5078,22 @@ Brāhmaṇavaggo 婆羅門品
 .. list-table:: Brāhmaṇavaggo 婆羅門品 (MN 91 ～ MN 100)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 91`_
-     - `MN 92`_
-     - `MN 93`_
-     - `MN 94`_
-     - `MN 95`_
-     - `MN 96`_
-     - `MN 97`_
-     - `MN 98`_
-     - `MN 99`_
-     - `MN 100`_
+   * - `MN91`_
+     - `MN92`_
+     - `MN93`_
+     - `MN94`_
+     - `MN95`_
+     - `MN96`_
+     - `MN97`_
+     - `MN98`_
+     - `MN99`_
+     - `MN100`_
 
-.. _MN 96:
+.. _MN96:
 
 - MN 96: Esukārī Sutta, Phasukārī Sutta, 中部96, 鬱瘦歌邏經, 伊須迦利經, 耶蘇葛力經, M ii 177
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN96>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN96>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Esukārīsuttaṃ (Phasukārīsuttaṃ)
 
@@ -5018,9 +5127,11 @@ Brāhmaṇavaggo 婆羅門品
 
 ------
 
-.. _MN 97:
+.. _MN97:
 
 - MN 97: Dhanañjāni Sutta, 中部97, 陀然經, 達那若尼經, M ii 184
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN97>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN97>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Dhanañjānisuttaṃ
 
@@ -5056,9 +5167,11 @@ Brāhmaṇavaggo 婆羅門品
 
 ------
 
-.. _MN 98:
+.. _MN98:
 
 - MN 98: Vāseṭṭha Sutta, 中部98, 婆私吒經, 婆舍多經, 襪謝德經, M ii 196
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN98>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN98>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Vāseṭṭhasuttaṃ
 
@@ -5092,9 +5205,11 @@ Brāhmaṇavaggo 婆羅門品
 
 ------
 
-.. _MN 99:
+.. _MN99:
 
 - MN 99: Subha Sutta, 中部99, 須婆經, 須跋經, 蘇玻經, M ii 197
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN99>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN99>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Subhasuttaṃ
 
@@ -5130,9 +5245,11 @@ Brāhmaṇavaggo 婆羅門品
 
 ------
 
-.. _MN 100:
+.. _MN100:
 
 - MN 100: Saṅgārava Sutta, 中部100, 傷歌邏經, 僧伽羅婆經, M ii 209
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN100>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN100>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Saṅgāravasuttaṃ
 
@@ -5212,20 +5329,22 @@ Devadahavaggo 天臂品
 .. list-table:: Devadahavaggo 天臂品 (MN 101 ～ MN 110)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 101`_
-     - `MN 102`_
-     - `MN 103`_
-     - `MN 104`_
-     - `MN 105`_
-     - `MN 106`_
-     - `MN 107`_
-     - `MN 108`_
-     - `MN 109`_
-     - `MN 110`_
+   * - `MN101`_
+     - `MN102`_
+     - `MN103`_
+     - `MN104`_
+     - `MN105`_
+     - `MN106`_
+     - `MN107`_
+     - `MN108`_
+     - `MN109`_
+     - `MN110`_
 
-.. _MN 101:
+.. _MN101:
 
 - MN 101: Devadaha Sutta, 中部101, 天湖經, 天臂經, M ii 214
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN101>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN101>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Devadahasuttaṃ
 
@@ -5265,9 +5384,11 @@ Devadahavaggo 天臂品
 
 ------
 
-.. _MN 102:
+.. _MN102:
 
 - MN 102: Pañcattaya Sutta, Pañcāyatana Sutta, 中部102, 五三經, 五與三經, M ii 228
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN102>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN102>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Pañcattayasuttaṃ (pañcāyatanasutta)
 
@@ -5301,9 +5422,11 @@ Devadahavaggo 天臂品
 
 ------
 
-.. _MN 103:
+.. _MN103:
 
 - MN 103: Kinti Sutta, 中部103, 如何經, 認為經, M ii 238
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN103>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN103>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Kintisuttaṃ
 
@@ -5339,11 +5462,11 @@ Devadahavaggo 天臂品
 
 ------
 
-.. _MN 104:
+.. _MN104:
 
 - MN 104: Sāmagāma Sutta, 中部104, 舍彌村經, 沙麼村經, 沙摩村經, M ii 243
 
-  * 九、僧伽生活 ： 4. 未來和諧的準則 ( `MN 104 舍彌村經 概要`_ )
+  * 九、僧伽生活 ： 4. 未來和諧的準則 ( `MN104 舍彌村經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sāmagāmasuttaṃ
 
@@ -5383,9 +5506,11 @@ Devadahavaggo 天臂品
 
 ------
 
-.. _MN 105:
+.. _MN105:
 
 - MN 105: Sunakkhatta Sutta, 中部105, 舍彌村經, M ii 252
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN105>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN105>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sunakkhattasuttaṃ
 
@@ -5424,20 +5549,22 @@ Devadahavaggo 天臂品
 .. list-table:: Devadahavaggo 天臂品 (MN 101 ～ MN 110)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 101`_
-     - `MN 102`_
-     - `MN 103`_
-     - `MN 104`_
-     - `MN 105`_
-     - `MN 106`_
-     - `MN 107`_
-     - `MN 108`_
-     - `MN 109`_
-     - `MN 110`_
+   * - `MN101`_
+     - `MN102`_
+     - `MN103`_
+     - `MN104`_
+     - `MN105`_
+     - `MN106`_
+     - `MN107`_
+     - `MN108`_
+     - `MN109`_
+     - `MN110`_
 
-.. _MN 106:
+.. _MN106:
 
 - MN 106: Āneñjasappāya Sutta, 中部106, 不動利益經, 隨應於不動經, 助益不動搖經, M ii 261
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN106>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN106>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Āneñjasappāyasuttaṃ
 
@@ -5473,9 +5600,11 @@ Devadahavaggo 天臂品
 
 ------
 
-.. _MN 107:
+.. _MN107:
 
 - MN 107: Gaṇakamoggallāna Sutta, 中部107, 舍彌村經, M iii 1
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN107>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN107>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Gaṇakamoggallānasuttaṃ
 
@@ -5509,11 +5638,11 @@ Devadahavaggo 天臂品
 
 ------
 
-.. _MN 108:
+.. _MN108:
 
 - MN 108: Gopakamoggallāna Sutta, 中部108, 瞿默目犍連經, 守護者目犍連經, 防衛大臣目犍連經, M iii 7
 
-  * 九、僧伽生活 ： 5. 世尊涅槃之後 ( `MN 108 瞿默目犍連經 概要`_ )
+  * 九、僧伽生活 ： 5. 世尊涅槃之後 ( `MN108 瞿默目犍連經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Gopakamoggallānasuttaṃ
 
@@ -5557,9 +5686,11 @@ Devadahavaggo 天臂品
 
 ------
 
-.. _MN 109:
+.. _MN109:
 
 - MN 109: Mahāpuṇṇama Sutta, 中部109, 滿月大經, 大月圓經, M iii 15
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN109>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN109>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāpuṇṇamasuttaṃ
 
@@ -5595,9 +5726,11 @@ Devadahavaggo 天臂品
 
 ------
 
-.. _MN 110:
+.. _MN110:
 
 - MN 110: Cūḷapuṇṇama Sutta, 中部110, 舍彌村經, M iii 20
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN110>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN110>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷapuṇṇamasuttaṃ
 
@@ -5680,20 +5813,22 @@ Anupadavaggo 不斷品
 .. list-table:: Anupadavaggo 不斷品 (MN 111 ～ MN 120)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 111`_
-     - `MN 112`_
-     - `MN 113`_
-     - `MN 114`_
-     - `MN 115`_
-     - `MN 116`_
-     - `MN 117`_
-     - `MN 118`_
-     - `MN 119`_
-     - `MN 120`_
+   * - `MN111`_
+     - `MN112`_
+     - `MN113`_
+     - `MN114`_
+     - `MN115`_
+     - `MN116`_
+     - `MN117`_
+     - `MN118`_
+     - `MN119`_
+     - `MN120`_
 
-.. _MN 111:
+.. _MN111:
 
 - MN 111: Anupada Sutta, 中部111, 逐步經, 逐一經, 不斷經, M iii 25
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN111>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN111>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Anupadasuttaṃ
 
@@ -5731,9 +5866,11 @@ Anupadavaggo 不斷品
 
 ------
 
-.. _MN 112:
+.. _MN112:
 
 - MN 112: Chabbisodhana Sutta, 中部112, 六淨經, 六純淨經, 六種清淨經, M iii 29
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN112>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN112>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Chabbisodhanasuttaṃ
 
@@ -5769,9 +5906,11 @@ Anupadavaggo 不斷品
 
 ------
 
-.. _MN 113:
+.. _MN113:
 
-- MN 113: Sappurisa Sutta, 中部113, 大四十經, M iii 37
+- MN 113: Sappurisa Sutta, 中部113, 善人經, 善士經, M iii 37
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN113>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN113>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sappurisasuttaṃ
 
@@ -5807,9 +5946,11 @@ Anupadavaggo 不斷品
 
 ------
 
-.. _MN 114:
+.. _MN114:
 
 - MN 114: Sevitabbāsevitabba Sutta, 中部114, 應習不應習經, 應行不應行經, 應該實行與不應該實行經, M iii 45
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN114>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN114>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Sevitabbāsevitabbasuttaṃ
 
@@ -5843,9 +5984,11 @@ Anupadavaggo 不斷品
 
 ------
 
-.. _MN 115:
+.. _MN115:
 
 - MN 115: Bahudhātuka Sutta, 中部115, 多界經, 多種界經, M iii 61
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN115>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN115>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bahudhātukasuttaṃ
 
@@ -5882,20 +6025,22 @@ Anupadavaggo 不斷品
 .. list-table:: Anupadavaggo 不斷品 (MN 111 ～ MN 120)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 111`_
-     - `MN 112`_
-     - `MN 113`_
-     - `MN 114`_
-     - `MN 115`_
-     - `MN 116`_
-     - `MN 117`_
-     - `MN 118`_
-     - `MN 119`_
-     - `MN 120`_
+   * - `MN111`_
+     - `MN112`_
+     - `MN113`_
+     - `MN114`_
+     - `MN115`_
+     - `MN116`_
+     - `MN117`_
+     - `MN118`_
+     - `MN119`_
+     - `MN120`_
 
-.. _MN 116:
+.. _MN116:
 
 - MN 116: Isigili Sutta, 中部116, 仙吞經, 仙人山經, M iii 68
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN116>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN116>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Isigilisuttaṃ
 
@@ -5931,11 +6076,11 @@ Anupadavaggo 不斷品
 
 ------
 
-.. _MN 117:
+.. _MN117:
 
 - MN 117: Mahācattārīsaka Sutta, 中部117, 四十大經. 大四十經, M iii 71
 
-  * 六、道品 ：1. 八正道 ( `MN 117 四十大經 概要`_ )
+  * 六、道品 ：1. 八正道 ( `MN117 四十大經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahācattārīsakasuttaṃ
 
@@ -5979,11 +6124,11 @@ Anupadavaggo 不斷品
 
 ------
 
-.. _MN 118:
+.. _MN118:
 
 - MN 118: Ānāpānasati Sutta中部118, 安那般那念經, 入出息念經, 出入息念經, M iii 78
 
-  * 六、道品 ： 3. 安那般那念  ( `MN 118 安那般那念經 概要`_ )
+  * 六、道品 ： 3. 安那般那念  ( `MN118 安那般那念經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Ānāpānassatisuttaṃ (Ānāpānasati suttaṃ)
 
@@ -6031,9 +6176,11 @@ Anupadavaggo 不斷品
 
 ------
 
-.. _MN 119:
+.. _MN119:
 
 - MN 119: Kāyagatāsati Sutta, 中部119, 身至念經, 身行念經, 身念經, M iii 88
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN119>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN119>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Kāyagatāsatisuttaṃ
 
@@ -6069,11 +6216,11 @@ Anupadavaggo 不斷品
 
 ------
 
-.. _MN 120:
+.. _MN120:
 
 - MN 120: Saṅkhārupapatti Sutta, 中部120, 行生經, 行與再投生經, 往生之意志經, M iii 99
 
-  * 三、道德生活 ：  3. 得生善趣 ( `MN 120 行生經 概要`_ )
+  * 三、道德生活 ：  3. 得生善趣 ( `MN120 行生經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Saṅkhārupapattisuttaṃ
 
@@ -6157,20 +6304,22 @@ Suññatavaggo 空品
 .. list-table:: Suññatavaggo 空品 (MN 121 ～ MN 130)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 121`_
-     - `MN 122`_
-     - `MN 123`_
-     - `MN 124`_
-     - `MN 125`_
-     - `MN 126`_
-     - `MN 127`_
-     - `MN 128`_
-     - `MN 129`_
-     - `MN 130`_
+   * - `MN121`_
+     - `MN122`_
+     - `MN123`_
+     - `MN124`_
+     - `MN125`_
+     - `MN126`_
+     - `MN127`_
+     - `MN128`_
+     - `MN129`_
+     - `MN130`_
 
-.. _MN 121:
+.. _MN121:
 
 - MN 121: Cūḷasuññata Sutta, 中部121, 空小經, 小空經, M iii 104
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN121>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN121>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Saṅkhārupapattisuttaṃ
 
@@ -6216,9 +6365,11 @@ Suññatavaggo 空品
 
 ------
 
-.. _MN 122:
+.. _MN122:
 
 - MN 122: Mahāsuññata Sutta, 中部122, 空大經, 大空經, M iii 109
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN122>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN122>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāsuññatasuttaṃ
 
@@ -6258,9 +6409,11 @@ Suññatavaggo 空品
 
 ------
 
-.. _MN 123:
+.. _MN123:
 
 - MN 123: Acchariya-abbhuta Sutta, 中部123, 未曾有法經, 希有未曾有法經, 不可思議-未曾有經, M iii 118
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN123>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN123>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Acchariya-abbhutasuttaṃ
 
@@ -6294,9 +6447,11 @@ Suññatavaggo 空品
 
 ------
 
-.. _MN 124:
+.. _MN124:
 
 - MN 124: Bakkula Sutta, Bākula Sutta, 中部124, 薄拘羅經, 巴古勒經, M iii 124
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN124>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN124>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bākulasuttaṃ (Bakkulasuttaṃ)
 
@@ -6330,9 +6485,11 @@ Suññatavaggo 空品
 
 ------
 
-.. _MN 125:
+.. _MN125:
 
 - MN 125: Dantabhūmi Sutta, 中部125, 調御地經, 已調御階位經, M iii 128
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN125>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN125>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Dantabhūmisuttaṃ
 
@@ -6369,20 +6526,22 @@ Suññatavaggo 空品
 .. list-table:: Suññatavaggo 空品 (MN 121 ～ MN 130)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 121`_
-     - `MN 122`_
-     - `MN 123`_
-     - `MN 124`_
-     - `MN 125`_
-     - `MN 126`_
-     - `MN 127`_
-     - `MN 128`_
-     - `MN 129`_
-     - `MN 130`_
+   * - `MN121`_
+     - `MN122`_
+     - `MN123`_
+     - `MN124`_
+     - `MN125`_
+     - `MN126`_
+     - `MN127`_
+     - `MN128`_
+     - `MN129`_
+     - `MN130`_
 
-.. _MN 126:
+.. _MN126:
 
 - MN 126: Bhūmija Sutta, 中部126, 地生經, 浮彌經, M iii 138
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN126>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN126>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bhūmijasuttaṃ
 
@@ -6418,9 +6577,11 @@ Suññatavaggo 空品
 
 ------
 
-.. _MN 127:
+.. _MN127:
 
 - MN 127: Anuruddha Sutta, 中部127, 阿那律經, 阿那律陀經, M iii 144
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN127>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN127>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Anuruddhasuttaṃ
 
@@ -6454,9 +6615,11 @@ Suññatavaggo 空品
 
 ------
 
-.. _MN 128:
+.. _MN128:
 
 - MN 128: Upakkilesa Sutta, 中部128, 隨煩惱經, 隨雜染經, 污染經, M iii 152
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN128>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN128>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Upakkilesasuttaṃ
 
@@ -6490,9 +6653,11 @@ Suññatavaggo 空品
 
 ------
 
-.. _MN 129:
+.. _MN129:
 
 - MN 129: Bālapaṇḍita Sutta, 中部129, 賢愚經, 愚者與賢者經, 愚人與智者經, M iii 163
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN129>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN129>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bālapaṇḍitasuttaṃ
 
@@ -6526,9 +6691,11 @@ Suññatavaggo 空品
 
 ------
 
-.. _MN 130:
+.. _MN130:
 
 - MN 130: Devadūta Sutta, 中部130, 天使經, 天信使經, M iii 178
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN130>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN130>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Devadūtasuttaṃ
 
@@ -6611,23 +6778,25 @@ Vibhaṅgavaggo 分別品
 .. list-table:: Vibhaṅgavaggo 分別品 (MN 131 ～ MN 142)
    :widths: 15 15 15 15 15 15
 
-   * - `MN 131`_
-     - `MN 132`_
-     - `MN 133`_
-     - `MN 134`_
-     - `MN 135`_
-     - `MN 136`_
+   * - `MN131`_
+     - `MN132`_
+     - `MN133`_
+     - `MN134`_
+     - `MN135`_
+     - `MN136`_
 
-   * - `MN 137`_
-     - `MN 138`_
-     - `MN 139`_
-     - `MN 140`_
-     - `MN 141`_
-     - `MN 142`_
+   * - `MN137`_
+     - `MN138`_
+     - `MN139`_
+     - `MN140`_
+     - `MN141`_
+     - `MN142`_
 
-.. _MN 131:
+.. _MN131:
 
 - MN 131: Bhaddekaratta Sutta, 中部131, 一夜賢者經, 賢善一夜者經, 當下勤修經, M iii 187
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN131>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN131>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Bhaddekarattasuttaṃ
 
@@ -6667,9 +6836,11 @@ Vibhaṅgavaggo 分別品
 
 ------
 
-.. _MN 132:
+.. _MN132:
 
 - MN 132: Ānanda bhaddekaratta Sutta, 中部132, 阿難一夜賢者經, 阿難賢善一夜者經, 阿難當下勤修經, M iii 189
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN132>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN132>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典： Ānandabhaddekarattasuttaṃ
 
@@ -6703,9 +6874,11 @@ Vibhaṅgavaggo 分別品
 
 ------
 
-.. _MN 133:
+.. _MN133:
 
 - MN 133: Mahakaccānabhaddekaratta Sutta, 中部133, 大迦旃延一夜賢者經, 摩訶迦旃延賢善一夜者經, 大迦旃延當下勤修經, M iii 192
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN133>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN133>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahākaccānabhaddekarattasuttaṃ
 
@@ -6739,9 +6912,11 @@ Vibhaṅgavaggo 分別品
 
 ------
 
-.. _MN 134:
+.. _MN134:
 
 - MN 134: Lomasakaṅgiya bhaddekaratta Sutta, 中部134, 羅麼色耿其雅賢善一夜者經, 盧夷強耆一夜賢者經, 羅摩沙迦當下勤修經, M iii 199
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN134>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN134>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Lomasakaṅgiyabhaddekarattasuttaṃ
 
@@ -6775,11 +6950,11 @@ Vibhaṅgavaggo 分別品
 
 ------
 
-.. _MN 135:
+.. _MN135:
 
 - MN 135: Cūḷakamma­vibhaṅga Sutta, 中部135, 分別業小經, 業分別小經, 小業分别經, 小分析業經, M iii 202 
 
-  * 三、道德生活 ： 2. 業果 ：  ( `MN 135 分別業小經 概要`_ )
+  * 三、道德生活 ： 2. 業果 ：  ( `MN135 分別業小經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷakammavibhaṅgasuttaṃ
 
@@ -6829,9 +7004,11 @@ Vibhaṅgavaggo 分別品
 
 ------
 
-.. _MN 136:
+.. _MN136:
 
 - MN 136: Mahākammavibhaṅga Sutta, 中部136, 業分別大經, 大業分別經, 大分析業經, M iii 207
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN136>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN136>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahākammavibhaṅgasuttaṃ
 
@@ -6876,23 +7053,25 @@ Vibhaṅgavaggo 分別品
 .. list-table:: Vibhaṅgavaggo 分別品 (MN 131 ～ MN 142)
    :widths: 15 15 15 15 15 15
 
-   * - `MN 131`_
-     - `MN 132`_
-     - `MN 133`_
-     - `MN 134`_
-     - `MN 135`_
-     - `MN 136`_
+   * - `MN131`_
+     - `MN132`_
+     - `MN133`_
+     - `MN134`_
+     - `MN135`_
+     - `MN136`_
 
-   * - `MN 137`_
-     - `MN 138`_
-     - `MN 139`_
-     - `MN 140`_
-     - `MN 141`_
-     - `MN 142`_
+   * - `MN137`_
+     - `MN138`_
+     - `MN139`_
+     - `MN140`_
+     - `MN141`_
+     - `MN142`_
 
-.. _MN 137:
+.. _MN137:
 
 - MN 137: Saḷāyatanavibhaṅga Sutta, 中部137, 六處分別經, 分析六處經, M iii 215
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN137>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN137>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Saḷāyatanavibhaṅgasuttaṃ
 
@@ -6928,9 +7107,11 @@ Vibhaṅgavaggo 分別品
 
 ------
 
-.. _MN 138:
+.. _MN138:
 
 - MN 138: Uddesavibhaṅga Sutta, 中部138, 總說分別經, 分析義理經, M iii 223
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN138>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN138>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Uddesavibhaṅgasuttaṃ
 
@@ -6966,9 +7147,11 @@ Vibhaṅgavaggo 分別品
 
 ------
 
-.. _MN 139:
+.. _MN139:
 
 - MN 139: Araṇavibhaṅga Sutta, 中部139, 無諍分別經, 無諍之分別經, 分析無諍經, M iii 230
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN139>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN139>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Araṇavibhaṅgasuttaṃ
 
@@ -7006,11 +7189,11 @@ Vibhaṅgavaggo 分別品
 
 ------
 
-.. _MN 140:
+.. _MN140:
 
 - MN 140: Dhātuvibhaṅga Sutta, 中部140, 界分別經, 分析界經, M iii 237
 
-  * 七、正慧的修習 ： 4. 究竟解脫 ( `MN 140 界分別經 概要`_ )
+  * 七、正慧的修習 ： 4. 究竟解脫 ( `MN140 界分別經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Dhātuvibhaṅgasuttaṃ
 
@@ -7054,9 +7237,11 @@ Vibhaṅgavaggo 分別品
 
 ------
 
-.. _MN 141:
+.. _MN141:
 
 - MN 141: Saccavibhaṅga Sutta, 中部141, 諦分別經, 分析聖諦經, M iii 248
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN141>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN141>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Saccavibhaṅgasuttaṃ
 
@@ -7094,9 +7279,11 @@ Vibhaṅgavaggo 分別品
 
 ------
 
-.. _MN 142:
+.. _MN142:
 
 - MN 142: Dakkhiṇāvibhaṅga Sutta, 中部142, 供養分別經, 分析供養經, 施分別經, M iii 253
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN142>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN142>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Dakkhiṇāvibhaṅgasuttaṃ
 
@@ -7179,20 +7366,22 @@ Saḷāyatanavaggo 六處品
 .. list-table:: Saḷāyatanavaggo 六處品 (MN 143 ～ MN 152)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 143`_
-     - `MN 144`_
-     - `MN 145`_
-     - `MN 146`_
-     - `MN 147`_
-     - `MN 148`_
-     - `MN 149`_
-     - `MN 150`_
-     - `MN 151`_
-     - `MN 152`_
+   * - `MN143`_
+     - `MN144`_
+     - `MN145`_
+     - `MN146`_
+     - `MN147`_
+     - `MN148`_
+     - `MN149`_
+     - `MN150`_
+     - `MN151`_
+     - `MN152`_
 
-.. _MN 143:
+.. _MN143:
 
 - MN 143: Anāthapiṇḍikovāda Sutta, 中部143, 教誡給孤獨經, 教給孤獨經, 教化給孤獨長者經, M iii 258
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN143>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN143>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Anāthapiṇḍikovādasuttaṃ
 
@@ -7228,9 +7417,11 @@ Saḷāyatanavaggo 六處品
 
 ------
 
-.. _MN 144:
+.. _MN144:
 
 - MN 144: Channovāda Sutta, 中部144, 教誡闡陀經, 教闡陀經, 教化車匿經, M iii 263
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN144>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN144>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Channovādasuttaṃ
 
@@ -7264,9 +7455,11 @@ Saḷāyatanavaggo 六處品
 
 ------
 
-.. _MN 145:
+.. _MN145:
 
 - MN 145: Puṇṇovāda Sutta, 中部145, 教誡富樓那經, 教富樓那經, 教化富那經, M iii 267
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN145>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN145>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Puṇṇovādasuttaṃ
 
@@ -7300,11 +7493,11 @@ Saḷāyatanavaggo 六處品
 
 ------
 
-.. _MN 146:
+.. _MN146:
 
 - MN 146: Nandakovāda Sutta, 中部146, 難達葛教誡經, 難陀迦教化比丘尼經, 教難陀迦經, M iii 270 
 
-  * 七、正慧的修習 ：2. 內觀  ( `MN 146 難陀迦教誡經 概要`_ )
+  * 七、正慧的修習 ：2. 內觀  ( `MN146 難陀迦教誡經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Nandakovādasuttaṃ
 
@@ -7348,9 +7541,11 @@ Saḷāyatanavaggo 六處品
 
 ------
 
-.. _MN 147:
+.. _MN147:
 
 - MN 147: Cūḷarāhulovāda Sutta, 中部147, 教誡羅侯羅小經, 小教化羅睺邏經, M iii 277
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN147>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN147>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Cūḷarāhulovādasuttaṃ
 
@@ -7389,24 +7584,24 @@ Saḷāyatanavaggo 六處品
 .. list-table:: Saḷāyatanavaggo 六處品 (MN 143 ～ MN 152)
    :widths: 10 10 10 10 10 10 10 10 10 10
 
-   * - `MN 143`_
-     - `MN 144`_
-     - `MN 145`_
-     - `MN 146`_
-     - `MN 147`_
-     - `MN 148`_
-     - `MN 149`_
-     - `MN 150`_
-     - `MN 151`_
-     - `MN 152`_
+   * - `MN143`_
+     - `MN144`_
+     - `MN145`_
+     - `MN146`_
+     - `MN147`_
+     - `MN148`_
+     - `MN149`_
+     - `MN150`_
+     - `MN151`_
+     - `MN152`_
 
-.. _MN 148:
+.. _MN148:
 
 - MN 148: Chachaka Sutta, 中部148, 六六經, 六層六處經, M iii 280
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Chachakkasuttaṃ
 
-  * 七、正慧的修習 ：2. 內觀  ( `MN 148 六六經 概要`_ )
+  * 七、正慧的修習 ：2. 內觀  ( `MN148 六六經 概要`_ )
 
     - `3.5.6 Cha chakka suttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/MN_III_utf8.html#pts.280>`__ (PTS, `Access to Insight <http://www.accesstoinsight.org/>`_ ) [3]_
 
@@ -7424,7 +7619,7 @@ Saḷāyatanavaggo 六處品
 
   * 英譯：
 
-    - `The Six Sets of Six <http://www.wisdompubs.org/book/middle-length-discourses-buddha/selections/middle-length-discourses-148-chachakka-sutta>`__ `Translated from the Pali by **Ven. Bodhi Bhikkhu**) ( `Wisdom Publications <http://www.wisdompubs.org/>`__ ) [12]_
+    - `The Six Sets of Six <http://www.wisdompubs.org/book/middle-length-discourses-buddha/selections/middle-length-discourses-148-chachakka-sutta>`__ Translated from the Pali by **Ven. Bodhi Bhikkhu**) ( `Wisdom Publications <http://www.wisdompubs.org/>`__ ) [12]_
 
       \*\*\* "This work is licensed under a `Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License <http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US>`_ ." \*\*\*
 
@@ -7454,11 +7649,11 @@ Saḷāyatanavaggo 六處品
 
 ------
 
-.. _MN 149:
+.. _MN149:
 
 - MN 149: Mahāsaḷāyatanika Sutta, 中部149, 大六處經, 六處大經, M iii 287
 
-  * 七、正慧的修習 ：2. 內觀  ( `MN 149 大六處經 概要`_ )
+  * 七、正慧的修習 ：2. 內觀  ( `MN149 大六處經 概要`_ )
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāsaḷāyatanikasuttaṃ
 
@@ -7502,9 +7697,11 @@ Saḷāyatanavaggo 六處品
 
 ------
 
-.. _MN 150:
+.. _MN150:
 
 - MN 150: Nagaravindeyya Sutta, 中部150, 頻頭城經, M iii 290
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN150>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN150>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Nagaravindeyyasuttaṃ
 
@@ -7538,9 +7735,11 @@ Saḷāyatanavaggo 六處品
 
 ------
 
-.. _MN 151:
+.. _MN151:
 
 - MN 151: Piṇḍapātapārisuddhi Sutta, 中部151, 淨化施食經, 化食清淨經, 乞食清淨經, M iii 293
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN151>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN151>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Piṇḍapātapārisuddhisuttaṃ
 
@@ -7574,9 +7773,11 @@ Saḷāyatanavaggo 六處品
 
 ------
 
-.. _MN 152:
+.. _MN152:
 
 - MN 152: Indriyabhāvanā Sutta, 中部152, 根修習經, 修習根經, M iii 298
+
+  * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#MN152>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#MN152>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Indriyabhāvanāsuttaṃ
 
@@ -7620,19 +7821,19 @@ Saḷāyatanavaggo 六處品
 ------------
 
 
-- _`MN 2 一切漏經 概要` :  (回 `MN 2`_ )
+- _`MN2 一切漏經 概要` :  (回 `MN2`_ )
 
   * 本經是說滅一切漏（煩惱）之方法．大別之分為依見而滅與依知而滅。依見而滅者．是捨邪見．依知而滅者．區別為六．即依防護、依用、依忍、依避、依除、依修習而捨離煩惱。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
   * 本經，說滅一切漏(煩惱)之方法，這大約分為依見滅，和依知滅，依其見滅者，即捨邪見;依知滅者，此分為六種，說由防護、用、忍、避、除、修習而捨離。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
   * 
-    - 有諸漏－由見而捨離；由防護而捨離；有由受用而捨離；有由忍耐而捨離；有由迴避而捨離；有由遣除而捨離；有由修習而捨離   -- p.7.[1]_ (p.7.)[2]_   
-    - 對過去、未來、現在的十六種懷疑   -- p.8. (p.8.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 有諸漏－由見而捨離；由防護而捨離；有由受用而捨離；有由忍耐而捨離；有由迴避而捨離；有由遣除而捨離；有由修習而捨離   -- p.7. (p.7.)   
+    - 對過去、未來、現在的十六種懷疑   -- p.8. (p.8.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 4 怖駭經 概要` : (回 `MN 4`_ )
+- _`MN4 怖駭經 概要` : (回 `MN4`_ )
 
   * 本經是教以依於獨坐閑林精進禪定．乃得解脫。以此示於生漏婆羅門．彼婆羅門．遂為佛之信者。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7643,11 +7844,11 @@ Saḷāyatanavaggo 六處品
     - 世尊在菩薩時排除怖畏的方法→經行時，生怖畏→經行而不停止、不坐、不臥；站立；端坐；橫臥時，生怖畏→臥而不坐、不站立、不經行，只是如實地於橫臥以排除其怖畏驚駭   -- p.21. (p.26.) 
     - 世尊以夜為夜而思之，以晝為晝而思之   -- p.21. (p.26.)  
     - 無愚癡的有情出現於世間乃眾生的利益、眾生的安樂   -- p.21. (p.26.)  
-    - ◎ 世尊為了兩種利益而閑居靜處：現法樂住及慈愍後人   -- p.23. (p.29.)（《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ◎ 世尊為了兩種利益而閑居靜處：現法樂住及慈愍後人   -- p.23. (p.29.)（《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 6 願經 概要` :  (回 `MN 6`_ )
+- _`MN6 願經 概要` :  (回 `MN6`_ )
 
   * 本經是教以若比丘懷有種種之願望．為充滿其願望故．當先受戒而能守護。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7655,11 +7856,11 @@ Saḷāyatanavaggo 六處品
 
   * 
     - ◎ 假如比丘期望－成為同梵行者們所喜愛、敬重，當圓滿戒，內心修習止，不輕視禪那，增長觀，住在空閑處   -- p.33. (p.40.) 
-    - ◎ 期望－得衣、食、住處、醫藥；令先亡歡喜，得大果報、大功德；快樂，克服不樂；克服怖畏；隨願無困難而得四禪；得無色定；證預流；證一來；證不還；證種種神通；得他心通；得宿命通；得天眼通；得漏盡通→當圓滿戒，內心修習止，不輕視禪那，增長觀，住在空閑處   -- p.33~. (p.40~.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ◎ 期望－得衣、食、住處、醫藥；令先亡歡喜，得大果報、大功德；快樂，克服不樂；克服怖畏；隨願無困難而得四禪；得無色定；證預流；證一來；證不還；證種種神通；得他心通；得宿命通；得天眼通；得漏盡通→當圓滿戒，內心修習止，不輕視禪那，增長觀，住在空閑處   -- p.33~. (p.40~.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 7 布喻經 概要` :  (回 `MN 7`_ )
+- _`MN7 布喻經 概要` :  (回 `MN7`_ )
 
   * 本經是教以人若心穢．易墮惡趣．若心清淨．能豫期善趣。猶如污布．着染不鮮明．若是淨布．着染鮮明。次說種種心穢。最後說當常使心清淨．以誡婆羅門孫陀利迦頗羅墮瓦遮之崇尚浴行為不足法．示以唯心沐浴．是為最要者。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7670,11 +7871,11 @@ Saḷāyatanavaggo 六處品
     - 佛、法、僧三寶之德   -- p.37. (p.46.)  
     - 隨念三寶而生喜悅→輕安→樂→得定   -- p.38. (p.47.) 
     - 解脫三漏－洗浴內心   -- p.38. (p.48.)  
-    - 婆羅門孫陀利迦．婆羅墮闍（Sundarikabhāradvāja）隨佛出家、受具，並證阿羅漢    -- p.40. (p.50.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 婆羅門孫陀利迦．婆羅墮闍（Sundarikabhāradvāja）隨佛出家、受具，並證阿羅漢    -- p.40. (p.50.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 8 削減經 概要` :  (回 `MN 8`_ )
+- _`MN8 削減經 概要` :  (回 `MN8`_ )
 
   * 本經是對長老大周那說法。首示以捨離諸見之根本法．次示以五部門說損損諸惡欲得至究竟涅槃之方法。所謂五部門者．第一損損．第二於善法發心．第三迴避惡欲法．第四昇於高處善法．第五到究竟涅槃法。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7687,11 +7888,11 @@ Saḷāyatanavaggo 六處品
     - 自陷於泥濘而想救他人出於泥濘者，是不可能的   -- p.45. (p.57.)  
     - 自己常被調御、教導，不自般涅槃而想調御他人、教導他人，使人般涅槃者，是不可能的   -- p.45. (p.57.)  
     - 有害心者想般涅槃，應先成為不害者；殺生者想般涅槃，應先離殺生；……   -- p.45. (p.57.)  
-    - ◎ 此經世尊開示：削減的法門，發心的法門，迴避的法門，上昇的法門，般涅槃的法門   -- p.46. (p.58.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ◎ 此經世尊開示：削減的法門，發心的法門，迴避的法門，上昇的法門，般涅槃的法門   -- p.46. (p.58.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
     
-- _`MN 9 正見經 概要` :  (回 `MN 9`_ )
+- _`MN9 正見經 概要` :  (回 `MN9`_ )
 
   * 本經是舍利弗答諸比丘所問．關於得正見而達於正法之方法。答者以次之諸部門而為詳說．即一知不善與不善根本及善與善之根本．二知食與其集滅道．三知苦與其集滅道．四至十五．即關於自老死以下之生、有、取、欲、受、觸、六處、名色、識、行、無明．知其一一支與其集滅道。十六知漏與其集滅道。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7718,11 +7919,11 @@ Saḷāyatanavaggo 六處品
     - 知識、知識的集、知識的滅、知導至識滅之道   -- p.53. (p.69.) 
     - 知行、知行的集、知行的滅、知導至行滅之道   -- p.54. (p.70.) 
     - 知無明、知無明的集、知無明的滅、知導至無明滅之道   -- p.54. (p.70.) 
-    - 知漏、知漏的集、知漏的滅、知導至漏滅之道→具如此的正見、其見正直，對法絕對持有淨信，則達此正法   -- p.55. (p.71.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 知漏、知漏的集、知漏的滅、知導至漏滅之道→具如此的正見、其見正直，對法絕對持有淨信，則達此正法   -- p.55. (p.71.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 10 念處經 概要` :  (回 `MN 10`_ )
+- _`MN10 念處經 概要` :  (回 `MN10`_ )
 
   * 本經以得竟究解脫涅槃為一乘．而說四念處。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7730,7 +7931,7 @@ Saḷāyatanavaggo 六處品
 
 ------
 
-- _`MN 11 獅子吼小經 概要` :  (回 `MN 11`_ )
+- _`MN11 獅子吼小經 概要` :  (回 `MN11`_ )
 
   * 本經是世尊教諸比丘言．『汝等應作大師子吼．唯於此處是有沙門．但無外道．得稱沙門者。』復示其所以然．以外道雖亦有相似之目標．但彼等全不知取．故不能稱為沙門。次更關於取及渴愛、受、觸、六處、名色、識、行、無明之說明。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7740,11 +7941,11 @@ Saḷāyatanavaggo 六處品
     - ◎ 唯此（教中）有第一沙門果、第二沙門果、第三沙門果、第四沙門果，而在外道則無真正（可稱）的沙門   -- p.63. (p.82.)  
     - 為何説唯此教中有沙門，而外道無真沙門→對大師有淨信；對法有淨信；對戒成就圓滿；對順於法者皆存喜愛   -- p.64. (p.82.) 
     - 因大師所教為→離貪者、離瞋者、離癡者、離渴愛者、無取者、賢者、樂觀者、喜無障、樂無障者   -- p.64~. (p.84~.)  
-    - 一般沙門、婆羅門不如實知有愛見和無有愛見的集、滅、味、患、出離，故無真正（可稱）的沙門→不了知四取   -- p.65. (p.85.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 一般沙門、婆羅門不如實知有愛見和無有愛見的集、滅、味、患、出離，故無真正（可稱）的沙門→不了知四取   -- p.65. (p.85.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 12 獅子吼大經 概要` :  (回 `MN 12`_ )
+- _`MN12 獅子吼大經 概要` :  (回 `MN12`_ )
 
   * 本經因於曾入佛門後轉入外道之善星者．誹謗世尊．語為舍利弗所聞．以告世尊．世尊為是說法。初舉如來之類句．詳說如來十力．四無所畏．及四生、五趣、涅槃之道。次說佛陀雖亦曾行如外道種種苦行．若貧穢行、厭離行、孤獨行、不淨食行、叢林住行、捨行、少食行、祭祀、火祀等．然是等終非到達最上知見。最後示以如來雖在老年．亦不衰其智慧辯才。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7760,11 +7961,11 @@ Saḷāyatanavaggo 六處品
     - 世尊（在菩薩時）所曾行具足四支的梵行，即苦行者、最上的苦行者；貧穢行者、最上的貧穢行者；嫌厭者、最上的嫌厭行者；孤獨行者、最上之孤獨行者   -- p.77. (p.101.)  
     - ◎ 世尊（在菩薩時）所曾行最極端的苦行   -- p.77~. (p.101~.)  
     - 世尊近八十高齡而有最上的憶念、最上的行道、最上的精進、最上的智慧辯才   -- p.82. (p.107.)  
-    - ◎ 此經為「身毛豎立法門經」   -- p.83. (p.108.)（《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ◎ 此經為「身毛豎立法門經」   -- p.83. (p.108.)（《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 13 苦蘊大經 概要` :  (回 `MN 13`_ )
+- _`MN13 苦蘊大經 概要` :  (回 `MN13`_ )
 
   * 本經緣比丘等行乞時．在一外道園中．聞彼等說言．『沙門瞿曇與我等．關於欲、色、受之說法．無何等差別．』緣是告白世尊．世尊因是說法。即示以彼等與世尊說法之間．大有差別．乃於欲、色、受．說明種種味、種種患、種種出離。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7780,11 +7981,11 @@ Saḷāyatanavaggo 六處品
     - 色味：緣十五、六歲的美少女的美妙端麗而生喜樂   -- p.88. (p.114.)  
     - 色患：該女在八十、九十或百歲時，年老如椽之彎曲，成為佝僂、持杖、抖行、年衰病弱、齒落、頭白、髮稀、皮皺、行走不穩、肢體生斑→該女生病、重疾、臥於糞尿→該女死亡，屍體棄於墓地→膨脹、青黑、膿爛   -- p.88. (p.114.) 
     - 受味：入初禪至第四禪－為最上、無害的受味   -- p.89. (p.116.)  
-    - 受患：受是無常、苦、是變易法   -- p.90. (p.116.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 受患：受是無常、苦、是變易法   -- p.90. (p.116.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 19 雙考察經 概要` :  (回 `MN 19`_ )
+- _`MN19 雙考察經 概要` :  (回 `MN19`_ )
 
   * 本經是世尊說未成佛前修行中之一一體驗．即欲、恚、害意等．為除去是等．特使起雙雙相對待之思惟．使前者滅．後者自能生起．復舉種種譬喻以說明之。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7793,11 +7994,11 @@ Saḷāyatanavaggo 六處品
   * 
     - ◎ 世尊在成佛前的思考、修行方式   -- p.114. (p.160.)
     - 兩種思考－欲尋、瞋尋、害尋；無欲〔出離〕尋、無瞋尋、不害尋   -- p.114. (p.160.)  
-    - 思惟：欲尋是自害、害他、俱害，滅慧、苦惱的伴黨，不導至涅槃→以滅欲尋；以滅瞋尋；以滅害尋→心清淨、專一、等持→得四禪、三明   -- p.115~. (p.160~.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 思惟：欲尋是自害、害他、俱害，滅慧、苦惱的伴黨，不導至涅槃→以滅欲尋；以滅瞋尋；以滅害尋→心清淨、專一、等持→得四禪、三明   -- p.115~. (p.160~.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 20 尋行止息經 概要` :  (回 `MN 20`_ )
+- _`MN20 尋行止息經 概要` :  (回 `MN20`_ )
 
   * 本經於實修增上心（禪定）．說五個階段。一惡不善思惟現時．即念善思惟。二若惡不善思惟猶現起者．則審察惡不善思惟過患。三惡不善思惟猶現起者．則關於彼彼一切憶念都不起思念。四惡不善思惟猶現起者．念止息彼思惟行。五然而惡不善思惟猶現起者．當修．禪定法門。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7810,11 +8011,11 @@ Saḷāyatanavaggo 六處品
     - 思惟這些尋的過患－如愛好裝飾的年輕男女，若以蛇、狗、人的死屍繫在其頸，則厭惡、惱、恥而迴避   -- p.120. (p.169.)  
     - 不念、不作意這些尋－如有眼者若不想看其眼前之色，則可閉眼或轉看其他之物   -- p.120. (p.169.)  
     - 作意這些尋的尋行之止息－如有人急行想：「我何必急行？而慢走；何必慢走→站立；而坐；而臥   -- p.120. (p.170.)  
-    - 齒齒相接，舌抵上齶，以心制心－如強力人捉軟弱者的頭、肩而制伏、撲滅之   -- p.120~1. (p.171.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 齒齒相接，舌抵上齶，以心制心－如強力人捉軟弱者的頭、肩而制伏、撲滅之   -- p.120~1. (p.171.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 21 鋸喻經 概要` :  (回 `MN 21`_ )
+- _`MN21 鋸喻經 概要` :  (回 `MN21`_ )
 
   * 本經因長老牟犂破羣那與諸比丘尼數數會集．人若非難之者．即起大憤怒．佛為是說法誡彼無論如何．不應瞋恚．應常住慈心．乃說保護娑羅樹林喻．居士婦韋提希迦與其侍女喻．欲使大地為非地喻．欲繪畫虛空喻．欲以乾薪火炬煑沸恒河水喻．貓皮喻．鋸喻。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7827,11 +8028,11 @@ Saḷāyatanavaggo 六處品
     - 當比丘在易得信施、易得衣、食、住處、醫藥時，因順於意而心柔軟，但受他人觸犯時，則常剛強   -- p.126. (p.178.)  
     - ◎ 有五種勸告方式：時或非時，真實或非真實，柔軟或粗暴，利益或不利，慈心或瞋心   -- p.126. (p.178.) 
     - 他人侵犯時，比丘心當如虛空，不為所動   -- p.127. (p.180.) 
-    - ◎ 即使有盜賊以鋸子將自己肢節截斷，當時若動亂其心者，即非遵佛所教者也（鋸喻之教）-- p.129. (p.182.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ◎ 即使有盜賊以鋸子將自己肢節截斷，當時若動亂其心者，即非遵佛所教者也（鋸喻之教）-- p.129. (p.182.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 22 蛇譬喻經 概要` :  (回 `MN 22`_ )
+- _`MN22 蛇譬喻經 概要` :  (回 `MN22`_ )
 
   * 本經因阿梨吒比丘．生起惡見．謂世尊雖說障礙法．實非障礙．緣是呵之。次說若欲學法．當理解法之意義．乃說捕蛇喻以況之。次說若欲度脫者．不可執法．舉筏喻以示之。次說於非實有．無事焦勞．教示一切無常．當求解脫．乃舉解脫者之種種喻。復次說如來非虛無論者．及說聖者之階梯等。（與舊譯中阿含．大體相合．唯與增一阿含．僅筏喻相合耳）。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7843,11 +8044,11 @@ Saḷāyatanavaggo 六處品
     - 世尊的九分教法   -- p.133. (p.188.)  
     - ◎ 雖曾學習世尊的教法，由於未能以自智體證，以致於誤解世尊的教法，如同以錯誤的方式捉蛇，而因蛇迴頭咬其手或肢體使受死或等同死之痛苦   -- p.133. (p.188.) 
     - ◎ 世尊以筏喻－人們以筏為渡險河，過了河即應棄筏而不應背著走→法尚應捨，何況非法   -- p.134~5. (p.190.)  
-    - 五蘊的過、未、現等十二種行相為非我、非我所、非我的自我   -- p.138. (p.196~7.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 五蘊的過、未、現等十二種行相為非我、非我所、非我的自我   -- p.138. (p.196~7.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 26 聖求經 概要` :  (回 `MN 26`_ )
+- _`MN26 聖求經 概要` :  (回 `MN26`_ )
 
   * 本經是諸比丘集於婆羅門之羅摩迦庵互相說法時．世尊亦來．因之說聖求與非聖求法。次之世尊說自己自出家迄初轉法輪之自敘傳。在此自敘傳中．詳說當時出家之情形．關於修行時代在阿羅邏迦羅摩仙及鬱頭迦羅摩弗仙處所學習事．後在優樓毘羅之斯那聚落．獨坐成道．梵天勸請．於鹿野苑初轉法輪等。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7861,11 +8062,11 @@ Saḷāyatanavaggo 六處品
     - 世尊在菩薩時前往阿羅羅迦羅摩和鬱多迦羅摩子仙人學習，並證他們的境界（無所有處和非想非非想處定）-- p.163~. (p.227~.)  
     - 世尊初成佛不想説法，大梵天王請佛轉法輪   -- p.168. (p.232.)  
     - 世尊前往鹿野苑，度化五比丘，使得無生、無上的安穩涅槃   -- p.171~. (p.237~.) 
-    - 不在惡魔的領域→四禪、八定→滅盡諸漏   -- p.174~. (p.240~.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 不在惡魔的領域→四禪、八定→滅盡諸漏   -- p.174~. (p.240~.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 27 象跡喻小經 概要` :  (回 `MN 27`_ )
+- _`MN27 象跡喻小經 概要` :  (回 `MN27`_ )
 
   * 本經緣生漏婆羅門．遇出家行者毘盧底迦．毘盧底迦將佛世尊之偉大．舉四種象跡喻以讚之。後生漏往詣佛所．聞更殊勝之象跡喻。次復教示以戒、諸根防護、念、知、四禪、憶宿命智、生死智、漏盡智。終令生漏婆羅門．歸依佛法．為在家信者。（舊譯缺憶宿命智及生死智．餘則相合）。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7875,11 +8076,11 @@ Saḷāyatanavaggo 六處品
     - 生聞（Jāṇussoṇi迦奴收尼－膝腰）婆羅門   -- p.175. (p.242.)  
     - 卑盧．婆蹉延那遍行者（Pilotika paribbājaka）以四種理由喻大象足跡而結論：世尊是正等覺者，法由世尊所善說，其僧團善行道者－剎帝利、婆羅門、居士、沙門的賢者本欲反駁、質問世尊，而後來都歸依佛或出家證果   -- p.176~. (p.244~.) 
     - ◎ 生聞婆羅門三稱－禮敬世尊、阿羅漢、正自覺者   -- p.177. (p.246.) 
-    - 世尊告訴生聞婆羅門更廣大具足的象跡喻→如來出世→居士聞法→捨家出家→持戒→衣食知足→守護六根→舉止正知、正念→遠離獨處→除蓋→得四禪→證三明→無遺憾廣說的象跡喻   -- p.179~. (p.247~.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 世尊告訴生聞婆羅門更廣大具足的象跡喻→如來出世→居士聞法→捨家出家→持戒→衣食知足→守護六根→舉止正知、正念→遠離獨處→除蓋→得四禪→證三明→無遺憾廣說的象跡喻   -- p.179~. (p.247~.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 28 象跡喻大經 概要` :  (回 `MN 28`_ )
+- _`MN28 象跡喻大經 概要` :  (回 `MN28`_ )
 
   * 本經是舍利弗為諸比丘說法者．謂如一切動物足跡．悉可攝在象跡中．一切善法．悉可攝在四聖諦中．乃說四聖諦。於苦諦之說明特詳。關於五取蘊、四大等．有重要之闡說。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7892,11 +8093,11 @@ Saḷāyatanavaggo 六處品
     - 觸、受、想、行、識是無常   -- p.186. (p.255.) 
     - 如從木材、瓦、草、泥土以覆蓋虛空而稱為「房屋」；從骨、筋、肉、皮膚覆蓋虛空而稱為「色」   -- p.190. (p.260.)  
     - ◎ 世尊說：凡見緣起者即見法；凡見法者即見緣起。此五取蘊即是緣已生   -- p.191. (p.262.) 
-    - 對五取蘊起貪、執著、隨從、耽著，即苦之集；對五取蘊去除貪欲、愛染，捨離貪欲、愛染，即是苦之滅   -- p.191. (p.262.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 對五取蘊起貪、執著、隨從、耽著，即苦之集；對五取蘊去除貪欲、愛染，捨離貪欲、愛染，即是苦之滅   -- p.191. (p.262.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 29 心材喻大經 概要` :  (回 `MN 29`_ )
+- _`MN29 心材喻大經 概要` :  (回 `MN29`_ )
 
   * 本經是提婆達多死後未久．世尊因提婆達多故．乃為諸比丘說出家行者．應毋忘其最後之目的．乃舉求心材者以喻之。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7906,11 +8107,11 @@ Saḷāyatanavaggo 六處品
     - 一時世尊在王舍城鷲峰山，提婆達多離開僧團不久   -- p.192. (p.263.) 
     - 有良家子弟基於信心，捨家而出家，心想：我遭受生、老、死、愁、悲、苦、憂、惱之害，我是苦的受難者、犧牲者，這眾苦的終點必能被了知。出家後他得到供養、恭敬與名望，他不樂於那供養、恭敬與名望；他的目標尚未達成；當他精進的時而得了戒行成就。他樂於那戒行的成就，但是目標尚未達成；得了定力的成就；成就了智見，他不因此而自讚、輕他，既不沉迷於那智見也不生起與陷入放逸，由於精進他證得非時（永遠）的解脫，而且不可能退失   -- p.192~. (p.263~.) 
     - 譬如有人需要心材、找尋心材、四處尋求心材者找了一棵具有心材的聳立大樹，卻忽略大樹的心材與邊材而取走樹葉；樹枝；砍下內樹皮；邊材，認為它就是心材而帶走。那時有個視力良好的人看見了，就說：此人不懂心材……而砍下邊材，認為它就是心材而帶走。無論此人將它用在那一種必須用心材來做的工作上，他的目標都將無法達成   -- p.192~. (p.263~.) 
-    - 此梵行生活不以供養、恭敬與名望作為它的利益，不以戒行的成就作為它的利益，不以定力的成就作為它的利益，不以知見作為它的利益，而以此不可動搖的心解脫作為它的目標、心材與終點   -- p.197. (p.269.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 此梵行生活不以供養、恭敬與名望作為它的利益，不以戒行的成就作為它的利益，不以定力的成就作為它的利益，不以知見作為它的利益，而以此不可動搖的心解脫作為它的目標、心材與終點   -- p.197. (p.269.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 31 牛角林小經 概要` :  (回 `MN 31`_ )
+- _`MN31 牛角林小經 概要` :  (回 `MN31`_ )
 
   * 本經始敘阿[少/兔]樓馱、那提耶、金毘羅三長老．於牛角娑羅林．同心同德．結伴修行．皆得漏盡。次敘佛往訪彼處．知其實狀．深致讚嘆。於是鬼夜叉及諸天．亦皆讚嘆。佛為鬼夜叉說言．其有以明了心喜樂憶持此三人者．皆得利益幸福。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7922,11 +8123,11 @@ Saḷāyatanavaggo 六處品
     - ◎ 三位尊者先從村落乞食歸來者－以設座，準備飲用水、洗淨水、容器以放殘食；後從村落乞食歸來者－若有食殘，其須者即食之，不須時則棄於無草之地或棄於無蟲的水中，再收拾座具、飲用水、洗淨水，收拾殘食，打掃齋堂。凡見飲用水瓶、洗淨水瓶或浴缸空無水時者，即準備之，若彼不能獨自為者，即招手以示求助，由其手勢而幫助之，不因其緣而多語；於每五日終夜為談論法而集會；不放逸、熱心、精進而住   -- p.207. (p.282.)  
     - ⊙ 雖其他兩位尊者未告訴他們所證的境界，阿那律尊者由自知和天人告而知其他兩位尊者所證的境界→四禪、八定、諸漏滅盡   -- p.210. (p.285.)  
     - 跋耆族有世尊和三位尊者居住實是其善家族長久的饒益、幸福    -- p.210. (p.285.) 
-    - ⊙ 此三位尊者為了多數人的饒益、幸福、為了慈愍世間、為了人天的利益、饒益、幸福而如是行   -- p.211. (p.287.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ⊙ 此三位尊者為了多數人的饒益、幸福、為了慈愍世間、為了人天的利益、饒益、幸福而如是行   -- p.211. (p.287.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 32 牛角林大經 概要` :  (回 `MN 32`_ )
+- _`MN32 牛角林大經 概要` :  (回 `MN32`_ )
 
   * 本經緣住於牛角娑羅林之大目犍連、大迦葉、阿難、阿[少/兔]樓馱、舍利弗諸大德．謂為使牛角娑羅林之自然風光．更添光輝．應住何等比丘。於是各各自述其意．後轉白世尊．深得世尊之稱讚．且世尊於此亦自說一則。此中一一說法．皆能顯示各自之特徵。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7940,11 +8141,11 @@ Saḷāyatanavaggo 六處品
     - 大迦葉尊者→是阿蘭若住者，而且稱讚阿蘭若住者；是乞食者；是糞掃衣者；是持三衣者；是少欲者；是知足者；獨居者；不染於世；發勤精進；戒成就、定成就、慧成就、解脫成就、解脫知見成就   -- p.214. (p.290.)  
     - 摩訶目犍連尊者→ 有兩位比丘談阿毘達摩〔勝法〕，彼此相互發問，相互發問而不倦應答，而且彼此的法談是有益    -- p.214. (p.290.) 
     - 舍利弗尊者→於心自在，不被心所征服，他如何住定成就，無論在早晨、中午或晚上，隨其所欲的住定；如王或宰相有種種色的衣服在衣箱，無論在早晨、中午或晚上，隨其所欲的著用其衣服   -- p.214. (p.291.) 
-    - 世尊→比丘從行乞歸還食後，結跏趺坐，置身端正，正念面前，決意：只要我不從諸漏心解脫而成無取著者，不解此結跏跌坐。如此的比丘能夠輝耀牛角娑羅林   -- p.219. (p.296.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 世尊→比丘從行乞歸還食後，結跏趺坐，置身端正，正念面前，決意：只要我不從諸漏心解脫而成無取著者，不解此結跏跌坐。如此的比丘能夠輝耀牛角娑羅林   -- p.219. (p.296.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 36 薩遮迦大經 概要` :  (回 `MN 36`_ )
+- _`MN36 薩遮迦大經 概要` :  (回 `MN36`_ )
 
   * 本經亦敘說伏離繫徒薩遮迦．與前經同。但其內容．首說關於身修習．心修習者．於此加說薩遮迦所信奉之南陀縛迦、夷薩刪嶷遮、末伽黎瞿舍利所修苦行（此等苦行與長部迦葉師子吼經等相同）。次則世尊自說出家至坐金剛座情形。次說以鑽木出火三喻。次說世尊坐禪、苦行、絕食情形（與上師子吼大經第十二同）。次說成正道而得解脫。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7962,11 +8163,11 @@ Saḷāyatanavaggo 六處品
     - 世尊在菩薩時修少食、極少食、斷食行，身體、皮膚因少食而損壞   -- p.246. (p.333.)  
     - 菩薩想起釋迦王在農耕節時自己坐於畦畔的閻浮樹蔭下證得初禪的事   -- p.246. (p.334.) 
     - 菩薩成佛前所修→得四禪、三明   -- p.247~. (p.334~.) 
-    - 世尊在白天晝間有睡眠－在熱季最後月，乞食還、食後，敷展四疊大衣，右脅而臥，正念、正知而睡眠→外道認為是癡法，世尊辯明若捨污穢起後有的恐怖之諸漏即非癡法   -- p.249. (p.337.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 世尊在白天晝間有睡眠－在熱季最後月，乞食還、食後，敷展四疊大衣，右脅而臥，正念、正知而睡眠→外道認為是癡法，世尊辯明若捨污穢起後有的恐怖之諸漏即非癡法   -- p.249. (p.337.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 38 愛盡大經 概要` :  (回 `MN 38`_ )
+- _`MN38 愛盡大經 概要` :  (回 `MN38`_ )
 
   * 本經緣比丘嗏帝．以識流轉之邪見．主張是佛說．佛乃與諸比丘互為問答．而匡正彼之誤解而誡之。內容說識緣生、食所成、食因緣、十二因緣及得知見者之態度．苦蘊集與滅等。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -7981,11 +8182,11 @@ Saḷāyatanavaggo 六處品
     - 愛以受為緣→受以觸為緣→觸以六處為緣→六處以名色緣→名色以識為緣→識以行為緣→行以無明為緣。緣無明而有行，緣行而有識，緣識而有名色，緣名色而有六處，緣六處而有觸，緣觸而有受，緣受而有愛，緣愛而有取，緣取而有有，緣有而有生，緣生而有老死、愁、悲、苦、憂、惱，如是整個苦蘊的集起   -- p.261~. (p.351~.)  
     - 如是知，如是見緣起的生滅則不會有對過去、未來、現在的十六種懷疑   -- p.264~5. (p.357.)  
     - 三事和合而入母胎：有父母之會合，母親有經水，乾闥婆（gandhabba）現前   -- p.265. (p.358.) 
-    - 如來出世→居士聞法→捨家出家→持戒（大、中、小戒、威儀）→衣食知足→守護六根→舉止正知、正念→遠離獨處→除蓋→得四禪→證三明   -- p.267~. (p.360~.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 如來出世→居士聞法→捨家出家→持戒（大、中、小戒、威儀）→衣食知足→守護六根→舉止正知、正念→遠離獨處→除蓋→得四禪→證三明   -- p.267~. (p.360~.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 39 馬邑大經 概要` :  (回 `MN 39`_ )
+- _`MN39 馬邑大經 概要` :  (回 `MN39`_ )
 
   * 本經是世尊在鴦伽國馬邑聚落時．說關於為真沙門之法。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -8001,11 +8202,11 @@ Saḷāyatanavaggo 六處品
     - 通達〔明智〕者→已知未來的諸惡不善法、雜染、再有、不幸、苦報、生、老、死   -- p.280. (p.375.) 
     - 通聖典者→已流失未來的諸惡不善法、雜染、再有、不幸、苦報、生、老、死   -- p.280. (p.375.) 
     - 聖者→已隔離未來的諸惡不善法、雜染、再有、不幸、苦報、生、老、死   -- p.280. (p.375.) 
-    - 阿羅漢→已隔離未來的諸惡不善法、雜染、再有、不幸、苦報、生、老、死   -- p.280. (p.375.)  （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 阿羅漢→已隔離未來的諸惡不善法、雜染、再有、不幸、苦報、生、老、死   -- p.280. (p.375.)  （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 40 馬邑小經 概要` :  (回 `MN 40`_ )
+- _`MN40 馬邑小經 概要` :  (回 `MN40`_ )
 
   * 本經與前經同．亦在馬邑說．內容所說是關於沙門正道法。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -8013,11 +8214,11 @@ Saḷāyatanavaggo 六處品
 
   * 
     - 順沙門的正道→凡比丘在有貪欲者捨貪欲，有瞋恚者捨瞋恚，有忿怒者捨忿怒，有懷恨者捨懷恨，有覆者捨覆，有惱害者捨惱害，有嫉者捨嫉，有慳者捨慳，有誑者捨誑，有欺瞞者捨欺瞞，有惡欲者捨惡欲，有邪見者捨邪見。對這些沙門垢、沙門瑕、沙門過失捨受生惡趣、惡趣因。由隨觀淨化一切諸惡不善法，由令解脫而生歡喜，有歡喜者即生喜悅，有喜悅者身則輕安，身輕安者則受樂，有樂者心則得定→以慈俱心；以悲俱心；以捨俱心遍滿一切處，廣大無量   -- p.283~. (p.379~.) 
-    - 若有王族、婆羅門、吠舍、首陀羅以在家為行者，他來如來所教之法、律，如此修習慈、悲、喜、捨，內得寂靜，由等持而得寂靜，此謂順沙門正道；若有王族、婆羅門、吠舍、首陀羅由在家而出家行者，他滅盡諸漏，於現法中自知、自證，到達無漏、心解脫、慧解脫，則成為漏盡的沙門   -- p.284. (p.380.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 若有王族、婆羅門、吠舍、首陀羅以在家為行者，他來如來所教之法、律，如此修習慈、悲、喜、捨，內得寂靜，由等持而得寂靜，此謂順沙門正道；若有王族、婆羅門、吠舍、首陀羅由在家而出家行者，他滅盡諸漏，於現法中自知、自證，到達無漏、心解脫、慧解脫，則成為漏盡的沙門   -- p.284. (p.380.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 41 娑羅村經 概要` :  (回 `MN 41`_ )
+- _`MN41 娑羅村經 概要` :  (回 `MN41`_ )
 
   * 本經緣薩羅村婆羅門居士等向世尊問．關於死後生惡趣善趣之差別．以何為因。世尊答之以行非法行與非正道行．及行法行與正道行為其因．且於是等詳為宣示。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -8036,11 +8237,11 @@ Saḷāyatanavaggo 六處品
     - 貪欲者→對他人的財物、資具懷有貪欲，想他人的財物將是我的財物   -- p.287. (p.3.) 
     - 瞋恚者 → 瞋忿而思惟： 這樣的有情當令殺之，當令屠殺，當令斬斷，當令滅亡，勿使存在 -- p.287. (p.3.)  
     - 邪見者→持顛倒之見：無布施（的功德），無犧牲（的功德），無供養（的功德），無善、惡業的果報，無此世，無他世，無母，無父，無諸化生有情，在世間無諸沙門婆羅門的正行、正道，他們對此世間自知、自證而教化的   -- p.287. (p.4.)  
-    - 若法行者、正行者想：呀，願我身壞命終生於豪勢的王族！當他在身壞命終後生於豪勢的王族，是有可能的；四天王天；忉利天；夜摩天……；廣果天……；非想非非想處天；諸漏滅盡，是有可能的   -- p.289. (p.6.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 若法行者、正行者想：呀，願我身壞命終生於豪勢的王族！當他在身壞命終後生於豪勢的王族，是有可能的；四天王天；忉利天；夜摩天……；廣果天……；非想非非想處天；諸漏滅盡，是有可能的   -- p.289. (p.6.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 46 得法大經 概要` :  (回 `MN 46`_ )
+- _`MN46 得法大經 概要` :  (回 `MN46`_ )
 
   * 本經開始於說示人之所樂欲法衰退．所不樂欲法增廣．及其相反之所樂欲法增廣．所不樂欲法衰退．究依如何之理由。次之以不同之方法說明與前經相同之問題。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
@@ -8051,32 +8252,32 @@ Saḷāyatanavaggo 六處品
     - ⊙ 有受法為現在樂，未來受苦報→有些人伴有樂、喜而殺生等造十不善業，在身壞命終後，生於苦界、惡趣、墮處、地獄→色、香、味俱佳的飲物混合毒物，無論色、香、味俱令人歡喜，在食之當至死或受等於死之苦   -- p.313 ;315. (p.38 ;40.)  
     - ⊙ 有受法為現在苦、未來受苦報→有些人伴有苦、憂而殺生等造十不善業，在身壞命終後，生於苦界、惡趣、墮處、地獄→如有苦瓜混合毒物，無論色、香、味俱不令人歡喜，在食之當至死或受等於死之苦   -- p.313 ;315. (p.37 ;40.) 
     - ⊙ 有受法現在苦、未來受樂報→ 有些人伴有苦、憂而離殺生等造十善業，在身壞命終後，生於善趣、天界→如腐尿混諸藥物，無論色、香、味俱不令人歡喜，患黃膽病者若服之則得快樂    -- p.314 ;316. (p.38 ;40.)  
-    - ⊙ 有受法現在樂、未來受樂報→有些人伴有樂、喜而離殺生等造十善業，在身壞命終後，生於善趣、天界→如酪、蜜、熟酥及糖共混合之，無論色、香、味俱令人歡喜，患赤痢者若服之則得快樂   -- p.315 ;316. (p.39 ;41.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ⊙ 有受法現在樂、未來受樂報→有些人伴有樂、喜而離殺生等造十善業，在身壞命終後，生於善趣、天界→如酪、蜜、熟酥及糖共混合之，無論色、香、味俱令人歡喜，患赤痢者若服之則得快樂   -- p.315 ;316. (p.39 ;41.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 47 思察經 概要` :  (回 `MN 47`_ )
+- _`MN47 思察經 概要` :  (回 `MN47`_ )
 
   * 本經中所說．云何為如來及關於如來性之思察方法。（《南傳中部經典》； **芝峯** 譯(華宇) [7]_ ）
 
   * 本經乃如何是如來，說明對于如來性之吟味方法。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
-  * 觀察他心的比丘，當以二法病觀思察如來：以眼與耳可識諸法→觀察是否有雜染法→是否有純淨法→此善法的長時還是暫時性的→若其他長老、比丘也無此等過患→是否無畏而節制自己→是否脫離貪欲根，滅盡貪欲，不親近欲→即可結論：此長老為無畏而節制自己，非有畏而節制自己，脫離貪欲，滅盡貪欲，不親近欲者→對三寶有淨信：世尊是正等覺者，法由世尊所善說，僧伽是善行道者   -- p.318~. (p.42~.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+  * 觀察他心的比丘，當以二法病觀思察如來：以眼與耳可識諸法→觀察是否有雜染法→是否有純淨法→此善法的長時還是暫時性的→若其他長老、比丘也無此等過患→是否無畏而節制自己→是否脫離貪欲根，滅盡貪欲，不親近欲→即可結論：此長老為無畏而節制自己，非有畏而節制自己，脫離貪欲，滅盡貪欲，不親近欲者→對三寶有淨信：世尊是正等覺者，法由世尊所善說，僧伽是善行道者   -- p.318~. (p.42~.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 52 八城經 概要` :  (回 `MN 52`_ )
+- _`MN52 八城經 概要` :  (回 `MN52`_ )
 
   * 本經八城人第十者，問阿難，佛說法中於一法有得解脫者耶?對此阿難答，教以四禪、四無量心、及空無邊、識無邊，無所有之三處。北傳 兩譯，皆謂此事以世尊入滅後。且加上非想非非想處為十二門。其他大體一致。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
   * 
     - 本經為阿難陀尊者對八城的第十居士（Dasama gahapati aṭṭhakanāgara）所説   -- p.349. (p.88.) 
 
-    - ⊙ 世尊所說的一法，若精進不放逸、精勤的比丘在尚未解脫的心則解脫之，尚未滅盡諸漏則滅盡之，尚未逮得無上瑜伽安穩則逮得之－成就初禪而住，思惟而了知：此初禪是造作，是有思慮，凡是造作、有思慮的，彼即是無常、滅法→證阿羅漢或不還；第二禪；第三禪；第四禪；修慈；修悲；修喜；修捨；空無邊處；識無邊處；無所有處   -- p.349~. (p.88~.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ⊙ 世尊所說的一法，若精進不放逸、精勤的比丘在尚未解脫的心則解脫之，尚未滅盡諸漏則滅盡之，尚未逮得無上瑜伽安穩則逮得之－成就初禪而住，思惟而了知：此初禪是造作，是有思慮，凡是造作、有思慮的，彼即是無常、滅法→證阿羅漢或不還；第二禪；第三禪；第四禪；修慈；修悲；修喜；修捨；空無邊處；識無邊處；無所有處   -- p.349~. (p.88~.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 54 哺多利經 概要` :  (回 `MN 54`_ )
+- _`MN54 哺多利經 概要` :  (回 `MN54`_ )
 
   * 本經敘元外道之信徒，居士哺多利，聞世尊之說法，成為世尊之信徒。說法之內容，即八法(不殺生，不偷盜，實語，不兩舌，不貪欲，不瞋恚，不忿惱，不過慢。)及欲之七喻(骸骨、肉塊、炬火坑、夢、借財、樹果。)與北傳大約一致。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8092,11 +8293,11 @@ Saḷāyatanavaggo 六處品
       * 4.炭坑→有充滿無焰、無煙還在燃燒火炭的火坑，有一人欲生而不欲死，有兩強力男子欲捉此人丟入該火坑，該人會掙扎，否則若落入該火坑，當受死或瀕死之苦  
       * 5.夢→如人在夢中看見可愛的園、林、土地、蓮池，但在醒後不見任何的夢中物  
       * 6.借用物→如有人借用豪華車乘、殊妙的珠寶，他以這些借來的財物莊嚴、圍繞而到市集處，人們看見時就説：這個人是富豪，富豪所享受的即是如此。當此人看到物主時，即生害怕，因為主人將取回去  
-      * 7.果樹→如在村落的附近有茂密的叢林，該處有已成熟果樹，有人，欲求果而來此地，並攀登樹上，儘其所需而食，且裝滿袋子；又有第二欲求果的人來此，他不會攀樹而欲將此樹幹砍斷以儘其所需地食，且裝滿袋子，該先攀登樹上的人若不速下來，在該樹倒下時，他當跌壞手、足或其肢節，而受死或等於死之苦   -- p.364~. (p.107~.)   （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+      * 7.果樹→如在村落的附近有茂密的叢林，該處有已成熟果樹，有人，欲求果而來此地，並攀登樹上，儘其所需而食，且裝滿袋子；又有第二欲求果的人來此，他不會攀樹而欲將此樹幹砍斷以儘其所需地食，且裝滿袋子，該先攀登樹上的人若不速下來，在該樹倒下時，他當跌壞手、足或其肢節，而受死或等於死之苦   -- p.364~. (p.107~.)   （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 57 狗行者經 概要` :  (回 `MN 57`_ )
+- _`MN57 狗行者經 概要` :  (回 `MN57`_ )
 
   * 本經乃世尊對牛行者(學牛之行動能得解脫)芬那及狗禁行者(學狗之動作可得解脫。)仙尼耶，說業之果報。其結果芬那成在家信者，仙尼耶即為比丘而後成為阿羅漢。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8110,11 +8311,11 @@ Saḷāyatanavaggo 六處品
       - 3.黑白業而黑白報→有人以有恚亦無恚的心而造作身行、口行、意行，因其行而往生亦有恚亦無恚界，觸亦有恚亦無恚之觸，感受混合苦樂的亦有恚亦無恚受，如生於人間、諸天或諸墮惡處者 
       - 4.非黑非白業而非黑非白報而導至業盡→他捨棄黑業黑報的思，捨棄白業白報的思，捨棄黑白業黑白報的思   -- p.389~. (p.139~.) 
     
-    - 在世尊説完此法後，拘利耶的牛禁行者芬那歸依三寶為在家居士；裸形的狗行者仙尼耶請求四個月別住出家受具足戒，並證阿羅漢   -- p.391~. (p.141~.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 在世尊説完此法後，拘利耶的牛禁行者芬那歸依三寶為在家居士；裸形的狗行者仙尼耶請求四個月別住出家受具足戒，並證阿羅漢   -- p.391~. (p.141~.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 60 無疑經 概要` :  (回 `MN 60`_ )
+- _`MN60 無疑經 概要` :  (回 `MN60`_ )
 
   * 本經是世尊對薩羅村之婆羅門居士眾所說的，其內容是關於無戲論。其無戲論之法者，可以說是消滅多支多樣之戲論，以實踐根本中道之意義。若有善實修此無戲論法之時，亦即消滅邪見，依於正見之實修時也。當時舉說種種之戲論而揚止之。其種種之戲論者：一、善惡業果報之有、無，二、有作用說及無作用說，三、無因論與有因論，四、無色界之有無，五、涅槃之有無等。最後與中部第五十一經乾達羅迦經之四種人，大約同樣。另外，關於本經之戲論，參照長部第二經之沙門果經等。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8123,11 +8324,11 @@ Saḷāyatanavaggo 六處品
     - ◎ 若沙門、婆羅門如此主張、見解：無布施、無供犧牲、無供養、無善惡業果報，無此世、無他世，無母、無父，無化生有情，世間沒有正行道的沙門、婆羅門，在自己以通智作證後教化此世、他世。他們可望離去身善行、口善行、意善行三善法，而受持身惡行、口惡行、意惡行三不善法。因為他們不見諸不善法的過患、缺失、雜染，不見諸善法的離欲功德與清淨一面。實有他世而他有此見：無有他世。他即懷有邪見、邪思惟、邪語、與知他世界的阿羅漢作敵對，對他人教導非正法。由其教導非正法而自讚、毀他。如此他捨棄前有的善戒，而現起惡戒；又此邪見、邪思惟、邪語、及與諸聖者作敵對、教導非正法、自讚、毀他，如是無數諸惡不善法，乃緣邪見而生起   -- p.401. (p.156.) 
     - ⊙ 當智者觀察：若實無他世，則此人在身壞命終將自作安穩；若實有他世，則此人身壞命終當投生苦界、惡趣、墮處、地獄。不管是否有他世界，或諸沙門、婆羅門所説的是否真實，然此人在現法當被諸智者呵責：是惡戒人，是邪見的虛無論者。若實有他世，則此人有兩種不幸：在現法被諸智者呵責，身壞命終當投生苦界、惡趣、墮處、地獄   -- p.403. (p.157.)  
     - 主張：無論如何傷害人的事，其作者、令作者、切者、令切者、烤者、令烤者、令愁者、令折磨者、戰慄者、令戰慄者、令殺生者、令不與取者、穿入家者、掠奪者、盜竊者、搶劫者、通姦者、妄語者，如此作者並造作無罪；又以利劍輪將此大地之生類作成一肉聚、一肉山，由其因緣，無有罪惡、無有罪惡的果報；又於恆河的南岸，殺害、截、令截、烤、令烤，由其因緣，無有罪惡、無有罪惡的果報；又在恆河的北岸布施、令布施、祭祀、使令祭祀，由其因緣，無功德，無功德的果報；依布施、依調御、依自制、依實語，也無功德、無功德的果報→實有作業而他持有此見：無所作業。的邪見、邪思惟、邪語等……   -- p.404~. (p.159~.)  
-    - 世間有四種人→自修苦行者；修使他苦之行者；修自苦行，也修使他苦之行；不修自苦之行，也修不使他苦之行，於現法(現在世)、無貪欲、達涅槃、清涼、受樂→如來出世→居士聞法→捨家出家→持戒（大、中、小戒、威儀）→衣食知足→守護六根→舉止正知、正念→遠離獨處→除蓋→得四禪→證三明   -- p.411~. (p.169~.)（《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 世間有四種人→自修苦行者；修使他苦之行者；修自苦行，也修使他苦之行；不修自苦之行，也修不使他苦之行，於現法(現在世)、無貪欲、達涅槃、清涼、受樂→如來出世→居士聞法→捨家出家→持戒（大、中、小戒、威儀）→衣食知足→守護六根→舉止正知、正念→遠離獨處→除蓋→得四禪→證三明   -- p.411~. (p.169~.)（《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 61 教誡羅睺羅經 概要` :  (回 `MN 61`_ )
+- _`MN61 教誡羅睺羅經 概要` :  (回 `MN61`_ )
 
   * 本經是世尊以水盤之譬喻，王象之譬喻教誡羅喉羅。說法之要點，應時常反省，以淨化身、口、意之行。大綱與北傳雖然一致，但文意即有所不同。又，王象之譬喻的後面，有相當於巴利文法句經三〇六、三〇八之偈，又最後亦有偈。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8143,11 +8344,11 @@ Saḷāyatanavaggo 六處品
     
     - ◎ 凡是故意妄語的無愧者，世尊説是：無惡不作者   -- p.415. (p.174.) 
     - ⊙ 鏡子的目的是為了省察自己，所以應當省察身業、語業、意業→若此身業會引起自害、害他或俱害者，此身業即是不善，會帶來苦果、苦報，應當不造作之   -- p.415. (p.174.)  
-    - 所造不善的身、語業應對師長、智者或同梵行者懺悔、發露之，並守護未來不再重犯；所造不善的意業應當厭離、可恥、厭惡之，並守護未來不再重犯   -- p.417. (p.175.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 所造不善的身、語業應對師長、智者或同梵行者懺悔、發露之，並守護未來不再重犯；所造不善的意業應當厭離、可恥、厭惡之，並守護未來不再重犯   -- p.417. (p.175.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 63 摩羅迦小經 概要` :  (回 `MN 63`_ )
+- _`MN63 摩羅迦小經 概要` :  (回 `MN63`_ )
 
   * 本經是摩羅迦子對世尊，如果世尊不說世界之常無常等之諸論，自己便還俗。世尊即教之此議論，因為不是導至止覺涅槃，故予不說之。予說四諦之法，是可以導至正登涅槃。說有名的毒箭之喻。與北傳大約一致。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8156,11 +8357,11 @@ Saḷāyatanavaggo 六處品
     - ◎ 摩羅迦子（Mālukyaputta）尊者因世尊未向他解説「世間是常」等十無記事而感到不滿，並想：若世尊不能回答這十無記事，他即要還俗；世尊説：他並未曾答應人要對他説「世間是常」等十無記事，而請人來修梵行   -- p.428. (p.190.) 
     - ⊙ 箭喻→如有人被塗毒的箭所射，其親友請箭醫為他治療，然而他説：當還不知道射我的人是剎帝利，……則請不要把箭拔出；……，弓；弓弦；箭幹；箭頭，……請不要把箭拔出，如此，當他還未知道之前，此人就可能已經命終了；在尋求「世間是常」等也是一樣，在如來尚未解說此時，則此人可能已經命終了   -- p.429. (p.191.) 
     - ⊙ 世尊所不記說的，當受持不記說→十無記事；世尊所記說的，當受持記說→四聖諦   -- p.431. (p.194.)  
-    - ◎ 世尊不回答十不記事→由於不與利益相應，非梵行的根本，無法導至出離、離欲、寂靜、證悟、正覺、涅槃，所以世尊不回答   -- p.431. (p.194.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ◎ 世尊不回答十不記事→由於不與利益相應，非梵行的根本，無法導至出離、離欲、寂靜、證悟、正覺、涅槃，所以世尊不回答   -- p.431. (p.194.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 64 摩羅迦大經 概要` :  (回 `MN 64`_ )
+- _`MN64 摩羅迦大經 概要` :  (回 `MN64`_ )
 
   * 本經是有關摩羅迦子受持五下分結之教而言。世尊質其意義，且應阿難之請，說明五下分結，并說明其捨離之道。與北傳本之大綱雖是一致，但後面，巴利文沒有二譬喻。即於水流作筏而渡；芭蕉任切之，節節無實。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8168,11 +8369,11 @@ Saḷāyatanavaggo 六處品
     - 幼稚的嬰兒不懂得「有身」等觀念，有沒有五下分結呢？   -- p.432. (p.196.)  
     - ⊙ 五下分結→無聞凡夫不識聖者，不識知聖法，未被聖法所調教，不識善人，不識知善人之法，未被善人之法所調教，其心被有身見所纏縛，被有身見所征服而住，而且對所生的有身見不如實知出離；其有身見頑強、難以調伏，則為下分結。其心被疑所縛，……   -- p.433. (p.197.)  
     - ◎ 捨離五下分結有道、有行道，不依其道、行道，而欲知、見、捨斷五下分結者，是不可能的→捨離五下分結的道、有行道－比丘離依，捨諸不善法，止息一切身的粗惡，離諸欲，離諸不善法的有尋、有伺，離生喜樂的初禪具足住。他從無常、苦、疾、癰、箭刺、禍、病、他、敗壞、空、無我而觀照該處的色、受、想、行、識諸法。其心從那些諸法解脫，當其心從那些諸法解脫後，則心現起不死界：此是寂靜，此是殊勝，即一切行止息，一切依的捨，愛盡、離欲、滅、涅槃。」他處在該處證得諸漏滅盡；假如並未證得諸漏滅盡，就以該法愛、法喜而滅盡五下分結，成為化生者，在該處般涅槃，不還來此世間；第二禪；第三禪；第四禪；空無邊處；識無邊處；無所有處……    -- p.434. (p.198.) 
-    - ◎ 雖然由此道、行道而捨斷五下分結，但由於弟子們的根性差別，所以有些人為心解脫者，有一些人為慧解脫者   -- p.437. (p.201.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ◎ 雖然由此道、行道而捨斷五下分結，但由於弟子們的根性差別，所以有些人為心解脫者，有一些人為慧解脫者   -- p.437. (p.201.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 65 跋陀利經 概要` :  (回 `MN 65`_ )
+- _`MN65 跋陀利經 概要` :  (回 `MN65`_ )
 
   * 本經是世尊，最初制定一坐食，跋陀利比丘不順從此。而後，後悔敘懺罪容赦。其次，世尊因此：應從師教，於順次必須處罰療治，即敘調馬法之喻說。與北傅之中含大綱一致，和增含四九七(大正藏二、八00頁。)唯前部相合而已。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8182,11 +8383,11 @@ Saḷāyatanavaggo 六處品
     - ⊙ 在大師之教學未圓滿的比丘，由於大師責難之、有智的同梵行者、諸天、以及自己責難之，即使他從事遠離的住處、森林、樹下、山巖、石窟、塚間、露地等欲證上人法，聖者的殊勝智見，也是不可能證得的，因不他在大師之教學未圓滿   -- p.440. (p.206.)  
     - 在大師之教學已圓滿的比丘，由於大師不責難之、有智的同梵行者、諸天、以及自己不責難之，當他從事遠離的住處、森林、樹下、山巖、石窟、塚間、露地等欲證上人法，聖者的殊勝智見，由他在大師之教學圓滿，則可以證得初禪、第二禪、第三禪、第四禪，由心得等持、清淨、遍淨、清白、無穢、離隨煩惱，柔軟、適業、住立於不動心，則可證得宿住隨念智、有情死生智（天眼明）、諸漏盡智   -- p.441~. (p.206~.) 
     - ◎早期所制的學處較少而證道的比丘較多；而後來所制的學處較多而證道的比丘較少→因諸有情衰落、正法漸滅渡、僧團有勝利養、僧團有勝名聞、僧團達廣大，當有少許漏法出現在僧團中時，大師為了防禦那些漏法，而為諸弟子制定學處   -- p.445. (p.211.)  
-    - ⊙ 具足十無學法的比丘為應供養者、應招請者、應布施者、應合掌禮拜者，為世間無上福田：比丘具足無學正見、無學思惟、無學正語、無學正業、無學正命、無學正精進、無學正念、無學正定、無學正智，具足無學正解脫   -- p.446. (p.213.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ⊙ 具足十無學法的比丘為應供養者、應招請者、應布施者、應合掌禮拜者，為世間無上福田：比丘具足無學正見、無學思惟、無學正語、無學正業、無學正命、無學正精進、無學正念、無學正定、無學正智，具足無學正解脫   -- p.446. (p.213.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 66 鶉喻經 概要` :  (回 `MN 66`_ )
+- _`MN66 鶉喻經 概要` :  (回 `MN66`_ )
 
   * 本經因優陀夷讚歎世尊之教用心周到。世尊教其應脫離一切縛，因此，喻鶉縛於朽蔓而至死，王象雖縛於強固之革索，亦容易切斷。貧人被貪財所縛，富者捨富財而出家等喻。其次，說關於縛與離縛有四種人；有非聖與聖之二樂，及從初禪，次弟至滅盡定完全無縛，和北傳的大意相合，字句有不少差異之處。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8196,11 +8397,11 @@ Saḷāyatanavaggo 六處品
     - ⊙ 通常居士會在夜間供養比較勝妙的飲食   -- p.448. (p.216.) 
     - ⊙ 過去當比丘們在夜晚、黑夜行乞聽，有時陷入村落的入口池，有時掉落污水溝，有時走入荊棘叢，有時撞到牛，有時遭遇盜賊。過去優陀夷尊者自己在黑夜行乞，一位婦女在洗容器，正好在打雷的電光中看見尊者而驚叫：啊，有鬼。尊者對該婦女説：賢妹，非鬼，而是比丘因乞食而站立在這裡啊。該婦女咒説曰：即使比丘的父母死，即使以銳利屠刀切您的腹，也不要在黑夜因腹而行乞   -- p.448~. (p.216~.)  
     - ⊙ 有一些愚癡人，當世尊正在説：應當捨此。他們則説：為什麼在這些微小的瑣細如此在意呢？這沙門是過度削減欲者啊。他不但不捨於此，而且也向世尊抱不滿   -- p.449. (p.217.)  
-    - 世尊教誡：這些五種妙欲所生的樂、喜是欲樂、穢樂、凡夫樂、非聖樂，不應習行此樂，不應修習，不應多作，應當怖畏該樂；初禪；第二禪；第三禪；第四禪所生的樂是離欲樂、遠離樂、寂靜樂、正覺樂，應習行此樂，應修習，應多作，不應怖畏該樂   -- p.254. (p.223.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 世尊教誡：這些五種妙欲所生的樂、喜是欲樂、穢樂、凡夫樂、非聖樂，不應習行此樂，不應修習，不應多作，應當怖畏該樂；初禪；第二禪；第三禪；第四禪所生的樂是離欲樂、遠離樂、寂靜樂、正覺樂，應習行此樂，應修習，應多作，不應怖畏該樂   -- p.254. (p.223.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 70 枳吒山邑經 概要` :  (回 `MN 70`_ )
+- _`MN70 枳吒山邑經 概要` :  (回 `MN70`_ )
 
   * 本經是對居枳吒山邑之阿濕貝及弗那婆修二比丘行非時食，世尊為之說法，其趣旨，第一，佛不說任何受皆一概受之，說應吟味一一之受而取捨之，第二，對任何比丘亦不說一概不放逸，於此說明具分解脫、慧解脫、身證、見到、信解、隨法行、隨信行之七人。北傳之大綱雖是一致，但有不少差異之處。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8209,11 +8410,11 @@ Saḷāyatanavaggo 六處品
     - ⊙ 世尊教導：凡是樂受、苦受或不苦不樂受都有諸不善法轉減，諸善法將轉增及諸不善法轉增，諸善法將轉減。當在世尊所教導的諸不善法轉減，諸善法將轉增之樂等受而受持之，在諸不善法轉增，諸善法將轉減的受當捨斷之   -- p.475. (p.251.)  
     - ◎ 俱解脫者、慧解脫者、身證者、見得者、信解者、隨法行者、隨信行者七聖人中，前二者不可能會放逸   -- p.477. (p.254.) 
     - ◎ 成就完全智的次第→生信→往詣→恭敬→傾耳→聽法→憶持法→考察法義→審諦容忍法→生志欲→力行→考量→精勤→以身自證最上諦、以慧對最上諦見通達之   -- p.480. (p.257.)  
-    - ◎ 有信的弟子對大師之教若已深解、奉行，則能：即使我此身唯留皮、腱、骨而血肉乾燥，仍以大丈夫的剛毅、精進、勇猛，若所應得者尚未得時，即不停止精進   -- p.481. (p.259.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ◎ 有信的弟子對大師之教若已深解、奉行，則能：即使我此身唯留皮、腱、骨而血肉乾燥，仍以大丈夫的剛毅、精進、勇猛，若所應得者尚未得時，即不停止精進   -- p.481. (p.259.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 75 摩犍提經 概要` :  (回 `MN 75`_ )
+- _`MN75 摩犍提經 概要` :  (回 `MN75`_ )
 
   * 本經是普行者摩犍提，被世尊所說伏，遂為佛教之比丘而成為阿羅漢。說法之內容，於五種欲份，應制御五根，以世尊自己在家時之實例，如生於天界者，不羨望人間之樂。以及癩病者之喻，不離欲者，即不得心之寂靜，及有盲人之喻。北傳大綱和此合致。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8221,11 +8422,11 @@ Saḷāyatanavaggo 六處品
     - 如來所調御眼以守護、保護、防護所好色、愛好色、喜悅色，也為防護眼而說法；耳；鼻；舌；身；意，……對遍行者的教義而言：沙門瞿曇是世間的破壞者   -- p.503~. (p.290~.) 
     - ◎ 俗人之染著、著迷五欲，如生癩病者，肢體生瘡，肢體腐爛，以爪搔裂瘡口及在火坑旁燒身以暫時止癢→其實是顛倒想   -- p.506. (p.295.)  
     - ◎ 無病第一利，涅槃第一樂，聖之八正道，至安穩不死   -- p.508. (p.298.) 
-    - 摩犍提遍行者隨佛出家，別住四個月，在受具足戒後，婆蹉尊者獨住、遠離、不放逸、精勤地修行，不久後即證得阿羅漢   -- p.513. (p.303.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 摩犍提遍行者隨佛出家，別住四個月，在受具足戒後，婆蹉尊者獨住、遠離、不放逸、精勤地修行，不久後即證得阿羅漢   -- p.513. (p.303.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 77 善生優陀夷大經 概要` :  (回 `MN 77`_ )
+- _`MN77 善生優陀夷大經 概要` :  (回 `MN77`_ )
 
   * 本經乃普行者善生優陀夷，對六師外道，不受其弟子之尊敬，其弟子叛離而尊敬、信順世尊，對其理由，舉少食、衣食住之少欲知足、遠離之五種，世尊謂非此五種，以示其次之五項，即：最上戒蘊之成就，自證自知，最上慧蘊之成就，沈於苦者，即說苦、集、滅、道之聖諦，及四念處、四正勤、四神足、五根、五力、七覺支、八聖道、八解脫、八勝處、十偏處、四禪、知身是色所成、四大所成、父母所成而無常變壞。說他身化作，神通智、天耳智、他心智、宿命智、天眼智、漏盡智之行道。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8237,11 +8438,11 @@ Saḷāyatanavaggo 六處品
       * 2.欲修習勝智見  
       * 3.欲修習增上慧  
       * 4.當弟子被苦所征服而來問世尊苦聖諦、苦集、苦滅、苦滅道聖諦，世尊為他們解答使他們滿意 
-      * 5.世尊對諸弟子說行道，諸弟子如是實行，修習四念處、四正勤、四神足、五根、五力、七覺支、八聖道分、八解脫、八勝處、十遍、四禪，觀自己的色身由四大而成，為無常、滅、變壞、分散之法，種種神通、天耳通、他心通、宿命通、天眼通→諸漏滅盡   -- p.5~. (p.5~.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+      * 5.世尊對諸弟子說行道，諸弟子如是實行，修習四念處、四正勤、四神足、五根、五力、七覺支、八聖道分、八解脫、八勝處、十遍、四禪，觀自己的色身由四大而成，為無常、滅、變壞、分散之法，種種神通、天耳通、他心通、宿命通、天眼通→諸漏滅盡   -- p.5~. (p.5~.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 82 賴吒惒羅經 概要` :  (回 `MN 82`_ )
+- _`MN82 賴吒惒羅經 概要` :  (回 `MN82`_ )
 
   * 本經敘述喻蘆吒第一之良家子，賴吒恕羅聞世尊說法而出家之因緣。出家後成為阿羅漢，以訪其生家，對舊妻美裝之出迎而受食供養後，求彼岸者，如何之美飾亦不得惑，而述其意義之偈。次於拘牢婆王之鹿苑，由王問老、病、財、親族之四衰亡者而出家，此四衰亡，汝皆無任何一項，為何而出家?對此引世尊之說法，說此世間非堅固、無護、無所有、無滿足。於最後述此四種意義而說偈。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8257,22 +8458,22 @@ Saḷāyatanavaggo 六處品
 
       * 3.世間是沒有自己所有的、應捨棄一切的－如國王所享受的五種妙欲，在死後並無法再度享用，而是成為他人所擁有，並依業而運作 
 
-      * 4.世間是不足、沒有滿足，是愛的奴隸－如國王欲征服東、西、南、北方等國土繁榮，人民眾多之處，佔為己有是沒有滿足的   -- p.66~. (p.67~.)  （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+      * 4.世間是不足、沒有滿足，是愛的奴隸－如國王欲征服東、西、南、北方等國土繁榮，人民眾多之處，佔為己有是沒有滿足的   -- p.66~. (p.67~.)  （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 95 闡基經 概要` :  (回 `MN 95`_ )
+- _`MN95 闡基經 概要` :  (回 `MN95`_ )
 
   * 本經乃商伽婆羅門，自往世尊之處，以聞世尊解答迦婆提伽青年婆羅門所問之處，其所說之內容，婆羅門之傳承，說非達到絕對唯一真理的結論。對此，說有益於真理之護持、真理之覺證、真理之得達法。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
   * 
     - ⊙ 檢討所貪之法、所瞋之法、所癡之法，知清淨故生信→生信則往詣→往詣則恭敬→恭敬則傾耳→傾耳則聞法→聞法受持→受持法則究法的意義→究意義則法歡受→法歡受則志欲生→志欲生則勇猛→勇猛終則思量→思量終則精勤→不斷精勤則身證最上真實→以慧對其精細觀察→覺證真理   -- p.172~. (p.185~.) 
 
-    - 伽巴提迦青年婆羅門歸依三寶   -- p.177. (p.189.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 伽巴提迦青年婆羅門歸依三寶   -- p.177. (p.189.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 104 舍彌村經 概要` :  (回 `MN 104`_ )
+- _`MN104 舍彌村經 概要` :  (回 `MN104`_ )
 
   * 本經乃尼乾子死去，尼乾派生起論諍而分裂，沙彌周那住舍彌村以告阿難。阿難和周那諸世尊之處，憂慮世尊滅後僧伽生論諍而申白世尊，對此，世尊分付六諍根、四諍事，又生論諍時，應以七滅諍，及說應行持六可念法。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8281,11 +8482,11 @@ Saḷāyatanavaggo 六處品
     - ⊙ 六諍根→比丘有忿、恨－對彼大師、法、僧伽不恭敬，對學不為圓滿；有覆、有惱；有嫉、有慳；有諂、有誑；有惡欲、有邪見取著自見、起堅固執、難棄捨－……   -- p.245. (p.259.)  
     - 諍論諍事等四種諍事  -- p.247. (p.260.) 
     - 七滅諍法   -- p.245. (p.259.) 
-    - ⊙ 六和敬   -- p.250~. (p.263~.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ⊙ 六和敬   -- p.250~. (p.263~.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 108 瞿默目犍連經 概要` :  (回 `MN 108`_ )
+- _`MN108 瞿默目犍連經 概要` :  (回 `MN108`_ )
 
   * 本經乃佛滅後不久，摩羯陀王未生怨，疑縕逝尼王燈光，令修復國都王舍城之關聯，內容是阿闍世王之大臣禹舍和阿難起問答之經。此中阿難說現在世尊之教誡，沒有像世尊在世之具足，亦無依世尊之遺言，於佛滅後，推進教團為眾人所歸仰對像的上座，但唯以「法」為所依，是教團善和合之因。其法即舉十不喜法。而右之次，乃大臣禹舍問阿難獨住可適耶開始，阿離吏道說佛陀是禪定者，而善斷五蓋，欣賞禪定，又勸於四禪定。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8293,11 +8494,11 @@ Saḷāyatanavaggo 六處品
     - ⊙ 世尊般涅槃後不久   -- p.7. (p.287.)  
     - 世尊並非只以一比丘得以具足盡一切方法達到一切之法  -- p.8. (p.288.)  
     - ⊙ 諸比丘所恭敬、尊重、禮事者的十可喜法→(一)持戒；(二)多聞；(三）易滿足於衣、飲食、住處，病緣醫藥；(四)容易、無苦、無難得四禪；（五）得神變通；(六)得天耳通；(七)得他心通；(八)得宿命通；(九)得天眼通；(十)滅盡諸漏   -- p.11~. (p.292~.)  
-    - ⊙ 世尊所不讚歎的禪定→被欲貪等五蓋所纏而修的禪定；世尊所讚歎的禪定→初禪至第四禪   -- p.14~. (p.295~.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ⊙ 世尊所不讚歎的禪定→被欲貪等五蓋所纏而修的禪定；世尊所讚歎的禪定→初禪至第四禪   -- p.14~. (p.295~.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 117 四十大經 概要` :  (回 `MN 117`_ )
+- _`MN117 四十大經 概要` :  (回 `MN117`_ )
 
   * 本經無學之十法為八正道和正知、正解脫，以述正定為中心，為其方便之前七正道，正定為結果而說正智、正解脫。如第一之正見時，有正見、依正見而邪見滅、惡不善法隨滅、善法起之四門，同樣，其他之九法亦各有四門，十法即有四十法門，而成為經名。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8306,11 +8507,11 @@ Saḷāyatanavaggo 六處品
     - ◎ 世間、出世間的正見、正思惟、正語、正業、正命   -- p.72. (p.56.)  
     - 正見、正精進、正念可以幫助、隨轉起正見、正思惟、正語、正業、正命   -- p.72~. (p.56~.) 
     - ⊙ 具足八支的有學行道→八正道；具足十支的阿羅漢→八正道、正智、正解脫   -- p.76. (p.60.) 
-    - 由正見而滅邪見→緣於邪見而生起種種諸惡、不善法；緣於正見而修習遍滿種種善法→→由正思惟……   -- p.76. (p.60.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 由正見而滅邪見→緣於邪見而生起種種諸惡、不善法；緣於正見而修習遍滿種種善法→→由正思惟……   -- p.76. (p.60.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 118 安那般那念經 概要` :  (回 `MN 118`_ )
+- _`MN118 安那般那念經 概要` :  (回 `MN118`_ )
 
   * 本經乃諸大弟子和新學弟子等共集修行時，世尊對彼等，其比丘眾中，皆有己得阿羅漢者、得其他之諸沙門果者、得三十七道品、四無量心、不淨想、無常想者，更依修習入出息念，說當得四念處、七覺支、明解脫，其次詳說此等之修行法。即敘述入出息念之所謂十六特勝及如其各四個之次第，修各身受心法之四念處、由四念處之各各以圓滿七覺支，由七覺支成就明和解脫。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8319,20 +8520,20 @@ Saḷāyatanavaggo 六處品
     - ⊙ 世尊為了攝益新學比丘們，使他們生起殊勝之法，而在雨季第四個月的大自恣日才自恣→自恣的攝益   -- p.79. (p.64.)  
     - ⊙ 世尊説：在這比丘僧中，有些比丘是阿羅漢、不還者、一來者、預流者、致力精勤於修習四念處者、四正勤者、四神足者、五根者、五力者、七覺支者、八聖道支者、慈、悲、喜、捨、不淨、無常想，致力精勤於修習入出息念者   -- p.80~. (p.65~.)  
     - ◎ 修習、多作〔修習〕入出息念者，則能圓滿四念處。修習、多作〔修習〕四念處者，則能圓滿七覺支。修習、多作〔修習〕七覺支者，則能圓滿明（與）解脫   -- p.82. (p.66.) 
-    - 在修習念覺支時，依於遠離、依於離貪、依於滅，而導至捨遣；擇法覺支……捨覺支時，依於遠離、依於離貪、依於滅，而導至捨遣   -- p.88. (p.72.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - 在修習念覺支時，依於遠離、依於離貪、依於滅，而導至捨遣；擇法覺支……捨覺支時，依於遠離、依於離貪、依於滅，而導至捨遣   -- p.88. (p.72.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 120 行生經 概要` :  (回 `MN 120`_ )
+- _`MN120 行生經 概要` :  (回 `MN120`_ )
 
   * 本經說具足信、戒、聞、施、慧者，於來世隨自己之願求，得生剎帝利、婆羅門等人中之善趣、或六欲天、色界、無色界之諸天。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
   * 
-    - ⊙ 有比丘具足信、戒、聞、施捨、慧而思惟：在我身壞命終，當生於剎帝利中、婆羅門中、長者家中、四大王天、忉利天、夜摩天、兜率陀天、化樂天、他化自在天、千界梵天、二千界梵天、百千界梵天、少光天、無量光天、光音天、少淨天、無量淨天、遍淨天、廣果天、無煩天、無熱天、善見天、阿迦膩吒天、空無邊處天、識無邊處天、無所處天、非想非非想處天；諸漏滅盡將不生何處   -- p.100~. (p.84~.)（《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ⊙ 有比丘具足信、戒、聞、施捨、慧而思惟：在我身壞命終，當生於剎帝利中、婆羅門中、長者家中、四大王天、忉利天、夜摩天、兜率陀天、化樂天、他化自在天、千界梵天、二千界梵天、百千界梵天、少光天、無量光天、光音天、少淨天、無量淨天、遍淨天、廣果天、無煩天、無熱天、善見天、阿迦膩吒天、空無邊處天、識無邊處天、無所處天、非想非非想處天；諸漏滅盡將不生何處   -- p.100~. (p.84~.)（《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 135 分別業小經 概要` :  (回 `MN 135`_ )
+- _`MN135 分別業小經 概要` :  (回 `MN135`_ )
 
   * 本經乃世尊因婆羅門之青年耆婆之問，一一說明人生之短壽、長壽、多病、無病、醜美、權勢之有無、貧富貴賤、生利鈍差別之原因。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8352,11 +8553,11 @@ Saḷāyatanavaggo 六處品
     - （十一）出身低賤→傲慢與過慢，不禮敬應受禮敬者 
     - （十二）出身高貴→不傲慢也不過慢，禮敬應受禮敬者  
     - （十三）智慧暗昧→拜訪沙門或婆羅門時不請問：尊者，什麼是善，什麼是不善？等 
-    - （十四）智慧高超→拜訪沙門或婆羅門時請問：尊者，什麼是善？什麼是不善？等   -- p.203~. (p.204~.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - （十四）智慧高超→拜訪沙門或婆羅門時請問：尊者，什麼是善？什麼是不善？等   -- p.203~. (p.204~.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 140 界分別經 概要` :  (回 `MN 140`_ )
+- _`MN140 界分別經 概要` :  (回 `MN140`_ )
 
   * 佛乞宿陶師家一夜。其處既宿弗區沙提(弗加沙)比丘，其比丘出家未見過佛，雖佛進來亦不知是佛。佛與此比丘坐禪共過其夜，因此比丘甚是熱心，為彼詳說六界、六觸處、十八意行、四住處等。比丘依其說明，感知對方是自己絕對歸依之佛陀，以謝自己之不明和失禮，願授與具足戒。佛告其無衣者不能授與具足戒，彼出行求衣，彼於途中，被暴走牛所殺。諸比丘以此詣報佛，佛乃以彼比丘之進境及來世趣以示諸比丘等。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8369,22 +8570,22 @@ Saḷāyatanavaggo 六處品
     - ⊙ 應不放逸於慧，應護持於諦，應增長於捨，寂靜應當學   -- p.240. (p.250.)  
     - 弗加沙尊者向世尊懺悔其不識大師，而稱世尊為「賢友」   -- p.247. (p.256.) 
     - ◎ 弗加沙欲隨世尊受具足戒，在出去求衣、缽時被母牛牴死   -- p.247. (p.257.)  
-    - ◎ 弗加沙善男子死時已證不還果   -- p.247. (p.257.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ◎ 弗加沙善男子死時已證不還果   -- p.247. (p.257.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 146 難陀迦教誡經 概要` :  (回 `MN 146`_ )
+- _`MN146 難陀迦教誡經 概要` :  (回 `MN146`_ )
 
   * 難陀迦為比丘尼詳說六根六境六識之苦無常無我。更以譬喻說，教修習七覺支，應得漏盡解脫。世尊對難陀迦，為得比丘尼等之十分理解，說今日和明天亦應同一教誡。難陀迦翌日亦照前進行。世尊說五百比丘尼之最下者亦得預流果。想本經與法華經之女人授記相關連，最有興味。應注意於此處已有五百比丘尼之數，特別是本經中，不說如法華經女人之變成男子而後成佛，唯記最先的第一果等，是應注目之處。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
   * 
     - ⊙ 在順次輪到難陀咖尊者教誡諸比丘尼時難陀咖尊者不願教誡諸比丘尼，世尊告訴難陀咖尊者：你是婆羅門應對諸比丘尼說法   -- p.270. (p.289.)  
     - ◎ 難陀咖尊者教誡諸比丘尼的內容→眼是常或無常呢？→無常者是苦或樂呢？→無常、苦、變易法是我、我所有、我的自我嗎？；耳……→六內處是無常；色是常或無常呢？→無常者是苦或樂呢？→無常、苦、變易法是我、我所有、我的自我嗎？；聲……→六外處是無常；眼識是常或無常呢？→無常者是苦或樂呢？→無常、苦、變易法是我、我所有、我的自我嗎？；耳識……→六識身是無常；如燃油燈，油是無常變易法，炷也無常變易法，焰也無常變易法，光也無常變易法→七覺支修習、多修習，則滅盡諸漏，於現世得無漏心解脫、慧解脫。依遠離、依離欲、依滅、捨遣   -- p.271~. (p.290~.) 
-    - ◎ 世尊告訴難陀咖尊者，在隔天再去教誡那些比丘尼→在第二次聽法後，那五百位比丘尼，最低證悟的比丘尼，也證得預流果    -- p.276. (p.298.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ◎ 世尊告訴難陀咖尊者，在隔天再去教誡那些比丘尼→在第二次聽法後，那五百位比丘尼，最低證悟的比丘尼，也證得預流果    -- p.276. (p.298.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 148 六六經 概要` :  (回 `MN 148`_ )
+- _`MN148 六六經 概要` :  (回 `MN148`_ )
 
   * 本經說有關六內處、六外處、六識、六觸、六受、六受之六六。先說明六六開始，說此等非我。說如何起隨眠耶?如何諸隨眠滅，得向離欲解脫耶?（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
@@ -8398,17 +8599,17 @@ Saḷāyatanavaggo 六處品
       * 5.六受身→依眼與色而生眼識，三之和合而有觸，依觸而有受；依耳與聲而生耳識，三之和合而有觸，依觸而有受；依鼻與香而生鼻識，三之合和而有觸，依觸而有受；依舌與味而舌識生，三之合和而有觸，依觸而有受；依身與觸而生身識，三之和合而有觸，依觸而有受；依意與法而生意識，三之和合而有觸，依觸而有受 
       * 6.六愛身→依眼與色而生眼識，三之和合而有觸，依觸而有受，依受而有愛；依耳與聲而生耳識，三之和合而有觸，依觸而有受，依受而有愛；依鼻與香而生鼻識，三之合和而有觸，依觸而有受，依受而有愛；依舌與味而舌識生，三之合和而有觸，依觸而有受，依受而有愛；依身與觸而生身識，三之和合而有觸，依觸而有受，依受而有愛；依意與法而生意識，三之和合而有觸，依觸而有受，依受而有愛   -- p.280~. (p.305~.)  
     
-    - ⊙ 多聞聖弟子厭離眼、厭離色、厭離眼識、……   -- p.287. (p.312.) （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ⊙ 多聞聖弟子厭離眼、厭離色、厭離眼識、……   -- p.287. (p.312.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
-- _`MN 149 大六處經 概要` :  (回 `MN 149`_ )
+- _`MN149 大六處經 概要` :  (回 `MN149`_ )
 
   * 本經乃說不如實知六內處、六外處、六識、六觸、六受等故，受著其等，而生身心之苦惱；如實知此等，不愛著故，不生身心之苦惱。如是由如實知而八正道生，由此圓成四念住、四正勤、四神足、五根、五力、七覺支，修止觀得明解脫。（《漢譯南傳大藏經》； **通妙** 譯(元亨寺) [8]_ ）
 
   * 
     - ⊙ 如實知見眼，如實知見諸色，如實知見眼識，如實知見眼觸，緣眼觸而生樂、苦或不苦不樂受；也如實知見那些而不愛著眼，不愛著諸色，不愛著眼識，不愛著眼觸，緣眼觸而生樂、苦或不苦不樂受，也由不愛著那些。由如此住於不愛著、不相應、不迷妄、見其過患，在未來即損減五取蘊，再生之愛，與喜貪俱行，歡喜此處彼處，即斷該身的患惱，心的患惱，身的熱惱，心的熱惱，身的苦惱、心的苦惱；覺受身的身樂、心樂；耳……   -- p.288~. (p.314~.)  
-    - ⊙ 他修習八支聖道而至圓滿，也修習四念住至圓滿，也修習四正勤至圓滿，也修習四神足至圓滿， 也修習五根至圓滿，也修習五力至成滿，也修習七覺支至圓滿→此二法即止觀雙運   -- p.289. (p.314~5.)  （《中部概要》； **尊者覓寂比丘(Santagavesaka Bhikkhu)** ）
+    - ⊙ 他修習八支聖道而至圓滿，也修習四念住至圓滿，也修習四正勤至圓滿，也修習四神足至圓滿， 也修習五根至圓滿，也修習五力至成滿，也修習七覺支至圓滿→此二法即止觀雙運   -- p.289. (p.314~5.) （《中部概要》； **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
 ------
 
@@ -8456,7 +8657,7 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 
 .. [9] 選錄多位翻譯者之譯文，請參 `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ → Majjhima Nikāya: `Mūla-Paṇṇāsaɱ <http://www.buddhadust.com/m/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_1.htm>`__ (The Root 50: Suttas 1-50) (pts vol I: p 1-338), `Majjhima-Paṇṇāsaɱ <http://www.buddhadust.com/m/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_2.htm>`_ (The Middle 50: Suttas 51-100) (pts vol I: p 339-524; vol II: 1-213); `Upari-Paṇṇāsaɱ <http://www.buddhadust.com/m/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_3.htm>`_ (The Final 50: Suttas 101-152) (pts Vol II: 214-266; Vol III: p 1-302) [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
 
-.. [10] 部份經典選譯，請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__: → `MN <http://www.accesstoinsight.org/tipitaka/mn/index.html>`__ 
+.. [10] 部份經典選譯，請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `MN <http://www.accesstoinsight.org/tipitaka/mn/index.html>`__ 
 
 .. [11] 請參考： `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ → `e-Tipitaka <http://www.mahindaramatemple.com/e-tipitaka/e-tipitaka.htm>`__ → `Suttanta Pitaka <http://www.mahindaramatemple.com/e-tipitaka/suttanta.htm>`__ → 2. Majjhima Nikaya `Collection of Medium Length Discourses of the Buddha <http://www.mahindaramatemple.com/e-tipitaka/Majjhima-Nikaya/majjhima-nikaya.htm>`__ 
 
@@ -8467,6 +8668,7 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 .. [14] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Majjhima Nikāya (MN) <https://suttacentral.net/mn>`__ 。
 
 ..
+  05.02 add: 概要 the others except the suttas of maps-MN-Bodhi
   05.02 add: 概要 in the suttas of maps-MN-Bodhi
   04.26 rev. change table to lines till Saḷāyatanavaggo 六處品 (MN 143 ～ MN 152)
   04.24 rev. change table to lines till Brāhmaṇavaggo 婆羅門品 (MN 91 ～ MN 100)
