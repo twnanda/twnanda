@@ -2,7 +2,7 @@ Majjhima-nikāya 巴利大藏經 經藏 中部 (Further Dialogues of the Buddha;
 =============================================================================================================
 
 :date: 2003-07-13
-:modified: 2017-05-07
+:modified: 2017-05-09
 :tags: 中部尼柯耶, 中部, 尼柯耶, Majjhima nikāya, 巴利三藏中部
 :category: 巴利三藏中部
 :summary: Majjhima-nikāya 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
@@ -12,13 +12,13 @@ Majjhima-nikāya 巴利大藏經 經藏 中部 (Further Dialogues of the Buddha;
 
 - 中部概要(題解)：
 
-  * `中部概要 <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst>`__ ，尊者覓寂比丘(Santagavesaka Bhikkhu)
+  * `中部概要 <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst>`__ ， **尊者覓寂比丘** (Santagavesaka Bhikkhu)
 
-  * 沙門芝峯據日譯本重譯：`中部經典一 (MN 1~ MN 50) <http://tripitaka.cbeta.org/B06n0004_001#0083a01>`__ ( `CBETA <http://www.cbeta.org/>`__ ) [1]_
+  * `中部經典一 (MN 1~ MN 50) <{filename}majjhima-nikaya-summary-ci-fong%zh.rst>`__ ； **沙門 芝峯** 據日譯本重譯 ( `原始出處 <http://tripitaka.cbeta.org/B06n0004_001#0083a01>`__ original from: `CBETA <http://www.cbeta.org/>`__ ) [1]_
 
-  *  `中部經典　經文說明 <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst>`__ ；通妙譯，元亨寺漢譯南傳大藏經編譯委員會，高雄：元亨寺妙林出版社, 1995，經藏／中部
+  *  `中部經典　經文說明 <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst>`__ ； **通妙** 譯，元亨寺 [8]_
 
-- `《中部尼柯耶》閱讀地圖 <{filename}maps-MN-Bodhi%zh.rst>`__ 〔取材自: 菩提比丘：《中部尼柯耶》閱讀地圖-- 【台語與佛典】 [2]_
+- `《中部尼柯耶》閱讀地圖 <{filename}maps-MN-Bodhi%zh.rst>`__ 〔取材自: **尊者 菩提比丘** ：《中部尼柯耶》閱讀地圖-- 【台語與佛典】 [2]_
 
 ------
 
@@ -7693,6 +7693,8 @@ Saḷāyatanavaggo 六處品
 
   * 巴、漢、英文對讀：
 
+    - `本站 <{filename}mn-149-contrast-reading%zh.rst>`__ 
+
     - `Details for MN 149 Mahāsaḷāyatanika <https://suttacentral.net/mn149>`__ ( `SuttaCentral <https://suttacentral.net/>`__ [14]_ )
 
 ------
@@ -8668,7 +8670,9 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 .. [14] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Majjhima Nikāya (MN) <https://suttacentral.net/mn>`__ 。
 
 ..
-  05.02 add: 概要 the others except the suttas of maps-MN-Bodhi
+  05.09 add: mn 149 對讀(local)
+  05.08 add: local file:中部經典一 (MN 1~ MN 50)題解；沙門 芝峯譯 
+  05.07 add: 概要 the others except the suttas of maps-MN-Bodhi
   05.02 add: 概要 in the suttas of maps-MN-Bodhi
   04.26 rev. change table to lines till Saḷāyatanavaggo 六處品 (MN 143 ～ MN 152)
   04.24 rev. change table to lines till Brāhmaṇavaggo 婆羅門品 (MN 91 ～ MN 100)
