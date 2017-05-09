@@ -390,9 +390,7 @@
  
 .. [002] 英譯為 Ven. Bhikkhu Bodhi(菩提尊者)所譯(Translated from the Pali by Ven. Bhikkhu Bodhi)；請參考：
          `Wisdom Publications <http://www.wisdompubs.org/>`__  →  `AUTHORS <http://www.wisdompubs.org/authors>`__  →   `Bhikkhu Bodhi <http://www.wisdompubs.org/author/bhikkhu-bodhi>`__   →  
-         `The Middle Length Discourses of the Buddha <http://www.wisdompubs.org/book/middle-length-discourses-buddha>`__  → 
-
-          `Selections <http://www.wisdompubs.org/book/middle-length-discourses-buddha/selections>`__   →  `149. Mahāsaḷāyatanika Sutta: The Great Sixfold Base <http://www.wisdompubs.org/book/middle-length-discourses-buddha/selections/middle-length-discourses-149-mahasalayatanika-sutta>`__
+         `The Middle Length Discourses of the Buddha <http://www.wisdompubs.org/book/middle-length-discourses-buddha>`__  → `Selections <http://www.wisdompubs.org/book/middle-length-discourses-buddha/selections>`__   →  `149. Mahāsaḷāyatanika Sutta: The Great Sixfold Base <http://www.wisdompubs.org/book/middle-length-discourses-buddha/selections/middle-length-discourses-149-mahasalayatanika-sutta>`__
 
          \*\*\*  "This work is licensed under a  `Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License <http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US>`_ ." \*\*\*
 
