@@ -2,7 +2,7 @@
 ================================
 
 :date: 2012-04-03 07:00
-:modified: 2017-05-07
+:modified: 2017-05-09
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/maps-MN-Bodhi.html
 :tags: 《中部尼柯耶》閱讀地圖, A Systematic Study of the Majjhima Nikāya--Exploring the Word of the Buddha (BODHI MONASTERY), 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
@@ -154,13 +154,19 @@
 
     - `聖求經 <http://tripitaka.cbeta.org/N09n0005_003#0224a02>`__ ; 通妙 譯(元亨寺) [6]_
 
-    - 對照之阿含經典及其他： `中阿含204羅摩經(MA 204) <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0026_p0775c07>`_ (中阿含經卷第五十六晡利多品羅摩經第三);
-      另可參考： `增壹阿含19.1(EA 19.1 僅部分) <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T02n0125_p0593a24>`_  (增壹阿含經卷第十勸請品第十九)、 
-      `增壹阿含24.5(EA 24.5僅部份) <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T02n0125_p0618a27>`_  (增壹阿含經卷第十四高幢品第二十四之五)、
-      `T1421.15(僅部份) <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T22n1421_p0101a12>`_  (五分律卷第十五(彌沙塞)、
-      `T1450.5(僅部份) <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T24n1450_p0125c29>`_  (根本說一切有部毘奈耶破僧事卷第五)、
-      `T765.3(僅部份) <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T17n0765_p0679b23>`_  (本事經卷第四二法品第二之二)、
-      `T1428.31(僅部份) <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T22n1428_p0779a06>`_  (四分律卷第三十一(二分之十)受戒揵度之一)
+    - 對照之阿含經典及其他： `中阿含204羅摩經(MA 204) <http://tripitaka.cbeta.org/T01n0026_056#0775c07>`_ ，中阿含經卷第五十六晡利多品羅摩經第三，東晉 罽賓 三藏 **瞿曇僧伽提婆** 譯；大正藏．第1冊．第26經．第775頁．下欄．第7行 (CBETA; T01, no. 26, p. 775, c7) （舊式連結： http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0026_p0775c07 (pl) to http://tripitaka.cbeta.org/T01n0026_056?format=line&linehead=yes#0775c07 ）。
+
+      另可參考： `增壹阿含19.1(EA 19.1 僅部分) <http://tripitaka.cbeta.org/T02n0125_010#0593a24>`__ ，增壹阿含經卷第十勸請品第十九，東晉 罽賓 三藏 **瞿曇僧伽提婆** 譯；大正藏．第2冊．第125經．第593頁．上欄．第24行 (CBETA; T02, no. 125, p. 593, a24) （舊式連結： http://www.cbeta.org/cgi-bin/goto.pl?linehead=T02n0125_p0593a24 ）、
+
+      `增壹阿含24.5(EA 24.5僅部份) <http://tripitaka.cbeta.org/T02n0125_014#0618a27>`_ ，增壹阿含經卷第十四高幢品第二十四之五；大正藏．第2冊．第125經．第618頁．上欄．第27行 (CBETA; T02, no. 125, p. 618, a27) （舊式連結：http://www.cbeta.org/cgi-bin/goto.pl?linehead=T02n0125_p0618a27 ）、
+
+      `初受戒法 <http://tripitaka.cbeta.org/T22n1421_015#0101a12>`__ (T1421.15, 僅部份, 五分律卷第十五(彌沙塞) 第三分初受戒法上，宋 罽賓 三藏 **佛陀什** 共 **竺道生** 等譯 ；大正藏．第22冊．第1421經．第101頁．上欄．第12行 (CBETA; T22, no. 1421, p. 101, a12)（舊式連結： http://www.cbeta.org/cgi-bin/goto.pl?linehead=T22n1421_p0101a12 ）、
+
+      `T1450.5(僅部份) <http://tripitaka.cbeta.org/T24n1450_005#0125c29>`_ ，根本說一切有部毘奈耶破僧事卷第五，大唐 三藏法師 **義淨** 奉　制譯；大正藏．第24冊．第1450經．第125頁．下欄．第29行 (CBETA; T24, no. 1450, p. 125, c29)（舊式連結： http://www.cbeta.org/cgi-bin/goto.pl?linehead=T24n1450_p0125c29 ）、
+
+      `T765.3(僅部份) <http://tripitaka.cbeta.org/T17n0765_004#0679b23>`_ ，本事經卷第四二法品第二之二，大唐 三藏法師 **玄奘** 奉　詔譯；大正藏．第17冊．第765經．第679頁．中欄．第23行 (CBETA; T17, no. 765, p. 679, b23)（舊式連結： http://www.cbeta.org/cgi-bin/goto.pl?linehead=T17n0765_p0679b23 ）、
+
+      `T1428.31(僅部份) <http://tripitaka.cbeta.org/T22n1428_031#0779a06>`_ ，四分律卷第三十一(二分之十)，受戒揵度之一，姚秦 罽賓 三藏 **佛陀耶舍** 共 **竺佛念** 等譯；大正藏．第22冊．第1428經．第779頁．上欄．第6行 (CBETA; T22, no. 1428, p. 779, a6)（舊式連結： http://www.cbeta.org/cgi-bin/goto.pl?linehead=T22n1428_p0779a06
 
   * 英譯(English)：
 
@@ -181,8 +187,6 @@
     - `Details for MN 26 Ariyapariyesanā [Pāsarāsi] <https://suttacentral.net/mn26>`__ ( `SuttaCentral <https://suttacentral.net/>`__ [10]_ )
 
     - `尋求聖法經 (MN.026) (pāsarāsisuttaṃ) <http://tipitaka.sutta.org/canon/sutta/majjhima/m%C5%ABlapa%E1%B9%87%E1%B9%87%C4%81sa/opammavaggo/zh_TW/%E8%95%AD%E5%BC%8F%E7%90%83/ContrastReading>`_ (蕭式球翻譯比照對讀, `Online Pāḷi Tipiṭaka <http://tipitaka.sutta.org/>`_ [11]_ )
-
-.. 。 ; 其他可參照： `巴利大藏經 經藏 中部 MN 26 <{filename}majjhima-nikaaya%zh.rst#MN 26>`__
 
 .. _MN 4:
 
@@ -226,8 +230,6 @@
 
     - `恐懼驚慌經 (MN.004) (bhayabheravasuttaṃ) <http://tipitaka.sutta.org/canon/sutta/majjhima/m%C5%ABlapa%E1%B9%87%E1%B9%87%C4%81sa/m%C5%ABlapariy%C4%81yavaggo/zh_TW/%E8%95%AD%E5%BC%8F%E7%90%83/ContrastReading>`_ (蕭式球翻譯比照對讀, `Online Pāḷi Tipiṭaka <http://tipitaka.sutta.org/>`_ [11]_ ) 
 
-..  ; 其他可參照： `巴利大藏經 經藏 中部 MN 4 <{filename}majjhima-nikaaya%zh.rst#MN 4>`__
-
 .. _MN 36:
 
 - MN 36: Mahāsaccaka Sutta 中部36薩迦大經
@@ -270,8 +272,6 @@
     - `Details for MN 36 Mahāsaccaka <https://suttacentral.net/mn36>`__ ( `SuttaCentral <https://suttacentral.net/>`__ [10]_ )
 
     - `大薩遮經 (MN.036) (Mahāsaccakasuttaṃ) <http://tipitaka.sutta.org/canon/sutta/majjhima/m%C5%ABlapa%E1%B9%87%E1%B9%87%C4%81sa/mah%C4%81yamakavaggo/zh_TW/%E8%95%AD%E5%BC%8F%E7%90%83/ContrastReading>`_  (蕭式球翻譯比照對讀, `Online Pāḷi Tipiṭaka <http://tipitaka.sutta.org/>`_ [11]_ ) 
-
-..  ; 其他可參照： `巴利大藏經 經藏 中部 MN 36 <{filename}majjhima-nikaaya%zh.rst#MN 36>`__
 
 .. _MN 12:
 
@@ -317,8 +317,6 @@
 
 ------
 
-.. ; 其他可參照： `巴利大藏經 經藏 中部 MN 12 <{filename}majjhima-nikaaya%zh.rst#MN 12>`__
-
 .. _理解正法:
 
 二、 理解正法
@@ -354,12 +352,11 @@
 
     - `AN 3.65: Kalama Sutta — The Instruction to the Kalamas/To the Kalamas <http://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html>`__ , {PTS: A i 188; Thai 3.66} , Translated from the Pali by **Ven. Ñanamoli Thera & Bhikkhu Bodh (髻智尊者及菩提尊者)** 
 
-    - `Kalama Sutta: The Instruction to the Kalamas <http://www.accesstoinsight.org/tipitaka/an/an03/an03.065.soma.html>`__ , AN 3.65 PTS: A i 188 Thai 3.66, Translated from the Pali by **Ven. Soma Thera** 
+    - `Kalama Sutta: The Instruction to the Kalamas <http://www.accesstoinsight.org/tipitaka/an/an03/an03.065.soma.html>`__ , AN 3.65 PTS: A i 188 Thai 3.66, Translated from the Pali by **Ven. Soma Thera**
 
     - `Kalama Sutta: To the Kalamas <http://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html>`__ , Translated from the Pali by **Ven. Thanissaro Bhikkhu** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_ 
 
     - `Those of Kesaputta <http://www.buddhadust.com/m/dhamma-vinaya/pts/an/03_threes/an03.065.wood.pts.htm>`__, Translated by F.L. Woodward, M.A. (buddhadust.com [8]_ ) or `5. Kesamuttisuttaṃ <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/Anguttara1/3-tikanipata/007-mahavaggo-e.html>`__ , Translated by Sister Uppalavanna ( `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/index.html>`__ [9]_
-
 
   * 日譯(和訳)：
 
@@ -1911,7 +1908,7 @@
 
   * 巴、漢、英文對讀：
 
-    - `本站 <{filename}mn-026-contrast-reading%zh.rst>`__ 
+    - `本站 <{filename}mn-149-contrast-reading%zh.rst>`__ 
 
     - `Details for MN 149 Mahāsaḷāyatanika <https://suttacentral.net/mn149>`__ ( `SuttaCentral <https://suttacentral.net/>`__ [10]_ )
 
@@ -2406,6 +2403,7 @@
 .. [12] § 2.8.南傳《中部》第 120《行生經》（ `福嚴佛學院 <http://www.fuyan.org.tw/>`__ →研究論文→福嚴佛學研究第三期 (2008.04)；或 `溫宗堃の風培基 <http://tkwen.theravada-chinese.org>`__ →福嚴佛學院講義 → `福嚴佛學研究 第三期 (2008.04)(PDF) <http://tkwen.theravada-chinese.org/Fuyan/Buddhist/Studies/v3_2008.pdf>`__ ）
 
 ..
+  05.09 add link of mn-149-contrast-reading%zh.rst & mark CBETA; T01, no. 26, p. 775, c7 etc. del: ..  ; 其他可參照： `巴利大藏經 經藏 中部 MN 36 <{filename}majjhima-nikaaya%zh.rst#MN 36>`__ etc
   05.07 correct some URLs
   04.20 rev. some urls
   04.16 2017 rev. re-arrange (simplying) the items, add footnotes; 芝峯 譯(華宇); 通妙 譯(元亨寺); Sister Upalavanna: buddhadust.com & Mettanet Tipitaka Index; 對讀 Details for MN (SuttaCentral)
