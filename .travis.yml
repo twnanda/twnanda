@@ -17,19 +17,12 @@ install:
 - fc-cache -f -v
 script:
 - make publish
-after_success:
-- git config --global user.email "travis@travis-ci.org"
-- git config --global user.name "Travis"
-- git config --global push.default simple
-- echo "Clone twnanda.github.io..."
-- git clone --depth 1 https://${GH_TOKEN}@github.com/twnanda/twnanda.github.io.git > /dev/null
-- cd twnanda.github.io
-- git rm -rf * > /dev/null
-- cp -r  ../output/* .
-- git add .
-- git status
-- git commit -m "Pushed by Travis CI"
-- git push --quiet
-env:
-  global:
-    secure: gAAu3KnnS0wVzPPnCyRQqKerb9IxG3wCdYXg8+QLt1zpOlbNQrFzKjk4OiW9PUgjUPKwVyoUjQGysKcWqq9ANIhWW1+KxpX4E9t72qNl2CXYjbZ5rC9JYbOQGWpPwLAghFy/5kijzM9R7pj5nM3jZTK78YApzp8t5HPikCQEnkb8mVOqyNr58PeuQUWUu8FGJmbYW9Vr8f7fEy57yuxe8ulh4GquNTJCeDgFTeac0BUKwgrEpRKOiOV7PaSMk7C4uRaM6GMaXB8c/1DInxLIaB7iD8nI5lm8tuLjBKuon5wdpWw/Z7Z8piPOPFctzIjIkDpztXKdZDmSEdZ34OVX9TBA5vh55IPDVHdKlt7xdHzhwSUJK8oNVvnS6E/nTCyET2uugjrCXTQTOYrmTZuHqL6LklrUY53i6T5aRjvDuzgHJGTdF/3Jt1r2X3IWpgozQp+4zCkt7D3fa6Ddht5iEeuTIzXNEXVqZMXpkZ1NZK945qIzEC92N1y9pu/bHM9DlyUE2WcUJ/r34QR6VEk/fcTpGSQ6thWGkEmgaXFC2j79eg7T5NTKFrnN1Qu/HVjyTdtctKKv62mHHvp8noY1q+jBobY3q7+c8iq8nO7hKFRV65ts7WZpB3cVUXHfH0zYOWub59dsfBNfC0TEkTe8g4gbD84Q3m0JvvYdkdrGjS0=
+deploy:
+  provider: pages
+  repo:  twnanda/twnanda.github.io
+  target_branch: master
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: output
+  on:
+    branch: master
