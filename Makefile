@@ -47,7 +47,6 @@ endif
 
 publish: js scss clean
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	bash tool/html2pdf.sh $(OUTPUTDIR) $(WEBSITECSS)
 
 ncku: js scss clean
 	$(PELICAN) $(INPUTDIR) -o $(NCKUOUTPUTDIR) -s $(NCKUPUBLISHCONF) $(PELICANOPTS)
