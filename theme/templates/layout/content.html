@@ -58,9 +58,6 @@
       {%- if content.github_url -%}
         <div class="edit-on-github"><a href="{{ content.github_url }}">GitHub</a></div>
       {%- endif -%}
-      {% if content.url != "pages/index.html" %}
-        <div class="old-url"><a href="{{ PDF_SITEURL }}/{{ content.url }}index.pdf">PDF</a></div>
-      {%- endif -%}
       {%- if content.oldurl -%}
         <div class="old-url"><a href="{{ content.oldurl }}">Old</a></div>
       {%- endif -%}
