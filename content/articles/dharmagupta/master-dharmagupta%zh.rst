@@ -10,7 +10,7 @@
 
 
 - 護法法師簡介。
-- `尊者的足跡－南傳法句經的故事。 <{category}尊者的足跡－南傳法句經的故事。>`_
+- `尊者的足跡－南傳法句經的故事<{filename}/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-Ven-Dharmagupta%zh.rst>`_ （或 `此分類項 <{category}尊者的足跡－南傳法句經的故事。>`_ 。 
 - `心靈法語－ DHARMAGUPTA 。 <{filename}/extra/authors/dharmagupta/vipasana.htm>`_
 - `靜坐實用手冊－－你在嗎？覺知嗎？心去那裡了？ <{filename}/extra/authors/dharmagupta/meditation.htm>`_
 - `涅槃的高速公路 <{filename}/extra/authors/dharmagupta/nibbana.htm>`_
@@ -62,7 +62,7 @@
 
 - `師父碩士論文 <{filename}/extra/authors/dharmagupta/thesis/content.htm>`_
 
-.. 07.04 re-load 碩士論文
+.. 07.04 re-load 碩士論文; 尊者的足跡－南傳法句經的故事-- another link rather than category
    11.03 2007 add: 涅槃的中二高
    08.18 2005
    09.11,  14:45, 08. 15 L4HT 2004;
