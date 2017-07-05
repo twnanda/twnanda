@@ -1,4 +1,4 @@
-:modified: 2017-03-16
+:modified: 2017-07-05
 :slug: index
 :lang: zh
 :status: hidden
@@ -81,9 +81,7 @@
 
   * `呼籲安全地保存佛陀的舍利 <{filename}/extra/relics-of-the-buddha/Relics_of_the_Buddha.html>`_
   * `【新譯「尊者阿姜 曼傳」與「尊者阿姜 高傳」】相關訊息 <{filename}/articles/uncategorized/open-distribution-the-biography-ven-acariya-mun%zh.rst>`_
-  * `烏‧ 悉臘禪師（Sayadaw U Sila）禪修通告(元亨禪修營) <http://myweb.ncku.edu.tw/~lsn46/announce.html#meditation-Jun2017>`_
-  * `慈濟瓦禪師 (Bhante Sujiva) 佛法講座通告 <http://myweb.ncku.edu.tw/~lsn46/announce.html#dhamma-talk-Apr>`_
-
+  
 - `文章選讀 <{filename}/articles/uncategorized/paper-selected%zh.rst>`_
 
   * `當代南傳佛教大師(LIVING BUDDHIST MASTERS) <{filename}/extra/authors/jack-kornfield/living-buddhist-masters/Theravadian-Masters.htm>`_
@@ -91,6 +89,7 @@
     ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_]) 等等。
 
 ..
+  07.05 del: 烏‧悉臘禪師（Sayadaw U Sila）禪修通告(元亨禪修營) & 慈濟瓦禪師 (Bhante Sujiva) 佛法講座通告
   03.16 add some links on 電子佛典資源; & old: modified: 2017-03-11T22:00+08:00
   03.11 add: 電子佛典資源 canon-resource%zh.rst
   03.11 add: 佛教團體資源 buddhist-org%zh.rst & "等等"。

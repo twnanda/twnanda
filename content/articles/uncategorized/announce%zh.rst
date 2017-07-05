@@ -3,7 +3,7 @@
 =========
 
 :date: 2005-05-01
-:modified: 2017-03-12
+:modified: 2017-07-05
 :tags: 訊息公告
 :category: 未分類
 :summary: 訊息公告
@@ -16,10 +16,6 @@
 
 - `【新譯「尊者阿姜 曼傳」與「尊者阿姜 高傳」】相關訊息 <{filename}/articles/uncategorized/open-distribution-the-biography-ven-acariya-mun%zh.rst>`_ (Updated:10.12 '15)
 
-- `烏‧ 悉臘禪師（Sayadaw U Sila）禪修通告(元亨禪修營) <http://myweb.ncku.edu.tw/~lsn46/announce.html#meditation-Jun2017>`_
-
-- `慈濟瓦禪師 (Bhante Sujiva) 佛法講座通告 <http://myweb.ncku.edu.tw/~lsn46/announce.html#dhamma-talk-Apr>`_
-
 ------
 
 - 巴利藏閱讀輔具計劃(Tipitaka for Pali Learner Project)：(Updated:01.25 '13)
@@ -29,6 +25,8 @@
   * `工作細項 <https://docs.google.com/document/d/1jwctudL6MbW7E1dkWtCzSZDK1qzMNFF_kRU_KrNCQMY/pub>`__
 
 -----
+
+- `烏‧ 悉臘禪師（Sayadaw U Sila）禪修通告(元亨禪修營) <http://myweb.ncku.edu.tw/~lsn46/announce.html#meditation-Jun2017>`_
 
 - 聖法大長老禪修營通告(法寂禪林)： `指導禪師：聖法大長老 (Ven. Ariyadhamma Mahathera); 11月18 -- 26日 <{filename}/extra/meditation/meditation-Ariyadhamma-Mahathera-2011-1118.html>`_。 (Updated:09.12 '11)
 
@@ -66,9 +64,10 @@
 
 ------
 
-資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2560; (03.12, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2017 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
+資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2560; (07.05, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2017 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 ..
+  07.05 del: 慈濟瓦禪師 (Bhante Sujiva) 佛法講座通告-- `慈濟瓦禪師 (Bhante Sujiva) 佛法講座通告 <http://myweb.ncku.edu.tw/~lsn46/announce.html#dhamma-talk-Apr>`_; move down 烏‧悉臘禪師（Sayadaw U Sila）禪修通告(元亨禪修營)
   03.12 2017 make rst; 
   03.07 add: 元亨寺：　106年度元亨「喜滿禪心」之禪修營報名表（.doc，與上同 & 元亨推廣教育中心（ 106年度元亨「喜滿禪心」之禪修營DM，與右圖雷同）協辦單位：元亨寺、元亨佛學院 (連結)
   03.03 add: 元亨寺 等等之連結
