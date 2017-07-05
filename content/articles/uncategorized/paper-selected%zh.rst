@@ -2,7 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2017-04-27
+:modified: 2017-07-05
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -86,10 +86,10 @@
 
 - UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
-  Read `on line <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/en/index.htm>`__
-  or `PDF <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/en/Unexpected_Freedom_2009.pdf>`__ (full text);
+  Read `on line <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/English/index.htm>`__
+  or `PDF <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/English/Unexpected_Freedom_2009.pdf>`__ (full text);
   These pages are copied on this server by courtesy of
-  `Ven. MUNINDO <https://ratanagiri.org.uk/about/residents>`_
+  `Ven. MUNINDO <https://ratanagiri.org.uk/about/residents>`_ . Another site:dhammatalks.net-- `PDF <http://www.dhammatalks.net/Books9/Ajahn_Munindo_Unexpected_Freedom.pdf>`__ ; download `EPUB <https://forestsangha.org/system/resources/W1siZiIsIjIwMTUvMTAvMjIvOXJiN21scjkyaF9VbmV4cGVjdGVkX0ZyZWVkb21fQWphaG5fTXVuaW5kby5lcHViIl1d/Unexpected%20Freedom%20-%20Ajahn%20Munindo.epub?sha=37d81b16e167262a>`__ or `MOBI <https://forestsangha.org/system/resources/W1siZiIsIjIwMTUvMTAvMjIvNWI3aXZsM3V0aV9VbmV4cGVjdGVkX0ZyZWVkb21fQWphaG5fTXVuaW5kby5tb2JpIl1d/Unexpected%20Freedom%20-%20Ajahn%20Munindo.mobi?sha=0f7aa000697cf184>`__ (from `forestsangha.org <https://forestsangha.org/teachings/books/unexpected-freedom?language=English>`__ )
 
   漢譯： `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_
   -- 阿姜 穆寧多[穆寧多(牟尼度) 法師]演講輯 (02.06 '08)
@@ -214,6 +214,7 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  07.05 add: UNEXPECTED FREEDOM (by AJAHN MUNINDO):dhammatalks.net-- PDF ; download EPUB or MOBI (from forestsangha.org)
   04.27 2017 add: 《佛陀》 ： 増谷文雄　著《仏陀 その生涯と思想》，《佛陀－－其生涯與思想》摘譯
   10.13 add: 摩訶布瓦尊者傳（HTML，正體漢文）
   10.12 add:沙門(作者 ：摩訶布瓦尊者，中譯 ：捷平)
