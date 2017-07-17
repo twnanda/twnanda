@@ -1,372 +1,316 @@
-Saṃyuttanikāya 相應部 (The Book of Kindred Sayings; The "Grouped" Discourses)
-#############################################################################
+Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings; The "Grouped" Discourses)
+###############################################################################################
 
 :date: 2004-07-31
-:modified: 2005-02-12
+:modified: 2017-07-16
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
-:tags: 巴利三藏相應部
+:tags: 相應部尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
-:summary: Saṃyuttanikāya 相應部 (The Book of Kindred Sayings; The "Grouped" Discourses)
+:summary: Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings; The "Grouped" Discourses)
           (Abr.=S)(The Book of Kindred Sayings)(PTS) or
           (The "Grouped" Discourses), 5 vols
 
 
-`sagāthāvagga <http://www.accesstoinsight.org/tipitaka/sn/index.html#sagatha>`__ 有偈品
 
-.. list-table::
-  :header-rows: 1
+- `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
-  * - 相應目次
-    - 巴利經名
-    - 漢文經名
-    - 英文經名
-    - 包含經典部數
+  * PTS: 
 
-  * - 01
-    - devatāsaṃyuttaṃ
-    - `諸天相應 <{filename}devataa%zh.rst>`__
-    - Devas
-    - (30經)
-  * - 02
-    - devaputtasaṃyuttaṃ
-    - `天子相應 <{filename}devaputta%zh.rst>`__
-    - Sons of the Devas
-    - (30經)
-  * - 03
-    - kosalasaṃyuttaṃ
-    - 拘薩羅相應
-    - King Pasenadi of Kosala
-    - (25經)
-  * - 04
-    - māra saṃyuttaṃ
-    - 魔羅(惡魔)相應
-    - Mara
-    - (25經)
-  * - 05
-    - Bhikkhuunii saṃyuttaṃ
-    - 比丘尼相應
-    - Nuns
-    - (10經)
-  * - 06
-    - brahmāsaṃyuttaṃ
-    - 梵天相應
-    - Brahma deities
-    - (15經)
-  * - 07
-    - brāhmaṇasaṃyuttaṃ
-    - 婆羅門相應
-    - Brahmans
-    - (22經)
-  * - 08
-    - Va'ngīsasaṃyuttaṃ
-    - 婆耆沙(長老)相應
-    - Ven. Vangisa
-    - (12經)
-  * - 09
-    - vanasaṃyuttaṃ
-    - 森林相應
-    - The forest
-    - (14經)
-  * - 10
-    - yakkhasaṃyuttaṃ
-    - 夜叉相應
-    - Yakkha demons
-    - (12經)
-  * - 11
-    - sakkasaṃyuttaṃ
-    - 帝釋相應
-    - Sakka (the Deva king)
-    - (15經)
+    * `Saṃyuttanikāyo <http://www.accesstoinsight.org/tipitaka/sltp/SN_I_utf8.html>`__ (the others cf. `AccessToInsight <http://www.accesstoinsight.org/>`__ : original 其他請參原始出處) [1]_
 
+    * `直接閱讀 <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-PTS-dhammarain.htm>`__ (HTML, *42.1 MB* ), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-PTS-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-PTS-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-PTS-dhammarain.rtf>`__ (*69.3 MB*) -- [with PTS pg. no. from CSCD, Original compiled by Bhikkhu Dhammagutta, Revised by Dhammavassārāma, 2549 B.E. (2005 C.E.)] --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 PTS 頁碼標記及對應經典註記；另有《相應部》(Saṁyuttanikāyo)與《雜阿含經》對照表可供參考
 
-----
+  * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__： `Saṃyuttanikāya <http://www.tipitaka.org/romn/cscd/s0301m.mul0.xml>`__ (the others cf. `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ : original 其他請參原始出處) [2]_
 
+- 漢譯：
 
-`nidānavagga <http://www.accesstoinsight.org/tipitaka/sn/index.html#nidana>`__ 因緣品
+  * `漢譯 相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__ ；莊春江 (original: 原始出處) [3]_
 
-.. list-table::
-  :header-rows: 1
+  * `相應部 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ ( 5.1.3.相應部)；蕭式球 (original: 原始出處) [4]_
 
-  * - 相應目次
-    - 巴利經名
-    - 漢文經名
-    - 英文經名
-    - 包含經典部數
+  * 相應部 N13, N14, N15, N16, N17, N18 → `N13 <http://tripitaka.cbeta.org/N13>`__ ；通妙譯，元亨寺漢譯南傳大藏經； original 原始出處: `CBETA <http://www.cbeta.org/>`__ [5]_
 
-  * - 12
-    - nidānasaṃyuttaṃ
-    - 因緣相應
-    - Paticcasamuppada (dependent co-arising)
-    - (93經)
-  * - 13
-    - abhisamayasaṃyuttaṃ
-    - 現觀相應
-    - Realization
-    - (39經)
-  * - 14
-    - dhātusaṃyuttaṃ
-    - 界相應
-    - Elements
-    - (39經)
-  * - 15
-    - anamataggasaṃyuttaṃ
-    - 無始相應
-    - The unimaginable beginnings of samsara and transmigration
-    - (20經)
-  * - 16
-    - kassapasaṃyuttaṃ
-    - 迦葉相應
-    - Ven. Maha Kassapa
-    - (13經)
-  * - 17
-    - lābhasakkārasaṃyuttaṃ
-    - 利得與供養相應
-    - Gains and tribute
-    - (43經)
-  * - 18
-    - rāhulasaṃyuttaṃ
-    - 羅(目侯)羅相應
-    - Ven. Rahula
-    - (22經)
-  * - 19
-    - lakkhaṇasaṃyuttaṃ
-    - (觀,特,占)相相應
-    - Ven. Lakkhana
-    - (21經)
-  * - 20
-    - opammasaṃyuttaṃ
-    - 譬喻相應
-    - Comparisons
-    - (12經)
-  * - 21
-    - bhikkhusaṃyuttaṃ
-    - 比丘相應
-    - Monks
-    - (12經)
+  * `Saṃyutta Nikāya <https://suttacentral.net/sn>`__ (SN, `SuttaCentral <https://suttacentral.net/>`__ , Early Buddhist texts, translations, and parallels; 包含巴、漢、英文等之多種語文對讀、翻譯) [6]_
 
+- 英譯(English)：
 
-----
+  * `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ (buddhadust.com, collecting many translators's works [7]_ or Mettanet Tipitaka Index [8]_ , 選錄多位翻譯者之譯文)
 
+  * Samyutta Nikaya-- `The Grouped Discourses <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ (Selected translations, original 部份經典選譯，其他請參原始出處: `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [9]_
 
-`Khandhavagga <http://www.accesstoinsight.org/tipitaka/sn/index.html#khandha>`__ 蘊品
+  * Samyutta Nikaya-- `Collection of the Kindred Sayings <http://www.mahindaramatemple.com/e-tipitaka/samyutta-nikaya/samyutta-nikaya.htm>`__ (請參原始出處: `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) [10]_
 
-.. list-table::
-  :header-rows: 1
+- `Saṃyuttanikāya 相應部經典 <https://sites.google.com/site/palishengdian/pali/da/sn>`__ ( on `Pali 聖典 <https://sites.google.com/site/palishengdian/>`__ )
 
-  * - 相應目次
-    - 巴利經名
-    - 漢文經名
-    - 英文經名
-    - 包含經典部數
+- 日譯(和訳)： `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`_
 
-  * - 22
-    - khandhasaṃyuttaṃ
-    - 蘊相應
-    - The clinging-aggregates
-    - (158經)
-  * - 23
-    - rādhasaṃyuttaṃ
-    - 羅陀相應
-    - Ven. Radha
-    - (46經)
-  * - 24
-    - diṭṭhisaṃyuttaṃ
-    - 見相應
-    - Views
-    - (96經)
-  * - 25
-    - okkantasaṃyuttaṃ
-    - 入相應
-    - Recurring
-    - (10經)
-  * - 26
-    - uppādasaṃyuttaṃ
-    - 生相應
-    - Arising
-    - (10經)
-  * - 27
-    - kilesasaṃyuttaṃ
-    - 煩惱相應
-    - Defilements
-    - (10經)
-  * - 28
-    - sāriputtasaṃyuttaṃ
-    - 舍利弗相應
-    - Ven. Sariputta
-    - (10經)
-  * - 29
-    - nāgasaṃyuttaṃ
-    - 龍相應
-    - Nagas
-    - (50經)
-  * - 30
-    - supaṇṇasaṃyuttaṃ
-    - 金翅鳥相應
-    - Garudas
-    - (46經)
-  * - 31
-    - gandhabbakāyasaṃyuttaṃ
-    - 乾達婆相應
-    - Gandhabba devas
-    - (112經)
-  * - 32
-    - valāhakasaṃyuttaṃ
-    - 雲相應
-    - Rain-cloud devas
-    - (57經)
-  * - 33
-    - vacchagottasaṃyuttaṃ
-    - 婆蹉種相應
-    - Ven. Vacchagotta
-    - (55經)
-  * - 34
-    - jhānasaṃyuttaṃ
-    - 禪定相應
-    - Concentration
-    - (55經)
+- `相應部 <https://zh.wikipedia.org/wiki/%E7%9B%B8%E6%87%89%E9%83%A8>`__ （ `維基百科 <http://zh.wikipedia.org/>`__，自由的百科全書）
 
+- `Samyutta Nikaya <https://en.wikipedia.org/wiki/Samyutta_Nikaya>`__ , `Wikipedia <http://en.wikipedia.org/>`__ , the free encyclopedia
 
-----
+- `相応部 （そうおうぶ、巴: Saṃyutta Nikāya, SN, サンユッタ・ニカーヤ） <https://ja.wikipedia.org/wiki/%E7%9B%B8%E5%BF%9C%E9%83%A8>`__ （ `ウィキペディア <http://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8>`__ 、フリー百科事典)
 
+- `Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`_
 
-`saḷāyatanavagga <http://www.accesstoinsight.org/tipitaka/sn/index.html#salayatana>`__ 六處品
+------
 
-.. list-table::
-  :header-rows: 1
+Saṃyuttanikāya
+---------------
 
-  * - 相應目次
-    - 巴利經名
-    - 漢文經名
-    - 英文經名
-    - 包含經典部數
+.. list-table:: Saṃyuttanikāya  相應部
 
-  * - 35
-    - saḷāyatanasaṃyuttaṃ
-    - 六處相應
-    - The six senses
-    - (207經)
-  * - 36
-    - vedanāsaṃyuttaṃ
-    - `受相應 <{filename}vedanaa%zh.rst>`__
-    - Feeling
-    - (29經)
-  * - 37
-    - mātugāmasaṃyuttaṃ
-    - 女人相應
-    - Destinies of women
-    - (34經)
-  * - 38
-    - jambukhādakasaṃyuttaṃ
-    - 閻浮車相應
-    - Jambhukhadaka the wanderer
-    - (16經)
-  * - 39
-    - sāmaṇḍakasaṃyuttaṃ
-    - 沙門出家相應
-    - Samandaka the wanderer
-    - (16經)
-  * - 40
-    - moggallānasaṃyuttaṃ
-    - 目犍連相應
-    - Ven. Moggallana
-    - (11經)
-  * - 41
-    - cittasasaṃyuttaṃ
-    - 質多相應
-    - Citta the householder
-    - (10經)
-  * - 42
-    - gāmaṇisaṃyuttaṃ
-    - 聚落主相應
-    - Village headmen
-    - (13經)
-  * - 43
-    - Asa'nkhatasaṃyuttaṃ
-    - 無為相應
-    - The unfashioned (Nibbana)
-    - (44經)
-  * - 44
-    - abyākatasaṃyuttaṃ (avyākatasaṃyuttaṃ)
-    - 無記說相應
-    - Not designated
-    - (11經)
+  * - `Sagāthāvagga 有偈篇`_ (1 ～ 11)
+    - `Nidānavagga 因緣篇`_ (12 ～ 21)
+    - `Khandhavagga 犍度篇`_ (22 ～ 34)
+  * - `Saḷāyatanavagga 六處篇`_ (35 ～ 44)
+    - `Mahāvagga 大篇`_ (45 ～ 56)
+    - 
 
+-----
+
+Sagāthāvagga 有偈篇
+--------------------
+
+- 1.) `Devatā-saṃyutta 諸天相應 <{filename}devata%zh.rst>`__ (81 經, Devas)
+
+- 2.) `Devaputta-saṃyutta 天子相應 <{filename}devaputta%zh.rst>`__ (30 經, Sons of the Devas)
+
+- 3.) `Kosala-saṃyuttaṃ 憍薩羅相應 <{filename}kosala%zh.rst>`__ (25 經, 拘薩羅相應, King Pasenadi of Kosala)
+
+- 4.) `Māra-saṃyuttaṃ 魔相應 <{filename}mara%zh.rst>`__ (25 經, 惡魔相應, Mara)
+
+- 5.) `Bhikkhunī-saṃyuttaṃ 比丘尼相應 <{filename}bhikkhuni%zh.rst>`__ (10 經, Nuns)
+
+- 6.) `Brahma-saṃyuttaṃ 梵天相應 <{filename}brahma%zh.rst>`__ (15 經, Brahma deities)
+
+- 7.) `Brāhmaṇa-saṃyuttaṃ 婆羅門相應 <{filename}brahmana%zh.rst>`__ (22 經, Brahmans)
+
+- 8.) `Vaṅgīsa-saṃyuttaṃ 婆耆舍相應 <{filename}vangisa%zh.rst>`__ (12 經, 婆耆沙長老相應, Ven. Vangisa)
+
+- 9.) `Vana-saṃyuttaṃ 林相應 <{filename}vana%zh.rst>`__ (14 經, 森林相應, The forest)
+
+- 10.) `Yakkha-saṃyuttaṃ 夜叉相應 <{filename}yakkha%zh.rst>`__ (12 經, Yakkha demons)
+
+- 11.) `Sakka-saṃyuttaṃ 帝釋相應 <{filename}sakka%zh.rst>`__ (25 經, Sakka (the Deva king))
+
+------
+
+.. list-table:: Saṃyuttanikāya  相應部
+
+  * - `Sagāthāvagga 有偈篇`_ (1 ～ 11)
+    - `Nidānavagga 因緣篇`_ (12 ～ 21)
+    - `Khandhavagga 犍度篇`_ (22 ～ 34)
+  * - `Saḷāyatanavagga 六處篇`_ (35 ～ 44)
+    - `Mahāvagga 大篇`_ (45 ～ 56)
+    - 
+
+-----
+
+Nidānavagga 因緣篇
+--------------------
+
+- 12.) `Nidāna-saṃyuttaṃ 因緣相應 <{filename}nidana%zh.rst>`__ (93 經, Paticcasamuppada (dependent co-arising))
+
+- 13.) `Abhisamaya-saṃyuttaṃ 現觀相應 <{filename}abhisamaya%zh.rst>`__ (11 經, Realization)
+
+- 14.) `Dhātu-saṃyuttaṃ 界相應 <{filename}dhatu%zh.rst>`__ (39 經, Elements)
+
+- 15.) `Anamatagga-saṃyuttaṃ 無始相應 <{filename}anamatagga%zh.rst>`__ (20 經, The unimaginable beginnings of samsara and transmigration)
+
+- 16.) `Kassapa-saṃyuttaṃ 迦葉相應 <{filename}kassapa%zh.rst>`__ (13 經, 大迦葉尊者相應, Ven. Maha Kassapa)
+
+- 17.) `Lābhasakkāra-saṃyuttaṃ 利得與供養相應 <{filename}labhasakkara%zh.rst>`__ (43 經, 利得恭敬相應, Gains and tribute)
+
+- 18.) `Rāhula-saṃyuttaṃ 羅睺羅相應 <{filename}rahula%zh.rst>`__ (22 經, 羅睺羅尊者相應, Ven. Rahula)
+
+- 19.) `Lakkhaṇa-saṃyuttaṃ 勒叉那相應 <{filename}lakkhana%zh.rst>`__ (21 經, 勒叉那尊者相應, (觀,特,占)相相應, Ven. Lakkhana)
+
+- 20.) `Opamma-saṃyuttaṃ 譬喻相應 <{filename}opamma%zh.rst>`__ (12 經, Comparisons)
+
+- 21.) `Bhikkhu-saṃyuttaṃ 比丘相應 <{filename}bhikkhu%zh.rst>`__ (12 經, Monks)
+
+------
+
+.. list-table:: Saṃyuttanikāya  相應部
+
+  * - `Sagāthāvagga 有偈篇`_ (1 ～ 11)
+    - `Nidānavagga 因緣篇`_ (12 ～ 21)
+    - `Khandhavagga 犍度篇`_ (22 ～ 34)
+  * - `Saḷāyatanavagga 六處篇`_ (35 ～ 44)
+    - `Mahāvagga 大篇`_ (45 ～ 56)
+    - 
+
+-----
+
+Khandhavagga 犍度篇
+--------------------
+
+- 22.) `Khandha-saṃyuttaṃ 蘊相應 <{filename}khandha%zh.rst>`__ (159 經, The clinging-aggregates)
+
+- 23.) `Rādha-saṃyuttaṃ 羅陀相應 <{filename}radha%zh.rst>`__ (46 經, 羅陀尊者相應, Ven. Radha)
+
+- 24.) `Diṭṭhi-saṃyuttaṃ 見相應 <{filename}ditthi%zh.rst>`__ (96 經, Views)
+
+- 25.) `Okkanta-saṃyuttaṃ 入相應 <{filename}okkanta%zh.rst>`__ (10 經, Recurring)
+
+- 26.) `Uppāda-saṃyuttaṃ 生相應 <{filename}uppada%zh.rst>`__ (10 經, Arising)
+
+- 27.) `Kilesa-saṃyuttaṃ 雜染相應 <{filename}kilesa%zh.rst>`__ (10 經, 煩惱相應, Defilements)
+
+- 28.) `Sāriputta-saṃyuttaṃ 舍利弗相應 <{filename}sariputta%zh.rst>`__ (10 經, 舍利弗尊者相應, Ven. Sariputta)
+
+- 29.) `Nāga-saṃyuttaṃ 龍相應 <{filename}naga%zh.rst>`__ (50 經, Nagas)
+
+- 30.) `Supaṇṇa-saṃyuttaṃ 金翅鳥相應 <{filename}supanna%zh.rst>`__ (46 經, Garudas)
+
+- 31.) `Gandhabbakāya-saṃyuttaṃ 乾達婆眾相應 <{filename}gandhabbakaya%zh.rst>`__ (112 經, 乾達婆相應, Gandhabba devas)
+
+- 32.) `Valāhaka-saṃyuttaṃ 雲相應 <{filename}valahaka%zh.rst>`__ (57 經, Rain-cloud devas)
+
+- 33.) `Vacchagotta-saṃyuttaṃ 婆蹉氏相應 <{filename}vacchagotta%zh.rst>`__ (55 經, 婆磋種尊者相應, Ven. Vacchagotta)
+
+- 34.) `Jhāna-saṃyuttaṃ 禪相應 <{filename}jhana34%zh.rst>`__ (55 經, Concentration)
+
+------
+
+.. list-table:: Saṃyuttanikāya  相應部
+
+  * - `Sagāthāvagga 有偈篇`_ (1 ～ 11)
+    - `Nidānavagga 因緣篇`_ (12 ～ 21)
+    - `Khandhavagga 犍度篇`_ (22 ～ 34)
+  * - `Saḷāyatanavagga 六處篇`_ (35 ～ 44)
+    - `Mahāvagga 大篇`_ (45 ～ 56)
+    - 
+
+------
+
+Saḷāyatanavagga 六處篇
+-----------------------
+
+- 35.) `Saḷāyatana-saṃyuttaṃ 六處相應 <{filename}salayatana%zh.rst>`__ (248 經 or 207 經, The six senses)
+
+- 36.) `Vedanā-saṃyuttaṃ 受相應 <{filename}vedana%zh.rst>`__ (31 經 or 29經, Feeling)
+
+- 37.) `Mātugāma-saṃyuttaṃ 婦女相應 <{filename}matugama%zh.rst>`__ (34 經, 女人相應, Destinies of women)
+
+- 38.) `Jambukhādaka-saṃyuttaṃ 閻浮車相應 <{filename}jambukhadaka%zh.rst>`__ (16 經, 遊行者閻浮車相應, Jambhukhadaka the wanderer)
+
+- 39.) `Sāmaṇḍaka-saṃyuttaṃ 沙門出家相應 <{filename}samandaka%zh.rst>`__ (2 經, 沙門達迦相應, Samandaka the wanderer)
+
+- 40.) `Moggallāna-saṃyuttaṃ 目犍連尊者相應 <{filename}moggallana%zh.rst>`__ (11 經, 目犍連尊者相應, 目揵連相應, Ven. Moggallana)
+
+- 41.) `Citta-saṃyuttaṃ 質多相應 <{filename}citta%zh.rst>`__ (10 經, 質多長者相應, Citta the householder)
+
+- 42.) `Gāmaṇi-saṃyuttaṃ 聚落主相應 <{filename}gamani%zh.rst>`__ (13 經, Village headmen)
+
+- 43.) `Asaṅkhata-saṃyuttaṃ 無為相應 <{filename}asankhata%zh.rst>`__ (44 經, The unfashioned (Nibbana))
+
+- 44.) `Abyākata-saṃyuttaṃ 無記相應 <{filename}abyakata%zh.rst>`__ (11 經, 無記說相應, Not designated)
+
+------
+
+.. list-table:: Saṃyuttanikāya  相應部
+
+  * - `Sagāthāvagga 有偈篇`_ (1 ～ 11)
+    - `Nidānavagga 因緣篇`_ (12 ～ 21)
+    - `Khandhavagga 犍度篇`_ (22 ～ 34)
+  * - `Saḷāyatanavagga 六處篇`_ (35 ～ 44)
+    - `Mahāvagga 大篇`_ (45 ～ 56)
+    - 
+
+-----
+
+Mahāvagga 大篇
+---------------
+
+- 45.) `Magga-saṃyuttaṃ 道相應 <{filename}magga%zh.rst>`__ (181 經 or 180經, 八正道相應, 八聖道相應, The Noble Eightfold Path)
+
+- 46.) `Bojjhaṅga-saṃyuttaṃ 覺支相應 <{filename}bojjhanga%zh.rst>`__ (184 經 or 175經, 七覺支相應, The Seven Factors for Awakening)
+
+- 47.) `Satipaṭṭhāna-saṃyuttaṃ 念住相應 <{filename}satipatthana%zh.rst>`__ (104 經, 念處相應, 四念住相應, The Four Frames of Reference (Foundations of Mindfulness))
+
+- 48.) `Indriya-saṃyuttaṃ 根相應 <{filename}indriya%zh.rst>`__ (178 經, 五根相應, The Five Mental Faculties)
+
+- 49.) `Sammappadhāna-saṃyuttaṃ 正勤相應 <{filename}sammappadhana%zh.rst>`__ (54 經, 四正勤相應, The Four Right Exertions)
+
+- 50.) `Bala-saṃyuttaṃ 力相應 <{filename}bala%zh.rst>`__ (108 經, 五力相應, The Five Strengths)
+
+- 51.) `Iddhipāda-saṃyuttaṃ 神足相應 <{filename}iddhipada%zh.rst>`__ (86 經, 四神足相應, The Four Bases of Power)
+
+- 52.) `Anuruddha-saṃyuttaṃ 阿那律相應 <{filename}anuruddha%zh.rst>`__ (24 經, 阿那律尊者相應, Ven. Anuruddha)
+
+- 53.) `Jhāna-saṃyuttaṃ 禪相應 <{filename}jhana53%zh.rst>`__ (54 經, 四靜慮相應, 禪定相應, Jhana (mental absorption))
+
+- 54.) `Ānāpāna-saṃyuttaṃ 入出息相應 <{filename}anapana%zh.rst>`__ (20 經, 入出息念相應; Mindfulness of breathing)
+
+- 55.) `Sotāpatti-saṃyuttaṃ 入流相應 <{filename}sotapatti%zh.rst>`__ (74 經, 預流相應, 四預流支相應, Stream-entry)
+
+- 56.) `Sacca-saṃyuttaṃ 諦相應 <{filename}sacca%zh.rst>`__ (131 經, 四聖諦相應, The Four Noble Truths)
+
+------
+
+-  The comparative catalog of Saṁyuttanikāya & Saṁyukta-āgama 《相應部》與《雜阿含經》對照表： `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sn-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sn-vs-Sa-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sn-vs-Sa-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sn-vs-Sa-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+
+- The comparative catalog of Saṁyukta-āgama & Saṁyuttanikāya 《雜阿含經》與《相應部》對照表： `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-vs-Sn-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-vs-Sn-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-vs-Sn-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-vs-Sn-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+
+- The comparative catalog of short Saṁyukta-āgama(BZA) & Saṁyukta-āgama 《別譯雜阿含經》與《雜阿含經》對照表： `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/SSa-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/SSa-vs-Sa-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/SSa-vs-Sa-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/SSa-vs-Sa-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+
+- The comparative catalog of one scroll Saṁyukta-āgama & Saṁyukta-āgama 一卷本《雜阿含經》與《雜阿含經》對照表： `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-1scroll-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-1scroll-vs-Sa-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-1scroll-vs-Sa-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-1scroll-vs-Sa-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+
+------
+
+_`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
+-------------------------------------------------------
+
+  - (1) Saṁyuttanikāya-aṭṭhakathā(1~5) (SA.) [Sāratthappakāsinī(Spk), **pāḷi** ) --by Bhadantācariya BUDDHAGHOSA(5 A.D.), with CS & PTS page number & PTS sutta number); **相應部注《顯揚心義》 巴利文， 佛音(覺音)尊者著：** `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.rtf>`__ (**49.2 MB**) --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 CS 及 PTS 頁碼標記
+
+     * Spk. VRI Page No. vs  PTS Page No.: `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.htm>`__ , `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.rtf>`__ --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__
+
+  - (2) Saṁyuttanikāya-ṭīkā (1~5) (SṬ.)(with CS & PTS page number & PTS sutta number)相應部疏： `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.rtf>`__ (**. MB**) --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 CS 及 PTS 頁碼標記
 
 ----
 
+- 整部（不分章）
 
-`mahāvagga <http://www.accesstoinsight.org/tipitaka/sn/index.html#maha>`__ 大品
+------
 
-.. list-table::
-  :header-rows: 1
+- `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
-  * - 相應目次
-    - 巴利經名
-    - 漢文經名
-    - 英文經名
-    - 包含經典部數
+------
 
-  * - 45
-    - maggasaṃyuttaṃ
-    - 道相應
-    - The Noble Eightfold Path
-    - (180經)
-  * - 46
-    - Bojjha'ngasaṃyuttaṃ
-    - 覺支相應
-    - The Seven Factors for Awakening
-    - (175經)
-  * - 47
-    - satipaṭṭhānasaṃyuttaṃ
-    - 念處相應
-    - The Four Frames of Reference (Foundations of Mindfulness)
-    - (102經)
-  * - 48
-    - indriyasaṃyuttaṃ
-    - (五)根相應
-    - The Five Mental Faculties
-    - (185經)
-  * - 49
-    - sammappadhānasaṃyuttaṃ
-    - (四)正勤相應
-    - The Four Right Exertions
-    - (54經)
-  * - 50
-    - balasaṃyuttaṃ
-    - (五)力相應
-    - The Five Strengths
-    - (110經)
-  * - 51
-    - iddhipādasaṃyuttaṃ
-    - (四)神足相應
-    - The Four Bases of Power
-    - (86經)
-  * - 52
-    - anuruddhasaṃyuttaṃ
-    - 阿那律相應
-    - Ven. Anuruddha
-    - (24經)
-  * - 53
-    - jhānasaṃyuttaṃ
-    - (四)靜慮相應; 禪定相應
-    - Jhana (mental absorption)
-    - (54經)
-  * - 54
-    - ānāpānasaṃyuttaṃ
-    - 入出息(念)相應; 入出息相應
-    - Mindfulness of breathing
-    - (20經)
-  * - 55
-    - sotāpattisaṃyuttaṃ
-    - (四)預流(支)相應; 預流相應
-    - Stream-entry
-    - (74經)
-  * - 56
-    - saccasaṃyuttaṃ
-    - (四聖)諦相應
-    - The Four Noble Truths
-    - (131經)
+備註：
+------
+
+.. [1] 請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__: → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ → `{S i 1; } <http://www.accesstoinsight.org/tipitaka/sltp/MN_I_utf8.html>`__ (PTS Vol S - 1); `{S ii 2; } <http://www.accesstoinsight.org/tipitaka/sltp/SN_II_utf8.html>`__ (PTS Vol S - 2); `{S iii 1; } <http://www.accesstoinsight.org/tipitaka/sltp/SN_III_utf8.html#pts.001>`__ (PTS Vol S - 3); `{S iv; } <http://www.accesstoinsight.org/tipitaka/sltp/SN_IV_utf8.html>`__ (PTS Vol S - 4); `{S v; } <http://www.accesstoinsight.org/tipitaka/sltp/SN_V_utf8.html#pts.001>`__ (PTS Vol S - 5).
+
+.. [2] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ ``*http://www.tipitaka.org/*`` (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Sagāthāvaggapāḷi → `1. Devatāsaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul0.xml>`__ , `2. Devaputtasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`__ , and so on)。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
+
+.. [3] 請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯 相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__
+
+.. [4] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ）
+
+.. [5] 請參考： `N 《漢譯南傳大藏經》 <http://tripitaka.cbeta.org/N>`__ （紙本來源：元亨寺漢譯南傳大藏經編譯委員會 / 高雄：元亨寺妙林出版社, 1995.） → 經藏／相應部 N13, N14, N15, N16, N17, N18 → `N13 <http://tripitaka.cbeta.org/N13>`__ → 第 13 冊：直接進入閱讀 `N13n0006　相應部經典(第1卷-第11卷) ( 11 卷)　【通妙譯】 <http://tripitaka.cbeta.org/N13n0006>`_ （ `第 001 卷 <http://tripitaka.cbeta.org/N13n0006_001>`__ 、 `第 002 卷 <http://tripitaka.cbeta.org/N13n0006_002>`__ ..., ... 以此類推）、下載 `ePub <http://www.cbeta.org/download/epub/download.php?file=N/N0006.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/N/N0006.mobi>`__ 、 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/N/N0006.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/N/N0006.pdf>`__ 。
+
+.. [6] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Saṃyutta Nikāya (SN) <https://suttacentral.net/sn>`__ 。
+
+.. [7] 選錄多位翻譯者之譯文，請參 `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ → `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ : 1. (sŋ 1-11) `Sagāthā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_01_sagathavagga.htm>`__ (With Cantos, Poetry, Verses)
+       2. (sŋ 12-21) `Nidāna-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_02_nidanavagga.htm>`__ (About Nidana, Causation)
+
+       3. (sŋ 22-34) `Khandha-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_03_khandhavagga.htm>`__ (On the Stockpiles, Elements of Existance, Aggregates)
+
+       4. (sŋ 35-44) `Saļāyatana-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_04_salayatanavagga.htm>`__ (On the Sense Realm, Six Sense Bases)
+
+       5. (sŋ 45-56) `Mahā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_05_mahavagga.htm>`__ (The Great Collection) [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
+
+.. [8] `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/>`__ (The Pali is based on the Sri Lanka Buddha Jayanti Tipitaka Series. Sinhala is the A.P. de Soyza's translations. English is by various authors often downloaded from the Internet.) → `Majjhima Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series); `Saṃyutta Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series) ( `Щастя є <http://awake.kiev.ua/>`__  →  `Колесо Дхаммы. <http://awake.kiev.ua/dhamma/>`__ -- Сайт учения Будды в его исходном виде )
+
+.. [9] 部份經典選譯，請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ 
+
+.. [10] 請參考： `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ → `e-Tipitaka <http://www.mahindaramatemple.com/e-tipitaka/e-tipitaka.htm>`__ → `Suttanta Pitaka <http://www.mahindaramatemple.com/e-tipitaka/suttanta.htm>`__ → 3. Samyutta Nikaya `Collection of the Kindred Sayings <http://www.mahindaramatemple.com/e-tipitaka/samyutta-nikaya/samyutta-nikaya.htm>`__ (also named the "Grouped" Discourses)
+
+
 
 ..
+  2017.07.13 大改版
   -- Rev: 02.12 2005
   08.21; 07.31.2004 --

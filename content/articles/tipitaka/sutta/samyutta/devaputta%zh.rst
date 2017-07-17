@@ -1,67 +1,37 @@
-devaputtasaṃyuttaṃ (Sons of the Devas 天子相應)
-#################################################
+Devaputta-saṃyuttaṃ 天子相應, Sons of the Devas (巴利三藏 相應部)
+###################################################################
 
 :date: 2004-08-21
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Devaputta.htm
-:tags: 巴利三藏相應部
+:tags: 巴利三藏相應部, 天子相應, Devaputta-saṃyutta, Devaputta-saṃyuttaṃ, Sons of the Devas
 :category: 巴利三藏相應部
-:summary: devaputtasaṃyuttaṃ (Sons of the Devas 天子相應)
+:summary: 巴利三藏相應部 Devaputtasaṃyuttaṃ (Sons of the Devas 天子相應)
 
-.. contents:: 目錄
+.. list-table:: Devaputta-saṃyuttaṃ 天子相應
 
-----
+  * - `Paṭhama-Vaggo 第一 迦葉品`_
+    - `Anāthapiṇḍika-Vaggo 第二 給孤獨品`_ 
+    - `Nānātitthiya-Vaggo 第三 種種外道品`_
 
-paṭhama-Vaggo 第一 迦葉品
+-----
+
+Paṭhama-Vaggo 第一 迦葉品
 +++++++++++++++++++++++++
 
-.. list-table::
+Under Construction!
++++++++++++++++++++++++++
 
-  * - SN II.9
-    - S i 50
-    - Candima Sutta
-    - 月天子
-    - The Moon Deity's Prayer for Protection
-      `Translated from the Pali by Ven. Piyadassi Thera. <http://www.accesstoinsight.org/tipitaka/sn/sn02/sn02.009.piya.html>`__)
-    - 雜22. 8. 月天子（）(大2. 155 a);
-  * - SN II.10
-    - S i 51
-    - sūriya Sutta
-    - 日天子
-    - The Sun Deity's Prayer for Protection
-      `Translated from the Pali by Ven. Piyadassi Thera. <http://www.accesstoinsight.org/tipitaka/sn/sn02/sn02.010.piya.html>`__)
-    - 
-
-----
-
-anāthapiṇḍika-Vaggo 第二 給孤獨品
+Anāthapiṇḍika-Vaggo 第二 給孤獨品
 +++++++++++++++++++++++++++++++++
 
-.. list-table::
+Under Construction!
 
-  * - SN II.19
-    - S i 54
-    - Uttara Sutta
-    - 優多羅
-    - Uttara the Deva's Son
-      `Translated from the Pali by Ven. Thanissaro Bhikkhu. <http://www.accesstoinsight.org/tipitaka/sn/sn02/sn02.019.than.html>`__)
-    - 雜36. 9. 強親逼（）(大2. 262 b);
-
-----
-
-nānātitthiya-Vaggo 第三 種種外道品
+Nānātitthiya-Vaggo 第三 種種外道品
 ++++++++++++++++++++++++++++++++++
 
-.. list-table::
+Under Construction!
 
-  * - SN II. ?
-    - S i 65
-    - nānātitthiyasāvaka Sutta
-    - 種種之外道師
-    - Followers of Various Other Faiths
-      (`Translated by U Tin U (Myaung), Yangon <{filename}/extra/authors/u-tin-u/nanatitt.htm>`__)
-    - 雜49. 15. 外道諸見（）(大2. 359 b);
 
-----
-
-備註：對照之阿含經典參考赤沼智善[AKANUMA, Chizen(1885-1937)]編著之《漢巴四部四阿含互照錄》(1929.09)
-
+..
+  2017.07.17 改版
+  create on 08.21, 2004
