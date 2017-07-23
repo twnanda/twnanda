@@ -2,7 +2,7 @@ Dīghanikāya 巴利大藏經 經藏 長部 (The Long Discourses)
 #######################################################
 
 :date: 2003-07-13
-:modified: 2017-03-30
+:modified: 2017-07-23
 :tags: Dīghanikāya, 巴利三藏長部, Dialogues of the Buddha, The "Long" Discourses
 :category: 巴利三藏長部
 :summary: Dīghanikāya 長部
@@ -1248,6 +1248,20 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
 
 ------
 
+-  The comparative catalog of Dīganikāya & Dīrgha-āgama 《長部》與《長阿含經》對照表 & The comparative catalog of Dīrgha-āgama & Dīganikāya 《長阿含經》與《長部》對照表： `HTML <{filename}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+
+- `長阿含經 <http://buddhaspace.org/agama3/>`__ (國立臺灣大學 「 `獅子吼佛學專站 <http://buddhaspace.org/main/modules/dokuwiki/agama:%E5%8F%B0%E5%A4%A7%E7%8D%85%E5%AD%90%E5%90%BC%E4%BD%9B%E5%AD%B8%E5%B0%88%E7%AB%99%E7%B0%A1%E4%BB%8B>`_ 」「 `阿含藏專案列表 <http://buddhaspace.org/main/modules/dokuwiki/>`_ 」)
+
+- “藏經閣外的掃葉人”網誌-- 【 `台語與佛典 <http://yifertw.blogspot.tw/>`_ 】
+
+  * `漢巴對照讀書會 <http://yifertw.blogspot.tw/search/label/%E6%BC%A2%E5%B7%B4%E5%B0%8D%E7%85%A7%E8%AE%80%E6%9B%B8%E6%9C%83>`_ (具有「漢巴對照讀書會」標籤的文章)、
+  * `佛光阿含藏 <http://yifertw.blogspot.tw/search/label/%E4%BD%9B%E5%85%89%E9%98%BF%E5%90%AB%E8%97%8F>`_ (「佛光阿含藏」標籤)、
+  * `佛典校勘 <http://yifertw.blogspot.tw/search/label/%E4%BD%9B%E5%85%B8%E6%A0%A1%E5%8B%98>`_ (「佛典校勘」標籤)、 
+  * `阿含字典 <http://yifertw.blogspot.tw/search/label/%E9%98%BF%E5%90%AB%E5%AD%97%E5%85%B8>`_ (「阿含字典」標籤)、 
+  * 梵文 `長阿含經 <http://yifertw.blogspot.tw/2017/07/4.html>`__
+
+------
+
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ------
@@ -1278,6 +1292,7 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
 .. [9] 部份經典選譯，請參考： `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ → `e-Tipitaka <http://www.mahindaramatemple.com/e-tipitaka/e-tipitaka.htm>`__ → `Suttanta Pitaka <http://www.mahindaramatemple.com/e-tipitaka/suttanta.htm>`__ → `1. Digha Nikaya-- Collection of Long Discourses of the Buddha <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/digha-nikaya.htm>`__ .  
 
 ..
+  07.23 add: 《長部》與《長阿含經》對照表 & 《長阿含經》與《長部》對照表( 【法雨道場】 ) 、 長阿含經 (國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」) 、 “藏經閣外的掃葉人”網誌-- 【 台語與佛典 】 漢巴對照讀書會 ( 具有「漢巴對照讀書會」標籤的文章)、 and so on
   04.02 add: 長部經典．經文說明(通妙譯，元亨寺)
   03.30 finish changing table to list line for pāthikavagga 波梨品(DN 24 ～ DN 34)
         rev. move order of 對照之阿含經典及其他 according to Ven. Metta's works; del:府城佛教網_首頁
