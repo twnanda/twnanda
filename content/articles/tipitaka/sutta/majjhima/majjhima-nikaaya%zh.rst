@@ -2,7 +2,7 @@ Majjhima-nikāya 巴利大藏經 經藏 中部 (Further Dialogues of the Buddha;
 =============================================================================================================
 
 :date: 2003-07-13
-:modified: 2017-05-09
+:modified: 2017-07-23
 :tags: 中部尼柯耶, 中部, 尼柯耶, Majjhima nikāya, 巴利三藏中部
 :category: 巴利三藏中部
 :summary: Majjhima-nikāya 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
@@ -8634,6 +8634,20 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 
 ------
 
+-  The comparative catalog of Majjhimanikāya & Madhyama-āgama 《中部》與《中阿含經》經對照表 & 《中阿含經》與《中部》對照表： `HTML <{filename}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+
+- `中阿含經 <http://buddhaspace.org/agama2/>`__ (國立臺灣大學 「 `獅子吼佛學專站 <http://buddhaspace.org/main/modules/dokuwiki/agama:%E5%8F%B0%E5%A4%A7%E7%8D%85%E5%AD%90%E5%90%BC%E4%BD%9B%E5%AD%B8%E5%B0%88%E7%AB%99%E7%B0%A1%E4%BB%8B>`_ 」「 `阿含藏專案列表 <http://buddhaspace.org/main/modules/dokuwiki/>`_ 」)
+
+- “藏經閣外的掃葉人”網誌-- 【 `台語與佛典 <http://yifertw.blogspot.tw/>`_ 】
+
+  * `中阿含讀書會 <http://yifertw.blogspot.tw/search/label/%E4%B8%AD%E9%98%BF%E5%90%AB%E8%AE%80%E6%9B%B8%E6%9C%83>`__ (具有「中阿含讀書會」標籤的文章)、
+  * `漢巴對照讀書會 <http://yifertw.blogspot.tw/search/label/%E6%BC%A2%E5%B7%B4%E5%B0%8D%E7%85%A7%E8%AE%80%E6%9B%B8%E6%9C%83>`_ (「漢巴對照讀書會」標籤)、
+  * `佛光阿含藏 <http://yifertw.blogspot.tw/search/label/%E4%BD%9B%E5%85%89%E9%98%BF%E5%90%AB%E8%97%8F>`_ (「佛光阿含藏」標籤)、
+  * `佛典校勘 <http://yifertw.blogspot.tw/search/label/%E4%BD%9B%E5%85%B8%E6%A0%A1%E5%8B%98>`_ (「佛典校勘」標籤)、 
+  * `阿含字典 <http://yifertw.blogspot.tw/search/label/%E9%98%BF%E5%90%AB%E5%AD%97%E5%85%B8>`_ (「阿含字典」標籤)
+
+------
+
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ------
@@ -8670,6 +8684,7 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 .. [14] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Majjhima Nikāya (MN) <https://suttacentral.net/mn>`__ 。
 
 ..
+  07.23 add: 《中部》與《中阿含經》經對照表 & 《中阿含經》與《中部》對照表、中阿含經 (國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」)、“藏經閣外的掃葉人”網誌-- 【 台語與佛典 】　中阿含讀書會 (「中阿含讀書會」)、 and so on
   05.09 add: mn 149 對讀(local)
   05.08 add: local file:中部經典一 (MN 1~ MN 50)題解；沙門 芝峯譯 
   05.07 add: 概要 the others except the suttas of maps-MN-Bodhi
