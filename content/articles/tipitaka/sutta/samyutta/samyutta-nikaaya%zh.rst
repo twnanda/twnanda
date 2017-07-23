@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2017-07-16
+:modified: 2017-07-23
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應部尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -249,24 +249,24 @@ Mahāvagga 大篇
 
 ------
 
--  The comparative catalog of Saṁyuttanikāya & Saṁyukta-āgama 《相應部》與《雜阿含經》對照表： `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sn-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sn-vs-Sa-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sn-vs-Sa-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sn-vs-Sa-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+-  The comparative catalog of Saṁyuttanikāya & Saṁyukta-āgama 《相應部》與《雜阿含經》對照表： `HTML <{filename}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
-- The comparative catalog of Saṁyukta-āgama & Saṁyuttanikāya 《雜阿含經》與《相應部》對照表： `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-vs-Sn-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-vs-Sn-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-vs-Sn-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-vs-Sn-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+- The comparative catalog of Saṁyukta-āgama & Saṁyuttanikāya 《雜阿含經》與《相應部》對照表： `HTML <{filename}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
-- The comparative catalog of short Saṁyukta-āgama(BZA) & Saṁyukta-āgama 《別譯雜阿含經》與《雜阿含經》對照表： `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/SSa-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/SSa-vs-Sa-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/SSa-vs-Sa-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/SSa-vs-Sa-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+- The comparative catalog of short Saṁyukta-āgama(BZA) & Saṁyukta-āgama 《別譯雜阿含經》與《雜阿含經》對照表： `HTML <{filename}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
-- The comparative catalog of one scroll Saṁyukta-āgama & Saṁyukta-āgama 一卷本《雜阿含經》與《雜阿含經》對照表： `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-1scroll-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-1scroll-vs-Sa-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-1scroll-vs-Sa-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Sa-1scroll-vs-Sa-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+- The comparative catalog of one scroll Saṁyukta-āgama & Saṁyukta-āgama 一卷本《雜阿含經》與《雜阿含經》對照表： `HTML <{filename}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
 ------
 
 _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 -------------------------------------------------------
 
-  - (1) Saṁyuttanikāya-aṭṭhakathā(1~5) (SA.) [Sāratthappakāsinī(Spk), **pāḷi** ) --by Bhadantācariya BUDDHAGHOSA(5 A.D.), with CS & PTS page number & PTS sutta number); **相應部注《顯揚心義》 巴利文， 佛音(覺音)尊者著：** `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.rtf>`__ (**49.2 MB**) --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 CS 及 PTS 頁碼標記
+- (1). Saṁyuttanikāya-aṭṭhakathā(1~5) (SA.) [Sāratthappakāsinī(Spk), **pāḷi** ) --by Bhadantācariya BUDDHAGHOSA(5 A.D.), with CS & PTS page number & PTS sutta number); **相應部注《顯揚心義》 巴利文， 佛音(覺音)尊者著：** `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.rtf>`__ (**49.2 MB**) --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 CS 及 PTS 頁碼標記
 
-     * Spk. VRI Page No. vs  PTS Page No.: `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.htm>`__ , `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.rtf>`__ --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__
+  * Spk. VRI Page No. vs  PTS Page No.: `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.htm>`__ , `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.rtf>`__ --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__
 
-  - (2) Saṁyuttanikāya-ṭīkā (1~5) (SṬ.)(with CS & PTS page number & PTS sutta number)相應部疏： `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.rtf>`__ (**. MB**) --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 CS 及 PTS 頁碼標記
+- (2). Saṁyuttanikāya-ṭīkā (1~5) (SṬ.)(with CS & PTS page number & PTS sutta number)相應部疏： `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.rtf>`__ (**. MB**) --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 CS 及 PTS 頁碼標記
 
 ----
 
@@ -274,7 +274,30 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 ------
 
+-  `阿含經讀書會 <https://sites.google.com/site/nckujrcs/du-shu-hui>`_ (國立成功大學 「 `宗教與文化研究室 <https://sites.google.com/site/nckujrcs/>`_ 」)
+
+- `雜阿含經 <http://buddhaspace.org/agama/>`__ (國立臺灣大學 「 `獅子吼佛學專站 <http://buddhaspace.org/main/modules/dokuwiki/agama:%E5%8F%B0%E5%A4%A7%E7%8D%85%E5%AD%90%E5%90%BC%E4%BD%9B%E5%AD%B8%E5%B0%88%E7%AB%99%E7%B0%A1%E4%BB%8B>`_ 」「 `阿含藏專案列表 <http://buddhaspace.org/main/modules/dokuwiki/>`_ 」)
+
+- “藏經閣外的掃葉人”網誌-- 【 `台語與佛典 <http://yifertw.blogspot.tw/>`_ 】
+
+  * `相應部尼柯耶讀書會 <http://yifertw.blogspot.tw/search/label/%E7%9B%B8%E6%87%89%E9%83%A8%E5%B0%BC%E6%9F%AF%E8%80%B6%E8%AE%80%E6%9B%B8%E6%9C%83>`_ (具有 「相應部尼柯耶讀書會」標籤的文章)、 
+  * `雜阿含讀書會 <http://yifertw.blogspot.tw/search/label/%E9%9B%9C%E9%98%BF%E5%90%AB%E8%AE%80%E6%9B%B8%E6%9C%83>`__ ( 「雜阿含讀書會」標籤)、
+  * 元亨寺 `相應部 <http://yifertw.blogspot.tw/search/label/%E5%85%83%E4%BA%A8%E5%AF%BA%E3%80%8A%E7%9B%B8%E6%87%89%E9%83%A8%E3%80%8B>`__ ( 「元亨寺《相應部》」標籤)、
+
+  * `別譯雜阿含經 <http://yifertw.blogspot.tw/search/label/%E9%9B%9C%E9%98%BF%E5%90%AB%E8%AE%80%E6%9B%B8%E6%9C%83>`__ ( 「別譯雜阿含經」標籤)、
+  * `單卷本與二十卷本雜阿含經 <http://yifertw.blogspot.tw/search/label/%E5%96%AE%E5%8D%B7%E6%9C%AC%E8%88%87%E4%BA%8C%E5%8D%81%E5%8D%B7%E6%9C%AC%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93>`__ ( 「單卷本與二十卷本雜阿含經」標籤)、
+  * `漢巴對照讀書會 <http://yifertw.blogspot.tw/search/label/%E6%BC%A2%E5%B7%B4%E5%B0%8D%E7%85%A7%E8%AE%80%E6%9B%B8%E6%9C%83>`_ (「漢巴對照讀書會」標籤)、
+  * `佛光阿含藏 <http://yifertw.blogspot.tw/search/label/%E4%BD%9B%E5%85%89%E9%98%BF%E5%90%AB%E8%97%8F>`_ (「佛光阿含藏」標籤)、
+  * `佛典校勘 <http://yifertw.blogspot.tw/search/label/%E4%BD%9B%E5%85%B8%E6%A0%A1%E5%8B%98>`_ (「佛典校勘」標籤)、 
+  * `阿含字典 <http://yifertw.blogspot.tw/search/label/%E9%98%BF%E5%90%AB%E5%AD%97%E5%85%B8>`_ (「阿含字典」標籤)
+
+- `漢文古籍譯註與數位編輯的研究 <http://buddhistinformatics.dila.edu.tw/BZA/index_zh.html>`_ ──以巴利語與漢文《別譯雜阿含經》（T.100）的版本比對與英譯為例
+
+------
+
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+-  `府城佛教網 首頁 <{filename}/pages/index.rst>`__
 
 ------
 
@@ -309,8 +332,9 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 .. [10] 請參考： `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ → `e-Tipitaka <http://www.mahindaramatemple.com/e-tipitaka/e-tipitaka.htm>`__ → `Suttanta Pitaka <http://www.mahindaramatemple.com/e-tipitaka/suttanta.htm>`__ → 3. Samyutta Nikaya `Collection of the Kindred Sayings <http://www.mahindaramatemple.com/e-tipitaka/samyutta-nikaya/samyutta-nikaya.htm>`__ (also named the "Grouped" Discourses)
 
 
-
 ..
+  07.23 add: 阿含經讀書會 (國立成功大學 「 宗教與文化研究室 」)、雜阿含經 (國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」)、“藏經閣外的掃葉人”網誌-- 【 台語與佛典 】相應部尼柯耶讀書會 (具有 「相應部尼柯耶讀書會」標籤的文章)、 and so on、漢文古籍譯註與數位編輯的研究──以巴利語與漢文《別譯雜阿含經》（T.100）的版本比對與英譯為例
+        rev. linkings of 《相應部》與《雜阿含經》對照表、《雜阿含經》與《相應部》對照表、《別譯雜阿含經》與《雜阿含經》對照表、一卷本《雜阿含經》與《雜阿含經》對照表 move to local (from dhammarain) 
   2017.07.13 大改版
   -- Rev: 02.12 2005
   08.21; 07.31.2004 --
