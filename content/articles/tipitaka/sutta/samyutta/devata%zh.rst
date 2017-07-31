@@ -10,14 +10,14 @@ Devatā-saṃyutta 諸天相應, Devas (巴利三藏 相應部)
 
 .. list-table:: Devatā-saṃyutta 諸天相應
 
-  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10) (10 經)
-    - `Nandana-Vaggo 第二 歡喜園品`_  (SN I. 11 ~ SN I. 20) (10 經) 
-    - `Satti-Vaggo 第三 劍品`_
-    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ 
-  * - `Āditta-Vaggo 第五 燃燒品`_ 
-    - `Jarā-Vaggo 第六 老品`_
-    - `Addha-Vaggo 第七 勝品`_
-    - `Chetvā-Vaggo 第八 斷品`_
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN I. 11 ~ SN I. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN I. 21 ~ SN I. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN I. 31 ~ SN I. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN I. 41 ~ SN I. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN I. 51 ~ SN I. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN I. 61 ~ SN I. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN I. 71 ~ SN I. 81)
 
 -----
 
@@ -108,14 +108,14 @@ Naḷa-Vaggo 第一 蘆葦品
 
 .. list-table:: Devatā-saṃyutta 諸天相應
 
-  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10) (10 經)
-    - `Nandana-Vaggo 第二 歡喜園品`_  (SN I. 11 ~ SN I. 20) (10 經) 
-    - `Satti-Vaggo 第三 劍品`_
-    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ 
-  * - `Āditta-Vaggo 第五 燃燒品`_ 
-    - `Jarā-Vaggo 第六 老品`_
-    - `Addha-Vaggo 第七 勝品`_
-    - `Chetvā-Vaggo 第八 斷品`_
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN I. 11 ~ SN I. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN I. 21 ~ SN I. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN I. 31 ~ SN I. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN I. 41 ~ SN I. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN I. 51 ~ SN I. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN I. 61 ~ SN I. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN I. 71 ~ SN I. 81)
 
 Nandana-Vaggo 第二 歡喜園品
 +++++++++++++++++++++++++++
@@ -204,14 +204,14 @@ Nandana-Vaggo 第二 歡喜園品
 
 .. list-table:: Devatā-saṃyutta 諸天相應
 
-  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10) (10 經)
-    - `Nandana-Vaggo 第二 歡喜園品`_  (SN I. 11 ~ SN I. 20) (10 經) 
-    - `Satti-Vaggo 第三 劍品`_
-    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ 
-  * - `Āditta-Vaggo 第五 燃燒品`_ 
-    - `Jarā-Vaggo 第六 老品`_
-    - `Addha-Vaggo 第七 勝品`_
-    - `Chetvā-Vaggo 第八 斷品`_
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN I. 11 ~ SN I. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN I. 21 ~ SN I. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN I. 31 ~ SN I. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN I. 41 ~ SN I. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN I. 51 ~ SN I. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN I. 61 ~ SN I. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN I. 71 ~ SN I. 81)
 
 Satti-Vaggo 第三 劍品
 +++++++++++++++++++++
@@ -300,14 +300,14 @@ Satti-Vaggo 第三 劍品
 
 .. list-table:: Devatā-saṃyutta 諸天相應
 
-  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10) (10 經)
-    - `Nandana-Vaggo 第二 歡喜園品`_  (SN I. 11 ~ SN I. 20) (10 經) 
-    - `Satti-Vaggo 第三 劍品`_
-    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ 
-  * - `Āditta-Vaggo 第五 燃燒品`_ 
-    - `Jarā-Vaggo 第六 老品`_
-    - `Addha-Vaggo 第七 勝品`_
-    - `Chetvā-Vaggo 第八 斷品`_
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN I. 11 ~ SN I. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN I. 21 ~ SN I. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN I. 31 ~ SN I. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN I. 41 ~ SN I. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN I. 51 ~ SN I. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN I. 61 ~ SN I. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN I. 71 ~ SN I. 81)
 
 Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
 ++++++++++++++++++++++++++++++++++++++++++
@@ -396,14 +396,14 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
 
 .. list-table:: Devatā-saṃyutta 諸天相應
 
-  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10) (10 經)
-    - `Nandana-Vaggo 第二 歡喜園品`_  (SN I. 11 ~ SN I. 20) (10 經) 
-    - `Satti-Vaggo 第三 劍品`_
-    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ 
-  * - `Āditta-Vaggo 第五 燃燒品`_ 
-    - `Jarā-Vaggo 第六 老品`_
-    - `Addha-Vaggo 第七 勝品`_
-    - `Chetvā-Vaggo 第八 斷品`_
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN I. 11 ~ SN I. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN I. 21 ~ SN I. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN I. 31 ~ SN I. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN I. 41 ~ SN I. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN I. 51 ~ SN I. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN I. 61 ~ SN I. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN I. 71 ~ SN I. 81)
 
 Āditta-Vaggo 第五 燃燒品
 +++++++++++++++++++++++++
@@ -492,14 +492,14 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
 
 .. list-table:: Devatā-saṃyutta 諸天相應
 
-  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10) (10 經)
-    - `Nandana-Vaggo 第二 歡喜園品`_  (SN I. 11 ~ SN I. 20) (10 經) 
-    - `Satti-Vaggo 第三 劍品`_
-    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ 
-  * - `Āditta-Vaggo 第五 燃燒品`_ 
-    - `Jarā-Vaggo 第六 老品`_
-    - `Addha-Vaggo 第七 勝品`_
-    - `Chetvā-Vaggo 第八 斷品`_
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN I. 11 ~ SN I. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN I. 21 ~ SN I. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN I. 31 ~ SN I. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN I. 41 ~ SN I. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN I. 51 ~ SN I. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN I. 61 ~ SN I. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN I. 71 ~ SN I. 81)
 
 Jarā-Vaggo 第六 老品
 +++++++++++++++++++++
@@ -588,14 +588,14 @@ Jarā-Vaggo 第六 老品
 
 .. list-table:: Devatā-saṃyutta 諸天相應
 
-  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10) (10 經)
-    - `Nandana-Vaggo 第二 歡喜園品`_  (SN I. 11 ~ SN I. 20) (10 經) 
-    - `Satti-Vaggo 第三 劍品`_
-    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ 
-  * - `Āditta-Vaggo 第五 燃燒品`_ 
-    - `Jarā-Vaggo 第六 老品`_
-    - `Addha-Vaggo 第七 勝品`_
-    - `Chetvā-Vaggo 第八 斷品`_
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN I. 11 ~ SN I. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN I. 21 ~ SN I. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN I. 31 ~ SN I. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN I. 41 ~ SN I. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN I. 51 ~ SN I. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN I. 61 ~ SN I. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN I. 71 ~ SN I. 81)
 
 Addha-Vaggo 第七 勝品
 +++++++++++++++++++++
@@ -684,14 +684,14 @@ Addha-Vaggo 第七 勝品
 
 .. list-table:: Devatā-saṃyutta 諸天相應
 
-  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10) (10 經)
-    - `Nandana-Vaggo 第二 歡喜園品`_  (SN I. 11 ~ SN I. 20) (10 經) 
-    - `Satti-Vaggo 第三 劍品`_
-    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ 
-  * - `Āditta-Vaggo 第五 燃燒品`_ 
-    - `Jarā-Vaggo 第六 老品`_
-    - `Addha-Vaggo 第七 勝品`_
-    - `Chetvā-Vaggo 第八 斷品`_
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN I. 1 ~ SN I. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN I. 11 ~ SN I. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN I. 21 ~ SN I. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN I. 31 ~ SN I. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN I. 41 ~ SN I. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN I. 51 ~ SN I. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN I. 61 ~ SN I. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN I. 71 ~ SN I. 81)
 
 Chetvā-Vaggo 第八 斷品
 +++++++++++++++++++++++
