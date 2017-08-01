@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2017-07-23
+:modified: 2017-08-01
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應部尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -18,7 +18,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 
     * `Saṃyuttanikāyo <http://www.accesstoinsight.org/tipitaka/sltp/SN_I_utf8.html>`__ (the others cf. `AccessToInsight <http://www.accesstoinsight.org/>`__ : original 其他請參原始出處) [1]_
 
-    * `直接閱讀 <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-PTS-dhammarain.htm>`__ (HTML, *42.1 MB* ), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-PTS-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-PTS-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-PTS-dhammarain.rtf>`__ (*69.3 MB*) -- [with PTS pg. no. from CSCD, Original compiled by Bhikkhu Dhammagutta, Revised by Dhammavassārāma, 2549 B.E. (2005 C.E.)] --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 PTS 頁碼標記及對應經典註記；另有《相應部》(Saṁyuttanikāyo)與《雜阿含經》對照表可供參考
+    * `直接閱讀 <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-PTS-dhammarain.htm>`__ (HTML, *42.1 MB* ), `PDF <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-PTS-dhammarain.pdf>`__ , `ms doc <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-PTS-dhammarain.doc>`__ , `ms rtf <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-PTS-dhammarain.rtf>`__ (*69.3 MB*) -- [with PTS pg. no. from CSCD, Original compiled by Bhikkhu Dhammagutta, Revised by Dhammavassārāma, 2549 B.E. (2005 C.E.)] --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 PTS 頁碼標記及對應經典註記；另有《相應部》(Saṁyuttanikāyo)與《雜阿含經》對照表可供參考
 
   * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__： `Saṃyuttanikāya <http://www.tipitaka.org/romn/cscd/s0301m.mul0.xml>`__ (the others cf. `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ : original 其他請參原始出處) [2]_
 
@@ -262,11 +262,11 @@ Mahāvagga 大篇
 _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 -------------------------------------------------------
 
-- (1). Saṁyuttanikāya-aṭṭhakathā(1~5) (SA.) [Sāratthappakāsinī(Spk), **pāḷi** ) --by Bhadantācariya BUDDHAGHOSA(5 A.D.), with CS & PTS page number & PTS sutta number); **相應部注《顯揚心義》 巴利文， 佛音(覺音)尊者著：** `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.rtf>`__ (**49.2 MB**) --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 CS 及 PTS 頁碼標記
+- (1). Saṁyuttanikāya-aṭṭhakathā(1~5) (SA.) [Sāratthappakāsinī(Spk), **pāḷi** ) --by Bhadantācariya BUDDHAGHOSA(5 A.D.), with CS & PTS page number & PTS sutta number); **相應部注《顯揚心義》 巴利文， 佛音(覺音)尊者著：** `HTML <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.htm>`__ (直接閱讀), `PDF <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.pdf>`__ , `ms doc <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.doc>`__ , `ms rtf <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-atthakatha-cscd-dhammarain.rtf>`__ (**49.2 MB**) --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 CS 及 PTS 頁碼標記
 
-  * Spk. VRI Page No. vs  PTS Page No.: `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.htm>`__ , `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/Spk-table.rtf>`__ --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__
+  * Spk. VRI Page No. vs  PTS Page No.: `HTML <http://www.dhammarain.org.tw/canon/SAMYUTTA/Spk-table.htm>`__ , `PDF <http://www.dhammarain.org.tw/canon/SAMYUTTA/Spk-table.pdf>`__ , `ms doc <http://www.dhammarain.org.tw/canon/SAMYUTTA/Spk-table.doc>`__ , `ms rtf <http://www.dhammarain.org.tw/canon/SAMYUTTA/Spk-table.rtf>`__ --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__
 
-- (2). Saṁyuttanikāya-ṭīkā (1~5) (SṬ.)(with CS & PTS page number & PTS sutta number)相應部疏： `HTML <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.htm>`__ (直接閱讀), `PDF <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.pdf>`__ , `ms doc <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.doc>`__ , `ms rtf <http://dhammarain.online-dhamma.net/canon/SAMYUTTA/samyutta-tika-dhammarain.rtf>`__ (**. MB**) --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 CS 及 PTS 頁碼標記
+- (2). Saṁyuttanikāya-ṭīkā (1~5) (SṬ.)(with CS & PTS page number & PTS sutta number)相應部疏： `HTML <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-tika-dhammarain.htm>`__ (直接閱讀), `PDF <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-tika-dhammarain.pdf>`__ , `ms doc <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-tika-dhammarain.doc>`__ , `ms rtf <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-tika-dhammarain.rtf>`__ --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 CS 及 PTS 頁碼標記
 
 ----
 
@@ -333,6 +333,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  08.01 rev. replace online-dhamma with official dhammarain
   07.23 add: 阿含經讀書會 (國立成功大學 「 宗教與文化研究室 」)、雜阿含經 (國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」)、“藏經閣外的掃葉人”網誌-- 【 台語與佛典 】相應部尼柯耶讀書會 (具有 「相應部尼柯耶讀書會」標籤的文章)、 and so on、漢文古籍譯註與數位編輯的研究──以巴利語與漢文《別譯雜阿含經》（T.100）的版本比對與英譯為例
         rev. linkings of 《相應部》與《雜阿含經》對照表、《雜阿含經》與《相應部》對照表、《別譯雜阿含經》與《雜阿含經》對照表、一卷本《雜阿含經》與《雜阿含經》對照表 move to local (from dhammarain) 
   2017.07.13 大改版
