@@ -187,7 +187,7 @@ Anāthapiṇḍika-Vaggo 第二 給孤獨品
 
   * `Anāthapiṇḍika <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.011-020.rhyc.pts.htm#sn.1.2.20>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
-  * 對照之阿含經典及其他： `雜阿含593經 <http://tripitaka.cbeta.org/T02n0099_022#0158b24>`__ (SA 593, 須達生天) (CBETA; T02, no. 99, p. 158, b24)、 `別譯雜阿含187經 <http://tripitaka.cbeta.org/T02n0100_009#0441a27>`__ (CBETA; T02, no. 100, p. 441, a27)、 `MN 143 中部143 教誡給孤獨經 <{filename}../majjhima/majjhima-nikaaya%zh.rst#MN143>`__ **(部份參照)**  
+  * 對照之阿含經典及其他： `雜阿含593經 <http://tripitaka.cbeta.org/T02n0099_022#0158b24>`__ (SA 593, 須達生天) (CBETA; T02, no. 99, p. 158, b24)、 `別譯雜阿含187經 <http://tripitaka.cbeta.org/T02n0100_009#0441a27>`__ (CBETA; T02, no. 100, p. 441, a27)、 `MN 143 中部143 教誡給孤獨經 <{filename}../majjhima/majjhima-nikaaya%zh.rst#mn143>`__ **(部份參照)**  
 
 ------
 
