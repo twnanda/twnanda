@@ -11,9 +11,9 @@ Vedanā-saṃyuttaṃ 受相應, Feeling (巴利三藏 相應部)
 
 .. list-table:: Vedanāsaṃyuttaṃ 受相應
 
-  * - `Sagāthā-Vaggo 第一 有偈品`_
-    - `Rahogata-Vaggo 第二 獨坐品`_ 
-    - `Aṭṭhasatapariyāya-Vaggo 第三 百八理品`_
+  * - `Sagāthā-Vaggo 第一 有偈品`_ (SN 36. 1 ~ SN 36. 10)
+    - `Rahogata-Vaggo 第二 獨坐品`_ (SN 36. 11 ~ SN 36. 20)
+    - `Aṭṭhasatapariyāya-Vaggo 第三 百八理品`_ (SN 36. 21 ~ SN 36. 31)
 
 -----
 
@@ -104,9 +104,9 @@ Sagāthā-Vaggo 第一 有偈品
 
 .. list-table:: Vedanāsaṃyuttaṃ 受相應
 
-  * - `Sagāthā-Vaggo 第一 有偈品`_
-    - `Rahogata-Vaggo 第二 獨坐品`_ 
-    - `Aṭṭhasatapariyāya-Vaggo 第三 百八理品`_
+  * - `Sagāthā-Vaggo 第一 有偈品`_ (SN 36. 1 ~ SN 36. 10)
+    - `Rahogata-Vaggo 第二 獨坐品`_ (SN 36. 11 ~ SN 36. 20)
+    - `Aṭṭhasatapariyāya-Vaggo 第三 百八理品`_ (SN 36. 21 ~ SN 36. 31)
 
 Rahogata-Vaggo 第二 獨坐品	
 +++++++++++++++++++++++++++
@@ -195,9 +195,9 @@ Rahogata-Vaggo 第二 獨坐品
 
 .. list-table:: Vedanāsaṃyuttaṃ 受相應
 
-  * - `Sagāthā-Vaggo 第一 有偈品`_
-    - `Rahogata-Vaggo 第二 獨坐品`_ 
-    - `Aṭṭhasatapariyāya-Vaggo 第三 百八理品`_
+  * - `Sagāthā-Vaggo 第一 有偈品`_ (SN 36. 1 ~ SN 36. 10)
+    - `Rahogata-Vaggo 第二 獨坐品`_ (SN 36. 11 ~ SN 36. 20)
+    - `Aṭṭhasatapariyāya-Vaggo 第三 百八理品`_ (SN 36. 21 ~ SN 36. 31)
 
 Aṭṭhasatapariyāya-Vaggo 第三 百八理品
 ++++++++++++++++++++++++++++++++++++++
