@@ -11,6 +11,9 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
           (The "Grouped" Discourses), 5 vols
 
 
+- `相應部 概說 <{filename}samyutta-nikaya-summary-guan-hiang%zh.rst>`__ （元亨寺）
+
+----
 
 - `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -333,7 +336,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
-  08.05 add remark-- under construction
+  08.05 add remark-- under construction & 相應部 概說
   08.01 rev. replace online-dhamma with official dhammarain
   07.23 add: 阿含經讀書會 (國立成功大學 「 宗教與文化研究室 」)、雜阿含經 (國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」)、“藏經閣外的掃葉人”網誌-- 【 台語與佛典 】相應部尼柯耶讀書會 (具有 「相應部尼柯耶讀書會」標籤的文章)、 and so on、漢文古籍譯註與數位編輯的研究──以巴利語與漢文《別譯雜阿含經》（T.100）的版本比對與英譯為例
         rev. linkings of 《相應部》與《雜阿含經》對照表、《雜阿含經》與《相應部》對照表、《別譯雜阿含經》與《雜阿含經》對照表、一卷本《雜阿含經》與《雜阿含經》對照表 move to local (from dhammarain) 
