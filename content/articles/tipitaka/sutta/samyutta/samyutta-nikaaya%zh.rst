@@ -78,7 +78,7 @@ Sagāthāvagga 有偈篇
 
 - 2.) `Devaputta-saṃyutta 天子相應 <{filename}devaputta%zh.rst>`__ (30 經, Sons of the Devas)
 
-- 3.) `Kosala-saṃyuttaṃ 憍薩羅相應 <{filename}kosala%zh.rst>`__ (建構中 under construction; 25 經, 拘薩羅相應, King Pasenadi of Kosala)
+- 3.) `Kosala-saṃyuttaṃ 憍薩羅相應 <{filename}kosala%zh.rst>`__ (25 經, 拘薩羅相應, King Pasenadi of Kosala)
 
 - 4.) `Māra-saṃyuttaṃ 魔相應 <{filename}mara%zh.rst>`__ (建構中 under construction; 25 經, 惡魔相應, Mara)
 
@@ -336,8 +336,12 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  08.07 add: Kosala-saṃyuttaṃ 
   08.05 add remark-- under construction & 相應部 概說
+  08.04 rev. finish Vedanā-saṃyuttaṃ
+  08.03 rev. finish Devaputta-saṃyuttaṃ
   08.01 rev. replace online-dhamma with official dhammarain
+  07.31 rev. finish Devata-saṃyuttaṃ
   07.23 add: 阿含經讀書會 (國立成功大學 「 宗教與文化研究室 」)、雜阿含經 (國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」)、“藏經閣外的掃葉人”網誌-- 【 台語與佛典 】相應部尼柯耶讀書會 (具有 「相應部尼柯耶讀書會」標籤的文章)、 and so on、漢文古籍譯註與數位編輯的研究──以巴利語與漢文《別譯雜阿含經》（T.100）的版本比對與英譯為例
         rev. linkings of 《相應部》與《雜阿含經》對照表、《雜阿含經》與《相應部》對照表、《別譯雜阿含經》與《雜阿含經》對照表、一卷本《雜阿含經》與《雜阿含經》對照表 move to local (from dhammarain) 
   2017.07.13 大改版
