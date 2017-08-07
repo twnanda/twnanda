@@ -4,7 +4,7 @@ Vedanā-saṃyuttaṃ 受相應, Feeling (巴利三藏 相應部)
 :date: 2005-02-12
 :modified: 2017-08-04
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Vedanaa.htm
-:tags: 巴利三藏相應部
+:tags: 巴利三藏相應部, Vedanā-saṃyuttaṃ, 受相應, Feeling
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Vedanā-saṃyuttaṃ 受相應, Feeling
 
