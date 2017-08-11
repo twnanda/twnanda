@@ -1,17 +1,12 @@
-=======================================================================
-初轉法輪經 (法輪轉起經, 轉法輪經, SN 56.11 Dhammacakkappavattanasuttaṃ)
-=======================================================================
+=======================================================================================
+初轉法輪經 (法輪轉起經, 轉法輪經, 如來所說之一, SN 56.11 Dhammacakkappavattanasuttaṃ)
+=======================================================================================
 
 :date: 2016-05-13 16:00
-:modified: 2017-04-30 22:30
-:tags: 初轉法輪經, 法輪轉起經, 轉法輪經, 初轉法輪經, SN 56.11 Dhammacakkappavattanasuttaṃ
+:modified: 2017-08-11
+:tags: 初轉法輪經, 法輪轉起經, 轉法輪經, 初轉法輪經, 如來所說之一, SN 56.11 Dhammacakkappavattanasuttaṃ
 :category: 巴利三藏相應部
-:summary: 初轉法輪經 (法輪轉起經, 轉法輪經), SN 56.11 Dhammacakkappavattanasuttaṃ, Dhammacakkappavattana Sutta;
-
-------
-
-| **Namo tassa bhagavato arahato sammāsambuddhassa**
-| **禮敬世尊、阿羅漢、正等正覺者**
+:summary: 初轉法輪經 (法輪轉起經, 轉法輪經, 如來所說之一), SN 56.11 Dhammacakkappavattanasuttaṃ, Dhammacakkappavattana Sutta;
 
 ----
 
@@ -52,6 +47,8 @@
 
   * `佛說三轉法輪經 <http://www.cbeta.org/result/normal/T02/0110_001.htm>`__ （三藏法師義淨奉　制譯，大正新脩大藏經 第二冊 No. 110）；或另一連結(SuttaCentral)： `T 110　佛說三轉法輪經 <http://suttacentral.net/lzh/t110>`__ （三藏法師義淨奉　制譯）
 
+  * `增壹阿含19.2 <http://tripitaka.cbeta.org/T02n0125_010#0593b24>`_  (增壹阿含經卷第十勸請品第十九)（二） (EA 19.2 **部份參照** ) (CBETA; T02, no. 125, p. 593, b24)、 `中阿含204羅摩經 <http://tripitaka.cbeta.org/T01n0026_056#0775c07>`_ (中阿含經卷第五十六晡利多品羅摩經第三); (MA 204, **(部份參照)** )(CBETA; T01, no. 26, p. 775, c07)
+
 - 英譯(English)：
 
   * `Setting in Motion the Wheel of the Dhamma <{filename}sn56-011-bodhi%zh.rst>`__ , translated from the Pali by **Ven. Bodhi Bhikkhu (菩提尊者)** (with introduction by **Ven. Narada Maha Thera** , original: BuddhaSasana) [9]_
@@ -82,7 +79,7 @@
 
     French Translation: `La Roue de la Loi <http://www.buddhadust.com/m/dhamma-vinaya/fra/sn/05_mv/sn05.56.011.prud.fra.htm>`__ , Christian Prud'homme
 
-    German Translation: `Vom Vollendeten Gesprochenes <http://www.buddhadust.com/m/dhamma-vinaya/deu/sn/05_mv/sn05.56.011.unon.deu.htm>`__ , unknown, trans from Palikanon.com <http://www.palikanon.com/>`__ 
+    German Translation: `Vom Vollendeten Gesprochenes <http://www.buddhadust.com/m/dhamma-vinaya/deu/sn/05_mv/sn05.56.011.unon.deu.htm>`__ , unknown, trans from `Palikanon.com <http://www.palikanon.com/>`__ 
 
     Russian Translation: `Сутта запуска колеса Дхаммы <http://dhamma.ru/canon/sn/sn56-11.htm>`__ , The DhammaCakkappaVattana Sutta in Russian, Alekseyevich Ivakhnenko, trans. 
 
@@ -129,6 +126,8 @@
   * `轉法輪經- YouTube <https://www.youtube.com/watch?v=UtJeaFlrHF8>`__ (僅有聲音，華語白話讀頌)
 
 --------------
+
+- `Sacca-saṃyuttaṃ 諦相應 (四聖諦相應) <{filename}../sacca%zh.rst>`__
 
 - `Saṃyuttanikāya 相應部 (Sa"myutta-nikaaya) <{filename}/articles/tipitaka/sutta/samyutta/samyutta-nikaaya%zh.rst>`__ 
 
@@ -180,7 +179,9 @@
 .. [20] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Saṃyutta Nikāya (SN) <https://suttacentral.net/sn>`__  →  SN 56  `Sacca Saṃyutta <https://suttacentral.net/sn56>`__   →  `SN 56.11 <https://suttacentral.net/pi/sn56.11>`__  →  `Details for SN 56.11 Dhamma-cakka­ppavattana <https://suttacentral.net/sn56.11>`__ 。
 
 ..
-  2017 add: Sri Lanka Buddha Jayanti Tripitaka Series (Obo's Web) & SuttaCentral
+  08.11 add:  增壹阿含19.2, 中阿含204羅摩經(部份參照); 08.10 add:  如來所說之一 on title, linking of 諦相應 (四聖諦相應); rev. correct linking of Palikanon.com ; del: Namo tassa bhagavato arahato sammāsambuddhassa 禮敬世尊、阿羅漢、正等正覺者
+
+  2017 04.30 add: Sri Lanka Buddha Jayanti Tripitaka Series (Obo's Web) & SuttaCentral
   11.05 del:節錄自： 巴利系佛教史綱　第六章　聖典　二　摘錄(已轉至 template)
         add: sn56-011-santv%zh.rst
   2016.05.13 add .rst 05.16 rev.
