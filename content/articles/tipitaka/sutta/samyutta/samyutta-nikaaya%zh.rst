@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2017-08-08
+:modified: 2017-08-11
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應部尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -248,7 +248,7 @@ Mahāvagga 大篇
 
 - 55.) `Sotāpatti-saṃyuttaṃ 入流相應 <{filename}sotapatti%zh.rst>`__ (建構中 under construction; 74 經, 預流相應, 四預流支相應, Stream-entry)
 
-- 56.) `Sacca-saṃyuttaṃ 諦相應 <{filename}sacca%zh.rst>`__ (建構中 under construction; 131 經, 四聖諦相應, The Four Noble Truths)
+- 56.) `Sacca-saṃyuttaṃ 諦相應 <{filename}sacca%zh.rst>`__ (131 經, 四聖諦相應, The Four Noble Truths)
 
 ------
 
@@ -336,6 +336,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  08.11 add: Sacca-saṃyuttaṃ
   08.08 add: Ānāpāna-saṃyuttaṃ
   08.07 add: Kosala-saṃyuttaṃ 
   08.05 add remark-- under construction & 相應部 概說
