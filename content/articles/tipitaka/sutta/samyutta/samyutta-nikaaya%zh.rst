@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2017-08-11
+:modified: 2017-08-13
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應部尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -172,7 +172,7 @@ Khandhavagga 犍度篇
 
 - 33.) `Vacchagotta-saṃyuttaṃ 婆蹉氏相應 <{filename}vacchagotta%zh.rst>`__ (建構中 under construction; 55 經, 婆磋種尊者相應, Ven. Vacchagotta)
 
-- 34.) `Jhāna-saṃyuttaṃ 禪相應 <{filename}jhana34%zh.rst>`__ (建構中 under construction; 55 經, Concentration)
+- 34.) `Samādhi-saṃyuttaṃ 定相應 <{filename}samadhi%zh.rst>`__ (55 經; or Jhāna-saṃyuttaṃ 禪相應, 禪定相應, 靜慮相應, Concentration or Meditation)
 
 ------
 
@@ -242,7 +242,7 @@ Mahāvagga 大篇
 
 - 52.) `Anuruddha-saṃyuttaṃ 阿那律相應 <{filename}anuruddha%zh.rst>`__ (建構中 under construction; 24 經, 阿那律尊者相應, Ven. Anuruddha)
 
-- 53.) `Jhāna-saṃyuttaṃ 禪相應 <{filename}jhana53%zh.rst>`__ (建構中 under construction; 54 經, 四靜慮相應, 禪定相應, Jhana (mental absorption))
+- 53.) `Jhāna-saṃyuttaṃ 禪相應 <{filename}jhana%zh.rst>`__ (建構中 under construction; 54 經, 禪定相應, 靜慮相應, 四靜慮相應, the Jhanas, Jhana (mental absorption))
 
 - 54.) `Ānāpāna-saṃyuttaṃ 入出息相應 <{filename}anapana%zh.rst>`__ (20 經, 入出息念相應; Mindfulness of breathing)
 
@@ -336,6 +336,10 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  08.13 add: Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應
+  08.12 rev. ren jhana34%zh.rst to samadhi%zh.rst & jhana53%zh.rst to jhana%zh.rst
+             34.) Samādhi-saṃyuttaṃ 定相應 (55 經; or Jhāna-saṃyuttaṃ 禪相應, 禪定相應, 靜慮相應, Concentration or Meditation)  old: 34.) Jhāna-saṃyuttaṃ 禪相應 (55 經, Concentration) 
+             53.) Jhāna-saṃyuttaṃ 禪相應 (54 經, 禪定相應, 靜慮相應, 四靜慮相應, the Jhanas, Jhana (mental absorption))  old: 53.) Jhāna-saṃyuttaṃ 禪相應 (54 經, 四靜慮相應, 禪定相應, Jhana (mental absorption))
   08.11 add: Sacca-saṃyuttaṃ
   08.08 add: Ānāpāna-saṃyuttaṃ
   08.07 add: Kosala-saṃyuttaṃ 
