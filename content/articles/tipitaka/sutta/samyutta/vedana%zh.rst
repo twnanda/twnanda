@@ -2,7 +2,7 @@ Vedanā-saṃyuttaṃ 受相應, Feeling (巴利三藏 相應部)
 #####################################################
 
 :date: 2005-02-12
-:modified: 2017-08-04
+:modified: 2017-08-14
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Vedanaa.htm
 :tags: 巴利三藏相應部, Vedanā-saṃyuttaṃ, 受相應, Feeling
 :category: 巴利三藏相應部
@@ -303,24 +303,18 @@ Aṭṭhasatapariyāya-Vaggo 第三 百八理品
 
 * 「對照之阿含經典」係參考： `SuttaCentral <https://suttacentral.net/sn1>`__
 
-.. [1] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ ``*http://www.tipitaka.org/*`` (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Sagāthāvaggapāḷi → `1. Devatāsaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul0.xml>`__ , `2. Devaputtasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`__ , and so on)。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
+.. [1] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ ``*http://www.tipitaka.org/*`` (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Saḷāyatanavaggapāḷi → `2. Vedanāsaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul1.xml>`__ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
 
 .. [2] 請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯 相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__
 
 .. [3] 請參考： `N 《漢譯南傳大藏經》 <http://tripitaka.cbeta.org/N>`__ （紙本來源：元亨寺漢譯南傳大藏經編譯委員會 / 高雄：元亨寺妙林出版社, 1995.） → 經藏／相應部 N13, N14, N15, N16, N17, N18 → `N16 <http://tripitaka.cbeta.org/N16>`__ → 第 16 冊：直接進入閱讀 `N16n0006　相應部經典(第35卷-第41卷) ( 7 卷)　【雲庵譯】 <http://tripitaka.cbeta.org/N13n0006>`_ （ `第 036 卷 <http://tripitaka.cbeta.org/N16n0006_036>`__ 、下載 `ePub <http://www.cbeta.org/download/epub/download.php?file=N/N0006.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/N/N0006.mobi>`__ 、 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/N/N0006.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/N/N0006.pdf>`__ 。
 
-.. [4] 選錄多位翻譯者之譯文，請參 `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ → `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ : 1. (sŋ 1-11) `Sagāthā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_01_sagathavagga.htm>`__ (With Cantos, Poetry, Verses)
-       2. (sŋ 12-21) `Nidāna-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_02_nidanavagga.htm>`__ (About Nidana, Causation)
-
-       3. (sŋ 22-34) `Khandha-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_03_khandhavagga.htm>`__ (On the Stockpiles, Elements of Existance, Aggregates)
-
-       4. (sŋ 35-44) `Saļāyatana-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_04_salayatanavagga.htm>`__ (On the Sense Realm, Six Sense Bases)
-
-       5. (sŋ 45-56) `Mahā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_05_mahavagga.htm>`__ (The Great Collection) [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
+.. [4] 選錄多位翻譯者之譯文，請參 `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ → `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ : 4. (sŋ 35-44) `Saļāyatana-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_04_salayatanavagga.htm>`__ (On the Sense Realm, Six Sense Bases) [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
 
 .. [5] 部份經典選譯，請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ 
 
 ..
+  08.14 rev. note(ref.)
   08.04 改版 big revision finished 
   2017.07.17 big 改版 (under construction)
   04.08; 04.06 2005

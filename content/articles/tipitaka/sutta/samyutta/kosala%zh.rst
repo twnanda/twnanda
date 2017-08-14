@@ -2,7 +2,7 @@ Kosala-saṃyuttaṃ 憍薩羅相應(拘薩羅相應) , King Pasenadi of Kosala 
 #####################################################################################
 
 :date: 2017-08-07
-:modified: 2017-08-07
+:modified: 2017-08-14
 :tags: 巴利三藏相應部, Kosala-saṃyuttaṃ, 憍薩羅相應, 拘薩羅相應, King Pasenadi of Kosala
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Kosala-saṃyuttaṃ 憍薩羅相應(拘薩羅相應) , King Pasenadi of Kosala
@@ -254,25 +254,19 @@ Tatiya-Vaggo 第三品
 
 * 「對照之阿含經典」係參考： `SuttaCentral <https://suttacentral.net/sn1>`__
 
-.. [1] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ ``*http://www.tipitaka.org/*`` (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Sagāthāvaggapāḷi → `1. Devatāsaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul0.xml>`__ , `2. Devaputtasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`__ , and so on)。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
+.. [1] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ ``*http://www.tipitaka.org/*`` (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Sagāthāvaggapāḷi → `3. Kosalasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`__ 。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
 
 .. [2] 請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯 相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__
 
-.. [3] 請參考： `N 《漢譯南傳大藏經》 <http://tripitaka.cbeta.org/N>`__ （紙本來源：元亨寺漢譯南傳大藏經編譯委員會 / 高雄：元亨寺妙林出版社, 1995.） → 經藏／相應部 N13, N14, N15, N16, N17, N18 → `N13 <http://tripitaka.cbeta.org/N13>`__ → 第 13 冊：直接進入閱讀 `N13n0006　相應部經典(第1卷-第11卷) ( 11 卷)　【通妙譯】 <http://tripitaka.cbeta.org/N13n0006>`_ （ `第 001 卷 <http://tripitaka.cbeta.org/N13n0006_001>`__ 、 `第 002 卷 <http://tripitaka.cbeta.org/N13n0006_002>`__ ..., ... 以此類推）、下載 `ePub <http://www.cbeta.org/download/epub/download.php?file=N/N0006.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/N/N0006.mobi>`__ 、 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/N/N0006.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/N/N0006.pdf>`__ 。
+.. [3] 請參考： `N 《漢譯南傳大藏經》 <http://tripitaka.cbeta.org/N>`__ （紙本來源：元亨寺漢譯南傳大藏經編譯委員會 / 高雄：元亨寺妙林出版社, 1995.） → 經藏／相應部 N13, N14, N15, N16, N17, N18 → `N13 <http://tripitaka.cbeta.org/N13>`__ → 第 13 冊：直接進入閱讀 `N13n0006　相應部經典(第1卷-第11卷) ( 11 卷)　【通妙譯】 <http://tripitaka.cbeta.org/N13n0006>`_ （ `第 003 卷 <http://tripitaka.cbeta.org/N13n0006_003>`__ 、下載 `ePub <http://www.cbeta.org/download/epub/download.php?file=N/N0006.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/N/N0006.mobi>`__ 、 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/N/N0006.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/N/N0006.pdf>`__ 。
 
-.. [4] 選錄多位翻譯者之譯文，請參 `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ → `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ : 1. (sŋ 1-11) `Sagāthā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_01_sagathavagga.htm>`__ (With Cantos, Poetry, Verses)
-       2. (sŋ 12-21) `Nidāna-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_02_nidanavagga.htm>`__ (About Nidana, Causation)
-
-       3. (sŋ 22-34) `Khandha-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_03_khandhavagga.htm>`__ (On the Stockpiles, Elements of Existance, Aggregates)
-
-       4. (sŋ 35-44) `Saļāyatana-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_04_salayatanavagga.htm>`__ (On the Sense Realm, Six Sense Bases)
-
-       5. (sŋ 45-56) `Mahā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_05_mahavagga.htm>`__ (The Great Collection) [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
+.. [4] 選錄多位翻譯者之譯文，請參 `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ → `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ : 1. (sŋ 1-11) `Sagāthā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_01_sagathavagga.htm>`__ (With Cantos, Poetry, Verses) [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
 
 .. [5] 部份經典選譯，請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ 
 
 .. [6] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） -- `03 拘薩羅相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=276>`__ 
 
 ..
+  08.14 rev. note(ref.)
   08.07 finished
   create on 2017.07.17 (under construction)
