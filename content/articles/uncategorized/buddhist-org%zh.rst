@@ -3,7 +3,7 @@
 =============
 
 :date: 2005-05-01
-:modified: 2017-03-11
+:modified: 2017-08-14
 :tags: 佛教團體資源
 :category: 未分類
 :summary: 佛教團體資源
@@ -27,6 +27,8 @@
 - `給孤獨園林 <http://www.charity.idv.tw/>`_
 
 - `靈山寺 <http://www.tt034.org.tw/>`_ （ `悲廣文教基金會 <http://www.tt034.org.tw/index.php?temp=events&lang=cht>`_ 、 `德妙佛學資料中心 <http://www.tt034.org.tw/index.php?temp=dm&lang=cht>`_ 、 `正觀雜誌 <http://www.tt034.org.tw/index.php?temp=mag&lang=cht>`_ ）
+
+- `原始佛法～林居禪園 <http://wgf9966.wixsite.com/4ariyasacca>`_ （以原始佛法修行為主軸，透過朱倍賢教授的演說及講座内容，於生活中實踐佛法之喜悦分享； `另一站 <http://ariyasacca.weebly.com/>`__ ）
 
 - 休士頓禪修中心： `正體漢文 <http://www.houstonmeditationc.com/?q=zh-hant>`__ 、 `简体漢文 <http://www.houstonmeditationc.com/?q=zh-hans>`__ ； `HOUSTON MEDITATION CENTER <http://www.houstonmeditationc.com/>`_ (in English 英文)
 
@@ -167,6 +169,7 @@
 資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2560; (03.11, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2017 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 ..
+  08.14 add:原始佛法～林居禪園
   03.09 2017 make rst; bak:ext/Buddhist-Org-2014-0527-html.bak del: Ajahn Chah -- Branches of Wat Nong Pah Pon(in English 英文);　(in Thai 泰文);　阿姜查 巴蓬寺分院(中文) unavailable!; 慈濟全球資訊網tzuchi.org.tw; (台南)靜心圖書館圖書資料municita.lib/municita.htm; rev. old: Buddhist-Org.html Guest Monk Wat Pah Nanachat; 03.11 finish
   ----------------------------------------------------
   05.27 2014 rev. HMC休士頓禪修中心
