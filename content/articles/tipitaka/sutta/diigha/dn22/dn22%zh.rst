@@ -3,7 +3,7 @@
 ===================================================
 
 :date: 2004-07-03 09:00
-:modified: 2017-01-16 21:00
+:modified: 2017-08-15 18:00
 :tags: 大念處經, 念住大經, DN 22 Mahāsatipaṭṭhānasuttaṃ, dn 22, Dn22, The Long Discourse about the Ways of Attending to Mindfulness, The Great Frames of Reference
 :category: 巴利三藏長部
 :summary: 大念處經 (念住大經, DN 22 Mahāsatipaṭṭhānasuttaṃ) The Great Frames of Reference; The Long Discourse about the Ways of Attending to Mindfulness
@@ -12,7 +12,7 @@
 
 - `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Mahāsatipaṭṭhānasuttaṃ
 
-  - PTS:  `mahāparinibbānasuttaṃ <{filename}dn22-pts%zh.rst>`__ [original： `Access to Insight <http://www.accesstoinsight.org/>`__  → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `DN <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → DN 22: Maha-satipatthana Sutta → `{D ii 290} <http://www.accesstoinsight.org/tipitaka/sltp/DN_II_utf8.html#pts.290>`__ ; (PTS Page 290）]
+  - PTS:  `mahāsatipaṭṭhānasuttaṃ <{filename}dn22-pts%zh.rst>`__ [original： `Access to Insight <http://www.accesstoinsight.org/>`__  → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `DN <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → DN 22: Maha-satipatthana Sutta → `{D ii 290} <http://www.accesstoinsight.org/tipitaka/sltp/DN_II_utf8.html#pts.290>`__ ; (PTS Page 290）]
 
   -  `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ ： `Mahāsatipaṭṭhānasuttaṃ <{filename}/extra/tipitaka/sutta/digha/dn.22-CSCD.html>`__ [original： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單 “Tipiṭaka Scripts” 中選 `Roman → Web <http://www.tipitaka.org/romn/>`__  → Tipiṭaka (Mūla) → Suttapiṭaka → Dīghanikāya → Mahāvaggapāḷi → `9. Mahāsatipaṭṭhānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul8.xml>`__ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__  (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
 
@@ -182,6 +182,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  08.15 rev. old: PTS: mahāparinibbānasuttaṃ
   01.16 2017 replace /extra/tipitaka/sutta/digha/dn.22-pts.html with dn22-pts%zh.rst
   ------
   05.22 add: Exploring the Four Satipaṭṭhānas in Study and Practice (PDF), Ven. Bhikkhu Anālayo
