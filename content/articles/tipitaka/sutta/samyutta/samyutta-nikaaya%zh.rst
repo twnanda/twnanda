@@ -226,7 +226,7 @@ Saḷāyatanavagga 六處篇
 Mahāvagga 大篇
 ---------------
 
-- 45.) `Magga-saṃyuttaṃ 道相應 <{filename}magga%zh.rst>`__ (建構中 under construction; 181 經 or 180經, 八正道相應, 八聖道相應, The Noble Eightfold Path)
+- 45.) `Magga-saṃyuttaṃ 道相應 <{filename}magga%zh.rst>`__ (181 經 or 180經, 八正道相應, 八聖道相應, The Noble Eightfold Path)
 
 - 46.) `Bojjhaṅga-saṃyuttaṃ 覺支相應 <{filename}bojjhanga%zh.rst>`__ (建構中 under construction; 184 經 or 175經, 七覺支相應, The Seven Factors for Awakening)
 
@@ -336,6 +336,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  08.18 add: Magga-saṃyuttaṃ 道相應
   08.13 add: Jhāna-saṃyuttaṃ 禪相應
   08.13 add: Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應
   08.12 rev. ren jhana34%zh.rst to samadhi%zh.rst & jhana53%zh.rst to jhana%zh.rst
