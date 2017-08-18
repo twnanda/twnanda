@@ -157,6 +157,8 @@ Dutiya-Vaggo 第二品
 
   * 對照之阿含經典及其他： 無
 
+.. _sn3_17:
+
 - 17.) SN 3. 17, `Appamādasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 86 (PTS page), 不放逸(得現在利.未來利) (1)
 
   * `不放逸經 <http://agama.buddhason.org/SN/SN0128.htm>`__ (臺灣, 莊春江) [2]_ ; `不放逸之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=276&page_id=313:377>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `不放逸（其一） <http://tripitaka.cbeta.org/N13n0006_003#0152a01>`__ (臺灣, 元亨寺, 通妙) [3]_ 

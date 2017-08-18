@@ -6789,7 +6789,7 @@ Vibhaṅgavaggo 分別品
      - `MN138`_
      - `MN139`_
      - `MN140`_
-     - `MN141`_
+     - `mn141`_
      - `MN142`_
 
 .. _MN131:
@@ -7064,7 +7064,7 @@ Vibhaṅgavaggo 分別品
      - `MN138`_
      - `MN139`_
      - `MN140`_
-     - `MN141`_
+     - `mn141`_
      - `MN142`_
 
 .. _MN137:
@@ -7237,7 +7237,7 @@ Vibhaṅgavaggo 分別品
 
 ------
 
-.. _MN141:
+.. _mn141:
 
 - MN 141: Saccavibhaṅga Sutta, 中部141, 諦分別經, 分析聖諦經, M iii 248
 
@@ -7251,7 +7251,7 @@ Vibhaṅgavaggo 分別品
 
   * 漢譯：
 
-    - `諦分別經 <http://agama.buddhason.org/MN/MN141.htm>`__ ; **莊春江** 譯 [5]_
+    - `諦分別經 <http://agama.buddhason.org/MN/mn141.htm>`__ ; **莊春江** 譯 [5]_
 
     - `分析聖諦經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=465>`__ ; **蕭式球** 譯 [6]_
 
