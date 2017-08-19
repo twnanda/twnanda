@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2017-08-14
+:modified: 2017-08-19
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應部尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -196,9 +196,9 @@ Saḷāyatanavagga 六處篇
 
 - 37.) `Mātugāma-saṃyuttaṃ 婦女相應 <{filename}matugama%zh.rst>`__ (建構中 under construction; 34 經, 女人相應, Destinies of women)
 
-- 38.) `Jambukhādaka-saṃyuttaṃ 閻浮車相應 <{filename}jambukhadaka%zh.rst>`__ (建構中 under construction; 16 經, 遊行者閻浮車相應, Jambhukhadaka the wanderer)
+- 38.) `Jambukhādaka-saṃyuttaṃ 閻浮車相應 <{filename}jambukhadaka%zh.rst>`__ (16 經, 遊行者閻浮車相應, Jambhukhadaka the wanderer)
 
-- 39.) `Sāmaṇḍaka-saṃyuttaṃ 沙門出家相應 <{filename}samandaka%zh.rst>`__ (建構中 under construction; 2 經, 沙門達迦相應, Samandaka the wanderer)
+- 39.) `Sāmaṇḍaka-saṃyuttaṃ 沙門出家相應 <{filename}samandaka%zh.rst>`__ (2 經, 沙門達迦相應, Samandaka the wanderer)
 
 - 40.) `Moggallāna-saṃyuttaṃ 目犍連尊者相應 <{filename}moggallana%zh.rst>`__ (建構中 under construction; 11 經, 目犍連尊者相應, 目揵連相應, Ven. Moggallana)
 
@@ -336,6 +336,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  08.19 add: Jambukhādaka-saṃyuttaṃ 閻浮車相應、Sāmaṇḍaka-saṃyuttaṃ 沙門出家相應
   08.18 add: Magga-saṃyuttaṃ 道相應
   08.13 add: Jhāna-saṃyuttaṃ 禪相應
   08.13 add: Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應
