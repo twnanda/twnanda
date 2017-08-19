@@ -2,7 +2,7 @@ Kosala-saṃyuttaṃ 憍薩羅相應(拘薩羅相應) , King Pasenadi of Kosala 
 #####################################################################################
 
 :date: 2017-08-07
-:modified: 2017-08-14
+:modified: 2017-08-19
 :tags: 巴利三藏相應部, Kosala-saṃyuttaṃ, 憍薩羅相應, 拘薩羅相應, King Pasenadi of Kosala
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Kosala-saṃyuttaṃ 憍薩羅相應(拘薩羅相應) , King Pasenadi of Kosala
@@ -18,6 +18,8 @@ Kosala-saṃyuttaṃ 憍薩羅相應(拘薩羅相應) , King Pasenadi of Kosala 
 Paṭhama-Vaggo 第一品
 +++++++++++++++++++++++
 
+.. _sn3_1:
+
 - 1.) SN 3. 1, `Daharasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 68 (PTS page), 幼少(四不可輕)
 
   * `年輕經 <http://agama.buddhason.org/SN/SN0112.htm>`__ (臺灣, 莊春江) [2]_ ; `細小 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=276>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `幼少 <http://tripitaka.cbeta.org/N13n0006_003#0127a05>`__ (臺灣, 元亨寺, 通妙) [3]_ 
@@ -25,6 +27,8 @@ Paṭhama-Vaggo 第一品
   * Young (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Young <http://www.accesstoinsight.org/tipitaka/sn/sn03/sn03.001.than.html>`__ (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `Young Creatures <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.03.001-010.rhyc.pts.htm#sn.1.3.1>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1226經 <http://tripitaka.cbeta.org/T02n0099_046#0334c13>`__ (SA 1226, 三菩提) (CBETA; T02, no. 99, p. 334, c13)、 `別譯雜阿含53經 <http://tripitaka.cbeta.org/T02n0100_003#0391c02>`__ (CBETA; T02, no. 100, p. 391, c02)
+
+.. _sn3_2:
 
 - 2.) SN 3. 2, `Purisasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 70 (PTS page), 人(中幾何法苦惱)
 
@@ -34,6 +38,8 @@ Paṭhama-Vaggo 第一品
 
   * 對照之阿含經典及其他： `雜阿含1065經 <http://tripitaka.cbeta.org/T02n0099_038#0276c17>`__ (SA 1065, 象首) (CBETA; T02, no. 99, p. 276, c17) **(部份參照)** 、 `別譯雜阿含4經 <http://tripitaka.cbeta.org/T02n0100_001#0374c11>`__ (CBETA; T02, no. 100, p. 374, c11) **(部份參照)** 
 
+.. _sn3_3:
+
 - 3.) SN 3. 3, `Jarāmaraṇasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 71 (PTS page), Rājā 王(有否能免老死)
 
   * `老死經 <http://agama.buddhason.org/SN/SN0114.htm>`__ (臺灣, 莊春江) [2]_ ; `國王 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=276&page_id=67:128>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `王 <http://tripitaka.cbeta.org/N13n0006_003#0131a07>`__ (臺灣, 元亨寺, 通妙) [3]_ 
@@ -41,6 +47,8 @@ Paṭhama-Vaggo 第一品
   * Aging and Death (WP, Ven. Bhikkhu Bodhi); `The King <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.03.001-010.rhyc.pts.htm#sn.1.3.3>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1240經 <http://tripitaka.cbeta.org/T02n0099_046#0339c19>`__ (SA 1240, 福田) (CBETA; T02, no. 99, p. 339, c19)、 `增壹阿含經 26.6 （六） <http://tripitaka.cbeta.org/T02n0125_018#0637a18>`__ ；增壹阿含經卷第十八，四意斷品第二十六之一，（六） **（老衰法）** ，東晉 罽賓 三藏 **瞿曇僧伽提婆** 譯， EA 26.6 ；大正藏．第二冊．第125經．第637頁．上欄．第18行 (CBETA; T02, no. 125, p. 637, a18) （舊式連結： http://www.cbeta.org/cgi-bin/goto.pl?linehead=T02n0125_p0637a18 (pl) to http://tripitaka.cbeta.org/T02n0125_018?format=line&linehead=yes#0637a18 ）、 `別譯雜阿含67經 <http://tripitaka.cbeta.org/T02n0100_004#0397a09>`__ (CBETA; T02, no. 100, p. 397, a09)
+
+.. _sn3_4:
 
 - 4.) SN 3. 4, `Piyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 71 (PTS page), (行惡行非自)愛
 
@@ -50,6 +58,8 @@ Paṭhama-Vaggo 第一品
 
   * 對照之阿含經典及其他： `雜阿含1228經 <http://tripitaka.cbeta.org/T02n0099_046#0335c17>`__ (SA 1228, 愛己) (CBETA; T02, no. 99, p. 335, c17)、 `別譯雜阿含55經 <http://tripitaka.cbeta.org/T02n0100_003#0392c04>`__ (CBETA; T02, no. 100, p. 392, c04)
 
+.. _sn3_5:
+
 - 5.) SN 3. 5, `Attarakkhitasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 72 (PTS page), (行惡行非)自護
 
   * `已自己守護經 <http://agama.buddhason.org/SN/SN0116.htm>`__ (臺灣, 莊春江) [2]_ ; `自護 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=276&page_id=128:184>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `自護 <http://tripitaka.cbeta.org/N13n0006_003#0134a01>`__ (臺灣, 元亨寺, 通妙) [3]_ 
@@ -57,6 +67,8 @@ Paṭhama-Vaggo 第一品
   * Self-Protected (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Self-protected <http://www.accesstoinsight.org/tipitaka/sn/sn03/sn03.005.than.html>`__ (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `Self-guarded <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.03.001-010.rhyc.pts.htm#sn.1.3.5>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1229經 <http://tripitaka.cbeta.org/T02n0099_046#0336a24>`__ (SA 1229, 護己) (CBETA; T02, no. 99, p. 336, a24)、 `別譯雜阿含56經 <http://tripitaka.cbeta.org/T02n0100_003#0393a02>`__ (CBETA; T02, no. 100, p. 393, a02)
+
+.. _sn3_6:
 
 - 6.) SN 3. 6, `Appakasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 73 (PTS page), 少數(巨富不迷醉.不溺.不耽欲)
 
@@ -66,6 +78,8 @@ Paṭhama-Vaggo 第一品
 
   * 對照之阿含經典及其他： `雜阿含1230經 <http://tripitaka.cbeta.org/T02n0099_046#0336b19>`__ (SA 1230, 鹿穽) (CBETA; T02, no. 99, p. 336, b19)、 `別譯雜阿含58經 <http://tripitaka.cbeta.org/T02n0100_003#0393b19>`__ (CBETA; T02, no. 100, p. 393, b19)
 
+.. _sn3_7:
+
 - 7.) SN 3. 7, `Aḍḍakaraṇasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 74 (PTS page), 裁斷(賢相將顯露)
 
   * `法庭經 <http://agama.buddhason.org/SN/SN0118.htm>`__ (臺灣, 莊春江) [2]_ ; `裁決堂 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=276&page_id=128:184>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `裁斷 <http://tripitaka.cbeta.org/N13n0006_003#0136a02>`__ (臺灣, 元亨寺, 通妙) [3]_ 
@@ -73,6 +87,8 @@ Paṭhama-Vaggo 第一品
   * The Judgement Hall (WP, Ven. Bhikkhu Bodhi) [4]_ ; `In Judgment <http://www.accesstoinsight.org/tipitaka/sn/sn03/sn03.007.than.html>`__ (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `The Seat of Judgment <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.03.001-010.rhyc.pts.htm#sn.1.3.7>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1231經 <http://tripitaka.cbeta.org/T02n0099_046#0336c16>`__ (SA 31, 捕魚) (CBETA; T02, no. 99, p. 336, c16)、 `別譯雜阿含57經 <http://tripitaka.cbeta.org/T02n0100_003#0393a21>`__ (CBETA; T02, no. 100, p. 393, a21)
+
+.. _sn3_8:
 
 - 8.) SN 3. 8, `Mallikāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 75 (PTS page), 末利(夫人:無人比我更可愛)
 
@@ -82,6 +98,8 @@ Paṭhama-Vaggo 第一品
 
   * 對照之阿含經典及其他： 無
 
+.. _sn3_9:
+
 - 9.) SN 3. 9, `Yaññasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 75 (PTS page), (拘薩羅國王)供犧
 
   * `牲祭經 <http://agama.buddhason.org/SN/SN0120.htm>`__ (臺灣, 莊春江) [2]_ ; `祭祀 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=276&page_id=184:252>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `供犧 <http://tripitaka.cbeta.org/N13n0006_003#0138a04>`__ (臺灣, 元亨寺, 通妙) [3]_ 
@@ -89,6 +107,8 @@ Paṭhama-Vaggo 第一品
   * Sacrifice (WP, Ven. Bhikkhu Bodhi); `Sacrifice <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.03.001-010.rhyc.pts.htm#sn.1.3.9>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1234經 <http://tripitaka.cbeta.org/T02n0099_046#0338a22>`__ (SA 1234, 祠祀) (CBETA; T02, no. 99, p. 338, a22)、 `別譯雜阿含61經 <http://tripitaka.cbeta.org/T02n0100_003#0394c26>`__ (CBETA; T02, no. 100, p. 394, c26)
+
+.. _sn3_10:
 
 - 10.) SN 3. 10, `Bandhanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 76 (PTS page), (拘薩羅王)繫縛(多人)
 
@@ -109,6 +129,8 @@ Paṭhama-Vaggo 第一品
 Dutiya-Vaggo 第二品
 +++++++++++++++++++++++
 
+.. _sn3_11:
+
 - 11.) SN 3. 11, `Sattajaṭilasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 77 (PTS page), Jaṭilo 結髮行者(是阿羅漢耶？) 
 
   * `七位結髮者經 <http://agama.buddhason.org/SN/SN0122.htm>`__ (臺灣, 莊春江) [2]_ ; `扎髮外道 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=276&page_id=184:252>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `結髮行者 <http://tripitaka.cbeta.org/N13n0006_003#0141a06>`__ (臺灣, 元亨寺, 通妙) [3]_ 
@@ -116,6 +138,8 @@ Dutiya-Vaggo 第二品
   * Seven Jatilas (WP, Ven. Bhikkhu Bodhi) [4]_ ; `He of the Matted Hair <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.03.011-020.rhyc.pts.htm#sn.1.3.11>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1148經 <http://tripitaka.cbeta.org/T02n0099_042#0305c21>`__ (SA 1148, 著一衣) (CBETA; T02, no. 99, p. 305, c21)、 `別譯雜阿含71經 <http://tripitaka.cbeta.org/T02n0100_004#0399a19>`__ (CBETA; T02, no. 100, p. 399, a19)
+
+.. _sn3_12:
 
 - 12.) SN 3. 12, `Pañcarājasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 79 (PTS page), 五王(波斯匿王問何欲第一)
 
@@ -125,6 +149,8 @@ Dutiya-Vaggo 第二品
 
   * 對照之阿含經典及其他： `雜阿含1149經 <http://tripitaka.cbeta.org/T02n0099_042#0306a21>`__ (SA 1149, 諸王) (CBETA; T02, no. 99, p. 306, a21)、 `增壹阿含經 33.1 （一） <http://tripitaka.cbeta.org/T02n0125_025#0681c16>`__ ，EA 33.1 (CBETA; T02, no. 125, p. 681, c16)、 `別譯雜阿含72經 <http://tripitaka.cbeta.org/T02n0100_004#0399b28>`__ (CBETA; T02, no. 100, p. 399, b28)
 
+.. _sn3_13:
+
 - 13.) SN 3. 13, `Doṇapākasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 81 (PTS page), 大食 (一桶飯菜) (食知量,少苦.長壽)
 
   * `一桶煮好的經 <http://agama.buddhason.org/SN/SN0124.htm>`__ (臺灣, 莊春江) [2]_ ; `一多那食物 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=276&page_id=252:313>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `大食 <http://tripitaka.cbeta.org/N13n0006_003#0146a04>`__ (臺灣, 元亨寺, 通妙) [3]_ 
@@ -132,6 +158,8 @@ Dutiya-Vaggo 第二品
   * A Bucket Measure of Food (WP, Ven. Bhikkhu Bodhi) [4]_ ; `King Pasenadi Goes on a Diet <http://www.accesstoinsight.org/tipitaka/sn/sn03/sn03.013.olen.html>`__ (Andrew Olendzki; A Heavy Meal, Alternate translation: Walshe `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `Heavy Meal <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.03.011-020.rhyc.pts.htm#sn.1.3.13>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1150經 <http://tripitaka.cbeta.org/T02n0099_042#0306c02>`__ (SA 1150, 喘息) (CBETA; T02, no. 99, p. 306, c02)、 `別譯雜阿含73經 <http://tripitaka.cbeta.org/T02n0100_004#0400a01>`__ (CBETA; T02, no. 100, p. 400, a01)
+
+.. _sn3_14:
 
 - 14.) SN 3. 14, `Paṭhamasaṅgāmasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 82 (PTS page), Saṅgāme dve vuttāni 於戰之二語 (1)
 
@@ -141,6 +169,8 @@ Dutiya-Vaggo 第二品
 
   * 對照之阿含經典及其他： `雜阿含1236經 <http://tripitaka.cbeta.org/T02n0099_046#0338b29>`__ (SA 1236, 得勝) (CBETA; T02, no. 99, p. 338, b29)、 `別譯雜阿含63經 <http://tripitaka.cbeta.org/T02n0100_004#0395c07>`__ (CBETA; T02, no. 100, p. 395, c07)
 
+.. _sn3_15:
+
 - 15.) SN 3. 15, `Dutiyasaṅgāmasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 83 (PTS page), Saṅgāme dve vuttāni 於戰之二語 (2)
 
   * `戰鬥經第二 <http://agama.buddhason.org/SN/SN0126.htm>`__ (臺灣, 莊春江) [2]_ ; `戰鬥之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=276&page_id=313:377>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `於戰之二語（其二） <http://tripitaka.cbeta.org/N13n0006_003#0148a14>`__ (臺灣, 元亨寺, 通妙) [3]_ 
@@ -148,6 +178,8 @@ Dutiya-Vaggo 第二品
   * Battle (WP, Ven. Bhikkhu Bodhi) [4]_ ; `A Battle (2) <http://www.accesstoinsight.org/tipitaka/sn/sn03/sn03.015.than.html>`__ (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `Two sayings about war, 2 <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.03.011-020.rhyc.pts.htm#sn.1.3.15>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1237經 <http://tripitaka.cbeta.org/T02n0099_046#0338c21>`__ (SA 1237, 毀壞) (CBETA; T02, no. 99, p. 338, c21)、 `別譯雜阿含64經 <http://tripitaka.cbeta.org/T02n0100_004#0395c20>`__ (CBETA; T02, no. 100, p. 395, c20)
+
+.. _sn3_16:
 
 - 16.) SN 3. 16, `Mallikāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 86 (PTS page), Dhītā 公主 (Mallikā末利夫人(生公主))
 
@@ -167,6 +199,8 @@ Dutiya-Vaggo 第二品
 
   * 對照之阿含經典及其他： `中阿含141經 <http://tripitaka.cbeta.org/T01n0026_034#0647b18>`__ ；（一〇六）（一四一）中阿含大品喻經第二十五(第三念誦)，東晉 罽賓 三藏 **瞿曇僧伽提婆** 譯，大正藏．第一冊．第26經．第647頁．中欄．第18行。 (CBETA; T01, no. 26, p. 647, b18)、 `別譯雜阿含66經 <http://tripitaka.cbeta.org/T02n0100_004#0396b08>`__ (CBETA; T02, no. 100, p. 396, b08)、 `雜阿含1239經 <http://tripitaka.cbeta.org/T02n0099_046#0339b13>`__ (SA 1239, 一法) (CBETA; T02, no. 99, p. 339, b13) **(部份參照)** 、 `增壹阿含經 26.1-4 （一） <http://tripitaka.cbeta.org/T02n0125_018#0635b11>`__ ，EA 26.1 (CBETA; T02, no. 125, p. 635, b11) **(部份參照)**
 
+.. _sn3_18:
+
 - 18.) SN 3. 18, `Kalyāṇamittasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 87 (PTS page), (Kalyāṇamitta善友) Appamāda 不放逸(半梵行.全梵行)
 
   * `善友經 <http://agama.buddhason.org/SN/SN0129.htm>`__ (臺灣, 莊春江) [2]_ ; `不放逸之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=276&page_id=377:424>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `不放逸（其二） <http://tripitaka.cbeta.org/N13n0006_003#0153a0>`__ (臺灣, 元亨寺, 通妙) [3]_ 
@@ -175,6 +209,8 @@ Dutiya-Vaggo 第二品
 
   * 對照之阿含經典及其他： `別譯雜阿含65經 <http://tripitaka.cbeta.org/T02n0100_004#0396a07>`__ (CBETA; T02, no. 100, p. 396, a7)、 `增壹阿含經 23.4 （四） <http://tripitaka.cbeta.org/T02n0125_013#0612c01>`__ ，EA 23.4 (CBETA; T02, no. 125, p. 612, c01)、 `雜阿含1238經 <http://tripitaka.cbeta.org/T02n0099_046#0339a10>`__ (SA 1238, 徒佛教) (CBETA; T02, no. 99, p. 339, a10) **(部份參照)** 
 
+.. _sn3_19:
+
 - 19.) SN 3. 19, `Paṭhamaaputtakasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 89 (PTS page), (八百萬金巨富長者)無子(1)
 
   * `無子者經第一 <http://agama.buddhason.org/SN/SN0130.htm>`__ (臺灣, 莊春江) [2]_ ; `無兒女者之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=276&page_id=377:424>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `無子（其一） <http://tripitaka.cbeta.org/N13n0006_003#0155a12>`__ (臺灣, 元亨寺, 通妙) [3]_ 
@@ -182,6 +218,8 @@ Dutiya-Vaggo 第二品
   * Childless (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Heirless (1) <http://www.accesstoinsight.org/tipitaka/sn/sn03/sn03.019.than.html>`__ (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `Childless 1 <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.03.011-020.rhyc.pts.htm#sn.1.3.19>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1232經 <http://tripitaka.cbeta.org/T02n0099_046#0337a14>`__ (SA 1232, 慳) (CBETA; T02, no. 99, p. 337, a14)、 `別譯雜阿含59經 <http://tripitaka.cbeta.org/T02n0100_003#0393c12>`__ (CBETA; T02, no. 100, p. 393, c12)
+
+.. _sn3_20:
 
 - 20.) SN 3. 20, `Dutiyaaputtakasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 91 (PTS page), (八百萬金巨富長者)無子(2)
 
@@ -202,6 +240,7 @@ Dutiya-Vaggo 第二品
 Tatiya-Vaggo 第三品
 +++++++++++++++++++++++
 
+.. _sn3_21:
 
 - 21.) SN 3. 21, `Puggalasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 93 (PTS page), 人(由闇入闇等)
 
@@ -211,6 +250,8 @@ Tatiya-Vaggo 第三品
 
   * 對照之阿含經典及其他： `雜阿含1146經 <http://tripitaka.cbeta.org/T02n0099_042#0304b27>`__ (SA 1146, 明闇) (CBETA; T02, no. 99, p. 304, b27)、 `別譯雜阿含69經 <http://tripitaka.cbeta.org/T02n0100_004#0398a01>`__ (CBETA; T02, no. 100, p. 398, a01)、 T 127  佛說四人出現世間經 **(部份參照)** 
 
+.. _sn3_22:
+
 - 22.) SN 3. 22, `Ayyikāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 96 (PTS page), 太后(崩,眾生乃終當必死)
 
   * `祖母經 <http://agama.buddhason.org/SN/SN0133.htm>`__ (臺灣, 莊春江) [2]_ ; `祖母 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=276&page_id=529:619>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `祖母 <http://tripitaka.cbeta.org/N13n0006_003#0164a10>`__ (臺灣, 元亨寺, 通妙) [3]_ 
@@ -218,6 +259,8 @@ Tatiya-Vaggo 第三品
   * Grandmother (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Grandmother <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.03.021-025.rhyc.pts.htm#sn.1.3.22>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1227經 <http://tripitaka.cbeta.org/T02n0099_046#0335b09>`__ (SA 1227, 母) (CBETA; T02, no. 99, p. 335, b09)、 `增壹阿含經 26.7 （七） <http://tripitaka.cbeta.org/T02n0125_018#0638a02>`__ ，EA 26.7 (CBETA; T02, no. 125, p. 638, a02)、 `別譯雜阿含54經 <http://tripitaka.cbeta.org/T02n0100_003#0392a26>`__ (CBETA; T02, no. 100, p. 392, a26)
+
+.. _sn3_23:
 
 - 23.) SN 3. 23, `Lokasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 98 (PTS page), 世間(幾法生苦惱)
 
@@ -227,6 +270,8 @@ Tatiya-Vaggo 第三品
 
   * 對照之阿含經典及其他： `雜阿含1065經 <http://tripitaka.cbeta.org/T02n0099_038#0276c17>`__ (SA 1065, 象首) (CBETA; T02, no. 99, p. 276, c17) **(部份參照)** 、 `別譯雜阿含4經 <http://tripitaka.cbeta.org/T02n0100_001#0374c11>`__ (CBETA; T02, no. 100, p. 374, c11) **(部份參照)** 
 
+.. _sn3_24:
+
 - 24.) SN 3. 24, `Issattasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 98 (PTS page), 箭術(勇士)
 
   * `弓術經 <http://agama.buddhason.org/SN/SN0135.htm>`__ (臺灣, 莊春江) [2]_ ; `戰士 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=276&page_id=529:619>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `弓術 <http://tripitaka.cbeta.org/N13n0006_003#0166a12>`__ (臺灣, 元亨寺, 通妙) [3]_ 
@@ -234,6 +279,8 @@ Tatiya-Vaggo 第三品
   * Archery (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Archery Skills <http://www.accesstoinsight.org/tipitaka/sn/sn03/sn03.024.than.html>`__ (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `Bowmanship <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.03.021-025.rhyc.pts.htm#sn.1.3.24>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1145經 <http://tripitaka.cbeta.org/T02n0099_042#0304a01>`__ (SA 1145, 可厭患) (CBETA; T02, no. 99, p. 304, a01)、 `別譯雜阿含68經 <http://tripitaka.cbeta.org/T02n0100_004#0397b03>`__ (CBETA; T02, no. 100, p. 397, b03)
+
+.. _sn3_25:
 
 - 25.) SN 3. 25, `Pabbatūpamasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul2.xml>`_ (CSCD) [1]_ , S i 100 (PTS page), 山之比喻(老死壓王,唯法行.正行)
 
@@ -269,6 +316,7 @@ Tatiya-Vaggo 第三品
 .. [6] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） -- `03 拘薩羅相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=276>`__ 
 
 ..
+  08.19 add interior tag, e.g. .. _sn3_1:
   08.14 rev. note(ref.)
   08.07 finished
   create on 2017.07.17 (under construction)

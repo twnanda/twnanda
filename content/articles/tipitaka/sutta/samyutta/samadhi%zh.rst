@@ -2,7 +2,7 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 ######################################################################################################################
 
 :date: 2017-08-13
-:modified: 2017-08-14
+:modified: 2017-08-19
 :tags: 巴利三藏相應部, Samādhi-saṃyuttaṃ 定相應, 靜慮相應, Jhāna-saṃyuttaṃ 禪相應, 禪定相應, Concentration, Meditation (巴利三藏 相應部)
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 禪定相應, Concentration, Meditation
@@ -28,6 +28,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 
   * 對照之阿含經典及其他： `雜阿含883經 <http://tripitaka.cbeta.org/T02n0099_031#0222c13>`__ (SA 883, 四種禪) (CBETA; T02, no. 99, p. 3, b)
 
+.. _sn34_2:
+
 - 2.) SN 34. 2, `Samādhimūlakaṭhitisuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 264 (PTS page), Ṭhiti Kusala Suttaɱ, Ṭhiti 止住
 
   * `根本定與持續經 <http://agama.buddhason.org/SN/SN0826.htm>`__ (莊春江) [2]_ ; `持續 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=513>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `止住 <http://tripitaka.cbeta.org/N15n0006_034#0398a04>`__ (元亨寺, 通妙) [3]_ 
@@ -35,6 +37,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
   * Maintenance in relation to Concentration (WP, Ven. Bhikkhu Bodhi); `Skill at Keeping Up <http://www.buddhadust.com/dhamma-vinaya/bd/sn/03_kv/sn03.34.001-055.olds.bd.htm#p2>`__ (BD, Michael Olds); `Steadfastness <http://www.buddhadust.com/dhamma-vinaya/pts/sn/03_kv/sn03.34.001-055.wood.pts.htm#p2>`__ (Translated by F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
+
+.. _sn34_3:
 
 - 3.) SN 34. 3, `Samādhimūlakavuṭṭhānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 265 (PTS page), Vuṭṭhāna Kusala Suttaɱ, Vuṭṭhāna 出起(出觀)
 
@@ -44,6 +48,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
 
+.. _sn34_4:
+
 - 4.) SN 34. 4, `Samādhimūlakakallitasuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 265 (PTS page), Kallavā Kusala Suttaɱ, Kallivā 安樂
 
   * `根本定與順意經 <http://agama.buddhason.org/SN/SN0828.htm>`__ (莊春江) [2]_ ; `悅樂 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=513>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `安樂 <http://tripitaka.cbeta.org/N15n0006_034#0399a10>`__ (元亨寺, 通妙) [3]_ 
@@ -51,6 +57,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
   * Pliancy in relation to Concentration (WP, Ven. Bhikkhu Bodhi); `Skill at Readyness <http://www.buddhadust.com/dhamma-vinaya/bd/sn/03_kv/sn03.34.001-055.olds.bd.htm#p4>`__ (BD, Michael Olds); `Thorough <http://www.buddhadust.com/dhamma-vinaya/pts/sn/03_kv/sn03.34.001-055.wood.pts.htm#p4>`__ (Translated by F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
+
+.. _sn34_5:
 
 - 5.) SN 34. 5, `Samādhimūlakaārammaṇasuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 266 (PTS page), Ārammaṇa Kusala Suttaɱ, Ārammaṇa 所緣
 
@@ -60,6 +68,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
 
+.. _sn34_6:
+
 - 6.) SN 34. 6, `Samādhimūlakagocarasuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 266 (PTS page), Gocara Kusala Suttaɱ, Gocaro 行境
 
   * `根本定與行境經 <http://agama.buddhason.org/SN/SN0830.htm>`__ (莊春江) [2]_ ; `牧養內心 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=513>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `行境 <http://tripitaka.cbeta.org/N15n0006_034#0401a06>`__ (元亨寺, 通妙) [3]_ 
@@ -67,6 +77,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
   * The Range in relation to Concentration (WP, Ven. Bhikkhu Bodhi); `Skill at Nourishment <http://www.buddhadust.com/dhamma-vinaya/bd/sn/03_kv/sn03.34.001-055.olds.bd.htm#p6>`__ (BD, Michael Olds); `Range <http://www.buddhadust.com/dhamma-vinaya/pts/sn/03_kv/sn03.34.001-055.wood.pts.htm#p6>`__ (Translated by F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
+
+.. _sn34_7:
 
 - 7.) SN 34. 7, `Samādhimūlakaabhinīhārasuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 267 (PTS page), Abhinīhāra Kusala Suttaɱ, Abhinīhāro 引發
 
@@ -76,6 +88,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
 
+.. _sn34_8:
+
 - 8.) SN 34. 8, `Samādhimūlakasakkaccakārīsuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 267 (PTS page), Sakkacca-kāri Suttaɱ, Sakkacca 恭敬(作)
 
   * `根本定與恭敬作者經 <http://agama.buddhason.org/SN/SN0832.htm>`__ (莊春江) [2]_ ; `細心 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=513>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `恭敬〔作〕 <http://tripitaka.cbeta.org/N15n0006_034#0402a11>`__ (元亨寺, 通妙) [3]_ 
@@ -84,6 +98,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
 
+.. _sn34_9:
+
 - 9.) SN 34. 9, `Samādhimūlakasātaccakārīsuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 268 (PTS page), Sātacca-kārī Suttaɱ, Sātaccakārī 常作
 
   * `根本定與常作者經 <http://agama.buddhason.org/SN/SN0833.htm>`__ (莊春江) [2]_ ; `堅毅 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=513>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `常作 <http://tripitaka.cbeta.org/N15n0006_034#0403a07>`__ (元亨寺, 通妙) [3]_ 
@@ -91,6 +107,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
   * Persistence in relation to Concentration (WP, Ven. Bhikkhu Bodhi); `Consistently-Engaged <http://www.buddhadust.com/dhamma-vinaya/bd/sn/03_kv/sn03.34.001-055.olds.bd.htm#p9>`__ (BD, Michael Olds); `Perservering <http://www.buddhadust.com/dhamma-vinaya/pts/sn/03_kv/sn03.34.001-055.wood.pts.htm#p9>`__ (Translated by F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
+
+.. _sn34_10:
 
 - 10.) SN 34. 10, `Samādhimūlakasappāyakārīsuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 268 (PTS page), Sappāya-kārī Suttaɱ, Sappāyaṁ 隨應
 
@@ -111,6 +129,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 11 ~ 19 十一 ～　一九 經
 ++++++++++++++++++++++++++
 
+.. _sn34_11:
+
 - 1.) SN 34. 11, `Samāpattimūlakaṭhitisuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 269 (PTS page), Samāpatti/ṭhiti Kusala Suttaɱ, Samāpatti-ṭhiti 等至--止住
 
   * `根本等至與持續經 <http://agama.buddhason.org/SN/SN0835.htm>`__ (莊春江) [2]_ ; `正受與持續 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=513&page_id=36:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `等至～止住 <http://tripitaka.cbeta.org/N15n0006_034#0404a13>`__ (元亨寺, 通妙) [3]_ 
@@ -118,6 +138,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
   * Maintenance in relation to Attainment (WP, Ven. Bhikkhu Bodhi); `Skill at Keeping Up/Attainment <http://www.buddhadust.com/dhamma-vinaya/bd/sn/03_kv/sn03.34.001-055.olds.bd.htm#p11>`__ (BD, Michael Olds); `Steadfastness in Attainment <http://www.buddhadust.com/dhamma-vinaya/pts/sn/03_kv/sn03.34.001-055.wood.pts.htm#p11>`__ (Translated by F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
+
+.. _sn34_12:
 
 - 2.) SN 34. 12, `Samāpattimūlakavuṭṭhānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 269 (PTS page), Samāpatti/vuṭṭhāna Kusala Suttaɱ, Samāpatti-vuṭṭhāna 等至--出起
 
@@ -127,6 +149,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
 
+.. _sn34_13:
+
 - 3.) SN 34. 13, `Samāpattimūlakakallitasuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 270 (PTS page), Samāpatti/kallita Suttaɱ, Samāpatti-kallita 等至--安樂
 
   * `根本等至與順意經 <http://agama.buddhason.org/SN/SN0837.htm>`__ (莊春江) [2]_ ; `正受與悅樂 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=513&page_id=36:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `等至～安樂 <http://tripitaka.cbeta.org/N15n0006_034#0406a03>`__ (元亨寺, 通妙) [3]_ 
@@ -134,6 +158,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
   * Pliancy in relation to Attainment (WP, Ven. Bhikkhu Bodhi); `Readyness/Attainment <http://www.buddhadust.com/dhamma-vinaya/bd/sn/03_kv/sn03.34.001-055.olds.bd.htm#p13>`__ (BD, Michael Olds); `Ease in Attainment <http://www.buddhadust.com/dhamma-vinaya/pts/sn/03_kv/sn03.34.001-055.wood.pts.htm#p13>`__ (Translated by F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
+
+.. _sn34_14:
 
 - 4.) SN 34. 14, `Samāpattimūlakaārammaṇasuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 270 (PTS page), Samāpatti Ārammaṇa Kusala Suttaɱ, Samāpatti-ārammaṇa 等至--所緣
 
@@ -143,6 +169,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
 
+.. _sn34_15:
+
 - 5.) SN 34. 15, `Samāpattimūlakagocarasuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 270 (PTS page), Samāpatti Gocara Kusala Suttaɱ, Samāpatti-gocara 等至--行境 
 
   * `根本等至與行境經 <http://agama.buddhason.org/SN/SN0839.htm>`__ (莊春江) [2]_ ; `正受與牧養內心 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=513&page_id=36:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `等至～行境 <http://tripitaka.cbeta.org/N15n0006_034#0407a05>`__ (元亨寺, 通妙) [3]_ 
@@ -150,6 +178,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
   * The Range in relation to Attainment (WP, Ven. Bhikkhu Bodhi); `Skill in Nourishment of Attainment <http://www.buddhadust.com/dhamma-vinaya/bd/sn/03_kv/sn03.34.001-055.olds.bd.htm#p15>`__ (BD, Michael Olds); `Range of Attainment <http://www.buddhadust.com/dhamma-vinaya/pts/sn/03_kv/sn03.34.001-055.wood.pts.htm#p15>`__ (Translated by F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
+
+.. _sn34_16:
 
 - 6.) SN 34. 16, `Samāpattimūlakaabhinīhārasuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 271 (PTS page), Samāpatti Abhinīhāra Kusala Suttaɱ, Samāpatti-abhinīhāra 等至--引發
 
@@ -159,6 +189,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
 
+.. _sn34_17:
+
 - 7.) SN 34. 17, `Samāpattimūlakasakkaccasuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 271 (PTS page), Samāpatti Sakkacca Kusala Suttaɱ, Samāpatti-sakkacca 等至--恭敬
 
   * `根本等至與恭敬作者經 <http://agama.buddhason.org/SN/SN0841.htm>`__ (莊春江) [2]_ ; `正受與細心 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=513&page_id=36:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `等至～恭敬 <http://tripitaka.cbeta.org/N15n0006_034#0408a02>`__ (元亨寺, 通妙) [3]_ 
@@ -167,6 +199,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
 
+.. _sn34_18:
+
 - 8.) SN 34. 18, `Samāpattimūlakasātaccasuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 271 (PTS page), Samāpatti Sātacca-kārī Suttaɱ, Samāpatti-sātacca 等至--常作
 
   * `根本等至與常作者經 <http://agama.buddhason.org/SN/SN0842.htm>`__ (莊春江) [2]_ ; `正受與堅毅 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=513&page_id=36:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `等至～常作 <http://tripitaka.cbeta.org/N15n0006_034#0408a08>`__ (元亨寺, 通妙) [3]_ 
@@ -174,6 +208,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
   * Persistence in relation to Attainment (WP, Ven. Bhikkhu Bodhi); `Consistently-Engaged Attainment <http://www.buddhadust.com/dhamma-vinaya/bd/sn/03_kv/sn03.34.001-055.olds.bd.htm#p18>`__ (BD, Michael Olds); `Perseverance in Attainment <http://www.buddhadust.com/dhamma-vinaya/pts/sn/03_kv/sn03.34.001-055.wood.pts.htm#p18>`__ (Translated by F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
+
+.. _sn34_19:
 
 - 9.) SN 34. 19, `Samāpattimūlakasappāyakārīsuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 271 (PTS page), Samāpatti Sappāya-kāri Suttaɱ, Samāpatti-sappāyakārī 等至--隨應
 
@@ -194,6 +230,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 20 ~ 55 二十 ～　五五 經
 ++++++++++++++++++++++++++
 
+.. _sn34_20:
+
 - 1.) SN 34. 20-27, `Ṭhitimūlakavuṭṭhānasuttādiaṭṭhakaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 272 ~ 273 (PTS page), Ṭhiti-Vuṭṭhāna Suttaɱ, Ṭhiti-vuṭṭha 止住--安樂
 
   * `根本持續與出定經等八則 <http://agama.buddhason.org/SN/SN0844.htm>`__ (莊春江) [2]_ ; `持續與出定 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=513&page_id=36:0>`__ (持續與出定、持續與悅樂、持續與安住所緣境、持續與牧養內心、持續與決意、持續與細心、持續與堅毅、持續與入手功夫) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `止住～出起 <http://tripitaka.cbeta.org/N15n0006_034#0410a01>`__ (止住～出起、止住～安樂) (元亨寺, 通妙) [3]_ 
@@ -201,6 +239,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
   * Emergence in relation to Maintenance (Emergence, Pliancy in relation to Maintenance, Etc.) (WP, Ven. Bhikkhu Bodhi); `Keeping-Up/Withdrawing <http://www.buddhadust.com/dhamma-vinaya/bd/sn/03_kv/sn03.34.001-055.olds.bd.htm#p20>`__ (Keeping-Up/Withdrawing, Keeping-Up/Readyness, Preliminaries, Nourishment, Coming-Down, Respectfully-engaging, Consistently-engaging, Profitably-engaging) (BD, Michael Olds); `Emerging from Steadfastness <http://www.buddhadust.com/dhamma-vinaya/pts/sn/03_kv/sn03.34.001-055.wood.pts.htm#p20>`__ [Emerging from Steadfastness, Steatfastness in the Object (Ease), (Object), (Range), (Resolve), (Zeal), (Perseverance), (Profit)] (Translated by F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
+
+.. _sn34_28:
 
 - 2.) SN 34. 28-34, `Vuṭṭhānamūlakakallitasuttādisattakaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 273 ~ 274 (PTS page), Vuṭṭhāna Kallita Suttaɱ, Vuṭṭhāna-kallita- 出起--安樂
 
@@ -210,6 +250,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
 
+.. _sn34_35:
+
 - 3.) SN 34. 35-40, `Kallitamūlakaārammaṇasuttādichakkaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 275 (PTS page), Kalalita Ārammaṇa Suttaɱ, Kallita-ārammaṇa安樂--所緣
 
   * `根本順意與所緣經等六則 <http://agama.buddhason.org/SN/SN0846.htm>`__ (莊春江) [2]_ ; `悅樂與安住所緣境 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=513&page_id=36:0>`__ (悅樂與安住所緣境、悅樂與牧養內心、悅樂與決意、悅樂與細心、悅樂與堅毅、悅樂與入手功夫) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `安樂～所緣 <http://tripitaka.cbeta.org/N15n0006_034#0413a04>`__ (安樂～所緣、安樂～) (元亨寺, 通妙) [3]_ 
@@ -217,6 +259,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
   * The Object in relation to Pliancy (The Object in relation to Pliancy, The Range in relation to Pliancy, Etc.) (WP, Ven. Bhikkhu Bodhi); `Readyness/Preliminaries <http://www.buddhadust.com/dhamma-vinaya/bd/sn/03_kv/sn03.34.001-055.olds.bd.htm#p35>`__ (Readyness/Preliminaries, Readyness/Nourishment, Coming Down, Respectfully-Engaging, Consistently-Engaging, Profitably-Engaging) (BD, Michael Olds); `Ease and Object <http://www.buddhadust.com/dhamma-vinaya/pts/sn/03_kv/sn03.34.001-055.wood.pts.htm#p35>`__ [Ease and Object, Ease (Range), (Resolve), (Zeal), (Perseverance), (Profit)] (Translated by F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
+
+.. _sn34_41:
 
 - 4.) SN 34. 41-45, `Ārammaṇamūlakagocarasuttādipañcakaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 275 ~ 276 (PTS page), Ārammaṇa Gocara Suttaɱ, Ārammaṇa-gocara所緣--行境
 
@@ -226,6 +270,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
 
+.. _sn34_46:
+
 - 5.) SN 34. 46-49, `Gocaramūlakaabhinīhārasuttādicatukkaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 276 (PTS page), Gocara Abhinīhāra Suttaɱ, Gocara-abhinīhāra 行境--引發
 
   * `根本行境與決意經等四則 <http://agama.buddhason.org/SN/SN0848.htm>`__ (莊春江) [2]_ ; `牧養內心與決意 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=513&page_id=36:0>`__ (牧養內心與決意、牧養內心與細心、牧養內心與堅毅、牧養內心與入手功夫) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `行境～引發 <http://tripitaka.cbeta.org/N15n0006_034#0415a02>`__ (行境～引發、行境～) (元亨寺, 通妙) [3]_ 
@@ -233,6 +279,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
   * Resolution in relation to the Range (Resolution in relation to the Range, Thoroughness in relation to the Range, Etc.) (WP, Ven. Bhikkhu Bodhi); `Nourishment/Coming Down <http://www.buddhadust.com/dhamma-vinaya/bd/sn/03_kv/sn03.34.001-055.olds.bd.htm#p46>`__ (Nourishment/Coming Down, Nourishment/Respectfully-Engaging, Consistently-Engaging, Nourishment/Profitably-Engaging) (BD, Michael Olds); `Range and Resolve <http://www.buddhadust.com/dhamma-vinaya/pts/sn/03_kv/sn03.34.001-055.wood.pts.htm#p46>`__ [Range and Resolve, Range (Zeal), (Perseverance), (Profit)] (Translated by F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
+
+.. _sn34_50:
 
 - 6.) SN 34. 50-52, `Abhinīhāramūlakasakkaccasuttāditikaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 276 ~ 277 (PTS page), Abhinihāra Sakkacca-kāri Suttaɱ, Abhinīhāra引發-- (恭敬)
 
@@ -242,6 +290,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
 
+.. _sn34_53:
+
 - 7.) SN 34. 53-54, `Sakkaccamūlakasātaccakārīsuttādidukaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 277 (PTS page), Sakkacca Sātacca-kārī Suttaɱ, Sakkacca-sātaccakārī恭敬作--常作--隨應作
 
   * `根本恭敬與常作者經等二則 <http://agama.buddhason.org/SN/SN0850.htm>`__ (莊春江) [2]_ ; `細心與堅毅 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=513&page_id=36:0>`__ (細心與堅毅、細心與入手功夫) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `恭敬作～常作 <http://tripitaka.cbeta.org/N15n0006_034#0416a11>`__ (恭敬作～常作、恭敬作～隨應作) (元亨寺, 通妙) [3]_ 
@@ -249,6 +299,8 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
   * Persistence in relation to Thoroughness, Suitability in relation to Thoroughness (WP, Ven. Bhikkhu Bodhi); `Respectfully-Engaging/Consistently-Engaging <http://www.buddhadust.com/dhamma-vinaya/bd/sn/03_kv/sn03.34.001-055.olds.bd.htm#p53>`__ (Respectfully-Engaging/Consistently-Engaging, Respectfully-Engaging/Profitably-Engaging) (BD, Michael Olds); `Zeal and Perseverance <http://www.buddhadust.com/dhamma-vinaya/pts/sn/03_kv/sn03.34.001-055.wood.pts.htm#p53>`__ (Zeal and Perseverance, Zeal and Profit) (Translated by F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 34.1–55 參 sn34_1_ 經 條目所示
+
+.. _sn34_55:
 
 - 8.) SN 34. 55, `Sātaccamūlakasappāyakārīsuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul12.xml>`_ (CSCD) [1]_ , S iii 277 (PTS page), Sātacca Sappāya-kārī Suttaɱ, Sātaccakārī-sappāyakārī常作--隨應作
 
@@ -282,6 +334,7 @@ Samādhi-saṃyuttaṃ 定相應, 靜慮相應; Jhāna-saṃyuttaṃ 禪相應, 
 .. [6] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） -- `34 禪修者相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=513>`__ 
 
 ..
+  08.19 add interior tag, e.g. .. _sn34_1:
   08.14 rev. note(ref.)
   08.13 finished (edit 08.12)
   create on 2017.07.17

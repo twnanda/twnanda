@@ -2,7 +2,7 @@ Devaputta-saṃyuttaṃ 天子相應, Sons of the Devas (巴利三藏 相應部)
 ###################################################################
 
 :date: 2004-08-21
-:modified: 2017-08-14
+:modified: 2017-08-19
 :tags: 巴利三藏相應部, 天子相應, Devaputta-saṃyutta, Devaputta-saṃyuttaṃ, Sons of the Devas
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Devaputtasaṃyuttaṃ (Sons of the Devas 天子相應)
@@ -18,6 +18,8 @@ Devaputta-saṃyuttaṃ 天子相應, Sons of the Devas (巴利三藏 相應部)
 Paṭhama-Vaggo 第一 初品
 +++++++++++++++++++++++++
 
+.. _sn2_1:
+
 - 1.) SN 2. 1, `Paṭhamakassapasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 46 (PTS page), 2. 1. 1, SN 82, 迦葉(天子問比丘法) (1)
 
   * `迦葉經第一 <http://agama.buddhason.org/SN/SN0082.htm>`__ (莊春江) [2]_ ;  `迦葉（其一） <http://tripitaka.cbeta.org/N13n0006_002#0083a05>`__ (元亨寺, 通妙) [3]_ 
@@ -25,6 +27,8 @@ Paṭhama-Vaggo 第一 初品
   * `Kassapa (1) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.001-010.rhyc.pts.htm#sn.1.2.01>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1317經 <http://tripitaka.cbeta.org/T02n0099_049#0361c07>`__ (SA 1317, 迦葉) (CBETA; T02, no. 99, p. 361, c07)、 `別譯雜阿含316經 <http://tripitaka.cbeta.org/T02n0100_015#0480a01>`__ (CBETA; T02, no. 100, p. 480, a01) 
+
+.. _sn2_2:
 
 - 2.) SN 2. 2, `Dutiyakassapasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 46 (PTS page), 2. 1. 2, SN 83, 迦葉(天子:比丘應禪思) (2)
 
@@ -34,6 +38,8 @@ Paṭhama-Vaggo 第一 初品
 
   * 對照之阿含經典及其他： `雜阿含1318經 <http://tripitaka.cbeta.org/T02n0099_049#0361c20>`__ (SA 1318, 迦葉) (CBETA; T02, no. 99, p. 361, c20)、 `別譯雜阿含317經 <http://tripitaka.cbeta.org/T02n0100_015#0480a12>`__ (CBETA; T02, no. 100, p. 480, a12) 
 
+.. _sn2_3:
+
 - 3.) SN 2. 3, `Māghasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 47 (PTS page), 2. 1. 3, SN 84, 摩佉(天子:殺何樂寢臥)
 
   * `摩伽經 <http://agama.buddhason.org/SN/SN0084.htm>`__ (莊春江) [2]_ ;  `摩佉 <http://tripitaka.cbeta.org/N13n0006_002#0084a07>`__ (元亨寺, 通妙) [3]_ 
@@ -41,6 +47,8 @@ Paṭhama-Vaggo 第一 初品
   * `Māgha <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.001-010.rhyc.pts.htm#sn.1.2.03>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1309經 <http://tripitaka.cbeta.org/T02n0099_049#0360b03>`__ (SA 1309, 摩佉) (CBETA; T02, no. 99, p. 360, b03)、 `別譯雜阿含308經 <http://tripitaka.cbeta.org/T02n0100_015#0478c06>`__ (CBETA; T02, no. 100, p. 478, c06) 
+
+.. _sn2_4:
 
 - 4.) SN 2. 4, `Māgadhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 47 (PTS page), 2. 1. 4, SN 85, 摩揭陀(天子:世有幾多光)
 
@@ -50,6 +58,8 @@ Paṭhama-Vaggo 第一 初品
 
   * 對照之阿含經典及其他： `雜阿含1310經 <http://tripitaka.cbeta.org/T02n0099_049#0360b17>`__ (SA 1310, 照明) (CBETA; T02, no. 99, p. 360, b17)、 `別譯雜阿含309經 <http://tripitaka.cbeta.org/T02n0100_015#0478c16>`__ (CBETA; T02, no. 100, p. 478, c16) 
 
+.. _sn2_5:
+
 - 5.) SN 2. 5, `Dāmalisuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 47 (PTS page), 2. 1. 5, SN 86, 陀摩利(天子:精進勿倦怠)
 
   * `大嘛哩經 <http://agama.buddhason.org/SN/SN0086.htm>`__ (莊春江) [2]_ ;  `陀摩利 <http://tripitaka.cbeta.org/N13n0006_002#0085a10>`__ (元亨寺, 通妙) [3]_ 
@@ -57,6 +67,8 @@ Paṭhama-Vaggo 第一 初品
   * `Dāmali <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.001-010.rhyc.pts.htm#sn.1.2.05>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1311經 <http://tripitaka.cbeta.org/T02n0099_049#0360c03>`__ (SA 1311, 曇摩) (CBETA; T02, no. 99, p. 360, c03)、 `別譯雜阿含310經 <http://tripitaka.cbeta.org/T02n0100_015#0478c29>`__ (CBETA; T02, no. 100, p. 478, c29) 
+
+.. _sn2_6:
 
 - 6.) SN 2. 6, `Kāmadasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 48 (PTS page), 2. 1. 6, SN 87, 迦摩陀(天子)(難知足.難靜)
 
@@ -66,6 +78,8 @@ Paṭhama-Vaggo 第一 初品
 
   * 對照之阿含經典及其他： `雜阿含1313經 <http://tripitaka.cbeta.org/T02n0099_049#0361a01>`__ (SA 1313, 實智) (CBETA; T02, no. 99, p. 361, a01)、 `別譯雜阿含312經 <http://tripitaka.cbeta.org/T02n0100_015#0479a28>`__ (CBETA; T02, no. 100, p. 479, a28) 
 
+.. _sn2_7:
+
 - 7.) SN 2. 7, `Pañcālacaṇḍasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 48 (PTS page), 2. 1. 7, SN 88, 般闍羅旃陀(天子:緊繃已空)
 
   * `般闍羅健達經 <http://agama.buddhason.org/SN/SN0088.htm>`__ (莊春江) [2]_ ;  `般闍羅旃陀 <http://tripitaka.cbeta.org/N13n0006_002#0088a06>`__ (元亨寺, 通妙) [3]_
@@ -73,6 +87,8 @@ Paṭhama-Vaggo 第一 初品
   * `Pañcalacanda the Deva's Son <http://www.accesstoinsight.org/tipitaka/sn/sn02/sn02.007.than.html>`__ (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `Pañcālacaṇḍa <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.001-010.rhyc.pts.htm#sn.1.2.07>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1305經 <http://tripitaka.cbeta.org/T02n0099_049#0358b26>`__ (SA 1305, 般闍羅) (CBETA; T02, no. 99, p. 358, b26)、 `別譯雜阿含304經 <http://tripitaka.cbeta.org/T02n0100_015#0477a20>`__ (CBETA; T02, no. 100, p. 477, a20) 
+
+.. _sn2_8:
 
 - 8.) SN 2. 8, `Tāyanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 49 (PTS page), 2. 1. 8, SN 89, 多耶那(天子:婆羅門斷流)
 
@@ -82,6 +98,8 @@ Paṭhama-Vaggo 第一 初品
 
   * 對照之阿含經典及其他： 無
 
+.. _sn2_9:
+
 - 9.) SN 2. 9, `Candimasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 50 (PTS page), 2. 1. 9, SN 90, 月天子(被羅睺捕,憶念世尊)
 
   * `月經 <http://agama.buddhason.org/SN/SN0090.htm>`__ (莊春江) [2]_ ;  `月天子 <http://tripitaka.cbeta.org/N13n0006_002#0091a02>`__ (元亨寺, 通妙) [3]_ 
@@ -89,6 +107,8 @@ Paṭhama-Vaggo 第一 初品
   * `The Moon Deity's Prayer for Protection <http://www.accesstoinsight.org/tipitaka/sn/sn02/sn02.009.piya.html>`__ (Ven. Piyadassi Thera, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `Candimā <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.001-010.rhyc.pts.htm#sn.1.2.09>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含583經 <http://tripitaka.cbeta.org/T02n0099_022#0155a07>`__ (SA 583, 月天子) (CBETA; T02, no. 99, p. 155, a07)、 `別譯雜阿含167經 <http://tripitaka.cbeta.org/T02n0100_009#0436a05>`__ (CBETA; T02, no. 100, p. 436, a05) 
+
+.. _sn2_10:
 
 - 10.) SN 2. 10, `Sūriyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 51 (PTS page), 2. 1. 10, SN 91, 日天子(被羅睺捕,憶念世尊)
 
@@ -109,6 +129,8 @@ Paṭhama-Vaggo 第一 初品
 Anāthapiṇḍika-Vaggo 第二 給孤獨品
 +++++++++++++++++++++++++++++++++
 
+.. _sn2_11:
+
 - 1.) SN 2. 11, `Candimasasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 51 (PTS page), 2. 2. 1, SN 92, 月自在(天子:善巧入禪定)
 
   * `鄭地麼瑟經 <http://agama.buddhason.org/SN/SN0092.htm>`__ (莊春江) [2]_ ;  `月自在 <http://tripitaka.cbeta.org/N13n0006_002#0094a03>`__ (元亨寺, 通妙) [3]_ 
@@ -116,6 +138,8 @@ Anāthapiṇḍika-Vaggo 第二 給孤獨品
   * `Candimasa <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.011-020.rhyc.pts.htm#sn.1.2.11>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1303經 <http://tripitaka.cbeta.org/T02n0099_049#0358b02>`__ (SA 1303, 月自在) (CBETA; T02, no. 99, p. 358, b02)、 `別譯雜阿含302經 <http://tripitaka.cbeta.org/T02n0100_015#0476c28>`__ (CBETA; T02, no. 100, p. 476, c28) 
+
+.. _sn2_12:
 
 - 2.) SN 2. 12, `Veṇḍusuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 52 (PTS page), 2. 2. 2, SN 93, 毘紐(天子:學不放逸)
 
@@ -125,6 +149,8 @@ Anāthapiṇḍika-Vaggo 第二 給孤獨品
 
   * 對照之阿含經典及其他： `雜阿含1304經 <http://tripitaka.cbeta.org/T02n0099_049#0358b14>`__ (SA 1304, 毗紐) (CBETA; T02, no. 99, p. 358, b14)、 `別譯雜阿含303經 <http://tripitaka.cbeta.org/T02n0100_015#0477a10>`__ (CBETA; T02, no. 100, p. 477, a10) 
 
+.. _sn2_13:
+
 - 3.) SN 2. 13, `Dīghalaṭṭhisuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 52 (PTS page), 2. 2. 3, SN 94, 提伽羅低(天子:知世之生滅,心善不執著)
 
   * `長杖經 <http://agama.buddhason.org/SN/SN0094.htm>`__ (莊春江) [2]_ ;  `提伽羅低 <http://tripitaka.cbeta.org/N13n0006_002#0095a06>`__ (元亨寺, 通妙) [3]_ 
@@ -132,6 +158,8 @@ Anāthapiṇḍika-Vaggo 第二 給孤獨品
   * `Dīghalaṭṭhi <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.011-020.rhyc.pts.htm#sn.1.2.13>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他：  無
+
+.. _sn2_14:
 
 - 4.) SN 2. 14, `Nandanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 52 (PTS page), 2. 2. 4, SN 95, 難陀那(天子:何等持戒者)
 
@@ -141,6 +169,8 @@ Anāthapiṇḍika-Vaggo 第二 給孤獨品
 
   * 對照之阿含經典及其他： `雜阿含597經 <http://tripitaka.cbeta.org/T02n0099_022#0160a06>`__ (SA 597, 顏色) (CBETA; T02, no. 99, p. 160, a06) **(部份參照)** 、 `別譯雜阿含182經 <http://tripitaka.cbeta.org/T02n0100_009#0439a23>`__ (CBETA; T02, no. 100, p. 439, a23) **(部份參照)**
 
+.. _sn2_15:
+
 - 5.) SN 2. 15, `Candanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 53 (PTS page), 2. 2. 5, SN 96, 旃檀(天子:何人不深沈)
 
   * `檀香經 <http://agama.buddhason.org/SN/SN0096.htm>`__ (莊春江) [2]_ ;  `栴檀 <http://tripitaka.cbeta.org/N13n0006_002#0096a12>`__ (元亨寺, 通妙) [3]_ 
@@ -148,6 +178,8 @@ Anāthapiṇḍika-Vaggo 第二 給孤獨品
   * `Candana <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.011-020.rhyc.pts.htm#sn.1.2.15>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1316經 <http://tripitaka.cbeta.org/T02n0099_049#0361b23>`__ (SA 1316, 栴檀) (CBETA; T02, no. 99, p. 361, b23)、 `別譯雜阿含315經 <http://tripitaka.cbeta.org/T02n0100_015#0479c17>`__ (CBETA; T02, no. 100, p. 479, c17)、 `雜阿含1269經 <http://tripitaka.cbeta.org/T02n0099_048#0348c09>`__ (SA 1269, 流) (CBETA; T02, no. 99, p. 348, c09) **(部份參照)** 、 `別譯雜阿含178經 <http://tripitaka.cbeta.org/T02n0100_009#0438b08>`__ (CBETA; T02, no. 100, p. 438, b08) **(部份參照)** 
+
+.. _sn2_16:
 
 - 6.) SN 2. 16, `Vāsudattasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 53 (PTS page), 2. 2. 6, SN 97, 須達多(天子:如矛刺.頭燃) 
 
@@ -157,6 +189,8 @@ Anāthapiṇḍika-Vaggo 第二 給孤獨品
 
   * 對照之阿含經典及其他： `雜阿含586經 <http://tripitaka.cbeta.org/T02n0099_022#0155c26>`__ (SA 586, 利劍) (CBETA; T02, no. 99, p. 155, c26)、 `別譯雜阿含170經 <http://tripitaka.cbeta.org/T02n0100_009#0436c29>`__ (CBETA; T02, no. 100, p. 436, c29) 
 
+.. _sn2_17:
+
 - 7.) SN 2. 17, `Subrahmasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 53 (PTS page), 2. 2. 7, SN 98, 須梵(天子:此心常怖畏)
 
   * `須婆羅門經 <http://agama.buddhason.org/SN/SN0098.htm>`__ (莊春江) [2]_ ;  `須梵 <http://tripitaka.cbeta.org/N13n0006_002#0097a13>`__ (元亨寺, 通妙) [3]_ 
@@ -164,6 +198,8 @@ Anāthapiṇḍika-Vaggo 第二 給孤獨品
   * `Subrahmā <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.011-020.rhyc.pts.htm#sn.1.2.17>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含596經 <http://tripitaka.cbeta.org/T02n0099_022#0159c19>`__ (SA 596, 常驚) (CBETA; T02, no. 99, p. 159, c19)、 `別譯雜阿含181經 <http://tripitaka.cbeta.org/T02n0100_009#0439a04>`__ (CBETA; T02, no. 100, p. 439, a04) 
+
+.. _sn2_18:
 
 - 8.) SN 2. 18, `Kakudhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 54 (PTS page), 2. 2. 8, SN 99, 覺陀(天子:汝不悲不喜?)
 
@@ -173,6 +209,8 @@ Anāthapiṇḍika-Vaggo 第二 給孤獨品
 
   * 對照之阿含經典及其他： `雜阿含585經 <http://tripitaka.cbeta.org/T02n0099_022#0155b29>`__ (SA 585, 獨一住) (CBETA; T02, no. 99, p. 155, b29)、 `別譯雜阿含169經 <http://tripitaka.cbeta.org/T02n0100_009#0436b27>`__ (CBETA; T02, no. 100, p. 436, b27) 
 
+.. _sn2_19:
+
 - 9.) SN 2. 19, `Uttarasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 54 (PTS page), 2. 2. 9, SN 100, 優多羅(天子:生導死壽短)
 
   * `鬱多羅經 <http://agama.buddhason.org/SN/SN0100.htm>`__ (莊春江) [2]_ ;  `優多羅 <http://tripitaka.cbeta.org/N13n0006_002#0099a10>`__ (元亨寺, 通妙) [3]_ 
@@ -180,6 +218,8 @@ Anāthapiṇḍika-Vaggo 第二 給孤獨品
   * `Uttara the Deva's Son <http://www.accesstoinsight.org/tipitaka/sn/sn02/sn02.019.than.html>`__ (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_; `Uttara <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.011-020.rhyc.pts.htm#sn.1.2.19>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1001經 <http://tripitaka.cbeta.org/T02n0099_036#0262b22>`__ (SA 1001, 強親回) (CBETA; T02, no. 99, p. 262, b22)、 `別譯雜阿含138經 <http://tripitaka.cbeta.org/T02n0100_008#0427b06>`__ (CBETA; T02, no. 100, p. 427, b06) 
+
+.. _sn2_20:
 
 - 10.) SN 2. 20, `Anāthapiṇḍikasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 55 (PTS page), 2. 2. 10, SN 101, 給孤獨(天子:清淨不由姓與財)
 
@@ -200,6 +240,8 @@ Anāthapiṇḍika-Vaggo 第二 給孤獨品
 Nānātitthiya-Vaggo 第三 種種外道品
 ++++++++++++++++++++++++++++++++++
 
+.. _sn2_21:
+
 - 1.) SN 2. 21, `Sivasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 56 (PTS page), 2. 3. 1, SN 102, 濕婆(天子:唯與好品德者結交.相識)
 
   * `濕婆經 <http://agama.buddhason.org/SN/SN0102.htm>`__ (莊春江) [2]_ ;  `濕婆 <http://tripitaka.cbeta.org/N13n0006_002#0102a13>`__ (元亨寺, 通妙) [3]_ 
@@ -207,6 +249,8 @@ Nānātitthiya-Vaggo 第三 種種外道品
   * `Siva <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.021-030.rhyc.pts.htm#sn.1.2.21>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1302經 <http://tripitaka.cbeta.org/T02n0099_049#0358a19>`__ (SA 1302, 尸毘) (CBETA; T02, no. 99, p. 358, a19)、 `別譯雜阿含301經 <http://tripitaka.cbeta.org/T02n0100_015#0476c18>`__ (CBETA; T02, no. 100, p. 476, c18) 
+
+.. _sn2_22:
 
 - 2.) SN 2. 22, `Khemasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 57 (PTS page), 2. 3. 2, SN 103, 差摩(天子:愚人行為如自敵)
 
@@ -216,6 +260,8 @@ Nānātitthiya-Vaggo 第三 種種外道品
 
   * 對照之阿含經典及其他： `雜阿含1276經 <http://tripitaka.cbeta.org/T02n0099_048#0350c27>`__ (SA 1276, 愚痴人) (CBETA; T02, no. 99, p. 350, c27)、 `別譯雜阿含274經 <http://tripitaka.cbeta.org/T02n0100_014#0469b27>`__ (CBETA; T02, no. 100, p. 469, b27) 
 
+.. _sn2_23:
+
 - 3.) SN 2. 23, `Serīsuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 57 (PTS page), 2. 3. 3, SN 104, 世理(天子:天.人以食為樂)
 
   * `悉梨經 <http://agama.buddhason.org/SN/SN0104.htm>`__ (莊春江) [2]_ ;  `世理 <http://tripitaka.cbeta.org/N13n0006_002#0105a06>`__ (元亨寺, 通妙) [3]_ 
@@ -223,6 +269,8 @@ Nānātitthiya-Vaggo 第三 種種外道品
   * `Serī <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.021-030.rhyc.pts.htm#sn.1.2.23>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含999經 <http://tripitaka.cbeta.org/T02n0099_036#0261c05>`__ (SA 999, 生歡喜) (CBETA; T02, no. 99, p. 261, c05)、 `別譯雜阿含136經 <http://tripitaka.cbeta.org/T02n0100_008#0426c14>`__ (CBETA; T02, no. 100, p. 426, c14) 
+
+.. _sn2_24:
 
 - 4.) SN 2. 24, `Ghaṭīkārasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 60 (PTS page), 2. 3. 4, SN 105, 陶師(天子:七比丘生無煩天)
 
@@ -232,6 +280,8 @@ Nānātitthiya-Vaggo 第三 種種外道品
 
   * 對照之阿含經典及其他： `雜阿含595經 <http://tripitaka.cbeta.org/T02n0099_022#0159b04>`__ (SA 595, 無煩天) (CBETA; T02, no. 99, p. 159, b04)、 `別譯雜阿含189經 <http://tripitaka.cbeta.org/T02n0100_009#0442b25>`__ (CBETA; T02, no. 100, p. 442, b25) 
 
+.. _sn2_25:
+
 - 5.) SN 2. 25, `Jantusuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 61 (PTS page), 2. 3. 5, SN 106, 姜睹(天子:往昔比丘乞食無求心)
 
   * `遮堵經 <http://agama.buddhason.org/SN/SN0106.htm>`__ (莊春江) [2]_ ;  `姜睹 <http://tripitaka.cbeta.org/N13n0006_002#0110a06>`__ (元亨寺, 通妙) [3]_ 
@@ -239,6 +289,8 @@ Nānātitthiya-Vaggo 第三 種種外道品
   * `Jantu <http://www.accesstoinsight.org/tipitaka/sn/sn02/sn02.025.wlsh.html>`__ (Maurice O'Connell Walshe, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `Jantu <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.021-030.rhyc.pts.htm#sn.1.2.25>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1343經 <http://tripitaka.cbeta.org/T02n0099_050#0370a11>`__ (SA 1343, 眾多比丘) (CBETA; T02, no. 99, p. 370, a11)、 `別譯雜阿含363經 <http://tripitaka.cbeta.org/T02n0100_016#0491c07>`__ (CBETA; T02, no. 100, p. 491, c07) 
+
+.. _sn2_26:
 
 - 6.) SN 2. 26, `Rohitassasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 61 (PTS page), 2. 3. 6, SN 107, 赤馬(天子:到世界邊)
 
@@ -248,6 +300,8 @@ Nānātitthiya-Vaggo 第三 種種外道品
 
   * 對照之阿含經典及其他： `雜阿含1307經 <http://tripitaka.cbeta.org/T02n0099_049#0359a10>`__ (SA 1307, 邊際) (CBETA; T02, no. 99, p. 359, a10)、 `別譯雜阿含306經 <http://tripitaka.cbeta.org/T02n0100_015#0477b24>`__ (CBETA; T02, no. 100, p. 477, b24)、 `增壹阿含經 43.1 （一） <http://tripitaka.cbeta.org/T02n0125_038#0756a07>`__ ；增壹阿含經卷第三十八，馬血天子問八政品第四十三，（一） **（馬血）** ，東晉 罽賓 三藏 **瞿曇僧伽提婆** 譯， EA 43.1 ；大正藏．第二冊．第125經．第756頁．上欄．第7行 (CBETA; T02, no. 125, p. 756, a7) （另一式連結： http://www.cbeta.org/cgi-bin/goto.pl?linehead=T02n0125_p0756a07 (pl) to http://tripitaka.cbeta.org/T02n0125_038?format=line&linehead=yes#0756a07 ） 
 
+.. _sn2_27:
+
 - 7.) SN 2. 27, `Nandasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 62 (PTS page), 2. 3. 7, SN 108, 難陀(天子:時光日夜移)
 
   * `難陀經 <http://agama.buddhason.org/SN/SN0108.htm>`__ (莊春江) [2]_ ;  `難陀 <http://tripitaka.cbeta.org/N13n0006_002#0113a04>`__ (元亨寺, 通妙) [3]_ 
@@ -255,6 +309,8 @@ Nānātitthiya-Vaggo 第三 種種外道品
   * `Nanda <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.021-030.rhyc.pts.htm#sn.1.2.27>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他：  無
+
+.. _sn2_28:
 
 - 8.) SN 2. 28, `Nandivisālasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 63 (PTS page), 2. 3. 8, SN 109, 難提毘舍羅(天子:四輪.九門不淨)
 
@@ -264,6 +320,8 @@ Nānātitthiya-Vaggo 第三 種種外道品
 
   * 對照之阿含經典及其他：  `雜阿含588經 <http://tripitaka.cbeta.org/T02n0099_022#0156a29>`__ (SA 588, 四轉輪) (CBETA; T02, no. 99, p. 156, a29)、 `別譯雜阿含172經 <http://tripitaka.cbeta.org/T02n0100_009#0437b01>`__ (CBETA; T02, no. 100, p. 437, b1)
 
+.. _sn2_29:
+
 - 9.) SN 2. 29, `Susimasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 63 (PTS page), 2. 3. 9, SN 110, 須尸摩(天子,讚歎尊者舍利弗)
 
   * `蘇尸摩經 <http://agama.buddhason.org/SN/SN0110.htm>`__ (莊春江) [2]_ ;  `須尸摩 <http://tripitaka.cbeta.org/N13n0006_002#0114a03>`__ (元亨寺, 通妙) [3]_ 
@@ -271,6 +329,8 @@ Nānātitthiya-Vaggo 第三 種種外道品
   * `Susima <http://www.buddhadust.com/dhamma-vinaya/pts/sn/01_sagv/sn01.02.021-030.rhyc.pts.htm#sn.1.2.29>`__ (Mrs. Rhys Davids, Assisted by Sūriyagoḍa Sumangala Thera) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1306經 <http://tripitaka.cbeta.org/T02n0099_049#0358c09>`__ (SA 1306, 須深摩) (CBETA; T02, no. 99, p. 358, c09)、 `別譯雜阿含305經 <http://tripitaka.cbeta.org/T02n0100_015#0477b04>`__ (CBETA; T02, no. 100, p. 477, b04) 
+
+.. _sn2_30:
 
 - 10.) SN 2. 30, `Nānātitthiyasāvakasuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul1.xml>`_ (CSCD) [1]_ , S i 65 (PTS page), 2. 3. 10,  SN 111, 種種之外道師
 
@@ -304,6 +364,7 @@ Nānātitthiya-Vaggo 第三 種種外道品
 .. [5] 部份經典選譯，請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ 
 
 ..
+  08.19 add interior tag, e.g. .. _sn2_1:
   08.14 rev. note(ref.)
   08.03 改版 revision finished 
   08.01 del: :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Devaputta.htm

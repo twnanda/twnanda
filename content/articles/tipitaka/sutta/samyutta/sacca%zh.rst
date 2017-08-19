@@ -2,7 +2,7 @@ Sacca-saṃyuttaṃ 諦相應, 四聖諦相應, The Four Noble Truths (巴利三
 ###############################################################################
 
 :date: 2017-08-09
-:modified: 2017-08-14
+:modified: 2017-08-19
 :tags: 巴利三藏相應部, Sacca-saṃyuttaṃ 諦相應, 四聖諦相應, 四聖諦, Sacca
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Sacca-saṃyuttaṃ 諦相應, 四聖諦相應, The Four Noble Truths
@@ -28,6 +28,8 @@ Sacca-saṃyuttaṃ 諦相應, 四聖諦相應, The Four Noble Truths (巴利三
 Samādhi-Vaggo 第一 定品
 +++++++++++++++++++++++++
 
+.. _sn56_1:
+
 - 1.) SN 56. 1, `Samādhisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 414 (PTS page), 定
 
   * `定經 <http://agama.buddhason.org/SN/SN1698.htm>`__ (莊春江) [2]_ ; `定 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `定 <http://tripitaka.cbeta.org/N18n0006_056#0301a05>`__ (元亨寺, 通妙) [3]_ 
@@ -35,6 +37,8 @@ Samādhi-Vaggo 第一 定品
   * `Concentration <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.001.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Concentration <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.001.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含429經 <http://tripitaka.cbeta.org/T02n0099_016#0112a25>`__ (SA 429, 三摩提) (CBETA; T02, no. 99, p. 112, a25)
+
+.. _sn56_2:
 
 - 2.) SN 56. 2, `Paṭisallānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 414 (PTS page), 宴默
 
@@ -44,6 +48,8 @@ Samādhi-Vaggo 第一 定品
 
   * 對照之阿含經典及其他： `雜阿含428經 <http://tripitaka.cbeta.org/T02n0099_016#0112a18>`__ (SA 428, 禪思) (CBETA; T02, no. 99, p. 112, a28)
 
+.. _sn56_3:
+
 - 3.) SN 56. 3, `Paṭhamakulaputtasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 415 (PTS page), 善男子 (1)
 
   * `善男子經第一 <http://agama.buddhason.org/SN/SN1700.htm>`__ (莊春江) [2]_ ; `人之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `善男子（一） <http://tripitaka.cbeta.org/N18n0006_056#0302a12>`__ (元亨寺, 通妙) [3]_ 
@@ -51,6 +57,8 @@ Samādhi-Vaggo 第一 定品
   * `Clansmen (1) <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.003.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Clansman (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.003.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含393經 <http://tripitaka.cbeta.org/T02n0099_015#0106a16>`__ (SA 393, 善男子) (CBETA; T02, no. 99, p. 106, a16) **(部份參照)** 
+
+.. _sn56_4:
 
 - 4.) SN 56. 4, `Dutiyakulaputtasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 415 (PTS page), 善男子 (2)
 
@@ -60,6 +68,8 @@ Samādhi-Vaggo 第一 定品
 
   * 對照之阿含經典及其他： `雜阿含393經 <http://tripitaka.cbeta.org/T02n0099_015#0106a16>`__ (SA 393, 善男子) (CBETA; T02, no. 99, p. 106, a16) **(部份參照)** 
 
+.. _sn56_5:
+
 - 5.) SN 56. 5, `Paṭhamasamaṇabrāhmaṇasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ ,S v 416 (PTS page), 沙門婆羅門 (1)
 
   * `沙門婆羅門經第一 <http://agama.buddhason.org/SN/SN1702.htm>`__ (莊春江) [2]_ ; `沙門婆羅門之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `沙門婆羅門（一） <http://tripitaka.cbeta.org/N18n0006_056#0304a09>`__ (元亨寺, 通妙) [3]_ 
@@ -67,6 +77,8 @@ Samādhi-Vaggo 第一 定品
   * `Ascetics and Brahmins, (1) <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.005.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Recluses and Brahmins (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.005.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含390-391經 <http://tripitaka.cbeta.org/T02n0099_015#0105b21>`__ (SA 390, 沙門婆羅門) (CBETA; T02, no. 99, p. 105, b21) **(部份參照)** 
+
+.. _sn56_6:
 
 - 6.) SN 56. 6, `Dutiyasamaṇabrāhmaṇasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 417 (PTS page), 沙門婆羅門 (2)
 
@@ -76,6 +88,8 @@ Samādhi-Vaggo 第一 定品
 
   * 對照之阿含經典及其他： `雜阿含390-391經 <http://tripitaka.cbeta.org/T02n0099_015#0105b21>`__ (SA 390, 沙門婆羅門) (CBETA; T02, no. 99, p. 105, b21) **(部份參照)** 
 
+.. _sn56_7:
+
 - 7.) SN 56. 7, `Vitakkasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 417 (PTS page), 尋
 
   * `尋經 <http://agama.buddhason.org/SN/SN1704.htm>`__ (莊春江) [2]_ ; `覺 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `尋 <http://tripitaka.cbeta.org/N18n0006_056#0306a09>`__ (元亨寺, 通妙) [3]_ 
@@ -83,6 +97,8 @@ Samādhi-Vaggo 第一 定品
   * `Thoughts <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.007.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Thoughts <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.007.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含409-410經 <http://tripitaka.cbeta.org/T02n0099_016#0109b19>`__ (SA 409, 覺; SA 410, 覺) (CBETA; T02, no. 99, p. 109, b19)
+
+.. _sn56_8:
 
 - 8.) SN 56. 8, `Cintasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 418 (PTS page), 思
 
@@ -92,6 +108,8 @@ Samādhi-Vaggo 第一 定品
 
   * 對照之阿含經典及其他： `雜阿含408經 <http://tripitaka.cbeta.org/T02n0099_016#0109a27>`__ (SA 408, 思惟) (CBETA; T02, no. 99, p. 109, a27)
 
+.. _sn56_9:
+
 - 9.) SN 56. 9, `Viggāhikakathāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 419 (PTS page), 諍
 
   * `諍論經 <http://agama.buddhason.org/SN/SN1706.htm>`__ (莊春江) [2]_ ; `爭論 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `諍 <http://tripitaka.cbeta.org/N18n0006_056#0308a07>`__ (元亨寺, 通妙) [3]_ 
@@ -99,6 +117,8 @@ Samādhi-Vaggo 第一 定品
   * `Disputatious Talk <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.009.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Wordy Warfare <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.009.wlsh.html>`__ (Maurice O'Connell Walshe, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `Wordy Warfare <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.009.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含412經 <http://tripitaka.cbeta.org/T02n0099_016#0109c22>`__ (SA 412, 爭) (CBETA; T02, no. 99, p. 109, c22)
+
+.. _sn56_10:
 
 - 10.) SN 56. 10, `Tiracchānakathāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 419 (PTS page), 畜生論 (Kathā 論)
 
@@ -128,6 +148,8 @@ Samādhi-Vaggo 第一 定品
 Dhammacakkappavattana-Vaggo 第二 法輪轉起品
 ++++++++++++++++++++++++++++++++++++++++++++
 
+.. _sn56_11:
+
 - 1.) `SN 56. 11, Dhammacakkappavattanasuttaṃ, 法輪轉起經, 轉法輪經, 如來所說之一, 初轉法輪經, Setting in Motion the Wheel of the Dhamma, Setting Rolling the Wheel of Truth, Setting the Wheel of Dhamma in Motion <{filename}sn56/sn56-011%zh.rst>`__
 
   * `Dhammacakkappavattanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 420 (PTS page), 轉法輪經; 如來所說(1) (Tathāgatena vatta)
@@ -138,6 +160,8 @@ Dhammacakkappavattana-Vaggo 第二 法輪轉起品
 
   * 對照之阿含經典及其他： `（三七九） <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T02n0099_p0103c13>`__ （雜阿含經卷第十五，宋天竺三藏求那跋陀羅譯）；或另一連結(SuttaCentral)： `（三七九） <http://tripitaka.cbeta.org/T02n0099_015>`__ （雜阿含經卷第十五，[0103c13] `雜阿含經 <http://tripitaka.cbeta.org/T02n0099>`__，劉宋　求那跋陀羅譯、 `佛說轉法輪經 <http://www.cbeta.org/result/normal/T02/0109_001.htm>`__ 、 （後漢安息三藏安世高譯，大正新脩大藏經 第二冊 No. 109）；或另一連結(SuttaCentral)： `T 109 佛說轉法輪經 <http://suttacentral.net/lzh/t109>`__ （後漢安息三藏安世高譯）、 `根本說一切有部毘奈耶破僧事　卷第六 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T24n1450_p0127b24>`__ （T24n1450_p0127b24, 大唐三藏法師義淨奉　制譯）、 `五分律卷第十五(彌沙塞) <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T22n1421_p0104b23>`__ （ `Taisho Tripitaka Vol. T22, No. 1421 彌沙塞部和醯五分律 <http://www.cbeta.org/result/T22/T22n1421.htm>`__ （宋罽賓三藏佛陀什共竺道生等譯）；或另一連結(SuttaCentral)： `第三分初受戒法上 <http://suttacentral.net/lzh/lzh-mi-kd1#t1421.15b>`__ （MAHĪŚĀSAKA VINAYA 五分律（彌沙塞）；1. Pabbajjā Khandhaka　受戒法五分律卷第十五（彌沙塞）；宋罽賓三藏佛陀什 共竺道生等譯）、 `四分律卷第三十二(二分之十一) <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T22n1428_p0788a06>`__ （大正新脩大藏經 第二十二冊 No. 1428《四分律》）；或另一連結(SuttaCentral)： `受戒揵度之二 <http://suttacentral.net/lzh/lzh-dg-kd1#t1428.32a>`__ （HARMAGUPTAKA VINAYA 四分律Pabbajja Khandhaka　四分律卷第三十二（二分之十一）　姚秦罽賓三藏佛陀耶舍共竺佛念等譯）、 `佛說三轉法輪經 <http://www.cbeta.org/result/normal/T02/0110_001.htm>`__ （三藏法師義淨奉　制譯，大正新脩大藏經 第二冊 No. 110） **(部份參照)** ；或另一連結(SuttaCentral)： `T 110　佛說三轉法輪經 <http://suttacentral.net/lzh/t110>`__ （三藏法師義淨奉　制譯）、 `EA 19.2 <http://tripitaka.cbeta.org/T02n0125_010#0593b24>`__ **(部份參照)** 、 `MA 204 <http://tripitaka.cbeta.org/T01n0026_056#0775c07>`__ **(部份參照)** 
 
+.. _sn56_12:
+
 - 2.) SN 56. 12, `Tathāgatasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 424 (PTS page), 如來所說 (2) (Tathāgatena vatta)
 
   * `如來經 <http://agama.buddhason.org/SN/SN1709.htm>`__ (莊春江) [2]_ ; `如來所說之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=48:121>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `如來所說（二） <http://tripitaka.cbeta.org/N18n0006_056#0315a12>`__ (元亨寺, 通妙) [3]_ 
@@ -145,6 +169,8 @@ Dhammacakkappavattana-Vaggo 第二 法輪轉起品
   * `Tathāgatas <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.012.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `The Second Sutta Spoken by the Tathāgata <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.012.olds.bd.htm>`__ (Michael Olds); `Spoken by the Tathagata (b) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.012.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `佛說三轉法輪經 <http://tripitaka.cbeta.org/T02n0110_001#0504a03>`__ （三藏法師 義淨奉　制譯，大正新脩大藏經 第二冊 No. 110）(CBETA; T02, no. 110, p. 504, a3) ( `old link <http://www.cbeta.org/result/normal/T02/0110_001.htm>`__ )、 **SN 56.11 (部份參照)** 
+
+.. _sn56_13:
 
 - 3.) SN 56. 13, `Khandhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 425 (PTS page), 蘊
 
@@ -154,6 +180,8 @@ Dhammacakkappavattana-Vaggo 第二 法輪轉起品
 
   * 對照之阿含經典及其他： 無
 
+.. _sn56_14:
+
 - 4.) SN 56. 14, `Ajjhattikāyatanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 426 (PTS page), 內入處 (Āyatana 處)
 
   * `內處經 <http://agama.buddhason.org/SN/SN1711.htm>`__ (莊春江) [2]_ ; `處 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=48:121>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `處 <http://tripitaka.cbeta.org/N18n0006_056#0318a02>`__ (元亨寺, 通妙) [3]_ 
@@ -161,6 +189,8 @@ Dhammacakkappavattana-Vaggo 第二 法輪轉起品
   * `Internal Sense Bases <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.014.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Sphere of Sense <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.014.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： 無
+
+.. _sn56_15:
 
 - 5.) SN 56. 15, `Paṭhamadhāraṇasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 426 (PTS page), 受持 (1)
 
@@ -170,6 +200,8 @@ Dhammacakkappavattana-Vaggo 第二 法輪轉起品
 
   * 對照之阿含經典及其他： `雜阿含416經 <http://tripitaka.cbeta.org/T02n0099_016#0110b15>`__ (SA 416, 受持) (CBETA; T02, no. 99, p. 110, b15)
 
+.. _sn56_16:
+
 - 6.) SN 56. 16, `Dutiyadhāraṇasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 427 (PTS page), 受持 (2)
 
   * `憶持經第二 <http://agama.buddhason.org/SN/SN1713.htm>`__ (莊春江) [2]_ ; `受持之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=48:121>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `受持（二） <http://tripitaka.cbeta.org/N18n0006_056#0320a08>`__ (元亨寺, 通妙) [3]_ 
@@ -177,6 +209,8 @@ Dhammacakkappavattana-Vaggo 第二 法輪轉起品
   * `Remembrance 2 <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.016.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Bearing in Mind (b) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.016.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含418經 <http://tripitaka.cbeta.org/T02n0099_016#0110c13>`__ (SA 418, 受持) (CBETA; T02, no. 99, p. 110, c13)
+
+.. _sn56_17:
 
 - 7.) SN 56. 17, `Avijjāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 429 (PTS page), 無明
 
@@ -186,6 +220,8 @@ Dhammacakkappavattana-Vaggo 第二 法輪轉起品
 
   * 對照之阿含經典及其他： 無
 
+.. _sn56_18:
+
 - 8.) SN 56. 18, `Vijjāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 429 (PTS page), 明
 
   * `明經 <http://agama.buddhason.org/SN/SN1715.htm>`__ (莊春江) [2]_ ; `明 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=48:121>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `明 <http://tripitaka.cbeta.org/N18n0006_056#0322a13>`__ (元亨寺, 通妙) [3]_ 
@@ -193,6 +229,8 @@ Dhammacakkappavattana-Vaggo 第二 法輪轉起品
   * `True Knowledge <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.018.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Knowledge <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.018.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： 無
+
+.. _sn56_19:
 
 - 9.) SN 56. 19, `Saṅkāsanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 430 (PTS page), 辯
 
@@ -202,13 +240,15 @@ Dhammacakkappavattana-Vaggo 第二 法輪轉起品
 
   * 對照之阿含經典及其他： 無
 
+.. _sn56_20:
+
 - 10.) SN 56. 20, `Tathasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 430 (PTS page), 如
 
   * `真實經 <http://agama.buddhason.org/SN/SN1717.htm>`__ (莊春江) [2]_ ; `如實 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=48:121>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `如 <http://tripitaka.cbeta.org/N18n0006_056#0324a02>`__ (元亨寺, 通妙) [3]_ 
 
   * `Actual <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.020.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Suchas Such Are Such as Such Are <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.020.olds.bd.htm>`__ (BD, Michael Olds); `True <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.020.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_; `Real <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.020.than.html>`__ (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_
 
-  * 對照之阿含經典及其他： `雜阿含417經 <http://tripitaka.cbeta.org/T02n0099_016#0110b27>`__ (SA 417, 如如) (CBETA; T02, no. 99, p. 110, b27)、 **SN 56.27**
+  * 對照之阿含經典及其他： `雜阿含417經 <http://tripitaka.cbeta.org/T02n0099_016#0110b27>`__ (SA 417, 如如) (CBETA; T02, no. 99, p. 110, b27)、  SN 56.27 ( sn56_27_ ) **(部份參照)** 
 
 ------
 
@@ -230,6 +270,8 @@ Dhammacakkappavattana-Vaggo 第二 法輪轉起品
 Koṭigāma-Vaggo 第三 拘利村品
 ++++++++++++++++++++++++++++++
 
+.. _sn56_21:
+
 - 1.) SN 56. 21, `Paṭhamakoṭigāmasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 431 (PTS page), 拘利村 (1) ( Vijjā跋耆 (1) )
 
   * `拘利村經第一 <http://agama.buddhason.org/SN/SN1718.htm>`__ (莊春江) [2]_ ; `明之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=121:198>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `跋耆（一） <http://tripitaka.cbeta.org/N18n0006_056#0325a08>`__ (元亨寺, 通妙) [3]_ 
@@ -237,6 +279,8 @@ Koṭigāma-Vaggo 第三 拘利村品
   * `Kotigama (1) <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.021.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Knowledge (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.021.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含403經 <http://tripitaka.cbeta.org/T02n0099_015#0108a04>`__ (SA 403, 如實知) (CBETA; T02, no. 99, p. 108, a04)、 EA 25.1 `增壹阿含經 25.1 （一） <http://tripitaka.cbeta.org/T02n0125_017#0631a06>`__ ；增壹阿含經卷第十七，四諦品第二十五，（一） **（諦）** ，東晉 罽賓 三藏 **瞿曇僧伽提婆** 譯， EA 25.1 ；大正藏．第二冊．第125經．第631頁．上欄．第6行 (CBETA; T02, no. 125, p. 631, a6)
+
+.. _sn56_22:
 
 - 2.) SN 56. 22, `Dutiyakoṭigāmasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 431 (PTS page), 拘利村 (2) ( Vijjā跋耆 (2) )
 
@@ -246,6 +290,8 @@ Koṭigāma-Vaggo 第三 拘利村品
 
   * 對照之阿含經典及其他： `雜阿含390-392經 <http://tripitaka.cbeta.org/T02n0099_015#0105b21>`__ (SA 390, 沙門婆羅門) (CBETA; T02, no. 99, p. 105, b21) **(部份參照)** 
 
+.. _sn56_23:
+
 - 3.) SN 56. 23, `Sammāsambuddhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 433 (PTS page), 正等覺者
 
   * `遍正覺者經 <http://agama.buddhason.org/SN/SN1720.htm>`__ (莊春江) [2]_ ; `等正覺 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=121:198>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `正等覺者 <http://tripitaka.cbeta.org/N18n0006_056#0329a06>`__ (元亨寺, 通妙) [3]_ 
@@ -253,6 +299,8 @@ Koṭigāma-Vaggo 第三 拘利村品
   * `The Perfectly Enlightened One <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.023.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Fully Enlightened <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.023.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含402經 <http://tripitaka.cbeta.org/T02n0099_015#0107c25>`__ (SA 402, 平等正覺) (CBETA; T02, no. 99, p. 107, c25)
+
+.. _sn56_24:
 
 - 4.) SN 56. 24, `Arahantasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 433 (PTS page), 阿羅漢 Arahaṁ
 
@@ -262,6 +310,8 @@ Koṭigāma-Vaggo 第三 拘利村品
 
   * 對照之阿含經典及其他： `雜阿含402經 <http://tripitaka.cbeta.org/T02n0099_015#0107c25>`__ (SA 402, 平等正覺) (CBETA; T02, no. 99, p. 107, c25) **(部份參照)** 
 
+.. _sn56_25:
+
 - 5.) SN 56. 25, `Āsavakkhayasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 434 (PTS page), 漏盡
 
   * `煩惱的滅盡經 <http://agama.buddhason.org/SN/SN1722.htm>`__ (莊春江) [2]_ ; `漏盡 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=121:198>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `漏盡 <http://tripitaka.cbeta.org/N18n0006_056#0331a03>`__ (元亨寺, 通妙) [3]_ 
@@ -269,6 +319,8 @@ Koṭigāma-Vaggo 第三 拘利村品
   * `The Destruction of the Taints <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.025.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Distruction of the Āsavas <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.025.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： 無
+
+.. _sn56_26:
 
 - 6.) SN 56. 26, `Mittasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 434 (PTS page), 友
 
@@ -278,6 +330,8 @@ Koṭigāma-Vaggo 第三 拘利村品
 
   * 對照之阿含經典及其他： 無
 
+.. _sn56_27:
+
 - 7.) SN 56. 27, `Tathasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 435 (PTS page), 如
 
   * `真實經 <http://agama.buddhason.org/SN/SN1724.htm>`__ (莊春江) [2]_ ; `如實 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=121:198>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `如 <http://tripitaka.cbeta.org/N18n0006_056#0332a10>`__ (元亨寺, 通妙) [3]_ 
@@ -285,6 +339,8 @@ Koṭigāma-Vaggo 第三 拘利村品
   * `Actual <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.027.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Such-as-Such-is <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.027.olds.bd.htm>`__ (BD, Michael Olds); `True <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.027.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含417經 <http://tripitaka.cbeta.org/T02n0099_016#0110b27>`__ (SA 417, 如如) (CBETA; T02, no. 99, p. 110, b27)、 **SN 56.20**
+
+.. _sn56_28:
 
 - 8.) SN 56. 28, `Lokasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 435 (PTS page), 世間
 
@@ -294,6 +350,8 @@ Koṭigāma-Vaggo 第三 拘利村品
 
   * 對照之阿含經典及其他： 無
 
+.. _sn56_29:
+
 - 9.) SN 56. 29, `Pariññeyyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 436 (PTS page), 應徧知
 
   * `應該被遍知經 <http://agama.buddhason.org/SN/SN1726.htm>`__ (莊春江) [2]_ ; `遍知 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=121:198>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `應徧知 <http://tripitaka.cbeta.org/N18n0006_056#0333a12>`__ (元亨寺, 通妙) [3]_ 
@@ -301,6 +359,8 @@ Koṭigāma-Vaggo 第三 拘利村品
   * `To Be Fully Understood <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.029.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `To be Fully Understood or Comprehended <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.029.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含382經 <http://tripitaka.cbeta.org/T02n0099_015#0104b13>`__ (SA 382, 當知) (CBETA; T02, no. 99, p. 104, b13)
+
+.. _sn56_30:
 
 - 10.) SN 56. 30, `Gavampatisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 436 (PTS page), 伽梵婆提
 
@@ -330,6 +390,8 @@ Koṭigāma-Vaggo 第三 拘利村品
 Sīsapāvana-Vaggo 第四 申恕林品
 +++++++++++++++++++++++++++++++++
 
+.. _sn56_31:
+
 - 1.) SN 56. 31, `Sīsapāvanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 437 (PTS page), 申恕林; Siṁsapā
 
   * `申恕林經 <http://agama.buddhason.org/SN/SN1728.htm>`__ (莊春江) [2]_ ; `身沙波樹園 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=198:246>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `申恕 <http://tripitaka.cbeta.org/N18n0006_056#0336a03>`__ (元亨寺, 通妙) [3]_ 
@@ -337,6 +399,8 @@ Sīsapāvana-Vaggo 第四 申恕林品
   * `The Siŋsapā Grove <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.031.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `The Simsapa Leaves <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.031.than.html>`__ (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_; `Siŋsapā <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.031.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含404經 <http://tripitaka.cbeta.org/T02n0099_015#0108a24>`__ (SA 404, 申恕林) (CBETA; T02, no. 99, p. 108, a24)
+
+.. _sn56_32:
 
 - 2.) SN 56. 32, `Khadirapattasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 438 (PTS page), 佉提羅; Khadiro
 
@@ -346,6 +410,8 @@ Sīsapāvana-Vaggo 第四 申恕林品
 
   * 對照之阿含經典及其他： `雜阿含397經 <http://tripitaka.cbeta.org/T02n0099_015#0107a03>`__ (SA 397, 佉提羅) (CBETA; T02, no. 99, p. 107, a3)、 `雜阿含435經 <http://tripitaka.cbeta.org/T02n0099_016#0112c21>`__ (SA 435, 須達多) (CBETA; T02, no. 99, p. 112, c21) **(部份參照)**  
 
+.. _sn56_33:
+
 - 3.) SN 56. 33, `Daṇḍasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 439 (PTS page), 杖
 
   * `棍子經 <http://agama.buddhason.org/SN/SN1730.htm>`__ (莊春江) [2]_ ; `棒杖 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=198:246>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `杖 <http://tripitaka.cbeta.org/N18n0006_056#0338a10>`__ (元亨寺, 通妙) [3]_ 
@@ -353,6 +419,8 @@ Sīsapāvana-Vaggo 第四 申恕林品
   * `Stick <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.033.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `The Stick <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.033.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含430經 <http://tripitaka.cbeta.org/T02n0099_016#0112b03>`__ (SA 430, 杖) (CBETA; T02, no. 99, p. 112, b03)
+
+.. _sn56_34:
 
 - 4.) SN 56. 34, `Celasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 440 (PTS page), 衣
 
@@ -362,6 +430,8 @@ Sīsapāvana-Vaggo 第四 申恕林品
 
   * 對照之阿含經典及其他： `雜阿含400經 <http://tripitaka.cbeta.org/T02n0099_015#0107b27>`__ (SA 400, 衣) (CBETA; T02, no. 99, p. 107, b27)
 
+.. _sn56_35:
+
 - 5.) SN 56. 35, `Sattisatasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 440 (PTS page), 百槍
 
   * `百槍經 <http://agama.buddhason.org/SN/SN1732.htm>`__ (莊春江) [2]_ ; `一百矛 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=198:246>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `百槍 <http://tripitaka.cbeta.org/N18n0006_056#0340a04>`__ (元亨寺, 通妙) [3]_ 
@@ -369,6 +439,8 @@ Sīsapāvana-Vaggo 第四 申恕林品
   * `A Hundred Spears <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.035.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi); `One Hundred Spears <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.035.than.html>`__ (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `A Hundred Years <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.035.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含401經 <http://tripitaka.cbeta.org/T02n0099_015#0107c11>`__ (SA 401, 百槍) (CBETA; T02, no. 99, p. 107, c11)
+
+.. _sn56_36:
 
 - 6.) SN 56. 36, `Pāṇasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 441 (PTS page), 生類
 
@@ -378,6 +450,8 @@ Sīsapāvana-Vaggo 第四 申恕林品
 
   * 對照之阿含經典及其他： `雜阿含438經 <http://tripitaka.cbeta.org/T02n0099_016#0113b19>`__ (SA 438, 蟲) (CBETA; T02, no. 99, p. 113, b19)
 
+.. _sn56_37:
+
 - 7.) SN 56. 37, `Paṭhamasūriyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 442 (PTS page), 日 (1) ; Suriyupamā 日喻 (1)
 
   * `太陽經第一 <http://agama.buddhason.org/SN/SN1734.htm>`__ (莊春江) [2]_ ; `太陽喻之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=198:246>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `日喻（一） <http://tripitaka.cbeta.org/N18n0006_056#0342a03>`__ (元亨寺, 通妙) [3]_ 
@@ -385,6 +459,8 @@ Sīsapāvana-Vaggo 第四 申恕林品
   * `The Sun (1) <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.037.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `The Parable of the Sun (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.037.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含394經 <http://tripitaka.cbeta.org/T02n0099_015#0106b24>`__ (SA 394, 日月) (CBETA; T02, no. 99, p. 106, b24)
+
+.. _sn56_38:
 
 - 8.) SN 56. 38, `Dutiyasūriyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 442 (PTS page), 日 (2) ; Suriyupamā 日喻 (2)
 
@@ -394,6 +470,8 @@ Sīsapāvana-Vaggo 第四 申恕林品
 
   * 對照之阿含經典及其他： `雜阿含395經 <http://tripitaka.cbeta.org/T02n0099_015#0106c02>`__ (SA 395, 日月) (CBETA; T02, no. 99, p. 106, c02)
 
+.. _sn56_39:
+
 - 9.) SN 56. 39, `Indakhīlasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 443 (PTS page), 因陀羅柱
 
   * `因陀羅柱經 <http://agama.buddhason.org/SN/SN1736.htm>`__ (莊春江) [2]_ ; `因陀羅柱 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=198:246>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `因陀羅柱 <http://tripitaka.cbeta.org/N18n0006_056#0343a14>`__ (元亨寺, 通妙) [3]_ 
@@ -401,6 +479,8 @@ Sīsapāvana-Vaggo 第四 申恕林品
   * `Indra's Pillar <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.038.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Foundation Stone <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.039.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含398經 <http://tripitaka.cbeta.org/T02n0099_015#0107a28>`__ (SA 398, 因陀羅柱) (CBETA; T02, no. 99, p. 107, a28)
+
+.. _sn56_40:
 
 - 10.) SN 56. 40, `Vādatthikasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 445 (PTS page), Vādino 論師
 
@@ -430,6 +510,8 @@ Sīsapāvana-Vaggo 第四 申恕林品
 Papāta-Vaggo 第五 斷崖品
 ++++++++++++++++++++++++++
 
+.. _sn56_41:
+
 - 1.) SN 56. 41, `Lokacintāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 446 (PTS page), 世間思惟 (Cintā 思惟)
 
   * `世間之思惟經 <http://agama.buddhason.org/SN/SN1738.htm>`__ (莊春江) [2]_ ; `思考 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=246:306>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `思惟 <http://tripitaka.cbeta.org/N18n0006_056#0347a13>`__ (元亨寺, 通妙) [3]_ 
@@ -437,6 +519,8 @@ Papāta-Vaggo 第五 斷崖品
   * `Reflection about the World <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.041.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Reasoning <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.041.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含407經 <http://tripitaka.cbeta.org/T02n0099_016#0108c28>`__ (SA 407, 思惟) (CBETA; T02, no. 99, p. 108, c38)
+
+.. _sn56_42:
 
 - 2.) SN 56. 42, `Papātasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 448 (PTS page), 深嶮
 
@@ -446,6 +530,8 @@ Papāta-Vaggo 第五 斷崖品
 
   * 對照之阿含經典及其他： `雜阿含421經 <http://tripitaka.cbeta.org/T02n0099_016#0111a20>`__ (SA 421, 深嶮) (CBETA; T02, no. 99, p. 111, a20)
 
+.. _sn56_43:
+
 - 3.) SN 56. 43, `Mahāpariḷāhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 450 (PTS page), 熱煩
 
   * `大熱惱經 <http://agama.buddhason.org/SN/SN1740.htm>`__ (莊春江) [2]_ ; `熱惱 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=246:306>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `熱煩 <http://tripitaka.cbeta.org/N18n0006_056#0352a10>`__ (元亨寺, 通妙) [3]_ 
@@ -453,6 +539,8 @@ Papāta-Vaggo 第五 斷崖品
   * `The Great Conflagration <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.043.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Distress <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.043.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含422經 <http://tripitaka.cbeta.org/T02n0099_0160111b10#>`__ (SA 422, 大熱) (CBETA; T02, no. 99, p. 111, b10)
+
+.. _sn56_44:
 
 - 4.) SN 56. 44, `Kūṭāgārasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 452 (PTS page), 重閣
 
@@ -462,6 +550,8 @@ Papāta-Vaggo 第五 斷崖品
 
   * 對照之阿含經典及其他： `雜阿含436-437經 <http://tripitaka.cbeta.org/T02n0099_016#0113a12>`__ (SA 436, 殿堂) (CBETA; T02, no. 99, p. 113, a12)
 
+.. _sn56_45:
+
 - 5.) SN 56. 45, `Vālasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 453 (PTS page), Chiggaḷa 毛
 
   * `毛經 <http://agama.buddhason.org/SN/SN1742.htm>`__ (莊春江) [2]_ ; `孔之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=246:306>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `毛 <http://tripitaka.cbeta.org/N18n0006_056#0356a03>`__ (元亨寺, 通妙) [3]_ 
@@ -469,6 +559,8 @@ Papāta-Vaggo 第五 斷崖品
   * `The Hair <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.045.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi); `The Horsehair <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.045.than.html>`__ (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `The Keyhole <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.045.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含405經 <http://tripitaka.cbeta.org/T02n0099_015#0108b13>`__ (SA 405, 孔) (CBETA; T02, no. 99, p. 108, b13)
+
+.. _sn56_46:
 
 - 6.) SN 56. 46, `Andhakārasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 454 (PTS page), 闇黑
 
@@ -478,6 +570,8 @@ Papāta-Vaggo 第五 斷崖品
 
   * 對照之阿含經典及其他： `雜阿含423經 <http://tripitaka.cbeta.org/T02n0099_016#0111b25>`__ (SA 423, 大闇) (CBETA; T02, no. 99, p. 111, b25) **(部份參照)** 、 `雜阿含424-426經 <http://tripitaka.cbeta.org/T02n0099_016#0111c08>`__ (SA 424, 千明) (CBETA; T02, no. 99, p. 111, c08) **(部份參照)** 
 
+.. _sn56_47:
+
 - 7.) SN 56. 47, `Paṭhamachiggaḷayugasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 455 (PTS page), Chiggaḷa 孔 (1)
 
   * `有孔之軛經第一 <http://agama.buddhason.org/SN/SN1744.htm>`__ (莊春江) [2]_ ; `孔之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=246:306>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `孔（一） <http://tripitaka.cbeta.org/N18n0006_056#0359a14>`__ (元亨寺, 通妙) [3]_ 
@@ -485,6 +579,8 @@ Papāta-Vaggo 第五 斷崖品
   * `Yoke with a Hole, (1) <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.047.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Yoke-hole (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.047.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含406經 <http://tripitaka.cbeta.org/T02n0099_015#0108c06>`__ (SA 406, 龜) (CBETA; T02, no. 99, p. 108, c06)
+
+.. _sn56_48:
 
 - 8.) SN 56. 48, `Dutiyachiggaḷayugasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 456 (PTS page), Chiggaḷa 孔 (2)
 
@@ -494,6 +590,8 @@ Papāta-Vaggo 第五 斷崖品
 
   * 對照之阿含經典及其他： `雜阿含406經 <http://tripitaka.cbeta.org/T02n0099_015#0108c06>`__ (SA 406, 龜) (CBETA; T02, no. 99, p. 108, c06)
 
+.. _sn56_49:
+
 - 9.) SN 56. 49, `Paṭhamasinerupabbatarājasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 457 (PTS page), Sineru 須彌 (1) 
 
   * `須彌山山王經第一 <http://agama.buddhason.org/SN/SN1746.htm>`__ (莊春江) [2]_ ; `須彌山之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=246:306>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `須彌（一） <http://tripitaka.cbeta.org/N18n0006_056#0362a07>`__ (元亨寺, 通妙) [3]_ 
@@ -501,6 +599,8 @@ Papāta-Vaggo 第五 斷崖品
   * `Sineru (1) <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.56.049.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) ; `Sineru (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.049.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含439經 <http://tripitaka.cbeta.org/T02n0099_016#0113b28>`__ (SA 439, 山) (CBETA; T02, no. 99, p. 113, b28)、 `雜阿含441經 <http://tripitaka.cbeta.org/T02n0099_016#0114a01>`__ (SA 441, 土等) (CBETA; T02, no. 99, p. 114, a01) **(部份參照)** 
+
+.. _sn56_50:
 
 - 10.) SN 56. 50, `Dutiyasinerupabbatarājasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 458 (PTS page), Sineru 須彌 (2) 
 
@@ -530,6 +630,8 @@ Papāta-Vaggo 第五 斷崖品
 Abhisamaya-Vaggo 第六 現觀品
 +++++++++++++++++++++++++++++
 
+.. _sn56_51:
+
 - 1.) SN 56. 51, `Nakhasikhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 459 (PTS page), 爪尖
 
   * `指甲尖經 <http://agama.buddhason.org/SN/SN1748.htm>`__ (莊春江) [2]_ ; `指甲端 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `爪尖 <http://tripitaka.cbeta.org/N18n0006_056#0365a04>`__ (元亨寺, 通妙) [3]_ 
@@ -537,6 +639,8 @@ Abhisamaya-Vaggo 第六 現觀品
   * The Fingernail (WP, Ven. Bhikkhu Bodhi) ; `Tip of the Nail <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.051.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含442經 <http://tripitaka.cbeta.org/T02n0099_016#0114a21>`__ (SA 442, 爪甲) (CBETA; T02, no. 99, p. 114, a21) **(部份參照)** 
+
+.. _sn56_52:
 
 - 2.) SN 56. 52, `Pokkharaṇīsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 460 (PTS page), 湖池
 
@@ -546,6 +650,8 @@ Abhisamaya-Vaggo 第六 現觀品
 
   * 對照之阿含經典及其他： `雜阿含440經 <http://tripitaka.cbeta.org/T02n0099_016#0113c13>`__ (SA 440, 湖池等) (CBETA; T02, no. 99, p. 113, c13)
 
+.. _sn56_53:
+
 - 3.) SN 56. 53, `Paṭhamasaṃbhejjasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 460 (PTS page), 合流 (1)
 
   * `合流經第一 <http://agama.buddhason.org/SN/SN1750.htm>`__ (莊春江) [2]_ ; `匯流之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `合流（一） <http://tripitaka.cbeta.org/N18n0006_056#0366a14>`__ (元亨寺, 通妙) [3]_ 
@@ -553,6 +659,8 @@ Abhisamaya-Vaggo 第六 現觀品
   * Water at the Confluence (WP, Ven. Bhikkhu Bodhi) ; `Confluence (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.053.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含440經 <http://tripitaka.cbeta.org/T02n0099_016#0113c13>`__ (SA 440, 湖池等) (CBETA; T02, no. 99, p. 113, c13)
+
+.. _sn56_54:
 
 - 4.) SN 56. 54, `Dutiyasaṃbhejjasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 461 (PTS page), 合流 (2)
 
@@ -562,6 +670,8 @@ Abhisamaya-Vaggo 第六 現觀品
 
   * 對照之阿含經典及其他： 無
 
+.. _sn56_55:
+
 - 5.) SN 56. 55, `Paṭhamamahāpathavīsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 462 (PTS page), Pathavī 地 (1)
 
   * `大地經第一 <http://agama.buddhason.org/SN/SN1752.htm>`__ (莊春江) [2]_ ; `大地之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `地（一） <http://tripitaka.cbeta.org/N18n0006_056#0368a03>`__ (元亨寺, 通妙) [3]_
@@ -569,6 +679,8 @@ Abhisamaya-Vaggo 第六 現觀品
   * The Earth (WP, Ven. Bhikkhu Bodhi) ; `The Earth (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.055.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含441經 <http://tripitaka.cbeta.org/T02n0099_016#0114a01>`__ (SA 441, 土等) (CBETA; T02, no. 99, p. 114, a01) **(部份參照)** 
+
+.. _sn56_56:
 
 - 6.) SN 56. 56, `Dutiyamahāpathavīsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 462 (PTS page), Pathavī 地 (2)
 
@@ -578,6 +690,8 @@ Abhisamaya-Vaggo 第六 現觀品
 
   * 對照之阿含經典及其他： 無
 
+.. _sn56_57:
+
 - 7.) SN 56. 57, `Paṭhamamahāsamuddasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 463 (PTS page), Samudda 海 (1)
 
   * `大海經第一 <http://agama.buddhason.org/SN/SN1754.htm>`__ (莊春江) [2]_ ; `大海之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `海（一） <http://tripitaka.cbeta.org/N18n0006_056#0369a06>`__ (元亨寺, 通妙) [3]_
@@ -585,6 +699,8 @@ Abhisamaya-Vaggo 第六 現觀品
   * The Ocean (WP, Ven. Bhikkhu Bodhi) ; `The Ocean (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.057.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含440經 <http://tripitaka.cbeta.org/T02n0099_016#0113c13>`__ (SA 440, 湖池等) (CBETA; T02, no. 99, p. 113, c13) **(部份參照)** 
+
+.. _sn56_58:
 
 - 8.) SN 56. 58, `Dutiyamahāsamuddasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 463 (PTS page), Samudda 海 (2)
 
@@ -594,6 +710,8 @@ Abhisamaya-Vaggo 第六 現觀品
 
   * 對照之阿含經典及其他： 無
 
+.. _sn56_59:
+
 - 9.) SN 56. 59, `Paṭhamapabbatūpamasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 464 (PTS page), 山喻 (1)
 
   * `像山一樣經第一 <http://agama.buddhason.org/SN/SN1756.htm>`__ (莊春江) [2]_ ; `山喻之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `山喻（一） <http://tripitaka.cbeta.org/N18n0006_056#0370a04>`__ (元亨寺, 通妙) [3]_ 
@@ -601,6 +719,8 @@ Abhisamaya-Vaggo 第六 現觀品
   * The Mountain (WP, Ven. Bhikkhu Bodhi) ; `Simile of the Mountain (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.059.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含441經 <http://tripitaka.cbeta.org/T02n0099_016#0114a01>`__ (SA 441, 土等) (CBETA; T02, no. 99, p. 114, a01) **(部份參照)** 
+
+.. _sn56_60:
 
 - 10.) SN 56. 60, `Dutiyapabbatūpamasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 464 (PTS page), 山喻 (2)
 
@@ -640,6 +760,8 @@ Paṭhamaāmakadhaññapeyyāla-Vaggo 第七 第一生穀中略品
 
   * **SN 56.61–131 對照之阿含經典及其他：** `雜阿含442經 <http://tripitaka.cbeta.org/T02n0099_016#0114a21>`__ (SA 442, 爪甲) (CBETA; T02, no. 99, p. 114, a21)、 `單卷本 雜阿含22經 <http://tripitaka.cbeta.org/T02n0101_001#0498a15>`__ (T02n0101　雜阿含經 ( 1 卷)　【失譯】 （二二）, SA3 22, **部份參照** )  (CBETA; T02, no. 101, p. 498, a15)
 
+.. _sn56_62:
+
 - 2.) SN 56. 62, `Paccantasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 466 (PTS page), 邊地
 
   * `邊地經 <http://agama.buddhason.org/SN/SN1759.htm>`__ (莊春江) [2]_ ; `邊地 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `邊地 <http://tripitaka.cbeta.org/N18n0006_056#0373a05>`__ (元亨寺, 通妙) [3]_ 
@@ -647,6 +769,8 @@ Paṭhamaāmakadhaññapeyyāla-Vaggo 第七 第一生穀中略品
   * Outlying Countries (WP, Ven. Bhikkhu Bodhi) ; `Outlying <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.061-070.wood.pts.htm#p62>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_63:
 
 - 3.) SN 56. 63, `Paññāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 467 (PTS page), 慧
 
@@ -656,6 +780,8 @@ Paṭhamaāmakadhaññapeyyāla-Vaggo 第七 第一生穀中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_64:
+
 - 4.) SN 56. 64, `Surāmerayasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 467 (PTS page), 酒
 
   * `榖酒果酒經 <http://agama.buddhason.org/SN/SN1761.htm>`__ (莊春江) [2]_ ; `飲酒 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `酒 <http://tripitaka.cbeta.org/N18n0006_056#0374a01>`__ (元亨寺, 通妙) [3]_ 
@@ -663,6 +789,8 @@ Paṭhamaāmakadhaññapeyyāla-Vaggo 第七 第一生穀中略品
   * Wines and Liquors (WP, Ven. Bhikkhu Bodhi) ; `Intoxicating Liquor <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.061-070.wood.pts.htm#p64>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_65:
 
 - 5.) SN 56. 65, `Odakasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 467 (PTS page), 水
 
@@ -672,6 +800,8 @@ Paṭhamaāmakadhaññapeyyāla-Vaggo 第七 第一生穀中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_66:
+
 - 6.) SN 56. 66, `Matteyyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 467 (PTS page), 母
 
   * `尊敬母親經 <http://agama.buddhason.org/SN/SN1763.htm>`__ (莊春江) [2]_ ; `尊敬母親 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `母 <http://tripitaka.cbeta.org/N18n0006_056#0374a05>`__ (元亨寺, 通妙) [3]_ 
@@ -679,6 +809,8 @@ Paṭhamaāmakadhaññapeyyāla-Vaggo 第七 第一生穀中略品
   * Who Honour Mother (WP, Ven. Bhikkhu Bodhi) ; `Reverent to Mothers <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.061-070.wood.pts.htm#p66>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_67:
 
 - 7.) SN 56. 67, `Petteyyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 467 (PTS page), 父
 
@@ -688,6 +820,8 @@ Paṭhamaāmakadhaññapeyyāla-Vaggo 第七 第一生穀中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_68:
+
 - 8.) SN 56. 68, `Sāmaññasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 468 (PTS page), 沙門
 
   * `尊敬沙門經 <http://agama.buddhason.org/SN/SN1765.htm>`__ (莊春江) [2]_ ; `尊敬沙門 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `沙門 <http://tripitaka.cbeta.org/N18n0006_056#0374a09>`__ (元亨寺, 通妙) [3]_ 
@@ -696,11 +830,15 @@ Paṭhamaāmakadhaññapeyyāla-Vaggo 第七 第一生穀中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_69:
+
 - 9.) SN 56. 69, `Brahmaññasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 468 (PTS page), 婆羅門
 
   * `尊敬婆羅門經 <http://agama.buddhason.org/SN/SN1766.htm>`__ (莊春江) [2]_ ; `尊敬婆羅門 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `婆羅門 <http://tripitaka.cbeta.org/N18n0006_056#0374a11>`__ (元亨寺, 通妙) [3]_ 
 
   * Who Honour Brahmins (WP, Ven. Bhikkhu Bodhi) ; `Reverent to Brahmins <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.061-070.wood.pts.htm#p69>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn56_70:
 
 - 10.) SN 56. 70, `Pacāyikasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 468 (PTS page), 尊重
 
@@ -730,6 +868,8 @@ Paṭhamaāmakadhaññapeyyāla-Vaggo 第七 第一生穀中略品
 Dutiyaāmakadhaññapeyyāla-Vaggo 第八 第二生穀中略品
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+.. _sn56_71:
+
 - 1.) SN 56. 71, `Pāṇātipātasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 468 (PTS page), 殺生; Pāṇā 生
 
   * `殺生經 <http://agama.buddhason.org/SN/SN1768.htm>`__ (莊春江) [2]_ ; `殺生 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `生 <http://tripitaka.cbeta.org/N18n0006_056#0375a11>`__ (元亨寺, 通妙) [3]_ 
@@ -737,6 +877,8 @@ Dutiyaāmakadhaññapeyyāla-Vaggo 第八 第二生穀中略品
   * Killing Living Beings (WP, Ven. Bhikkhu Bodhi) ; `Life <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.071-080.wood.pts.htm#p71>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_72:
 
 - 2.) SN 56. 72, `Adinnādānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 469 (PTS page), 不予; Adinnaṁ 予
 
@@ -746,11 +888,15 @@ Dutiyaāmakadhaññapeyyāla-Vaggo 第八 第二生穀中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_73:
+
 - 3.) SN 56. 73, `Kāmesumicchācārasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 469 (PTS page), 邪淫行; Kāmesu欲
 
   * `邪淫經 <http://agama.buddhason.org/SN/SN1770.htm>`__ (莊春江) [2]_ ; `邪淫 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `欲 <http://tripitaka.cbeta.org/N18n0006_056#0376a02>`__ (元亨寺, 通妙) [3]_ 
 
   * Sexual Misconduct (WP, Ven. Bhikkhu Bodhi) ; `Sensual Lust <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.071-080.wood.pts.htm#p73>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn56_74:
 
 - 4.) SN 56. 74, `Musāvādasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 469 (PTS page), 妄語
 
@@ -760,6 +906,8 @@ Dutiyaāmakadhaññapeyyāla-Vaggo 第八 第二生穀中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_75:
+
 - 5.) SN 56. 75, `Pesuññasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 469 (PTS page),  Pesunaṁ 離間語
 
   * `離間語經 <http://agama.buddhason.org/SN/SN1772.htm>`__ (莊春江) [2]_ ; `兩舌 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `離間語 <http://tripitaka.cbeta.org/N18n0006_056#0376a06>`__ (元亨寺, 通妙) [3]_ 
@@ -767,6 +915,8 @@ Dutiyaāmakadhaññapeyyāla-Vaggo 第八 第二生穀中略品
   * Divisive Speech (WP, Ven. Bhikkhu Bodhi) ; `Slander <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.071-080.wood.pts.htm#p75>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_76:
 
 - 6.) SN 56. 76, `Pharusavācāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 469 (PTS page), 麤惡語; Pharusaṁ 
 
@@ -776,6 +926,8 @@ Dutiyaāmakadhaññapeyyāla-Vaggo 第八 第二生穀中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_77:
+
 - 7.) SN 56. 77, `Samphappalāpasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 469 (PTS page), 雜穢語
 
   * `雜穢語經 <http://agama.buddhason.org/SN/SN1774.htm>`__ (莊春江) [2]_ ; `綺語 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `雜穢語 <http://tripitaka.cbeta.org/N18n0006_056#0376a10>`__ (元亨寺, 通妙) [3]_ 
@@ -783,6 +935,8 @@ Dutiyaāmakadhaññapeyyāla-Vaggo 第八 第二生穀中略品
   * Idle Chatter (WP, Ven. Bhikkhu Bodhi) ; `Idle Chatter <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.071-080.wood.pts.htm#p77>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_78:
 
 - 8.) SN 56. 78, `Bījagāmasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 470 (PTS page), Bījaṁ 種子
 
@@ -792,6 +946,8 @@ Dutiyaāmakadhaññapeyyāla-Vaggo 第八 第二生穀中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_79:
+
 - 9.) SN 56. 79, `Vikālabhojanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 470 (PTS page), 非時食; Vikāle 非時
 
   * `非時食經 <http://agama.buddhason.org/SN/SN1776.htm>`__ (莊春江) [2]_ ; `非時 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `非時 <http://tripitaka.cbeta.org/N18n0006_056#0377a01>`__ (元亨寺, 通妙) [3]_ 
@@ -799,6 +955,8 @@ Dutiyaāmakadhaññapeyyāla-Vaggo 第八 第二生穀中略品
   * Improper Times (WP, Ven. Bhikkhu Bodhi) ; `Unseasonable <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.071-080.wood.pts.htm#p79>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_80:
 
 - 10.) SN 56. 80, `Gandhavilepanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 470 (PTS page), 薰香塗香
 
@@ -828,6 +986,8 @@ Dutiyaāmakadhaññapeyyāla-Vaggo 第八 第二生穀中略品
 Tatiyaāmakadhaññapeyyāla-Vaggo 第九 第三生穀中略品
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+.. _sn56_81:
+
 - 1.) SN 56. 81, `Naccagītasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 470 (PTS page), 歌舞; Naccaṁ 舞踊
 
   * `跳舞歌曲經 <http://agama.buddhason.org/SN/SN1778.htm>`__ (莊春江) [2]_ ; `跳舞 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `舞蹈 <http://tripitaka.cbeta.org/N18n0006_056#0378a03>`__ (元亨寺, 通妙) [3]_ 
@@ -835,6 +995,8 @@ Tatiyaāmakadhaññapeyyāla-Vaggo 第九 第三生穀中略品
   * Dancing and Singing (WP, Ven. Bhikkhu Bodhi) ; `Nautch <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.081-090.wood.pts.htm#p81>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_82:
 
 - 2.) SN 56. 82, `Uccāsayanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 471 (PTS page), 高床; Sayanaṁ 床
 
@@ -844,6 +1006,8 @@ Tatiyaāmakadhaññapeyyāla-Vaggo 第九 第三生穀中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_83:
+
 - 3.) SN 56. 83, `Jātarūparajatasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 471 (PTS page), 金銀; Rajata 銀
 
   * `金銀經 <http://agama.buddhason.org/SN/SN1780.htm>`__ (莊春江) [2]_ ; `銀 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `銀 <http://tripitaka.cbeta.org/N18n0006_056#0378a09>`__ (元亨寺, 通妙) [3]_ 
@@ -851,6 +1015,8 @@ Tatiyaāmakadhaññapeyyāla-Vaggo 第九 第三生穀中略品
   * Gold and Silver (WP, Ven. Bhikkhu Bodhi) ; `Silver <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.081-090.wood.pts.htm#p83>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_84:
 
 - 4.) SN 56. 84, `Āmakadhaññasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 471 (PTS page), Dhaññaṁ 穀 
 
@@ -860,6 +1026,8 @@ Tatiyaāmakadhaññapeyyāla-Vaggo 第九 第三生穀中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_85:
+
 - 5.) SN 56. 85, `Āmakamaṃsasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 471 (PTS page), Maṁsaṁ 肉
 
   * `生肉經 <http://agama.buddhason.org/SN/SN1782.htm>`__ (莊春江) [2]_ ; `肉 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `肉 <http://tripitaka.cbeta.org/N18n0006_056#0379a01>`__ (元亨寺, 通妙) [3]_ 
@@ -867,6 +1035,8 @@ Tatiyaāmakadhaññapeyyāla-Vaggo 第九 第三生穀中略品
   * Raw Meat (WP, Ven. Bhikkhu Bodhi) ; `Uncooked Flesh <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.081-090.wood.pts.htm#p85>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_86:
 
 - 6.) SN 56. 86, `Kumārikasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 471 (PTS page), Kumāriyaṁ 童女
 
@@ -876,6 +1046,8 @@ Tatiyaāmakadhaññapeyyāla-Vaggo 第九 第三生穀中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_87:
+
 - 7.) SN 56. 87, `Dāsidāsasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 472 (PTS page), Dāsi 婢
 
   * `男奴僕女奴經 <http://agama.buddhason.org/SN/SN1784.htm>`__ (莊春江) [2]_ ; `僕人 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `婢 <http://tripitaka.cbeta.org/N18n0006_056#0379a07>`__ (元亨寺, 通妙) [3]_ 
@@ -883,6 +1055,8 @@ Tatiyaāmakadhaññapeyyāla-Vaggo 第九 第三生穀中略品
   * Slaves (WP, Ven. Bhikkhu Bodhi) ; `Female and Male Slaves <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.081-090.wood.pts.htm#p87>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_88:
 
 - 8.) SN 56. 88, `Ajeḷakasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 472 (PTS page), 山羊、羊
 
@@ -892,6 +1066,8 @@ Tatiyaāmakadhaññapeyyāla-Vaggo 第九 第三生穀中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_89:
+
 - 9.) SN 56. 89, `Kukkuṭasūkarasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 472 (PTS page), 雞、豚
 
   * `雞與豬經 <http://agama.buddhason.org/SN/SN1786.htm>`__ (莊春江) [2]_ ; `家禽 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=306:329>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `鷄、豬 <http://tripitaka.cbeta.org/N18n0006_056#0379a13>`__ (元亨寺, 通妙) [3]_ 
@@ -899,6 +1075,8 @@ Tatiyaāmakadhaññapeyyāla-Vaggo 第九 第三生穀中略品
   * Fowl and Swine (WP, Ven. Bhikkhu Bodhi) ; `Fowls and Swine <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.081-090.wood.pts.htm#p89>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_90:
 
 - 10.) SN 56. 90, `Hatthigavassasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 472 (PTS page), 象
 
@@ -928,6 +1106,8 @@ Tatiyaāmakadhaññapeyyāla-Vaggo 第九 第三生穀中略品
 Catutthaāmakadhaññapeyyāla-Vaggo 第十 第四生穀中略品
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+.. _sn56_91:
+
 - 1.) SN 56. 91, `Khettavatthusuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 473 (PTS page), 田事; Khetta田
 
   * `田與地經 <http://agama.buddhason.org/SN/SN1788.htm>`__ (莊春江) [2]_ ; `田 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=338:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `田 <http://tripitaka.cbeta.org/N18n0006_056#0380a14>`__ (元亨寺, 通妙) [3]_ 
@@ -935,6 +1115,8 @@ Catutthaāmakadhaññapeyyāla-Vaggo 第十 第四生穀中略品
   * Fields (WP, Ven. Bhikkhu Bodhi) ; `Fields <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.091-101.wood.pts.htm#p91>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_92:
 
 - 2.) SN 56. 92, `Kayavikkayasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 473 (PTS page), 賣買
 
@@ -944,6 +1126,8 @@ Catutthaāmakadhaññapeyyāla-Vaggo 第十 第四生穀中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_93:
+
 - 3.) SN 56. 93, `Dūteyyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 473 (PTS page), 使
 
   * `差使經 <http://agama.buddhason.org/SN/SN1790.htm>`__ (莊春江) [2]_ ; `信使 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=338:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `使 <http://tripitaka.cbeta.org/N18n0006_056#0381a05>`__ (元亨寺, 通妙) [3]_ 
@@ -951,6 +1135,8 @@ Catutthaāmakadhaññapeyyāla-Vaggo 第十 第四生穀中略品
   * Messages (WP, Ven. Bhikkhu Bodhi) ; `Errands <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.091-101.wood.pts.htm#p93>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_94:
 
 - 4.) SN 56. 94, `Tulākūṭasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 473 (PTS page), 偽秤
 
@@ -960,6 +1146,8 @@ Catutthaāmakadhaññapeyyāla-Vaggo 第十 第四生穀中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_95:
+
 - 5.) SN 56. 95, `Ukkoṭanasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 473 (PTS page), 虛偽
 
   * `賄賂經 <http://agama.buddhason.org/SN/SN1792.htm>`__ (莊春江) [2]_ ; `賄賂 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=338:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `虛偽 <http://tripitaka.cbeta.org/N18n0006_056#0381a11>`__ (元亨寺, 通妙) [3]_ 
@@ -967,6 +1155,8 @@ Catutthaāmakadhaññapeyyāla-Vaggo 第十 第四生穀中略品
   * Bribery (WP, Ven. Bhikkhu Bodhi) ; `Perverting Justice <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.091-101.wood.pts.htm#p95>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_96:
 
 - 6.) SN 56. 96~101, `Chedanādisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 473 (PTS page), Vadha-ālopa-sāhasakāram 掠奪強盜
 
@@ -996,6 +1186,8 @@ Catutthaāmakadhaññapeyyāla-Vaggo 第十 第四生穀中略品
 Pañcagatipeyyāla-Vaggo 第十一 五趣中略品
 ++++++++++++++++++++++++++++++++++++++++++
 
+.. _sn56_102:
+
 - 1.) SN 56. 102, `Manussacutinirayasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 474 (PTS page), 
 
   * `人死地獄經 <http://agama.buddhason.org/SN/SN1794.htm>`__ (莊春江) [2]_ ; `五趣之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=338:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `五趣（一） <http://tripitaka.cbeta.org/N18n0006_056#0382a11>`__ (元亨寺, 通妙) [3]_ 
@@ -1003,6 +1195,8 @@ Pañcagatipeyyāla-Vaggo 第十一 五趣中略品
   * Passing Away as Humans (WP, Ven. Bhikkhu Bodhi); `Dust <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.102-113.than.html>`__ **(SN 56.102-113)** (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `Quitting Humankind <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.102-131.olds.bd.htm#p102.1>`__ (BD, Michael Olds); `Deceasing as Humans (1) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.102-131.wood.pts.htm#p102>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_103:
 
 - 2.) SN 56. 103, `Manussacutitiracchānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 474 (PTS page), 
 
@@ -1012,6 +1206,8 @@ Pañcagatipeyyāla-Vaggo 第十一 五趣中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_104:
+
 - 3.) SN 56. 104, `Manussacutipettivisayasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 475 (PTS page), 
 
   * `人死餓鬼界經 <http://agama.buddhason.org/SN/SN1796.htm>`__ (莊春江) [2]_ ; `五趣之三 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=338:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `五趣（三） <http://tripitaka.cbeta.org/N18n0006_056#0383a10>`__ (元亨寺, 通妙) [3]_ 
@@ -1019,6 +1215,8 @@ Pañcagatipeyyāla-Vaggo 第十一 五趣中略品
   * Passing away as Humans 3 (WP, Ven. Bhikkhu Bodhi) ; `Quitting Humankind 3 <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.102-131.olds.bd.htm#p104.1>`__ (BD, Michael Olds);  `Deceasing as Humans (3) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.102-131.wood.pts.htm#p104>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_105:
 
 - 4.) SN 56. 105~107, `Manussacutidevanirayādisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 475 (PTS page), 
 
@@ -1028,6 +1226,8 @@ Pañcagatipeyyāla-Vaggo 第十一 五趣中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_108:
+
 - 7.) SN 56. 108~110, `Devacutinirayādisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 475 (PTS page), 
 
   * `天死地獄等經 <http://agama.buddhason.org/SN/SN1798.htm>`__ (莊春江) [2]_ ; `五趣之七 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=338:0>`__ (五趣之七、五趣之八、五趣之九) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `五趣（七～九） <http://tripitaka.cbeta.org/N18n0006_056#0384a02>`__ (元亨寺, 通妙) [3]_ 
@@ -1035,6 +1235,8 @@ Pañcagatipeyyāla-Vaggo 第十一 五趣中略品
   * Passing away as Devas 1-3 (WP, Ven. Bhikkhu Bodhi) ; `Quitting the Godly Realms 1 <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.102-131.olds.bd.htm#p108.1>`__ ; `Quitting the Godly Realms 2 <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.102-131.olds.bd.htm#p109.1>`__ ; `Quitting the Godly Realms 3 <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.102-131.olds.bd.htm#p110.1>`__ (BD, Michael Olds); `Deceasing as Devas (1) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.102-131.wood.pts.htm#p108>`__ ; `Deceasing as Devas (2) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.102-131.wood.pts.htm#p109>`__ ; `Deceasing as Devas (3) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.102-131.wood.pts.htm#p110>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_111:
 
 - 10.) SN 56. 111~113, `Devamanussanirayādisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 475 (PTS page), 
 
@@ -1044,6 +1246,8 @@ Pañcagatipeyyāla-Vaggo 第十一 五趣中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_114:
+
 - 13.) SN 56. 114~116, `Nirayamanussanirayādisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 475 (PTS page), 
 
   * `地獄人地獄等經 <http://agama.buddhason.org/SN/SN1800.htm>`__ (莊春江) [2]_ ; `五趣之十三 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=338:0>`__ (五趣之十三、五趣之十四、五趣之十五) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `五趣（一三～一五） <http://tripitaka.cbeta.org/N18n0006_056#0384a08>`__ (元亨寺, 通妙) [3]_ 
@@ -1051,6 +1255,8 @@ Pañcagatipeyyāla-Vaggo 第十一 五趣中略品
   * Passing Away from Hell 1-3 (WP, Ven. Bhikkhu Bodhi) ; `Quitting Hell 1 <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.102-131.olds.bd.htm#p114.1>`__ ; `Quitting Hell 2 <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.102-131.olds.bd.htm#p115.1>`__ ; `Quitting Hell 3 <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.102-131.olds.bd.htm#p116.1>`__ (BD, Michael Olds); `Deceasing from Purgatory (1) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.102-131.wood.pts.htm#p114>`__  ; `Deceasing from Purgatory (2) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.102-131.wood.pts.htm#p115>`__ ; `Deceasing from Purgatory (3) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.102-131.wood.pts.htm#p116>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_117:
 
 - 16.) SN 56. 117~119, `Nirayadevanirayādisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 476 (PTS page), 
 
@@ -1060,6 +1266,8 @@ Pañcagatipeyyāla-Vaggo 第十一 五趣中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_120:
+
 - 19.) SN 56. 120~122, `Tiracchānamanussanirayādisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 476 (PTS page), 
 
   * `畜生人地獄等經 <http://agama.buddhason.org/SN/SN1802.htm>`__ (莊春江) [2]_ ; `五趣之十九 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=338:0>`__ (五趣之十九、五趣之二十、五趣之二十一) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `五趣（一九～二一） <http://tripitaka.cbeta.org/N18n0006_056#0384a14>`__ (元亨寺, 通妙) [3]_ 
@@ -1067,6 +1275,8 @@ Pañcagatipeyyāla-Vaggo 第十一 五趣中略品
   * Passing Away from the Animal Realm 1-3 (WP, Ven. Bhikkhu Bodhi) ; `Quitting Animal Life 1 <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.102-131.olds.bd.htm#p120.1>`__ ; `Quitting Animal Life 2 <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.102-131.olds.bd.htm#p121.1>`__ ; `Quitting Animal Life 3 <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.102-131.olds.bd.htm#p122.1>`__ (BD, Michael Olds); `Deceasing as Animals (1) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.102-131.wood.pts.htm#p120>`__ ; `Deceasing as Animals (2) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.102-131.wood.pts.htm#p121>`__ ; `Deceasing as Animals (3) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.102-131.wood.pts.htm#p122>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_123:
 
 - 22.) SN 56. 123~125, `Tiracchānadevanirayādisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 476 (PTS page), 
 
@@ -1076,6 +1286,8 @@ Pañcagatipeyyāla-Vaggo 第十一 五趣中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_126:
+
 - 25.) SN 56. 126~128, `Pettimanussanirayādisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 476 (PTS page), 
 
   * `餓鬼人地獄等經 <http://agama.buddhason.org/SN/SN1804.htm>`__ (莊春江) [2]_ ; `五趣之二十五 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=338:0>`__ (五趣之二十五、五趣之二十六、五趣之二十七) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `五趣（二五～二七） <http://tripitaka.cbeta.org/N18n0006_056#0385a06>`__ (元亨寺, 通妙) [3]_ 
@@ -1084,6 +1296,8 @@ Pañcagatipeyyāla-Vaggo 第十一 五趣中略品
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
 
+.. _sn56_129:
+
 - 28.) SN 56. 129~130, `Pettidevanirayādisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 476~477 (PTS page), 
 
   * `餓鬼天地獄等經 <http://agama.buddhason.org/SN/SN1805.htm>`__ (莊春江) [2]_ ; `五趣之二十八 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395&page_id=338:0>`__ (五趣之二十八、五趣之二十九) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `五趣（二八） <http://tripitaka.cbeta.org/N18n0006_056#0385a09>`__ (五趣（二八）、五趣（二九）) (元亨寺, 通妙) [3]_ 
@@ -1091,6 +1305,8 @@ Pañcagatipeyyāla-Vaggo 第十一 五趣中略品
   * Passing Away from the Domain of Ghosts 4, 5 (WP, Ven. Bhikkhu Bodhi) ; `Quitting the Ghostly Garb 4 <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.102-131.olds.bd.htm#p129.2>`__ ; `Quitting the Ghostly Garb 5 <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.56.102-131.olds.bd.htm#p130.2>`__ (BD, Michael Olds); `Deceasing from the Realm of Ghosts (4) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.102-131.wood.pts.htm#p129>`__ ; `Deceasing from the Realm of Ghosts (5) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.56.102-131.wood.pts.htm#p130>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他：SN 56.61–131 參 sn56_61_ 經 條目所示
+
+.. _sn56_131:
 
 - 30.) SN 56. 131, `Pettidevapettivisayasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul11.xml>`_ (CSCD) [1]_ , S v 477 (PTS page), 
 
@@ -1129,6 +1345,7 @@ Pañcagatipeyyāla-Vaggo 第十一 五趣中略品
 
 
 ..
+  08.19 add interior tag, e.g. .. _sn56_1:
   08.14 rev. note(ref.)
   08.11 finished (edit 08.09)
   create on 2017.07.17

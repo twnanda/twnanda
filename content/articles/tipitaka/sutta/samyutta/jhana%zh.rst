@@ -2,7 +2,7 @@ Jhāna-saṃyuttaṃ 禪相應, 四靜慮相應, 禪定相應, Jhana (mental abs
 ##############################################################################################
 
 :date: 2017-08-14
-:modified: 2017-08-14
+:modified: 2017-08-19
 :tags: 巴利三藏相應部, Jhāna-saṃyuttaṃ, 禪相應, 四靜慮相應, 禪定相應, Jhana, mental absorption
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Jhāna-saṃyuttaṃ 禪相應, 四靜慮相應, 禪定相應, Jhana (mental absorption)
@@ -21,6 +21,8 @@ Gangā-Peyyālo-Vaggo 第一  恒河中略品
 ++++++++++++++++++++++++++++++++++++++++
 
 恒河中略品（恆河廣說）, PTS: Ganga-Repetition, V.272
+
+.. _sn53_1:
 
 - SN 53. 1-12, `Jhānādisuttadvādasakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul8.xml>`_ (CSCD) [1]_ , S v 307 (PTS page), 
 
@@ -41,6 +43,8 @@ Appamāda-Vaggo 第二 不放逸品
 
 PTS: Earnestness, V.273
 
+.. _sn53_13:
+
 - SN 53. 13-44, `Jhānādisuttadvādasakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul8.xml>`_ (CSCD) [1]_ , S v 308~309 (PTS page), 
 
   * `13-44經 <http://agama.buddhason.org/SN/SN1602.htm>`__ （略去）(莊春江) [2]_ ; `（同前） <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=370>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `〔一三～二二〕第一～十 <http://tripitaka.cbeta.org/N18n0006_053#0159a09>`__ (元亨寺, 通妙) [3]_ 
@@ -54,6 +58,8 @@ Balakaraṇīya-Vaggo 第三 力所作品
 
 PTS: Deeds Requiring Strength, V.273
 
+.. _sn53_23:
+
 - SN 53. 23 ~ SN 53. 34
 
   * 23-34: Strenuous, Etc. (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Strength <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.53.023-034.wood.pts.htm#p23>`__ (Translated by F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_  
@@ -65,6 +71,8 @@ Esanā-Vaggo 第四 尋覓品
 
 PTS: Longings, V.273
 
+.. _sn53_35:
+
 - SN 53. 35 ~ SN 53. 44
 
   * 35-44: Searches (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Longing <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.53.035-044.wood.pts.htm#p35>`__ (Translated by F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_ 
@@ -75,6 +83,8 @@ Ogha-Vaggo 第五 暴流品
 ++++++++++++++++++++++++
 
 PTS: The Flood, V.V.274
+
+.. _sn53_45:
 
 - SN 53. 45-54, `Oghādisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul8.xml>`_ (CSCD) [1]_ , S v 309 (PTS page), 
 
@@ -108,5 +118,6 @@ PTS: The Flood, V.V.274
 .. [6] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） -- `53 禪相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=370>`__ 
 
 ..
+  08.19 add interior tag, e.g. .. _sn53_1:
   08.14 finished (edit 08.14)
   create on 2017.07.17

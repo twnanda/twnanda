@@ -2,7 +2,7 @@
 #############################################################################################
 
 :date: 2017-08-08
-:modified: 2017-08-14
+:modified: 2017-08-19
 :tags: 巴利三藏相應部, Ānāpāna-saṃyuttaṃ 入出息相應, 入出息念相應, 入出息, 出入息, Ānāpāna, Mindfulness of breathing
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Ānāpāna-saṃyuttaṃ 入出息相應, 入出息念相應; Mindfulness of breathing
@@ -17,6 +17,8 @@
 Ekadhamma-Vaggo 第一 一法品
 ++++++++++++++++++++++++++++
 
+.. _sn54_1:
+
 - 1.) SN 54. 1, `Ekadhammasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 311 (PTS page), 一法
 
   * `一法經 <http://agama.buddhason.org/SN/SN1604.htm>`__ (莊春江) [2]_ ; `一法 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=371>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `一法 <http://tripitaka.cbeta.org/N18n0006_054#0164a05>`__ (元亨寺, 雲庵) [3]_ 
@@ -24,6 +26,8 @@ Ekadhamma-Vaggo 第一 一法品
   * One Thing (WP, Ven. Bhikkhu Bodhi) [4]_ ; `One Thing <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.54.001.olds.bd.htm>`__ (Michael Olds); `The One Condition <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.54.001.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids); `One Thing <http://www.buddhadust.com/dhamma-vinaya/ati/sn/05_mv/sn05.54.001.than.ati.htm>`__ (unapproved adaptation of Bhk. Thanissaro's SN 5 54 13 by Michael Olds) [4]_
 
   * 對照之阿含經典及其他： `雜阿含803經 <http://tripitaka.cbeta.org/T02n0099_029#0206a14>`__ (SA 803, 一明) (CBETA; T02, no. 99, p. 206, a14)、 `雜阿含15經 <http://tripitaka.cbeta.org/T02n0101_001#0497a02>`__ (CBETA; T02, no. 101, p. 497, a02)(一卷本, 雜阿含經 ( 1 卷)　【失譯】) **(部份參照)** 
+
+.. _sn54_2:
 
 - 2.) SN 54. 2, `Bojjhaṅgasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 312 (PTS page), 覺支
 
@@ -33,6 +37,8 @@ Ekadhamma-Vaggo 第一 一法品
 
   * 對照之阿含經典及其他： `雜阿含804經 <http://tripitaka.cbeta.org/T02n0099_029#0206b15>`__ (SA 804, 斷覺想) (CBETA; T02, no. 99, p. 206, b15) 
 
+.. _sn54_3:
+
 - 3.) SN 54. 3, `Suddhikasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 313 (PTS page), 清淨
 
   * `單純經 <http://agama.buddhason.org/SN/SN1606.htm>`__ (莊春江) [2]_ ; `簡說 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=371>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `清淨 <http://tripitaka.cbeta.org/N18n0006_054#0166a12>`__ (元亨寺, 雲庵) [3]_ 
@@ -40,6 +46,8 @@ Ekadhamma-Vaggo 第一 一法品
   * Simple Version (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Purely <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.54.003.olds.bd.htm>`__ (Michael Olds); `Puritan <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.54.003.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含804經 <http://tripitaka.cbeta.org/T02n0099_029#0206b15>`__ (SA 804, 斷覺想) (CBETA; T02, no. 99, p. 206, b15) 
+
+.. _sn54_4:
 
 - 4.) SN 54. 4, `Paṭhamaphalasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 313 (PTS page), 果 (1)
 
@@ -49,6 +57,8 @@ Ekadhamma-Vaggo 第一 一法品
 
   * 對照之阿含經典及其他： `雜阿含804經 <http://tripitaka.cbeta.org/T02n0099_029#0206b15>`__ (SA 804, 斷覺想) (CBETA; T02, no. 99, p. 206, b15) 
 
+.. _sn54_5:
+
 - 5.) SN 54. 5, `Dutiyaphalasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 314 (PTS page), 果 (2)
 
   * `大果經第二 <http://agama.buddhason.org/SN/SN1608.htm>`__ (莊春江) [2]_ ; `果之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=371>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `果（二） <http://tripitaka.cbeta.org/N18n0006_054#0168a04>`__ (元亨寺, 雲庵) [3]_ 
@@ -56,6 +66,8 @@ Ekadhamma-Vaggo 第一 一法品
   * Fruits (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Fruit 2 <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.54.005.olds.bd.htm>`__ (Michael Olds); `Fruits b <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.54.005.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含804經 <http://tripitaka.cbeta.org/T02n0099_029#0206b15>`__ (SA 804, 斷覺想) (CBETA; T02, no. 99, p. 206, b15) 
+
+.. _sn54_6:
 
 - 6.) SN 54. 6, `Ariṭṭhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 314 (PTS page), 阿梨瑟吒
 
@@ -65,6 +77,8 @@ Ekadhamma-Vaggo 第一 一法品
 
   * 對照之阿含經典及其他： `雜阿含805經 <http://tripitaka.cbeta.org/T02n0099_029#0206b25>`__ (SA 805, 阿黎瑟吒) (CBETA; T02, no. 99, p. 206, b25)
 
+.. _sn54_7:
+
 - 7.) SN 54. 7, `Mahākappinasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 315 (PTS page), Kappina 罽賓那
 
   * `摩訶迦賓經 <http://agama.buddhason.org/SN/SN1610.htm>`__ (莊春江) [2]_ ; `劫賓那 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=371&page_id=70:136>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `罽賓那 <http://tripitaka.cbeta.org/N18n0006_054#0170a08>`__ (元亨寺, 雲庵) [3]_ 
@@ -72,6 +86,8 @@ Ekadhamma-Vaggo 第一 一法品
   * Mahakappina (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Kappina <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.54.007.olds.bd.htm>`__ (Michael Olds); `Kappina <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.54.007.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含806經 <http://tripitaka.cbeta.org/T02n0099_029#0206c14>`__ (SA 806, 罽賓那) (CBETA; T02, no. 99, p. 206, c14)
+
+.. _sn54_8:
 
 - 8.) SN 54. 8, `Padīpopamasuttaṃ <http://www.tiptaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 316 (PTS page), Dīpo 燈
 
@@ -81,6 +97,8 @@ Ekadhamma-Vaggo 第一 一法品
 
   * 對照之阿含經典及其他： `雜阿含814經 <http://tripitaka.cbeta.org/T02n0099_029#0209a23>`__ (SA 814, 不疲) (CBETA; T02, no. 99, p. 209, a23) **(部份參照)** 
 
+.. _sn54_9:
+
 - 9.) SN 54. 9, `Vesālīsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 320 (PTS page), 毘舍離
 
   * `毘舍離經 <http://agama.buddhason.org/SN/SN1612.htm>`__ (莊春江) [2]_ ; `毗舍離 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=371&page_id=136:182>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `毘舍離 <http://tripitaka.cbeta.org/N18n0006_054#0175a11>`__ (元亨寺, 雲庵) [3]_ 
@@ -88,6 +106,8 @@ Ekadhamma-Vaggo 第一 一法品
   * At Vesali (WP, Ven. Bhikkhu Bodhi) [4]_ ; `At Vesali <http://www.accesstoinsight.org/tipitaka/sn/sn54/sn54.009.than.html>`__ (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `Vesali <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.54.009.olds.bd.htm>`__ (Michael Olds); `Defeat or Vesali <http://www.buddhadust.com/dhammatalk/bd_dhammatalk/ethical_culture/vesali.htm>`__ (BD, A combination of this sutta plus the Vinaya version describing the same situation); `Vesali <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.54.009.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含809經 <http://tripitaka.cbeta.org/T02n0099_029#0207b21>`__ (SA 809, 福利等) (CBETA; T02, no. 99, p. 207, b21)
+
+.. _sn54_10:
 
 - 10.) SN 54. 10, `Kimilasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 322 (PTS page), Kimbila 金毘羅
 
@@ -107,6 +127,8 @@ Ekadhamma-Vaggo 第一 一法品
 Dutiya-Vaggo 第二 第二品
 ++++++++++++++++++++++++++
 
+.. _sn54_11:
+
 - 1.) SN 54. 11, `Icchānaṅgalasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 325 (PTS page), 一奢能伽羅
 
   * `一奢能伽羅經 <http://agama.buddhason.org/SN/SN1614.htm>`__ (莊春江) [2]_ ; `伊車能伽 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=371&page_id=182:252>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `一奢能伽羅 <http://tripitaka.cbeta.org/N18n0006_054#0182a08>`__ (元亨寺, 雲庵) [3]_
@@ -114,6 +136,8 @@ Dutiya-Vaggo 第二 第二品
   * At Icchanangala (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Icchanangala <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.54.011.olds.bd.htm>`__ (Michael Olds); `Icchanangala <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.54.011.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含807經 <http://tripitaka.cbeta.org/T02n0099_029#0207a08>`__ (SA 807, 一奢能伽羅) (CBETA; T02, no. 99, p. 207, a08)
+
+.. _sn54_12:
 
 - 2.) SN 54. 12, `Kaṅkheyyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 327 (PTS page), 盧夷強耆
 
@@ -123,6 +147,8 @@ Dutiya-Vaggo 第二 第二品
 
   * 對照之阿含經典及其他： `雜阿含808經 <http://tripitaka.cbeta.org/T02n0099_029#0207b06>`__ (SA 808, 迦摩) (CBETA; T02, no. 99, p. 207, b06)
 
+.. _sn54_13:
+
 - 3.) SN 54. 13, `Paṭhamaānandasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 328 (PTS page), 阿難 (1)
 
   * `阿難經第一 <http://agama.buddhason.org/SN/SN1616.htm>`__ (莊春江) [2]_ ; `阿難之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=371&page_id=182:252>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `阿難（一） <http://tripitaka.cbeta.org/N18n0006_054#0186a01>`__ (元亨寺, 雲庵) [3]_ 
@@ -130,6 +156,8 @@ Dutiya-Vaggo 第二 第二品
   * Ananda (WP, Ven. Bhikkhu Bodhi) [4]_ ; `To Ananda <http://www.accesstoinsight.org/tipitaka/sn/sn54/sn54.013.than.html>`__ (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `Ananda <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.54.013.olds.bd.htm>`__ (Michael Olds); `Ananda a <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.54.013.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含810經 <http://tripitaka.cbeta.org/T02n0099_029#0208a09>`__ (SA 810, 金剛) (CBETA; T02, no. 99, p. 208, a09)、 `MN 118 中部118 入出息念經 <{filename}../majjhima/majjhima-nikaaya%zh.rst#mn118>`__ **(部份參照)** 
+
+.. _sn54_14:
 
 - 4.) SN 54. 14, `Dutiyaānandasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 333 (PTS page), 阿難 (2)
 
@@ -139,6 +167,8 @@ Dutiya-Vaggo 第二 第二品
 
   * 對照之阿含經典及其他： `MN 118 中部118 入出息念經 <{filename}../majjhima/majjhima-nikaaya%zh.rst#mn118>`__ **(部份參照)** 
 
+.. _sn54_15:
+
 - 5.) SN 54. 15, `Paṭhamabhikkhusuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 334 (PTS page), 比丘 (1)
 
   * `比丘經第一 <http://agama.buddhason.org/SN/SN1618.htm>`__ (莊春江) [2]_ ; `比丘之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=371&page_id=302:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `比丘（一） <http://tripitaka.cbeta.org/N18n0006_054#0192a02>`__ (元亨寺, 雲庵) [3]_ 
@@ -146,6 +176,8 @@ Dutiya-Vaggo 第二 第二品
   * Bhikkhus (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Beggars 1 <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.54.015.olds.bd.htm>`__ (Michael Olds); `Monks a <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.54.015.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含811經 <http://tripitaka.cbeta.org/T02n0099_029#0208c10>`__ (SA 811, 阿難) (CBETA; T02, no. 99, p. 208, c10)、 `雜阿含812經 <http://tripitaka.cbeta.org/T02n0099_029#0208c10>`__ (SA 812, 阿難) (CBETA; T02, no. 99, p. 208, c10)、 `MN 118 中部118 入出息念經 <{filename}../majjhima/majjhima-nikaaya%zh.rst#mn118>`__ **(部份參照)** 
+
+.. _sn54_16:
 
 - 6.) SN 54. 16, `Dutiyabhikkhusuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 335 (PTS page), 比丘 (2)
 
@@ -155,6 +187,8 @@ Dutiya-Vaggo 第二 第二品
 
   * 對照之阿含經典及其他：  `雜阿含811經 <http://tripitaka.cbeta.org/T02n0099_029#0208c10>`__ (SA 811, 阿難) (CBETA; T02, no. 99, p. 208, c10)、 `雜阿含812經 <http://tripitaka.cbeta.org/T02n0099_029#0208c10>`__ (SA 812, 阿難) (CBETA; T02, no. 99, p. 208, c10)、 `MN 118 中部118 入出息念經 <{filename}../majjhima/majjhima-nikaaya%zh.rst#mn118>`__ **(部份參照)**
 
+.. _sn54_17:
+
 - 7.) SN 54. 17, `Saṃyojanappahānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 340 (PTS page), Saṁyojanaṁ 結
 
   * `結的捨斷經 <http://agama.buddhason.org/SN/SN1620.htm>`__ (莊春江) [2]_ ; `結縛 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=371&page_id=302:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `結 <http://tripitaka.cbeta.org/N18n0006_054#0198a01>`__ (元亨寺, 雲庵) [3]_ 
@@ -162,6 +196,8 @@ Dutiya-Vaggo 第二 第二品
   * The Fetters (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Self-yokes to rebirth <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.54.017.olds.bd.htm>`__ (Michael Olds); `Fetter <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.54.017.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： 無
+
+.. _sn54_18:
 
 - 8.) SN 54. 18, `Anusayasamugghātasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 340 (PTS page), Anusayaṁ 隨眠
 
@@ -171,6 +207,8 @@ Dutiya-Vaggo 第二 第二品
 
   * 對照之阿含經典及其他： 無
 
+.. _sn54_19:
+
 - 9.) SN 54. 19, `Addhānapariññāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 340 (PTS page), Addhānaṁ 行路
 
   * `[生命]旅途的遍知經 <http://agama.buddhason.org/SN/SN1622.htm>`__ (莊春江) [2]_ ; `生命歷程 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=371&page_id=302:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `行路 <http://tripitaka.cbeta.org/N18n0006_054#0198a05>`__ (元亨寺, 雲庵) [3]_ 
@@ -178,6 +216,8 @@ Dutiya-Vaggo 第二 第二品
   * The Course (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Knowledge of the Stretch <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.54.019.olds.bd.htm>`__ (Michael Olds); `The way <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.54.019.wood.pts.htm>`__ (PTS, F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： 無
+
+.. _sn54_20:
 
 - 10.) SN 54. 20, `Āsavakkhayasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul9.xml>`_ (CSCD) [1]_ , S v 340 (PTS page), 漏盡
 
@@ -214,6 +254,7 @@ Dutiya-Vaggo 第二 第二品
 
 
 ..
+  08.19 add interior tag, e.g. .. _sn54_1:
   08.14 rev. note(ref.)
   08.08 finished (edit 08.07)
   create on 2017.07.17 (under construction)

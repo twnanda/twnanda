@@ -2,7 +2,7 @@ Magga-saṃyuttaṃ 道相應, 八正道相應, 八聖道相應, The Noble Eight
 ##############################################################################################
 
 :date: 2017-08-18
-:modified: 2017-08-18
+:modified: 2017-08-19
 :tags: 巴利三藏相應部, Magga-saṃyuttaṃ, 道相應, 八正道相應, 八聖道相應, The Noble Eightfold Path
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Magga-saṃyuttaṃ 道相應, 八正道相應, 八聖道相應, The Noble Eightfold Path
@@ -23,6 +23,8 @@ Magga-saṃyuttaṃ 道相應, 八正道相應, 八聖道相應, The Noble Eight
 Avijjā-Vaggo 第一 無明品
 +++++++++++++++++++++++++++
 
+.. _sn45_1:
+
 - 1.) SN 45. 1, `Avijjāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 1 (PTS page), 無明
 
   * `無明經 <http://agama.buddhason.org/SN/SN1196.htm>`__ (莊春江) [2]_ ; `無明 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `無明 <http://tripitaka.cbeta.org/N17n0006_045#0115a08>`__ (元亨寺, 通妙) [3]_ 
@@ -30,6 +32,8 @@ Avijjā-Vaggo 第一 無明品
   * `Ignorance <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.001.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Ignorance <http://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.001.than.html>`__ (Ven. Thanissaro Bhikkhu, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `Ignorance <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.001.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含749經 <http://tripitaka.cbeta.org/T02n0099_028#0198b14>`__ (SA 749, 無明) (CBETA; T02, no. 99, p. 198, b14)
+
+.. _sn45_2:
 
 - 2.) SN 45. 2, `Upaḍḍhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 2 (PTS page), 半
 
@@ -39,11 +43,15 @@ Avijjā-Vaggo 第一 無明品
 
   * 對照之阿含經典及其他： `雜阿含768經 <http://tripitaka.cbeta.org/T02n0099_028#0200c03>`__ (SA 768, 半) (CBETA; T02, no. 99, p. 200, c03)、 `雜阿含726經 <http://tripitaka.cbeta.org/T02n0099_027#0195b10>`__ (SA 726, 善知識) (CBETA; T02, no. 99, p. 195, c03)
 
+.. _sn45_3:
+
 - 3.) SN 45. 3, `Sāriputtasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 3 (PTS page), 舍利弗
 
   * `舍利弗經 <http://agama.buddhason.org/SN/SN1198.htm>`__ (莊春江) [2]_ ; `舍利弗 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `舍利弗 <http://tripitaka.cbeta.org/N17n0006_045#0118a11>`__ (元亨寺, 通妙) [3]_ 
 
   * `Sariputta <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.003.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Sariputta <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.003.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_4:
 
 - 4.) SN 45. 4, `Jāṇussoṇibrāhmaṇasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 4 (PTS page), 婆羅門
 
@@ -53,6 +61,8 @@ Avijjā-Vaggo 第一 無明品
 
   * 對照之阿含經典及其他： `雜阿含769經 <http://tripitaka.cbeta.org/T02n0099_028#0200c11>`__ (SA 769, 婆羅門) (CBETA; T02, no. 99, p. 200, c11)
 
+.. _sn45_5:
+
 - 5.) SN 45. 5, `Kimatthiyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 1 (PTS page), S v 6 (PTS page), Kimattha 何義
 
   * `為了什麼目的經 <http://agama.buddhason.org/SN/SN1200.htm>`__ (莊春江) [2]_ ; `什麼得益 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `何義 <http://tripitaka.cbeta.org/N17n0006_045#0123a03>`__ (元亨寺, 通妙) [3]_ 
@@ -61,11 +71,15 @@ Avijjā-Vaggo 第一 無明品
 
   * 對照之阿含經典及其他： `雜阿含783經 <http://tripitaka.cbeta.org/T02n0099_028#0202c12>`__ (SA 783, 斷貪) (CBETA; T02, no. 99, p. 202, c12) **(部份參照)**
 
+.. _sn45_6:
+
 - 6.) SN 45. 6, `Paṭhamaaññatarabhikkhusuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 7 (PTS page), Aññataro bhikkhu一比丘 (1)
 
   * `某位比丘經第一 <http://agama.buddhason.org/SN/SN1201.htm>`__ (莊春江) [2]_ ; `一位比丘之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=80:146>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `一比丘（一） <http://tripitaka.cbeta.org/N17n0006_045#0124a11>`__ (元亨寺, 通妙) [3]_ 
 
   * `A Certain Bhikkhu 1 <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.006.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `A Certain Monk (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.006.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_7:
 
 - 7.) SN 45. 7, `Dutiyaaññatarabhikkhusuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 8 (PTS page), 一比丘 (2)
 
@@ -75,6 +89,8 @@ Avijjā-Vaggo 第一 無明品
 
   * 對照之阿含經典及其他： `雜阿含753經 <http://tripitaka.cbeta.org/T02n0099_028#0199a13>`__ (SA 753, 阿黎吒) (CBETA; T02, no. 99, p. 199, a13) **(部份參照)**
 
+.. _sn45_8:
+
 - 8.) SN 45. 8, `Vibhaṅgasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 8 (PTS page), 分別
 
   * `解析經 <http://agama.buddhason.org/SN/SN1203.htm>`__ (莊春江) [2]_ ; `分析 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=80:146>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `分別 <http://tripitaka.cbeta.org/N17n0006_045#0126a05>`__ (元亨寺, 通妙) [3]_ 
@@ -83,11 +99,15 @@ Avijjā-Vaggo 第一 無明品
 
   * 對照之阿含經典及其他： `雜阿含784經 <http://tripitaka.cbeta.org/T02n0099_028#0203a01>`__ (SA 784, 邪正) (CBETA; T02, no. 99, p. 203, a01) **(部份參照)** 、 `佛說八正道經 <http://tripitaka.cbeta.org/T02n0112_001#0504c26>`__ (CBETA; T02, no. 112, p. 504, c26) **(部份參照)**
 
+.. _sn45_9:
+
 - 9.) SN 45. 9, `Sūkasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 10 (PTS page), Suka 芒
 
   * `穗經 <http://agama.buddhason.org/SN/SN1204.htm>`__ (莊春江) [2]_ ; `刺芒 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=80:146>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `芒 <http://tripitaka.cbeta.org/N17n0006_045#0129a03>`__ (元亨寺, 通妙) [3]_ 
 
   * `The Spike <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.009.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Bearded Wheat <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.009.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_10:
 
 - 10.) SN 45. 10, `Nandiyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 11 (PTS page), 難提
 
@@ -111,17 +131,23 @@ Avijjā-Vaggo 第一 無明品
 Vihāra-Vaggo 第二 住處品
 +++++++++++++++++++++++++++
 
+.. _sn45_11:
+
 - 1.) SN 45. 11, `Paṭhamavihārasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 12 (PTS page), Vihāra 住 (1)
 
   * `住處經第一 <http://agama.buddhason.org/SN/SN1206.htm>`__ (莊春江) [2]_ ; `安住之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=146:199>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `住（一） <http://tripitaka.cbeta.org/N17n0006_045#0132a05>`__ (元亨寺, 通妙) [3]_
 
   * `Dwelling <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.011.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Residence (1) <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.45.011.olds.bd.htm>`__ (Michael Olds); `Way of Dwelling (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.011.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_12:
+
 - 2.) SN 45. 12, `Dutiyavihārasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 13 (PTS page), 住 (2)
 
   * `住處經第二 <http://agama.buddhason.org/SN/SN1207.htm>`__ (莊春江) [2]_ ; `安住之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=146:199>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `住（二） <http://tripitaka.cbeta.org/N17n0006_045#0133a11>`__ (元亨寺, 通妙) [3]_
 
   * `Dwelling 2 <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.012.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Residence (2) <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.45.012.olds.bd.htm>`__ (Michael Olds); `Way of Living (b) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.012.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_13:
 
 - 3.) SN 45. 13, `Sekkhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 14 (PTS page), 有學
 
@@ -131,11 +157,15 @@ Vihāra-Vaggo 第二 住處品
 
   * 對照之阿含經典及其他： `雜阿含761經 <http://tripitaka.cbeta.org/T02n0099_028#0200a14>`__ (SA 761, 漏盡) (CBETA; T02, no. 99, p. 200, a14)
 
+.. _sn45_14:
+
 - 4.) SN 45. 14, `Paṭhamauppādasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 14 (PTS page), Uppāde 生起 (1)
 
   * `生起經第一 <http://agama.buddhason.org/SN/SN1209.htm>`__ (莊春江) [2]_ ; `生起之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=146:199>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `生起（一） <http://tripitaka.cbeta.org/N17n0006_045#0136a03>`__ (元亨寺, 通妙) [3]_ 
 
   * `Arising <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.014.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `By the Uprising (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.014.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_15:
 
 - 5.) SN 45. 15, `Dutiyauppādasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 14 (PTS page), 生起 (2)
 
@@ -145,6 +175,8 @@ Vihāra-Vaggo 第二 住處品
 
   * 對照之阿含經典及其他： `雜阿含764經 <http://tripitaka.cbeta.org/T02n0099_028#0200b04>`__ (SA 764, 修) (CBETA; T02, no. 99, p. 200, b04) **(部份參照)**
 
+.. _sn45_16:
+
 - 6.) SN 45. 16, `Paṭhamaparisuddhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 15 (PTS page), Parisuddha 清淨 (1)
 
   * `遍清淨經第一 <http://agama.buddhason.org/SN/SN1211.htm>`__ (莊春江) [2]_ ; `清淨之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=199:247>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `清淨（一） <http://tripitaka.cbeta.org/N17n0006_045#0137a07>`__ (元亨寺, 通妙) [3]_ 
@@ -152,6 +184,8 @@ Vihāra-Vaggo 第二 住處品
   * `Purified <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.016.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Utterly Pure (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.016.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含766經 <http://tripitaka.cbeta.org/T02n0099_028#0200b15>`__ (SA 766, 清淨) (CBETA; T02, no. 99, p. 200, b15)
+
+.. _sn45_17:
 
 - 7.) SN 45. 17, `Dutiyaparisuddhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 15 (PTS page), 清淨 (2)
 
@@ -161,17 +195,23 @@ Vihāra-Vaggo 第二 住處品
 
   * 對照之阿含經典及其他： `雜阿含766經 <http://tripitaka.cbeta.org/T02n0099_028#0200b15>`__ (SA 766, 清淨) (CBETA; T02, no. 99, p. 200, b15)
 
+.. _sn45_18:
+
 - 8.) SN 45. 18, `Paṭhamakukkuṭārāmasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 15 (PTS page), Kukkuṭārāma雞林精舍 (1)
 
   * `雞園經第一 <http://agama.buddhason.org/SN/SN1213.htm>`__ (莊春江) [2]_ ; `雞園精舍之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=199:247>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `鷄林精舍（一） <http://tripitaka.cbeta.org/N17n0006_045#0138a13>`__ (元亨寺, 通妙) [3]_ 
 
   * `The Cock's Park (1) <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.018.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Cock's Pleasaunce (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.018.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_19:
+
 - 9.) SN 45. 19, `Dutiyakukkuṭārāmasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 16 (PTS page), 雞林精舍 (2)
 
   * `雞園經第二 <http://agama.buddhason.org/SN/SN1214.htm>`__ (莊春江) [2]_ ; `雞園精舍之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=199:247>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `鷄林精舍（二） <http://tripitaka.cbeta.org/N17n0006_045#0139a11>`__ (元亨寺, 通妙) [3]_ 
 
   * `The Cock's Park 2 <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.019.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Cock's Pleasaunce (b) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.019.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_20:
 
 - 10.) SN 45. 20, `Tatiyakukkuṭārāmasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 16 (PTS page), 雞林精舍 (3)
 
@@ -196,6 +236,8 @@ Vihāra-Vaggo 第二 住處品
 Micchatta-Vaggo 第三 邪性品
 +++++++++++++++++++++++++++++
 
+.. _sn45_21:
+
 - 1.) SN 45. 21, `Micchattasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 17 (PTS page), Micchattaṁ 邪性
 
   * `邪性經 <http://agama.buddhason.org/SN/SN1216.htm>`__ (莊春江) [2]_ ; `邪法 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=247:353>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `邪性 <http://tripitaka.cbeta.org/N17n0006_045#0142a03>`__ (元亨寺, 通妙) [3]_ 
@@ -204,17 +246,23 @@ Micchatta-Vaggo 第三 邪性品
 
   * 對照之阿含經典及其他： `雜阿含784經 <http://tripitaka.cbeta.org/T02n0099_028#0203a01>`__ (SA 784, 邪正) (CBETA; T02, no. 99, p. 203, a01)、 `雜阿含770經 <http://tripitaka.cbeta.org/T02n0099_028#0201a09>`__ (SA 770, 邪) (CBETA; T02, no. 99, p. 201, a09)、 `佛說八正道經 <http://tripitaka.cbeta.org/T02n0112_001#0504c26>`__ (CBETA; T02, no. 112, p. 504, c26)
 
+.. _sn45_22:
+
 - 2.) SN 45. 22, `Akusaladhammasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 18 (PTS page), Akusalam dhamma不善法
 
   * `不善法經 <http://agama.buddhason.org/SN/SN1217.htm>`__ (莊春江) [2]_ ; `不善法 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=247:353>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `不善法 <http://tripitaka.cbeta.org/N17n0006_045#0142a13>`__ (元亨寺, 通妙) [3]_ 
 
   * `Unwholesome States <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.022.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Unprofitable States <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.022.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_23:
+
 - 3.) SN 45. 23, `Paṭhamapaṭipadāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 18 (PTS page), Paṭipadā 道 (1)
 
   * `道跡經第一 <http://agama.buddhason.org/SN/SN1218.htm>`__ (莊春江) [2]_ ; `途徑之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=247:353>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `道（一） <http://tripitaka.cbeta.org/N17n0006_045#143a06>`__ (元亨寺, 通妙) [3]_ 
 
   * `The Way <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.023.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Practice (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.023.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_24:
 
 - 4.) SN 45. 24, `Dutiyapaṭipadāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 18 (PTS page), 道 (2)
 
@@ -224,11 +272,15 @@ Micchatta-Vaggo 第三 邪性品
 
   * 對照之阿含經典及其他： `雜阿含751經 <http://tripitaka.cbeta.org/T02n0099_028#0198c14>`__ (SA 751, 起) (CBETA; T02, no. 99, p. 198, c14)
 
+.. _sn45_25:
+
 - 5.) SN 45. 25, `Paṭhamaasappurisasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 19 (PTS page), Asappurisa 不善士 (1)
 
   * `非善人經第一 <http://agama.buddhason.org/SN/SN1220.htm>`__ (莊春江) [2]_ ; `不善的人之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=247:353>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `不善士（一） <http://tripitaka.cbeta.org/N17n0006_045#0145a03>`__ (元亨寺, 通妙) [3]_ 
 
   * `The Inferior Person <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.025.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Unworthy (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.025.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_26:
 
 - 6.) SN 45. 26, `Dutiyaasappurisasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 20 (PTS page), 不善士 (2)
 
@@ -236,17 +288,23 @@ Micchatta-Vaggo 第三 邪性品
 
   * `The Inferior Person (2) <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.026.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Unworthy (b) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.026.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_27:
+
 - 7.) SN 45. 27, `Kumbhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 20 (PTS page), 瓶
 
   * `瓶子經 <http://agama.buddhason.org/SN/SN1222.htm>`__ (莊春江) [2]_ ; `陶器 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=247:353>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `瓶 <http://tripitaka.cbeta.org/N17n0006_045#0146a10>`__ (元亨寺, 通妙) [3]_ 
 
   * `The Pot <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.027.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Pot <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.027.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_28:
+
 - 8.) SN 45. 28, `Samādhisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 21 (PTS page), 定
 
   * `定經 <http://agama.buddhason.org/SN/SN1223.htm>`__ (莊春江) [2]_ ; `定 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=247:353>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `定 <http://tripitaka.cbeta.org/N17n0006_045#0147a04>`__ (元亨寺, 通妙) [3]_ 
 
   * `Concentration <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.028.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Serenity <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.45.028.olds.bd.htm>`__ (Michael Olds); `Concentration <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.028.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_29:
 
 - 9.) SN 45. 29, `Vedanāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 21 (PTS page), 受
 
@@ -255,6 +313,8 @@ Micchatta-Vaggo 第三 邪性品
   * `Feeling <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.029.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Feeling <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.029.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含759經 <http://tripitaka.cbeta.org/T02n0099_028#0199c17>`__ (SA 759, 學) (CBETA; T02, no. 99, p. 199, c17)
+
+.. _sn45_30:
 
 - 10.) SN 45. 30, `Uttiyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 22 (PTS page), Uttiya 鬱低迦 (or Utikka)
 
@@ -280,11 +340,15 @@ Micchatta-Vaggo 第三 邪性品
 Paṭipatti-Vaggo 第四 修行品
 +++++++++++++++++++++++++++++
 
+.. _sn45_31:
+
 - 1.) SN 45. 31, `Paṭhamapaṭipattisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 23 (PTS page), Paṭipatti 行
 
   * `修行經第一 <http://agama.buddhason.org/SN/SN1226.htm>`__ (莊春江) [2]_ ; `道路 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=353:485>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `行 <http://tripitaka.cbeta.org/N17n0006_045#0150a06>`__ (元亨寺, 通妙) [3]_ 
 
   * `Practice <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.031.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Conduct <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.031.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_32:
 
 - 2.) SN 45. 32, `Dutiyapaṭipattisuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 23 (PTS page), Paṭipanno 行者
 
@@ -292,11 +356,15 @@ Paṭipatti-Vaggo 第四 修行品
 
   * `Practice 2 <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.032.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Conducted <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.032.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_33:
+
 - 3.) SN 45. 33, `Viraddhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 23 (PTS page), 失
 
   * `已錯失經 <http://agama.buddhason.org/SN/SN1228.htm>`__ (莊春江) [2]_ ; `不著手修習 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=353:485>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `失 <http://tripitaka.cbeta.org/N17n0006_045#0151a09>`__ (元亨寺, 通妙) [3]_ 
 
   * `Neglected <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.033.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Neglected and Undertaken <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.033.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_34:
 
 - 4.) SN 45. 34, `Pāraṅgamasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 24 (PTS page), 到彼岸
 
@@ -306,6 +374,8 @@ Paṭipatti-Vaggo 第四 修行品
 
   * 對照之阿含經典及其他： `雜阿含771經 <http://tripitaka.cbeta.org/T02n0099_028#0201a25>`__ (SA 771, 彼岸) (CBETA; T02, no. 99, p. 201, a25)
 
+.. _sn45_35:
+
 - 5.) SN 45. 35, `Paṭhamasāmaññasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 25 (PTS page), sāmaññaṁ 沙門法 (1)
 
   * `沙門性經第一 <http://agama.buddhason.org/SN/SN1230.htm>`__ (莊春江) [2]_ ; `沙門所屬之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=353:485>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `沙門法（一） <http://tripitaka.cbeta.org/N17n0006_045#0153a09>`__ (元亨寺, 通妙) [3]_ 
@@ -313,6 +383,8 @@ Paṭipatti-Vaggo 第四 修行品
   * `Asceticism <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.035.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Shamanism (1) <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.45.035.olds.bd.htm#p1>`__ (Michael Olds); `The Life of the Recluse a <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.035.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含796-797經 <http://tripitaka.cbeta.org/T02n0099_028#0205b15>`__ (SA 796, 沙門法沙門果) (CBETA; T02, no. 99, p. 205, b15)、 `雜阿含799經 <http://tripitaka.cbeta.org/T02n0099_029#0205c15>`__ (SA 799, 沙門果) (CBETA; T02, no. 99, p. 205, c15)
+
+.. _sn45_36:
 
 - 6.) SN 45. 36, `Dutiyasāmaññasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 25 (PTS page), 沙門法 (2)
 
@@ -322,6 +394,8 @@ Paṭipatti-Vaggo 第四 修行品
 
   * 對照之阿含經典及其他： `雜阿含794-795經 <http://tripitaka.cbeta.org/T02n0099_028#0205b03>`__ (SA 794, 沙門及沙門果) (CBETA; T02, no. 99, p. 205, b03)、 `雜阿含798經 <http://tripitaka.cbeta.org/T02n0099_029#0205c08>`__ (SA 798, 沙門法沙門義) (CBETA; T02, no. 99, p. 205, c08)
 
+.. _sn45_37:
+
 - 7.) SN 45. 37, `Paṭhamabrahmaññasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 25 (PTS page), Brahmaññaṁ 婆羅門法 (1)
 
   * `婆羅門法經第一 <http://agama.buddhason.org/SN/SN1232.htm>`__ (莊春江) [2]_ ; `婆羅門所屬之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=353:485>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `婆羅門法（一） <http://tripitaka.cbeta.org/N17n0006_045#0155a02>`__ (元亨寺, 通妙) [3]_ 
@@ -329,6 +403,8 @@ Paṭipatti-Vaggo 第四 修行品
   * `Brahminhood (1) <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.037.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Highest Life a <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.037.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含800經 <http://tripitaka.cbeta.org/T02n0099_029#0205c20>`__ (SA 800, 婆羅門) (CBETA; T02, no. 99, p. 205, c20)
+
+.. _sn45_38:
 
 - 8.) SN 45. 38, `Dutiyabrahmaññasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 26 (PTS page), 婆羅門法 (2)
 
@@ -338,6 +414,8 @@ Paṭipatti-Vaggo 第四 修行品
 
   * 對照之阿含經典及其他： `雜阿含800經 <http://tripitaka.cbeta.org/T02n0099_029#0205c20>`__ (SA 800, 婆羅門) (CBETA; T02, no. 99, p. 205, c20)
 
+.. _sn45_39:
+
 - 9.) SN 45. 39, `Paṭhamabrahmacariyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 26 (PTS page), Brahmacariyaṁ 梵行 (1)
 
   * `梵行經第一 <http://agama.buddhason.org/SN/SN1234.htm>`__ (莊春江) [2]_ ; `梵行之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=353:485>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `梵行（一） <http://tripitaka.cbeta.org/N17n0006_045#0156a08>`__ (元亨寺, 通妙) [3]_ 
@@ -345,6 +423,8 @@ Paṭipatti-Vaggo 第四 修行品
   * `The Holy Life 1 <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.039.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Best Practice a <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.039.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含800經 <http://tripitaka.cbeta.org/T02n0099_029#0205c20>`__ (SA 800, 婆羅門) (CBETA; T02, no. 99, p. 205, c20)
+
+.. _sn45_40:
 
 - 10.) SN 45. 40, `Dutiyabrahmacariyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 26 (PTS page), 梵行 (2)
 
@@ -372,17 +452,23 @@ Aññatitthiyapeyyāla-Vaggo 其他外道中略品
 
 PTS: Of Other Views — Repetition (PS: Peyyāla， 同上（省略填詞）)
 
+.. _sn45_41:
+
 - 1.) SN 45. 41, `Rāgavirāgasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 28 (PTS page),  離染 (virāga)
 
   * `褪去貪經 <http://agama.buddhason.org/SN/SN1236.htm>`__ (莊春江) [2]_ ; `無欲 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=485:565>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `遠離 <http://tripitaka.cbeta.org/N17n0006_045#0158a11>`__ (元亨寺, 通妙) [3]_ 
 
   * `The Fading Away of Lust <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.041.bodh.wp.htm>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Dispassion <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.041.wood.pts.htm>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_42:
+
 - 2.) SN 45. 42-47, `Saṃyojanappahānādisuttachakkaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 28 (PTS page), 42.Saṁyojanaṁ結, 43.Anusayaṁ隨眠, 44.Addhānaṁ行路, 45.Āsavakhayaṁ漏盡, 46.Vijjāvimutti明解脫, 47.Ñāṇaṁ智
 
   * `捨斷結等經六則 <http://agama.buddhason.org/SN/SN1237.htm>`__ (莊春江) [2]_ ; `結縛 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=485:565>`__ (結縛、性向、生命歷程、漏盡、明與解脫、知) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `結 <http://tripitaka.cbeta.org/N17n0006_045#0160a02>`__ (結、隨眠、行路、漏盡、明解脫、智) (元亨寺, 通妙) [3]_ 
 
   * `The Abandoning of the Fetters, Etc. <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.042-048.bodh.wp.htm>`__ (42-48) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Fetter <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.042.wood.pts.htm>`__ (Fetter, `Tendency <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.043.wood.pts.htm>`__ , The Way Out, Destruction of the Āsavas, Release by Knowledge, `Knowing <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.047.wood.pts.htm>`__ ) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_48:
 
 - 3.) SN 45. 48, `Anupādāparinibbānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 29 (PTS page), Anupādāya無取
 
@@ -410,6 +496,8 @@ Sūriyapeyyāla-Vaggo 太陽中略品
 
 Viveka-Nissitam  一　遠離依止; PTS: The Sun — Repetition: Based on Seclusion, V.; WP: The Sun Repetition Series: Based upon Seclusion Version, II.1543
 
+.. _sn45_49:
+
 - 1.) SN 45. 49, `Kalyāṇamittasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 29 (PTS page), 善友 (1)
 
   * `善友誼經 <http://agama.buddhason.org/SN/SN1239.htm>`__ (莊春江) [2]_ ; `善知識之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=485:565>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `善友（一） <http://tripitaka.cbeta.org/N17n0006_045#0163a05>`__ (元亨寺, 通妙) [3]_ 
@@ -418,11 +506,15 @@ Viveka-Nissitam  一　遠離依止; PTS: The Sun — Repetition: Based on Seclu
 
   * 對照之阿含經典及其他： 在四十九至五十五經七篇經文之中，除了善知識、戒、以至如理思維七個主題不同之外，其餘內容全部相同。(香港, 志蓮淨苑, 蕭式球) [6]_
 
+.. _sn45_50:
+
 - 2.) SN 45. 50-54, `Sīlasampadādisuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 30 (PTS page), Sīlaṁ戒 (1), 51.Chanda志欲 (1), 52. Atta我 (1), 53. Diṭṭhi見 (1), 54. Appamāda不放逸 (1)
 
   * `戒具足等經五則 <http://agama.buddhason.org/SN/SN1240.htm>`__ (莊春江) [2]_ ; `戒之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=485:565>`__ (戒之一、修學欲之一、自力之一、正見之一、不放逸之一) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `戒（一） <http://tripitaka.cbeta.org/N17n0006_045#0164a02>`__ (戒（一）、志欲（一）、我（一）、見（一）、不放逸（一）) (元亨寺, 通妙) [3]_ 
 
   * `Accomplishment in Virtue, Etc <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.049-055.bodh.wp.htm#p2>`__ (50-55) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Possession of Ethics <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.45.050.olds.bd.htm>`__ (Possession of Ethics, Possession of Wanting, Self-possession, Possession of View, Possession of Caution) (Michael Olds); `Virtue <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.050.wood.pts.htm>`__ (Virtue, Desire, Self-possession, Insight, `Earnestness <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.054.wood.pts.htm>`__ ) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_55:
 
 - 3.) SN 45. 55, `Yonisomanasikārasampadāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 31 (PTS page), Yoniso從根源 (1)
 
@@ -436,6 +528,8 @@ Viveka-Nissitam  一　遠離依止; PTS: The Sun — Repetition: Based on Seclu
 
 Rāga-vinaya-Nissitam  二　貪欲調伏; PTS: The Sun — Repetition: Restraint of Passion, V.; WP: The Sun Repetition Series: Removal of Lust Version, II.1544
 
+.. _sn45_56:
+
 - 1.) SN 45. 56, `Kalyāṇamittasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 31 (PTS page), Kalyāṇamitta 善友 (2)
 
   * `善友誼經 <http://agama.buddhason.org/SN/SN1242.htm>`__ (莊春江) [2]_ ; `善知識之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=485:565>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `善友（二） <http://tripitaka.cbeta.org/N17n0006_045#0165a12>`__ (元亨寺, 通妙) [3]_ 
@@ -444,11 +538,15 @@ Rāga-vinaya-Nissitam  二　貪欲調伏; PTS: The Sun — Repetition: Restrain
 
   * 對照之阿含經典及其他： 在五十六至六十二經七篇經文之中，除了善知識、戒、以至如理思維七個主題不同之外，其餘內容全部相同。此外，這七篇經文跟之前七篇除了最後一段不同之外，其餘內容全部相同。以下六十三至一三八經也是相同的模式。(香港, 志蓮淨苑, 蕭式球) [6]_
 
+.. _sn45_57:
+
 - 2.) SN 45. 57-61, `Sīlasampadādisuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 31 (PTS page), 57. Sīla戒 (1), 58.Chanda志欲 (1), 59. Atta我 (1), 60. Diṭṭhi見 (1), 61. Appamāda不放逸 (1)
 
   * `戒具足等經五則 <http://agama.buddhason.org/SN/SN1243.htm>`__ (莊春江) [2]_ ; `戒之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=565:667>`__ (戒之二、修學欲之二、自力之二、正見之二、不放逸之二) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `戒（二） <http://tripitaka.cbeta.org/N17n0006_045#0166a12>`__ (戒（二）、志欲（二）、我（二）、見（二）、不放逸（二）) (元亨寺, 通妙) [3]_ 
 
   * `Accomplishment in Virtue, Ect. <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.056-062.bodh.wp.htm#p2>`__ (57-62) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Possession of Ethics <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.45.057.olds.bd.htm>`__ (Possession of Ethics, Possession of Wanting, Self-possession, Possession of View, Possession of Caution) (Michael Olds); `Virtue <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.057.wood.pts.htm>`__ (Virtue, Desire, Self-possession, Insight, `Earnestness <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.061.wood.pts.htm>`__ ) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_62:
 
 - 3.) SN 45. 62, `Yonisomanasikārasampadāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 32 (PTS page), Yoniso從根源
 
@@ -474,17 +572,23 @@ Ekadhammapeyyāla-Vaggo 一法中略品
 
 Eka-Dhamma-Peyyalo I: Viveka-nissitam   一　遠離依止; PTS: The-One-Condition — Repetition: Based on Seclusion, V.30; WP: One Thing Repetition Series: Based upon Seclusion Version, II.1545
 
+.. _sn45_63:
+
 - 1.) SN 45. 63, `Kalyāṇamittasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 32 (PTS page), 善友 (1)
 
   * `善友誼經 <http://agama.buddhason.org/SN/SN1245.htm>`__ (莊春江) [2]_ ; `善知識之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=565:667>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `善友（一） <http://tripitaka.cbeta.org/N17n0006_045#0169a04>`__ (元亨寺, 通妙) [3]_ 
 
   * `Good Friend <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.063-069.bodh.wp.htm#p1>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Friendship with the Lovely <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.063-069.wood.pts.htm#p1>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_64:
+
 - 2.) SN 45. 64-68, `Sīlasampadādisuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 33 (PTS page), 64. Sīlaṁ戒 (1), 65.Chanda志欲 (1), 66. Atta我(1), 67. Diṭṭhi見(1), 68. Appamāda不放逸 (1)
 
   * `戒具足等經五則 <http://agama.buddhason.org/SN/SN1246.htm>`__ (莊春江) [2]_ ; `戒之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=565:667>`__ (戒之一、修學欲之一、自力之一、正見之一、不放逸之一) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `戒（一） <http://tripitaka.cbeta.org/N17n0006_045#0169a12>`__ (戒（一）、志欲（一）、我（一）、見（一）、不放逸（一）) (元亨寺, 通妙) [3]_ 
 
   * `Accomplishment in Virtue, Etc. <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.063-069.bodh.wp.htm#p2>`__ (64-69) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Virtue <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.063-069.wood.pts.htm#p2>`__ (Virtue, Desire, Self-possession, Insight, Earnestness) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_69:
 
 - 3.) SN 45. 69, `Yonisomanasikārasampadāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 33 (PTS page), 從根源(1)
 
@@ -496,17 +600,23 @@ Eka-Dhamma-Peyyalo I: Viveka-nissitam   一　遠離依止; PTS: The-One-Conditi
 
 Eka-Dhamma-Peyyalo I: Rāga-vinaya-nissitam 二　貪欲之調伏; PTS: The-One-Condition--Repetition: Restraint of Passion, V.30; WP: One Thing Repetition Series: Removal of Lust Version, II.1546
 
+.. _sn45_70:
+
 - 4.) SN 45. 70, `Kalyāṇamittasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 34 (PTS page), 善友
 
   * `善友誼經 <http://agama.buddhason.org/SN/SN1248.htm>`__ (莊春江) [2]_ ; `善知識之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=565:667>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `善友（二） <http://tripitaka.cbeta.org/N17n0006_045#0171a07>`__ (元亨寺, 通妙) [3]_ 
 
   * `Good Friend <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.070-076.bodh.wp.htm#p1>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Friendship with the Lovely <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.070-076.wood.pts.htm#p1>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_71:
+
 - 5.) SN 45. 71-75, `Sīlasampadādisuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 34 (PTS page), 71. Sīla戒(1), 72.Chanda志欲(1), 73. Atta我(1), 74. Diṭṭhi見(1), 75. Appamāda不放逸 (1)
 
   * `戒具足等經五則 <http://agama.buddhason.org/SN/SN1249.htm>`__ (莊春江) [2]_ ; `戒之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=565:667>`__ (戒之二、修學欲之二、自力之二、正見之二、不放逸之二) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `戒（二） <http://tripitaka.cbeta.org/N17n0006_045#0172a02>`__ (戒（二）、志欲（二）、我（二）、見（二）、不放逸（二）) (元亨寺, 通妙) [3]_ 
 
   * `Accomplishment in Virtue, Etc. <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.070-076.bodh.wp.htm#p2>`__ (70-76) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Virtue <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.070-076.wood.pts.htm#p2>`__ (Virtue, Desire, Self-possession, Insight, Earnestness) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_76:
 
 - 6.) SN 45. 76, `Yonisomanasikārasampadāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 35 (PTS page), Yoniso從根源 (2)
 
@@ -534,6 +644,8 @@ Dutiyaekadhammapeyyāla-Vaggo 第二個一法中略品
 
 Eka-Dhamma-Peyyalo II: Viveka-nissitam 一法廣說（二） 一　遠離依止; PTS: The-One-Condition--Repetition, II: Based on Seclusion, V.31; WP: One Thing Repetition Series 2: Based upon Seclusion Version, II.1546
 
+.. _sn45_77:
+
 - 1.) SN 45. 77, `Kalyāṇamittasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 35 (PTS page), 善友 (1)
 
   * `善友誼經 <http://agama.buddhason.org/SN/SN1251.htm>`__ (莊春江) [2]_ ; `善知識之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=565:667>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `善友（一） <http://tripitaka.cbeta.org/N17n0006_045#0174a02>`__ (元亨寺, 通妙) [3]_ 
@@ -542,11 +654,15 @@ Eka-Dhamma-Peyyalo II: Viveka-nissitam 一法廣說（二） 一　遠離依止;
 
   * 對照之阿含經典及其他： `雜阿含778-780經 <http://tripitaka.cbeta.org/T02n0099_028#0201c29>`__ (SA 778, 一法) (CBETA; T02, no. 99, p. 201, c29)、 SN 45.84
 
+.. _sn45_78:
+
 - 2.) SN 45. 78-82, `Sīlasampadādisuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 36 (PTS page), 78. Sīla戒 (1), 79.Chanda志欲 (1), 80. Atta我 (1), 81. Diṭṭhi見 (1), 82. Appamāda不放逸 (1)
 
   * `戒具足等經五則 <http://agama.buddhason.org/SN/SN1252.htm>`__ (莊春江) [2]_ ; `戒之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=565:667>`__ (戒之一、修學欲之一、 `自力之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=667:773>`__ 、正見之一、不放逸之一) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `戒（一） <http://tripitaka.cbeta.org/N17n0006_045#0174a11>`__ (戒（一）、志欲（一）、我（一）、見（一）、不放逸（一）) (元亨寺, 通妙) [3]_ 
 
   * `Accomplishment in Virtue, Etc. <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.077-083.bodh.wp.htm#p2>`__ (77-83) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Virtue <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.077-083.wood.pts.htm#p2>`__ (Virtue, Desire, Self-possession, Insight, Earnestness) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_83:
 
 - 3.) SN 45. 83, `Yonisomanasikārasampadāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 36 (PTS page), 從根源 (1)
 
@@ -560,6 +676,8 @@ Eka-Dhamma-Peyyalo II: Viveka-nissitam 一法廣說（二） 一　遠離依止;
 
 Eka-Dhamma-Peyyalo II: ii. Rāga-vinaya-nissitam 二　貪欲之調伏; PTS: The-One-Condition-Repetition II: ii. Restraint of Passion, V.31; WP: One Thing Repetition Series II: ii. Removal of Lust Version, II.1547
 
+.. _sn45_84:
+
 - 4.) SN 45. 84, `Kalyāṇamittasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 37 (PTS page), 善友 (2)
 
   * `善友誼經 <http://agama.buddhason.org/SN/SN1254.htm>`__ (莊春江) [2]_ ; `善知識之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=667:773>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `善友（二） <http://tripitaka.cbeta.org/N17n0006_045#0176a02>`__ (元亨寺, 通妙) [3]_ 
@@ -568,11 +686,15 @@ Eka-Dhamma-Peyyalo II: ii. Rāga-vinaya-nissitam 二　貪欲之調伏; PTS: The
 
   * 對照之阿含經典及其他： `雜阿含778-780經 <http://tripitaka.cbeta.org/T02n0099_028#0201c29>`__ (SA 778, 一法) (CBETA; T02, no. 99, p. 201, c29)、 SN 45.77
 
+.. _sn45_85:
+
 - 5.) SN 45. 85-89, `Sīlasampadādisuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 37 (PTS page), 85. Sīla戒 (1), 86.Chanda志欲 (1), 87. Atta我 (1), 88. Diṭṭhi見 (1), 89. Appamāda不放逸 (1)
 
   * `戒具足等經五則 <http://agama.buddhason.org/SN/SN1255.htm>`__ (莊春江) [2]_ ; `戒之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=667:773>`__ (戒之二、修學欲之二、自力之二、正見之二、不放逸之二) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `戒（二） <http://tripitaka.cbeta.org/N17n0006_045#0176a11>`__ (戒（二）、志欲（二）、我（二）、見（二）、不放逸（二）) (元亨寺, 通妙) [3]_ 
 
   * `Accomplishment in Virtue, Etc. <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.084-090.bodh.wp.htm#p2>`__ (84-90) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Virtue <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.084-090.wood.pts.htm#p2>`__ (Virtue, Desire, Self-possession, Insight, Earnestness) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_90:
 
 - 6.) SN 45. 90, `Yonisomanasikārasampadāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 37 (PTS page), Yoniso從根源 (2)
 
@@ -598,17 +720,23 @@ Gaṅgāpeyyāla-Vaggo 恒河中略品
 
 Gangā Peyyālo I: Viveka-nissitam 恆河廣說 一　遠離依止; PTS: Ganga — Repetition: Based on Seclusion, V.; WP: First Ganges Repetition Series: Based upon Seclusion Version, II.1548
 
+.. _sn45_91:
+
 - 1.) SN 45. 91, `Paṭhamapācīnaninnasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 38 (PTS page), Pācīna 東 (1)
 
   * `向東低斜經第一 <http://agama.buddhason.org/SN/SN1257.htm>`__ (莊春江) [2]_ ; `東方之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=667:773>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `東（一） <http://tripitaka.cbeta.org/N17n0006_045#0178a11>`__ (元亨寺, 通妙) [3]_
 
   * `Slanting to the East <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.091-102.bodh.wp.htm#sn5.45.91>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Eastward a <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.091-102.wood.pts.htm#sn5.45.91>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_92:
+
 - 2.) SN 45. 92-95, `Dutiyādipācīnaninnasuttacatukkaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 38 (PTS page),   92. Pācīna 東 (2), 93. Pācīna 東 (3), 94. Pācīna 東 (4), 95. Pācīna 東 (5)
 
   * `向東低斜經第二等四則 <http://agama.buddhason.org/SN/SN1258.htm>`__ (莊春江) [2]_ ; `東方之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=667:773>`__ (東方之二、東方之三、東方之四、東方之五) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `東（二） <http://tripitaka.cbeta.org/N17n0006_045#0179a09>`__ (東（二）、東（三）、東（四）、東（五）) (元亨寺, 通妙) [3]_ 
 
   * `Slanting to the East <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.091-102.bodh.wp.htm#sn5.45.92>`__ (92-96) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Eastward b.1 <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.091-102.wood.pts.htm#sn5.45.92>`__ (Eastward b.1, Eastward b.2, Eastward b.3, Eastward b.4) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_96:
 
 - 3.) SN 45. 96, `Chaṭṭhapācīnaninnasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 39 (PTS page), 96. Pācīna 東 (6)
 
@@ -617,11 +745,15 @@ Gangā Peyyālo I: Viveka-nissitam 恆河廣說 一　遠離依止; PTS: Ganga �
   * `Slanting to the East <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.091-102.bodh.wp.htm#sn5.45.92>`__ (92-96) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Eastward c <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.091-102.wood.pts.htm#sn5.45.96>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
 
+.. _sn45_97:
+
 - 1.) SN 45. 97, `Paṭhamasamuddaninnasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 39 (PTS page), Samudda 海 (1)
 
   * `向大海低斜經第一 <http://agama.buddhason.org/SN/SN1260.htm>`__ (莊春江) [2]_ ; `大海之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=667:773>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `海（一） <http://tripitaka.cbeta.org/N17n0006_045#0180a10>`__ (元亨寺, 通妙) [3]_
 
   * `The Ocean <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.091-102.bodh.wp.htm#sn5.45.97>`__ (97-102) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Ocean (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.091-102.wood.pts.htm#sn5.45.97>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_98:
 
 - 2.) SN 45. 98-102, `Dutiyādisamuddaninnasuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 39 (PTS page), 98. Samudda 海 (2), 99. Samudda 海 (3), 100. Samudda 海 (4), 101. Samudda 海 (5), 102. Samudda海 (6)
 
@@ -647,23 +779,31 @@ Dutiyagaṅgāpeyyāla-Vaggo 第二個恒河中略品
 
 Gangā-Peyyālo II: Rāga-nissitam 二　貪欲調伏; PTS: Ganga-Peyyalo II: Restraint of Passion, V.32; WP: Second Ganges Repetition Series: Removal of Lust Version, II.1549
 
-- 1.) SN 45. 103, `Paṭhamapācīnaninnasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 40 (PTS page), 103-108.(1- 6) Pācīna 東
+.. _sn45_103:
+
+- 1.) SN 45. 103, `Paṭhamapācīnaninnasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 40 (PTS page), 103-108. (1-6) Pācīna 東
 
   * `向東低斜經第一 <http://agama.buddhason.org/SN/SN1262.htm>`__ (莊春江) [2]_ ; `東方之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=773:889>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `東（一～六） <http://tripitaka.cbeta.org/N17n0006_045#0182a10>`__ (一〇三～一〇八) (元亨寺, 通妙) [3]_ 
 
   * `Slanting to the East <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.103-114.bodh.wp.htm#sn5.45.103>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Eastward a <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.103-114.wood.pts.htm#sn5.45.103>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
-- 2.) SN 45. 104-108, `Dutiyādipācīnaninnasuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 40 (PTS page), 103-108.(1- 6) Pācīna 東
+.. _sn45_104:
+
+- 2.) SN 45. 104-108, `Dutiyādipācīnaninnasuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 40 (PTS page), 103-108.(1-6) Pācīna 東
 
   * `向東低斜經第二等五則 <http://agama.buddhason.org/SN/SN1263.htm>`__ (莊春江) [2]_ ; `東方之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=773:889>`__ (東方之二、東方之三、東方之四、東方之五、東方之六) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `東（一～六） <http://tripitaka.cbeta.org/N17n0006_045#0182a10>`__ (一〇三～一〇八) (元亨寺, 通妙) [3]_ 
 
   * `Slanting to the East <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.103-114.bodh.wp.htm#sn5.45.104>`__ (103-114) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Eastward b.1 <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.103-114.wood.pts.htm#sn5.45.104>`__ (103-114) (Ocean (b.1), Ocean (b.2), Ocean (b.3), Ocean (b.4), Ocean (c)) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_109:
 
 - 3.) SN 45. 109, `Paṭhamasamuddaninnasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 40 (PTS page), 109-114. Samudda海
 
   * `向大海低斜經第一 <http://agama.buddhason.org/SN/SN1264.htm>`__ (莊春江) [2]_ ; `大海之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=773:889>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `海（一～六） <http://tripitaka.cbeta.org/N17n0006_045#0182a12>`__ (一〇九～一一四) (元亨寺, 通妙) [3]_ 
 
   * `Slanting to the East <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.103-114.bodh.wp.htm#sn5.45.104>`__ (103-114) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Ocean (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.103-114.wood.pts.htm#sn5.45.104>`__ (103-114) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_110:
 
 - 4.) SN 45. 110-114, `Dutiyādisamuddaninnasuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 40 (PTS page), 109-114. Samudda海
 
@@ -689,23 +829,31 @@ Tatiya Gangā Peyyālo 第三個恒河中略品
 
 Gangā Peyyālo III: Amatogadha-nissitam, 三　不死究竟; PTS: Ganga-Peyyalo III: Plunging into the Deathless, V.33; WP: Third Ganges Repetition Series: The Deathless as Its Ground Version, II.1549
 
-- 1.) SN 45. 115, `Paṭhamapācīnaninnasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 41 (PTS page), 115-120.(2- 6) Pācīna 東
+.. _sn45_115:
+
+- 1.) SN 45. 115, `Paṭhamapācīnaninnasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 41 (PTS page), 115-120.(2-6) Pācīna 東
 
   * `向東低斜經第一 <http://agama.buddhason.org/SN/SN1266.htm>`__ (莊春江) [2]_ ; `東方之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=773:889>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `東（一～六） <http://tripitaka.cbeta.org/N17n0006_045#0183a04>`__ (一一五～一二〇) (元亨寺, 通妙) [3]_ 
 
   * `Slanting to the East <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.115-126.bodh.wp.htm#sn5.45.115>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Eastward a <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.115-126.wood.pts.htm#sn5.45.115>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
-- 2.) SN 45. 116-120, `Dutiyādipācīnaninnasuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 41 (PTS page), 115-120.(2- 6) Pācīna 東
+.. _sn45_116:
+
+- 2.) SN 45. 116-120, `Dutiyādipācīnaninnasuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 41 (PTS page), 115-120.(2-6) Pācīna 東
 
   * `向東低斜經第二等五則 <http://agama.buddhason.org/SN/SN1267.htm>`__ (莊春江) [2]_ ; `東方之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=773:889>`__ (東方之二、東方之三、東方之四、東方之五、東方之六) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `東（一～六） <http://tripitaka.cbeta.org/N17n0006_045#0183a04>`__ (一一五～一二〇) (元亨寺, 通妙) [3]_
 
   * `Slanting to the East <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.115-126.bodh.wp.htm#sn5.45.116>`__ (115-126) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Eastward b.1 <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.115-126.wood.pts.htm#sn5.45.116>`__ (115-126) (Eastward b.1, Eastward b.2, Eastward b.3, Eastward b.4, Eastward c) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_121:
 
 - 3.) SN 45. 121, `Paṭhamasamuddaninnasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 41 (PTS page), 121-126. Samudda 海
 
   * `向大海低斜經第一 <http://agama.buddhason.org/SN/SN1268.htm>`__ (莊春江) [2]_ ; `大海之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=773:889>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `海（一～六） <http://tripitaka.cbeta.org/N17n0006_045#0183a06>`__ (一二一～一二六) (元亨寺, 通妙) [3]_ 
 
   * `The Ocean <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.115-126.bodh.wp.htm#sn5.45.116>`__ (115-126) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Ocean (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.115-126.wood.pts.htm#sn5.45.121>`__ (115-126) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_122:
 
 - 4.) SN 45. 122-126, `Dutiyādisamuddaninnasuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 41 (PTS page), 121-126. Samudda 海
 
@@ -731,23 +879,31 @@ Cattāro Gangā Peyyālo 第四個恒河中略品
 
 Gangā-Peyyālo IV: Nibbanannino-nissitam 四　趣向涅槃; PTS: Ganga-Peyyalo IV: Flowing to Nibbāna, V.33; WP: Fourth Ganges Repetition Series: Slants towards Nibbāna Version, II.1550
 
-- 1.) SN 45. 127, `Paṭhamapācīnaninnasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 41 (PTS page), 127-132.(1- 6) Pācīna 東
+.. _sn45_127:
+
+- 1.) SN 45. 127, `Paṭhamapācīnaninnasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 41 (PTS page), 127-132.(1-6) Pācīna 東
 
   * `向東低斜經第一 <http://agama.buddhason.org/SN/SN1270.htm>`__ (莊春江) [2]_ ; `東方之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=889:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `東（一～六） <http://tripitaka.cbeta.org/N17n0006_045#0183a12>`__ (一二七～一三二) (元亨寺, 通妙) [3]_ 
 
   * `Slanting to the East <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.127-138.bodh.wp.htm#sn5.45.127>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Eastward a <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.127-138.wood.pts.htm#sn5.45.127>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
-- 2.) SN 45. 128-132, `Dutiyādipācīnaninnasuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 41 (PTS page), 127-132.(1- 6) Pācīna 東
+.. _sn45_128:
+
+- 2.) SN 45. 128-132, `Dutiyādipācīnaninnasuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 41 (PTS page), 127-132.(1-6) Pācīna 東
 
   * `向東低斜經第二等五則 <http://agama.buddhason.org/SN/SN1271.htm>`__ (莊春江) [2]_ ; `東方之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=889:0>`__ (東方之二、東方之三、東方之四、東方之五、東方之六) (香港, 志蓮淨苑, 蕭式球) [6]_ ; `東（一～六） <http://tripitaka.cbeta.org/N17n0006_045#0183a12>`__ (一二七～一三二) (元亨寺, 通妙) [3]_
 
   * `Slanting to the East <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.127-138.bodh.wp.htm#sn5.45.128>`__ (127-138) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Eastward b.1 <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.127-138.wood.pts.htm#sn5.45.128>`__ (Eastward b.1, Eastward b.2, Eastward b.3, Eastward b.4) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_133:
 
 - 3.) SN 45. 133, `Paṭhamasamuddaninnasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 41 (PTS page), 133-138.(1-6)Samudda海
 
   * `向大海低斜經第一 <http://agama.buddhason.org/SN/SN1272.htm>`__ (莊春江) [2]_ ; `大海之一 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=350&page_id=889:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `海（一～六） <http://tripitaka.cbeta.org/N17n0006_045#0183a14>`__ (一三三～一三八) (元亨寺, 通妙) [3]_ 
 
   * `The Ocean <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.127-138.bodh.wp.htm#sn5.45.133>`__ (127-138) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Ocean (a) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.127-138.wood.pts.htm#sn5.45.133>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_134:
 
 - 4.) SN 45. 134-138, `Dutiyādisamuddaninnasuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 41 (PTS page), 133-138.(1-6)Samudda海
 
@@ -773,6 +929,8 @@ Appamādapeyyāla-Vaggo 第五 不放逸中略品
 
 PTS: Earnestness, V.33; WP: Diligence, II.1550
 
+.. _sn45_139:
+
 - 1.) SN 45. 139, `Tathāgatasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 41 (PTS page), 如來 (1-4)
 
   * `如來經 <http://agama.buddhason.org/SN/SN1274.htm>`__ (莊春江) [2]_ ; `如來 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `如來 <http://tripitaka.cbeta.org/N17n0006_045#0185a03>`__ (元亨寺, 通妙) [3]_ 
@@ -783,11 +941,15 @@ PTS: Earnestness, V.33; WP: Diligence, II.1550
 
     這一篇經文其實包含了四篇經文在其中。整個《不放逸品》由一三九至一四八經都是相同的模式，在每篇經文中都各別包含四篇經文。所以，巴利原文的一四零至一四八經把相同的部份省略，只記載不同的部份。(香港, 志蓮淨苑, 蕭式球) [6]_ 
 
+.. _sn45_140:
+
 - 2.) SN 45. 140, `Padasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 43 (PTS page), 足跡 (1-4)
 
   * `足跡經 <http://agama.buddhason.org/SN/SN1275.htm>`__ (莊春江) [2]_ ; `腳印 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `足跡 <http://tripitaka.cbeta.org/N17n0006_045#0187a01>`__ (元亨寺, 通妙) [3]_ 
 
   * `The Footprint <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.139-148.bodh.wp.htm#p140>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Foot <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.45.139-148.olds.bd.htm#p140>`__ (Michael Olds); `The foot <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.139-148.wood.pts.htm#p140>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_141:
 
 - 3.) SN 45. 141-5 `Kūṭādisuttapañcakaṃ <http://www.tipitaka.org/romn/cscd/s03、太陽、布料05m.mul0.xml>`_ (CSCD) [1]_ , S v 43 (PTS page), 141. Kūṭā屋頂 (1-4), 142. Mūla根 (1-4), 143. Sāro核 (1-4), 144. Vassika 夏生花 (1-4), 145. Rājā 王 (1-4)
 
@@ -796,6 +958,8 @@ PTS: Earnestness, V.33; WP: Diligence, II.1550
   * `The Roof Peak <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.139-148.bodh.wp.htm#p141>`__ (The Roof Peak, Roots, Heartwood, Jasmine, Monarch) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Roof-peak <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.45.139-148.olds.bd.htm#p141>`__ (The Roof-peak, Root, Heart-wood, Jasmine, Kings) (Michael Olds); `The roof-peak <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.139-148.wood.pts.htm#p141>`__ (The roof-peak, Wood, Heart Wood, Jasmine, Prince) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
   * 對照之阿含經典及其他： `雜阿含1239經 <http://tripitaka.cbeta.org/T02n0099_046#0339b13>`__ (SA 1239, 一法) (CBETA; T02, no. 99, p. 339, b13)、 `別譯雜阿含66經 <http://tripitaka.cbeta.org/T02n0100_004#0396b08>`__ (CBETA; T02, no. 100, p. 396, b08)、 `MN 141 Saccavibhaṅga Sutta 中部141 諦分別經 <{filename}../majjhima/majjhima-nikaaya%zh.rst#mn141>`__ (分析聖諦經)、 `本事經卷第一 一法品第一之一 <http://tripitaka.cbeta.org/T17n0765_001#0662b10>`__ (T 765.1) (CBETA; T17, no. 765, p. 662, b10)、`不放逸經 <{filename}kosala%zh.rst#sn3_17>`__ (SN 3.17) 、 `DN 31 <{filename}../diigha/diigha-nikaaya%zh.rst>`__ (長部31經/辛額勒經; 教授尸伽羅越經)
+
+.. _sn45_146:
 
 - 4.) SN 45. 146-8, `Candimādisuttatatiyakaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 44 (PTS page), 146. Canda 月 (1-4), 147. Suriya 日 (1-4), 148. Vattha 衣 (1-4)
 
@@ -823,11 +987,15 @@ Balakaraṇīya-Vaggo 第六 力量所作品
 
 PTS: Deeds Requiring Strength, V.36; WP: Strenuous Deeds, II.1553
 
+.. _sn45_149:
+
 - 1.) SN 45. 149, `Balasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 45 (PTS page), 力
 
   * `力量經 <http://agama.buddhason.org/SN/SN1278.htm>`__ (莊春江) [2]_ ; `勞力工作 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=61:147>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `力 <http://tripitaka.cbeta.org/N17n0006_045#0190a05>`__ (元亨寺, 通妙) [3]_ 
 
   * `Strenuous <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.149-160.bodh.wp.htm#p149>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Strength <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.149-160.wood.pts.htm#p149>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_150:
 
 - 2.) SN 45. 150, `Bījasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 46 (PTS page), 種子
 
@@ -835,11 +1003,15 @@ PTS: Deeds Requiring Strength, V.36; WP: Strenuous Deeds, II.1553
 
   * `Seeds <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.149-160.bodh.wp.htm#p150>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Seed <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.149-160.wood.pts.htm#p150>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_151:
+
 - 3.) SN 45. 151, `Nāgasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 47 (PTS page), 龍
 
   * `龍經 <http://agama.buddhason.org/SN/SN1280.htm>`__ (莊春江) [2]_ ; `龍 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=61:147>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `龍 <http://tripitaka.cbeta.org/N17n0006_045#0191a09>`__ (元亨寺, 通妙) [3]_ 
 
   * `Nagas <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.149-160.bodh.wp.htm#p151>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Snake <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.149-160.wood.pts.htm#p151>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_152:
 
 - 4.) SN 45. 152, `Rukkhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 47 (PTS page), 樹
 
@@ -847,11 +1019,15 @@ PTS: Deeds Requiring Strength, V.36; WP: Strenuous Deeds, II.1553
 
   * `The Tree <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.149-160.bodh.wp.htm#p152>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Tree <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.149-160.wood.pts.htm#p152>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_153:
+
 - 5.) SN 45. 153, `Kumbhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 48 (PTS page), 瓶
 
   * `瓶子經 <http://agama.buddhason.org/SN/SN1282.htm>`__ (莊春江) [2]_ ; `水壺 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=61:147>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `瓶 <http://tripitaka.cbeta.org/N17n0006_045#0193a05>`__ (元亨寺, 通妙) [3]_ 
 
   * `The Pot <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.149-160.bodh.wp.htm#p153>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Pot <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.149-160.wood.pts.htm#p153>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_154:
 
 - 6.) SN 45. 154, `Sūkasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 48 (PTS page), 芒 (Sūkiya)
 
@@ -859,11 +1035,15 @@ PTS: Deeds Requiring Strength, V.36; WP: Strenuous Deeds, II.1553
 
   * `The Spike <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.149-160.bodh.wp.htm#p154>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Bearded Wheat <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.149-160.wood.pts.htm#p154>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_155:
+
 - 7.) SN 45. 155, `Ākāsasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 49 (PTS page), 虛空
 
   * `虛空經 <http://agama.buddhason.org/SN/SN1284.htm>`__ (莊春江) [2]_ ; `空中 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=61:147>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `虛空 <http://tripitaka.cbeta.org/N17n0006_045#0194a13>`__ (元亨寺, 通妙) [3]_ 
 
   * `The Sky <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.149-160.bodh.wp.htm#p155>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Sky <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.149-160.wood.pts.htm#p155>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_156:
 
 - 8.) SN 45. 156, `Paṭhamameghasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 50 (PTS page), 雲(1)
 
@@ -871,11 +1051,15 @@ PTS: Deeds Requiring Strength, V.36; WP: Strenuous Deeds, II.1553
 
   * `The Rain Cloud <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.149-160.bodh.wp.htm#p156>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Rain-cloud a <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.149-160.wood.pts.htm#p156>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_157:
+
 - 9.) SN 45. 157, `Dutiyameghasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 50 (PTS page), 雲 (2)
 
   * `雨雲經第二 <http://agama.buddhason.org/SN/SN1286.htm>`__ (莊春江) [2]_ ; `雨雲之二 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=61:147>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `雲（二） <http://tripitaka.cbeta.org/N17n0006_045#0196a07>`__ (元亨寺, 通妙) [3]_
 
   * `The Rain Cloud 2 <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.149-160.bodh.wp.htm#p157>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Rain-cloud b <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.149-160.wood.pts.htm#p157>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_158:
 
 - 10.) SN 45. 158, `Nāvāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 51 (PTS page), 船舶
 
@@ -883,11 +1067,15 @@ PTS: Deeds Requiring Strength, V.36; WP: Strenuous Deeds, II.1553
 
   * `The Ship <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.149-160.bodh.wp.htm#p158>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Ship <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.149-160.wood.pts.htm#p158>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_159:
+
 - 11.) SN 45. 159, `Āgantukasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 51 (PTS page), 客
 
   * `屋舍經 <http://agama.buddhason.org/SN/SN1288.htm>`__ (莊春江) [2]_ ; `客堂 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=147:182>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `客 <http://tripitaka.cbeta.org/N17n0006_045#0197a14>`__ (元亨寺, 通妙) [3]_ 
 
   * `The Guest House <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.149-160.bodh.wp.htm#p159>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `For All Comers <http://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.159.wlsh.html>`__ (Maurice O'Connell Walshe, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `For All Comers <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.149-160.wood.pts.htm#p159>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_160:
 
 - 12.) SN 45. 160, `Nadīsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 53 (PTS page), 河
 
@@ -913,6 +1101,8 @@ Esanā-Vaggo 第七 尋求品
 
 PTS: On Longing, V.43; WP: Searches, II.1550
 
+.. _sn45_161:
+
 - 1.) SN 45. 161, `Esanāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 54 (PTS page), 尋覓 (1-4)
 
   * `尋求經 <http://agama.buddhason.org/SN/SN1290.htm>`__ (莊春江) [2]_ ; `尋求 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=182:254>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `尋覓 <http://tripitaka.cbeta.org/N17n0006_045#0201a13>`__ (元亨寺, 通妙) [3]_ 
@@ -921,11 +1111,15 @@ PTS: On Longing, V.43; WP: Searches, II.1550
 
   * 對照之阿含經典及其他： 整個《尋求品》由一六一至一七零經十篇經文都是相同的模式，跟《不放逸品》一樣。下一品《流品》十篇經文也是相同的模式。
 
+.. _sn45_162:
+
 - 2.) SN 45. 162, `Vidhāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 56 (PTS page), 次第 (1-4)
 
   * `慢經 <http://agama.buddhason.org/SN/SN1291.htm>`__ (莊春江) [2]_ ; `分別心 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=182:254>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `次第（慢） <http://tripitaka.cbeta.org/N17n0006_045#0203a14>`__ (元亨寺, 通妙) [3]_ 
 
   * `Discriminations <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.161-170.bodh.wp.htm#p162>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Conceits <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.161-170.wood.pts.htm#p162>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_163:
 
 - 3.) SN 45. 163, `Āsavasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 56 (PTS page), 漏 (1-4)
 
@@ -933,11 +1127,15 @@ PTS: On Longing, V.43; WP: Searches, II.1550
 
   * `Taints <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.161-170.bodh.wp.htm#p163>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Issues <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.45.163.olds.bd.htm>`__ (Michael Olds); `Asava <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.161-170.wood.pts.htm#p163>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_164:
+
 - 4.) SN 45. 164, `Bhavasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 56 (PTS page), 有 (1-4)
 
   * `有經 <http://agama.buddhason.org/SN/SN1293.htm>`__ (莊春江) [2]_ ; `有 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=182:254>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `有 <http://tripitaka.cbeta.org/N17n0006_045#0205a04>`__ (元亨寺, 通妙) [3]_ 
 
   * `Existence <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.161-170.bodh.wp.htm#p164>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Becoming <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.161-170.wood.pts.htm#p164>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_165:
 
 - 5.) SN 45. 165, `Dukkhatāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 56 (PTS page), Dukkhatā 苦 (1-4)
 
@@ -945,11 +1143,15 @@ PTS: On Longing, V.43; WP: Searches, II.1550
 
   * `Suffering <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.161-170.bodh.wp.htm#p165>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Suffering <http://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.165.wlsh.html>`__ (Maurice O'Connell Walshe, `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [5]_ ; `Suffering <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.161-170.wood.pts.htm#p165>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_166:
+
 - 6.) SN 45. 166, `Khilasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 57 (PTS page), 礙 (1-4)
 
   * `荒蕪經 <http://agama.buddhason.org/SN/SN1295.htm>`__ (莊春江) [2]_ ; `障礙 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=182:254>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `礙 <http://tripitaka.cbeta.org/N17n0006_045#0205a14>`__ (元亨寺, 通妙) [3]_ 
 
   * `Barrenness <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.161-170.bodh.wp.htm#p166>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Obstructions <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.161-170.wood.pts.htm#p166>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_167:
 
 - 7.) SN 45. 167, `Malasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 57 (PTS page), 垢 (1-4)
 
@@ -957,11 +1159,15 @@ PTS: On Longing, V.43; WP: Searches, II.1550
 
   * `Stains <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.161-170.bodh.wp.htm#p167>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Stain <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.161-170.wood.pts.htm#p167>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_168:
+
 - 8.) SN 45. 168, `Nīghasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 57 (PTS page), 搖 (1-4)
 
   * `惱亂經 <http://agama.buddhason.org/SN/SN1297.htm>`__ (莊春江) [2]_ ; `動搖 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=182:254>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `搖 <http://tripitaka.cbeta.org/N17n0006_045#0206a10>`__ (元亨寺, 通妙) [3]_ 
 
   * `Troubles <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.161-170.bodh.wp.htm#p168>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Pains <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.161-170.wood.pts.htm#p168>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_169:
 
 - 9.) SN 45. 169, `Vedanāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 57 (PTS page), 受 (1-4)
 
@@ -969,11 +1175,15 @@ PTS: On Longing, V.43; WP: Searches, II.1550
 
   * `Feelings <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.161-170.bodh.wp.htm#p169>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Feelings <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.161-170.wood.pts.htm#p169>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_170:
+
 - 10.) SN 45. 170, `Taṇhāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 57 (PTS page), 渴愛 (1-4)
 
   * `渴愛經 <http://agama.buddhason.org/SN/SN1299.htm>`__ (莊春江) [2]_ ; `愛 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=182:254>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `渴愛 <http://tripitaka.cbeta.org/N17n0006_045#0207a13>`__ (元亨寺, 通妙) [3]_ 
 
   * `Cravings <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.161-170.bodh.wp.htm#p170>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Craving <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.161-170.wood.pts.htm#p170>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_171:
 
 - 11.) SN 45. 171, `Tasināsuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 59 (PTS page), (緬甸版多一經(171. Tasinā))
 
@@ -999,6 +1209,8 @@ Ogha-Vaggo 第八 暴流品
 
 PTS: The Flood, V.47; WP: Floods, II.1563
 
+.. _sn45_172:
+
 - 1.) SN 45. 172, `Oghasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 59 (PTS page), 瀑流
 
   * `暴流經 <http://agama.buddhason.org/SN/SN1301.htm>`__ (莊春江) [2]_ ; `流 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=254:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `瀑流 <http://tripitaka.cbeta.org/N17n0006_045#0209a11>`__ (元亨寺, 通妙) [3]_ 
@@ -1007,11 +1219,15 @@ PTS: The Flood, V.47; WP: Floods, II.1563
 
   * 對照之阿含經典及其他： 整個《尋求品》由一六一至一七零經十篇經文都是相同的模式，跟《不放逸品》一樣。下一品《流品》十篇經文也是相同的模式。 (香港, 志蓮淨苑, 蕭式球) [6]_ 
 
+.. _sn45_173:
+
 - 2.) SN 45. 173, `Yogasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 59 (PTS page), 軛
 
   * `軛經 <http://agama.buddhason.org/SN/SN1302.htm>`__ (莊春江) [2]_ ; `軛 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=254:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `軛 <http://tripitaka.cbeta.org/N17n0006_045#0210a03>`__ (元亨寺, 通妙) [3]_ 
 
   * `Bonds <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.171-180.bodh.wp.htm#p172>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Bond <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.171-180.wood.pts.htm#p172>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_174:
 
 - 3.) SN 45. 174, `Upādānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 59 (PTS page), 取
 
@@ -1019,11 +1235,15 @@ PTS: The Flood, V.47; WP: Floods, II.1563
 
   * `Clinging <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.171-180.bodh.wp.htm#p173>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Grasping <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.171-180.wood.pts.htm#p173>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_175:
+
 - 4.) SN 45. 175, `Ganthasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 60 (PTS page), 繫
 
   * `繫縛經 <http://agama.buddhason.org/SN/SN1304.htm>`__ (莊春江) [2]_ ; `繫 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=254:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `繫 <http://tripitaka.cbeta.org/N17n0006_045#0210a13>`__ (元亨寺, 通妙) [3]_ 
 
   * `Knots <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.171-180.bodh.wp.htm#p174>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `(Bodily) Ties <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.171-180.wood.pts.htm#p174>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_176:
 
 - 5.) SN 45. 176, `Anusayasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 60 (PTS page), 隨眠
 
@@ -1031,11 +1251,15 @@ PTS: The Flood, V.47; WP: Floods, II.1563
 
   * `Underlying Tendencies <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.171-180.bodh.wp.htm#p175>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Tendency <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.171-180.wood.pts.htm#p175>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_177:
+
 - 6.) SN 45. 177, `Kāmaguṇasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 60 (PTS page), 妙欲
 
   * `欲種類經 <http://agama.buddhason.org/SN/SN1306.htm>`__ (莊春江) [2]_ ; `五欲 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=254:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `妙欲 <http://tripitaka.cbeta.org/N17n0006_045#0212a02>`__ (元亨寺, 通妙) [3]_ 
 
   * `Cords of Sensual Pleasure <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.171-180.bodh.wp.htm#p176>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Sense-Pleasures <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.171-180.wood.pts.htm#p176>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_178:
 
 - 7.) SN 45. 178, `Nīvaraṇasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 60 (PTS page), 蓋
 
@@ -1043,17 +1267,23 @@ PTS: The Flood, V.47; WP: Floods, II.1563
 
   * `Hindrances <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.171-180.bodh.wp.htm#p177>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Hindrances <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.171-180.wood.pts.htm#p177>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_179:
+
 - 8.) SN 45. 179, `Upādānakkhandhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 60 (PTS page), 蘊
 
   * `取蘊經 <http://agama.buddhason.org/SN/SN1308.htm>`__ (莊春江) [2]_ ; `五取蘊 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=254:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `蘊 <http://tripitaka.cbeta.org/N17n0006_045#0213a01>`__ (元亨寺, 通妙) [3]_ 
 
   * `Aggregates Subject to Clinging <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.171-180.bodh.wp.htm#p178>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Factors <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.171-180.wood.pts.htm#p178>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
+.. _sn45_180:
+
 - 9.) SN 45. 180, `Orambhāgiyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 61 (PTS page), 下分[結]
 
   * `下分經 <http://agama.buddhason.org/SN/SN1309.htm>`__ (莊春江) [2]_ ; `五下分結 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=351&page_id=254:0>`__ (香港, 志蓮淨苑, 蕭式球) [6]_ ; `下分（結） <http://tripitaka.cbeta.org/N17n0006_045#0213a06>`__ (元亨寺, 通妙) [3]_ 
 
   * `Lower Fetters <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.171-180.bodh.wp.htm#p179>`__ (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Lower Set (of Fetters) <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.171-180.wood.pts.htm#p179>`__ (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
+
+.. _sn45_181:
 
 - 10.) SN 45. 181, `Uddhambhāgiyasuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul0.xml>`_ (CSCD) [1]_ , S v 61 (PTS page), 上分[結]
 
@@ -1103,5 +1333,6 @@ PTS: The Flood, V.47; WP: Floods, II.1563
 .. [6] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） -- `45-1 道相應 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=350>`__ 、 `45-2 道相應 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=351>`__
 
 ..
+  08.19 add interior tag, e.g. .. _sn45_1:
   08.18 finished (edit 08.15)
   create on 2017.07.17
