@@ -1,0 +1,4833 @@
+諸天相應對讀 Parallel Reading of Devatā-saṃyutta (巴利三藏 相應部)
+######################################################################
+
+:date: 2017-08-22
+:modified: 2017-09-25
+:tags: 巴利三藏相應部, 諸天相應對讀, Parallel Reading, Devatā-saṃyutta, Devatāsaṃyutta, Devas
+:category: 巴利三藏相應部
+:summary: 諸天相應對讀 Parallel Reading of Devatā-saṃyutta (巴利三藏 相應部) (Devas 諸天)
+
+
+.. list-table:: Devatā-saṃyutta 諸天相應
+
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN 1. 1 ~ SN 1. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN 1. 11 ~ SN 1. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN 1. 21 ~ SN 1. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN 1. 31 ~ SN 1. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN 1. 41 ~ SN 1. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN 1. 51 ~ SN 1. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN 1. 61 ~ SN 1. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN 1. 71 ~ SN 1. 81)
+
+--------------
+
+.. raw:: html 
+
+  本對讀包含下列數個版本，請自行勾選欲對讀之版本
+  （感恩 <strong><a href="https://siongui.github.io/zh/pages/siong-ui-te.html">Siong-Ui Te 師兄</a></strong>
+  提供程式支援）：
+  
+  <div id="option-contrast-reading"></div>
+
+------
+
+Naḷa-Vaggo 第一 蘆葦品
++++++++++++++++++++++++
+
+.. _sn1_1:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **Saṃyuttanikāyo**
+
+       | **Sagāthāvaggo**
+       | **1. Devatāsaṃyuttaṃ**
+       | **1. Naḷavaggo**
+       | 
+
+       **1. Oghataraṇasuttaṃ**
+
+       1. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ etadavoca – ‘‘‘kathaṃ nu tvaṃ, mārisa, oghamatarī’ti? ‘Appatiṭṭhaṃ khvāhaṃ, āvuso, anāyūhaṃ oghamatari’nti. ‘Yathā kathaṃ pana tvaṃ, mārisa, appatiṭṭhaṃ anāyūhaṃ oghamatarī’ti? ‘Yadākhvāhaṃ, āvuso, santiṭṭhāmi tadāssu saṃsīdāmi ; yadākhvāhaṃ, āvuso, āyūhāmi tadāssu nibbuyhāmi [nivuyhāmi (syā. kaṃ. ka.)]. Evaṃ khvāhaṃ, āvuso, appatiṭṭhaṃ anāyūhaṃ oghamatari’’’nti.
+
+       | ‘‘Cirassaṃ vata passāmi, brāhmaṇaṃ parinibbutaṃ;
+       | Appatiṭṭhaṃ anāyūhaṃ, tiṇṇaṃ loke visattika’’nti. –
+       
+       Idamavoca sā devatā. Samanuñño satthā ahosi. Atha kho sā devatā – 
+
+       ‘‘samanuñño me satthā’’ti bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyīti.
+
+   * - 漢譯((莊春江) [2]_
+     - 禮敬那位世尊、阿羅漢、遍正覺者 
+
+       | **相應部**
+       | **(1)有偈篇**
+       | **1.諸天相應**
+       | **1.蘆葦品**
+       | 
+
+       相應部1相應1經/ **暴流之渡過經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       我聽到這樣_ ：
+
+       有一次_ ，世尊_ 住在舍衛城祇樹林給孤獨園。
+
+       那時，當夜已深時，容色絕佳的某位天神使整個祇樹林發光後，去見世尊。抵達後，向世尊 問訊_ ，接著在一旁站立。在一旁站好後，那位天神對世尊這麼說： 
+
+       「 親愛的先生_ ！你怎樣渡過暴流呢？」 
+
+       「 朋友_ ！我無住立、無用力地渡過暴流。」  ( 無住立_無用力地_ )
+
+       「親愛的先生！但，你怎樣我無住立、無用力地渡過暴流呢？」 
+
+       「朋友！當我住立時，那時，我沈沒；朋友！當我用力時，那時，我被飄走，朋友！這樣，我無住立、無用力地渡過暴流。」 
+
+       | 「經過好久後，終於，我看見了般涅槃的婆羅門： 
+       | 　無住立、無用力地，已渡對世間的執著。」 
+
+       這就是那位天神所說，大師認可了。 
+
+       那時，那位天神[心想]：
+
+       「 大師_ 認可我了。」向世尊問訊，然後 作右繞_ ，接著就在那裡消失了。 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - **相應部經典**
+
+       **歸命彼世尊應供等覺者**
+
+       | **有偈篇**
+       | **第一　諸天相應**
+       | **第一　葦品**
+       | 
+
+       **〔一〕瀑流**
+
+       如是我聞，爾時，世尊住舍衛城祇樹給孤獨園。
+
+       爾時，有天神於黎明放其殊勝妙光，徧照祇園，詣世尊處。詣已，敬禮世尊，立於一面。
+       
+       立一面已，彼天神白世尊曰：「友！卿如何度瀑流耶？」〔世尊曰〕：「友！我不住不求以度瀑流。」「友！卿如何不住不求以度瀑流耶？」〔世尊曰〕：「友！我住時沈，求時溺。友！我如是不住不求以度瀑流。」
+
+       | 「不住與不求度世間執著
+       | 涅槃婆羅門久久我見知」
+
+       彼天神作如是言得大師嘉賞、認證，天神知得大師、認證，敬禮世尊右繞而去。
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - **Saŋyutta Nikāya**
+
+       | **I. Sagātha Vagga**
+       | **1. Devatā-Saŋyutta**
+       | **I. Naļa-Vagga**
+       | 
+       | **The Connected Discourses of the Buddha**
+       | **I. The Book with Verses**
+       | **1. Connected Discourses with Devatās**
+       | **I. A Reed**
+       | 
+
+       **Ogha Suttaŋ**
+
+       **Crossing the Flood**
+
+       THUS HAVE I HEARD.
+
+       On one occasion the Blessed One was dwelling at Sāvatthi in Jeta's Grove, Anāthapiņđika's Park. Then, when the night had advanced, a certain devatā of stunning beauty, illuminating the entire Jeta's Grove, approached the Blessed One. Having approached, he paid homage to the Blessed One, stood to one side, and said to him:
+
+       "How, dear sir, did you cross the flood?" [SN01-BodhFn-01]_
+
+       "By not halting, friend, and by not straining I crossed the flood." [SN01-BodhFn-02]_
+
+       "But how is it, dear sir, that by not halting and by not straining you crossed the flood?"
+
+       "When I came to a standstill, friend, then I sank; when when I struggled, then I got swept away. It is in this way, friend, that by not halting and by not straining I crossed the flood." [SN01-BodhFn-03]_
+
+       | [The devatā:]
+       | "After a long time at last I see
+       | A brahmin who is fully quenched,
+       | Who by not halting, not straining,
+       | Has crossed over attachment to the world." [SN01-BodhFn-04]_
+
+       [90] This is what that devatā said. [SN01-BodhFn-05]_ The Teacher approved. Then that devatā, thinking, "The Teacher has approved of me," paid homage to the Blessed One and, keeing him on the right, disappeared right there.
+
+   * - 英譯 (Ven. Thanissaro Bhikkhu, AccessToInsight ) [5]_
+     - | SN 1.1 PTS: S i 1 CDB i 89
+       | Ogha-tarana Sutta: Crossing over the Flood
+
+       translated from the Pali by Thanissaro Bhikkhu © 1998
+
+       Translator's note: This discourse opens the Samyutta Nikaya with a paradox. The Commentary informs us that the Buddha teaches the devata in terms of the paradox in order to subdue her pride. To give this paradox some context, you might want to read other passages from the Canon that discuss right effort.
+
+       I have heard that on one occasion the Blessed One was staying near Savatthi in Jeta's Grove, Anathapindika's monastery. Then a certain devata, in the far extreme of the night, her extreme radiance lighting up the entirety of Jeta's Grove, went to the Blessed One. On arrival, having bowed down to him, she stood to one side. As she was standing there, she said to him, "Tell me, dear sir, how you crossed over the flood."
+
+       "I crossed over the flood without pushing forward, without staying in place." [SN01-ThanFn-01]_
+
+       "But how, dear sir, did you cross over the flood without pushing forward, without staying in place?"
+
+       "When I pushed forward, I was whirled about. When I stayed in place, I sank. And so I crossed over the flood without pushing forward, without staying in place."
+
+       | [The devata:]
+       | At long last I see
+       | a brahman, totally unbound,
+       | who     without pushing forward,
+       |   without staying in place,
+       | has crossed     over
+       |   the entanglements
+       |   of the world.
+       
+       That is what the devata said. The Teacher approved. Realizing that "The Teacher has approved of me," she bowed down to him, circumambulated him — keeping him to her right — and then vanished right there.
+
+------
+
+.. _sn1_2:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **2. Nimokkhasuttaṃ**
+
+       2. Sāvatthinidānaṃ . Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ etadavoca –
+
+       ‘‘Jānāsi no tvaṃ, mārisa, sattānaṃ nimokkhaṃ pamokkhaṃ viveka’’nti?
+
+       ‘‘Jānāmi khvāhaṃ, āvuso, sattānaṃ nimokkhaṃ pamokkhaṃ viveka’’nti.
+
+       ‘‘Yathā kathaṃ pana tvaṃ, mārisa, jānāsi sattānaṃ nimokkhaṃ pamokkhaṃ viveka’’nti?
+
+       ‘‘Nandībhavaparikkhayā [nandibhavaparikkhayā (syā. kaṃ.)], saññāviññāṇasaṅkhayā, vedanānaṃ nirodhā upasamā – evaṃ khvāhaṃ, āvuso, jānāmi sattānaṃ nimokkhaṃ pamokkhaṃ viveka’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應2經/ **解脫經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       起源於舍衛城。 
+
+       那時，當夜已深時，容色絕佳的某位天神使整個祇樹林發光後，去見世尊。抵達後，向世尊 問訊_ ，接著在一旁站立。在一旁站好後，那位天神對世尊這麼說： 
+
+       「 親愛的先生_ ！你知道眾生的解脫、已解脫、遠離嗎？」 ( 解脫_已解脫_遠離_ )
+
+       「 朋友_ ！我知道眾生的解脫、已解脫、遠離。」 
+
+       「親愛的先生！但，你怎樣知道眾生的解脫、已解脫、遠離呢？」 
+
+       「 以有之歡喜的遍盡_ 、以想與識的滅盡、以受的滅與寂靜，朋友！這樣，我知道眾生的解脫、能被解脫、遠離。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_3:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - 3. Upanīyasuttaṃ**
+
+       3. Sāvatthinidānaṃ . Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Upanīyati jīvitamappamāyu,
+       | Jarūpanītassa na santi tāṇā;
+       | Etaṃ bhayaṃ maraṇe pekkhamāno,
+       |       Puññāni kayirātha sukhāvahānī’’ti.
+       |       
+       |       ‘‘Upanīyati jīvitamappamāyu,
+       |       Jarūpanītassa na santi tāṇā;
+       |       Etaṃ bhayaṃ maraṇe pekkhamāno,
+       |       Lokāmisaṃ pajahe santipekkho’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應3經/ **該被帶走經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       起源於舍衛城。 
+
+       在一旁站好後，那位天神在 世尊_ 面前說這 偈頌_ ： 
+
+       | 「 生命被帶走_ ，壽命是短的，對被帶到老年者來說，沒有救護所， 
+       | 觀看著這死亡的恐怖，應該作福德取得安樂_ 。」 
+       | 
+       | 「生命被帶走，壽命是短的，對已被帶到老年者，沒有救護所， 
+       | 觀看著這死亡的恐怖，期待寂靜者_ 應該捨去 世間誘惑物_ 。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_4:
+
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **4. Accentisuttaṃ**
+
+       4. Sāvatthinidānaṃ . Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Accenti kālā tarayanti rattiyo,
+       | Vayoguṇā anupubbaṃ jahanti;
+       | Etaṃ bhayaṃ maraṇe pekkhamāno,
+       | Puññāni kayirātha sukhāvahānī’’ti.
+       | 
+       | ‘‘Accenti kālā tarayanti rattiyo,
+       | Vayoguṇā anupubbaṃ jahanti;
+       | Etaṃ bhayaṃ maraṇe pekkhamāno,
+       | Lokāmisaṃ pajahe santipekkho’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應4經/ **時間飛逝經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       起源於舍衛城。 
+
+       在一旁站好後，那位天神在 世尊_ 面前說這 偈頌_ ： 
+
+       | 「時間飛逝，夜晚迅速渡過，種種年齡_ 次第地捨棄[人]， 
+       | 觀看著這死亡的恐怖，應該作福德取得安樂_ 。」 
+       | 
+       | 「時間飛逝，夜晚迅速渡過，種種年齡次第地捨棄[人]， 
+       | 觀看著這死亡的恐怖，期待寂靜者_ 應該捨去世間的誘惑物。」 (世間誘惑物_)
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_5:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **5. Katichindasuttaṃ**
+
+       5. Sāvatthinidānaṃ . Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Kati chinde kati jahe, kati cuttari bhāvaye;
+       | Kati saṅgātigo bhikkhu, oghatiṇṇoti vuccatī’’ti.
+       | 
+       | ‘‘Pañca chinde pañca jahe, pañca cuttari bhāvaye;
+       | Pañca saṅgātigo bhikkhu, oghatiṇṇoti vuccatī’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應5經/ **切斷多少經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       起源於舍衛城。 
+
+       在一旁站好後，那位天子在 世尊_ 面前說這 偈頌_ ： 
+
+       | 「應該切斷多少、應該捨斷多少，應該再修習多少， 
+       | 比丘_ 越過多少染著，被稱為『已渡暴流者』？」 
+       | 
+       | 「應該切斷五、應該捨斷五_ ，且應該再修習五_ ， 
+       | 比丘 越過五染著_ ，被稱為『已渡 暴流_ 者』。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_6:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **6. Jāgarasuttaṃ**
+
+       6. Sāvatthinidānaṃ. Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Kati jāgarataṃ suttā, kati suttesu jāgarā;
+       | Katibhi [katīhi (sī.)] rajamādeti, katibhi [katīhi (sī.)] parisujjhatī’’ti.
+       | 
+       | ‘‘Pañca jāgarataṃ suttā, pañca suttesu jāgarā;
+       | Pañcabhi [pañcahi (sī.)] rajamādeti, pañcabhi [pañcahi (sī.)] parisujjhatī’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應6經/ **清醒經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       起源於舍衛城。 
+
+       在一旁站好後，那位天神在 世尊_ 面前說這 偈頌_ ： 
+
+       | 「當其它清醒時，多少已睡？當其它已睡時，多少清醒？ 
+       | 以多少，他抓取了塵垢？以多少，他被清淨？」 
+       | 
+       | 「當其它清醒時，五_ 已睡，當其它已睡時，五清醒， 
+       | 以五事，他抓取了塵垢，以五事，他被清淨。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_7:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **7. Appaṭividitasuttaṃ**
+
+       7. Sāvatthinidānaṃ . Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Yesaṃ dhammā appaṭividitā, paravādesu nīyare [niyyare (ka.)];
+       | Suttā te nappabujjhanti, kālo tesaṃ pabujjhitu’’nti.
+       | 
+       | ‘‘Yesaṃ dhammā suppaṭividitā, paravādesu na nīyare;
+       | Te sambuddhā sammadaññā, caranti visame sama’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應7經/ **未確知者經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       起源於舍衛城。 
+
+       在一旁站好後，那位天神在 世尊_ 面前說這 偈頌_ ： 
+
+       | 「凡未確知法者，會被引導到異教， 
+       | 已熟睡，他們未覺醒，是他們覺醒的時候。」 
+       | 
+       | 「凡已善確知法者，不會被引導到異教， 
+       | 那些 正覺者_ 正確了知，在不平順中平順地行_ 。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_8:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **8. Susammuṭṭhasuttaṃ**
+
+       8. Sāvatthinidānaṃ. Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Yesaṃ dhammā susammuṭṭhā, paravādesu nīyare;
+       | Suttā te nappabujjhanti, kālo tesaṃ pabujjhitu’’nti.
+       | 
+       | ‘‘Yesaṃ dhammā asammuṭṭhā, paravādesu na nīyare;
+       | Te sambuddhā sammadaññā, caranti visame sama’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應8經/ **極忘失者經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       起源於舍衛城。 
+
+       在一旁站好後，那位天神在 世尊_ 面前說這 偈頌_ ： 
+
+       | 「凡極 忘失_ 法者，會被引導到異教， 
+       | 已熟睡，他們未覺醒，是他們覺醒的時候。」 
+       | 
+       | 「凡不忘失法者，不會被引導到異教， 
+       | 那些 正覺者_ 以 究竟智_ ，在不平順中平順地行_ 。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+.. _sn1_9:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **9. Mānakāmasuttaṃ**
+
+       9. Sāvatthinidānaṃ. Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Na mānakāmassa damo idhatthi,
+       | Na monamatthi asamāhitassa;
+       | Eko araññe viharaṃ pamatto,
+       | Na maccudheyyassa tareyya pāra’’nti.
+       | 
+       | ‘‘Mānaṃ pahāya susamāhitatto,
+       | Sucetaso sabbadhi vippamutto;
+       | Eko araññe viharaṃ appamatto,
+       | Sa maccudheyyassa tareyya pāra’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應9經/ **慢之愛欲者經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       起源於舍衛城。 
+
+       在一旁站好後，那位天神在 世尊_ 面前說這 偈頌_ ： 
+
+       | 「這裡，對慢之愛欲者來說，沒有調御，對不得定的來說，沒有 智慧_ ， 
+       | 單獨放逸地住在 林野_ ，不能渡死亡領域彼岸。」 
+       | 
+       | 「捨斷慢後善得定，由善心，已於一切處掙脫， 
+       | 單獨不放逸地住在林野，他能渡死亡領域的 彼岸_ 。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+.. _sn1_10:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **10. Araññasuttaṃ**
+
+       10. Sāvatthinidānaṃ . Ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ gāthāya ajjhabhāsi –
+
+       | ‘‘Araññe viharantānaṃ, santānaṃ brahmacārinaṃ;
+       | Ekabhattaṃ bhuñjamānānaṃ, kena vaṇṇo pasīdatī’’ti.
+       | 
+       | ‘‘Atītaṃ nānusocanti, nappajappanti nāgataṃ;
+       | Paccuppannena yāpenti, tena vaṇṇo pasīdati’’.
+       | 
+       | ‘‘Anāgatappajappāya, atītassānusocanā;
+       | Etena bālā sussanti, naḷova harito luto’’ti.
+       | 
+
+       Naḷavaggo paṭhamo.
+
+       Tassuddānaṃ –
+
+       | Oghaṃ nimokkhaṃ upaneyyaṃ, accenti katichindi ca;
+       | Jāgaraṃ appaṭividitā, susammuṭṭhā mānakāminā;
+       | Araññe dasamo vutto, vaggo tena pavuccati.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應10經/ **林野經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       起源於舍衛城。 
+
+       在一旁站好後，那位天神以 偈頌_ 對 世尊_ 說： 
+
+       | 「住在 林野_ 的寂靜梵行者， 
+       | 日食一餐，為何容色明淨？」 
+       | 
+       | 「他們不悲傷過去，不希求未來， 
+       | 他們以眼前的維生，因此容色明淨。 
+       | 由於希求未來的，由於悲傷過去的， 
+       | 以此，愚者乾枯，如被割斷的綠蘆葦。」 
+       | 
+
+       蘆葦品第一，其 攝頌_ ： 
+
+       | 「暴流、解脫、該被帶走，時間飛逝、切斷多少， 
+       | 清醒、未確知者，極忘失者、慢之愛欲者， 
+       | 林野被說為第十，此被稱為品。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+----
+
+.. list-table:: Devatā-saṃyutta 諸天相應
+
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN 1. 1 ~ SN 1. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN 1. 11 ~ SN 1. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN 1. 21 ~ SN 1. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN 1. 31 ~ SN 1. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN 1. 41 ~ SN 1. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN 1. 51 ~ SN 1. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN 1. 61 ~ SN 1. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN 1. 71 ~ SN 1. 81)
+
+Nandana-Vaggo 第二 歡喜園品
++++++++++++++++++++++++++++
+
+.. _sn1_11:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **2. Nandanavaggo**
+
+       **1. Nandanasuttaṃ**
+
+       11. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –
+
+       ‘‘Bhūtapubbaṃ, bhikkhave, aññatarā tāvatiṃsakāyikā devatā nandane vane accharāsaṅghaparivutā dibbehi pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricāriyamānā [paricāriyamānā (syā. kaṃ. ka.)] tāyaṃ velāyaṃ imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Na te sukhaṃ pajānanti, ye na passanti nandanaṃ;
+       | Āvāsaṃ naradevānaṃ, tidasānaṃ yasassina’’nti.
+       | 
+       | ‘‘Evaṃ vutte, bhikkhave, aññatarā devatā taṃ devataṃ gāthāya paccabhāsi –
+       | 
+       | ‘‘Na tvaṃ bāle pajānāsi, yathā arahataṃ vaco;
+       | Aniccā sabbasaṅkhārā [sabbe saṅkhārā (sī. syā. kaṃ.)], uppādavayadhammino;
+       | Uppajjitvā nirujjhanti, tesaṃ vūpasamo sukho’’ti.
+     
+   * - 漢譯((莊春江) [2]_
+     - **2.歡喜園品**
+
+       相應部1相應11經/ **歡喜園經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       我聽到這樣_ ： 
+
+       有一次_ ，世尊_ 住在舍衛城祇樹林給孤獨園。 
+
+       在那裡，世尊召喚 比丘_ 們：「比丘們！」 
+
+       「尊師_ ！」那些比丘回答世尊。 
+
+       世尊這麼說： 
+
+       「比丘們！從前，某位 三十三天眾_ 的天神在 歡喜園_ 中由天女眾圍繞著，具備、具有天的 五種欲_ 自娛，那時候，他說了這 偈頌_ ：
+
+       | 『凡沒見過歡喜園者，他們不了知樂。 
+       | 這是屬於三十三天的、有名聲男性天神們的住所。』 
+       | 
+       | 比丘們！當這麼說時，某位天神以偈頌回應那位天神： 
+       | 
+       | 『愚癡的你不了知，如諸 阿羅漢_ 之語： 
+       | 一切行確實是無常的，是 生起與消散法_ ， 
+       | 生起後被滅，它們的平息是樂。』」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+.. _sn1_12:
+
+------
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **2. Nandatisuttaṃ**
+
+       12. Sāvatthinidānaṃ. Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Nandati puttehi puttimā,
+       | Gomā [gomiko (sī. syā. kaṃ. pī.)] gohi tatheva nandati;
+       | Upadhīhi narassa nandanā,
+       | Na hi so nandati yo nirūpadhī’’ti.
+       | 
+       | ‘‘Socati puttehi puttimā,
+       | Gomā gohi tatheva socati;
+       | Upadhīhi narassa socanā,
+       | Na hi so socati yo nirūpadhī’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應12經/ **歡喜經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       起源於舍衛城。 
+
+       在一旁站好後，那位天神在 世尊_ 面前說這 偈頌_： 
+
+       | 「有孩子的歡喜孩子，像這樣，有牛的歡喜牛， 
+       | 依著_ 確實是人們的歡喜，凡無依著者，他不歡喜。」 
+       | 
+       | 「有孩子的憂愁孩子，就像這樣，有牛的憂愁牛， 
+       | 依著確實是人們的憂愁，凡無依著者，他不憂愁。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_13:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **3. Natthiputtasamasuttaṃ**
+
+       13. Sāvatthinidānaṃ. Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Natthi puttasamaṃ pemaṃ, natthi gosamitaṃ dhanaṃ;
+       | Natthi sūriyasamā [suriyasamā (sī. syā. kaṃ. pī.)] ābhā, samuddaparamā sarā’’ti.
+       | 
+       | ‘‘Natthi attasamaṃ pemaṃ, natthi dhaññasamaṃ dhanaṃ;
+       | Natthi paññāsamā ābhā, vuṭṭhi ve paramā sarā’’ti.
+
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應13經/ **沒有等同兒子者經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       起源於舍衛城。 
+
+       在一旁站好後，那位天神在 世尊_ 面前說這 偈頌_ ： 
+
+       | 「沒有等同對兒子的愛，沒有等同牛之財， 
+       | 沒有等同太陽的光明，大海是池湖中最勝的。」 
+       | 
+       | 「沒有等同對自我的愛，沒有等同穀物之財， 
+       | 沒有等同慧的光明，雨是池湖中最勝的。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+.. _sn1_14:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **4. Khattiyasuttaṃ**
+
+       | 14. ‘‘Khattiyo dvipadaṃ seṭṭho, balībaddo [balivaddo (sī. pī.), balibaddo (syā. kaṃ. ka.)] catuppadaṃ.
+       | Komārī seṭṭhā bhariyānaṃ, yo ca puttāna pubbajo’’ti.
+       | 
+       | ‘‘Sambuddho dvipadaṃ seṭṭho, ājānīyo catuppadaṃ;
+       | Sussūsā seṭṭhā bhariyānaṃ, yo ca puttānamassavo’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應14經/ **剎帝利經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       | 「剎帝利是兩足中最上的，四足中則是公牛， 
+       | 處女是妻子中最上的，對兒子來說則是先出生的。」 
+       | 
+       | 「正覺者是兩足中最上的，四足中則是駿馬， 
+       | 順從的是妻子中最上的，對兒子來說則是孝順的。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_15:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **5. Saṇamānasuttaṃ**
+
+       | 15. ‘‘Ṭhite majjhanhike [majjhantike (sabbattha)] kāle, sannisīvesu pakkhisu.
+       | Saṇateva brahāraññaṃ [mahāraññaṃ (ka. sī. syā. kaṃ. ka.)], taṃ bhayaṃ paṭibhāti ma’’nti.
+       | 
+       | ‘‘Ṭhite majjhanhike kāle, sannisīvesu pakkhisu;
+       | Saṇateva brahāraññaṃ, sā rati paṭibhāti ma’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應15經/ **呢喃經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       | 「當來到中午時分，鳥兒們安靜下來了， 
+       | 廣大的林野呢喃，那恐怖出現於我心中。」 
+       | 
+       | 「當來到中午時分，鳥兒們安靜下來了， 
+       | 廣大的林野呢喃，那喜樂出現於我心中。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_16:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **6. Niddātandīsuttaṃ**
+
+       | 16. ‘‘Niddā tandī vijambhitā [tandi vijambhikā (sī. pī.)], aratī bhattasammado.
+       | Etena nappakāsati, ariyamaggo idha pāṇina’’nti.
+       | 
+       | ‘‘Niddaṃ tandiṃ vijambhitaṃ, aratiṃ bhattasammadaṃ;
+       | Vīriyena [viriyena (sī. syā. kaṃ. pī.)] naṃ paṇāmetvā, ariyamaggo visujjhatī’’ti.
+
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應16經/ **睡眠與懶惰經** (諸天相應/有偈篇/祇夜)(莊春江譯)
+
+       | 「睡眠、懶惰、打哈欠，不樂、餐後的睡意， 
+       | 這裡的 眾生_ ，以此而聖道不顯現。」 
+       | 
+       | 「睡眠、懶惰、打哈欠，不樂、餐後的睡意， 
+       | 以活力驅逐它後，聖道變得清澈。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_17:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **7. Dukkarasuttaṃ**
+
+       | 17. ‘‘Dukkaraṃ duttitikkhañca, abyattena ca sāmaññaṃ.
+       | Bahūhi tattha sambādhā, yattha bālo visīdatī’’ti.
+       | 
+       | ‘‘Katihaṃ careyya sāmaññaṃ, cittaṃ ce na nivāraye;
+       | Pade pade visīdeyya, saṅkappānaṃ vasānugo’’ti.
+       | 
+       | ‘‘Kummova aṅgāni sake kapāle,
+       | Samodahaṃ bhikkhu manovitakke;
+       | Anissito aññamaheṭhayāno,
+       | Parinibbuto nūpavadeyya kañcī’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應17經/ **困難經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「沙門身分_ 是困難的，難以為無能者忍耐， 
+       | 因為多數在那裡有障礙，愚者在該處沈沒。 
+       | 
+       | 能行多少沙門身分，如果不防護心？ 
+       | 會在一步步中沈沒，隨順於意向的控制。」 
+       | 
+       | 「如龜的肢體在自己的龜殼中，比丘收妥於心之尋中_， 
+       | 不依止的_、不惱害其他人，已般涅槃，不會非難任何人。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_18:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **8. Hirīsuttaṃ**
+
+       | 18. ‘‘Hirīnisedho puriso, koci lokasmiṃ vijjati.
+       | Yo nindaṃ apabodhati [apabodheti (syā. kaṃ. ka.)], asso bhadro kasāmivā’’ti.
+       | 
+       | ‘‘Hirīnisedhā tanuyā, ye caranti sadā satā;
+       | Antaṃ dukkhassa pappuyya, caranti visame sama’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應18經/ **慚經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「在世間，有誰是以慚而自我抑制的男子， 
+       | 不引起斥責，如良馬之於鞭？」 
+       | 
+       | 「以慚而自我抑制者是稀少的，他們經常正念地行， 
+       | 獲得苦的結束後，在不平順中平順地行_。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_19:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **9. Kuṭikāsuttaṃ**
+
+       | 19. ‘‘Kacci te kuṭikā natthi, kacci natthi kulāvakā;
+       | Kacci santānakā natthi, kacci muttosi bandhanā’’ti.
+       | 
+       | ‘‘Taggha me kuṭikā natthi, taggha natthi kulāvakā;
+       | Taggha santānakā natthi, taggha muttomhi bandhanā’’ti.
+       | 
+       | ‘‘Kintāhaṃ kuṭikaṃ brūmi, kiṃ te brūmi kulāvakaṃ;
+       | Kiṃ te santānakaṃ brūmi, kintāhaṃ brūmi bandhana’’nti.
+       | 
+       | ‘‘Mātaraṃ kuṭikaṃ brūsi, bhariyaṃ brūsi kulāvakaṃ;
+       | Putte santānake brūsi, taṇhaṃ me brūsi bandhana’’nti.
+       | 
+       | ‘‘Sāhu te kuṭikā natthi, sāhu natthi kulāvakā;
+       | Sāhu santānakā natthi, sāhu muttosi bandhanā’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應19經/ **小屋經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「你沒有小屋嗎？沒有巢嗎？ 
+       | 　沒有子嗣嗎？你已解脫繫縛了嗎？」
+       | 
+       | 「我確實沒有小屋，確實沒有巢， 
+       | 　確實沒有子嗣，我確實已解脫繫縛了。」 
+       | 
+       | 「你認為我說的小屋是什麼？你認為我說的巢是什麼？ 
+       | 　你認為我說的子嗣是什麼？你認為我說的繫縛是什麼？」 
+       | 
+       | 「你說的小屋是母親，你說的巢是妻子， 
+       | 　你說的子嗣是兒子，你對我說的繫縛是渴愛。」 
+       | 
+       | 「你沒有小屋，好_！沒有巢，好！ 
+       | 　沒有子嗣，好！你已解脫繫縛，好！」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_20:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **10. Samiddhisuttaṃ**
+
+       20. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati tapodārāme. Atha kho āyasmā samiddhi rattiyā paccūsasamayaṃ paccuṭṭhāya yena tapodā tenupasaṅkami gattāni parisiñcituṃ. Tapode gattāni parisiñcitvā paccuttaritvā ekacīvaro aṭṭhāsi gattāni pubbāpayamāno. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ tapodaṃ obhāsetvā yena āyasmā samiddhi tenupasaṅkami; upasaṅkamitvā vehāsaṃ ṭhitā āyasmantaṃ samiddhiṃ gāthāya ajjhabhāsi –
+
+       | ‘‘Abhutvā bhikkhasi bhikkhu, na hi bhutvāna bhikkhasi;
+       | Bhutvāna bhikkhu bhikkhassu, mā taṃ kālo upaccagā’’ti.
+       | 
+       | ‘‘Kālaṃ vohaṃ na jānāmi, channo kālo na dissati;
+       | Tasmā abhutvā bhikkhāmi, mā maṃ kālo upaccagā’’ti.
+
+       Atha kho sā devatā pathaviyaṃ [paṭhaviyaṃ (sī. syā. kaṃ. pī.)] patiṭṭhahitvā āyasmantaṃ samiddhiṃ etadavoca – ‘‘daharo tvaṃ bhikkhu, pabbajito susu kāḷakeso, bhadrena yobbanena samannāgato, paṭhamena vayasā, anikkīḷitāvī kāmesu. Bhuñja, bhikkhu, mānusake kāme; mā sandiṭṭhikaṃ hitvā kālikaṃ anudhāvī’’ti.
+
+       ‘‘Na khvāhaṃ, āvuso, sandiṭṭhikaṃ hitvā kālikaṃ anudhāvāmi. Kālikañca khvāhaṃ, āvuso, hitvā sandiṭṭhikaṃ anudhāvāmi. Kālikā hi, āvuso, kāmā vuttā bhagavatā bahudukkhā bahupāyāsā; ādīnavo ettha bhiyyo. Sandiṭṭhiko ayaṃ dhammo akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī’’ti.
+
+       ‘‘Kathañca, bhikkhu, kālikā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo? Kathaṃ sandiṭṭhiko ayaṃ dhammo akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī’’ti?
+
+       ‘‘Ahaṃ kho, āvuso, navo acirapabbajito adhunāgato imaṃ dhammavinayaṃ. Na tāhaṃ [na khvāhaṃ (sī. pī.)] sakkomi vitthārena ācikkhituṃ. Ayaṃ so bhagavā arahaṃ sammāsambuddho rājagahe viharati tapodārāme. Taṃ bhagavantaṃ upasaṅkamitvā etamatthaṃ puccha. Yathā te bhagavā byākaroti tathā naṃ dhāreyyāsī’’ti.
+
+       ‘‘Na kho, bhikkhu, sukaro so bhagavā amhehi upasaṅkamituṃ , aññāhi mahesakkhāhi devatāhi parivuto. Sace kho tvaṃ, bhikkhu, taṃ bhagavantaṃ upasaṅkamitvā etamatthaṃ puccheyyāsi, mayampi āgaccheyyāma dhammassavanāyā’’ti. ‘‘Evamāvuso’’ti kho āyasmā samiddhi tassā devatāya paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā samiddhi bhagavantaṃ etadavoca –
+
+       ‘‘Idhāhaṃ , bhante, rattiyā paccūsasamayaṃ paccuṭṭhāya yena tapodā tenupasaṅkamiṃ gattāni parisiñcituṃ. Tapode gattāni parisiñcitvā paccuttaritvā ekacīvaro aṭṭhāsiṃ gattāni pubbāpayamāno. Atha kho, bhante, aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ tapodaṃ obhāsetvā yenāhaṃ tenupasaṅkami; upasaṅkamitvā vehāsaṃ ṭhitā imāya gāthāya ajjhabhāsi –
+
+       | ‘‘Abhutvā bhikkhasi bhikkhu, na hi bhutvāna bhikkhasi;
+       | Bhutvāna bhikkhu bhikkhassu, mā taṃ kālo upaccagā’’ti.
+
+       ‘‘Evaṃ vutte ahaṃ, bhante, taṃ devataṃ gāthāya paccabhāsiṃ –
+
+       | ‘‘Kālaṃ vohaṃ na jānāmi, channo kālo na dissati;
+       | Tasmā abhutvā bhikkhāmi, mā maṃ kālo upaccagā’’ti.
+
+       ‘‘Atha kho, bhante, sā devatā pathaviyaṃ patiṭṭhahitvā maṃ etadavoca – ‘daharo tvaṃ, bhikkhu, pabbajito susu kāḷakeso, bhadrena yobbanena samannāgato, paṭhamena vayasā, anikkīḷitāvī kāmesu. Bhuñja, bhikkhu, mānusake kāme; mā sandiṭṭhikaṃ hitvā kālikaṃ anudhāvī’’’ti.
+
+       ‘‘Evaṃ vuttāhaṃ, bhante, taṃ devataṃ etadavocaṃ – ‘na khvāhaṃ, āvuso, sandiṭṭhikaṃ hitvā kālikaṃ anudhāvāmi; kālikañca khvāhaṃ, āvuso, hitvā sandiṭṭhikaṃ anudhāvāmi. Kālikā hi, āvuso, kāmā vuttā bhagavatā bahudukkhā bahupāyāsā; ādīnavo ettha bhiyyo. Sandiṭṭhiko ayaṃ dhammo akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī’’’ti.
+
+       ‘‘Evaṃ vutte, bhante, sā devatā maṃ etadavoca – ‘kathañca, bhikkhu, kālikā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā; ādīnavo ettha bhiyyo? Kathaṃ sandiṭṭhiko ayaṃ dhammo akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī’ti? Evaṃ vuttāhaṃ, bhante , taṃ devataṃ etadavocaṃ – ‘ahaṃ kho, āvuso, navo acirapabbajito adhunāgato imaṃ dhammavinayaṃ, na tāhaṃ sakkomi vitthārena ācikkhituṃ. Ayaṃ so bhagavā arahaṃ sammāsambuddho rājagahe viharati tapodārāme. Taṃ bhagavantaṃ upasaṅkamitvā etamatthaṃ puccha. Yathā te bhagavā byākaroti tathā naṃ dhāreyyāsī’’’ti.
+
+       ‘‘Evaṃ vutte, bhante, sā devatā maṃ etadavoca – ‘na kho, bhikkhu, sukaro so bhagavā amhehi upasaṅkamituṃ, aññāhi mahesakkhāhi devatāhi parivuto. Sace kho, tvaṃ bhikkhu, taṃ bhagavantaṃ upasaṅkamitvā etamatthaṃ puccheyyāsi, mayampi āgaccheyyāmadhammassavanāyā’ti. Sace, bhante, tassā devatāya saccaṃ vacanaṃ, idheva sā devatā avidūre’’ti.
+
+       Evaṃ vutte, sā devatā āyasmantaṃ samiddhiṃ etadavoca – ‘‘puccha, bhikkhu, puccha, bhikkhu, yamahaṃ anuppattā’’ti.
+
+       Atha kho bhagavā taṃ devataṃ gāthāhi ajjhabhāsi –
+
+       | ‘‘Akkheyyasaññino sattā, akkheyyasmiṃ patiṭṭhitā;
+       | Akkheyyaṃ apariññāya, yogamāyanti maccuno.
+       | 
+       | ‘‘Akkheyyañca pariññāya, akkhātāraṃ na maññati;
+       | Tañhi tassa na hotīti, yena naṃ vajjā na tassa atthi;
+       | Sace vijānāsi vadehi yakkhā’’ti [yakkhīti (pī. ka.)].
+
+       ‘‘Na khvāhaṃ, bhante, imassa bhagavatā saṅkhittena bhāsitassa vitthārena atthaṃ ājānāmi. Sādhu me, bhante, bhagavā tathā bhāsatu yathāhaṃ imassa bhagavatā saṅkhittena bhāsitassa vitthārena atthaṃ jāneyya’’nti.
+
+       | ‘‘Samo visesī uda vā [athavā (sī. pī.)] nihīno,
+       | Yo maññatī so vivadetha [sopi vadetha (ka.)] tena;
+       | Tīsu vidhāsu avikampamāno,
+       | Samo visesīti na tassa hoti;
+       | Sace vijānāsi vadehi yakkhā’’ti.
+
+       ‘‘Imassāpi khvāhaṃ, bhante, bhagavatā saṅkhittena bhāsitassa na vitthārena atthaṃ ājānāmi. Sādhu me, bhante, bhagavā tathā bhāsatu yathāhaṃ imassa bhagavatā saṅkhittena bhāsitassa vitthārena atthaṃ jāneyya’’nti.
+
+       | ‘‘Pahāsi saṅkhaṃ na vimānamajjhagā, acchecchi [acchejji (syā. kaṃ. ka.)] taṇhaṃ idha nāmarūpe;
+       | Taṃ chinnaganthaṃ anighaṃ nirāsaṃ, pariyesamānā nājjhagamuṃ;
+       | Devā manussā idha vā huraṃ vā, saggesu vā sabbanivesanesu;
+       | Sace vijānāsi vadehi yakkhā’’ti.
+
+       ‘‘Imassa khvāhaṃ, bhante, bhagavatā saṅkhittena bhāsitassa evaṃ vitthārena atthaṃ ājānāmi –
+
+       | ‘‘Pāpaṃ na kayirā vacasā manasā,
+       | Kāyena vā kiñcana sabbaloke;
+       | Kāme pahāya satimā sampajāno,
+       | Dukkhaṃ na sevetha anatthasaṃhita’’nti.
+
+       Nandanavaggo dutiyo.
+
+       Tassuddānaṃ –
+
+       | Nandanā nandati ceva, natthiputtasamena ca;
+       | Khattiyo saṇamāno ca, niddātandī ca dukkaraṃ;
+       | Hirī kuṭikā navamo, dasamo vutto samiddhināti.
+
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應20經/ **三彌提經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       我聽到這樣_： 
+
+       有一次_，世尊_ 住在王舍城溫泉園。 
+
+       那時，尊者_ 三彌提在破曉時起來後，前往溫泉洗澡。 
+
+       在溫泉洗澡後起來，然後著單衣站著弄乾身體。 
+
+       那時，當夜已深時，容色絕佳的某位天神使整個溫泉園發光後，去見尊者三彌提。抵達後，站在空中以 偈頌_ 對尊者三彌提說： 
+
+       | 「比丘_！你不先享受然後乞食，你不於享受後乞食， 
+       | 比丘！你要先享受然後乞食，你不要讓時間溜走！」 
+       | 「時間我不知道_，被隱藏的時間不被看見， 
+       | 因此，我不先享受然後乞食，我不要讓時間溜走！」 
+
+       那時，那位天神站到地上對尊者三彌提這麼說： 
+
+       「比丘！你年輕出家，黑髮的青年，具備青春的幸福，在人生之初期，不在欲中娛樂，比丘！你要享受人之欲，不要捨斷直接可見的而追逐 耗時的_。」 
+
+       「朋友_！我沒捨斷直接可見的而追逐耗時的，但，朋友！我捨斷耗時的而追逐直接可見的，因為，朋友！由世尊所說：欲是耗時的、多苦的、多絕望的，那裡面有更多的 過患_，而此法是直接可見的、即時的、請你來見的、能引導的、智者應該自己經驗的。」 
+
+       「比丘！怎樣是由世尊所說：欲是耗時的、多苦的、多絕望的，那裡面有更多的過患呢？怎樣是此法是直接可見的、即時的、請你來見的、能引導的、智者應該自己經驗的呢？」 
+
+       「朋友！我是新人，出家不久，剛來到這法、律中，我不能詳細解說它，那位世尊、阿羅漢_、遍正覺者住在這王舍城溫泉園，你去見世尊，然後問這個道理，你應該依據世尊的解說 憶持_。」 
+
+       「比丘！我們不易見到那位世尊，因為被其它有大權勢的諸天圍繞。 
+
+       比丘！如果你去見世尊，然後問這個道理，我們也會為聽法而跟去的。」 
+
+       「好的。」尊者三彌提回答那位天神後，去見世尊。抵達後，向世尊 問訊_，接著在一旁坐下。在一旁坐好後，尊者三彌提對世尊這麼說： 
+
+       「大德_！這裡，我在破曉時起來後，到溫泉洗澡。 
+
+       在溫泉洗澡後起來，然後著單衣站著弄乾身體。 
+
+       那時，當夜已深時，容色絕佳的某位天神使整個溫泉園發光後，來見我。抵達後，站在空中以偈頌對我說： 
+
+       | 『比丘！你不先享受然後乞食，你不於享受後乞食， 
+       | 比丘！你要先享受然後乞食，你不要讓時間溜走！』 
+
+       大德！當這麼說時，我以偈回應那位天神： 
+
+       | 『時間我不知道，被隱藏的時間不被看見， 
+       | 因此，我不先享受然後乞食，我不要讓時間溜走！』 
+
+       大德！那時，那位天神站到地上對我這麼說：『比丘！你年輕出家，黑髮的青年，具備青春的幸福，在人生之初期，不在欲中娛樂，比丘！你要享受人之欲，不要捨斷直接可見的而追逐耗時的。』 
+
+       大德！當這麼說時，我這麼回答那位天神：『朋友！我沒捨斷直接可見的而追逐耗時的，但，朋友！我捨斷耗時的而追逐直接可見的，因為，朋友！由世尊所說：欲是耗時的、多苦的、多絕望的，那裡面有更多的過患，而此法是直接可見的、即時的、請你來見的、能引導的、智者應該自己經驗的。』 
+
+       大德！當這麼說時，那位天神對我這麼說：『比丘！怎樣是由世尊所說：欲是耗時的、多苦的、多絕望的，那裡面有更多的過患呢？怎樣是此法是直接可見的、即時的、請你來見的、能引導的、智者應該自己經驗的呢？』 
+
+       大德！當這麼說時，我這麼回答那位天神：『朋友！我是新人，出家不久，才剛來到這法、律中，我不能詳細解說它，那位世尊、阿羅漢、遍正覺者住在這王舍城溫泉園，你去見世尊，然後問這個道理，你應該依據世尊的解說憶持。』 
+
+       大德！當這麼說時，那位天神對我這麼說：『比丘！我們不易見到那位世尊，因為被其它有大權勢的諸天圍繞，比丘！如果你去見世尊，然後問這個道理，我們也會為聽法而跟去的。』 
+
+       大德！如果那位天神之語是真實的，那位天神就在此不遠處。」 
+
+       當這麼說時，那位天神對尊者三彌提這麼說： 
+
+       「問吧！比丘！問吧！比丘！我已到此。」 
+
+       那時，世尊以偈頌對那位天神說： 
+
+       | 「認知能被講述的之眾生_，在能被講述的之上建立， 
+       | 不 遍知_ 能被講述的之後，被死神束縛_。 
+       | 遍知能被講述的之後，不 思量_ 被講述的， 
+       | 因為，他能被說的，對他來說不存在。 
+       | 夜叉_！如果你了知，請你說。」 
+
+       「大德！我不了知這世尊簡要所說的詳細義理，請世尊為我說明，以便我能了知這世尊簡要所說的詳細義理，那就好了_！」 
+
+       | 「凡思量：相同、殊勝或卑劣者，他可能因為那樣而爭論， 
+       | 當對三種 慢_ 不動搖時，對他來說沒有『相同或殊勝』。 
+       | 夜叉！如果你了知，請你說。」 
+
+       「大德！我也不了知這世尊簡要所說的詳細義理，請世尊為我說明，以便我能了知這世尊簡要所說的詳細義理，那就好了！」 
+
+       | 「捨斷名稱，不來到 勝慢_，他在這裡切斷對名色的渴愛， 
+       | 那繫縛已被切斷、無苦、無欲者，當遍求時， 
+       | 諸天、人們在這裡或他處；在天界或一切住處，都得不到。 
+       | 夜叉！如果你了知，請你說。」 
+       | 
+       | 「大德！我這樣了知這世尊簡要所說的詳細義理： 
+       | 『在任何一切世間中，不應該以身、語、意作惡， 
+       | 捨斷諸欲後，有念、正知，不應該親近伴隨苦與無利益的。』」 
+       | 
+       | 歡喜園品第二，其 攝頌_： 
+       | 
+       | 「歡喜園、歡喜，沒有等同兒子者， 
+       | 剎帝利與呢喃，睡眠懶惰與困難， 
+       | 慚，小屋為第九，三彌提被說為第十。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. list-table:: Devatā-saṃyutta 諸天相應
+
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN 1. 1 ~ SN 1. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN 1. 11 ~ SN 1. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN 1. 21 ~ SN 1. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN 1. 31 ~ SN 1. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN 1. 41 ~ SN 1. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN 1. 51 ~ SN 1. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN 1. 61 ~ SN 1. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN 1. 71 ~ SN 1. 81)
+
+Satti-Vaggo 第三 劍品
++++++++++++++++++++++
+
+.. _sn1_21:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **3. Sattivaggo**
+
+       **1. Sattisuttaṃ**
+
+       21. Sāvatthinidānaṃ . Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Sattiyā viya omaṭṭho, ḍayhamānova [ḍayhamāneva (sabbattha)] matthake;
+       | Kāmarāgappahānāya, sato bhikkhu paribbaje’’ti.
+       | 
+       | ‘‘Sattiyā viya omaṭṭho, ḍayhamānova matthake;
+       | Sakkāyadiṭṭhippahānāya, sato bhikkhu paribbaje’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 3. **劍品**
+
+       相應部1相應21經/ **劍經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       起源於舍衛城。 
+
+       在一旁站好後，那位天神在 世尊_ 面前說這 偈頌_： 
+
+       | 「像被劍觸擊，或頭正被燃燒， 
+       | 比丘_ 應該正念地 遊行_，以捨斷欲貪。」 
+       | 
+       | 「像被劍觸擊，或頭正被燃燒， 
+       | 比丘應該正念地遊行，以捨斷 有身見_。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_22:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **2. Phusatisuttaṃ**
+
+       | 22. ‘‘Nāphusantaṃ phusati ca, phusantañca tato phuse;
+       | Tasmā phusantaṃ phusati, appaduṭṭhapadosina’’nti.
+       | 
+       | ‘‘Yo appaduṭṭhassa narassa dussati,
+       | Suddhassa posassa anaṅgaṇassa;
+       | Tameva bālaṃ pacceti pāpaṃ,
+       | Sukhumo rajo paṭivātaṃva khitto’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應22經/ **接觸經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「不接觸沒接觸者_，但之後會接觸接觸者， 
+       | 因此接觸接觸者，那[瞋害]無過誤者的過失者。」 (那瞋害無過誤者的過失者_)
+       | 
+       | 「如果瞋害無過誤的人，清淨無穢的人， 
+       | 惡回到那愚者，如細塵逆風向投擲者。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_23:
+
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **3. Jaṭāsuttaṃ**
+
+       | 23. ‘‘Anto jaṭā bahi jaṭā, jaṭāya jaṭitā pajā;
+       | Taṃ taṃ gotama pucchāmi, ko imaṃ vijaṭaye jaṭa’’nti.
+       | 
+       | ‘‘Sīle patiṭṭhāya naro sapañño, cittaṃ paññañca bhāvayaṃ;
+       | Ātāpī nipako bhikkhu, so imaṃ vijaṭaye jaṭaṃ.
+       | 
+       | ‘‘Yesaṃ rāgo ca doso ca, avijjā ca virājitā;
+       | Khīṇāsavā arahanto, tesaṃ vijaṭitā jaṭā.
+       | 
+       | ‘‘Yattha nāmañca rūpañca, asesaṃ uparujjhati;
+       | Paṭighaṃ rūpasaññā ca, etthesā chijjate [vijaṭe (ka.)] jaṭā’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應23經/ **結縛經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「內結縛、外結縛_，世代糾結在結縛中， 
+       | 我問你這個，喬達摩_！誰能解開這結縛？」 
+       | 
+       | 「人在戒上確立後，有慧的，修習著心與慧_， 
+       | 熱心、明智的 比丘_，他能解開這結縛。 
+       | 
+       | 凡已離貪、瞋、無明_ 之染者， 
+       | 煩惱已盡的 阿羅漢_，他們的結縛已被解開。 
+       | 
+       | 所有名與色之處，被破壞無餘， 
+       | 有對與色想_，那結縛在這裡被切斷。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_24:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **4. Manonivāraṇasuttaṃ**
+
+       | 24. ‘‘Yato yato mano nivāraye,
+       | Na dukkhameti naṃ tato tato;
+       | Sa sabbato mano nivāraye,
+       | Sa sabbato dukkhā pamuccati’’.
+       | 
+       | ‘‘Na sabbato mano nivāraye,
+       | Na mano saṃyatattamāgataṃ;
+       | Yato yato ca pāpakaṃ,
+       | Tato tato mano nivāraye’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應24經/ **意的制止經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「從能制止意處，從那裡苦不來找他， 
+       | 如果他從一切制止意，他從一切苦解脫。」 
+       | 
+       | 「如果不從一切制止意，不達到意的被抑制， 
+       | 從惡之處，從那裡應該制止意。」 (參考：`附註 <#sn1_24_chuang_note>`__ )
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_25:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **5. Arahantasuttaṃ**
+
+       | 25. ‘‘Yo hoti bhikkhu arahaṃ katāvī,
+       | Khīṇāsavo antimadehadhārī;
+       | Ahaṃ vadāmītipi so vadeyya,
+       | Mamaṃ vadantītipi so vadeyyā’’ti.
+       | 
+       | ‘‘Yo hoti bhikkhu arahaṃ katāvī,
+       | Khīṇāsavo antimadehadhārī;
+       | Ahaṃ vadāmītipi so vadeyya,
+       | Mamaṃ vadantītipi so vadeyya;
+       | Loke samaññaṃ kusalo viditvā,
+       | Vohāramattena so [sa (?)] vohareyyā’’ti.
+       | 
+       | ‘‘Yo hoti bhikkhu arahaṃ katāvī,
+       | Khīṇāsavo antimadehadhārī;
+       | Mānaṃ nu kho so upagamma bhikkhu,
+       | Ahaṃ vadāmītipi so vadeyya;
+       | Mamaṃ vadantītipi so vadeyyā’’ti.
+       | 
+       | ‘‘Pahīnamānassa na santi ganthā,
+       | Vidhūpitā mānaganthassa sabbe;
+       | Sa vītivatto maññataṃ [mānanaṃ (sī.), maññītaṃ (?)] sumedho,
+       | Ahaṃ vadāmītipi so vadeyya.
+       | 
+       | ‘‘Mamaṃ vadantītipi so vadeyya;
+       | Loke samaññaṃ kusalo viditvā;
+       | Vohāramattena so vohareyyā’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應25經/ **阿羅漢經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「凡 比丘_ 是 阿羅漢_，已做完、煩惱已盡、持有最後身者， 
+       | 　他也會說：『我說』嗎？他也會說：『他們對我說』嗎？」 
+       | 
+       | 「凡比丘是阿羅漢，已做完、煩惱已盡、持有最後身者， 
+       | 　他也會說：『我說』，他也會說：『他們對我說』， 
+       | 　善知世間上的名稱後，他會只以慣用語的程度說_。」 
+       | 
+       | 「凡比丘是阿羅漢，已做完、煩惱已盡、持有最後身者， 
+       | 　那比丘走近慢後，他也會說：『我說』嗎？他也會說：『他們對我說』嗎？」 
+       | 
+       | 「對已捨斷慢者沒有繫縛，一切慢的繫縛都被破壞， 
+       | 　善慧者他已超越了 思量_，他也會說：『我說』，他也會說：『他們對我說』， 
+       | 　善知世間上的名稱後，他會只以慣用語的程度說。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_26:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **6. Pajjotasuttaṃ**
+
+       | 26. ‘‘Kati lokasmiṃ pajjotā, yehi loko pakāsati [pabhāsati (ka. sī.)];
+       | Bhagavantaṃ [bhavantaṃ (ka.)] puṭṭhumāgamma, kathaṃ jānemu taṃ maya’’nti.
+       | 
+       | ‘‘Cattāro loke pajjotā, pañcamettha na vijjati;
+       | Divā tapati ādicco, rattimābhāti candimā.
+       | 
+       | ‘‘Atha aggi divārattiṃ, tattha tattha pakāsati;
+       | Sambuddho tapataṃ seṭṭho, esā ābhā anuttarā’’ti.
+
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應26經/ **燈火經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「世間中有多少燈火，經由它們而世間變得明亮？ 
+       | 　我們來問 世尊_，我們應該如何理解它？」 
+       | 
+       | 「世間中有四種燈火，第五種沒被發現， 
+       | 　太陽在白天照亮，月亮在晚上發亮， 
+       | 　而火，在白天與晚上，到處變得明亮， 
+       | 　正覺者是照亮者中最勝的，那是無上的光明。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_27:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **7. Sarasuttaṃ**
+
+       | 27. ‘‘Kuto sarā nivattanti, kattha vaṭṭaṃ na vattati;
+       | Kattha nāmañca rūpañca, asesaṃ uparujjhatī’’ti.
+       | 
+       | ‘‘Yattha āpo ca pathavī, tejo vāyo na gādhati;
+       | Ato sarā nivattanti, ettha vaṭṭaṃ na vattati;
+       | Ettha nāmañca rūpañca, asesaṃ uparujjhatī’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應27經/ **溪流經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「溪流_ 從何處折回？輪轉在何處不轉？ 
+       | 　名與色在何處，被破壞無餘？」 
+       | 
+       | 「水、地、火、風無立足之處， 
+       | 　從那以後溪流折回，在這裡輪轉不轉， 
+       | 　在這裡名與色，被破壞無餘。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_28:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **8. Mahaddhanasuttaṃ**
+
+       | 28. ‘‘Mahaddhanā mahābhogā, raṭṭhavantopi khattiyā;
+       | Aññamaññābhigijjhanti, kāmesu analaṅkatā.
+       | 
+       | ‘‘Tesu ussukkajātesu, bhavasotānusārisu;
+       | Kedha taṇhaṃ [rodhataṇhaṃ (syā. kaṃ.), gedhataṇhaṃ (ka.)] pajahiṃsu [pavāhiṃsu (syā. kaṃ. ka.)], ke lokasmiṃ anussukā’’ti.
+
+       | ‘‘Hitvā agāraṃ pabbajitā, hitvā puttaṃ pasuṃ viyaṃ;
+       | Hitvā rāgañca dosañca, avijjañca virājiya;
+       | Khīṇāsavā arahanto, te lokasmiṃ anussukā’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應28經/ **大富者經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「大富者與大財富者們，甚至 擁有國家的剎帝利_ 族， 
+       | 　相互貪求，在欲上不滿足。 
+       | 　在那些生起貪欲者中_；在隨有之流流動者中_， 
+       | 　這裡，誰捨斷了渴愛？誰是世間中無貪欲者？」 
+       | 
+       | 「捨家後出家；捨子與家畜後； 
+       | 　捨貪與瞋後；已掃蕩 無明_ 後， 
+       | 　煩惱已盡的 阿羅漢_，他們是世間中無貪欲者。」
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_29:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **9. Catucakkasuttaṃ**
+
+       | 29. ‘‘Catucakkaṃ navadvāraṃ, puṇṇaṃ lobhena saṃyutaṃ;
+       | Paṅkajātaṃ mahāvīra, kathaṃ yātrā bhavissatī’’ti.
+       | 
+       | ‘‘Chetvā naddhiṃ varattañca, icchā lobhañca pāpakaṃ;
+       | Samūlaṃ taṇhamabbuyha, evaṃ yātrā bhavissatī’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應29經/ **四輪經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「有 四輪與九門_，被貪欲充滿與連結， 
+       | 　泥沼所生_，大英雄！要如何逃離？」 
+       | 
+       | 「切斷皮帶與皮繩_，及邪惡的欲求與貪欲後， 
+       | 　連根拔除了渴愛，要這樣逃離。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_30:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **10. Eṇijaṅghasuttaṃ**
+
+       | 30. ‘‘Eṇijaṅghaṃ kisaṃ vīraṃ, appāhāraṃ alolupaṃ;
+       | Sīhaṃ vekacaraṃ nāgaṃ, kāmesu anapekkhinaṃ;
+       | Upasaṅkamma pucchāma, kathaṃ dukkhā pamuccatī’’ti.
+       | 
+       | ‘‘Pañca kāmaguṇā loke, manochaṭṭhā paveditā;
+       | Ettha chandaṃ virājetvā, evaṃ dukkhā pamuccatī’’ti.
+       | 
+       | Sattivaggo tatiyo.
+       | 
+       | Tassuddānaṃ –
+       | 
+       | Sattiyā phusati ceva, jaṭā manonivāraṇā;
+       | Arahantena pajjoto, sarā mahaddhanena ca;
+       | Catucakkena navamaṃ, eṇijaṅghena te dasāti.
+
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應30經/ **如鹿小腿經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「如鹿小腿_ 瘦的英雄，不動貪的少食者， 
+       | 　如獅子或龍的獨行者，對於欲不期待者， 
+       | 　我們來詢問，如何被從苦釋放？」 
+       | 
+       | 「世間上的 五種欲_，意被宣說為第六_， 
+       | 　在這裡離欲後，這樣是被從苦釋放。」 
+       | 
+       | 劍品第三，其 攝頌_： 
+       | 
+       | 「劍與接觸，結縛、意的制止， 
+       | 　阿羅漢與燈火，溪流與大富者， 
+       | 以四輪為第九，與如鹿小腿，它們為十則。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. list-table:: Devatā-saṃyutta 諸天相應
+
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN 1. 1 ~ SN 1. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN 1. 11 ~ SN 1. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN 1. 21 ~ SN 1. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN 1. 31 ~ SN 1. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN 1. 41 ~ SN 1. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN 1. 51 ~ SN 1. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN 1. 61 ~ SN 1. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN 1. 71 ~ SN 1. 81)
+
+Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
+++++++++++++++++++++++++++++++++++++++++++
+
+.. _sn1_31:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **4. Satullapakāyikavaggo**
+
+       **1. Sabbhisuttaṃ**
+
+       31. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Sabbhireva samāsetha, sabbhi kubbetha [krubbetha (ka.)] santhavaṃ;
+       | Sataṃ saddhammamaññāya, seyyo hoti na pāpiyo’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+       | 
+       | ‘‘Sabbhireva samāsetha, sabbhi kubbetha santhavaṃ;
+       | Sataṃ saddhammamaññāya, paññā labbhati [paññaṃ labhati (syā. kaṃ.)] nāññato’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+       | 
+       | ‘‘Sabbhireva samāsetha, sabbhi kubbetha santhavaṃ;
+       | Sataṃ saddhammamaññāya, sokamajjhe na socatī’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+       | 
+       | ‘‘Sabbhireva samāsetha, sabbhi kubbetha santhavaṃ;
+       | Sataṃ saddhammamaññāya, ñātimajjhe virocatī’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+       | 
+       | ‘‘Sabbhireva samāsetha, sabbhi kubbetha santhavaṃ;
+       | Sataṃ saddhammamaññāya, sattā gacchanti suggati’’nti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+       | 
+       | ‘‘Sabbhireva samāsetha, sabbhi kubbetha santhavaṃ;
+       | Sataṃ saddhammamaññāya, sattā tiṭṭhanti sātata’’nti.
+       | 
+       | Atha kho aparā devatā bhagavantaṃ etadavoca – ‘‘kassa nu kho, bhagavā, subhāsita’’nti? Sabbāsaṃ vo subhāsitaṃ pariyāyena, api ca mamapi suṇātha –
+       | 
+       | ‘‘Sabbhireva samāsetha, sabbhi kubbetha santhavaṃ;
+       | Sataṃ saddhammamaññāya, sabbadukkhā pamuccatī’’ti.
+       | 
+       | Idamavoca bhagavā. Attamanā tā devatāyo bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyiṃsūti.
+
+   * - 漢譯((莊春江) [2]_
+     - 4. **沙睹羅巴眾品**
+
+       相應部1相應31經/ **與善人們經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       我聽到這樣_： 
+
+       有一次_，世尊_ 住在舍衛城祇樹林給孤獨園。 
+
+       那時，當夜已深時，容色絕佳的眾多屬於沙睹羅巴眾天神使整個祇樹林發光後，去見世尊。抵達後，向世尊 問訊_，接著在一旁站立。在一旁站好後，一位天神在世尊面前說這 偈頌_： 
+
+       | 「應該與善人們結交，應該與善人們作親密交往， 
+       | 　了知善的正法後，成為更好的而非惡的。」 
+       | 
+       | 那時，另一位天神在世尊面前說這偈頌： 
+       | 
+       | 「應該與善人們結交，應該與善人們作親密交往， 
+       | 　了知善的正法後，慧被得到而非從其他的。」 
+       | 
+       | 那時，另一位天神在世尊面前說這偈頌： 
+       | 
+       | 「應該與善人們結交，應該與善人們作親密交往， 
+       | 　了知善的正法後，不在愁中憂愁。」 
+       | 
+       | 那時，另一位天神在世尊面前說這偈頌： 
+       | 
+       | 「應該與善人們結交，應該與善人們作親密交往， 
+       | 　了知善的正法後，在親族中輝耀。」 
+       | 
+       | 那時，另一位天神在世尊面前說這偈頌： 
+       | 
+       | 「應該與善人們結交，應該與善人們作親密交往， 
+       | 　了知善的正法後，眾生到 善趣_。」 
+       | 
+       | 那時，另一位天神在世尊面前說這偈頌： 
+       | 
+       | 「應該與善人們結交，應該與善人們作親密交往， 
+       | 　了知善的正法後，眾生滿意地住立。」 
+       | 
+       | 那時，另一位天神對世尊這麼說： 
+       | 
+       | 「世尊！誰的被善說了呢？」 
+       | 「這一切都被你們的法門善說，但你們也聽我說： 
+       | 『應該與善人們結交，應該與善人們作親密交往， 
+       | 　了知善的正法後，解脫一切苦。』」 
+       | 
+
+       這就是世尊所說，那些悅意的天神向世尊問訊，然後 作右繞_，接著就在那裡消失了。 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_32:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **2. Maccharisuttaṃ**
+
+       | 32. Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+       | ‘‘Maccherā ca pamādā ca, evaṃ dānaṃ na dīyati [diyyati (ka.)];
+       | Puññaṃ ākaṅkhamānena, deyyaṃ hoti vijānatā’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imā gāthāyo abhāsi –
+       | 
+       | ‘‘Yasseva bhīto na dadāti maccharī, tadevādadato bhayaṃ;
+       | Jighacchā ca pipāsā ca, yassa bhāyati maccharī;
+       | Tameva bālaṃ phusati, asmiṃ loke paramhi ca.
+       | ‘‘Tasmā vineyya maccheraṃ, dajjā dānaṃ malābhibhū;
+       | Puññāni paralokasmiṃ, patiṭṭhā honti pāṇina’’nti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imā gāthāyo abhāsi –
+       | 
+       | ‘‘Te matesu na mīyanti, panthānaṃva sahabbajaṃ;
+       | Appasmiṃ ye pavecchanti, esa dhammo sanantano.
+       | ‘‘Appasmeke pavecchanti, bahuneke na dicchare;
+       | Appasmā dakkhiṇā dinnā, sahassena samaṃ mitā’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imā gāthāyo abhāsi –
+       | 
+       | ‘‘Duddadaṃ dadamānānaṃ, dukkaraṃ kamma kubbataṃ;
+       | Asanto nānukubbanti, sataṃ dhammo duranvayo [durannayo (sī.)].
+       | ‘‘Tasmā satañca asataṃ [asatañca (sī. syā. kaṃ.)], nānā hoti ito gati;
+       | Asanto nirayaṃ yanti, santo saggaparāyanā’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike etadavoca – ‘‘kassa nu kho, bhagavā, subhāsita’’nti?
+       | 
+       | ‘‘Sabbāsaṃ vo subhāsitaṃ pariyāyena; api ca mamapi suṇātha –
+       | 
+       | ‘‘Dhammaṃ care yopi samuñjakaṃ care,
+       | Dārañca posaṃ dadamappakasmiṃ;
+       | Sataṃ sahassānaṃ sahassayāginaṃ,
+       | Kalampi nāgghanti tathāvidhassa te’’ti.
+       | 
+       | Atha kho aparā devatā bhagavantaṃ gāthāya ajjhabhāsi –
+       | 
+       | ‘‘Kenesa yañño vipulo mahaggato,
+       | Samena dinnassa na agghameti;
+       | Kathaṃ [idaṃ padaṃ katthaci sīhaḷapotthake natthi] sataṃ sahassānaṃ sahassayāginaṃ,
+       | Kalampi nāgghanti tathāvidhassa te’’ti.
+       | 
+       | ‘‘Dadanti heke visame niviṭṭhā,
+       | Chetvā vadhitvā atha socayitvā;
+       | Sā dakkhiṇā assumukhā sadaṇḍā,
+       | Samena dinnassa na agghameti.
+       | 
+       | ‘‘Evaṃ sataṃ sahassānaṃ sahassayāginaṃ;
+       | Kalampi nāgghanti tathāvidhassa te’’ti.
+
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應32經/ **慳吝經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       有一次_，世尊_ 住在舍衛城祇樹林給孤獨園。 
+
+       那時，當夜已深時，容色絕佳的眾多屬於沙睹羅巴眾天神使整個祇樹林發光後，去見世尊。抵達後，向世尊 問訊_，接著在一旁站立。在一旁站好後，一位天神在世尊面前說這 偈頌_： 
+
+       | 「以慳吝與放逸，這樣，布施不被施與， 
+       | 希望福德，了知者應該施與施物。」 
+
+       那時，另一位天神在世尊面前說這些偈頌： 
+
+       | 「當不施與時，慳吝者害怕，對那不施與者就有恐怖， 
+       | 飢餓與口渴，慳吝者害怕， 
+       | 那愚者接觸，在此世間與下一個中。 
+       | 因此，排除慳吝後，垢穢的征服者應該施與布施， 
+       | 福德是下一個世間中，有生命者之所依。」 
+
+       那時，另一位天神在世尊面前說這些偈頌： 
+
+       | 「他們在死者中不死_，像道路的同行者， 
+       | 他們在微少中施與，這是古法。 
+       | 一些在微少中施與，一些在許多中不想施與， 
+       | 微少 供養_之所施，等同千倍之量。」 
+
+       那時，另一位天神在世尊面前說這些偈頌： 
+
+       | 「施與難施與的，要作難做的業， 
+       | 不善的不模仿，正法難跟隨。 
+       | 因此，善的、不善的，從這裡有種種 趣處_， 
+       | 不善的去地獄，善的是天界趣處。」 
+
+       那時，另一位天神在世尊面前這麼說： 
+
+       | 「世尊！誰的被善說了呢？」 
+       | 「這一切都被你們的法門善說，但你們也聽我說： 
+       | 『如果行法者以撿拾過活， 
+       | 有妻子要扶養，在微少中施與。 
+       | [施] 百千千供養者_， 
+       | 他們不值像那樣的 十六分之一_。』」 
+
+       那時，另一位天神以偈頌對世尊這麼說： 
+
+       | 「為何廣大的牲祭，不值正者之所施？ 
+       | 為何[施]百千千供養者， 
+       | 他們不值像他那樣的十六分之一？」 
+       | 
+       | 「因為一些住立在不正之上施與，切斷、殺害、使之憂愁後。 
+       | 那些淚滿面的、有懲罰的供養，不值正者之所施。 
+       | 這樣，[施]百千千供養者， 
+       | 他們不值像他那樣的十六分之一。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_33:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **3. Sādhusuttaṃ**
+
+       33. Sāvatthinidānaṃ . Atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ udānaṃ udānesi –
+
+       | ‘‘Sādhu kho, mārisa, dānaṃ;
+       | Maccherā ca pamādā ca, evaṃ dānaṃ na dīyati;
+       | Puññaṃ ākaṅkhamānena, deyyaṃ hoti vijānatā’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi –
+       | 
+       | ‘‘Sādhu kho, mārisa, dānaṃ;
+       | Api ca appakasmimpi sāhu dānaṃ’’.
+       | 
+       | ‘‘Appasmeke pavecchanti, bahuneke na dicchare;
+       | Appasmā dakkhiṇā dinnā, sahassena samaṃ mitā’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi –
+       | 
+       | ‘‘Sādhu kho, mārisa, dānaṃ; appakasmimpi sāhu dānaṃ;
+       | Api ca saddhāyapi sāhu dānaṃ’’.
+       | 
+       | ‘‘Dānañca yuddhañca samānamāhu,
+       | Appāpi santā bahuke jinanti;
+       | Appampi ce saddahāno dadāti,
+       | Teneva so hoti sukhī paratthā’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi –
+       | 
+       | ‘‘Sādhu kho, mārisa, dānaṃ; appakasmimpi sāhu dānaṃ;
+       | Saddhāyapi sāhu dānaṃ; api ca dhammaladdhassāpi sāhu dānaṃ’’.
+       | 
+       | ‘‘Yo dhammaladdhassa dadāti dānaṃ,
+       | Uṭṭhānavīriyādhigatassa jantu;
+       | Atikkamma so vetaraṇiṃ yamassa,
+       | Dibbāni ṭhānāni upeti macco’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi –
+       | 
+       | ‘‘Sādhu kho, mārisa, dānaṃ; appakasmimpi sāhu dānaṃ;
+       | Saddhāyapi sāhu dānaṃ; dhammaladdhassāpi sāhu dānaṃ;
+       | Api ca viceyya dānampi sāhu dānaṃ’’.
+       | 
+       | ‘‘Viceyya dānaṃ sugatappasatthaṃ,
+       | Ye dakkhiṇeyyā idha jīvaloke;
+       | Etesu dinnāni mahapphalāni,
+       | Bījāni vuttāni yathā sukhette’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi –
+       | 
+       | ‘‘Sādhu kho, mārisa, dānaṃ; appakasmimpi sāhu dānaṃ;
+       | Saddhāyapi sāhu dānaṃ; dhammaladdhassāpi sāhu dānaṃ;
+       | Viceyya dānampi sāhu dānaṃ; api ca pāṇesupi sādhu saṃyamo’’.
+       | 
+       | ‘‘Yo pāṇabhūtāni [pāṇabhūtesu (sī. pī.)] aheṭhayaṃ caraṃ,
+       | Parūpavādā na karonti pāpaṃ;
+       | Bhīruṃ pasaṃsanti na hi tattha sūraṃ,
+       | Bhayā hi santo na karonti pāpa’’nti.
+       | 
+       | Atha kho aparā devatā bhagavantaṃ etadavoca – ‘‘kassa nu kho, bhagavā, subhāsita’’nti?
+       | 
+       | ‘‘Sabbāsaṃ vo subhāsitaṃ pariyāyena, api ca mamapi suṇātha –
+       | 
+       | ‘‘Saddhā hi dānaṃ bahudhā pasatthaṃ,
+       | Dānā ca kho dhammapadaṃva seyyo;
+       | Pubbe ca hi pubbatare ca santo,
+       | Nibbānamevajjhagamuṃ sapaññā’’ti.
+
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應33經/ **好經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       起緣於舍衛城。 
+
+       那時，當夜已深時，容色絕佳的眾多屬於沙睹羅巴眾天神使整個祇樹林發光後，去見世尊。抵達後，向世尊 問訊_，接著在一旁站立。在一旁站好後，一位天神在世尊面前自說這優陀那： 
+
+       | 「親愛的先生_！布施 好_！ 
+       | 　以慳吝與放逸，這樣，布施不被給與， 
+       | 　希望福德，了知者應該施與施物。」 
+       | 
+       | 那時，另一位天神在世尊面前自說這優陀那： 
+       | 
+       | 「親愛的先生！布施好！即使任何少量，布施好！ 
+       | 　一些在微少中施與，一些在許多中不想施與， 
+       | 　微少 供養_ 之所施，等同千倍之量。」 
+       | 
+       | 那時，另一位天神在世尊面前自說這優陀那： 
+       | 
+       | 「親愛的先生！布施好！[只]有少量者的布施好！又，以信的布施好！ 
+       | 　布施與戰爭是相同的，少數好的打勝眾多的， 
+       | 　如果有信者施與少量，就因此他在來世是安樂者。」 
+       | 
+       | 那時，另一位天神在世尊面前自說這優陀那： 
+       | 
+       | 「親愛的先生！布施好！[只]有少量者的布施好！ 
+       | 　以信的布施好！又，如法所得的_ 布施好！ 
+       | 　凡施與如法所得的、以活力的努力如法所得的布施之人， 
+       | 　他超越閻摩王的[地獄]灰河後，死後往生到天的住處。」 
+       | 
+       | 那時，另一位天神在世尊面前自說這優陀那： 
+       | 
+       | 「親愛的先生！布施好！[只]有少量者的布施好！ 
+       | 　以信的布施好！如法所得的布施好！又，簡別施_ 的布施好！ 
+       | 　簡別施被 善逝_ 稱讚，在這裡，在生命的世界中的應該被供養者， 
+       | 　關於這些的布施有大果，如種子被播種在良田中。」 
+       | 
+       | 那時，另一位天神在世尊面前自說這優陀那： 
+       | 
+       | 「親愛的先生！布施好！[只]有少量者的布施好！ 
+       | 　以信的布施好！如法所得的布施好！ 
+       | 　簡別施的布施，好！又，對生命類[自我]抑制，好！ 
+       | 　凡對生物行不惱害者，他們不作被他人指責的惡， 
+       | 　在那裡，他們讚賞膽小者而非英雄，因為善人以害怕而不作惡。」 
+       | 
+       | 那時，另一位天神在世尊面前這麼說： 
+       | 
+       | 「世尊！誰的被善說了呢？」 
+       | 「這一切都被你們的法門善說，但你們也聽我說： 
+       | 　布施 確實_ 被許多方式稱讚，但 法足_ 比布施更善， 
+       | 因為在以前與更早以前，有慧的善人就證得涅槃。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_34:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **4. Nasantisuttaṃ**
+
+       34. Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Na santi kāmā manujesu niccā,
+       | Santīdha kamanīyāni yesu [kāmesu (ka.)] baddho;
+       | Yesu pamatto apunāgamanaṃ,
+       | Anāgantā puriso maccudheyyā’’ti.
+       | 
+       | ‘‘Chandajaṃ aghaṃ chandajaṃ dukkhaṃ;
+       | Chandavinayā aghavinayo;
+       | Aghavinayā dukkhavinayo’’ti.
+       | 
+       | ‘‘Na te kāmā yāni citrāni loke,
+       | Saṅkapparāgo purisassa kāmo;
+       | Tiṭṭhanti citrāni tatheva loke,
+       | Athettha dhīrā vinayanti chandaṃ.
+       | 
+       | ‘‘Kodhaṃ jahe vippajaheyya mānaṃ,
+       | Saṃyojanaṃ sabbamatikkameyya;
+       | Taṃ nāmarūpasmimasajjamānaṃ,
+       | Akiñcanaṃ nānupatanti dukkhā.
+       | 
+       | ‘‘Pahāsi saṅkhaṃ na vimānamajjhagā [na ca mānamajjhagā (ka. sī.), na vimānamāgā (syā. kaṃ.)],
+       | Acchecchi taṇhaṃ idha nāmarūpe;
+       | Taṃ chinnaganthaṃ anighaṃ nirāsaṃ,
+       | Pariyesamānā nājjhagamuṃ;
+       | Devā manussā idha vā huraṃ vā,
+       | Saggesu vā sabbanivesanesū’’ti.
+       | 
+       | ‘‘Taṃ ce hi nāddakkhuṃ tathāvimuttaṃ (iccāyasmā mogharājā),
+       | Devā manussā idha vā huraṃ vā;
+       | Naruttamaṃ atthacaraṃ narānaṃ,
+       | Ye taṃ namassanti pasaṃsiyā te’’ti.
+       | 
+       | ‘‘Pasaṃsiyā tepi bhavanti bhikkhū (mogharājāti bhagavā),
+       | Ye taṃ namassanti tathāvimuttaṃ;
+       | Aññāya dhammaṃ vicikicchaṃ pahāya,
+       | Saṅgātigā tepi bhavanti bhikkhū’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應34經/ **沒有經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       有一次_，世尊_ 住在舍衛城祇樹林給孤獨園。 
+
+       那時，當夜已深時，容色絕佳的眾多屬於沙睹羅巴眾天神使整個祇樹林發光後，去見世尊。抵達後，向世尊 問訊_ ，接著在一旁站立。在一旁站好後，一位天神在世尊面前說這 偈頌_： 
+
+       | 「在人中，沒有欲是常的，這裡，只有可愛的[事物]，當被那些束縛時， 
+       | 　在那些放逸者中，男子不來到從死亡領域的不再來者。」 
+       | 
+       | 「痛苦_ 被欲生；苦被欲生， 
+       | 　以欲的調伏而有痛苦的調伏， 
+       | 　以痛苦的調伏而有苦的調伏。」 
+       | 
+       | 「凡世間中 美的_，它們不是欲，男子的欲是 貪的意向_， 
+       | 　世間中美的就只如實地住立，而慧者在這裡調伏欲。 
+       | 　應該捨棄憤怒，應該放棄慢，應該超越一切結， 
+       | 　他對名色不執著，無所有者_ 苦不降臨。 
+       | 　他捨斷名稱，不來到慢，這裡，他對名色切斷渴愛， 
+       | 　束縛已被切斷，無煩惱、無欲者，諸天與人們遍求他而不得： 
+       | 　這裡或他處，在天界或一切住處中。」 
+       | 
+       | (尊者_ 摩加拉奢：) 
+       | 「如果諸天與人們沒看見他，像這樣的解脫者， 
+       | 　這裡或他處， 
+       | 　最上的人、對人們的利益之行者，凡那些禮敬著他者是應該被讚賞的。」 
+       | 
+       | (世尊：「摩加拉奢！」) 
+       | 「那些 比丘_ 也是應該讚賞的，凡禮敬著像這樣的解脫者， 
+       | 　了知法，捨斷疑後， 
+       | 那些比丘也是已超越執著者。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_35:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **5. Ujjhānasaññisuttaṃ**
+
+       35. Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho sambahulā ujjhānasaññikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā vehāsaṃ aṭṭhaṃsu. Vehāsaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Aññathā santamattānaṃ, aññathā yo pavedaye;
+       | Nikacca kitavasseva, bhuttaṃ theyyena tassa taṃ.
+       | 
+       | ‘‘Yañhi kayirā tañhi vade, yaṃ na kayirā na taṃ vade;
+       | Akarontaṃ bhāsamānānaṃ, parijānanti paṇḍitā’’ti.
+       | 
+       | ‘‘Na yidaṃ bhāsitamattena, ekantasavanena vā;
+       | Anukkamitave sakkā, yāyaṃ paṭipadā daḷhā;
+       | Yāya dhīrā pamuccanti, jhāyino mārabandhanā.
+       | 
+       | ‘‘Na ve dhīrā pakubbanti, viditvā lokapariyāyaṃ;
+       | Aññāya nibbutā dhīrā, tiṇṇā loke visattika’’nti.
+       | Atha kho tā devatāyo pathaviyaṃ patiṭṭhahitvā bhagavato pādesu sirasā nipatitvā bhagavantaṃ etadavocuṃ – ‘‘accayo no, bhante, accagamā yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ [yathābālā yathāmūḷhā yathāakusalā (sabbattha)], yā mayaṃ bhagavantaṃ āsādetabbaṃ amaññimhā. Tāsaṃ no, bhante, bhagavā accayaṃ accayato paṭiggaṇhātu āyatiṃ saṃvarāyā’’ti. Atha kho bhagavā sitaṃ pātvākāsi. Atha kho tā devatāyo bhiyyosomattāya ujjhāyantiyo vehāsaṃ abbhuggañchuṃ. Ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+       | 
+       | ‘‘Accayaṃ desayantīnaṃ, yo ce na paṭigaṇhati;
+       | Kopantaro dosagaru, sa veraṃ paṭimuñcatī’’ti.
+       | 
+       | ‘‘Accayo ce na vijjetha, nocidhāpagataṃ [nocīdha apahataṃ (syā. kaṃ.), nocidhāpakataṃ (?)] siyā;
+       | Verāni na ca sammeyyuṃ, kenīdha [verāni ca sammeyyuṃ, tenidha (sī.)] kusalo siyā’’ti.
+       | 
+       | ‘‘Kassaccayā na vijjanti, kassa natthi apāgataṃ;
+       | Ko na sammohamāpādi, ko ca dhīro [kodha dhīro (syā. kaṃ.)] sadā sato’’ti.
+       | 
+       | ‘‘Tathāgatassa buddhassa, sabbabhūtānukampino;
+       | Tassaccayā na vijjanti, tassa natthi apāgataṃ;
+       | So na sammohamāpādi, sova [sodha (syā. kaṃ.)] dhīro sadā sato’’ti.
+       | 
+       | ‘‘Accayaṃ desayantīnaṃ, yo ce na paṭigaṇhati;
+       | Kopantaro dosagaru, sa veraṃ paṭimuñcati;
+       | Taṃ veraṃ nābhinandāmi, paṭiggaṇhāmi voccaya’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應35經/ **挑毛病經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       有一次_，世尊_ 住在舍衛城祇樹林給孤獨園。 
+
+       那時，當夜已深時，容色絕佳的眾多 挑毛病_ 天神使整個祇樹林發光後，去見世尊。抵達後，站在空中。 
+
+       在空中站好後，一位挑毛病天神在世尊面前說這 偈頌_： 
+
+       | 「對自己是一種方式，卻以另一種方式讓別人知道， 
+       | 　他以偷盜所受用的，如那詐賭的賭徒。」 
+       | 
+       | 「應該說他所作的，不應該說他所沒作的， 
+       | 　對說而不做者，賢智者 遍知_。」 
+       | 
+       | 「非僅以說，或單以聽聞， 
+       | 　能夠進入這堅固的道跡， 
+       | 　慧者、禪修者依此，從魔的束縛解脫。 
+       | 　確實，慧者不執行，知道世間法門後， 
+       | 　慧者以 完全智_ 寂滅，已渡對世間的執著。」 
+       | 
+
+       那時，那些天神站到地上後，以頭落在世尊的腳上，然後對世尊這麼說： 
+
+       「大德_！我們犯了過錯，如愚者、如愚昧者、如不善者：我們認為能攻擊世尊。大德！為了未來的 自制_，請世尊原諒我們那樣的罪過為罪過。」 
+
+       | 那時，世尊出現微笑。 
+       | 
+       | 那時，那些天神升上空中，變得更加挑毛病。 
+       | 
+       | 一位挑毛病天神在世尊面前說這偈頌： 
+       | 
+       | 「對懺悔罪過者們，如果不接受者， 
+       | 　更憤怒、嚴重的瞋恚，他存敵意。」 
+       | 
+       | 「如果你們不存在罪過，這裡，如果沒有走入歧途， 
+       | 　如果敵意不被平息，這裡，誰會是善的？」 
+       | 
+       | 「誰不存在罪過？誰沒有走入歧途？ 
+       | 　誰不來到迷妄？誰是經常正念的慧者？」 
+       | 
+       | 「如來、佛陀，一切生存類的憐愍者， 
+       | 　他不存在罪過，他沒有走入歧途， 
+       | 　他不走向迷妄，他是經常正念的慧者。 
+       | 　對懺悔罪過者們，如果不接受者， 
+       | 　更憤怒、嚴重的瞋恚，他存敵意， 
+       | 　那敵意我不歡喜，我原諒你們的罪過。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_36:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **6. Saddhāsuttaṃ**
+
+       36. Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Saddhā dutiyā purisassa hoti,
+       | No ce assaddhiyaṃ avatiṭṭhati;
+       | Yaso ca kittī ca tatvassa hoti,
+       | Saggañca so gacchati sarīraṃ vihāyā’’ti.
+       | Atha kho aparā devatā bhagavato santike imā gāthāyo abhāsi –
+       | 
+       | ‘‘Kodhaṃ jahe vippajaheyya mānaṃ,
+       | Saṃyojanaṃ sabbamatikkameyya;
+       | Taṃ nāmarūpasmimasajjamānaṃ,
+       | Akiñcanaṃ nānupatanti saṅgā’’ti.
+       | 
+       | ‘‘Pamādamanuyuñjanti , bālā dummedhino janā;
+       | Appamādañca medhāvī, dhanaṃ seṭṭhaṃva rakkhati.
+       | 
+       | ‘‘Mā pamādamanuyuñjetha, mā kāmarati santhavaṃ;
+       | Appamatto hi jhāyanto, pappoti paramaṃ sukha’’ntntti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應36經/ **信經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       有一次_，世尊_ 住在舍衛城祇樹林給孤獨園。 
+
+       那時，當夜已深時，容色絕佳的眾多屬於沙睹羅巴眾天神使整個祇樹林發光後，去見世尊。抵達後，向世尊 問訊_，接著在一旁站立。在一旁站好後，一位天神在世尊面前說這偈頌： 
+
+       | 「信是男子的伴侶，如果不信則不住立， 
+       | 　從此有名聲與名望，離開遺骸後，他到天界。」 
+       | 
+       | 那時，另一位天神在世尊面前說這偈頌： 
+       | 
+       | 「應該捨棄憤怒，應該放棄慢，應該超越一切結， 
+       | 　他對名色不執著，無所有者_ 執著不降臨。」 
+       | 
+       | 「缺乏智慧的愚癡人們，他們從事放逸， 
+       | 　有智慧者保護最上財產的不放逸。」 
+       | 
+       | 「請你們不要從事放逸，不要親近欲與樂， 
+       | 不放逸地修禪，以獲得廣大的安樂。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_37:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **7. Samayasuttaṃ**
+
+       37. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ mahāvane mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṃ dassanāya bhikkhusaṅghañca. Atha kho catunnaṃ suddhāvāsakāyikānaṃ devatānaṃ etadahosi – ‘‘ayaṃ kho bhagavā sakkesu viharati kapilavatthusmiṃ mahāvane mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṃ dassanāya bhikkhusaṅghañca. Yaṃnūna mayampi yena bhagavā tenupasaṅkameyyāma; upasaṅkamitvā bhagavato santike paccekaṃ gāthaṃ [paccekagāthaṃ (sī. syā. kaṃ. pī.)] bhāseyyāmā’’ti.
+
+       Atha kho tā devatā – seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya pasāritaṃ vā bāhaṃ samiñjeyya. Evameva – suddhāvāsesu devesu antarahitā bhagavato purato pāturahesuṃ. Atha kho tā devatā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+
+       | ‘‘Mahāsamayo pavanasmiṃ, devakāyā samāgatā;
+       | Āgatamha imaṃ dhammasamayaṃ, dakkhitāye aparājitasaṅgha’’nti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+       | 
+       | ‘‘Tatra bhikkhavo samādahaṃsu, cittamattano ujukaṃ akaṃsu [ujukamakaṃsu (sī. syā. kaṃ. pī.)];
+       | Sārathīva nettāni gahetvā, indriyāni rakkhanti paṇḍitā’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+       | 
+       | ‘‘Chetvā khīlaṃ chetvā palighaṃ, indakhīlaṃ ūhacca manejā;
+       | Te caranti suddhā vimalā, cakkhumatā sudantā susunāgā’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
+       | 
+       | ‘‘Ye keci buddhaṃ saraṇaṃ gatāse, na te gamissanti apāyabhūmiṃ;
+       | Pahāya mānusaṃ dehaṃ, devakāyaṃ paripūressantī’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應37經/ **集會經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       我聽到這樣_： 
+
+       有一次_，世尊_ 與五百位 比丘_ 全都是 阿羅漢_ 的大比丘 僧團_，共住在釋迦族人的迦毘羅衛城大林中，而從十個世間界的大部分天神，為了見世尊與比丘僧團而集合。 
+
+       那時，四位淨居天的天神心想： 
+
+       「這位世尊與五百位比丘全都是阿羅漢的大比丘僧團，共住在釋迦族人的迦毘羅衛城大林中，而從十個世間界的大部分天神，為了見世尊與比丘僧團而集合，讓我們去見世尊。抵達後，在世尊面前一一說 偈頌_。」 
+
+       抵達後，向世尊 問訊_，接著在一旁站立。 
+
+       那時，那些天神猶如有力氣的男子能伸直彎曲的手臂，或彎曲伸直的手臂那樣[快]地在淨居天消失，出現在世尊面前。 
+
+       那時，那些天神向世尊問訊後，在一旁站立。在一旁站好後，一位天神在世尊面前說這偈頌： 
+ 
+       | 「在叢林中的大集會，天族已集合， 
+       | 　我們已到達這法的集會，為了見不敗的僧團。」 
+       | 那時，另一位天神在世尊面前說這偈頌： 
+       | 
+       | 「在那裡的比丘們 定著_，端正自我的心， 
+       | 　如駕車者握持導引之物，賢智者們守護諸根。」 
+       | 
+       | 那時，另一位天神在世尊面前說這偈頌： 
+       | 
+       | 「切斷 荒蕪_、切斷橫閂後，移除 因陀羅柱_ 後，不 擾動_， 
+       | 　他們以清淨、離垢而行，小龍被 有眼者_ 善調御。」 
+       | 
+       | 那時，另一位天神在世尊面前說這偈頌： 
+       | 
+       | 「凡任何歸依佛者，他們必將不去 苦界_ 之地， 
+       | 捨棄人的身體後，他們必將充滿天眾。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_38:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **8. Sakalikasuttaṃ**
+
+       38. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati maddakucchismiṃ migadāye. Tena kho pana samayena bhagavato pādo sakalikāya [sakkhalikāya (ka.)] khato hoti. Bhusā sudaṃ bhagavato vedanā vattanti sārīrikā vedanā dukkhā tibbā [tippā (sī. syā. kaṃ. pī.)] kharā kaṭukā asātā amanāpā; tā sudaṃ bhagavā sato sampajāno adhivāseti avihaññamāno. Atha kho bhagavā catugguṇaṃ saṅghāṭiṃ paññāpetvā dakkhiṇena passena sīhaseyyaṃ kappeti pāde pādaṃ accādhāya sato sampajāno.
+
+       Atha kho sattasatā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ maddakucchiṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ udānaṃ udānesi – ‘‘nāgo vata, bho, samaṇo gotamo; nāgavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno’’ti.
+
+       | Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi – ‘‘sīho vata, bho, samaṇo gotamo; sīhavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi – ‘‘ājānīyo vata, bho, samaṇo gotamo; ājānīyavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi – ‘‘nisabho vata, bho, samaṇo gotamo; nisabhavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi – ‘‘dhorayho vata, bho, samaṇo gotamo; dhorayhavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi – ‘‘danto vata, bho, samaṇo gotamo; dantavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā sato sampajāno adhivāseti avihaññamāno’’ti.
+       | 
+       | Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi – ‘‘passa samādhiṃ subhāvitaṃ cittañca suvimuttaṃ, na cābhinataṃ na cāpanataṃ na ca sasaṅkhāraniggayhavāritagataṃ [sasaṅkhāraniggayhavāritavataṃ (sī. syā. kaṃ. pī.), sasaṅkhāraniggayhavārivāvataṃ (ka.)]. Yo evarūpaṃ purisanāgaṃ purisasīhaṃ purisaājānīyaṃ purisanisabhaṃ purisadhorayhaṃ purisadantaṃ atikkamitabbaṃ maññeyya kimaññatra adassanā’’ti.
+       | 
+       | ‘‘Pañcavedā sataṃ samaṃ, tapassī brāhmaṇā caraṃ;
+       | Cittañca nesaṃ na sammā vimuttaṃ, hīnattharūpā na pāraṅgamā te.
+       | 
+       | ‘‘Taṇhādhipannā vatasīlabaddhā, lūkhaṃ tapaṃ vassasataṃ carantā;
+       | Cittañca nesaṃ na sammā vimuttaṃ, hīnattharūpā na pāraṅgamā te.
+       | 
+       | ‘‘Na mānakāmassa damo idhatthi, na monamatthi asamāhitassa;
+       | Eko araññe viharaṃ pamatto, na maccudheyyassa tareyya pāra’’nti.
+       | 
+       | ‘‘Mānaṃ pahāya susamāhitatto, sucetaso sabbadhi vippamutto;
+       | Eko araññe viharamappamatto, sa maccudheyyassa tareyya pāra’’ntntti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應38經/ **碎石片經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       我聽到這樣_： 
+
+       有一次_，世尊_ 住在王舍城嘛瘩姑七的鹿野苑。 
+
+       當時，世尊的腳被 碎石片_ 所割傷，世尊的強烈感受轉起：苦的、激烈的、猛烈的、辛辣的、不愉快的、不合意的身體感受，世尊正念、正知忍受它，不被惱害。 
+
+       那時，世尊將大衣摺成四折後，以右脅作獅子臥_，將[左]腳放在[右]腳上，正念、正知。 
+
+       那時，當夜已深時，容色絕佳的七百位屬於沙睹羅巴眾天神使整個嘛瘩姑七發光後，去見世尊。抵達後，向世尊 問訊_，接著在一旁站立。在一旁站好後，一位天神在世尊面前自說這 優陀那_： 
+       
+       「先生_！沙門_ 喬達摩確實是龍，當生起苦的、激烈的、猛烈的、辛辣的、不愉快的、不合意的身體感受時，以龍的儀法而正念、正知忍受它，不被惱害。」 
+       
+       那時，另一位天神在世尊面前自說這優陀那： 
+       
+       「先生！沙門喬達摩確實是獅子，當生起苦的、激烈的、猛烈的、辛辣的、不愉快的、不合意的身體感受時，以獅子的儀法而正念、正知忍受它，不被惱害。」 
+       
+       那時，另一位天神在世尊面前自說這優陀那： 
+       
+       「先生！沙門喬達摩確實是 高貴者_，當生起苦的、激烈的、猛烈的、辛辣的、不愉快的、不合意的身體感受時，以高貴者的儀法而正念、正知忍受它，不被惱害。」 
+       
+       那時，另一位天神在世尊面前自說這優陀那： 
+       
+       「先生！沙門喬達摩確實是 人牛王_，當生起苦的、激烈的、猛烈的、辛辣的、不愉快的、不合意的身體感受時，以人牛王的儀法而正念、正知忍受它，不被惱害。」 
+       
+       那時，另一位天神在世尊面前自說這優陀那： 
+       
+       「先生！沙門喬達摩確實是強負荷者，當生起苦的、激烈的、猛烈的、辛辣的、不愉快的、不合意的身體感受時，以強負荷者的儀法而正念、正知忍受它，不被惱害。」 
+       
+       那時，另一位天神在世尊面前自說這優陀那： 
+       
+       「先生！沙門喬達摩確實是已調御者，當生起苦的、激烈的、猛烈的、辛辣的、不愉快的、不合意的身體感受時，以已調御者的儀法而正念、正知忍受它，不被惱害。」 
+       
+       那時，另一位天神在世尊面前自說這優陀那： 
+       
+       「看吧！定已善 修習_ 者與心已 善解脫_ 者：不彎曲、不彎離_、不 進入被有行折伏後妨礙狀態的_，凡如此形色的龍之男子、獅子之男子、高貴者之男子、人牛王之男子、強負荷者之男子、已調御者之男子，如果認為能被越過，除了無見以外還有什麼？」 
+       
+       | 「婆羅門有五吠陀，苦行者行百年， 
+       | 　他們的心不正解脫，那些下劣者不到彼岸。 
+       | 　陷入了渴愛、被誓願與戒束縛者，行粗苦行百年， 
+       | 　他們的心不正解脫，那些下劣者不到彼岸。 
+       | 　這裡，對慢之愛欲者來說，沒有調御，對不得定的來說，沒有智慧， 
+       | 　單獨放逸地住在 林野_，不能渡死亡領域彼岸。」 
+       | 
+       | 「捨斷慢後善得定，由善心，已於一切處掙脫， 
+       | 　單獨不放逸地住在林野，他能渡死亡領域的彼岸。」 
+
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_39:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **9. Paṭhamapajjunnadhītusuttaṃ**
+
+       39. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ. Atha kho kokanadā pajjunnassa dhītā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ mahāvanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho sā devatā kokanadā pajjunnassa dhītā bhagavato santike imā gāthāyo abhāsi –
+
+       | ‘‘Vesāliyaṃ vane viharantaṃ, aggaṃ sattassa sambuddhaṃ;
+       | Kokanadāhamasmi abhivande, kokanadā pajjunnassa dhītā.
+       | 
+       | ‘‘Sutameva pure āsi, dhammo cakkhumatānubuddho;
+       | Sāhaṃ dāni sakkhi jānāmi, munino desayato sugatassa.
+       | 
+       | ‘‘Ye keci ariyaṃ dhammaṃ, vigarahantā caranti dummedhā;
+       | Upenti roruvaṃ ghoraṃ, cirarattaṃ dukkhaṃ anubhavanti.
+       | 
+       | ‘‘Ye ca kho ariye dhamme, khantiyā upasamena upetā;
+       | Pahāya mānusaṃ dehaṃ, devakāya paripūressantī’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應39經/ **雨神的女兒經第一** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       我聽到這樣_： 
+
+       有一次_，世尊_ 住在毘舍離大林重閣講堂。 
+
+       那時，當夜已深時，容色絕佳的雨神女兒紅蓮使整個大林發光後，去見世尊。抵達後，向世尊 問訊_，接著在一旁站立。在一旁站好後，那位雨神的女兒紅蓮女神在世尊面前說這些 偈頌_： 
+
+       | 「彎腰行禮最高眾生的 正覺者_，正住在毘舍離大林中， 
+       | 　我是紅蓮，紅蓮是雨神的女兒。 
+       | 
+       | 　在以前我就已聽聞，已被 有眼者領悟_ 的法， 
+       | 　現在我以證人知道它，當牟尼、善逝_ 教導時。 
+       | 
+       | 　凡任何對聖法，行斥責的缺乏智慧者， 
+       | 　到恐怖 叫喚_ [地獄]，經歷長久的苦。 
+       | 
+       | 　但凡在聖法上，接受與到達寂靜者， 
+       | 　捨棄人的身體後，他們必將充滿天眾。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_40:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **10. Dutiyapajjunnadhītusuttaṃ**
+
+       40. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ. Atha kho cūḷakokanadā [cullakokanadā (sī. syā. kaṃ.)] pajjunnassa dhītā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ mahāvanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho sā devatā cūḷakokanadā pajjunnassa dhītā bhagavato santike imā gāthāyo abhāsi –
+
+       | ‘‘Idhāgamā vijjupabhāsavaṇṇā, kokanadā pajjunnassa dhītā;
+       | Buddhañca dhammañca namassamānā, gāthācimā atthavatī abhāsi.
+       | 
+       | ‘‘Bahunāpi kho taṃ vibhajeyyaṃ, pariyāyena tādiso dhammo;
+       | Saṃkhittamatthaṃ [saṃkhittamattaṃ (ka.)] lapayissāmi, yāvatā me manasā pariyattaṃ.
+       | 
+       | ‘‘Pāpaṃ na kayirā vacasā manasā,
+       | Kāyena vā kiñcana sabbaloke;
+       | Kāme pahāya satimā sampajāno,
+       | Dukkhaṃ na sevetha anatthasaṃhita’’nti.
+       | Satullapakāyikavaggo catuttho.
+       | 
+       | Tassuddānaṃ –
+       | 
+       | Sabbhimaccharinā sādhu, na santujjhānasaññino;
+       | Saddhā samayo sakalikaṃ, ubho pajjunnadhītaroti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應40經/ **雨神的女兒經第二** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       我聽到這樣_： 
+
+       有一次_，世尊_ 住在毘舍離大林重閣講堂。 
+
+       那時，當夜已深時，容色絕佳的雨神女兒小紅蓮使整個大林發光後，去見世尊。抵達後，向世尊 問訊_，接著在一旁站立。在一旁站好後，那位雨神的女兒小紅蓮女神在世尊面前說這些 偈頌_： 
+
+       | 「這裡，雨神的女兒紅蓮來，以電光光輝美貌， 
+       | 　禮敬著佛與法，說這些有義理的偈頌。 
+       | 　像那樣的法，我能以許多法門解析它， 
+       | 　我將談談簡要的義理，以我心中所有知解之所及。
+       | 
+       | 　在任何一切世間中，不應該以身、語、意作惡， 
+       | 　捨斷諸欲後，有念、正知，不應該親近伴隨苦與無利益的。」 
+       | 
+       | 沙睹羅巴眾品第四，其 攝頌_： 
+       | 
+       | 「與善人們、慳吝、好，沒有、挑毛病， 
+       | 　信、集會、碎石片，兩個雨神的女兒。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. list-table:: Devatā-saṃyutta 諸天相應
+
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN 1. 1 ~ SN 1. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN 1. 11 ~ SN 1. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN 1. 21 ~ SN 1. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN 1. 31 ~ SN 1. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN 1. 41 ~ SN 1. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN 1. 51 ~ SN 1. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN 1. 61 ~ SN 1. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN 1. 71 ~ SN 1. 81)
+
+Āditta-Vaggo 第五 燃燒品
++++++++++++++++++++++++++
+
+.. _sn1_41:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **5. Ādittavaggo**
+
+       **1. Ādittasuttaṃ**
+
+       41. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imā gāthāyo abhāsi –
+
+       | ‘‘Ādittasmiṃ agārasmiṃ, yaṃ nīharati bhājanaṃ;
+       | Taṃ tassa hoti atthāya, no ca yaṃ tattha ḍayhati.
+       | 
+       | ‘‘Evaṃ ādittako loko, jarāya maraṇena ca;
+       | Nīharetheva dānena, dinnaṃ hoti sunīhataṃ.
+       | 
+       | ‘‘Dinnaṃ sukhaphalaṃ hoti, nādinnaṃ hoti taṃ tathā;
+       | Corā haranti rājāno, aggi ḍahati nassati.
+       | 
+       | ‘‘Atha antena jahati, sarīraṃ sapariggahaṃ;
+       | Etadaññāya medhāvī, bhuñjetha ca dadetha ca;
+       | Datvā ca bhutvā ca yathānubhāvaṃ;
+       | Anindito saggamupeti ṭhāna’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - **5.燃燒品**
+
+       相應部1相應41經/ **燃燒經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       我聽到這樣_： 
+
+       有一次_，世尊_ 住在舍衛城祇樹林給孤獨園。 
+
+       那時，當夜已深時，容色絕佳的某位天神使整個祇樹林發光後，去見世尊。抵達後，向世尊 問訊_，接著在一旁站立。在一旁站好後，在世尊面前說這些 偈頌_： 
+
+       | 「當家被燃燒時，搶救家具， 
+       | 　那是為了你的利益，不[留]在那裡被燃燒。 
+       | 　這樣，當世間被老死燃燒時， 
+       | 　你們就要以布施搶救，所布施的是善被搶救的。 
+       | 　所布施的有樂果，沒布施的不像那樣， 
+       | 　盜賊、國王奪走，火燒掉、遺失。 
+       | 　而最後離開，[留下]遺體、財產， 
+       | 　有智慧者了知這樣後，應該受用並且施與。 
+       | 　如其能力地施與並且受用後， 
+       | 　無過失地往生天界處。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_42:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **2. Kiṃdadasuttaṃ**
+       | 42. ‘‘Kiṃdado balado hoti, kiṃdado hoti vaṇṇado;
+       | Kiṃdado sukhado hoti, kiṃdado hoti cakkhudo;
+       | Ko ca sabbadado hoti, taṃ me akkhāhi pucchito’’ti.
+       | 
+       | ‘‘Annado balado hoti, vatthado hoti vaṇṇado;
+       | Yānado sukhado hoti, dīpado hoti cakkhudo.
+       | 
+       | ‘‘So ca sabbadado hoti, yo dadāti upassayaṃ;
+       | Amataṃ dado ca so hoti, yo dhammamanusāsatī’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應42經/ **施與什麼經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「施與什麼是力氣的施與？施與什麼是容色的施與？ 
+       | 　施與什麼是安樂的施與？施與什麼是眼的施與？ 
+       | 　誰是一切的施與者？請你解說我之所問。」 
+       | 
+       | 「食物的施與是力氣的施與，衣服的施與是容色的施與， 
+       | 　車乘的施與是安樂的施與，燈火的施與是眼的施與。 
+       | 　凡施與住房者，他是一切的施與者， 
+       | 　但凡教誡法者，他是 不死_ 的施與者。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_43:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **3. Annasuttaṃ**
+
+       | 43. ‘‘Annamevābhinandanti, ubhaye devamānusā;
+       | Atha ko nāma so yakkho, yaṃ annaṃ nābhinandatī’’ti.
+       | 
+       | ‘‘Ye naṃ dadanti saddhāya, vippasannena cetasā;
+       | Tameva annaṃ bhajati, asmiṃ loke paramhi ca.
+       | 
+       | ‘‘Tasmā vineyya maccheraṃ, dajjā dānaṃ malābhibhū;
+       | Puññāni paralokasmiṃ, patiṭṭhā honti pāṇina’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應43經/ **食物經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「他們歡喜食物：諸天與人們兩者， 
+       | 　有什麼 夜叉_，確實不歡喜食物的？」 
+       | 
+       | 「凡以明淨之心，由於信施與者， 
+       | 　食物就服侍他，在此世間與下一個中。 
+       | 　因此，排除慳吝後，垢穢的征服者應該施與布施， 
+       | 　福德是下一個世間中，有生命者之所依。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_44:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **4. Ekamūlasuttaṃ**
+
+       | 44. ‘‘Ekamūlaṃ dvirāvaṭṭaṃ, timalaṃ pañcapattharaṃ;
+       | Samuddaṃ dvādasāvaṭṭaṃ, pātālaṃ atarī isī’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應44經/ **一根本經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「仙人越過一根本、二漩渦，三垢穢、五岩石之深淵， 
+       | 大海有十二個漩渦。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_45:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **5. Anomasuttaṃ**
+
+       | 45. ‘‘Anomanāmaṃ nipuṇatthadassiṃ, paññādadaṃ kāmālaye asattaṃ;
+       | Taṃ passatha sabbaviduṃ sumedhaṃ, ariye pathe kamamānaṃ mahesi’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應45經/ **最高經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「最高之名、極妙義之看見者，有慧的施與者、在欲之阿賴耶上_ 不執著者， 
+       | 　請你們看那已知一切的善慧者，大仙進入聖者之路。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_46:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **6. Accharāsuttaṃ**
+
+       | 46. ‘‘Accharāgaṇasaṅghuṭṭhaṃ, pisācagaṇasevitaṃ;
+       | Vanantaṃ mohanaṃ nāma, kathaṃ yātrā bhavissatī’’ti.
+       | 
+       | ‘‘Ujuko nāma so maggo, abhayā nāma sā disā;
+       | Ratho akūjano nāma, dhammacakkehi saṃyuto.
+       | 
+       | ‘‘Hirī tassa apālambo, satyassa parivāraṇaṃ;
+       | Dhammāhaṃ sārathiṃ brūmi, sammādiṭṭhipurejavaṃ.
+       | 
+       | ‘‘Yassa etādisaṃ yānaṃ, itthiyā purisassa vā;
+       | Sa ve etena yānena, nibbānasseva santike’’ti.
+ 
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應46經/ **天女經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「聲音響亮的天女們，像是糾纏的惡鬼眾_， 
+       | 　此林名為誘惑，要如何逃離呢？」 
+       | 　
+       | 「彼道名為正直，其方向名為無畏， 
+       | 　馬車名為不嘎嘎響，被法輪連結。 
+       | 　慚是其控制工具，正念是其帷幕， 
+       | 　我說法是御車手，正見是在前頭的開路者。 
+       | 　有這樣的車輛者，不論是女人或男子， 
+       | 　彼以這車輛，涅槃就在眼前。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_47:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **7. Vanaropasuttaṃ**
+
+       | 47. ‘‘Kesaṃ divā ca ratto ca, sadā puññaṃ pavaḍḍhati;
+       | Dhammaṭṭhā sīlasampannā, ke janā saggagāmino’’ti.
+       | 
+       | ‘‘Ārāmaropā vanaropā, ye janā setukārakā;
+       | Papañca udapānañca, ye dadanti upassayaṃ.
+       | 
+       | ‘‘Tesaṃ divā ca ratto ca, sadā puññaṃ pavaḍḍhati;
+       | Dhammaṭṭhā sīlasampannā, te janā saggagāmino’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應47經/ **造林者經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「誰的福德日夜經常增長？ 
+       | 　誰是生天界之人，法住者、戒具足者_？」 
+       | 
+       | 「凡造園者、造林者、造橋人， 
+       | 　凡施與飲水、井、住房： 
+       | 　他們的福德日夜經常增長， 
+       | 　他們是生天界之人，法住者、戒具足者。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_48:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **8. Jetavanasuttaṃ**
+
+       | 48. ‘‘Idañhi taṃ jetavanaṃ, isisaṅghanisevitaṃ;
+       | Āvutthaṃ [āvuṭṭhaṃ (ka.)] dhammarājena, pītisañjananaṃ mama.
+       | 
+       | ‘‘Kammaṃ vijjā ca dhammo ca, sīlaṃ jīvitamuttamaṃ;
+       | Etena maccā sujjhanti, na gottena dhanena vā.
+       | 
+       | ‘‘Tasmā hi paṇḍito poso, sampassaṃ atthamattano;
+       | Yoniso vicine dhammaṃ, evaṃ tattha visujjhati.
+       | 
+       | ‘‘Sāriputtova paññāya, sīlena upasamena ca;
+       | Yopi pāraṅgato bhikkhu, etāvaparamo siyā’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應48經/ **祇樹林經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「這裡確實是那祇樹林，為仙人僧團所駐留； 
+       | 　為法王所居住，我喜悅的產生處。 
+       | 　行為、明與法，戒、最高之活命， 
+       | 　不免一死的人_ 以這些淨化，而非以種姓或財產。 
+       | 　因此，賢智的男子，從自己利益的考量， 
+       | 　應該如理考察法，他在那裡這麼淨化。 
+       | 　舍利弗確實有慧、戒與寂靜， 
+       | 　凡到彼岸的 比丘_，最高也只能如此。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_49:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **9. Maccharisuttaṃ**
+
+       | 49. ‘‘Yedha maccharino loke, kadariyā paribhāsakā;
+       | Aññesaṃ dadamānānaṃ, antarāyakarā narā.
+       | 
+       | ‘‘Kīdiso tesaṃ vipāko, samparāyo ca kīdiso;
+       | Bhagavantaṃ puṭṭhumāgamma, kathaṃ jānemu taṃ maya’’nti.
+       | 
+       | ‘‘Yedha maccharino loke, kadariyā paribhāsakā;
+       | Aññesaṃ dadamānānaṃ, antarāyakarā narā.
+       | 
+       | ‘‘Nirayaṃ tiracchānayoniṃ, yamalokaṃ upapajjare;
+       | Sace enti manussattaṃ, dalidde jāyare kule.
+       | 
+       | ‘‘Coḷaṃ piṇḍo ratī khiḍḍā, yattha kicchena labbhati;
+       | Parato āsīsare [āsiṃsare (sī. syā. kaṃ. pī.)] bālā, tampi tesaṃ na labbhati;
+       | Diṭṭhe dhammesa vipāko, samparāye [samparāyo (syā. kaṃ. pī.)] ca duggatī’’ti.
+       | 
+       | ‘‘Itihetaṃ vijānāma, aññaṃ pucchāma gotama;
+       | Yedha laddhā manussattaṃ, vadaññū vītamaccharā.
+       | 
+       | ‘‘Buddhe pasannā dhamme ca, saṅghe ca tibbagāravā;
+       | Kīdiso tesaṃ vipāko, samparāyo ca kīdiso;
+       | Bhagavantaṃ puṭṭhumāgamma, kathaṃ jānemu taṃ maya’’nti.
+       | 
+       | ‘‘Yedha laddhā manussattaṃ, vadaññū vītamaccharā;
+       | Buddhe pasannā dhamme ca, saṅghe ca tibbagāravā;
+       | Ete saggā [sagge (sī. syā. kaṃ.)] pakāsanti, yattha te upapajjare.
+       | 
+       | ‘‘Sace enti manussattaṃ, aḍḍhe ājāyare kule;
+       | Coḷaṃ piṇḍo ratī khiḍḍā, yatthākicchena labbhati.
+       | 
+       | ‘‘Parasambhatesu bhogesu, vasavattīva modare;
+       | Diṭṭhe dhammesa vipāko, samparāye ca suggatī’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應49經/ **慳吝經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「這裡，凡世間中的慳吝者，慳吝者、惡口者， 
+       | 　對其他施與者製造障礙的人們： 
+       | 　他們的果報像什麼樣子？來世像什麼樣子？ 
+       | 　我們來問 世尊_，我們應該如何理解它？」 
+       | 
+       | 「這裡，凡世間中的慳吝者，慳吝者、惡口者， 
+       | 　對其他施與者製造障礙的人們： 
+       | 　他們會往生地獄、畜生界、閻摩世界_， 
+       | 　如果來人間，會被出生到貧窮家， 
+       | 　布、食物、喜樂、娛樂，在那裡被困難地得到。 
+       | 　愚者能從其他人期盼的，那也不被他們得到， 
+       | 　這是 在當生中_ 的果報，並且來世為 惡趣_。」 
+       | 
+       | 「像這樣，我們了知這個，喬達摩_！讓我們詢問另一個， 
+       | 　這裡，凡已得人的狀態的寬容者、離慳吝者， 
+       | 　對佛、法 有淨信_，對 僧團_ 極尊重者： 
+       | 　他們的果報像什麼樣子？來世像什麼樣子？ 
+       | 　我們來問世尊，我們應該如何理解它？」 
+       | 
+       | 「這裡，凡已得人的狀態的寬容者、離慳吝者， 
+       | 　對佛、法有淨信，對僧團極尊重者： 
+       | 　他們輝耀這些他們往生處的天界。 
+       | 　如果來人間，會被出生到富有家， 
+       | 　布、食物、喜樂、娛樂，在那裡被不困難地得到。
+       | 　 在他人已得的財物上，能自在地喜悅(享用)， 
+       | 　這是在當生中的果報，並且來世為 善趣_。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_50:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **10. Ghaṭīkārasuttaṃ**
+
+       | 50. ‘‘Avihaṃ upapannāse, vimuttā satta bhikkhavo;
+       | Rāgadosaparikkhīṇā, tiṇṇā loke visattika’’nti.
+       | 
+       | ‘‘Ke ca te ataruṃ paṅkaṃ [saṅgaṃ (sī. syā.)], maccudheyyaṃ suduttaraṃ;
+       | Ke hitvā mānusaṃ dehaṃ, dibbayogaṃ upaccagu’’nti.
+       | 
+       | ‘‘Upako palagaṇḍo ca, pukkusāti ca te tayo;
+       | Bhaddiyo khaṇḍadevo ca, bāhuraggi ca siṅgiyo [bahudantī ca piṅgayo (sī.)];
+       | Te hitvā mānusaṃ dehaṃ, dibbayogaṃ upaccagu’’nti.
+       | 
+       | ‘‘Kusalī bhāsasī tesaṃ, mārapāsappahāyinaṃ;
+       | Kassa te dhammamaññāya, acchiduṃ bhavabandhana’’nti.
+       | 
+       | ‘‘Na aññatra bhagavatā, nāññatra tava sāsanā;
+       | Yassa te dhammamaññāya, acchiduṃ bhavabandhanaṃ.
+       | 
+       | ‘‘Yattha nāmañca rūpañca, asesaṃ uparujjhati;
+       | Taṃ te dhammaṃ idhaññāya, acchiduṃ bhavabandhana’’nti.
+       | 
+       | ‘‘Gambhīraṃ bhāsasī vācaṃ, dubbijānaṃ sudubbudhaṃ;
+       | Kassa tvaṃ dhammamaññāya, vācaṃ bhāsasi īdisa’’nti.
+       | 
+       | ‘‘Kumbhakāro pure āsiṃ, vekaḷiṅge [vehaḷiṅge (sī.), vebhaḷiṅge (syā. kaṃ.)] ghaṭīkaro;
+       | Mātāpettibharo āsiṃ, kassapassa upāsako.
+       | 
+       | ‘‘Virato methunā dhammā, brahmacārī nirāmiso;
+       | Ahuvā te sagāmeyyo, ahuvā te pure sakhā.
+       | 
+       | ‘‘Sohamete pajānāmi, vimutte satta bhikkhavo;
+       | Rāgadosaparikkhīṇe, tiṇṇe loke visattika’’nti.
+       | 
+       | ‘‘Evametaṃ tadā āsi, yathā bhāsasi bhaggava;
+       | Kumbhakāro pure āsi, vekaḷiṅge ghaṭīkaro;
+       | Mātāpettibharo āsi, kassapassa upāsako.
+       | 
+       | ‘‘Virato methunā dhammā, brahmacārī nirāmiso;
+       | Ahuvā me sagāmeyyo, ahuvā me pure sakhā’’ti.
+       | 
+       | ‘‘Evametaṃ purāṇānaṃ, sahāyānaṃ ahu saṅgamo;
+       | Ubhinnaṃ bhāvitattānaṃ, sarīrantimadhārina’’nti.
+       | 
+       | Ādittavaggo pañcamo.
+       | 
+       | Tassuddānaṃ –
+       | 
+       | Ādittaṃ kiṃdadaṃ annaṃ, ekamūlaanomiyaṃ;
+       | Accharāvanaropajetaṃ, maccharena ghaṭīkaroti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應50經/ **額低葛勒經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「往生於 無煩天_，七位 比丘_ 已解脫， 
+       | 　從貪與瞋的被滅盡，已渡脫對世間的執著。」 
+       | 
+       | 「而誰是那些渡脫了泥沼，極難越過的死亡領域者？
+       | 　誰捨斷人的身體後，超越了天軛？」 
+       | 
+       | 「優波迦、波羅揵荼、佛庫娑梨他們三位， 
+       | 　跋提雅、揵陀提婆、婆侯羅提、僧提雅， 
+       | 　他們捨斷人的身體後，超越了天軛。」 
+       | 
+       | 「你說的那些是善的，魔網的捨斷者， 
+       | 　他們思量誰的法，而切斷了有之繫縛？」 
+       | 
+       | 「非從 世尊_ 之外的他處，非從你的教說之外的他處，
+       | 　他們思量你的法，而切斷了有之繫縛。 
+       | 　所有名與色之處，被破壞無餘， 
+       | 　這裡，以了知這法，他們切斷了有之繫縛。」 
+       | 
+       | 「你說了甚深的話，難懂、極難把握， 
+       | 　你思量誰的法，而說這樣的話？」 
+       | 
+       | 「在過去我是作陶器者，毘迦林加地方的陶匠， 
+       | 　我是奉養父母的人，迦葉佛的優婆塞。 
+       | 　已離婬欲法，梵行無染污， 
+       | 　是你的同鄉，是你在過去的同伴。 
+       | 　我了知，這七位解脫比丘， 
+       | 　以貪與瞋的滅盡，已渡對世間的執著。」 
+       | 
+       | 「那時，正是這樣，如你所說，薄加瓦！ 
+       | 　在過去你是作陶器者，毘迦林加地方的陶匠， 
+       | 　你是奉養父母的人，迦葉佛的優婆塞。 
+       | 　已離婬欲法，梵行無染污， 
+       | 　是我的同鄉，是我在過去的同伴。」 
+       | 
+       | 「正是這樣，是以前朋友的會合， 
+       | 　已親自修習_ 的兩者，持有最後身。」 
+       | 
+       | 燃燒品第五，其 攝頌_： 
+       | 「燃燒、施與什麼、食物，一根本、最高， 
+       | 天女、造林者、祇樹，慳吝與額低葛勒。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+-----
+
+.. list-table:: Devatā-saṃyutta 諸天相應
+
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN 1. 1 ~ SN 1. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN 1. 11 ~ SN 1. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN 1. 21 ~ SN 1. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN 1. 31 ~ SN 1. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN 1. 41 ~ SN 1. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN 1. 51 ~ SN 1. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN 1. 61 ~ SN 1. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN 1. 71 ~ SN 1. 81)
+
+Jarā-Vaggo 第六 老品
++++++++++++++++++++++
+
+.. _sn1_51:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **6. Jarāvaggo**
+       **1. Jarāsuttaṃ**
+
+       | 51. ‘‘Kiṃsu yāva jarā sādhu, kiṃsu sādhu patiṭṭhitaṃ;
+       | Kiṃsu narānaṃ ratanaṃ, kiṃsu corehi dūhara’’nti.
+       | 
+       | ‘‘Sīlaṃ yāva jarā sādhu, saddhā sādhu patiṭṭhitā;
+       | Paññā narānaṃ ratanaṃ, puññaṃ corehi dūhara’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 6. **衰老品 **
+
+       相應部1相應51經/ **衰老經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼是善的，直到衰老？什麼是善的，當已住立時？ 
+       | 　什麼是人人的寶物？什麼是難被盜賊拿走的？」 
+       | 
+       | 「戒(德)是善的，直到衰老，信是善的，當已住立時，
+       | 　慧是人人的寶物，福德是難被盜賊拿走的。」
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_52:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **2. Ajarasāsuttaṃ**
+
+       | 52. ‘‘Kiṃsu ajarasā sādhu, kiṃsu sādhu adhiṭṭhitaṃ;
+       | Kiṃsu narānaṃ ratanaṃ, kiṃsu corehyahāriya’’nti.
+       | 
+       | ‘‘Sīlaṃ ajarasā sādhu, saddhā sādhu adhiṭṭhitā;
+       | Paññā narānaṃ ratanaṃ, puññaṃ corehyahāriya’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應52經/ **以不衰老經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「以不衰老，什麼是善的？當已確立時，什麼是善的？ 
+       | 　什麼是人人的寶物？什麼是不容易被盜賊拿走的？」 
+       | 
+       | 「以不衰老，戒是善的，當已確立時，信是善的， 
+       | 　慧是人人的寶物，福德是不容易被盜賊拿走的。」
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_53:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **3. Mittasuttaṃ**
+
+       | 53. ‘‘Kiṃsu pavasato [pathavato (pī. ka.)] mittaṃ, kiṃsu mittaṃ sake ghare;
+       | Kiṃ mittaṃ atthajātassa, kiṃ mittaṃ samparāyika’’nti.
+       | 
+       | ‘‘Sattho pavasato mittaṃ, mātā mittaṃ sake ghare;
+       | Sahāyo atthajātassa, hoti mittaṃ punappunaṃ;
+       | Sayaṃkatāni puññāni, taṃ mittaṃ samparāyika’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應53經/ **朋友經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼是 出外人_ 的朋友？什麼是在自己家中的朋友？ 
+       | 　什麼是當生起需要時的朋友？什麼是來生的朋友？」 
+       | 
+       | 「商隊是出外人的朋友，母親是在自己家中的朋友， 
+       | 　當生起需要時的伙伴，是一次又一次的朋友， 
+       | 　自己所作的福德，是那來生的朋友。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_54:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **4. Vatthusuttaṃ**
+
+       | 54. ‘‘Kiṃsu vatthu manussānaṃ, kiṃsūdha paramo sakhā;
+       | Kiṃsu bhūtā upajīvanti, ye pāṇā pathavissitā’’ti [pathaviṃ sitāti (sī. syā. kaṃ. pī.)].
+       | 
+       | ‘‘Puttā vatthu manussānaṃ, bhariyā ca [bhariyāva (sī.), bhariyā (syā. kaṃ.)] paramo sakhā;
+       | Vuṭṭhiṃ bhūtā upajīvanti, ye pāṇā pathavissitā’’ti.
+
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應54經/ **所依經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼是人之 所依_？這裡，什麼是最好的同伴？ 
+       | 　凡依止大地的生物類，他們依什麼生活？」 
+       | 
+       | 「兒子是人之所依，這裡，妻子是最好的同伴， 
+       | 　凡依止大地的生物類，他們依雨生活。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_55:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **5. Paṭhamajanasuttaṃ**
+
+       | 55. ‘‘Kiṃsu janeti purisaṃ, kiṃsu tassa vidhāvati;
+       | Kiṃsu saṃsāramāpādi, kiṃsu tassa mahabbhaya’’nti.
+       | 
+       | ‘‘Taṇhā janeti purisaṃ, cittamassa vidhāvati;
+       | Satto saṃsāramāpādi, dukkhamassa mahabbhaya’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應55經/ **產生經第一** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼產生人？他的什麼到處跑？ 
+       | 　什麼進入輪迴？什麼是他的大恐怖？」 
+       | 
+       | 「渴愛產生人，他的心到處跑， 
+       | 　眾生進入輪迴，苦是他的大恐怖。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_56:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **6. Dutiyajanasuttaṃ**
+
+       | 56. ‘‘Kiṃsu janeti purisaṃ, kiṃsu tassa vidhāvati;
+       | Kiṃsu saṃsāramāpādi, kismā na parimuccatī’’ti.
+       | 
+       | ‘‘Taṇhā janeti purisaṃ, cittamassa vidhāvati;
+       | Satto saṃsāramāpādi, dukkhā na parimuccatī’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應56經/ **產生經第二** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼產生人？他的什麼到處跑？ 
+       | 　什麼進入輪迴？他在什麼之中不解脫？」 
+       | 
+       | 「渴愛產生人，他的心到處跑， 
+       | 　眾生進入輪迴，他不從苦解脫。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_57:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **7. Tatiyajanasuttaṃ**
+
+       57. ‘‘Kiṃsu janeti purisaṃ, kiṃsu tassa vidhāvati;
+       | Kiṃsu saṃsāramāpādi, kiṃsu tassa parāyana’’nti.
+       | 
+       | ‘‘Taṇhā janeti purisaṃ, cittamassa vidhāvati;
+       | Satto saṃsāramāpādi, kammaṃ tassa parāyana’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應57經/ **產生經第三** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼產生人？他的什麼到處跑？ 
+       | 　什麼進入輪迴？什麼是他的所趣處？」 
+       | 
+       | 「渴愛產生人，他的心到處跑， 
+       | 　眾生進入輪迴，業是他的所趣處_。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_58:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **8. Uppathasuttaṃ**
+
+       | 58. ‘‘Kiṃsu uppatho akkhāto, kiṃsu rattindivakkhayo;
+       | Kiṃ malaṃ brahmacariyassa, kiṃ sinānamanodaka’’nti.
+       | 
+       | ‘‘Rāgo uppatho akkhāto, vayo rattindivakkhayo;
+       | Itthī malaṃ brahmacariyassa, etthāyaṃ sajjate pajā;
+       | Tapo ca brahmacariyañca, taṃ sinānamanodaka’’ntntti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應58經/ **邪道經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼為邪道所說？什麼日夜滅盡？ 
+       | 　什麼是梵行的垢穢？什麼是無水的沐浴？」 
+       | 
+       | 「貪為邪道所說，生命日夜滅盡， 
+       | 　女人是梵行的垢穢，在這裡人們執著_， 
+       | 　鍛鍊與梵行，那是無水的沐浴。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_59:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **9. Dutiyasuttaṃ**
+
+       | 59. ‘‘Kiṃsu dutiyā [dutiyaṃ (syā. kaṃ. pī.)] purisassa hoti, kiṃsu cenaṃ pasāsati;
+       | Kissa cābhirato macco, sabbadukkhā pamuccatī’’ti.
+       | 
+       | ‘‘Saddhā dutiyā purisassa hoti, paññā cenaṃ pasāsati;
+       | Nibbānābhirato macco, sabbadukkhā pamuccatī’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應59經/ **同伴經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼是男子的 同伴_？而什麼教導他？ 
+       | 　不免一死的人_ 歡喜什麼，一切苦被解脫？」 
+       | 
+       | 「信是男子的同伴，而慧教導他， 
+       | 　不免一死的人歡喜涅槃，一切苦被解脫。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_60:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **10. Kavisuttaṃ**
+
+       | 60. ‘‘Kiṃsu nidānaṃ gāthānaṃ, kiṃsu tāsaṃ viyañjanaṃ;
+       | Kiṃsu sannissitā gāthā, kiṃsu gāthānamāsayo’’ti.
+       | 
+       | ‘‘Chando nidānaṃ gāthānaṃ, akkharā tāsaṃ viyañjanaṃ;
+       | Nāmasannissitā gāthā, kavi gāthānamāsayo’’ti.
+       | 
+       | Jarāvaggo chaṭṭho.
+       | 
+       | Tassuddānaṃ –
+       | 
+       | Jarā ajarasā mittaṃ, vatthu tīṇi janāni ca;
+       | Uppatho ca dutiyo ca, kavinā pūrito vaggoti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應60經/ **詩人經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼是 偈頌_ 的起源？什麼構成它們的文句？ 
+       | 　偈頌基於什麼？什麼是偈頌的棲處？」 
+       | 
+       | 「韻律是偈頌的因緣_，音節構成它們的文句， 
+       | 　偈頌基於名_，詩人是偈頌的棲處。」 
+       | 
+       | 衰老品第六，其 攝頌_： 
+       | 「衰老、不衰老、朋友，所依、產生三則， 
+       | 　邪道與同伴，詩人，品被完成。」
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. list-table:: Devatā-saṃyutta 諸天相應
+
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN 1. 1 ~ SN 1. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN 1. 11 ~ SN 1. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN 1. 21 ~ SN 1. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN 1. 31 ~ SN 1. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN 1. 41 ~ SN 1. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN 1. 51 ~ SN 1. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN 1. 61 ~ SN 1. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN 1. 71 ~ SN 1. 81)
+
+Addha-Vaggo 第七 勝品
++++++++++++++++++++++
+
+.. _sn1_61:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **7. Addhavaggo**
+
+       **1. Nāmasuttaṃ**
+
+       | 61. ‘‘Kiṃsu sabbaṃ addhabhavi [anvabhavi (sī.)], kismā bhiyyo na vijjati;
+       | Kissassu ekadhammassa, sabbeva vasamanvagū’’ti [vasamaddhagū (ka.)].
+       | 
+       | ‘‘Nāmaṃ sabbaṃ addhabhavi, nāmā bhiyyo na vijjati;
+       | Nāmassa ekadhammassa, sabbeva vasamanvagū’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - **7. 征服品**
+
+       相應部1相應61經/ **名經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼征服一切？比什麼更多的不存在？ 
+       | 　什麼是 一法_，一切就受其控制？」 
+       | 
+       | 「名征服一切_，比名更多的不存在_， 
+       | 　名是一法，一切就受其控制。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_62:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **2. Cittasuttaṃ**
+
+       | 62. ‘‘Kenassu nīyati loko, kenassu parikassati;
+       | Kissassu ekadhammassa, sabbeva vasamanvagū’’ti.
+       | 
+       | ‘‘Cittena nīyati loko, cittena parikassati;
+       | Cittassa ekadhammassa, sabbeva vasamanvagū’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應62經/ **心經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「世間被什麼引導？什麼拖著世間轉？ 
+       | 　什麼是 一法_，一切就隨順[其]控制？」 
+       | 
+       | 「世間被心引導，心拖著世間轉， 
+       | 　心是一法，一切就隨順[其]控制。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_63:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **3. Taṇhāsuttaṃ**
+
+       | 63. ‘‘Kenassu nīyati loko, kenassu parikassati;
+       | Kissassu ekadhammassa, sabbeva vasamanvagū’’ti.
+       | 
+       | ‘‘Taṇhāya nīyati loko, taṇhāya parikassati;
+       | Taṇhāya ekadhammassa, sabbeva vasamanvagū’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應63經/ **渴愛經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「世間被什麼引導？什麼拖著世間轉？ 
+       | 　什麼是 一法_，一切就受其控制？」 
+       | 
+       | 「世間被渴愛引導，渴愛拖著世間轉， 
+       | 　渴愛是一法，一切就受其控制的。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_64:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **4. Saṃyojanasuttaṃ**
+
+       | 64. ‘‘Kiṃsu saṃyojano loko, kiṃsu tassa vicāraṇaṃ;
+       | Kissassu vippahānena, nibbānaṃ iti vuccatī’’ti.
+       | 
+       | ‘‘Nandīsaṃyojano [nandisaṃyojano (sī. syā. kaṃ.)] loko, vitakkassa vicāraṇaṃ;
+       | Taṇhāya vippahānena, nibbānaṃ iti vuccatī’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應64經/ **結經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼是世間的結？什麼是它遊走的方法？ 
+       | 　以什麼的捨棄，像這樣被稱為涅槃？」 
+       | 
+       | 「歡喜是世間的結，尋是它遊走的方法_， 
+       | 　以渴愛的捨棄，像這樣被稱為涅槃。」
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_65:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **5. Bandhanasuttaṃ**
+
+       | 65. ‘‘Kiṃsu sambandhano loko, kiṃsu tassa vicāraṇaṃ;
+       | Kissassu vippahānena, sabbaṃ chindati bandhana’’nti.
+       | 
+       | ‘‘Nandīsambandhano loko, vitakkassa vicāraṇaṃ;
+       | Taṇhāya vippahānena, sabbaṃ chindati bandhana’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應65經/ **結縛經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼是世間的結縛？什麼是它遊走的方法？ 
+       | 　以什麼的捨棄，切斷一切結縛？」 
+       | 
+       | 「歡喜是世間的結縛，尋是它遊走的方法_， 
+       | 　以渴愛的捨棄，切斷一切結縛。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_66:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **6. Attahatasuttaṃ**
+
+       | 66. ‘‘Kenassubbhāhato loko, kenassu parivārito;
+       | Kena sallena otiṇṇo, kissa dhūpāyito sadā’’ti.
+       | 
+       | ‘‘Maccunābbhāhato loko, jarāya parivārito;
+       | Taṇhāsallena otiṇṇo, icchādhūpāyito sadā’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應66經/ **被折磨經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「世間被什麼折磨？被什麼包圍？ 
+       | 　被什麼箭刺入？經常被什麼薰？」 
+       | 
+       | 「世間被死亡折磨，被老包圍， 
+       | 　被渴愛之箭刺入，經常被欲求薰。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_67:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **7. Uḍḍitasuttaṃ**
+
+       | 67. ‘‘Kenassu uḍḍito loko, kenassu parivārito;
+       | Kenassu pihito loko, kismiṃ loko patiṭṭhito’’ti.
+       | 
+       | ‘‘Taṇhāya uḍḍito loko, jarāya parivārito;
+       | Maccunā pihito loko, dukkhe loko patiṭṭhito’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應67經/ **被陷住經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「世間被什麼陷住？被什麼包圍？ 
+       | 　世間被什麼關閉？世間在什麼上被建立？」 
+       | 
+       | 「世間被渴愛陷住，被老包圍， 
+       | 　世間被死亡關閉，世間在苦上被建立。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_68:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **8. Pihitasuttaṃ**
+
+       | 68. ‘‘Kenassu pihito loko, kismiṃ loko patiṭṭhito;
+       | Kenassu uḍḍito loko, kenassu parivārito’’ti.
+       | 
+       | ‘‘Maccunā pihito loko, dukkhe loko patiṭṭhito;
+       | Taṇhāya uḍḍito loko, jarāya parivārito’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應68經/ **被關閉經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「世間被什麼關閉？世間在什麼上被建立？ 
+       | 　世間被什麼繫結？被什麼包圍？」 
+       | 
+       | 「世間被死亡關閉，世間在苦上被建立， 
+       | 　世間被渴愛繫結，被老包圍。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_69:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **9. Icchāsuttaṃ**
+
+       | 69. ‘‘Kenassu bajjhatī loko, kissa vinayāya muccati;
+       | Kissassu vippahānena, sabbaṃ chindati bandhana’’nti.
+       | 
+       | ‘‘Icchāya bajjhatī loko, icchāvinayāya muccati;
+       | Icchāya vippahānena, sabbaṃ chindati bandhana’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應69經/ **欲求經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「世間被什麼結縛？以調伏什麼而解脫？ 
+       | 　以棄捨什麼，切斷一切結縛？」 
+       | 
+       | 「世間被欲求結縛，以調伏欲求而解脫， 
+       | 　以棄捨欲求，切斷一切結縛。」
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_70:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **10. Lokasuttaṃ**
+
+       | 70. ‘‘Kismiṃ loko samuppanno, kismiṃ kubbati santhavaṃ;
+       | Kissa loko upādāya, kismiṃ loko vihaññatī’’ti.
+       | 
+       | ‘‘Chasu loko samuppanno, chasu kubbati santhavaṃ;
+       | Channameva upādāya, chasu loko vihaññatī’’ti.
+       | 
+       | Addhavaggo [anvavaggo (sī.)] sattamo.
+       | 
+       | Tassuddānaṃ –
+       | 
+       | Nāmaṃ cittañca taṇhā ca, saṃyojanañca bandhanā;
+       | Abbhāhatuḍḍito pihito, icchā lokena te dasāti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應70經/ **世間經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「世間在什麼之中被生起？在什麼之中形成親密？ 
+       | 　對什麼執取後，世間在什麼之中被惱害？」 
+       | 
+       | 「世間在 六_ 之中被生起，在六之中形成親密， 
+       | 　對六執取後，世間在六之中被惱害。」 
+       | 
+       | 征服品第七，其 攝頌_： 
+       | 「名、心、渴愛，結、結縛， 
+       | 　被折磨、被陷住、被關閉，欲求與世間，它們為十。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. list-table:: Devatā-saṃyutta 諸天相應
+
+  * - `Naḷa-Vaggo 第一 蘆葦品`_ (SN 1. 1 ~ SN 1. 10)
+    - `Nandana-Vaggo 第二 歡喜園品`_ (SN 1. 11 ~ SN 1. 20)
+    - `Satti-Vaggo 第三 劍品`_ (SN 1. 21 ~ SN 1. 30)
+    - `Satullapakāyika-Vaggo 第四 沙睹羅巴天群品`_ (SN 1. 31 ~ SN 1. 40)
+  * - `Āditta-Vaggo 第五 燃燒品`_ (SN 1. 41 ~ SN 1. 50)
+    - `Jarā-Vaggo 第六 老品`_ (SN 1. 51 ~ SN 1. 60)
+    - `Addha-Vaggo 第七 勝品`_ (SN 1. 61 ~ SN 1. 70)
+    - `Chetvā-Vaggo 第八 斷品`_ (SN 1. 71 ~ SN 1. 81)
+
+Chetvā-Vaggo 第八 斷品
++++++++++++++++++++++++
+
+.. _sn1_71:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **8. Chetvāvaggo**
+
+       **1. Chetvāsuttaṃ**
+
+       71. Sāvatthinidānaṃ. Ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ gāthāya ajjhabhāsi –
+
+       | ‘‘Kiṃsu chetvā [jhatvā (sī.), ghatvā (syā. kaṃ.) evamuparipi] sukhaṃ seti, kiṃsu chetvā na socati;
+       | Kissassu ekadhammassa, vadhaṃ rocesi gotamā’’ti.
+       | 
+       | ‘‘Kodhaṃ chetvā sukhaṃ seti, kodhaṃ chetvā na socati;
+       | Kodhassa visamūlassa, madhuraggassa devate;
+       | Vadhaṃ ariyā pasaṃsanti, tañhi chetvā na socatī’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - **8.切斷品 **
+
+       相應部1相應71經/ **切斷後經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       起源於舍衛城。 
+
+       在一旁站好後，那位天神以 偈頌_ 對 世尊_ 說： 
+
+       | 「切斷什麼後 睡得安樂_？切斷什麼後不憂愁？ 
+       | 　哪一法的殺害，喬達摩_ 同意？」 
+       | 
+       | 「切斷憤怒後睡得安樂，切斷憤怒後不憂愁， 
+       | 　天神！端蜜而根毒之憤怒_ 的殺害，聖者稱讚，因為切斷它後不憂愁。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_72:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **2. Rathasuttaṃ**
+
+       | 72. ‘‘Kiṃsu rathassa paññāṇaṃ, kiṃsu paññāṇamaggino;
+       | Kiṃsu raṭṭhassa paññāṇaṃ, kiṃsu paññāṇamitthiyā’’ti.
+       | 
+       | ‘‘Dhajo rathassa paññāṇaṃ, dhūmo paññāṇamaggino;
+       | Rājā raṭṭhassa paññāṇaṃ, bhattā paññāṇamitthiyā’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應72經/ **車經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼是車的表徵？什麼是火的表徵？ 
+       | 　什麼是國家的表徵？什麼是女人的表徵？」 
+       | 
+       | 「旗幟是車的表徵，煙是火的表徵， 
+       | 　國王是國家的表徵，丈夫是女人的表徵。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_73:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **3. Vittasuttaṃ**
+
+       | 73. ‘‘Kiṃsūdha vittaṃ purisassa seṭṭhaṃ, kiṃsu suciṇṇo sukhamāvahati;
+       | Kiṃsu have sādutaraṃ [sādhutaraṃ (ka.)] rasānaṃ, kathaṃjīviṃ [kiṃsujīviṃ (ka.)] jīvitamāhu seṭṭha’’nti.
+       | 
+       | ‘‘Saddhīdha vittaṃ purisassa seṭṭhaṃ, dhammo suciṇṇo sukhamāvahati;
+       | Saccaṃ have sādutaraṃ rasānaṃ, paññājīviṃ jīvitamāhu seṭṭha’’nti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應73經/ **財產經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「這裡，什麼是男子的最上財產？什麼善行帶來樂？ 
+       | 　什麼確實是味道的最美者？如何活是他們說的最上活命者？」 
+       | 
+       | 「這裡，信是男子的最上財產，法善行帶來樂， 
+       | 　真理確實是味道的最美者，以慧而活是他們說的最上活命者。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_74:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **4. Vuṭṭhisuttaṃ**
+
+       | 74. ‘‘Kiṃsu uppatataṃ seṭṭhaṃ, kiṃsu nipatataṃ varaṃ;
+       | Kiṃsu pavajamānānaṃ, kiṃsu pavadataṃ vara’’nti.
+       | 
+       | ‘‘Bījaṃ uppatataṃ seṭṭhaṃ, vuṭṭhi nipatataṃ varā;
+       | Gāvo pavajamānānaṃ, putto pavadataṃ varoti.
+       | 
+       | ‘‘Vijjā uppatataṃ seṭṭhā, avijjā nipatataṃ varā;
+       | Saṅgho pavajamānānaṃ, buddho pavadataṃ varo’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應74經/ **雨經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼是向上的最上者？什麼是落下的出色者？ 
+       | 　對到處走的來說，則是什麼？什麼是說話的出色者？」 
+       | 
+       | 「種子是向上的最上者，雨是落下的出色者， 
+       | 　對到處走的來說，則是牛，兒子是說話的出色者。」 
+       | 
+       | 「明是向上的最上者，無明是落下的出色者， 
+       | 　對到處走的來說，則是 僧團_，佛陀是說話的出色者。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_75:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **5. Bhītāsuttaṃ**
+
+       | 75. ‘‘Kiṃsūdha bhītā janatā anekā,
+       | Maggo canekāyatanappavutto;
+       | Pucchāmi taṃ gotama bhūripañña,
+       | Kismiṃ ṭhito paralokaṃ na bhāye’’ti.
+       | 
+       | ‘‘Vācaṃ manañca paṇidhāya sammā,
+       | Kāyena pāpāni akubbamāno;
+       | Bavhannapānaṃ gharamāvasanto,
+       | Saddho mudū saṃvibhāgī vadaññū;
+       | Etesu dhammesu ṭhito catūsu,
+       | Dhamme ṭhito paralokaṃ na bhāye’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應75經/ **害怕經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「有 不只一個處_ 之道被解說，這裡，為什麼多數人是害怕的？ 
+       | 　廣慧的 喬達摩_！我問你，當站在什麼上面時會不害怕他世？」 
+       | 
+       | 「正確地設定言語與心意後，不以身行惡， 
+       | 　住在充滿食物飲料的家，有信、柔軟、分享、親切， 
+       | 　當站在這四法上，當站在[正]法上時會不害怕他世。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_76:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **6. Najīratisuttaṃ**
+
+       | 76. ‘‘Kiṃ jīrati kiṃ na jīrati, kiṃsu uppathoti vuccati;
+       | Kiṃsu dhammānaṃ paripantho, kiṃsu rattindivakkhayo;
+       | Kiṃ malaṃ brahmacariyassa, kiṃ sinānamanodakaṃ.
+       | 
+       | ‘‘Kati lokasmiṃ chiddāni, yattha vittaṃ [cittaṃ (sī. syā. kaṃ. pī.)] na tiṭṭhati;
+       | Bhagavantaṃ puṭṭhumāgamma, kathaṃ jānemu taṃ maya’’nti.
+       | 
+       | ‘‘Rūpaṃ jīrati maccānaṃ, nāmagottaṃ na jīrati;
+       | Rāgo uppathoti vuccati.
+       | 
+       | ‘‘Lobho dhammānaṃ paripantho, vayo rattindivakkhayo;
+       | Itthī malaṃ brahmacariyassa, etthāyaṃ sajjate pajā;
+       | Tapo ca brahmacariyañca, taṃ sinānamanodakaṃ.
+       | 
+       | ‘‘Cha lokasmiṃ chiddāni, yattha vittaṃ na tiṭṭhati;
+       | Ālasyañca [ālassañca (sī. pī.)] pamādo ca, anuṭṭhānaṃ asaṃyamo;
+       | Niddā tandī [tandi (sī.)] ca te chidde, sabbaso taṃ vivajjaye’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應76經/ **不衰退經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼衰退、什麼不衰退？什麼被稱為『邪道』？ 
+       | 　什麼是[正]法的障礙？什麼日夜滅盡？ 
+       | 　什麼是 梵行_ 的垢穢？什麼是無水的沐浴？ 
+       | 　世間中有多少縫隙，在那裡 心_ 不住立？ 
+       | 　我們來問 世尊_，我們應該如何理解它？」 
+       | 
+       | 「不免一死的人_ 之色衰退、姓名不衰退，貪被稱為『邪道』， 
+       | 　貪欲是[正]法的障礙，生命日夜滅盡。 
+       | 
+       | 　女人是梵行的垢穢，在這裡 人們執著_， 
+       | 　鍛鍊與梵行，那是無水的沐浴。 
+       | 
+       | 　世間中有六個縫隙，在那裡心不住立： 
+       | 　懶惰與放逸，不奮起、不[自我]抑制， 
+       | 　睡眠、倦怠這六個縫隙，應該回避這全部。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_77:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **7. Issariyasuttaṃ**
+
+       | 77. ‘‘Kiṃsu issariyaṃ loke, kiṃsu bhaṇḍānamuttamaṃ;
+       | Kiṃsu satthamalaṃ loke, kiṃsu lokasmimabbudaṃ.
+       | 
+       | ‘‘Kiṃsu harantaṃ vārenti, haranto pana ko piyo;
+       | Kiṃsu punappunāyantaṃ, abhinandanti paṇḍitā’’ti.
+       | 
+       | ‘‘Vaso issariyaṃ loke, itthī bhaṇḍānamuttamaṃ;
+       | Kodho satthamalaṃ loke, corā lokasmimabbudā.
+       | 
+       | ‘‘Coraṃ harantaṃ vārenti, haranto samaṇo piyo;
+       | Samaṇaṃ punappunāyantaṃ, abhinandanti paṇḍitā’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應77經/ **統治權經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼是世間中的統治權？什麼是最上之物？ 
+       | 　什麼是世間中的生銹劍？什麼是世間中的 瘤_？ 
+       | 　當誰拿走時他們阻止？而當誰拿走時是可愛的？ 
+       | 　讓誰一再到達，賢智者們歡喜？」 
+       | 
+       | 「自在是世間中的統治權，女人是最上之物_， 
+       | 　憤怒是世間中的生銹劍，盜賊是世間中的瘤。 
+       | 　當盜賊拿走時他們阻止，而當 沙門_ 拿走時是可愛的， 
+       | 　讓沙門一再到達，賢智者們歡喜。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_78:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **8. Kāmasuttaṃ**
+
+       | 78. ‘‘Kimatthakāmo na dade, kiṃ macco na pariccaje;
+       | Kiṃsu muñceyya kalyāṇaṃ, pāpikaṃ na ca mocaye’’ti.
+       | 
+       | ‘‘Attānaṃ na dade poso, attānaṃ na pariccaje;
+       | Vācaṃ muñceyya kalyāṇaṃ, pāpikañca na mocaye’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應78經/ **愛欲經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「愛欲利益者不應該將什麼布施[出去]？不免一死的人_ 不應該永遠捨棄什麼？ 
+       | 　應該釋放善的什麼？但不應該放出惡的？」 
+       | 
+       | 「人不應該將自己布施[出去]，不應該永遠捨棄自己， 
+       | 　應該釋放善的言語，但不應該放出惡的。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_79:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **9. Pātheyyasuttaṃ**
+
+       | 79. ‘‘Kiṃsu bandhati pātheyyaṃ, kiṃsu bhogānamāsayo;
+       | Kiṃsu naraṃ parikassati, kiṃsu lokasmi dujjahaṃ;
+       | Kismiṃ baddhā puthū sattā, pāsena sakuṇī yathā’’ti.
+       | 
+       | ‘‘Saddhā bandhati pātheyyaṃ, sirī bhogānamāsayo;
+       | Icchā naraṃ parikassati, icchā lokasmi dujjahā;
+       | Icchābaddhā puthū sattā, pāsena sakuṇī yathā’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應79經/ **旅途的資糧經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼 維繫_ 旅途的資糧？什麼是財富的棲息處？
+       | 　什麼拖著人人轉？什麼是世間中難放棄的？ 
+       | 　當個個眾生被什麼束縛時，如鳥被網[束縛]？」 
+       | 
+       | 「信維繫旅途的資糧，幸運是財富的棲息處， 
+       | 　欲求拖著人人轉，欲求是世間中難放棄的， 
+       | 　當個個眾生被欲求束縛時，如鳥被網[束縛]。」 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_80:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **10. Pajjotasuttaṃ**
+
+       | 80. ‘‘Kiṃsu lokasmi pajjoto, kiṃsu lokasmi jāgaro;
+       | Kiṃsu kamme sajīvānaṃ, kimassa iriyāpatho.
+       | 
+       | ‘‘Kiṃsu alasaṃ analasañca [kiṃ ālasyānālasyañca (ka.)], mātā puttaṃva posati;
+       | Kiṃ bhūtā upajīvanti, ye pāṇā pathavissitā’’ti.
+       | 
+       | ‘‘Paññā lokasmi pajjoto, sati lokasmi jāgaro;
+       | Gāvo kamme sajīvānaṃ, sītassa iriyāpatho.
+       | 
+       | ‘‘Vuṭṭhi alasaṃ analasañca, mātā puttaṃva posati;
+       | Vuṭṭhiṃ bhūtā upajīvanti, ye pāṇā pathavissitā’’ti.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應80經/ **光明經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「什麼是世間中的光明？什麼是世間中的清醒者？ 
+       | 　什麼是工作中有生命者的[夥伴]？什麼是其 舉止行為_ [處]？ 
+       | 　什麼養育懶惰者與不懶惰者，如母之於子？ 
+       | 　凡依止大地的生物類，他們依什麼生活？」 
+       | 
+       | 「慧是世間中的光明，[正]念是世間中的清醒者， 
+       | 　母牛是工作中有生命者的[夥伴]，田埂是其舉止行為[處]。 
+       | 　雨養育懶惰者與不懶惰者，如母之於子， 
+       | 　凡依止大地的生物類，他們依雨生活。」
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+.. _sn1_81:
+
+.. list-table:: 
+   :widths: 15 75
+   :header-rows: 0
+   :class: contrast-reading-table
+
+   * - 巴利原典(CSCD) [1]_ 
+     - **11. Araṇasuttaṃ**
+
+       | 81. ‘‘Kesūdha araṇā loke, kesaṃ vusitaṃ na nassati;
+       | Kedha icchaṃ parijānanti, kesaṃ bhojissiyaṃ sadā.
+       | 
+       | ‘‘Kiṃsu mātā pitā bhātā, vandanti naṃ patiṭṭhitaṃ;
+       | Kiṃsu idha jātihīnaṃ, abhivādenti khattiyā’’ti.
+       | 
+       | ‘‘Samaṇīdha araṇā loke, samaṇānaṃ vusitaṃ na nassati;
+       | Samaṇā icchaṃ parijānanti, samaṇānaṃ bhojissiyaṃ sadā.
+       | 
+       | ‘‘Samaṇaṃ mātā pitā bhātā, vandanti naṃ patiṭṭhitaṃ;
+       | Samaṇīdha jātihīnaṃ, abhivādenti khattiyā’’ti.
+       | 
+       | Chetvāvaggo aṭṭhamo.
+       | 
+       | Tassuddānaṃ –
+       | 
+       | Chetvā rathañca cittañca, vuṭṭhi bhītā najīrati;
+       | Issaraṃ kāmaṃ pātheyyaṃ, pajjoto araṇena cāti.
+       | 
+       | Devatāsaṃyuttaṃ samattaṃ.
+
+   * - 漢譯((莊春江) [2]_
+     - 相應部1相應81經/ **無爭論經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
+
+       | 「這裡誰是世間中的無爭論者？誰的生活不 虛度_？ 
+       | 　這裡誰 遍知_ 欲？誰經常自由？ 
+       | 　誰是父母兄弟，禮拜他的已住立者？ 
+       | 　這裡誰是剎帝利 問訊_，卑下的出生者？」 
+       | 
+       | 「這裡 沙門_ 是世間中的無爭論者，沙門的生活不虛度， 
+       | 　這裡沙門遍知欲，沙門經常自由。 
+       | 　沙門是父母兄弟，禮拜他的已住立者， 
+       | 　這裡沙門是剎帝利問訊，卑下的出生者。」 
+       | 
+       | 切斷品第八，其 攝頌_： 
+       | 「切斷後、車、{心}[財產]，雨、害怕、不衰退， 
+       | 　統治權、愛欲、旅途的資糧，光明與無爭論。」 
+       | 
+       | 諸天相應完成。 
+
+   * - 漢譯(元亨寺版) [3]_ 
+     - 
+
+   * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
+     - 
+
+   * - 英譯 (Sister Upalavanna) [4]_
+     - 
+
+------
+
+- `Saṃyuttanikāya 巴利大藏經 經藏 相應部 <{filename}samyutta-nikaaya%zh.rst>`__
+
+- `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+------
+
+備註：
++++++++
+
+.. [1] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ ``*http://www.tipitaka.org/*`` (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Sagāthāvaggapāḷi → `1. Devatāsaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul0.xml>`__ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
+
+.. [2] 請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯 相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__
+
+.. [3] 請參考： `N 《漢譯南傳大藏經》 <http://tripitaka.cbeta.org/N>`__ （紙本來源：元亨寺漢譯南傳大藏經編譯委員會 / 高雄：元亨寺妙林出版社, 1995.） → 經藏／相應部 N13, N14, N15, N16, N17, N18 → `N13 <http://tripitaka.cbeta.org/N13>`__ → 第 13 冊：直接進入閱讀 `N13n0006　相應部經典(第1卷-第11卷) ( 11 卷)　【通妙譯】 <http://tripitaka.cbeta.org/N13n0006>`_ （ `第 001 卷 <http://tripitaka.cbeta.org/N13n0006_001>`__ ）、下載 `ePub <http://www.cbeta.org/download/epub/download.php?file=N/N0006.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/N/N0006.mobi>`__ 、 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/N/N0006.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/N/N0006.pdf>`__ 。
+
+.. [4] 選錄多位翻譯者之譯文，請參 `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ → `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ : 1. (sŋ 1-11) `Sagāthā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_01_sagathavagga.htm>`__ (With Cantos, Poetry, Verses) [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
+
+.. [5] 部份經典選譯，請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ 
+
+.. _sn1_24_chuang_note:
+
+　　附註：「不必一切遮，但遮其惡業」，別譯雜阿含經作「不應一切遮，但遮惡覺觀」，南傳作「如果不從一切制止意，不達到意的被抑制，從惡之處，從那裡應該制止意」(Na sabbato mano nivāraye, na mano saṃyatattamāgataṃ. Yato yato ca pāpakaṃ, tato tato mano nivārayeti)，菩提比丘長老依錫蘭本(Na sabbato mano nivāraye, mano yatattam agatam. Yato yato ca pāpakaṃ, tato tato mano nivārayeti)英譯為「一個人不需要在心中抑制一切事物，當心已來到控制下，從任何邪惡來者，從這個，一個人應該在心中抑制」(One need not rein in the mind from everything When the mind has come under control. From whatever it is that evil comes, From this one should rein in the mind.)，並解說，這裡佛陀所說，應該被制止的心與應該被修習的心，應該做分別。按：錫蘭本的含意比較連貫，並與北傳經文含意相同。
+
+.. [SN01-BodhFn-01] *Mārisa* , "dear sir," is the term which the devas generally use to address the Buddha, eminent bhikkhus (see, e.g., 40:10; IV 270, 16), and members of their own community (11:3; I 218, 34); kings also use it to address one another (3:12; I 80, 4). Spk explains it as a term of affection meaning "one without suffering" (*niddukkha*), but it is probably a Middle Indic form of Skt *mad.rsa* .
+
+                   The word "flood" (*ogha*) is used metaphorically, but here with technical overtones, to designate a doctrinal set of four floods (see 45:171), so called, according to Spk, "because they keep beings submerged within the round of existence and do not allow them to rise up to higher states and to Nibbāna." The four (with definitions from Spk) are: (i) the flood of sensuality (*kāmogha*) = desire and lust for the five cords of sensual pleasure (agreeable forms, sounds, etc.-see 45:176); (ii) the flood of existence (*bhavogha*) = desire and lust for form-sphere existence and formless-sphere existence and attachment to jhāna; (iii) the flood of views (*ditthogha*) = the sixty-two views (DN I 12-38); and (iv) the flood of ignorance (*avijjogha*) = lack of knowledge regarding the Four Noble Truths. Flood imagery is also used at vv. 298-300, 511-13, and 848-49.
+
+.. [SN01-BodhFn-02] *Appatiţţhaŋ khvāhaŋ āvuso anāyūhaŋ ogham atariŋ*. Spk: The Buddha's reply is intended to be paradoxical, for one normally crosses a flood by halting in places that offer a foothold and by straining in places that must be crossed.
+
+                   Spk glosses *appatiţţhaŋ only with appatiţţhahanto* (an alternative form of the present participle), but Spk-pţ elaborates: "Not halting: not coming to a standstill on account of the defilements and so forth; the meaning is 'not sinking' (*appatiţţhahanto ti kilesādinaŋ vasena asantiţţhanto, asaŋsīdanto ti attho*)." The verb patitiţţhati usually means "to become established," i.e., attached, principally on account of craving and other defilements: see below v. 46 and n. 35. Consciousness driven by craving is "established" (see 12:38-40, 12:64, 22:53-54), and when craving is removed it becomes "unestablished, unsupported." The arahant expires "with consciousness unestablished" (*appatiţţhitena viññāņena ... parinibbuto*; see 4:23 (I 122,12-13)). All these nuances resonate in the Buddha's reply.
+
+                   The verb *āyūhati* is rare in the Nikāyas, but see below v. 263df, v. 264d, and Sn 210d. It is an intensification of *ūhati* (augmented by *ā*- with -*y*- as liaison); the simple verb occurs at MN I 116,13-14, where it might be rendered "to be strained." Its occurrence there ties up with the present context: a strained mind is far from concentration. In the later literature the noun form āyūhana acquires the technical sense of "accumulation," with specific reference to kamma; in the formula of dependent origination (*paţiccasamuppāda*), volitional formations (*saŋkhārā*) are said to have the function of *āyūhana*; see Paţis I 52,14, 26; Vism 528,12 (Ppn 17:51), 579,31-580,4 (Ppn 17:292-93).
+
+                   Spk: The Blessed One deliberately gave an obscure reply to the deva in order to humble him, for he was stiff with conceit yet imagined himself wise. Realizing that the deva would not be able to penetrate the teaching unless he first changed his attitude, the Buddha intended to perplex him and thereby curb his pride. At that point, humbled, the deva would ask for clarification and the Buddha would explain in such a way that he could understand.
+
+.. [SN01-BodhFn-03] The Buddha's brief reply points to the middle way (*majjhimā paţipadā*) in its most comprehensive range, both practical and philosophical. To make this implication clear Spk enumerates seven dyads: (i) "halting" by way of defilements, one sinks; "straining" by way of volitional formations, one gets swept away; (ii) by way of craving and views, one sinks; by way of the other defilements, one gets swept away; (iii) by way of craving, one sinks; by way of views, one gets swept away; (iv) by way of the eternalist view, one sinks; by way of the annihilationist view, one gets swept away (see It 43,12-44,4); (v) by way of slackness one sinks, by way of restlessness one gets swept away; (vi) by way of devotion to sensual pleasures one sinks, by way of devotion to self-mortification one gets swept away; (vii) by way of all unwholesome volitional formations one sinks, by way of all mundane wholesome volitional formations one gets swept away. Ñāņananda suggests connecting the principle of "not halting, not straining" with each of the four floods: see SN-Anth 2:56-58.
+
+.. [SN01-BodhFn-04] Spk: The Buddha is called a *brahmin* in the sense of arahant (+see Dhp 388, 396-423). He is *fully quenched* (*parinibbuto*) in that he is quenched through the quenching of defilements (*kilesanibbānena nibbutaŋ*). Craving is designated *attachment* (*visattikā*) because it clings and adheres to a variety of sense objects.
+
+.. [SN01-BodhFn-05] Spk: When the deva heard the Buddha's reply he was established in the fruit of stream-entry.
+
+
+
+
+.. [SN01-ThanFn-01] Or: "unestablished." See Ud 8.1. Related references are in SN 12.38 and SN 12.64.
+
+
+
+.. Chuang note
+
+.. [我聽到這樣] 「如是我聞(SA/DA)；我聞如是(MA)；聞如是(AA)」，南傳作「我聽到這樣」(Evaṃ me sutaṃ，直譯為「這樣被我聽聞」，忽略文法逐字譯則為「如是-我-聞」)，菩提比丘長老英譯為「我聽到這樣」(Thus have I heard)。 「如是我聞……歡喜奉行。」的經文格式，依印順法師的考定，這樣的格式，應該是在《增一阿含》或《增支部》成立的時代才形成的(《原始佛教聖典之集成》p.9)，南傳《相應部》多數經只簡略地指出發生地點，應該是比較早期的風貌。
+
+.. [有一次] 「一時」，南傳作「有一次」(ekaṃ samayaṃ，直譯為「一時」)，菩提比丘長老英譯為「有一次」(On one occasion)。
+
+.. [世尊] 「世尊；眾祐」，南傳作「世尊」(bhagavā，音譯為「婆伽婆；婆伽梵；薄伽梵」，義譯為「有幸者」，古譯為「尊祐」)，菩提比丘長老英譯為「幸福者」(the Blessed One)。請參看〈 `世尊譯詞的探討 <http://agama.buddhason.org/book/bb/bb21.htm>`__ 〉。
+
+.. [問訊] 「問訊」，南傳作「問訊，接著……」(abhivādetvā)，菩提比丘長老英譯為「對……表示敬意；行屬臣的禮儀」(pay homage to)。按：「問訊」(abhivādeti)，另譯為「敬禮；禮拜」。
+
+.. [親愛的先生] 「親愛的先生」(mārisa，另譯為「我的朋友；我的老師；尊師」)，菩提比丘長老英譯為「賢明的先生；先生」(good sir; sir, SN/MN)，或「可敬的先生」(Respected sir, AN)，或「親愛的先生」(dear sir, SN)，並解說，這是天神稱呼世尊、著名比丘，或者天神間彼此稱呼的用語，國王間彼此稱呼，也用這個詞(SN.1.1)。
+
+.. [朋友] 「朋友；道友；學友」(āvuso)，菩提比丘長老英譯為「朋友」(friend)。按：此用於對平輩或晚輩(戒臘較低者)的通用稱呼，為了區別不同情況，譯者對出家眾稱在家人時譯為「朋友」，稱外道時譯為「道友」，佛弟子間互稱則譯為「學友」。
+
+.. [無住立_無用力地] 無住立、無用力地：「無所攀緣，亦無所住(SA.1267)；無可攀挽、無安足處(GA)」，南傳作「無住立、無用力地」(Appatiṭṭhaṃ anāyūhaṃ，原文為形容詞「無住立的、無用力的」)，菩提比丘長老英譯為「以不停止行進，與以不使勁」(By not halting…and by not straining)。按：「用力」(āyūhati)，原意為「努力、積聚」，長老解說，十二緣起中的「行」被稱為「用力」，又如「一顆用力的心遠離定」，積聚則指向「業」(kamma)。
+
+.. [大師] 「大師」(satthā，原形為satthar)，菩提比丘長老英譯為「你們的老師；我們的老師；老師」(your teacher，our teacher，The teacher)。按：「大師」一詞，在佛陀時代指的是教派的宗師，佛弟子口中的「大師」，就只能是指佛陀。
+
+.. [作右繞] 「右繞(SA/AA)」，南傳作「作右繞，接著……」(padakkhiṇaṃ katvā)，菩提比丘長老英譯為「保持他在他的右邊」(keeping him on his right)。按：此即佛陀時代印度最尊敬的「右繞禮」，依順時針方向保持受禮者在自己右邊繞三圈。
+
+.. [解脫_已解脫_遠離]   「解脫、已解脫、遠離」(nimokkhaṃ pamokkhaṃ vivekanti)，菩提比丘長老英譯為「脫離、解開、隔離」(emancipation, release, seclusion)。按：「已解脫」(pamokkha)，水野弘元《巴利語辭典》解為「能被解脫的」(pamuñcati的未來被動分詞)，PTS英巴辭典解為「解脫」(release, deliverance)，但《顯揚真義》說，眾生以道從污染束縛分離，因此道被稱為眾生的「解脫」(nimokkhoti)，而當果剎那時(Phalakkhaṇe)，他們從污染束縛解脫，因此果被稱為眾生的「已解脫」(pamokkhaṃ)，到達涅槃後眾生遠離一切苦，因此涅槃被稱為眾生的「遠離」(vivekoti)，今準此譯。
+
+.. [以有之歡喜的遍盡] 「以有之歡喜的遍盡」(Nandībhavaparikkhayā)，菩提比丘長老英譯為「以對存在歡樂的被完全破壞」(By the utter destruction of delight in existence)，並解說，這是滅盡對三(界)有的渴愛者。
+
+
+.. [偈頌] 「以偈頌」(gāthāya，原形gāthā音譯為「伽陀」，或簡為「偈」)，菩提比丘長老英譯為「以詩」(in verse)。巴利語之偈頌，對音節數目與音韻有其一定的規則，中文的「詩賦」與之相當，古漢譯都以「詩」的形式翻譯，而比對菩提比丘長老的英譯，常發現其對有些字，乃至句的順序與原文大不相同，作了大幅更動以譯出其真正的含意與韻味，譯者對兩者均無力涉略，只能按原文直譯，不去琢磨所譯的字數與音韻了。
+
+.. [生命被帶走] (1)「冥運持命去(SA)；人生壽不定，日日趣死徑(GA)」，南傳作「生命被帶走」(Upanīyati jīvitam)，菩提比丘長老英譯為「生命被席捲」(Life is swept along, SN/AN)。按：「被帶走；該被帶走」(Upanīyati/Upanīya)；另譯為「被導引；被導近」，《顯揚真義》以「消盡、滅，或靠近、次第到達死亡」(parikkhīyati nirujjhati, upagacchati vā, anupubbena maraṇaṃ upetīti, SN.1.3)解說。
+
+.. [應該作福德取得安樂] 「樂往至樂所(SA)；作福得趣樂(GA)」，南傳作「應該作福德取得安樂」(puññāni kayirātha sukhāvahānī)，菩提比丘長老英譯為「人們應該作帶來快樂的功績之行為」(One should do deeds of merit that bring happiness, SN/AN)。
+
+.. [期待寂靜者] 「無餘涅槃樂(SA)；欲得寂滅樂(GA)」，南傳作「期待寂靜者」(santipekkho)，菩提比丘長老英譯為「平和的尋求者」(A seeker of peace)。按：《顯揚真義》以究竟寂靜被稱為涅槃(nibbānasaṅkhātaṃ accantasantiṃ, SN.1.3)解說「寂靜」。 
+
+.. [世間誘惑物] 「世間飲食/世間信施食(MA)」，南傳作「世間誘惑物」(lokāmisaṃ，另譯為「世間物質」)，智髻比丘長老英譯為「世間的物質物；世俗物質物」(the material things of the world, wordly material things, MN)，菩提比丘長老英譯為「世間的誘惑物」(the world's bait, the bait of the world, SN)。按：《顯揚真義》說，隱喻的(pariyāyena)指三地(界)流轉的世間誘惑物(tebhūmakavaṭṭaṃ lokāmisaṃ)；非隱喻的(nippariyāyena)指四種(衣食住醫藥)必需品(paccayā, SN.1.3)，長老解說，誘惑物(āmisa，另譯為「財；食物；肉；味；利益；物質」)，此字若用在指六境，則比較是指餌鉤，而不是餌本身。  
+
+.. [種種年齡] 「種種年齡」(vayoguṇā，逐字譯為「年齡+種類」)，菩提比丘長老英譯為「生命的階段」(The stages of life)。《顯揚真義》以「初中後年齡的種類」(paṭhamamajjhimapacchimavayānaṃ guṇā)解說。「次第地捨棄」則以「它們次第地捨棄人(anupaṭipāṭiyā puggalaṃ jahanti)，因為當已立於中齡時，初齡捨棄[人](Majjhimavaye ṭhitaṃ hi paṭhamavayo jahati)，當已立於後齡時，中初二者捨棄[人]，死亡剎那，三種年齡拋棄[人]」解說。  
+
+.. [比丘] 「比丘」(bhikkhu，義譯為「乞食者」)，女性音譯為「比丘尼」(bhikkhunī)，菩提比丘長老英譯照錄不譯。按：「比丘」即「乞食」(bhikkha)的「稱呼語態」，而「乞食者」(bhikkhaka)為「乞食」的「形容詞」轉「名詞」，「比丘」與「乞食者」在通俗話語中是同義詞，但佛教僧團中「比丘」有其特定的附加條件與意義，而成為「比丘」是「乞食者」，但「乞食者」不一定都是「比丘」的情況。另外，「比丘」的台語發音，與巴利原音幾乎等同，玄奘法師則音譯為「苾芻」。
+
+.. [應該捨斷五] 「斷除五捨五(SA.1002)；斷五捨於五(SA.1312)」，南傳作「該切斷五，應該捨斷五」(Pañca chinde pañca jahe)，菩提比丘長老英譯為「一個人必須切斷五，捨斷五」(One must cut off five, abandon five)。按：《顯揚真義》說，切斷五指應該切斷五下分結(身見、疑、戒禁取、貪、瞋)；捨斷五指應該捨斷五上分結(色貪、無色貪、慢、掉舉、無明)。
+
+.. [且應該再修習五] 「增修於五根(SA.1002)；五法上增修(SA.1312)；增上修五根(GA)」，南傳作「且應該更修習五」(pañca cuttari bhāvaye)，菩提比丘長老英譯為「且必須更進一步開發五」(And must develop a further five)。按：《顯揚真義》說，應該更修習五指應該修習信[活力(精進)、念、定、慧]等五根。
+
+.. [越過五染著] 「超越五和合(SA.1002)；超五種積聚(SA.1312)；成就五分法/成就五分身(GA)」，南傳作「越過五染著」(Pañca saṅgātigo，另譯為「打勝五染著」)，菩提比丘長老英譯為「已克服五羈絆」(has surmounted five ties)。按：《顯揚真義》說，五染著指貪染著、瞋染著、癡染著、慢染著(mānasaṅgo)、見染著(diṭṭhisaṅgoti)。
+
+.. [暴流] (1)「諸流/駛流/流淵/浚流/瀑駚流/流(SA)；駛流/瀑駛流(GA)」，南傳作「暴流」(ogha，另譯作「流；洪水」)，菩提比丘長老英譯為「洪水」(the flood)。按：《長部33經》說「欲的暴流、有的暴流、見的暴流、無明的暴流」四種暴流。
+
+          (2)「生死海流/有流(SA)；有駛流/生死海(GA)；有流(DA/AA)」，南傳作「有的暴流」(bhavogho)，菩提比丘長老英譯為「存在的洪水」(the flood of existence)。按：《顯揚真義》以「對色無色有的貪欲」(rūpārūpabhavesu chandarāgo)解說，又以「對五種欲的貪欲」(pañcasu kāmaguṇesu chandarāgo)解說「欲的暴流」，以「六十二見」(dvāsaṭṭhi diṭṭhiyo)解說「見的暴流」，以「對四諦的無智」(catūsu saccesu aññāṇaṃ)解說「無明的暴流」(SN.45.172)。  
+
+.. [五] 「五人」，南傳作「五」，《顯揚真義》解說：「當信等五根醒時，名為五蓋是睡的，為什麼呢？因為具備這些的人，任何時候，即使坐、立、黎明起來，放逸、具備不善是睡的。這樣，當五蓋睡時，五根是醒的，為什麼呢？因為具備這些的人，任何時，候即使躺下睡覺，不放逸、具備善是醒的。五蓋拿起、握持、執取雜染塵垢，欲的意欲等前者以後者為緣，被五根淨化。」 
+
+.. [正覺者] (1)「覺；菩提」(bodhiṃ)，菩提比丘長老英譯為「開化」(the enlightenment)。
+
+        (2)「正覺(SA/MA)；等覺(SA/DA)」，南傳作「正覺」(sambodhi，音譯為「三菩提」)，菩提比丘長老英譯為「啟發；開化」(enlightenment)。按：這是指生死解脫的「證悟」。
+
+        (3)「正覺者」(sambuddha，另譯為「三佛陀；三佛」)，菩提比丘長老英譯為「開化者」(enlightened)。按：這是指「解脫者」。
+
+.. [在不平順中平順地行] 「嶮惡世平等(SA)」，南傳作「在不平順中平順地行」(caranti visame samanti)，菩提比丘長老英譯為「在不平坦中平坦地過活」(Fare evenly amidst the uneven)。按：「不平順」(visama)，另譯為「不正的；非理的；險難的；不平等的；不調和的」，《顯揚真義》舉「世間共住的不平順、眾生身的不平順、污染生起的不平順」(visame vā lokasannivāse visame vā sattanikāye visame vā kilesajāte, SN.1.7)解說，「平順」(sama)，另譯為「正確的；正當的；平等的；寂靜的」。
+
+
+.. [忘失] 「忘失」(sammuṭṭhā)，菩提比丘長老英譯為「混亂的」(muddled)。
+
+.. [究竟智] 「究竟智(MA)」，南傳作「究竟智」(sammadaññā，另譯為「正確地了知」)，菩提比丘長老英譯為「最終的理解」(final knowledge)。按：「究竟智」與「完全智」(aññā)的意思似乎是等同的(菩提比丘長老的英譯是相同的)，北傳多譯為「究竟智」，《顯揚真義》以「經由正確根據知道後」(Sammā kāraṇehi jānitvā, SN.1.8/3.3)解說，《破斥猶豫》以「正確的了知(完全的了知)」(sammā aññāya, MN.1)解說。「以究竟智解脫」：《顯揚真義》以「經由道慧(Maggapaññāya)知道四諦法後，以解脫果解脫(phalavimuttiyā vimuttāti, SN.3.3)」解說，《吉祥悅意》等以「經由證確的原因、理由知道後解脫」(sammā hetunā kāraṇena jānitvā vimutto, DN.27/AN.6.49)解說。 
+
+
+.. [智慧] 「寂默(SA.996)」，南傳作「智慧」(monaṃ，另譯為「寂默；沈默，牟那；牟尼」)，菩提比丘長老英譯為「賢人之道」(sagehood)。按：《顯揚真義》說，這是指四道智(catumaggañāṇaṃ)，知四諦法(catusaccadhamme jānātīti)之意。
+
+.. [林野] 「阿練若/阿蘭若(SA/AA)；無事處(GA)；無事/無事處(MA)」，南傳作「林野」(arañña，另音譯為「阿蘭若」)，菩提比丘長老英譯為「山林；林野」(forest)。按：有時經律中也將住林野者簡稱為「阿練若；阿蘭若」。
+
+.. [彼岸] (1)「彼岸」(pārimaṃ tīraṃ, pāraṃ)，菩提比丘長老英譯為「遠岸」(the far shore)，指「解脫涅槃」。
+
+          (2)「此岸」(apāraṃ, orimaṃ tīraṃ)，菩提比丘長老英譯為「近岸」(the near shore)，指「生死流轉」。
+
+          (3)「涅槃為彼岸」(nibbānaparāyanaṃ)，菩提比丘長老英譯為「涅槃為其到達地」(nibbana as its destination)。
+
+.. [攝頌] 此句為「攝頌」(uddānaṃ)，《瑜伽師地論》譯作「嗢拕南」，這是以前面十經的經名依序串集(無經名者，則採經文內容之關鍵詞，中阿含則為後面十經，參看《雜阿含1經》附註)，一方面排定了經的順序，另一方面幫助背誦經文的「持經者」之記憶。十經是體例，少於十經者應該有所脫落，多於十經者應該有後來增入。以《雜阿含7經》為例，在「時，諸比丘聞佛所說，歡喜奉行。」經文後面的「無常及苦、空、非我、正思惟，無知等四種，及於色喜樂。」即為前面十經的「攝頌」，印順法師即依此在其《雜阿含經論會編》中重編經號。
+
+.. [尊師] 「尊師！」(bhadante, bhaddante，另譯為「大德！」)，菩提比丘長老英譯為「值得尊敬的尊長」(Venerable sir)。按：《顯揚真義》等說，這是恭敬語，或對大師(老師)的回答(gāravavacanametaṃ, satthuno paṭivacanadānaṃ vā, SN.14.7/MN.23)。
+
+.. [三十三天眾] 「三十三天眾」(tāvatiṃsakāyikā，直譯為「三十三天身體的」)，菩提比丘長老英譯為「一大群三十三天」(tāvatiṃsa host)。
+
+.. [歡喜園] 「難陀林(SA)；歡喜園(GA)；難檀槃那園(AA)」，南傳作「歡喜園」(Nandana)。按：依《中部75經》，此為三十三天的園林名字。
+
+.. [五種欲] 「五欲功德(SA/MA/DA)；五欲德(SA)；五欲(AA)」，南傳作「五種欲」(pañca kāmaguṇā)，菩提比丘長老英譯為「五束感官快樂」(five cords of sensual pleasure)。按：「種類」(guṇa)，另譯為「功德」，但與「福德」(puñña，也譯為「功德」)不同，巴利經典中只出現在「五種欲」中，這裡應該只是單純的「種類」的意思。在玄奘法師的譯作中沒發現「五欲德；五欲功德」這樣的譯法，應該譯成「五妙欲」了。
+
+.. [阿羅漢] (1)「阿羅漢/羅漢/阿羅呵/阿羅訶(SA)；應真/至真(GA)；無所著/無著/至真/至真人/真人/阿羅呵/阿羅訶(MA)；阿羅漢/無所著/至真/真人(DA)；阿羅漢/至真(AA)」，南傳作「阿羅漢」(arahaṃ, arahant，義譯為「應；應供」)，智髻比丘長老英譯為「完成者」(Accomplished One)。，菩提比丘長老英譯照錄不譯。《長部29經》又稱之為「第四果」(catutthaṃ phalaṃ)。
+
+            (2)「阿羅漢狀態」(arahatta，另譯為「阿羅漢性；阿羅漢果」)，菩提比丘長老英譯為「阿羅漢狀態；阿羅漢身份」(arahantship)。
+
+.. [生起與消散法] 「是生起與消散法」(uppādavayadhammino)，Maurice Walshe先生英譯為「傾向於生起與瓦解」(prone to rise and fall, DN)，菩提比丘長老英譯為「它們的性質是發生與消散」(Their nature is to arise and vanish, SN)。
+
+.. [依著] 「億波提/有餘(SA)；受身(GA)」，南傳作「依著」(upadhiṃ，另譯為「依戀；再生的基質；執著」)，菩提比丘長老英譯為「獲得；所獲」(acquisition)。按：《顯揚真義》以「蘊與污染的造作」(khandhakilesābhisaṅkhāresu, SN.8.2)解說，《破斥猶豫》以「蘊的依著、污染的依著、造作依著、五種欲的依著(pañcakāmaguṇūpadhīti, MN.140)解說。
+
+.. [眾生] 「眾生」(pāṇina，原意為「有生命的」)，菩提比丘長老英譯為「在生命中」(among beings)。按：《顯揚真義》以「眾生」(sattānaṃ)解說，今準此譯。
+
+.. [沙門身分] (1)「沙門法(SA/MA)；得沙門名(DA)；沙門之法(AA)」，南傳作「沙門性；沙門身分」(sāmaññaṃ)，菩提比丘長老英譯為「禁欲修道主義」(asceticism, SN)，或「禁欲修道的高度」(ascetic stature, SN.2.30)，或「禁欲修道者的生活」(The ascetic life, SN)，智髻比丘長老英譯為「禁欲修道身分；禁欲修道狀態」(the recluseship, MN)。按：《顯揚真義》以「沙門法」(samaṇadhammo, SN.1.17)解說。
+
+              (2)「供養沙門(SA)；奉事沙門(GA)；尊敬沙門(MA/DA)；慈孝沙門(AA)」，南傳作「尊敬沙門」(sāmañño, sāmaññatā)，菩提比丘長老英譯為「對禁欲修道者適當地對待」(behave properly toward ascetics, AN)。
+
+.. [比丘收妥於心之尋中] 「比丘覆惡覺(GA.174)」，南傳作「比丘收妥於心之尋中」(samodahaṃ bhikkhu manovitakke)，菩提比丘長老英譯為「縮在心的想法中」(Drawing in the mind's thoughts)。按：《顯揚真義》以「心生起的尋」(manamhi uppannavitakke)解說「心之尋」。
+
+.. [不依止的] 「其心無所依(SA.600)；無所依(GA)」，南傳作「不依止的」(Anissito)，菩提比丘長老英譯為「獨立的」(Independent)。按：《顯揚真義》說，由渴愛、[邪]見的依止成為不依止的(Anissitoti taṇhādiṭṭhinissayehi anissito hutvā.)。
+
+.. [好] 「善哉」，南傳作「好、那就好了、那是好的」(sādhu，感嘆詞)，菩提比丘長老英譯為「好」(good)、「那就好了！」(it would be good)、「那是好的」(it is good)。
+
+.. [尊者] 「尊者」(āyasmā, āyasmant，另譯為「具壽」)，菩提比丘長老英譯為「尊敬的」(Venerable)。按：《顯揚真義》說，這是愛語、這是敬語(piyavacanametaṃ garuvacanametaṃ, SN.12.60)，《破斥猶豫》等說，這是愛語(piyavacanametaṃ, MN.3/DN.23/AN.2.16)。
+
+.. [時間我不知道] 「時間我不知道」(Kālaṃ vohaṃ na jānāmi)，菩提比丘長老英譯為「我不知道時間會是什麼」(I do not know what the time might be)。按：《顯揚真義》以「降下」(nipātamattaṃ)解說這裡的vo，即「時間落下」，長老說，這裡的時間指死亡來臨的時間，也就是「被隱藏的時間」，與天神所指的青春時間溜走，下一句的修學時間溜走不同。
+
+.. [耗時的] 「非時樂(SA.1078)」，南傳作「耗時的」(kālikaṃ，直譯為「時的；時間的」)，菩提比丘長老英譯為「那些費時間的」(what takes time)。
+
+.. [過患] 「患(SA/MA)；過(DA)；大患(DA/AA)」，南傳作「過患」(ādīnavo，另譯為「患」)，菩提比丘長老英譯為「危難」(danger)。
+
+.. [憶持] 「持；受持」，南傳作(i)「憶持」(dhāreti)，菩提比丘長老英譯為「記得」(remember)。(ii)「受持」(samādiyati; samādāya，另譯為「取；受」)，菩提比丘長老英譯為「承擔」(undertaken)。按：名詞「dhāraṇa」水野弘元《巴利語辭典》也譯作「受持；憶持」。
+
+.. [大德] 「大德！」(bhante)，菩提比丘長老英譯為「值得尊敬的尊長」(venerable sir)。按：此用於對戒臘較高者的通用尊敬稱呼。
+
+.. [認知能被講述的之眾生] 「認知能被講述的之眾生」(Akkheyyasaññino sattā，直譯為「有能被講述的之想的眾生」)，菩提比丘長老英譯為「覺知所有能被表示的眾生」(Beings who perceive what can be expressed)。按：《顯揚真義》以五蘊被稱為能被講述的，長老解說，語言所及的客觀範圍，當一般人認知五蘊，其想法受常、樂、我的影響，稱為顛倒，這些扭曲的想法接著挑起污穢。
+
+.. [遍知] 「智/知(SA)」，南傳作「遍知」(parijānaṃ，現在分詞)，菩提比丘長老英譯為「完全地理解」(fully understanding)。按：《顯揚真義》以「究竟遍知(最終遍知)、超越(渡過/征服)」(accantapariññaṃ, samatikkamanti, SN.22.23)解說。長老說，在經典的使用中，只有解脫阿羅漢才適合說「遍知(parijānāti, 動詞)」，而只有初果以上的聖者，才適合說「自證；證知(abhijānāti)」(親身體證的知)。詞態變化：遍知的(pariñña)，已遍知(pariññātaṃ)，應能遍知/應該被遍知(pariññeyyaṃ, 所知)。
+
+.. [被死神束縛] 「則為死方便(SA.1078)；是名屬死徑(GA)」，南傳作「被死神束縛」(yogamāyanti maccuno)，菩提比丘長老英譯為「他們進入死亡之軛(枷鎖)下」(They come under the yoke of Death)，並解說，這是指在生死中反覆，因此保持在被輪迴的時間網捕捉中。
+
+.. [思量] 「計(SA/MA)」，南傳作「思量；思量者」(maññati, maññita, maññamāno, maññeyya，另譯為「想；認為；思惟」)，菩提比丘長老英譯為「想像；抱有(思想、意見)」(conceives; conceived; conceiving)。按：《顯揚真義》以「以渴愛、慢、見之思量而思量」(taṇhāmānadiṭṭhimaññanāhi maññamāno, SN.22.64)解說，《破斥猶豫》說，以渴愛之思量而思量(taṇhāmaññanāya maññati)……以慢之思量而思量(mānamaññanāya maññati)……以邪見之思量而思量(diṭṭhimaññanāya maññati)……祈願(paṇidahati-志向)往生(upapajjeyya)為某類生命，這是以渴愛之思量而思量；比較自己與某類生命的勝劣，這是以慢之思量而思量；生命為常恆不變易法(niccā dhuvā sassatā avipariṇāmadhammā’’ti, MN.1)，這是以邪見之思量而思量，《滿足希求》以「不以渴愛、慢、見思量」(taṇhāmānadiṭṭhīhi na maññati, AN.4.24)解說「不思量」。
+
+.. [夜叉] 「夜叉(SA)；悅叉(DA)；閱叉(AA)」，南傳作「夜叉」「(yakkho)，菩提比丘長老英譯為「天使、妖精、惡魔、幽靈」(spirit)。
+
+.. [那就好了] 「善哉」，南傳作「好、那就好了、那是好的」(sādhu，感嘆詞)，菩提比丘長老英譯為「好」(good)、「那就好了！」(it would be good)、「那是好的」(it is good)。
+
+.. [慢] 「慢；慢類」(vidhā，另譯為「種類」)，菩提比丘長老英譯為「歧視；區別」(discrimination)。按：《顯揚真義》以「各種慢」(mānakoṭṭhāse, SN.18.22)解說，《滿足希求》以等、勝、劣「三種慢」(tisso vidhā, AN.7.49)解說。SN.1.20, SN.45.162, DN.33所述即為後者。
+
+.. [勝慢] 「慢(SA.1078)；三種慢(GA.17)」，南傳作「勝慢」(vimānam)，菩提比丘長老英譯為「自大」(conceit)。按：《顯揚真義》以實與不實之勝、等、劣等「九類三種慢」(navabhedaṃ tividhamānaṃ)，或「母親子宮之住處」(Nivāsaṭṭhena vā mātukucchi)解說，但長老認為，vimānam應為ca mānam(慢)之訛誤。
+
+.. [遊行] (1)「遊行」(cārikaṃ，另譯為「旅行；徘徊」)，菩提比丘長老英譯為「在旅程中；在遊歷中」(on tour)。
+
+          (2)「進行遊行」(cārikaṃ caramāno; cārikaṃ carati，直譯為「行遊行；步行遊行」)，菩提比丘長老英譯為「遊走；遊走在旅程中」(wandering; wandering on tour)。
+
+.. [有身見] (1)「自己有(MA)」，南傳作「有身」(sakkāya)，另譯為「己身；常住身」，音譯為「薩迦耶」。
+
+            (2)「身見(SA/MA/DA)；自身見(MA)；身邪(AA)」，南傳作「有身見」(sakkāyadiṭṭhi，簡為「身見」，音譯為「薩迦耶見」)，菩提比丘長老英譯為「辨識(我)的見解」(identity view)。「有身見」《 `雜阿含69經 <http://agama.buddhason.org/SA/SA0069.htm>`__ 》、《 `雜阿含109經 <http://agama.buddhason.org/SA/SA0109.htm>`__ 》等列二十種。
+
+.. [不接觸沒接觸者] 「無觸不報觸(SA.1275)；不觸者勿觸(GA)」，南傳作「不接觸沒接觸者」(Nāphusantaṃ phusati)，菩提比丘長老英譯為「它不接觸沒接觸者」(It does not touch one who does not touch)，並解說這裡的「接觸」有兩個意涵：1.得到一個特定的業(冤屈一個無辜者的重業)，2.獲得該業成熟的結果((i) to acquire a particular kamma, here the grave kamma of wronging an innocent person; and (ii) to reap the result of that kamma when it comes to maturity)。
+
+.. [那瞋害無過誤者的過失者] 「不瞋不招瞋(SA.1275)；不應妄有觸(GA)」，南傳作「那[瞋害]無過誤者的過失者」(appaduṭṭhapadosinanti，逐字譯為「無過誤者+過失者」)，菩提比丘長老英譯為「冤屈一個無辜者的人」(The one who wrongs an innocent man)。
+
+.. [外結縛] 「外纏結(SA.599)；外結髮(GA)」，南傳作「外結縛」(bahi jaṭā)，菩提比丘長老英譯為「外在的纏結」(a tangle outside)。按：「結縛」(jaṭā)，另譯為「縛」，還有「結髮(編頭髮)」的意思，但應不適用於本經，《顯揚真義》以「渴愛網(taṇhāya jāliniyā)的同義語」解說， 「外」指自身以外的。
+
+.. [喬達摩] 「瞿曇」，南傳作「喬達摩」(gotama)，菩提比丘長老英譯照錄原文。按：「喬達摩」(gotama，古音譯為「瞿曇」)，其意思為「黑(tama)牛(go)」，為釋迦牟尼佛、尊者阿難家族的姓。
+
+.. [修習著心與慧] 「內心修智慧(SA.599)；修心及智慧(GA)」，南傳作「修習著心與慧」(cittaṃ paññañca bhāvayaṃ)，菩提比丘長老英譯為「開發心與慧」(Developing the mind and wisdom)。按《顯揚真義》以「修習著定與觀」(samādhiñceva vipassanañca bhāvayamāno)解說，長老說，這裡的「心」相當於「定」，這裡經文所說是「戒、定、慧」三學。
+
+.. [無明] (1)「無明」(avijjā)，菩提比丘長老英譯為「無知」(ignorance)。
+
+          (2)「明」(vijjā)，菩提比丘長老英譯為「真實的理解」(true knowledge)。
+
+.. [有對與色想] 「有對與色想」(Paṭighaṃ rūpasaññā)，菩提比丘長老英譯為「以及色的撞擊與認知」(And also impingement and perception of form)。按：《顯揚真義》說，因取有對想而為欲有(kāmabhavo)，因取色想而為色有，取兩者為無色有。長老說，其譯法乃依據註疏偈誦押韻的看法，並解說「色的撞擊」是指五根的所緣對五根的撞擊，「撞擊想」則引《清淨道論》第十章的內容(按：即色想、聲想、氣味想、味道想、所觸想的有對想)，「色想」的範圍很廣，包括禪定中的地遍處等，結論還是回到《顯揚真義》的看法，意指三界眾生。
+
+.. [他會只以慣用語的程度說] 「平等假名說(SA.581)；隨順世俗故(GA)」，南傳作「他會只以慣用語的程度說」(Vohāramattena so vohareyyā)，菩提比丘長老英譯為「他使用這樣的詞僅當作表達」(He uses such terms as mere expressions)。
+
+.. [溪流] 「薩羅(SA)；池水/淵(GA)」，南傳作「溪流；池湖」(sarā)，菩提比丘長老英譯為「溪流」(the streams)。按：「薩羅」顯然是「溪流；池湖」(sara)的音譯，該字尚有：池、湖；流動的等多種意思。
+
+.. [擁有國家的剎帝利]  「賴吒槃提國(SA.589)；羅吒國(GA)」，南傳作「擁有國家的」(raṭṭhavantopi，逐字譯為「國+有的」)，菩提比丘長老英譯為「統治國家者」(who rule the country)。按：「賴吒槃提國；羅吒國」，應該是「有國的」(raṭṭhavanto)音譯。
+
+.. [在那些生起貪欲者中] 「如是競勝心(SA.589)；為財產鬥諍(GA)」，南傳作「在那些生起貪欲者中」(Tesu ussukkajātesu)，菩提比丘長老英譯為「在那些成為那樣貪心者中」(Among these who have become so avid)，並解說「ussukka」有正面與負面的意思，正面的意思他譯為「熱心的；熱中的；狂熱的」(zealous)，負面的意思他就譯為「貪心的」(avid)，水野弘元《巴利語辭典》則譯為「變得熱心」(正面意思)，「變得貪欲」(負面的意思)。
+
+.. [在隨有之流流動者中] 「在隨有之流流動者中」(bhavasotānusārisu)，菩提比丘長老英譯為「在存在之流中隨著流動著」(Flowing along in the stream of existence)。按：「有之流」(bhavasota)的「有」(bhava)，即十二緣起中的「有支」，《顯揚真義》以「輪迴之流」(vaṭṭasotaṃ)解說。
+
+.. [四輪與九門] 「四輪九門(SA.588)；九門四輪轉(GA)」，南傳作「四輪與九門」(Catucakkaṃ navadvāraṃ)，菩提比丘長老英譯為「有四輪與九門」(Having four wheels and nine doors)。按：《顯揚真義》以四舉止行為路(catuiriyāpathaṃ，行住坐臥)解說九門，依此，四輪與九門就是指我們的身體。
+
+.. [泥沼所生] 「深溺烏泥中(SA.588)；深淤泥之中(GA)」，南傳作「泥沼所生」(Paṅkajātaṃ)，菩提比丘長老英譯為「從泥沼生」(Born from a bog)。按：註疏以不淨的母親子宮(Mātukucchisaṅkhāte asucipaṅke)解說泥沼。
+
+.. [切斷皮帶與皮繩] 「斷愛喜長縻(SA.588)；斷於喜愛結(GA)」，南傳作「切斷皮帶與皮繩(後)」(Chetvā naddhiṃ varattañca)，菩提比丘長老英譯為「切斷皮帶與皮繩後」(Having cut the thong and the strap)。按：《顯揚真義》以之前的憤怒與之後的怨恨轉起的強烈憤怒(balavakodhanti)解說皮帶，而皮繩指殘留的污染(kilese ṭhapetvā avasesā)。
+
+.. [如鹿小腿] 「伊尼耶鹿𨄔(SA.602)；伊尼延(GA)」，南傳作「如鹿小腿」(Eṇijaṅghaṃ，三十二相之一)，菩提比丘長老英譯為「具麋鹿小腿」(with antelope calves)。按：「鹿」(eṇi，另譯為「麋鹿、羚羊」)，「伊尼耶；伊尼延」應為音譯，「小腿」(jaṅgha)即𨄔。
+
+.. [意被宣說為第六] 「心法說第六(SA.602)；意第六顯現(GA)」，南傳作「意被宣說為第六」(manochaṭṭhā paveditā)，菩提比丘長老英譯為「以心被宣說是第六」(With mind declared to be the sixth)。按：《顯揚真義》說，以五種欲為色，以意為名(manena nāmaṃ)，以兩者為五蘊之意。
+
+.. [善趣] 「善趣」(sugati, suggatiṃ)，菩提比丘長老英譯為「好的到達地」(good destination)。按：人界、天界為「善趣」。
+
+.. [他們在死者中不死] 「死則不隨死(SA.1288)」，南傳作「他們在死者中不死」(Te matesu na mīyanti)，菩提比丘長老英譯為「他們在死者中不死」(They do not die among the dead)。按：《顯揚真義》說，布施德行(dānasīlā)為在死者中不死之意。
+
+.. [趣處] (1)「所生之趣(SA)；生(一)處/生(善)處/往至處/所從去/所往至處(MA)；生處(DA)」，南傳作「趣處」(gati)，菩提比丘長老英譯為「到達地」(destination)，或「去的」(going, SN)，智髻比丘長老英譯為「去的」(the going, MN)。按：這裡的「趣處」指「往生之處」。
+
+          (2)「(隨趣往)來(SA)；所從來處(MA)」，南傳作「來處」(āgati，另譯為「來；歸來」，名詞)，Maurice Walshe先生英譯為「發生」(the arising, DN)，智髻比丘長老英譯為「到來的」(The coming, MN)，菩提比丘長老英譯為「到來的」(coming, SN)。
+
+.. [百千千供養者] 「百千邪盛會(SA.1288)；設百千大祀(GA)」，南傳作「[施]百千千供養者」(Sataṃ sahassānaṃ sahassayāginaṃ)，菩提比丘長老英譯為「則獻祭一千者的一個十萬的奉獻」(Then a hundred thousand offerings Of those who sacrifice a thousand)。按：百千千即一千萬。
+
+.. [十六分之一] 「十六不及一(SA.1288)」，南傳作「十六分之一」(Kalampi，另譯為「一小部分」)，菩提比丘長老英譯為「一小部分」(a fraction)。按：《顯揚真義》以「十六分之一，或百分之一，或千分之一，這裡取百分之一(Idha satabhāgo gahito)」解說。
+
+.. [供養] 「達嚫(SA/AA)；供養(DA)」(梵文dakṣiṇā)，南傳作「供養；施物；供養物」(dakkhiṇā)，菩提比丘長老英譯為「奉獻物；牲禮」(an offering)。按：《初期大乘佛教之起源與開展》：「特欹拏（伽陀），或作鐸欹拏、達䞋、大嚫、檀嚫、達嚫等，都是Dakṣiṇā的音譯，義淨義譯為「清淨」（伽他）。……是受供後的讚歎偈，從布施而讚歎三寶，後代用來代替說法的。」(p.504)
+
+.. [如法所得的] (1)「法利如法得利/法利如法得(MA)；得淨利養/以法得養(DA)；得法利之具/得法利之養(AA)」，南傳作「如法的如法所得利養」(lābhā dhammikā dhammaladdhā)，菩提比丘長老英譯為「正直地得到的正直獲得」(righteous gains that have been righteously obtained, AN)，智髻比丘長老英譯為「任何一種符合法的獲得」(any gain of a kind that accords with the Dhamma, MN)。「利養」(lābhā)，另譯為「利得；得到」。
+
+                (2)「如法而得(SA)；如法聚財(GA)；應得利(MA)」，南傳作「如法的如法所得」(dhammikā dhammaladdhā)，菩提比丘長老英譯為「正當的財富正當地獲得」(righteous wealth righteously gained)。「如法得(MA)；如法所得」(dhammaladdhā)即「正當的獲得」。 
+
+.. [簡別施] 「簡別施」(viceyya dānampi，另譯為「審察施」)，菩提比丘長老英譯為「區別地給予」(Giving discriminately)。按：《顯揚真義》以「簡別後被給與的布施」解說，並說，有兩種選擇：(i)施物的選擇(dakkhiṇāvicinanaṃ)：排除低劣的，選擇勝妙的；(ii)應該被供養者的選擇(dakkhiṇeyyavicinanañca)：捨棄品德壞失者，施與在教說中出家之戒等德性具足者(sīlādiguṇasampannānaṃ)。
+
+.. [善逝] 「善逝；修伽陀(AA)」，南傳作「善逝」(sugato，義譯為「已善去者；已達到善者；已到了善的情況者」)，菩提比丘長老英譯為「幸運者」(the Fortunate One)，或「善離」(is well departed, AN.5.200)，Maurice Walshe先生英譯為「完善者」(Well-Farer)，或「善安置」(well set, DN.33)。按：《顯揚真義》以完成者(sammaggatesu，正行者)解說SN.6.9偈誦中的善逝，在這裡應泛指阿羅漢，而非獨指世尊。
+
+.. [確實] 「確實」(Saddhā, addhā)，菩提比丘長老依羅馬拼音二版(addhā)英譯為「確實地」(Surely)。按：就前後文來看，羅馬拼音二版本應該比較好，今準此譯。
+
+.. [法足] 「法足；法句」(dhammapadāni，另譯為「法跡(法的足跡)」)，菩提比丘長老英譯為「法的道路」(the path of Dhamma, SN)，或「法的詩節(詩句)」(Dhamma-stanzas, SN.9.10)，或「法的要素」(Dhamma factors, AN)，Maurice Walshe先生英譯為「法的區分」(divisions of Dharnma, DN)。按：《顯揚真義》以「一切佛語」(sabbampi buddhavacanaṃ, SN.9.10)解說，《滿足希求》等以「法的一部分」(dhammakoṭṭhāsā, DN.33/AN.4.29)解說。
+
+.. [痛苦] 「煩惱/惱(SA)；煩惱(GA)」，南傳作「痛苦」(aghaṃ，另譯為「罪，禍」)，菩提比丘長老英譯為「不幸；悲慘的境遇；痛苦」(Misery, SN.1.34/5.9/22.31)，或「不幸的；可憐的」(miserable, SN.2.18)，或「苦惱；麻煩」(trouble, SN.2.18)。按：《顯揚真義》以「苦」(dukkhaṃ, SN.22.31)解說。
+
+.. [美的] 「美的」(citrāni)，菩提比丘長老英譯為「漂亮的東西」(the pretty things, SN/AN)。按：《顯揚真義》以「美的所緣」(ārammaṇacittāni, SN.1.34)解說，《滿足希求》以「美的種種所緣」(citravicitrārammaṇāni, AN.6.63)解說。
+
+.. [貪的意向] 「貪的意向」(Saṅkapparāgo)，菩提比丘長老英譯為「慾望的意向；好色的意向」(the intention of lust/lustful intention, SN/AN)。按：《顯揚真義》以「已意圖的貪」(saṅkappitarāgo, SN.1.34)解說，《滿足希求》以「因意向而生起的貪」(saṅkappavasena uppannarāgo, AN.6.63)解說。又，此句這裡依《`相應部34經 <http://agama.buddhason.org/SN/SN0034.htm>`__》(SN.1.34)區隔在偈誦外，這似乎比原標在偈誦內的五句好。
+
+.. [無所有者] 「無所有者」(akiñcanaṃ)，菩提比丘長老英譯為「什麼都沒有者」(one who has nothing)，並解說，「無所有者」通常指阿羅漢，《顯揚真義》說，這是指沒有貪、瞋、癡。
+
+.. [挑毛病] 「挑毛病」(ujjhānasaññi，直譯為「嫌責想；有不滿的想法的」)，菩提比丘長老英譯為「找毛病者」(Faultfinders)。按：《顯揚真義》說，沒有名叫挑毛病的單獨天界，這位天神因為不滿如來四種必需品的使用，祂心想，沙門喬達摩對比丘的糞掃衣、團食、樹下住處、腐尿藥喜悅、極稱讚，自己卻穿黃麻布、亞麻布等勝妙衣……。因此被法的結集上座們取其名為挑毛病者(ujjhānasaññikā)。
+
+.. [完全智] 「智(SA)；得智/所得智(MA)」，南傳作「完全智」(aññā, aññaṃ，另譯為「了知；開悟；已知」)，菩提比丘長老英譯為「最終的理解」(final knowledge)。按：「完全智」與「究竟智」(sammadaññā)的意思似乎是等同的(菩提比丘長老的英譯是相同的)，北傳多譯為「究竟智」，《顯揚真義》以「知道」(jānitvā, SN.9.10)，或「阿羅漢境界」(arahattassa nāmaṃ, SN.12.70/MN.10/DN.22)解說。「以完全智解脫者」，《滿足希求》則以「以阿羅漢果解脫的解脫者」(arahattaphalavimuttiyā vimuttassa, AN.3.86)解說。
+
+.. [自制] (1)「律儀」，南傳作「自制」(saṃvaraṃ，另譯為「防護；律儀；攝護」)，菩提比丘長老英譯為「自制」(restraint)。
+
+          (2)「律儀斷」，南傳作「自制的勤奮」(saṃvarappadhānaṃ)，菩提比丘長老英譯為「以自制而努力」(Striving by restraint)。
+
+.. [僧團] 「眾」，南傳作「僧團」(saṅgha, saṃgha)，另譯為「僧伽；和合眾」，或簡略為「僧，眾」。「弟子僧團」(sāvakasaṅgha)，另譯為「聲聞僧伽」。
+
+.. [定著] 「定著」(samādahaṃsu)，菩提比丘長老英譯為「集中貫注」(are concentrated)。按：「定著」(samādaha)，為samādahati(定；共同放置；心的統一)的現在分詞，表示持續的狀態，《顯揚真義》以「與定結合」(samādhinā yojesuṃ)解說。
+
+.. [荒蕪] (1)「穢(MA)；弊(AA)」，南傳作「心荒蕪」(cetokhilā)，菩提比丘長老英譯為「心理的貧瘠」(mental barrenness)，智髻比丘長老英譯為「心中的荒蕪」(wildernesses in the heart, MN)。按：《破斥猶豫》等以「心的剛愎狀態、塵埃狀態、殘株狀態」(cittassa thaddhabhāvā kacavarabhāvā khāṇukabhāvā, MN.16/DN.33/AN.5.205)解說。
+
+          (2)「荒蕪」(khila, khīlaṃ，另譯為「礙；頑固」)，菩提比丘長老依錫蘭本(khilaṃ)英譯為「貧瘠」(barrenness, SN/AN)，Maurice Walshe先生英譯為「心理妨礙」(mental blockages)。 
+
+.. [因陀羅柱] 「因陀羅柱」(indakhīlo，另譯為「王柱」)，菩提比丘長老英譯為「因陀羅柱」(an Indra's pillar)。按：「因陀羅」(inda，梵語作Indra，另譯為「王」)即「釋提桓因」，「因陀羅柱」依PTS英巴辭典的解說，這是城門前的標竿、樁或圓柱(the post, stake or column)，或屋子門前埋入地裡的大石頭(a large slab of stone)。 
+
+.. [擾動] 「計/傾動(SA)；移動(MA)」，南傳作「擾動」(ejā，另譯為「動；動貪；動著」)，菩提比丘長老英譯為「被擾動」(being stirred, SN)，Maurice Walshe先生英譯為「激情」(Passion, DN)，坦尼沙羅比丘長老英譯為「戀慕」(Yearning, DN)。按：《顯揚真義》以「渴愛」(taṇhā, SN.35.90)解說，或以「以所謂擾動之渴愛的捨斷成為阿羅漢境界」(ejāsaṅkhātāya taṇhāya pahānabhūtaṃ arahattaṃ, SN.22.76)解說「不擾動」，《吉祥悅意》說，渴愛以持續搖動(calanaṭṭhena, DN.21)而被稱為「擾動」。 
+
+.. [有眼者] 「有眼者」(cakkhumā, cakkhumatā)，菩提比丘長老英譯為「有眼光者」(the one with vision)，並解說「有眼者」是指佛陀，這樣稱呼，是因為佛陀具備「五眼」：佛眼(buddhacakkhu，包括「根之優劣智, indriyaparopariyattañāṇa」與「煩惱所依智, āsayānusayañāṇa」)、一切眼(samantacakkhu)、法眼(dhammacakkhu)、天眼(dibbacakkhu)、肉眼(maṃsacakkhu)(SN.6.1)。按：印順法師在《初期大乘佛教之起源與開展》中以「五眼」的出現，判定《金剛經》的集成年代與《中品般若》相同(西元50～150年)。 
+
+.. [苦界] 「苦界」(apāyaṃ)，菩提比丘長老英譯為「不幸之處」(the plane of misery)。 
+
+.. [碎石片] 「金鎗(SA.1289)；佉陀羅(GA)」，南傳作「碎石片」(sakalika)，菩提比丘長老英譯為「石頭碎片」(a stone splinter)，並解說，世尊邪惡的堂弟提婆達多在靈鳩山上推大石頭試圖謀殺他，石頭投偏了，但那塊石頭的碎石割傷世尊的腳而流血。
+
+.. [以右脅作獅子臥] 「右脅而臥(SA/MA)；右脇著地(AA)；偃右脇如師子/偃右脅而臥(DA)」，南傳作「以右脅作獅子臥」(dakkhiṇena passena sīhaseyyaṃ)，菩提比丘長老英譯為「像獅子在其右側躺下」(lies down, lion-like, on his right side)。
+
+.. [優陀那] 「優陀那」(udānaṃ)，菩提比丘長老英譯為「有所啟示的話」(inspired utterance)。印順法師解說為：「優陀那」(udāna)，或音譯為鄔陀南、嗢拖南等；義譯為讚歎、自說、自然說等。Ud+van，為氣息的由中而出，發為音聲；本義為由於驚、喜、怖、悲等情感，自然抒發出來的音聲。所以古人的解說，主要為「感興語」、「自然說」二類。
+
+.. [先生] 「先生」(bho)，菩提比丘長老英譯為「大師」(Master)，Buddhadatta英譯為「親愛的」(my dear)，Maurice Walshe先生英譯為「朋友」(friend)。
+
+.. [沙門] (1)「沙門」(samaṇa)是婆羅門以外的出家修道者之通稱，「沙門尼」(samaṇī)為女性沙門。
+
+                (2)「沙門法」(samaṇadhamme)，菩提比丘長老英譯為「禁欲修道者的特質」(the character of an ascetic, SN)，或「禁欲修道者的責任」(the duty of an ascetic)。
+
+.. [高貴者] 「良馬(SA.1289)」，南傳作「高貴者」(ājānīyo，另譯為「出生良好的；善種的；駿馬；良馬」)，菩提比丘長老英譯為「純種者」(a thoroughbred)。
+
+.. [人牛王] (1)「如似大牛王/大士之牛王(SA)」，南傳作「人牛王」(nisabho)，菩提比丘長老英譯為「首席公牛」(chief bull)。
+
+            (2)「獨處的人牛王」(paṭilīnanisabho)，菩提比丘長老英譯為「移到旁處(抽離)的首席公牛」(The withdrawn chief bull)。按：《顯揚真義》以「最上的獨處者」(paṭilīnaseṭṭho, SN.2.7)解說。
+
+.. [修習] (1)「修習」(bhāveti，原意為「使有；使存在」，名詞bhāvanā)，菩提比丘長老英譯為「開發；發展」(develops, 名詞development)，或「默想的開發；禪修」(meditative development, AN.8.36)。按：《顯揚真義》等以「使增大(vaḍḍheti, 培育)，使自己的心擴大(cittasantāne)一再生起，使生起(abhinibbattetīti, SN.3.18/MN.2)」解說，《滿足希求》以「使生起，使增大」(uppādeti vaḍḍheti, AN.1.54)。
+
+          (2)「修斷」，南傳作「修習的勤奮」(bhāvanāppadhānaṃ)，菩提比丘長老英譯為「以開發而努力」(Striving by development)。
+
+          (3)「修力(SA)」，南傳作「修習力」(bhāvanābalaṃ)，菩提比丘長老英譯為「開發的力量」(the power of development)。 
+
+.. [善解脫] 「善解脫/正解脫/正善解脫(SA)；善解脫(AA)」，南傳作「善解脫」(suvimuttaṃ)，菩提比丘長老英譯為「完全地被釋放了」(well liberated)。按：《顯揚真義》以「阿羅漢果的解脫」(arahattaphalavimuttiyā, SN.22.56)解說。 
+
+.. [不彎離] 「不涌、不沒(SA)」，南傳作「不彎曲、不彎離」(na cābhinato na cāpanato)，菩提比丘長老英譯為「不前傾，不後傾」(does not lean forward and does not lean back)。按：《顯揚真義》說，心隨順貪(Rāgānugataṃ)名為彎曲，隨順瞋(dosānugataṃ, SN.1.38)名彎離。
+
+.. [進入被有行折伏後妨礙狀態的] 「有行所持(SA)」，南傳作「進入被有行折伏後妨礙狀態的」(sasaṅkhāraniggayhavāritagato, saṅkhāraniggayhavāritagato)，菩提比丘長老英譯為「被有力的抑制[污穢]所勒住與制止」(is reined in and checked by forcefully suppressing [the defilements])，或依錫蘭本(sasaṅkhāraniggayhavāritavataṃ)英譯為「被有力的抑制所封鎖與制止」(blocked and checked by forceful suppression, SN.1.38)。按：《顯揚真義》等說，以有行、有努力(有加行)的污然折伏後成為妨礙(sasaṅkhārena sappayogena kilese niggahetvā vāritavataṃ, SN.1.38/AN.3.102/AN.9.37)，《滿足希求》說，如少德有漏定(Appaguṇasāsavasamādhi viya, DN.34)以有行、有努力之心障礙法折伏、污染妨礙。
+
+.. [有眼者領悟] 「有眼者」(cakkhumā, cakkhumatā)，菩提比丘長老英譯為「有眼光者」(the one with vision)，並解說「有眼者」是指佛陀，這樣稱呼，是因為佛陀具備「五眼」：佛眼(buddhacakkhu，包括「根之優劣智, indriyaparopariyattañāṇa」與「煩惱所依智, āsayānusayañāṇa」)、一切眼(samantacakkhu)、法眼(dhammacakkhu)、天眼(dibbacakkhu)、肉眼(maṃsacakkhu)(SN.6.1)。按：印順法師在《初期大乘佛教之起源與開展》中以「五眼」的出現，判定《金剛經》的集成年代與《中品般若》相同(西元50～150年)。
+
+.. [叫喚] 「叫喚[地獄]」(roruvaṃ)，菩提比丘長老英譯為「羅盧瓦地獄」(Roruva Hell)。按：《顯揚真義》說，有兩個叫喚：煙叫喚(dhūmaroruvo)與「焰叫喚」(jālaroruvo)，前者是另一個(visuṃ)，後者名為無間大地獄(avīcimahānirayassevetaṃ)，在那裡，眾生被火燒時，他們一再地吼叫(punappunaṃ ravaṃ ravanti)。
+
+.. [不死] 「甘露」，南傳作(i)「不死」(amata，另譯為「甘露；涅槃」)，菩提比丘長老英譯作「不死」(deathless)。按：要達到「不死」，只能「不(再)生」，也就是「不生則不死」的解脫。(ii)「蜜；蜂蜜」(madhu)，菩提比丘長老英譯作「蜂蜜；甘美物」(Honey)。
+
+.. [在欲之阿賴耶上] (1)「在阿賴耶中歡樂」(Ālayarāmā)，菩提比丘長老英譯為「樂於黏著」(delights in adhesion)。
+
+                    (2)「在欲之阿賴耶上」(kāmālaye)，菩提比丘長老英譯為「對感官快樂的窩」(To the lair of sensual pleasures)。按：「阿賴耶」(ālaya)，另譯為「執著；愛著； 所執處」，也有「窟、宅」的意思，參看《印度佛教思想史》p.25。《顯揚真義》等說，眾生在五種欲上黏著(sattā pañcasu kāmaguṇesu allīyanti)，或黏著百八種渴愛思潮(Aṭṭhasatataṇhāvicaritāni ālayanti, SN.6.1/MN.26/DN.14)，因此那些被稱為阿賴耶。
+
+.. [像是糾纏的惡鬼眾] 「如毘舍脂眾(SA.587)；毘舍闍充滿(GA)」，南傳作「像是糾纏的惡鬼眾」(pisācagaṇasevitaṃ，直譯為「被惡鬼眾結交」)，菩提比丘長老英譯為「被一大群魔鬼糾纏」(Haunted a host of demons)。《顯揚真義》說，這位天子[生前]在大師的教誡中出家五年後，取喜歡的業處進入林野，因害怕放逸而日夜不食不臥，只作意業處，以致體內生起刀風絕命，死後立即往生在三十三天的大宮殿門旁，如睡醒般。他看見宮殿內成千天女說宮殿的主人天子來了，取樂器圍繞著他。天子不知道已死，以為自己還是出家人而羞愧，所以會視那些天女眾為勾引誘惑他的惡鬼眾，而跑來向佛陀求援(大意)。按：「惡鬼」(pisāca)，另譯為「食人鬼」、「吸血鬼」，「毘舍脂」或「毘舍闍」應為其音譯。
+
+.. [戒具足者] 「如法戒具足(SA.997)；如法而持戒/正法淨持戒(GA)」，南傳作「法住者、戒具足者」(Dhammaṭṭhā sīlasampannā)，菩提比丘長老英譯為「建立法，具有德行」(Established in Dhamma, endowed with virtue)。
+
+.. [不免一死的人] 「不免一死的人」(macco，另譯為「人；人間」)，菩提比丘長老英譯為「難免一死者」(a mortal, mortals)。
+
+.. [閻摩世界] 「閻摩世界」(yamalokaṃ)，菩提比丘長老解說為「餓鬼界」(pettivisaya)。
+
+.. [在當生中] 「現法；見法；現世」，南傳作「在當生中；當生」(diṭṭheva dhamme，直譯為「見法；現法」)，菩提比丘長老英譯為「就在這一生」(in this very life)。
+
+.. [惡趣] 「惡趣」(duggatiṃ，惡-趣/去處)，菩提比丘長老英譯為「壞的目的地」(the bad destinations)。按：地獄界、餓鬼界、畜生界為「三惡趣；三塗」。
+
+.. [有淨信] (1)「有淨信的」(pasannaṃ，另譯為「明淨的；澄淨的；已喜的」，轉名詞為「有淨信者」，分詞為「當有淨信時」，動詞 pasīdati 為「得到淨信」)，菩提比丘長老英譯為「信任」(confidence)。
+
+            (2)「極淨信的」(abhippasanno，另譯為「極明淨的」，轉名詞為「極淨信者」)，菩提比丘長老英譯為「充分信任」(full confidence)。
+
+            (3)「有淨信的行為」(pasannākāraṃ)，菩提比丘長老英譯為「信任」(confidence)。按：《顯揚真義》說，這是施與衣食需要物(cīvarādayo paccaye)，或施與四種需要物。
+
+.. [無煩天] 「無煩天、天軛、是你在過去的同伴」，參看《 `相應部105經 <http://agama.buddhason.org/SN/SN0105.htm>`__ 》(SN.2.24)。
+
+.. [已親自修習] (1)「善修身(SA)」，南傳作「已親自修習」(bhāvitatto)，菩提比丘長老英譯為「內在已開發」(inwardly developed, SN)。按：《顯揚真義》以「自己修習、使增大後住立」(attānaṃ bhāvetvā vaḍḍhetvā ṭhito, SN.6.3)解說，PTS英巴辭典解為「自己-已修習」(bhāvita-atta)，也譯作「善修習；善被訓練」(well trained)，並說此中的「自己」，也可等同於「心」，菩提比丘長老在《相應部2相應14經》就英譯為「被開發的心」(of developed mind)，此處則譯為「內在」(inwardly)，與「心」意思相通。
+
+                (2)「已親自多修習」(bahulīkatattā)，菩提比丘長老英譯為「鍛鍊」(cultivated)，同「多修習」(bahulīkata)。
+
+.. [出外人] 「出外人」(pavasato，直譯為「離家而住；居住國外」)，菩提比丘長老英譯為「在旅程中者」(one on a journey)。
+
+.. [所依] 「所依」(vatthu，另譯為「土地，宅地，基礎，事物」)，菩提比丘長老英譯為「支持；支撐」(support)。按：《顯揚真義》說，當老的時候，以兒子的持續照料(paṭijagganaṭṭhena)為依所(patiṭṭhā, 立足處)。
+
+.. [業是他的所趣處] 「業者可依怙(SA.1017)；苦為大怖畏(GA)」，南傳作「業是他的所趣處」(kammaṃ tassa parāyananti)，菩提比丘長老英譯為「業決定他的命運」(Kamma determines his destiny)。按：《顯揚真義》以「必定完成」(nipphatti avassayo)解說「所趣處」。
+
+.. [在這裡人們執著] 「女則累世間(SA.1019)；亦惱害世間(GA)」，南傳作「在這裡人們執著」(etthāyaṃ sajjate pajā，直譯為「在這裡這被人們執著」)，菩提比丘長老英譯為「在這裡男人們被絆住」(Here menfolk are enmeshed)。
+
+.. [同伴] 「第二(SA.1014)；二伴(GA)」，南傳作「同伴」(dutiyā，另譯為「第二的；第二者；伴侶」)，菩提比丘長老英譯為「合夥人；伙伴」(partner)。按：《顯揚真義》以「善趣與涅槃」(sugatiñceva nibbānañca)解說。
+
+.. [韻律是偈頌的因緣] 「欲者是偈因(SA.1021)；偈以欲為初(GA)」，南傳作「韻律是偈頌的因緣」(Chando nidānaṃ gāthānaṃ)，菩提比丘長老英譯為「韻律是偈頌的骨架」(Metre is the scaffolding of verses)。按：「Chanda」的意思是「欲」，「Chando」的意思是「韻律」，此處北傳漢譯為「欲」，應屬不當。
+
+.. [偈頌基於名] 「名者偈所依(SA.1021)；偈依止於名(GA)」，南傳作「偈頌基於名字」(Nāmasannissitā gāthā)，菩提比丘長老英譯為「詩基於名字的基礎」(Verses rest on a base of names)。按：《顯揚真義》說，偈頌是依於海洋、大地等一些名字開始的。
+
+.. [一法] 「一法」(Ekadhammo)，菩提比丘長老英譯為「一件事」(one thing)。
+
+.. [名征服一切] 「名者世無上(SA.1020)；四陰名最勝GA)」，南傳作「名征服一切」(Nāmaṃ sabbaṃ addhabhavi)，菩提比丘長老英譯為「名壓下一切事物」(Name has weighed down everything)。按：「名」即「四無色陰；四陰」(《 `雜阿含298經 <http://agama.buddhason.org/SA/SA0298.htm>`__ 》)，《顯揚真義》說，化生的或人造的，脫離名的眾生不存在，即使不知名的樹木或岩石，仍名為無名者(anāmakotveva)。
+
+.. [比名更多的不存在] 「比名更多的不存在」(nāmā bhiyyo na vijjati)，菩提比丘長老英譯為「沒有什麼比名更廣」(Nothing is more extensive than name)。
+
+.. [尋是它遊走的方法] 「尋是它遊走的方法」(vitakkassa vicāraṇaṃ，直譯為「尋的走來走去」)，菩提比丘長老英譯為「思考是它四處動的方法」(Thought is its means of travelling about)，並解說，「遊走」(vicāraṇa)，與其同源的「伺」(vicāra)，通常與「尋」(vitakka)合起來描述思考的過程(the thought process)，如初禪(的「有尋有伺」)，這裡似乎是表示：「尋」(思考)不需要身體的運動就能四處遊歷。按：「遊走」(vicāraṇa)，另譯為「考察；伺察」，《顯揚真義》以腳(pādāni，複數)解說。
+
+.. [六] 「六法(SA.1008)」，南傳作「六」，《顯揚真義》解說為「六內處」與「六外處」，即：「對六內處執取後，世間在六外處之中被惱害。」
+
+.. [睡得安樂] 「臥覺常安樂/安隱臥/安隱眠/安睡眠/安眠(SA)；安隱眠/眠快/歡喜眠(MA)；善眠/臥安(AA)」，南傳作「睡得安樂」(sukhaṃ seti, sukhaṃ supati，逐字譯為「樂臥」，「臥」為動詞)，菩提比丘長老英譯為「睡得安樂」(sleeps at ease, slept well, SN.3.14/10.8)，「睡得香甜」(sleep soundly, SN.11.21/7.1/1.71)，或「活得快樂」(live happily, AN.3.129)，或「高興」(rejoices, AN.4.70)。
+
+.. [端蜜而根毒之憤怒] 「瞋恚為毒根(SA)」，南傳作「端蜜而根毒之憤怒」(Kodhassa visamūlassa, madhuraggassa)，菩提比丘長老英譯為「帶著其有毒的根與甜蜜的頂端」(With its poisoned root and honeyed tip)。按：《顯揚真義》說，「毒根」指苦果，「端蜜」指回報憤怒、回罵非難、回擊攻擊後，樂生起(SN.1.71)。另外，偈誦前段的「切斷什麼後」的「切斷後」(chetvā)，錫蘭版均作「殺後」(jhatvā)。
+
+.. [不只一個處] 「不只一個處」(canekāyatana)，菩提比丘長老英譯為「許多基礎(遍處；業處)」(many bases)。按：《顯揚真義》以「因38個所緣而被說各種不同的因素」(aṭṭhatiṃsārammaṇavasena anekehi kāraṇehi kathito)解說。
+
+.. [梵行] (1)「梵行」(brahmacariya)，菩提比丘長老英譯為「聖潔的生活」(the holy life)。按：梵行的原義應指修往生梵天界的行為，演為「修清淨行」，又因梵天屬出欲界的色界，故亦為離淫欲的同義語，《集異門足論》：「離二交會說名梵行。」
+
+          (2)「梵行求(DA)」，南傳作「梵行的尋求」(brahmacariyesanā)，Maurice Walshe先生英譯為「為聖潔生活的尋求」(quests for the holy life, DN)，菩提比丘長老英譯為「為聖潔生活的尋求」(the search for a holy life, SN)。按：《顯揚真義》說，此指邪見考量(micchādiṭṭhisaṅkhātassa)的梵行尋求。
+
+          (3)「離非梵行/斷非梵行(MA)」，南傳作「捨斷非梵行」(Abrahmacariyaṃ pahāya)，智髻比丘長老英譯為「戒絕卑俗的性交實行」(abstaining from the vulgar practice of sexual intercourse, MN)。
+
+.. [心] 「心」(vittaṃ, cittaṃ)，菩提比丘長老英譯為「心」(the mind)。按：《顯揚真義》沒解說，其他版本(sī. syā. kaṃ. pī)均作cittaṃ，今準此譯。
+
+.. [人們執著] 「在這裡人們執著」，參看《 `相應部58經 <http://agama.buddhason.org/SN/SN0058.htm>`__ 》(`SN.1.58 <#sn1_76>`__)。
+
+.. [瘤] (1)「瘤」(abbudaṃ)，菩提比丘長老英譯為「瘟疫」(a plague)。按：《顯揚真義》以「破壞的因素，盜賊在世間破壞的意思」(vināsakāraṇaṃ, corā lokasmiṃ vināsakāti attho, SN.1.77)解說。
+
+        (2)「胞」(abbudaṃ)，菩提比丘長老英譯照錄原文。按：《顯揚真義》以「為洗肉水的色澤」(maṃsadhovanaudakavaṇṇaṃ, SN.10.1)形容這個時期的胚胎。
+
+        (3)「阿浮陀」(abbudā)、「尼羅浮多獄；尼羅浮陀；尼羅浮；尼羅部陀」(nirabbudānaṃ)，菩提比丘長老說，這是時間單位：阿浮陀=20x10的42次方年，尼羅部陀=20阿浮陀(koṭi=1千萬=10^7, pakoṭi=koṭi of koṭi=10^14, koṭipakoṭi=koṭi of pakoṭi=10^21, nahuta=koṭi of koṭipakoṭi=10^28, ninnahuta=koṭi of nahuta=10^35, abbuda=koṭi of ninnahuta=10^42)。按：此亦為地獄名稱，參看《 `雜阿含1278經 <http://agama.buddhason.org/SA/SA1278.htm>`__ 》。
+
+.. [女人是最上之物] 「女人是最上之物」(itthī bhaṇḍānamuttamaṃ)，菩提比丘長老英譯為「女人列為最好的物品」(A woman ranks as the best of goods)。按：《顯揚真義》說，因為女人是「不應該丟棄的品物」(avissajjanīyabhaṇḍattā)，一切菩薩與轉輪王就從母親的子宮出生。
+
+.. [維繫] 「持[資糧](SA)；懷[嫉妒](MA)」，南傳作「維繫[旅途的資糧]；懷[嫉妒/嫌隙怨恨]」(bandhati，動詞，原意為「繫縛；結合；組成」)，Maurice Walshe先生英譯為「[怨恨]被激起」([Malice] is stirred up by, DN)，菩提比丘長老英譯為「保證[資糧]」(secures[provisions], SN.1.79)，或「[忌妒]」([envies], AN.4.197)，或「窩藏[怨恨]」(harbors[resentment], AN.9.29)。
+
+.. [舉止行為] 「舉止行為」(iriyāpatho，逐字譯為「威儀+路」)，菩提比丘長老英譯為「行動過程」(course of movement)，智髻比丘長老英譯為「姿態」(posture, MN.20)。按：《顯揚真義》以「活命生計；活命行為」(jīvitavutti)解說。
+
+.. [虛度] 「虛度」(nassati，原意為「滅亡；遺失；消失」)，菩提比丘長老英譯為「揮霍」(is squandered)。
+
+..
+  09.25 make & upload for test (漢譯((莊春江))
+  08.22 create, upload for test (myweb.ncku)
