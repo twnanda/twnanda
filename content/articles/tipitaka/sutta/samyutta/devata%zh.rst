@@ -2,11 +2,13 @@ Devatā-saṃyutta 諸天相應, Devas (巴利三藏 相應部)
 ####################################################
 
 :date: 2004-07-31
-:modified: 2017-08-19
+:modified: 2017-10-06
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Devataa.htm
 :tags: 巴利三藏相應部, 諸天相應, Devatā-saṃyutta, Devatāsaṃyutta, Devas
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 devatāsaṃyuttaṃ (Devas 諸天相應)
+
+- `諸天相應對讀 <{filename}sn01-devata-samyutta-parallel-reading%zh.rst>`__ 
 
 .. list-table:: Devatā-saṃyutta 諸天相應
 
@@ -948,6 +950,8 @@ Chetvā-Vaggo 第八 斷品
 
 ------
 
+- `諸天相應對讀 <{filename}sn01-devata-samyutta-parallel-reading%zh.rst>`__ 
+
 - `Saṃyuttanikāya 巴利大藏經 經藏 相應部 <{filename}samyutta-nikaaya%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
@@ -970,6 +974,7 @@ Chetvā-Vaggo 第八 斷品
 .. [5] 部份經典選譯，請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ 
 
 ..
+  10.06 add: 諸天相應對讀 sn01-devata-samyutta-parallel-reading 
   08.19 add interior tag, e.g. .. _sn1_1:
   08.14 rev. note(ref.)
   07.31 finish this vaggo

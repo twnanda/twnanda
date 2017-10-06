@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2017-08-19
+:modified: 2017-10-06
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應部尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -74,7 +74,7 @@ Saṃyuttanikāya
 Sagāthāvagga 有偈篇
 --------------------
 
-- 1.) `Devatā-saṃyutta 諸天相應 <{filename}devata%zh.rst>`__ (81 經, Devas)
+- 1.) `Devatā-saṃyutta 諸天相應 <{filename}devata%zh.rst>`__ (81 經, Devas); `諸天相應對讀 <{filename}sn01-devata-samyutta-parallel-reading%zh.rst>`__ 
 
 - 2.) `Devaputta-saṃyutta 天子相應 <{filename}devaputta%zh.rst>`__ (30 經, Sons of the Devas)
 
@@ -336,6 +336,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  10.06 add: 諸天相應對讀 sn01-devata-samyutta-parallel-reading 
   08.19 add: Jambukhādaka-saṃyuttaṃ 閻浮車相應、Sāmaṇḍaka-saṃyuttaṃ 沙門出家相應
   08.18 add: Magga-saṃyuttaṃ 道相應
   08.13 add: Jhāna-saṃyuttaṃ 禪相應
