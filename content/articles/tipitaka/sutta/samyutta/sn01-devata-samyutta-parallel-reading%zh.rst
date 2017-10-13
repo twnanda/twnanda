@@ -2,7 +2,7 @@
 ######################################################################
 
 :date: 2017-08-22
-:modified: 2017-10-05
+:modified: 2017-10-13
 :tags: 巴利三藏相應部, 諸天相應對讀, Parallel Reading, Devatā-saṃyutta, Devatāsaṃyutta, Devas
 :category: 巴利三藏相應部
 :summary: 諸天相應對讀 Parallel Reading of Devatā-saṃyutta (巴利三藏 相應部) (Devas 諸天)
@@ -130,9 +130,7 @@ Naḷa-Vaggo 第一 蘆葦品
        | **I. A Reed**
        | 
 
-       **Ogha Suttaŋ**
-
-       **Crossing the Flood**
+       **Sutta 1: Ogha Suttaŋ-- Crossing the Flood**
 
        THUS HAVE I HEARD.
 
@@ -232,7 +230,22 @@ Naḷa-Vaggo 第一 蘆葦品
        | 　　　　　知眾生解脫　　令解脫遠離
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 2: Nimokkha Suttaŋ-- Emancipation**
+        
+       At Sāvatthī. Then, when the night had advanced, a certain devatā of stunning beauty, illuminating the entire Jeta's Grove, approached the Blessed One. Having approached, he paid homage to the Blessed One, stood to one side, and said to him:
+
+       "Do you know, dear sir, emancipation, release, seclusion for beings?"
+
+       "I know, friend, emancipation, release, seclusion for beings."
+
+       "But in what way, dear sir, do you know emancipation, release, seclusion for beings?"
+
+       | [The Blessed One:]
+       | "By the utter destruction of delight in existence,
+       | By the extinction of perception and consciousness,
+       | By the cessation and appeasement of feelings:
+       | It is thus, friend, that I know for beings —
+       | Emancipation, release, seclusion."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -285,7 +298,19 @@ Naḷa-Vaggo 第一 蘆葦品
        | 　　　　　觀死此恐怖　　棄欲希寂靜
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 3: Upaneyya Suttaŋ-- Reaching**
+
+       At Sāvatthī. Standing to one side, that devatā recited this verse in the presence of the Blessed One:
+
+       | "Life is swept along, short is the life span;
+       | No shelters exist for one who has reached old age.
+       | Seeing clearly this danger in death,
+       | One should do deeds of merit that bring happiness."
+       | [The Blessed One:]
+       | "Life is swept along, short is the life span;
+       | No shelters exist for one who has reached old age.
+       | Seeing clearly this danger in death,
+       | A seeker of peace should drop the world's bait."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -293,7 +318,6 @@ Naḷa-Vaggo 第一 蘆葦品
 ------
 
 .. _sn1_4:
-
 
 .. list-table:: 
    :widths: 15 75
@@ -339,7 +363,19 @@ Naḷa-Vaggo 第一 蘆葦品
        | 　　　　　觀死此恐怖　　棄欲希寂靜
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 4: Accenti Suttaŋ-- Time Flies By**
+
+       At Sāvatthī. Standing to one side, that devatā recited this verse in the presence of the Blessed One:
+
+       | "Time flies by, the nights swiftly pass;
+       | The stages of life successively desert us.
+       | Seeing clearly this danger in death,
+       | One should do deeds of merit that bring happiness."
+       | [The Blessed One:]
+       | "Time flies by, the nights swiftly pass;
+       | The stages of life successively desert us.
+       | Seeing clearly this danger in death,
+       | A seeker of peace should drop the world's bait."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -389,7 +425,19 @@ Naḷa-Vaggo 第一 蘆葦品
        | 　　　　　超越五種結　　稱渡瀑流僧
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 5: Kati Chinde Suttaŋ-- How Many Must One Cut?**
+
+       At Sāvatthī. Standing to one side, that devatā recited this verse in the presence of the Blessed One:
+
+       | "How many must one cut, how many abandon,
+       | And how many further must one develop?
+       | When a bhikkhu has surmounted how many ties
+       | Is he called a crosser of the flood?"
+       | [The Blessed One:]
+       | "One must cut off five, abandon five,
+       | And must develop a further five.
+       | A bhikkhu who has surmounted five ties
+       | Is called a crosser of the flood."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -439,7 +487,19 @@ Naḷa-Vaggo 第一 蘆葦品
        | 　　　　　染塵依於五　　依五而得清
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 6: Jagara Suttaŋ-- Awake**
+
+       At Sāvatthī. Standing to one side, that devatā recited this verse in the presence of the Blessed One:
+
+       | "How many are asleep when [others] are awake?
+       | How many are awake when [others] sleep?
+       | [92] By how many does one gather dust?
+       | By how many is one purified?"
+       | [The Blessed One:]
+       | "Five are asleep when [others] are awake;
+       | Five are awake when [others] sleep.
+       | By five things one gathers dust,
+       | By five things one is purified."[4]
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -489,7 +549,19 @@ Naḷa-Vaggo 第一 蘆葦品
        | 　　　　　彼等正證知　　以平行不平
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 7: Appaţividitā Suttaŋ-- Not Penetrated**
+
+       At Sāvatthī. Standing to one side, that devatā recited this verse in the presence of the Blessed One:
+
+       | "Those who have not penetrated things,
+       | Who may be led into others' doctrines,
+       | Fast asleep, they have not yet awakened:
+       | It is time for them to awaken."
+       | [The Blessed One:]
+       | "Those who have penetrated things well,
+       | Who cannot be led into others' doctrines,
+       | Those awakened ones, having rightly known,
+       | Fare evenly amidst the uneven."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -538,7 +610,19 @@ Naḷa-Vaggo 第一 蘆葦品
        | 　　　　　彼等正證知　　以平行不平
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 8: Susammuţţhā Suttaŋ-- Utterly Muddled**
+ 
+       At Sāvatthī. Standing to one side, that devatā recited this verse in the presence of the Blessed One:
+
+       | "Those who are utterly muddled about things,
+       | Who may be led into others' doctrines,
+       | Fast asleep, they have not yet awakened:
+       | It is time for them to awaken."
+       | [The Blessed One:]
+       | "Those who aren't muddled about things,
+       | Who cannot be led into others' doctrines,
+       | Those awakened ones, having rightly known,
+       | Fare evenly amidst the uneven."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -589,7 +673,19 @@ Naḷa-Vaggo 第一 蘆葦品
        | 　　　　　獨住不放逸　　可度死魔岸
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 9: Mānakāma Suttaŋ-- One Prone to Conceit**
+
+       At Sāvatthī. Standing to one side, that devatā recited this verse in the presence of the Blessed One:
+
+       | "There is no taming here for one fond of conceit,
+       | Nor is there sagehood for the unconcentrated:
+       | Though dwelling alone in the forest, heedless,
+       | One cannot cross beyond the realm of Death."
+       | [The Blessed One:]
+       | "Having abandoned conceit, well concentrated,
+       | With lofty mind, everywhere released:
+       | While dwelling alone in the forest, diligent,
+       | One can cross beyond the realm of Death."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -664,7 +760,23 @@ Naḷa-Vaggo 第一 蘆葦品
        | 　　　　　　第十謂林住　　依此有品名
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 10: Araññe Suttaŋ-- Forest**
+
+       At Sāvatthī. Standing to one side, that devatā recited this verse in the presence of the Blessed One:
+
+       | "Those who dwell deep in the forest,
+       | Peaceful, leading the holy life,
+       | Eating but a single meal a day:
+       | Why is their complexion so serene?"
+       | [The Blessed One:]
+       | "They do not sorrow over the past,
+       | Nor do they hanker for the future.
+       | They maintain themselves with what is present:
+       | Hence their complexion is so serene.
+       | "Through hankering for the future,
+       | Through sorrowing over the past,
+       | Fools dry up and wither away
+       | Like a green reed cut down."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -754,7 +866,35 @@ Nandana-Vaggo 第二 歡喜園品
        | 生者必有滅　　寂此正悅樂
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 11: Nandana Suttaŋ-- Nandana**
+
+       THUS HAVE I HEARD.
+
+       On one occasion the Blessed One was dwelling at Sāvatthi in Jeta's Grove, Anāthapiņđika's Park.
+
+       There the Blessed One addressed the bhikkhus thus:
+
+       "Bhikkhus!"
+
+       "Venerable sir!" those bhikkhus replied.
+
+       The Blessed One said this:
+
+       "Once in the past, bhikkhus, a certain devatā of the Tavatiŋsa host was revelling in Nandana Grove, supplied and endowed with the five cords of celestial sensual pleasure, accompanied by a retinue of celestial nymphs.
+
+       On that occasion he spoke this verse:
+
+       | "'They do not know bliss
+       | Who have not seen Nandana,
+       | The abode of the glorious male devas
+       | Belonging to the host of Thirty.'
+       | "When this was said, bhikkhus, a certain devatā replied to that devatā in verse:
+       | "'Don't you know, you fool,
+       | That maxim of the arahants?
+       | Impermanent are all formations;
+       | Their nature is to arise and vanish.
+       | Having arisen, they cease:
+       | Their appeasement is blissful.'"
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -808,7 +948,21 @@ Nandana-Vaggo 第二 歡喜園品
        | 　　　　　人悲依於依　　無依即無悲
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 12: Nandati Suttaŋ-- Delight**
+
+       At Sāvatthī.
+
+       Standing to one side, that devatā recited this verse in the presence of the Blessed One:
+
+       | "One who has sons delights in sons,
+       | One with cattle delights in cattle.
+       | Acquisitions truly are a man's delight;
+       | Without acquisitions one does not delight."
+       | [The Blessed One:]
+       | "One who has sons sorrows over sons,
+       | One with cattle sorrows over cattle.
+       | Acquisitions truly are a man's sorrows;
+       | Without acquisitions one does not sorrow."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -859,7 +1013,21 @@ Nandana-Vaggo 第二 歡喜園品
        | 　　　　　光明莫若慧　　雨為最上湖
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 13: N'atthi Suttaŋ-- None Equal to That for a Son**
+
+       At Sāvatthī.
+
+       Standing to one side, that devatā spoke this verse in the presence of the Blessed One:
+
+       | "There is no affection like that for a son,
+       | No wealth equal to cattle,
+       | There is no light like the sun,
+       | Among the waters the ocean is supreme."
+       | [The Blessed One:]
+       | "There is no affection like that for oneself,
+       | No wealth equal to grain,
+       | There is no light like wisdom,
+       | Among the waters the rain is supreme."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -899,7 +1067,17 @@ Nandana-Vaggo 第二 歡喜園品
        | 　　　　　柔順為賢妻　　孝順子最勝
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 14: Khattiyo Suttaŋ-- The Khattiya**
+
+       | "The khattiya is the best of bipeds,
+       | The ox, the best of quadrupeds;
+       | A maiden is the best of wives,
+       | The first born, the best of sons."
+       | 
+       | "The Buddha is the best of bipeds,
+       | A steed, the best of quadrupeds;
+       | An obedient woman is the best of wives,
+       | A dutiful boy, the best of sons."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -941,7 +1119,17 @@ Nandana-Vaggo 第二 歡喜園品
        | 　　　　　於是大林鳴　　其樂現於我
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 15: Sakamāno or Santikāyo Suttaŋ-- Murmuring**
+
+       | "When the noon hour sets in
+       | And the birds have settled down,
+       | The mighty forest itself murmurs:
+       | How fearful that appears to me!"
+       | 
+       | "When the noon hour sets in
+       | And the birds have settled down,
+       | The mighty forest itself murmurs:
+       | How delightful that appears to me!"
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -984,7 +1172,17 @@ Nandana-Vaggo 第二 歡喜園品
        | 　　　　　精進以拂此　　聖道即自清
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 16: Niddā Tandi Suttaŋ-- Drowsiness and Lethargy**
+
+       | "Drowsiness, lethargy, lazy stretching,
+       | Discontent, torpor after meals:
+       | Because of this, here among beings,
+       | The noble path does not appear."
+       | 
+       | "Drowsiness, lethargy, lazy stretching,
+       | Discontent, torpor after meals:
+       | When one dispels this with energy,
+       | The noble path is cleared."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -1037,7 +1235,22 @@ Nandana-Vaggo 第二 歡喜園品
        | 　　　　　以離於煩惱　　誰亦不得貶
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 17: Dukkara Suttaŋ-- Difficult to Practise**
+
+       | "The ascetic life is hard to practise
+       | And hard for the inept to endure,
+       | For many are the obstructions there
+       | In which the fool founders."
+       | 
+       | "How many days can one practise the ascetic life
+       | If one does not rein in one's mind?
+       | One would founder with each step
+       | Under the control of one's intentions.
+       | 
+       | "Drawing in the mind's thoughts
+       | As a tortoise draws its limbs into its shell,
+       | Independent, not harassing others, fully quenched,
+       | A bhikkhu would not blame anyone."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -1079,7 +1292,17 @@ Nandana-Vaggo 第二 歡喜園品
        | 　　　　　達苦之邊際　　以平行不平
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 18: Hirī Suttaŋ-- A Sense of Shame**
+
+       | "Is there a person somewhere in the world
+       | Who is restrained by a sense of shame,
+       | One who draws back from blame
+       | As a good horse does from the whip?"
+       | 
+       | "Few are those restrained by a sense of shame
+       | Who fare always mindful;
+       | Few, having reached the end of suffering,
+       | Fare evenly amidst the uneven."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -1148,7 +1371,32 @@ Nandana-Vaggo 第二 歡喜園品
        | 　　　　　善哉無繼系　　善哉卿脫縛」
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 19: Kutikā Suttaŋ-- A Little Hut**
+
+       | "Don't you have a little hut?
+       | Don't you have a little nest?
+       | Don't you have any lines extended?
+       | Are you free from bondage?"
+       | 
+       | "Surely I have no little hut,
+       | Surely I have no little nest,
+       | Surely I have no lines extended,
+       | Surely I'm free from bondage."
+       | 
+       | "What do you think I call a little hut?
+       | What do you think I call a little nest?
+       | What do you think I call lines extended?
+       | What do you think I call bondage?"
+       | 
+       | "It's a mother that you call a little hut,
+       | A wife that you call a little nest,
+       | Sons that you call lines extended,
+       | Craving that you tell me is bondage."
+       | 
+       | "It's good that you have no little hut,
+       | Good that you have no little nest,
+       | Good that you have no lines extended,
+       | Good that you are free from bondage."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -1429,7 +1677,112 @@ Nandana-Vaggo 第二 歡喜園品
        | 慚與第九屋　　十云三彌提
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 20: Samiddhi Suttaŋ-- Samiddhi**
+
+       Thus have I heard.
+
+       On one occasion the Blessed One was dwelling at Rājagaha in the Hot Springs Park.
+
+       Then the Venerable Samiddhi, having risen at the first flush of dawn, went to the hot springs to bathe.
+
+       Having bathed in the hot springs and come back out, he stood in one robe drying his limbs.
+
+       Then, when the night had advanced, a certain devatā of stunning beauty, illuminating the entire hot springs, approached the Venerable Samiddhi.
+
+       Having approached, she stood in the air and addressed the Venerable Samiddhi in verse:
+
+       | "Without having enjoyed you seek alms, bhikkhu,
+       | You don't seek alms after you've enjoyed.
+       | First enjoy, bhikkhu, then seek alms:
+       | Don't let the time pass you by!"
+       | "I do not know what the time might be;
+       | The time is hidden and cannot be seen.
+       | Hence, without enjoying, I seek alms:
+       | Don't let the time pass me by!"
+        
+       Then that devatā alighted on the earth and said to the Venerable Samiddhi:
+        
+       "You have gone forth while young, bhikkhu, a lad with black hair, endowed with the blessing of youth, in the prime of life, without having dallied with sensual pleasures.
+        
+       Enjoy human sensual pleasures, bhikkhu; do not abandon what is directly visible in order to pursue what takes time."
+       
+       "I have not abandoned what is directly visible, friend, in order to pursue what takes time.
+        
+       I have abandoned what takes time in order to pursue what is directly visible.
+
+       For the Blessed One, friend, has stated that sensual pleasures are time-consuming, full of suffering, full of despair, and the danger in them is still greater, while this Dhamma is directly visible, immediate, inviting one to come and see, applicable, to be personally experienced by the wise."
+
+       "But how is it, bhikkhu, that the Blessed One has stated that sensual pleasures are time-consuming, full of suffering, full of despair, and the danger in them is still greater?
+
+       How is it that this Dhamma is directly visible, immediate, inviting one to come and see, applicable, to be personally experienced by the wise?"
+
+       "I am newly ordained, friend, not long gone forth, just recently come to this Dhamma and Discipline.
+
+       I cannot explain it in detail.
+
+       But that Blessed One, the Arahant, the Perfectly Enlightened One, is dwelling at Rājagaha in the Hot Springs Park.
+
+       Approach that Blessed One and ask him about this matter.
+
+       As he explains it to you, so you should remember it."
+
+       "It isn't easy for us to approach that Blessed One, bhikkhu, as he is surrounded by other devatās of great influence.
+
+       If you would approach him and ask him about this matter, we will come along too in order to hear the Dhamma."
+
+       "Very well, friend," the Venerable Samiddhi replied.
+
+       Then he approached the Blessed One, paid homage to him, sat down to one side, [10] and reported his entire discussion with that devatā,
+       *(verses 44-45, included in the report, repeat verses 42-43)*
+
+       adding:
+
+       "If that devatā's statement is true, venerable sir, then that devatā should be close by."
+
+       When this was said, that devatā said to the Venerable Samiddhi:
+
+       "Ask, bhikkhu!
+       Ask, bhikkhu!
+       For I have arrived."
+
+       Then the Blessed One addressed that devatā in verse:
+
+       | "Beings who perceive what can be expressed
+       | Become established in what can be expressed.
+       | Not fully understanding what can be expressed,
+       | They come under the yoke of Death.
+       | "But having fully understood what can be expressed,
+       | One does not conceive 'one who expresses.'
+       | For that does not exist for him
+       | By which one could describe him.
+       | "If you understand, spirit, speak up."
+       | 
+       | "I do not understand in detail, venerable sir, the meaning of what was stated in brief by the Blessed One.
+       | 
+       | Please, venerable sir, let the Blessed One explain it to me in such a way that I might understand in detail the meaning of what he stated in brief."
+       | 
+       | [The Blessed One:]
+       | "One who conceives 'I am equal, better, or worse,'
+       | Might on that account engage in disputes.
+       | But one not shaken in the three discriminations
+       | Does not think, 'I am equal or better.'
+       | "If you understand, spirit, speak up."
+       | "In this case too, venerable sir, I do not understand in detail ... let the Blessed One explain it to me in such a way that I might understand in detail the meaning of what he stated in brief."
+       | [The Blessed One:]
+       | "He abandoned reckoning, did not assume conceit;
+       | He cut off craving here for name-and-form.
+       | Though devas and humans search for him
+       | Here and beyond, in the heavens and all abodes,
+       | They do not find the one whose knots are cut,
+       | The one untroubled, free of longing.
+       | "If you understand, spirit, speak up."
+       | "I understand in detail, venerable sir, the meaning of what was stated in brief by the Blessed One thus:
+       | "One should do no evil in all the world,
+       | Not by speech, mind, or body.
+       | Having abandoned sense pleasures,
+       | Mindful and clearly comprehending,
+       | One should not pursue a course
+       | That is painful and harmful."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -1500,7 +1853,21 @@ Satti-Vaggo 第三 劍品
        | 　　　　　捨身見比丘　　正念於出家
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 21: Sattiyā Suttaŋ-- A Sword**
+
+       At Sāvatthī.
+
+       Standing to one side, that devatā recited this verse in the presence of the Blessed One:
+
+       |  "As if smitten by a sword,
+       | As if his head were on fire,
+       | A bhikkhu should wander mindfully
+       | To abandon sensual lust."
+       | [The Blessed One:]
+       |  "As if smitten by a sword,
+       | As if his head were on fire,
+       | A bhikkhu should wander mindfully
+       | To abandon identity view."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -1545,7 +1912,16 @@ Satti-Vaggo 第三 劍品
        | 　　　　　撒布微細塵
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 22: Phusati Suttaŋ-- It Touches**
+
+       |  "It does not touch one who does not touch,
+       | But then will touch the one who touches.
+       | Therefore it touches the one who touches,
+       | The one who wrongs an innocent man."
+       |  "If one wrongs an innocent man,
+       | A pure person without blemish,
+       | The evil falls back on the fool himself
+       | Like fine dust thrown against the wind."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -1553,7 +1929,6 @@ Satti-Vaggo 第三 劍品
 ------
 
 .. _sn1_23:
-
 
 .. list-table:: 
    :widths: 15 75
@@ -1604,7 +1979,24 @@ Satti-Vaggo 第三 劍品
        | 　　　　　無所殘餘者　　此總斷纏縺
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 23: Jaţā Suttaŋ-- Tangle**
+
+       |  "A tangle inside, a tangle outside,
+       | This generation is entangled in a tangle.
+       | I ask you this, O Gotama,
+       | Who can disentangle this tangle?"
+       |  "A man established on virtue, wise,
+       | Developing the mind and wisdom,
+       | A bhikkhu ardent and discreet:
+       | He can disentangle this tangle.
+       |  "Those for whom lust and hatred
+       | Along with ignorance have been expunged,
+       | The arahants with taints destroyed:
+       | For them the tangle is disentangled.
+       |  "Where name-and-form ceases,
+       | Stops without remainder,
+       | And also impingement and perception of form:
+       | It is here this tangle is cut."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -1650,7 +2042,16 @@ Satti-Vaggo 第三 劍品
        | 　　　　　正於起惡處　　應制此之心
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 24: Mano-Nivāraņā Suttaŋ-- Reining in the Mind**
+
+       |  "From whatever one reins in the mind,
+       | From that no suffering comes to one.
+       | Should one rein in the mind from everything,
+       | One is freed from all suffering."
+       |  "One need not rein in the mind from everything
+       | When the mind has come under control.
+       | From whatever it is that evil comes,
+       | From this one should rein in the mind."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -1733,7 +2134,33 @@ Satti-Vaggo 第三 劍品
        | 　　　　　唯依慣例稱
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 25: Araha Suttaŋ-- The Arahant**
+
+       |  "If a bhikkhu is an arahant,
+       | Consummate, with taints destroyed,
+       | One who bears his final body,
+       | Would he still say, 'I speak'?
+       | And would he say, 'They speak to me'?"
+       |  "If a bhikkhu is an arahant,
+       | Consummate, with taints destroyed,
+       | One who bears his final body,
+       | He might still say, 'I speak,'
+       | And he might say, 'They speak to me.'
+       | Skilful, knowing the world's parlance,
+       | He uses such terms as mere expressions."
+       |  "When a bhikkhu is an arahant,
+       | Consummate, with taints destroyed,
+       | One who bears his final body,
+       | Is it because he has come upon conceit
+       | That he would say, 'I speak,'
+       | That he would say, 'They speak to me'?"
+       |  "No knots exist for one with conceit abandoned;
+       | For him all knots of conceit are consumed.
+       | Though the wise one has transcended the conceived,
+       |  He still might say, 'I speak,'
+       | He might say too, 'They speak to me.'
+       | Skilful, knowing the world's parlance,
+       | He uses such terms as mere expressions."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -1783,7 +2210,20 @@ Satti-Vaggo 第三 劍品
        | 　　　　　正覺最勝火　　此為無上光
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 26: Pajjota Suttaŋ-- Sources of Light**
+
+       |  "How many sources of light are in the world
+       | By means of which the world is illumined?
+       | We have come to ask the Blessed One this:
+       | How are we to understand it?"
+       |  "There are four sources of light in the world;
+       | A fifth one is not found here.
+       | The sun shines by day,
+       | The moon glows at night,
+       |  And fire flares up here and there
+       | Both by day and at night.
+       | But the Buddha is the best of those that shine:
+       | He is the light unsurpassed."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -1828,7 +2268,18 @@ Satti-Vaggo 第三 劍品
        | 　　　　　於此滅名色　　無有餘殘留
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 27: Sarā Suttaŋ-- Streams**
+
+       |  "From where do the streams turn back?
+       | Where does the round no longer revolve?
+       | Where does name-and-form cease,
+       | Stop without remainder?"
+       |  "Where water, earth, fire, and air,
+       | Do not gain a footing:
+       | It is from here that the streams turn back,
+       | Here that the round no longer revolves;
+       | Here name-and-form ceases,
+       | Stops without remainder."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -1881,7 +2332,22 @@ Satti-Vaggo 第三 劍品
        | 　　　　　成為無嫉者
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 28: Mahaddhana Suttaŋ-- Those of Great Wealth**
+
+       |  "Those of great wealth and property,
+       | Even khattiyas who rule the country,
+       | Look at each other with greedy eyes,
+       | Insatiable in sensual pleasures.
+       |  Among these who have become so avid,
+       | Flowing along in the stream of existence,
+       | Who here have abandoned craving?
+       | Who in the world are no longer avid?"
+       |  "Having left their homes and gone forth,
+       | Having left their dear sons and cattle,
+       | Having left behind lust and hatred,
+       | Having expunged ignorance —
+       | The arahants with taints destroyed
+       | Are those in the world no longer avid."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -1924,7 +2390,16 @@ Satti-Vaggo 第三 劍品
        | 　　　　　拔除渴愛根　　如是有出口
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 29: Catucakka Suttaŋ-- Four Wheels**
+
+       |  "Having four wheels and nine doors,
+       | Filled up and bound with greed,
+       | Born from a bog, O great hero!
+       | How does one escape from it?"
+       |  "Having cut the thong and the strap,
+       | Having cut off evil desire and greed,
+       | Having drawn out craving with its root:
+       | Thus one escapes from it."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -1990,7 +2465,18 @@ Satti-Vaggo 第三 劍品
        | 　　　　　第九於四輪　　麋鹿縛第十
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 30: Enijaŋgha Suttaŋ-- Antelope Calves**
+
+       |  "Having approached you, we ask a question
+       | Of the slender hero with antelope calves,
+       | Greedless, subsisting on little food,
+       | Wandering alone like a lion or nāga,
+       | Without concern for sensual pleasures:
+       | How is one released from suffering?"
+       |  "Five cords of sensual pleasure in the world,
+       | With mind declared to be the sixth:
+       | Having expunged desire here,
+       | One is thus released from suffering."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -2149,7 +2635,56 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 知善之正法　　當脫一切苦
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 31: Sabbhi Suttaŋ-- With the Good**
+
+       At Sāvatthī.
+
+       Thus have I heard. On one occasion the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiņđika's Park.
+
+       Then, when the night had advanced, a number of devatās belonging to the Satullapa host, of stunning beauty, illuminating the entire Jeta's Grove, approached the Blessed One.
+
+       Having approached, they paid homage to the Blessed One and stood to one side.
+
+       Then one devatā, standing to one side, recited this verse in the presence of the Blessed One:
+
+       |  "One should associate only with the good;
+       | With the good one should foster intimacy.
+       | Having learnt the true Dhamma of the good,
+       | One becomes better, never worse."
+       | 
+       | Then five other devatās in turn recited their verses in the presence of the Blessed One:
+       | 
+       |  "One should associate only with the good;
+       | With the good one should foster intimacy.
+       | Having learnt the true Dhamma of the good,
+       | Wisdom is gained, but not from another."
+       |  "One should associate only with the good;
+       | With the good one should foster intimacy.
+       | Having learnt the true Dhamma of the good,
+       | One does not sorrow in the midst of sorrow."
+       |  "One should associate only with the good;
+       | With the good one should foster intimacy.
+       | Having learnt the true Dhamma of the good,
+       | One shines amidst one's relations."
+       |  "One should associate only with the good;
+       | With the good one should foster intimacy.
+       | Having learnt the true Dhamma of the good,
+       | Beings fare on to a good destination."
+       |  "One should associate only with the good;
+       | With the good one should foster intimacy.
+       | Having learnt the true Dhamma of the good,
+       | Beings abide comfortably."
+       | 
+       | Then another devatā said to the Blessed One:
+       | "Which one, Blessed One, has spoken well?"
+       | "You have all spoken well in a way. But listen to me too:
+       |  "One should associate only with the good;
+       | With the good one should foster intimacy.
+       | Having learnt the true Dhamma of the good,
+       | One is released from all suffering."
+       | This is what the Blessed One said.
+       | 
+       | Elated, those devatās paid homage to the Blessed One and, keeping him on the right, they disappeared right there.
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -2215,7 +2750,6 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 
        | ‘‘Evaṃ sataṃ sahassānaṃ sahassayāginaṃ;
        | Kalampi nāgghanti tathāvidhassa te’’ti.
-
 
    * - 漢譯((莊春江) [2]_
      - 相應部1相應32經/ **慳吝經** (諸天相應/有偈篇/祇夜)(莊春江譯) 
@@ -2319,7 +2853,82 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 百千之供犧　　斯施猶不值
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 32: Macchari Suttaŋ-- Stinginess**
+
+       On one occasion the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiņđika's Park.
+
+       Then, when the night had advanced, a number of devatās belonging to the Satullapa host, of stunning beauty, illuminating the entire Jeta's Grove, approached the Blessed One.
+
+       Having approached, they paid homage to the Blessed One and stood to one side.
+
+       Then one devatā, standing to one side, recited this verse in the presence of the Blessed One:
+
+       |  "Through stinginess and negligence
+       | A gift is not given.
+       | One who knows, desiring merit,
+       | Should surely give a gift."
+       | 
+       | Then another devatā recited these verses in the presence of the Blessed One:
+       |  "That which the miser fears when he does not give
+       | Is the very danger that comes to the nongiver.
+       | The hunger and thirst that the miser fears
+       | Afflict that fool in this world and the next.
+       |  "Therefore, having removed stinginess,
+       | The conqueror of the stain should give a gift.
+       | Deeds of merit are the support for living beings
+       | [When they arise] in the other world."
+       | 
+       | Then another devatā recited these verses in the presence of the Blessed One:
+       |  "They do not die among the dead
+       | Who, like fellow travellers on the road,
+       | Provide though they have but a little:
+       | This is an ancient principle.
+       |  "Some provide from the little they have,
+       | Others who are affluent don't like to give.
+       | An offering given from what little one has
+       | Is worth a thousand times its value."
+       | 
+       |  Then another devatā recited these verses in the presence of the Blessed One:
+       |  "The bad do not emulate the good,
+       | Who give what is hard to give
+       | And do deeds hard to do:
+       | The Dhamma of the good is hard to follow.
+       |  "Therefore their destination after death
+       | Differs for the good and the bad:
+       | The bad go to hell,
+       | The good are bound for heaven."
+       | 
+       | Then another devatā said to the Blessed One:
+       | "Which one, Blessed One, has spoken well?"
+       | "You have all spoken well in a way.
+       | But listen to me too:
+       |  "If one practises the Dhamma
+       | Though getting on by gleaning,
+       | If while one supports one's wife
+       | One gives from the little one has,
+       | 
+       | Then a hundred thousand offerings
+       | Of those who sacrifice a thousand
+       | Are not worth even a fraction
+       | [Of the gift] of one like him."
+       | Then another devatā addressed the Blessed One in verse:
+       | 
+       |  "Why does their sacrifice, vast and grand,
+       | Not share the value of the righteous one's gift?
+       | Why are a hundred thousand offerings
+       | Of those who sacrifice a thousand
+       | Not worth even a fraction
+       | [Of the gift] of one like him?"
+       | 
+       | Then the Blessed One answered that devatā in verse:
+       |  "Since they give while settled in unrighteousness,
+       | Having slain and killed, causing sorrow,
+       | Their offering — tearful, fraught with violence —
+       | Shares not the value of the righteous one's gift.
+       | That is why a hundred thousand offerings
+       | Of those who sacrifice a thousand
+       | Are not worth even a fraction
+       | [Of the gift] of one like him."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -2509,7 +3118,83 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 皆行於涅槃
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 33: Sādhu Suttaŋ-- Good**
+
+        At Sāvatthī. Then, when the night had advanced, a number of devatā s belonging to the Satullapa host, of stunning beauty, illuminating the entire Jeta's Grove, approached the Blessed One.
+        Having approached, they paid homage to the Blessed One and stood to one side.
+
+        Then one devatā, standing to one side, uttered this inspired utterance in the presence of the Blessed One:
+
+       | "Good is giving, dear sir!
+       |  "Through stinginess and negligence
+       | A gift is not given.
+       | One who knows, desiring merit,
+       | Should surely give a gift."
+       | 
+       | Then another devatā uttered this inspired utterance in the presence of the Blessed One:
+       | "Good is giving, dear sir!
+       | And further:
+       | Even when there's little, giving is good.
+       |  "Some provide from what little they have,
+       | Others who are affluent don't like to give.
+       | An offering given from what little one has
+       | Is worth a thousand times its value."
+       | 
+       | Then another devatā uttered this inspired utterance in the presence of the Blessed One:
+       | "Good is giving, dear sir!
+       | Even when there's little, giving is good.
+       | And further:
+       | When done with faith too, giving is good.
+       |  "Giving and warfare are similar, they say:
+       | A few good ones conquer many.
+       | If one with faith gives even a little,
+       | He thereby becomes happy in the other world."
+       | 
+       | Then another devatā uttered this inspired utterance in the presence of the Blessed One:
+       | "Good is giving, dear sir!
+       | Even when there's little, giving is good.
+       |  When done with faith too, giving is good.
+       | And further:
+       | The gift of a righteous gain is also good.
+       |  "When he gives a gift of a righteous gain
+       | Obtained by exertion and energy,
+       | Having passed over Yama's Vetaraņī River,
+       | That mortal arrives at celestial states."
+       | 
+       | Then another devatā uttered this inspired utterance in the presence of the Blessed One:
+       | "Good is giving, dear sir!
+       | Even when there's little, giving is good.
+       | When done with faith too, giving is good.
+       | The gift of a righteous gain is also good.
+       | And further:
+       | Giving discriminately too is good.
+       |  "Giving discriminately is praised by the Fortunate One —
+       | To those worthy of offerings
+       | Here in the world of the living.
+       | What is given to them bears great fruit
+       | Like seeds sown in a fertile field."
+       | 
+       | Then another devatā uttered this inspired utterance in the presence of the Blessed One:
+       | "Good is giving, dear sir!
+       | Even when there's little, giving is good.
+       | When done with faith too, giving is good;
+       | The gift of a righteous gain is also good.
+       | Giving with discretion too is good.
+       | And further:
+       | Restraint towards living beings is also good.
+       |  "One who fares harming no living beings
+       | Does no evil from fear of others' censure.
+       | In that they praise the timid, not the brave,
+       | For out of fear the good do no evil."
+       | 
+       | Then another devatā said to the Blessed One:
+       |  "Which one, Blessed One, has spoken well?"
+       | "You have all spoken well in a way.
+       | But listen to me too:
+       |  "Surely giving is praised in many ways,
+       | But the path of Dhamma surpasses giving.
+       | For in the past and even long ago,
+       | The good and wise ones attained Nibbāna."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -2634,7 +3319,55 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 比丘彼等亦　　超越結縛人
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 34: Na Santi Suttaŋ-- There Are No**
+
+       On one occasion the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiņđika's Park.
+
+       Then, when the night had advanced, a number of devatās belonging to the Satullapa host, of stunning beauty, illuminating the entire Jeta's Grove, approached the Blessed One.
+
+       Having approached, they paid homage to the Blessed One and stood to one side.
+
+       Then one devatā, standing to one side, recited this verse in the presence of the Blessed One:
+
+       |  "There are among humans
+       | No permanent sensual pleasures;
+       | Here there are just desirable things.
+       | When a person is bound to these,
+       | Heedless in their midst,
+       | From Death's realm he does not reach
+       | The state of no-more-coming-back."
+       | 
+       | [Another devatā]:
+       | "Misery is born of desire; suffering is born of desire.
+       | By the removal of desire, misery is removed; by the removal of misery, suffering is removed."
+       | 
+       | [The Blessed One:]
+       |  "They are not sense pleasures, the world's pretty things:
+       | Man's sensuality is the intention of lust.
+       | The pretty things remain as they are in the world
+       | But the wise remove the desire for them.
+       |  "One should discard anger, cast off conceit,
+       | Transcend all the fetters.
+       | No sufferings torment one who has nothing,
+       | Who does not adhere to name-and-form.
+       |  "He abandoned reckoning, did not assume conceit;
+       | He cut off craving here for name-and-form.
+       | Though devas and humans search for him
+       | Here and beyond, in the heavens and all abodes,
+       | They do not find the one whose knots are cut,
+       | The one untroubled, free of longing."
+       |  "If devas and humans have not seen
+       | The one thus liberated here or beyond,"
+       | 
+       | [said the Venerable Mogharāja,
+       | "Are they to be praised who venerate him,
+       | The best of men, faring for the good of humans?"
+       |  "Those bhikkhus too become worthy of praise,
+       | 
+       | [Mogharāja," said the Blessed One,]
+       | "Who venerate him, the one thus liberated.
+       | But having known Dhamma and abandoned doubt,
+       | Those bhikkhus become even surmounters of ties."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -2776,7 +3509,75 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 　　　　　若我不喜恚　　即納汝罪過
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 35: Ujjhānasaññino Suttaŋ-- Faultfinders**
+
+       On one occasion the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiņđika's Park.
+
+       Then, when the night had advanced, a number of "faultfinding" devatās, of stunning beauty, illuminating the entire Jeta's Grove, approached the Blessed One and stood in the air.
+
+       Then one devatā, standing in the air, recited this verse in the presence of the Blessed One:
+
+       |  "If one shows oneself in one way
+       | While actually being otherwise,
+       | What one enjoys is obtained by theft
+       | Like the gains of a cheating gambler."
+       | 
+       | [Another devatā]:
+       |  "One should speak as one would act;
+       | Don't speak as one wouldn't act.
+       | The wise clearly discern the person
+       | Who does not practise what he preaches."
+       | 
+       | [The Blessed One:]
+       |  "Not by mere speech nor solely by listening
+       | Can one advance on this firm path of practice
+       | By which the wise ones, the meditators,
+       | Are released from the bondage of Māra.
+       |  "Truly, the wise do not pretend,
+       | For they have understood the way of the world.
+       | By final knowledge the wise are quenched:
+       | They have crossed over attachment to the world."
+       | 
+       | Then those devatās, having alighted on the earth, prostrated themselves with their heads at the Blessed One's feet and said to the Blessed One:
+       | 
+       | "A transgression overcame us, venerable sir, being so foolish, so stupid, so unskilful that we imagined we could assail the Blessed One.
+       | Let the Blessed One pardon us for our transgression seen as such for the sake of restraint in the future."
+       | 
+       | Then the Blessed One displayed a smile.
+       | 
+       | Those devatās, finding fault to an even greater extent, then rose up into the air.
+       | 
+       | One devatā recited this verse in the presence of the Blessed One:
+       |  "If one does not grant pardon
+       | To those who confess transgression,
+       | Angry at heart, intent on hate,
+       | One strongly harbours enmity."
+       | 
+       | [The Blessed One:]
+       |  "If there was no transgression,
+       | If here there was no going astray,
+       | And if enmities were appeased,
+       | Then one would be faultless here."
+       | 
+       | [A devatā:]
+       |  "For whom are there no transgressions?
+       | For whom is there no going astray?
+       | Who has not fallen into confusion?
+       | And who is the wise one, ever mindful?"
+       | 
+       | [The Blessed One:]
+       |  "The Tathāgata, the Enlightened One,
+       | Full of compassion for all beings:
+       | For him there are no transgressions,
+       | For him there is no going astray;
+       | He has not fallen into confusion,
+       | And he is the wise one, ever mindful.
+       |  "If one does not grant pardon
+       | To those who confess transgression,
+       | Angry at heart, intent on hate,
+       | One strongly harbours enmity.
+       | In that enmity I do not delight,
+       | Thus I pardon your transgression."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -2853,7 +3654,36 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 　　　　　禪思不放逸　　以達最勝樂
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 36: Saddhā Suttaŋ-- Faith**
+
+       On one occasion the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiņđika's Park.
+
+       Then, when the night had advanced, a number of devatās belonging to the Satullapa host, of stunning beauty, illuminating the entire Jeta's Grove, approached the Blessed One.
+
+       Having approached, they paid homage to the Blessed One and stood to one side.
+
+       Then one devatā, standing to one side, recited this verse in the presence of the Blessed One:
+
+       |  "Faith is a person's partner;
+       | If lack of faith does not persist,
+       | Fame and renown thereby come to him,
+       | And he goes to heaven on leaving the body."
+       | 
+       | Then another devatā recited these verses in the presence of the Blessed One:
+       |  "One should discard anger, cast off conceit,
+       | Transcend all the fetters.
+       | No ties torment one who has nothing,
+       | Who does not adhere to name-and-form."
+       | 
+       | [Another devatā:]
+       |  "Foolish people devoid of wisdom
+       | Devote themselves to negligence.
+       | But the wise man guards diligence
+       | As his foremost treasure.
+       |  "Do not yield to negligence,
+       | Don't be intimate with sensual delight.
+       | For the diligent ones, meditating,
+       | Attain supreme happiness."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -2954,7 +3784,50 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 此人以捨身　　應滿於天集
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 37: Samayo Suttaŋ-- Concourse**
+
+       Thus have I heard.
+
+       On one occasion the Blessed One was dwelling among the Sakyans at Kapilavatthu in the Great Wood together with a great Saŋgha of bhikkhus, with five hundred bhikkhus all of whom were arahants.
+
+       And the devatās from ten world systems had for the most part assembled in order to see the Blessed One and the Bhikkhu Saŋgha.
+
+       Then the thought occurred to four devatās of the host from the Pure Abodes:
+
+       "This Blessed One is dwelling among the Sakyans at Kapilavatthu in the Great Wood together with a great Saŋghaof bhikkhus, with five hundred bhikkhus all of whom are arahants.
+
+       And the devatās from ten world systems have for the most part assembled in order to see the Blessed One and the Bhikkhu Saŋgha.
+
+       Let us also approach the Blessed One and, in his presence, each speak our own verse."
+
+       Then, just as quickly as a strong man might extend his drawn-in arm or draw in his extended arm, those devatās disappeared from among the devas of the Pure Abodes and reappeared before the Blessed One.
+
+       Then those devatās paid homage to the Blessed One and stood to one side.
+
+       Standing to one side, one devatā recited this verse in the presence of the Blessed One:
+
+       |  "A great concourse takes place in the woods,
+       | The deva hosts have assembled.
+       | We have come to this Dhamma concourse
+       | To see the invincible Saŋgha."
+       | 
+       | Then another devatā recited this verse in the presence of the Blessed One:
+       |  "The bhikkhus there are concentrated;
+       | They have straightened their own minds.
+       | Like a charioteer who holds the reins,
+       | The wise ones guard their faculties."
+       | 
+       | Then another devatā recited this verse in the presence of the Blessed One:
+       |  "Having cut through barrenness, cut the cross-bar,
+       | Having uprooted Indra's pillar, unstirred,
+       | They wander about pure and stainless,
+       | Young nāgas well tamed by the One with Vision."
+       | 
+       | Then another devatā recited this verse in the presence of the Blessed One:
+       |  "Those who have gone to the Buddha for refuge
+       | Will not go to the plane of misery.
+       | On discarding the human body,
+       | They will fill the hosts of devas."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -3099,7 +3972,69 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 渡脫死魔域　　可到達彼岸
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 38: Sakalika Suttaŋ-- The Stone Splinter**
+
+       Thus have I heard.
+
+       On one occasion the Blessed One was dwelling at Rājagaha in the Maddakucchi Deer Park.
+
+       Now on that occasion the Blessed One's foot had been cut by a stone splinter.
+
+       Severe pains assailed the Blessed One — bodily feelings that were painful, racking, sharp, piercing, harrowing, disagreeable.
+
+       But the Blessed One endured them, mindful and clearly comprehending, without becoming distressed.
+
+       Then the Blessed One had his outer robe folded in four, and he lay down on his right side in the lion posture with one leg overlapping the other, mindful and clearly comprehending.
+
+       Then, when the night had advanced, seven hundred devatās belonging to the Satullapa host, of stunning beauty, illuminating the entire Maddakucchi Deer Park, approached the Blessed One.
+
+       Having approached, they paid homage to the Blessed One and stood to one side.
+
+       Then one devatā, standing to one side, uttered this inspired utterance in the presence of the Blessed One:
+
+       |  "The ascetic Gotama is indeed a nāga, sir!
+       | And when bodily feelings have arisen that are painful, racking, sharp, piercing, harrowing, disagreeable, through his nāga-like manner he endures them, mindful and clearly comprehending, without becoming distressed."
+       | 
+       | Then another devatā uttered this inspired utterance in the presence of the Blessed One: "The ascetic Gotama is indeed a lion, sir!
+       | And when bodily feelings have arisen that are painful, racking, sharp, piercing, harrowing, disagreeable, through his leonine manner he endures them, mindful and clearly comprehending, without becoming distressed."
+       | 
+       | Then another devatā uttered this inspired utterance in the presence of the Blessed One:
+       | "The ascetic Gotama is indeed a thoroughbred, sir!
+       | And when bodily feelings have arisen that are painful ... disagreeable, through his thoroughbred manner he endures them, mindful and clearly comprehending, without becoming distressed."
+       | 
+       | Then another devatā uttered this inspired utterance in the presence of the Blessed One:
+       | "The ascetic Gotama is indeed a chief bull, sir!
+       | And when bodily feelings have arisen that are painful ... disagreeable, through his chief bull's manner he endures them, mindful and clearly comprehending, without becoming distressed."
+       | 
+       | Then another devatā uttered this inspired utterance in the presence of the Blessed One:
+       | 
+       | "The ascetic Gotama is indeed a beast of burden, sir!
+       | And when bodily feelings have arisen that are painful ... disagreeable, through his beast-of-burden's manner he endures them, mindful and clearly comprehending, without becoming distressed."
+       | 
+       | Then another devatā uttered this inspired utterance in the presence of the Blessed One:
+       | "The ascetic Gotama is indeed tamed, sir!
+       | And when bodily feelings have arisen that are painful, racking, sharp, piercing, harrowing, disagreeable, through his tamed manner he endures them, mindful and clearly comprehending, without becoming distressed."
+       | 
+       | Then another devatā uttered this inspired utterance in the presence of the Blessed One:
+       | 
+       | "See his concentration well developed and his mind well liberated — not bent forward and not bent back, and not blocked and checked by forceful suppression!
+       | If anyone would think such a one could be violated — such a nāga of a man, such a lion of a man, [29] such a thoroughbred of a man, such a chief bull of a man, such a beast of burden of a man, such a tamed man — what is that due to apart from lack of vision?"
+       |  Though brahmins learned in the five Vedas
+       | Practise austerities for a hundred years,
+       | Their minds are not rightly liberated:
+       | Those of low nature do not reach the far shore.
+       |  They founder in craving, bound to vows and rules,
+       | Practising rough austerity for a hundred years,
+       | But their minds are not rightly liberated:
+       | Those of low nature do not reach the far shore.
+       |  There is no taming here for one fond of conceit,
+       | Nor is there sagehood for the unconcentrated:
+       | Though dwelling alone in the forest, heedless,
+       | One cannot cross beyond the realm of Death.
+       |  Having abandoned conceit, well concentrated,
+       | With lofty mind, everywhere released:
+       | While dwelling alone in the forest, diligent,
+       | One can cross beyond the realm of Death.
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -3171,7 +4106,30 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 應滿天之集
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 39: Paţhama Pajjuna-dhītā Suttaŋ-- Pajjunna's Daughter (1)**
+
+       Thus have I heard. On one occasion the Blessed One was dwelling at Vesālī in the Great Wood in the Hall with the Peaked Roof.
+
+       Then, when the night had advanced, Kokanadā, Pajjunna's daughter, of stunning beauty, illuminating the entire Great Wood, approached the Blessed One.
+
+       Having approached, she paid homage to the Blessed One, stood to one side, and recited these verses in the presence of the Blessed One:
+
+       |  "I worship the Buddha, the best of beings,
+       | Dwelling in the woods at Vesālī.
+       |  Kokanadā am I,
+       | Kokanadā, Pajjunna's daughter.
+       |  "Earlier I had only heard that the Dhamma
+       | Has been realized by the One with Vision;
+       | But now I know it as a witness
+       | While the Sage, the Fortunate One, teaches.
+       |  "Those ignorant people who go about
+       | Criticizing the noble Dhamma
+       | Pass on to the terrible Roruva hell
+       | And experience suffering for a long time.
+       |  "But those who have peace and acquiescence
+       | In regard to the noble Dhamma,
+       | On discarding the human body,
+       | Will fill the host of devas."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -3252,7 +4210,30 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 以及雙雲天　　紅蓮之公主
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 40: Dutiya Pajjuna-dhītā Suttaŋ Suttaŋ-- Pajjunna's Daughter (2)**
+
+       Thus have I heard.
+
+       On one occasion the Blessed One was dwelling at Vesālī in the Great Wood, in the Hall with the Peaked Roof.
+
+       Then, when the night had advanced, Cūļa Kokandā, Pajjunna's [younger] daughter, of stunning beauty, illuminating the entire Great Wood, approached the Blessed One.
+
+       Having approached, she paid homage to the Blessed One, stood to one side, and recited these verses in the presence of the Blessed One:
+
+       |  "Here came Kokanadā, Pajjunna's daughter,
+       | Beautiful as the gleam of lightning.
+       | Venerating the Buddha and the Dhamma,
+       | She spoke these verses full of meaning.
+       |  "Though the Dhamma is of such a nature
+       | That I might analyse it in many ways,
+       | I will state its meaning briefly
+       | To the extent I have learnt it by heart.
+       |  "One should do no evil in all the world,
+       | Not by speech, mind, or body.
+       | Having abandoned sense pleasures,
+       | Mindful and clearly comprehending,
+       | One should not pursue a course
+       | That is painful and harmful."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -3345,7 +4326,39 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 從力用且施　　行天無難責
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **V. Ablaze**
+
+       **Sutta 41: Āditta Suttaŋ-- Ablaze**
+
+       Thus have I heard.
+        
+       On one occasion the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiņđika's Park.
+        
+       Then, when the night had advanced, a certain devatā of stunning beauty, illuminating the entire Jeta's Grove, approached the Blessed One.
+        
+       Having approached, he paid homage to the Blessed One, stood to one side, and recited these verses in the presence of the Blessed One:
+        
+       |  "When one's house is ablaze
+       | The vessel taken out
+       | Is the one that is useful,
+       | Not the one left burnt inside.
+       | 
+       |  "So when the world is ablaze
+       | With [the fires of] aging and death,
+       | One should take out [one's wealth] by giving:
+       | What is given is well salvaged.
+       | 
+       |  "What is given yields pleasant fruit,
+       | But not so what is not given.
+       | Thieves take it away, or kings,
+       | It gets burnt by fire or is lost.
+       | 
+       |  "Then in the end one leaves the body
+       | Along with one's possessions.
+       | Having understood this, the wise person
+       | Should enjoy himself but also give.
+       | Having given and enjoyed as fits his means,
+       | Blameless he goes to the heavenly state."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -3396,7 +4409,28 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 　　　　　教與正法者　　是與不死人
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 42: Kiŋ Dada Suttaŋ-- Giving What?**
+
+       [A devatā:]
+        
+       |  "Giving what does one give strength?
+       | Giving what does one give beauty?
+       | Giving what does one give ease?
+       | Giving what does one give sight?
+       | Who is the giver of all?
+       | Being asked, please explain to me."
+       | 
+       | [The Blessed One:]
+       | 
+       |  "Giving food, one gives strength;
+       | Giving clothes, one gives beauty;
+       | Giving a vehicle, one gives ease;
+       | Giving a lamp, one gives sight.
+       | 
+       |  "The one who gives a residence
+       | Is the giver of all.
+       | But the one who teaches the Dhamma
+       | Is the giver of the Deathless."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -3445,7 +4479,22 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 　　　　　功德即人人　　後世航渡頭
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 43: Anna Suttaŋ-- Food**
+
+       |  "They always take delight in food,
+       | Both devas and human beings.
+       | So what sort of spirit could it be
+       | That does not take delight in food?"
+       | 
+       |  "When they give out of faith
+       | With a heart of confidence,
+       | Food accrues to [the giver] himself
+       | Both in this world and the next.
+       | 
+       |  "Therefore, having removed stinginess,
+       | The conqueror of the stain should give a gift.
+       | Merits are the support for living beings
+       | [When they arise] in the other world."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -3480,7 +4529,14 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 有地窖地獄聖者得超越。
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 44: Eka Mūla Suttaŋ-- One Root**
+
+       [A devatā:]
+        
+       |  "The seer has crossed over the abyss
+       | With its one root, two whirlpools,
+       | Three stains, five extensions,
+       | An ocean with twelve eddies."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -3515,7 +4571,16 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 　　　　　即得見大聖
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 45: Anomiya Suttaŋ-- Perfect**
+
+       [A devatā:]
+        
+       |  "Behold him of perfect name,
+       | The seer of the subtle goal,
+       | The giver of wisdom, unattached
+       | To the lair of sensual pleasures.
+       | Behold the wise one, all-knowing,
+       | The great seer treading the noble path."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -3571,7 +4636,27 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 　　　　　依於此車乘　　到達於涅槃
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 46: Accharā Suttaŋ-- Nymphs**
+
+       |  "Resounding with a host of nymphs,
+       | Haunted by a host of demons!
+       | This grove is to be called 'Deluding':
+       | How does one escape from it?"
+       | 
+       |  "'The straight way' that path is called,
+       | And 'fearless' is its destination.
+       | The chariot is called 'unrattling,'
+       | Fitted with wheels of wholesome states.
+       | 
+       |  "The sense of shame is its leaning board,
+       | Mindfulness its upholstery;
+       | I call the Dhamma the charioteer,
+       | With right view running out in front.
+       | 
+       |  "One who has such a vehicle —
+       | Whether a woman or a man —
+       | Has, by means of this vehicle,
+       | Drawn close to Nibbāna."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -3620,7 +4705,22 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 　　　　　法住戒具足　　是人行天界
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 47: Vanaropa or Vacana Suttaŋ-- Planters of Groves**
+
+       |  "For whom does merit always increase,
+       | Both by day and by night?
+       | Who are the people going to heaven,
+       | Established in Dhamma, endowed with virtue?"
+       | 
+       |  "Those who set up a park or a grove,
+       | The people who construct a bridge,
+       | A place to drink and a well,
+       | Those who give a residence:
+       | 
+       |  "For them merit always increases,
+       | Both by day and by night;
+       | Those are the people going to heaven,
+       | Established in Dhamma, endowed with virtue."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -3675,7 +4775,29 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 　　　　　比丘到彼岸　　應當是最勝
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 48: Jetavana Suttaŋ-- Jeta's Grove**
+
+       [The devatā Anāthapiņđika:]
+        
+       |  "This indeed is that Jeta's Grove,
+       | The resort of the Order of seers,
+       | Dwelt in by the Dhamma King,
+       | A place that gives me joy.
+       | 
+       |  "Action, knowledge, righteousness,
+       | Virtue, an excellent life:
+       | By this are mortals purified,
+       | Not by clan or wealth.
+       | 
+       |  "Therefore a person who is wise,
+       | Out of regard for his own good,
+       | Should carefully examine the Dhamma:
+       | Thus he is purified in it.
+       | 
+       |  "Sāro[itta truly is endowed with wisdom,
+       | With virtue and with inner peace.
+       | Even a bhikkhu who has gone beyond
+       | At best can only equal him."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -3788,7 +4910,71 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 　　　　　此世有此果　　未來生天界
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 49: Macchari Suttaŋ-- Stingy**
+
+       [A devatā:]
+        
+       |  "Those who are stingy here in the world,
+       | Niggardly folk, revilers,
+       | People who create obstacles
+       | For others engaged in giving alms:
+       | 
+       |  What kind of result do they reap?
+       | What kind of future destiny?
+       | We've come to ask the Blessed One this:
+       | How are we to understand it?"
+       | 
+       | [The Blessed One:]
+       | 
+       |  "Those who are stingy here in the world,
+       | Niggardly folk, revilers,
+       | People who create obstacles
+       | For others engaged in giving alms:
+       | They might be reborn in hell,
+       | In the animal realm or Yama's world.
+       | 
+       |  "If they come back to the human state
+       | They are born in a poor family
+       | Where clothes, food, pleasures, and sport
+       | Are obtained only with difficulty.
+       | 
+       |  "Whatever the fools may expect from others,
+       | Even that they do not obtain.
+       | This is the result in this very life;
+       | And in the future a bad destination."
+       | 
+       | [A devatā:]
+       | 
+       |  "We understand thus what you have said;
+       | We ask, O Gotama, another question:
+       | Those here who, on gaining the human state,
+       | Are amiable and generous,
+       | Confident in the Buddha and the Dhamma
+       | And deeply respectful towards the Saŋgha:
+       | 
+       |  What kind of result do they reap?
+       | What kind of future destiny?
+       | We've come to ask the Blessed One this:
+       | How are we to understand it?"
+       | 
+       | [The Blessed One:]
+       | 
+       |  "Those here who, on gaining the human state,
+       | Are amiable and generous,
+       | Confident in the Buddha and the Dhamma
+       | And deeply respectful towards the Saŋgha,
+       | These brighten up the heavens
+       | Where they've been reborn.
+       | 
+       |  "If they come back to the human state
+       | They are reborn in a rich family
+       | Where clothes, food, pleasures, and sport
+       | Are obtained without difficulty.
+       | 
+       |  "They rejoice like the devas who control
+       | The goods amassed by others.
+       | This is the result in this very life;
+       | And in the future a good destination."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -3941,7 +5127,90 @@ Satullapakāyika-Vaggo 第四 沙睹羅巴天群品
        | 　　　　　天女植林園　　　　　　　　　慳貪是陶師
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 50: Ghaţīkaro Suttaŋ-- Ghaţīkaro**
+
+       [The devatā Ghaţīkara:]
+        
+       |  "Seven bhikkhus reborn in Avihā
+       | Have been fully liberated.
+       | With lust and hatred utterly destroyed,
+       | They have crossed over attachment to the world."
+       | 
+       | [The Blessed One:]
+       | 
+       |  "And who are those who crossed the swamp,
+       | The realm of Death so hard to cross?
+       | Who, having left the human body,
+       | Have overcome the celestial bond?"
+       | 
+       | [Ghaţīkara:]
+       | 
+       |  "Upaka and Palagaņđa,
+       | With Pukkusāti — these are three.
+       | Then Bhaddiya and Bhaddadeva,
+       | And Bāhudantī and Piņgiya.
+       | These, having left the human body,
+       | Have overcome the celestial bond."
+       | 
+       | [The Blessed One:]
+       | 
+       |  "Good is the word you speak of them,
+       | Of those who have abandoned Māra's snares.
+       | Whose Dhamma was it that they understood
+       | Whereby they cut through the bondage of existence?"
+       | 
+       | [Ghaţīkara:]
+       | 
+       |  "It was not apart from the Blessed One!
+       | It was not apart from your Teaching!
+       | By having understood your Dhamma
+       | They cut through the bondage of existence.
+       | 
+       |  "Where name-and-form ceases,
+       | Stops without remainder:
+       | By understanding that Dhamma here
+       | They cut through the bondage of existence."
+       | 
+       | [The Blessed One:]
+       | 
+       |  "Deep is the speech you utter,
+       | Hard to understand, very hard to grasp.
+       | Having understood whose Dhamma
+       | Do you utter such speech?"
+       | 
+       | [Ghaţīkara:]
+       | 
+       |  "In the past I was the potter,
+       | Ghaţīkara in Vehaļiŋga.
+       | I supported my mother and father then
+       | As a lay follower of the Buddha Kassapa.
+       | 
+       |  "I abstained from sexual intercourse,
+       | I was celibate, free from carnal ties.
+       | I was your fellow villager,
+       | In the past I was your friend.
+       | 
+       |  "I am the one who knows
+       | These seven liberated bhikkhus,
+       | Who with lust and hatred utterly destroyed
+       | Have crossed over attachment to the world."
+       | 
+       | [The Blessed One:]
+       | 
+       |  "Just so it was at that time, As you say, O Bhaggava:
+       | In the past you were the potter, Ghaţīkara in Vehaļiŋga.
+       | You supported your mother and father then
+       | As a lay follower of the Buddha Kassapa.
+       | 
+       |  "You abstained from sexual intercourse,
+       | You were celibate, free from carnal ties.
+       | You were my fellow villager,
+       | In the past you were my friend."
+       | 
+       |  Such was the meeting that took place
+       | Between those friends from the past,
+       | Both now inwardly developed,
+       | Bearers of their final bodies.
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4002,7 +5271,23 @@ Jarā-Vaggo 第六 老品
        | 　　　　　智慧乃人寶　　功德盜不奪
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **VI. Old Age**
+
+       **Sutta 51: Jarā Suttaŋ-- Old Age**
+
+       [A devatā:]
+        
+       |  "What is good until old age?
+       | What is good when established?
+       | What is the precious gem of humans?
+       | What is hard for thieves to steal?"
+       | 
+       | [The Blessed One:]
+       | 
+       |  "Virtue is good until old age;
+       | Faith is good when established;
+       | Wisdom is the precious gem of humans;
+       | Merit is hard for thieves to steal."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4044,7 +5329,17 @@ Jarā-Vaggo 第六 老品
        | 　　　　　智慧乃人寶　　功德盜不搬
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 52: Ajarā Suttaŋ-- Undecaying**
+
+       |  "What is good by not decaying?
+       | What is good when made secure?
+       | What is the precious gem of humans?
+       | What cannot be stolen by thieves?"
+       | 
+       |  "Virtue is good by not decaying;
+       | Faith is good when made secure;
+       | Wisdom is the precious gem of humans;
+       | Merit cannot be stolen by thieves."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4089,7 +5384,19 @@ Jarā-Vaggo 第六 老品
        | 　　　　　自作功德者　　乃為未來友
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 53: Mitta Suttaŋ-- The Friend**
+
+       |  "What is the friend of one on a journey?
+       | What is the friend in one's own home?
+       | What is the friend of one in need?
+       | What is the friend in the future life?"
+       | 
+       |  "A caravan is the friend of one on a journey;
+       | A mother is the friend in one's own home;
+       | A comrade when the need arises
+       | Is one's friend again and again.
+       | The deeds of merit one has done —
+       | That is the friend in the future life."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4132,7 +5439,17 @@ Jarā-Vaggo 第六 老品
        | 　　　　　生物依大地　　雨精以育此
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 54: Vatthu Suttaŋ-- Support**
+
+       |  "What is the support of human beings?
+       | What is the best companion here?
+       | The creatures who dwell on the earth —
+       | By what do they sustain their life?"
+       | 
+       |  "Sons are the support of human beings,
+       | A wife the best companion;
+       | The creatures who dwell on the earth
+       | Sustain their life by rain."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4174,7 +5491,17 @@ Jarā-Vaggo 第六 老品
        | 　　　　　眾生墮輪迴　　苦惱人最畏
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 55: Paţhama Jana Suttaŋ-- Produces (1)**
+
+       |  "What is it that produces a person?
+       | What does he have that runs around?
+       | What enters upon saŋsāra?
+       | What is his greatest fear?"
+       | 
+       |  "It is craving that produces a person;
+       | His mind is what runs around;
+       | A being enters upon saŋsāra;
+       | Suffering is his greatest fear."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4216,7 +5543,17 @@ Jarā-Vaggo 第六 老品
        | 　　　　　眾生墮輪迴　　依苦不解脫
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 56: Dutiya Jana Suttaŋ-- Produces (2)**
+
+       |  "What is it that produces a person?
+       | What does he have that runs around?
+       | What enters upon saŋsāra?
+       | From what is he not yet freed?"
+       | 
+       |  "Craving is what produces a person;
+       | His mind is what runs around;
+       | A being enters upon saŋsāra;
+       | He is not freed from suffering."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4258,7 +5595,17 @@ Jarā-Vaggo 第六 老品
        | 　　　　　眾生墮輪迴　　業為人依怙
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 57: Tatiya Jana Suttaŋ-- Produces (3)**
+
+       |  "What is it that produces a person?
+       | What does he have that runs around?
+       | What enters upon saŋsāra?
+       | What determines his destiny?"
+       | 
+       |  "Craving is what produces a person;
+       | His mind is what runs around;
+       | A being enters upon saŋsāra;
+       | Kamma determines his destiny."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4303,7 +5650,19 @@ Jarā-Vaggo 第六 老品
        | 　　　　　苦行與梵行　　為無水沐浴
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 58: Uppatha Suttaŋ-- The Deviant Path**
+
+       |  "What is declared the deviant path?
+       | What undergoes destruction night and day?
+       | What is the stain of the holy life?
+       | What is the bath without water?"
+       | 
+       |  "Lust is declared the deviant path;
+       | Life undergoes destruction night and day;
+       | Women are the stain of the holy life:
+       | Here menfolk are enmeshed.
+       | Austerity and the holy life —
+       | That is the bath without water."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4345,7 +5704,17 @@ Jarā-Vaggo 第六 老品
        | 　　　　　愛樂涅槃者　　人脫眾苦惱
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 59: Dutiya Suttaŋ-- Partner**
+
+       |  "What is a person's partner?
+       | What is it that instructs him?
+       | Taking delight in what is a mortal
+       | Released from all suffering?"
+       | 
+       |  "Faith is a person's partner,
+       | And wisdom is what instructs him.
+       | Taking delight in Nibbāna, a mortal
+       | Is released from all suffering."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4402,7 +5771,17 @@ Jarā-Vaggo 第六 老品
        | 　　　　　非道以及伴　　此依詩人滿
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 60: Kavi Suttaŋ-- Poetry**
+
+       |  "What is the scaffolding of verses?
+       | What constitutes their phrasing?
+       | On what base do verses rest?
+       | What is the abode of verses?"
+       | 
+       |  "Metre is the scaffolding of verses;
+       | Syllables constitute their phrasing;
+       | Verses rest on a base of names;
+       | The poet is the abode of verses."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4464,7 +5843,19 @@ Addha-Vaggo 第七 勝品
        | 　　　　　以名之一法　　一切所從屬
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **VII. Weighed Down**
+
+       **Sutta 61: Nāma Suttaŋ-- Name**
+
+       |  "What has weighed down everything?
+       | What is most extensive?
+       | What is the one thing that has
+       | All under its control?"
+       | 
+       |  "Name has weighed down everything;
+       | Nothing is more extensive than name.
+       | Name is the one thing that has
+       | All under its control."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4506,7 +5897,17 @@ Addha-Vaggo 第七 勝品
        | 　　　　　以心之一法　　一切所從屬
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 62: Citta Suttaŋ-- Mind**
+
+       |  "By what is the world led around?
+       | By what is it dragged here and there?
+       | What is the one thing that has
+       | All under its control?"
+       | 
+       |  "The world is led around by mind;
+       | By mind it's dragged here and there.
+       | Mind is the one thing that has
+       | All under its control."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4547,7 +5948,17 @@ Addha-Vaggo 第七 勝品
        | 　　　　　渴愛之一法　　一切所從屬
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 63: Taņhā Suttaŋ-- Craving**
+
+       |  "By what is the world led around?
+       | By what is it dragged here and there?
+       | What is the one thing that has
+       | All under its control?"
+       | 
+       |  "The world is led around by craving;
+       | By craving it is dragged here and there.
+       | Craving is the one thing that has
+       | All under its control."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4589,7 +6000,17 @@ Addha-Vaggo 第七 勝品
        | 　　　　　離卻愛欲者　　是名為涅槃
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 64: Samyojana Suttaŋ-- Fetter**
+
+       |  "By what is the world tightly fettered?
+       | What is its means of travelling about?
+       | What is it that one must forsake
+       | In order to say, ' Nibbāna'?"
+       | 
+       |  "The world is tightly fettered by delight;
+       | Thought is its means of travelling about.
+       | Craving is what one must forsake
+       | In order to say, 'Nibbāna.'"
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4631,7 +6052,17 @@ Addha-Vaggo 第七 勝品
        | 　　　　　離卻渴愛者　　是斷一切縛
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 65: Bandhana Suttaŋ-- Bondage**
+
+       |  "By what is the world held in bondage?
+       | What is its means of travelling about?
+       | What is it that one must forsake
+       | To cut off all bondage?"
+       | 
+       |  "The world is held in bondage by delight;
+       | Thought is its means of travelling about.
+       | Craving is what one must forsake
+       | To cut off all bondage."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4673,7 +6104,17 @@ Addha-Vaggo 第七 勝品
        | 　　　　　依愛投鎗串　　依欲常灼燻
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 66: Abbhāta Suttaŋ-- Afflicted**
+
+       |  "By what is the world afflicted?
+       | By what is it enveloped?
+       | By what dart has it been wounded?
+       | With what is it always burning?"
+       | 
+       |  "The world is afflicted with death,
+       | Enveloped by old age;
+       | Wounded by the dart of craving,
+       | It is always burning with desire."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4715,7 +6156,17 @@ Addha-Vaggo 第七 勝品
        | 　　　　　為死所禁閉　　世立苦惱上
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 67: Uđđito Suttaŋ-- Ensnared**
+
+       |  "By what is the world ensnared?
+       | By what is it enveloped?
+       | By what is the world shut in?
+       | On what is the world established?"
+       | 
+       |  "The world is ensnared by craving;
+       | It is enveloped by old age;
+       | The world is shut in by death;
+       | The world is established on suffering."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4757,7 +6208,17 @@ Addha-Vaggo 第七 勝品
        | 　　　　　世依渴愛繼　　依衰老為覆
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 68: Pihito Suttaŋ-- Shut In**
+
+       |  "By what is the world shut in?
+       | On what is the world established?
+       | By what is the world ensnared?
+       | By what is it enveloped?"
+       | 
+       |  "The world is shut in by death;
+       | The world is established on suffering;
+       | The world is ensnared by craving;
+       | It is enveloped by old age."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4799,7 +6260,17 @@ Addha-Vaggo 第七 勝品
        | 　　　　　依離於欲望　　以斷一切縛
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 69: Icchā Suttaŋ-- Desire**
+
+       |  "By what is the world bound?
+       | By the removal of what is it freed?
+       | What is it that one must forsake
+       | To cut off all bondage?"
+       | 
+       |  "By desire is the world bound;
+       | By the removal of desire it is freed.
+       | Desire is what one must forsake
+       | To cut off all bondage."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4856,7 +6327,17 @@ Addha-Vaggo 第七 勝品
        | 　　　　　窘迫繼禁閉　　欲世等為十
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 70: Loka Suttaŋ-- World**
+
+       |  "In what has the world arisen?
+       | In what does it form intimacy?
+       | By clinging to what is the world
+       | Harassed in regard to what?"
+       | 
+       |  "In six has the world arisen;
+       | In six it forms intimacy;
+       | By clinging to six the world
+       | Is harassed in regard to six."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4928,7 +6409,27 @@ Chetvā-Vaggo 第八 斷品
        | 　　　　　聖讚忿殺害　　殺而不悲傷
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **VIII. Having Slain**
+
+       **Sutta 71: Chetvā Suttaŋ-- Having Slain**
+
+       At Sāvatthī.
+        
+       Standing to one side, that devatā addressed the Blessed One in verse:
+        
+       |  "Having slain what does one sleep soundly?
+       | Having slain what does one not sorrow?
+       | What is the one thing, O Gotama,
+       | Whose killing you approve?"
+       | 
+       | [The Blessed One:]
+       | 
+       |  "Having slain anger, one sleeps soundly;
+       | Having slain anger, one does not sorrow;
+       | The killing of anger, O devatā,
+       | With its poisoned root and honeyed tip:
+       | This is the killing the noble ones praise,
+       | For having slain that, one does not sorrow."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -4970,7 +6471,17 @@ Chetvā-Vaggo 第八 斷品
        | 　　　　　王乃國相標　　夫乃婦相標
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 72: Ratha Suttaŋ-- Chariot**
+
+       |  "What is the token of a chariot?
+       | What, the token of a fire?
+       | What is the token of a country?
+       | What, the token of a woman?"
+       | 
+       |  "A standard is the token of a chariot;
+       | Smoke, the token of a fire;
+       | The king is a country's token;
+       | A husband, the token of a woman."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -5016,7 +6527,16 @@ Chetvā-Vaggo 第八 斷品
        | 　　　　　智慧之生活　　謂生活最勝
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 73: Vitta Suttaŋ-- Treasure**
+
+       |  "What here is a man's best treasure? What practised well brings happiness?
+       | What is really the sweetest of tastes?
+       | How lives the one whom they say lives best?"
+       | 
+       |  "Faith is here a man's best treasure;
+       | Dhamma practised well brings happiness;
+       | Truth is really the sweetest of tastes;
+       | One living by wisdom they say lives best."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -5067,7 +6587,28 @@ Chetvā-Vaggo 第八 斷品
        | 　　　　　僧伽步為最　　佛陀語為最
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 74: Vuţţhi Suttaŋ-- Rain**
+        
+       [A devatā:]
+        
+       |  "What is the best of things that rise up?
+       | What excels among things that fall down?
+       | What is the best of things that go forth?
+       | Who is the most excellent of speakers?"
+       | 
+       | [Another devatā:]
+       | 
+       |  "A seed is the best of things that rise up;
+       | Rain excels among things that fall down;
+       | Cattle are the best of things that go forth;
+       | A son is the most excellent of speakers."
+       | 
+       | [The Blessed One:]
+       | 
+       |  "Knowledge is the best of things that rise up;
+       | Ignorance excels among things that fall down;
+       | The Saŋghais the best of things that go forth;
+       | The most excellent of speakers is the Buddha."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -5119,7 +6660,21 @@ Chetvā-Vaggo 第八 斷品
        | 　　　　　此世不恐怖
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 75: Bhītā Suttaŋ-- Afraid**
+
+       |  "Why are so many people here afraid
+       | When the path has been taught with many bases?
+       | I ask you, O Gotama, broad of wisdom:
+       | On what should one take a stand
+       | To have no fear of the other world?"
+       | 
+       |  "Having directed speech and mind rightly,
+       | Doing no evil deeds with the body,
+       | Dwelling at home with ample food and drink,
+       |  Faithful, gentle, generous, amiable:
+       | When one stands on these four things,
+       | Standing firmly on the Dhamma,
+       | One need not fear the other world."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -5192,7 +6747,37 @@ Chetvā-Vaggo 第八 斷品
        | 　　　　　耽睡眠怠慢　　應離此一切
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 76: Na Jīrati Suttaŋ-- Does Not Decay**
+
+       |  "What decays, what does not decay?
+       | What is declared the deviant path?
+       | What is the impediment to [wholesome] states?
+       | What undergoes destruction night and day?
+       | What is the stain of the holy life?
+       | What is the bath without water?
+       | 
+       |  "How many fissures are there in the world
+       | Wherein the mind does not stand firm?
+       | We've come to ask the Blessed One this:
+       | How are we to understand it?"
+       | 
+       |  "The physical form of mortals decays,
+       | Their name and clan does not decay.
+       | Lust is declared the deviant path,
+       | Greed the impediment to [wholesome] states.
+       | 
+       |  "Life undergoes destruction night and day;
+       | Women are the stain of the holy life:
+       | Here's where menfolk are enmeshed.
+       | Austerity and the holy life —
+       | That is the bath without water.
+       | 
+       |  "There are six fissures in the world
+       | Wherein the mind does not stand firm:
+       | Laziness and negligence,
+       | Indolence, lack of self-control,
+       | Drowsiness and lethargy —
+       | Avoid these fissures completely."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -5249,7 +6834,27 @@ Chetvā-Vaggo 第八 斷品
        | 　　　　　賢者乃歡喜
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 77: Issara Suttaŋ-- Sovereignty**
+
+       |  "What is sovereignty in the world?
+       | What ranks as the best of goods?
+       | What in the world is a rusty sword?
+       | What in the world is considered a plague?
+       | 
+       |  "Whom do they arrest when he takes away?
+       | And who, when he takes away, is dear?
+       | In whom do the wise take delight
+       | When he returns again and again?"
+       | 
+       |  "Mastery is sovereignty in the world;
+       | A woman ranks as the best of goods;
+       | In the world anger is a rusty sword;
+       | Thieves in the world are considered a plague.
+       | 
+       |  "They arrest a thief when he takes away,
+       | But an ascetic who takes away is dear.
+       | The wise take delight in an ascetic
+       | When he returns again and again."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -5293,7 +6898,17 @@ Chetvā-Vaggo 第八 斷品
        | 　　　　　不得放惡語
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 78: Kāma Suttaŋ-- Love**
+
+       |  "What should he not give who loves the good?
+       | What should a mortal not relinquish?
+       | What should one release when it's good,
+       | But not release when it's bad?"
+       | 
+       |  "A person should not give himself away;
+       | He should not relinquish himself.
+       | One should release speech that is good,
+       | But not speech that is bad."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -5341,7 +6956,21 @@ Chetvā-Vaggo 第八 斷品
        | 　　　　　猶如縛蹄鳥　　凡人欲望縛
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 79: Pātheyya Suttaŋ-- Provisions for a Journey**
+
+       |  "What secures provisions for a journey?
+       | What is the abode of wealth?
+       | What drags a person around?
+       | What in the world is hard to discard?
+       | By what are many beings bound
+       | Like birds caught in a snare?"
+       | 
+       |  "Faith secures provisions for a journey;
+       | Fortune is the abode of wealth;
+       | Desire drags a person around;
+       | Desire is hard to discard in the world.
+       | By desire many beings are bound
+       | Like birds caught in a snare."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -5399,7 +7028,27 @@ Chetvā-Vaggo 第八 斷品
        | 　　　　　養育於地上　　倚著之生物
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 80: Pajjota Suttaŋ-- Source of Light**
+
+       |  "What is the source of light in the world?
+       | What in the world is the wakeful one?
+       | What are [the colleagues] of those living by work?
+       | What is one's course of movement?
+       | 
+       |  "What nurtures both the slack and active
+       | Just as a mother nurtures her child?
+       | The creatures who dwell on the earth —
+       | By what do they sustain their life?"
+       | 
+       |  "Wisdom is the source of light in the world;
+       | Mindfulness, in the world, is the wakeful one;
+       | Cattle are [the colleagues] of those living by work;
+       | One's course of movement is the furrow.
+       | 
+       |  "Rain nurtures both the slack and active
+       | Just as a mother nurtures her child.
+       | Those creatures who dwell on the earth
+       | Sustain their life by rain."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -5475,7 +7124,27 @@ Chetvā-Vaggo 第八 斷品
        | 　　　　　主欲愛糧食　　光炎及無諍
 
    * - 英譯(WP, Ven. Bhikkhu Bodhi) [4]_
-     - 
+     - **Sutta 81: Araņā Suttaŋ-- Without Conflict**
+
+       |  "Who here in the world are placid?
+       | Whose mode of life is not squandered?
+       | Who here fully understand desire?
+       | Who enjoy perpetual freedom?
+       | 
+       |  "Whom do parents and brothers worship
+       | When he stands firmly established?
+       | Who is the one of humble birth
+       | That even khattiyas here salute?"
+       | 
+       |  "Ascetics are placid in the world;
+       | The ascetic life is not squandered;
+       | Ascetics fully understand desire;
+       | They enjoy perpetual freedom.
+       | 
+       |  "Parents and brothers worship an ascetic
+       | When he stands firmly established.
+       | Though an ascetic be of humble birth
+       | Even khattiyas here salute him."
 
    * - 英譯 (Sister Upalavanna) [4]_
      - 
@@ -5884,6 +7553,7 @@ Chetvā-Vaggo 第八 斷品
 .. [虛度] 「虛度」(nassati，原意為「滅亡；遺失；消失」)，菩提比丘長老英譯為「揮霍」(is squandered)。
 
 ..
+  10.13 make & upload for test (英譯 WP, Ven. Bhikkhu Bodhi)
   10.05 make & upload for test (元亨寺版)
   09.25 make & upload for test (漢譯((莊春江))
   08.22 create, upload for test (myweb.ncku)
