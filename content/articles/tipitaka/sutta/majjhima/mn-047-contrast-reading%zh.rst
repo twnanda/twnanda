@@ -269,7 +269,7 @@
 
 備註：
 
-.. [001] 　巴利原典乃參考【國際內觀中心】(Vipassana Meditation, As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD(Chattha Sangayana CD)。網路版請參考：
+.. [001] 巴利原典乃參考【國際內觀中心】(Vipassana Meditation, As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD(Chattha Sangayana CD)。網路版請參考：
  `http://www.tipitaka.org/ <http://www.tipitaka.org/>`_  (請選  `Roman→Web <http://www.tipitaka.org/romn/>`_  → Tipiṭaka (Mūla) → Suttapiṭaka → Majjhimanikāya → Mūlapaṇṇāsapāḷi → 5. Cūḷayamakavaggo → 7. Vīmaṃsakasuttaṃ )。
  
 .. [002] 英譯為 Sister Upalavanna所譯(Translated by Sister Upalavanna.)；請參考：
@@ -280,32 +280,32 @@
 
         or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/tipitaka/>`__ (The Pali is based on the Sri Lanka Buddha Jayanti Tipitaka Series. Sinhala is the A.P. de Soyza's translations. English is by various authors often downloaded from the Internet.) → `Majjhima Nikāya <http://awake.kiev.ua/dhamma/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series); `Saṃyutta Nikāya <http://awake.kiev.ua/dhamma/tipitaka/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series) ( `Щастя є <http://awake.kiev.ua/>`__  →  `Колесо Дхаммы. <http://awake.kiev.ua/dhamma/>`__ -- Сайт учения Будды в его исходном виде ) 
 
-.. [003] 　本譯文請參考：《觀察經》；蕭式球譯；《巴利文翻譯組學報》第六期(2009.1月, ISBN 978-962-7714A8-4)；編輯:志蓮淨苑文化部；出版:志蓮淨苑；地址香港九龍鑽石山志蓮道五號； `www.chilin.org <http://www.chilin.org/>`_ ；網路版請參考：
+.. [003] 本譯文請參考：《觀察經》；蕭式球譯；《巴利文翻譯組學報》第六期(2009.1月, ISBN 978-962-7714A8-4)；編輯:志蓮淨苑文化部；出版:志蓮淨苑；地址香港九龍鑽石山志蓮道五號； `www.chilin.org <http://www.chilin.org/>`_ ；網路版請參考：
          `巴利文佛典選譯 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_ (香港
          `志蓮淨苑文化部--佛學園圃 <http://www.chilin.edu.hk/edu/report.asp>`_ --5. 
          `南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_ 之 5.1.2.047 觀察經 
          `觀察經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=228>`_ )
 
 
-.. [004] 　本譯文請參考：《思察經》；通妙譯；《南傳大藏經》《中部經典》二；Pp. 42；臺灣．高雄．“元亨寺”出版；
+.. [004] 本譯文請參考：《思察經》；通妙譯；《南傳大藏經》《中部經典》二；Pp. 42；臺灣．高雄．“元亨寺”出版；
 
 
-.. [005] 　“如來” 在這裏和如下四段的巴利原文都是 “āyasmant” (尊者)，之後的段落又用回 “Tathāgata” 。 “尊者” 通常是用於佛陀的比丘弟子的稱呼，為了不致混淆，所以在這五段之中一共十個 “āyasmant” 全譯作 “如來” 。
+.. [005] “如來” 在這裏和如下四段的巴利原文都是 “āyasmant” (尊者)，之後的段落又用回 “Tathāgata” 。 “尊者” 通常是用於佛陀的比丘弟子的稱呼，為了不致混淆，所以在這五段之中一共十個 “āyasmant” 全譯作 “如來” 。
 
-.. [006] 　「相等於凡夫者」以原語tammaya譯之，在字義為「其程度者」，依佛音註sat-anho即「持渴愛者」之意，
+.. [006] 「相等於凡夫者」以原語tammaya譯之，在字義為「其程度者」，依佛音註sat-anho即「持渴愛者」之意，
       指不覺悟之凡夫。
 
-.. [007] 　「黑白俱備」以原語Kanhasukhasappatibhagin譯之。北傳此處為「除黑白」。
+.. [007] 「黑白俱備」以原語Kanhasukhasappatibhagin譯之。北傳此處為「除黑白」。
 
-.. [008] 　Defiled things cognisable by eye and ear consciousness (ye sankili.t.thaa cakkusota vi~n~naaneyyaa dhammaa). These are defiled perceptions born of eye and ear consciousness. Those are thoughts with greed, hate and delusion
+.. [008] Defiled things cognisable by eye and ear consciousness (ye sankili.t.thaa cakkusota vi~n~naaneyyaa dhammaa). These are defiled perceptions born of eye and ear consciousness. Those are thoughts with greed, hate and delusion
 
-.. [009] 　Mixed things cognisable by eye and ear consciousness (ye vitimissaa cakkhusota vi~n~naaneyyaa dhammaa) is a mixed up perception, when not sure whether it is seen or heard. They are thoughts with a mixture of greed, hate, and delusion.
+.. [009] Mixed things cognisable by eye and ear consciousness (ye vitimissaa cakkhusota vi~n~naaneyyaa dhammaa) is a mixed up perception, when not sure whether it is seen or heard. They are thoughts with a mixture of greed, hate, and delusion.
 
-.. [010] 　Pure things cognisable by eye and ear consciousness (ye vodaataa cakkhusota vi~n~naaneyyaa dhammaa) are pure perceptions and thoughts born of eye and ear consciousness, free of greed, hate, and delusion.
+.. [010] Pure things cognisable by eye and ear consciousness (ye vodaataa cakkhusota vi~n~naaneyyaa dhammaa) are pure perceptions and thoughts born of eye and ear consciousness, free of greed, hate, and delusion.
 
-.. [011] 　At a certain point reaches the summit. 'idha ekacca.m dhamma.m ni.t.tha.m aagama.m' Here, it is realising the Teaching of the Blessed One, and it is equivalent to attaining one or the other of the eight attainments of the Noble disciple. These attainments have to go in due order and the first of them is the entry into the stream of the Teaching. There is no progress without it.
+.. [011] At a certain point reaches the summit. 'idha ekacca.m dhamma.m ni.t.tha.m aagama.m' Here, it is realising the Teaching of the Blessed One, and it is equivalent to attaining one or the other of the eight attainments of the Noble disciple. These attainments have to go in due order and the first of them is the entry into the stream of the Teaching. There is no progress without it.
 
-.. [012] 　The search in the Teaching of the Thus Gone One and the propriety of reaching the summit (eva.m kho bhikkhave tathaagate dhammasamannesanaa hoti. Eva.m ca pana tathaagato dhammataasusamanni.t.tho honti) means that the understanding of the Teaching should come from within, and it becomes the fitness to see through. 
+.. [012] The search in the Teaching of the Thus Gone One and the propriety of reaching the summit (eva.m kho bhikkhave tathaagate dhammasamannesanaa hoti. Eva.m ca pana tathaagato dhammataasusamanni.t.tho honti) means that the understanding of the Teaching should come from within, and it becomes the fitness to see through. 
 
 ..
   10.16 2017 add: `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/tipitaka/>`__
