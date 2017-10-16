@@ -2,7 +2,7 @@
 ================================
 
 :date: 2012-04-03 07:00
-:modified: 2017-05-09
+:modified: 2017-10-16
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/maps-MN-Bodhi.html
 :tags: 《中部尼柯耶》閱讀地圖, A Systematic Study of the Majjhima Nikāya--Exploring the Word of the Buddha (BODHI MONASTERY), 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
@@ -176,7 +176,7 @@
 
     - Ariyapariyesana Sutta — `The Noble Search <http://www.accesstoinsight.org/tipitaka/mn/mn.026.than.html>`__ {M i 160}, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_ 
 
-    - The Noble Search, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.026.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/026-ariyapariyesana-sutta-e1.html>`__ [9]_
+    - The Noble Search, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.026.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/026-ariyapariyesana-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `罠聚経 <http://komyojikyozo.web.fc2.com/mnmlp/mn03/mn03c14.files/sheet001.htm>`_  （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`_ ）
 
@@ -218,7 +218,7 @@
 
     - `Fear & Terror <http://www.accesstoinsight.org/tipitaka/mn/mn.004.than.html>`__ {PTS: M i 16}, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - Great Fear, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.004.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/004-bhayabera-sutta-e1.html>`__ [9]_
+    - Great Fear, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.004.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/004-bhayabera-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `怖畏経 <http://komyojikyozo.web.fc2.com/mnmlp/mn01/mn01c07.htm>`_  （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`_ ）
 
@@ -261,7 +261,7 @@
 
     - `The Longer Discourse to Saccaka <http://www.accesstoinsight.org/tipitaka/mn/mn.036.than.html>`__ {PTS: M i 237}, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** (`Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Major Discourse to Saccaka, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.036.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/036-mahasaccaka-sutta-e1.html>`__ [9]_
+    - The Major Discourse to Saccaka, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.036.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/036-mahasaccaka-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `大サッチャカ経 <http://komyojikyozo.web.fc2.com/mnmlp/mn04/mn04c11.files/sheet001.htm>`_ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`_ ）
 
@@ -303,7 +303,7 @@
 
     - `The Great Discourse on the Lion's Roar {PTS: M i 68} <http://www.accesstoinsight.org/tipitaka/mn/mn.012.ntbb.html>`__ , Translated from the Pali by **Ven. Ñanamoli Thera & Bhikkhu Bodh (髻智尊者及菩提尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Major Lion's Roar, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.012.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/012-mahasihanada-sutta-e1.html>`__ [9]_
+    - The Major Lion's Roar, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.012.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/012-mahasihanada-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `大獅子吼経 <http://komyojikyozo.web.fc2.com/mnmlp/mn02/mn02c03.files/sheet001.htm>`_ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`_ ）
 
@@ -356,7 +356,7 @@
 
     - `Kalama Sutta: To the Kalamas <http://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html>`__ , Translated from the Pali by **Ven. Thanissaro Bhikkhu** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_ 
 
-    - `Those of Kesaputta <http://www.buddhadust.com/m/dhamma-vinaya/pts/an/03_threes/an03.065.wood.pts.htm>`__, Translated by F.L. Woodward, M.A. (buddhadust.com [8]_ ) or `5. Kesamuttisuttaṃ <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/Anguttara1/3-tikanipata/007-mahavaggo-e.html>`__ , Translated by Sister Uppalavanna ( `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/index.html>`__ [9]_
+    - `Those of Kesaputta <http://www.buddhadust.com/m/dhamma-vinaya/pts/an/03_threes/an03.065.wood.pts.htm>`__, Translated by F.L. Woodward, M.A. (buddhadust.com [8]_ ) or `5. Kesamuttisuttaṃ <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/Anguttara1/3-tikanipata/007-mahavaggo-e.html>`__ , Translated by Sister Uppalavanna ( `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/4Anguttara-Nikaya/index.html>`__ [9]_
 
   * 日譯(和訳)：
 
@@ -400,7 +400,7 @@
 
     - `A Safe Bet {PTS: PTS: M i 400} <http://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html>`__ , Translated from the Pali by **Ven. Thanissaro Bhikkhu**. (坦尼沙羅尊者) ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Inquiring Teaching, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.060.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/060-apannaka-e1.html>`__ [9]_
+    - The Inquiring Teaching, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.060.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/060-apannaka-e1.html>`__ [9]_
 
   * 日譯(和訳)： `無戯論経 <http://komyojikyozo.web.fc2.com/mnmjp/mn06/mn06c26.htm>`_ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`_ ）
 
@@ -442,7 +442,7 @@
 
       \*\*\* "This work is licensed under a `Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License <http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US>`_ ." \*\*\*
 
-    - The Examination, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.047.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/047-vimamsaka-sutta-e1.html>`__ [9]_
+    - The Examination, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.047.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/047-vimamsaka-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `思察経 <http://komyojikyozo.web.fc2.com/mnmlp/mn05/mn05c14.htm>`_ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`_ ）
 
@@ -484,7 +484,7 @@
 
       \*\*\* "This work is licensed under a `Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License <http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US>`_ ." \*\*\*
 
-    - To the Brahmin Canki, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.095.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/095-canki-e1.html>`__ [9]_
+    - To the Brahmin Canki, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.095.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/095-canki-e1.html>`__ [9]_
 
     - `With Canki <http://www.accesstoinsight.org/tipitaka/mn/mn.095x.nymo.html>`__ (excerpt), Translated from the Pali by **Ven. Ñanamoli Thera (髻智長老)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_ 
 
@@ -540,7 +540,7 @@
 
       \*\*\* "This work is licensed under a `Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License <http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US>`__." \*\*\*
 
-    - The Longer Discourse on Observances, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.046.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/046-mahadhammasamadana-sutta-e1.html>`__ [9]_
+    - The Longer Discourse on Observances, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.046.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/046-mahadhammasamadana-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `大法受持経 <http://komyojikyozo.web.fc2.com/mnmlp/mn05/mn05c12.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -588,7 +588,7 @@
 
     - `The Dog-duty Ascetic <http://www.accesstoinsight.org/tipitaka/mn/mn.057.nymo.html>`__ (PTS: M i 387), Translated from the Pali by **Ven. Ñanamoli Thera (髻智長老)** ;  ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Habits of a Dog, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.057.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/057-kukkuravatiya-e1.html>`__ [9]_
+    - The Habits of a Dog, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.057.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/057-kukkuravatiya-e1.html>`__ [9]_
 
   * 日譯(和訳)： `犬行者経 <http://komyojikyozo.web.fc2.com/mnmjp/mn06/mn06c20.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -632,7 +632,7 @@
 
     - `The Shorter Analysis of Action <http://www.accesstoinsight.org/tipitaka/mn/mn.135.than.html>`__ ,MN 135 PTS: M iii 202; Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_ 
 
-    - A Shorter Classification of Actions, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.135.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/135-culakammavibhanga-e.html>`__ [9]_
+    - A Shorter Classification of Actions, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.135.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/135-culakammavibhanga-e.html>`__ [9]_
 
   * 巴、漢、英文對讀：
 
@@ -675,7 +675,7 @@
 
     - `Saleyyaka Sutta: (Brahmans) of Sala <http://www.accesstoinsight.org/tipitaka/mn/mn.041.than.html>`__ , MN 41 PTS: M i 285 MLS ii 379; Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_ 
 
-    - The Discourse Given at Sala, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.041.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/041-saleyyaka-sutta-e1.html>`__ [9]_
+    - The Discourse Given at Sala, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.041.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/041-saleyyaka-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `サーレッヤカ経 <http://komyojikyozo.web.fc2.com/mnmlp/mn05/mn05c01.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -705,7 +705,7 @@
 
       另可參考： `《菩薩的不隨禪生》 <http://www.fuyan.org.tw/download/v3-s03.doc>`__ ，郭忠生, (.doc) → § 2.8.南傳《中部》第 120《行生經》（福嚴佛學研究第三期，2008.04； `福嚴佛學院 <http://www.fuyan.org.tw/>`__ ）；或 `福嚴佛學研究 第三期 <http://tkwen.sutta.org/Fuyan%20Buddhist%20Studies%20v3_2008.pdf>`__ （2008.04, PDF; `溫宗堃の風培基 <http://tkwen.sutta.org>`__ ）
 
-  * 英譯： Arising of Intentions, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.120.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/120-sankharuppatti-e.html>`__ [9]_
+  * 英譯： Arising of Intentions, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.120.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/120-sankharuppatti-e.html>`__ [9]_
 
   * 日譯(和訳)： `行生経 <http://mixi.jp/view_bbs.pl?comm_id=951429&id=48958359>`__
 
@@ -741,7 +741,7 @@
 
     - `Instructions to Rahula at Mango Stone <http://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html>`__ , MN 61 PTS: M i 414; , Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - Advice to Venerable Rāhula At Ambalatthika, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.061.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/061-ambalatthika-rahulovada-e1.html>`__ [9]_
+    - Advice to Venerable Rāhula At Ambalatthika, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.061.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/061-ambalatthika-rahulovada-e1.html>`__ [9]_
 
   * 日譯(和訳)： `アンバラッティカー・ラーフラ教誡経 <http://komyojikyozo.web.fc2.com/mnmjp/mn07/mn07c01.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）；　\ `アンバラッティカー・ラーフラ教誡経 <http://d.hatena.ne.jp/pali/20101101/p1>`__ パーリ　経典
 
@@ -779,7 +779,7 @@
 
     - `The Simile of the Saw (excerpt) <http://www.accesstoinsight.org/tipitaka/mn/mn.021x.than.html>`__ , MN 21 PTS: M i 122, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)**  ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_ 
 
-    - The Simile of the Saw, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.021.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/021-kakacupama-sutta-e1.html>`__ [9]_
+    - The Simile of the Saw, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.021.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/021-kakacupama-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `鋸喩経 <http://komyojikyozo.web.fc2.com/mnmlp/mn03/mn03c01.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -828,7 +828,7 @@
 
     - `The Great Mass of Stress <http://www.accesstoinsight.org/tipitaka/mn/mn.013.than.html>`__ , MN 13 PTS: M i 83; Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Major Mass of Unpleasantness, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.013.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/013-mahadukkhakkhanda-sutta-e1.html>`__ [9]_
+    - The Major Mass of Unpleasantness, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.013.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/013-mahadukkhakkhanda-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `大苦蘊経 <http://komyojikyozo.web.fc2.com/mnmlp/mn02/mn02c08.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -869,7 +869,7 @@
 
     - `To Potaliya (excerpt) <http://www.accesstoinsight.org/tipitaka/mn/mn.054x.than.html>`__, MN 54 PTS: M i 359; Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - To The Householder Potaliya, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.054.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/054-potaliya-e1.html>`__ [9]_
+    - To The Householder Potaliya, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.054.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/054-potaliya-e1.html>`__ [9]_
 
   * 日譯(和訳)： `ポータリヤ経 <http://komyojikyozo.web.fc2.com/mnmjp/mn06/mn06c08.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -905,7 +905,7 @@
 
     - `To Magandiya (excerpt) <http://www.accesstoinsight.org/tipitaka/mn/mn.075x.than.html>`__, MN 75 PTS: M i 501; Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_ 
 
-    - To Māgandiya, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.075.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/075-magandiya-e1.html>`__ [9]_
+    - To Māgandiya, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.075.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/075-magandiya-e1.html>`__ [9]_
 
   * 巴、漢、英文對讀：
 
@@ -941,7 +941,7 @@
 
     - `Assu Sutta: Tears(SN 15.3 PTS: S ii 179 CDB i 652) <http://www.accesstoinsight.org/tipitaka/sn/sn15/sn15.003.than.html>`__  ,  `Danda Sutta: The Stick(SN 15.9 PTS: S ii 184 CDB i 656) <http://www.accesstoinsight.org/tipitaka/sn/sn15/sn15.009.than.html>`__ ,  `Duggata Sutta: Fallen on Hard Times(SN 15.11 PTS: S ii 186 CDB i 657) <http://www.accesstoinsight.org/tipitaka/sn/sn15/sn15.011.than.html>`__ ,  `Sukhita Sutta: Happy(SN 15.12 PTS: S ii 186 CDB i 658) <http://www.accesstoinsight.org/tipitaka/sn/sn15/sn15.012.than.html>`__ ,  `Timsa Sutta: Thirty(SN 15.13 PTS: S ii 187 CDB i 658) <http://www.accesstoinsight.org/tipitaka/sn/sn15/sn15.013.than.html>`__ ,  `Mata Sutta: Mother(SN 15.14-19 PTS: S ii 189 CDB i 659) <http://www.accesstoinsight.org/tipitaka/sn/sn15/sn15.014.than.html>`__ , Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - `Anamatagga Sa.myutta, I.46, <http://www.buddhadust.com/v/backmatter/indexes/sutta/sn/02_nv/idx_15_anamataggasamyutta.htm>`__ (1. Ti.naka.t.tha Sutta.m, II.178 ~ 20. Vepulla-pabbata Sutta.m, II.190 (buddhadust.com) [8]_ or `Tiṇakaṭṭha (Paṭhamo) Vagga <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/Samyutta2/14-Anamatagga-Samyutta/01-Tinakatthavaggo-e.html>`__ & `Duggata Vagga <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/Samyutta2/14-Anamatagga-Samyutta/02-Duggatavaggo-e.html>`__ (Mettanet Tipitaka Index) [9]_ , Translated by Sister Uppalavanna
+    - `Anamatagga Sa.myutta, I.46, <http://www.buddhadust.com/v/backmatter/indexes/sutta/sn/02_nv/idx_15_anamataggasamyutta.htm>`__ (1. Ti.naka.t.tha Sutta.m, II.178 ~ 20. Vepulla-pabbata Sutta.m, II.190 (buddhadust.com) [8]_ or `Tiṇakaṭṭha (Paṭhamo) Vagga <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/Samyutta2/14-Anamatagga-Samyutta/01-Tinakatthavaggo-e.html>`__ & `Duggata Vagga <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/Samyutta2/14-Anamatagga-Samyutta/02-Duggatavaggo-e.html>`__ (Mettanet Tipitaka Index) [9]_ , Translated by Sister Uppalavanna
 
   * 日譯(和訳)： `無始相応 <http://mixi.jp/view_bbs.pl?comm_id=951429&id=25993138>`__ (部份經文) 
 
@@ -982,7 +982,7 @@
 
     - `About Ratthapala <http://www.accesstoinsight.org/tipitaka/mn/mn.082.than.html>`__ ; MN 82 PTS: M ii 54, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - To the Householder Ratthapala, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.082.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/082-ratthapala-e1.html>`__ [9]_
+    - To the Householder Ratthapala, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.082.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/082-ratthapala-e1.html>`__ [9]_
 
   * 日譯(和訳)：頼吒惒羅経(ラッタパーラ経)
 
@@ -1030,7 +1030,7 @@
 
     - `The Shorter Instructions to Malunkya <http://www.accesstoinsight.org/tipitaka/mn/mn.063.than.html>`__ , MN 63 PTS: M i 426), Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - Advice to Venerable Malunkhyaputta, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.063.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/063-cula-malunkhyaputta-e1.html>`__ [9]_
+    - Advice to Venerable Malunkhyaputta, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.063.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/063-cula-malunkhyaputta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `小マールキヤ経 <http://komyojikyozo.web.fc2.com/mnmjp/mn07/mn07c05.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -1068,7 +1068,7 @@
 
     - `The Longer Heartwood-simile Discourse  <http://www.accesstoinsight.org/tipitaka/mn/mn.029.than.html>`__ , MN 29 PTS: M i 192), Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Major Discourse on Heartwood, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.029.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/029-mahasaropama-sutta-e1.html>`__ [9]_  
+    - The Major Discourse on Heartwood, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.029.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/029-mahasaropama-sutta-e1.html>`__ [9]_  
 
   * 日譯(和訳)： `大心髄喩経 <http://komyojikyozo.web.fc2.com/mnmlp/mn03/mn03c25.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -1110,7 +1110,7 @@
 
     - `The Shorter Elephant Footprint Simile <http://www.accesstoinsight.org/tipitaka/mn/mn.027.than.html>`__ , MN 27 PTS: M i 175, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Minor Discourse of the Simile of the Elephant's Footprint, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.027.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/027-culahatthipadopama-sutta-e1.html>`__ [9]_
+    - The Minor Discourse of the Simile of the Elephant's Footprint, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.027.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/027-culahatthipadopama-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `小象跡喩経 <http://komyojikyozo.web.fc2.com/mnmlp/mn03/mn03c20.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -1144,7 +1144,7 @@
 
     - `The Greater Discourse at Assapura <http://www.accesstoinsight.org/tipitaka/mn/mn.039.than.html>`__ , MN 39 PTS: M i 271, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Longer Discourse in Assapura, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.039.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/039-mahaassapura-sutta-e1.html>`__ [9]_
+    - The Longer Discourse in Assapura, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.039.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/039-mahaassapura-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `大アッサプラ経 <http://komyojikyozo.web.fc2.com/mnmlp/mn04/mn04c24.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -1178,7 +1178,7 @@
 
     - 對照之阿含經典及其他： `中阿含183馬邑經第二 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0026_p0725c16>`__ MA 183,中阿含經卷第四十八,雙品第四, （一八三）中阿含雙品馬邑經第二(第四分別誦)
 
-  * 英譯： The Shorter Discourse in Assapura, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.040.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/040-culaassapura-sutta-e1.html>`__ [9]_
+  * 英譯： The Shorter Discourse in Assapura, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.040.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/040-culaassapura-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `小アッサプラ経 <http://komyojikyozo.web.fc2.com/mnmlp/mn04/mn04c27.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -1218,7 +1218,7 @@
 
       \*\*\* "This work is licensed under a `Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License <http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US>`_ ." \*\*\*
 
-    - If the Bhikkhu Desires, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.006.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/006-akankheyya-sutta-e1.html>`__ [9]_
+    - If the Bhikkhu Desires, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.006.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/006-akankheyya-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `所願経 <http://komyojikyozo.web.fc2.com/mnmlp/mn01/mn01c12.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -1260,7 +1260,7 @@
 
     - `Two Sorts of Thinking <http://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html>`__ , MN 19 PTS: M i 114, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Twofold Thought Processes, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.019.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/019-dvedhavitakka-sutta-e1.html>`__ [9]_
+    - The Twofold Thought Processes, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.019.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/019-dvedhavitakka-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `双尋経 <http://komyojikyozo.web.fc2.com/mnmlp/mn02/mn02c20.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -1300,7 +1300,7 @@
 
     - `The Relaxation of Thoughts <http://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html>`__ , MN 20 PTS: M i 118, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Discursively Thinking Mind, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.020.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/020-vitakkasanthana-sutta-e1.html>`__ [9]_
+    - The Discursively Thinking Mind, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.020.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/020-vitakkasanthana-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `尋相経 <http://komyojikyozo.web.fc2.com/mnmlp/mn02/mn02c22.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）；　\ `尋止息経［ヴィタッカサンターナ・スッタ］ <http://mixi.jp/view_bbs.pl?comm_id=951429&id=51120908>`__
 
@@ -1338,7 +1338,7 @@
 
     - `The Simile of the Cloth <http://www.accesstoinsight.org/tipitaka/mn/mn.007.nypo.html>`__ , MN 7 PTS: M i 36, Translated from the Pali by **Ven. Nyanaponika Thera (向智長老)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Simile of the Cloth, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.007.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/007-vatthupama-sutta-e1.html>`__ [9]_
+    - The Simile of the Cloth, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.007.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/007-vatthupama-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `衣服経 <http://komyojikyozo.web.fc2.com/mnmlp/mn01/mn01c13.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -1376,7 +1376,7 @@
 
     - `The Discourse on Effacement <http://www.accesstoinsight.org/tipitaka/mn/mn.008.nypo.html>`__ , MN 8 PTS: M i 40, Translated from the Pali by **Ven. Nyanaponika Thera (向智長老)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - Purity, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.008.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/008-salleka-sutta-e1.html>`__ [9]_
+    - Purity, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.008.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/008-salleka-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `削減経 <http://komyojikyozo.web.fc2.com/mnmlp/mn01/mn01c15.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）；　\ `削減経［サッレーカ・スッタ］ <http://mixi.jp/view_bbs.pl?comm_id=951429&id=49518264>`__
 
@@ -1422,7 +1422,7 @@
 
     - `All the Fermentations <http://www.accesstoinsight.org/tipitaka/mn/mn.002.than.html>`__ , MN 2 PTS: M i 6, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - All Desires, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.002.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/002-sabbasava-sutta-e1.html>`__ [9]_
+    - All Desires, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.002.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/002-sabbasava-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `一切漏経 <http://komyojikyozo.web.fc2.com/mnmlp/mn01/mn01c03.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -1467,7 +1467,7 @@
 
     - `Analysis <http://www.buddhadust.com/v/dhamma-vinaya/wp/sn/05_mv/sn05.45.008.bodh.wp.htm>`__ (Sa'nyutta Nikaaya, V: Mahaa-Vagga, 45. Magga Sa'nyutta; The Connected Discourses of the Buddha, The Great Book, Chapter I (45): Connected Discourses on the Path, 1: Ignorance, Sutta 8, Vibha'nga Sutta.m; Translated by Ven. Bhikkhu Bodhi (buddhadust.com  [8]_ )
 
-    - `Explanation <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/Samyutta5/44-Magga-Samyutta/01-Avijjavaggo-e.html>`__ ; Sutta Pitaka, Samyutta Nikaaya, Volume V - Mahaavaggo, Samyutta 44 -- Magga Sa.myutta, Chapter 1 -- Avijjaa Vagga, 44. 1. 8. (8) Vibhañgo); Translated by Sister Uppalavanna ( Mettanet Tipitaka Index  [9]_ )
+    - `Explanation <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/Samyutta5/44-Magga-Samyutta/01-Avijjavaggo-e.html>`__ ; Sutta Pitaka, Samyutta Nikaaya, Volume V - Mahaavaggo, Samyutta 44 -- Magga Sa.myutta, Chapter 1 -- Avijjaa Vagga, 44. 1. 8. (8) Vibhañgo); Translated by Sister Uppalavanna ( Mettanet Tipitaka Index  [9]_ )
 
   * 日譯(和訳)： `第八　分別経 <http://mixi.jp/view_bbs.pl?comm_id=951429&id=29226398>`__ ﹛相応部経典 大篇 → ［四五］第一　道相応（マッガ・サンユッタ） → 第一　無明品 → ［八］　第八　分別﹜
 
@@ -1503,7 +1503,7 @@
 
     - `The Great Forty <http://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html>`__ ; MN 117 PTS: M iii 71, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Longer Discourse on the Forty, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.117.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/117-mahacattarisaka-e.html>`__ [9]_
+    - The Longer Discourse on the Forty, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.117.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/117-mahacattarisaka-e.html>`__ [9]_
 
   * 日譯(和訳)： `大四十経 <http://mixi.jp/view_bbs.pl?comm_id=951429&id=49072672>`__  （聖八支道）［マハーチャッターリーサカ・スッタ］；　\ `第一一七経　優れた四十の効果――聖道経（出本充代　訳） <http://mixi.jp/view_bbs.pl?comm_id=951429&id=29096929>`__
 
@@ -1548,7 +1548,7 @@
 
     - `Frames of Reference <http://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html>`__ ; MN 10 PTS: M i 55, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_ 
 
-    - Establishing Mindfulness, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.010.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/010-satipatthanai-sutta-e1.html>`__ [9]_
+    - Establishing Mindfulness, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.010.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/010-satipatthanai-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `大念処経 <http://komyojikyozo.web.fc2.com/mnmlp/mn01/mn01c20.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -1588,7 +1588,7 @@
 
     - `Mindfulness of Breathing <http://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html>`__ , MN 118 PTS: M iii 78, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Discourse On In and Out Breathing, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.118.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/118-anappanasati-e.html>`__ [9]_
+    - The Discourse On In and Out Breathing, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.118.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/118-anappanasati-e.html>`__ [9]_
 
   * 日譯(和訳)： `中部経典 第118経  『念息経』１　十六念息 <http://mixi.jp/view_bbs.pl?comm_id=951429&id=28816502>`__ (mixiコミュニティ)；　`念息経２　四念処・七覚支・明解脱 <http://mixi.jp/view_bbs.pl?comm_id=951429&id=28859268>`__ (mixiコミュニティ)；　`出入息念経 <http://www54.atwiki.jp/waikei2008/pages/28.html>`__ (和井恵流)
 
@@ -1627,7 +1627,7 @@
 
       \*\*\* "This work is licensed under a `Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License <http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US>`_ ." \*\*\*
 
-    - Advice to the wandering Ascetic Sakuludayi, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.077.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/077-mahasakuludayi-e1.html>`__ [9]_
+    - Advice to the wandering Ascetic Sakuludayi, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.077.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/077-mahasakuludayi-e1.html>`__ [9]_
 
   * 日譯(和訳)：善生優陀夷大経
 
@@ -1678,7 +1678,7 @@
 
     - `Right View <http://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html>`__ , MN 9 PTS: M i 46, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Noble Search, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.009.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/009-sammaditthi-sutta-e1.html>`__ [9]_
+    - The Noble Search, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.009.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/009-sammaditthi-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `正見経 <http://komyojikyozo.web.fc2.com/mnmlp/mn01/mn01c17.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -1712,7 +1712,7 @@
 
     - `The Shorter Discourse on the Lion's Roar <http://www.accesstoinsight.org/tipitaka/mn/mn.011.ntbb.html>`__ , MN 11 PTS: M i 63, Translated from the Pali by  Ven. Ñanamoli Thera & Bhikkhu Bodhi (智髻長老與菩提尊者) ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - A Minor Lion's Roar, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.011.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/011-culasihanada-sutta-e1.html>`__ [9]_
+    - A Minor Lion's Roar, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.011.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/011-culasihanada-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `小獅子吼経 <http://komyojikyozo.web.fc2.com/mnmlp/mn02/mn02c01.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -1752,7 +1752,7 @@
 
     - `The Water-Snake Simile <http://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html>`__ , MN 22 PTS: M i 130, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Simile of the Snake, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.022.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/022-alagagaddupama-sutta-e1.html>`__ [9]_
+    - The Simile of the Snake, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.022.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/022-alagagaddupama-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `蛇喩経 <http://komyojikyozo.web.fc2.com/mnmlp/mn03/mn03c04.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -1790,7 +1790,7 @@
 
     - `The Greater Craving-Destruction Discourse <http://www.accesstoinsight.org/tipitaka/mn/mn.038.than.html>`__ , MN 38 PTS: M i 256, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Major Discourse on the Destruction of Craving, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.038.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/038-mahatanhasankhaya-sutta-e1.html>`__ [9]_
+    - The Major Discourse on the Destruction of Craving, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.038.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/038-mahatanhasankhaya-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `大愛尽経 <http://komyojikyozo.web.fc2.com/mnmlp/mn04/mn04c18.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -1830,7 +1830,7 @@
 
     - `The Six Sextets <http://www.accesstoinsight.org/tipitaka/mn/mn.148.than.html>`__ , MN 148 PTS: M iii 280, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Discourse of Six Sixes, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.148.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/148-chachakka-e.html>`__ [9]_
+    - The Discourse of Six Sixes, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.148.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/148-chachakka-e.html>`__ [9]_
 
   * 日譯(和訳)： `六六経 <http://www54.atwiki.jp/waikei2008/pages/36.html>`__ (部分)
 
@@ -1866,7 +1866,7 @@
 
     - `Nandaka's Exhortation <http://www.accesstoinsight.org/tipitaka/mn/mn.146.than.html>`__ , MN 146 PTS: M iii 270, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - Advice from Venerable Nandaka, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.146.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/146-nandakovada-e.html>`__ [9]_
+    - Advice from Venerable Nandaka, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.146.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/146-nandakovada-e.html>`__ [9]_
 
   * 日譯(和訳)：教難陀迦経
 
@@ -1902,7 +1902,7 @@
 
     - `The Great Six Sense-media Discourse <http://www.accesstoinsight.org/tipitaka/mn/mn.149.than.html>`__ , MN 149 PTS: M iii 287, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Longer Discourse on the Six Spheres, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.149.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/149-mahasalayatanika-e.html>`__ [9]_
+    - The Longer Discourse on the Six Spheres, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.149.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/149-mahasalayatanika-e.html>`__ [9]_
 
   * 日譯(和訳)：大六処経
 
@@ -1942,7 +1942,7 @@
 
     - `The Great Elephant Footprint Simile <http://www.accesstoinsight.org/tipitaka/mn/mn.028.than.html>`__ , MN 28 PTS: M i 184, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Major Disourse on the Simile of the Elephant's Footprint, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.028.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/028-mahahatthipadopama-sutta-e1.html>`__ [9]_
+    - The Major Disourse on the Simile of the Elephant's Footprint, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.028.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/028-mahahatthipadopama-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `大象跡喩経 <http://komyojikyozo.web.fc2.com/mnmlp/mn03/mn03c23.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -1978,7 +1978,7 @@
 
     - `The Quail Simile <http://www.accesstoinsight.org/tipitaka/mn/mn.066.than.html>`__ , MN 66 PTS: M i 447, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - The Discourse with the Comparison of The Quail, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.066.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/066-latukikopama-e1.html>`__ [9]_
+    - The Discourse with the Comparison of The Quail, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.066.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/066-latukikopama-e1.html>`__ [9]_
 
   * 日譯(和訳)： `鶉喩経 <http://komyojikyozo.web.fc2.com/mnmjp/mn07/mn07c13.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -2016,7 +2016,7 @@
 
       \*\*\* "This work is licensed under a `Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License <http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US>`_ ." \*\*\*
 
-    - The Major Discourse to Venerable Malunkhyaputta, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.064.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/064-maha-malunkhyaputta-e1.html>`__ [9]_
+    - The Major Discourse to Venerable Malunkhyaputta, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.064.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/064-maha-malunkhyaputta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `大マールキヤ経 <http://komyojikyozo.web.fc2.com/mnmjp/mn07/mn07c07.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -2052,7 +2052,7 @@
 
     - `To the Man from Atthakanagara <http://www.accesstoinsight.org/tipitaka/mn/mn.052.than.html>`__ , MN 52 PTS: M i 349, Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - Preached at Atthakanaagara, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.052.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/052-atthakanagara-e1.html>`__ [9]_
+    - Preached at Atthakanaagara, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.052.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/052-atthakanagara-e1.html>`__ [9]_
 
   * 日譯(和訳)： `アッタカ市民経 <http://komyojikyozo.web.fc2.com/mnmjp/mn06/mn06c05.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -2088,7 +2088,7 @@
 
     - `An Analysis of the Properties <http://www.accesstoinsight.org/tipitaka/mn/mn.140.than.html>`__ , MN 140 PTS: M iii 237 , Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - Classification of Elements, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.140.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/140-dhatuvibhanga-e.html>`__ [9]_
+    - Classification of Elements, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.140.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/140-dhatuvibhanga-e.html>`__ [9]_
 
   * 日譯(和訳)：をご参照ください\ `中部経典 第百四十経『界分別経（要素の解説）』 <http://blog.goo.ne.jp/waikei2008/e/60aef8ba1b1f3af389858331aa44f542>`__ （＠和井恵流）
 
@@ -2128,7 +2128,7 @@
 
     - `At Kitagiri <http://www.accesstoinsight.org/tipitaka/mn/mn.070.than.html>`__ , MN 70 PTS: M i 473 , Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - Advice given at Kitagiri, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.070.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/070-kitagiri-e1.html>`__ [9]_
+    - Advice given at Kitagiri, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.070.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/070-kitagiri-e1.html>`__ [9]_
 
   * 日譯(和訳)： `キーターギリ経 <http://komyojikyozo.web.fc2.com/mnmjp/mn07/mn07c22.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -2184,7 +2184,7 @@
 
       \*\*\* "This work is licensed under a `Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License <http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US>`_ ." \*\*\*
 
-    - The Minor Discourse in the Gosinga Forest, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.031.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/031-culagosinga-sutta-e1.html>`__ [9]_
+    - The Minor Discourse in the Gosinga Forest, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.031.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/031-culagosinga-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `小ゴーシンガ経 <http://komyojikyozo.web.fc2.com/mnmlp/mn04/mn04c01.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -2224,7 +2224,7 @@
 
       \*\*\* "This work is licensed under a `Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License <http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US>`_ ." \*\*\*
 
-    - The longer Discourse in the Gosinga Forest, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.032.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/032-mahagosinga-sutta-e1.html>`__ [9]_
+    - The longer Discourse in the Gosinga Forest, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.032.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/032-mahagosinga-sutta-e1.html>`__ [9]_
 
   * 日譯(和訳)： `大ゴーシンガ経 <http://komyojikyozo.web.fc2.com/mnmlp/mn04/mn04c03.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -2262,7 +2262,7 @@
 
       \*\*\* "This work is licensed under a `Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License <http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US>`_ ." \*\*\*
 
-    - Advice to Venerable Bhaddali, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.065.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/065-bhaddali-e1.html>`__ [9]_
+    - Advice to Venerable Bhaddali, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.065.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/065-bhaddali-e1.html>`__ [9]_
 
   * 日譯(和訳)： `バッダーリ経 <http://komyojikyozo.web.fc2.com/mnmjp/mn07/mn07c09.files/sheet001.htm>`__ （ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ ）
 
@@ -2300,7 +2300,7 @@
 
       \*\*\* "This work is licensed under a `Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License <http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US>`_ ." \*\*\*
 
-    - At Samagama, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.104.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/104-samagama-e.html>`__ [9]_
+    - At Samagama, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.104.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/104-samagama-e.html>`__ [9]_
 
   * 日譯(和訳)：舎弥村経
 
@@ -2340,7 +2340,7 @@
 
     - `Moggallana the Guardsman <http://www.accesstoinsight.org/tipitaka/mn/mn.108.than.html>`__ , MN 108 PTS: M iii 7 , Translated from the Pali by **Ven. Thanissaro Bhikkhu (坦尼沙羅尊者)** ( `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]_
 
-    - To the Brahmin Gopaka-Moggallana, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.108.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/108-gopakamoggallana-e.html>`__ [9]_
+    - To the Brahmin Gopaka-Moggallana, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.108.upal.mnl.htm>`__ [8]_ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/108-gopakamoggallana-e.html>`__ [9]_
 
   * 日譯(和訳)：瞿黙目犍連経
 
@@ -2394,7 +2394,9 @@
 
 .. [8] 選錄多位翻譯者之譯文，請參 `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ → Majjhima Nikāya: `Mūla-Paṇṇāsaɱ <http://www.buddhadust.com/m/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_1.htm>`__ (The Root 50: Suttas 1-50) (pts vol I: p 1-338), `Majjhima-Paṇṇāsaɱ <http://www.buddhadust.com/m/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_2.htm>`_ (The Middle 50: Suttas 51-100) (pts vol I: p 339-524; vol II: 1-213); `Upari-Paṇṇāsaɱ <http://www.buddhadust.com/m/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_3.htm>`_ (The Final 50: Suttas 101-152) (pts Vol II: 214-266; Vol III: p 1-302) [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
 
-.. [9] `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/>`__ (The Pali is based on the Sri Lanka Buddha Jayanti Tipitaka Series. Sinhala is the A.P. de Soyza's translations. English is by various authors often downloaded from the Internet.) → `Majjhima Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series); `Saṃyutta Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series) ( `Щастя є <http://awake.kiev.ua/>`__  →  `Колесо Дхаммы. <http://awake.kiev.ua/dhamma/>`__ -- Сайт учения Будды в его исходном виде ) 
+.. [9] `METTANET - LANKA <http://metta.lk/>`__ ( → `Tipitaka <http://metta.lk/tipitaka/>`__  → `Majjhima Nikāya <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ )
+
+        or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/tipitaka/>`__ (The Pali is based on the Sri Lanka Buddha Jayanti Tipitaka Series. Sinhala is the A.P. de Soyza's translations. English is by various authors often downloaded from the Internet.) → `Majjhima Nikāya <http://awake.kiev.ua/dhamma/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series); `Saṃyutta Nikāya <http://awake.kiev.ua/dhamma/tipitaka/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series) ( `Щастя є <http://awake.kiev.ua/>`__  →  `Колесо Дхаммы. <http://awake.kiev.ua/dhamma/tipitaka/>`__ -- Сайт учения Будды в его исходном виде ) 
 
 .. [10] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Majjhima Nikāya (MN) <https://suttacentral.net/mn>`__ 。
 
@@ -2403,6 +2405,7 @@
 .. [12] § 2.8.南傳《中部》第 120《行生經》（ `福嚴佛學院 <http://www.fuyan.org.tw/>`__ →研究論文→福嚴佛學研究第三期 (2008.04)；或 `溫宗堃の風培基 <http://tkwen.theravada-chinese.org>`__ →福嚴佛學院講義 → `福嚴佛學研究 第三期 (2008.04)(PDF) <http://tkwen.theravada-chinese.org/Fuyan/Buddhist/Studies/v3_2008.pdf>`__ ）
 
 ..
+  10.16 METTANET - LANKA (metta.lk) re-activation
   05.09 add link of mn-149-contrast-reading%zh.rst & mark CBETA; T01, no. 26, p. 775, c7 etc. del: ..  ; 其他可參照： `巴利大藏經 經藏 中部 MN 36 <{filename}majjhima-nikaaya%zh.rst#MN 36>`__ etc
   05.07 correct some URLs
   04.20 rev. some urls

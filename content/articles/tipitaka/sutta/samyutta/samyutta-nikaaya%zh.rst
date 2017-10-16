@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2017-10-06
+:modified: 2017-10-16
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應部尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -37,7 +37,9 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 
 - 英譯(English)：
 
-  * `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ (buddhadust.com, collecting many translators's works [7]_ or Mettanet Tipitaka Index [8]_ , 選錄多位翻譯者之譯文)
+  * `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ (buddhadust.com, collecting many translators's works (選錄多位翻譯者之譯文) [7]_ 
+
+  * `Saṃyutta Nikāya <http://metta.lk/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ ( `METTANET - LANKA <http://metta.lk/>`__ ) [8]_
 
   * Samyutta Nikaya-- `The Grouped Discourses <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ (Selected translations, original 部份經典選譯，其他請參原始出處: `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [9]_
 
@@ -328,7 +330,9 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
        5. (sŋ 45-56) `Mahā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_05_mahavagga.htm>`__ (The Great Collection) [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
 
-.. [8] `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/>`__ (The Pali is based on the Sri Lanka Buddha Jayanti Tipitaka Series. Sinhala is the A.P. de Soyza's translations. English is by various authors often downloaded from the Internet.) → `Majjhima Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series); `Saṃyutta Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series) ( `Щастя є <http://awake.kiev.ua/>`__  →  `Колесо Дхаммы. <http://awake.kiev.ua/dhamma/>`__ -- Сайт учения Будды в его исходном виде )
+.. [8] `METTANET - LANKA <http://metta.lk/>`__ ( → `Tipitaka <http://metta.lk/tipitaka/>`__  → `Saṃyutta Nikāya <http://metta.lk/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ )
+
+       or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/>`__ (The Pali is based on the Sri Lanka Buddha Jayanti Tipitaka Series. Sinhala is the A.P. de Soyza's translations. English is by various authors often downloaded from the Internet.) → `Majjhima Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series); `Saṃyutta Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series) ( `Щастя є <http://awake.kiev.ua/>`__  →  `Колесо Дхаммы. <http://awake.kiev.ua/dhamma/>`__ -- Сайт учения Будды в его исходном виде )
 
 .. [9] 部份經典選譯，請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ 
 
@@ -336,6 +340,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  10.16 METTANET - LANKA (metta.lk) re-activation
   10.06 add: 諸天相應對讀 sn01-devata-samyutta-parallel-reading 
   08.19 add: Jambukhādaka-saṃyuttaṃ 閻浮車相應、Sāmaṇḍaka-saṃyuttaṃ 沙門出家相應
   08.18 add: Magga-saṃyuttaṃ 道相應

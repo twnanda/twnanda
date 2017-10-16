@@ -2,7 +2,7 @@ Devatā-saṃyutta 諸天相應, Devas (巴利三藏 相應部)
 ####################################################
 
 :date: 2004-07-31
-:modified: 2017-10-06
+:modified: 2017-10-16
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Devataa.htm
 :tags: 巴利三藏相應部, 諸天相應, Devatā-saṃyutta, Devatāsaṃyutta, Devas
 :category: 巴利三藏相應部
@@ -971,9 +971,12 @@ Chetvā-Vaggo 第八 斷品
 
 .. [4] 選錄多位翻譯者之譯文，請參 `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ → `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ : 1. (sŋ 1-11) `Sagāthā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_01_sagathavagga.htm>`__ (With Cantos, Poetry, Verses) [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
 
+       or `Saṃyutta Nikāya <http://metta.lk/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ ( `METTANET - LANKA <http://metta.lk/>`__ )
+
 .. [5] 部份經典選譯，請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ 
 
 ..
+  10.16 METTANET - LANKA (metta.lk) re-activation
   10.06 add: 諸天相應對讀 sn01-devata-samyutta-parallel-reading 
   08.19 add interior tag, e.g. .. _sn1_1:
   08.14 rev. note(ref.)

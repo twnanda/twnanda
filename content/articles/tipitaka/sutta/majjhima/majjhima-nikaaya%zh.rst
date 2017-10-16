@@ -2,7 +2,7 @@ Majjhima-nikāya 巴利大藏經 經藏 中部 (Further Dialogues of the Buddha;
 =============================================================================================================
 
 :date: 2003-07-13
-:modified: 2017-07-23
+:modified: 2017-10-16
 :tags: 中部尼柯耶, 中部, 尼柯耶, Majjhima nikāya, 巴利三藏中部
 :category: 巴利三藏中部
 :summary: Majjhima-nikāya 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
@@ -8679,11 +8679,14 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 
 .. [12] `Wisdom Publications <http://www.wisdompubs.org/>`__ → `AUTHORS <http://www.wisdompubs.org/authors>`__ → `Bhikkhu Bodhi <http://www.wisdompubs.org/author/bhikkhu-bodhi>`__ → `The Middle Length Discourses of the Buddha <http://www.wisdompubs.org/book/middle-length-discourses-buddha>`__ → `RELATED BLOG POSTS (view all) <http://www.wisdompubs.org/book/middle-length-discourses-buddha/related-blog-posts>`__ → `Page 2 <http://www.wisdompubs.org/book/middle-length-discourses-buddha/related-blog-posts?page=1>`__ → `The Teachings of the Buddha: Approaching the Dhamma and “With Cankī” <http://downloads.wisdompubs.org/blog/201310/teachings-buddha-approaching-dhamma-and-%E2%80%9C-cank%C4%AB%E2%80%9D>`__ ( → To continue reading the Cankī Sutta, click here.)
 
-.. [13] `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/>`__ (The Pali is based on the Sri Lanka Buddha Jayanti Tipitaka Series. Sinhala is the A.P. de Soyza's translations. English is by various authors often downloaded from the Internet.) → `Majjhima Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series); `Saṃyutta Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series) ( `Щастя є <http://awake.kiev.ua/>`__  →  `Колесо Дхаммы. <http://awake.kiev.ua/dhamma/>`__ -- Сайт учения Будды в его исходном виде ) 
+.. [13] `METTANET - LANKA <http://metta.lk/>`__ ( → `Tipitaka <http://metta.lk/tipitaka/>`__  → `Majjhima Nikāya <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ )
+
+        or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/>`__ (The Pali is based on the Sri Lanka Buddha Jayanti Tipitaka Series. Sinhala is the A.P. de Soyza's translations. English is by various authors often downloaded from the Internet.) → `Majjhima Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series); `Saṃyutta Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series) ( `Щастя є <http://awake.kiev.ua/>`__  →  `Колесо Дхаммы. <http://awake.kiev.ua/dhamma/>`__ -- Сайт учения Будды в его исходном виде ) 
 
 .. [14] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Majjhima Nikāya (MN) <https://suttacentral.net/mn>`__ 。
 
 ..
+  10.16 METTANET - LANKA (metta.lk) re-activation
   07.23 add: 《中部》與《中阿含經》經對照表 & 《中阿含經》與《中部》對照表、中阿含經 (國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」)、“藏經閣外的掃葉人”網誌-- 【 台語與佛典 】　中阿含讀書會 (「中阿含讀書會」)、 and so on
   05.09 add: mn 149 對讀(local)
   05.08 add: local file:中部經典一 (MN 1~ MN 50)題解；沙門 芝峯譯 
