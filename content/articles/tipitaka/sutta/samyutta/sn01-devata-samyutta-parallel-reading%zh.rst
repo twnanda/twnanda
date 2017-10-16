@@ -8781,7 +8781,7 @@ Chetvā-Vaggo 第八 斷品
 
 
 ..
-  10.16 make & upload (英譯 (Sister Upalavanna)
+  10.16 make & upload (英譯 Sister Upalavanna)
   10.13 make & upload (英譯 WP, Ven. Bhikkhu Bodhi)
   10.05 make & upload (元亨寺版)
   09.25 make & upload for test (漢譯((莊春江))
