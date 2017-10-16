@@ -3,7 +3,7 @@
 ===================================================
 
 :date: 2004-07-03 09:00
-:modified: 2017-08-15 18:00
+:modified: 2017-10-16
 :tags: 大念處經, 念住大經, DN 22 Mahāsatipaṭṭhānasuttaṃ, dn 22, Dn22, The Long Discourse about the Ways of Attending to Mindfulness, The Great Frames of Reference
 :category: 巴利三藏長部
 :summary: 大念處經 (念住大經, DN 22 Mahāsatipaṭṭhānasuttaṃ) The Great Frames of Reference; The Long Discourse about the Ways of Attending to Mindfulness
@@ -54,7 +54,7 @@
 
   -  `The Great Discourse on the Establishing of Awareness <http://www.tipitaka.org/stp-pali-eng-series>`__ \ (大念處經, 巴利文及英譯版,  `Vipassana Research Institute <http://www.vridhamma.org/Home.aspx>`__ \) 
 
-  -  `Mahasatipatthana Sutta, Translated by U Jotika & U Dhamminda <http://www.buddhanet.net/e-learning/mahasati.htm>`__ \, Migadavun Monastery, Ye Chan Oh Village, Maymyo, Burma, 1986 (from:  `Buddha Dharma Education Association & BuddhaNet <http://www.buddhanet.net/>`__ \)
+  - `Mahasatipatthana Sutta, Translated by U Jotika & U Dhamminda <http://www.buddhanet.net/e-learning/mahasati.htm>`__ \, Migadavun Monastery, Ye Chan Oh Village, Maymyo, Burma, 1986 (from:  `Buddha Dharma Education Association & BuddhaNet <http://www.buddhanet.net/>`__ \)
 
 - 日譯(和訳)：： `大念処経 <http://komyojikyozo.web.fc2.com/mnmlp/mn01/mn01c20.htm>`__ \（ `光明寺経蔵 <http://komyojikyozo.web.fc2.com/index.html>`__ \）
 
@@ -91,7 +91,7 @@
 
       -  Satipatthana Sutta: Frames of Reference (MN 10 PTS: M i 55) `Translated from the Pali by Ven. Thanissaro Bhikkhu <http://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html>`__ \ (坦尼沙羅尊者) (Access to Insight:Readings in Theravada Buddhism -- `Majjhima Nikaya <http://www.accesstoinsight.org/tipitaka/mn/index.html>`__ \ (The Middle-length Discourses)。
 
-      -  Majjhima Nikaaya I. 1. 10 Satipa.t.thaanasutta.m 10 Establishing Mindfulness `Translated by Sister Upalavanna <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/010-satipatthanai-sutta-e1.html>`__ (METTANET - LANKA之 `THE TIPITAKA <http://metta.lk/tipitaka/>`__ -- `Majjhima Nikaya <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ )。
+      -  Majjhima Nikaaya I. 1. 10 Satipa.t.thaanasutta.m 10 Establishing Mindfulness `Translated by Sister Upalavanna <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/010-satipatthanai-sutta-e1.html>`__ (METTANET - LANKA之 `THE TIPITAKA <http://metta.lk/tipitaka/>`__ -- `Majjhima Nikaya <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ ) or `Majjhima Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ (awake.kiev.ua) 。
 
   - 安那般那念
 
@@ -109,7 +109,7 @@
 
       -  Anapanasati Sutta: Mindfulness of Breathing (MN 118 PTS: M iii 78) `Translated from the Pali by Ven. Thanissaro Bhikkhu <http://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html>`__ \ (坦尼沙羅尊者) (Access to Insight:Readings in Theravada Buddhism -- `Majjhima Nikaya <http://www.accesstoinsight.org/tipitaka/mn/index.html>`__ \ (The Middle-length Discourses)。
 
-      -  Majjhima Nikaaya III, III. 2. 8. aanaapaanasutta.m (118) The Discourse On In and Out Breathing `Translated by Sister Upalavanna <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/118-anappanasati-e.html>`__ (METTANET - LANKA之 `THE TIPITAKA <http://metta.lk/tipitaka/>`__ -- `Majjhima Nikaya <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ )。
+      -  Majjhima Nikaaya III, III. 2. 8. aanaapaanasutta.m (118) The Discourse On In and Out Breathing `Translated by Sister Upalavanna <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/118-anappanasati-e.html>`__ (METTANET - LANKA之 `THE TIPITAKA <http://metta.lk/tipitaka/>`__ -- `Majjhima Nikaya <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ ) or `Majjhima Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ (awake.kiev.ua) 。
 
   -  `中部 10 念處經(臺灣 廖文燦漢譯) <{filename}/extra/tipitaka/sutta/majjhima/mn10-TW-Liau.htm>`__
 
@@ -182,6 +182,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  10.16 add:  awake.kiev.ua (the other METTANET)
   08.15 rev. old: PTS: mahāparinibbānasuttaṃ
   01.16 2017 replace /extra/tipitaka/sutta/digha/dn.22-pts.html with dn22-pts%zh.rst
   ------

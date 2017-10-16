@@ -2,7 +2,7 @@
 #####################################################################################
 
 :date: 2012-07-02
-:modified: 2016-05-13
+:modified: 2017-10-16
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/mn.047.contrast-reading.html
 :tags: 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
@@ -278,6 +278,8 @@
          `Majjhima Nikaya <http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`_ 之 
          `47 Vãmaüsaka Sutta <http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/047-vimamsaka-sutta-e1.html>`_ (English)。
 
+        or `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/tipitaka/>`__ (The Pali is based on the Sri Lanka Buddha Jayanti Tipitaka Series. Sinhala is the A.P. de Soyza's translations. English is by various authors often downloaded from the Internet.) → `Majjhima Nikāya <http://awake.kiev.ua/dhamma/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series); `Saṃyutta Nikāya <http://awake.kiev.ua/dhamma/tipitaka/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ (Pali-- Source from SLTP; English-- Main Translation by Bhikkhuni Uppalavanna; Sinhala-- Main Translation from the A. P Soyza series) ( `Щастя є <http://awake.kiev.ua/>`__  →  `Колесо Дхаммы. <http://awake.kiev.ua/dhamma/>`__ -- Сайт учения Будды в его исходном виде ) 
+
 .. [003] 　本譯文請參考：《觀察經》；蕭式球譯；《巴利文翻譯組學報》第六期(2009.1月, ISBN 978-962-7714A8-4)；編輯:志蓮淨苑文化部；出版:志蓮淨苑；地址香港九龍鑽石山志蓮道五號； `www.chilin.org <http://www.chilin.org/>`_ ；網路版請參考：
          `巴利文佛典選譯 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_ (香港
          `志蓮淨苑文化部--佛學園圃 <http://www.chilin.edu.hk/edu/report.asp>`_ --5. 
@@ -306,6 +308,8 @@
 .. [012] 　The search in the Teaching of the Thus Gone One and the propriety of reaching the summit (eva.m kho bhikkhave tathaagate dhammasamannesanaa hoti. Eva.m ca pana tathaagato dhammataasusamanni.t.tho honti) means that the understanding of the Teaching should come from within, and it becomes the fitness to see through. 
 
 ..
+  10.16 2017 add: `Mettanet Tipitaka Index <http://awake.kiev.ua/dhamma/tipitaka/tipitaka/>`__
+  05.13 2016 ???
   07.09 add: english
   07.02 巴利 & 漢譯 o.k.
 
