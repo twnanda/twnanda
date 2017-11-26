@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2017-10-16
+:modified: 2017-10-22
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應部尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -76,27 +76,27 @@ Saṃyuttanikāya
 Sagāthāvagga 有偈篇
 --------------------
 
-- 1.) `Devatā-saṃyutta 諸天相應 <{filename}devata%zh.rst>`__ (81 經, Devas); `諸天相應對讀 <{filename}sn01-devata-samyutta-parallel-reading%zh.rst>`__ 
+- 1.) `Devatā-saṃyutta 諸天相應 <{filename}sn01-devata-samyutta%zh.rst>`__ (81 經, Devas); `諸天相應對讀 <{filename}sn01-devata-samyutta-parallel-reading%zh.rst>`__ 
 
-- 2.) `Devaputta-saṃyutta 天子相應 <{filename}devaputta%zh.rst>`__ (30 經, Sons of the Devas)
+- 2.) `Devaputta-saṃyutta 天子相應 <{filename}sn02-devaputta-samyutta%zh.rst>`__ (30 經, Sons of the Devas)
 
-- 3.) `Kosala-saṃyuttaṃ 憍薩羅相應 <{filename}kosala%zh.rst>`__ (25 經, 拘薩羅相應, King Pasenadi of Kosala)
+- 3.) `Kosala-saṃyuttaṃ 憍薩羅相應 <{filename}sn03-kosala-samyutta%zh.rst>`__ (25 經, 拘薩羅相應, King Pasenadi of Kosala)
 
-- 4.) `Māra-saṃyuttaṃ 魔相應 <{filename}mara%zh.rst>`__ (建構中 under construction; 25 經, 惡魔相應, Mara)
+- 4.) `Māra-saṃyuttaṃ 魔相應 <{filename}sn04-mara-samyutta%zh.rst>`__ (建構中 under construction; 25 經, 惡魔相應, Mara)
 
-- 5.) `Bhikkhunī-saṃyuttaṃ 比丘尼相應 <{filename}bhikkhuni%zh.rst>`__ (建構中 under construction; 10 經, Nuns)
+- 5.) `Bhikkhunī-saṃyuttaṃ 比丘尼相應 <{filename}sn05-bhikkhuni-samyutta%zh.rst>`__ (建構中 under construction; 10 經, Nuns)
 
-- 6.) `Brahma-saṃyuttaṃ 梵天相應 <{filename}brahma%zh.rst>`__ (建構中 under construction; 15 經, Brahma deities)
+- 6.) `Brahma-saṃyuttaṃ 梵天相應 <{filename}sn06-brahma-samyutta%zh.rst>`__ (建構中 under construction; 15 經, Brahma deities)
 
-- 7.) `Brāhmaṇa-saṃyuttaṃ 婆羅門相應 <{filename}brahmana%zh.rst>`__ (建構中 under construction; 22 經, Brahmans)
+- 7.) `Brāhmaṇa-saṃyuttaṃ 婆羅門相應 <{filename}sn07-brahmana-samyutta%zh.rst>`__ (建構中 under construction; 22 經, Brahmans)
 
-- 8.) `Vaṅgīsa-saṃyuttaṃ 婆耆舍相應 <{filename}vangisa%zh.rst>`__ (建構中 under construction; 12 經, 婆耆沙長老相應, Ven. Vangisa)
+- 8.) `Vaṅgīsa-saṃyuttaṃ 婆耆舍相應 <{filename}sn08-vangisa-samyutta%zh.rst>`__ (建構中 under construction; 12 經, 婆耆沙長老相應, Ven. Vangisa)
 
-- 9.) `Vana-saṃyuttaṃ 林相應 <{filename}vana%zh.rst>`__ (建構中 under construction; 14 經, 森林相應, The forest)
+- 9.) `Vana-saṃyuttaṃ 林相應 <{filename}sn09-vana-samyutta%zh.rst>`__ (建構中 under construction; 14 經, 森林相應, The forest)
 
-- 10.) `Yakkha-saṃyuttaṃ 夜叉相應 <{filename}yakkha%zh.rst>`__ (建構中 under construction; 12 經, Yakkha demons)
+- 10.) `Yakkha-saṃyuttaṃ 夜叉相應 <{filename}sn10-yakkha-samyutta%zh.rst>`__ (建構中 under construction; 12 經, Yakkha demons)
 
-- 11.) `Sakka-saṃyuttaṃ 帝釋相應 <{filename}sakka%zh.rst>`__ (建構中 under construction; 25 經, Sakka (the Deva king))
+- 11.) `Sakka-saṃyuttaṃ 帝釋相應 <{filename}sn11-sakka-samyutta%zh.rst>`__ (建構中 under construction; 25 經, Sakka (the Deva king))
 
 ------
 
@@ -114,25 +114,25 @@ Sagāthāvagga 有偈篇
 Nidānavagga 因緣篇
 --------------------
 
-- 12.) `Nidāna-saṃyuttaṃ 因緣相應 <{filename}nidana%zh.rst>`__ (建構中 under construction; 93 經, Paticcasamuppada (dependent co-arising))
+- 12.) `Nidāna-saṃyuttaṃ 因緣相應 <{filename}sn12-nidana-samyutta%zh.rst>`__ (建構中 under construction; 93 經, Paticcasamuppada (dependent co-arising))
 
-- 13.) `Abhisamaya-saṃyuttaṃ 現觀相應 <{filename}abhisamaya%zh.rst>`__ (建構中 under construction; 11 經, Realization)
+- 13.) `Abhisamaya-saṃyuttaṃ 現觀相應 <{filename}sn13-abhisamaya-samyutta%zh.rst>`__ (建構中 under construction; 11 經, Realization)
 
-- 14.) `Dhātu-saṃyuttaṃ 界相應 <{filename}dhatu%zh.rst>`__ (建構中 under construction; 39 經, Elements)
+- 14.) `Dhātu-saṃyuttaṃ 界相應 <{filename}sn14-dhatu-samyutta%zh.rst>`__ (建構中 under construction; 39 經, Elements)
 
-- 15.) `Anamatagga-saṃyuttaṃ 無始相應 <{filename}anamatagga%zh.rst>`__ (建構中 under construction; 20 經, The unimaginable beginnings of samsara and transmigration)
+- 15.) `Anamatagga-saṃyuttaṃ 無始相應 <{filename}sn15-anamatagga-samyutta%zh.rst>`__ (建構中 under construction; 20 經, The unimaginable beginnings of samsara and transmigration)
 
-- 16.) `Kassapa-saṃyuttaṃ 迦葉相應 <{filename}kassapa%zh.rst>`__ (建構中 under construction; 13 經, 大迦葉尊者相應, Ven. Maha Kassapa)
+- 16.) `Kassapa-saṃyuttaṃ 迦葉相應 <{filename}sn16-kassapa-samyutta%zh.rst>`__ (建構中 under construction; 13 經, 大迦葉尊者相應, Ven. Maha Kassapa)
 
-- 17.) `Lābhasakkāra-saṃyuttaṃ 利得與供養相應 <{filename}labhasakkara%zh.rst>`__ (建構中 under construction; 43 經, 利得恭敬相應, Gains and tribute)
+- 17.) `Lābhasakkāra-saṃyuttaṃ 利得與供養相應 <{filename}sn17-labhasakkara-samyutta%zh.rst>`__ (建構中 under construction; 43 經, 利得恭敬相應, Gains and tribute)
 
-- 18.) `Rāhula-saṃyuttaṃ 羅睺羅相應 <{filename}rahula%zh.rst>`__ (建構中 under construction; 22 經, 羅睺羅尊者相應, Ven. Rahula)
+- 18.) `Rāhula-saṃyuttaṃ 羅睺羅相應 <{filename}sn18-rahula-samyutta%zh.rst>`__ (建構中 under construction; 22 經, 羅睺羅尊者相應, Ven. Rahula)
 
-- 19.) `Lakkhaṇa-saṃyuttaṃ 勒叉那相應 <{filename}lakkhana%zh.rst>`__ (建構中 under construction; 21 經, 勒叉那尊者相應, (觀,特,占)相相應, Ven. Lakkhana)
+- 19.) `Lakkhaṇa-saṃyuttaṃ 勒叉那相應 <{filename}sn19-lakkhana-samyutta%zh.rst>`__ (建構中 under construction; 21 經, 勒叉那尊者相應, (觀,特,占)相相應, Ven. Lakkhana)
 
-- 20.) `Opamma-saṃyuttaṃ 譬喻相應 <{filename}opamma%zh.rst>`__ (建構中 under construction; 12 經, Comparisons)
+- 20.) `Opamma-saṃyuttaṃ 譬喻相應 <{filename}sn20-opamma-samyutta%zh.rst>`__ (建構中 under construction; 12 經, Comparisons)
 
-- 21.) `Bhikkhu-saṃyuttaṃ 比丘相應 <{filename}bhikkhu%zh.rst>`__ (建構中 under construction; 12 經, Monks)
+- 21.) `Bhikkhu-saṃyuttaṃ 比丘相應 <{filename}sn21-bhikkhu-samyutta%zh.rst>`__ (建構中 under construction; 12 經, Monks)
 
 ------
 
@@ -150,31 +150,31 @@ Nidānavagga 因緣篇
 Khandhavagga 犍度篇
 --------------------
 
-- 22.) `Khandha-saṃyuttaṃ 蘊相應 <{filename}khandha%zh.rst>`__ (建構中 under construction; 159 經, The clinging-aggregates)
+- 22.) `Khandha-saṃyuttaṃ 蘊相應 <{filename}sn22-khandha-samyutta%zh.rst>`__ (建構中 under construction; 159 經, The clinging-aggregates)
 
-- 23.) `Rādha-saṃyuttaṃ 羅陀相應 <{filename}radha%zh.rst>`__ (建構中 under construction; 46 經, 羅陀尊者相應, Ven. Radha)
+- 23.) `Rādha-saṃyuttaṃ 羅陀相應 <{filename}sn23-radha-samyutta%zh.rst>`__ (建構中 under construction; 46 經, 羅陀尊者相應, Ven. Radha)
 
-- 24.) `Diṭṭhi-saṃyuttaṃ 見相應 <{filename}ditthi%zh.rst>`__ (建構中 under construction; 96 經, Views)
+- 24.) `Diṭṭhi-saṃyuttaṃ 見相應 <{filename}sn24-ditthi-samyutta%zh.rst>`__ (建構中 under construction; 96 經, Views)
 
-- 25.) `Okkanta-saṃyuttaṃ 入相應 <{filename}okkanta%zh.rst>`__ (建構中 under construction; 10 經, Recurring)
+- 25.) `Okkanta-saṃyuttaṃ 入相應 <{filename}sn25-okkanta-samyutta%zh.rst>`__ (建構中 under construction; 10 經, Recurring)
 
-- 26.) `Uppāda-saṃyuttaṃ 生相應 <{filename}uppada%zh.rst>`__ (建構中 under construction; 10 經, Arising)
+- 26.) `Uppāda-saṃyuttaṃ 生相應 <{filename}sn26-uppada-samyutta%zh.rst>`__ (建構中 under construction; 10 經, Arising)
 
-- 27.) `Kilesa-saṃyuttaṃ 雜染相應 <{filename}kilesa%zh.rst>`__ (建構中 under construction; 10 經, 煩惱相應, Defilements)
+- 27.) `Kilesa-saṃyuttaṃ 雜染相應 <{filename}sn27-kilesa-samyutta%zh.rst>`__ (建構中 under construction; 10 經, 煩惱相應, Defilements)
 
-- 28.) `Sāriputta-saṃyuttaṃ 舍利弗相應 <{filename}sariputta%zh.rst>`__ (建構中 under construction; 10 經, 舍利弗尊者相應, Ven. Sariputta)
+- 28.) `Sāriputta-saṃyuttaṃ 舍利弗相應 <{filename}sn28-sariputta-samyutta%zh.rst>`__ (建構中 under construction; 10 經, 舍利弗尊者相應, Ven. Sariputta)
 
-- 29.) `Nāga-saṃyuttaṃ 龍相應 <{filename}naga%zh.rst>`__ (建構中 under construction; 50 經, Nagas)
+- 29.) `Nāga-saṃyuttaṃ 龍相應 <{filename}sn29-naga-samyutta%zh.rst>`__ (建構中 under construction; 50 經, Nagas)
 
-- 30.) `Supaṇṇa-saṃyuttaṃ 金翅鳥相應 <{filename}supanna%zh.rst>`__ (建構中 under construction; 46 經, Garudas)
+- 30.) `Supaṇṇa-saṃyuttaṃ 金翅鳥相應 <{filename}sn30-supanna-samyutta%zh.rst>`__ (建構中 under construction; 46 經, Garudas)
 
-- 31.) `Gandhabbakāya-saṃyuttaṃ 乾達婆眾相應 <{filename}gandhabbakaya%zh.rst>`__ (建構中 under construction; 112 經, 乾達婆相應, Gandhabba devas)
+- 31.) `Gandhabbakāya-saṃyuttaṃ 乾達婆眾相應 <{filename}sn31-gandhabbakaya-samyutta%zh.rst>`__ (建構中 under construction; 112 經, 乾達婆相應, Gandhabba devas)
 
-- 32.) `Valāhaka-saṃyuttaṃ 雲相應 <{filename}valahaka%zh.rst>`__ (建構中 under construction; 57 經, Rain-cloud devas)
+- 32.) `Valāhaka-saṃyuttaṃ 雲相應 <{filename}sn32-valahaka-samyutta%zh.rst>`__ (建構中 under construction; 57 經, Rain-cloud devas)
 
-- 33.) `Vacchagotta-saṃyuttaṃ 婆蹉氏相應 <{filename}vacchagotta%zh.rst>`__ (建構中 under construction; 55 經, 婆磋種尊者相應, Ven. Vacchagotta)
+- 33.) `Vacchagotta-saṃyuttaṃ 婆蹉氏相應 <{filename}sn33-vacchagotta-samyutta%zh.rst>`__ (建構中 under construction; 55 經, 婆磋種尊者相應, Ven. Vacchagotta)
 
-- 34.) `Samādhi-saṃyuttaṃ 定相應 <{filename}samadhi%zh.rst>`__ (55 經; or Jhāna-saṃyuttaṃ 禪相應, 禪定相應, 靜慮相應, Concentration or Meditation)
+- 34.) `Samādhi-saṃyuttaṃ 定相應 <{filename}sn34-samadhi-samyutta%zh.rst>`__ (55 經; or Jhāna-saṃyuttaṃ 禪相應, 禪定相應, 靜慮相應, Concentration or Meditation)
 
 ------
 
@@ -192,25 +192,25 @@ Khandhavagga 犍度篇
 Saḷāyatanavagga 六處篇
 -----------------------
 
-- 35.) `Saḷāyatana-saṃyuttaṃ 六處相應 <{filename}salayatana%zh.rst>`__ (建構中 under construction; 248 經 or 207 經, The six senses)
+- 35.) `Saḷāyatana-saṃyuttaṃ 六處相應 <{filename}sn35-salayatana-samyutta%zh.rst>`__ (建構中 under construction; 248 經 or 207 經, The six senses)
 
-- 36.) `Vedanā-saṃyuttaṃ 受相應 <{filename}vedana%zh.rst>`__ (31 經 or 29經, Feeling)
+- 36.) `Vedanā-saṃyuttaṃ 受相應 <{filename}sn36-vedana-samyutta%zh.rst>`__ (31 經 or 29經, Feeling)
 
-- 37.) `Mātugāma-saṃyuttaṃ 婦女相應 <{filename}matugama%zh.rst>`__ (建構中 under construction; 34 經, 女人相應, Destinies of women)
+- 37.) `Mātugāma-saṃyuttaṃ 婦女相應 <{filename}sn37-matugama-samyutta%zh.rst>`__ (建構中 under construction; 34 經, 女人相應, Destinies of women)
 
-- 38.) `Jambukhādaka-saṃyuttaṃ 閻浮車相應 <{filename}jambukhadaka%zh.rst>`__ (16 經, 遊行者閻浮車相應, Jambhukhadaka the wanderer)
+- 38.) `Jambukhādaka-saṃyuttaṃ 閻浮車相應 <{filename}sn38-jambukhadaka-samyutta%zh.rst>`__ (16 經, 遊行者閻浮車相應, Jambhukhadaka the wanderer)
 
-- 39.) `Sāmaṇḍaka-saṃyuttaṃ 沙門出家相應 <{filename}samandaka%zh.rst>`__ (2 經, 沙門達迦相應, Samandaka the wanderer)
+- 39.) `Sāmaṇḍaka-saṃyuttaṃ 沙門出家相應 <{filename}sn39-samandaka-samyutta%zh.rst>`__ (2 經, 沙門達迦相應, Samandaka the wanderer)
 
-- 40.) `Moggallāna-saṃyuttaṃ 目犍連尊者相應 <{filename}moggallana%zh.rst>`__ (建構中 under construction; 11 經, 目犍連尊者相應, 目揵連相應, Ven. Moggallana)
+- 40.) `Moggallāna-saṃyuttaṃ 目犍連尊者相應 <{filename}sn40-moggallana-samyutta%zh.rst>`__ (建構中 under construction; 11 經, 目犍連尊者相應, 目揵連相應, Ven. Moggallana)
 
-- 41.) `Citta-saṃyuttaṃ 質多相應 <{filename}citta%zh.rst>`__ (建構中 under construction; 10 經, 質多長者相應, Citta the householder)
+- 41.) `Citta-saṃyuttaṃ 質多相應 <{filename}sn41-citta-samyutta%zh.rst>`__ (建構中 under construction; 10 經, 質多長者相應, Citta the householder)
 
-- 42.) `Gāmaṇi-saṃyuttaṃ 聚落主相應 <{filename}gamani%zh.rst>`__ (建構中 under construction; 13 經, Village headmen)
+- 42.) `Gāmaṇi-saṃyuttaṃ 聚落主相應 <{filename}sn42-gamani-samyutta%zh.rst>`__ (建構中 under construction; 13 經, Village headmen)
 
-- 43.) `Asaṅkhata-saṃyuttaṃ 無為相應 <{filename}asankhata%zh.rst>`__ (建構中 under construction; 44 經, The unfashioned (Nibbana))
+- 43.) `Asaṅkhata-saṃyuttaṃ 無為相應 <{filename}sn43-asankhata-samyutta%zh.rst>`__ (建構中 under construction; 44 經, The unfashioned (Nibbana))
 
-- 44.) `Abyākata-saṃyuttaṃ 無記相應 <{filename}abyakata%zh.rst>`__ (建構中 under construction; 11 經, 無記說相應, Not designated)
+- 44.) `Abyākata-saṃyuttaṃ 無記相應 <{filename}sn44-abyakata-samyutta%zh.rst>`__ (建構中 under construction; 11 經, 無記說相應, Not designated)
 
 ------
 
@@ -228,29 +228,29 @@ Saḷāyatanavagga 六處篇
 Mahāvagga 大篇
 ---------------
 
-- 45.) `Magga-saṃyuttaṃ 道相應 <{filename}magga%zh.rst>`__ (181 經 or 180經, 八正道相應, 八聖道相應, The Noble Eightfold Path)
+- 45.) `Magga-saṃyuttaṃ 道相應 <{filename}sn45-magga-samyutta%zh.rst>`__ (181 經 or 180經, 八正道相應, 八聖道相應, The Noble Eightfold Path)
 
-- 46.) `Bojjhaṅga-saṃyuttaṃ 覺支相應 <{filename}bojjhanga%zh.rst>`__ (建構中 under construction; 184 經 or 175經, 七覺支相應, The Seven Factors for Awakening)
+- 46.) `Bojjhaṅga-saṃyuttaṃ 覺支相應 <{filename}sn46-bojjhanga-samyutta%zh.rst>`__ (建構中 under construction; 184 經 or 175經, 七覺支相應, The Seven Factors for Awakening)
 
-- 47.) `Satipaṭṭhāna-saṃyuttaṃ 念住相應 <{filename}satipatthana%zh.rst>`__ (建構中 under construction; 104 經, 念處相應, 四念住相應, The Four Frames of Reference (Foundations of Mindfulness))
+- 47.) `Satipaṭṭhāna-saṃyuttaṃ 念住相應 <{filename}sn47-satipatthana-samyutta%zh.rst>`__ (建構中 under construction; 104 經, 念處相應, 四念住相應, The Four Frames of Reference (Foundations of Mindfulness))
 
-- 48.) `Indriya-saṃyuttaṃ 根相應 <{filename}indriya%zh.rst>`__ (建構中 under construction; 178 經, 五根相應, The Five Mental Faculties)
+- 48.) `Indriya-saṃyuttaṃ 根相應 <{filename}sn48-indriya-samyutta%zh.rst>`__ (建構中 under construction; 178 經, 五根相應, The Five Mental Faculties)
 
-- 49.) `Sammappadhāna-saṃyuttaṃ 正勤相應 <{filename}sammappadhana%zh.rst>`__ (建構中 under construction; 54 經, 四正勤相應, The Four Right Exertions)
+- 49.) `Sammappadhāna-saṃyuttaṃ 正勤相應 <{filename}sn49-sammappadhana-samyutta%zh.rst>`__ (建構中 under construction; 54 經, 四正勤相應, The Four Right Exertions)
 
-- 50.) `Bala-saṃyuttaṃ 力相應 <{filename}bala%zh.rst>`__ (建構中 under construction; 108 經, 五力相應, The Five Strengths)
+- 50.) `Bala-saṃyuttaṃ 力相應 <{filename}sn50-bala-samyutta%zh.rst>`__ (建構中 under construction; 108 經, 五力相應, The Five Strengths)
 
-- 51.) `Iddhipāda-saṃyuttaṃ 神足相應 <{filename}iddhipada%zh.rst>`__ (建構中 under construction; 86 經, 四神足相應, The Four Bases of Power)
+- 51.) `Iddhipāda-saṃyuttaṃ 神足相應 <{filename}sn51-iddhipada-samyutta%zh.rst>`__ (建構中 under construction; 86 經, 四神足相應, The Four Bases of Power)
 
-- 52.) `Anuruddha-saṃyuttaṃ 阿那律相應 <{filename}anuruddha%zh.rst>`__ (建構中 under construction; 24 經, 阿那律尊者相應, Ven. Anuruddha)
+- 52.) `Anuruddha-saṃyuttaṃ 阿那律相應 <{filename}sn52-anuruddha-samyutta%zh.rst>`__ (建構中 under construction; 24 經, 阿那律尊者相應, Ven. Anuruddha)
 
-- 53.) `Jhāna-saṃyuttaṃ 禪相應 <{filename}jhana%zh.rst>`__ (54 經, 禪定相應, 靜慮相應, 四靜慮相應, the Jhanas, Jhana (mental absorption))
+- 53.) `Jhāna-saṃyuttaṃ 禪相應 <{filename}sn53-jhana-samyutta%zh.rst>`__ (54 經, 禪定相應, 靜慮相應, 四靜慮相應, the Jhanas, Jhana (mental absorption))
 
-- 54.) `Ānāpāna-saṃyuttaṃ 入出息相應 <{filename}anapana%zh.rst>`__ (20 經, 入出息念相應; Mindfulness of breathing)
+- 54.) `Ānāpāna-saṃyuttaṃ 入出息相應 <{filename}sn54-anapana-samyutta%zh.rst>`__ (20 經, 入出息念相應; Mindfulness of breathing)
 
-- 55.) `Sotāpatti-saṃyuttaṃ 入流相應 <{filename}sotapatti%zh.rst>`__ (建構中 under construction; 74 經, 預流相應, 四預流支相應, Stream-entry)
+- 55.) `Sotāpatti-saṃyuttaṃ 入流相應 <{filename}sn55-sotapatti-samyutta%zh.rst>`__ (建構中 under construction; 74 經, 預流相應, 四預流支相應, Stream-entry)
 
-- 56.) `Sacca-saṃyuttaṃ 諦相應 <{filename}sacca%zh.rst>`__ (131 經, 四聖諦相應, The Four Noble Truths)
+- 56.) `Sacca-saṃyuttaṃ 諦相應 <{filename}sn56-sacca-samyutta%zh.rst>`__ (131 經, 四聖諦相應, The Four Noble Truths)
 
 ------
 
@@ -340,6 +340,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  10.22 ren devata%zh.rst with sn01-devata-samyutta%zh.rst, devaputta%zh.rst with sn02-devaputta-samyutta%zh.rst, ..., ..., sacca%zh.rst with sn56-sacca-samyutta%zh.rst
   10.16 METTANET - LANKA (metta.lk) re-activation
   10.06 add: 諸天相應對讀 sn01-devata-samyutta-parallel-reading 
   08.19 add: Jambukhādaka-saṃyuttaṃ 閻浮車相應、Sāmaṇḍaka-saṃyuttaṃ 沙門出家相應
@@ -362,3 +363,9 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
   2017.07.13 大改版
   -- Rev: 02.12 2005
   08.21; 07.31.2004 --
+
+  法義 12, 13 14, 15 17, 22, 24, 25 26 27 34 35 36 43, 44 45 46 47 48 49 50, 51 53 54, 55, 56
+  特定的人 16, 18 19, 23, 28, 33, 38, 39, 40, 41, 52
+  某類眾生 29, 30, 31 32
+  某類人21 37, 42
+  其他20

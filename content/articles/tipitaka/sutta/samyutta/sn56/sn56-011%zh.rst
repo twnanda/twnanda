@@ -3,7 +3,7 @@
 =======================================================================================
 
 :date: 2016-05-13 16:00
-:modified: 2017-08-11
+:modified: 2017-10-22
 :tags: 初轉法輪經, 法輪轉起經, 轉法輪經, 初轉法輪經, 如來所說之一, SN 56.11 Dhammacakkappavattanasuttaṃ
 :category: 巴利三藏相應部
 :summary: 初轉法輪經 (法輪轉起經, 轉法輪經, 如來所說之一), SN 56.11 Dhammacakkappavattanasuttaṃ, Dhammacakkappavattana Sutta;
@@ -127,7 +127,7 @@
 
 --------------
 
-- `Sacca-saṃyuttaṃ 諦相應 (四聖諦相應) <{filename}../sacca%zh.rst>`__
+- `Sacca-saṃyuttaṃ 諦相應 (四聖諦相應) <{filename}../sn56-sacca-samyutta%zh.rst>`__
 
 - `Saṃyuttanikāya 相應部 (Sa"myutta-nikaaya) <{filename}/articles/tipitaka/sutta/samyutta/samyutta-nikaaya%zh.rst>`__ 
 
@@ -179,6 +179,7 @@
 .. [20] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Saṃyutta Nikāya (SN) <https://suttacentral.net/sn>`__  →  SN 56  `Sacca Saṃyutta <https://suttacentral.net/sn56>`__   →  `SN 56.11 <https://suttacentral.net/pi/sn56.11>`__  →  `Details for SN 56.11 Dhamma-cakka­ppavattana <https://suttacentral.net/sn56.11>`__ 。
 
 ..
+  10.22 rename sacca%zh.rst with sn56-sacca-samyutta%zh.rst
   08.11 add:  增壹阿含19.2, 中阿含204羅摩經(部份參照); 08.10 add:  如來所說之一 on title, linking of 諦相應 (四聖諦相應); rev. correct linking of Palikanon.com ; del: Namo tassa bhagavato arahato sammāsambuddhassa 禮敬世尊、阿羅漢、正等正覺者
 
   2017 04.30 add: Sri Lanka Buddha Jayanti Tripitaka Series (Obo's Web) & SuttaCentral
