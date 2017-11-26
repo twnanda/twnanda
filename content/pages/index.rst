@@ -1,4 +1,4 @@
-:modified: 2017-07-05
+:modified: 2017-11-26
 :slug: index
 :lang: zh
 :status: hidden
@@ -55,6 +55,8 @@
 
   * (南傳巴利語) `大念處經 <{filename}/articles/tipitaka/sutta/diigha/dn22/dn22%zh.rst>`__
 
+  * `偈頌選讀 <{filename}/articles/gatha-selected/gatha-selected%zh.rst>`_
+
   * `《清淨道論》 <{filename}/articles/anya/visuddhimagga/visuddhimagga%zh.rst>`_ 等等。
 
 - `佛教團體資源 <{filename}/articles/uncategorized/buddhist-org%zh.rst>`_
@@ -89,6 +91,7 @@
     ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_]) 等等。
 
 ..
+  11.26 add: 偈頌選讀
   07.05 del: 烏‧悉臘禪師（Sayadaw U Sila）禪修通告(元亨禪修營) & 慈濟瓦禪師 (Bhante Sujiva) 佛法講座通告
   03.16 add some links on 電子佛典資源; & old: modified: 2017-03-11T22:00+08:00
   03.11 add: 電子佛典資源 canon-resource%zh.rst
