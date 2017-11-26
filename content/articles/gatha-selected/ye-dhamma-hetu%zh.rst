@@ -242,7 +242,7 @@ Ye Dhammā Hetu 緣起法頌, 緣起偈, Ye Dharma Hetu (the Dependent Originati
 
 緣 起 偈 ( Mahāvagga I, 23,& 10 )
 
-Ye　　Dhammā　Hetuppabhavā,　　　Tesaṁ　Tathāgato　Āha　　　**諸法因緣生，如來說其因，**
+Ye　　Dhammā　Hetuppabhavā,　　　Tesaṁ　Tathāgato　Āha　　　**諸法從因生，如來說其因，**
 
 彼等　諸法　　　因　發生(根源)　　　　彼　　　如來　　　所言
 
@@ -1358,8 +1358,10 @@ And when he asked him about it, Upatissa replied: "Yes, friend, the Deathless St
 
 （以上取材自： `Ancient Buddhist Texts <https://www.ancient-buddhist-texts.net/>`__ , edited and translated by Ven. Ānandajoti Bhikkhu） [23]_
 
-
 ------
+
+`偈頌選讀 <{filename}gatha-selected%zh.rst>`__
+=================================================
 
 備註：
 +++++++
@@ -1452,7 +1454,7 @@ And when he asked him about it, Upatissa replied: "Yes, friend, the Deathless St
                | 以及他寬厚謙遜的本性、修行上的成就，還有引導同儕比丘們走向解脫與保存佛法的努力。
                | 向智尊者以優美樸實的筆調，敘述一個人解脫自在－－從此岸到彼岸的感人故事。
  
-.. [11] `【關於緣起思想形成與發展的銓釋學考察】 <http://www.chibs.edu.tw/ch_html/chbj/04/chbj0405.htm>`__ （ `中華佛學學報 <http://chinesebuddhiststudies.org/>`__ 第4期(Volume 4 (Jul 1991) Table of Contents) → (p169-199) 7 `關於緣起思想形成與發展的詮釋學考察 <http://chinesebuddhiststudies.org/previous_issues/chbj0405.pdf>`__ (PDF) 傅偉勳．天普大學教授． ： (民國80年)，臺北： `中華佛學研究所 <http://www.chibs.edu.tw/ch_html/index_ch00.html>`__ 〕
+.. [11] `【關於緣起思想形成與發展的銓釋學考察】 <http://www.chibs.edu.tw/ch_html/chbj/04/chbj0405.htm>`__ （ `中華佛學學報 <http://chinesebuddhiststudies.org/>`__ 第4期(Volume 4, Jul 1991; p169-199) ( ← `過期期刊目錄 <http://chinesebuddhiststudies.org/previous_issues.html>`__ ) → : 7 `關於緣起思想形成與發展的詮釋學考察 <http://chinesebuddhiststudies.org/previous_issues/chbj0405.pdf>`__ (PDF) 傅偉勳．天普大學教授． ： (民國80年)，臺北： `中華佛學研究所 <http://www.chibs.edu.tw/ch_html/index_ch00.html>`__ 〕
 
 .. [12] 《南傳大藏經》（元亨寺）．律藏．大品（Mahā-Vagga）．第一　大犍度〔`CBETA 電子佛典集成 <http://tripitaka.cbeta.org/>`__ » `南傳 (N) <http://tripitaka.cbeta.org/N>`__  » `第 3 冊 <http://tripitaka.cbeta.org/N03>`__ » `No.0002 <http://tripitaka.cbeta.org/N03n0002>`__ » `第 1 卷 <http://tripitaka.cbeta.org/N03n0002_001>`__ → `二三 <http://tripitaka.cbeta.org/N03n0002_001#0055a05>`__ （舍利弗、目犍連出家(因緣)〕
 
@@ -1474,7 +1476,7 @@ And when he asked him about it, Upatissa replied: "Yes, friend, the Deathless St
 
 .. [21] Part I: From Birth to the Attainment of Arahatship ( `The Life of Sariputta <https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel090.html>`__ , compiled and translated from the Pali texts by Nyanaponika Thera, © 1994 ( `AccessToInsight <https://www.accesstoinsight.org/>`__ )
 
-.. [22] "Ye dhamma hetuppabhava tesam hetum tathagato aha, tesañca yo nirodho evamvadi mahasamano 'ti." This gatha was later to become one of the best-known and most widely-disseminated stanzas of Buddhism, standing for all time as a reminder of Sariputta's first contact with the Dhamma and also as a worthy memorial to Assaji, his great arahant teacher. Spoken at a time when the principle of causality was not accorded the prominence it enjoys today in philosophical thought, its impact on the minds of the early Buddhists must have been revolutionary.
+.. [22] **"Ye dhamma hetuppabhava tesam hetum tathagato aha, tesañca yo nirodho evamvadi mahasamano 'ti."** This gatha was later to become one of the best-known and most widely-disseminated stanzas of Buddhism, standing for all time as a reminder of Sariputta's first contact with the Dhamma and also as a worthy memorial to Assaji, his great arahant teacher. Spoken at a time when the principle of causality was not accorded the prominence it enjoys today in philosophical thought, its impact on the minds of the early Buddhists must have been revolutionary.
 
 .. [23] edited and translated by Ven. Ānandajoti Bhikkhu: `Ancient Buddhist Texts <https://www.ancient-buddhist-texts.net/index.htm>`_ → `Texts and Translations <https://www.ancient-buddhist-texts.net/Texts-and-Translations/TT-index.htm>`__ → Biographical Works-- Early Sources for the Life of the Buddha: `Mahākhandhako <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahakhandhako/index.htm>`__ , [IV. In Rājagaha] `Sāriputta-Moggallānapabbajjākathā (41. The Story of the Going-Forth of Sāriputta and Moggallāna <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahakhandhako/41-Sariputta-Moggallana.htm>`__ ), Ver 1.2 May, 2014
 
@@ -1494,7 +1496,7 @@ And when he asked him about it, Upatissa replied: "Yes, friend, the Deathless St
 
 
 .. 
-  11.26 finish editing & upload
+  11.26 finish editing & upload add: linking of 偈頌選讀
   11.20 已更正(來 email )〔網路原稿為「三支」，為「三枝」（三枝充惪）之誤植。 (校對過紙本，HTML editor: Nanda 謹誌 11.20 19:00 from lib.ncku)〕
 
   《南傳律·犍度·大品·第一.大犍度·22.〔摩竭國洗尼瓶沙王歸佛〕》
