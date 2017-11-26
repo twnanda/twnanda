@@ -492,25 +492,21 @@ The Life of Sariputta向智尊者(Nyanaponika Thera)著；香光書鄉編譯組�
 
 　　他接著又說：
 
-| 　　　　**您能說多少就算多少，**
-| 　　　　**請只要告訴我它的意義。**
-| 　　　　**知道它的意義，是我唯一的希望，**
-| 　　　　**說得太多，對我而言也是枉然。**
+| 　　　　 **您能說多少就算多少，**
+| 　　　　 **請只要告訴我它的意義。**
+| 　　　　 **知道它的意義，是我唯一的希望，**
+| 　　　　 **說得太多，對我而言也是枉然。**
 | 
 
 　　阿說示以偈頌回答：
 
-從因而生的一切事物，
-=====================
+　　　　　 **從因而生的一切事物，**
 
-如來已說其因；
-==============
+　　　　　 **如來已說其因；**
 
-一切事物如何消散，他也說了，
-=============================
+　　　　　 **一切事物如何消散，他也說了，**
 
-這就是大沙門的教法。 [9]_
-=============================
+　　　　　 **這就是大沙門的教法。** [9]_
 
 　　在聽到前兩句時，優婆提舍即證了入流道，在他聽完後兩句之後，他就證入了初果。當他證入初果，而還沒達到更高果位之前，他心想：「這兒是可以找到解脫法的」，因而問尊者：
 
@@ -638,13 +634,13 @@ Pp. 176
 
 （五）[0055a05] 時，具壽阿說示為梵志舍利弗說此法門：
 
-**　　　諸法因緣生**
+　　　 **諸法因緣生**
 
-**　　　如來說其因**
+　　　 **如來說其因**
 
-**　　　諸法滅亦然**
+　　　 **諸法滅亦然**
 
-**　　　是大沙門說**
+　　　 **是大沙門說**
 
 [0055a10] 時，梵志舍利弗聞此法門，得遠塵離垢法眼，〔謂：〕「凡有集法者，皆有此滅法。」〔彼又言曰〕：「若唯有此，亦足為正法。汝等已悟無憂處，其為我等經多那由多劫中所不曾見者。」
 
@@ -772,20 +768,21 @@ Pp. 176
 
 [0876a27] 爾時，長老阿濕波踰祇多即說偈言：
 
-「如芥對須彌，　　牛跡比大海，
-　蚊虻並金翅，　　我與彼亦然。
-　假使聲聞度彼岸，　　成就諸地猶弟子，
-　於彼佛邊不入數，　　與佛世尊威德別。
+| 　「如芥對須彌，　　牛跡比大海，
+| 　　蚊虻並金翅，　　我與彼亦然。
+| 　　假使聲聞度彼岸，　　成就諸地猶弟子，
+| 　　於彼佛邊不入數，　　與佛世尊威德別。
+| 
 
 [0876b03] 「然彼我師，於三世法，皆悉明了，得無礙智。仁者！我師於一切法，事皆成就。」爾時，優波低沙波離婆闍迦，白大德阿濕波踰祇多言：「仁者！汝師說何等法？論何等事？」即說偈言：
 
-「我見斯威儀，　　身心甚寂定，
-　是故我疑網，　　願為說是事。
-　汝今莫疲倦，　　我心懷疑網，
-　汝師說何法？　　願為解說之。」
-　見是婆羅門，　　恭敬起是問，
-　報言：「我師者，　　甘蔗種大姓，
-　一切智無勝，　　是我無上師。」
+| 　　「我見斯威儀，　　身心甚寂定，
+| 　　　是故我疑網，　　願為說是事。
+| 　　　汝今莫疲倦，　　我心懷疑網，
+| 　　　汝師說何法？　　願為解說之。」
+| 　　　見是婆羅門，　　恭敬起是問，
+| 　　　報言：「我師者，　　甘蔗種大姓，
+| 　　　一切智無勝，　　是我無上師。」
 
 [0876b14] 爾時，大德阿濕波踰祇多告憂波低沙言：「仁者！我生年幼，學法初淺，少知少聞，豈能廣說？今當為汝略言之耳。」爾時，憂波低沙白阿濕波踰祇多言：「善哉大德！要略說之，如我今者不好多語。」而說偈言：
 
@@ -976,16 +973,21 @@ Questioned thus, the Elder Assaji thought to himself: "These wandering ascetics 
 
 The wanderer replied: "I am called Upatissa, friend. Please tell me according to your ability, be it much or little. It will be my task to penetrate its meaning by way of a hundred or a thousand methods." And he added:
 
-"Be it little or much that you can tell,
-the meaning only, please proclaim to me!
-To know the meaning is my sole desire;
-Of no avail to me are many words."
-In response, the Elder Assaji uttered this stanza:
+| "Be it little or much that you can tell,
+| the meaning only, please proclaim to me!
+| To know the meaning is my sole desire;
+| Of no avail to me are many words."
+| In response, the Elder Assaji uttered this stanza:
+| 
 
-"Of all those things that from a cause arise,
-Tathagata the cause thereof has told;
-And how they cease to be, that too he tells,
-This is the doctrine of the Great Recluse." [22]_
+**"Of all those things that from a cause arise,**
+
+**Tathagata the cause thereof has told;**
+
+**And how they cease to be, that too he tells,**
+
+**This is the doctrine of the Great Recluse."** [22]_
+
 Upon hearing the first two lines, Upatissa became established in the Path of stream-entry, and to the ending of the last two lines he already listened as a stream-winner.
 
 When he become a stream-winner, and before he had achieved the higher attainments, he thought: "Here will the means of deliverance be found!" and he said to the Elder: "Do not enlarge upon this exposition of the Dhamma, venerable sir. This will suffice. But where does our Master live?"
@@ -1162,13 +1164,16 @@ And when he asked him about it, Upatissa replied: "Yes, friend, the Deathless St
 |   imaṁ Dhammapariyāyaṁ abhāsi:
 |   to the wanderer Sāriputta:
 |   
-|   “Ye dhammā hetuppabhavā tesaṁ hetuṁ Tathāgato āha, 
-|   “Whatever things [29]_ have a cause and source, their cause the Realised One has told,
-|   
-|   Tesañ-ca yo nirodho - evaṁvādī Mahāsamaṇo.” ti
-|   And also that which is their cessation [30]_ - such is the Great Ascetic's doctrine.”
-|   
-|   Atha kho Sāriputtassa paribbājakassa, imaṁ Dhammapariyāyaṁ sutvā,
+
+**“Ye dhammā hetuppabhavā tesaṁ hetuṁ Tathāgato āha,**
+
+**“Whatever things** [29]_ **have a cause and source, their cause the Realised One has told,**
+  
+**Tesañ-ca yo nirodho - evaṁvādī Mahāsamaṇo.” ti**
+
+**And also that which is their cessation** [30]_ **- such is the Great Ascetic's doctrine.”**
+ 
+|   Atha kho Sāriputtassa paribbājakassa, imaṁ Dhammapariyāyaṁ sutvā,**
 |   Then to the wanderer Sāriputta, after hearing this Dhamma instruction,
 |   
 |   virajaṁ vītamalaṁ Dhammacakkhuṁ udapādi:
@@ -1370,11 +1375,16 @@ And when he asked him about it, Upatissa replied: "Yes, friend, the Deathless St
 
 .. [4] 此偈見於《律藏˙大犍度》「舍利弗和目犍連出家」PTS.Ⅲ.p.40。
 
-.. [5] 目犍連在出家一星期後證悟阿羅漢果﹔舍利弗在出家半個月後證悟阿羅漢果。舍利弗修行觀禪的方式是各別法觀禪(anupadadhamma vipassanā)，意即在觀照究竟名色法時，逐一地觀照每個法為無常、苦、無我。一一觀照時，他可以清楚地見到名法的生時(uppāda)、住時(ṭhiti)、滅時(bhaṅga)。為什麼他可以這樣清楚地觀照名法呢？註解書裡這樣解說：「因為他在觀照名法時也觀照依處和所緣（目標）。」
+.. [5] | 目犍連在出家一星期後證悟阿羅漢果﹔舍利弗在出家半個月後證悟阿羅漢果。
+       | 舍利弗修行觀禪的方式是各別法觀禪(anupadadhamma vipassanā)，意即在觀照究竟名色法時，逐一地觀照每個法為無常、苦、無我。
+       | 一一觀照時，他可以清楚地見到名法的生時(uppāda)、住時(ṭhiti)、滅時(bhaṅga)。
+       | 為什麼他可以這樣清楚地觀照名法呢？註解書裡這樣解說：「因為他在觀照名法時也觀照依處和所緣（目標）。」
 
-.. [6] 《法句經》392偈〔禮敬那些應被禮敬的人〕：
-
-       其中，比丘們對於舍利弗這樣做而議論紛紛，認為尊者在禮拜四方，是一種錯誤方式，並且向佛陀稟告此事。佛陀問清楚尊者有關他朝拜的意義之後，對比丘僧團開示：「比丘們！舍利弗並非禮拜四方，事實上，他從阿說示口中獲得正法，從他證果那天開始，他便向自己的導師禮敬。作為比丘應該向傳授他正法的導師禮敬，有如婆羅門向聖火敬禮一樣。」
+.. [6] | 《法句經》392偈〔禮敬那些應被禮敬的人〕：
+       | 其中，比丘們對於舍利弗這樣做而議論紛紛，認為尊者在禮拜四方，是一種錯誤方式，並且向佛陀稟告此事。
+       | 佛陀問清楚尊者有關他朝拜的意義之後，對比丘僧團開示：
+       | 「比丘們！舍利弗並非禮拜四方，事實上，他從阿說示口中獲得正法，從他證果那天開始，他便向自己的導師禮敬。
+       | 作為比丘應該向傳授他正法的導師禮敬，有如婆羅門向聖火敬禮一樣。」
 
 .. [7] 請參考： `巴利學習系列　Ⅱ. ─《尼柯耶》選讀 <http://www.dhammarain.org.tw/books/book1.html#性恩法師>`__ (或 `鏡像站 <http://dhammarain.online-dhamma.net/books/book1.html#性恩法師>`__ )
 
@@ -1387,13 +1397,19 @@ And when he asked him about it, Upatissa replied: "Yes, friend, the Deathless St
 
        整理者法名：釋性恩(Dhammajīvī)  出版者：法雨道場  **非賣品**
 
-.. [8] 根據《純陀經》（出自《相應部．念處相應》Satipatthana Samyutta）及其註釋的記載，舍利弗的出生地是在那羅卡（Nalaka）或那羅迦摩（Nalagama），後者可能是它的別名，此處可能非常接近有名的那爛陀（Nalanda）。舍利弗的父親是位名叫瓦干達（Vaganta）的婆羅門。（可比對《法句經》v. 75）
+.. [8] | 根據《純陀經》（出自《相應部．念處相應》Satipatthana Samyutta）及其註釋的記載，
+       | 舍利弗的出生地是在那羅卡（Nalaka）或那羅迦摩（Nalagama），
+       | 後者可能是它的別名，此處可能非常接近有名的那爛陀（Nalanda）。
+       | 舍利弗的父親是位名叫瓦干達（Vaganta）的婆羅門。（可比對《法句經》v. 75）
 
 .. [9] Ye dhamma hetuppabhava tesam hetum tathagato aha,
 
        tesaJca yo nirodho evamvadi mahasamano 'ti.
 　
-       這首偈頌後來成為非常著名且廣被流傳的佛教詩偈之一。長久以來，它一直告訴著人們舍利弗初次接觸佛法的故事，也是對他偉大的阿羅漢老師阿說示尊者，很有價值的紀念。在因果法則尚不如今日在哲學思想界般顯著的時代說出這詩偈，它對早期佛教徒的心靈，一定造成了革命性的衝擊。（編著按：本偈頌在《大正》三，第八七六頁中譯為：「諸法從因生，諸法從因滅，如是滅與生，沙門說如是。」）
+       | 這首偈頌後來成為非常著名且廣被流傳的佛教詩偈之一。
+       | 長久以來，它一直告訴著人們舍利弗初次接觸佛法的故事，也是對他偉大的阿羅漢老師阿說示尊者，很有價值的紀念。
+       | 在因果法則尚不如今日在哲學思想界般顯著的時代說出這詩偈，它對早期佛教徒的心靈，一定造成了革命性的衝擊。
+       | （編著按：本偈頌在《大正》三，第八七六頁中譯為：「諸法從因生，諸法從因滅，如是滅與生，沙門說如是。」）
 
 .. [10] 請參考： 以下本書書訊取自 `香光資訊網/香光書鄉/法向叢書/舍利弗的一生 <http://www.gaya.org.tw/publisher/fasan/ls/abstract.htm>`__
 
@@ -1420,7 +1436,10 @@ And when he asked him about it, Upatissa replied: "Yes, friend, the Deathless St
            * - ISBN  
              - 957-8397-07-0
            * - 摘要
-             - 向智尊者以巴利三藏的資料為基礎，描繪出佛陀的大弟子－－舍利弗一生的事蹟。從出生、覺醒、出家、證悟乃至入滅等的人生階段，娓娓地道出舍利弗與摩訶目犍連的友誼，以及他寬厚謙遜的本性、修行上的成就，還有引導同儕比丘們走向解脫與保存佛法的努力。向智尊者以優美樸實的筆調，敘述一個人解脫自在－－從此岸到彼岸的感人故事。
+             - | 向智尊者以巴利三藏的資料為基礎，描繪出佛陀的大弟子－－舍利弗一生的事蹟。
+               | 從出生、覺醒、出家、證悟乃至入滅等的人生階段，娓娓地道出舍利弗與摩訶目犍連的友誼，
+               | 以及他寬厚謙遜的本性、修行上的成就，還有引導同儕比丘們走向解脫與保存佛法的努力。
+               | 向智尊者以優美樸實的筆調，敘述一個人解脫自在－－從此岸到彼岸的感人故事。
  
 .. [11] `【關於緣起思想形成與發展的銓釋學考察】 <http://www.chibs.edu.tw/ch_html/chbj/04/chbj0405.htm>`__ （ `中華佛學學報 <http://chinesebuddhiststudies.org/>`__ 第4期(Volume 4 (Jul 1991) Table of Contents) → (p169-199) 7 `關於緣起思想形成與發展的詮釋學考察 <http://chinesebuddhiststudies.org/previous_issues/chbj0405.pdf>`__ (PDF) 傅偉勳．天普大學教授． ： (民國80年)，臺北： `中華佛學研究所 <http://www.chibs.edu.tw/ch_html/index_ch00.html>`__ 〕
 
