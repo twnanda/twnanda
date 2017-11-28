@@ -957,7 +957,7 @@ PTS: Earnestness, V.33; WP: Diligence, II.1550
 
   * `The Roof Peak <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.139-148.bodh.wp.htm#p141>`__ (The Roof Peak, Roots, Heartwood, Jasmine, Monarch) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `The Roof-peak <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.45.139-148.olds.bd.htm#p141>`__ (The Roof-peak, Root, Heart-wood, Jasmine, Kings) (Michael Olds); `The roof-peak <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.139-148.wood.pts.htm#p141>`__ (The roof-peak, Wood, Heart Wood, Jasmine, Prince) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
-  * 對照之阿含經典及其他： `雜阿含1239經 <http://tripitaka.cbeta.org/T02n0099_046#0339b13>`__ (SA 1239, 一法) (CBETA; T02, no. 99, p. 339, b13)、 `別譯雜阿含66經 <http://tripitaka.cbeta.org/T02n0100_004#0396b08>`__ (CBETA; T02, no. 100, p. 396, b08)、 `MN 141 Saccavibhaṅga Sutta 中部141 諦分別經 <{filename}../majjhima/majjhima-nikaaya%zh.rst#mn141>`__ (分析聖諦經)、 `本事經卷第一 一法品第一之一 <http://tripitaka.cbeta.org/T17n0765_001#0662b10>`__ (T 765.1) (CBETA; T17, no. 765, p. 662, b10)、`不放逸經 <{filename}kosala%zh.rst#sn3_17>`__ (SN 3.17) 、 `DN 31 <{filename}../diigha/diigha-nikaaya%zh.rst>`__ (長部31經/辛額勒經; 教授尸伽羅越經)
+  * 對照之阿含經典及其他： `雜阿含1239經 <http://tripitaka.cbeta.org/T02n0099_046#0339b13>`__ (SA 1239, 一法) (CBETA; T02, no. 99, p. 339, b13)、 `別譯雜阿含66經 <http://tripitaka.cbeta.org/T02n0100_004#0396b08>`__ (CBETA; T02, no. 100, p. 396, b08)、 `MN 141 Saccavibhaṅga Sutta 中部141 諦分別經 <{filename}../majjhima/majjhima-nikaaya%zh.rst#mn141>`__ (分析聖諦經)、 `本事經卷第一 一法品第一之一 <http://tripitaka.cbeta.org/T17n0765_001#0662b10>`__ (T 765.1) (CBETA; T17, no. 765, p. 662, b10)、`不放逸經 <{filename}sn03-kosala-samyutta%zh.rst#sn3_17>`__ (SN 3.17) 、 `DN 31 <{filename}../diigha/diigha-nikaaya%zh.rst>`__ (長部31經/辛額勒經; 教授尸伽羅越經)
 
 .. _sn45_146:
 
@@ -967,7 +967,7 @@ PTS: Earnestness, V.33; WP: Diligence, II.1550
 
   * `The Moon <http://www.buddhadust.com/dhamma-vinaya/wp/sn/05_mv/sn05.45.139-148.bodh.wp.htm#p146>`__ (The Moon, The Sun, The Cloth) (WP, Ven. Bhikkhu Bodhi) [4]_ ; `Moon <http://www.buddhadust.com/dhamma-vinaya/bd/sn/05_mv/sn05.45.139-148.olds.bd.htm#p146>`__ (Moon, Sun, Cloth) (Michael Olds); `Moon <http://www.buddhadust.com/dhamma-vinaya/pts/sn/05_mv/sn05.45.139-148.wood.pts.htm#p146>`__ (Moon, Sun, Cloth) (F. L. Woodward, Edited by Mrs. Rhys Davids) [4]_
 
-  * 對照之阿含經典及其他： `雜阿含1239經 <http://tripitaka.cbeta.org/T02n0099_046#0339b13>`__ (SA 1239, 一法) (CBETA; T02, no. 99, p. 339, b13)、 `別譯雜阿含66經 <http://tripitaka.cbeta.org/T02n0100_004#0396b08>`__ (CBETA; T02, no. 100, p. 396, b08)、 `MN 141 Saccavibhaṅga Sutta 中部141 諦分別經 <{filename}../majjhima/majjhima-nikaaya%zh.rst#mn141>`__ (分析聖諦經)、 `本事經卷第一 一法品第一之一 <http://tripitaka.cbeta.org/T17n0765_001#0662b10>`__ (T 765.1) (CBETA; T17, no. 765, p. 662, b10)、`不放逸經 <{filename}kosala%zh.rst#sn3_17>`__ (SN 3.17) 、 `DN 31 <{filename}../diigha/diigha-nikaaya%zh.rst>`__ (長部31經/辛額勒經; 教授尸伽羅越經)
+  * 對照之阿含經典及其他： `雜阿含1239經 <http://tripitaka.cbeta.org/T02n0099_046#0339b13>`__ (SA 1239, 一法) (CBETA; T02, no. 99, p. 339, b13)、 `別譯雜阿含66經 <http://tripitaka.cbeta.org/T02n0100_004#0396b08>`__ (CBETA; T02, no. 100, p. 396, b08)、 `MN 141 Saccavibhaṅga Sutta 中部141 諦分別經 <{filename}../majjhima/majjhima-nikaaya%zh.rst#mn141>`__ (分析聖諦經)、 `本事經卷第一 一法品第一之一 <http://tripitaka.cbeta.org/T17n0765_001#0662b10>`__ (T 765.1) (CBETA; T17, no. 765, p. 662, b10)、`不放逸經 <{filename}sn03-kosala-samyutta%zh.rst#sn3_17>`__ (SN 3.17) 、 `DN 31 <{filename}../diigha/diigha-nikaaya%zh.rst>`__ (長部31經/辛額勒經; 教授尸伽羅越經)
 
 ------
 
