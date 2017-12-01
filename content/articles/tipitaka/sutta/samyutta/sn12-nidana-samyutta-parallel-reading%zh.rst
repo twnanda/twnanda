@@ -3615,7 +3615,7 @@ Kaḷārakhattiya-Vaggo 第四 伽拉羅剎利品
         ‘‘Imassa kho sāriputta saṃkhittena bhāsitassa evaṃ vitthārena attho daṭṭhabbo’’ti. Paṭhamaṃ.
 
    * - 漢譯(莊春江) [2]_
-     - **4.剎帝利黑齒品 **
+     - **4.剎帝利黑齒品**
 
        相應部12相應31經/ **已生成的經** (因緣相應/因緣篇/修多羅)(莊春江譯) 
 
