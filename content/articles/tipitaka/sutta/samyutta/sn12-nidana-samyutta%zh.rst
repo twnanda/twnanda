@@ -2,7 +2,7 @@ Nidāna-saṃyuttaṃ 因緣相應, Paticcasamuppada (dependent co-arising) (巴
 ########################################################################################
 
 :date: 2017-11-30
-:modified: 2017-11-30
+:modified: 2017-12-06
 :tags: 巴利三藏相應部, 因緣相應對讀, Nidāna-saṃyutta, Nidānasaṃyutta, Paticcasamuppada, dependent co-arising
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Nidāna-saṃyuttaṃ 因緣相應, Paticcasamuppada (dependent co-arising) 
@@ -30,7 +30,7 @@ Buddha-Vaggo 第一 佛陀品
 
 .. _sn12_1:
 
-- SN 12. 1, `Paṭiccasamuppādasuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul0.xml>`__ (CSCD) [1]_ , (如何)渡瀑流, S i 1 (PTS page), 1. 1. 1, SN 1
+- SN 12. 1, `Paṭiccasamuppādasuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul0.xml>`__ (CSCD) [1]_
 
   * `緣起經 <http://agama.buddhason.org/SN/SN0272.htm>`__ (莊春江) [2]_ ; `教說 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=277>`__ (志蓮淨苑, 蕭式球) [3]_ ; `法說 <http://tripitaka.cbeta.org/N14n0006_012#0001a12>`__ (元亨寺, 通妙) [4]_ 
 
@@ -934,7 +934,7 @@ Antarapeyyāla-Vaggo 第九 中間中略品
 
 * 「對照之阿含經典」係參考： `SuttaCentral <https://suttacentral.net/sn1>`__
 
-.. [1] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ ``*http://www.tipitaka.org/*`` (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Sagāthāvaggapāḷi → `1. Devatāsaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0301m.mul0.xml>`___ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
+.. [1] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ ``*http://www.tipitaka.org/*`` (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Nidānavaggapāḷi → `1. Nidānasaṃyuttaṃ <http://tipitaka.org/romn/cscd/s0302m.mul0.xml>`___ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
 
 .. [2] 請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯 相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__
 
@@ -950,5 +950,7 @@ Antarapeyyāla-Vaggo 第九 中間中略品
 
 
 ..
+  12.06 rev.  [1] 請參考：Nidānavaggapāḷi → `1. Nidānasaṃyuttaṃ <http://tipitaka.org/romn/cscd/s0302m.mul0.xml>
+        del: mul0.xml>`__ (CSCD) [1]_ , (如何)渡瀑流, S i 1 (PTS page), 1. 1. 1, SN 1
   11.30 finish 莊春江、蕭式球、元亨寺 & upload
   create on 2017.07.17-- Under Construction! ; 10.22 editing
