@@ -5,7 +5,7 @@
 # https://developers.google.com/closure/compiler/docs/api-tutorial2
 import httplib, urllib
 
-allJS = ["nanda.js"]
+allJS = ["tongwen_core.js", "tongwen_table_ps2t.js", "tongwen_table_pt2s.js", "tongwen_table_s2t.js", "tongwen_table_t2s.js", "nanda.js"]
 
 def combineJS():
     js_code = ""
@@ -20,11 +20,6 @@ def online_compile(js_code):
     # a URL-safe format.
 
     params = urllib.urlencode([
-        ('code_url', 'https://github.com/twnanda/twnanda/raw/master/theme/javascript/tongwen_core.js'),
-        ('code_url', 'https://github.com/twnanda/twnanda/raw/master/theme/javascript/tongwen_table_ps2t.js'),
-        ('code_url', 'https://github.com/twnanda/twnanda/raw/master/theme/javascript/tongwen_table_pt2s.js'),
-        ('code_url', 'https://github.com/twnanda/twnanda/raw/master/theme/javascript/tongwen_table_s2t.js'),
-        ('code_url', 'https://github.com/twnanda/twnanda/raw/master/theme/javascript/tongwen_table_t2s.js'),
         ('js_code', js_code),
         ('compilation_level', 'SIMPLE_OPTIMIZATIONS'),
         ('language', 'ECMASCRIPT5'),
@@ -43,4 +38,5 @@ def online_compile(js_code):
 
 
 if __name__ == "__main__":
-    online_compile(combineJS())
+    #online_compile(combineJS())
+    print(combineJS())

@@ -26,7 +26,7 @@ scss:
 
 js:
 	[ -d $(JSDIR) ] || mkdir -p $(JSDIR)
-	cd theme/javascript; $(PY) concatjs.py > $(JSDIR)/hushiah.js
+	cd theme/javascript; $(PY) compile.py > $(JSDIR)/hushiah.js
 
 html: scss
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
