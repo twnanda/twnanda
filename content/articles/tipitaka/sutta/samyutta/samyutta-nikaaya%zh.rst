@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2017-11-30
+:modified: 2017-12-06
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應部尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -116,7 +116,7 @@ Nidānavagga 因緣篇
 
 - 12.) `Nidāna-saṃyuttaṃ 因緣相應 <{filename}sn12-nidana-samyutta%zh.rst>`__ (93 經, Paticcasamuppada (dependent co-arising))
 
-- 13.) `Abhisamaya-saṃyuttaṃ 現觀相應 <{filename}sn13-abhisamaya-samyutta%zh.rst>`__ (建構中 under construction; 11 經, Realization)
+- 13.) `Abhisamaya-saṃyuttaṃ 現觀相應 <{filename}sn13-abhisamaya-samyutta%zh.rst>`__ (11 經, Realization)
 
 - 14.) `Dhātu-saṃyuttaṃ 界相應 <{filename}sn14-dhatu-samyutta%zh.rst>`__ (建構中 under construction; 39 經, Elements)
 
@@ -340,7 +340,8 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
-  11.30 Nidāna-saṃyuttaṃ 因緣相應(3 translation 莊春江、蕭式球、元亨寺)
+  12.06 add: Abhisamaya-saṃyuttaṃ 現觀相應(2 translation 莊春江、蕭式球)
+  11.30 add: Nidāna-saṃyuttaṃ 因緣相應(3 translation 莊春江、蕭式球、元亨寺)
   10.22 ren devata%zh.rst with sn01-devata-samyutta%zh.rst, devaputta%zh.rst with sn02-devaputta-samyutta%zh.rst, ..., ..., sacca%zh.rst with sn56-sacca-samyutta%zh.rst
   10.16 METTANET - LANKA (metta.lk) re-activation
   10.06 add: 諸天相應對讀 sn01-devata-samyutta-parallel-reading 
