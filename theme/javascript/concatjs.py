@@ -8,7 +8,7 @@ def concatJS(dirpath):
     for filename in os.listdir(dirpath):
         if filename.endswith(".js"):
             filepath = os.path.join(dirpath, filename)
-            print("combining " + filepath + " ...")
+            #print("combining " + filepath + " ...")
             with open(filepath, "r") as f:
                 combinedJS += f.read()
 
