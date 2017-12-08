@@ -2,7 +2,7 @@ Nidāna-saṃyuttaṃ 因緣相應, Paticcasamuppada (dependent co-arising) (巴
 ########################################################################################
 
 :date: 2017-11-30
-:modified: 2017-12-06
+:modified: 2017-12-08
 :tags: 巴利三藏相應部, 因緣相應對讀, Nidāna-saṃyutta, Nidānasaṃyutta, Paticcasamuppada, dependent co-arising
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Nidāna-saṃyuttaṃ 因緣相應, Paticcasamuppada (dependent co-arising) 
@@ -921,7 +921,7 @@ Antarapeyyāla-Vaggo 第九 中間中略品
 
 ------
 
-- `諸天相應對讀 <{filename}sn01-devata-samyutta-parallel-reading%zh.rst>`__ 
+- `因緣相應對讀 <{filename}sn12-nidana-samyutta-parallel-reading%zh.rst>`__ 
 
 - `Saṃyuttanikāya 巴利大藏經 經藏 相應部 <{filename}samyutta-nikaaya%zh.rst>`__
 
@@ -950,6 +950,7 @@ Antarapeyyāla-Vaggo 第九 中間中略品
 
 
 ..
+  12.08 rev. linking of 對讀; old: 諸天相應對讀
   12.06 rev.  [1] 請參考：Nidānavaggapāḷi → `1. Nidānasaṃyuttaṃ <http://tipitaka.org/romn/cscd/s0302m.mul0.xml>
         del: mul0.xml>`__ (CSCD) [1]_ , (如何)渡瀑流, S i 1 (PTS page), 1. 1. 1, SN 1
   11.30 finish 莊春江、蕭式球、元亨寺 & upload
