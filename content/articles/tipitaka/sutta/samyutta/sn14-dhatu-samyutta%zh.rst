@@ -2,11 +2,13 @@ Dhātu-saṃyuttaṃ 界相應, Elements (巴利三藏 相應部)
 #####################################################
 
 :date: 2017-12-07
-:modified: 2017-12-07
+:modified: 2017-12-08
 :tags: 巴利三藏相應部, 
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Dhātu-saṃyuttaṃ 界相應, Elements
 
+
+- `界相應對讀 <{filename}sn14-dhatu-samyutta-parallel-reading%zh.rst>`__ 
 
 .. list-table:: Dhātu-saṃyuttaṃ 界相應
   :widths: 20 20 20 20
@@ -353,7 +355,8 @@ Catutthavaggo 第四 第四品
 .. [3] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） → 5.1.3.相應部： `13 通達相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=484>`__
 
 ..
-  12.0 finish 莊春江、蕭式球 & upload
+  12.08 add: linking of 界相應對讀 on the top  
+  12.07 finish 莊春江、蕭式球 & upload
 
   bak: mul0.xml>`__ (CSCD) [1]_ , (如何)渡瀑流, S i 1 (PTS page), 1. 1. 1, SN 1
 
