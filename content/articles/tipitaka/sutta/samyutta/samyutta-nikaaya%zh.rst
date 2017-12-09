@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2017-12-07
+:modified: 2017-12-09
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應部尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -120,7 +120,7 @@ Nidānavagga 因緣篇
 
 - 14.) `Dhātu-saṃyuttaṃ 界相應 <{filename}sn14-dhatu-samyutta%zh.rst>`__ (39 經, Elements)
 
-- 15.) `Anamatagga-saṃyuttaṃ 無始相應 <{filename}sn15-anamatagga-samyutta%zh.rst>`__ (建構中 under construction; 20 經, The unimaginable beginnings of samsara and transmigration)
+- 15.) `Anamatagga-saṃyuttaṃ 無始相應 <{filename}sn15-anamatagga-samyutta%zh.rst>`__ (20 經, The unimaginable beginnings of samsara and transmigration)
 
 - 16.) `Kassapa-saṃyuttaṃ 迦葉相應 <{filename}sn16-kassapa-samyutta%zh.rst>`__ (建構中 under construction; 13 經, 大迦葉尊者相應, Ven. Maha Kassapa)
 
@@ -340,6 +340,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  12.09 add: Anamatagga-saṃyuttaṃ 無始相應(2 translation 莊春江、蕭式球)
   12.07 add: Dhātu-saṃyuttaṃ 界相應(2 translation 莊春江、蕭式球)
   12.06 add: Abhisamaya-saṃyuttaṃ 現觀相應(2 translation 莊春江、蕭式球)
   11.30 add: Nidāna-saṃyuttaṃ 因緣相應(3 translation 莊春江、蕭式球、元亨寺)
