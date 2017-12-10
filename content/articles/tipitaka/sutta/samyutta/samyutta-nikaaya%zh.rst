@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2017-12-09
+:modified: 2017-12-10
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應部尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -124,7 +124,7 @@ Nidānavagga 因緣篇
 
 - 16.) `Kassapa-saṃyuttaṃ 迦葉相應 <{filename}sn16-kassapa-samyutta%zh.rst>`__ (建構中 under construction; 13 經, 大迦葉尊者相應, Ven. Maha Kassapa)
 
-- 17.) `Lābhasakkāra-saṃyuttaṃ 利得與供養相應 <{filename}sn17-labhasakkara-samyutta%zh.rst>`__ (建構中 under construction; 43 經, 利得恭敬相應, Gains and tribute)
+- 17.) `Lābhasakkāra-saṃyuttaṃ 利得與供養相應 <{filename}sn17-labhasakkara-samyutta%zh.rst>`__ (43 經, 利得恭敬相應, Gains and tribute)
 
 - 18.) `Rāhula-saṃyuttaṃ 羅睺羅相應 <{filename}sn18-rahula-samyutta%zh.rst>`__ (建構中 under construction; 22 經, 羅睺羅尊者相應, Ven. Rahula)
 
@@ -340,6 +340,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  12.10 add: Lābhasakkāra-saṃyuttaṃ 利得與供養相應(2 translation 莊春江、蕭式球)
   12.09 add: Anamatagga-saṃyuttaṃ 無始相應(2 translation 莊春江、蕭式球)
   12.07 add: Dhātu-saṃyuttaṃ 界相應(2 translation 莊春江、蕭式球)
   12.06 add: Abhisamaya-saṃyuttaṃ 現觀相應(2 translation 莊春江、蕭式球)
