@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2017-12-10
+:modified: 2017-12-20
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應部尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -150,7 +150,7 @@ Nidānavagga 因緣篇
 Khandhavagga 犍度篇
 --------------------
 
-- 22.) `Khandha-saṃyuttaṃ 蘊相應 <{filename}sn22-khandha-samyutta%zh.rst>`__ (建構中 under construction; 159 經, The clinging-aggregates)
+- 22.) `Khandha-saṃyuttaṃ 蘊相應 <{filename}sn22-khandha-samyutta%zh.rst>`__ (159 經, The clinging-aggregates)
 
 - 23.) `Rādha-saṃyuttaṃ 羅陀相應 <{filename}sn23-radha-samyutta%zh.rst>`__ (建構中 under construction; 46 經, 羅陀尊者相應, Ven. Radha)
 
@@ -340,6 +340,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  12.20 add: Khandha-saṃyuttaṃ 蘊相應(2 translation 莊春江、蕭式球)
   12.10 add: Lābhasakkāra-saṃyuttaṃ 利得與供養相應(2 translation 莊春江、蕭式球)
   12.09 add: Anamatagga-saṃyuttaṃ 無始相應(2 translation 莊春江、蕭式球)
   12.07 add: Dhātu-saṃyuttaṃ 界相應(2 translation 莊春江、蕭式球)
