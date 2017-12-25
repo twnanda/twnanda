@@ -2,13 +2,15 @@
 ###############################################################################################
 
 :date: 2017-12-20
-:modified: 2017-12-20
+:modified: 2017-12-25
 :tags: 巴利三藏相應部, 蘊相應對讀, Parallel Reading, Khandha-saṃyutta, The clinging-aggregates
 :category: 巴利三藏相應部
 :summary: 蘊相應對讀 (巴利三藏 相應部) Parallel Reading of Khandha-saṃyuttaṃ (The clinging-aggregates)
 
 
 - `蘊相應 <{filename}sn22-khandha-samyutta%zh.rst>`__ 
+
+- `SN 22. 57 多版本對讀與研究 <{filename}sn22/sn22-057-sattatthanasutta-parallel-reading%zh.rst>`__ 
 
 .. raw:: html 
 
@@ -11900,6 +11902,8 @@ Diṭṭhivaggo 見品
 
 ------
 
+- `SN 22. 57 多版本對讀與研究 <{filename}sn22/sn22-057-sattatthanasutta-parallel-reading%zh.rst>`__ 
+
 - `蘊相應 <{filename}sn22-khandha-samyutta%zh.rst>`__ 
 
 - `Saṃyuttanikāya 巴利大藏經 經藏 相應部 <{filename}samyutta-nikaaya%zh.rst>`__
@@ -11920,6 +11924,9 @@ Diṭṭhivaggo 見品
 
 
 
+
 ..
+  12.25 add: linking of SN 22. 57 多版本對讀與研究
+  12.23 rev. footnote 3
   12.20 finish 莊春江、蕭式球 & upload
   create on 2017.12.12

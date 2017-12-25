@@ -2,7 +2,7 @@ Khandha-saṃyuttaṃ 蘊相應, The clinging-aggregates (巴利三藏 相應部
 #####################################################################
 
 :date: 2017-12-20
-:modified: 2017-12-20
+:modified: 2017-12-25
 :tags: 巴利三藏相應部, 
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Khandha-saṃyuttaṃ 蘊相應, The clinging-aggregates
@@ -543,8 +543,13 @@ Upayavaggo 攀住品
 
 - SN 22. 57, `Sattaṭṭhānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0303m.mul0.xml>`__ (CSCD) [1]_ , 
 
-  * `七處經 <http://agama.buddhason.org/SN/SN0575.htm>`__ (莊春江) [2]_ ; `七處 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=486&page_id=620:674>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `七處經 <http://agama.buddhason.org/SN/SN0575.htm>`__ (莊春江) [2]_ ; `七處 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=486&page_id=620:674>`__ (志蓮淨苑, 蕭式球) [3]_ ; 七處三觀經 (蘇錦坤) [4]_ ; `七處 <http://tripitaka.cbeta.org/N15n0006_022#0090a14>`__ (元亨寺, 通妙) [5]_  
 
+  * `The Seven Cases <http://www.buddhadust.com/m/dhamma-vinaya/wp/sn/03_kv/sn03.22.057.bodh.wp.htm>`__ (Ven. Bhikkhu Bodhi, WP) [6]_ ; `Seven Bases <https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.057.than.html>`__ (Ven. Thanissaro, `Access to Insigt <http://www.accesstoinsight.org/>`__ [7]_ ; `In Seven Instances <http://metta.lk/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/Samyutta3/21-Khandha-Samyutta/02-01-Upayavaggo-e.html>`__ (Sister Upalavanna, `METTANET-LANKA <http://metta.lk/>`__ ) [8]_
+
+  * 對照之阿含經典及其他： `雜阿含42經 <http://tripitaka.cbeta.org/T02n0099_002#0010a04>`__ [9]_、 `佛說七處三觀經 <http://tripitaka.cbeta.org/T02n0150A_001>`__ [10]_ 、 `單卷本雜阿含27經 <http://tripitaka.cbeta.org/T02n0101_001#0498c19>`__  [11]_ 
+
+  * `SN 22. 57 多版本對讀與研究 <{filename}sn22/sn22-057-sattatthanasutta-parallel-reading%zh.rst>`__ 
 
 .. _sn22_58:
 
@@ -1481,7 +1486,26 @@ Diṭṭhivaggo 見品
 
 .. [3] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） → 5.1.3.相應部： `15-1 無始相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477>`__ ; `15-2 無始相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477&page_id=115:0>`__ 
 
+.. [4] 《七處三觀經》研究（1）—《七處三觀1經》校勘與標點 -- 兼對 Tilmann Vetter 與 Paul Harrison 論文的回應（蘇錦坤, 2012, 《福嚴佛學研究》第七期 1-74 頁，台灣）。
+
+        請參考： “藏經閣外的掃葉人”網誌----`【台語與佛典】, 探討漢譯四阿含與巴利五部尼柯耶的教導，也介紹古漢譯和台語的關聯 <http://yifertw.blogspot.com/>`__ → `蘇錦坤：《七處三觀經》研究（1）—《七處三觀1經》校勘與標點 --兼對 Tilmann Vetter 與 Paul Harrison 論文的回應 1 校勘 <http://yifertw.blogspot.tw/2012/05/111.html>`__ 及 `蘇錦坤：《七處三觀經》研究（1）—《七處三觀1經》校勘與標點 --兼對 Tilmann Vetter 與 Paul Harrison 論文的回應 2 詮釋 <http://yifertw.blogspot.tw/2012/05/112.html>`__ ； `PDF <http://www.fuyan.org.tw/download/FBS_vol7-1.pdf>`__ ( `福嚴佛學院 <http://www.fuyan.org.tw/>`__  → 研究論文 → 《福嚴佛學研究》第07期 → 《七處三觀經》研究)；或 `Ken Yifertw - Academia.edu <https://independent.academia.edu/KenYifertw>`__  → Collating and applying modern punctuation to T150A, (2012), 《七處三觀經》(T150A) 校勘與標點 ( `Download 下載 <https://www.academia.edu/attachments/38127312/download_file?st=MTUxMzk5NjM3OSwzNi4yMzYuMjM3LjE1LDEwNDIyMjE0&s=profile>`__ 或 `線上閱讀 <https://www.academia.edu/7251799/Collating_and_applying_modern_punctuation_to_T150A_2012_%E4%B8%83%E8%99%95%E4%B8%89%E8%A7%80%E7%B6%93_T150A_%E6%A0%A1%E5%8B%98%E8%88%87%E6%A8%99%E9%BB%9E>`__ 、 `Download 下載 <https://www.academia.edu/attachments/38127312/download_file?st=MTUxMzk5NjI5OCwzNi4yMzYuMjM3LjE1LDEwNDIyMjE0&s=swp-toolbar>`__ from `Academia.edu <https://www.academia.edu/>`__ ) 
+
+.. [5] `〔五七〕第五　七處 <http://tripitaka.cbeta.org/N15n0006_022#0090a14>`__ 〔請參考： `N 《漢譯南傳大藏經》 <http://tripitaka.cbeta.org/N>`__ （紙本來源：元亨寺漢譯南傳大藏經編譯委員會 / 高雄：元亨寺妙林出版社, 1995.） → 經藏／相應部 N13, N14, N15, N16, N17, N18 → `N15 <http://tripitaka.cbeta.org/N15>`__ → 第 15 冊：直接進入閱讀 `N15n0006　相應部經典(第22卷-第34卷) ( 13 卷)　【雲庵譯】 <http://tripitaka.cbeta.org/N15n0006>`_ （ `第 022 卷 <http://tripitaka.cbeta.org/N15n0006_022>`__ ）、下載 `ePub <http://www.cbeta.org/download/epub/download.php?file=N/N0006.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/N/N0006.mobi>`__ 、 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/N/N0006.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/N/N0006.pdf>`__ 。〕
+
+.. [6] 選錄多位翻譯者之譯文，請參 `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ → `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ : `III. Khandha-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_03_khandhavagga.htm>`__ (WP:The Book of the Aggregates, PTS: The Kindred Sayings on Elements) → 22. `Khandha-Saŋyutta <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/03_kv/idx_22_khandhasamyutta.htm>`__ → 57 WP: `The Seven Cases <http://www.buddhadust.com/m/dhamma-vinaya/wp/sn/03_kv/sn03.22.057.bodh.wp.htm>`__ , I.897 [BuddhaDust] ；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
+
+.. [7] 請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__  → `SN 22.57: Sattatthana Sutta —  Seven Bases <https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.057.than.html>`__ {S iii 61; CDB i 897} [Thanissaro].
+
+.. [8] `Saṃyutta Nikāya <http://metta.lk/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ ( `METTANET - LANKA <http://metta.lk/>`__ → `THE TIPITAKA <http://metta.lk/tipitaka/index.html>`__  → `Saṃyutta Nikāya <http://metta.lk/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ → Volume 3 (Khandhakavaggo) → 21. Khandha Saṃyutta → 2-1  Upayavaggo →  `English <http://metta.lk/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/Samyutta3/21-Khandha-Samyutta/02-01-Upayavaggo-e.html>`__ → 21. 2. 1. 5. (57) Sattaṭṭhānaṃ –– In Seven Instances)
+
+.. [9] `雜阿含42經 <http://tripitaka.cbeta.org/T02n0099_002#0010a04>`__ ；大正藏，第2冊，雜阿含經卷第二，宋 天竺 三藏 **求那跋陀羅** 譯，（四二, SA 42）(七處) (CBETA; T02, no. 99, p. 10, a04)
+
+.. [10] `佛說七處三觀經 （一） <http://tripitaka.cbeta.org/T02n0150A_001#0876c02>`__ ；大正藏，第2冊，No. 150A，`佛說七處三觀經 <http://tripitaka.cbeta.org/T02n0150A_001>`__ ，後漢　安息國　三藏　**安世高** 譯
+
+.. [11] `單卷本雜阿含27經 <http://tripitaka.cbeta.org/T02n0101_001#0498c19>`__ ；單卷本雜阿含經一卷，失譯人名，附吳魏二錄，（二七）佛說七處三觀經 (CBETA; T02, no. 101, p. 498, c19)
+
 ..
+  12.25 add: SN 22. 57 多版本 & SN 22. 57 多版本對讀與研究
   12.19 finish 莊春江、蕭式球 & 12.20 upload
 
   bak: mul0.xml>`__ (CSCD) [1]_ , (如何)渡瀑流, S i 1 (PTS page), 1. 1. 1, SN 1
