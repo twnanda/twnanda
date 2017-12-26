@@ -2,7 +2,7 @@
 #################################################################################################################################################################
 
 :date: 2017-12-25
-:modified: 2017-12-25
+:modified: 2017-12-26
 :tags: 巴利三藏相應部, 蘊相應, 七處經對讀, 七處三觀經對讀, Parallel Reading, Sattaṭṭhānasuttaṃ, 
 :category: 巴利三藏相應部
 :summary: 巴利三藏 經藏 相應部 蘊相應 七處經(七處三觀經) 對讀與研究 Parallel Reading and Study of Sattaṭṭhānasuttaṃ (The Seven Cases, Seven Bases, In Seven Instances)
@@ -30,6 +30,8 @@
   * ‘An Shigao’s Chinese Translation of the Saptasthānasūtra’, Vetter & Harrison (〈安世高漢譯的《七處經》〉, 1998) 
 
   * `討論《增一阿含》 <http://yifertw.blogspot.tw/2011/07/13.html>`__ (2011年7月23日 星期六 法友飛鴻 13)
+
+  * `「七處三觀」與「陰、界、入」 <http://yifertw.blogspot.tw/2017/11/262-aacdsee.html>`__ (2017年11月20日 星期一 法友飛鴻 262：答 Aacdsee)
 
 ------
 
@@ -533,9 +535,6 @@
 
    * - 巴利原典(CSCD) [1]_
      - ‘‘Katamā ca, bhikkhave, vedanā? Chayime, bhikkhave, vedanākāyā – cakkhusamphassajā vedanā…pe… manosamphassajā vedanā. Ayaṃ vuccati, bhikkhave, vedanā.
-
-   * - 漢譯(莊春江) [3]_
-     - 又，比丘們！什麼是受？比丘們！有六類受：眼觸所生受、……（中略）意觸所生受，比丘們！這被稱為受。
 
    * - 漢譯(蘇錦坤) [2]_
      - 諸比丘，什麼是受？為六受：眼觸生受，耳、鼻、舌、身、意觸生受，是名為受。
@@ -1877,5 +1876,6 @@
                         The Commentary, for its part, singles out this discourse as being one that entices a serious meditator to practice.
 
 ..
+  12.26 rev. debug: sn22.57 七處經 Sattaṭṭhānasuttaṃ S12:多了一個[3]; add:「七處三觀」與「陰、界、入」 (2017年11月20日 星期一 法友飛鴻 262：答 Aacdsee)
   12.25 finish 莊春江、蕭式球 & upload
   create on 2017.12.23
