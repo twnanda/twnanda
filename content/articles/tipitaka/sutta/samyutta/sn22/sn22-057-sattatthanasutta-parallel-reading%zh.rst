@@ -2,7 +2,7 @@
 #################################################################################################################################################################
 
 :date: 2017-12-25
-:modified: 2017-12-26
+:modified: 2017-12-28
 :tags: 巴利三藏相應部, 蘊相應, 七處經對讀, 七處三觀經對讀, Parallel Reading, Sattaṭṭhānasuttaṃ, 
 :category: 巴利三藏相應部
 :summary: 巴利三藏 經藏 相應部 蘊相應 七處經(七處三觀經) 對讀與研究 Parallel Reading and Study of Sattaṭṭhānasuttaṃ (The Seven Cases, Seven Bases, In Seven Instances)
@@ -13,7 +13,7 @@
 
   * `The Seven Cases <http://www.buddhadust.com/m/dhamma-vinaya/wp/sn/03_kv/sn03.22.057.bodh.wp.htm>`__ (Ven. Bhikkhu Bodhi, WP) [6]_ ; `Seven Bases <https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.057.than.html>`__ (Ven. Thanissaro, `Access to Insigt <http://www.accesstoinsight.org/>`__ [7]_ ; `In Seven Instances <http://metta.lk/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/Samyutta3/21-Khandha-Samyutta/02-01-Upayavaggo-e.html>`__ (Sister Upalavanna, `METTANET-LANKA <http://metta.lk/>`__ ) [8]_
 
-  * 對照之阿含經典及其他： `雜阿含42經 <http://tripitaka.cbeta.org/T02n0099_002#0010a04>`__ [9]_、 `佛說七處三觀經 <http://tripitaka.cbeta.org/T02n0150A_001>`__ [10]_ 、 `單卷本雜阿含27經 <http://tripitaka.cbeta.org/T02n0101_001#0498c19>`__  [11]_ 
+  * 對照之阿含經典及其他： `雜阿含42經 <http://tripitaka.cbeta.org/T02n0099_002#0010a04>`__ [9]_、 `佛說七處三觀經 <http://tripitaka.cbeta.org/T02n0150A_001>`__ [10]_ ( `雜阿含42經 <http://buddhaspace.org/agama/2.html#%E5%9B%9B%E4%BA%8C>`__ , 國立臺灣大學 「 `獅子吼佛學專站 <http://buddhaspace.org/main/modules/dokuwiki/agama:%E5%8F%B0%E5%A4%A7%E7%8D%85%E5%AD%90%E5%90%BC%E4%BD%9B%E5%AD%B8%E5%B0%88%E7%AB%99%E7%B0%A1%E4%BB%8B>`_ 」「 `阿含藏專案列表 <http://buddhaspace.org/main/modules/dokuwiki/>`_ 」 [11]_ ) 、 `單卷本雜阿含27經 <http://tripitaka.cbeta.org/T02n0101_001#0498c19>`__  [12]_ 
 
 - 對讀_
 
@@ -23,7 +23,7 @@
 
   * `「行道意」與「行道竟」 <http://yifertw.blogspot.tw/2016/07/199_28.html>`__ (2016年7月28日 星期四  法友飛鴻 199)
 
-  * `〈《七處三觀經》研究(2)—《七處三觀經》結構與譯者--- 兼對 Paul Harrison 論文(1997)的回應〉 <http://yifertw.blogspot.tw/2012/10/2-paul-harrison-1997.html>`__，蘇錦坤，(2012），《正觀雜誌》62期，99-192頁，南投縣，台灣 [12]_
+  * `〈《七處三觀經》研究(2)—《七處三觀經》結構與譯者--- 兼對 Paul Harrison 論文(1997)的回應〉 <http://yifertw.blogspot.tw/2012/10/2-paul-harrison-1997.html>`__，蘇錦坤，(2012），《正觀雜誌》62期，99-192頁，南投縣，台灣 [13]_
 
   * `〈新出安世高譯《七處三觀經》平行梵本殘卷跋〉 <http://www.myeducs.cn/mianfeilunwen/fanyubaliyu/110140029/>`__ ( `part2 <http://www.myeducs.cn/mianfeilunwen/fanyubaliyu/110140029/index2.htm>`__ 、 `part3 <http://www.myeducs.cn/mianfeilunwen/fanyubaliyu/110140029/index3.htm>`__ )，陳明 (北京大学东方文学研究中心) ，(2003)，《西域研究》2003年第4期，59-65頁，科學出版社，北京市，中國。
 
@@ -1809,9 +1809,11 @@
 
 .. [10] `佛說七處三觀經 （一） <http://tripitaka.cbeta.org/T02n0150A_001#0876c02>`__ ；大正藏，第2冊，No. 150A，`佛說七處三觀經 <http://tripitaka.cbeta.org/T02n0150A_001>`__ ，後漢　安息國　三藏　**安世高** 譯
 
-.. [11] `單卷本雜阿含27經 <http://tripitaka.cbeta.org/T02n0101_001#0498c19>`__ ；單卷本雜阿含經一卷，失譯人名，附吳魏二錄，（二七）佛說七處三觀經 (CBETA; T02, no. 101, p. 498, c19)
+.. [11] 國立臺灣大學 「 `獅子吼佛學專站 <http://buddhaspace.org/main/modules/dokuwiki/agama:%E5%8F%B0%E5%A4%A7%E7%8D%85%E5%AD%90%E5%90%BC%E4%BD%9B%E5%AD%B8%E5%B0%88%E7%AB%99%E7%B0%A1%E4%BB%8B>`_ 」「 `阿含藏專案列表 <http://buddhaspace.org/main/modules/dokuwiki/>`_ 」 → `雜阿含經 <http://buddhaspace.org/agama/>`__ → `卷二 <http://buddhaspace.org/agama/2.html>`__ → `（四二） <http://buddhaspace.org/agama/2.html#%E5%9B%9B%E4%BA%8C>`__
 
-.. [12] 《七處三觀經》研究(2)—《七處三觀經》結構與譯者 -- 兼對 Paul Harrison 論文(1997)的回應（蘇錦坤, 《正觀雜誌》62期，99-192頁，南投縣，台灣，2012年9月25日。） 
+.. [12] `單卷本雜阿含27經 <http://tripitaka.cbeta.org/T02n0101_001#0498c19>`__ ；單卷本雜阿含經一卷，失譯人名，附吳魏二錄，（二七）佛說七處三觀經 (CBETA; T02, no. 101, p. 498, c19)
+
+.. [13] 《七處三觀經》研究(2)—《七處三觀經》結構與譯者 -- 兼對 Paul Harrison 論文(1997)的回應（蘇錦坤, 《正觀雜誌》62期，99-192頁，南投縣，台灣，2012年9月25日。） 
 
         請參考： “藏經閣外的掃葉人”網誌----`【台語與佛典】, 探討漢譯四阿含與巴利五部尼柯耶的教導，也介紹古漢譯和台語的關聯 <http://yifertw.blogspot.com/>`__ → `蘇錦坤：《七處三觀經》研究(2)—《七處三觀經》結構與譯者---兼對 Paul Harrison 論文(1997)的回應 <http://yifertw.blogspot.tw/2012/10/2-paul-harrison-1997.html>`__ ； `PDF <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1207&i=1>`__ (Satyabhisamaya_62-02.pdf; `靈山禪寺 <http://www.tt034.org.tw/>`__  → `正觀雜誌 <http://www.tt034.org.tw/index.php?temp=mag&lang=cht>`__ → `2 <http://www.tt034.org.tw/index.php?temp=mag&lang=cht&pages=2>`__ → 第62期 → `《七處三觀經》的結構與譯者──兼對Paul Harrison論文（1997）的回應 蘇錦坤 撰 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1207&i=1>`__ ；或 `Ken Yifertw - Academia.edu <https://independent.academia.edu/KenYifertw>`__  → The translator and structure of T150a, and, as a response to Paul Harrison's article in 1997, (2012),《七處三觀經》的譯者與結構--兼對 Paul Harrison 論文(1997)的回應 ( `Download 下載 <https://www.academia.edu/attachments/33884603/download_file?st=MTUxNDExODE5MywxLjE3Mi4xMTYuMTk0LDEwNDIyMjE0&s=profile>`__ 或 `線上閱讀 <https://www.academia.edu/7273422/The_translator_and_structure_of_T150a_and_as_a_response_to_Paul_Harrisons_article_in_1997_2012_%E4%B8%83%E8%99%95%E4%B8%89%E8%A7%80%E7%B6%93_%E7%9A%84%E8%AD%AF%E8%80%85%E8%88%87%E7%B5%90%E6%A7%8B--%E5%85%BC%E5%B0%8D_Paul_Harrison_%E8%AB%96%E6%96%87_1997_%E7%9A%84%E5%9B%9E%E6%87%89>`__ 、 `Download 下載 <https://www.academia.edu/attachments/33884603/download_file?st=MTUxNDExODI1OSwxLjE3Mi4xMTYuMTk0LDEwNDIyMjE0&s=swp-toolbar>`__ from `Academia.edu <https://www.academia.edu/>`__ ) 
 
@@ -1876,6 +1878,7 @@
                         The Commentary, for its part, singles out this discourse as being one that entices a serious meditator to practice.
 
 ..
+  12.28 add: 國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」
   12.26 rev. debug: sn22.57 七處經 Sattaṭṭhānasuttaṃ S12:多了一個[3]; add:「七處三觀」與「陰、界、入」 (2017年11月20日 星期一 法友飛鴻 262：答 Aacdsee)
   12.25 finish 莊春江、蕭式球 & upload
   create on 2017.12.23
