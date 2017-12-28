@@ -2,7 +2,7 @@ Majjhima-nikāya 巴利大藏經 經藏 中部 (Further Dialogues of the Buddha;
 =============================================================================================================
 
 :date: 2003-07-13
-:modified: 2017-10-16
+:modified: 2017-12-27
 :tags: 中部尼柯耶, 中部, 尼柯耶, Majjhima nikāya, 巴利三藏中部
 :category: 巴利三藏中部
 :summary: Majjhima-nikāya 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
@@ -211,7 +211,7 @@ Mūlapaṇṇāsa 根本五十經篇
 
     - 對照之阿含經典及其他： `增壹阿含40.6經 <http://tripitaka.cbeta.org/T02n0125_034#0740a25>`__ ；(淨諸漏)，增壹阿含經卷第三十四，七日品第四十之一，（六）, EA 40.6 (T02, no. 125, p. 740, a25)
 
-      `中阿含10經 <http://tripitaka.cbeta.org/T01n0026_002#0431c13>`__ ；中阿含經卷第二，（一〇）中阿含七法品 **漏盡經** 第十(初一日誦)，大正藏．第一冊．第26經．第431頁．下欄．第13行。 (CBETA; T01, no. 26, p. 431, c13)
+      `中阿含10經 <http://tripitaka.cbeta.org/T01n0026_002#0431c13>`__ ；中阿含經卷第二，（一〇）中阿含七法品 **漏盡經** 第十(初一日誦)，大正藏．第一冊．第26經．第431頁．下欄．第13行 ( `CBETA <http://www.cbeta.org/>`__ ; T01, no. 26, p. 431, c13)。 `漏盡經 <http://buddhaspace.org/agama2/2.html#%E4%B8%80%E3%80%87_-_11_-%E4%B8%AD%E9%98%BF%E5%90%AB%E4%B8%83%E6%B3%95%E5%93%81-_12_-%E6%BC%8F%E7%9B%A1%E7%B6%93%E7%AC%AC%E5%8D%81-_13_-_%E5%88%9D%E4%B8%80%E6%97%A5%E8%AA%A6>`__ ( `台大獅子吼佛學專站 <http://buddhaspace.org/main/>`__ ； `阿含站專案列表 <http://buddhaspace.org/main/modules/dokuwiki/>`__ → `中阿含經 <http://buddhaspace.org/agama2/>`__ →  `卷第二 <http://buddhaspace.org/agama2/2.html>`__ )
 
       `一切流攝守因經 <http://tripitaka.cbeta.org/T01n0031_001#0813a05>`__ ；佛說一切流攝守因經，後漢 安息國 三藏 **安世高** 譯(T01, no. 31, p. 813, a5)
 
@@ -8686,6 +8686,7 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 .. [14] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Majjhima Nikāya (MN) <https://suttacentral.net/mn>`__ 。
 
 ..
+  12.27 add:漏盡經 ( 台大獅子吼佛學專站 ； 阿含站專案列表 → 中阿含經 → 卷第二 )
   10.16 METTANET - LANKA (metta.lk) re-activation
   07.23 add: 《中部》與《中阿含經》經對照表 & 《中阿含經》與《中部》對照表、中阿含經 (國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」)、“藏經閣外的掃葉人”網誌-- 【 台語與佛典 】　中阿含讀書會 (「中阿含讀書會」)、 and so on
   05.09 add: mn 149 對讀(local)
