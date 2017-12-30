@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2017-12-29
+:modified: 2017-12-30
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應部尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -273,15 +273,24 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 - (2). Saṁyuttanikāya-ṭīkā (1~5) (SṬ.)(with CS & PTS page number & PTS sutta number)相應部疏： `HTML <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-tika-dhammarain.htm>`__ (直接閱讀), `PDF <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-tika-dhammarain.pdf>`__ , `ms doc <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-tika-dhammarain.doc>`__ , `ms rtf <http://www.dhammarain.org.tw/canon/SAMYUTTA/samyutta-tika-dhammarain.rtf>`__ --  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ 據 `Chaṭṭha Saṅgāyana (CS) <http://www.tipitaka.org/>`_ 整理, 具 CS 及 PTS 頁碼標記
 
-----
-
-- 整部（不分章）
-
 ------
 
--  `阿含經讀書會 <https://sites.google.com/site/nckujrcs/du-shu-hui>`_ (國立成功大學 「 `宗教與文化研究室 <https://sites.google.com/site/nckujrcs/>`_ 」)
+- `阿含經讀書會 <https://sites.google.com/site/nckujrcs/du-shu-hui>`_ (國立成功大學 「 `宗教與文化研究室 <https://sites.google.com/site/nckujrcs/>`_ 」)
 
-- `雜阿含經 <http://buddhaspace.org/agama/>`__ (國立臺灣大學 「 `獅子吼佛學專站 <http://buddhaspace.org/main/modules/dokuwiki/agama:%E5%8F%B0%E5%A4%A7%E7%8D%85%E5%AD%90%E5%90%BC%E4%BD%9B%E5%AD%B8%E5%B0%88%E7%AB%99%E7%B0%A1%E4%BB%8B>`_ 」「 `阿含藏專案列表 <http://buddhaspace.org/main/modules/dokuwiki/>`_ 」)
+- 國立臺灣大學 「 `獅子吼佛學專站 <http://buddhaspace.org/main/modules/dokuwiki/agama:%E5%8F%B0%E5%A4%A7%E7%8D%85%E5%AD%90%E5%90%BC%E4%BD%9B%E5%AD%B8%E5%B0%88%E7%AB%99%E7%B0%A1%E4%BB%8B>`_ 」「 `阿含藏專案列表 <http://buddhaspace.org/main/modules/dokuwiki/>`_ 」
+
+  * `雜阿含經 <http://buddhaspace.org/agama/>`__ 、 
+  * `中阿含經 <http://buddhaspace.org/agama2/>`__ 、
+  * `增壹阿含經 <http://buddhaspace.org/agama1/>`__ 
+
+- `CBETA <http://www.cbeta.org/>`__ 
+
+  * `雜阿含經 <http://tripitaka.cbeta.org/T02n0099>`__ （ **50 卷本** ，劉宋　求那跋陀羅　譯）、 
+  * `別譯雜阿含經 <http://tripitaka.cbeta.org/T02n0100>`__ （失譯，16 卷本）、
+  * `雜阿含經 <http://tripitaka.cbeta.org/T02n0101>`__ （失譯， **單卷本** ）、
+  * `中阿含經 <http://tripitaka.cbeta.org/T01n0026>`__ （東晉　瞿曇 僧伽提婆　譯，共 60 卷）、
+  * `增壹阿含經 <http://tripitaka.cbeta.org/T02n0125>`__ （東晉　瞿曇 僧伽提婆　譯，共 51 卷）、 
+  * `長阿含經 <http://tripitaka.cbeta.org/T01n0001>`__ （後秦　佛陀耶舍　共　竺佛念　譯，共 22 卷） 
 
 - “藏經閣外的掃葉人”網誌-- 【 `台語與佛典 <http://yifertw.blogspot.tw/>`_ 】
 
@@ -291,10 +300,16 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
   * `別譯雜阿含經 <http://yifertw.blogspot.tw/search/label/%E9%9B%9C%E9%98%BF%E5%90%AB%E8%AE%80%E6%9B%B8%E6%9C%83>`__ ( 「別譯雜阿含經」標籤)、
   * `單卷本與二十卷本雜阿含經 <http://yifertw.blogspot.tw/search/label/%E5%96%AE%E5%8D%B7%E6%9C%AC%E8%88%87%E4%BA%8C%E5%8D%81%E5%8D%B7%E6%9C%AC%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93>`__ ( 「單卷本與二十卷本雜阿含經」標籤)、
+
   * `漢巴對照讀書會 <http://yifertw.blogspot.tw/search/label/%E6%BC%A2%E5%B7%B4%E5%B0%8D%E7%85%A7%E8%AE%80%E6%9B%B8%E6%9C%83>`_ (「漢巴對照讀書會」標籤)、
+
+  * `中阿含讀書會 <http://yifertw.blogspot.tw/search/label/%E4%B8%AD%E9%98%BF%E5%90%AB%E8%AE%80%E6%9B%B8%E6%9C%83>`__ (中阿含讀書會 標籤)、
+  * `增支部尼柯耶讀書會 <http://yifertw.blogspot.tw/search/label/%E5%A2%9E%E6%94%AF%E9%83%A8%E5%B0%BC%E6%9F%AF%E8%80%B6%E8%AE%80%E6%9B%B8%E6%9C%83>`__ (「增支部尼柯耶讀書會」標籤)、
+  * `增一阿含讀書會 <http://yifertw.blogspot.tw/search/label/%E5%A2%9E%E4%B8%80%E9%98%BF%E5%90%AB%E8%AE%80%E6%9B%B8%E6%9C%83>`__ (「增一阿含讀書會」標籤)、
+
+  * `阿含字典 <http://yifertw.blogspot.tw/search/label/%E9%98%BF%E5%90%AB%E5%AD%97%E5%85%B8>`_ (「阿含字典」標籤)
   * `佛光阿含藏 <http://yifertw.blogspot.tw/search/label/%E4%BD%9B%E5%85%89%E9%98%BF%E5%90%AB%E8%97%8F>`_ (「佛光阿含藏」標籤)、
   * `佛典校勘 <http://yifertw.blogspot.tw/search/label/%E4%BD%9B%E5%85%B8%E6%A0%A1%E5%8B%98>`_ (「佛典校勘」標籤)、 
-  * `阿含字典 <http://yifertw.blogspot.tw/search/label/%E9%98%BF%E5%90%AB%E5%AD%97%E5%85%B8>`_ (「阿含字典」標籤)
 
 - `漢文古籍譯註與數位編輯的研究 <http://buddhistinformatics.dila.edu.tw/BZA/index_zh.html>`_ ──以巴利語與漢文《別譯雜阿含經》（T.100）的版本比對與英譯為例
 
@@ -340,6 +355,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  12.30 add: 國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」:雜阿含經、中阿含經 、增壹阿含經；CBETA:雜阿含經 （ 50 卷本 ，劉宋　求那跋陀羅　譯）、別譯雜阿含經 （失譯，16 卷本）、雜阿含經 （失譯， 單卷本 ）、中阿含經 （東晉　瞿曇 僧伽提婆　譯，共 60 卷）、增壹阿含經 （東晉　瞿曇 僧伽提婆　譯，共 51 卷）、長阿含經 （後秦　佛陀耶舍　共　竺佛念　譯，共 22 卷）;台語與佛典: 中阿含讀書會 、增支部尼柯耶讀書會、增一阿含讀書會; del:整部（不分章）
   12.29 add: Diṭṭhi-saṃyuttaṃ 見相應(2 translation 莊春江、蕭式球)
   12.20 add: Khandha-saṃyuttaṃ 蘊相應(2 translation 莊春江、蕭式球)
   12.10 add: Lābhasakkāra-saṃyuttaṃ 利得與供養相應(2 translation 莊春江、蕭式球)
