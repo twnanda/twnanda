@@ -2,7 +2,7 @@ Diṭṭhi-saṃyuttaṃ 見相應, Views (巴利三藏 相應部)
 ###################################################
 
 :date: 2017-12-29
-:modified: 2017-12-29
+:modified: 2017-12-30
 :tags: 巴利三藏相應部, 見相應, Diṭṭhi-saṃyutta, Diṭṭhisaṃyutta, Views
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Diṭṭhi-saṃyuttaṃ 見相應, Views
@@ -285,6 +285,12 @@ Catutthagamanavaggo 第四程品
 
 ------
 
+- `什麼是_六見處 <http://buddhaspace.org/main/modules/dokuwiki/agama:%E4%BB%80%E9%BA%BC%E6%98%AF_%E5%85%AD%E8%A6%8B%E8%99%95>`__ (國立臺灣大學 「 `獅子吼佛學專站 <http://buddhaspace.org/main/modules/dokuwiki/agama:%E5%8F%B0%E5%A4%A7%E7%8D%85%E5%AD%90%E5%90%BC%E4%BD%9B%E5%AD%B8%E5%B0%88%E7%AB%99%E7%B0%A1%E4%BB%8B>`__ )
+
+- `七漏斷、十六疑、十八愛行、六見 <http://yifertw.blogspot.tw/2012/03/blog-post_04.html>`__ (【修正】， `台語與佛典 <http://yifertw.blogspot.tw/>`__ )
+
+------
+
 - `見相應對讀 <{filename}sn24-ditthi-samyutta-parallel-reading%zh.rst>`__ 
 
 - `Saṃyuttanikāya 巴利大藏經 經藏 相應部 <{filename}samyutta-nikaaya%zh.rst>`__
@@ -304,6 +310,7 @@ Catutthagamanavaggo 第四程品
 
 
 ..
+  12.30 add: 什麼是_六見處 (臺大 「 獅子吼佛學專站 ) & 七漏斷、十六疑、十八愛行、六見 (台語與佛典 )
   12.29 finish 莊春江、蕭式球 & 12.20 upload
 
   bak: mul0.xml>`__ (CSCD) [1]_ , (如何)渡瀑流, S i 1 (PTS page), 1. 1. 1, SN 1
