@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2017-12-30
+:modified: 2017-12-31
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應部尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -156,11 +156,11 @@ Khandhavagga 犍度篇
 
 - 24.) `Diṭṭhi-saṃyuttaṃ 見相應 <{filename}sn24-ditthi-samyutta%zh.rst>`__ (96 經, Views)
 
-- 25.) `Okkanta-saṃyuttaṃ 入相應 <{filename}sn25-okkanta-samyutta%zh.rst>`__ (建構中 under construction; 10 經, Recurring)
+- 25.) `Okkanta-saṃyuttaṃ 入相應 <{filename}sn25-okkanta-samyutta%zh.rst>`__ (10 經, Recurring)
 
-- 26.) `Uppāda-saṃyuttaṃ 生相應 <{filename}sn26-uppada-samyutta%zh.rst>`__ (建構中 under construction; 10 經, Arising)
+- 26.) `Uppāda-saṃyuttaṃ 生相應 <{filename}sn26-uppada-samyutta%zh.rst>`__ (10 經, Arising)
 
-- 27.) `Kilesa-saṃyuttaṃ 雜染相應 <{filename}sn27-kilesa-samyutta%zh.rst>`__ (建構中 under construction; 10 經, 煩惱相應, Defilements)
+- 27.) `Kilesa-saṃyuttaṃ 雜染相應 <{filename}sn27-kilesa-samyutta%zh.rst>`__ (10 經, 煩惱相應, Defilements)
 
 - 28.) `Sāriputta-saṃyuttaṃ 舍利弗相應 <{filename}sn28-sariputta-samyutta%zh.rst>`__ (建構中 under construction; 10 經, 舍利弗尊者相應, Ven. Sariputta)
 
@@ -355,6 +355,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  12.31 add: Okkanta-saṃyuttaṃ 入相應、Uppāda-saṃyuttaṃ 生相應、Kilesa-saṃyuttaṃ 雜染相應
   12.30 add: 國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」:雜阿含經、中阿含經 、增壹阿含經；CBETA:雜阿含經 （ 50 卷本 ，劉宋　求那跋陀羅　譯）、別譯雜阿含經 （失譯，16 卷本）、雜阿含經 （失譯， 單卷本 ）、中阿含經 （東晉　瞿曇 僧伽提婆　譯，共 60 卷）、增壹阿含經 （東晉　瞿曇 僧伽提婆　譯，共 51 卷）、長阿含經 （後秦　佛陀耶舍　共　竺佛念　譯，共 22 卷）;台語與佛典: 中阿含讀書會 、增支部尼柯耶讀書會、增一阿含讀書會; del:整部（不分章）
   12.29 add: Diṭṭhi-saṃyuttaṃ 見相應(2 translation 莊春江、蕭式球)
   12.20 add: Khandha-saṃyuttaṃ 蘊相應(2 translation 莊春江、蕭式球)
