@@ -2,8 +2,8 @@
 ##########################################################################################################################
 
 :date: 2017-12-10
-:modified: 2017-12-10
-:tags: 巴利三藏相應部, 利得與供養相應對讀, 利得恭敬相應對讀, Parallel Reading, Lābhasakkāra-saṃyutta, Gains and tribute
+:modified: 2018-01-01
+:tags: 巴利三藏相應部, 利得與供養相應對讀, 利得恭敬相應對讀, 利得與供養相應, 利得恭敬相應, Parallel Reading, Lābhasakkārasaṃyutta, Lābhasakkāra-saṃyutta, Gains and tribute
 :category: 巴利三藏相應部
 :summary: 利得與供養相應對讀, 利得恭敬相應對讀 (巴利三藏 相應部) Parallel Reading of Lābhasakkāra-saṃyuttaṃ (Gains and tribute)
 
@@ -1262,5 +1262,6 @@ Catutthavaggo 第四品
 
 
 ..
+  01.01 2018 add: tag of 利得恭敬相應 & 利得恭敬相應
   12.10 finish 莊春江、蕭式球 & upload
   create on 2017.12.10

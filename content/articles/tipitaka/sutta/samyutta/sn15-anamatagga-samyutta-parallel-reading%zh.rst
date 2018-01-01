@@ -2,8 +2,8 @@
 ##############################################################################################################################################
 
 :date: 2017-12-09
-:modified: 2017-12-09
-:tags: 巴利三藏相應部, 無始相應對讀, Parallel Reading, Anamatagga-saṃyutta, The unimaginable beginnings of samsara and transmigration
+:modified: 2018-01-01
+:tags: 巴利三藏相應部, 無始相應對讀, 無始相應, Parallel Reading, Anamataggasaṃyutta, Anamatagga-saṃyutta, The unimaginable beginnings of samsara and transmigration
 :category: 巴利三藏相應部
 :summary: 無始相應對讀 (巴利三藏 相應部) Parallel Reading of Anamatagga-saṃyuttaṃ (The unimaginable beginnings of samsara and transmigration)
 
@@ -1179,5 +1179,6 @@ Dutiyavaggo 第二 第二品
 
 
 ..
+  01.01 2018 add: tag of 無始相應
   12.09 finish 莊春江、蕭式球 & upload
   create on 2017.12.08

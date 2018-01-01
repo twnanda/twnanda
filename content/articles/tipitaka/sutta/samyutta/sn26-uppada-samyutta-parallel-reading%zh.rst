@@ -1,8 +1,8 @@
-生(生起)相應對讀 (巴利三藏 相應部) Parallel Reading of Uppāda-saṃyuttaṃ (Arising)
-#####################################################################################
+生 (生起) 相應對讀 (巴利三藏 相應部) Parallel Reading of Uppāda-saṃyuttaṃ (Arising)
+#######################################################################################
 
 :date: 2017-12-31
-:modified: 2017-12-31
+:modified: 2018-01-01
 :tags: 巴利三藏相應部, 生起相應對讀, 生相應對讀, 生起相應, 生相應, Parallel Reading, Uppādasaṃyuttaṃ, Uppāda-saṃyuttaṃ, Arising
 :category: 巴利三藏相應部
 :summary: 生(生起)相應對讀 (巴利三藏 相應部) Parallel Reading of Uppāda-saṃyuttaṃ (Arising)
@@ -483,5 +483,6 @@
 .. [3] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） → 5.1.3.相應部： `26 生起相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=505>`__ 
 
 ..
+  01.01 2018 add: tag of 生相應 & 生起相應
   12.31 finish 莊春江、蕭式球 & upload
   create on 2017.12.31

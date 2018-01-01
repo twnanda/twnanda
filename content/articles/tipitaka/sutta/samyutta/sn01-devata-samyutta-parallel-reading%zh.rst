@@ -2,8 +2,8 @@
 ######################################################################
 
 :date: 2017-08-22
-:modified: 2017-10-16
-:tags: 巴利三藏相應部, 諸天相應對讀, Parallel Reading, Devatā-saṃyutta, Devatāsaṃyutta, Devas
+:modified: 2018-01-01
+:tags: 巴利三藏相應部, 諸天相應對讀, 諸天相應, Parallel Reading, Devatā-saṃyutta, Devatāsaṃyutta, Devas
 :category: 巴利三藏相應部
 :summary: 諸天相應對讀 Parallel Reading of Devatā-saṃyutta (巴利三藏 相應部) (Devas 諸天)
 
@@ -8781,6 +8781,7 @@ Chetvā-Vaggo 第八 斷品
 
 
 ..
+  01.01 2018 add: tag of 諸天相應
   10.16 make & upload (英譯 Sister Upalavanna)
   10.13 make & upload (英譯 WP, Ven. Bhikkhu Bodhi)
   10.05 make & upload (元亨寺版)

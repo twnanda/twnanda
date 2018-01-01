@@ -2,8 +2,8 @@
 ###############################################################################
 
 :date: 2017-12-07
-:modified: 2017-12-07
-:tags: 巴利三藏相應部, 界相應對讀, Parallel Reading, Dhātu-saṃyutta, Elements
+:modified: 2018-01-01
+:tags: 巴利三藏相應部, 界相應對讀, 界相應, Parallel Reading, Dhātusaṃyutta, Dhātu-saṃyutta, Elements
 :category: 巴利三藏相應部
 :summary: 界相應對讀 (巴利三藏 相應部) Parallel Reading of Dhātu-saṃyuttaṃ (Elements)
 
@@ -2321,5 +2321,6 @@ Catutthavaggo 第四 第四品
 
 
 ..
+  01.01 2018 add: tag of 界相應
   12.07 finish 莊春江、蕭式球 & upload
   create on 2017.12.06

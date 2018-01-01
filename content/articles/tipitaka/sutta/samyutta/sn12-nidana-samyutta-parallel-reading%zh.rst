@@ -2,8 +2,8 @@
 ##############################################################################################################
 
 :date: 2017-11-30
-:modified: 2017-11-30
-:tags: 巴利三藏相應部, 因緣相應對讀, Parallel Reading, Nidāna-saṃyutta, Nidānasaṃyutta, Paticcasamuppada, dependent co-arising
+:modified: 2018-01-01
+:tags: 巴利三藏相應部, 因緣相應對讀, 因緣相應, Parallel Reading, Nidāna-saṃyutta, Nidānasaṃyutta, Paticcasamuppada, dependent co-arising
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部因緣相應對讀（Parallel Reading of Nidāna-saṃyutta, Paticcasamuppada (dependent co-arising)） 
 
@@ -10354,5 +10354,6 @@ Antarapeyyāla-Vaggo 第九 中間中略品
 .. [SN01-Rhys-01] 
 
 ..
+  01.01 2018 add: tag of 因緣相應
   11.30 finish 莊春江、蕭式球、元亨寺 & upload
   create on 2017.10.22

@@ -1,11 +1,11 @@
-入相應對讀 (巴利三藏 相應部) Parallel Reading of Okkanta-saṃyuttaṃ (Recurring)
-#################################################################################
+入相應對讀(入法相應對讀) (巴利三藏 相應部) Parallel Reading of Okkanta-saṃyuttaṃ (Recurring)
+###############################################################################################
 
 :date: 2017-12-31
-:modified: 2017-12-31
-:tags: 巴利三藏相應部, 入相應對讀, Parallel Reading, Okkantasaṃyuttaṃ, Okkanta-saṃyuttaṃ, Recurring
+:modified: 2018-01-01
+:tags: 巴利三藏相應部, 入相應對讀, 入法相應對讀, 入相應, 入法相應, Parallel Reading, Okkantasaṃyuttaṃ, Okkanta-saṃyuttaṃ, Recurring
 :category: 巴利三藏相應部
-:summary: 入相應對讀 (巴利三藏 相應部) Parallel Reading of Okkanta-saṃyuttaṃ (Recurring)
+:summary: 入相應對讀(入法相應對讀) (巴利三藏 相應部) Parallel Reading of Okkanta-saṃyuttaṃ (Recurring)
 
 Okkanta-saṃyuttaṃ 入相應, Recurring 
 
@@ -370,5 +370,6 @@ Okkanta-saṃyuttaṃ 入相應, Recurring
 .. [3] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） → 5.1.3.相應部： `25 入法相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=504>`__ 
 
 ..
+  01.01 2018 add: title--入法相應對讀; tag of 入相應, 入法相應
   12.31 finish 莊春江、蕭式球 & upload
   create on 2017.12.31

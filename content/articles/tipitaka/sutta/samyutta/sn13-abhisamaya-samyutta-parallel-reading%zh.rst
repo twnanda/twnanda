@@ -1,9 +1,9 @@
-現觀相應對讀 (巴利三藏 相應部) Parallel Reading of Abhisamaya-saṃyuttaṃ (Realization)
-########################################################################################
+現觀相應對讀 (通達相應對讀) (巴利三藏 相應部) Parallel Reading of Abhisamaya-saṃyuttaṃ (Realization)
+#######################################################################################################
 
 :date: 2017-12-06
-:modified: 2017-12-06
-:tags: 巴利三藏相應部, 現觀相應對讀, Parallel Reading, Abhisamaya-saṃyutta, Realization
+:modified: 2018-01-01
+:tags: 巴利三藏相應部, 現觀相應對讀, 通達相應對讀, 現觀相應, 通達相應, Parallel Reading, Abhisamaya-saṃyutta, Abhisamaya-saṃyutta, Realization
 :category: 巴利三藏相應部
 :summary: 現觀相應對讀 (巴利三藏 相應部) Parallel Reading of Abhisamaya-saṃyuttaṃ (Realization
 
@@ -470,5 +470,6 @@
 
 
 ..
+  01.01 2018 add: title of 通達相應對讀 & tag of 現觀相應, 通達相應
   12. finish 莊春江、蕭式球 & upload
   create on 2017.12.06

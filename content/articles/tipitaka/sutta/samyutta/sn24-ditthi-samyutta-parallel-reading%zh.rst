@@ -2,8 +2,8 @@
 ##########################################################################
 
 :date: 2017-12-29
-:modified: 2017-12-30
-:tags: 巴利三藏相應部, 見相應對讀, Parallel Reading, Diṭṭhi-saṃyutta, Views
+:modified: 2018-01-01
+:tags: 巴利三藏相應部, 見相應對讀, 見相應, Parallel Reading, Diṭṭhisaṃyutta, Diṭṭhi-saṃyutta, Views
 :category: 巴利三藏相應部
 :summary: 見相應對讀 (巴利三藏 相應部) Parallel Reading of Diṭṭhi-saṃyuttaṃ (Views)
 
@@ -2463,6 +2463,7 @@ Catutthagamanavaggo 第四程品
 
 
 ..
+  01.01 2018 add: tag of 見相應
   12.30 add: 什麼是_六見處 (臺大 「 獅子吼佛學專站 ) & 七漏斷、十六疑、十八愛行、六見 (台語與佛典 )
   12.29 finish 莊春江、蕭式球 & upload
   create on 2017.12.28

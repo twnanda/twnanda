@@ -2,8 +2,8 @@
 ###############################################################################################
 
 :date: 2017-12-20
-:modified: 2017-12-25
-:tags: 巴利三藏相應部, 蘊相應對讀, Parallel Reading, Khandha-saṃyutta, The clinging-aggregates
+:modified: 2018-01-01
+:tags: 巴利三藏相應部, 蘊相應對讀, 蘊相應, Parallel Reading, Khandhasaṃyutta, Khandha-saṃyutta, The clinging-aggregates
 :category: 巴利三藏相應部
 :summary: 蘊相應對讀 (巴利三藏 相應部) Parallel Reading of Khandha-saṃyuttaṃ (The clinging-aggregates)
 
@@ -11926,6 +11926,7 @@ Diṭṭhivaggo 見品
 
 
 ..
+  01.01 2018 add: tag of 蘊相應
   12.25 add: linking of SN 22. 57 多版本對讀與研究
   12.23 rev. footnote 3
   12.20 finish 莊春江、蕭式球 & upload
