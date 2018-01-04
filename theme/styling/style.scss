@@ -240,3 +240,21 @@ img.align-center {
   margin-top: 2em;
   margin-bottom: 2em;
 }
+
+// for notes of texts
+strong {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.invisible {
+    display: none;
+}
+
+.tooltip {
+    position: absolute;
+    background-color: yellow;
+    border: 1px gray solid;
+    border-radius: 3px;
+    padding: 3px;
+}

@@ -5,7 +5,7 @@
 # https://developers.google.com/closure/compiler/docs/api-tutorial2
 import httplib, urllib
 
-allJS = ["tongwen_core.js", "tongwen_table_ps2t.js", "tongwen_table_pt2s.js", "tongwen_table_s2t.js", "tongwen_table_t2s.js", "nanda.js"]
+allJS = ["tongwen_core.js", "tongwen_table_ps2t.js", "tongwen_table_pt2s.js", "tongwen_table_s2t.js", "tongwen_table_t2s.js", "notes.js", "nanda.js"]
 
 def combineJS():
     js_code = ""

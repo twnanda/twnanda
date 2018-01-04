@@ -38,6 +38,40 @@ fs.onclick = function() {
   }
 }
 
+// 在單詞上顯示解釋
+// create and append invisible tooltip to DOM tree
+var tooltip = document.createElement("div");
+tooltip.classList.add("tooltip");
+tooltip.classList.add("invisible");
+document.querySelector("body").appendChild(tooltip);
+
+// event handler for mouseenter event of italic text
+function ShowTooltip(e) {
+  var elm = e.target;
+  var key = elm.textContent;
+  if (notes.hasOwnProperty(key)) {
+    tooltip.textContent = notes[key];
+    tooltip.style.left = elm.getBoundingClientRect().left + window.pageXOffset + 'px';
+    tooltip.style.top = (elm.getBoundingClientRect().top + window.pageYOffset + elm.offsetHeight + 5) + 'px';
+    tooltip.classList.remove("invisible");
+  }
+}
+
+// event handler for mouseleave event of italic text
+function HideTooltip(e) {
+  tooltip.classList.add("invisible");
+}
+
+// select all bold texts and attach mouseenter and mouseleave event handler
+function SetupNotes() {
+  var strongs = document.querySelectorAll("strong");
+  for (var i = 0; i < strongs.length; ++i) {
+    var strong = strongs[i];
+    strong.addEventListener("mouseenter", ShowTooltip);
+    strong.addEventListener("mouseleave", HideTooltip);
+  }
+}
+
 // 對讀
 var tables = document.getElementsByClassName("contrast-reading-table");
 var trs = tables[0].getElementsByTagName("tr");
@@ -97,6 +131,7 @@ createInputCheck();
 createCRTableHeading(crtable);
 createCRTableContent(crtable);
 show.appendChild(crtable);
+SetupNotes();
 
 function inputCheckChange() {
 	show.removeChild(crtable);
@@ -104,4 +139,5 @@ function inputCheckChange() {
 	createCRTableHeading(crtable);
 	createCRTableContent(crtable);
 	show.appendChild(crtable);
+	SetupNotes();
 }
