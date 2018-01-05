@@ -5,6 +5,11 @@ export PATH := $(GOROOT)/bin:$(GOPATH)/bin:$(PATH)
 URL=http://nanda.online-dhamma.net/Tipitaka/Sutta/Digha/dn.16-SiuSK.html
 UTF8HTML=/tmp/utf8-$(notdir ${URL})
 
+
+notes: fmt
+	@echo "\033[92mProcessing notes from http://agama.buddhason.org ...\033[0m"
+	@go run notesAgama.go
+
 parse:
 	@go run parseSiuSK.go -input=tmp.txt -output=out.txt
 
