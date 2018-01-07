@@ -3,14 +3,14 @@
 =========
 
 :date: 2005-05-01
-:modified: 2017-07-05
+:modified: 2018-01-07
 :tags: 訊息公告
 :category: 未分類
 :summary: 訊息公告
 
 - `多語言巴利藏閱讀 <http://tipitaka.sutta.org/>`_ (Updated:06.22 '13)、
 
-- `巴利字典 <http://dictionary.sutta.org/>`_ -- 、巴利-英文、中文、日文、越南文、緬甸文 字典(Updated:06.22 '13)
+- `巴利字典 <http://dictionary.sutta.org/>`_ -- 巴利-英文、中文、日文、越南文、緬甸文 字典(Updated:06.22 '13)
 
 - `呼籲安全地保存佛陀的舍利 <{filename}/extra/relics-of-the-buddha/Relics_of_the_Buddha.html>`_ (07.05 '07)
 
@@ -25,6 +25,8 @@
   * `工作細項 <https://docs.google.com/document/d/1jwctudL6MbW7E1dkWtCzSZDK1qzMNFF_kRU_KrNCQMY/pub>`__
 
 -----
+
+- 2018龍樹林僧團 `法寂禪林 <http://www.buddhadipa.tw/>`__ `禪修營04.05~04.18日 <http://www.buddhadipa.tw/>`__ ；2018 `短期出家報名表 <http://www.buddhadipa.tw/2018.04.05_04.18%E7%9F%AD%E6%9C%9F%E5%87%BA%E5%AE%B6%E7%A6%AA%E4%BF%AE%E5%A0%B1%E5%90%8D%E8%A1%A8.docx>`__ ，2018 `禪修者和法工報名表 <http://www.buddhadipa.tw/2018.04.05_04.18%E6%B3%95%E5%AF%82%E7%A6%AA%E6%9E%97%E7%A6%AA%E4%BF%AE%E5%A0%B1%E5%90%8D%E8%A1%A8.docx>`__ (docx 檔)； `報到通知書含交通路線 <http://www.buddhadipa.tw/2018%E6%B3%95%E5%AF%82%E7%A6%AA%E6%9E%97%E7%A6%AA%E4%BF%AE%E7%87%9F__%E5%A0%B1%E5%88%B0%E9%80%9A%E7%9F%A5%E6%9B%B8%E5%90%AB%E8%B7%AF%E7%B7%9A%E5%9C%96.doc>`__  (doc 檔)。 (Updated:01.07 '18)
 
 - `烏‧ 悉臘禪師（Sayadaw U Sila）禪修通告(元亨禪修營) <http://myweb.ncku.edu.tw/~lsn46/announce.html#meditation-Jun2017>`_
 
@@ -64,9 +66,10 @@
 
 ------
 
-資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2560; (07.05, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2017 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
+資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2561; (01.07, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2018 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 ..
+  01.07 2018 add:2018龍樹林僧團 法寂禪林 禪修營04.05~04.18日 
   07.05 del: 慈濟瓦禪師 (Bhante Sujiva) 佛法講座通告-- `慈濟瓦禪師 (Bhante Sujiva) 佛法講座通告 <http://myweb.ncku.edu.tw/~lsn46/announce.html#dhamma-talk-Apr>`_; move down 烏‧悉臘禪師（Sayadaw U Sila）禪修通告(元亨禪修營)
   03.12 2017 make rst; 
   03.07 add: 元亨寺：　106年度元亨「喜滿禪心」之禪修營報名表（.doc，與上同 & 元亨推廣教育中心（ 106年度元亨「喜滿禪心」之禪修營DM，與右圖雷同）協辦單位：元亨寺、元亨佛學院 (連結)
