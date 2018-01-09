@@ -39,10 +39,24 @@ fs.onclick = function() {
 }
 
 // 在單詞上顯示解釋
+// indicate if the mouse cursor is in the tooltip
+var isCursorInTooltip = false;
+
+// when cursor leaves the text, the delay time to close the tooltip if the
+// cursor is not in the tooltip. (milisecond)
+var delay = 250;
+
 // create and append invisible tooltip to DOM tree
 var tooltip = document.createElement("div");
 tooltip.classList.add("tooltip");
 tooltip.classList.add("invisible");
+tooltip.addEventListener("mouseenter", function() {
+  isCursorInTooltip = true;
+});
+tooltip.addEventListener("mouseleave", function() {
+  isCursorInTooltip = false;
+  tooltip.classList.add("invisible");
+});
 document.querySelector("body").appendChild(tooltip);
 
 // event handler for mouseenter event of italic text
@@ -59,7 +73,11 @@ function ShowTooltip(e) {
 
 // event handler for mouseleave event of italic text
 function HideTooltip(e) {
-  tooltip.classList.add("invisible");
+  setTimeout(function() {
+    if (!isCursorInTooltip) {
+      tooltip.classList.add("invisible");
+    }
+  }, delay);
 }
 
 // select all bold texts and attach mouseenter and mouseleave event handler
