@@ -69,6 +69,73 @@ function TextToLink(elm) {
     }
     return str1;
   });
+
+        http://agama.buddhason.org/SN/sn.js
+	elm.innerHTML=elm.innerHTML.replace(/《雜阿含(\d+)經》/g, function(word,str1)
+	{
+		var mynum = "0000" + str1.toString();
+		mynum = mynum.replace(/^.*(\d\d\d\d)/,"$1");
+		mynum = '《<a href="http://agama.buddhason.org/SA/SA' + mynum + '.htm" target="_blank">雜阿含' + str1.toString() + '經</a>》';
+  		return mynum;
+  	}
+	);
+	elm.innerHTML=elm.innerHTML.replace(/《相應部(\d+)經》/g, function(word,str1)
+	{
+		var mynum = "0000" + str1.toString();
+		mynum = mynum.replace(/^.*(\d\d\d\d)/,"$1");
+		mynum = '《<a href="http://agama.buddhason.org/SN/SN' + mynum + '.htm" target="_blank">相應部' + str1.toString() + '經</a>》';
+  		return mynum;
+  	}
+	);
+	elm.innerHTML=elm.innerHTML.replace(/《中阿含(\d+)經》/g, function(word,str1)
+	{
+		var mynum = "000" + str1.toString();
+		mynum = mynum.replace(/^.*(\d\d\d)/,"$1");
+		mynum = '《<a href="http://agama.buddhason.org/MA/MA' + mynum + '.htm" target="_blank">中阿含' + str1.toString() + '經</a>》';
+  		return mynum;
+  	}
+	);
+	elm.innerHTML=elm.innerHTML.replace(/《中部(\d+)經》/g, function(word,str1)
+	{
+		var mynum = "000" + str1.toString();
+		mynum = mynum.replace(/^.*(\d\d\d)/,"$1");
+		mynum = '《<a href="http://agama.buddhason.org/MN/MN' + mynum + '.htm" target="_blank">中部' + str1.toString() + '經</a>》';
+  		return mynum;
+  	}
+	);
+	elm.innerHTML=elm.innerHTML.replace(/《長阿含(\d+)經》/g, function(word,str1)
+	{
+		var mynum = "00" + str1.toString();
+		mynum = mynum.replace(/^.*(\d\d)/,"$1");
+		mynum = '《<a href="http://agama.buddhason.org/DA/DA' + mynum + '.htm" target="_blank">長阿含' + str1.toString() + '經</a>》';
+  		return mynum;
+  	}
+	);
+	elm.innerHTML=elm.innerHTML.replace(/《長部(\d+)經》/g, function(word,str1)
+	{
+		var mynum = "00" + str1.toString();
+		mynum = mynum.replace(/^.*(\d\d)/,"$1");
+		mynum = '《<a href="http://agama.buddhason.org/DN/DN' + mynum + '.htm" target="_blank">長部' + str1.toString() + '經</a>》';
+  		return mynum;
+  	}
+	);
+	elm.innerHTML=elm.innerHTML.replace(/《增壹阿含(\d+)經》/g, function(word,str1)
+	{
+		var mynum = "000" + str1.toString();
+		mynum = mynum.replace(/^.*(\d\d\d)/,"$1");
+		mynum = '《<a href="http://agama.buddhason.org/AA/AA' + mynum + '.htm" target="_blank">增壹阿含' + str1.toString() + '經</a>》';
+  		return mynum;
+  	}
+	);
+	elm.innerHTML=elm.innerHTML.replace(/《增支部(\d+)經》/g, function(word,str1)
+	{
+		var mynum = "0000" + str1.toString();
+		mynum = mynum.replace(/^.*(\d\d\d\d)/,"$1");
+		mynum = '《<a href="http://agama.buddhason.org/AN/AN' + mynum + '.htm" target="_blank">增支部' + str1.toString() + '經</a>》';
+  		return mynum;
+  	}
+	);
+
 }
 
 // event handler for mouseenter event of italic text
