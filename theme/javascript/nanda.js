@@ -59,12 +59,25 @@ tooltip.addEventListener("mouseleave", function() {
 });
 document.querySelector("body").appendChild(tooltip);
 
+// 將註釋裡某些字變成連結
+function TextToLink(elm) {
+  elm.innerHTML = elm.innerHTML.replace(/〈(.+)〉/g, function(text, str1) {
+    if (textToUrlMapping.hasOwnProperty(str1)) {
+      return '〈<a href="'+ textToUrlMapping[str1] +
+             '" target="_blank">' + str1 +
+             '</a>〉';
+    }
+    return str1;
+  });
+}
+
 // event handler for mouseenter event of italic text
 function ShowTooltip(e) {
   var elm = e.target;
   var key = elm.textContent;
   if (notes.hasOwnProperty(key)) {
     tooltip.textContent = notes[key];
+    TextToLink(tooltip);
     tooltip.style.left = elm.getBoundingClientRect().left + window.pageXOffset + 'px';
     tooltip.style.top = (elm.getBoundingClientRect().top + window.pageYOffset + elm.offsetHeight + 5) + 'px';
     tooltip.classList.remove("invisible");
