@@ -70,7 +70,7 @@ function TextToLink(elm) {
     return str1;
   });
 
-        http://agama.buddhason.org/SN/sn.js
+        // From http://agama.buddhason.org/SN/sn.js
 	elm.innerHTML=elm.innerHTML.replace(/《雜阿含(\d+)經》/g, function(word,str1)
 	{
 		var mynum = "0000" + str1.toString();
