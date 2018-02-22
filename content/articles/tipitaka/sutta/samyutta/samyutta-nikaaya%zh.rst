@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2018-01-11
+:modified: 2018-02-22
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -206,7 +206,7 @@ Khandhavagga 犍度篇
 Saḷāyatanavagga 六處篇
 -----------------------
 
-- 35.) `Saḷāyatana-saṃyuttaṃ 六處相應 <{filename}sn35-salayatana-samyutta%zh.rst>`__ (建構中 under construction; 248 經 or 207 經, The six senses)
+- 35.) `Saḷāyatana-saṃyuttaṃ 六處相應 <{filename}sn35-salayatana-samyutta%zh.rst>`__ (248 經 or 207 經, The six senses)
 
 - 36.) `Vedanā-saṃyuttaṃ 受相應 <{filename}sn36-vedana-samyutta%zh.rst>`__ (31 經 or 29經, Feeling)
 
@@ -371,6 +371,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  02.22 add: Saḷāyatana-saṃyuttaṃ 六處相應-- 莊春江
   2018 01.11 add: 相應部簡表(from 相應部old file); anchor for each vagga
         rev. tag: old:相應部尼柯耶
   12.31 add: Okkanta-saṃyuttaṃ 入相應、Uppāda-saṃyuttaṃ 生相應、Kilesa-saṃyuttaṃ 雜染相應

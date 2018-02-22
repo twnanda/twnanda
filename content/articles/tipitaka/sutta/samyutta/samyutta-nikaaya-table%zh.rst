@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部簡表 (Table of The Book of K
 #############################################################################################################
 
 :date: 2004-07-31
-:modified: 2018-01-11
+:modified: 2018-02-22
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部  
 :category: 巴利三藏相應部
@@ -213,7 +213,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部簡表 (Table of The Book of K
 
   * - 35
     - saḷāyatanasaṃyuttaṃ
-    - 六處相應
+    - 六處相應 <{filename}sn35-salayatana-samyutta%zh.rst>`__ 
     - The six senses
     - (207經)
   * - 36
@@ -336,6 +336,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部簡表 (Table of The Book of K
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  02.22 add: Saḷāyatana-saṃyuttaṃ 六處相應-- 莊春江
   2018.01.11 rev. 改名為"相應部簡表"; 與(詳細條列)之相應部同步
   -- Rev: 02.12 2005
   08.21; 07.31.2004 --
