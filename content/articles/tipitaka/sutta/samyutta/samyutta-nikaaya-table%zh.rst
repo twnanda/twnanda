@@ -213,7 +213,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部簡表 (Table of The Book of K
 
   * - 35
     - saḷāyatanasaṃyuttaṃ
-    - 六處相應 <{filename}sn35-salayatana-samyutta%zh.rst>`__ 
+    - `六處相應 <{filename}sn35-salayatana-samyutta%zh.rst>`__ 
     - The six senses
     - (207經)
   * - 36
