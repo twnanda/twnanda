@@ -3690,7 +3690,7 @@ Gilānavaggo 病人品
        Idamavoca bhagavā. Attamano so bhikkhu bhagavato bhāsitaṃ abhinandi. Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne tassa bhikkhuno virajaṃ vītamalaṃ dhammacakkhuṃ udapādi – ‘‘yaṃ kiñci samudayadhammaṃ, sabbaṃ taṃ nirodhadhamma’’nti. Paṭhamaṃ.
 
    * - 漢譯(莊春江) [2]_
-     - **8.病人品 **
+     - **8.病人品**
 
        相應部35相應74經/ **病人經第一** (處相應/處篇/修多羅)(莊春江譯) 
 
@@ -5700,7 +5700,7 @@ Saḷavaggo 六品
        | Bhavattha [bhavatha (sī. syā. kaṃ.)] jātimaraṇassa pāragā’’ti. paṭhamaṃ;
 
    * - 漢譯(莊春江) [2]_
-     - **10.六品 **
+     - **10.六品**
 
        相應部35相應94經/ **不調御-不護經** (處相應/處篇/修多羅)(莊春江譯) 
 
