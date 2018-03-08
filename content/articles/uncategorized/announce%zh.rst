@@ -3,7 +3,7 @@
 =========
 
 :date: 2005-05-01
-:modified: 2018-01-07
+:modified: 2018-03-08
 :tags: 訊息公告
 :category: 未分類
 :summary: 訊息公告
@@ -25,6 +25,22 @@
   * `工作細項 <https://docs.google.com/document/d/1jwctudL6MbW7E1dkWtCzSZDK1qzMNFF_kRU_KrNCQMY/pub>`__
 
 -----
+
+- **開印長老 - 高雄弘法行**
+
+  * 講師：開印 長老；　地點：十方法界基金會（高市新興區民生一路247號3樓(復興路口)）；　主辦：菩提學園；　報名：許師姐 0972-000-374；　費用：隨 喜
+
+    - 3月21日 (週三)，晚上 7：00~9：00；　　講題：《死亡與再生》
+
+    - 3月22日 (週四)，晚上 7：00~9：00；　　內容：佛法輕鬆談 Q＆A
+
+  * 講師：開印 長老；　主辦、地點：宏法寺（高市新興區仁愛一街302號 (七賢路與八德路之間)）
+
+    - 3月23日 (週五)，早上 9：00~11：00；　　講題：如何令正法久住
+
+　  **~誠摯邀請您參加~**
+
+----
 
 - 2018龍樹林僧團 `法寂禪林 <http://www.buddhadipa.tw/>`__ `禪修營04.05~04.18日 <http://www.buddhadipa.tw/>`__ （內有：2018 短期出家報名表、2018 禪修者和法工報名表 (docx 檔)、報到通知書含交通路線(doc 檔)）。 (Updated:01.07 '18)
 
@@ -66,9 +82,10 @@
 
 ------
 
-資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2561; (01.07, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2018 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
+資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2561; (03.08, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2018 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 ..
+  03.08 add:開印長老-高雄弘法行
   01.07 2018 rev. rm linking of doc; add:2018龍樹林僧團 法寂禪林 禪修營04.05~04.18日 
   07.05 del: 慈濟瓦禪師 (Bhante Sujiva) 佛法講座通告-- `慈濟瓦禪師 (Bhante Sujiva) 佛法講座通告 <http://myweb.ncku.edu.tw/~lsn46/announce.html#dhamma-talk-Apr>`_; move down 烏‧悉臘禪師（Sayadaw U Sila）禪修通告(元亨禪修營)
   03.12 2017 make rst; 
