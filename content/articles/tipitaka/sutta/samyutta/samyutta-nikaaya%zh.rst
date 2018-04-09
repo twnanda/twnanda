@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2018-04-07
+:modified: 2018-04-09
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -224,7 +224,7 @@ Saḷāyatanavagga 六處篇
 
 - 43.) `Asaṅkhata-saṃyuttaṃ 無為相應 <{filename}sn43-asankhata-samyutta%zh.rst>`__ (44 經, The unfashioned (Nibbana))
 
-- 44.) `Abyākata-saṃyuttaṃ 無記相應 <{filename}sn44-abyakata-samyutta%zh.rst>`__ (建構中 under construction; 11 經, 無記說相應, Not designated)
+- 44.) `Abyākata-saṃyuttaṃ 無記相應 <{filename}sn44-abyakata-samyutta%zh.rst>`__ (11 經, 無記說相應, Not designated)
 
 ------
 
@@ -371,6 +371,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  04.09 add: Abyākata-saṃyuttaṃ 無記相應
   04.07 add: 43 Asaṅkhata-saṃyuttaṃ 無為相應
   02.22 add: Saḷāyatana-saṃyuttaṃ 六處相應-- 莊春江
   2018 01.11 add: 相應部簡表(from 相應部old file); anchor for each vagga
