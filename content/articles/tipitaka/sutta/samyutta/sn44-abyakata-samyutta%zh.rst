@@ -30,63 +30,63 @@ Abyākata-saṃyuttaṃ 無記相應, 無記說相應, Not designated (巴利三
 
 - SN 44. 3, `Paṭhamasāriputtakoṭṭhikasuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul9.xml>`__ (CSCD) [1]_ , 
 
-  * ` <http://agama.buddhason.org/SN/SN1187.htm>`__ (莊春江) [2]_ ; `舍利弗——拘絺羅第一（住者） <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
+  * `舍利弗與拘絺羅經第一 <http://agama.buddhason.org/SN/SN1187.htm>`__ (莊春江) [2]_ ; `舍利弗——拘絺羅第一（住者） <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
 
 
 .. _sn44_4:
 
 - SN 44. 4, `Dutiyasāriputtakoṭṭhikasuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul9.xml>`__ (CSCD) [1]_ , 
 
-  * ` <http://agama.buddhason.org/SN/SN1188.htm>`__ (莊春江) [2]_ ; `舍利弗——拘絺羅　第二（生起） <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
+  * `舍利弗與拘絺羅經第二 <http://agama.buddhason.org/SN/SN1188.htm>`__ (莊春江) [2]_ ; `舍利弗——拘絺羅　第二（生起） <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
 
 
 .. _sn44_5:
 
 - SN 44. 5, `Tatiyasāriputtakoṭṭhikasuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul9.xml>`__ (CSCD) [1]_ , 
 
-  * ` <http://agama.buddhason.org/SN/SN1189.htm>`__ (莊春江) [2]_ ; `舍利弗——拘絺羅　第三（愛情） <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
+  * `舍利弗與拘絺羅經第三 <http://agama.buddhason.org/SN/SN1189.htm>`__ (莊春江) [2]_ ; `舍利弗——拘絺羅　第三（愛情） <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
 
 
 .. _sn44_6:
 
 - SN 44. 6, `Catutthasāriputtakoṭṭhikasuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul9.xml>`__ (CSCD) [1]_ , 
 
-  * ` <http://agama.buddhason.org/SN/SN1190.htm>`__ (莊春江) [2]_ ; `舍利弗——拘絺羅　第四（喜悅） <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
+  * `舍利弗與拘絺羅經第四 <http://agama.buddhason.org/SN/SN1190.htm>`__ (莊春江) [2]_ ; `舍利弗——拘絺羅　第四（喜悅） <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
 
 
 .. _sn44_7:
 
 - SN 44. 7, `Moggallānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul9.xml>`__ (CSCD) [1]_ , 
 
-  * ` <http://agama.buddhason.org/SN/SN1191.htm>`__ (莊春江) [2]_ ; `目犍連（處） <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
+  * `目揵連經 <http://agama.buddhason.org/SN/SN1191.htm>`__ (莊春江) [2]_ ; `目犍連（處） <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
 
 
 .. _sn44_8:
 
 - SN 44. 8, `Vacchagottasuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul9.xml>`__ (CSCD) [1]_ , 
 
-  * ` <http://agama.buddhason.org/SN/SN1192.htm>`__ (莊春江) [2]_ ; `婆蹉（繫縛） <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
+  * `婆蹉氏經 <http://agama.buddhason.org/SN/SN1192.htm>`__ (莊春江) [2]_ ; `婆蹉（繫縛） <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
 
 
 .. _sn44_9:
 
 - SN 44. 9, `Kutūhalasālāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul9.xml>`__ (CSCD) [1]_ , 
 
-  * ` <http://agama.buddhason.org/SN/SN1193.htm>`__ (莊春江) [2]_ ; `論議堂 <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
+  * `論議堂經 <http://agama.buddhason.org/SN/SN1193.htm>`__ (莊春江) [2]_ ; `論議堂 <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
 
 
 .. _sn44_10:
 
 - SN 44. 10, `Ānandasuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul9.xml>`__ (CSCD) [1]_ , 
 
-  * ` <http://agama.buddhason.org/SN/SN1194.htm>`__ (莊春江) [2]_ ; `阿難（我是有） <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
+  * `阿難經 <http://agama.buddhason.org/SN/SN1194.htm>`__ (莊春江) [2]_ ; `阿難（我是有） <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
 
 
 .. _sn44_11:
 
 - SN 44. 11, `Sabhiyakaccānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul9.xml>`__ (CSCD) [1]_ , 
 
-  * ` <http://agama.buddhason.org/SN/SN1195.htm>`__ (莊春江) [2]_ ; `詵陀 <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
+  * `沙比雅迦旃延經 <http://agama.buddhason.org/SN/SN1195.htm>`__ (莊春江) [2]_ ; `詵陀 <http://tripitaka.cbeta.org/N17n0006_044>`__ (元亨寺, 雲庵) [3]_ ;  
 
 
 ------
