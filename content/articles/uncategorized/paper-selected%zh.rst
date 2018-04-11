@@ -2,7 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2017-07-05
+:modified: 2018-04-11
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -48,7 +48,7 @@
 
 ----
 
-- `《佛陀》 <{filename}/articles/a-path-to-freedom/biography-of-the-Buddha-masutani-excerpts%zh.rst>`__ ： 増谷文雄　著《仏陀 その生涯と思想》，《佛陀－－其生涯與思想》摘譯 (取材自： 「 `法雨道場 <http://www.dhammarain.org.tw/>`__ 」　→　「  `好書介紹 <http://www.dhammarain.org.tw/books/book1.html>`__ 」　→　 `《佛陀》 <http://www.dhammarain.org.tw/books/Autobiography-of-buddha/chap01.htm>`__ )
+- `《佛陀》 <{filename}/articles/a-path-to-freedom/biography-of-the-Buddha-masutani-excerpts%zh.rst>`__ ： 増谷文雄　著《仏陀 その生涯と思想》，《佛陀－－其生涯與思想》摘譯 (取材自： 「 `法雨道場 <http://www.dhammarain.org.tw/>`__ 」　→　「  `好書介紹 <http://www.dhammarain.org.tw/books/book1.html>`__ 」　→　 `《佛陀》 <http://www.dhammarain.org.tw/books/biography-of-the-Buddha-masutani-excerpts/chap01.htm>`__ )
 
 ----
 
@@ -214,6 +214,8 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  2018.04.11 rev. 《佛陀》 増谷文雄　著 original URL on Dhammarain (old: http://www.dhammarain.org.tw/books/Autobiography-of-buddha/
+  ----
   07.05 add: UNEXPECTED FREEDOM (by AJAHN MUNINDO):dhammatalks.net-- PDF ; download EPUB or MOBI (from forestsangha.org)
   04.27 2017 add: 《佛陀》 ： 増谷文雄　著《仏陀 その生涯と思想》，《佛陀－－其生涯與思想》摘譯
   10.13 add: 摩訶布瓦尊者傳（HTML，正體漢文）
