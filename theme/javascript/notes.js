@@ -2568,7 +2568,9 @@ var notes = {
    	"我只安立苦以及苦之滅": "「我只安立苦以及苦之滅」，這段經文同樣出現在《中部22經》，而與《雜阿含301經》的「苦生而生，苦滅而滅」(《雜阿含262經》作「此苦生時生，滅時滅」)的「無我」含意相同。",
    	"div1042": "「這是色之類」(rūpagatametaṃ)，菩提比丘長老英譯為「這是一種色的涉入」(this is an involvement with form)。《顯揚真義》以「這僅是色(rūpamattametaṃ)，在這裡，離開色沒有任何其他眾生可得(rūpato añño koci satto nāma na upalabbhati)，但，當有色時，這僅是名字」解說，註疏說，這裡「僅」之語說區別之意(visesanivattiattho)，什麼是那個區別呢？凡被外面定見的(bāhiraparikappito)，這裡被稱為「如來」的真我(attā)。",
    	"這是色之類": "「這是色之類」(rūpagatametaṃ)，菩提比丘長老英譯為「這是一種色的涉入」(this is an involvement with form)。《顯揚真義》以「這僅是色(rūpamattametaṃ)，在這裡，離開色沒有任何其他眾生可得(rūpato añño koci satto nāma na upalabbhati)，但，當有色時，這僅是名字」解說，註疏說，這裡「僅」之語說區別之意(visesanivattiattho)，什麼是那個區別呢？凡被外面定見的(bāhiraparikappito)，這裡被稱為「如來」的真我(attā)。",
-   	"div1043": "「有」(Bhava)，菩提比丘長老英譯為「存在」(existence)。",
+   	"div1043": "「有餘(SA.957)；有取(GA)」，南傳作「對有取著者」(sa-upādānassa)，菩提比丘長老英譯為「對具有燃料者」(for one with fuel)。按：「取著」(upādāna，另譯為「取；執著」)的另一個意思是「燃料」，在經文中顯然是雙關語。",
+   	"對有取著者": "「有餘(SA.957)；有取(GA)」，南傳作「對有取著者」(sa-upādānassa)，菩提比丘長老英譯為「對具有燃料者」(for one with fuel)。按：「取著」(upādāna，另譯為「取；執著」)的另一個意思是「燃料」，在經文中顯然是雙關語。",
+    "div1044": "「有」(Bhava)，菩提比丘長老英譯為「存在」(existence)。",
    	"有": "「有」(Bhava)，菩提比丘長老英譯為「存在」(existence)。",
     "EmptyForOldIE": ""
 };
