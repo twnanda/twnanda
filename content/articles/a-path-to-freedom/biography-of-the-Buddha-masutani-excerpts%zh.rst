@@ -181,10 +181,7 @@
 2. 在臺​首度漢譯  → 　**李君奭** 譯 [3]_ ；出版日期：1979； **《佛陀》** ，出版者：專心企業；出版地：彰化市, 臺灣 [4]_ → 
 3. 重新打字排版，以「非賣品」與大眾結緣。  → 　《佛陀》， **和裕版** , 1996.12 (民85) [5]_ → 　
 4. 重新選譯，並精簡潤飾排版  → 　 **《佛陀》，法藏版** [6]_ , 1997.7 (民86)  → 
-5. **《佛陀》，法雨道場 1998.9  掛網** （當時，故　明法尊者與法藏講堂　慶定法師有互動；請參附圖(1,250 KB) ）
-
-.. image:: {filename}/extra/img/tainan-masutani-biography-of-the-buddha-hoatchong.jpg
-   :alt: 法藏講堂版
+5. **《佛陀》，法雨道場 1998.9  掛網** （當時，故　明法尊者與法藏講堂　慶定法師有互動；請參 `附圖 <{filename}/extra/img/tainan-masutani-biography-of-the-buddha-hoatchong.jpg>`__ (1,250 KB) ）
 
 .. [1] 1. 増谷 文雄（ますたに ふみお、1902年2月16日 - 1987年12月6日）；福岡県小倉市（現・北九州市小倉）生まれ。 (取材自：日文維基-- https://ja.wikipedia.org/wiki/%E5%A2%97%E8%B0%B7%E6%96%87%E9%9B%84 )
 
@@ -224,6 +221,9 @@
 
 ..
   2018.04.11 rev. original URL on Dhammarain (old: http://www.dhammarain.org.tw/books/Autobiography-of-buddha/chap01.htm) & add:本書因緣 (2017.04.17 email)
+  image:: /extra/img/tainan-masutani-biography-of-the-buddha-hoatchong.jpg
+   :width: 244
+   :height: 326
   ----
   04.28 change some anchors in English; e. g. 01a for 為人間榜樣的釋尊, 01b for 以往的佛傳, etc.
   04.26~27 2017 create rst

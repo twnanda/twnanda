@@ -4212,10 +4212,7 @@ Nanda 贅言 （代 跋）
 2. 在臺​首度漢譯  → 李君奭 [2]_ 譯；出版日期：1979；《佛陀》，出版者：專心企業；出版地：彰化市, 臺灣 → 
 3. 重新打字排版，以「非賣品」與大眾結緣。  → 《佛陀》，和裕版,1996.12 (民85)  →
 4. 重新選譯，並經（嘉義、台南?）「正法律學員」 精簡潤飾排版（ 法雨版謂：「新雨編譯群」 漢譯）  → 《佛陀》，法藏版 [3]_ , 1997.7 (民86)  → 
-5. 《佛陀》，法雨道場 1998.9  掛網 （當時，故　明法尊者與法藏講堂　慶定法師有互動；請參附圖(1,250 KB) 。）
-
-.. image:: {filename}/extra/img/tainan-masutani-biography-of-the-buddha-hoatchong.jpg
-   :alt: 法藏講堂版
+5. 《佛陀》，法雨道場 1998.9  掛網（當時，故　明法尊者與法藏講堂　慶定法師有互動；請參 `附圖 <{filename}/extra/img/tainan-masutani-biography-of-the-buddha-hoatchong.jpg>`__ (1,250 KB) ）
 
 ------
 
@@ -4278,6 +4275,9 @@ Nanda 贅言 （代 跋）
 
 ..
   2018.04.11 rev. original URL on Dhammarain (old: http://www.dhammarain.org.tw/books/Autobiography-of-buddha/ & add: image and 3 notes
+  .. |法藏講堂版| image:: {filename}/extra/img/tainan-masutani-biography-of-the-buddha-hoatchong.jpg
+   :width: 244
+   :height: 326
   ----
   04.27 2017 create rst  
   original: 1998.09.10  87('98)/09/10
