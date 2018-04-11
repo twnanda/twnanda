@@ -3,8 +3,8 @@
 ============================================================================
 
 :date: 1998-09-10
-:modified: 2017-04-28
-:originalurl: http://www.dhammarain.org.tw/books/Autobiography-of-buddha/blessed1.htm
+:modified: 2018-04-11
+:originalurl: http://www.dhammarain.org.tw/books/biography-of-the-Buddha-masutani-excerpts/blessed1.htm
 :tags: 佛陀, 佛陀傳, 増谷文雄, ますたに ふみお, Ma suta ni  fumi o
 :category: 解脫之道
 :summary: 佛陀--其生涯與思想
@@ -93,7 +93,7 @@
     - `中道立場 <{filename}biography-of-the-Buddha-masutani-excerpts-chap07%zh.rst#chap07a>`_ (１０９)　
     - `四個真相 <{filename}biography-of-the-Buddha-masutani-excerpts-chap07%zh.rst#chap07b>`_ (１１３)　
     - `齊整體系 <{filename}biography-of-the-Buddha-masutani-excerpts-chap07%zh.rst#chap07c>`_ (１１７) 　　　　　
-    - `07d <{filename}biography-of-the-Buddha-masutani-excerpts-chap07%zh.rst#次第說法>`_ (１２１)　
+    - `次第說法 <{filename}biography-of-the-Buddha-masutani-excerpts-chap07%zh.rst#chap07d>`_ (１２１)　
     - `有眼睛的人請看 <{filename}biography-of-the-Buddha-masutani-excerpts-chap07%zh.rst#chap07e>`_ (１２５)
 
   - `第 八 章： 為世間幸福─傳道宣言 <{filename}biography-of-the-Buddha-masutani-excerpts-chap08%zh.rst>`__ …………………………………………一二七 　　　　　
@@ -161,8 +161,6 @@
 
 ------
 
-取材自： 「 `法雨道場 <http://www.dhammarain.org.tw/>`__ 」　→　「  `好書介紹 <http://www.dhammarain.org.tw/books/book1.html>`__ 」　→　 `《佛陀》 <http://www.dhammarain.org.tw/books/Autobiography-of-buddha/chap01.htm>`__
-
 | ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
 | ＊　　　　　　　　　☆☆　新　雨　版　權　頁　☆☆　　　　　　　　　　＊
 | ＊嘉義新雨圖書館　地址:　嘉義市崇文街175巷1之30號　電話:　05-2232230　＊ 
@@ -172,8 +170,61 @@
 | ＊　　　　◤　若要在著作中引用，或作商業用途，請先聯絡「 `法雨道場 <http://www.dhammarain.org.tw/>`__ 」◢　＊ 
 | ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
 
+取材自： 「 `法雨道場 <http://www.dhammarain.org.tw/>`__ 」　→　「  `好書介紹 <http://www.dhammarain.org.tw/books/book1.html>`__ 」　→　 `《佛陀》 <http://www.dhammarain.org.tw/books/biography-of-the-Buddha-masutani-excerpts/blessed1.htm>`__
+
+本書因緣
+~~~~~~~~~~
+
+很可能是：
+
+1. **増谷　文雄** [1]_ 原著 , 1969, ​ **《仏陀 その生涯と思想》** , 日本 東京 角川書店 [2]_ → 
+2. 在臺​首度漢譯  → 　**李君奭** 譯 [3]_ ；出版日期：1979； **《佛陀》** ，出版者：專心企業；出版地：彰化市, 臺灣 [4]_ → 
+3. 重新打字排版，以「非賣品」與大眾結緣。  → 　《佛陀》， **和裕版** , 1996.12 (民85) [5]_ → 　
+4. 重新選譯，並精簡潤飾排版  → 　 **《佛陀》，法藏版** [6]_ , 1997.7 (民86)  → 
+5. **《佛陀》，法雨道場 1998.9  掛網** （當時，故　明法尊者與法藏講堂　慶定法師有互動；請參附圖(1,250 KB) ）
+
+.. image:: {filename}/extra/img/tainan-masutani-biography-of-the-buddha-hoatchong.jpg
+   :alt: 法藏講堂版
+
+.. [1] 1. 増谷 文雄（ますたに ふみお、1902年2月16日 - 1987年12月6日）；福岡県小倉市（現・北九州市小倉）生まれ。 (取材自：日文維基-- https://ja.wikipedia.org/wiki/%E5%A2%97%E8%B0%B7%E6%96%87%E9%9B%84 )
+
+       2. 増谷 文雄 マスタニ フミオ (Masutani Fumio); 
+
+          | 生年明治35(1902)年2月16日
+          | 没年昭和62(1987)年12月6日
+          | 出生地福岡県小倉(現・北九州市)
+          | 学歴〔年〕東京帝国大学文学部宗教学科〔大正14年〕卒
+          | 学位〔年〕文学博士(東京大学)〔昭和35年〕
+          | 主な受賞名〔年〕毎日出版文化賞〔昭和31年〕「人間の科学」,紫綬褒章〔昭和41年〕,勲三等瑞宝章〔昭和47年〕(取材自：20世紀日本人名事典の解説 https://kotobank.jp/word/%E5%A2%97%E8%B0%B7+%E6%96%87%E9%9B%84-1655011
+
+.. [2] 1. 佛學數位圖書館暨博物館: http://buddhism.lib.ntu.edu.tw/DLMBS/search/search_detail.jsp?seq=189641
+
+       2. 日本 東京 角川書店: http://www.kadokawa.co.jp/product/199999703018/
+
+.. [3] 奭ㄕˋ，shih4，shì，shih4
+
+.. [4] 1. 佛學數位圖書館暨博物館: http://buddhism.lib.ntu.edu.tw/DLMBS/search/search_detail.jsp?seq=265001
+
+       2. | `國家圖書館館藏目錄 <http://metadata.ncl.edu.tw/blstkmc/blstkm?00112A8EAAEE02020000040001A400A00000003E000000000^NO#tudorkmtop>`__ ; `取得途徑：國立中興大學圖書館 BOOK 083.6 5300 1.9 289440 <http://metadata.ncl.edu.tw/blstkmc/blstkm?00112A8EAAEE02020000040001A400A00000003E000000000^AS#tudorkmtop>`__ ; 
+          | 中興大學圖書館: http://aleph.lib.nchu.edu.tw/F/KFYGD9K9BJV3QGMJ3DK19NTXVG6LQKH8KDMMCUEFCPRRXJL551-27715?func=full-set-set&set_number=002843&set_entry=000001&format=999
+          | 南華大學圖書館: http://hylib.nhu.edu.tw//bookSearchList.do?searchtype=simplesearch&search_field=KW&search_input=%E5%A2%9E%E8%B0%B7%E6%96%87%E9%9B%84&searchsymbol=hyLibCore.webpac.search.common_symbol&execodehidden=true&execode=webpac.dataType.book&ebook=#searchtype=simplesearch&search_field=KW&search_input=%E5%A2%9E%E8%B0%B7%E6%96%87%E9%9B%84&searchsymbol=hyLibCore.webpac.search.common_symbol&execodehidden=true&execode=webpac.dataType.book&ebook=&resid=188874784&nowpage=1
+          | `國立成功大學圖書館館藏查詢 <http://weblis.lib.ncku.edu.tw/search~S1*cht/X?searchtype=X&searcharg=a%3A%28%E5%A2%9E%E8%B0%B7%E6%96%87%E9%9B%84%29&searchscope=1 ; http://weblis.lib.ncku.edu.tw/search~S1*cht?/Xa%3A%28{u589E}{u8C37}{u6587}{u96C4}%29&searchscope=1&SORT=D/Xa%3A%28{u589E}{u8C37}{u6587}{u96C4}%29&searchscope=1&SORT=D&SUBKEY=a%3A(%E5%A2%9E%E8%B0%B7%E6%96%87%E9%9B%84)/13%2C25%2C25%2CB/browse>`__
+          | 臺南大學圖書館: http://primo.nutn.edu.tw/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=aleph&indx=1&dum=true&srt=rank&vid=NUTN&frbg=&tb=t&vl%28freeText0%29=%E4%BD%9B%E9%99%80&scp.scps=scope%3A%28%22NUTN%22%29&vl%281UIStartWith0%29=contains ; http://primo.nutn.edu.tw/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=NUTN_ALEPH005269220&indx=6&recIds=NUTN_ALEPH005269220&recIdxs=5&elementId=5&renderMode=poppedOut&displayMode=full&frbrVersion=&frbg=&&dscnt=0&vl(1UIStartWith0)=contains&scp.scps=scope%3A%28%22NUTN%22%29&tb=t&vid=NUTN&mode=Basic&srt=rank&tab=aleph&dum=true&vl(freeText0)=%E4%BD%9B%E9%99%80&dstmp=1492141814018 ; http://primo.nutn.edu.tw/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=NUTN_ALEPH005270537&indx=38&recIds=NUTN_ALEPH005270537&recIdxs=7&elementId=7&renderMode=poppedOut&displayMode=full&frbrVersion=&frbg=&dscnt=0&scp.scps=scope%3A%28%22NUTN%22%29&vl(1UIStartWith0)=contains&tb=t&mode=Basic&vid=NUTN&srt=rank&tab=aleph&dum=true&vl(freeText0)=%E4%BD%9B%E9%99%80&dstmp=1492141920619
+          | `國立臺灣大學圖書館館藏查詢 <http://tulips.ntu.edu.tw/search~S5*cht?/Y{u589E}{u8C37}{u6587}{u96C4}&searchscope=5&SORT=DZ/Y{u589E}{u8C37}{u6587}{u96C4}&searchscope=5&SORT=DZ&SUBKEY=%E5%A2%9E%E8%B0%B7%E6%96%87%E9%9B%84/1%2C275%2C275%2CB/frameset&FF=Y{u589E}{u8C37}{u6587}{u96C4}&searchscope=5&SORT=DZ&1%2C1%2C>`__
+          | 國立臺灣師範大學圖書館: http://www.lib.ntnu.edu.tw/holding/doQuickSearch.jsp?action=view&param=%2Fsearch*cht%3F%2Ft%7Bu4F5B%7D%7Bu9640%7D%2Ft%7B213132%7D%7B215e72%7D%2F1%252C76%252C87%252CB%2Fexact%26FF%3Dt%7B213132%7D%7B215e72%7D%261%252C5%252C
+          | 國立台北教育大學圖書館: http://aleph18.lib.ntue.edu.tw/F/LY69RQP7N6US8LISK8MGRYYBPGFQIFB7F3BM14B6F4C9MGSRCJ-45171?func=full-set-set&set_number=001420&set_entry=000081&format=999
+          | 華梵大學圖書館: http://webopac.hfu.edu.tw/webopac/BookView1.aspx?url=Cxjg.aspx&dc=1&fc=4&n=8&d=Info000075&cata01=GENA0004414&key=0&num=5&l=&dd=5
+          | 國立中央大學圖書館: http://opac.lib.ncu.edu.tw/search*cht/Y?SEARCH=%E5%A2%9E%E8%B0%B7%E6%96%87%E9%9B%84&SORT=D
+          | 玄奘大學圖書館: http://210.60.62.8/webopac/
+          | 慈濟志業體圖書館: http://www.tti.library.tcu.edu.tw/Webpac2/store.dll/?ID=90085&T=0&S=ASC&ty=ie&snc=BEB29595BF9B82CDBC83C9BC87E86F ; http://www.tti.library.tcu.edu.tw/Webpac2/store.dll/?ID=197077&T=0&S=ASC&ty=ie&snc=2117270E4CEC5CC2B58BCF420569E872
+
+.. [5] `香光尼眾佛學院圖書館書目檢索 <http://www.gaya.org.tw/library/book/query.asp>`__ :  題名:佛陀; 出版者:和裕  → 選： 1  佛陀    280.1/2573
+
+.. [6] 法藏講堂: 地址：71148台南市歸仁區民權八街85巷1號; 電話：+886-6-2301406;　傳真：00886-6-2391563; 免費通話：Skype至上座部佛教學院; 　電郵：taiwandipa@gmail.com; http://www.taiwandipa.org.tw/
 
 ..
+  2018.04.11 rev. original URL on Dhammarain (old: http://www.dhammarain.org.tw/books/Autobiography-of-buddha/chap01.htm) & add:本書因緣 (2017.04.17 email)
+  ----
   04.28 change some anchors in English; e. g. 01a for 為人間榜樣的釋尊, 01b for 以往的佛傳, etc.
   04.26~27 2017 create rst
   original: 1998.09.10  87('98)/09/10
