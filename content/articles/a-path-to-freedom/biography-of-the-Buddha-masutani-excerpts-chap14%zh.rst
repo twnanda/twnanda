@@ -3,8 +3,8 @@
 ===================================================
 
 :date: 1998-09-10
-:modified: 2017-04-28
-:originalurl: http://www.dhammarain.org.tw/books/Autobiography-of-buddha/chap14.htm
+:modified: 2018-04-11
+:originalurl: http://www.dhammarain.org.tw/books/biography-of-the-Buddha-masutani-excerpts/chap14.htm
 :tags: 佛陀, 佛陀傳, 増谷文雄
 :category: 解脫之道
 :summary: 《佛陀》 第十四章： 能看到法的人便能看到我
@@ -273,8 +273,6 @@
 
 ------
 
-取材自： 「 `法雨道場 <http://www.dhammarain.org.tw/>`__ 」　→　「  `好書介紹 <http://www.dhammarain.org.tw/books/book1.html>`__ 」　→　 `《佛陀》 <http://www.dhammarain.org.tw/books/Autobiography-of-buddha/chap01.htm>`__
-
 | ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
 | ＊　　　　　　　　　☆☆　新　雨　版　權　頁　☆☆　　　　　　　　　　＊
 | ＊嘉義新雨圖書館　地址:　嘉義市崇文街175巷1之30號　電話:　05-2232230　＊ 
@@ -284,7 +282,11 @@
 | ＊　　　　◤　若要在著作中引用，或作商業用途，請先聯絡「 `法雨道場 <http://www.dhammarain.org.tw/>`__ 」◢　＊ 
 | ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
 
+取材自： 「 `法雨道場 <http://www.dhammarain.org.tw/>`__ 」　→　「  `好書介紹 <http://www.dhammarain.org.tw/books/book1.html>`__ 」　→　 `《佛陀》 <http://www.dhammarain.org.tw/books/biography-of-the-Buddha-masutani-excerpts/chap14.htm>`__
+
 ..
+  2018.04.11 rev. original URL on Dhammarain (old: http://www.dhammarain.org.tw/books/Autobiography-of-buddha/
+  ----
   04.28 rev. change some anchors in English; i.e. chap01a for 為人間榜樣的釋尊, etc.; change some anchors in English; e.g. 14a for 要做法的繼承人
   04.26~27 2017 create rst
   original: 1998.09.10  87('98)/09/10

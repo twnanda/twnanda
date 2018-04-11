@@ -3,8 +3,8 @@
 ===================================================
 
 :date: 1998-09-10
-:modified: 2017-04-28
-:originalurl: http://www.dhammarain.org.tw/books/Autobiography-of-buddha/chap15.htm
+:modified: 2018-04-11
+:originalurl: http://www.dhammarain.org.tw/books/biography-of-the-Buddha-masutani-excerpts/chap15.htm
 :tags: 佛陀, 佛陀傳, 増谷文雄
 :category: 解脫之道
 :summary: 《佛陀》 第十五章： 自燈明、法燈明－－最後說法
@@ -281,8 +281,6 @@
 
 ------
 
-取材自： 「 `法雨道場 <http://www.dhammarain.org.tw/>`__ 」　→　「  `好書介紹 <http://www.dhammarain.org.tw/books/book1.html>`__ 」　→　 `《佛陀》 <http://www.dhammarain.org.tw/books/Autobiography-of-buddha/chap01.htm>`__
-
 | ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
 | ＊　　　　　　　　　☆☆　新　雨　版　權　頁　☆☆　　　　　　　　　　＊
 | ＊嘉義新雨圖書館　地址:　嘉義市崇文街175巷1之30號　電話:　05-2232230　＊ 
@@ -292,11 +290,13 @@
 | ＊　　　　◤　若要在著作中引用，或作商業用途，請先聯絡「 `法雨道場 <http://www.dhammarain.org.tw/>`__ 」◢　＊ 
 | ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
 
+取材自： 「 `法雨道場 <http://www.dhammarain.org.tw/>`__ 」　→　「  `好書介紹 <http://www.dhammarain.org.tw/books/book1.html>`__ 」　→　 `《佛陀》 <http://www.dhammarain.org.tw/books/biography-of-the-Buddha-masutani-excerpts/chap15.htm>`__
+
 ------
 
 備註： 
 
-Nanda 贅言 （代 跋）
+Nanda 贅言 （代 跋）04.26 2017
 
 本書緣由，很可能是：
 
@@ -351,6 +351,8 @@ Nanda 贅言 （代 跋）
   - 慈濟志業體圖書館(花蓮)： `《佛陀》 <http://www.tti.library.tcu.edu.tw/Webpac2/store.dll/?ID=197077&T=0&S=ASC&ty=ie&snc=2117270E4CEC5CC2B58BCF420569E872>`__  / 增谷文雄著 ; 李君奭譯 ( `已報銷；限慈大教職員生於校本部及人社院取件 <http://www.tti.library.tcu.edu.tw/Webpac2/store.dll/?ID=90085&T=0&S=ASC&ty=ie&snc=BEB29595BF9B82CDBC83C9BC87E86F>`__ 。)
 
 ..
+  2018.04.11 rev. original URL on Dhammarain (old: http://www.dhammarain.org.tw/books/Autobiography-of-buddha/
+  ----
   04.28 rev. change some anchors in English; i.e. chap01a for 為人間榜樣的釋尊, etc.; change some anchors in English; e.g. 15a for 末期記錄
-  04.26~27 2017 create rst  
+  04.26~27 2017 create rst (recorded on 2017.04.17 email) 
   original: 1998.09.10  87('98)/09/10
