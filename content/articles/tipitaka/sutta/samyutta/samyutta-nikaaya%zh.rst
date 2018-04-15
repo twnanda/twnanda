@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2018-04-09
+:modified: 2018-04-15
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -246,7 +246,7 @@ Mahāvagga 大篇
 
 - 45.) `Magga-saṃyuttaṃ 道相應 <{filename}sn45-magga-samyutta%zh.rst>`__ (181 經 or 180經, 八正道相應, 八聖道相應, The Noble Eightfold Path)
 
-- 46.) `Bojjhaṅga-saṃyuttaṃ 覺支相應 <{filename}sn46-bojjhanga-samyutta%zh.rst>`__ (建構中 under construction; 184 經 or 175經, 七覺支相應, The Seven Factors for Awakening)
+- 46.) `Bojjhaṅga-saṃyuttaṃ 覺支相應 <{filename}sn46-bojjhanga-samyutta%zh.rst>`__ (184 經 or 175經, 七覺支相應, The Seven Factors for Awakening)
 
 - 47.) `Satipaṭṭhāna-saṃyuttaṃ 念住相應 <{filename}sn47-satipatthana-samyutta%zh.rst>`__ (建構中 under construction; 104 經, 念處相應, 四念住相應, The Four Frames of Reference (Foundations of Mindfulness))
 
@@ -371,7 +371,8 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
-  04.09 add: Abyākata-saṃyuttaṃ 無記相應
+  04.15 add: 46 Bojjhaṅga-saṃyuttaṃ 覺支相應, 七覺支相應
+  04.09 add: 44 Abyākata-saṃyuttaṃ 無記相應
   04.07 add: 43 Asaṅkhata-saṃyuttaṃ 無為相應
   02.22 add: Saḷāyatana-saṃyuttaṃ 六處相應-- 莊春江
   2018 01.11 add: 相應部簡表(from 相應部old file); anchor for each vagga
