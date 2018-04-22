@@ -12,17 +12,7 @@
   .. image:: {filename}/extra/dhammarain/extra/img/top_01_full.gif
      :alt: 道場logo
 
-- `最新活動 <{filename}/articles/dhammarain/articles/new/new%zh.rst>`__
-
-- `雜誌月刊 <{filename}/articles/dhammarain/articles/magazine/magazine%zh.rst>`_ 
-
-- `好書介紹 <{filename}/articles/dhammarain/articles/books/books%zh.rst>`_
-
-- `閱讀三藏 <{filename}/articles/dhammarain/articles/canon/canon%zh.rst>`_
-
-- `下載專區 <{filename}/articles/dhammarain/articles/download/download%zh.rst>`_
-
-- `友站連結 <{filename}/articles/dhammarain/articles/friends/friends%zh.rst>`_
+`最新活動 <{filename}/articles/dhammarain/articles/new/new%zh.rst>`__ 、 `雜誌月刊 <{filename}/articles/dhammarain/articles/magazine/magazine%zh.rst>`_ 、 `好書介紹 <{filename}/articles/dhammarain/articles/books/books%zh.rst>`_ 、 `閱讀三藏 <{filename}/articles/dhammarain/articles/canon/canon%zh.rst>`_ 、 `下載專區 <{filename}/articles/dhammarain/articles/download/download%zh.rst>`_ 、 `友站連結 <{filename}/articles/dhammarain/articles/friends/friends%zh.rst>`_
 
 ------
 
@@ -84,7 +74,7 @@
 　　
 - 嘉義縣公共汽車：嘉義往嘉義農場，在同仁派出所（荖園仔）站下車（約 30 分鐘）。步行至道場約 3.5 公里。
 
-   `嘉義縣公車處營運路線簡圖 <{filename}/extra/dhammarain/extra/img/kagi-kuang-bus.jpg>`_ (編碼：7301:嘉義 ←→ 嘉義農場) & 時刻表： `大雅站 <{filename}/extra/dhammarain/extra/dai-ghaa-107-0115timetable.pdf>`_ （2018.01.15; 嘉義 ←→ 同仁：全票 56, 半票28; 2018.04.18 來源：`7301嘉義—大埔—嘉義農場票價表 <https://extws.cyhg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTUxNC9yZWxmaWxlLzE3NjI0LzU1MjEzLzJlMjM1MTZlLTZmYmQtNDE4OS1hMTg2LThiNWRkOTQ2NmE1NC5wZGY%3d&n=NzMwMeWYiee%2bqeKAlOWkp%2bWflOKAlOWYiee%2bqei%2bsuWgtOelqOWDueihqC5wZGY%3d&icon=.pdf>`_ ；取材自： `嘉義縣公共汽車管理處 <https://bus.cyhg.gov.tw/>`_ ）或 `公路客運乘車資訊查詢系統 <https://www.taiwanbus.tw/DyBus.aspx>`__ 。
+  `嘉義縣公車處營運路線簡圖 <{filename}/extra/dhammarain/extra/img/kagi-kuang-bus.jpg>`_ (編碼：7301:嘉義 ←→ 嘉義農場) & 時刻表： `大雅站 <{filename}/extra/dhammarain/extra/dai-ghaa-107-0115timetable.pdf>`_ （2018.01.15; 嘉義 ←→ 同仁：全票 56, 半票28; 2018.04.18 來源：`7301嘉義—大埔—嘉義農場票價表 <https://extws.cyhg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTUxNC9yZWxmaWxlLzE3NjI0LzU1MjEzLzJlMjM1MTZlLTZmYmQtNDE4OS1hMTg2LThiNWRkOTQ2NmE1NC5wZGY%3d&n=NzMwMeWYiee%2bqeKAlOWkp%2bWflOKAlOWYiee%2bqei%2bsuWgtOelqOWDueihqC5wZGY%3d&icon=.pdf>`_ ；取材自： `嘉義縣公共汽車管理處 <https://bus.cyhg.gov.tw/>`_ ）或 `公路客運乘車資訊查詢系統 <https://www.taiwanbus.tw/DyBus.aspx>`__ 。
 
 - 嘉義客運：嘉義往澐水，在同仁派出所（荖園仔）站下車（約 30 分鐘）。步行至道場約 3.5 公里。
 
@@ -100,7 +90,7 @@
 
 　　Tel：(886)(5) 253-0029 (白天)；最佳聯絡時段：中午11:00~12:30(或 早上07:00~07:30)
 
-　　`Ｅ－ｍａｉｌ： dhammarain(＠)gmail.com <dhammarain@gmail.com>`_ (佛曆2553年 02.19 '10); 為防垃圾電郵，請記得複製時將＠改為 @ 
+　　`Ｅ－ｍａｉｌ： dhammarain(＠)gmail.com <dhammarain@gmail.com>`_ (佛曆2553年 02.19 '10); 為防垃圾電郵，請記得複製時將 (＠) 改為 @ 
 
 | 　　網址：http://www.dhammarain.org.tw/
 | 　　（感謝臺灣‧南投縣‧名間鄉 `靈山寺 <http://www.tt034.org.tw/>`_ 提供網頁空間！！）； 　　

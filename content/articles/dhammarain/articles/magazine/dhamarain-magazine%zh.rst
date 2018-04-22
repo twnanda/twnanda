@@ -28,6 +28,7 @@
 .. list-table:: 法雨雜誌詳細目錄
 
   * - `法雨雜誌第一期(2003.12.) <{filename}/extra/dhammarain/extra/magazine/dhammarain-mag-001.htm>`__ ; ( `PDF <{filename}/extra/dhammarain/extra/magazine/dhammarain-mag-001.pdf>`__ ) (updated: 11.16 '08)
+
       | 修禪的增上緣 / 明法比丘…………… 1
       | 工作禪 / 明法比丘…………………… 1
       | 供省思的食糧 / 阿姜查 …………… 2
@@ -42,6 +43,7 @@
       | 原始佛教與一般佛教的差別/明法比丘21
 
     - `法雨雜誌第二期(2005.01.) <{filename}/extra/dhammarain/extra/magazine/dhammarain-mag-002.htm>`__ ; ( `PDF <{filename}/extra/dhammarain/extra/magazine/dhammarain-mag-002.pdf>`__ ) (updated: 11.16 '08)
+
       | 從根源作意(一) / 明法比丘…………… 1
       | 喜心的修習/ 明法比丘……………… 1
       | 四個佛陀的教導跟教誡/恰密西亞多…2

@@ -13,7 +13,7 @@
   .. image:: {filename}/extra/dhammarain/extra/img/top_01_full.gif
      :alt: 道場logo
 
-`最新活動 <{filename}/articles/dhammarain/articles/dhammarain/articles/new/new%zh.rst>`__ 、雜誌月刊、 `好書介紹 <{filename}/articles/dhammarain/articles/dhammarain/articles/books/books%zh.rst>`_ 、 `閱讀三藏 <{filename}/articles/dhammarain/articles/dhammarain/articles/canon/canon%zh.rst>`_ 、 `下載專區 <{filename}/articles/dhammarain/articles/dhammarain/articles/download/download%zh.rst>`_ 、 `友站連結 <{filename}/articles/dhammarain/articles/dhammarain/articles/friends/friends%zh.rst>`_ 、 `Ｅ－ｍａｉｌ <{filename}/articles/dhammarain/articles/dhammarain/articles/e-mail%zh.rst>`__ 
+`最新活動 <{filename}/articles/dhammarain/articles/new/new%zh.rst>`__ 、 `雜誌月刊 <{filename}/articles/dhammarain/articles/magazine/magazine%zh.rst>`_ 、 `好書介紹 <{filename}/articles/dhammarain/articles/books/books%zh.rst>`_ 、 `閱讀三藏 <{filename}/articles/dhammarain/articles/canon/canon%zh.rst>`_ 、 `下載專區 <{filename}/articles/dhammarain/articles/download/download%zh.rst>`_ 、 `友站連結 <{filename}/articles/dhammarain/articles/friends/friends%zh.rst>`_ 、 `Ｅ－ｍａｉｌ <{filename}/articles/dhammarain/articles/e-mail%zh.rst>`__ 
 
 ------
 
@@ -23,7 +23,7 @@
       | 1987.02.~1994.01.
     - | `嘉義新雨雜誌 <{filename}ka-gi-newrain-magazine%zh.rst>`_
       | 1994.02. ~ 2003.04.
-    - | 法雨雜誌 <{filename}dhamarain-magazine%zh.rst>`_
+    - | `法雨雜誌 <{filename}dhamarain-magazine%zh.rst>`_
       | 2003.12. ~ 2009.09.06
 
 -------
