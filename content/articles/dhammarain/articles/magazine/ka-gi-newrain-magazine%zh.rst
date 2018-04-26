@@ -56,9 +56,9 @@
     - `第29期(1999.6.) <{filename}/extra/dhammarain/extra/magazine/magaz-29.htm>`__
     - `第30期(1999.10.) <{filename}/extra/dhammarain/extra/magazine/magaz-30.htm>`__
   * - `第31期(2000.2.) <{filename}/extra/dhammarain/extra/magazine/magaz-31.htm>`__
-    - `第32期(2000.6.) <{filename}/extra/dhammarain/extra/magazine/magaz-32.htm>`__
-    - `第33期(2000.11.) <{filename}/extra/dhammarain/extra/magazine/magaz-33.htm>`__
-    - `第34期(2001.2.) <{filename}/extra/dhammarain/extra/magazine/magaz-34.htm>`__
+    - `第32期(2000.6.) <http://www.dhammarain.org.tw/extra/dhammarain/extra/magazine/magaz-32.htm>`__
+    - `第33期(2000.11.) <http://www.dhammarain.org.tw/extra/dhammarain/extra/magazine/magaz-33.htm>`__
+    - `第34期(2001.2.) <http://www.dhammarain.org.tw/extra/dhammarain/extra/magazine/magaz-34.htm>`__
     - `第35期(2001.5.) <{filename}/extra/dhammarain/extra/magazine/magaz-35.htm>`__
   * - `第36期(2001.8.) <{filename}/extra/dhammarain/extra/magazine/magaz-36.htm>`__
     - `第37期(2001.12.) <{filename}/extra/dhammarain/extra/magazine/magaz-37.htm>`__
@@ -336,7 +336,7 @@
       | 雜阿含第300經(自他經）／柳紹華文言語譯
       | 雜阿含第335經(第一義空經）／柳紹華文言語譯
       | 問與答(問者：羅淑瓊、Kent、台南同修)**
-    - | `第32期(2000.6.) <{filename}/extra/dhammarain/extra/magazine/magaz-32.htm>`__
+    - | `第32期(2000.6.) <http://www.dhammarain.org.tw/extra/dhammarain/extra/magazine/magaz-32.htm>`__
       | 和平／ 明法比丘
       | 厭世／ 明法比丘
       | 一切法／ 明法比丘
@@ -348,7 +348,7 @@
       | 雜阿含第1148經(闍祇羅經）／柳紹華文言語譯
       | 緣起法之因果流程／Stanley Lin
       | 吉祥經／明法比丘譯
-    - | `第33期(2000.11.) <{filename}/extra/dhammarain/extra/magazine/magaz-33.htm>`__
+    - | `第33期(2000.11.) <http://www.dhammarain.org.tw/extra/dhammarain/extra/magazine/magaz-33.htm>`__
       | 建立非核家園／明法比丘
       | 善.惡.因.果／明法比丘
       | 恭敬法／明法比丘
@@ -361,7 +361,7 @@
       | 平常用功／明法比丘
       | 心路／明法比丘
       | 修習慈心的利益
-  * - | `第34期(2001.2.) <{filename}/extra/dhammarain/extra/magazine/magaz-34.htm>`__
+  * - | `第34期(2001.2.) <http://www.dhammarain.org.tw/extra/dhammarain/extra/magazine/magaz-34.htm>`__
       | 發願／明法比丘
       | 無念／明法比丘
       | 身見／明法比丘

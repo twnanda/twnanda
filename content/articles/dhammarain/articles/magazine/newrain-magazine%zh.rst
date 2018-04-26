@@ -48,13 +48,13 @@
   * - `第33期(1990.4.) <{filename}/extra/dhammarain/extra/magazine/rain-33.htm>`__
     - `第34期(1990.5.) <{filename}/extra/dhammarain/extra/magazine/rain-34.htm>`__
     - `第35期(1990.6.) <{filename}/extra/dhammarain/extra/magazine/rain-35.htm>`__
-    - `第36期(1990.7.) <{filename}/extra/dhammarain/extra/magazine/rain-36.htm>`__
+    - `第36期(1990.7.) <http://www.dhammarain.org.tw/extra/dhammarain/extra/magazine/rain-36.htm>`__
   * - `第37期(1990.8.) <{filename}/extra/dhammarain/extra/magazine/rain-37.htm>`__
     - `第38期(1990.9.) <{filename}/extra/dhammarain/extra/magazine/rain-38.htm>`__ 
-    - `第39期(1990.11.) <{filename}/extra/dhammarain/extra/magazine/rain-39.htm>`__
-    - `第40期(1990.12.) <{filename}/extra/dhammarain/extra/magazine/rain-40.htm>`__
+    - `第39期(1990.11.) <http://www.dhammarain.org.tw/extra/dhammarain/extra/magazine/rain-39.htm>`__
+    - `第40期(1990.12.) <http://www.dhammarain.org.tw/extra/dhammarain/extra/magazine/rain-40.htm>`__
   * - `第41期(1991.1.) <{filename}/extra/dhammarain/extra/magazine/rain-41.htm>`__
-    - `第42期(1991.2.) <{filename}/extra/dhammarain/extra/magazine/rain-42.htm>`__
+    - `第42期(1991.2.) <http://www.dhammarain.org.tw/extra/dhammarain/extra/magazine/rain-42.htm>`__
     - `第43期(1991.3.) <{filename}/extra/dhammarain/extra/magazine/rain-43.htm>`__
     - `第44期(1991.4.) <{filename}/extra/dhammarain/extra/magazine/rain-44.htm>`__
   * - `第45期(1991.5.) <{filename}/extra/dhammarain/extra/magazine/rain-45.htm>`__
@@ -74,7 +74,7 @@
     - `第59期(1992.8.) <{filename}/extra/dhammarain/extra/magazine/rain-59.htm>`__
     - `第60期(1992.9.) <{filename}/extra/dhammarain/extra/magazine/rain-60htm>`__
   * - `第61期(1992.10.) <{filename}/extra/dhammarain/extra/magazine/rain-61.htm>`__
-    - `第62期(1992.11.) <{filename}/extra/dhammarain/extra/magazine/rain-62.htm>`__ 
+    - `第62期(1992.11.) <http://www.dhammarain.org.tw/extra/dhammarain/extra/magazine/rain-62.htm>`__ 
     - `第63期(1992.12.) <{filename}/extra/dhammarain/extra/magazine/rain-63.htm>`__
     - `第64期(1993.2.) <{filename}/extra/dhammarain/extra/magazine/rain-64.htm>`__
   * - `第65期(1993.3.) <{filename}/extra/dhammarain/extra/magazine/rain-65.htm>`__

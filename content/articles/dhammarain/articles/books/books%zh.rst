@@ -8,14 +8,245 @@
 :category: 好書介紹
 :summary: 法雨道場好書介紹
 
-.. container:: index-page-image
+.. container:: content-page-image
 
   .. image:: {filename}/extra/dhammarain/extra/img/top_01_full.gif
      :alt: 道場logo
+     :align: center
 
-`最新活動 <{filename}/articles/dhammarain/articles/new/new%zh.rst>`__ 、 `雜誌月刊 <{filename}/articles/dhammarain/articles/magazine/magazine%zh.rst>`_ 、好書介紹、 `閱讀三藏 <{filename}/articles/dhammarain/articles/canon/canon%zh.rst>`_ 、 `下載專區 <{filename}/articles/dhammarain/articles/download/download%zh.rst>`_ 、 `友站連結 <{filename}/articles/dhammarain/articles/friends/friends%zh.rst>`_ 、 `Ｅ－ｍａｉｌ <{filename}/articles/dhammarain/articles/e-mail%zh.rst>`__ 
+`最新活動 <{filename}/articles/dhammarain/articles/new/new%zh.rst>`__ （html 直接閱讀）、 `雜誌月刊 <{filename}/articles/dhammarain/articles/magazine/magazine%zh.rst>`_ 、好書介紹、 `閱讀三藏 <{filename}/articles/dhammarain/articles/canon/canon%zh.rst>`_ （html 直接閱讀）、 `下載專區 <{filename}/articles/dhammarain/articles/download/download%zh.rst>`_ （html 直接閱讀）、 `友站連結 <{filename}/articles/dhammarain/articles/friends/friends%zh.rst>`_ （html 直接閱讀）、 `Ｅ－ｍａｉｌ <{filename}/articles/dhammarain/articles/e-mail%zh.rst>`__ 
 
-更新改版中！
+------
+
+◎請注意：本網頁介紹之書籍，道場未必有紙本存書；請參考「 `法雨道場贈書消息 <{filename}/articles/dhammarain/articles/new/new%zh.rst#distribution>`__ 」。
+
+◎書籍可在下載區下載
+
+個人作品
+~~~~~~~~~~
+
+.. list-table:: 個人作品
+
+  * - 明法比丘_
+    - 顯如法師_
+    - 見徹法師_
+  * - 護法比丘_
+    - 觀淨比丘_
+    - 性恩法師_ （Dhammajivi 法命法師）
+  * - 覓寂比丘_
+    - 蔡奇林_
+    - 廖文燦_
+  * - 帕奧禪師_
+    - 菩提比丘_
+    - 明昆三藏持者大長老_
+  * - 雷迪大師_
+    - 楊達法師_
+    - 馬哈希法師_
+  * - 向智尊者_
+    - 焦諦卡禪師_
+    - 佛使比丘_
+  * - `Lily_de_Silva`_ , M. A, Ph. D.
+    - A.P. `Buddhadatta_Mahathera`_
+    - `Jack_Kornfield`_
+  * - 艾雅柯瑪_
+    - 水野弘元_ 著作
+    -  
+
+單篇作品
+~~~~~~~~~~
+
+.. list-table:: 單篇作品
+
+  * - 《 佛陀_ 》
+    - 佛陀的啟示_
+    - 依止
+  * - 《清淨道論》 讀書表_
+    - 《清淨道論》 各品內容大綱_
+    - 清淨道論自我評量_
+  * - 禪修基本須知及專用詞彙手冊_
+    - 分文不取_
+    - 法的醫療_
+  * - 《中部．念處經》 四念處禪修方法之研究_
+    - 清淨智論_
+    - 佛法的瑰寶_
+  * - 毘婆舍那實修介紹_
+    - 毗婆舍那實修法要_
+    - 毗婆舍那禪_
+  * - 佛陀法語_
+    - 
+    - 
+
+
+.. _明法比丘:  
+
+- **明法比丘**  `介紹 <{filename}/extra/dhammarain/extra/books/ven-metta/big_writer.htm>`__
+
+  * `四聖諦 <{filename}/extra/dhammarain/extra/books/ven-metta/4Noble-ven-metta.htm>`__ （html 直接閱讀）、 `PDF <{filename}/extra/dhammarain/extra/books/ven-metta/4Noble-ven-metta.pdf>`__ 
+
+  * `明法比丘作品集之二 <{filename}/extra/dhammarain/extra/books/ven-metta/big.htm>`__
+
+  * `亞洲原始佛教道場指南 <{filename}/extra/dhammarain/extra/books/ven-metta/guideofasia-with-map.htm>`__ （html 直接閱讀）、 `PDF <{filename}/extra/dhammarain/extra/books/ven-metta/guideofasia-with-map.pdf>`__
+
+  * `巴利字尾 <{filename}/extra/dhammarain/extra/books/ven-metta/suffix-of-pali.htm>`__ （html 直接閱讀）、 `PDF <{filename}/extra/dhammarain/extra/books/ven-metta/suffix-of-pali.pdf>`__
+
+  * `禪修手冊 <{filename}/extra/dhammarain/extra/books/ven-metta/handbook-meditation.html>`__ （html 直接閱讀）、 `PDF <{filename}/extra/dhammarain/extra/books/ven-metta/handbook-meditation.pdf>`__
+
+  * `八戒戒相 <{filename}/extra/dhammarain/extra/books/ven-metta/8-sila.html>`__ （html 直接閱讀）、 `PDF <{filename}/extra/dhammarain/extra/books/ven-metta/8-sila.pdf>`__
+
+  * `八戒戒相 <{filename}/extra/dhammarain/extra/books/ven-metta/8-sila.html>`__ （html 直接閱讀）、 `PDF <{filename}/extra/dhammarain/extra/books/ven-metta/8-sila.pdf>`__
+
+  * Abhidhammatthasavgaho 《攝阿毘達摩義論》表解
+
+    - 完整版(2015.03.修訂版)： `分章目錄 <{filename}/articles/dhammarain/articles/canon/abhidhammattha-sangaha_table_content%zh.rst>`__ (更新: 2015.06.08)
+
+    - 精簡版，2015.03.修訂版)：　`分章目錄 <{filename}/articles/dhammarain/articles/canon/abhidhammattha-sangaha_table_content-shortened%zh.rst>`__ (2015.04.08 更新)
+
+  * 巴漢詞典 Concise Pāḷi-English Dictionary A.P.Buddhadatta Mahāthera 原著；大馬比丘 Mahāñāṇo 漢譯；明法比丘 繼續編輯至 2009.5； `直接閱讀 <{filename}/extra/dhammarain/extra/books/Concise-Pali-Han-revised2009by-Ven-Metta.htm>`__ (html) 、 `PDF <{filename}/extra/dhammarain/extra/books/Concise-Pali-Han-revised2009by-Ven-Metta.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/books/Concise-Pali-Han-revised2009by-Ven-Metta.doc>`__ ；　 `doc <http://www.dhammarain.org.tw/books/Concise-Pali-Han-Big5-revised2009-0630-f1.doc>`__ (Foreign1 字型) (updated: 01.12 '16)
+
+  ※　　※　　※　　※　　※　　※　　※　　※　　※　　
+
+  * 慈經注(Mettasuttava.n.nanaa); 明法比丘 譯注： 
+
+    -  `直接閱讀 <{filename}/extra/dhammarain/extra/canon/sutta/mettasuttavannana_cucinju.htm>`__ 、 `PDF <{filename}/extra/dhammarain/extra/canon/sutta/mettasuttavannana_cucinju.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/canon/sutta/mettasuttavannana_cucinju.doc>`__ ；　 `doc <http://www.dhammarain.org.tw/canon/Mettasuttavannana_cucinju_pa_han-f1.doc>`__ (Foreign1 字型) (updated: 2008. 01)； 
+
+    - **巴漢** 對照(Pali-Chinese)： `直接閱讀 <{filename}/extra/dhammarain/extra/canon/sutta/Mettasuttavannana_cucinju_pa_han.html>`__ 、 `PDF <{filename}/extra/dhammarain/extra/canon/sutta/mettasuttavannana_cucinju_pa_han.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/canon/sutta/mettasuttavannana_cucinju_pa_han.doc>`__ ；　 `doc <http://www.dhammarain.org.tw/canon/Mettasuttavannana_cucinju_pa_han-f1.doc>`__ (Foreign1 字型) (updated:11.11 '07 )
+
+  * Dighanikaye《長部》22經 Mahasatipatthanasuttam 大念處經 The Great Frames of Reference -- chinese translation by Bhikkhu Metta明法比丘 -- `english translation by Bhikkhu Thanissaro <http://www.accesstoinsight.org/tipitaka/dn/dn.22.0.than.html>`__ ( `AccessToInsight <http://www.accesstoinsight.org/>`__ ) ： (updated: 12.13 '08)
+
+    - **漢英** 對照(Chinese-English)： `直接閱讀 <{filename}/extra/dhammarain/extra/canon/sutta/ce-D22-mahasatipatthana.html>`__ (html) 、 `PDF <{filename}/extra/dhammarain/extra/canon/sutta/D22-mahasatipatthana-ce.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/canon/sutta/D22-mahasatipatthana-ce.doc>`__ ；　 `doc <http://www.dhammarain.org.tw/canon/ce-D22-mahasatipatthana-f1.doc>`__ (Foreign1 字型) 
+
+    - **巴漢** 對照及文法分析(Pali-Chinese and Plia gramma analysis)： `直接閱讀 <{filename}/extra/dhammarain/extra/canon/sutta/pc-D22-mahasatipatthana.html>`__ (html) 、 `PDF <{filename}/extra/dhammarain/extra/canon/sutta/D22-mahasatipatthana-pc.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/canon/sutta/D22-mahasatipatthana-pc.doc>`__ ；　 `doc <http://www.dhammarain.org.tw/canon/pc-D22-mahasatipatthana-f1.doc>`__ (Foreign1 字型)  
+
+    - **巴漢英** 對照及文法分析(Pali-Chinese-English and Pali gramma analysis)： `直接閱讀 <{filename}/extra/dhammarain/extra/canon/sutta/pce-D22-mahasatipatthana.html>`__ (html) 、 `PDF <{filename}/extra/dhammarain/extra/canon/sutta/D22-mahasatipatthana-pce.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/canon/sutta/D22-mahasatipatthana-pce.doc>`__ ；　 `doc <http://www.dhammarain.org.tw/canon/pce-D22-mahasatipatthana-f1.doc>`__ (Foreign1 字型)  
+
+  * Dhammapada 法句經(中英對照)-- English translated by AAcharya Buddharakkhita; Chinese translated by Yeh chun(葉均); Chinese commented by Bhikkhu Metta(明法比丘) AAcharya Buddharakkhita (佛護) 英譯; 了參法師(葉均) 譯; 明法比丘 註（增加許多濃縮的故事）： `直接閱讀 <{filename}/extra/dhammarain/extra/canon/sutta/ec-dhp.html>`__ (html) 、 `PDF <{filename}/extra/dhammarain/extra/canon/sutta/dhp-ce.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/canon/sutta/dhp-ce.doc>`__ ；　 `doc <http://www.dhammarain.org.tw/canon/Khuddaka/ec-dhp.doc>`__ (updated: 05.10 '09)
+
+    - 法句經-- 了參法師 譯; 明法比丘 註(舊版) ： `直接閱讀 <{filename}/extra/dhammarain/extra/canon/sutta/dhp-han-yeh-metta.htm>`__ (html) 、 `PDF <{filename}/extra/dhammarain/extra/canon/sutta/dhp-han-yeh-metta.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/canon/sutta/dhp-han-yeh-metta.doc>`__ 
+
+  * 比丘波提木叉(Bhikkhupatimokkha)-- 本檔參照李鳳媚居士《巴利律比丘戒譯注》，及釋宗戒的《比丘波羅提木叉》，明法比丘補充注釋：(2008.07.08) 
+
+    - `直接閱讀 <{filename}/extra/dhammarain/extra/canon/vinaya/c-Bhikkhupatimokkha.html>`__ (html) 、 `PDF <{filename}/extra/dhammarain/extra/canon/vinaya/bhikkhupatimokkha-han.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/canon/vinaya/bhikkhupatimokkha-han.doc>`__ ；　 `doc <http://www.dhammarain.org.tw/canon/c-Bhikkhupatimokkha-f1.doc>`__ (Foreign1 字型) (updated: 2008.12.13)
+
+    - **巴漢** 對照及文法分析： `直接閱讀 <{filename}/extra/dhammarain/extra/canon/vinaya/pc-Bhikkhupatimokkha.html>`__ (html) 、 `PDF <{filename}/extra/dhammarain/extra/canon/vinaya/bhikkhupatimokkha-pc.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/canon/vinaya/bhikkhupatimokkha-pc.doc>`__ ；　 `doc <http://www.dhammarain.org.tw/canon/pc-Bhikkhupatimokkha-f1.doc>`__ (Foreign1 字型) (updated:2008.12.13)
+
+    - **巴漢英** 對照及文法分析（英語採用Bhikkhu Thanisaro︰The Bhikkhuni Patimokkha的譯文，其中未譯出的部分，參照Ven. Banamoli Thera︰The Patimokkha ）： `直接閱讀 <{filename}/extra/dhammarain/extra/canon/vinaya/pce-Bhikkhupatimokkha.html>`__ (html) 、 `PDF <{filename}/extra/dhammarain/extra/canon/vinaya/bhikkhupatimokkha-pce.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/canon/vinaya/bhikkhupatimokkha-pce.doc>`__ ；　 `doc <http://www.dhammarain.org.tw/canon/pce-Bhikkhupatimokkha-f1.doc>`__ (Foreign1 字型)(2008.07.10; updated: 2008.12.13)
+
+  * 比丘尼波提木叉(Bhikkhunipatimokkha)-- 本檔參照李鳳媚居士《巴利律比丘戒譯注》，及釋宗戒的《比丘波羅提木叉》。比丘尼獨有的戒條由明法比丘翻譯。(2008.07.08) 
+
+    - `直接閱讀 <{filename}/extra/dhammarain/extra/canon/vinaya/c-Bhikkhuniipatimokkha.html>`__ (html) 、 `PDF <{filename}/extra/dhammarain/extra/canon/vinaya/bhikkhuniipatimokkha-han.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/canon/vinaya/bhikkhuniipatimokkha-han.doc>`__ ；　 `doc <http://www.dhammarain.org.tw/canon/c-Bhikkhuniipatimokkha-f1.doc>`__ (Foreign1 字型) (updated:2008.12.13)
+
+    - **巴漢** 對照及文法分析： `直接閱讀 <{filename}/extra/dhammarain/extra/canon/vinaya/pc-Bhikkhuniipatimokkha.html>`__ (html) 、 `PDF <{filename}/extra/dhammarain/extra/canon/vinaya/bhikkhuniipatimokkha-pc.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/canon/vinaya/bhikkhuniipatimokkha-pc.doc>`__ ；　 `doc <http://www.dhammarain.org.tw/canon/pc-Bhikkhuniipatimokkha-f1.doc>`__ (Foreign1 字型)(2008.07.10; updated:2008.12.13)
+
+    - **巴漢英** 對照及文法分析（英語採用Bhikkhu Thanisaro︰The Bhikkhuni Patimokkha的譯文，其中未譯出的部分，參照 Ven. Banamoli Thera︰The Patimokkha）： `直接閱讀 <{filename}/extra/dhammarain/extra/canon/vinaya/pce-Bhikkhuniipatimokkha.html>`__ (html) 、 `PDF <{filename}/extra/dhammarain/extra/canon/vinaya/bhikkhuniipatimokkha-pce.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/canon/vinaya/bhikkhuniipatimokkha-pce.doc>`__ ；　 `doc <http://www.dhammarain.org.tw/canon/pce-Bhikkhuniipatimokkha-f1.doc>`__ (Foreign1 字型)(2008.07.10) (updated: 12.13 '08)
+
+  * 比丘波羅提木叉(漢譯); 整理者：Anagarika Dhammajivi（釋性恩）：`直接閱讀 <{filename}/extra/dhammarain/extra/canon/vinaya/bhikkhupatimokkha.html>`__ (html) 、 `PDF <{filename}/extra/dhammarain/extra/canon/vinaya/bhikkhupatimokkha.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/canon/vinaya/bhikkhupatimokkha.doc>`__ ；　 `doc <http://www.dhammarain.org.tw/canon/bhikkhupatimokkha-f1.doc>`__ (Foreign1 字型; 訂正：2006.10.23)
+
+  * Visuddhimagga 《清淨道論》-- 覺音（Buddhaghosa）著；葉均 譯；Bhikkhu Santagavesaka　釋本寂於菩提學苑；[re-edited by Dhammavassarama; 2551B.E.(2007A.D.)]： `直接閱讀 <{filename}/extra/dhammarain/extra/canon/post-canon/c-Visuddhimagga.html>`__ (html) 、 `PDF <{filename}/extra/dhammarain/extra/canon/post-canon/visuddhimagga-han-yeh.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/canon/post-canon/visuddhimagga-han-yeh.doc>`__ ；　 `doc <http://www.dhammarain.org.tw/canon/Anna/c-Visuddhimagga.doc>`__ (請用Foreign1、kh2字型)(更新:2008.09.01)
+
+
+.. _顯如法師: 
+
+- **顯如法師**
+
+  * 顯如法師文集： `直接閱讀 <{filename}/extra/dhammarain/extra/books/sanro-2ndVer.htm>`__ (html) 、 `PDF <{filename}/extra/dhammarain/extra/books/sanro-2ndVer.pdf>`__ 、 `DOC <{filename}/extra/dhammarain/extra/books/sanro-2ndVer.htm>`__
+
+  * `現代身心保健 <{filename}/extra/dhammarain/extra/books/health-all.htm>`__
+
+
+.. _見徹法師:
+
+
+.. _護法比丘:  
+
+
+.. _觀淨比丘: 
+
+
+.. _性恩法師:
+
+性恩法師（Dhammajivi 法命法師）
+
+
+.. _覓寂比丘:
+
+
+.. _蔡奇林:
+
+
+.. _廖文燦:
+             
+
+.. _帕奧禪師:
+
+
+.. _菩提比丘:  
+
+
+
+.. _明昆三藏持者大長老:
+
+
+
+.. _雷迪大師:
+
+
+
+.. _楊達法師: 
+
+
+
+.. _馬哈希法師:
+
+
+
+.. _向智尊者:
+
+
+.. _焦諦卡禪師:
+
+
+.. _佛使比丘:
+
+
+
+.. _艾雅柯瑪:
+
+艾雅.柯瑪
+
+
+
+.. _Lily_de_Silva:
+
+Lily de Silva, M. A, Ph. D.   
+
+
+.. _Buddhadatta_Mahathera:
+
+A.P. Buddhadatta Mahathera    
+
+
+.. _Jack_Kornfield:
+
+.. _水野弘元:
+
+水野弘元著作
+
+.. _佛陀: 
+.. _佛陀的啟示:
+.. _依止:
+.. _讀書表:
+.. _各品內容大綱:
+.. _清淨道論自我評量:
+.. _禪修基本須知及專用詞彙手冊:
+.. _分文不取:
+.. _法的醫療:
+.. _四念處禪修方法之研究:
+.. _清淨智論:
+.. _毘婆舍那實修介紹:
+.. _佛陀法語: 
+.. _佛法的瑰寶:
+.. _毗婆舍那實修法要:
+.. _毗婆舍那禪:
 
 ------
 
@@ -23,6 +254,11 @@
 
 ..
   2018.04.22 upload (test under nanda acc.); 21 create .rst for github
+    .. image:: {filename}/extra/dhammarain/extra/img/top_01_full.gif
+     :width=948 px 
+     :height=98 px 
+     :alt: 道場logo
+     :align: center
 
             2018.01.22 rev. add:南傳菩薩道(全) UTF-8; pdf, doc, rtf
             2017.04.28 rev. 《佛陀》 (新雨編譯群 漢譯), old directory:Autobiography-of-buddha
