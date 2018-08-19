@@ -3,7 +3,7 @@
 ==================================================================================
 
 :date: 2016-06-04 16:30
-:modified: 2016-09-29 15:30
+:modified: 2018-08-19
 :tags: 法句經, 法句經對讀, 垢穢品, 污垢品, Dhp, Dhammapada, Malavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Impurity
@@ -88,6 +88,17 @@
        | 235 如今你就像枯黃的葉，死亡使者已在等著你；
        | 你就站在出發的門口，然而你連旅費都沒有。
 
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 第十八品－－垢穢品
+
+       此刻，你就像枯萎的樹葉，死神的使者已經在你的身邊，你即將展開漫長的死亡之旅，卻尚未準備任何的資糧。 (偈235) 
+
+       為自己建造安全的島吧！儘早精進修行，成為智者吧！若能拂除塵垢與諸煩惱，就能證得聖者的境界。 (偈236) 
+
+       你的生命即將結束，開始步向無法中途停止的死亡之旅，但你卻尚未備妥任何的資糧。 (偈237) 
+
+       為自己建造安全的島吧！儘早精進修行，成為智者吧！若能拂除塵垢與諸煩惱，就不再生死輪迴了。 (偈238)
+
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. suspended
 
@@ -167,7 +178,7 @@
        | You are standing in the mouth of death. And you have nothing to take with you. [DLMBSFn-V235]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 235 <{filename}../dhA/dhA-chap18%zh.rst#Dhp235>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 235 <{filename}../dhA/dhA-chap18%zh.rst#dhp235>`__
 
 .. _Dhp236:
 
@@ -190,6 +201,15 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 236 你應為自己做個島，趕快精進以成智者。
        | 清除了污垢且無染，你會去天界的聖地。 [CFFn18-01]_
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 此刻，你就像枯萎的樹葉，死神的使者已經在你的身邊，你即將展開漫長的死亡之旅，卻尚未準備任何的資糧。 (偈235) 
+
+       為自己建造安全的島吧！儘早精進修行，成為智者吧！若能拂除塵垢與諸煩惱，就能證得聖者的境界。 (偈236) 
+
+       你的生命即將結束，開始步向無法中途停止的死亡之旅，但你卻尚未備妥任何的資糧。 (偈237) 
+
+       為自己建造安全的島吧！儘早精進修行，成為智者吧！若能拂除塵垢與諸煩惱，就不再生死輪迴了。 (偈238)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. suspended
@@ -258,7 +278,7 @@
        | Without impurities and clear, you will approach the heavenly place of the Noble Ones. [DLMBSFn-V236]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 236 <{filename}../dhA/dhA-chap18%zh.rst#Dhp236>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 236 <{filename}../dhA/dhA-chap18%zh.rst#dhp236>`__
 
 .. _Dhp237:
 
@@ -281,6 +301,15 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 237 如今你的命已到終點，你就要去死王的面前，
        | 途中你又沒有住宿處，然而你連旅費都沒有。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 此刻，你就像枯萎的樹葉，死神的使者已經在你的身邊，你即將展開漫長的死亡之旅，卻尚未準備任何的資糧。 (偈235) 
+
+       為自己建造安全的島吧！儘早精進修行，成為智者吧！若能拂除塵垢與諸煩惱，就能證得聖者的境界。 (偈236) 
+
+       你的生命即將結束，開始步向無法中途停止的死亡之旅，但你卻尚未備妥任何的資糧。 (偈237) 
+
+       為自己建造安全的島吧！儘早精進修行，成為智者吧！若能拂除塵垢與諸煩惱，就不再生死輪迴了。 (偈238)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：生無善行，死墮惡道，住疾無間，到無資用T4,568b
@@ -353,7 +382,7 @@
        | On the way there, there is no resting place for you. And you have nothing to take with you. [DLMBSFn-V237]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 237 <{filename}../dhA/dhA-chap18%zh.rst#Dhp237>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 237 <{filename}../dhA/dhA-chap18%zh.rst#dhp237>`__
 
 .. _Dhp238:
 
@@ -376,6 +405,15 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 238 你應為自己做個島，趕快精進以成智者。
        | 清除了污垢且無染，你將不會再生與老。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 此刻，你就像枯萎的樹葉，死神的使者已經在你的身邊，你即將展開漫長的死亡之旅，卻尚未準備任何的資糧。 (偈235) 
+
+       為自己建造安全的島吧！儘早精進修行，成為智者吧！若能拂除塵垢與諸煩惱，就能證得聖者的境界。 (偈236) 
+
+       你的生命即將結束，開始步向無法中途停止的死亡之旅，但你卻尚未備妥任何的資糧。 (偈237) 
+
+       為自己建造安全的島吧！儘早精進修行，成為智者吧！若能拂除塵垢與諸煩惱，就不再生死輪迴了。 (偈238)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：當求智慧，以然意定，去垢勿污，可離苦形T4,568b
@@ -446,7 +484,7 @@
        | Without impurities and clear, you will never again come to birth and aging. [DLMBSFn-V238]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 238 <{filename}../dhA/dhA-chap18%zh.rst#Dhp238>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 238 <{filename}../dhA/dhA-chap18%zh.rst#dhp238>`__
 
 .. _Dhp239:
 
@@ -469,6 +507,9 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 239 智者漸次地、一點一點地、剎那至剎那地
        | 清除自己的污垢，就像金匠清除銀的雜質。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 智者應該點點滴滴，時時刻刻去除精神的煩惱，就像金匠去除金子的渣滓。 (偈 239)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：慧人以漸，安徐稍進，洗除心垢，如工鍊金T4,568b
@@ -516,7 +557,7 @@
        | little by little, moment by moment - just like a smith does with silver. [DLMBSFn-V239]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 239 <{filename}../dhA/dhA-chap18%zh.rst#Dhp239>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 239 <{filename}../dhA/dhA-chap18%zh.rst#dhp239>`__
 
 .. _Dhp240:
 
@@ -539,6 +580,9 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 240 如鐵鏽自鐵而生，生鏽後反蝕其鐵；
        | 違犯者也是如此，被自業帶到惡趣。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 惡業使作惡業的人墮落惡趣，如同鐵銹從鐵塊中長出來，卻反而腐蝕鐵塊。 (偈 240)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：惡生於心，還自壞形，如鐵生垢，反食其身T4,568b
@@ -584,7 +628,7 @@
        | so the one who is indulging too much in the use of four requisites of a monk is led to a miserable existence by his own deeds. [DLMBSFn-V240]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 240 <{filename}../dhA/dhA-chap18%zh.rst#Dhp240>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 240 <{filename}../dhA/dhA-chap18%zh.rst#dhp240>`__
 
 .. _Dhp241:
 
@@ -607,6 +651,10 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 241 不背誦是學習的污垢，不維修是屋子的污垢，
        | 懈怠則是美貌的污垢，放逸是守護者的污垢。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - | 經文不常唱誦，容易遺忘；房屋不常照顧，容易腐壞。
+       | 怠惰會破壞美麗，放逸是護衛者過失的原因。 (偈 241)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：不誦為言垢，不勤為家垢，不嚴為色垢，放逸為事垢T4,568b
@@ -657,7 +705,7 @@
        | The stain of beauty is idleness. The stain of a guard is negligence. [DLMBSFn-V241]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 241 <{filename}../dhA/dhA-chap18%zh.rst#Dhp241>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 241 <{filename}../dhA/dhA-chap18%zh.rst#dhp241>`__
 
 .. _Dhp242:
 
@@ -680,6 +728,13 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 242 邪淫是婦女的污垢，吝嗇是施者的污垢；
        | 於此世及其他世裡，惡法的確就是污垢。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - | 邪淫是女人的污垢，吝嗇是布施者的污垢，
+       | 不論今生或來世，所有的惡業都是污垢。 (偈 242) 
+       | 
+       | 比丘們！無明是最污穢的污垢，
+       | 你們應該去除無明，成為無垢比丘。 (偈 243)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：慳為惠施垢，不善為行垢，今世亦後世，惡法為常垢T4,568b
@@ -730,7 +785,7 @@
        | Evil things are impure - in this world as well as in the other one. [DLMBSFn-V242]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 242 <{filename}../dhA/dhA-chap18%zh.rst#Dhp242>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 242 <{filename}../dhA/dhA-chap18%zh.rst#dhp242>`__
 
 .. _Dhp243:
 
@@ -753,6 +808,13 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 243 無明是最糟的污垢，比這些污垢還糟糕，
        | 諸比丘應斷此污垢，以便成為無污垢者。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - | 邪淫是女人的污垢，吝嗇是布施者的污垢，
+       | 不論今生或來世，所有的惡業都是污垢。 (偈 242) 
+       | 
+       | 比丘們！無明是最污穢的污垢，
+       | 你們應該去除無明，成為無垢比丘。 (偈 243)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：垢中之垢，莫甚於癡，學當捨惡，比丘無垢T4,568b
@@ -800,7 +862,7 @@
        | Having abandoned this stain, be pure, monks. [DLMBSFn-V243]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 243 <{filename}../dhA/dhA-chap18%zh.rst#Dhp243>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 243 <{filename}../dhA/dhA-chap18%zh.rst#dhp243>`__
 
 .. _Dhp244:
 
@@ -823,6 +885,11 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 244 無恥、勇若烏鴉、背後講人壞話、大膽、
        | 傲慢與腐敗者的生活是容易的。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 不知羞恥，鹵莽如烏鴉，詆譭他人，粗鄙邪惡的人，生活隨便。 (偈244) 
+
+       知所慚愧，清淨不染，謙遜，清淨，觀照察覺的人，生活戒慎。 (偈245)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：苟生無恥，如鳥長喙，強顏耐辱，名曰穢生T4,568b
@@ -874,7 +941,7 @@
        | offensive, braggart, reckless and impure. [DLMBSFn-V244]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 244 <{filename}../dhA/dhA-chap18%zh.rst#Dhp244>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 244 <{filename}../dhA/dhA-chap18%zh.rst#dhp244>`__
 
 .. _Dhp245:
 
@@ -897,6 +964,11 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 245 但是知恥、常求清淨、無著、謙虛、清淨活命
        | 及有知見者的生活是難的。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 不知羞恥，鹵莽如烏鴉，詆譭他人，粗鄙邪惡的人，生活隨便。 (偈244) 
+
+       知所慚愧，清淨不染，謙遜，清淨，觀照察覺的人，生活戒慎。 (偈245)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：廉恥雖苦，義取清白，避辱不妄，名曰潔生T4,568b
@@ -947,7 +1019,7 @@
        | sincere and cautious, of clean livelihood and seeing the truth. [DLMBSFn-V245]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 245 <{filename}../dhA/dhA-chap18%zh.rst#Dhp245>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 245 <{filename}../dhA/dhA-chap18%zh.rst#dhp245>`__
 
 .. _Dhp246:
 
@@ -970,6 +1042,11 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 246-247 殺生、說妄語、盜取世間不與之物、勾引別人的妻子
        | 和沉湎於飲酒的人，這樣的人在今世就把自己的根都挖掉了。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 殺生，妄語，拿非份之物，邪淫，酗酒的人，當下自尋惡報。 (偈246, 247) 
+
+       善良的人啊！惡念難於調御，所以不要因貪婪與邪惡，而使自己長期受苦報。 (偈248)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：愚人好殺，言無誠實，不與而取，好犯人婦T4,568c
@@ -1020,7 +1097,7 @@
        | [continued in DhP 247] [DLMBSFn-V246]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 246 <{filename}../dhA/dhA-chap18%zh.rst#Dhp246>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 246 <{filename}../dhA/dhA-chap18%zh.rst#dhp246>`__
 
 .. _Dhp247:
 
@@ -1043,6 +1120,11 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 246-247 殺生、說妄語、盜取世間不與之物、勾引別人的妻子
        | 和沉湎於飲酒的人，這樣的人在今世就把自己的根都挖掉了。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 殺生，妄語，拿非份之物，邪淫，酗酒的人，當下自尋惡報。 (偈246, 247) 
+
+       善良的人啊！惡念難於調御，所以不要因貪婪與邪惡，而使自己長期受苦報。 (偈248)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：逞心犯戒，迷惑於酒，斯人世世，自掘身本T4,568c
@@ -1091,7 +1173,7 @@
        | he digs out his own roots right here in this world. [DLMBSFn-V247]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 247 <{filename}../dhA/dhA-chap18%zh.rst#Dhp247>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 247 <{filename}../dhA/dhA-chap18%zh.rst#dhp247>`__
 
 .. _Dhp248:
 
@@ -1115,11 +1197,16 @@
      - | 248 善人你應如是知：惡法不易受控制。
        | 莫被貪與非法拖，拖去長久的痛苦。
 
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 殺生，妄語，拿非份之物，邪淫，酗酒的人，當下自尋惡報。 (偈246, 247) 
+
+       善良的人啊！惡念難於調御，所以不要因貪婪與邪惡，而使自己長期受苦報。 (偈248)
+
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：人如覺是，不當念惡，愚近非法，久自燒沒T4,568c
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 248. Know thus O good man: "Not easy of restraint are evil things". Let not greed and wickedness 5 drag you to protracted misery.
+     - 248. Know thus O good man: "Not easy of restraint are evil things". Let not greed and wickedness [NāradaFn18-05]_ drag you to protracted misery.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **248.** Know this, O good man: evil things are difficult to control. Let not greed and wickedness drag you to protracted misery.
@@ -1156,7 +1243,7 @@
        | Let not greed and injustice bring you suffering for a long time. [DLMBSFn-V248]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 248 <{filename}../dhA/dhA-chap18%zh.rst#Dhp248>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 248 <{filename}../dhA/dhA-chap18%zh.rst#dhp248>`__
 
 .. _Dhp249:
 
@@ -1182,6 +1269,11 @@
      - | 249 人們依照淨信與喜好行佈施。
        | 若人對他人的飲食心懷不滿，
        | 他於白晝或黑夜皆不能得定。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 人應出於信仰和喜樂而布施，嫉妒別人獲得飲食的人，日夜不得安寧。 (偈 249 ) 
+
+       如果連根拔除這種嫉妒心，日夜都安寧。 (偈 250 )
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經： 若信布施，欲揚名譽，會人虛飾，非入淨定T4,568c
@@ -1240,7 +1332,7 @@
        | he will never attain concentration, by day or night. [DLMBSFn-V249]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 249 <{filename}../dhA/dhA-chap18%zh.rst#Dhp249>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 249 <{filename}../dhA/dhA-chap18%zh.rst#dhp249>`__
 
 .. _Dhp250:
 
@@ -1263,6 +1355,11 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 250 若人能斷除根除、以及消滅此不滿，
        | 無論白晝或黑夜，他都的確能得定。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 人應出於信仰和喜樂而布施，嫉妒別人獲得飲食的人，日夜不得安寧。 (偈 249 ) 
+
+       如果連根拔除這種嫉妒心，日夜都安寧。 (偈 250 )
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：一切斷欲，截意根原，晝夜守一，必入定意T4,568c
@@ -1319,7 +1416,7 @@
        | he will attain concentration, by day or night. [DLMBSFn-V250]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 250 <{filename}../dhA/dhA-chap18%zh.rst#Dhp250>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 250 <{filename}../dhA/dhA-chap18%zh.rst#dhp250>`__
 
 .. _Dhp251:
 
@@ -1342,6 +1439,12 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 251 無火能和貪欲同等，無捉取能和瞋同等，
        | 無羅網能和痴同等，無河流能和愛同等。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - | 沒有任何火比得上貪欲，
+       | 沒有任何執著比得上瞋恚，
+       | 沒有任何繫縛比得上愚癡，
+       | 沒有任何河流比得上愛欲。 (偈 251)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：火莫熱於婬，捷莫疾於怒，網莫密於癡，愛流駛乎河T4,568c
@@ -1381,7 +1484,7 @@
        | There is no net like delusion. There is no river like thirst. [DLMBSFn-V251]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 251 <{filename}../dhA/dhA-chap18%zh.rst#Dhp251>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 251 <{filename}../dhA/dhA-chap18%zh.rst#dhp251>`__
 
 .. _Dhp252:
 
@@ -1407,6 +1510,9 @@
      - | 252 他人之過容易見到，自己之過卻很難見。
        | 對於他人種種過失，他會儘量多多宣揚。
        | 自己之過他則覆藏，如捕鳥者以樹藏身 [CFFn18-02]_ 。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 看見別人的過失很容易，看見自己的過失則很難；揭揚別人的過錯，像揚棄糟糠，但隱匿自己的過錯，卻像狡猾的捕禽者偽裝躲藏起來。 (偈252) [dhp-a-252-note]_
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 出曜經：善觀己瑕隙，使己不露外，彼彼自有隙，如彼飛輕塵。若己稱無瑕，二事俱并至T4,736b
@@ -1455,7 +1561,7 @@
        | One's own conceals like a cheating player of dice an unlucky throw. [DLMBSFn-V252]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 252 <{filename}../dhA/dhA-chap18%zh.rst#Dhp252>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 252 <{filename}../dhA/dhA-chap18%zh.rst#dhp252>`__
 
 .. _Dhp253:
 
@@ -1478,6 +1584,9 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 253 對於見他人之過、時常在埋怨的人，
        | 他的諸漏在增長，漏盡離他真遙遠。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 挑剔別人的過錯，容易忿怒的人煩惱增長，同時，離究竟斷惑的境界還很遙遠。 (偈253)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 出曜經：但見外人隙，恒懷危害心，遠觀不見近T4,736b
@@ -1525,7 +1634,7 @@
        | his taints only grow. He is far away from dissolution of taints. [DLMBSFn-V253]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 253 <{filename}../dhA/dhA-chap18%zh.rst#Dhp253>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 253 <{filename}../dhA/dhA-chap18%zh.rst#dhp253>`__
 
 .. _Dhp254:
 
@@ -1549,6 +1658,11 @@
      - | 254 虛空中沒有行道，正法外無聖沙門。
        | 眾生耽樂於虛妄，諸如來已無虛妄。
 
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 天空中無道跡，只有佛陀的教法才能證得涅槃，世間人執著諸邪見，如來則不。 (偈 254) 
+
+       天空中無道跡，只有佛陀的教法才能證得涅槃，五蘊無常，諸佛堅定，不隨境轉。 (偈 255)
+
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：虛空無轍迹，沙門無外意，眾人盡樂惡，唯佛淨無穢T4,568c
        2. 法集要頌經：虛空無轍迹，沙門無外意，眾人盡樂惡，唯佛淨無穢T4,793c
@@ -1560,7 +1674,7 @@
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
      - ``OUTSIDE THERE ARE NO SAINTS WHO HAVE REALISED NIBBĀNA   THERE ARE NO AGGREGATES WHICH ARE ETERNAL``
 
-       254. In the sky there is no track. Outside 10 there is no Saint. [NāradaFn18-11]_ Mankind delights in obstacles. [NāradaFn18-12]_ The Tathāgatas [NāradaFn18-13]_ are free from obstacles.
+       254. In the sky there is no track. Outside [NāradaFn18-10]_ there is no Saint. [NāradaFn18-11]_ Mankind delights in obstacles. [NāradaFn18-12]_ The Tathāgatas [NāradaFn18-13]_ are free from obstacles.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **254.** There is no track in the sky, and no recluse outside (the Buddha's dispensation). Mankind delights in worldliness, but the Buddhas are free from worldliness. [BudRkFn-v254-255]_
@@ -1599,7 +1713,7 @@
        | Mankind delights in obsession. The Buddhas are free of obsession. [DLMBSFn-V254]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 254 <{filename}../dhA/dhA-chap18%zh.rst#Dhp254>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 254 <{filename}../dhA/dhA-chap18%zh.rst#dhp254>`__
 
 .. _Dhp255:
 
@@ -1634,12 +1748,17 @@
 
        **污垢品第十八完畢**
 
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 天空中無道跡，只有佛陀的教法才能證得涅槃，世間人執著諸邪見，如來則不。 (偈 254) 
+
+       天空中無道跡，只有佛陀的教法才能證得涅槃，五蘊無常，諸佛堅定，不隨境轉。 (偈 255)
+
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：虛空無轍迹，沙門無外意，世間皆無常，佛無我所有T4,568c
        2. 法集要頌經：虛空無轍迹，沙門無外意，世間皆無常，佛無我所有T4,782b
 
    * - 英譯(Translated from the Pali by **Ven. Nārada Thera** ) [6]_
-     - 255. In the sky there is no track. Outside there is no Saint. There are no conditioned things [NāradaFn18-14]_ that are eternal. There is no instability 15 in the Buddhas.
+     - 255. In the sky there is no track. Outside there is no Saint. There are no conditioned things [NāradaFn18-14]_ that are eternal. There is no instability [NāradaFn18-15]_ in the Buddhas.
 
    * - 英譯(Translated from the Pali by **Ven. Ācharya Buddharakkhita** ) [7]_
      - **255.** There is no track in the sky, and no recluse outside (the Buddha's dispensation). There are no conditioned things that are eternal, and no instability in the Buddhas.
@@ -1678,7 +1797,7 @@
        | There are no conditioned things that are eternal. There is no instability in the Buddhas. [DLMBSFn-V255]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 255 <{filename}../dhA/dhA-chap18%zh.rst#Dhp255>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十八：垢穢品（污垢品） Dhp. 255 <{filename}../dhA/dhA-chap18%zh.rst#dhp255>`__
 
 --------------
 
@@ -1727,6 +1846,12 @@
 
 .. [12] 〔註012〕　取材自： `經文選讀 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ （ `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/index.jsp>`__ --- 語言教學． `巴利語教學 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali1.jsp>`__ ）
 
+.. [13] 〔註013〕　取材自：《法句經／故事集》，馬來西亞．達摩難陀長老(K. Sri Dhammananda) 編著，臺灣．周金言 譯， 1996.04 出版，620 頁，出版者：臺灣．嘉義市．新雨雜誌社 ( `法雨道場 <http://www.dhammarain.org.tw/>`__ ／ `雜誌月刊 <http://www.dhammarain.org.tw/magazine/all.html>`__ )；　
+
+         線上版： `法句經故事集 <http://www.budaedu.org/story/dp000.php>`__ （ `佛陀教育基金會 <http://www.budaedu.org>`__ ）、 `本站 <{filename}../dhp-story/dhp-story-han-ciu%zh.rst>`__ ；
+
+         `PDF 檔 <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`__ （ 直行式排版， `佛陀教育基金會 <http://www.budaedu.org>`__ ）
+
 .. [LChnFn18-01] 〔註18-01〕  「諸天之聖境」指五淨居天（Panca suddhavasa bhumi）－－ 無煩（Aviha），無熱（Atappa），善現（Sudassa），善見（Sudassi），色究竟（Akanittha）－－為阿那含果聖者所生之處。
 
 .. [LChnFn18-02] 〔註18-02〕  懶於整理為身體住處之穢。
@@ -1753,29 +1878,29 @@
 
 .. [MettFn18-04] 〔明法尊者註18-04〕 舍衛城有位屠牛夫，每餐必須有咖哩牛肉飯。有一天，他前往河中沐浴，當他離家後，他的一位朋友勸他妻子把牛肉賣掉，所以當天就沒有咖哩牛肉飯。他非常生氣，就跑到後院去，割下一隻公牛的舌頭，烘焙後坐下來吃。吃飯時，但卻咬斷自己的舌頭，死於非命，並且往生到惡趣。他的妻子嚇到，便勸他的兒子離開家鄉。她的兒子就到怛剎尸羅去當金匠，結婚生子。後來，返回舍衛城。金匠的兒子們都是佛教徒，擔心父親一生中沒有做過任何的善行。有一天，他們以父親的名義供養佛陀和諸比丘。請佛陀跟他們的父親開示，佛陀說：「你老了，你的身體像枯葉，你不要沒有來世善的旅途資糧做立足處，要聰明一點，不要笨笨的。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～一、屠夫和兒子的命運 (偈 235~238)。
+                  PS: 請參《法句經故事集》，十八～一、 `屠夫和兒子的命運 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-235>`__  (偈 235~238)。
 
 .. [MettFn18-05] 〔明法尊者註18-05〕 有一次，一位婆羅門看見一群比丘在整裝，準備去托缽。他發現到有的比丘的袈裟碰到草地上的雨露而沾濕了，他就除草。第二天，他發現有的比丘的袈裟碰地而弄髒了，他就用細砂鋪路。某日。大熱天，他發現比丘汗流浹背，他就蓋一座涼亭。下雨天，他發現還是會被雨水淋濕，就蓋一間休息的房舍。房舍蓋好時，他邀請佛陀和眾多比丘接受供養。佛陀說︰「婆羅門啊！有智慧的人一點一滴的完成善行。同時，慢慢地，但持續不斷的去除心中的煩惱。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～二、供養聖者的婆羅門 (偈 239)。
+                  PS: 請參《法句經故事集》，十八～二、 `供養聖者的婆羅門 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-239>`__  (偈 239)。
 
 .. [MettFn18-06] 〔明法尊者註18-06〕 不誦經典是(學習的)污垢，不勤勞是房屋的污垢，懶惰是美貌的污垢，放逸是守護的污垢。
 
 .. [MettFn18-07] 〔明法尊者註18-07〕 小沙利比丘(Cūḷasāri)與舍利弗尊者的同住，他懂得醫理。有一天，他看完一位病人後，他向尊者說自己醫療後，得到美食做為醫療的報酬。他請舍利弗尊者與他分享這些美味。但舍利弗尊者一言不發地離去。比丘議論紛紛去見佛陀。佛陀說︰「諸比丘！無慚者不計後果，形同烏鴉(按︰烏鴉有偷盜行為)，二十一種錯誤的謀生方式生活較快樂，具足慚者生活較苦。」台諺也有：「做惡做毒﹐騎馬轆硞；好心好行﹐無衫通穿。」 (co3ok4co3tok8\ khia5be2 lok8khok8\ ho2sim1ho2hing7 \bo5sann1 thang1 ching7)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～六、行醫的比丘 (偈 244~245)。
+                  PS: 請參《法句經故事集》，十八～六、 `行醫的比丘 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-244>`__  (偈 244~245)。
 
 .. [MettFn18-08] 〔明法尊者註18-08〕 有一次，五位在家優婆塞到祇樹給孤獨園去持戒，他們各自守五戒中的一戒，每個人都說自己所守的戒最難做到，最難遵守。因此爭論不休，他們就向佛陀報告他們各自的見解，佛陀說：「所有戒律都難於遵守。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～七、守戒不容易 (偈 246~248)。
+                  PS: 請參《法句經故事集》，十八～七、 `守戒不容易 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-246>`__  (偈 246~248)。
 
 .. [MettFn18-09] 〔明法尊者註18-09〕 年輕人提舍(Tissadahara)會蔑視他人的善行。他甚至蔑視給孤獨長者和毘舍佉布施給五十萬聖弟子(pañcannaṁ ariyasāvakakoṭīnaṁ)。他更吹噓說，他的親戚都非常富有，像大寺院接受四方來的比丘。有些比丘懷疑，就去調查，結果發現他的親戚都很貧窮，提舍所說的全不實在。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～八、嫉妒的心不得安寧 (偈 249~250)。
+                  PS: 請參《法句經故事集》，十八～八、 `嫉妒的心不得安寧 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-249>`__  (偈 249~250)。
 
 .. [MettFn18-10] 〔明法尊者註18-10〕 本句白話翻譯︰「沒有像貪欲的火，沒有像瞋恚的執著，沒有像愚癡的網，沒有像愛欲的河流。」說此本偈的因緣是，有一次佛陀在說法時，五位居士當中有四位沒有專心在聽。這四位沒有專心在聽的人，過去世當過蛇(聽法時打瞌睡)、地下生物(聽法時刮地)、猴子(聽法時搖樹)、星象家(聽法時看天)，因此習性猶在。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～九、精神不集中的信徒 (偈 251)。
+                  PS: 請參《法句經故事集》，十八～九、 `精神不集中的信徒 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-251>`__  (偈 251)。
 
 .. [MettFn18-11] 〔明法尊者註18-11〕 **博者** ：satho，賭徒，註疏解釋它為捕鳥者。
 
@@ -1783,9 +1908,11 @@
 
 .. [MettFn18-13] 〔明法尊者註18-13〕 跋提城(Bhaddiyanagara)公羊富翁(Meṇḍakaseṭṭhi，meṇḍaka為公羊，因他曾在家中後院發現大堆等身高的金羊雕像，人們因此稱呼他公羊富翁)聽說佛陀來到跋提，就同家人前去見佛陀，在聽完佛陀的說法後，證得初果。公羊富翁告訴佛陀，在他們來時，一些外道批評佛陀，並且試圖說服他不要來。佛陀說：「優婆塞！諸有情對自己的缺點視若無睹，別人沒有缺點認為有，吹毛求疵(原文︰吹開穀物bhusaṁ viya opunantī)。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～十、富翁 (偈 252)。
+                  PS: 請參《法句經故事集》，十八～十、 `富翁 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-252>`__  (偈 252)。
 
 .. [MettFn18-14] 〔明法尊者註18-14〕 **易忿** ：ujjhāna，譏嫌。
+
+.. [dhp-a-252-note] Nanda 補註：原譯為：「卻像狡猾的家禽躲藏起來」，今依 `多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap18%zh.rst>`_ 之他譯（據註解書）更改為「卻像狡猾的捕禽者偽裝躲藏起來」。
 
 .. [NāradaFn18-01] (Ven. Nārada 18-01) Namely: the Pure Abodes (Suddhāvāsa).
 
@@ -1928,20 +2055,24 @@
 
 **校註：**
 
-.. [NandFn18-01] 〔Nanda 校註18-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～三、往生成昆蟲的比丘 (偈 240)。
+.. [NandFn18-01] 〔Nanda 校註18-01〕 請參《法句經故事集》，十八～三、 `往生成昆蟲的比丘 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-240>`__  (偈 240)。
 
-.. [NandFn18-02] 〔Nanda 校註18-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～四、打誑語的比丘 (偈 241)。
+.. [NandFn18-02] 〔Nanda 校註18-02〕 請參《法句經故事集》，十八～四、 `打誑語的比丘 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-241>`__  (偈 241)。
 
-.. [NandFn18-03] 〔Nanda 校註18-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～五、妻子有外遇的男子 (偈 242~243)。
+.. [NandFn18-03] 〔Nanda 校註18-03〕 請參《法句經故事集》，十八～五、 `妻子有外遇的男子 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-242>`__  (偈 242~243)。
 
-.. [NandFn18-04] 〔Nanda 校註18-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～十一、挑剔的比丘 (偈 253)。
+.. [NandFn18-04] 〔Nanda 校註18-04〕 請參《法句經故事集》，十八～十一、 `挑剔的比丘 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-253>`__  (偈 253)。
 
 .. [NandFn18-05] 〔Nanda 校註18-05〕(研讀; c.f. `gatha050 <{filename}../dhA/dhA-chap04%zh.rst#dhp050>`__ ).
 
-.. [NandFn18-06] 〔Nanda 校註18-06〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～十二、四處雲行的苦行者 (偈 254~255)。
+.. [NandFn18-06] 〔Nanda 校註18-06〕 請參《法句經故事集》，十八～十二、 `四處雲行的苦行者 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-254>`__  (偈 254~255)。
 
 ---------------------------
 
 - `法句經 (Dhammapada) <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+..
+   2018-08-19 post, 08-16 add: 周金言 譯《法句經故事集》(from rst)
+   2016.04.17 created from rst

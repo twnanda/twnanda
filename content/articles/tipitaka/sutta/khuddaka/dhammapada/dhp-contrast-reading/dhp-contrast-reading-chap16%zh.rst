@@ -3,7 +3,7 @@
 ========================================================================
 
 :date: 2016-06-04 16:30
-:modified: 2016-09-27 17:30
+:modified: 2018-08-19
 :tags: 法句經, 法句經對讀, 喜愛品, Dhp, Dhammapada, Piyavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Affection
@@ -22,19 +22,19 @@
    :widths: 2 2 2 2 2 2
    :header-rows: 1
 
-   * - Dhp209_
-     - Dhp210_
-     - Dhp211_
-     - Dhp212_
-     - Dhp213_
-     - Dhp214_
+   * - dhp209_
+     - dhp210_
+     - dhp211_
+     - dhp212_
+     - dhp213_
+     - dhp214_
 
-   * - Dhp215_
-     - Dhp216_
-     - Dhp217_
-     - Dhp218_
-     - Dhp219_
-     - Dhp220_
+   * - dhp215_
+     - dhp216_
+     - dhp217_
+     - dhp218_
+     - dhp219_
+     - dhp220_
 
 --------------
 
@@ -48,7 +48,7 @@
 
 --------------
 
-.. _Dhp209:
+.. _dhp209:
 
 .. list-table:: Dhammapada Dhp. 209
    :widths: 15 75
@@ -77,6 +77,15 @@
 
        | 209 自己致力於不該做的，卻沒有致力於該做的；
        | 放棄修行追求欲樂者，將羨慕能自己奮鬥者。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 第十六品－－喜愛品
+
+       比丘若流連不該去的地方，不修持正思惟，放棄戒定慧三學，而還俗去追求欲樂，則只能羨慕修證的比丘。 (偈 209) 
+
+       不要貪戀可親與不可親的人事物，怨憎會、愛別離都是痛苦的。 (偈 210) 
+
+       所以不要愛染，因為愛別離是痛苦的，沒有愛染與憎怨的人，毫無繫縛。 (偈 211)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：違道則自順，順道則自違，捨義取所好，是為順愛欲T4,567c
@@ -132,9 +141,9 @@
        | having renounced spiritual welfare; one grasping after the pleasant envies one who is pursuing the purification of mind. [DLMBSFn-V209]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 209 <{filename}../dhA/dhA-chap16%zh.rst#Dhp209>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 209 <{filename}../dhA/dhA-chap16%zh.rst#dhp209>`__
 
-.. _Dhp210:
+.. _dhp210:
 
 .. list-table:: Dhammapada Dhp. 210
    :widths: 15 75
@@ -155,6 +164,13 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 210 莫與喜愛者相處，莫與厭惡者相處；
        | 不見喜愛者是苦，見厭惡者也是苦。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 比丘若流連不該去的地方，不修持正思惟，放棄戒定慧三學，而還俗去追求欲樂，則只能羨慕修證的比丘。 (偈 209) 
+
+       不要貪戀可親與不可親的人事物，怨憎會、愛別離都是痛苦的。 (偈 210) 
+
+       所以不要愛染，因為愛別離是痛苦的，沒有愛染與憎怨的人，毫無繫縛。 (偈 211)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：不當趣所愛，亦莫有不愛，愛之不見憂，不愛見亦憂T4,567c
@@ -204,9 +220,9 @@
        | Not seeing the dear ones is suffering - and seeing the unloved ones. [DLMBSFn-V210]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 210 <{filename}../dhA/dhA-chap16%zh.rst#Dhp210>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 210 <{filename}../dhA/dhA-chap16%zh.rst#dhp210>`__
 
-.. _Dhp211:
+.. _dhp211:
 
 .. list-table:: Dhammapada Dhp. 211
    :widths: 15 75
@@ -227,6 +243,13 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 211 因此不應有喜愛，與喜愛者別離苦；
        | 無喜愛無不喜者，他們沒有諸束縛。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 比丘若流連不該去的地方，不修持正思惟，放棄戒定慧三學，而還俗去追求欲樂，則只能羨慕修證的比丘。 (偈 209) 
+
+       不要貪戀可親與不可親的人事物，怨憎會、愛別離都是痛苦的。 (偈 210) 
+
+       所以不要愛染，因為愛別離是痛苦的，沒有愛染與憎怨的人，毫無繫縛。 (偈 211)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：是以莫造愛，愛憎惡所由，已除縛結者，無愛無所憎T4,567c
@@ -275,9 +298,9 @@
        | There are no bonds for those, for whom there is nothing dear or unloved. [DLMBSFn-V211]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 211 <{filename}../dhA/dhA-chap16%zh.rst#Dhp211>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 211 <{filename}../dhA/dhA-chap16%zh.rst#dhp211>`__
 
-.. _Dhp212:
+.. _dhp212:
 
 .. list-table:: Dhammapada Dhp. 212
    :widths: 15 75
@@ -298,6 +321,10 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 212 由喜愛引生憂愁，由喜愛引生恐懼。
        | 對於解脫喜愛者，既無憂哪來恐懼？
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - | 喜愛會引起憂愁，喜愛會引起恐怖，
+       | 毫無喜愛的人，遠離憂愁，恐怖。 (偈 212)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：愛喜生憂，愛喜生畏，無所愛喜，何憂何畏？T4,567c
@@ -369,9 +396,9 @@
        | One freed from affection has no grief, whence fear? [DLMBSFn-V212]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 212 <{filename}../dhA/dhA-chap16%zh.rst#Dhp212>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 212 <{filename}../dhA/dhA-chap16%zh.rst#dhp212>`__
 
-.. _Dhp213:
+.. _dhp213:
 
 .. list-table:: Dhammapada Dhp. 213
    :widths: 15 75
@@ -392,6 +419,10 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 213 由親愛引生憂愁，由親愛引生恐懼。
        | 對於解脫親愛者，既無憂哪來恐懼？
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - | 喜愛會引起憂愁，喜愛也會引發恐怖，
+       | 割捨喜愛的人，遠離憂愁恐怖。 (偈 213)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法集要頌經：由愛生憂愁，由愛生怖畏，若遠離念愛，遂捨狂亂終T4,779c
@@ -454,9 +485,9 @@
        | One freed from love has no grief, whence fear? [DLMBSFn-V213]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 213 <{filename}../dhA/dhA-chap16%zh.rst#Dhp213>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 213 <{filename}../dhA/dhA-chap16%zh.rst#dhp213>`__
 
-.. _Dhp214:
+.. _dhp214:
 
 .. list-table:: Dhammapada Dhp. 214
    :widths: 15 75
@@ -477,6 +508,10 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 214 由喜樂引生憂愁，由喜樂引生恐懼。
        | 對於解脫喜樂者，既無憂哪來恐懼？
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - | 執著引發憂愁，執著引發恐怖，
+       | 毫無執著的人，遠離憂愁恐怖。 (偈 214)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：好樂生憂，好樂生畏，無所好樂，何憂何畏？T4,567c
@@ -542,9 +577,9 @@
        | One freed from attachment has no grief, whence fear? [DLMBSFn-V214]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 214 <{filename}../dhA/dhA-chap16%zh.rst#Dhp214>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 214 <{filename}../dhA/dhA-chap16%zh.rst#dhp214>`__
 
-.. _Dhp215:
+.. _dhp215:
 
 .. list-table:: Dhammapada Dhp. 215
    :widths: 15 75
@@ -565,6 +600,10 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 215 由欲樂引生憂愁，由欲樂引生恐懼。
        | 對於解脫欲樂者，既無憂哪來恐懼？
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - | 欲樂引發憂愁，欲樂引發恐怖，
+       | 毫無欲樂的人，遠離憂愁恐怖。 (偈 215)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 出曜經：愛欲生憂，愛欲生畏，無所愛欲，何憂何畏？T4,627c
@@ -627,9 +666,9 @@
        | One freed from pleasure has no grief, whence fear? [DLMBSFn-V215]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 215 <{filename}../dhA/dhA-chap16%zh.rst#Dhp215>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 215 <{filename}../dhA/dhA-chap16%zh.rst#dhp215>`__
 
-.. _Dhp216:
+.. _dhp216:
 
 .. list-table:: Dhammapada Dhp. 216
    :widths: 15 75
@@ -650,6 +689,10 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 216 由貪愛引生憂愁，由貪愛引生恐懼。
        | 對於解脫貪愛者，既無憂哪來恐懼？
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - | 貪愛會引起憂愁，貪愛會生起恐怖，
+       | 毫無貪愛的人，遠離憂愁恐怖。 (偈216)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：貪欲生憂，貪欲生畏，解無貪欲，何憂何畏？T4,567c
@@ -713,9 +756,9 @@
        | One freed from thirst has no grief, whence fear? [DLMBSFn-V216]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 216 <{filename}../dhA/dhA-chap16%zh.rst#Dhp216>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 216 <{filename}../dhA/dhA-chap16%zh.rst#dhp216>`__
 
-.. _Dhp217:
+.. _dhp217:
 
 .. list-table:: Dhammapada Dhp. 217
    :widths: 15 75
@@ -731,11 +774,14 @@
        | Attano kamma kubbānaṃ, taṃ jano kurute piyaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二一七　具戒及正見，住法知真諦，圓滿自所行，彼為心人愛。 [LChnFn16-02]_ 、 [LChnFn16-03]_ 、 [LChnFn16-04]_ 、 [MettFn16-06]_ 、 [MettFn16-07]_
+     - 二一七　具戒及正見，住法知真諦，圓滿自所行，彼為眾人愛。 [LChnFn16-02]_ 、 [LChnFn16-03]_ 、 [LChnFn16-04]_ 、 [MettFn16-06]_ 、 [MettFn16-07]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 217 具足戒行與智見、住於法及悟真諦、 [CFFn16-01]_
        | 實行自己的任務，此人受眾人喜愛。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 持戒嚴謹，具足正見，住法 [dhp-a-217-note]_ ，明白聖諦，而且戒定慧三學圓滿的人，為世人所敬愛。 (偈 217)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：貪法戒成，至誠知慚，行身近道，為眾所愛T4,567c
@@ -783,9 +829,9 @@
        | righteous, knowing the truth and is doing what should be done. [DLMBSFn-V217]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 217 <{filename}../dhA/dhA-chap16%zh.rst#Dhp217>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 217 <{filename}../dhA/dhA-chap16%zh.rst#dhp217>`__
 
-.. _Dhp218:
+.. _dhp218:
 
 .. list-table:: Dhammapada Dhp. 218
    :widths: 15 75
@@ -806,6 +852,9 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 218 對超言說生起欲，其心盈滿了（三果）， [CFFn16-02]_
        | 心不受欲樂束縛，他被稱為上流人。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 渴求涅槃，已經證得三果，而不為物欲所繫縛的人，就是證得不還果的人。 (偈 218) [dhp-a-218-note2]_
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：欲態不出，思正乃語，心無貪愛，必截流渡T4,567c
@@ -849,9 +898,9 @@
        | righteous, knowing the truth and is doing what should be done. [DLMBSFn-V218]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 218 <{filename}../dhA/dhA-chap16%zh.rst#Dhp218>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 218 <{filename}../dhA/dhA-chap16%zh.rst#dhp218>`__
 
-.. _Dhp219:
+.. _dhp219:
 
 .. list-table:: Dhammapada Dhp. 219
    :widths: 15 75
@@ -872,6 +921,11 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 219 如長久在異鄉之人，從遠方平安歸來時，
        | 親友及願他幸福者，愉快地歡迎他歸來。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 長期離開家鄉，到遠處去的親人平安歸來的時候，親朋好友和祝福的人都來歡迎他（她）。 (偈 219) 
+
+       同理，作善業的人雖然往生，仍然得到善報，一如親朋好友歡迎返鄉的親人。 (偈 220)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：譬人久行，從遠吉還，親厚普安，歸來歡喜T4,567c
@@ -925,9 +979,9 @@
        | a person, long away from home, safely come back from far away, [DLMBSFn-V219]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 219 <{filename}../dhA/dhA-chap16%zh.rst#Dhp219>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 219 <{filename}../dhA/dhA-chap16%zh.rst#dhp219>`__
 
-.. _Dhp220:
+.. _dhp220:
 
 .. list-table:: Dhammapada Dhp. 220
    :widths: 15 75
@@ -959,6 +1013,11 @@
        | 
 
        **喜愛品第十六完畢**
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 長期離開家鄉，到遠處去的親人平安歸來的時候，親朋好友和祝福的人都來歡迎他（她）。 (偈 219) 
+
+       同理，作善業的人雖然往生，仍然得到善報，一如親朋好友歡迎返鄉的親人。 (偈 220)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：好行福者，從此到彼，自受福祚，如親來喜T4,567c
@@ -1010,7 +1069,7 @@
        | just like relatives receive a beloved one, who has come back. [DLMBSFn-V220]_
 
    * - 巴利註解漢譯 [11]_
-     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 220 <{filename}../dhA/dhA-chap16%zh.rst#Dhp220>`__
+     - 請參考 `巴利《法句經》註解　摘譯　十六：喜愛品 Dhp. 220 <{filename}../dhA/dhA-chap16%zh.rst#dhp220>`__
 
 --------------
 
@@ -1059,6 +1118,12 @@
 
 .. [12] 〔註012〕　取材自： `經文選讀 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ （ `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/index.jsp>`__ --- 語言教學． `巴利語教學 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali1.jsp>`__ ）
 
+.. [13] 〔註013〕　取材自：《法句經／故事集》，馬來西亞．達摩難陀長老(K. Sri Dhammananda) 編著，臺灣．周金言 譯， 1996.04 出版，620 頁，出版者：臺灣．嘉義市．新雨雜誌社 ( `法雨道場 <http://www.dhammarain.org.tw/>`__ ／ `雜誌月刊 <http://www.dhammarain.org.tw/magazine/all.html>`__ )；　
+
+         線上版：《法句經故事集》 <http://www.budaedu.org/story/dp000.php>`__ （ `佛陀教育基金會 <http://www.budaedu.org>`__ ）、 `本站 <{filename}../dhp-story/dhp-story-han-ciu%zh.rst>`__ ；
+
+         `PDF 檔 <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`__ （ 直行式排版， `佛陀教育基金會 <http://www.budaedu.org>`__ ）
+
 .. [LChnFn16-01] 〔註16-01〕  比丘為欲樂所迷，放棄行道，過著俗人生活，後見修道成就者，卻空自羨慕。
 
 .. [LChnFn16-02] 〔註16-02〕  指四果向、四果及涅槃九種殊勝法。
@@ -1079,25 +1144,25 @@
 
 .. [MettFn16-02] 〔明法尊者註16-02〕 舍衛城一獨子，沒有得到父母許可就去出家。他的父母因為戀子而出家。他們都住在同一精舍。佛陀說偈告誡他們。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__  ，十六～一、執著防礙修行 (偈 209~211)。
+                  PS: 請參《法句經故事集》，十六～一、 `執著防礙修行 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-209>`__  (偈 209~211)。
 
 .. [MettFn16-03] 〔明法尊者註16-03〕 一位富翁喪子，過度傷心，到火葬場(āḷāhanaṁ)去哭，無法控制。佛陀說偈安慰他。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__  ，十六～二、佛陀安慰傷心的人 (偈 212)。
+                  PS: 請參《法句經故事集》，十六～二、 `佛陀安慰傷心的人 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-212>`__ (偈 212)。
 
 .. [MettFn16-04] 〔明法尊者註16-04〕 毘舍佉優婆夷(Visākhā)的孫女蘇達坦(Sudatta)死亡，佛陀說偈安慰她。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__  ，十六～三、佛陀安慰毘舍佉 (偈 213)。
+                  PS: 請參《法句經故事集》，十六～三、 `佛陀安慰毘舍佉 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-213>`__ (偈 213)。
 
 .. [MettFn16-05] 〔明法尊者註16-05〕 王舍城中某婆羅門，他是邪見者，某日他去河岸邊耕作，佛陀見到他知道他具有不久即可證果的潛能。婆羅門見到佛陀不尊崇，保持緘默。佛陀首先開口聊起來，之後，佛陀都主動跟他打招呼。這婆羅門十分友善，他也很感謝佛陀的關心。他向佛陀說：「等我田裏的稻米成熟後，我會在收成之後，先分一些給你，我不會在分給你之前，先吃這些米飯。從現在起，你是我的好朋友。」但佛陀預知他今年不可能有收成，所以不發一言。在收成的前一天，下大雨，毀掉他的稻米。婆羅門因為無法如願送佛陀米糧而難過。佛陀去找他，安慰他。佛陀說此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__  ，十六～六、憂愁緣自渴愛 (偈 216)。
+                  PS: 請參《法句經故事集》，十六～六、 `憂愁緣自渴愛 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-216>`__  (偈 216)。
 
 .. [MettFn16-06] 〔明法尊者註16-06〕 **法** ：四向、四果、涅槃。
 
 .. [MettFn16-07] 〔明法尊者註16-07〕 一個節慶，佛陀跟眾多比丘前往王舍城托缽。沿途，他們遇見幾位手上都提著糕餅籃子的孩子，他們向佛陀問訊，但卻沒有供養糕餅。佛陀告訴其他比丘等一等，在路邊樹下休息。這時候，迦葉尊者從後面趕來，這些孩子一見到迦葉尊者，馬上流露出高興的表情，他們向尊者問訊，並且供養糕餅。迦葉尊者對他們說：「我的老師──佛陀和眾多比丘就在樹下休息，去供養他們吧。」這些孩子就去供養佛陀。佛陀說：「比丘若像迦葉尊者一般，天人都會喜愛，也會得到四事供養。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__  ，十六～七、獲得很多籃子點心的迦葉尊者 (偈 217)。
+                  PS: 請參《法句經故事集》，十六～七、 `獲得很多籃子點心的迦葉尊者 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-217>`__  (偈 217)。
 
 .. [MettFn16-08] 〔明法尊者註16-08〕 **離言法** ：anakkhāte (於未宣布)。DhA.： **Anakkhāte**\ ti nibbāne.( **於未宣布** ： 於涅槃)。
 
@@ -1105,7 +1170,11 @@
 
 .. [MettFn16-10] 〔明法尊者註16-10〕 有一次，難提耶(Nandiyo)優婆塞聽佛陀說，蓋精舍給比丘住有大利益，於是他就在波羅奈仙人墮處概一間精舍獻給佛陀。大目犍連到忉利天時，見到天上有一間難提耶的天宮。《天宮事》(Vv.PTS:#862.)︰「在波羅奈，有名為難提耶的優婆塞，不慳貪，慷慨的施主。在人群如太陽輝耀，住在天宮者即此是此人。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__  ，十六～九、難提獲得往生天界的榮耀 (偈 219~220)。
+                  PS: 請參《法句經故事集》，十六～九、 `難提獲得往生天界的榮耀 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-219>`__  (偈 219~220)。
+
+.. [dhp-a-217-note] 「住法」指四向、四果及涅槃九種殊勝法。
+
+.. [dhp-a-218-note2] Nanda 補註：此偈頌，〝佛陀教育基金會〞改譯為：「 `渴求涅槃，心中感受到三果的喜悅，並且不為物欲所繫縛的人，就是證得不還果的人。 <http://www.budaedu.org/story/dp218.php>`__ (偈 218)」
 
 .. [NāradaFn16-01] (Ven. Nārada 16-01) That is, frequenting places undesirable for bhikkhus.
 
@@ -1193,14 +1262,20 @@
 
 **校註：**
 
-.. [NandFn16-01] 〔Nanda 校註16-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__ ，十六～四、為妓女大打出手的王子們 (偈 214)。
+.. [NandFn16-01] 〔Nanda 校註16-01〕 請參《法句經故事集》，十六～四、 `為妓女大打出手的王子們 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-214>`__  (偈 214)。
 
-.. [NandFn16-02] 〔Nanda 校註16-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__ ，十六～五、安尼其喬達枯瑪痛失新娘 (偈 215)。
+.. [NandFn16-02] 〔Nanda 校註16-02〕 請參《法句經故事集》，十六～五、 `安尼其喬達枯瑪痛失新娘 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-215>`__  (偈 215)。
 
-.. [NandFn16-03] 〔Nanda 校註16-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__ ，十六～八、往生五淨居天的比丘 (偈 218)。
+.. [NandFn16-03] 〔Nanda 校註16-03〕 請參《法句經故事集》，十六～八、 `往生五淨居天的比丘 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-218>`__  (偈 218)。
 
 ---------------------------
 
 - `法句經 (Dhammapada) <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+
+..
+   2018-08-19 post, 08-16 add: 周金言 譯《法句經故事集》(from rst)
+   2018-07-24 rev. old:心人愛; link (anchor) replace CAP with small letter 
+   2016.04.17 created from rst

@@ -3,7 +3,7 @@
 ===========================================================================
 
 :date: 2016-06-03 21:30
-:modified: 2016-09-08 15:30
+:modified: 2018-08-19
 :tags: 法句經, 法句經對讀, 阿羅漢品, Dhp, Dhammapada, Arahantavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Arahat
@@ -76,6 +76,12 @@
 
        | 90 對於旅程已走完、無憂解脫了一切、
        | 已斷一切束縛者，於他不會有熱惱。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 第七品－－阿羅漢品
+
+       | 不再生死輪迴，不後悔，解脫一切，自由自在，
+       | 斷一切繫縛** [dhp-a-090-note]_ 的人 [dhp-a-090-note2]_ ，沒有任何貪欲。 (偈90)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：去離憂患，脫於一切，縛結已解，冷而無煖T04, 564b
@@ -158,6 +164,9 @@
      - | 91 具念者勤於修行，他們不執著住處；
        | 如天鵝捨棄池塘，家家他們都捨棄。
 
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 正念現前的人精進修行，如同天鵝飛離沼澤，他們不樂在家 [dhp-a-091-note]_ ，而正信出家。 (偈91)
+
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：心淨得念，無所貪樂，已度癡淵，如鴈棄池T04, 564b
        2. 出曜經：心淨得念，無所貪樂，已度癡淵，如鴈棄池T04, 706c
@@ -223,6 +232,9 @@
      - | 92 對於沒有儲藏者，他們已徹知食物。
        | 他們的目標就是：空與無相的解脫。 [CFFn07-01]_
        | 其去處無法追尋，如空中鳥的去處。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 阿羅漢不積聚 [dhp-a-092-note]_ ，進食時如實知進食的意義 [dhp-a-092-note2]_ 。阿羅漢以解脫為修行的目的，解脫即是空、無相 [dhp-a-092-note3]_ 。阿羅漢不輪迴，如同鳥在天空飛，蹤跡不可覓。 (偈 92)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：量腹而食，無所藏積，心空無想，度眾行地。如空中鳥，遠逝無礙T04, 564b
@@ -303,6 +315,9 @@
        | 他的目標是解脫，空與無相的解脫。
        | 其行道無法追尋，如空中鳥的行道。
 
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 阿羅漢的諸漏已盡，不執著飲食，阿羅漢以解脫為修行的目的，解脫即是空、無相。阿羅漢的行境如鳥飛過天空，無跡可尋。 (偈 93)
+
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：世間習盡，不復仰食，虛心無患，已到脫處，譬如飛鳥，暫下輒逝T04, 564b
        2. 法集要頌經：如鳥飛虛空，而無有所礙，彼人獲無漏，空無相願定。如鳥飛虛空，而無有所礙，行人到彼岸，空無相願定T04, 793c
@@ -378,6 +393,9 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 94 他的諸根已達到平靜，就像馴馬師馴服的馬，
        | 他已斷除我慢及無漏，神也喜愛如如不動者。 [CFFn07-02]_
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 諸根寂靜的人，如善御者馴服的馬匹；沒有我慢和欲漏的人，諸天也仰慕。 (偈 94)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：制根從正，如馬調御，捨憍慢習，為天所敬T04, 564b7
@@ -461,6 +479,9 @@
      - | 95 如如不動善修者如門柱，他猶如大地不會被激怒，
        | 他就像沒有淤泥的水池，如如不動者不再有輪迴。
 
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 阿羅漢猶如大地，耐心具足，若受人刺激，也不憤怒；阿羅漢虔誠堅定，一如因陀揭羅 [dhp-a-095-note]_ ；阿羅漢內心安祥清淨，如無污泥的池塘，不再生死輪迴。 (偈 95)
+
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：不怒如地，不動如山，真人無垢，生死世絕T04, 564b
        2. 法句經：受辱心如地，行忍如門閾，淨如水無垢，生盡無彼受T04, 573c
@@ -541,6 +562,9 @@
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 96 透過正慧而解脫、寂靜如如不動者，
        | 他的意是寧靜的，其語與身亦寧靜。
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 阿羅漢的身口意清淨；阿羅漢智慧具足，究竟解脫，究境寂靜，不受生命中的得失左右。 (偈 96)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：心已休息，言行亦止，從正解脫，寂然歸滅T04, 564b
@@ -628,6 +652,9 @@
      - | 97 不盲信及知無為、斷除了繫縛的人，
        | 不再造業已除欲，他的確是至上人。
 
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 阿羅漢自證涅槃而不輕信；阿羅漢不再生死輪迴，不再造業，斷除所有的貪欲；阿羅漢是無上士。 (偈 97)
+
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：棄欲無着，缺三界障，婬意已絕，是謂上人T04, 564b
        2. 法句譬喻經：棄欲無著，缺三界障，婬意已絕，是謂上人T04, 588c
@@ -704,6 +731,9 @@
      - | 98 在村子或森林裡，在山谷或在山上，
        | 阿羅漢所住之處，其地都令人愉悅。
 
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 不管是村落或林間，平地或丘陵，阿羅漢居住的地方，一切安樂。 (偈 98)
+
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：在聚若野，平地高岸，應真所過，莫不蒙祐T04, 564b
        2. 法句譬喻經：若聚若野，平地高岸，應真所過，莫不蒙祐T04, 588c
@@ -779,6 +809,9 @@
        | 
 
        **阿羅漢品第七完畢**
+
+   * - 漢譯(周金言 譯, 白話文版) [13]_
+     - 林野寂靜處，世人所不愛；阿羅漢遠離欲樂，歡喜安住林野寂靜處。 (偈 99)
 
    * - 漢譯(相當之古漢譯對應經典) [5]_
      - 1. 法句經：彼樂空閑，眾人不能，快哉無婬，無所欲求T04, 564b
@@ -870,6 +903,12 @@
 
 .. [12] 〔註012〕　取材自： `經文選讀 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ （ `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/index.jsp>`__ --- 語言教學． `巴利語教學 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali1.jsp>`__ ）
 
+.. [13] 〔註013〕　取材自：《法句經／故事集》，馬來西亞．達摩難陀長老(K. Sri Dhammananda) 編著，臺灣．周金言 譯， 1996.04 出版，620 頁，出版者：臺灣．嘉義市．新雨雜誌社 ( `法雨道場 <http://www.dhammarain.org.tw/>`__ ／ `雜誌月刊 <http://www.dhammarain.org.tw/magazine/all.html>`__ )；　
+
+         線上版： `法句經故事集 <http://www.budaedu.org/story/dp000.php>`__ （ `佛陀教育基金會 <http://www.budaedu.org>`__ ）、 `本站 <{filename}../dhp-story/dhp-story-han-ciu%zh.rst>`__ ；
+
+         `PDF 檔 <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`__ （ 直行式排版， `佛陀教育基金會 <http://www.budaedu.org>`__ ）
+
 .. [LChnFn07-01] 〔註07-01〕  「阿羅漢」（Arahant）是斷盡一切煩惱，證得涅槃，不會再有生死的聖人。
 
 .. [LChnFn07-02] 〔註07-02〕  有為的路業已行盡，即所謂：「諸漏已盡，所作已辦，梵行已立」。
@@ -908,7 +947,7 @@
 
 .. [MettFn07-03] 〔明法尊者註07-03〕 佛陀受提婆達多推落的石片傷到腳姆指，耆婆神醫幫忙治療。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～一、佛陀和名醫耆域 (偈 090)。
+                  PS: 請參《法句經故事集》，七～一、 `佛陀和名醫耆域 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-090>`__ (偈 090)。
 
 .. [MettFn07-04] 〔明法尊者註07-04〕 **彼等無積聚** ：DhA： **完全儲存(積聚)** ：有兩種：一、完全儲存業。二、完全儲存資具。對善業、不善業而言，名叫完全儲存業；四資具名叫完全儲存資具。
 
@@ -916,13 +955,13 @@
 
 .. [MettFn07-06] 〔明法尊者註07-06〕 有一次，在雨安居結束日。帝釋率領眾天神前往東園(鹿母講堂)，帝釋以天香與天花鬘獻給佛陀，他看到僧團保留給摩訶迦旃延長老的位子，心裡多麼希望尊者也在精舍裡接受他的禮敬。這時候，摩訶迦旃延長老突然出現，帝釋非常歡喜，立刻以雙手按摩雙足頂禮。有些比丘不以為然，認為帝釋偏心。佛陀就說此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～五、帝釋敬重摩訶迦旃延尊者 (偈 094)。
+                  PS: 請參《法句經故事集》，七～五、 `帝釋敬重摩訶迦旃延尊者 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-094>`__ (偈 094) 。
 
 .. [MettFn07-07] 〔明法尊者註07-07〕 **因陀揭羅** ：indrakhīla，門限，或是進城處安立堅固的柱子，象徵因陀羅(守護神)的所在。
 
 .. [MettFn07-08] 〔明法尊者註07-08〕 雨安居結束時，舍利弗長老正準備外出。有位比丘憤慨的向世尊告狀，說舍利弗尊者輕慢他。佛陀就請人召請舍利弗長老來，舍利弗長老表明他對待人的心態︰「我的心一直都像大地一樣，承受種種污穢、不淨物，不輕慢他人。我也像門墊、乞丐、斷腳的公牛一般，對污穢的血肉之軀感到厭惡，不再執著於它。」 (cf. A.9.11.) 舍利弗長老說完之後，那位年輕比丘感到愧疚，承認自己指控的錯誤，並且道歉。佛陀因此說了此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～六、比丘控訴舍利弗 (偈 095)。
+                  PS: 請參《法句經故事集》，七～六、 `比丘控訴舍利弗 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-095>`__ (偈 095) 。
 
 .. [MettFn07-09] 〔明法尊者註07-09〕 **無信** ：assaddho，聖者自證知，悟不由他。
 
@@ -930,7 +969,25 @@
 
 .. [MettFn07-11] 〔明法尊者註07-11〕 舍利弗尊者的三位姐妹和兩位弟弟都出家，最小弟弟離婆多(Revato)沒出家，他被安排婚姻，但是在婚宴上，他看到一位很老的女賓客，知道人生不離老病死，於是就去出家當沙彌，經過一個雨安居就證得阿羅漢果。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～九、舍利弗尊者最小的弟弟 (偈 098)。
+                  PS: 請參《法句經故事集》，七～九、 `舍利弗尊者最小的弟弟 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-098>`__ (偈 098) 。
+
+.. [dhp-a-090-note] 有四種繫縛：貪、瞋、戒禁取和見取。
+
+.. [dhp-a-090-note2] 即阿羅漢。
+
+.. [dhp-a-091-note] 阿羅漢行腳各地，而不執著特定的地方，因為阿羅漢沒有“我”和“我所”的觀念。
+
+.. [dhp-a-092-note] 積聚有二種：「業」和「四食」的積聚。「業」積聚會使人不斷輪迴。而「四食」積聚雖是生命的必須，但可能妨礙精神修持。
+
+.. [dhp-a-092-note2] 根據論，阿羅漢在進食時，應正念現前，具足三種食觀： 
+
+                     | 1. **知遍知** ： 確實明白食物的意義。 
+                     | 2. 審察遍知** ：確實明白食物的卑微。 
+                     | 3. 斷偏知** ： 滅盡進食的欲樂。
+
+.. [dhp-a-092-note3]  涅槃是苦的解脫。因為不再貪瞋癡所以也稱之為「空」，而不是說一無所有或一切斷滅。涅槃是積極的，超越凡俗的境界，無法用世俗的文字加以敘述。涅槃是無相的，因為不再有貪的形相。阿羅漢在生前就證得涅槃而領略涅槃的喜悅。說阿羅漢死後仍然存在或不存在都不正確，因為涅槃既不是常見也不是斷見。涅槃時，沒有任何東西是永恆的，而且，除了愛欲之外，沒有任何寂滅。阿羅漢在今生即證得涅槃而領略無上的涅槃喜悅。
+
+.. [dhp-a-095-note] 因陀揭羅，是在大門中間安放一堅固的石頭，作為關門時放門橛用的。另一種說法認為它是帝釋的柱子，在進城的地方安立一大而堅固的柱子，以象徵因陀羅（印度守護神）之所在。
 
 .. [NāradaFn07-01]  (Ven. Nārada 07-01) Arahanta has several meanings. It may be interpreted as "Worthy One". "Passionless One". Or one who commits no evil even secretly. He has got rid of both death and birth. After death, in conventional terms, he attains parinibbāna. Until his death he serves other seekers of truth by example and by precept.
 
@@ -994,17 +1051,17 @@
 
 **校註：**
 
-.. [NandFn07-01] 〔Nanda 校註07-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～二、阿羅漢不執著 (偈 091)。
+.. [NandFn07-01] 〔Nanda 校註07-01〕 請參《法句經故事集》，七～二、 `阿羅漢不執著 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-091>`__ (偈 091) 。
 
-.. [NandFn07-02] 〔Nanda 校註07-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～三、儲藏米穀的比丘 (偈 092)。
+.. [NandFn07-02] 〔Nanda 校註07-02〕 請參《法句經故事集》，七～三、 `儲藏米穀的比丘 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-092>`__ (偈 092) 。
 
-.. [NandFn07-03] 〔Nanda 校註07-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～四、阿那律陀比丘和女天神 (偈 093)。
+.. [NandFn07-03] 〔Nanda 校註07-03〕 請參《法句經故事集》，七～四、 `阿那律陀比丘和女天神 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-093>`__ (偈 093) 。
 
-.. [NandFn07-04] 〔Nanda 校註07-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～七、一眼失明 (偈 096)。
+.. [NandFn07-04] 〔Nanda 校註07-04〕 請參《法句經故事集》，七～七、 `一眼失明 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-096>`__ (偈 096) 。
 
-.. [NandFn07-05] 〔Nanda 校註07-05〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～八、只靠信仰無法證得涅槃 (偈 097)。
+.. [NandFn07-05] 〔Nanda 校註07-05〕 請參《法句經故事集》，七～八、 `只靠信仰無法證得涅槃  <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-097>`__ (偈 097)。
 
-.. [NandFn07-06] 〔Nanda 校註07-06〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～十、誘惑比丘的妓女 (偈 099)。
+.. [NandFn07-06] 〔Nanda 校註07-06〕 請參《法句經故事集》，七～十、 `誘惑比丘的妓女 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-099>`__ (偈 099) 。
 
 .. [DLMBSFn-V090] (DLMBS Commentary V090) Devadatta once tried to kill the Buddha by pushing a big rock on him from the top of the mountain. But the rock split and only one splinter hurt the Buddha's foot. The physician Jivaka attended on him. He applied some medicine and promised to come back and take the bandage off in the evening. But he was held by some other business and the city gates were already closed when he wanted to go to the monastery. He knew that the bandage had to be taken off that night, so he was very distressed. 
 
@@ -1060,3 +1117,8 @@
 - `法句經 (Dhammapada) <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+
+..
+   2018-08-19 post, 08-05 add: 周金言 譯《法句經故事集》(from rst)
+   2016.06.03 created from rst

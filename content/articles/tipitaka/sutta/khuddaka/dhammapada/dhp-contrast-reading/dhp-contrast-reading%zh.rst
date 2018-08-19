@@ -2,7 +2,7 @@
 ############################################
 
 :date: 2016-02-28 17:30
-:modified: 2016-10-09 16:30
+:modified: 2018-08-19
 :tags: 法句經, 法句經對讀, Dhp, Dhammapada, Dhammapadapāḷi, 法集要頌, 法句譬喻經, 出曜經, , Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom, The Path of Dhamma 
 :category: 巴利三藏小部
 :summary: 法句經多譯本對讀(段層次), Dhp, Dhammapada, Parallel Reading (paragraph granularity) of The Buddha's Path of Wisdom
@@ -18,6 +18,8 @@
   - 漢譯(**了參 法師** 譯, 文言文版) [3]_ 
 
   - 漢譯(**敬法 法師** 譯, 白話文版) [4]_ 
+
+  - 漢譯(周金言 譯, 白話文版) [13]_
  
   - 漢譯(相當之古漢譯對應經典) [5]_ 
 
@@ -168,8 +170,19 @@
 
 .. [12] 〔註012〕　取材自： `經文選讀 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali3.jsp>`__ （ `佛學數位圖書館暨博物館 <http://buddhism.lib.ntu.edu.tw/index.jsp>`__ --- 語言教學． `巴利語教學 <http://buddhism.lib.ntu.edu.tw/lesson/pali/lesson_pali1.jsp>`__ ）
 
+.. [13] 〔註013〕　取材自：《法句經／故事集》，馬來西亞．達摩難陀長老(K. Sri Dhammananda) 編著，臺灣．周金言 譯， 1996.04 出版，620 頁，出版者：臺灣．嘉義市．新雨雜誌社 ( `法雨道場 <http://www.dhammarain.org.tw/>`__ ／ `雜誌月刊 <http://www.dhammarain.org.tw/magazine/all.html>`__ )；　
+
+         線上版： `法句經故事集 <http://www.budaedu.org/story/dp000.php>`__ （ `佛陀教育基金會 <http://www.budaedu.org>`__ ）、 `本站 <{filename}../dhp-story/dhp-story-han-ciu%zh.rst>`__ ；
+
+         `PDF 檔 <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`__ （ 直行式排版， `佛陀教育基金會 <http://www.budaedu.org>`__ ）
+
 --------------
 
 - `法句經首頁  <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+
+..
+   2018-08-19 add & post: 周金言 譯《法句經故事集》(from rst)
+   2016.04.17 created from rst
