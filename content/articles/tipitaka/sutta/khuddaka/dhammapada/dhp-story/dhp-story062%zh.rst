@@ -1,18 +1,17 @@
-尊者的足跡
-==========
+吝嗇富翁的命運（尊者的足跡－南傳法句經的故事）
+================================================
 
 :date: 2004-03-07
-:modified: 2004-03-07
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Story062.htm
+:modified: 2018-08-19
 :author: 護法法師
-:tags: 法句經, 法句經故事集, 尊者的足跡－南傳法句經的故事。
-:category: 尊者的足跡－南傳法句經的故事。
-:summary: 尊者的足跡－南傳法句經的故事。
+:tags: 法句經, 法句經故事集, 尊者的足跡, 南傳法句經的故事, 吝嗇富翁的命運
+:category: 尊者的足跡－南傳法句經的故事
+:summary: 吝嗇富翁的命運（尊者的足跡－南傳法句經的故事）
 
 
 .. container:: align-center
 
-  **尊者的足跡**
+  **吝嗇富翁的命運**
 
 方捷、圓昭　整理
 
@@ -50,3 +49,8 @@
 - `法句經首頁 <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+..
+  2018-08-19 post, 08-07 rev. replace title "尊者的足跡"" with "吝嗇富翁的命運"; change title; add: remark; del: oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Story062.htm
+  2016-04-17 create rst
+  2004-03-07 create html

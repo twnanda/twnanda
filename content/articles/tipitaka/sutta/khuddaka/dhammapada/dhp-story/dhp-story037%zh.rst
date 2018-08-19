@@ -1,13 +1,12 @@
-外甥僧護尊者的故事（身心的安頓。）
-==================================
+外甥僧護尊者的故事（身心的安頓）（尊者的足跡－南傳法句經的故事）
+====================================================================
 
 :date: 2004-03-07
-:modified: 2004-03-07
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Story037.htm
+:modified: 2018-08-19
 :author: 護法法師
-:tags: 法句經, 法句經故事集, 尊者的足跡－南傳法句經的故事。
-:category: 尊者的足跡－南傳法句經的故事。
-:summary: 外甥僧護尊者的故事（身心的安頓。） - 尊者的足跡－南傳法句經的故事。
+:tags: 法句經, 法句經故事集, 尊者的足跡, 南傳法句經的故事, 外甥僧護尊者的故事, 身心的安頓
+:category: 尊者的足跡－南傳法句經的故事
+:summary: 外甥僧護尊者的故事（身心的安頓）（尊者的足跡－南傳法句經的故事）
 
 
 .. container:: align-center
@@ -86,3 +85,9 @@
 - `法句經首頁 <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+
+..
+  2018-08-19 post, 08-07 rev. change title; add: remark; del: oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Story037.htm
+  2016-04-17 create rst
+  2004-03-07 create html

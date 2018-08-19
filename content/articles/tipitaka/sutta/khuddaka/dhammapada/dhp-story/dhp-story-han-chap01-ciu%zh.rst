@@ -1,35 +1,37 @@
 第一品　雙品（《法句經故事集》周金言 譯）
 ===========================================
 
-:date: 2018-05-04
-:modified: 2018-05-04
+:date: 2018-08-19
+:modified: 2018-08-19
 :author: 周金言
-:tags: 法句經, 法句經故事集, 雙品
-:category: 尊者的足跡－南傳法句經的故事。
+:tags: 法句經, 法句經故事集, 雙品, 周金言
+:category: 尊者的足跡－南傳法句經的故事
 :summary: 第一品　雙品《法句經故事集》周金言 譯
 
-- 《法句經故事集》目錄  周金言 譯：book_content_
+- `法句經故事集目錄`_  周金言 譯
 
 ----
+
+- 偈頌部份可另參 `多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst>`_
 
 - 第一品　雙品 目錄
 
 .. list-table:: 第一品　雙品
 
-  * - 一～一、瞎眼的阿羅漢(dhp_001_)
-    - 一～二、何必妄想(dhp_002_)
-    - 一～三、報復的苦行者(dhp_003_004_)
-  * - 一～四、累劫以來的仇恨(dhp_005_)
-    - 一～五、憍賞彌諍論不休的比丘們(dhp_006_)
-    - 一～六、摩訶迦羅比丘和小迦羅比丘的命運(dhp_007_008_)
-  * - 一～七、誰有得到黃色布料供養的資格(dhp_009_010_)
-    - 一～八、了解正法甚難(dhp_011_012_)
-    - 一～九、難陀為了女人修行(dhp_013_014_)
-  * - 一～十、生生世世受苦的屠夫(dhp_015_)
-    - 一～十一、世世幸福(dhp_016_)
-    - 一～十二、提婆達多悲慘的命運(dhp_017_)
-  * - 一～十三、年輕女孩的成就(dhp_018_)
-    - 一～十四、知識不等於證悟(dhp_019_020_)
+  * - 一～一、瞎眼的阿羅漢( dhp_001_ )
+    - 一～二、何必妄想( dhp_002_ )
+    - 一～三、報復的苦行者( dhp_003_004_ )
+  * - 一～四、累劫以來的仇恨( dhp_005_ )
+    - 一～五、憍賞彌諍論不休的比丘們( dhp_006_ )
+    - 一～六、摩訶迦羅比丘和小迦羅比丘的命運( dhp_007_008_ )
+  * - 一～七、誰有得到黃色布料供養的資格( dhp_009_010_ )
+    - 一～八、了解正法甚難( dhp_011_012_ )
+    - 一～九、難陀為了女人修行( dhp_013_014_ )
+  * - 一～十、生生世世受苦的屠夫( dhp_015_ )
+    - 一～十一、世世幸福( dhp_016_ )
+    - 一～十二、提婆達多悲慘的命運( dhp_017_ )
+  * - 一～十三、年輕女孩的成就( dhp_018_ )
+    - 一～十四、知識不等於證悟( dhp_019_020_ )
     - 
 
 .. _dhp_001:
@@ -71,10 +73,7 @@
 
 .. container:: align-center
 
-  | **心是所有法的先導，心是所有造作的主腦，**
-  | **一切都是心所造作的，**
-  | **人若造作身、口、意善業，**
-  | **一定有樂，如影不離形。** (偈2) [dhp-a-002-note]_
+  **心是所有法的先導，心是所有造作的主腦，一切都是心所造作的，人若造作身、口、意善業，一定有樂，如影不離形。** (偈2) [dhp-a-002-note]_
 
 ----
 
@@ -99,13 +98,9 @@
 
 .. container:: align-center
 
-  | **人的內心若抱持：**
-  | **「他（她）辱罵我、毆打我、打垮我、劫奪我。」**
-  | **的想法，心中的怨恨無法止息。** (偈3)
-  | 
-  | **人的內心若沒有：** 
-  | **「他（她）辱罵我、毆打我、打垮我、劫奪我。」** 
-  | **的想法，心中的怨恨就能止息。** (偈4) [dhp-a-003-note]_
+  **人的內心若抱持：「他（她）辱罵我、毆打我、打垮我、劫奪我。」的想法，心中的怨恨無法止息。** (偈3)
+
+  **人的內心若沒有：「他（她）辱罵我、毆打我、打垮我、劫奪我。」的想法，心中的怨恨就能止息。** (偈4) [dhp-a-003-note]_
  
 ----
 
@@ -125,8 +120,7 @@
 .. container:: align-center
 
   | **世間的怨恨無法止息怨恨，**
-  | **唯有慈悲可以止息怨恨，**
-  | **這是永恆不易的古法** [dhp-a-005-note]_ (偈 5)
+  | **唯有慈悲可以止息怨恨，這是永恆不易的古法** [dhp-a-005-note]_ (偈 5)
 
 ----
 
@@ -138,6 +132,8 @@
 
 從此以後，雙方盡釋前嫌，同時善待對方。
 
+（Nanda 備註：另請參 Dhp. 291, 二十～一～二、 `唯有愛可以止息恨意 <{filename}dhp-story-han-chap21-ciu%zh.rst#dhp-291>`_ ）
+
 ------
 
 .. _dhp_006:
@@ -147,10 +143,8 @@
 
 .. container:: align-center
 
-  | **明白「諍論使人毀滅」的人，**
-  | **停止諍論。**
-  | **昧於這種道理的人，**
-  | **諍論不休。** (偈 6)
+  | **明白「諍論使人毀滅」的人，停止諍論。**
+  | **昧於這種道理的人，諍論不休。** (偈 6)
 
 ----
 
@@ -171,22 +165,21 @@
 
 .. container:: align-center
 
-  | **人若追求色身欲樂，不知攝護諸根，飲食不知節制，懈怠不知精進**
-  | **，必定為波旬** [dhp-a-007-note1]_ **所毀滅，如同風吹弱樹。** (偈 7) 
-  | **人若觀身不淨，攝護諸根， 飲食節制，正信** [dhp-a-007-note2]_ **精進，**
-  | **則魔不能加以摧毀，一如風吹山石。** [dhp-a-007-note3]_ (偈 8)
+  **人若追求色身欲樂，不知守護諸根，飲食不知節制，懈怠不知精進，必定為波旬** [dhp-a-007-note1]_ **所毀滅，如同風吹弱樹。** (偈 7) 
+
+  **人若觀身不淨，守護諸根， 飲食節制，正信** [dhp-a-007-note2]_ **精進，則魔不能加以摧毀，一如風吹山石。** [dhp-a-007-note3]_ (偈 8)
 
 ----
 
-摩訶迦羅和小迦羅兄弟倆都是生意人，有一次在外旅行做生意時，他們聽到佛陀的說法，聽完之後，摩訶迦羅就虔誠地出家為比丘，小迦羅雖然也出家，但卻沒有堅定的 信念。
+摩訶迦羅和小迦羅兄弟倆都是生意人，有一次在外旅行做生意時，他們聽到佛陀的說法，聽完之後，摩訶迦羅就虔誠地出家為比丘，小迦羅雖然也出家，但卻沒有堅定的信念。
  
 出家後，摩訶迦羅很努力地在墓地禪修，並觀照身體的變化和無常。最後深入止觀，證得阿羅漢果。相反地，小迦羅對心靈的訓練與提昇沒有興趣，時時惦著感官的樂趣 。
  
-後來有一次，佛陀和眾多弟子，包括他們兩人，停留在尸舍婆的森林裡。這時候，小迦羅未出家的妻妾們邀請佛陀和眾多比丘到小迦羅以前的家，小迦羅因此先回家去安排佛陀和比丘的座次等事，他的妻妾們便趁機說服他還俗。
+後來有一次，佛陀和眾多弟子，包括他們兩人，停留在尸舍婆的森林裡。這時候，小迦羅未出家的妻妾們邀請佛陀和眾多比丘到小迦羅以前的家，小迦羅因此先回家去安排佛陀和比丘的座次等事，他的妻妾們卻趁機說服他還俗。
  
-第二天，摩訶迦羅的妻妾們也邀請佛陀和比丘到摩訶迦羅以前的家，她們希望也能像小迦羅的妻妾們，勸勸摩訶迦羅還俗。供養完後，她們就向佛陀請求讓摩訶迦羅留下來表示隨喜，佛陀答應了，就和其他比丘先行離開，而留下摩迦羅一人。
+第二天，摩訶迦羅的妻妾們也邀請佛陀和比丘到摩訶迦羅以前的家，她們希望也能像小迦羅的妻妾們，勸動摩訶迦羅還俗。供養完後，她們就向佛陀請求讓摩訶迦羅留下來表示隨喜 (anumodanā) ，佛陀答應了，就和其他比丘先行離開，而留下摩迦羅一人。
  
-到達村子門口時，比丘們就向佛陀說，他們擔心摩訶迦羅會像他的弟弟一樣，被妻子勸解而還俗。佛陀回答說，他們兩兄弟是不同的，小迦羅沉溺於感觀樂趣，內心脆弱。相反地，摩訶迦羅脫離感觀的束縛，精進，堅定，對、佛、法僧迦的信仰十分強烈。
+到達村子門口時，比丘們就向佛陀說，他們擔心摩訶迦羅會像他的弟弟一樣，被妻子勸解，而還俗。佛陀回答說，他們兩兄弟是不同的，小迦羅沉溺於感觀樂趣，內心脆弱。相反地，摩訶迦羅脫離感觀的束縛，精進，堅定，對、佛、法僧迦的信仰十分強烈。
  
 佛陀說內心脆弱的人屈服於誘惑，而堅強的人則不為所動。
 
@@ -201,10 +194,9 @@
 
 .. container:: align-center
 
-  | **人若不能遠離貪欲，無法克己，不誠實，**
-  | **沒有資格穿著袈裟** [dhp-a-009-note1]_ **。** (偈 9)
-  | **人若遠離貪欲，善持戒律，克己，誠實，**
-  | **有資格穿著袈裟。** (偈 10)
+  **人若不能遠離貪欲，無法克己，不誠實，沒有資格穿著袈裟** [dhp-a-009-note1]_ **。** (偈 9)
+
+  **人若遠離貪欲，善持戒律，克己，誠實，有資格穿著袈裟。** (偈 10)
 
 ----
 
@@ -231,11 +223,9 @@
 
 .. container:: align-center
 
-  | **誤認非法為正法，誤認正法為非法，**
-  | **抱持邪見的人，永遠無法了悟正法。** (偈 11)
-  | 
-  | **正法就認定是正法，非法就認定是非法，**
-  | **具足正見的人，了悟正法。** (偈 12)
+  **誤認非法為正法，誤認正法為非法，抱持邪見的人，永遠無法了悟正法。** (偈 11)
+
+  **正法就認定是正法，非法就認定是非法，具足正見的人，了悟正法。** (偈 12)
 
 ----
 
@@ -260,11 +250,9 @@
 
 .. container:: align-center
 
-  | **貪欲佔據不知修心的人，**
-  | **一如雨水滴進屋頂損壞的房子。** (偈 13)
-  | 
-  | **貪欲無法佔據善於修心的人，**
-  | **一如雨水無法滴進屋頂完好的房子。** (偈 14)
+  **貪欲佔據不知修心的人，一如雨水滴進屋頂損壞的房子。** (偈 13)
+
+  **貪欲無法佔據善於修心的人，一如雨水無法滴進屋頂完好的房子。** (偈 14)
 
 ----
 
@@ -285,9 +273,7 @@
 
 .. container:: align-center
 
-  | **今生悲傷，來世也悲傷，**
-  | **造作惡業的人今生與來世都悲傷；**
-  | **他們悲傷苦惱地察覺到曾經作過的惡業。** (偈 15)
+  **今生悲傷，來世也悲傷，造作惡業的人今生與來世都悲傷；他（她）們悲傷苦惱地察覺到曾經作過的惡業。** (偈 15)
 
 ----
 
@@ -306,9 +292,7 @@
 
 .. container:: align-center
 
-  | **今生喜悅，來生也喜悅，**
-  | **造作善業的人今生與來世都喜悅；**
-  | **他(她)們滿心喜悅地察覺到曾經作過的善業。** (偈 16)
+  **今生喜悅，來生也喜悅，造作善業的人今生與來世都喜悅；他（她）們滿心喜悅地察覺到曾經作過的善業。** (偈 16)
 
 ----
 
@@ -327,9 +311,7 @@
 
 .. container:: align-center
 
-  | **今生受苦，來世也受苦，造作惡業的人今生與來世都受苦；**
-  | **「我已經造下惡業！」的念頭使他（她）們受苦；**
-  | **往生到惡趣時，受更大的苦。** (偈 17)
+  **今生受苦，來世也受苦，造作惡業的人今生與來世都受苦；「我已經造下惡業！」的念頭使他（她）們受苦；往生到惡趣時，受更大的苦。** (偈 17)
 
 ----
 
@@ -354,9 +336,7 @@
 
 .. container:: align-center
 
-  | **今生快樂，來生快樂，造作善業的人今生與來世都快樂；**
-  | **「我已經造下善業！」的念頭使他們喜悅不已；**
-  | **往生善趣時，他們更喜悅。** (偈 18)
+  **今生快樂，來生快樂，造作善業的人今生與來世都快樂；「我已經造下善業！」的念頭使他（她）們喜悅不已；往生善趣時，他（她）們更喜悅。** (偈 18)
 
 ----
 
@@ -377,12 +357,9 @@
 
 .. container:: align-center
 
-  | **雖然經常誦唸經文，但放逸而不奉行的人，**
-  | **像替人放牧的牧牛人，不能得到清淨行的法益。** (偈 19)
-  | 
-  | **經文背誦雖不多，但確實奉行，滅除貪、瞋、癡，**
-  | **如實知見，內心清淨，生生世世不再執著的人，**
-  | **真正得到清淨行的法益。** (偈 20)
+  **雖然經常誦唸經文，但放逸而不奉行的人，像替人放牧的牧牛人，不能得到清淨行的法益。** (偈 19)
+
+  **經文背誦雖不多，但確實奉行，滅除貪、瞋、癡，如實知見，內心清淨，生生世世不再執著的人，真正得到清淨行的法益。** (偈 20)
 
 ----
 
@@ -396,103 +373,122 @@
 
 --------------
 
-.. _book_content:
+- 偈頌部份可另參 `多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst>`_
 
-《法句經故事集》目錄  周金言 譯
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----
 
-.. list-table:: 巴利《法句經故事集》周金言 譯目錄(Content of Dhammapada Story)
+.. _法句經故事集目錄:
+
+《法句經故事集》目錄
+~~~~~~~~~~~~~~~~~~~~~~
+
+.. list-table:: 巴利《法句經故事集》目錄(周金言 譯, Content of Dhammapada Story)
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `我讀《法句經/故事集》的啟示 <{filename}dhp-story-han-preface-ciu%zh.rst>`__
+   * - `本書首頁 <{filename}dhp-story-han-ciu%zh.rst>`__
+     - `我讀《法句經/故事集》的啟示 <{filename}dhp-story-han-preface-ciu%zh.rst>`__
      - `譯者序 <{filename}dhp-story-han-translator-preface-ciu%zh.rst>`__
      - `導讀 <{filename}dhp-story-han-introduction-ciu%zh.rst>`__
-     - 佛陀家譜、原始佛教時期的印度地圖、整部 
-     - `1. Yamakavaggo (Dhp.1-20) <{filename}dhp-story-han-chap01-ciu%zh.rst>`__
-     - `2. Appamādavaggo (Dhp.21-32) <{filename}dhp-story-han-chap02-ciu%zh.rst>`__
-   
-   * - Preface 代序——(宏印法師)
+     - `佛陀家譜 <{filename}dhp-story-han-worldly-clan-of-gotama-Buddha-ciu%zh.rst>`__ 
+     - `原始佛教時期的印度地圖 <{filename}dhp-story-han-ancient-india-map-bhuddist-era-ciu%zh.rst>`__ 
+
+   * - Homepage of this book   
+     - Preface 代序——(宏印法師)
      - Preface of Chinese translator
      - Introduction
-     - The Full Text
-     - 1. 雙品 (The Pairs)
-     - 2. 不放逸品 (Heedfulness)
- 
+     - 
+     - 
+
 .. list-table:: Content of Dhammapada Story
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `3. Cittavaggo (Dhp.33-43) <{filename}dhp-story-han-chap03-ciu%zh.rst>`__
+   * - `1. Yamakavaggo (Dhp.1-20) <{filename}dhp-story-han-chap01-ciu%zh.rst>`__
+     - `2. Appamādavaggo (Dhp.21-32) <{filename}dhp-story-han-chap02-ciu%zh.rst>`__
+     - `3. Cittavaggo (Dhp.33-43) <{filename}dhp-story-han-chap03-ciu%zh.rst>`__
      - `4. Pupphavaggo (Dhp.44-59) <{filename}dhp-story-han-chap04-ciu%zh.rst>`__ 
      - `5. Bālavaggo (Dhp.60-75) <{filename}dhp-story-han-chap05-ciu%zh.rst>`__ 
      - `6. Paṇḍitavaggo (Dhp.76-89) <{filename}dhp-story-han-chap06-ciu%zh.rst>`__ 
-     - `7. Arahantavaggo (Dhp.90-99) <{filename}dhp-story-han-chap07-ciu%zh.rst>`__ 
-     - `8. Sahassavaggo (Dhp.100-115) <{filename}dhp-story-han-chap08-ciu%zh.rst>`__ 
 
-   * - 3. 心品 (The Mind)
+   * - 1. 雙品 (The Pairs)
+     - 2. 不放逸品 (Heedfulness)
+     - 3. 心品 (The Mind)
      - 4. 華品 (花品 Flower)
      - 5. 愚品 (愚人品 The Fool)
      - 6. 智者品 (The Wise Man)
-     - 7. 阿羅漢品 (The Arahat)
-     - 8. 千品 (The Thousands)
-
 
 .. list-table:: Content of Dhammapada Story
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `9. Pāpavaggo (Dhp.116-128) <{filename}dhp-story-han-chap09-ciu%zh.rst>`__ 
+   * - `7. Arahantavaggo (Dhp.90-99) <{filename}dhp-story-han-chap07-ciu%zh.rst>`__ 
+     - `8. Sahassavaggo (Dhp.100-115) <{filename}dhp-story-han-chap08-ciu%zh.rst>`__ 
+     - `9. Pāpavaggo (Dhp.116-128) <{filename}dhp-story-han-chap09-ciu%zh.rst>`__ 
      - `10. Daṇḍavaggo (Dhp.129-145) <{filename}dhp-story-han-chap10-ciu%zh.rst>`__ 
      - `11. Jarāvaggo (Dhp.146-156) <{filename}dhp-story-han-chap11-ciu%zh.rst>`__ 
      - `12. Attavaggo (Dhp.157-166) <{filename}dhp-story-han-chap12-ciu%zh.rst>`__
-     - `13. Lokavaggo (Dhp.167-178) <{filename}dhp-story-han-chap13-ciu%zh.rst>`__
-     - `14. Buddhavaggo (Dhp.179-196) <{filename}dhp-story-han-chap14-ciu%zh.rst>`__
 
-   * - 9. 惡品 (Evil)
+   * - 7. 阿羅漢品 (The Arahat)
+     - 8. 千品 (The Thousands)
+     - 9. 惡品 (Evil)
      - 10. 刀杖品 (Violence)
      - 11. 老品 (Old Age)
      - 12. 自己品 (The Self)
-     - 13. 世品 (世間品 The World)
-     - 14. 佛陀品 (The Buddha)
 
 .. list-table:: Content of Dhammapada Story
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `15. Sukhavaggo (Dhp.197-208) <{filename}dhp-story-han-chap15-ciu%zh.rst>`__
+   * - `13. Lokavaggo (Dhp.167-178) <{filename}dhp-story-han-chap13-ciu%zh.rst>`__
+     - `14. Buddhavaggo (Dhp.179-196) <{filename}dhp-story-han-chap14-ciu%zh.rst>`__
+     - `15. Sukhavaggo (Dhp.197-208) <{filename}dhp-story-han-chap15-ciu%zh.rst>`__
      - `16. Piyavaggo (Dhp.209~220) <{filename}dhp-story-han-chap16-ciu%zh.rst>`__
      - `17. Kodhavaggo (Dhp.221-234) <{filename}dhp-story-han-chap17-ciu%zh.rst>`__
      - `18. Malavaggo (Dhp.235-255) <{filename}dhp-story-han-chap18-ciu%zh.rst>`__
-     - `19. Dhammaṭṭhavaggo (Dhp.256-272) <{filename}dhp-story-han-chap19-ciu%zh.rst>`__
-     - `20 Maggavaggo (Dhp.273-289) <{filename}dhp-story-han-chap20-ciu%zh.rst>`__
 
-   * - 15. 樂品 (Happiness)
+   * - 13. 世品 (世間品 The World)
+     - 14. 佛陀品 (The Buddha)
+     - 15. 樂品 (Happiness)
      - 16. 喜愛品 (Affection)
      - 17. 忿怒品 (Anger)
      - 18. 垢穢品 (Impurity)
-     - 19. 法住品 (The Just)
-     - 20. 道品 (The Path)
 
 .. list-table:: Content of Dhammapada Story
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `21. Pakiṇṇakavaggo (Dhp.290-305) <{filename}dhp-story-han-chap21-ciu%zh.rst>`__
+   * - `19. Dhammaṭṭhavaggo (Dhp.256-272) <{filename}dhp-story-han-chap19-ciu%zh.rst>`__
+     - `20 Maggavaggo (Dhp.273-289) <{filename}dhp-story-han-chap20-ciu%zh.rst>`__
+     - `21. Pakiṇṇakavaggo (Dhp.290-305) <{filename}dhp-story-han-chap21-ciu%zh.rst>`__
      - `22. Nirayavaggo (Dhp.306-319) <{filename}dhp-story-han-chap22-ciu%zh.rst>`__
      - `23. Nāgavaggo (Dhp.320-333) <{filename}dhp-story-han-chap23-ciu%zh.rst>`__
      - `24. Taṇhāvaggo (Dhp.334-359) <{filename}dhp-story-han-chap24-ciu%zh.rst>`__
-     - `25. Bhikkhuvaggo (Dhp.360-382) <{filename}dhp-story-han-chap25-ciu%zh.rst>`__
-     - `26. Brāhmaṇavaggo (Dhp.383-423) <{filename}dhp-story-han-chap26-ciu%zh.rst>`__
 
-   * - 21. 雜品 (Miscellaneous)
+   * - 19. 法住品 (The Just)
+     - 20. 道品 (The Path)
+     - 21. 雜品 (Miscellaneous)
      - 22. 地獄品 (The State of Woe)
      - 23. 象品 (The Elephant)
      - 24. 愛欲品 (Craving)
-     - 25. 比丘品 (The Monk)
-     - 26. 婆羅門品 (The Holy Man)
 
----------------------------
+.. list-table:: Content of Dhammapada Story
+   :widths: 32 32 32
+   :header-rows: 1
+
+   * - `25. Bhikkhuvaggo (Dhp.360-382) <{filename}dhp-story-han-chap25-ciu%zh.rst>`__
+     - `26. Brāhmaṇavaggo (Dhp.383-423) <{filename}dhp-story-han-chap26-ciu%zh.rst>`__
+     - Full Text
+
+   * - 25. 比丘品 (The Monk)
+     - 26. 婆羅門品 (The Holy Man)
+     - 整部
+
+----
+
+- 偈頌部份可另參 `多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst>`_
+
+----
 
 - `法句經首頁 <{filename}../dhp%zh.rst>`__
 
@@ -500,13 +496,16 @@
 
 ----
 
+備註：
+~~~~~~~~
+
 .. [dhp-a-001-note] 1.  「法 」(dhamma)有多重意義，此處指的是業(kamma) 或代表行 (cetana) 的業，或任何伴隨道德或不道德的意識而來的心理狀態。本品的法指的是不善法（邪惡的心理狀態），若沒有心的作用，不會生起任何心理狀態，所以說心是所有善惡心理狀態的先導。
 
            2.  行：最重要的心理狀態。佛：「行即是業。」
 
            3.  心是所有作為的先導，是實行和衡量所有行為的主要因素。
 
-.. [dhp-a-002-note] 此篇是佛陀在不同場合說法，用來說明善惡業不可避免的業報。人會受到過去和現在所作之業的影響，而在現在或未來適當的時機受此業報。人必須為自己的幸福和悲慘，負大部份責任；人為自己造作天堂或地獄；人是自己命運的主宰，只有人才能拯救自己。佛法教導世人要自我負責，也主張因果報應。人造作業，會受業報。但仍有解脫的可能。
+.. [dhp-a-002-note] 第 1 與第 2 法句是佛陀在不同場合說法，用來說明善惡業不可避免的業報。人會受到過去和現在所作之業的影響，而在現在或未來適當的時機受此業報。人必須為自己的幸福和悲慘，負大部份責任；人為自己造作天堂或地獄；人是自己命運的主宰，只有人才能拯救自己。佛法教導世人要自我負責，也主張因果報應。人造作業，會受業報。但仍有解脫的可能。
 
 .. [dhp-a-003-note] 佛陀經常教誨弟子不可以報復，即使受到激怒也要隨時隨地修習忍辱。佛陀讚歎那些儘管有能力報復，但忍辱並且原諒他人辱罵的人，在整部《法句經 / 故事集》中，佛陀多次受到他人嚴厲的批評、辱罵和攻擊，但佛陀仍忍辱如常。忍辱不是脆弱或失敗的表現，而是偉人堅定信念的表徵。
 
@@ -514,13 +513,15 @@
 
 .. [dhp-a-006-note1] 「結夏安居 (vassa)」：即南傳上座部佛教的雨安居。
 
-.. [dhp-a-006-note2] 大象的故事，請參考「 `照顧佛陀的大象 <{filename}dhp-story-han-chap23-ciu%zh.rst#dhp_328>`__ 」；
+.. [dhp-a-006-note2] 大象的故事，請參考「 `照顧佛陀的大象 <{filename}dhp-story-han-chap23-ciu%zh.rst#dhp-328>`__ 」；
 
    關於猴子如何照顧佛陀，則有記載說明這個有趣的過程：
 
    當猴子看見大象照顧佛陀時，牠也決定要效法大象，為佛陀做些服務。有一天，猴子在樹叢中盪來盪去時，發現有一蜂巢，牠就把蜂巢所在的樹幹折斷，取下蜂巢，並將牠放在樹葉上，獻給佛陀，佛陀接下好意後，猴子就躲起來，觀察佛陀是否吃蜂蜜，卻發現佛陀並不吃蜂蜜，猴子就過來拿起蜂巢，前後翻轉，想要找出為什麼佛陀不吃蜂蜜的原因，結果發現蜂巢中有些昆蟲的蛋，牠就把這些蛋拿開，然後，再獻給佛陀。佛陀終於吃蜂蜜了。
 
-.. [dhp-a-007-note1] 波旬：佛法中的波旬有五種意義： (1)五蘊 (2)造作 (3)死 (4)煩惱 (5)魔波旬。在本篇中指的是「煩惱」。
+.. [dhp-a-007-note1] 波旬：佛法中的波旬有五種意義： (1)五蘊 (2)造作 (3)死 (4)煩惱 (5)魔波旬。在本篇中指的是「煩惱」。　
+
+.. 攝護諸根 --> 守護諸根
 
 .. [dhp-a-007-note2] 信：基於智慧而對佛、法、僧的信仰。佛法中沒有盲從迷信。人不可能基於不合理的信仰而接受任何事情。
 
@@ -539,5 +540,5 @@
 .. [dhp-a-017-note2] 經過無數長時間（劫）的償還，提婆達多有一天會往生為辟支佛，這是因為他在違背戒律之前曾經證得某一程度的修行境界。在輪迴中，即使地獄和天界的境界也不是永恆不變的，只有涅槃是究竟永恆的。
 
 .. 
-   2018.05.04 create rst
+   2018-08-19 finish & upload from rst; 08-03 gatha proofreading; 07-27 add:偈頌部份可另參多版本對讀, 2018.05.04 create rst
    2016.02.19 create pdf

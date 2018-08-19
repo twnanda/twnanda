@@ -1,29 +1,60 @@
-譯者序（《法句經故事集》周金言 譯）
-======================================
+原始佛教時期的印度地圖（《法句經故事集》周金言 譯）
+=====================================================
 
-:date: 2018-08-19
+:date: 2018-08-02
 :modified: 2018-08-19
 :author: 周金言
-:tags: 法句經, 法句經故事集, 譯者序, 周金言
+:tags: 法句經, 法句經故事集, 原始佛教時期的印度地圖, 周金言
 :category: 尊者的足跡－南傳法句經的故事
-:summary: 譯者序（《法句經故事集》周金言 譯）
+:summary: 原始佛教時期的印度地圖（《法句經故事集》周金言 譯）
 
 
-.. container:: align-right
+ .. image:: {filename}../../../../../../extra/img/ancient-india-map-Bhuddist-Era.jpg
+     :alt: 原始佛教時期的印度地圖
+     :height: 505 px
+     :width: 364 px
+     :scale: 50 %
+     :align: center
 
-   周金言
+------
+
+- 地名
+
+  * 王舍城 Rājagaha
+  * 毘舍離 Vesali
+  * 彌薩羅 Mithilā
+  * 迦毘羅衛城 Kapilavatthu
+  * 舍衛城 Sāvatthi
+  * 娑祇城 Sāketa
+  * 憍賞彌 Kosambi
+  * 波羅奈 Bārāṇasī
+  * 瞻波 Campā
+
+- 國名
+
+  * 摩竭陀 (Magadha)
+  * 跋祇 (Vajji)
+  * 釋迦 (Sakyā)
+  * 憍薩羅 (Kosala)
+  * 迦尸 (Kāsi)
+  * 跋蹉 (Vaṃsā)
+  * 阿槃提 (Avanti)
+
+（註）　資料來源：《佛陀的一百個故事》；原書無此圖；
+
+　　　　其它參考資料:
+
+　　　　1 、《佛陀的一百個故事》菩提樹雜誌
+
+　　　　2 、《原始佛教其思想與生活》香光書鄉出版社
+
+　　　　3 、《Middle Land . Middle Way》 by S.Dhammika
+
+　　　　4 、「印度古代傳教史地圖」宮板有勝，曾我部忠勝　製作
 
 ----
 
-研讀和翻譯《法句經故事集》是一全新的宗教經驗，也希望次書的出版能夠對近年來國內研讀和回歸原始佛教的風氣有所俾益。
-
-一般人研究佛法比較偏重在法義上，但對於也是佛教三寶的佛陀本人和僧伽的運作（包括僧人的修行生活）則較少留意，然而佛陀的人格和為人處世之道具體展現了佛法，也是當初佛教所以能夠快速為人信受的重要原因之一，可以說佛陀和佛法是一體的兩面。同時，僧伽的運作也提供人們認知佛陀和佛法的豐富資訊。綜合對佛陀、佛法和僧伽運作的研究才能使人全然掌握佛教，這種如實、全面的掌握，對個人修行和在現代社會弘揚佛法都有重大的助益。
-
-《法句經故事集》對於確實認知佛陀的人格、為人處世之道及僧伽運作大有幫助，本書收錄了佛陀四百二十三句的法句和三百零五個相關的故事，其中有他對佛法的闡釋，對人事紛爭的排解和勸誡，也有對弟子修行的關懷，處理愛欲情仇的高超智慧等。“佛在人間”，透過這樣貼切的認知，更能領會其中的真實涵義。
-
-本書的翻譯盡量使用白話，希望對佛法沒有基本概念的人也能領會其中的涵意。1953年了參法師翻譯的《南傳法句經》文言文較多，也沒有輔助說明的相關故事。
-
-翻譯的過程儘管艱辛，仍然充滿喜悅。宏印法師、宗善法師、香光寺香光書鄉編譯組諸位法師、馬來西亞佛教青年總會釋開拾法師和諸多善知識，如明法比丘、林景正、張賢敏 [dhp-a-han-translator-note]_ 、劉玉純、黃秀芳、鄧宜貞、黃錦燈、張恆誠和周金和等人的砥礪和無私的協助使這本篇幅繁多的書得以順利翻譯完成，謹在此致上誠摯的謝意。筆者也要感謝內人謝月惠的大力護持，使譯者無後顧之憂。最後，感謝父親周石泉，母親周李阿幼多年來的包容寬待。　是為序。
+原始佛教時期的印度地圖： `PDF 檔 <{filename}/extra/pdf/ancient-india-map-Bhuddist-Era.pdf>`__ 
 
 ----
 
@@ -39,7 +70,7 @@
    * - `我讀《法句經/故事集》的啟示 <{filename}dhp-story-han-preface-ciu%zh.rst>`__
      - `譯者序 <{filename}dhp-story-han-translator-preface-ciu%zh.rst>`__
      - `導讀 <{filename}dhp-story-han-introduction-ciu%zh.rst>`__
-     - 佛陀家譜、原始佛教時期的印度地圖、整部 
+     - `佛陀家譜 <{filename}dhp-story-han-worldly-clan-of-gotama-Buddha-ciu%zh.rst>`__ 、 `原始佛教時期的印度地圖 <{filename}dhp-story-han-ancient-india-map-bhuddist-era-ciu%zh.rst>`__ 、整部
      - `1. Yamakavaggo (Dhp.1-20) <{filename}dhp-story-han-chap01-ciu%zh.rst>`__
      - `2. Appamādavaggo (Dhp.21-32) <{filename}dhp-story-han-chap02-ciu%zh.rst>`__
    
@@ -124,19 +155,11 @@
 
 ----
 
-- 偈頌部份可另參 `多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading%zh.rst>`_
+- 偈頌部份可另參 `多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap06%zh.rst>`_
 
 - `法句經首頁 <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
-----
-
-備註：
-~~~~~~~~
-
-.. [dhp-a-han-translator-note] Nanda 補註：原著為：「明法比丘林景正、張慈田、張賢敏」，其中「張慈田」為「 `明法比丘 <http://www.dhammarain.org.tw/obituary.html>`__ 」之俗名。今改為「明法比丘、林景正、張賢敏」。
-
 .. 
    2018-08-19 finish & upload from rst; 2018-08-02 create rst
-   2016.02.19 create pdf

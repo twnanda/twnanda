@@ -3,17 +3,16 @@
 ==============================================================
 
 :date: 2004-03-07 09:00
-:modified: 2016-04-04 23:00
+:modified: 2018-08-19
 :author: 護法法師
-:tags: 法句經, 法句經故事集, 南傳法句經的故事。
-:category: 尊者的足跡－南傳法句經的故事。
+:tags: 法句經, 法句經故事集, 南傳法句經的故事, 護法法師
+:category: 尊者的足跡－南傳法句經的故事
 :summary: 南傳法句經的故事。
 :summary: 法句經, Dhammapada
 
 --------------
 
 - `第 1 偈頌 <{filename}dhp-story001%zh.rst>`__ （護眼尊者的故事）。
-- `第 1 偈頌 <{filename}dhp-story001b%zh.rst>`__ （另一故事--                                                  俄丁納布柏各的故事）。
 - `第 2 偈頌 <{filename}dhp-story002%zh.rst>`__ （俄丁納布柏各的故事）。
 - `第 3 及 4 偈頌 <{filename}dhp-story003-4%zh.rst>`__ （笛沙的故事）。
 - `第 5 偈頌 <{filename}dhp-story005%zh.rst>`__ （虎姑婆的故事）。
@@ -42,3 +41,8 @@
 - `法句經首頁 <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+..
+  2018-08-19 post, 2018-08-07 del: 第 1 偈頌 <{filename}dhp-story001b%zh.rst>`__ （另一故事--俄丁納布柏各的故事）。(duplicated with dhp. 02)
+  2016-04-17 create rst
+  2004-03-07 create html

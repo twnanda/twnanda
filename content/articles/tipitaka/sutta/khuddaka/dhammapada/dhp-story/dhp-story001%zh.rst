@@ -1,13 +1,12 @@
-護眼尊者的故事
-==============
+護眼尊者的故事（尊者的足跡－南傳法句經的故事）
+================================================
 
 :date: 2004-03-07
-:modified: 2005-07-31
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Story001.htm
+:modified: 2018-08-19
 :author: 護法法師
-:tags: 法句經, 法句經故事集, 尊者的足跡－南傳法句經的故事。
-:category: 尊者的足跡－南傳法句經的故事。
-:summary: 護眼尊者的故事 - 尊者的足跡－南傳法句經的故事。
+:tags: 法句經, 法句經故事集, 尊者的足跡, 南傳法句經的故事, 護眼尊者的故事
+:category: 尊者的足跡－南傳法句經的故事
+:summary: 護眼尊者的故事（尊者的足跡－南傳法句經的故事）
 
 
 .. container:: align-center
@@ -64,5 +63,8 @@
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
-.. 07.31 2005
-   03.07 2004 *** 同一偈頌，於南傳《法句經》又有a href="DhP_Story001b.htm" 不同的 /a 本緣故事： ***p
+..
+  2018-08-19 post, 08-07 rev. change title; add: remark; del: oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Story001.htm
+  2016-04-17 create rst
+  07.31 2005 ?? *** 同一偈頌，於南傳《法句經》又有a href="DhP_Story001b.htm" 不同的 /a 本緣故事： ***p
+  2004-03-07 create html
