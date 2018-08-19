@@ -2,7 +2,7 @@ Dhammapada, The Buddha's Path of Wisdom
 ========================================
 
 :date: 2016-03-03 21:30
-:modified: 2017-01-16 20:00
+:modified: 2018-08-18
 :tags: Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine, DHP, Dhp.
 :category: Pāḷi Tipiṭaka Suttapiṭaka Khuddakanikāya 
 :summary: Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine
@@ -47,6 +47,21 @@ Dhammapada, The Buddha's Path of Wisdom
 
 -----------------------------------------
 
+- **Buddhist Legends-- DHAMMAPADA COMMENTARY**, by Buddhaghosa. supposed author; Burlingame, Eugene Watson, tr; [1]_
+
+  * Volume v.1: `PDF <https://what-buddha-said.net/library/pdfs/Buddhist_Legends.Burlingame.1.pdf>`__ ( `What the Buddha said <https://what-buddha-said.net/>`__ ); `PDF <http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_6072311_001/ldpd_6072311_001.pdf>`__ ( `Columbia University <https://www.columbia.edu/>`__ , in the City of New York); `Flip online <https://archive.org/details/buddhistlegends01budd>`__ ; `PDF <https://archive.org/download/buddhistlegends01budd/buddhistlegends01budd.pdf>`__ ; `FULL TEXT <https://archive.org/stream/buddhistlegends01budd/buddhistlegends01budd_djvu.txt>`__ ; `EPUB <https://archive.org/download/buddhistlegends01budd/buddhistlegends01budd.epub>`__ ; `KINDLE <https://archive.org/download/buddhistlegends01budd/buddhistlegends01budd.mobi>`__ ( `Internet Archive <https://archive.org>`__ -- `archive.org <https://archive.org>`__ )
+
+  * Volume v.2: `PDF <https://what-buddha-said.net/library/pdfs/Buddhist_Legends.Burlingame.2.pdf>`__ ( `What the Buddha said <https://what-buddha-said.net/>`__ ); `PDF <http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_6072311_002/ldpd_6072311_002.pdf>`__ ( `Columbia University <https://www.columbia.edu/>`__ , in the City of New York); `Flip online <https://archive.org/details/buddhistlegends02budd>`__ ; `PDF <https://archive.org/download/buddhistlegends02budd/buddhistlegends02budd.pdf>`__ ; `FULL TEXT <https://archive.org/stream/buddhistlegends02budd/buddhistlegends02budd_djvu.txt>`__ ; `EPUB <https://archive.org/download/buddhistlegends02budd/buddhistlegends02budd.epub>`__ ; `KINDLE <https://archive.org/download/buddhistlegends02budd/buddhistlegends02budd.mobi>`__ ( `Internet Archive <https://archive.org>`__ )
+
+  * Volume v.3: `PDF <https://what-buddha-said.net/library/pdfs/Buddhist_Legends.Burlingame.3.pdf>`__ ( `What the Buddha said <https://what-buddha-said.net/>`__ ); `PDF <http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_6072311_003/ldpd_6072311_003.pdf>`__ ( `Columbia University <https://www.columbia.edu/>`__ , in the City of New York); `Flip online <https://archive.org/details/buddhistlegends03budd>`__ : `PDF <https://archive.org/download/buddhistlegends03budd/buddhistlegends03budd.pdf>`__ ; `FULL TEXT <https://archive.org/stream/buddhistlegends03budd/buddhistlegends03budd_djvu.txt>`__ ; `EPUB <https://archive.org/download/buddhistlegends03budd/buddhistlegends03budd.epub>`__ ; `KINDLE <https://archive.org/download/buddhistlegends03budd/buddhistlegends03budd.mobi>`__ ( `Internet Archive <https://archive.org>`__ )
+
+- Treasury of Truth-- the Illustrated Dhammapada (with commentary), by **Ven. Weragoda Sārada Mahā Thero.** 1993, [2]_
+
+  * | PDF: `PDF <http://www.buddhanet.net/pdf_file/dhammapadatxt1.pdf>`__ ( `buddhanet <http://www.buddhanet.net>`__ ) ; `PDF <http://enlight.lib.ntu.edu.tw/FULLTEXT/JR-MISC/misc140308.pdf>`__ ( `DLMBS <enlight.lib.ntu.edu.tw>`__ , Digital Library & Museum of Buddhist Studies, Taiwan); 
+    | `single PDF file <https://ia800306.us.archive.org/8/items/DhammapadaIllustrated/dhammapada_illustrated.pdf>`__ , `Flip online <https://archive.org/details/DhammapadaIllustrated>`__ ( `Internet Archive <https://archive.org>`__ -- `archive.org <https://archive.org>`__ )
+
+  * `TXT <https://archive.org/stream/DhammapadaIllustrated/dhammapada_illustrated_djvu.txt>`__ ; `EPUB <https://archive.org/download/DhammapadaIllustrated/dhammapada_illustrated.epub>`__ ; `KINDLE <https://archive.org/download/DhammapadaIllustrated/dhammapada_illustrated.mobi>`__ ( `Internet Archive <https://archive.org>`__ )
+
 - `A Comparative Edition of the Dhammapada <http://www.ancient-buddhist-texts.net/Buddhist-Texts/C3-Comparative-Dhammapada/>`__ (`academia.edu <https://www.academia.edu/22666481/Parallels_to_the_P%C4%81li_Dhammapada_Verses/>`__ ), with parallels from Sanskritised Prakrit (Buddhist Publication Society, Kandy, Sri Lanka.) edited together with A Study of the Dhammapada Collection, by **Ven. Ānandajoti Bhikkhu** (2nd revised edition July, 2007 - 2551)
 
 - `Patna Dharmapada <http://www.ancient-buddhist-texts.net/Buddhist-Texts/C5-Patna/>`_ 
@@ -55,7 +70,7 @@ Dhammapada, The Buddha's Path of Wisdom
 
 - `The Dhammapada <http://www.ancient-buddhist-texts.net/Buddhist-Texts/K2-Dhammapada-New/index.htm>`__ -- A New Edition (Buddhist Publication Society, Kandy, Sri Lanka.) edited by **Ven. Ānandajoti Bhikkhu** (version 2.2, September 2007)
 
-- `Parallels to the Dhammapada Verses <http://www.ancient-buddhist-texts.net/Buddhist-Texts/K2-Dhammapada-Parallels/>`__ , collated and studied by ** Ven. Ānandajoti Bhikkhu** (1.2 February 2016)
+- `Parallels to the Dhammapada Verses <http://www.ancient-buddhist-texts.net/Buddhist-Texts/K2-Dhammapada-Parallels/>`__ , collated and studied by **Ven. Ānandajoti Bhikkhu** (1.2 February 2016)
 
 - `The Dhammapada KN 2, A New Edition, academia.edu <https://www.academia.edu/22666469/The_Dhammapada_KN_2_A_New_Edition>`__
 
@@ -128,7 +143,39 @@ refer to `Chinese reference <{filename}../dhp%zh.rst>`_
 
 - Any comment sent by `email <mailto:lsn46@mail.ncku.edu.tw>`__ (lsn46 {AT} mail {DOT} ncku {DOT} edu {DOT} tw) is welcome!
 
+------
+
+Note:
+~~~~~~
+
+.. [1] | Title: Buddhist legends, translated from the original Pali text of the Dhammapada commentary
+       | Series: Representative works: Pali series
+       | Author: Burlingame, Eugene Watson
+       | Corporate author: Pali Text Society
+       | Imprint: London, Luzac and Company, 1969
+       | Country: UK
+       | Publ Year: 1969
+       | Collation:  3 v., illus.
+       | Original Language:  English
+       | General notes:  (Transl. from the Pali by Eugene Watson Burlingame. Volume 1 contains introduction and synopses of the stories included in the 3 volumes)
+       | Main descriptors: Oeuvre littéraire représentative; Légende; Philosophie; Doctrine religieuse; Bouddhisme
+       | Identifiers:  Dhammapada commentary
+       | Item available at:  UNESCO Library - UNESCO Archives
+       | On line:  No
+       | Nature of contents: literary works
+       | Document Type:  Publication with UNESCO collaboration/sponsorship
+       | Catalog Number: 128490
+       | Source code:  lib
+       | 
+       | Cited from: `UNESDOC <http://unesdoc.unesco.org/Ulis/cgi-bin/ulis.pl?catno=128490&set=00573EA815_2_67&gp=&lin=1&ll=f>`__ ( `UNESDOC <http://unesdoc.unesco.org/ulis/index.shtml>`__ , `UNESCO <http://www.unesco.org/>`__ )
+
+       **Buddhist Legends-- DHAMMAPADA COMMENTARY**, by Buddhaghosa. supposed author; Burlingame, Eugene Watson (1876-1932) tr; Lanman, Charles Rockwell (1850-1941); London, Published for the Pali Text Society by Luzac,  1969 [c1921], Cambridge, Mass., Harvard oriental series. Reprints ;v. 28-30, Harvard university press, Digitizing sponsor Princeton Theological Seminary Library.
+
+.. [2] **Treasury of Truth-- the Illustrated Dhammapada (with commentary)**, by **Ven. Weragoda Sārada Mahā Thero.** , author-publisher. 1993, ISBN 981-00-4938-2, Taipei, Taiwan :Published and donated by the Corporate Body of the Buddha Educational Foundation; 
+
+
 .. 
+  2018-08-18 add: Buddhist Legends-- DHAMMAPADA COMMENTARY, translated by Burlingame, Eugene Watson; Treasury of Truth-- the Illustrated Dhammapada (with commentary)
   01.16 2017 add: Falk, Harry, (2011) & 2014
   ----
   derived from dhp.rst (2016-02-24 09:00)
