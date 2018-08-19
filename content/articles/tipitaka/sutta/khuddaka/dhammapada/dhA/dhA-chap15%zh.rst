@@ -3,7 +3,7 @@
 ================================================
 
 :date: 2016-05-27 11:30
-:modified: 2016-05-27 11:30
+:modified: 2018-08-11
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Sukhavaggo, 樂品, Happiness
 :category: 巴利三藏小部
 :summary: 巴利《法句經》註解　摘譯　十五：樂品 (Happiness)
@@ -60,7 +60,7 @@
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
      - **十五：樂品** [LChnFn15-01]_ 
 
-       一九七　我等 [LChnFn15-02]_ 實樂生，憎怨中無僧。於僧怨人中，我等無憎住。
+       一九七　我等 [LChnFn15-02]_ 實樂生，憎怨中無憎。於憎怨人中，我等無憎住。
 
    * - 註解 [4]_
      - susukhaṃ 極快樂，在家人以強奪等來營生，而說：我們過的很舒服。但我們比他們過得更舒服。
@@ -357,3 +357,7 @@
 - `法句經 (Dhammapada) <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+
+..
+  2018-08-11 rev. old: 憎怨中無僧。於僧怨人中，我等無憎住。
