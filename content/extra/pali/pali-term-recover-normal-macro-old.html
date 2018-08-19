@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Language" content="zh-TW" />
     <META NAME="keywords" CONTENT="巴利語, 巴利專有名詞新音譯方案, 果德瑪, 苟答馬, 阿拉漢, 美德亞, 阿首咖, 比庫, 沙利子, 馬哈摩嘎喇那, 摩嘎喇那, 馬哈咖沙巴, 阿首咖, 巨集, 宏" />
     <meta name="viewport" content=" width=device-width"> <!-- for mobile device-->
-    <title>把【巴利專有名詞新音譯方案】的文字(例如果德瑪、苟答馬、阿拉漢、美德亞、阿首咖或比庫等等)回復為一般通用譯名(喬答摩、阿羅漢、彌勒、阿育王或比丘等等)之轉檔巨集</title>
+    <title>把【巴利專有名詞新音譯方案】的文字(例如果德瑪、苟答馬、阿拉漢、美德亞、阿首咖或比庫等等)回復為一般通用譯名(喬答摩、阿羅漢、彌勒、阿育王或比丘等等)之轉檔巨集(更改單一檔案)</title>
   </head>
 
   <body bgcolor=C7EDCC text=black link=C4870E vlink=F00CD9 alink=red>
@@ -18,7 +18,7 @@
 <span style="font-size:14px;">(例如果德瑪、苟答馬、阿拉漢、美德亞、阿首咖或比庫等等)</span><br>
 <strong><span style="font-size:20px;">藉由 ms Word 巨集</span></strong>
 <strong><span style="font-size:24px;">回復為一般譯名</span></strong><br>
-<span style="font-size:14px;">(喬答摩、阿羅漢、彌勒、阿育王或比丘等等)</span>
+<span style="font-size:14px;">(喬答摩、阿羅漢、彌勒、阿育王或比丘等等)<strong>（更改單一檔案）</strong></span>
 </center>
 <hr noshade>
 <table class="docutils field-list" frame="void" rules="none">
@@ -27,7 +27,7 @@
 <tbody valign="top">
 <tr class="field"><th class="field-name">date:</th><td class="field-body">2015-06-11 11:00</td>
 </tr>
-<tr class="field"><th class="field-name">modified:</th><td class="field-body">2015-06-11 11:00</td>
+<tr class="field"><th class="field-name">modified:</th><td class="field-body">2018-06-25</td>
 </tr>
 <tr class="field"><th class="field-name">tags:</th><td class="field-body">巴利語, 巴利專有名詞新音譯方案, 果德瑪, 苟答馬, 阿拉漢, 美德亞, 阿首咖, 比庫, 沙利子, 馬哈摩嘎喇那, 摩嘎喇那, 馬哈咖沙巴, 阿首咖, ms word 巨集, ms word 宏</td>
 </tr>
@@ -71,7 +71,7 @@ function fontSize(type,objname){
 <!--以上為設定字級大小 javascript 語言-->
 
 <p align=right><a id="translateLink">中文(Chinese；正體、簡體<font size=+1>漢文</font>切換)</a></strong></p>
-<script type="text/javascript" src="http://nanda.online-dhamma.net/extra/img/tw_cn.js"></script>
+<script type="text/javascript" src="http://nanda.online-dhamma.net/gif/tw_cn.js"></script>
 <script type="text/javascript">
 var defaultEncoding = 1;
 var translateDelay = 0;
@@ -84,10 +84,6 @@ translateInitilization();
 <hr noshade>
 
 <div id="ArtBody">
-
-<p align=right>列印：<a class="reference external" href="pali-term-recover-normal-macro-old.pdf">PDF</a></p>
-
-<hr noshade />
 <center><h2>為減輕學佛者負擔，將標新立異之譯名改回一般譯名</h2>
 <h3>藉由 Word 巨集操作的步驟<br>
 （以〝毗婆舍那禪〞 一書，處理 foreign1 轉 Unicode 的文字為例。）</h3>
@@ -97,13 +93,13 @@ translateInitilization();
 請參考：
 <li><a class="reference external" href="pali-term-change-response.html">〈「喬答摩」沒有必要「規範」為「果德瑪」〉迴響輯要</a></li>
 <p>
-<li>因此版功能較弱（單一檔案取代、名相取代數目有限），請參考<a class="reference external" href="pali-term-recover-normal-macro.html"><font size=+2>新版</font></a>（一次取代多個Word檔案中的多個字串）。</li>
+<li>多檔案取代，請參考<a class="reference external" href="pali-term-recover-normal-macro.html"><font size=+2>此連結</font></a>（一次取代多個Word檔案中的多個字串）。</li>
 </blockquote>
 <hr noshade />
 <ol>
  <li>開啟 Word 檔，執行主功能表的 工具 → 巨集 → 巨集 ... , 即下圖紅框處.</li>
 
-<img src="../gif/macro-Uni-01.jpg">
+<img src="../../gif/macr0-Uni-01.jpg">
  <p>
 <a name="step2">
  <li>出現一個巨集的對話框, 先在中間下方 〝巨集作用於〞 下拉選擇 〝Normal.dot (共用範本)〞 , 如此一來, 此巨集可以適用在其它 word 檔案,
@@ -111,27 +107,27 @@ translateInitilization();
  <p>
 然後在上方巨集名稱輸入 〝for2uni〞 , 這是取 foreign1 to unicode 的意思.
  <p>
-然後按下右方的 〝建立〞 . （於此請參考<a href="#pali-term-recover-normal-macro">如下所述</a>）
+然後按下右方的 〝建立〞 . <font size=+1><b>（在此，請參考<a href="#pali-term-recover-normal-macro">如下所述</a>）</b></font>
   <p>
-<img src="macro-Uni-02.jpg">
+<img src="../../gif/macr0-Uni-02.jpg">
   <p>
   <li>按下建立後, 即會有如下視窗出現, 並有一小段程式, 如下圖紅框處.</li>
  <p>
 請將這些文字全部刪除.
   <p>
-<img src="macro-Uni-03.jpg">
+<img src="../../gif/macr0-Uni-03.jpg">
   <p>
  <li>再把 〝<a href="for2uni-macro.txt">for2uni-macro.txt</a>〞的內容全部複製；（於此請參考<a href="#pali-term-recover-normal-macro-2">如下所述</a>）<br>
  (或將滑鼠點上面〝for2uni-macro.txt〞這個鏈結 → 按右鍵　→ 〝另存新檔〞或〝另存連結為〞→〝存檔〞→ 再以〝記事簿〞將其開啟 → 全選 → 複製)　並貼入視窗中,<a name="step4"> 如下圖所示.</li>
   <p>
 完成後可以選左上方的儲存, 並關閉此視窗, 就會回到 word 視窗.
   <p>
-<img src="macro-Uni-04.jpg">
+<img src="../../gif/macr0-Uni-04.jpg">
   <p>
 <a name="step5">
  <li>回到 word 視窗後, 再次執行主功能表的 工具 → 巨集 → 巨集 ... , 即下圖紅框處.</li>
   <p>
-<img src="macro-Uni-05.jpg">
+<img src="../../gif/macr0-Uni-05.jpg">
  
  <li>此時可以看到有一個巨集 for2uni 在裡面.</li>
 若沒看到, 中間的 〝巨集作用於〞 請下拉選擇 〝Normal.dot (共用範本)〞
@@ -140,34 +136,36 @@ translateInitilization();
   <p>
 完成後, 若不想保留此巨集, 只要按下 〝刪除〞 即可.
   <p>
- <img src="macro-Uni-06.jpg">
+ <img src="../../gif/macr0-Uni-06.jpg">
  <p>
  <li>這是處理前的畫面, 選擇的文字字型是 〝Foreign1〞</li>
   <p>
-<img src="macro-Uni-07.jpg">
+<img src="../../gif/macr0-Uni-07.jpg">
   <p>
  <li>這是處理後的畫面, 選擇的文字字型是 〝Arial Unicode MS〞</li>
   <p>
-<img src="macro-Uni-08.jpg">
+<img src="../../gif/macr0-Uni-08.jpg">
   <p>
  <li>整個程式的原理, 是利用 word 的取代功能</li>
   <p>
 </ol>
   <p>
-<img src="macro-Uni-09.jpg">
+<img src="../../gif/macr0-Uni-09.jpg">
   <p>
 <hr noshade>
 <p>
 <a name="pali-term-recover-normal-macro">
   <p>
-<p style="text-align: left;">　　<font size=+2>若</font>於此目的：把【巴利專有名詞新音譯方案】的文字回復為一般通用譯名；則於<a href="#step2">步驟 2</a> 中建立，然後在上方巨集名稱輸入 〝Term2Nml〞, 這是取「佛教名相譯語復原至通用譯語」的意思。如下圖：</p>
-  <p>
-<img src="macro-recover-terms.jpg">
+<p style="text-align: left;">　　<font size=+2>若</font>於此目的：把【巴利專有名詞新音譯方案】的文字回復為一般通用譯名；則於<a href="#step2">步驟 2</a> 中建立，然後在上方巨集名稱輸入 〝Term2NmA〞, 這是取「佛教名相譯語復原至通用譯語」(A部份)的意思。如下圖：</p>
+<p>（備註：此為初版截圖；<font size=+2><b>因待更改之名相太多，故修訂為，建立 Term2NmA 及 Term2NmB 兩個巨集執行。</b></font>）</p>
+<img src="../../gif/macr0-recover-terms.jpg">
   <p>
 <a name="pali-term-recover-normal-macro-2">
-<p style="text-align: left;">　　<font size=+2>再</font>於<a href="#step4">步驟 4</a> 中，以 〝<a href="term2nml-macro.txt">term2nml-macro.txt</a>〞的內容全部複製<br>
- (或將滑鼠點上面〝term2nml-macro.txt〞這個鏈結 → 按右鍵　→ 〝另存新檔〞或〝另存連結為〞→〝存檔〞→ 再以〝記事簿〞將其開啟 → 全選 → 複製)　並貼入視窗中。</p>
-<p>※※※　簡體字使用者請點選〝<a href="term2nml-macro-simple-han.txt">term2nml-macro-simple-han.txt</a>〞的內容全部複製　※※※</p>
+<p style="text-align: left;">　　<font size=+2>再</font>於<a href="#step4">步驟 4</a> 中，以 〝<a href="term2nml-macro-part-A.txt">term2nml-macro-part-A.txt</a>〞的內容全部複製<br>
+ (或將滑鼠點上面〝term2nml-macro-part-A.txt〞這個鏈結 → 按右鍵　→ 〝另存新檔〞或〝另存連結為〞→〝存檔〞→ 再以〝記事簿〞將其開啟 → 全選 → 複製)　並貼入視窗中。</p>
+<p>重複此步驟：在上方巨集名稱輸入 〝Term2NmB〞, 這是取「佛教名相譯語復原至通用譯語」(B部份)的意思。再次將 term2nml-macro-part-B.txt 以 〝<a href="term2nml-macro-part-B.txt">term2nml-macro-part-B.txt</a>〞的內容全部複製<br>
+ (或將滑鼠點上面〝term2nml-macro-part-B.txt〞這個鏈結 → 按右鍵　→ 〝另存新檔〞或〝另存連結為〞→〝存檔〞→ 再以〝記事簿〞將其開啟 → 全選 → 複製)　並貼入視窗中。</p>
+<p>※※※　簡體字使用者請點選〝   <a href="term2nml-macro-simple-han-part-A.txt">term2nml-macro-simple-han-part-A.txt</a> 〞及〝 <a href="term2nml-macro-simple-han-part-B.txt">term2nml-macro-simple-han-part-B.txt</a> 〞的內容全部複製　※※※</p>
 <p style="text-align: left;">　　<a href="#step5"><font size=+2>其</font>他步驟</a> 與前面所述之 for2uni 類推！</p>
 <hr noshade>
   <p>
@@ -175,8 +173,8 @@ translateInitilization();
 <p>
 <hr class="docutils" />
 <dl class="docutils">
-<dt><font size=4>資訊更新日期: 06.11, <a href="http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86">佛曆</a> (<a href="http://en.wikipedia.org/wiki/Buddhist_calendar">BE</a>)
- 2558; <a href="http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83">西元</a> 2015 <a href="http://en.wikipedia.org/wiki/Common_Era">CE</a>)
+<dt><font size=4>資訊更新日期: 06.25, <a href="http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86">佛曆</a> (<a href="http://en.wikipedia.org/wiki/Buddhist_calendar">BE</a>)
+ 2561; <a href="http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83">西元</a> 2018 (<a href="http://en.wikipedia.org/wiki/Common_Era">CE</a>)<font size=-1><sup>(2015-06-11 初版)</sup></font>
   <!-- Buddhist-Era-wiki-Han.htm; Buddhist-Era-wiki-Eng.htm //-->
 </dl>
 <hr noshade>
@@ -213,6 +211,10 @@ translateInitilization();
 </div>
 
 <!--
+2018-06-25 rev. 增加一些名相,所以分開兩個巨集執行； old: 因此版功能較弱（單一檔案取代、名相取代數目有限）
+
+<p align=right>列印：<a class="reference external" href="pali-term-recover-normal-macro-old.pdf">PDF</a></p>
+
 06.11 2015 created
 //-->
 </html>
