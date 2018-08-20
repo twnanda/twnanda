@@ -200,6 +200,10 @@
 
 ----
 
+另一線上版： `法句經故事集 <http://www.budaedu.org/story/dp000.php>`__ (HTML)、 `PDF 檔 <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`__ （直行式排版；以上皆經 `佛陀教育基金會 <http://www.budaedu.org>`__ 修改過）
+
+----
+
 紙本流通處
 ~~~~~~~~~~~~~
 
@@ -222,7 +226,7 @@
 
 - `中平精舍 <http://www.中平精舍.tw/>`__ ：電話: 03-4936166； 住址:桃園市平鎮區新榮路71號；電郵: amitabh.amitabh@msa.hinet.net
 
-  **法句經故事集（達摩難陀長老 著）**
+  **法句經故事集（達摩難陀長老 著）** －－果儒 法師修改： `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__
 
 ----
 
