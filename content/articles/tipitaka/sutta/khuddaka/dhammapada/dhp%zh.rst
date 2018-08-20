@@ -2,7 +2,7 @@
 ===================
 
 :date: 2016-01-29 09:00
-:modified: 2016-05-26 17:30
+:modified: 2018-08-20
 :tags: 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經, Dhammapada
@@ -26,6 +26,8 @@
   * `白話文版 <{filename}dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__ ， **敬法 法師** 譯，第二修訂版 2015，`pdf <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__  `原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`_ ；　( `初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
 
   * **《真理的語言(法句經)》** ， **淨海 法師** 中譯 [5]_
+
+  * `法句經 <http://tripitaka.cbeta.org/N26n0009>`__ ，文言文版， 悟醒 譯，漢譯南傳大藏經，臺灣．高雄．元亨寺( `CBETA <http://tripitaka.cbeta.org/>`__ ) [42]_ 
 
   * `南傳法句經新譯 <http://www.book853.com/show.aspx?id=1332&cid=89>`_ ，文言文版， **尊者 法增 比丘** 譯（七葉佛教書舍）
 
@@ -73,7 +75,7 @@
 
 -----------------------------------------
 
-- `法句經故事集 <http://www.budaedu.org/story/dp000.php>`__ -- 馬來西亞．**達摩難陀長老** 著，臺灣．周金言 譯， `佛陀教育基金會 <http://www.budaedu.org/>`__ 。 `PDF (橫式排版，文字檔) <{filename}/extra/pdf/Dhp-story-han.pdf>`_ [11]_
+- 《法句經故事集》-- 馬來西亞．**達摩難陀長老** 著，臺灣．周金言 譯： `本站 <{filename}dhp-story/dhp-story-han-ciu%zh.rst>`__； `另一線上版 <http://www.budaedu.org/story/dp000.php>`__ (HTML)、 `PDF <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`__ （直掃）、 `PDF <{filename}/extra/pdf/Dhp-story-han.pdf>`__ （橫文）， `佛陀教育基金會 <http://www.budaedu.org>`__ ）； `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ （果儒 法師） [11]_
 
 - `南傳法句經的故事 <{filename}dhp-story/dhp-story-Ven-Dharmagupta%zh.rst>`_ （幾則；翻譯者: **護法 法師 Ven. Dharmagupta** ，尼泊爾籍） [12]_
 
@@ -140,7 +142,7 @@
 
 .. [10]  in the Bibliotheca Polyglotta (Gāndhārī, Pāḷi, English, The Buddhist Hybrid Sanskrit, Chinese)
 
-.. [11] 取材自： `法句經故事集 <http://www.budaedu.org/story/dp000.php>`__ ，佛陀教育基金會； `PDF(原始直式排版，掃描影像檔 <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`_ ，34.2 MB)
+.. [11] 《法句經故事集》-- 馬來西亞．**達摩難陀長老** 著，臺灣．周金言 譯： `本站 <{filename}dhp-story/dhp-story-han-ciu%zh.rst>`__； `另一線上版 <http://www.budaedu.org/story/dp000.php>`__ (HTML)、 `PDF <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`__ （34.2 MB, 原始直式排版，掃描影像檔）、 `PDF <{filename}/extra/pdf/Dhp-story-han.pdf>`__ （橫式排版，文字檔；以上內容皆經 `佛陀教育基金會 <http://www.budaedu.org>`__ 稍做修改過）、 `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ （果儒 法師 修改）
 
 .. [12] 陳建宏，邱秀華，謝素鳳整理。《涅槃的高速公路》。（台南縣：原始佛教學院，2003）。
 
@@ -152,11 +154,16 @@
 
 .. [29] 《現代佛教學術叢刊. 91》。（台北市：大乘文化，1980）：頁211-250。
 
+.. [42] 漢譯南傳大藏經 Chinese Translation of the Pali Tipiṭaka, 第 26 冊　No. 0009, 法句經， 悟醒 譯，共 1 卷，紙本來源：元亨寺漢譯南傳大藏經編譯委員會 / 高雄：元亨寺妙林出版社, 1995.  `CBETA 電子佛典集成 <http://tripitaka.cbeta.org/>`__ » `南傳 (N) <http://tripitaka.cbeta.org/N>`__ » `第 26 冊 <http://tripitaka.cbeta.org/N26>`__ » `No.0009 <http://tripitaka.cbeta.org/N26n0009>`__
+
 --------------
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2018-08-07 add: 元亨寺 漢譯南傳大藏經 法句經
+  2016-03-05 create rst for github
+  
   07.31; 07.24; 07.23; 
   2005. 07.02
   --------------------------------------------------
