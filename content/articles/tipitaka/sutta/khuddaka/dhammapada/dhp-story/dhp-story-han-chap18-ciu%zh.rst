@@ -2,7 +2,7 @@
 ==============================================
 
 :date: 2018-08-19
-:modified: 2018-08-19
+:modified: 2018-08-22
 :author: 周金言
 :tags: 法句經, 法句經故事集, 垢穢品, 周金言
 :category: 尊者的足跡－南傳法句經的故事
@@ -397,7 +397,7 @@
 
    * - `25. Bhikkhuvaggo (Dhp.360-382) <{filename}dhp-story-han-chap25-ciu%zh.rst>`__
      - `26. Brāhmaṇavaggo (Dhp.383-423) <{filename}dhp-story-han-chap26-ciu%zh.rst>`__
-     - Full Text
+     - `Full Text <{filename}dhp-story-han-ciu-full%zh.rst>`__
 
    * - 25. 比丘品 (The Monk)
      - 26. 婆羅門品 (The Holy Man)
