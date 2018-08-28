@@ -3,7 +3,7 @@
 ===================================================
 
 :date: 2016-10-09 16:30
-:modified: 2018-08-25
+:modified: 2018-08-28
 :tags: 法句經, 法句經對讀, 雙品, Dhp, Dhammapada, Yamakavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Pairs
@@ -2457,6 +2457,7 @@
      - 請參考 `巴利《法句經》註解　漢譯　一、雙品 (The Pairs) Dhp. 020 <{filename}../dhA/dhA-chap01%zh.rst#dhp020>`__
 
 .. _2_Appamādavaggo:
+
 
 .. _Dhp021:
 
@@ -35640,7 +35641,6 @@
 
 備註：
 ------
-
 .. [1] 〔註001〕　 `巴利原典 (PTS) Dhammapadapāḷi <Dhp-PTS.html>`__  乃參考 `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `Dhp <http://www.accesstoinsight.org/tipitaka/kn/dhp/index.html>`__ → `{Dhp 1-20} <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.1>`__ ( `Dhp <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html>`__ ; `Dhp 21-32 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.21>`__ ; `Dhp 33-43 <http://www.accesstoinsight.org/tipitaka/sltp/Dhp_utf8.html#v.33>`__ , etc..）
 
 .. [2] 〔註002〕　 `巴利原典 (CSCD) Dhammapadapāḷi 乃參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。網路版原始出處(original)請參考： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單 “Tipiṭaka Scripts” 中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Khuddakanikāya → Dhammapadapāḷi → `1. Yamakavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul0.xml>`__ (2. `Appamādavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul1.xml>`__ , 3. `Cittavaggo <http://www.tipitaka.org/romn/cscd/s0502m.mul2.xml>`__ , etc..)。]
@@ -35651,26 +35651,25 @@
 
        二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF <{filename}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{filename}/extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/pc-Dhammapada-f1.doc>`__
 
-.. [4] 〔註004〕　本譯文請參考： `白話文版 (pdf) <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__， **敬法 法師** 譯，第二修訂版 2015，`原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`__ ；　(`初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
+.. [4] 〔註004〕　本譯文請參考： `白話文版 <{filename}../dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__ ， **敬法 法師** 譯，第二修訂版 2015，`pdf <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__ ，`原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`__ ；　(`初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
 
 .. [5] 〔註005〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
 
-                 **參考相當之古漢譯對應經典：**
+          **參考相當之古漢譯對應經典：**
 
-                  - | `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ ，2014。
-                    | 〔大正新脩大藏經第四冊 `No. 210《法句經》 <http://www.cbeta.org/result/T04/T04n0210.htm>`__ ； **尊者 法救** 撰　吳天竺沙門** 維祇難** 等譯： `卷上 <http://www.cbeta.org/result/normal/T04/0210_001.htm>`__ 、 `卷下 <http://www.cbeta.org/result/normal/T04/0210_002.htm>`__ 〕(CBETA)
+          - | `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`__ ，2014。
+            | 〔大正新脩大藏經第四冊 `No. 210《法句經》 <http://www.cbeta.org/result/T04/T04n0210.htm>`__ ； **尊者 法救** 撰　吳天竺沙門** 維祇難** 等譯： `卷上 <http://www.cbeta.org/result/normal/T04/0210_001.htm>`__ 、 `卷下 <http://www.cbeta.org/result/normal/T04/0210_002.htm>`__ 〕(CBETA)
 
-                  - | `《法句譬喻經》校勘與標點 <http://yifert211.blogspot.tw/>`__ ，2014。
-                    | 大正新脩大藏經 第四冊 `No. 211《法句譬喻經》 <http://www.cbeta.org/result/T04/T04n0211.htm>`__ ；晉世沙門 **法炬** 共 **法立** 譯： `卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0211_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0211_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0211_004.htm>`__ (CBETA)
+          - | `《法句譬喻經》校勘與標點 <http://yifert211.blogspot.tw/>`__ ，2014。
+            | 大正新脩大藏經 第四冊 `No. 211《法句譬喻經》 <http://www.cbeta.org/result/T04/T04n0211.htm>`__ ；晉世沙門 **法炬** 共 **法立** 譯： `卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0211_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0211_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0211_004.htm>`__ (CBETA)
 
-                  - | `《出曜經》校勘與標點 <http://yifertw212.blogspot.com/>`__ ，2014。
-                    | 〔大正新脩大藏經 第四冊 `No. 212《出曜經》 <http://www.cbeta.org/result/T04/T04n0212.htm>`__ ；姚秦涼州沙門 **竺佛念** 譯： `卷第一 <http://www.cbeta.org/result/normal/T04/0212_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0212_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0212_003.htm>`__ 、..., 、..., 、..., 、 `卷第二十八 <http://www.cbeta.org/result/normal/T04/0212_028.htm>`__ 、 `卷第二十九 <http://www.cbeta.org/result/normal/T04/0212_029.htm>`__ 、 `卷第三十 <http://www.cbeta.org/result/normal/T04/0212_030.htm>`__ 〕(CBETA)
-                    | 
+          - | `《出曜經》校勘與標點 <http://yifertw212.blogspot.com/>`__ ，2014。
+            | 〔大正新脩大藏經 第四冊 `No. 212《出曜經》 <http://www.cbeta.org/result/T04/T04n0212.htm>`__ ；姚秦涼州沙門 **竺佛念** 譯： `卷第一 <http://www.cbeta.org/result/normal/T04/0212_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0212_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0212_003.htm>`__ 、..., 、..., 、..., 、 `卷第二十八 <http://www.cbeta.org/result/normal/T04/0212_028.htm>`__ 、 `卷第二十九 <http://www.cbeta.org/result/normal/T04/0212_029.htm>`__ 、 `卷第三十 <http://www.cbeta.org/result/normal/T04/0212_030.htm>`__ 〕(CBETA)
 
-                  - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
-                    | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
+          - | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`__ ，2014。
+            | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`__ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__ 〕(CBETA)  ( **尊者 法救** 集，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門臣 **天息災** 奉　詔譯
 
-.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PâLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
+.. [6] 〔註006〕　此英譯為 **Ven Nārada Thera** 所譯；請參考原始出處(original): `Dhammapada <http://metta.lk/english/Narada/index.htm>`__ -- PĀLI TEXT AND TRANSLATION WITH STORIES IN BRIEF AND NOTES BY **Ven Nārada Thera** 
 
 .. [7] 〔註007〕　此英譯為 **Ven. Ācharya Buddharakkhita** 所譯；請參考原始出處(original): The Buddha's Path of Wisdom, translated from the Pali by **Ven. Ācharya Buddharakkhita** : `Preface <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#preface>`__ with an `introduction <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html#intro>`__ by **Ven. Bhikkhu Bodhi** ; `I. Yamakavagga: The Pairs (vv. 1-20) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html>`__ , `Dhp II Appamadavagga: Heedfulness (vv. 21-32 ) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html>`__ , `Dhp III Cittavagga: The Mind (Dhp 33-43) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html>`__ , ..., `XXVI. The Holy Man (Dhp 383-423) <http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.26.budd.html>`__
 
@@ -35727,23 +35726,23 @@
 
 .. [MettFn01-03] 〔明法尊者註01-03〕　這是護眼長老(Cakkhupālatthera)的故事，他因瞎了眼，在晚上經行踏死很多小生物，隔天被其他比丘發現。佛陀說他無心殺，沒有罪。《本事經》：「諸不善法生，為因能感苦，皆意為前導，與煩惱俱生。意為前導法，意尊意所使，由意有染污，故有說有行，苦隨此而生，如輪因手轉。」(T4.663.3)；
 
-                  PS: 請參 `001 典故 <{filename}../dhp-story/dhp-story001%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～一、瞎眼的阿羅漢 (偈 001)。
+                  PS: 請參 001 典故－－ `護眼尊者的故事 <{filename}../dhp-story/dhp-story001%zh.rst>`__ ；或《法句經故事集》，一～一、 `瞎眼的阿羅漢 <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-001>`__ (偈 001) 。
 
 .. [MettFn01-04] 〔明法尊者註01-04〕　舍衛城一位吝嗇的婆羅門之子，甚至快死了，父親也不延醫，佛陀知道此事，去托缽，經過他家，向他放光，他對佛陀生信，死後生忉利天。他父親到墳墓去哭，他下來勸他的父親要親近佛陀。《本事經》：「諸淨善法生，為因能感樂，皆意為前導，與善法俱生。意為前導法，意尊意所使，由意有清淨，故有說有行，樂隨此而生，如影隨形轉。」(T4.664.1)；
 
-                  PS: 請參 `002 典故 <{filename}../dhp-story/dhp-story002%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～二、何必妄想 (偈 002)。
+                  PS: 請參 002 典故－－ `俄丁納布柏各的故事 <{filename}../dhp-story/dhp-story002%zh.rst>`__ ；或《法句經故事集》，一～二、 `何必妄想 <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-002>`__ (偈 002) 。
 
 .. [MettFn01-05] 〔明法尊者註01-05〕　這是關於帝沙長老(Tissatthera)的故事。帝沙長老是佛陀的表弟，晚年出家，卻喜裝作長老，常與年輕比丘爭吵。他不只是今生頑固，前世也很頑固。
 
-                  PS: 請參 `003-004 典故 <{filename}../dhp-story/dhp-story003-4%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～三、報復的苦行者 (偈 003~004)。 
+                  PS: 請參 003-004 典故－－ `笛沙的故事 <{filename}../dhp-story/dhp-story003-4%zh.rst>`__ ；或《法句經故事集》，一～三、 `報復的苦行者 <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-003>`__ (偈 003~004) 。 
 
 .. [MettFn01-06] 〔明法尊者註01-06〕　本則是妻與妾多世冤冤相報的故事。佛陀作了勸導。《增壹阿含24.8經》︰「怨怨不休息，自古有此法，無怨能勝怨，此法終不朽。」(T2.627.2)。
 
-                  PS: 請參 `005 典故 <{filename}../dhp-story/dhp-story005%zh.rst>`__ ；或  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～四、累劫以來的仇恨 (偈 005)。
+                  PS: 請參 005 典故－－ `虎姑婆的故事 <{filename}../dhp-story/dhp-story005%zh.rst>`__ ；或《法句經故事集》，一～四、 `累劫以來的仇恨 <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-005>`__ (偈 005) 。
 
-.. [MettFn01-07] 〔明法尊者註01-07〕　**彼人** (Pare其他諸人)：指在憍賞彌(Kosambi)的比丘，因精通律的比丘與精通法的比丘判定有罪、無罪意見不同而起諍論。故事與第328-330偈同。PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～五、憍賞彌諍論不休的比丘們 (偈 006)。
+.. [MettFn01-07] 〔明法尊者註01-07〕　**彼人** (Pare 其他諸人)：指在憍賞彌 (Kosambi) 的比丘，因精通律的比丘與精通法的比丘判定有罪、無罪意見不同而起諍論。故事與第 328-330 偈同。PS: 請參《法句經故事集》，一～五、 `憍賞彌諍論不休的比丘們 (偈 006) <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-006>`__ 。
        
-                  PS: 另參： `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap23.pdf>`__  ，二十三～七、照顧佛陀的大象 (偈 328~330)。 
+                  PS: 另參：《法句經故事集》，二十三～七、 `照顧佛陀的大象 <{filename}../dhp-story/dhp-story-han-chap23-ciu%zh.rst#dhp-328>`__ (偈 328~330) 。 
 
 .. [MettFn01-08] 〔明法尊者註01-08〕　**我等將毀滅**：我們將滅亡於此諍論之中。另譯作：「我們在此處要止息」(mayam ettha yamāmase)。
 
@@ -35767,7 +35766,7 @@
 
 .. [MettFn01-18] 〔明法尊者註01-18〕　偈頌故事︰摩訶迦羅和小迦羅兄弟都是生意人，後來都出家，摩訶迦羅努力在墓地禪修，並觀照身體的無常，證得阿羅漢果。小迦羅對修行沒有興趣，最後被他的妻妾說服還俗。相反地，摩訶迦羅已不為欲望所動。
 
-                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～六、摩訶迦羅比丘和小迦羅比丘的命運 (偈 007~008)。
+                  PS: 請參《法句經故事集》，一～六、 `摩訶迦羅比丘和小迦羅比丘的命運 <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-007>`__ (偈 007~008) 。
 
 .. [MettFn01-19] 〔明法尊者註01-19〕　**離諸垢** (vanta-kāsāva吐污)：離煩惱。有煩惱垢、塵垢、垢穢、惑垢、染垢等名詞。
 
@@ -35775,36 +35774,37 @@
 
 .. [MettFn01-21] 〔明法尊者註01-21〕　舍利弗、目犍連尊者不瞭解提婆達多，誤把一件高價的袈裟供養他。
 
-                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～七、誰有得到黃色布料供養的資格 (偈 009~010)。
+                  PS: 請參《法句經故事集》，一～七、 `誰有得到黃色布料供養的資格 <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-009>`__ (偈 009~010) 。
 
 .. [MettFn01-22] 〔明法尊者註01-22〕　**非真思真實**：DhA：**asāre sāramatino** ti cattāro paccayā, dasavatthukā micchādiṭṭhi, tassā upanissayabhūtā dhammadesanāti ayaṁ asāro nāma. (**在非核心之中思量核心**：從四資具，它的十事的邪見解，已成為依靠的指示法，此名叫非核心。)
 
 .. [MettFn01-23] 〔明法尊者註01-23〕　11~12偈為優婆提舍(舍利弗)和拘律陀(目犍連)，聽到馬勝比丘念誦：「諸法因緣生，如來說諸因。諸法因緣滅，大沙門如是說。」的法偈，當下就證得預流果。之後，優婆提舍把這因緣的偈頌告訴拘律陀，他聽完這偈頌後，也立刻證得預流果。然後，他們就去找他們的老師刪闍耶，並告訴他說，他們已經找到可以指引究竟解脫之道的人，邀他一齊去見佛陀，但是被刪闍耶拒絕。他們向世尊表示刪闍耶的拒絕，世尊說了此偈。
 
-                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～八、了解正法甚難 (偈 011~012)。
+                  PS: 請參《法句經故事集》，一～八、 `了解正法甚難 <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-011>`__ (偈 011~012) 。
 
 .. [MettFn01-24] 〔明法尊者註01-24〕　《增壹阿含18.7經》：「蓋屋不密，天雨則漏，人不惟行，漏婬怒癡。蓋屋善密，天雨不漏，人能惟行，無婬怒癡。」(T2.591.3)
 
 .. [MettFn01-25] 〔明法尊者註01-25〕　13~14偈為難陀(Nanda，世尊姨母弟，即摩訶波闍波提的兒子)戀戀不忘未婚妻，渴望還俗。世尊為難陀說法的偈頌。
 
-                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～九、難陀為了女人修行 (偈 013~014)。
-                  另參：《原始佛典選譯》(顧法嚴)(慧炬)p.253, 典故:巴利本生經 182
+                  PS: 請參 《法句經故事集》，一～九、 `難陀為了女人修行 <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-013>`__ (偈 013~014) 。
+
+                  另參：《原始佛典選譯》，顧法嚴 譯，慧炬 出版 p.253, 典故:巴利本生經 182
 
 .. [MettFn01-26] 〔明法尊者註01-26〕　本偈為住在竹林精舍附近，屠豬夫純陀(Cundasūkarika)，臨終前作豬叫，在地上打滾，經一星期，死後下地獄，世尊說出此偈。
 
-                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～十、生生世世受苦的屠夫 (偈 015)。
+                  PS: 請參《法句經故事集》，一～十、 `生生世世受苦的屠夫 <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-015>`__ (偈 015) 。
 
 .. [MettFn01-27] 〔明法尊者註01-27〕　本偈說曇彌優婆塞(Dhammika-upāsaka)的故事。住在舍衛城的曇彌樂善好施，臨終時有六天的六匹馬車來迎，他告訴兒女，他選擇去兜率天。
 
-                  PS: 請參 `016 典故 <{filename}../dhp-story/dhp-story016%zh.rst>`_ ；或  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～十一、世世幸福 (偈 016)。
+                  PS: 請參 016 典故－－ `塔蜜卡優婆塞的故事 <{filename}../dhp-story/dhp-story016%zh.rst>`_ ；或《法句經故事集》，一～十一、 `世世幸福 <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-016>`__ (偈 016) 。
 
 .. [MettFn01-28] 〔明法尊者註01-28〕　本偈說提婆達多(Devadatta)的故事。他是大師的表弟，他學成神通之後，曾以神通博得阿闍世王的信任，之後，日日獲得很多供養。他想當僧團的領導人，曾跟佛陀索眾，佛陀沒有答應。他懷恨在心，有三次謀害佛陀不成，其中一次利用山上的滾石，傷到佛足，出佛身血；殺佛不成，他就有分裂僧團的動作；又殺害蓮華色阿羅漢尼(Uppalavaṇṇa)。多項五逆罪，死後投生大阿鼻地獄(avīcimahāniraya)。
 
-                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～十二、提婆達多悲慘的命運 (偈 017)。
+                  PS: 請參《法句經故事集》，一～十二、 `提婆達多悲慘的命運 <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-017>`__ (偈 017) 。
 
 .. [MettFn01-29] 〔明法尊者註01-29〕　給孤獨長者的第三女兒善意天(Sumanadevī)，臨終時稱父親為「弟弟」。給孤獨長者困惑不安，以為她臨終時沒有正念。佛陀說，她臨終時正念現前，因為她證得二果，境界比給孤獨長者高，死後往生兜率天。
 
-                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～十三、年輕女孩的成就 (偈 018)。
+                  PS: 請參《法句經故事集》，一～十三、 `年輕女孩的成就 <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-018>`__ (偈 018) 。
 
 .. [MettFn01-30] 〔明法尊者註01-30〕　**經集**：DhA：**saṁhitan** ti tepiṭakassa buddhavacanassetaṁ nāmaṁ.(**經集**：這是佛說的三藏之名。)
 
@@ -35812,7 +35812,7 @@
 
 .. [MettFn01-32] 〔明法尊者註01-32〕　19-20偈說兩位好友比丘的故事。一位已證阿羅漢果，一位只精通經教。
 
-                  PS: 請參 `019-020 典故 <{filename}../dhp-story/dhp-story019-20%zh.rst>`_ ；或  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～十四、知識不等於證悟 (偈 019~020)。
+                  PS: 請參 019-020 典故－－ `兩位老友比丘的故事 <{filename}../dhp-story/dhp-story019-20%zh.rst>`_ ；或《法句經故事集》，一～十四、 `知識不等於證悟 <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-019>`__ (偈 019~020) 。
 
 .. [NandFn01-00] 〔Nanda 校註01-00〕 〝於此世界中〞
                   說明：參考法雨道場( 明法 法師)出版之修訂版，依巴、英及語體本更正。
@@ -36027,7 +36027,6 @@
                 | PS: T04,779b11 取材自：【部落格-- 荒草不曾鋤】--　`《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ 
                 | 　　T04,779b15 取材自：《法句経の対照研究》-- 法句経の発展成立史研究，丹生実憲 著
 
-
 .. [dhp-a-001-note] 1.  「法 」(dhamma)有多重意義，此處指的是業(kamma) 或代表行 (cetana) 的業，或任何伴隨道德或不道德的意識而來的心理狀態。本品的法指的是不善法（邪惡的心理狀態），若沒有心的作用，不會生起任何心理狀態，所以說心是所有善惡心理狀態的先導。
 
            2.  行：最重要的心理狀態。佛：「行即是業。」
@@ -36046,268 +36045,7 @@
 
 .. [dhp-a-007-note3] 本篇是佛陀針對出家人的說法。讀者應注意，佛陀對出家人和在家人的生活要求不同。
 
-.. [dhp-a-009-note1] 袈裟是棄絕世間的外在象徵，比丘的袈裟加以染色是為了使其不具任何價值。 本法句的袈裟是一雙關語，如果內心不清淨，則光靠外表的象徵也沒有任何意義。佛陀在另一個場合中，曾說內心清淨的人，不管外表如何，才是真的比丘。（參考 `第142偈 <{filename}dhp-story-han-chap10-ciu%zh.rst#dhp_142>`__ ）
-
-.. [dhp-a-021-note] 「不死」的意思不是說精進的人不會死亡，有生必有死，即使佛陀和阿羅漢也不例外。不死的意思是說精進的人證得涅槃，不在生死輪迴，所以不死；放逸的人不知作善行，所以生死輪迴不斷。
-
-.. [dhp-a-022-note] 「聖境」指的是三十七道品和九種殊勝。
-
-.. [dhp-a-023-note1] 此處的「禪定」包含止與觀。
-
-.. [dhp-a-023-note2] 此處的「繫縛」指四種煩惱：貪愛、生、邪見和無明。
-
-.. [dhp-a-023-note3] 「涅槃」─佛教徒的最高理想，涅槃不是一般人所誤以為的斷見或一切虛無的境界。事實上，涅槃是永恆、不死、超凡的境界，一般言語無法完全表達涅槃的真實義，其字面的意義是遠離愛欲。涅槃是今生就可以證得的出世間境界，也可 以解釋成所有愛欲止息的境界。涅槃不是一切虛無的意思，它肇因於究竟滌除愛欲而達到究竟解脫的喜悅境界。就形上學而言，涅槃指所有苦痛的止息。就心理學而言，涅槃是棄除自我觀。就道德（倫理)學而言，是三毒（貪、瞋、 癡)的滌除。
-
-.. [dhp-a-025-note1] 「沙洲」：較高的陸地，可以避免洪水的患難，智者證得阿羅漢果，就等於為自己建立較高的安全陸地，而不會陷溺於五欲、邪見、愛欲和無明之中。
-
-.. [dhp-a-037-note] Nanda 補註：〝佛陀教育基金會〞另改譯為「 `紛遝 <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`__ 」 (PDF, 直式排版，掃描影像檔 ，34.2 MB)。
-
-                    `沓 <http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QjAyMDQ0>`__ ㄊㄚˋ，大徐本：，語多沓沓也。从水，从曰。遼東有沓縣。臣鉉等曰：「語多沓沓，若水之流。故从水會意。」（徒合切）
-
-                    段注本：，語多沓沓也。从水、曰。遼東有沓縣。（徒合切）
-
-                    釋義：動詞：相合。文選．揚雄．羽獵賦：「天與地沓。」
-
-                    　　　副詞：眾多而重複。如：「雜沓」、「紛至沓來」。
-
-                    　　　名詞：量詞。計算重疊的書、紙的單位。如：「他將舊報紙一沓一沓的整理好。」里語徵實．卷上．一字徵實引避暑錄話：「晏元獻平居不棄一紙，雖封皮亦十百為沓。猶今之言一套也。書稱幾沓本此。」
-
-                    `遝 <http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QjA1MDkz>`__　ㄊㄚˋ，tà。
-
-                    釋義：見「雜遝」。
-
-                    ※雜遝：眾多而紛亂的樣子。漢書．卷三十六．楚元王劉交傳：「及至周文，開基西郊，雜遝眾賢，罔不肅和，崇推讓之風，以銷分爭之訟。」唐．杜甫．麗人行：「簫鼓哀吟感鬼神，賓從雜遝實要津。」
-
-                    果儒法師則改為：「心念無形相，到處遠遊獨行，能調服心的人，解脫魔縛。」 ( `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ )
-
-.. [dhp-a-039-note1] 阿羅漢超越善惡，所以阿羅漢的作為不落善惡範圍。這不是說阿羅漢無所事事。相反地，阿羅漢積極任事，而且一無私心，所作所為都為了引導別人走向修行的道路。一般認為阿羅漢的作為是善的。但阿羅漢的行為不會為自己創造善報。阿羅漢仍然要承受過去所做業的業報。阿羅漢不作新業，阿羅漢的所有作為稱之為「無記（kiriya）」，而不是業，所以從道德觀點而言，不會產生效應。阿羅漢如實知見，所以不落因果律。
-
-.. [dhp-a-039-note2] 此處的覺者指的是阿羅漢。阿羅漢並不是不睡覺。他們不論清醒或睡眠時，都是精進的，因為阿羅漢永遠具足正信，精進，正念，正定和慧等五種德行。
-
-.. [dhp-a-042-note] 指十種惡業：殺生、偷盜、邪淫、妄語、兩舌、惡口、綺語、慳貪、瞋恚和邪見。
-
-.. [dhp-a-043-note] 指十善念：布施，持戒，修禪定，恭敬，作事，回向功德，隨喜功德，聽法，說法，正直見。
-
-.. [dhp-a-044-note] 學地比丘：已證初果，但尚未證得阿羅漢果的比丘。
-
-.. [dhp-a-049-note] 註釋家對本法句的解釋略有不同：
-
-   | 達摩難陀上座認為這句法句的意思是說：智者不傷害村民的信仰、慷慨和財富；
-   | Narada 上座則認為是：不造成任何人的不方便；
-   | Sri Acharya Buddharakkhita 尊者則說：智者入村落化緣時，也提供世人做功德的機會；
-   | 了參法師在《南傳法句經》的翻譯則未加任何註解。
-
-.. [dhp-a-053-note] 本法句的意思是說，人可以出於正信和慷慨的財施來完成很多善業。
-
-.. [dhp-a-058-note] 佛法不譴責任何人。因為即使看來最差勁的人，也只表示他（她）的崇高德性暫時隱伏不現而已，一如蓮花生長在污泥中。
-
-.. [dhp-a-061-note] 智者出於慈悲心，希望改善愚人的情況時，可以與愚癡的人來往，但不可反而受其污染。
-
-.. [dhp-a-062-note] **譯註：** 了參法師的《南傳法句經》 Marada Thera 及 Venerable Sri Acharya Buddharakkhita 的譯本皆作：「愚人如是擔憂」。
-
-.. [dhp-a-070-note] 佛陀在世時的印度，經常用這種方法來比較不同事物之間的價值差別。
-
-.. [dhp-a-070-note2] Nanda 補註：孤沙草尖： the tip of a *kusa* grass blade; 〝佛陀教育基金會〞改為： `愚癡的人雖然常年只吃孤沙草尖般的少許食物，但所得的善業仍不及明瞭正法的人16分之1 <http://www.budaedu.org/story/dp070.php>`__ 。
-
-.. [dhp-a-075-note] 出離有三層意義：
-
-                    | 1. 出離群眾; 
-                    | 2. 心靈上遠離貪愛; 
-                    | 3. 遠離緣起法，趣向涅槃。
-
-.. [dhp-a-087-note] 「黑法」：即十種惡業，請參考 `三～八的註 <{filename}dhp-story-han-chap03-ciu%zh.rst#dhp-a-042-note>`__ 。
-
-.. [dhp-a-090-note] 有四種繫縛：貪、瞋、戒禁取和見取。
-
-.. [dhp-a-090-note2] 即阿羅漢。
-
-.. [dhp-a-091-note] 阿羅漢行腳各地，而不執著特定的地方，因為阿羅漢沒有“我”和“我所”的觀念。
-
-.. [dhp-a-092-note] 積聚有二種：「業」和「四食」的積聚。「業」積聚會使人不斷輪迴。而「四食」積聚雖是生命的必須，但可能妨礙精神修持。
-
-.. [dhp-a-092-note2] 根據論，阿羅漢在進食時，應正念現前，具足三種食觀： 
-
-                     | 1. **知遍知** ： 確實明白食物的意義。 
-                     | 2. 審察遍知** ：確實明白食物的卑微。 
-                     | 3. 斷偏知** ： 滅盡進食的欲樂。
-
-.. [dhp-a-092-note3]  涅槃是苦的解脫。因為不再貪瞋癡所以也稱之為「空」，而不是說一無所有或一切斷滅。涅槃是積極的，超越凡俗的境界，無法用世俗的文字加以敘述。涅槃是無相的，因為不再有貪的形相。阿羅漢在生前就證得涅槃而領略涅槃的喜悅。說阿羅漢死後仍然存在或不存在都不正確，因為涅槃既不是常見也不是斷見。涅槃時，沒有任何東西是永恆的，而且，除了愛欲之外，沒有任何寂滅。阿羅漢在今生即證得涅槃而領略無上的涅槃喜悅。
-
-.. [dhp-a-095-note] 因陀揭羅，是在大門中間安放一堅固的石頭，作為關門時放門橛用的。另一種說法認為它是帝釋的柱子，在進城的地方安立一大而堅固的柱子，以象徵因陀羅（印度守護神）之所在。
-
-.. [dhp-a-100-note] (讀) 為 Nanda 補註，原譯文無。
-
-.. [dhp-a-107-note] 「火祭」在當時的伊朗和印度相當流行。部份人認為火是神祇之一。有些人認為透過火祭，他們可以討好神祇，而得到賜福和保護。另外，動物祭祀和在恆河中沐浴也很普遍。佛陀是當時唯一指出這些方法都是無益的宗教師 。
-
-.. [dhp-a-113-note] 「世事生滅」，巴利註釋書謂：udayabbayaṁ 生滅法： (＜udaya生+vaya滅)。觀察五蘊的二十五異相(pañcavīsatiyā lakkhaṇehi udayañca vayañca apassanto)的生滅。
-
-                    此偈頌，果儒法師則改為：「若長命百歲，但不知萬物生滅的實相，不如活著一天如實知見生滅法。」 ( `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ ) 
-
-.. [dhp-a-118-note] 「善業多，必受樂報」或有標(點)譯為：「善業多必受樂報。」
-
-                    了參 法師 譯：當喜於作善；積善則受樂。
-
-                    敬法 法師：他應該樂於造福，累積福導致快樂。 
-
-                    悟醒 譯：若人作善已，應復重重作；應喜於作善，積善受快樂。 (漢譯南傳大藏經， `CBETA <http://tripitaka.cbeta.org/>`__ 電子佛典集成 » 南傳 (N) » 第 26 冊 » No.0009 » `法句經 <http://tripitaka.cbeta.org/N26n0009_001#0025a05>`__ ; N26, no. 0009, p.25, a05)
-
-.. [dhp-a-121-note] 或譯：小覷。
-
-.. [dhp-a-126-note1] 眾生若墮入四惡趣，受報之後，仍可能因為過去的善業往生善趣。
-
-.. [dhp-a-130-note] 請參考故事「 `為了塔而爭吵的比丘 <#dhp_129>`_ 」Dhp. 129
-
-.. [dhp-a-137-note] 指阿羅漢。
-
-.. [dhp-a-147-note] Nanda 補註：果儒法師改為：「請好好觀察這外表美麗的色身，實際上是一身的污穢，一堆骨頭，疾病、貪念不斷，一切皆無常。」( `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ ) 
-
-                    パーリ語辞典 水野弘元著：aru：n．，aruka m．[Sk．aruḥ] 傷，瘡．-kāya 瘡身，穢身．
-
-                    《巴漢詞典》Mahāñāṇo Bhikkhu編著：Aru，【中】 Arukā，【陰】 舊傷口，痛處。 ~kāya，【陽】 許多痛處。
-
-                    《巴漢詞典》明法尊者增訂：Aru，【中】arukā，【陰】舊傷口，痛處。arukāya，【陽】許多痛處。arupakka，【形】腐爛的痛處。
-
-.. [dhp-a-149-note] | 屍首有十種相： 
-                    | １．膨脹相 ２．青瘀相 ３．膿爛相 ４．斷壞相 ５．食殘相 ６．散亂相 ７．斬斫離散相 ８．血塗相 ９．蟲聚相 １０．骸骨相 佛世時，以上十種相的屍首可以在墓地和停屍間找到，在這些地方的屍首都尚未掩埋或火化，所以野獸和鳥類經常來噉食。現在當然無法找到這些屍首，做為觀想的對象。
-
-.. [dhp-a-150-note] 「虛偽」古譯為覆。
-
-.. [dhp-a-151-note] 如佛陀等。
-
-.. [dhp-a-151-note2] 九種殊勝：四向，四果和涅槃。
-
-                     （ Nanda 補註：「而善法永不衰老，聖者如是說。」一句，〝佛陀教育基金會〞另改譯為「 `但聖者之間，流傳著不衰老的九種殊勝 <http://www.budaedu.org/story/dp151.php>`__ 。」 ）
-
-.. [dhp-a-151-note3] 根據阿毗達摩（論）哲學，在死亡的關鍵時刻，瀕臨死亡的人會看見業、業相和趣向，這些會決定下一生的去處。 
-
-                     (1) 業：代表人一生的某些善惡業或臨終前的善惡業。 
-
-                     (2) 業相：代表在人一生重要的活動時，具有主宰力量的精神形像，可能是任何影像，聲音，嗅覺，味道，觸和意念。以屠夫而言，這種業相可能是屠刀或垂死的動物形像，而對醫生而言，可能是病人的形像，至於對信徒而言，可能是所崇拜的對象。 
-
-                     (3) 趣向：代表來世出生地方的形像。這種趣向經常向臨死的人顯現，並且展現來世究竟是喜悅或悲慘。如果是悲慘的話，有時候也可以經由影響臨終者的念頭而加以改善。這種趣向可能是火、森林、山區、母親的子宮或天界的華屋等等。
-
-.. [dhp-a-153-note] 指生死輪迴的原因。
-
-.. [dhp-a-157-note] 指人生的青年，中年和老年三階段。
-
-.. [dhp-a-162-note] | **「蔓蘿草」** 為藤屬植物。娑羅樹若為蔓蘿草所纏，便會枯死。 
-                    | **「娑羅樹」** 為材質甚堅的喬木，供建築用；亦傳為過去七佛中毘舍浮佛的道場樹。長阿含經：「毘舍浮佛坐娑羅樹下，成最正覺。」
-
-.. [dhp-a-162-note2] 〝佛陀教育基金會〞另改譯為「 `糾纏娑羅樹而使之枯死 <http://www.budaedu.org/story/dp162.php>`__ 。
-
-.. [dhp-a-164-note] 「格他格竹」指蘆葦一類的植物，結實則亡。
-
-.. [dhp-a-167-note2] 「不可貪婪世間物」，〝佛陀教育基金會〞改譯為「 `不可貪戀世間物 <http://www.budaedu.org/story/dp167.php>`__ 」； 果儒法師則改為：「不可貪圖世間物」( `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ )。 `巴利註解 <{filename}../dhA/dhA-chap13%zh.rst#dhp167>`__ ： na siyā lokavaddhano 不要成為世間增長者。如上述（卑劣法、放逸、邪見）而造作者，稱為令世間(輪迴)增長者，因此，不要如此作。
-
-.. [dhp-a-175-note] 透過修行，人可以橫越天空、凌水而過，遁入地中等。這些能力是精神的、超越自然的，但絕不是奇蹟。 
-
-.. [dhp-a-175-note2] 阿羅漢證得般涅盤，不再輪迴。
-
-.. [dhp-a-181-note] 此處的禪定指的是止觀。
-
-.. [dhp-a-185-note] 「增上定」：八定。
-
-.. [dhp-a-188-note] Nanda 補註：原譯文為：「如山岳，森林，園苑，樹神和神舍。但這些都不是安隱的保護 ... 」，依前後文意改為「如山岳、森林、園苑、樹神和神社。但這些都不是安隱的保護 ... 」。果儒法師則改為：「如山嶽、森林、庭園、樹神和神社，但這些都不是安穩的保護 ... 」。( `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ ) 
-
-.. [dhp-a-197-note] Nanda 補註：此偈頌，或改為：「眾生滿懷嗔恨，佛陀不嗔恨，   眾生滿懷嗔恨，佛陀住於無嗔。」（ `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ ，臺灣．果儒 法師）。
-
-.. [dhp-a-198-note] Nanda 補註：此偈頌，或改為：「眾生有種種煩惱痛苦，佛陀沒有煩惱痛苦，   眾生有種種煩惱痛苦，佛陀住於無煩惱痛苦。」（ `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ ，臺灣．果儒 法師）。
-
-.. [dhp-a-199-note] Nanda 補註：此偈頌，或改為：「眾生貪求欲樂，佛陀不貪求，   眾生貪求欲樂，佛陀住於無貪。」（ `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ ，臺灣．果儒 法師）。
-
-.. [dhp-a-200-note] Nanda 補註：此偈頌，〝佛陀教育基金會〞改譯為：「 `佛陀愉快安住，沒有種種煩惱障礙，如同光音天，佛陀以法喜為食。 <http://www.budaedu.org/story/dp200.php>`__ (偈 200)」；另或改譯為：「 `佛陀愉快安住，沒有貪嗔痴等煩惱障。如同光音天，佛陀以禪悅為食。 <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ 」（臺灣．果儒 法師）。
-
-.. [dhp-a-203-note] 一般的疾病只要有適當的藥就可以治癒，但飢餓卻要天天加以治療。
-
-.. [dhp-a-217-note] 「住法」指四向、四果及涅槃九種殊勝法。
-
-.. [dhp-a-218-note2] Nanda 補註：此偈頌，〝佛陀教育基金會〞改譯為：「 `渴求涅槃，心中感受到三果的喜悅，並且不為物欲所繫縛的人，就是證得不還果的人。 <http://www.budaedu.org/story/dp218.php>`__ (偈 218)」
-
-.. [dhp-a-229-note] 「閻浮金」：來自閻浮河 (Jambu) 的金，是品質最佳的金。
-
-.. [dhp-a-252-note] Nanda 補註：原譯為：「卻像狡猾的家禽躲藏起來」，今依 `多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap18%zh.rst>`_ 之他譯（據註解書）更改為「卻像狡猾的捕禽者偽裝躲藏起來」。
-
-.. [dhp-a-260-note] Nanda 補註：thera: 「長老」或譯「上座」。
-
-.. [dhp-a-266-note] 「比丘」字面的意義是“乞討的人”，但比丘並不乞討，比丘只是靜靜地站在門口化緣。人們布施什麼，比丘就吃什麼。 
-
-.. [dhp-a-267-note] 只知化緣，而不持守全部比丘戒律的人，不可稱之為比丘。
-
-.. [dhp-a-273-note2] 「八正道」即中道，可用來證悟涅槃。
-
-.. [dhp-a-273-note3] 「四聖諦」：苦、集、滅、道。不管佛陀出世與否，四聖諦永遠存在世間，佛陀只是指出四聖諦而已。
-
-.. [dhp-a-279-note] 所有緣起法都是無常、苦和無我。厭離它們的人可以證得涅槃。無我是佛陀的重要觀點。
-
-.. [dhp-a-283-note] 佛陀說砍伐森林時，有些新出家的比丘誤解佛陀的意思，所以佛陀進一步說，砍伐欲望之林，而不是真正的森林。
-
-.. [dhp-a-286-note] 不知生命危脆的道理。
-
-.. [dhp-a-292-note] 持戒、修習禪定等。
-
-.. [dhp-a-292-note2] 裝飾雨具、拖鞋、缽等。
-
-.. [dhp-a-296-note] 佛陀未出家的俗名。
-
-.. [dhp-a-296-note2] 觀想佛陀的殊勝修持。
-
-.. [dhp-a-298-note] 觀想僧伽的殊勝。
-
-.. [dhp-a-303-note] 「財富」是指－－信、戒、慚、愧、聞、施、慧等七聖財。
-
-.. [dhp-a-311-note] 「孤沙草」： *kusa* grass, 香草的名字。
-
-.. [dhp-a-315-note] 例如佛陀出現世間，與人共修，健康的身體，擁有正見等。
-
-.. [dhp-a-322-note] 印度河地區出產的駿馬。
-
-.. [dhp-a-322-note2] 大象名。
-
-.. [dhp-a-324-note] 「財護」為象名。
-
-.. [dhp-a-324-han-note] 譯者註：佛陀說此法句告誡世人應該孝順父母。
-
-.. [dhp-a-332-note] 「聖者」：指佛陀、阿羅漢...等。
-
-.. [dhp-a-335-note] 「毘羅草」：草名。
-
-.. [dhp-a-340-note] 以譬喻貪欲如同蔓草，經由六根，染著六塵。
-
-.. [dhp-a-346-note] 指對珠寶、裝飾、兒女、妻子的貪愛。
-
-.. [dhp-a-368-note] Nanda 補註：此偈頌，〝佛陀教育基金會〞改譯為：「 `心懷慈悲, 法喜充滿的比丘, 證得清涼心和安樂(涅槃), 涅槃是諸行解脫的究竟法喜。 <http://www.budaedu.org/story/dp368.php>`__ (偈368)」；果儒法師則改為：「心懷慈悲、好樂佛陀教法的比丘，證得寂靜涅槃，和諸行解脫境界。」 ( `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ ) 
-
-.. [dhp-a-369-note] 舟喻色身，水喻心中的邪惡思想。Nanda 補註：「舟喻色身」，原譯著為「空喻色身」，今依「 `註解書 <{filename}../dhA/dhA-chap25%zh.rst#dhp-369>`__ 」修訂。
-
-.. [dhp-a-370-note] 有四瀑流－－欲瀑流、有瀑流、見瀑流和無明瀑流。五著：貪、瞋、癡、慢與邪見。
-
-.. [dhp-a-373-note] 指八定：四色定和四無色定。
-
-.. [dhp-a-384-note] 「彼岸」即涅槃。
-
-.. [dhp-a-385-note] 真正的阿羅漢不執著於「我」與「我所」，所以沒有內外六塵。
-
-.. [dhp-a-394-note] 印度有些外道用鹿皮作坐具或做衣服穿。
-
-.. [dhp-a-395-note] 糞掃衣：出家人撿拾別人丟掉的碎布，洗乾淨後，聯綴成袈裟。
-
-.. [dhp-a-396-note] 此處的婆羅門指的是有修持的人。
-
-.. [dhp-a-396-note2] 此處的婆羅門指的是種姓上的婆羅門，與修持境界無關。
-
-.. [dhp-a-398-note] 「皮帶」：瞋恚。「韁」：貪愛。「繩」：六十二邪見。「附屬物」：潛伏的習性，舊譯作隨眠，共有七種。「門閂」：無明。
-
-.. [dhp-a-400-note] 阿羅漢棄絕所有的貪愛，不再輪迴，所以是最後身。
-
-.. [dhp-a-413-note2] Nanda 補註：原譯著「瑕疪」為「瑕疵」之誤植。
-
-.. [dhp-a-420-note] 「乾闥婆」：天的一種。
-
-.. [dhp-a-422-note] ：印度人以為在恆何中沐浴，就可消除罪業，但此處佛陀的意思是說內心沒有垢穢。
-
-.. [dhp-a-422-note2] 本文為接續 十三～十、「 `供養比賽 <{filename}dhp-story-han-chap13-ciu%zh.rst#dhp-177>`__ 」的故事 Dhp. 177 。
-
-                     鴦掘魔尊者的故事也請參考十三～六、「 `證聖果的殺人兇手 <{filename}dhp-story-han-chap13-ciu%zh.rst#dhp-173>`__ 」 Dhp. 173 。
+.. [dhp-a-009-note1] 袈裟是棄絕世間的外在象徵，比丘的袈裟加以染色是為了使其不具任何價值。 本法句的袈裟是一雙關語，如果內心不清淨，則光靠外表的象徵也沒有任何意義。佛陀在另一個場合中，曾說內心清淨的人，不管外表如何，才是真的比丘。（參考 `第142偈 <{filename}../dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp-142>`__ ）
 
 .. [NāradaFn01-01]  (Ven. Nārada 01-01) Yamaka means a pair. This chapter is so named because it consists of ten pairs of parallel verses.
 
@@ -36459,8 +36197,9 @@
 
 .. [DLMBSFn-V020] (DLMBS Commentary V020) So, who can be truly called a monk, who shares the blessings of monkshood? It must be a person, who is living in accordance with the Dharma, as proclaimed by the Buddha. He must abandon all three roots of evil (lust, hatred and delusion), must have the right knowledge of the Dharma and his mind must be liberated. He must not of course be attached to anything in this world, but neither to anything in his possible future rebirths. Such a person is sharing all the blessings of monkshood, even if he does not preach the Dharma a lot.
 
-.. [LCanFn02-01] 〔了參法師註02-01〕　不死(Amata)，又做甘露、涅槃。
 
+.. [LCanFn02-01] 〔了參法師註02-01〕　不死(Amata)，又做甘露、涅槃。
+　
 .. [LCanFn02-02] 〔了參法師註02-02〕　因不放逸的人證得涅槃境界，便不會再有生死輪迴的繼續。放逸的人如死屍ㄧ樣，不知向好的方面去努力。
 
 .. [LCanFn02-03] 〔了參法師註02-03〕　此頌接續前頌而來。「此」即不要放逸而住於不放逸。
@@ -36477,53 +36216,53 @@
 
 .. [LCanFn02-09] 〔了參法師註02-09〕　「結」（Samyojana 或 Sannojana）在佛教的特殊意義，是指煩惱（Kilesa）。
 
-.. [MettFn02-01] 〔明法尊者註02-01〕** 不死道**：amatapadaṁ，涅槃的一種名稱。《相應部》〈無為相應〉提到三十二種涅槃的別名之一‘amata’。DhA.CS:pg.1.103.︰**Amatapadan** ti amataṁ vuccati nibbānaṁ.(**不死的路**：「不死」被叫做「涅槃」。)
+.. [MettFn02-01] 〔明法尊者註02-01〕 **不死道** ：amatapadaṁ，涅槃的一種名稱。《相應部》〈無為相應〉提到三十二種涅槃的別名之一‘amata’。DhA.CS:pg.1.103.︰**Amatapadan** ti amataṁ vuccati nibbānaṁ.(**不死的路**：「不死」被叫做「涅槃」。)
 
-.. [MettFn02-02] 〔明法尊者註02-02〕** 死路**：maccu (death死)。
+.. [MettFn02-02] 〔明法尊者註02-02〕 **死路** ：maccu (death死)。
 
-.. [MettFn02-03] 〔明法尊者註02-03〕** 奮勉**：DhA：**uṭṭhānavato** ti uṭṭhānavīriyavantassa.(**奮起**：奮起的英雄本色。)
+.. [MettFn02-03] 〔明法尊者註02-03〕 **奮勉**：DhA：**uṭṭhānavato** ti uṭṭhānavīriyavantassa.(**奮起** ：奮起的英雄本色。)
 
-.. [MettFn02-04] 〔明法尊者註02-04〕** 淨行**：DhA：**Sucikammassā** ti niddosehi niraparādhehi kāyakammādīhi samannāgatassa.(**淨業**： 已被無為難的、無違犯的身業等俱行。)
+.. [MettFn02-04] 〔明法尊者註02-04〕 **淨行** ：DhA： **Sucikammassā** ti niddosehi niraparādhehi kāyakammādīhi samannāgatassa.(**淨業**： 已被無為難的、無違犯的身業等俱行。)
 
 .. [MettFn02-05] 〔明法尊者註02-05〕** 不為洪水沒**：智者以法與律作為依止，不為煩惱(喻作：洪水)所淹沒。DhA：「洪水為四種污染(catubbidhopi kilesogho)」。四洪水(cattāro oghā)就是四漏(四流向, 4 āsavā<(ā向﹑從…+ **su** (梵 **sru** )流動))。
 
 .. [MettFn02-06] 〔明法尊者註02-06〕　有一天，名醫耆婆(Jīvako)邀請佛陀和眾多比丘到他家接受供養，但是周利槃特(Cūḷapanthako)除外。周利槃特十分沮喪。佛陀明白他的心意後，就給他一塊布，要他一邊搓揉布塊，一邊複誦「去除污垢，去除污垢。」(‘rajoharaṇaṁ rajoharaṇan’ti)佛陀離開後，周利槃特努力搓揉布塊，並複誦「去除污垢」，不久，布變髒了，這時候他了解到無常。佛陀就以神通力出現在他的面前，說：「不只是布因污垢而變髒，人心也有污垢，去除污垢，才能證果。」他繼續用功，不久就證得阿羅漢果。
 
-                  PS: 請參 `025 典故 <{filename}../dhp-story/dhp-story025%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～三、愚笨的周利槃特證得聖果 (偈 025)。
+                  PS: 請參 025 典故－－ `尊者周利槃陀伽的故事 <{filename}../dhp-story/dhp-story025%zh.rst>`__ ；或《法句經故事集》，二～三、 `愚笨的周利槃特證得聖果 <{filename}../dhp-story/dhp-story-han-chap02-ciu%zh.rst#dhp-025>`__ (偈 025) 。
 
 .. [MettFn02-07] 〔明法尊者註02-07〕　舍衛城某次慶典時，一群年輕人惹事生非。佛陀說︰「諸愚者、無慧者會作騷擾事；有慧者像有價之財，護衛不放逸，圓滿證得不死的大涅槃。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～四、慶典期間幼稚的舉止 (偈 026~027)。
+                  PS: 請參《法句經故事集》，二～四、 `慶典期間幼稚的舉止 <{filename}../dhp-story/dhp-story-han-chap02-ciu%zh.rst#dhp-026>`__ (偈 026~027) 。
 
 .. [MettFn02-08] 〔明法尊者註02-08〕　有一次，大迦葉長老(Mahākassapatthera)住在畢缽離洞窟(Pipphaliguhāya)的時候，運用神通想要知道，誰有正念、誰迷糊，誰快往生了。這時候，佛陀明白大迦葉長老的作為，便告誡他：「大迦葉！你所知道的只是小境界，只有諸佛的境界才能夠知道一切眾生的生死。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～五、大迦葉尊者想知道生死輪迴的次數 (偈 028)。
+                  PS: 請參《法句經故事集》，二～五、 `大迦葉尊者想知道生死輪迴的次數 <{filename}../dhp-story/dhp-story-han-chap02-ciu%zh.rst#dhp-028>`__ (偈 028) 。
 
 .. [MettFn02-09] 〔明法尊者註02-09〕　本偈說兩位比丘的故事，一位精進，一位懈怠，精進的比丘修習警寤瑜伽(一天當中只睡中夜10pm~2am)，懈怠的比丘愛講話。精進的比丘很短的時間就證得阿羅漢果。當他們去見佛陀時，佛陀跟懈怠的比丘告誡。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～六、修行的目的 (偈 029)。
+                  PS: 請參《法句經故事集》，二～六、 `修行的目的 <{filename}../dhp-story/dhp-story-han-chap02-ciu%zh.rst#dhp-029>`__ (偈 029) 。
 
 .. [MettFn02-10] 〔明法尊者註02-10〕** 摩伽**：帝釋天王七個名字之一。帝釋天王做人時有七誓約(satta vatapadāni)︰「1.願終生孝養父母。2.願終生禮敬長輩。3.願終生語柔和。4.願終生不誹謗。5.願終生守住離慳垢；舒手施、樂捨施、有求必應、樂分配施。6.願終生說真實語。7.願終生不生氣，若生氣則速制伏。」(S.11.11.；cf.《雜阿含1105經》)。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～七、瑪伽為何往生為帝釋 (偈 030)。
+                  PS: 請參《法句經故事集》，二～七、 `瑪伽為何往生為帝釋 <{filename}../dhp-story/dhp-story-han-chap02-ciu%zh.rst#dhp-030>`__ (偈 030) 。
 
 .. [MettFn02-11] 〔明法尊者註02-11〕** 結**：煩惱的異名。
 
 .. [MettFn02-12] 〔明法尊者註02-12〕　本偈說一位比丘精進用功，卻感覺進步很少，他感到沮喪，他想要去見佛陀，請佛陀給予指引。在路上，他遇見熊熊大火，於是就跑到山上去觀察火勢。正當火勢漫延時，他領悟到，就像火燒毀一切東西，以聖道智之火也會燒掉大大小小的束縛。這時，佛陀出現在他的面前，說：「比丘！就如大火燒毀一切障礙，以智火能燒掉所有的結。」聽完偈頌之後，他透析燒掉束縛的事，不久，就證得阿羅漢果。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～八、智慧之火 (偈 031)。
+                  PS: 請參《法句經故事集》，二～八、 `智慧之火 <{filename}../dhp-story/dhp-story-han-chap02-ciu%zh.rst#dhp-031>`__ (偈 031) 。
 
 .. [MettFn02-13] 〔明法尊者註02-13〕　出生在舍衛城附近的小村莊的尼迦瑪西提舍長老(Nigamavāsitissa- tthero)，出家後過著簡單的生活，有時其他比丘會誤會他的行為，如避開大型會。佛陀則讚嘆他少欲知足，說此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～九、知足的比丘 (偈 032)。
+                  PS: 請參《法句經故事集》，二～九、 `知足的比丘 <{filename}../dhp-story/dhp-story-han-chap02-ciu%zh.rst#dhp-032>`__ (偈 032) 。
 
 .. [CFFn02-01] 〔敬法法師註02-01〕 註：由於造路等的善業，摩伽得以投生為帝釋天王。
 
 .. [CFFn02-02] 〔敬法法師註02-02〕 註釋：「**不可能會倒退**」：這樣的比丘不可能會從止觀法或道果倒退，不會從已達到之境倒退，也不會不達到未達之境。
 
-.. [NandFn02-01] 〔Nanda 校註02-01〕 第 21-23 偈頌，可參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`_ ，二～一、摩醯提利陰謀陷害珊蔓娣皇后 (偈 021~023)。
+.. [NandFn02-01] 〔Nanda 校註02-01〕 第 21-23 偈頌，可參《法句經故事集》，二～一、 `摩醯提利陰謀陷害珊蔓娣皇后 <{filename}../dhp-story/dhp-story-han-chap02-ciu%zh.rst#dhp-021>`_ (偈 021~023) 。
 
-.. [NandFn02-02] 〔Nanda 校註02-02〕 第 24 偈頌，可參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`_ ，二～二、富翁的聲音 (偈 024)。
+.. [NandFn02-02] 〔Nanda 校註02-02〕 第 24 偈頌，可參《法句經故事集》，二～二、 `富翁的聲音 <{filename}../dhp-story/dhp-story-han-chap02-ciu%zh.rst#dhp-024>`_ (偈 024) 。
 
 .. 〔《法句經》校勘與標點註02-00〕　(CBETA, T04, no. 210, p. 562, b19-c29), 標注 T04n0210_p0562b18(00) 放逸品者，引律戒情，防邪撿失，以道勸賢。本版本參照 `《法句經》校勘與標點 <http://yifert210.blogspot.tw/>`_ 之 2013年11月29日 星期五 `〈10 放逸品〉 <http://yifert210.blogspot.tw/2013/11/10.html>`_
 
@@ -36618,6 +36357,18 @@
 
 .. [TSFn02-18] 〔古漢譯註02-18〕　`《法句譬喻經》，卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__，放逸品第十，T04n0211_p0584a24(00)
 
+
+.. [dhp-a-021-note] 「不死」的意思不是說精進的人不會死亡，有生必有死，即使佛陀和阿羅漢也不例外。不死的意思是說精進的人證得涅槃，不在生死輪迴，所以不死；放逸的人不知作善行，所以生死輪迴不斷。
+
+.. [dhp-a-022-note] 「聖境」指的是三十七道品和九種殊勝。
+
+.. [dhp-a-023-note1] 此處的「禪定」包含止與觀。
+
+.. [dhp-a-023-note2] 此處的「繫縛」指四種煩惱：貪愛、生、邪見和無明。
+
+.. [dhp-a-023-note3] 「涅槃」─佛教徒的最高理想，涅槃不是一般人所誤以為的斷見或一切虛無的境界。事實上，涅槃是永恆、不死、超凡的境界，一般言語無法完全表達涅槃的真實義，其字面的意義是遠離愛欲。涅槃是今生就可以證得的出世間境界，也可 以解釋成所有愛欲止息的境界。涅槃不是一切虛無的意思，它肇因於究竟滌除愛欲而達到究竟解脫的喜悅境界。就形上學而言，涅槃指所有苦痛的止息。就心理學而言，涅槃是棄除自我觀。就道德（倫理)學而言，是三毒（貪、瞋、 癡)的滌除。
+
+.. [dhp-a-025-note1] 「沙洲」：較高的陸地，可以避免洪水的患難，智者證得阿羅漢果，就等於為自己建立較高的安全陸地，而不會陷溺於五欲、邪見、愛欲和無明之中。
 
 .. [NāradaFn02-01]  (Ven. Nārada 02-01) Appamāda, literally, means non-infatuation i.e., ever-present mindfulness, watchfulness or earnestness in doing good. The ethical essence of Buddhism may be summed up by this word - appamāda. The last words of the Buddha were - appamādena sampādetha - strive on with diligence.
 
@@ -36755,6 +36506,7 @@
                   
                   Then the Buddha said, that the king of parrots was himself in one of his previous existences and Sakka was Anuruddha, one of the Buddha's foremost disciples. He then uttered this verse (DhP 32). At the end of the discourse, Nigamavātissa became an arahant.
 
+
 .. [LChnFn03-01] 〔註03-01〕  這兩句都是形容心的。
 
 .. [LChnFn03-02] 〔註03-02〕  不漏落於貪欲。
@@ -36785,9 +36537,9 @@
 
 .. [CFFn03-04] 〔敬法法師註03-03〕 11 註：保護勝利是指保護已獲得的初階觀智，不執著是指不執著於禪那，而繼續修行觀禪直至證悟聖道果。
 
-.. [MettFn03-01] 〔明法尊者註03-01〕 Dh33-34的因緣是：彌醯長老(Meghiyatthera)當世尊的侍者時，他中意一處風景美好的地方，打算在此禪修，三次請求，世尊並不看好，但是最後還是答應他。彌醯長老在該處停留一天，但無法降服內心的煩惱。當他回到世尊的身邊時，世尊說出此偈。(參見DhA.；Ud.31)
+.. [MettFn03-01] 〔明法尊者註03-01〕 Dh33-34 的因緣是：彌醯長老(Meghiyatthera)當世尊的侍者時，他中意一處風景美好的地方，打算在此禪修，三次請求，世尊並不看好，但是最後還是答應他。彌醯長老在該處停留一天，但無法降服內心的煩惱。當他回到世尊的身邊時，世尊說出此偈。(參見DhA.；Ud.31)
 
-                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__  ，三～一、無法控制心念的彌醯 (偈 033~34)。
+                 PS: 請另參《法句經故事集》〈第三品　心品〉三～一、 `無法控制心念的彌醯 <{filename}../dhp-story/dhp-story-han-chap03-ciu%zh.rst#dhp-033-034>`__ (偈 033~34)。
 
 .. [MettFn03-02] 〔明法尊者註03-02〕 **搦** ：ㄋㄨㄛˋ按壓及調整。此字屬補綴字，並不出現於文中。  
 
@@ -36797,13 +36549,13 @@
 
 .. [MettFn03-05] 〔明法尊者註03-05〕 本偈的因緣為舍衛城的一位比丘，因要學的法很多而起煩惱，世尊因而以此偈頌教誡他。
 
-                PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__  ，三～二、能夠洞察他人內心的女士 (偈 035)。
+                PS: 請參《法句經故事集》，三～二、 `能夠洞察他人內心的女士 <{filename}../dhp-story/dhp-story-han-chap03-ciu%zh.rst#dhp-035>`__ (偈 035) 。
 
 .. [MettFn03-06] 〔明法尊者註03-06〕 **無形(體)** ：asarīra(a無+sarīra身體)。
 
 .. [MettFn03-07] 〔明法尊者註03-07〕 僧護長老(Saṅgharakkhita)的一位侄子也出家，有一天，他打起一連串的妄想︰還俗，娶妻生子，駕車，跟太太搶孩子，孩子掉下車，被車子輾過，他生氣，打老婆。結果用扇子打到僧護長老。僧護長老說︰不打太太，怎麼打舅舅？」侄子感覺不安。僧護長老帶他去見佛陀。佛陀說了偈頌。
 
-                 PS: 請參 `037 典故 <{filename}../dhp-story/dhp-story037%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__  ，三～四、心念容易飄浮不定 (偈 037)。
+                 PS: 請參 037 典故－－ `外甥僧護尊者的故事（身心的安頓） <{filename}../dhp-story/dhp-story037%zh.rst>`__ ；或《法句經故事集》，三～四、 `心念容易飄浮不定  <{filename}../dhp-story/dhp-story-han-chap03-ciu%zh.rst#dhp-037>`__ (偈 037)。
 
 .. [MettFn03-08] 〔明法尊者註03-08〕 **無漏心** (anavassuta cittassa)：無(煩惱)洩漏的心。
 
@@ -36811,29 +36563,57 @@
 
 .. [MettFn03-10] 〔明法尊者註03-10〕 本偈為世尊因質多哈達長老(Cittahatthatthera)的證阿羅漢果後而說出的偈頌。質多哈達長老曾出家六次還俗六次。有一天，他看見妻子正在睡覺，大聲打鼾，張嘴流口水。他明白身體的不淨，並且想著：「我幾次出家半途而廢，就是因為迷戀如此德行的妻子。」就再度到精舍去出家，一路上，不停的念著「無常」、「苦」，而證得初果。出家後，過了幾天，他就證得阿羅漢果。
 
-                 PS: 請參 `038~39 典故 <{filename}../dhp-story/dhp-story038-39%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__  ，三～五、心猿意馬的比丘 (偈 038~39)。
+                 PS: 請參 038~39 典故－－ `質多手尊者的故事 <{filename}../dhp-story/dhp-story038-39%zh.rst>`__ ；或《法句經故事集》，三～五、 `心猿意馬的比丘 <{filename}../dhp-story/dhp-story-han-chap03-ciu%zh.rst#dhp-038>`__ (偈 038~39) 。
 
 
 .. [MettFn03-11] 〔明法尊者註03-11〕 **守勝.莫染著** ：守護所克服的成果，而不執著，繼續修至解脫。
 
 .. [MettFn03-12] 〔明法尊者註03-12〕 五百位比丘到喜瑪拉雅山山下雨安居，受到樹神的干擾，世尊因此說《慈經》，諸比丘受到慈愛的保護，樹神不再干擾，雨安居後都證得阿羅漢果。
 
-                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__ ，三～六、騷擾比丘的神祇 (偈 040)。
+                 PS: 請參《法句經故事集》，三～六、 `騷擾比丘的神祇 <{filename}../dhp-story/dhp-story-han-chap03-ciu%zh.rst#dhp-040>`__ (偈 040) 。
 
 .. [MettFn03-13] 〔明法尊者註03-13〕 發臭的帝沙長老(Pūtigattatissatthera)身上首先長滿小疔，發膿發臭，同住者，沒人理會。佛陀預知他有證得阿羅漢果的潛能，親自去幫他燒熱水、洗滌。佛陀對他說︰「人死後，這身體無意識，將臥在地上，就像朽木一樣。」帝沙長老聞法後，就證得阿羅漢果，不久之後，也入滅了。佛陀說，帝沙長老在迦葉佛時是個殘酷的捕禽人，現在還有身體發臭的果報。最後，佛陀告誡諸比丘，出家為比丘，若不彼此照顧，誰會照顧你們？
 
                   Aciraṁ vat’ayaṁ kāyo paṭhaviṁ adhisessati chuddho apetaviññāṇo niratthaṁ va kaliṅgaraṁ.此句常為南傳佛教國家比丘為臨終者誦念的法句。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__ ，三～七、身體發臭的比丘 (偈 041)。
+                  PS: 請參《法句經故事集》，三～七、 `身體發臭的比丘 <{filename}../dhp-story/dhp-story-han-chap03-ciu%zh.rst#dhp-041>`__ (偈 041) 。
 
 .. [MettFn03-14] 〔明法尊者註03-14〕 **邪行** ：micchāpaṇihitaṁ，不正行、邪道、惡業，在此指「瞋恚」。正行則指善業。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__ ，三～八、牧牛人難屠 (偈 042)。
+                  PS: 請參《法句經故事集》，三～八、 `牧牛人難屠 <{filename}../dhp-story/dhp-story-han-chap03-ciu%zh.rst#dhp-042>`__ (偈 042) 。
 
-.. [NandFn03-01] 〔Nanda 校註03-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__  ，三～三、智者應護持自己的心念 (偈 036)。
+.. [NandFn03-01] 〔Nanda 校註03-01〕 請參《法句經故事集》，三～三、 `智者應護持自己的心念 <{filename}../dhp-story/dhp-story-han-chap03-ciu%zh.rst#dhp-036>`__ (偈 036) 。
 
-.. [NandFn03-02] 〔Nanda 校註03-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap03.pdf>`__ ，三～九、變性人 (偈 043)。
+.. [NandFn03-02] 〔Nanda 校註03-02〕 請參《法句經故事集》，三～九、 `變性人 <{filename}../dhp-story/dhp-story-han-chap03-ciu%zh.rst#dhp-043>`__ (偈 043) 。
 
+
+.. [dhp-a-037-note] Nanda 補註：〝佛陀教育基金會〞另改譯為「 `紛遝 <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`__ 」 (PDF, 直式排版，掃描影像檔 ，34.2 MB)。
+
+                    `沓 <http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QjAyMDQ0>`__ ㄊㄚˋ，大徐本：，語多沓沓也。从水，从曰。遼東有沓縣。臣鉉等曰：「語多沓沓，若水之流。故从水會意。」（徒合切）
+
+                    段注本：，語多沓沓也。从水、曰。遼東有沓縣。（徒合切）
+
+                    釋義：動詞：相合。文選．揚雄．羽獵賦：「天與地沓。」
+
+                    　　　副詞：眾多而重複。如：「雜沓」、「紛至沓來」。
+
+                    　　　名詞：量詞。計算重疊的書、紙的單位。如：「他將舊報紙一沓一沓的整理好。」里語徵實．卷上．一字徵實引避暑錄話：「晏元獻平居不棄一紙，雖封皮亦十百為沓。猶今之言一套也。書稱幾沓本此。」
+
+                    `遝 <http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QjA1MDkz>`__　ㄊㄚˋ，tà。
+
+                    釋義：見「雜遝」。
+
+                    ※雜遝：眾多而紛亂的樣子。漢書．卷三十六．楚元王劉交傳：「及至周文，開基西郊，雜遝眾賢，罔不肅和，崇推讓之風，以銷分爭之訟。」唐．杜甫．麗人行：「簫鼓哀吟感鬼神，賓從雜遝實要津。」
+
+                    果儒法師則改為：「心念無形相，到處遠遊獨行，能調服心的人，解脫魔縛。」 ( `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ )
+
+.. [dhp-a-039-note1] 阿羅漢超越善惡，所以阿羅漢的作為不落善惡範圍。這不是說阿羅漢無所事事。相反地，阿羅漢積極任事，而且一無私心，所作所為都為了引導別人走向修行的道路。一般認為阿羅漢的作為是善的。但阿羅漢的行為不會為自己創造善報。阿羅漢仍然要承受過去所做業的業報。阿羅漢不作新業，阿羅漢的所有作為稱之為「無記（kiriya）」，而不是業，所以從道德觀點而言，不會產生效應。阿羅漢如實知見，所以不落因果律。
+
+.. [dhp-a-039-note2] 此處的覺者指的是阿羅漢。阿羅漢並不是不睡覺。他們不論清醒或睡眠時，都是精進的，因為阿羅漢永遠具足正信，精進，正念，正定和慧等五種德行。
+
+.. [dhp-a-042-note] 指十種惡業：殺生、偷盜、邪淫、妄語、兩舌、惡口、綺語、慳貪、瞋恚和邪見。
+
+.. [dhp-a-043-note] 指十善念：布施，持戒，修禪定，恭敬，作事，回向功德，隨喜功德，聽法，說法，正直見。
 
 
 .. [NāradaFn03-01]  (Ven. Nārada 03-01) Citta is derived from the root cit, to think. The traditional interpretation of the term is "that which is aware of an object" (cinteti = vijānāti). Actually it is not that which thinks of an object as the term implies. If it could be said "it thinks" as one says in English "it rains", it would be more in consonance with the Buddha's teaching. From an ultimate standpoint citta may be defined as the awareness of an object, since Buddhism denies a subjective agent like a soul. According to Buddhism no distinction is made between mind and consciousness, terms which are used as equivalents for citta.
@@ -36950,6 +36730,7 @@
                   
                   Others thought he does not speak the truth, so they asked the Buddha about it. But he told them that Soreyya does not lie. Now he is an arahant, his well directed mind brought him a well being which neither the father nor the mother could bestow on him.
 
+
 .. [LChnFn04-01] 〔註04-01〕  吳譯花香品。
 
 .. [LChnFn04-02] 〔註04-02〕  「征服」（Vijessati）據巴利原註為「如實了解」。緬甸本作 Vicessati，則應譯為「擇覓」或「探究」。「地界」（Pathavi）為自己或自身（Attabhava）。錫蘭 Narada 所譯的 Dhammapada 第八頁英文原註3：
@@ -37014,38 +36795,38 @@
 
 .. [MettFn04-06] 〔明法尊者註04-06〕 sekho dhammapadaṁ sudesitaṁ, kusalo puppham iva pacessati.(有學說法句，有如花匠編製花圈)。亦即「有學」(證得須陀洹道至阿羅漢道)已知法、見法，所以說法自然巧妙。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap04.pdf>`__  ，四～一、觀身 (偈 044~045)。
+                  PS: 請參《法句經故事集》，四～一、 `觀身 <{filename}../dhp-story/dhp-story-han-chap04-ciu%zh.rst#dhp-044>`__ (偈 044~045) 。
 
 
 .. [MettFn04-07] 〔明法尊者註04-07〕 **魔羅花箭** ：指欲望的誘惑。
 
 .. [MettFn04-08] 〔明法尊者註04-08〕 本偈說一位比丘精進用功，卻感覺進步很少，他不滿意，他想要去見佛陀，請佛陀換個禪法。在路上，他見到海市蜃樓，他明白那是水的幻影而已，也反省到身體也是生老病死的幻像。這時，佛陀放光跟他說：「比丘！照這樣繼續用功，身體如泡沫、幻影，它的自性是出生及分離。」聽完偈頌之後，他正念現前，不久，就證得阿羅漢果。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap04.pdf>`__  ，四～二、觀身如鏡的比丘 (偈 046)。
+                  PS: 請參《法句經故事集》，四～二、 `觀身如鏡的比丘 <{filename}../dhp-story/dhp-story-han-chap04-ciu%zh.rst#dhp-046>`__ (偈 046) 。
 
-.. [MettFn04-09] 〔明法尊者註04-09〕 **如瀑流睡村** ：熟睡的村人為瀑流沖走而不知。此偈故事為憍薩彌羅國波斯匿王請求與釋迦族的一位公主結婚。傲慢的釋迦族王子們卻送給他一位摩訶男與一婢女所生的美麗的女孩。後來，這女孩末利夫人(Mallikā)生下一位琉璃王子(Viṭaṭūbha)。王子十六歲時，被派去拜訪外祖父摩訶男和釋迦族的王子們。偶然琉璃王子知道他為婢女所生的真相後，極端憤怒，發誓要滅釋迦族。後來他當了國王，發兵殲滅釋迦族。他和軍隊在返國的途中駐紮在阿致羅筏底河(Aciravatī)床。當晚，河水暴漲把他和軍隊一齊衝入大海。
+.. [MettFn04-09] 〔明法尊者註04-09〕 **如瀑流睡村** ：熟睡的村人為瀑流沖走而不知。此偈故事為憍薩彌羅國波斯匿王請求與釋迦族的一位公主結婚。傲慢的釋迦族王子們卻送給他一位摩訶男與一婢女所生的美麗的女孩。後來，這女孩末利夫人(Mallikā)生下一位琉璃王子(Viṭaṭūbha)。王子十六歲時，被派去拜訪外祖父摩訶男和釋迦族的王子們。偶然琉璃王子知道他為婢女所生的真相後，極端憤怒，發誓要滅釋迦族。後來他當了國王，發兵殲滅釋迦族。他和軍隊在返國的途中駐紮在阿致羅筏底河 (Aciravatī) 河床。當晚，河水暴漲把他和軍隊一齊衝入大海。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap04.pdf>`__  ，四～三、琉璃王報復釋迦族 (偈 047)。
+                  PS: 請參《法句經故事集》，四～三、 `琉璃王報復釋迦族 <{filename}../dhp-story/dhp-story-han-chap04-ciu%zh.rst#dhp-047>`__ (偈 047) 。
 
 .. [MettFn04-10] 〔明法尊者註04-10〕 **牟尼** ：munī，修行者、聖者之意。
 
-                  PS: 請參 `049 典故 <{filename}../dhp-story/dhp-story049%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap04.pdf>`__  ，四～五、吝嗇的富翁 (偈 049)。
+                  PS: 請參 049 典故－－ `過希耶優婆塞的故事 <{filename}../dhp-story/dhp-story049%zh.rst>`__ ；或《法句經故事集》，四～五、 `吝嗇的富翁 <{filename}../dhp-story/dhp-story-han-chap04-ciu%zh.rst#dhp-049>`__ (偈 049) 。
 
 .. [MettFn04-11] 〔明法尊者註04-11〕 **過** ：vilomāni，拂逆的。
 
 .. [MettFn04-12] 〔明法尊者註04-12〕 舍衛城裡有位富有的女士，是邪命者巴未亞(Pāveyya)的供養者。她也想去聽佛陀開示，但幾次都被巴未亞阻止。就要兒子去請佛陀到家裡來接受供養，佛陀宣說隨喜。她聽到佛陀用悅耳的聲音說法時，說：「善哉！善哉！」隔壁的巴未亞聽到她喜悅的叫聲時，他憤怒地出走，一路跟她和佛陀咀咒。佛陀勸誡她不要理睬，應該正念現前地觀照自己的善惡行為。聽完佛陀說法後，她證得初果。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap04.pdf>`__  ，四～六、不要理睬他人的咀咒 (偈 050)。
+                  PS: 請參《法句經故事集》，四～六、 `不要理睬他人的咀咒 <{filename}../dhp-story/dhp-story-han-chap04-ciu%zh.rst#dhp-050>`__ (偈 050) 。
 
 .. [MettFn04-13] 〔明法尊者註04-13〕 **如是說善語，彼不行無果** ︰會說善語，但若不依照所說的去實踐，則不會有好結果。
 
 .. [MettFn04-14] 〔明法尊者註04-14〕 51-52偈為世尊派阿難尊者到王宮跟末利夫人(Mallikā)與禹翅剎利夫人(Vāsabhakhattiyā)說法，末利夫人態度認真，但是禹翅剎利夫人不認真。世尊知道之後，因而說了此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap04.pdf>`__  ，四～七、應該禮敬誰 (偈 051~052)。
+                  PS: 請參《法句經故事集》，四～七、 `應該禮敬誰 <{filename}../dhp-story/dhp-story-han-chap04-ciu%zh.rst#dhp-051>`__ (偈 051~052) 。
 
 .. [MettFn04-15] 〔明法尊者註04-15〕 本偈為世尊讚美毘舍佉優婆夷(Visākhā upāsikā)強烈做善事的話。
                   
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap04.pdf>`__  ，四～八、最虔誠的女信徒 (偈 053)。
+                  PS: 請參《法句經故事集》，四～八、 `最虔誠的女信徒 <{filename}../dhp-story/dhp-story-han-chap04-ciu%zh.rst#dhp-053>`__ (偈 053) 。
 
 .. [MettFn04-16] 〔明法尊者註04-16〕 **栴檀、多伽羅(沉香)** ：candanaṁ tagara皆是木香之名。 **末利迦** ：mallikā，茉莉花(mallikā=vassikā(夏生花)，Arabian jasmine，芳香的白色小的香花)。
 
@@ -37053,11 +36834,11 @@
 
 .. [MettFn04-18] 〔明法尊者註04-18〕 阿難尊者問佛陀有沒有順風香，逆風也香的東西，佛陀說偈。(DhpA.vv. 54-55., A.3.79.Gandha香, 《別譯雜阿含12經》,《增壹阿含23.5經》, No.116.《佛說戒德香經》, No.117.《佛說戒香經》,《本事經》卷六(T17.693))
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap04.pdf>`__  ，四～九、阿難尊者的疑問 (偈 054~055)。
+                  PS: 請參《法句經故事集》，四～九、 `阿難尊者的疑問 <{filename}../dhp-story/dhp-story-han-chap04-ciu%zh.rst#dhp-054>`__ (偈 054~055) 。
 
 .. [MettFn04-19] 〔明法尊者註04-19〕 大迦葉尊者到貧民區去托缽，帝釋天王夫婦就喬裝窮人家，供養他。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap04.pdf>`__  ，四～十、帝釋供養大迦葉尊者 (偈 056)。
+                  PS: 請參《法句經故事集》，四～十、 `帝釋供養大迦葉尊者 <{filename}../dhp-story/dhp-story-han-chap04-ciu%zh.rst#dhp-056>`__ (偈 056) 。
 
 .. [MettFn04-20] 〔明法尊者註04-20〕 **魔不知所趣** ：解脫的阿羅漢不會再生，魔王找不到他死後去處。
 
@@ -37065,7 +36846,20 @@
    
                   《別譯雜阿含30經》，《出曜經》(T4.no.212.p.647.2)，《增壹阿含26.10經》(T2.642.2)，cf. DhpA.I,431 (Godhikattheraparinibbānavatthu)，cf. Dhp.v.57.，cf. Sn.v.449.， S.22.87./III,119.，Sk(E): Enomoto 1994, no.1091 (Uv 33.59c)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap04.pdf>`__  ，四～十一、自殺時證得聖果 (偈 057)。
+                  PS: 請參《法句經故事集》，四～十一、 `自殺時證得聖果 <{filename}../dhp-story/dhp-story-han-chap04-ciu%zh.rst#dhp-057>`__ (偈 057) 。
+
+.. [dhp-a-044-note] 學地比丘：已證初果，但尚未證得阿羅漢果的比丘。
+
+.. [dhp-a-049-note] 註釋家對本法句的解釋略有不同：
+
+   | 達摩難陀上座認為這句法句的意思是說：智者不傷害村民的信仰、慷慨和財富；
+   | Narada 上座則認為是：不造成任何人的不方便；
+   | Sri Acharya Buddharakkhita 尊者則說：智者入村落化緣時，也提供世人做功德的機會；
+   | 了參法師在《南傳法句經》的翻譯則未加任何註解。
+
+.. [dhp-a-053-note] 本法句的意思是說，人可以出於正信和慷慨的財施來完成很多善業。
+
+.. [dhp-a-058-note] 佛法不譴責任何人。因為即使看來最差勁的人，也只表示他（她）的崇高德性暫時隱伏不現而已，一如蓮花生長在污泥中。
 
 .. [NāradaFn04-01]  (Ven. Nārada 04-01) Vijessati = attano ñāṇena vijānissati - who will know by one's own wisdom? (Commentary).
 
@@ -37241,6 +37035,11 @@
                   
                   Just as a lotus can grow in a dirty place, but does not become stained by it, so a true disciple of the Buddha lives in this world, but is not dirtied by it in any way.
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+校註：
+------
+
 .. [NandFn04-01] 〔校註04-001〕 法雨道場( 明法 法師)出版之修訂版，建議改譯"已作與未作"
                      
                      說明：未必需要，仁智互見也。
@@ -37250,11 +37049,12 @@
 .. [NandFn04-02] | 〔校註04-002〕 似錦年華，恣意攀折；五陰熾盛，貪樂無饜。
                  | 　　　　　　　 當此之時，死魔驟臨，彼人(不覺)，終為魔勝。
                  |    
-                 |    說明：參閱《原始佛典選譯》(顧法嚴)(慧炬)p.141。
+                 |    說明：參閱《原始佛典選譯》，顧法嚴 譯，慧炬 出版， p.141。
 
-.. [NandFn04-03] 〔Nanda 校註04-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap04.pdf>`__  ，四～四、往生忉利天的女信徒 (偈 048)。
+.. [NandFn04-03] 〔Nanda 校註04-03〕 請參《法句經故事集》，四～四、 `往生忉利天的女信徒 <{filename}../dhp-story/dhp-story-han-chap04-ciu%zh.rst#dhp-048>`__ (偈 048) 。
 
-.. [NandFn04-04] 〔Nanda 校註04-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap04.pdf>`__  ，四～十二、供養智者，測試其智慧 (偈 058~59)。
+.. [NandFn04-04] 〔Nanda 校註04-04〕 請參《法句經故事集》，四～十二、 `供養智者，測試其智慧 <{filename}../dhp-story/dhp-story-han-chap04-ciu%zh.rst#dhp->`__ (偈 058~59) 。
+
 
 .. [LChnFn05-01] 〔註05-01〕  「由旬」(Yojana) 路程距離的單位。
 
@@ -37283,61 +37083,61 @@
 
 .. [MettFn05-02] 〔明法尊者註05-02〕 本偈為波斯匿王向世尊說的偈頌。波斯匿王因迷戀一位有夫之婦，想出設計殺其夫，而橫刀奪愛之計，當晚因聽到奇怪的聲音而難以入眠。波斯匿王請問世尊，世尊說，這是四位在世時犯邪淫的人，正在地獄受苦的聲音。波斯匿王有所醒寤，不再迷戀他妻。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap05.pdf>`__  ，五～一、波斯匿王迷戀他人妻子 (偈 060)。
+                  PS: 請參《法句經故事集》，五～一、 `波斯匿王迷戀他人妻子 <{filename}../dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-060>`__ (偈 060) 。
 
 .. [MettFn05-03] 〔明法尊者註05-05〕 大迦葉長老住在王舍城時，有兩位年輕沙彌跟他修習。其中一位恭敬、服從又盡責。另一位則否。告誡他時，他反而生氣。某日，大迦葉尊者外出時，這位頑強、愚蠢的沙彌留在精舍，打破所有的鍋子，並且放火燒精舍。佛陀告誡大迦葉長老寧可獨居，也不要跟愚人共處。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap05.pdf>`__  ，五～二、頑強不馴的年輕沙彌 (偈 061)。
+                  PS: 請參《法句經故事集》，五～二、 `頑強不馴的年輕沙彌 <{filename}../dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-061>`__ (偈 061) 。
 
 .. [MettFn05-04] 〔明法尊者註05-04〕 阿難達(Ānandaseṭṭhi)是舍衛城中富有但吝嗇的人。他甚至在屋裡埋五甕金幣，但直到他去世，也沒有告訴兒子。死後往生到離舍衛城不遠的乞丐村，長大當乞丐，他曾到前世的家乞討，孫子輩看到他很醜，就叫僕人把他趕走。佛陀就叫阿難尊者去請他前世的兒子前來一談。佛陀告訴他，這乞丐是他前世的父親，但他不相信，佛陀就叫乞丐去挖出那五甕金幣，他才相信。
 
                   本句白話：「『我的孩子，我的財產』，愚人常(為此)焦慮(vihaññati)。其實「我」無有我，哪裡有子，哪裡有財產？」
 
-                  PS: 請參 `062 典故 <{filename}../dhp-story/dhp-story062%zh.rst>`__ ；或  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap05.pdf>`__  ，五～三、吝嗇富翁的命運 (偈 062)。
+                  PS: 請參 062 典故－－ `吝嗇富翁的命運 <{filename}../dhp-story/dhp-story062%zh.rst>`__ ；或《法句經故事集》，五～三、 `吝嗇富翁的命運 <{filename}../dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-062>`__ (偈 062) 。
 
 .. [MettFn05-05] 〔明法尊者註05-05〕 兩位小偷與一群信徒，到給孤獨園聽聞佛陀說法。其中一位馬上就了悟佛法。另一位卻不用心，到處偷錢。不偷錢的小偷，後來來向佛陀報告。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap05.pdf>`__  ，五～四、如何分辨愚癡的人 (偈 063)。
+                  PS: 請參《法句經故事集》，五～四、 `如何分辨愚癡的人 <{filename}../dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-063>`__ (偈 063) 。
 
 .. [MettFn05-06] 〔明法尊者註05-06〕 **達摩** (dhamma)：法、真理。
 
 .. [MettFn05-07] 〔明法尊者註05-07〕 優陀夷長老(Udāyitthera)與世尊共住，喜歡坐在講台上，某日一群客比丘以為他會說法，請教他，但是他不知回答(五)蘊、(六)界、(六)處的問題。
 
-                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap05.pdf>`__  ，五～五、不能領悟佛法的癡人 (偈 064)。
+                 PS: 請參《法句經故事集》，五～五、 `不能領悟佛法的癡人 <{filename}../dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-064>`__ (偈 064) 。
 
 .. [MettFn05-08] 〔明法尊者註05-08〕 有一天，波婆城來的一夥約三十位比丘(tiṁsamatte Pāveyyake)曾在劫貝樹林聽過佛陀說法。他們出家後修十三頭陀行，後來當聽聞佛陀講解《無始相應經》(Anamataggadhammadesanaṁ)時，全都證得阿羅漢果。當其他比丘問這些比丘怎麼這麼快就證得阿羅漢果，佛陀說出此偈。
 
-                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap05.pdf>`__  ，五～六、智者領悟佛法 (偈 065)。
+                 PS: 請參《法句經故事集》，五～六、 `智者領悟佛法 <{filename}../dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-065>`__ (偈 065) 。
 
 .. [MettFn05-09] 〔明法尊者註05-09〕 **異熟** (vipāka)：果報(造善.惡因所得的善.惡果)。
 
 .. [MettFn05-10] 〔明法尊者註05-10〕 有一天，在路上佛陀看著裝滿錢的袋子(贓物)向阿難說：「阿難！看！那是毒蛇。」「大德！我看到劇毒(的蛇)。」附近的農夫聽到就去看看，結果發現一袋錢，把它藏起來。後來農夫被抓，判死刑。受刑前農夫一直唸著：「阿難！看！那是毒蛇。大德！我看到劇毒(的蛇)。」行刑的人十分困惑，就把農夫押回，國王請佛陀作證之後，才免死。佛陀說：「智者不做會令人後悔的事。」(cf.大正No.201.《大莊嚴論經》(34)T4.289.3；大正No.208.《眾經撰雜譬喻》(6)T4.533.2-3；大正No.1435.《十誦律》卷第十五,T23.107-8)
 
-                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap05.pdf>`__  ，五～八、佛陀拯救無知的農人 (偈 067)。
+                 PS: 請參《法句經故事集》，五～八、 `佛陀拯救無知的農人 <{filename}../dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-067>`__ (偈 067) 。
 
 .. [MettFn05-11] 〔明法尊者註05-11〕 一花匠每天都要供應頻婆沙羅王茉莉花，某日他當街見到佛陀，不計後果地把花獻給佛陀，後來頻婆沙羅王知道了，贊美他的虔誠與勇氣。
 
-                PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap05.pdf>`__  ，五～九、信仰堅定的插花匠 (偈 068)。
+                PS: 請參《法句經故事集》，五～九、 `信仰堅定的插花匠 <{filename}../dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-068>`__ (偈 068) 。
 
 .. [MettFn05-12] 〔明法尊者註05-12〕 本偈為世尊在蓮華色比丘尼被強暴之後說的偈頌。蓮華色比丘尼為舍衛城富家女，她出家後，有一天她點火，觀火遍，就證得阿羅漢。她獨居於森林，有一天被強暴，但不受樂，因而不犯戒。世尊向波斯匿王說比丘尼住森林有危險。於是波斯匿王在城內為比丘尼蓋精舍。
 
-               PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap05.pdf>`__  ，五～十、強暴比丘尼的年輕男子 (偈 069)。
+               PS: 請參《法句經故事集》，五～十、 `強暴比丘尼的年輕男子 <{filename}../dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-069>`__ (偈 069) 。
 
 .. [MettFn05-13] 〔明法尊者註05-13〕 孤沙草：Kusa，香茅草或吉祥草，台語「茅草菰hm5chau2koo1」。以孤沙草的尖端取少少食。
 
-               PS: 請參 `070 典故 <{filename}../dhp-story/dhp-story070%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap05.pdf>`__  ，五～十一、欺騙他人的苦行者 (偈 070)。
+               PS: 請參 070 典故－－ `氈布迦尊者的故事 <{filename}../dhp-story/dhp-story070%zh.rst>`__ ；或《法句經故事集》，五～十一、 `欺騙他人的苦行者 <{filename}../dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-070>`__ (偈 070) 。
 
 .. [MettFn05-14] 〔明法尊者註05-14〕 本偈說大目犍連見到人面蛇身的故事。那餓鬼曾是殺死壞人的果報。
 
-               PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap05.pdf>`__  ，五～十二、人面蛇身的餓鬼 (偈 071)。
+               PS: 請參《法句經故事集》，五～十二、 `人面蛇身的餓鬼 <{filename}../dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-071>`__ (偈 071) 。
 
 .. [MettFn05-15] 〔明法尊者註05-15〕 **頭首** ：muddham(頭)，指智慧。DhA：Muddhanti paññāyetaṁ nāmaṁ.(頭：此名為「慧」。)
 
-               PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap05.pdf>`__  ，五～十三、謹言慎行 (偈 072)。
+               PS: 請參《法句經故事集》，五～十三、 `謹言慎行 <{filename}../dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-072>`__ (偈 072) 。
 
 .. [MettFn05-16] 〔明法尊者註05-16〕 質多(Citto)居士有一次遇見摩訶男長老(Mahānāmatthera)，供養他，聽他說法，聽完之後，他就證得須陀洹果。後來，他在他的芒果園裡興建了一座精舍，給比丘住宿，而殊達瑪長老(Sudhammatthera)則是常住比丘。有一天，舍利弗尊者與大目犍連尊者到精舍來。質多居士在聽完舍利弗的說法後，即證得三果。質多居士就邀請他們兩人於隔天到家中供養，也邀請殊達瑪質多，但是由於他嫉妒而拒絕。佛陀知道後，說出此偈。
 
-               PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap05.pdf>`__  ，五～十四、信徒與固執的比丘 (偈 073~074)。
+               PS: 請參《法句經故事集》，五～十四、 `信徒與固執的比丘 <{filename}../dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-073>`__ (偈 073~074) 。
 
 .. [MettFn05-17] 〔明法尊者註05-16〕 **一道向涅槃** ︰一條道路導向世俗的利益，另一條道路向涅槃、解脫。
 
@@ -37345,7 +37145,21 @@
 
 .. [MettFn05-19] 〔明法尊者註05-18〕 林住者帝沙長老(Vanavāsikatissatthera)七歲當沙彌，三個月就證得阿羅漢果。
 
-               PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap05.pdf>`__  ，五～十五、贏得眾人敬仰的沙彌 (偈 075)。
+               PS: 請參《法句經故事集》，五～十五、 `贏得眾人敬仰的沙彌 <{filename}../dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-075>`__ (偈 075) 。
+
+.. [dhp-a-061-note] 智者出於慈悲心，希望改善愚人的情況時，可以與愚癡的人來往，但不可反而受其污染。
+
+.. [dhp-a-062-note] **譯註：** 了參法師的《南傳法句經》 Marada Thera 及 Venerable Sri Acharya Buddharakkhita 的譯本皆作：「愚人如是擔憂」。
+
+.. [dhp-a-070-note] 佛陀在世時的印度，經常用這種方法來比較不同事物之間的價值差別。
+
+.. [dhp-a-070-note2] Nanda 補註：孤沙草尖： the tip of a *kusa* grass blade; 〝佛陀教育基金會〞改為： `愚癡的人雖然常年只吃孤沙草尖般的少許食物，但所得的善業仍不及明瞭正法的人16分之1 <http://www.budaedu.org/story/dp070.php>`__ 。
+
+.. [dhp-a-075-note] 出離有三層意義：
+
+                    | 1. 出離群眾; 
+                    | 2. 心靈上遠離貪愛; 
+                    | 3. 遠離緣起法，趣向涅槃。
 
 .. [NāradaFn05-01]  (Ven. Nārada 05-01) Lit., wandering again and again. It is the ocean of life or existence. Saṃsāra is defined as the unbroken flow of the stream of aggregates, elements, and sense-faculties. Saṃsāra is also explained as the "continued flow of the stream of being from life to life, from existence to existence".
 
@@ -37487,11 +37301,17 @@
                   
                   Then the Buddha came to the village and told the villagers how lucky they were. If it was not for Tissa, would they all, the Buddha and so many senior monks, come to the village? The villagers realized their luck and did not think about the past any more.
                   
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+校註：
+------
+
 .. [NandFn05-01] 〔校註05-001〕 定受眾苦果
 
                      說明：參考法雨道場( 明法 法師)出版之修訂版，如此或許語意較清晰。
 
-.. [NandFn05-02] 〔Nanda 校註05-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap05.pdf>`__  ，五～七、堅信三寶的痲瘋患者 (偈 066)。
+.. [NandFn05-02] 〔Nanda 校註05-02〕 請參《法句經故事集》，五～七、 `堅信三寶的痲瘋患者 <{filename}../dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-066>`__ (偈 066) 。
+
 
 .. [LChnFn06-01] 〔註06-01〕  日文譯作「賢品」。 
 
@@ -37525,31 +37345,31 @@
 
 .. [MettFn06-01] 〔明法尊者註06-01〕 一位老婆羅門羅陀(Rādha)出家後，很守規矩，很快就證得阿羅漢果。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～一、證得阿羅漢果的可憐人 (偈 076)。
+                  PS: 請參《法句經故事集》，六～一、 `證得阿羅漢果的可憐人 <{filename}../dhp-story/dhp-story-han-chap06-ciu%zh.rst#dhp-076>`__ (偈 076) 。
 
 .. [MettFn06-02] 〔明法尊者註06-02〕 善人敬愛能訓誡與教示的人，惡人則憎惡此人。比丘阿濕具、富那婆修 (Assaji-Punabbasukabhikkhū) 及弟子住在迦羅賴精舍 (Kīṭāgiri)時，為了私利，種果樹，也犯一些小戒，使精舍吵鬧不停，妨礙其他比丘的修持。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～二、不守戒律的比丘 (偈 077)。
+                  PS: 請參《法句經故事集》，六～二、 `不守戒律的比丘 <{filename}../dhp-story/dhp-story-han-chap06-ciu%zh.rst#dhp-077>`__ (偈 077) 。
 
 .. [MettFn06-03] 〔明法尊者註06-03〕 **高尚士** ：purisuttama，最勝人、上人、聖人。本偈為世尊勸導車匿長老的話。車匿長老是傲慢的釋迦族人，他在世尊滅度後才證到阿羅漢果。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～三、頑倔不馴的車匿 (偈 078)。
+                  PS: 請參《法句經故事集》，六～三、 `頑倔不馴的車匿 <{filename}../dhp-story/dhp-story-han-chap06-ciu%zh.rst#dhp-078>`__ (偈 078) 。
 
 .. [MettFn06-04] 〔明法尊者註06-04〕 **安樂** ：臥樂。DhA： **Sukhaṁ setī**\ ti desanāmattamevetaṁ, catūhipi iriyāpathehi  sukhaṁ viharatīti attho. ( **臥樂** ：這是已沈浸在教說，他以四威儀(行住坐臥)的狀態住樂之義。)
 
 .. [MettFn06-05] 〔明法尊者註06-05〕 摩訶劫賓那 (Mahākappinatthera) 曾當國王，第一次聞佛說法，就證得阿羅 漢果，出家為比丘。之後，不分晝夜，常自言自語︰“aho sukhaṁ aho sukhan”ti (快樂得不得了！快樂得不得了！) 諸比丘誤以為他想起以前當王的快樂時光，而向佛陀報告，佛陀說出此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～四、國王和大臣們證得聖果 (偈 079)。
+                  PS: 請參《法句經故事集》，六～四、 `國王和大臣們證得聖果 <{filename}../dhp-story/dhp-story-han-chap06-ciu%zh.rst#dhp-079>`__ (偈 079) 。
 
 .. [MettFn06-06] 〔明法尊者註06-06〕 **智者自調御** ：attānaṁ damayanti paṇḍitā，各類匠師擅長他們各自的工作，而有智慧的人善於自我調伏。此偈為班迪達沙彌(Paṇḍitasāmaṇera)的故事，他思惟︰如果無心的水可以任人引至任何地方；無心且彎曲的竹子可以撫直；無心的木材也可以做成有用的東西。那麼，擁有心識的我，為什麼無法控制我的內心，修行清淨止觀呢？而在第八天證得阿羅漢果。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～五、年輕沙彌的修行成就 (偈 080)。
+                  PS: 請參《法句經故事集》，六～五、 `年輕沙彌的修行成就 <{filename}../dhp-story/dhp-story-han-chap06-ciu%zh.rst#dhp-080>`__ (偈 080) 。
 
 .. [MettFn06-07] 〔明法尊者註06-07〕 善人離諸欲：Sabbattha ve sappurisā cajanti，真善人在一切處放出(欲)。DhA： **sabbatthā**\ ti  pañcakkhandhādibhedesu sabbadhammesu.( **在一切處** ：在五蘊等的諸項目、在一切的諸法。) 放出︰DhA： **Cajantī**\ ti arahattamaggañāṇena  apakaḍḍhantā chandarāgaṁ vijahanti.( **放出** ：諸正在牽引離開者，以阿羅漢道智，捨離意願的染。)
 
 .. [MettFn06-08] 〔明法尊者註06-08〕 佛陀受某婆羅門的邀請，到鞞蘭若(Verañja)雨安居，但是那位婆羅門後來就忘光了，那一次雨安居，佛陀及諸比丘每天只吃少許的馬麥維生。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～八、智者不為得失所動 (偈 083)。
+                  PS: 請參《法句經故事集》，六～八、 `智者不為得失所動 <{filename}../dhp-story/dhp-story-han-chap06-ciu%zh.rst#dhp-083>`__ (偈 083) 。
 
 .. [MettFn06-09] 〔明法尊者註06-09〕 **彼岸** ：涅槃。 **此岸** ：生死。DhA： **Pāragāmino**\ ti  nibbānapāragāmino. ( **到彼岸** ：去到涅槃的彼岸。)
 
@@ -37566,6 +37386,8 @@
 .. [MettFn06-15] 〔明法尊者註06-15〕 覺支：sambodhiyaṅga，指七覺支，一、念覺支，念念明白。二、擇法覺支，分別善惡，棄絕貪染之法，選擇趨解脫之法。三、精進覺支，一心於一境而努力不懈修善.斷惡，求解脫。四、喜覺支，得正法或禪定而喜悅。五、輕安覺支，指身.心輕快、安穩，不沉重。六、定覺支，得禪定，心不散亂。七、捨覺支，心無偏頗，不執著而保持平衡、中立。
 
 .. [MettFn06-16] 〔明法尊者註06-16〕 漏盡：khīṇāsavā，滅盡諸漏(貪.瞋.癡的煩惱)。
+
+.. [dhp-a-087-note] 「黑法」：即十種惡業，請參考 `三～八的註 <{filename}../dhp-story/dhp-story-han-chap03-ciu%zh.rst#dhp-a-042-note>`__ 。
 
 .. [NāradaFn06-01] (Ven. Nārada 06-01) Ariya, which means "one who is far removed from passions", was originally a racial term. In Buddhism it indicates nobility of character, and is invariably applied to the Buddhas and the Arahants.
 
@@ -37595,15 +37417,19 @@
 
 .. [ThaniSFn-V89] (Ven. Thanissaro V. 89) Factors for self-awakening = mindfulness, analysis of qualities, persistence, rapture, serenity, concentration, and equanimity.
 
-.. [NandFn06-01] 〔Nanda 校註06-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～六、固若磐石 (偈 081)。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. [NandFn06-02] 〔Nanda 校註06-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～七、辱罵比丘的女人 (偈 082)。
+**校註：**
 
-.. [NandFn06-03] 〔Nanda 校註06-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～九、解脫要靠自己 (偈 084)。
+.. [NandFn06-01] 〔Nanda 校註06-01〕 請參《法句經故事集》，六～六、 `固若磐石 <{filename}../dhp-story/dhp-story-han-chap06-ciu%zh.rst#dhp-081>`__ (偈 081) 。
 
-.. [NandFn06-04] 〔Nanda 校註06-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～十、只有少數人證得涅槃 (偈 085~086)。
+.. [NandFn06-02] 〔Nanda 校註06-02〕 請參《法句經故事集》，六～七、 `辱罵比丘的女人 <{filename}../dhp-story/dhp-story-han-chap06-ciu%zh.rst#dhp-082>`__ (偈 082) 。
 
-.. [NandFn06-05] 〔Nanda 校註06-05〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ，六～十一、從黑暗趣向光明 (偈 087~089)。
+.. [NandFn06-03] 〔Nanda 校註06-03〕 請參《法句經故事集》，六～九、 `解脫要靠自己 <{filename}../dhp-story/dhp-story-han-chap06-ciu%zh.rst#dhp-084>`__ (偈 084) 。
+
+.. [NandFn06-04] 〔Nanda 校註06-04〕 請參《法句經故事集》，六～十、 `只有少數人證得涅槃 <{filename}../dhp-story/dhp-story-han-chap06-ciu%zh.rst#dhp-085>`__ (偈 085~086) 。
+
+.. [NandFn06-05] 〔Nanda 校註06-05〕 請參《法句經故事集》，六～十一、 `從黑暗趣向光明 <{filename}../dhp-story/dhp-story-han-chap06-ciu%zh.rst#dhp-087>`__ (偈 087~089) 。
 
 .. [DLMBSFn-V076] (DLMBS Commentary V076) A poor old man named Rādha was staying in the monastery doing manual work, like sweeping, cutting the grass etc. He wanted to become a monk, but the elders were not willing to admit him. 
 
@@ -37690,6 +37516,7 @@
                   
                   In order to reach the awakenment, one must fully develop the "constituents of awakenment". They are seven: mindfulness (**sati**), investigation of the Dharma (**dhammavicaya**), energy (**viriya**), joy (**piti**), tranquility (**passadhi**), concentration (**samadhi**) and equanimity (**upekkha**). We also must not cling to anything and take delight in renouncing all the attachments. Most importantly, we must "remove the taints". Traditionally, these four taints (**asava**) are mentioned in the texts: sense desire (**kama**), desiring eternal existence (**bhava**), wrong views (**ditthi**) and ignorance (**avijja**). If we remove these taints, we will "shine" with wisdom and be truly completely emancipated from the suffering.
 
+
 .. [LChnFn07-01] 〔註07-01〕  「阿羅漢」（Arahant）是斷盡一切煩惱，證得涅槃，不會再有生死的聖人。
 
 .. [LChnFn07-02] 〔註07-02〕  有為的路業已行盡，即所謂：「諸漏已盡，所作已辦，梵行已立」。
@@ -37728,7 +37555,7 @@
 
 .. [MettFn07-03] 〔明法尊者註07-03〕 佛陀受提婆達多推落的石片傷到腳姆指，耆婆神醫幫忙治療。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～一、佛陀和名醫耆域 (偈 090)。
+                  PS: 請參《法句經故事集》，七～一、 `佛陀和名醫耆域 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-090>`__ (偈 090)。
 
 .. [MettFn07-04] 〔明法尊者註07-04〕 **彼等無積聚** ：DhA： **完全儲存(積聚)** ：有兩種：一、完全儲存業。二、完全儲存資具。對善業、不善業而言，名叫完全儲存業；四資具名叫完全儲存資具。
 
@@ -37736,13 +37563,13 @@
 
 .. [MettFn07-06] 〔明法尊者註07-06〕 有一次，在雨安居結束日。帝釋率領眾天神前往東園(鹿母講堂)，帝釋以天香與天花鬘獻給佛陀，他看到僧團保留給摩訶迦旃延長老的位子，心裡多麼希望尊者也在精舍裡接受他的禮敬。這時候，摩訶迦旃延長老突然出現，帝釋非常歡喜，立刻以雙手按摩雙足頂禮。有些比丘不以為然，認為帝釋偏心。佛陀就說此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～五、帝釋敬重摩訶迦旃延尊者 (偈 094)。
+                  PS: 請參《法句經故事集》，七～五、 `帝釋敬重摩訶迦旃延尊者 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-094>`__ (偈 094) 。
 
 .. [MettFn07-07] 〔明法尊者註07-07〕 **因陀揭羅** ：indrakhīla，門限，或是進城處安立堅固的柱子，象徵因陀羅(守護神)的所在。
 
 .. [MettFn07-08] 〔明法尊者註07-08〕 雨安居結束時，舍利弗長老正準備外出。有位比丘憤慨的向世尊告狀，說舍利弗尊者輕慢他。佛陀就請人召請舍利弗長老來，舍利弗長老表明他對待人的心態︰「我的心一直都像大地一樣，承受種種污穢、不淨物，不輕慢他人。我也像門墊、乞丐、斷腳的公牛一般，對污穢的血肉之軀感到厭惡，不再執著於它。」 (cf. A.9.11.) 舍利弗長老說完之後，那位年輕比丘感到愧疚，承認自己指控的錯誤，並且道歉。佛陀因此說了此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～六、比丘控訴舍利弗 (偈 095)。
+                  PS: 請參《法句經故事集》，七～六、 `比丘控訴舍利弗 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-095>`__ (偈 095) 。
 
 .. [MettFn07-09] 〔明法尊者註07-09〕 **無信** ：assaddho，聖者自證知，悟不由他。
 
@@ -37750,7 +37577,25 @@
 
 .. [MettFn07-11] 〔明法尊者註07-11〕 舍利弗尊者的三位姐妹和兩位弟弟都出家，最小弟弟離婆多(Revato)沒出家，他被安排婚姻，但是在婚宴上，他看到一位很老的女賓客，知道人生不離老病死，於是就去出家當沙彌，經過一個雨安居就證得阿羅漢果。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～九、舍利弗尊者最小的弟弟 (偈 098)。
+                  PS: 請參《法句經故事集》，七～九、 `舍利弗尊者最小的弟弟 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-098>`__ (偈 098) 。
+
+.. [dhp-a-090-note] 有四種繫縛：貪、瞋、戒禁取和見取。
+
+.. [dhp-a-090-note2] 即阿羅漢。
+
+.. [dhp-a-091-note] 阿羅漢行腳各地，而不執著特定的地方，因為阿羅漢沒有“我”和“我所”的觀念。
+
+.. [dhp-a-092-note] 積聚有二種：「業」和「四食」的積聚。「業」積聚會使人不斷輪迴。而「四食」積聚雖是生命的必須，但可能妨礙精神修持。
+
+.. [dhp-a-092-note2] 根據論，阿羅漢在進食時，應正念現前，具足三種食觀： 
+
+                     | 1. **知遍知** ： 確實明白食物的意義。 
+                     | 2. 審察遍知** ：確實明白食物的卑微。 
+                     | 3. 斷偏知** ： 滅盡進食的欲樂。
+
+.. [dhp-a-092-note3]  涅槃是苦的解脫。因為不再貪瞋癡所以也稱之為「空」，而不是說一無所有或一切斷滅。涅槃是積極的，超越凡俗的境界，無法用世俗的文字加以敘述。涅槃是無相的，因為不再有貪的形相。阿羅漢在生前就證得涅槃而領略涅槃的喜悅。說阿羅漢死後仍然存在或不存在都不正確，因為涅槃既不是常見也不是斷見。涅槃時，沒有任何東西是永恆的，而且，除了愛欲之外，沒有任何寂滅。阿羅漢在今生即證得涅槃而領略無上的涅槃喜悅。
+
+.. [dhp-a-095-note] 因陀揭羅，是在大門中間安放一堅固的石頭，作為關門時放門橛用的。另一種說法認為它是帝釋的柱子，在進城的地方安立一大而堅固的柱子，以象徵因陀羅（印度守護神）之所在。
 
 .. [NāradaFn07-01]  (Ven. Nārada 07-01) Arahanta has several meanings. It may be interpreted as "Worthy One". "Passionless One". Or one who commits no evil even secretly. He has got rid of both death and birth. After death, in conventional terms, he attains parinibbāna. Until his death he serves other seekers of truth by example and by precept.
 
@@ -37810,17 +37655,21 @@
 
 .. [BudRkFn-v97]  (Ven. Buddharakkhita v. 97) In the Pali this verse presents a series of puns, and if the "underside" of each pun were to be translated, the verse would read thus: "The man who is faithless, ungrateful, a burglar, who destroys opportunities and eats vomit — he truly is the most excellent of men."
 
-.. [NandFn07-01] 〔Nanda 校註07-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～二、阿羅漢不執著 (偈 091)。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. [NandFn07-02] 〔Nanda 校註07-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～三、儲藏米穀的比丘 (偈 092)。
+**校註：**
 
-.. [NandFn07-03] 〔Nanda 校註07-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～四、阿那律陀比丘和女天神 (偈 093)。
+.. [NandFn07-01] 〔Nanda 校註07-01〕 請參《法句經故事集》，七～二、 `阿羅漢不執著 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-091>`__ (偈 091) 。
 
-.. [NandFn07-04] 〔Nanda 校註07-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～七、一眼失明 (偈 096)。
+.. [NandFn07-02] 〔Nanda 校註07-02〕 請參《法句經故事集》，七～三、 `儲藏米穀的比丘 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-092>`__ (偈 092) 。
 
-.. [NandFn07-05] 〔Nanda 校註07-05〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～八、只靠信仰無法證得涅槃 (偈 097)。
+.. [NandFn07-03] 〔Nanda 校註07-03〕 請參《法句經故事集》，七～四、 `阿那律陀比丘和女天神 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-093>`__ (偈 093) 。
 
-.. [NandFn07-06] 〔Nanda 校註07-06〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap07.pdf>`__  ，七～十、誘惑比丘的妓女 (偈 099)。
+.. [NandFn07-04] 〔Nanda 校註07-04〕 請參《法句經故事集》，七～七、 `一眼失明 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-096>`__ (偈 096) 。
+
+.. [NandFn07-05] 〔Nanda 校註07-05〕 請參《法句經故事集》，七～八、 `只靠信仰無法證得涅槃  <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-097>`__ (偈 097)。
+
+.. [NandFn07-06] 〔Nanda 校註07-06〕 請參《法句經故事集》，七～十、 `誘惑比丘的妓女 <{filename}../dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-099>`__ (偈 099) 。
 
 .. [DLMBSFn-V090] (DLMBS Commentary V090) Devadatta once tried to kill the Buddha by pushing a big rock on him from the top of the mountain. But the rock split and only one splinter hurt the Buddha's foot. The physician Jivaka attended on him. He applied some medicine and promised to come back and take the bandage off in the evening. But he was held by some other business and the city gates were already closed when he wanted to go to the monastery. He knew that the bandage had to be taken off that night, so he was very distressed. 
 
@@ -37871,6 +37720,7 @@
                   
                   The Buddha saw this from afar and told the monk this verse, saying that in seeking passions there is no delight. Only after freeing oneself from passion can one enjoy whatever place one is at. The monk did not care about the woman any more and attained arahantship quickly.
 
+
 .. [LChnFn08-01] 〔註08-01〕  據錫蘭版本，此字為Dhammapada故譯為「法句」，但巴利聖典出版協會本作Gathapada則應譯為「一句偈」。 
 
 .. [LChnFn08-02] 〔註08-02〕  下二頌是連貫的。
@@ -37901,7 +37751,7 @@
 
 .. [MettFn08-01] 〔明法尊者註08-01〕 國家的劊子手坦巴達卡(Tambadāṭhikacoraghātaka)殺過499人，做滿五十五年後退休，退休後，有一個機會供養舍利弗尊者，聽法後，回家路上意外喪生，死後往生兜率天。聞法一次而正確的理解，就可能產生很大的利益。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__  ，八～一、行刑者的命運 (偈 100)。
+                  PS: 請參《法句經故事集》，八～一、 `行刑者的命運 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-100>`__  (偈 100)。
 
 .. [MettFn08-02] 〔明法尊者註08-02〕 Dhp.(v.100)︰rāgādivūpasamena **upasammati,** taṁ atthasādhakaṁ nibbānappaṭisaṁyuttaṁ khandhadhātu-āyatana-indriyabalabojjhaṅgasatipaṭṭhānaparidīpakaṁ ekampi padaṁ seyyoyevāti attho. ( **寂靜** ︰‘染’等寂靜。與涅槃相關的善法義，如蘊、界、處、根、力、覺支、念處中說明的一句義(，聞已心寂靜)。)
 
@@ -37909,54 +37759,67 @@
 
 .. [MettFn08-04] 〔明法尊者註08-04〕 《增壹阿含31.11經》(T2.673.2)：「千千為敵，一夫勝之，未若自勝，已忍者上。」
 
-                  PS: 請參 `102-3 典故 <{filename}../dhp-story/dhp-story102-3%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__  ，八～三、嫁小偷的富家女 (偈 102~3)。
+                  PS: 請參 102-3 典故－－ `尊者昆得利給喜的故事 <{filename}../dhp-story/dhp-story102-3%zh.rst>`__ ；或《法句經故事集》，八～三、 `嫁小偷的富家女 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-102>`__ (偈 102~3)。
 
 .. [MettFn08-05] 〔明法尊者註08-05〕 **乾闥婆** ：gandhabha(梵 gandharva)，天界的一種樂神，他以香氣資養身體。
 
 .. [MettFn08-06] 〔明法尊者註08-06〕 一位婆羅門跟佛陀說：「尊者！我認為你只知有法益的修行，對無益的事一無所知。」佛陀說︰「我也了解無益且有害的事。」佛陀就列舉六種會消耗財產的行為：(1)日出之後睡覺。(2)懶惰成性。(3)殘暴。(4)耽溺飲酒。(5)在惹人懷疑的時間內逛街。(6)淫他人之妻。佛陀接著問這婆羅門如何維生，婆羅門回答說以賭博維生。佛陀說：「在賭博中獲勝，無法與克服煩惱的成就相比。」
 
-                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__  ，八～四、賭博的得失 (偈 104~5)。
+                 PS: 請參《法句經故事集》，八～四、 `賭博的得失 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-104>`__ (偈 104~5) 。
 
 .. [MettFn08-07] 〔明法尊者註08-07〕 舍利弗尊者一位叔叔每月都供養裸行者，期望往生梵天，但是方法錯誤，舍利弗尊者帶他去見佛陀。佛陀就開導他，教正確生梵天的方法。
 
-                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__  ，八～五、往生梵天的方法 (偈 106)。
+                 PS: 請參《法句經故事集》，八～五、 `往生梵天的方法 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-106>`__ (偈 106) 。
 
 .. [MettFn08-08] 〔明法尊者註08-08〕 舍利弗尊者一位侄子每月都火祭一隻羊，期望往生梵天，但是方法錯誤，舍利弗尊者帶他去見佛陀。佛陀就開導他，教正確生梵天的方法。
 
-                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__  ，八～六、火祭不究竟 (偈 107)。
+                 PS: 請參《法句經故事集》，八～六、 `火祭不究竟 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-107>`__ (偈 107) 。
 
 .. [MettFn08-09] 〔明法尊者註08-09〕 **施捨** ：yitthaṁ。Spk:S.24.5.： **Yiṭṭhaṁ** vuccati mahāyāgo.( **上供品** ︰被稱爲「大牲醴」)。DhA(v.108)： **Yiṭṭhan**\ ti yebhuyyena maṅgalakiriyādivasesu dinnadānaṁ.( **上供品** ：一般而言，在慶典等場合，以豐盛的施物祭祀。)。 **供養** ：hutaṁ。供給過客的布施。DhA(v.108)： **Hutan**\ ti abhisaṅkharitvā kataṁ pāhunadānañceva, kammañca phalañca saddahitvā katadānañca.( **獻供品** ：已周全安排好贈與款待賓客的食物後，信業及果後，並且作了施與。)
 
-                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～七、用動物祭祀的婆羅門 (偈 108)。
+                 PS: 請參《法句經故事集》，八～七、 `用動物祭祀的婆羅門 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-108>`__ (偈 108) 。
 
 .. [MettFn08-10] 〔明法尊者註08-10〕 Abhivādanasīlissa niccaṁ vuḍḍhāpacāyino cattāro dhammā vaḍḍhanti: āyu, vaṇṇo, sukhaṁ, balaṁ.南傳比丘受人禮拜時，常念誦的法句。法句中壽.美.樂.力，指長壽、莊嚴、安樂、力量。《摩奴法典》Ch.1.121︰「養成尊敬的習慣和常尊敬長者，它們壽命、學問、名譽和力量，四樣一定會增長。」
 
-                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～八、佛陀保護男孩 (偈 109)。
+                 PS: 請參《法句經故事集》，八～八、 `佛陀保護男孩 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-109>`__ (偈 109) 。
 
 .. [MettFn08-11] 〔明法尊者註08-11〕 **破戒.無三昧** ：dussīlo asamāhito，無道德，無等持(禪定)。
 
 .. [MettFn08-12] 〔明法尊者註08-12〕 本則故事說僧揭笈沙彌(Saṁkiccasāmaṇera)修慈心不為刀傷。
 
-                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～九、沙其卡沙彌的奇蹟 (偈 110)。
+                 PS: 請參《法句經故事集》，八～九、 `沙其卡沙彌的奇蹟 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-110>`__ (偈 110) 。
 
 .. [MettFn08-13] 〔明法尊者註08-13〕 **生滅法** ：udayabbayaṁ (＜udaya生+vaya滅)。觀察五蘊的二十五異相(pañcavīsatiyā lakkhaṇehi udayañca vayañca apassanto)的生滅。在修觀禪時，見到色法(物質—地.水.火.風的現象)或名法(受、想、行、識)的生滅、無常。「一日」(Ekāhaṁ= eka一 + aha天)在此作「一時」解釋。
 
-                  「阿難遊行宣化幾二十年。嘗至竹林中(即王舍城外竹林寺)聞比丘誦偈。若人生百歲。不見水老鶴。不如生一日。時得睹見之。阿難慘然曰。此非佛偈。當云。若人生百歲。不解生滅法。不如生一日。而得解了之。比丘向其師說。師曰。阿難老朽言不可信。阿難後時聞彼比丘猶誦前偈。即自思惟。今此比丘不受吾教。於世無益宜入涅槃。」(《佛祖統紀》卷第五,T49.171.1) Udakakāka,【陽】鸕鷀，水老鶴(cormorant)。
+                  「阿難遊行宣化幾二十年。嘗至竹林中(即王舍城外竹林寺)聞比丘誦偈。若人生百歲。不見水老鶴。不如生一日。時得睹見之。阿難慘然曰。此非佛偈。當云。若人生百歲。不解生滅法。不如生一日。而得解了之。比丘向其師說。師曰。阿難老朽言不可信。阿難後時聞彼比丘猶誦前偈。即自思惟。今此比丘不受吾教。於世無益宜入涅槃。」(《佛祖統紀》卷第五,T49.171.1)。 Udakakāka,【陽】鸕鷀，水老鶴(cormorant)
+
+                  Nanda 補註： 根本說一切有部毘奈耶雜事第40卷 [NandFn08-06]_ 有此記載（CBETA 電子佛典集成 » 大正藏 (T) » 第 24 冊 » No.1451 » 第 40 卷，T24, no.1451, p.0409, c26 -- p.0410, a21）
+
+                  另可參： 不見水潦鶴_ （取材自 `台語與佛典 <http://yifertw.blogspot.com/>`__ 部落格 `法友飛鴻 285 <http://yifertw.blogspot.com/2018/06/285.html>`__ ，不見「水潦鶴」，2018年6月19日 星期二）
+
+                  　　　　及 又見水白鶴_ （取材自 `台語與佛典 <http://yifertw.blogspot.com/>`__ 部落格 `法友飛鴻 286 <http://yifertw.blogspot.com/2018/06/blog-post_24.html>`__ ，2018年6月24日 星期日）
 
 .. [MettFn08-14] 〔明法尊者註08-14〕 波羅遮那(Paṭācārā)死了丈夫、兩個兒子、父母、和唯一的哥哥。佛陀安撫她，為她說〈無始相應〉(說輪迴無盡)。本則偈頌故事同 `288-289偈 <{filename}dhp-contrast-reading-chap20%zh.rst#dhp288>`__ 。
 
-                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～十二、家破人亡的波她卡娜 (偈 113, Paṭācārātherī, 波羅遮那長老尼的故事)。 [NandFn08-05]_
-
+                 PS: 請參《法句經故事集》，八～十二、 `家破人亡的波她卡娜 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-113>`__  (偈 113, Paṭācārātherī, 波羅遮那長老尼的故事) 。 [NandFn08-05]_
 
 .. [MettFn08-15] 〔明法尊者註08-15〕 **不死道** ：DhA： **amataṁ padan**\ ti maraṇavirahitakoṭṭhāsaṁ,  amatamahānibbānanti attho.( **不死道** ：死亡空空如也，不死的大涅槃之義。)
   
 .. [MettFn08-16] 〔明法尊者註08-16〕 吉離舍瞿曇彌(Kisāgotamī)因子夭折，抱著兒子的屍體到處求醫，有人請她去見佛陀，佛陀說，要她先去向某戶從未死親人的人家，要到一些芥子，她到處去問，問不到，才慢慢醒過來。她回來見佛，佛陀開示︰「妳不要以為‘只有我的兒子死’。所有的有情都會死，眾生的意圖尚未滿足之前，死王就以大洪水完全的捲入，丟進大海。」佛陀接著說偈頌(v.287)吉離舍瞿曇彌就證得須陀洹果。之後，吉離舍瞿曇彌出家，某日觀察油燈火焰，想︰「一切有情生生死死，只有證得涅槃才不出現(生死)。」以此作所緣，證得阿羅漢果。A.1.14./I,25.︰「持麤衣者，是翅舍憍答彌(Kisāgotamī)。」《增壹阿含5.1經》(T2.558.3)︰「十一限礙(頭陀)，所謂機梨舍瞿曇彌比丘尼是。」吉離舍瞿曇彌比丘尼另一則偈頌見 `287偈 <{filename}dhp-contrast-reading-chap20%zh.rst#dhp287>`__ 。
 
-                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～十三、死而復生 (偈 114)。
+                 PS: 請參《法句經故事集》，八～十三、 `死而復生 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-114>`__ (偈 114) 。
 
 .. [MettFn08-17] 〔明法尊者註08-17〕 **最上法** ：指九出世間法(navavidhaṁ lokuttaradhammaṁ)，即：四道、四果及涅槃 (參見DhA)。
 
-                 PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～十四、疏於照顧母親的子女 (偈 115)。 （另可參考故事「父親與不肖的兒子們 」Dhp. 324）
+                 PS: 請參《法句經故事集》，八～十四、 `疏於照顧母親的子女 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-115>`__ (偈 115)。 （另可參考二十三～三、「 `父親與不肖的兒子們 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-324>`__ 」 Dhp. 324）故事。
+
+.. [dhp-a-100-note] (讀) 為 Nanda 補註，原譯文無。
+
+.. [dhp-a-107-note] 「火祭」在當時的伊朗和印度相當流行。部份人認為火是神祇之一。有些人認為透過火祭，他們可以討好神祇，而得到賜福和保護。另外，動物祭祀和在恆河中沐浴也很普遍。佛陀是當時唯一指出這些方法都是無益的宗教師 。
+
+.. [dhp-a-113-note] 「世事生滅」，巴利註釋書謂：udayabbayaṁ 生滅法： (＜udaya生+vaya滅)。觀察五蘊的二十五異相(pañcavīsatiyā lakkhaṇehi udayañca vayañca apassanto)的生滅。
+
+                    此偈頌，果儒法師則改為：「若長命百歲，但不知萬物生滅的實相，不如活著一天如實知見生滅法。」 ( `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ ) 
 
 .. [NāradaFn08-03] (Ven. Nārada 08-03) Sahassaṃ sahassena, thousand multiplied by a thousand, that is, ten lakhs. (Commentary).
 
@@ -37986,13 +37849,17 @@
 
 .. [ThaniSFn-V108] (Ven. Thanissaro V.108) "Doesn't come to a fourth": DhpA: The merit produced by all sacrificial offerings given in the world in the course of a year doesn't equal even one fourth of the merit made by paying homage once to one who has gone the straight way to Unbinding.
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
 .. [NandFn08-01] 〔Nanda 校註08-01〕 參考：《增壹阿含31.11經》 (T2.673.b) 雖誦千章，不義何益？不如一句，聞可得道。雖誦千言，不義何益？不如一義，聞可得道。 (T02n0125_p0673b26--b28)
 
-.. [NandFn08-02] 〔Nanda 校註08-02〕 請參 `101 典故 <{filename}../dhp-story/dhp-story101%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～二、證阿羅漢果最快的方法 (偈 101)。
+.. [NandFn08-02] 〔Nanda 校註08-02〕 請參 101 典故－－ `達路吉力的故事 <{filename}../dhp-story/dhp-story101%zh.rst>`__ ；或《法句經故事集》，八～二、 `證阿羅漢果最快的方法 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-101>`__ (偈 101) 。
 
-.. [NandFn08-03] 〔Nanda 校註08-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～十、喬達那尊者和搶匪們 (偈 111)。
+.. [NandFn08-03] 〔Nanda 校註08-03〕 請參《法句經故事集》，八～十、 `喬達那尊者和搶匪們 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-111>`__ (偈 111) 。
 
-.. [NandFn08-04] 〔Nanda 校註08-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～十一、自殺時證得聖果的沙帕達沙 (偈 112)。
+.. [NandFn08-04] 〔Nanda 校註08-04〕 請參《法句經故事集》，八～十一、 `自殺時證得聖果的沙帕達沙 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-112>`__ (偈 112) 。
  
 .. [NandFn08-05] 〔Nanda 校註08-05〕 波羅遮那 (取自： http://authority.ddbc.edu.tw/person/?fromInner=A015901 )
 
@@ -38122,33 +37989,353 @@
 
                   She realized that nobody would give her proper care, so she decided to become a nun. Now because she left the home very old, she knew she did not have much time. Therefore she was extremely diligent and practiced meditation with a strong energy. The Buddha saw her effort and praised her with this verse, saying that it was better to live just for a short time but be able to realize the Dharma. A life, which lasts for many years, but is without understanding the Law, is useless. After hearing the verse, Bahu Puttika attained Awakenment.
 
+.. [NandFn08-06] 〔Nanda 校註08-06〕 根本說一切有部毘奈耶雜事第40卷（CBETA 電子佛典集成 » 大正藏 (T) » 第 24 冊 » No.1451 » 第 40 卷，T24, no.1451, p.0409, c26 -- p.0410, a21）有此記載：
+
+                 「時阿難陀與諸苾芻在竹林園，有一苾芻而說頌曰：
+
+                 | 「若人壽百歲，　　不見水白鶴；
+                 | 　不如一日生，　　得見水白鶴。」
+                 | 
+                 | 時阿難陀聞已告彼苾芻曰：「汝所誦者，大師不作是語。然佛世尊作如是說：
+                 | 
+                 | 「『若人壽百歲，　　不了於生滅；
+                 | 　　不如一日生，　　得了於生滅。』
+                 | 
+                 | 「汝今應知，世有二人常謗聖教：「『不信性多瞋，　雖信顛倒解；　妄執於經義，　如象溺深泥。　彼當自損失，　由其無智慧；　邪解聽無益，　如毒藥應知。　是故諸智者，　聽已能正行；　煩惑漸銷除，　當得離繫果。』」
+                 | 
+                 | [0410a12] 彼聞教已便告其師，師曰：
+                 | 
+                 | 「阿難陀老闇，　　無力能憶持；
+                 | 　出言多忘失，　　未必可依信。
+                 | 
+                 | [0410a15] 「汝但依舊如是誦持。」時尊者阿難陀，覆來聽察，見依謬說，報言：「子！我已告汝，世尊不作是說。」時彼苾芻悉以師語白尊者知。尊者聞已作如是念：「今此苾芻我親教授，既不用語，知欲如何？假令尊者舍利子、大目乾連、摩訶迦攝波事亦同此。彼諸大德並已涅槃，如來慈善根力，能令法眼住世千年。」 (T24, no.1451, p.0409, c26 -- p.0410, a21)
+                 | 
+
+                 udayavyayam (梵)， udayabbayaṁ (巴利)，漢譯：生滅
+
+                 udaka-viya* (梵)， Udakakāka (巴利)， 漢譯：如水：水老鶴/水潦鶴/水白鶴
+
+                 參考： `台語與佛典 <http://yifertw.blogspot.com/>`__ 部落格 `2017年2月26日 星期日 <http://yifertw.blogspot.com/2017/02/blog-post_26.html>`__ 
+
+                 另可參考： `《法句經》的「校讀」與「誤譯」 <http://yifertw.blogspot.com/2017/01/blog-post_95.html>`__ 2017年1月12日 星期四 （ `台語與佛典 <http://yifertw.blogspot.com/>`__ 部落格）
+
+                 `《法句經》：若人壽百歲，不知成敗事 <http://yifertw.blogspot.com/2012/09/blog-post_1363.html>`__ ，2012年9月18日 星期二 （ `台語與佛典 <http://yifertw.blogspot.com/>`__ 部落格）
+
+                 －－－－－－－－－
+
+                 .. _不見水潦鶴:
+
+                 不見「水潦鶴」
+
+                 | （取材自 `台語與佛典 <http://yifertw.blogspot.com/>`__　`法友飛鴻 285 <http://yifertw.blogspot.com/2018/06/285.html>`__ ，2018年6月19日 星期二）
+                 | 〔另參：又見水白鶴_ （取材自 `台語與佛典 <http://yifertw.blogspot.com/>`__ 部落格 `法友飛鴻 286 <http://yifertw.blogspot.com/2018/06/blog-post_24.html>`__ ，2018年6月24日 星期日）〕
+                 | 
+
+                 我除了對 Su Yuan chuan 的 2018/6/18 在臉書的貼文提出一些建議之外，在此也作了一些補充。
+
+                 1. 從用字來看，此首 Uv 24.6 與《犍陀羅法句經》19.13 的偈頌應該是與巴利《法句經》113 頌相當。可以看出以下三首偈頌用字相當，只是每個字拼寫有所不同。
+
+                 舉例來說，漢語的「藥店」，德文為 apotheke, 丹麥文為 apotek, 荷蘭文為 apotheek, 波蘭文的 apteka, 芬蘭文的 apteekki 為同一類。另一類為英文的 pharmacy, 法文的 pharmacie, 西班牙文、葡萄牙文與義大利文的 farmacia, 喬治亞文的 parmatsia. 兩類各自是同一字的不同拼寫。
+
+                 .. list-table:: Pali, Sanskrit, Gāndhārī Dhp. 113
+                    :widths: 15 25 60
+                    :header-rows: 1
+
+                    * - 法句經
+                      - 品名
+                      - 偈頌
+
+                    * - 巴利
+                      - | Dhp 113
+                        | 8 千品 (8.14)
+                      - | Yo ca vassasataṃ jīve, 
+                        | apassaṃ udayabbayaṃ;
+                        | Ekāhaṃ jīvitaṃ seyyo, 
+                        | passato udayabbayaṃ.
+
+                    * - 梵語
+                      - | Uv 24.6
+                        | 24 教說品
+                      - | yac ca varṣaśataṁ jīved
+                        | apaśyann udayavyayam |
+                        | ekāhaṁ jīvitaṁ śreyaḥ
+                        | paśyato hy udayavyayam ||
+
+                    * - 犍陀羅語
+                      - | Dhp-G 317
+                        | 19 千品 (19.13)
+                      - | ya ji vaṣaśado jivi 
+                        | apaśu udakavaya |
+                        | muhutu jivida ṣevha
+                        | paśado udakavaya||
+
+                 2. 從巴利(Dhp 113)前後偈頌來看，可以將此一偈頌的漢譯偈頌定位。T210《法句經》與巴利《法句經》不僅品名相似，對應偈頌也大致相同。T213《法集要頌經》的品名與對應偈頌的次序要和與梵文《法句經》(《優陀那品》)、T212《出曜經》為同一組。
+
+                 .. list-table:: 8. Sahassavaggo (Dhp.100-115) 巴利偈頌(漢譯) 8 〈千品〉, T210《法句經》16 〈述千品〉, T213《法集要頌經》〈24 廣說品〉33頌
+                    :widths: 32 32 36
+                    :header-rows: 1
+
+                    * - | T210《法句經》 
+                        | 16 〈述千品〉
+                      - | T213《法集要頌經》
+                        | 〈24 廣說品〉33頌
+                      - | 巴利偈頌(漢譯)
+                        | 8 〈千品〉
+
+                    * - 祭神以求福，從後觀其報，四分未望一，不如禮賢者。(9)
+                      - 若人禱神祀，經歲望其福，彼於四分中，亦不獲其一。(21)
+                      - 若有人滿一年以不管何種犧牲或祭祀求福，所得的福不如禮敬正直者的四分之一。(108)
+
+                    * - 能善行禮節，常敬長老者，四福自然增，色力壽而安。(10)
+                      - 
+                      - 常禮敬有戒德的人，尊敬年長的人，有四種利益：增長年壽、儀容體態、體力、安樂。(109)
+
+                    * - 若人壽百歲，遠正不持戒，不如生一日，守戒正意禪。(11)
+                      - 
+                      - 如有人活了一百歲，未遵守戒律，心志不安定，不如生長一日守戒而具禪定。(110)
+
+                    * - 
+                      - 
+                      - 如有人活了一百歲，無智慧，心志不安定，不如生長一日有智慧而具禪定。(111)
+
+                    * - 若人壽百歲，邪偽無有智，不如生一日，一心學正智。(12)
+                      - 
+                      - 
+
+                    * - 若人壽百歲，懈怠不精進，不如生一日，勉力行精進。(13)
+                      - 若人壽百歲，懈怠劣精進，不如一日中，勇猛行精進。(5)
+                      - 如有人活了一百歲，怠惰不精進，不如生長一日而堅毅精進。(112)
+
+                    * - 若人壽百歲，不知成敗事，不如生一日，見微知所忌。(14)
+                      - 若人壽百歲，不觀生滅法，不如一日中，而解生滅法。(6)
+                      - 如有人活了一百歲，不了解生滅法，不如生長一日而了解生滅法。(113)
+
+                    * - 若人壽百歲，不見甘露道，不如生一日，服行甘露味。(15)
+                      - 若人壽百歲，不見甘露句，不如一日中，得服甘露味。(15)
+                      - 如有人活了一百歲，不見甘露道，不如生長一日而見甘露道。(114)
+
+                    * - 若人壽百歲，不知大道義，不如生一日，學惟佛法要。(16)
+                      - 若人壽百歲，不見最上句，不如一日中，得見最上道。(13)
+                      - 如有人活了一百歲，不見最上法，不如生長一日而得見最上法。(115)
+
+                 3. 我們可以推定T210《法句經》14頌與T213《法集要頌經》6頌和巴利《法句經》的113頌相當。如果三者的用字相當的話，T210《法句經》是將「udayabbaya」譯作「成敗」，而T213《法集要頌經》則是譯作「生滅」。
+
+                 | 4. 《根本說一切有部毘奈耶雜事》卷40：「時阿難陀與諸苾芻在竹林園，有一苾芻而說頌曰：
+                 | 「若人壽百歲，　　不見水白鶴；
+                 | 　不如一日生，　　得見水白鶴。」
+                 | 時阿難陀聞已告彼苾芻曰：「汝所誦者，大師不作是語。然佛世尊作如是說：
+                 | 「『若人壽百歲，　　不了於生滅；
+                 | 　不如一日生，　　得了於生滅。』」(CBETA, T24, no. 1451, p. 409, c26-p. 410, a4)
+                 | 
+                 | 「水白鶴」在禪宗公案裡是引作「水潦鶴」。
+                 | 
+                 | 《人天眼目》卷1：「昔阿難夜經行次。聞童子誦佛偈。若人生百歲。不善水潦鶴。未若生一日而得決了之。阿難教之曰。不善諸佛機。非水潦鶴也。童子歸白其師。師笑曰。阿難老昏矣。當以我語為是。」(CBETA, T48, no. 2006, p. 305, a18-22)。
+                 | 
+
+                 我個人認為將「udayabbaya」誤解成「udaka -baka 水 - 鶴」，究竟是某種語言的特色(如犍陀羅語、佛教混合梵語)，還是因為讀音不清而造成誤解，都有待進一步澄清。不見得要將兩位學者的意見當作定論。
+
+                 5. 有網友認為此事發生在阿難臨涅槃前。阿難於世尊成等正覺時出生，世尊81歲入滅，阿難時年46歲，如阿難世壽為 98 歲，則此事發生於世尊涅槃後52年，地點在王舍城竹林園(竹林精舍)。
+
+                 這不太可能，因為，王舍城近於世尊說法用語(或幾種說法用語之一)，不可能產生將「udayabbaya」誤解成「udaka -baka 水 - 鶴」的變化。
+
+                 這件事應該發生在「大犍陀羅區」，時間也會比阿難入涅槃晚得多。
+
+                 | ＝＝＝＝＝
+                 | 以下引自 Yuan Chuan, Su 臉書
+                 | ＝＝＝＝＝
+                 | 
+
+                 不少人應該聽過一個故事 [NandFn08-06-1]_ ：有比丘將一首偈頌中的生滅法背誦成水白鶴（一說水老鶴），害得阿難尊者難過到入涅槃。
+　
+                 也許不少人會困惑，明明「生滅法」、「水白鶴」這兩個詞發音跟意思差這麼多，怎麼還會有人背錯。從漢語角度來看，「生滅法」、「水白鶴」確實是發音意思差異極大，不可能弄錯。
+　
+                 但從印度文化的角度來看，這樣的事情是有可能發生的。
+　
+                 這故事出自《根本說一切有部毘奈耶雜事》，根據記載，這位比丘當初背誦的偈頌應該是：
+　
+                 「若人壽百歲，不了於生滅；不如一日生，得了於生滅。」
+　
+                 這首偈頌至今仍可以在各部派的法句經都可以找到，對應回原文應該是，
+　
+                 梵語版本 Uv 24.6：
+
+                 | yac ca varṣaśataṁ jīved
+                 | apaśyann udayavyayam |
+                 | ekāhaṁ jīvitaṁ śreyaḥ
+                 | paśyato hy udayavyayam ||
+                 | 
+                 | 或者犍陀羅語版本Dhp-G 19.13
+                 | 
+                 | ya ji vaṣaśado jivi
+                 | apaśu udakavaya |
+                 | muhutu jivida ṣevha
+                 | paśado udakavaya|| [NandFn08-06-3]_ 
+                 | 
+                 | 
+                 | 其中：
+                 | 
+                 | udayavyaya（梵語）或udakavaya（犍陀羅語）就是生滅法。
+                 | 
+                 | 但因為在中亞一帶的中古印歐語（尤其是犍陀羅語跟混合梵語）發音常出現-k-， -y-混淆的現象 [NandFn08-06-2]_ ，再搭上西元後佛教經典梵語化，因此就出現以下的演變過程：
+                 | 
+                 | udayavyaya（俗語）
+                 | udakavaya（犍陀羅語）
+                 | udakavaka(犍陀羅語/佉盧體拼音)
+                 | udakabaka（梵語：水白鶴） [NandFn08-06-4]_ 
+                 | 
+                 | 換句話說，之所以有人將「生滅法」背誦成「水白鶴」，是佛教經典歷經上百年梵語化，出現錯誤的逆構。
+                 | 
+                 | 當在中亞地區的根本說一切部僧團，有人把「生滅法」背誦成「水白鶴」造成爭議後，僧團將此一故事以阿難為主角記載在他們的經典中。 [NandFn08-06-5]_ 
+                 | 
+                 | 雖然故事的主角可能不是阿難，但這告訴人們，經典透過背誦的方式傳承也有背錯的時候，但因為僧團背誦經典是以多人分工背誦的方式傳承，故得以透過多人背誦比對的方式將某些人背錯的部分校正。
+                 | 
+                 | 也因此，目前所流傳下來的各部派法句經中的這首偈頌正確無誤。
+
+                 －－－－－－－－－
+
+                 .. _又見水白鶴:
+
+                 又見水白鶴
+
+                 （取材自 `台語與佛典 <http://yifertw.blogspot.com/>`__　`法友飛鴻 286 <http://yifertw.blogspot.com/2018/06/blog-post_24.html>`__ ，2018年6月24日 星期日）
+                 
+                 即使諾曼博士 K. R. Norman 和邵瑞祺 Richard Salomon 都提到「水白鶴」的故事，他們兩位只是簡單引述布臘夫 John Brough 的意見，並未作深入的跨語言文獻的解析；所以，歸根究柢還是要回到布臘夫 John Brough 的原著來。這裡我打算將這整段敘述翻譯作台灣國語來呈現原貌給此一小組的法友。
+
+                 在正式翻譯之前，我先提一下布臘夫 John Brough 感到疑惑的地方，他「認為」漢譯強調的「白」字，這是一個其他文獻看不到的描述。
+
+                 這要擺到漢語文脈和語境來看。
+
+                 印度語系的偈頌並不一定是四句，也有六句或八句。印度語系偈頌並不規定一句要有幾個「字」(五言、七言、八言)，而是規定每個 pada (相當於漢詩的句，但是仍然有其差異)依其「韻體、韻類 metrics, prosody (英文)，chanda(巴利)」而對每一句 pada 有「多少音節」(例如：8 或 11 音節)、「長母音、短母音的次序」以及「每首詩有幾句」的規定。(這個 chanda 在《雜阿含1021經》被譯作「欲」，可以算是「誤譯」。《雜阿含1021經》卷36：「欲者是偈因，文字莊嚴偈，名者偈所依，造作為偈體。」(CBETA, T02, no. 99, p. 266, b9-10))
+
+                 一般人對佛教偈頌的理解是，古代的譯師將印度語系的偈頌翻譯成漢語時，傾向於譯作「整齊的句式」而不刻意去押韻。也就是說，翻譯時將偈頌譯作四言四句、六句或八句(後來流行譯作五言四句或七言四句，所謂「四句偈」)。
+
+                 其實，從後漢、三國時期的漢譯佛典來看，古代的譯師並未保持「整齊的句式」，也未保持「將一首詩譯作偶數句」(三句、五句、七句都出現過)，絕大多數未押韻。即使有幾首偈頌出現押韻的現象，只是「巧合」，基本上，漢譯偈頌不押韻，不幸的是，就漢語文獻來說，構成「漢詩」的要素既不是「整齊的句式」，也不是「偶數句」，而是「押韻」。也就是說，漢譯佛典並未刻意將印度語系偈頌翻譯成完全符合漢詩的形式。
+
+                 所以，在翻譯相當於巴利《法句經》113頌時，譯者可能將「生滅法、興衰法 udayabbayaṃ」當作「udaka-baka 水 - 鶴」，但是，在「整齊的句式」的要求之下，必需增加一個「襯字」來湊齊五個字。如果將 baka 理解為 crane 鶴、 heron 鷺絲，而不是作 heron 蒼鷺解釋，那麼加一個「白」字當襯字，是非常自然的事。就像將「鴿」演繹成「白鴿」，將「鴉」演繹成「烏鴉」。這是可以理解的作法。
+
+                 漢語佛教文獻有時記作「水老鶴」或「水潦鶴」。
+
+                 《人天眼目》卷1：「昔阿難夜經行次，聞童子誦佛偈：『若人生百歲，不善水潦鶴；未若生一日，而得決了之。」(CBETA, T48, no. 2006, p. 305, a18-20)。
+
+                 《佛祖統紀》卷5：「阿難遊行宣化幾二十年，嘗至竹林中聞比丘誦偈：『若人生百歲，不見水老鶴；不如生一日，時得覩見之。」(CBETA, T49, no. 2035, p. 171, a18-21)。
+
+                 布臘夫 John Brough 在書中提到這首偈頌的「藏譯版」走精得更為嚇人。如果布老爺子的藏文理解無誤，這首偈頌在藏文譯為：
+
+                 「To live for a hundred years is certainly like a grey duck in the water; but a life lived all by oneself alone is happiness, like seeing a grey duck in the water. 活了一百歲確實就像水中的灰鴨；但是如果人一生都獨居則是幸福得像看到一隻水中的灰鴨一樣。」
+
+                 藏譯的阿難正確的偈頌只留下難以了解義涵的半頌：
+
+                 「To live for a hundred years is undoubtedly birth and death 壽命百歲無可置疑地就是生與死。」
+
+                 二十世紀的西方學者普遍認為「藏譯佛教文獻比較忠於原文的用字和語法，幾乎可以用來還原翻譯前的印度文本」，布老爺子此處所舉的藏文偈頌的譯例，顯示那樣的主張只是一則神話。
+
+                 ＝＝＝＝
+
+                 翻譯：〈根本說一切有部的批評〉(45-48頁)
+
+                 ＝＝＝＝
+
+                 在根本說一切有部(的律書)敘述了一個有趣的插曲，顯示了敘述者知道有一種俗語(Prakrit)的法句經版本；雖然無法確定此處的文句指的就是今本的這首偈頌，我們認為毫無疑問地這指的就是這首偈頌的犍陀羅語版本，或從犍陀羅語版本翻譯得不準確的梵語版本。這個奇怪的故事提到阿難臨入滅之前，他偶然地聽到一位比丘如此地背誦一首法句偈頌：
+
+                 | 「若人壽百歲，不見水白鶴；
+                 | 　不如一日生，得見水白鶴。」
+                 | 
+                 | 阿難告訴他說：「佛陀不是這麼說。這首偈頌應該是：
+                 | 
+                 | 『若人壽百歲，不了於生滅；
+                 | 　不如一日生，得了於生滅。』」
+                 | 
+                 | 這位比丘將此經過回去跟他老師報告，老師回答說：
+                 | 
+                 | 「阿難陀老闇，無力能憶持；
+                 | 　出言多忘失，未必可依信。」
+                 | 
+                 | 阿難再次遇到這位比丘時，發現他還在背誦原先錯誤的句子，阿難知道企圖去改正他錯誤的內容只是徒勞無功，因為所有能證實他的正確教導的長老比丘都已經入滅。因為了解自己無力護持佛法免於訛誤，阿難決定是他該入滅的時候到了。
+                 | 
+                 | 可惜我們手上並沒有此一敘述的梵文版本，但是，無可置疑地我們可以利用現存的文獻重新構建此一文句，這首偈頌相當於巴利《法句經》113頌：
+                 | Yo ca vassasataṃ jīve, apassaṃ udayabbayaṃ;
+                 | Ekāhaṃ jīvitaṃ seyyo, passato udayabbayaṃ.
+                 | 如有人活了一百歲，而不了解生滅法，
+                 | 不如只活了一日而了解生滅法。(113)
+                 | 
+                 |  上半偈的俗語形式為(317頌)：
+                 | ya ji vaṣa-śado jivi apaśu udaka-vaya.
+                 | 
+                 | 如此故事只不過是用來彰顯對於一首誤傳的偈頌或至少是被認為誤傳的偈頌的訂正。如果這首偈頌在當時仍然是「俗語版本」的形式，那個字就不會讓背誦者認為是「water-heron 水-鶴」；而說一切有部(律)的作者就沒有正當理由去嘲諷失誤。相反地，很有可能這首偈頌(很可能在一些佉盧字體的抄本已經寫作 udaka-vaka(，正確應該是udayavyaya 或 udayabbaya)譯成梵文時被不經意地寫作 udaka-bakam) 而導致必需訂正。我們可以觀察到，虛構的故事背景不僅提供了權威的訂正者(阿難尊者)對此訛誤的批評，同時也意味著此一背誦訛誤一直未被發覺，一直到權威的訂正者已經過於年邁，而其記憶也被認為不可靠。如果這樣的訂正更早出現，毫無疑問地發生錯誤的部派無法辯解。
+                 | 
+                 | 在藏文毘奈耶中，這個故事的另一版本值得被提出來，雖然這仍然是個訛誤的版本，它意味著較晚期的說一切有部(律)在錯誤的偈頌導入一個「精巧的細節 artistic elaboration」，而仍然出於俗語(或者可能是犍陀羅語)的背景。這首被批評的偈頌被描述為：
+                 | 
+                 | 「To live for a hundred years is certainly like a grey duck in the water; but a life lived all by oneself alone is happiness, like seeing a grey duck in the water. 活了一百歲確實就像水中的灰鴨；但是如果人一生都獨居則是幸福得像看到一隻水中的灰鴨一樣。」
+                 | 
+                 | 我們無需試著去決定藏譯對巴利「Ekāhaṃ(eka-aha 一日)」這個字的詮釋是失誤還是出自嘲弄(藏譯好像將此字解釋作「Eka-ahaṃ 孤獨-我」)，但是前半偈幾乎可以確定是嘗試去改善第一個版本。藏譯似乎意味著將原先的梵文「apaśyann udaka-bakam 不見水鶴」(漢譯版本可能根據的梵文)改作梵文「avaśyam udake bakah 確實(是一隻)水鶴」的藏譯。這樣的改變不可能出自意外的失誤。在法句經寫本所用的字，作為否定意義的字首 a 其後跟著一個單子音，常被當作是一個字的正常字首，這個單子音有時會被當作「intervocalic 兩個母音之間」的(一般)子音。雖然這首偈頌之中的字是「apaśu」，這個字也有可能在其他時候的拼寫作「avaśu」；而且即使最初仍然認出這個字「apaśu」用的是「p」，從其他寫卷看到的熟悉現象(-p 和 -v 混淆，例如 apādana 和 avādana)會讓此類律本的訂正者認為原稿應該是「v」，而最終寫成「avaśyam 確實」。
+                 | 
+                 | 很不幸的，阿難對該偈頌的訂正在藏文譯本中並未顯示任何作用，而後代的藏文閱讀者一定搞不清楚藏譯中阿難的偈頌會是什麼意義：
+                 | 
+                 | 「To live for a hundred years is undoubtedly birth and death 壽命百歲無可置疑地就是生與死。」
+                 | 
+                 | 這裡，此首嘲弄偈頌中的嘲諷用字「avaśyam 」，經由錯誤的引用而成為阿難偈頌的用字，而破壞整首偈頌的義涵。不管是來自這樣的緣故或另一個失誤，甚至更進一步整首偈頌只保存了上半頌而失去了下半頌，造成藏譯經文比漢譯時還在的原文詞句更短的現象。
+                 | 
+                 | 這容易引人相信，根本說一切有部此處的批評是針對犍陀羅語法句經的經文，而且有可能真是如此。持平來說，這也有可能不是如此。不過，我們能合理地確認所批評偈頌的語言。
+                 | 
+                 | 事實上，犍陀羅語不是俗語方言(Prakrit dialect)當中唯一會將 udaka 和 udaya 如此混淆的語言，因為俗語寫卷中 udaya 或 udaa 的拼寫對其他(俗語)方言來說可能代表兩個字的任一字，理論上這樣的拼寫可能會在改寫成梵文時被當作 udaka。
+
+.. [NandFn08-06-1] 故事出自《根本說一切有部毘奈耶雜事》卷40：「時阿難陀與諸苾芻在竹林園。有一苾芻而說頌曰：
+
+                   | 『若人壽百歲，不見水白鶴；不如一日生，得見水白鶴。』
+                   | 時阿難陀聞已告彼苾芻曰：『汝所誦者，大師不作是語。然佛世尊作如是說：
+                   | 「若人壽百歲，不了於生滅；不如一日生，得了於生滅。」
+ 
+.. [NandFn08-06-2] K. R. Norman, A Philological Approach to Buddhism , pp 107-108
+
+.. [NandFn08-06-3] 以上偈頌可以對應到Dhp 113：
+　
+                   | Yo ca vassasataṃ jīve, apassaṃ udayabbayaṃ;
+                   | Ekāhaṃ jīvitaṃ seyyo, passato udayabbayaṃ.
+
+.. [NandFn08-06-4] J.Brough,The Gandhari Dharmapada (Buddhist Tradition) ,pp 45－48
+
+.. [NandFn08-06-5] 這故事應該是在西元後且在中亞發生，之所以這樣推論，是因為根據各部派律典記載，佛陀不允許用梵語背誦經典，且東印度也不使用犍陀羅語；至於佛教經典梵語化則是西元後才發生的事情。因此事發時不會在王舍城，且阿難也早已不在人世。故事中之所以有阿難與王舍城，應該是根本說一切有部想利用阿難的權威去強調背誦正確的重要性。
+
+
 .. [LChnFn09-01] 〔註09-01〕  原文 Maappama~n~netha 可作二義：一、Maa＋appama~n~nati意為「莫輕視」；Maa＋appa＋Ma~n~nati則為「莫想少」之意。
 
 .. [CFFn09-01] 〔敬法法師註09-01〕 24 註釋： **母胎** 於此是指人之母胎。
 
 .. [MettFn09-01] 〔明法尊者註09-01〕 數數：ㄕㄨㄛˇ ㄕㄨㄛˇ，經常。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__  ，九～二、克制性欲 (偈 117)。
+                  PS: 請參《法句經故事集》，九～二、 `克制性欲 <{filename}../dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-117>`__ (偈 117) 。
 
 .. [MettFn09-02] 〔明法尊者註09-02〕 曾經供養大迦葉尊者的女人，死後生忉利天，天女會單獨來經精舍為尊者服務，尊者認為不恰當。天女就在哭泣，被佛陀聽到，佛陀說︰「天女！我的兒子大迦葉是作防護的考量，而那些熱望作福者認為‘這是我們的利益’--考量了作福的受惠，作福則來世是快樂的。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__  ，九～三、女天神照顧大迦葉尊者 (偈 118)。
+                  PS: 請參《法句經故事集》，九～三、 `女天神照顧大迦葉尊者 <{filename}../dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-118>`__  (偈 118)。
 
 .. [MettFn09-03] 〔明法尊者註09-03〕 **莫輕於小** ︰Mappamaññetha：1. Ma+appamaññetha莫輕視。2.Ma+appa+maññetha莫想少。
 
 .. [MettFn09-04] 〔明法尊者註09-04〕 有位比丘每次從精舍拿椅、凳使用後，就把它留在外面，任日曬雨淋。其他比丘責備他的粗心大意時，他就反駁：「這只是小事，而且我又不是故意的。」所以，他依然故我。佛陀知道他的習性後，就告誡他。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__  ，九～五、粗心大意的比丘 (偈 121)。
+                  PS: 請參《法句經故事集》，九～五、 `粗心大意的比丘 <{filename}../dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-121>`__ (偈 121)。
 
 .. [MettFn09-05] 〔明法尊者註09-05〕 **愛生避毒品** ：愛惜生命則需避開毒害的物品。
 
 .. [MettFn09-06] 〔明法尊者註09-06〕 舍衛城有一位摩訶達那富商(Mahādhanavāṇija)，一群搶匪計劃搶劫他，卻苦無下手機會，當他們打聽到摩訶達那將裝滿貴重商品的五百車子外出時，就先在路上埋伏。摩訶達那抵達搶匪躲藏的森林外圍時，準備停留幾天之後再上路。這些搶匪知道後，就準備動手搶劫。摩訶達那知道之後，便決定折回，搶匪探聽到車隊要返回，就埋伏回去的路上。這時候，摩訶達那得到通風報信，就改變主意，決定在村子裡停留幾天，同行的眾多比丘因此就先回舍衛城，並向佛陀報告此事。佛陀說出此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__  ，九～七、危險的旅程 (偈 123)。
+                  PS: 請參《法句經故事集》，九～七、 `危險的旅程 <{filename}../dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-123>`__ (偈 123)。
 
 .. [MettFn09-07] 〔明法尊者註09-07〕 某日早上，獵人可可(Koka)去打獵。在路上，他遇見一位比丘正在托缽。他認為這是不祥的預兆，當天，他真的什麼也沒獵到。回程，他又遇到那位比丘托缽回來。他一時憤怒，就放獵狗追咬比丘，還好這比丘跑得快，爬上樹，獵狗咬不到他，獵人就用弓箭頭去刺他的腳底，比丘疼痛，無法拉住袈裟，袈裟就滑落下來，正好罩在樹下的獵人。群狗以為比丘掉下來，便撲上去狂咬，獵人因此被狗咬死。比丘疑惑他是否有破沙門戒體(samaṇabhāvo)，佛陀說：「你沒破沙門戒體，不須為獵人的死負責。」
 
-                  PS: 請參 `125 典故 <{filename}../dhp-story/dhp-story125%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__ ，九～九、獵人被自己的獵狗攻擊 (偈 125)。
+                  PS: 請參 125 典故－－ `獵人鉤葛的今世和前生 <{filename}../dhp-story/dhp-story125%zh.rst>`__ ；或《法句經故事集》，九～九、 `獵人被自己的獵狗攻擊 <{filename}../dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-125>`__ (偈 125)。
+
+.. [dhp-a-118-note] 「善業多，必受樂報」或有標(點)譯為：「善業多必受樂報。」
+
+                    了參 法師 譯：當喜於作善；積善則受樂。
+
+                    敬法 法師：他應該樂於造福，累積福導致快樂。 
+
+                    悟醒 譯：若人作善已，應復重重作；應喜於作善，積善受快樂。 (漢譯南傳大藏經， `CBETA <http://tripitaka.cbeta.org/>`__ 電子佛典集成 » 南傳 (N) » 第 26 冊 » No.0009 » `法句經 <http://tripitaka.cbeta.org/N26n0009_001#0025a05>`__ ; N26, no. 0009, p.25, a05)
+
+.. [dhp-a-121-note] 或譯：小覷。
+
+.. [dhp-a-126-note1] 眾生若墮入四惡趣，受報之後，仍可能因為過去的善業往生善趣。
 
 .. [NāradaFn09-01] (Ven. Nārada 09-01) There should be no delay in doing good deeds. One must avail oneself of every opportunity to do good. Such good actions redound to one's eternal happiness. Every effort also should be made to control the mind as it is prone to evil. The impure mind rejoices in evil thoughts.
 
@@ -38272,19 +38459,24 @@
 
                   The Buddha remarked that one can not escape death no matter how one tries, no matter where on hides.
 
-.. [NandFn09-01] 〔Nanda 校註09-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__  ，九～一、一位窮苦婆羅門的慷慨奉獻 (偈 116)。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. [NandFn09-02] 〔Nanda 校註09-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__  ，九～四、給孤獨長者與守護神祇 (偈 119~120)。
+**校註：**
 
-.. [NandFn09-03] 〔Nanda 校註09-03〕 請參 `122 典故 <{filename}../dhp-story/dhp-story122%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__ ，九～六、供養少的富翁 (偈 122)。
+.. [NandFn09-01] 〔Nanda 校註09-01〕 請參《法句經故事集》，九～一、 `一位窮苦婆羅門的慷慨奉獻 <{filename}../dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-116>`__  (偈 116)。
 
-.. [NandFn09-04] 〔Nanda 校註09-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__  ，九～八、獵人全家領悟佛法 (偈 124)。
+.. [NandFn09-02] 〔Nanda 校註09-02〕 請參《法句經故事集》，九～四、 `給孤獨長者與守護神祇 <{filename}../dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-119>`__ (偈 119~120)。
 
-.. [NandFn09-05] 〔Nanda 校註09-05〕 請參 `126 典故 <{filename}../dhp-story/dhp-story126%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__ ，九～十、首飾工匠毆打無辜的比丘 (偈 126)。
+.. [NandFn09-03] 〔Nanda 校註09-03〕 請參 122 典故－－ `貓足富翁的故事 <{filename}../dhp-story/dhp-story122%zh.rst>`__ ；或《法句經故事集》，九～六、 `供養少的富翁 <{filename}../dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-122>`__ (偈 122) 。
 
-.. [NandFn09-06] 〔Nanda 校註09-06〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__ ，九～十一、惡報無法逃避 (偈 127)。
+.. [NandFn09-04] 〔Nanda 校註09-04〕 請參《法句經故事集》，九～八、 `獵人全家領悟佛法 <{filename}../dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-124>`__  (偈 124)。
 
-.. [NandFn09-07] 〔Nanda 校註09-07〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap09.pdf>`__ ，九～十二、善覺王阻擋佛陀的去路 (偈 128)。
+.. [NandFn09-05] 〔Nanda 校註09-05〕 請參 126 典故－－ `珠寶商與諦舍長老 <{filename}../dhp-story/dhp-story126%zh.rst>`__ ；或《法句經故事集》，九～十、 `首飾工匠毆打無辜的比丘 <{filename}../dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-126>`__ (偈 126)。
+
+.. [NandFn09-06] 〔Nanda 校註09-06〕 請參《法句經故事集》，九～十一、 `惡報無法逃避 <{filename}../dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-127>`__ (偈 127)。
+
+.. [NandFn09-07] 〔Nanda 校註09-07〕 請參《法句經故事集》，九～十二、 `善覺王阻擋佛陀的去路 <{filename}../dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-128>`__ (偈 128)。
+
 
 .. [LChnFn10-01] 〔註10-01〕  「刀杖」（Danda）亦可譯為「刑罰」。 
 
@@ -38310,31 +38502,31 @@
 
 .. [MettFn10-03] 〔明法尊者註10-03〕 在竹林精舍，17位(為一群的)比丘正在清掃住處，準備住下，剛來的較年長的六位比丘也想住下，但被17位比丘拒絕，因此被六比丘打到大哭。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～一、為了塔而爭吵的比丘 (偈 129)。
+                  PS: 請參《法句經故事集》，十～一、 `為了塔而爭吵的比丘 <{filename}../dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp-129>`__  (偈 129)。
 
 .. [MettFn10-04] 〔明法尊者註10-04〕 在竹林精舍，17位(為一群的)比丘正在清掃住處，準備住下，剛來較年長的六位比丘也想住下，雙方有衝突，六位比丘舉手作示威狀，佛陀制定比丘不可以舉手作示威狀。129-130偈的因緣記錄在《律藏》Vin.Pāci.IV,146~7. Bhikkhu Pāci.74.(=Bhikkhunī P 152)；Bhikkhu Pāci.75.(=Bhikkhunī P 153)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～二、比丘爭吵 (偈 130)。
+                  PS: 請參《法句經故事集》，十～二、 `比丘爭吵 <{filename}../dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp-130>`__ (偈 130)。
 
 .. [MettFn10-05] 〔明法尊者註10-05〕 有一次，佛陀到舍衛城托缽途中，遇見幾位年輕人用棍子打鼠蛇(gharasappajātika；Ptyas)。佛陀問︰「你們在做什麼？」他們說︰「我們在打蛇。」佛陀問︰「為什麼？」他們說︰「大德！我們怕被蛇咬。」「你們自己想要幸福，但是這種打殺的行為，無論投生到何處，你們都不會得到幸福；如果自己熱望幸福，就不應該打殺別人。」佛陀接著說出此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～三、鞭打蛇的年輕人 (偈 131~132)。
+                  PS: 請參《法句經故事集》，十～三、 `鞭打蛇的年輕人 <{filename}../dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp-131>`__  (偈 131~132)。
 
 .. [MettFn10-06] 〔明法尊者註10-06〕 君達達那長老(Koṇḍadhānatthera)出家以來，身旁總是跟著一個女子幻像，但他自己卻看不見。佛陀跟他：「過去世時，你是個天神，當時，你卻喬裝成為女子，故意作弄兩位要好的比丘，跟隨其中的一位，造成他們的誤會。犯下這惡業，今生才會有女子的幻像的果報。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～四、君達那比丘與女子幻像 (偈 133~134)。
+                  PS: 請參《法句經故事集》，十～四、 `君達那比丘與女子幻像 <{filename}../dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp-133>`__ (偈 133~134)。
 
 .. [MettFn10-07] 〔明法尊者註10-07〕 佛陀對毘舍佉及參加布薩的女人說：「毘舍佉！有情一旦出生，等於手中有杖者、牧牛者(等，身份)，接近生、老，接近老、病，接近病、死，(最後)死亡的召喚，如斧斬，斬命；雖然這樣人們仍然留戀輪迴，渴望輪迴。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～五、祈福的女性 (偈 135)。
+                  PS: 請參《法句經故事集》，十～五、 `祈福的女性 <{filename}../dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp-135>`__  (偈 135)。
 
 .. [MettFn10-08] 〔明法尊者註10-08〕 大目犍連尊者與勒叉那尊者下山時，大目犍連尊者見到一隻人面蛇身的 餓鬼，大目犍連尊者微笑。這餓鬼在迦葉佛時為殘酷的小偷，他多次放火燒毀迦葉佛的精舍。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～六、惡有惡報 (偈 136)。
+                  PS: 請參《法句經故事集》，十～六、 `惡有惡報 <{filename}../dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp-136>`__ (偈 136) 。
 
 .. [MettFn10-09] 〔明法尊者註10-09〕 137-140偈為大目犍連尊者為人所害的故事。他已被打殺，未般涅槃前還運用神通出現在佛陀的面前，向佛陀告別。他被殺是因為他過去世曾曾受妻子的慫恿而有殺瞎眼父母之舉，因有未遂之業，此生還在償舊業。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～七、大目犍連尊者死得不是時候 (偈 137~140)。
+                  PS: 請參《法句經故事集》，十～七、 `大目犍連尊者死得不是時候 <{filename}../dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp-137>`__ (偈 137~140)。
 
                   另，偈頌 137~140 可參:原始佛典選譯(顧法嚴)(慧炬) p.121_127
 
@@ -38342,19 +38534,23 @@
 
 .. [MettFn10-11] 〔明法尊者註10-11〕 從前在舍衛城中有一位富翁巴富斑迪卡(Bahubhaṇḍika)，他的太太去世後，他決定出家，出家前他先蓋精舍，出家後儲存食物，請僕人煮飯，養尊處優。當佛陀告誡他，他卻發脾氣，就把袈裟脫掉。佛陀又告誡他這樣做就失去慚愧心，他明白自己錯了，並且請求原諒。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～八、富有的比丘 (偈 141)。
+                  PS: 請參《法句經故事集》，十～八、 `富有的比丘 <{filename}../dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp-141>`__ (偈 141)。
 
 .. [MettFn10-12] 〔明法尊者註10-12〕 **婆羅門、沙門、比丘** 都是指阿羅漢。本偈說山達迪大臣(Santatimahāmatta)聽完佛陀說法後，就證得阿羅漢果。但不久就入滅了。當時他還穿著在家人的衣服。諸比丘問佛陀：「他究竟是比丘呢？還是婆羅門？」「他既可稱之為比丘，也可以稱為婆羅門。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～九、證涅槃的優婆塞 (偈 142)。
+                  PS: 請參《法句經故事集》，十～九、 `證涅槃的優婆塞 <{filename}../dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp-142>`__ (偈 142)。
 
 .. [MettFn10-13] 〔明法尊者註10-13〕 **明行足** ：sampannavijjācaraṇā。明：vijjā，智慧；行：caraṇā，德行(戒律)。 具足智慧與德行。
 
-.. [MettFn10-14] 〔明法尊者註10-14〕 阿難尊者見到卑盧帝沙(Pilotikatissa)舊衣服乞討食物，就問他是否願意出 家。他馬上答應了，他就把舊衣服放在一棵樹下，就去出家。出家後，他對比丘的生活不滿，想還俗。每次生起這種念頭的時候，他就到那棵樹下去，並且譴責自己：「不知羞恥！你還想還俗，穿舊衣，拿這盤子去過乞討生活啊！」這樣自責之後，他的不滿就消失了。其他比丘問他為什麼經常到那棵樹下？他告訴他們：「我去親近我的老師(ācariya)。」後來，他觀察舊衣服，清楚五蘊的真相，而證得阿羅漢果，之後，他就不再去那棵樹下了。其他比丘問他：「你現在怎麼不再去找你的老師了呢？」他回答說：「我以前去找老師，是因為有需要，但現在已經不需要了！」眾比丘就去問佛陀，佛陀告訴他們：「卑盧帝沙已經證得阿羅漢果了。」本則故事跟379-380偈的犁家長老(Naṅgalakulatthera)的 `故事-- 二十五～十、執著於老舊的衣服 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__ 雷同。
+.. [MettFn10-14] 〔明法尊者註10-14〕 阿難尊者見到卑盧帝沙(Pilotikatissa)舊衣服乞討食物，就問他是否願意出 家。他馬上答應了，他就把舊衣服放在一棵樹下，就去出家。出家後，他對比丘的生活不滿，想還俗。每次生起這種念頭的時候，他就到那棵樹下去，並且譴責自己：「不知羞恥！你還想還俗，穿舊衣，拿這盤子去過乞討生活啊！」這樣自責之後，他的不滿就消失了。其他比丘問他為什麼經常到那棵樹下？他告訴他們：「我去親近我的老師(ācariya)。」後來，他觀察舊衣服，清楚五蘊的真相，而證得阿羅漢果，之後，他就不再去那棵樹下了。其他比丘問他：「你現在怎麼不再去找你的老師了呢？」他回答說：「我以前去找老師，是因為有需要，但現在已經不需要了！」眾比丘就去問佛陀，佛陀告訴他們：「卑盧帝沙已經證得阿羅漢果了。」本則故事跟379-380偈的犁家長老(Naṅgalakulatthera)的故事-- 二十五～十、 `執著於老舊的衣服 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-379>`__ 雷同。
 
                       (cf. S.1.18./i.7) (《雜阿含578經》、《別譯雜阿含163經》) 
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～十、年輕比丘和破舊的衣服 (偈 143~144)。
+                  PS: 請參《法句經故事集》，十～十、 `年輕比丘和破舊的衣服 <{filename}../dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp-143>`__ (偈 143~144)。
+
+.. [dhp-a-130-note] 請參考故事「 `為了塔而爭吵的比丘 <#dhp_129>`_ 」Dhp. 129
+
+.. [dhp-a-137-note] 指阿羅漢。
 
 .. [NāradaFn10-01] (Ven. Nārada 10-01) Na haneyya na ghātaye = na pahareyya na paharāpeyya (Commentary).
 
@@ -38416,9 +38612,9 @@
 
 .. [ThaniSFn-V143] (Ven. Thanissaro V.143) Some translators have proposed that the verb apabodheti, here translated as "awakens" should be changed to appam bodheti, "to think little of." This, however, goes against the sense of the verse and of a recurrent image in the Canon, that the better-bred the horse, the more sensitive it is even to the idea of the whip, to say nothing of the whip itself. See, for example, A 4.113.
 
-                   The question raised in this verse is answered in SN 1.18:
-
-                   ::
+                     The question raised in this verse is answered in SN 1.18:
+                     
+                     ::
 
                       Those restrained by conscience
                        are rare —
@@ -38535,7 +38731,12 @@
 
                   He then asked permission from Sāriputta, returned to the monastery and diligently practiced. He was about to attain Arahantship, when Sāriputta returned and was going towards the novice's hut. The Buddha saw this and he also saw that the novice was just about to attain the goal, so he met Sāriputta outside and prevented him from going to the novice's hut by asking him various questions. The novice indeed attained Arahantship very soon and the Buddha explained that the reason, why he kept Sāriputta outside, was to enable the young novice to attain his goal without being interrupted.
 
-.. [NandFn10-01] 〔Nanda 校註10-01〕 請參照： `第六、智者品 偈頌 80 <{filename}dhp-contrast-reading-chap06%zh.rst#dhp080>`__ (詳參：《法句經》的「校讀」與「誤譯」，蘇錦坤，待出版, 2016)；另可參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__  ，十～十一、殊卡沙彌 (偈 145)。 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
+.. [NandFn10-01] 〔Nanda 校註10-01〕 請參照： `第六、智者品 偈頌 80 <{filename}dhp-contrast-reading-chap06%zh.rst#dhp080>`__ (詳參：《法句經》的「校讀」與「誤譯」，蘇錦坤，待出版, 2016)；另可參《法句經故事集》，十～十一、 `殊卡沙彌 <{filename}../dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp->`__ (偈 145)。
+
 
 .. [LChnFn11-01] 〔註11-01〕  「燃燒」（Pajjalita）亦可譯為火燄。註釋謂世界有十一種火常在燃燒。即：貪（raga），瞋（dosa），癡（moha），病（vyadhi），老（jara），死（marana），愁（soka），悲（parideva），苦（dukkha），憂（domanasa），惱（upayasa）。
 
@@ -38587,7 +38788,7 @@
 
 .. [MettFn11-07] 〔明法尊者註11-07〕 本偈是佛陀度化難陀的未婚妻嘉娜帕達卡婭妮公主 (Janapadakalyāṇī佛陀姨母的女兒) 的故事，公主後來出家成為色難陀長老尼(Rūpanandātherī)。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～五、觀美色無常而證阿羅漢果 (偈 150)。
+                  PS: 請參《法句經故事集》，十一～五、 `觀美色無常而證阿羅漢果 <{filename}../dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-150>`__  (偈 150)。
 
 .. [MettFn11-08] 〔明法尊者註11-08〕 **善人法** ：satañca dhammo，指聖者的教法。
 
@@ -38605,7 +38806,36 @@
 
                   cf.《雜阿含1162經》、《別譯雜阿含85經》。 《大毘婆沙論》卷102(T27.660.2)作：「少不修梵行，喪失聖財寶，今如二老鶴，共守一枯池。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～九、摩訶達拿散盡家財 (偈 155~156)。
+                  PS: 請參《法句經故事集》，十一～九、 `摩訶達拿散盡家財 <{filename}../dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-155>`__  (偈 155~156) 。
+
+.. [dhp-a-147-note] Nanda 補註：果儒法師改為：「請好好觀察這外表美麗的色身，實際上是一身的污穢，一堆骨頭，疾病、貪念不斷，一切皆無常。」( `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ ) 
+
+                    パーリ語辞典 水野弘元著：aru：n．，aruka m．[Sk．aruḥ] 傷，瘡．-kāya 瘡身，穢身．
+
+                    《巴漢詞典》Mahāñāṇo Bhikkhu編著：Aru，【中】 Arukā，【陰】 舊傷口，痛處。 ~kāya，【陽】 許多痛處。
+
+                    《巴漢詞典》明法尊者增訂：Aru，【中】arukā，【陰】舊傷口，痛處。arukāya，【陽】許多痛處。arupakka，【形】腐爛的痛處。
+
+.. [dhp-a-149-note] | 屍首有十種相： 
+                    | １．膨脹相 ２．青瘀相 ３．膿爛相 ４．斷壞相 ５．食殘相 ６．散亂相 ７．斬斫離散相 ８．血塗相 ９．蟲聚相 １０．骸骨相 佛世時，以上十種相的屍首可以在墓地和停屍間找到，在這些地方的屍首都尚未掩埋或火化，所以野獸和鳥類經常來噉食。現在當然無法找到這些屍首，做為觀想的對象。
+
+.. [dhp-a-150-note] 「虛偽」古譯為覆。
+
+.. [dhp-a-151-note] 如佛陀等。
+
+.. [dhp-a-151-note2] 九種殊勝：四向，四果和涅槃。
+
+                     （ Nanda 補註：「而善法永不衰老，聖者如是說。」一句，〝佛陀教育基金會〞另改譯為「 `但聖者之間，流傳著不衰老的九種殊勝 <http://www.budaedu.org/story/dp151.php>`__ 。」 ）
+
+.. [dhp-a-151-note3] 根據阿毗達摩（論）哲學，在死亡的關鍵時刻，瀕臨死亡的人會看見業、業相和趣向，這些會決定下一生的去處。 
+
+                     (1) 業：代表人一生的某些善惡業或臨終前的善惡業。 
+
+                     (2) 業相：代表在人一生重要的活動時，具有主宰力量的精神形像，可能是任何影像，聲音，嗅覺，味道，觸和意念。以屠夫而言，這種業相可能是屠刀或垂死的動物形像，而對醫生而言，可能是病人的形像，至於對信徒而言，可能是所崇拜的對象。 
+
+                     (3) 趣向：代表來世出生地方的形像。這種趣向經常向臨死的人顯現，並且展現來世究竟是喜悅或悲慘。如果是悲慘的話，有時候也可以經由影響臨終者的念頭而加以改善。這種趣向可能是火、森林、山區、母親的子宮或天界的華屋等等。
+
+.. [dhp-a-153-note] 指生死輪迴的原因。
 
 .. [NāradaFn11-01] (Ven. Nārada 11-01) This world is perpetually consumed with the flames of passions. It is completely surrounded by the veil of ignorance. Being placed in such a world, the wise should try to seek the light of wisdom.
 
@@ -38707,23 +38937,28 @@
 
                   If we want to accomplish something in our lives, we have to start working early, in the young age. Be it material or spiritual goals, we should not waste our time and diligently learn the necessary skills and then apply them on the road to the goal we want to achieve. If we do nothing in our young age, all the opportunities will be lost and we will grow old, without ever accomplishing anything.
 
-.. [NandFn11-01] 〔Nanda 校註11-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～一、毘舍佉和喝醉酒的同伴 (偈 146)。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. [NandFn11-02] 〔Nanda 校註11-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～二、佛陀拍賣絲蕊瑪的屍首 (偈 147)。
+**校註：**
 
-.. [NandFn11-03] 〔Nanda 校註11-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～三、佛陀安慰年老的比丘尼 (偈 148)。
+.. [NandFn11-01] 〔Nanda 校註11-01〕 請參《法句經故事集》，十一～一、 `毘舍佉和喝醉酒的同伴 <{filename}../dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-146>`__ (偈 146) 。
 
-.. [NandFn11-04] 〔Nanda 校註11-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～四、過度自信的比丘 (偈 149)。
+.. [NandFn11-02] 〔Nanda 校註11-02〕 請參《法句經故事集》，十一～二、 `佛陀拍賣絲蕊瑪的屍首 <{filename}../dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-147>`__ (偈 147) 。
 
-.. [NandFn11-05] 〔Nanda 校註11-05〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～六、念念不忘小過的末利皇后 (偈 151)。
+.. [NandFn11-03] 〔Nanda 校註11-03〕 請參《法句經故事集》，十一～三、 `佛陀安慰年老的比丘尼 <{filename}../dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-148>`__ (偈 148) 。
 
-.. [NandFn11-06] 〔Nanda 校註11-06〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～七、總是說錯話的比丘 (偈 152)。
+.. [NandFn11-04] 〔Nanda 校註11-04〕 請參《法句經故事集》，十一～四、 `過度自信的比丘 <{filename}../dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-149>`__ (偈 149) 。
 
-.. [NandFn11-07] 〔Nanda 校註11-07〕 請參 `153-54 研讀 <{filename}../dhp-study153-4%zh.rst>`__ 。 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap11.pdf>`__  ，十一～八、佛陀的讚美詞 (偈 153~154)。 
+.. [NandFn11-05] 〔Nanda 校註11-05〕 請參《法句經故事集》，十一～六、 `念念不忘小過的末利皇后 <{filename}../dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-151>`__ (偈 151) 。
+
+.. [NandFn11-06] 〔Nanda 校註11-06〕 請參《法句經故事集》，十一～七、 `總是說錯話的比丘 <{filename}../dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-152>`__ (偈 152) 。
+
+.. [NandFn11-07] 〔Nanda 校註11-07〕 請參 `153-54 研讀 <{filename}../dhp-study153-4%zh.rst>`__ 。及《法句經故事集》，十一～八、 `佛陀的讚美詞 <{filename}../dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-153>`__ (偈 153~154) 。 
 
 .. [NandFn11-08] 〔校註11-08〕 法雨道場( 明法 法師)出版之修訂版，建議改"棟樑亦摧折"
 
                      說明：實無需要；蓋，樑乃「梁」之異體字也。
+
 
 .. [LChnFn12-01] 〔註12-01〕  通常說三時為初夜分，中夜分及後夜分。這裡是指人生的三時--青年、中年、老年。吾等在青年時代應該努力學習，中年時代則需教學弘法修禪定等；如果前二時中未能適時工作，則在老年時代必須覺悟，加緊修學。否則虛度人生，自受苦痛了。
 
@@ -38743,7 +38978,7 @@
 
 .. [MettFn12-02] 〔明法尊者註12-02〕 菩提羅迦王子(Bodhirājakumāra)建了一座王宮，落成典禮時，他邀請佛陀前來祝福，並接受他的供養。他就在餐廳的地板上舖設長的地毯，並暗中許願，如果他們夫妻終究有子息，就請佛陀踏上地毯。當佛陀抵達時，佛陀卻駐足，不踏上地毯，王子就叫人把地毯收起來。佛陀告訴王子，他們夫婦今生不會有兒子，是因為過去世所造惡業的影響。在過去某一世時，王子夫婦是一次船難的生還者，他們被沖上一座荒島，只能吃鳥和鳥蛋為生，連幼鳥也不放過。因為這些惡業，他們今生不可能有子息。如果當時有悔意，他們今生就會有孩子了。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～一、沒有子息的王子 (偈 157)。
+                  PS: 請參《法句經故事集》，十二～一、 `沒有子息的王子 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__ (偈 157)。
 
 .. [MettFn12-03] 〔明法尊者註12-03〕 修行者要依怙自己的經驗、判斷，依怙正法來達到解脫。
 
@@ -38751,13 +38986,13 @@
 
 .. [MettFn12-05] 〔明法尊者註12-05〕 住在王舍城的摩訶迦羅(Mahākāla)是須陀洹果的優婆塞，他到祇樹給孤獨園去參加齋戒，天快要亮了，他到精舍附近的池塘去洗臉，小偷把贓物丟在他的面前就逃逸，追趕的人把他當作小偷打死。這些比丘知情後，就回精舍向佛陀報告，佛陀回答他們：「他是在償還過去某一世的惡業。那時候，他愛上一位有夫之婦，而把婦人的丈夫打死。因此，惡有惡報，甚至使人墮落地獄。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～五、死得不是時候的信徒 (偈 161)。
+                  PS: 請參《法句經故事集》，十二～五、 `死得不是時候的信徒 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__ (偈 161)。
 
 .. [MettFn12-06] 〔明法尊者註12-06〕 **蔓蘿(梵)** ：maluva，籐類。裟羅樹被此籐纏住將枯死。
 
 .. [MettFn12-07] 〔明法尊者註12-07〕 有一天，提婆達多跟佛陀說，他日漸衰老，建議他把僧團領導的責任移交給他。佛陀拒絕他。從此以後，他內心痛苦，也企圖殺害佛陀，但都失敗了。後來，他改採其它手段：建議所有的比丘，在一生之中都要遵守以下五條戒律(Vin.Cv.II,197.)：(1)(比丘)應該盡形壽住曠野(阿蘭若)，若到村落就犯罪。(2)應該盡形壽乞食，若受邀請食就犯罪。(3)應該盡形壽著糞掃衣，若受居士衣就犯罪。(4)應該盡形壽樹下住，若住屋就犯罪。(2)應該盡形壽不吃魚肉，若吃魚肉就犯罪。提婆達兜承認他所以提議增設五條戒律是要分裂僧伽。佛陀說：「提婆達兜如此分裂僧團，是非常嚴重的惡行，他將來會為這邪惡的企圖受苦難。」提婆達兜終於率領一群比丘到象頂山。後來，舍利弗尊者和大目犍連尊者前去勸誡跟隨他前去的比丘，其中很多比丘也知過悔改，回來依止佛陀。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～七、僧團不和的故事 (偈 163)。
+                  PS: 請參《法句經故事集》，十二～七、 `僧團不和的故事 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__ (偈 163)。
 
 .. [MettFn12-08] 〔明法尊者註12-08〕 **格他格草** ：katthaka，蘆葦類，結實則死。
 
@@ -38766,7 +39001,16 @@
 
 .. [MettFn12-10] 〔明法尊者註12-10〕 佛陀宣告︰「四個月後即將般涅槃。」七百位凡夫比丘(puthujjanā bhikkhū)生起悚懼心，來親近佛陀，共商︰「我們該怎麼辦？」有位自利長老(Attadatthatthero阿塔達塔)依然保持正常的作息，不來佛陀的身邊。其他比丘誤解他的心意，便向佛陀報告。自利長老於是恭敬地向佛陀解釋，他對佛陀最崇敬的就是在佛陀般涅槃之前，證得阿羅漢果。佛陀讚歎他：「做得好！尊敬我的比丘，應該像你一樣。只有真正法隨法行(dhammānudhammaṁ paṭipajjantāyeva)的人才是真正尊敬我的人。」(與364偈的 `故事--二十五～四、尊重佛陀的方法 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__ 同)。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～十、精進的比丘 (偈 166)。
+                  PS: 請參《法句經故事集》，十二～十、 `精進的比丘 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__ (偈 166)。
+
+.. [dhp-a-157-note] 指人生的青年，中年和老年三階段。
+
+.. [dhp-a-162-note] | **「蔓蘿草」** 為藤屬植物。娑羅樹若為蔓蘿草所纏，便會枯死。 
+                    | **「娑羅樹」** 為材質甚堅的喬木，供建築用；亦傳為過去七佛中毘舍浮佛的道場樹。長阿含經：「毘舍浮佛坐娑羅樹下，成最正覺。」
+
+.. [dhp-a-162-note2] 〝佛陀教育基金會〞另改譯為「 `糾纏娑羅樹而使之枯死 <http://www.budaedu.org/story/dp162.php>`__ 。
+
+.. [dhp-a-164-note] 「格他格竹」指蘆葦一類的植物，結實則亡。
 
 .. [NāradaFn12-01] (Ven. Nārada 12-01) According to Buddhism there is no permanent soul or unchanging entity (atta) either created by a God or emanating from a Paramātma. Here the term atta (self) is applied to the whole body, or one's personality, or mind, or life flux.
 
@@ -38850,17 +39094,22 @@
 
                   The Buddha approved of this and replied with this verse, saying that in spiritual attainment, one should diligently strive to reach the goal oneself and only then do other things.
 
-.. [NandFn12-01] 〔Nanda 校註12-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～二、貪婪的比丘 (偈 158)。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. [NandFn12-02] 〔Nanda 校註12-02〕 請參 `159 典故 <{filename}../dhp-story/dhp-story159%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～三、不奉行佛法的弘法比丘 (偈 159)。
+**校註：**
 
-.. [NandFn12-03] 〔Nanda 校註12-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～四、比丘尼的兒子 (偈 160)。
+.. [NandFn12-01] 〔Nanda 校註12-01〕 請參《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～二、貪婪的比丘 (偈 158)。
 
-.. [NandFn12-04] 〔Nanda 校註12-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～六、提婆達多的故事 (偈 162)。
+.. [NandFn12-02] 〔Nanda 校註12-02〕 請參 159 典故－－ `柏達尼格笛撒尊者的故事 <{filename}../dhp-story/dhp-story159%zh.rst>`__ ；或《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～三、不奉行佛法的弘法比丘 (偈 159)。
 
-.. [NandFn12-05] 〔Nanda 校註12-05〕 請參 `164 典故 <{filename}../dhp-story/dhp-story164%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～八、嫉妒的比丘 (偈 164)。
+.. [NandFn12-03] 〔Nanda 校註12-03〕 請參《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～四、比丘尼的兒子 (偈 160)。
 
-.. [NandFn12-06] 〔Nanda 校註12-06〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__  ，十二～九、受妓女保護的信徒 (偈 165)。
+.. [NandFn12-04] 〔Nanda 校註12-04〕 請參《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～六、提婆達多的故事 (偈 162)。
+
+.. [NandFn12-05] 〔Nanda 校註12-05〕 請參 164 典故－－ `惡慧邪見的黑比丘 <{filename}../dhp-story/dhp-story164%zh.rst>`__ ；或《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～八、嫉妒的比丘 (偈 164)。
+
+.. [NandFn12-06] 〔Nanda 校註12-06〕 請參《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～九、受妓女保護的信徒 (偈 165)。
+
 
 .. [LChnFn13-01] 〔註13-01〕  錫蘭註釋家說是輪迴。
 
@@ -38890,19 +39139,19 @@
 
 .. [MettFn13-03] 〔明法尊者註13-03〕 有五百位修觀的比丘(pañcasate vipassake bhikkhū)到阿蘭若去禪修。但進展緩慢，他們決定回精舍向佛陀請示，途中，他們遇見了海市蜃樓(遠處景象透過空中折射產生的幻影)，就以這種業處作觀。當他們抵達精舍時，突然暴雨，大雨滴打在地上，形成水泡，很快就消失。他們因此如是思惟：「我們的身體就像這些水泡，終究會毀壞。」而察覺到五蘊無常。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～三、觀想海市蜃樓 (偈 170)。
+                  PS: 請參《法句經故事集》，十三～三、 `觀想海市蜃樓 <{filename}../dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-170>`__  (偈 170)。
 
 .. [MettFn13-04] 〔明法尊者註13-04〕 無畏王子(Abhayarājakumāra)弭平邊疆叛亂，回宮後，頻婆沙羅王(Bimbisāra)很高興，特派擅長歌舞的舞女犒勞七天，讓他享受國王般的待遇，在第七天，舞女暴斃，王子很傷心，他尋求佛陀的慰藉，佛陀說此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～四、佛陀安慰悲傷的王子 (偈 171)。
+                  PS: 請參《法句經故事集》，十三～四、 `佛陀安慰悲傷的王子 <{filename}../dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-171>`__  (偈 171)。
 
 .. [MettFn13-05] 〔明法尊者註13-05〕 正人長老(Sammajjanatthera沙嗎迦那)大部分的時間都在掃地，同住比丘建議他撥空觀身、觀生命實相、誦經等，他接受建議，不久即證得阿羅漢果。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～五、手執掃帚的比丘 (偈 172)。
+                  PS: 請參《法句經故事集》，十三～五、 `手執掃帚的比丘 <{filename}../dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-172>`__  (偈 172)。
 
 .. [MettFn13-06] 〔明法尊者註13-06〕 (cp. Dhp 172) (cf. M ii 104); 本則為佛陀為鴦掘摩羅長老(Aṅgulimālatthera)而說的。鴦掘摩羅原為殺人魔王，後來被佛陀降伏，出家，證得阿羅漢果。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～六、證聖果的殺人兇手 (偈 173)。
+                  PS: 請參《法句經故事集》，十三～六、 `證聖果的殺人兇手 <{filename}../dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-173>`__  (偈 173)。
 
 .. [MettFn13-07] 〔明法尊者註13-07〕 **太陽道** ：太陽行走的道路，即虛空。
 
@@ -38910,15 +39159,21 @@
 
 .. [MettFn13-09] 〔明法尊者註13-09〕 約有三十位比丘來會見佛陀，阿難尊者轉身出去一下，再進來，他們都不見了，阿難尊者問︰「他們去哪裡？」「阿難！走了。」「大德！怎麼走的？」「阿難！從天空走。」「他們是漏盡者？」「他們聽法之後證得阿羅漢果。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～八、三十位比丘突然消失 (偈 175)。
+                  PS: 請參《法句經故事集》，十三～八、 `三十位比丘突然消失 <{filename}../dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-175>`__  (偈 175)。
 
 .. [MettFn13-10] 〔明法尊者註13-10〕 **一乘法** ：ekaṁ dhammaṁ(一法)，是指真理(saccaṁ諦)。
 
 .. [MettFn13-11] 〔明法尊者註13-11〕 在舍衛城，信佛法者日增，信外道者日減。於是外道就慫恿一位美麗的女信徒辛迦摩娜薇卡(Ciñcamāṇavikā)假裝跟佛陀懷孕，並要佛陀當眾出醜。正在聚眾說法的場面，她出面指責佛陀，但是正當此時，綁在她的腰部的繩子斷了，她的技倆就被拆穿了。大眾中很多人譴責她。這時候，她擔心自己的安危，趕快逃跑。但跑不了多遠，就不幸發生意外而慘死。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～九、辛迦摩娜薇卡誣告佛陀 (偈 176)。
+                  PS: 請參《法句經故事集》，十三～九、 `辛迦摩娜薇卡誣告佛陀 <{filename}../dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-176>`__ (偈 176)。
 
 .. [MettFn13-12] 〔明法尊者註13-12〕 **預流果** ：sotapattiphalaṁ，即初果、須陀洹果，證悟預流果即入聖人的行  列，它斷除了三結──身見(我見，以為有永恆不變的我)、疑(懷疑因果、緣起、佛.法.僧)、戒禁取見(邪因以為正因，邪道以為正道)。
+
+.. [dhp-a-167-note2] 「不可貪婪世間物」，〝佛陀教育基金會〞改譯為「 `不可貪戀世間物 <http://www.budaedu.org/story/dp167.php>`__ 」； 果儒法師則改為：「不可貪圖世間物」( `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ )。 `巴利註解 <{filename}../dhA/dhA-chap13%zh.rst#dhp167>`__ ： na siyā lokavaddhano 不要成為世間增長者。如上述（卑劣法、放逸、邪見）而造作者，稱為令世間(輪迴)增長者，因此，不要如此作。
+
+.. [dhp-a-175-note] 透過修行，人可以橫越天空、凌水而過，遁入地中等。這些能力是精神的、超越自然的，但絕不是奇蹟。 
+
+.. [dhp-a-175-note2] 阿羅漢證得般涅盤，不再輪迴。
 
 .. [NāradaFn13-01] (Ven. Nārada 13-01) That is, sensual pleasures.
 
@@ -39066,19 +39321,24 @@
 
                   In the morning of that day, he accompanied the Buddha and some monks to his father's house for the almsgiving. When his father offered him the money he earned, Kāla refused. The Buddha then explained that since Kāla attained the first level of Awakenment, he was on longer interested in the money. He further added this verse, saying that Entering the Stream was the best thing one could attain, far better than any worldly power or even attainment of a rebirth in heavens.
 
+~~~~~~~~~~~~~~~~~
+
+**校註：**
+
 .. [NandFn13-01] 〔校註13-01〕 能得見者少
 
                      說明：參考法雨道場( 明法 法師)出版之修訂版，依巴、英及語體本更正。
 
-.. [NandFn13-02] 〔Nanda 校註13-02〕 請參 `167 典故 <{filename}../dhp-story/dhp-story167%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～一、與少女爭吵的比丘 (偈 167)。
+.. [NandFn13-02] 〔Nanda 校註13-02〕 請參 167 典故－－ `聞偈證果的年輕比丘 <{filename}../dhp-story/dhp-story167%zh.rst>`__ ；或《法句經故事集》，十三～一、 `與少女爭吵的比丘 <{filename}../dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-167>`__  (偈 167)。
 
-.. [NandFn13-03] 〔Nanda 校註13-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～二、佛陀返回迦毗羅衛城 (偈 168~169)。
+.. [NandFn13-03] 〔Nanda 校註13-03〕 請參《法句經故事集》，十三～二、 `佛陀返回迦毗羅衛城 <{filename}../dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-168>`__  (偈 168~169)。
 
-.. [NandFn13-04] 〔Nanda 校註13-04〕 請參 `174 典故 <{filename}../dhp-story/dhp-story174%zh.rst>`__ ；或  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～七、明白世間實相的紡織女 (偈 174)。
+.. [NandFn13-04] 〔Nanda 校註13-04〕 請參 174 典故－－ `優婆夷悲希卡樂的故事 <{filename}../dhp-story/dhp-story174%zh.rst>`__ ；或 《法句經故事集》，十三～七、 `明白世間實相的紡織女 <{filename}../dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-174>`__ (偈 174)。
 
-.. [NandFn13-05] 〔Nanda 校註13-05〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～十、供養比賽 (偈 177)。
+.. [NandFn13-05] 〔Nanda 校註13-05〕 請參《法句經故事集》，十三～十、 `供養比賽 <{filename}../dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-177>`__  (偈 177)。
 
-.. [NandFn13-06] 〔Nanda 校註13-06〕 請參 `178 典故 <{filename}../dhp-story/dhp-story178%zh.rst>`__ ；或  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__  ，十三～十一、給孤獨長者兒子的故事 (偈 178)。
+.. [NandFn13-06] 〔Nanda 校註13-06〕 請參 178 典故－－ `給孤獨長者和他的兒子 <{filename}../dhp-story/dhp-story178%zh.rst>`__ ；或 《法句經故事集》，十三～十一、 `給孤獨長者兒子的故事 <{filename}../dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-178>`__  (偈 178)。
+
 
 .. [LChnFn14-01] 〔註14-01〕  此二頌是佛陀對魔女說的。
 
@@ -39123,7 +39383,7 @@
 
 .. [MettFn14-04] 〔明法尊者註14-04〕 霍香葉龍王(Erakapatta伊羅鉢多)在迦葉佛時為一比丘，因後悔拔霍香葉，持戒不圓滿，死後投生為一條獨木舟大小的龍王。霍香葉龍王派美麗的女兒每半個月到人間唱歌跳舞，兼出問題，如果可以全部解答就可能娶她為妻。題目是︰「誰是主宰王？誰是染污王？怎樣評論離染？怎樣評論愚蠢？」一位年輕人正要走去回答問題。佛陀觀察他有證果的潛力，於是在中途攔下，告訴他正確答案︰「主宰六門者稱王。受染污者為染污王。無染者為離染。染者稱為愚蠢。」他當下就證初果。他對龍女的欲望也消失，不夠他仍然前往回答。龍王知道有佛陀已出世，就跟他去見佛陀。佛陀說此偈。(《佛本行集經》卷第三十七~八,T3.825.3 ff.；cf.《大比丘三千威儀》卷上,T24.913.2)
 
-                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～三、龍王和他的女兒 (偈 182)。
+                  PS: 請參《法句經故事集》，十四～三、 `龍王和他的女兒 <{filename}../dhp-story/dhp-story-han-chap14-ciu%zh.rst#dhp-182>`__  (偈 182)。
 
 .. [MettFn14-05] 〔明法尊者註14-05〕 Sabbapāpassa akaranaṁ, kusalassa upasampadā, sacittapariyodapanaṁ, etaṁ Buddhāna sāsanaṁ. 本偈一般流傳：「諸惡莫作，眾善奉行，自淨其意，是諸佛教。」原意是︰「一切惡不作，具足眾善，淨化自心，這是一切佛陀所教示的。」
 
@@ -39133,11 +39393,11 @@
 
 .. [MettFn14-08] 〔明法尊者註14-08〕 有一次，阿難尊者請教佛陀，過去七佛的父母、壽量、菩提、聲聞眾、上首聲聞眾、上首侍者、所有的講說、不說布薩、為什麼他們不說布薩？其他的佛陀又如何？佛陀回答說，所有諸佛的佛法都是一樣的，佛陀馬上背誦過去諸佛在說法時所開講的一些偈語。
 
-                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～四、佛陀的教誨 (偈 183~185)。
+                  PS: 請參《法句經故事集》，十四～四、 `佛陀的教誨 <{filename}../dhp-story/dhp-story-han-chap14-ciu%zh.rst#dhp-183>`__  (偈 183~185)。
 
 .. [MettFn14-09] 〔明法尊者註14-09〕  (Dhp. 186: cf. M i130); 一位比丘因父親過世，留遺產給他和弟弟，起初他說他不需要，後來，他想想如果有錢日子就好過，因此就悶悶不樂。佛陀就給他一些告誡。
 
-                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～五、不知足的年輕比丘 (偈 186~187)。
+                  PS: 請參《法句經故事集》，十四～五、 `不知足的年輕比丘 <{filename}../dhp-story/dhp-story-han-chap14-ciu%zh.rst#dhp-186>`__ (偈 186~187)。
 
 .. [MettFn14-10] 〔明法尊者註14-10〕 **樹支提** ︰樹塔廟，建廟於樹邊，祭樹神。凡夫因恐怖的緣故，去皈依山岳、森林、園林、樹塔廟。在台灣也有拜樹頭公。
 
@@ -39145,7 +39405,7 @@
 
 .. [MettFn14-12] 〔明法尊者註14-12〕 (Dhp. 192: cp. Dhp. 189); 火授婆羅門(Aggidattabrāhmaṇa)是摩訶憍薩羅王(Mahākosala)的國師，摩訶憍薩羅王是波斯匿王的父親。摩訶憍薩羅王逝世後，火授棄產，離家，成為苦行者。他住處附近有一隻兇猛的傘蛇(ahichatta)，火授向弟子說：「皈依山岳、森林、園林、樹，如此，你們就可以解除所有的痛苦。」有一天，佛陀跟大目犍連尊者就到火授的住處，借宿一夜。火授原本不答應，後來帶他們去傘蛇住的地方。這隻傘蛇被大目犍連尊者降伏。隔天，佛陀告誡火授：「只有依止佛法僧的人才能從世間苦解脫出來。」說法畢，火授和他的弟子們證得阿羅漢果，他們也都加入僧伽為比丘。
 
-                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～六、祀得皈依三寶 (偈 188~192)。
+                  PS: 請參《法句經故事集》，十四～六、 `祀得皈依三寶 <{filename}../dhp-story/dhp-story-han-chap14-ciu%zh.rst#dhp-188>`__  (偈 188~192)。
 
 .. [MettFn14-13] 〔明法尊者註14-13〕 **聖人** ︰purisājañño(purisa+jañña, 純粹的﹑貴族的)，優秀的人，指佛陀。
 
@@ -39153,15 +39413,21 @@
 
 .. [MettFn14-15] 〔明法尊者註14-15〕 有一天，阿難尊者想到一個問題：「佛陀告訴我們，純種的大象生長在參達塔種(Chaddantakule) 和優薩陀種(Uposathakule)，純種馬生長在信度種(Sindhavakule) 和哇拉卡沙王種 (Valāhakassarājakule)，純種牛生長在南方(dakkhiṇapathe)，但卻未提及最尊貴的人(purisājañño) 到底生長在何處？」於是，他就前去請教佛陀。佛陀說此偈。
 
-                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～七、最高貴的人 (偈 193)。
+                  PS: 請參《法句經故事集》，十四～七、 `最高貴的人 <{filename}../dhp-story/dhp-story-han-chap14-ciu%zh.rst#dhp-193>`__  (偈 193)。
 
 .. [MettFn14-16] 〔明法尊者註14-16〕 諸比丘討論「在世間的幸福是什麼？」(“kiṁ nu kho imasmiṁ loke sukhan”ti)，佛陀說此偈。
 
-                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～八、幸福是什麼 (偈 194)。
+                  PS: 請參《法句經故事集》，十四～八、 `幸福是什麼 <{filename}../dhp-story/dhp-story-han-chap14-ciu%zh.rst#dhp-194>`__  (偈 194)。
 
 .. [MettFn14-17] 〔明法尊者註14-17〕 一婆羅門在耕作，佛陀請他過來相見。婆羅門來的時候順便拜天祠，但他沒有禮敬佛陀。佛陀肯定他拜天祠是對的，婆羅門就心情愉快。佛陀運用神通，在空中示現迦葉佛的金色塔，又說造塔的事，再說偈頌。
 
-                  PS: 請參  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～九、尊敬值得尊敬的人 (偈 195~196)。
+                  PS: 請參《法句經故事集》，十四～九、 `尊敬值得尊敬的人 <{filename}../dhp-story/dhp-story-han-chap14-ciu%zh.rst#dhp-195>`__  (偈 195~196)。
+
+.. [dhp-a-181-note] 此處的禪定指的是止觀。
+
+.. [dhp-a-185-note] 「增上定」：八定。
+
+.. [dhp-a-188-note] Nanda 補註：原譯文為：「如山岳，森林，園苑，樹神和神舍。但這些都不是安隱的保護 ... 」，依前後文意改為「如山岳、森林、園苑、樹神和神社。但這些都不是安隱的保護 ... 」。果儒法師則改為：「如山嶽、森林、庭園、樹神和神社，但這些都不是安穩的保護 ... 」。( `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ ) 
 
 .. [NāradaFn14-01] (Ven. Nārada 14-01) As the Buddha had eradicated all passions of lust, hatred, and delusion they could not arise in Him any more. His spiritual victory was unconquerable.
 
@@ -39336,11 +39602,16 @@
 
                   It is important to pay respects to those who are most worthy of it. That means basically the Buddha and his followers. By paying our respects to them, we are able to gain the most merit. Paying respects to other people is also beneficial, but can never be as good as honoring the Buddha.
 
-.. [NandFn14-01] 〔Nanda 校註14-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～一、向佛陀求婚 (偈 179~180)。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. [NandFn14-02] 〔Nanda 校註14-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap14.pdf>`__  ，十四～二、佛陀從忉利天返回世間 (偈 181)。
+**校註：**
+
+.. [NandFn14-01] 〔Nanda 校註14-01〕 請參《法句經故事集》，十四～一、 `向佛陀求婚 <{filename}../dhp-story/dhp-story-han-chap14-ciu%zh.rst#dhp-179>`__  (偈 179~180)。
+
+.. [NandFn14-02] 〔Nanda 校註14-02〕 請參《法句經故事集》，十四～二、 `佛陀從忉利天返回世間 <{filename}../dhp-story/dhp-story-han-chap14-ciu%zh.rst#dhp-181>`__  (偈 181)。
 
 .. [NandFn14-03] 〔Nanda 校註14-03〕 請參 `183 研讀 <{filename}../dhp-study183%zh.rst>`__ 。
+
 
 .. [LChnFn15-01] 〔註15-01〕  日譯本為「安樂品」。
 
@@ -39372,7 +39643,7 @@
 
 .. [MettFn15-03] 〔明法尊者註15-03〕 釋迦族的迦毗羅衛城(Kapilavatthunagara)，和拘利族的拘利城(Koliyanagara)，兩個城市的農民都用赤牛河(Rohiṇī盧奚多河)水灌溉。有一年，發生大旱災，雙方為了爭水源，準備用武力解決。佛陀知道他在河兩岸的親戚們正準備戰爭，他決定加以阻止，就一個人單獨到河中的空地上盤腿而坐。諸親戚看見佛陀時，都把手上的武器放在一邊，向佛陀禮敬。佛陀說：「大王！為什麼要動干戈？」「大德！我們不知道。」「有誰知道？」「副王知道，將軍知道。」做十業道來問答之後，「大德！爭水。」「大王！水有價值嗎？」「大德！沒有價值。」「大王！眾剎帝利有價值嗎？」「大德！眾剎帝利無價的。」「不適當的。你們為了少量沒有價值的水，來殺戮無價的剎帝利。」他們就沉默下來。佛陀喊他們︰「你們為什麼要這樣做？今天，如果不是我在這裡的話，你們將會血流成河了。這樣做是不應該的。你們懷抱著五種怨(殺、盜、淫、妄、酒)，懷恨過日子，而我是沒有恨過日子；你們會不舒服過日子，而我舒服過日子；你們尋找五欲過日子，而我與世無爭過日子。」佛陀再說197-199偈頌。雙方聽完佛陀的勸誡後，避免一場流血戰爭。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～一、為水爭吵 (偈 197~199)。
+                  PS: 請參《法句經故事集》，十五～一、 `為水爭吵 <{filename}../dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp-197>`__ (偈 197~199)。
 
 .. [MettFn15-04] 〔明法尊者註15-04〕 **我等實樂生** ︰natthi kiñcanaṁ (無憂無慮)，是指無貪、無瞋及無痴。
 
@@ -39380,13 +39651,13 @@
 
 .. [MettFn15-06] 〔明法尊者註15-06〕 **光音天** ：devā ābhassarā (照明聲音的諸天)，屬於第三禪天。《相應部》S.4.18.、《雜阿含1095 經》說佛陀托空缽，佛陀回應魔波旬的話。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～二、天魔波旬影響村民，使他們反對佛陀。 (偈 200)。
+                  PS: 請參《法句經故事集》，十五～二、 `天魔波旬影響村民，使他們反對佛陀 <{filename}../dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp-200>`__ 。 (偈 200)。
 
 .. [MettFn15-07] 〔明法尊者註15-07〕 和靜︰upasanto「寂靜者」是指已斷除煩惱的人。
 
 .. [MettFn15-08] 〔明法尊者註15-08〕 憍薩羅國波斯匿王與摩揭陀國阿闍世王打戰，連續三次敗戰，他覺得︰「被年輕人打敗，沒面子、無能，不知如何活下去。」佛陀說此偈。cf. S.3.14./I,83; 《雜阿含1236經》，《別譯雜阿含63經》
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～三、勝利使人產生恨意 (偈 201)。
+                  PS: 請參《法句經故事集》，十五～三、 `勝利使人產生恨意 <{filename}../dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp-201>`__  (偈 201)。
 
 .. [MettFn15-09] 〔明法尊者註15-09〕 本句白話中譯：沒有像貪欲的火，沒有像瞋恨的惡，沒有像五蘊之苦，沒有喜樂勝過涅槃。
 
@@ -39396,11 +39667,21 @@
 
                   S.3.13./I,81作：「常具正念人，取食知其量；是人(苦)受少，衰緩壽得長。」《別譯雜阿含73經》︰「夫人常當自憶念，若得飲食應知量，身體輕便受苦少，正得消化護命長。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～六、飲食要節制 (偈 204)。
+                  PS: 請參《法句經故事集》，十五～六、 `飲食要節制 <{filename}../dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp->`__  (偈 204)。
 
 .. [MettFn15-12] 〔明法尊者註15-12〕 佛陀般涅槃前，在毗舍離附近的鞞羅柧村(Veḷuvagāmake)雨安居。那時候，他身染血痢(lohitapakkhandikābādha, 《諸病源候論》︰「血痢者，熱毒折受於血，血滲入大腸故也。」)。帝釋親自前來照顧佛陀，直到佛陀身體好轉。眾多比丘受到感動，佛陀說出此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～八、帝釋看護佛陀 (偈 206~208)。
+                  PS: 請參《法句經故事集》，十五～八、 `帝釋看護佛陀 <{filename}../dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp->`__  (偈 206~208)。
+
+.. [dhp-a-197-note] Nanda 補註：此偈頌，或改為：「眾生滿懷嗔恨，佛陀不嗔恨，   眾生滿懷嗔恨，佛陀住於無嗔。」（ `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ ，臺灣．果儒 法師）。
+
+.. [dhp-a-198-note] Nanda 補註：此偈頌，或改為：「眾生有種種煩惱痛苦，佛陀沒有煩惱痛苦，   眾生有種種煩惱痛苦，佛陀住於無煩惱痛苦。」（ `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ ，臺灣．果儒 法師）。
+
+.. [dhp-a-199-note] Nanda 補註：此偈頌，或改為：「眾生貪求欲樂，佛陀不貪求，   眾生貪求欲樂，佛陀住於無貪。」（ `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ ，臺灣．果儒 法師）。
+
+.. [dhp-a-200-note] Nanda 補註：此偈頌，〝佛陀教育基金會〞改譯為：「 `佛陀愉快安住，沒有種種煩惱障礙，如同光音天，佛陀以法喜為食。 <http://www.budaedu.org/story/dp200.php>`__ (偈 200)」；另或改譯為：「 `佛陀愉快安住，沒有貪嗔痴等煩惱障。如同光音天，佛陀以禪悅為食。 <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ 」（臺灣．果儒 法師）。
+
+.. [dhp-a-203-note] 一般的疾病只要有適當的藥就可以治癒，但飢餓卻要天天加以治療。
 
 .. [NāradaFn15-01] (Ven. Nārada 15-01) Free from the disease of passions.
 
@@ -39490,11 +39771,16 @@
 
                   As the moon follows and "associates with" the stars on the night sky, so should people who want to reach the highest goal follow and associate with only the best companions, who can teach one a lot on the way to the spiritual progress.
 
-.. [NandFn15-01] 〔Nanda 校註15-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～四、欲望之火 (偈 202)。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. [NandFn15-02] 〔Nanda 校註15-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～五、佛陀和一位飢餓的人 (偈 203)。
+**校註：**
 
-.. [NandFn15-03] 〔Nanda 校註15-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～七、尊敬佛陀的方法 (偈 205)。
+.. [NandFn15-01] 〔Nanda 校註15-01〕 請參《法句經故事集》，十五～四、 `欲望之火 <{filename}../dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp-202>`__  (偈 202)。
+
+.. [NandFn15-02] 〔Nanda 校註15-02〕 請參《法句經故事集》，十五～五、 `佛陀和一位飢餓的人 <{filename}../dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp-203>`__ (偈 203)。
+
+.. [NandFn15-03] 〔Nanda 校註15-03〕 請參《法句經故事集》，十五～七、尊敬佛陀的方法 <{filename}../dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp-205>`__ (偈 205)。
+
 
 .. [LChnFn16-01] 〔註16-01〕  比丘為欲樂所迷，放棄行道，過著俗人生活，後見修道成就者，卻空自羨慕。
 
@@ -39516,25 +39802,25 @@
 
 .. [MettFn16-02] 〔明法尊者註16-02〕 舍衛城一獨子，沒有得到父母許可就去出家。他的父母因為戀子而出家。他們都住在同一精舍。佛陀說偈告誡他們。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__  ，十六～一、執著防礙修行 (偈 209~211)。
+                  PS: 請參《法句經故事集》，十六～一、 `執著防礙修行 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-209>`__  (偈 209~211)。
 
 .. [MettFn16-03] 〔明法尊者註16-03〕 一位富翁喪子，過度傷心，到火葬場(āḷāhanaṁ)去哭，無法控制。佛陀說偈安慰他。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__  ，十六～二、佛陀安慰傷心的人 (偈 212)。
+                  PS: 請參《法句經故事集》，十六～二、 `佛陀安慰傷心的人 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-212>`__ (偈 212)。
 
 .. [MettFn16-04] 〔明法尊者註16-04〕 毘舍佉優婆夷(Visākhā)的孫女蘇達坦(Sudatta)死亡，佛陀說偈安慰她。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__  ，十六～三、佛陀安慰毘舍佉 (偈 213)。
+                  PS: 請參《法句經故事集》，十六～三、 `佛陀安慰毘舍佉 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-213>`__ (偈 213)。
 
 .. [MettFn16-05] 〔明法尊者註16-05〕 王舍城中某婆羅門，他是邪見者，某日他去河岸邊耕作，佛陀見到他知道他具有不久即可證果的潛能。婆羅門見到佛陀不尊崇，保持緘默。佛陀首先開口聊起來，之後，佛陀都主動跟他打招呼。這婆羅門十分友善，他也很感謝佛陀的關心。他向佛陀說：「等我田裏的稻米成熟後，我會在收成之後，先分一些給你，我不會在分給你之前，先吃這些米飯。從現在起，你是我的好朋友。」但佛陀預知他今年不可能有收成，所以不發一言。在收成的前一天，下大雨，毀掉他的稻米。婆羅門因為無法如願送佛陀米糧而難過。佛陀去找他，安慰他。佛陀說此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__  ，十六～六、憂愁緣自渴愛 (偈 216)。
+                  PS: 請參《法句經故事集》，十六～六、 `憂愁緣自渴愛 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-216>`__  (偈 216)。
 
 .. [MettFn16-06] 〔明法尊者註16-06〕 **法** ：四向、四果、涅槃。
 
 .. [MettFn16-07] 〔明法尊者註16-07〕 一個節慶，佛陀跟眾多比丘前往王舍城托缽。沿途，他們遇見幾位手上都提著糕餅籃子的孩子，他們向佛陀問訊，但卻沒有供養糕餅。佛陀告訴其他比丘等一等，在路邊樹下休息。這時候，迦葉尊者從後面趕來，這些孩子一見到迦葉尊者，馬上流露出高興的表情，他們向尊者問訊，並且供養糕餅。迦葉尊者對他們說：「我的老師──佛陀和眾多比丘就在樹下休息，去供養他們吧。」這些孩子就去供養佛陀。佛陀說：「比丘若像迦葉尊者一般，天人都會喜愛，也會得到四事供養。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__  ，十六～七、獲得很多籃子點心的迦葉尊者 (偈 217)。
+                  PS: 請參《法句經故事集》，十六～七、 `獲得很多籃子點心的迦葉尊者 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-217>`__  (偈 217)。
 
 .. [MettFn16-08] 〔明法尊者註16-08〕 **離言法** ：anakkhāte (於未宣布)。DhA.： **Anakkhāte**\ ti nibbāne.( **於未宣布** ： 於涅槃)。
 
@@ -39542,7 +39828,11 @@
 
 .. [MettFn16-10] 〔明法尊者註16-10〕 有一次，難提耶(Nandiyo)優婆塞聽佛陀說，蓋精舍給比丘住有大利益，於是他就在波羅奈仙人墮處概一間精舍獻給佛陀。大目犍連到忉利天時，見到天上有一間難提耶的天宮。《天宮事》(Vv.PTS:#862.)︰「在波羅奈，有名為難提耶的優婆塞，不慳貪，慷慨的施主。在人群如太陽輝耀，住在天宮者即此是此人。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__  ，十六～九、難提獲得往生天界的榮耀 (偈 219~220)。
+                  PS: 請參《法句經故事集》，十六～九、 `難提獲得往生天界的榮耀 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-219>`__  (偈 219~220)。
+
+.. [dhp-a-217-note] 「住法」指四向、四果及涅槃九種殊勝法。
+
+.. [dhp-a-218-note2] Nanda 補註：此偈頌，〝佛陀教育基金會〞改譯為：「 `渴求涅槃，心中感受到三果的喜悅，並且不為物欲所繫縛的人，就是證得不還果的人。 <http://www.budaedu.org/story/dp218.php>`__ (偈 218)」
 
 .. [NāradaFn16-01] (Ven. Nārada 16-01) That is, frequenting places undesirable for bhikkhus.
 
@@ -39626,11 +39916,16 @@
 
                   Just like the rich man Nandiya from the story, we will reap the fruit of our good deeds - if not in this life, then in the next one. Our good deeds will "welcome" us immediately and we will be able to taste their outcome. Maybe we will have a mansion in heaven, like Nandiya. Or maybe we will be just a little bit wiser and more able to strive for our Awakenment.
 
-.. [NandFn16-01] 〔Nanda 校註16-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__ ，十六～四、為妓女大打出手的王子們 (偈 214)。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. [NandFn16-02] 〔Nanda 校註16-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__ ，十六～五、安尼其喬達枯瑪痛失新娘 (偈 215)。
+**校註：**
 
-.. [NandFn16-03] 〔Nanda 校註16-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap16.pdf>`__ ，十六～八、往生五淨居天的比丘 (偈 218)。
+.. [NandFn16-01] 〔Nanda 校註16-01〕 請參《法句經故事集》，十六～四、 `為妓女大打出手的王子們 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-214>`__  (偈 214)。
+
+.. [NandFn16-02] 〔Nanda 校註16-02〕 請參《法句經故事集》，十六～五、 `安尼其喬達枯瑪痛失新娘 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-215>`__  (偈 215)。
+
+.. [NandFn16-03] 〔Nanda 校註16-03〕 請參《法句經故事集》，十六～八、 `往生五淨居天的比丘 <{filename}../dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-218>`__  (偈 218)。
+
 
 .. [LChnFn17-01] 〔註17-01〕  「名色」（Namarupa）即精神與物質，亦可說心身。
 
@@ -39654,25 +39949,25 @@
 
 .. [MettFn17-03] 〔明法尊者註17-03〕 住在阿拉維的比丘(Āḷaviko bhikkhu)準備蓋房子，砍伐一些樹木，砍斷樹神的幼孩的手臂，女神原想報復，殺比丘，後來息怒，去見佛陀。佛陀讚嘆她息怒，並告誡比丘不要砍樹。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap17.pdf>`__  ，十七～二、比丘和樹神 (偈 222)。
+                  PS: 請參《法句經故事集》，十七～二、 `比丘和樹神 <{filename}../dhp-story/dhp-story-han-chap17-ciu%zh.rst#dhp-222>`__  (偈 222)。
 
 .. [MettFn17-04] 〔明法尊者註17-04〕 優陀拉(Uttarā)優婆夷嫁給沒有佛教信仰的富裕人家，因為沒有機會供養佛陀與比丘，悶悶不樂，為了多作供養，聘用半個月女傭幫她執行妻子的責任。有一次女傭看她在笑，忘記她的身份，生起嫉妒，跟她潑一湯匙的熱油，但是她有慈心保護，而毫髮未傷。(DhA.v.223./CS:pg.2.196.ff.)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap17.pdf>`__  ，十七～三、慈心保護優它拿不受熱水燙傷 (偈 223)。
+                  PS: 請參《法句經故事集》，十七～三、 `慈心保護優它拿不受熱水燙傷 <{filename}../dhp-story/dhp-story-han-chap17-ciu%zh.rst#dhp-223>`__  (偈 223)。
 
 .. [MettFn17-05] 〔明法尊者註17-05〕 **諦語** ：即真實語，不妄語。
 
 .. [MettFn17-06] 〔明法尊者註17-06〕 佛陀在沙祇多(Sāketa)托缽被一為年老的婆羅門誤認作兒子，佛陀跟他回家，婆羅門的太太也誤認作兒子，他們相處三個月，他們都證得阿羅漢果。佛陀說在過去很多世都作他們的兒子或侄子。當他們死了，比丘問他們往生何處，佛陀說他們都證得阿羅漢果，不往生何處。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap17.pdf>`__  ，十七～五、誤把佛陀當作兒子的婆羅門 (偈 225)。
+                  PS: 請參《法句經故事集》，十七～五、 `誤把佛陀當作兒子的婆羅門 <{filename}../dhp-story/dhp-story-han-chap17-ciu%zh.rst#dhp-225>`__  (偈 225)。
 
 .. [MettFn17-07] 〔明法尊者註17-07〕 有一天夜晚，璞娜(Puṇṇā)女傭在為她的主人樁米，做到很晚才去休息。這時候，她看見達帕尊者(Dabbo Mallaputto)帶領一群聽完說法的比丘回寮。她心想他們這麼晚還沒睡眠。第二天清晨，璞娜做糕餅，打算到河邊去吃。路上，她看見佛陀正在托缽，作布施。進食後，佛陀為璞娜澄清心中的疑惑：「妳沒有睡眠，是因為妳的苦命。至於諸比丘，他們必須經常保持醒覺(jāgariyamanuyuttatāya)，不可懈怠。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap17.pdf>`__  ，十七～六、製作禮物的布施者 (偈 226)。
+                  PS: 請參《法句經故事集》，十七～六、 `製作禮物的布施者 <{filename}../dhp-story/dhp-story-han-chap17-ciu%zh.rst#dhp-226>`__  (偈 226)。
 
 .. [MettFn17-08] 〔明法尊者註17-08〕 **阿多羅** ：Atula，舍衛城一位在家居士之名。阿多羅跟他的同伴五百位居  士找離婆多尊者(Revata)問法，但是離婆多尊者修習遠離獨居(paṭisallānārāmo)，不說任何法，於是他們帶著不滿的心去找舍利弗尊者，舍利弗尊者為他們說阿毘達摩，他們覺得太深。又去找阿難尊者，阿難尊者只作簡單的開示。之後，他們一群人請世尊說法。227-230偈為世尊跟阿多羅居士及他的同伴所作的開示，聽法後，他們都證得須陀洹果。 ( 230偈 cf. A ii8)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap17.pdf>`__  ，十七～七、恰恰好 (偈 227~230)。
+                  PS: 請參《法句經故事集》，十七～七、 `恰恰好 <{filename}../dhp-story/dhp-story-han-chap17-ciu%zh.rst#dhp-227>`__  (偈 227~230)。
 
 .. [MettFn17-09] 〔明法尊者註17-09〕 **非曾有.當有** ︰過去未曾有，未來也沒有。
 
@@ -39680,7 +39975,9 @@
 
 .. [MettFn17-11] 〔明法尊者註17-11〕 231-234偈為世尊跟六位穿著木屐的比丘說的法。六位穿著木屐、拿著木杖的比丘在石板上走動，而製造了噪音。世尊告誡比丘應控制自己的言行舉止。此後，世尊告誡比丘不要穿木屐。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap17.pdf>`__  ，十七～八、穿木屐的比丘 (偈 231~234)。
+                  PS: 請參《法句經故事集》，十七～八、 `穿木屐的比丘 <{filename}../dhp-story/dhp-story-han-chap17-ciu%zh.rst#dhp-231>`__  (偈 231~234)。
+
+.. [dhp-a-229-note] 「閻浮金」：來自閻浮河 (Jambu) 的金，是品質最佳的金。
 
 .. [NāradaFn17-01] (Ven. Nārada 17-01) Speech and thoughts are also herein implied.
 
@@ -39780,9 +40077,14 @@
 
 .. [DLMBSFn-V234] (DLMBS Commentary V234) The story for this verse is identical with the one for the previous verses (DhP 231, DhP 232 and DhP 233).
 
-.. [NandFn17-01] 〔Nanda 校註17-01〕 請參 `221 典故 <{filename}../dhp-story/dhp-story221%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap17.pdf>`__  ，十七～一、治好皮膚病的女士 (偈 221)。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. [NandFn17-02] 〔Nanda 校註17-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap17.pdf>`__  ，十七～四、往生天界的方法 (偈 224)。
+**校註：**
+
+.. [NandFn17-01] 〔Nanda 校註17-01〕 請參 221 典故－－ `若伊妮的故事 <{filename}../dhp-story/dhp-story221%zh.rst>`__ ；或《法句經故事集》，十七～一、 `治好皮膚病的女士 <{filename}../dhp-story/dhp-story-han-chap17-ciu%zh.rst#dhp-221>`__  (偈 221)。
+
+.. [NandFn17-02] 〔Nanda 校註17-02〕 請參《法句經故事集》，十七～四、 `往生天界的方法 <{filename}../dhp-story/dhp-story-han-chap17-ciu%zh.rst#dhp-224>`__  (偈 224)。
+
 
 .. [LChnFn18-01] 〔註18-01〕  「諸天之聖境」指五淨居天（Panca suddhavasa bhumi）－－ 無煩（Aviha），無熱（Atappa），善現（Sudassa），善見（Sudassi），色究竟（Akanittha）－－為阿那含果聖者所生之處。
 
@@ -39810,29 +40112,29 @@
 
 .. [MettFn18-04] 〔明法尊者註18-04〕 舍衛城有位屠牛夫，每餐必須有咖哩牛肉飯。有一天，他前往河中沐浴，當他離家後，他的一位朋友勸他妻子把牛肉賣掉，所以當天就沒有咖哩牛肉飯。他非常生氣，就跑到後院去，割下一隻公牛的舌頭，烘焙後坐下來吃。吃飯時，但卻咬斷自己的舌頭，死於非命，並且往生到惡趣。他的妻子嚇到，便勸他的兒子離開家鄉。她的兒子就到怛剎尸羅去當金匠，結婚生子。後來，返回舍衛城。金匠的兒子們都是佛教徒，擔心父親一生中沒有做過任何的善行。有一天，他們以父親的名義供養佛陀和諸比丘。請佛陀跟他們的父親開示，佛陀說：「你老了，你的身體像枯葉，你不要沒有來世善的旅途資糧做立足處，要聰明一點，不要笨笨的。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～一、屠夫和兒子的命運 (偈 235~238)。
+                  PS: 請參《法句經故事集》，十八～一、 `屠夫和兒子的命運 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-235>`__  (偈 235~238)。
 
 .. [MettFn18-05] 〔明法尊者註18-05〕 有一次，一位婆羅門看見一群比丘在整裝，準備去托缽。他發現到有的比丘的袈裟碰到草地上的雨露而沾濕了，他就除草。第二天，他發現有的比丘的袈裟碰地而弄髒了，他就用細砂鋪路。某日。大熱天，他發現比丘汗流浹背，他就蓋一座涼亭。下雨天，他發現還是會被雨水淋濕，就蓋一間休息的房舍。房舍蓋好時，他邀請佛陀和眾多比丘接受供養。佛陀說︰「婆羅門啊！有智慧的人一點一滴的完成善行。同時，慢慢地，但持續不斷的去除心中的煩惱。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～二、供養聖者的婆羅門 (偈 239)。
+                  PS: 請參《法句經故事集》，十八～二、 `供養聖者的婆羅門 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-239>`__  (偈 239)。
 
 .. [MettFn18-06] 〔明法尊者註18-06〕 不誦經典是(學習的)污垢，不勤勞是房屋的污垢，懶惰是美貌的污垢，放逸是守護的污垢。
 
 .. [MettFn18-07] 〔明法尊者註18-07〕 小沙利比丘(Cūḷasāri)與舍利弗尊者的同住，他懂得醫理。有一天，他看完一位病人後，他向尊者說自己醫療後，得到美食做為醫療的報酬。他請舍利弗尊者與他分享這些美味。但舍利弗尊者一言不發地離去。比丘議論紛紛去見佛陀。佛陀說︰「諸比丘！無慚者不計後果，形同烏鴉(按︰烏鴉有偷盜行為)，二十一種錯誤的謀生方式生活較快樂，具足慚者生活較苦。」台諺也有：「做惡做毒﹐騎馬轆硞；好心好行﹐無衫通穿。」 (co3ok4co3tok8\ khia5be2 lok8khok8\ ho2sim1ho2hing7 \bo5sann1 thang1 ching7)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～六、行醫的比丘 (偈 244~245)。
+                  PS: 請參《法句經故事集》，十八～六、 `行醫的比丘 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-244>`__  (偈 244~245)。
 
 .. [MettFn18-08] 〔明法尊者註18-08〕 有一次，五位在家優婆塞到祇樹給孤獨園去持戒，他們各自守五戒中的一戒，每個人都說自己所守的戒最難做到，最難遵守。因此爭論不休，他們就向佛陀報告他們各自的見解，佛陀說：「所有戒律都難於遵守。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～七、守戒不容易 (偈 246~248)。
+                  PS: 請參《法句經故事集》，十八～七、 `守戒不容易 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-246>`__  (偈 246~248)。
 
 .. [MettFn18-09] 〔明法尊者註18-09〕 年輕人提舍(Tissadahara)會蔑視他人的善行。他甚至蔑視給孤獨長者和毘舍佉布施給五十萬聖弟子(pañcannaṁ ariyasāvakakoṭīnaṁ)。他更吹噓說，他的親戚都非常富有，像大寺院接受四方來的比丘。有些比丘懷疑，就去調查，結果發現他的親戚都很貧窮，提舍所說的全不實在。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～八、嫉妒的心不得安寧 (偈 249~250)。
+                  PS: 請參《法句經故事集》，十八～八、 `嫉妒的心不得安寧 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-249>`__  (偈 249~250)。
 
 .. [MettFn18-10] 〔明法尊者註18-10〕 本句白話翻譯︰「沒有像貪欲的火，沒有像瞋恚的執著，沒有像愚癡的網，沒有像愛欲的河流。」說此本偈的因緣是，有一次佛陀在說法時，五位居士當中有四位沒有專心在聽。這四位沒有專心在聽的人，過去世當過蛇(聽法時打瞌睡)、地下生物(聽法時刮地)、猴子(聽法時搖樹)、星象家(聽法時看天)，因此習性猶在。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～九、精神不集中的信徒 (偈 251)。
+                  PS: 請參《法句經故事集》，十八～九、 `精神不集中的信徒 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-251>`__  (偈 251)。
 
 .. [MettFn18-11] 〔明法尊者註18-11〕 **博者** ：satho，賭徒，註疏解釋它為捕鳥者。
 
@@ -39840,9 +40142,11 @@
 
 .. [MettFn18-13] 〔明法尊者註18-13〕 跋提城(Bhaddiyanagara)公羊富翁(Meṇḍakaseṭṭhi，meṇḍaka為公羊，因他曾在家中後院發現大堆等身高的金羊雕像，人們因此稱呼他公羊富翁)聽說佛陀來到跋提，就同家人前去見佛陀，在聽完佛陀的說法後，證得初果。公羊富翁告訴佛陀，在他們來時，一些外道批評佛陀，並且試圖說服他不要來。佛陀說：「優婆塞！諸有情對自己的缺點視若無睹，別人沒有缺點認為有，吹毛求疵(原文︰吹開穀物bhusaṁ viya opunantī)。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～十、富翁 (偈 252)。
+                  PS: 請參《法句經故事集》，十八～十、 `富翁 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-252>`__  (偈 252)。
 
 .. [MettFn18-14] 〔明法尊者註18-14〕 **易忿** ：ujjhāna，譏嫌。
+
+.. [dhp-a-252-note] Nanda 補註：原譯為：「卻像狡猾的家禽躲藏起來」，今依 `多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap18%zh.rst>`_ 之他譯（據註解書）更改為「卻像狡猾的捕禽者偽裝躲藏起來」。
 
 .. [NāradaFn18-01] (Ven. Nārada 18-01) Namely: the Pure Abodes (Suddhāvāsa).
 
@@ -39981,17 +40285,22 @@
 
     The Buddhas, Awakened Ones have no "shaking". The meaning of this is that there is no instability, no wavering or unsteadiness of their minds. They have reached the highest Awakenment and their minds are truly firm and steady.
 
-.. [NandFn18-01] 〔Nanda 校註18-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～三、往生成昆蟲的比丘 (偈 240)。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. [NandFn18-02] 〔Nanda 校註18-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～四、打誑語的比丘 (偈 241)。
+**校註：**
 
-.. [NandFn18-03] 〔Nanda 校註18-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～五、妻子有外遇的男子 (偈 242~243)。
+.. [NandFn18-01] 〔Nanda 校註18-01〕 請參《法句經故事集》，十八～三、 `往生成昆蟲的比丘 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-240>`__  (偈 240)。
 
-.. [NandFn18-04] 〔Nanda 校註18-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～十一、挑剔的比丘 (偈 253)。
+.. [NandFn18-02] 〔Nanda 校註18-02〕 請參《法句經故事集》，十八～四、 `打誑語的比丘 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-241>`__  (偈 241)。
+
+.. [NandFn18-03] 〔Nanda 校註18-03〕 請參《法句經故事集》，十八～五、 `妻子有外遇的男子 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-242>`__  (偈 242~243)。
+
+.. [NandFn18-04] 〔Nanda 校註18-04〕 請參《法句經故事集》，十八～十一、 `挑剔的比丘 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-253>`__  (偈 253)。
 
 .. [NandFn18-05] 〔Nanda 校註18-05〕(研讀; c.f. `gatha050 <{filename}../dhA/dhA-chap04%zh.rst#dhp050>`__ ).
 
-.. [NandFn18-06] 〔Nanda 校註18-06〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap18.pdf>`__  ，十八～十二、四處雲行的苦行者 (偈 254~255)。
+.. [NandFn18-06] 〔Nanda 校註18-06〕 請參《法句經故事集》，十八～十二、 `四處雲行的苦行者 <{filename}../dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-254>`__  (偈 254~255)。
+
 
 .. [LChnFn19-01] 〔註19-01〕  「法住」（Dharmattha）乃依法而行，安住於奉之意。亦可譯為「奉法」。 
 
@@ -40045,7 +40354,7 @@
 
 .. [MettFn19-02] 〔明法尊者註19-02〕 六位(為一群的)比丘，總是在齋堂遊走惹事生非，在某日用過餐，什麽類型？
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～二、愚人才會騷擾別人 (偈 258)。 
+                  PS: 請參《法句經故事集》，十九～二、 `愚人才會騷擾別人 <{filename}../dhp-story/dhp-story-han-chap19-ciu%zh.rst#dhp-258>`__  (偈 258)。 
 
 .. [MettFn19-03] 〔明法尊者註19-03〕 **身見法** ：指心見法，自證知法，不由他而悟。
 
@@ -40053,13 +40362,13 @@
 
 .. [MettFn19-05] 〔明法尊者註19-05〕 有一天，約三十位阿蘭若比丘前來向佛陀頂禮。佛陀明白他們證得阿羅漢果的機緣已經成熟，就問他們︰「你們進來的時候，有沒有看見一位上座？」他們說︰「沒有看見。」「你們怎麼沒有看見？」「大德！我們看見一位沙彌。」「他不是沙彌，是上座吧？」「大德！他是很小的。」佛陀說：「諸比丘！他不是沙彌，而是上座。我不因為人的歲數大就稱他作上座，任何人究竟明白四聖諦，而且不傷害別人，才是上座。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～四、年齡不是判斷的標準 (偈 260~261)。
+                  PS: 請參《法句經故事集》，十九～四、 `年齡不是判斷的標準 <{filename}../dhp-story/dhp-story-han-chap19-ciu%zh.rst#dhp-260>`__  (偈 260~261)。
 
 .. [MettFn19-06] 〔明法尊者註19-06〕 有些比丘羨慕資深比丘享受年輕比丘和沙彌的服務，他們也希望有這種待遇，請求佛陀允准他們也可以作指導，以便有這種待遇。佛陀知道他們的動機，斷然拒絕。
 
                   (Dhp. 263 cp. Dhp. 250)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～五、虛張聲勢 (偈 262~263)。
+                  PS: 請參《法句經故事集》，十九～五、 `虛張聲勢 <{filename}../dhp-story/dhp-story-han-chap19-ciu%zh.rst#dhp-262>`__  (偈 262~263)。
 
 .. [MettFn19-07] 〔明法尊者註19-07〕 **以知住此世** ：即了知地行於這(五蘊)世間。知：saṅkhāya(考量)。  (Dhp. 266~267 cf. S.7.20./I,182; 《雜阿含97經》，《別譯雜阿含263經》)
 
@@ -40069,11 +40378,17 @@
 
 .. [MettFn19-10] 〔明法尊者註19-10〕 苦行者在接受供養後，會對布施者說些賜福的話，如：「願你們遠離危險，祝你們興旺，財源滾滾來，願你們長命百歲。」而比丘在接受供養之後，卻默默不語。佛陀證悟以後的前二十年，他們是如此。當時的人就說：「苦行者祝福我們，而敬愛的比丘卻什麼也沒說。」比丘向佛陀反應這件事，佛陀從此要比丘在接受供養後，也要說適如其分的祝福。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～八、沉默不代表智慧 (偈 268~269)。
+                  PS: 請參《法句經故事集》，十九～八、 `沉默不代表智慧 <{filename}../dhp-story/dhp-story-han-chap19-ciu%zh.rst#dhp-268>`__  (偈 268~269)。
 
 .. [MettFn19-11] 〔明法尊者註19-11〕 **出家樂** ：nekkhamasukham出離樂。
 
 .. [MettFn19-12] 〔明法尊者註19-12〕 **保信想** ：vissāsamāpādi= vissāsamma āpādi，莫生信賴。
+
+.. [dhp-a-260-note] Nanda 補註：thera: 「長老」或譯「上座」。
+
+.. [dhp-a-266-note] 「比丘」字面的意義是“乞討的人”，但比丘並不乞討，比丘只是靜靜地站在門口化緣。人們布施什麼，比丘就吃什麼。 
+
+.. [dhp-a-267-note] 只知化緣，而不持守全部比丘戒律的人，不可稱之為比丘。
 
 .. [NāradaFn19-01] (Ven. Nārada 19-01) Kāyena - that is, nāmakāyena, through the mental body, or, in other words, through self-realization.
 
@@ -40196,17 +40511,22 @@
 
     To attain the Awakenment is not easy. We should not compare it to other tasks. Even if we have attained some spiritual progress, like good concentration of mind, if we have learned a lot of Sutras, or if we are truly moral and spiritual people - in comparison with the ultimate goal these tasks are very easy indeed. Only when we have reached the final goal and eradicated all the taints from our minds, then we can finally be content and say that we have done what had to be done.
 
-.. [NandFn19-01] 〔Nanda 校註19-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～一、收受賄賂的法官 (偈 256~257)。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. [NandFn19-02] 〔Nanda 校註19-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～三、知識不等於領悟 (偈 259)。
+**校註：**
 
-.. [NandFn19-03] 〔Nanda 校註19-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～六、好辯的比丘 (偈 264~265)。
+.. [NandFn19-01] 〔Nanda 校註19-01〕 請參《法句經故事集》，十九～一、 `收受賄賂的法官 <{filename}../dhp-story/dhp-story-han-chap19-ciu%zh.rst#dhp-256>`__  (偈 256~257)。
 
-.. [NandFn19-04] 〔Nanda 校註19-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～七、誰才是比丘 (偈 266~267)。
+.. [NandFn19-02] 〔Nanda 校註19-02〕 請參《法句經故事集》，十九～三、 `知識不等於領悟 <{filename}../dhp-story/dhp-story-han-chap19-ciu%zh.rst#dhp-259>`__  (偈 259)。
 
-.. [NandFn19-05] 〔Nanda 校註19-05〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～九、人如其名 (偈 270)。
+.. [NandFn19-03] 〔Nanda 校註19-03〕 請參《法句經故事集》，十九～六、 `好辯的比丘 <{filename}../dhp-story/dhp-story-han-chap19-ciu%zh.rst#dhp-264>`__  (偈 264~265)。
 
-.. [NandFn19-06] 〔Nanda 校註19-06〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap19.pdf>`__  ，十九～十、證阿羅漢果甚難 (偈 271~272)。
+.. [NandFn19-04] 〔Nanda 校註19-04〕 請參《法句經故事集》，十九～七、 `誰才是比丘 <{filename}../dhp-story/dhp-story-han-chap19-ciu%zh.rst#dhp-266>`__  (偈 266~267)。
+
+.. [NandFn19-05] 〔Nanda 校註19-05〕 請參《法句經故事集》，十九～九、 `人如其名 <{filename}../dhp-story/dhp-story-han-chap19-ciu%zh.rst#dhp-270>`__  (偈 270)。
+
+.. [NandFn19-06] 〔Nanda 校註19-06〕 請參《法句經故事集》，十九～十、 `證阿羅漢果甚難 <{filename}../dhp-story/dhp-story-han-chap19-ciu%zh.rst#dhp-271>`__  (偈 271~272)。
+
 
 .. [LChnFn20-01] 〔註20-01〕  「四句」--苦 (dukkha)，苦集 (dukkhasamudaya)，苦滅 (dukkhanirodha)，苦滅道 (dukkhanirodha gaaminii pa.tipadaa)。古譯簡稱「苦集滅道」。
 
@@ -40238,7 +40558,7 @@
 
 .. [MettFn20-03] 〔明法尊者註20-03〕 佛陀跟眾多比丘人間遊行之後，又回到舍衛城，眾多比丘回來之後都在討論沿途山勢、路況。佛陀觀察他們證得阿羅漢果的時機成熟。佛陀說︰「諸比丘！你們所談論是外在的道路，名為比丘的應該關注聖道的生起，這樣的話，才能從一切苦解脫出來。」接著佛陀說出此偈(偈 273~276)。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap20.pdf>`__  ，二十～一、解脫之道 (偈 273~276)。
+                  PS: 請參《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp->`__ ，二十～一、解脫之道 (偈 273~276)。
 
 .. [MettFn20-04] 〔明法尊者註20-04〕 **一切行無常** ：即一切有為法無常。但不包括概念法與無為法(涅槃)，概念法與無為法都不是無常或苦。
 
@@ -40246,7 +40566,7 @@
   
 .. [MettFn20-06] 〔明法尊者註20-06〕 本偈說一群比丘到阿蘭若去精進用功，尚未證得阿羅漢果。他去見佛陀想取得業處在繼續用功。佛陀想︰「什麼是適當的？」於是觀察到在迦葉佛時，他們曾經練習過無常相兩萬年，因此，佛陀就以一個偈頌來教導無常相。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap20.pdf>`__  ，二十～二、觀無常 (偈 277)。
+                  PS: 請參《法句經故事集》，二十～二、 `觀無常 <{filename}../dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-277>`__  (偈 277)。
 
 .. [MettFn20-07] 〔明法尊者註20-07〕 佛陀說諸蘊有壓迫之苦(paṭipīḷanaṭṭhena dukkhā)，因此說偈。
 
@@ -40254,39 +40574,49 @@
 
 .. [MettFn20-09] 〔明法尊者註20-09〕 本偈說「精進持法帝沙長老」(Padhānakammikatissatthera)的因緣，舍衛城有五百位良家子出家，除了他一人留下來，其他全部到阿蘭若去禪修。經過一段時間後，他們全都證得阿羅漢果。那位未去禪修的帝沙比丘，後悔曾經浪費時光，他就下定決心，要徹夜禪修。當天晚上在經行幾萬步後，打瞌睡，他不小心在石板上滑倒，跌斷大腿骨。佛陀知道之後，說：「諸比丘！先前不知精進，現在你們有了障礙。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap20.pdf>`__  ，二十～五、精進，莫放逸 (偈 280)。
+                  PS: 請參《法句經故事集》，二十～五、 `精進，莫放逸 <{filename}../dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-280>`__  (偈 280)。
 
 .. [MettFn20-10] 〔明法尊者註20-10〕 **三業** ：指身業、語業、意業。
 
 .. [MettFn20-11] 〔明法尊者註20-11〕 大目犍連尊者有一次和勒叉那比丘下山時，看見一隻三伽浮他(tigāvuta, 約九公里)的豬面人身、悲慘的餓鬼。這時候，大目犍連尊者只是微笑。回到精舍時，勒叉那比丘問尊者，因何微笑？尊者才回答。佛陀在菩提場(證道的地方)，也曾親眼目睹該餓鬼，佛陀說該餓鬼的前世因緣：在迦葉佛時，這餓鬼是一位會說法的比丘。有一次，他到有兩位比丘居住的一處精舍去。停留期間，他發現當地的人歡喜聽他說法，他就想獨佔該精舍，於是分化離間這兩位比丘，使他們爭論不休，終於都離開精舍。因為這惡業，他在死後，長期遭受苦報。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap20.pdf>`__  ，二十～六、護持身、口、意 (偈 281)。
+                  PS: 請參《法句經故事集》，二十～六、 `護持身、口、意 <{filename}../dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-281>`__  (偈 281)。
 
 .. [MettFn20-12] 〔明法尊者註20-12〕 **瑜伽** ：yoga，在此指禪定。DhA.CS:pg.2.264.︰ **yogā**\ti aṭṭhatiṁsāya ārammaṇesu yoniso manasikārā.( **瑜伽** ：以三十八種所緣作為從根源作意。)
 
 .. [MettFn20-13] 〔明法尊者註20-13〕 波思拉(Poṭṭhilatthera)是一位通三藏的比丘，但是尚未得禪、證果，受到佛陀的激勵之後，寧願以低姿態，在一位沙彌的指導下，證得阿羅漢果。《大莊嚴論經》(44)(T4.297.1)︰「復次，雖不入見諦，修學多聞力，諸魔不能動，應勤修學問。」可見在教中，通達經論，並非被排斥。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap20.pdf>`__  ，二十～七、只有知識，但不能加以領悟是沒有用的 (偈 282)。
+                  PS: 請參《法句經故事集》，二十～七、 `只有知識，但不能加以領悟是沒有用的 <{filename}../dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-282>`__  (偈 282)。
 
 .. [MettFn20-14] 〔明法尊者註20-14〕 **應伐欲稠林** ：Vanaṁ chindatha mā rukkhaṁ，vana，喻欲望、煩惱。
 
 .. [MettFn20-15] 〔明法尊者註20-15〕 舍衛城裡有五位朋友，年老了才一起出家。他們習慣回老家去托缽，其中一位的妻子烹飪手藝很好，並且妥善照顧他們，因此他們最常去她那裡托缽。有一天，她死了。五位老比丘十分傷心。佛陀告誡：「諸比丘！你們倚賴染、瞋、癡森林，才有苦。砍掉森林，這樣就不會有苦。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap20.pdf>`__  ，二十～八、五位年老的比丘和一位年老的女人 (偈 283~284)。
+                  PS: 請參《法句經故事集》，二十～八、 `五位年老的比丘和一位年老的女人 <{filename}../dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-283>`__  (偈 283~284)。
 
 .. [MettFn20-16] 〔明法尊者註20-16〕 **善逝** ：Sugato，是佛陀的名稱，善淨行的人，1.他行中道行，沒有斷見、常見或極端苦、樂行。2.他善說真、實、有利益的法。
 
 .. [MettFn20-17] 〔明法尊者註20-17〕 從波羅奈(Bārāṇasī)來舍衛城賣紡織品的商人，他想把商品賣完再回去，佛陀看出來他的壽命只剩七天，阿難尊者轉告他，請他修習正念，他心生恐懼，往後七天中，都供養佛陀和諸比丘，聞法後，他證得須陀洹果。死後往生兜率天。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap20.pdf>`__  ，二十～十、瀕臨死亡的富商 (偈 286)。
+                  PS: 請參《法句經故事集》，二十～十、 `瀕臨死亡的富商 <{filename}../dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-286>`__  (偈 286)。
 
 .. [MettFn20-18] 〔明法尊者註20-18〕 另參 `047偈 <{filename}dhp-contrast-reading-chap04%zh.rst#dhp047>`__ 。本則偈頌故事同114偈，吉離舍瞿曇彌(Kisāgotamī)的故事。
 
-                 PS: 請參見 `114偈 <{filename}dhp-contrast-reading-chap08%zh.rst#dhp114>`__ ； `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～十三、死而復生 (偈 114) ；  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap20.pdf>`__ ，二十～十一、眾生皆會死 (偈 287)。
+                 PS: 請參見《法句經故事集》，二十～十一、 `眾生皆會死 <{filename}../dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-287>`__  (偈 287)。另請參： `114偈 <{filename}dhp-contrast-reading-chap08%zh.rst#dhp114>`__ ；《法句經故事集》，八～十三、 `死而復生 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-114>`__ (偈 114) ； 
 
 .. [MettFn20-19] 〔明法尊者註20-19〕 本則偈頌故事同113偈，波羅遮那(Paṭācārā)的故事。她死了丈夫、兩個兒子、父母、和唯一的哥哥。佛陀說偈安撫她。
 
-                 PS: 請參見 `113偈 <{filename}dhp-contrast-reading-chap08%zh.rst#dhp113>`__ ； `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ ，八～十二、家破人亡的波她卡娜 (偈 113, Paṭācārātherī, 波羅遮那長老尼的故事) ；  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap20.pdf>`__ ，二十～十二、兒女不是究竟的依止 (偈 288~289)。
+                 PS: 請參見《法句經故事集》，二十～十二、 `兒女不是究竟的依止 <{filename}../dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-288>`__  (偈 288~289)。另請參： `113偈 <{filename}dhp-contrast-reading-chap08%zh.rst#dhp113>`__ ；《法句經故事集》，八～十二、 `家破人亡的波她卡娜 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-113>`__  (偈 113, Paṭācārātherī, 波羅遮那長老尼的故事)。
+
+.. [dhp-a-273-note2] 「八正道」即中道，可用來證悟涅槃。
+
+.. [dhp-a-273-note3] 「四聖諦」：苦、集、滅、道。不管佛陀出世與否，四聖諦永遠存在世間，佛陀只是指出四聖諦而已。
+
+.. [dhp-a-279-note] 所有緣起法都是無常、苦和無我。厭離它們的人可以證得涅槃。無我是佛陀的重要觀點。
+
+.. [dhp-a-283-note] 佛陀說砍伐森林時，有些新出家的比丘誤解佛陀的意思，所以佛陀進一步說，砍伐欲望之林，而不是真正的森林。
+
+.. [dhp-a-286-note] 不知生命危脆的道理。
 
 .. [NāradaFn20-01] (Ven. Nārada 20-01) The Eightfold Path is the Middle Way discovered by the Buddha for the realization of Nibbāna. It consists of: right understanding(sammā diññhi), right thoughts (sammā saṅkappa), right speech (sammā vācā), right action (sammā kammanta), right livelihood (sammā ājīva), right effort (sammā vāyāma), right mindfulness (sammā sati), and right concentration (sammā samādhi).
 
@@ -40402,11 +40732,16 @@
 
     The only help and protection against the death is constant and intensive practice of the Buddha’s teaching. No external help from relatives, friends or gods of any kind is possible when we have to face the death. Only by following the path of meditation and awareness, can we overcome death and face it without any fear.
 
-.. [NandFn20-01] 〔Nanda 校註20-01〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap20.pdf>`__  ，二十～三、諸行皆苦 (偈 278)。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. [NandFn20-02] 〔Nanda 校註20-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap20.pdf>`__  ，二十～四、諸法無我 (偈 279)。
+**校註：**
 
-.. [NandFn20-03] 〔Nanda 校註20-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap20.pdf>`__  ，二十～九、觀想蓮花 (偈 285)。
+.. [NandFn20-01] 〔Nanda 校註20-01〕 請參《法句經故事集》，二十～三、 `諸行皆苦 <{filename}../dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-278>`__  (偈 278)。
+
+.. [NandFn20-02] 〔Nanda 校註20-02〕 請參《法句經故事集》，二十～四、 `諸法無我 <{filename}../dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-279>`__ (偈 279)。
+
+.. [NandFn20-03] 〔Nanda 校註20-03〕 請參《法句經故事集》，二十～九、 `觀想蓮花 <{filename}../dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-285>`__ (偈 285)。
+
 
 .. [LChnFn21-01] 〔註21-01〕  此二頌都是從譬喻而顯義的。
 
@@ -40436,17 +40771,17 @@
 
 .. [MettFn21-01] 〔明法尊者註21-01〕 毘舍離(Vesālī廣嚴城)發生了飢荒等諸災難，遭受三種災厄難：饑荒、非人與瘟疫。於是諸離車(Licchavi)為了平息災難，想到從王舍城邀請世尊來毘舍離。當時頻婆娑羅王正在服侍世尊。頻婆娑羅王同意讓世尊前往，並先行整頓道路。世尊一來到毘舍離，就在那一刻，下著傾盆大雨，把城裡沖洗乾乾淨淨。而帝釋天王便與衆神到來，由於擁有大威力的衆神降臨，多數的非人都逃跑了。世尊停在城門之處，向阿難尊者說道：「阿難！學此《寶經》，然後以缽盛水，帶著衆離車王子，在三道城牆之間繞著走地誦此經作爲保護。」阿難尊者依照指示去了，很多生病的人就恢復健康。世尊一連七天都講《寶經》，之後毘舍離就恢復正常。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap21.pdf>`__  ，二十一～一、寶經的威力 (偈 290)。
+                  PS: 請參《法句經故事集》，二十一～一、 `寶經的威力 <{filename}../dhp-story/dhp-story-han-chap21-ciu%zh.rst#dhp-290>`__  (偈 290)。
 
 .. [MettFn21-02] 〔明法尊者註21-02〕 舍衛城中有一位婦人養了一隻母雞。每次母雞下蛋時，這婦人就打破雞蛋，惹得母雞非常生氣，因此結下未來世冤冤相報的因緣。在佛陀出世的這一生，這婦女在某個場合，認出有個人是夜叉的化身，而且是自己累世以來的世仇。她趕緊帶著孩子，急忙逃進佛陀的住處。佛陀叫惡魔進來，告誡她們兩人：「仇恨無法平息仇恨。」仔細思量佛陀的教誨後，夜叉就歸依，受了五戒，仇恨也解開了。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap21.pdf>`__  ，二十一～二、唯有愛可以止息恨意 (偈 291)。 全文另請參 `005 典故 <{filename}../dhp-story/dhp-story005%zh.rst>`__ ；或  `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～四、累劫以來的仇恨 ( `偈 005 <{filename}dhp-contrast-reading-chap01%zh.rst#dhp005>`__ ) 的故事 (and Rogers, Buddhaghoaha's Parables, xi: 103-104. Text: N iii. 449-451.)。 
+                  PS: 請參《法句經故事集》，二十一～二、 `唯有愛可以止息恨意 <{filename}../dhp-story/dhp-story-han-chap21-ciu%zh.rst#dhp-291>`__  (偈 291)。 全文另請參 005 典故 `虎姑婆的故事 <{filename}../dhp-story/dhp-story005%zh.rst>`__ ；或《法句經故事集》，一～四、 `累劫以來的仇恨 <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-005>`__  ( `偈 005 <{filename}dhp-contrast-reading-chap01%zh.rst#dhp005>`__ ) 的故事 (and Rogers, Buddhaghoaha's Parables, xi: 103-104. Text: N iii. 449-451.)。 
 
 .. [MettFn21-03] 〔明法尊者註21-03〕 **應作** ︰應作的事，指勤修戒.定.慧。
 
 .. [MettFn21-04] 〔明法尊者註21-04〕 住在跋提(Bhaddiya)的比丘對製作拖鞋有興趣，而疏忽修行。佛陀責備他們：「諸比丘！你們是為了某事(aññena kiccena指解脫)而來，但你們卻精力充沛作他事(aññasmiṁyeva kicce製造拖鞋)。」聽完佛陀的勸誡後，這群比丘就精進用功。
 
-                   PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap21.pdf>`__  ，二十一～三、裝飾拖鞋的比丘們 (偈 292~293)。
+                   PS: 請參《法句經故事集》，二十一～三、 `裝飾拖鞋的比丘們 <{filename}../dhp-story/dhp-story-han-chap21-ciu%zh.rst#dhp-292>`__  (偈 292~293)。
 
 .. [MettFn21-05] 〔明法尊者註21-05〕 **剎帝利族二王** ︰即常見(sassata-diṭṭhi)--對一些事物懷有永存的觀念，與斷見(uccheda-diṭṭhi)--對一些事物懷有偶然的觀念。
 
@@ -40458,7 +40793,7 @@
 
 .. [MettFn21-09] 〔明法尊者註21-09〕 某次，侏儒跋提(Lakuṇḍakabhaddiyatthera)從佛陀的附近經過，佛陀跟諸比丘說︰「他已殺父殺母，已無苦惱。」說了之後，諸比丘想︰「大師怎麼這樣說？」面面相覷後，陷入疑惑。(問︰)「大德！這怎麼說呢？」佛陀說了偈頌。
 
-                   PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap21.pdf>`__  ，二十一～四、殺害父母的比丘 (偈 294~295)。
+                   PS: 請參《法句經故事集》，二十一～四、 `殺害父母的比丘 <{filename}../dhp-story/dhp-story-han-chap21-ciu%zh.rst#dhp-294>`__ (偈 294~295)。
 
 .. [MettFn21-10] 〔明法尊者註21-10〕 **身** ：在此指身體的髮、毛、爪、齒、皮等三十二種成份，明白身體的不清淨，而不執著。DhA： **身至念** ：指住念於三十二種身體的成份，或九種墳墓觀，或四界差別觀，或自己的藍遍處等色禪，或已形成的 **‘念’** 。)
 
@@ -40470,23 +40805,35 @@
 
 .. [MettFn21-14] 〔明法尊者註21-14〕 毘舍離(Vesāli)徹夜慶典，跋耆子比丘(Vajjiputtakabhikkhu, 他是金剛國的王子(Vajjiraṭṭhe rājaputto))聽到奏樂器，演奏小聲、大聲，跋耆子比丘自哀自怨說︰「我們獨住阿蘭若，猶如森林之棄木；像這樣的夜晚，有誰比我們更受罪？」。住在林中的樹神為了激勵他，說︰「你獨住蘭若，像森林棄木，眾人羨慕你；像墮地獄者，羨慕生天者。」他聽了之後，隔天去拜見佛陀提及此事。佛陀說偈鼓勵他。(DhA.v.302./CS:pg.2.289；S.9.9./I,202.；cf.《雜阿含1340經》)
 
-                   PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap21.pdf>`__  ，二十一～六、生命中沒有究竟的滿足 (偈 302)。
+                   PS: 請參《法句經故事集》，二十一～六、 `生命中沒有究竟的滿足 <{filename}../dhp-story/dhp-story-han-chap21-ciu%zh.rst#dhp-302>`__  (偈 302)。
 
 .. [MettFn21-15] 〔明法尊者註21-15〕 **財** ：指七聖財，信、戒、慚、愧、聞、施、慧。
 
 .. [MettFn21-16] 〔明法尊者註21-16〕 本偈頌為質多長者(Cittagahapati)而說。質多長者聽聞具壽舍利子說法證得第三果之後，由於他慷慨布施，天神卻不斷地補充他的供養品。具壽阿難有疑問請教世尊，世尊答覆的話。(參見DhA)
 
-                   PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap21.pdf>`__  ，二十一～七、有德行的人不虞匱乏 (偈 303)。
+                   PS: 請參《法句經故事集》，二十一～七、 `有德行的人不虞匱乏 <{filename}../dhp-story/dhp-story-han-chap21-ciu%zh.rst#dhp-303>`__  (偈 303)。
 
 .. [MettFn21-17] 〔明法尊者註21-17〕 **雪山** ：Himavanto，即︰喜瑪拉雅山(Himalaya)。
 
 .. [MettFn21-18] 〔明法尊者註21-18〕 本偈頌為世尊因給孤獨長者的女兒小善賢(Cūḷasubhaddā)的遠邀應供而說的。小善賢嫁給給孤獨長者的同門學長郁伽城(Ugganagara)的郁伽居士(Uggo郁瞿婁)的兒子，有一天小善賢向婆婆說佛陀的殊勝，婆婆急著想見佛陀，所以就允准她邀請佛陀前來供養。小善賢遙向舍衛城邀請佛陀來接受供養，隔日，佛陀和比丘們到郁伽居士家去接受供養。
 
-                   PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap21.pdf>`__  ，二十一～八、空間距離不是問題 (偈 304)。
+                   PS: 請參《法句經故事集》，二十一～八、 `空間距離不是問題 <{filename}../dhp-story/dhp-story-han-chap21-ciu%zh.rst#dhp-304>`__  (偈 304)。
 
 .. [MettFn21-19] 〔明法尊者註21-19〕 單獨住長老(Ekavihāritthera伊卡非哈如長老)喜獨住，共住在一起的其他比丘批評他，但是世尊以偈讚嘆他。
 
-                   PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap21.pdf>`__  ，二十一～九、獨處比較好 (偈 305)。
+                   PS: 請參《法句經故事集》，二十一～九、 `獨處比較好 <{filename}../dhp-story/dhp-story-han-chap21-ciu%zh.rst#dhp-305>`__  (偈 305)。
+
+.. [dhp-a-292-note] 持戒、修習禪定等。
+
+.. [dhp-a-292-note2] 裝飾雨具、拖鞋、缽等。
+
+.. [dhp-a-296-note] 佛陀未出家的俗名。
+
+.. [dhp-a-296-note2] 觀想佛陀的殊勝修持。
+
+.. [dhp-a-298-note] 觀想僧伽的殊勝。
+
+.. [dhp-a-303-note] 「財富」是指－－信、戒、慚、愧、聞、施、慧等七聖財。
 
 .. [NāradaFn21-01] (Ven. Nārada 21-01) Observance of morality, practise of meditation, etc.
 
@@ -40594,11 +40941,16 @@
 
 .. [DLMBSFn-V305] (DLMBS Commentary V305) Venerable Ekavihāri used to live alone, eat alone and meditating in solitude. He did not like to keep company of other monks. Some monks did not understand why he did so and reported the matter to the Buddha. The Buddha praised Ekavihāri and spoke this verse about how good it is for a monk to concentrate on meditation in seclusion.
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
 .. [NandFn21-01] 〔校註21-001〕 高顯如雪山
 
                      說明：原版注釋正確；偈頌正文誤植也。
 
-.. [NandFn21-02] 〔Nanda 校註21-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap21.pdf>`__  ，二十一～五、男孩和眾多的神祇 (偈 296~301)。
+.. [NandFn21-02] 〔Nanda 校註21-02〕 請參《法句經故事集》，二十一～五、 `男孩和眾多的神祇 <{filename}../dhp-story/dhp-story-han-chap21-ciu%zh.rst#dhp-296>`__  (偈 296~301)。
+
 
 .. [LChnFn22-01] 〔註22-01〕  下二頌連貫。
 
@@ -40606,43 +40958,47 @@
 
 .. [MettFn22-01] 〔明法尊者註22-01〕 佛陀的僧團日見壯大，受到敬愛、敬重、尊敬與供養。相對的，外道所受的尊敬與供養減少，於是他們找來孫陀利(Sundarī)，要她表現好像與佛陀私通。後來，外道顧用殺手，殺害她，把她的屍體埋在祇園精舍附近，並放出風聲孫陀利失蹤，並報告國王，經過搜查，結果在祇園精舍附近找到屍體。國王經過調查發現真兇。因此事件，佛陀了此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap22.pdf>`__  ，二十二～一、陷害佛陀的陰謀 (偈 306)。
+                  PS: 請參《法句經故事集》，二十二～一、 `陷害佛陀的陰謀 <{filename}../dhp-story/dhp-story-han-chap22-ciu%zh.rst#dhp-306>`__  (偈 306)。
 
 .. [MettFn22-02] 〔明法尊者註22-02〕 大目犍連尊者與勒叉那尊者下山時，大目犍連尊者見到骷髏鬼，而微笑。此餓鬼原在迦葉佛時為比丘作惡多端，他們已在地獄受苦十萬年之久，現在尚有殘餘業報，感受自體之苦。(cf. V iii90 → Vin.Pārā.III,107.ff.；S.19.1~21.)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap22.pdf>`__  ，二十二～二、自食惡果的人 (偈 307)。
+                  PS: 請參《法句經故事集》，二十二～二、 `自食惡果的人 <{filename}../dhp-story/dhp-story-han-chap22-ciu%zh.rst#dhp-307>`__  (偈 307)。
 
 .. [MettFn22-03] 〔明法尊者註22-03〕 毘舍離(Vesāli)發生饑荒，某些比丘為了有足夠的食物，他們互相讚嘆證到上人法(聖果)，所以得到豐富的食物供養。佛陀因此制定︰若妄稱證得上人法者，犯波羅夷罪(失去比丘身份的罪)。(Vin iii90 → Pārā.III,87.ff)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap22.pdf>`__  ，二十二～三、假裝已經證得聖果的比丘 (偈 308)。
+                  PS: 請參《法句經故事集》，二十二～三、 `假裝已經證得聖果的比丘 <{filename}../dhp-story/dhp-story-han-chap22-ciu%zh.rst#dhp-308>`__  (偈 308)。
 
 .. [MettFn22-04] 〔明法尊者註22-04〕 纖磨(Khemaka)是美男子，給孤獨長者的侄子，多次犯邪淫，有三次被抓到，因為國王敬重給孤獨長者，所以每次譴責之後，就放過他。給孤獨長者帶纖磨去見佛陀，佛陀跟纖磨說邪淫的後果嚴重。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap22.pdf>`__  ，二十二～三、假裝已經證得聖果的比丘 (偈 309~310)。
+                  PS: 請參《法句經故事集》，二十二～三、 `假裝已經證得聖果的比丘 <{filename}../dhp-story/dhp-story-han-chap22-ciu%zh.rst#dhp-309>`__  (偈 309~310)。
 
 .. [MettFn22-05] 〔明法尊者註22-05〕 **孤沙** ：Kuso，一種香茅草，其草葉有刺。
 
 .. [MettFn22-06] 〔明法尊者註22-06〕 有位比丘向另一位比丘懺悔砍草(tiṇaṁ chinditvā)的惡作行為，但那位比丘不在意此事，甚至自己用雙手拔草。當佛陀告誡他時，他才明白，身為比丘，要克制身口意。(cf. S.2.8./i.49)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap22.pdf>`__  ，二十二～五、固執的比丘 (偈 311~313)。
+                  PS: 請參《法句經故事集》，二十二～五、 `固執的比丘 <{filename}../dhp-story/dhp-story-han-chap22-ciu%zh.rst#dhp-311>`__  (偈 311~313)。
 
 .. [MettFn22-07] 〔明法尊者註22-07〕 **不作惡業勝** ︰Akataṁ(已不作) dukkaṭaṁ(惡作) seyyo(勝)。DhA.CS:pg.2.303.︰ **dukkaṭan**\ti sāvajjaṁ apāyasaṁvattanikaṁ kammaṁ.( **惡作** ︰有過失的，涉及惡趣的業。)
 
 .. [MettFn22-08] 〔明法尊者註22-08〕 從前，有一位嫉妒心重的婦女，發現丈夫和女僕私通。她將該女僕手腳綁起來，割掉她的耳朵和鼻子，並且關在密室裡。然後，她陪同丈夫到祇樹給孤獨園。他們出發後不久，這女僕的來訪的親戚，進門之後，發現有機竅，找到女傭，就將她鬆綁，並帶她到給孤獨園去。她更站在群眾當中，讓大眾親眼目睹她家女主人的殘酷手段。佛陀因此說：「犯惡行，以為‘別人不知道我的惡行’，小惡都不應作，但善行可以悄悄的做。遮掩作壞事，作了會懊悔，而善行只會帶來喜悅。」 (cp. `Dhp. 068 <{filename}dhp-contrast-reading-chap05%zh.rst#dhp068>`__ ; cf. S.2.8./I,49.)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap22.pdf>`__  ，二十二～六、嫉妒心重的女人折磨女傭 (偈 314)。
+                  PS: 請參《法句經故事集》，二十二～六、 `嫉妒心重的女人折磨女傭 <{filename}../dhp-story/dhp-story-han-chap22-ciu%zh.rst#dhp-314>`__  (偈 314)。
 
 .. [MettFn22-09] 〔明法尊者註22-09〕 一群比丘在邊境的村落雨安居，第一個月村民很照顧他們，第二個月該村被搶劫，之後，村民因此就無法妥善照顧他們。雨安居後，當他們到祇樹給孤獨園向佛陀請安，也報告雨安居的困境。世尊因此說了此偈。  (cf. A iv228)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap22.pdf>`__  ，二十二～七、自求多福的比丘 (偈 315)。
+                  PS: 請參《法句經故事集》，二十二～七、 `自求多福的比丘 <{filename}../dhp-story/dhp-story-han-chap22-ciu%zh.rst#dhp-315>`__  (偈 315)。
 
 .. [MettFn22-10] 〔明法尊者註22-10〕 裸形外道用布遮缽(防灰塵及眾生)，卻不用布遮身。世尊因此說了此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap22.pdf>`__  ，二十二～八、觀念錯誤的裸形外道 (偈 316~317)。
+                  PS: 請參《法句經故事集》，二十二～八、 `觀念錯誤的裸形外道 <{filename}../dhp-story/dhp-story-han-chap22-ciu%zh.rst#dhp-316>`__  (偈 316~317)。
 
 .. [MettFn22-11] 〔明法尊者註22-11〕 外道信徒不希望他們的孩子和佛教徒的孩子在一起，某次因緣，佛陀要這些孩子進來，講法給他們聽，後來他們的父母知道了，說「他們毀了的話」，有佛教信仰的鄰居聽到，過來跟他們談佛法，他們才開始到給孤獨園聞法，對三寶有信心。   (Dhp. 318 cp. `Dhp. 316 <#dhp316>`__ )
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap22.pdf>`__  ，二十二～九、孩童拜訪佛陀 (偈 318~319)。
+                  PS: 請參《法句經故事集》，二十二～九、 `孩童拜訪佛陀 <{filename}../dhp-story/dhp-story-han-chap22-ciu%zh.rst#dhp-318>`__  (偈 318~319)。
+
+.. [dhp-a-311-note] 「孤沙草」： *kusa* grass, 香草的名字。
+
+.. [dhp-a-315-note] 例如佛陀出現世間，與人共修，健康的身體，擁有正見等。
 
 .. [NāradaFn22-01] (Ven. Nārada 22-01) Saṅkassaraṃ = to think or remember with suspicion.
 
@@ -40718,7 +41074,12 @@
 
     In order to ascertain a good future existence, both in this life and in the next one, we must always understand and distinguish right from wrong, good from bad. We also must use our understanding and insight to be able to decide which is which. Without this understanding we might choose wrongly and believe the good to be bad and vice versa. In this way, our future existence will not be good.
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
 .. [NandFn22-01] 〔校註22-01〕 原參考處無；而 Dhp. 316: 法句經：可羞不羞，非羞反羞，生為邪見，死墮地獄。可畏不畏，非畏反畏，信向邪見，死墮地獄T4,570b 
+
 
 .. [LChnFn23-01] 〔註23-01〕  「信度 (Sindhu) 駿馬」，即印度河地方所產的駿馬。
 
@@ -40742,7 +41103,7 @@
 
 .. [MettFn23-03] 〔明法尊者註23-03〕 摩醯提利(Māgaṇḍiyā)是優填王的三個后妃之一，當她知道佛陀來到憍賞彌之後，派惡徒加以毀謗，阿難尊者建議佛陀到別的地方去，佛陀說到別的地方也可能受人毀謗。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap23.pdf>`__  ，二十三～一、佛陀忍受毀謗 (偈 320~322)。
+                  PS: 請參《法句經故事集》，二十三～一、 `佛陀忍受毀謗 <{filename}../dhp-story/dhp-story-han-chap23-ciu%zh.rst#dhp-320>`__  (偈 320~322)。
 
 .. [MettFn23-04] 〔明法尊者註23-04〕 **難到境地** ：agataṁ disaṁ，指涅槃。
 
@@ -40750,27 +41111,37 @@
 
 .. [MettFn23-06] 〔明法尊者註23-06〕 舍衛城中，有一位年老的婆羅門，他有八十萬財富，他分四十萬給四個結婚的兒子。後來，他的夫人去世了，他的兒子們勸他，把剩下的一半財產也全部分給他們，此後這老人分文不值。因為兒子媳婦不孝，老人從此流落街頭，拿著一缽一杖，前去找佛陀，佛陀就教他在大型聚會時，朗誦偈語 (S.7.14./I,176.)︰「我生子歡喜，我望子成就；他們與妻謀，趕我如趕豬；孽子看我衰，叫我爸.阿爸；子如夜叉形，捨棄我而去；如無用老馬，食物被拿走；長老乃子父，他家行乞食；若比不孝子，我的拐杖好；可趕走兇牛，也可趕兇狗；暗中作前導，涉深水作基；依拐杖威力，跌倒又爬起。」佛陀說，人若妥善照顧父母，可以得到功德。佛陀也講大象財護照顧父母的故事，財護被捕後，天天思念森林裡的父母。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap23.pdf>`__  ，二十三～一、佛陀忍受毀謗 (偈 324)。
+                  PS: 請參《法句經故事集》，二十三～三、 `父親與不肖的兒子們 <{filename}../dhp-story/dhp-story-han-chap23-ciu%zh.rst#dhp-324>`__  (偈 324)。
 
 .. [MettFn23-07] 〔明法尊者註23-07〕 **數入胎** ：指生死輪迴。貪睡又貪食則更趨向於三惡道(畜生、餓鬼、地獄)。
 
 .. [MettFn23-08] 〔明法尊者註23-08〕 這是憍薩羅國波斯匿王食量過多的故事。故事與第204偈同。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap23.pdf>`__  ，二十三～四、飲食節制 (偈 325)。 另請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap15.pdf>`__  ，十五～六、飲食要節制 ( `偈 204 <{filename}dhp-contrast-reading-chap15%zh.rst#dhp204>`__ ) 的故事。
+                  PS: 請參《法句經故事集》，二十三～四、 `飲食節制 <{filename}../dhp-story/dhp-story-han-chap23-ciu%zh.rst#dhp-325>`__  (偈 325)。 另請參《法句經故事集》，十五～六、 `飲食要節制 <{filename}../dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp-204>`__   ( `偈 204 <{filename}dhp-contrast-reading-chap15%zh.rst#dhp204>`__ ) 的故事。
 
 .. [MettFn23-09] 〔明法尊者註23-09〕 憍薩羅國王的一頭大象波梨耶(Pāveyyaka)老了的時候，某次陷入泥沼，國王找馴象師來幫忙，馴象師要人奏戰鼓，波梨耶聞聲大振，脫離困境。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap23.pdf>`__  ，二十三～六、隨著鼓聲起舞的老象 (偈 327)。
+                  PS: 請參《法句經故事集》，二十三～六、 `隨著鼓聲起舞的老象 <{filename}../dhp-story/dhp-story-han-chap23-ciu%zh.rst#dhp-327>`__  (偈 327)。
 
 .. [MettFn23-10] 〔明法尊者註23-10〕 憍賞彌比丘，因判定有罪、無罪意見不同而起諍論。故事與第6偈同。 (Dhp. 328~330 cf. M.III, 154; Dhp. 330 cf.61)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap23.pdf>`__  ，二十三～七、照顧佛陀的大象 (偈 328~330)。 另參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～五、憍賞彌諍論不休的比丘們 ( `偈 006 <{filename}dhp-contrast-reading-chap01%zh.rst#dhp006>`__ ) 的故事。
+                  PS: 請參《法句經故事集》，二十三～七、 `照顧佛陀的大象 <{filename}../dhp-story/dhp-story-han-chap23-ciu%zh.rst#dhp-328>`__  (偈 328~330)。 另參《法句經故事集》，一～五、 `憍賞彌諍論不休的比丘們 <{filename}../dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-006>`__  ( `偈 006 <{filename}dhp-contrast-reading-chap01%zh.rst#dhp006>`__ ) 的故事。
 
 .. [MettFn23-11] 〔明法尊者註23-11〕 **沙門、聖人** (brahmañña婆羅門)︰指佛陀、辟支佛、阿羅漢。
 
 .. [MettFn23-12] 〔明法尊者註23-12〕 佛陀住喜瑪拉雅山時，發現當地受暴君統治，心想是否有法王子可以來統治，魔波旬慫恿佛陀當國王。佛陀說此偈。 (Dhp. 328~330 cf. M.III,154.)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap23.pdf>`__  ，二十三～八、魔波旬企圖慫恿佛陀 (偈 331~333)。
+                  PS: 請參《法句經故事集》，二十三～八、 `魔波旬企圖慫恿佛陀 <{filename}../dhp-story/dhp-story-han-chap23-ciu%zh.rst#dhp-331>`__  (偈 331~333)。
+
+.. [dhp-a-322-note] 印度河地區出產的駿馬。
+
+.. [dhp-a-322-note2] 大象名。
+
+.. [dhp-a-324-note] 「財護」為象名。
+
+.. [dhp-a-324-han-note] 譯者註：佛陀說此法句告誡世人應該孝順父母。
+
+.. [dhp-a-332-note] 「聖者」：指佛陀、阿羅漢...等。
 
 .. [NāradaFn23-01] (Ven. Nārada 23-01) Dantena by sense-control.
 
@@ -40845,13 +41216,18 @@
 
     Virtue is the first and the most important factor that we must firmly establish before we start on the way towards the Awakenment. Abstaining from evil can of course be seen as a part of a moral life, but special emphasis is being put on this, because it is the first basic part of morality. Then there is trust, confidence that the way is truly leading towards the goal, that the methods described by the Buddha really work. And then can we start cultivating our minds in meditation in order to attain wisdom and achieve the Awakenment.
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
 .. [NandFn23-01] 〔校註23-001〕 繫縛不入食
 
                      說明：參考法雨道場( 明法 法師)出版之修訂版，依巴、英及語體本更正。
 
-.. [NandFn23-02] 〔Nanda 校註22-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap23.pdf>`__  ，二十三～二、人必須自我訓練 (偈 323)。
+.. [NandFn23-02] 〔Nanda 校註22-02〕 請參《法句經故事集》，二十三～二、 `人必須自我訓練 <{filename}../dhp-story/dhp-story-han-chap23-ciu%zh.rst#dhp-323>`__  (偈 323)。
 
-.. [NandFn23-03] 〔Nanda 校註22-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap23.pdf>`__  ，二十三～五、沙彌和前世母親的神祇 (偈 326)。
+.. [NandFn23-03] 〔Nanda 校註22-03〕 請參《法句經故事集》，二十三～五、 `沙彌和前世母親的神祇 <{filename}../dhp-story/dhp-story-han-chap23-ciu%zh.rst#dhp-326>`__  (偈 326)。
+
 
 .. [LChnFn24-01] 〔註24-01〕  「毗羅那」（Birana）草名。
 
@@ -40883,7 +41259,7 @@
 
 .. [MettFn24-02] 〔明法尊者註24-02〕 舍衛城的一群漁夫捕到一條漂亮的金色魚，就把它獻給國王，國王就帶著魚去見世尊。這一條魚張開嘴巴時，口臭難聞，國王問佛陀原因。佛陀說，迦葉佛時，這魚原是一名叫迦毗羅的比丘，由於嫻熟佛法，所以有好名聲，但也因此貢高，瞧不起其他比丘。迦毗羅曾教導佛法，所以具有金色魚身，但是他辱罵其他比丘和法，所以有口臭難聞。最後佛陀告誡大眾要解行並重。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap24.pdf>`__  ，二十四～一、口臭的金魚 (偈 334~337)。
+                  PS: 請參《法句經故事集》，二十四～一、 `口臭的金魚 <{filename}../dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-334>`__  (偈 334~337)。
 
 .. [MettFn24-03] 〔明法尊者註24-03〕 **三十六愛** ：DhA.vv.338.~343./CS:pg.2.332.︰“iti ajjhattikassūpādāya aṭṭhārasa taṇhāvicaritāni bāhirassūpādāya aṭṭhārasa  taṇhāvicaritānī”ti.(內有十八愛行，外有十八愛行，這是(三十六)愛行。)。十八愛行：眼.耳.鼻.舌.身.意，各個的欲愛、有愛、無有愛(不再生存的愛)。內︰指自己。外︰指他人。
 
@@ -40891,27 +41267,27 @@
 
 .. [MettFn24-05] 〔明法尊者註24-05〕 有一次，佛陀到王舍城托缽時，見到一隻母豬，作了微笑。阿難尊者問因緣，佛陀說︰「這隻母豬在拘留孫佛(Kakusandassa Bhagavato, 這個賢劫的第一尊佛，第二尊為拘那含佛，第三尊為釋迦牟尼佛)時，住在附近的母雞，有機會聽到唱誦毘缽舍那業處的法音，死後成為一位Ubbarī公主，她有一天看到廁所的蛆蟲，生起蟲聚相(puḷavakasaññaṁ)，得到初禪，死亡後投生梵天，又經多次轉生，這一生(因為惡業)，生為豬，這是我微笑的原因。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap24.pdf>`__  ，二十四～二、業報 (偈 338~343)。
+                  PS: 請參《法句經故事集》，二十四～二、 `業報 <{filename}../dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-338>`__  (偈 338~343)。
 
 .. [MettFn24-06] 〔明法尊者註24-06〕 **捨欲.喜林間** ︰捨俗家生活之欲，喜愛在林間，過修行生活。
 
 .. [MettFn24-07] 〔明法尊者註24-07〕 一位出家又還俗的弟子，後來淪為小偷，將被處決時，因他的修持禪定， 表露鎮定，被劊子手感動，劊子手向國王報告，後來被釋放，世尊知道後，說出此偈。此弟子後來又出家並證得初果。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap24.pdf>`__  ，二十四～三、勇敢面對死亡的男人 (偈 344)。
+                  PS: 請參《法句經故事集》，二十四～三、 `勇敢面對死亡的男人 <{filename}../dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-344>`__  (偈 344)。
 
 .. [MettFn24-08] 〔明法尊者註24-08〕 一群比丘早上托缽時，看見拘薩羅王(Kosalarañño)押解許多位破壞份子(sandhicchedaka)、小偷(panthaghātaka)、殺手(manussaghātaka)、盜匪(cora)。回到精舍後，他們向世尊報告被捕下獄的盜賊，並問世尊有沒有比鐐銬更束縛的東西，世尊因此說出此偈。本段另譯作︰「鐵.繩以及木，或以葦之網，賢者不云縛；以心為迷醉，寶玉及珠環，繫念妻與子，賢者云強縛；牽引於此人，雖緩亦難離；無欲捨欲樂，斷此而出家。」(cf. S.3.10.Bandhana (繫縛)/ I,77.﹐《別譯雜阿含62經》﹐J.201. ，《雜阿含1235經》)。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap24.pdf>`__  ，二十四～四、貪欲的束縛 (偈 345~346)。
+                  PS: 請參《法句經故事集》，二十四～四、 `貪欲的束縛 <{filename}../dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-345>`__  (偈 345~346)。
 
 .. [MettFn24-09] 〔明法尊者註24-09〕 離一切苦而遨遊：anapekkhino(離) sabbadukkhaṁ(一切苦) pahāya(捨)，捨離一切苦。巴利文無「遨遊」之意。
 
 .. [MettFn24-10] 〔明法尊者註24-10〕 有一次，一個雜技團來王舍城表演。有一位名字叫做優迦紳那(Uggaseno)的年輕富 家子在觀賞一位漂亮的女舞者的表演後，愛上她，跟她結婚。婚後，他跟著這戲團到處去，但他只做雜役。因太太的諷刺，他就訓練成為一位傑出的特技演員。後來，雜技團再度回到王舍城表演，優迦紳那出場表演。這時候佛陀透過神通，知道他了解佛法的機緣成熟了。佛陀就進入戲團表演的場地，並且運用神通使觀眾的注意力轉移到他身上，而忘了喝采。優迦紳那心裡不高興。佛陀就告誡他：「優迦紳那！有智慧的人不執著因緣和合的事物，反而精進修行，希望解脫生死輪迴。」優迦紳那就在竹竿上，立刻證得阿羅漢果。然後，他出家。佛陀說優迦紳那出生在迦葉佛的那一世，某日，他和太太布施給一位比丘，並許願：「尊者！願我們能如實知見佛法。」當時，那位阿羅漢比丘以神通觀察未來，發現他們會達成願望，就微笑一下。優迦紳那並不知情，反而輕蔑的說，這比丘像個戲子。由於他的輕浮，才會跟戲班去跑碼頭。 (cp. `Dhp. 238 <{filename}dhp-contrast-reading-chap18%zh.rst#dhp403>`__ 
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap24.pdf>`__  ，二十四～六、特技演員變成聖者 (偈 348)。 本故事尚有後篇： `「沒有束縛就沒有恐懼」 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ （二十六～十四），  `Dhp. 397 <{filename}dhp-contrast-reading-chap26%zh.rst#dhp403>`__
+                  PS: 請參《法句經故事集》，二十四～六、 `特技演員變成聖者 <{filename}../dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-348>`__  (偈 348)。 本故事尚有後篇： `「沒有束縛就沒有恐懼」 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-397>`__ （二十六～十四），  `Dhp. 397 <{filename}dhp-contrast-reading-chap26%zh.rst#dhp403>`__
 
 .. [MettFn24-11] 〔明法尊者註24-11〕 一位女子愛上一位比丘，比丘也迷戀她，因此日漸憔悴。佛陀告誡他，他過去世曾在怛剎尸羅國(Takkasilā,梵Takṣaśilā德叉尸羅，離波羅奈約1500公里，佛世時的文教鼎盛的城市)學習弓箭，成為神弓箭手，弓箭把女兒許配給他，有一天他殺到波羅奈(Bārāṇasī)，遇上強盜，他用五十支箭射死五十位強盜，弓箭用完了，他要他的太太拿刀給他，準備殺強盜首領，但是當他的太太一見到首領，就愛上他，於是把刀交給首領，他被首領殺死，他的太太跟首領遠走高飛，後來首領對她有疑慮，也遺棄她。這位女子，就是過去世曾讓他喪生的那位女子。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap24.pdf>`__  ，二十四～七、年輕女孩誘惑比丘 (偈 349~350)。
+                  PS: 請參《法句經故事集》，二十四～七、 `年輕女孩誘惑比丘 <{filename}../dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-349>`__  (偈 349~350)。
 
 .. [MettFn24-12] 〔明法尊者註24-12〕 nirittipadakovido為「通達詞與他句」，指四無礙解(catupaṭisambhidā)──詞義(nirutti)、義理(attha)、法 (dhamma原理)、辯才(paṭibhāna)。「字聚次第」指辯才。
 
@@ -40919,23 +41295,29 @@
 
                   眾多比丘在非時(vikāle, 過中午到隔日天亮)來竹林精舍，羅睺羅尊者(Rāhulatthera)被安排在佛陀的香室(Gandhakuṭi)門口睡覺。當時羅睺羅已經證得阿羅漢果，晚上魔波旬來恐嚇，但是他不會害怕。佛陀說︰「如此的百千個魔羅，我的兒子也不可能害怕，兒子已不發抖，無貪愛，大精進，大智慧。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap24.pdf>`__  ，二十四～八、魔波旬恐嚇羅睺羅 (偈 351~352)。
+                  PS: 請參《法句經故事集》，二十四～八、 `魔波旬恐嚇羅睺羅 <{filename}../dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-351>`__  (偈 351~352)。
 
 .. [MettFn24-14] 〔明法尊者註24-14〕 佛陀成道後往鹿野苑途中，遇邪命外道優波迦(Upako)，他問佛陀，佛陀以此句回答。優波迦接著問法，佛陀就跟他開示。聽法後，優波迦不置可否，搖頭伸舌，就離開了。(DhA.CS:pg.2.350；M.26. / I, 171.；cf. Vin.I, p.8.)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap24.pdf>`__  ，二十四～九、領會佛法的奧妙並不容易 (偈 353)。
+                  PS: 請參《法句經故事集》，二十四～九、 `領會佛法的奧妙並不容易 <{filename}../dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-353>`__  (偈 353)。
 
 .. [MettFn24-15] 〔明法尊者註24-15〕 有一次，忉利天神聚集在一起討論四個問題，但無法得到最佳的答案。最後，帝釋和他們一齊赴祇樹給孤獨園去見佛陀，向佛陀提出他們的四個問題：(1)什麼是最佳的禮物？(2)什麼是味道最好的東西？(3)什麼是最喜悅的事？(4)為什麼棄絕愛欲最卓越？(“kataraṁ dānaṁ nu kho dānesu, kataro raso rasesu, katarā rati ratīsu jeṭṭhakā, taṇhakkhayova kasmā jeṭṭhakoti vuccatī”ti?) 佛陀回答道：「(1)所有的禮物，佛法是最高尚的，(2)所有的味，法味最上味的。(3)所有的喜，法喜是最上喜的。(4)棄絕愛欲，勝過所有苦。」(“Sabbadānaṁ dhammadānaṁ jināti, Sabbarasaṁ dhammaraso jināti. Sabbaratiṁ dhammarati jināti, Taṇhakkhayo sabbadukkhaṁ jinātī”ti.)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap24.pdf>`__  ，二十四～十、帝釋的請求 (偈 354)。
+                  PS: 請參《法句經故事集》，二十四～十、 `帝釋的請求 <{filename}../dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-354>`__  (偈 354)。
 
 .. [MettFn24-16] 〔明法尊者註24-16〕 本則為無子富翁(Aputtakaseṭṭhi)的故事。無子富翁身後無子女繼承，全部財產悉數入公庫。波斯匿王前接收富翁的財產之後，來見佛陀，報告那位富翁生前非常吝嗇，從來沒有做過一件善事，自己不捨得花錢，省吃儉用一生只穿粗布衣裳。佛陀說，那富翁前世也是一位富翁：有一天，當一位獨覺佛來到他家托缽，他叫妻子隨便佈施點食物。那富翁在路上遇見那獨覺佛，當他發現獨覺佛的缽裝得滿滿時，便開始埋怨妻子。這富翁也為了謀奪兄弟的財產殺害姪兒。由於他前世曾經佈施給獨覺佛，所以今世仍然是一位富翁，但是他佈施後又覺得後悔，所以他今世刻薄自己。他謀財害人，使他七世都在地獄裡受苦。現在雖然轉世為人，可是他不累積善業，再墮入惡趣。(cf. DhpA.v.355.，S.3.20.Aputtaka無子者(2)﹐《別譯雜阿含60經》﹐《增壹阿含23.4經》, 《佛說菩薩本行經》,T3.109.3)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap24.pdf>`__  ，二十四～十一、富貴使人更加貪婪 (偈 355)。
+                  PS: 請參《法句經故事集》，二十四～十一、 `富貴使人更加貪婪 <{filename}../dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-355>`__  (偈 355)。
 
 .. [MettFn24-17] 〔明法尊者註24-17〕 安苦拉天神(Ankura)問布施差別。佛陀說，佈施時要懂得識別；只有把種子種在良田地裡讓它開花結果，才能獲得更大的福報。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap24.pdf>`__  ，二十四～十二、在肥沃土地上播種，收獲特別多 (偈 356~359)。
+                  PS: 請參《法句經故事集》，二十四～十二、 `在肥沃土地上播種，收獲特別多 <{filename}../dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-356>`__  (偈 356~359)。
+
+.. [dhp-a-335-note] 「毘羅草」：草名。
+
+.. [dhp-a-340-note] 以譬喻貪欲如同蔓草，經由六根，染著六塵。
+
+.. [dhp-a-346-note] 指對珠寶、裝飾、兒女、妻子的貪愛。
 
 .. [NāradaFn24-01] (Ven. Nārada 24-01) Craving is threefold, viz: craving for sensual pleasures (kāmataṇhā), craving connected with the notion of eternalism (bhavataṇhā), and craving connected with the notion of nihilism (vibhavataṇhā).
 
@@ -41138,11 +41520,16 @@
 
     By these four verses the Buddha stresses the importance of giving alms to those who really deserve it. To give alms to those who are just lazy to work for their living will do harm to the society as well as to those people in question.
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
 .. [NandFn24-01] 〔校註24-01〕 `出曜經卷第五 愛品第三 <http://www.cbeta.org/result/normal/T04/0212_005.htm>`__ ； T04n0212_p0633c12(00)〔（取材自《法句経の対照研究》-- 法句経の発展成立史研究，丹生実憲 著，日本印度学会，昭和43（1968）〕
 
-.. [NandFn24-02] 〔Nanda 校註24-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap24.pdf>`__  ，二十四～五、美色是膚淺的 (偈 347)。 
+.. [NandFn24-02] 〔Nanda 校註24-02〕 請參《法句經故事集》，二十四～五、 `美色是膚淺的 <{filename}../dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-347>`__  (偈 347)。 
 
-                  另參考 `Dhp. 080 <{filename}dhp-contrast-reading-chap06%zh.rst#dhp080>`__ ， `故事集　六～五、「年輕沙彌的修行成就」 <{filename}/extra/pdf/Dhp-story-han-chap06.pdf>`__ ；  後續故事請參考：`故事集　二十六～二十、佛陀稱讚讖摩比丘尼 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__， `Dhp. 403 <{filename}dhp-contrast-reading-chap26%zh.rst#dhp403>`__ 
+                  另參考 `Dhp. 080 <{filename}dhp-contrast-reading-chap06%zh.rst#dhp080>`__ ， `故事集　六～五、「 `年輕沙彌的修行成就 <{filename}../dhp-story/dhp-story-han-chap06-ciu%zh.rst#dhp-080>`__ 」； 後續故事請參考：`故事集　二十六～二十、佛陀稱讚讖摩比丘尼 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-403>`__， `Dhp. 403 <{filename}dhp-contrast-reading-chap26%zh.rst#dhp403>`__ 
+
 
 .. [LChnFn25-01] 〔註25-01〕  「舟」喻身體；「水」喻身中的念頭。
 
@@ -41172,27 +41559,27 @@
 
 .. [MettFn25-01] 〔明法尊者註25-01〕 五位比丘各自調伏五根的一根，他們自自己調伏的那一根最難修。佛陀說，每一根同樣都難修。(Dhp. 361 cp. Dhp. 189) (cp. S.3.5./I,73; 《雜阿含1229經》，《別譯雜阿含56經》)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__  ，二十五～一、比丘應該調伏五根 (偈 360~361)。
+                  PS: 請參《法句經故事集》，二十五～一、 `比丘應該調伏五根 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-360>`__  (偈 360~361)。
 
 .. [MettFn25-02] 〔明法尊者註25-02〕 有一位比丘善於投擲石頭，能準確命中。有一天，他投擲一隻大雁鳥，該雁墮落後喪命。同伴目睹後，向佛陀報告。佛陀因此說了此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__  ，二十五～二、比丘殺死大雁鳥 (偈 362)。
+                  PS: 請參《法句經故事集》，二十五～二、 `比丘殺死大雁鳥 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-362>`__  (偈 362)。
 
 .. [MettFn25-03] 〔明法尊者註25-03〕 提婆達多的黨羽之一瞿迦梨迦(Kokālika)因謗舍利弗與目犍連，墮紅蓮地獄。S.6.10.說瞿迦利迦向世尊說：「舍利弗、目犍連是惡欲(pāpicchā邪淫)者，是受惡欲所支配者。」因此，離去後不久，全身生瘡而死，墮紅蓮地獄。(cf. Sn.3-10.，A.10.89.，《別譯雜阿含106經》，《一卷.雜阿含5 經》，《大正No.203.《雜寶藏經》第28則「仇伽離謗舍利弗等緣」)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__  ，二十五～三、比丘應該慎言 (偈 363)。
+                  PS: 請參《法句經故事集》，二十五～三、 `比丘應該慎言 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-363>`__  (偈 363)。
 
 .. [MettFn25-04] 〔明法尊者註25-04〕 佛陀宣告︰「四個月後即將般涅槃。」許多凡夫比丘生悚懼心，來親近佛陀，一夥人來討論「我們該怎麼辦？」有位達摩拉瑪比丘(Dhammārāmo)依然保持正常的作息，不來佛陀的身邊。其他比丘誤解他的心意，便向佛陀報告。達摩拉瑪比丘於是恭敬地向佛陀解釋，他對佛陀最崇敬的就是在佛陀般涅槃之前，證得阿羅漢果。佛陀讚歎他：「做得好！尊敬我的比丘，應該像你一樣。只有真正法隨法行(dhammānudhammaṁ paṭipajjantāyeva)的人才是真正尊敬我的人。」(與166偈的 `故事--十二～十、精進的比丘 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__ 同)。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__  ，二十五～四、尊重佛陀的方法 (偈 364)。
+                  PS: 請參《法句經故事集》，二十五～四、 `尊重佛陀的方法 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-364>`__  (偈 364)。
 
 .. [MettFn25-05] 〔明法尊者註25-05〕 佛陀一位弟子跟提婆達多的一位弟子友好，這位比丘在提婆達多謀害佛陀不成之後，還去提婆達多的精舍住幾天。有人向佛陀報告這位比丘的行徑。這位比丘辯稱他沒有接受提婆達多的教義。佛陀告誡他，即使這樣，別人也會誤會是他的同黨。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__  ，二十五～五、比丘應該知足 (偈 365~366)。
+                  PS: 請參《法句經故事集》，二十五～五、 `比丘應該知足 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-365>`__  (偈 365~366)。
 
 .. [MettFn25-06] 〔明法尊者註25-06〕 一位「五上施者」婆羅門(Pañcaggadāyaka)很不好意思供養佛陀已吃過一部分的米飯，佛陀說︰剩飯無所謂。五上施者問佛陀如何定義「比丘」。佛陀以偈頌回答。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__  ，二十五～六、所有供養品都一樣 (偈 367)。
+                  PS: 請參《法句經故事集》，二十五～六、 `所有供養品都一樣 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-367>`__  (偈 367)。
 
 .. [MettFn25-07] 〔明法尊者註25-07〕 **住於慈悲** ︰mettāvihārī慈住。DhpA.︰慈業處的作業，住於慈，生産第三禪、第四禪(tikacatukkajjhāne，按︰阿毘達摩的分類方式為五禪)。
 
@@ -41204,23 +41591,31 @@
 
 .. [MettFn25-11] 〔明法尊者註25-11〕 大迦旃延尊者(Mahākaccāna)在阿盤提國(Avantijanapade)的拘盧城( Kuraraghara)附近弘法時，有一位輸屢那優婆塞(Soṇo Koṭikaṇṇo)跟他出家。輸屢那比丘出家三年後，要到竹林精舍，經過家鄉，她母親以他的名義籌備大佈施會，請他在佈施會中做開示。說法當中，有一群小偷闖入她母親的家，女僕三度來通知她的母親，但是她母親不再乎錢財被拿走，她要聽法。她母親說的話被坐在附近的首領聽到，首領以為拿走這位有智慧，且高貴的女士的錢一定會被懲罰。當輸屢那比丘說法完畢已經是破曉，小偷首領率領手下向她的母親認錯，請求原諒。這群小偷明白他們的惡行之後，就出家為比丘。 (Dhp. 375 cp. `Dhp. 185 <{filename}dhp-contrast-reading-chap14%zh.rst#dhp185>`__ )
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__  ，二十五～七、虔誠的女士和小偷 (偈 368~376)。
+                  PS: 請參《法句經故事集》，二十五～七、 `虔誠的女士和小偷 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-368>`__  (偈 368~376)。
 
 .. [MettFn25-12] 〔明法尊者註25-12〕 跋悉迦花：vassikā，茉莉花、夏雨花，據說此花之香勝過諸花香。
 
 .. [MettFn25-13] 〔明法尊者註25-13〕 沙塔卡亞長老(Santakāyatthera)的前世是獅子。獅子獵到食物後，會休息 好幾天。沙塔卡亞比丘的舉止與獅子十分相似，坐著很少移動，如果移動手腳的話，會伸懶腰(kāyavijambhitā)。其他比丘認為他的舉止怪異，就向佛陀報告，佛陀聽完他們的敘述後，說：「諸比丘！比丘的應該舉止沈著，如沙塔卡亞比丘。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__  ，二十五～九、比丘應該內心寧靜 (偈 378)。
+                  PS: 請參《法句經故事集》，二十五～九、 `比丘應該內心寧靜 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-378>`__  (偈 378)。
 
 .. [MettFn25-14] 〔明法尊者註25-14〕 犁家長老(Naṅgalakulatthera難迦拉苦拉)是一位窮人。有一天，一位比丘 看見他穿破衣服耕種，就問他是否願意出家。他答應了，他把犁和舊衣服掛在一棵樹上去出家。出家後，他對比丘的生活不滿，想還俗。每次生起這種念頭的時候，他就到那棵樹下去，並且譴責自己：「不知羞恥！你還想還俗，穿舊衣，領薪過生活啊！」這樣自責之後，他的不滿就消失了。其他比丘問他為什麼經常到那棵樹下？他告訴他們：「我去親近我的老師(ācariya)。」後來，他證得阿羅漢果，就不再去那棵樹下了。其他比丘問他：「你現在怎麼不再去找你的老師了呢？」他回答說：「我以前去找老師，是因為有需要，但現在已經不需要了！」比丘們就向佛陀查證，佛陀告訴他們：「難迦拉苦拉已經證得阿羅漢果了。」本則故事跟143-144偈的卑盧帝沙(Pilotikatissa)的 `故事-- 十～十、年輕比丘和破舊的衣服 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__ 雷同。 (Dhp. 380 cp. `Dhp. 160 <{filename}dhp-contrast-reading-chap12%zh.rst#dhp160>`__ )
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__  ，二十五～十、執著於老舊的衣服 (偈 379~380)。
+                  PS: 請參《法句經故事集》，二十五～十、 `執著於老舊的衣服 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-379>`__  (偈 379~380)。
 
 .. [MettFn25-15] 〔明法尊者註25-15〕 Dhp. 381 cp. `Dhp. 368 <#dhp368>`__
 
 .. [MettFn25-16] 〔明法尊者註25-16〕 修摩拿沙彌(Sumanasāmaṇera)是阿那律陀尊者的弟子。雖然非常年輕，但由於累世以來的善業，他已經是阿羅漢了，並且具有神通力。(cp. `Dhp. 172 <{filename}dhp-contrast-reading-chap13%zh.rst#dhp172>`__ ) (cf. M.II, 104)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__  ，二十五～十二、沙彌顯神通 (偈 382)。
+                  PS: 請參《法句經故事集》，二十五～十二、 `沙彌顯神通 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-382>`__  (偈 382)。
+
+.. [dhp-a-368-note] Nanda 補註：此偈頌，〝佛陀教育基金會〞改譯為：「 `心懷慈悲, 法喜充滿的比丘, 證得清涼心和安樂(涅槃), 涅槃是諸行解脫的究竟法喜。 <http://www.budaedu.org/story/dp368.php>`__ (偈368)」；果儒法師則改為：「心懷慈悲、好樂佛陀教法的比丘，證得寂靜涅槃，和諸行解脫境界。」 ( `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ ) 
+
+.. [dhp-a-369-note] 舟喻色身，水喻心中的邪惡思想。Nanda 補註：「舟喻色身」，原譯著為「空喻色身」，今依「 `註解書 <{filename}../dhA/dhA-chap25%zh.rst#dhp-369>`__ 」修訂。
+
+.. [dhp-a-370-note] 有四瀑流－－欲瀑流、有瀑流、見瀑流和無明瀑流。五著：貪、瞋、癡、慢與邪見。
+
+.. [dhp-a-373-note] 指八定：四色定和四無色定。
 
 .. [NāradaFn25-01] (Ven. Nārada 25-01) Bhikkhu is exclusively a Buddhist term. "Mendicant monk" may be suggested as the best English equivalent.
 
@@ -41390,13 +41785,18 @@
 
     Once Anuruddha took Sumana to see the Buddha. Other novices laughed at Sumana because of his young age. So the Buddha announced that he wanted some novice to bring him water from Anotatta Lake. None of the novices was able to do so, except for Sumana, who flew to the lake as before. The Buddha then spoke this verse, saying that age does not matter if one practices the Dharma diligently.
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**校註：**
+
 .. [NandFn25-01] 〔校註25-001〕 比丘入屏處
 
                      說明：原版注釋正確；偈頌正文誤植也。
 
-.. [NandFn25-02] 〔Nanda 校註25-02〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__  ，二十五～八、觀想茉莉花 (偈 377)。
+.. [NandFn25-02] 〔Nanda 校註25-02〕 請參《法句經故事集》，二十五～八、 `觀想茉莉花 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-377>`__  (偈 377)。
 
-.. [NandFn25-03] 〔Nanda 校註25-03〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__  ，二十五～十一、仰慕佛陀 (偈 381)。
+.. [NandFn25-03] 〔Nanda 校註25-03〕 請參《法句經故事集》，二十五～十一、 `仰慕佛陀 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-381>`__  (偈 381)。
+
 
 .. [LChnFn26-01] 〔註26-01〕  這裡所說的婆羅門（Brahmana）是指斷惑證真的人，和通常所講的婆羅門意義不同。讀本品頌文可知。
 
@@ -41455,13 +41855,13 @@
 
 .. [MettFn26-02] 〔明法尊者註26-02〕 一位虔誠的婆羅門在聽佛陀說法後，非常的喜悅。以後便每天在家裡供養十六位比丘，他對每位比丘都尊稱他們為阿羅漢。那些未證阿羅漢果的比丘感到很尷尬，便不再到他的家接受供養。他來到精舍向佛陀問原因。僧眾把不敢接受被他稱為阿羅漢的事實告訴佛陀。佛陀說：「你們難道不喜歡他尊稱你們為阿羅漢嗎？」「大德！我們不喜歡。」「諸比丘！這只不過是人們感到喜悅時的表現，表現喜悅並沒有罪過。這位婆羅門對阿羅漢是無限的關愛。因此你們應該截斷欲流，追求阿羅漢境界。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__  ，二十六～一、比丘不一定就是阿羅漢 (偈 383)。
+                  PS: 請參《法句經故事集》，二十六～一、 `比丘不一定就是阿羅漢 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-383>`__  (偈 383)。
 
 .. [MettFn26-03] 〔明法尊者註26-03〕 **住於二法** ：dvayesu dhammesu，即止禪(四禪八定)、觀禪(觀名色的實相—無常、苦、無我)。
 
 .. [MettFn26-04] 〔明法尊者註26-04〕 有一天，三十名比丘在外地居住的僧人來禮敬佛陀，並坐下來。舍利弗尊者觀察他們有證得阿羅漢的潛能，便去見佛陀。他在他們面前站著問佛陀：「大德！您常說的兩法，到底是哪兩法？」「那就是『止』與『觀』(samathavipassanā)。」佛陀說完偈頌之後，他們就都證得阿羅漢果。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__  ，二十六～二、清淨與止觀 (偈 384)。
+                  PS: 請參《法句經故事集》，二十六～二、 `清淨與止觀 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-384>`__  (偈 384)。
 
 .. [MettFn26-05] 〔明法尊者註26-05〕 **無彼岸此岸** ：DhA： **pāran**\ti ajjhattikāni cha āyatanāni.  **Apāran**\ti bāhirāni cha āyatanāni. **Pārāpāran**\ti  tadubhayaṁ.( **彼岸** ：自我身內的六處(眼.耳.鼻.舌.身.意)。 **非彼岸** ：外部的六處(色.聲.香.味.觸.法)。) 不著彼岸.此岸，故說無彼岸此岸。
 
@@ -41469,29 +41869,29 @@
 
 .. [MettFn26-07] 〔明法尊者註26-07〕 魔王問佛陀：「世尊！您說彼岸、彼岸(pāraṁ pāranti)。彼岸是什麼意思？」佛陀對他說：「啊！惡魔！彼岸跟你無關。離染才能到達彼岸。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__  ，二十六～三、何處是彼岸 (偈 385)。
+                  PS: 請參《法句經故事集》，二十六～三、 `何處是彼岸 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-385>`__  (偈 385)。
 
 .. [MettFn26-08] 〔明法尊者註26-08〕 有一位婆羅門，認為「喬答摩佛陀稱呼弟子為‘婆羅門’，那麼他是出生種姓為婆羅門，難道不這樣稱呼我？」他就前去見佛陀，並向佛陀說明他的看法。佛陀說：「婆羅門！我不會因為出生種姓，而稱呼為‘婆羅門’。只有證得最高境界的阿羅漢，我才稱他為‘婆羅門’。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__  ，二十六～四、誰才是真正的婆羅門？ (偈 386)。
+                  PS: 請參《法句經故事集》，二十六～四、 `誰才是真正的婆羅門？ <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-386>`__  (偈 386)。
 
 .. [MettFn26-09] 〔明法尊者註26-09〕 某年的七月的自恣日(月圓日)，在鹿母講堂(Migāramātupāsāde)，波斯匿王一身盛裝，前來向佛陀問訊。當時，坐在大眾邊緣的迦留陀夷長老(Kāḷudāyitthero)也正入深定中，發出金黃色光。太陽正在下山，而月亮也正要出來，在天邊放光芒。阿難尊者看見佛陀身上的光輝，遠比其它的光芒更耀眼。阿難跟佛陀行禮後，說：「大德！你身上綻放出來的光輝勝過所有的光。」佛陀回答阿難：「太陽白天放光；月亮晚上放光；國王的裝飾亮麗；捨斷煩惱(khīṇāsave)的僧團，及入三摩缽地耀眼；諸佛日夜都綻放五種光輝。」 (cf. S.21.11./ ii284)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__  ，二十六～五、佛陀的榮耀 (偈 387)。
+                  PS: 請參《法句經故事集》，二十六～五、 `佛陀的榮耀 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-387>`__  (偈 387)。
 
 .. [MettFn26-10] 〔明法尊者註26-10〕 一位婆羅門出家為外道出家人，認為「喬答摩佛陀稱呼弟子為‘出家人’，我是出家人，也該稱呼我為‘出家人’。」他就前去見佛陀，並向佛陀說明他的看法。佛陀說：「我不會因為這樣的外表而稱呼他們為‘出家人’。污垢(kilesamalānaṁ)的出離者，我才稱他為‘出家人’。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__  ，二十六～六、隱士並不一定就是比丘 (偈 388)。
+                  PS: 請參《法句經故事集》，二十六～六、 `隱士並不一定就是比丘 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-388>`__  (偈 388)。
 
 .. [MettFn26-11] 〔明法尊者註26-11〕 有一位婆羅門，從舍利弗尊者背後打他，舍利弗尊者連頭也不回。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__  ，二十六～七、不可以毆打阿羅漢 (偈 389~390)。
+                  PS: 請參《法句經故事集》，二十六～七、 `不可以毆打阿羅漢 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-389>`__  (偈 389~390)。
 
 .. [MettFn26-12] 〔明法尊者註26-12〕 **婆羅門** ：在此指一般的祭祀婆羅門。
 
 .. [MettFn26-13] 〔明法尊者註26-13〕 舍利弗尊者每天入睡前都遙向馬勝尊者的方向禮拜，有些比丘誤會他還有舊有的婆羅門宗教行為，佛陀說︰「他不是拜四方，他禮拜引他聞法證得須陀洹果的自己的阿闍梨馬勝尊者(Assajitthera)，任何比丘都要依止阿闍梨學法，就像婆羅門拜火一樣，恭敬禮拜。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__  ，二十六～九、尊敬值得尊敬的人 (偈 392)。
+                  PS: 請參《法句經故事集》，二十六～九、 `尊敬值得尊敬的人 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-392>`__  (偈 392)。
 
 .. [MettFn26-14] 〔明法尊者註26-14〕 **真實** ：四聖諦。達摩：九出世間法。
 
@@ -41499,7 +41899,7 @@
 
 .. [MettFn26-16] 〔明法尊者註26-16〕 有一位纏髮的苦行婆羅門(jaṭilabrāhmaṇa)，認為「我母我父都是出生於純婆羅門家族，喬答摩佛陀稱呼弟子為‘婆羅門’，難到不這樣稱呼我？」他就前去見佛陀，並向佛陀說明他的看法。佛陀說：「婆羅門！我不會因為任何人是婆羅門，或結髮，或者出生種姓為婆羅門，就稱呼他為‘婆羅門’。只有貫通(四聖)諦者(paṭividdhasaccameva)，我才稱他為‘婆羅門’。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__  ，二十六～十、領悟佛法的人才是婆羅門 (偈 393)。
+                  PS: 請參《法句經故事集》，二十六～十、 `領悟佛法的人才是婆羅門 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-393>`__  (偈 393)。
 
 .. [MettFn26-17] 〔明法尊者註26-17〕 **羊皮** ：ajina，是羊皮或羚羊皮。原作「鹿皮」，作更正。
 
@@ -41507,7 +41907,7 @@
 
 .. [MettFn26-19] 〔明法尊者註26-19〕 吉離舍比丘尼(Kisāgotamī)是「持粗衣第一」者。有一次，她騰空而來向佛陀禮敬，被來親近佛陀的帝釋天王看見，帝釋天王問佛陀她是誰？佛陀說偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__  ，二十六～十二、佛陀讚嘆吉離舍瞿曇彌比丘 (偈 395)。本故事為 `八～十三、死而復生 <{filename}/extra/pdf/Dhp-story-han-chap08.pdf>`__ 的續篇 (Dhp. 114)。
+                  PS: 請參《法句經故事集》，二十六～十二、 `佛陀讚嘆吉離舍瞿曇彌比丘 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-395>`__  (偈 395)。本故事為 `八～十三、死而復生 <{filename}../dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-114>`__ 的續篇 (Dhp. 114)。
 
 .. [MettFn26-20] 〔明法尊者註26-20〕 **「菩」者** ：菩(Bho喂)，是對平輩或下輩的稱呼。
 
@@ -41515,53 +41915,53 @@
 
 .. [MettFn26-22] 〔明法尊者註26-22〕 有位婆羅豆婆遮婆羅門(Bhāradvāja)，他的妻子陀然闇仁(Dhānañjanī)已證得初果。每當她打噴嚏、咳嗽或跌倒時，總是說：「皈依世尊‧阿羅漢‧無上正等正覺者。」有一天，因此，婆羅豆婆遮很生氣。於是，他生氣的說：「討厭的女人，我將和你的導師辯論，使他慘敗。」那女人說：「儘管去吧！婆羅門。我從來沒有見過在辯論中能令佛陀慘敗的人。去和他辯論吧！」那婆羅門前去找佛陀辯論。他見到佛陀時也不敬禮，就以詩偈方式提出問題：「滅何物才能過安樂的生活？滅何物才不再有苦惱？喬達摩你有何滅此物的方法？」佛陀回答：「滅瞋者過安樂的生活。滅瞋者不再有苦惱。婆羅門！瞋是裹上糖衣的毒藥。聖人讚頌滅瞋者，因為他已滅瞋，他不再有苦惱。」那婆羅門為佛陀的解說而折服，便皈依佛陀出家為比丘；不久後證得阿羅漢果。  (cp. Dh385) (=Sn.623)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__  ，二十六～十六、佛陀制服辱罵他的四位婆羅門兄弟 (偈 399)。
+                  PS: 請參《法句經故事集》，二十六～十六、 `佛陀制服辱罵他的四位婆羅門兄弟 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-399>`__  (偈 399)。
 
 .. [MettFn26-23] 〔明法尊者註26-23〕 有一次，佛陀在竹林精舍時，舍利弗和一群比丘前往那羅卡村(nālakagāme)他母親的家去托缽。他母親拿食物給舍利弗長老時，說：「你是吃剩菜剩飯的人！你拋棄所有的財富，出家做比丘，你毀了我們！」她接著拿食物給其他比丘時，也粗魯地說：「你們當我的兒子的小侍者，現在吃吧！」舍利弗長老一語不發，只是保持沉默。回精舍後，諸比丘向佛陀報告這件羞辱之事。佛陀說︰「漏盡者絕對不會生氣」(“khīṇāsavā nāma akkodhanāva hontī”ti)。  (cp. Dh385) (cp. Sn624)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__  ，二十六～十七、舍利弗尊者受母親辱罵 (偈 400)。
+                  PS: 請參《法句經故事集》，二十六～十七、 `舍利弗尊者受母親辱罵 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-400>`__  (偈 400)。
 
 .. [MettFn26-24] 〔明法尊者註26-24〕 蓮華色比丘尼為人強暴後，諸比丘討論她受不受樂。佛陀說了此偈。  (cp. Dh385) (cp. Sn625)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__  ，二十六～十八、阿羅漢不執著感官欲樂 (偈 401)。
+                  PS: 請參《法句經故事集》，二十六～十八、 `阿羅漢不執著感官欲樂 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-401>`__  (偈 401)。
 
 .. [MettFn26-25] 〔明法尊者註26-25〕 **不僧俗混雜** ：DhA： **asaṁsaṭṭhan**\ti dassana-savana-samullapana-paribhoga- kāya-saṁsaggānaṁ abhāvena asaṁsaṭṭhaṁ.( **未接觸** ：因接觸見、聽、交談、遍受用、身的消失，[是]未接觸。)
 
 .. [MettFn26-26] 〔明法尊者註26-26〕 摩訶槃特長老(Mahāpanthaka)在弟弟周利槃特(Cūḷapanthaka)出家為比丘 時已經是阿羅漢了。具壽周利槃特甚至在四個月內無法記住一句偈語。摩訶槃特長老因此對他說︰「你在教中無能，不如回家享受俗人的生活。離去吧！」就把他拖出精舍，關上門。有些比丘議論紛紛：「漏盡者是否仍然會發脾氣？」佛陀來了之後，說：「諸比丘！漏盡者沒有染等煩惱。我的兒子(mama puttena佛陀有時用以稱呼他的證果的弟子)是想以義理幫助、以法幫助。」周利槃特天生愚笨，因為他某一世曾作弄一名愚笨的比丘的果報。  (cp. Dh385) (=Sn.631)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～二十四、阿羅漢沒有精神煩惱 (偈 407)。 另請參考 `二～三、愚笨的周利槃特證得聖果  <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ 的故事 (Dhp. 025)
+                  PS: 請參《法句經故事集》，二十六～二十四、 `阿羅漢沒有精神煩惱 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-407>`__  (偈 407)。 另請參考 二～三、 `愚笨的周利槃特證得聖果  <{filename}../dhp-story/dhp-story-han-chap02-ciu%zh.rst#dhp-025>`__ 的故事 (Dhp. 025)
 
 .. [MettFn26-27] 〔明法尊者註26-27〕 畢陵伽婆蹉長老(Pilindavacchatthera)是阿羅漢，但是累世是婆羅門養成說話有傲慢的口氣。他叫人常用“ehi, Vasali, yāhi, Vasalī”ti(來！賤民！走開！賤民！)「賤民」古譯用「小婢」(T25.71﹑251﹑260﹑649；T27.71)  (cp. Dh385) (cp. Sn.632)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～二十五、習氣的力量 (偈 408)。
+                  PS: 請參《法句經故事集》，二十六～二十五、 `習氣的力量 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-408>`__  (偈 408)。
 
 .. [MettFn26-28] 〔明法尊者註26-28〕 有位阿羅漢比丘撿起來一件以為別人丟棄的衣服，被主人認為是小偷。其他比丘後來問阿羅漢比丘這衣服的質料，他回答說，他不在意它，不執著它。佛陀說了此偈︰「任何長的、短的，細的、粗的，美的、醜的，在世間不拿不給予的東的，我稱他為婆羅門。」  (cp. Dh385) (cp. Sn.633)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～二十六、比丘被控作小偷 (偈 409)。
+                  PS: 請參《法句經故事集》，二十六～二十六、 `比丘被控作小偷 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-409>`__  (偈 409)。
 
 .. [MettFn26-29] 〔明法尊者註26-29〕 有比丘向佛陀反應舍利弗尊者仍然執著物質。世尊說了此偈。 (cp. Dh168 & Dh385) (=Sn.634)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～二十七、比丘誤會舍利弗尊者 (偈 410)。
+                  PS: 請參《法句經故事集》，二十六～二十七、 `比丘誤會舍利弗尊者 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-410>`__  (偈 410)。
 
 .. [MettFn26-30] 〔明法尊者註26-30〕 有比丘向佛陀反應大目犍連尊者仍然執著物質。世尊說了此偈。 (cp. Dh385) (cp. Sn.635)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～二十八、比丘誤會大目犍連尊者 (偈 411)。
+                  PS: 請參《法句經故事集》，二十六～二十八、 `比丘誤會大目犍連尊者 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-411>`__  (偈 411)。
 
 .. [MettFn26-31] 〔明法尊者註26-31〕 本偈因離婆多長老(Revatatthera)而說。許多比丘議論紛紛︰「這沙彌得到很多供養，造很多福，他為五百比丘蓋造五百間臨時屋。」佛陀說︰「諸比丘！我的兒子(弟子)沒有福，也沒有惡；兩者都已斷了。」  (cp. Dh.267 & Dh.385) (cp. Sn.636)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～二十九、超越善惡 (偈 412)。
+                  PS: 請參《法句經故事集》，二十六～二十九、 `超越善惡 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-412>`__  (偈 412)。
 
 .. [MettFn26-32] 〔明法尊者註26-32〕 一位肚臍會發光的人肯達帕(Candabha)被帶來見佛陀，想跟佛陀較量，但是跟佛陀在一起，肚臍的光就消失，一離開又會發光，他想，佛陀知道使肚臍的光消失，他要佛陀教他，佛陀勸他先出家，後來他證得阿羅漢。  (cp. Dh385) (=Sn.637)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，三十、身體會發光的年輕人 (偈 413)。
+                  PS: 請參《法句經故事集》，三十、 `身體會發光的年輕人 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-413>`__  (偈 413)。
 
 .. [MettFn26-33] 〔明法尊者註26-33〕 這是「利得第一」的尸瓦利長老(Sīvalitthera)而說。殊帕瓦沙公主(Suppavāsā Koliyadhītā)懷孕他的時間超長，也很苦，當佛陀給她祝福之後，就順利生下來。尸瓦利過去世曾當王子，為了奪回被佔領的城池，圍城，斷水、斷炊多日，以致得到在胎中久時受苦的果報。 (cp. Dh385) (cp. Sn.638)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，三十一、特別長的懷孕期 (偈 414)。
+                  PS: 請參《法句經故事集》，三十一、 `特別長的懷孕期 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-414>`__  (偈 414)。
 
 .. [MettFn26-34] 〔明法尊者註26-34〕 山卓山慕達長老(Sundarasamuddatthera)拒絕了一位妓女的勾引。佛陀以神通力放光跟他說法。  (cp. Dh385) (=Sn.639)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，三十二、誘惑比丘的妓女 (偈 415)。
+                  PS: 請參《法句經故事集》，三十二、 `誘惑比丘的妓女 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-415>`__  (偈 415)。
 
 .. [MettFn26-35] 〔明法尊者註26-35〕 **棄捨喜.不喜** ：DhA： **ratin**\ti pañcakāmaguṇaratiṁ. **Aratin**\ti araññavāse ukkaṇṭhitattaṁ. ( **喜樂** ：喜樂五種欲。 **不喜樂** ：在疏遠處的滯留所，未滿意的狀態。)
 
@@ -41569,17 +41969,17 @@
 
 .. [MettFn26-37] 〔明法尊者註26-37〕 417-418偈因那塔其拉(Naṭakīḷa)舞者而說。他聞法後就出家，後來證得阿羅漢果，也不再喜歡跳舞了。世尊說了此偈。阿羅漢不會再跳舞，後代編的經有誤傳，如︰「時諸一切聲聞大眾(大迦葉等)，聞琴樂音不能堪耐，各從座起，放捨威儀誕貌逸樂，如小兒舞戲不能自持。」(T15.371.1) [NandFn26-15]_  (Dhp. 417 cp. Dhp. 385) (=Sn.641); (Dhp. 418 cp. Dhp. 385) (=Sn.642)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～三十五、曾經是舞者的比丘 (偈 417) 　及　三十六、曾經是舞者的比丘 (偈 418)。
+                  PS: 請參《法句經故事集》，二十六～三十五、 `曾經是舞者的比丘 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-417>`__  (偈 417) 　及　三十六、 `曾經是舞者的比丘 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-418>`__  (偈 418)。
 
 .. [MettFn26-38] 〔明法尊者註26-38〕 住王舍城的婆耆舍婆羅門，他只要摸死人的骨骸，就能判斷該人究竟往 生何處。有一次，他同一夥人到精舍去見佛陀，佛陀知道來意之後，吩咐一比丘準備往生地獄、畜生、人間、天界的四付骨骸，同時也準備了一位阿羅漢的骨頭。婆耆舍正確判斷前四付骨頭的主人往生處，但最後一付骨頭卻難倒他。佛陀便說：「婆耆舍！怎麼了，不知道了吧！」婆耆舍請求佛陀教導他。佛陀建議他先出家，才教導他。婆耆舍成為比丘後，佛陀教他觀想三十二種身體成分。他遵照指示，努力禪修，不久之後，就證得阿羅漢果。  (Dhp. 419 cp. Dhp. 385) (=Sn.643);  (Dhp. 420 cp. Dhp. 385) (=Sn.644)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，三十七、摸骨專家婆耆舍 (偈 419~420)。
+                  PS: 請參《法句經故事集》，三十七、 `摸骨專家婆耆舍 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-419>`__  (偈 419~420)。
 
 .. [MettFn26-39] 〔明法尊者註26-39〕 **前.後與中間** ：Yassa pure ca pacchā ca, majjhe ca，即過去、未來、現在。DhA： **pure**\ti atītesu khandhesu. **Pacchā**\ti anāgatesu khandhesu. **Majjhe**\ti paccuppannesu khandhesu. ( **在以前** ：在已過去的諸蘊。 **在未來** ：在未來的諸蘊。 **在中間** ：在現在的諸蘊。)
 
 .. [MettFn26-40] 〔明法尊者註26-40〕 王舍城的毘舍佉優婆塞(Visākho)有一次聞佛說法後，證得阿那含果。它回家後，告訴他的太太法授(Dhammadinnā)說，繼承我的財產，我不再管事了。他的太太拒絕，去出家，之後，證得阿羅漢果。毘舍佉問法授比丘尼須陀洹道(sotāpattimagge)的事，她回答。問其餘諸道，她不回答，她說這已超過了。請他去問佛陀。佛陀回答他說︰「我的女兒法授(mama dhītāya Dhammadinnā)已經回答得很好了。」 (cp. Dh385) (=Sn.645) (396)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，三十八、妻子出家為比丘尼 (偈 421)。
+                  PS: 請參《法句經故事集》，三十八、 `妻子出家為比丘尼 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-421>`__  (偈 421)。
 
 .. [MettFn26-41] 〔明法尊者註26-41〕 **牛王** ：usabha牡牛，在此指超強無畏的人(acchambhitaṭṭhena)。
 
@@ -41589,11 +41989,11 @@
 
 .. [MettFn26-44] 〔明法尊者註26-44〕 本偈因鴦掘摩羅長老(Aṅgulimālatthera)而說。波斯匿王與末莉王后做一次無遮大會供養，大會安排每位比丘都有一頭象遮陽，但是少了一頭馴象，以野象充當，這一頭象安排在鴦掘摩羅長老身邊，它被牽到他的身邊變成乖順，他沒有任何畏懼。  (cp. Dh.385) (=Sn.646)(cp. S.7.13.)
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，三十九、鴦掘魔尊者和大象 (偈 422)。
+                  PS: 請參《法句經故事集》，三十九、 `鴦掘魔尊者和大象 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-422>`__  (偈 422)。
 
-                  本文為故事-- 十三～十、 `供養比賽 <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__ 的後續。 (Dhp. 177)
+                  本文為故事-- 十三～十、 `供養比賽 <{filename}../dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-177>`__ 的後續。 (Dhp. 177)
 
-                  鴦掘魔尊者的故事請參考-- 十三～六、 `證聖果的殺人兇手  <{filename}/extra/pdf/Dhp-story-han-chap13.pdf>`__ 。 (Dhp. 173)
+                  鴦掘魔尊者的故事請參考-- 十三～六、 `證聖果的殺人兇手 <{filename}../dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-173>`__ 。 (Dhp. 173)
 
 .. [MettFn26-45] 〔明法尊者註26-45〕 **前生** ︰Pubbenivāsaṁ，宿命。
 
@@ -41601,7 +42001,33 @@
 
 .. [MettFn26-46-a] 〔明法尊者註26-46-a〕 S.7.13.說：“Pubbenivāsaṁ yo vedī, saggāpāyañca passati; Atho jātikkhayaṁ patto, abhiññāvosito muni. “Ettha dajjā deyyadhammaṁ, ettha dinnaṁ mahapphalaṁ. Evañhi yajamānassa, evaṁ ijjhati dakkhiṇā”ti.(若了知宿命，見天界惡趣，達生命滅盡，圓通力牟尼；此應施施法，此施有大果，如是而供奉，如是施繁榮。) 可參： `相應部7相應13經/提婆西多經(婆羅門相應/有偈篇/祇夜)(莊春江譯) <http://agama.buddhason.org/SN/SN0199.htm>`__
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，四十、天作的供養 (偈 423)。
+                  PS: 請參《法句經故事集》，四十、 `天作的供養  <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-423>`__ (偈 423)。
+
+.. [dhp-a-384-note] 「彼岸」即涅槃。
+
+.. [dhp-a-385-note] 真正的阿羅漢不執著於「我」與「我所」，所以沒有內外六塵。
+
+.. [dhp-a-394-note] 印度有些外道用鹿皮作坐具或做衣服穿。
+
+.. [dhp-a-395-note] 糞掃衣：出家人撿拾別人丟掉的碎布，洗乾淨後，聯綴成袈裟。
+
+.. [dhp-a-396-note] 此處的婆羅門指的是有修持的人。
+
+.. [dhp-a-396-note2] 此處的婆羅門指的是種姓上的婆羅門，與修持境界無關。
+
+.. [dhp-a-398-note] 「皮帶」：瞋恚。「韁」：貪愛。「繩」：六十二邪見。「附屬物」：潛伏的習性，舊譯作隨眠，共有七種。「門閂」：無明。
+
+.. [dhp-a-400-note] 阿羅漢棄絕所有的貪愛，不再輪迴，所以是最後身。
+
+.. [dhp-a-413-note2] Nanda 補註：原譯著「瑕疪」為「瑕疵」之誤植。
+
+.. [dhp-a-420-note] 「乾闥婆」：天的一種。
+
+.. [dhp-a-422-note] ：印度人以為在恆何中沐浴，就可消除罪業，但此處佛陀的意思是說內心沒有垢穢。
+
+.. [dhp-a-422-note2] 本文為接續 十三～十、「 `供養比賽 <{filename}../dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-177>`__ 」的故事 Dhp. 177 。
+
+                     鴦掘魔尊者的故事也請參考十三～六、「 `證聖果的殺人兇手 <{filename}../dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-173>`__ 」 Dhp. 173 。
 
 .. [NāradaFn26-01] (Ven. Nārada 26-01) Though a racial term here it is applied either to a Buddha or an Arahant - to one who has completed the Way and has won Enlightenment.
 
@@ -41982,27 +42408,27 @@
 
                      說明：參考法雨道場( 明法 法師)出版之修訂版，依巴、英及語體本更正。
 
-.. [NandFn26-04] 〔Nanda 校註26-04〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～八、瞿曇彌大愛道請求剃度出家 (偈 391)。
+.. [NandFn26-04] 〔Nanda 校註26-04〕 請參《法句經故事集》，二十六～八、 `瞿曇彌大愛道請求剃度出家 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-391>`__  (偈 391)。
 
-.. [NandFn26-05] 〔Nanda 校註26-05〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～十一、想要誤導智者並不容易 (偈 394)。
+.. [NandFn26-05] 〔Nanda 校註26-05〕 請參《法句經故事集》，二十六～十一、 `想要誤導智者並不容易 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-394>`__  (偈 394)。
 
-.. [NandFn26-06] 〔Nanda 校註26-06〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～十三、婆羅門不是世襲的 (偈 396)。 (cp. Dh385) (cp. Sn.620)
+.. [NandFn26-06] 〔Nanda 校註26-06〕 請參《法句經故事集》，二十六～十三、 `婆羅門不是世襲的 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-396>`__  (偈 396)。 (cp. Dh385) (cp. Sn.620)
 
-.. [NandFn26-07] 〔Nanda 校註26-07〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～十四、沒有束縛就沒有恐懼 (偈 397)。 請參考本故事的前篇： `二十四～六、特技演員變成聖者 <{filename}/extra/pdf/Dhp-story-han-chap24.pdf>`__ ( `偈 Dhp. 348 <{filename}dhp-contrast-reading-chap24%zh.rst#dhp348>`__ ) (cp. Dh385) (cp. Sn621)
+.. [NandFn26-07] 〔Nanda 校註26-07〕 請參《法句經故事集》，二十六～十四、 `沒有束縛就沒有恐懼 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-397>`__  (偈 397)。 請參考本故事的前篇：二十四～六、 `特技演員變成聖者 <{filename}../dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-348>`__ ( `偈 Dhp. 348 <{filename}dhp-contrast-reading-chap24%zh.rst#dhp348>`__ ) (cp. Dh385) (cp. Sn621)
 
-.. [NandFn26-08] 〔Nanda 校註26-08〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～十五、砍斷愛欲的束縛 (偈 398)。 (cp. Dh385) (cp. Sn.622)
+.. [NandFn26-08] 〔Nanda 校註26-08〕 請參《法句經故事集》，二十六～十五、 `砍斷愛欲的束縛 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-398>`__  (偈 398)。 (cp. Dh385) (cp. Sn.622)
 
-.. [NandFn26-09] 〔Nanda 校註26-09〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～十九、證得阿羅漢果的奴隸 (偈 402)。  (cp. Dh385) (=Sn.626)
+.. [NandFn26-09] 〔Nanda 校註26-09〕 請參《法句經故事集》，二十六～十九、 `證得阿羅漢果的奴隸 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-402>`__  (偈 402)。  (cp. Dh385) (=Sn.626)
 
-.. [NandFn26-10] 〔Nanda 校註26-10〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～二十、佛陀稱讚讖摩比丘尼 (偈 403)。 讖摩比丘尼的故事請參考： `二十四～五、美色是膚淺的  <{filename}/extra/pdf/Dhp-story-han-chap24.pdf>`__ ( `偈 Dhp. 347 <{filename}dhp-contrast-reading-chap24%zh.rst#dhp347>`__ ) (cp. Dh385) (=Sn627)
+.. [NandFn26-10] 〔Nanda 校註26-10〕 請參《法句經故事集》，二十六～二十、 `佛陀稱讚讖摩比丘尼 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-403>`__  (偈 403)。 讖摩比丘尼的故事請參考：二十四～五、 `美色是膚淺的 <{filename}../dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-347>`__ ( `偈 Dhp. 347 <{filename}dhp-contrast-reading-chap24%zh.rst#dhp347>`__ ) (cp. Dh385) (=Sn627)
 
-.. [NandFn26-11] 〔Nanda 校註26-11〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～二十一、提沙比丘被控使用咒語 (偈 404)。  (cp. Dh385) (=Sn.628)
+.. [NandFn26-11] 〔Nanda 校註26-11〕 請參《法句經故事集》，二十六～二十一、 `提沙比丘被控使用咒語 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-404>`__  (偈 404)。  (cp. Dh385) (=Sn.628)
 
-.. [NandFn26-12] 〔Nanda 校註26-12〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～二十二、被人誤打的比丘 (偈 405)。 (cp. Dh385) (=Sn629)
+.. [NandFn26-12] 〔Nanda 校註26-12〕 請參《法句經故事集》，二十六～二十二、 `被人誤打的比丘 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-405>`__  (偈 405)。 (cp. Dh385) (=Sn629)
 
-.. [NandFn26-13] 〔Nanda 校註26-13〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～二十三、一名女士和四名沙彌 (偈 406)。  (cp. Dh385) (=Sn630)
+.. [NandFn26-13] 〔Nanda 校註26-13〕 請參《法句經故事集》，二十六～二十三、 `一名女士和四名沙彌 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-406>`__  (偈 406)。  (cp. Dh385) (=Sn630)
 
-.. [NandFn26-14] 〔Nanda 校註26-14〕 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap26.pdf>`__ ，二十六～三十三、闍祇羅比丘證得阿羅漢果　及　三十四、喬帝卡在天上的美麗屋舍  (偈 416)。 (cp. Dh415) (=Sn.640)
+.. [NandFn26-14] 〔Nanda 校註26-14〕 請參《法句經故事集》 ，二十六～三十三、 `闍祇羅比丘證得阿羅漢果 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-416>`__　及　三十四、 喬帝卡在天上的美麗屋舍  (偈 416)。 (cp. Dh415) (=Sn.640)
 
 .. [NandFn26-15] 〔Nanda 校註26-15〕 經集部類　經集部二　625　大樹緊那羅王所問經　姚秦龜茲三藏鳩摩羅什譯　卷第一　T15n0625_p0371a08(06) 
 
@@ -42011,3 +42437,4 @@
 - `法句經首頁  <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+

@@ -2300,7 +2300,7 @@
 
 .. [dhp-a-007-note3] 本篇是佛陀針對出家人的說法。讀者應注意，佛陀對出家人和在家人的生活要求不同。
 
-.. [dhp-a-009-note1] 袈裟是棄絕世間的外在象徵，比丘的袈裟加以染色是為了使其不具任何價值。 本法句的袈裟是一雙關語，如果內心不清淨，則光靠外表的象徵也沒有任何意義。佛陀在另一個場合中，曾說內心清淨的人，不管外表如何，才是真的比丘。（參考 `第142偈 <{filename}../dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp_142>`__ ）
+.. [dhp-a-009-note1] 袈裟是棄絕世間的外在象徵，比丘的袈裟加以染色是為了使其不具任何價值。 本法句的袈裟是一雙關語，如果內心不清淨，則光靠外表的象徵也沒有任何意義。佛陀在另一個場合中，曾說內心清淨的人，不管外表如何，才是真的比丘。（參考 `第142偈 <{filename}../dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp-142>`__ ）
 
 .. [NāradaFn01-01]  (Ven. Nārada 01-01) Yamaka means a pair. This chapter is so named because it consists of ten pairs of parallel verses.
 
@@ -2459,7 +2459,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
-  2018-08-19 post, 08-03 add: 周金言 譯《法句經故事集》(from rst)
+  2018-08-19 post, 08-03 add: 周金言 譯《法句經故事集》(from rst); old: PS: 請參 `001 典故 <{filename}../dhp-story/dhp-story001%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～一、瞎眼的阿羅漢 (偈 001)。
   03.10 rev. 設定為 github 環境； replace with 漢譯(相當之古漢譯對應經典) old:漢譯( 尊者 法救撰　吳天竺沙門 維祇難等譯)
   02.28 rev. 法師, Ven., link of 節錄自：聖典..二　摘錄; 整部 (The Full Text) (add)
   02.26 rev. dhp.htm 法句經; re-arrange directory-- old:Tipitaka/kn/dhp/
