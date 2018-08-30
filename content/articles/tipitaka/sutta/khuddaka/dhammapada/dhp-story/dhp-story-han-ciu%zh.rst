@@ -2,7 +2,7 @@
 ==============================
 
 :date: 2018-08-19
-:modified: 2018-08-22
+:modified: 2018-08-30
 :author: 周金言
 :tags: 法句經, 法句經故事集, 周金言
 :category: 尊者的足跡－南傳法句經的故事
@@ -13,6 +13,8 @@
 - 法句經故事集介紹_
 
 - 法句經故事集目錄_
+
+- `英文原版`_
 
 - 紙本流通處_
 
@@ -200,7 +202,24 @@
 
 ----
 
-另一線上版： `法句經故事集 <http://www.budaedu.org/story/dp000.php>`__ (HTML)、 `PDF 檔 <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`__ （直行式排版；以上皆經 `佛陀教育基金會 <http://www.budaedu.org>`__ 修改過）
+- 另一線上版： `法句經故事集 <http://www.budaedu.org/story/dp000.php>`__ (HTML)、 `PDF 檔 <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`__ （直行式排版；以上皆經 `佛陀教育基金會 <http://www.budaedu.org>`__ 修改過）
+
+- _`英文原版` ： `The Dhammapada <http://ftp.budaedu.org/ebooks/pdf/EN214.pdf>`__  (EN214, The Dhammapada, K. Sri Dhammananda, 法句經, PDF, 192 MB) ← `eBooks <http://www.budaedu.org/ebooks/6-EN.php>`__ ← `Downloads <http://www.budaedu.org/en/downloads/>`__ ← `English <http://www.budaedu.org/en/>`__ ← `佛陀教育基金會 <http://www.budaedu.org>`__ 
+
+- 另可參比較詳細，譯自巴利語之英文版： **Buddhist Legends-- DHAMMAPADA COMMENTARY**, by Buddhaghosa. supposed author; Burlingame, Eugene Watson, tr; [1]_
+
+  * Volume v.1: `PDF <https://what-buddha-said.net/library/pdfs/Buddhist_Legends.Burlingame.1.pdf>`__ ( `What the Buddha said <https://what-buddha-said.net/>`__ ); `PDF <http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_6072311_001/ldpd_6072311_001.pdf>`__ ( `Columbia University <https://www.columbia.edu/>`__ , in the City of New York); `Flip online <https://archive.org/details/buddhistlegends01budd>`__ ; `PDF <https://archive.org/download/buddhistlegends01budd/buddhistlegends01budd.pdf>`__ ; `FULL TEXT <https://archive.org/stream/buddhistlegends01budd/buddhistlegends01budd_djvu.txt>`__ ; `EPUB <https://archive.org/download/buddhistlegends01budd/buddhistlegends01budd.epub>`__ ; `KINDLE <https://archive.org/download/buddhistlegends01budd/buddhistlegends01budd.mobi>`__ ( `Internet Archive <https://archive.org>`__ -- `archive.org <https://archive.org>`__ )
+
+  * Volume v.2: `PDF <https://what-buddha-said.net/library/pdfs/Buddhist_Legends.Burlingame.2.pdf>`__ ( `What the Buddha said <https://what-buddha-said.net/>`__ ); `PDF <http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_6072311_002/ldpd_6072311_002.pdf>`__ ( `Columbia University <https://www.columbia.edu/>`__ , in the City of New York); `Flip online <https://archive.org/details/buddhistlegends02budd>`__ ; `PDF <https://archive.org/download/buddhistlegends02budd/buddhistlegends02budd.pdf>`__ ; `FULL TEXT <https://archive.org/stream/buddhistlegends02budd/buddhistlegends02budd_djvu.txt>`__ ; `EPUB <https://archive.org/download/buddhistlegends02budd/buddhistlegends02budd.epub>`__ ; `KINDLE <https://archive.org/download/buddhistlegends02budd/buddhistlegends02budd.mobi>`__ ( `Internet Archive <https://archive.org>`__ )
+
+  * Volume v.3: `PDF <https://what-buddha-said.net/library/pdfs/Buddhist_Legends.Burlingame.3.pdf>`__ ( `What the Buddha said <https://what-buddha-said.net/>`__ ); `PDF <http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_6072311_003/ldpd_6072311_003.pdf>`__ ( `Columbia University <https://www.columbia.edu/>`__ , in the City of New York); `Flip online <https://archive.org/details/buddhistlegends03budd>`__ : `PDF <https://archive.org/download/buddhistlegends03budd/buddhistlegends03budd.pdf>`__ ; `FULL TEXT <https://archive.org/stream/buddhistlegends03budd/buddhistlegends03budd_djvu.txt>`__ ; `EPUB <https://archive.org/download/buddhistlegends03budd/buddhistlegends03budd.epub>`__ ; `KINDLE <https://archive.org/download/buddhistlegends03budd/buddhistlegends03budd.mobi>`__ ( `Internet Archive <https://archive.org>`__ )
+
+- 具插圖之《真理的寶藏》: Treasury of Truth-- the Illustrated Dhammapada (with commentary), by **Ven. Weragoda Sārada Mahā Thero.** 1993, [2]_
+
+  * | PDF: `PDF <http://www.buddhanet.net/pdf_file/dhammapadatxt1.pdf>`__ ( `buddhanet <http://www.buddhanet.net>`__ ) ; `PDF <http://enlight.lib.ntu.edu.tw/FULLTEXT/JR-MISC/misc140308.pdf>`__ ( `DLMBS <enlight.lib.ntu.edu.tw>`__ , Digital Library & Museum of Buddhist Studies, Taiwan); 
+    | `single PDF file <https://ia800306.us.archive.org/8/items/DhammapadaIllustrated/dhammapada_illustrated.pdf>`__ , `Flip online <https://archive.org/details/DhammapadaIllustrated>`__ ( `Internet Archive <https://archive.org>`__ -- `archive.org <https://archive.org>`__ )
+
+  * `TXT <https://archive.org/stream/DhammapadaIllustrated/dhammapada_illustrated_djvu.txt>`__ ; `EPUB <https://archive.org/download/DhammapadaIllustrated/dhammapada_illustrated.epub>`__ ; `KINDLE <https://archive.org/download/DhammapadaIllustrated/dhammapada_illustrated.mobi>`__ ( `Internet Archive <https://archive.org>`__ )
 
 ----
 
@@ -233,6 +252,37 @@
 - `法句經首頁 <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+--------------
+
+備註：
+------
+
+.. [1] | Title: Buddhist legends, translated from the original Pali text of the Dhammapada commentary
+       | Series: Representative works: Pali series
+       | Author: Burlingame, Eugene Watson
+       | Corporate author: Pali Text Society
+       | Imprint: London, Luzac and Company, 1969
+       | Country: UK
+       | Publ Year: 1969
+       | Collation:  3 v., illus.
+       | Original Language:  English
+       | General notes:  (Transl. from the Pali by Eugene Watson Burlingame. Volume 1 contains introduction and synopses of the stories included in the 3 volumes)
+       | Main descriptors: Oeuvre littéraire représentative; Légende; Philosophie; Doctrine religieuse; Bouddhisme
+       | Identifiers:  Dhammapada commentary
+       | Item available at:  UNESCO Library - UNESCO Archives
+       | On line:  No
+       | Nature of contents: literary works
+       | Document Type:  Publication with UNESCO collaboration/sponsorship
+       | Catalog Number: 128490
+       | Source code:  lib
+       | 
+       | Cited from: `UNESDOC <http://unesdoc.unesco.org/Ulis/cgi-bin/ulis.pl?catno=128490&set=00573EA815_2_67&gp=&lin=1&ll=f>`__ ( `UNESDOC <http://unesdoc.unesco.org/ulis/index.shtml>`__ , `UNESCO <http://www.unesco.org/>`__ )
+
+       **Buddhist Legends-- DHAMMAPADA COMMENTARY**, by Buddhaghosa. supposed author; Burlingame, Eugene Watson (1876-1932) tr; Lanman, Charles Rockwell (1850-1941); London, Published for the Pali Text Society by Luzac,  1969 [c1921], Cambridge, Mass., Harvard oriental series. Reprints ;v. 28-30, Harvard university press, Digitizing sponsor Princeton Theological Seminary Library.
+
+.. [2] **Treasury of Truth-- the Illustrated Dhammapada (with commentary)**, by **Ven. Weragoda Sārada Mahā Thero.** , author-publisher. 1993, ISBN 981-00-4938-2, Taipei, Taiwan :Published and donated by the Corporate Body of the Buddha Educational Foundation; 
+
 
 
 .. 
