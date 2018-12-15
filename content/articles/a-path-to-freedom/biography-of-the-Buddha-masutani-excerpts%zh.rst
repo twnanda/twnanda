@@ -3,7 +3,7 @@
 ============================================================================
 
 :date: 1998-09-10
-:modified: 2018-04-11
+:modified: 2018-10-02
 :originalurl: http://www.dhammarain.org.tw/books/biography-of-the-Buddha-masutani-excerpts/blessed1.htm
 :tags: 佛陀, 佛陀傳, 増谷文雄, ますたに ふみお, Ma suta ni  fumi o
 :category: 解脫之道
@@ -34,9 +34,9 @@
      - `第十四章： 能看到法的人便能看到我 <{filename}biography-of-the-Buddha-masutani-excerpts-chap14%zh.rst>`__ 
      - `第十五章： 自燈明、法燈明─最後說法 <{filename}biography-of-the-Buddha-masutani-excerpts-chap15%zh.rst>`__ 
 
-   * - `整部 <{filename}biography-of-the-Buddha-masutani-excerpts-full%zh.rst>`__
-     - 
-     - 
+   * - 整部： `HTML <{filename}biography-of-the-Buddha-masutani-excerpts-full%zh.rst>`__
+     - `PDF <{filename}/extra/a-path-to-freedom/biography-of-the-Buddha-masutani-excerpts.pdf>`__ (整部, 具「書籤」)、 PDF <{filename}/extra/a-path-to-freedom/biography-of-the-Buddha-masutani-excerpts-read.pdf>`__ （具「書籤」、背景顏色為「豆沙綠」，對眼睛可能比較友善）
+     - `.doc <{filename}/extra/a-path-to-freedom/biography-of-the-Buddha-masutani-excerpts.doc>`__ （ms Word 97-2003）
 
 ---------------------------
 
