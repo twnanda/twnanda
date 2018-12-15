@@ -2,11 +2,12 @@
 ############################################################################################################################
 
 :date: 2018-04-15
-:modified: 2018-04-15
+:modified: 2018-12-15
 :tags: 巴利三藏相應部, 覺支相應對讀, 七覺支相應對讀, 覺支相應, 七覺支相應, Parallel Reading, Bojjhaṅgasaṃyuttaṃ, Bojjhaṅga-saṃyuttaṃ, The Seven Factors for Awakening
 :category: 巴利三藏相應部
 :summary: 覺支相應對讀 (七覺支相應對讀) (巴利三藏 相應部) Parallel Reading of Bojjhaṅga-saṃyuttaṃ (The Seven Factors for Awakening)
 
+:chng-CK-fn: yes
 
 - `覺支相應 <{filename}sn46-bojjhanga-samyutta%zh.rst>`__ 
 
@@ -4874,4 +4875,5 @@ Punaoghavaggo 再一個暴流品
 
 
 ..
+  12.15 remark chng-CK's fn for js
   create on 2018.04.15 (04.12)

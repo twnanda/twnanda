@@ -2,10 +2,12 @@
 #####################################################################################################
 
 :date: 2018-04-07
-:modified: 2018-04-07
+:modified: 2018-12-15
 :tags: 巴利三藏相應部, 無為相應, 無為相應對讀, Parallel Reading, Asaṅkhatasaṃyuttaṃ, Asaṅkhata-saṃyuttaṃ, The unfashioned (Nibbana)
 :category: 巴利三藏相應部
 :summary: 無為相應對讀 (巴利三藏 相應部) Parallel Reading of Asaṅkhata-saṃyuttaṃ , The unfashioned (Nibbana)
+
+:chng-CK-fn: yes
 
 - `無為相應 <{filename}sn43-asankhata-samyutta%zh.rst>`__ 
 
@@ -967,4 +969,5 @@ Dutiyavaggo 第二品
 
 
 ..
+  12.15 remark chng-CK's fn for js
   create on 2018.04.07

@@ -3,11 +3,12 @@
 
 
 :date: 2018-02-22
-:modified: 2018-03-22
+:modified: 2018-12-15
 :tags: 巴利三藏相應部, 六處相應對讀, 六處相應, Parallel Reading, Saḷāyatanasaṃyuttaṃ, Saḷāyatana-saṃyuttaṃ, The six senses
 :category: 巴利三藏相應部
 :summary: 六處相應對讀 (巴利三藏 相應部) Parallel Reading of Saḷāyatana-saṃyuttaṃ (The six senses)
 
+:chng-CK-fn: yes
 
 - `六處相應 <{filename}sn35-salayatana-samyutta%zh.rst>`__ 
 
@@ -14347,6 +14348,7 @@ Samuddavaggo 海品
 .. [SN35-Siusk05] 按經中的上文下理，可知這裏的 “弟子” 與 “老師” 是 “惡不善法” 的借喻。弟子其中一種特質，是跟老師一起居住；老師其中一種特質，是帶領弟子行踐。
 
 ..
+  12.15 remark chng-CK's fn for js
   03.22 rev. some tag
   03.20 finish 莊春江'note 
   03.03 till sn35.26

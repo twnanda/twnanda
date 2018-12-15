@@ -2,10 +2,12 @@
 #######################################################################################################
 
 :date: 2018-04-09
-:modified: 2018-04-11
+:modified: 2018-12-15
 :tags: 巴利三藏相應部, 無記相應, 無記說相應, 無記相應對讀, 無記說相應對讀, Parallel Reading, Abyākatasaṃyuttaṃ, Abyākata-saṃyuttaṃ, Not designated
 :category: 巴利三藏相應部
 :summary: 無記相應 (無記說相應) 對讀 Parallel Reading of Abyākata-saṃyuttaṃ, Not designated (巴利三藏 相應部)
+
+:chng-CK-fn: yes
 
 - `無記相應 <{filename}sn44-abyakata-samyutta%zh.rst>`__ 
 
@@ -1293,5 +1295,6 @@
 
 
 ..
+  12.15 remark chng-CK's fn for js
   04.11 rev. some tags
   create & upload on 2018.04.09

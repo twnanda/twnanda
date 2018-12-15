@@ -2,11 +2,12 @@
 ###########################################################################################################
 
 :date: 2017-12-31
-:modified: 2018-01-05
+:modified: 2018-12-15
 :tags: 巴利三藏相應部, 雜染相應, 雜染相應對讀, 煩惱相應, 煩惱相應對讀, 污染相應, 污染相應對讀, Parallel Reading, Kilesasaṃyuttaṃ, Kilesa-saṃyuttaṃ, Defilements
 :category: 巴利三藏相應部
 :summary: 雜染相應 (煩惱相應, 污染相應)  對讀 (巴利三藏 相應部) Parallel Reading of Kilesa-saṃyuttaṃ (Defilements)
 
+:chng-CK-fn: yes
 
 - `雜染相應 <{filename}sn27-kilesa-samyutta%zh.rst>`__ 
 
@@ -409,6 +410,7 @@
 .. [3] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） → 5.1.3.相應部： `27 污染相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=506>`__ 
 
 ..
+  12.15 remark chng-CK's fn for js
   01.05 2018 add: ** to be bold for "note"
   12.31 finish 莊春江、蕭式球 & upload
   create on 2017.12.31
