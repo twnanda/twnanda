@@ -166,7 +166,7 @@ function SetupNotes() {
     return;
   }
 
-  var strongs = document.querySelectorAll("strong");
+  var strongs = document.querySelectorAll(".ttnote");
   for (var i = 0; i < strongs.length; ++i) {
     var strong = strongs[i];
     strong.addEventListener("mouseenter", ShowTooltip);

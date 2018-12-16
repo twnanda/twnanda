@@ -242,16 +242,9 @@ img.align-center {
 }
 
 // for notes of texts
-strong {
+.ttnote {
   text-decoration: underline;
   cursor: pointer;
-}
-
-// 標題仍為粗體且"不加劃底線"
-p.first {
-  strong {
-    text-decoration: none;
-  }
 }
 
 .invisible {
