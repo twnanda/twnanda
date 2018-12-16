@@ -2,6 +2,7 @@
 #################################
 
 :date: 2016-02-13T16:05+08:00
+:modified: 2018-12-16
 :tags: Pali
 :category: 未分類
 :summary: 巴利語 Pali Language (Pāli Bhāsā)
@@ -10,8 +11,9 @@
 .. rubric:: 巴利語
 
 
-巴利語: pāḷi-bhāsā。為南方佛教聖典及其注疏之用語。屬印歐語系，係 印度中期亞利安語中，初期地方語（梵 Prākrit）之一。巴利，為 pāli 或 pāḷi, paḷi　之音譯，又作巴梨、波利，意為線、規範，轉用為 聖典之意。巴利文清淨道論（Visuddhimagga）中，相對於注釋（巴 aṭṭhakathā） ，稱根本聖典為 Pāli。近代始將錫蘭等地之三藏及注釋書所使用之語言，稱為 巴利語。字母總數凡四十（一說三十九），母音有八（a, ā, i, ī, u, ū, e, o）， 父音三十二（k, kh, g, gh, ṅ, c, ch, j, jh, ñ, ṭ, ṭh, ḍ, ḍh, ṇ, t, th, d, dh, n, p, ph, b, bh, m, y, r, l, v, s, h, ḷ，一說三十一），另有一空點 （ṃ）。其音聲與文法較梵語為簡，書體亦不定，係以南方各國之書體書寫；由於有 巴利三藏，遂使原始佛教聖典得以流傳。　
-　　巴利語之主要部分約成於紀元前三世紀頃。其發生地有摩揭陀（梵 Magadha） 與鄔闍衍那（梵 Ujjayanā）等說，眾說紛紜，或係佛教教團在釋尊入滅前後， 向西逐漸傳播時所用之聖典語言。德國學者蓋格爾（W. Geiger）主張巴利語之發展 階段有四，即諸經中偈頌之語言、經典中散文之語言、藏外典籍之新散文之語言、 新詩之語言等。西元一八三三年，梧龐（E. Upham）等英譯以錫蘭土語書寫之大統史 （巴 Mahāvaṃsa），並刊行其著作「錫蘭神聖的及歷史的作品」（ The sacred and historical works of Ceylon），開巴利語研究之風氣。一八五五年， 豪斯貝爾（V. Fausböll）校訂出版法句經（巴 Dhammapada），為巴利聖典刊行之 先驅。其後，歐洲、錫蘭、日本等國學者，從事原典校訂及翻譯工作者亦多。文法書有 庫羅（B. Clough）之巴利文法摘要（Compendious Pali Grammar, 1824）、穆勒（ Fr. Müller）之促進肯特洲之巴利語（Beitriäge zur Kentnis der Pāli-Sprache, 1867～1868）、立花俊道之巴利語文典、水野弘元之巴利語文法、長井真琴之 獨習巴利語文法等。字典有基魯達司（R.C. Childers）之巴利語字典（ Dictionary of the Pāli Language, 1875）、大衛斯（Rhys Davids）及史代德（ W. Stede）之巴利英文辭典（Pāli-English Dictionary,1921～1925）、 水野弘元之巴利語辭典等。〔歐米の佛教、根本佛典の研究〕　p1385
+巴利語: pāḷi-bhāsā。為南方佛教聖典及其注疏之用語。屬印歐語系，係印度中期亞利安語中，初期地方語（梵 Prākrit）之一。巴利，為 pāli 或 pāḷi, paḷi　之音譯，又作巴梨、波利，意為線、規範，轉用為聖典之意。巴利文清淨道論（Visuddhimagga）中，相對於注釋（巴 aṭṭhakathā），稱根本聖典為 Pāli。近代始將錫蘭等地之三藏及注釋書所使用之語言，稱為巴利語。字母總數凡四十（一說三十九），母音有八（a, ā, i, ī, u, ū, e, o），父音三十二（k, kh, g, gh, ṅ, c, ch, j, jh, ñ, ṭ, ṭh, ḍ, ḍh, ṇ, t, th, d, dh, n, p, ph, b, bh, m, y, r, l, v, s, h, ḷ，一說三十一），另有一空點（ṃ）。其音聲與文法較梵語為簡，書體亦不定，係以南方各國之書體書寫；由於有巴利三藏，遂使原始佛教聖典得以流傳。
+
+巴利語之主要部分約成於紀元前三世紀頃。其發生地有摩揭陀（梵 Magadha）與鄔闍衍那（梵 Ujjayanā）等說，眾說紛紜，或係佛教教團在釋尊入滅前後，向西逐漸傳播時所用之聖典語言。德國學者蓋格爾（W. Geiger）主張巴利語之發展階段有四，即諸經中偈頌之語言、經典中散文之語言、藏外典籍之新散文之語言、新詩之語言等。西元一八三三年，梧龐（E. Upham）等英譯以錫蘭土語書寫之大統史（巴 Mahāvaṃsa），並刊行其著作「錫蘭神聖的及歷史的作品」（ The sacred and historical works of Ceylon），開巴利語研究之風氣。一八五五年，豪斯貝爾（V. Fausböll）校訂出版法句經（巴 Dhammapada），為巴利聖典刊行之先驅。其後，歐洲、錫蘭、日本等國學者，從事原典校訂及翻譯工作者亦多。文法書有庫羅（B. Clough）之巴利文法摘要（Compendious Pali Grammar, 1824）、穆勒（ Fr. Müller）之促進肯特洲之巴利語（Beitriäge zur Kentnis der Pāli-Sprache, 1867～1868）、立花俊道之巴利語文典、水野弘元之巴利語文法、長井真琴之獨習巴利語文法等。字典有基魯達司（R.C. Childers）之巴利語字典（ Dictionary of the Pāli Language, 1875）、大衛斯（Rhys Davids）及史代德（ W. Stede）之巴利英文辭典（Pāli-English Dictionary,1921～1925）、水野弘元之巴利語辭典等。〔歐米の佛教、根本佛典の研究〕　p1385
 
 取材自 `佛光大辭典: 巴利語`_
 
@@ -21,7 +23,7 @@
 
 - `如何正常瀏覽以 UTF-8 編碼之網頁 <{filename}/extra/pali/utf-8.htm>`__
 
-- `轉寫巴利語之各種字型字元對應 (Romanized Pāḷi Character Mapping) <{filename}/extra/pali/Romanized-Paali-Character-font-Mapping-naVriCB.pdf>`__
+- `轉寫巴利語之各種字型字元對應 (Romanized Pāḷi Character Mapping) <{filename}/extra/pali/Romanized-Paali-Character-font-Mapping.pdf>`__
 
 ----
 
