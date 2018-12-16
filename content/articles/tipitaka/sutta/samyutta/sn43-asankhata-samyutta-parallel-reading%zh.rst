@@ -593,7 +593,7 @@ Dutiyavaggo 第二品
        比丘們！什麼是無彎曲呢？……（中略）。」(應該如無為那樣使之詳細) 
 
    * - 漢譯(元亨寺, 雲庵) [3]_ 
-     - 〔一三〕第二 **終極` （下無）
+     - 〔一三〕第二 **終極** （下無）
 
        一～四五
 
@@ -917,7 +917,7 @@ Dutiyavaggo 第二品
        | 無為相應完成。 
 
    * - 漢譯(元亨寺, 雲庵) [3]_ 
-     - 〔四四〕第三三　到彼岸（能度）
+     - 〔四四〕第三三　**到彼岸（能度）**
 
        「諸比丘！余為汝等說到彼岸與達到彼岸之道，於此且諦聽。
 
@@ -964,7 +964,7 @@ Dutiyavaggo 第二品
 備註：
 +++++++
 
-.. [1] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ ``*http://www.tipitaka.org/*`** (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Saḷāyatanavaggapāḷi → `9. Asaṅkhatasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul8.xml>`__ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
+.. [1] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ **http://www.tipitaka.org/** (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Saḷāyatanavaggapāḷi → `9. Asaṅkhatasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul8.xml>`__ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
 
 .. [2] 請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯 相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__ → 43.無為相應(請點選經號進入)：
 

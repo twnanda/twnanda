@@ -5573,7 +5573,7 @@ Channavaggo 闡陀品
 
        「 :ttnote:`比丘` 們！緣 :ttnote:`一對` 後而生成識。比丘們！怎樣緣一對後而生成識呢？ 
 
-        **緣於` 眼與色而生起眼識，眼是無常的、 :ttnote:`變易、變異` ；色是無常的、變易、變異，這樣，這一對是動的、搖擺的、無常的、變易、變異，眼識是無常的、變易、變異，那生起眼識的所有因、所有緣，也是無常的、變易、變異。而，比丘們！ :ttnote:`緣於` 無常 :ttnote:`緣` 而生起 的眼識，哪裡有常的呢？ 
+        :ttnote:`緣於` 眼與色而生起眼識，眼是無常的、 :ttnote:`變易、變異` ；色是無常的、變易、變異，這樣，這一對是動的、搖擺的、無常的、變易、變異，眼識是無常的、變易、變異，那生起眼識的所有因、所有緣，也是無常的、變易、變異。而，比丘們！ :ttnote:`緣於` 無常 :ttnote:`緣` 而生起 的眼識，哪裡有常的呢？ 
 
        比丘們！凡這三法的會合、集合、結合，被稱為眼觸，眼觸也是無常的、變易、變異，那生起眼觸的所有因、所有緣，也是無常的、變易、變異。而，比丘們！緣於無常緣而生起的眼觸，哪裡有常的呢？ 
 
@@ -6764,7 +6764,7 @@ Saḷavaggo 六品
        | 　此是清除者，
        | 　清除膿腫根。’ ”
        |         
-       | :ttnote:`第十六處品完**
+       | **第十六處品完**
 
 ------
 
@@ -7645,7 +7645,7 @@ Lokakāmaguṇavaggo 世間與欲的種類品
 
        「 :ttnote:`比丘` 們！我說世間之邊不能以行走而被知道、被看見、被到達；但，比丘們！我也說不到達世間之邊就得不到苦的結束。」 
 
-        **世尊` 說了這個後，就起座進入住處。 
+       :ttnote:`世尊` 說了這個後，就起座進入住處。 
 
        那時，世尊離去不久，那些比丘這麼想： 
 
@@ -7776,7 +7776,7 @@ Lokakāmaguṇavaggo 世間與欲的種類品
 
        比丘們！因此，在這裡，那處應該被體會：眼被滅之處，則色想被滅；那處應該被體會……（中略）舌被滅之處，則味道想被滅；那處應該被體會……（中略）意被滅之處，則法想被滅。那處應該被體會。」 
 
-        **世尊` 說了這個後，就起座進入住處。 
+       :ttnote:`世尊` 說了這個後，就起座進入住處。 
 
        那時，世尊離去不久，那些比丘這麼想： 
 
@@ -8527,7 +8527,7 @@ Lokakāmaguṇavaggo 世間與欲的種類品
        | “當身……
        | “當意識別到一些使人悅樂、戀棧、歡喜、鍾愛、貪欲、染著的法時，這稱為取法，在那裏有愛著便會有執取。”
        | 
-       | :ttnote:`第十二世間欲樂品完**
+       | **第十二世間欲樂品完**
 
 ------
 
@@ -9934,7 +9934,7 @@ Devadahavaggo 天臂品
        | 
        | “比丘們，一位多聞法義的聖弟子這樣觀察的話，會對色厭離、對聲厭離、對香厭離、對味厭離、對觸厭離、對法厭離，因為厭離而有無欲，因無欲而有解脫，在得到解脫時會帶來一種解脫智，知道：生已經盡除，梵行已經達成，應要做的已經做完，沒有下一生。”
        | 
-       | :ttnote:`第十四天湖品完**
+       | **第十四天湖品完**
 
 ------
 
@@ -13582,7 +13582,7 @@ Samuddavaggo 海品
 
        「學友們！我將教導你們 :ttnote:`漏出法門` ，以及不漏出 :ttnote:`法門` 。 
 
-        **你們要聽` ！ :ttnote:`你們要好好作意` ！我要說了。」 
+       :ttnote:`你們要聽` ！ :ttnote:`你們要好好作意` ！我要說了。」 
 
        「是的，學友！」那些比丘們回答尊者目揵連。 
 
@@ -14334,7 +14334,7 @@ Samuddavaggo 海品
 備註：
 +++++++
 
-.. [1] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ ``*http://www.tipitaka.org/*`** (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Saḷāyatanavaggapāḷi → `1. Saḷāyatanasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul0.xml>`__ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
+.. [1] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ **http://www.tipitaka.org/** (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Saḷāyatanavaggapāḷi → `1. Saḷāyatanasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul0.xml>`__ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
 
 .. [2] 請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯 相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__ → 35.六處相應(請點選經號進入)：
 

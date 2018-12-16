@@ -36,7 +36,7 @@
    * - 巴利原典(CSCD) [1]_ 
      - **10. Abyākatasaṃyuttaṃ**
 
-       :ttnote:`1. Khemāsuttaṃ**
+       **1. Khemāsuttaṃ**
 
        410. Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena khemā bhikkhunī kosalesu cārikaṃ caramānā antarā ca sāvatthiṃ antarā ca sāketaṃ toraṇavatthusmiṃ vāsaṃ upagatā hoti. Atha kho rājā pasenadi kosalo sāketā sāvatthiṃ gacchanto, antarā ca sāketaṃ antarā ca sāvatthiṃ toraṇavatthusmiṃ ekarattivāsaṃ upagacchi. Atha kho rājā pasenadi kosalo aññataraṃ purisaṃ āmantesi – ‘‘ehi tvaṃ, ambho purisa, toraṇavatthusmiṃ tathārūpaṃ samaṇaṃ vā brāhmaṇaṃ vā jāna yamahaṃ ajja payirupāseyya’’nti.
 
@@ -67,7 +67,7 @@
    * - 漢譯(莊春江) [2]_
      - **44.(10)無記相應**
 
-       相應部44相應1經/ **讖摩經` (無記相應/處篇/如來記說)(莊春江譯) 
+       相應部44相應1經/ **讖摩經** (無記相應/處篇/如來記說)(莊春江譯) 
 
        :ttnote:`有一次` ， :ttnote:`世尊` 住在舍衛城祇樹林給孤獨園。 
 
@@ -290,7 +290,7 @@
        ‘‘Taṃ kiṃ maññasi, anurādha, rūpaṃ, vedanaṃ, saññaṃ, saṅkhāre, viññāṇaṃ tathāgatoti samanupassasī’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Taṃ kiṃ maññasi, anurādha, ayaṃ so arūpī avedano asaññī asaṅkhāro aviññāṇo tathāgatoti samanupassasī’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Ettha ca te, anurādha, diṭṭheva dhamme saccato thetato tathāgate anupalabbhiyamāne [tathāgato anupalabbhiyamāno (syā. ka.), tathāgate anupalabbhamāne (?)] kallaṃ nu te taṃ veyyākaraṇaṃ [veyyākaraṇāya (sī.)] – yo so, āvuso, tathāgato uttamapuriso paramapuriso paramapattipatto, taṃ tathāgato aññatra imehi catūhi ṭhānehi paññāpayamāno paññāpeti – ‘‘‘hoti tathāgato paraṃ maraṇā’ti vā…pe… ‘neva hoti na na hoti tathāgato paraṃ maraṇā’ti vā’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Sādhu sādhu, anurādha! Pubbe cāhaṃ, anurādha, etarahi ca dukkhañceva paññāpemi dukkhassa ca nirodha’’nti. Dutiyaṃ.
 
    * - 漢譯(莊春江) [2]_
-     - 相應部44相應2經/ **阿奴羅度經` (無記相應/處篇/如來記說)(莊春江譯) 
+     - 相應部44相應2經/ **阿奴羅度經** (無記相應/處篇/如來記說)(莊春江譯) 
 
        :ttnote:`有一次` ， :ttnote:`世尊` 住在毘舍離大林 :ttnote:`重閣` 講堂。 
 
@@ -496,7 +496,7 @@
        ‘‘Hoti tathāgato paraṃ maraṇāti kho, āvuso, rūpagatametaṃ. Na hoti tathāgato paraṃ maraṇāti, rūpagatametaṃ. Hoti ca na ca hoti tathāgato paraṃ maraṇāti, rūpagatametaṃ. Neva hoti na na hoti tathāgato paraṃ maraṇāti, rūpagatametaṃ. Hoti tathāgato paraṃ maraṇāti kho, āvuso, vedanāgatametaṃ. Na hoti tathāgato paraṃ maraṇāti, vedanāgatametaṃ. Hoti ca na ca hoti tathāgato paraṃ maraṇāti, vedanāgatametaṃ. Neva hoti na na hoti tathāgato paraṃ maraṇāti, vedanāgatametaṃ. Hoti tathāgato paraṃ maraṇāti kho, āvuso, saññāgatametaṃ. Na hoti tathāgato paraṃ maraṇāti, saññāgatametaṃ. Hoti ca na ca hoti tathāgato paraṃ maraṇāti, saññāgatametaṃ. Neva hoti na na hoti tathāgato paraṃ maraṇāti, saññāgatametaṃ. Hoti tathāgato paraṃ maraṇāti kho, āvuso, saṅkhāragatametaṃ . Na hoti tathāgato paraṃ maraṇāti, saṅkhāragatametaṃ. Hoti ca na ca hoti tathāgato paraṃ maraṇāti, saṅkhāragatametaṃ. Neva hoti na na hoti tathāgato paraṃ maraṇāti, saṅkhāragatametaṃ. Hoti tathāgato paraṃ maraṇāti kho, āvuso, viññāṇagatametaṃ. Na hoti tathāgato paraṃ maraṇāti, viññāṇagatametaṃ. Hoti ca na ca hoti tathāgato paraṃ maraṇāti, viññāṇagatametaṃ. Neva hoti na na hoti tathāgato paraṃ maraṇāti, viññāṇagatametaṃ. Ayaṃ kho, āvuso, hetu ayaṃ paccayo, yenetaṃ abyākataṃ bhagavatā’’ti. Tatiyaṃ.
 
    * - 漢譯(莊春江) [2]_
-     - 相應部44相應3經/ **舍利弗與拘絺羅經第一` (無記相應/處篇/如來記說)(莊春江譯)
+     - 相應部44相應3經/ **舍利弗與拘絺羅經第一** (無記相應/處篇/如來記說)(莊春江譯)
 
        :ttnote:`有一次` ， :ttnote:`尊者` 舍利弗與尊者摩訶拘絺羅，住在波羅奈鹿野苑中仙人墜落處。 
 
@@ -562,7 +562,7 @@
        ‘‘Rūpañca kho, āvuso, jānato passato yathābhūtaṃ, rūpasamudayaṃ jānato passato yathābhūtaṃ, rūpanirodhaṃ jānato passato yathābhūtaṃ, rūpanirodhagāminiṃ paṭipadaṃ jānato passato yathābhūtaṃ, ‘hoti tathāgato paraṃ maraṇā’tipissa na hoti…pe… ‘neva hoti na na hoti tathāgato paraṃ maraṇā’tipissa na hoti. Vedanaṃ…pe… saññaṃ…pe… saṅkhāre…pe… viññāṇaṃ jānato passato yathābhūtaṃ, viññāṇasamudayaṃ jānato passato yathābhūtaṃ, viññāṇanirodhaṃ jānato passato yathābhūtaṃ, viññāṇanirodhagāminiṃ paṭipadaṃ jānato passato yathābhūtaṃ, ‘hoti tathāgato paraṃ maraṇā’tipissa na hoti; ‘na hoti tathāgato paraṃ maraṇā’tipissa na hoti; ‘hoti ca na ca hoti tathāgato paraṃ maraṇā’tipissa na hoti; ‘neva hoti na na hoti tathāgato paraṃ maraṇā’tipissa na hoti. Ayaṃ kho, āvuso, hetu ayaṃ paccayo, yenetaṃ abyākataṃ bhagavatā’’ti. Catutthaṃ.
 
    * - 漢譯(莊春江) [2]_
-     - 相應部44相應4經/ **舍利弗與拘絺羅經第二` (無記相應/處篇/如來記說)(莊春江譯)
+     - 相應部44相應4經/ **舍利弗與拘絺羅經第二** (無記相應/處篇/如來記說)(莊春江譯)
 
        :ttnote:`有一次` ， :ttnote:`尊者` 舍利弗與尊者摩訶拘絺羅，住在波羅奈鹿野苑中仙人墜落處。……（中略）(如前經所問) 
 
@@ -600,7 +600,7 @@
        414. Ekaṃ samayaṃ āyasmā ca sāriputto, āyasmā ca mahākoṭṭhiko bārāṇasiyaṃ viharanti isipatane migadāye…pe… (sāyeva pucchā) ‘‘ko nu kho, āvuso, hetu ko paccayo, yenetaṃ abyākataṃ bhagavatā’’ti? ‘‘Rūpe kho, āvuso, avigatarāgassa avigatacchandassa avigatapemassa avigatapipāsassa avigatapariḷāhassa avigatataṇhassa ‘hoti tathāgato paraṃ maraṇā’tipissa hoti…pe… ‘neva hoti na na hoti tathāgato paraṃ maraṇā’tipissa hoti. Vedanāya…pe… saññāya…pe… saṅkhāresu…pe… viññāṇe avigatarāgassa avigatacchandassa avigatapemassa avigatapipāsassa avigatapariḷāhassa avigatataṇhassa ‘hoti tathāgato paraṃ maraṇā’tipissa hoti…pe… ‘neva hoti na na hoti tathāgato paraṃ maraṇā’tipissa hoti. Rūpe ca kho, āvuso, vigatarāgassa…pe… vedanāya…pe… saññāya…pe… saṅkhāresu…pe… viññāṇe vigatarāgassa vigatacchandassa vigatapemassa vigatapipāsassa vigatapariḷāhassa vigatataṇhassa ‘hoti tathāgato paraṃ maraṇā’tipissa na hoti…pe… ‘neva hoti na na hoti tathāgato paraṃ maraṇā’tipissa na hoti. Ayaṃ kho, āvuso, hetu, ayaṃ paccayo, yenetaṃ abyākataṃ bhagavatā’’ti. Pañcamaṃ.
 
    * - 漢譯(莊春江) [2]_
-     - 相應部44相應5經/ **舍利弗與拘絺羅經第三` (無記相應/處篇/如來記說)(莊春江譯)
+     - 相應部44相應5經/ **舍利弗與拘絺羅經第三** (無記相應/處篇/如來記說)(莊春江譯)
 
        :ttnote:`有一次` ， :ttnote:`尊者` 舍利弗與尊者摩訶拘絺羅，住在波羅奈鹿野苑中仙人墜落處。……（中略）(如前經所問) 
 
@@ -650,7 +650,7 @@
        ‘‘Siyā panāvuso, aññopi pariyāyo, yenetaṃ abyākataṃ bhagavatā’’ti? ‘‘Ettha dāni, āvuso sāriputta, ito uttari kiṃ icchasi? Taṇhāsaṅkhayavimuttassa, āvuso sāriputta, bhikkhuno vaṭṭaṃ [vattaṃ (syā. kaṃ. ka.) vaddhaṃ (pī.)] natthi paññāpanāyā’’ti. Chaṭṭhaṃ.
 
    * - 漢譯(莊春江) [2]_
-     - 相應部44相應6經/ **舍利弗與拘絺羅經第四` (無記相應/處篇/如來記說)(莊春江譯)
+     - 相應部44相應6經/ **舍利弗與拘絺羅經第四** (無記相應/處篇/如來記說)(莊春江譯)
 
        :ttnote:`有一次` ， :ttnote:`尊者` 舍利弗與尊者摩訶拘絺羅，住在波羅奈鹿野苑中仙人墜落處。 
 
@@ -754,7 +754,7 @@
        ‘‘Acchariyaṃ, bho gotama, abbhutaṃ, bho gotama! Yatra hi nāma satthu ca [satthussa ca (sī. pī.), satthu ceva (khemāsutte)] sāvakassa ca atthena attho byañjanena byañjanaṃ saṃsandissati samessati na virodhayissati, yadidaṃ aggapadasmiṃ. Idānāhaṃ, bho gotama, samaṇaṃ mahāmoggallānaṃ upasaṅkamitvā etamatthaṃ apucchiṃ. Samaṇopi me moggallāno etehi padehi etehi byañjanehi tamatthaṃ byākāsi, seyyathāpi bhavaṃ gotamo. Acchariyaṃ, bho gotama, abbhutaṃ, bho gotama ! Yatra hi nāma satthu ca sāvakassa ca atthena attho byañjanena byañjanaṃ saṃsandissati samessati na virodhayissati, yadidaṃ aggapadasmi’’nti. Sattamaṃ.
 
    * - 漢譯(莊春江) [2]_
-     - 相應部44相應7經/ **目揵連經` (無記相應/處篇/如來記說)(莊春江譯) 
+     - 相應部44相應7經/ **目揵連經** (無記相應/處篇/如來記說)(莊春江譯) 
 
        那時， :ttnote:`遊行者` 婆蹉氏去見 :ttnote:`尊者` 目揵連。抵達後，與尊者目揵連互相歡迎。歡迎與寒暄後，在一旁坐下。在一旁坐好後，遊行者婆蹉氏對尊者目揵連這麼說： 
 
@@ -903,7 +903,7 @@
        ‘‘Acchariyaṃ, bho moggallāna, abbhutaṃ, bho moggallāna! Yatra hi nāma satthu ca sāvakassa ca atthena attho byañjanena byañjanaṃ saṃsandissati, samessati, na virodhayissati, yadidaṃ aggapadasmiṃ. Idānāhaṃ, bho moggallāna, samaṇaṃ gotamaṃ upasaṅkamitvā etamatthaṃ apucchiṃ. Samaṇopi me gotamo etehi padehi etehi byañjanehi etamatthaṃ byākāsi, seyyathāpi bhavaṃ moggallāno. Acchariyaṃ, bho moggallāna, abbhutaṃ, bho moggallāna! Yatra hi nāma satthu ca sāvakassa ca atthena attho byañjanena byañjanaṃ saṃsandissati samessati na virodhayissati, yadidaṃ aggapadasmi’’nti. Aṭṭhamaṃ.
 
    * - 漢譯(莊春江) [2]_
-     - 相應部44相應8經/ **婆蹉氏經` (無記相應/處篇/如來記說)(莊春江譯) 
+     - 相應部44相應8經/ **婆蹉氏經** (無記相應/處篇/如來記說)(莊春江譯) 
 
        那時， :ttnote:`遊行者` 婆蹉氏去見 :ttnote:`世尊` 。抵達後，與世尊互相歡迎。歡迎與寒暄後，在一旁坐下。在一旁坐好後，遊行者婆蹉氏對世尊這麼說： 
 
@@ -1001,7 +1001,7 @@
        ‘‘Yasmiṃ , bho gotama, samaye acci vātena khittā dūrampi gacchati, imassa pana bhavaṃ gotamo kiṃ upādānasmiṃ paññāpetī’’ti? ‘‘Yasmiṃ kho, vaccha, samaye acci vātena khittā dūrampi gacchati, tamahaṃ vātūpādānaṃ paññāpemi. Vāto hissa, vaccha, tasmiṃ samaye upādānaṃ hotī’’ti. ‘‘Yasmiñca pana, bho gotama, samaye imañca kāyaṃ nikkhipati, satto ca aññataraṃ kāyaṃ anupapanno hoti, imassa pana bhavaṃ gotamo kiṃ upādānasmiṃ paññāpetī’’ti? ‘‘Yasmiṃ kho, vaccha, samaye imañca kāyaṃ nikkhipati, satto ca aññataraṃ kāyaṃ anupapanno hoti, tamahaṃ taṇhūpādānaṃ vadāmi. Taṇhā hissa, vaccha, tasmiṃ samaye upādānaṃ hotī’’ti [hotīti…pe… (ka.)]. Navamaṃ.
 
    * - 漢譯(莊春江) [2]_
-     - 相應部44相應9經/ **論議堂經` (無記相應/處篇/如來記說)(莊春江譯) 
+     - 相應部44相應9經/ **論議堂經** (無記相應/處篇/如來記說)(莊春江譯) 
 
        那時， :ttnote:`遊行者` 婆蹉氏去見 :ttnote:`世尊` 。抵達後，與世尊互相歡迎。歡迎與寒暄後，在一旁坐下。在一旁坐好後，遊行者婆蹉氏對世尊這麼說： 
 
@@ -1063,7 +1063,7 @@
        Atha kho āyasmā ānando acirapakkante vacchagotte paribbājake bhagavantaṃ etadavoca – ‘‘kiṃ nu kho, bhante, bhagavā vacchagottassa paribbājakassa pañhaṃ puṭṭho na byākāsī’’ti? ‘‘Ahañcānanda, vacchagottassa paribbājakassa ‘atthattā’ti puṭṭho samāno ‘atthattā’ti byākareyyaṃ, ye te, ānanda, samaṇabrāhmaṇā sassatavādā tesametaṃ saddhiṃ [tesametaṃ laddhi (sī.)] abhavissa. Ahañcānanda, vacchagottassa paribbājakassa ‘natthattā’ti puṭṭho samāno ‘natthattā’ti byākareyyaṃ, ye te, ānanda, samaṇabrāhmaṇā ucchedavādā tesametaṃ saddhiṃ abhavissa. Ahañcānanda, vacchagottassa paribbājakassa ‘atthattā’ti puṭṭho samāno ‘atthattā’ti byākareyyaṃ, api nu me taṃ, ānanda, anulomaṃ abhavissa ñāṇassa uppādāya – ‘sabbe dhammā anattā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Ahañcānanda, vacchagottassa paribbājakassa ‘natthattā’ti puṭṭho samāno ‘natthattā’ti byākareyyaṃ , sammūḷhassa, ānanda, vacchagottassa paribbājakassa bhiyyo sammohāya abhavissa – ‘ahuvā me nūna pubbe attā, so etarahi natthī’’’ti. Dasamaṃ.
 
    * - 漢譯(莊春江) [2]_
-     - 相應部44相應10經/ **阿難經` (無記相應/處篇/如來記說)(莊春江譯) 
+     - 相應部44相應10經/ **阿難經** (無記相應/處篇/如來記說)(莊春江譯) 
 
        那時， :ttnote:`遊行者` 婆蹉氏去見 :ttnote:`世尊` 。抵達後，與世尊互相歡迎。歡迎與寒暄後，在一旁坐下。在一旁坐好後，遊行者婆蹉氏對世尊這麼說： 
 
@@ -1169,7 +1169,7 @@
        | Saḷāyatanavaggasaṃyuttapāḷi niṭṭhitā.
 
    * - 漢譯(莊春江) [2]_
-     - 相應部44相應11經/ **沙比雅迦旃延經` (無記相應/處篇/如來記說)(莊春江譯) 
+     - 相應部44相應11經/ **沙比雅迦旃延經** (無記相應/處篇/如來記說)(莊春江譯) 
 
        :ttnote:`有一次` ， :ttnote:`尊者` 沙比雅迦旃延住在那低葛的磚屋中。 
 
@@ -1290,7 +1290,7 @@
 備註：
 +++++++
 
-.. [1] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ ``*http://www.tipitaka.org/*`` (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Saḷāyatanavaggapāḷi → `9. Asaṅkhatasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul8.xml>`__ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
+.. [1] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ **http://www.tipitaka.org/** (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Saḷāyatanavaggapāḷi → `9. Asaṅkhatasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0304m.mul8.xml>`__ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
 
 .. [2] 請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯 相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__ → 43.無為相應(請點選經號進入)：
 

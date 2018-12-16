@@ -71,7 +71,7 @@ Pabbatavaggo 山品
        182. Sāvatthinidānaṃ . ‘‘Seyyathāpi, bhikkhave, himavantaṃ pabbatarājānaṃ nissāya nāgā kāyaṃ vaḍḍhenti, balaṃ gāhenti; te tattha kāyaṃ vaḍḍhetvā balaṃ gāhetvā kusobbhe otaranti, kusobbhe otaritvā mahāsobbhe otaranti, mahāsobbhe otaritvā kunnadiyo otaranti, kunnadiyo otaritvā mahānadiyo otaranti, mahānadiyo otaritvā mahāsamuddasāgaraṃ otaranti; te tattha mahantattaṃ vepullattaṃ āpajjanti kāyena; evameva kho, bhikkhave, bhikkhu sīlaṃ nissāya sīle patiṭṭhāya satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto mahantattaṃ vepullattaṃ pāpuṇāti dhammesu. Kathañca, bhikkhave, bhikkhu sīlaṃ nissāya sīle patiṭṭhāya satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto mahantattaṃ vepullattaṃ pāpuṇāti dhammesūti? Idha, bhikkhave, bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ; dhammavicayasambojjhaṅgaṃ bhāveti…pe… vīriyasambojjhaṅgaṃ bhāveti…pe… pītisambojjhaṅgaṃ bhāveti…pe… passaddhisambojjhaṅgaṃ bhāveti…pe… samādhisambojjhaṅgaṃ bhāveti…pe… upekkhāsambojjhaṅgaṃbhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Evaṃ kho, bhikkhave, bhikkhu sīlaṃ nissāya sīle patiṭṭhāya satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto mahantattaṃ vepullattaṃ pāpuṇāti dhammesū’’ti. Paṭhamaṃ.
 
    * - 漢譯(莊春江) [2]_
-     - 46.(2) :ttnote:`覺支相應**
+     - 46.(2) **覺支相應**
 
        **1.山品**
 
@@ -354,7 +354,7 @@ Pabbatavaggo 山品
    * - 漢譯(莊春江) [2]_
      - 相應部46相應4經/ **衣服經** (覺支相應/大篇/修多羅)(莊春江譯) 
 
-       **有一次` ， :ttnote:`尊者` 舍利弗住在舍衛城祇樹林給孤獨園。 
+       :ttnote:`有一次` ， :ttnote:`尊者` 舍利弗住在舍衛城祇樹林給孤獨園。 
 
        在那裡，尊者舍利弗召喚 :ttnote:`比丘` 們： 
 
@@ -611,7 +611,7 @@ Pabbatavaggo 山品
    * - 漢譯(莊春江) [2]_
      - 相應部46相應8經/ **優波瓦那經** (覺支相應/大篇/修多羅)(莊春江譯)
 
-       **有一次` ， :ttnote:`尊者` 優波瓦那與尊者舍利弗住在拘睒彌城瞿師羅園。 
+       :ttnote:`有一次` ， :ttnote:`尊者` 優波瓦那與尊者舍利弗住在拘睒彌城瞿師羅園。 
 
        那時，尊者舍利弗在傍晚時，從 :ttnote:`獨坐` 中出來，去見尊者優波瓦那。抵達後，與尊者優波瓦那相互歡迎。歡迎與寒暄後，在一旁坐下。在一旁坐好後，尊者舍利弗對尊者優波瓦那這麼說： 
 
@@ -853,7 +853,7 @@ Gilānavaggo 病品
    * - 漢譯(莊春江) [2]_
      - 相應部46相應14經/ **病經第一** (覺支相應/大篇/修多羅)(莊春江譯) 
 
-        **有一次` ， :ttnote:`世尊` 住在王舍城栗鼠飼養處的竹林中。 
+       :ttnote:`有一次` ， :ttnote:`世尊` 住在王舍城栗鼠飼養處的竹林中。 
 
        當時， :ttnote:`尊者` 大迦葉住在畢波里洞穴，生病、痛苦、重病。 
 
@@ -909,7 +909,7 @@ Gilānavaggo 病品
    * - 漢譯(莊春江) [2]_
      - 相應部46相應15經/ **病經第二** (覺支相應/大篇/修多羅)(莊春江譯) 
 
-        **有一次` ， :ttnote:`世尊` 住在王舍城栗鼠飼養處的竹林中。 
+       :ttnote:`有一次` ， :ttnote:`世尊` 住在王舍城栗鼠飼養處的竹林中。 
 
        當時， :ttnote:`尊者` 大目揵連住在 :ttnote:`耆闍崛山` ，生病、痛苦、重病。 
 
@@ -963,7 +963,7 @@ Gilānavaggo 病品
    * - 漢譯(莊春江) [2]_
      - 相應部46相應16經/ **病經第三** (覺支相應/大篇/修多羅)(莊春江譯) 
 
-        **有一次` ， :ttnote:`世尊` 住在王舍城栗鼠飼養處的竹林中。 
+       :ttnote:`有一次` ， :ttnote:`世尊` 住在王舍城栗鼠飼養處的竹林中。 
 
        當時，世尊生病、痛苦、重病。 
 
@@ -1568,7 +1568,7 @@ Udāyivaggo 優陀夷品
    * - 漢譯(莊春江) [2]_
      - 相應部46相應30經/ **優陀夷經** (覺支相應/大篇/修多羅)(莊春江譯) 
 
-        **有一次` ， :ttnote:`世尊` 住在孫玻，一個名叫謝達葛的孫玻人城鎮。那時， :ttnote:`尊者` 優陀夷去見世尊，……（中略）在一旁坐好後，尊者優陀夷對世尊這麼說： 
+       :ttnote:`有一次` ， :ttnote:`世尊` 住在孫玻，一個名叫謝達葛的孫玻人城鎮。那時， :ttnote:`尊者` 優陀夷去見世尊，……（中略）在一旁坐好後，尊者優陀夷對世尊這麼說： 
 
        「不可思議啊， :ttnote:`大德` ！ :ttnote:`未曾有` 啊，大德！大德！我對世尊的愛與尊重，以及 :ttnote:`慚` 與 :ttnote:`愧` 多麼 :ttnote:`助益` 啊！大德！因為，當我以前還是在家人時，我對法、 :ttnote:`僧團` 是個非助益者，[但，]我[出於]對世尊的愛與尊重，看見慚與愧而從在家出家， :ttnote:`成為非家生活` ，世尊教導我法：『這樣是色，這樣是色的集，這樣是色的滅沒；這樣是受，……（中略）；這樣是想，……；這樣是行，……；這樣是識，這樣是識的集，這樣是識的滅沒。 
 
@@ -2975,7 +2975,7 @@ Sākacchavaggo 對話品
    * - 漢譯(莊春江) [2]_
      - 相應部46相應54經/ **慈俱行經** (覺支相應/大篇/修多羅)(莊春江譯) 
 
-        **有一次` ， :ttnote:`世尊` 住在拘利國名叫哈利達瓦沙那的拘利族人城鎮。 
+       :ttnote:`有一次` ， :ttnote:`世尊` 住在拘利國名叫哈利達瓦沙那的拘利族人城鎮。 
 
        那時，眾多 :ttnote:`比丘` 在午前時穿好衣服後，取鉢與僧衣， :ttnote:`為了托鉢` 進入哈利達瓦沙那。 
 
@@ -3277,9 +3277,9 @@ Sākacchavaggo 對話品
    * - 漢譯(莊春江) [2]_
      - 相應部46相應56經/ **無畏經** (覺支相應/大篇/修多羅)(莊春江譯) 
 
-        **我聽到這樣` ： 
+       :ttnote:`我聽到這樣` ： 
 
-        **有一次` ， :ttnote:`世尊` 住在王舍城 :ttnote:`耆闍崛山` 。 
+       :ttnote:`有一次` ， :ttnote:`世尊` 住在王舍城 :ttnote:`耆闍崛山` 。 
 
        那時，無畏王子去見世尊。抵達後，向世尊 :ttnote:`問訊` ，接著在一旁坐下。在一旁坐好後，無畏王子對世尊這麼說： 
 
@@ -4854,7 +4854,7 @@ Punaoghavaggo 再一個暴流品
 備註：
 +++++++
 
-.. [1] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ ``*http://www.tipitaka.org/*`** (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Mahāvaggapāḷi → `2. Bojjhaṅgasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul1.xml>`__ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
+.. [1] 請參考： `The Pāḷi Tipitaka <http://www.tipitaka.org/>`__ **http://www.tipitaka.org/** (請於左邊選單“Tipiṭaka Scripts”中選 `Roman → Web <http://www.tipitaka.org/romn/>`__ → Tipiṭaka (Mūla) → Suttapiṭaka → Saṃyuttanikāya → Mahāvaggapāḷi → `2. Bojjhaṅgasaṃyuttaṃ <http://www.tipitaka.org/romn/cscd/s0305m.mul1.xml>`__ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__ (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
 
 .. [2] 請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯 相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__ → 46.覺支相應(請點選經號進入)：
 
