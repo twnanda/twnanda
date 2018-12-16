@@ -8,7 +8,7 @@
 :category: 巴利三藏相應部
 :summary: 六處相應對讀 (巴利三藏 相應部) Parallel Reading of Saḷāyatana-saṃyuttaṃ (The six senses)
 
-:chng-CK-fn: yes
+:notooltipnote: yes
 
 - `六處相應 <{filename}sn35-salayatana-samyutta%zh.rst>`__ 
 

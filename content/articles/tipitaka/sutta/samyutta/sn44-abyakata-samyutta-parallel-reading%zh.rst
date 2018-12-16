@@ -7,7 +7,7 @@
 :category: 巴利三藏相應部
 :summary: 無記相應 (無記說相應) 對讀 Parallel Reading of Abyākata-saṃyuttaṃ, Not designated (巴利三藏 相應部)
 
-:chng-CK-fn: yes
+:notooltipnote: yes
 
 - `無記相應 <{filename}sn44-abyakata-samyutta%zh.rst>`__ 
 

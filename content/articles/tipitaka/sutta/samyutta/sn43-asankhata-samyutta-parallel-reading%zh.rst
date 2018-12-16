@@ -7,7 +7,7 @@
 :category: 巴利三藏相應部
 :summary: 無為相應對讀 (巴利三藏 相應部) Parallel Reading of Asaṅkhata-saṃyuttaṃ , The unfashioned (Nibbana)
 
-:chng-CK-fn: yes
+:notooltipnote: yes
 
 - `無為相應 <{filename}sn43-asankhata-samyutta%zh.rst>`__ 
 

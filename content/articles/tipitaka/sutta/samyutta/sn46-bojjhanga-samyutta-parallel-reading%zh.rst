@@ -7,7 +7,7 @@
 :category: 巴利三藏相應部
 :summary: 覺支相應對讀 (七覺支相應對讀) (巴利三藏 相應部) Parallel Reading of Bojjhaṅga-saṃyuttaṃ (The Seven Factors for Awakening)
 
-:chng-CK-fn: yes
+:notooltipnote: yes
 
 - `覺支相應 <{filename}sn46-bojjhanga-samyutta%zh.rst>`__ 
 

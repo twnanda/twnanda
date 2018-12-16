@@ -162,6 +162,10 @@ function HideTooltip(e) {
 
 // select all bold texts and attach mouseenter and mouseleave event handler
 function SetupNotes() {
+  if (document.querySelector("div.notooltipnote") == null) {
+    return;
+  }
+
   var strongs = document.querySelectorAll("strong");
   for (var i = 0; i < strongs.length; ++i) {
     var strong = strongs[i];
