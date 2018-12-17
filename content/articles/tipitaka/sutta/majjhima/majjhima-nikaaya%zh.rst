@@ -2,7 +2,7 @@ Majjhima-nikāya 巴利大藏經 經藏 中部 (Further Dialogues of the Buddha;
 =============================================================================================================
 
 :date: 2003-07-13
-:modified: 2017-12-30
+:modified: 2018-12-17
 :tags: 中部尼柯耶, 中部, 尼柯耶, Majjhima nikāya, 巴利三藏中部
 :category: 巴利三藏中部
 :summary: Majjhima-nikāya 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
@@ -217,7 +217,9 @@ Mūlapaṇṇāsa 根本五十經篇
 
       `增支部6集58經/煩惱經 <http://agama.buddhason.org/AN/AN1189.htm>`__ ; AN 6.58; 《增支部》6.58. 
 
-      `一切漏經注 <http://www.gaya.org.tw/publisher/fashin/%E9%A6%99%E5%85%89%E6%9B%B8%E9%84%89%E3%80%8A%E4%B8%80%E5%88%87%E6%BC%8F%E7%B6%93%E6%B3%A8%EF%BC%9A%E5%B7%B4%E6%BC%A2%E6%A0%A1%E8%AD%AF%E8%88%87%E5%B0%8E%E8%AB%96%E3%80%8B2015_0214.pdf>`__ ( **巴漢校譯與導論** ， **莊博蕙** 博士 譯著，2014.12，香光書鄉， `香光資訊網 <http://www.gaya.org.tw/>`__ )
+    .. _mn02_att:
+
+    - `一切漏經注 <http://www.gaya.org.tw/publisher/fashin/asava_index.htm>`__ （ **巴漢校譯與導論** ， **莊博蕙** 博士 譯著，2014.12，香光書鄉， `香光資訊網 <http://www.gaya.org.tw/>`__ ， `PDF <http://www.gaya.org.tw/publisher/fashin/%E9%A6%99%E5%85%89%E6%9B%B8%E9%84%89%E3%80%8A%E4%B8%80%E5%88%87%E6%BC%8F%E7%B6%93%E6%B3%A8%EF%BC%9A%E5%B7%B4%E6%BC%A2%E6%A0%A1%E8%AD%AF%E8%88%87%E5%B0%8E%E8%AB%96%E3%80%8B2015_0214.pdf>`__ ， `佛學數位圖書館暨博物館書目 <http://buddhism.lib.ntu.edu.tw/DLMBS/search/search_detail.jsp?seq=548661>`__ 、 `國家圖書館書目 <http://aleweb.ncl.edu.tw/F?func=find-c&ccl_term=sys=003755430>`__ 、 `三民網路書店書訊 <http://www.sanmin.com.tw/product/index/004861714>`__ ）
 
   * 英譯：
 
@@ -8711,6 +8713,7 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 .. [14] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Majjhima Nikāya (MN) <https://suttacentral.net/mn>`__ 。
 
 ..
+  12.17 2018 add: 一切漏經注 書目 & 書訊
   12.30 add: 國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」:雜阿含經 、增壹阿含經；CBETA:雜阿含經 （ 50 卷本 ，劉宋　求那跋陀羅　譯）、別譯雜阿含經 （失譯，16 卷本）、雜阿含經 （失譯， 單卷本 ）、中阿含經 （東晉　瞿曇 僧伽提婆　譯，共 60 卷）、增壹阿含經 （東晉　瞿曇 僧伽提婆　譯，共 51 卷）、長阿含經 （後秦　佛陀耶舍　共　竺佛念　譯，共 22 卷）; 台語與佛典: 中阿含讀書會 、增支部尼柯耶讀書會、增一阿含讀書會
   12.27 add:漏盡經 ( 台大獅子吼佛學專站 ； 阿含站專案列表 → 中阿含經 → 卷第二 )
   10.16 METTANET - LANKA (metta.lk) re-activation
