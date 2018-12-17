@@ -7,8 +7,6 @@
 :category: 巴利三藏相應部
 :summary: 雜染相應 (煩惱相應, 污染相應)  對讀 (巴利三藏 相應部) Parallel Reading of Kilesa-saṃyuttaṃ (Defilements)
 
-:notooltipnote: yes
-
 .. role:: ttnote
     :class: ttnote
 
