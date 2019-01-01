@@ -51,4 +51,8 @@ publish: js scss clean
 ncku: js scss clean
 	$(PELICAN) $(INPUTDIR) -o $(NCKUOUTPUTDIR) -s $(NCKUPUBLISHCONF) $(PELICANOPTS)
 
+offline:
+	[ -d $(OUTPUTDIR) ] || mkdir -p $(OUTPUTDIR)
+	cd $(OUTPUTDIR); wget -mkEpnp https://nanda.online-dhamma.net/
+
 .PHONY: download scss html clean serve publish

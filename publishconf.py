@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = '//nanda.online-dhamma.net'
+SITEURL = 'https://nanda.online-dhamma.net'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = None
