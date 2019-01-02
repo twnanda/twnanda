@@ -10,10 +10,14 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
+<<<<<<< HEAD
 SITEURL = '//nanda.online-dhamma.net'
 # original for github: SITEURL = '//nanda.online-dhamma.net'
 # test SITEURL = '' ; SITEURL = 'output' ; SITEURL = '/output' : e.g., all <a class="reference external" href="/a-path-to-freedom/biography-of-the-Buddha-masutani-excerpts/
 
+=======
+SITEURL = 'https://nanda.online-dhamma.net'
+>>>>>>> c22c5af95a921f0278a3c013f62bff0b043db0f6
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = None
