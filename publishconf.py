@@ -11,6 +11,9 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 SITEURL = '//nanda.online-dhamma.net'
+# original for github: SITEURL = '//nanda.online-dhamma.net'
+# test SITEURL = '' ; SITEURL = 'output' ; SITEURL = '/output' : e.g., all <a class="reference external" href="/a-path-to-freedom/biography-of-the-Buddha-masutani-excerpts/
+
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = None
