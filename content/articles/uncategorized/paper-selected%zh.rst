@@ -2,49 +2,13 @@
 ########
 
 :date: 2005-05-01
-:modified: 2018-04-11
+:modified: 2019-01-13
 :tags: 
 :category: 未分類
 :summary: 文章選讀
 
 
-- 《佛陀的啟示》(What the Buddha Taught)(中英對照)
-
-  Walpola Rahula 羅[目候]羅.化普樂 著; 顧法嚴譯; 慧炬出版社
-
-  .. list-table::
-     :header-rows: 1
-
-     * - 檔案名稱(下載)
-       - 檔案類型
-       - 檔案日期
-       - 檔案大小
-
-     * - CH191-01-1.ZIP( `下載 <http://ftp.budaedu.org/publish/C1/CH19/CH191-01-1.ZIP>`__ )
-       - DynaDoc 文件 (.WDL) ( `下載閱讀程式 <http://tw.dynacw.com/software_download/download_2.htm>`__ )
-       - 2005-04-13
-       - 648.293 KB
-
-     * - CH191-01-2.ZIP( `下載 <http://ftp.budaedu.org/publish/C1/CH19/CH191-01-2.ZIP>`__ )
-       - MS Word 文件 (.DOC)
-       - 2005-04-13
-       - 80.150 KB
-
-     * - CH191-01-3.ZIP( `下載 <http://ftp.budaedu.org/publish/C1/CH19/CH191-01-3.ZIP>`__ )
-       - 一般文字檔 (.TXT)
-       - 2005-04-13
-       - 67.768 KB
-
-  Cited from：佛陀教育基金會－經書電子檔下載 -- http://www.budaedu.org/publish/C1/index.php#CH11
-
-  `線上閱讀 <{filename}/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.html>`__ (HTML) 或下載(按滑鼠右鍵,選擇 "另存目標"(Chrome 則為"另存連結為")；便可直接存檔)：
-  `PDF <{filename}/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.pdf>`__ (含目錄及書籤功能)或
-  m$ `.DOC 檔 <{filename}/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.doc>`__
-
-  取材自：http://book.bfnn.org/books/0535.htm (直接閱讀 HTML)
-
-  英文版(English): `HTML <http://www.quangduc.com/English/basic/68whatbuddhataught.html>`__ or
-  `PDF <http://www.dhammatalks.net/Books11/Bhante_Walpola_Rahula-What_the_Buddha_Taught.pdf>`__
+- `《佛陀的啟示》 <{filename}/articles/a-path-to-freedom/what-the-Buddha-taught%zh.rst>`__ (What the Buddha Taught)，羅睺羅 尊者(Ven. Walpola Rahula Thero)著; 法嚴法師(顧法嚴) 譯; 慧炬出版社; 臺灣．臺北市, 民61（ `佛曆 <https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`__ ( `BE <https://en.wikipedia.org/wiki/Buddhist_calendar>`_ ) 2515 ( `西元 <https://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 1972 `CE <Common_Era>`_ )）
 
 ----
 
@@ -143,6 +107,12 @@
 
 ----
 
+- `Dhmma Talks by Mogok Sayadaw <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven_uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`_ : Translation based on the recorded tapes by **Ven. Uttamo thera** （尊者　 **莫哥西亞多** 開示錄；由　尊者　 **鄔達摩　長老** 　自緬甸語錄音帶譯為 **英文** ） 
+
+- `Eighteen Days In Solitude <{filename}/articles/a-path-to-freedom/ven_uttamo/publication-of-ven_uttamo%zh.rst#eighteen-days-in-solitude>`_ --Instructional Dhamma Talks in Retreat, By **Venerable U Nanaransi** (Ñāṇaransi ?); The translator: **Ven. Uttamo thera** （18天禪修營，尊者　 **納納嵐溪長老** 開示錄；由　尊者　 **鄔達摩長老** 　自緬甸語錄音帶譯為 **英文** ）
+
+----
+
 - 《智慧之樹，不返之流-- 觀禪的修行與進程》 (The Tree of Wisdom，The River of No Return-- The practice and development on insight meditattion)：
 
   | 作者：慈濟瓦禪師(Venerable Sujiva)； 譯者：雷叔雲、湯華俊；
@@ -214,6 +184,8 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  2019-01-03 add: Dhmma Talks by Mogok Sayadaw & Eighteen Days In Solitude (translator: Ven. Uttamo thera, English) (add on 2018-12-28; finish on 2019-01-03)
+  10-25 rev. 《佛陀的啟示》 for rst; old:/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.html
   2018.04.11 rev. 《佛陀》 増谷文雄　著 original URL on Dhammarain (old: http://www.dhammarain.org.tw/books/Autobiography-of-buddha/
   ----
   07.05 add: UNEXPECTED FREEDOM (by AJAHN MUNINDO):dhammatalks.net-- PDF ; download EPUB or MOBI (from forestsangha.org)

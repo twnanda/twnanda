@@ -1,0 +1,32 @@
+==========================================
+Samatha And Vipassanā
+==========================================
+
+:date: 2019-01-13
+:modified: 2019-01-13
+:tags: Samatha, Vipassanā, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
+:category: path of nirvana
+:summary: Samatha And Vipassanā (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+
+Dhamma Talks by Mogok Sayadaw; 20th October 1961
+
+(Sayadaw mentioned a monk named Asajit who was seriously ill. The Buddha went to see him and gave instruction for practice.) He had dukkha vedanā and could not develop samādhi and in low spirit. The Buddha told him, in his sāsanā samādhi should not taken as the essence of the teaching. Vipassanā practice was the main one. May be you are saying we are practicing for quite a long time now. But still don’t have samādhi. Never be in low spirit even your samādhi is weak. Samādhi is not the real essence in the Buddha’s sāsanā. Asajit’s mind became in high spirit again. Samādhi is only a supportive dhamma and wisdom is the main one. “Pay attention to what I say.” Then the Buddha asked him practiced vipassanā. “Here is feeling, mind, the 5-khandhas. I ask you and give me the answer.” The Buddha turned his mind to the contemplative object. His samādhi was unstable and also very ill, so the Buddha taught him insight practice on the khandhas.
+
+From now on you all should develop the habitual kamma(acinna kamma). Every feeling arising contemplate its impermanence. People have strong wrong view should contemplate the mind and strong craving on feeling. Anytime make it as a habitual kamma. Acinna kamma means continuous practice. I really remind you for this. Why? You are searching for wealth with desire. And don’t want to separate from the children (sons and daughters). The wealth you have worked for will be left behind including with the children. It will be difficult for dying. All these things are not important. Should develop the habitual kamma told by the Buddha. Knowledge (nyan) means continuous practice.
+
+Contemplate a lot on the mind and feeling. Impermanence (anicca) and seeing impermanence (anicca nyan) must happen simultaneously (The same meaning as seeing anicca.). Practice everyday is acinna kamma. With a lot of habitual practice and when the time of death come, you don’t want to separate from your family members. And also don’t want to let go of your wealth. All these can come in to your mind at that time. Give an example for the above situation, habitual kamma is like a strong flowing current water. The mind doesn’t want to separate with family members and wealth are like a piece of wood come across the current. The current is too strong and striking the wood away. Your everyday vipassanā practice is like strong water current. At that time the habitual wholesome kamma gives the result and the unwholesome asanna kamma (kamma come in at the time of dying) shun away. At the time of dying to be successful urgently make the preparation before-hand.
+
+Acinna kamma is everyday training. Asanna kamma is the kamma come in near dying. If you don’t do vipassanā, asanna kamma will give the result. It’s frightening. Attachment to family member leading to painful rebirths. Attachment is craving. According to Dependent Arising: Tanhā->upādāna->kamma->painful rebirth. Asanna kamma throw you down there. You all have wholesome kammas and merits. But you are not doing these things all the time. You must continuous training with one of the Four Satipatthanā. Cars, properties, houses are enemies. They will come to you near dying. These are fearful things. These are asanna kammas close to the dying moment of the mind. They are arising near the death consciousness. Some of the Buddha’s disciples (laypeople) and monk disciples took painful rebirths were these asanna kammas. That was because they did not possess vipassanā knowledge. With Path Knowledge these kammas can’t do anything to you. You must develop acinna kamma. Queen Mallikā at her near dying, asanna kamma came in and she fell into hell. She had done the biggest dāna during the Buddha’s time. But without Path Knowledge was unstable. Must have the Path Knowledge or develop the acinna kamma. Remember these two points. Near dying family and business matters can come in. Without practice, when the time come for separation is not an easy thing. Acinna kamma send you to happy rebirth or Nibbāna. Don’t be lazy. At the time of dying have to put full energy to contemplate. Why can you put full energy for contemplation? Because of acinna kamma. Without it if you see hell vision will go there as what you have seen. Seeing animal vision will be born as animal. A person who had developed the acinna kamma can change all these visions. By seeing hell fire, he knows that he has to go there. He also heard about these things before. At that time he has to put full effort for contemplation.
+
+By seeing anicca, disenchantment for anicca, the ending of anicca and then will realize Nibbāna (i.e, The 3 insight knowledges mentoned in suttas.). There is nothing to be low spirited. Someone had accinna kamma even could become an arahant at the near dying. (see Channovada Sutta, Majjhima Nikāya) Without this habitual kamma have to take rebirth accordingly to the visions. The Buddha explained the difference between prayer with chanting and vipassanā. Prayer with chanting is faith and refuge. Only leading to happy rebirths. Practice is leading to Nibbāna. Let do prayer with chanting to be lesser than practice. If you do a lot of practice, it becomes acinna kamma. Don’t listen to talks just for merits. The Buddha preferred the practice to cut off all the wholesome, unwholesome and mixed kammas (black and white) (vipassanā kamma and magga kamma cut off all kammas). Practice and stopping can’t become acinna kamma. Have to do a lot. If anicca and magga become simultaneously and you are succeeded. Asajit by practicing accordingly to the Buddha’s questions and answered and became an arahant. Samādhi is only a support for the contemplation. Don’t think as no samādhi is no perfection (parami). Vipassanā is leading by wisdom factors. If you do vipassanā also include samādhi. If you discern anicca including samādhi factors. During the practice is also including sīla factors.
+
+------
+
+- `Content <{filename}../publication-of-ven_uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`__ of "Dhmma Talks by Mogok Sayadaw"
+
+------
+
+cited from https://mogokdhammatalks.blog/
+
+..
+  2019-01-10  create rst; post on 01-13

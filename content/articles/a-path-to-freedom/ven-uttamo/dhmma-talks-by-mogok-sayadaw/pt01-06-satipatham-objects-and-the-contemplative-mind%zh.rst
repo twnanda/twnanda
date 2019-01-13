@@ -1,0 +1,26 @@
+=================================================
+Satipaṭṭhāna Objects and the Contemplative Mind
+=================================================
+
+:date: 2019-01-13
+:modified: 2019-01-13
+:tags: Satipaṭṭhāna Objects, Contemplative Mind, Satipaṭṭhāna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
+:category: path of nirvana
+:summary: Satipaṭṭhāna Objects and the Contemplative Mind (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+
+Dhamma Talks by Mogok Sayadaw; 16th September 1961
+
+The Buddha gave a talk for 3 reasons. By requesting, not requesting by anyone and depending on the events and situations. Just by compassion gave a teaching without anyone request. This is nothing to do with suitable or unsuitable situations. As an example for the depending on a situation was the quarrel between his 2-sides of relatives for water problem. Without any request he gave the Fool & the Wise discourse. The Buddha had the most disapproving attitude for getting another khandha(rebirth). It would make him happiest if someone did not get it. In the past, because of ignorance and volitional formation, in this life we had rebirth consciousness, mind/body, internal bases, contact, feeling or the 5-khandhas (avijjā->saṅkhārā ->vinnānam->nāmarūpam->salāyatanam->phassa->vedanā). In suttas described as a series. In reality it is happening together (from vinnānam to vedanā=5-khandhas). In suttas described as a series. In reality it is happening together (from vinnānam to Vedanā=5-khandhas). In the suttas mentioned 3-types of feeling arise. This is intellectual knowledge (ñāta pariñña). The real thing is contemplation (Tirana pariñña). In practice only each feeling is arising and must know it when arises. Only with Tirana pariñña that pahana pariñña (abandoning of defilement) can be possible. Whatever arising, know it and observe it. When the observing mind comes in, the arising phenomenon already passes away. Why I say this? Because two feelings can’t happen at the same time. During the observed feeling arising, the observing feeling can’t arise. Two feelings can’t appear together. Why? The arising feeling is pleasant feeling and the observing mind is neutral feeling. The observed feeling is anicca, and the observing mind is saṅkhārā. Saṅkhārā observes the anicca. The arising dhamma or saṅkhārā (observing mind) is observing the passing away dhamma. (Here it’s important to understand the term saṅkhārā. Whatever arising dhamma is saṅkhārā and arise by conditions)
+
+Saṅkhārā observes the anicca. Passing away is annica. The arising dhamma is saṅkhārā. Here it’s arising, when you look at it and already disappeared. The disappearance and the arising mind or observing mind meet together. If I don’t explain this, what happen to the yogis. They will think the contemplative mind (observing mind) is constant or permanent. As like saying my mind is fixing on the object become permanent view (sasata ditthi). The contemplative mind is saṅkhārā anicca and also the arising dhamma (both of them are saṅkhārā anicca). Without dispelling wrong view first, vipassanā practice becomes fruitless (Sayadaw in many his talks emphasized this important point very often. We had many evidences from the Buddha time to the present day yogis.). The Buddha concerned about was people could not dispel wrong views. Sometime you are saying that we are observing but can’t see impermanence. It seems that the observing mind is permanent. Contemplate the anicca with saṅkhārā. This dhamma is quite difficult but also very true. If not the objects (arammana) are anicca and the observing mind (arammanika) is nicca. Practice with this wrong view can’t succeed. In Visuddhimagga commentary- saṅkhārā dhamma contemplates the saṅkhārā dhamma-saṅkhāre saṅkhārā vipassanti. In this way wrong view can be fall off from both sides. If not, it will be like Sarti monk who had permanent wrong view. He took all other dhammas except consciousness were passing away. With wrong view sotāpatti magga can’t arise. Therefore, teacher is important. Gautama Buddha was a short life span Buddha so he left a lot of dhamma teachings behind him for the later generations. Need to be made more clearance here. When the object of saṅkhārā showing anicca, the observing mind saṅkhārā is observing it. An example is a rat comes in from the entrance door, do you see it before entering or after entering? You see it after entering. Here also the same. The dhamma arise and you see it or know it. Before the rat comes in you are not looking at it. After the rat comes in and the seeing mind arise. The observed object is anicca, and the observing mind is saṅkhārā.
+
+------
+
+- `Content <{filename}../publication-of-ven_uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`__ of "Dhmma Talks by Mogok Sayadaw"
+
+------
+
+cited from https://mogokdhammatalks.blog/
+
+..
+  2019-01-10  create rst; post on 01-13
