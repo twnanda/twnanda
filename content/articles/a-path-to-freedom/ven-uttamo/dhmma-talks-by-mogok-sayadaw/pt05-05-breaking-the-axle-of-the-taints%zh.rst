@@ -155,7 +155,7 @@ Therefore you have to cut it down with the Path Knowledge. Do the job of the pat
 
 ------
 
-- `Content <{filename}../publication-of-ven_uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`__ of "Dhmma Talks by Mogok Sayadaw"
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`__ of "Dhmma Talks by Mogok Sayadaw"
 
 ------
 

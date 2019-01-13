@@ -54,7 +54,7 @@ Only you need to take care of it ending. The khandha like the flowing water alwa
 
 ------
 
-- `Content <{filename}../publication-of-ven_uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`__ of "Dhmma Talks by Mogok Sayadaw"
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`__ of "Dhmma Talks by Mogok Sayadaw"
 
 ------
 

@@ -65,7 +65,7 @@ So, he has to smile. All of you have listened to my talks and at the time of dea
 
 ------
 
-- `Content <{filename}../publication-of-ven_uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`__ of "Dhmma Talks by Mogok Sayadaw"
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`__ of "Dhmma Talks by Mogok Sayadaw"
 
 ------
 

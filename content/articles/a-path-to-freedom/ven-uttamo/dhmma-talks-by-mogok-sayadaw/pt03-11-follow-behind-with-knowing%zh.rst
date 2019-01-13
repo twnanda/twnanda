@@ -16,7 +16,7 @@ Developing means knowing it again and again. Every time you know the mind arises
 
 ------
 
-- `Content <{filename}../publication-of-ven_uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`__ of "Dhmma Talks by Mogok Sayadaw"
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`__ of "Dhmma Talks by Mogok Sayadaw"
 
 ------
 

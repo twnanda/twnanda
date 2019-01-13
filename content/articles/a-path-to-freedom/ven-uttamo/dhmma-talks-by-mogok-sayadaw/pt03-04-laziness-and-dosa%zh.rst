@@ -14,7 +14,7 @@ The 2nd temptation of defilements (kilesa marā) is discontent (arati) or lazine
 
 ------
 
-- `Content <{filename}../publication-of-ven_uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`__ of "Dhmma Talks by Mogok Sayadaw"
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`__ of "Dhmma Talks by Mogok Sayadaw"
 
 ------
 

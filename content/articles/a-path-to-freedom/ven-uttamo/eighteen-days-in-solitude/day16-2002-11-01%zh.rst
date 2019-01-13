@@ -25,7 +25,7 @@ Therefore the most important point is stabilizing your sati. If something happen
 
 ------
 
-- `Content <{filename}../publication-of-ven_uttamo%zh.rst#eighteen-days-in-solitude>`__ of "Eighteen Days In Solitude"
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst#eighteen-days-in-solitude>`__ of "Eighteen Days In Solitude"
 
 ------
 

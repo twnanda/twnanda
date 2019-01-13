@@ -32,7 +32,7 @@ One day he went to Sayagyi U Ba Khin’s Centre for ten days retreat. And penetr
 
 ------
 
-- `Content <{filename}../publication-of-ven_uttamo%zh.rst#eighteen-days-in-solitude>`__ of "Eighteen Days In Solitude"
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst#eighteen-days-in-solitude>`__ of "Eighteen Days In Solitude"
 
 ------
 

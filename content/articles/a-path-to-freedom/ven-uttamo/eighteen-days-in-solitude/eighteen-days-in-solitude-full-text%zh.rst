@@ -338,7 +338,7 @@ The lay man U Myint Htoo, his under feet were like cutting open with razor blade
 
 ------
 
-- `Content <{filename}../publication-of-ven_uttamo%zh.rst#eighteen-days-in-solitude>`__ of "Eighteen Days In Solitude"
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst#eighteen-days-in-solitude>`__ of "Eighteen Days In Solitude"
 
 .. raw:: html
 

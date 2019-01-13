@@ -107,9 +107,9 @@
 
 ----
 
-- `Dhmma Talks by Mogok Sayadaw <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven_uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`_ : Translation based on the recorded tapes by **Ven. Uttamo thera** （尊者　 **莫哥西亞多** 開示錄；由　尊者　 **鄔達摩　長老** 　自緬甸語錄音帶譯為 **英文** ） 
+- `Dhmma Talks by Mogok Sayadaw <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`_ : Translation based on the recorded tapes by **Ven. Uttamo thera** （尊者　 **莫哥西亞多** 開示錄；由　尊者　 **鄔達摩　長老** 　自緬甸語錄音帶譯為 **英文** ） 
 
-- `Eighteen Days In Solitude <{filename}/articles/a-path-to-freedom/ven_uttamo/publication-of-ven_uttamo%zh.rst#eighteen-days-in-solitude>`_ --Instructional Dhamma Talks in Retreat, By **Venerable U Nanaransi** (Ñāṇaransi ?); The translator: **Ven. Uttamo thera** （18天禪修營，尊者　 **納納嵐溪長老** 開示錄；由　尊者　 **鄔達摩長老** 　自緬甸語錄音帶譯為 **英文** ）
+- `Eighteen Days In Solitude <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#eighteen-days-in-solitude>`_ --Instructional Dhamma Talks in Retreat, By **Venerable U Nanaransi** (Ñāṇaransi ?); The translator: **Ven. Uttamo thera** （18天禪修營，尊者　 **納納嵐溪長老** 開示錄；由　尊者　 **鄔達摩長老** 　自緬甸語錄音帶譯為 **英文** ）
 
 ----
 

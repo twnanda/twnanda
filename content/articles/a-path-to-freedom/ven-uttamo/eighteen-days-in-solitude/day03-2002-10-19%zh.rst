@@ -27,7 +27,7 @@ In the breathing, there are 6 points and walking 8 points respectively. Before i
 
 ------
 
-- `Content <{filename}../publication-of-ven_uttamo%zh.rst#eighteen-days-in-solitude>`__ of "Eighteen Days In Solitude"
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst#eighteen-days-in-solitude>`__ of "Eighteen Days In Solitude"
 
 ------
 
