@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2019-01-13
+:modified: 2019-01-21
 :tags: publication, Ven. Uttamo, Dhmma Talks by Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days In Solitude
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -11,7 +11,7 @@ Publications of Ven. Uttamo
 
 - `Dhmma Talks by Mogok Sayadaw`_ -- Emptiness, Conditioned, and Unconditioned. Translation based on the recorded tapes by Ven. Uttamo thera, cited from https://mogokdhammatalks.blog/ 
 
-- `Eighteen Days In Solitude`_ -- Instructional Dhamma Talks in Retreat, By Venerable U Nanaransi (Ñāṇaransi ?); The translator: Ven. Uttamo thera, cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35449 
+- `Eighteen Days In Solitude`_ -- Instructional Dhamma Talks in Retreat, By Venerable U Ādiccaransi; The translator: Ven. Uttamo thera, cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35449 
 
 .. _Dhmma Talks by Mogok Sayadaw:
 
@@ -22,7 +22,7 @@ Dhmma Talks by Mogok Sayadaw
    :widths: 20 20 20 20 20
    :header-rows: 1
 
-   * - `Translator’s Notes <{filename}dhmma-talks-by-mogok-sayadaw/translator-notes%zh.rst>`__
+   * - `Translator's Notes <{filename}dhmma-talks-by-mogok-sayadaw/translator-notes%zh.rst>`__
      - `Introduction <{filename}dhmma-talks-by-mogok-sayadaw/introduction%zh.rst>`__ 
      - `D.A. Process <{filename}dhmma-talks-by-mogok-sayadaw/da-process%zh.rst>`__
      - `Part 1`_
@@ -48,7 +48,7 @@ _`Part 1`
 
 - 3.) `Questions And Answers By Visākha And Dhammadinna <{filename}dhmma-talks-by-mogok-sayadaw/pt01-03-questions-and-answers-by-visakha-and-dhammadinna%zh.rst>`_ (1961-12-11 ~ 17)
 
-- 4.) `Nandaka’s Exhortation <{filename}dhmma-talks-by-mogok-sayadaw/pt01-04-nandaka-s-exhortation%zh.rst>`_ (1961-12-18 ~ 19)
+- 4.) `Nandaka's Exhortation <{filename}dhmma-talks-by-mogok-sayadaw/pt01-04-nandaka-s-exhortation%zh.rst>`_ (1961-12-18 ~ 19)
 
 - 5.) `The Continuation Of Dependent Arising <{filename}dhmma-talks-by-mogok-sayadaw/pt01-05-continuation-of-dependent-arising%zh.rst>`_ (1960-11-15)
 
@@ -186,7 +186,7 @@ _`Part 3`
 
 - 28.) `Volition, Action and Kammic Formation <{filename}dhmma-talks-by-mogok-sayadaw/pt03-28-volition-action-and-kammic-formation%zh.rst>`_ (1960-11-23)
 
-- 29.) `Seeing One’s Own Death Is Vipassanā <{filename}dhmma-talks-by-mogok-sayadaw/pt03-29-seeing-ones-own-death-is-vipassana%zh.rst>`_ (1960-11-25)
+- 29.) `Seeing One's Own Death Is Vipassanā <{filename}dhmma-talks-by-mogok-sayadaw/pt03-29-seeing-ones-own-death-is-vipassana%zh.rst>`_ (1960-11-25)
 
 ------
 
@@ -220,7 +220,7 @@ _`Part 4`
 
 _`Part 5`
 
-- 1.) `Don’t end up at what others say <{filename}dhmma-talks-by-mogok-sayadaw/pt05-01-dont-end-up-at-what-others-say%zh.rst>`_ (1961-01-08)
+- 1.) `Don't end up at what others say <{filename}dhmma-talks-by-mogok-sayadaw/pt05-01-dont-end-up-at-what-others-say%zh.rst>`_ (1961-01-08)
 
 - 2.) `Stopping and contemplation <{filename}dhmma-talks-by-mogok-sayadaw/pt05-02-stopping-and-contemplation%zh.rst>`_ (1961-01-09)
 
@@ -230,7 +230,7 @@ _`Part 5`
 
 - 5.) `Breaking the Axle of the Taints <{filename}dhmma-talks-by-mogok-sayadaw/pt05-05-breaking-the-axle-of-the-taints%zh.rst>`_ (1959-01-05, 1961-01-16,1961-10-24)
 
-- 6.) `Don’t let the mind in pain <{filename}dhmma-talks-by-mogok-sayadaw/pt05-06-dont-let-the-mind-in-pain%zh.rst>`_ (1961-01-17 ~ 01-18)
+- 6.) `Don't let the mind in pain <{filename}dhmma-talks-by-mogok-sayadaw/pt05-06-dont-let-the-mind-in-pain%zh.rst>`_ (1961-01-17 ~ 01-18)
 
 - 7.) `Buddhavāda <{filename}dhmma-talks-by-mogok-sayadaw/pt05-07-buddhavada%zh.rst>`_ (1961-01-19)
 
@@ -240,7 +240,7 @@ _`Part 5`
 
 - 10.) `Dukkha Exist and Dukkha Cease <{filename}dhmma-talks-by-mogok-sayadaw/pt05-10-dukkha-exist-and-dukkha-cease%zh.rst>`_ (1961-02-09 ~ 02-12)
 
-- 11.) `Can’t see Nibbāna with Wrong View <{filename}dhmma-talks-by-mogok-sayadaw/pt05-11-cant-see-nibbana-with-wrong-view%zh.rst>`_ (1961-02-13 ~ 02-15)
+- 11.) `Can't see Nibbāna with Wrong View <{filename}dhmma-talks-by-mogok-sayadaw/pt05-11-cant-see-nibbana-with-wrong-view%zh.rst>`_ (1961-02-13 ~ 02-15)
 
 - 12.) `Khandha Calling and Ñāṇa Going? <{filename}dhmma-talks-by-mogok-sayadaw/pt05-12-khandha-calling-and-nana-going%zh.rst>`_ (1961-03-05~ 03-06)
 
@@ -248,7 +248,7 @@ _`Part 5`
 
 - 14.) `A Poisonous Snake <{filename}dhmma-talks-by-mogok-sayadaw/pt05-14-a-poisonous-snake%zh.rst>`_ (1961-03-11)
 
-- 15.) `Don’t waste your precious life <{filename}dhmma-talks-by-mogok-sayadaw/pt05-15-dont-waste-your-precious-life%zh.rst>`_ (1961-03-12 ~ 03-13)
+- 15.) `Don't waste your precious life <{filename}dhmma-talks-by-mogok-sayadaw/pt05-15-dont-waste-your-precious-life%zh.rst>`_ (1961-03-12 ~ 03-13)
 
 - 16.) `The Most Important Thing in Life <{filename}dhmma-talks-by-mogok-sayadaw/pt05-16-the-most-important-thing-in-life%zh.rst>`_ (1961-03-16)
 
@@ -348,7 +348,7 @@ _`Part 7`
 
 - 11.) Two Guardians of Hells
 
-- 12.) Can’t Rely on the Outside Power
+- 12.) Can't Rely on the Outside Power
 
 - 13.) Dukkha & The End of Dukkha
 
@@ -450,7 +450,7 @@ _`Part 9`
 
 - 10.) How to Die with Feelings?
 
-- 11.) Should Know One’s Value
+- 11.) Should Know One's Value
 
 - 12.) Mistaken with Nibbāna
 
@@ -488,7 +488,7 @@ _`Part 10`
 
 - 1.) The middle Way
 
-- 2.) Correct One’s Mistakes in Time
+- 2.) Correct One's Mistakes in Time
 
 - 3.) Are you a fool?
 
@@ -518,7 +518,7 @@ _`Part 10`
 
 - 16.) Craving & Suffering
 
-- 17.) Fulfilling One’s Duty
+- 17.) Fulfilling One's Duty
 
 - 18.) Impermanent & Taintless
 
@@ -558,11 +558,11 @@ _`Part 11`
 
 - 13.) No Beings, nor Souls & Only Intrinsive Nature
 
-- 14.) Why Can’t Discern Dukkha?
+- 14.) Why Can't Discern Dukkha?
 
 - 15.) Becoming & Not Becoming
 
-- 16.) Don’t Live & Die with Ignorance
+- 16.) Don't Live & Die with Ignorance
 
 - 17.) Wise Attention & Wisdom
 
@@ -599,7 +599,7 @@ _`Part 12`
 
 - 5.) Dependent Arising & The Taints
 
-- 6.) Dangers the World lings Can’t Escape
+- 6.) Dangers the World lings Can't Escape
 
 - 7.) Just Intrinsic Nature
 
@@ -621,13 +621,13 @@ _`Part 12`
 
 - 16.) Dying, samsara & Nibbāna
 
-- 17.) Don’t be Get Lost in Sufferings
+- 17.) Don't be Get Lost in Sufferings
 
 - 18.) Three Knowledges of the First Discourse
 
 - 19.) Instruction on Dying
 
-- 20.) Don’t Waste Your Precious Times
+- 20.) Don't Waste Your Precious Times
 
 - 21.) The Dangers of Ignoble Dhamma
 
@@ -672,16 +672,15 @@ The translator : Ven. Uttamo (鄔達摩尊者）
      - `Day 18: 3th November, 2002 <{filename}eighteen-days-in-solitude/day18-2002-11-03%zh.rst>`_
      - `full text <{filename}eighteen-days-in-solitude/eighteen-days-in-solitude-full-text%zh.rst>`_
 
+------
+
+**This is only an experimental WWW. It's always under construction (proofreading, revising)!**
+
+**According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
+
 ..
+  01-19 add announcement of Dhamma—Dhamma Dāna; 01-14 replace ’ with ' post on 01-21
   2018-12-26~ 2019-01-13  create rst; post on 01-13
-
-  ------
-
-  **This is only an experimental WWW. It's always under construction (proofreading, revising)!**
-
-  **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
-
-  ------
 
   .. raw:: html
 

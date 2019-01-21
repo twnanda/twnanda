@@ -1,16 +1,16 @@
 ==========================================
-Translator’s Notes
+Translator's Notes
 ==========================================
 
 :date: 2019-01-11
-:modified: 2019-01-11
+:modified: 2019-01-21
 :tags: Translator, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: Ven. Uttamo Bhante
-:summary: Translator’s Notes (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned)
+:summary: Translator's Notes (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned)
 
 ------
 
-**According to the translator-- Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma-- Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium**
+**According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ------
 
@@ -32,7 +32,8 @@ These teaching were based on khandha, āyatana, dhātu, sacca & paṭicca-samupp
 
 ------
 
-cited from https://mogokdhammatalks.blog/
+cited from https://mogokdhammatalks.blog/ or https://www.oba.org.tw/viewtopic.php?f=22&t=4027
 
 ..
+  01-19 replace ’ with ' ; add link of OBA; ps:blog is provided for bhante to proofreading
   2019.01.09  create rst; post on 01-11

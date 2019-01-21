@@ -2,8 +2,8 @@
 D.A. Process
 ==========================================
 
-:date: 2019-01-13
-:modified: 2019-01-13
+:date: 2019-01-14
+:modified: 2019-01-21
 :tags: D.A. Process, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: D.A. Process (Dhamma Talks by Mogok Sayadaw—Emptiness, Conditioned, and Unconditioned.)
@@ -14,8 +14,9 @@ D.A. Process (Dependent Arising Process)
    :alt: D.A. Process
    :align: center
 
-Mogok Sayadaw’s Dhamma Talks & the Chart of Dependent Arising Process
-Here onwards will use the short form D.A. for the Dependent Arising Process. Mogok Sayadaw’s talks were based on the D.A. process.
+Mogok Sayadaw's Dhamma Talks & the Chart of Dependent Arising Process
+
+Here onwards will use the short form D.A. for the Dependent Arising Process. Mogok Sayadaw's talks were based on the D.A. process.
 
 For this purpose he constructed a chart which is called the circular chart of the D.A. process. This chart was based on the suttas & commentaries. Therefore to understand more clearer on his talks have to understand this chart. He wrote some verses & explained the teaching systematically.
 
@@ -23,19 +24,19 @@ The verses on the chart of D.A. process
 
 First verse: Two roots (mūla), 2 truths, 4 groups of layers & 12 factors with its meanings. Three connections, again 2 roots, 3 rounds for existence (vaṭṭas), 3 periods of time, 20 factors of causes & effects, & have to study these 8 points by heart & realize it with practice. This is the liberation from saṁsāra.
 
-Second verse: Base on ignorance (avijjā) & craving (taṇhā), clinging (upādāna), action (kamma) & mind-body arise. Like a tree from a seed, & a seed from a tree, which are connecting without break. With the cause of kamma & mind-body; & with mind-body & kamma arises. In this way these are arising again & again. Contemplating with knowledge as many humans, gods & living beings appear are not by the Mahā Brahma’s or God’s Creation.
+Second verse: Base on ignorance (avijjā) & craving (taṇhā), clinging (upādāna), action (kamma) & mind-body arise. Like a tree from a seed, & a seed from a tree, which are connecting without break. With the cause of kamma & mind-body; & with mind-body & kamma arises. In this way these are arising again & again. Contemplating with knowledge as many humans, gods & living beings appear are not by the Mahā Brahma's or God's Creation.
 
-First it needs to learn the 8 points, just mentioned in the first verse. And then to study the 12 factors of D.A. process. By itself it can be a long lecture for many hours. Here only give a short introduction for it. After having the basic ideas on it & we can contemplate to find out more by ourselves. The Buddha’s Teachings are always practical & developing wisdom faculty. Faith without wisdom is blind faith & leading to sufferings.
+First it needs to learn the 8 points, just mentioned in the first verse, and then to study the 12 factors of D.A. process. By itself it can be a long lecture for many hours. Here only give a short introduction for it. After having the basic ideas on it & we can contemplate to find out more by ourselves. The Buddha's Teachings are always practical & developing wisdom faculty. Faith without wisdom is blind faith & leading to sufferings.
 
 Study of the 8 points
 
-D,A process is the khandha process. Paṭiccasamuppāda, khandhas & saṁsāra are the same thing.
+D.A. process is the khandha process. Paṭiccasamuppāda, khandhas & saṁsāra are the same thing.
 
-1. Two roots: Ignorance & craving, these are the beginning of the 12 links of the D.A. process. It doesn’t mean that it is the first cause. These are also have their cause. These are the roots of saṁsāra (rounds of existence), or the root causes of the khandhas. Written in the middle of the circle like a wheel axle in bold letters as avijjā & taṇhā. They are turning the samsāric wheel on & on non-stop.
+1. Two roots: Ignorance & craving, these are the beginning of the 12 links of the D.A. process. It doesn't mean that it is the first cause. These also have their causes. These are the roots of saṁsāra (rounds of existence), or the root causes of the khandhas. Written in the middle of the circle is like a wheel axle in bold letters as avijjā & taṇhā. They are turning the samsāric wheel on & on non-stop.
 
-2. Two truths: It was written in the 1st section bottom layer as samudaya sacca. In the 2nd section as dukkha. sacca. And then in the 3rd & 4th section as samudaya & dukkha. saccas respectively. Combine the same together & become 2 truths; i.e., samudaya & dukkha saccas.
+2. Two truths: It was written in the 1st section bottom layer as samudaya sacca, in the 2nd section as dukkha sacca, and then in the 3rd & 4th section as samudaya & dukkha. saccas respectively. Combine the same together & become 2 truths; i.e., samudaya & dukkha saccas.
 
-3. Four groups of layer: In section ① it’s the layer of the past causes. In sec. ② it’s the layer of the present results. In sec. ③ is the layer of the present causes. In sec. ④ It is the layer of future results. All these are only in different periods of time. With combination become 2 layers of the causes & 2 layers of the results. Sec. ③ also can be written as the layer of the future causes.
+3. Four groups of layer: In section ①, it's the layer of the past causes. In sec. ②, it's the layer of the present results. In sec. ③, it is the layer of the present causes. In sec. ④, it is the layer of future results. All these are only in different periods of time. With combination become 2 layers of the causes & 2 layers of the results. Sec. ③ also can be written as the layer of the future causes.
 
 | 4. Twelve factors:
 | Section ① includes avijjā & saṅkhāra – (ignorance & volitional formation).
@@ -54,9 +55,9 @@ These are leading by the present root of taṇhā. Leading by the past root of a
 | ③ The 3rd connection; sec. ③ kammabhava with sec. ④ jāti.
 | 
 | As the causes & effects connections;
-| ① The past 5 causes connect with the present 5 results. (i.e.,, avijjā ….. bhava  viññāṇa … vedanā)
-| ② The present 5 results connect with the present 5 causes. (i.e.,, viññāṇa…. vedanā  taṇhā…. saṅkhāra)
-| ③ The present 5 causes connect with the future results. (i.e.,, taṇhā… saṅkhāra  viññāṇa…. vedanā)
+| ① The past 5 causes connect with the present 5 results. (i.e.,, avijjā ….. bhava viññāṇa … vedanā)
+| ② The present 5 results connect with the present 5 causes. (i.e.,, viññāṇa…. vedanā taṇhā…. saṅkhāra)
+| ③ The present 5 causes connect with the future results. (i.e.,, taṇhā… saṅkhāra viññāṇa…. vedanā)
 | 
 | As layers connections;
 | (1) The past cause layer connects with the present result layer.
@@ -99,7 +100,7 @@ Kilesa vaṭṭa & kamma vaṭṭa are the causes for round of existence. And vi
 | To understand them with practice is called patipatti—direct knowledge.
 | 
 | This is the liberation from saṁsāra:
-| It’s called pativeda—realization of Nibbāna, the ending of dukkha. All these 3 stages are also can be described as follow.
+| It's called pativeda—realization of Nibbāna, the ending of dukkha. All these 3 stages are also can be described as follow.
 | 
 | With full understanding – pariññā:
 | Learn by heart is ñāta pariññā—full understanding by study.
@@ -107,14 +108,14 @@ Kilesa vaṭṭa & kamma vaṭṭa are the causes for round of existence. And vi
 | Pahāna pariññā—full understanding with abandoning of kilesa.
 | 
 | With truths (sacca):
-| Learn by heart is sacca nyan (ñāṇa)—knowledge of truth come by listening talks. Kicca ñāṇa—functional knowledge of the truth comes by contemplation, in accordance with the truth.
+| Learn by heart is sacca ñāṇa (ñāṇa)—knowledge of truth comes by listening talks. Kicca ñāṇa—functional knowledge of the truth comes by contemplation, in accordance with the truth.
 | Kata ñāṇa—the knowledge of the ending of the practice.
 | 
-| The ending of the first verses are about the 3 sāsana (Buddha’s Teachings). These are called pariyatti, patipatti & pativeda. As pariññā; ñāta pariññā, tīraṇa pariññā & pahāna pariññā. As knowledge (ñāṇa); sacca ñāṇa, kicca ñāṇa & kata ñāṇa. These are the duties have to fulfill them.
+| The ending of the first verses are about the 3 sāsana (Buddha's Teachings). These are called pariyatti, patipatti & pativeda. As pariññā; ñāta pariññā, tīraṇa pariññā & pahāna pariññā. As knowledge (ñāṇa); sacca ñāṇa, kicca ñāṇa & kata ñāṇa. These are the duties which have to fulfill them.
 | 
-| ① For learning by heart is the teacher’s duty to teach & talk.
-| ② Practice is the yogi’s or student’s duty.
-| ③ Realization is the Dhamma’s duty & come by itself with the practice.
+| ① For learning by heart is the teacher's duty to teach & talk.
+| ② Practice is the yogi's or student's duty.
+| ③ Realization is the Dhamma's duty and it comes by itself with the practice.
 | 
 | Study of the 12 factors of D.A. process
 | 
@@ -128,9 +129,9 @@ Kilesa vaṭṭa & kamma vaṭṭa are the causes for round of existence. And vi
 | (4) Not knowing the noble truth of the path of practice leading to the cessation of dukkha (Magga Sacca).
 | 
 
-It’s also not knowing what should be known & knowing what should not be known. Avijjā is also called delusion (moha). It has the function of delusion, & also has the nature of covering up.
+It's also not knowing what should be known & knowing what should not be known. Avijjā is also called delusion (moha). It has the function of delusion, & also has the nature of covering up.
 
-Therefore avijjā is darkness. Also not knowing what is right & wrong. So it’s also called wrong knowledge (micchā ñāṇa).
+Therefore avijjā is darkness. Also not knowing what is right & wrong. So it's also called wrong knowledge (micchā ñāṇa).
 
 ② Saṅkhāra (Volitional formation)
 
@@ -174,19 +175,19 @@ Here Saṅkhāra means actions condition for khandhas to arise.
 
 ③ viññāṇa (consciousness)
 
-viññāṇa is knowing. There are 2 types of viññāṇa. Patisandhi viññāṇa rebirth-linking consciousness, consciousness during the pregnancy. And pavutti viññāṇa – consciousness arises in this present life, while still alive. Rebirth-linking consciousness had already gone. Now, we’re living with these pavutti viññāṇa.
+viññāṇa is knowing. There are 2 types of viññāṇa. Patisandhi viññāṇa rebirth-linking consciousness, consciousness during the pregnancy. And pavutti viññāṇa – consciousness arises in this present life, while still alive. Rebirth-linking consciousness had already gone. Now, we're living with these pavutti viññāṇa.
 
 These are 6 types:
 
-| (1) Arising in the eye is eye – consciousness—cakkhu – viññāṇa.
-| (2) Arising in the ear is ear – consciousness—sota – viññāṇa.
-| (3) Arising in the nose is nose – consciousness – ghānaviññāṇa.
-| (4) Arising on the tongue is tongue – consciousness – jivhāviññāṇa.
-| (5) Arising in/on the body is body – consciousness – kāyaviññāṇa.
-| (6) Arising in the heart is mind – consciousness – manoviññāṇa.
+| (1) Arising in the eye is eye-consciousness — cakkhu-viññāṇa.
+| (2) Arising in the ear is ear-consciousness — sota-viññāṇa.
+| (3) Arising in the nose is nose-consciousness – ghānaviññāṇa.
+| (4) Arising on the tongue is tongue-consciousness – jivhāviññāṇa.
+| (5) Arising in/on the body is body-consciousness – kāyaviññāṇa.
+| (6) Arising in the heart is mind-consciousness – manoviññāṇa.
 | 
 
-Nearly every living being is alive with these 6 consciousnesses. Except non-percipient beings (asaññasattā) & immaterial beings (arūpabrahmas), they are a little different from the mind-body beings. In every mind moment, it can only arise one consciousness. Because 2 consciousnesses can’t arise together at the same moment.
+Nearly every living being is alive with these 6 consciousnesses. Except non-percipient beings (asaññasattā) & immaterial beings (arūpabrahmas), they are a little different from the mind-body beings. In every mind moment, it can only arise one consciousness. Because 2 consciousnesses can't arise together at the same moment.
 
 ④ Nāma-rūpa/ (Mind-matter)
 
@@ -272,7 +273,7 @@ There are 4 kinds of clinging;
 
 ⑩ Kammabhava (existence)
 
-Kammabhava means kammically active process of existence or actions conditioning for existence. In the diagram of the D.A. process, kammabhava at see ③ was written with incomplete form; such as Bhava Kamma. Why is that? Because upapattibhava & kammabhava combine together only become completion (upapattibhava – passive or resultant process of existence). For an arahant it’s only functional kamma & no more existence. In the original 12 factors of D.A. process was written as bhava only. Under the influence of clinging one engages in actions that are accumulated as kammas.
+Kammabhava means kammically active process of existence or actions conditioning for existence. In the diagram of the D.A. process, kammabhava at see ③ was written with incomplete form; such as Bhava Kamma. Why is that? Because upapattibhava & kammabhava combine together only become completion (upapattibhava – passive or resultant process of existence). For an arahant it's only functional kamma & no more existence. In the original 12 factors of D.A. process was written as bhava only. Under the influence of clinging one engages in actions that are accumulated as kammas.
 
 There are 3 types of kamma;
 
@@ -301,7 +302,7 @@ All these 10 negative kammas are called 10 unwholesome dhamma (akusala dhamma) o
 
 The 3 wholesome mental actions (mano kusala kamma)are:
 
-| (1) Anabhijjhā – joy & gladness in others’ successes.
+| (1) Anabhijjhā – joy & gladness in others' successes.
 | (2) Avyāpāda – has metta (loving kindness) on others.
 | (3) Sammādiṭṭhi – right view, here is believing in the law of kamma.
 | 
@@ -309,7 +310,7 @@ The 3 wholesome mental actions (mano kusala kamma)are:
 | 
 | (1) Saṅkhāra was past kamma & kammabhava is the present one.
 | (2) Saṅkhāra had given the result & kammabhava not yet.
-| (3) The result of saṅkhāra had already arisen & can’t do anything about it. The result of kammabhava is not arising yet. So with the help of a good teacher & practice can make it becomes fruitless.
+| (3) The result of saṅkhāra had already arisen & can't do anything about it. The result of kammabhava is not arising yet. So with the help of a good teacher & practice can make it becomes fruitless.
 | 
 
 ⑪ jāti (Birth)
@@ -318,7 +319,7 @@ Getting a new life or khandhas.
 
 There are 4 kinds of births:
 
-| (1) Born from a mother’s womb – jalābuja.
+| (1) Born from a mother's womb – jalābuja.
 | (2) Born from an egg – aṇdaja.
 | (3) Born from inside the woods, bamboos, moss, decomposed meats & fishes, these beings attached to these things saṁsedaja (many kinds of worms and can be regarded as natural cloning).
 | (4) Spontaneous births – opapātika (e.g., heavenly beings) – having their full grown sizes with births. The differences between (3) & (4) are: saṁsedaja beings were rare & small & grown up slowly, e.g., lotus born human.
@@ -338,11 +339,11 @@ There are 4 kinds of death
 
 Note on Kammabhava:
 
-On the factor of kammabhava and has mentioned about the bodily action – kāya kamma. It doesn’t include taking intoxicants (liquors & drugs). Also, we can’t find it in the 10 unwholesome kammas. In the 5 precepts the last one is abstinence from intoxicants.
+On the factor of kammabhava and has mentioned about the bodily action – kāya kamma. It doesn't include taking intoxicants (liquors & drugs). Also, we can't find it in the 10 unwholesome kammas. In the 5 precepts the last one is abstinence from intoxicants.
 
-We know that it’s very harmful to human beings & society & no doubts about it. If we break this one precept & can break all the other four. Even the Buddha mentioned about its future result was not good. So why don’t we find it in the 10 unwholesome kammas? A Burmese teacher said that it was including in the sexual misconduct.
+We know that it's very harmful to human beings & society & no doubts about it. If we break this one precept & can break all the other four. Even the Buddha mentioned about its future result was not good. So why don't we find it in the 10 unwholesome kammas? A Burmese teacher said that it was including in the sexual misconduct.
 
-But he didn’t explain the reason. True, sexual desire is intoxicating. Because of sexual desire some done unlawful & wrong sexual practices. Such as adhamma rāga & micchā dhamma mentioned in some suttas, when the time came humans’ morals were degenerated. Nowadays we can see more & more these things in society.
+But he didn't explain the reason. Truly, sexual desire is intoxicating. Because of sexual desire, some had done unlawful & wrong sexual practices. Such as adhamma rāga & micchā dhamma mentioned in some suttas, when the time came morals of humans were degenerated. Nowadays we can see more & more these things in society.
 
 ------
 
@@ -350,7 +351,14 @@ But he didn’t explain the reason. True, sexual desire is intoxicating. Because
 
 ------
 
-cited from https://mogokdhammatalks.blog/
+cited from https://mogokdhammatalks.blog/ or https://www.oba.org.tw/viewtopic.php?f=22&t=4026
+
+------
+
+**This is only an experimental WWW. It's always under construction (proofreading, revising)!**
+
+**According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  01-20 rev. spelling & grammar check; add announcement of Dhamma—Dhamma Dāna; add link of OBA; 01-14 replace ’ with ' 
   2019-01-10  create rst; post on 01-13
