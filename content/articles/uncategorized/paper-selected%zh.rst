@@ -2,13 +2,13 @@
 ########
 
 :date: 2005-05-01
-:modified: 2019-01-13
+:modified: 2019-02-06
 :tags: 
 :category: 未分類
 :summary: 文章選讀
 
 
-- `《佛陀的啟示》 <{filename}/articles/a-path-to-freedom/what-the-Buddha-taught%zh.rst>`__ (What the Buddha Taught)，羅睺羅 尊者(Ven. Walpola Rahula Thero)著; 法嚴法師(顧法嚴) 譯; 慧炬出版社; 臺灣．臺北市, 民61（ `佛曆 <https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`__ ( `BE <https://en.wikipedia.org/wiki/Buddhist_calendar>`_ ) 2515 ( `西元 <https://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 1972 `CE <Common_Era>`_ )）
+- `《佛陀的啟示》 <{filename}/articles/a-path-to-freedom/what-the-Buddha-taught%zh.rst>`__ (What the Buddha Taught)，羅睺羅 尊者(Ven. Walpola Rahula Thero)著；臺灣 `優婆塞 <http://dictionary.sutta.org/browse/u/up%C4%81saka>`__ Nanda 編譯（主要參考：法嚴法師(顧法嚴) 譯; 慧炬出版社; 臺灣．臺北市, 民61（ `佛曆 <https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`__ ( `BE <https://en.wikipedia.org/wiki/Buddhist_calendar>`_ ) 2515 ( `西元 <https://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 1972 `CE <Common_Era>`_ )）
 
 ----
 
@@ -109,7 +109,7 @@
 
 - `Dhmma Talks by Mogok Sayadaw <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`_ : Translation based on the recorded tapes by **Ven. Uttamo thera** （尊者　 **莫哥西亞多** 開示錄；由　尊者　 **鄔達摩　長老** 　自緬甸語錄音帶譯為 **英文** ） 
 
-- `Eighteen Days In Solitude <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#eighteen-days-in-solitude>`_ --Instructional Dhamma Talks in Retreat, By **Venerable U Nanaransi** (Ñāṇaransi ?); The translator: **Ven. Uttamo thera** （18天禪修營，尊者　 **納納嵐溪長老** 開示錄；由　尊者　 **鄔達摩長老** 　自緬甸語錄音帶譯為 **英文** ）
+- `Eighteen Days In Solitude <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#eighteen-days-in-solitude>`_ --Instructional Dhamma Talks in Retreat, By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo thera** （18天禪修營，尊者　 **阿締佳嵐溪長老** 開示錄；由　尊者　 **鄔達摩長老** 　自緬甸語錄音帶譯為 **英文** ）
 
 ----
 
@@ -184,8 +184,8 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  2019-02-06 rev. 《佛陀的啟示》post; editting 10-25 for rst; old:/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.html; replace Nanaransi (Ñāṇaransi ?) (01-13) with Ādiccaramsī
   2019-01-03 add: Dhmma Talks by Mogok Sayadaw & Eighteen Days In Solitude (translator: Ven. Uttamo thera, English) (add on 2018-12-28; finish on 2019-01-03)
-  10-25 rev. 《佛陀的啟示》 for rst; old:/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.html
   2018.04.11 rev. 《佛陀》 増谷文雄　著 original URL on Dhammarain (old: http://www.dhammarain.org.tw/books/Autobiography-of-buddha/
   ----
   07.05 add: UNEXPECTED FREEDOM (by AJAHN MUNINDO):dhammatalks.net-- PDF ; download EPUB or MOBI (from forestsangha.org)
