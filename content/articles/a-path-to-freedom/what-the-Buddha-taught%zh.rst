@@ -61,7 +61,7 @@ Nanda 編譯
 
    * - `第七章  修習：心智的培育 <{filename}what-the-Buddha-taught-chap7%zh.rst>`__
      - `第八章  佛的教誡與今日世界 <{filename}what-the-Buddha-taught-chap8%zh.rst>`__
-     - `佛典選譯 <{filename}what-the-Buddha-taught-selected-texts-simple-fn%zh%zh.rst>`__
+     - `佛典選譯 <{filename}what-the-Buddha-taught-selected-texts-simple-fn%zh.rst>`__
 
    * - `附錄  本書常見佛學名詞淺釋 <{filename}what-the-Buddha-taught-appendix-term%zh.rst>`__
      - `張澄基序 <{filename}what-the-Buddha-taught-foreword-chang-cj%zh.rst>`__ （慧炬出版社）
