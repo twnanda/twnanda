@@ -679,6 +679,7 @@ The translator : Ven. Uttamo (鄔達摩尊者）
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  02-09 add: 2 pdf files of protection-of-blessings-by-ven-uttamo-handwritting @ \extra\pdf
   01-19 add announcement of Dhamma—Dhamma Dāna; 01-14 replace ’ with ' post on 01-21
   2018-12-26~ 2019-01-13  create rst; post on 01-13
 
