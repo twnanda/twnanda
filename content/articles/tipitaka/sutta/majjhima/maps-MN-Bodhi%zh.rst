@@ -2,7 +2,7 @@
 ================================
 
 :date: 2012-04-03 07:00
-:modified: 2018-12-17
+:modified: 2019-02-11
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/maps-MN-Bodhi.html
 :tags: 《中部尼柯耶》閱讀地圖, A Systematic Study of the Majjhima Nikāya--Exploring the Word of the Buddha (BODHI MONASTERY), 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
@@ -1410,7 +1410,7 @@
 
     - 對照之阿含經典及其他： `中阿含10漏盡經 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0026_p0431c13>`__ MA 10,中阿含經卷第二，（一〇）中阿含七法品漏盡經第十(初一日誦)、 `增壹阿含 40.6 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T02n0125_p0740a25>`__ EA 40.6,增壹阿含經卷第三十四，七日品第四十之一，（六）、`佛說一切流攝守因經 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0031_p0813a05>`__ T 31; 
 
-    .. _mn02_att:
+    .. _mn02-att:
 
     - `一切漏經注 <http://www.gaya.org.tw/publisher/fashin/asava_index.htm>`__ （ **巴漢校譯與導論** ， **莊博蕙** 博士 譯著，2014.12，香光書鄉， `香光資訊網 <http://www.gaya.org.tw/>`__ ， `PDF <http://www.gaya.org.tw/publisher/fashin/%E9%A6%99%E5%85%89%E6%9B%B8%E9%84%89%E3%80%8A%E4%B8%80%E5%88%87%E6%BC%8F%E7%B6%93%E6%B3%A8%EF%BC%9A%E5%B7%B4%E6%BC%A2%E6%A0%A1%E8%AD%AF%E8%88%87%E5%B0%8E%E8%AB%96%E3%80%8B2015_0214.pdf>`__ ， `佛學數位圖書館暨博物館書目 <http://buddhism.lib.ntu.edu.tw/DLMBS/search/search_detail.jsp?seq=548661>`__ 、 `國家圖書館書目 <http://aleweb.ncl.edu.tw/F?func=find-c&ccl_term=sys=003755430>`__ 、 `三民網路書店書訊 <http://www.sanmin.com.tw/product/index/004861714>`__ ）
 
@@ -2407,6 +2407,7 @@
 .. [12] § 2.8.南傳《中部》第 120《行生經》（ `福嚴佛學院 <http://www.fuyan.org.tw/>`__ →研究論文→福嚴佛學研究第三期 (2008.04)；或 `溫宗堃の風培基 <http://tkwen.theravada-chinese.org>`__ →福嚴佛學院講義 → `福嚴佛學研究 第三期 (2008.04)(PDF) <http://tkwen.theravada-chinese.org/Fuyan/Buddhist/Studies/v3_2008.pdf>`__ ）
 
 ..
+  2019-02-11 add anchor of 一切漏經注( .. _mn02-att:)
   12.17 2018 add: 一切漏經注 書目 & 書訊
   10.16 METTANET - LANKA (metta.lk) re-activation
   05.09 add link of mn-149-contrast-reading%zh.rst & mark CBETA; T01, no. 26, p. 775, c7 etc. del: ..  ; 其他可參照： `巴利大藏經 經藏 中部 MN 36 <{filename}majjhima-nikaaya%zh.rst#MN 36>`__ etc
