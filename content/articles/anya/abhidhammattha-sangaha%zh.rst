@@ -2,7 +2,7 @@ Abhidhammatthasaṅgaho 攝阿毗達摩義論（阿毗達摩概要精解）
 #########################################################
 
 :date: 2000-07-08
-:modified: 2017-02-02
+:modified: 2019-03-29
 :tags: 藏外文獻, 攝阿毗達摩義論, Abhidhammatthasaṅgaho 阿毗達摩概要精解
 :category: 藏外文獻
 :summary: Abhidhammatthasaṅgaho 攝阿毗達摩義論 (阿毗達摩概要精解)
@@ -10,11 +10,11 @@ Abhidhammatthasaṅgaho 攝阿毗達摩義論（阿毗達摩概要精解）
 
 - 阿毗達摩概要精解 (A Comprehensive Manual of Abhidhamma)，英編者：菩提比丘 Bhikkhu Bodhi，中譯者：尋法比丘 Bhikkhu Dhammagavesaka：
 
-  - 中譯修訂版－2015 年4 月( `PDF <{filename}/extra/anya/abhidhammattha-sangaha/bodhi-abhidhammattha-sangaha/Ven-Bodhi-2-Dhammagavesaka-Han-Rev-2015-04.pdf>`__ );
+  - 修訂版－2017年9月（ `修訂版序文 <http://tusitainternational.net/abhidhammarevised-vision-preface>`__ ; `PDF <http://tusitainternational.net/pdf/%E9%98%BF%E6%AF%97%E8%BE%BE%E6%91%A9%E6%A6%82%E8%A6%81%E7%B2%BE%E8%A7%A3%EF%BC%882017%E4%B8%AD%E8%AF%91%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%89.pdf>`__ ; `2015 年4 月版 <{filename}/extra/anya/abhidhammattha-sangaha/bodhi-abhidhammattha-sangaha/Ven-Bodhi-2-Dhammagavesaka-Han-Rev-2015-04.pdf>`__ (PDF) ; `2010 年9 月 <{filename}/extra/anya/abhidhammattha-sangaha/bodhi-abhidhammattha-sangaha/Ven-Bodhi-2-Dhammagavesaka-Rev-2010-09.pdf>`__ (PDF) ; `Mar. 1999 <{filename}/extra/anya/abhidhammattha-sangaha/bodhi-abhidhammattha-sangaha/content-Ven-Bodhi.htm>`__ (HTML)）
 
-  - 2010 年9 月( `PDF <{filename}/extra/anya/abhidhammattha-sangaha/bodhi-abhidhammattha-sangaha/Ven-Bodhi-2-Dhammagavesaka-Rev-2010-09.pdf>`__ );
+  - `補譯及一些修訂 <{filename}/extra/anya/abhidhammattha-sangaha/bodhi-abhidhammattha-sangaha/supply-and-revise-for-translation-comprehensive-manual-of-abhidhamma.htm>`_ 〔補譯（第九章：業處之概要，節廿九：心清淨之助讀說明 **by Sativadin** ）及一些修訂(**by Anicca**)〕 
 
-  - Mar. 1999 ( `HTML <{filename}/extra/anya/abhidhammattha-sangaha/bodhi-abhidhammattha-sangaha/content-Ven-Bodhi.htm>`__ )
+  - 英文原版 (Original in English)： `PDF <https://what-buddha-said.net/library/pdfs/Comprehensive_Manual_of_%20Abhidhamma.pdf>`__ ; `HTML <https://www.accesstoinsight.org/lib/authors/bodhi/abhiman.html>`__ (1995)
 
 - `攝阿毗達摩義論 中譯者：葉均(早年出家法號：了參) <{filename}/extra/anya/abhidhammattha-sangaha/yehchun-abhidhammattha-sangaha/content-liau-chan.htm>`_
 
@@ -33,6 +33,7 @@ Abhidhammatthasaṅgaho 攝阿毗達摩義論（阿毗達摩概要精解）
 `dhammarain.online-dhamma.net <http://dhammarain.online-dhamma.net/>`__ ）
 
 ..
+  2019.03-29 add:補譯 & 一些修訂; linking of 英文原版
   2017.02.02 re-arrange directory, 
              old: http://nanda.online-dhamma.net/extra/authors/dhammagavesaka/bodhi2/content-Ven-Bodhi.htm 
              & http://nanda.online-dhamma.net/extra/authors/yehchun/abhidhammattha-sangaha/content-liau-chan.htm
