@@ -3,10 +3,14 @@ Introduction
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-01-21
-:tags: Introduction, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
+:modified: 2019-04-20
+:tags: Introduction, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Introduction (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+
+revised on 2019-04-20
+
+------
 
 **Mogok Sayadaw** (1899-1962) Portrait
 
@@ -14,9 +18,9 @@ Introduction
    :alt: Mogok Sayadaw's Portrait
    :align: center
 
-The following short biography of Mogok Sayadaw is based on the remarkable biography by Sayadaw U Gosita. The title is, “One Life Teaching.” After it came out, became popular among Buddhists and reprinted for a few times during a short period. That time before, he had written the biography on his own teacher, the very well-known scholar monk Mahāgandhāyon Sayadaw U Janakābhivaṃsa. Later U Gosita became a meditation teacher in Mogok Meditation Centre and wrote the biography. Mogok Sayadaw's Dhamma talks were very well received among Buddhists in Burma, even before the biography came out and whatever their meditation systems might be; because Sayadaw's talks were mostly based on emptiness (suññatā), dependent co-origination (paṭiccasamuppāda) and many suttas on practice. These teaching were the foundation knowledge for insight practice. It is very important for yogis to know them before and during the practice. These were like guidelines for yogis without a teacher. These Dhamma talks can be called manuals of insight practice. Why I translated most of Sayadaw's talks into English? He passed away for a long time now (i.e., 1962), but his talks were never known, or even heard about it outside Burma. This is the time for me to repay his gratitude and metta for Buddhists. There are also other very good reasons which I will quote from the introduction of a book entitled, “Manual of Vipassanā Contemplation from Mogok Teaching.” This is written by a well-known author U Sun Lwin before he became a Buddhist monk (Ven. Adissaransi). His view on Mogok talks were the same as mine. Therefore, let him expressed it on behalf of me.
+The following short biography of Mogok Sayadaw is based on the remarkable biography by Sayadaw U Gosita. The title is, “One Life Teaching.” After it came out, became popular among Buddhists and reprinted for a few times during a short period. That time before, he had written the biography on his own teacher, the very well-known scholar monk Mahāgandhāyon Sayadaw U Janakābhivaṃsa. Later U Gosita became a meditation teacher in Mogok Meditation Centre and wrote the biography. Mogok Sayadaw's Dhamma talks were very well received among Buddhists in Burma, even before the biography came out and whatever their meditation systems might be; because Sayadaw's talks were mostly based on emptiness (suññatā), dependent co-origination (paṭiccasamuppāda) and many suttas on practice. These teaching were the foundation knowledge for insight practice. It is very important for yogis to know them before and during the practice. These were like guidelines for yogis without a teacher. These Dhamma talks can be called manuals of insight practice. Why I translated most of Sayadaw's talks into English? He passed away for a long time now (i.e., 1962), but his talks were never known, or even heard about it outside Burma. This is the time for me to repay his gratitude and metta for Buddhists. There are also other very good reasons which I will quote from the introduction of a book entitled, “Manual of Vipassanā Contemplation from Mogok Teaching.” This is written by a well-known author U Sun Lwin before he became a Buddhist monk (Ven. Ādiccaramsī). His view on Mogok talks were the same as mine. Therefore, let him expressed it on behalf of me.
 
-An extract: I must admit the following matter. I was satisfied myself for a long time as a true or genuine Buddhist. It can be said as my wrong thought. In brief, at the age of 35, I had abandoned my parent's faith (i.e., Islam), my lover's faith (i.e., Christianity) and my doctrine of religions are like opium (i.e., communism), because at that time I had been studied deeply in Theravada Buddhism. (It seemed he studied Buddhism extensively for his text book on ethics for philosophy within that period.) After 15 years at the age of 50, I wrote a book on my life. It was entitled, “A Man Has Faith and Taken Refuge in the Triple Gems.” It was about my struggle and change in philosophical view. I was also thinking myself as true or genuine Buddhist when I wrote this book. But it was not so. At that time, I still had not practiced vipassanā yet because I satisfied with myself as a bodhisatta. [In true, bodhisatta also has to practice vipassanā up to the knowledge of equanimity to the formations (saṅkhāra).] I did not know that even encountering the Buddha-Dhamma was still not an insider of the teaching (sāsana). An insider of Dhamma should benefit from the sāsana. Even up to my 50 years of age, I still did not have this clear view. Only believing in the law of kamma is not enough for becoming a true Buddhist. (It is true only becoming a normal Buddhist, and at any time he/she can be fallen into other faiths.) To become a true Buddhist, one must have the knowledge of in accordance with the truths – saccanulomika ñāṇa. I only have this knowledge by studying Mogok Sayadaw's Dhamma talks series in transcribed volumes, and listening to his talks in recordings.
+An extract: I must admit the following matter. I was satisfied myself for a long time as a true or genuine Buddhist. It can be said as my wrong thought. In brief, at the age of 35, I had abandoned my parent's faith (i.e., Islam), my lover's faith (i.e., Christianity) and my doctrine of that religions are like opium (i.e., communism), because at that time I had been studied deeply in Theravada Buddhism. (It seemed he studied Buddhism extensively for his text book on ethics for philosophy within that period.) After 15 years at the age of 50, I wrote a book on my life. It was entitled, “A Man Has Faith and Taken Refuge in the Triple Gems.” It was about my struggle and change in philosophical view. I was also thinking myself as true or genuine Buddhist when I wrote this book. But it was not so. At that time, I still had not practiced vipassanā yet because I satisfied with myself as a bodhisatta. [In true, bodhisatta also has to practice vipassanā up to the knowledge of equanimity to the formations (saṅkhāra).] I did not know that even encountering the Buddha-Dhamma was still not an insider of the teaching (sāsana). An insider of Dhamma should benefit from the sāsana. Even up to my 50 years of age, I still did not have this clear view. Only believing in the law of kamma is not enough for becoming a true Buddhist. (It is true only becoming a normal Buddhist, and at any time he/she can be fallen into other faiths.) To become a true Buddhist, one must have the knowledge in accordance with the truths – saccanulomika ñāṇa. I only have this knowledge by studying Mogok Sayadaw's Dhamma talks series in transcribed volumes, and listening to his talks in recordings.
 
 Even though I gained knowledge on truth, I still attached to the vow of a bodhisatta. After I understood the significance of becoming a true Buddhist, seeing the traditional Buddhists as living their lives and died in the unbeneficial ways. And compassion arose in me and wanted to become a true Buddhist (i.e., cūḷa-sotāpanna – this is commentary view of someone who has insight to the truths). According to the text, after a worldling (puthujjana) dies, and next life will be more chances to take rebirth in the painful realm. (The Buddha also mentioned that the frequent homes of living beings were the 4 painful planes – Hells, animals, ghosts and Titans.) If someone perseveres in the vipassanā practice and becomes a true Buddhist (i.e., discerns anicca), he will be escaped from the painful birth in next life. I wanted to help people for it and made a resolution. From then onwards I was looking for a teacher. In 1991, he received a letter from a female doctor – Jenny who contacted him after reading his well-known autobiography. At that time, she was staying in northern Burma in a remote area. She had met a practicing monk who was quite significant. She invited him to come and study the monk. (This monk was Mon-le Sayadaw and staying at the Mon-le forest retreat in Western Gan-gow area.) I did not know why and had great interest in it, so I decided to go and see it. I went and stayed there for a week. What I found out was he used Mogok Sayadaw's teaching and system in his practice. The Dhamma talks by Mon-le Sayadaw were not coming from the books. It came out from his direct knowledge of the khandhas. In gist Mon-le Sayadaw was changing my view and encouraging me to study Mogok Teachings. I made a plan for detailed study in Mogok Sayadaw's talks. Luckily, there were 2 families appeared to offer me Mogok talks in completed volumes. These were 33 volumes in all (nowadays seem to be more volumes came out). After studied them, I made a plan to write a book on vipassanā practice based on Sayadaw's talks. Before that I had to try it out for its effectiveness. (U Sun Lwin was a very practical man and did not believe everything very easily.) I made the real practice and found out that it was really effective.
 
@@ -271,23 +275,27 @@ Five kinds of Dhamma-listeners
 
 On 13th June, 1977, at Gyo-pin-kauk City. At 7:30 p.m., Sayadaw U Vicitta started his Dhamma talk as follow. There are always many people in my Dhamma talk. Also now, here is full of people and over-crowded. There are 5 kinds of Dhamma-listeners. It was mentioned in the Aṅguttara Nikāya. These people are:
 
-There are people having faith and respect in someone with good voice. This kind of people can't attain Nibbāna.
+1. There are people having faith and respect in someone with good voice. This kind of people can't attain Nibbāna.
 
-There are people having faith and respect in someone with good looking. This kind of people also can't attain Nibbāna.
+2. There are people having faith and respect in someone with good looking. This kind of people also can't attain Nibbāna.
 
-There are people having faith and respect in someone with qualification and fame. Take me as an example. I am a Tipiṭakadara monk with high qualifications. (It seemed there was no-one like him with many titles and qualifications before and now. Even may be in the future.) Even worship by very high classes of people. Tipiṭakadara person is very rare. So these people have faith and respect in me. They can't attain Nibbāna.
+3. There are people having faith and respect in someone with qualification and fame. Take me as an example. I am a Tipiṭakadhara monk with high qualifications. (It seemed there was no-one like him with many titles and qualifications before and now. Even may be in the future.) Even worship by very high classes of people. Tipiṭakadhara person is very rare. So these people have faith and respect in me. They can't attain Nibbāna.
 
-There are people having faith and respect in someone who has few wishes and few things (as example, Ven. Mahākassapa or forest monks). This kind of people can't attain Nibbāna.
+4. There are people having faith and respect in someone who has few wishes and few things (as example, Ven. Mahākassapa or forest monks). This kind of people can't attain Nibbāna.
 
 There are people having faith and respect only in Dhamma. They don't care about the voice, nor concern about the appearance, not for the qualification and fame and not care about few wishes and few things, but only have respect and veneration in the Dhamma. Only this kind of people can attain Nibbāna in this life. Their numbers are not many. If I have to give example in this day, they are the listeners of Mogok Dhamma. Mogok Sayadaw U Vimala's talks were this kind of Dhamma. It can send one to Nibbāna in one sitting. People who respect this kind of Dhamma can be praiseworthy. And then Mogok Sayadaw U Vimala's Dhammas were 2 armed-lengths higher than my head. (His knowledge on the Tipiṭaka was from perception. Sayadaw can recite them by heart and even can tell the page number of a subject. Mogok Sayadaw knowledge came from wisdom or penetration of the khandha process.)
 
 ------
 
-- `Content <{filename}../publication-of-ven-uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`__ of "Dhmma Talks by Mogok Sayadaw"
+revised on 2019-04-20; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4022 (posted on 2018-12-14)
 
 ------
 
-cited from https://mogokdhammatalks.blog/ or https://www.oba.org.tw/viewtopic.php?f=22&t=4022
+- `Content <{filename}content-of-dhamma-talks-by-mogok-sayadaw%zh.rst>`__ of "Dhamma Talks by Mogok Sayadaw"
+
+------
+
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Ven. Uttamo
 
 ------
 
@@ -310,5 +318,8 @@ cited from https://mogokdhammatalks.blog/ or https://www.oba.org.tw/viewtopic.ph
               | sukha: agreeable，pleasant，blest
 
 ..
+  post:04-20; 04-18 rev. add: Content of Publications of Ven. Uttamo 
+        del: https://mogokdhammatalks.blog/
+  01-23 rev. replace Nyanaransi with Ādiccaramsī
   01-19~20 rev. by grammar check; add announcement of Dhamma—Dhamma Dāna; add link of OBA; 01-14 replace ’ with ' 
   2019-01-09 create rst; post 01-13
