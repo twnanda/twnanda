@@ -4,7 +4,7 @@ Content of Part I on Dhamma Talks by Mogok Sayadaw
 
 :date: 2019-04-19
 :modified: 2019-04-19
-:tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
+:tags: Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Part I on Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
 
