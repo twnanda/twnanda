@@ -9,9 +9,9 @@ Publications of Ven. Uttamo
 :summary: Publications of Ven. Uttamo
 
 
-- `Dhamma Talks by Mogok Sayadaw`_ -- Emptiness, Conditioned, and Unconditioned. Translation based on the recorded tapes by Ven. Uttamo thera, cited from https://mogokdhammatalks.blog/ 
+- `Dhamma Talks by Mogok Sayadaw`_ -- Emptiness, Conditioned, and Unconditioned. Translation based on the recorded tapes by Ven. Uttamo Thera; cited from https://www.oba.org.tw/viewforum.php?f=22&sid=ed1ab0b13e5a4ae76826160aff983ceb 
 
-- `Eighteen Days in Solitude`_ -- Instructional Dhamma Talks in Retreat, by Venerable U Ādiccaramsī; the translator: Ven. Uttamo thera, cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35449 
+- `Eighteen Days in Solitude`_ -- Instructional Dhamma Talks in Retreat, by Venerable U Ādiccaramsī; the translator: Ven. Uttamo Thera; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35449 
 
 .. _Dhamma Talks by Mogok Sayadaw:
 
@@ -683,7 +683,7 @@ the translator : Ven. Uttamo (鄔達摩尊者）
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  05-01 add: part 10-01 ~ part 12-22
+  05-01 add: part 10-01 ~ part 12-22; replace https://mogokdhammatalks.blog/ with OBA
   04-28 add: part 6-12 ~ part 9-27
   03-27 Part 2-- 
   [22] Knowledge & Doubt ([26]) ; 
