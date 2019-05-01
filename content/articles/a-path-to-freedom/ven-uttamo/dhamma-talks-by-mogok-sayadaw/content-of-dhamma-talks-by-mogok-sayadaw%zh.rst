@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2019-04-28
+:modified: 2019-05-01
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -486,151 +486,151 @@ _`Part 9`
 
 _`Part 10`
 
-- 1.) The Middle Way <{filename}pt10-01-%zh.rst>`_ (19)
+- 1.) `The Middle Way <{filename}pt10-01-the-middle-way%zh.rst>`_ (1960-12-13)
 
-- 2.) Correct One's Mistakes in Time <{filename}pt10-02-%zh.rst>`_ (19)
+- 2.) `Correct One's Mistakes in Time <{filename}pt10-02-correct-ones-mistakes-in-time%zh.rst>`_ (1960-12-18)
 
-- 3.) Are you A Fool? <{filename}pt10-03-%zh.rst>`_ (19)
+- 3.) `Are you A Fool? <{filename}pt10-03-are-you-a-fool%zh.rst>`_ (1960-12-18)
 
-- 4.) Our Murderers <{filename}pt10-04-%zh.rst>`_ (19)
+- 4.) `Our Murderers <{filename}pt10-04-our-murderers%zh.rst>`_ (1960-12-25)
 
-- 5.) The Four Noble Truths <{filename}pt10-05-%zh.rst>`_ (19)
+- 5.) `The Four Noble Truths <{filename}pt10-05-the-four-noble-truths%zh.rst>`_ (1957-12-06 ~ 12-25)
 
-- 6.) Pay Your Debts with Knowledge <{filename}pt10-06-%zh.rst>`_ (19)
+- 6.) `Pay Your Debts with Knowledge <{filename}pt10-06-pay-your-debts-with-knowledge%zh.rst>`_ (1960-12-28)
 
-- 7.) Protecting Your Mind <{filename}pt10-07-%zh.rst>`_ (19)
+- 7.) `Protecting Your Mind <{filename}pt10-07-protecting-your-mind%zh.rst>`_ (1960-12-31)
 
-- 8.) The Creator: the Deceitful Mind <{filename}pt10-08-%zh.rst>`_ (19)
+- 8.) `The Creator: the Deceitful Mind <{filename}pt10-08-the-creator-the-deceitful-mind%zh.rst>`_ (1961-01-01 ~ 01-05)
 
-- 9.) Wise Attention and Effort <{filename}pt10-09-%zh.rst>`_ (19)
+- 9.) `Wise Attention and Effort <{filename}pt10-09-wise-attention-and-effort%zh.rst>`_ (1961-01-09)
 
-- 10.) Rust Corrodes the Iron <{filename}pt10-10-%zh.rst>`_ (19)
+- 10.) `Rust Corrodes the Iron <{filename}pt10-10-rust-corrodes-the-iron%zh.rst>`_ (1961-01-10)
 
-- 11.) To Nibbāna with One Dhamma <{filename}pt10-11-%zh.rst>`_ (19)
+- 11.) `To Nibbāna with One Dhamma <{filename}pt10-11-to-nibbana-with-one-dhamma%zh.rst>`_ (1961-01-11)
 
-- 12.) To Nibbāna with Stopping <{filename}pt10-12-%zh.rst>`_ (19)
+- 12.) `To Nibbāna with Stopping <{filename}pt10-12-to-nibbana-with-stopping%zh.rst>`_ (1961-01-12)
 
-- 13.) True Refuge <{filename}pt10-13-%zh.rst>`_ (19)
+- 13.) `True Refuge <{filename}pt10-13-true-refuge%zh.rst>`_ (1961-01-14)
 
-- 14.) Diseased Body <{filename}pt10-14-%zh.rst>`_ (19)
+- 14.) `Diseased Body <{filename}pt10-14-the-diseased-body%zh.rst>`_ (1961-01-15)
 
-- 15.) Important of Samadhi <{filename}pt10-15-%zh.rst>`_ (19)
+- 15.) `Important of Samadhi <{filename}pt10-15-importance-of-samadhi%zh.rst>`_ (1961-01-16)
 
-- 16.) Craving and Suffering <{filename}pt10-16-%zh.rst>`_ (19)
+- 16.) `Craving and Suffering <{filename}pt10-16-craving-and-suffering%zh.rst>`_ (1961-01-21)
 
-- 17.) Fulfilling One's Duty <{filename}pt10-17-%zh.rst>`_ (19)
+- 17.) `Fulfilling One's Duty <{filename}pt10-17-fulfilling-ones-duty%zh.rst>`_ (1961-05-27)
 
-- 18.) Impermanent and Taintless <{filename}pt10-18-%zh.rst>`_ (19)
+- 18.) `Impermanent and Taintless <{filename}pt10-18-impermanent-and-taintless%zh.rst>`_ (1960-05-30)
 
-- 19.) Dukkha and Nibbāna <{filename}pt10-19-%zh.rst>`_ (19)
+- 19.) `Dukkha and Nibbāna <{filename}pt10-19-dukkha-and-nibbana%zh.rst>`_ (1960-06-24)
 
-- 20.) How To Think? <{filename}pt10-20-%zh.rst>`_ (19)
+- 20.) `How To Think? <{filename}pt10-20-how-to-think%zh.rst>`_ (1960-07-01)
 
-- 21.) Four Nibbānas <{filename}pt10-21-%zh.rst>`_ (19)
+- 21.) `Four Nibbānas <{filename}pt10-21-four-nibbanas%zh.rst>`_ (1960-07-01)
 
-- 22.) On Insight Knowledge <{filename}pt10-22-%zh.rst>`_ (19)
+- 22.) `On Insight Knowledge <{filename}pt10-22-on-insight-knowledge%zh.rst>`_ (1960-11-27)
 
 _`Part 11`
 
-- 1.) No Free Time Is for Sufferings <{filename}pt11-01-%zh.rst>`_ (19)
+- 1.) `No Free Time Is for Sufferings <{filename}pt11-01-no-free-time-is-for-sufferings%zh.rst>`_ (1961-02-04)
 
-- 2.) Who Is Your Creator? <{filename}pt11-02-%zh.rst>`_ (19)
+- 2.) `Who Is Your Creator? <{filename}pt11-02-who-is-your-creator%zh.rst>`_ (1961-02-16)
 
-- 3.) What Is the Most Important Thing? <{filename}pt11-03-%zh.rst>`_ (19)
+- 3.) `What Is the Most Important Thing? <{filename}pt11-03-what-is-the-most-important-thing%zh.rst>`_ (1961-03-19)
 
-- 4.) Simple and Direct <{filename}pt11-04-%zh.rst>`_ (19)
+- 4.) `Simple and Direct <{filename}pt11-04-simple-and-direct%zh.rst>`_ (1961-08-16)
 
-- 5.) The End of the World (B) <{filename}pt11-05-%zh.rst>`_ (19)
+- 5.) `The End of the World (B) <{filename}pt11-05-the-end-of-the-world-b%zh.rst>`_ (1961-10-28)
 
-- 6.) Why So Many Corpses? <{filename}pt11-06-%zh.rst>`_ (19)
+- 6.) `Why So Many Corpses? <{filename}pt11-06-why-so-many-corpses%zh.rst>`_ (1961-12-29)
 
-- 7.) Dāna and Nibbāna <{filename}pt11-07-%zh.rst>`_ (19)
+- 7.) `Dāna and Nibbāna <{filename}pt11-07-dana-and-nibbana%zh.rst>`_ (1961-12-05)
 
-- 8.) Practicing for Dying <{filename}pt11-08-%zh.rst>`_ (19)
+- 8.) `Practicing for Dying <{filename}pt11-08-practicing-for-dying%zh.rst>`_ (1962-08-11 ~ 08-12)
 
-- 9.) Seeing Nibbāna with the Pure Mind <{filename}pt11-09-%zh.rst>`_ (19)
+- 9.) `Seeing Nibbāna with the Pure Mind <{filename}pt11-09-seeing-nibbana-with-the-pure-mind%zh.rst>`_ (1962-08-23)
 
-- 10.) Two Ways of Dying <{filename}pt11-10-%zh.rst>`_ (19)
+- 10.) `Two Ways of Dying <{filename}pt11-10-two-ways-of-dying%zh.rst>`_ (1962-08-29)
 
-- 11.) Dependency is Wavering <{filename}pt11-11-%zh.rst>`_ (19)
+- 11.) `Dependency is Wavering <{filename}pt11-11-dependency-is-wavering%zh.rst>`_ (N/A)
 
-- 12.) The Creator <{filename}pt11-12-%zh.rst>`_ (19)
+- 12.) `The Creator <{filename}pt11-12-the-creator%zh.rst>`_ (N/A)
 
-- 13.) No Beings, Nor Souls and Only Intrinsive Nature <{filename}pt11-13-%zh.rst>`_ (19)
+- 13.) `Not a Soul, an Intrinsic Nature <{filename}pt11-13-not-a-soul-an-intrinsic-nature%zh.rst>`_ (No Beings, Nor Souls and Only Intrinsive Nature) (N/A) 
 
-- 14.) Why Can't Discern Dukkha? <{filename}pt11-14-%zh.rst>`_ (19)
+- 14.) `Why Can't Discern Dukkha? <{filename}pt11-14-why-cannot-discern-dukkha%zh.rst>`_ (N/A)
 
-- 15.) Becoming and Not Becoming <{filename}pt11-15-%zh.rst>`_ (19)
+- 15.) `Becoming and Not Becoming <{filename}pt11-15-becoming-and-not-becoming%zh.rst>`_ (N/A)
 
-- 16.) Don't Live and Die with Ignorance <{filename}pt11-16-%zh.rst>`_ (19)
+- 16.) `Don't Live and Die with Ignorance <{filename}pt11-16-dont-Live-and-die-with-ignorance%zh.rst>`_ (N/A)
 
-- 17.) Wise Attention and Wisdom <{filename}pt11-17-%zh.rst>`_ (19)
+- 17.) `Wise Attention and Wisdom <{filename}pt11-17-wise-attention-and-wisdom%zh.rst>`_ (N/A)
 
-- 18.) Human Characters <{filename}pt11-18-%zh.rst>`_ (19)
+- 18.) `Human Characters <{filename}pt11-18-human-characters%zh.rst>`_ (N/A)
 
-- 19.) Not Becoming Dog Again <{filename}pt11-19-%zh.rst>`_ (19)
+- 19.) `Not Becoming Dog Again <{filename}pt11-19-not-becoming-dog-again%zh.rst>`_ (N/A)
 
-- 20.) Difficult To Know Dukkha and Vedanā <{filename}pt11-20-%zh.rst>`_ (19)
+- 20.) `Difficult To Know Dukkha and Vedanā <{filename}pt11-20-difficult-to-know-dukkha-and-vedana%zh.rst>`_ (N/A)
 
-- 21.) Bond with Diṭṭhi Rope and Carrying Away by Taṇhā Water <{filename}pt11-21-%zh.rst>`_ (19)
+- 21.) `Bond with Diṭṭhi Rope and Carrying Away by Taṇhā Water <{filename}pt11-21-bond-with-ditthi-rope-and-carrying-away-by-tanha-water%zh.rst>`_ (N/A)
 
-- 22.) Dispelling Diṭṭhi Before Insight <{filename}pt11-22-%zh.rst>`_ (19)
+- 22.) `Dispelling Diṭṭhi Before Insight <{filename}pt11-22-dispelling-ditthi-before-insight%zh.rst>`_ (N/A)
 
-- 23.) A Noble Life and Practice <{filename}pt11-23-%zh.rst>`_ (19)
+- 23.) `A Noble Life and Practice <{filename}pt11-23-a-noble-life-and-practice%zh.rst>`_ (N/A)
 
-- 24.) Conditioned Phenomena <{filename}pt11-24-%zh.rst>`_ (19)
+- 24.) `Conditioned Phenomena <{filename}pt11-24-conditioned-phenomena%zh.rst>`_ (N/A)
 
-- 25.) Practice Only One <{filename}pt11-25-%zh.rst>`_ (19)
+- 25.) `Practice Only One <{filename}pt11-25-practice-only-one%zh.rst>`_ (N/A)
 
-- 26.) Deceiving by the Active Mind <{filename}pt11-26-%zh.rst>`_ (19)
+- 26.) `Deceiving by the Active Mind <{filename}pt11-26-deceiving-by-the-active-mind%zh.rst>`_ (N/A)
 
-- 27.) Ignoble and Noble Searches <{filename}pt11-27-%zh.rst>`_ (19)
+- 27.) `Ignoble and Noble Searches <{filename}pt11-27-ignoble-and-noble-searches%zh.rst>`_ (N/A)
 
 _`Part 12`
 
-- 1.) Khandha Fuel, Kilesa Fire and Nibbāna <{filename}pt12-01-%zh.rst>`_ (19)
+- 1.) `Khandha Fuel, Kilesa Fire and Nibbāna <{filename}pt12-01-khandha-fuel-kilesa-fire-and-nibbana%zh.rst>`_ (N/A)
 
-- 2.) Penetration of Dukkha <{filename}pt12-02-%zh.rst>`_ (19)
+- 2.) `Penetration of Dukkha <{filename}pt12-02-penetration-of-dukkha%zh.rst>`_ (1956-10-15)
 
-- 3.) Dhamma and Anudhamma <{filename}pt12-03-%zh.rst>`_ (19)
+- 3.) `Dhamma and Anudhamma <{filename}pt12-03-dhamma-and-anudhamma%zh.rst>`_ (1956) (no date but year noted)
 
-- 4.) Dependent Arising and the Four Noble Truths <{filename}pt12-04-%zh.rst>`_ (19)
+- 4.) `Dependent Arising and the Four Noble Truths <{filename}pt12-04-dependent-arising-and-the-four-noble-truths%zh.rst>`_ (N/A)
 
-- 5.) Dependent Arising and the Taints <{filename}pt12-05-%zh.rst>`_ (19)
+- 5.) `Dependent Arising and the Taints <{filename}pt12-05-dependent-arising-and-the-taints%zh.rst>`_ (N/A)
 
-- 6.) Dangers the Worldlings Can't Escape <{filename}pt12-06-%zh.rst>`_ (19)
+- 6.) `Dangers the Worldlings Can't Escape <{filename}pt12-06-dangers-the-worldlings-cannot-escape%zh.rst>`_ (N/A)
 
-- 7.) Just Intrinsic Nature <{filename}pt12-07-%zh.rst>`_ (19)
+- 7.) `Just Intrinsic Nature <{filename}pt12-07-just-intrinsic-nature%zh.rst>`_ (N/A)
 
-- 8.) Ignorance and Craving <{filename}pt12-08-%zh.rst>`_ (19)
+- 8.) `Ignorance and Craving <{filename}pt12-08-ignorance-and-craving%zh.rst>`_ (N/A)
 
-- 9.) Everyone is Thief <{filename}pt12-09-%zh.rst>`_ (19)
+- 9.) `Everyone is a Thief <{filename}pt12-09-everyone-is-a-thief%zh.rst>`_ (N/A)
 
-- 10.) Concept, Reality and Wise Attention <{filename}pt12-10-%zh.rst>`_ (19)
+- 10.) `Concept, Reality and Wise Attention <{filename}pt12-10-concept-reality-and-wise-attention%zh.rst>`_ (N/A)
 
-- 11.) Simple and Direct (B) <{filename}pt12-11-%zh.rst>`_ (19)
+- 11.) `Simple and Direct (B) <{filename}pt12-11-simple-and-direct%zh.rst>`_ (N/A)
 
-- 12.) Insight for Everyone <{filename}pt12-12-%zh.rst>`_ (19)
+- 12.) `Insight for Everyone <{filename}pt12-12-insight-for-everyone%zh.rst>`_ (N/A)
 
-- 13.) Dying and Undying <{filename}pt12-13-%zh.rst>`_ (19)
+- 13.) `Dying and Undying <{filename}pt12-13-dying-and-undying%zh.rst>`_ (N/A)
 
-- 14.) The Burdened Khandha <{filename}pt12-14-%zh.rst>`_ (19)
+- 14.) `The Burdened Khandha <{filename}pt12-14-burdened-khandha%zh.rst>`_ (N/A)
 
-- 15.) Time and Timeless <{filename}pt12-15-%zh.rst>`_ (19)
+- 15.) `Time and Timeless <{filename}pt12-15-time-and-timeless%zh.rst>`_ (N/A)
 
-- 16.) Dying, Saṁsāra and Nibbāna <{filename}pt12-16-%zh.rst>`_ (19)
+- 16.) `Dying, Saṁsāra and Nibbāna <{filename}pt12-16-dying-samsara-and-nibbana%zh.rst>`_ (N/A)
 
-- 17.) Don't Be Get Lost in Sufferings <{filename}pt12-17-%zh.rst>`_ (19)
+- 17.) `Don't Get Lost in Sufferings <{filename}pt12-17-donot-get-lost-in-sufferings%zh.rst>`_ (N/A)
 
-- 18.) Three Knowledges of the First Discourse <{filename}pt12-18-%zh.rst>`_ (19)
+- 18.) `Three Knowledges of the First Discourse <{filename}pt12-18-three-knowledges-of-the-first-discourse%zh.rst>`_ (N/A)
 
-- 19.) Instruction on Dying <{filename}pt12-19-%zh.rst>`_ (19)
+- 19.) `Instruction on Dying <{filename}pt12-19-instruction-on-dying%zh.rst>`_ (N/A)
 
-- 20.) Don't Waste Your Precious Times <{filename}pt12-20-%zh.rst>`_ (19)
+- 20.) `Don't Waste Your Precious Times <{filename}pt12-20-donot-waste-your-precious-times%zh.rst>`_ (N/A)
 
-- 21.) The Dangers of Ignoble Dhamma <{filename}pt12-21-%zh.rst>`_ (19)
+- 21.) `The Dangers of Ignoble Dhamma <{filename}pt12-21-dangers-of-ignoble-dhamma%zh.rst>`_ (N/A)
 
-- 22.) True Dhamma and Counterfeit Dhamma <{filename}pt12-22-%zh.rst>`_ (19)
+- 22.) `True Dhamma and Counterfeit Dhamma <{filename}pt12-22-true-dhamma-and-counterfeit-dhamma%zh.rst>`_ (N/A)
 
 ------
 
@@ -647,6 +647,7 @@ revised on 2019-04-28
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  05-01 add: part 10-01 ~ part 12-22
   04-28 add: part 6-12 ~ part 9-27
   post: 04-20; 04-18 create (revised from publication-of-ven-uttamo%zh.rst)
   03-27 Part 2-- 
