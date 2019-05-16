@@ -3,7 +3,7 @@ Introduction
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-04-20
+:modified: 2019-05-16
 :tags: Introduction, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Introduction (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
@@ -291,6 +291,10 @@ revised on 2019-04-20; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=40
 
 ------
 
+- `A Brief Biography of The Mogok Sayadaw <http://meditationmyanmar.blogspot.com/2011/10/brief-biography-of-mogok-sayadaw.html>`__ (Excerpts from "The Biography and Practice of The Mogok Sayadaw", Translated by Dr. Jenny Ko Gyi, ITBMU, Myanmar)
+
+- `Dhamma e-Book written about Mogok Sayadaw U Wimala's teaching <http://www.dhammadownload.com/MogokSayadaw-eBookInEnglish.htm>`_ (linking of `Dhamma download web about Theravada Buddhism <http://www.dhammadownload.com/index.htm>`_)
+
 - `Content <{filename}content-of-dhamma-talks-by-mogok-sayadaw%zh.rst>`__ of "Dhamma Talks by Mogok Sayadaw"
 
 ------
@@ -318,6 +322,7 @@ revised on 2019-04-20; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=40
               | sukha: agreeable，pleasant，blest
 
 ..
+  05-16 add: A Brief Biography of The Mogok Sayadaw; Dhamma e-Book written about Mogok Sayadaw U Wimala's teaching
   post:04-20; 04-18 rev. add: Content of Publications of Ven. Uttamo 
         del: https://mogokdhammatalks.blog/
   01-23 rev. replace Nyanaransi with Ādiccaramsī
