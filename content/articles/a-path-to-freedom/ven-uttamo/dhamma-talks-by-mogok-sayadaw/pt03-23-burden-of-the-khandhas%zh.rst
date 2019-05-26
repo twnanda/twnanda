@@ -1,12 +1,12 @@
 ==========================================
-The Burden of The Khandhas
+The Burden of the Khandhas
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-01-13
+:modified: 2019-05-18
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
-:summary: The Burden of The Khandhas (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: The Burden of the Khandhas (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
 Dhamma Talks by Mogok Sayadaw; 3rd Oct. 1960
 
@@ -23,4 +23,5 @@ Therefore, for someone who enters into Nibbāna element (parinibbāna) will welc
 cited from https://mogokdhammatalks.blog/
 
 ..
+  05-18 rev. title: old: the Khandhas
   2019-01-11  create rst; post on 01-13

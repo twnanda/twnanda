@@ -1,12 +1,12 @@
 ==========================================
-Susīma The Wanderer
+Susīma the Wanderer
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-01-13
+:modified: 2019-05-13
 :tags: Susīma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
-:summary: Susīma The Wanderer (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: Susīma the Wanderer (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
 Dhamma Talks by Mogok Sayadaw; 28th to 31st, Jan.1960
 
@@ -45,4 +45,5 @@ Sayadaw mentioned the Susīma’s story. He said that the Buddha taught him by q
 cited from https://mogokdhammatalks.blog/
 
 ..
+  05-13 rev. title: old:The
   2019-01-11  create rst; post on 01-13

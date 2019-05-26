@@ -1,12 +1,12 @@
 ==========================================
-Practice On The Body, Feeling And Mind
+Practice on The Body, Feeling And Mind
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-01-13
+:modified: 2019-05-12
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
-:summary: Practice On The Body, Feeling And Mind (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: Practice on The Body, Feeling And Mind (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
 Dhamma Talks by Mogok Sayadaw; 3rd to 4th Jan. 1960
 
@@ -21,4 +21,5 @@ Condensing the 5-khandhas become mind and body. They are unstable and have the c
 cited from https://mogokdhammatalks.blog/
 
 ..
+  05-12 rev. title: old: ON
   2019-01-11  create rst; post on 01-13

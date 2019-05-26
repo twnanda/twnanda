@@ -1,12 +1,12 @@
 ==========================================
-To Deal With Wrong View & Doubt
+To Deal with Wrong View and Doubt
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-01-13
+:modified: 2019-05-18
 :tags: Wrong View, Doubt, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
-:summary: To Deal With Wrong View & Doubt (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: To Deal with Wrong View and Doubt (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
 Dhamma Talks by Mogok Sayadaw; 14th Nov.1960
 
@@ -29,4 +29,5 @@ Don’t let these views arise with the 5-khandhas. The Buddha said if you had an
 cited from https://mogokdhammatalks.blog/
 
 ..
+  05-18 rev. title: old: To Deal With Wrong View & Doubt
   2019-01-11  create rst; post on 01-13

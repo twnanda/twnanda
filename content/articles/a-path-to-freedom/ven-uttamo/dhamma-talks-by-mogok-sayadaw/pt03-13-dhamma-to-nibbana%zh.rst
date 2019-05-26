@@ -1,12 +1,12 @@
 ==========================================
-The Dhamma To Nibbāna
+The Dhamma to Nibbāna
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-01-13
+:modified: 2019-05-12
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
-:summary: The Dhamma To Nibbāna (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: The Dhamma to Nibbāna (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
 Dhamma Talks by Mogok Sayadaw; 6th Jan.1960
 
@@ -21,4 +21,5 @@ Dhamma Talks by Mogok Sayadaw; 6th Jan.1960
 cited from https://mogokdhammatalks.blog/
 
 ..
+  05-12 rev. title: old: To
   2019-01-11  create rst; post on 01-13

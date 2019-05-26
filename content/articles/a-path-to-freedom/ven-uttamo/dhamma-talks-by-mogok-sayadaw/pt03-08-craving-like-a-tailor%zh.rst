@@ -1,12 +1,12 @@
 ==========================================
-Craving Like A Tailor
+Craving like a Tailor
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-01-13
+:modified: 2019-05-10
 :tags: craving, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
-:summary: Craving Like A Tailor (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: Craving like A Tailor (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
 Dhamma Talks by Mogok Sayadaw; 30th Nov. to 1st Dec. 1959
 
@@ -23,4 +23,5 @@ Whatever name you are calling to the living beings such as human, god, brahma…
 cited from https://mogokdhammatalks.blog/
 
 ..
+  05-10 rev. title-- old:Like A
   2019-01-11  create rst; post on 01-13

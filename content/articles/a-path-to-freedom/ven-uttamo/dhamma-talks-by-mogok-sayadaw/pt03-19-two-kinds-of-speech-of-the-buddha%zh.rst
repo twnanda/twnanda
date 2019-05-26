@@ -1,12 +1,12 @@
 ==========================================
-Two Kinds Of Speech Of The Buddha
+Two Kinds of Speech of the Buddha
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-01-13
+:modified: 2019-05-17
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
-:summary: Two Kinds Of Speech Of The Buddha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: Two Kinds of Speech of the Buddha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
 Dhamma Talks by Mogok Sayadaw; 30th Dec.1957 / 25th March 1960
 
@@ -35,4 +35,5 @@ The Buddha used 2 kinds of speech; (1) good, true, benefit and people don’t li
 cited from https://mogokdhammatalks.blog/
 
 ..
+  05-17 rev. title: old: The
   2019-01-11  create rst; post on 01-13

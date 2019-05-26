@@ -1,12 +1,12 @@
 ==========================================
-Khemaka and The Sixty Monks
+Khemaka and the Sixty Monks
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-01-13
+:modified: 2019-05-12
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
-:summary: Khemaka and The Sixty Monks (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: Khemaka and the Sixty Monks (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
 Dhamma Talks by Mogok Sayadaw; 31st Dec. 1957 & 25th-26th Jan. 1960
 
@@ -45,4 +45,5 @@ The 4th time the monks sent Dāsaka to ask Khemaka. But Khemaka went with Dāsak
 cited from https://mogokdhammatalks.blog/
 
 ..
+  05-12 rev. title: old: The
   2019-01-11  create rst; post on 01-13

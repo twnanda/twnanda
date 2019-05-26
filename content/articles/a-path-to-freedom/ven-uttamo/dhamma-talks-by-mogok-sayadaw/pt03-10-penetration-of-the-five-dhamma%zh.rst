@@ -1,9 +1,9 @@
 ==========================================
-Penetration of The Five Dhammas
+Penetration of the Five Dhammas
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-01-13
+:modified: 2019-05-10
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Penetration of The Five Dhammas (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
@@ -86,4 +86,5 @@ On feeling: The Buddha had arisen in this world or not is depending on the knowl
 cited from https://mogokdhammatalks.blog/
 
 ..
+  05-10 rev. title: old:The
   2019-01-11  create rst; post on 01-13
