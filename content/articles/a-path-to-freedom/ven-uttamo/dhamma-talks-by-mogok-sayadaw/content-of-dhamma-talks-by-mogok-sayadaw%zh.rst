@@ -140,7 +140,7 @@ _`Part 3`
 
 - 7.) `Sick Bhikkhu and Vedanā <{filename}pt03-07-sick-bhikkhu-and-vedana%zh.rst>`_ (1959-11-28)
 
-- 8.) `Craving Like A Tailor <{filename}pt03-08-craving-like-a-tailor%zh.rst>`_ (1959-11-30 ~ 12-01)
+- 8.) `Craving Like a Tailor <{filename}pt03-08-craving-like-a-tailor%zh.rst>`_ (1959-11-30 ~ 12-01)
 
 - 9.) `The Four Taints <{filename}pt03-09-four-taints%zh.rst>`_ (1959-12-04)
 
@@ -148,7 +148,7 @@ _`Part 3`
 
 - 11.) `Follow Behind with Knowing <{filename}pt03-11-follow-behind-with-knowing%zh.rst>`_ (1960-01-01)
 
-- 12.) `Practice On the Body, Feeling and Mind <{filename}pt03-12-practice-on-the-body-feeling-and-mind%zh.rst>`_ (1960-01-03 ~ 01-04)
+- 12.) `Practice on the Body, Feeling and Mind <{filename}pt03-12-practice-on-the-body-feeling-and-mind%zh.rst>`_ (1960-01-03 ~ 01-04)
 
 - 13.) `The Dhamma to Nibbāna <{filename}pt03-13-dhamma-to-nibbana%zh.rst>`_ (1960-01-06)
 
