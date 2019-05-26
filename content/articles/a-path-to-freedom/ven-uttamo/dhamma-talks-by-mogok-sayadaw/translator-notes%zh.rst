@@ -3,12 +3,12 @@ Translator's Notes
 ==========================================
 
 :date: 2019-01-11
-:modified: 2019-05-03
+:modified: 2019-05-26
 :tags: Translator, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: Ven. Uttamo Bhante
 :summary: Translator's Notes (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned)
 
-revised on 2019-04-19
+revised on 2019-05-26
 
 ------
 
@@ -26,11 +26,11 @@ I made my translation based on the recorded tapes. Most of the talks are about a
 
 I did not translate the whole talk and left out some of the parts. But it will not affect the teaching and enough for practical purpose.
 
-These teaching were based on khandha, āyatana, dhātu, sacca & paṭicca-samuppāda, etc. Therefore, the readers should have some basic knowledge of these terms.
+These teaching were based on khandha, āyatana, dhātu, sacca and paṭicca-samuppāda, etc. Therefore, the readers should have some basic knowledge of these terms.
 
 ------
 
-revised on 2019-04-19; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4027 (posted on 2018-12-14)
+revised on 2019-05-26; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4027 (posted on 2018-12-14)
 
 ------
 
@@ -41,6 +41,7 @@ revised on 2019-04-19; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=40
 - `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Ven. Uttamo
 
 ..
+  05-26 rev. old: sacca & paṭicca-samuppāda
   05-03 rev. correct file name content-of-dhamma-talks-by-mogok-sayadaw%zh.rst
   04-18 rev. independent content from content of publication-of-ven-uttamo
         add: Content of Publications of Ven. Uttamo 

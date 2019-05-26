@@ -3,13 +3,13 @@ Content of Part I on Dhamma Talks by Mogok Sayadaw
 ====================================================
 
 :date: 2019-04-19
-:modified: 2019-04-19
+:modified: 2019-05-04
 :tags: Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Part I on Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
 
 
-- 1.) `Emptiness Dhamma and Emptiness Nibbāna <{filename}pt01-01-emptiness-dhamma-and-emptiness-nibbana%zh.rst>`_ (1961-09-11)
+- 1.) `By Listening to Emptiness Dhamma; and Emptiness Nibbāna <{filename}pt01-01-emptiness-dhamma-and-emptiness-nibbana%zh.rst>`_ (1961-09-11)
 
 - 2.) `Wrong View and Emptiness <{filename}pt01-02-wrong-view-and-emptiness%zh.rst>`_ (1961-10-22)
 
@@ -48,4 +48,5 @@ Content of Part I on Dhamma Talks by Mogok Sayadaw
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  05-04 rename old: Emptiness Dhamma and Emptiness Nibbāna
   04-19; 04-18 create 

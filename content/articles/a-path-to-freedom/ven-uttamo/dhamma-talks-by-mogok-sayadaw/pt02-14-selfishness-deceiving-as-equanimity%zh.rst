@@ -3,22 +3,22 @@ Selfishness Deceiving as Equanimity
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-04-21
+:modified: 2019-05-26
 :tags: Equanimity, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Selfishness Deceiving as Equanimity (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-04-21
+revised on 2019-05-26
 
 ------
 
 Dhamma Talks by Mogok Sayadaw; 26th February 1959
 
-Some people sometimes using language like equanimity, but including selfishness and anger. Equanimity means seeing all living beings in equilibrium according to their own kammas. By checking the nature of the language and the voice can know true equanimity or not. Envy (issā), selfishness (macchariya), dosa (anger), worry and remorse (kukkucca) can combine together. In seeing just seeing only, in hearing just hearing only…etc. become equanimity (upekkhā). Whatever arising just knowing it arising or contemplating impermanence. If you don’t know about these will become ignorance (avijjā). (There is a Burmese word came from the Pali word upekkhā. Its meaning is indifferent. Here Sayadaw referred to this kind of upekkhā as selfishness and anger.)
+Some people sometimes were using language like equanimity, but including selfishness and anger. Equanimity means seeing all living beings in equilibrium according to their own kammas. By checking the nature of the language and the voice can know true equanimity or not. Envy (issā), selfishness (macchariya), dosa (anger), worry and remorse (kukkucca) can combine together. In seeing just seeing only, in hearing just hearing only…etc. become equanimity (upekkhā). Whatever arising, just know it arising or contemplate impermanence. If you don’t know about these will become ignorance (avijjā). (There is a Burmese word came from the Pali word upekkhā. Its meaning is indifferent. Here Sayadaw referred to this kind of upekkhā as selfishness and anger.)
 
 ------
 
-revised on 2019-04-21; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35565#p35565 (posted on 2018-12-14)
+revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35565#p35565 (posted on 2018-12-14)
 
 ------
 
@@ -39,6 +39,7 @@ revised on 2019-04-21; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  05-26 rev. proofread by bhante
   04-21 rev. & add: Content of Publications of Ven. Uttamo; Content of Part 2 on "Dhamma Talks by Mogok Sayadaw"
         del: https://mogokdhammatalks.blog/
   2019-01-11  create rst; post on 01-13

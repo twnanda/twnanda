@@ -3,12 +3,12 @@ Introduction
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-05-16
+:modified: 2019-05-26
 :tags: Introduction, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Introduction (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-04-20
+revised on 2019-05-26
 
 ------
 
@@ -26,7 +26,7 @@ Even though I gained knowledge on truth, I still attached to the vow of a bodhis
 
 In 1993, I was attacked by heart disease for the first time. And then my health became degenerated. After that I had more interest in the matter of dying than living. By listening Mogok Dhamma on dying gave me a lot of comfort. In January of 1995, 3 Italian Buddhist yogis came to Rangoon for vipassanā practice. My spiritual friend U Ko Lay (Sayagyi U Ba Khin's disciple) took them to Narani Sima forest retreat for practice. I also had the chance to go with them. I took this opportunity to teach them the Mogok Teachings. They said to me that it was very interesting and they never heard it before. And requested me to come Europe and taught the teaching there. (U Sun Lwin never had the chance to go outside Burma for teaching until he passed away as a monk. A person like him should teach westerners than others, because he could communicate with them and very rich knowledge in many things which the westerners would appreciate. He was a practical man with bright and sharp mind.)
 
-In May, 1995, I ordained as a monk for a year and practiced at the forest retreat. This event benefited me a lot because I had the chance to use Mogok Teachings in vipassanā practice. (At that time he also had the chance to listen to nearly all of Mogok Sayadaw's talks which were recorded from 1954 to 1962. These were donated to him by Mogok Centre. Nearly at the time, he received the excellent biography of Mogok Sayadaw by U Gosita. So it can be said that he was an expert on Mogok Teachings. After he became a monk for the whole life in the 2nd time, he gave lectures on Dependent Arising – Paṭiccasamuppāda around Burma with many invitations everywhere.) As many know in the Theravada tradition there are many different views on vipassanā practice. In accordance with my research Mogok system is easy and clear, but profound and significant. Mogok Sayadaw was quite a learned monk in the Pali Texts. He taught the monks before the 2nd World War on Abhidhamma teachings and very well known for it. During the War periods he stayed in a cave for 4 years retreat and escaped the war. (At that time warmongers were battling and killing each other and Sayadaw was with his inner enemies – the kilesa – defilements.) Most people believed Sayadaw finished his spiritual journey. This case became known only after he laid down his khandha. Among the many relics in the ashes (i.e., sarīras), the strange thing was Sayadaw's both eye balls remained intact as eye relics. What I listened and studied many of his talks found out the following points.
+In May, 1995, I ordained as a monk for a year and practiced at the forest retreat. This event benefited me a lot because I had the chance to use Mogok Teachings in vipassanā practice. (At that time he also had the chance listening to nearly all of Mogok Sayadaw's talks which were recorded from 1954 to 1962. These were donated to him by Mogok Centre. Nearly at the time, he received the excellent biography of Mogok Sayadaw by U Gosita. So it can be said that he was an expert on Mogok Teachings. After he became a monk for the whole life in the second time, he gave lectures on Dependent Arising – Paṭiccasamuppāda around Burma with many invitations everywhere.) As many know in the Theravada tradition there are many different views on vipassanā practice. In accordance with my research Mogok system is easy and clear, but profound and significant. Mogok Sayadaw was quite a learned monk in the Pali Texts. He taught the monks before the 2nd World War on Abhidhamma teachings and very well known for it. During the War periods he stayed in a cave for 4 years retreat and escaped the war. (At that time warmongers were battling and killing each other and Sayadaw was with his inner enemies – the kilesa – defilements.) Most people believed Sayadaw finished his spiritual journey. This case became known only after he laid down his khandha. Among the many relics in the ashes (i.e., sarīras), the strange thing was Sayadaw's both eye balls remained intact as eye relics. What I listened and studied many of his talks found out the following points.
 
 Sayadawgyi understood the Pali Texts with penetrative knowledge. He could view them in significant ways which are different from others. Sometimes he was like a new commentator and could give their meanings not the same as others. Sayadawgyi also had the courage to change some of the traditional customs and views.
 
@@ -287,13 +287,15 @@ There are people having faith and respect only in Dhamma. They don't care about 
 
 ------
 
-revised on 2019-04-20; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4022 (posted on 2018-12-14)
+revised on 2019-05-26; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4022 (posted on 2018-12-14)
 
 ------
 
 - `A Brief Biography of The Mogok Sayadaw <http://meditationmyanmar.blogspot.com/2011/10/brief-biography-of-mogok-sayadaw.html>`__ (Excerpts from "The Biography and Practice of The Mogok Sayadaw", Translated by Dr. Jenny Ko Gyi, ITBMU, Myanmar)
 
 - `Dhamma e-Book written about Mogok Sayadaw U Wimala's teaching <http://www.dhammadownload.com/MogokSayadaw-eBookInEnglish.htm>`_ (linking of `Dhamma download web about Theravada Buddhism <http://www.dhammadownload.com/index.htm>`_)
+
+------
 
 - `Content <{filename}content-of-dhamma-talks-by-mogok-sayadaw%zh.rst>`__ of "Dhamma Talks by Mogok Sayadaw"
 
@@ -322,6 +324,7 @@ revised on 2019-04-20; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=40
               | sukha: agreeable，pleasant，blest
 
 ..
+  05-26 rev. old: At that time he also had the chance to listen to; for the whole life in the 2nd time; 
   05-16 add: A Brief Biography of The Mogok Sayadaw; Dhamma e-Book written about Mogok Sayadaw U Wimala's teaching
   post:04-20; 04-18 rev. add: Content of Publications of Ven. Uttamo 
         del: https://mogokdhammatalks.blog/
