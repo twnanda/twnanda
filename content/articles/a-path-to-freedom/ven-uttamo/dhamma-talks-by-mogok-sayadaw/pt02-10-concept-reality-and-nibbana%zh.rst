@@ -3,12 +3,12 @@ Concept, Reality and Nibbāna
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-05-26
+:modified: 2019-06-14
 :tags: Nibbāna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Concept, Reality and Nibbāna (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-05-26
+revised on 2019-06-14
 
 ------
 
@@ -22,17 +22,17 @@ Your desire and prayers for khandha dukkha are covering up Nibbāna. You take it
 
 (Sayadaw said that Sāriputta asked questions to Yamaka and the ways he answered was helping him to let go of his wrong views by making him to understand concept and reality. And then taught him to observe the nature of the khandha and became a sotāpanna. After became a sotāpanna, Sāriputta asked him if someone asked you what happened to an arahant after he died. The answer was important, because only someone who had eradicated wrong views and doubts could answer in this way. Dukkha ends and sukha exists. The Buddha always emphasized that he taught only dukkha and the ending of dukkha. This point is very important for all Buddhists whatever their traditions. Whatever dhamma was not about dukkha and the ending of dukkha, it's not taught by him.)
 
-After the arahant dies nothing happen means the same meaning as there is no Nibbāna. The Buddha taught in many ways as Nibbāna really exists. (e.g., in Udāna Pali). In reality arahant is not exist, only a concept. The real existence is the 5-khandhas. Arahanta means a person who had killed the defilements. Puthujjana – worldling means a person who has very thick defilements. By taking off the concepts and contemplate the reality is going onwards to Nibbāna (one of the Dhamma qualities). Yamaka had the view of annihilation because he couldn’t find a teacher. You can know the answer of a sotāpanna from the questions and answers between Sāriputta and Yamaka. You people are praying for Nibbāna without knowing it. There is a place without Dukkha. This must have to exist. That is Nibbāna which exists with only sukha. But Nibbāna is out of sight because it is covered with Dukkha.
+Nothing happen after the arahant dies is the same meaning as there is no Nibbāna. The Buddha taught in many ways as Nibbāna really exists. (e.g., in Udāna Pali). In reality arahant is not exist, only a concept. The real existence is the 5-khandhas. Arahanta means a person who had killed the defilements. Puthujjana – worldling means a person who has very thick defilements. By taking off the concepts and contemplate the reality is going onwards to Nibbāna (one of the Dhamma qualities). Yamaka had the view of annihilation because he couldn’t find a teacher. You can know the answer of a sotāpanna from the questions and answers between Sāriputta and Yamaka. You people are praying for Nibbāna without knowing it. There is a place without Dukkha. This must have to exist. That is Nibbāna which exists with only sukha. But Nibbāna is out of sight because it is covered with Dukkha.
 
 ------
 
 HTML editor's note: 
 
-There is the other translation of this tape-- Part 6 [`par6-27 <{filename}pt06-27-concept-reality-and-nibbana%zh.rst>`_, Concept, Reality and Nibbāna (ver. 2)]
+There is the other translation of this tape-- Part 6 [`par6-27 <{filename}pt06-27-concept-reality-and-nibbana%zh.rst>`_ , Concept, Reality and Nibbāna (ver. 2)]
 
 ------
 
-revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35561#p35561 (posted on 2018-12-14)
+revised on 2019-06-14; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35561#p35561 (posted on 2018-12-14)
 
 ------
 
@@ -48,11 +48,10 @@ revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p
 
 ------
 
-**This is only an experimental WWW. It's always under construction (proofreading, revising)!**
-
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-14 rev. proofread by bhante
   05-26 rev. proofread by bhante
   04-28 add the other translation of this tape
   04-21 rev. & add: Content of Publications of Ven. Uttamo; Content of Part 2 on "Dhamma Talks by Mogok Sayadaw"

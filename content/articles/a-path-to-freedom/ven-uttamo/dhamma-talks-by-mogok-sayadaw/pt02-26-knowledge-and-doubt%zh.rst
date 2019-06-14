@@ -3,12 +3,12 @@ Knowledge and Doubt
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-05-26
+:modified: 2019-06-14
 :tags: Doubt, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Knowledge and Doubt (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-05-26
+revised on 2019-06-14
 
 ------
 
@@ -18,7 +18,7 @@ Dhamma Talks by Mogok Sayadaw; 17th to 18th March 1959
 
 T1 
 
-Investigation of things and phenomena seems like the knowledge and developing doubt. Knowledge can make a decision but doubt can’t, and the mind becomes like a fork road (Two states of mind and can’t make decision). It becomes doubt without the power or ability to think so that you must approach a teacher. Both knowledge and doubt have the nature of investigation in similarity. Doubt comes in for the hindrance of contemplation of impermanence. If it’s arising, then contemplate it. Destroy it with knowledge. (Talking about the 8-doubts). Vicikicchā is ignorance (avijjā). It can be a hindrance for the realization of Dhamma. It's quite different between "doing the practice" and "without the practice" after investigation. Knowledge does the job after investigation and not becoming doubt. If you have doubt, approaching a teacher and clear up the doubt. If we don’t have faith in the truth of the teaching, these teachings will disappear first (He gave an example of doubt.). I am practicing quite a long time now. Why have I still not realized the dhamma yet? In reality defilements come in and the yogi doesn’t know it and has doubt. Only you can clear up all the defilements come in and will realize the Dhamma.
+Investigation of things and phenomena seems like the knowledge and developing doubt. Knowledge can make a decision but doubt can’t, and the mind becomes like a fork road (Two states of mind and can’t make decision). It becomes doubt without the power or ability to think so that you must approach a teacher. Both knowledge and doubt have the nature of investigation in similarity. Doubt comes in for the hindrance of contemplation of impermanence. If it’s arising, then contemplate it. Destroy it with knowledge. (Talking about the 8-doubts). Vicikicchā is ignorance (avijjā). It can be a hindrance for the realization of Dhamma. It's quite different between "doing the practice with investigation" and "without its practice". Knowledge does the job after investigation and not becoming doubt. If you have doubt, approaching a teacher and clear up the doubt. If we don’t have faith in the truth of the teaching, these teachings will disappear first (He gave an example of doubt.). I am practicing quite a long time now. Why have I still not realized the dhamma yet? In reality defilements come in and the yogi doesn’t know it and has doubt. Only you can clear up all the defilements come in and will realize the Dhamma.
 
 ------
 
@@ -28,7 +28,7 @@ Regarding to the past life, we have doubt – where I came from? What happened t
 
 ------
 
-revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35577#p35577 (posted on 2018-12-14)
+revised on 2019-06-14; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35577#p35577 (posted on 2018-12-14)
 
 ------
 
@@ -44,11 +44,10 @@ revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p
 
 ------
 
-**This is only an experimental WWW. It's always under construction (proofreading, revising)!**
-
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-14 rev. proofread by bhante
   05-26 rev. proofread by bhante
   04-21 rev. & add: Content of Publications of Ven. Uttamo; Content of Part 2 on "Dhamma Talks by Mogok Sayadaw"
         del: https://mogokdhammatalks.blog/

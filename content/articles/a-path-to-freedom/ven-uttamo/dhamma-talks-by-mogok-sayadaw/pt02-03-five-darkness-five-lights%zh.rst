@@ -3,12 +3,12 @@ The Five Darkness and the Five Lights
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-05-26
+:modified: 2019-06-14
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Five Darkness and the Five Lights (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-05-26
+revised on 2019-06-14
 
 ------
 
@@ -20,7 +20,7 @@ T1
 
 [Sayadaw mentioned that when the Bodhisatta meditated on the day of his enlightenment, with the development of vipassanā knowledge, his body emitted a kind of light (obhasa). It was so strong that spreading upwards to the Akaniṭṭha Brahma World and downwards to the Great Eight Hells. All living beings are under the influence of avijjā (darkness), born and die again and again without ending. Sayadaw gave 5 talks on avijjā and vijjā (ignorance and true knowledge) based on the Suttanipāta. (1) The First light is Kammassakatā Sammādiṭṭhi ~ Right view on kamma: Doing good has good result etc. Even many human beings don’t have this light. Sayadaw mentioned some of them, Christians, Muslims and hill tribes. ]
 
-How were we be in the whole of saṁsāra? (Round of existence) The Buddha said those who never had the light and covered with only darkness born in the darkness, and were living in the darkness and dying in the darkness of ignorance. (He mentioned the Buddha’s Light.) With the Buddha’s Light, living beings knew that a Buddha had arisen. Some human beings had the chances to rely on this Light, but you of all were not having this chance. Under the influence of ignorance, we created kammas. Therefore, these 5-khandhas were never free from the shadow of darkness. We created kammas under ignorance, so born under its shadow. Whoever got Dukkha Sacca because of under the darkness. Whoever discerns Dukkha Sacca has the Light. Even you had a happy rebirth don’t take it as good luck. It’s sure that in many of your lives you did not get the Light. Now with the chances if you don’t get it and will never be. (Sayadaw gave 2 examples for under the influence of darkness with earth worm and butterfly. Many of his talks were foods for the heart.) In talking about the Noble Truth (Ariya Sacca), I can’t even spare dāna, sīla and samatha. Whatever worldly happiness, it is still under the avijjā. Brahma Worlds are under its shadows. Some people think human world is not good enough so want to go to the heavenly worlds. All these are changing the names only. (Sabbe Saṅkhāra Dukkha~ All conditioned phenomena are dukkha.) (Then he explained many things in daily life under the influence of avijjā.)
+How were we be in the whole of saṁsāra? (Round of existence) The Buddha said those who never had the light and covered with only darkness born in the darkness, and were living in the darkness and dying in the darkness of ignorance. (He mentioned the Buddha’s Light.) With the Buddha’s Light, living beings knew that a Buddha had arisen. Some human beings had the chances to rely on this Light, but you of all were not having this chance. Under the influence of ignorance, we created kammas. Therefore, these 5-khandhas were never free from the shadow of darkness. We created kammas under ignorance, so born under its shadow. Whoever gets Dukkha Sacca is under the darkness and discerns Dukkha Sacca has the Light. Even you had a happy rebirth don’t take it as good luck. It’s sure that in many of your lives you did not get the Light. Now with the chances if you don’t get it and will never be. (Sayadaw gave 2 examples for under the influence of darkness with earth worm and butterfly. Many of his talks were foods for the heart.) In talking about the Noble Truth (Ariya Sacca), I can’t even spare dāna, sīla and samatha. Whatever worldly happiness, it is still under the avijjā. Brahma Worlds are under its shadows. Some people think human world is not good enough so want to go to the heavenly worlds. All these are changing the names only. (Sabbe Saṅkhāra Dukkha~ All conditioned phenomena are dukkha.) (Then he explained many things in daily life under the influence of avijjā.)
 
 In the Discourse of Turning the Wheel of Dhamma, vijjā udapādi ~ means knowing the Noble Truth. Those who do not become vijjā are under the darkness. The province of ignorance is very wide. In the 31 realms of existence wherever you go, you are never free from its influence (except the 5 pure abodes of noble being connection with the fourth Jhāna.). Start getting the sotāpatti magga (the knowledge of stream entrance) and start getting the light. If not, you are going like an earth worm. If the 5-darkness covers up, the 5-lights will never come out. There are five kinds of Ignorance, but most people know only one. (1) Kammassakatā Ñāṇa ~ even this knowledge all the animals and other religions don’t have. Animal rebirths are uncountable; moving around in the 4-painful births. No. 1 ignorance is not a small one. Human beings, heavenly beings and Brahma gods have wrong view. Even you get this right view, still covering with the other 4 darkness.
 
@@ -64,7 +64,7 @@ It’s like sharpening a knife. Continuing to sharpen the knife, it becomes shar
 
 ------
 
-revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35554#p35554 (posted on 2018-12-14)
+revised on 2019-06-14; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35554#p35554 (posted on 2018-12-14)
 
 ------
 
@@ -80,11 +80,10 @@ revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p
 
 ------
 
-**This is only an experimental WWW. It's always under construction (proofreading, revising)!**
-
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-14 rev. proofread by bhante
   05-26 rev. proofread by bhante
   04-21 rev. & add: Content of Publications of Ven. Uttamo; Content of Part 2 on "Dhamma Talks by Mogok Sayadaw"
         del: https://mogokdhammatalks.blog/
