@@ -36,7 +36,7 @@ Dhamma Talks by Mogok Sayadaw
 
 ---------------------------
 
-_`Part 1` ( `content of Part 1 <pt01-content-of-part01%zh.rst>`_ )
+_`Part 1` ( `content of Part 1 <{filename}pt01-content-of-part01%zh.rst>`_ )
 
 - 1.) `By Listening to Emptiness Dhamma and Emptiness Nibbāna <{filename}pt01-01-emptiness-dhamma-and-emptiness-nibbana%zh.rst>`_ (1961-09-11)
 
@@ -64,7 +64,7 @@ _`Part 1` ( `content of Part 1 <pt01-content-of-part01%zh.rst>`_ )
 
 ------
 
-_`Part 2` ( `content of Part 2 <pt02-content-of-part02%zh.rst>`_ )
+_`Part 2` ( `content of Part 2 <{filename}pt02-content-of-part02%zh.rst>`_ )
 
 - 1.) `Five Kinds of Right View <{filename}pt02-01-five-kinds-of-right-view%zh.rst>`_ (1960-02-26 ~ 03-02, in Mandalay)
 
@@ -124,7 +124,7 @@ _`Part 2` ( `content of Part 2 <pt02-content-of-part02%zh.rst>`_ )
 
 ------
 
-_`Part 3` ( `content of Part 3 <pt03-content-of-part03%zh.rst>`_ )
+_`Part 3` ( `content of Part 3 <{filename}pt03-content-of-part03%zh.rst>`_ )
 
 - 1.) `The Great Benefit of Udayabbhaya Ñāṇa <{filename}pt03-01-great-benefit-of-udayabbhaya-nana%zh.rst>`_ (1959-03-03)
 
@@ -186,7 +186,7 @@ _`Part 3` ( `content of Part 3 <pt03-content-of-part03%zh.rst>`_ )
 
 ------
 
-_`Part 4` ( `content of Part 4 <pt04-content-of-part04%zh.rst>`_ )
+_`Part 4` ( `content of Part 4 <{filename}pt04-content-of-part04%zh.rst>`_ )
 
 - 1.) `Inward Exploration <{filename}pt04-01-inward-exploration%zh.rst>`_ (1960-11-28, 1960-1201 ~ 12-02, 1962-09-25)
 
@@ -214,7 +214,7 @@ _`Part 4` ( `content of Part 4 <pt04-content-of-part04%zh.rst>`_ )
 
 - 13.) `The Road Map to Nibbāna <{filename}pt04-13-the-road-map-to-nibbana%zh.rst>`_ (1961-01-06, 09-19 ~ 09-20)
 
-_`Part 5` ( `content of Part 5 <pt05-content-of-part05%zh.rst>`_ )
+_`Part 5` ( `content of Part 5 <{filename}pt05-content-of-part05%zh.rst>`_ )
 
 - 1.) `Don't End Up at What Others Say <{filename}pt05-01-dont-end-up-at-what-others-say%zh.rst>`_ (1961-01-08)
 
@@ -262,7 +262,7 @@ _`Part 5` ( `content of Part 5 <pt05-content-of-part05%zh.rst>`_ )
 
 - 23.) `From Hell to Eternity <{filename}pt05-23-from-hell-to-eternity%zh.rst>`_ (1961-05-14)
 
-_`Part 6` ( `content of Part 6 <pt06-content-of-part06%zh.rst>`_ )
+_`Part 6` ( `content of Part 6 <{filename}pt06-content-of-part06%zh.rst>`_ )
 
 - 1.) `The Mind at Dying <{filename}pt06-01-the-mind-at-dying%zh.rst>`_ (1961-05-29)
 
@@ -320,7 +320,7 @@ _`Part 6` ( `content of Part 6 <pt06-content-of-part06%zh.rst>`_ )
 
 - 28.) `Spiritual Faculties and Nibbāna <{filename}pt06-28-spiritual-faculties-and-nibbana%zh.rst>`_ (1961-10-19)
 
-_`Part 7` ( `content of Part 7 <pt07-content-of-part07%zh.rst>`_ )
+_`Part 7` ( `content of Part 7 <{filename}pt07-content-of-part07%zh.rst>`_ )
 
 - 1.) `The Creators of Dukkha <{filename}pt07-01-the-creators-of-dukkha%zh.rst>`_ (1961-10-21)
 
@@ -380,7 +380,7 @@ _`Part 7` ( `content of Part 7 <pt07-content-of-part07%zh.rst>`_ )
 
 - 29.) `Conditioned and Unconditioned <{filename}pt07-29-conditioned-and-unconditioned%zh.rst>`_ (1962-02-22)
 
-_`Part 8` ( `content of Part 8 <pt08-content-of-part08%zh.rst>`_ )
+_`Part 8` ( `content of Part 8 <{filename}pt08-content-of-part08%zh.rst>`_ )
 
 - 1.) `The Three Words <{filename}pt08-01-three-worlds%zh.rst>`_ (1962-02-15 ~ 02-21)
 
@@ -428,7 +428,7 @@ _`Part 8` ( `content of Part 8 <pt08-content-of-part08%zh.rst>`_ )
 
 - 23.) `Wrong View on Nibbāna <{filename}pt08-23-wrong-view-on-nibbana%zh.rst>`_ (1962-07-11,  07-12)
 
-_`Part 9` ( `content of Part 9 <pt09-content-of-part09%zh.rst>`_ )
+_`Part 9` ( `content of Part 9 <{filename}pt09-content-of-part09%zh.rst>`_ )
 
 - 1.) `The Dangers of Wrong Knowledge <{filename}pt09-01-the-dangers-of-wrong-knowledge%zh.rst>`_ (1962-07-31)
 
@@ -484,7 +484,7 @@ _`Part 9` ( `content of Part 9 <pt09-content-of-part09%zh.rst>`_ )
 
 - 27.) `From Ignorance to Knowledge <{filename}pt09-27-from-ignorance-to-knowledge%zh.rst>`_ (1960-12-12)
 
-_`Part 10` ( `content of Part 10 <pt10-content-of-part10%zh.rst>`_ )
+_`Part 10` ( `content of Part 10 <{filename}pt10-content-of-part10%zh.rst>`_ )
 
 - 1.) `The Middle Way <{filename}pt10-01-the-middle-way%zh.rst>`_ (1960-12-13)
 
@@ -530,7 +530,7 @@ _`Part 10` ( `content of Part 10 <pt10-content-of-part10%zh.rst>`_ )
 
 - 22.) `On Insight Knowledge <{filename}pt10-22-on-insight-knowledge%zh.rst>`_ (1960-11-27)
 
-_`Part 11` ( `content of Part 11 <pt11-content-of-part11%zh.rst>`_ )
+_`Part 11` ( `content of Part 11 <{filename}pt11-content-of-part11%zh.rst>`_ )
 
 - 1.) `No Free Time Is for Sufferings <{filename}pt11-01-no-free-time-is-for-sufferings%zh.rst>`_ (1961-02-04)
 
@@ -586,7 +586,7 @@ _`Part 11` ( `content of Part 11 <pt11-content-of-part11%zh.rst>`_ )
 
 - 27.) `Ignoble and Noble Searches <{filename}pt11-27-ignoble-and-noble-searches%zh.rst>`_ (N/A)
 
-_`Part 12` ( `content of Part 12 <pt12-content-of-part12%zh.rst>`_ )
+_`Part 12` ( `content of Part 12 <{filename}pt12-content-of-part12%zh.rst>`_ )
 
 - 1.) `Khandha Fuel, Kilesa Fire and Nibbāna <{filename}pt12-01-khandha-fuel-kilesa-fire-and-nibbana%zh.rst>`_ (N/A)
 
