@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2019-05-01
+:modified: 2019-07-02
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -40,7 +40,7 @@ Dhamma Talks by Mogok Sayadaw
 
 ---------------------------
 
-_`Part 1`
+_`Part 1` ( `content of Part 1 <{filename}dhamma-talks-by-mogok-sayadaw/pt01-content-of-part01%zh.rst>`_ )
 
 - 1.) `By Listening to Emptiness Dhamma and Emptiness Nibbāna <{filename}dhamma-talks-by-mogok-sayadaw/pt01-01-emptiness-dhamma-and-emptiness-nibbana%zh.rst>`_ (1961-09-11)
 
@@ -68,7 +68,7 @@ _`Part 1`
 
 ------
 
-_`Part 2`
+_`Part 2` ( `content of Part 2 <{filename}dhamma-talks-by-mogok-sayadaw/pt02-content-of-part02%zh.rst>`_ )
 
 - 1.) `Five Kinds of Right View <{filename}dhamma-talks-by-mogok-sayadaw/pt02-01-five-kinds-of-right-view%zh.rst>`_ (1960-02-26 ~ 03-02, in Mandalay)
 
@@ -128,7 +128,7 @@ _`Part 2`
 
 ------
 
-_`Part 3`
+_`Part 3` ( `content of Part 3 <{filename}dhamma-talks-by-mogok-sayadaw/pt03-content-of-part03%zh.rst>`_ )
 
 - 1.) `The Great Benefit of Udayabbhaya Ñāṇa <{filename}dhamma-talks-by-mogok-sayadaw/pt03-01-great-benefit-of-udayabbhaya-nana%zh.rst>`_ (1959-03-03)
 
@@ -190,7 +190,7 @@ _`Part 3`
 
 ------
 
-_`Part 4`
+_`Part 4` ( `content of Part 4 <{filename}dhamma-talks-by-mogok-sayadaw/pt04-content-of-part04%zh.rst>`_ )
 
 - 1.) `Inward Exploration <{filename}dhamma-talks-by-mogok-sayadaw/pt04-01-inward-exploration%zh.rst>`_ (1960-11-28, 1960-1201 ~ 12-02, 1962-09-25)
 
@@ -218,7 +218,7 @@ _`Part 4`
 
 - 13.) `The Road Map to Nibbāna <{filename}dhamma-talks-by-mogok-sayadaw/pt04-13-the-road-map-to-nibbana%zh.rst>`_ (1961-01-06, 09-19 ~ 09-20)
 
-_`Part 5`
+_`Part 5` ( `content of Part 5 <{filename}dhamma-talks-by-mogok-sayadaw/pt05-content-of-part05%zh.rst>`_ )
 
 - 1.) `Don't End Up at What Others Say <{filename}dhamma-talks-by-mogok-sayadaw/pt05-01-dont-end-up-at-what-others-say%zh.rst>`_ (1961-01-08)
 
@@ -266,7 +266,7 @@ _`Part 5`
 
 - 23.) `From Hell to Eternity <{filename}dhamma-talks-by-mogok-sayadaw/pt05-23-from-hell-to-eternity%zh.rst>`_ (1961-05-14)
 
-_`Part 6`
+_`Part 6` ( `content of Part 6 <{filename}dhamma-talks-by-mogok-sayadaw/pt06-content-of-part06%zh.rst>`_ )
 
 - 1.) `The Mind at Dying <{filename}dhamma-talks-by-mogok-sayadaw/pt06-01-the-mind-at-dying%zh.rst>`_ (1961-05-29)
 
@@ -324,7 +324,7 @@ _`Part 6`
 
 - 28.) `Spiritual Faculties and Nibbāna <{filename}dhamma-talks-by-mogok-sayadaw/pt06-28-spiritual-faculties-and-nibbana%zh.rst>`_ (1961-10-19)
 
-_`Part 7`
+_`Part 7` ( `content of Part 7 <{filename}dhamma-talks-by-mogok-sayadaw/pt07-content-of-part07%zh.rst>`_ )
 
 - 1.) `The Creators of Dukkha <{filename}dhamma-talks-by-mogok-sayadaw/pt07-01-the-creators-of-dukkha%zh.rst>`_ (1961-10-21)
 
@@ -384,7 +384,7 @@ _`Part 7`
 
 - 29.) `Conditioned and Unconditioned <{filename}dhamma-talks-by-mogok-sayadaw/pt07-29-conditioned-and-unconditioned%zh.rst>`_ (1962-02-22)
 
-_`Part 8`
+_`Part 8` ( `content of Part 8 <{filename}dhamma-talks-by-mogok-sayadaw/pt08-content-of-part08%zh.rst>`_ )
 
 - 1.) `The Three Words <{filename}dhamma-talks-by-mogok-sayadaw/pt08-01-three-worlds%zh.rst>`_ (1962-02-15 ~ 02-21)
 
@@ -432,7 +432,7 @@ _`Part 8`
 
 - 23.) `Wrong View on Nibbāna <{filename}dhamma-talks-by-mogok-sayadaw/pt08-23-wrong-view-on-nibbana%zh.rst>`_ (1962-07-11,  07-12)
 
-_`Part 9`
+_`Part 9` ( `content of Part 9 <{filename}dhamma-talks-by-mogok-sayadaw/pt09-content-of-part09%zh.rst>`_ )
 
 - 1.) `The Dangers of Wrong Knowledge <{filename}dhamma-talks-by-mogok-sayadaw/pt09-01-the-dangers-of-wrong-knowledge%zh.rst>`_ (1962-07-31)
 
@@ -488,8 +488,7 @@ _`Part 9`
 
 - 27.) `From Ignorance to Knowledge <{filename}dhamma-talks-by-mogok-sayadaw/pt09-27-from-ignorance-to-knowledge%zh.rst>`_ (1960-12-12)
 
-_`Part 10`
-
+_`Part 10` ( `content of Part 10 <{filename}dhamma-talks-by-mogok-sayadaw/pt10-content-of-part10%zh.rst>`_ )
 
 - 1.) `The Middle Way <{filename}dhamma-talks-by-mogok-sayadaw/pt10-01-the-middle-way%zh.rst>`_ (1960-12-13)
 
@@ -535,7 +534,7 @@ _`Part 10`
 
 - 22.) `On Insight Knowledge <{filename}dhamma-talks-by-mogok-sayadaw/pt10-22-on-insight-knowledge%zh.rst>`_ (1960-11-27)
 
-_`Part 11`
+_`Part 11` ( `content of Part 11 <{filename}dhamma-talks-by-mogok-sayadaw/pt11-content-of-part11%zh.rst>`_ )
 
 - 1.) `No Free Time Is for Sufferings <{filename}dhamma-talks-by-mogok-sayadaw/pt11-01-no-free-time-is-for-sufferings%zh.rst>`_ (1961-02-04)
 
@@ -591,7 +590,7 @@ _`Part 11`
 
 - 27.) `Ignoble and Noble Searches <{filename}dhamma-talks-by-mogok-sayadaw/pt11-27-ignoble-and-noble-searches%zh.rst>`_ (N/A)
 
-_`Part 12`
+_`Part 12` ( `content of Part 12 <{filename}dhamma-talks-by-mogok-sayadaw/pt12-content-of-part12%zh.rst>`_ )
 
 - 1.) `Khandha Fuel, Kilesa Fire and Nibbāna <{filename}dhamma-talks-by-mogok-sayadaw/pt12-01-khandha-fuel-kilesa-fire-and-nibbana%zh.rst>`_ (N/A)
 
@@ -683,6 +682,7 @@ the translator : Ven. Uttamo (鄔達摩尊者）
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-02 add: content of Part 1~12
   05-01 add: part 10-01 ~ part 12-22; replace https://mogokdhammatalks.blog/ with OBA
   04-28 add: part 6-12 ~ part 9-27
   03-27 Part 2-- 
