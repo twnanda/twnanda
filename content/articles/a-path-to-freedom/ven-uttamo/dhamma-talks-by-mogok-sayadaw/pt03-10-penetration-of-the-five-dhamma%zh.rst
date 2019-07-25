@@ -3,12 +3,12 @@ Penetration of the Five Dhammas
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-06-14
+:modified: 2019-07-25
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Penetration of The Five Dhammas (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-06-14
+revised on 2019-07-25
 
 ------
 
@@ -44,7 +44,19 @@ Every time volitional mental state arises contemplate impermanence, then craving
 
 T3 
 
-On dukkha: There are six points of dukkha are: (1) To know dukkha (Sayadaw used dukkha which was mentioned in The First Discourse of The Buddha). Birth is dukkha (jātipi dukkhā). Look at back this dukkha you had before. Do you know it? No, you don't. It's ignorance. Old age is dukkha. Do you know you are burning with this heat element? Again you don't know it. This is the power of ignorance. Do you know sickness? You know, even animals know it. But you don't know the illness which always need for adjustment as dukkha (i.e., bodily dukkha or discomfort, as e.g., hungry and thirsty so we have to eat and drink etc. These are saṅkhāra dukkha and there are more than that. There are a lot of things to do for the whole day. It's very important for contemplation to this kind of dukkha and has dispassion for the khandhas). Therefore, dukkha is difficult to know. It will end only by understanding dukkha. Death is dukkha (māraṇaṃ dukkha). Do you know it? You don't know it yet, because you are still alive. You can die at any time but every day you can laugh and smile, means you don't know it. There are many dukkhas and covering up by ignorance that we don't know it. These are sorrow, lamentation pain, grief and despair etc. We have seen all of these every day. Do we know them as dukkha? No, we don't, and we think it as normal. Therefore, there is a saying; the truth of dukkha is not easy to know. The last dukkha is clinging to the 5-khandhas. This only can be known by insight knowledge. This dukkha always exists. Not everybody knows it. So it's covered up by ignorance. By penetration of dukkha and the origin of dukkha, i.e., samudaya dies. Therefore, the truth of dukkha is difficult to know. In all the truth it's the most difficult to know. If you know it will realize the ending of dukkha. The 5-khandhas are dukkha phenomena. It only ceases by thorough penetration so I have to warn you on this point very often. In reality it's important to know the ever changing dukkha of the healthy body (not the physical pain). Only the progressive yogi can know it. The kind of dukkha even can know by dog and pig, not realize Nibbāna. Rootless (ahetuka) and two-rooted (dvehetuka) person can't know it. Only three-rooted person (tihetuka) can know it. Even tihetuka person can know it by discerning the highest level of impermanence and not by the lower level. There are two kinds of dukkha. One dukkha can be treated by medicine and the other one cannot. You will realize Nibbāna only by seeing the dukkha which can't be cured by medicine. It has no time for treatment. Dukkha can't be cured by medicine is the real dukkha. (2) To know the cause of dukkha: It causes by lobha samudaya (greed). (3) To know the diversity of dukkha: Have to know 4-types; small dukkha, big dukkha, slow dukkha and fast dukkha. Add another two; can be cured and cannot be cured by medicine. There are these 6-types of dukkha in the body only. (Sayadaw did not explain them but we can know it by contemplation). (4) To know the result of dukkha-- for the worldling (puthujjana), it is followed by sorrow, lamentation, grief and despair. Tihetuka person who sees that impermanent dukkha extinguishes sorrow, lamentation, etc. will realize Nibbāna and dukkha is ended (??). (6) To know the way: It's the Noble Eightfold Path. A person develops the path factors will end dukkha and not by prayers. In the 6 points of dukkha connect the first and the sixth. After understanding about dukkha and develop with the path factors (contemplate the 5-khandhas with the path factors). 
+On dukkha: There are six points of dukkha are: 
+
+(1) To know dukkha (Sayadaw used dukkha which was mentioned in The First Discourse of The Buddha). Birth is dukkha (jātipi dukkhā). Look at back this dukkha you had before. Do you know it? No, you don't. It's ignorance. Old age is dukkha. Do you know you are burning with this heat element? Again you don't know it. This is the power of ignorance. Do you know sickness? You know, even animals know it. But you don't know the illness which always need for adjustment as dukkha (i.e., bodily dukkha or discomfort, as e.g., hungry and thirsty so we have to eat and drink etc. These are saṅkhāra dukkha and there are more than that. There are a lot of things to do for the whole day. It's very important for contemplation to this kind of dukkha and has dispassion for the khandhas). Therefore, dukkha is difficult to know. It will end only by understanding dukkha. Death is dukkha (māraṇaṃ dukkha). Do you know it? You don't know it yet, because you are still alive. You can die at any time but every day you can laugh and smile, means you don't know it. There are many dukkhas and covering up by ignorance that we don't know it. These are sorrow, lamentation pain, grief and despair etc. We have seen all of these every day. Do we know them as dukkha? No, we don't, and we think it as normal. Therefore, there is a saying; the truth of dukkha is not easy to know. The last dukkha is clinging to the 5-khandhas. This only can be known by insight knowledge. This dukkha always exists. Not everybody knows it. So it's covered up by ignorance. By penetration of dukkha and the origin of dukkha, i.e., samudaya dies. Therefore, the truth of dukkha is difficult to know. In all the truth it's the most difficult to know. If you know it will realize the ending of dukkha. The 5-khandhas are dukkha phenomena. It only ceases by thorough penetration so I have to warn you on this point very often. In reality it's important to know the ever changing dukkha of the healthy body (not the physical pain). Only the progressive yogi can know it. The kind of dukkha even can know by dog and pig, not realize Nibbāna. Rootless (ahetuka) and two-rooted (dvehetuka) person can't know it. Only three-rooted person (tihetuka) can know it. Even tihetuka person can know it by discerning the highest level of impermanence and not by the lower level. There are two kinds of dukkha. One dukkha can be treated by medicine and the other one cannot. You will realize Nibbāna only by seeing the dukkha which can't be cured by medicine. It has no time for treatment. Dukkha can't be cured by medicine is the real dukkha. 
+
+(2) To know the cause of dukkha: It causes by lobha samudaya (greed). 
+
+(3) To know the diversity of dukkha: Have to know 4-types; small dukkha, big dukkha, slow dukkha and fast dukkha. Add another two; can be cured and cannot be cured by medicine. There are these 6-types of dukkha in the body only. (Sayadaw did not explain them but we can know it by contemplation). 
+
+(4) To know the result of dukkha: For the worldling (puthujjana), it is followed by sorrow, lamentation, grief and despair. Tihetuka person who sees that impermanent dukkha extinguishes sorrow, lamentation, etc. will realize sukha Nibbāna and dukkha is ended. 
+
+(5) To know the cessation of dhukkha: This is Nibbāna.
+
+(6) To know the way: It's the Noble Eightfold Path. A person develops the path factors will end dukkha and not by prayers. In the 6 points of dukkha connect the first and the sixth. After understanding about dukkha and develop with the path factors (contemplate the 5-khandhas with the path factors). 
 
 ------
 
@@ -52,7 +64,7 @@ T4
 
 On sensuality (kāma): In the beginning, Sayadaw talked about the practice of Ven. Anuruddha who had conceit (māna), over effort (viriya) and worry which were intruding in his practice. Later he was corrected by Ven. Sāriputta and became an arahant. Sayadaw reminds his disciples to be careful in their practice and have equanimity in all situations. 
 
-Conceit (māna) is greed (lobha) (Sayadaw told the story of Anuruddha). Māna, over viriya and worry were intruding in his practice, that without development. He had success in samatha practice but not in the practice of insight. So the three-hindrances for the realization of Path and Fruit are māna, restlessness (uddhacca) and worry. Hinder for the lower level of knowledge to higher level of knowledge. If you don't have the realization, one of them is hindering of it. Observe with right attitude whatever arising during the practice. Don't let the worry "why I don't have it yet?" coming in. You might ask how to do it. Just observe in accordance with the Dhamma (Dhammānu – dhammappatti)! Simply contemplate as it is. Before it shows its nature and observes from behind. Don't let other phenomena come in and mix-up with it. Regarding to viriya, in the 4-supreme efforts, there nothing is excessive and only equilibrium. Just observe what the Dhamma shows you and it will not take long and realize it. 
+Conceit (māna) is greed (lobha) (Sayadaw told the story of Anuruddha). Māna, over viriya and worry were intruding in his practice, that without development. He had success in samatha practice but not in the practice of insight. So the three-hindrances for the realization of Path and Fruit are māna, restlessness (uddhacca) and worry. Hinder for the lower level of knowledge to higher level of knowledge. If you don't have the realization, one of them is hindering of it. Observe with right attitude whatever arising during the practice. Don't let the worry "why I don't have it yet?" coming in. You might ask how to do it. Just observe in accordance with the Dhamma (dhammānu-dhammappaṭipatti)! Simply contemplate as it is. Before it shows its nature and observes from behind. Don't let other phenomena come in and mix-up with it. Regarding to viriya, in the 4-supreme efforts, there nothing is excessive and only equilibrium. Just observe what the Dhamma shows you and it will not take long and realize it. 
 
 (1) To know sensuality (2) To know the cause (3) To know the diversity (4) To know the result (5) To know the cessation (6) To know the way of practice.
 
@@ -82,7 +94,7 @@ On feeling: The Buddha had arisen in this world or not is depending on the knowl
 
 ------
 
-revised on 2019-06-14; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35593#p35593 (posted on 2018-12-15)
+revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35593#p35593 (posted on 2018-12-15)
 
 ------
 
@@ -101,6 +113,7 @@ revised on 2019-06-14; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-25 rev. add: On dukkha: There are six points of dukkha are: (5) proofread by bhante; 
   06-14 rev. proofread by bhante
   05-10 rev. title: old:The
   2019-01-11  create rst; post on 01-13

@@ -3,12 +3,12 @@ To Deal with Wrong View and Doubt
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-06-14
+:modified: 2019-07-25
 :tags: Wrong View, Doubt, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: To Deal with Wrong View and Doubt (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-06-14
+revised on 2019-07-25
 
 ------
 
@@ -22,11 +22,11 @@ Wrong view and doubt are sticking in the khandhas. So have to know the cause of 
 
 Khandha Paṭicca-samuppāda – doesn't mean the whole day of process but what happening at the present moment. Present khandha is not the khandha gave birth by mother or yesterday khandha, but the new arising khandha. If you know this, you are free from the view of permanence. From young you are growing up is eternalism – sassata diṭṭhi. People will think the new arising khandha is nothing to do with the old khandha, then it becomes annihilationism – uccheda diṭṭhi, so wrong view is sticking here and there. These 2 wrong views are hindering the Path and Fruit Knowledges. The Buddha said to go on the middle way. The matter of the eye is conditioned by kamma, citta, utu and āhāra (action, mind, temperature and food). Eye consciousness is caused by ārammaṇa-dvāra (sense door and sense object). By knowing these will free from uccheda diṭṭhi. The cause is not cutting off. By intellectually free from diṭṭhi and discerning impermanence can enter Nibbāna. These 2 wrong views are coming from identity view – sakkāya diṭṭhi. 
 
-Don't let these views arise with the 5-khandhas. The Buddha said if you had any one of them even didn't have the knowledge in accordance with the truth – saccanulomika ñāṇa. If you have identity view and also have all the 62-wrong views. By knowing that it is the process of cause and effect and not created by Mahā Braham or God, then you are free from doubt. These are cause and effect phenomena, not a person and not a being. There are only mind and body while the 5-khandhas condensed. In the discussion between Ven. Sāriputta and Ven. Koṭṭhita (Mahākoṭṭhita), it was said that by contemplation of the mind, one may contemplate the body; so as by contemplation of the body, one may contemplate the mind too. Viññāṇam and nāma-rūpa (consciousness and name-form) are also the same way. These examples were by the Buddha and Sāriputta. They are depending on each other. If one of them is collapsing and the other also do. Therefore, Sabbe saṅkhāra anicca – All conditioned phenomena are impermanent. Everyday people are doing uncountable unwholesome kammas. So the result would be also a lot but the time is not yet arriving to give the result. They are not doing anything to cut off the kammas. Because of vedanā living beings are doing a lot of kammas (vedanā paccaya taṇhā..., kammabhāvo – feeling conditioned craving..., action). These are kammas desire for khandhas. You all take kamma as parents so rely on them as kam father and kam mother (kam – Burmese word for kamma). But the Buddha taught you to rely on nyan parents, nyan father and nyan mother (nyan – Burmese word for ñāna). Insert knowledge between feeling and craving. You divide the 5-khandhas and get the 4-satipaṭṭhāna. If you can contemplate impermanence to anyone of them, then craving and clinging are gone. Therefore, the Buddha declared that he had got rid of all wholesome and unwholesome dhammas. Wanting to cut off kamma, practice with one of the satipaṭṭhāna. Without it become a human ball and kick by the wholesome and unwholesome dhammas. So must contemplate impermanence to one of the satipaṭṭhāna.
+Don't let these views arise with the 5-khandhas. The Buddha said if you had any one of them even didn't have the knowledge in accordance with the truth – saccanulomika ñāṇa. If you have identity view and also have all the 62-wrong views. By knowing that it is the process of cause and effect and not created by Mahā Braham or God, then you are free from doubt. These are cause and effect phenomena, not a person and not a being. There are only mind and body while the 5-khandhas condensed. In the discussion between Ven. Sāriputta and Ven. Koṭṭhita (Mahākoṭṭhita), it was said that with contemplation of the mind, it includes the body; with contemplation of the body, it also includes the mind. (If you contemplate the mind, it includes with the body; so as with the body, it also includes the mind. They are working together, arising and passing away together. So it doesn't need to do all the satipaṭṭhāna in the twelve links of D.A. .) Viññāṇam and nāma-rūpa (consciousness and name-form) are also the same way. These examples were by the Buddha and Sāriputta. They are depending on each other. If one of them is collapsing and the other also do. Therefore, Sabbe saṅkhāra anicca – All conditioned phenomena are impermanent. Everyday people are doing uncountable unwholesome kammas. So the result would be also a lot but the time is not yet arriving to give the result. They are not doing anything to cut off the kammas. Because of vedanā living beings are doing a lot of kammas (vedanā paccaya taṇhā..., kammabhāvo – feeling conditioned craving..., action). These are kammas desire for khandhas. You all take kamma as parents so rely on them as kam father and kam mother (kam – Burmese word for kamma). But the Buddha taught you to rely on nyan parents, nyan father and nyan mother (nyan – Burmese word for ñāna). Insert knowledge between feeling and craving. You divide the 5-khandhas and get the 4-satipaṭṭhāna. If you can contemplate impermanence to anyone of them, then craving and clinging are gone. Therefore, the Buddha declared that he had got rid of all wholesome and unwholesome dhammas. Wanting to cut off kamma, practice with one of the satipaṭṭhāna. Without it become a human ball and kick by the wholesome and unwholesome dhammas. So must contemplate impermanence to one of the satipaṭṭhāna.
 
 ------
 
-revised on 2019-06-14; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35608#p35608 (posted on 2018-12-15)
+revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35608#p35608 (posted on 2018-12-15)
 
 ------
 
@@ -45,6 +45,7 @@ revised on 2019-06-14; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-25 rev. proofread by bhante (old:it was said that by contemplation of the mind, one may contemplate the body; so as by contemplation of the body, one may contemplate the mind too. )
   06-14 rev. proofread by bhante; (original: it was said that by contemplation of the mind including the body. By contemplation of the body was including the mind)
   05-18 rev. title: old: To Deal With Wrong View & Doubt
   2019-01-11  create rst; post on 01-13

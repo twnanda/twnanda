@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2019-07-02
+:modified: 2019-07-25
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -262,7 +262,7 @@ _`Part 5` ( `content of Part 5 <{filename}dhamma-talks-by-mogok-sayadaw/pt05-con
 
 - 21.) `For Practice or Reciting <{filename}dhamma-talks-by-mogok-sayadaw/pt05-21-for-practice-or-reciting%zh.rst>`_ (1961-05-01 ~ 05-02)
 
-- 22.) `Why Dancing with Burning Fire? <{filename}dhamma-talks-by-mogok-sayadaw/pt05-22-why-dancing-with-burning-fire%zh.rst>`_ (1961-05-13)
+- 22.) `Khandha Fuel with Kilesa Fire <{filename}dhamma-talks-by-mogok-sayadaw/pt05-22-khandha-fuel-with-kilesa-fire%zh.rst>`_ (1961-05-13)
 
 - 23.) `From Hell to Eternity <{filename}dhamma-talks-by-mogok-sayadaw/pt05-23-from-hell-to-eternity%zh.rst>`_ (1961-05-14)
 
@@ -682,6 +682,7 @@ the translator : Ven. Uttamo (鄔達摩尊者）
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-25 rev. old: 22.) Why Dancing with Burning Fire?
   07-02 add: content of Part 1~12
   05-01 add: part 10-01 ~ part 12-22; replace https://mogokdhammatalks.blog/ with OBA
   04-28 add: part 6-12 ~ part 9-27
