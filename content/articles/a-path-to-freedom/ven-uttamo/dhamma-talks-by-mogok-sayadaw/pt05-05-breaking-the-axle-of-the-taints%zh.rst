@@ -3,12 +3,12 @@ Breaking the Axle of the Taints
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-07-25
+:modified: 2019-08-13
 :tags: taint, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Breaking the Axle of the Taints (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-07-25
+revised on 2019-08-13
 
 ------
 
@@ -171,6 +171,7 @@ revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-13 rev. mogok-pt05-fig1-2.jpg-- proofread by bhante
   07-25 rev. proofread by bhante
   2019-01-13  create rst
   https://mogokdhammatalks.blog/
