@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2019-07-25
+:modified: 2019-8-12
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -296,7 +296,7 @@ _`Part 6` ( `content of Part 6 <{filename}dhamma-talks-by-mogok-sayadaw/pt06-con
 
 - 14.) `Weapon of Mass Destruction <{filename}dhamma-talks-by-mogok-sayadaw/pt06-14-weapon-of-mass-destruction%zh.rst>`_ (1961-08-10)
 
-- 15.) `Vipassanā is Ñāṇa or Kamma? (Vipassanā is Knowledge or Action?) <{filename}dhamma-talks-by-mogok-sayadaw/pt06-15-vipassana-is-knowledge-or-action%zh.rst>`_ (1961-08-16) 
+- 15.) `Vipassanā is Ñāṇa or Kamma? <{filename}dhamma-talks-by-mogok-sayadaw/pt06-15-vipassana-is-knowledge-or-action%zh.rst>`_ (1961-08-16) 
 
 - 16.) `Appreciation of Nibbāna <{filename}dhamma-talks-by-mogok-sayadaw/pt06-16-appreciation-of-nibbana%zh.rst>`_ (1961-08-18 ~ 08-19)
 
@@ -682,6 +682,7 @@ the translator : Ven. Uttamo (鄔達摩尊者）
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-12 rev. proofread by bhante; old: (pt06-15-- Vipassanā is Knowledge or Action?)
   07-25 rev. old: 22.) Why Dancing with Burning Fire?
   07-02 add: content of Part 1~12
   05-01 add: part 10-01 ~ part 12-22; replace https://mogokdhammatalks.blog/ with OBA
