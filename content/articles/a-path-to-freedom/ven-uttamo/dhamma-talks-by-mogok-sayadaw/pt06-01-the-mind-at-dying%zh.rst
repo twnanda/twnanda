@@ -3,18 +3,18 @@ The Mind at Dying
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-08-12
+:modified: 2019-09-12
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: The Mind at Dying (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-08-12
+revised on 2019-09-12
 
 ------
 
 Dhamma Talks by Mogok Sayadaw; 29th May 1961
 
-Dying is no in-breathing comes in after the out-breathing goes out and then it is death. The Buddha said that all living beings without seeing the next rebirths at the dying moment would never die. They are seeing it with the five dying mind moments. Death consciousness arises (cuticitta) after these minds come. This mind is the last mind of this life. After that comes the rebirth consciousness. 
+Dying is no inbreathing comes in after the out-breathing goes out and then it is death. The Buddha said that all living beings without seeing the next rebirths at the dying moment would never die. They are seeing it with the five dying mind moments. Death consciousness arises (cuticitta) after these minds come. This mind is the last mind of this life. After that comes the rebirth consciousness. 
 
 The five dying mind must be anyone of the wholesome or unwholesome dhammas. These are arising continuously and passing away one by one for five times. What are these five minds are seeing? For example for the unwholesome mind, it sees the lying and cheating of others; or remembering them, seeing the unwholesome kamma one's had done before. For the wholesome mind, it is by seeing having made offering things to the monks. 
 
@@ -48,7 +48,7 @@ In referring with the feeling, all three types of feeling are covering up Nibbā
 
 ------
 
-revised on 2019-08-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35729#p35729 (posted on 2019-01-11)
+revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35729#p35729 (posted on 2019-01-11)
 
 ------
 
@@ -67,6 +67,7 @@ revised on 2019-08-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  09-12 rev. proofread by bhante;  old: Dying is no in-breathing comes in after the out-breathing goes out and then it is death.
   08-12 rev. proofread by bhante
   2019-01-13  create rst
   https://mogokdhammatalks.blog/

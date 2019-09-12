@@ -3,7 +3,7 @@ Content of Part 7 on Dhamma Talks by Mogok Sayadaw
 ====================================================
 
 :date: 2019-04-28
-:modified: 2019-04-28
+:modified: 2019-09-12
 :tags: Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Part 7 on Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -36,7 +36,7 @@ Content of Part 7 on Dhamma Talks by Mogok Sayadaw
 
 - 14.) `Important of Feeling <{filename}pt07-14-importance-of-feeling%zh.rst>`_ (1961-11-25)
 
-- 15.) `Craving and Action <{filename}pt07-15-craving-and-action%zh.rst>`_ (1961-11-28)
+- 15.) `Tanhā and Kamma <{filename}pt07-15-craving-and-action%zh.rst>`_ (1961-11-28)
 
 - 16.) `Three Cups of Medicine and the Crazy Beings <{filename}pt07-16-three-cups-of-medicine-and-the-crazy-beings%zh.rst>`_ (1961-11-30)
 
@@ -81,4 +81,5 @@ Content of Part 7 on Dhamma Talks by Mogok Sayadaw
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  09-12 rev. proofread by bhante; pt07-15- Tanhā and Kamma; old: Craving and Action
   04-25 create; post on 04-28 

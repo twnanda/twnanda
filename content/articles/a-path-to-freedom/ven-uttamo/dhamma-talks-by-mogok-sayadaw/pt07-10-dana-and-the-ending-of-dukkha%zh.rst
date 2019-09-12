@@ -3,40 +3,48 @@ Dāna and the Ending of Dukkha
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-04-28
+:modified: 2019-09-12
 :tags: Dāna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Dāna and the Ending of Dukkha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-Dhamma Talks by Mogok Sayadaw; 22nd November 1961
-
-[This was a dhamma talk at the ceremony of Kathina Robes offering]
-
-Offering with the desire for the becoming of human being or heavenly being is for the cause of dukkha (Samudaya Sacca). Even becoming the blissful khandha is still the truth of dukkha. (Dukkha Sacca). With the giving (dāna) still get lost in dukkha. For becoming the knowledge of seeing the truth have to be based on the khandha. 
-
-During the giving we have to enrich with insight. Wanting to free from the direct experience of dukkha and make the offering must contemplate the khandha in this way. The precepts (5 here) have been established already.
-
-No contemplation of the khandha and just giving is an ordinary dāna. It is not the best dāna. With much capital (investment) and get little profit we should not do this business. (The donors were business people). Let contemplate on the khandha for 5 minutes. 
-
-(Sayadaw was quite different from other teachers. If anyone wanted to perform a big dāna, such as building a sala, dwellings, etc.and Sayadaw asked them to practice vipassanā for sometimes before the offering. And with the offering ceremony transformed into a vi-vaṭṭa dāna – Dānas transcend the round of existence). 
-
-Do you see the impermanence of dukkha sacca? Without the path factor of samādhi you can’t see it. And also without the path factor of wisdom (paññā) you can’t see it. Now, already completed with samādhi and paññā. (Sayadaw asked the disciples to follow him as he recited the Pali and translation for the vipassanā dāna offering. Before the water pouring ceremony, he asked disciples by listening the talk and at the same time observing the khandha. If the hindrances come in also observing them.)
-
-Sayadaw talked about the beginning of human being, started from the combination of sperm and ovum, with them together were nāma (mind) dhamma. offering things with the desire of ajati Nibbāna (birthless Nibbāna). You offer with the fear of birth. It is for vi-vaṭṭa dāna, so the kinds things to offer are not the main point. 
-
-To has a noble mind is important. And then continue to talk about old age and sickness. From the past life with ignorance and volitional formation conditioned this present life, started from birth to ageing, sickness and death. Now, I am not talking about apuññabisaṅkhāra yet (demeritorious deed). Even puññabisaṅkhāra is very bad indeed (meritorious deed). 
-
-The situation in sickness is taking off the good clothes (when people are oppressing by sickness and disease, they can’t wear any good clothes). It’s also in the state of hunger. (Because can’t eat good foods or no desire to eat). The state in sickness is disgusting by others (Because of the disease has bad or disgusting smell)
-
-Are these things others give it to you? or you make it for yourself? (by kamma and prayer). Ignorance → volitional formation → rebirth consciousness. These situations are known by others and it becomes a shame and without any benefit. Death is with a bad life will has a bad dying. At dying the sick person sees hell and other bad destinations and in crying. 
-
-This offering is for fear of dukkha sacca and it becomes offer with knowledge. Let us do the water pouring ceremony. Even we don’t do this our job is already completed. We do this just for sharing the merit with others. We are afraid and disenchanted of ageing, sickness and death of the saṁsāra and perform this offerings. From your side also should have the 3 qualities. Before, during and after the offering must have strong volition (cetanā). 
-
-From the side of the monks, we should receive these offerings with the spirit of practicing to free from lust, hatred and delusion. If, it’s in accordance with these 6 points the results are unspeakable. offer without any clinging to personality. Then it frees from wrong view. This is the kathina ceremony of killing taṇhā and diṭṭhi – So it has a lot of benefit and leading to NIBBĀNA.
+revised on 2019-09-12
 
 ------
 
-cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35774#p35774 (posted on 2019-01-14)
+Dhamma Talks by Mogok Sayadaw; 22nd November 1961
+
+[This was a dhamma talk at the ceremony of Kaṭhina Robes offering]
+
+Offering with the desire for the becoming of human being or heavenly being is for the cause of dukkha (Samudaya Sacca). Even becoming the blissful khandha, it is still the truth of dukkha. (Dukkha Sacca). With the giving (dāna) still get lost in dukkha. The truth has to be based on the khandha for becoming the knowledge of seeing. 
+
+During the giving we have to enrich with insight. Wanting to be free from the direct experience of dukkha and make the offering must contemplate the khandha in this way. The precepts (5 here) have been established already. 
+
+No contemplation of the khandha and just giving is an ordinary dāna. It is not the best dāna. With much capital (investment) and get little profit we should not do this business. (The donors were business people). Let contemplate on the khandha for five minutes. 
+
+(Sayadaw was quite different from other teachers. If anyone wanted to perform a big dāna, such as building a sālā, dwellings, etc., Sayadaw asked them to practice vipassanā for some times before the offering; and with the offering ceremony transformed into a vi-vaṭṭa dāna — Dānas transcend the round of existence). 
+
+Do you see the impermanence of dukkha sacca? Without the path factor of samādhi you can’t see it. And also without the path factor of wisdom (paññā) you can’t see it. Now, you already completed with samādhi and paññā. (Sayadaw asked the disciples to follow him as he recited the Pali and translation for the vipassanā dāna offering. Before the water pouring ceremony, he asked disciples to to observe the khandha at the same time by listening to the talk; if the hindrances come in, also observe them.)
+
+(Sayadaw talked about the beginning of human being, starting from the combination of sperm and ovum, with them together were nāma (mind) dhamma.) You should offer things with the desire of ajāti Nibbāna ("no rebirth" Nibbāna) and with the fear of birth. It is for vi-vaṭṭa dāna, so it's not the main point for which kinds of things to offer. It is important to have a noble mind. 
+
+(And then continue to talk about old age and sickness.) From the past life with ignorance, volitional formation conditioned this present life, starting from birth to ageing, sickness and death. Now, I am not talking about apuññabhisaṅkhāra yet (demeritorious deed). Even puññabhisaṅkhāra is very bad indeed (meritorious deed). 
+
+The situation in sickness is taking off the good clothes (when people are oppressing by sickness and disease, they can’t wear any good clothes). It’s also in the state of hunger. (Because can’t eat good foods or no desire to eat). The state in sickness is disgusting by others (Because the disease has bad or disgusting smell)
+
+Are these things given to you by others? Or you make it for yourself (by kamma and prayer)!? Ignorance → volitional formation → rebirth consciousness. These situations are known by others and it becomes a shame and without any benefit. Those who lives with a bad life till death will have a bad dying. The sick person sees hell and other bad destinations and in crying at dying. 
+
+This offering is for fear of dukkha sacca and it becomes offer with knowledge. Let us do the water pouring ceremony. Our job is already completed even we don’t do this. We do this just for sharing the merit with others. We are afraid and disenchanted of ageing, sickness and death of the saṁsāra and perform this offering. 
+
+You also should have the three qualities from your side: you must have strong volition (cetanā) before, during and after the offering. From the side of the monks, we should receive these offerings with the spirit of practicing to be free from lust, hatred and delusion. The results are unspeakable if it’s in accordance with these six points. Offering without any clinging to personality, then it frees from wrong view. This is the kaṭhina ceremony of killing taṇhā and diṭṭhi — so it has a lot of benefit and is leading to NIBBĀNA. 
+
+[Note on the conception of a human embryo: 
+
+The begining of human being starts with the combination of sperm and ovum; they together were nāma (mind) dhamma. We should not take it literally because some doubt about these three combine together at the same time. This is not important for a yogi but he should not take them as a soul or a self, otherwise it becomes wrong view. To inderstand the real picture or find the facts, we can consult the informations in the suttas, stories in the texts, modern stories (yogis' experiences) and medical science. We can have the right anser by research, investigation and contemplation.]
+
+------
+
+revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35774#p35774 (posted on 2019-01-14)
 
 ------
 
@@ -52,9 +60,8 @@ cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35774#p35774 (posted o
 
 ------
 
-**This is only an experimental WWW. It's always under construction (proofreading, revising)!**
-
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  09-12 rev. proofread by bhante
   2019-04-23  create rst; post on 04-28

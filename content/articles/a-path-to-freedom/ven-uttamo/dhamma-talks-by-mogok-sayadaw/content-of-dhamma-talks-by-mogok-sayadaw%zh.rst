@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2019-08-12
+:modified: 2019-09-12
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -350,7 +350,7 @@ _`Part 7` ( `content of Part 7 <{filename}pt07-content-of-part07%zh.rst>`_ )
 
 - 14.) `Important of Feeling <{filename}pt07-14-importance-of-feeling%zh.rst>`_ (1961-11-25)
 
-- 15.) `Craving and Action <{filename}pt07-15-craving-and-action%zh.rst>`_ (1961-11-28)
+- 15.) `Tanhā and Kamma <{filename}pt07-15-craving-and-action%zh.rst>`_ (1961-11-28)
 
 - 16.) `Three Cups of Medicine and the Crazy Beings <{filename}pt07-16-three-cups-of-medicine-and-the-crazy-beings%zh.rst>`_ (1961-11-30)
 
@@ -396,19 +396,19 @@ _`Part 8` ( `content of Part 8 <{filename}pt08-content-of-part08%zh.rst>`_ )
 
 - 7.) `Two Causes of No Realization <{filename}pt08-07-two-causes-of-no-realization%zh.rst>`_ (1962-04-21)
 
-- 8.) `With Tanhā and Māna To Nibbāna <{filename}pt08-08-with-tanha-and-mana-to-nibbana%zh.rst>`_ (1962-05-13)
+- 8.) `With Tanhā and Māna to Nibbāna <{filename}pt08-08-with-tanha-and-mana-to-nibbana%zh.rst>`_ (1962-05-13)
 
-- 9.) `The Extension of Saṁsara <{filename}pt08-09-extension-of-samsara%zh.rst>`_ (1962-05-15)
+- 9.) `The Extension of Saṁsāra <{filename}pt08-09-extension-of-samsara%zh.rst>`_ (1962-05-15)
 
 - 10.) `With Kilesa Sap, No Real Happiness <{filename}pt08-10-with-kilesa-sap-no-real-happiness%zh.rst>`_ (1962-05-29)
 
 - 11.) `Unwise Attention and Prayers <{filename}pt08-11-unwise-attention-and-prayers%zh.rst>`_ (1962-06-04)
 
-- 12.) `Truth is in the Khandha <{filename}pt08-12-truth-is-in-the-khandha%zh.rst>`_ (1962--06-15)
+- 12.) `Truth Is in the Khandha <{filename}pt08-12-truth-is-in-the-khandha%zh.rst>`_ (1962--06-15)
 
-- 13.) `Nibbāna is The Foremost Happiness <{filename}pt08-13-nibbana-is-the-foremost-happiness%zh.rst>`_ (1962-06-15)
+- 13.) `Nibbāna Is the Foremost Happiness <{filename}pt08-13-nibbana-is-the-foremost-happiness%zh.rst>`_ (1962-06-15)
 
-- 14.) `To Has Compassion and Wisdom for Oneself <{filename}pt08-14-to-has-compassion-and-wisdom-for-oneself%zh.rst>`_ (1962-06-16)
+- 14.) `To Have Compassion and Wisdom for Oneself <{filename}pt08-14-to-has-compassion-and-wisdom-for-oneself%zh.rst>`_ (1962-06-16)
 
 - 15.) `About the Mind <{filename}pt08-15-about-the-mind%zh.rst>`_ (1962-06-17)
 
@@ -420,7 +420,7 @@ _`Part 8` ( `content of Part 8 <{filename}pt08-content-of-part08%zh.rst>`_ )
 
 - 19.) `Right Association <{filename}pt08-19-right-association%zh.rst>`_ (1962-06-22)
 
-- 20.) `Important of knowing the Truth <{filename}pt08-20-importance-of-knowing-the-truth%zh.rst>`_ (1962-07-08)
+- 20.) `The Importance of Knowing the Truth <{filename}pt08-20-importance-of-knowing-the-truth%zh.rst>`_ (1962-07-08)
 
 - 21.) `Answer To A Buddhist <{filename}pt08-21-answer-to-a-buddist%zh.rst>`_ (1962-07-10)
 
@@ -647,6 +647,7 @@ revised on 2019-07-02
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  09-12 rev. proofread by bhante; pt07-15- Tanhā and Kamma; old: Craving and Action
   08-12 rev. proofread by bhante; old: (pt06-15-- Vipassanā is Knowledge or Action?)
   07-25 rev. old: 22.) Why Dancing with Burning Fire?
   07-02 add: content of Part 1~12

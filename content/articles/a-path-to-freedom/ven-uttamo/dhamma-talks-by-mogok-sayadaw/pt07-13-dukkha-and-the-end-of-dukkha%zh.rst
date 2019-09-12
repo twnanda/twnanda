@@ -1,12 +1,16 @@
 ==========================================
-Dukkha and The End of Dukkha
+Dukkha and the End of Dukkha
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-04-28
+:modified: 2019-09-12
 :tags: Dukkha, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
-:summary: Dukkha and The End of Dukkha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: Dukkha and the End of Dukkha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+
+revised on 2019-09-12
+
+------
 
 Dhamma Talks by Mogok Sayadaw; 24th November 1961
 
@@ -18,27 +22,27 @@ Dhamma Talks by Mogok Sayadaw; 24th November 1961
 | ④ Has suffering arisen by chance or without any cause.]
 | 
 
-One has done dukkha and one has suffered for it. This is the view of eternalism (sassata diṭṭhi). Because it continues as the same one person. The cause of ignorance and volitional formation (avijjā and saṅkhāra) that dukkha arises. You do it so you suffer for it. This is Buddhist sassata diṭṭhi.
+One has done dukkha and one has suffered for it. This is the view of eternalism (sassata diṭṭhi) because it continues as the same one person. Due to ignorance and volitional formation (avijjā and saṅkhāra), dukkha arises. 
 
-Buddhist religion in name, and internally it’s sassata. Most people die with sassata diṭṭhi. With wrong view and contemplation of vipassanā will get insight knowledge (i.e. will see impermanence). But you can’t get the Path Knowledge (a good example was Ven. Channa and Ven. Yamaka). 
+You do it so you suffer for it. This is Buddhist sassata diṭṭhi. Buddhist religion in name, and internally it’s sassata. Most people die with sassata diṭṭhi. With wrong view, contemplation of vipassanā will get insight knowledge (i.e., you will see impermanence) but you can’t get the Path Knowledge (a good example was Ven. Channa and Ven. Yamaka). 
 
-The actor is one person and the sufferer is another person means cause and effect are not connecting. It becomes uccheda diṭṭhi (view of annihilationism). If you can answer both questions as it’s not in this way, then you are free from sassata and uccheda views. Without a teacher’s explanation all have wrong views. 
+The actor is one person and the sufferer is another person, it means cause and effect do not connect. It becomes uccheda diṭṭhi (view of annihilationism). If you can answer both questions as it’s not in this way, then you are free from sassata and uccheda views. Without a teacher’s explanation, all have wrong views. 
 
-If you have wrong views and practice and can’t get the Path and Fruition Knowledges. Because it’s resisting by wrong views. The 4th question was, “Has dukkha arisen by chance?”. It was ahetuka diṭṭhi (view of noncausality). If you know these 4 as cleary and all wrong view fall away. 
+You practice but can’t get the Path and Fruition Knowledges if you have wrong views because it’s resisted by wrong views. The fourth question was, “Is dukkha arisen by chance?” It was ahetuka diṭṭhi (view of noncausality). All wrong view will fall away if you know these four points clearly. 
 
-And then by practicing hard can realize Path and Fruition Knowledges. If not I can’t guarantee you. Also the Buddha said that it couldn’t be. If you ask: “Is there any dukkha exist?” The answer is dukkha exists. In this khandha whatever arising is dukkha arising. 
+And then by practicing hard can realize Path and Fruition Knowledges. If not I can’t guarantee you. Also the Buddha said that it couldn’t be. If you ask: “Is there any dukkha existing?” The answer is dukkha exists. In this khandha whatever arising is dukkha arising. 
 
-This body is all dukkha. If you don’t believe just observe it. It’s arising and vanishing, arising and vanishing, etc to infinity. When it will stop? If you can answer dukkha exists, and you get sacca ñāṇa. He asked the Buddha as did he know dukkha? The Buddha answered as he knew it. 
+This body is all dukkha. If you don’t believe just observe it. It’s arising and vanishing, arising and vanishing, etc. to infinity. When it will stop? If you can answer dukkha exists, and you get sacca ñāṇa. He asked the Buddha as did he know dukkha? The Buddha answered as he knew it. 
 
-If the changing and perishing are not extinct and can’t get Nibbāna. In your vipassanā practice, I am asking you of does the khandha disappear? It’s the same as does dukkha disappear? If dukkha disappears and Nibbāna appears. The whole khandha is the assemblage of dukkha. 
+You can’t get Nibbāna if the changing and perishing are not extinct. In your vipassanā practice, I am asking you of does the khandha disappear? It’s the same as does dukkha disappear? Nibbāna appears if dukkha disappears. The whole khandha is the assemblage of dukkha. 
 
-Dukkha khandhassa samudayo hoti – the whole dukkha khandha is arising. By following to the end of dukkha and its ending is Nibbāna. Just practice vipassanā and you can realized the ending of dukkha. Dukkhassa antaṁ karissati – Will realized the end of dukkha. If you really and truly know dukkha and dukkha will end. 
+Dukkha khandhassa samudayo hoti — the whole dukkha khandha is arising. By following to the end of dukkha and its ending is Nibbāna. Just practice vipassanā and you can realized the ending of dukkha. Dukkhassa antaṁ karissati — Will realize the end of dukkha. If you really and truly know dukkha and dukkha will end. 
 
-Dukkha exists is the khandha and the knowing is ñāṇa. In you dukkha sacca and magga succa arise. And then you get the mundane path factors (lokiya maggan) If you continue the contemplation will get the supermundane knowledge. Without the understanding of D.A process and you have diṭṭhi.
+Dukkha existing is the khandha and the knowing is ñāṇa. In you dukkha sacca and magga sacca arise. And then you get the mundane path factors (lokiya maggan). You will get the supermundane knowledge if you continue the contemplation. Without the understanding of D. A. process and you have diṭṭhi (wrong views).
 
 ------
 
-cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35844#p35844 (posted on 2019-01-18)
+revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35844#p35844 (posted on 2019-01-18)
 
 ------
 
@@ -54,9 +58,8 @@ cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35844#p35844 (posted o
 
 ------
 
-**This is only an experimental WWW. It's always under construction (proofreading, revising)!**
-
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  09-12 rev. proofread by bhante
   2019-04-23  create rst; post on 04-28

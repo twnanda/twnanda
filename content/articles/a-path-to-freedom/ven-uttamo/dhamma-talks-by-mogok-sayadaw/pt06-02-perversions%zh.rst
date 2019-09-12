@@ -3,12 +3,12 @@ Perversions
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-08-12
+:modified: 2019-09-12
 :tags: perversion, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Perversions (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-08-12
+revised on 2019-09-12
 
 ------
 
@@ -30,9 +30,11 @@ T2
 
 To understand the inversions are very important. Don’t think that these dhammas are only relates to the living khandha. It also has connection to lifeless objects. Human beings are born inside the inversions. They are happy and joyful with aging, sickness and death. 
 
-The matter of knowing these dhamma is not an ordinary thing. The Buddha himself had to know them for the correction of living beings. He had to fulfill the pāramīs (perfections) for the four incalculable aeons (asaṅkheyya kappa) and hundred thousand aeons (kappa). To expand the five khandhas becoming the four satipaṭṭhāna. 
+The matter of knowing these dhamma is not an ordinary thing. The Buddha himself had to know them for the correction of living beings. He had to fulfill the pāramīs (perfections) for the four incalculable aeons (asaṅkheyya kappa) and hundred thousand aeons (kappa). 
 
-To condense it becomes impermanence (i.e., rise and fall). In the 31 realms of existence only have saṅkhāra and anicca. The twelve inversions have to be destroyed with their own path knowledge accordingly. By seeing impermanent wrong perceptions and views are gone. 
+To expand the five khandhas it becomes the four satipaṭṭhāna and by condensing, it becomes only impermanence (i.e., rise and fall).
+
+In the 31 realms of existence, there are only saṅkhāra and anicca. The twelve inversions have to be destroyed with their own path knowledge accordingly. By seeing impermanent wrong perceptions and views are gone. 
 
 Therefore should not take the khandha as a reliable thing. With impermanence the inversion of view falls away. After discerning of impermanence and die even without seeing the ending of it will become a sotāpanna after death. Why does that happen? Because by discerning impermanence has no wrong view. 
 
@@ -76,9 +78,13 @@ The Buddha asked to look for bodily seclusion — kāyaviveka. With it and then 
 
 It wants to get rid of inversions for today's talk, so that showing you the practice. Listening to talk is changing to ariyan eyes — noble eyes; so that you know how to look at it with the ariyan’s disciple eyes and knowing the truth. You thought as this khandha was nice to have it before. Now you know it as the real dukkha.
 
+[ Note on saṁvega: Ajahn Thanissaro wrote on this Pali word in his essay — "Affirming the Truths of the Heart". "saṁvega was what the young Prince Siddhartha felt on his first exposure to aging, illness, and death. It's a hard word to translate because it covers such a complex range — at least three clusters of feelings at once: the oppressive sense of shock, dismay, and alienation that come with realizing the futility and meaninglessness of life as it's normally lived; a chastening sense of our own complacency and foolishness in having let ourselves live so blindly; and an anxious sense of urgency in trying to find a way out of the meaningless cycle."
+
+The Pali word saṁvega became a Burmese word like anicca, dukkha and anatta, but usually used as saṁvega nyan (nyan is for the Pali word of ñāṇa). So it is a kind of knowledge which is very important for Buddhists to develop. This needs study or listening of Dhamma and frequent contemplation. For some people whose sense of saṁvega is so strong that they want to abandon any worldly matters and even give up their lives for the path to the end of dukkha. People will live a meaningful life for themselves and others if they have the sense of saṁvega. "So the Buddhist attitude toward life cultivates saṁvega — a clear acceptance of the meaninglessness of the cycle of birth, aging, and death — and develops it into pasāda: a confident path to the Deathless." ]
+
 ------
 
-revised on 2019-08-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35730#p35730 (posted on 2019-01-11)
+revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35730#p35730 (posted on 2019-01-11)
 
 ------
 
@@ -97,6 +103,7 @@ revised on 2019-08-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  09-12 rev. proofread by bhante; add: Note on saṁvega; rev. some sentances: from hundred thousand aeons (kappa)..., ..., In the 31 realms of existence, there are only saṅkhāra and anicca.
   08-12 rev. proofread by bhante
   04-28 rev. replace inversion with perversions
   2019-01-13  create rst; the other translation: perversion
