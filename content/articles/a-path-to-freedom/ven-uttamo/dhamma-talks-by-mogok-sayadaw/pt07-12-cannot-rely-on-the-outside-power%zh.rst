@@ -26,7 +26,7 @@ Dhamma Talks by Mogok Sayadaw; 23rd November 1961
 | Section ④ : Future effect , Jati, maraṇaṁ…
 | 
 
-D. A. is the cause and effect connection of one’s own khandha process from one life to one life. It’s neither the connection of a person nor a being. These present results arose from the past causes. Avijjā and saṅkhāra do not follow to this side (from ① to ②).
+D.A. is the cause and effect connection of one’s own khandha process from one life to one life. It’s neither the connection of a person nor a being. These present results arose from the past causes. Avijjā and saṅkhāra do not follow to this side (from ① to ②).
 
 We are taking with these five results as man or woman (i.e., no②). From the past life of no. ①, nothing came to this side of no. ②. Carefully note this point. It’s important. The doubt of "Where did I come from?" was solved. Doubt is called Vicikicchā.
 
