@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2019-09-12
+:modified: 2019-10-02
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -490,7 +490,7 @@ _`Part 10` ( `content of Part 10 <{filename}pt10-content-of-part10%zh.rst>`_ )
 
 - 2.) `Correct One's Mistakes in Time <{filename}pt10-02-correct-ones-mistakes-in-time%zh.rst>`_ (1960-12-18)
 
-- 3.) `Are you A Fool? <{filename}pt10-03-are-you-a-fool%zh.rst>`_ (1960-12-18)
+- 3.) `Are You A Fool? <{filename}pt10-03-are-you-a-fool%zh.rst>`_ (1960-12-18)
 
 - 4.) `Our Murderers <{filename}pt10-04-our-murderers%zh.rst>`_ (1960-12-25)
 
@@ -634,7 +634,7 @@ _`Part 12` ( `content of Part 12 <{filename}pt12-content-of-part12%zh.rst>`_ )
 
 ------
 
-revised on 2019-07-02
+revised on 2019-10-02
 
 ------
 
@@ -642,11 +642,10 @@ revised on 2019-07-02
 
 ------
 
-**This is only an experimental WWW. It's always under construction (proofreading, revising)!**
-
-**According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
+**According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  10-02 rev. proofread by bhante
   09-12 rev. proofread by bhante; pt07-15- Tanhā and Kamma; old: Craving and Action
   08-12 rev. proofread by bhante; old: (pt06-15-- Vipassanā is Knowledge or Action?)
   07-25 rev. old: 22.) Why Dancing with Burning Fire?

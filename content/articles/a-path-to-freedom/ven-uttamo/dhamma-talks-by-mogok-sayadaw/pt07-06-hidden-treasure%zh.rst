@@ -3,12 +3,12 @@ The Hidden Treasure
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-09-12
+:modified: 2019-10-02
 :tags: Treasure, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Hidden Treasure (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-09-12
+revised on 2019-10-02
 
 ------
 
@@ -40,11 +40,11 @@ The Buddha taught three kinds of dhamma, but you have to take the best one. (Con
 
 With kilesa covering on knowledge, you are still not seeing impermanence. Therefore samādhi is important. It can push away kilesa for some time and seeing impermanence. If you still can’t contemplate disenchantment of impermanence and not wanting of them, saṅkhata (dukkha) still covers it. Therefore you have to practice and not by prayers to arrive Nibbāna. 
 
-So, kilesa and dukkha cover Nibbāna and we can’t see it. Only those who can uncover kilesa and dukkha become diṭṭhadhamma — Dhamma been seen by oneself. (Sayadaw mentioned sotāpanna’s qualities). You have not yet overcome kilesa if you still have not seen impermanence. Hence, you still can’t penetrate dukkha and see Nibbāna. But Nibbāna is near if you have these two.
+So, kilesa and dukkha cover Nibbāna and we can’t see it. Only those who can uncover kilesa and dukkha become diṭṭhadhamma — Dhamma been seen by oneself. (Sayadaw mentioned sotāpanna’s qualities). You have not yet overcome kilesa if you still have not seen impermanence. Hence, you still can’t penetrate dukkha and see Nibbāna. But Nibbāna will be near if you have seen impermenace and penetrated dukkha.
 
 ------
 
-revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35770#p35770 (posted on 2019-01-14)
+revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35770#p35770 (posted on 2019-01-14)
 
 ------
 
@@ -63,5 +63,6 @@ revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  10-02 rev. proofread by bhante
   09-12 rev. proofread by bhante
   2019-04-23  create rst; post on 04-28

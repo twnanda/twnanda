@@ -3,12 +3,12 @@ Dāna and the Ending of Dukkha
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-09-12
+:modified: 2019-10-02
 :tags: Dāna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Dāna and the Ending of Dukkha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-09-12
+revised on 2019-10-02
 
 ------
 
@@ -40,11 +40,11 @@ You also should have the three qualities from your side: you must have strong vo
 
 [Note on the conception of a human embryo: 
 
-The begining of human being starts with the combination of sperm and ovum; they together were nāma (mind) dhamma. We should not take it literally because some doubt about these three combine together at the same time. This is not important for a yogi but he should not take them as a soul or a self, otherwise it becomes wrong view. To inderstand the real picture or find the facts, we can consult the informations in the suttas, stories in the texts, modern stories (yogis' experiences) and medical science. We can have the right anser by research, investigation and contemplation.]
+The beginning of human being starts with the combination of sperm, ovum and the rebirth consciousness. We should not take it literally because some doubt about these three combine together at the same time. This is not important for a yogi but he should not take them as a soul or a self, otherwise it becomes wrong view. To understand the real picture, we can consult the information in the suttas, stories in the texts, modern stories (yogis' experiences) and medical science. We can have the right answer by research, investigation and contemplation.]
 
 ------
 
-revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35774#p35774 (posted on 2019-01-14)
+revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35774#p35774 (posted on 2019-01-14)
 
 ------
 
@@ -63,5 +63,6 @@ revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  10-02 rev. proofread by bhante, Note on the conception of a human embryo
   09-12 rev. proofread by bhante
   2019-04-23  create rst; post on 04-28
