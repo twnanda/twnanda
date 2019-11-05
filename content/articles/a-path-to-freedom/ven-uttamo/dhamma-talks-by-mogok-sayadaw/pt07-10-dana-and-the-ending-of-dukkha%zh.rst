@@ -3,12 +3,12 @@ Dāna and the Ending of Dukkha
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-10-02
+:modified: 2019-11-05
 :tags: Dāna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Dāna and the Ending of Dukkha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-10-02
+revised on 2019-11-05
 
 ------
 
@@ -38,13 +38,21 @@ This offering is for fear of dukkha sacca and it becomes offer with knowledge. L
 
 You also should have the three qualities from your side: you must have strong volition (cetanā) before, during and after the offering. From the side of the monks, we should receive these offerings with the spirit of practicing to be free from lust, hatred and delusion. The results are unspeakable if it’s in accordance with these six points. Offering without any clinging to personality, then it frees from wrong view. This is the kaṭhina ceremony of killing taṇhā and diṭṭhi — so it has a lot of benefit and is leading to NIBBĀNA. 
 
+------
+
 [Note on the conception of a human embryo: 
 
-The beginning of human being starts with the combination of sperm, ovum and the rebirth consciousness. We should not take it literally because some doubt about these three combine together at the same time. This is not important for a yogi but he should not take them as a soul or a self, otherwise it becomes wrong view. To understand the real picture, we can consult the information in the suttas, stories in the texts, modern stories (yogis' experiences) and medical science. We can have the right answer by research, investigation and contemplation.]
+The beginning of human being starts with the combination of sperm, ovum and the rebirth consciousness. We should not take it literally because some doubt about these three combine together at the same time. This is not important for a yogi but he should not take them as a soul or a self, otherwise it becomes wrong view. To understand the real picture, we can consult the information in the suttas, stories in the texts, modern stories (yogis' experiences) and medical science. We can have the right answer by research, investigation and contemplation.
+
+In Burma, most Abhidhamma teachers who talked about rebirth started with the combination of these three together: sperm, ovum and rebirth consciousness. But story in the Pali texts were different. One of the Dhammapada Stories was about a gem-polisher. He killed his pet crane which died and conceived by his wife. It meant the sperm and ovum were combined before the crane death.
+
+In Ajahn Mun's biography, it mentioned an old nun who sat in meditation and had the following experience. A white thread came out from her heart and went into her niece's womb. She told Ajahn Mun about this experience. He suggested her to cut off this white thread with her samādhi power next time. She did it what he said. Later she asked her niece whether she had any pregnancy before. She gave the positive answer and now it was aborted.
+
+According to the embryology, the being in the womb starts breathing after two or over two months (I don't know the exact time). This can be counted as the rebirth consciousness arises at that time. It also make reasonable because mind and matter are changing in different rates. Mind is seventeen times faster than matter. ]
 
 ------
 
-revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35774#p35774 (posted on 2019-01-14)
+revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35774#p35774 (posted on 2019-01-14)
 
 ------
 
@@ -63,6 +71,7 @@ revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  11-05 rev. proofread by bhante; the 2nd note on the conception of a human embryo
   10-02 rev. proofread by bhante, Note on the conception of a human embryo
   09-12 rev. proofread by bhante
   2019-04-23  create rst; post on 04-28
