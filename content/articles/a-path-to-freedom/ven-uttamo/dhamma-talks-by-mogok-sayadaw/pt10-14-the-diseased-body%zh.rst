@@ -3,10 +3,14 @@ The Diseased Body
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-05-01
+:modified: 2019-11-05
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Diseased Body (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+
+revised on 2019-11-05
+
+------
 
 Dhamma Talks by Mogok Sayadaw; 15 January 1961
 
@@ -15,15 +19,15 @@ beings in their lives).
 
 With the ariyan eyes and observe will see the body as never free from diseases at anytime, such as wanting to excrete, urinate are diseases. Changing postures are also disease. If, it’s free from diseases you don’t need to make adjustments for it. Making for adjustments are diseases. Always torment and oppress with diseases that it is dukkha sacca. 
 
-The Buddha also said about the body as disease – rogato. It always appears to the knowledge as suffering and you know the truth. This suffering arises and that suffering disappears. It goes on and on like this. With the khandha exists and suffering never ends. In the worlding (puthujjana), craving (tanhā) follows behind suffering all the times. 
+The Buddha also said about the body as disease – rogato. It always appears to the knowledge as suffering and you know the truth. This suffering arises and that suffering disappears. It goes on and on like this. With the khandha exists and suffering never ends. In the worldlings (puthujjana), craving (taṇhā) follows behind suffering all the times. 
 
-The 3 water roots of craving, clinging and action appear with them. In worldling every time disease arises and get back disease again. If the next khandha arises and it’s the disease. The worlding eyes and the ariyan eyes are a great different. With the ariyan eyes and it becomes dukkha sacca and magga sacca. 
+The three water roots of craving, clinging and action appear with them. In worldling every time disease arises and gets back disease again. It’s the disease if the next khandha arises. The worldling eyes and the ariyan eyes are a great different. With the ariyan eyes and it becomes dukkha sacca and magga sacca. 
 
 If disease arises for him and it’s cured. Therefore with the practice and it cures the disease. If not, if you have the disease and with the increasing of it. If you don’t have any knowledge about it and diseases are increasing.
 
 Without vipassanā is the increasing of disease. With the existing of the khandha and getting back the khandha is like having a disease and more diseases appear. It happens because not knowing the cause of ending the disease. Every time disease arises and knowing behind as dukkha sacca. 
 
-If you know the disease as disease and it’s the task of ending disease. You have the khandha and oppress by the khandha. Nobody comes and oppressing you. At that time dukkha sacca appears to you. Whatever arises form the khandha and remember it as disease appears. You have to make this decision. 
+If you know the disease as disease and it’s the task of ending disease. You have the khandha and oppress by the khandha. Nobody comes and oppressing you. At that time dukkha sacca appears to you. Whatever arises from the khandha and remember it as disease appears. You have to make this decision.
 
 The disease is dukkha sacca and making decision is magga sacca. Ending dukkha is a wise person. Connecting dukkha is a foolish person. Another way is; doing vipassanā is a wise person and not doing is a foolish person. It’s very rare to find a person who can end the cause of disease.
 
@@ -31,7 +35,7 @@ For vipassanā practice, no need to choose a place. Disease arises is dukkha sac
 
 ------
 
-cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36202#p36202 (posted on 2019-03-29)
+revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36202#p36202 (posted on 2019-03-29)
 
 ------
 
@@ -47,9 +51,8 @@ cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36202#p36202 (posted o
 
 ------
 
-**This is only an experimental WWW. It's always under construction (proofreading, revising)!**
-
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  11-05 rev. proofread by bhante
   2019-04-29  create rst; post on 05-01

@@ -3,7 +3,7 @@ Content of Part 9 on Dhamma Talks by Mogok Sayadaw
 ====================================================
 
 :date: 2019-04-28
-:modified: 2019-04-28
+:modified: 2019-11-05
 :tags: Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Part 8 on Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -72,9 +72,8 @@ Content of Part 9 on Dhamma Talks by Mogok Sayadaw
 
 ------
 
-**This is only an experimental WWW. It's always under construction (proofreading, revising)!**
-
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  11-05 rev. proofread by bhante
   04-28 create 

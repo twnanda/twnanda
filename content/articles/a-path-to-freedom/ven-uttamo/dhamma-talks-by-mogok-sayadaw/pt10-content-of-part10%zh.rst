@@ -3,7 +3,7 @@ Content of Part 10 on Dhamma Talks by Mogok Sayadaw
 ====================================================
 
 :date: 2019-05-01
-:modified: 2019-05-01
+:modified: 2019-11-05
 :tags: Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Part 8 on Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -14,7 +14,7 @@ _`Part 10`
 
 - 2.) `Correct One's Mistakes in Time <{filename}pt10-02-correct-ones-mistakes-in-time%zh.rst>`_ (1960-12-18)
 
-- 3.) `Are you A Fool? <{filename}pt10-03-are-you-a-fool%zh.rst>`_ (1960-12-18)
+- 3.) `Are You A Fool? <{filename}pt10-03-are-you-a-fool%zh.rst>`_ (1960-12-18)
 
 - 4.) `Our Murderers <{filename}pt10-04-our-murderers%zh.rst>`_ (1960-12-25)
 
@@ -64,9 +64,8 @@ _`Part 10`
 
 ------
 
-**This is only an experimental WWW. It's always under construction (proofreading, revising)!**
-
-**According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
+**According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  11-05 rev. proofread by bhante
   04-29 create post on 05-01
