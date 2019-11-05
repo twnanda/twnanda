@@ -3,12 +3,12 @@ The Three Worlds
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-10-02
+:modified: 2019-11-05
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Three Worlds (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-10-02
+revised on 2019-11-05
 
 ------
 
@@ -94,7 +94,27 @@ T5
 
 If believe in satta loka exists and must know that we have wrong views. Not understanding of satta loka is sticking with wrong view. If you think human beings, celestial beings and brahma gods exist and it becomes wrong view. With this and the question must come up as, after a living being dies where he has gone. 
 
-It happens to you because of taking it as a living being. It’s the view of the eternalism (sassata diṭṭhi). Between the two processes it seems never disappears. Put the wrong view in the D. A. process and it’s with craving/taṇhā (it was mahā taṇhā — big craving, and mentioned by the Buddha in the Mahā-taṇhāsankhaya Sutta of Majjhima Nikāya, MN 38: Mahātaṇhā¬saṅkhaya Sutta). No living beings, but only dukkha sacca of the impermanent mind and body exist. If you are stopping at satta loka and wrong views arise. 
+It happens to you because of taking it as a living being. It’s the view of the eternalism (sassata diṭṭhi). Between the two processes it seems never disappears. Put the wrong view in the D. A. process and it’s with craving/taṇhā (it was mahā taṇhā — big craving, and mentioned by the Buddha in the Mahā-taṇhāsankhaya Sutta of Majjhima Nikāya, MN 38: Mahātaṇhā-saṅkhaya Sutta). No living beings, but only dukkha sacca of the impermanent mind and body exist. If you are stopping at satta loka and wrong views arise. 
+
+------
+
+[This sutta (MN 38) was related to Sāti's diṭṭhi which he took consciousness as a soul. So the Buddha gave this talk based on D. A. process to dispel this view. If we understand D. A. properly, we will know that the Buddha referred to diṭṭhi as mahātaṇhā. So the D. A. process can be written as: 
+
+::
+
+                     ┌→ taṇhā → clinging (taṇhūpādāna) →
+   feeling (vedanā) ─├→ māna → mānūpādāna → kamma →
+                     └→ diṭṭhi → diṭṭhupādāna → kamma →
+
+I also don't know about it before, but I realize after listening to the Sayadaw's talks which he mentioned in them.
+
+We should not take D. A. process in a fixed way as only this twelve links. The Buddha's teachings had compactness of nature. He did not always explain it in detail. Therefore, the commentaries came in (e.g. Mahākaccāyana).
+
+Everyone loves him/herself more than anyone or anything; atta = sakkāya diṭṭhi.
+
+Sotāpanna only has the seven droplets of ocean water of dukkha if compare with the worldling who has the volume of dukkha in the whole great ocean, even may be more. But sotāpanna only eradicated diṭṭhi. So that we'll know that diṭṭhi is mahātaṇhā or cūḷataṇhā. If we have diṭṭhi you will never be happy. ]
+
+------
 
 For example, with your finger nail and scratches on your arm. Feeling (or sensation) and the knowing mind (i.e., consciousness) arise here and vanish here. Do they move to anywhere?
 
@@ -168,7 +188,7 @@ Remove satta loka and find out the saṅkhāra if you want to arrive to Nibbāna
 
 ------
 
-revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35928#p35928 (posted on 2019-02-13)
+revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35928#p35928 (posted on 2019-02-13)
 
 ------
 
@@ -187,5 +207,6 @@ revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  11-05 add note on MN 38: Mahātaṇhā¬saṅkhaya Sutta; proofread by bhante
   10-02 rev. proofread by bhante
   2019-04-25  create rst; post on 04-28
