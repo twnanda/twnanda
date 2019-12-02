@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2019-10-02
+:modified: 2019-12-02
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -542,7 +542,7 @@ _`Part 11` ( `content of Part 11 <{filename}dhamma-talks-by-mogok-sayadaw/pt11-c
 
 - 3.) `What Is the Most Important Thing? <{filename}dhamma-talks-by-mogok-sayadaw/pt11-03-what-is-the-most-important-thing%zh.rst>`_ (1961-03-19)
 
-- 4.) `Simple and Direct <{filename}dhamma-talks-by-mogok-sayadaw/pt11-04-simple-and-direct%zh.rst>`_ (1961-08-16)
+- 4.) `The Process of Existing and Not-Existing <{filename}dhamma-talks-by-mogok-sayadaw/pt11-04-process-of-existing-and-not-existing%zh.rst>`_ (1961-08-16)
 
 - 5.) `The End of the World (B) <{filename}dhamma-talks-by-mogok-sayadaw/pt11-05-the-end-of-the-world-b%zh.rst>`_ (1961-10-28)
 
@@ -556,11 +556,11 @@ _`Part 11` ( `content of Part 11 <{filename}dhamma-talks-by-mogok-sayadaw/pt11-c
 
 - 10.) `Two Ways of Dying <{filename}dhamma-talks-by-mogok-sayadaw/pt11-10-two-ways-of-dying%zh.rst>`_ (1962-08-29)
 
-- 11.) `Dependency is Wavering <{filename}dhamma-talks-by-mogok-sayadaw/pt11-11-dependency-is-wavering%zh.rst>`_ (N/A)
+- 11.) `Dependency Is Wavering <{filename}dhamma-talks-by-mogok-sayadaw/pt11-11-dependency-is-wavering%zh.rst>`_ (N/A)
 
 - 12.) `The Creator <{filename}dhamma-talks-by-mogok-sayadaw/pt11-12-the-creator%zh.rst>`_ (N/A)
 
-- 13.) `Not a Soul, an Intrinsic Nature <{filename}dhamma-talks-by-mogok-sayadaw/pt11-13-not-a-soul-an-intrinsic-nature%zh.rst>`_ (No Beings, Nor Souls and Only Intrinsive Nature) (N/A) 
+- 13.) `Not a Soul, Only an Intrinsic Nature <{filename}dhamma-talks-by-mogok-sayadaw/pt11-13-not-a-soul-only-an-intrinsic-nature%zh.rst>`_ (N/A)
 
 - 14.) `Why Can't Discern Dukkha? <{filename}dhamma-talks-by-mogok-sayadaw/pt11-14-why-cannot-discern-dukkha%zh.rst>`_ (N/A)
 
@@ -602,13 +602,13 @@ _`Part 12` ( `content of Part 12 <{filename}dhamma-talks-by-mogok-sayadaw/pt12-c
 
 - 5.) `Dependent Arising and the Taints <{filename}dhamma-talks-by-mogok-sayadaw/pt12-05-dependent-arising-and-the-taints%zh.rst>`_ (N/A)
 
-- 6.) `Dangers the Worldlings Can't Escape <{filename}dhamma-talks-by-mogok-sayadaw/pt12-06-dangers-the-worldlings-cannot-escape%zh.rst>`_ (N/A)
+- 6.) `Dangers That the Worldling Can’t Escape <{filename}dhamma-talks-by-mogok-sayadaw/pt12-06-dangers-that-the-worldlings-cannot-escape%zh.rst>`_ (N/A)
 
 - 7.) `Just Intrinsic Nature <{filename}dhamma-talks-by-mogok-sayadaw/pt12-07-just-intrinsic-nature%zh.rst>`_ (N/A)
 
 - 8.) `Ignorance and Craving <{filename}dhamma-talks-by-mogok-sayadaw/pt12-08-ignorance-and-craving%zh.rst>`_ (N/A)
 
-- 9.) `Everyone is Thief <{filename}dhamma-talks-by-mogok-sayadaw/pt12-09-everyone-is-a-thief%zh.rst>`_ (N/A)
+- 9.) `Everyone Is Thief <{filename}dhamma-talks-by-mogok-sayadaw/pt12-09-everyone-is-a-thief%zh.rst>`_ (N/A)
 
 - 10.) `Concept, Reality and Wise Attention <{filename}dhamma-talks-by-mogok-sayadaw/pt12-10-concept-reality-and-wise-attention%zh.rst>`_ (N/A)
 
@@ -636,6 +636,8 @@ _`Part 12` ( `content of Part 12 <{filename}dhamma-talks-by-mogok-sayadaw/pt12-c
 
 - 22.) `True Dhamma and Counterfeit Dhamma <{filename}dhamma-talks-by-mogok-sayadaw/pt12-22-true-dhamma-and-counterfeit-dhamma%zh.rst>`_ (N/A)
 
+- 23.) `Transcending of Time <{filename}dhamma-talks-by-mogok-sayadaw/pt12-23-transcending-of-time%zh.rst>`_ (N/A)
+
 ------
 
 .. _18days_in_Solitude:
@@ -659,9 +661,9 @@ the translator : Ven. Uttamo (鄔達摩尊者）
      - `Day 02: 18th October, 2002 <{filename}eighteen-days-in-solitude/day02-2002-10-18%zh.rst>`_
      - `Day 03: 19th October, 2002 <{filename}eighteen-days-in-solitude/day03-2002-10-19%zh.rst>`_
    * - `Day 04: 20th October, 2002 <{filename}eighteen-days-in-solitude/day04-2002-10-20%zh.rst>`_
-     - `Day 05: 21th October, 2002 <{filename}eighteen-days-in-solitude/day05-2002-10-21%zh.rst>`_
-     - `Day 06: 22th October, 2002 <{filename}eighteen-days-in-solitude/day06-2002-10-22%zh.rst>`_
-     - `Day 07: 23th October, 2002 <{filename}eighteen-days-in-solitude/day07-2002-10-23%zh.rst>`_
+     - `Day 05: 21st October, 2002 <{filename}eighteen-days-in-solitude/day05-2002-10-21%zh.rst>`_
+     - `Day 06: 22nd October, 2002 <{filename}eighteen-days-in-solitude/day06-2002-10-22%zh.rst>`_
+     - `Day 07: 23rd October, 2002 <{filename}eighteen-days-in-solitude/day07-2002-10-23%zh.rst>`_
    * - `Day 08: 24th October, 2002 <{filename}eighteen-days-in-solitude/day08-2002-10-24%zh.rst>`_
      - `Day 09: 25th October, 2002 <{filename}eighteen-days-in-solitude/day09-2002-10-25%zh.rst>`_
      - `Day 10: 26th October, 2002 <{filename}eighteen-days-in-solitude/day10-2002-10-26%zh.rst>`_
@@ -669,10 +671,10 @@ the translator : Ven. Uttamo (鄔達摩尊者）
    * - `Day 12: 28th October, 2002 <{filename}eighteen-days-in-solitude/day12-2002-10-28%zh.rst>`_
      - `Day 13: 29th October, 2002 <{filename}eighteen-days-in-solitude/day13-2002-10-29%zh.rst>`_
      - `Day 14: 30th October, 2002 <{filename}eighteen-days-in-solitude/day14-2002-10-30%zh.rst>`_
-     - `Day 15: 31th October, 2002 <{filename}eighteen-days-in-solitude/day15-2002-10-31%zh.rst>`_
-   * - `Day 16: 1th November, 2002 <{filename}eighteen-days-in-solitude/day16-2002-11-01%zh.rst>`_
-     - `Day 17: 2th November, 2002 <{filename}eighteen-days-in-solitude/day17-2002-11-02%zh.rst>`_
-     - `Day 18: 3th November, 2002 <{filename}eighteen-days-in-solitude/day18-2002-11-03%zh.rst>`_
+     - `Day 15: 31st October, 2002 <{filename}eighteen-days-in-solitude/day15-2002-10-31%zh.rst>`_
+   * - `Day 16: 1st November, 2002 <{filename}eighteen-days-in-solitude/day16-2002-11-01%zh.rst>`_
+     - `Day 17: 2nd November, 2002 <{filename}eighteen-days-in-solitude/day17-2002-11-02%zh.rst>`_
+     - `Day 18: 3rd November, 2002 <{filename}eighteen-days-in-solitude/day18-2002-11-03%zh.rst>`_
      - `full text <{filename}eighteen-days-in-solitude/eighteen-days-in-solitude-full-text%zh.rst>`_
 
 ------
@@ -680,6 +682,8 @@ the translator : Ven. Uttamo (鄔達摩尊者）
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  12-02 add: part 12-23. Transcending of Time
+  11-13 rev. ordinal number
   10-02 rev. proofread by bhante
   09-12 rev. proofread by bhante; pt07-15- Tanhā and Kamma; old: Craving and Action
   08-12 rev. proofread by bhante; old: (pt06-15-- Vipassanā is Knowledge or Action?)
