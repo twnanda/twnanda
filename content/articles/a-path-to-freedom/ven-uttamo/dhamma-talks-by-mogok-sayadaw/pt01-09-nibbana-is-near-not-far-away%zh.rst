@@ -1,12 +1,12 @@
 ==========================================
-Nibbāna Is Near ; Not Far Away
+Nibbāna Is Near; Not Far Away
 ==========================================
 
 :date: 2019-01-13
 :modified: 2019-04-20
 :tags: Nibbāna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
-:summary: Nibbāna Is Near ; Not Far Away (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: Nibbāna Is Near; Not Far Away (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
 revised on 2019-04-20
 

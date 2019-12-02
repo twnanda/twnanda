@@ -1,12 +1,12 @@
 ==========================================
-Samatha And Vipassanā
+Samatha and Vipassanā
 ==========================================
 
 :date: 2019-01-13
 :modified: 2019-04-20
 :tags: Samatha, Vipassanā, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
-:summary: Samatha And Vipassanā (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: Samatha and Vipassanā (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
 revised on 2019-04-20
 

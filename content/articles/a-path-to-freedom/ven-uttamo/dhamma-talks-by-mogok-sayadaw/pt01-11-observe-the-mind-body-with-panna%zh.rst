@@ -1,12 +1,12 @@
 ==========================================
-Observe The Mind-Body With Paññā
+Observe the Mind-Body with Paññā
 ==========================================
 
 :date: 2019-01-13
 :modified: 2019-04-20
 :tags: Mind-Body, paññā, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
-:summary: Observe The Mind-Body With Paññā (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: Observe the Mind-Body with Paññā (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
 revised on 2019-04-20
 
