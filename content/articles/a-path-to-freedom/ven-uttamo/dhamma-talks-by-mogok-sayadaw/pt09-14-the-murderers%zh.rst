@@ -3,12 +3,12 @@ The Murderers
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-11-05
+:modified: 2019-12-02
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Murderers (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2019-12-02
 
 ------
 
@@ -30,7 +30,7 @@ He couldn’t make it because death came early. Death was staying with him. I wa
 
 Sayadaw met him in Rangoon a month before this talk. And Sayadaw was urging him for the practice. His reply was he couldn’t die yet. When he wanted to come, he couldn’t make it.)
 
-Contemplation of impermanence is killing the murderers. Every time seeing the five khandhas, contemplate as murderers and dukkha sacca. In the Rādha Sutta (SN.22.71 Rādhasuttaṃ??), the Buddha asked us to do this even when the killer is holding his knife on our neck. 
+Contemplation of impermanence is killing the murderers. Every time seeing the five khandhas, contemplate as murderers and dukkha sacca. In the Rādha Sutta (SN.22.71 Rādhasuttaṃ), the Buddha asked us to do this even when the killer is holding his knife on our neck.
 
 But if you are still indulging in pleasure with wife, children and wealth, you are really blind and crazy. Whatever is arising, contemplate as dukkha sacca. The Buddha taught in different ways for contemplation. If condense all of them, only dukkha sacca. 
 
@@ -50,7 +50,7 @@ Ven. Rādha asked, “What’s the benefit of Fruition Knowledge?” The Buddha 
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35997#p35997 (posted on 2019-02-21)
+revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35997#p35997 (posted on 2019-02-21)
 
 ------
 
@@ -69,5 +69,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  12-02 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-27  create rst; post on 04-28

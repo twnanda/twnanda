@@ -3,12 +3,12 @@ Mistaken with Nibbāna
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-11-05
+:modified: 2019-12-02
 :tags: Nibbāna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Mistaken with Nibbāna (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2019-12-02
 
 ------
 
@@ -50,9 +50,11 @@ They didn’t busy with other things. Therefore, they finished their practices v
 
 Therefore, they can’t discern impermanence or very weak in their discernments. These five points (from ① light to ⑤ happiness) are from the side of contemplative mind (ñāṇa or ārammaṇika) for making the conclusion. Now I’ll make the conclusion from the side of objects (ārammaṇa).
 
-If you see light (i.e., object), have to make the conclusion that it’s only vipassanā ñāṇa (i.e., not the Path Knowledge). Still seeing conditioned phenomena — saṅkhata is vipassanā ñāṇa. Seeing unconditioned asaṅkhata is Path Knowledge (without objects — the five khandhas); here (??) making the conclusion with knowledge (ñāṇa).
+You have to make the conclusion that it’s only vipassanā ñāṇa (i.e., not the Path Knowledge) if you see light (i.e., object). Still seeing conditioned phenomena — saṅkhata is vipassanā ñāṇa. Seeing the unconditioned (asaṅkhata) is the Path Knowledge (without the objects of the five khandhas). 
 
-If you still seeing impermanence of the sec ② (i.e., five khandhas — D. A. process), you have to make the conclusion that it’s never Nibbāna. The seeing knowledge is not the Path Knowledge. Only all of the sec ② are ceased is Nibbāna and Path Knowledge. Insight knowledge seeing dukkha sacca and Path Knowledge seeing dukkha nirodha and both are right views.
+Here making the conclusion with knowledge (ñāṇa):If you still seeing impermanence of the sec ② (i.e., the five khandhas in the D. A. process), you have to make the conclusion that it’s never Nibbāna.
+
+Therefore, the seeing knowledge is not the Path Knowledge. Only all of the sec ② are ceased is Nibbāna and Path Knowledge. Insight knowledge seeing dukkha sacca and Path Knowledge seeing dukkha nirodha and both are right views.
 
 These are the right series of the practice. Sec ② contemplate sec ② becomes present moment (i.e., saṅkhāra contemplates saṅkhāra). In the Milinda Pañha, Ven. Nāgasena said to King Milinda, “From seeing impermanence and the mind (ñāṇa) turns towards no impermanence is Nibbāna.” Impermanence stays as it is, but the mind (ñāṇa) turns towards no impermanence.
 
@@ -96,7 +98,7 @@ You have to contemplate the impermanence of the arising counterfeit dhamma. Or n
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35995#p35995 (posted on 2019-02-21)
+revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35995#p35995 (posted on 2019-02-21)
 
 ------
 
@@ -115,5 +117,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  12-02 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-27  create rst; post on 04-28

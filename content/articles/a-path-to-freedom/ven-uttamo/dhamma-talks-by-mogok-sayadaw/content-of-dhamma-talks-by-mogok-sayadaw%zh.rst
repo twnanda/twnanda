@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2019-10-02
+:modified: 2019-12-02
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -538,7 +538,7 @@ _`Part 11` ( `content of Part 11 <{filename}pt11-content-of-part11%zh.rst>`_ )
 
 - 3.) `What Is the Most Important Thing? <{filename}pt11-03-what-is-the-most-important-thing%zh.rst>`_ (1961-03-19)
 
-- 4.) `Simple and Direct <{filename}pt11-04-simple-and-direct%zh.rst>`_ (1961-08-16)
+- 4.) `The Process of Existing and Not-Existing <{filename}pt11-04-process-of-existing-and-not-existing%zh.rst>`_ (1961-08-16)
 
 - 5.) `The End of the World (B) <{filename}pt11-05-the-end-of-the-world-b%zh.rst>`_ (1961-10-28)
 
@@ -552,11 +552,11 @@ _`Part 11` ( `content of Part 11 <{filename}pt11-content-of-part11%zh.rst>`_ )
 
 - 10.) `Two Ways of Dying <{filename}pt11-10-two-ways-of-dying%zh.rst>`_ (1962-08-29)
 
-- 11.) `Dependency is Wavering <{filename}pt11-11-dependency-is-wavering%zh.rst>`_ (N/A)
+- 11.) `Dependency Is Wavering <{filename}pt11-11-dependency-is-wavering%zh.rst>`_ (N/A)
 
 - 12.) `The Creator <{filename}pt11-12-the-creator%zh.rst>`_ (N/A)
 
-- 13.) `Not a Soul, an Intrinsic Nature <{filename}pt11-13-not-a-soul-an-intrinsic-nature%zh.rst>`_ (No Beings, Nor Souls and Only Intrinsive Nature) (N/A) 
+- 13.) `Not a Soul, Only an Intrinsic Nature <{filename}pt11-13-not-a-soul-only-an-intrinsic-nature%zh.rst>`_ (N/A)
 
 - 14.) `Why Can't Discern Dukkha? <{filename}pt11-14-why-cannot-discern-dukkha%zh.rst>`_ (N/A)
 
@@ -598,13 +598,13 @@ _`Part 12` ( `content of Part 12 <{filename}pt12-content-of-part12%zh.rst>`_ )
 
 - 5.) `Dependent Arising and the Taints <{filename}pt12-05-dependent-arising-and-the-taints%zh.rst>`_ (N/A)
 
-- 6.) `Dangers the Worldlings Can't Escape <{filename}pt12-06-dangers-the-worldlings-cannot-escape%zh.rst>`_ (N/A)
+- 6.) `Dangers That the Worldling Can’t Escape <{filename}pt12-06-dangers-that-the-worldlings-cannot-escape%zh.rst>`_ (N/A)
 
 - 7.) `Just Intrinsic Nature <{filename}pt12-07-just-intrinsic-nature%zh.rst>`_ (N/A)
 
 - 8.) `Ignorance and Craving <{filename}pt12-08-ignorance-and-craving%zh.rst>`_ (N/A)
 
-- 9.) `Everyone is a Thief <{filename}pt12-09-everyone-is-a-thief%zh.rst>`_ (N/A)
+- 9.) `Everyone Is a Thief <{filename}pt12-09-everyone-is-a-thief%zh.rst>`_ (N/A)
 
 - 10.) `Concept, Reality and Wise Attention <{filename}pt12-10-concept-reality-and-wise-attention%zh.rst>`_ (N/A)
 
@@ -632,9 +632,11 @@ _`Part 12` ( `content of Part 12 <{filename}pt12-content-of-part12%zh.rst>`_ )
 
 - 22.) `True Dhamma and Counterfeit Dhamma <{filename}pt12-22-true-dhamma-and-counterfeit-dhamma%zh.rst>`_ (N/A)
 
+- 23.) `Transcending of Time <{filename}pt12-23-transcending-of-time%zh.rst>`_ (N/A)
+
 ------
 
-revised on 2019-10-02
+revised on 2019-12-02
 
 ------
 
@@ -645,6 +647,7 @@ revised on 2019-10-02
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  12-02 add: Part 12-23 Transcending of Time 
   10-02 rev. proofread by bhante
   09-12 rev. proofread by bhante; pt07-15- Tanhā and Kamma; old: Craving and Action
   08-12 rev. proofread by bhante; old: (pt06-15-- Vipassanā is Knowledge or Action?)

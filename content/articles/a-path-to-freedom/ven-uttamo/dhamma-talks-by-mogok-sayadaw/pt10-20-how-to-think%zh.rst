@@ -3,12 +3,12 @@ How to Think?
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-11-05
+:modified: 2019-12-02
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: How to Think? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2019-12-02
 
 ------
 
@@ -22,7 +22,7 @@ One’s own thoughts are tormenting oneself. One’s khandha and others’ khand
 
 The Buddha taught us how to think (from the Saṁyutta Nikāya). All thoughts come from wrong views (diṭṭhi). For example, if I am old it’s quite difficult for me. This is thinking with diṭṭhi. You’re going to the apāya (woeful plane) from the sleeping bed. With thinking and not-self becomes self is thought of wrong view. In the Saṁyutta, the Buddha taught us to think for Nibbāna and not to think for apāyas (painful births).
 
-Start with thinking: Where is ageing and death (jarā, maraṇa) coming from? (or) Where are these two dukkhas coming from? Then, it becomes right view (sammādiṭṭhi). The ageing and death are dukkha sacca and thinking is becoming magga sacca.
+Start with thinking: Where do ageing and death (jarā, maraṇa) come from? Where do these two dukkhas come from? Then, it becomes right view (sammādiṭṭhi). The ageing and death are dukkha sacca and thinking is becoming magga sacca.
 
 It comes with right thought. This is thinking what is existing and not with what is not existing. Ageing and death arise by birth (jāti). Here jāti becomes samudaya sacca (the cause of dukkha). Again; where is birth coming from? Birth is dukkha sacca and thinking is magga sacca. 
 
@@ -48,7 +48,7 @@ Even though still has the khandha the yogi sees Nibbāna, with the cessation of 
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36221#p36221 (posted on 2019-04-01)
+revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36221#p36221 (posted on 2019-04-01)
 
 ------
 
@@ -67,5 +67,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  12-02 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-29  create rst; post on 05-01

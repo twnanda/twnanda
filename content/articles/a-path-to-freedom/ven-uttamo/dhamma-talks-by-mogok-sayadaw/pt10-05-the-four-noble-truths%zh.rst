@@ -3,12 +3,12 @@ The Four Noble Truths
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-11-05
+:modified: 2019-12-02
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Four Noble Truths (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2019-12-02
 
 ------
 
@@ -34,11 +34,11 @@ So people have identity view and believe in law of kamma can create wholesome an
 
 (a) Pīḷanāṭṭha (Pīḷana-aṭṭha) – Oppressive 
 
-[ The first meaning of the truth of suffering is pīḷanāṭṭha which is oppressive. The mind and body oppress, torture and torment the owner who attaches to them. For discerning their nature the Buddha gave the analogy of a mother gave birth to a twin to represent the mind and the body. The mind baby was without hands and legs, and also with mental disability like a lunatic. So the baby was physically and mentally handicapped. The Buddha was very skillful in using metaphors, analogies and similes to teach people.
+[ The first meaning of the truth of suffering is pīḷanāṭṭha which is oppressive. The mind and body oppress, torture and torment the owner who attaches to them. For discerning of their nature the Buddha gave the analogy of a mother gave birth to a twin to represent the mind and the body. The mind baby was without hands and legs, and also with mental disability like a lunatic. So the baby was physically and mentally handicapped. The Buddha was very skillful in using metaphors, analogies and similes to teach people.
 
 The body baby was with blind eyes and had the disease of stomach problem. Why the Buddha gave these analogies? These twins were very similar to the mind and body. The mind cannot move by itself and has to depend on the body. So it had to be without hands and feet. The mind is also polluted with defilements and becomes abnormal. This is a crazy mind and like a lunatic. 
 
-The body cannot see without the mind. So it was blind. It had to depend on the mind. The physical body was made by rūpa – form or matter. Rūpa means rūppati – to be deformed or afflicted, disturbed, oppressed, broken. Rūpa is so called because it undergoes and imposes alternation owing to adverse physical conditions. It is deformed by cold, heat, hunger, thirst, flies, mosquitoes, wind, sunburn, etc. So it is like a disease. Therefore the body baby had stomach disease.
+The body cannot see without the mind. So it was blind. It had to depend on the mind. The physical body was made up by rūpa – form or matter. Rūpa means rūppati – to be deformed or afflicted, disturbed, oppressed, broken. Rūpa is so called because it undergoes and imposes alternation owing to adverse physical conditions. It is deformed by cold, heat, hunger, thirst, flies, mosquitoes, wind, sunburn, etc. So it is like a disease. Therefore the body baby had stomach disease.
 
 For a mother, there are a lot of sufferings and difficulties to look after these two children all the time. Here the mother is someone who had and owned the mind-body (beings). Outside the Buddha's teachings, hermits or spiritual people were practising jhānas, both material and immaterial jhānas. Some disgusted with the mind born as non-percipient beings that had only body and no mind. Some disgusted with the body born as beings without the body and only mind. Both groups missed the point and could not transcend dukkha. Nowadays human beings are with over greed and selfishness and polluting the physical world including one's own body and the environments. Therefore the oppressive nature of mind and body become more evident. These are oppressive dukkha created by human beings un-necessarily. Human beings are becoming so crazy that take it as a pleasure and enjoyment (so silly).
 
@@ -257,7 +257,7 @@ Whatever mind arises contemplate impermanence. After that, continue to contempla
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36067#p36067 (posted on 2019-03-03)
+revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36067#p36067 (posted on 2019-03-03)
 
 ------
 
@@ -276,5 +276,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  12-02 rev. proofread by bhante; (a) Pīḷanāṭṭha (Pīḷana-aṭṭha) – Oppressive
   11-05 rev. proofread by bhante
   2019-04-29  create rst; post on 05-01

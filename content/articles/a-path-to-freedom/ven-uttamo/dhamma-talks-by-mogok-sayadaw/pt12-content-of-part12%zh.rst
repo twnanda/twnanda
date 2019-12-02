@@ -3,7 +3,7 @@ Content of Part 12 on Dhamma Talks by Mogok Sayadaw
 ====================================================
 
 :date: 2019-05-01
-:modified: 2019-05-01
+:modified: 2019-12-02
 :tags: Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Part 12 on Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -20,13 +20,13 @@ _`Part 12`
 
 - 5.) `Dependent Arising and the Taints <{filename}pt12-05-dependent-arising-and-the-taints%zh.rst>`_ (N/A)
 
-- 6.) `Dangers the Worldlings Can't Escape <{filename}pt12-06-dangers-the-worldlings-cannot-escape%zh.rst>`_ (N/A)
+- 6.) `Dangers That the Worldling Can’t Escape <{filename}pt12-06-dangers-that-the-worldlings-cannot-escape%zh.rst>`_ (N/A)
 
 - 7.) `Just Intrinsic Nature <{filename}pt12-07-just-intrinsic-nature%zh.rst>`_ (N/A)
 
 - 8.) `Ignorance and Craving <{filename}pt12-08-ignorance-and-craving%zh.rst>`_ (N/A)
 
-- 9.) `Everyone is a Thief <{filename}pt12-09-everyone-is-a-thief%zh.rst>`_ (N/A)
+- 9.) `Everyone Is a Thief <{filename}pt12-09-everyone-is-a-thief%zh.rst>`_ (N/A)
 
 - 10.) `Concept, Reality and Wise Attention <{filename}pt12-10-concept-reality-and-wise-attention%zh.rst>`_ (N/A)
 
@@ -54,6 +54,8 @@ _`Part 12`
 
 - 22.) `True Dhamma and Counterfeit Dhamma <{filename}pt12-22-true-dhamma-and-counterfeit-dhamma%zh.rst>`_ (N/A)
 
+- 23.) `Transcending of Time <{filename}pt12-23-transcending-of-time%zh.rst>`_ (N/A)
+
 ------
 
 - `Content <{filename}content-of-dhamma-talks-by-mogok-sayadaw%zh.rst>`__ of "Dhamma Talks by Mogok Sayadaw"
@@ -64,9 +66,8 @@ _`Part 12`
 
 ------
 
-**This is only an experimental WWW. It's always under construction (proofreading, revising)!**
-
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  05-01 create 
+  12-02 add: 23. Transcending of Time 
+  2019-05-01 create 

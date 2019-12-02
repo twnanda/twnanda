@@ -3,12 +3,12 @@ Conditioned and Unconditioned
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-09-12
+:modified: 2019-12-02
 :tags: Conditioned, Unconditioned, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Conditioned and Unconditioned (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-09-12
+revised on 2019-12-02
 
 ------
 
@@ -34,7 +34,7 @@ Ven. Puṇṇa asked them; “Form is permanent or impermanent?” If it’s imp
 
 ------
 
-revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35860#p35860 (posted on 2019-01-18)
+revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35860#p35860 (posted on 2019-01-18)
 
 ------
 
@@ -53,5 +53,6 @@ revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  12-02 rev. proofread by bhante
   09-12 rev. proofread by bhante
   2019-04-25  create rst; post on 04-28

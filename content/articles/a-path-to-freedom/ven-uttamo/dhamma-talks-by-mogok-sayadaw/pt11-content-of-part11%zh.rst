@@ -3,7 +3,7 @@ Content of Part 11 on Dhamma Talks by Mogok Sayadaw
 ====================================================
 
 :date: 2019-05-01
-:modified: 2019-05-01
+:modified: 2019-12-02
 :tags: Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Part 11 on Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -16,7 +16,7 @@ _`Part 11`
 
 - 3.) `What Is the Most Important Thing? <{filename}pt11-03-what-is-the-most-important-thing%zh.rst>`_ (1961-03-19)
 
-- 4.) `Simple and Direct <{filename}pt11-04-simple-and-direct%zh.rst>`_ (1961-08-16)
+- 4.) `The Process of Existing and Not-Existing <{filename}pt11-04-process-of-existing-and-not-existing%zh.rst>`_ (1961-08-16)
 
 - 5.) `The End of the World (B) <{filename}pt11-05-the-end-of-the-world-b%zh.rst>`_ (1961-10-28)
 
@@ -30,11 +30,11 @@ _`Part 11`
 
 - 10.) `Two Ways of Dying <{filename}pt11-10-two-ways-of-dying%zh.rst>`_ (1962-08-29)
 
-- 11.) `Dependency is Wavering <{filename}pt11-11-dependency-is-wavering%zh.rst>`_ (N/A)
+- 11.) `Dependency Is Wavering <{filename}pt11-11-dependency-is-wavering%zh.rst>`_ (N/A)
 
 - 12.) `The Creator <{filename}pt11-12-the-creator%zh.rst>`_ (N/A)
 
-- 13.) `Not a Soul, an Intrinsic Nature <{filename}pt11-13-not-a-soul-an-intrinsic-nature%zh.rst>`_ (No Beings, Nor Souls and Only Intrinsive Nature) (N/A) 
+- 13.) `Not a Soul, Only an Intrinsic Nature <{filename}pt11-13-not-a-soul-only-an-intrinsic-nature%zh.rst>`_ (N/A)
 
 - 14.) `Why Can't Discern Dukkha? <{filename}pt11-14-why-cannot-discern-dukkha%zh.rst>`_ (N/A)
 
@@ -74,9 +74,8 @@ _`Part 11`
 
 ------
 
-**This is only an experimental WWW. It's always under construction (proofreading, revising)!**
-
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  12-02 rev. proofread by bhante
   04-29 create; post on 05-01
