@@ -3,12 +3,12 @@ Craving and Suffering
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-11-05
+:modified: 2019-11-08
 :tags: Craving, Suffering, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Craving and Suffering (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2019-11-08
 
 ------
 
@@ -86,9 +86,9 @@ What are the differences between cintayamāna ñāṇa and bhāvanāmaya ñāṇ
 
 Let a time for the reflection. And let a time for observing. In this way it becomes quicker in the practice. It's cintayamāna to reflect on one’s own khandha with truths. Contemplation of impermanence is bhāvanāmaya. With these two practices kilesas not easily come in between the practice. 
 
-What’re the differences between less and more bhavaṅga cittas? It is a dukkha pati-pada person (pracitce with difficulties) with more bhavaṅga cittas. It has connection with kilesas. Contemplation without reflection and the realization is slow.
+What’re the differences between less and more bhavaṅga cittas? It is a dukkha paṭipadā person (pracitce with difficulties) with more bhavaṅga cittas. It has connection with kilesas. Contemplation without reflection and the realization is slow.
 
-[How to use cintayamāna and bhāvanāmaya ñāṇa? Sayadaw said cintayamāna was helpful to stop kilesas coming in during vipassanā. He encouraged yogis as before sitting should reflect dukkha or the dangers of taṇhā (i.e., cintayamāna and then sit for bhāvanāmaya. More bhavaṅga citta means with more kilesas or dukkha pati-pada person.] 
+[How to use cintayamāna and bhāvanāmaya ñāṇa? Sayadaw said cintayamāna was helpful to stop kilesas coming in during vipassanā. He encouraged yogis as before sitting should reflect dukkha or the dangers of taṇhā (i.e., cintayamāna and then sit for bhāvanāmaya. More bhavaṅga citta means with more kilesas or dukkha paṭipadā person.] 
 
 Taṇhā connects to kamma, to consciousness, to mind/body, etc. Except magga paccayo – path condition, everything is made and connected by taṇhā. Making it into a cycle and is called oghā – floods. Without thoughts and ñāṇa is not right. Including the Bodhisatta and wise people were also using it. 
 
@@ -100,7 +100,7 @@ These are the two points of pīḷanāṭṭha – oppression. Saṅkhatāṭṭ
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36212#p36212 (posted on 2019-03-31)
+revised on 2019-11-08; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36212#p36212 (posted on 2019-03-31)
 
 ------
 
@@ -119,5 +119,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  11-05 rev. paṭipadā; old: pati-pada
   11-05 rev. proofread by bhante
   2019-04-29  create rst; post on 05-01
