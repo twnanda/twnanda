@@ -2,7 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2019-05-16
+:modified: 2019-12-03
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -46,7 +46,7 @@
 
 ----
 
-.. _unexpected-freedom:
+.. _unexpected_freedom:
 
 - UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
@@ -107,15 +107,15 @@
 
 ----
 
+- `Maṅgala Sutta – Protection with Blessing <{filename}/articles/a-path-to-freedom/ven-uttamo/protection-with-blessings/content-of-protection-with-blessings%zh.rst>`_ : (in English)《吉祥經》（尊者　 **鄔達摩長老** 編著，英文）
+
 - `Dhmma Talks by Mogok Sayadaw <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`_ : Translation based on the recorded tapes by **Ven. Uttamo thera** （尊者　 **莫哥西亞多** 開示錄；由　尊者　 **鄔達摩　長老** 　自緬甸語錄音帶譯為 **英文** ）
 
-  * `莫哥西亞多 <http://wiki.sutta.org/wiki/%E8%8E%AB%E5%93%A5%E8%A5%BF%E4%BA%9A%E5%A4%9A>`__ ( `上座部佛教百科 <http://wiki.sutta.org/wiki/%E9%A6%96%E9%A1%B5>`__ ， **中文** ) 
+  * `莫哥西亞多 <http://wiki.sutta.org/wiki/%E8%8E%AB%E5%93%A5%E8%A5%BF%E4%BA%9A%E5%A4%9A>`__ (上座部佛教百科， **中文** ) 
 
   * `莫哥西亞多文獻及翻譯 <http://wiki.sutta.org/wiki/Portal:%E6%96%87%E7%8C%AE%E5%8F%8A%E7%BF%BB%E8%AF%91#.E8.8E.AB.E5.93.A5.E8.A5.BF.E4.BA.9A.E5.A4.9A>`__ (上座部佛教百科， **中文** ) 
 
-  * `緬甸仰光莫哥禪修中心總部 <http://bbs.sutta.org/thread-4074-1-1.html>`__ ( `上座部佛教資訊區 <http://bbs.sutta.org/>`__ ， **中文** )
-
-  * `莫哥內觀禪法禪修營 <http://dhamma.top/bbs/viewtopic.php?f=4&t=342>`_ (2019年9月，苗栗縣三義鄉八股路21號)
+  * `緬甸仰光莫哥禪修中心總部 <http://bbs.sutta.org/thread-4074-1-1.html>`__ (上座部佛教資訊區， **中文** 
 
 - `Eighteen Days In Solitude <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#eighteen-days-in-solitude>`_ --Instructional Dhamma Talks in Retreat, By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo thera** （18天禪修營，尊者　 **阿締佳嵐溪長老** 開示錄；由　尊者　 **鄔達摩長老** 　自緬甸語錄音帶譯為 **英文** ）
 
@@ -192,7 +192,7 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
-  05-16 add: 莫哥西亞多 (上座部佛教百科，中文); 莫哥西亞多文獻及翻譯 (上座部佛教百科，中文); 緬甸仰光莫哥禪修中心總部 (上座部佛教資訊區，中文); 莫哥內觀禪法禪修營
+  12-03 add: Maṅgala Sutta – Protection with Blessing
   2019-02-06 rev. 《佛陀的啟示》post; editting 10-25 for rst; old:/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.html; replace Nanaransi (Ñāṇaransi ?) (01-13) with Ādiccaramsī
   2019-01-03 add: Dhmma Talks by Mogok Sayadaw & Eighteen Days In Solitude (translator: Ven. Uttamo thera, English) (add on 2018-12-28; finish on 2019-01-03)
   2018.04.11 rev. 《佛陀》 増谷文雄　著 original URL on Dhammarain (old: http://www.dhammarain.org.tw/books/Autobiography-of-buddha/
