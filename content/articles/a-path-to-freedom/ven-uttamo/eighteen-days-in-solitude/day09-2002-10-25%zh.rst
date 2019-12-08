@@ -3,12 +3,12 @@ Day 9: 25th October, 2002 (Eighteen Days In Solitude-- Instructional Dhamma Talk
 ===============================================================================================
 
 :date: 2019-01-13
-:modified: 2019-12-05
+:modified: 2019-12-08
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Day 9: 25th October, 2002 (Eighteen Days In Solitude-- Instructional Dhamma Talks in Retreat)
 
-revised on 2019-12-05
+revised on 2019-12-08
 
 ------
 
@@ -26,13 +26,13 @@ It’s like the example of a tiger hidden behind a bush and waiting to catch its
 
 (The four great elements show their changing nature – vipariṇāma lakkhaṇa, i.e., characteristics of change in many different ways.) 
 
-These are the nature of earth element arises. This is the impermanence of earth element. It did not exist before; and now it’s arising. It existed a vanished one at the place of the new one arising (the old one disappears and a new one appears at the same place). For you to see this nature I showed you by breaking a stick. After the breaking and the broken stick appears and at the same time the good one disappears. We think that the arising and vanishing are separated. It doesn’t. At the arising place of the broken one, the good one vanishes. If something arises, something vanishes. In the arising nature includes the vanishing nature. Not to contemplate as the arising is before and the vanishing is after. 
+These are the nature of earth element arises. This is the impermanence of earth element. It did not exist before; and now it’s arising. Before, it existed; after, that it vanished; then the new one arises at the place (the old one disappears and a new one appears at the same place). For you to see this nature I showed you by breaking a stick. After the breaking and the broken stick appears and at the same time the good one disappears. We think that the arising and vanishing are separated. It doesn’t. At the arising place of the broken one, the good one vanishes. If something arises, something vanishes. In the arising nature includes the vanishing nature. Not to contemplate as the arising is before and the vanishing is after. 
 
 [By using logic, it could be confused. It depends on from which point we see it. With the D. A. process, it’s very clear. The Relational condition – Paṭṭhāna describes it clearer and profound. In the D. A. process: 
 ::
 
    cause → effect (cause) → effect, e.g. feeling (cause) →craving (effect)
-                                                                  (cause) → clinging (effect); etc.]
+                                                             craving (cause) → clinging (effect); etc.]
 
 
 You have to make it clear in your mind. The arising is replacing the old one. When a physical tightness arises and the non-tightness before is not existing anymore. In the beginning of sitting was no pain neutral feeling (upekkhā vedanā). Later painful feeling arises. It’s dukkha arising. At the time neutral feeling (upekkhā vedanā) vanishes. With ñāṇa (Burmese Pali word for nana) observes and knows that it’s not there anymore. If something arises and something exists before is not there. Abandoning its nature is called impermanence. So, something arises and one thing vanishes. And don’t look for it. This is one kind of impermanence.
@@ -52,7 +52,7 @@ Walking meditation is establishing Samādhi. But lifting, stepping, etc. are cha
 ------
 
 
-revised on 2019-12-05; cited from  https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35459#p35459 (posted on 2018-12-14)
+revised on 2019-12-08; cited from  https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35459#p35459 (posted on 2018-12-14)
 
 ------
 
@@ -67,6 +67,7 @@ revised on 2019-12-05; cited from  https://oba.org.tw/viewtopic.php?f=8&t=4021&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  12-08 rev. proofread by bhante
   12-05 rev. proofread by bhante
   2019-11-13 rev. proofread by nanda
   2018.12.27  create rst; post on 2019-01-13

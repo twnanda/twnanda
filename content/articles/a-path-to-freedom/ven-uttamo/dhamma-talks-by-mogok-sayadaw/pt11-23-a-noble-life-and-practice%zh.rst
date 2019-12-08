@@ -3,12 +3,12 @@ A Noble Life and Practice
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2019-12-08
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: A Noble Life and Practice (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2019-12-08
 
 ------
 
@@ -82,9 +82,9 @@ The significance of vipassanā and Path Knowledges are becoming clear for you. T
 
 Someone not discerns it, and may be a duhetuka person (Born with only has two wholesome roots. It can also possible that not put enough effort in the practice and not discern impermanence). You have to make the khandha and ñāṇa become a pair together. Usually khandha and kilesa are pairing together (Here referring to diṭṭhi, but all the other types of kilesa also are included). 
 
-At first, pair off the khandha with the noble practice of maggan (i.e., the five path factors). After that, pair the ending of the noble practice with the Path Knowledge. Isn’t Nibbāna far away or a very long journey?
+At first, the pair is the khandha with the noble practice of maggan (i.e., the five path factors). After that, it is the pair ending of the noble practice with the Path Knowledge. Isn’t Nibbāna far away or a very long journey?
 
-[ Here “pair” or “pair off” does not mean they are working together. For example, anicca / magga means the object of arising disappears and the contemplative mind (path factors) come in. Nicca / magga means Nibbāna arises with the cessation of all anicca and the Path Knowledge see “it”. Here “it” refers to these kinds of pair; anicca / magga and nicca (Nibbāna) / maggaṅga. In this way, defilement cannot come in between.]
+[ Here “pair” or “pair off” does not mean they are working together. For example, anicca / magga pair means the object of arising disappears and the contemplative mind (path factors) come in. Nicca / magga means Nibbāna arises with the cessation of all anicca and the Path Knowledge see “it”. Here “it” refers to these kinds of pair; anicca / magga and nicca (Nibbāna) / maggaṅga. In this way, defilement cannot come in between.]
 
 Don’t be confused with what others have said. You could decide that before not met a good teacher and could not attain the Path and Fruit Knowledges. Now, you meet with a good teacher and this life will be the ending of saṁsāra. With this view in your heart and should practice very hard. 
 
@@ -92,7 +92,7 @@ I’ll tell you the result of it. Before there were kammas following you for pus
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36302#p36302 (posted on 2019-04-12)
+revised on 2019-12-08; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36302#p36302 (posted on 2019-04-12)
 
 ------
 
@@ -111,5 +111,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  12-08 rev. proofread by bhante
   12-02 rev. proofread by bhante
   2019-04-30  create rst; post on 05-01

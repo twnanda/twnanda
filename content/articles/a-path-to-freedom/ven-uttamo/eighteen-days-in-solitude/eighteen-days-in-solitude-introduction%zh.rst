@@ -3,12 +3,12 @@ Introduction (Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat)
 ==================================================================================
 
 :date: 2019-01-13
-:modified: 2019-12-05
+:modified: 2019-12-08
 :tags: Introduction, Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Introduction (Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat)
 
-revised on 2019-12-05
+revised on 2019-12-08
 
 ------
 
@@ -38,7 +38,7 @@ Another incident was happening around 1971 or 1972, and he was still a teacher i
 
 She was a kind of vemānika peta (a kind of earthly supernatural spirit) and his daughter in past life. At that time he was a king in Shan State (something like a māhāraja in India). After she passed away in that life and born as a vemānika peta and looked after the treasures they left behind. He didn’t believe what she said and asked her to show him the evidences. So, the spirit with her psychic power gave him some ancient silver coins with a peacock symbol and letters on it in front of them via the possessed man. These ancient silver coins were from the time of the last Burmese Kingdom, i.e., Mandalay Era. The spirit granted him for other wishes and he asked for some ancient Buddha images. After a week passing by, they met again. This time the spirit gave him nine ancient Buddha images and some were made with gold.. As a vemānika peta, she was searching for him. She asked permission from him to become his daughter again. (Beings have strong attachment to each other.) She made a prediction to him that after she was born and he would resign his job as a university teacher. This youngest daughter was born to him in 1972 and later he also resigned his job as a teacher.
 
-After resigned his post as a teacher and he entered the movie films business. He studied books on movie art and then directed some movie films and opened classes for acting. One day during a class lecture on acting, a group of five persons were acting wrongly. So, he asked them to look into his eyes and talked to them how to do it. And then these people fell into the subconscious states. He was surprised and did not know what to do with them. But instantly he remembered that they were in the hypnotic states. He had been written a book on hypnotic before by reading some books on them. Now, he used this chance to make a test. He ordered them to cry and they cried. Asked them to laugh and laughing heartedly. Now knowing that he had this ability and from that day onwards he hypnotized people if had any chance. And also found out that he could cure their past lives related diseases which medicines had no effects. (This point is very well known in the west nowadays. Some psychologist and medical doctors had made researches and already written some books on them.)
+After resigned his post as a teacher and he entered the movie films business. He studied books on movie art and then directed some movie films and opened classes for acting. One day during a class lecture on acting, a group of five persons were acting wrongly. So, he asked them to look into his eyes and talked to them how to do it. And then these people fell into the subconscious states. He was surprised and did not know what to do with them. But instantly he remembered that they were in the hypnotic states. He had been written a book on hypnotic before by reading some books on them. Now, he used this chance to make a test. He ordered them to cry and they cried. Asked them to laugh and laughing heartedly. Now knowing that he had this ability and from that day onwards he hypnotized people if had any chance. And also found out that he could cure their past lives related diseases which medicines had no effects. (This point is very well known in the west nowadays. Some psychologists and medical doctors had made researches and already written some books on them.)
 
 One time he hypnotized one of his old university students. This male student in the hypnotic state told his past life which had connection with him. So, he was very interested and asked more information from him. He said that in that period he was their teacher and teaching on the art of warfare. And he had three daughters and the youngest one was now his present wife. It was a great shock for him, like a hammer hitting on his head. He couldn’t believe it. So, he had to try again with another student who was mentioned by the first student. This student also mentioned the same episode in the hypnotic state. He still unsatisfied with the result and wanted to try on his wife. At first his wife was rejected for sometimes. In the end he succeeded and in the hypnotic state also she confirmed the same episode as mentioned by the two students. 
 
@@ -62,7 +62,7 @@ Later he established a meditation centre there. Also, he was busy with moving ac
 
 ------
 
-revised on 2019-12-05; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35450 (posted on 2018-12-14)
+revised on 2019-12-08; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35450 (posted on 2018-12-14)
 
 ------
 
@@ -77,6 +77,7 @@ revised on 2019-12-05; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  12-08 rev. proofread by bhante
   12-05 rev. proofread by bhante
   11-13 rev. proofread by nanda
   2018.12.27  create rst; post on 2019-01-13

@@ -3,12 +3,12 @@ Transcending of Time
 ==========================================
 
 :date: 2019-12-02
-:modified: 2019-12-02
+:modified: 2019-12-08
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Transcending of Time (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2019-12-08
 
 ------
 
@@ -52,7 +52,7 @@ People pray for becoming eating stuffs for others if they don’t know the Dhamm
 
 23rd June 1961
 
-“You may ask ‘What is the fault to practice without Dhamma at home?’ The answer is: you are creating causes for getting khandhas every day. With every arising of lobha, dosa, and moha, you make kamma (see the D. A. chart). These are looking for ring of the Death. The khandhas are results and if you look for the causes; these are: avijjā → saṅkhāra → taṇhā → upādāna, kamma → soka, parideva, dukkha, domanassa which lead to miserable khandhas. (The whole series refer to the twelve links of D. A. process which leads to Dukkha.) Therefore, the Buddha said that only very few arriving to the blissful planes of existence.
+“You may ask ‘What is the fault to practice without Dhamma at home?’ The answer is: you are creating causes for getting khandhas every day. With every arising of lobha, dosa, and moha, you make kamma (see the D. A. chart). These are looking for King of the Death. The khandhas are results and if you look for the causes; these are: avijjā → saṅkhāra → taṇhā → upādāna, kamma → soka, parideva, dukkha, domanassa which lead to miserable khandhas. (The whole series refer to the twelve links of D. A. process which leads to Dukkha.) Therefore, the Buddha said that only very few arriving to the blissful planes of existence.
 
 Morning and night periods consume or extract our life span, physical form, strength and power from us. We have to make khandhas for them.
 
@@ -60,7 +60,7 @@ All these are looking for one’s own dukkha. Bodily and verbal actions can’t 
 
 Today I’ll talk about the contemplation of the mind. Lobha, dosa and moha minds are supporting the time (kala). Contemplate their impermanence if they come in. 
 
-Also contemplate the impermanence if other neutral minds such as seeing and hearing minds, etc. arise. (These are not delusion minds, they are only neutral minds; just seeing, just hearing.) No contemplation, and it becomes ignorance (avijjā), then will connect the D. A. process. Moha mind is the moving mind and doubting mind (vicikicchā). Whatever mind arises, just observe it. How to observe them? Observe them as they do still exist or not exist. It arises first for the observation. The observation comes in later. How do you think what will arise? You’ll see it does not exist, talking in short-observing one’s own mind; but after arising, you cannot find it is impermanent (anicca). Worldlings (puthujjana) are crazy and any stare mind will arise. It’s good enough if you observe whatever arising. It’s dukkha sacca that you see your own death. Therefore, impermanence is dukkha sacca; Knowing is magga sacca. At the time, the end of dukkha is nirodha sacca.”
+Also contemplate the impermanence if other neutral minds such as seeing and hearing minds, etc. arise. (These are not delusion minds, they are only neutral minds; just seeing, just hearing.) No contemplation, and it becomes ignorance (avijjā), then will connect the D. A. process. Moha mind is the moving mind and doubting mind (vicikicchā). Whatever mind arises, just observe it. How to observe them? Observe them as they do still exist or not exist. It arises first for the observation. The observation comes in later. How do you think what will arise? You’ll see it does not exist, talking in short-observing one’s own mind; but after arising, you cannot find it is impermanent (anicca). Worldlings (puthujjana) are crazy and any state of mind will arise. It’s good enough if you observe whatever arising. It’s dukkha sacca that you see your own death. Therefore, impermanence is dukkha sacca; Knowing is magga sacca. At the time, the end of dukkha is nirodha sacca.”
 
 ------
 
@@ -84,6 +84,10 @@ Kālikas are arisen by following the desire of the khandhas. Therefore, you have
 
 ------
 
+revised on 2019-12-08
+
+------
+
 - `Content <{filename}pt12-content-of-part12%zh.rst>`__ of Part 12 on "Dhamma Talks by Mogok Sayadaw"
 
 ------
@@ -99,4 +103,5 @@ Kālikas are arisen by following the desire of the khandhas. Therefore, you have
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  12-08 rev. proofread by bhante
   2019-12-02  create rst; post on 12-02

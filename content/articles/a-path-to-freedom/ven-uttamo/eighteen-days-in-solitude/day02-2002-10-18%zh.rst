@@ -3,16 +3,16 @@ Day 2: 18th October, 2002 (Eighteen Days In Solitude-- Instructional Dhamma Talk
 ===============================================================================================
 
 :date: 2019-01-13
-:modified: 2019-12-05
+:modified: 2019-12-08
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Day 2: 18th October, 2002 (Eighteen Days In Solitude-- Instructional Dhamma Talks in Retreat)
 
-revised on 2019-12-05
+revised on 2019-12-08
 
 ------
 
-We’ll continue to do the practice of stabilizing sati. The time reserve for the practice of satipaṭṭhāna is seven days. The work of sati is jhāna practice and not of knowledge. (Sīla, samādhi and paññā are included in the whole Satipaṭṭhāna practice. Therefore, the Mahasi system is right. At first, it will develop samādhi with right effort and sati to note every phenomenon arising. With strong samādhi and discerning anicca, the coarser objects are changed to refined objects, i.e., kaya, vedanā, citta and dhamma respectively. Mogok’s Sayadaw’s talk also supported to Mahasi system. Here, the Venerable only used one object; i.e., the breath to contemplate that was mentioned as jhāna practice.)
+We’ll continue to do the practice of stabilizing sati. The time reserve for the practice of satipaṭṭhāna is seven days. The work of sati is jhāna practice and not of knowledge. (Sīla, samādhi and paññā are included in the whole Satipaṭṭhāna practice. Therefore, the Mahasi system is right. At first, it will develop samādhi with right effort and sati to note every phenomenon arising. With strong samādhi and discerning anicca, it moves first from the coarser objects into refined objects, i.e., from kaya, vedanā, citta to dhamma respectively. Mogok’s Sayadaw’s talk also supported to Mahasi system. Here, the Venerable only used one object; i.e., the breath to contemplate that was mentioned as jhāna practice.)
 
 There’re five stages of the practice in strengthening sati. 
 
@@ -75,7 +75,7 @@ People think that practicing of sati is calming the mind. In reality, it purifie
 
 ------
 
-revised on 2019-12-05; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35452#p35452 (posted on 2018-12-14)
+revised on 2019-12-08; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35452#p35452 (posted on 2018-12-14)
 
 ------
 
@@ -90,6 +90,7 @@ revised on 2019-12-05; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  12-08 rev. proofread by bhante
   12-05 rev. proofread by bhante
   2019-11-13 rev. proofread by nanda
   2018.12.27  create rst; post on 2019-01-13
