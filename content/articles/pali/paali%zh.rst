@@ -2,7 +2,7 @@
 #################################
 
 :date: 2016-02-13T16:05+08:00
-:modified: 2018-12-17
+:modified: 2020-01-14
 :tags: Pali
 :category: 未分類
 :summary: 巴利語 Pali Language (Pāli Bhāsā)
@@ -95,6 +95,8 @@ Velthuis方案最初由Frans Velthuis在1991年為他給TEX排字系統設計的
 ----
 
 - `把【巴利專有名詞新音譯方案】的文字(例如苟答馬、阿拉漢、比庫等等)藉由 ms Word 巨集 回復為一般譯名(喬答摩、阿羅漢、比丘等等) <{filename}/extra/pali/pali-term-recover-normal-macro.html>`__ ； `PDF <{filename}/extra/pali/pali-term-recover-normal-macro.pdf>`__ ； 請參考： `〈「喬答摩」沒有必要「規範」為「果德瑪」〉迴響輯要  <{filename}/extra/pali/pali-term-change-response.html>`__ , `PDF <{filename}/extra/pali/pali-term-change-response.pdf>`__ 
+
+- `把【巴利專有名詞新音譯方案】的文字(例如苟答馬、阿拉漢、比庫等等)藉由 Google Chrome 擴充功能 回復為一般譯名(喬答摩、阿羅漢、比丘等等) <{filename}/extra/pali/pali-term-recover-normal-chrome-extension.html>`__ 
 
 ----
 
@@ -207,6 +209,7 @@ Velthuis方案最初由Frans Velthuis在1991年為他給TEX排字系統設計的
 .. [4] 佛光大辭典: `巴利語 <https://www.buddhistdoor.org/tc/dictionary/details/%E5%B7%B4%E5%88%A9%E8%AA%9E>`__
 
 ..
+  12.17 2018 add: Chrome 擴充功能 回復為一般譯名 
   12.17 2018 add 維基資料，some 辭典、文法
 
   05-05 2016 remove old-URL (NOT available) : 
