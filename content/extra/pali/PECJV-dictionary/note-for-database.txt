@@ -1,0 +1,41 @@
+進行步驟：
+1. 以 EmEditor 開啟 .csv (dict_words_1.csv & dict_words_2.csv)
+2. 另存新檔以為排序用（dict_words_1-sort-book-editing.csv）
+3. 編輯 → 分開的值 → CSV 模式 → 選擇欄（第三欄，書名） → 排序（從 A 到 Z）
+4. 進行分類：依原稿為
+   繁體之中文（dict_words_1-han.csv）、
+   簡體（simple dict_words_1-m.csv 《巴利语汇解》/巴利语汇解&巴利新音译）、
+   日文（dict_words_1-japan.csv）、
+   英文（dict_words_1-non-han-all.csv）
+
+   分類 → 搜尋（"B", "C", etc.）
+
+5. 原稿為繁體中文部份 → 簡體轉繁體：
+   a. 複製 dict_words_1-han.csv 後，上傳至 "純文字簡體轉繁體" （上傳檔案，支援 txt, csv, srt, ... https://txtconv.arpuli.com/ ）
+   b. 轉為繁體後下載檔案，取代 dict_words_1-han.csv 
+
+6. 英文部份（dict_words_1-non-han-all.csv），
+   a. 標點符號全形改為半形；即
+      "：" to  ": "
+      "，" to  ", " 
+      "．）" to  ".)"
+      "．" to  ". "
+      "）" to  ")"
+      "（" to  "("
+      "；" to  "; "
+      "＂" to  """
+      "“" to  """
+      "’" to  "'"
+      "？" to  "?"
+      "、" to  ", "
+      "＜" to  "<"
+      "。" to  "."
+
+   b. 完成後，於此檔（dict_words_1-non-han-all.csv）中擷取出 VRI dictionary（"I", ），另存dict_words_1-vri.csv
+
+7. 進行整合(merge)：
+   將四個檔案整合-- dict_words_1-non-han-all.csv, dict_words_1-japan.csv, dict_words_1-han.csv, dict_words_1-m.csv
+
+8. 編輯 → 分開的值 → 分類選項 → 點選 "穩定的排序" 及 "標點符號視為標誌" → 選擇欄（第四欄，詞條名） → 排序（從 A 到 Z）；命名為 dict_words_1_rev.csv
+
+9. dict_words_2.csv 參考以上步驟，重複執行一次。
