@@ -3,18 +3,25 @@ Having a Good / Ugly Look and Physical Structure (Maṅgala Sutta – Protection
 ==============================================================================================
 
 :date: 2019-12-03
-:modified: 2019-12-03
+:modified: 2020-02-27
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Having a Good / Ugly Look and Physical Structure (Maṅgala Sutta – Protection with Blessing)
+
+revised on 2020-02-27
+
+------
 
 By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 ------
 
+Having a good look and physical structure:
+
 Physical good look is important in the human world. A woman poor and low status but beautiful and attractive could reach to a higher status. Then her past good kamma has the chance to give good results. For example, a woman had beauty became a queen, consort, etc.
 
-Mrs. Simpson became the wife of King Edward had a good look. Do not say about human beings; even lovely and cute animals are looked after by wealthy people. Their lives are better than some human beings.
+Mrs. Simpson became the wife of King Edward because of having a good look. Do not talk about human; even beautiful and cute animals will be looked after by wealthy people. Their lives are even better than some human beings.
+
 
 Having an ugly look and physical structure:
 
@@ -24,7 +31,7 @@ A beautiful woman with an ugly husband and others will take him as her servant. 
 
 ------
 
-revised on 2019-12-03; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36796#p36796 (posted on 2019-09-21)
+revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36796#p36796 (posted on 2019-09-21)
 
 ------
 
@@ -39,4 +46,5 @@ revised on 2019-12-03; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

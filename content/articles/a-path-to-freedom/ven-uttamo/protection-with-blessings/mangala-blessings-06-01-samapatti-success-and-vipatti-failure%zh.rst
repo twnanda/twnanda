@@ -3,10 +3,14 @@ Samāpatti (success) and Vipatti (failure) (Maṅgala Sutta – Protection with 
 =======================================================================================
 
 :date: 2019-12-03
-:modified: 2019-12-03
+:modified: 2020-02-27
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Samāpatti (success) and Vipatti (failure) (Maṅgala Sutta – Protection with Blessing)
+
+revised on 2020-02-27
+
+------
 
 By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
@@ -33,7 +37,7 @@ The four successes (samāpatti):
 
 ------
 
-revised on 2019-12-03; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36789#p36794 (posted on 2019-09-21)
+revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36789#p36794 (posted on 2019-09-21)
 
 ------
 
@@ -48,4 +52,5 @@ revised on 2019-12-03; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst
