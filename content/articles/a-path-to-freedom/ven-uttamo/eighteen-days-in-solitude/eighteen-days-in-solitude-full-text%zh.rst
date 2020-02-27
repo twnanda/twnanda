@@ -3,17 +3,28 @@ Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat (Full Text)
 ===============================================================================
 
 :date: 2019-01-13
-:modified: 2019-11-13
+:modified: 2020-02-27
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat (Full Text)
 
-revised on 2019-11-13
+revised on 2020-02-27
 
 ------
 
 By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 
+------
+
+**Venerable U Ādiccaramsī** (1937-2002) Portrait
+
+.. image:: {filename}/extra/img/ven-adiccaramsi-portrait.jpg
+   :alt: Venerable U Ādiccaramsī's Portrait
+   :align: center
+   :height: 758px
+   :width: 454 px
+
+------
 
 .. list-table:: Eighteen Days in Solitude
    :widths: 20 20 20 20 20
@@ -90,7 +101,7 @@ With the sub-titled chapters in volume IV, we can justify the popularity of this
 
 One day he went to Sayagyi U Ba Khin’s Centre for ten days retreat. And he penetrated the four Noble Truths with direct experience, let go of his desire for the bodhisatta path. Described this experience in his last book, “Walking on the Path of Spiritual Knowledge” (came out in 2003). Later he gave up his wealth and family and ordained as a Buddhist monk in 1994. His ordination had two purposes: continuing his practice and giving lectures on Dependent Origination (Paṭiccasamuppāda) around Burma. The last purpose came from Mogok Sayadaw’s and Ledi Sayadaw’s teachings. After ordaining, he went to Taunggnoo, stayed in a forest and practising alone there for sometime. 
 
-Later he established a meditation centre there. Also, he was busy with moving across Burma and giving lectures on Paṭiccasamuppāda to all Buddhists who were inviting him. He was so popular that had a lot of invitations. Maybe overworked and health problems, he passed away in 2002. These instructional talks were giving in 2002, from 17th October to 3rd November. It even might be his last talks. He passed away in lower Burma. In one of his talks he mentioned to end his biography by writing on his life as a monk. He did not finish his biography and would never be. But one thing is sure that he will finish his spiritual journey in the near future because he had already on the straight and right path without any hindrances anymore.
+Later he established a meditation centre there. Also, he was busy with moving across Burma and giving lectures on Paṭiccasamuppāda to all Buddhists who were inviting him. He was so popular that had a lot of invitations. Maybe overworked and health problems, he passed away in 2002. These instructional talks were given in 2002, from 17th October to 3rd November. It even might be his last talks. He passed away in lower Burma. In one of his talks he mentioned to end his biography by writing on his life as a monk. He did not finish his biography and would never be. But one thing is sure that he will finish his spiritual journey in the near future because he had already on the straight and right path without any hindrances anymore.
 
 ------
 
@@ -852,7 +863,7 @@ First, factors of enlightenment arise (i.e., bojjhaṅga dhammas). And then the 
 
 ------
 
-revised on 2019-12-05; cited from  https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35449 (posted on 2018-12-14)
+revised on 2020-02-27; cited from  https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35449 (posted on 2018-12-14)
 
 ------
 
@@ -867,6 +878,7 @@ revised on 2019-12-05; cited from  https://oba.org.tw/viewtopic.php?f=8&t=4021&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-02-27 add: Venerable U Ādiccaramsī's Portrait
   12-05 rev. proofread by bhante
   2019-11-13 rev. proofread by nanda
   2018.12.27  create rst; post on 2019-01-13

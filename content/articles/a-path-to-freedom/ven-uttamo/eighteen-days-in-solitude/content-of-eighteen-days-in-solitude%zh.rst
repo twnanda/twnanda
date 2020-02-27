@@ -3,10 +3,24 @@ Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
 ===============================================================================
 
 :date: 2019-11-13
-:modified: 2019-12-05
+:modified: 2020-02-27
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
+
+By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
+
+------
+
+**Venerable U Ādiccaramsī** (1937-2002) Portrait
+
+.. image:: {filename}/extra/img/ven-adiccaramsi-portrait.jpg
+   :alt: Venerable U Ādiccaramsī's Portrait
+   :align: center
+   :height: 379 px
+   :width: 227 px
+
+-----
 
 - `Introduction <{filename}eighteen-days-in-solitude-introduction%zh.rst>`_
 
@@ -57,4 +71,5 @@ Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-02-27 add: Venerable U Ādiccaramsī's Portrait
   2019-11-13 create

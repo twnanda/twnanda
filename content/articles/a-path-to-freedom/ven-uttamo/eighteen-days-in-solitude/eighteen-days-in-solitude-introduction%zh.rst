@@ -3,12 +3,12 @@ Introduction (Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat)
 ==================================================================================
 
 :date: 2019-01-13
-:modified: 2020-02-26
+:modified: 2020-02-27
 :tags: Introduction, Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Introduction (Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat)
 
-revised on 2020-02-26
+revised on 2020-02-27
 
 ------
 
@@ -16,11 +16,9 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 
 ------
 
- .. text-align:center:
+**Namo tassa Bhagvato arahato Sammā sambuddhassa**
 
-                      **Namo tassa Bhagvato arahato Sammā sambuddhassa**
-
-                      **Venerable U Ādiccaramsī** (1937-2002) Portrait
+**Venerable U Ādiccaramsī** (1937-2002) Portrait
 
 .. image:: {filename}/extra/img/ven-adiccaramsi-portrait.jpg
    :alt: Venerable U Ādiccaramsī's Portrait
@@ -72,7 +70,7 @@ Later he established a meditation centre there. Also, he was busy with moving ac
 
 ------
 
-revised on 2020-02-26; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35450 (posted on 2018-12-14)
+revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35450 (posted on 2018-12-14)
 
 ------
 
@@ -87,7 +85,7 @@ revised on 2020-02-26; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-02-26 add Venerable U Ādiccaramsī's Portrait
+  2020-02-27 add Venerable U Ādiccaramsī's Portrait
   12-08 rev. proofread by bhante
   12-05 rev. proofread by bhante
   11-13 rev. proofread by nanda
