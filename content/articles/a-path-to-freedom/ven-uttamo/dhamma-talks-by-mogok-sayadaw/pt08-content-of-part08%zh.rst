@@ -18,7 +18,7 @@ Content of Part 8 on Dhamma Talks by Mogok Sayadaw
 
 - 5.) `Negligence and Suffering <{filename}pt08-05-negligence-and-suffering%zh.rst>`_ (1962-03-23, 03-24)
 
-- 6.) `On Anatta <{filename}pt08-06-on-anatta%zh.rst>`_ (1962-04-19, 04-19)
+- 6.) `On Anatta <{filename}pt08-06-on-anatta%zh.rst>`_ (1962-04-18, 04-19)
 
 - 7.) `Two Causes of No Realization <{filename}pt08-07-two-causes-of-no-realization%zh.rst>`_ (1962-04-21)
 
@@ -30,7 +30,7 @@ Content of Part 8 on Dhamma Talks by Mogok Sayadaw
 
 - 11.) `Unwise Attention and Prayers <{filename}pt08-11-unwise-attention-and-prayers%zh.rst>`_ (1962-06-04)
 
-- 12.) `Truth Is in the Khandha <{filename}pt08-12-truth-is-in-the-khandha%zh.rst>`_ (1962--06-15)
+- 12.) `Truth Is in the Khandha <{filename}pt08-12-truth-is-in-the-khandha%zh.rst>`_ (1962-06-15)
 
 - 13.) `Nibbāna Is the Foremost Happiness <{filename}pt08-13-nibbana-is-the-foremost-happiness%zh.rst>`_ (1962-06-15)
 
@@ -48,7 +48,7 @@ Content of Part 8 on Dhamma Talks by Mogok Sayadaw
 
 - 20.) `The Importance of Knowing the Truth <{filename}pt08-20-importance-of-knowing-the-truth%zh.rst>`_ (1962-07-08)
 
-- 21.) `Answer To A Buddhist <{filename}pt08-21-answer-to-a-buddist%zh.rst>`_ (1962-07-10)
+- 21.) `Answer To A Buddhist <{filename}pt08-21-answer-to-a-buddhist%zh.rst>`_ (1962-07-10)
 
 - 22.) `Three Steps to Nibbāna <{filename}pt08-22-three-steps-to-nibbana%zh.rst>`_ (1962-07-08 ~ 07-10)
 

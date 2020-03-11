@@ -1,12 +1,12 @@
 ==========================================
-Taṇhā & Practice
+Taṇhā and Practice
 ==========================================
 
 :date: 2019-01-13
 :modified: 2019-06-14
 :tags: taṇhā, practice, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
-:summary: Taṇhā & Practice (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: Taṇhā and Practice (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
 revised on 2019-06-14
 
@@ -43,5 +43,6 @@ revised on 2019-06-14; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=40
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-02 rev. title replace "&"" with "and" while editing PDF
   06-14 rev. proofread by bhante
   2019-01-11  create rst (https://mogokdhammatalks.blog/ ; N/A yet 2019-01-11; post on 01-13

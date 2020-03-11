@@ -1,12 +1,12 @@
 ==========================================
-Answer to a Buddist
+Answer to a Buddhist
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-10-02
+:modified: 2020-03-03
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
-:summary: Answer to a Buddist (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: Answer to a Buddhist (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
 revised on 2019-10-02
 
@@ -78,7 +78,7 @@ If other minds not come in between each vīthi is in the present. For example, a
 
 ------
 
-revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35962#p35962 (posted on 2019-02-16)
+revised on 2020-03-03; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35962#p35962 (posted on 2019-02-16)
 
 ------
 
@@ -97,5 +97,6 @@ revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-03 rev. title while editing PDF
   10-02 rev. proofread by bhante
   2019-04-26  create rst; post on 04-28

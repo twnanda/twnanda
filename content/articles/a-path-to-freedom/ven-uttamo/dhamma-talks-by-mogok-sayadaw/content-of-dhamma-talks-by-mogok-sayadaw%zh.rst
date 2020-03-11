@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2019-12-02
+:modified: 2020-03-11
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -12,7 +12,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 Dhamma Talks by Mogok Sayadaw
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- -- Emptiness, Conditioned, and Unconditioned. Translation based on the recorded tapes by Ven. Uttamo thera
+-- Emptiness, Conditioned, and Unconditioned. Translation based on the recorded tapes by Ven. Uttamo thera
 
 .. list-table:: Dhamma Talks by Mogok Sayadaw
    :widths: 20 20 20 20 20
@@ -33,6 +33,11 @@ Dhamma Talks by Mogok Sayadaw
      - `Part 10`_
      - `Part 11`_
      - `Part 12`_
+   * - Full Text:
+     - `PDF <{filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ 
+     - `PDF <{filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (backgroup in green)
+     - for print: `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-12pt-print.pdf>`__ (12 pt, pdf)
+     - for print: `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print.pdf>`__ (14 pt, pdf)
 
 ---------------------------
 
@@ -422,7 +427,7 @@ _`Part 8` ( `content of Part 8 <{filename}pt08-content-of-part08%zh.rst>`_ )
 
 - 20.) `The Importance of Knowing the Truth <{filename}pt08-20-importance-of-knowing-the-truth%zh.rst>`_ (1962-07-08)
 
-- 21.) `Answer To A Buddhist <{filename}pt08-21-answer-to-a-buddist%zh.rst>`_ (1962-07-10)
+- 21.) `Answer To A Buddhist <{filename}pt08-21-answer-to-a-buddhist%zh.rst>`_ (1962-07-10)
 
 - 22.) `Three Steps to Nibbāna <{filename}pt08-22-three-steps-to-nibbana%zh.rst>`_ (1962-07-08 ~ 07-10)
 
@@ -647,6 +652,7 @@ revised on 2019-12-02
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-11 add file pdf and pdf for print;  suspended  `html  <>`
   12-02 add: Part 12-23 Transcending of Time 
   10-02 rev. proofread by bhante
   09-12 rev. proofread by bhante; pt07-15- Tanhā and Kamma; old: Craving and Action

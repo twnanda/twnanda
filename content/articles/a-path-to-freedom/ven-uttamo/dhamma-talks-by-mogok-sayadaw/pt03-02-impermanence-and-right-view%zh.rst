@@ -1,14 +1,14 @@
 ==========================================
-Impermanence & Right View
+Impermanence and Right View
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-06-14
+:modified: 2020-03-04
 :tags: Impermanence, Right View, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
-:summary: Impermanence & Right View (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: Impermanence and Right View (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-06-14
+revised on 2020-03-04
 
 ------
 
@@ -20,7 +20,7 @@ During sitting, if your body feels pain and wants to change is all right. I don'
 
 ------
 
-revised on 2019-06-14; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35585#p35585 (posted on 2018-12-15)
+revised on 2020-03-04; cited from https://oba.org.tw/viewtopic.php?f=22andt=4031andp=35585#p35585 (posted on 2018-12-15)
 
 ------
 
@@ -39,5 +39,6 @@ revised on 2019-06-14; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-04 rev. title (replace "&" with and) while editing PDF
   06-14 rev. proofread by bhante
   2019-01-11  create rst; post on 01-13

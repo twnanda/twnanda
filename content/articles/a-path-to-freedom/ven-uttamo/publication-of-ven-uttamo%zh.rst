@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2019-12-03
+:modified: 2020-03-11
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -39,6 +39,11 @@ Dhamma Talks by Mogok Sayadaw
      - `Part 10`_
      - `Part 11`_
      - `Part 12`_
+   * - Full Text
+     - `PDF <{filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ 
+     - `PDF <{filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (backgroup in green)
+     - for print: `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-12pt-print.pdf>`_ (12 pt, pdf)
+     - for print: `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print.pdf>`_ (14 pt, pdf)
 
 ---------------------------
 
@@ -398,7 +403,7 @@ _`Part 8` ( `content of Part 8 <{filename}dhamma-talks-by-mogok-sayadaw/pt08-con
 
 - 5.) `Negligence and Suffering <{filename}dhamma-talks-by-mogok-sayadaw/pt08-05-negligence-and-suffering%zh.rst>`_ (1962-03-23, 03-24)
 
-- 6.) `On Anatta <{filename}dhamma-talks-by-mogok-sayadaw/pt08-06-on-anatta%zh.rst>`_ (1962-04-19, 04-19)
+- 6.) `On Anatta <{filename}dhamma-talks-by-mogok-sayadaw/pt08-06-on-anatta%zh.rst>`_ (1962-04-18, 04-19)
 
 - 7.) `Two Causes of No Realization <{filename}dhamma-talks-by-mogok-sayadaw/pt08-07-two-causes-of-no-realization%zh.rst>`_ (1962-04-21)
 
@@ -410,7 +415,7 @@ _`Part 8` ( `content of Part 8 <{filename}dhamma-talks-by-mogok-sayadaw/pt08-con
 
 - 11.) `Unwise Attention and Prayers <{filename}dhamma-talks-by-mogok-sayadaw/pt08-11-unwise-attention-and-prayers%zh.rst>`_ (1962-06-04)
 
-- 12.) `Truth Is in the Khandha <{filename}dhamma-talks-by-mogok-sayadaw/pt08-12-truth-is-in-the-khandha%zh.rst>`_ (1962--06-15)
+- 12.) `Truth Is in the Khandha <{filename}dhamma-talks-by-mogok-sayadaw/pt08-12-truth-is-in-the-khandha%zh.rst>`_ (1962-06-15)
 
 - 13.) `Nibbāna Is the Foremost Happiness <{filename}dhamma-talks-by-mogok-sayadaw/pt08-13-nibbana-is-the-foremost-happiness%zh.rst>`_ (1962-06-15)
 
@@ -428,7 +433,7 @@ _`Part 8` ( `content of Part 8 <{filename}dhamma-talks-by-mogok-sayadaw/pt08-con
 
 - 20.) `The Importance of Knowing the Truth <{filename}dhamma-talks-by-mogok-sayadaw/pt08-20-importance-of-knowing-the-truth%zh.rst>`_ (1962-07-08)
 
-- 21.) `Answer To A Buddhist <{filename}dhamma-talks-by-mogok-sayadaw/pt08-21-answer-to-a-buddist%zh.rst>`_ (1962-07-10)
+- 21.) `Answer To A Buddhist <{filename}dhamma-talks-by-mogok-sayadaw/pt08-21-answer-to-a-buddhist%zh.rst>`_ (1962-07-10)
 
 - 22.) `Three Steps to Nibbāna <{filename}dhamma-talks-by-mogok-sayadaw/pt08-22-three-steps-to-nibbana%zh.rst>`_ (1962-07-08 ~ 07-10)
 
@@ -677,7 +682,10 @@ the translator : Ven. Uttamo (鄔達摩尊者）
    * - `Day 16: 1st November, 2002 <{filename}eighteen-days-in-solitude/day16-2002-11-01%zh.rst>`_
      - `Day 17: 2nd November, 2002 <{filename}eighteen-days-in-solitude/day17-2002-11-02%zh.rst>`_
      - `Day 18: 3rd November, 2002 <{filename}eighteen-days-in-solitude/day18-2002-11-03%zh.rst>`_
-     - `full text <{filename}eighteen-days-in-solitude/eighteen-days-in-solitude-full-text%zh.rst>`_
+     - | Full Text: `html  <{filename}eighteen-days-in-solitude/eighteen-days-in-solitude-full-text%zh.rst>`_ ; 
+       | for print: 
+       | `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-12pt-print.pdf>`_ (12 pt, pdf), 
+       | `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print.pdf>`_ (14 pt, pdf)
 
 ------
 
@@ -807,6 +815,7 @@ Protection with Blessing
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-11 add PDF files: for read & print; suspended  `html  <>`; The Best Fonts to Use in Print, Online, and Email (By John Wood, 2011 October)-- https://www.awai.com/2011/10/the-best-fonts-to-use-in-print-online-and-email/ ; 設計素養第一課：教科書字體選用指南: https://blog.justfont.com/2018/10/text-book-fonts/ ; 電腦族必知！原來這字體顏色對眼睛好: https://helloyishi.com.tw/healthy-living/eye-health/different-fonts-of-word-affect-your-reading-and-eyes/
   12-03 add: Maṅgala Sutta – Protection with Blessing
   12-02 add: part 12-23. Transcending of Time
   11-13 rev. ordinal number

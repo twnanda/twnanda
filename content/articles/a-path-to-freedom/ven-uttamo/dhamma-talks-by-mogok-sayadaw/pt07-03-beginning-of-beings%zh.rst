@@ -3,12 +3,12 @@ The Beginning of Beings
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-09-12
+:modified: 2020-03-05
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Beginning of Beings (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-09-12
+revised on 2020-03-05
 
 ------
 
@@ -42,7 +42,7 @@ So, it can’t cure the illness. Before looking at other’s faults; at first yo
 
 The five causes are: ignorance, volitional formation, craving, clinging, action. The five results are: consciousness, name and form, sense bases, contact, feeling → infinity (without practice). It’s similar to a tree: Tree → fruit → tree → fruit, etc. 
 
-With round of existence (vaṭṭa): kilesa vaṭṭa→kamma vaṭṭa→vipāka vaṭṭa (defilement→action→khandha) →kilesa vaṭṭa→kamma vaṭṭa→vipāka vaṭṭa, etc. (Something similar to eating→excreting→eating→excreting, etc. on and on. What a mess?! This is saṅkhāra dukkha). 
+With round of existence (vaṭṭa): kilesa vaṭṭa → kamma vaṭṭa → vipāka vaṭṭa (defilement → action → khandha) → kilesa vaṭṭa → kamma vaṭṭa → vipāka vaṭṭa, etc. (Something similar to eating → excreting → eating → excreting, etc. on and on. What a mess?! This is saṅkhāra dukkha).
 
 There are two views: atta diṭṭhi (self view) and anatta diṭṭhi (not self view). By seeing not-self view, ignorance and craving are not extinct yet. But you  become a stream-enterer (sotāpanna) and are free from the planes of misery. After killing diṭṭhi, continue to kill ignorance and craving. You must do the work of the right path factors (sammā maggaṅga) and look for a spiritual friend (kalyāṇa-mitta). 
 
@@ -54,7 +54,7 @@ It becomes insight knowledge because of the objects of the five khandhas. If hap
 
 ------
 
-revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35767#p35767 (posted on 2019-01-14)
+revised on 2020-03-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35767#p35767 (posted on 2019-01-14)
 
 ------
 
@@ -73,5 +73,6 @@ revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-05 rev. ← etc. while editing PDF
   09-12 rev. proofread by bhante
   2019-04-23  create rst; post on 04-28

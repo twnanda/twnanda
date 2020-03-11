@@ -1,14 +1,14 @@
 ==========================================
-Five Kinds Of Right View
+Five Kinds of Right View
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-05-26
+:modified: 2020-03-04
 :tags: Right View, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
-:summary: Five Kinds Of Right View (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
+:summary: Five Kinds of Right View (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-05-26
+revised on 2020-03-04
 
 ------
 
@@ -66,7 +66,7 @@ These 4-points of view are always there whenerver someone becomes a stream enter
 
 ------
 
-revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35552#p35552 (posted on 2018-12-14)
+revised on 2020-03-04; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35552#p35552 (posted on 2018-12-14)
 
 ------
 
@@ -87,6 +87,7 @@ revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-04 rev. title (small letter "of") while editing PDF
   05-26 rev. proofread by bhante
   04-21 rev. & add: Content of Publications of Ven. Uttamo; Content of Part 2 on "Dhamma Talks by Mogok Sayadaw"
         del: https://mogokdhammatalks.blog/

@@ -111,10 +111,9 @@ Chinese sages classified education into four types.
 
 (2) Education on the law of kamma: This is the province of Buddhism. The subject on the law of kamma is profound, deep, related to all living beings and fathomless, except for a Buddha. It is one of the inconceivable phenomena and the province of a Buddha. Therefore, except a Buddha, no one can fully penetrate it. Even we can say that it is the perfect knowledge of a Buddha. If he was only giving the teaching on the law of kamma and no other teaching, still no one equals or greater than him. This law of kamma governs all kinds of living beings.
 
-Why most living beings during their wandering in the round of existence encountered many different kinds of sufferings? The main answer is they do not know the law of kamma and never heard about it. Even the majority of Buddhists, they know about it superficially, not profound and clear enough. Therefore, they cannot use it well enough in their daily life. Even though most Buddhists encounter the teaching and not receive many benefits which should be.
+    Why most living beings during their wandering in the round of existence encountered many different kinds of sufferings? The main answer is they do not know the law of kamma and never heard about it. Even the majority of Buddhists, they know about it superficially, not profound and clear enough. Therefore, they cannot use it well enough in their daily life. Even though most Buddhists encounter the teaching and not receive many benefits which should be.
 
-(3) Worldly educations:
-many kinds and types of education of the world; schools, universities, professions for a living and ordinary knowledge, etc.
+(3) Worldly educations: many kinds and types of education of the world; schools, universities, professions for a living and ordinary knowledge, etc.
 
 (4) Religious education: It relates to all the major religions and does not include the cults. With careful and wise contemplation; whatever people religions or faiths and the cultural background may be the education on law of kamma should be in the first place. Because it is the universal law and all living beings are under these laws. All beings cannot escape time and space; it is the same as with the law of kamma; all human actions; wholesome, unwholesome, and mixed are under this universal law.
 

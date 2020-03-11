@@ -3,7 +3,7 @@ Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
 ===============================================================================
 
 :date: 2019-11-13
-:modified: 2020-02-27
+:modified: 2020-03-11
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
@@ -60,7 +60,13 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 
 - `Day 18 <{filename}day18-2002-11-03%zh.rst>`_ : 3rd November, 2002
 
-- `full text <{filename}eighteen-days-in-solitude-full-text%zh.rst>`_
+- full text: 
+
+  * `html  <{filename}eighteen-days-in-solitude-full-text%zh.rst>`_ ; 
+  * `PDF <{filename}/extra/pdf/Eighteen-Days-In-Solitude-full-text.pdf>`__ (for read); 
+  * `PDF <{filename}/extra/pdf/Eighteen-Days-In-Solitude-full-text-green.pdf>`__ (for read, backgroup in green); 
+  * `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-12pt-print.pdf>`__ (for print, general, 12 pt); 
+  * `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print.pdf>`__ (for print, large font, 14pt) 
 
 ------
 
@@ -71,5 +77,6 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-11 add PDF files: for read & print; The Best Fonts to Use in Print, Online, and Email (By John Wood, 2011 October)-- https://www.awai.com/2011/10/the-best-fonts-to-use-in-print-online-and-email/ ; 設計素養第一課：教科書字體選用指南: https://blog.justfont.com/2018/10/text-book-fonts/ ; 電腦族必知！原來這字體顏色對眼睛好: https://helloyishi.com.tw/healthy-living/eye-health/different-fonts-of-word-affect-your-reading-and-eyes/
   2020-02-27 add: Venerable U Ādiccaramsī's Portrait
   2019-11-13 create

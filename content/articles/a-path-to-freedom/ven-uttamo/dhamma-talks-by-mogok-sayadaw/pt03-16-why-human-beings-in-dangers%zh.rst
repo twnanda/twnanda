@@ -3,16 +3,16 @@ Why Human Beings in Dangers?
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-06-14
+:modified: 2020-03-04
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Why Human Beings in Dangers? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-06-14
+revised on 2020-03-04
 
 ------
 
-Dhamma Talks by Mogok Sayadaw; 30th Jan. to 1st Feb. 1961 & 24th Sep. to 26th Sep.1961
+Dhamma Talks by Mogok Sayadaw; 30th Jan. to 1st Feb. 1961 and 24th Sep. to 26th Sep.1961
 
 T1 
 
@@ -46,11 +46,12 @@ I have to warn you all; because of your good kammas all of you are still alive. 
 
 (4) Unwholesome unpleasant mental feeling (akusala domanassa vedanā). An example of it is one disappointed with his own practice (no progress, the commentary gave the story of Mahāsīva) 
 
-(5)Wholesome neutral mental feeling (kusala upekkhā vedanā). As an example is vipassanupekkhā. 
+(5) Wholesome neutral mental feeling (kusala upekkhā vedanā). As an example is vipassanupekkhā. 
 
 (6) Unwholesome neutral mental feeling (akusala upekkhā vedanā). 
 
 ------
+
 
 T4 
 
@@ -81,7 +82,7 @@ T6
 (4)Disharmony among people, society, country, etc., these can be many reasons and causes, e.g., politics, economics, religions etc. 
 
 (5) Disharmony among the Saṅgha. 
-(Sayadaw continued the Sakka's questions) The Buddha's answers were traced backwards the causes of the problems. Diseases and short life <--issā-macchariya <--love and hate <--desire <--vitakka <--papañca (taṇhā, māna, diṭṭhi) <--feeling (vedanā)
+(Sayadaw continued the Sakka's questions) The Buddha's answers were traced backwards the causes of the problems. Diseases and short life <--issā-macchariya ← love and hate ← desire ← vitakka ← papañca (taṇhā, māna, diṭṭhi) ← feeling (vedanā)
 
 So, practice with feelings stop papañca dhamma. The Buddha instructed Sakka on contemplation of feeling. Vedanā can be divided into 3: pleasant (sukha), unpleasant (dukkha) and neutral (upekkhā) feeling. These are bodily feelings. For mental feelings: somanassa, domanassa, upekkhā. In this sutta the Buddha taught him how to deal with mental feelings. Mental feelings also grouped into 2: should be developed (wholesome) and should not be developed (unwholesome). So it becomes six types of feelings (3x2). 
 
@@ -107,7 +108,7 @@ If you have khandhas you have the danger of sickness. Before you are sick you ar
 
 ------
 
-revised on 2019-06-14; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35599#p35599 (posted on 2018-12-15)
+revised on 2020-03-04; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35599#p35599 (posted on 2018-12-15)
 
 ------
 
@@ -126,5 +127,6 @@ revised on 2019-06-14; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-04 rev. ← etc. while editing PDF
   06-14 rev. proofread by bhante
   2019-01-11  create rst; post on 01-13
