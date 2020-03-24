@@ -3,12 +3,12 @@ Assistance to One's Wife and Children (Maṅgala Sutta – Protection with Bless
 ==================================================================================
 
 :date: 2019-12-03
-:modified: 2020-02-27
+:modified: 2020-03-24
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Assistance to One's Wife and Children (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-02-27
+revised on 2020-03-24
 
 ------
 
@@ -26,40 +26,43 @@ The Buddha gave the analogy of sustaining relationship to be like a linchpin of 
 
 In Sakkasaṃyutta, there was a sutta mentioned about Sakka, lord of the devas and Mātali the charioteer, who worshipped the householders. They were at that time ready to go to the park grounds to see the beautiful scenery. Before he climbed up into the chariot Sakka raised his joined hands and worshipped the different quarters. Mātali was curious about it and asked Sakka whom he bowed and worshipped.
 
-Sakka answered that he worshipped those endowed with Sīla, long trained in Samādhi, who had property gone forth for the holy life to end dukkha. And then Sakka continued to say that he also worshipped the householders who made merits, lay Buddhists possessing of Sīla and who righteously supported a wife. After these words Mātali also did the same thing following Sakka.
+Sakka answered that he worshipped those endowed with Sīla, long trained in Samādhi, who had properly  gone forth for the holy life to end dukkha. And then Sakka continued to say that he also worshipped the householders who made merits, lay Buddhists possessing of Sīla and who righteously supported a wife. After these words Mātali also did the same thing following Sakka.
 
 According to this story, even deities are respecting and worshipping men who have merits, Sīla and assistance to one’s wife and children.
 
 In Sigālovāda Sutta (DN.31 Sigālovada Suttantaɱ, Siṅgālasuttaṃ) – Advice to Sigāla, Dīgha Nikāya, the Buddha gave instructions to Sigāla, the house holder’s son, on the duties and obligations as a husband to wife and children.
 
-| Assistance to one's wife in five ways:
-| (1) By respecting her
-| (2) By his courtesy
-| (3) By being faithful to her
-| (4) By handing over authority to her
-| (5) By providing her with adornments
-| 
-| Assistance to one’s children in five ways:
-| (1) Restrain them from evil
-| (2) Direct them towards the goods
-| (3) Train them to a profession
-| (4) Arrange suitable marriages for them
-| (5) In due time hand over the inheritance to them.
-| 
-| The five duties and obligations of a wife:
-| (1) By doing her duties well
-| (2) By hospitality to attendants, etc.
-| (3) By her fidelity
-| (4) By looking after his earnings
-| (5) By skill and Industry in all her business dealings
-| 
-| The five duties and obligations of a child:
-| (1) Once I was supported by them now, I will be their support
-| (2) I will perform those duties they have to perform
-| (3) I will maintain the lineage and tradition of my family
-| (4) I will look after my inheritance
-| (5) I will give alms or generosity(cāga) on behalf of them(When the parents are dead)
-| 
+Assistance to one's wife in five ways:
+
+(1) By respecting her
+(2) By his courtesy
+(3) By being faithful to her
+(4) By handing over authority to her
+(5) By providing her with adornments
+
+Assistance to one’s children in five ways:
+
+(1) Restrain them from evil
+(2) Direct them towards the goods
+(3) Train them to a profession
+(4) Arrange suitable marriages for them
+(5) In due time hand over the inheritance to them.
+
+The five duties and obligations of a wife:
+
+(1) By doing her duties well
+(2) By hospitality to attendants, etc.
+(3) By her fidelity
+(4) By looking after his earnings
+(5) By skill and Industry in all her business dealings
+
+The five duties and obligations of a child:
+
+(1) Once I was supported by them now, I will be their support
+(2) I will perform those duties they have to perform
+(3) I will maintain the lineage and tradition of my family
+(4) I will look after my inheritance
+(5) I will give alms or generosity(cāga) on behalf of them(When the parents are dead)
 
 This 12th blessing/protection of assistance to one's wife and children is a very interesting and important topic, and it has a lot to say and for contemplation. It is also wide and profound subject and depending on how someone views on it. People who want to penetrate about them should study, research, and contemplate all the teaching of ancient sages and the Buddha. Most people using or spending a lot of time and money to study and research for nourishing of greed, hatred, and delusion, which are the mind pollutants. Instead, they should work with the mind which is the closest to them than anyone else. It can bring them to happiness or destruction.
 
@@ -69,7 +72,7 @@ Therefore, it is so very fundamental that good education within the family life 
 
 All other human knowledge also have to be counted, including religions. All wrong and harmful actions come from wrong views and thinking. The assistance to one's child is the duty and obligation of all parents. As the Buddha mentioned it five ways; the most important ones are three. These are: restrain them from evils; directing them towards good; and train them to a profession.
 
-The one and two are fundamental education, which is morality and virtue, and without it, the child will never become good persons and going in the right direction. Here I will present two stories in the Buddha's time. The first is the story of the son of Mahādhana in Jāravagga – Ageing; and the other, the story of Kāla, the son of Anāthapiṇḍika in Lokavagga – The World, both from Dhammapada. The first one without morality and virtue had negative results, and the other was the opposite.
+The one and two are fundamental education, which is morality and virtue, and without it, the child will never become good person and going in the right direction. Here I will present two stories in the Buddha's time. The first is the story of the son of Mahādhana in Jāravagga – Ageing; and the other, the story of Kāla, the son of Anāthapiṇḍika in Lokavagga – The World, both from Dhammapada. The first one without morality and virtue had negative results, and the other was the opposite.
 
 The Story of the Son of Mahādhana:
 
@@ -83,13 +86,13 @@ One day the Buddha saw him leaning against the wall of the monastery and eating 
 
 “Ānanda, look at this son of a rich man; he had lived a useless life, aimless life of pleasure. If he had learned to look after his riches and in the first stage of his life would have been the top ranking rich man. If he had become a monk, could have been an arahant and his wife an anāgāmi (the non-returner). If he had learned to look after his riches in the second stage of his life, he would have been a second ranking rich man.
 
-He could have been an anāgāmin; and his wife a sakadāgāmi (the once-returner), etc., if he had become a monk. However, he lost all the riches, and also all the chances of realization of the paths and fruits because he had done nothing all the three stages of his life.”
+He could have been an anāgāmin; and his wife a sakadāgāmi (the once-returner), etc., if he had become a monk. However, he lost all the riches, and also all the chances of realization of the paths and fruits because he had done nothing all the three stages of his life.” In this story, we can see the importantce of the four wheels mentioned in the Wheels Discourse already described at directing oneself right which related to the present life and its actions.
 
 The Story of Kāla, Son of Anāthapiṇḍika:
 
 Kāla, the son of Anāthapiṇḍika always kept himself away, whenever the Buddha and his company of monks came to their house. Anāthapiṇḍika was worried that if his son kept on behaving in this way would not get any benefit. So he used money as a bait to change his son. He promised to give him 100 coins if the son consented to go to the monastery and keep the sabbath for one day. So Kāla went there and returned home early the next day without listening to any Dhamma discourse.
 
-Next time, Anāthapiṇḍika said to his son; “My son, if you learned a stanza of the Buddha's teaching, I will give you 1,000 coins on your return.” Therefore, Kāla went to the Monastery again. This time he tried to learn something from the Buddha. The Buddha gave him a short stanza for learning by heart, and at the same time made him forgot it. Thus he had to repeat it so many times that in the end came to understand the full meaning of the Dhamma and then attained the Path and Fruit of a stream-winner (sotāpanna).
+Next time, Anāthapiṇḍika said to his son; “My son, if you learned a stanza of the Buddha's teaching, I will give you 1,000 coins on your return.” So, Kāla went to the Monastery again. This time he tried to learn something from the Buddha. The Buddha gave him a short stanza for learning by heart, and at the same time made him forgot it. Thus he had to repeat it so many times that in the end came to understand the full meaning of the Dhamma and then attained the Path and Fruit of a stream-winner (sotāpanna).
 
 Early on the next morning, Kāla followed the Buddha and the saṅgha to his house. His father offered the rice gruel to the Buddha and the saṅgha. After that, the father brought 1000 coins and gave him, in front of the Buddha, but he refused to take it. Then the Buddha told Anāthapiṇḍika; “Dāyaka, your son had attained the Fruition State of a stream-winner which is much better and greater than the richest off of a universal Monarch, the status of celestial beings and Brahmā-gods.”
 
@@ -105,15 +108,15 @@ Most people do not take ethics, morality, and virtues as very important and fund
 
 Other types of living beings do not have this chance and opportunity. Therefore, the right and fundamental education are very important for everyone. Parents are the first teachers of children and more important than school teachers. So it has to begin early in family life. 
 
-Chinese sages classified education into four types.
+We may  classify education into four types from the teachings of ancient text of the Chinese sages.
 
-(1) Family education: On human relationship within the family, schools, societies, and states on standards of ethics, morality, virtue, etc.
+(1)  Education on family life and society: These are on human relationship within family, such as—between parents and children, husband and wife, among siblings. On human relationship in society,  such as—between friends, senior and subordinate, etc. All these are based on the standards of ethics, morality and virtue, etc. We can also see these kinds of teaching in the Siṅgāla Sutta—Advice to Lay People, Dīgha Nikāya (DN 31 Sigālovada Suttantaɱ, Sīgālasuttaṃ, Siṅgālasuttaṃ); and there are similarities between them.
 
 (2) Education on the law of kamma: This is the province of Buddhism. The subject on the law of kamma is profound, deep, related to all living beings and fathomless, except for a Buddha. It is one of the inconceivable phenomena and the province of a Buddha. Therefore, except a Buddha, no one can fully penetrate it. Even we can say that it is the perfect knowledge of a Buddha. If he was only giving the teaching on the law of kamma and no other teaching, still no one equals or greater than him. This law of kamma governs all kinds of living beings.
 
-    Why most living beings during their wandering in the round of existence encountered many different kinds of sufferings? The main answer is they do not know the law of kamma and never heard about it. Even the majority of Buddhists, they know about it superficially, not profound and clear enough. Therefore, they cannot use it well enough in their daily life. Even though most Buddhists encounter the teaching and not receive many benefits which should be.
+Why most living beings during their wandering in the round of existence encountered many different kinds of sufferings? The main answer is they do not know the law of kamma and never heard about it. Even the majority of Buddhists, they know about it superficially, not profound and clear enough. Therefore, they cannot use it well enough in their daily life. Even though most Buddhists encounter the teaching and not receive many benefits which should be.
 
-(3) Worldly educations: many kinds and types of education of the world; schools, universities, professions for a living and ordinary knowledge, etc.
+(3) Worldly educations: Many kinds and types of education of the world; schools, universities, professions for a living and ordinary knowledge, etc.
 
 (4) Religious education: It relates to all the major religions and does not include the cults. With careful and wise contemplation; whatever people religions or faiths and the cultural background may be the education on law of kamma should be in the first place. Because it is the universal law and all living beings are under these laws. All beings cannot escape time and space; it is the same as with the law of kamma; all human actions; wholesome, unwholesome, and mixed are under this universal law.
 
@@ -135,7 +138,7 @@ How many animals are killed every day around the world for foods alone. In the s
 
 ------
 
-revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36849#p36849 (posted on 2019-10-09)
+revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36849#p36849 (posted on 2019-10-09)
 
 ------
 
@@ -150,5 +153,6 @@ revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

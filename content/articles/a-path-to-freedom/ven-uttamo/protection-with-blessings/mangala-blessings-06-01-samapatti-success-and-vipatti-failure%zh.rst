@@ -3,12 +3,12 @@ Samāpatti (success) and Vipatti (failure) (Maṅgala Sutta – Protection with 
 =======================================================================================
 
 :date: 2019-12-03
-:modified: 2020-02-27
+:modified: 2020-03-24
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Samāpatti (success) and Vipatti (failure) (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-02-27
+revised on 2020-03-24
 
 ------
 
@@ -22,22 +22,21 @@ Samāpatti (success) and vipatti (failure): complete with related causes and lac
 
 The four successes (samāpatti):
 
-| 1. Gati-samāpatti: having a good existence
-| 2. Upadhi-samāpatti: having a good look and physical structure
-| 3. Kala-samāpatti: living at the time of good periods
-| 4. Payoga-samāpatti: the presence of mindfulness, intelligence and perseverance
-| 
-| The four failures (vipatti):
-| 
-| 1. Gati-vipatti: having a bad existence
-| 2. Upadhi-vipatti: having an ugly look and physical structure
-| 3. Kala-vipatti: living at the time of chaos, with bad leaders and governments 
-| 4. Payoga – vipatti: lacking with mindfulness, intelligence and perseverance
-| 
+1. Gati-samāpatti: having a good existence
+2. Upadhi-samāpatti: having a good look and physical structure
+3. Kala-samāpatti: living at the time of good periods
+4. Payoga-samāpatti: the presence of mindfulness, intelligence and perseverance
+
+The four failures (vipatti):
+
+1. Gati-vipatti: having a bad existence
+2. Upadhi-vipatti: having an ugly look and physical structure
+3. Kala-vipatti: living at the time of chaos, with bad leaders and governments 
+4. Payoga – vipatti: lacking with mindfulness, intelligence and perseverance
 
 ------
 
-revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36789#p36794 (posted on 2019-09-21)
+revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36789#p36794 (posted on 2019-09-21)
 
 ------
 
@@ -52,5 +51,6 @@ revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

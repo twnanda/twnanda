@@ -3,12 +3,12 @@ Having Made Merit in the Past (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-02-27
+:modified: 2020-03-24
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Having Made Merit in the Past (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-02-27
+revised on 2020-03-24
 
 ------
 
@@ -52,7 +52,7 @@ Lacking of the other merits, they were reborn as inferior class to compared to o
 
 The blessing of merits done in the past is very important for human beings because it was like planting a tree. From a tree we have a lot of benefits such as clean air (one way to deal with present global warming), good weather, give shade, fruits, flowers, for constructions, etc., in the same way merits done in the past and present will bring us good rebirths, good fortunes, welfare and protections. Everyone can stop the unwholesome for arising with a lot of wholesome kammas because wholesome and unwholesome kammas are following him as energies waiting for chances to give results.
 
-Deities have more appreciation and understanding of merits than human beings. In heavens their enjoyment in sensual pleasure and other benefits are totally depending on their past merits because they do not have the chances to perform merits in heavens. Even king of heaven, Sukka had to come down to earth for making merit. Human beings (mostly) do not have any power or knowledge to know their past merits, instead they use their intelligence and effort (ñāṇa and viriya) to achieve what they want and need. 
+Deities have more appreciation and understanding of merits than human beings. In heavens their enjoyment in sensual pleasure and other benefits are totally depending on their past merits because they do not have the chances to perform merits in heavens. Even king of heaven,  Sakka had to come down to earth for making merit. Human beings (mostly) do not have any power or knowledge to know their past merits, instead they use their intelligence and effort (ñāṇa and viriya) to achieve what they want and need. 
 
 When deities are near death they want to take rebirth in human world for cultivation of merit and return back to heaven because human world is the best place for it and not because they like the place. (they disgust the smell of human’s.)
 
@@ -62,7 +62,7 @@ He asked him about his future. He predicted that Mr. Li would make a lot of mone
 
 Do we believe in the law of Kamma? Just think about it. Two persons, even they have the same effort the results are different. These differences are connecting with their past kammas. And the old saying was; “Even though intelligent without past merits, it is always poor.” Sometimes we may meet an intelligent person, but whatever he tries to do something he does not get the result. This is the cause of lacking good conducts (caraṇa). The law of kamma is profound and complex. Most people know about it superficially. Even the Buddha mentioned it as one of the inconceivable subjects.
 
-There was an interesting Jātaka story on this point (Jāt. 284 siri). A woodcutter went into a forest for fire woods. He came back late, and the city gate was closed. He had to sleep outside the city. The place he slept was near a tree, and two wild cocks also slept on the branches of that tree. At night some noises made him woke up. The cocks were in a quarrel because the cock on the upper branch shat on the cock at the lower branch.
+There was an interesting Jātaka story on this point (Jāt. 284 Siri Jātaka). A woodcutter went into a forest for fire woods. He came back late, and the city gate was closed. He had to sleep outside the city. The place he slept was near a tree, and two wild cocks also slept on the branches of that tree. At night some noises made him woke up. The cocks were in a quarrel because the cock on the upper branch shat on the cock at the lower branch.
 
 The lower cock said to the upper cock with conceit: “Anybody who roasts my flesh and eats will get one thousand coins.” The upper cock retorted as: “Anybody who eats my inner organs will become a king; if he eats my flesh, he will become a field marshal or chief queen, according as he's man or woman; if he eats the flesh sticking to the bones, he will become the king’s  Treasurer, if he be a householder; or, if a holy man, will become the king's favourite!”
 
@@ -74,25 +74,25 @@ Without any other reason, the king put the elephant trainer like a king on the e
 
 Therefore, it is very important to have wholesome thoughts and actions in every moment. Negative and positive results are looking for chances to come in at any time. Once we understand the benefits or values of merits (meritorious deeds), we will want to do it. Only then we will have the 5th blessing. Also, we should very often reflect on the result of the merit. The merits we should perform are: giving (dāna), precepts (sīla), with care to look after our speech, look after our sense faculties, etc. (dāna, sīla, samādhi and paññā).
 
-This is like buried golds, gems, and treasures in the ground. No-one can take away from you and become your properties. It will follow behind us all the time like a shadow. The Buddha gave a dhamma talk on the four treasure pots – Nitidāna Sutta (?? Nidhidāna Sutta?? Nidhāna Sutta??). It was about dāna, sīla, samādhi, and paññā.
+This is like buried golds, gems, and treasures in the ground. No-one can take away from you and become your properties. It will follow behind us all the time like a shadow. The Buddha gave a dhamma talk on the four treasure pots–Nidhidāna Sutta. It was about dāna, sīla, samādhi, and paññā.
 
-| The results of these merits are:
-| (1) fair complexion
-| (2) pleasant voice
-| (3) having a good bodily structure
-| (4) good looking face
-| (5) having power and influence
-| (6) with many companions and servants
-| (7) having the human happiness
-| (8) having the celestial happiness
-| (9) can realize Nibbāna.
-| 
+The results of these merits are:
+
+(1) fair complexion
+(2) pleasant voice
+(3) having a good bodily structure
+(4) good looking face
+(5) having power and influence
+(6) with many companions and servants
+(7) having the human happiness
+(8) having the celestial happiness
+(9) can realize Nibbāna.
 
 All these wholesome Dhammas were praised by the wise and noble person. It could lead to becoming great disciples, chief disciples, Solitary-Buddha (Pacceka-buddha) and Sammā-sambuddha. Therefore, we must perform merits for this life and future lives to come. We should do it better and better.
 
 ------
 
-revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36785#p36785 (posted on 2019-09-17)
+revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36785#p36785 (posted on 2019-09-17)
 
 ------
 
@@ -107,5 +107,6 @@ revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

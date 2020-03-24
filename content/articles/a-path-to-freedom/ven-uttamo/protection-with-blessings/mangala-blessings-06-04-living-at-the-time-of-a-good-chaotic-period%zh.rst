@@ -3,12 +3,12 @@ Living at the Time of a Good / Chaotic Period (Maṅgala Sutta – Protection wi
 ==========================================================================================
 
 :date: 2019-12-03
-:modified: 2020-02-27
+:modified: 2020-03-24
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Living at the Time of a Good / Chaotic Period (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-02-27
+revised on 2020-03-24
 
 ------
 
@@ -26,14 +26,13 @@ Why was that? Because they had the education on morality and virtue, starting fr
 
 By studying and researching Chinese written characters (i.e., Chinese letter or word) will find out the profound wisdom of the sages of the past. Human moral Integrity and virtues are like the root of a tree. If the root is rotten, then the tree will die and does not have the chance to bear fruits. Human mind and behavior not only affect societies greatly but also to the great nature.
 
-Again if we study and research the Buddhist culture in some Theravadin countries such as Burma, etc. until the first half of the 20th century, Burmese were starting their education at a very young age at the village monasteries. Parents were also very close to the monasteries and the monks. Therefore, the whole family, more or less, knew the dhamma, especially in morality and virtues. They had been heard or read the Jātaka stories and the law of kamma. (including the Dhammapada stories).
+Again if we study and research the Buddhist culture in some Theravadin countries such as Burma, etc. until the first half of the 20th century, Burmese were starting their education at a very young age at the village monasteries. Parents were also very close to the monasteries and the monks. Therefore, the whole family, more or less, knew the dhamma, especially in morality and virtues. They had been heard or read the Jātaka stories and the law of kamma. (including the Dhammapada stories). Most Buddhists and scholars overlook the Jātaka Stories and might take them as myths and fairy tales. These bodhisatta’s stories of past lives were more realistic than the Greek mythology, Alice in Wonderland, Harry Potter’s Stories, etc.  It teaches us how to develop the ten perfections in three levels (basic, middle and higher) and become good-hearted, wise and noble human. It will lead us to noble growth and process the seven noble treasures.
 
 The well-known International meditation teacher S. N. Goenka once mentioned the moral virtues of Burmese Buddhists in one of his essays in Vipassanā Journal. It mentioned about his grandfather, who was on a business Journey, forgetting his bag of money at the public rest place. He only knew about it after arriving at a weekend marketplace far away. He had no time to go back and get the bag of money; only after he finished his business and went back to get it. The money was still there waiting for him. Even his grandfather mentioned that someone lost a gold ring in the marketplace, no one would take it. This kind of moral integrity was very evident in villages. The farmers went to the fields for work or slept at night; they never closed their home doors and never lost their properties.
 
 Buddhist texts mentioned three kinds of aeon; an interim aeon, an incalculable aeon, and a great aeon. Antarakappa – an interim aeon is from ten years to the maximum of many thousands of years. And they are then falling back to ten years. It is kala-samāpatti for the time when human lifespans are rising. The increasing of human lifespans is depending on moral integrity, virtues, weather, and foods. These were mentioned by the Buddha in the Cakkavatti Sutta (sutta No. 2⑥, Digha Nikāya (DN.26 Cakkavattisuttaṃ).
 
 Now, our human lifespans are falling back towards ten years. Therefore, all human beings have to be very careful with our minds, speech and actions. For human survivals, peace and happiness, we all have the responsibilities.
-
 
 Living at the time of chaotic periods:
 
@@ -43,7 +42,7 @@ With these kinds of period, the unwholesome kammas of human beings have the chan
 
 ------
 
-revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36797#p36797 (posted on 2019-09-21)
+revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36797#p36797 (posted on 2019-09-21)
 
 ------
 
@@ -58,5 +57,6 @@ revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

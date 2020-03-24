@@ -3,7 +3,7 @@ The Reality and the Knowing
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-07-25
+:modified: 2020-03-24
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: The Reality and The Knowing (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
@@ -58,16 +58,19 @@ Therefore, we were ending up at other’s sayings and making many prayers (inclu
 
 Contemplation of the mind
 
-| .. image:: {filename}/extra/img/mogok-pt05-fig3-external.jpg
-|    :alt: Contemplation of the mind
-|    :align: center
-| 
+.. image:: {filename}/extra/img/mogok-pt05-fig3-external.jpg
+   :alt: Contemplation of the mind
+   :align: center
+ 
 | (Bodily consciousness: unpleasant and pleasant experiences—itches, pain, etc.)
 | 
 
 .. image:: {filename}/extra/img/mogok-pt05-fig4-internal.jpg
    :alt: 6-Internal guest mind
    :align: center
+
+|
+|
 
 1. breathing in mind and 2. breathing out mind (2 host minds)
 The two host minds are the primary objects for contemplation. You have to contemplate them if other minds (all the guest minds) are arising. 
@@ -156,6 +159,9 @@ revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-24 rev. image sytax, old: .. image:: {filename}/extra/img/mogok-pt05-fig3-external.jpg
+                                    | :alt: Contemplation of the mind
+                                    | :align: center
   07-25 rev. proofread by bhante
   2019-01-13  create rst
   https://mogokdhammatalks.blog/

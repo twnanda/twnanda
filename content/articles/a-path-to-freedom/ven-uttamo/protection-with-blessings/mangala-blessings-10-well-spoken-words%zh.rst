@@ -3,12 +3,12 @@ Well Spoken Words (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-02-27
+:modified: 2020-03-24
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Well Spoken Words (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-02-27
+revised on 2020-03-24
 
 ------
 
@@ -20,7 +20,7 @@ The commentary explained the blessing of well spoken words (speech) with the Sub
 
 Using Buddha Dhamma only is very limited because not all human beings are mature enough to understand and accept it. We should never forget that there are more fools than wise. Dialogue between inter-faiths is a good example to solve problems. We should not lean to any side and find the common ground which unite and harmonize religions and people. For every true religion, the basic common ground is not to do evil and to do good. Any religion, politics economics, culture, science and technology which is not based in these common ground is unsustainable and leading to problems, instability, disaster, destruction and sufferings. The human world will be in problems and chaos if man’s common ground and standard are to do evil and not to do good. Now we are in this direction. Here I do not want to give many examples in the situations around the world today and most people already know and see it.
 
-World leaders, politicians, political parties even use unwholesome speech to get elected, complete for power and wealth. Leaders,  governments and citizens are like the relationship between Parents and Children in a family. The children will not be good without good parents and a lot of problems will arise in family life.
+World leaders, politicians, political parties even use unwholesome speech to get elected, they are in competition for power and wealth. Leaders,  governments and citizens are like the relationship between Parents and Children in a family. The children will not be good without good parents and a lot of problems will arise in family life.
 
 Most people, including Buddhists who do not have the knowledge on the Buddha’s teachings never take it serious and importance of speech and their results in this and future life to come. Therefore, I will retell one of the stories which happened in the time of the Buddha. By his true story we can know how and why speech is so important to all of us. This was the story of Kokālika monk.
 
@@ -50,7 +50,7 @@ From this Mahā-Moggallāna’s past life, we can justify the dangers and suffer
 
 ④ Born as animal – a strong male goat in Bheṇṇākata country. It was castrated (the result of sexual misconduct) and rode by children and pulling cart.
 
-⑤ Born as a monkey in a forest. The leader monkey of the group bit castrated the small monkey’s testicle to prevent him became stronger as enemy.
+⑤ Born as a monkey in a forest. The leader monkey of the group castrated the small monkey by biting its testicle to prevent it becoming stronger as enemy.
 
 ⑥ Born as a strong bull in Dudassana country. Therefore, the owner castrated him and used as pulling cart.
 
@@ -66,13 +66,14 @@ From this Mahā-Moggallāna’s past life, we can justify the dangers and suffer
 
 Some Buddhists thought bodhisattas were enlightened beings and living in special Heavens with their transformation bodies coming and going with ease and helping living beings. The true stories in the Nikāyas were different. Even true bodhisatta was sometimes born in hell and became animals (see Prince Temiya Jātaka, before that life he was in hell for sometimes for his past kamma as king who ordered to execute criminals).
 
-If we study and observe today media and communities, we can see a lot of people do not know how to use speech property for oneself and others. Most of these speeches are frivolous, idle and silly talks and wasting time. Sometimes these useless talks are creating problems and sufferings and leading to arguments and fights. A layman whom I knew argued with someone in a tea-shop and could not control his anger and killed the man and ended up in jail. After a few years he came out from prison and this kind of thing happened again, but, this time he was killed by others.
+If we study and observe today media and communities, we can see a lot of people do not know how to use speech  properly for oneself and others. Most of these speeches are frivolous, idle and silly talks and wasting time. Sometimes these useless talks are creating problems and sufferings and leading to arguments and fights. A layman whom I knew argued with someone in a tea-shop and could not control his anger and killed the man and ended up in jail. After a few years he came out from prison and this kind of thing happened again, but, this time he was killed by others.
 
-Buddhists can be considered the best type of people who can use speech which transcends suffering. The Buddha himself was the best of the best among some of his monastics and lay disciples. I can give some examples of modern days Buddhists, Mogok Sayadawji and S. N. Goenkaji, etc. Mogok Sayadaw’s Dhamma talks (Suññatā Dhamma) were sending many Buddhists on the way to Nibbāna until now. S. N. Goenkaji’s Dhamma instructions and retreats also sent a lot of yogis on the way to Nibbāna. Therefore, in the Suttanipāta, Subhāsita Sutta, the arahant poet Ven. Vangīsa said as follow:
+Buddhists can be considered the best type of people who can use speech which transcends suffering. The Buddha himself was the best of the best among all with some of his monastics and lay disciples. I can give some examples of modern days Buddhists, Mogok Sayadawji and S. N. Goenkaji, etc. Mogok Sayadaw’s Dhamma talks (Suññatā Dhamma) were sending many Buddhists on the way to Nibbāna until now. S. N. Goenkaji’s Dhamma instructions and retreats also sent a lot of yogis on the way to Nibbāna. Therefore, in the Suttanipāta, Subhāsita Sutta, the arahant poet Ven. Vangīsa said as follow:
 
-``The speech, the Awaken one (Buddha) speaks is leading to Nibbāna,``
-        ``putting an end to Dukkha. This is the only surpassing and worthiest speech.``
-         ``(Sn 3.3; Sn. p. 78f. cf. S. 1.31; S. i. 188 Sabbhisuttaṃ)``
+| ``“The speech, the Awaken one (Buddha) speaks is leading to Nibbāna,``
+| ``putting an end to Dukkha. This is the only surpassing and worthiest speech.’’``
+| (Sn 3.3; Sn.  p. 78f. cf. S. 1.31; S. i. 188 Sabbhisuttaṃ)
+| 
 
 This is a very, very important topic. Even most people not take it seriously and not think about it carefully. It is a very wide and profound subject and not a small thing. We use words and speech nearly all times. Thinking is also inner chattering. The speech also a connection with the ten unwholesome and ten wholesome dhammas (see on the topic of well-mastered disciplines). Therefore, we should abstain from speech connection with the ten unwholesome dhammas, and it should develop the kinds of speech connection with the ten wholesome dhammas. It is impossible without speech and cannot escape it from hearing.
 
@@ -90,28 +91,28 @@ In the Buddha's teachings, we can study and learn a lot on wrong speech and righ
 
 He distinguished four poorly spoken words and four well-spoken words.
 
-| (1) Unwholesome or poorly spoken words and wholesome or well-spoken words
-| (2) Unworthy or unjust words and worthy or just words.
-| (3) Unpleasant or unendurable words and pleasant or enduring words
-| (4) False words and true words.
-| 
+(1) Unwholesome or poorly spoken words and wholesome or well-spoken words
+(2) Unworthy or unjust words and worthy or just words.
+(3) Unpleasant or unendurable words and pleasant or enduring words
+(4) False words and true words.
 
 Then Ven. Vangīsa (the arahant poet) praised the Buddha with the attractive verses: Speak only not cause us pain and not hurt each other. These are truly well-spoken words. Use pleasant speech which makes people glad, and not resorting to evil speech. These are pleasant speech. The speech, the Awaken one (i.e., the Buddha) speaks is leading to Nibbāna, putting an end to dukkha. This is the only surpassed or worthiest speech. Therefore, we should take care of the wholesome and friendly qualities constantly watch the movements of our minds and speeches.
 
 In the Discourse to Prince Abhaya (Abhaya-rāja-kumāra Sutta, Majjhima Nikāya, MN.58 Abhayarājakumārasuttaṃ) the Buddha divided the speeches into six types. In the discourse, the Buddha gave the factors that went into deciding what was and was not worth saying. The main factors were three: a statement was untrue or true; unbeneficial or beneficial, and not pleasing or pleasing to others. The Buddha only spoke what was true and beneficial. He would look for the time to speak these things whether or not it was pleasing to others.
 
-| With the main three factors, speeches can be divided into six types:
-| (1) Untrue, unbeneficial and not pleasing
-| (2) True, unbeneficial and not pleasing
-| (3) True, beneficial and not pleasing
-| (4) Untrue, unbeneficial and pleasing
-| (5) True, unbeneficial and pleasing
-| (6) True, beneficial and pleasing
-| 
+With the main three factors, speeches can be divided into six types:
+
+(1) Untrue, unbeneficial and not pleasing
+(2) True, unbeneficial and not pleasing
+(3) True, beneficial and not pleasing
+(4) Untrue, unbeneficial and pleasing
+(5) True, unbeneficial and pleasing
+(6) True, beneficial and pleasing
 
 The Buddha spoke only what was true and beneficial. It might be pleased or not pleasing to others. But he would look for the appropriate time to speak them. So the Buddha spoke only (3) and (6) types of speech. One of the attributes of the Buddha is sugato – the well-spoken person (sugato also has other meanings). The first quality of the Dhamma is svākkhāta – well expounded, that is good in the beginning, in the middle and the end.
 
-Therefore, the Buddha was the well-spoken person. His speeches were educating and training to become a worthy person. The speech the Buddha spoke for attaining Nibbāna that made an end to sufferings (dukkha). Therefore, it was unsurpassed. The Buddha himself encouraged people for it. Therefore, among the speeches, the speech on the Four Noble Truths is the most blessing and the best protection.
+Therefore, the Buddha was the well-spoken person. His speeches were educating and training to become a worthy person. The speech the Buddha spoke for attaining Nibbāna that made an end to sufferings (dukkha). So, it was unsurpassed. The Buddha himself encouraged people for it. Therefore, among the speeches, the speech on the Four Noble Truths is the most blessing and the best protection.
+
 Last I want to quote a sutta and the topics of conversation in the Aṅguttara Nikāya. It is very important because we converse with people nearly all times. With conversations, human beings create a lot of wholesome and unwholesome kammas in all walks of life from the family level to government level. Therefore, we should take it very seriously. In the sutta, the Buddha reminded it to the monks. But it also relates to lay-people. If everyone follows the instruction will bring happiness and peace in life and not pollute the mind, which is the source.
 
 Topics of Conversation (Aṅguttara Nikāya)
@@ -126,11 +127,11 @@ We are not only engaging in conversation with others but also nowadays listening
 
 The speech also can lead to harmony, peace, love, compassion, and enlightenment. There are eight causes for wrong views to arise: Two of the causes are very important, and the Buddha mentioned it very often in some of his discourses. These are: listening to wrong talks/ teachings and unwise attention (ayonisomanasikāra). Right view also based on listening to the right talks/ teachings and wise attention. In the Noble Eightfold Path, right view comes first, because it will lead to the right directions. Therefore, the wrong view also will lead to the wrong directions.
 
-Therefore, the outcomes of the wrong view are bad consequences and right views are good consequences. Topics on speech are wide and profound. People are using it every day in the life. And if we can use it skillfully, then it is a better world to live. To understand more on speech, it needs to study the suttas. The Buddha was called Satthā deva-manussānaṁ – Teacher of gods and humans. Therefore, well-spoken words are real protection and blessing.
+So, the outcomes of the wrong view are bad consequences and right views are good consequences. Topics on speech are wide and profound. People are using it every day in the life. And if we can use it skillfully, then it is a better world to live. To understand more on speech, it needs to study the suttas. The Buddha was called Satthā deva-manussānaṁ – Teacher of gods and humans. Therefore, well-spoken words are real protection and blessing.
 
 ------
 
-revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36818#p36818 (posted on 2019-09-26)
+revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36818#p36818 (posted on 2019-09-26)
 
 ------
 
@@ -145,5 +146,6 @@ revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

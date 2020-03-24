@@ -3,12 +3,12 @@ Having a Good / Ugly Look and Physical Structure (Maṅgala Sutta – Protection
 ==============================================================================================
 
 :date: 2019-12-03
-:modified: 2020-02-27
+:modified: 2020-03-24
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Having a Good / Ugly Look and Physical Structure (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-02-27
+revised on 2020-03-24
 
 ------
 
@@ -22,7 +22,6 @@ Physical good look is important in the human world. A woman poor and low status 
 
 Mrs. Simpson became the wife of King Edward because of having a good look. Do not talk about human; even beautiful and cute animals will be looked after by wealthy people. Their lives are even better than some human beings.
 
-
 Having an ugly look and physical structure:
 
 Someone has an ugly look, but with wealth and higher status. Still, he or she has difficulty in the same social class. This was evident in the Jātaka story of Prince Kusa and the beautiful woman Pabbavati. To conquer her heart, the Bodhisatta had to suffer a lot (the ugly Prince Kusa was one of the past lives of the Bodhisatta).
@@ -31,7 +30,7 @@ A beautiful woman with an ugly husband and others will take him as her servant. 
 
 ------
 
-revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36796#p36796 (posted on 2019-09-21)
+revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36796#p36796 (posted on 2019-09-21)
 
 ------
 
@@ -46,5 +45,6 @@ revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

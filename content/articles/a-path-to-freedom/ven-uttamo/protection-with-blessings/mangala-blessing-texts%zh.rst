@@ -3,12 +3,12 @@ Texts — Maṅgala Sutta: Discourse on Protection with Blessings
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-02-27
+:modified: 2020-03-24
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Texts — Maṅgala Sutta: Discourse on Protection with Blessings
 
-revised on 2020-02-27
+revised on 2020-03-24
 
 ------
 
@@ -35,7 +35,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 | 12. Putta-dārassa saṅgaho：Assistance to one’s wife and children.
 | 13. Anākulā ca kammantā ：Consistency in one’s work.
 | Etam maṅgalam-uttamaṁ：This is the highest protection with a blessing.
-
+| 
 | 14/15. Dānañca dhamma cariyā ca：Giving, living in rectitude.
 | 16. Ñātakānañ ca saṅgaho：Assistance to one’s relatives.
 | 17. Anavajjāni kammāni：Blameless deeds.
@@ -124,19 +124,18 @@ There was also a counterpart of Maṅgala Sutta in the Suttanipāta called Downf
 
 The causes of downfall in the sutta were: 
 
-|     • 1. One who detests the Dhamma (e.g., the ten causes of wholesome kamma);
-|     • 2. Associating with bad people and preferring their teaching (e.g., the ten unwholesome kamma);
-|     • 3. Indolence;
-|     • 4. Not supporting one’s parents, not taking care of them, not serving them (with this point we can appreciate the wisdom of the Chinese sages – the Shao-tao as a foundation of progress);
-|     • 5. Deceptive speech;
-|     • 6. Miserliness (Here the Buddha mentioned very rich people indulgence in sensual pleasures and a miser to others. Even in U.S. we heard news about a wealthy politician using public funds for pleasure);
-|     • 7. Social pride, look down on one’s relatives;
-|     • 8. Sexual promiscuity, indulgence in liquor, fondness for gambling;
-|     • 9. Not content with one’s wife, with others’ wives and prostitutes;
-|     • 10. With old age marries a girl and could not sleep from jealousy over her (there was a Thai news some years ago, a 74 years-old man married a 14 years-old girl);
-|     • 11. Debauched, spendthrift;
-|     • 12. With little wealth and strong craving, no contentment, with strong craving and thirst for power (we can see that politician’s thirst for money and business men’s thirst for power in today world).
-| 
+1. One who detests the Dhamma (e.g., the ten causes of wholesome kamma);
+2. Associating with bad people and preferring their teaching (e.g., the ten unwholesome kamma);
+3. Indolence;
+4. Not supporting one’s parents, not taking care of them, not serving them (with this point we can appreciate the wisdom of the Chinese sages – the Shao-tao as a foundation of progress);
+5. Deceptive speech;
+6. Miserliness (Here the Buddha mentioned very rich people indulgence in sensual pleasures and a miser to others. Even in U.S. we heard news about a wealthy politician using public funds for pleasure);
+7. Social pride, look down on one’s relatives;
+8. Sexual promiscuity, indulgence in liquor, fondness for gambling;
+9. Not content with one’s wife, with others’ wives and prostitutes;
+10. With old age marries a girl and could not sleep from jealousy over her (there was a Thai news some years ago, a 74 years-old man married a 14 years-old girl);
+11. Debauched, spendthrift;
+12. With little wealth and strong craving, no contentment, with strong craving and thirst for power (we can see that politician’s thirst for money and business men’s thirst for power in today world).
 
 After the Buddha explaining the twelfth cause for downfall and the deity stopped for asking other causes. The reason was he found no pleasure in the causes of downfall. Countless of deities had strong saṁvega in the teaching and practiced accordingly, attained the fruits of stream-entry, one-returner and non-returner respectively. Although the Buddha stopped the causes of downfall further, we can continue the contemplation. In the small booklet of “Abhidhamma in Daily Life” by Sayadaw Ashin Janakābhivamsa it mentioned about the unwholesome and wholesome mental factors (akusala and kusala cetasikas). There are fourteen unwholesome mental states or factors effecting the mind (citta) towards negative directions and results. These are:
 
@@ -155,7 +154,7 @@ We are learning the Maṅgala Sutta by heart even at a young age as children. Bu
 
 ------
 
-revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36769#p36769 (posted on 2019-09-11)
+revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36769#p36769 (posted on 2019-09-11)
 
 ------
 
@@ -170,5 +169,6 @@ revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

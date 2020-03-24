@@ -3,12 +3,12 @@ Broad Knowledge (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-02-27
+:modified: 2020-03-24
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Broad Knowledge (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-02-27
+revised on 2020-03-24
 
 ------
 
@@ -20,9 +20,9 @@ Bāhusacca means broad knowledge or much learning. The commentary referred it to
 
 It is also very important to contemplate on Suta (learning). Humans experience the world with the six sense-doors. Not all living beings are using of them, e.g., the Brahma Gods. They only use the eyes, ears and mind doors which are only necessary for them.
 
-They use them to come and see the Buddha and his Disciples for listening the Dhamma. Only the immaterial jhanic gods and material Jhanic Gods without minds cannot use them (Brahma gods with only mind and with only body). How do human beings use their six sense-doors? Mostly they use for sensual pleasures and indulgence in them; using their mind doors and proliferation, imaginations, inventions for this purpose. What is about the animals? They are also the same even it may have limitations. Humans can be above animals only if we want to develop our minds above them. This is because we have the capacity and ability for it. How to do it? It is the wholesome and higher education of sīla, samādhi and paññā. By following the teachings or education of the Buddha and ancient sages,  they will have the worldly and transcendental blessings; otherwise we humans can be worse than animals.
+They use them to come and see the Buddha and his Disciples for listening the Dhamma. Only the immaterial jhanic gods and material Jhanic Gods without minds cannot use them (Brahma gods with only mind and with only body). How do human beings use their six sense-doors? Mostly they use for sensual pleasures and indulgence in them; using their mind doors with proliferation, imaginations, inventions for this purpose. What is about the animals? They are also the same even it may have limitations. Humans can be above animals only if we want to develop our minds above them. This is because we have the capacity and ability for it. How to do it? It is the wholesome and higher education of sīla, samādhi and paññā. By following the teachings or education of the Buddha and ancient sages,  they will have the worldly and transcendental blessings; otherwise we humans can be worse than animals.
 
-Usually we take education as learning for reading and writing from young age at primary school until graduate from university or an institute for a living or profession. Even we very rarely use the word education for changing the mind and character of criminals, drug addicts, etc., instead we use the word rehabilitation. In politics and religions we use the word brain washing (menticide) in the negative sense as exploiting and manipulating. In a broader and wider sense, education is about knowledge which can be right or wrong. The Buddha made a very clear differentiation between them. For most worldlings they follow their own desire without proper or right standards. The views of common people are changing with time and situations. Their views and thoughts depend on their understandings and maturity. Because there are influenced by different levels and types of defilement.
+Usually we take education as learning for reading and writing from young age at primary school until graduate from university or an institute for a living or profession. Even we very rarely use the word education for changing the mind and character of criminals, drug addicts, etc., instead we use the word rehabilitation. In politics and religions we use the word brain washing (menticide) in the negative sense as exploiting and manipulating. In a broader and wider sense, education is about knowledge which can be right or wrong. The Buddha made a very clear differentiation between them. For most worldlings they follow their own desire without proper or right standards. The views of common people are changing with time and situations. Their views and thoughts depend on their understandings and maturity. Because these are influenced by different levels and types of defilement.
 
 Natural laws are unchangeable; unwholesome dhammas are always unwholesome and wholesome dhammas are also the same. The sun always arises from the east and sets to the west. We cannot change the natural laws but only our minds. If the mind is not pure, then make it pure; not good, make it good. An untrained mind brings suffering, whereas a trained mind brings happiness. Therefore, broad knowledge or much learning is for the purpose of training the mind towards the right and wholesome directions, developing it higher and higher and at last transcend all sufferings. This highest goal and blessing can be fulfilled only by the Buddha Dhamma or education, and no other ways.
 
@@ -58,21 +58,22 @@ For this point, there was a story in the Dhammapada on Tanhā Vagga – Chapter 
 
 By the Buddha; studying and learning for knowledge should have right intention and purpose. Using it also had to be right.
 
-| There are three kinds of study:
-| (1) Studying for preservation, e.g., Ven. Ānanda.
-| (2) Studying for transcending dukkha, i.e., study and practice.
-| (3) The wrong study; it is like catching a poisonous snake in the wrong way, e.g., Kapila monk, | Ariṭṭha monk (MN.22 Alagaddūpamasuttaṃ;  Sv. 5, pācittiya 68, 1; Vin. IV, p131).
-| 
-| There are four ways people can increase in defilement (kilesa). These are:
-| (1) With broad knowledge
-| (2) With old age, increase in sensual pleasure with age
-| (3) With fame, e.g., actors and actresses
-| (4) With increasing in wealth,
-| 
+There are three kinds of study:
+
+(1) Studying for preservation, e.g., Ven. Ānanda.
+(2) Studying for transcending dukkha, i.e., study and practice.
+(3) The wrong study; it is like catching a poisonous snake in the wrong way, e.g., Kapila monk, Ariṭṭha monk (MN.22 Alagaddūpamasuttaṃ;  Sv. 5, pācittiya 68, 1; Vin. IV, p131).
+
+There are four ways people can increase in defilement (kilesa). These are:
+
+(1) With broad knowledge
+(2) With old age, increase in sensual pleasure with age
+(3) With fame, e.g., actors and actresses
+(4) With increasing in wealth.
 
 This point (i.e., no. 4.) is quite clear. Most rich people do not know how to use them properly. Power-mongers of politicians want to become rich. Wealth-mongers of businessmen want power. They are supporting each other. Today some of the human problems and environmental problems were made by them.
 
-The word (-monger) is added to nouns which denotes a person promoting or engaging in a particular activity, starting or encouraging trouble among others. Here I use it in a wider sense. It seems that present humans are in craziness. They are always in competitions and it can be called as the American syndrome. If Americans became monks, they would still be competing. A lot of competition is going on in politics economics, sports, etc. There are trade wars between countries or among countries (e.g., China and U.S.). It comes from no appreciation for other success and related to envy, jealousy, ill-will, greediness, etc.
+The word (-monger) is added to nouns which denotes a person promoting or engaging in a particular activity, starting or encouraging trouble among others. Here I use it in a wider sense. It seems that present humans are in craziness. They are always in competitions and it can be called as the American syndrome. If Americans became monks, they would still be competing. A lot of competition is going on in politics, economics, sports, etc. There are trade wars between countries or among countries (e.g., China and U.S.). It comes from no appreciation for other success and related to envy, jealousy, selfishness, stinginess, ill-will, greediness, etc. The outcomes of these negative mental states and actions make people live in hostility, violence, rivalry, ill-will, with those who are hostile. (see DN 21 Sakkapañhasuttaṃ, Dīghanikāya.)
 
 All these create unstable economy and harmful to other countries and its citizens. It is also the same in sports and sometimes it goes extreme that people lost their lives and severe injuries. All these worldly competitions become for power, wealth and fame which increase defilement. These are called inferior competitions which will develop human ego, pride, conceit. Therefore, there are two types of competition, wholesome and unwholesome. Increasing one’s physical and mental well-being is wholesome, otherwise it is unwholesome. We can justify today human societies and environments as right or wrong competitions. It is wrong to increase defilement which brings dangers and disasters.
 
@@ -88,7 +89,7 @@ Progress-upward way is the opposite, with positive results and benefit for himse
 
 ------
 
-revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36809#p36809 (posted on 2019-09-24)
+revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36809#p36809 (posted on 2019-09-24)
 
 ------
 
@@ -103,5 +104,6 @@ revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

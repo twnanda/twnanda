@@ -3,12 +3,12 @@ Presence / Lacking of Mindfulness, Intelligence and Perseverance (Maṅgala Sutt
 ================================================================================================================
 
 :date: 2019-12-03
-:modified: 2020-02-27
+:modified: 2020-03-24
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Presence / Lacking of Mindfulness, Intelligence and Perseverance (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-02-27
+revised on 2020-03-24
 
 ------
 
@@ -30,8 +30,6 @@ Present payoga-samāpatti can make one succeeds in business and has good health.
 
 In payoga-samāpatti, knowledge of understanding things is the first important; then have awareness in matters and not to be lazy to make an effort and perseverance when matters arise.
 
-------
-
 Lacking of mindfulness, intelligence and perseverance:
 
 Without knowledge and intelligence become foolish. No mindfulness, heedlessness, laziness, no effort, etc. are payoga-vipatti. Has envy and avarice on others, impatience, anger and conceit in matters, etc. all these are payoga-vipatti which disturb and hinder progress. The main point here is except the strong or heavy unwholesome or wholesome kammas. The small or light kammas of the past have the chances or not is depending on human payogas (payoga-samāpatti and vipatti).
@@ -46,7 +44,7 @@ Very few people have wealth and powers, but they misuse them and create more ser
 
 ------
 
-revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36798#p36798 (posted on 2019-09-21)
+revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36798#p36798 (posted on 2019-09-21)
 
 ------
 
@@ -61,5 +59,6 @@ revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

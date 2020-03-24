@@ -3,12 +3,12 @@ Consistency in One's Work (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-02-27
+:modified: 2020-03-24
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Consistency in One's Work (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-02-27
+revised on 2020-03-24
 
 ------
 
@@ -28,9 +28,9 @@ At doing one's task, we should not waste time and do it later. We should be acti
 
 Nowadays, human beings are doing all these meaningless things than before. Do human beings become wiser than before? Do they progress or regression? If we observe the societies and environments, all kinds of internal and external pollution is going on. Why is that? Anthropologists say: Human beings are developing from a type of ape. If it is true, then human beings should become wiser and intelligent. This is Evolution. But if we observe and contemplate about human beings, they are closer to ape than human.
 
-The human mind is becoming more and more like a monkey. Is it human becoming in devolution? Evolution and devolution are in our mind. If someone behaves like an animal, then he is in devolution. You cannot measure progress or Evolution with power, money, fame, and the amount of sensual pleasure. These are the ways to downfall. It is nothing to do with the external matters but the internal ones. Therefore, each human creates hell, animal, ghost, heaven, etc. for himself on Earth. This also his future destiny after he dies.
+The human mind is becoming more and more like a monkey. Is it human becoming in devolution? Evolution and devolution are in our mind. If someone behaves like an animal, then he is in devolution. You cannot measure progress or Evolution with power, money, fame, and the amount of sensual pleasure. These are the ways to downfall. It is nothing to do with the external matters but the internal ones. So, each human creates hell, animal, ghost, heaven, etc. for himself on Earth. This also his future destiny after he dies.
 
-Man on the highest level of evolution can become a Buddha, and to the lowest level of devolution becomes a hell being. All the levels are in each one of us. One early morning in June, there was a pink lotus flower opened its beautiful and fragrant petals in a small pond. It decorated the Earth with its beauty and purity. After sometimes the sun was rising higher, and then the weather became very hot. The lotus closed its petals and protected itself from the strong heat. But nowadays human beings know all the dangers come out from pollution, continue to do all the foolish things are quite stupid and foolish.
+Man on the highest level of evolution can become a Buddha, and to the lowest level of devolution becomes a hell being. All the levels are in each one of us. One early morning in June, there was a pink lotus flower opened its beautiful and fragrant petals in a small pond. It decorated the Earth with its beauty and purity. After sometimes the sun was rising higher, and then the weather became very hot. The lotus closed its petals and protected itself from the strong heat. It would be quite stupid and foolish for today's human beings to still continue to do all the foolish things although they know all the dangers come out from pollution.
 
 Could human beings have a future? Yes, they have. Only they behave like a human; not like an animal, ghost, and  hell-being is. They should only do things which have values and for the welfare of the human race and nature. If we practice samatha and vipassanā regularly with consistency is a great blessing and protection. Consistency in one's work is very important whatever task we are doing, whether it is worldly or spiritual matters. We should not spoil it by laziness, carelessness with wasting, and postponing of time.
 
@@ -38,8 +38,7 @@ During the time of the Buddha, there was a good story on these points. Three fri
 
 In one of their past lives; these monks were the students of the Bodhisatta – who was a teacher. One day the teacher asked the students to collect fire woods in the forest for the next morning meal because they had to go to a distant place in the early morning for an invitation. All the students went to the forest and did their duties properly. But the lazy student (the 3rd injured monk) not did his job properly. Instead, he chose a big tree, lied down and slept, thinking that near the time of leaving he could go up and break the branches for fire woods. At the time of going back; he quickly got up, climbed the tree, and broke some of the branches.
 
-He had done it in a rush and carelessness that the tip of a branch hit one of his eyes. He was suffered in pain and came down quickly, took the wet branches of the fire woods, and followed behind the others. His wet fire woods were mixed with the dry ones. The servant did not know it and picked up the wet ones to cook for the gruel.
-At last the students missed the chance to the invitation.
+He had done it in a rush and carelessness that the tip of a branch hit one of his eyes. He was suffered in pain and came down quickly, took the wet branches of the fire woods, and followed behind the others. His wet fire woods were mixed with the dry ones. The servant did not know it and picked up the wet ones to cook for the gruel. At last the students missed the chance to the invitation.
 
 This story taught us a good lesson. We should not do things with disinterest, wasting time, in a rush, improperly, disarray and confused. What about today, human beings are doing things? Are they better than this monk or student? By studying, observing, and contemplating today human and society will know that it is not better. Some politicians, business people (including economists), scientists, technologist, artists, etc. are viewing and doing things with greed, hatred, and delusion for power, wealth and fame. They are not only harming themselves (they have to pay for their kammic consequences) but also to the human race.
 
@@ -49,7 +48,7 @@ As a Buddhist, the best protection and blessing is consistency in one's work to 
 
 ------
 
-revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36864#p36864 (posted on 2019-10-14)
+revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36864#p36864 (posted on 2019-10-14)
 
 ------
 
@@ -64,5 +63,6 @@ revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

@@ -3,12 +3,12 @@ Consorting with the Wise (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-02-27
+:modified: 2020-03-24
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Consorting with the Wise (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-02-27
+revised on 2020-03-24
 
 ------
 
@@ -22,7 +22,7 @@ Therefore, knowing and not practicing is not a wise man. The Chinese saying said
 
 The Jātaka story about two parrots was a good example of the fool and the wise. Two parrot chicks were blown away by the wind; one of them landed at the place of a group of hermits and was looked after by them. It grew up and had the kind nature and good behavior like the group of hermits. The other chick landed at the place of bandits and was looked after by them. It grew up and had violent nature and bad behavior like the bandits. Therefore, making friends and association with people are a very important part of human life. And we should not take it lightly.
 
-The commentary mentioned some benefits by association with the wise. They were like guards in the time of dangers, like a lamp for someone in the dark, like someone obtaining foods and drinks when he suffered hunger and thirst. The wise-man was able to dispel dangers, disasters, calamities, etc. of those who took his advice and suggestion. (??or The wise were able to dispel dangers, disasters, calamities, etc. of  those who took their advice and suggestion.) 
+The commentary mentioned some benefits by association with the wise. They were like guards in the time of dangers, like a lamp for someone in the dark, like someone obtaining foods and drinks when he suffered hunger and thirst. The wise were able to dispel dangers, disasters, calamities, etc. of those who took their advice and suggestion.
 
 The commentary mentioned the Buddha, ariyan disciples, bodhisattas, etc. as wise people. The benefits we can receive by associating with the wise are very clear if we read and study the stories in suttas (such as Dhammapada, Jātaka, etc.). We should contemplate the following question. “Are today human beings becoming wiser?” We will get the right answer with the knowledge of Buddha’s teachings and sages if we contemplate the current world situations.
 
@@ -30,7 +30,7 @@ In the past Sāriputta answered his former teacher Sañjaya as there were more f
 
 ------
 
-revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36773#p36773 (posted on 2019-09-12)
+revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36773#p36773 (posted on 2019-09-12)
 
 ------
 
@@ -45,5 +45,6 @@ revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

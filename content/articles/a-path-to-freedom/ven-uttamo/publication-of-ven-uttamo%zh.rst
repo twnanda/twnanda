@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2020-03-11
+:modified: 2020-03-24
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -706,7 +706,7 @@ Protection with Blessing
 
 - `Paying Homage to Those Worthy of Homage <{filename}protection-with-blessings/mangala-blessings-03-paying-homage-to-those-worthy-of-homage%zh.rst>`_
 
-- `Living in a Civilized Land <{filename}protection-with-blessings/mangala-blessings-04-living-in-a-civilized-land%zh.rst>`_
+- `Residing in a Suitable Place <{filename}protection-with-blessings/mangala-blessings-04-residing-in-a-suitable-place%zh.rst>`_
 
 - `Having Made Merit in the Past <{filename}protection-with-blessings/mangala-blessings-05-having-made-merit-in-the-past%zh.rst>`_
 
@@ -815,6 +815,7 @@ Protection with Blessing
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-24 rev. the 2nd proofread by bhante
   2020-03-11 add PDF files: for read & print; suspended  `html  <>`; The Best Fonts to Use in Print, Online, and Email (By John Wood, 2011 October)-- https://www.awai.com/2011/10/the-best-fonts-to-use-in-print-online-and-email/ ; 設計素養第一課：教科書字體選用指南: https://blog.justfont.com/2018/10/text-book-fonts/ ; 電腦族必知！原來這字體顏色對眼睛好: https://helloyishi.com.tw/healthy-living/eye-health/different-fonts-of-word-affect-your-reading-and-eyes/
   12-03 add: Maṅgala Sutta – Protection with Blessing
   12-02 add: part 12-23. Transcending of Time

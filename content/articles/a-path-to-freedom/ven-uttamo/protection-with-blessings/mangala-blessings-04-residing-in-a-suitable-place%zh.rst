@@ -3,12 +3,12 @@ Residing in a Suitable Place (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-02-27
+:modified: 2020-03-24
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Residing in a Suitable Place (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-02-27
+revised on 2020-03-24
 
 ------
 
@@ -28,14 +28,14 @@ We should reside in countries where there is the Buddha sāsana. In general, a p
 
 There are six unsurpassed things – anuttariya dhamma. A place where we can fulfill these six noble dhammas is a blessing place. We must live in a suitable and good place to obtain them.
 
-| The six noble dhammas are:
-| 1. the unsurpassed sight
-| 2. the unsurpassed hearing
-| 3. the unsurpassed gain
-| 4. the unsurpassed training
-| 5. the unsurpassed service
-| 6. the unsurpassed recollection.
-| 
+The six noble dhammas are:
+
+1. the unsurpassed sight
+2. the unsurpassed hearing
+3. the unsurpassed gain
+4. the unsurpassed training
+5. the unsurpassed service
+6. the unsurpassed recollection.
 
 The unsurpassed sight is seeing the Buddha and Saṅgha. The unsurpassed gain is faith – saddhā; having faith in the triple gems (Buddha, Dhamma, and Saṅgha) and the law of kamma.
 
@@ -61,7 +61,7 @@ These are: ① hells, ② animals, ③ ghosts-realms; ④ Brahma gods with only 
 
 ------
 
-revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36775#p36775 (posted on 2019-09-12)
+revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36775#p36775 (posted on 2019-09-12)
 
 ------
 
@@ -76,5 +76,6 @@ revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante; replace title "Living in a Civilized Land"(old) with "Residing in a Suitable Place"
   2019-12-03  create rst
