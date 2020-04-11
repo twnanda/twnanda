@@ -2,7 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2019-12-03
+:modified: 2020-04-11
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -107,6 +107,12 @@
 
 ----
 
+.. _ven_bhikkhu_bodhi_discourse_on_covid_19:
+
+- `尊者　菩提長老針對2019新冠病毒疫情的開示 (Ven. Bhikkhu Bodhi's discourse on Covid-19 Pandemic) <{filename}/articles/a-path-to-freedom/ven-bodhi/bhikkhu-bodhi-discourse-on-covid-19-pandemic%zh.rst>`_  (posted on 2020-04-11)
+
+----
+
 - `Maṅgala Sutta – Protection with Blessing <{filename}/articles/a-path-to-freedom/ven-uttamo/protection-with-blessings/content-of-protection-with-blessings%zh.rst>`_ : (in English)《吉祥經》（尊者　 **鄔達摩長老** 編著，英文）
 
 - `Dhmma Talks by Mogok Sayadaw <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`_ : Translation based on the recorded tapes by **Ven. Uttamo thera** （尊者　 **莫哥西亞多** 開示錄；由　尊者　 **鄔達摩　長老** 　自緬甸語錄音帶譯為 **英文** ）
@@ -192,6 +198,7 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  2020-04-11 add 尊者　菩提長老針對2019新冠病毒疫情的開示
   12-03 add: Maṅgala Sutta – Protection with Blessing
   2019-02-06 rev. 《佛陀的啟示》post; editting 10-25 for rst; old:/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.html; replace Nanaransi (Ñāṇaransi ?) (01-13) with Ādiccaramsī
   2019-01-03 add: Dhmma Talks by Mogok Sayadaw & Eighteen Days In Solitude (translator: Ven. Uttamo thera, English) (add on 2018-12-28; finish on 2019-01-03)
