@@ -1,0 +1,135 @@
+Sub TimesCSX2Uni()
+'
+' macro script for Times_CSX+ to Unicode for MS Word on Windows
+' InfoTech. Support: Heaven Chou and Gregory Chou, Edited by Nanda (Taiwan), Nov. 2014 (Ver.1-- Oct. 2014)
+' Times_CSX+ to Uni 巨集-- 把 Times_CSX+ 字集的文字 轉成 UNICODE 文字之微軟 Word 巨集
+' Heaven Chou 及 Gregory Chou (周)　兩位工程師　師兄提供技術支援, 臺灣 Nanda 編寫 2014.10月.
+' Heaven Chou 工程師　師兄提供技術支援, 臺灣 Nanda 編輯, 2020.4月 加入執行註腳部份.
+'
+    Selection.Find.ClearFormatting
+    Selection.Find.Replacement.ClearFormatting
+    With Selection.Find
+        .Forward = True
+        .Format = True
+        .Wrap = wdFindContinue
+'       original:  .Font.Name = "Times_CSX+"
+        .Font.NameAscii = "Times_CSX+"
+        .Replacement.Font.Name = "Arial Unicode MS"
+        .MatchCase = True
+        .MatchWholeWord = False
+        .MatchByte = True
+        .MatchWildcards = False
+        .MatchSoundsLike = False
+        .MatchAllWordForms = False
+        
+        .Execute FindText:=" ", ReplaceWith:=" ", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+'
+'  from aa to .l (從 aa 到 .l)
+        .Execute FindText:=ChrW(&HE0), ReplaceWith:=ChrW(&H101), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HE3), ReplaceWith:=ChrW(&H12B), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HE5), ReplaceWith:=ChrW(&H16B), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HEF), ReplaceWith:=ChrW(&H1E45), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HA4), ReplaceWith:=ChrW(&HF1), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF1), ReplaceWith:=ChrW(&H1E6D), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF3), ReplaceWith:=ChrW(&H1E0D), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF5), ReplaceWith:=ChrW(&H1E47), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HFC), ReplaceWith:=ChrW(&H1E43), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HEB), ReplaceWith:=ChrW(&H1E37), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HA7), ReplaceWith:=ChrW(&H1E41), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+
+'  from AA to .L (從 AA 到 .L)
+        .Execute FindText:=ChrW(&HE2), ReplaceWith:=ChrW(&H100), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HE4), ReplaceWith:=ChrW(&H12A), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HE6), ReplaceWith:=ChrW(&H16A), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF0), ReplaceWith:=ChrW(&H1E44), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HD1), ReplaceWith:=ChrW(&HD1), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF2), ReplaceWith:=ChrW(&H1E6C), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF4), ReplaceWith:=ChrW(&H1E0C), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF6), ReplaceWith:=ChrW(&H1E46), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HFD), ReplaceWith:=ChrW(&H1E42), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HEC), ReplaceWith:=ChrW(&H1E36), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+
+' quotation mark
+        .Execute FindText:=ChrW(&HDF), ReplaceWith:=ChrW(&H93), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HFB), ReplaceWith:=ChrW(&H94), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&H60), ReplaceWith:=ChrW(&H91), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&H27), ReplaceWith:=ChrW(&H92), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HE04C), ReplaceWith:=ChrW(&H2E), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+
+'  00DE ReplaceWith 002D twice (means --)
+       .Execute FindText:=ChrW(&HDE), ReplaceWith:="--", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+       
+'  replace the others English
+       .Execute FindText:="([a-zA-Z0-9,:;\-\[\]\+\*])", ReplaceWith:="\1", Replace:=wdReplaceAll, Wrap:=wdFindContinue, MatchWildcards:=True
+
+'  replace the others but will change chinese font too!
+'        .Execute FindText:="", ReplaceWith:="", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+
+    End With
+
+ ' 以下執行註腳部份
+       Dim rg As Range
+       Set rg = ActiveDocument.StoryRanges(wdFootnotesStory)
+       rg.Find.ClearFormatting
+       rg.Find.Replacement.ClearFormatting
+    
+    With rg.Find
+        .Forward = True
+        .Format = True
+        .Wrap = wdFindContinue
+
+        .Font.NameAscii = "Times_CSX+"
+        .Replacement.Font.Name = "Arial Unicode MS"
+        .MatchCase = True
+        .MatchWholeWord = False
+        .MatchByte = True
+        .MatchWildcards = False
+        .MatchSoundsLike = False
+        .MatchAllWordForms = False
+
+        .Execute FindText:=" ", ReplaceWith:=" ", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+'
+'  from aa to .l (從 aa 到 .l)
+        .Execute FindText:=ChrW(&HE0), ReplaceWith:=ChrW(&H101), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HE3), ReplaceWith:=ChrW(&H12B), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HE5), ReplaceWith:=ChrW(&H16B), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HEF), ReplaceWith:=ChrW(&H1E45), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HA4), ReplaceWith:=ChrW(&HF1), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF1), ReplaceWith:=ChrW(&H1E6D), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF3), ReplaceWith:=ChrW(&H1E0D), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF5), ReplaceWith:=ChrW(&H1E47), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HFC), ReplaceWith:=ChrW(&H1E43), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HEB), ReplaceWith:=ChrW(&H1E37), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HA7), ReplaceWith:=ChrW(&H1E41), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+
+'  from AA to .L (從 AA 到 .L)
+        .Execute FindText:=ChrW(&HE2), ReplaceWith:=ChrW(&H100), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HE4), ReplaceWith:=ChrW(&H12A), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HE6), ReplaceWith:=ChrW(&H16A), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF0), ReplaceWith:=ChrW(&H1E44), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HD1), ReplaceWith:=ChrW(&HD1), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF2), ReplaceWith:=ChrW(&H1E6C), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF4), ReplaceWith:=ChrW(&H1E0C), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF6), ReplaceWith:=ChrW(&H1E46), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HFD), ReplaceWith:=ChrW(&H1E42), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HEC), ReplaceWith:=ChrW(&H1E36), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+
+' quotation mark
+        .Execute FindText:=ChrW(&HDF), ReplaceWith:=ChrW(&H93), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HFB), ReplaceWith:=ChrW(&H94), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&H60), ReplaceWith:=ChrW(&H91), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&H27), ReplaceWith:=ChrW(&H92), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HE04C), ReplaceWith:=ChrW(&H2E), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+
+'  00DE ReplaceWith 002D twice (means --)
+       .Execute FindText:=ChrW(&HDE), ReplaceWith:="--", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+       
+'  replace the others English
+       .Execute FindText:="([a-zA-Z0-9,:;\-\[\]\+\*])", ReplaceWith:="\1", Replace:=wdReplaceAll, Wrap:=wdFindContinue, MatchWildcards:=True
+
+'  replace the others but will change chinese font too!
+'        .Execute FindText:="", ReplaceWith:="", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+
+    End With
+
+End Sub

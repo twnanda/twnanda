@@ -10,15 +10,15 @@
 </center>
 <HR>
 
-<h4>資訊更新日期: 11.17, <a href="http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86">佛曆</a> (<a href="http://en.wikipedia.org/wiki/Buddhist_calendar">BE</a>)
- 2557; <a href="http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83">西元</a> 2014 <a href="http://en.wikipedia.org/wiki/Common_Era">CE</a>)
+<h4>資訊更新日期: 04.20, <a href="http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86">佛曆</a> (<a href="http://en.wikipedia.org/wiki/Buddhist_calendar">BE</a>)
+ 2563; <a href="http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83">西元</a> 2020 <a href="http://en.wikipedia.org/wiki/Common_Era">CE</a>)
   <!-- Buddhist-Era-wiki-Han.htm; Buddhist-Era-wiki-Eng.htm //-->
 </h4>
 <HR>
 <center>
 <h2>藉由 Word 巨集操作的步驟</h2>
 <h3>（以〝毗婆舍那禪〞 一書，處理 foreign1 轉 Unicode 的文字為例。）<br>
-※※※ 其他字型請參考<a href="#others">文末</a> ※※※</h3>
+※※※ 其他字型請參考<a href="#others">本文此段</a>；批次處理<a href="#batch-process-directory">整個目錄</a>（含次目錄） ※※※</h3>
 </center>
 <ol>
  <li>開啟 Word 檔，執行主功能表的 工具 → 巨集 → 巨集 ... , 即下圖紅框處.</li>
@@ -85,14 +85,29 @@
 *** Macro script for Foreign1 to Unicode for MS Word on Windows: <a href="for2uni-macro.txt">for2uni-macro.txt</a> ***
     </blockquote>
 <hr noshade>
-<a name="others">
 <h3>
-<li><a href="#merged-to-Uni-macro">整合多種字型(foreign1, Kh2, Times_CSX+, VriRomanPali_CN and VriRomanPali_CB) 轉 Unicode</a>、
-<li><a href="#Kh2">Kh2 字型轉 Unicode</a>、
-<li><a href="#Times_CSX">Times_CSX+ 字型轉 Unicode</a>、
-<li><a href="#VriRomanPali_CN or VriRomanPali_CB">VriRomanPali_CN or VriRomanPali_CB 字型轉 Unicode</a>
+<a name="batch-process-directory">
+<li><a href="#batch-process-directory-1">批次處理整個目錄（含次目錄以下）的檔案</a>（處理 foreign1 轉 Unicode 的文字為例）</li>
+<a name="others">
+<li><a href="#merged-to-Uni-macro">整合多種字型(foreign1, Kh2, Times_CSX+, VriRomanPali_CN and VriRomanPali_CB) 轉 Unicode</a>、</li>
+<li><a href="#Kh2">Kh2 字型轉 Unicode</a>、</li>
+<li><a href="#Times_CSX">Times_CSX+ 字型轉 Unicode</a>、</li>
+<li><a href="#VriRomanPali_CN or VriRomanPali_CB">VriRomanPali_CN or VriRomanPali_CB 字型轉 Unicode</a></li>
 </h3>
 <hr>
+<a name="batch-process-directory-1">
+<p style="text-align: left;">　　<font size=+2>若</font>欲批次處理整個目錄（含次目錄以下）的檔案（處理 foreign1 轉 Unicode 的文字為例）：
+<ol>
+<li><p style="text-align: left;">請於硬碟 D: 新增一目錄，名為 pali-fonts-transfer；將欲處理之檔案（含次目錄以下）的全部檔案複製至此目錄下。</p></li>
+<li><p style="text-align: left;">於步驟2 中建立 〝Sub f1_2_U_dir_bat〞 巨集 (Foreign1 to unicode, batch process, whole directory)，再於步驟 4 中，以 〝<a href="macro-word-batch-f1-to-unicode.txt">macro-word-batch-f1-to-unicode.txt</a>〞的內容全部複製 (或將滑鼠點上面〝macro-word-batch-f1-to-unicode.txt〞這個鏈結 → 按右鍵　→ 〝另存新檔〞或〝另存連結為〞→〝存檔〞→ 再以〝記事簿〞將其開啟 → 全選 → 複製)　並貼入視窗中。</p></li>
+<li><p style="text-align: left;">　　<font size=+2>其</font>他與前面所述之 for2uni 類推。</p></li>
+</ol>
+<p style="text-align: left;"><font size=+1>*** 感謝  <u><b>Heaven Chou</b></u> ( Heaven Chou 的 <a href="http://heavenchou.buddhason.org/">網站</a> 、 <a href="https://www.facebook.com/heavenchou"> FB</a>)師兄提供技術資訊！</p>
+    <blockquote>
+<p>*** Macro script for Foreign1 to Unicode, batch process on whole directory for MS Word on Windows: <a href="macro-word-batch-f1-to-unicode.txt">macro-word-batch-f1-to-unicode.txt</a> ***</p>
+<p>*** The editor of this webpage want to thank <b>Db. Heaven Chou</b> (Mr. Heaven Chou's <a href="http://heavenchou.buddhason.org/">website</a> and <a href="https://www.facebook.com/heavenchou"> FB </a>) who kindly provides the support of information technics. ***</p>
+    </blockquote>
+<hr noshade>
 <a name="merged-to-Uni-macro">
 <p>
 <p style="text-align: left;">　　<font size=+2>若</font>欲將多種字型(例如 foreign1, Kh2, Times_CSX+, VriRomanPali_CN and VriRomanPali_CB)轉為 Unicode 字型：則於步驟2 中建立 〝merged2Uni〞 巨集 ( multifonts merged to unicode)，再於步驟 4 中，以 〝<a href="to-Uni-macro-utf8.txt">to-Uni-macro-utf8.txt</a>〞的內容全部複製<br>
@@ -152,8 +167,8 @@
   <hr>
 <p>
 <font size=-2>
-最近更新(last updated): 11.17 (兩個檔案：to-Uni-macro-utf8.txt & Times_CSX-to-Uni-macro.txt)<br>
-Ver. 2: 10.22, 初版(1<sup>st</sup> ed.): 09.13
+最近更新(last updated): 2020-04-20 (加入"註腳"中之字型轉換、批次處理整個目錄)<br>
+初版(1<sup>st</sup> ed.): 2014-09-13 
 </font>
 <hr noshade>
 <h2><li>回到<a href="../dharma.htm">府城佛教網</a></h2>
@@ -162,6 +177,7 @@ Ver. 2: 10.22, 初版(1<sup>st</sup> ed.): 09.13
 <p>
 </body>
 <!--
+2020-04-20 add: 批次處理整個目錄; rev. 加入"註腳"中之字型轉換
 06.11 2015 rev. old:*** 轉好的Word文件，若發覺unicode字元好像變寬了，可以全部複製，再貼(Paste)到新文件上就正常了。
 11.17 rev. to-Uni-macro-utf8.txt & Times_CSX-to-Uni-macro.txt
 10.22 add: English acknowlege

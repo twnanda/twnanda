@@ -1,0 +1,190 @@
+Sub KH22Uni()
+'
+' macro script for KH2 to Unicode for MS Word on Windows
+' InfoTech. Support: Heaven Chou and Gregory Chou, Edited by Nanda (Taiwan), Oct. 2014
+' KH2 to Uni 巨集-- 把 KH2 字集的文字 轉成 UNICODE 文字之微軟 Word 巨集
+' Heaven Chou 及 Gregory Chou (周)　兩位工程師　師兄提供技術支援, 臺灣 Nanda 編寫 2014.10月.
+' Heaven Chou 工程師　師兄提供技術支援, 臺灣 Nanda 編輯, 2020.4月 加入執行註腳部份.
+'
+    Selection.Find.ClearFormatting
+    Selection.Find.Replacement.ClearFormatting
+    With Selection.Find
+        .Forward = True
+        .Format = True
+        .Wrap = wdFindContinue
+        .Font.Name = "KH2s_kj"
+        .Replacement.Font.Name = "Arial Unicode MS"
+        .MatchCase = True
+        .MatchWholeWord = False
+        .MatchByte = True
+        .MatchWildcards = False
+        .MatchSoundsLike = False
+        .MatchAllWordForms = False
+        
+        .Execute FindText:=" ", ReplaceWith:=" ", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="A", ReplaceWith:=ChrW(&H101), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="D", ReplaceWith:=ChrW(&H1E0D), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="G", ReplaceWith:=ChrW(&H1E45), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="H", ReplaceWith:=ChrW(&H1E25), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="I", ReplaceWith:=ChrW(&H12B), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="J", ReplaceWith:=ChrW(&HF1), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="L", ReplaceWith:=ChrW(&H1E37), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="M", ReplaceWith:=ChrW(&H1E43), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="N", ReplaceWith:=ChrW(&H1E47), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="R", ReplaceWith:=ChrW(&H1E5B), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="S", ReplaceWith:=ChrW(&H1E63), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="T", ReplaceWith:=ChrW(&H1E6D), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="U", ReplaceWith:=ChrW(&H16B), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HE5), ReplaceWith:=ChrW(&H41), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&H2202), ReplaceWith:=ChrW(&H44), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HA9), ReplaceWith:=ChrW(&H47), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&H2D9), ReplaceWith:=ChrW(&H48), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HEE), ReplaceWith:=ChrW(&H49), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&H2206), ReplaceWith:=ChrW(&H4A), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HAC), ReplaceWith:=ChrW(&H4C), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HB5), ReplaceWith:=ChrW(&H4D), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF1), ReplaceWith:=ChrW(&H4E), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HAE), ReplaceWith:=ChrW(&H52), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HDF), ReplaceWith:=ChrW(&H53), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&H2020), ReplaceWith:=ChrW(&H54), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HFC), ReplaceWith:=ChrW(&H55), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+'
+' 以下執行同一編碼字元換字型宣告
+        .Execute FindText:="a", ReplaceWith:="a", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="b", ReplaceWith:="b", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="c", ReplaceWith:="c", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="d", ReplaceWith:="d", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="e", ReplaceWith:="e", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="f", ReplaceWith:="f", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="g", ReplaceWith:="g", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="h", ReplaceWith:="h", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="i", ReplaceWith:="i", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="j", ReplaceWith:="j", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="k", ReplaceWith:="k", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="l", ReplaceWith:="l", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="m", ReplaceWith:="m", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="n", ReplaceWith:="n", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="o", ReplaceWith:="o", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="p", ReplaceWith:="p", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="q", ReplaceWith:="q", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="r", ReplaceWith:="r", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="s", ReplaceWith:="s", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="t", ReplaceWith:="t", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="u", ReplaceWith:="u", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="v", ReplaceWith:="v", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="w", ReplaceWith:="w", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="x", ReplaceWith:="x", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="y", ReplaceWith:="y", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+
+'        .Execute FindText:="", ReplaceWith:="z", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+
+        .Execute FindText:="B", ReplaceWith:="B", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="C", ReplaceWith:="C", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="E", ReplaceWith:="E", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="F", ReplaceWith:="F", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="K", ReplaceWith:="K", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="O", ReplaceWith:="O", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="P", ReplaceWith:="P", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="V", ReplaceWith:="V", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="W", ReplaceWith:="W", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="X", ReplaceWith:="X", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="Y", ReplaceWith:="Y", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+
+'        .Execute FindText:="", ReplaceWith:="Z", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+
+    End With
+
+ ' 以下執行註腳部份
+       Dim rg As Range
+       Set rg = ActiveDocument.StoryRanges(wdFootnotesStory)
+       rg.Find.ClearFormatting
+       rg.Find.Replacement.ClearFormatting
+    
+    With rg.Find
+        .Forward = True
+        .Format = True
+        .Wrap = wdFindContinue
+
+        .Font.Name = "KH2s_kj"
+        .Replacement.Font.Name = "Arial Unicode MS"
+        .MatchCase = True
+        .MatchWholeWord = False
+        .MatchByte = True
+        .MatchWildcards = False
+        .MatchSoundsLike = False
+        .MatchAllWordForms = False
+        
+        .Execute FindText:=" ", ReplaceWith:=" ", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="A", ReplaceWith:=ChrW(&H101), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="D", ReplaceWith:=ChrW(&H1E0D), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="G", ReplaceWith:=ChrW(&H1E45), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="H", ReplaceWith:=ChrW(&H1E25), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="I", ReplaceWith:=ChrW(&H12B), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="J", ReplaceWith:=ChrW(&HF1), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="L", ReplaceWith:=ChrW(&H1E37), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="M", ReplaceWith:=ChrW(&H1E43), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="N", ReplaceWith:=ChrW(&H1E47), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="R", ReplaceWith:=ChrW(&H1E5B), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="S", ReplaceWith:=ChrW(&H1E63), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="T", ReplaceWith:=ChrW(&H1E6D), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="U", ReplaceWith:=ChrW(&H16B), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HE5), ReplaceWith:=ChrW(&H41), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&H2202), ReplaceWith:=ChrW(&H44), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HA9), ReplaceWith:=ChrW(&H47), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&H2D9), ReplaceWith:=ChrW(&H48), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HEE), ReplaceWith:=ChrW(&H49), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&H2206), ReplaceWith:=ChrW(&H4A), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HAC), ReplaceWith:=ChrW(&H4C), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HB5), ReplaceWith:=ChrW(&H4D), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HF1), ReplaceWith:=ChrW(&H4E), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HAE), ReplaceWith:=ChrW(&H52), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HDF), ReplaceWith:=ChrW(&H53), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&H2020), ReplaceWith:=ChrW(&H54), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:=ChrW(&HFC), ReplaceWith:=ChrW(&H55), Replace:=wdReplaceAll, Wrap:=wdFindContinue
+'
+' 以下執行同一編碼字元換字型宣告
+        .Execute FindText:="a", ReplaceWith:="a", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="b", ReplaceWith:="b", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="c", ReplaceWith:="c", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="d", ReplaceWith:="d", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="e", ReplaceWith:="e", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="f", ReplaceWith:="f", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="g", ReplaceWith:="g", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="h", ReplaceWith:="h", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="i", ReplaceWith:="i", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="j", ReplaceWith:="j", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="k", ReplaceWith:="k", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="l", ReplaceWith:="l", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="m", ReplaceWith:="m", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="n", ReplaceWith:="n", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="o", ReplaceWith:="o", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="p", ReplaceWith:="p", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="q", ReplaceWith:="q", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="r", ReplaceWith:="r", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="s", ReplaceWith:="s", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="t", ReplaceWith:="t", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="u", ReplaceWith:="u", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="v", ReplaceWith:="v", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="w", ReplaceWith:="w", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="x", ReplaceWith:="x", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="y", ReplaceWith:="y", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+
+'        .Execute FindText:="", ReplaceWith:="z", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+
+        .Execute FindText:="B", ReplaceWith:="B", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="C", ReplaceWith:="C", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="E", ReplaceWith:="E", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="F", ReplaceWith:="F", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="K", ReplaceWith:="K", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="O", ReplaceWith:="O", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="P", ReplaceWith:="P", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="V", ReplaceWith:="V", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="W", ReplaceWith:="W", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="X", ReplaceWith:="X", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        .Execute FindText:="Y", ReplaceWith:="Y", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+
+'        .Execute FindText:="", ReplaceWith:="Z", Replace:=wdReplaceAll, Wrap:=wdFindContinue
+        
+    End With
+
+End Sub

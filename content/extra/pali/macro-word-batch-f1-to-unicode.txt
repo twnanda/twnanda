@@ -1,13 +1,54 @@
-Sub for2uni()
+Sub f1_2_U_dir_bat()
+
+' macro script for Foreign1 to Unicode for MS Word on Windows (Batch)
+' 批次處理目錄（含子目錄）下之 doc 檔案（含註腳），將 Foreign1 字型 轉為 Unicode 字型
+' InfoTech. Support: Heaven Chou, Edited by Nanda (Taiwan), Apr. 2020
+' Heaven Chou 工程師　師兄提供技術支援, 臺灣 Nanda 編輯, 2020.04月.
+    
+    strPATH = "D:\pali-fonts-transfer"
+    process_sub (strPATH)
+'   處理次目錄
+
+End Sub
+
+Sub process_sub(strPATH As String)
+    ' 先將此目錄的 doc 檔轉換
+    f1_2_U_bat (strPATH)
+
+    ' 向下搜尋子目錄
+    Set fs = CreateObject("Scripting.FileSystemObject")
+    Set folder = fs.GetFolder(strPATH)
+    Set subfolder = folder.SubFolders
+    For Each f In subfolder
+        thisFolder = strPATH + "\" + f.Name
+        process_sub (thisFolder)
+    Next
+   
+End Sub
+Sub f1_2_U_bat(strPATH As String)
+
+' merged2Uni批次巨集
+' macro script for Foreign1 to Unicode for MS Word on Windows (Batch)
+' InfoTech. Support: Heaven Chou and Gregory Chou, Edited by Nanda (Taiwan), Apr. 2020
+' Foreign1 to Unicode 巨集-- 批次處理-- 把 Foreign1 字集的文字 轉成 UNICODE 文字之微軟 Word 巨集
+' Heaven Chou 及 Gregory Chou (周)　兩位工程師　師兄提供技術支援, 臺灣 Nanda 編輯, 2020.04月.
 '
-' macro script for Foreign1 to Unicode for MS Word on Windows
-' InfoTech. Support: Heaven Chou and Gregory Chou, Edited by Nanda (Taiwan), Oct. 2014
-' Foreign1 to Uni 巨集-- 把 Foreign1 字集的文字 轉成 UNICODE 文字之微軟 Word 巨集
-' Heaven Chou 及 Gregory Chou (周)　兩位工程師　師兄提供技術支援, 臺灣 Nanda 編輯, 2014.10月.
-' Heaven Chou 工程師　師兄提供技術支援, 臺灣 Nanda 編輯, 2020.4月 加入執行註腳部份.
-'
+    Dim wd_doc As Document
+'   Dim strPATH As String
+    Dim strNAME As String
+    Dim wd_FILE As String
+    '這一行要註解, 因為 strPath 由參數傳來
+    'strPATH = "D:\pali-fonts-transfer"
+
+    strNAME = Dir(strPATH & "\*.doc")
+    Do Until strNAME = vbNullString
+    wd_FILE = strPATH & "\" & strNAME
+    Debug.Print wd_FILE
+    Set wd_doc = Documents.Open(wd_FILE)
+
     Selection.Find.ClearFormatting
     Selection.Find.Replacement.ClearFormatting
+    
     With Selection.Find
         .Forward = True
         .Format = True
@@ -83,6 +124,7 @@ Sub for2uni()
 
  ' 以下執行註腳部份
        Dim rg As Range
+  If ActiveDocument.Footnotes.Count >= 1 Then
        Set rg = ActiveDocument.StoryRanges(wdFootnotesStory)
        rg.Find.ClearFormatting
        rg.Find.Replacement.ClearFormatting
@@ -91,7 +133,7 @@ Sub for2uni()
         .Forward = True
         .Format = True
         .Wrap = wdFindContinue
- ' 以上執行註腳部份指令碼
+
         .Font.Name = "Foreign1"
         .Replacement.Font.Name = "Arial Unicode MS"
         .MatchCase = True
@@ -160,5 +202,17 @@ Sub for2uni()
         .Execute FindText:=ChrW(&HA), ReplaceWith:=ChrW(&HA), Replace:=wdReplaceAll, Wrap:=wdFindContinue
         
     End With
+
+  End If
+
+    wd_doc.Save
+
+    wd_doc.Close
+
+    strNAME = Dir()
+
+Loop
+
+If Not wd_doc Is Nothing Then Set wd_doc = Nothing
 
 End Sub
