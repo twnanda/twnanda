@@ -4,7 +4,6 @@ Sub VriRomanPaliCN_B_non_Latin2Uni()
 ' InfoTech. Support: Heaven Chou and Gregory Chou, Edited by Nanda (Taiwan), Oct. 2014
 ' 把 VriRomanPali CB 字集的文字 轉成 UNICODE 文字之微軟 Word 巨集(適用非拉丁語系, 例如中、日、韓文視窗)
 ' Heaven Chou 及 Gregory Chou (周)　兩位工程師　師兄提供技術支援, 臺灣 Nanda 編寫 2014.10月.
-' Heaven Chou 工程師　師兄提供技術支援, 臺灣 Nanda 編輯, 2020.4月 加入執行註腳部份.
 '
     Selection.Find.ClearFormatting
     Selection.Find.Replacement.ClearFormatting
@@ -477,7 +476,6 @@ Sub VriRomanPaliCN_B_non_Latin2Uni()
 
     
    ' 以下執行註腳部份
-       Dim rg As Range
        Set rg = ActiveDocument.StoryRanges(wdFootnotesStory)
        rg.Find.ClearFormatting
        rg.Find.Replacement.ClearFormatting
@@ -633,5 +631,5 @@ Sub VriRomanPaliCN_B_non_Latin2Uni()
 '        .Execute FindText:="", ReplaceWith:="", Replace:=wdReplaceAll, Wrap:=wdFindContinue
 
     End With
-
+   End With
 End Sub

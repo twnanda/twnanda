@@ -4,7 +4,6 @@ Sub TimesCSX2Uni()
 ' InfoTech. Support: Heaven Chou and Gregory Chou, Edited by Nanda (Taiwan), Nov. 2014 (Ver.1-- Oct. 2014)
 ' Times_CSX+ to Uni 巨集-- 把 Times_CSX+ 字集的文字 轉成 UNICODE 文字之微軟 Word 巨集
 ' Heaven Chou 及 Gregory Chou (周)　兩位工程師　師兄提供技術支援, 臺灣 Nanda 編寫 2014.10月.
-' Heaven Chou 工程師　師兄提供技術支援, 臺灣 Nanda 編輯, 2020.4月 加入執行註腳部份.
 '
     Selection.Find.ClearFormatting
     Selection.Find.Replacement.ClearFormatting

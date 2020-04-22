@@ -1,6 +1,7 @@
 Sub merged2Uni()
 '
 ' macro script for multifonts to Unicode for MS Word on Windows
+' InfoTech. Support: Heaven Chou and Gregory Chou, Edited by Nanda (Taiwan), Apr. 2020
 ' InfoTech. Support: Heaven Chou and Gregory Chou, Edited by Nanda (Taiwan), Oct. 2014
 ' foreign1, Kh2, Times_CSX+, VriRomanPali_CN and VriRomanPali_CB to Uni 巨集-- 把 foreign1, Kh2, Times_CSX+, VriRomanPali_CN and VriRomanPali_CB 字集的文字 轉成 UNICODE 文字之微軟 Word 巨集
 ' Heaven Chou 及 Gregory Chou (周)　兩位工程師　師兄提供技術支援, 臺灣 Nanda 編輯, 2014.10月.
@@ -248,7 +249,6 @@ Sub merged2Uni()
     End With
 
  ' 以下執行註腳部份
-       Dim rg As Range
        Set rg = ActiveDocument.StoryRanges(wdFootnotesStory)
        rg.Find.ClearFormatting
        rg.Find.Replacement.ClearFormatting
@@ -400,7 +400,6 @@ Sub merged2Uni()
     End With
 
  ' 以下執行註腳部份
-       Dim rg As Range
        Set rg = ActiveDocument.StoryRanges(wdFootnotesStory)
        rg.Find.ClearFormatting
        rg.Find.Replacement.ClearFormatting
@@ -542,7 +541,6 @@ Sub merged2Uni()
     End With
 
  ' 以下執行註腳部份
-       Dim rg As Range
        Set rg = ActiveDocument.StoryRanges(wdFootnotesStory)
        rg.Find.ClearFormatting
        rg.Find.Replacement.ClearFormatting
@@ -585,7 +583,6 @@ Sub merged2Uni()
     End With
     
    ' 以下執行註腳部份
-       Dim rg As Range
        Set rg = ActiveDocument.StoryRanges(wdFootnotesStory)
        rg.Find.ClearFormatting
        rg.Find.Replacement.ClearFormatting
@@ -936,7 +933,6 @@ Sub merged2Uni()
 
    
    ' 以下執行註腳部份
-       Dim rg As Range
        Set rg = ActiveDocument.StoryRanges(wdFootnotesStory)
        rg.Find.ClearFormatting
        rg.Find.Replacement.ClearFormatting
@@ -1097,7 +1093,6 @@ Sub merged2Uni()
 
     
    ' 以下執行註腳部份
-       Dim rg As Range
        Set rg = ActiveDocument.StoryRanges(wdFootnotesStory)
        rg.Find.ClearFormatting
        rg.Find.Replacement.ClearFormatting
@@ -1253,5 +1248,9 @@ Sub merged2Uni()
 '        .Execute FindText:="", ReplaceWith:="", Replace:=wdReplaceAll, Wrap:=wdFindContinue
 
     End With
-
+   End With
+  End With
+ End With
+ End With
+   End With
 End Sub

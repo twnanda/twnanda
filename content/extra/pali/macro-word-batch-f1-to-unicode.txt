@@ -25,9 +25,9 @@ Sub process_sub(strPATH As String)
     Next
    
 End Sub
+
 Sub f1_2_U_bat(strPATH As String)
 
-' merged2Uni批次巨集
 ' macro script for Foreign1 to Unicode for MS Word on Windows (Batch)
 ' InfoTech. Support: Heaven Chou and Gregory Chou, Edited by Nanda (Taiwan), Apr. 2020
 ' Foreign1 to Unicode 巨集-- 批次處理-- 把 Foreign1 字集的文字 轉成 UNICODE 文字之微軟 Word 巨集
