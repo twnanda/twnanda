@@ -1,0 +1,124 @@
+Sub buddhist_term2nml_bat()
+
+' macro script for reversing from new translated term to general usesage for MS Word on Windows
+' 批处理目录（含子目录）下之（巴利专有名词新音译方案）的文字 转回通用译名之微软 Word 宏
+' InfoTech. Support: Heaven Chou, Edited by Nanda (Taiwan), May 2020
+' Heaven Chou 工程师　师兄提供技术支持, 台湾 Nanda 编辑对照表, 2020.05月.
+    
+    '起始目录
+    strPATH = "D:\pali-term-transfer"
+    process_sub (strPATH)
+
+End Sub
+
+'处理此目录和子目录
+Sub process_sub(strPATH As String)
+
+    ' 先将此目录的 doc 文件转换
+    process_file (strPATH)
+
+    ' 向下搜寻子目录
+    Set fs = CreateObject("Scripting.FileSystemObject")
+    Set folder = fs.GetFolder(strPATH)
+    Set subfolder = folder.SubFolders
+    For Each f In subfolder
+        thisFolder = strPATH + "\" + f.Name
+        process_sub (thisFolder)
+    Next
+   
+End Sub
+
+' 处理单一目录
+Sub process_file(strPATH As String)
+
+    Dim wd_doc As Document
+    Dim strNAME As String
+    Dim wd_FILE As String
+
+    strNAME = Dir(strPATH & "\*.doc*")
+    Do Until strNAME = vbNullString
+        wd_FILE = strPATH & "\" & strNAME
+        Debug.Print wd_FILE
+        Set wd_doc = Documents.Open(wd_FILE)
+    
+        '处理单一档案的转换
+        Call buddhist_term_to_normal("D:\pali-term-transfer\buddhist-term-replaced.txt")
+    
+        wd_doc.Save
+        wd_doc.Close
+    
+        strNAME = Dir()
+    Loop
+
+    If Not wd_doc Is Nothing Then Set wd_doc = Nothing
+
+End Sub
+
+Sub buddhist_term_to_normal(replaceFile As String)
+    Dim arrStr() As String, InputStr As String
+    Fn = FreeFile
+    Open replaceFile For Input As #Fn '开启 buddhist-term-replaced.txt 檔
+    Application.ScreenUpdating = False  '画面暂停更新
+    While Not EOF(Fn)
+        Line Input #Fn, InputStr '从档案读出一列,
+        If Len(InputStr) > 0 And Mid(InputStr, 1, 1) <> "'" Then '若第一个字符是'就跳过此列
+            arrStr = Split(InputStr, ",")  '把读入的文字列依逗号分成两个字符串,
+                                                     '置于 arrStr 数组里
+            Call ReplaceText(arrStr(0), arrStr(1))
+        End If
+    Wend
+    
+    ' 处理个别取代
+    Call ReplaceText("维巴萨那", "毘" + ChrW(&H9262) + "舍那")
+    Call ReplaceText("沙帝", ChrW(&HD843) + ChrW(&HDEEC) + "帝")
+    Call ReplaceText("拉胡喇", "罗" + ChrW(&H777A) + "罗")
+    Call ReplaceText("沙马" + ChrW(&H5185) + "拉", "沙弥")
+    
+    Application.ScreenUpdating = True  '画面恢复更新
+    Close #Fn
+    
+End Sub
+
+Function ReplaceText(Src As String, Rpl As String)
+    '这个函式会在整个档案里搜寻 Src 字符串, 将它取代为 Rpl 字符串
+    Selection.HomeKey Unit:=wdStory, Extend:=wdMove
+    Selection.Find.ClearFormatting
+    Selection.Find.Replacement.ClearFormatting
+    With Selection.Find
+        .Text = Src
+        .Replacement.Text = Rpl
+        .Forward = True
+        .Wrap = wdFindContinue
+        .Format = False
+        .MatchCase = False
+        .MatchWholeWord = False
+        .MatchByte = True
+        .MatchAllWordForms = False
+        .MatchSoundsLike = False
+        .MatchWildcards = False
+        .MatchFuzzy = False
+        .Execute Replace:=wdReplaceAll  '全部取代
+    End With
+    
+    ' 处理脚注取代
+    If ActiveDocument.Footnotes.Count >= 1 Then
+        Set rg = ActiveDocument.StoryRanges(wdFootnotesStory)
+        rg.Find.ClearFormatting
+        rg.Find.Replacement.ClearFormatting
+        With rg.Find
+            .Text = Src
+            .Replacement.Text = Rpl
+            .Forward = True
+            .Wrap = wdFindContinue
+            .Format = False
+            .MatchCase = False
+            .MatchWholeWord = False
+            .MatchByte = True
+            .MatchAllWordForms = False
+            .MatchSoundsLike = False
+            .MatchWildcards = False
+            .MatchFuzzy = False
+            .Execute Replace:=wdReplaceAll  '全部取代
+        End With
+    End If
+End Function
