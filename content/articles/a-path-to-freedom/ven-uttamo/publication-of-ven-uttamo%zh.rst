@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2020-03-24
+:modified: 2020-05-29
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -700,17 +700,17 @@ Protection with Blessing
 
 - `Texts <{filename}protection-with-blessings/mangala-blessing-texts%zh.rst>`_ 
 
-- `Not Consorting with Fools <{filename}protection-with-blessings/mangala-blessings-01-not-consorting-with-fools%zh.rst>`_ 
+- 1 `Not Consorting with Fools <{filename}protection-with-blessings/mangala-blessings-01-not-consorting-with-fools%zh.rst>`_ 
 
-- `Consorting with the Wise <{filename}protection-with-blessings/mangala-blessings-02-consorting-with-the-wise%zh.rst>`_ 
+- 2 `Consorting with the Wise <{filename}protection-with-blessings/mangala-blessings-02-consorting-with-the-wise%zh.rst>`_ 
 
-- `Paying Homage to Those Worthy of Homage <{filename}protection-with-blessings/mangala-blessings-03-paying-homage-to-those-worthy-of-homage%zh.rst>`_
+- 3 `Paying Homage to Those Worthy of Homage <{filename}protection-with-blessings/mangala-blessings-03-paying-homage-to-those-worthy-of-homage%zh.rst>`_
 
-- `Residing in a Suitable Place <{filename}protection-with-blessings/mangala-blessings-04-residing-in-a-suitable-place%zh.rst>`_
+- 4 `Residing in a Suitable Place <{filename}protection-with-blessings/mangala-blessings-04-residing-in-a-suitable-place%zh.rst>`_
 
-- `Having Made Merit in the Past <{filename}protection-with-blessings/mangala-blessings-05-having-made-merit-in-the-past%zh.rst>`_
+- 5 `Having Made Merit in the Past <{filename}protection-with-blessings/mangala-blessings-05-having-made-merit-in-the-past%zh.rst>`_
 
-- `Directing Oneself Rightly <{filename}protection-with-blessings/mangala-blessings-06-directing-oneself-rightly%zh.rst>`_
+- 6 `Directing Oneself Rightly <{filename}protection-with-blessings/mangala-blessings-06-directing-oneself-rightly%zh.rst>`_
 
   * `Samāpatti (success) and Vipatti (failure) <{filename}protection-with-blessings/mangala-blessings-06-01-samapatti-success-and-vipatti-failure%zh.rst>`_
 
@@ -722,55 +722,55 @@ Protection with Blessing
 
   * `Presence / Lacking of Mindfulness, Intelligence and Perseverance <{filename}protection-with-blessings/mangala-blessings-06-05-presence-lacking-of-mindfulness-intelligence-and-perseverance%zh.rst>`_
 
-- `Broad Knowledge <{filename}protection-with-blessings/mangala-blessings-07-broad-knowledge%zh.rst>`_
+- 7 `Broad Knowledge <{filename}protection-with-blessings/mangala-blessings-07-broad-knowledge%zh.rst>`_
 
-- `Having Skills <{filename}protection-with-blessings/mangala-blessings-08-having-skills%zh.rst>`_
+- 8 `Having Skills <{filename}protection-with-blessings/mangala-blessings-08-having-skills%zh.rst>`_
 
-- `Well Mastered Disciplines <{filename}protection-with-blessings/mangala-blessings-09-well-mastered-disciplines%zh.rst>`_
+- 9 `Well Mastered Disciplines <{filename}protection-with-blessings/mangala-blessings-09-well-mastered-disciplines%zh.rst>`_
 
-- `Well Spoken Words <{filename}protection-with-blessings/mangala-blessings-10-well-spoken-words%zh.rst>`_
+- 10 `Well Spoken Words <{filename}protection-with-blessings/mangala-blessings-10-well-spoken-words%zh.rst>`_
 
-- `Support for One’s Parents <{filename}protection-with-blessings/mangala-blessings-11-support-for-ones-parents%zh.rst>`_
+- 11 `Support for One’s Parents <{filename}protection-with-blessings/mangala-blessings-11-support-for-ones-parents%zh.rst>`_
 
-- `Assistance to One's Wife and Children <{filename}protection-with-blessings/mangala-blessings-12-assistance-to-ones-wife-and-children%zh.rst>`_
+- 12 `Assistance to One's Wife and Children <{filename}protection-with-blessings/mangala-blessings-12-assistance-to-ones-wife-and-children%zh.rst>`_
 
-- `Consistency in One's Work <{filename}protection-with-blessings/mangala-blessings-13-consistency-in-ones-work%zh.rst>`_
+- 13 `Consistency in One's Work <{filename}protection-with-blessings/mangala-blessings-13-consistency-in-ones-work%zh.rst>`_
 
-- `Giving <{filename}protection-with-blessings/mangala-blessings-14-giving%zh.rst>`_
+- 14. `Giving <{filename}protection-with-blessings/mangala-blessings-14-giving%zh.rst>`_
 
-- `Living in Rectitude <{filename}protection-with-blessings/mangala-blessings-15-living-in-rectitude%zh.rst>`_
+- 15 `Living in Rectitude <{filename}protection-with-blessings/mangala-blessings-15-living-in-rectitude%zh.rst>`_
 
-- `Assistance to One’s Relatives <{filename}protection-with-blessings/mangala-blessings-16-assistance-to-ones-relatives%zh.rst>`_
+- 16 `Assistance to One’s Relatives <{filename}protection-with-blessings/mangala-blessings-16-assistance-to-ones-relatives%zh.rst>`_
 
-- `Deeds That Are Blameless <{filename}protection-with-blessings/mangala-blessings-17-deeds-that-are-blameless%zh.rst>`_
+- 17 `Deeds That Are Blameless <{filename}protection-with-blessings/mangala-blessings-17-deeds-that-are-blameless%zh.rst>`_
 
-- `Avoiding, Abstaining from Evil <{filename}protection-with-blessings/mangala-blessings-18-avoiding-abstaining-from-evil%zh.rst>`_
+- 18 `Avoiding, Abstaining from Evil <{filename}protection-with-blessings/mangala-blessings-18-avoiding-abstaining-from-evil%zh.rst>`_
 
-- `Refraining from Intoxicants <{filename}protection-with-blessings/mangala-blessings-19-refraining-from-intoxicants%zh.rst>`_
+- 19 `Refraining from Intoxicants <{filename}protection-with-blessings/mangala-blessings-19-refraining-from-intoxicants%zh.rst>`_
 
-- `Being Heedful of the Qualities of the Mind <{filename}protection-with-blessings/mangala-blessings-20-being-heedful-of-the-qualities-of-the-mind%zh.rst>`_
+- 20 `Being Heedful of the Qualities of the Mind <{filename}protection-with-blessings/mangala-blessings-20-being-heedful-of-the-qualities-of-the-mind%zh.rst>`_
 
-- `Respect <{filename}protection-with-blessings/mangala-blessings-21-respect%zh.rst>`_
+- 21 `Respect <{filename}protection-with-blessings/mangala-blessings-21-respect%zh.rst>`_
 
-- `Humility <{filename}protection-with-blessings/mangala-blessings-22-humility%zh.rst>`_
+- 22 `Humility <{filename}protection-with-blessings/mangala-blessings-22-humility%zh.rst>`_
 
-- `Contentment <{filename}protection-with-blessings/mangala-blessings-23-contentment%zh.rst>`_
+- 23 `Contentment <{filename}protection-with-blessings/mangala-blessings-23-contentment%zh.rst>`_
 
-- `Gratitude <{filename}protection-with-blessings/mangala-blessings-24-gratitude%zh.rst>`_
+- 24 `Gratitude <{filename}protection-with-blessings/mangala-blessings-24-gratitude%zh.rst>`_
 
-- `Hearing the Dhamma on Timely Occasions <{filename}protection-with-blessings/mangala-blessings-25-hearing-the-dhamma-on-timely-occasions%zh.rst>`_
+- 25 `Hearing the Dhamma on Timely Occasions <{filename}protection-with-blessings/mangala-blessings-25-hearing-the-dhamma-on-timely-occasions%zh.rst>`_
 
-- `Patience <{filename}protection-with-blessings/mangala-blessings-26-patience%zh.rst>`_
+- 26 `Patience <{filename}protection-with-blessings/mangala-blessings-26-patience%zh.rst>`_
 
-- `Compliance / Obedience <{filename}protection-with-blessings/mangala-blessings-27-compliance-obedience%zh.rst>`_
+- 27 `Compliance / Obedience <{filename}protection-with-blessings/mangala-blessings-27-compliance-obedience%zh.rst>`_
 
-- `Seeing Contemplative <{filename}protection-with-blessings/mangala-blessings-28-seeing-contemplative%zh.rst>`_
+- 28 `Seeing Contemplative <{filename}protection-with-blessings/mangala-blessings-28-seeing-contemplative%zh.rst>`_
 
-- `Discussing the Dhamma on Timely Occasions <{filename}protection-with-blessings/mangala-blessings-29-discussing-the-dhamma-on-timely-occasions%zh.rst>`_
+- 29 `Discussing the Dhamma on Timely Occasions <{filename}protection-with-blessings/mangala-blessings-29-discussing-the-dhamma-on-timely-occasions%zh.rst>`_
 
-- `Austerity / Celibacy <{filename}protection-with-blessings/mangala-blessings-30-austerity-31-celibacy%zh.rst>`_
+- `30 Austerity / 31 Celibacy <{filename}protection-with-blessings/mangala-blessings-30-austerity-31-celibacy%zh.rst>`_
 
-- `Seeing the Noble Truths <{filename}protection-with-blessings/mangala-blessings-32-seeing-the-noble-truths%zh.rst>`_
+- 32 `Seeing the Noble Truths <{filename}protection-with-blessings/mangala-blessings-32-seeing-the-noble-truths%zh.rst>`_
 
   * `The Middle Way – Majjhimā Patipadā <{filename}protection-with-blessings/mangala-blessings-32-1-middle-way%zh.rst>`_
 
@@ -798,15 +798,15 @@ Protection with Blessing
 
     - `Purification of the Way <{filename}protection-with-blessings/mangala-blessings-32-3-purification-of-the-path-of-the-way%zh.rst>`_
 
-- `Realizing Nibbāna <{filename}protection-with-blessings/mangala-blessings-33-realizing-nibbana%zh.rst>`_
+- 33 `Realizing Nibbāna <{filename}protection-with-blessings/mangala-blessings-33-realizing-nibbana%zh.rst>`_
 
-- `A Mind Is Unshaken When Touched by the Ways of the World <{filename}protection-with-blessings/mangala-blessings-34-a-mind-is-unshaken%zh.rst>`_
+- 34 `A Mind Is Unshaken When Touched by the Ways of the World <{filename}protection-with-blessings/mangala-blessings-34-a-mind-is-unshaken%zh.rst>`_
 
-- `Sorrowless <{filename}protection-with-blessings/mangala-blessings-35-sorrowless%zh.rst>`_
+- 35 `Sorrowless <{filename}protection-with-blessings/mangala-blessings-35-sorrowless%zh.rst>`_
 
-- `Dustless <{filename}protection-with-blessings/mangala-blessings-36-dustless%zh.rst>`_
+- 36 `Dustless <{filename}protection-with-blessings/mangala-blessings-36-dustless%zh.rst>`_
 
-- `Secure <{filename}protection-with-blessings/mangala-blessings-37-secure%zh.rst>`_
+- 37 `Secure <{filename}protection-with-blessings/mangala-blessings-37-secure%zh.rst>`_
 
 - `Postscript <{filename}protection-with-blessings/mangala-blessings-postscript%zh.rst>`_
 
@@ -815,6 +815,7 @@ Protection with Blessing
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-05-29 add item number of Maṅgala Sutta
   2020-03-24 rev. the 2nd proofread by bhante
   2020-03-11 add PDF files: for read & print; suspended  `html  <>`; The Best Fonts to Use in Print, Online, and Email (By John Wood, 2011 October)-- https://www.awai.com/2011/10/the-best-fonts-to-use-in-print-online-and-email/ ; 設計素養第一課：教科書字體選用指南: https://blog.justfont.com/2018/10/text-book-fonts/ ; 電腦族必知！原來這字體顏色對眼睛好: https://helloyishi.com.tw/healthy-living/eye-health/different-fonts-of-word-affect-your-reading-and-eyes/
   12-03 add: Maṅgala Sutta – Protection with Blessing
