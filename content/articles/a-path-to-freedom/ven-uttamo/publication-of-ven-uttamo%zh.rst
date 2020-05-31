@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2020-05-29
+:modified: 2020-05-31
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -42,8 +42,8 @@ Dhamma Talks by Mogok Sayadaw
    * - Full Text
      - `PDF <{filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ 
      - `PDF <{filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (backgroup in green)
-     - for print: `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-12pt-print.pdf>`_ (12 pt, pdf)
-     - for print: `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print.pdf>`_ (14 pt, pdf)
+     - for print: `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print.pdf>`_ (12 pt, pdf)
+     - for print: ``large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print.pdf>`_ (14 pt, pdf)
 
 ---------------------------
 
@@ -815,6 +815,7 @@ Protection with Blessing
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-05-31 rev. correct two urls of full text of Dhamma Talks by Mogok Sayadaw
   2020-05-29 add item number of Maṅgala Sutta
   2020-03-24 rev. the 2nd proofread by bhante
   2020-03-11 add PDF files: for read & print; suspended  `html  <>`; The Best Fonts to Use in Print, Online, and Email (By John Wood, 2011 October)-- https://www.awai.com/2011/10/the-best-fonts-to-use-in-print-online-and-email/ ; 設計素養第一課：教科書字體選用指南: https://blog.justfont.com/2018/10/text-book-fonts/ ; 電腦族必知！原來這字體顏色對眼睛好: https://helloyishi.com.tw/healthy-living/eye-health/different-fonts-of-word-affect-your-reading-and-eyes/
