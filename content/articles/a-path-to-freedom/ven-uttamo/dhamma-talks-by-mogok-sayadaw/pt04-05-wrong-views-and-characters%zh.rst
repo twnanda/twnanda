@@ -3,12 +3,12 @@ Wrong Views and Characters
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-07-02
+:modified: 2020-05-31
 :tags: wrong view, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Wrong Views and Characters (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-07-02
+revised on 2020-05-31
 
 ------
 
@@ -46,7 +46,7 @@ These people (sassata) even if they met the Buddha would not do it and not givin
 
 Therefore it’s difficult to help them for liberation. It’s refine and difficult wrong view. It's like the head hairs of a small baby difficult to shave. The faults of uccheda people are heavy, but they are easily to give up their views. They believe in life and kamma but don’t want to cultivate wholesome actions. They can do unwholesome things. They are easy to transcend dukkha if they listen to talks and have faith in it. 
 
-[A very good example was Thae Inn Gu Sayadaw (also named Sayadaw Ashin [Ajan] Okkatta, 1913 ~ 1973). He was a robber before. At the age of 46, he and his two followers robbed a house. The host knew about it and waited for them coming in. He was hit on the head with a long knife, but luckily he was wearing a hat. With the injury on the head, he and the others fled for their lives. After curing of his head injury, he had strong saṁvega; he took the book, which was about Soong Loog Sayadaw's biography, and practice with him to the monastery in his village. Soong Loog Sayadaw (1888 ~ 1952), see Jack Kornfield's book-- Living Buddhist Master. He took the nine precepts from the monk and closed himself in a room and practised diligently. He had the strong determination of if he died let him die or let defilements died. After the sixth day (i.e., 12th September 1959) he experienced the first realization. Later he ordained as a monk and continued his practice. He finished his spiritual journey on 20th May 1961. He was a rough character, so his practice also very tough.]
+[A very good example was Thae Inn Gu Sayadaw (also named Sayadaw Ashin [Ajan] Okkatta, 1913 ~ 1973). He was a robber before. At the age of 46, he and his two followers robbed a house. The host knew about it and waited for them coming in. He was hit on the head with a long knife, but luckily he was wearing a hat. With the injury on the head, he and the others fled for their lives. After curing of his head injury, he had strong saṁvega; he took the book, which was about Soong Loon Sayadaw's biography, and practice with him to the monastery in his village. Soong Loon Sayadaw (1888 ~ 1952), see Jack Kornfield's book-- Living Buddhist Master. He took the nine precepts from the monk and closed himself in a room and practised diligently. He had the strong determination of if he died let him die or let defilements died. After the sixth day (i.e., 12th September 1959) he experienced the first realization. Later he ordained as a monk and continued his practice. He finished his spiritual journey on 20th May 1961. He was a rough character, so his practice also very tough.]
 
 The difficult things is most of you are sassata people. If you have the eye sight both of these views will fall away. 
 
@@ -62,7 +62,7 @@ Only you need to take care of it ending. The khandha, like the flowing water, is
 
 ------
 
-revised on 2019-07-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4036&p=35626#p35626 (posted on 2018-12-19)
+revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4036&p=35626#p35626 (posted on 2018-12-19)
 
 ------
 
@@ -81,6 +81,7 @@ revised on 2019-07-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4036&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-05-31 proofread by bhante; replace "Soong Loog" with "Soong Loon"
   07-02 rev. proofread by bhante
   2019-01-11  create rst; post on 01-13
   https://mogokdhammatalks.blog/

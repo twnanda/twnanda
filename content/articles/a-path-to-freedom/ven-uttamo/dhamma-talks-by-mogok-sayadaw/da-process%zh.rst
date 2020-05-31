@@ -3,12 +3,12 @@ D.A. Process
 ==========================================
 
 :date: 2019-01-14
-:modified: 2019-07-03
+:modified: 2020-05-31
 :tags: D.A. Process, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: D.A. Process (Dhamma Talks by Mogok Sayadaw—Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-07-03
+revised on 2020-05-31
 
 .. image:: {filename}/extra/img/mogok-da-process-12.jpg
    :alt: D.A. Process
@@ -273,7 +273,7 @@ There are 4 kinds of clinging;
 
 ⑩ Kammabhava (existence)
 
-Kammabhava means kammically active process of existence or actions conditioning for existence. In the diagram of the D.A. process, kammabhava at see ③ was written with incomplete form; such as Bhava Kamma. Why is that? Because upapattibhava and kammabhava combine together only become completion (upapattibhava—passive or resultant process of existence). For an arahant it's only functional kamma and no more existence. In the original 12 factors of D.A. process was written as bhava only. Under the influence of clinging one engages in actions that are accumulated as kammas.
+Kammabhava means kammically active process of existence or actions conditioning for existence. In the diagram of the D.A. process, kammabhava at see ③ was written with incomplete form; such as Kamma Bhava. Why is that? Because upapattibhava and kammabhava combine together only become completion (upapattibhava—passive or resultant process of existence). For an arahant it's only functional kamma and no more existence. In the original 12 factors of D.A. process was written as bhava only. Under the influence of clinging one engages in actions that are accumulated as kammas.
 
 There are 3 types of kamma;
 
@@ -349,7 +349,7 @@ But he didn't explain the reason. Truly, sexual desire is intoxicating. Because 
 
 ------
 
-revised on 2019-07-03; cited from https://oba.org.tw/viewtopic.php?f=22&t=4026&sid=3207e081493aa85b45cac011b736d533 (posted on 2018-12-14)
+revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4026&sid=3207e081493aa85b45cac011b736d533 (posted on 2018-12-14)
 
 ------
 
@@ -366,6 +366,7 @@ revised on 2019-07-03; cited from https://oba.org.tw/viewtopic.php?f=22&t=4026&s
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-05-31 proofread by bhante
   07-03 rev. replace "—" with "—"; two with two, three with three, etc.
   post:04-20; 04-19 rev. add: Content of Publications of Ven. Uttamo 
         del: https://mogokdhammatalks.blog/ (designed originally for bhante's proofreading )

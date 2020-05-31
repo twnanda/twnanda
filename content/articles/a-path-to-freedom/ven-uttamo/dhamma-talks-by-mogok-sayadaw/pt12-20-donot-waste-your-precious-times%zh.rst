@@ -3,12 +3,12 @@ Don’t Waste Your Precious Times
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2020-05-31
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Don’t Waste Your Precious Times (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2020-05-31
 
 ------
 
@@ -44,7 +44,7 @@ After that the path knowledge of not wanting of it will arise and complete with 
 
 Here had only two knowledges; these were the knowledge of discerning impermanence and the knowledge of seeing Nibbāna. It’s sure that at the end of insight knowledge and the Path knowledge which sees Nibbāna arises. (He recited the Pali verses and explaining them). So don’t practice samādhi separately and start from impermanence because you’re with poor kamma and ñāṇa. This was supported by the Buddha and arahants.
 
-(There was a research many years ago by the late Prime Minister U Nu of Burma. He was a strong supporter of Mahasi Sayadaw and the dry insight practice (vipassanā). He wrote his research in a small book about the Pali TiPiṭaka. At one time he invited a Mahasi yogi monk whose name and monastery were not mentioned. It was sure that this monk was not living in Rangoon because this monk flew back to his place by plane after the research. 
+(There was a research many years ago by the late Prime Minister U Nu of Burma. He was a strong supporter of Mahasi Sayadaw and the dry insight practice (vipassanā). He wrote his research in a small book about the Pali TiPiṭaka. At one time he invited a Mahasi yogi monk whose name and monastery were not mentioned. It was sure that this monk was not living in Yan-gon because this monk flew back to his place by plane after the research. 
 
 They placed him in a room and he entered into the Fruition state for six days and six nights. U Nu arranged some men to observe him day and night in turn. He was sitting there all the times for six days and six nights. 
 
@@ -52,7 +52,7 @@ It was sure that he was not in the absorption state because he was not a samatha
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36338#p36338 (posted on 2019-04-16)
+revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36338#p36338 (posted on 2019-04-16)
 
 ------
 
@@ -71,5 +71,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-05-31 proofread by bhante; replace "Rangoon" with "Yan-gon"
   12-02 rev. proofread by bhante
   2019-05-01  create rst; post on 

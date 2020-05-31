@@ -3,12 +3,12 @@ The Importance of Knowing the Truth
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-10-02
+:modified: 2020-05-31
 :tags: the Truth, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Importance of Knowing the Truth (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-10-02
+revised on 2020-05-31
 
 ------
 
@@ -20,7 +20,7 @@ So you can’t realize Nibbāna. The knowledge of not wanting will arise only by
 
 The place is where samudaya ceases and the moment of abandonment of the human fetters (saṁyojana) is Nibbāna. Vipassanā is not choosing a place for practice. Only in samatha practice needs to choose forest and mountain places. Vipassanā has to observe the rise (udaya) and fall (vaya) of phenomena. Udaya is arising and vaya does not exist. 
 
-The system (method) is already there. Asking for a method is seemed difficult to be. (It was his first and last time in Rangoon. It seemed people requested from him the way of insight practice). Observing your own mind is cittānupassanā. Even during the writing and eating, people can realize Nibbāna. 
+The system (method) is already there. Asking for a method is seemed difficult to be. (It was his first and last time in Yan-gon. It seemed people requested from him the way of insight practice). Observing your own mind is cittānupassanā. Even during the writing and eating, people can realize Nibbāna. 
 
 Every time mind arises and observe it as it exists or not exists. Not existing is what the Buddha taught as anicca. Knowing is the path factors (magga). Do you get it by prayers? (some Buddhists are making prayers and vows for the outside powers.) or Do you get it by knowing it as not exist? 
 
@@ -36,7 +36,7 @@ So it’s dukkha sacca. Do you have to search for it or by knowing with observin
 
 ------
 
-revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35961#p35961 (posted on 2019-02-16)
+revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35961#p35961 (posted on 2019-02-16)
 
 ------
 
@@ -55,5 +55,6 @@ revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-05-31 proofread by bhante; replace "Rangoon" with "Yan-gon"
   10-02 rev. proofread by bhante
   2019-04-26  create rst; post on 04-28

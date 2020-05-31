@@ -3,12 +3,12 @@ Questions and Answers by Visākha and Dhammadinna
 ===================================================
 
 :date: 2019-01-13
-:modified: 2019-05-26
+:modified: 2020-05-31
 :tags: Visākha, Dhammadinna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Questions and Answers by Visākha and Dhammadinna (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-05-26
+revised on 2020-05-31
 
 ------
 
@@ -86,7 +86,7 @@ T4.
 
 The Noble Eightfold Path is the middle way. We had never been on the middle way in the whole round of rebirths (Saṁsāra). If we had been, would never return. On the path samādhi is important.
 
-(11) What is samādhi? It's called one-pointedness of the mind (ekaggatā citta). It can take one object. What is one object? If feeling and only feeling, the mind and only the mind and not together. (Fragment, not a sentence?) Pointing towards on an object and it's called the mind is in one-pointedness. Concentrating on an object is ekaggatā. If you can concentrate on an object defilement can be overcome.
+(11) What is samādhi? It's called one-pointedness of the mind (ekaggatā citta). It can take one object. What is one object? If on feeling and it’s only feeling, on the mind and it’s only the mind and not all together. Pointing towards on an object and it's called the mind is in one-pointedness. Concentrating on an object is ekaggatā. If you can concentrate on an object defilement can be overcome.
 
 (12) What is the sign of samādhi? It's the 4-Satipaṭṭhāna, contemplation on the body, feeling, mind and dhamma. Samādhi follows sati towards an object. If it's on feeling, it will fall on feeling straight away. In this way know about feeling. If one-pointedness is on the mind and sati fall on it. One-pointedness must work with the Satipaṭṭhāna objects. The sign of samādhi is the body disappeared and knowing the feeling or mind etc. As examples, in the contemplation of feeling it just falls on feeling, and on the mind and it just falls on the mind. Then it becomes the sign of Satipaṭṭhāna. If discern impermanence, it's also the sign (nimitta). Sati fall on the object and its permanent sign disappeared and impermanent sign appeared in the mind also the sign of Satipaṭṭhāna. By seeing the impermanent sign appeared, the form and shape of man or woman is disappeared. Therefore, by seeing the sign of impermanence is the sign of Satipaṭṭhāna. Can it be by itself alone leads to realization? It must include the other member of Satipaṭṭhāna. It's effort (viriya). By putting effort towards the object the permanent sign disappears and sati-paññā see the sign of impermanence. This seeing is helping by effort. Viriya and samādhi are the factors of samādhi. Sati and paññā are the factors of discernment (wisdom). Its qualities we are talking in different ways and in discerning anicca all factors are there. Can it be realized Nibbāna in this way? It needs to be contemplating for many times (bhāvetabba). Why? Kilesa impurities are like a copper bowl, it can be shone only by polishing. From births we had impurities with us like the copper bowl. By not doing the Satipaṭṭhāna practice, one-pointedness practice and not putting effort for practice, then the mind becomes more and more defiled like the bowl. To do this kind of task, you have to meet a teacher and has the kind of ear to listen to the Dhamma. From the days of birth, we are grown up with craving mother and ignorance father. We are grown up on their hands and care. They are very worry that we realize the Path and Fruit and liberate from their hands. Ignorance covers up the Four Noble Truth and craving teaches us for affection to mother, sons and properties. We are doing things what they want us to do.
 
@@ -142,7 +142,7 @@ For ending the dhamma talk, to realize Nibbāna start from the conditioned, cond
 
 ------
 
-revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=2945&p=32935#p32938 (posted on 2016-07-23)
+revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=2945&p=32935#p32938 (posted on 2016-07-23)
 
 ------
 
@@ -163,6 +163,7 @@ revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=2945&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-05-31 proofread by bhante
   05-26 rev. proofread by bhante!
   05-05 rev. old:(4×1010 miles) yojanas
   04-19 rev. & add: Content of Publications of Ven. Uttamo; Content of Part I on "Dhamma Talks by Mogok Sayadaw"

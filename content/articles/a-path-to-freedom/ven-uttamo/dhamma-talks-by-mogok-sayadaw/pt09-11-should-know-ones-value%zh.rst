@@ -3,12 +3,12 @@ Should Know One’s Value
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-11-05
+:modified: 2020-05-31
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Should Know One’s Value (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2020-05-31
 
 ------
 
@@ -16,7 +16,7 @@ Dhamma Talks by Mogok Sayadaw; 26th September 1962
 
 We construct the four woeful planes of existences from here. We can also demolish it from here. So this human world is the main centre. According to the mind process of the D. A., we build hell fire in hell realms. If we end the mind process leading to hells, hell fire and hell woks disappear. 
 
-By creating kammas to heavens, celestial mansions are appearing there. By doing kammas to Nibbāna, all the worlds disappear (31 realms of existence). Therefore, you can get goodness or badness in the human world. It’s like the main railway station from Rangoon to Mandalay. 
+By creating kammas to heavens, celestial mansions are appearing there. By doing kammas to Nibbāna, all the worlds disappear (31 realms of existence). Therefore, you can get goodness or badness in the human world. It’s like the main railway station from Yan-gon to Mandalay. 
 
 Human world is the precious place. If you can’t use it properly, coming here for the provisions to the woeful existences. (Most human beings don’t know the Buddha’s Dhamma and having the rare chances of arriving here; instead of cultivate goodness and doing many unwholesome kammas for the above purpose without knowingly). 
 
@@ -40,7 +40,7 @@ Contemplation of impermanence is in sec ②. The Buddha taught that it was dukkh
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35994#p35994 (posted on 2019-02-21)
+revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35994#p35994 (posted on 2019-02-21)
 
 ------
 
@@ -59,5 +59,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-05-31 proofread by bhante; replace "Rangoon" with "Yan-gon"
   11-05 rev. proofread by bhante
   2019-04-27  create rst; post on 04-28

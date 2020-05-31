@@ -3,12 +3,12 @@ What is the Most Important Thing?
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2020-05-31
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: What is the Most Important Thing? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2020-05-31
 
 ------
 
@@ -48,7 +48,7 @@ You have to do this task very quickly as going towards the cemetery because you�
 
 ③ The ending of all the mind and matter; remember their cessation, as Nibbāna. Your destinations are becoming stable if you realize it (Will never fall back into the planes of misery). You will sure to realize it if your practice is also right with viriya (right effort) and you’re a tihetuka person (born with three wholesome roots of non-greed, non-hatred and non-delusion).
 
-Here only ① and ③ verses are important. It’s like you get the train ticket at Mandalay Railway station and arriving at Rangoon Railway Station (compared to the 1.and 3. verses). You’re passing through the knowledges between them. (From impermanence to Nibbāna; it’s also the same as from Mandalay to Rgn. It will pass through other stations on the way.)
+Here only ① and ③ verses are important. It’s like you get the train ticket at Mandalay Railway station and arriving at Yan-gon Railway Station (compared to the 1.and 3. verses). You’re passing through the knowledges between them. (From impermanence to Nibbāna; it’s also the same as from Mandalay to Rgn. It will pass through other stations on the way.)
 
 ④ The knowledge of the cessation, remember as the Path Knowledge. After the lokuttara magga arises, ① and ② maggas cease (① is arising and ② is vanishing). After the Path Knowledge and Fruition Knowledge arises. And then you are becoming a sotāpanna.
 
@@ -62,7 +62,7 @@ It is arisen by avijjā and saṅkhāra. After dispelling diṭṭhi and practic
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36275#p36275 (posted on 2019-04-11)
+revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36275#p36275 (posted on 2019-04-11)
 
 ------
 
@@ -81,5 +81,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-05-31 proofread by bhante; replace "Rangoon" with "Yan-gon"
   12-02 rev. proofread by bhante
   2019-04-30  create rst; post on 05-01
