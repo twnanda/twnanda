@@ -684,8 +684,8 @@ the translator : Ven. Uttamo (鄔達摩尊者）
      - `Day 18: 3rd November, 2002 <{filename}eighteen-days-in-solitude/day18-2002-11-03%zh.rst>`_
      - | Full Text: `html  <{filename}eighteen-days-in-solitude/eighteen-days-in-solitude-full-text%zh.rst>`_ ; 
        | for print: 
-       | `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-12pt-print.pdf>`__ (12 pt, pdf), 
-       | `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print.pdf>`__ (14 pt, pdf)
+       | `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-12pt-print.pdf>`_ (12 pt, pdf), 
+       | `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print.pdf>`_ (14 pt, pdf)
 
 ------
 
