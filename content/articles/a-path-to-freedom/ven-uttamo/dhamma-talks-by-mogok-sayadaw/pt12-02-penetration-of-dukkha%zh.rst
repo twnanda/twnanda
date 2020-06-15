@@ -3,12 +3,12 @@ Penetration of Dukkha
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2020-06-15
 :tags: Dukkha, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Penetration of Dukkha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2020-06-15
 
 ------
 
@@ -36,7 +36,7 @@ At last all these dukkha extinct or without them is peaceful. When this knowledg
 
 Walking, talking, cooking, etc. are the continuous arising of impermanent dukkha sacca. With the worldly views these are working for the livelihoods. But the real internal process is the working of the dukkha machine. This is someone seeking for dukkha sacca. It becomes sharper with knowledge, whereas ignorance and craving become thinner. 
 
-When it becomes very sharp, kilesa and dukkha cease. It is Nibbāna without the kilesa and dukkha. Only by discerning impermanence light (obhasa), joy (pīti), etc will appear (i.e., the ten insight corruptions). You will see Nibbāna if you’re discerning impermanence and making this decision for this life. Seeing impermanence is finding out dukkha sacca. 
+When it becomes very sharp, kilesa and dukkha cease. It is Nibbāna without the kilesa and dukkha. Only by discerning the impermanence of light (obhasa), joy (pīti), etc. (i.e., the ten insight corruptions) will appear. You will see Nibbāna if you’re discerning impermanence and making this decision for this life. Seeing impermanence is finding out dukkha sacca. 
 
 You have to continue the practice with perseverance. For some the discerning of impermanence is quite earlier. For some it takes quite a long time (So yogis shouldn’t discourage or disappoint with their practices). Not seeing impermanence is distorted and crazy knowing? Not knowing the process of the dukkha machine that we like it. 
 
@@ -44,7 +44,7 @@ The nature of khandha only has the rising dukkha and the falling dukkha. It is g
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36311#p36310 (posted on 2019-04-13)
+revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36311#p36310 (posted on 2019-04-13)
 
 ------
 
@@ -63,5 +63,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-15 rev. old: Only by discerning impermanence light (obhasa), joy (pīti), etc will appear (i.e., the ten insight corruptions).; proofread by bhante
   12-02 rev. proofread by bhante
   2019-04-30  create rst; post on 05-01

@@ -3,12 +3,12 @@ The Murderers
 ==========================================
 
 :date: 2019-04-28
-:modified: 2020-05-31
+:modified: 2020-06-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Murderers (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-05-31
+revised on 2020-06-15
 
 ------
 
@@ -28,7 +28,7 @@ If we can contemplate the mind/ body become cessation and it’s killed by us. T
 
 He couldn’t make it because death came early. Death was staying with him. I was staying at distance. Death always exists within us. It’s still not killing you yet. (Note: Henzada U Mya was a well-known and successful business man in Burma. He was well-known by many. 
 
-Sayadaw met him in Yan-gon a month before this talk. And Sayadaw was urging him for the practice. His reply was he couldn’t die yet. When he wanted to come, he couldn’t make it.)
+Sayadaw met him in Rangoon (Yan-gon) a month before this talk. And Sayadaw was urging him for the practice. His reply was he couldn’t die yet. When he wanted to come, he couldn’t make it.)
 
 Contemplation of impermanence is killing the murderers. Every time seeing the five khandhas, contemplate as murderers and dukkha sacca. In the Rādha Sutta (SN.22.71 Rādhasuttaṃ), the Buddha asked us to do this even when the killer is holding his knife on our neck.
 
@@ -50,7 +50,7 @@ Ven. Rādha asked, “What’s the benefit of Fruition Knowledge?” The Buddha 
 
 ------
 
-revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35997#p35997 (posted on 2019-02-21)
+revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35997#p35997 (posted on 2019-02-21)
 
 ------
 
@@ -69,6 +69,7 @@ revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-11 rev. replace "Yan-gon" with "Rangoon (Yan-gon)"; proofread by bhante
   2020-05-31 proofread by bhante; replace "Rangoon" with "Yan-gon"
   12-02 rev. proofread by bhante
   11-05 rev. proofread by bhante

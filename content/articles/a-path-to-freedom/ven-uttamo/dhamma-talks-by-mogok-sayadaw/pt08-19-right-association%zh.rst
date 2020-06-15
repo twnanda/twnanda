@@ -3,12 +3,12 @@ Right Association
 ==========================================
 
 :date: 2019-04-28
-:modified: 2020-05-31
+:modified: 2020-06-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Right Association (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-05-31
+revised on 2020-06-15
 
 ------
 
@@ -48,15 +48,15 @@ Lobha sends you to the realm of ghosts (peta). And diṭṭhi sends you to the r
 
 With more mature and become saddhā maggan and paññā maggan. This is the end of the path. Why still we are not seeing Nibbāna yet? You have to know that it’s not mature yet. Therefore before going to teach someone, the Buddha had to observe the maturity of his/her spiritual faculties (Buddhists rely on the outside powers should contemplate this point seriously). 
 
-[Translator’s Note: Sayadaw had been to Yan-gon (at that time the capital city of Burma) only once in his life time. This was the last year of his life (1962) for receiving the Aggamahāpandita title for his service to the Buddha Sāsana. 
+[Translator’s Note: Sayadaw had been to Rangoon (Yan-gon) (at that time the capital city of Burma) only once in his life time. This was the last year of his life (1962) for receiving the Aggamahāpandita title for his service to the Buddha Sāsana. 
 
-Staying in Yan-gon for a week, he taught people and answered their questions. This period was 7th July to 14th July, 1962. He knew that he would pass away in that year. The people there requested him to come back again. He replied that his khandha would answer for them. And continued to say, they met him quite late. 
+Staying in Rangoon (Yan-gon) for a week, he taught people and answered their questions. This period was 7th July to 14th July, 1962. He knew that he would pass away in that year. The people there requested him to come back again. He replied that his khandha would answer for them. And continued to say, they met him quite late. 
 
-At that time it was very close to enter the Vassa — Rain Retreat. He went back to Amarapura, spent his last Rain there, on the day of Kaṭhina Ceremony-Kaṭhina Cloth offerings, and passed away in a remarkable way. At here, it includes some of his talks in Yan-gon.]
+At that time it was very close to enter the Vassa — Rain Retreat. He went back to Amarapura, spent his last Rain there, on the day of Kaṭhina Ceremony-Kaṭhina Cloth offerings, and passed away in a remarkable way. At here, it includes some of his talks in Rangoon (Yan-gon).]
 
 ------
 
-revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35960#p35960 (posted on 2019-02-16)
+revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35960#p35960 (posted on 2019-02-16)
 
 ------
 
@@ -75,6 +75,7 @@ revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-15 rev. replace "Yan-gon" with "Rangoon (Yan-gon)"; proofread by bhante
   2020-05-31 proofread by bhante; replace "Rangoon" with "Yan-gon"
   10-02 rev. proofread by bhante
   2019-04-26  create rst; post on 04-28

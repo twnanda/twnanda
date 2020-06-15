@@ -3,12 +3,12 @@ Compassion with Wrong View
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-12-02
+:modified: 2020-06-15
 :tags: Wrong View, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Compassion with Wrong View (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2020-06-15
 
 ------
 
@@ -17,14 +17,6 @@ Dhamma Talks by Mogok Sayadaw; 8th December 1961
 There only are the views of eternalism and annihilationism (sassata and uccheda diṭṭhi) after analyzing the 20 kinds of identity view (sakkāya diṭṭhi). Someone who has sassata diṭṭhi on the cessation of life is stepping back from you (dislike with it) if you teach him; whereas for someone who has uccheda diṭṭhi is overreaching it.
 
 They all were not in the middle way what the Buddha wanted to be. With teaching as the ending of name and form (mind and body) is Nibbāna and the eternalists don’t like it. There is no feeling, so what the use of it? He is taking enjoyments in life. Therefore, he steps back and says as "I’ll stay in life". He prefers to be continued and enjoyed the life of gradual elevated heavenly beings with the enjoyment in life even they become sotāpanna, for example, the female devotee Visākha. Their saying is like that; ‘‘It is good enough if I am free from the painful rebirth.’’
-
-------
-
-Note: about "sotāpanna"
-
-(This path, the path of stream-entry, has the task of eradicating the grossest three fetters: identity view, i.e., the view of a self among the five aggregates; doubt in the Buddha and his teaching; and adherence to external rules and observances, either ritualistic or ascetic, in the belief that they can bring purification. When the disciple realises the fruit of this path he becomes a stream-enterer (sotāpanna), who has entered the “stream” of the Noble Eightfold Path that will carry him irreversibly to Nibbāna.-- cited from: THE FOUR PLANES OF LIBERATION, Introduction, "The Middle Length Discourses of the Buddha - Ñāṇamoli & Bhikkhu Bodhi)
-
-------
 
 Most of these types of people are eternalists. Their words are describing the types of wrong view in their heart; by making the prayers such as: may I enjoy the life of human and heavenly being for many times; and they can’t reach towards Nibbāna because the view of eternalism prevents the realization. They are difficult to realize Nibbāna. People with attachement to life don’t like listening to Nibbāna dhamma and have no interest in it. They don’t want to pay attention to it. Majority of people have this wrong view. They prefer any of the khandha except the dukkha of painful existences. 
 
@@ -62,7 +54,7 @@ Faith and wisdom are including with them and leading to Nibbāna. Wisdom eye mea
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35853#p35853 (posted on 2019-01-18)
+revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35853#p35853 (posted on 2019-01-18)
 
 ------
 
@@ -81,6 +73,14 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-15 del:  Note: about "sotāpanna"; proofread by bhante:
+  ------
+
+  Note: about "sotāpanna"
+
+  (This path, the path of stream-entry, has the task of eradicating the grossest three fetters: identity view, i.e., the view of a self among the five aggregates; doubt in the Buddha and his teaching; and adherence to external rules and observances, either ritualistic or ascetic, in the belief that they can bring purification. When the disciple realises the fruit of this path he becomes a stream-enterer (sotāpanna), who has entered the “stream” of the Noble Eightfold Path that will carry him irreversibly to Nibbāna.-- cited from: THE FOUR PLANES OF LIBERATION, Introduction, "The Middle Length Discourses of the Buddha - Ñāṇamoli & Bhikkhu Bodhi".)
+  ------
+
   12-02 rev. proofread by bhante
   09-12 rev. proofread by bhante
   2019-04-24  create rst; post on 04-28

@@ -3,18 +3,18 @@ Answer to a Buddhist
 ==========================================
 
 :date: 2019-04-28
-:modified: 2020-05-31
+:modified: 2020-06-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Answer to a Buddhist (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-05-31
+revised on 2020-06-15
 
 ------
 
 Dhamma Talks by Mogok Sayadaw; 10th July 1962
 
-(Tax office general U Loon Pe heard the news of Sayadaw in Yan-gon, went to see him, and asked some questions on Buddhism). 
+(Tax office general U Loon Pe heard the news of Sayadaw in Rangoon (Yan-gon), went to see him, and asked some questions on Buddhism). 
 
 Q: He said to Sayadaw that in his view it was impossible to observe the mind. He had studied the cognitive process of the mind (vīthicitta) and couldn’t relate it to the practice because the minds are arising and falling very quickly and with many bhavaṅga cittas (Life-continuum minds) between them. 
 
@@ -78,7 +78,7 @@ If other minds not come in between each vīthi is in the present. For example, a
 
 ------
 
-revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35962#p35962 (posted on 2019-02-16)
+revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35962#p35962 (posted on 2019-02-16)
 
 ------
 
@@ -97,6 +97,7 @@ revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-11 rev. replace "Yan-gon" with "Rangoon (Yan-gon)"; proofread by bhante
   2020-05-31 proofread by bhante; replace "Rangoon" with "Yan-gon"
   2020-03-03 rev. title while editing PDF
   10-02 rev. proofread by bhante

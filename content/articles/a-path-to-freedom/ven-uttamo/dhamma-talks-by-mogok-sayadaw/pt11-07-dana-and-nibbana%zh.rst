@@ -3,12 +3,12 @@ Dāna and Nibbāna
 ==========================================
 
 :date: 2019-05-01
-:modified: 2020-05-31
+:modified: 2020-06-15
 :tags: Dāna, Nibbāna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Dāna and Nibbāna (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-05-31
+revised on 2020-06-15
 
 ------
 
@@ -28,7 +28,7 @@ Wealth and properties can be changed at any time before death. It can be met wit
 
 Dāna offerings are like taking things out from the burning house and save it as one’s own properties. You should not think it as reducing or spending your wealth. The thirty-one realms of existence are kilesa fire. So, they are burning with the fire of dukkha. The Buddha was admonishing us for not taking out things from the burning fire.” 
 
-(Even most people don’t know as these are burning with fire. And it’s worth to do it. Here Sayadaw mentioned a current news happened in Yan-gon where a man was robbed and killed by robbers). His khandha and properties are burned down with fire. 
+(Even most people don’t know as these are burning with fire. And it’s worth to do it. Here Sayadaw mentioned a current news happened in Rangoon (Yan-gon) where a man was robbed and killed by robbers). His khandha and properties are burned down with fire. 
 
 (Again, Sayadaw talked about the last day of the Buddha. The Buddha laid down his burdened khandha at the sal-grove in Kusinārā. Because of the saṅkhāra dhamma and nothing was left there nowadays. All the grandeur was gone. It was quite a saṁvega story. It was not more than a dream).
 
@@ -44,7 +44,7 @@ But only let cetanā following behind knowledge (ñāṇa) that became a Buddha,
 
 ------
 
-revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36286#p36286 (posted on 2019-04-12)
+revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36286#p36286 (posted on 2019-04-12)
 
 ------
 
@@ -63,6 +63,7 @@ revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-11 rev. replace "Yan-gon" with "Rangoon (Yan-gon)"; proofread by bhante
   2020-05-31 proofread by bhante; replace "Rangoon" with "Yan-gon"
   12-02 rev. proofread by bhante
   2019-04-30  create rst; post on 05-01

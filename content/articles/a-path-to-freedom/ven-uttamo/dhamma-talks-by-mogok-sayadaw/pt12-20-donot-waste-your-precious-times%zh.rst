@@ -3,12 +3,12 @@ Don’t Waste Your Precious Times
 ==========================================
 
 :date: 2019-05-01
-:modified: 2020-05-31
+:modified: 2020-06-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Don’t Waste Your Precious Times (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-05-31
+revised on 2020-06-15
 
 ------
 
@@ -52,7 +52,7 @@ It was sure that he was not in the absorption state because he was not a samatha
 
 ------
 
-revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36338#p36338 (posted on 2019-04-16)
+revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36338#p36338 (posted on 2019-04-16)
 
 ------
 
@@ -71,6 +71,7 @@ revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-11 rev. replace "Yan-gon" with "Rangoon (Yan-gon)"; proofread by bhante
   2020-05-31 proofread by bhante; replace "Rangoon" with "Yan-gon"
   12-02 rev. proofread by bhante
   2019-05-01  create rst; post on 

@@ -3,12 +3,12 @@ Dying, Saṁsāra and Nibbāna
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2020-06-15
 :tags: Dying, Saṁsāra, Nibbāna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Dying, Saṁsāra and Nibbāna (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2020-06-15
 
 ------
 
@@ -40,6 +40,22 @@ Worldlings continue the D.A. process; i.e., continue to dukkha. Arahants cut off
 In Thailand some monks belong to a Buddhist sect even teach people as Nibbāna is attā and wanting to make it becomes a popular Buddhism.) 
 
 It’s becoming clear that the concepts of man and woman cover up on the five khandhas. If you separate and analyze each one of the five khandhas, then an arahant is only a sign – board. With the contemplation of the khandha and you’ll not see the arahant but only impermanence.
+
+[Note on the passing away of Buddha and Arahants (i.e., parinibbāna)
+
+Sayadaw mentioned in his talk, “For the arahants after the five mind moments and death consciousness arises, but not continues to birth consciousness. Instead of the cessation of dukkha (i.e., the khandhas) and nibbāna arises.
+
+The permanent happiness arises. “Here a discussion problem arises from the point of Abhidhamma on the death consciousness of Buddha and arahant. Some think that Buddha and arahant passed away by inclining the mind towards Nibbāna element. This is not true. The object of rebirth consciousness, the object of bhavaṅga cittas arise between the whole life process and the object of death consciousness are the same. All of them are bhavaṅga cittas, and taking the same object of near past life, which was appearing during the dying process as a rebirth sign object. Not only the Buddha and arahant, all beings are in the same way. This is natural procedure of the mind.
+
+In the Mahā-Parinibbāna Sutta—the great discourse on the total unbinding, it described the passing away of the Buddha as followed.
+
+The Buddha entered the first Jhāna (absorption state). Emerging from that, he entered the second Jhāna. Emerging from that, he entered the third Jhāna…up to the cessation of perception and feeling. From there, in the reverse order, the Buddha was descending to the first Jhāna successively, by entering and emerging.
+
+From the first Jhāna again, he successively entered the fourth Jhāna; emerging from the fourth Jhāna, he immediately was totally unborn (i.e., passed away).
+
+What are the different between arahant (including the Buddha) and other beings (including the ariyas of Sotāpanna to Anāgāmi)? The arahant mind is totally pure without any defilement (kilesa) which condition any new khandhas to arise or without the arising of rebirth consciousness anymore. It is like the burning of a fire which needs fuel and fire for continuing to burn. Fuel is like the khandhas and fire like defilement (ignorance and craving). Therefore, after the fuel is consumed and fire is gone out extinguished is like the parinibbāna of an arahant. For other beings, they still have new khandhas to arise with kilesas. Mogok Sayadaw referred to the passing away of arahant as the extinction of fuel and the extinguishment of the fire as Nibban (Burmese short form for Nibbāna).
+
+There were some problems arose by some later Buddhists who postulated some views and ideas for some enlightened beings and their concepts of Nibbāna as different Buddha. These special enlightened beings were higher than arahants and pacceka-Buddhas. These beings were living in special heavens and coming and going to the human world to help or save human beings according to their desire like the avatars in Hinduism. This atta Nibbāna is confusing people from the Buddha teaching in Nibbāna which also anatta. Atta Nibbāna or Nirvana is similar to the Hindu Moksha.]
 
 ------
 
@@ -87,7 +103,7 @@ There is no affection for it if you know them as aliens. With the samudaya dies 
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36334#p36334 (posted on 2019-04-16)
+revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36334#p36334 (posted on 2019-04-16)
 
 ------
 
@@ -106,5 +122,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-13 add: Note on parinibbāna of Buddha and Arahants; by bhante
   12-02 rev. proofread by bhante
   2019-05-01  create rst; post on 

@@ -3,12 +3,12 @@ The Burdened Khandha
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2020-06-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Burdened Khandha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2020-06-15
 
 ------
 
@@ -24,9 +24,7 @@ The khandha was always burning with fire. I had never been in peace and happines
 
 Nibbāna is the Dhamma for everyone takes joy in it and put down the burdened khandha when the time comes. (Arahant had penetrated dukkha thoroughly for four times on the way of practice; and also rested the mind in fruition state for many time and before.) The path of liberation is easy if the teacher shows the way. 
 
-Leaving the eye of the worldling aside and with the eye of ariyan and the khandha is never free from diseases. Therefore, don’t pray for the khandha. If you’re taking the khandha as very good and you don’t want to be freed from it. 
-
-Only you know about its evils, and want to be freed form it (These points are important for Buddhists to contemplate. Dukka means disgust and uselessness. Therefore, it only gives us troubles and sufferings in saṁsāra, except we use it for liberation. With bhava taṇhā we will come back again and again for sufferings and no other purposes). 
+Leaving the eye of the worldling aside and with the eye of ariyan and the khandha is never free from diseases. Therefore, don’t pray for the khandha. If you’re taking the khandha as very good, you don't actually want to be liberated from it. Only when you know its scourge, you want to be free from it. (These points are important for Buddhists to contemplate. Dukka means disgust and uselessness. Therefore, it only gives us troubles and sufferings in saṁsāra, except we use it for liberation. With bhava taṇhā we will come back again and again for sufferings and no other purposes). 
 
 The khandha only shows you what originally has. Sitting at a place, watching and observing for what it will show you. With the watching and observing will see the dissolution of the khandha. Ñāṇa has to follow behind its ehi passiko – khandha is calling at come and see me. You will see its not-existing if you’re following it.
 
@@ -34,7 +32,7 @@ Why is that? For example, pain arises and at the time when ñāṇa follows it a
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36332#p36332 (posted on 2019-04-16)
+revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36332#p36332 (posted on 2019-04-16)
 
 ------
 
@@ -53,5 +51,12 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-15 rev. old:
+  ----
+
+  Therefore, don’t pray for the khandha. If you’re taking the khandha as very good and you don’t want to be freed from it.
+
+  Only you know about its evils, and want to be freed form it (; proofread by nanda & bhante
+  ----
   12-02 rev. proofread by bhante
   2019-05-01  create rst; post on 

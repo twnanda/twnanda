@@ -3,12 +3,12 @@ The Creator: The Deceitful Mind
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-11-05
+:modified: 2020-06-15
 :tags: The Creator, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Creator: The Deceitful Mind (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2020-06-15
 
 ------
 
@@ -116,7 +116,7 @@ Mind base (manāyatana) exists in the heart base (hadayavatthu).
 
 The mind base is in the blood of the heart (neither the heart nor the blood). The Buddha not mentioned a specific place for it. One teacher had suggested two possibilities; the heart area and the brain. We feel it at the heart if we have emotions. We are scratching the head if we think something] 
 
-There are three causes for mind consciousness arise; mind base, the mirror of mano dvara truing towards mental objects and then thoughts can arise. Thoughts can arise by three causes: mental object (dhammarammana) + mind base + attention. 
+There are three causes for mind consciousness arise; mind base, the mirror of mano dvara turning towards mental objects and then thoughts can arise. Thoughts can arise by three causes: mental object (dhammarammana) + mind base + attention. 
 
 If you turn the mind base towards the past, present and future mental objects and thoughts arise. If you are turning it towards the objects in the safe even can’t see it and still will appear to you. Therefore mind consciousness is the sharpest one. 
 
@@ -190,7 +190,7 @@ Therefore, there is no mind and no form made by it in Nibbāna. Without the mind
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36084#p36084 (posted on 2019-03-08)
+revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36084#p36084 (posted on 2019-03-08)
 
 ------
 
@@ -209,5 +209,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-13 rev. old: the mirror of mano dvara truing towards mental objects; proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-29  create rst; post on 05-01

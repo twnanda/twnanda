@@ -3,12 +3,12 @@ The Dangers of Ignoble Dhamma
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2020-06-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Dangers of Ignoble Dhamma (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2020-06-15
 
 ------
 
@@ -40,13 +40,13 @@ The dangers of starvation, diseases, etc. are not very frightening. You will onl
 
 The dhammas shouldn’t be arisen are ignoble dhammas. It’s not referring to a person. You’re not afraid the dangers in hand, instead afraid of the dangers not encounter yet. Internal dangers are more fearful (i.e., defilements, immoral and unwholesome dhammas). 
 
-Not seeing the inner dangers that saṁsāra is long for you. They were the reasons of encountering with the dangers of ignoble dhammas before: not metting the Buddha, not realizing Nibbāna and falling into the four woeful planes. These unwholesome dhammas came to you because you forgot the impermanence. You don’t see it even the impermanence is there. Foolish kammas arise as the companions of the existing ignorance. 
+Not seeing the inner dangers that saṁsāra is long for you. These were the reasons of encountering with the dangers of ignoble dhammas before: not meeting the Buddha, not realizing Nibbāna and falling into the four woeful planes. These unwholesome dhammas came to you because you forgot the impermanence. You don’t see it even the impermanence is there. Foolish kammas arise as the companions of the existing ignorance. 
 
 Therefore, we’re encountering with the physical and mental sufferings. The permanent homes of heedless people are the four woeful planes. You will encounter dangers if you’re heedless. You will realize Nibbāna if not in heedlessness. It will not be in dangers with mindfulness (sati) and observing with paññā.
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36339#p36339 (posted on 2019-04-16)
+revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36339#p36339 (posted on 2019-04-16)
 
 ------
 
@@ -65,5 +65,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-15 rev. These were the reasons of encountering with the dangers of ignoble dhammas before: not meeting the Buddha, not realizing Nibbāna and falling into the four woeful planes. mistype:They, metting ; proofread by bhante
   12-02 rev. proofread by bhante
   2019-05-01  create rst; post on 

@@ -3,12 +3,12 @@ Mountains of Bones and Oceans of Blood
 ==========================================
 
 :date: 2019-04-28
-:modified: 2020-05-31
+:modified: 2020-06-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Mountains of Bones and Oceans of Blood (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-05-31
+revised on 2020-06-15
 
 ------
 
@@ -62,11 +62,11 @@ Craving, clinging and action (taṇhā, upādāna, and kamma) are the dhammas fo
 
 Now if you don’t practice, your dukkha can’t vanish just like the simile given by the Buddha. It was like using a blade of grass dipping into the sea and shaking the water out each time and the sea water would never dry up. The Buddha said these things with his direct penetrative knowledge. 
 
-(Sayadaw here warned the audience about the passing away of Henzada U Mya, a well-known business man and a close disciple of him. Nearly a month before he died, Sayadaw met him in Yan-gon (Yangon) and warned him again for practice. He never took Sayadaw’s warning seriously and was always busy with making money. So, Sayadaw now urged his audiences for practice and not wasting their precious time on money.)
+(Sayadaw here warned the audience about the passing away of Henzada U Mya, a well-known business man and a close disciple of him. Nearly a month before he died, Sayadaw met him in Rangoon (Yan-gon) (Yangon) and warned him again for practice. He never took Sayadaw’s warning seriously and was always busy with making money. So, Sayadaw now urged his audiences for practice and not wasting their precious time on money.)
 
 ------
 
-revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35971#p35971 (posted on 2019-02-17)
+revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35971#p35971 (posted on 2019-02-17)
 
 ------
 
@@ -85,6 +85,7 @@ revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-11 rev. replace "Yan-gon" with "Rangoon (Yan-gon)"; proofread by bhante
   2020-05-31 proofread by bhante; replace "Rangoon" with "Yan-gon"
   11-05 rev. proofread by bhante
   2019-04-26  create rst; post on 04-28

@@ -3,12 +3,12 @@ Understanding of Insight Practice
 ==========================================
 
 :date: 2019-01-13
-:modified: 2020-05-31
+:modified: 2020-06-15
 :tags: insight practice, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Understanding of Insight Practice (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-05-31
+revised on 2020-06-15
 
 ------
 
@@ -20,11 +20,11 @@ Only knowing the khandha which is now arising will know the khandha which is now
 
 So, there are no personality and living being, only cause and effect process phenomena. Do you have any wrong view and doubt as where I come from? Material phenomena are only material elements, don't come and confuse it. Mind phenomena are only mind elements, don't come and confuse it. Material phenomena are conditioning by kamma, citta (mind), utu (temperature) and āhāra (food), not created by Mahā Brahma and God. By knowing the causes, doubt is overcome. Knowing that there are only mind and body phenomena, can wrong view come and stick with it? No, in this way wrong view and doubt fall away. This is only in intellect and not by practice. There are three ways to dispel them; i.e., by intellect, practice and extermination (study, practice and realization). The 5-khandhas are arising and passing away, and replace by another new khandhas etc. in this way without end. (The past kammic energy support these continuations.) For contemplation no need to concentrate all the 5-khandhas, only one of them. It's the contemplation of impermanence and also one's own death. After you have seen your own death all the times and do you still want it? The Buddha said that if you are looking for the beginning of a being, it will never end. Why is that? Because all these deaths can never come to an end. When every khandhas is arising, but it can't be contemplated, then Dependent Arising continues and will receive future khandhas continuously; whereas it will not (receive) by contemplation.
 
-Vipassanā is contemplating one's own death. After seeing your own death, do you have any affection to them? In this way of discerning impermanence, the Buddha and worldling (puthujjana yogi) are not the same rate. For example, the Buddha in each moment for the mind 10^7 x 10^5 times (hundred thousand billion times/sec.) and matter 10^7 x 5000 times (five thousand billion times/sec.). These rates were after become a Buddha; he could not discern that much before enlightenment. Even the Buddha and Ven. Sāriputta are not the same rate. (This talk was delivering to U Tan Daing and his friend U Tun Yin. They came from Yan-gon and made inquiry on practice. Later U Tan Daing became a very close disciple and propagated Sayadaw’s talks around Burma by establishing Mogok Vipassanā Centre in Yan-gon.)
+Vipassanā is contemplating one's own death. After seeing your own death, do you have any affection to them? In this way of discerning impermanence, the Buddha and worldling (puthujjana yogi) are not the same rate. For example, the Buddha in each moment for the mind 10^7 x 10^5 times (hundred thousand billion times/sec.) and matter 10^7 x 5000 times (five thousand billion times/sec.). These rates were after become a Buddha; he could not discern that much before enlightenment. Even the Buddha and Ven. Sāriputta are not the same rate. (This talk was delivering to U Tan Daing and his friend U Tun Yin. They came from Rangoon (Yan-gon) and made inquiry on practice. Later U Tan Daing became a very close disciple and propagated Sayadaw’s talks around Burma by establishing Mogok Vipassanā Centre in Rangoon (Yan-gon).)
 
 ------
 
-revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35607#p35607 (posted on 2018-12-15)
+revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35607#p35607 (posted on 2018-12-15)
 
 ------
 
@@ -43,6 +43,7 @@ revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-15 rev. replace "Yan-gon" with "Rangoon (Yan-gon)"; proofread by bhante
   2020-05-31 proofread by bhante; replace "Rangoon" with "Yan-gon"
   06-14 rev. proofread by bhante
   2019-01-11  create rst; post on 01-13
