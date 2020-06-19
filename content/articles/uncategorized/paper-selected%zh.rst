@@ -2,7 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2020-04-11
+:modified: 2020-06-19
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -23,12 +23,11 @@
   `線上閱讀 <{filename}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.htm>`__ (HTML)
   或下載(按滑鼠右鍵,選擇 "另存目標"(Chrome 則為"另存連結為")；便可直接存檔)：
   `PDF <{filename}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.pdf>`__ (含目錄及書籤功能)或
-  m$ `.DOC 檔 <{filename}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.doc>`__
+  m$ `.DOC 檔 <{filename}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.doc>`__ （取材自： `ftp://ftp.puremind.org.tw/02%20南傳佛教入門資料%2F佛陀的古道.doc <ftp://ftp.puremind.org.tw/02%20南傳佛教入門資料%2F佛陀的古道.doc>`__）
 
-  取材自： ftp://ftp.puremind.org.tw/02%20南傳佛教入門資料%2F佛陀的古道.doc
+  PDF 繁體版 `另一鍊結 <http://www.brahmavihara.my/theravada-ebooks-download/books-search?format=raw&task=download&fid=22>`__ ； PDF `簡體版 <https://www.dhammatalks.net/Chinese/Ven_Piyadassi_The_Buddhas_Path.pdf>`__
 
-  英文版(English): `直接閱讀 HTML <http://www.what-buddha-taught.net/Books3/Piyadassi_Thera_The_Buddhas_Ancient_Path.htm>`__
-  (http://www.what-buddha-taught.net/Books3/Piyadassi_Thera_The_Buddhas_Ancient_Path.htm)
+  英文版 (English): : `PDF (English) <https://archive.org/details/TheBuddhasAncientPath/page/n19/mode/2up>`__ (Internet Archive, there is also EPUB file)
 
 ----
 
@@ -38,7 +37,7 @@
 
   線上閱讀或下載： `PDF <{filename}/extra/authors/narada/The-Buddha-and-His-Teachings-Han.pdf>`__
 
-  英文版(English): `PDF(English) <http://nanda.online-dhamma.net/lib/authors/Narada/The-Buddha-and-His-Teachings-Han.pdf>`__
+  英文版 (English): `PDF (English) <{filename}/extra/authors/narada/The-Buddha-and-His-Teachings.pdf>`__
 
 ----
 
@@ -198,6 +197,8 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  06-19 rev. linking of 《佛陀與佛法》 (The Buddha and His Teachings) & 《佛陀的古道》 (The Buddha's Ancient Path)--PDF (English) & ; old: expired-- 直接閱讀 HTML http://www.what-buddha-taught. net/Books3/Piyadassi_Thera_The_Buddhas_Ancient_Path.htm ; hiden: http://www.sutra.org.tw/library/reads%20pdf/PDF/%E4%BD%9B%E9%99%80%E7%9A%84%E5%8F%A4%E9%81%93.pdf, http://www.sutra.org.tw/library/reads%20pdf/PDF/佛陀的古道.pdf
+
   2020-04-11 add 尊者　菩提長老針對2019新冠病毒疫情的開示
   12-03 add: Maṅgala Sutta – Protection with Blessing
   2019-02-06 rev. 《佛陀的啟示》post; editting 10-25 for rst; old:/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.html; replace Nanaransi (Ñāṇaransi ?) (01-13) with Ādiccaramsī
