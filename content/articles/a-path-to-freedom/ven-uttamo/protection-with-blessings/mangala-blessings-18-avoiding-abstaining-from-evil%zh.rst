@@ -3,12 +3,12 @@ Avoiding, Abstaining from Evil (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-25
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Avoiding, Abstaining from Evil (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-06-25
 
 ------
 
@@ -91,7 +91,7 @@ On Sampatta-virati:
 
 There was a story in Sri Lanka related to sampatta-virati.
 
-There were two brothers, and one day, their mother was sick. So, they invited a doctor to treat her. He told them a prescription which could cure her illness. That was to eat fresh rabbit meat. It seems that there are misconceptions relating to some prescriptions of the traditional medicines to cure some illnesses and physical health illnesses. How an evil deed of killing and harming animals by using their bodily parts can cure illness and diseases.
+There were two brothers, and one day, their mother was sick. So, they invited a doctor to treat her. He told them a prescription which could cure her illness. That was to eat fresh rabbit meat. It seems that there are misconceptions relating to some prescriptions of the traditional medicines to cure some diseases and physical health illnesses. How an evil deed of killing and harming animals by using their bodily parts can cure illness and diseases.
 
 These are going against the wholesome dhamma and law of kamma. The result of its outcome could be very serious. The very good example is Wu-han virus (or Covid 19) which effected the whole world. It caused a lot of problems and losing lives. I do not think Dr. Jīvaka (the famous doctor of during the Buddha Gautama’s time) and Dr. Sun soon-miao (the famous doctor of the Tang Dynasty, who lived for 120 years of age) would give these kinds of prescriptions. These two great doctors were intelligent and wise. The younger brother went to the field to look for rabbits. After sometimes he saw a rabbit was eating the young rice crops. The rabbit, after seeing him and in fright, ran for its life. He was chasing the rabbit and at last its legs entangled in creepers.
 
@@ -177,7 +177,7 @@ After the last time, he resolved not taking the life of the boa and threw his kn
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36964#p36964 (posted on 2019-11-19)
+revised on 2020-06-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36964#p36964 (posted on 2019-11-19)
 
 ------
 
@@ -192,5 +192,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-25 rev. the 2nd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

@@ -3,12 +3,12 @@ Transcending of Time
 ==========================================
 
 :date: 2019-12-02
-:modified: 2020-06-15
+:modified: 2020-06-25
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Transcending of Time (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-06-15
+revised on 2020-06-25
 
 ------
 
@@ -72,7 +72,7 @@ Also contemplate the impermanence if other neutral minds such as seeing and hear
 
 (The Buddha answered to the female deity:) From the beginning of human existence (see the Aggañña Sutta, DN.27 Aggaññasuttaṃ), human race used concepts of man and woman, husband and wife, son and daughter, etc. which all were based on wrong view (diṭṭhi). Human beings take these as reality and then their greed, hatred and delusion (lobha, dosa and moha) are increasing. From these unwholesome dhammas, many many dukkhas and worries arise. Human beings do only end up with concepts or signboards; so they don’t know the existence of the reality. 
 
-(All these super-ignorance or delusion create the unsustainable Earth situation nowadays, which comes from material developments. Out of greed and delusion, man was exploiting the Earth without proportion, leading to nowadays situation of global warming. It is the red danger for human race now. One of the weapons of mass destruction is advertisement and consumerism deceive and delude people becoming over-greedy and super-glue. All these are signboards which delude people becoming ignoramus.)
+(All these super-ignorance or delusion create the unsustainable Earth situation nowadays, which comes from material developments. Out of greed and delusion, man was exploiting the Earth without proportion, leading to nowadays situation of global warming. It is the real danger for human race now. One of the weapons of mass destruction is advertisement and consumerism deceive and delude people becoming over-greedy and super-glue. All these are signboards which delude people becoming ignoramus.)
 
 Therefore, kālika matters become chaotic. Signboards are man and woman, but the reality of existence is impermanent mind and matter. We have to go to the Kingdom of Death if we are in chaos with kālika. From today onwards, you have to separate between the signboards (unreal) and the real existence of mind and matter. You all have to correct yourselves and there is still have time for it.
 
@@ -84,7 +84,7 @@ Kālikas are arisen by following the desire of the khandhas. Therefore, you have
 
 ------
 
-revised on 2020-06-15
+revised on 2020-06-25
 
 ------
 
@@ -103,6 +103,7 @@ revised on 2020-06-15
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-25 rev. the 2nd proofread by bhante
   2020-06-15 rev. old: It is necessary to want to correct and encounter a good teacher. ; proofread by bhante
   12-08 rev. proofread by bhante
   2019-12-02  create rst; post on 12-02

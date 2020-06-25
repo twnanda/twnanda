@@ -3,12 +3,12 @@ Giving (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-25
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Giving (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-06-25
 
 ------
 
@@ -18,7 +18,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 The commentary explained it as the volition of relinquishing to others with requisites or other thing. It was non-greed and associated with the above volition. There is a Pāli word—cāga which means generosity and relinquishing. It mentioned ten objects of giving, these were; food and drink, robes or clothes, bedding and dwelling places, ointments, garlands, fragrances, lamps and vehicles. Robes or clothes, food and drink, bedding and dwelling places, and ointments are included in the four requisites of a monk. These are basic needs for a human being (clothes, food, dwelling and medicine). Monks also can use the other four objects—garlands, fragrances, and lamps and vehicles. The first three items can offer a Buddha image (shrine) and cetiya. Vehicles (cars) can be used for the monastery businesses. It seemed to be these objects were for giving to the monks. For lay communities and organisations, it can include many other things (e.g., refugee camps). 
 
-Dāna is quite an extensive subject. We can find about it in many suttas in Nikāyas. It can be said that the very basic and important practice in human societies. Without non-greed or relinquishment love and concerning for other will not happen with greed, selfishness and stingy we cannot share and help others. In the ten perfections (pāramīs) the first perfection appeared to the mind of the hermit Sumedha bodhisatta was dāna pāramīs. It seems to be the basic one and easier for practice and develop. Actually, dāna practice is very loose to us. It is only we do not know it or unaware of it. We all experienced it even very young age. Our parents are very good examples. They gave their time, energy and money to help and support us in all means and ways, which included good-will, love and concern for others. Therefore, we should not overlook its qualities and practice. It has profound and subtle meanings in itself. With a lot of practice, it can lead to other wholesome minds. It will overcome greediness, jealousy, miserliness, selfishness, etc.
+Dāna is quite an extensive subject. We can find about it in many suttas in Nikāyas. It can be said that the very basic and important practice in human societies. Without non-greed or relinquishment love and concerning for other will not happen with greed, selfishness and stingy we cannot share and help others. In the ten perfections (pāramīs) the first perfection appeared to the mind of the hermit Sumedha bodhisatta was dāna pāramīs. It seems to be the basic one and easier for practice and develop. Actually, dāna practice is very near to us. It is only we do not know or unaware of it. We all experienced it even at very young age. Our parents are very good example for dāna. They gave their time, energy and money to help and support us in all means and ways, which included good-will, love and concern for others. Therefore, we should not overlook its qualities and practice. It has profound and subtle meanings in itself. With a lot of practice, it can lead to other wholesome minds. It will overcome greediness, jealousy, miserliness, selfishness, etc.
 
 The word charity can be said to be a kind of dāna. For a true bodhisatta his dāna practices would reach to the highest level of even relinquished his life for others. Why is there more ordinary and poor people than rich and prosperous people? Because very few people appreciate the practice. Therefore, it is very important to know the teaching of dāna by the Buddha. If we contemplate the trade war between U.S. and China can be seen the negative mental states of politicians and economists. It based on negative or unwholesome mental states of greediness, selfishness, envy, stinginess, ill-will, not concerning for others. All these negative minds lead to dispute and conflict. These were mentioned in the following two suttas; DN21: Sakkapañha sutta and MN18: Madhupiṇḍika Sutta.
 In DN21, the map reads like this:
@@ -29,7 +29,9 @@ In the DN15: Mahānidāna Sutta, the Buddha described the human problems and con
 
 Dependent on craving (greed) → seeking → acquisition → ascertainment → desire and passion → attachment → possessiveness → stinginess → defensiveness → various evil, unskillful phenomena come into play: the taking up of sticks and knives; conflicts, quarrels, and disputes, accusations, divisive speech, and lies.
 
-So, dāna practice is an antidote for craving(greed) which is the cause of sufferings. Therefore, giving, generosity and relinquishing are noble quality which is benefiting oneself others and others. For practising of dāna becomes more effectively we should have the knowledge from the texts. Here I cannot write it in details and only some of them practical purpose. In the Book of the Eight of Aṅguttara Nikāya had two suttas on Dāna. These are:
+So, dāna practice is an antidote for craving(greed) which is the cause of sufferings. Therefore, giving, generosity and relinquishing are noble quality which is benefiting to oneself others and other people.
+
+In order to make dāna practice more effective,  we should have the knowledge about it from the texts. Here I cannot write it in details and only some of them for practical purpose. In the Book of the Eight of Aṅguttara Nikāya had two suttas on Dāna. These are:
 
 Sutta 31: Dāna with eight motives (AN. 8.31 / 4. Dānavaggo 1. Paṭhamadānasuttaṃ)
 
@@ -73,7 +75,7 @@ There are four kinds of donor:
 | The result is attaining wealth and followers. (e.g., collective dāna, such as Kaṭhina robes ceremony. This kind of dāna was praised by the Buddha).
 | 
 
-There are three important mental states which have to be developed for every donor’s connection with any dāna. Before the offerings (preparation), one should have the gladdened mind (e.g., reflection on dāna as chances for doing goodness which the bodhisattas, noble people, sages and wise men were pursued) During the actual offerings, the mind should not be in restlessness but with mindfulness and pleasure. After the offerings, one also has to take pleasure and joy about by reflection or reviewing (because one has conquered greed and following let many of wise and noble beings) There were ten reflections taught by generosity or dāna which could lead to Samādhi. The donors also can easily develop joy and pleasure by contemplation on the results and benefits gain by the recipients (e.g., giving foods and drinks to starring people or refugees).
+There are three important mental states which have to be developed by every donor’s connection with any dāna. Before the offerings (preparation), one should have the gladdened mind (e.g., reflection on dāna as chances for doing goodness which the bodhisattas, noble people, sages and wise men were pursued) During the actual offerings, the mind should not be in restlessness but with mindfulness and pleasure. After the offering, one also has to take pleasure and joy about by reflection or reviewing on the merit (because one has conquered greed by following the way of wise and noble beings) There were ten reflections taught by the Buddha in some suttas. One of them was cāgānussati—reflection on one’s generosity or dāna which could lead to Samādhi (e.g., AN.6.10 Mahānāmasuttaṃ). The donors also can easily develop joy and pleasure by contemplation on the results and benefits gain by the recipients (e.g., giving foods and drinks to starving people or refugees).
 
 Ledi Sayadaw wrote a booklet on dāna explained its meanings and results.
 This was called Dānādi Dīpanī with the mātikā (outline) of Dāna, its meanings and results. I will quote only some of them for general readers.
@@ -131,15 +133,14 @@ Giving by understanding about the result and without it.
 The results are: when receive the result, becoming a person with wholesome roots (non-greed, non-hatred and non-delusion—tihetuka), with sharp knowledge, and one can realize Nibbāna with practice. Without understanding, if one will become a person, he will be with two wholesome roots (without non-delusion), weaken in knowledge (ñāṇa).
 
 
-6. Vivutta dāna and vutta dāna
+6. Vivaṭṭa dāna and vaṭṭa dāna
 
 Giving for the supramundane happiness (i.e., Nibbāna) and mundane happiness (i.e., worldly happiness).
 
-
-Vivutta dāna is called perfection of giving (dāna pāramī)
+Vivaṭṭa dāna is called perfection of giving (dāna pāramī)
 It will lead to human happiness, celestial happiness and Nibbānic happiness.
 
-Vutta dāna is not dāna pāramī. It will lead to human and celestial only, happiness and without Nibbāna. Therefore, every Buddhist if they make dāna always with the desire of ending dukkha.
+Vaṭṭa dāna is not dāna pāramī. It will lead to human and celestial only, attaining worldly happiness and without Nibbāna. Therefore, every Buddhist if they make dāna always with the desire of ending dukkha.
 
 
 7. Ajjhattika dāna and Bāhira dāna
@@ -168,19 +169,19 @@ Dāna practice is quite important for common people (worldlings) in the round of
 
 There are two kinds of rich people, i.e., richest and super-richest. For richest wealth and fortunes, external causes are possible (it even still more or less has to depend on past kamma, i.e., having merits in the past; on the four wheels discourse, AN. 4.31 Cakkasuttaṃ). We can find these richest men at the Buddha’s time and modern day (e.g., Anāthapiṇḍika and Bill Gate). For super-richest people, it mostly has to depend on past kamma (e.g., in the Buddha’s time, there were five super-richest persons, i.e., Jotika, Jatila, Mendaka, Punna and Kākavaliya). You cannot find the super-richest person in these days. There is worldly happiness which is wholesome and blameless. We can enjoy them but should not get lost in it. 
 
-There is also spiritual happiness which transcending of dukkha. So, the Buddha was not a pessimist but a great optimist. He penetrated all kinds of happiness clearly and thoroughly. Worldly happiness is inferior and not to last long when not using and enjoying it properly and wisely; it can lead to a lot of suffering oneself and others. Therefore, the Buddha taught the way to the true and great happiness (i.e., Nibbāna). Worldly happiness is connected with craving, greed and clinging which always lead to birth, ageing, sickness and death. Every Buddha should practice dāna and other wholesomeness always with the intention and wish of transcending dukkha.
+There is also spiritual happiness which transcending of dukkha. So, the Buddha was not a pessimist but a great optimist. He penetrated all kinds of happiness clearly and thoroughly. Worldly happiness is inferior and not to last long when not using and enjoying it properly and wisely; it can lead to a lot of suffering for oneself and others. Therefore, the Buddha taught the way to the true and great happiness (i.e., Nibbāna). Worldly happiness is connected with craving, greed and clinging which always lead to birth, ageing, sickness and death. Every Buddha should practice dāna and other wholesomeness always with the intention and wish of transcending dukkha.
 
 In the following I want to describe the power of kamma on great faith (saddhā) and generosity (cāga). It was connected to the five super-richest people in the time of Buddha Gautama. All of them were in Aṅga and Magadha regions both be longed to king Bimbisāra. They were; 1. Jotika 2. Jatila 3. Mendaka 4. Punna and 5. Kākavaliya
 
 
 1. Jotika: Born into a rich family in Rājagaha. He owned a stately mansion with seven tiered pinnacles. It was surrounded by seven walls, each of which had an entrance guarded by celestial demons (yakkhas). According to the story it was built with the help of Sakka—king of the gods and decorated with gold and jewels.
        
-The fame of his wealth spread form and wide and become a tourist spot. All his wealth and fortunes were the results of his past generosity. It connected to two of his past lives. The first one was he and his elder brother offered sugar came juice to many Pacceka-buddha. He made the wish of enjoyed the result of merit and at last realized Nibbāna. His elder brother only made the wish of realization of Nibbāna. After death, both of them were born in heaven. Next life both of them were born into a rich family by the names of Sena and Aparājita at the time of Buddha Vipassi. The elder brother Sena entered the monastic order after listening to the Buddha Vipassi’s teaching and became an arahant. Aparājita asked his brother what he had to do with his wealth. Ven. Sena asked him to build a perfume chamber for the Buddha. He built it with gold and jewels spreading around in and outside the chamber. The lesson here is merit made by taṇhā prolonging dukkha in saṁsāra.
+The fame of his wealth spread to far and wide and became a tourist spot. All his wealth and fortunes were the results of his past generosity. It connected to two of his past lives. The first one was he and his elder brother offered sugar came juice to many Pacceka-buddhas. He made the wish of enjoying the result of merit and at last realized Nibbāna. His elder brother only made the wish of realization of Nibbāna. After death, both of them were born in heaven. Next life both of them were born into a rich family by the names of Sena and Aparājita at the time of Buddha Vipassi. The elder brother Sena entered the monastic order after listening to the Buddha Vipassi’s teaching and became an arahant. Aparājita asked his brother what he had to do with his wealth. Ven. Sena asked him to build a perfume chamber for the Buddha. He built it with gold and jewels spreading around in and outside the chamber. The lesson here is merit made by taṇhā prolonging dukkha in saṁsāra.
 
 Because of his strong faith and generosity, he gained his wealth in his last life as Jotika. After Ajātasattu became king, the king tried to take his mansion by force but did not success (celestial demons protected the place). At last, he ordained as a monk and became arahant.
 
 
-2. Jatila: After Buddha Kassapa passed away, an arahant want round for donations to build a stupa (made of gold) to enshrine the relics (sarīra) of the Buddha. The arahant came to the house of a goldsmith (past life of Jatila). At that time, the goldsmith and his wife were engaged in a heated quarrel. The goldsmith shouted to the arahant by saying as throwing the stupa into the river and went away. The wife warned him of his seriousness of the wrong speech. So, the goldsmith realized his mistake and wanted to make the atonement for it. Therefore, he made some gold flowers, put them into three gold pots and offered them to put into the relics chamber of the stupa of the Buddha. The goldsmith had three sons and only the youngest son helping him to make the gold flowers and pots.
+2. Jatila: After Buddha Kassapa passed away, an arahant went around for donations to build a stupa (made of gold) to enshrine the relics (sarīra) of the Buddha. The arahant came to the house of a goldsmith (past life of Jatila). At that time, the goldsmith and his wife were engaged in a heated quarrel. The goldsmith shouted to the arahant by saying as throwing the stupa into the river and went away. The wife warned him of his seriousness of the wrong speech. So, the goldsmith realized his mistake and wanted to make the atonement for it. Therefore, he made some gold flowers, put them into three gold pots and offered them to put into the relics chamber of the stupa of the Buddha. The goldsmith had three sons and only the youngest son helping him to make the gold flowers and pots.
        
 In this last life as Jatila he was born from a rich man’s daughter who had an illicit love affair. She put the baby into a pot and floated it down the river stream. (the result of his unwholesome speech in the past life). A young woman was bathing in the stream found it and adopted the boy as her son. Later she sent him to Taxila for education where Jatila stayed at the house of a merchant. In due course he married the daughter of the merchant. After the marriage, a large mound of gold appeared at the backyard of their new house (the result of offered gold to relic chamber). Three sons were born to the couple. Before becoming a monk, he wanted to inherit his wealth to the sons and made a test for them. He gave them a mattock and asked them to dig the gold mound. Only the youngest son could dig the gold mound like a clay mound (the result of helping the goldsmith in his past life to make the gold flowers and pots. These three sons were related to the three sons of the goldsmith). Jatila became an arahant within a few days.
 
@@ -304,7 +305,7 @@ In the beginning, he did not want to meet the Kassapa Buddha. In the second sutt
 
 For a real bodhisatta, even if he knows it himself will not declare about it. People have very deep-rooted diṭṭhi/taṇhā that is even doing wholesome things always calculate loss and profit. Therefore, the results of merits are mostly mixed ones. Not always good in the beginning, in the middle and the end. We had seen the extreme self-views of nationalism, fascism and racism, which had done a lot of atrocities during the second world war. 
 
-They were not only harming others but also leading to their sufferings in the end. Even some were not wanting to say sorry or asking forgiveness out of conceit. They would never heal their wounds. In the Noble Eightfold Path; The Buddha arranged Right View—Sammā-diṭṭhi in the beginning. Why is that? Because it is the wisdom factor and the most important one in human knowledge. Even, the intention is good without the right view, the results usually follow unsatisfactorily. With the right view and right thinking will be followed. With the right thinking or thought, then the right speech and right action would be followed respectively. These are causes and effects relationship. The right view has two kinds; worldly and spiritual. Without Worldly right views cannot develop spiritual right view. The most fundamental worldly right view is the belief in the law of kamma.
+They were not only harming others but also leading to their sufferings in the end. Even some were not wanting to say sorry or asking forgiveness out of conceit. They would never heal their wounds. In the Noble Eightfold Path; The Buddha arranged Right View—Sammā-diṭṭhi in the beginning. Why is that? Because it is the wisdom factor and the most important one in human knowledge. Even, the intention is good without the right view, the results usually follow unsatisfactorily. With the right view and right thinking will be followed. With the right thinking or thought, then the right speech and right action would be followed respectively. These are causes and effects relationship. The right view has two kinds; worldly and spiritual. Without worldly right views cannot develop spiritual right view. The most fundamental worldly right view is the belief in the law of kamma.
 
 Every human happiness, peace, and prosperity based on this very important fundamental law. It is not making by humans. It is the law of nature; a truth. The sun is rising in the east and set in the west. We can express the laws of kamma in a simple slogan “Action begets reaction”—Wholesome actions beget wholesome results; unwholesome actions beget unwholesome results. The law of karma is deep, profound, and complex. One of the four inconceivable phenomena that are not to be conjectured about—the mechanism and precise working out of the results of kamma.
 
@@ -332,7 +333,7 @@ Give a gift with the thought “This is an ornament for the mind, a support for 
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36957#p36957 (posted on 2019-11-18)
+revised on 2020-06-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36957#p36957 (posted on 2019-11-18)
 
 ------
 
@@ -347,5 +348,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-25 rev. the 2nd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

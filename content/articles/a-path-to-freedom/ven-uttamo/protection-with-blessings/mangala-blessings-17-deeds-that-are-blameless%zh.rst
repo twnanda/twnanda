@@ -3,12 +3,12 @@ Deeds That Are Blameless (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-25
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Deeds That Are Blameless (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-06-25
 
 ------
 
@@ -18,7 +18,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 The commentary described blameless deeds as good conducts which related to body, speech and mind. It gave some examples as; undertaking the eight precepts, service to others, setting up parks, building bridges and could include many social services. Good conduct is caraṇa. So, it includes sīla and merits, all the wholesomeness.
 
-In the Ovāda-pāṭimokkha (fundamental instructions to monks; it can also count the lay people in) the first group if Dhamma is not to do evil, to cultivate merit and to purify one’s mind (Dhammapada verse 183). This is the Teaching of the Buddhas (all Buddhas). Here not to do evil and cultivate merit are blameless deeds. These are the foundations for highest mind.
+In the Ovāda-pāṭimokkha (fundamental instructions to monks; it can also count the lay people in), the first group of Dhamma is: “Not to do evil, to cultivate merit and to purify one’s mind (Dhammapada verse 183). This is the Teaching of the Buddhas (all Buddhas)”. Here not to do evil and cultivate merit are blameless deeds. These are the foundations for highest mind.
 
 There are quite a lot of blameless deeds, from smaller one to a great one. Therefore, it is a very wide subject to talk about. In general, any wholesome deed for the benefit and welfare of others can be counted here. Everyone can do it. It has to be started from the family life and then spreading to societies, country, and international levels respectively.
 
@@ -93,7 +93,7 @@ Now someone is power-monger (politicians, leaders), war-monger, money-monger, et
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36963#p36963 (posted on 2019-11-19)
+revised on 2020-06-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36963#p36963 (posted on 2019-11-19)
 
 ------
 
@@ -108,5 +108,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-25 rev. the 2nd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

@@ -3,12 +3,12 @@ Introduction
 ==========================================
 
 :date: 2019-01-13
-:modified: 2020-06-15
+:modified: 2020-06-25
 :tags: Introduction, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Introduction (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-06-15
+revised on 2020-06-25
 
 ------
 
@@ -18,7 +18,7 @@ revised on 2020-06-15
    :alt: Mogok Sayadaw's Portrait
    :align: center
 
-The following short biography of Mogok Sayadaw is based on the remarkable biography by Sayadaw U Gosita. The title is, “One Life Teaching.” After it came out, became popular among Buddhists and reprinted for a few times during a short period. That time before, he had written the biography on his own teacher, the very well-known scholar monk Mahāgandhāyon Sayadaw U Janakābhivaṃsa. Later U Gosita became a meditation teacher in Mogok Meditation Centre and wrote the biography. Mogok Sayadaw's Dhamma talks were very well received among Buddhists in Burma, even before the biography came out and whatever their meditation systems might be; because Sayadaw's talks were mostly based on emptiness (suññatā), dependent co-origination (paṭiccasamuppāda) and many suttas on practice. These teaching were the foundation knowledge for insight practice. It is very important for yogis to know them before and during the practice. These were like guidelines for yogis without a teacher. These Dhamma talks can be called manuals of insight practice. Why I translated most of Sayadaw's talks into English? He passed away for a long time now (i.e., 1962), but his talks were never known, or even heard about it outside Burma. This is the time for me to repay his gratitude and metta for Buddhists. There are also other very good reasons which I will quote from the introduction of a book entitled, “Manual of Vipassanā Contemplation from Mogok Teaching.” This is written by a well-known author U Sun Lwin before he became a Buddhist monk (Ven. Ādiccaramsī). His view on Mogok talks were the same as mine. Therefore, let him expressed it on behalf of me.
+The following short biography of Mogok Sayadaw is based on the remarkable biography by Sayadaw U Gosita. The title is, “One Life Teaching.” After it came out, became popular among Buddhists and reprinted for a few times during a short period. That time before, he had written the biography on his own teacher, the very well-known scholar monk Mahāgandhāyon Sayadaw U Janakābhivaṃsa. Later U Gosita became a meditation teacher in Mogok Meditation Centre and wrote the biography. Mogok Sayadaw's Dhamma talks were very well received among Buddhists in Burma (Myanmar), even before the biography came out and whatever their meditation systems might be; because Sayadaw's talks were mostly based on emptiness (suññatā), dependent co-origination (paṭiccasamuppāda) and many suttas on practice. These teaching were the foundation knowledge for insight practice. It is very important for yogis to know them before and during the practice. These were like guidelines for yogis without a teacher. These Dhamma talks can be called manuals of insight practice. Why I translated most of Sayadaw's talks into English? He passed away for a long time now (i.e., 1962), but his talks were never known, or even heard about it outside Burma. This is the time for me to repay his gratitude and metta for Buddhists. There are also other very good reasons which I will quote from the introduction of a book entitled, “Manual of Vipassanā Contemplation from Mogok Teaching.” This is written by a well-known author U Sun Lwin before he became a Buddhist monk (Ven. Ādiccaramsī). His view on Mogok talks were the same as mine. Therefore, let him expressed it on behalf of me.
 
 An extract: I must admit the following matter. I was satisfied myself for a long time as a true or genuine Buddhist. It can be said as my wrong thought. In brief, at the age of 35, I had abandoned my parent's faith (i.e., Islam), my lover's faith (i.e., Christianity) and my doctrine of that religions are like opium (i.e., communism), because at that time I had been studied deeply in Theravada Buddhism. (It seemed he studied Buddhism extensively for his text book on ethics for philosophy within that period.) After 15 years at the age of 50, I wrote a book on my life. It was entitled, “A Man Has Faith and Taken Refuge in the Triple Gems.” It was about my struggle and change in philosophical view. I was also thinking myself as true or genuine Buddhist when I wrote this book. But it was not so. At that time, I still had not practiced vipassanā yet because I satisfied with myself as a bodhisatta. [In true, bodhisatta also has to practice vipassanā up to the knowledge of equanimity to the formations (saṅkhāra).] I did not know that even encountering the Buddha-Dhamma was still not an insider of the teaching (sāsana). An insider of Dhamma should benefit from the sāsana. Even up to my 50 years of age, I still did not have this clear view. Only believing in the law of kamma is not enough for becoming a true Buddhist. (It is true only becoming a normal Buddhist, and at any time he/she can be fallen into other faiths.) To become a true Buddhist, one must have the knowledge in accordance with the truths—saccanulomika ñāṇa. I only have this knowledge by studying Mogok Sayadaw's Dhamma talks series in transcribed volumes, and listening to his talks in recordings.
 
@@ -287,7 +287,7 @@ There are people having faith and respect only in Dhamma. They don't care about 
 
 ------
 
-revised on 2020-06-15; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4022 (posted on 2018-12-14)
+revised on 2020-06-25; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4022 (posted on 2018-12-14)
 
 ------
 
@@ -324,6 +324,7 @@ revised on 2020-06-15; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=40
               | sukha: agreeable，pleasant，blest
 
 ..
+  06-25 rev. Burma (Myanmar) old:Burma; proofread by bhante
   06-15 rev. replace "Yan-gon" with "Rangoon (Yan-gon)"; proofread by bhante
   2020-05-31 proofread by bhante; replace "Rangoon" with "Yan-gon"
   07-03 rev. replace " – " with "—"; 2 with two, three with three, etc.

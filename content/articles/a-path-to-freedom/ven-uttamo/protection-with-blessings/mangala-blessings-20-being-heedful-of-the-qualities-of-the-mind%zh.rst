@@ -3,12 +3,12 @@ Being Heedful of the Qualities of the Mind (Maṅgala Sutta – Protection with 
 ========================================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-25
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Being Heedful of the Qualities of the Mind (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-06-25
 
 ------
 
@@ -16,15 +16,14 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 ------
 
-The commentary explained it as—heedfulness is the antidote to heedlessness. Heedless means not doing things with care, not doing things in consistency and not doing things with persistency (? persistence ?) for the developing of the wholesome qualities. It also has the meaning of avoiding of one’s duties, relinquish of the desire to do it and giving up the task not pursuing, not developing, not cultivating, without resolution and intentness in to do good. (i.e., for the wholesome qualities of the mind)
-Always have mindfulness (sati) in daily life for doing things regard to ordinary and wholesome matters. It is called a blessing because it leads to mundane and supramundane achievements. The commentary equated heedfulness (appamāda) mindfulness. 
+The commentary explained it as—heedfulness is the antidote to heedlessness. Heedless means not doing things with care, not doing things in consistency and not doing things with persistence for the developing of the wholesome qualities. It also has the meaning of avoiding of one’s duties, relinquish of the desire to do it and giving up the task not pursuing, not developing, not cultivating, without resolution and intentness in to do good (i.e., for the wholesome qualities of the mind).
 
-In the Dhammapada. There was a chapter called Appamādavagga—Chapter on mindfulness. The well-known verse on appamāda (mindfulness) is verse: 
+Always have mindfulness (sati) in daily life for doing things regard to ordinary and wholesome matters. It is called a blessing because it leads to mundane and supramundane achievements. The commentary equated heedfulness (appamāda) to mindfulness (sati). 
 
-21.
+In the Dhammapada. There was a chapter called Appamādavagga—Chapter on mindfulness. The well-known verse on appamāda (mindfulness) is verse 21: 
 
 | Mindfulness (heedfulness) is the way to deathless (i.e., Nibbāna),
-| Mindlessness is the way to death (Dukkha).
+| Heedlessness is the way to death (Dukkha).
 | 
 
 Those who are heedful do not die and those are heedless of if already dead.
@@ -41,20 +40,20 @@ The last word of the Buddha:
 
 “Now, take heed bhikkhus, I caution you thus; Decline and disappearance is the nature of all conditions, Therefore, strive on ceaselessly with discerning and alertness.”
 
-We have to use it practically (not just listen to the talk only). All Buddha-Dhammas can be used. Our life can be secure and free from dangers by following it. It is the controller of our whole life. All our reliable Dhammas could be stopped by loosing sati. Therefore, the Buddha said that without appamāda someone was like a dead person. Don’t measure life with time limits. The value of life should be measured with Dhammas. With sati, we have the knowing or knowledge. Even though we are blind or damaging of our body limbs, etc. and with the knowing and still alive. Otherwise, our knowing or knowledge is dead. Therefore, sati (appamāda) is very important. Do you know how to be old, sick and dying? Could you be ready for dying?
+We have to use it practically (not just listen to the talk only). All Buddha-Dhammas can be used. Our life can be secure and free from dangers by following it. It is the controller of our whole life. All our reliable Dhammas could be stopped by losing sati. Therefore, the Buddha said that without appamāda someone was like a dead person. Don’t measure life with time limits. The value of life should be measured with Dhammas. With sati, we have the knowing or knowledge. Even though we are blind or damaging of our body limbs, etc. and with the knowing and still alive. Otherwise, our knowing or knowledge is dead. Therefore, sati (appamāda) is very important. Do you know how to live with ageing, sickness and death? Could you be ready for dying?
 
-With sati, our life values are increasing because it leads to sīla, samādhi and paññā (these three-fold trainings cannot separate from the practice of mindfulness). (Sayadaw mentioned the people of Kuru State—now New Delhi area). These people were not washing their times. Without sati people are using their lives foolishly without benefits. They are only slaves to their khandhas and no benefits at all. Therefore, life without appamāda is disgusting. All unwholesome dhammas will come in if losing the knowing. So, it is not different from a dead person. Mindful practice is following behind of which our bodies have. (i.e., the four establishments of mindfulness). Only possession with sati can be called a human or can be called becoming a human. Then as long as with long life will have values (i.e., sīla, samādhi, paññā). In this way, the Buddha had arisen for us. With the development of Dhamma Power, value of life will be increased. As an example, fruits depend on a stalk. The fruits become in a random state if the stalk fallen off. It will be looked ugly. In the same way all human matters are like the fruits and the stalk is like heedfulness (appamāda). Therefore, all economies, social matters, etc. are relating to appamāda.
+With sati, our life values are increasing because it leads to sīla, samādhi and paññā (these three-fold trainings cannot separate from the practice of mindfulness). (Sayadaw mentioned the people of Kuru State—now New Delhi area). These people were not wasting their times. Without sati people are using their lives foolishly without benefits. They are only slaves to their khandhas and no benefits at all. Therefore, life without appamāda is disgusting. All unwholesome dhammas will come in if losing the knowing. So, it is not different from a dead person. Mindful practice is following behind of which our bodies have. (i.e., the four establishments of mindfulness). Only possession with sati can be called a human or can be called becoming a human. Then as long as with long life will have values (i.e., sīla, samādhi, paññā). In this way, the Buddha had arisen for us. With the development of Dhamma Power, value of life will be increased. As an example, fruits depend on a stalk. The fruits become in a random state if the stalk fallen off. It will be looked ugly. In the same way all human matters are like the fruits and the stalk is like heedfulness (appamāda). Therefore, all economies, social matters, etc. are relating to appamāda.
 
 The working of sati: 
 
 | 1. to reveal the object,
 | 2. to stay with the object,
-| 3. not to loose the object,
+| 3. not to lose the object,
 | 4. not let other object come in, except with the present object or task, just only that,
 | 
 | 5. the preceding of knowing and the following of knowing are in contact, not let other object come in between,
 | 
-| 6. all the tasks are important; it doesn’t mean do it all at the same time, only for one task which is now just doing. If not, you’ll make mistakes and become confused. The Buddha-sāsana had arisen for the changing of all the bad things into good things. So, we encounter a good life. Actually, the khandha is not good because it carries aging, sickness and death with it. With the sāsana the life becomes good. We can extract goodness from life. The most important task is what you are doing now. All matters should be kept within sati. By loosing sati and it’ll full apart. Therefore, every task is important and every moment has value. It becomes samādhi if you put effort with sati. With the purified mind becomes paññā. One has to be dutiful in Dhamma-duty (i.e., doing everything with sati) to become the insider of the sāsana.
+| 6. all the tasks are important; it doesn’t mean do it all at the same time, only for one task which is now just doing. If not, you’ll make mistakes and become confused. The Buddha-sāsana had arisen for the changing of all the bad things into good things. So, we encounter a good life. Actually, the khandha is not good because it carries aging, sickness and death with it. With the sāsana the life becomes good. We can extract goodness from life. The most important task is what you are doing now. All matters should be kept within sati. By losing sati and it’ll full apart. Therefore, every task is important and every moment has value. It becomes samādhi if you put effort with sati. With the purified mind becomes paññā. One has to be dutiful in Dhamma-duty (i.e., doing everything with sati) to become the insider of the sāsana.
 | 
 
 Without knowledge (knowing), we are deceived by the khandha. It will deceive us as permanence, happiness, self and beauty (nicca, sukha, atta, and subha). 
@@ -65,24 +64,25 @@ Doing things with sati is the middle way to Nibbāna and the way of no dangers. 
 
 In loka (the world), when is it the most valuable time? It’s the present time. It can take the power. Doing things with sati we get wages. During the walking this is the most importance and you have to take the wages. (i.e., sīla, samādhi and paññā ways) Dhamma is the application for life. Here Sayadaw gave the example of Therī Kar who was the daughter of a Vesāli prince. One day, she was frying some vegetables and observing them with sati; then with contemplation, she became an anāgāmi. Later she ordained and continued the practice, finally she became an arahant. Working in a kitchen is also dāna (giving service).
 
-With sati and contemplation, all tasks become practice, Everyday it’s good works and become joyful tasks. It’s workable and attaining merits. Therefore, we become regrettable for all the things which had been wasted before without sati. Doing our duties for others is also sīla (e.g., all the household chores for a mother or wife). With sati and become samādhi and by observing and contemplation the changing phenomena wisdom arise.
+With sati and contemplation, all tasks become practice, Everyday it’s good works and become joyful tasks. It’s workable and attaining merits. Therefore, we become regrettable for all the things which had been wasted before without sati. Doing our duties for others is also sīla (e.g., all the household chores for a mother or wife). With sati, it becomes samādhi; and by observing and contemplation the changing phenomena, the wisdom arises.
 
-Everyone (mother or wife) is cooking every day. No sati, the stalk is falling away (the stalk is appamāda). It’s also lacking of one’s Dhamma duty. No sati and defilement arises. Khandha is always burning with ageing and kilesa fires. Vipassanā is watching the Khandha TV (most humans are watching the Kilesa TVs). Khandha is always showing the right news (Kilesa TV shows the wrong news).
+Everyone (mother or wife) is cooking every day. No sati, the stalk is falling away (the stalk is appamāda). It’s also lacking of one’s Dhamma duty. No sati and defilement arises. Khandha always burns with the fires of ageing and kilesa. Vipassanā is watching the Khandha TV (most humans are watching the Kilesa TVs). Khandha is always showing the right news (Kilesa TV shows the wrong news).
 
-The coming in of kilesa is for contemplation and also it comes to remind us. Each present moment is giving us the time limit. By washing it and will never come back again. Loosing or lacking of sati and life becomes painful. No sati and become a little crazy person. With sati and it becomes treasure. Sati is time controlling machine, it can finish the task, quicker. It’s also mind controlling machine.
+The coming in of kilesa is for contemplation and also it comes to remind us. Each present moment is giving us the time limit. By wasting it and will never come back again. Losing or lacking of sati and life becomes painful. No sati and become a little crazy person. With sati and it becomes treasure. Sati is time controlling machine, it can finish the task, quicker. It’s also mind controlling machine.
 
 There is increasing of power by having sati at busy time. Everyone has only three paths to follow; the oppressive path, the path of extravagance and the path of security.
 
-The oppressive path is one misusing the khandha. The path of extravagance is indulgent in sensuality. The middle way (i.e., the path of security) is the path of application and to use it for the development of the three-fold trainings (sīla, samādhi and paññā). Whoever may be have to go one of these paths. The train carriages are stopping at a station. These carriages are for passengers and cargoes. These are at a standstill because the head carriage does not come yet. The matters of human life (i.e., the four requisites) are like the largo carriages. The train at a standstill is like without sati. Listening of Dhamma is like taking the head carriage which is like sati. After that it carries the train by passing through ageing, sickness and death stations towards Nibbāna.
+The oppressive path is one misusing the khandha. The path of extravagance is indulgent in sensuality. The middle way (i.e., the path of security) is the path of application and to use it for the development of the three-fold trainings (sīla, samādhi and paññā). Whoever may be have to go one of these paths. The train carriages are stopping at a station. These carriages are for passengers and cargoes. These are at a standstill because the head carriage does not come yet. The matters of human life (i.e., the four requisites) are like the cargoes of carriages. The train at a standstill is like without sati. Listening of Dhamma is like taking the head carriage which is like sati. After that it carries the train by passing through ageing, sickness and death stations towards Nibbāna.
 
 2. A Diamond
+
 (note: The title of this talk in Burmese was sein-ta-lone and it means a diamond.
 
 Here we can see Sayadaw’s skill in using language for Dhamma. Only we understand the Burmese word ”Sein” for Diamond, we will appreciate this talk.)
 
-Sati with knowledge is called appamāda (heedfulness). It was also the last teaching of the Buddha. Appamāda is a diamond (sein-ta-lone). Whatever we’re doing, for example, starting from coming and going, it should be a diamond. It includes sīla, samādhi and paññā. So, we’re doing everything with insight (vipassanā). Everything is related to guest and host. Guest means coming for a while and go such as from economy to all social matters will go be gone. Therefore, we are counting the numbers of guest (in daily life). You have no free time if you have a diamond (put effort to maintain sati).
+Sati with knowledge is called appamāda (heedfulness). It was also the last teaching of the Buddha. Appamāda is a diamond (sein-ta-lone). Whatever we’re doing, for example, starting from coming and going, it should be a diamond. It includes sīla, samādhi and paññā. So, we’re doing everything with insight (vipassanā). Everything is related to guest and host. Guest means coming for a while and go such as from economy to all social matters will be gone. Therefore, we are counting the numbers of guest (in daily life). You have no free time if you have a diamond (put effort to maintain sati).
 
-Also, you don’t need to say:”l am busy”. Staying with a diamond become host numbers, and will never leave you. It will always stay you. Leading with sati in a wholesomeness will send us to Nibbāna (Sayadaw gave this talk on the occasion of his 45 years in monkhood in 2005). The Buddha Gotama lived for 45 years of teaching after his enlightenment. Compared with the life span of the realm of the four great kings (i.e., the lowest heavenly beings—their one day is equal to 50 years of human being), the Buddha’s teachings only lasted nearly one day. He was a short life span Buddha that put a lot of effort in his teaching (the busiest man on earth). This gives us a lot of inspiration. It was also the period of degeneration (the human life span is only 100 years and it will decline to ten years) and humans had thick kilesa (defilement). So, it was difficult to teach them.
+Also, you don’t need to say:”l am busy”. Staying with a diamond become host numbers, and will never leave you. It will always stay with you. Leading with sati in wholesomeness will send us to Nibbāna (Sayadaw gave this talk on the occasion of his 45 years in monkhood in 2005). The Buddha Gotama lived for 45 years of teaching after his enlightenment. Compared with the life span of the realm of the four great kings (i.e., the lowest heavenly beings—their one day is equal to 50 years of human being), the Buddha’s teachings only lasted nearly one day. He was a short life span Buddha that put a lot of effort in his teaching (the busiest man on earth). This gives us a lot of inspiration. It was also the period of degeneration (the human life span is only 100 years and it will decline to ten years) and humans had thick kilesa (defilement). So, it was difficult to teach them.
 
 Therefore, he has to work very hard for it. He had to do a lot quickly.
 
@@ -94,7 +94,7 @@ The Buddha extracted the essence of Dhamma from his 45 years of teaching was ver
 
 After the breakfast, we eat again at noon and later for dinner. So, we are busy with eating, clothing and living for oneself by moving around. Our life is for searching things, and then we get it; after that, it has gone and left with tiredness. Does it have any meaning?
 
-Can we call or take it as the essence of life? You have to use knowledge (ñāṇa) to reflect them. It becomes clear if you can observe its impermanence, suffering and not-self (i.e., anicca, dukkha and anatta). All the businesses (worldly busy matters) are only guests. They have no guarantees. It’s important to get the power of life which is the appamāda or wholesome merits. Sati with ñāṇa (knowledge) is called appamāda. When you’re sick, instead of in groaning, put sati in it. Dukkha becomes more distinct when we’re sick. (with ñāṇa). There are with kinds of pain knowledge pain and ignorant pain (or knowing pain and unknowing pain) you have to accept there the knowing pain.
+Can we call or take it as the essence of life? You have to use knowledge (ñāṇa) to reflect them. It becomes clear if you can observe its impermanence, suffering and not-self (i.e., anicca, dukkha and anatta). All the businesses (worldly busy matters) are only guests. They have no guarantees. It’s important to get the power of life which is the appamāda or wholesome merits. Sati with ñāṇa (knowledge) is called appamāda. When you’re sick, instead of in groaning, put sati in it. Dukkha becomes more distinct when we’re sick. (with ñāṇa). There are two kinds of pain: knowledge pain and ignorant pain (or knowing pain and unknowing pain). You have to accept them with the knowing pain.
 
 This kind of pain will send you to Nibbāna. Because it’s only physical pain and no mental pain. All these will become host numbers.
 
@@ -102,41 +102,44 @@ We can extract five meanings from the Burmese word—Sein (i.e., Diamond). These
 
 ① Sein-ta-lone mango (Diamond mango)
 
-This is the best in all mangoes and the best taste. Sati can transform the khandha without essence to the essence one. It’s better than a diamond mange (i.e., sensual pleasure or happiness). It transforms kilesa into essential dhammas. It transforms mental suffering (dukkha) into mental happiness, etc.
+This is the best in all mangoes and the best taste. Sati can transform the khandha without essence to the essence one. It’s better than a diamond mango (i.e., sensual pleasure or happiness). It transforms kilesa into essential dhammas. It transforms mental suffering (dukkha) into mental happiness, etc.
 
 ② Sein-khor (challenge)
 
 You can’t challenge anyone if don’t have strength. It’s number one in sāsana, and can challenge all. There are also challenges at international level. [These are not good signs and nowadays it’s becoming worse and worse. This is a bad omen for the whole world.
 
-Among super-powers, they are challenging or competing each other with greed, hatred and delusion. These are: how to get more money in economics and trade wars; how to get more power with the weapon of mass destruction (arms race); how to pollute the food chains, air, water and earth—the natural environments; how to make the earth planet hotter and hotter; how to make humans afflicted with new diseases (e.g., 2019-2020 corona Virus or Covid 19—Here we can see the stupidity of leaders; instead of dealing with the epidemic in unity, they are finding faults and accusations to each other.); etc. All these are wrong challenges.] 
+Among super-powers, they are challenging or competing each other with greed, hatred and delusion. These are: how to get more money in economics and trade wars; how to get more power with the weapon of mass destruction (arms race); how to pollute the food chains, air, water and earth—the natural environments; how to make the Earth hotter and hotter; how to make humans afflicted with new diseases (e.g., 2019-2020 corona Virus or Covid 19—Here we can see the stupidity of world leaders; instead of dealing with the epidemic in unity, they are finding faults and accusations to each other.); etc. All these are wrong challenges.]
 
 Even animals are challenging each other. Two dogs show their teeth and bark angrily when they are challenging each other, and then they bite each otter noisily. At last both of them hurt and become tired. (It seems some politicians and some world leaders are imitating them as their teachers.)
 
-Sati conquers all of them. Sitting meditation is challenging kilesa. Watch and observer the khandha is. Is there anything of goodness coming out from it? Instead, everything coming out is not good, it responds to us like an enemy. Only dukkha comes out from it (i.e. anicca, dukkha, anatta, asubha and dukkha sacca). In the time of the Buddha, 30 monks went into a forest for practice. One night a tiger came and dragged a young monk into the deep forest. The tiger seemed like challenging the monk as: “You can’t run away from me.” The monk seemed to challenge back it as saying: “You can only eat my putrid khandha and not my sati and ñāṇa” Khandha is for application (but most people are using it at wrong places). The monk became arahant before death.
+Sati conquers all of them. Sitting meditation is challenging kilesa. You have to watch and observe the khandha is: “Is there anything of goodness coming out from it?” Instead, everything coming out is not good, it responds to us like an enemy. Only dukkha comes out from it (i.e. anicca, dukkha, anatta, asubha and dukkha sacca). In the time of the Buddha, 30 monks went into a forest for practice. One night a tiger came and dragged a young monk into the deep forest. The tiger seemed like challenging the monk as: “You can’t run away from me.” The monk seemed to challenge back it as saying: “You can only eat my putrid khandha and not my sati and ñāṇa” Khandha is for application (but most people are using it at wrong places). The monk became arahant before death.
 
 Only his khandha died and not the Dhamma.
 
 ③ Diamond as a valuable gem
 
-Sein (diamond) as a valuable gem; sati also the most valuable Dhamma.
-The reason is it can transform the useless khandha into priceless sīla, samādhi and paññā power. Therefore, sati can be called as sein-ta-lone.
+Sein (diamond) is a valuable gem; sati is also the most valuable Dhamma.
+
+The reason is it can transform the useless khandha into priceless sīla, samādhi and paññā power. Therefore, sati can be called as sein-ta-lone (a diamond). [In the Mahayana tradition, diamond is represented wisdom, e.g., Diamond Sutra or Vajira Sutra. Sayadaw’s diamond is nothing to do with it and it’s just a coincidence. The Buddha referred sati to salt in every dishes. Ven Sāriputta compared Ven. Mahā-Moggallāna with a mountain and in return, Ven. Mahā-Moggallāna compared Ven Sāriputta with salt. There are profound meanings hidden underneath of these two comparisons of psychic power and wisdom power.]
 
 ④ Sein-phu-the Holy Crystal
 
-The holy crystal (sein-phu) is the topmost crystal of a cetiya or pagoda like a lotus but and some of them ware decorated with gold, silver and many types of gem stones (e.g., Shwe-da-gon Pagoda in Rangoon). Sati also like sein-phu and should place it at the top of Dhamma
+The holy crystal (sein-phu) is the topmost crystal of a cetiya or a pagoda, it’s like a lotus-bud and some of them are decorated with gold, silver and many types of gem stones (e.g., Shwe-da-gon Pagoda in Rangoon). Sati also like sein-phu and should place it at the top of Dhamma.
 
-⑤ Sein-pyanng/Mortar
+⑤ Sein-pyaung/Mortar
 
-The Burmese word for mortar is sein-pyanrg. Why sati is like a mortar?
+The Burmese word for mortar is sein-pyaung. Why sati is like a mortar?
 A mortar can shoot a target. In the same way sati can do its task.
 
 The khandha is very near us, but we can’t see its anicca, dukkha and anatta.
 
 Sati can shoot the refined targets which are far away in the past, present and future.
 
-| 	Without sati, without knowledge and one cannot fulfill his wishes
-| 	Keeping sati forever and having a joyful and peaceful life
-| 
+| “Without sati, without knowledge and one cannot fulfill one’s wishes
+| Keeping sati forever and have a joyful and peaceful life.”
+|
+
+[Sayadaw was very skillful in composing short verses or poems in his Dhamma teachings, he made the listener to remember the important points. Here was an example.]
 
 Even it’s a bad time of an era if we possess a Diamond/sein-ta-lone and not a bad time for us. (Appamāda covers all the wholesome dhammas from the fundamentals to the highest Dhamma—i.e., Nibbāna. It’s very important to study all the teachings connecting with it in the suttas by thorough contemplation and use it in our daily life. In this way, Buddhists can become the most blessed human beings on earth. All the sayings by the Buddha in the Dhammapada, Chapter II Appamādavagga were very good for reflection and become a wise person.)
 
@@ -238,7 +241,7 @@ With diligent practice and he became an arahant. Once, King Pasenadi of Kosala a
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36970#p36970 (posted on 2019-11-20)
+revised on 2020-06-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36970#p36970 (posted on 2019-11-20)
 
 ------
 
@@ -253,5 +256,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-25 rev. the 2nd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

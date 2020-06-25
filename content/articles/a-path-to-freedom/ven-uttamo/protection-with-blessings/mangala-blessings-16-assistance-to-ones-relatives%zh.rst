@@ -3,12 +3,12 @@ Assistance to One’s Relatives (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-25
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Assistance to One’s Relatives (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-06-25
 
 ------
 
@@ -46,9 +46,9 @@ But the first crow was free from suffering after he let go of the meat. We need 
 
 2. A Noble Leader:
 
-This was the story of a monkey king called Mahākapi from a Jātaka story and a past life of the bodhisatta. It was a very touching story. At that time the bodhisatta was born as a monkey leader called Mahākapi. There was a forest upstream of the Ganges River. A big mango tree was at near the bank of the river. It had very delicious mangoes. Therefore, the bodhisatta asked all the monkeys not let any mangoes which grew out on any branch stretched out to the river fell into the water; because any mango could be eaten by men if it was ripe and dropped into the river and carried downstream. Then, men would follow their trace upstream and found them. It would be a danger for them. Unlucky, once there was a ripe mango covered by red ants and all the monkeys not aware of it. After sometimes it dropped into the river and arrived at the human place. Someone found it and presented it to the king. The taste was very delicious that the king craved for it. He and a group of people followed the river upstream to find the mango tree.
+This was the story of a monkey king called Mahākapi from a Jātaka story and a past life of the bodhisatta. It was a very touching story. At that time the bodhisatta was born as a monkey leader called Mahākapi. There was a forest at the upstream of the Ganges River. A big mango tree was at near the bank of the river. It had very delicious mangoes. Therefore, the bodhisatta asked all the monkeys not let any mangoes fell into the water on any branch which stretched out to the river. When the ripe mangoes dropped into the river, they would be carried downstream and found out by human beings. After they ate the fruits, they would follow their trace upstream and found out the tree. It would be a danger for them. Unlucky, once there was a ripe mango covered by red ants and all the monkeys not aware of it. After sometimes it dropped into the river and arrived at the human place. Someone found it and presented it to the king. The taste was very delicious that the king craved for it. He and a group of people followed the river upstream to find the mango tree.
 
-At last, they found it and ate as much as they could. And then they slept under the tree for a rest. After they were in sleep, the monkeys came and ate the fruits. But some monkeys made noises that woke them up. And then they saw the monkeys and tried to catch them.
+At last, they found it and ate a lot of the mangoes and slept under the tree for a rest. When they were in sleep, the monkeys came and ate the fruits. But some monkeys made noises so that it woke them up. And then they saw the monkeys and tried to catch them.
 
 There was only one way the monkeys could escape. That was crossing to the other bank of the river which side also had some big trees. So, the bodhisatta came in. He selected a strongest and long enough creeper on the mango tree; with his strong force jumped over the river to the other side. From the other side of a tree, he took nearly the same length of creeper jumped back to the mango tree. Here the bodhisatta made a mistake. He forgot to calculate for the length to bind the mango tree. There was not enough time to do it again. So, he bound the end of the creeper on his two legs and with both hands holding to a very strong branch and using his whole body as a bridge. (A bodhisatta was always intelligent ans wise; therefore, we can see the importance of wisdom in every aspect of life. Intelligence, but not wise, is not always good.)
 
@@ -64,7 +64,7 @@ All the big problems were coming from the small ones. Because of man’s ignoran
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36962#p36962 (posted on 2019-11-19)
+revised on 2020-06-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36962#p36962 (posted on 2019-11-19)
 
 ------
 
@@ -79,5 +79,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-25 rev. the 2nd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst
