@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2020-05-31
+:modified: 2020-06-26
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -40,8 +40,8 @@ Dhamma Talks by Mogok Sayadaw
      - `Part 11`_
      - `Part 12`_
    * - Full Text
-     - `PDF <{filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ 
-     - `PDF <{filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (backgroup in green)
+     - `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ 
+     - `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (backgroup in green)
      - for print: `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print.pdf>`__ (12 pt, pdf)
      - for print: `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print.pdf>`__ (14 pt, pdf)
 
@@ -736,7 +736,7 @@ Protection with Blessing
 
 - 13 `Consistency in One's Work <{filename}protection-with-blessings/mangala-blessings-13-consistency-in-ones-work%zh.rst>`_
 
-- 14. `Giving <{filename}protection-with-blessings/mangala-blessings-14-giving%zh.rst>`_
+- 14 `Giving <{filename}protection-with-blessings/mangala-blessings-14-giving%zh.rst>`_
 
 - 15 `Living in Rectitude <{filename}protection-with-blessings/mangala-blessings-15-living-in-rectitude%zh.rst>`_
 
@@ -815,6 +815,7 @@ Protection with Blessing
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-26 rev. old:{filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf; {filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf & #14 Giving;
   2020-05-31 rev. correct two urls of full text of Dhamma Talks by Mogok Sayadaw
   2020-05-29 add item number of Maṅgala Sutta
   2020-03-24 rev. the 2nd proofread by bhante

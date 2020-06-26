@@ -3,12 +3,12 @@ Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat (Full Text)
 ===============================================================================
 
 :date: 2019-01-13
-:modified: 2020-02-27
+:modified: 2020-06-26
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat (Full Text)
 
-revised on 2020-02-27
+revised on 2020-06-26
 
 ------
 
@@ -145,7 +145,7 @@ There will be worrying in standing posture. Will the body fall off or become tre
 Day 02: 18th October, 2002
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We’ll continue to do the practice of stabilizing sati. The time reserve for the practice of satipaṭṭhāna is seven days. The work of sati is jhāna practice and not of knowledge. (Sīla, samādhi and paññā are included in the whole Satipaṭṭhāna practice. Therefore, the Mahasi system is right. At first, it will develop samādhi with right effort and sati to note every phenomenon arising. With strong samādhi and discerning anicca, the coarser objects are changed to refined objects, i.e., kaya, vedanā, citta and dhamma respectively. Mogok’s Sayadaw’s talk also supported to Mahasi system. Here, the Venerable only used one object; i.e., the breath to contemplate that was mentioned as jhāna practice.)
+We’ll continue to do the practice of stabilizing sati. The time reserve for the practice of satipaṭṭhāna is seven days. The work of sati is jhāna practice and not of knowledge. (Sīla, samādhi and paññā are included in the whole Satipaṭṭhāna practice. Therefore, the Mahasi system is right. At first, it will develop samādhi with right effort and sati to note every phenomenon arising. With strong samādhi and discerning anicca, it moves first from the coarser objects into refined objects, i.e., from kaya, vedanā, citta to dhamma respectively. Mogok’s Sayadaw’s talk also supported to Mahasi system. Here, the Venerable only used one object; i.e., the breath to contemplate that was mentioned as jhāna practice.)
 
 There’re five stages of the practice in strengthening sati. 
 
@@ -199,12 +199,11 @@ People think that practicing of sati is calming the mind. In reality, it purifie
 
 (Webu Sayadaw and Soon Loon Sayadaw were very well known in Burma. Webu Sayadaw’s main instruction was observing the touching and knowing of the sensations of in breath and out breath. Soon Loon Sayadaw himself using the touching and knowing of the physical sensations in his daily activities. So, Sayadaw made a slogan in practice: ‘‘Touching, Knowing, Sati”.) 
 
+Another hindrance is ill-will (vyāpādanīvaraṇa). During the practice it also can give a lot of trouble. Contemplate them if they arise, and they will disappear. 
 
-2. Another hindrance is ill-will (vyāpādanīvaraṇa). During the practice it also can give a lot of trouble. Contemplate them if they arise, and they will disappear. 
+The hindrance of sloth and torpor (thinamiddhanīvaraṇa). Some of you are nodding in sitting. You were nodding at six p.m. I came and checked at eight p.m. and you’re still nodding. It’s not the time for sleep yet and why are you nodding? Because your postures are not right. Look at the Buddha image, no slanting of the head and the body not inclining to the side. So, it’s important to have the right postures. With the bending of the body and can’t practice very well. 
 
-3. The hindrance of sloth and torpor (thinamiddhanīvaraṇa). Some of you are nodding in sitting. You were nodding at six p.m. I came and checked at eight p.m. and you’re still nodding. It’s not the time for sleep yet and why are you nodding? Because your postures are not right. Look at the Buddha image, no slanting of the head and the body not inclining to the side. So, it’s important to have the right postures. With the bending of the body and can’t practice very well. 
-
-4. The hindrances of restlessness and worry (uddhacca and kukkucca nīvaraṇa). The mind in the state of restlessness is uddhacca. If someone is scratching the head, moving the body and bending the fingers; then the yogi is in restlessness. The Buddha at the time of enlightenment made a resolution of not to move. We should imitate him. We must not move the body as we like. Kukkucca is thinking and planning of many things. In Samatha practice you must not think and plan for anything.
+The hindrances of restlessness and worry (uddhacca and kukkucca nīvaraṇa). The mind in the state of restlessness is uddhacca. If someone is scratching the head, moving the body and bending the fingers; then the yogi is in restlessness. The Buddha at the time of enlightenment made a resolution of not to move. We should imitate him. We must not move the body as we like. Kukkucca is thinking and planning of many things. In Samatha practice you must not think and plan for anything.
 
 ------
 
@@ -453,15 +452,16 @@ It’s like the example of a tiger hidden behind a bush and waiting to catch its
 
 (The four great elements show their changing nature – vipariṇāma lakkhaṇa, i.e., characteristics of change in many different ways.) 
 
-These are the nature of earth element arises. This is the impermanence of earth element. It did not exist before; and now it’s arising. It existed a vanished one at the place of the new one arising (the old one disappears and a new one appears at the same place). For you to see this nature I showed you by breaking a stick. After the breaking and the broken stick appears and at the same time the good one disappears. We think that the arising and vanishing are separated. It doesn’t. At the arising place of the broken one, the good one vanishes. If something arises, something vanishes. In the arising nature includes the vanishing nature. Not to contemplate as the arising is before and the vanishing is after. 
+These are the nature of earth element arises. This is the impermanence of earth element. It did not exist before; and now it’s arising. Before, it existed; after, that it vanished; then the new one arises at the place (the old one disappears and a new one appears at the same place). For you to see this nature I showed you by breaking a stick. After the breaking and the broken stick appears and at the same time the good one disappears. We think that the arising and vanishing are separated. It doesn’t. At the arising place of the broken one, the good one vanishes. If something arises, something vanishes. In the arising nature includes the vanishing nature. Not to contemplate as the arising is before and the vanishing is after. 
 
 [By using logic, it could be confused. It depends on from which point we see it. With the D. A. process, it’s very clear. The Relational condition – Paṭṭhāna describes it clearer and profound. In the D. A. process: 
 ::
 
    cause → effect (cause) → effect, e.g. feeling (cause) →craving (effect)
-                                                                  (cause) → clinging (effect); etc.]
+                                                             craving (cause) → clinging (effect); etc.]
 
-You have to make it clear in your mind. The arising is replacing the old one. When a physical tightness arises and the non-tightness before is not existing anymore. In the beginning of sitting was no pain neutral feeling (upekkhā vedanā). Later painful feeling arises. It’s dukkha arising. At the time neutral feeling (upekkhā vedanā) vanishes. With ñāṇa (Burmese Pali word for nana) observes and knows that it’s not there anymore. If something arises and something exists before is not there. Abandoning its nature is called impermanence. So, something arises and one thing vanishes. And don’t look for it. This is one kind of impermanence.
+
+You have to make it clear in your mind. The arising is replacing the old one. When a physical tightness arises and the non-tightness before is not existing anymore. In the beginning of sitting was no pain neutral feeling (upekkhā vedanā). Later painful feeling arises. It’s dukkha arising. At the time neutral feeling (upekkhā vedanā) vanishes. With nyan (Burmese Pali word for ñāṇa) observes and knows that it’s not there anymore. If something arises and something exists before is not there. Abandoning its nature is called impermanence. So, something arises and one thing vanishes. And don’t look for it. This is one kind of impermanence.
 
 Another kind is a dhamma (phenomenon) arises. It has movements and not calm. Like vibrations and bubbles. These are also impermanent, arising and vanishing one by one. It’s too fast that you can’t observe one by one. Within a second forms are arising and vanishing 5,000 billion times and minds are 100,000 billion times. You can’t discern that much. This was the knowledge of a Buddha. Therefore the vibrations are also impermanent. After appearing, the arising by movements is also impermanence. Happening in this way and something arises at other place of the body also impermanent. The yogi’s mind from here and moves to the new object which is just arising. This is not seeing impermanence yet. 
 
@@ -574,7 +574,7 @@ Now it’s arising and now knowing it. It’s in the present moment. In Sayadawg
 
 For example, my back is aching; the whole head seems bigger, etc. These are concepts and solidity. During the contemplation don’t include these things. Contemplate to see their intrinsic nature, such as hot, cold, hardness, stiffness, etc.; to catch on the beginning of the arising phenomenon. There is the beginning on every impermanence. From non-existing to existing is impermanent. Also, from existing to non-existing is impermanent. From non-existing to existing, and then move here to there. From the place of the beginning, it's arising and moving to another place. Is it still at the first place? Moving is changing. For example, I had been mentioned about a layman yogi’s experience before (see day 11: talk). A cold bar of energy appeared from his back ankle and started to move upwardly to the head. The changing of the mind and matter at the first place not following to the second place, etc. It has disappeared at the first place. 
 
-It’s the same as the impermanent mind and matter of the first foot step not arriving to the second foot step. So, you can’t find back this impermanent mind and form again. In every foot step of mind and matter are dying. Therefore in Sayadawgyi’s talk, you will see anicca, dukkha and asubha and dukkha sacca if you discern impermanence. You see these five points at the same time.
+It’s the same as the impermanent mind and matter of the first foot step not arriving to the second foot step. So, you can’t find back this impermanent mind and form again. In every foot step of mind and matter are dying. Therefore in Sayadawgyi’s talk, you will see anicca, dukkha, anatta, and asubha and dukkha sacca if you discern impermanence. You see these five points at the same time.
 
 In the beginning of the sitting, nothing arises yet. And then you move your Samādhi to the top of the head and it starts showing the nature. Wherever it shows you, catch on the beginning of the arising dhamma. It means to be mindful. Sayadawgyi said that ehi-passiko – the dhamma calling at you, came and contemplated me. Sandiṭṭhiko – you would see it yourself. The chaotic situations are impermanent. Is it stopping or moving? It’s never stopping. From small and it becomes bigger. And from big and it can become smaller. You can see its disintegration, movement and change, etc. All these unstable movements are impermanent. In vipassanā contemplation it also needs endurance. These natural phenomena happen by itself that we can’t want them to be liked that. You have to observe and contemplate according to its nature. 
 
@@ -743,7 +743,7 @@ With the purified mind, magga arises. The mind not purify is because of diṭṭ
 
 Therefore the most important point is stabilizing your sati. If something happens without sati and diṭṭhi is sticking with the mind. You must not concern for the khandha. The purification of knowledge is magga – Ñāṇadassanavisuddhi. I’ll talk about the arising of magga. But don’t expect for it to arise. I only want you to know how it happens. It’s something like the whole burning body of dukkha sacca instantly falls away. Or like a light instantly go out. If it’s slowly ceasing or reducing, then it’s not magga. It’s happening within a second. How quick it is, even sometimes you don’t know it? You don’t have time to think about it. It’s akāliko – giving the result without delay. 
 
-After the Path Knowledge arises and instantly follows with two fruition cittas. (Someone with keen faculties follows with three fruition cittas.) The fruition cittas are enjoying the result of magga citta. This kind of experience you have never been enjoyed in the world. It’s supramundane – lokuttara and within a second. Just only think and this kind of thing happens again. I’m not saying you have to believe. It’s true or not can be tested. You have to show me by entering the fruition state. Some yogis don’t have anything for contemplation and it’s peaceful. With this don’t make a decision yet. With the peacefulness and it’s like a statue. Have to make a resolution before entering the fruition state. If you make a resolution for an hour time and like a statue for an hour. You don’t need to check it with the clock. After opening the eyes and it’s exactly an hour. Not in accordance with these two points, then not the Path Knowledge.
+After the Path Knowledge arises and instantly follows with two fruition cittas. (Someone with weak faculties follows with three fruition cittas.) The fruition cittas are enjoying the result of magga citta. This kind of experience you have never been enjoyed in the world. It’s supramundane – lokuttara and within a second. Just only think and this kind of thing happens again. I’m not saying you have to believe. It’s true or not can be tested. You have to show me by entering the fruition state. Some yogis don’t have anything for contemplation and it’s peaceful. With this don’t make a decision yet. With the peacefulness and it’s like a statue. Have to make a resolution before entering the fruition state. If you make a resolution for an hour time and like a statue for an hour. You don’t need to check it with the clock. After opening the eyes and it’s exactly an hour. Not in accordance with these two points, then not the Path Knowledge.
 
 ------
 
@@ -839,7 +839,7 @@ In this retreat I have strong expectation, because seeing some yogis with their 
 
 (Buddhists had many records on these cases. Because of the bojjhaṅga (factors of enlightenment or purification of the mind) the body illness coming from the mind or kammic illness can be cured.) 
 
-We didn’t find people became unhealthy. Practicing with straightforward mind is also important. You shouldn’t lie yourself and others. Don’t say which is not happening as it happens. During the interviews not deceive the teacher (most importantly for oneself). Practicing diligently all days and nights and the mind has to be in the practice. With these factors will discern impermanence. 
+We didn’t find people became unhealthy. Practicing with straightforward mind is also important. You shouldn’t lie yourself and others. Don’t say which is not happening as it happens. During the interviews not deceive the teacher (most importantly for oneself). Practicing diligently all days and nights and the mind has to be in the practice. With these factors will discern impermanence (i.e., strong faith, good health, practice with straightforward mind, practice diligently and discern anicca). 
 
 (Mogok Sayadaw made it as some Dhamma verses for yogis. He said if a yogi developed these five factors would realize Dhamma.) Within ten days you’ll discern impermanence. (Maybe this is one of the reason Sayagyi U Ba Khin started the ten days retreat at his centre.) 
 
@@ -863,7 +863,7 @@ First, factors of enlightenment arise (i.e., bojjhaṅga dhammas). And then the 
 
 ------
 
-revised on 2020-02-27; cited from  https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35449 (posted on 2018-12-14)
+revised on 2020-06-26; cited from  https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35449 (posted on 2018-12-14)
 
 ------
 
@@ -878,6 +878,7 @@ revised on 2020-02-27; cited from  https://oba.org.tw/viewtopic.php?f=8&t=4021&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-26 rev. proofread by bhante
   2020-02-27 add: Venerable U Ādiccaramsī's Portrait
   12-05 rev. proofread by bhante
   2019-11-13 rev. proofread by nanda
