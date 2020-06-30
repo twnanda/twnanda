@@ -3,12 +3,12 @@ The Middle Way – Majjhimā Patipadā (Maṅgala Sutta – Protection with Bles
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-30
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: The Middle Way – Majjhimā Patipadā (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-06-30
 
 ------
 
@@ -18,7 +18,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 What is the Buddha’s middle way? If the way or path is true or right, and it is necessary to be sacrificed. The sacrifice has to be beneficial. Some Buddhists misinterpret it as one should not practice very hard to tire oneself. The middle way is not a lazy path. How can we get rid of our super thick glue or ignorance and craving in an easy-going way? These enemies are within us inconceivable round of existence as a latent tendency (anusaya).
 
-Before the Buddha, the man had two doctrines (vāda): supreme happiness in this life or direct seeing happiness (diṭṭhadhamma‐nibbāna), indulgence in sensual pleasure with all possible ways; and torturing the physical body. The Buddha’s middle way is not sitting in the middle of the fence and doing nothing. If it is necessary for happiness, it should be enjoyed. If necessary, for difficulty and hardship, one also has to encounter it.
+Before the Buddha, the man had two doctrines (vāda): supreme happiness in this life or direct seeing happiness (diṭṭhadhamma‐nibbāna), indulgence in sensual pleasure with all possible ways; and torturing the physical body. The Buddha’s middle way is not sitting in the middle of the fence and doing nothing. If it is necessary for happiness, it should be enjoyed. If necessary, face it when encountering with difficulties and hardships.
 
 There is some happiness necessary for enjoyment. This higher happiness develops knowledge, as, all the jhānic happiness or jhāna practices or samatha practice. If it is beneficial, we should go into hardship. It also has to go through it if knowledge can be developed.
 
@@ -104,9 +104,9 @@ All of these are the right views. The first knowledge is seeing the mind and bod
 
 The second knowledge is knowing why dukkha arises? The third knowledge is knowing the place of ending dukkha. The fourth knowledge is knowing the way to the ending of dukkha. These are the very high levels of right views.
 
-The Four Noble Truths demonstrate the process of vipassanā practice. With the eight factors working with dukkha and discerning it. The result is abandoning the cause of dukkha and realizing the ending of dukkha. With the path, consciousness arises and at the same time penetrate The Four Noble Truths. Is it possible? For example, if we lit candle light, with the light appears and at the same time, darkness disappears, the wick and the oil also burn out.
+The Four Noble Truths demonstrate the process of vipassanā practice. With the eight factors working with dukkha and discerning it. The result is abandoning the cause of dukkha and realizing the ending of dukkha. While the path consciousness is arising, at the same time, one penetrates The Four Noble Truths. Is it possible? For example, the candlelight will come out if we light a candle; at the same time, the darkness disappears, and the wick and the oil also burn out.
 
-The Buddha continued to talk dukkha. He penetrated dukkha by himself, and not heard from others. The Buddha proclaimed himself as an Awakened. One only when thoroughly penetrated The Four Noble Truths in its three phases and 12 aspects. The three phases are;
+The Buddha continued to talk dukkha. He penetrated dukkha by himself, and not heard from others. The Buddha proclaimed himself as an Awakened One only when thoroughly penetrated The Four Noble Truths in its three phases and 12 aspects. The three phases are;
 
 | (1) the knowledge of each truth—(saccañāṇa). For example, this is the noble truth of dukkha;
 | (2) the knowledge of the task to be accomplished with each truth—(kiccañāṇa). For example, the noble truth of dukkha is to be fully understood;
@@ -115,11 +115,11 @@ The Buddha continued to talk dukkha. He penetrated dukkha by himself, and not he
 
 In simple words, the three phases are; study, practice and realization. Three phases apply to the four truths become 12 aspects or modes. The Buddha ended this discourse with the following words; “Unshakable is the liberation of my mind. This is my last birth.
 
-There is no more renewed existence (i.e., has to be taken rebirth again)” Later Buddhists formulated the new idea of the liberated beings as they could come back again and again for others (Worldlings have very strong bhava-taṇhā). During the discourse, among the five monks, the oldest monk Kondañña became a sotāpanna—stream-winner.
+There is no more renewed existence (i.e., has to be taken rebirth again)” Later Buddhists formulated the new idea of the liberated beings as they could come back again and again for others (Worldlings have very strong bhava-taṇhā). During the discourse, among the five monks, the oldest monk Kondañña became a sotāpanna—stream-enterer.
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36984#p36984 (posted on 2019-11-22)
+revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36984#p36984 (posted on 2019-11-22)
 
 ------
 
@@ -134,5 +134,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

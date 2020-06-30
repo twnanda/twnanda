@@ -3,7 +3,7 @@ Content of Maṅgala Sutta – Protection with Blessing
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-30
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Content of Maṅgala Sutta – Protection with Blessing
@@ -52,7 +52,7 @@ By Venerable Uttamo（鄔達摩尊者）
 
 - 13 `Consistency in One's Work <{filename}mangala-blessings-13-consistency-in-ones-work%zh.rst>`_
 
-- 14. `Giving <{filename}mangala-blessings-14-giving%zh.rst>`_
+- 14 `Giving <{filename}mangala-blessings-14-giving%zh.rst>`_
 
 - 15 `Living in Rectitude <{filename}mangala-blessings-15-living-in-rectitude%zh.rst>`_
 
@@ -139,6 +139,7 @@ By Venerable Uttamo（鄔達摩尊者）
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-30 rev. #14 giving
   2020-05-29 add item number 
   2020-02-27 rev. replace title "Living in a Civilized Land"(old) with "Residing in a Suitable Place"
   2019-11-13 create

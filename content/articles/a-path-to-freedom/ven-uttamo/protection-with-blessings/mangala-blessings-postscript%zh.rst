@@ -3,12 +3,12 @@ Postscript (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-30
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Postscript (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-06-30
 
 ------
 
@@ -220,13 +220,21 @@ They came to this world naked and empty-handed and will leave here also with nak
 
 (3) you take rebirth as a pig (for someone foolish and stupid which is delusion, and it represents the pig). This kind of Judgment Day will be sure to come and not otherwise.
 
+[Note: The cock, the snake and the pig these three animals represent greed, anger and delusion come from Dependent Co-origination Chart form Tibetan tradition (similar to Mogok Sayādawgyi’s chart, but there are many differences). I do not know whether Buddha himself gave any examples with animals to these three unwholesome roots in the suttas. General speaking someone dies with the mental state of craving, greed, lust will take rebirth as ghost, with anger as hell being and with delusion as animal.
+
+Genesis (the creation) and Evolution Theory are not become natural law yet and just only speculations by human beings. Evolution Theory is a bit better because scientists based it on facts and researches. The Buddha mentioned five Niyamas—Natural Procedure or Process. These are: kamma (action), citta (mind), dhamma (phenomena), seed (bīja), temperature (utu), processes (niyamas).
+
+We can see the three unwholesome roots not only in human beings but also in animals. A lake is near my hermitage, some people bought tortoises and feed them there. In the beginning they were afraid of me, as soon as they saw me and jumped into the lake. In this case they were cleverer than human beings. Human beings know the dangers, but they are going closer to dangers—such as all kinds of pollution and natural disasters. After some time, they could feel me as no danger to them and come close to me. I feed them everyday, and some are becoming very greedy (like most humans). Some which did not get what they wanted became angry and even bit my toes (like some leaders create trade wars, arms races, etc.).
+
+Therefore, the Buddha said that worldlings were crazy. Human beings need more mental hospitals than body hospitals. Nowadays new diseases (including pandemic diseases viruses) arise more than before. They blame it on animals which are the carriers. There can be many causes, the main one is the human mind. We can see more fruit trees and vegetables have more diseases than ever. These are also caused by pollutions and severe climate. These are not only affecting the natural environments also to humans and other living things. These will be no hope if we do not cure the crazy mind. ]
+
 Therefore, everyone has a good opportunity coming to this human world should not create unwholesome kammas with greed, hatred and delusion. All these unwholesome dhammas will definitely hurt himself and others. Instead, we must use this precious life to do all good for oneself, and others are the right things to do.
 
 In this way, we protect oneself and protecting others, including nature. Every human being has the duty and responsibility to look after and protect our mother Earth and its nature from destruction. In this way, we can leave this beautiful Earth unharmed for our human generations.
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=37001#p37001 (posted on 2019-11-22)
+revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=37001#p37001 (posted on 2019-11-22)
 
 ------
 
@@ -241,5 +249,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

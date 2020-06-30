@@ -3,12 +3,12 @@ Sorrowless (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-30
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Sorrowless (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-06-30
 
 ------
 
@@ -24,13 +24,13 @@ This story had some good lessons for us to contemplate. I was living on the east
 
 He did not take my suggestions and responded lightly as he would have no problem. This was one of his first great mistakes. He was a successful businessman and dealing with many businesses. Every year during my few days at his home, I always invited him to discuss the Dhamma and practice.
 
-Even both of us had free time; he never took it seriously. During these few years of our friendship, I always urged him to discuss Dhamma. He came for two or three times only and never stayed very long. When he came to the eastern coast in his free times to see our group, he only came and paid respect to me. He always discussed and argued about Buddhism with other friends and never with me. So, he had very limited knowledge of Buddhism, with wrong views which came out from his thinking. Thinking of business (or money) and Buddhism are two quite different things. Someone had success in business with his brain, it did not mean he was wise and intelligent.
+Even both of us had free time; he never took it seriously. During these few years of our friendship, I always urged him to discuss Dhamma. He came for two or three times only and never stayed very long. When he came to the eastern coast in his free times to see our group, he only came and paid respect to me. He always discussed and argued about Buddhism with other friends and never with me. So, he had very limited knowledge of Buddhism, with wrong views which came out from his thinking. Thinking of business (or money) and Buddhism are two quite different things. Someone had success in business with his brain, it did not mean he was wise and intelligent. There are more intelligent fools than the wise. The Buddha Dhamma is the best education for becoming an intelligent wise.
 
 No-one can know about Buddhism very well without a good teacher and study. So, when death came and knocked on his door, he was fear and frightened. He had to take treatment with chemotherapy for a year without success. Even he lost his faith on the triple gems for his survival. He took refuge in the Buddha, Dhamma and Saṅgha recently to come out from dangers. It was the same as other faiths. Instead of relying on his inner qualities, he turned towards outside power. Instead of using the right view for contemplation, he used the wrong view.
 
 At last, he had doubt and lost his faith in the Buddha, Dhamma and Saṅgha. The Buddha was not a savior and also there was not such a thing in nature. He had wanted to see me the day before he died. I just came out of the hospital for an operation and rushed to see him. He passed away the next day.
 
-What did he learn from his illness and death? We did not know. For me, this book came out from the result of his illness. He misused his time, energy and chances for wealth only. Most people may think someone who can make a lot of money and success in business is bright, intelligent and smart.
+We did not know what he learnt from his illness and death. For me, this book came out from the result of his illness. He misused his time, energy and chances for wealth only. Most people may think someone who can make a lot of money and success in business is bright, intelligent and smart.
 
 A mind influenced by lust, craving and greed cannot be wise. When illness and death come; money, power and status are becoming useless. After death, we cannot take anything with us except the unwholesome and wholesome actions (their results) will follow us. A few years ago, a monk who I knew had committed suicide. His old mother also out of grief and sorrow, followed him with suicide.
 
@@ -87,7 +87,7 @@ Her son was not invited by them (parents) to come and leave (i.e., by his kamma 
 Crying with sorrow brought disadvantages. It made others had worry and concern.
 
 (4) The daughter-in-law (the son’s wife):
-Crying with sorrow for the dead was like a child crying for the moon. Expecting or desiring for something which could not be attained was a kind of foolishness and stupidity.
+Crying with sorrow for the dead was like a child crying for the moon. Expecting or desiring for something which could not be attained was a kind of foolishness and stupidity. (Mogok Sayadawgyi said: “There is no other crazier than someone takes something which is non-existence as me and mine.”)
 
 (5) The maidservant:
 Crying with sorrow for the dead one was like a pot after broken apart could never come back to normal. So, it was useless and unprofitable.
@@ -151,9 +151,36 @@ The Buddha’s teachings were always based on right views and right thoughts or 
 
 In the long run, it becomes a habit, and they used to them. People are doing evil things with wrong views and thoughts, even worse. Battles between drug gangs and terrorists, deaths become their pleasures. Media on violence become a pleasure for a lot of people. This is one of the causes of violence in societies (e.g., gun shootings in the US).
 
+Nearly everyone has to encounter with sorrow, grief and pain for a loved one who suffers with severe illness, at dying and death. No one can escape from this situation because it is a natural process. But the thing we can do is to overcome sorrow by both sides. The most important is the one who experiencing illness and dying and how he is dealing with it. Because the dying moment is very important for his next rebirth. Illness, dying and death is an extensive subject. I had completed some Dhamma talks by Mogok Sayādaw in three volumes which were very good to deal with this matter. Here I want to include the dying and death of my mother and a 14-years old female yogi.
+
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36999#p36999 (posted on 2019-11-22)
+A Tribute and Memory to a Selfless Mother
+
+Near the Chinese New Year of 2019, I went to see my mother in Taipei. A few days there I had a strange feeling about her. Her face looked like an innocent child and with longing for something. At that time, I did not know what it was. That year April the 4th was 99th year of her birthday, according to the Chinese calendar, it fell on 1st April. As a birthday memory, mother and her daughters’ family had lunch together at a restaurant. She said to her four grandchildren as it may be the last time with them together. After coming back in the evening, she had stomach pain and vomiting. They took her to a nearby clinic. After the medical checking up, the doctor took it as stomach problem and gave some medicine to her. She was not allowed to take solid foods and only pure rice gruel. After two days, she felt better. On the 4th April evening, I phoned to my mother and said birthday wishes to her. That was the last communication between us. On the 8th or 9th April, her illness returned again. They worried about the situation and sent her to the Chung-ho Hospital. My youngest sister informed me on her situation on 10th April.
+
+On the 13th, after finishing my before mid-day meal, my sister phoned me that mother could passed away at any time, so I should come to see her. I took the morning train on the 14th (Sunday) to Taipei. I met mother on the hospital bed with the breathing machine attached to her. Her heart beat was fast and the inner organs could not function very well. By seeing her discomfort with difficult breathing, it made my heart painful. For two days I stayed there to look after her with others. It could not be known the time of mother passing away that I went back on the 18th (Thursday). That was my mistake. On the day of 18th over 1 p.m., a very strong earthquake struck Taiwan. The magnitude of the earthquake was 6.1 and it’s shaking the whole building. Before the earthquake, mother was awake and stared at her children faces quite a long time. Mother face was calm and without any trace of sorrow or sadness. This was the last eye contact between mother and me. I will always remember the kind and gentle eye of mother who taught me many things as an example.
+
+On the 19th I was taking the meal before noon, and my sister informed me about mother passing away peacefully at 11:30 a.m. There was another earthquake between 10 a.m. and 10:30 a.m. In her last moment of breathing it dropping slowly to zero. With the last breath mother’s head turned a bit towards the right side and passed away peacefully. Mother struggled with her life into the hospital 9 or 10 days only. She had many wholesome actions in her life, a good daughter, wife and mother. She was very healthy and had been to many countries until her 97th year. She did a lot of dāna practice in her whole life. This was also the Buddha’s exhortation. “Not to do evil, to do good and purify the mind.”
+
+I dedicate this “Dhamma protection with Blessing” to my mother and all the mothers out of gratitude and respect for their selfless love to their children.
+
+------
+
+Ma Htet Htet Anng—An Outstanding child
+
+The information on Ma Htet Htet Anng came from a video record on her funeral and her meditation teacher U Sunanda (Dhammaransi—Mogok). According to Sayādaw U Sunanda, Ma Htet Htet Anng was from Kyank Mae City in northern Shan state, Burma. She was the only child of her parents. She was number one or the top outstanding student in the state. She was well known and loved by all. In the video, her school principal talked about her with tears. She was very good in all ways, a dutiful daughter to her patents and a nice girl to all. She started to study and practise meditation at the age of eleven.
+
+In 2005, at the age of fourteen, she contracted with dengue fever. It seemed to be it was threatening her life; instead of staying in the hospital, she came back at home. She knew her death a week earlier and said to her mother: “Mom! I will not live longer than seven days and if my schoolmates come to see me, please receiving them on my behalf. Let me concentrate on my own practice.”She requested her mother to prepare some Dhamma tapes for her, including Dhamma talks on death and dying by Mogok Sayādawgyi—such as, “Dying with Smile and Grimace”, “How to Deal with Feeling”, “The Sick Bhikkhu Phegguna”, “Four Ways of Dying”, “The Seven Factors of Enlightenment”, etc. 
+We can see the intelligent and wise nature of this girl who knew what kinds of Dhamma she had to listen at the time of dying.
+
+In the video I had seen the date of the record in it. I cannot remember the exact day, only the month and year i.e., in April 2005 (just a coincidence, the month which my mother passed away). April is the hottest month in Burma in summer. In the video record, it started to show the guests come to her home for the funeral. Her lifeless body was lain on the carpeted floor. The body signs were not like most of the ordinary corpses. The eye-lids were closed, the complexion was clear, the body muscles were soft and pliable, so that the whole body could be bent easily. The most remarkable thing was it did not emit a bad smell, even though it was already three days at the time of very hot summer. Ma Htet Htet Aung was a pretty girl, and it looked like The Sleeping Beauty of Snow White. Even though her skin was not like snow but her mind was.
+
+It was a great loss for her parents. The father was receiving guests and making all the arrangements for the funeral calmly, but the mother was in grief and tears. The body was carried away to an open field and cremated there. Ma Htet Htet Aung lived a very short life span of fourteen years comparing with the heavenly time span which is only a few hours. She used her life wisely—a wise child (paṇḍita) even though it was very short. Many are using their lives and time foolishly and become fools (bāla) with their enjoyments in polluted media. For more information on Death and Dying, I refer to Mogok Sayādawgyi’s Dhamma Talks.
+
+------
+
+revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36999#p36999 (posted on 2019-11-22)
 
 ------
 
@@ -168,5 +195,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

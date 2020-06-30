@@ -3,12 +3,12 @@ Purification of View: Ditthivisuddhi (Maṅgala Sutta – Protection with Blessi
 ==================================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-30
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Purification of View: Ditthivisuddhi (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-06-30
 
 ------
 
@@ -18,7 +18,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 Insight practice (vipassanā) is directly referring to wisdom or knowledge (paññā). There are two basic knowledges for vipassanā practice. These are the discernment of mind and matter (nāmarūpa pariggaha ñāṇa) and the discernment of the conditions of mind and matter (paccayapariggaha ñāṇa). In purifications, it referred to diṭṭhivisuddhi and kaṅkhāvitaraṇavisuddhi (No. three and four visuddhi).
 
-For these two basic insight knowledges or purities in view and overcoming doubt, the yogis need to do two things. These are; 1. Study or soil of knowledge or field of knowledge (paññā-bhūmi), 2. Developing or exercising (Ñāṇa-pariseyya).
+For these two basic insight knowledges or purities in view and overcoming doubt, the yogis need to do two things. These are: 1. Study the soil of knowledge or field of knowledge (paññā-bhūmi), 2. Develope or exercise ñāta pariññā.
 
 The yogis have to do the study for doing the practice rightly. The yogis need to study about the five khandhas (aggregates), āyatanas (sense bases), dhātu (elements), indriyas (faculties), the Four Noble Truths and dependent co-arising (paṭicca-samuppāda). To have this learning knowledge (suta-mayā paññā) need to study many times. Mogok Sayadaw’s Dhamma talks were a very good example for this purpose. After learning and developing or exercising them by practice.
 
@@ -39,7 +39,7 @@ So, here purity in view is purified this identity view. Where is this identity v
 
 There is a very common wrong view to take the mind as a self-situated in the form (the body), as like a jewel is in a casket. When a person dies and its mind does not die. After death, it leaves the old (dead) body behind and takes a new body, as like changing new clothes. Even some Buddhists believe in this way (including Buddhist monks and it is no need to say other faiths). It is a soul-existed theory and view.
 
-It seems they misinterpret or misunderstand the Buddha Dhamma. They are the followers of Bhikkhu Sāti (See Mahātaṇhāsaṅkhaya Sutta). The notion obsesses people life: I am forming, the form is mine. As they are living and obsessing by these notions and when any one of the khandhas changes and alters, with these there arise in them sorrow, lamentation, pain, grief and despair.
+It seems they misinterpret or misunderstand the Buddha Dhamma. They are the followers of Bhikkhu Sāti (See Mahātaṇhāsaṅkhaya Sutta). The notion obsesses people life: I am form (rūpa), the form is mine. As they are living and obsessing by these notions and when any one of the khandhas changes and alters, with these there arise in them sorrow, lamentation, pain, grief and despair. [I am form means: the form (rūpa or body) is me (I); the same as: I am consciousness means the consciousness is me (I).]
 
 Identity view is one of the first three fetters (saṁyojanas) to be eradicated by the first path (sotāpatti-magga). This is the most important fetter has to be eradicated first. With this, self-view or selfishness and beings are easily committing unwholesomeness and heavy evil kammas. The wrong view is related to ignorance (avijjā) or delusion (moha). Right view is related to knowledge (vijjā) or non-delusion (amoha).
 
@@ -63,7 +63,7 @@ In the time of before the Buddha and even now samatha practices existed. These y
 
 According to the suttas, Yathābhūta Ñāṇa—the knowledge of phenomena as it is the discernment of mind and matter (Nāma-rūpapariggaha ñāṇa). This was taught by the Buddha in the Discourse of the Characteristics of Not-self (Anattalakkhaṇa Sutta, SN. 22.59). An internationally well-known scholar monk said that some western scholars took the Dhamma in the Visuddhimagga textbook as not talked by the Buddha.
 
-He said that it was wrong (speculation) because it was based on the Buddha’s teachings. People should not criticize blindly. If their speculations were true, they must point out the discrepancies between them. If we ask these people how they had studied many commentarial textbooks. Even some of them were self-learning of the Pāli and Suttas by themselves without a teacher.
+He said that it was wrong (speculation) because it was based on the Buddha’s teachings. People should not criticize blindly. If their speculations were true, they must point out the discrepancies between them. If we ask these people: “How many commentarial textbooks had been studied by them”. Even some of them were self-learning of the Pāli and Suttas by themselves without a teacher.
 
 Ven. Buddhaghosa had written details on the purification by knowledge or paññā-sarīra (body of knowledge) in his Visuddhimagga textbook. These were not his ideas. It was based on the old Pāli textbooks handed down from the old generations, he studied and took notes of them, and produced this very important commentary on the practice. It is still not enough to understand, yet you also have to know about the causes and conditions for them. If not, it will be in the wrong directions with all the wrong reasoning and speculations.
 
@@ -83,7 +83,7 @@ This is the purification by knowledge and vision (Ñāṇadassana-visuddhi). Thi
 
 Knowing is function and seeing is power. Here not included the prefix words, what were the knowing and seeing? In the paṭipadā ñāṇadassana, knowing and seeing the process of the path. Ñāṇadassana here is knowing and seeing the Four Noble Truths. It is also called Dhamma Eye—Dhamma Cakkhu.
 
-In the Buddha’s First Discourse (Turning the Wheel of Dhamma, SN 56.11 Dhammacakkappavattanasuttaṃ); the descriptions were, cakkhuṁ udapādi, ñāṇa udapādi, etc. (there arose in me vision, knowledge, etc.) was referred to the seventh purity or this level. This is knowing and seeing the Four Noble Truths. With the developing of the truth of the path will know the truth of dukkha. With the knowledge of dukkha can abandon the truth of the cause (samudaya) and see the truth of the cessation of dukkha.
+In the Buddha’s First Discourse (Turning the Wheel of Dhamma, SN 56.11 Dhammacakkappavattanasuttaṃ); the descriptions were, cakkhuṁ udapādi, ñāṇaṃ udapādi, etc. (there arose in me vision, knowledge, etc.) was referred to the seventh purity or this level. This is knowing and seeing the Four Noble Truths. With the developing of the truth of the path will know the truth of dukkha. With the knowledge of dukkha can abandon the truth of the cause (samudaya) and see the truth of the cessation of dukkha.
 
 It happens at the same time. With one functioning and finishing the four tasks. Using of one description; it is knowing and seeing Nibbāna. Therefore, ñāṇadassana is not vipassanā knowledge and referring to path and fruit (magga and phala). We can say these are the results. How long it takes the yogi to get the attainment? Nobody can say exactly. It depends on each person. As examples;
 
@@ -137,7 +137,7 @@ With the contact of the eye and the physical form, seeing consciousness arises. 
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36992#p36992 (posted on 2019-11-22)
+revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36992#p36992 (posted on 2019-11-22)
 
 ------
 
@@ -152,5 +152,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

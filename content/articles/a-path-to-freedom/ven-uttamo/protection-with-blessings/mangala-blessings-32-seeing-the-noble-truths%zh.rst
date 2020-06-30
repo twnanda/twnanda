@@ -3,12 +3,12 @@ Seeing the Noble Truths (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-30
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Seeing the Noble Truths (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-06-30
 
 ------
 
@@ -77,7 +77,7 @@ Even in his last life, he was searching for the truths at a young age with many 
 
 At the beginning of the discourse, the Buddha said that there were two extremes which should not be followed by monks. In Pāli two anuyoga should not be followed and done. In the second time, he taught about the path should be followed and done.
 
-The Buddha always taught two things; things should not be done first and things should be done in the second. Because when doing wrong things sometimes difficult to change and the consequences are great. Even not doing right things are better than doing the wrong things and matters. In this Maṅgala Sutta, we see this example; not associate with the fools and associate with the wise. What are the two extremes which should not be followed?
+The Buddha always taught two things; things should not be done first and things should be done in the second. Because when doing wrong things sometimes difficult to change and the consequences are great and grave. Even not doing right things are better than doing the wrong things and matters. In this Maṅgala Sutta, we see this example; not associate with the fools and associate with the wise. What are the two extremes which should not be followed?
 
 
 (1) The pursuit of sensual happiness in sensual pleasures
@@ -106,7 +106,7 @@ For examples, sky diving, scaling tall and high buildings, climbing off a snowy 
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36983#p36983 (posted on 2019-11-22)
+revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36983#p36983 (posted on 2019-11-22)
 
 ------
 
@@ -121,5 +121,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

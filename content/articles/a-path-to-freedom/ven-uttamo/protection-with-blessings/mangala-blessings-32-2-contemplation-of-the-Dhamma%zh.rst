@@ -3,12 +3,12 @@ Contemplation of the Dhammas: Dhammānupassanā (Maṅgala Sutta – Protection 
 ===========================================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-30
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Contemplation of the Dhammas: Dhammānupassanā (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-06-30
 
 ------
 
@@ -168,7 +168,7 @@ Ven. Sāriputta answered to the Buddha was: Every bodhisatta of the past had to 
 
 The Buddha accepted his answer. Ven. Ānanda also mentioned the same thing; everyone by abandoning the hindrances, contemplations of the satipaṭṭhāna and developing the awakening factors became a noble being. Some writers wrote: “Did satipaṭṭhāna cut off the wrong view (diṭṭhi) or craving (taṇhā)?”
 
-The Buddha Dhamma is cutting off all defilement (kilesas). The differences were only in the number of defilements which had been abandoned. For example, the stream-winner (i.e., sotāpanna) has cut off all wrong views and some amount of greed, anger and delusion.
+The Buddha Dhamma is cutting off all defilement (kilesas). The differences were only in the number of defilements which had been abandoned. For example, the stream-enterer (i.e., sotāpanna) has cut off all wrong views and some amount of greed, anger and delusion.
 
 Some amount of greed, anger and delusion here means, these defilements which can send a being to the woeful planes of existence. Ven. Sāriputta asked Ven. Anuruddha as in what extent a yogi could be called a trainee (sekha) (someone realized anyone of the lower stages before the arahantship).
 
@@ -204,7 +204,7 @@ Practicing satipaṭṭhāna for these 10 points are connecting with the seven r
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36989#p36989 (posted on 2019-11-22)
+revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36989#p36989 (posted on 2019-11-22)
 
 ------
 
@@ -219,5 +219,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

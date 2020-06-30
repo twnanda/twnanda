@@ -3,12 +3,12 @@ Purification by Overcoming Doubt: Kaṅkhāvitaranavisuddhi (Maṅgala Sutta –
 ======================================================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-30
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Purification by Overcoming Doubt: Kaṅkhāvitaranavisuddhi (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-06-30
 
 ------
 
@@ -36,13 +36,13 @@ If the yogi finds out the causes and knows the causes, it becomes discernment of
 
 Here are only four conditions. For example; the eye sensitivity (cakkhu-pasāda) arises by kamma. Therefore, if the eye damaged, we cannot restore its vision. But without of kamma and can be restored the vision with the artificial eye, then we have to reconsider for other conditions. Then it will be not by kamma only. Matters which can perform this kind of ability are made by kamma (from the eye to other physical sensitivities).
 
-The mind phenomenon is very strange, indeed. The mind can arise Even sound, e.g. the voice comes out by sadness and the voice comes out by joy are not the same. The mind produces these voices and led by the mind. The natural sounds from external such as thunder and windy sounds arise by temperature (utu). Sound can be arisen by the mind or temperature (the main factors).
+The mind phenomenon is very strange, indeed. Sound can be arisen by mind. For example, the voice comes out by sadness and the voice comes out by joy are not the same. The mind produces these voices and led by the mind. The natural sounds from external such as thunder and windy sounds arise by temperature (utu). Sound can be arisen by the mind or temperature (the main factors).
 
 The sounds of animals are mind made. What are the causes of the snoring sound during a sleep? With nutrients or vitamins, the eyes become healthy. All are collectively supporting together for matters. It is similar for a tree to grow there are many conditions. Contemplation and reflection can be taken as meditation.
 
 It will increase knowledge by doing. It is not just only closing the eyes and sitting. Thinking and reflecting on the world is meditation. Teaching and listening Dhamma talks are also meditation (see Khemaka Sutta of Saṁyutta-Nikāya). When coming out from the mother’s womb, a child was very small. With foods or nutrients, the body grows up. Eating a lot and it becomes fat. The Buddha had said in a sutta that with the causes of mind and temperature (citta and utu), foods lacked nutriments,  human beings had short life span and diseases.
 
-After the contemplation on the matter, the yogi continues for the mind. How and why mind arises? For example, seeing consciousness; with the contact of eye and physical object, seeing consciousness arises. The other sense bases also have to be understood in this way. Even we do not know many causes, at least have to know that much.
+After the contemplation on the matter, the yogi continues for the mind. How and why mind arises? For example, eye seeing consciousness; with the contact of eye and physical object, eye seeing consciousness arises. The other sense bases also have to be understood in this way. Even we do not know many causes, at least have to know that much.
 
 In the suttas, the Buddha also mentioned in this way. The mind dependents on causes to arise. From where it comes out or does it exist before? None of them are true, and it does not hide anywhere. Because of conditions and the effect or result comes to be. 
 
@@ -54,7 +54,7 @@ Therefore, Mogok Sayadawgyi after his practice stopped his teaching for Abhidham
 
 Using the above two basic knowledges with contemplations, knowledge of comprehension (sammasanañāṇa) arises. We have to develop this knowledge. Insight knowledge is starting from this knowledge. With the third and fourth purifications, the yogi knows about the natural phenomena and its causes. It is called full understanding of the known (Ñāta-pariññā).
 
-After that continue the contemplation of full understanding by scrutinization (Tīraṇa-pariññā), just knowing them is not enough, if needs to be concluded. For this to be achieved, we have to contemplate it for many times.
+After that, continue the contemplation of full understanding by scrutinization (Tīraṇa-pariññā), just knowing them is not enough, it needs to be made a final conclusion. For this to be achieved, we have to contemplate it for many times.
 
 There are two ways of contemplation; i.e., in a group or one by one. One by one method is difficult. So, we contemplate it in the group. Contemplate them under the three universal characteristics of impermanence, dukkha and not-self. It can also be contemplated in the past and future periods. But most people think that insight meditation (vipassanā) is only contemplating the present moment.
 
@@ -76,7 +76,7 @@ The yogi has a strong resolution. And then the ten insight corruptions come in a
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36993#p36993 (posted on 2019-11-22)
+revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36993#p36993 (posted on 2019-11-22)
 
 ------
 
@@ -91,5 +91,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

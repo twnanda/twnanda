@@ -3,12 +3,12 @@ Purification of the Way (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-30
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Purification of the Way (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-06-30
 
 ------
 
@@ -19,7 +19,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 To talk about the purification of the way, we need to know about the Ten insight knowledge. These are:
 
 | (1) Knowledge of comprehension—Sammasanañāṇa
-| (2) Knowledge of rising and fall of formations (khandhas)—Udayabbaya-ñāṇa (udayabbayānupassanāñāṇa)
+| (2) Knowledge of rise and fall of formations (khandhas)—Udayabbaya-ñāṇa (udayabbayānupassanāñāṇa)
 | (3) Knowledge of the dissolution of formations—bhaṅga-ñāṇa (bhaṅgānupassanāñāṇa).
 | (4) Knowledge of dissolving things as fearful—bhayato-upaṭṭhāna ñāṇa (bhayatupaṭṭhānañāṇa).
 | (5) Knowledge of fearful things as dangerous—ādīnava-ñāṇa (ādīnavānupassanāñāṇa).
@@ -30,7 +30,7 @@ To talk about the purification of the way, we need to know about the Ten insight
 | (10) Knowledge of conformity—anuloma-ñāṇa (saccānulomikañāṇa, anuloma-ñāṇa)
 | 
 
-After the first and second insight knowledge of comprehension and rise and fall (overcoming the insight corruptions), the yogi arrives at the right path. It now matures and develops with increased strength and clarity. The mature knowledge of rising and fall to the knowledge of equanimity (i.e., the eight knowledges) are referred to as purification of the way.
+After the first and second insight knowledge of comprehension and rise and fall (overcoming the insight corruptions), the yogi arrives at the right path. It now matures and develops with increased strength and clarity. The mature knowledge of rise and fall to the knowledge of equanimity (i.e., the eight knowledges) are referred to as purification of the way.
 
 This is walking in the right way to Nibbāna. From here to the end, the yogi will see Nibbāna, which is a purification of knowledge and vision. Between them is a bridge called knowledge of conformity (10th). Between sixth and 7th, purification is a bridge. Why is there a bridge between them? This side and that side are not the same. All the insight knowledge is with conditioned objects (saṅkhāra).
 
@@ -64,7 +64,7 @@ We should not follow it with the concept of anicca, anicca, etc. without direct 
 
 Why do not we see not-self (anatta)? Because we only see the compactness, solidity, shape and form as a whole. For example, if we analyze a body or a car, will not see them as identity and the solidity of them. They are combined with the many parts of the object and become a body or a car. There are four kinds of compactness; continuity, combination, function and object of compactness.
 
-They have one functioning, one object and one combination that people think of them as self (atta). We must be able to contemplate each difference with analysis. With all these compositions, they can move and function; otherwise, they cannot function. Take an example of a human being. It is only the Mind and body process. If we separate the mind and body by themselves, it cannot function and move. It will be a dead body. It was like a puppet, without the strings, and it cannot move. For the discerning, we use knowledge or analytical knowledge to separate them, and the nature of not-self appears.
+They have one functioning, one object and one combination that people think of them as self (atta). We must be able to contemplate each difference with analysis. With all these compositions, they can move and function; otherwise, they cannot function. Take an example of a human being. It is only the mind and body process. If we separate the mind and body by themselves, it cannot function and move. It will be a dead body. It was like a puppet, without the strings, and it cannot move. For the discerning, we use knowledge or analytical knowledge to separate them, and the nature of not-self appears.
 
 In these ways, we can contemplate the three universal characteristics. We must be able to see in detail connecting with the sense objects. What are the differences between anicca, dukkha and anatta? It is changing or unstable for anicca. It is oppressing with the change for dukkha. There are no “me” and “mine” [That is emptiness (suññatā)] or not following with one’s wishes for not-self (anatta).
 
@@ -74,7 +74,7 @@ Seeing lakkhaṇa is seeing anicca. It cannot be separated, but only explain in 
 
 If knowledge becomes sharp, even not aware of the arising, the yogi is only seeing them as quickly passing away. He can only be  aware of the disappearing or contemplate the dissolution (bhaṅgānupassanā ñāṇa). It is arriving at the climax of anicca. As an example, the yogi knows the arising and passing away of in-breath and out-breath, and also the following mind knows the contemplative mind.
 
-The meaning here is the contemplated object and the contemplative mind; both of them are passing away. If not, the yogi will only take the contemplated object as anicca and the contemplative mind as nicca (permanent) (The Wrong view can be developed from practice by misinterpreting one’s own experience. Some wrong views were mentioned in the Brahmajāla Sutta and some new Buddhist ideas and views came from this kind of misinterpretations.).
+The meaning here is the contemplated object and the contemplative mind; both of them are passing away. If not, the yogi will only take the contemplated object as anicca and the contemplative mind as nicca (permanent) [The wrong view can be developed from practice by misinterpreting one’s own experience. Some wrong views were mentioned in the Brahmajāla Sutta (DN.1 Brahmajālasuttaṃ) and some new Buddhist ideas and views came from this kind of misinterpretations.]
 
 Therefore, all the following arising minds are also passing away. A dead body and a living body are the same things. After dying or passing away, both of them never come back again. It was like all of them jumping into the abyss, and gone forever. Later arising phenomena are the new ones.
 
@@ -86,7 +86,7 @@ This is the knowledge of reflecting contemplation (paṭisaṅkhā ñāṇa). An
 
 Change of lineage (gotrabhū) is nothing to do with this side or the other side. This is the point between the two ends of the bridge. But it sees Nibbāna because it has let go of conditioned objects (saṅkhāra ārammaṇas). Therefore, it sees Nibbāna. The change-of-lineage consciousness (gotrabhū citta), having Nibbāna as its object occurs, overcoming the lineage of worldling and evolving as the lineage of the noble one.
 
-Immediately after this, the path of stream-entry arises. It cut off the fetters of wrong views, doubt, and adherence of rites and ceremonies as realization. The yogi becomes a stream-winner (sotāpanna). He has no more than seven lives or existence to come. He is already on the path of eight factors and never returns backward.
+Immediately after this, the path of stream-entry arises. It cut off the fetters of wrong views, doubt, and adherence of rites and ceremonies as realization. The yogi becomes a stream-enterer (sotāpanna). He has no more than seven lives or existence to come. He is already on the path (the path of the Noble Eightfold Path) and never returns backward.
 
 It means he will never become a worldling (puthujjana) back again. With the path knowledge arises, the yogi fully understands the truth of dukkha, abandoning the truth of its origin, realizing the truth of its cessation, and developing the truth of the path to its cessation.
 
@@ -132,7 +132,7 @@ There is no other dukkha greater than clinging to the five khandhas. Therefore, 
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36995#p36995 (posted on 2019-11-22)
+revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36995#p36995 (posted on 2019-11-22)
 
 ------
 
@@ -147,5 +147,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

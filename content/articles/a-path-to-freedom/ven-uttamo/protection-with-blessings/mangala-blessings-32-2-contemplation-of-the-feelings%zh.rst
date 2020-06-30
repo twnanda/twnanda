@@ -3,12 +3,12 @@ Contemplation of Feelings: Vedanānupassanā (Maṅgala Sutta – Protection wit
 ========================================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-30
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Contemplation of Feelings: Vedanānupassanā (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-06-30
 
 ------
 
@@ -71,7 +71,7 @@ In the contemplation of feeling; when someone feels a pleasant feeling, he knows
 
 In the first part of the instruction, the Buddha taught the three basic kinds of feelings; pleasant, unpleasant and neutral. Because by themselves can lead to realization. In the satipaṭṭhāna sutta, after mentioning these three basic feelings, there were followed by an additional subdivision of feeling into worldly (sāmisa) and unworldly (nirāmisa).
 
-Therefore, totally nine kinds of feelings have to be contemplated, whenever and whatever type of feeling arising. If we ask the question; “Who is feeling the vedanā?” The answer is vedanā feels it. Except vedanā and no feeler is there. It is just only natural phenomena or natural process. Sense object (ārammaṇa) contacts (phassa) with sense base (vatthu) that we have the feeling to feel or mind arises.
+Therefore, totally nine kinds of feelings have to be contemplated, whenever and whatever type of feeling arising. If we ask the question; “Who is feeling the vedanā?” The answer is vedanā feels it. Except vedanā and no feeler is there. It is just only natural phenomena or natural process. Sense object (ārammaṇa) contacts (phassa) with mind base (vatthu) that we have the feeling to feel or mind arises.
 
 There are only causes and effects phenomena exist. Only natural phenomena are arising. This is the right view. Vedanā arises and vedanā feels it. Vedanā is very important for us because it leads to craving (taṇhā). And then, taṇhā leads to suffering (dukkha). With taṇhā arises and dukkha will arise. If we cannot deal with feelings and cannot escape dukkha.
 
@@ -83,7 +83,7 @@ With continued practice and discerning the three universal characteristics of ve
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36987#p36987 (posted on 2019-11-22)
+revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36987#p36987 (posted on 2019-11-22)
 
 ------
 
@@ -98,5 +98,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

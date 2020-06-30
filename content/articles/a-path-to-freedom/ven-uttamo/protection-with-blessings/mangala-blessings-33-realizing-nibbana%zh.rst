@@ -3,12 +3,12 @@ Realizing Nibbāna (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-06-30
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Realizing Nibbāna (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-06-30
 
 ------
 
@@ -16,9 +16,9 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 ------
 
-The 32nd blessing is seeing the noble truths, and 33rd realizes Nibbāna. So, what are the differences between them? Seeing the noble truths is the four Path Knowledge. These are; the Path Knowledge of a stream winner, the path knowledge of a once-returner, the path knowledge of a non-returner and the path knowledge of an arahant.
+The 32nd blessing is seeing the noble truths, and 33rd realizes Nibbāna. So, what are the differences between them? Seeing the noble truths is the four Path Knowledge. These are; the Path Knowledge of a stream enterer, the path knowledge of a once-returner, the path knowledge of a non-returner and the path knowledge of an arahant.
 
-At the time of thoroughly penetrates the Four Noble Truths and the path knowledge arises. Realizing Nibbāna is the four fruitions (phalas). These are; from the stream-winner to the arahant. After the path knowledge (magga ñāṇa) and follows by fruition. It is without delay—akālika.
+At the time of thoroughly penetrates the Four Noble Truths and the path knowledge arises. Realizing Nibbāna is the four fruitions (phalas). These are; from the stream-enterer to the arahant. After the path knowledge (magga ñāṇa) and follows by fruition. It is without delay—akālika.
 
 According to the conditional relations—paṭṭhāna, it is anantara-paccaya—proximity condition. This becomes evident by direct yogi’s experience. But some scholars take it as has to wait for sometimes in the future. To acquire for the proficiency has to develop it for sometimes like jhānas. For other dhammas has to wait for sometimes in the future, e.g., the result of dāna.
 
@@ -26,13 +26,13 @@ The attainment of fruition (phala samāpatti) is meditative attainment. A noble 
 
 In a Dhamma talk by a teacher who mentioned seeing Nibbāna; “It’s the real cessation of the khandha and also can be checked. Sitting in front of a Buddha statue and resolve. Because after the Path knowledge, come the fruition. Therefore, the yogi can enter into fruition state (phalasamāpatti). Lord! Let me discern the cessation of the khandha again. And makes an hour of resolution and sits there.
 
-It starts again from rising and fall (impermanence). But the rise and fall process is not becoming increase or decrease as before (i.e., before the Path Knowledge arose in practice). Discerning (seeing) rise and fall for sometimes and it stops happening. But don’t satisfy with it. Testing for another one and a half hours, and then two hours, three hours, etc. by increasing the period with resolutions.
+It starts again from rise and fall (impermanence). But the rise and fall process is not becoming increase or decrease as before (i.e., before the Path Knowledge arose in practice). Discerning (seeing) rise and fall for sometimes and it stops happening. But don’t satisfy with it. Testing for another one and a half hours, and then two hours, three hours, etc. by increasing the period with resolutions.
 
 If it’s real, you’ll attain it. If it’s fake, then you can’t attain it. Instead, it becomes worse. With more testing and it becomes more significant. The yogi’s in and out breaths are cool with the body. People around him are bitten by mosquitoes but not the yogi in the fruition state. Because of kilesa smell and people are bitten by mosquitoes.”
 
 Life is a very heavy burden, physically or mentally. When people are becoming older and older, sick, or near death even become clearer. The mental burden comes from our daily life welfare and for others. These kinds of mental burden are quite a lot and it will never end. Life also has a lot of disturbances and never peaceful.
 
-Ven. Sāriputta, after his enlightenment, wanted to put down this body as soon as possible. In saṁsāra, he never had real peace and happiness because of the khandha. He said that even better to carry around the Mount Meru on his back than the khandha. Because when the time comes for the destruction of the world, everything is disappeared.
+Ven. Sāriputta, after his enlightenment, wanted to put down this body as soon as possible. In saṁsāra, he never had real peace and happiness because of the khandha. He said that even better to carry around the Mount Meru on his back than the khandha. Because when the time comes for the destruction of the world, everything is disappeared. (Thag. 81 and Comy.)
 
 But not the khandha burden and dukkha for living beings who still have kilesas. Therefore, for all noble beings (from the Buddha to sotāpanna) when they had free time preferred to stay in the fruition. They can put down their khandha burdens for sometimes accordingly to their levels. In one of Mogok Sayadaw’s talks on the truth of cessation—nirodha sacca, one is vivekattā—the peaceful nature of Nibbāna.
 
@@ -128,7 +128,7 @@ There are also some in the Udāna Pāli—The Buddha’s Exclamations. In one of
 
 Other teachings on Nibbāna were; Viññāṇaṁ anidassanaṁ, anantaṁ sabbato pabhaṁ. Viññāṇa anidassanaṁ is translated by Ajahn Ṭhānissaro as consciousness without feature. The usage of this consciousness is significant because except in two places in the texts, we cannot find it anywhere.
 
-These were in the Kevaṭṭa Sutta (DN. 11, Dīgha Nikāya) and Brahmanimantanika Sutta (MN. 49, Majjhima Nikāya). People were interpreting it. Differently, that became mistaken about it. Only we know it rightly by consulting other suttas.
+These were in the Kevaṭṭa Sutta (DN. 11, Dīgha Nikāya) and Brahmanimantanika Sutta (MN. 49, Majjhima Nikāya). People were interpreting it differently, that became mistaken about it. Only we know it rightly by consulting with other suttas.
 
 Viññāṇa is the knowing mind. The consciousness here was, Nibbāna could be known only with this significant consciousness, and not by others. Anidassanaṁ here was, not like seeing with the eye. It does not have the beginning and end—anata. This word—sabbato pabhaṁ was used in many books on Nibbāna differently.
 
@@ -137,6 +137,20 @@ In the commentary pabba means port. To Nibbāna, there are ways. (as like many p
 The problem is, light is matter (rūpa). If Nibbāna has light, and then it becomes matter. These are metaphorical terms and we cannot take it directly. Nibbāna does not have the defilement of delusion (moha—it referred to darkness.). So, it has the nature of no darkness. In the simile of the Vipers Discourse (i.e., Āsīvisopama Sutta, SN 35. 238 —Saḷāyatana-saṃyutta), Nibbāna was referred to as the other shore.
 
 This was also a metaphorical term. Nibbāna has to be taken as the cessation of dukkha and its origin (i.e., khandhas and kilesas). So, Nibbāna is the ending of saṅkhata. It is not changing from saṅkhata to asaṅkhata, not a changed element. It was like a wound grew out and cured. If, come from changing and it becomes of the arising dhamma. It is without anicca that there is no beginning nor end.
+
+A few days before he passed away, Mogok Sayādawgyi gave a talk on Nibbāna and the practice. I translated it as “A simile for Nibbāna”. I don’t know the origin of the simile. It could be from the Buddha himself. This simile of Nibbāna looked very simple, but it is profound and easy to understand the nature of Nibbāna with its practice. Therefore, I want to give an outline of this talk for contemplation.
+
+“The main important point in studying the Pāli Canons (piṭakas) is to know the three universal characteristics of phenomena. Teaching on the 28 matters (rūpa) are impermanent (anicca). The 53 minds are impermanent (i.e., 52 mental factors + one consciousness—cetasikas and citta). Forty-five years of the Buddha Dhamma were focused on impermanence. At the end of the impermanent phenomena, one will discover the cessation of the phenomena (i.e., Nibbāna). Don’t be with too many dhammas and teachers. It can’t be deviated from the Buddhist path by following this way. We need to change the worldling eye to the noble eye. The eyes given by the parents were for the matters of living and eating, not for the realization of Nibbāna.
+
+With the noble eye, one will get the noble view. This view is pure and not mixed with defilements. Whatever situations which the noble beings (here refers to Arahants) were in, their minds were unshaken, free from attachment. One will get the noble eye and its right view by discerning of impermanence. This is the teaching for becoming a stream-enterer (Sayādaw explained the five functional path factors and how it connected in practice). Right view and right thought can’t be separated. They are like the eyes and glasses. No right thought can’t get right view. When discerning of anicca had these two wisdom factors and the other three samādhi factors. Mindfulness reminds yogi to look at here and samādhi turns the mind straight towards the object. Right effort pushes the mind towards the object of anicca. Therefore, when seeing anicca the yogi gets the path factors.
+
+Mind can be alive one only, therefore the yogi sees his own death. It can’t be shown with the dimension, but it can be sensed. Knowing the existence and nonexistence (i.e., arising and passing away) is the view of the noble one. This is the view of parity. In the whole rounds of existence, we (most beings) had seen other people’s death but never had seen one’s own death. With the noble eyes, the yogi sees his own impermanent, dukkha, not-self, loathsome (asubha) and the truth of dukkha. Even the Brahmā gods can’t see their own deaths. The yogi will become disenchanted with his khandha by seeing his own death moment to moment. At the time of not wanting all these deaths and his khandha disappears. Then the yogi sees the place of no deaths. The cessation of the khandha is Nibbāna.
+
+Sayadaw talked about Nibbāna. Dāna, sīla and samatha practices are for dying (because not free from rounds of existence) with the vipassanā magga dhamma get the undying Nibbāna. With the conditioned phenomena, the yogi gets the unconditioned. This is the reason why Nibbāna is difficult to understand because with the conditions, one attains the unconditioned. It was like digging a cave. During the second world war, Japanese jet fighter planes came to bomb people. So, they had to dig caves in the mountain area for safety.
+
+“The cave is not existing in the past, present and future times. It appears by digging. The digging is like seeing impermanence. The rock fragments are khandhas. The empty cave is like Nibbāna—no khandhas.
+
+The true refuge is unconditioned Nibbāna (here the empty cave). The impermanence and the rock fragments are conditions. The empty cave (Nibbāna) and the rock fragments (khandhas) are not same.”
 
 This was the reason Ven. Sāriputta described Nibbāna as real happiness because it had no mind and body. The cessation is a presence phenomenon (atthi). We cannot know Nibbāna with the feeling of saṅkhata by thinking. A human with the thoughts of taṇhā (craving) will always be far from Nibbāna. Worldlings do not want Nibbāna, because it has nothing for them. Therefore, they are afraid of it.
 
@@ -186,7 +200,7 @@ There are two ways to Nibbāna; i.e., samatha-yānika and vipassanā-yānika (ba
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36996#p36996 (posted on 2019-11-22)
+revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36996#p36996 (posted on 2019-11-22)
 
 ------
 
@@ -201,5 +215,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst
