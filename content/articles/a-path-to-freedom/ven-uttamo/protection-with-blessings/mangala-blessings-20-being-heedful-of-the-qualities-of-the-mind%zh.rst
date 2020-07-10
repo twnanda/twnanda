@@ -3,12 +3,12 @@ Being Heedful of the Qualities of the Mind (Maṅgala Sutta – Protection with 
 ========================================================================================
 
 :date: 2019-12-03
-:modified: 2020-06-25
+:modified: 2020-07-03
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Being Heedful of the Qualities of the Mind (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-06-25
+revised on 2020-07-03
 
 ------
 
@@ -110,9 +110,9 @@ You can’t challenge anyone if don’t have strength. It’s number one in sās
 
 Among super-powers, they are challenging or competing each other with greed, hatred and delusion. These are: how to get more money in economics and trade wars; how to get more power with the weapon of mass destruction (arms race); how to pollute the food chains, air, water and earth—the natural environments; how to make the Earth hotter and hotter; how to make humans afflicted with new diseases (e.g., 2019-2020 corona Virus or Covid 19—Here we can see the stupidity of world leaders; instead of dealing with the epidemic in unity, they are finding faults and accusations to each other.); etc. All these are wrong challenges.]
 
-Even animals are challenging each other. Two dogs show their teeth and bark angrily when they are challenging each other, and then they bite each otter noisily. At last both of them hurt and become tired. (It seems some politicians and some world leaders are imitating them as their teachers.)
+Even animals are challenging each other. Two dogs show their teeth and bark angrily when they are challenging each other, and then they bite each other noisily. At last both of them hurt and become tired. (It seems some politicians and some world leaders are imitating them as their teachers.)
 
-Sati conquers all of them. Sitting meditation is challenging kilesa. You have to watch and observe the khandha is: “Is there anything of goodness coming out from it?” Instead, everything coming out is not good, it responds to us like an enemy. Only dukkha comes out from it (i.e. anicca, dukkha, anatta, asubha and dukkha sacca). In the time of the Buddha, 30 monks went into a forest for practice. One night a tiger came and dragged a young monk into the deep forest. The tiger seemed like challenging the monk as: “You can’t run away from me.” The monk seemed to challenge back it as saying: “You can only eat my putrid khandha and not my sati and ñāṇa” Khandha is for application (but most people are using it at wrong places). The monk became arahant before death.
+Sati conquers all of them. Sitting meditation is challenging kilesa. You have to watch and observe the khandha: “Is there anything of goodness coming out from it?” Instead, everything coming out is not good, it responds to us like an enemy. Only dukkha comes out from it (i.e. anicca, dukkha, anatta, asubha and dukkha sacca). In the time of the Buddha, 30 monks went into a forest for practice. One night a tiger came and dragged a young monk into the deep forest. The tiger seemed like challenging the monk as: “You can’t run away from me.” The monk seemed to challenge back it as saying: “You can only eat my putrid khandha and not my sati and ñāṇa” Khandha is for application (but most people are using it at wrong places). The monk became arahant before death.
 
 Only his khandha died and not the Dhamma.
 
@@ -120,7 +120,7 @@ Only his khandha died and not the Dhamma.
 
 Sein (diamond) is a valuable gem; sati is also the most valuable Dhamma.
 
-The reason is it can transform the useless khandha into priceless sīla, samādhi and paññā power. Therefore, sati can be called as sein-ta-lone (a diamond). [In the Mahayana tradition, diamond is represented wisdom, e.g., Diamond Sutra or Vajira Sutra. Sayadaw’s diamond is nothing to do with it and it’s just a coincidence. The Buddha referred sati to salt in every dishes. Ven Sāriputta compared Ven. Mahā-Moggallāna with a mountain and in return, Ven. Mahā-Moggallāna compared Ven Sāriputta with salt. There are profound meanings hidden underneath of these two comparisons of psychic power and wisdom power.]
+The reason is it can transform the useless khandha into priceless sīla, samādhi and paññā power. Therefore, sati can be called as sein-ta-lone (a diamond). [In the Mahāyana tradition, diamond is represented wisdom, e.g., Diamond Sutra or Vajira Sutra. Sayadaw’s diamond is nothing to do with it and it’s just a coincidence. The Buddha referred sati to salt in every dishes. Ven Sāriputta compared Ven. Mahā-Moggallāna with a mountain and in return, Ven. Mahā-Moggallāna compared Ven Sāriputta with salt. There are profound meanings hidden underneath of these two comparisons of psychic power and wisdom power.]
 
 ④ Sein-phu-the Holy Crystal
 
@@ -241,7 +241,7 @@ With diligent practice and he became an arahant. Once, King Pasenadi of Kosala a
 
 ------
 
-revised on 2020-06-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36970#p36970 (posted on 2019-11-20)
+revised on 2020-07-03; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36970#p36970 (posted on 2019-11-20)
 
 ------
 
@@ -256,6 +256,7 @@ revised on 2020-06-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-06-25 rev. the 2nd proofread by bhante
+  07-03 rev. the 3rd proofread by bhante
+  06-25 rev. the 2nd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

@@ -3,12 +3,12 @@ Having Made Merit in the Past (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-03-24
+:modified: 2020-07-04
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Having Made Merit in the Past (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-03-24
+revised on 2020-07-04
 
 ------
 
@@ -46,7 +46,9 @@ All these points remind human beings the importance of perfection coming from go
 
 Therefore, how to use power and money is more important than how to get it. The situations around the world today are mostly connected with these influential people.
 
-The Buddha mentioned in the Āthana Sutta (??) that there were no merits (kusala) which one should not do but only one should not do demerits (akusala). In the Devatas Sutta a number of deities came to see the Buddha, telling about their past merits and the present situations. The first group of deities said that in the past as human and monks approached them. They rose up for them but not paid homage to them.
+The Buddha mentioned that there were no merits (kusala) which one should not do but only one should not do demerits (akusala) in the Āthana Sutta. 
+
+In the Devatas Sutta (AN. 9.19 Devatāsuttaṃ), a number of deities came to see the Buddha, telling about their past merits and the present situations. The first group of deities said that in the past as human and monks approached them. They rose up for them but not paid homage to them.
 
 Lacking of the other merits, they were reborn as inferior class to compared to others. The second group – they rose up and paid homage but not offered seats. So they became inferior class if compared to others. The 3rd group – they did ① and ② but not offered things to the monks. ④ they shared things (offered) to the monks but not listened the Dhamma (here requested for Dhamma). ⑤ listened Dhamma but not with eager ears ⑥ listened with eager ears but not retained the Dhamma in minds. ⑦ retained the Dhamma in minds but not contemplated the meanings ⑧ contemplated the meanings but not put into practice ⑨ put the Dhamma into practice so that these last group of deities free from regret and remorse. The Buddha mentioned the whole episode to the monks and exhorted them to do all things which should be done, otherwise they would regret like those deities.
 
@@ -92,7 +94,7 @@ All these wholesome Dhammas were praised by the wise and noble person. It could 
 
 ------
 
-revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36785#p36785 (posted on 2019-09-17)
+revised on 2020-07-04; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36785#p36785 (posted on 2019-09-17)
 
 ------
 
@@ -107,6 +109,7 @@ revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-04 add: (AN. 9.19 Devatāsuttaṃ), Āthana Sutta (?? attāṇa sutta)   
   2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst
