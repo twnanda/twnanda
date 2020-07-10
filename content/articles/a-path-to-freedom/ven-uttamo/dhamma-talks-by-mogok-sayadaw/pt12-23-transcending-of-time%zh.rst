@@ -3,12 +3,12 @@ Transcending of Time
 ==========================================
 
 :date: 2019-12-02
-:modified: 2020-06-25
+:modified: 2020-07-10
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Transcending of Time (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-06-25
+revised on 2020-07-10
 
 ------
 
@@ -78,13 +78,13 @@ Therefore, kālika matters become chaotic. Signboards are man and woman, but the
 
 Without or no correction is forever and with correction is now. (This is Burmese proverb.) It has been already quite a long time till now that we are in no good.
 
-It is necessary of wanting to correct and encounter with a good teacher. You also need to have the desire mind for correcting yourself. We came here with mistakes and faults (i.e., avijjā, saṅkhāra from past lives). Therefore, we die again with mistakes and faults (no correction). There are only mind and matter by condensing the five khandhas. Furthermore, there only impermanence exists with condensing of the mind and matter. Seeing impermanence by contemplation, the kālika dhammas of craving and clinging can’t arise. One can contemplate it to see it by oneself (sandiṭṭhika) and it becomes akālika while craving not arising.
+It is necessary to have the wish to correct and meet with a good teacher. You also need to have the desire mind for correcting yourself. We came here with mistakes and faults (i.e., avijjā, saṅkhāra from past lives). Therefore, we die again with mistakes and faults (no correction). There are only mind and matter by condensing the five khandhas. Furthermore, there only impermanence exists with condensing of the mind and matter. Seeing impermanence by contemplation, the kālika dhammas of craving and clinging can’t arise. One can contemplate it to see it by oneself (sandiṭṭhika) and it becomes akālika while craving not arising.
 
 Kālikas are arisen by following the desire of the khandhas. Therefore, you have to give up kālikas and follow the akālika (i.e., the Noble Path.).”
 
 ------
 
-revised on 2020-06-25
+revised on 2020-07-10
 
 ------
 
@@ -103,6 +103,7 @@ revised on 2020-06-25
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-10 post: 07-03 rev. the 3rd proofread by bhante
   2020-06-25 rev. the 2nd proofread by bhante
   2020-06-15 rev. old: It is necessary to want to correct and encounter a good teacher. ; proofread by bhante
   12-08 rev. proofread by bhante
