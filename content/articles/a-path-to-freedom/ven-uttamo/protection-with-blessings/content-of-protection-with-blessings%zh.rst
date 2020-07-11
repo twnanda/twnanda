@@ -3,7 +3,7 @@ Content of Maṅgala Sutta – Protection with Blessing
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-06-30
+:modified: 2020-07-11
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Content of Maṅgala Sutta – Protection with Blessing
@@ -128,7 +128,14 @@ By Venerable Uttamo（鄔達摩尊者）
 
 ------
 
-- Full Text
+- Full Text (upadate: 2020-07-11)
+
+  * `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text.pdf>`__ 
+  * `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-green.pdf>`__ (backgroup in green)
+  * for print
+
+    - `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-12pt-print.pdf>`__ (12 pt, pdf)
+    - `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-14pt-print.pdf>`__ (14 pt, pdf)
 
 ------
 
@@ -139,6 +146,7 @@ By Venerable Uttamo（鄔達摩尊者）
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-11 add linkings of full-text
   06-30 rev. #14 giving
   2020-05-29 add item number 
   2020-02-27 rev. replace title "Living in a Civilized Land"(old) with "Residing in a Suitable Place"
