@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2020-06-26
+:modified: 2020-07-11
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -33,7 +33,7 @@ Dhamma Talks by Mogok Sayadaw
      - `Part 10`_
      - `Part 11`_
      - `Part 12`_
-   * - Full Text:
+   * - Full Text (updated: 2020-07-10)
      - `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ 
      - `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (backgroup in green)
 
@@ -653,6 +653,7 @@ revised on 2020-06-26
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-11 add remark: Full Text (updated: 2020-07-10)
   06-26 rev. old:{filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf; {filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf
   2020-05-31 rev. correct two urls of full text of Dhamma Talks by Mogok Sayadaw
   2020-03-11 add file pdf and pdf for print;  suspended  `html  <>`
