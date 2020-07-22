@@ -3,12 +3,12 @@ Purification of View: Ditthivisuddhi (Maṅgala Sutta – Protection with Blessi
 ==================================================================================
 
 :date: 2019-12-03
-:modified: 2020-06-30
+:modified: 2020-07-22
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Purification of View: Ditthivisuddhi (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-06-30
+revised on 2020-07-22
 
 ------
 
@@ -18,9 +18,19 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 Insight practice (vipassanā) is directly referring to wisdom or knowledge (paññā). There are two basic knowledges for vipassanā practice. These are the discernment of mind and matter (nāmarūpa pariggaha ñāṇa) and the discernment of the conditions of mind and matter (paccayapariggaha ñāṇa). In purifications, it referred to diṭṭhivisuddhi and kaṅkhāvitaraṇavisuddhi (No. three and four visuddhi).
 
-For these two basic insight knowledges or purities in view and overcoming doubt, the yogis need to do two things. These are: 1. Study the soil of knowledge or field of knowledge (paññā-bhūmi), 2. Develope or exercise ñāta pariññā.
+For these two basic insight knowledges or purities in view and overcoming doubt, the yogis need to do two things. These are: 1. Study the soil of knowledge or field of knowledge (paññā-bhūmi), 2. Develope or exercise (tisso) pariññā.
 
 The yogis have to do the study for doing the practice rightly. The yogis need to study about the five khandhas (aggregates), āyatanas (sense bases), dhātu (elements), indriyas (faculties), the Four Noble Truths and dependent co-arising (paṭicca-samuppāda). To have this learning knowledge (suta-mayā paññā) need to study many times. Mogok Sayadaw’s Dhamma talks were a very good example for this purpose. After learning and developing or exercising them by practice.
+
+[ Study on the soil of knowledge and its development
+
+In the path of purification, Buddhaghosa explained the soil of understanding and its development in brief. The soil of understanding was classed as—khandhas (aggregates), āyatanas (bases), dhatus (elements), indriyas (faculties), saccas (truths), paṭicca-samuppāda (dependent origination), etc.
+	
+The first two purifications of virtue (sīla) and consciousness (citta) are the roots of soil of knowledge. The other five purification of view, by overcoming doubt, by knowledge and vision of what is the path and what is not the path, by knowledge and vision of the way and by knowledge and vision are the trunk.
+
+Therefore, for a yogi who wants to perfect these should first fortify his knowledge by learning and questioning about these things that are the soil. After he has perfected Sīla and samādhi that are the roots. Then he can develop the last five purifications that are the trunk.
+
+Here we can take the development of the last five purifications as bhāvanā contemplation. The three kinds of full understanding (tisso pariññā); i.e., the full understanding of the known (ñāta pariññā), full understating by scrutinization (tīraṇa pariññā) and full understanding by abandoning (pahāna pariññā) are its development. ]
 
 The Pāli word, diṭṭhi means view. In the suttas using by itself usually means the wrong view. Right view is adding sammā in front of diṭṭhi, i.e., sammā-diṭṭhi. There are many wrong views; the main one is the identity view (sakkāya-diṭṭhi). Other wrong views extended from it.
 
@@ -137,7 +147,7 @@ With the contact of the eye and the physical form, seeing consciousness arises. 
 
 ------
 
-revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36992#p36992 (posted on 2019-11-22)
+revised on 2020-07-22; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36992#p36992 (posted on 2019-11-22)
 
 ------
 
@@ -152,6 +162,7 @@ revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-07-22 rev. the 2nd proofread by bhante
   2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

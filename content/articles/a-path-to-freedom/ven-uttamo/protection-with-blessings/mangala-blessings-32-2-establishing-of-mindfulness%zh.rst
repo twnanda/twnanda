@@ -3,12 +3,12 @@ Establishing of Mindfulness: Satipatthāna (Maṅgala Sutta – Protection with 
 =======================================================================================
 
 :date: 2019-12-03
-:modified: 2020-06-30
+:modified: 2020-07-22
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Establishing of Mindfulness: Satipatthāna (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-06-30
+revised on 2020-07-22
 
 ------
 
@@ -71,11 +71,11 @@ And then, distorted knowledge will not arise. In Buddhist meditation, there are 
 
 Yogis with the weak craving (taṇhā) contemplate the body. Yogis with strong craving (taṇhā) contemplate the feelings. Yogis with a weak view (diṭṭhi) contemplate the mind. Yogis with a strong view (diṭṭhi) contemplate the dhammas. In one of the suttas in Aṅguttara Nikāya, mentioned the important points in the practice.
 
-First abandoning the hindrances, with one of the satipaṭṭhāna practice and develop the enlightenment factors, will realize Nibbāna. There are two ways of abandoning the hindrances; with samatha practice and direct satipaṭṭhāna practice. The realizations of the yogis are only slow and quick results. Here Sayadaw remarked the commentaries. He said that the commentatorial  expositions were the works of teachers who had experienced. And not just only purely scholarly works.
+First abandoning the hindrances, with one of the satipaṭṭhāna practice and develop the enlightenment factors, will realize Nibbāna. There are two ways of abandoning the hindrances; with samatha practice and direct satipaṭṭhāna practice. The realizations of the yogis are only slow and quick results. Here Sayadaw remarked the commentaries. He said that the commentatorial expositions were the works of teachers who had experienced. And not just only purely scholarly works.
 
 ------
 
-revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36985#p36985 (posted on 2019-11-22)
+revised on 2020-07-22; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36985#p36985 (posted on 2019-11-22)
 
 ------
 
@@ -90,6 +90,7 @@ revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-07-22 rev. the 2nd proofread by bhante
   2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

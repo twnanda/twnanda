@@ -3,12 +3,12 @@ The Middle Way – Majjhimā Patipadā (Maṅgala Sutta – Protection with Bles
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-06-30
+:modified: 2020-07-22
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: The Middle Way – Majjhimā Patipadā (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-06-30
+revised on 2020-07-22
 
 ------
 
@@ -104,7 +104,7 @@ All of these are the right views. The first knowledge is seeing the mind and bod
 
 The second knowledge is knowing why dukkha arises? The third knowledge is knowing the place of ending dukkha. The fourth knowledge is knowing the way to the ending of dukkha. These are the very high levels of right views.
 
-The Four Noble Truths demonstrate the process of vipassanā practice. With the eight factors working with dukkha and discerning it. The result is abandoning the cause of dukkha and realizing the ending of dukkha. While the path consciousness is arising, at the same time, one penetrates The Four Noble Truths. Is it possible? For example, the candlelight will come out if we light a candle; at the same time, the darkness disappears, and the wick and the oil also burn out.
+The Four Noble Truths demonstrate the process of vipassanā practice. Working with the eight path factors to discern the dukkha of the five khandhas; the result is abandoning the cause of dukkha and realizing the ending of dukkha. While the path consciousness is arising, at the same time, one penetrates The Four Noble Truths. Is it possible? For example, the candlelight will come out if we light a candle; at the same time, the darkness disappears, and the wick and the oil also burn out.
 
 The Buddha continued to talk dukkha. He penetrated dukkha by himself, and not heard from others. The Buddha proclaimed himself as an Awakened One only when thoroughly penetrated The Four Noble Truths in its three phases and 12 aspects. The three phases are;
 
@@ -119,7 +119,7 @@ There is no more renewed existence (i.e., has to be taken rebirth again)” Late
 
 ------
 
-revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36984#p36984 (posted on 2019-11-22)
+revised on 2020-07-22; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36984#p36984 (posted on 2019-11-22)
 
 ------
 
@@ -134,6 +134,7 @@ revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-07-22 rev. the 2nd proofread by bhante
   2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

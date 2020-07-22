@@ -3,12 +3,12 @@ Sorrowless (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-06-30
+:modified: 2020-07-22
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Sorrowless (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-06-30
+revised on 2020-07-22
 
 ------
 
@@ -159,7 +159,7 @@ A Tribute and Memory to a Selfless Mother
 
 Near the Chinese New Year of 2019, I went to see my mother in Taipei. A few days there I had a strange feeling about her. Her face looked like an innocent child and with longing for something. At that time, I did not know what it was. That year April the 4th was 99th year of her birthday, according to the Chinese calendar, it fell on 1st April. As a birthday memory, mother and her daughters’ family had lunch together at a restaurant. She said to her four grandchildren as it may be the last time with them together. After coming back in the evening, she had stomach pain and vomiting. They took her to a nearby clinic. After the medical checking up, the doctor took it as stomach problem and gave some medicine to her. She was not allowed to take solid foods and only pure rice gruel. After two days, she felt better. On the 4th April evening, I phoned to my mother and said birthday wishes to her. That was the last communication between us. On the 8th or 9th April, her illness returned again. They worried about the situation and sent her to the Chung-ho Hospital. My youngest sister informed me on her situation on 10th April.
 
-On the 13th, after finishing my before mid-day meal, my sister phoned me that mother could passed away at any time, so I should come to see her. I took the morning train on the 14th (Sunday) to Taipei. I met mother on the hospital bed with the breathing machine attached to her. Her heart beat was fast and the inner organs could not function very well. By seeing her discomfort with difficult breathing, it made my heart painful. For two days I stayed there to look after her with others. It could not be known the time of mother passing away that I went back on the 18th (Thursday). That was my mistake. On the day of 18th over 1 p.m., a very strong earthquake struck Taiwan. The magnitude of the earthquake was 6.1 and it’s shaking the whole building. Before the earthquake, mother was awake and stared at her children faces quite a long time. Mother face was calm and without any trace of sorrow or sadness. This was the last eye contact between mother and me. I will always remember the kind and gentle eye of mother who taught me many things as an example.
+On the 13th, after finishing my before mid-day meal, my sister phoned me that mother could passed away at any time, so I should come to see her. I took the morning train on the 14th (Sunday) to Taipei. I met mother on the hospital bed with the breathing machine attached to her. Her heart beat was fast and the inner organs could not function very well. By seeing her discomfort with difficult breathing, it made my heart painful. For two days I stayed there to look after her with others. It could not be known the time of mother passing away that I went back on the 18th (Thursday). That was my mistake. On the day of 18th over 1 p.m., a very strong earthquake struck Taiwan. The magnitude of the earthquake was 6.1 and it’s shaking the whole building. Before the earthquake, mother was awake and stared at her children faces quite a long time. Mother face was calm and without any trace of sorrow or sadness. This was the last eye contact between mother and me. I will always remember these kind and gentle eyes of mother who taught me many things as an example.
 
 On the 19th I was taking the meal before noon, and my sister informed me about mother passing away peacefully at 11:30 a.m. There was another earthquake between 10 a.m. and 10:30 a.m. In her last moment of breathing it dropping slowly to zero. With the last breath mother’s head turned a bit towards the right side and passed away peacefully. Mother struggled with her life into the hospital 9 or 10 days only. She had many wholesome actions in her life, a good daughter, wife and mother. She was very healthy and had been to many countries until her 97th year. She did a lot of dāna practice in her whole life. This was also the Buddha’s exhortation. “Not to do evil, to do good and purify the mind.”
 
@@ -167,9 +167,9 @@ I dedicate this “Dhamma protection with Blessing” to my mother and all the m
 
 ------
 
-Ma Htet Htet Anng—An Outstanding child
+Ma Htet Htet Aung—An Outstanding child
 
-The information on Ma Htet Htet Anng came from a video record on her funeral and her meditation teacher U Sunanda (Dhammaransi—Mogok). According to Sayādaw U Sunanda, Ma Htet Htet Anng was from Kyank Mae City in northern Shan state, Burma. She was the only child of her parents. She was number one or the top outstanding student in the state. She was well known and loved by all. In the video, her school principal talked about her with tears. She was very good in all ways, a dutiful daughter to her patents and a nice girl to all. She started to study and practise meditation at the age of eleven.
+The information on Ma Htet Htet Aung came from a video record on her funeral and her meditation teacher U Sunanda (Dhammaransi—Mogok). According to Sayādaw U Sunanda, Ma Htet Htet Aung was from Kyauk Mae City in northern Shan state, Burma. She was the only child of her parents. She was number one or the top outstanding student in the state. She was well known and loved by all. In the video, her school principal talked about her with tears. She was very good in all ways, a dutiful daughter to her patents and a nice girl to all. She started to study and practise meditation at the age of eleven.
 
 In 2005, at the age of fourteen, she contracted with dengue fever. It seemed to be it was threatening her life; instead of staying in the hospital, she came back at home. She knew her death a week earlier and said to her mother: “Mom! I will not live longer than seven days and if my schoolmates come to see me, please receiving them on my behalf. Let me concentrate on my own practice.”She requested her mother to prepare some Dhamma tapes for her, including Dhamma talks on death and dying by Mogok Sayādawgyi—such as, “Dying with Smile and Grimace”, “How to Deal with Feeling”, “The Sick Bhikkhu Phegguna”, “Four Ways of Dying”, “The Seven Factors of Enlightenment”, etc. 
 We can see the intelligent and wise nature of this girl who knew what kinds of Dhamma she had to listen at the time of dying.
@@ -180,7 +180,7 @@ It was a great loss for her parents. The father was receiving guests and making 
 
 ------
 
-revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36999#p36999 (posted on 2019-11-22)
+revised on 2020-07-22; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36999#p36999 (posted on 2019-11-22)
 
 ------
 
@@ -195,6 +195,7 @@ revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-07-22 rev. the 2nd proofread by bhante
   2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

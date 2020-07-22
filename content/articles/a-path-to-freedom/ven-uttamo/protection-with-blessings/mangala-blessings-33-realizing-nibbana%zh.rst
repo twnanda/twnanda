@@ -3,12 +3,12 @@ Realizing Nibbāna (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-06-30
+:modified: 2020-07-22
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Realizing Nibbāna (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-06-30
+revised on 2020-07-22
 
 ------
 
@@ -144,15 +144,15 @@ A few days before he passed away, Mogok Sayādawgyi gave a talk on Nibbāna and 
 
 With the noble eye, one will get the noble view. This view is pure and not mixed with defilements. Whatever situations which the noble beings (here refers to Arahants) were in, their minds were unshaken, free from attachment. One will get the noble eye and its right view by discerning of impermanence. This is the teaching for becoming a stream-enterer (Sayādaw explained the five functional path factors and how it connected in practice). Right view and right thought can’t be separated. They are like the eyes and glasses. No right thought can’t get right view. When discerning of anicca had these two wisdom factors and the other three samādhi factors. Mindfulness reminds yogi to look at here and samādhi turns the mind straight towards the object. Right effort pushes the mind towards the object of anicca. Therefore, when seeing anicca the yogi gets the path factors.
 
-Mind can be alive one only, therefore the yogi sees his own death. It can’t be shown with the dimension, but it can be sensed. Knowing the existence and nonexistence (i.e., arising and passing away) is the view of the noble one. This is the view of parity. In the whole rounds of existence, we (most beings) had seen other people’s death but never had seen one’s own death. With the noble eyes, the yogi sees his own impermanent, dukkha, not-self, loathsome (asubha) and the truth of dukkha. Even the Brahmā gods can’t see their own deaths. The yogi will become disenchanted with his khandha by seeing his own death moment to moment. At the time of not wanting all these deaths and his khandha disappears. Then the yogi sees the place of no deaths. The cessation of the khandha is Nibbāna.
+Mind can be alive one only, therefore the yogi sees his own death. It can’t be shown with the dimension, but it can be sensed. Knowing the existence and nonexistence (i.e., arising and passing away) is the view of the noble one. This is the view of purity. In the whole rounds of existence, we (most beings) had seen other people’s death but never had seen one’s own death. With the noble eyes, the yogi sees his own impermanent, dukkha, not-self, loathsome (asubha) and the truth of dukkha. Even the Brahmā gods can’t see their own deaths. The yogi will become disenchanted with his khandha by seeing his own death moment to moment. At the time of not wanting all these deaths and his khandha disappears. Then the yogi sees the place of no deaths. The cessation of the khandha is Nibbāna.
 
 Sayadaw talked about Nibbāna. Dāna, sīla and samatha practices are for dying (because not free from rounds of existence) with the vipassanā magga dhamma get the undying Nibbāna. With the conditioned phenomena, the yogi gets the unconditioned. This is the reason why Nibbāna is difficult to understand because with the conditions, one attains the unconditioned. It was like digging a cave. During the second world war, Japanese jet fighter planes came to bomb people. So, they had to dig caves in the mountain area for safety.
 
 “The cave is not existing in the past, present and future times. It appears by digging. The digging is like seeing impermanence. The rock fragments are khandhas. The empty cave is like Nibbāna—no khandhas.
 
-The true refuge is unconditioned Nibbāna (here the empty cave). The impermanence and the rock fragments are conditions. The empty cave (Nibbāna) and the rock fragments (khandhas) are not same.”
+The true refuge is unconditioned Nibbāna (here the empty cave). The impermanence and the rock fragments are conditions. The empty cave (Nibbāna) and the rock fragments (khandhas) are not the same.”
 
-This was the reason Ven. Sāriputta described Nibbāna as real happiness because it had no mind and body. The cessation is a presence phenomenon (atthi). We cannot know Nibbāna with the feeling of saṅkhata by thinking. A human with the thoughts of taṇhā (craving) will always be far from Nibbāna. Worldlings do not want Nibbāna, because it has nothing for them. Therefore, they are afraid of it.
+This was the reason Ven. Sāriputta described Nibbāna as real happiness because it had no mind and body. The cessation is a presence phenomenon (atthi). It was like the above simile of empty cave as a true refuge. We cannot know Nibbāna with the feeling of saṅkhata by thinking. A human with the thoughts of taṇhā (craving) will always be far from Nibbāna. Worldlings do not want Nibbāna, because it has nothing for them. Therefore, they are afraid of it.
 
 But the Buddha taught Nibbāna in many ways. He asked people to sit for meditation. Asked them to see the arising and passing away phenomena. Only by seeing dukkha that we do not want it. Nibbāna is unconditioned—asaṅkhata. In Nibbāna, we cannot find the things which belong to the conditioned (saṅkhata).
 
@@ -200,7 +200,7 @@ There are two ways to Nibbāna; i.e., samatha-yānika and vipassanā-yānika (ba
 
 ------
 
-revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36996#p36996 (posted on 2019-11-22)
+revised on 2020-07-22; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36996#p36996 (posted on 2019-11-22)
 
 ------
 
@@ -215,6 +215,7 @@ revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-07-22 rev. the 2nd proofread by bhante
   2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst
