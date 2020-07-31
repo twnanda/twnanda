@@ -3,12 +3,12 @@ Sorrowless (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-07-22
+:modified: 2020-07-31
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Sorrowless (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-07-22
+revised on 2020-07-31
 
 ------
 
@@ -169,7 +169,7 @@ I dedicate this “Dhamma protection with Blessing” to my mother and all the m
 
 Ma Htet Htet Aung—An Outstanding child
 
-The information on Ma Htet Htet Aung came from a video record on her funeral and her meditation teacher U Sunanda (Dhammaransi—Mogok). According to Sayādaw U Sunanda, Ma Htet Htet Aung was from Kyauk Mae City in northern Shan state, Burma. She was the only child of her parents. She was number one or the top outstanding student in the state. She was well known and loved by all. In the video, her school principal talked about her with tears. She was very good in all ways, a dutiful daughter to her patents and a nice girl to all. She started to study and practise meditation at the age of eleven.
+The information on Ma Htet Htet Aung came from a video record on her funeral and her meditation teacher U Sunanda (Dhammaraṃsi—Mogok). According to Sayādaw U Sunanda, Ma Htet Htet Aung was from Kyauk Mae City in northern Shan state, Burma. She was the only child of her parents. She was number one or the top outstanding student in the state. She was well known and loved by all. In the video, her school principal talked about her with tears. She was very good in all ways, a dutiful daughter to her patents and a nice girl to all. She started to study and practise meditation at the age of eleven.
 
 In 2005, at the age of fourteen, she contracted with dengue fever. It seemed to be it was threatening her life; instead of staying in the hospital, she came back at home. She knew her death a week earlier and said to her mother: “Mom! I will not live longer than seven days and if my schoolmates come to see me, please receiving them on my behalf. Let me concentrate on my own practice.”She requested her mother to prepare some Dhamma tapes for her, including Dhamma talks on death and dying by Mogok Sayādawgyi—such as, “Dying with Smile and Grimace”, “How to Deal with Feeling”, “The Sick Bhikkhu Phegguna”, “Four Ways of Dying”, “The Seven Factors of Enlightenment”, etc. 
 We can see the intelligent and wise nature of this girl who knew what kinds of Dhamma she had to listen at the time of dying.
@@ -180,7 +180,7 @@ It was a great loss for her parents. The father was receiving guests and making 
 
 ------
 
-revised on 2020-07-22; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36999#p36999 (posted on 2019-11-22)
+revised on 2020-07-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36999#p36999 (posted on 2019-11-22)
 
 ------
 
@@ -195,6 +195,7 @@ revised on 2020-07-22; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-07-31 rev. the 3rd proofread by bhante
   2020-07-22 rev. the 2nd proofread by bhante
   2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda

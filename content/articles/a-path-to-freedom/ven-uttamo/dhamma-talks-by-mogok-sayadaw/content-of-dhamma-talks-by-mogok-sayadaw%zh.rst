@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2020-07-11
+:modified: 2020-07-31
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -19,7 +19,7 @@ Dhamma Talks by Mogok Sayadaw
    :header-rows: 1
 
    * - `Translator's Notes <{filename}translator-notes%zh.rst>`__
-     - `introduction <{filename}introduction%zh.rst>`__ 
+     - `Introduction <{filename}introduction%zh.rst>`__ 
      - `D.A. Process <{filename}da-process%zh.rst>`__
      - `Part 1`_
      - `Part 2`_ 
@@ -33,7 +33,7 @@ Dhamma Talks by Mogok Sayadaw
      - `Part 10`_
      - `Part 11`_
      - `Part 12`_
-   * - Full Text (updated: 2020-07-10)
+   * - Full Text:
      - `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ 
      - `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (backgroup in green)
 
@@ -642,7 +642,7 @@ _`Part 12` ( `content of Part 12 <{filename}pt12-content-of-part12%zh.rst>`_ )
 
 ------
 
-revised on 2020-06-26
+revised on 2020-07-31
 
 ------
 
@@ -653,7 +653,7 @@ revised on 2020-06-26
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  07-11 add remark: Full Text (updated: 2020-07-10)
+  2020-07-31 rev. replace introduction with Introduction
   06-26 rev. old:{filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf; {filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf
   2020-05-31 rev. correct two urls of full text of Dhamma Talks by Mogok Sayadaw
   2020-03-11 add file pdf and pdf for print;  suspended  `html  <>`

@@ -3,12 +3,12 @@ A Mind Is Unshaken When Touched by the Ways of the World (Maṅgala Sutta – Pr
 ======================================================================================================
 
 :date: 2019-12-03
-:modified: 2020-07-22
+:modified: 2020-07-31
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: A Mind Is Unshaken When Touched by the Ways of the World (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-07-22
+revised on 2020-07-31
 
 ------
 
@@ -114,7 +114,7 @@ It mentioned the 16 dreams of the King Pasenadi of Kosala in the Mahāsupina Jā
 
 Among the eight worldly conditions: gain, wealth, status, power and fame do a lot relate to powerful, high class and wealthy people such as political leaders, business men, millionaires, billionaires, etc. These are worldly success and blessing, not easy to come by. It was not created by God for them only. The outcome of past and present actions (kamma or merit), effort (viriya) and knowledge (ñāṇa), etc. These are main factors or important causes or conditions for progress and success. These are internal causes and also other external causes included. It is relating to some blessings already mentioned in the Maṅgala Sutta.
 
-How to use the power (status) and wealth (gain), it is very important. By using them wrongly and unwisely, it can lead to downfall and harming others. The present life and future life to come will not good. For the happiness and welfare of others if good and excellent. Power and wealth are very close to each other. With power, one can get wealth and vice versa as an example in and American politic. These people have more chances to cultivate goodness than ordinary people. By using them wrongly is like handling a poisonous cobra or viper snake wrongly. Human beings measure wealth with money. Money is representing power and wealth that nearly all humans craving and crazy for it. But they cannot see the danger and misfortune it can bring to them. The ancient Chinese sages knew about it very clear. The Chinese character (word) chan (money) represents its danger and misfortune which can bring to humans. At the left it has the word of gold and at the right has the word of two swords:
+How to use the power (status) and wealth (gain), it is very important. By using them wrongly and unwisely, it can lead to downfall and harming others. The present life and future life to come will not good. For the happiness and welfare of others if good and excellent. Power and wealth are very close to each other. With power, one can get wealth and vice versa as an example in the American politic. These people have more chances to cultivate goodness than ordinary people. By using them wrongly is like handling a poisonous cobra or viper snake wrongly. Human beings measure wealth with money. Money is representing power and wealth that nearly all humans craving and crazy for it. But they cannot see the danger and misfortune it can bring to them. The ancient Chinese sages knew about it very clear. The Chinese character (word) chan (money) represents its danger and misfortune which can bring to humans. At the left it has the word of gold and at the right has the word of two swords:
 
 Gold(金) + Two swords(戔) = money = 錢.
 
@@ -156,7 +156,7 @@ With gain become more and more insatiable. So, people want to gain more and more
 
 ------
 
-revised on 2020-07-22; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36997#p36997 (posted on 2019-11-22)
+revised on 2020-07-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36997#p36997 (posted on 2019-11-22)
 
 ------
 
@@ -171,6 +171,7 @@ revised on 2020-07-22; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-07-31 rev. the 3rd proofread by bhante
   2020-07-22 rev. the 2nd proofread by bhante
   2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
