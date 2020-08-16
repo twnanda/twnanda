@@ -3,7 +3,7 @@ Tipiṭaka 南傳巴利大藏經 (The Pāḷi Canon)
 -----------------------------------------
 
 :date: 2016-02-13 T16:05+08:00
-:modified: 2017-03-27
+:modified: 2020-08-16
 :tags: Tipiṭaka, The Pāḷi Canon, The Pali Canon, 巴利大藏經, 巴利三藏, 南傳大藏經, 大藏經
 :category: 未分類
 :summary: Tipiṭaka 南傳大藏經 (The Pāḷi Canon)
@@ -25,21 +25,21 @@ Tipiṭaka 南傳巴利大藏經 (The Pāḷi Canon)
   * (四) 增支部_ （巴 A'nguttara-nikāya）*
   * (五) 小部_ （巴 Khuddaka-nikāya）
  
-    * （1） 法句_ （巴 Dhamma-pada）*
-    * （2） 譬喻（巴 apadāna）
-    * （3） 自說（巴 udāna）
-    * （4） 如是語（巴 Itivuttaka）*
-    * （5） 經集_ （巴 Sutta-nipāta）
-    * （6） 天宮事（巴 vimāna-vatthu）
-    * （7） 餓鬼事（巴 Peta-vatthu）
-    * （8） 長老偈（巴 Thera-gāthā）
-    * （9） 長老尼偈（巴 therī-gāthā）
-    * （10） 本生（巴 jātaka）
-    * （11） 義釋（巴 Niddesa）
-    * （12） 無礙解道（巴paṭisambhidā-magga）
-    * （13） 佛種性（巴 Buddha-vaṃsa）
-    * （14） 所行藏（巴 cariyā-piṭaka）
-    * （15） 小誦（巴 Khuddaka-pāṭha）
+    * （1）小誦（巴 Khuddaka-pāṭha）
+    * （2） 法句_ （巴 Dhamma-pada）*
+    * （3） 譬喻（巴 apadāna）
+    * （4） 自說（巴 udāna）
+    * （5） 如是語（巴 Itivuttaka）*
+    * （6） 經集_ （巴 Sutta-nipāta）
+    * （7） 天宮事（巴 vimāna-vatthu）
+    * （8） 餓鬼事（巴 Peta-vatthu）
+    * （9） 長老偈（巴 Thera-gāthā）
+    * （10） 長老尼偈（巴 therī-gāthā）
+    * （11） 本生（巴 jātaka）
+    * （12） 義釋（巴 Niddesa）
+    * （13） 無礙解道（巴paṭisambhidā-magga）
+    * （14） 佛種性（巴 Buddha-vaṃsa）
+    * （15） 所行藏（巴 cariyā-piṭaka）
 
 - 三、阿毘曇藏（巴 Abhidhamma-piṭaka），即 論藏_：
 
@@ -231,7 +231,29 @@ Sutta Piṭaka 經藏 (The collection of discourses):
 
 -------------------------------
 
+- 巴利三藏 PTS 與 CSCD 頁碼對照表：(A Table of Corresponding Page Numbers of the Nikāyā, including some aṭṭhakathā and ṭīkā in PTS and CSCD)（ `法雨道場 <http://www.dhammarain.org.tw/>`__ ，故 `明法尊者 <http://www.dhammarain.org.tw/obituary.html>`__ 遺著） (2020-08-16)
+
+  * `長部 Dīghanikāya <{filename}/extra/tipitaka/D-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/D-CS-vs-PTS.pdf>`__ 
+  * `中部 Majjhimanikāya <{filename}/extra/tipitaka/M-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/M-CS-vs-PTS.pdf>`__ 
+
+    - `中部注釋《破除疑障(破斥猶豫)》Majjhimanikāya-aṭṭhakathā (Papañcasūdanī) <{filename}/extra/tipitaka/MA-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/MA-CS-vs-PTS.pdf>`__ 
+
+  * `相應部 Saṁyuttanikāya <{filename}/extra/tipitaka/S-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/S-CS-vs-PTS.pdf>`__
+
+    - `相應部注釋《顯揚心義（顯揚真義）》 Saṁyuttanikāya-aṭṭhakathā(1~5), sāratthappakāsinī) <{filename}/extra/tipitaka/Spk-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/Spk-CS-vs-PTS.pdf>`__
+    - `相應部疏 Saṁyuttanikāya-ṭīkā <{filename}/extra/tipitaka/St-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/St-CS-vs-PTS.pdf>`__
+
+  * `增支部 Aṅguttaranikāya <{filename}/extra/tipitaka/A-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/A-CS-vs-PTS.pdf>`__
+
+    - `增支部注釋《滿足希求》 Aṅguttaranikāya-aṭṭhakathā, Manorathapūraṇī <{filename}/extra/tipitaka/AA-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/AA-CS-vs-PTS.pdf>`__
+    - `增支部疏 Aṅguttaranikāya-ṭīkā <{filename}/extra/tipitaka/At-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/At-CS-vs-PTS.pdf>`__
+
+  * `善見毗婆沙（善見律毗婆沙, Samantapāsādikā, Sp <{filename}/extra/tipitaka/Sp-PTS-vs-CS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/Sp-PTS-vs-CS.pdf>`__
+
+  * `PTS 版《巴利藏》與《漢譯南傳大藏經》對照表 <{filename}/extra/tipitaka/PTS-vs-han-kuan-hen-si.htm>`__ (HTML)
+
 ..
+  2020-08-16 add:巴利三藏 PTS 與 CSCD 頁碼對照表 
   03.27 add 巴利 on title
   03.15 2017 rev. old:戒(集)蘊品; old: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/tipitaka.htm
   10.27 old: 佛光大辭典\: 南傳大藏經: http://dictionary.buddhistdoor.com/word/57310/%E5%8D%97%E5%82%B3%E5%A4%A7%E8%97%8F%E7%B6%93
