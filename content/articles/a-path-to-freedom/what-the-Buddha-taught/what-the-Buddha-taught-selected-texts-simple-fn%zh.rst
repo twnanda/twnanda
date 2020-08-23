@@ -1,17 +1,14 @@
-==========
-佛典選譯
-==========
+========================
+佛典選譯（簡易註解版）
+========================
 
-:date: 2018-12-05
+:date: 2019-02-06
 :modified: 2019-02-06
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著,  Nanda 編譯
 :tags: 佛典選譯, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
 :summary: 佛典選譯（佛陀的啟示(What the Buddha Taught)）
 
-
-PS: 草稿
-~~~~~~~~~~~
 
 - 導言_
 
@@ -58,47 +55,47 @@ PS: 草稿
 
 ----
 
-.. _轉法輪經:
+.. _sn56_11:
 
 轉法輪經（初轉法輪經）
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-轉法輪經（初轉法輪經、法輪轉起經、如來所說之一；巴利大藏經 ／ 經藏 ／ 相應部 ／ 大篇 ／ 56. 諦相應 ／ 第二 法輪轉起品　第11經　SN 56. 11 巴利經名 Dhammacakkappavattanasuttaṃ 或 Tathāgatena vatta，英譯 Setting in Motion the Wheel of Truth 或 The First Sermon of the Buddha）（摘譯）
+轉法輪經（初轉法輪經、法輪轉起經、如來所說之一；巴利大藏經／經藏／相應部／大篇／56. 諦相應／第二 法輪轉起品／第11經(SN 56. 11)：巴利經名 Dhammacakkappavattanasuttaṃ 或 Tathāgatena vatta，英譯 Setting in Motion the Wheel of Truth 或 The First Sermon of the Buddha）（摘譯） [dhm-ck00]_ 
 
 （這是我所聽見的：）有一次，世尊住在波羅奈鹿野苑的仙人住處。在那裡，世尊對（(那)群）五比丘們說：「比丘們！有兩邊（極端），不應該被出家人從事的，是哪兩邊呢？一邊是專注於沉迷在感官的快樂中，這是低劣、粗俗、屬於凡夫、非聖者、無益的（行為）。另一邊是自我折磨、虐待的苦行，這是痛苦、非聖者、沒有意義的。比丘們，如來不落入這兩邊，覺悟了一條中道；這條中道使人生出眼、生出智，帶來寧靜、無比智、正覺、涅槃。
 
-比丘們，如來所覺悟了一條中道；······正覺、涅槃；那是什麼呢？就是這八正道──正見、正思維、正語、正業、正命、正精進、正念、正定。比丘們，這就是如來所覺悟的中道，這條中道可使人生出眼、生出智，可帶來寧靜、無比智、正覺、涅槃。
+比丘們，如來所覺悟了一條中道；······正覺、涅槃；那是什麼呢？就是這八正道 [dhm-ck01]_ ──正見、正思維 [dhm-ck02]_ 、正語、正業、正命、正精進、正念、正定。比丘們，這就是如來所覺悟的中道，這條中道可使人生出眼、生出智，可帶來寧靜、無比智、正覺、涅槃。
 
-而，這是苦聖諦：生是苦，老是苦，病是苦，死是苦，愁、悲、苦、憂、惱是苦，與不愉快的人、事、物在一起是苦，和愉快的人、事、物分離是苦，求不得是苦；簡單的說，那由執著而生起的五種聚合（五取蘊）是苦的。
+而，這是苦聖諦：生是苦，老是苦，病是苦，死是苦，愁、悲、苦、憂、惱是苦 [dhm-ck03]_ ，與不愉快的人、事、物在一起是苦 [dhm-ck04]_ ，和愉快的人、事、物分離是苦 [dhm-ck05]_ ，求不得是苦；簡單的說，那由執著而生起的五種聚合（五取蘊 [dhm-ck06]_ ）是苦的。
 
-比丘們，這是苦集聖諦：欲愛、有愛、無有愛是帶來後有的原因。這些渴愛和喜貪連在一起，使人對各種事物產生愛喜。 
+比丘們，這是苦集聖諦：欲愛 [dhm-ck08]_ 、有愛 [dhm-ck09]_ 、無有愛 [dhm-ck10]_ 是帶來後有的原因。這些渴愛和喜貪連在一起，使人對各種事物產生愛喜。 
 
-比丘們，這是苦滅聖諦：就是那渴愛的無餘褪去與滅盡、捨棄、斷念、解脫、不黏著。
+比丘們，這是苦滅聖諦：就是那渴愛的無餘褪去與滅盡 [dhm-ck11]_ 、捨棄、斷念 [dhm-ck12]_ 、解脫、不黏著 [dhm-ck13]_ 。
 
-比丘們，這是苦滅之道聖諦：就是這八支聖道，即：正見、正思維、正語、正業、正命、正精進、正念、正定。
+比丘們，這是苦滅之道聖諦 [dhm-ck14]_ ：就是這八支聖道 [dhm-ck01]_ ，即：正見、正思維 [dhm-ck02]_ 、正語、正業、正命、正精進、正念、正定。
 
-比丘們！『這是苦聖諦』，我之前從沒聽過這種法義，我在這種法義之中，眼生出來了，智生出來了，慧生出來了，明生出來了，光生出來了。
+比丘們！『這是苦聖諦』，我之前從沒聽過這種法義，我在這種法義之中，眼生出來了，智生出來了 [dhm-ck15]_ ，慧生出來了，明生出來了，光生出來了。 [dhm-ck16]_ 
 
-比丘們！『應去遍知這苦聖諦』，我之前······，光生出來了。
+比丘們！『應去遍知這苦聖諦』，我之前······，光生出來了。 [dhm-ck17]_ 
 
 比丘們！『這苦聖諦已被遍知』，我之前······，光生出來了。
 
 | 比丘們！『這是苦集聖諦』，我之前······，光生出來了。
-| 比丘們！『應去捨斷這苦集』，我之前······，光生出來了。
+| 比丘們！『應去捨斷這苦集』，我之前······，光生出來了。 [dhm-ck18]_ 
 | 比丘們！『這苦集已被捨斷』，我之前······，光生出來了。
 | 
 | 比丘們！『這是苦滅聖諦』，我之前······，光生出來了。
-| 比丘們！『應去證得這苦滅』，我之前······，光生出來了。
+| 比丘們！『應去證得這苦滅』，我之前······，光生出來了。 [dhm-ck19]_ 
 | 比丘們！『這苦滅已被證得』，我之前······，光生出來了。
 | 
 | 比丘們！『這是苦滅之道聖諦』，我之前······，光生出來了。
-| 比丘們！『應去修習這苦滅之道』，我之前······，光生出來了。
+| 比丘們！『應去修習這苦滅之道』，我之前······，光生出來了。 [dhm-ck20]_ 
 | 比丘們！『這苦滅之道已被修習』，我之前······，光生出來了。
 | 
 
-比丘們，如果我對四聖諦以如是三轉、十二行相之如實智見，尚未達悉皆清淨的話，便不會在這個有天神、魔羅、梵天、沙門、婆羅門、國王、眾人的世代宣稱我是無上等正覺。
+比丘們，如果我對四聖諦以如是三轉 [dhm-ck21]_ 、十二行相 [dhm-ck22]_ 之如實智見，尚未達悉皆清淨的話，便不會在這個有天神、魔羅、梵天、沙門 [dhm-ck23]_ 、婆羅門 [dhm-ck24]_ 、國王、眾人的世代 [dhm-ck25]_ 宣稱我是無上等正覺。
 
-比丘們，然而我於此四聖諦，如是三轉十二行相之如實智見已達悉皆清淨後；我在這包括沙門、婆羅門、天、人的世代中，才宣稱『我是無上等正覺』。又，我的智與見生起了：『我有不可動搖的（心）解脫；這是我最後的一生，從此不再受後有。』」
+比丘們，然而我於此四聖諦，如是三轉十二行相之如實智見已達悉皆清淨後；我在這包括沙門、婆羅門、天、人的世代中，才宣稱『我是無上等正覺』。又，我的智與見 [dhm-ck26]_ 生起了：『我有不可動搖的（心）解脫；這是我最後的一生，從此不再受後有。』」 [dhm-ck27]_ 
 
 世尊說了以上的話後，五比丘們對世尊的說話心感高興，滿懷歡喜。
 
@@ -106,20 +103,20 @@ PS: 草稿
 
 ----
 
-.. _燃燒經:
+.. _sn35_28:
 
 燃燒經
 ~~~~~~~~~
 
-燃燒經（巴利大藏經 ／ 經藏 ／ 相應部 ／ 六處篇 ／ 35. 六處相應 ／ 一切品 ／ SN 35. 28 Ādittasuttaṃ, The Fire Sermon）
+燃燒經（巴利大藏經 ／ 經藏 ／ 相應部 ／ 六處篇 ／ 35. 六處相應 ／ 一切品 ／ SN 35. 28 Ādittasuttaṃ, The Fire Sermon） [as00]_ 
 
-有一次，世尊和一千位比丘一起住在伽耶城的象頭山。
+有一次 [as01]_ ，世尊 [as02]_ 和一千位比丘一起住在伽耶城的象頭山 [as04]_ 。
 
 在那裡，世尊召喚比丘們： 
 
 「比丘們！一切事物都在燃燒。 比丘們！什麼是一切事物都在燃燒呢？ 
 
-比丘們，眼在燃燒，色在燃燒，眼識在燃燒，眼觸在燃燒，凡以這眼觸為緣所生起的樂、苦、不苦不樂受，也都在在燃燒。以什麼來燃燒呢？我說，以貪欲之火、瞋恚之火、愚癡之火來燃燒，以生、老、死、愁、悲、苦、憂、惱來燃燒。
+比丘們，眼在燃燒，色在燃燒，眼識在燃燒，眼觸在燃燒，凡以這眼觸為緣 [as05]_ 所生起的樂、苦、不苦不樂受，也都在在燃燒。以什麼來燃燒呢？我說，以貪欲之火、瞋恚之火、愚癡之火來燃燒，以生、老、死、愁、悲、苦、憂、惱 [dhm-ck03]_ 來燃燒。
 
 | 比丘們，耳……聲……耳識……耳觸……耳觸為緣所生起的樂、苦、不苦不樂受……
 | 　　　　鼻……香……鼻識……鼻觸……鼻觸為緣所生起的樂、苦、不苦不樂受……
@@ -128,7 +125,7 @@ PS: 草稿
 | 
 | 比丘們，意在燃燒，法在燃燒，意識在燃燒，意觸在燃燒，意觸為緣所生起的樂、苦、不苦不樂受在燃燒。以什麼來燃燒呢？我說，以貪欲之火、瞋恚之火、愚癡之火來燃燒，以生、老、死、愁、悲、苦、憂、惱來燃燒。
 | 
-| 比丘們，一位多聞、已受教導法義的聖弟子這樣觀察的話，會對眼厭離，對色厭離，對眼識厭離，對眼觸厭離，對眼觸為緣所生起的樂、苦、不苦不樂受厭離。
+| 比丘們，一位多聞、已受教導法義的聖弟子 [as06]_ 這樣觀察的話，會對眼厭離，對色厭離，對眼識厭離，對眼觸厭離，對眼觸為緣所生起的樂、苦、不苦不樂受厭離。
 | 
 | ……會對耳厭離，對聲厭離，對耳識厭離，對耳觸厭離，對耳觸為緣所生起的樂、苦、不苦不樂受厭離。
 | ……會對鼻厭離，對香厭離，對鼻識厭離，對鼻觸厭離，對鼻觸為緣所生起的樂、苦、不苦不樂受厭離。
@@ -137,25 +134,25 @@ PS: 草稿
 | ……會對意厭離，對法厭離，對意識厭離，對意觸厭離，對意觸為緣所生起的樂、苦、不苦不樂受厭離。
 | 
 
-因為厭離而有無欲，因無欲而有解脫；在得到解脫時會帶來一種解脫智，他知道：『生已經盡除，梵行已經達成，應要做的已經做完，從此不再受後有。。』」
+因為厭離而有無欲 [as07]_ ，因無欲 [as08]_ 而有解脫；在得到解脫時會帶來一種解脫智 [as09]_ ，他知道：『生已經盡除 [as10]_ ，梵行已經達成 [as11]_ ，應要做的已經做完 [as12]_ ，從此不再受後有。 [as13]_ 。』」
 
-世尊說了以上的話後，比丘對世尊的話心感高興，滿懷歡喜。一千位比丘在這段解說中，內心沒有執取，從各種漏之中解脫出來。
+世尊說了以上的話後，比丘對世尊的話心感高興，滿懷歡喜。一千位比丘在這段解說中 [as14]_ ，內心沒有執取，從各種漏之中解脫出來。
 
 ----
 
-.. _慈經:
+.. _Sn_mettasutta:
 
 慈經
 ~~~~~~~~~
 
-《慈經》或稱《(應作)慈經》(Mettasuttaṃ, or Karaṇīyamettasuttam, 小部 ／ 5. 經集 ／ 第一品　蛇品 ／ 第八章 慈經，Universal Love, The Buddha's Words on Loving-Kindness, The Hymn of Universal Love, Loving-Kindness, The Discourse on Loving-kindness, Good Will)
+《慈經》或稱《(應作)慈經》(Mettasuttaṃ, or Karaṇīyamettasuttam, 小部 ／ 5. 經集 ／ 第一品　蛇品 ／ 第八章 慈經，Universal Love, The Buddha's Words on Loving-Kindness, The Hymn of Universal Love, Loving-Kindness, The Discourse on Loving-kindness, Good Will) [mt00]_
 
 
 | 1. 一個希望內心安詳的人，應當熟練於培養這些特質：
-| (1)能幹、(2)正直、(3)坦誠、(4)好教、(5)柔軟、(6)不驕傲；
+| (1)能幹 [mt01]_ 、(2)正直、(3)坦誠、(4)好教 [mt04]_ 、(5)柔軟、(6)不驕傲；
 |
-| 2. (7)知足、(8)容易被款待 、(9)少俗務、(10)生活簡樸； 
-| (11)善護諸根、(12)聰明、(13)不粗魯、(14)不貪戀眷屬；
+| 2. (7)知足、(8)容易被款待 [mt05]_  、(9)少俗務、(10)生活簡樸； 
+| (11)善護諸根 [mt06]_ 、(12)聰明、(13)不粗魯、(14)不貪戀眷屬 [mt09]_ ；
 | 
 | 3. (15)不應該輕犯智者會指責的任何小過失。
 | (他應該常發如下的善願：)願一切有情快樂與安穩！願他們的內心是滿足快樂的。
@@ -176,83 +173,78 @@ PS: 草稿
 | 無論上方、下方，及橫遍十方；沒有任何的障礙、沒有任何的仇恨及敵意。
 | 
 | 9. 無論站著、走著、坐著或躺著，只要他沒睡著，
-| 應當守住(慈)念，這就是所謂的「梵住」 （之心）── 此生中最高境界的心。
+| 應當守住(慈)念，這就是所謂的「梵住」 （之心）── 此生中最高境界的心。 [mt14]_ 
 | 
-| 10.不墮入邪見，持戒並且具有智見；
-| 降伏對欲樂的貪愛，他必定不再睡臥在母胎中。
-
-| 10. 一位已調伏感官欲望的人，
-| 不落入邪見，，持戒並且具有智見；他必定不再進入母胎受生（不再輪迴）。
+| 10. 一位已調伏 [mt15]_ 感官欲望的人，
+| 不落入邪見 [mt16]_ ，持戒 [mt17]_ 並且具有智見 [mt18]_ ；他必定不再進入母胎受生（不再輪迴）。
 | 
 | ((((( (((((((( 願一切眾生無瞋、無怨、無苦、無災厄 ))))))))))))))))))
 | 
 
 ----
 
-.. _吉祥經:
+.. _Sn_Mangalasutta:
 
 吉祥經
 ~~~~~~~~~
 
-吉祥經(Maṅgalasuttaṁ, 小部／ 5. 經集 ／ 第二品 小品／ 第四章 吉祥經）
+吉祥經(Maṅgalasuttaṁ, 小部／ 5. 經集 ／ 第二品 小品／ 第四章 吉祥經） [mg00]_ 
 
-我是這麼地聽說的：
+我是這麼地聽說的 [mg01]_ ：
 
-有一次，世尊在舍衛城，給孤獨園的祇陀林精舍駐錫。
+有一次，世尊在舍衛城，給孤獨園的祇陀林精舍駐錫 [mg02]_。
 
-有一位容貌絕妙的天人，於後夜分，身發燦爛的光輝，照遍了整個祇園精舍；他來到了
-世尊的地方，到了跟前，向世尊頂禮畢；（恭敬地）站在一邊。站在一邊的天人，以偈頌向世尊請問說：
+有一位容貌絕妙的天人 [mg03]_ ，於後夜分 [mg04]_ ，身發燦爛的光輝，照遍了整個祇園精舍；他來到了
+世尊的地方，到了跟前，向世尊頂禮畢 [mg05]_ ；（恭敬地）站在一邊。站在一邊的天人，以偈頌向世尊請問說：
 
-一　　『許多天眾與人們，希求於幸福，思惟著（有關如何才能獲得）吉祥的事；懇請世尊慈悲教導，甚麼是最上吉祥的事！』
+一　　『許多天眾與人們，希求於幸福，思惟著（有關如何才能獲得） [mg07]_ 吉祥的事；懇請世尊慈悲教導，甚麼是最上吉祥的事！』
 
 （世尊說：）
 
 二　　『遠避愚癡的人；親近有智慧（的聖賢）者；尊敬值得尊敬的人：這是最上吉祥的事！
 
-三　　居住在適當的處所；過去曾積善業；（現在又）自修善德：這是最上吉祥的事！
+三　　居住在適當的處所 [mg11]_ ；過去曾積善業；（現在又）自修善德 [mg13]_ ：這是最上吉祥的事！
 
-四　　於眾多技藝能廣學多聞；精進地學習、持守戒律（，使自己有高雅品行）；說柔軟喜悅的話：這是最上吉祥的事！
+四　　於眾多技藝能廣學多聞；精進地學習、持守戒律 [mg15]_ （，使自己有高雅品行）；說柔軟喜悅的話 [mg16]_ ：這是最上吉祥的事！
 
 五　　恭敬地侍奉父母；好好照顧妻子兒女們；從事正當和平的職業：這是最上吉祥的事！
 
-六　　實行布施及端正（如法）的行為；濟助親屬們；所作行為沒有可以受責難的：這是最上吉祥的事！
+六　　實行布施 [mg19]_ 及端正（如法）的行為 [mg20]_ ；濟助親屬們；所作行為沒有可以受責難的：這是最上吉祥的事！
 
-七　　能遠離作惡的行為；不要沾染致醉（及易上癮）的物品；努力遵行正法：這是最上吉祥的事！
+七　　能遠離作惡的行為 [mg24]_ ；不要沾染致醉（及易上癮）的物品 [mg25]_ ；努力遵行正法：這是最上吉祥的事！
 
-八　　虔誠恭敬又謙遜；知足且常懷感恩心；適時聞正法：這是最上吉祥的事！
+八　　虔誠恭敬又謙遜；知足 [mg29]_ 且常懷感恩心 [mg30]_ ；適時 [mg31]_ 聞正法：這是最上吉祥的事！
 
-九　　忍辱、恭順，樂於親近（賢聖）沙門們；適時參加正法的討論：這是最上吉祥的事！
+九　　忍辱、恭順，樂於親近（賢聖）沙門們 [mg34]_ ；適時參加正法的討論：這是最上吉祥的事！
 
-一０　行克己簡樸之生活；修清淨梵行（，斷絕與異性的繭纏）；參悟四聖諦；實證於涅槃：這是最上吉祥的事！
+一０　行克己簡樸之生活 [mg36]_ ；修清淨梵行（，斷絕與異性的繭纏） [mg37]_ ；參悟四聖諦 [mg38]_ ；實證於涅槃 [mg39]_ ：這是最上吉祥的事！
 
-一一　雖然身涉世間法，但心卻不為所動；無憂，無垢（離貪、無染），安穩：這是最上吉祥的事！
+一一　雖然身涉世間法 [mg40]_ ，但心卻不為所動；無憂，無垢（離貪、無染） [mg42]_ ，安穩 [mg43]_：這是最上吉祥的事！
 
 一二　誰能實行上述諸吉祥事，（則因無恐怖而）隨處不會被（他人、他事所）征服；如此，所到之處將會獲得安樂幸福：這些都是能給他們大吉祥的事。』
 
 ----
 
-.. _一切漏經:
-
-.. _一切煩惱經:
+.. _mn002:
 
 一切漏經
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-一切漏經（中部第2經，Sabbāsavasuttaṃ, 一切煩惱經，Getting rid of All Cares and Troubles, All the Taints, All the Fermentations, All Desires）
+一切漏經（中部第2經，Sabbāsavasuttaṃ, 一切煩惱經，Getting rid of All Cares and Troubles, All the Taints, All the Fermentations, All Desires） [sba00]_
 
 這是我所聽見的：
 
 有一次，世尊住在舍衛城的祇樹林給孤獨園。
 
-在那裏，世尊對比丘說： 「比丘們！」
+在那裏，世尊對比丘 [sba04]_ 說： 「比丘們！」
 
-那些比丘回答世尊： 「尊師！」
+那些比丘回答世尊： 「尊師！」 [sba05]_ 
 
-世尊說：「比丘們，我要對你們說『一切漏防護法門』 的法義。你們要留心聽，好好用心思量！我現在說了。」
+世尊說：「比丘們，我要對你們說『一切漏防護法門』  [sba06]_  [sba07]_ 的法義。你們要留心聽，好好用心思量！ [sba08]_ 我現在說了。」
 
-那些比丘回答世尊：「大德，是的！」
+那些比丘回答世尊：「大德，是的！」 [sba09]_ 
 
-世尊說： 「比丘們！有知、有見可使漏得到盡除；無知、無見是不能使漏得到盡除的。什麼是有知、有見可使漏得到盡除呢？有如理思維和不如理思維：如理思維的人可使還沒有生起的漏不會生起，可使已生起了的漏得到斷除；不如理思維的人則會使還沒有生起的漏生起，而使已生起了的漏得到增長。
+世尊說：「比丘們！有知、有見可使漏得到盡除；無知、無見是不能使漏得到盡除的。什麼是有知、有見可使漏得到盡除呢？有如理思維和不如理思維：如理思維的人可使還沒有生起的漏不會生起，可使已生起了的漏得到斷除；不如理思維的人則會使還沒有生起的漏生起，而使已生起了的漏得到增長。
 
 比丘們，有些漏應該以見來斷除，有些漏從防護來斷除，有些漏則從受用供養物來斷除；有些漏以忍受來斷除，有些漏以迴避來斷除，有些漏以驅除來斷除，而有些漏則藉修習來斷除。
 
@@ -340,20 +332,20 @@ PS: 草稿
 
 ----
 
-.. _布喻經:
+.. _mn007:
 
 布喻經
 ~~~~~~~~~
 
-布喻經（中部第7經，MN 7 Vatthūpamasuttaṃ (Vatthasuttaṃ), 衣服經, The Parable of the Piece of Cloth, The Simile of the Cloth）（摘譯）
+布喻經（中部第7經，MN 7 Vatthūpamasuttaṃ (Vatthasuttaṃ), 衣服經, The Parable of the Piece of Cloth, The Simile of the Cloth）（摘譯） [vatthu00]_ 
 
-這是我所聽見的：01]
+這是我所聽見的： [vatthu01]
 
-有一次，世尊住在舍衛城的祇樹林給孤獨園。
+有一次 [vatthu02] ，世尊 [vatthu03] 住在舍衛城的祇樹林給孤獨園。
 
-在那裏，世尊對比丘說： 「比丘們！」
+在那裏，世尊對比丘 [vatthu04] 說： 「比丘們！」
 
-那些比丘回答世尊： 「尊師！」05]
+那些比丘回答世尊： 「尊師！」 [vatthu05]
 
 世尊說：「比丘們！就正如一塊污染、帶有垢漬的布，無論染師拿來染藍色、黃色、紅色或粉紅色，都不能染得美麗的顏色，不能染得純淨的顏色。那是什麼原因呢？比丘們！是因為這塊布不淨的緣故。同樣地，一顆污染的心會導致投生惡道。
 
@@ -398,7 +390,7 @@ PS: 草稿
 | 孫陀利迦河，
 | 舍羅舍提河，
 | 波耶迦渡口，
-| 婆睺摩提河；
+| 婆睺摩提河；  [vatthu99]_
 | 在那裡，做了惡業的愚人，
 | 可能每天都跳進水裡，但是永遠都得不到清淨。
 | 那『孫陀利迦河』、『波耶伽渡口』或『巴呼迦河』會有甚麼些作用呢？
@@ -425,20 +417,20 @@ PS: 草稿
 
 ----
 
-.. _念處經:
+.. _mn010:
 
 念處經
 ~~~~~~~~~
 
-念處經（中部第10經，念住大經, MN 10: Satipatthana Sutta, The Foundations of Mindfulness, The Presence of Mindfulness, The Discourse on the Arousing of Mindfulness, Frames of Reference, Establishing Mindfulness）（摘譯）
+念處經（中部第10經，念住大經, MN 10: Satipatthana Sutta, The Foundations of Mindfulness, The Presence of Mindfulness, The Discourse on the Arousing of Mindfulness, Frames of Reference, Establishing Mindfulness）（摘譯） [stpt00]_
 
-這是我所聽見的：01]
+這是我所聽見的：
 
 有一次，世尊住在俱盧國劍磨瑟曇鎮。
 
 在那裏，世尊對比丘說： 「比丘們！」
 
-那些比丘回答世尊： 「尊師！」05]
+那些比丘回答世尊： 「尊師！」
 
 世尊說：「比丘們！有一條唯一的道路：能使眾生清淨，超越憂傷和悲歎，滅除苦惱，得正道，證涅槃。這就是四念處。
 
@@ -682,20 +674,20 @@ PS: 草稿
 
 ----
 
-.. _教授尸伽羅經:
+.. _dn31:
 
 教授尸伽羅經
 ~~~~~~~~~~~~~~~~~~
 
-教授尸伽羅經（長部第31經，教化仙伽邏經、辛額勒經、教授辛伽羅經、教授尸伽羅越經、教授濕伽羅經、對施嘉那的忠告， DN 31 Sigālovada Suttantaɱ, Sīgālasuttaṃ, Siṅgālasuttaṃ, Advice to Sigala, The Buddha's Advice to Sigalaka, The Discourse to Sigala, The Layperson's Code of Discipline, The Sigāla Homily, To Sigalaka: Advice to Lay People）（摘譯）
+教授尸伽羅經（長部第31經，教化仙伽邏經、辛額勒經、教授辛伽羅經、教授尸伽羅越經、教授濕伽羅經、對施嘉那的忠告， DN 31 Sigālovada Suttantaɱ, Sīgālasuttaṃ, Siṅgālasuttaṃ, Advice to Sigala, The Buddha's Advice to Sigalaka, The Discourse to Sigala, The Layperson's Code of Discipline, The Sigāla Homily, To Sigalaka: Advice to Lay People）（摘譯） [sgl00]_ 
 
 這是我所聽見的：
 
 有一次，世尊住在王舍城附近名為「松鼠飼餵處」的竹園中。
 
-當時，居士子濕伽羅清晨起床後，走到王舍城外，浸濕衣服及頭髮，然後恭敬合掌；向東方、南方、西方、北方、下方、上方各個方向虔誠禮拜。
+當時，居士子濕伽羅清晨起床後，走到王舍城外（的河邊，以水澆灌、）浸濕頭髮及衣服，然後恭敬合掌；向東方、南方、西方、北方、下方、上方各個方向虔誠禮拜。
 
-這時候，世尊在上午穿好衣服，拿著大衣和缽入王舍城托鉢化食，看見居士子濕伽羅向各個方向合掌禮拜，便對他說：「年輕的居士，你為什麼清晨起床後，走到王舍城外，浸濕衣服及頭髮，然後向各個方向虔誠合掌禮拜呢？」
+這時候，世尊在上午穿好衣服，拿著大衣和缽入王舍城托鉢化食，看見居士子濕伽羅向各個方向合掌禮拜，便對他說：「年輕的居士，你為什麼清晨起床後，走到王舍城外（的河邊，以水澆灌、）浸濕頭髮及衣服，然後向各個方向虔誠合掌禮拜呢？」
 
 「大德！我的父親在臨終時吩咐我： 『兒子！你應該禮拜各方。』大德！我恭敬、尊重父親的遺言，所以清晨起床後，走到王舍城外，像這樣地禮拜。」
 
@@ -749,39 +741,218 @@ PS: 草稿
 
 （假朋友）
 
-「居士子，應知有四種人像是朋友而實非朋友：什麼都要拿的人、花言巧語，光說不練的人、阿諛奉承的人、揮霍無度的人。
+居士子！應知有四種人像是朋友而實非朋友：什麼都要拿的人、花言巧語，光說不練的人、阿諛奉承的人、揮霍無度的人。
 
+居士子！可從四方面認清一個什麼都要拿的人：他什麼都想取去、付出少而希求多、出於害怕才作事???、只為自己著想。居士子，可從這四方面認清一個什麼都要拿的人，這種人像是朋友而實非朋友。
+
+居士子！可從四方面認清一個花言巧語，光說不練的人：他說過去給人的恩惠、說將來給人的恩惠、只是空談而沒有實利、當需要付出的時候便借故推託。居士子，可從這四方面認清一個花言巧語的人，這種人像是朋友而實非朋友。
+
+居士子！可從四方面認清一個阿諛奉承的人：無論惡行、善事，他都不加揀擇地附和著你；在人家面前時讚美人、於他背後卻貶斥人。居士子，可從這四方面認清一個阿諛奉承的人，這種人像是朋友而實非朋友。
+
+居士子！可從四方面認清一個揮霍無度的人：他跟沉迷飲酒、迷醉、麻痺的人結伴，跟通宵達旦在街上遊蕩的人結伴，跟常到聲色遊樂場所的人結伴，跟沉迷賭博的人結伴。居士子，可從這四方面認清一個揮霍無度的人，這種人像是朋友而實非朋友。
+
+（善心的朋友）
+
+居士子！應知有四種人是善心的朋友：喜歡助人的人，能同甘共苦的人，能指出什麽是對你有益的人，富有同情心的人。
+
+居士子！可從四方面認清一個喜歡助人的人：朋友碰到困難、無助時，他照顧朋友；朋友碰到困難、無助時他照顧朋友財物；朋友害怕時，是朋友的庇護處；他慷慨待人。居士子，可從這四方面認清一個喜歡助人的人，這種人是善心的朋友。
+
+居士子！可從四方面認清一個能同甘共苦的人：他能對人說出自己的秘密、能保守別人的秘密、朋友不幸有災難時，不會離棄朋友、甚至會為人而犧牲自己的性命。居士子，可從這四方面認清一個能同甘共苦的人，這種人是善心的朋友。
+
+居士子！可從四方面認清一個能指出什麽是對你有益的人：他阻止人行惡（違犯五戒、造十不善業等）、鼓勵人行善、使未聞善法的人聞法、教導朋友行善升天之道。居士子，可從這四方面認清一個說善利的人，這種人是善心的朋友。
+
+居士子！可從四方面認清一個富有同情心的人：他對別人的失敗不會幸災樂禍、對別人的成就會心生歡喜、阻止人說人壞話、讚嘆人讚美他人。居士子，可從這四方面認清一個富有同情心的人，這種人是善心的朋友。
+
+.. _six_direction:
+
+（六方保護章節）
+
+居士子！什麼是一個能夠照顧六方的人呢？應知這六方：東方表示父母；南方表示師長；西方表示妻、子；北方表示親友、同事；下方表示僕人、傭人；上方表示沙門、婆羅門。
+
+居士子！子女應從五方面來看待東方的父母：以供養回報養育之恩；以照顧回報照顧之恩；保存家族的美譽；繼承良好的家風；父母命終後，以他們的名義作布施。父母亦應從五方面來愛護子女：阻止行惡，鼓勵行善，（提供教育，）使有一技之長，安排婚配，適時讓兒子掌管繼承物。居士子，子女應從這五方面來看待東方的父母，父母亦應從這五方面來愛護子女，這樣的話，東方便能夠得到照顧，安穩而沒有怖畏了。
+
+居士子！弟子應從五方面來看待南方的師長：起座禮敬、隨侍左右、主動希望學習、侍候師長、用心學習。師長亦應從五方面來看待弟子：善於教導、確認弟子已了解他們所了解的事、傾囊相授不保留、介紹善知識（以幫助弟子交朋友）、在各方面保護與關心弟子。居士子，弟子應從這五方面來看待南方的師長，師長亦應從這五方面來照顧弟子，這樣的話，南方便能夠得到照顧，安穩而沒有怖畏了。
+
+居士子！丈夫應從五方面來看待西方的妻子：尊重、不輕蔑、不外遇、給予權力、贈送飾物。妻子亦應從五方面來看待丈夫：用心安排好自己的工作、用心照顧家裡所有的人、不對丈夫不忠、守護家裏的財物、勤勞與善巧地做所有工作。居士子，丈夫應從這五方面來看待西方的妻子，妻子亦應從這五方面來看待丈夫，這樣的話，西方便能夠得到照顧，安穩而沒有怖畏了。
+
+居士子！族人應從五方面來看待北方的親友、同事：布施、善意、柔軟的言語、利益對方的行為，同甘共苦，守信。親友亦應從五方面來看待族人：族人碰到困難、無助時，親友、同事照顧他；族人碰到困難、無助時，親友、同事照顧族人財物；害怕時，是其庇護處；不幸有災難時，不會離棄不幸的族人；照顧族人的後裔。居士子，族人應從這五方面來看待北方的親友，親友亦應從這五方面來看待族人，這樣的話，北方便能夠得到照顧，安穩而沒有怖畏了。
+
+居士子！主人應從五方面來看待下方的僕人、傭人：應依能力安排工作(（不使他們過勞）；供給食物與薪資；照顧他們病痛；分享美食；適時讓他們休息。僕人、傭人亦應從五方面來看待主人：比主人早起、比主人晚睡、主人給的東西才拿、善盡職責，維護主人的名聲與讚美主人。居士子，主人應從這五方面來看待下方的僕人、傭人，僕人；傭人，僕人亦應從這五方面來看待主人，這樣的話，下方便能夠得到照顧，安穩而沒有怖畏了。
+
+居士子！族人應從五方面來看待上方的沙門、婆羅門：以親切的行為（慈心作身業）來對他們、以親切的語言（慈口業）來對他們、以親切的心意（以慈意業）來對他們、不關門閉戶（拒諸門外）、供養物質所需。沙門婆羅門亦應從六方面來看待族人：阻止行惡、鼓勵行善、以善意慈愛對他們、使未聞教導的人得聞、使已聞教導的人更了解而常練習（以達淨化）、指示趣向天界之道。居士子，族人應從這五方面來看待上方的沙門婆羅門，沙門婆羅門亦應從這六方面來看待族人，這樣的話，上方便能夠得到照顧，安穩而沒有怖畏了。
+
+世尊說了這番話後，居士子濕伽羅對世尊這麼說：
+
+「太好了，大德啊！太奇妙了，大德啊！大德！就好比（一個人）將翻倒（了的容器）扶將起來；把隱藏著東西發露出來；對迷路的旅客指示迷津；將燈光帶到暗處，使得有眼的人可以看得見物體的形色。世尊以種種方便宣揚法義。我要皈依世尊，皈依法，皈依僧。願世尊接受我為優婆塞，從現在起，直至命終，終生皈依！」
 
 ----
 
-.. _法句經選輯:
+.. _dhp_selected:
 
 法句經選輯
 ~~~~~~~~~~~~~
 
-`《法句經》 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp/>`__ （Dhammapada, `小部 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/khuddaka-nikaaya/>`__ ／ 2. 法句(經)，英譯 The Words of Truth, The Buddha's Path of Wisdom, Inward Path, The Word of the Doctrine，《法句經》巴、漢、英文 `多譯本對讀 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading/>`__ ）
+`《法句經》 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp/>`__ （Dhammapada, `小部 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/khuddaka-nikaaya/>`__ ／ 2. 法句(經)，英譯 The Words of Truth, The Buddha's Path of Wisdom, Inward Path, The Word of the Doctrine，《法句經》巴、漢、英文 `多譯本對讀 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading/>`__ ） [dhp00]_ 
 
-··················
+第一　雙品 (1. Yamakavaggo; The Pairs; Dhp.1-20)
+
+- `Dhp 1 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst#Dhp001>`__ （第一偈頌）、 `Dhp 2 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst#Dhp002>`__ （第二偈頌）、 `Dhp 3 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst#Dhp003>`__ （第三偈頌）、 `Dhp 5 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst#Dhp005>`__ 
+
+第二　不放逸品 (2. Appamādavaggo; Heedfulness; Dhp.21-32)
+
+- `Dhp 24 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap02%zh.rst#Dhp024>`__ （第二十四偈頌）、 `Dhp 25 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap02%zh.rst#Dhp025>`__ （第二十五偈頌）、 `Dhp 26 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap02%zh.rst#Dhp026>`__ （第二十六偈頌）、 `Dhp 27 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap02%zh.rst#Dhp027>`__ 
+
+第三　心品 (3. Cittavaggo; The Mind; Dhp.33-43)
+
+- `Dhp 33 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap03%zh.rst#Dhp033>`__ 、 `Dhp 35 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap03%zh.rst#Dhp035>`__ 、 `Dhp 38 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap03%zh.rst#Dhp038>`__ 、 `Dhp 42 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap03%zh.rst#Dhp042>`__ 、 `Dhp 43 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap03%zh.rst#Dhp043>`__ 
+
+第四　華品 (4. Pupphavaggo; 花品; Flower; Dhp.44-59)
+
+- `Dhp 47 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap04%zh.rst#Dhp047>`__ 、 `Dhp 50 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap04%zh.rst#Dhp050>`__ 、 `Dhp 51 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap04%zh.rst#Dhp051>`__ 
+
+第五　愚品 (5. Bālavaggo; 愚人品; The Fool; Dhp.60-75)
+
+- `Dhp 61 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap05%zh.rst#Dhp061>`__ 、 `Dhp 62 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap05%zh.rst#Dhp062>`__ 、 `Dhp 64 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap05%zh.rst#Dhp064>`__ 、 `Dhp 67 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap05%zh.rst#Dhp067>`__ 、 `Dhp 69 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap05%zh.rst#Dhp069>`__ 
+
+第六　智者品 (6. Paṇḍitavaggo; The Wise Man; Dhp.76-89)
+
+- `Dhp 81 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap06%zh.rst#Dhp081>`__ 、 `Dhp 82 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap06%zh.rst#Dhp082>`__ 、 `Dhp 85 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap06%zh.rst#Dhp085>`__ 
+
+第七　阿羅漢品 (7. Arahantavaggo; The Arahat; Dhp.90-99)
+
+- `Dhp 90 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap07%zh.rst#Dhp090>`__ 、 `Dhp 94 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap07%zh.rst#Dhp094>`__ 、 `Dhp 96 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap07%zh.rst#Dhp096>`__ 、 `Dhp 97 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap07%zh.rst#Dhp097>`__ 
+
+第八　千品 (8. Sahassavaggo; The Thousands; Dhp.100-115)
+
+- `Dhp 103 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap08%zh.rst#Dhp103>`__ 、 `Dhp 104/105 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap08%zh.rst#Dhp104>`__ 、 `Dhp 111 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap08%zh.rst#Dhp111>`__ 
+
+第九　惡品 (9. Pāpavaggo; Evil; Dhp.116-128)
+
+- `Dhp 116 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap09%zh.rst#Dhp116>`__ 、 `Dhp 119 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap09%zh.rst#Dhp119>`__ 、 `Dhp 120 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap09%zh.rst#Dhp120>`__ 、 `Dhp 121 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap09%zh.rst#Dhp121>`__ 、 `Dhp 122 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap09%zh.rst#Dhp122>`__ 、 `Dhp 125 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap09%zh.rst#Dhp125>`__ 
+
+第十　刀杖品 (10. Daṇḍavaggo; Violence; Dhp.129-145)
+
+- `Dhp 129 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap10%zh.rst#Dhp129>`__ 、 `Dhp 131 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap10%zh.rst#Dhp131>`__ 
+
+第十一　老品 (11. Jarāvaggo; Old Age; Dhp.146-156)
+
+- `Dhp 152 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap11%zh.rst#Dhp152>`__ 、 `Dhp 155 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap11%zh.rst#Dhp155>`__ 
+
+第十二　自己品 (12. Attavaggo; The Self; Dhp.157-166)
+
+- `Dhp 159 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap12%zh.rst#Dhp159>`__ 、 `Dhp 160 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap12%zh.rst#Dhp160>`__ 、 `Dhp 165 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap12%zh.rst#Dhp165>`__ 
+
+第十三　世品 (13. Lokavaggo; 世間品; The World; Dhp.167-178)
+
+- `Dhp 167 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap13%zh.rst#Dhp167>`__ 、 `Dhp 171 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap13%zh.rst#Dhp171>`__ 、 `Dhp 178 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap13%zh.rst#Dhp178>`__ 
+
+第十四　佛陀品 (14. Buddhavaggo; The Buddha; Dhp.179-196)
+
+- `Dhp 183 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap14%zh.rst#Dhp183>`__ 、 `Dhp 184 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap14%zh.rst#Dhp184>`__ 、 `Dhp 185 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap14%zh.rst#Dhp185>`__ 
+
+第十五　樂品 (15. Sukhavaggo; Happiness; Dhp.197-208)
+
+- `Dhp 197 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap15%zh.rst#Dhp197>`__ 、 `Dhp 201 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap15%zh.rst#Dhp201>`__ 、 `Dhp 204 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap15%zh.rst#Dhp204>`__ 、 `Dhp 205 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap15%zh.rst#Dhp205>`__ 
+
+第十六　喜愛品 (16. Piyavaggo; Affection; Dhp.209~220)
+
+- `Dhp 215 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap16%zh.rst#Dhp215>`__ 
+
+第十七　忿怒品 (17. Kodhavaggo; Anger; Dhp.221-234)
+
+- `Dhp 222 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap17%zh.rst#Dhp222>`__ 、 `Dhp 223 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap17%zh.rst#Dhp223>`__ 、 `Dhp 231 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap17%zh.rst#Dhp231>`__ 、 `Dhp 232 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap17%zh.rst#Dhp232>`__ 、 `Dhp 233 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap17%zh.rst#Dhp233>`__ 、 `Dhp 234 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap17%zh.rst#Dhp234>`__ 
+
+第十八　垢穢品 (18. Malavaggo; Impurity; Dhp.235-255)
+
+- `Dhp 239 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap18%zh.rst#Dhp239>`__ 、 `Dhp 240 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap18%zh.rst#Dhp240>`__ 、 `Dhp 248 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap18%zh.rst#Dhp248>`__ 、 `Dhp 251 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap18%zh.rst#Dhp251>`__ 、 `Dhp 252 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap18%zh.rst#Dhp252>`__ 
+
+第十九　法住品 (19. Dhammaṭṭhavaggo; The Just; Dhp.256-272)
+
+- `Dhp 267 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap19%zh.rst#Dhp267>`__ 、 `Dhp 268/269 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap19%zh.rst#Dhp268>`__ 
+
+第二十　道品 (20. Maggavaggo; The Path; Dhp.273-289)
+
+- `Dhp 273 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp273>`__ 、 `Dhp 274 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp274>`__ 、 `Dhp 275 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp275>`__ 、 `Dhp 276 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp276>`__ 、 `Dhp 277 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp277>`__ 、 `Dhp 278 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp278>`__ 、 `Dhp 279 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp279>`__ 、 `Dhp 280 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp280>`__ 、 `Dhp 281 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp281>`__ 
+
+| 第二十一　雜品 (21. Pakiṇṇakavaggo; Miscellaneous; Dhp.290-305)、
+| 第二十二　地獄品 (22. Nirayavaggo; The State of Woe; Dhp.306-319)、
+| 第二十三　象品 (23. Nāgavaggo; The Elephant; Dhp.320-333)、
+| 
+
+第二十四　愛欲品 (24. Taṇhāvaggo; Craving; Dhp.334-359)
+
+- `Dhp 334 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap24%zh.rst#Dhp334>`__ 、 `Dhp 335 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap24%zh.rst#Dhp335>`__ 、 `Dhp 336 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap24%zh.rst#Dhp336>`__ 、 `Dhp 338 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap24%zh.rst#Dhp338>`__ 、 `Dhp 343 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap24%zh.rst#Dhp343>`__ 、 `Dhp 348 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap24%zh.rst#Dhp348>`__ 
+
+第二十五　比丘品 (25. Bhikkhuvaggo; The Monk; Dhp.360-382)
+
+- `Dhp 360 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap25%zh.rst#Dhp360>`__ 、 `Dhp 361 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap25%zh.rst#Dhp361>`__ 、 `Dhp 362 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap25%zh.rst#Dhp362>`__ 、 `Dhp 365 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap25%zh.rst#Dhp365>`__ 、 `Dhp 367 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap25%zh.rst#Dhp367>`__ 、 `Dhp 368 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap25%zh.rst#Dhp368>`__ 
+
+第二十六　婆羅門品 (26. Brāhmaṇavaggo; The Holy Man; Dhp.383-423)
+
+- `Dhp 385 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap26%zh.rst#Dhp385>`__ 、 `Dhp 387 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap26%zh.rst#Dhp387>`__ 、 `Dhp 420 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap26%zh.rst#Dhp420>`__ 、 `Dhp 423 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap26%zh.rst#Dhp423>`__ 
 
 ----
 
-.. _佛陀最後的教誡:
+.. _dn16_selected:
 
 佛陀最後的教誡
 ~~~~~~~~~~~~~~~~~
 
-摘譯自： `大般涅槃經 <http://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/dn16/>`__ （長部第16經， DN 16 Mahāparinibbānasuttaṃ, 般涅槃大經, 大般湼槃經, Advice to Sigala, The Buddha's Advice to Sigalaka, The Discourse to Sigala, The Layperson's Code of Discipline, The Sigāla Homily, To Sigalaka: Advice to Lay People）
+摘譯自： `大般涅槃經 <http://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/dn16/>`__ （長部第16經， DN 16 Mahāparinibbānasuttaṃ, 般涅槃大經, 大般湼槃經, Advice to Sigala, The Buddha's Advice to Sigalaka, The Discourse to Sigala, The Layperson's Code of Discipline, The Sigāla Homily, To Sigalaka: Advice to Lay People） [mprnbn00]_
 
-··················
+如來最後的話
+
+世尊對阿難尊者說：「阿難！你們可能會這麼想：『導師的說話已經成為過去，我們沒有導師了。』阿難！但是不要這樣想。阿難，當我離去後，我所宣說的法和律就是你們的導師了。
+
+阿難，現在比丘之間以『賢友』這個稱謂來互相稱呼，在我離去之後便不應這樣了。阿難，長老比丘應以名字、族姓或賢友來稱呼年輕比丘；年輕比丘應以『大德』或『尊者』來稱呼長老比丘。
+
+阿難！在我離去後，可按僧團的意願廢除細小的戒。
+
+| 阿難！在我離去後，應向車匿比丘施行梵罰。
+| 「大德，什麼是梵罰呢？」
+| 「阿難！無論車匿比丘想要什麼，想說什麼，比丘都不和他說話，不給他指示，不對他教誡。」
+| 
+
+那時，世尊對比丘說：
+
+「比丘們！如果你們任何人對佛、法、僧、道或修行方法有疑惑或不清楚的地方，把問題提出來。不要以後因『世尊在面前時也沒有問』而懊悔。」
+
+世尊說了這番話後，比丘保持肅靜。
+
+世尊第二次對比丘說……
+
+世尊第三次對比丘說：「比丘們！如果你們任何人對佛、法、僧、道或修行方法有疑惑或不清楚的地方，把問題提出來。不要以後因『世尊在面前時也沒有問』而懊悔。」
+
+比丘第三次保持肅靜。
+
+這時候，世尊對比丘說：「比丘們！如果你是出於對導師的尊敬而不發問，把問題告訴同伴，叫他代你發問吧。」
+
+世尊說了這番話後，比丘依然保持肅靜。
+
+這時候，阿難尊者對世尊說：
+
+「大德，不可思議啊！大德，未曾有啊！大德！我有這樣的淨信：『在這個僧團裏，沒有一位比丘對佛、法、僧、道或修行方法有疑惑或不清楚的地方。』」
+
+「阿難！你是出於淨信而說以上的說話。阿難，如來知道：在這個僧團裏，沒有一位比丘對佛、法、僧、道或修行方法有疑惑或不清楚的地方。阿難！因為，這五百位比丘最低的一位都已得到入流果，不會墮落惡道、一定會得到覺悟的。」
+
+那時，世尊對比丘說：
+
+「好了，比丘們！我現在對你們說：『諸行是消散法 [mprnbn01]_ ，你們要不放逸地修行以證取道果。」
+
+這是如來的最後遺教。
 
 ----
 
 參考資訊
 ~~~~~~~~~~~
 
+.. _sn56_11_ref:
+
 .. _轉法輪經參考資訊:
 
 - 《轉法輪經》參考資訊
+
+  Tipiṭaka (Mūla) （巴利）大藏經 (The Pāḷi Canon) → 2. Sutta-piṭaka 經藏 → `Saṃyuttanikāya 相應部 <http://nanda.online-dhamma.net/tipitaka/sutta/samyutta/samyutta-nikaaya/>`__ → Mahāvagga 大篇 → 12. `Sacca-saṃyuttaṃ 諦相應 <http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/samyutta/sn56-sacca-samyutta/>`__ (SN 56) → 2. Dhammacakkappavattana-Vaggo 第二 法輪轉起品 → 1. `Dhammacakkappavattanasuttaṃ （SN 56. 11, SN56-11, 法輪轉起經、轉法輪經、如來所說之一、初轉法輪經 <http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/samyutta/sn56/sn56-011/>`__ ）
 
   - `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Dhammacakkappavattanasuttaṃ
 
@@ -803,7 +974,7 @@ PS: 草稿
 
     * `轉法輪經 <http://tripitaka.cbeta.org/B07n0011_001>`__ ；(民國)　岫廬 譯（《大藏經補編》，第 7 冊，第 1 卷，No.0011，藍吉富 主編 / 台北：華宇出版社, 1985. `CBETA <http://www.cbeta.org/>`__ ）
 
-    * `十一．如來所說之一 <http://tripitaka.cbeta.org/N18n0006_056>`__ ；雲庵 譯（元亨寺漢譯南傳大藏經編譯委員會 / 臺灣．高雄：元亨寺妙林出版社, 1995. `CBETA <http://www.cbeta.org/>`__  ; `CBETA 電子佛典集成 <http://tripitaka.cbeta.org/>`__ » `南傳 (N, 《漢譯南傳大藏經》) <http://tripitaka.cbeta.org/N>`__ » `第 18 冊 <http://tripitaka.cbeta.org/N18>`__ » `No.0006 <http://tripitaka.cbeta.org/N18n0006>`__ » 第 56 卷 (N18n0006_056 相應部經典(第48卷-第56卷) 第56卷)；[P.4第十二　諦相應 » 第二　轉法輪品；〔一一〕第一　如來所說（一）；[0311a）
+    * `十一．如來所說之一 <http://tripitaka.cbeta.org/N18n0006_056>`__ ；雲庵 譯（元亨寺漢譯南傳大藏經編譯委員會 / 臺灣．高雄：元亨寺妙林出版社, 1995. `CBETA <http://www.cbeta.org/>`__  ; `CBETA 電子佛典集成 <http://tripitaka.cbeta.org/>`__ » `南傳 (N, 《漢譯南傳大藏經》) <http://tripitaka.cbeta.org/N>`__ » `第 18 冊 <http://tripitaka.cbeta.org/N18>`__ » `No.0006 <http://tripitaka.cbeta.org/N18n0006>`__ » 第 56 卷 (N18n0006_056 相應部經典(第48卷-第56卷) 第56卷)；[P.414] 第十二　諦相應 » 第二　轉法輪品；〔一一〕第一　如來所說（一）；[0311a08] ）
 
     * 律藏 ／ 大品（Mahā-Vagga） ／ 第一　大犍度 ／ 誦品一 ／ 六 ／  `（一七） <http://tripitaka.cbeta.org/N03n0002_001#0014a12>`__ （Vinaya, I, PTS Page 10~14; BJT Page 020, Vinayapiṭake, Mahāvaggapāḷiyā, Paṭhamo bhāgo 《南傳南傳大藏經》3．頁 18~26，元亨寺漢譯南傳大藏經編譯委員會 / 臺灣．高雄：元亨寺妙林出版社, 1995. `CBETA <http://www.cbeta.org/>`__  ; `CBETA 電子佛典集成 <http://tripitaka.cbeta.org/>`__ ）
 
@@ -863,7 +1034,7 @@ PS: 草稿
 
       Swedish Translation: `Lärans Hjul sätts i rörelse <http://www.buddhadust.com/m/dhamma-vinaya/swe/sn/05_mv/sn05.56.011.jnhg.swe.htm>`__ , Svensk översättning Kerstin Jönhagen
 
-      All Things Pali Group: `Discourse on the Setting in Motion of the Wheel of the Dhamma <http://www.buddhadust.com/m/dhamma-vinaya/yaho/sn/05_mv/sn05.56.011.kell.yaho.htm>`__  John Kelly, trans. ( `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ 或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__  (genaud.net)
+      All Things Pali Group: `Discourse on the Setting in Motion of the Wheel of the Dhamma <http://www.buddhadust.com/m/dhamma-vinaya/yaho/sn/05_mv/sn05.56.011.kell.yaho.htm>`__  John Kelly, trans. ( `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ 或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net])
 
   - 日譯(和訳)：初転法輪（しょてんぽうりん）経；《ダンマチャッカパヴァタナ・スッタ》
 
@@ -887,15 +1058,31 @@ PS: 草稿
 
 ----
 
+.. _sn35_28_ref:
+
 .. _燃燒經參考資訊:
 
 - 《燃燒經》參考資訊
 
-  * SN 35. 28, Ādittasuttaṃ `燃燒經 <http://agama.buddhason.org/SN/SN0879.htm>`__ (莊春江)2] ; `燃燒 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=514&page_id=187:395>`__ (志蓮淨苑, 蕭式球) （參考： `Saṃyuttanikāya 巴利大藏經 經藏 相應部 <http://nanda.online-dhamma.net/tipitaka/sutta/samyutta/samyutta-nikaaya/>`__ (The Book of Kindred Sayings; The "Grouped" Discourses) → Saḷāyatanavagga 六處篇 → 35.) `Saḷāyatana-saṃyuttaṃ 六處相應 <http://nanda.online-dhamma.net/tipitaka/sutta/samyutta/sn35-salayatana-samyutta/>`__ (248 經 or 207 經, The six senses) → `Sabbavaggo 一切品 <http://nanda.online-dhamma.net/tipitaka/sutta/samyutta/sn35-salayatana-samyutta/#sabbavaggo>`__ (SN 35. 23 ~ SN 35. 32)；或其 `鏡像站 <http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/samyutta/sn35-salayatana-samyutta/#sabbavaggo>`__ ）
+  Tipiṭaka (Mūla) （巴利）大藏經 (The Pāḷi Canon) → 2. Sutta-piṭaka 經藏 → `Saṃyuttanikāya 相應部 <http://nanda.online-dhamma.net/tipitaka/sutta/samyutta/samyutta-nikaaya/>`__ → Saḷāyatanavagga 六處篇 → 35. `Saḷāyatana-saṃyuttaṃ 六處相應 <http://nanda.online-dhamma.net/tipitaka/sutta/samyutta/sn35-salayatana-samyutta/>`__ (SN 35) → `3. Sabbavaggo 第三　一切品 <http://nanda.online-dhamma.net/tipitaka/sutta/samyutta/sn35-salayatana-samyutta/#sabbavaggo>`__ → 6. Ādittasuttaṃ （SN 35. 28, SN35-28, 或其 `鏡像站 <http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/samyutta/sn35-salayatana-samyutta/#sabbavaggo>`__ ），燃燒經、燃燒
+
+  * SN 35. 28, Ādittasuttaṃ `燃燒經 <http://agama.buddhason.org/SN/SN0879.htm>`__ (莊春江) [2] ; `燃燒 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=514&page_id=187:395>`__ (志蓮淨苑, 蕭式球) 
 
   - 《釋迦的啓示》，羅睺羅博士著，顧法嚴譯，陳健忠(香港大學醫學院講師) `增訂補譯 <https://sites.google.com/site/herodrkwok/home/hero/zeng-ding-bu-yi-ben-shi-jia-de-qi-shi-reng-mian-fei-zeng-yue>`__ ，（香港九龍）顯密佛學會，1991。
 
+  - `Burning <http://obo.genaud.net/dhamma-vinaya/wp/sn/04_salv/sn04.35.028.bodh.wp.htm>`__ (Translated by **Bhikkhu Bodhi**)
+
+  - `The Fire Sermon <https://www.accesstoinsight.org/tipitaka/sn/sn35/sn35.028.nymo.html>`__ (translated from the Pali by **Ñanamoli Thera** © 1993)
+
+  - `Aflame <https://www.dhammatalks.org/suttas/SN/SN35_28.html>`__ (translated from the Pali by **Thanissaro Bhikkhu** © 1993)
+
+  - `In Flames! <http://obo.genaud.net/dhamma-vinaya/bd/sn/04_salv/sn04.35.028.olds.bd.htm>`__ (Translated and condensed from the Pali by **Michael Olds**)
+
+  - `On Fire <http://obo.genaud.net/dhamma-vinaya/pts/sn/04_salv/sn04.35.028.wood.pts.htm>`__ (Translated by **F. L. Woodward**, Edited by **Mrs. Rhys Davids**, Copyright: The Pali Text Society, **PTS**)
+
 ----
+
+.. _Sn_metta_ref:
 
 .. _慈經參考資訊:
 
@@ -923,11 +1110,13 @@ PS: 草稿
     -  `《清淨道論》Visuddhimagga pp.311~314. <http://nanda.online-dhamma.net/anya/visuddhimagga/visuddhimagga-chap09/#id3>`__
     - 《增壹阿含經》第47卷 放牛品第四十九今分品（一〇）(大正藏 2.806a)說：「臥安、覺安、不見惡夢、天護、人愛、不毒、不兵，水、火、盜賊終不侵枉，若身壞命終生梵天上。」（大正 2.806 上）( `CBETA <http://www.cbeta.org/>`__ , `T02, no. 125, p. 806, a18~23 <http://tripitaka.cbeta.org/T02, no. 125, p. 806, a18>`__ )。
 
-  * The Buddha's Words on Loving-Kindness/The Hymn of Universal Love/Loving-Kindness/The Discourse on Loving-kindness/Good Will {Sn 143-152} `Amaravati <https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.amar.html>`__ | `Buddharakkhita <https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.budd.html>`__ | `snp.1.08 <https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.nymo.html>`__ ; `khp. 9 <https://www.accesstoinsight.org/tipitaka/kn/khp/khp.9.nymo.html>`__ (Ñanamoli Thera) | `Piyadassi <https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.piya.html>`__ | `Thanissaro <https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html>`_ ]. ( `AccessToInsight <https://www.accesstoinsight.org/index.html>`__ )
+  * The Buddha's Words on Loving-Kindness/The Hymn of Universal Love/Loving-Kindness/The Discourse on Loving-kindness/Good Will {Sn 143-152} [ `Amaravati <https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.amar.html>`__ | `Buddharakkhita <https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.budd.html>`__ | `snp.1.08 <https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.nymo.html>`__ ; `khp. 9 <https://www.accesstoinsight.org/tipitaka/kn/khp/khp.9.nymo.html>`__ (Ñanamoli Thera) | `Piyadassi <https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.piya.html>`__ | `Thanissaro <https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html>`_ ]. ( `AccessToInsight <https://www.accesstoinsight.org/index.html>`__ )
  
   * 慈經注(Mettasuttava.n.nanaa); 明法比丘 譯： `直接閱讀 <http://www.dhammarain.org.tw/canon/Mettasuttavannana_cucinju.html>`__ （HTML）、 `PDF <http://www.dhammarain.org.tw/canon/Mettasuttavannana_cucinju.pdf>`__ （ `法雨道場 <http://www.dhammarain.org.tw/>`__ ）
 
 ------
+
+.. _Sn_Mangalasutta_ref:
 
 .. _吉祥經參考資訊:
 
@@ -957,6 +1146,8 @@ PS: 草稿
 
 ------
 
+.. _mn002_ref:
+
 .. _一切漏經參考資訊:
 
 - 《一切漏經》參考資訊
@@ -975,7 +1166,9 @@ PS: 草稿
 
   * 對照之阿含經典及其他： 中阿含10經 ；中阿含經卷第二，（一〇）中阿含七法品 `漏盡經 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0026_p0431c13>`__ 第十(初一日誦)，大正藏．第一冊．第26經．第431頁．下欄．第13行 ( CBETA ; `T01, no. 26, p. 431, c13 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0026_p0431c13>`__ )。 漏盡經 ( 台大獅子吼佛學專站 ； 阿含站專案列表 → 中阿含經 → 卷第二 )。 `增壹阿含40.6經 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T02n0125_p0740a25>`__ ；(淨諸漏)，增壹阿含經卷第三十四，七日品第四十之一，（六）, EA 40.6 ( `T02, no. 125, p. 740, a25 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T02n0125_p0740a25>`__ )。 `一切流攝守因經 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0031_p0813a05>`__ ；佛說一切流攝守因經，後漢 安息國 三藏 安世高 譯( `T01, no. 31, p. 813, a5 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0031_p0813a05>`__ )。 增支部 `6集58經/煩惱經 <http://agama.buddhason.org/AN/AN1189.htm>`__ (莊春江譯) 。增支部6集 `58經/煩惱經 <http://agama.buddhason.org/AN/AN1314.htm>`__ ; AN 6.58; 《增支部》6.58.
 
-  * `一切漏經注 <http://www.gaya.org.tw/publisher/fashin/%E9%A6%99%E5%85%89%E6%9B%B8%E9%84%89%E3%80%8A%E4%B8%80%E5%88%87%E6%BC%8F%E7%B6%93%E6%B3%A8%EF%BC%9A%E5%B7%B4%E6%BC%A2%E6%A0%A1%E8%AD%AF%E8%88%87%E5%B0%8E%E8%AB%96%E3%80%8B2015_0214.pdf>`__ ( 巴漢校譯與導論 ， 莊博蕙 博士 譯著，2014.12，香光書鄉， `香光資訊網 <http://www.gaya.org.tw/>`__ )
+  .. _mn02_att:
+
+  * `一切漏經注 <http://www.gaya.org.tw/publisher/fashin/asava_index.htm>`__ （ **巴漢校譯與導論** ， **莊博蕙** 博士 譯著，2014.12，香光書鄉， `香光資訊網 <http://www.gaya.org.tw/>`__ ， `PDF <http://www.gaya.org.tw/publisher/fashin/%E9%A6%99%E5%85%89%E6%9B%B8%E9%84%89%E3%80%8A%E4%B8%80%E5%88%87%E6%BC%8F%E7%B6%93%E6%B3%A8%EF%BC%9A%E5%B7%B4%E6%BC%A2%E6%A0%A1%E8%AD%AF%E8%88%87%E5%B0%8E%E8%AB%96%E3%80%8B2015_0214.pdf>`__ ， `佛學數位圖書館暨博物館書目 <http://buddhism.lib.ntu.edu.tw/DLMBS/search/search_detail.jsp?seq=548661>`__ 、 `國家圖書館書目 <http://aleweb.ncl.edu.tw/F?func=find-c&ccl_term=sys=003755430>`__ 、 `三民網路書店書訊 <http://www.sanmin.com.tw/product/index/004861714>`__ ）
 
 - 英譯：
 
@@ -988,6 +1181,8 @@ PS: 草稿
   * All Desires, Translated by Sister Uppalavanna: `buddhadust.com <http://www.buddhadust.com/m/dhamma-vinaya/mnl/mn/mn.002.upal.mnl.htm>`__ or `Mettanet Tipitaka Index <http://metta.lk/tipitaka/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/002-sabbasava-sutta-e1.html>`__
 
 ------
+
+.. _mn007_ref:
 
 .. _布喻經參考資訊:
 
@@ -1012,6 +1207,8 @@ PS: 草稿
 - 《布喻經》及其註解：〈 `心的十六種染污 <http://www.gayamagazine.org/article/detail/680>`__ 〉 ( `舊版連結 <http://www.gaya.org.tw/magazine/v1/2005/67/67s6.htm>`__ )，向智尊者 著，香光書鄉編譯組譯， `香光莊嚴六十七期/90年9月20日 <http://www.gayamagazine.org/magazine?seltype=magazineno&year=2001&no=92>`__ ( `舊版連結 <http://www.gaya.org.tw/magazine/v1/2005/67/67index.htm>`__ )（ `香光資訊網 <http://www.gaya.org.tw/>`__ ， `香光莊嚴雜誌 <http://www.gayamagazine.org/magazine>`__ ( `舊版連結 <http://www.gaya.org.tw/magazine/v1/2005/>`__ ) ）
 
 ------
+
+.. _mn010_ref:
 
 .. _念處經參考資訊:
 
@@ -1045,15 +1242,13 @@ PS: 草稿
 
   -  Majjhima Nikaaya I. 1. 10 Satipa.t.thaanasutta.m 10 Establishing Mindfulness `Translated by Sister Upalavanna <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/010-satipatthanai-sutta-e1.html>`__ (METTANET - LANKA之 `THE TIPITAKA <http://metta.lk/tipitaka/>`__ -- `Majjhima Nikaya <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ ) or `Majjhima Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ (awake.kiev.ua) 。
 
-- 另可參： `巴、漢、英對讀 <{filename}contrast-reading-dn22%zh.rst>`__ ：10 種譯本對讀〔 **本站** ：巴利原典(CSCD)、明法尊者(Ven. Bhikkhu Metta) 漢譯、莊春江 漢譯、蕭式球 漢譯、帕奧禪師弟子漢譯、Ven. Thanissaro Bhikkhu(英譯), Ven. Ānandajoti Bhikkhu(英譯)、Burma Piṭaka Association(英譯), Ven. Bhikkhu Anālayo (英譯, 漢譯) 〕
+- 另可參： `巴、漢、英對讀 <{filename}/articles/tipitaka/sutta/diigha/contrast-reading-dn22%zh.rst>`__ ：10 種譯本對讀〔 **本站** ：巴利原典(CSCD)、明法尊者(Ven. Bhikkhu Metta) 漢譯、莊春江 漢譯、蕭式球 漢譯、帕奧禪師弟子漢譯、Ven. Thanissaro Bhikkhu(英譯), Ven. Ānandajoti Bhikkhu(英譯)、Burma Piṭaka Association(英譯), Ven. Bhikkhu Anālayo (英譯, 漢譯) 〕
 
 ------
 
+.. _dn31_ref:
+
 .. _教授尸伽羅經參考資訊:
-
-- 《教授尸伽羅經》參考資訊
-
-  教授辛伽羅經（長部第31經，教授尸伽羅經、教化仙伽邏經、辛額勒經、教授尸伽羅越經、教授濕伽羅越經、對施嘉那的忠告， DN 31 Sigālovada Suttantaɱ, Sīgālasuttaṃ, Siṅgālasuttaṃ, Advice to Sigala, The Buddha's Advice to Sigalaka, The Discourse to Sigala, The Layperson's Code of Discipline, The Sigāla Homily, To Sigalaka: Advice to Lay People）
 
 - 《教授尸伽羅經》參考資訊
 
@@ -1069,17 +1264,17 @@ PS: 草稿
 
     - `禮拜六方 <http://www.dhammarain.org.tw/magazine/new/dhammarain-mag-006.htm#%E7%A6%AE%E6%8B%9C%E5%85%AD%E6%96%B9>`__ ── 佛教中在家居士的倫理關係 (HTML 直接閱讀)，　尊者　明法比丘 譯， `法雨雜誌第六期 <http://www.dhammarain.org.tw/magazine/new/dhammarain-mag-006.pdf>`__ (PDF), 2008.11， `法雨道場 <http://www.dhammarain.org.tw/>`__ 
 
-    * `教授尸伽羅越經 <http://tripitaka.cbeta.org/N08n0004_031>`__ ；通妙譯，元亨寺漢譯南傳大藏經；三一　教授尸伽羅越經;0181a( `CBETA <http://www.cbeta.org/>`__ , N08, no. 4, p. 181, a2)
+    - `教授尸伽羅越經 <http://tripitaka.cbeta.org/N08n0004_031>`__ ；通妙譯，元亨寺漢譯南傳大藏經；三一　教授尸伽羅越經; [0181a02] ( `CBETA <http://www.cbeta.org/>`__ , N08, no. 4, p. 181, a2)
 
-    * 對照之阿含經典及其他： 
+    - 對照之阿含經典及其他： 
 
-      - `善生經 <http://tripitaka.cbeta.org/T01n0001_011#0070a19>`__ ；後秦弘始年佛陀耶舍共竺佛念譯．大正藏．第 1 冊． No. 1．佛說長阿含經．卷第十一．（一六）佛說長阿含第二分善生經第十二．[0070a( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 70, a19)
+      * `善生經 <http://tripitaka.cbeta.org/T01n0001_011#0070a19>`__ ；後秦弘始年佛陀耶舍共竺佛念譯．大正藏．第 1 冊． No. 1．佛說長阿含經．卷第十一．（一六）佛說長阿含第二分善生經第十二．[0070a19] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 70, a19)
 
-      - `善生子經 <http://tripitaka.cbeta.org/T01n0017_001>`__ ；西晉 沙門 支法度 譯．大正藏．第 1 冊． No. 17．佛說善生子經．[0252b( `CBETA <http://www.cbeta.org/>`__ , T01, no. 17, p. 252, b6)
+      * `善生子經 <http://tripitaka.cbeta.org/T01n0017_001>`__ ；西晉 沙門 支法度 譯．大正藏．第 1 冊． No. 17．佛說善生子經．[0252b06] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 17, p. 252, b6)
 
-      - `尸迦羅越六方禮經 <http://tripitaka.cbeta.org/T01n0016_001>`__ ；西晉 沙門 支法度 譯．大正藏．第 1 冊． No. 16．佛說尸迦羅越六方禮經．[0250c( `CBETA <http://www.cbeta.org/>`__ , T01, no. 16, p. 250, c11)
+      * `尸迦羅越六方禮經 <http://tripitaka.cbeta.org/T01n0016_001>`__ ；西晉 沙門 支法度 譯．大正藏．第 1 冊． No. 16．佛說尸迦羅越六方禮經．[0250c11] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 16, p. 250, c11)
 
-      - `善生經 <http://tripitaka.cbeta.org/T01n0026_033#0638c06>`__ ；東晉 罽賓三藏 瞿曇僧伽提婆 譯．大正藏．第 1 冊． No. 26．中阿含經卷第三十三．（一三五）大品善生經第十九(第三念誦)；《中阿含135經》;0638c( `CBETA <http://www.cbeta.org/>`__ , T01, no. 26, p. 638, c6)
+      * `善生經 <http://tripitaka.cbeta.org/T01n0026_033#0638c06>`__ ；東晉 罽賓三藏 瞿曇僧伽提婆 譯．大正藏．第 1 冊． No. 26．中阿含經卷第三十三．（一三五）大品善生經第十九(第三念誦)；《中阿含135經》; [0638c06] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 26, p. 638, c6)
 
   * 英譯(English)：
 
@@ -1093,15 +1288,21 @@ PS: 草稿
 
     - WP: To Sigalaka: Advice to Lay People, Walshe, trans., 461 ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ )
 
+- `巴利語《教授尸迦羅經》與四部漢譯之對照研究 <https://in.ncu.edu.tw/~dsgwu/ming/singala-sutta.pdf>`__ (PDF)，Rev: H. Punnaji（釋明圓），圓光佛學研究所畢業論文，民國九十五年五月(2006-05-22)
+
 ------
+
+.. _dhp_selected_ref:
 
 .. _法句經參考資訊:
 
 - 《法句經》參考資訊
 
-`《法句經》 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp/>`__ （Dhammapada, `小部 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/khuddaka-nikaaya/>`__ ／ 2. 法句(經)，英譯 The Words of Truth, The Buddha's Path of Wisdom, Inward Path, The Word of the Doctrine，《法句經》巴、漢、英文 `多譯本對讀 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading/>`__ ）
+  `《法句經》 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp/>`__ （Dhammapada, `小部 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/khuddaka-nikaaya/>`__ ／ 2. 法句(經)，英譯 The Words of Truth, The Buddha's Path of Wisdom, Inward Path, The Word of the Doctrine，《法句經》巴、漢、英文 `多譯本對讀 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading/>`__ ）
 
 ------
+
+.. _dn16_selected_ref:
 
 .. _大般涅槃經參考資訊:
 
@@ -1109,13 +1310,14 @@ PS: 草稿
 
   `大般涅槃經 <http://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/dn16/>`__ （長部第16經， DN 16 Mahāparinibbānasuttaṃ, 般涅槃大經, 大般湼槃經, Advice to Sigala, The Buddha's Advice to Sigalaka, The Discourse to Sigala, The Layperson's Code of Discipline, The Sigāla Homily, To Sigalaka: Advice to Lay People）
 
+
 - 漢譯：
 
-  * `般涅槃大經 <{filename}dn16-chuangcj%zh.rst>`__ ；莊春江 (original: 原始出處)
+  * `般涅槃大經 <{filename}/articles/tipitaka/sutta/diigha/dn16-chuangcj%zh.rst>`__ ；莊春江 (original: 原始出處)
 
-  * `長部．十六　大般湼槃經；蕭式球 <{filename}dn16-siusk%zh.rst>`__  (original: 原始出處)
+  * `長部．十六　大般湼槃經；蕭式球 <{filename}/articles/tipitaka/sutta/diigha/dn16-siusk%zh.rst>`__  (original: 原始出處)
 
-  * `南傳大般涅槃經 <{filename}dn16-pachow-full%zh.rst>`__ ；巴宙譯 (1971 AD)。
+  * `南傳大般涅槃經 <{filename}/articles/tipitaka/sutta/diigha/dn16-pachow-full%zh.rst>`__ ；巴宙譯 (1971 AD)。
 
   * 大般涅槃經；釋達和（《巴利語佛典精選》）
 
@@ -1143,25 +1345,25 @@ PS: 草稿
 
     * 部份：中阿含經 第35卷　梵志品第二 `（一四二）中阿含梵志品雨勢經第一 <http://tripitaka.cbeta.org/T01n0026_035>`__ ，東晉　罽賓三藏　瞿曇僧伽提婆(Gautama Saṃghadeva)譯（ `CBETA <http://www.cbeta.org/>`__ ）
 
-    * 部份：第 2 冊　No. 0125　增壹阿含經　卷第三十四　七日品第四十之一　（二）  `[0738a11] <http://tripitaka.cbeta.org/T02n0125_034>`__ ，東晉 瞿曇僧伽提婆　譯（ `CBETA <http://www.cbeta.org/>`__ ）
+    * 部份：第 2 冊　No. 0125　增壹阿含經　卷第三十四　七日品第四十之一　（二） `[0738a11] <http://tripitaka.cbeta.org/T02n0125_034>`__ ，東晉 瞿曇僧伽提婆　譯（ `CBETA <http://www.cbeta.org/>`__ ）
 
 - 英譯(English)：
 
-  * `Last Days of the Buddha <{filename}dn16-vaji%zh.rst>`__ (complete text), translated from the Pali by Sister Vajira & Francis Story ( `PDF <{filename}/extra/tipitaka/sutta/digha/dn.16.vaji.pdf>`__ ) 
+  * `Last Days of the Buddha <{filename}/articles/tipitaka/sutta/diigha/dn16-vaji%zh.rst>`__ (complete text), translated from the Pali by Sister Vajira & Francis Story ( `PDF <{filename}/extra/tipitaka/sutta/digha/dn.16.vaji.pdf>`__ ) 
 
-  * `The Great Discourse on the Total Unbinding <{filename}dn16-than%zh.rst>`__ (excerpt), DN 16 PTS: D ii 137 chapters 5-6, Translated from the Pali by **Ven. Thanissaro Bhikkhu** ( **坦尼沙羅尊者** )
+  * `The Great Discourse on the Total Unbinding <{filename}/articles/tipitaka/sutta/diigha/dn16-than%zh.rst>`__ (excerpt), DN 16 PTS: D ii 137 chapters 5-6, Translated from the Pali by **Ven. Thanissaro Bhikkhu** ( **坦尼沙羅尊者** )
 
   * `The Discourse about the Great Emancipation <{filename}/extra/tipitaka/sutta/digha/aanandajoti/index-TheDiscourse_about_theGreatEmancipation.html>`__ ;  `PDF </extra/tipitaka/sutta/digha/aanandajoti/dn16-anandajoti-Eng.pdf>`__ (A Translation of Mahāparinibbānasutta (DN 16); June, 2008 / 2552, edited and translated by **Ven.Ānandajoti Bhikkhu** ) 
 
   * Discourse on the Great Event of the Passing away of the Buddha, Translation by Myanmar Authors, SOURCE: "TEN SUTTAS FROM DIGHA NIKAYA", BURMA PITAKA ASSOCIATION, 1984: `part 1 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-I.html>`__ , `part 2 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-II.html>`__ , `part 3 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-III.html>`__ , `part 4 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-IV.html>`__ 
 
-- `巴、漢、英多譯本對讀 <{filename}contrast-reading-dn16%zh.rst>`__
+- `巴、漢、英多譯本對讀 <{filename}/articles/tipitaka/sutta/diigha/contrast-reading-dn16%zh.rst>`__
 
 ----
 
 - 佛典選譯（ `詳細註解版 <{filename}what-the-Buddha-taught-selected-texts%zh.rst>`__ ）（陸續更新、編輯中！）
 
-- 佛典選譯（ `簡易註解版 <{filename}what-the-Buddha-taught-selected-texts-simple-fn%zh.rst>`__ ）  
+- 佛典選譯（純經文，唱頌用）（編輯中）
 
 ----
 
@@ -1193,9 +1395,221 @@ PS: 草稿
 
 ------
 
-※※※　請參考：  `編譯弁言 <{filename}what-the-Buddha-taught%zh.rst#編譯弁言>`_ （ `本書首頁 <{filename}what-the-Buddha-taught%zh.rst>`__ ）　※※※
+※※※　請參考：  `編譯弁言 <{filename}what-the-Buddha-taught-2020%zh.rst#nanda-preface>`__ （ `本書首頁 <{filename}what-the-Buddha-taught-2020%zh.rst>`__ ）　※※※
+
+------
+
+註釋：
+~~~~~~~
+
+.. [dhm-ck00] 另請參考 參考資訊_ 中之 轉法輪經參考資訊_ 。
+
+.. [dhm-ck01] 「八聖道；八正道；八真行；八真直行；賢聖八道品；賢聖八品道」，南傳作「八支聖道」(ariyo aṭṭhaṅgiko maggo, Ariyañcaṭṭhaṅgikaṃ maggaṃ)，菩提比丘長老英譯為「八層的高潔之路」(Noble Eightfold Path)。
+
+.. [dhm-ck02] 正思惟、正志 sammāsaṅkappa， right thoughts or intentions。Saṅkappa，思惟，意圖，目的（thought，intention，purpose，plan）。
+
+.. [dhm-ck03] sokaparidevadukkhadomanassupāyāsā 古譯： `愁、悲、苦、憂、惱 <http://tripitaka.cbeta.org/ko/T27n1545_024#0121c07>`__ （ `T27n1545_024 阿毘達磨大毘婆沙論第24卷 <http://tripitaka.cbeta.org/ko/T27n1545_024>`__ 
+
+          | 近代另譯：
+          | 愁、悲、苦、憂、絕望；
+          | 憂、悲、苦、惱、哀；
+          | 憂、哀、痛、悲、慘苦；
+          | 愁、悲、苦、憂、傷心；
+          | 苦惱、哀傷、痛苦、失落、絕望。
+          | 
+
+.. [dhm-ck04] appiyehi sampayogo 與不愉快的人、事、物在一起：一般譯「怨憎會」。
+
+.. [dhm-ck05] piyehi vippayogopi 和愉快的人、事、物分離：一般譯「愛別離」。
+
+.. [dhm-ck06] 「五受陰；五盛陰」，南傳作「五取蘊」(pañcannaṃ upādānakkhandhānaṃ, pañcupādānakkhandhā)，羅睺羅長老英譯為 the five aggregates of attachment「由執著而生起的五種聚合」; 菩提比丘長老則英譯為「所執著的五個集合體」(five aggregates subject to clinging)
+
+.. [dhm-ck08] 「欲的渴愛」(kāmataṇhā，另譯為「欲愛」)，菩提比丘長老英譯為「為求感官快樂的渴望」(craving for sensual pleasures)。
+
+.. [dhm-ck09] 「有的渴愛」(bhavataṇhā，另譯為「有愛；存在的渴愛」)，菩提比丘長老英譯為「為求存在的渴望」(craving for existence)。「有」(bhava)即十二緣起的「有支」。
+
+.. [dhm-ck10] 「虛無的渴愛」(vibhavataṇhā，另譯為「無有愛；非有愛」)，菩提比丘長老英譯為「為求根絕的渴望」(craving for extermination)。
+
+.. [dhm-ck11] 「無餘褪去與滅」(asesavirāganirodho)，菩提比丘長老英譯為「無殘餘褪去與終止」(the remainderless fading away and ceasing)。
+
+.. [dhm-ck12] 「斷念」(paṭinissagga, paṭinissajjati，另譯為「捨遣；捨離；定棄」)
+
+.. [dhm-ck13] 「無依住」(anālaya，另譯為「無執著；非住；非阿賴耶」)
+.. [dhm-ck14] 「滅道跡(SA)；滅道(MA)」，南傳作「導向滅道跡」(nirodhagāminiṃ paṭipadaṃ)。
+
+.. [dhm-ck15] 「成眼、成智(MA)；眼生、智生(AA)」，南傳作「作眼、作智」(cakkhukaraṇī ñāṇakaraṇī)。
+
+.. [dhm-ck16] 「生眼、智、明、覺(SA)；生智、生眼、生覺、生明、生通、生慧、生證(DA)；眼生、智生、明生、覺生、光生、慧生(AA)」，南傳作「眼生起，智生起，慧生起，明生起，光生起」(cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi)。 
+
+.. [dhm-ck17] 「遍知」(parijānaṃ, pariñña, parijānāti)，菩提比丘長老英譯為：「完全地理解」(fully understanding)。
+
+.. [dhm-ck18] 「苦集」又譯：苦因、苦的起因。
+
+.. [dhm-ck19] 「苦滅」又譯：苦的止息。
+
+              「證得」又譯：作證、證知、直證、證悟。
+
+.. [dhm-ck20] 「苦滅之道」又譯：導向苦滅道跡、導至苦滅的道、趨向苦止息之道、達致苦的止息之道。
+
+              「修習」又譯：追隨 follow (cultivate)。
+
+ .. [dhm-ck21] 「三轉」(tiparivaṭṭa)，菩提比丘長老英譯為「三階段」(three phases)，即對四聖諦第一轉的「知」，第二轉的「應遍知/應斷/應修/應證」以及第三轉的「已遍知/已斷/已修/已證」。後來「慧遠」(523～592AD)在其《大乘起信論義疏》中，分別以「示轉」、「勸轉」、「證轉」稱之，也很貼切。
+
+.. [dhm-ck22] 「十二行相」(dvādasākāra)，菩提比丘長老英譯為「十二種情況」(twelve aspects)，這就是四聖諦在每一轉時的內容。
+
+              可以由以上四段看到，每一聖諦有相應的三種知識層面：
+
+              | 1. 知道它是聖諦（sacca-ñāṇa 聖諦智、真理智）。
+              | 2. 知道有關這聖諦是有一種行為或功能要去完成（kicca-ñāṇa 應被作的智）。
+              | 3. 知道有關這聖諦的那種行為或功能已經完成了（kata-ñāṇa已實現的智）。
+              | 當這三個層面應用到四個聖諦上，便得到十二種方法。
+
+.. [dhm-ck23] 「沙門」(samaṇa)是婆羅門以外的出家修道者之通稱。
+
+.. [dhm-ck24] 「婆羅門」(brāhmaṇa，另譯為「梵志：以求往生梵天為志者」)，為佛陀時代傳統宗教的宗教師，後來成為一個種姓階層，地位高於王族(剎帝利)，但在阿含經中，其地位顯然已在王族之下。
+
+.. [dhm-ck25] 「世代」(pajāya)，水野弘元《巴利語辭典》作「人人」(pajā)，菩提比丘長老英譯為「這一世代」(this generation)。或譯「世間」。
+
+.. [dhm-ck26] 「智見；智與見」(ñāṇadassanaṃ, Ñāṇañca…dassanaṃ)，菩提比丘長老英譯為「理解與眼光」(the knowledge and vision)。按：此處的「見」(dassanaṃ)為名詞「看見」(動詞dassati)，指義理的看見(認識到；領悟到)，與觀念、見解的「見」(diṭṭhi)不同。
+
+.. [dhm-ck27] natthidāni punabbhavo 從此不再受後有，另譯：沒有再有（未來的投生）、不再有再生了。
+
+.. [as00] 另請參考 參考資訊_ 中之 燃燒經參考資訊_ 。 
+
+.. [as01] 「一時」，南傳作「有一次」(ekaṃ samayaṃ，逐字譯為「一時」)。
+
+.. [as02] 「世尊；眾祐」，南傳作「世尊」(bhagavā，音譯為「婆伽婆；婆伽梵；薄伽梵」，義譯為「有幸者」，古譯為「尊祐」)，菩提比丘長老英譯為「幸福者」(the Blessed One)。請參看《學佛的基本認識》〈 `世尊譯詞的探討 <http://agama.buddhason.org/book/bb/bb21.htm>`__ 〉。
+
+.. [as04] Gayāsīsa 象頭山 （山頂似象頭，故有此名）。此山座落於中印度摩揭陀國伽耶城附近。即今伽耶巿（巴特那巿西南九十六公里處）西南的婆羅門優尼山（Brahmayoni）。
+
+.. [as05] 「緣」，南傳作「為緣；緣」(paccayā，另有「資具；必需品」之意)，菩提比丘長老英譯為「為條件」(as condition)，智髻比丘長老英譯為「由於」(because of, MN.31)。
+
+.. [as06] 「多聞聖弟子」、多聞法義的聖弟子，南傳作「已受教導的聖弟子」(sutavā ariyasāvako)，菩提比丘長老英譯為「已受教導之高潔的弟子」(the instructed noble disciple)。其中之「多聞」不只是「多聽」而已，應該含有受教導而實踐的意義，所以譯為「已受教導」。在佛教中，「聖弟子」多指證入初果以上的聖者，但有時也泛指一般佛陀弟子。
+
+.. [as07] 原文為 virajjati：「離染」，菩提比丘長老英譯為「冷靜；不為情所動」。
+
+.. [as08] 原文為virāga：南傳作「離貪；褪去」，菩提比丘長老英譯為「冷靜」(dispassion)，或「褪去」(fading away)。雜阿含經譯為「離欲」。
+
+.. [as09] 「解脫知見(SA/DA)；便知解脫(MA)；解脫見慧/解脫智(AA)」，南傳作(i)「有『[這是]解脫』之智」(vimuttamiti ñāṇaṃ hoti)，菩提比丘長老英譯為「出現『這是已被釋放』的理解(智)」(there comes the knowledge:"It's liberated")。顯然「有『[這是]解脫』之智」即「解脫智見」，是體驗解脫後的下一個心念(心路)：知道自己已解脫了，亦即「無學正智」。  
+
+.. [as10] 「我生已盡(SA)；生已盡(MA)；生死已盡(DA/AA)」，南傳作「出生已盡」(khīṇā jāti)。  
+
+.. [as11] 「梵行已立」，南傳作「梵行已完成」(vusitaṃ brahmacariyaṃ)，菩提比丘長老英譯為「聖潔的生活已被生活」(the holy life has been lived)。  
+
+.. [as12] 「所作已作(SA)；所作已辦(GA/MA/AA/DA)」，南傳作「應該作的已作」。  
+
+.. [as13] 「自知不受後有/不復轉還有(SA)；不更受有(MA)；不受後有/更不受有(DA)；更不復受有/更不復受胎(AA)」，南傳作「不再有這樣[輪迴]的狀態」。  
+
+.. [as14] 「說此法時/說是法時(SA)；說此法時(MA/DA/AA)」，南傳作「而當這個解說被說時」。
+
+.. [mt00] 另請參考 參考資訊_ 中之 慈經參考資訊_ 。 
+
+.. [mt01] sakka 能幹的（臺語：有才調u7 cai5 tiau7, 伉 khiàng, k‘iaŋʟ ㄎ一ㄤˋ ），可能的（able, possible），是有能力，精練、勝任之謂。具有此特質可精鍊於辦事，或精鍊於辦道。
+
+.. [mt04] suvaco 好教(ㄐ一ㄠ)：是於他，容易調教。另譯：易教、善順、恭順。
+
+.. [mt05] subharo 是容易被扶養，好護持的人。臺語：好款待的人。
+
+.. [mt06] 善護諸根、寂靜諸根、攝受六根：眼、耳、鼻、舌、身、意收斂，不耽溺於欲望。對感官欲樂有自制力。
+
+.. [mt09] kulesvananugiddho 不耽溺俗家、不貪戀眷屬：在家人不耽溺居住處(俗家)；比丘則是不貪戀在家人的利養、住所，及攀緣在家人。
+
+.. [mt14] 梵住(brahmavihāra)︰安住於慈悲喜捨，四無量心。
+
+.. [mt15] 引導離開了；已調伏。
+
+.. [mt16] 邪見：錯誤的見解，可以造成自他的痛苦。惡見甚至有導致下一生投生於三惡道的潛在危機。
+
+.. [mt17] 持戒：在家眾受持五戒、八戒；比丘受持227戒。戒有「清涼」義，使身口意三業熱惱止息。
+
+.. [mt18] 智見：觀察身心現象的無常（沒有永恆）、苦（壓迫）、無我（沒有永遠不變的實體），行者需具備近行定的定力。
+
+.. [mg00] 另請參考 參考資訊_ 中之 吉祥經參考資訊_ 。 
+
+.. [mg01] 舊譯為「如是我聞(SA/DA)；我聞如是(MA)；聞如是(AA)」，南傳作「我聽到這樣」，菩提比丘長老英譯為「我聽到這樣」。南傳《相應部》多數經只簡略地指出發生地點，應該是比較早期的風貌。
+
+.. [mg02] 佛陀或他的弟子遊化四方時，暫時駐在某一處；稱為駐錫。詳細說明可參考《中華佛教百科全書》或《佛光大辭典》。
+
+.. [mg03] 據註釋書，諸天人談十二年「什麼吉祥？」沒有結論。因此，帝釋天王派天子(devaputta)，來問世尊吉祥法。
+
+.. [mg04] 一夜三分的最後夜分(2am~6am)，凌晨。
+
+.. [mg05] 行禮、鞠躬、敬禮世尊後。「敬禮」，日譯作：挨拶(aisatzu)。
+
+.. [mg07] 括弧內的字原巴利文沒有，或另有意義；譯者為了使語意更清晰所加、註。
+
+.. [mg11] 選擇適宜的居住環境，指有四眾（比丘、比丘尼、優婆塞、優婆夷）住處，可做功德處。
+
+.. [mg13] 自持正誓願：即「四攝事」的「利行」：無戒立戒，無信令信，慳者令捨，惡智令建立正智。（KhA.134.；《雜阿含668經》）
+
+.. [mg15] 調伏身、語、意。
+
+.. [mg16] 口出善言語，指離妄語、兩舌、惡口、綺語，及善於表達佛法。《經集》(Sn.3-3./vv.450-454)：「(1)說善語。(2)說合法之語，不說非法之語。(3)說可愛語，不說不可愛語。(4)說真實語，不說虛妄語。」
+
+.. [mg19] 自己的財產能布施給他人。
+
+.. [mg20]  行正道，是指十善業道。
+
+.. [mg24] 抑止作殺、盜、邪淫、妄語之惡。
+
+.. [mg25] 例如：不飲酒、不用麻醉毒品、不抽煙、不嚼檳榔等等。
+
+.. [mg29] 知足於衣服、飲食、醫藥、臥具。
+
+.. [mg30] 感恩圖報。能記憶的不管小恩、大恩。（佛說世間兩種人難得：知恩、報恩）（A.2.11./I,87.)
+
+.. [mg31] 適當時候聽聞佛法。「適當時候」指掉舉、產生欲望時，其時可以聞法得樂。
+
+.. [mg34] 參訪沙門，供養修福、問法、決疑。沙門：在此指佛陀的出家弟子，或已止息煩惱者。
+
+.. [mg36] （鍛練）自制，對自己感官的克制；即古譯之「攝受根門」。又，另有一意：「熱心、精進」，全心全意投入修善、滌除煩惱。
+
+.. [mg37] 梵行：離淫慾。
+
+.. [mg38] 曉了四聖諦（苦、苦因、苦滅、苦滅的方法）。
+
+.. [mg39] 親證涅槃，即澈底滅除貪、瞋、癡。
+
+.. [mg40] 接觸世法，即面對八風（利、衰、譽、毀、稱、譏、樂、苦）；又曰『得、失、毀、譽、稱、譏、苦、樂』等八法，心不動搖。
+
+.. [mg42] 無染︰心離貪瞋癡之垢染。
+
+.. [mg43] 安穩：無畏、無不幸的事。離欲、有、見、無明，故安穩。
+
+.. [sba00] 另請參考 參考資訊_ 中之 一切漏經參考資訊_ 。 
+
+.. [sba04] 「比丘」(bhikkhu，義譯為「乞食者」)，女性音譯為「比丘尼」(bhikkhunī)，菩提比丘長老英譯照錄不譯。按：「比丘」與「乞食者」(bhikkhaka)在通俗話語中是同義詞，但佛教中的「比丘」有其特定條件與意義，形成「比丘」是「乞食者」，但「乞食者」不一定都是「比丘」。另外，「比丘」的台語發音，與巴利原音幾乎等同，玄奘法師則音譯為「苾芻」。
+
+.. [sba05] 「尊師！」，另譯為「大德！」。
+
+.. [sba06] 「漏」，南傳作「煩惱」(āsavaṃ，另譯為「漏；流漏」，名詞)，菩提比丘長老英譯為「污染」(taint)。其字面上的意思是「流漏掉；漏出來」，引申為「(生死)煩惱」的異名。
+
+.. [sba07] 「律儀」，南傳作「自制」(saṃvaraṃ，另譯為「防護；律儀；攝護」)，菩提比丘長老英譯為「自制」(restraint)。
+
+.. [sba08] 「善思；善思念之」，南傳作「你們要好好作意」(sādhukaṃ manasi karotha，直譯為「你們要善(十分地)作意」)，菩提比丘長老英譯為「仔細地注意」(attend closely)。按：「作意」(manasikaroti)為「意」與「作」的複合詞，可以是「注意」，也可以有「思惟」的意思。
+
+.. [sba09] 「大德！」。按：這是對戒臘較高者的稱呼。
+
+.. [vatthu00] 另請參考 參考資訊_ 中之 布喻經參考資訊_ 。 
+
+.. [vatthu99] 以上的河、渡口與池是婆羅門教視為聖潔的地方。人們常到那裏沐浴，希望清洗自己的罪業。巴呼迦河Bāhuka，阿提迦渡口Adhikakka，伽耶池Gaya，孫陀利迦河Sundarika，舍羅舍提河Sarassati，波耶迦渡口Payāga，婆呼摩提河Bāhumati。前三者為河流中的淺灘，餘四者為河流。
+
+.. [stpt00] 另請參考 參考資訊_ 中之 念處經參考資訊_ 。 
+
+.. [sgl00] 另請參考 參考資訊_ 中之 教授尸伽羅經參考資訊_ 。 
+
+.. [dhp00] 另請參考 參考資訊_ 中之 法句經參考資訊_ 。 
+
+.. [mprnbn00] 另請參考 參考資訊_ 中之 大般涅槃經參考資訊_ 。 
+
+.. [mprnbn01] 無常是 所有依緣事物（一切有為法）的本質。
+
+------
+
+※※※　請參考：  `編譯弁言 <{filename}what-the-Buddha-taught-2020%zh.rst#nanda-preface>`__ （ `本書首頁 <{filename}what-the-Buddha-taught-2020%zh.rst>`__ ）　※※※
 
 ..
+  2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
   2019-02-06 post
   draft 12-05
   11-10~ 2018 create rst

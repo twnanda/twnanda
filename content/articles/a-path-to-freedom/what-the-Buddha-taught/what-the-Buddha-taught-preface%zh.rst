@@ -3,7 +3,7 @@
 ###################################################
 
 :date: 2019-02-06
-:modified: 2019-02-06
+:modified: 2020-08-23
 :author: 化普樂‧羅睺羅 尊者(Ven. Walpola Rahula Thero)著; Nanda 編譯
 :tags: 前言, 自序, 佛陀的啟示, What the Buddha Taught, 化普樂‧羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 蘇錦坤, 陳健忠, 釋迦的啟示, 佛當初教的是什麼, 佛‧當初教的是什麼
 :category: 解脫之道
@@ -59,7 +59,7 @@ Nanda 編譯 [fn2]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_
 
 ------
 
-※※※　請參考：  `編譯弁言 <{filename}what-the-Buddha-taught%zh.rst#nanda-preface>`_ （ `本書首頁 <{filename}what-the-Buddha-taught%zh.rst>`__ ）　※※※
+※※※　請參考：  `編譯弁言 <{filename}what-the-Buddha-taught-2020%zh.rst#nanda-preface>`_ （ `本書首頁 <{filename}what-the-Buddha-taught-2020%zh.rst>`__ ）　※※※
 
 ------
 
@@ -68,7 +68,7 @@ Nanda 編譯 [fn2]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_
 
 .. [fn1] Nanda 補述：教內亦有以「南傳佛教」稱呼「上座部佛教」，「北傳佛教」稱呼「大乘佛教」者。
 
-.. [fn2] 本書編輯乃基於英文原著，主要採用　 `法嚴法師 <{filename}what-the-Buddha-taught%zh.rst#ven-fa-yen>`__ （筆名：顧法嚴）之譯本；並參考 鄭於中 之譯本。 序言（保羅‧戴密否 (Paul Demiville)）及前言（自序）兩篇，則參考 蘇錦坤、陳健忠兩位學者之譯文。註釋部份亦參考蘇錦坤者；「經典選譯」則參考巴利原典、英文原著及陳健忠等等者。
+.. [fn2] 本書編輯乃基於英文原著，主要採用　 `法嚴法師 <{filename}what-the-Buddha-taught-2020%zh.rst#ven-fa-yen>`__ （筆名：顧法嚴）之譯本；並參考 鄭於中 之譯本。 序言（保羅‧戴密否 (Paul Demiville)）及前言（自序）兩篇，則參考 蘇錦坤、陳健忠兩位學者之譯文。註釋部份亦參考蘇錦坤者；「經典選譯」則參考巴利原典、英文原著及陳健忠等等者。
 
          承蒙　 `秀定法師 <https://hdl.handle.net/11296/rkcsmf>`_ 、 羅慶龍老師( `1 <https://blog.xuite.net/dhammarain/blog/171827349-%E3%80%90%E9%98%BF%E6%AF%97%E9%81%94%E6%91%A9%E8%AC%9B%E5%BA%A7%E3%80%91%E6%8C%87%E5%B0%8E%E8%80%81%E5%B8%AB+-+-+%E7%BE%85%E6%85%B6%E9%BE%8D%E8%80%81%E5%B8%AB%E7%9A%84%E5%85%A8%E9%83%A8%E8%A6%96%E8%A8%8A>`_ , `2 <ftp://ttbc.no-ip.org/download3/%E7%BE%85%E6%85%B6%E9%BE%8D%E8%80%81%E5%B8%AB/%E6%94%9D%E9%98%BF%E6%AF%97%E9%81%94%E6%91%A9%E7%BE%A9%E8%AB%96(%E7%BE%85%E6%85%B6%E9%BE%8D%E8%80%81%E5%B8%AB%E4%B8%BB%E8%AC%9B).html>`_ , `3 <http://ttbc.no-ip.org/images/a/l3.html>`__ ; `4 <http://ttbc.no-ip.org/download3/index.php?dir=download%2F%E7%BE%85%E6%85%B6%E9%BE%8D%E8%80%81%E5%B8%AB>`__ )、  `莊博蕙 博士 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst#mn02-att>`__ 、故　 `賴明亮教授 <http://bbc029.web3.ncku.edu.tw/p/412-1131-17517.php?Lang=zh-tw>`_ （ `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休）、 鄭晴如、 林宗亮、 陳秋雯等諸位善知識，提供寶貴意見、指導、協助；在此一併致上感恩之意。書中或有疏漏、錯繆，蓋為編譯者之責；尚祈 各方賢達不吝 `來函 <mailto:tw.nanda@gmail.com>`__ 賜教！
 
@@ -78,15 +78,26 @@ Nanda 編譯 [fn2]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_
 
          - 《釋迦的啓示》，羅睺羅博士著，顧法嚴譯，陳健忠(香港大學醫學院講師) `增訂補譯 <https://sites.google.com/site/herodrkwok/home/hero/zeng-ding-bu-yi-ben-shi-jia-de-qi-shi-reng-mian-fei-zeng-yue>`__ ，（香港九龍）顯密佛學會，1991。
 
-           * 同版異名：《佛當初教的是什麼？》，羅浮羅博士著/郭兆明博士推薦，（香港）聚賢館文化有限公司出版，1997年12月 `第一版第一次印刷 <https://hk.auctions.yahoo.com/item/%E4%BD%9B%E7%95%B6%E5%88%9D%E6%95%99%E7%9A%84%E6%98%AF%E4%BB%80%E9%BA%BC-%E7%BE%85%E6%B5%AE%E7%BE%85%E5%8D%9A%E5%A3%AB%E8%91%97-%E9%83%AD%E5%85%86%E6%98%8E%E5%8D%9A%E5%A3%AB%E6%8E%A8%E8%96%A6-%E8%81%9A%E8%B3%A2%E9%A4%A8-100453517068>`__ 、 《佛當初教的是什麼？》 = What the Buddha taught, 羅睺羅博士著；釋法嚴、陳健忠中譯。986-8009-15-4 NT＄200; 臺灣．臺北市:英特發出版; 臺北縣汐止市:聯經總經銷, 民91(西元2002), 初版, 275面 :圖 ;19公分
+           * 同版異名：《佛當初教的是什麼？》，羅浮羅博士著/郭兆明博士推薦，（香港）聚賢館文化有限公司出版，1997年12月 `第一版第一次印刷 <https://hk.auctions.yahoo.com/item/%E4%BD%9B%E7%95%B6%E5%88%9D%E6%95%99%E7%9A%84%E6%98%AF%E4%BB%80%E9%BA%BC-%E7%BE%85%E6%B5%AE%E7%BE%85%E5%8D%9A%E5%A3%AB%E8%91%97-%E9%83%AD%E5%85%86%E6%98%8E%E5%8D%9A%E5%A3%AB%E6%8E%A8%E8%96%A6-%E8%81%9A%E8%B3%A2%E9%A4%A8-100453517068>`__ (失效鍊結，2020-08-23)、 《佛當初教的是什麼？》 = What the Buddha taught, 羅睺羅博士著；釋法嚴、陳健忠中譯。986-8009-15-4 NT＄200; 臺灣．臺北市:英特發出版; 臺北縣汐止市:聯經總經銷, 民91(西元2002), 初版, 275面 :圖 ;19公分
 
-         - 英文版(English): 
+        - 英文版(English): 
 
-           * HTML: Tu Viện Quảng Đức (QUANG DUC BUDDHIST MONASTERY): https://quangduc.com/a32773/what-the-buddha-taught; sites.google: https://sites.google.com/site/rahulawhatthebuddha/ 
+          * HTML: 
 
-           * PDF(Revised edition): `this site <{filename}/extra/a-path-to-freedom/What the Buddha Taught-English.pdf>`__ (with bookmark), `site of Internet Archive <https://archive.org/details/WhatTheBuddhaTaught_201606>`__, `site of A Handful of Leaves <http://www.ahandfulofleaves.org/documents/what%20the%20buddha%20taught_rahula.pdf>`__ or `site of Purdue Buddhist Society <https://web.ics.purdue.edu/~buddhism/docs/Bhante_Walpola_Rahula-What_the_Buddha_Taught.pdf>`__ 
+            - Tu Viện Quảng Đức (QUANG DUC BUDDHIST MONASTERY): https://quangduc.com/a32773/what-the-buddha-taught (including Vietnamese version, Typing: Christina Quang Nhat Hy; Layout: Pho Tri; Created: 01-04-2007; Update: 10-11-2007)
+
+            - google: https://sites.google.com/site/rahulawhatthebuddha/ (Text from the electronic edition by PBS; Proofreading by F. Ruzsa based on the undated; ‘Not for sale’ edition by Grove Press, Inc., New York. Online version by V. Máthé)
+
+          * PDF(Revised edition): 
+
+            - This site: `Here <{filename}/extra/a-path-to-freedom/What-the-Buddha-Taught-English.pdf>`__ (**with bookmark**, the second and enlarged edition, 1974; from `The Corporate Body of the Buddha Educational Foundation <http://ftp.budaedu.org/ebooks/pdf/EN132.pdf>`__ Taipei, Taiwan.)
+            - on `the site <https://drive.google.com/file/d/1DQe-nunSFR9M-zop3eLLidpQsZc0HUM5/view>`__ of The Corporate Body of the Buddha Educational Foundation
+            - on `the site <https://archive.org/details/WhatTheBuddhaTaught_201606>`__ of Internet Archive 
+            - on `the site <http://www.ahandfulofleaves.org/documents/what%20the%20buddha%20taught_rahula.pdf>`__ of A Handful of Leaves
+            - on `the site <https://web.ics.purdue.edu/~buddhism/docs/Bhante_Walpola_Rahula-What_the_Buddha_Taught.pdf>`__ of Purdue Buddhist Society (Second and enlarged edition, 1974)
 
 ..
+  2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst); rev. list of PDF & add 台語與佛典 remark & 失效鍊結
   2019-02-06 post
   finish on 2019-01-25; 2019-01-25 賴明亮教授捨報。 draft 12-05
   10-28 2018 create rst

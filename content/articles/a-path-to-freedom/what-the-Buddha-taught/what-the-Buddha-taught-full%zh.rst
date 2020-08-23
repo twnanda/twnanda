@@ -44,7 +44,7 @@
 
 ------
 
-※※※　請參考：  `編譯弁言 <{filename}what-the-Buddha-taught%zh.rst#編譯弁言>`_ （ `本書首頁 <{filename}what-the-Buddha-taught%zh.rst>`__ ）　※※※
+※※※　請參考：  `編譯弁言 <{filename}what-the-Buddha-taught-2020%zh.rst#編譯弁言>`_ （ `本書首頁 <{filename}what-the-Buddha-taught-2020%zh.rst>`__ ）　※※※
 
 
 ..

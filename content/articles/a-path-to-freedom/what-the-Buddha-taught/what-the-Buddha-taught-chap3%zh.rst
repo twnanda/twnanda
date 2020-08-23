@@ -113,7 +113,7 @@
 
 ------
 
-※※※　請參考：  `編譯弁言 <{filename}what-the-Buddha-taught%zh.rst#編譯弁言>`_ （ `本書首頁 <{filename}what-the-Buddha-taught%zh.rst>`__ ）　※※※
+※※※　請參考：  `編譯弁言 <{filename}what-the-Buddha-taught-2020%zh.rst#編譯弁言>`_ （ `本書首頁 <{filename}what-the-Buddha-taught-2020%zh.rst>`__ ）　※※※
 
 ------
 
@@ -147,6 +147,7 @@
 .. [註3-13] 十三：根據《小部》集覺音疏（巴利文學會版）第七十八頁，此語係佛親口所說。但著者迄未能查得其原文出處。
 
 ..
+  2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
   02-06 post; finished 2019-02-05
   11-10~ 2018 create rst; draft 12-05; 
   original: 2011-08-10

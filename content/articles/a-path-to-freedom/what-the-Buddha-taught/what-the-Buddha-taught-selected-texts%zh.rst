@@ -1369,7 +1369,7 @@
 
 ------
 
-※※※　請參考：  `編譯弁言 <{filename}what-the-Buddha-taught%zh.rst#nanda-preface>`_ （ `本書首頁 <{filename}what-the-Buddha-taught%zh.rst>`__ ）　※※※
+※※※　請參考：  `編譯弁言 <{filename}what-the-Buddha-taught-2020%zh.rst#nanda-preface>`_ （ `本書首頁 <{filename}what-the-Buddha-taught-2020%zh.rst>`__ ）　※※※
 
 ------
 
@@ -1703,6 +1703,7 @@
 .. [mprnbn00] 另請參考 參考資訊_ 中之 大般涅槃經參考資訊_ 。 
 
 ..
+  2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
   2019-02-06 post
   draft 12-05
   11-10~ 2018 create rst
