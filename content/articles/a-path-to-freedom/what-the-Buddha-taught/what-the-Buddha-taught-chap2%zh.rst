@@ -3,7 +3,7 @@
 ==================================
 
 :date: 2019-02-06
-:modified: 2019-02-06
+:modified: 2019-08-23
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, 法嚴法師(顧法嚴) 譯
 :tags: 四聖諦, 苦諦, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道

@@ -3,7 +3,7 @@
 ====================================
 
 :date: 2019-02-06
-:modified: 2020-07-23
+:modified: 2020-08-23
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, Nanda 編譯
 :tags: 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛法, 佛陀說的法, 瓦爾朴拉羅睺羅, 鄭於中
 :category: 解脫之道
