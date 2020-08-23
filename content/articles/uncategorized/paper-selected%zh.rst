@@ -2,13 +2,13 @@
 ########
 
 :date: 2005-05-01
-:modified: 2020-06-19
+:modified: 2020-08-23
 :tags: 
 :category: 未分類
 :summary: 文章選讀
 
 
-- `《佛陀的啟示》 <{filename}/articles/a-path-to-freedom/what-the-Buddha-taught%zh.rst>`__ (What the Buddha Taught)，羅睺羅 尊者(Ven. Walpola Rahula Thero)著；臺灣 `優婆塞 <http://dictionary.sutta.org/browse/u/up%C4%81saka>`__ Nanda 編譯（主要參考：法嚴法師(顧法嚴) 譯; 慧炬出版社; 臺灣．臺北市, 民61（ `佛曆 <https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`__ ( `BE <https://en.wikipedia.org/wiki/Buddhist_calendar>`_ ) 2515 ( `西元 <https://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 1972 `CE <Common_Era>`_ )）
+- `《佛陀的啟示》 <{filename}/articles/a-path-to-freedom/what-the-Buddha-taught/what-the-Buddha-taught-2020%zh.rst>`__ (What the Buddha Taught)，羅睺羅 尊者(Ven. Walpola Rahula Thero)著；臺灣 `優婆塞 <http://dictionary.sutta.org/browse/u/up%C4%81saka>`__ Nanda 編譯（主要參考：法嚴法師(顧法嚴) 譯; 慧炬出版社; 臺灣．臺北市, 民61（ `佛曆 <https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`__ ( `BE <https://en.wikipedia.org/wiki/Buddhist_calendar>`_ ) 2515 ( `西元 <https://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 1972 `CE <Common_Era>`_ )）
 
 ----
 
@@ -197,6 +197,7 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
   06-19 rev. linking of 《佛陀與佛法》 (The Buddha and His Teachings) & 《佛陀的古道》 (The Buddha's Ancient Path)--PDF (English) & ; old: expired-- 直接閱讀 HTML http://www.what-buddha-taught. net/Books3/Piyadassi_Thera_The_Buddhas_Ancient_Path.htm ; hiden: http://www.sutra.org.tw/library/reads%20pdf/PDF/%E4%BD%9B%E9%99%80%E7%9A%84%E5%8F%A4%E9%81%93.pdf, http://www.sutra.org.tw/library/reads%20pdf/PDF/佛陀的古道.pdf
 
   2020-04-11 add 尊者　菩提長老針對2019新冠病毒疫情的開示
