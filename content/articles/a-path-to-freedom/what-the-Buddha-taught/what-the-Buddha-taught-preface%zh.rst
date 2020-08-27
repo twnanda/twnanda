@@ -3,7 +3,7 @@
 ###################################################
 
 :date: 2019-02-06
-:modified: 2020-08-23
+:modified: 2020-08-27
 :author: 化普樂‧羅睺羅 尊者(Ven. Walpola Rahula Thero)著; Nanda 編譯
 :tags: 前言, 自序, 佛陀的啟示, What the Buddha Taught, 化普樂‧羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 蘇錦坤, 陳健忠, 釋迦的啟示, 佛當初教的是什麼, 佛‧當初教的是什麼
 :category: 解脫之道
@@ -68,9 +68,9 @@ Nanda 編譯 [fn2]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_
 
 .. [fn1] Nanda 補述：教內亦有以「南傳佛教」稱呼「上座部佛教」，「北傳佛教」稱呼「大乘佛教」者。
 
-.. [fn2] 本書編輯乃基於英文原著，主要採用　 `法嚴法師 <{filename}what-the-Buddha-taught-2020%zh.rst#ven-fa-yen>`__ （筆名：顧法嚴）之譯本；並參考 鄭於中 之譯本。 序言（保羅‧戴密否 (Paul Demiville)）及前言（自序）兩篇，則參考 蘇錦坤、陳健忠兩位學者之譯文。註釋部份亦參考蘇錦坤者；「經典選譯」則參考巴利原典、英文原著及陳健忠等等者。
+.. [fn2] 本書編輯乃基於英文原著，主要採用　 `法嚴法師 <{filename}what-the-Buddha-taught-2020%zh.rst#ven-fa-yen>`__ （筆名：顧法嚴）之譯本；並參考 鄭於中 之譯本。 序言（保羅‧戴密否 (Paul Demiville)）及前言（自序）兩篇，則參考 蘇錦坤、陳健忠兩位學者之譯文。註釋部份參考故　`尊者　明法比丘 <http://www.dhammarain.org.tw/obituary.html>`_ （「`法雨道場 <http://www.dhammarain.org.tw/>`_」）遺著與蘇錦坤者；「經典選譯」則參考巴利原典、英文原著及陳健忠等等者。
 
-         承蒙　 `秀定法師 <https://hdl.handle.net/11296/rkcsmf>`_ 、 羅慶龍老師( `1 <https://blog.xuite.net/dhammarain/blog/171827349-%E3%80%90%E9%98%BF%E6%AF%97%E9%81%94%E6%91%A9%E8%AC%9B%E5%BA%A7%E3%80%91%E6%8C%87%E5%B0%8E%E8%80%81%E5%B8%AB+-+-+%E7%BE%85%E6%85%B6%E9%BE%8D%E8%80%81%E5%B8%AB%E7%9A%84%E5%85%A8%E9%83%A8%E8%A6%96%E8%A8%8A>`_ , `2 <ftp://ttbc.no-ip.org/download3/%E7%BE%85%E6%85%B6%E9%BE%8D%E8%80%81%E5%B8%AB/%E6%94%9D%E9%98%BF%E6%AF%97%E9%81%94%E6%91%A9%E7%BE%A9%E8%AB%96(%E7%BE%85%E6%85%B6%E9%BE%8D%E8%80%81%E5%B8%AB%E4%B8%BB%E8%AC%9B).html>`_ , `3 <http://ttbc.no-ip.org/images/a/l3.html>`__ ; `4 <http://ttbc.no-ip.org/download3/index.php?dir=download%2F%E7%BE%85%E6%85%B6%E9%BE%8D%E8%80%81%E5%B8%AB>`__ )、  `莊博蕙 博士 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst#mn02-att>`__ 、故　 `賴明亮教授 <http://bbc029.web3.ncku.edu.tw/p/412-1131-17517.php?Lang=zh-tw>`_ （ `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休）、 鄭晴如、 林宗亮、 陳秋雯等諸位善知識，提供寶貴意見、指導、協助；在此一併致上感恩之意。書中或有疏漏、錯繆，蓋為編譯者之責；尚祈 各方賢達不吝 `來函 <mailto:tw.nanda@gmail.com>`__ 賜教！
+         承蒙　 `秀定法師 <https://hdl.handle.net/11296/rkcsmf>`_ 、 `羅慶龍老師 <http://www.dhammarain.org.tw/new/new.html#aacariya-luo-ch-l>`__ 、  `莊博蕙 博士 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst#mn02-att>`__ 、故　賴明亮教授（ `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休； `賴明亮 教授追思專輯影片 <https://www.youtube.com/watch?v=iL1utpxa3pw>`_ ，2019-02-28）、 鄭晴如、 林宗亮、 陳秋雯等諸位善知識，提供寶貴意見、指導、協助；在此一併致上感恩之意。書中或有疏漏、錯繆，蓋為編譯者之責；尚祈 各方賢達不吝 `來函 <mailto:tw.nanda@gmail.com>`__ 賜教！
 
          英文及兩位譯者分別之譯文如下列所示，請參考。 Nanda 謹誌。
 
@@ -97,6 +97,7 @@ Nanda 編譯 [fn2]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_
             - on `the site <https://web.ics.purdue.edu/~buddhism/docs/Bhante_Walpola_Rahula-What_the_Buddha_Taught.pdf>`__ of Purdue Buddhist Society (Second and enlarged edition, 1974)
 
 ..
+  08-26 add: 尊者　明法比丘
   2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst); rev. list of PDF & add 台語與佛典 remark & 失效鍊結
   2019-02-06 post
   finish on 2019-01-25; 2019-01-25 賴明亮教授捨報。 draft 12-05

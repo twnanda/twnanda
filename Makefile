@@ -1,4 +1,4 @@
-PY?=python
+PY?=python3.8.exe
 PELICAN?=pelican
 PELICANOPTS=
 

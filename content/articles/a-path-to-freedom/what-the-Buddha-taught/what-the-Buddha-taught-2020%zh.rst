@@ -3,7 +3,7 @@
 ====================================
 
 :date: 2019-02-06
-:modified: 2020-08-23
+:modified: 2020-08-27
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, Nanda 編譯
 :tags: 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛法, 佛陀說的法, 瓦爾朴拉羅睺羅, 鄭於中
 :category: 解脫之道
@@ -30,7 +30,7 @@
 編譯弁言
 ~~~~~~~~~~
 
-本書編輯乃基於英文原著，主要採用　法嚴法師_ （筆名：顧法嚴）之譯本；並參考 鄭於中 之譯本。 序言（保羅‧戴密否 (Paul Demiville)）及前言（自序）兩篇，則參考 蘇錦坤、陳健忠兩位學者之譯文。註釋部份亦參考蘇錦坤者；「經典選譯」則參考巴利原典、英文原著及陳健忠等等者。詳細請參 本書書目_ 與 參考資料_ 。
+本書編輯乃基於英文原著，主要採用　法嚴法師_ （筆名：顧法嚴）之譯本；並參考 鄭於中 之譯本。 序言（保羅‧戴密否 (Paul Demiville)）及前言（自序）兩篇，則參考 蘇錦坤、陳健忠兩位學者之譯文。註釋部份參考故　`尊者　明法比丘 <http://www.dhammarain.org.tw/obituary.html>`_ （「`法雨道場 <http://www.dhammarain.org.tw/>`_」）遺著與蘇錦坤者；「經典選譯」則參考巴利原典、英文原著及陳健忠等等者。詳細請參 本書書目_ 與 參考資料_ 。
 
 承蒙　 `秀定法師 <https://hdl.handle.net/11296/rkcsmf>`_ 、 `羅慶龍老師 <http://www.dhammarain.org.tw/new/new.html#aacariya-luo-ch-l>`__ 、  `莊博蕙 博士 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst#mn02-att>`__ 、故　賴明亮教授（ `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休； `賴明亮 教授追思專輯影片 <https://www.youtube.com/watch?v=iL1utpxa3pw>`_ ，2019-02-28）、 鄭晴如、 林宗亮、 陳秋雯等諸位善知識，提供寶貴意見、指導、協助；在此一併致上感恩之意。書中或有疏漏、錯繆，蓋為編譯者之責；尚祈 各方賢達不吝 `來函 <mailto:tw.nanda@gmail.com>`__ 賜教！
 
@@ -216,7 +216,9 @@ Nanda 編譯
   m$ `.DOC 檔 <{filename}/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.doc>`__
 
   取材自：http://book.bfnn.org/books/0535.htm (直接閱讀 HTML)
- 
+
+- 佛陀的啓示 What the Buddha Taught ，羅睺羅·化普樂 (Dr. Ven. Walpola Rāhula﹐1907-1997) 著，顧法嚴 譯； `尊者　明法比丘編輯加註 <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/what-the-Buddha-taught-footnote-by-ven-metta.pdf>`__ （取材自：「`法雨道場　 好書介紹　佛陀的啟示(明法 法師 註解版)  <http://www.dhammarain.org.tw/books/book1.html#%E4%BD%9B%E9%99%80%E7%9A%84%E5%95%9F%E7%A4%BA>`_」） 
+
 - `台語與佛典 <http://yifertw.blogspot.com/>`__ 
 
   * `Walpola Rahula 《佛陀的啟示》，顧法嚴譯 <http://yifertw.blogspot.com/2018/10/walpola-rahula.html>`__ （2018年10月15日 星期一）
@@ -283,6 +285,7 @@ Nanda 編譯
 - 法嚴法師，俗姓顧，名世淦，字法嚴。祖籍浙江，1917-03-06（丁己年） ~ 1995-11-19（乙亥年），俗壽七十九載，戒臘九歲。早年于上海雷士德工學院攻機械工程，抗戰中至後方畢業于（重慶）中央大學，英文根柢極深，又自習梵文與巴利文，因此翻譯佛學著作得手應心。1952年皈依印順法師，賜法名〝法嚴〞，遂以〝顧法嚴〞為其著作之筆名。曾任職台灣農村復興委員會，先後擔任企劃處及總務長職，1970 年退休後，應沈家楨居士創辦之美國佛教會之聘，出任新竹譯經院副院長，主持佛經英譯工作；任期十年中譯出「大寶積經」一部為英文本。又將英文佛書多種譯為中文，如《禪門三柱》、《佛陀的啟示》、《原始佛典選譯》等。顧氏晚年(1978)移民美國，僑居舊金山，1986 年在妙境法師座下剃度出家，仍以〝法嚴〞為法名。 （ 金山一面竟成永訣 –– `追念法嚴法師 <http://www.bauswj.org/wp/wjonline/8553/>`__ ，朱斐； `懷念法嚴法師 <http://www.bauswj.org/wp/wjonline/%E6%87%B7%E5%BF%B5%E6%B3%95%E5%9A%B4%E6%B3%95%E5%B8%AB/>`__ ，釋繼如，BAUS Wisdom Journal `美佛慧訊 <http://www.bauswj.org/wp/>`__ ， `第四十一期 <http://www.bauswj.org/wp/issue/mag41/>`__ , 1996年 3月 14日）
 
 ..
+  08-26 add: 尊者　明法比丘
   08-23 redirect (add independent subdirectory:what-the-Buddha-taught); add:註解：第二章 四聖諦(till note 09)
   《佛法》 https://www.getit01.com/p201807223974060/ (alive on 2020-08-23)
 

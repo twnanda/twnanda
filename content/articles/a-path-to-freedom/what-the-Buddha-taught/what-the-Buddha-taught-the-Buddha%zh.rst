@@ -3,7 +3,7 @@
 ================================================
 
 :date: 2019-02-06
-:modified: 2020-08-24
+:modified: 2020-08-27
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, 法嚴法師(顧法嚴) 譯
 :tags: 佛陀傳略, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
@@ -55,7 +55,7 @@
 
 ※※※ Nanda 編註  ※※※
 
-本書編輯乃基於英文原著，主要採用　法嚴法師(顧法嚴)之譯本；並參考 鄭於中 之譯本。序言（保羅‧戴密否(Paul Demiville)）及前言（自序）兩篇，則參考 蘇錦坤、陳健忠兩位學者之譯文。註釋部份亦參考蘇錦坤者。詳細請參 `本書首頁 <{filename}what-the-Buddha-taught%zh.rst>`__ 中之 `本書書目 <{filename}what-the-Buddha-taught%zh.rst#本書書目>`__ 與 `參考資料 <{filename}what-the-Buddha-taught%zh.rst#參考資料>`__ 。
+本書編輯乃基於英文原著，主要採用　法嚴法師(顧法嚴)之譯本；並參考 鄭於中 之譯本。序言（保羅‧戴密否(Paul Demiville)）及前言（自序）兩篇，則參考 蘇錦坤、陳健忠兩位學者之譯文。註釋部份參考故　`尊者　明法比丘 <http://www.dhammarain.org.tw/obituary.html>`_ （「`法雨道場 <http://www.dhammarain.org.tw/>`_」）遺著與蘇錦坤者。詳細請參 `本書首頁 <{filename}what-the-Buddha-taught-2020%zh.rst>`__ 中之 `本書書目 <{filename}what-the-Buddha-taught-2020%zh.rst#本書書目>`__ 與 `參考資料 <{filename}what-the-Buddha-taught-2020%zh.rst#參考資料>`__ 。
 
 另，承蒙　 `秀定法師 <https://hdl.handle.net/11296/rkcsmf>`_ 、 `羅慶龍老師 <http://www.dhammarain.org.tw/new/new.html#aacariya-luo-ch-l>`__ 、  `莊博蕙 博士 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst#mn02-att>`__ 、故　賴明亮教授（ `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休； `賴明亮 教授追思專輯影片 <https://www.youtube.com/watch?v=iL1utpxa3pw>`_ ，2019-02-28）、 鄭晴如、 林宗亮、 陳秋雯等諸位善知識，提供寶貴意見、指導、協助；在此一併致上感恩之意。書中或有疏漏、錯繆，蓋為編譯者之責；尚祈 各方賢達不吝 `來函 <mailto:tw.nanda@gmail.com>`__ 賜教！
 
@@ -127,6 +127,7 @@
           慧炬出版社敬啟 63年10月1日
 
 ..
+  08-26 add: 尊者　明法比丘
   2020-08-24 add some Pali & English for proper noun; independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
   2019-02-06 post  
   11-08 2018 create rst
