@@ -1,4 +1,4 @@
-ifndef TRAVIS
+ifdef TRAVIS
 PY?=python
 else
 PY?=python3.8.exe
