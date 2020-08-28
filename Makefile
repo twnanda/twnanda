@@ -1,4 +1,8 @@
+ifndef TRAVIS
+PY?=python
+else
 PY?=python3.8.exe
+endif
 PELICAN?=pelican
 PELICANOPTS=
 
