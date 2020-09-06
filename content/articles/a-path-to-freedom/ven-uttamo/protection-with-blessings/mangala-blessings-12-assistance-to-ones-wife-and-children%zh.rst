@@ -3,12 +3,12 @@ Assistance to One's Wife and Children (Maṅgala Sutta – Protection with Bless
 ==================================================================================
 
 :date: 2019-12-03
-:modified: 2020-03-24
+:modified: 2020-09-06
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Assistance to One's Wife and Children (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-03-24
+revised on 2020-09-06
 
 ------
 
@@ -16,7 +16,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 ------
 
-The commentary interpreted a wife to anyone of the 20 kinds of wives. For majority of people, this is not the case. A man with many wives and women is indulgent in sexual pleasures which is low, ignoble and not leading to mental and physical well-being. The Buddha taught Siṅgāla as how a husband should attend upon his wife in the Siṅgālavada Sutta, which will be mentioned latter. Another way of maintaining the relationship was mentioned in the Aṅguttara Nikāya, Book IV.
+The commentary interpreted a wife to anyone of the 20 kinds of wives. For majority of people, this is not the case. A man with many wives and women is indulgent in sexual pleasures which is low, ignoble and not leading to mental and physical well-being. The Buddha taught Siṅgāla as how a husband should attend upon his wife in the Siṅgālavada Sutta, which will be mentioned later. Another way of maintaining the relationship was mentioned in the Aṅguttara Nikāya, Book IV.
 
 This was called the four ways of sustaining relationship (saṅgaha-vatthu) between people. These were: ① giving (Dāna), ② endearing speech (peyyavajja), ③ beneficient conduct (atthacariyā) and ④ impartiality (samānattatā). These four ways also can be called causes for popularity.
 
@@ -86,7 +86,7 @@ One day the Buddha saw him leaning against the wall of the monastery and eating 
 
 “Ānanda, look at this son of a rich man; he had lived a useless life, aimless life of pleasure. If he had learned to look after his riches and in the first stage of his life would have been the top ranking rich man. If he had become a monk, could have been an arahant and his wife an anāgāmi (the non-returner). If he had learned to look after his riches in the second stage of his life, he would have been a second ranking rich man.
 
-He could have been an anāgāmin; and his wife a sakadāgāmi (the once-returner), etc., if he had become a monk. However, he lost all the riches, and also all the chances of realization of the paths and fruits because he had done nothing all the three stages of his life.” In this story, we can see the importantce of the four wheels mentioned in the Wheels Discourse already described at directing oneself right which related to the present life and its actions.
+He could have been an anāgāmin; and his wife a sakadāgāmi (the once-returner), etc., if he had become a monk. However, he lost all the riches, and also all the chances of realization of the paths and fruits because he had done nothing all the three stages of his life.” In this story, we can see the importantce of the four wheels mentioned in the Wheels Discourse already described at directing oneself rightly which related to the present life and its actions.
 
 The Story of Kāla, Son of Anāthapiṇḍika:
 
@@ -128,7 +128,7 @@ Then this affects society. A lot of youth problems are connecting to broken marr
 
 One of the most important things woman folks should contemplate is the problem of abortion in the world today. Nowadays most people think it very lightly. This is one of the serious misconduct by some mothers-to-be and mothers. This is the act of murdering one’s own offspring. Even though not serious than matricide, this action make human beings inferior than animal. Some animals even give up their lives for protecting their offspring.
 
-There was a true story happened in China long time ago. I am sure there were also many real stories about female animals protecting their offspring around the world. A Chinese scholar invited some of his friends for lunch. His favorite dish was the eel meat. He put some eels which were alive into the boiling pot. And then a strong thing happened in front of them. One of the plumb eels curved its part of the long body above the boiling water.
+There was a true story happened in China long time ago. I am sure there were also many real stories about female animals protecting their offspring around the world. A Chinese scholar invited some of his friends for lunch. His favorite dish was the eel meat. He put some eels which were alive into the boiling pot. And then a strange thing happened in front of them. One of the plumb eels curved its part of the long body above the boiling water.
 
 The scholar was very curious about this phenomenon, so he took out the eel and cut it, opened the curved body. What they found out was many small eels (offspring) were inside. This is the noble motherly love and compassion. It is the natural instinct for all mothers. From that day onwards, this man became a vegetarian. For a mother it is too cruel for killing her own child who is very innocent. Whatever reason terminates the embryo is just one’s own fault and the outcome of indulgence in sexual pleasures and sexual misconduct. Murdering one’s own baby is not the right way to solve social problem, but to restraint in sexual misbehavior.
 
@@ -138,7 +138,7 @@ How many animals are killed every day around the world for foods alone. In the s
 
 ------
 
-revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36849#p36849 (posted on 2019-10-09)
+revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36849#p36849 (posted on 2019-10-09)
 
 ------
 
@@ -153,6 +153,7 @@ revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-09-06 rev. the 3rd proofread by bhante
   2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

@@ -3,12 +3,12 @@ Seeing Contemplative (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-09-06
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Seeing Contemplative (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-09-06
 
 ------
 
@@ -94,7 +94,7 @@ The Buddha saved him for killing his mother. This was a very heavy unwholesome a
 For people who do not have the chances of seeing samaṇas they need to be very careful how to use the many media. Because there are many unwholesome things and matters are going on. Out of greed and hatred, some foolish people using the media exploit and harm others. Even politicians or some world leaders using them to harm the opposition. With the help of science to harm people are more easier and have great consequences than before.
 
 
-(2) The unsurpassed hearing: suṇantānuttariya
+(2) The unsurpassed hearing: savaṇānuttariyaṃ
 
 We have ears and hear many types of sound and voices. Most people are not using their ears properly or wisely. Therefore, there are a lot of noise pollution going on. Mostly these are artificial sound and voices by men and barking dogs. Even pollution of the ear can be divided into 2; material sound and human voices or speech. In modern-day noise, pollution are big problems. Human life is not quiet anymore. There are noises or sound from machines, animals (especially dogs barking) and music, etc.
 
@@ -110,10 +110,10 @@ The eye and ear are burning with polluted media sound and noises. The nose is bu
 
 There are a lot of things, not helping our many problems and difficulties in life. If we get lost in them, even become harmful. The wholesome things and matters are medicines of the mind and it become educations and the unwholesome ones will become poisons and harm everyone. For living beings, especially humans, seeing and listening are very important parts of our lives. How to use them properly and wisely is very important? The gods in rūpaloka (fine-material realm) use only the eyes and ears. Nose, tongue and body sensations are not useful for them.
 
-Why is that? Because their minds are pure and they only need the eyes to see the Buddha and noble beings, and with ears listen to their Dhamma. These two factors of seeing contemplatives and listening Dhamma are prerequisites for practicing Dhamma, and enlightenment. There were a lot of stories in the suttas mentioned about monks and lay people who met contemplatives and listened to Dhamma and their lives were changed dramatically. For the Buddha, the unsurpassed hearing or noble listening was on Dhamma—Dhamma suṇantānuttariya.
+Why is that? Because their minds are pure and they only need the eyes to see the Buddha and noble beings, and with ears listen to their Dhamma. These two factors of seeing contemplatives and listening Dhamma are prerequisites for practicing Dhamma, and enlightenment. There were a lot of stories in the suttas mentioned about monks and lay people who met contemplatives and listened to Dhamma and their lives were changed dramatically. For the Buddha, the unsurpassed hearing or noble listening was on Dhamma—Dhamma savaṇānuttariyaṃ.
 
 
-(3) The unsurpassed gain—lābhānuttariya
+(3) The unsurpassed gain—lābhānuttariyaṃ
 
 This is a very wide subject to talk about. The Buddha mentioned some of them by common people, such as someone gains a son, a wife, wealth and various goods, etc. There are many kinds human beings want to get or attain. These things are depending on their desire and interest. Some of them are necessary to have and some are not. Some of the things are for pleasure and some are for knowledge.
 
@@ -129,10 +129,10 @@ In one of Mogok Sayadaw’s talks, he said about faith. [The Buddha answered to 
 
 This is the faith of a stream-winner (sotāpanna), or unshakable faith. By faith, one crosses over the flood of the wrong view. You must believe that it leads to stream entry (sotāpatti magga). Why you do the practice? You do it because believing in the Buddha’s words and the teacher’s words if the Buddha and teacher said that you must see impermanence and with the practice, you will discern it. You discern it because you have practiced with faith. For doing the practice, let faith leads you.
 
-Another point what the Buddha taught was with heedfulness (mindfulness) could cross over the four floods. (i.e., become sotāpanna to arahant). In the round of existences (saṁsāra) the most miserable places are the four woeful planes. The sufferings there are unthinkable. If we get with whatever means for wealth and power will never safe for falling into it. Therefore, the Buddha said that faith (saddhā) was the unsurpassed gain—lābhānuttariya.
+Another point what the Buddha taught was with heedfulness (mindfulness) could cross over the four floods. (i.e., become sotāpanna to arahant). In the round of existences (saṁsāra) the most miserable places are the four woeful planes. The sufferings there are unthinkable. If we get with whatever means for wealth and power will never safe for falling into it. Therefore, the Buddha said that faith (saddhā) was the unsurpassed gain—lābhānuttariyaṃ.
 
 
-(4) The unsurpassed training—sikkhānuttariya
+(4) The unsurpassed training—sikkhānuttariyaṃ
 
 This is a very interesting and wide subject need to contemplate thoroughly. There is a lot to say on these matters. Here the Buddha mentioned some of them—train in elephantry, horsemanship, chariotry, archery, swordsmanship and in various fields. Human being quite different from other beings is on knowledge. It starts from birth to death. Humans are a thirst for knowledge. But does everyone get the right knowledge? So, learning, training and knowledge are education.
 
@@ -156,14 +156,14 @@ Before the hammers appeared again and struck his head, he answered to the Ven. A
 
 The Pacceka-buddha Sunetta was mentioned in the Peta Vatthu two times. Another time was he met a young prince who was conceited and with anger broke his alms bowl (Pv. iii. 2; iv. 7; PvA. 177f., 264). The prince after died and born in hell. After released from hell and born as a peta, and then at last born into a fishing village as a man. From this last life as a human being, he became the arahant Ven. Sāṇavāsī [Sānuvāsi (sī.), Sānavāsi (syā.)]. All these peta stories taught us to see the burdened khandha and its dukkha.
 
-This miserable story was warning human beings how to use their many worldly knowledge properly and wisely. Not all worldly knowledge are good to learn. Especially the knowledge of politics, science and economics are very important and should use them properly and wisely. It can bring peace, happiness and progress to the human race. Also, it can lead to the destruction of the human race. We can see this in today world. Even temperature is rising to the destructive level, the leader of super power, out of selfishness and greedy he neglected of the agreement his country had already signed with others to tackle the climate problem.
+This miserable story was warning human beings how to use their many worldly knowledge properly and wisely. Not all worldly knowledge are good to learn. Especially the knowledge of politics, science and economics are very important and should use them properly and wisely. It can bring peace, happiness and progress to the human race. Also, it can lead to the destruction of the human race. We can see this in today world. Even temperature is rising to the destructive level, the leader of a super power, out of selfishness and greedy he neglected of the agreement his country had already signed with others to tackle the climate problem.
 
 Whatever someone’s motives are if he did evil deeds himself or asks others to do it, all of them have to bear the results of actions. For example, a world leader orders to drop a hydrogen bomb on a city. The results of the evil deed not only the pilot who drops the bomb but also the leader and the scientists who create this matter to happens have to bear the evil results.
 
 For the Buddha, the unsurpassed training—sikkhānuttariya was in morality, concentration and discernment—sīla, samādhi and paññā. It is called supreme training—adhi-sikkhā. Why is that? Because it gives rise to vision, to knowledge, leads to peace, to direct knowledge (i.e., insight), to enlightenment, to Nibbāna. But all worldly knowledge and trainings for craving and indulgence in sensual pleasures lead to sorrow, lamentation, pain, grief and the whole mass of sufferings. So, the Buddha said that the best and supreme knowledge and training were sīla, samādhi and paññā.
 
 
-(5) The unsurpassed service—pāricariyānuttariya
+(5) The unsurpassed service—pāricariyānuttariyaṃ
 
 There are many ways of supporting with materials to people. Some are doing as a duty and some as a profession. The types of people we need to support or helping are the Buddha and the saṅgha, parents, family members, relatives, elderly people, sick people (patients), etc. As a profession, we can make money as a livelihood, e.g., doctors, nurses. For the Buddha, the best supporting was to the Buddha and the saṅgha. Why is that? Buddha, Dhamma and Saṅgha are the best treasures, refuges and blessings and very rare indeed.
 
@@ -176,7 +176,7 @@ During three incalculable aeons only six Buddhas arose. Today Buddhists of the w
 All the worldly problems and mental sufferings came from not supporting the Buddha and Saṅgha that we did not have the chances to meet them and learn the Dhamma. So, we had wrong teachings and wrong views and based on them by doing a lot of unwholesome actions with mind, speech and body. In the world, what is more, important than quenching of dukkha? This can be possible only with the help of Buddha, Dhamma and Saṅgha and your inner power and not by God and supernatural beings.
 
 
-(6) The unsurpassed recollection—anussatānuttariya
+(6) The unsurpassed recollection—anussatānuttariyaṃ
 
 There are many things and matters human beings recollect and remember them. Here the Buddha mentioned some of them; someone recollects the gain of a son, a wife or wealth, or various kinds of gain. Because many objects are connecting with the six sense-doors, some living beings, material objects and mental objects. Most of them can be ignoble, lowly and not lead to peace and happiness. These things do not bring benefits to humans if they are recollecting or remembering them with craving, greed, hatred, ill-will, etc.
 
@@ -240,7 +240,7 @@ Therefore, the Buddha taught that this was the highest protection and blessing i
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36980#p36980 (posted on 2019-11-21)
+revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36980#p36980 (posted on 2019-11-21)
 
 ------
 
@@ -255,5 +255,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-09-06 rev. the 3rd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

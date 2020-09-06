@@ -3,12 +3,12 @@ Assistance to One’s Relatives (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-06-25
+:modified: 2020-09-06
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Assistance to One’s Relatives (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-06-25
+revised on 2020-09-06
 
 ------
 
@@ -16,7 +16,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 ------
 
-Commentary described relatives as someone’s maternal or paternal relations back through seven generations. When these people suffered from loss of wealth and illness and came for help, he should assist them with good, clothes, money, grain and other necessities. (Even they do not come and ask, we should help them if we know.) This blessing is also connected with the blessing of giving (dāna). The results of this blessing it the same as dāna. It is the blessing in this life and next life to come.
+Commentary described relatives as someone’s maternal or paternal relations back through seven generations. When these people suffered from loss of wealth and illness and came for help, he should assist them with goods, clothes, money, grain and other necessities. (Even they do not come and ask, we should help them if we know.) This blessing is also connected with the blessing of giving (dāna). The results of this blessing it the same as dāna. It is the blessing in this life and next life to come.
 
 In the Khuddaka Nikāya, the 15th text is Cariyā Piṭaka. This text included some of the jātaka stories connection with the practices of the bodhisatta on the ten perfections (pāramīs). How he developed his pāramīs for the welfare of the world, relatives, and himself. Therefore, assistance to one’s relatives is one of the cariyās. This protection with blessing is relating to love and compassion (mettā and karuṇā).
 
@@ -50,7 +50,7 @@ This was the story of a monkey king called Mahākapi from a Jātaka story and a 
 
 At last, they found it and ate a lot of the mangoes and slept under the tree for a rest. When they were in sleep, the monkeys came and ate the fruits. But some monkeys made noises so that it woke them up. And then they saw the monkeys and tried to catch them.
 
-There was only one way the monkeys could escape. That was crossing to the other bank of the river which side also had some big trees. So, the bodhisatta came in. He selected a strongest and long enough creeper on the mango tree; with his strong force jumped over the river to the other side. From the other side of a tree, he took nearly the same length of creeper jumped back to the mango tree. Here the bodhisatta made a mistake. He forgot to calculate for the length to bind the mango tree. There was not enough time to do it again. So, he bound the end of the creeper on his two legs and with both hands holding to a very strong branch and using his whole body as a bridge. (A bodhisatta was always intelligent ans wise; therefore, we can see the importance of wisdom in every aspect of life. Intelligence, but not wise, is not always good.)
+There was only one way the monkeys could escape. That was crossing to the other bank of the river which side also had some big trees. So, the bodhisatta came in. He selected a strongest and long enough creeper on the mango tree; with his strong force jumped over the river to the other side. From the other side of a tree, he took nearly the same length of creeper jumped back to the mango tree. Here the bodhisatta made a mistake. He forgot to calculate for the length to bind the mango tree. There was not enough time to do it again. So, he bound the end of the creeper on his two legs and with both hands holding to a very strong branch and using his whole body as a bridge. (A bodhisatta was always intelligent and wise; therefore, we can see the importance of wisdom in every aspect of life. Intelligence, but not wise, is not always good.)
 
 All the monkeys trod on his body, with the help of the creeper and arrived on the other side. But there was an evil monkey who was the past life of Devadatta—the Buddha’s cousin. He had a strong grudge and hatred on the bodhisatta in a very long distant past which he carried along with him until the bodhisatta’s last life. With the evil intention and by force, he jumped on the bodhisatta’s back and crossed to the other shore. The bodhisatta heart was broken, and he bore the intense pain with patience.
 
@@ -64,7 +64,7 @@ All the big problems were coming from the small ones. Because of man’s ignoran
 
 ------
 
-revised on 2020-06-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36962#p36962 (posted on 2019-11-19)
+revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36962#p36962 (posted on 2019-11-19)
 
 ------
 
@@ -79,6 +79,7 @@ revised on 2020-06-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-09-06 rev. the 3rd proofread by bhante
   2020-06-25 rev. the 2nd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

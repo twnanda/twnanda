@@ -3,12 +3,12 @@ Contentment (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-07-03
+:modified: 2020-09-06
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Contentment (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-07-03
+revised on 2020-09-06
 
 ------
 
@@ -44,7 +44,7 @@ So, he offers to them and looks for a cheaper robe. This is contentment accordin
 
 The other requisites of alms food, dwelling (lodging) and medicines are also understood in these ways as mentioned above. The contentment with the four requisites in these ways is a blessing for a monk because it can abandon bad qualities of excessive desire evil desire, etc. The practice of contentment leads to good rebirth and development of the holy life.
 
-Here I want to extract the teaching on content by Sayadaw Dr. Nandamalar-bhivamsa for contemplation. He had given two talks on it. The first one explained about contentment and discontent, the second on contentment in general.
+Here I want to extract the teaching on contentment by Sayadaw Dr. Nandamalar-bhivamsa for contemplation. He had given two talks on it. The first one explained about contentment and discontent, the second on contentment in general.
 
 In English dictionary, contentment is a feeling of quiet happiness and satisfaction, discontent is the feeling of being not satisfied with one’s situation.
 
@@ -60,7 +60,7 @@ Fire as a simile for greediness is not only burning the mind but also the physic
 
 Discontent with wholesome dhammas (i.e., merits) is good indeed. (i.e., merits related to sīla, samādhi and paññā). Searching, learning and studying on knowledge and wisdom should not have contentment. (These include worldly knowledge, but it should be wholesome and using them wisely and property. If not it will destroy or harm humans.) Then all these become wrong knowledges. With more knowledge and education is better.
 
-It can be used for the welfare and well-being of human race. Merits or wholesome Dhammas can be divided into different types, from the basic to higher levels. (e.g. sīla, samādhi and paññā). Developing out merits like a ladder going up higher and higher. (It does not mean that we should do it one by one. For example, giving dāna and at the same time observe sīla and doing meditation.)
+It can be used for the welfare and well-being of human race. Merits or wholesome Dhammas can be divided into different types, from the basic to higher levels. (e.g. sīla, samādhi and paññā). To develop merits is like a ladder going up higher and higher. (It does not mean that we should do it one by one. For example, giving dāna and at the same time observe sīla and doing meditation.)
 
 Merits can be divided into three types according to their qualities; such as
 
@@ -115,17 +115,17 @@ Nowadays what happen to humans? There are no restraints on food and drink anymor
 
 But if we can use this mouth properly and wisely, then it becomes a treasure (e.g., noble beings and Dhamma teachers, etc.) There was a very interesting sutta in the Dīgha Nikāya called—Aggañña Sutta (DN. 27). It mentioned the beginning of humans. When a new Earth was formed (by natural causes) there were no living beings on it, also no sun and moon have appeared yet. When the time came some beings from the higher realms (i.e., material jhānic plane) reborn on the Earth spontaneously (opapātika beings). These beings had their own body light and could move in the air. They could survive without eating solid foods—instead they lived with joy which was their nutriment. Later they found out that the Earth-crust had a nice smell taste. It had the color of fine ghee or butter and very sweet like pure wild honey. One of the beings who was a greedy nature and also out of curiosity tasted the savoury earth on its finger. It was quite delicious that craving (taṇhā) arose and continued to eat. The others also saw it and followed suit. So, humans problems started from craving for taste or foods. (Anyone who has interest should read the original sutta. It was not a mythology but more realistic than the Genesis and Evolution Theory. The three worlds—cosmos, living beings and the conditional phenomena—matter and mind world, come to existence according to nature and natural laws or Dhamma-niyama—natural procedure.)
 
-Basically, the four requisites of human are for survival, and more than its necessity and purpose become discontent. The Buddha exhorted us to live a life without concern and a lot of expectation. Because of discontent that we have to work move and tired ourselves. At last, we leave everything behind and ending one’s life. We are busy and caught up in unwholesomeness, at last end up with dukkha. Not doing things for progress and development is not contentment. It is called laziness and foolishness. Some people think with the view of contentment there will be no progress (This is the outlook of greedy and unwise people and misinterprets the important quality of contentment.) Laziness and contentment are very different Dhammas—laziness leads to negative outcome and contentment leads to positive outcome. Discontent means dissatisfaction on things which one already has, and wanting more.
+Basically, the four requisites of human are for survival, and more than its necessity and purpose become discontent. The Buddha exhorted us to live a life without concern and a lot of expectation. Because of discontent that we have to work more and tired ourselves. At last, we leave everything behind and ending one’s life. We are busy and caught up in unwholesomeness, at last end up with dukkha. Not doing things for progress and development is not contentment. It is called laziness and foolishness. Some people think with the view of contentment there will be no progress (This is the outlook of greedy and unwise people and misinterprets the important quality of contentment.) Laziness and contentment are very different Dhammas—laziness leads to negative outcome and contentment leads to positive outcome. Discontent means dissatisfaction on things which one already has, and wanting more.
 
 We can give a lot of true stories on the topic of discontent from the past and present. I will only mention a few in gist, so that we can understand the dangers of its results. The story of Cunda—the pork butcher.
 
 There was a village not far from Veluvana monastery where the Buddha stayed. (This monastery was in Rājagaha.)
 
-There lived a very cruel pork butcher by the name of Cunda. He did this cruel business for 55 years All these times he has not done a single meritorious deed, even though he lived very near the Buddha and the monks. (even he made lots of money; he must have greedy nature.) On the day before he died, he had been in the situation of great pain and agony behaving like a pig. He was grunting and squealing, kept on moving about on his hands and knees like a pig; it was happening for the seven whole days. After seven days, he died and reborn in avīci-hell. There is a small pig farm just a stone's throw away from where I live. The owner is rich because he has other businesses also. He had stopped this business very short period because his friend told him the outcome of wrong livelihood. After a short period, he continued his business again because of discontent with his income. 
+There lived a very cruel pork butcher by the name of Cunda. He did this cruel business for 55 years All these times he had not done a single meritorious deed, even though he lived very near the Buddha and the monks. (even he made lots of money; he must have greedy nature.) On the day before he died, he had been in the situation of great pain and agony behaving like a pig. He was grunting and squealing, kept on moving about on his hands and knees like a pig; it was happening for the seven whole days. After seven days, he died and reborn in avīci-hell. There is a small pig farm just a stone's throw away from where I live. The owner is rich because he has other businesses also. He had stopped this business very short period because his friend told him the outcome of wrong livelihood. After a short period, he continued his business again because of discontent with his income. 
 
 The story of a butcher
 
-This happened when the Buddha stayed at Jetavana monastery. In Sāvatthī there was a butcher (not mentioned his name) slathered cattle and sold the meat for 55 years He craved for meat and took it with rice every day. One day he left some meat for his family and went to a riverside to have his bath. Unluckily a friend of him came and bought the meat by force. When he came back and did not find the meat. He never took his meal without meat-curry. He went to the back yard where his cattle were kept. He cut off the tongue of an ox and roasted it over a fire.
+This happened when the Buddha stayed at Jetavana monastery. In Sāvatthī there was a butcher (not mentioned his name) slaughtered cattle and sold the meat for 55 years He craved for meat and took it with rice every day. One day he left some meat for his family and went to a riverside to have his bath. Unluckily a friend of him came and bought the meat by force. When he came back and did not find the meat. He never took his meal without meat-curry. He went to the back yard where his cattle were kept. He cut off the tongue of an ox and roasted it over a fire.
 
 During his meal, he made a bite on the tongue of the ox. As he did so, his own tongue also fell off into his plate. The butcher was in great pain and agony, he went on his knees with blood dripping profusely from the mouth. He died painfully and reborn in Hell. 
 
@@ -206,7 +206,7 @@ Spiritual people, ancient sages and noble beings—mostly forest monks knew the 
 
 ------
 
-revised on 2020-07-03; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36973#p36973 (posted on 2019-11-20)
+revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36973#p36973 (posted on 2019-11-20)
 
 ------
 
@@ -221,6 +221,7 @@ revised on 2020-07-03; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-09-06 rev. the 3rd proofread by bhante
   07-03 rev. the 3rd proofread by bhante
   06-25 rev. the 2nd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante

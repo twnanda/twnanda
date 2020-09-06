@@ -3,12 +3,12 @@ Humility (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-06-25
+:modified: 2020-09-06
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Humility (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-06-25
+revised on 2020-09-06
 
 ------
 
@@ -18,7 +18,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 The English Dictionary explains humility as—someone who has humility is not proud (conceit) and does not believe that they are better than others. Another word—humble has the same meaning. The commentary explained it as meekness and humble behaviour, someone without conceit and vanity. It has the nature of quiet and easily controlled, tenderness, soft-spoken, etc. The commentary gave the examples of like a ragged-cloth, a beggar, a defanged-snake, a bull with broken horns, etc. The result of humility is fame (it is certain that there are other results). The opposite nature of humility is proud and conceit. The outcome of very proud and conceited can be very serious; e.g., the renegade monk Devadatta and the brahmin girl Māgandiyā. The monk Devadatta after achieving of super-normal power (psychic power) became conceited and craving for fame and power, he opposed the Buddha. He became so proud and conceited and without paying heed to the Buddha’s admonition. At last, he was swallowed by the earth and fell into the great Hell—Avīci for his evil actions.
 
-The young Māgandiyā was beautiful and very proud of her beauty. Her parents offered her to the Buddha. The Buddha, seeing the parents’ spiritual faculties were mature, gave them a short exhortation by using their daughters body as loathsome and putrid. After the saying both parents became anāgāmis and entered the orders, later both became arahants. But the young Māgandiyā became very bitter and sore because it hurt her strong conceit which related to her beauty. She vowed to take revenge. Later she became one of the chief queens of King Udena. When the Buddha stayed in Kosambī where King Udena reigned, she had the chance to take her revenge on the Buddha. At last, all her attempts were failed, and she encountered with a miserable death. Here we can see the danger and harm of strong conceit which brings misfortune to someone.
+The young Māgandiyā was beautiful and very proud of her beauty. Her parents offered her to the Buddha. The Buddha, seeing the parents’ spiritual faculties were mature, gave them a short exhortation by using their daughter's body as loathsome and putrid. After the saying both parents became anāgāmis and entered the orders, later both became arahants. But the young Māgandiyā became very bitter and sore because it hurt her strong conceit which related to her beauty. She vowed to take revenge. Later she became one of the chief queens of King Udena. When the Buddha stayed in Kosambī where King Udena reigned, she had the chance to take her revenge on the Buddha. At last, all her attempts were failed, and she encountered with a miserable death. Here we can see the danger and harm of strong conceit which brings misfortune to someone.
 
 The opposite nature of humility is conceit or pride (māna). Everyone has conceit (māna). It is one of the latent dispositions (anusaya) and one of the defilement (kilesa). Māna is eradicated only at the stage of arhatship. It uses to happen in people who have a fortune, beauty, highly educated, high status, etc. Without any of them, also people can have pride.
 
@@ -48,7 +48,7 @@ All these miserable things are created by fools and not the wise. The quality of
 
 ------
 
-revised on 2020-06-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36972#p36972 (posted on 2019-11-20)
+revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36972#p36972 (posted on 2019-11-20)
 
 ------
 
@@ -63,6 +63,7 @@ revised on 2020-06-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-09-06 rev. the 3rd proofread by bhante
   2020-06-25 rev. the 2nd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

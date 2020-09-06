@@ -1,14 +1,14 @@
 ===============================================================================
-Sīla-visuddhi (Maṅgala Sutta – Protection with Blessing)
+Purification of Virtue (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-06-30
+:modified: 2020-09-06
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
-:summary: Sīla-visuddhi (Maṅgala Sutta – Protection with Blessing)
+:summary: Purification of Virtue (Sīla-visuddhi) (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-06-30
+revised on 2020-09-06
 
 ------
 
@@ -42,7 +42,7 @@ Therefore, sīla is like the root of a tree. Very important for mundane and supr
 
 ------
 
-revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36990#p36990 (posted on 2019-11-22)
+revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36990#p36990 (posted on 2019-11-22)
 
 ------
 
@@ -57,6 +57,7 @@ revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-09-06 rev. the 3rd proofread by bhante
   2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

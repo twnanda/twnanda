@@ -3,12 +3,12 @@ Gratitude (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-09-06
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Gratitude (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-09-06
 
 ------
 
@@ -49,9 +49,9 @@ This was a good lesson for these people. It also taught us what the noble and ig
 
 The monkey was so tired that he placed his head on the lap of the brahman and took a short rest. During the rest, the man wanted to bring the monkey meat to his wife at home. So, he took a large stone and smacked the monkey head with one blow. The monkey’s head was severely injured and blood spurted out and flowed on the whole face and body.
 
-The money jumped up instantly and uttered these words surprisingly; “Oh! my God, in this world, still has this kind of man exists.” And then he climbed up instantly to a tree nearby and looking at the brahman amazingly. The man then remembered he was still in the deep forest and knew it dangers there with wild beasts, began to cry pitifully. With sympathy he told the brahman; “Now, I can’t close to you anymore. But I still keep my promise to let you out from the forest. Follow my blood drops.”
+The monkey jumped up instantly and uttered these words surprisingly; “Oh! my God, in this world, still has this kind of man exists.” And then he climbed up instantly to a tree nearby and looking at the brahman amazingly. The man then remembered he was still in the deep forest and knew it dangers there with wild beasts, began to cry pitifully. With sympathy he told the brahman; “Now, I can’t close to you anymore. But I still keep my promise to let you out from the forest. Follow my blood drops.”
 
-The bodhisatta bore his severed pain patiently and jumped from one tree to another and showed the way out. After they came out to the edge of the forest, the monkey watched him from behind until to a short distance and left.
+The bodhisatta bore his severed pain patiently and jumped from one tree to another and showed him the way out. After they came out to the edge of the forest, the monkey watched him from behind until to a short distance and left.
 
 As soon as the brahman was out of the bodhisatta’s sight, boils and sores appeared from his whole body. It was very painful and unbearable. He did not dare to go back home and ended up at the city gate and became a street beggar. He lived a very painful and miserable life for a few years. One day the king of the country came out to observe the city, and saw him.
 
@@ -123,7 +123,7 @@ And then in the United States of America, there were many shootings with guns an
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36974#p36974 (posted on 2019-11-20)
+revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36974#p36974 (posted on 2019-11-20)
 
 ------
 
@@ -138,5 +138,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-09-06 rev. the 3rd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

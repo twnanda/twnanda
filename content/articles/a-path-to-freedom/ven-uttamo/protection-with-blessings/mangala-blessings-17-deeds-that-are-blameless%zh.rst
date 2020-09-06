@@ -3,12 +3,12 @@ Deeds That Are Blameless (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-06-25
+:modified: 2020-09-06
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Deeds That Are Blameless (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-06-25
+revised on 2020-09-06
 
 ------
 
@@ -40,7 +40,7 @@ What about ordinary good conduct? These are also very important for a human bein
 
 I had seen a documentary film on human problems in societies, environmental pollution, and some natural disasters caused by human deeds and actions. I will mention them in general only. There was a scene both a father and son liked playing a funny game (i.e., in the father’s view). They slapped each other face in turn. The son might be four or five years old. This small boy was using force and sometimes seeing the father rubbing his face, but he was still laughing. Was this the way a father teaching his son becoming a good person? Now he was slapping you only with hands, but in the future will stab you with a knife.
 
-People are nowadays instead of teaching children respect and gratitude to their parent, teaching them in opposite ways. Around the world, some are shouting for democracy, equality, and human right. Are human beings using it rightly, properly, and wisely? All their good qualities have to be used in the right place in wholesome matters. If using them, wrongly and improperly democracy becomes demo-crazy; equality and human right become licentious matters (current situations around the world become like these).
+People are nowadays instead of teaching children respect and gratitude to their parents, teaching them in opposite ways. Around the world, some are shouting for democracy, equality, and human right. Are human beings using it rightly, properly, and wisely? All their good qualities have to be used in the right place in wholesome matters. If using them, wrongly and improperly democracy becomes demo-crazy; equality and human right become licentious matters (current situations around the world become like these).
 
 If not societies and the world will be in chaos. There was another scene in China. A father was filming with a video camera to his two children; a five years old boy and ten years old girl. What was he filming about? He was urging, encouraging, and cheering them to fight each other. Both children were quite different in body size and strength. Every time he was beaten and fallen on to the ground, and then she kicked and stamped on his body by force.
 
@@ -89,11 +89,11 @@ There are seven kinds of treasure hidden on the earth. These treasures are:
 
 What happens to nowadays human being? Do they know about the hidden treasures and find it? Even most human beings do not know that these things exist. They do not have the treasure’s map. Therefore, most of them behave like rats, cockroaches, and flies. They do not behave like bees, which are selfless creatures and doing their duties for the welfare of others. If someone behaves like rat, cockroach and fly and becomes a nuisance to society, their future births will be very painful.
 
-Now someone is power-monger (politicians, leaders), war-monger, money-monger, etc. because of their misdeeds and next time, they will be a servant cleaning toilet. And a rich person will be a beggar and begging for foods. These seven kinds of treasures are called noble treasures can be found only in the Buddha’s Teachings. Everyone can attain it by noble deeds or deeds that are blameless. Therefore, every Buddhist should cultivate these blameless deeds and attaining the highest blessing in the life—i.e., Nibbāna.
+Now someone is power-monger (politicians, leaders), war-monger, money-monger, etc. because of their misdeeds and next time, they will be a servant cleaning toilet. And a rich person will be a beggar and begging for foods. These seven kinds of treasures are called noble treasures can be found only in the Buddha’s Teachings. Everyone can attain it by noble deeds or deeds that are blameless. Therefore, every Buddhist should cultivate these blameless deeds and attaining the highest blessing in this life—i.e., Nibbāna.
 
 ------
 
-revised on 2020-06-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36963#p36963 (posted on 2019-11-19)
+revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36963#p36963 (posted on 2019-11-19)
 
 ------
 
@@ -108,6 +108,7 @@ revised on 2020-06-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-09-06 rev. the 3rd proofread by bhante
   2020-06-25 rev. the 2nd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

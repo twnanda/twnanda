@@ -3,12 +3,12 @@ Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat (Full Text)
 ===============================================================================
 
 :date: 2019-01-13
-:modified: 2020-06-26
+:modified: 2020-09-06
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat (Full Text)
 
-revised on 2020-06-26
+revised on 2020-09-06
 
 ------
 
@@ -743,7 +743,7 @@ With the purified mind, magga arises. The mind not purify is because of diṭṭ
 
 Therefore the most important point is stabilizing your sati. If something happens without sati and diṭṭhi is sticking with the mind. You must not concern for the khandha. The purification of knowledge is magga – Ñāṇadassanavisuddhi. I’ll talk about the arising of magga. But don’t expect for it to arise. I only want you to know how it happens. It’s something like the whole burning body of dukkha sacca instantly falls away. Or like a light instantly go out. If it’s slowly ceasing or reducing, then it’s not magga. It’s happening within a second. How quick it is, even sometimes you don’t know it? You don’t have time to think about it. It’s akāliko – giving the result without delay. 
 
-After the Path Knowledge arises and instantly follows with two fruition cittas. (Someone with weak faculties follows with three fruition cittas.) The fruition cittas are enjoying the result of magga citta. This kind of experience you have never been enjoyed in the world. It’s supramundane – lokuttara and within a second. Just only think and this kind of thing happens again. I’m not saying you have to believe. It’s true or not can be tested. You have to show me by entering the fruition state. Some yogis don’t have anything for contemplation and it’s peaceful. With this don’t make a decision yet. With the peacefulness and it’s like a statue. Have to make a resolution before entering the fruition state. If you make a resolution for an hour time and like a statue for an hour. You don’t need to check it with the clock. After opening the eyes and it’s exactly an hour. Not in accordance with these two points, then not the Path Knowledge.
+After the Path Knowledge arises and instantly follows with two fruition cittas. (Someone with the keen faculties follows with three fruition cittas.) The fruition cittas are enjoying the result of magga citta. This kind of experience you have never been enjoyed in the world. It’s supramundane – lokuttara and within a second. Just only think and this kind of thing happens again. I’m not saying you have to believe. It’s true or not can be tested. You have to show me by entering the fruition state. Some yogis don’t have anything for contemplation and it’s peaceful. With this don’t make a decision yet. With the peacefulness and it’s like a statue. Have to make a resolution before entering the fruition state. If you make a resolution for an hour time and like a statue for an hour. You don’t need to check it with the clock. After opening the eyes and it’s exactly an hour. Not in accordance with these two points, then not the Path Knowledge.
 
 ------
 
@@ -863,7 +863,7 @@ First, factors of enlightenment arise (i.e., bojjhaṅga dhammas). And then the 
 
 ------
 
-revised on 2020-06-26; cited from  https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35449 (posted on 2018-12-14)
+revised on 2020-09-06; cited from  https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35449 (posted on 2018-12-14)
 
 ------
 
@@ -878,6 +878,7 @@ revised on 2020-06-26; cited from  https://oba.org.tw/viewtopic.php?f=8&t=4021&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  09-06 rev. the 3rd proofread (08-12) by bhante; old:Someone with weak faculties follows with three fruition cittas.
   2020-06-26 rev. proofread by bhante
   2020-02-27 add: Venerable U Ādiccaramsī's Portrait
   12-05 rev. proofread by bhante

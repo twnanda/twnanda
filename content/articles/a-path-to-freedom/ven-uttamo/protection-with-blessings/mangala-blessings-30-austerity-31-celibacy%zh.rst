@@ -3,12 +3,12 @@ Austerity / Celibacy (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-09-06
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Austerity / Celibacy (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-09-06
 
 ------
 
@@ -16,7 +16,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 ------
 
-The commentary explained austerity (tapa) as restraint of the sense faculties. Tapa is a concept of the Indian religion—such as extreme meditation, mortification of the physical body, austere practices, penance, on. In the First Discourse of the Buddha (Dhammacakkapavattana Sutta) —he (the Buddha) rejected the meaning of tapa as mortification of the body which was extreme. Therefore, the Buddha used it as (the same word) wholesome energy (viriya) which burns up unwholesome qualities. In the Buddha sense tapa is burning up the feeling of unhappiness and disappointment, and strong wanting. Someone possesses this quality is called an ardent person or yogi. It is a blessing because it can lead to absorption (jhānas) and other attainments by abandoning all the obstacles.
+The commentary explained austerity (tapa) as restraint of the sense faculties. Tapa is a concept of the Indian religion—such as extreme meditation, mortification of the physical body, austere practices, penance, etc. In the First Discourse of the Buddha (Dhammacakkapavattana Sutta) —he (the Buddha) rejected the meaning of tapa as mortification of the body which was extreme. Therefore, the Buddha used it as (the same word) wholesome energy (viriya) which burns up unwholesome qualities. In the Buddha sense tapa is burning up the feeling of unhappiness and disappointment, and strong wanting. Someone possesses this quality is called an ardent person or yogi. It is a blessing because it can lead to absorption (jhānas) and other attainments by abandoning all the obstacles.
 
 The commentary explained celibacy or spiritual life (brahmacariya) as abstaining from all sexual activity, the duty of a spiritual person, the Buddha-Dhamma (the teaching), practice or the path (Noble Eightfold Path). It is a blessing because this is the cause for the successive achievements or attainments in the spiritual life.
 
@@ -84,7 +84,7 @@ This teaching represented the three training; sīla, samādhi, and paññā. Exc
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36982#p36982 (posted on 2019-11-21)
+revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36982#p36982 (posted on 2019-11-21)
 
 ------
 
@@ -99,5 +99,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-09-06 rev. the 3rd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

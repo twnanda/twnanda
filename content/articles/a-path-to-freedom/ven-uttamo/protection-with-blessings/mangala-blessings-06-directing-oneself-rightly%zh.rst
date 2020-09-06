@@ -3,12 +3,12 @@ Directing Oneself Rightly (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-03-24
+:modified: 2020-09-06
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Directing Oneself Rightly (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-03-24
+revised on 2020-09-06
 
 ------
 
@@ -42,7 +42,7 @@ There are four wheels:
 
 They are mutually conditioning and supporting each other. Therefore, these are like wheels. Human beings will achieve greatness (status, honor, etc.), abundance in terms of wealth and happiness if they are endowed with them. Most Buddhists have the chances and opportunity to develop them because more or less we have it. Only we do not know the suttas or educate with the suttas that not doing it rightly or properly. Instead, we waste our times with worthless worldly matters.
 
-We can illustrate the importance of the four wheels with two well known characters of the Buddha’s disciples, Devadatta and Aṅgulimāla. Both of their lives give us food for thought on Dhamma  if we contemplate it. First, let us contemplate on Devadatta. Among the four wheels he was lacking in the no. ③ wheel of rightly directing oneself which is the most important one of the four wheels and relates to the present actions (Kammas). This 3rd wheel also leads to the other three.  Someone can change his life towards better life by combining with intelligence (knowledge) and effort even his past action was not very good, as an example, the 16th president of United States of American, Abraham Lincoln.
+We can illustrate the importance of the four wheels with two well known characters of the Buddha’s disciples, Devadatta and Aṅgulimāla. Both of their lives give us food for thought on Dhamma  if we contemplate it. First, let us contemplate on Devadatta. Among the four wheels he was lacking in the no. ③ wheel of rightly directing oneself which is the most important one of the four wheels and relates to the present actions (Kammas). This 3rd wheel also leads to the other three.  Someone can change his life towards better life by combining with intelligence (knowledge) and effort even his past action was not very good, as an example, the 16th president of United States of America, Abraham Lincoln.
 
 Devadatta was born into the privileged upper class at the time of spiritual development where a Buddha would soon appear. He was also a cousin and  brother-in-law of the Buddha who also his spiritual teacher. He was one of the perfect persons conducive for enlightenment. But he directed himself wrongly to commit heavy Kammas because of his evil thoughts and hunger for power and ended up in the great hell.
 
@@ -56,7 +56,7 @@ If we want progress and happiness, we need these four conditioned cycles or whee
 
 ------
 
-revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36789#p36789 (posted on 2019-09-20)
+revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36789#p36789 (posted on 2019-09-20)
 
 ------
 
@@ -71,6 +71,7 @@ revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-09-06 rev. the 3rd proofread by bhante
   2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst
