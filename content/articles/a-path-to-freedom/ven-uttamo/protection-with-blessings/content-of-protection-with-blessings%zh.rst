@@ -102,17 +102,17 @@ By Venerable Uttamo（鄔達摩尊者）
   
   * `Seven Purifications <{filename}mangala-blessings-32-3-seven-purifications%zh.rst>`_
 
-    - `Sīla-visuddhi <{filename}mangala-blessings-32-3-sila-visuddhi%zh.rst>`_
+    - `Purification of Virtue <{filename}mangala-blessings-32-3-sila-visuddhi%zh.rst>`_
 
-    - `Purification of the Mind: Citta-visudhi <{filename}mangala-blessings-32-3-purification-of-the-mind%zh.rst>`_
+    - `Purification of the Mind <{filename}mangala-blessings-32-3-purification-of-the-mind%zh.rst>`_
 
-    - `Purification of View: Ditthivisuddhi <{filename}mangala-blessings-32-3-purification-of-the-view%zh.rst>`_
+    - `Purification of View <{filename}mangala-blessings-32-3-purification-of-the-view%zh.rst>`_
 
-    - `Purification by Overcoming Doubt: Kaṅkhāvitaranavisuddhi <{filename}mangala-blessings-32-3-purification-by-overcoming-doubt%zh.rst>`_
+    - `Purification by Overcoming Doubt <{filename}mangala-blessings-32-3-purification-by-overcoming-doubt%zh.rst>`_
 
-    - `Purification of the Path and Not-Path; Purification of the Way <{filename}mangala-blessings-32-3-purification-of-the-path-and-not-path-of-the-way%zh.rst>`_
+    - `Purification of the Path and Not-Path <{filename}mangala-blessings-32-3-purification-of-the-path-and-not-path-of-the-way%zh.rst>`_
 
-    - `Purification of the Way <{filename}mangala-blessings-32-3-purification-of-the-path-of-the-way%zh.rst>`_
+    - `Purification of the Way and Purification by Knowledge and Vision <{filename}mangala-blessings-32-3-purification-of-the-path-of-the-way%zh.rst>`_
 
 - 33 `Realizing Nibbāna <{filename}mangala-blessings-33-realizing-nibbana%zh.rst>`_
 
@@ -128,7 +128,7 @@ By Venerable Uttamo（鄔達摩尊者）
 
 ------
 
-- Full Text (upadate: 2020-07-31)
+- Full Text (upadate: 2020-09-08)
 
   * `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text.pdf>`__ 
   * `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-green.pdf>`__ (backgroup in green)
@@ -146,6 +146,7 @@ By Venerable Uttamo（鄔達摩尊者）
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-09-08 rev. the 4th proofread by bhante
   2020-07-31 rev. the 3rd proofread by bhante
   07-22 rev. the 2nd proofread by bhante
   07-11 add linkings of full-text

@@ -3,12 +3,12 @@ Hearing the Dhamma on Timely Occasions (Maṅgala Sutta – Protection with Bles
 ====================================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2020-09-08
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Hearing the Dhamma on Timely Occasions (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2020-09-08
 
 ------
 
@@ -84,7 +84,7 @@ If someone doubts wrong views and practices is better than without it. But if so
 
 The other is the foundation knowledge of the mind and material phenomena or right view. With the analytical knowledge of mind and body, the view of a being, a person, a soul or self is disappeared. Then, it reduces the affection and hate (like or dislike) on someone. Overcoming doubt is the discernment of the conditions of mind and body. In the world, the different faiths or religions arise is not knowing the causes of phenomena, e.g., the doctrine of the creator and the creation.
 
-The causes of phenomena are so deep and profound that people are following the ways of easy thinking. The Buddha did not accept the first cause or root cause. The easiest way of thinking is the doctrine of non-causes—ahetuka-vada. Both of them are extreme views. Here I want to present a story of a person who had got rid of doubt. This man was born into a Muslim family. At a young age, his father forced him to study and learn the Koran text with a teacher. He had the nature of curiosity, inquiry mind and intelligent. He never accepted anything without clear understanding and direct experience.
+The causes of phenomena are so deep and profound that people are following the ways of easy thinking. The Buddha did not accept the first cause or root cause. The easiest way of thinking is the doctrine of non-causality—ahetuka-vada. Both of them are extreme views. Here I want to present a story of a person who had got rid of doubt. This man was born into a Muslim family. At a young age, his father forced him to study and learn the Koran text with a teacher. He had the nature of curiosity, inquiry mind and intelligent. He never accepted anything without clear understanding and direct experience.
 
 Later he fell in love with a Christian and studied the Old and New Bibles. Later he became a teacher in Philosophy Department and studied all the eastern and western philosophy and doctrines. After sometimes, he had the duty to write a book on Buddhist Ethics to teach the philosophy students. He did not have good knowledge of Buddhism, except mentioned in the Philosophy books. So, he made thorough research and study on Buddhism for the Buddhist Ethics textbook.
 
@@ -215,7 +215,7 @@ Some might think cultivated the pāramīs was for oneself. It is for both, to on
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36978#p36977 (posted on 2019-11-21)
+revised on 2020-09-08; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36978#p36977 (posted on 2019-11-21)
 
 ------
 
@@ -230,5 +230,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-09-08 rev. the 3rd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

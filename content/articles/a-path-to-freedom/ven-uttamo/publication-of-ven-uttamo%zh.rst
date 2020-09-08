@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2020-07-31
+:modified: 2020-09-08
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -786,17 +786,17 @@ Protection with Blessing
   
   * `Seven Purifications <{filename}protection-with-blessings/mangala-blessings-32-3-seven-purifications%zh.rst>`_
 
-    - `Sīla-visuddhi <{filename}protection-with-blessings/mangala-blessings-32-3-sila-visuddhi%zh.rst>`_
+    - `Purification of Virtue <{filename}protection-with-blessings/mangala-blessings-32-3-sila-visuddhi%zh.rst>`_
 
-    - `Purification of the Mind: Citta-visudhi <{filename}protection-with-blessings/mangala-blessings-32-3-purification-of-the-mind%zh.rst>`_
+    - `Purification of the Mind <{filename}protection-with-blessings/mangala-blessings-32-3-purification-of-the-mind%zh.rst>`_
 
-    - `Purification of View: Ditthivisuddhi <{filename}protection-with-blessings/mangala-blessings-32-3-purification-of-the-view%zh.rst>`_
+    - `Purification of View <{filename}protection-with-blessings/mangala-blessings-32-3-purification-of-the-view%zh.rst>`_
 
-    - `Purification by Overcoming Doubt: Kaṅkhāvitaranavisuddhi <{filename}protection-with-blessings/mangala-blessings-32-3-purification-by-overcoming-doubt%zh.rst>`_
+    - `Purification by Overcoming Doubt <{filename}protection-with-blessings/mangala-blessings-32-3-purification-by-overcoming-doubt%zh.rst>`_
 
-    - `Purification of the Path and Not-Path; Purification of the Way <{filename}protection-with-blessings/mangala-blessings-32-3-purification-of-the-path-and-not-path-of-the-way%zh.rst>`_
+    - `Purification of the Path and Not-Path <{filename}protection-with-blessings/mangala-blessings-32-3-purification-of-the-path-and-not-path-of-the-way%zh.rst>`_
 
-    - `Purification of the Way <{filename}protection-with-blessings/mangala-blessings-32-3-purification-of-the-path-of-the-way%zh.rst>`_
+    - `Purification of the Way and Purification by Knowledge and Vision <{filename}protection-with-blessings/mangala-blessings-32-3-purification-of-the-path-of-the-way%zh.rst>`_
 
 - 33 `Realizing Nibbāna <{filename}protection-with-blessings/mangala-blessings-33-realizing-nibbana%zh.rst>`_
 
@@ -815,6 +815,7 @@ Protection with Blessing
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2020-09-08 rev. title of seven purification; proofread by bhante
   2020-07-31 rev. replace introduction with Introduction
   2020-06-26 rev. old:{filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf; {filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf & #14 Giving;
   2020-05-31 rev. correct two urls of full text of Dhamma Talks by Mogok Sayadaw

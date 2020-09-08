@@ -3,12 +3,12 @@ Assistance to One's Wife and Children (Maṅgala Sutta – Protection with Bless
 ==================================================================================
 
 :date: 2019-12-03
-:modified: 2020-09-06
+:modified: 2020-09-08
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Assistance to One's Wife and Children (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-09-06
+revised on 2020-09-08
 
 ------
 
@@ -86,7 +86,7 @@ One day the Buddha saw him leaning against the wall of the monastery and eating 
 
 “Ānanda, look at this son of a rich man; he had lived a useless life, aimless life of pleasure. If he had learned to look after his riches and in the first stage of his life would have been the top ranking rich man. If he had become a monk, could have been an arahant and his wife an anāgāmi (the non-returner). If he had learned to look after his riches in the second stage of his life, he would have been a second ranking rich man.
 
-He could have been an anāgāmin; and his wife a sakadāgāmi (the once-returner), etc., if he had become a monk. However, he lost all the riches, and also all the chances of realization of the paths and fruits because he had done nothing all the three stages of his life.” In this story, we can see the importantce of the four wheels mentioned in the Wheels Discourse already described at directing oneself rightly which related to the present life and its actions.
+He could have been an anāgāmin; and his wife a sakadāgāmi (the once-returner), etc., if he had become a monk. However, he lost all the riches, and also all the chances of realization of the paths and fruits because he had done nothing all the three stages of his life.” In this story, we can see the importance of the four wheels mentioned in the Wheels Discourse already described at directing oneself rightly which related to the present life and its actions.
 
 The Story of Kāla, Son of Anāthapiṇḍika:
 
@@ -138,7 +138,7 @@ How many animals are killed every day around the world for foods alone. In the s
 
 ------
 
-revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36849#p36849 (posted on 2019-10-09)
+revised on 2020-09-08; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36849#p36849 (posted on 2019-10-09)
 
 ------
 
@@ -153,7 +153,7 @@ revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-09-06 rev. the 3rd proofread by bhante
+  2020-09-06; 08 rev. the 3rd proofread by bhante
   2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

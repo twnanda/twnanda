@@ -3,12 +3,12 @@ Purification of View (Maṅgala Sutta – Protection with Blessing)
 ==================================================================================
 
 :date: 2019-12-03
-:modified: 2020-09-06
+:modified: 2020-09-08
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Purification of View: Ditthivisuddhi (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-09-06
+revised on 2020-09-08
 
 ------
 
@@ -18,7 +18,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 Insight practice (vipassanā) is directly referring to wisdom or knowledge (paññā). There are two basic knowledges for vipassanā practice. These are the discernment of mind and matter (nāmarūpa pariggaha ñāṇa) and the discernment of the conditions of mind and matter (paccayapariggaha ñāṇa). In purifications, it referred to diṭṭhivisuddhi and kaṅkhāvitaraṇavisuddhi (No. three and four visuddhi).
 
-For these two basic insight knowledges or purities in view and overcoming doubt, the yogis need to do two things. These are: 1. Study the soil of knowledge or field of knowledge (paññā-bhūmi), 2. Develope or exercise (tisso) pariññā.
+For these two basic insight knowledges or purities in view and overcoming doubt, the yogis need to do two things. These are: 1. Study the soil of knowledge or field of knowledge (paññā-bhūmi), 2. Develop or exercise (tisso) pariññā.
 
 The yogis have to do the study for doing the practice rightly. The yogis need to study about the five khandhas (aggregates), āyatanas (sense bases), dhātu (elements), indriyas (faculties), the Four Noble Truths and dependent co-arising (paṭicca-samuppāda). To have this learning knowledge (suta-mayā paññā) need to study many times. Mogok Sayadaw’s Dhamma talks were a very good example for this purpose. After learning and developing or exercising them by practice.
 
@@ -147,7 +147,7 @@ With the contact of the eye and the physical form, seeing consciousness arises. 
 
 ------
 
-revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36992#p36992 (posted on 2019-11-22)
+revised on 2020-09-08; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36992#p36992 (posted on 2019-11-22)
 
 ------
 
@@ -162,7 +162,7 @@ revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-09-06 rev. the 3rd proofread by bhante
+  2020-09-08 rev. the 3rd proofread by bhante
   2020-07-22 rev. the 2nd proofread by bhante
   2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
