@@ -1,13 +1,19 @@
-護法法師 Home Page
-##################
+護法法師 Home Page of Ven. Dharmagupta
+########################################
 
 :date: 2000-07-08
-:modified: 2007-11-03
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/Dharmagupta/master.htm
+:modified: 2020-11-11
 :tags: 護法法師
 :category: 護法法師
 :summary: 護法法師 Home Page (Home Page of Master Dharmagupta)
 
+- `Dhammapada <{filename}/extra/authors/dharmagupta/dhammapada-gatha-the-way-of-truth.pdf>`_ —The Way of the Truth (in Nepalese language, translated by Bhiksu Dharmagupta Mahastavira)
+
+- `Mahapariptra <{filename}/extra/authors/dharmagupta/mahapariptra-the-book-of-protection.pdf>`_ —The Book of Protectionin (in Nepalese language, editated and translated by Bhiksu Dharmagupta Mahastavira)
+
+- `Dhātukatha <{filename}/extra/authors/dharmagupta/dhaatukatha-discourse-on-elements.pdf>`_ —Discourse on Elements (in Nepalese language, translated by Bhiksu Dharmagupta Mahastavira)
+
+------
 
 - 護法法師簡介。
 - `尊者的足跡－南傳法句經的故事 <{filename}../tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-Ven-Dharmagupta%zh.rst>`_ （或 `此分類項 <{category}尊者的足跡－南傳法句經的故事。>`_ 。
@@ -43,6 +49,8 @@
 - 三淨肉在南傳佛教經典之依據－－
   `耆婆迦經(Jivaka-suttanta)〈中部經典二．第五十五〉 <{filename}/extra/authors/dharmagupta/M-55-Jiivaka.htm>`_
 
+- `《喜悅之路》 <{filename}/extra/authors/dharmagupta/the-way-of-happiness.pdf>`_ （PDF，以上幾本著作之選輯 2020 一月）
+
 ----
 
 .. container:: align-center
@@ -63,7 +71,9 @@
 
 - `師父碩士論文 <{filename}/extra/authors/dharmagupta/thesis/content.htm>`_
 
-.. 07.04 re-load 碩士論文; 尊者的足跡－南傳法句經的故事-- another link rather than category
+.. 
+   2020-11-11 add: 《喜悅之路》pdf, 3 Nepalese books; del::oldurl: http://myweb.ncku.edu.tw/~lsn46/Dharmagupta/master.htm
+   07.04 re-load 碩士論文; 尊者的足跡－南傳法句經的故事-- another link rather than category
    11.03 2007 add: 涅槃的中二高
    08.18 2005
    09.11,  14:45, 08. 15 L4HT 2004;
