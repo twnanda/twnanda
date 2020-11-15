@@ -2,18 +2,18 @@
 ########################################
 
 :date: 2000-07-08
-:modified: 2020-11-12
+:modified: 2020-11-15
 :tags: 護法法師
 :category: 護法法師
 :summary: 護法法師 Home Page (Home Page of Master Dharmagupta)
 
-- `धम्मपद <{filename}/extra/authors/dharmagupta/dhammapada-gatha-the-way-of-truth.pdf>`_ — सत्यको मार्ग (Dhammapada—The Way of the Truth, in Nepalese language, translated by Bhiksu Dharmagupta Mahastavira)
+- `Dhammapada <{filename}/extra/authors/dharmagupta/dhammapada-gatha-the-way-of-truth.pdf>`_ —The Way of the Truth (in Nepalese language, translated by Bhiksu Dharmagupta Mahastavira)
 
-- `धम्मपद अट्ठकथा <{filename}/extra/authors/dharmagupta/dhammapada-atthakatha.pdf>`_ —धम्मप कमेन्टरी (बौद्ध महापुरूष; Dhammapada Aṭṭhakathā—Dhammapada commentary; Buddhist Legends, in Nepalese language, translated by Bhiksu Dharmagupta Mahastavira)
+- `Dhammapada Aṭṭhakathā <{filename}/extra/authors/dharmagupta/dhammapada-atthakatha.pdf>`_ —Dhammapada commentary; Buddhist Legends (in Nepalese language, translated by Bhiksu Dharmagupta Mahastavira)
 
-- `महाभारत <{filename}/extra/authors/dharmagupta/mahapariptra-the-book-of-protection.pdf>`_ —संरक्षण पुस्तक (Mahapariptra—The Book of Protectionin, in Nepalese language, editated and translated by Bhiksu Dharmagupta Mahastavira)
+- `Mahapariptra <{filename}/extra/authors/dharmagupta/mahapariptra-the-book-of-protection.pdf>`_ —The Book of Protectionin (in Nepalese language, editated and translated by Bhiksu Dharmagupta Mahastavira)
 
-- `धटुकाथा <{filename}/extra/authors/dharmagupta/dhaatukatha-discourse-on-elements.pdf>`_ —तत्वहरूमा प्रवचन (Dhātukatha—Discourse on Elements, in Nepalese language, translated by Bhiksu Dharmagupta Mahastavira)
+- `Dhātukatha <{filename}/extra/authors/dharmagupta/dhaatukatha-discourse-on-elements.pdf>`_ —Discourse on Elements (in Nepalese language, translated by Bhiksu Dharmagupta Mahastavira)
 
 ------
 
@@ -74,6 +74,10 @@
 - `師父碩士論文 <{filename}/extra/authors/dharmagupta/thesis/content.htm>`_
 
 .. 
+   11-15 del: धम्मपद — सत्यको मार्ग (Dhammapada—The Way of the Truth); 
+              धम्मपद अट्ठकथा — धम्मप कमेन्टरी (बौद्ध महापुरूष; Dhammapada Aṭṭhakathā—Dhammapada commentary; Buddhist Legends)
+              महाभारत — संरक्षण पुस्तक (Mahapariptra—The Book of Protectionin)
+              धटुकाथा — तत्वहरूमा प्रवचन (Dhātukatha—Discourse on Elements)   *Google mistranslation*
    11-12 add: Dhammapada Aṭṭhakathā—Dhammapada commentary
    2020-11-11 add: 《喜悅之路》pdf, 3 Nepalese books; del::oldurl: http://myweb.ncku.edu.tw/~lsn46/Dharmagupta/master.htm
    07.04 re-load 碩士論文; 尊者的足跡－南傳法句經的故事-- another link rather than category
