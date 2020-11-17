@@ -2,18 +2,20 @@
 ########################################
 
 :date: 2000-07-08
-:modified: 2020-11-15
+:modified: 2020-11-17
 :tags: 護法法師
 :category: 護法法師
 :summary: 護法法師 Home Page (Home Page of Master Dharmagupta)
 
-- `Dhammapada <{filename}/extra/authors/dharmagupta/dhammapada-gatha-the-way-of-truth.pdf>`_ —The Way of the Truth (in Nepalese language, translated by Bhiksu Dharmagupta Mahastavira)
+- `Dhammapada <{filename}/extra/authors/dharmagupta/dhammapada-gatha-the-way-of-truth.pdf>`_ —The Way of the Truth (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
 
-- `Dhammapada Aṭṭhakathā <{filename}/extra/authors/dharmagupta/dhammapada-atthakatha.pdf>`_ —Dhammapada commentary; Buddhist Legends (in Nepalese language, translated by Bhiksu Dharmagupta Mahastavira)
+- `Dhammapada Aṭṭhakathā <{filename}/extra/authors/dharmagupta/dhammapada-atthakatha.pdf>`_ —Dhammapada commentary; Buddhist Legends (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
 
-- `Mahapariptra <{filename}/extra/authors/dharmagupta/mahapariptra-the-book-of-protection.pdf>`_ —The Book of Protectionin (in Nepalese language, editated and translated by Bhiksu Dharmagupta Mahastavira)
+- `Mahapariptra <{filename}/extra/authors/dharmagupta/mahapariptra-the-book-of-protection.pdf>`_ —The Book of Protectionin (in Nepalese language, editated and translated by Bhiksu Dharmagupta Mahasthavira)
 
-- `Dhātukatha <{filename}/extra/authors/dharmagupta/dhaatukatha-discourse-on-elements.pdf>`_ —Discourse on Elements (in Nepalese language, translated by Bhiksu Dharmagupta Mahastavira)
+- `Dhātukatha <{filename}/extra/authors/dharmagupta/dhaatukatha-discourse-on-elements.pdf>`_ —Discourse on Elements (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
+
+- `Vissuddhimaggo <{filename}/extra/authors/dharmagupta/vissuddhimagga.pdf>`_ —The Path of Purification (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
 
 ------
 
@@ -74,6 +76,7 @@
 - `師父碩士論文 <{filename}/extra/authors/dharmagupta/thesis/content.htm>`_
 
 .. 
+   11-17 add: Vissuddhimaggo; rev. replace Mahastavira with Mahasthavira
    11-15 del: धम्मपद — सत्यको मार्ग (Dhammapada—The Way of the Truth); 
               धम्मपद अट्ठकथा — धम्मप कमेन्टरी (बौद्ध महापुरूष; Dhammapada Aṭṭhakathā—Dhammapada commentary; Buddhist Legends)
               महाभारत — संरक्षण पुस्तक (Mahapariptra—The Book of Protectionin)
