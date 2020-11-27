@@ -1,4 +1,4 @@
-ifdef TRAVIS
+ifdef GITHUB_ACTIONS
 PY?=python
 else
 PY?=python3.8.exe
