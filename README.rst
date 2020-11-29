@@ -1,8 +1,8 @@
 如何在Windows系統上開發
 =======================
 
-.. image:: https://travis-ci.org/twnanda/twnanda.png?branch=master
-    :target: https://travis-ci.org/twnanda/twnanda
+.. image:: https://github.com/twnanda/twnanda/workflows/Pelican%20site%20CI/badge.svg
+    :target: https://github.com/twnanda/twnanda/actions
 
 第一次安裝
 ----------
