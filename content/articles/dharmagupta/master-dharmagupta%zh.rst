@@ -2,7 +2,7 @@
 ########################################
 
 :date: 2000-07-08
-:modified: 2020-11-17
+:modified: 2020-12-25
 :tags: 護法法師
 :category: 護法法師
 :summary: 護法法師 Home Page (Home Page of Master Dharmagupta)
@@ -14,6 +14,8 @@
 - `Mahapariptra <{filename}/extra/authors/dharmagupta/mahapariptra-the-book-of-protection.pdf>`_ —The Book of Protectionin (in Nepalese language, editated and translated by Bhiksu Dharmagupta Mahasthavira)
 
 - `Dhātukatha <{filename}/extra/authors/dharmagupta/dhaatukatha-discourse-on-elements.pdf>`_ —Discourse on Elements (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
+
+- `Paṭṭhāna <{filename}/extra/authors/dharmagupta/patthana.pdf>`_ —Conditional Relations (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
 
 - `Vissuddhimaggo <{filename}/extra/authors/dharmagupta/vissuddhimagga.pdf>`_ —The Path of Purification (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
 
@@ -76,6 +78,7 @@
 - `師父碩士論文 <{filename}/extra/authors/dharmagupta/thesis/content.htm>`_
 
 .. 
+   12-25 add: Paṭṭhāna (Conditional Relations)
    11-17 add: Vissuddhimaggo; rev. replace Mahastavira with Mahasthavira
    11-15 del: धम्मपद — सत्यको मार्ग (Dhammapada—The Way of the Truth); 
               धम्मपद अट्ठकथा — धम्मप कमेन्टरी (बौद्ध महापुरूष; Dhammapada Aṭṭhakathā—Dhammapada commentary; Buddhist Legends)
