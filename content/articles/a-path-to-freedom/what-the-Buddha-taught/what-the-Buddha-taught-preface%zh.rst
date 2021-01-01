@@ -3,7 +3,7 @@
 ###################################################
 
 :date: 2019-02-06
-:modified: 2020-08-27
+:modified: 2021-01-01
 :author: 化普樂‧羅睺羅 尊者(Ven. Walpola Rahula Thero)著; Nanda 編譯
 :tags: 前言, 自序, 佛陀的啟示, What the Buddha Taught, 化普樂‧羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 蘇錦坤, 陳健忠, 釋迦的啟示, 佛當初教的是什麼, 佛‧當初教的是什麼
 :category: 解脫之道
@@ -96,7 +96,16 @@ Nanda 編譯 [fn2]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_
             - on `the site <http://www.ahandfulofleaves.org/documents/what%20the%20buddha%20taught_rahula.pdf>`__ of A Handful of Leaves
             - on `the site <https://web.ics.purdue.edu/~buddhism/docs/Bhante_Walpola_Rahula-What_the_Buddha_Taught.pdf>`__ of Purdue Buddhist Society (Second and enlarged edition, 1974)
 
+            - `Rahula & Bomhard - What the Buddha Taught and The Dhammapada (2013) <https://www.academia.edu/43154656/Rahula_and_Bomhard_What_the_Buddha_Taught_and_The_Dhammapada_2013_>`__ ( **the second and enlarged edition, 1974**; Academia.edu)
+
+.. _賴明亮教授:
+
+.. _dr_ml_lai:
+
+            - 賴明亮教授， `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休； `賴明亮 教授追思專輯影片 <https://www.youtube.com/watch?v=iL1utpxa3pw>`_ ，2019-02-28 。
+
 ..
+  2021-01-01 add: Academia.edu; move the link of Dr. Lai to the bottom
   08-26 add: 尊者　明法比丘
   2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst); rev. list of PDF & add 台語與佛典 remark & 失效鍊結
   2019-02-06 post

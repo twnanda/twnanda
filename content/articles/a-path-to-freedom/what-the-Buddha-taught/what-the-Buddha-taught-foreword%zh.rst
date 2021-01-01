@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2019-02-06
-:modified: 2020-08-27
+:modified: 2021-01-01
 :author: 保羅‧戴密否(Paul Demiville); Nanda 編譯
 :tags: 序言, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 蘇錦坤, 陳健忠, 保羅‧戴密否(Paul Demiville), 戴密微, 保羅‧譚米華利, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
@@ -69,7 +69,7 @@ Nanda 編譯 [fw-5]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`
 
 .. [fw-5] 本書編輯乃基於英文原著，主要採用　 `法嚴法師 <{filename}what-the-Buddha-taught-2020%zh.rst#ven-fa-yen>`__ （筆名：顧法嚴）之譯本；並參考 鄭於中 之譯本。 序言（保羅‧戴密否 (Paul Demiville)）及前言（自序）兩篇，則參考 蘇錦坤、陳健忠兩位學者之譯文。註釋部份參考故　`尊者　明法比丘 <http://www.dhammarain.org.tw/obituary.html>`_ （「`法雨道場 <http://www.dhammarain.org.tw/>`_」）遺著與蘇錦坤者；「經典選譯」則參考巴利原典、英文原著及陳健忠等等者。英文及兩位譯者分別之譯文如下列所示，請參考。
 
-  承蒙　 `秀定法師 <https://hdl.handle.net/11296/rkcsmf>`_ 、 `羅慶龍老師 <http://www.dhammarain.org.tw/new/new.html#aacariya-luo-ch-l>`__ 、  `莊博蕙 博士 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst#mn02-att>`__ 、故　賴明亮教授（ `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休； `賴明亮 教授追思專輯影片 <https://www.youtube.com/watch?v=iL1utpxa3pw>`_ ，2019-02-28）、 鄭晴如、 林宗亮、 陳秋雯等諸位善知識，提供寶貴意見、指導、協助；在此一併致上感恩之意。書中或有疏漏、錯繆，蓋為編譯者之責；尚祈 各方賢達不吝 `來函 <mailto:tw.nanda@gmail.com>`__ 賜教！
+  承蒙　 `秀定法師 <https://hdl.handle.net/11296/rkcsmf>`_ 、 `羅慶龍老師 <http://www.dhammarain.org.tw/new/new.html#aacariya-luo-ch-l>`__ 、  `莊博蕙 博士 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst#mn02-att>`__ 、故　 賴明亮教授_ 、 鄭晴如、 林宗亮、 陳秋雯等諸位善知識，提供寶貴意見、指導、協助；在此一併致上感恩之意。書中或有疏漏、錯繆，蓋為編譯者之責；尚祈 各方賢達不吝 `來函 <mailto:tw.nanda@gmail.com>`__ 賜教！
 
      Nanda 謹誌。
 
@@ -101,7 +101,16 @@ Nanda 編譯 [fw-5]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`
       - on `the site <http://www.ahandfulofleaves.org/documents/what%20the%20buddha%20taught_rahula.pdf>`__ of A Handful of Leaves
       - on `the site <https://web.ics.purdue.edu/~buddhism/docs/Bhante_Walpola_Rahula-What_the_Buddha_Taught.pdf>`__ of Purdue Buddhist Society (Second and enlarged edition, 1974)
 
+      - `Rahula & Bomhard - What the Buddha Taught and The Dhammapada (2013) <https://www.academia.edu/43154656/Rahula_and_Bomhard_What_the_Buddha_Taught_and_The_Dhammapada_2013_>`__ ( **the second and enlarged edition, 1974**; Academia.edu) 
+
+.. _賴明亮教授:
+
+.. _dr_ml_lai:
+
+- 賴明亮教授， `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休； `賴明亮 教授追思專輯影片 <https://www.youtube.com/watch?v=iL1utpxa3pw>`_ ，2019-02-28 。
+
 ..
+  2021-01-01 add: Academia.edu; move the link of Dr. Lai to the bottom
   08-26 add: 尊者　明法比丘
   2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst; rev. list of PDF & add 台語與佛典 remark & 失效鍊結
   2019-02-06 finish & post 
