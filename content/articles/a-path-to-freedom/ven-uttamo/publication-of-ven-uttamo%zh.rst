@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2020-09-08
+:modified: 2021-01-11
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -40,7 +40,7 @@ Dhamma Talks by Mogok Sayadaw
      - `Part 11`_
      - `Part 12`_
    * - `Part 13`_
-     - `Conclusion <{filename}dhamma-talks-by-mogok-sayadaw/postscript%zh.rst>`__ (Postscript)
+     - `Epilogue <{filename}dhamma-talks-by-mogok-sayadaw/postscript%zh.rst>`__
      - `Appendix <{filename}dhamma-talks-by-mogok-sayadaw/appendix%zh.rst>`__
      - | `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ ;
        | `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (PDF, background in green)
@@ -701,7 +701,7 @@ _`Part 13` ( `content of Part 13 <{filename}dhamma-talks-by-mogok-sayadaw/pt13-c
 
 - 25.) `Perfection for Nibbāna <{filename}dhamma-talks-by-mogok-sayadaw/pt13-25-perfection-for-nibbana%zh.rst>`_ (N/A)
 
-- 26.) `Sukkha Nibbāna <{filename}dhamma-talks-by-mogok-sayadaw/pt13-26-sukkha-nibbana%zh.rst>`_ (In 1954)
+- 26.) `Sukha Nibbāna <{filename}dhamma-talks-by-mogok-sayadaw/pt13-26-sukha-nibbana%zh.rst>`_ (In 1954)
 
 - 27.) `Ascending with Three Knowledges <{filename}dhamma-talks-by-mogok-sayadaw/pt13-27-ascending-with-three-knowledges%zh.rst>`_ (N/A)
 
@@ -887,6 +887,7 @@ Protection with Blessing
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante; old: Part 13-26 Sukkha Nibbāna & old title: Conclusion (Postscript)
   2020-12-30 add: Part 13; Conclusion (Postscript) & Appendix
   2020-09-08 rev. title of seven purification; proofread by bhante
   2020-07-31 rev. replace introduction with Introduction
