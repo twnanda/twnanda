@@ -3,18 +3,18 @@ The Most Dangerous Enemy
 ===========================
 
 :date: 2020-12-30
-:modified: 2020-12-30
+:modified: 2021-01-11
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Most Dangerous Enemy (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
 Dhamma Talks by Mogok Sayadaw; (no date)
 
-[Here is again a Dhamma talk based on wrong view (diṭṭhi) which came from Aggivacchagotta Sutta—to Vacchagotta on fire, Majjhima Nikāya (MN 72). Sayadaw himself used this sutta a lot in many of his talks on dealing with diṭṭhi. The Buddha was using the extinction or cessation of fuel and fire for Nibbāna was a very good and clear simile on the nature of Nibbāna. If we study the talk of Mogok Sayadaw, he put more emphasis on killing diṭṭhi because it’s the seed of apāya dugatis (hell, animals and hungry shades). 
+[Here is again a Dhamma talk based on wrong view (diṭṭhi) which came from Aggivacchagotta Sutta—to Vacchagotta on fire, Majjhima Nikāya (MN 72). Sayadaw himself used this sutta a lot in many of his talks on dealing with diṭṭhi. The Buddha was using the extinction or cessation of fuel and fire for Nibbāna was a very good and clear simile on the nature of Nibbāna. If we study the talks of Mogok Sayadaw, he put more emphasis on killing diṭṭhi because it’s the seed of apāya dugatis (hell, animals and hungry shades). 
 
 Combining with taṇhā becomes great taṇhā—diṭṭhi-taṇhā, the sufferings it creates are in wide range and unthinkable. Its influence is from the lowest hells to the highest existence of neither perception nor non-perception—the immaterial jhānic plane, except for the five pure abodes for the non-returners (anāgāmi). After eradicated diṭṭhi suffering waiting for a stream-enterer was only seven drops of water compared with the sufferings in the ocean of water which a worldling had to be suffered. Someone eradicated diṭṭhi had stable sīla, so he never harmed himself and others in any ways. 
 
@@ -24,7 +24,7 @@ Diṭṭhupādāna (clinging with wrong view) means binding with wrong view, aft
 
 Throughout the saṃsāra beings are always in this situation. If diṭṭhi does not fall away (i.e. the diṭṭhi rope), then only drifting, whirling (whirlpool) and sinking will follow. Thus, the Buddha mentioned that if diṭṭhi disappeared, all others would collapse (i.e. kilesa; and will eventually be affirmed as Nibbāna).
 
-It becomes clear how much important for diṭṭhi to be fallen off.  There are two causes for diṭṭhi arising—wrong attention (ayoniso) and listening to wrong teachings. Khandha itself is impermanent (anicca), suffering (dukkha), not-self (anatta), 32 parts of loathsomeness (asubha) but someone takes it as —wrong view, permanent of happiness, wrong view of self and wrong view of beautiful (nicca-diṭṭhi, sukha-diṭṭhi, atta-diṭṭhi and subha-diṭṭhi). Combining them with the khandha becomes identify view—sakkāya-diṭṭhi. Without seeing of impermanence diṭṭhi can’t fall away. (Sayadaw talked about the extensiveness of taint of view—diṭṭhāsava and Vacchagotta brahmin.)
+It becomes clear how much important for diṭṭhi to be fallen off. (This explains the importance of diṭṭhi shedding.) There are two causes for diṭṭhi arising—wrong attention (ayoniso) and listening to wrong teachings. Khandha itself is impermanent (anicca), suffering (dukkha), not-self (anatta), 32 parts of loathsomeness (asubha) but someone takes it as —wrong view of permanent, wrong view of happiness, wrong view of self and wrong view of beautiful (nicca-diṭṭhi, sukha-diṭṭhi, atta-diṭṭhi and subha-diṭṭhi). Combining them with the khandha becomes identify view—sakkāya-diṭṭhi. Without seeing of impermanence diṭṭhi can’t fall away. (Sayadaw talked about the extensiveness of taint of view—diṭṭhāsava and Vacchagotta brahmin.)
 
 After diṭṭhi falls away (i.e., momentary by contemplation) and doing dāna it’ll send one to the goal of Nibbāna (merit with right view and inspiration for Nibbāna or the ending of dukkha). Because this kind of dāna includes ñāṇa.
 
@@ -42,6 +42,7 @@ In the sutta Vacchagotta brahmin asked the Buddha—after the arahant died where
 
 In the 12 links of D.A. process only the fuel and fire exist, i.e., khandha fuel and kilesa fire which are dukkha and samudaya. Dukkha has to be discarded, and Samudaya has to be abandoned. The fuel is consumed, and the fire is extinguished by cutting off the D.A. process. Freedom from the vaṭṭas (rounds of existence—these are khandha vaṭṭa, kilesa vaṭṭa and kamma vaṭṭa) means that the fuel is consumed and the fire is extinguished. So, the fire has gone out and the fuel has finished is Nibbāna.
 
+------
 
 [ Note on identity view and arahant:
 
@@ -61,7 +62,7 @@ Thus Mogok Sayadawgyi interpreted Nibbāna in many different ways in order to ex
 
 ------
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -80,4 +81,5 @@ revised on 2020-12-30
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante
   2020-12-30 create rst; post on 12-30

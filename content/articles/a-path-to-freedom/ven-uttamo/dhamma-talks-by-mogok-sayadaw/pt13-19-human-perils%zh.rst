@@ -3,12 +3,12 @@ Human Perils
 =============================================
 
 :date: 2020-12-30
-:modified: 2020-12-30
+:modified: 2021-01-11
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Human Perils (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -18,11 +18,11 @@ Dhamma Talks by Mogok Sayadaw; 8th January 1961
 
 The Buddha’s discourse to them was: When threatened with danger men went to many as a refuge but these kinds of refuge was not a safe refuge and also not the best ones. One cannot be freed from all the evil consequences of existence (dukkha) by coming to such a refuge.
 
-One who took refuge in the Buddha, Dhamma and Ariya Saṅgha penetrated the four Noble Truths which led to the cessation of dukkha. This indeed was the safe and best refuge.
+One took refuge in the Buddha, Dhamma and Ariya Saṅgha and penetrated the four Noble Truths which led to the cessation of dukkha. This indeed was the safe and best refuge.
 
 There are other many types of refuge by man. Majority of people are craving and clinging for them which create human problems internally and externally. These kinds of wrong refuge are sensual pleasures, money, wealth, power, fame, etc. These kinds of wrong refuge can lead mankind to destruction. Today a lot of human and environmental problems in societies to the international level are testified to the point.]
 
-You’re reciting—Buddhaṃ saraṇaṃ gacchāmi, Dhammaṃ saraṇaṃ gacchāmi and Saṅghaṃ saraṇaṃ gacchāmi. (i.e., reciting the formula of taking refuge in the Buddha, Dhamma and Saṅghaṃ) But it’s unstable yet. Why is that? This kind of refuge is not knowing or penetrating the truth (sacca) yet. Only after you have penetrated the truth and your refuge becomes stable. You must not think that with an unstable refuge you are safe from falling back into the painful or woeful existences (apāyas). This refuge, which will never perish wherever, whenever and under whatever circumstances you may be, can only be possible if you get the knowledge of the truth. Having a stable refuge and not falling into the painful existence are of the same essence; they have a cause and effect relationship. Of all the perils, the worst is the peril of meeting the "wrong person"—manussatova.
+You’re reciting—Buddhaṃ saraṇaṃ gacchāmi, Dhammaṃ saraṇaṃ gacchāmi and Saṅghaṃ saraṇaṃ gacchāmi. (i.e., reciting the formula of taking refuge in the Buddha, Dhamma and Saṅghaṃ) But it’s unstable yet. Why is that? This kind of refuge is not knowing or penetrating the truth (sacca) yet. Only after you have penetrated the truth and your refuge becomes stable. You must not think that with an unstable refuge you are safe from falling back into the painful or woeful existences (apāyas). This refuge, which will never perish wherever, whenever and under whatever circumstances you may be, can only be possible if you know the Noble Truth. Having a stable refuge and not falling into the painful existence are of the same essence; they have a cause and effect relationship. Of all the perils, the worst is the peril of association with "wrong people"—manussatova.
 
 [ note: some Burmese Buddhists do Pāli-chanting for prayer they make wishes of free from some perils—bhaya; as example—free from amanussatova—wild or fierce spirits, etc. Here the human peril which Sayadaw referred to is association with people who have wrong views and teaching which can harm one. In the Aṅguttara Nikāya, we can find some teachings on perils by the Buddha. All these are interesting and useful for reflections.
 
@@ -62,4 +62,5 @@ revised on 2020-12-30
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante
   2020-12-30 create rst; post on 12-30

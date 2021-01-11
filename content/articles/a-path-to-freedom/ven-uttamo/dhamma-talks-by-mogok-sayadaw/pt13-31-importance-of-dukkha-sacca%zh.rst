@@ -3,20 +3,20 @@ Importance of Dukkha Sacca
 =============================================
 
 :date: 2020-12-30
-:modified: 2020-12-30
+:modified: 2021-01-11
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Importance of Dukkha Sacca (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
 Dhamma Talks by Mogok Sayadaw; (no date)
 
-The saṃsāra is very long for us if we do not know the Four Noble Truths. To know one Noble Truth of Dukkha is the most important one. 
+The saṃsāra is very long for us without knowing the Four Noble Truths. To know one Noble Truth of Dukkha is the most important one. 
 
-(In some suttas, the Buddha has said that he only teaches the dukkha and the ending of the dukkha—past, present and future; and that what has been and will be taught is the same thing.) 
+(In some suttas, the Buddha has said that he only teaches the dukkha and the ending of the dukkha. In the past and the future, what all other Buddhas had taught and will teach is the same thing.) 
 
 By penetrating of dukkha sacca, samudaya sacca (i.e., taṇhā) is abandoned. If you don’t cut off from ignorance (avijjā) and the connection with death is never cutting off. If khandha does not disappear, death does not disappear either; for the disappearance of khandha is Nibbāna.
 
@@ -40,7 +40,7 @@ Kukkucca—remorse and worry could arise at the time of practice and near death.
 
 ------
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -59,4 +59,5 @@ revised on 2020-12-30
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante
   2020-12-30 create rst; post on 12-30

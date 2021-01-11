@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2020-12-30
+:modified: 2021-01-11
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -34,7 +34,7 @@ Dhamma Talks by Mogok Sayadaw
      - `Part 11`_
      - `Part 12`_
    * - `Part 13`_
-     - `Conclusion <{filename}postscript%zh.rst>`__ (Postscript)
+     - `Epilogue <{filename}postscript%zh.rst>`__
      - `Appendix <{filename}appendix%zh.rst>`__
      - | `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ ;
        | `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (PDF, background in green)
@@ -695,7 +695,7 @@ _`Part 13` ( `content of Part 13 <{filename}pt13-content-of-part13%zh.rst>`_ )
 
 - 25.) `Perfection for Nibbāna <{filename}pt13-25-perfection-for-nibbana%zh.rst>`_ (N/A)
 
-- 26.) `Sukkha Nibbāna <{filename}pt13-26-sukkha-nibbana%zh.rst>`_ (In 1954)
+- 26.) `Sukha Nibbāna <{filename}pt13-26-sukha-nibbana%zh.rst>`_ (In 1954)
 
 - 27.) `Ascending with Three Knowledges <{filename}pt13-27-ascending-with-three-knowledges%zh.rst>`_ (N/A)
 
@@ -713,7 +713,7 @@ _`Part 13` ( `content of Part 13 <{filename}pt13-content-of-part13%zh.rst>`_ )
 
 ------
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -724,6 +724,7 @@ revised on 2020-12-30
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante; old: Part 13-26 Sukkha Nibbāna & old title: Conclusion (Postscript)
   2020-12-30 add: Part 13; Conclusion (Postscript) & Appendix
   2020-07-31 rev. replace introduction with Introduction
   06-26 rev. old:{filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf; {filename}/extra/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf

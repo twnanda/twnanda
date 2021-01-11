@@ -3,12 +3,12 @@ Bhikkhu Yamaka
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-05-26
+:modified: 2021-01-11
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Bhikkhu Yamaka (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-05-26
+revised on 2021-01-11
 
 ------
 
@@ -16,13 +16,13 @@ Dhamma Talks by Mogok Sayadaw; 16th Feb. to 23rd Feb. 1959
 
 T1 
 
-[It was from Saṃyutta-Nikkāya. Yamaka listened to the teaching of the Buddha who mentioned his past lives. Yamaka took it as sassatadiṭṭhi – permanent view; and then after the arahant died as uccheda diṭṭhi – annihilation. (Ven. Yamaka took the unenlightened being died as sassata and the arahant as uccheda view.) Sayadaw said it’s important to know Nibbāna by direct experience. In practice it’s important to start systematically from sotāpanna to arahant, i.e., to destroy wrong views and later destroy taṇhā. First Sāriputta dispelled Yamaka’s wrong view of annihilationism – uccheda diṭṭhi. By Sāriputta's questioning him, Yamaka entered the stream. After that, help him destroy taṇhā. Contemplate the 5-khandhas as murderer (vadhaka). All these were happening during the instructions. How to dispel uccheda diṭṭhi? By the D. A. of the khandhas – khandha paṭiccasamuppāda. Sayadaw mentioned the 12-links, avijjā paccaya saṅkhāra -> viññāṇa ->…etc. Only causes and effects process, saṅkhāra dhamma arises and saṅkhāra dhamma ceases. No being in it but only saṅkhāra dhamma. Saṅkhāra is dukkha. Arahant dies is only saṅkhāra dies or ceases or ends, and when dukkha ends and sukha exist. Sayadaw said that this intellectual knowledge closed the door of avīci hell, because the fixed wrong views die away. (The 3-niyata micchā diṭṭhi – fixed wrong views are non-action (akiriya diṭṭhi), non-cause (ahetuka diṭṭhi) and non-result (natthika diṭṭhi). In the Sāmmaññaphala Sutta of Dīgha Nikāya , sutta No. 2 (DN 2), The fruits of the Contemplative Life, Pūrana Kassapa (or Pūraṇa Kassapa), Makkhali Gosāla and Ajita Kesakambalin were teaching these views or doctrines to people.
+[It was from Saṃyutta-Nikkāya. Yamaka listened to the teaching of the Buddha who mentioned his past lives. Yamaka took it as sassatadiṭṭhi – permanent view; and then after the arahant died as uccheda diṭṭhi – annihilation. (Ven. Yamaka took the unenlightened being died as sassata and the arahant as uccheda view.) Sayadaw said it’s important to know Nibbāna by direct experience. In practice it’s important to start systematically from sotāpanna to arahant, i.e., to destroy wrong views and later destroy taṇhā. First Sāriputta dispelled Yamaka’s wrong view of annihilationism – uccheda diṭṭhi. By Sāriputta's questioning him, Yamaka entered the stream. After that, Sāriputta helped him destroy taṇhā, and taught him to contemplate the 5‐khandhas as murderer (vadhaka). All these were happening during the instructions, one can dispel uccheda diṭṭhi by means of the D. A. of the khandhas—khandha paṭiccasamuppāda. Sayadaw mentioned the 12-links, avijjā paccaya saṅkhāra -> viññāṇa ->…etc. Only causes and effects process, saṅkhāra dhamma arises and saṅkhāra dhamma ceases. No being in it but only saṅkhāra dhamma. Saṅkhāra is dukkha. Arahant dies is only saṅkhāra dies or ceases or ends, and when dukkha ends and sukha exist. Sayadaw said that this intellectual knowledge closed the door of avīci hell, because the fixed wrong views die away. (The 3-niyata micchā diṭṭhi – fixed wrong views are non-action (akiriya diṭṭhi), non-cause (ahetuka diṭṭhi) and non-result (natthika diṭṭhi). In the Sāmmaññaphala Sutta of Dīgha Nikāya , sutta No. 2 (DN 2), The fruits of the Contemplative Life, Pūrana Kassapa (or Pūraṇa Kassapa), Makkhali Gosāla and Ajita Kesakambalin were teaching these views or doctrines to people.
 
 It seems that there are many universes in space. The Buddha said a hell being who has niyata micchādiṭṭhi suffers in hell (When the time comes for its destruction has to be moved on or born again in the hell of another universe and continues to suffer). Sabbe saṅkhāra anicca-ti=All conditioned phenomena are impermanent, sabbe saṅkhāra dukkha-ti=All conditioned phenomena are dukkha, when conditioned (saṅkhata) ends and unconditioned (asaṅkhata) arises, which is Nibbāna. Saṅkhata dukkha ends and asaṅkhata sukha arises.] 
 
 If an arahant dies and becomes nothingness, then who will want it? If happiness is existing and people will want it. Uccheda diṭṭhi is more fearful than the 5-heavy kammas (pañcānantarika kamma). There are 2-kinds of loss: the loss of knowing and unknowing. After knowing the dhamma of dispelling wrong views and not practicing it is a loss. The loss of unknowing is never heard about these kind of teaching. The loss of knowing without practice is more than the other. (The greatest loss, most Buddhists are in this group.)
 
-(Sayadaw pointed to the chart of Dependent Arising and said) It’s only saṅkhāra arises and saṅkhāra ceases. There is no person and living being. If you know like this, uccheda diṭṭhi falls away. Only the process of saṅkhāra arises and ceases. No arahant born and died. Only the assemblage of dukkha ceased. If dukkha ends, sukha must appear. Change into sukha. If you know this much will not fall into hell. Dukkha ending that Nibbāna is called sukha. If saṅkhata dukkha ends, asaṅkhata sukha must appear.
+(Sayadaw pointed to the chart of Dependent Arising and said) It’s only saṅkhāra arises and saṅkhāra ceases. There is no person and living being. If you know like this, uccheda diṭṭhi falls away. Only the process of saṅkhāra arises and ceases. No arahant born and died. Only the assemblage of dukkha ceased. If dukkha ends, sukha must appear. From dukkha, it crosses into sukha. If you know this much will not fall into hell. Dukkha ending that Nibbāna is called sukha. If saṅkhata dukkha ends, asaṅkhata sukha must appear.
 
 ------
 
@@ -85,7 +85,7 @@ There are only 2 dhammas; wrong view and right view. With wrong view go to unple
 
 ------
 
-revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35558#p35558 (posted on 2018-12-14)
+revised on 2021-01-11; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35558#p35558 (posted on 2018-12-14)
 
 ------
 
@@ -106,6 +106,7 @@ revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante; old: "After that, help him destroy taṇhā. Contemplate the 5-khandhas as murderer (vadhaka). All these were happening during the instructions. How to dispel uccheda diṭṭhi? By the D. A. of the khandhas – khandha paṭiccasamuppāda." & "Change into sukha." ?? perhaps it's better: "It crosses over from dukkha to sukha.""??
   05-26 rev. proofread by bhante
   04-21 rev. & add: Content of Publications of Ven. Uttamo; Content of Part 2 on "Dhamma Talks by Mogok Sayadaw"
         del: https://mogokdhammatalks.blog/

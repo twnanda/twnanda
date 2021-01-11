@@ -3,12 +3,12 @@ Is It Your View or the Buddha’s View?
 =============================================
 
 :date: 2020-12-30
-:modified: 2020-12-30
+:modified: 2021-01-11
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Is It Your View or the Buddha’s View? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -22,28 +22,28 @@ From the history of Buddhism, we know about its disappearance in India and sprea
 
 Nowadays we can see in some traditions with their new ideas and views have difficulties in their ways and practices. Even through the original teachings of Pāli Nikāya, it is difficult to understand clearly and practice effectively without a good, experienced teacher. Sayadawji’s talks were also supported the importance of maintaining and preserving its original teaching of the Buddha.]
 
-Some people are still dissatisfied with the answer of the Buddha’s view as that much (i.e., removal of desire and lust). So, they will ask more on it. In regard to what did the Buddha teach the removal of desire and lust. This is in regard to the removal of chanda-rāga on the five khandhas. You have to answer clearly as to remove the desire and lust in any one of the khandhas. The five khandhas are dukkha sacca, so it’s not for attachment and have to be separated with it. They will again ask what the benefit of removal of them is. The result of not removal of chanda-rāga on the khandhas it—the khandha will change and perish. When it is changed and perished there arise in one sorrow, lamentation, pain, displeasure and despair. Man and woman become husband and wife, so what are they doing for it about? For making wealth and money! (audience in the one answered) No! You’re looking for crying. (Sayadaw’s answer)
+Some people are still dissatisfied with the answer of the Buddha’s view as that much (i.e., removal of desire and lust). So, they will ask more on it. In regard to what did the Buddha teach the removal of desire and lust. This is in regard to the removal of chanda-rāga on the five khandhas. You have to answer clearly as to remove the desire and lust in any one of the khandhas. The five khandhas are dukkha sacca, so they are not meant to be clung upon and are to be separated from it. They will again ask you what the benefit of removal of them is. The result of not removal of chanda-rāga on the khandhas it—the khandha will change and perish. When it is changed and perished there arise in one sorrow, lamentation, pain, displeasure and despair. Man and woman become husband and wife, so what are they doing for it about? For making wealth and money! (one man in the audience answered) No! You’re looking for crying. (Sayadaw’s answer)
 
-You all talk about it as a marriage and become confused. You can’t live without any for crying. You have to cry if looking for crying. You’ll become unhappy if looking for unhappiness. (Sayadaw gave some examples for family life.) Please tell about the results of non-affliction (i.e., removal of chanda-rāga) You have to answer in this way. One is devoid of desire, lust and affliction and sorrow, lamentation, pain, displeasure and despair do not arise in one. This is the exhortation of if you don’t want to cry and don’t attach to them (as the main point want to be free from dukkha).
+You all talk about it as a marriage and become confused. You can’t live without any for crying. You have to cry if looking for crying. You’ll become unhappy if looking for unhappiness. (Sayadaw gave some examples for family life.) Please tell about the results of no desire. (i.e., removal of chanda-rāga) You have to answer in this way. One is devoid of desire, lust and clinging, then sorrow, lamentation, pain, displeasure and despair do not arise in one. This is to exhort you not to attach yourself to them if you don't want to cry (the point of which is to get relief from the dukkha).
 
-In the sutta, Ven. Sāriputta only mentioned this much (i.e., not about practice). You’ll have passion, desire and lust if not practicing vipassanā. Therefore, with vipassanā practice you don’t have affliction regard to them. Only with the discernment of anicca, dukkha, anatta and asubha of its nature there will be no affliction and desire. 
+In the sutta, Ven. Sāriputta only mentioned this much (i.e., not included on practice). You’ll have passion, desire and lust if not practicing vipassanā. Therefore, with vipassanā practice you don’t have desire regard to them. Only with the discernment of anicca, dukkha, anatta and asubha of its nature there will be no desire and affliction.
 
 (This point is important because I had met a yogi who practiced a long retreat and discerned these natures but not to the ending of them. He was a businessman, so he had to maintain his practice in business life. Therefore, he had to activate anicca whenever had the chance to develop it. It did not affect his business and practice; a few years later, he achieved his goal.) 
 
-They’ll ask again, with affliction and desire or no affliction and no desire what phenomena will dwell in the mind? Unwholesome dhamma (akusala) will dwell in the mind with affliction and desire, and without it akusala dhamma cease. Therefore, you must practice vipassanā. You have to give the answers for the Buddha’s view up to this point.
+They’ll ask again, with affection and desire what phenomena will dwell in the mind? Unwholesome dhamma (akusala) will dwell in the mind with affection and desire, and without it akusala dhamma cease. Therefore, you must practice vipassanā. You have to give the answers for the Buddha’s view up to this point.
 
-[After many years of listening to Sayadawji’s talks with contemplation in daily life from current situations in societies around the world (i.e., to the international level among countries), I understand how importance the Buddha’s message to all humans. Here, by 'the message of the Buddha', I mean the teaching on the 'Dhamma-Vinaya' in the Pāli Nikāyas.
+[After many years of listening to Sayadawji’s talks with contemplation in daily life from current situations in societies around the world (i.e., to the international level among countries), I understand that the Buddha's message is so important to all human beings. Here, by 'the message of the Buddha', I mean the teaching on the 'Dhamma-Vinaya' in the Pāli Nikāyas.
 
 The Buddha admonished very strong to some monks who misinterpreted his teachings regard with Dhamma and Vinaya, as to Bhikkhu Sāti in Mahātaṇhāsaṅkhaya Sutta (MN 38) and Bhikkhu Ariṭṭa in Alagaddūpama Sutta (MN 22), both in Majjhima Nikāya. In the Aṅguttara Nikāya we can see some Suttas on the preserving the Dhamma which is good for contemplation. The list of them are: I:130-169, 2:20, 2:41, 4:160, 4:180, 5:79-80, 5:154-156, 5:201, 6:40, 7:59 (From Bhikkhu Bodhi’s translations)
 The explanation regard to the numbers—as example I:130-169. (I is the Book of the ones, 130 to 169 are the Sutta numbers.)
 
 Before the Buddha passed away, he did not appoint nay personal figure to replace him. Here we can see the wisdom of the Buddha not like any other religious figures because man could not be reliable like the Dhamma. Even we can see the problem in later Buddhist tradition and other faiths, some of them were fighting each other for power and wealth. Therefore, the Buddha appointed the Dhamma-Vinaya as the teacher for all followers on his behalf. Even then some later Buddhists using the quotation—“Taking the sīla as your teacher”, without Dhamma.
 
-This was like a person who only has one led, instead of two legs or only has one arm, instead of two arms. In Pāli, Dhamma is represented the teaching of the Buddha, and Adhamma is the teaching which did not come from the Buddha.]
+This was like a person who only has one leg, instead of two legs or only has one arm, instead of two arms. In Pāli, Dhamma is represented the teaching of the Buddha, and Adhamma is the teaching which did not come from the Buddha.]
 
 ------
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -62,4 +62,5 @@ revised on 2020-12-30
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante
   2020-12-30 create rst; post on 12-30

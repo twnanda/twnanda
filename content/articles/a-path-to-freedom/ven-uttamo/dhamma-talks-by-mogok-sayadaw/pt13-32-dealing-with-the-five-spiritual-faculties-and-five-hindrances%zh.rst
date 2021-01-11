@@ -3,12 +3,12 @@ Dealing With the Five Spiritual Faculties and Five Hindrances
 ====================================================================
 
 :date: 2020-12-30
-:modified: 2020-12-30
+:modified: 2021-01-11
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Dealing With the Five Spiritual Faculties and Five Hindrances (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -36,16 +36,15 @@ A bowl of water stirred by the wind rippling and swirling into wavelets. If some
 
 Again, Sayadaw explained these two hindrances with Ven. Soṇa (Koḷivīsa) from the Aṅguttara Nikāya—Soṇa Sutta, the Book of the Sixes (AN. 6.55 Soṇasuttaṃ). The simile the Buddha explained to Soṇa was playing a lute but Sayadaw using the Burmese harp—not the western harp. When the strings of the lute/harp are neither too tight nor too loose and adjusted to a balance pitch is easy to play with a pleasant music. If the strings are too tight or too loose will has the opposite result—i.e., not easy to play and unpleasant sounds arise. In the same way, if viriya is aroused too forcefully leads to restlessness and if the energy is too lax leads to laziness. So, the Buddha taught him resolved on the balancing of energy would achieve evenness of the five spiritual faculties and taking up with the object or keeping up with the nimitta as mentioned by Sayadaw in this talk.]
 
+Allow your efforts to be practiced with a balanced effort between the extremes of too much or too much relaxation. Contemplate their anicca and returning to the impermanence of the khandha if restlessness and laziness come in. This will see the khandha with magga. I’ll talk about the balancing art of the Dhamma.
 
-Let your effort in between the extreme of too much or too relax, and practice with the balanced effort. Contemplate their anicca and returning to the impermanence of the khandha if restlessness and laziness come in. This will see the khandha with magga. I’ll talk about the balancing art of the Dhamma.
-
-|    1. Make adjustment of confidence (saddhā) and wisdom (paññā).
-|    2. Make adjustment of effort (viriya) and concentration (samādhi).
-| 
+   | 1. Make adjustment of confidence (saddhā) and wisdom (paññā).
+   | 2. Make adjustment of effort (viriya) and concentration (samādhi).
+   | 
 
 The amount of mindfulness (sati) is never over like the other factors. Making an able adjustment will discern impermanence. Out of mindfulness is the working of delusion (moha). 
 
-There, the Buddha reminded us to have sati all the time. Some have strong faith (saddhā) but no wisdom that they have respect on things which should pay much attention to it—for example, on the form of the Buddha or Buddha images. Their faith and respect don’t reach to the wisdom (ñāṇa) Buddha. Taṇhā comes in with over faith. They are in the wrong direction without encountering a good teacher, because wisdom is retreated. 
+There, the Buddha reminded us to have sati all the time. Some have strong faith (saddhā) but no wisdom that they have respect on things which should not pay much attention to it—for example, on the form of the Buddha or Buddha images. Their faith and respect don’t reach to the wisdom (ñāṇa) Buddha. Taṇhā comes in with over faith. They are in the wrong direction without encountering a good teacher, because wisdom is retreated. 
 
 Over paññā become a cunning person (clever and deceitful). With the excessive factors kilesa creeps in to the practice. With the evenness of the five spiritual faculties, the impermanence of the phenomena fit in together. 
 
@@ -53,27 +52,29 @@ Over paññā become a cunning person (clever and deceitful). With the excessive
 
 Cunning dhamma is delusion (moha) because it’s wrong knowledge (micchā-ñāṇa). This is the power of ignorance (avijjā).
 
-[Nowadays we can see a lot of delusion—micchā ñāṇa in many worldly sectors politics, economy, business, media, science and technology, etc. It’s not a good sign for human beings.] 
+[We can now see a lot of delusion in many worldly areas of politics, economics, business, media, science technology and so on. This does not bode well for humanity.
  
 After clearing away the problems of an evenness of spiritual faculties and five hindrances and the khandha nimitta arises. This is the literary expression—the khandha own nature appears. This is anicca—impermanence. 
 
 [In the Comprehensive Manual of Abhidhamma—Abhidhammattha Saṅgaha, it explained on the 28 material phenomena (rūpa). It was divided into eleven types, and the last one is as follows:
 
 | XI. Characteristics of matter
+| 
 | 25. Production
 | 26. Continuity
 | 27. Decay
 | 28. Impermanence
+| 
 
 The five khandhas are—arising and vanishing together that mind also has the same nature.]
 
 If you practice in this way, it’s not impossible to get the result. Just do the contemplation! You can keep up with the nimitta longer (i.e., not miss anicca) and Nibbāna will be closer to appear (very similar to the nimitta of jhāna practice). Ven. Soṇa had perfection, but he was lacking with these three factors. (Important of good teacher is one of the conditions for realization.)
 
-[These things are very important for practising yogis. Many of them, who disappointed and became spiritually depressed when their practice did not develop abandoned it, which some even attributed to their pāramīs. Sayadawgyi had great wisdom and compassion; and he also had the courage to change some traditional belief, view and idea which went against the Dhamma. Before him was not talking much about these mistaken belief, view and idea to lay people by the monks. Even in Theravada Buddhism has this problem, so it’s no need to talk about the other traditions. They are relying on the outside power than Dhamma and becoming like other faiths.]
+[These things are very important for practising yogis. Many of them, who disappointed and became spiritually depressed when their practice did not develop abandoned it; which some even attributed to their pāramīs. Sayadawgyi had great wisdom and compassion; and he also had the courage to change some traditional belief, view and idea which went against the Dhamma. Before him was not talking much about these mistaken belief, view and idea to lay people by the monks. Even in Theravada Buddhism has this problem, so it’s no need to talk about the other traditions. They are relying on the outside power than Dhamma and becoming like other faiths.]
 
 ------
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -92,4 +93,7 @@ revised on 2020-12-30
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante
+  (?? or Many of them, when their practice did not develop, became disappointed, became spiritually depressed and gave up their practice; some even attributed this to their pāramīs. ??)
+
   2020-12-30 create rst; post on 12-30

@@ -3,12 +3,12 @@ Importance of Anicca and Momentary Nibbāna
 =============================================
 
 :date: 2020-12-30
-:modified: 2020-12-30
+:modified: 2021-01-11
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Importance of Anicca and Momentary Nibbāna (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -16,7 +16,7 @@ Dhamma Talks by Mogok Sayadaw; 11th October 1961
 
 [ On 28th June 1961, Sayadaw gave a talk in Mogok. He never gave the names of his talk, but in the beginning, he always mentioned what he would talk about. I had translated it as “Searching for the Right Things” (Part 6-8). In this talk he pointed out the following Dhamma points which Buddhists heard about it only in his time. It seemed to be very true. Every time when there were conditions and chances, Min-goon Tipiṭaka Sayadaw mentioned as follows: “Mogok Sayadaw has the ability or skill to take out all the meanings in a Pāḷi verse of the Buddha. He had this amazing skill. These Pāḷi verses were also explained by commentators and sub-commentator before him. But what Mogok Sayadaw’s explanations of them were more natural and complete. He had the skill of taken out all the meanings without leaving any traces of meaning behind. Even he could express other meanings which were still not in the commentary and sub-commentary.”
 
-The Dhamma points which Mogok Sayadaw mentioned in the talk were; “impermanence is dukkha sacca, contemplating with knowing it is magga sacca, the dying of taṇhā is samudaya sacca and no khandhas appearing is nirodha sacca.” Before him no-one had mentioned it or talked about it. All the four points of truth appear by knowing one point of dukkha sacca. Therefore, people are dead before they have ever heard of this knowledge of truth (sacca ñāṇa). Another point mentioned by Sayadaw in some of his talks was “You attain momentary Nibbāna by discerning of anicca.” This point we can see it in this present talk. Even we may think it has no significance, but if you check it with the 12 links of D. A. process and it was very significant. Without discerning of momentary nibbāna will never realize of permanent Nibbāna. I think this point was not mentioned either by anyone before Sayadaw did. Therefore, the Buddha exhorted to Ven. Ānanda as D. A. was profound and difficult. Even some well-known eastern and western scholars misinterpreted it with wrong understanding.
+The Dhamma points which Mogok Sayadaw mentioned in the talk were; “impermanence is dukkha sacca, contemplating with knowing it is magga sacca, the dying of taṇhā is samudaya sacca and no khandhas appearing is nirodha sacca.” Before him no-one had mentioned it or talked about it. All the four points of truth appear by knowing one point of dukkha sacca. Therefore, people die before they ever hear of this knowledge of truth. Another point mentioned by Sayadaw in some of his talks was “You attain momentary Nibbāna by discerning of anicca.” This point we can see it in this present talk. Even we may think it has no significance, but if you check it with the 12 links of D. A. process and it was very significant. Without discerning of momentary nibbāna will never realize of permanent Nibbāna. I think this point was not mentioned either by anyone before Sayadaw did. Therefore, the Buddha exhorted to Ven. Ānanda as D. A. was profound and difficult. Even some well-known eastern and western scholars misinterpreted it with wrong understanding.
 
 Another point—anicca and momentary Nibbāna is connection with pain. The Buddha taught us let the body be painful and not the mind. During the moment of seeing anicca (e.g. dukkha vedanā), no khandha (vedanā) exists and do not connect to taṇhā, dosa and moha which are the three unwholesome roots. So, the mind is not in pain even though the body still could be painful, the mind can bear it.]
 
@@ -26,7 +26,7 @@ There are two types of knowledge (ñāṇa) which are inside the Buddha teaching
 
 Every day I remind you to observe the khandha with knowledge (ñāṇa) is to know the truth of the khandha (saccānulomika ñāṇa). Every Buddhist should know about it and only that will have benefit up to Nibbāna. (Sayadaw continued on the Cūḷataṇhāsaṅkhaya Sutta, MN. 37) In this sutta, Sakka—the king of gods asked the Buddha for the quickest way to Nibbāna. Craving (taṇhā) will be finished by contemplating the three types of feeling (i.e., pleasant, unpleasant and neutral feelings) accordingly (whichever one arises). There are nine kinds of feelings arisen from the six senses of doors—i.e., which is from the eye, ear, nose and tongue are upekkhā feelings, from the body are pleasant and unpleasant feelings and from the mind are pleasant, unpleasant and neutral feelings. Insight knowledge (vipassanā ñāṇa) which discerns impermanence (anicca) abandons the preceding khandha (because seeing the disappearance of it) and the following taṇhā (because taṇhā, upādāna and kamma not arise) (see the 12 links of D. A. process). This happens during the contemplation. In the middle of the process, the practicing yogi is alive with the contemplative knowledge (i.e., vipassanā ñāṇa)—khandha disappears/ ñāṇa / the cessation of taṇhā. With the practice, even you don't realise Nibbāna now; at least, near death, you can contemplate anicca to khandha. It will abandon the khandha and kamma (with taṇhā and upādāna) and at near death can realize the Dhamma.
 
-Before of my time, ordinarily we were asking people (i.e., dying people) at near death to remember or think about their merits. You only have to contemplate anicca and at the moment of contemplation no chances for defilements (kilesa) to arise that you attain momentary Nibbāna. This is not let craving (taṇhā) ceased permanently. It’s a momentary cessation that a momentary attainment of Nibbāna.
+Before my time, usually we would ask people (i.e. dying people) to recall or reflect on their merits while they were dying. You only have to contemplate anicca and at the moment of contemplation no chances for defilements (kilesa) to arise that you attain momentary Nibbāna. This is not let craving (taṇhā) ceased permanently. It’s a momentary cessation that a momentary attainment of Nibbāna.
 
 Someone without practice is connecting with craving, clinging and actions continuously (That is so terrible and frightening indeed. Therefore, the Buddha said that no-one could trace the beginning of a living being and their frequent existences were the four woeful planes.) I want you to die with momentary Nibbāna (i.e., anicca). This person dies with the attainment of Nibbāna and not to be worried about it. Momentary Nibbāna is sure for him/her. He takes rebirth in a sugati (good destination) after death. The cause of seeing impermanence send him there. He appears in the bosom of a female devata who is his/her mother. According to the 24 conditional relations, it’s called without delay or proximity condition (anantara paccaya). 
 
@@ -40,7 +40,7 @@ This is vipassanā magga (insight path factors—seeing anicca with the five pat
 
 ------
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -59,4 +59,5 @@ revised on 2020-12-30
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante; old: "Therefore, people are dead before they have ever heard of this knowledge of truth (sacca ñāṇa)." & "Before of my time, ordinarily we were asking people (i.e., dying people) at near death to remember or think about their merits."
   2020-12-30 create rst; post on 12-30

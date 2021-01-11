@@ -3,12 +3,12 @@ The Worst Danger
 =============================================
 
 :date: 2020-12-30
-:modified: 2020-12-30
+:modified: 2021-01-11
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Worst Danger (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -16,9 +16,9 @@ Dhamma Talks by Mogok Sayadaw; (no date)
 
 The first important matter is closing the doors of woeful existence—apāyas. (i.e., hells, animals and hungry ghosts) What is the reason? When the causes are there, lobha, dosa, moha, diṭṭhi, etc., arise in the heart (mind). These unwholesome mental states arise because the seed of hells is in the mind. Don’t be afraid and fear of other things. Diṭṭhi—wrong view is the real seed of hell. (Sayadaw gave some suttas to support this point.) After diṭṭhi falls away (i.e., sotāpanna) even lobha, dosa, moha are still there these can’t send one to hells (with diṭṭhi the three coarsest unwholesome roots are eradicated except the mild ones). 
 
-Even sotāpanna still makes khandha and goes to the good destinations (sugati); but never creates khandha and goes to dugati—the bad destination. So it becomes clear that only this one (diṭṭhi) needs to be abandoned. You don’t need to be worried if diṭṭhi falls away. In the Majjhima Nikāya of mahā-vedalla sutta (MN 43) the Buddha mentioned as after eradicating diṭṭhi, beings did not fall into apāya dugati—painful destinations. To strip away diṭṭhi is the task of sotāpatti-magga—the path knowledge of the stream-enterer. Dāna, sīla and samatha can’t make diṭṭhi fall away. For example, “do you have diṭṭhi or not, if I do it, then I’ll get it?” (i.e., on dāna). If I have sīla, in next life I will have long life. In the Suttanipāta, the Buddha mentioned that with the attaining of sotāpatti magga would not fall into the four painful existences (apāya). There are many suttas on this point that refer to it.
+Even sotāpanna still makes khandha and goes to the good destinations (sugati); but never creates khandha and goes to dugati—the bad destination. So it becomes clear that only this one (diṭṭhi) needs to be abandoned. You don’t need to be worried if diṭṭhi falls away. In the Mahā-vedalla sutta (MN 43) of Majjhima Nikāya, the Buddha mentioned as after eradicating diṭṭhi, beings did not fall into apāya dugati—painful destinations. To strip away diṭṭhi is the task of sotāpatti-magga—the path knowledge of the stream-enterer. Dāna, sīla and samatha can’t make diṭṭhi fall away. For example, “Do you have diṭṭhi or not, if I do it, then I’ll get it?” (i.e., on dāna). If I have sīla, in next life I will have long life. In the Suttanipāta, the Buddha mentioned that with the attaining of sotāpatti magga would not fall into the four painful existences (apāya). There are many suttas on this point that refer to it.
 
-The diṭṭhi arises without knowing of the impermanence of process of mind and body. Don’t know the nature of mind and body, its impermanence and diṭṭhi is stuck with them.
+Don’t know the nature of mind and body process and its impermanence that diṭṭhi is stuck with them.
 
 There are two ways to strip off diṭṭhi: 1. Temporary and 2. Destroy the cause. The temporary way has clear knowledge on the nature of mind and body and discerning of impermanence is called cūḷa-sotāpanna—small stream-enterer. In the next life he will not fall into apāya, but he will be unsafe after the following life. The Buddha preferred the second way for us all. The way of destroying the cause because diṭṭhi arises by cause. This is the destruction of the underlying tendency (anusaya) with the path knowledge. The temporary way of stripping off diṭṭhi is by insight knowledges. It’s temporary cessation by discerning of impermanence. 
 
@@ -28,13 +28,11 @@ The wrong view you all don’t have is the view of annihilation—uccheda diṭ�
 
 (Even in the Buddha’s time some of his disciples had the wrong views that the Buddha himself or other great disciple helping them to have the right view. Nowadays many yogis also had this problem. Sayadaw’s Dhamma talks are very good to deal with this problem.)
 
-(Sayadaw talked about the khandha) There are two phenomena—the mind and the body (nāma and rūpa) which are knowing and unknowing. 
-
-However, you are looking for the weight in mind, and it doesn’t have it. What can be weighted is the body or form (rūpa). Only you go in and disturb them that diṭṭhi arises. It’s clear by itself. Both of them (i.e., mind and body) are the real existence of sakkāya 
+There are two phenomena—the mind and the body (nāma and rūpa) that are capable of knowing and be known. However, you are looking for the weight in mind, and it doesn’t have it. What can be weighted is the body or form (rūpa). Only you go in and disturb them that diṭṭhi arises. It’s clear by itself. Both of them (i.e., mind and body) are the real existence of sakkāya 
 
 (Phenomenal existence and not the personal existence. It seems to be as wrong view, sakkāya has to be translated as personal existence and as a reality may be translated as phenomenal existence.) 
 
-You all go in and confusing them with the I-ness, it becomes wrong view (diṭṭhi). You don’t have to be afraid of them, but only diṭṭhi.
+You all go in and confusing them with the I-ness, it becomes wrong view (diṭṭhi). You have nothing to fear from them, except diṭṭhi. 
 
 Even the Buddha had the sakkāya (i.e., mind/body) but he didn’t have diṭṭhi. In the mind dhamma lobha, dosa and moha are included in it, but they are real phenomenal existence—sakkāya, if the I-ness goes in and makes it become confusion and diṭṭhi arises. Then take sakkāya as I, me, etc. (phenomenon becomes personality) You all are always connecting or pairing them together (maybe like a beloved couple). Therefore, the Buddha had reminded us to destroy identity view (sakkāya diṭṭhi). Using them as language is all right, the point here is taking it as a reality in thoughts and views.
 
@@ -46,11 +44,11 @@ The life span in hells is no limit. You are succeeding of the first stage if you
 
 [The life span in hells depends on the person and its type of action. Here, I would like to include a story in gist as food for thought. After the hermit Sumedha had the confirmation that he would become Gotama the Buddha in the future, his friend Megha left the lay life and became a hermit and student of Bodhisatta Sumedha. Past is a memory, now is the knowing and future is unknown. Unluckily for his downfall, a bad hermit went to their area and Megha met him and became a friend. Later he had disillusioned with the hermit life and returned to lay life. His life became worse and at last became an alcoholic and committed the heavy action of killing his own mother. After death, he fell into Mahā avīci hell. 
 
-Bodhisatta Sumedha became Gotama the Buddha after he fulfilled the ten pāramīs for four incalculable and 100,000 aeons. At that time Megha was born as a big fish in the sea—possibly a whale. A boat carrying Buddhists encountered this huge fish in the sea; facing with this perilous situation, they cried out for help, calling out the name of Gotama the Buddha. After hearing the name of Gotama the Buddha, the animal went away. The name of the Buddha stirred up memories of his past; clinging to the Buddha, he passed on and was reborn as a human being in Bārāṇasī. He became a novice and arahant with the name of Dhammaruciya. (Dhammaruciyattheraapadāna, Ap.ii.429f) There are many profound Dhammas for contemplation. Here I only want to mention two of them—wrong view and the uncertainty in saṃsāra.]
+Bodhisatta Sumedha became Gotama the Buddha after he fulfilled the ten pāramīs for four incalculable and 100,000 aeons. At that time Megha was born as a big fish in the sea—possibly a whale. A boat carrying Buddhists encountered this huge fish in the sea; facing with this perilous situation, they cried out for help, calling out the name of Gotama the Buddha. After hearing the name of Gotama the Buddha, the animal went away. The name of the Buddha stirred up memories of his past; clinging to the Buddha, he passed on and was reborn as a human being in Bārāṇasī. He became a novice arahant with the name of Dhammaruciya. (Dhammaruciyattheraapadāna, Ap.ii.429f) There are many profound Dhammas for contemplation. Here I only want to mention two of them—wrong view and the uncertainty in saṃsāra.]
 
 ------
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -69,4 +67,8 @@ revised on 2020-12-30
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante; 
+  (?? If one does not know the nature of the processes of mind and body, and their impermanence, they are diṭṭhi stuck (nailed down). ??)
+
+  (?? Or  Without knowing the nature of the process of the mental and body, and their impermanence; they are stuck (crucified) by diṭṭhi. ??) 
   2020-12-30 create rst; post on 12-30

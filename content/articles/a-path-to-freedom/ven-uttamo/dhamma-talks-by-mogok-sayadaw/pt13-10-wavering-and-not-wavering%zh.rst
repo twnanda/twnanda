@@ -3,12 +3,12 @@ Wavering and Not Wavering
 =============================================
 
 :date: 2020-12-30
-:modified: 2020-12-30
+:modified: 2021-01-11
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Wavering and Not Wavering (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -28,7 +28,7 @@ Sayadaw’s ordained name was Dhammasāra which means the core or substance or e
 
 Ven. Channa had taken himself as arahant before he killed himself. Therefore, Ven. Sāriputta was checking his view by questioning him. The question was; “Do you take physical form (arom, ārammaṇa), sensitivity of the eye (dvāra) and eye seeing consciousness as me and mine?” His asking was—Did he still cling to them with craving, conceit and wrong view (taṇhā, māna, diṭṭhi)? Channa answered that he has contemplated them and seen their impermanence and there is no taṇhā, māna, diṭṭhi arisen. This was only insight knowledge and not the path knowledge yet. His answer was seeing impermanence. It was still at the stage of rise and fall. I will teach you the practice. Whenever something arises, you must discern its not existing. Channa’s view was vipassanā knowledge, but he took it as the path knowledge. Therefore, by killing himself would not get another birth (jāti). Ven. Mahā Cunda came in and told him as the Buddha has taught; “There is wavering in one who is dependent, there is no wavering in one who is independent.” Channa couldn’t bear his painful feelings (physical and mental), it meant he was still under the affection of his own khandha. The mind is wavering if someone depends on the khandha with craving and wrong view. With the changing of the khandha, the mind wavers. Only with the death of the troublesome craving, the mind will not waver. Letters, telegrams will disappear if people mind does not waver. When receiving of letters, their minds are wavering with gladness of taṇhā and no letters it wavers with anger.
 
-Did you ever have a time for not wavering? (Sayadaw mentioned some of them in life.) It will be wavered without the equanimous mind (upekkhā-citta). Even after the death of someone, it is still wavering; so, it is not necessary to say when it is still alive. Therefore, you’re wavered species (It did not mean a monkey species which evolutionist and anthropologist thought, but more than a monkey’s mind which other types of beings do not have.) Wavering is not a good thing. It’ll lead to taṇhā, upādāna and kammabhava if wavering with lobha. With dosa it’ll lead to soka, parideva, etc. With moha it’ll lead to avijjā, saṅkhāra, etc. (see 12 links of D. A. process) With more moving (wavering) is more sinking downwards to the four apāyas. (It was like a swamp or deep mire.) 
+Have you ever had a time when you didn't waver? (Sayadaw mentioned some of them in life.) It will be wavered without the equanimous mind (upekkhā-citta). Even after the death of someone, it is still wavering; so, it is not necessary to say when it is still alive. Therefore, you’re wavered species (It did not mean a monkey species which evolutionist and anthropologist thought, but more than a monkey’s mind which other types of beings do not have.) Wavering is not a good thing. It’ll lead to taṇhā, upādāna and kammabhava if wavering with lobha. With dosa it’ll lead to soka, parideva, etc. With moha it’ll lead to avijjā, saṅkhāra, etc. (see 12 links of D. A. process) With more moving (wavering) is more sinking downwards to the four apāyas. (It was like a swamp or deep mire.) 
 
 (In this talk Sayadaw sometime asked questions to the audience, and he laughed heartily. These wisdom or wise remarks were humorous and about man nature.)
 
@@ -58,7 +58,7 @@ I am giving you the medicine to open your eyes. It was like a sick dog which saw
 
 (After the scolding, Sayadaw continued his talk as nothing happened before.) Contemplate with one’s own knowledge (ñāṇa) on the one’s own khandha of consciousness (i.e., contemplation on the mind–consciousness). Here consciousness is pre-nascence condition (purejātapaccayo) and first arises. The contemplative mind or knowledge (ñāṇa) is post-nascence condition (pacchājātapaccayo) and follows after. Impermanent is preceding first knowledge is following after. It’s good if nothing comes in between them. Let impermanence and magga (ñāṇa) fit together. Impermanence is one’s dukkha and magga is ñāṇa. One’s knowledge sees one’s dukkha. We see dukkha sacca with the eye of the maggaṅga (path factor eye). This is seeing one’s own death. You have seen other people corpses before, but not your own. You see your own death with the five eyes (maggaṅgas). This is vipassanā and not finish yet. Only by seeing Nibbāna, it will end.
 
-(You cannot see the truth or three characteristics with the flesh eyes and you’ll become a Nyanavirite and western philosopher. This was their views. The Burmese usage is  maggan-eye, it’s not maṁsa-cakkhu. None of the Western philosophers understood what anicca is.  Sayadaw was fearless in regard to Dhamma. In teaching people Dhamma, he spoke to them in according to their nature. With humble people, he spoke gently; and with conceited people, Sayadaw was tough and spoke bluntly. Most of these people had wealth and status in life, and for a teacher, it’s not easy to compare hem with the animal.)
+(You cannot see the truth or three characteristics with the flesh eyes. The Burmese usage is maggan-eye, it’s not maṁsa-cakkhu. None of the Western philosophers understood what anicca is. Sayadaw was fearless in regard to Dhamma. In teaching people Dhamma, he spoke to them in according to their nature. With humble people, he spoke gently; and with conceited people, Sayadaw was tough and spoke bluntly. Most of these people had wealth and status in life, and for a teacher, it’s not easy to compare hem with the animal.)
 
 ------
 
@@ -94,13 +94,13 @@ The fourth event:
 
 U Kyaw Thein, one of Sayadaw’s closet disciples, became his disciple in 1956. From Mandalay, he went to Amarapura meditation center and practiced under Sayadaw’s guidance. In the beginning Sayadaw taught him how to develop samādhi with ānāpānasati. He settled in one of the yogi room and doing his ānāpānasati. At night-time U Hla Bu was helping Sayadaw for a massage. Sayadaw’s room was close to U Kyaw Thein. U Hla Bu was a traditional doctor who had knowledge on Burmese medicines. He was massaging Sayadaw and at the same time discussing medicine with him. U Kyaw Thein had interest in their conversation, and he got lost in it. And then suddenly he heard Sayadaw spoke to him; “Maung Kyaw Thein! Don’t let your mind running away. You have to be careful!” It came as a surprise for him. After that he did not dare again let his mind running away. Later his samādhi developed and seeing of light. He informed Sayadaw about it. Sayadaw told him not to pay attention for it and let him continued the practice. After his samādhi arrived at the satisfactory level and Sayadaw gave him instruction on insight practice. From this incident we know about two things – Sayadaw’s ability to read other people’s minds and his way of practice.
 
-Sayadaw gave an instructional talk to U Kayaw Thein about the five hindrances. There he mentioned some mental states which effected the colour of the blood. The blood colour changed in accordance with the mental states. Most people justified Sayadaw’s’ way of practice as Sukha vipassanā (i.e., dry insight) by his talks. It was not true. The instruction to U Kyan Thein supported this point. The other point was Sayadaw had some super-normal powers which could not come from dry insight. (Sayadaw’s flesh, bone, blood relics—sarīra also support this point. Thai forest monks know this very well.)
+Sayadaw gave an instructional talk to U Kayaw Thein about the five hindrances. There he mentioned some mental states which effected the colour of the blood. The blood colour changed in accordance with the mental states. Most people justified Sayadaw’s way of practice as Sukkha vipassanā (i.e., dry insight) by his talks. It was not true. The instruction to U Kyan Thein supported this point. The other point was Sayadaw had some super-normal powers which could not come from dry insight. (Sayadaw’s flesh, bone, blood relics—sarīra also support this point. Thai forest monks know this very well.)
 
 The above incident was mentioned by U Kyaw Thein himself in a short biography and practice of Mogok Sayadaw. It was a small booklet for free distribution at Sayadawji’s funeral in 1963.
 
 ------
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -119,4 +119,5 @@ revised on 2020-12-30
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante; old: "Did you ever have a time for not wavering?" & "(You cannot see the truth or three characteristics with the flesh eyes and you’ll become a Nyanavirite and western philosopher. This was their views. The Burmese usage is  maggan-eye, it’s not maṁsa-cakkhu. None of the Western philosophers understood what anicca is." & "Sayadaw’s’ way of practice as Sukha vipassanā"
   2020-12-30 create rst; post on 12-30

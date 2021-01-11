@@ -3,12 +3,12 @@ Five Kinds of Right View
 ==========================================
 
 :date: 2019-01-13
-:modified: 2020-03-04
+:modified: 2021-01-11
 :tags: Right View, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Five Kinds of Right View (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-03-04
+revised on 2021-01-11
 
 ------
 
@@ -52,7 +52,7 @@ Knowing that the khandhas not exist is vipassanā sammādiṭṭhi. The practice
 
 The khandhas disappear when the Path Knowledge appears. It's NOT "there is nothing". Knowing that dukkha is ceased and seeing Nibbāna. Vipassanā knowledge and supramundane knowledge (lokuttara ñāṇa) are quite different. Don’t go and asking for someone. The Buddha taught exactly. In the working process of vipassanā practice only 2 of the vipassanā knowledge and Path Knowledge exist. The other knowledges between them are the records of appearances and views. In reality all of them are vipassanā knowledge. (In one of the Sayadaw’s talks he gave a simile of sharpening a knife. Beginning to the end is the same knife but it becomes sharper and sharper.) 
 
-Now talk about the right view of Fruition Knowledge. There are 2 kinds of fruition. Fruition follows behind the Path Knowledge, and the other behind the insight knowledge. Fruition follows behind the Path Knowledge is automatic, therefore akāliko – giving the result without delay. It comes by itself – Dhammaniyāma – Dhamma procedure, similar to the kamma and the result. The Path is volitional kamma and Fruition is result. Nibbāna always exists. You will ask, “Everyone can see it?” It exists for someone with the practice, without the practice not exists. Factors of enlightenment can happen only by practicing with the 4-supreme efforts. After the Path ceases the Fruition appears. What is the benefit for its appearance? What is it disbanding? You can ask these questions, no khandhas anymore so what it is to be disbanded for? The Path kills the coarse defilements and Fruition the refined one. To show an example, you pour a cup of water on a red burning charcoal and it becomes black. Don’t go and touch it. It’s still possessing with the heat power. 
+Now talk about the right view of Fruition Knowledge. There are 2 kinds of fruition. Fruition follows behind the Path Knowledge, and the other behind the insight knowledge. Fruition follows behind the Path Knowledge is automatic, therefore akāliko – giving the result without delay. It comes by itself – Dhammaniyāma – Dhamma procedure, similar to the kamma and the result. The Path is volitional kamma and Fruition is result. Nibbāna always exists. You will ask, “Does everyone can see it?” It exists for someone with the practice, without the practice not exists. Factors of enlightenment can happen only by practicing with the 4-supreme efforts. After the Path ceases the Fruition appears. What is the benefit for its appearance? What is it disbanding? You can ask these questions, no khandhas anymore so what it is to be disbanded for? The Path kills the coarse defilements and Fruition the refined one. To show an example, you pour a cup of water on a red burning charcoal and it becomes black. Don’t go and touch it. It’s still possessing with the heat power. 
 
 Fruition appears for cooling the heat power. All your defilements are very coarse. It kills the leftover refined kilesa vapour. So Fruition is more powerful than the Path. Seeing Nibbāna and killing the refined kilesa vapour (2-functions). Between the two; fighting at war and making peace, making peace is more difficult. I will tell the Fruition follows behind the Path. Yogi with the weak knowledge (ñāṇa) follows by 3-fruition mind moments. For the sharp one is 2-mind moments. And then followed by bhavaṅga cittas and reviewing knowledge (paccavekkhana ñāṇa). This is the Fruition follows behind the Path.
 
@@ -66,7 +66,7 @@ These 4-points of view are always there whenerver someone becomes a stream enter
 
 ------
 
-revised on 2020-03-04; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35552#p35552 (posted on 2018-12-14)
+revised on 2021-01-11; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35552#p35552 (posted on 2018-12-14)
 
 ------
 
@@ -87,6 +87,7 @@ revised on 2020-03-04; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante; old: "You will ask, “Everyone can see it?”"
   2020-03-04 rev. title (small letter "of") while editing PDF
   05-26 rev. proofread by bhante
   04-21 rev. & add: Content of Publications of Ven. Uttamo; Content of Part 2 on "Dhamma Talks by Mogok Sayadaw"

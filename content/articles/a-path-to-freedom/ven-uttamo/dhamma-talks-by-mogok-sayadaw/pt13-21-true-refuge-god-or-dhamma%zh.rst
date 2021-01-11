@@ -3,12 +3,12 @@ True Refuge—God or Dhamma?
 =============================================
 
 :date: 2020-12-30
-:modified: 2020-12-30
+:modified: 2021-01-11
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: True Refuge—God or Dhamma? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -36,20 +36,22 @@ You were sent by Dhamma to human world. There are three kinds of Dhamma—unwhol
 
 It is the cause of the Dhamma (not by God or the Creator) that makes the difference between people. These are Dhamma niyāma—the natural fixed course of natural phenomena. The Buddha said that you had to rely on yourself—atta hi attano nātho (Dhp. 160). It does not mean this physical body, but it refers to the Dhamma. You all are using it wrongly as—we have to rely on ourselves. This body is non-self and who can own it?
 
-I’ll give you the story of the verse—gatha mentioned by the Buddha to the monks. (Sayadaw told the story of Kumāra Kassapa’s mother who had strong attachment to her son Ven. Kumāra Kassapa, who was an arahant. When she had got no respond from him, and she came to her senses and saw the fault of any attachment. She was already a bhikkhunī herself for some years already. After putting down her attachment and with the practice became arahant. The Buddha spoke the following gatha:
+I’ll give you the story of the verse—gatha mentioned by the Buddha to the monks. 
+
+[ Sayadaw told the story of Kumāra Kassapa’s mother who had strong attachment to her son Ven. Kumāra Kassapa, who was an arahant. When she had got no respond from him, and she came to her senses and saw the fault of any attachment. She was already a bhikkhunī herself for some years already. After putting down her attachment and with the practice became arahant. The Buddha spoke the following gatha:
 
 One indeed is one’s own refuge; no one be a refuge to us. 
 With oneself thoroughly tamed can attain the refuge— Nibbāna, 
 Which is difficult to achieve.
 (from Dhammapada—Atta Vagga—Self Verse 160)
 
-Human beings will never solve their problems and sufferings if they are always looking for outside power to help them. Their minds are the Creators and their Saviours are also their inner qualities if the mind—the wholesome and transcend—anta (Dhammas).
+Human beings will never solve their problems and sufferings if they are always looking for outside power to help them. Their minds are the Creators and their Saviours are also their inner qualities if the mind—the wholesome and transcendental Dhammas. ]
 
 When you are alive, contemplate the impermanence of phenomena. At dying, also contemplate the impermanence of phenomena and die with it. And then all the impermanent phenomena (khandha or dukkha) cease here and the path factors (maggaṅga) lead to Nibbāna.
 
 ------
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -68,4 +70,5 @@ revised on 2020-12-30
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante
   2020-12-30 create rst; post on 12-30

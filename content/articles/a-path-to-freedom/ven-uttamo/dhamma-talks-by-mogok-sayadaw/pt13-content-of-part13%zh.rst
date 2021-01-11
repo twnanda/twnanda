@@ -3,7 +3,7 @@ Content of Part 13 on Dhamma Talks by Mogok Sayadaw
 ====================================================
 
 :date: 2020-12-30
-:modified: 2020-12-30
+:modified: 2021-01-11
 :tags: Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Part 13 on Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -60,7 +60,7 @@ _`Part 13`
 
 - 25.) `Perfection for Nibbāna <{filename}pt13-25-perfection-for-nibbana%zh.rst>`_ (N/A)
 
-- 26.) `Sukkha Nibbāna <{filename}pt13-26-sukkha-nibbana%zh.rst>`_ (In 1954)
+- 26.) `Sukha Nibbāna <{filename}pt13-26-sukha-nibbana%zh.rst>`_ (In 1954)
 
 - 27.) `Ascending with Three Knowledges <{filename}pt13-27-ascending-with-three-knowledges%zh.rst>`_ (N/A)
 
@@ -89,4 +89,5 @@ _`Part 13`
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante; old: 13-26 Sukkha Nibbāna
   2020-12-30 create 

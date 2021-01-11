@@ -3,12 +3,12 @@ On Sensuality
 =============================================
 
 :date: 2020-12-30
-:modified: 2020-12-30
+:modified: 2021-01-11
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: On Sensuality (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -26,11 +26,11 @@ You separate the khandha into groups (i.e., all human’s khandhas). You get 32 
 
 Mind and body are impermanent and only at here you understand it as don’t have the affectionate and lovable nature with insight (vipassanā). Separate it into 32 parts and taṇhā dies; discern it as mind and body diṭṭhi dies. Contemplating it as all conditions are impermanent and dukkha, all phenomena are not-self and will have no affliction with it. Only that you want to run away from it like the dog under the tree. (In the story, at last, the dog also had disaffection with the red kiṁsuka flowers and left the tree.) Contemplate one’s khandha as impermanence and also your wife’s and son’s khandhas as impermanent. Not doing this work is a great mistake. You’ll be free from the life of a dog if the contemplation is clear with the discernment of internal and external phenomena. Also, you’ll not die like a dog. You have the wise view on them as all of them are unreliable and throw them away. This is the attainment of the path knowledge. Impermanence becomes dukkha and right view becomes magga sacca.
 
-Free from taṇhā is liberation from dying like a dog. This is Nibbāna. (During the Buddha’s time dog ascetics were not strange for today human beings because today human dog culture is very close to them—the reason is man has strong attachment to pets.)
+Free from taṇhā is liberation from dying like a dog. This is Nibbāna. (In the time of the Buddha, dog ascetics were not unknown to humans today; for the dog culture of humans today is very close to theirs—for the reason that humans have a strong attachment to their pets.)
 
 ------
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -49,4 +49,5 @@ revised on 2020-12-30
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante; old: (During the Buddha’s time dog ascetics were not strange for today human beings because today human dog culture is very close to them—the reason is man has strong attachment to pets.)
   2020-12-30 create rst; post on 12-30

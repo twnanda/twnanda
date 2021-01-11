@@ -3,12 +3,12 @@ Observe the Mind-Body with Paññā
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-04-20
+:modified: 2021-01-11
 :tags: Mind-Body, paññā, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Observe the Mind-Body with Paññā (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-04-20
+revised on 2021-01-11
 
 ------
 
@@ -23,11 +23,11 @@ Mostly we are wasting our times without any benefits, because this is without a 
 | (Milindapañha / 6. Opammakathāpañho / 2. Samuddavaggo / 9. Kammakāraṅgapañho)
 | 
 
-(Translator's note: I don't know whether it is right or wrong for this translation in English from the Pali gāthā pronunciation. I just translate it by following the sound.) Kāyaṃ imaṃ sammasatha: watching and observing this body with knowledge; parijānātha punappunaṃ: contemplate it again and again; Kāye sabhāvaṃ disvāna: will see the impermanent nature of this body with insight; dukkhassantaṃ karissathā: and then will see the end of dukkha. According to Sāriputta by watching at mind-body process will realize Nibbāna and watching with the knowledge given by the Buddha. If you have this knowledge the Buddha exists and without it no Buddha. The day the Buddha enters into Nibbāna is the day this knowledge disappears. The mind-body always tells us that it is anicca, dukkha and anatta. It is never lying to us because they are the phenomena of ultimate reality (paramattha dhamma). It's only telling you these things very often that your ears become bitter (A Burmese colloquial language and it means don't want to hear anymore.) And then you become displeasure in it. You have to follow the khandhas to the end. Watching and observing to the end of it. After arriving at the knowledge of not wanting, all the dying process (anicca or dukkha) disappear. The bad things disappear and the good one appears. Impermanence, suffering and loathsome (anicca, dukkha, asubha) disappear and Nibbāna appears. The reason of you can't see the three universal characteristics (i.e., anicca, dukkha, anatta) and Nibbāna is looking at the mind-body with the eyes given by the people of the world. With the eye given by the Buddha you will sure to see it.
+Kāyaṃ imaṃ sammasatha: watching and observing this body with knowledge; parijānātha punappunaṃ: contemplate it again and again; Kāye sabhāvaṃ disvāna: will see the impermanent nature of this body with insight; dukkhassantaṃ karissathā: and then will see the end of dukkha. According to Sāriputta by watching at mind-body process will realize Nibbāna and watching with the knowledge given by the Buddha. If you have this knowledge the Buddha exists and without it no Buddha. The day the Buddha enters into Nibbāna is the day this knowledge disappears. The mind-body always tells us that it is anicca, dukkha and anatta. It is never lying to us because they are the phenomena of ultimate reality (paramattha dhamma). It's only telling you these things very often that your ears become bitter (A Burmese colloquial language and it means don't want to hear anymore.) And then you become displeasure in it. You have to follow the khandhas to the end. Watching and observing to the end of it. After arriving at the knowledge of not wanting, all the dying process (anicca or dukkha) disappear. The bad things disappear and the good one appears. Impermanence, suffering and loathsome (anicca, dukkha, asubha) disappear and Nibbāna appears. The reason of you can't see the three universal characteristics (i.e., anicca, dukkha, anatta) and Nibbāna is looking at the mind-body with the eyes given by the people of the world. With the eye given by the Buddha you will sure to see it.
 
 ------
 
-revised on 2019-04-20; cited from https://oba.org.tw/viewtopic.php?f=22&t=2945&start=10#p32977 (posted on 2016-08-07)
+revised on 2021-01-11; cited from https://oba.org.tw/viewtopic.php?f=22&t=2945&start=10#p32977 (posted on 2016-08-07)
 
 ------
 
@@ -48,6 +48,7 @@ revised on 2019-04-20; cited from https://oba.org.tw/viewtopic.php?f=22&t=2945&s
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante; del: "(Translator's note: I don't know whether it is right or wrong for this translation in English from the Pali gāthā pronunciation. I just translate it by following the sound.)"
   04-20 rev. & add: Content of Publications of Ven. Uttamo; Content of Part I on "Dhamma Talks by Mogok Sayadaw"
         del: https://mogokdhammatalks.blog/
   2019-01-10  create rst; post on 01-13

@@ -3,22 +3,22 @@ The Art of Living and Dying
 =============================================
 
 :date: 2020-12-30
-:modified: 2020-12-30
+:modified: 2021-01-11
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Art of Living and Dying (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
 Dhamma Talks by Mogok Sayadaw; 25th to 30th September 1961
 
-[Here are six talks on dying—the first three talks based on Channovāda Sutta: Advice to Channa (MN 144 Channovādasuttaṃ) and the last three talks based on Anāthapiṇḍika (MN 143 Anāthapiṇḍikovādasuttaṃ), both suttas are in the Uparipaṇṇāsapāli—Saḷāyatanavagga, Majjhima N. In the Channovāda Sutta—Ven. Channa was gravely ill and wanted to take his life with a knife because he thought himself like an arahant. Ven. Sāriputta and his younger brother Ven. Cunda went to see him. Ven. Sāriputta asked him questions for wanting to know his practice. Channa overestimated his attainment but Ven. Sāriputta knew that he was not arahant. Ven. Cunda also knew it because both of them were arahants. So Cunda reminded Channa about what the Buddha had constantly given attention to monks as an instruction. When someone’s mind was shaking, he was in dependent, if not shaking he was independence. So, there was tranquility in him with no bias. Without bias there was no coming and going. Without coming and going there was no passing away and re-appearing. Without passing away and reappearing there was no here nor beyond nor in between. This was the end of Dukkha.
+[Here are six talks on dying—the first three talks based on Channovāda Sutta: Advice to Channa (MN 144 Channovādasuttaṃ) and the last three talks based on Anāthapiṇḍika (MN 143 Anāthapiṇḍikovādasuttaṃ), both suttas are in the Uparipaṇṇāsapāli—Saḷāyatanavagga, Majjhima N. In the Channovāda Sutta—Ven. Channa was gravely ill and wanted to take his life with a knife because he took himself as an arahant. Ven. Sāriputta and his younger brother Ven. Cunda went to see him. Ven. Sāriputta asked him questions for wanting to know his practice. Channa overestimated his attainment but Ven. Sāriputta knew that he was not arahant. Ven. Cunda also knew it because both of them were arahants. So Cunda reminded Channa about what the Buddha had constantly given attention to monks as an instruction. When someone’s mind was shaking, he was in dependent, if not shaking he was independence. So, there was tranquility in him with no bias. Without bias there was no coming and going. Without coming and going there was no passing away and re-appearing. Without passing away and reappearing there was no here nor beyond nor in between. This was the end of Dukkha.
 
 After Sāriputta and Cunda left, Channa took his own life. Instantly he knew his over estimation and quickly continued the contemplation and became arahant before passed away. He was success because already has experience before with his practice. According to Sayadaw it was the importance of discerning of anicca before that could overcome difficulties.
 
-In the Anāthapiṇḍika Sutta—upāsaka Anāthapiṇḍika was gravely ill and Ven. Sāriputta and Ven. Ānanda went to see him. Sāriputta knew that he would not survive, so giving him a series of talk related to the practice. The objects of practice were—six sense bases, six sense objects, six consciousnesses, six contacts, six elements, five khandhas, this world and the world beyond, what is seen, heard, sensed and recognized Sāriputta taught him as with the practice would not cling them by training the mind not depending on them. After hearing this talk the upāsaka cried because he never heard these kinds of talk before. Sāriputta comforted him by saying that this kind of Talk was good for the monks only not to lay people. He requested Sāriputta for this kind of talk also should give to lay people, because some could have the potentials for realization. Anāthapiṇḍika usually went to see the Buddha three times a day but the Buddha three times a day but the Buddha never gave him this kind of talk. The Buddha himself could have some reasons for it—one reason was Anāthapiṇḍika himself was not matured enough to the kind of talk for the higher realization. (He was already a sotāpanna).
+In the Anāthapiṇḍika Sutta—upāsaka Anāthapiṇḍika was gravely ill and Ven. Sāriputta and Ven. Ānanda went to see him. Sāriputta knew that he would not survive, so giving him a series of talk related to the practice. The objects of practice were—six sense bases, six sense objects, six consciousnesses, six contacts, six elements, five khandhas, this world and the world beyond, what is seen, heard, sensed and cognized. What Sāriputta taught him was with the practice he should not cling them by training the mind not depending on them. After hearing this talk the upāsaka cried because he never heard these kinds of talk before. Sāriputta comforted him by saying that this kind of Talk was good for the monks only not to lay people. He requested Sāriputta for this kind of talk also should give to lay people, because some could have the potentials for realization. Anāthapiṇḍika usually went to see the Buddha three times a day but the Buddha never gave him this kind of talk. The Buddha himself could have some reasons for it—one reason was Anāthapiṇḍika himself was not matured enough to this kind of talk for the higher realization. (He was already a sotāpanna).
 
 Ask the people, "Do they know how to die?" I expect most people's answer will be "No," or they may even answer, "I don't want to die." Not to mention death, they don't even know how to live themselves. If they do not know how to live with their own lives, it will become more difficult for them to face death. The Buddha’s education is the art of living and dying. The above two suttas is about living and dying. Upāsaka Anāthapiṇḍika’s life was an example for living and Ven. Channa’s life for dying. There were a lot of Dhammas for living and dying in the Pāli-Nikāyas. Dying is very important for everyone, because the dying moment will decide our future existences.]
 
@@ -26,9 +26,9 @@ Entering into the fruition attainment—phala samāpatti is from the process of 
 
 Ven. Channa’s answer: NO, I don’t take it in these ways Bhante. He has discerned impermanence that not taking them as me or mine. So, he had right view, but not an arahant yet. This was only insight knowledge (vipassanā ñāṇa). The worldlings (i.e., practicing yogis) also can have it. Whatever mind arises if you discern its not-existing is right view. Vipassanā ñāṇa means discerning of the not-existing of the arising phenomena; i.e., seeing from the existing phenomena to its not-existing phenomena (its arising and its vanishing).
 
-Two minds can’t exist in a parallel event or at the same time. The contemplating mind has to follow later that only can see the not existing of its phenomena. It’s not contemplating the non-existence of phenomena. Non-existence of phenomena are just concepts (e.g., God, tortoise hairs, man, etc.) From the existence of a phenomenon to its non-existence is an ultimate concept. It’s one kind of concepts, and not the concept of non-existence. As an example—for U Mar Din if you touch anywhere on the body, you will not find it (this talk was given to upāsaka U Mar Din). You can’t find it because it’s non-existing.
+Two minds can’t exist in a parallel event or at the same time. The contemplating mind has to follow later that only can see the not existing of its phenomena. It’s not contemplating the non-existence of phenomena. Non-existence of phenomena are just concepts (e.g., God, tortoise hairs, man, etc.) From the existence of a phenomenon to its non-existence is an ultimate concept (tissari-paññatti). It’s one kind of concepts, and not the concept of non-existence. As an example—for U Mar Din if you touch anywhere on the body, you will not find it (this talk was given to upāsaka U Mar Din). You can’t find it because it’s non-existing.
 
-The existing phenomena are arising—udaya, not-existing is vanishing—baya, hence it’s udayabbaya ñāṇa or vipassanā ñāṇa—insight knowledge. People didn’t see these Pāli-passages and didn’t know what has been said. Mind with mind cannot see the arising and vanishing at the same time. But one mind sees the arising phenomenon and the following mind sees the and the following mind sees the vanishing phenomenon. Observe at it in a blip and not see it there.
+The existing phenomena are arising—udaya, not-existing is vanishing—baya, hence it’s udayabbaya ñāṇa or vipassanā ñāṇa—insight knowledge. People didn’t see these Pāli-passages and didn’t know what has been said. Mind with mind cannot see the arising and vanishing at the same time. But one mind sees the arising phenomenon and the following mind sees the vanishing phenomenon; observing at it in a blip and not seeing it there.
 
 Before it has been seen here, but with the knowledge (ñāṇa which is the contemplating mind) mind looks at it and not see it. This is the view in the practice. Not-existing is anicca (impermanence) and the knowing mind (contemplating mind) is magga (the five path factors). You see the existing phenomenon to its not-existing phenomenon. It’s not totally non-existence. This is very important words in regard to vipassanā knowledge. From the side of knowledge (ñāṇa) all of them are in this way.
 
@@ -62,7 +62,7 @@ What is not clinging? With practice not clinging to the object only become non-a
 
 (Ven. Sāriputta gave instruction to Anāthapiṇḍika)
 
-You must not cling to form, feeling, perception, formation and consciousness—the five khandhas; what is seen, heard, sensed and recognized; and all the dhammas. If you discern impermanence note it as emptiness—suññatā it becomes emptiness.
+You must not cling to form, feeling, perception, formation and consciousness—the five khandhas; what is seen, heard, sensed and cognized; and all the dhammas. If you discern impermanence note it as emptiness—suññatā. It becomes emptiness.
 
 We all have to die and must do the practice on the existing khandha for not clinging to it. The way of not clinging is to know it as useless. You’ll cling to it if you take it as useful. Because of the clinging and khandha comes into being. The practice of not clinging to the existing khandha is the most important one. You have to use the knowledge eye— ñāṇa-cakkhu to observe the existing khandha, and will see its impermanence, suffering, non-self, loathsome and truth of suffering (dukkha-sacca). You can see it only with right view.
 
@@ -74,7 +74,7 @@ He addressed to the Blessed One that only the Noble Eightfold Path extinguished 
 
 ------
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -93,4 +93,5 @@ revised on 2020-12-30
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante
   2020-12-30 create rst; post on 12-30

@@ -3,12 +3,12 @@ Man, Happy With Kilesa Diseases
 =============================================
 
 :date: 2020-12-30
-:modified: 2020-12-30
+:modified: 2021-01-11
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Man, Happy With Kilesa Diseases (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -16,7 +16,7 @@ Dhamma Talks by Mogok Sayadaw; 27th November 1961
 
 It was like someone with the whole body of sores forcing himself through the thorny bushes. There are sores at everywhere of the eye, ear, … and mind (the six senses). Physical object (form), sound, … and mind objects (dhamma ārammaṇa) are thorns. Therefore, kilesa wounds are always arising within us. Someone with sores runs into the thorny bushes it will become worse. And at the eye, ear, … and mind—greed, anger and delusion arise. Therefore, people don’t want to live in forest and the mountain because they don’t use to it. They only want to live in the city with the crowd. It means they want to be hurt or hit with thorns. They have satisfaction with wounds and cuts, and not want to be freed from them (i.e., no appreciation of bodily seclusion—kaya-viveka). The cause of short life is harmed by the thorns of defilement (see, DN. 26 Cakkavatti Sutta). The cause of kamma is very few indeed, if not become a person who has wrong view on kamma (i.e., kammavādī-diṭṭhi—someone has the view of whatever happens is due to kamma or past kammas.)
 
-The Buddha not only taught about the cause of kamma but also the other many causes, as an example—the case of suicide. It was hit with the thorn of the mind, but if you take everything as the result of the past kamma, then it becomes kammavādī-diṭṭhi. Many Buddhists have this view. They blame it on past kammas if something is going wrong. Doing things blindly with anger is hit with the mind thorn. This is the time to stay calm or you will have wounds and trauma. Someone died with fright was hit by the thorn of physical form, with poison was hit by the thorn of taste, etc. You’re going through the thorny bush and at the same time don’t want to get cuts and wounds is never possible. Even the Buddha couldn’t help you. You can’t hit by thorns if you stay with samatha and vipassanā.
+The Buddha not only taught about the cause of kamma but also the other many causes, as an example—the case of suicide. It was hit with the thorn of the mind, but if you take everything as the result of the past kamma, then it becomes kammavādī-diṭṭhi. Many Buddhists have this view. They blame it on past kammas if something is going wrong. To do things blindly with anger is to be struck by the thorns of the mind. This is the time to stay calm or you will have wounds and trauma. Someone died with fright was hit by the thorn of physical form, with poison was hit by the thorn of taste, etc. You’re going through the thorny bush and at the same time don’t want to get cuts and wounds is never possible. Even the Buddha couldn’t help you. You can’t hit by thorns if you stay with samatha and vipassanā.
 
 You don’t want to die alone as a lonely mouse, but wanting to die among the relatives. Why is that? Because you want descending to apāya—woeful existence. It means in this way. This is dying with the clinging dhamma. Is it becoming a clinging or not if dying among the affectionate people? The Buddha’s preference and our preference are in the opposite ways. His was Nibbāna and yours are the four apāyas—painful existences. If any one of the six sense objects hits you, you will get the wound.   There is no problem handling poison without any wound and cut on the hands, otherwise, you’ll die. It came from Dhammapada. After becoming a stream-winner (sotāpanna), you’ll not harmed by them while going through kilesa thorny forest. In the simile of the six animals’ discourse, the Buddha first mentioned these thorns and continued to talk about the animals. It’s only safe by staying with bodily mental seclusion. 
 
@@ -30,7 +30,7 @@ The khandha has the nature of pīḷanāṭṭha—oppress being without any sym
 
 ------
 
-revised on 2020-12-30
+revised on 2021-01-11
 
 ------
 
@@ -49,4 +49,5 @@ revised on 2020-12-30
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-11 rev. proofread by bhante; old: Doing things blindly with anger is hit with the mind thorn.
   2020-12-30 create rst; post on 12-30

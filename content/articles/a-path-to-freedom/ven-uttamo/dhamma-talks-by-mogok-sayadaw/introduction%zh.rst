@@ -3,12 +3,12 @@ Introduction
 ==========================================
 
 :date: 2019-01-13
-:modified: 2020-06-25
+:modified: 2021-01-11
 :tags: Introduction, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Introduction (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-06-25
+revised on 2021-01-11
 
 ------
 
@@ -50,7 +50,7 @@ Sayagyi U Ohn was the contemporary of Ledi Sayadaw and a monk before. After Burm
 
 In 1919, near the age of 20, novice Vimala became a monk. After ordination his robes were wetting with sweat. So he spread them on a pole line. This time again many bees were flying to his robe and made home on it. The tutor monk U Nāgavaṃsa who was like a brother to U Vimala made the following prediction. “This making home by bees is a good sign. In this life he will has the attainment– he will finish his task. And then this is the sign of which people will come and drink his Dhamma nectar.” U Nāgavaṃsa knew this and always guided the young monk U Vimala in the right direction. U Vimala started teaching the monks Abhidhamma when he had three rains (vassa) (i.e., 1922). There were some nuns studied Abhidhamma with Sayagyi U Ohn. Some of them were Daw Sucari (U Vimala's sister), Daw Vicari, Daw Vilasi and Daw Khemacari. The other three nuns were from Mogok area in Northern Burma and well known for its rubies. Daw Vilasi had a place in the Mingoon Hill range which was in the west of Mandalay across the Irrawaddy River. Every winter some pilgrims from Mogok came to Mingoon for pilgrimage. Daw Vilasi always took them to the sites of pilgrimage. One time the leader of the pilgrims was Daw Dine Chon. On the way Daw Vilasi took them to see and pay respect to U Vimala. Before, Daw Dine Chon already heard some good news from her on U Vimala. After meeting with U Vimala she had more respect and veneration in him. Daw Dine Chon went back to Mogok and mentioned about U Vimala to her husband U Le. U Le also had strong respect in U Vimala and decided to invite him to Mogok in the future. This was the beginning of how U Vimala later became well known as Mogok Sayadaw.
 
-In the year of 1925 Sayagyi U Ohn passed away at the age of 79. At the age of 26 U Vimala taught Abhidhamma extensively and became well known. He had many student monks, and he was also starting to give talks wherever people invited him. At the age of 28 wrote a commentary text on the 6th Abhidhamma book—Yamaka (Book of Pairs) within a year. It was well accepted by students. As he was so busy with external matters, U Nāgavaṃsa reminded him that giving Dhamma talks and teaching were just gained wholesome merits only. So it is necessary to practice by himself for someone to be secure. From that time on U Vimala started to use a part of his times for practice. To encourage people for practice U Vimala wrote a small text call “Showing Light to the Worldlings”. In 1934, Mogok U Le and Daw Dine Chon invited U Vimala to Mogok for Dhamma talks since they heard about him giving talks in Nyaung-lay-bin. Before it was a place for Ledi Sayadaw or one of his disciples giving talks in every year. In the beginning U Vimala's talks were on Abhidhamma. Mogok people liked his Dhamma talks that invited him to come every year in summer time. Some of the lay supporters from Mogok were very rich people. In 1937, a rich family built a very big building for U Vimala to live in and teach students. With these many connections to mogok supporters that he became well known as Mogok Sayadaw.
+In the year of 1925 Sayagyi U Ohn passed away at the age of 79. At the age of 26 U Vimala taught Abhidhamma extensively and became well known. He had many student monks, and he was also starting to give talks wherever people invited him. At the age of 28 wrote a commentary text on the 6th Abhidhamma book—Yamaka (Book of Pairs) within a year. It was well accepted by students. As he was so busy with external matters, U Nāgavaṃsa reminded him that giving Dhamma talks and teaching were just gained wholesome merits only. So it is necessary to practice by himself for someone to be secure. From that time on U Vimala started to use a part of his times for practice. To encourage people for practice U Vimala wrote a small text call “Showing Light to the Worldlings”. In 1934, Mogok U Le and Daw Dine Chon invited U Vimala to Mogok for Dhamma talks since they heard about him giving talks in Nyaung-lay-bin. Before it was a place for Ledi Sayadaw or one of his disciples giving talks in every year. In the beginning U Vimala's talks were on Abhidhamma. Mogok people liked his Dhamma talks that invited him to come every year in summer time. Some of the lay supporters from Mogok were very rich people. In 1937, a rich family built a very big building for U Vimala to live in and teach students. With these many connections to Mogok supporters that he became well known as Mogok Sayadaw.
 
 At the age of 37, Mogok Sayadaw was becoming a very popular Abhidhamma teacher and giving Abhidhamma talks. One day in 1937, Mogok Sayadaw had a strange dream. In dream he was flying from the sky to Sri Lanka where the Mahā Ceti (stupa) was situated. He respectfully bowed to the Mahā Ceti, swept the area there, and did the other duties also. He was never thinking or imagining these things before. But it appeared in his dream. Not very long after the dream, the care takers of Mahā Ceti wrote a letter to Mogok Sayadaw for help. In the letter they mentioned that Mogok City was rich with gem stones. Sri Lanka Mahā Ceti now needed a large Holy Crystal for the top part of the ceti. They believed that if Sayadaw helping them, it would be successful. So they requested him for help. With great joy Mogok Sayadaw discussed this matter with rich and high class people in Mogok. And then Sayadaw replied the letter that he would do it for them. With the generosity of Mogok citizens, they received a lot of gem stones, gold and silver for the large Holy Crystal.
 
@@ -287,7 +287,7 @@ There are people having faith and respect only in Dhamma. They don't care about 
 
 ------
 
-revised on 2020-06-25; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4022 (posted on 2018-12-14)
+revised on 2021-01-11; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4022 (posted on 2018-12-14)
 
 ------
 
@@ -324,6 +324,7 @@ revised on 2020-06-25; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=40
               | sukha: agreeable，pleasant，blest
 
 ..
+  2021-01-11 rev. old:"mogok supporters" proofread by bhante
   06-25 rev. Burma (Myanmar) old:Burma; proofread by bhante
   06-15 rev. replace "Yan-gon" with "Rangoon (Yan-gon)"; proofread by bhante
   2020-05-31 proofread by bhante; replace "Rangoon" with "Yan-gon"
