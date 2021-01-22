@@ -172,7 +172,10 @@ function SetupNotes() {
 
 // 對讀
 var tables = document.getElementsByClassName("contrast-reading-table");
-var trs = tables[0].getElementsByTagName("tr");
+var trs = [];
+if (tables.length > 0) {
+  trs = tables[0].getElementsByTagName("tr");
+}
 var show = document.getElementById("option-contrast-reading");
 
 function createInputCheck() {
