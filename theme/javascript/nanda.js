@@ -233,7 +233,9 @@ var crtable = document.createElement("table");
 createInputCheck();
 createCRTableHeading(crtable);
 createCRTableContent(crtable);
-show.appendChild(crtable);
+if (show != null) {
+  show.appendChild(crtable);
+}
 SetupNotes();
 
 function inputCheckChange() {
