@@ -1661,6 +1661,7 @@ var notes = {
     "div373": "(1)「覺悟之/發悟(SA)；使懷恐怖(AA)」，南傳作「激起急迫感；激起宗教信仰心」(saṃvejeti，另譯為「使之驚怖；悚懼」)，菩提比丘長老英譯為「激起急迫感」(stir up a sense of urgency)。(2)「得到了急迫感」(Saṃvegamāpādu, Saṃvegamāpādi，急迫感-來到/到達)，菩提比丘長老英譯為「得到了急迫感」(acquired a sense of urgency)，Maurice Walshe先生英譯為「於極心痛中」(in sore distress)。(3)「作急迫感」(saṃvegamakāsi)，Maurice Walshe先生英譯為「大恐慌」(dismayed)。(4)「生起急迫感」(Saṃvegajātassa)，Maurice Walshe先生英譯為「恐懼」(fears)。",
     "急迫感": "(1)「覺悟之/發悟(SA)；使懷恐怖(AA)」，南傳作「激起急迫感；激起宗教信仰心」(saṃvejeti，另譯為「使之驚怖；悚懼」)，菩提比丘長老英譯為「激起急迫感」(stir up a sense of urgency)。(2)「得到了急迫感」(Saṃvegamāpādu, Saṃvegamāpādi，急迫感-來到/到達)，菩提比丘長老英譯為「得到了急迫感」(acquired a sense of urgency)，Maurice Walshe先生英譯為「於極心痛中」(in sore distress)。(3)「作急迫感」(saṃvegamakāsi)，Maurice Walshe先生英譯為「大恐慌」(dismayed)。(4)「生起急迫感」(Saṃvegajātassa)，Maurice Walshe先生英譯為「恐懼」(fears)。",
     "div374": "「戒身(SA/MA/AA)；戒聚(MA/DA)；戒眾(DA)」，南傳作「戒蘊」(sīlakkhandhaṃ，另譯為「戒身；戒犍度；戒聚集」)，菩提比丘長老英譯為「德行的聚集」(aggregate of virtue)。",
+    "戒蘊": "「戒身(SA/MA/AA)；戒聚(MA/DA)；戒眾(DA)」，南傳作「戒蘊」(sīlakkhandhaṃ，另譯為「戒身；戒犍度；戒聚集」)，菩提比丘長老英譯為「德行的聚集」(aggregate of virtue)。",
     "div375": "「眾」，南傳作「僧團」(saṅgha, saṃgha)，另譯為「僧伽；和合眾」，或簡略為「僧，眾」。「弟子僧團」(sāvakasaṅgha)，另譯為「聲聞僧伽」。",
     "僧團": "「眾」，南傳作「僧團」(saṅgha, saṃgha)，另譯為「僧伽；和合眾」，或簡略為「僧，眾」。「弟子僧團」(sāvakasaṅgha)，另譯為「聲聞僧伽」。",
     "div376": "(1)「欲覺/貪覺(SA)；欲念(MA)；欲想(AA)」，南傳作「欲尋」(kāmavitakko)，菩提比丘長老英譯為「肉慾的想法」(sensual thought)。(2)「恚覺(SA)；恚念(MA)；瞋恚想(AA)」，南傳作「惡意尋」(byāpādavitakko)，菩提比丘長老英譯為「惡意的想法」(thought of ill will)。(3)「害覺(SA)；害念(MA)；殺害想(AA)」，南傳作「加害尋」(vihiṃsāvitakko)，菩提比丘長老英譯為「傷害的想法」(thought of harming)。「加害」(vihiṃsā)，另譯為「害；害意；惱害；傷害」。",
