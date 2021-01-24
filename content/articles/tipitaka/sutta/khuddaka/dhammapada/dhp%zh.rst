@@ -2,7 +2,7 @@
 ===================
 
 :date: 2016-01-29 09:00
-:modified: 2018-08-20
+:modified: 2021-01-24
 :tags: 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經, Dhammapada
@@ -22,6 +22,8 @@
   * Dhammapada 法句經(中英對照)--　 **尊者 明法 比丘** 註（增加許多濃縮的故事）〕： `PDF <{filename}/extra/pdf/ec-dhp.pdf>`__ 、 `DOC <{filename}/extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/ec-dhp-f1.doc>`__ [3]_
 
   * 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師** (葉均)，注解： **尊者 明法 比丘** ； `PDF <{filename}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{filename}/extra/doc/pc-Dhammapada.doc>`__； `DOC (Foreign1 字型) <{filename}/extra/doc/pc-Dhammapada-f1.doc>`__ [4]_
+
+  * `白話文版 2021 <{filename}dhp-Ken-Yifertw-Su/dhp-Ken-Y-Su%zh.rst>`__ ，含巴利文法分析， 蘇錦坤 著（蘇錦坤 Ken Su， `獨立佛學研究者 <https://independent.academia.edu/KenYifertw>`_ ，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>`_ 部落格格主）
 
   * `白話文版 <{filename}dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__ ， **敬法 法師** 譯，第二修訂版 2015，`pdf <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__  `原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`_ ；　( `初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
 
@@ -161,6 +163,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2021-01-24 add: 白話文版 2021 
   2018-08-07 add: 元亨寺 漢譯南傳大藏經 法句經
   2016-03-05 create rst for github
   
