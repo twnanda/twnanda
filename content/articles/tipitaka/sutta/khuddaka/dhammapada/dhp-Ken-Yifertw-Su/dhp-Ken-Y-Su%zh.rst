@@ -3,7 +3,7 @@
 =====================================================================
 
 :date: 2021-01-24
-:modified: 2021-01-24
+:modified: 2021-01-25
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》, Dhammapada, 白話文版（含巴利文法分析， 蘇錦坤 著 2021）
@@ -14,7 +14,7 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `序 <{filename}dhp-Ken-Y-Su-preface-%zh.rst>`_
+   * - `序 <{filename}dhp-Ken-Y-Su-preface%zh.rst>`_
      - `第一：雙品 <{filename}dhp-Ken-Y-Su-chap01%zh.rst>`_
      - `第二：不放逸品 <{filename}dhp-Ken-Y-Su-chap02%zh.rst>`_
      - `第三：心品 <{filename}dhp-Ken-Y-Su-chap03%zh.rst>`_
@@ -107,4 +107,5 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  01-25 rev. 序 dhp-Ken-Y-Su-preface%zh.rst old: dhp-Ken-Y-Su-preface-%zh.rst
   2021-01-24 create rst
