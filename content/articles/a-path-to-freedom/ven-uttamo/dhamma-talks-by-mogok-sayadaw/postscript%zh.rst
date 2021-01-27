@@ -3,12 +3,12 @@ Epilogue
 ===========================
 
 :date: 2020-12-30
-:modified: 2021-01-11
+:modified: 2021-01-27
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Epilogue (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-11
+revised on 2021-01-27
 
 ------
 
@@ -18,7 +18,7 @@ It was very fortunate that one of his last lay disciples U Tan Daing put a lot o
 
 Once Sayadaw said to one of his closest disciples as in the future his talks would be more valuable than gold. It’s true Sayadaw’s talks and Buddha Dhamma are like the seven noble treasures—faith, virtue, moral shame, moral dread, learning, generosity and wisdom (saddhā, sīla, hiri, ottappa, suta, cāga and paññā). I met some students of Goenkaji—they had practised for a period of time and advanced in practice but without a teacher’s guidance for continuing the practice. After they knew about Mogok Dhamma and overcame their difficulties. Even with a lot of listening and reading (i.e., the transcribed talks) with contemplation or reflection on Dhamma increase our wisdom faculty and will become wiser and intelligent. Not like the teachings of reliance on the outside power which makes the mind become blunt as a rusted knife. 
 
-Even if we have the seven noble treasures such as good knowledge on the dhamma, i.e., kalyāṇa puthujjana for the time being, that will be of much benefit to our lives; and there are (also) other reasons. (?? Even if we temporarily possess the seven noble treasures (sattavidha-ariya-dhana), such as the "treasure of hearing" (sutadhana; also known as "good knowledge" on the dhamma—kalyāṇa-mitta), it will be of great benefit to our lives; there are other reasons. ??) Therefore, I decided to translate them for other Buddhists not because my English language was very good. No Burmese Buddhist had ever done it before even they knew Mogok’s talks were noble treasure or wealth which benefited a lot of Buddhists. (?? Burmese Buddhists had never done so; even though they knew that Mogok's talks were noble treasures or riches, they (those talks) benefited many Buddhists. ??) Recently some new meditation methods and teachings appeared and its followers translated them and spread outside Burma. Many Burmese benefited from Sayādawgyi’s talks but no one tried to translate it for others.
+Even if we temporarily possess the seven noble treasures (sattavidha-ariya-dhana), such as the "treasure of hearing" (sutadhana; also known as "good knowledge" on the Dhamma—kalyāṇa-mitta), it will be of great benefit to our lives; there are other reasons. Therefore, I decided to translate them for other Buddhists not because my English language was very good. The Burmese Buddhists had never tried it before; even though they knew that Mogok's talks were noble treasures or riches and it benefited many Buddhists. Recently some new meditation methods and teachings appeared and its followers translated them and spread outside Burma. Many Burmese benefited from Sayādawgyi’s talks but no one tried to translate it for others.
 
 There are now Buddhist schools in Burma open to the lay community, and more lay people are studying the Sutta Nikāyas, the Abhidhamma and commentaries—such as the Visuddhimagga. These people are younger generation. There were only a few older people who interested in Abhidhamma before. This is a good sign for Burmese Buddhism. There are some Burmese meditation systems are spread outside Burma, but it’s very rare to see Dhamma translations books by well-known scholar monks and meditation teachers. Even Ledi Sayadaw’s books are very rare in Burmese before. Only not very long-time ago, a well-known publishing group with the help of Ledi monks made Ledi Sayadaw’s work available in Burmese. Ledi Sayadaw’s works are also very important for translations to spread it outside Burma.
 
@@ -50,7 +50,7 @@ Sabbe satta sukhi hontu!
 
 ------
 
-revised on 2021-01-11
+revised on 2021-01-27
 
 ------
 
@@ -69,5 +69,6 @@ revised on 2021-01-11
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 proofread by bhante
   2021-01-11 rev. proofread by bhante; old title: Conclusion (Postscript)
   2020-12-30 create rst; post on 12-30

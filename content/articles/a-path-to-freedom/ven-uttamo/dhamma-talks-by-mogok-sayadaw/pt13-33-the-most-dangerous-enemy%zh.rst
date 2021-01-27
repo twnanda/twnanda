@@ -3,12 +3,12 @@ The Most Dangerous Enemy
 ===========================
 
 :date: 2020-12-30
-:modified: 2021-01-11
+:modified: 2021-01-27
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Most Dangerous Enemy (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-11
+revised on 2021-01-27
 
 ------
 
@@ -24,7 +24,7 @@ Diṭṭhupādāna (clinging with wrong view) means binding with wrong view, aft
 
 Throughout the saṃsāra beings are always in this situation. If diṭṭhi does not fall away (i.e. the diṭṭhi rope), then only drifting, whirling (whirlpool) and sinking will follow. Thus, the Buddha mentioned that if diṭṭhi disappeared, all others would collapse (i.e. kilesa; and will eventually be affirmed as Nibbāna).
 
-It becomes clear how much important for diṭṭhi to be fallen off. (This explains the importance of diṭṭhi shedding.) There are two causes for diṭṭhi arising—wrong attention (ayoniso) and listening to wrong teachings. Khandha itself is impermanent (anicca), suffering (dukkha), not-self (anatta), 32 parts of loathsomeness (asubha) but someone takes it as —wrong view of permanent, wrong view of happiness, wrong view of self and wrong view of beautiful (nicca-diṭṭhi, sukha-diṭṭhi, atta-diṭṭhi and subha-diṭṭhi). Combining them with the khandha becomes identify view—sakkāya-diṭṭhi. Without seeing of impermanence diṭṭhi can’t fall away. (Sayadaw talked about the extensiveness of taint of view—diṭṭhāsava and Vacchagotta brahmin.)
+It becomes clear how much important for diṭṭhi to be fallen off. (This explains the importance of shedding of the diṭṭhi.) There are two causes for diṭṭhi arising—wrong attention (ayoniso) and listening to wrong teachings. Khandha itself is impermanent (anicca), suffering (dukkha), not-self (anatta), 32 parts of loathsomeness (asubha) but someone takes it as —wrong view of permanent, wrong view of happiness, wrong view of self and wrong view of beautiful (nicca-diṭṭhi, sukha-diṭṭhi, atta-diṭṭhi and subha-diṭṭhi). Combining them with the khandha becomes identify view—sakkāya-diṭṭhi. Without seeing of impermanence diṭṭhi can’t fall away. (Sayadaw talked about the extensiveness of taint of view—diṭṭhāsava and Vacchagotta brahmin.)
 
 After diṭṭhi falls away (i.e., momentary by contemplation) and doing dāna it’ll send one to the goal of Nibbāna (merit with right view and inspiration for Nibbāna or the ending of dukkha). Because this kind of dāna includes ñāṇa.
 
@@ -62,7 +62,7 @@ Thus Mogok Sayadawgyi interpreted Nibbāna in many different ways in order to ex
 
 ------
 
-revised on 2021-01-11
+revised on 2021-01-27
 
 ------
 
@@ -81,5 +81,6 @@ revised on 2021-01-11
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 proofread by bhante
   2021-01-11 rev. proofread by bhante
   2020-12-30 create rst; post on 12-30

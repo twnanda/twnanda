@@ -3,12 +3,12 @@ Weapon of Mass Destruction
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-08-12
+:modified: 2021-01-27
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Weapon of Mass Destruction (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-08-12
+revised on 2021-01-27
 
 ------
 
@@ -16,7 +16,7 @@ Dhamma Talks by Mogok Sayadaw; 10th August 1961
 
 Inversion of wrong view, identity view, self view and wrong view (diṭṭhi vipallāsa, sakkāya diṭṭhi, atta diṭṭhi, and micchā diṭṭhi) are the same. These are different in names only. All are taking the five khandhas as self. In the Aṅguttara Nikāya, the Buddha mentioned that, if wrong view fell away and doubt also fell away. 
 
-It is not sure about the destination (rebirth) of a deceased person that we invite monks and make offerings for him. The most frightful thing is falling into the planes of misery after death. The five khandhas are sakkāya and really existing phenomena. Wrong view is taking sakkāya as I, he, she, etc. which do not really exist. 
+It is not sure about the destination (rebirth) of a deceased person that we invite monks and make offerings for him. The most frightful thing is falling into the planes of misery after death. The five khandhas are sakkāya which really exist. Wrong view is taking sakkāya as I, he, she, etc. which do not really exist.
 
 So the duty of the Buddha and me is to explain to you clearly that the five khandhas are "not me" or "not him" but only arising and vanishing phenomena. And then you know clearly, discern it and identity view is falling away. You will free from the planes of misery after death. It has no need to make merits for the dead. 
 
@@ -52,7 +52,7 @@ This way of cutting off identity view is never come back again. It becomes total
 
 ------
 
-revised on 2019-08-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35748#p35748 (posted on 2019-01-14)
+revised on 2021-01-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35748#p35748 (posted on 2019-01-14)
 
 ------
 
@@ -71,5 +71,6 @@ revised on 2019-08-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 proofread by bhante
   08-12 rev. proofread by bhante
   2019-04-22  create rst; post on 04-28

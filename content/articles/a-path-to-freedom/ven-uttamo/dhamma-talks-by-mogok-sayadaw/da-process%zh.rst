@@ -3,12 +3,12 @@ D.A. Process
 ==========================================
 
 :date: 2019-01-14
-:modified: 2020-06-15
+:modified: 2021-01-27
 :tags: D.A. Process, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: D.A. Process (Dhamma Talks by Mogok Sayadaw—Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-06-15
+revised on 2021-01-27
 
 .. image:: {filename}/extra/img/mogok-da-process-12.jpg
    :alt: D.A. Process
@@ -104,7 +104,7 @@ Kilesa vaṭṭa and kamma vaṭṭa are the causes for round of existence. And 
 | 
 | With full understanding—pariññā:
 | Learn by heart is ñāta pariññā—full understanding by study.
-| Practise is tīraṇa pariññā full understanding by contemplation.
+| Practice is tīraṇa pariññā full understanding by contemplation.
 | Pahāna pariññā—full understanding with abandoning of kilesa.
 | 
 | With truths (sacca):
@@ -356,7 +356,7 @@ But he didn't explain the reason. Truly, sexual desire is intoxicating. Because 
 
 ------
 
-revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4026&sid=3207e081493aa85b45cac011b736d533 (posted on 2018-12-14)
+revised on 2021-01-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4026&sid=3207e081493aa85b45cac011b736d533 (posted on 2018-12-14)
 
 ------
 
@@ -373,6 +373,7 @@ revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4026&s
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 proofread by bhante; replace practise with practice (noun) 
   06-15 correct content of the chart, Kamma-Bhava; proofread by bhante
   2020-05-31 proofread by bhante
   07-03 rev. replace "—" with "—"; two with two, three with three, etc.

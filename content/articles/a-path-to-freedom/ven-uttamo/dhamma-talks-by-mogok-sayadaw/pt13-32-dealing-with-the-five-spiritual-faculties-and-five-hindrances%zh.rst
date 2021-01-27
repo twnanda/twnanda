@@ -3,12 +3,12 @@ Dealing With the Five Spiritual Faculties and Five Hindrances
 ====================================================================
 
 :date: 2020-12-30
-:modified: 2021-01-11
+:modified: 2021-01-27
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Dealing With the Five Spiritual Faculties and Five Hindrances (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-11
+revised on 2021-01-27
 
 ------
 
@@ -70,11 +70,11 @@ The five khandhas are—arising and vanishing together that mind also has the sa
 
 If you practice in this way, it’s not impossible to get the result. Just do the contemplation! You can keep up with the nimitta longer (i.e., not miss anicca) and Nibbāna will be closer to appear (very similar to the nimitta of jhāna practice). Ven. Soṇa had perfection, but he was lacking with these three factors. (Important of good teacher is one of the conditions for realization.)
 
-[These things are very important for practising yogis. Many of them, who disappointed and became spiritually depressed when their practice did not develop abandoned it; which some even attributed to their pāramīs. Sayadawgyi had great wisdom and compassion; and he also had the courage to change some traditional belief, view and idea which went against the Dhamma. Before him was not talking much about these mistaken belief, view and idea to lay people by the monks. Even in Theravada Buddhism has this problem, so it’s no need to talk about the other traditions. They are relying on the outside power than Dhamma and becoming like other faiths.]
+[These things are very important for practising yogis. Many of them, when their practice did not develop, became spiritually depressed and gave up their practice; some even attributed this to their pāramīs. Sayadawgyi had great wisdom and compassion; and he also had the courage to change some traditional belief, view and idea which went against the Dhamma. Before him was not talking much about these mistaken belief, view and idea to lay people by the monks. Even in Theravada Buddhism has this problem, so it’s no need to talk about the other traditions. They are relying on the outside power than Dhamma and becoming like other faiths.]
 
 ------
 
-revised on 2021-01-11
+revised on 2021-01-27
 
 ------
 
@@ -93,6 +93,7 @@ revised on 2021-01-11
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 proofread by bhante
   2021-01-11 rev. proofread by bhante
   (?? or Many of them, when their practice did not develop, became disappointed, became spiritually depressed and gave up their practice; some even attributed this to their pāramīs. ??)
 

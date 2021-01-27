@@ -3,12 +3,12 @@ Why Human Beings in Dangers?
 ==========================================
 
 :date: 2019-01-13
-:modified: 2020-03-04
+:modified: 2021-01-27
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Why Human Beings in Dangers? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-03-04
+revised on 2021-01-27
 
 ------
 
@@ -36,15 +36,17 @@ T3
 
 I have to warn you all; because of your good kammas all of you are still alive. How long it's? I have to answer for you; it's until now. I will give you an example. A pond is full of water after raining. Because of the hot sun the water in the pond become less and less. But the fishes in the pond don't know that. The water dry up little by little, so are the fishes closer to die. The water dries up means for the fishes to die. Do you know it? Here fishes are human beings and the water becomes less and less means their kammas are used up slowly. For older people their kammic water nearly dry up now. Is it the time for them looking for pleasure like the fishes or searching for the deathlessness? If the pond dries up the fishes must become the foods for eagles and hawks. Here eagles and hawks are referring to the 4 painful rebirths. I have to remind you 2 things. Some are near death because their kammic water becomes less, but concern for others who are still far away from death. They are still busy with family matters and business. So I remind you to make preparation for death now. Practice for the death of taṇhā is looking for deathlessness. 
 
-(Retold the Sakka's story here) In this discourse the Buddha mentioned the types of feeling. (1) two pleasant mental feelings (somanassa vedanā) (2) two unpleasant mental feelings (domanassa vedanā) (3) two neutral mental feelings (upekkhā vadanā). Each type of these vedanā can be divided into wholesome and unwholesome (kusala and akusala). 
+(Retold the Sakka's story here) In this discourse the Buddha mentioned the types of feeling. (1) two pleasant mental feelings (somanassa vedanā) (2) two unpleasant mental feelings (domanassa vedanā) (3) two neutral mental feelings (upekkhā vadanā). Each type of these vedanā can be divided into wholesome and unwholesome (kusala and akusala) It is mentioned as one which has to pursue and one which has to  avoided (?? which has to be pursued and one which has to be avoided ??) in the sutta, DN.21 Sakkapañhasuttaṃ.
 
-(1) The wholesome pleasant mental feeling (kusala somanassa vedanā). The example of it is seeing anicca the mind develops joy and happiness. 
+(1) The wholesome pleasant mental feeling (kusala somanassa vedanā). The example of it is seeing anicca the mind develops joy and happiness (i.e., come from practice)
 
-(2) Unwholesome pleasant mental feeling (akusala somanassa vedanā) 
+(2) Unwholesome pleasant mental feeling (akusala somanassa vedanā), e.g., come from sensual pleasure.
 
-(3) Wholesome unpleasant metal feeling (kusala domanassa vedanā). 
+(3) Wholesome unpleasant metal feeling (kusala domanassa vedanā).
+  
+(An example of it is one disappointed with one’s own practice which has no progress. The commentary gave the story of bhikkhu Mahāsīva.)
 
-(4) Unwholesome unpleasant mental feeling (akusala domanassa vedanā). An example of it is one disappointed with his own practice (no progress, the commentary gave the story of Mahāsīva) 
+(4) Unwholesome unpleasant mental feeling (akusala domanassa vedanā). An example of it is seeing someone hates or dislikes.
 
 (5) Wholesome neutral mental feeling (kusala upekkhā vedanā). As an example is vipassanupekkhā. 
 
@@ -108,7 +110,7 @@ If you have khandhas you have the danger of sickness. Before you are sick you ar
 
 ------
 
-revised on 2020-03-04; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35599#p35599 (posted on 2018-12-15)
+revised on 2021-01-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35599#p35599 (posted on 2018-12-15)
 
 ------
 
@@ -127,6 +129,7 @@ revised on 2020-03-04; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 proofread by bhante
   2020-03-04 rev. ← etc. while editing PDF
   06-14 rev. proofread by bhante
   2019-01-11  create rst; post on 01-13

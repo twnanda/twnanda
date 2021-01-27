@@ -3,12 +3,12 @@ On Sensuality
 =============================================
 
 :date: 2020-12-30
-:modified: 2021-01-11
+:modified: 2021-01-27
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: On Sensuality (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-11
+revised on 2021-01-27
 
 ------
 
@@ -20,7 +20,7 @@ The five khandhas is like a riddle-tree (in Pāli—Kiṁsuka tree). A dog came 
 
 After eating the fallen kiṁsuka flowers on the ground with it knew that these were not meat. It took the red flowers on the tree might be meat, and with expectation waiting under the tree for the flowers to fall off. Beings are dying without fulfilling their desire on sensual pleasures (kāmaguṇas). Was the dog oppressed by the kiṁsuka tree or the foolishness and wrong thinking of the dog under the tree?
 
-You all are living like dog and dying like dog if behaving this way. You don’t have the mind of a human. You have to cry if the kiṁsuka tree disappears (kiṁsuka tree referred to the khandhas). Because you’re worrying of the dog-mind, (i.e., you don’t want to be a human, Sayadawgyi was right. We can see the present-day dog culture around the world.) you will NOT become human-mind. Today’s talk demonstrates the great fault of sensual pleasures.
+You all are living like dog and dying like dog if behaving this way. You don’t have the mind of a human. You have to cry if the kiṁsuka tree disappears (kiṁsuka tree referred to the khandhas) because you’re worrying for the dog-mind and it will become the human-mind. (i.e., you don’t want to be a human. Sayadawgyi was right. We can see the present-day dog culture around the world.) Today’s talk demonstrates the great fault of sensual pleasures.
 
 You separate the khandha into groups (i.e., all human’s khandhas). You get 32 groups of them which group of your wife and son you love it or like it. The dog-mind is reducing to a little, before you’re always expecting for it. None of the groups is pleasant and attractive that none of them is valuable. The body has 32 groups or parts and mind phenomena have four groups.
 
@@ -30,7 +30,7 @@ Free from taṇhā is liberation from dying like a dog. This is Nibbāna. (In th
 
 ------
 
-revised on 2021-01-11
+revised on 2021-01-27
 
 ------
 
@@ -49,5 +49,6 @@ revised on 2021-01-11
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 proofread by bhante
   2021-01-11 rev. proofread by bhante; old: (During the Buddha’s time dog ascetics were not strange for today human beings because today human dog culture is very close to them—the reason is man has strong attachment to pets.)
   2020-12-30 create rst; post on 12-30

@@ -3,12 +3,12 @@ True Refuge—God or Dhamma?
 =============================================
 
 :date: 2020-12-30
-:modified: 2021-01-11
+:modified: 2021-01-27
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: True Refuge—God or Dhamma? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-11
+revised on 2021-01-27
 
 ------
 
@@ -45,13 +45,13 @@ With oneself thoroughly tamed can attain the refuge— Nibbāna,
 Which is difficult to achieve.
 (from Dhammapada—Atta Vagga—Self Verse 160)
 
-Human beings will never solve their problems and sufferings if they are always looking for outside power to help them. Their minds are the Creators and their Saviours are also their inner qualities if the mind—the wholesome and transcendental Dhammas. ]
+Human beings will never solve their problems and sufferings if they are always looking for outside power to help them. Their minds are the Creators and their Saviours are also their inner qualities of the mind—the wholesome and transcendental Dhammas. ]
 
 When you are alive, contemplate the impermanence of phenomena. At dying, also contemplate the impermanence of phenomena and die with it. And then all the impermanent phenomena (khandha or dukkha) cease here and the path factors (maggaṅga) lead to Nibbāna.
 
 ------
 
-revised on 2021-01-11
+revised on 2021-01-27
 
 ------
 
@@ -70,5 +70,6 @@ revised on 2021-01-11
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 proofread by bhante; old: qualities if the mind
   2021-01-11 rev. proofread by bhante
   2020-12-30 create rst; post on 12-30

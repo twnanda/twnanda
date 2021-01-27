@@ -3,12 +3,12 @@ The Hidden Nibbāna
 =============================================
 
 :date: 2020-12-30
-:modified: 2020-12-30
+:modified: 2021-01-27
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Hidden Nibbāna (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-12-30
+revised on 2021-01-27
 
 ------
 
@@ -24,7 +24,7 @@ As an example, you’re watching at a movie—The motioned pictures are always a
 
 Even though Nibbāna is near us the khandha covers on it that can’t see it. Again, you can’t see the khandhas because it’s covered up with ignorance (avijjā). We take the khandhas as man and woman because ignorance covers on it. Therefore, we can’t see the khandha’s machine revolving one by one with cessation. (Because of ignorance,   we can’t see the arising and passing away of the khandha.) Uncover ignorance with knowledge (vijjā) you’ll see the khandhas. You’ll see the khandha’s machine. After with the penetrative knowledge (ñāṇa) of impermanence and the knowledge of knowing dukkha arises. At the end of the knowledge of knowing dukkha, Nibbāna arises. Nibbāna is covered by the khandha which is also covered by ignorance. 
 
-(There are double covers on it. Two different sizes of boxes can be exemplified—one is small and the other is bigger. A jewel is in a small box and again the small box is inside the bigger one. The bigger one is avijjā, the smaller one is khandha and inside the smaller one is the jewel—i.e., Nibbāna. This is my own metaphorical terms for avijjā, khandha and Nibbāna here should not take it directly. If not, we can be mistaken with the concept of the original mind which is similar to Sāṃkhya philosophy of pyakati—the first cause or root cause. There is no first cause or root cause. Nibbāna is not in the khandha.)
+(There are double covers on it. Two different sizes of boxes can be exemplified—one is small and the other is bigger. A jewel is in a small box and again the small box is inside the bigger one. The bigger one is avijjā, the smaller one is khandha and inside the smaller one is the jewel—i.e., Nibbāna. This is my own metaphorical terms for avijjā, khandha and Nibbāna here should not take it directly. If not, we can be mistaken with the concept of the original mind which is similar to Sāṃkhya philosophy of Kapila—the first cause or root cause. There is no first cause or root cause. Nibbāna is not in the khandha.)
 
 (Sayadaw continued to use the D. A. Chart to explain the Dhamma process) Did we become man or woman in the past? Don’t guess in this way (i.e., wrong thought). Instead think about dhammas (phenomena) arise in us (right thinking). In past life we were moving like a double-blind man [i.e., the example for avijjā → saṅkhāra (section 1)]. This was also we had done samudaya sacca—the truth of the cause of dukkha. We had wasted our time in this way as a double-blind man. After death in this life, we get section 2 (i.e., viññāṇa, nāmarūpa…vedanā). We take this as good luck (as human being). It was the falling down of a double-blind man from walking, that was dukkha sacca. We get dukkha sacca because it’s bad luck. It’s the khandha with many kinds of disease (rogato). Is there any time the khandha frees from disease? (Sayadaw explained some of them.) Nibbāna exists at the ending of dukkha. The dhamma for practice is at section 2 (viññāṇa, nāmarūpa, etc.; i.e., the five khandhas), and if you follow it to the end will see it. By knowing section 2 as the five khandhas, and diṭṭhi falls away with the concept. Whatever phenomenon you discern in this section, you know it as dukkha sacca. With this knowledge, ignorance is blown away.
 
@@ -40,7 +40,7 @@ Whatever mind arises at other sense doors, it also has to be contemplated. Seein
 
 ------
 
-revised on 2020-12-30
+revised on 2021-01-27
 
 ------
 
@@ -59,4 +59,5 @@ revised on 2020-12-30
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 rev. Kapila; old: pyakati
   2020-12-30 create rst; post on 12-30

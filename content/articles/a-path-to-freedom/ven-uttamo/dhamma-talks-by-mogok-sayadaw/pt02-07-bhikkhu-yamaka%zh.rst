@@ -3,12 +3,12 @@ Bhikkhu Yamaka
 ==========================================
 
 :date: 2019-01-13
-:modified: 2021-01-11
+:modified: 2021-01-27
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Bhikkhu Yamaka (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-11
+revised on 2021-01-27
 
 ------
 
@@ -22,7 +22,7 @@ It seems that there are many universes in space. The Buddha said a hell being wh
 
 If an arahant dies and becomes nothingness, then who will want it? If happiness is existing and people will want it. Uccheda diṭṭhi is more fearful than the 5-heavy kammas (pañcānantarika kamma). There are 2-kinds of loss: the loss of knowing and unknowing. After knowing the dhamma of dispelling wrong views and not practicing it is a loss. The loss of unknowing is never heard about these kind of teaching. The loss of knowing without practice is more than the other. (The greatest loss, most Buddhists are in this group.)
 
-(Sayadaw pointed to the chart of Dependent Arising and said) It’s only saṅkhāra arises and saṅkhāra ceases. There is no person and living being. If you know like this, uccheda diṭṭhi falls away. Only the process of saṅkhāra arises and ceases. No arahant born and died. Only the assemblage of dukkha ceased. If dukkha ends, sukha must appear. From dukkha, it crosses into sukha. If you know this much will not fall into hell. Dukkha ending that Nibbāna is called sukha. If saṅkhata dukkha ends, asaṅkhata sukha must appear.
+(Sayadaw pointed to the chart of Dependent Arising and said) It’s only saṅkhāra arises and saṅkhāra ceases. There is no person and living being. If you know like this, uccheda diṭṭhi falls away. Only the process of saṅkhāra arises and ceases. No arahant born and died. Only the assemblage of dukkha ceased. If dukkha ends, sukha must appear. It transcends from dukkha to sukha. If you know this much will not fall into hell. Dukkha ending that Nibbāna is called sukha. If saṅkhata dukkha ends, asaṅkhata sukha must appear.
 
 ------
 
@@ -38,7 +38,7 @@ You can’t kill the kilesas randomly, whereas you must do it in systematically.
 
 T3 
 
-[Conventional truth is true only for dāna, sīla and samatha practices, but not for wisdom and Nibbāna. Reject conventional truth can create the heavy kamma, such as no father and mother etc. It’s true only for not telling lie. But by it alone can’t realize Nibbāna. By understanding ultimate truth can develop wisdom. Every being in the heart has the 3-seeds of existence, i.e., wrong view, greed and delusion. Wrong view is hell seed, greed (lobha) is peta seed (hungry ghost) and delusion is animal seed. Sayadaw talked about kamma and rebirth. He used a word kamma-samaṅgī which means craving is the storage of actions. Craving and wrong view or the origin (cause) of suffering (samudaya) kept all the kammic energy which beings were created in the round of existence, and then releasing them one by one. He gave an example of a stone which is thrown upwardly and goes upwards as long as the force is lasting. And then it stops and falls back downwardly. So, wrong view is like this. Beings were born in the wholesome realms until their good kammas are lasting. After that, most of them take rebirths in the planes of misery (apāya bhūmi). Therefore destroying diṭṭhi is very important. ]
+[Conventional truth is true only for dāna, sīla and samatha practices, but not for wisdom and Nibbāna. Reject conventional truth can create the heavy kamma, such as no father and mother etc. It’s true only for not telling lie. But by it alone can’t realize Nibbāna. By understanding ultimate truth can develop wisdom. Every being in the heart has the 3-seeds of existence, i.e., wrong view, greed and delusion. Wrong view is hell seed, greed (lobha) is peta seed (hungry ghost) and delusion is animal seed. Sayadaw talked about kamma and rebirth. He used a word kamma—samaṅgī which means craving is the storage of actions. Craving and wrong view are the causes (samudaya) of suffering and it kept all the kammic energy which beings were created in the round of existence, and then releasing them one by one. He gave an example of a stone which is thrown upwardly and goes upwards as long as the force is lasting. And then it stops and falls back downwardly. So, wrong view is like this. Beings were born in the wholesome realms until their good kammas are lasting. After that, most of them take rebirths in the planes of misery (apāya bhūmi). Therefore destroying diṭṭhi is very important. ]
 
 After Sāriputta heard about Yamaka’s wrong view, he went to see him and questioned him as follow: “Is form permanent or impermanent?” “It’s impermanent, Ven. Sir.” “Impermanence is sukha or dukkha?” “It’s dukkha, Ven. Sir.” “It is dukkha; can you take the form as my form (craving), I am form (conceit) and the form is I (wrong view)?” “No, Ven. Sir.” “If you can’t take the form as I, I am and mine, and then it’s self (atta) or not-self (anatta)?” “Not-self, Ven. Sir.” Sāriputta continued to question him on the other 4-khandhas in the same way. At the same time Yamaka observed his khandhas and entering the stream. 
 
@@ -85,7 +85,7 @@ There are only 2 dhammas; wrong view and right view. With wrong view go to unple
 
 ------
 
-revised on 2021-01-11; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35558#p35558 (posted on 2018-12-14)
+revised on 2021-01-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35558#p35558 (posted on 2018-12-14)
 
 ------
 
@@ -106,6 +106,7 @@ revised on 2021-01-11; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 proofread by bhante
   2021-01-11 rev. proofread by bhante; old: "After that, help him destroy taṇhā. Contemplate the 5-khandhas as murderer (vadhaka). All these were happening during the instructions. How to dispel uccheda diṭṭhi? By the D. A. of the khandhas – khandha paṭiccasamuppāda." & "Change into sukha." ?? perhaps it's better: "It crosses over from dukkha to sukha.""??
   05-26 rev. proofread by bhante
   04-21 rev. & add: Content of Publications of Ven. Uttamo; Content of Part 2 on "Dhamma Talks by Mogok Sayadaw"

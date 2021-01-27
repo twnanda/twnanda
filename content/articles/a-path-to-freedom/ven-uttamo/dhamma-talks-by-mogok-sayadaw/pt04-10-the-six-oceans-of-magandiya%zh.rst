@@ -3,12 +3,12 @@ The Six Oceans of Māgandiya
 ==========================================
 
 :date: 2019-01-13
-:modified: 2020-03-05
+:modified: 2021-01-27
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: The Six Oceans of Māgandiya (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-03-05
+revised on 2021-01-27
 
 ------
 
@@ -58,7 +58,7 @@ revised on 2019-07-02
 
 T3
 
-[ in the beginning, Sayadaw gave instruction on how to listen Sacca Dhamma. If the monk talks on vedanā the yogi should listen with the ear but the mind observes vedanā. In this way during the talk discerns anicca, becomes nibbidā ñāṇa (knowledge of disenchantment) and magga ñāṇa (path knowledge) successively. During magga ñāṇa moment you can’t hear the talk anymore. 
+[ In the beginning, Sayadaw gave instruction on how to listen Sacca Dhamma. If the monk talks on vedanā the yogi should listen with the ear but the mind observes vedanā. In this way during the talk discerns anicca, becomes nibbidā ñāṇa (knowledge of disenchantment) and magga ñāṇa (path knowledge) successively. During magga ñāṇa moment you can’t hear the talk anymore. (This point supports the existence of vipassanā jhāna by the commentary.)
 
 Sayadaw said no one realized Nibbāna just by listening only. However quick the enlightenment was more or less it needs to contemplate. Sayadaw encouraged his disciple practice diligently. He said the preacher and the listeners were moving toward death in moment to moment. So everyone could die at any time. If we die before the realization will miss the good chances. 
 
@@ -151,7 +151,7 @@ With continuous practice the mind is becoming clearer. Later mind sensitivity (m
 
 ------
 
-revised on 2020-03-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4036&p=35650#p35650 (posted on 2018-12-27)
+revised on 2021-01-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4036&p=35650#p35650 (posted on 2018-12-27)
 
 ------
 
@@ -170,6 +170,7 @@ revised on 2020-03-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4036&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 proofread by bhante
   2020-03-05 rev. ← etc. while editing PDF
   07-02 rev. proofread by bhante
   2019-01-12  create rst; post on 01-13

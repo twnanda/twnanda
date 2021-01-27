@@ -3,12 +3,12 @@ The Creators of Dukkha
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-09-12
+:modified: 2021-01-27
 :tags: The Creator, Dukkha, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Creators of Dukkha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-09-12
+revised on 2021-01-27
 
 ------
 
@@ -26,7 +26,7 @@ In this way and the desire for becoming is also useless. Āsava is like a mother
 
 The perception of man and woman disappears and khandha appears, it is the emptiness dhamma (suññatā dhamma). Knowing about the five khandhas is becoming a knowing person (jānāti). Let us contemplate it and becoming a seeing person (passati). It’s just knowing and not including seeing yet. 
 
-Therefore you have to contemplate at it for the knowing and seeing. Āsava will cease by combining these two practises. For example, seeing a white colour object, knowing the white colour is the aggregate of consciousness (The five aggregates are working together. Here just talk about the knowing which is consciousness). 
+Therefore you have to contemplate at it for the knowing and seeing. Āsava will cease by combining these two practices. For example, seeing a white colour object, knowing the white colour is the aggregate of consciousness (The five aggregates are working together. Here just talk about the knowing which is consciousness). 
 
 Contemplate this knowing is passati. Contemplate as, it exists or not exists and you’ll not find it. It’s existing and not existing dhamma. 
 
@@ -36,7 +36,7 @@ Does there any other thing exist? The four āsava cease and no khandha exists. N
 
 ------
 
-revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35765#p35765 (posted on 2019-01-14)
+revised on 2021-01-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35765#p35765 (posted on 2019-01-14)
 
 ------
 
@@ -55,5 +55,6 @@ revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 proofread by bhante; replace practise with practice (noun)
   09-12 rev. proofread by bhante
   2019-04-23  create rst; post on 04-28

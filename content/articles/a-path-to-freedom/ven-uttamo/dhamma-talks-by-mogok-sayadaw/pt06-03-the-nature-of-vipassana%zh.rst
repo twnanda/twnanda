@@ -3,12 +3,12 @@ The Nature of Vipassanā
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-08-12
+:modified: 2021-01-27
 :tags: vipassanā, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: The Nature of Vipassanā (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-08-12
+revised on 2021-01-27
 
 ------
 
@@ -28,7 +28,7 @@ By seeing impermanence, you do not find the feeling and craving. But only find o
 
 In the practice if you are still seeing feeling is not right yet. These words are very important. Feeling arises and ceases but craving ceases by not arising. These are: the cessation of the arising and the cessation of non-arising (upādā nirodho and anupādā nirodho). 
 
-The main thing in vipassanā is to know impermanence (anicca). Which one vanishing is not the main point (e.g., vedanā or mind etc. ). Knowing about death is the main one. Practise without any doubt and practice in the morning will realize the Dhamma in the evening. And practise in the evening will realize the Dhamma in the morning. It’s very quick if you get the Yathābhūta Ñāṇa (The knowledge of things as it really are, i.e., anicca). 
+The main thing in vipassanā is to know impermanence (anicca). Which one vanishing is not the main point (e.g., vedanā or mind etc. ). Knowing about death is the main one. If you practise without any doubt, then if you practise in the morning, you will realize the Dhamma in the evening; if you practise in the evening, you will realize the Dhamma in the morning. It’s very quick if you get the Yathābhūta Ñāṇa (The knowledge of things as it really are, i.e., anicca).
 
 Looking for it in contemplation is thinking-vitakka (Like a tiger is chasing its prey). Knowledge and thinking are not the same. Following with chasing is vitakka. By knowing that it’s not there is right view. It’s knowing nirodha (Temporary cessation, so sometimes using as tādinga nibbāna). 
 
@@ -46,7 +46,7 @@ The khandha vanishes with the contemplation of impermanence. Ñāṇa turns towa
 
 ------
 
-revised on 2019-08-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35731#p35731 (posted on 2019-01-11)
+revised on 2021-01-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35731#p35731 (posted on 2019-01-11)
 
 ------
 
@@ -65,6 +65,7 @@ revised on 2019-08-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 proofread; old: Practise without any doubt and practice in the morning will realize the Dhamma in the evening. And practise in the evening will realize the Dhamma in the morning.
   08-12 rev. proofread by bhante
   2019-01-13  create rst
   https://mogokdhammatalks.blog/

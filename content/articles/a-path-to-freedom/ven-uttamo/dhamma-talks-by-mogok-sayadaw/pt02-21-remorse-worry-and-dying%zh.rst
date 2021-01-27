@@ -3,12 +3,12 @@ Remorse, Worry and Dying
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-05-26
+:modified: 2021-01-27
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Remorse, Worry and Dying (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-05-26
+revised on 2021-01-27
 
 ------
 
@@ -20,7 +20,7 @@ T1
 
 Worry about good things that has not done yet and remorse from bad things that had already done. It’s a kind of subtle dosa. In a family mostly parents have kukkucca. In the Buddha’s teaching to King Ajātasattu, kukkucca is like a slave who can’t make any decision. Human beings have a lot of worries in their daily life. It creates unhappiness and a big hindrance for practice. So, it's very important to deal with them. They usually come at quiet times, such as sleeping times, practice times and near dying. The mind is in the past and future, and never in the present moment. ]
 
-Kukkucca is a refined state of dosa. May be nobody believes this point. You should think carefully. This is a displeasing mind. Therefore, I have said a refined dosa. Another point is some people mistaken it as a wholesome mental state. Example, some people near death, thinking they had never done good things in their lives, wanting to see their grandsons or sons ordaining as novices. Most people think that these are wholesome mental states. They are dying with refined dosa. At that moment don’t think anything, staying with your meditation at the present moment. Dosa is harmful to both sides. Kukkucca is only harmful to oneself. You are inviting worry at anytime and at anywhere. Thinking this and thinking that, and this worry and that worry. But for doing practice, looking for a place and looking for a time (given many reasons for practice).
+Kukkucca is a refined state of dosa. May be nobody believes this point. You should think carefully. This is a displeasing mind. Therefore, I have said a refined dosa. Another point is some people mistaken it as a wholesome mental state. Example, some people near death, thinking they had never done good things in their lives, wanting to see their grandsons or sons ordaining as novices. Most people think that these are wholesome mental states. They are dying with refined dosa. At that moment don’t think anything, staying with your meditation at the present moment. Dosa is harmful to both sides. Kukkucca is only harmful to oneself. You are inviting worry at anytime and at anywhere by thinking this and that, and this worry and that worry. But for the practice, you are looking for a place and for a time (giving many reasons for practice).
 
 ------
 
@@ -42,7 +42,7 @@ Instead of unwholesome āsanna-kamma develop the wholesome āsanna – kamma, by
 
 ------
 
-revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35572#p35572 (posted on 2018-12-14)
+revised on 2021-01-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35572#p35572 (posted on 2018-12-14)
 
 ------
 
@@ -63,6 +63,7 @@ revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 proofread by bhante
   05-26 rev. proofread by bhante
   04-21 rev. & add: Content of Publications of Ven. Uttamo; Content of Part 2 on "Dhamma Talks by Mogok Sayadaw"
         del: https://mogokdhammatalks.blog/

@@ -3,12 +3,12 @@ How to Open Your Eye?
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-07-02
+:modified: 2021-01-27
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: How to Open Your Eye? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-07-02
+revised on 2021-01-27
 
 ------
 
@@ -103,7 +103,7 @@ If you trace the reverse order of the Dependent Arising process (the 12 links) a
 
 It arises from the thinking of the mind door. Thought arises from the mind object (dhamma ārammaṇa) and mind door (mana dvāra). The arising cause is called paṭicca-samuppāda and the arising result is called paṭicca-samuppanna. The arising dhamma is coarse and the cause of thinking. It is compounded dhamma (saṅkhata dhamma). If you know it as a compounded dhamma, then anicca is included in it. You know it arising because it’s coarse. And when you contemplate (think about) it’s not there. You know the arising and passing away of the compounded dhamma (saṅkhata dhamma). In the place of greed you only discern impermanence. This contemplation is called vipassanupekkhā ñāṇa. 
 
-Therefore anicca is close to Nibbāna because its nature is similar to saṅkhāra-upekkhā ñāṇa. Therefore the harmlessness of sense faculties is depending on contemplation. In talking about the way to Nibbāna by using long method and it becomes long. By short method, it becomes short. 
+So anicca is close to Nibbāna because its nature is similar to saṅkhāra‐upekkhā ñāṇa. Therefore the harmlessness of sense faculties is depending on contemplation. In talking about the way to Nibbāna by using long method and it becomes long. By short method, it becomes short. 
 
 In short, it only exists as; ① impermanence and, ② the ending of impermanence. It is only dukkha sacca and nirodha sacca while analyzing by truth (impermanence is dukkha and the ending of it is nirodha). (In some suttas the Buddha himself expressed his teachings as he only taught dukkha and the ending of dukkha, in the past, present and future. All the Buddhas were/will the same. Any teaching of not ending for dukkha is not the Buddha’s teachings). 
 
@@ -113,7 +113,7 @@ Insight knowledge kills the coarse defilement and path knowledge kills the refin
 
 ------
 
-revised on 2019-07-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4036&p=35652#p35652 (posted on 2018-12-27)
+revised on 2021-01-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4036&p=35652#p35652 (posted on 2018-12-27)
 
 ------
 
@@ -132,6 +132,10 @@ revised on 2019-07-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4036&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 proofread by bhante; 
+
+  So anicca is close to Nibbāna because its nature is similar to saṅkhāra‐upekkhā ñāṇa. (?? Because anicca is similar in nature to saṅkhāra-upekkhā ñāṇa, it is close to Nibbāna. ??)
+  
   07-02 rev. proofread by bhante
   2019-01-12  create rst; post on 01-13
   https://mogokdhammatalks.blog/

@@ -3,12 +3,12 @@ Are You the Wise or the Fool?
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-10-02
+:modified: 2021-01-27
 :tags: The Wise, The Fool, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Are You the Wise or the Fool? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-10-02
+revised on 2021-01-27
 
 ------
 
@@ -36,13 +36,13 @@ If you know it as foolish, then make it wise. If you don’t know your foolishne
 
 And if you know yourself as foolish becomes vipassanā. The foolish mind is anicca and the knowing mind is magga. It becomes the contemplation of the mind (cittānupassanā). If a wise mind arises, also contemplate its impermanence. It becomes right view and it’s paññā. This becomes association with the wise. 
 
-If you don’t know impermanence, it becomes ignorance. This is association with the fool. Vipassanā doesn’t mean going to a meditation centre for practice. Have to contemplate your khandha. You have to practice to know yourself. Practise insight is association with the wise and without it with the fool. 
+If you don’t know impermanence, it becomes ignorance. This is association with the fool. Vipassanā doesn’t mean going to a meditation centre for practice. Have to contemplate your khandha. You have to practice to know yourself. Practising insight is association with the wise and without it with the fool.
 
 Puja ca pūjaniyanaṃ — with the practice is worshipping to the Dhamma. This is maṅgala-uttamaṃ — the great blessing. After the enlightenment, the Buddha himself took the Dhamma as a refuge, because there was no one greater than him. With the practice of maggabrahmacariya (path of the holy life) the wise ends dukkha. Without its practice the fool returns to dukkha.
 
 ------
 
-revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35929#p35929 (posted on 2019-02-13)
+revised on 2021-01-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35929#p35929 (posted on 2019-02-13)
 
 ------
 
@@ -61,5 +61,6 @@ revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 rev. old: Practise insight is association with
   10-02 rev. proofread by bhante
   2019-04-25  create rst; post on 04-28

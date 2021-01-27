@@ -3,12 +3,12 @@ The Worst Danger
 =============================================
 
 :date: 2020-12-30
-:modified: 2021-01-11
+:modified: 2021-01-27
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Worst Danger (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-11
+revised on 2021-01-27
 
 ------
 
@@ -18,7 +18,7 @@ The first important matter is closing the doors of woeful existence—apāyas. (
 
 Even sotāpanna still makes khandha and goes to the good destinations (sugati); but never creates khandha and goes to dugati—the bad destination. So it becomes clear that only this one (diṭṭhi) needs to be abandoned. You don’t need to be worried if diṭṭhi falls away. In the Mahā-vedalla sutta (MN 43) of Majjhima Nikāya, the Buddha mentioned as after eradicating diṭṭhi, beings did not fall into apāya dugati—painful destinations. To strip away diṭṭhi is the task of sotāpatti-magga—the path knowledge of the stream-enterer. Dāna, sīla and samatha can’t make diṭṭhi fall away. For example, “Do you have diṭṭhi or not, if I do it, then I’ll get it?” (i.e., on dāna). If I have sīla, in next life I will have long life. In the Suttanipāta, the Buddha mentioned that with the attaining of sotāpatti magga would not fall into the four painful existences (apāya). There are many suttas on this point that refer to it.
 
-Don’t know the nature of mind and body process and its impermanence that diṭṭhi is stuck with them.
+Without knowing the natural process of the mind and body with its impermanence,  people are stuck by the diṭṭhi.
 
 There are two ways to strip off diṭṭhi: 1. Temporary and 2. Destroy the cause. The temporary way has clear knowledge on the nature of mind and body and discerning of impermanence is called cūḷa-sotāpanna—small stream-enterer. In the next life he will not fall into apāya, but he will be unsafe after the following life. The Buddha preferred the second way for us all. The way of destroying the cause because diṭṭhi arises by cause. This is the destruction of the underlying tendency (anusaya) with the path knowledge. The temporary way of stripping off diṭṭhi is by insight knowledges. It’s temporary cessation by discerning of impermanence. 
 
@@ -48,7 +48,7 @@ Bodhisatta Sumedha became Gotama the Buddha after he fulfilled the ten pāramīs
 
 ------
 
-revised on 2021-01-11
+revised on 2021-01-27
 
 ------
 
@@ -67,8 +67,6 @@ revised on 2021-01-11
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-01-27 proofread by bhante; old: Don’t know the nature of mind and body process and its impermanence that diṭṭhi is stuck with them.
   2021-01-11 rev. proofread by bhante; 
-  (?? If one does not know the nature of the processes of mind and body, and their impermanence, they are diṭṭhi stuck (nailed down). ??)
-
-  (?? Or  Without knowing the nature of the process of the mental and body, and their impermanence; they are stuck (crucified) by diṭṭhi. ??) 
   2020-12-30 create rst; post on 12-30
