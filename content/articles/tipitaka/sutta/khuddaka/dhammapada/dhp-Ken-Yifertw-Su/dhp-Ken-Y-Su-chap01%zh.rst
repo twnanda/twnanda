@@ -1,12 +1,12 @@
 ==============================================================================================
-第一：雙品（《法句經》, Dhammapada, YAMAKAVAGGO, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
+第一：雙品（《法句經》, Dhammapada, Yamakavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
 ==============================================================================================
 
 :date: 2021-01-24
-:modified: 2021-01-25
+:modified: 2021-01-29
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
-:summary: 第一：雙品（《法句經》, Dhammapada, YAMAKAVAGGO, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
+:summary: 第一：雙品（《法句經》, Dhammapada, Yamakavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
 
 - `《法句經》目錄 <{filename}dhp-Ken-Y-Su%zh.rst>`__ , 白話文版, 蘇錦坤 著
 
@@ -39,7 +39,7 @@
 
    * - Dhp_019_
      - Dhp_020_
-     - `本品(YAMAKA)總結`_
+     - `本品(Yamakavaggo)總結`_
      - 
      - 
      - 
@@ -1214,10 +1214,10 @@ Dhp. 020
 
 -----
 
-.. _YAMAKA_conclution:
+.. _Yamakavaggo_conclution:
 
-本品(YAMAKA)總結
-~~~~~~~~~~~~~~~~~~
+本品(Yamakavaggo)總結
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 《法句經》是到今日為止被翻譯成最多種語言的佛經，也是今日保存最多種古代語言版本的佛教文獻。
 
@@ -1294,5 +1294,6 @@ Dhp. 020
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  01-29 rev. replace YAMAKAVAGGO with Yamakavaggo 
   01-25 add: 總結 & rev. verse #5, #6, #19, #20
   2021-01-24 create rst
