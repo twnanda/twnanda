@@ -3,7 +3,7 @@
 ====================================
 
 :date: 2019-02-06
-:modified: 2021-01-04
+:modified: 2021-02-04
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著,  Nanda 編譯
 :tags: 第二聖諦, 集諦, 苦之生起, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
@@ -174,23 +174,7 @@
 
            「云何集諦？謂諸煩惱及煩惱增上所生諸業，俱說名集諦。然薄伽梵隨最勝說，若愛若後有愛、若喜貪俱行愛、若彼彼[4]喜樂愛，是名集諦。言最勝者，是遍行義。由愛具有六遍行義，是故最勝。何等為六？一事遍行、二位遍行、三世遍行、四界遍行、五求遍行、六種遍行。」（三藏法師 玄奘  譯，CBETA 2020.Q4, T31, no. 1605, p. 676a19-25，[4]：喜【大】，希【宋】【元】【明】【宮】 https://cbetaonline.dila.edu.tw/zh/T31n1605_p0676a19 ）
 
-           英文：https://books.google.com.tw/books?id=Rr0qDAAAQBAJ&pg=PA322&lpg=PA322&dq=sarvatrag%C4%81rtha&source=bl&ots=42aGsqLevM&sig=ACfU3U1dOBGQxWVwDMP335XKG9fmbgsaeQ&hl=zh-TW&sa=X&ved=2ahUKEwiwqabls_3tAhUCCqYKHWZDACcQ6AEwAHoECAIQAg#v=onepage&q=sarvatrag%C4%81rtha&f=false
-
-           ～～～～～～～～～～
-
-           “賢友們，什麼是愛？什麼是愛集？什麼是愛滅？什麼是愛滅之道呢？
-
-           “有六種愛：色愛、聲愛、香愛、味愛、觸愛、法愛。
-
-           “受集就是愛集。
-
-           “受滅就是愛滅。
-
-           “八正道──正見、正思維、正語、正業、正命、正精進、正念、正定就是愛滅之道。
-
-           “賢友們，一位聖弟子知道這些是愛，知道這些是愛集，知道這些是愛滅，知道這些是愛滅之道的時候，能斷除所有貪著的性向，清除所有厭惡的性向，截斷我見和我慢，斷除無明而生起明，當下將苦終結。
-
-           “賢友們，這就是聖弟子的正見，能使人正直地生活，能帶來對法具有一種不會壞失的淨信，能使人得到正法。這就是正見所包含的內容了。” （蕭式球 譯，中部 九．正見經 http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=190&page_id=75:91 ）
+           英文版：（缺此頁）https://books.google.com.tw/books?id=Rr0qDAAAQBAJ&pg=PA322&lpg=PA322&dq=sarvatrag%C4%81rtha&source=bl&ots=42aGsqLevM&sig=ACfU3U1dOBGQxWVwDMP335XKG9fmbgsaeQ&hl=zh-TW&sa=X&ved=2ahUKEwiwqabls_3tAhUCCqYKHWZDACcQ6AEwAHoECAIQAg#v=onepage&q=sarvatrag%C4%81rtha&f=false
 
 .. [註3-04] 四：見巴利文學會版《毘崩伽》（分別論）第一零六頁以次各頁。
 
@@ -346,6 +330,7 @@
 
            巴利原文：Paramatthato ca khandhesu jāyamānesu jīyamānesu mīyamānesu ca ‘‘khaṇe khaṇe tvaṃ bhikkhu jāyase ca jīyase ca mīyase cā’’ti （Khuddakapāṭha-aṭṭhakathā (Paramatthajotikā) 《小誦註》（《勝義光明》） 4. Kumārapañhavaṇṇanā / Pañhavaṇṇanā / Ekaṃ nāma kintipañhavaṇṇanā, https://tipitaka.org/romn/cscd/s0501a.att4.xml ）
 ..
+  02-04 rev. del: [註3-03] 第二項（重複 copy [註3-02] ） & 英文版：（缺此頁）
   2021-01-04 完成補充註釋中之經論出處。
   2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
   02-06 post; finished 2019-02-05
