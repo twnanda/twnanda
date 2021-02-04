@@ -57,7 +57,7 @@ Nanda 編譯
      - `第二章  四聖諦 <{filename}what-the-Buddha-taught-chap2%zh.rst>`__ (第一聖諦：苦諦)
      - `第三章  第二聖諦：集諦——苦之生起 <{filename}what-the-Buddha-taught-chap3%zh.rst>`__
 
-   * - `第四章  第三聖諦：滅諦——苦的止息 <{filename}what-the-Buddha-taught-chap4%zh.rst>`__
+   * - `第四章  第三聖諦：滅諦 <{filename}what-the-Buddha-taught-chap4%zh.rst>`__ (苦的止息)
      - `第五章  第四聖諦：道諦 <{filename}what-the-Buddha-taught-chap5%zh.rst>`__
      - `第六章  無我論 <{filename}what-the-Buddha-taught-chap6%zh.rst>`__
 
@@ -92,7 +92,7 @@ Nanda 編譯
 
 - `第三章  第二聖諦：集諦——苦之生起 <{filename}what-the-Buddha-taught-chap3%zh.rst>`__ (Chapter III: The Second Noble Truth: Samudaya, the arising or origin of dukkha)
 
-- `第四章  第三聖諦：滅諦——苦的止息 <{filename}what-the-Buddha-taught-chap4%zh.rst>`__ (Chapter IV: The Third Noble Truth: Nirodha, the cessation of dukkha)
+- `第四章  第三聖諦：滅諦 <{filename}what-the-Buddha-taught-chap4%zh.rst>`__ (苦的止息， Chapter IV: The Third Noble Truth: Nirodha, the cessation of dukkha)
 
 - `第五章  第四聖諦：道諦 <{filename}what-the-Buddha-taught-chap5%zh.rst>`__ (Chapter V: The Fourth Noble Truth: Magga, The Path)
 

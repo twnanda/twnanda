@@ -3,7 +3,7 @@
 ====================================
 
 :date: 2019-02-06
-:modified: 2021-01-21
+:modified: 2021-02-04
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著,  Nanda 編譯
 :tags: 第三聖諦, 滅諦, 苦的止息, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
@@ -239,7 +239,7 @@
 
            ～～～～～～～～～～
 
-           「而，比丘們！這是苦滅聖諦：就是那渴愛的 :ttnote:`無餘褪去與滅` 、捨棄、 :ttnote:`斷念` 、解脫、無 :ttnote:`依住` 。」（相應部56相應11經/法輪轉起經(諦相應/大篇/修多羅)(莊春江譯)http://agama.buddhason.org/SN/SN1708.htm ） 
+           「而，比丘們！這是苦滅聖諦：就是那渴愛的 :ttnote:`無餘褪去與滅` 、捨棄、 :ttnote:`斷念` 、解脫、無 :ttnote:`依住` 。」（相應部56相應11經/法輪轉起經(諦相應/大篇/修多羅)(莊春江譯) http://agama.buddhason.org/SN/SN1708.htm ） 
 
            ～～～～～～～～～～
 
@@ -676,6 +676,7 @@
 2. 《相應部註》：所有這些術語都是 :ttnote:`涅槃` (Nibbāna)的同義詞。因為依託於那（tamāgamma），所有形式的波動都變得靜止和平靜；所有的獲得都被放棄；所有的渴望都被摧毀；所有的慾望污穢都消失；所有的痛苦都停止。Spk-pt:̣以那為條件的(Contingent upon)：依附於(in dependence upon)那，因為它是聖道的對象條件。
 
 ..
+  02-04 test recall 名相註解
   2021-01-21 完成補充註釋中之經論出處 & 增加莊春江老師之名相註解
   莊春江註解：
   百八種 _`渴愛思潮`；「愛行(SA.984)」，南傳作「渴愛思潮」(taṇhāvicaritāni，另譯為「渴愛伺察；愛伺」)，菩提比丘長老英譯為「渴愛之流」(currents of craving)。 AN.4.199 Taṇhāsuttaṃ (AN II 212) 增支部4集199經/渴愛經(莊春江譯) http://agama.buddhason.org/AN/AN0781.htm
