@@ -366,10 +366,6 @@ Dhp. 005
 Dhp. 006
 ~~~~~~~~~~~
 
-6 巴利《法句經》1-20 〈1 雙品 **Yamakavaggo** 〉
-
-----------
-
 | Pare ca na vijānanti, mayamettha yamāmase;
 | Ye ca tattha vijānanti, tato sammanti medhagā. (6)
 | 
