@@ -1479,6 +1479,7 @@ var notes = {
     "div275": "「邊際究竟/究竟邊際(SA)；得至究竟(MA)；究竟(DA/AA)」，南傳作「究竟終結」(accantaniṭṭho，另譯為「最終目的；徹底完成」)，菩提比丘長老英譯為「到達終極的結尾者」(one who has reached the ultimate end)。按：《顯揚真義》以「終極被征服的終結；常恆的終結」(antaṃ atikkantaniṭṭho satataniṭṭhā, SN.22.4)解說，《破斥猶豫》以「滅盡、消散、終極、過去」(khayavayasaṅkhātaṃ antaṃ atītāti, MN.37)解說「究竟」，《吉祥悅意》以「終極被稱為破壞，這些的終極、過去為終結」(anto vuccati vināso, antaṃ atītā niṭṭhā etesanti)解說，《滿足希求》以「終極被征服的終結；不動搖的終結(akuppaniṭṭho)；常恆的終結(dhuvaniṭṭhoti, AN.3.144)」解說。",
     "div276": "「不涌、不沒(SA)」，南傳作「不彎曲、不彎離」(na cābhinato na cāpanato)，菩提比丘長老英譯為「不前傾，不後傾」(does not lean forward and does not lean back)。按：《顯揚真義》說，心隨順貪(Rāgānugataṃ)名為彎曲，隨順瞋(dosānugataṃ, SN.1.38)名彎離。",
     "div277": "「居家白衣(SA)；在家白衣(SA/MA/AA)」，南傳作「白衣在家人」(gihī odātavasano)，菩提比丘長老英譯為「穿白衣的俗人」(a layman clothed in white)。按：「白衣」、「在家人」為同義複詞。",
+    "白衣": "「居家白衣(SA)；在家白衣(SA/MA/AA)」，南傳作「白衣在家人」(gihī odātavasano)，菩提比丘長老英譯為「穿白衣的俗人」(a layman clothed in white)。按：「白衣」、「在家人」為同義複詞。",
     "div278": "「轉輪王；轉輪聖王(SA/DA/AA)」，南傳作「轉輪王」(Rañño……cakkavattissa)，菩提比丘長老英譯為「轉輪君主」(a wheel-turning monarch)。",
     "轉輪王": "「轉輪王；轉輪聖王(SA/DA/AA)」，南傳作「轉輪王」(Rañño……cakkavattissa)，菩提比丘長老英譯為「轉輪君主」(a wheel-turning monarch)。",
     "div279": "「有流(SA)」，南傳作(i)「有的暴流」(bhavogho)，菩提比丘長老英譯為「存在的洪水」(the flood of existence)，《顯揚真義》以「對色無色有的貪欲」(rūpārūpabhavesu chandarāgo)解說。(ii)「有之管道」(bhavanetti)，菩提比丘長老英譯為「往存在的導管」(the conduit to existence)，Maurice Walshe先生英譯為「被綁向形成的連結」(the link that bound it to becoming)。按：有(bhava)為十二緣起支中的有支，《顯揚真義》以有之繩(bhavarajju, SN.23.3)解說，長老說此與有的渴愛(bhavataṇhā)為同義詞。",
@@ -1626,7 +1627,8 @@ var notes = {
     "div344": "(1)「自恣」：自在地，如「五欲自恣；飲食自恣；自恣而遊行」等。(2)「懷受/受歲(SA/AA)；自恣(SA/GA)；請/請請(MA)；受自恣(摩訶僧祇律)」，南傳作「作自恣」(Pavāreti，動詞，另譯為「邀請」)，菩提比丘長老英譯為「請求」(asks)。(3)「月食受時(SA)；自恣時到(GA)；相請請時(MA)；受歲之日(AA)」，南傳作「在自恣日」(pavāraṇāya)，菩提比丘長老英譯為「在...自恣儀式」(on...of the pavāraṇā ceremony)，或「邀請儀式」(the invitation ceremony, AN)，並解說，這是雨季安居結束的儀式，比丘邀請所有其他比丘對他犯戒行為提出告誡。按：僧團規制，於雨季結夏安居的最後一天，僧團集會，就所見、所聽聞、所懷疑，「自在地」指出別人的過失，以互相砥礪改正，稱為「自恣」，這一天也稱為「自恣日」。",
     "div345": "「地獄；泥黎(SA/AA)」，南傳作「地獄」(niraya，音譯為「泥黎；泥梨；泥犁；泥洹夜；捺落迦」)，菩提比丘長老英譯為「地獄」(hells)。",
     "div346": "「化生者；化生(的)」(opapātikā)，菩提比丘長老英譯為「自生的出生」(spontaneous birth)。",
-    "div347": "「四雙八輩；四雙八士(SA)；四雙人八輩聖士(MA)」，南傳作「四雙之人、八輩之士」(cattāri purisayugāni aṭṭha purisapuggalā)，菩提比丘長老英譯為「四對人、八類個人」(the four pairs of persons, the eight types of individuals)。按：此即指四果與四果向者，合為八種聖者之人。",
+    "化生者": "「化生者；化生(的)」(opapātikā)，菩提比丘長老英譯為「自生的出生」(spontaneous birth)。",
+	"div347": "「四雙八輩；四雙八士(SA)；四雙人八輩聖士(MA)」，南傳作「四雙之人、八輩之士」(cattāri purisayugāni aṭṭha purisapuggalā)，菩提比丘長老英譯為「四對人、八類個人」(the four pairs of persons, the eight types of individuals)。按：此即指四果與四果向者，合為八種聖者之人。",
     "div348": "「解脫施(SA)」，南傳作「自在地施捨」(muttacāga，另譯為「解脫施；放捨者」)，菩提比丘長老英譯為「自由地慷慨」(freely generous)。按：「mutta」也可譯為解脫，所以「行解脫施」與「自在地施捨」推斷它們的原文是完全相同的。",
     "div349": "「等心行施(SA)；等心普施(MA)；平等心而以惠施/等心普施/等心施與(AA)」，南傳作「樂於均分與布施」(dānasaṃvibhāgarata)，菩提比丘長老英譯為「樂於給予及共享」(delighting in giving and sharing)。",
     "div350": "「快得善利；汝得善利/汝得大利(SA)」，南傳作「這是你的好獲得」(Lābhā te)，菩提比丘長老英譯為「那是你的獲得」(It is a gain for you)。",
@@ -1669,7 +1671,8 @@ var notes = {
     "div378": "「無齋(MA)」，南傳作「無供養」(natthi yiṭṭhaṃ)，菩提比丘長老英譯為「沒什麼東西供養」(nothing offered)。「齋」，顯然是「供養」(yiṭṭha)的另譯。",
     "div379": "「得無所畏；成就無畏(DA)」，南傳作「得無畏」(vesārajjappatto，另譯為「得自信」)，菩提比丘長老英譯為「已獲得自信」(attained self-confidence)。",
     "div380": "「不由他度/不由於他(SA)；不隨他教(GA)；不復從他/不復由他(MA)；不信餘道/不由他信/不向餘道(DA)；更不事餘師(AA)」，南傳作「不緣於他」(aparappaccayo，另譯為「不需要他人」)，菩提比丘長老英譯為「成為獨立者(成為獨立於他人)」(become independent of others)。按：《顯揚真義》以「不信賴其他人(aññassa apattiyāyetvā)，就有親身體驗的智(attapaccakkhañāṇamevassa, SN.12.15)」解說，《破斥猶豫》以「不信賴其他人」(aparappattiyo, MN.35)解說。",
-    "div381": "(1)「梵行」(brahmacariya)，菩提比丘長老英譯為「聖潔的生活」(the holy life)。按：梵行的原義應指修往生梵天界的行為，演為「修清淨行」，又因梵天屬出欲界的色界，故亦為離淫欲的同義語，《集異門足論》：「離二交會說名梵行。」(2)「梵行求(DA)」，南傳作「梵行的尋求」(brahmacariyesanā)，Maurice Walshe先生英譯為「為聖潔生活的尋求」(quests for the holy life, DN)，菩提比丘長老英譯為「為聖潔生活的尋求」(the search for a holy life, SN)。按：《顯揚真義》說，此指邪見考量(micchādiṭṭhisaṅkhātassa)的梵行尋求。(3)「離非梵行/斷非梵行(MA)」，南傳作「捨斷非梵行」(Abrahmacariyaṃ pahāya)，智髻比丘長老英譯為「戒絕卑俗的性交實行」(abstaining from the vulgar practice of sexual intercourse, MN)。",
+    "不緣於他": "「不由他度/不由於他(SA)；不隨他教(GA)；不復從他/不復由他(MA)；不信餘道/不由他信/不向餘道(DA)；更不事餘師(AA)」，南傳作「不緣於他」(aparappaccayo，另譯為「不需要他人」)，菩提比丘長老英譯為「成為獨立者(成為獨立於他人)」(become independent of others)。按：《顯揚真義》以「不信賴其他人(aññassa apattiyāyetvā)，就有親身體驗的智(attapaccakkhañāṇamevassa, SN.12.15)」解說，《破斥猶豫》以「不信賴其他人」(aparappattiyo, MN.35)解說。",
+	"div381": "(1)「梵行」(brahmacariya)，菩提比丘長老英譯為「聖潔的生活」(the holy life)。按：梵行的原義應指修往生梵天界的行為，演為「修清淨行」，又因梵天屬出欲界的色界，故亦為離淫欲的同義語，《集異門足論》：「離二交會說名梵行。」(2)「梵行求(DA)」，南傳作「梵行的尋求」(brahmacariyesanā)，Maurice Walshe先生英譯為「為聖潔生活的尋求」(quests for the holy life, DN)，菩提比丘長老英譯為「為聖潔生活的尋求」(the search for a holy life, SN)。按：《顯揚真義》說，此指邪見考量(micchādiṭṭhisaṅkhātassa)的梵行尋求。(3)「離非梵行/斷非梵行(MA)」，南傳作「捨斷非梵行」(Abrahmacariyaṃ pahāya)，智髻比丘長老英譯為「戒絕卑俗的性交實行」(abstaining from the vulgar practice of sexual intercourse, MN)。",
     "梵行": "(1)「梵行」(brahmacariya)，菩提比丘長老英譯為「聖潔的生活」(the holy life)。按：梵行的原義應指修往生梵天界的行為，演為「修清淨行」，又因梵天屬出欲界的色界，故亦為離淫欲的同義語，《集異門足論》：「離二交會說名梵行。」(2)「梵行求(DA)」，南傳作「梵行的尋求」(brahmacariyesanā)，Maurice Walshe先生英譯為「為聖潔生活的尋求」(quests for the holy life, DN)，菩提比丘長老英譯為「為聖潔生活的尋求」(the search for a holy life, SN)。按：《顯揚真義》說，此指邪見考量(micchādiṭṭhisaṅkhātassa)的梵行尋求。(3)「離非梵行/斷非梵行(MA)」，南傳作「捨斷非梵行」(Abrahmacariyaṃ pahāya)，智髻比丘長老英譯為「戒絕卑俗的性交實行」(abstaining from the vulgar practice of sexual intercourse, MN)。",
     "梵行的尋求": "(1)「梵行」(brahmacariya)，菩提比丘長老英譯為「聖潔的生活」(the holy life)。按：梵行的原義應指修往生梵天界的行為，演為「修清淨行」，又因梵天屬出欲界的色界，故亦為離淫欲的同義語，《集異門足論》：「離二交會說名梵行。」(2)「梵行求(DA)」，南傳作「梵行的尋求」(brahmacariyesanā)，Maurice Walshe先生英譯為「為聖潔生活的尋求」(quests for the holy life, DN)，菩提比丘長老英譯為「為聖潔生活的尋求」(the search for a holy life, SN)。按：《顯揚真義》說，此指邪見考量(micchādiṭṭhisaṅkhātassa)的梵行尋求。(3)「離非梵行/斷非梵行(MA)」，南傳作「捨斷非梵行」(Abrahmacariyaṃ pahāya)，智髻比丘長老英譯為「戒絕卑俗的性交實行」(abstaining from the vulgar practice of sexual intercourse, MN)。",
     "div382": "「受持學戒(SA)；受持學要(MA)；等學諸戒(DA)」，南傳作「在學處上受持後學習」(samādāya sikkhati sikkhāpadesu)，菩提比丘長老英譯為「承擔調馴規定後，在它們中訓練」(Having undertaken the training rules, he trains in them)。按：「學戒」或「學處」(sikkhāpada)，即「戒條」。",
@@ -2685,5 +2688,7 @@ var notes = {
     "div1069": "「愛行」，南傳作「渴愛思潮」(taṇhāvicaritāni，另譯為「渴愛伺察；愛伺」)，菩提比丘長老英譯為「渴愛之流」(currents of craving)。",
     "渴愛思潮": "「愛行」，南傳作「渴愛思潮」(taṇhāvicaritāni，另譯為「渴愛伺察；愛伺」)，菩提比丘長老英譯為「渴愛之流」(currents of craving)。",
     "渴愛之流": "「愛行」，南傳作「渴愛思潮」(taṇhāvicaritāni，另譯為「渴愛伺察；愛伺」)，菩提比丘長老英譯為「渴愛之流」(currents of craving)。",
-	    "EmptyForOldIE": ""
+    "div1070": "「得無所畏；成就無畏(DA)」，南傳作「達無畏」(vesārajjappatto，另譯為「得自信」)，菩提比丘長老英譯為「已獲得自信」(attained self-confidence)。",
+    "達無畏": "「得無所畏；成就無畏(DA)」，南傳作「達無畏」(vesārajjappatto，另譯為「得自信」)，菩提比丘長老英譯為「已獲得自信」(attained self-confidence)。",
+		    "EmptyForOldIE": ""
 };
