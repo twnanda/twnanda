@@ -3,7 +3,7 @@
 ====================================
 
 :date: 2019-02-06
-:modified: 2021-02-12
+:modified: 2021-02-13
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, Nanda 編譯
 :tags: 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛法, 佛陀說的法, 瓦爾朴拉羅睺羅, 鄭於中
 :category: 解脫之道
@@ -67,7 +67,7 @@ Nanda 編譯
 
    * - `附錄  本書常見佛學名詞淺釋 <{filename}what-the-Buddha-taught-appendix-term%zh.rst>`__
      - `張澄基序 <{filename}what-the-Buddha-taught-foreword-chang-cj%zh.rst>`__ （慧炬出版社）
-     - 整部： `HTML <{filename}what-the-Buddha-taught-full%zh.rst>`__ (2021-02-12)
+     - 整部： `HTML <{filename}what-the-Buddha-taught-full%zh.rst>`__ (2021-02-13)
 
 ※※※ 建議初機學佛的讀者們：首先閱讀 `第一章 <{filename}what-the-Buddha-taught-chap1%zh.rst>`__ ，接著閱讀 `第五 <{filename}what-the-Buddha-taught-chap5%zh.rst>`__ 、 `七 <{filename}what-the-Buddha-taught-chap7%zh.rst>`__ 、 `八章 <{filename}what-the-Buddha-taught-chap8%zh.rst>`__ ；當基本概念較清楚與鮮明時，再回過頭來讀 `第二 <{filename}what-the-Buddha-taught-chap2%zh.rst>`__ 、 `三 <{filename}what-the-Buddha-taught-chap3%zh.rst>`__ 、 `四 <{filename}what-the-Buddha-taught-chap4%zh.rst>`__ 、 `六章 <{filename}what-the-Buddha-taught-chap6%zh.rst>`__ 。 〔取材自：原作者之 `前言 <{filename}what-the-Buddha-taught-preface%zh.rst>`__ （自序）〕
 

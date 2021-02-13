@@ -3,7 +3,7 @@
 ============================
 
 :date: 2019-02-06
-:modified: 2019-02-08
+:modified: 2021-02-13
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著,  Nanda 編譯
 :tags: 佛的教誡與今日世界, 佛的教誡, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
@@ -667,6 +667,7 @@
 .. [註8-a2] `第五章  第四聖諦：道諦 <{filename}what-the-Buddha-taught-chap5%zh.rst>`__ 中之 **正命**
 
 ..
+  02-13 add some term 名相 on notes.js
   2021-02-08 完成補充註釋中之經論出處
   2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
   2019-02-06; finished 2019-02-05
