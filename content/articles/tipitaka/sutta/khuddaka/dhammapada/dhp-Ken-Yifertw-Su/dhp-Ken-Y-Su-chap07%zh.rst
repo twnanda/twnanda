@@ -3,7 +3,7 @@
 ====================================================================================================
 
 :date: 2021-01-24
-:modified: 2021-02-11
+:modified: 2021-02-16
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 第七：阿羅漢品（《法句經》, Dhammapada, Arahantavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
@@ -489,13 +489,13 @@ Dhp. 097
 
     1. 「assaddho」，「a 無 - (s) - saddho 信的」(形容詞，單數)。各家對此字的詮釋顯示一些困擾，諾曼 KR Norman 解釋為「無欲 without desire」，那羅陀 Nārada 解釋為「不盲信 not credulous, without blind trust」。
 
-    2. 「akataññū」(形容詞，單數)，「akata-ññū」為「knowing 了知(動名詞) - akata」，各家對此字也有不同解釋，如作「涅槃」解釋，或作「未被作、無可被作」解釋。
+    2. 「akataññū」(形容詞，單數)，「akata-ññū」為「knowing 了知(動名詞) - akata」，各家對「akata」此字也有不同解釋，如作「涅槃」解釋，或作「未被作、無可被作」解釋。
 
     3. 「sandhicchedo」(形容詞，單數)，「sandhi 連結 - cchedo 切斷」，意指「不再有連結輪迴的」。
 
     4. 「hatāvakāso」(形容詞，單數)，「hata 斬斷 - avakāso 機會」，意指「不再有(後有)機會的」。
 
-    5. 「vantāso」(形容詞，單數)，「vanta 捨棄 - aāso 期盼」(形容詞，單數)，意指「(對未來)不再有期盼的」。那羅陀 Nārada 解釋為「吐出所有期望 who has vomitted all desires」，諾曼 KR Norman 將「hatāvakāso vantāso」解釋為「捨棄食人遺唾的欲望 abandoned desire as an eater of vomit」。
+    5. 「vantāso」(形容詞，單數)，「vanta 捨棄 - āso 期盼」(形容詞，單數)，意指「(對未來)不再有期盼的」。那羅陀 Nārada 解釋為「吐出所有期望 who has vomitted all desires」，諾曼 KR Norman 將「hatāvakāso vantāso」解釋為「捨棄食人遺唾的欲望 abandoned desire as an eater of vomit」。
 
 -----
 
@@ -709,6 +709,7 @@ https://www.facebook.com/groups/491306231038114/permalink/1757008597801198/
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  02-16 proofread by the author-- Ken Su
   02-11 proofread by the author-- Ken Su
   02-11 finish editing
   2021-01-24 create rst
