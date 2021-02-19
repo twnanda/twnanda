@@ -2,7 +2,7 @@ Dīghanikāya 巴利大藏經 經藏 長部 (The Long Discourses)
 #######################################################
 
 :date: 2003-07-13
-:modified: 2017-12-30
+:modified: 2021-02-19
 :tags: Dīghanikāya, 巴利三藏長部, Dialogues of the Buddha, The "Long" Discourses
 :category: 巴利三藏長部
 :summary: Dīghanikāya 長部
@@ -581,6 +581,8 @@ mahāvagga 大品
       * `人本欲生經 <http://tripitaka.cbeta.org/T01n0014_001>`__ ；後漢安息三藏安世高譯．大正藏．第 1 冊． No. 14．佛說人本欲生經．[0241c23] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 14, p. 241, c23)
 
       * 梵Mahāvadāna-s. (Waldschmidt 1953.)
+
+  * 《大因緣經注》(Mahānidānasuttavaṇṇanā)：巴漢校譯與導論； 莊博蕙 譯著， 菩提長老 (Ven. Bhikkhu Bodhi Thera) 前言；香光書鄉出版社發行，CE 2020.12 [10]_
 
   * 英譯(English)：
 
@@ -1316,7 +1318,75 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
         
 .. [9] 部份經典選譯，請參考： `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ → `e-Tipitaka <http://www.mahindaramatemple.com/e-tipitaka/e-tipitaka.htm>`__ → `Suttanta Pitaka <http://www.mahindaramatemple.com/e-tipitaka/suttanta.htm>`__ → `1. Digha Nikaya-- Collection of Long Discourses of the Buddha <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/digha-nikaya.htm>`__ .  
 
+.. [10] 這是一本由巴利語直譯《大因緣經》為漢語文，並作其註解的巴漢校譯與導論書，由莊博蕙譯著， `香光尼僧團 <http://www.gaya.org.tw/>`__ ， `香光書鄉 <http://www.gaya.org.tw/publisher/>`__ 出版社發行， `法行叢書 <http://www.gaya.org.tw/publisher/fashin/fashinindex.htm>`__ 2，全書16開，共432頁。
+
+        《大因緣經》（巴利文：Mahānidānasutta），是南傳上座部佛教《巴利語藏經•長部》中的第十五經。本經是佛陀在古盧國(Kuru)的甘馬薩曇馬城時，對阿難講述：九支緣起法、四種施設我的邪見和四種不施設我的正見、三種受（樂受、苦受、不苦不樂受，實是無常、有為、緣起之法、滅盡之法、敗壞之法、離欲之法、滅法；）、七種識住、八種解脫。是一本認識緣起的重要經典。
+
+        本書由菩提長老（Ven. Bhikkhu Bodhi）前言、悟因長老尼作序，全書的目次如下：
+
+        * 【導論】
+
+          - 前言
+          - I、《注》釋「說法因緣」中所呈現的上座部聲聞菩薩道思想
+
+            * 一、上座部願欲成佛的菩薩教義思想簡介
+            * 二、阿難本生善意王子的故事所呈現的聲聞菩薩道思想
+
+              - (一) 效仿佛陀
+              - (二) 聲聞波羅蜜的內涵
+              - (三) 佛陀之超勝
+            * 三、上座部三乘究竟解脫的教義
+            * 四、結語
+
+          - II、《經》說與《注》釋中的緣起
+
+            * 一、「此緣」、「緣法」、「緣生法」、「此緣性」的涵義
+            * 二、《大因緣經注》釋緣起
+
+          - III、本《經》緣起九支說的特色
+
+            * 一、主序列與次序列簡介
+            * 二、於愛支下開展的次序列
+            * 三、別樹一格的主序列
+
+          - IV、名言、名言道與「自我」的安立與滅除
+
+            * 一、名言道的四方面
+            * 二、賦予自我涵義（一）：「施設自我」
+            * 三、賦予自我涵義（二）：「認定自我」
+            * 四、《大因緣經》約受破除「認定自我」
+            * 五、「我是此」（ayam aham asmi）與「我是」（aham asmi）的差別
+
+          - V、上座部所主張的兩類阿羅漢
+
+            * 一、五種慧解脫阿羅漢
+            * 二、五種俱解脫阿羅漢
+
+        * 【Mahānidānasuttaṃ 大因緣經】
+
+          - 說法因緣
+          - 緣起九支說
+          - 施設自我
+          - 無施設自我
+          - 認定自我
+          - 七識住、二處及慧解脫阿羅漢
+          - 八解脫及俱解脫阿羅
+
+        * 【Mahānidānasuttavaṇṇanā 大因緣經注】
+
+          - I、[本經說法]因緣注
+          - II、緣起注
+          - III、施設自我注
+          - IV、無施設自我注
+          - V、認定自我注
+          - VI、七識住[及二處]注
+          - VII、八解脫注
+
+        * 參考書目
+
 ..
+  2021-02-19 add: 大因緣經注  http://www.studentbook.com.tw/goods.php?id=4576
+  ------
   12.30 add: 國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」:雜阿含經 、中阿含經 、增壹阿含經；CBETA:雜阿含經 （ 50 卷本 ，劉宋　求那跋陀羅　譯）、別譯雜阿含經 （失譯，16 卷本）、雜阿含經 （失譯， 單卷本 ）、中阿含經 （東晉　瞿曇 僧伽提婆　譯，共 60 卷）、增壹阿含經 （東晉　瞿曇 僧伽提婆　譯，共 51 卷）、長阿含經 （後秦　佛陀耶舍　共　竺佛念　譯，共 22 卷）; 台語與佛典: 中阿含讀書會 、增支部尼柯耶讀書會、增一阿含讀書會
   07.23 add: 《長部》與《長阿含經》對照表 & 《長阿含經》與《長部》對照表( 【法雨道場】 ) 、 長阿含經 (國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」) 、 “藏經閣外的掃葉人”網誌-- 【 台語與佛典 】 漢巴對照讀書會 ( 具有「漢巴對照讀書會」標籤的文章)、 and so on
   04.02 add: 長部經典．經文說明(通妙譯，元亨寺)
