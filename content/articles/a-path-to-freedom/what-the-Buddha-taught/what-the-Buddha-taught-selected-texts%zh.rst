@@ -36,7 +36,7 @@
 
 ------
 
-- `佛典選譯（無註解版．唱誦用） <what-the-Buddha-taught-selected-texts-chant%zh.rst>`__
+- `佛典選譯（無註解版．唱誦用） <{filename}what-the-Buddha-taught-selected-texts-chant%zh.rst>`__
 
 ------
 
