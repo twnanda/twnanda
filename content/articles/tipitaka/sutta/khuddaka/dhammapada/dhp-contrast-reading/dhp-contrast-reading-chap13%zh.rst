@@ -3,7 +3,7 @@
 ===============================================================================
 
 :date: 2016-06-04 15:00
-:modified: 2018-08-19
+:modified: 2021-02-24
 :tags: 法句經, 法句經對讀, 世品, 世間品, Dhp, Dhammapada, Lokavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The World
@@ -367,7 +367,7 @@
        | Yattha bālā visīdanti, natthi saṅgo vijānataṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一七一　來看言個世界，猶如莊嚴王車。愚人沈湎此中，智者毫無執著。 [MettFn13-04]_
+     - 一七一　來看這個世界，猶如莊嚴王車。愚人沈湎此中，智者毫無執著。 [MettFn13-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 171 你們來看這個世界，像莊嚴的皇家馬車；
@@ -1222,5 +1222,6 @@
 
 
 ..
-   2018-08-19 post, 08-10 add: 周金言 譯《法句經故事集》(from rst)
-   2016.04.17 created from rst
+  2021-02-24 rev. correct typo of at Dhp. 171 of 了參法師
+  2018-08-19 post, 08-10 add: 周金言 譯《法句經故事集》(from rst)
+  2016.04.17 created from rst

@@ -3,7 +3,7 @@
 =======================================================================
 
 :date: 2016-06-04 16:00
-:modified: 2018-08-19
+:modified: 2021-02-24
 :tags: 法句經, 法句經對讀, 樂品, Dhp, Dhammapada, Sukhavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Happiness
@@ -1322,7 +1322,7 @@
 
 .. [NandFn15-02] 〔Nanda 校註15-02〕 請參《法句經故事集》，十五～五、 `佛陀和一位飢餓的人 <{filename}../dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp-203>`__ (偈 203)。
 
-.. [NandFn15-03] 〔Nanda 校註15-03〕 請參《法句經故事集》，十五～七、尊敬佛陀的方法 <{filename}../dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp-205>`__ (偈 205)。
+.. [NandFn15-03] 〔Nanda 校註15-03〕 請參《法句經故事集》，十五～七、 `尊敬佛陀的方法 <{filename}../dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp-205>`__ (偈 205)。
 
 ---------------------------
 
@@ -1332,5 +1332,6 @@
 
 
 ..
-   2018-08-19 post, 08-15 add: 周金言 譯《法句經故事集》(from rst); rev. old: 憎怨中無僧。於僧怨人中，我等無憎住。
-   2016.04.17 created from rst  
+  2021-02-24 rev. correct typo (linking of 尊敬佛陀的方法)
+  2018-08-19 post, 08-15 add: 周金言 譯《法句經故事集》(from rst); rev. old: 憎怨中無僧。於僧怨人中，我等無憎住。
+  2016.04.17 created from rst  

@@ -3,7 +3,7 @@
 ========================================================================================
 
 :date: 2016-06-04 16:30
-:modified: 2018-08-19
+:modified: 2021-02-24
 :tags: 法句經, 法句經對讀, 法住品, 住於法品, Dhp, Dhammapada, Dhammaṭṭhavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Just
@@ -936,7 +936,7 @@
        | Saṅkhāya loke carati, sa ve ‘‘bhikkhū’’ti vuccati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二六七　僅捨善與惡，修於梵行者，以知住此世，彼實名比丘。 [LChnFn19-10]_ 、 [MettFn19-07] 、 [NandFn19-04]_
+     - 二六七　僅捨善與惡，修於梵行者，以知住此世，彼實名比丘。 [LChnFn19-10]_ 、 [MettFn19-07]_ 、 [NandFn19-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 267 若人於此教法中，已捨善惡具梵行、
@@ -1666,5 +1666,6 @@
 
 
 ..
-   2018-08-19 post, 08-16 add: 周金言 譯《法句經故事集》(from rst)
-   2016.04.17 created from rst
+  2021-02-24 rev. correct typo 
+  2018-08-19 post, 08-16 add: 周金言 譯《法句經故事集》(from rst)
+  2016.04.17 created from rst

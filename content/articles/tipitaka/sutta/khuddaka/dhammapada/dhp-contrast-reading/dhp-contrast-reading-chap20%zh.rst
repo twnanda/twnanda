@@ -3,7 +3,7 @@
 =======================================================================
 
 :date: 2016-06-04 17:00
-:modified: 2018-08-19
+:modified: 2021-02-24
 :tags: 法句經, 法句經對讀, 道品, Dhp, Dhammapada, Maggavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Path
@@ -1559,7 +1559,7 @@
 
 .. [MettFn20-03] 〔明法尊者註20-03〕 佛陀跟眾多比丘人間遊行之後，又回到舍衛城，眾多比丘回來之後都在討論沿途山勢、路況。佛陀觀察他們證得阿羅漢果的時機成熟。佛陀說︰「諸比丘！你們所談論是外在的道路，名為比丘的應該關注聖道的生起，這樣的話，才能從一切苦解脫出來。」接著佛陀說出此偈(偈 273~276)。
 
-                  PS: 請參《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp->`__ ，二十～一、解脫之道 (偈 273~276)。
+                  PS: 請參《法句經故事集》，二十～一、 `解脫之道 <{filename}../dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-273>`__  (偈 273~276)。
 
 .. [MettFn20-04] 〔明法尊者註20-04〕 **一切行無常** ：即一切有為法無常。但不包括概念法與無為法(涅槃)，概念法與無為法都不是無常或苦。
 
@@ -1751,5 +1751,6 @@
 
 
 ..
+  2021-02-24 rev. correct typo
    2018-08-19 post, 08-17 add: 周金言 譯《法句經故事集》(from rst)
    2016.04.17 created from rst

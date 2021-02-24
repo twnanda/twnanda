@@ -3,7 +3,7 @@
 =========================================================================
 
 :date: 2016-02-11 11:30
-:modified: 2021-02-09
+:modified: 2021-02-24
 :tags: 法句經, 法句經對讀, 不放逸品, Dhp, Dhammapada, Appamādavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Heedfulness
@@ -1180,7 +1180,7 @@
 
 .. [MettFn02-04] 〔明法尊者註02-04〕 **淨行** ：DhA： **Sucikammassā** ti niddosehi niraparādhehi kāyakammādīhi samannāgatassa.(**淨業**： 已被無為難的、無違犯的身業等俱行。)
 
-.. [MettFn02-05] 〔明法尊者註02-05〕** 不為洪水沒**：智者以法與律作為依止，不為煩惱(喻作：洪水)所淹沒。DhA：「洪水為四種污染(catubbidhopi kilesogho)」。四洪水(cattāro oghā)就是四漏(四流向, 4 āsavā<(ā向﹑從…+ **su** (梵 **sru** )流動))。
+.. [MettFn02-05] 〔明法尊者註02-05〕 **不為洪水沒** ：智者以法與律作為依止，不為煩惱(喻作：洪水)所淹沒。DhA：「洪水為四種污染(catubbidhopi kilesogho)」。四洪水(cattāro oghā)就是四漏(四流向, 4 āsavā<(ā向﹑從…+ **su** (梵 **sru** )流動))。
 
 .. [MettFn02-06] 〔明法尊者註02-06〕　有一天，名醫耆婆(Jīvako)邀請佛陀和眾多比丘到他家接受供養，但是周利槃特(Cūḷapanthako)除外。周利槃特十分沮喪。佛陀明白他的心意後，就給他一塊布，要他一邊搓揉布塊，一邊複誦「去除污垢，去除污垢。」(‘rajoharaṇaṁ rajoharaṇan’ti)佛陀離開後，周利槃特努力搓揉布塊，並複誦「去除污垢」，不久，布變髒了，這時候他了解到無常。佛陀就以神通力出現在他的面前，說：「不只是布因污垢而變髒，人心也有污垢，去除污垢，才能證果。」他繼續用功，不久就證得阿羅漢果。
 
@@ -1469,6 +1469,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2021-02-24 rev. correct typo
   2021-02-09 add: 白話文版 2021
   2018-08-19 post, 08-03 add: 周金言 譯《法句經故事集》(from rst)
   2016.02.11 created from rst

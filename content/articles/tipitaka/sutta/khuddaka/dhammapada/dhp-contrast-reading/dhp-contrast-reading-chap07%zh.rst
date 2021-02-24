@@ -3,7 +3,7 @@
 ===========================================================================
 
 :date: 2016-06-03 21:30
-:modified: 2021-02-11
+:modified: 2021-02-24
 :tags: 法句經, 法句經對讀, 阿羅漢品, Dhp, Dhammapada, Arahantavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Arahat
@@ -978,7 +978,7 @@
 
 .. [LChnFn07-10] 〔註07-10〕  「因陀揭羅」（Indakhila）各譯本多作「門限」，謂大門中間安一堅固的石頭，作為閉門時安放門橛之用的。又一說inda＋khila梵文為indrakila，即因陀羅（帝釋）的柱子––那是在進城的地方，所安立一大而堅固的柱子，象徵因陀羅（印度的守護神）知所在。當即古譯的「堅固幢」或「帝釋七幢」。又古譯作「臺座」。 
 
-.. [LChnFn07-11] 〔註07-11〕  「無信」（Assaddho）或譯為「不信」，這是說聖者又自證知，悟不由他之意。
+.. [LChnFn07-11] 〔註07-11〕  「無信」（Assaddho）或譯為「不信」，這是說聖者有自證知，悟不由他之意。
 
 .. [LChnFn07-12] 〔註07-12〕  生死輪迴。
 
@@ -1168,6 +1168,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  02-24 rev. old:這是說聖者有自證知，悟不由他之意。
   2021-02-11 add: 白話文版 2021
   2018-08-19 post, 08-05 add: 周金言 譯《法句經故事集》(from rst)
   2016.06.03 created from rst

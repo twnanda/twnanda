@@ -3,7 +3,7 @@
 ===============================================================================
 
 :date: 2016-06-03 22:00
-:modified: 2018-08-19
+:modified: 2021-02-24
 :tags: 法句經, 法句經對讀, 刀杖品, 刑罰品, Dhp, Dhammapada, Daṇḍavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Violence
@@ -1745,5 +1745,7 @@
 
 
 ..
+  2021-02-24 rev. correct typo
+   2021-02-21 repair python make
    2018-08-19 post, 08-08 add: 周金言 譯《法句經故事集》(from rst)
    2016.06.03 created from rst

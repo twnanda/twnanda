@@ -3,7 +3,7 @@
 ===================================================
 
 :date: 2016-10-09 16:30
-:modified: 2018-08-28
+:modified: 2021-02-24
 :tags: 法句經, 法句經對讀, 雙品, Dhp, Dhammapada, Yamakavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Pairs
@@ -14805,7 +14805,7 @@
        | Yattha bālā visīdanti, natthi saṅgo vijānataṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一七一　來看言個世界，猶如莊嚴王車。愚人沈湎此中，智者毫無執著。 [MettFn13-04]_
+     - 一七一　來看這個世界，猶如莊嚴王車。愚人沈湎此中，智者毫無執著。 [MettFn13-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 171 你們來看這個世界，像莊嚴的皇家馬車；
@@ -23025,7 +23025,7 @@
        | Saṅkhāya loke carati, sa ve ‘‘bhikkhū’’ti vuccati.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 二六七　僅捨善與惡，修於梵行者，以知住此世，彼實名比丘。 [LChnFn19-10]_ 、 [MettFn19-07] 、 [NandFn19-04]_
+     - 二六七　僅捨善與惡，修於梵行者，以知住此世，彼實名比丘。 [LChnFn19-10]_ 、 [MettFn19-07]_ 、 [NandFn19-04]_
 
    * - 漢譯( **敬法 法師** 譯, 白話文版) [4]_
      - | 267 若人於此教法中，已捨善惡具梵行、
@@ -37537,7 +37537,7 @@
 
 .. [LChnFn07-10] 〔註07-10〕  「因陀揭羅」（Indakhila）各譯本多作「門限」，謂大門中間安一堅固的石頭，作為閉門時安放門橛之用的。又一說inda＋khila梵文為indrakila，即因陀羅（帝釋）的柱子––那是在進城的地方，所安立一大而堅固的柱子，象徵因陀羅（印度的守護神）知所在。當即古譯的「堅固幢」或「帝釋七幢」。又古譯作「臺座」。 
 
-.. [LChnFn07-11] 〔註07-11〕  「無信」（Assaddho）或譯為「不信」，這是說聖者又自證知，悟不由他之意。
+.. [LChnFn07-11] 〔註07-11〕  「無信」（Assaddho）或譯為「不信」，這是說聖者有自證知，悟不由他之意。
 
 .. [LChnFn07-12] 〔註07-12〕  生死輪迴。
 
@@ -39098,17 +39098,17 @@
 
 **校註：**
 
-.. [NandFn12-01] 〔Nanda 校註12-01〕 請參《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～二、貪婪的比丘 (偈 158)。
+.. [NandFn12-01] 〔Nanda 校註12-01〕 請參《法句經故事集》，十二～二、 `貪婪的比丘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp-158>`__ (偈 158)。
 
-.. [NandFn12-02] 〔Nanda 校註12-02〕 請參 159 典故－－ `柏達尼格笛撒尊者的故事 <{filename}../dhp-story/dhp-story159%zh.rst>`__ ；或《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～三、不奉行佛法的弘法比丘 (偈 159)。
+.. [NandFn12-02] 〔Nanda 校註12-02〕 請參 159 典故－－ `柏達尼格笛撒尊者的故事  <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story159%zh.rst>`__ ；或《法句經故事集》，十二～三、 `不奉行佛法的弘法比丘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp-159>`__ (偈 159)。
 
-.. [NandFn12-03] 〔Nanda 校註12-03〕 請參《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～四、比丘尼的兒子 (偈 160)。
+.. [NandFn12-03] 〔Nanda 校註12-03〕 請參《法句經故事集》，十二～四、 `比丘尼的兒子 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp-160>`__ (偈 160)。
 
-.. [NandFn12-04] 〔Nanda 校註12-04〕 請參《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～六、提婆達多的故事 (偈 162)。
+.. [NandFn12-04] 〔Nanda 校註12-04〕 請參《法句經故事集》，十二～六、 `提婆達多的故事 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp-162>`__ (偈 162)。
 
-.. [NandFn12-05] 〔Nanda 校註12-05〕 請參 164 典故－－ `惡慧邪見的黑比丘 <{filename}../dhp-story/dhp-story164%zh.rst>`__ ；或《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～八、嫉妒的比丘 (偈 164)。
+.. [NandFn12-05] 〔Nanda 校註12-05〕 請參 164 典故－－ `惡慧邪見的黑比丘 <{filename}../dhp-story/dhp-story164%zh.rst>`__ ；或《法句經故事集》，十二～八、 `嫉妒的比丘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp-164>`__ (偈 164)。
 
-.. [NandFn12-06] 〔Nanda 校註12-06〕 請參《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～九、受妓女保護的信徒 (偈 165)。
+.. [NandFn12-06] 〔Nanda 校註12-06〕 請參《法句經故事集》，十二～九、 `受妓女保護的信徒 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp-165>`__ (偈 165)。
 
 
 .. [LChnFn13-01] 〔註13-01〕  錫蘭註釋家說是輪迴。
@@ -42438,3 +42438,8 @@
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
+..
+  2021-02-24 rev. correct typo
+  2018-08-28 re-merge for adding 《法句經故事集》
+  2016-10-09 16:30 create rst
+  2016-04-17 add subdirectories (on github html)

@@ -3,7 +3,7 @@
 ================================================================================
 
 :date: 2016-06-04 18:00
-:modified: 2018-08-19
+:modified: 2021-02-24
 :tags: 法句經, 法句經對讀, 婆羅門品, Dhp, Dhammapada, Brāhmaṇavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Holy Man
@@ -3197,7 +3197,7 @@
 
 .. [MettFn26-38] 〔明法尊者註26-38〕 住王舍城的婆耆舍婆羅門，他只要摸死人的骨骸，就能判斷該人究竟往 生何處。有一次，他同一夥人到精舍去見佛陀，佛陀知道來意之後，吩咐一比丘準備往生地獄、畜生、人間、天界的四付骨骸，同時也準備了一位阿羅漢的骨頭。婆耆舍正確判斷前四付骨頭的主人往生處，但最後一付骨頭卻難倒他。佛陀便說：「婆耆舍！怎麼了，不知道了吧！」婆耆舍請求佛陀教導他。佛陀建議他先出家，才教導他。婆耆舍成為比丘後，佛陀教他觀想三十二種身體成分。他遵照指示，努力禪修，不久之後，就證得阿羅漢果。  (Dhp. 419 cp. Dhp. 385) (=Sn.643);  (Dhp. 420 cp. Dhp. 385) (=Sn.644)
 
-                  PS: 請參《法句經故事集》，三十七、 `摸骨專家婆耆舍 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-419>`__  (偈 419~420)。
+                  PS: 請參《法句經故事集》，二十六～三十七、 `摸骨專家婆耆舍 <{filename}../dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-419>`__  (偈 419~420)。
 
 .. [MettFn26-39] 〔明法尊者註26-39〕 **前.後與中間** ：Yassa pure ca pacchā ca, majjhe ca，即過去、未來、現在。DhA： **pure**\ti atītesu khandhesu. **Pacchā**\ti anāgatesu khandhesu. **Majjhe**\ti paccuppannesu khandhesu. ( **在以前** ：在已過去的諸蘊。 **在未來** ：在未來的諸蘊。 **在中間** ：在現在的諸蘊。)
 
@@ -3664,5 +3664,6 @@
 
 
 ..
+  2021-02-24 rev. correct typo
    2018-08-19 add & post: 周金言 譯《法句經故事集》(from rst)
    2016.04.17 created from rst

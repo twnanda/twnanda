@@ -3,7 +3,7 @@
 ==============================================================================
 
 :date: 2016-04-17
-:modified: 2018-08-19
+:modified: 2021-02-24
 :tags: 法句經, 法句經對讀, 自己品, 自品, Dhp, Dhammapada, Attavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Self
@@ -979,17 +979,17 @@
 
 **校註：**
 
-.. [NandFn12-01] 〔Nanda 校註12-01〕 請參《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～二、貪婪的比丘 (偈 158)。
+.. [NandFn12-01] 〔Nanda 校註12-01〕 請參《法句經故事集》，十二～二、 `貪婪的比丘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp-158>`__ (偈 158)。
 
-.. [NandFn12-02] 〔Nanda 校註12-02〕 請參 159 典故－－ `柏達尼格笛撒尊者的故事 <{filename}../dhp-story/dhp-story159%zh.rst>`__ ；或《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～三、不奉行佛法的弘法比丘 (偈 159)。
+.. [NandFn12-02] 〔Nanda 校註12-02〕 請參 159 典故－－ `柏達尼格笛撒尊者的故事 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story159%zh.rst>`__ ；或《法句經故事集》，十二～三、 `不奉行佛法的弘法比丘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp-159>`__ (偈 159)。
 
-.. [NandFn12-03] 〔Nanda 校註12-03〕 請參《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～四、比丘尼的兒子 (偈 160)。
+.. [NandFn12-03] 〔Nanda 校註12-03〕 請參《法句經故事集》，十二～四、 `比丘尼的兒子 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp-160>`__ (偈 160)。
 
-.. [NandFn12-04] 〔Nanda 校註12-04〕 請參《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～六、提婆達多的故事 (偈 162)。
+.. [NandFn12-04] 〔Nanda 校註12-04〕 請參《法句經故事集》，十二～六、 `提婆達多的故事 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp-162>`__ (偈 162)。
 
-.. [NandFn12-05] 〔Nanda 校註12-05〕 請參 164 典故－－ `惡慧邪見的黑比丘 <{filename}../dhp-story/dhp-story164%zh.rst>`__ ；或《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～八、嫉妒的比丘 (偈 164)。
+.. [NandFn12-05] 〔Nanda 校註12-05〕 請參 164 典故－－ `惡慧邪見的黑比丘 <{filename}../dhp-story/dhp-story164%zh.rst>`__ ；或《法句經故事集》，十二～八、 `嫉妒的比丘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp-164>`__ (偈 164)。
 
-.. [NandFn12-06] 〔Nanda 校註12-06〕 請參《法句經故事集》 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__  ，十二～九、受妓女保護的信徒 (偈 165)。
+.. [NandFn12-06] 〔Nanda 校註12-06〕 請參《法句經故事集》，十二～九、 `受妓女保護的信徒 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp-165>`__ (偈 165)。
 
 ---------------------------
 
@@ -999,5 +999,6 @@
 
 
 ..
+   2021-02-24 rev. correct some linkings of 《法句經故事集》，十二～二, ..., Nanda 校註
    2018-08-19 post, 08-10 add: 周金言 譯《法句經故事集》(from rst)
    2016.04.17 created from rst
