@@ -63,7 +63,7 @@ Nanda 編譯
 
    * - `第七章  修習：心智的培育 <{filename}what-the-Buddha-taught-chap7%zh.rst>`__
      - `第八章  佛的教誡與今日世界 <{filename}what-the-Buddha-taught-chap8%zh.rst>`__
-     - `佛典選譯 <{filename}what-the-Buddha-taught-selected-texts-simple-fn%zh.rst>`__
+     - `佛典選譯 <{filename}what-the-Buddha-taught-selected-texts%zh.rst>`__
 
    * - `附錄  本書常見佛學名詞淺釋 <{filename}what-the-Buddha-taught-appendix-term%zh.rst>`__
      - `張澄基序 <{filename}what-the-Buddha-taught-foreword-chang-cj%zh.rst>`__ （慧炬出版社）
@@ -304,7 +304,7 @@ Nanda 編譯
 - 賴明亮教授(1949-02-28 ~ 2019-01-25)， `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休（ `榮退典禮 <https://www.youtube.com/watch?v=57-zS_E6660>`_ , 2014-06-20）； 賴明亮 教授追思會 `專輯影片 <https://www.youtube.com/watch?v=iL1utpxa3pw>`_ （2019-02-28）。
 
 ..
-  02-12 add: 整部： HTML (2021-02-12); 02-24 add: Siong-Ui Te
+  02-12 add: 整部： HTML (2021-02-12); 02-24 add: Siong-Ui Te; 佛典選譯（old: 刪除簡易註解版）
   2021-01-25 add: Dr. ML Lai 榮退典禮 影片連結
   2021-01-01 add: Academia.edu; move the link of Dr. Lai to the bottom
   08-28 add: 韓文版

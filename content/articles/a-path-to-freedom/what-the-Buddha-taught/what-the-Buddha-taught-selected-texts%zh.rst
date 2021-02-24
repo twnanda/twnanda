@@ -36,6 +36,10 @@
 
 ------
 
+- `佛典選譯（無註解版．唱誦用） <what-the-Buddha-taught-selected-texts-chant%zh.rst>`__
+
+------
+
 .. _佛典選譯導言:
 
 導言
@@ -2588,7 +2592,7 @@
 .. [mprnbn00] 另請參考 參考資訊_ 中之 大般涅槃經參考資訊_ 。 
 
 ..
-  2021-02-24 add Dhp. selected with details
+  2021-02-24 add Dhp. selected with details; add: 佛典選譯（無註解版．唱誦用）
   2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
   2019-02-06 post
   draft 12-05
