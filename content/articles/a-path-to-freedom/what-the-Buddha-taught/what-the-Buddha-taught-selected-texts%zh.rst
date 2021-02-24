@@ -3,7 +3,7 @@
 ==========
 
 :date: 2019-02-06
-:modified: 2019-02-06
+:modified: 2021-02-24
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著,  Nanda 編譯
 :tags: 佛典選譯, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
@@ -794,102 +794,529 @@
 
 `《法句經》 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp/>`__ （Dhammapada, `小部 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/khuddaka-nikaaya/>`__ ／ 2. 法句(經)，英譯 The Words of Truth, The Buddha's Path of Wisdom, Inward Path, The Word of the Doctrine，《法句經》巴、漢、英文 `多譯本對讀 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading/>`__ ） [dhp00]_ 
 
-第一　雙品 (1. Yamakavaggo; The Pairs; Dhp.1-20)
+`第一　雙品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst>`__  (1. Yamakavaggo; The Pairs; Dhp.1-20)
 
-- `Dhp 1 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst#Dhp001>`__ （第一偈頌）、 `Dhp 2 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst#Dhp002>`__ （第二偈頌）、 `Dhp 3 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst#Dhp003>`__ （第三偈頌）、 `Dhp 5 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst#Dhp005>`__ 
+- Dhp 1 （第一偈頌）
 
-第二　不放逸品 (2. Appamādavaggo; Heedfulness; Dhp.21-32)
+  * 一　諸法意先導 [dhp003]_ ，意主意造作。若以染污意，或語或行業，是則苦隨彼，如輪隨獸足 [dhp004]_ 。（了參 法師 譯，文言文版 [dhp001]_  ）（ `001 典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story001%zh.rst>`__ ）.
 
-- `Dhp 24 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap02%zh.rst#Dhp024>`__ （第二十四偈頌）、 `Dhp 25 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap02%zh.rst#Dhp025>`__ （第二十五偈頌）、 `Dhp 26 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap02%zh.rst#Dhp026>`__ （第二十六偈頌）、 `Dhp 27 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap02%zh.rst#Dhp027>`__ 
+  * 諸法是心所前導的、心所主宰的、心所造的；如果有人以汙染心而言行，罪苦跟隨著他，就像車輪跟隨著拉車者的腳。（蘇錦坤 著，白話文版 2021） [dhp002]_
 
-第三　心品 (3. Cittavaggo; The Mind; Dhp.33-43)
+- Dhp 2 （第二偈頌）
 
-- `Dhp 33 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap03%zh.rst#Dhp033>`__ 、 `Dhp 35 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap03%zh.rst#Dhp035>`__ 、 `Dhp 38 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap03%zh.rst#Dhp038>`__ 、 `Dhp 42 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap03%zh.rst#Dhp042>`__ 、 `Dhp 43 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap03%zh.rst#Dhp043>`__ 
+  * 諸法意先導，意主意造作。若以清淨意，或語或行業，是則樂隨彼，如影不離形。 [dhp001]_ ( `002 典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story002%zh.rst>`__ ).  [dhp005]_ 
+  * 諸法是心所前導的、心所主宰的、心所造的；如果有人以清淨心而言行，幸福快樂跟隨著他，就像永不離開的影子(跟隨著他)。(2) [dhp002]_
 
-第四　華品 (4. Pupphavaggo; 花品; Flower; Dhp.44-59)
+- Dhp 3 （第三偈頌）
 
-- `Dhp 47 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap04%zh.rst#Dhp047>`__ 、 `Dhp 50 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap04%zh.rst#Dhp050>`__ 、 `Dhp 51 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap04%zh.rst#Dhp051>`__ 
+  * 『彼罵我打我，敗我劫奪我』，若人懷此念，怨恨不能息。 [dhp001]_ ( `003-004 典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story003-4%zh.rst>`__ ).
+  * 「他詈罵我，打我、挫敗我、掠奪我」，存有這樣想法的人，怨恨不會消失。(3) [dhp002]_ 
 
-第五　愚品 (5. Bālavaggo; 愚人品; The Fool; Dhp.60-75)
+- Dhp 5 （第三偈頌）
 
-- `Dhp 61 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap05%zh.rst#Dhp061>`__ 、 `Dhp 62 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap05%zh.rst#Dhp062>`__ 、 `Dhp 64 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap05%zh.rst#Dhp064>`__ 、 `Dhp 67 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap05%zh.rst#Dhp067>`__ 、 `Dhp 69 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap05%zh.rst#Dhp069>`__ 
+  * 在於世界中，從非怨止怨，唯以忍止怨；此古（聖常）法 [dhp006]_ 。 [dhp001]_ ( `005 典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story005%zh.rst>`__ ). [dhp007]_ 
+  * 確實，在這世上永遠不能以怨恨令怨恨止息，只有無怨可以止息怨恨，這是自古以來的法則。(5) [dhp002]_
 
-第六　智者品 (6. Paṇḍitavaggo; The Wise Man; Dhp.76-89)
+`第二　不放逸品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap02%zh.rst>`__ (2. Appamādavaggo; Heedfulness; Dhp.21-32)
 
-- `Dhp 81 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap06%zh.rst#Dhp081>`__ 、 `Dhp 82 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap06%zh.rst#Dhp082>`__ 、 `Dhp 85 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap06%zh.rst#Dhp085>`__ 
+- Dhp 24 （第二十四偈頌）
 
-第七　阿羅漢品 (7. Arahantavaggo; The Arahat; Dhp.90-99)
+  * 奮勉常正念，淨行能克己，如法而生活，無逸善名增。 [dhp001]_ 、 [dhp008]_ 
+  * 勤奮的、具念的、行為純淨的、行為審慎的、調御而依法謀生的、不放逸的人，他的名譽大增。(24) [dhp002]_
 
-- `Dhp 90 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap07%zh.rst#Dhp090>`__ 、 `Dhp 94 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap07%zh.rst#Dhp094>`__ 、 `Dhp 96 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap07%zh.rst#Dhp096>`__ 、 `Dhp 97 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap07%zh.rst#Dhp097>`__ 
+- Dhp 25 （第二十五偈頌）
 
-第八　千品 (8. Sahassavaggo; The Thousands; Dhp.100-115)
+  * 奮勉不放逸，克己自調御，智者自作洲 [dhp009]_ ，不為洪水沒。 [dhp010]_ 、 [dhp001]_  ( `025 典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story025%zh.rst>`__ ).
+  * 藉由勤奮、不放逸、節制與調御自己，智者作為自己不被洪水淹沒的島。(25) [dhp002]_
 
-- `Dhp 103 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap08%zh.rst#Dhp103>`__ 、 `Dhp 104/105 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap08%zh.rst#Dhp104>`__ 、 `Dhp 111 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap08%zh.rst#Dhp111>`__ 
+- Dhp 26 （第二十六偈頌）
 
-第九　惡品 (9. Pāpavaggo; Evil; Dhp.116-128)
+  * 暗鈍愚癡人，耽溺於放逸，智者不放逸，如富人護寶。 [dhp001]_ 
+  * 無知的愚人沉溺於放逸，智者保護不放逸如同他最珍貴的財寶。(26) [dhp002]_
 
-- `Dhp 116 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap09%zh.rst#Dhp116>`__ 、 `Dhp 119 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap09%zh.rst#Dhp119>`__ 、 `Dhp 120 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap09%zh.rst#Dhp120>`__ 、 `Dhp 121 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap09%zh.rst#Dhp121>`__ 、 `Dhp 122 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap09%zh.rst#Dhp122>`__ 、 `Dhp 125 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap09%zh.rst#Dhp125>`__ 
 
-第十　刀杖品 (10. Daṇḍavaggo; Violence; Dhp.129-145)
+- Dhp 27 （第二十七偈頌）
 
-- `Dhp 129 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap10%zh.rst#Dhp129>`__ 、 `Dhp 131 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap10%zh.rst#Dhp131>`__ 
+  * 莫耽溺放逸。莫嗜愛欲樂。警覺修定者，始得大安樂。 [dhp011]_ 、 [dhp001]_ 
+  * 不要沉溺於放逸，不要追求五欲歡樂，不放逸的禪修者獲得最大的安樂。(27) [dhp002]_
 
-第十一　老品 (11. Jarāvaggo; Old Age; Dhp.146-156)
+`第三　心品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap03%zh.rst>`__ (3. Cittavaggo; The Mind; Dhp.33-43)
 
-- `Dhp 152 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap11%zh.rst#Dhp152>`__ 、 `Dhp 155 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap11%zh.rst#Dhp155>`__ 
+- Dhp 33
 
-第十二　自己品 (12. Attavaggo; The Self; Dhp.157-166)
+  * 輕動變易心，難護難制服，智者調直之，如匠搦箭直。 [dhp012]_、 [dhp001]_ 
+  * 智者調直顫抖、不穩定、難護、難調御(難禁)的心，像製箭者調直他的箭一樣。(33) [dhp002]_
 
-- `Dhp 159 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap12%zh.rst#Dhp159>`__ 、 `Dhp 160 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap12%zh.rst#Dhp160>`__ 、 `Dhp 165 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap12%zh.rst#Dhp165>`__ 
+- Dhp 35 
 
-第十三　世品 (13. Lokavaggo; 世間品; The World; Dhp.167-178)
+  * 此心隨欲轉，輕躁難捉摸。善哉心調伏，心調得安樂。 [dhp001]_ 
+  * 難以調御、善變、隨欲游移的心，能調御此心極佳，調御此心能帶來快樂幸福。(35) [dhp002]_
 
-- `Dhp 167 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap13%zh.rst#Dhp167>`__ 、 `Dhp 171 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap13%zh.rst#Dhp171>`__ 、 `Dhp 178 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap13%zh.rst#Dhp178>`__ 
+- Dhp 38 
 
-第十四　佛陀品 (14. Buddhavaggo; The Buddha; Dhp.179-196)
+  * 心若不安定，又不了正法，信心不堅者，智慧不成就。 [dhp001]_ 
+  * 心無住息的人、不了解正法的人、信心不堅定的人，他們無法成就圓滿的智慧。(38) [dhp002]_
 
-- `Dhp 183 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap14%zh.rst#Dhp183>`__ 、 `Dhp 184 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap14%zh.rst#Dhp184>`__ 、 `Dhp 185 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap14%zh.rst#Dhp185>`__ 
+- Dhp 42 
 
-第十五　樂品 (15. Sukhavaggo; Happiness; Dhp.197-208)
+  * 仇敵害仇敵，怨家對怨家 [dhp013]_ ，若心向邪行 [dhp014]_ ，惡業最為大。 [dhp001]_ 
+  * 仇敵對仇敵、冤家對冤家所作的事，向於邪惡的心對他所做的(傷害)比那更嚴重。(42) [dhp002]_
 
-- `Dhp 197 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap15%zh.rst#Dhp197>`__ 、 `Dhp 201 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap15%zh.rst#Dhp201>`__ 、 `Dhp 204 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap15%zh.rst#Dhp204>`__ 、 `Dhp 205 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap15%zh.rst#Dhp205>`__ 
+- Dhp 43 
 
-第十六　喜愛品 (16. Piyavaggo; Affection; Dhp.209~220)
+  * （善）非父母作，亦非他眷屬，若心向正行 [dhp015]_ ，善業最為大。 [dhp016]_ 、 [dhp001]_ 
+  * 向於正(行)的心對他所做的(幫助)，不是父母或其他親戚所能(替他)做的(幫助)所能比。(43) [dhp002]_
 
-- `Dhp 215 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap16%zh.rst#Dhp215>`__ 
+`第四　華品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap04%zh.rst>`__ (4. Pupphavaggo; 花品; Flower; Dhp.44-59)
 
-第十七　忿怒品 (17. Kodhavaggo; Anger; Dhp.221-234)
+- Dhp 47
 
-- `Dhp 222 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap17%zh.rst#Dhp222>`__ 、 `Dhp 223 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap17%zh.rst#Dhp223>`__ 、 `Dhp 231 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap17%zh.rst#Dhp231>`__ 、 `Dhp 232 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap17%zh.rst#Dhp232>`__ 、 `Dhp 233 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap17%zh.rst#Dhp233>`__ 、 `Dhp 234 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap17%zh.rst#Dhp234>`__ 
+  * 採集諸花已 [dhp017]_ ，其人心愛著，死神捉將去，如瀑流睡村 [dhp018]_ 。 [dhp001]_ 
+  * 死亡帶走一個心神散亂的人，即使他只是在採摘花朵，就像洪水沖走正在沉睡的村莊一樣。(47) [dhp002]_
 
-第十八　垢穢品 (18. Malavaggo; Impurity; Dhp.235-255)
+- Dhp 50 
 
-- `Dhp 239 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap18%zh.rst#Dhp239>`__ 、 `Dhp 240 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap18%zh.rst#Dhp240>`__ 、 `Dhp 248 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap18%zh.rst#Dhp248>`__ 、 `Dhp 251 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap18%zh.rst#Dhp251>`__ 、 `Dhp 252 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap18%zh.rst#Dhp252>`__ 
+  * 不觀他人過，不觀作不作，但觀自身行，作也與未作。 [dhp019]_ 、 [dhp001]_ 
+  * 不是別人錯誤的行為，不是別人的已做、未做，(一個人)只應觀察自己所行的已做和未做。(50) [dhp002]_
 
-第十九　法住品 (19. Dhammaṭṭhavaggo; The Just; Dhp.256-272)
+- Dhp 51 
 
-- `Dhp 267 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap19%zh.rst#Dhp267>`__ 、 `Dhp 268/269 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap19%zh.rst#Dhp268>`__ 
+  * 猶如鮮妙花，色美而無香，如是說善語，彼不行無果。 [dhp020]_ 、 [dhp001]_ 
+  * 說得動聽而未執行的語言是沒有結果的，就像美麗的花朵色彩繽紛，卻沒有花香。(51) [dhp002]_
 
-第二十　道品 (20. Maggavaggo; The Path; Dhp.273-289)
+`第五　愚品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap05%zh.rst>`__ (5. Bālavaggo; 愚人品; The Fool; Dhp.60-75)
 
-- `Dhp 273 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp273>`__ 、 `Dhp 274 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp274>`__ 、 `Dhp 275 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp275>`__ 、 `Dhp 276 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp276>`__ 、 `Dhp 277 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp277>`__ 、 `Dhp 278 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp278>`__ 、 `Dhp 279 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp279>`__ 、 `Dhp 280 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp280>`__ 、 `Dhp 281 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#Dhp281>`__ 
+- Dhp 61
+
+  * 不得勝我者為友，與我相等者亦無，寧可堅決獨行居，不與愚人作伴侶。 [dhp021]_、 [dhp001]_ 
+  * 如果旅行者找不到比自己優秀或等同自己者同行，他應堅決地獨行，不要和愚人同行。(61) [dhp002]_
+
+- Dhp 62 
+
+  * 『此我子我財』愚人常為憂。我且無有我，何有子與財？ [dhp001]_ ( `062 典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story062%zh.rst>`__ ). [dhp022]_
+  * 愚者常憂慮：「我有子女，我有財富。」我且無有，何況子女財產？(62) [dhp002]_
+
+- Dhp 64 
+
+  * 愚者雖終身，親近於智人，彼不了達摩，如匙嘗湯味。[dhp023]_、 [dhp001]_ 
+  * 假使愚者終身親近、承侍智者，他不知正法，就像湯勺(經常舀湯)而不知味。(64) [dhp002]_
+
+- Dhp 67 
+
+  * 彼作不善業，作已生後悔，哭泣淚滿面，應得受異熟 [dhp024]_ 。 [dhp001]_ 
+  * 所作行為不善，這些行為導致懊悔，它的後果帶來淚流滿面與哭泣。(67) [dhp002]_
+
+- Dhp 69
+
+  * 惡業未成熟，愚人思如蜜；惡業成熟時，愚人必受苦。 [dhp025]_ 、 [dhp001]_ 
+  * 當惡業尚未成熟時，愚者認為所作如蜜一般甜，一旦惡(果)成熟，愚者就承受苦(報)。(69) [dhp002]_
+
+`第六　智者品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap06%zh.rst>`__ (6. Paṇḍitavaggo; The Wise Man; Dhp.76-89)
+
+- Dhp 81
+
+  * 猶如堅固巖，不為風所搖，毀謗與讚譽，智者不為動。 [dhp026]_、 [dhp001]_ 
+  * 就像一塊堅固的岩石不被風吹動一樣，如此，智者也不被毀譽所動。(81) [dhp002]_
+
+- Dhp 82 
+
+  * 亦如一深池，清明而澄淨，智者聞法已，如是心清淨。 [dhp027]_、 [dhp001]_ 
+  * 就像一泓潔淨、清澈的深潭一樣，如此，聽聞了佛法之後，智者變得(更)明淨。(82) [dhp002]_
+
+- Dhp 85 
+
+  * 於此人群中，達彼岸者少 [dhp028]_。其餘諸人等，徘徊於此岸 [dhp029]_ 。 [dhp001]_ 
+  * 只有少數的人到達彼岸，然後，其餘的人都在此岸(生死輪迴)徘徊。(85) [dhp002]_
+
+`第七　阿羅漢品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap07%zh.rst>`__ (7. Arahantavaggo; The Arahat; Dhp.90-99)
+
+- Dhp 90
+
+  * 路行盡無憂 [dhp030]_ ，於一切解脫，斷一切繫縛 [dhp031]_ ，無有苦惱者。 [dhp001]_ 
+  * 已經完成旅程的人、斷離憂愁的人、各方面均已解脫的人，和捨斷所有束縛的人，他不再有苦惱。(90) [dhp002]_
+
+- Dhp 94 
+
+  * 彼諸根寂靜，如御者調馬，離我慢無漏，為天人所慕。 [dhp032]_ 、 [dhp001]_ 
+  * 他的諸根寂靜，如被御者調伏的馬，捨斷我慢、已得漏盡，為天所敬欽羨。(94) [dhp002]_
+
+- Dhp 96 
+
+  * 彼人心寂靜，語與業寂靜，正智而解脫，如是得安穩。 [dhp033]_ 、 [dhp001]_ 
+  * 這樣的依正智而解脫者、寂止者，他的身口意都已寂靜。(96) [dhp002]_
+
+- Dhp 97 
+
+  * 無信知無為 [dhp034]_ ，斷繫因永謝  [dhp035]_ [dhp036]_ ，棄捨於貪欲，真實無上士。 [dhp037]_ 、 [dhp001]_ 
+  * 不盲信、知涅槃，斷除繫縛、斬斷一切未來有的因、斷除一切期望的人，他是至高無上的人。(97) [dhp002]_
+
+`第八　千品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap08%zh.rst>`__ (8. Sahassavaggo; The Thousands; Dhp.100-115)
+
+- Dhp 103
+
+  * 彼於戰場上，雖勝百萬人；未若克己者，戰士之最上！ [dhp001]_  ( `102-3 典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story102-3%zh.rst>`__ ). [dhp038]_
+  * 雖然有人能於戰鬥當中戰勝千萬個敵人，但是能戰勝單個自己的人才算是戰鬥中的最高勝利者。(103) [dhp002]_
+
+- Dhp 104/105 
+
+  * | 一０四 [dhp039]_ 能克制自己，過於勝他人。若有克己者，常行自節制。
+    | 一０五　天神乾闥婆 [dhp040]_ ，魔王並梵天  [dhp041]_ [dhp042]_ ，皆遭於敗北，不能勝彼人。 [dhp043]_ 、 [dhp001]_ 
+  * | 戰勝自己強過戰勝他人，調伏自己的，總是自我調御的。(104)
+    | 不是天，不是犍達婆，不是魔羅和梵天；能戰勝這樣調伏自己的，總是自我調御的人。(104)(105) [dhp002]_
+    | 
+
+- Dhp 111 
+
+  * 若人壽百歲──無慧無三昧，不如生一日──具慧修禪定。 [dhp044]_、 [dhp001]_ 
+  * 如果有人活了一百歲，無智慧、心志也不安定，不如只活了一日，卻有智慧而修禪的人。(111) [dhp002]_
+
+`第九　惡品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap09%zh.rst>`__ (9. Pāpavaggo; Evil; Dhp.116-128)
+
+- Dhp 116
+
+  * 應急速作善，制止罪惡心。怠慢作善者，心則喜於惡。 [dhp045]_、 [dhp001]_ 
+  * 你們應速作善行，你應防止心向惡，懈怠行善的人，他的心喜樂於惡。(116) [dhp002]_
+
+- Dhp 119 
+
+  * 惡業未成熟，惡者以為樂。惡業成熟時，惡者方見惡。 [dhp046]_ 、 [dhp001]_ 
+  * 惡業尚未成熟時，惡人甚至認為是善，當惡業成熟時，他才見到惡報。(119) [dhp002]_
+
+- Dhp 120 
+
+  * 善業未成熟，善人以為苦。善業成熟時，善人始見善。 [dhp046]_ 、 [dhp001]_ 
+  * 善業尚未成熟時，善人或見到是惡，當善業成熟時，他才見到善報。(120) [dhp002]_
+
+- Dhp 121 
+
+  * 莫輕於小惡 [dhp047]_ ！謂『我不招報』，須知滴水落，亦可滿水瓶，愚夫盈其惡，少許少許積。 [dhp048]_ 、 [dhp001]_ 
+  * 你們切勿輕視惡(報)，(認為)它不會報應到我身上，即使以一滴一滴的水滴，也能盈滿水壺，即使以一點一點累積惡，愚人也會惡貫滿盈。(121) [dhp002]_
+
+- Dhp 122
+
+  * 莫輕於小善！謂『我不招報』，須知滴水落，亦可滿水瓶，智者完其善，少許少許積。 [dhp001]_  ( `122 典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story122%zh.rst>`__ ). [dhp049]_
+  * 你們切勿輕視善(報)，(認為)它不會報應到我身上，即使以一滴一滴的水滴，也能盈滿水壺，即使以一點一點累積善，智者也會善業盈滿。(122) [dhp002]_
+
+- Dhp 125 
+
+  * 若犯無邪者，清淨無染者，罪惡向愚人，如逆風揚塵。 [dhp001]_  ( `125 典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story125%zh.rst>`__ ). [dhp050]_
+  * 愚者攻擊無過失的人、值得信賴的、無可責難的人，就像逆風揚塵，惡會回到那個愚者身上。(125) [dhp002]_
+
+`第十　刀杖品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap10%zh.rst>`__ (10. Daṇḍavaggo; Violence; Dhp.129-145)
+
+- Dhp 129
+
+  * 一切懼刀杖，一切皆畏死，以自度（他情），莫殺教他殺。 [dhp051]_ 、 [dhp001]_ 
+  * 每個人都在刀杖處罰前顫抖，每個人都畏懼死亡，設身處地而想，不應傷害他人也不應殺害他人。(129) [dhp002]_
+
+- Dhp 131
+
+  * 於求樂有情，刀杖加惱害，但求自己樂，後世樂難得。 [dhp052]_ 、 [dhp001]_ 
+  * 他以刀杖加害冀求安樂的眾生，這樣的人以此自求安樂，他得不到後世的安樂。(131) [dhp002]_
+
+`第十一　老品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap11%zh.rst>`__ (11. Jarāvaggo; Old Age; Dhp.146-156)
+
+- Dhp 152
+
+  * 寡聞之（愚）人，生長如牡牛，唯增長筋肉，而不增智慧。 [dhp053]_ 、 [dhp001]_ 
+  * 這個少聞之人，如公牛般長大，他的肌肉增長，其智慧不增長。 [dhp-cf]_ 
+
+- Dhp 155 
+
+  * 少壯不得財，並不修梵行，如池邊老鷺，無魚而萎滅。 [dhp054]_ 、 [dhp001]_ 
+  * 少壯時不修梵行，也沒有賺取財富；他們像衰老的鷺，在無魚的池等死。 [dhp-cf]_ 
+
+`第十二　自己品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap12%zh.rst>`__ (12. Attavaggo; The Self; Dhp.157-166)
+
+- Dhp 159
+
+  * 若欲誨他者，應如己所行（自）制乃制（他），克己實最難。 [dhp001]_ ( `159 典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story159%zh.rst>`__ ). [dhp055]_
+  * 正如指導別人那樣，自己也應該那樣做；已調服者才可調人，自己的確很難調服。 [dhp-cf]_ 
+
+- Dhp 160 
+
+  * 自為自依怙 [dhp056]_ ，他人何可依？自己善調御，證難得所依 [dhp057]_ 。 [dhp058]_ 、 [dhp001]_ 
+  * 自己是自己的依歸，他人怎能作為依歸？透過完全調服自己，他得到難得的依歸。 [dhp-cf]_ 
+
+- Dhp 165 
+
+  * 惡實由己作，染污亦由己；由己不作惡，清淨亦由己。淨不淨依己，他何能淨他？ [dhp059]_ 、 [dhp001]_ 
+  * 惡是由自己所造，自己在污染自己，不造惡也由自己，是自己清淨自己。淨與不淨靠自己，無人能清淨他人。 [dhp-cf]_ 
+
+`第十三　世品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap13%zh.rst>`__ (13. Lokavaggo; 世間品; The World; Dhp.167-178)
+
+- Dhp 167
+
+  * 莫從卑劣法。莫住於放逸。莫隨於邪見。莫增長世俗 [dhp060]_ 。 [dhp001]_ ( `167 典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story167%zh.rst>`__ ).  [dhp061]_ 
+  * 莫做卑劣事，莫怠惰過活，莫執持邪見，莫延長世界。 [dhp-cf]_ 
+
+- Dhp 171 
+
+  * 來看言個世界，猶如莊嚴王車。愚人沈湎此中，智者毫無執著。 [dhp062]_ 、 [dhp001]_ 
+  * 你們來看這個世界，像莊嚴的皇家馬車；愚人們沉湎於其中，了知的人沒有執著。 [dhp-cf]_ 
+
+- Dhp 178 
+
+  * 一統大地者，得生天上者，一切世界主，不及預流勝 [dhp063]_ 。 [dhp001]_  ( `178 典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story178%zh.rst>`__ ).  [dhp064]_ 
+  * 比起成為大地唯一統治者，或去天界，或統治整個世界，須陀洹果則是最勝。 [dhp-cf]_ 
+
+`第十四　佛陀品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap14%zh.rst>`__ (14. Buddhavaggo; The Buddha; Dhp.179-196)
+
+- Dhp 183
+
+  * 一切惡莫作，一切善應行，自調淨其意，是則諸佛教。 [dhp001]_  ( `183 研讀 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-study183%zh.rst>`__ ). [dhp065]_
+  * 不造作一切惡，圓滿種種的善，清淨自己的心，這是諸佛所教。 [dhp-cf]_ 
+
+- Dhp 184
+
+  * 諸佛說涅槃最上，忍辱為最高苦行。害他實非出家者，惱他不名為沙門。 [dhp065]_ 、 [dhp001]_ 
+  * 忍辱是最高的磨練，諸佛皆說涅槃至上。傷他人者非出家人，壓迫他人者非沙門。 [dhp-cf]_ 
+
+- Dhp 185
+
+  * 不誹與不害，嚴持於戒律 [dhp066]_ ，飲食知節量，遠處而獨居，勤修增上定 [dhp067]_ ，是為諸佛教。 [dhp065]_ 、 [dhp001]_ 
+  * 莫辱罵莫傷害、依護解脫克制、飲食當知節量、安住於寂靜處、及勤修增上心，這是諸佛所教。 [dhp-cf]_ 
+
+`第十五　樂品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap15%zh.rst>`__ (15. Sukhavaggo; Happiness; Dhp.197-208)
+
+- Dhp 197
+
+  * 我等實樂生 [dhp068]_ ，憎怨中無憎。於憎怨人中，我等無憎住。 [dhp069]_ 、 [dhp001]_ 
+  * 我們的確很安樂過活，在眾怨之中我們無怨；在充滿怨恨的眾人中，我們安住於無怨無恨。 [dhp-cf]_ 
+
+- Dhp 201
+
+  * 勝利生憎怨，敗者住苦惱。勝敗兩俱捨，和靜住安樂。 [dhp070]_ 、 [dhp001]_ 
+  * 勝利會招來怨恨，戰敗者痛苦過活；捨棄了勝敗之後，寂靜者安樂過活。 [dhp-cf]_ 
+
+- Dhp 204 
+
+  * 無病最上利，知足最上財，信賴最上親，涅槃最上樂。 [dhp071]_ 、 [dhp001]_ 
+  * 健康是最大的收獲，知足是最大的財富，可信者是最好親人，涅槃是至上的快樂。 [dhp-cf]_ 
+
+- Dhp 205 
+
+  * 已飲獨居味，以及寂靜味，喜飲於法味，離怖畏去惡。[dhp072]_ 、 [dhp001]_ 
+  * 嚐了獨處味，以及寂靜味，他無苦無惡，得飲法喜味。 [dhp-cf]_ 
+
+`第十六　喜愛品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap16%zh.rst>`__ (16. Piyavaggo; Affection; Dhp.209~220)
+
+- Dhp 215 
+
+  * 從欲樂生憂，從欲樂生怖；離欲樂無憂，何處有恐怖。 [dhp073]_ 、 [dhp001]_ 
+  * 由欲樂引生憂愁，由欲樂引生恐懼。對於解脫欲樂者，既無憂哪來恐懼？ [dhp-cf]_ 
+
+`第十七　忿怒品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap17%zh.rst>`__ (17. Kodhavaggo; Anger; Dhp.221-234)
+
+- Dhp 222
+
+  * 若能抑忿發，如止急行車，是名（善）御者，餘為執韁人 [dhp074]_ 。  [dhp075]_ 、 [dhp001]_ 
+  * 他抑制生起的忿怒，如制止疾行的馬車，我稱此人為調御者，其他人只是執韁人。 [dhp-cf]_ 
+
+- Dhp 223 
+
+  * 以不忿勝忿。以善勝不善。以施勝慳吝。以實勝虛妄。 [dhp076]_ 、 [dhp001]_ 
+  * 以無忿戰勝忿怒者，以善戰勝不善的人，以佈施戰勝吝嗇者，以真實戰勝妄語者。 [dhp-cf]_ 
+
+- Dhp 231 
+
+  * 攝護身忿怒 [dhp077]_ ，調伏於身行。捨離身惡行，以身修善行。 [dhp078]_ 、 [dhp001]_ 
+  * 防止身惡行，善克制己身；捨棄身惡行，培育身善行。 [dhp-cf]_ 
+
+- Dhp 232
+
+  * 攝護語忿怒，調伏於語行。捨離語惡行，以語修善行。 [dhp078]_ 、 [dhp001]_ 
+  * 防止語惡行，善克制己語；捨棄語惡行，培育語善行。 [dhp-cf]_ 
+
+- Dhp 233 
+
+  * 攝護意忿怒，調伏於意行。捨離意惡行，以意修善行。 [dhp078]_ 、 [dhp001]_ 
+  * 防止意惡行，善克制己意；捨棄意惡行，培育意善行。 [dhp-cf]_ 
+
+- Dhp 234 
+
+  * 智者身調伏，亦復語調伏，於意亦調伏，實一切調伏。 [dhp078]_ 、 [dhp001]_ 
+  * 賢者制御身，御語亦御意；賢者於自制，真能善圓滿。 [dhp-cf]_ 
+
+`第十八　垢穢品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap18%zh.rst>`__ (18. Malavaggo; Impurity; Dhp.235-255)
+
+- Dhp 239 
+
+  * 剎那剎那間，智者分分除，漸拂自垢穢，如冶工鍛金。[dhp079]_ 、 [dhp001]_ 
+  * 智者漸次地、一點一點地、剎那至剎那地，清除自己的污垢，就像金匠清除銀的雜質。 [dhp-cf]_ 
+
+- Dhp 240
+
+  * 如鐵自生鏽，生已自腐蝕，犯罪者亦爾，自業導惡趣。 [dhp080]_ 、 [dhp001]_ 
+  * 如鐵鏽自鐵而生，生鏽後反蝕其鐵；違犯者也是如此，被自業帶到惡趣。 [dhp-cf]_ 
+
+- Dhp 248
+
+  * 如是汝應知：不制則為惡；莫貪與非法，自陷於永苦。 [dhp081]_ 、 [dhp001]_ 
+  * 善人你應如是知：惡法不易受控制。莫被貪與非法拖，拖去長久的痛苦。 [dhp-cf]_ 
+
+- Dhp 251
+
+  * 無火等於貪欲，無執著如瞋恚，無網等於愚癡，無河流如愛欲。 [dhp082]_ 、 [dhp001]_ 
+  * 無火能和貪欲同等，無捉取能和瞋同等，無羅網能和痴同等，無河流能和愛同等。 [dhp-cf]_ 
+
+- Dhp 252
+
+  * 易見他人過，自見則為難。揚惡如颺糠，已過則覆匿，如彼狡博者，隱匿其格利。 [dhp083]_ 、 [dhp084]_ 、 [dhp001]_ 
+  * 他人之過容易見到，自己之過卻很難見。對於他人種種過失，他會儘量多多宣揚。自己之過他則覆藏，如捕鳥者以樹藏身。 [dhp-cf]_ 
+
+`第十九　法住品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap19%zh.rst#Dhp267>`__ (19. Dhammaṭṭhavaggo; The Just; Dhp.256-272)
+
+- Dhp 267 
+
+  * 僅捨善與惡，修於梵行者，以知住此世 [dhp085]_，彼實名比丘。 [dhp086]_ 、 [dhp001]_ 
+  * 若人於此教法中，已捨善惡具梵行、了知蘊世間過活，此人實稱為比丘。 [dhp-cf]_ 
+
+- Dhp 268/269
+
+  * | [dhp087]_ 愚昧無知者，不以默然故，而名為牟尼。智者如權衡。 [dhp088]_ 
+    | 捨惡取其善，乃得為牟尼。彼知於兩界 [dhp089]_ ，故稱為牟尼。 [dhp090]_ 、 [dhp001]_ 
+  * | 愚痴且無智的人，不因沉默是牟尼。猶如持秤（衡量後），智者選取最上的，
+    | 捨棄種種邪惡的，因此了知是牟尼。了知兩種世間者，因此被稱為牟尼。 [dhp-cf]_ 
+    | 
+
+`第二十　道品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst>`__ (20. Maggavaggo; The Path; Dhp.273-289)
+
+- Dhp 273 
+
+  * 八支道中勝，四句諦中勝 [dhp091]_ ，離欲法中勝 [dhp092]_ ，具眼兩足勝。 [dhp093]_ 、 [dhp096]_ 、 [dhp001]_ 
+  * 諸道中八聖道最勝；諸諦中四聖諦最勝；於諸法中離欲最勝；二足中具眼者最勝。 [dhp-cf]_ 
+
+- Dhp 274 
+
+  * 實唯此一道。無餘知見淨。汝等順此行。魔為之惑亂。 [dhp001]_ 
+  * 導向知見清淨的，是此道而非他道。你們應實踐此道，它能令魔王迷惑。 [dhp-cf]_ 
+
+- Dhp 275
+
+  * 汝順此（道）行，使汝苦滅盡。知我所說道，得除去荊棘。 [dhp094]_ 、 [dhp001]_ 
+  * 進入了這個道路，你們將能結束苦。親自以智切刺後，我對你們說此道。 [dhp-cf]_ 
+
+- Dhp 276
+
+  * 汝當自努力！如來唯說者 [dhp095]_。隨禪定行者，解脫魔繫縛。 [dhp096]_ 、 [dhp001]_ 
+  * 你們必須自己努力，諸如來只是宣說者。已入此道的禪修者，能解脫魔王的束縛。 [dhp-cf]_ 
+
+- Dhp 277
+
+  * 『一切行無常』 [dhp097]_ ，以慧觀照時 [dhp098]_ ，得厭離於苦，此乃清淨道。 [dhp099]_ 、 [dhp001]_ 
+  * 諸行是無常，以慧照見時，就會厭離苦。這是清淨道。 [dhp-cf]_ 
+
+- Dhp 278
+
+  * 『一切行是苦』，以慧觀照時，得厭離於苦，此乃清淨道。 [dhp100]_ 、 [dhp001]_ 
+  * 諸行皆是苦，以慧照見時，就會厭離苦。這是清淨道。 [dhp-cf]_ 
+
+- Dhp 279
+
+  * 『一切法無我』，以慧觀照時，得厭離於苦，此乃清淨道。 [dhp101]_ 、 [dhp001]_ 
+  * 諸法皆無我，以慧照見時，就會厭離苦。這是清淨道。 [dhp-cf]_ 
+
+- Dhp 280
+
+  * 當努力時不努力，年雖少壯陷怠惰，意志消沈又懶弱，怠者不以智得道。 [dhp102]_ 、 [dhp001]_ 
+  * 懶人當勤時不努力，雖年輕力壯卻怠惰，意志薄弱及心散亂，無法以慧體證道智。 [dhp-cf]_ 
+
+- Dhp 281
+
+  * 慎語而制意，不以身作惡。淨此三業道，得聖所示道。 [dhp103]_ 、 [dhp001]_ 
+  * 守護言語抑制心，亦不以身造不善；應清淨此三業道，贏獲賢者開顯道。 [dhp-cf]_ 
 
 | 第二十一　雜品 (21. Pakiṇṇakavaggo; Miscellaneous; Dhp.290-305)、
 | 第二十二　地獄品 (22. Nirayavaggo; The State of Woe; Dhp.306-319)、
 | 第二十三　象品 (23. Nāgavaggo; The Elephant; Dhp.320-333)、
 | 
 
-第二十四　愛欲品 (24. Taṇhāvaggo; Craving; Dhp.334-359)
+`第二十四　愛欲品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap24%zh.rst>`__ (24. Taṇhāvaggo; Craving; Dhp.334-359)
 
-- `Dhp 334 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap24%zh.rst#Dhp334>`__ 、 `Dhp 335 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap24%zh.rst#Dhp335>`__ 、 `Dhp 336 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap24%zh.rst#Dhp336>`__ 、 `Dhp 338 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap24%zh.rst#Dhp338>`__ 、 `Dhp 343 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap24%zh.rst#Dhp343>`__ 、 `Dhp 348 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap24%zh.rst#Dhp348>`__ 
+- Dhp 334 
 
-第二十五　比丘品 (25. Bhikkhuvaggo; The Monk; Dhp.360-382)
+  * 若住於放逸，愛增如蔓蘿。（此）生又（彼）生，如猿求林果。 [dhp104]_ 、 [dhp001]_ 
+  * 對於放逸過活的人，貪愛猶如蔓藤滋長。他一世又一世地跳，如林中想吃果之猴。 [dhp-cf]_ 
 
-- `Dhp 360 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap25%zh.rst#Dhp360>`__ 、 `Dhp 361 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap25%zh.rst#Dhp361>`__ 、 `Dhp 362 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap25%zh.rst#Dhp362>`__ 、 `Dhp 365 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap25%zh.rst#Dhp365>`__ 、 `Dhp 367 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap25%zh.rst#Dhp367>`__ 、 `Dhp 368 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap25%zh.rst#Dhp368>`__ 
+- Dhp 335 
 
-第二十六　婆羅門品 (26. Brāhmaṇavaggo; The Holy Man; Dhp.383-423)
+  * 若於此世界，為惡欲纏縛，憂苦日增長，如毘羅得雨。 [dhp105]_ 、 [dhp001]_ 
+  * 被世間執著的卑劣貪愛征服的人，其愁猶如大雨後的鬚芒草般增長。 [dhp-cf]_ 
 
-- `Dhp 385 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap26%zh.rst#Dhp385>`__ 、 `Dhp 387 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap26%zh.rst#Dhp387>`__ 、 `Dhp 420 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap26%zh.rst#Dhp420>`__ 、 `Dhp 423 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap26%zh.rst#Dhp423>`__ 
+- Dhp 336
+
+  *  若於此世界，降難降愛欲，憂苦自除落，如水滴蓮葉。 [dhp104]_ 、 [dhp001]_ 
+  * 征服世間難克服的卑劣貪愛之人，其愁猶如水珠從荷葉上掉落消失。 [dhp-cf]_ 
+
+- Dhp 338
+
+  * 不傷深固根，雖伐樹還生。愛欲不斷根，苦生亦復爾。 [dhp106]_ 、 [dhp001]_ 
+  * 猶如根未受損而深固，被砍倒的樹還會生長，如是潛伏的貪愛未斷，此苦即會不斷地生起。 [dhp-cf]_ 
+
+- Dhp 343
+
+  * 隨逐愛欲人，馳迴如網兔。比丘求無欲 [dhp107]_ ，故須自離欲。 [dhp106]_ 、 [dhp001]_ 
+  * 被渴愛領導的人，如落網野兔驚慌。故想讓己離欲者，他應該去除渴愛。 [dhp-cf]_ 
+
+- Dhp 348
+
+  *  [dhp108]_ 捨過現未來 [dhp109]_ ，而渡於彼岸。心解脫一切，不再受生老。 [dhp110]_ 、 [dhp001]_ 
+  * 放下過去放下未來、放下現在達到彼岸。心已經解脫了一切，你將不再經歷生老。 [dhp-cf]_ 
+
+`第二十五　比丘品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap25%zh.rst>`__ (25. Bhikkhuvaggo; The Monk; Dhp.360-382)
+
+- Dhp 360 
+
+  * 善哉制於眼。善哉制於耳。善哉制於鼻。善哉制於舌。 [dhp111]_ 、 [dhp001]_ 
+  * 克制眼是好的，克制耳是好的，克制鼻是好的，克制舌是好的， [dhp-cf]_ 
+
+- Dhp 361 
+
+  * 善哉制於身。善哉制於語。善哉制於意。善哉制一切，制一切比丘，解脫一切苦。 [dhp111]_ 、 [dhp001]_ 
+  * 克制身是好的，克制語是好的，克制意是好的，克制一切很好，比丘全面克制，解脫了一切苦。 [dhp-cf]_ 
+
+- Dhp 362
+
+  * 調御手足及言語，調御最高（之頭首），心喜於禪住於定，獨居知足名比丘。 [dhp112]_ 、 [dhp001]_ 
+  * 制御手、制御足、制御語、完全制御自己、善立於樂禪修、獨處與知足者，他們稱他為比丘。 [dhp-cf]_ 
+
+- Dhp 365
+
+  * 莫輕自所得；莫羨他所得。比丘羨他（得），不證三摩地。 [dhp113]_ 、 [dhp001]_ 
+  * 不應輕視己所得，莫羨慕他人所得。羨慕他人的比丘，他不會獲得定力。 [dhp-cf]_ 
+
+- Dhp 367
+
+  * 若於名與色，不著我我所，非有故無憂，彼實稱比丘。 [dhp114]_ 、 [dhp001]_ 
+  * 對於一切的名色法，不執取為「我或我的」，對五蘊壞滅無憂者，他的確可稱為比丘。 [dhp-cf]_ 
+
+- Dhp 368
+
+  * 住於慈悲比丘 [dhp115]_ ，喜悅佛陀教法，到達寂靜安樂，諸行解脫境界。 [dhp116]_ 、 [dhp001]_ 
+  * 住於慈愛及喜歡佛陀教法的比丘他將會證悟寂靜、諸行止息與安樂的涅槃。 [dhp-cf]_ 
+
+`第二十六　婆羅門品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap26%zh.rst>`__ (26. Brāhmaṇavaggo; The Holy Man; Dhp.383-423)
+
+- Dhp 385 
+
+  * 無彼岸此岸 [dhp117]_ ，兩岸悉皆無，離苦無繫縛 [dhp118]_ ，是謂婆羅門。 [dhp119]_ 、 [dhp001]_ 
+  * 他無此岸或彼岸，亦無此岸及彼岸、苦惱已除煩惱解，我稱他為婆羅門。 [dhp-cf]_ 
+
+- Dhp 387 
+
+  * 日照晝兮月明夜，剎帝利武裝輝耀，婆羅門禪定光明，佛陀光普照晝夜。 [dhp120]_ 、 [dhp001]_ 
+  * 太陽於日間照耀，月亮於夜間照耀，王族以甲胄照耀；婆羅門以禪照耀；於日夜一切時候，佛陀以光輝普照。 [dhp-cf]_ 
+
+- Dhp 420
+
+  * 諸天乾闥婆及人，俱不知彼之所趣，煩惱漏盡阿羅漢──我稱彼為婆羅門。 [dhp121]_ 、 [dhp001]_ 
+  * 諸天乾達婆和人，都不知他的去處。他是漏盡阿羅漢，我稱他為婆羅門。 [dhp-cf]_ 
+
+- Dhp 423
+
+  * 牟尼能知於前生 [dhp122]_ ，並且天界及惡趣，獲得除滅於再生，業已完成無上智，一切圓滿成就者──我稱彼為婆羅門。 [dhp123]_ 、 [dhp001]_ 
+  * 牟尼知道過去世，看到天界與惡道，並且已達生盡毀，以親證智達成就，圓滿成就了一切，我稱他為婆羅門。 [dhp-cf]_ 
 
 ----
 
@@ -1700,9 +2127,468 @@
 
 .. [dhp00] 另請參考 參考資訊_ 中之 法句經參考資訊_ 。 
 
+.. [dhp001] 法句經： `文言文版 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-Ven-L-C/dhp-Ven-L-C%zh.rst>`__ ( **了參 法師** 譯，台北市：圓明出版社，1991。) 
+
+.. [dhp002] 法句經： `白話文版 2021 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-Ken-Yifertw-Su/dhp-Ken-Y-Su%zh.rst>`__ ，含巴利文法分析， 蘇錦坤 著（蘇錦坤 Ken Su， `獨立佛學研究者 <https://independent.academia.edu/KenYifertw>`_ ，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>`_ 部落格格主）
+
+.. [dhp003] 「法」即「達摩」(Dhamma)。這裡第一頌為不善法。第二頌為善法。
+
+            〔明法尊者註01-01〕　諸法 (mental phenomena、mental states)︰在此指善.惡業(kamma)。意 ︰指心識。此句即：心為所有作為的前導，心為它們的主人，它們為心所造作。
+
+            〔明法尊者註01-03〕　這是護眼長老(Cakkhupālatthera)的故事，他因瞎了眼，在晚上經行踏死很多小生物，隔天被其他比丘發現。佛陀說他無心殺，沒有罪。《本事經》：「諸不善法生，為因能感苦，皆意為前導，與煩惱俱生。意為前導法，意尊意所使，由意有染污，故有說有行，苦隨此而生，如輪因手轉。」(T4.663.3)；
+
+            〔Nanda 校註〕 請參 `001 典故－－ 護眼尊者的故事 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story001%zh.rst>`__  ；或《法句經故事集》，一～一、 `瞎眼的阿羅漢 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-001>`__ (偈 001) 。 
+
+.. [dhp004] 原文 Cakkaṃva vahato padaṃ. 應譯為「如車輪隨於拖車之獸足」。
+
+.. [dhp005] 〔明法尊者註01-04〕　舍衛城一位吝嗇的婆羅門之子，甚至快死了，父親也不延醫，佛陀知道此事，去托缽，經過他家，向他放光，他對佛陀生信，死後生忉利天。他父親到墳墓去哭，他下來勸他的父親要親近佛陀。《本事經》：「諸淨善法生，為因能感樂，皆意為前導，與善法俱生。意為前導法，意尊意所使，由意有清淨，故有說有行，樂隨此而生，如影隨形轉。」(T4.664.1)； 
+
+             〔Nanda 校註〕 請參 `002 典故－－ 俄丁納布柏各的故事 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story002%zh.rst>`__ ；或《法句經故事集》，一～二、 `何必妄想 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-002>`__ (偈 002) 。 
+
+.. [dhp006] 原文 Sanantano 為古代之意。古法（Sanantano Dhammo 或 Poranako Dhammo）即指一切諸佛與諸佛弟子，所共同遵守的永久不易之法。
+
+.. [dhp007] 〔明法尊者註01-06〕　本則是妻與妾多世冤冤相報的故事。佛陀作了勸導。《增壹阿含24.8經》︰「怨怨不休息，自古有此法，無怨能勝怨，此法終不朽。」(T2.627.2)。
+
+             〔Nanda 校註〕 請參 `005 典故－－ 虎姑婆的故事 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story005%zh.rst>`__ ；或《法句經故事集》，一～四、 `累劫以來的仇恨 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap01-ciu%zh.rst#dhp-005>`__ (偈 005) 。 
+
+.. [dhp008] 〔明法尊者註02-03〕 奮勉：DhA：uṭṭhānavato ti uṭṭhānavīriyavantassa.(奮起 ：奮起的英雄本色。)
+
+             〔明法尊者註02-04〕 淨行 ：DhA： Sucikammassā ti niddosehi niraparādhehi kāyakammādīhi samannāgatassa.(淨業： 已被無為難的、無違犯的身業等俱行。)
+
+.. [dhp009] 猶如較高的陸地，可以作避免水災的安全處。智者自己證得阿羅漢果，即不為煩惱所擾。
+
+.. [dhp010] 是貪瞋癡等煩惱。
+
+            〔明法尊者註02-05〕 **不為洪水沒** ：智者以法與律作為依止，不為煩惱(喻作：洪水)所淹沒。DhA：「洪水為四種污染(catubbidhopi kilesogho)」。四洪水(cattāro oghā)就是四漏(四流向, 4 āsavā<(ā向﹑從…+ su (梵 sru )流動))。
+
+            〔明法尊者註02-06〕　有一天，名醫耆婆(Jīvako)邀請佛陀和眾多比丘到他家接受供養，但是周利槃特(Cūḷapanthako)除外。周利槃特十分沮喪。佛陀明白他的心意後，就給他一塊布，要他一邊搓揉布塊，一邊複誦「去除污垢，去除污垢。」(‘rajoharaṇaṁ rajoharaṇan’ti)佛陀離開後，周利槃特努力搓揉布塊，並複誦「去除污垢」，不久，布變髒了，這時候他了解到無常。佛陀就以神通力出現在他的面前，說：「不只是布因污垢而變髒，人心也有污垢，去除污垢，才能證果。」他繼續用功，不久就證得阿羅漢果。
+
+            〔Nanda 校註〕 請參 `025 典故－－ 尊者周利槃陀伽的故事 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story025%zh.rst>`__ ；或《法句經故事集》，二～三、 `愚笨的周利槃特證得聖果 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap02-ciu%zh.rst#dhp-025>`__ (偈 025) 。
+
+.. [dhp011] 〔明法尊者註02-07〕　舍衛城某次慶典時，一群年輕人惹事生非。佛陀說︰「諸愚者、無慧者會作騷擾事；有慧者像有價之財，護衛不放逸，圓滿證得不死的大涅槃。」
+
+            〔Nanda 校註〕 請參《法句經故事集》，二～四、 `慶典期間幼稚的舉止 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap02-ciu%zh.rst#dhp-026>`__ (偈 026~027) 。
+
+.. [dhp012] 〔明法尊者註03-02〕 搦 ：ㄋㄨㄛˋ按壓及調整。此字屬補綴字，並不出現於文中。
+
+            《本事經》：「無別有一法，性躁動如心，難調御難防，大仙之所說。譬如有智人，以火等眾具，調直於利箭，令遠有所中。如是諸苾芻，應善學方便，調直於心性，令速證涅槃。」(T4.673.1)
+
+            〔明法尊者註03-01〕 Dh33-34 的因緣是：彌醯長老(Meghiyatthera)當世尊的侍者時，他中意一處風景美好的地方，打算在此禪修，三次請求，世尊並不看好，但是最後還是答應他。彌醯長老在該處停留一天，但無法降服內心的煩惱。當他回到世尊的身邊時，世尊說出此偈。(參見DhA.；Ud.31)
+            
+            〔Nanda 校註〕 請另參《法句經故事集》〈第三品　心品〉三～一、 `無法控制心念的彌醯 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap03-ciu%zh.rst#dhp-033-034>`__ (偈 033~34)。
+
+.. [dhp013] 惡害。
+
+            〔明法尊者註03-14〕 邪行：micchāpaṇihitaṁ，不正行、邪道、惡業，在此指「瞋恚」。正行則指善業。
+
+            〔Nanda 校註〕 請參《法句經故事集》，三～八、 `牧牛人難屠 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap03-ciu%zh.rst#dhp-042>`__ (偈 042) 。
+
+.. [dhp014]  使他的心趨向於十種惡（Akusala）–– 殺生（Panatipato），偷盜（Adinnadanam），邪淫（Kamesu micchacaro），妄語（Musavado），兩舌（Pisuna vaca），粗惡語（Pharusa vaca），綺語（Samphappalapo），慳貪（Abhijjha），瞋恚（Vyapado），邪見（Micchaditthi）。
+
+.. [dhp015] 使他的心趨向於十種善（Kusala）––佈施（Danam），持戒（Silam），修禪定（Bhavana），尊敬（Apacayanam），作事（Veyyavaccam），回向功德（Pattidanam），隨喜功德（Pattanumodana），聽法（Dhammasavanam），說法（Dhammadesana），正直見（Ditthujjukammam）。
+
+.. [dhp016] 〔Nanda 校註〕 請參《法句經故事集》，三～九、 `變性人 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap03-ciu%zh.rst#dhp-043>`__ (偈 043) 。
+
+.. [dhp017] 欲樂。
+
+.. [dhp018] 深夜裏熟睡於村落中的人，被瀑流洗去而不知。
+
+            〔明法尊者註04-09〕 如瀑流睡村 ：熟睡的村人為瀑流沖走而不知。此偈故事為憍薩彌羅國波斯匿王請求與釋迦族的一位公主結婚。傲慢的釋迦族王子們卻送給他一位摩訶男與一婢女所生的美麗的女孩。後來，這女孩末利夫人(Mallikā)生下一位琉璃王子(Viṭaṭūbha)。王子十六歲時，被派去拜訪外祖父摩訶男和釋迦族的王子們。偶然琉璃王子知道他為婢女所生的真相後，極端憤怒，發誓要滅釋迦族。後來他當了國王，發兵殲滅釋迦族。他和軍隊在返國的途中駐紮在阿致羅筏底河 (Aciravatī) 河床。當晚，河水暴漲把他和軍隊一齊衝入大海。
+
+            〔Nanda 校註〕 請參《法句經故事集》，四～三、 `琉璃王報復釋迦族 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap04-ciu%zh.rst#dhp-047>`__ (偈 047) 。
+
+
+.. [dhp019] 此句原文 na paresaṃ katākataṃ 直譯為「不觀他人作不作」。
+
+            〔明法尊者註04-11〕 過 ：vilomāni，拂逆的。
+
+            〔明法尊者註04-12〕 舍衛城裡有位富有的女士，是邪命者巴未亞(Pāveyya)的供養者。她也想去聽佛陀開示，但幾次都被巴未亞阻止。就要兒子去請佛陀到家裡來接受供養，佛陀宣說隨喜。她聽到佛陀用悅耳的聲音說法時，說：「善哉！善哉！」隔壁的巴未亞聽到她喜悅的叫聲時，他憤怒地出走，一路跟她和佛陀咀咒。佛陀勸誡她不要理睬，應該正念現前地觀照自己的善惡行為。聽完佛陀說法後，她證得初果。
+
+            〔Nanda 校註〕 請參《法句經故事集》，四～六、 `不要理睬他人的咀咒 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap04-ciu%zh.rst#dhp-050>`__ (偈 050) 。
+
+            法雨道場( 明法 法師)出版之修訂版，建議改譯"已作與未作"。 說明：未必需要，仁智互見也。
+
+            另可參考：第十八品  偈頌 二五三：若見他人過，心常易忿者，增長於煩惱；去斷惑遠矣。
+
+.. [dhp020] 〔明法尊者註04-13〕 如是說善語，彼不行無果︰會說善語，但若不依照所說的去實踐，則不會有好結果。
+
+.. [dhp021] 〔明法尊者註05-05〕 大迦葉長老住在王舍城時，有兩位年輕沙彌跟他修習。其中一位恭敬、服從又盡責。另一位則否。告誡他時，他反而生氣。某日，大迦葉尊者外出時，這位頑強、愚蠢的沙彌留在精舍，打破所有的鍋子，並且放火燒精舍。佛陀告誡大迦葉長老寧可獨居，也不要跟愚人共處。
+
+            〔Nanda 校註〕 請參《法句經故事集》，五～二、 `頑強不馴的年輕沙彌 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-061>`__ (偈 061) 。
+
+.. [dhp022] 〔明法尊者註05-04〕 阿難達(Ānandaseṭṭhi)是舍衛城中富有但吝嗇的人。他甚至在屋裡埋五甕金幣，但直到他去世，也沒有告訴兒子。死後往生到離舍衛城不遠的乞丐村，長大當乞丐，他曾到前世的家乞討，孫子輩看到他很醜，就叫僕人把他趕走。佛陀就叫阿難尊者去請他前世的兒子前來一談。佛陀告訴他，這乞丐是他前世的父親，但他不相信，佛陀就叫乞丐去挖出那五甕金幣，他才相信。
+
+            本句白話：「『我的孩子，我的財產』，愚人常(為此)焦慮(vihaññati)。其實「我」無有我，哪裡有子，哪裡有財產？」
+
+            〔Nanda 校註〕 請參 062 典故－－ `吝嗇富翁的命運 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story062%zh.rst>`__ ；或《法句經故事集》，五～三、 `吝嗇富翁的命運 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-062>`__ (偈 062) 。
+
+.. [dhp023] 〔明法尊者註05-06〕 達摩 (dhamma)：法、真理。
+
+            〔明法尊者註05-07〕 優陀夷長老(Udāyitthera)與世尊共住，喜歡坐在講台上，某日一群客比丘以為他會說法，請教他，但是他不知回答(五)蘊、(六)界、(六)處的問題。
+
+            〔Nanda 校註〕 請參《法句經故事集》，五～五、 `不能領悟佛法的癡人 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-064>`__ (偈 064) 。
+
+.. [dhp024] 「異熟」（Vipāka）是指將來的善惡果報。這裡是惡果。
+
+            〔明法尊者註05-10〕 有一天，在路上佛陀看著裝滿錢的袋子(贓物)向阿難說：「阿難！看！那是毒蛇。」「大德！我看到劇毒(的蛇)。」附近的農夫聽到就去看看，結果發現一袋錢，把它藏起來。後來農夫被抓，判死刑。受刑前農夫一直唸著：「阿難！看！那是毒蛇。大德！我看到劇毒(的蛇)。」行刑的人十分困惑，就把農夫押回，國王請佛陀作證之後，才免死。佛陀說：「智者不做會令人後悔的事。」(cf.大正No.201.《大莊嚴論經》(34)T4.289.3；大正No.208.《眾經撰雜譬喻》(6)T4.533.2-3；大正No.1435.《十誦律》卷第十五,T23.107-8)
+
+            〔Nanda 校註〕 請參《法句經故事集》，五～八、 `佛陀拯救無知的農人 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-067>`__ (偈 067) 。
+
+.. [dhp025] 〔明法尊者註05-12〕 本偈為世尊在蓮華色比丘尼被強暴之後說的偈頌。蓮華色比丘尼為舍衛城富家女，她出家後，有一天她點火，觀火遍，就證得阿羅漢。她獨居於森林，有一天被強暴，但不受樂，因而不犯戒。世尊向波斯匿王說比丘尼住森林有危險。於是波斯匿王在城內為比丘尼蓋精舍。
+
+            〔Nanda 校註〕 請參《法句經故事集》，五～十、 `強暴比丘尼的年輕男子 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap05-ciu%zh.rst#dhp-069>`__ (偈 069) 。
+
+.. [dhp026] 〔Nanda 校註〕 請參《法句經故事集》，六～六、 `固若磐石 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap06-ciu%zh.rst#dhp-081>`__ (偈 081) 。
+
+.. [dhp027] 〔Nanda 校註〕 請參《法句經故事集》，六～七、 `辱罵比丘的女人 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap06-ciu%zh.rst#dhp-082>`__ (偈 082) 。
+
+.. [dhp028] 離生死之涅槃。
+
+.. [dhp029] 生死界。
+
+            〔明法尊者註06-09〕 **彼岸** ：涅槃。 **此岸** ：生死。DhA： **Pāragāmino**ti nibbānapāragāmino. ( **到彼岸** ：去到涅槃的彼岸。)
+
+.. [dhp030] 有為的路業已行盡，即所謂：「諸漏已盡，所作已辦，梵行已立」。
+
+            〔明法尊者註07-01〕 路行盡 ：旅行已完畢者，喻：業已盡，即所謂：諸漏已盡，所作已辦，梵行已立。
+
+.. [dhp031] 「繫縛」（Gantha）有四：貪（Abhijjha），瞋（Vyapada），戒禁取（Silabbhatapara-Masa），見取（Idan saccabhinivessa）。
+
+            〔明法尊者註07-02〕 繫縛 ：gantha，貪、瞋、戒禁取(誤取邪因、邪道)、見取(持常見—永恆不滅的我或靈魂，或持斷見—凡事皆偶然，無因果)。
+
+            〔明法尊者註07-03〕 佛陀受提婆達多推落的石片傷到腳姆指，耆婆神醫幫忙治療。
+
+            〔Nanda 校註〕 請參《法句經故事集》，七～一、 `佛陀和名醫耆域 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-090>`__ (偈 090)。
+
+.. [dhp032] 〔明法尊者註07-06〕 有一次，在雨安居結束日。帝釋率領眾天神前往東園(鹿母講堂)，帝釋以天香與天花鬘獻給佛陀，他看到僧團保留給摩訶迦旃延長老的位子，心裡多麼希望尊者也在精舍裡接受他的禮敬。這時候，摩訶迦旃延長老突然出現，帝釋非常歡喜，立刻以雙手按摩雙足頂禮。有些比丘不以為然，認為帝釋偏心。佛陀就說此偈。
+
+            〔Nanda 校註〕 請參《法句經故事集》，七～五、 `帝釋敬重摩訶迦旃延尊者 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-094>`__ (偈 094) 。
+
+.. [dhp033] 〔Nanda 校註07-04〕 請參《法句經故事集》，七～七、 `一眼失明 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-096>`__ (偈 096) 。
+
+.. [dhp034] 「無信」（Assaddho）或譯為「不信」，這是說聖者有自證知，悟不由他之意。
+
+            〔明法尊者註07-09〕 無信 ：assaddho，聖者自證知，悟不由他。
+
+.. [dhp035] （繫：）生死輪迴。
+
+            〔明法尊者註07-10〕 斷繫.因永謝 ︰斷了繫縛，煩惱的因永遠謝滅。
+
+.. [dhp036] 更無善業和惡業了。
+
+.. [dhp037] 〔明法尊者註07-11〕 舍利弗尊者的三位姐妹和兩位弟弟都出家，最小弟弟離婆多(Revato)沒出家，他被安排婚姻，但是在婚宴上，他看到一位很老的女賓客，知道人生不離老病死，於是就去出家當沙彌，經過一個雨安居就證得阿羅漢果。
+
+            〔Nanda 校註〕 請參《法句經故事集》，七～九、 `舍利弗尊者最小的弟弟 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap07-ciu%zh.rst#dhp-098>`__ (偈 098) 。
+
+.. [dhp038] 〔明法尊者註08-04〕 《增壹阿含31.11經》(T2.673.2)：「千千為敵，一夫勝之，未若自勝，已忍者上。」
+
+            〔Nanda 校註〕 請參 `102-3 典故－－ 尊者昆得利給喜的故事 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story102-3%zh.rst>`__ ；或《法句經故事集》，八～三、 `嫁小偷的富家女 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-102>`__ (偈 102~3)。
+
+.. [dhp039] 下二頌是連貫的。 
+
+.. [dhp040] 「乾闥婆」(Gandhabba)是天界一種樂神的名字。
+
+            〔明法尊者註08-05〕 乾闥婆 ：gandhabha(梵 gandharva)，天界的一種樂神，他以香氣資養身體。
+
+.. [dhp041]  這裡的魔王是一天神之名。
+
+.. [dhp042] 梵天即婆羅門天 (Brahma)。
+
+.. [dhp043] 〔明法尊者註08-06〕 一位婆羅門跟佛陀說：「尊者！我認為你只知有法益的修行，對無益的事一無所知。」佛陀說︰「我也了解無益且有害的事。」佛陀就列舉六種會消耗財產的行為：(1)日出之後睡覺。(2)懶惰成性。(3)殘暴。(4)耽溺飲酒。(5)在惹人懷疑的時間內逛街。(6)淫他人之妻。佛陀接著問這婆羅門如何維生，婆羅門回答說以賭博維生。佛陀說：「在賭博中獲勝，無法與克服煩惱的成就相比。」
+
+            〔Nanda 校註〕 請參《法句經故事集》，八～四、 `賭博的得失 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-104>`__ (偈 104~5) 。
+
+.. [dhp044] 〔Nanda 校註08-03〕 請參《法句經故事集》，八～十、 `喬達那尊者和搶匪們 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap08-ciu%zh.rst#dhp-111>`__ (偈 111) 。
+
+.. [dhp045] 〔Nanda 校註〕 請參《法句經故事集》，九～一、 `一位窮苦婆羅門的慷慨奉獻 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-116>`__ (偈 116)。
+
+.. [dhp046] 〔Nanda 校註〕 請參《法句經故事集》，九～四、 `給孤獨長者與守護神祇 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-119>`__ (偈 119~120)。
+
+.. [dhp047] （莫輕於小︰） 原文 Māppamaññetha (Māvamaññetha) 可作二義：一、Mā＋appamaññati意為「莫輕視」； 二、Mā＋appa＋Maññati則為「莫想少」之意。
+
+.. [dhp048] 〔明法尊者註09-04〕 有位比丘每次從精舍拿椅、凳使用後，就把它留在外面，任日曬雨淋。其他比丘責備他的粗心大意時，他就反駁：「這只是小事，而且我又不是故意的。」所以，他依然故我。佛陀知道他的習性後，就告誡他。
+
+            〔Nanda 校註〕 請參《法句經故事集》，九～五、 `粗心大意的比丘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-121>`__ (偈 121)。
+
+.. [dhp049] 〔Nanda 校註09-03〕 請參 122 典故 `貓足富翁的故事 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story122%zh.rst>`__ ；或《法句經故事集》，九～六、 `供養少的富翁 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-122>`__ (偈 122) 。
+
+.. [dhp050] 〔明法尊者註09-07〕 某日早上，獵人可可(Koka)去打獵。在路上，他遇見一位比丘正在托缽。他認為這是不祥的預兆，當天，他真的什麼也沒獵到。回程，他又遇到那位比丘托缽回來。他一時憤怒，就放獵狗追咬比丘，還好這比丘跑得快，爬上樹，獵狗咬不到他，獵人就用弓箭頭去刺他的腳底，比丘疼痛，無法拉住袈裟，袈裟就滑落下來，正好罩在樹下的獵人。群狗以為比丘掉下來，便撲上去狂咬，獵人因此被狗咬死。比丘疑惑他是否有破沙門戒體(samaṇabhāvo)，佛陀說：「你沒破沙門戒體，不須為獵人的死負責。」
+
+            〔Nanda 校註〕 請參 125 典故－－ `獵人鉤葛的今世和前生 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story125%zh.rst>`__ ；或《法句經故事集》，九～九、 `獵人被自己的獵狗攻擊 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap09-ciu%zh.rst#dhp-125>`__ (偈 125)。
+
+.. [dhp051] 〔明法尊者註10-01〕 刀杖 ：daṇḍa，亦作刑罰。  度 ㄉㄨㄛˋ：測量。原文為：upamaṁ(譬喻)。
+
+            在竹林精舍，17位(為一群的)比丘正在清掃住處，準備住下，剛來的較年長的六位比丘也想住下，但被17位比丘拒絕，因此被六比丘打到大哭。
+
+            〔Nanda 校註〕 請參《法句經故事集》，十～一、 `為了塔而爭吵的比丘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp-129>`__ (偈 129)。
+
+.. [dhp052] 〔明法尊者註10-05〕 有一次，佛陀到舍衛城托缽途中，遇見幾位年輕人用棍子打鼠蛇(gharasappajātika；Ptyas)。佛陀問︰「你們在做什麼？」他們說︰「我們在打蛇。」佛陀問︰「為什麼？」他們說︰「大德！我們怕被蛇咬。」「你們自己想要幸福，但是這種打殺的行為，無論投生到何處，你們都不會得到幸福；如果自己熱望幸福，就不應該打殺別人。」佛陀接著說出此偈。
+
+            〔Nanda 校註〕 請參《法句經故事集》，十～三、 `鞭打蛇的年輕人 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap10-ciu%zh.rst#dhp-131>`__ (偈 131~132)。
+
+.. [dhp053] 〔Nanda 校註11-06〕 請參《法句經故事集》，十一～七、 `總是說錯話的比丘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-152>`__ (偈 152) 。
+
+.. [dhp054] 〔明法尊者註11-13〕 少壯不得財 ︰aladdhā yobbane dhanaṁ ，此句有「年輕時沒有儲蓄資財之意」。
+
+            本 155~156 偈說波羅奈(Bārāṇasī)大富長者子(Mahādhanaseṭṭhiputta)的故事。大富不知理財，家財漸漸散盡，最後只好乞食為生。佛陀見到大富時，告訴阿難︰「如果他在人生的第一階段，做事業不耗損的話，將成為本城首富；出家的話，他將證得阿羅漢果，他的太太將證得阿那含果；如果他在人生的第二階段，做事業不耗損的話，將成為本城第二富；出家的話，他將證得阿那含果，他的太太將證得斯陀含果；如果他在人生的第三階段，做事業不耗損的話，將成為本城第三富；出家的話，他將證得斯陀含果，他的太太將證得須陀洹果；現在他的家財散盡，也空無沙門果。耗費殆盡之後，他現在就像蒼鷺守枯池一樣。」
+
+            cf.《雜阿含1162經》、《別譯雜阿含85經》。 《大毘婆沙論》卷102(T27.660.2)作：「少不修梵行，喪失聖財寶，今如二老鶴，共守一枯池。」
+
+            〔Nanda 校註〕 請參《法句經故事集》，十一～九、 `摩訶達拿散盡家財 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-155>`__ (偈 155~156) 。
+
+.. [dhp055] 〔Nanda 校註〕 請參 159 典故－－ `柏達尼格笛撒尊者的故事 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story159%zh.rst>`__ ；或《法句經故事集》，十二～三、 `不奉行佛法的弘法比丘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp-159>`__ (偈 159)。
+
+.. [dhp056] 佛教是主張一個人必須依賴自己的力量，而獲得解脫的。佛教徒的皈依佛，皈依法及皈依僧，並非說光是做做祈禱，便可依靠三寶而得解脫；其實是說三寶是我人的教師，是我們思想行為的指導者，依照其指導去實行可得解脫。所以要真的達到自己解脫境界，則完全需要依賴自己作正當的努力。
+
+            〔明法尊者註12-03〕 修行者要依怙自己的經驗、判斷，依怙正法來達到解脫。
+
+.. [dhp057] 指阿羅漢的果位。
+
+            〔明法尊者註12-04〕 證難得所依 ：nāthaṁ labhati dullabhaṁ，證得難得的歸依處(涅槃)。
+
+.. [dhp058] 〔Nanda 校註12-03〕 請參《法句經故事集》，十二～四、 `比丘尼的兒子 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp-160>`__ (偈 160)。
+
+.. [dhp059] 〔Nanda 校註12-06〕 請參《法句經故事集》，十二～九、 `受妓女保護的信徒 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp-165>`__ (偈 165)。
+
+.. [dhp060] （世俗︰）錫蘭註釋家說是輪迴。
+
+            | 〔明法尊者註13-01〕 卑劣法：DhA：hīnaṁ dhammanti pañcakāmaguṇaṁ dhammaṁ.(卑劣法：五種欲的法。) 五種欲︰五種感官(眼、耳、鼻、舌、身)的欲望。
+            | 〔明法尊者註13-01〕世俗︰loka，指生死輪迴。
+            | 
+
+.. [dhp061] 〔Nanda 校註13-02〕 請參 167 典故－－ `聞偈證果的年輕比丘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story167%zh.rst>`__ ；或《法句經故事集》，十三～一、 `與少女爭吵的比丘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-167>`__ (偈 167)。
+
+.. [dhp062] 〔明法尊者註13-04〕 無畏王子(Abhayarājakumāra)弭平邊疆叛亂，回宮後，頻婆沙羅王(Bimbisāra)很高興，特派擅長歌舞的舞女犒勞七天，讓他享受國王般的待遇，在第七天，舞女暴斃，王子很傷心，他尋求佛陀的慰藉，佛陀說此偈。
+
+            〔Nanda 校註〕 請參《法句經故事集》，十三～四、 `佛陀安慰悲傷的王子 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-171>`__ (偈 171)。
+
+.. [dhp063] 「預流果」（Sotapattiphalam）是證涅槃的第一階段。
+
+            〔明法尊者註13-12〕 預流果 ：sotapattiphalaṁ，即初果、須陀洹果，證悟預流果即入聖人的行 列，它斷除了三結──身見(我見，以為有永恆不變的我)、疑(懷疑因果、緣起、佛.法.僧)、戒禁取見(邪因以為正因，邪道以為正道)。
+
+.. [dhp064] 〔Nanda 校註13-06〕 請參 178 典故－－ `給孤獨長者和他的兒子 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story178%zh.rst>`__ ；或 《法句經故事集》，十三～十一、 給孤獨長者兒子的故事 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap13-ciu%zh.rst#dhp-178>`__ (偈 178)。
+
+.. [dhp065] 〔明法尊者註14-05〕 Sabbapāpassa akaranaṁ, kusalassa upasampadā, sacittapariyodapanaṁ, etaṁ Buddhāna sāsanaṁ. 本偈一般流傳：「諸惡莫作，眾善奉行，自淨其意，是諸佛教。」原意是︰「一切惡不作，具足眾善，淨化自心，這是一切佛陀所教示的。」
+
+            〔明法尊者註14-08〕 有一次，阿難尊者請教佛陀，過去七佛的父母、壽量、菩提、聲聞眾、上首聲聞眾、上首侍者、所有的講說、不說布薩、為什麼他們不說布薩？其他的佛陀又如何？佛陀回答說，所有諸佛的佛法都是一樣的，佛陀馬上背誦過去諸佛在說法時所開講的一些偈語。
+
+            〔Nanda 校註〕 請參《法句經故事集》，十四～四、 `佛陀的教誨 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap14-ciu%zh.rst#dhp-183>`__ (偈 183~185)。 請參 `183 研讀 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-study183%zh.rst>`__ 。
+
+.. [dhp066] 原文 Patimokkha 為「別解脫律儀戒」，有二百二十七條主要的律文，為一切比丘所遵守的。
+
+            〔明法尊者註14-06〕 嚴持於戒律 ︰pātimokkhe ca saṁvaro，即比丘守護比丘戒(波羅提木叉)。
+
+.. [dhp067] 指八定（Atthasamapatti）－－四禪定及四空定。
+
+            〔明法尊者註14-07〕 增上定 ︰即增上心（adhicitta）指禪定，四禪、四空定。
+
+.. [dhp068] 「我等」是佛陀自稱。
+
+            〔明法尊者註15-01〕 我等 ：佛陀自稱。jīvāma(我們生)，以複數表示。DhpA.vv.197-199.說偈之前的說法中，以‘ahaṁ’(我)、‘viharāmi’(我住)，表示佛陀自己的心情。
+
+.. [dhp069] 〔明法尊者註15-03〕 釋迦族的迦毗羅衛城(Kapilavatthunagara)，和拘利族的拘利城(Koliyanagara)，兩個城市的農民都用赤牛河(Rohiṇī盧奚多河)水灌溉。有一年，發生大旱災，雙方為了爭水源，準備用武力解決。佛陀知道他在河兩岸的親戚們正準備戰爭，他決定加以阻止，就一個人單獨到河中的空地上盤腿而坐。諸親戚看見佛陀時，都把手上的武器放在一邊，向佛陀禮敬。佛陀說：「大王！為什麼要動干戈？」「大德！我們不知道。」「有誰知道？」「副王知道，將軍知道。」做十業道來問答之後，「大德！爭水。」「大王！水有價值嗎？」「大德！沒有價值。」「大王！眾剎帝利有價值嗎？」「大德！眾剎帝利無價的。」「不適當的。你們為了少量沒有價值的水，來殺戮無價的剎帝利。」他們就沉默下來。佛陀喊他們︰「你們為什麼要這樣做？今天，如果不是我在這裡的話，你們將會血流成河了。這樣做是不應該的。你們懷抱著五種怨(殺、盜、淫、妄、酒)，懷恨過日子，而我是沒有恨過日子；你們會不舒服過日子，而我舒服過日子；你們尋找五欲過日子，而我與世無爭過日子。」佛陀再說197-199偈頌。雙方聽完佛陀的勸誡後，避免一場流血戰爭。
+
+            〔Nanda 校註〕 請參《法句經故事集》，十五～一、 `為水爭吵 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp-197>`__ (偈 197~199)。
+
+.. [dhp070] 〔明法尊者註15-07〕 和靜︰upasanto「寂靜者」是指已斷除煩惱的人。
+
+            〔明法尊者註15-08〕 憍薩羅國波斯匿王與摩揭陀國阿闍世王打戰，連續三次敗戰，他覺得︰「被年輕人打敗，沒面子、無能，不知如何活下去。」佛陀說此偈。cf. S.3.14./I,83; 《雜阿含1236經》，《別譯雜阿含63經》
+
+            〔Nanda 校註〕 請參《法句經故事集》，十五～三、 `勝利使人產生恨意 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp-201>`__ (偈 201)。
+
+.. [dhp071] 〔明法尊者註15-11〕 憍薩羅國波斯匿王，早餐吃一桶量的咖哩飯(taṇḍuladoṇassa odanaṁ tadupiyena sūpabyañjanena bhuñjati)，吃完後，前往竹林精舍聽聞佛陀說法時，無法驅除打瞌睡(bhattasammada)。佛陀說︰「大王！怎麼沒有先休息一下再來？」「大德！我吃飯之後，感覺很不舒服苦。」佛陀說︰「大王！吃太飽才是苦。」佛陀就勸誡他：「大王！進食應適量，身體才會舒適。」國王接受佛陀建議，從此以後適量的飲食，身體就比較輕盈，也比較健康。佛陀告訴國王：「無病是最上的利得」云云。
+
+            S.3.13./I,81作：「常具正念人，取食知其量；是人(苦)受少，衰緩壽得長。」《別譯雜阿含73經》︰「夫人常當自憶念，若得飲食應知量，身體輕便受苦少，正得消化護命長。」
+
+            〔Nanda 校註〕 請參《法句經故事集》，十五～六、 `飲食要節制 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp-204>`__ (偈 204)。
+
+.. [dhp072] 〔Nanda 校註15-03〕 請參《法句經故事集》，十五～七、 `尊敬佛陀的方法 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap15-ciu%zh.rst#dhp-205>`__ (偈 205)。
+
+.. [dhp073] 〔Nanda 校註16-02〕 請參《法句經故事集》，十六～五、 `安尼其喬達枯瑪痛失新娘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap16-ciu%zh.rst#dhp-215>`__ (偈 215)。
+
+.. [dhp074] 若能主急止忿，乃是善於調御者，餘則如徒能執韁而不能控制於馬者。
+
+.. [dhp075] 〔明法尊者註17-03〕 住在阿拉維的比丘(Āḷaviko bhikkhu)準備蓋房子，砍伐一些樹木，砍斷樹神的幼孩的手臂，女神原想報復，殺比丘，後來息怒，去見佛陀。佛陀讚嘆她息怒，並告誡比丘不要砍樹。
+
+            〔Nanda 校註〕 請參《法句經故事集》，十七～二、 `比丘和樹神 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap17-ciu%zh.rst#dhp-222>`__ (偈 222)。
+
+.. [dhp076] 〔明法尊者註17-04〕 優陀拉(Uttarā)優婆夷嫁給沒有佛教信仰的富裕人家，因為沒有機會供養佛陀與比丘，悶悶不樂，為了多作供養，聘用半個月女傭幫她執行妻子的責任。有一次女傭看她在笑，忘記她的身份，生起嫉妒，跟她潑一湯匙的熱油，但是她有慈心保護，而毫髮未傷。(DhA.v.223./CS:pg.2.196.ff.)
+
+            〔Nanda 校註〕 請參《法句經故事集》，十七～三、 `慈心保護優它拿不受熱水燙傷 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap17-ciu%zh.rst#dhp-223>`__ (偈 223)。
+
+.. [dhp077] 由身而起的忿怒。
+
+.. [dhp078] 〔明法尊者註17-11〕 231-234偈為世尊跟六位穿著木屐的比丘說的法。六位穿著木屐、拿著木杖的比丘在石板上走動，而製造了噪音。世尊告誡比丘應控制自己的言行舉止。此後，世尊告誡比丘不要穿木屐。
+
+            〔Nanda 校註〕 請參《法句經故事集》，十七～八、 `穿木屐的比丘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap17-ciu%zh.rst#dhp-231>`__ (偈 231~234)。
+
+.. [dhp079] 〔明法尊者註18-05〕 有一次，一位婆羅門看見一群比丘在整裝，準備去托缽。他發現到有的比丘的袈裟碰到草地上的雨露而沾濕了，他就除草。第二天，他發現有的比丘的袈裟碰地而弄髒了，他就用細砂鋪路。某日。大熱天，他發現比丘汗流浹背，他就蓋一座涼亭。下雨天，他發現還是會被雨水淋濕，就蓋一間休息的房舍。房舍蓋好時，他邀請佛陀和眾多比丘接受供養。佛陀說︰「婆羅門啊！有智慧的人一點一滴的完成善行。同時，慢慢地，但持續不斷的去除心中的煩惱。」
+
+            〔Nanda 校註〕 請參《法句經故事集》，十八～二、 `供養聖者的婆羅門 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-239>`__ (偈 239)。
+
+.. [dhp080] 〔Nanda 校註18-01〕 請參《法句經故事集》，十八～三、 `往生成昆蟲的比丘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-240>`__ (偈 240)。
+
+.. [dhp081] 〔明法尊者註18-08〕 有一次，五位在家優婆塞到祇樹給孤獨園去持戒，他們各自守五戒中的一戒，每個人都說自己所守的戒最難做到，最難遵守。因此爭論不休，他們就向佛陀報告他們各自的見解，佛陀說：「所有戒律都難於遵守。」
+
+            〔Nanda 校註〕 請參《法句經故事集》，十八～七、 `守戒不容易 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-246>`__ (偈 246~248)。
+
+.. [dhp082] 〔明法尊者註18-10〕 本句白話翻譯︰「沒有像貪欲的火，沒有像瞋恚的執著，沒有像愚癡的網，沒有像愛欲的河流。」說此本偈的因緣是，有一次佛陀在說法時，五位居士當中有四位沒有專心在聽。這四位沒有專心在聽的人，過去世當過蛇(聽法時打瞌睡)、地下生物(聽法時刮地)、猴子(聽法時搖樹)、星象家(聽法時看天)，因此習性猶在。
+
+            〔Nanda 校註〕 請參《法句經故事集》，十八～九、 `精神不集中的信徒 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-251>`__ (偈 251)。
+
+.. [dhp083] 〔註18-05〕 「格利」（Kali）是一種不利的骰子。
+
+            〔明法尊者註18-11〕 博者 ：satho，賭徒，註疏解釋它為捕鳥者。
+            〔明法尊者註18-12〕 格利 ：Kali，不利於賭客的骰子。
+
+.. [dhp084] 〔明法尊者註18-13〕 跋提城(Bhaddiyanagara)公羊富翁(Meṇḍakaseṭṭhi，meṇḍaka為公羊，因他曾在家中後院發現大堆等身高的金羊雕像，人們因此稱呼他公羊富翁)聽說佛陀來到跋提，就同家人前去見佛陀，在聽完佛陀的說法後，證得初果。公羊富翁告訴佛陀，在他們來時，一些外道批評佛陀，並且試圖說服他不要來。佛陀說：「優婆塞！諸有情對自己的缺點視若無睹，別人沒有缺點認為有，吹毛求疵(原文︰吹開穀物bhusaṁ viya opunantī)。」
+
+            〔Nanda 校註〕 請參《法句經故事集》，十八～十、 `富翁 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap18-ciu%zh.rst#dhp-252>`__ (偈 252)。
+
+.. [dhp085] （以知：）知戒知定知慧。
+
+            〔明法尊者註19-07〕 **以知住此世** ：即了知地行於這(五蘊)世間。知：saṅkhāya(考量)。  (Dhp. 266~267 cf. S.7.20./I,182; 《雜阿含97經》，《別譯雜阿含263經》)
+
+.. [dhp086] 〔Nanda 校註19-04〕 請參《法句經故事集》，十九～七、 `誰才是比丘 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap19-ciu%zh.rst#dhp-266>`__ (偈 266~267)。
+
+.. [dhp087] 下二頌連貫。
+
+.. [dhp088] 〔明法尊者註19-08〕 智者如權衡 ︰智者如持秤般捨惡而取最上(varam指戒.定.慧)。
+
+.. [dhp089]  內界和外界。
+
+            〔明法尊者註19-09〕 兩界 ：Ubho loke，兩種世間，指內.外五蘊。內五蘊指自己的五蘊；外五蘊指其他眾生的五蘊。
+
+.. [dhp090] 〔明法尊者註19-10〕 苦行者在接受供養後，會對布施者說些賜福的話，如：「願你們遠離危險，祝你們興旺，財源滾滾來，願你們長命百歲。」而比丘在接受供養之後，卻默默不語。佛陀證悟以後的前二十年，他們是如此。當時的人就說：「苦行者祝福我們，而敬愛的比丘卻什麼也沒說。」比丘向佛陀反應這件事，佛陀從此要比丘在接受供養後，也要說適如其分的祝福。
+
+            〔Nanda 校註〕 請參《法句經故事集》，十九～八、 `沉默不代表智慧 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap19-ciu%zh.rst#dhp-268>`__ (偈 268~269)。
+
+.. [dhp091] 「四句」--苦 (dukkha)，苦集 (dukkhasamudaya)，苦滅 (dukkhanirodha)，苦滅道 (dukkhanirodha gaaminii pa.tipadaa)。古譯簡稱「苦集滅道」。
+
+.. [dhp092] （離欲：）指涅槃。
+
+.. [dhp093] （具眼：）指佛陀。佛具五眼--肉眼(ma'msa-cakkhu)，天眼 (dibbacakkhu)，慧眼 (pa~n~na-cakkhu)，佛眼 (buddha-cakkhu)，一切智眼 (samanta-cakkhu)。
+
+            〔明法尊者註20-01〕 本句白話︰「所有道中，八聖道最殊勝；所有諦(真理)中，四聖諦最殊勝；所有法中，離欲法(涅槃)最殊勝；所有兩足(人類)中，具眼(佛陀)最殊勝。」
+
+.. [dhp094] （荊棘：） 欲貪瞋癡等。
+
+.. [dhp095] （如來唯說者：）如來僅為說示其道路而已。
+
+.. [dhp096] 斯里蘭卡僧侶有時開會議論重大事情，常以此頌為呼喊的口號。
+
+            〔明法尊者註20-02〕 據說，斯里蘭卡比丘在重大事件會議長呼此句(Dhp. 273 ~276)口號。
+            
+            〔明法尊者註20-03〕 佛陀跟眾多比丘人間遊行之後，又回到舍衛城，眾多比丘回來之後都在討論沿途山勢、路況。佛陀觀察他們證得阿羅漢果的時機成熟。佛陀說︰「諸比丘！你們所談論是外在的道路，名為比丘的應該關注聖道的生起，這樣的話，才能從一切苦解脫出來。」接著佛陀說出此偈(偈 273~276)。
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十～一、 `解脫之道 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-273>`__ (偈 273~276)。
+
+.. [dhp097] （一切行：）一切存在的東西。
+
+            〔明法尊者註20-04〕 一切行無常 ：即一切有為法無常。但不包括概念法與無為法(涅槃)，概念法與無為法都不是無常或苦。
+
+.. [dhp098] 〔明法尊者註20-05〕 慧 ：指觀智，修習禪定，進而觀察微細名色法的無常或苦或無我。
+
+.. [dhp099] 〔明法尊者註20-06〕 本偈說一群比丘到阿蘭若去精進用功，尚未證得阿羅漢果。他（們）去見佛陀想取得業處在繼續用功。佛陀想︰「什麼是適當的？」於是觀察到在迦葉佛時，他們曾經練習過無常相兩萬年，因此，佛陀就以一個偈頌來教導無常相。
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十～二、 `觀無常 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-277>`__ (偈 277)。
+
+.. [dhp100] 〔明法尊者註20-07〕 佛陀說諸蘊有壓迫之苦(paṭipīḷanaṭṭhena dukkhā)，因此說偈。
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十～三、 `諸行皆苦 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-278>`__ (偈 278)。
+
+.. [dhp101] 〔明法尊者註20-08〕 佛陀說︰「諸蘊以無法控制之意稱為無我(avasavattanaṭṭhena anattā)。」因此說偈。
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十～四、 `諸法無我 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-279>`__ (偈 279)。
+
+.. [dhp102] 〔明法尊者註20-09〕 本偈說「精進持法帝沙長老」(Padhānakammikatissatthera)的因緣，舍衛城有五百位良家子出家，除了他一人留下來，其他全部到阿蘭若去禪修。經過一段時間後，他們全都證得阿羅漢果。那位未去禪修的帝沙比丘，後悔曾經浪費時光，他就下定決心，要徹夜禪修。當天晚上在經行幾萬步後，打瞌睡，他不小心在石板上滑倒，跌斷大腿骨。佛陀知道之後，說：「諸比丘！先前不知精進，現在你們有了障礙。」
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十～五、 `精進，莫放逸 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-280>`__ (偈 280)。
+
+.. [dhp103] 三業 ：指身業、語業、意業。
+
+            〔明法尊者註20-11〕 大目犍連尊者有一次和勒叉那比丘下山時，看見一隻三伽浮他(tigāvuta, 約九公里)的豬面人身、悲慘的餓鬼。這時候，大目犍連尊者只是微笑。回到精舍時，勒叉那比丘問尊者，因何微笑？尊者才回答。佛陀在菩提場(證道的地方)，也曾親眼目睹該餓鬼，佛陀說該餓鬼的前世因緣：在迦葉佛時，這餓鬼是一位會說法的比丘。有一次，他到有兩位比丘居住的一處精舍去。停留期間，他發現當地的人歡喜聽他說法，他就想獨佔該精舍，於是分化離間這兩位比丘，使他們爭論不休，終於都離開精舍。因為這惡業，他在死後，長期遭受苦報。
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十～六、 `護持身、口、意 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap20-ciu%zh.rst#dhp-281>`__ (偈 281)。 
+
+.. [dhp104] 〔明法尊者註24-02〕 舍衛城的一群漁夫捕到一條漂亮的金色魚，就把它獻給國王，國王就帶著魚去見世尊。這一條魚張開嘴巴時，口臭難聞，國王問佛陀原因。佛陀說，迦葉佛時，這魚原是一名叫迦毗羅的比丘，由於嫻熟佛法，所以有好名聲，但也因此貢高，瞧不起其他比丘。迦毗羅曾教導佛法，所以具有金色魚身，但是他辱罵其他比丘和法，所以有口臭難聞。最後佛陀告誡大眾要解行並重。
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十四～一、 `口臭的金魚 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-334>`__ (偈 334~337)。
+
+.. [dhp105] 「毗羅那」（Birana）草名。
+
+            〔明法尊者註24-01〕 毘羅 ：Bīraṇa，岩蘭草、須芒草(Andropogon muricatum)。味道帶點青苔 味，屬於越陳越香的精油。原產地印度稱為「Khas-khas」，所謂「鎮定之油」。它能平和心情，穩定情緒，對付緊張，壓力造成的失眠。
+
+.. [dhp106] 〔明法尊者註24-05〕 有一次，佛陀到王舍城托缽時，見到一隻母豬，作了微笑。阿難尊者問因緣，佛陀說︰「這隻母豬在拘留孫佛(Kakusandassa Bhagavato, 這個賢劫的第一尊佛，第二尊為拘那含佛，第三尊為釋迦牟尼佛)時，住在附近的母雞，有機會聽到唱誦毘缽舍那業處的法音，死後成為一位Ubbarī公主，她有一天看到廁所的蛆蟲，生起蟲聚相(puḷavakasaññaṁ)，得到初禪，死亡後投生梵天，又經多次轉生，這一生(因為惡業)，生為豬，這是我微笑的原因。」
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十四～二、 `業報 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-338>`__ (偈 338~343)。
+
+.. [dhp107] （無欲：）涅槃。
+
+.. [dhp108] 此頌保留法舫法師原譯。
+
+.. [dhp109] 指貪著過去、未來及現在的五蘊。
+
+.. [dhp110] 〔明法尊者註24-10〕 有一次，一個雜技團來王舍城表演。有一位名字叫做優迦紳那(Uggaseno)的年輕富 家子在觀賞一位漂亮的女舞者的表演後，愛上她，跟她結婚。婚後，他跟著這戲團到處去，但他只做雜役。因太太的諷刺，他就訓練成為一位傑出的特技演員。後來，雜技團再度回到王舍城表演，優迦紳那出場表演。這時候佛陀透過神通，知道他了解佛法的機緣成熟了。佛陀就進入戲團表演的場地，並且運用神通使觀眾的注意力轉移到他身上，而忘了喝采。優迦紳那心裡不高興。佛陀就告誡他：「優迦紳那！有智慧的人不執著因緣和合的事物，反而精進修行，希望解脫生死輪迴。」優迦紳那就在竹竿上，立刻證得阿羅漢果。然後，他出家。佛陀說優迦紳那出生在迦葉佛的那一世，某日，他和太太布施給一位比丘，並許願：「尊者！願我們能如實知見佛法。」當時，那位阿羅漢比丘以神通觀察未來，發現他們會達成願望，就微笑一下。優迦紳那並不知情，反而輕蔑的說，這比丘像個戲子。由於他的輕浮，才會跟戲班去跑碼頭。
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十四～六、 `特技演員變成聖者 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap24-ciu%zh.rst#dhp-348>`__ (偈 348)。 本故事尚有後篇： 「 `沒有束縛就沒有恐懼 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-397>`__ 」 （二十六～十四）， Dhp. 397
+
+.. [dhp111] 〔明法尊者註25-01〕 五位比丘各自調伏五根的一根，他們自自己調伏的那一根最難修。佛陀說，每一根同樣都難修。(Dhp. 361 cp. Dhp. 189) (cp. S.3.5./I,73; 《雜阿含1229經》，《別譯雜阿含56經》)
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十五～一、 `比丘應該調伏五根 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-360>`__ (偈 360~361)。
+
+.. [dhp112] 〔明法尊者註25-02〕 有一位比丘善於投擲石頭，能準確命中。有一天，他投擲一隻大雁鳥，該雁墮落後喪命。同伴目睹後，向佛陀報告。佛陀因此說了此偈。
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十五～二、 `比丘殺死大雁鳥 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-362>`__ (偈 362)。
+
+.. [dhp113] 〔明法尊者註25-05〕 佛陀一位弟子跟提婆達多的一位弟子友好，這位比丘在提婆達多謀害佛陀不成之後，還去提婆達多的精舍住幾天。有人向佛陀報告這位比丘的行徑。這位比丘辯稱他沒有接受提婆達多的教義。佛陀告誡他，即使這樣，別人也會誤會是他的同黨。
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十五～五、 `比丘應該知足 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-365>`__ (偈 365~366)。
+
+.. [dhp114] 〔明法尊者註25-06〕 一位「五上施者」婆羅門(Pañcaggadāyaka)很不好意思供養佛陀已吃過一部分的米飯，佛陀說︰剩飯無所謂。五上施者問佛陀如何定義「比丘」。佛陀以偈頌回答。
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十五～六、 `所有供養品都一樣 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-367>`__ (偈 367)。
+
+.. [dhp115] 〔明法尊者註25-07〕 **住於慈悲** ︰mettāvihārī慈住。DhpA.︰慈業處的作業，住於慈，生産第三禪、第四禪(tikacatukkajjhāne，按︰阿毘達摩的分類方式為五禪)。
+
+.. [dhp116] 〔明法尊者註25-11〕 大迦旃延尊者(Mahākaccāna)在阿盤提國(Avantijanapade)的拘盧城( Kuraraghara)附近弘法時，有一位輸屢那優婆塞(Soṇo Koṭikaṇṇo)跟他出家。輸屢那比丘出家三年後，要到竹林精舍，經過家鄉，她母親以他的名義籌備大佈施會，請他在佈施會中做開示。說法當中，有一群小偷闖入她母親的家，女僕三度來通知她的母親，但是她母親不再乎錢財被拿走，她要聽法。她母親說的話被坐在附近的首領聽到，首領以為拿走這位有智慧，且高貴的女士的錢一定會被懲罰。當輸屢那比丘說法完畢已經是破曉，小偷首領率領手下向她的母親認錯，請求原諒。這群小偷明白他們的惡行之後，就出家為比丘。 (Dhp. 375 cp. Dhp. 185 )
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十五～七、 `虔誠的女士和小偷 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-368>`__ (偈 368~376)。
+
+.. [dhp117] 彼岸為內六處 (Ajjhattikaani cha aayatanaani)--眼、耳、鼻、舌、身、意。此岸為外六處 (Baahiraani cha aayatanaani)-- 色、聲、香、味、觸、法。不著我與我所，故說彼無內外六處。
+
+            〔明法尊者註26-05〕 無彼岸此岸 ：DhA： pāranti ajjhattikāni cha āyatanāni. Apāranti bāhirāni cha āyatanāni. Pārāpāranti tadubhayaṁ.( 彼岸 ：自我身內的六處(眼.耳.鼻.舌.身.意)。 非彼岸 ：外部的六處(色.聲.香.味.觸.法)。) 不著彼岸.此岸，故說無彼岸此岸。
+
+.. [dhp118] （離苦：）原文 dara 亦可譯作「怖畏」。
+
+            〔明法尊者註26-06〕 苦 ：dara，亦作「怖畏」。
+
+.. [dhp119] 〔明法尊者註26-07〕 魔王問佛陀：「世尊！您說彼岸、彼岸(pāraṁ pāranti)。彼岸是什麼意思？」佛陀對他說：「啊！惡魔！彼岸跟你無關。離染才能到達彼岸。」
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十六～三、 `何處是彼岸 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-385>`__ (偈 385)。
+
+.. [dhp120] 〔明法尊者註26-09〕 某年的七月的自恣日(月圓日)，在鹿母講堂(Migāramātupāsāde)，波斯匿王一身盛裝，前來向佛陀問訊。當時，坐在大眾邊緣的迦留陀夷長老(Kāḷudāyitthero)也正入深定中，發出金黃色光。太陽正在下山，而月亮也正要出來，在天邊放光芒。阿難尊者看見佛陀身上的光輝，遠比其它的光芒更耀眼。阿難跟佛陀行禮後，說：「大德！你身上綻放出來的光輝勝過所有的光。」佛陀回答阿難：「太陽白天放光；月亮晚上放光；國王的裝飾亮麗；捨斷煩惱(khīṇāsave)的僧團，及入三摩缽地耀眼；諸佛日夜都綻放五種光輝。」 (cf. S.21.11./ ii284)
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十六～五、 `佛陀的榮耀 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-387>`__ (偈 387)。
+
+.. [dhp121] 〔明法尊者註26-38〕 住王舍城的婆耆舍婆羅門，他只要摸死人的骨骸，就能判斷該人究竟往 生何處。有一次，他同一夥人到精舍去見佛陀，佛陀知道來意之後，吩咐一比丘準備往生地獄、畜生、人間、天界的四付骨骸，同時也準備了一位阿羅漢的骨頭。婆耆舍正確判斷前四付骨頭的主人往生處，但最後一付骨頭卻難倒他。佛陀便說：「婆耆舍！怎麼了，不知道了吧！」婆耆舍請求佛陀教導他。佛陀建議他先出家，才教導他。婆耆舍成為比丘後，佛陀教他觀想三十二種身體成分。他遵照指示，努力禪修，不久之後，就證得阿羅漢果。 (Dhp. 419 cp. Dhp. 385) (=Sn.643); (Dhp. 420 cp. Dhp. 385) (=Sn.644)
+
+            〔Nanda 校註〕 請參《法句經故事集》，二十六～三十七、 `摸骨專家婆耆舍 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-419>`__ (偈 419~420)。
+
+.. [dhp122] 〔明法尊者註26-45〕 前生︰Pubbenivāsaṁ，宿命。
+
+.. [dhp123] 〔明法尊者註26-46〕 本偈因天福婆羅門(Devahitabrāhmaṇa)而說。某時，世尊因胃腸病(vātarogena ābādhiko, vāta m.風 + roga m.病 = 胃腸病)，吩咐優波那長老(Upavāṇatthera)向天福婆羅門化緣熱水，天福婆羅門就供養熱水與糖蜜。之後，天福婆羅門問佛陀︰「供養什麼人的功德最大？」佛陀就說此偈。S.7.13.後半段不同：「若了知宿命，見天界惡趣，達生命滅盡，圓通力牟尼；此應施施法，此施有大果，如是而供奉，如是施繁榮。」 (cp. Dh385) (cp. Sn.647)
+
+            S.7.13.說：“Pubbenivāsaṁ yo vedī, saggāpāyañca passati; Atho jātikkhayaṁ patto, abhiññāvosito muni. “Ettha dajjā deyyadhammaṁ, ettha dinnaṁ mahapphalaṁ. Evañhi yajamānassa, evaṁ ijjhati dakkhiṇā”ti.(若了知宿命，見天界惡趣，達生命滅盡，圓通力牟尼；此應施施法，此施有大果，如是而供奉，如是施繁榮。) 可參： `相應部7相應13經/提婆西多經(婆羅門相應/有偈篇/祇夜)(莊春江譯) <http://agama.buddhason.org/SN/SN0199.htm>`__
+
+            〔Nanda 校註〕 請參《法句經故事集》，四十、 `天作的供養 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap26-ciu%zh.rst#dhp-423>`__ (偈 423)。 
+
+.. [dhp-cf] `白話文版 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__  ， 敬法 法師 譯，第二修訂版 2015 。 
+
 .. [mprnbn00] 另請參考 參考資訊_ 中之 大般涅槃經參考資訊_ 。 
 
 ..
+  2021-02-24 add Dhp. selected with details
   2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
   2019-02-06 post
   draft 12-05

@@ -3,7 +3,7 @@
 ================
 
 :date: 2019-02-06
-:modified: 2021-02-04
+:modified: 2021-02-24
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著,  Nanda 編譯
 :tags: 無我論, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
@@ -455,7 +455,7 @@
            | 第二七八偈：　『一切行是苦』，以慧觀照時，得厭離於苦，此乃清淨道。
            | 第二七九偈：　『一切法無我』，以慧觀照時，得厭離於苦，此乃清淨道。
            | 
-           | 另可參考多譯本對讀： `第二七七偈 Dhp 277 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-readingdhp-contrast-reading-chap20%zh.rst#dhp277>`_ ， `第二七八偈 Dhp 278 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-readingdhp-contrast-reading-chap20%zh.rst#dhp278>`_ ， `第二七九偈 Dhp 279 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-readingdhp-contrast-reading-chap20%zh.rst#dhp279>`_ 。 
+           | 另可參考多譯本對讀： `第二七七偈 Dhp 277 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#dhp277>`_ ， `第二七八偈 Dhp 278 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#dhp278>`_ ， `第二七九偈 Dhp 279 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst#dhp279>`_ 。 
 
 .. [註6-13] 十三：五蘊中的行蘊，是指「心的造作」或「心志的活動」，能產生業果。但此處的文字，乃指一切緣成的或複合的事物，包括所有五個蘊在內。所以，「行」( *saṃkhāra* )字在不同的章句，有不同的釋義。
 
@@ -1204,6 +1204,7 @@
 .. [註6-nd01] Nanda 註： MN 22: Alagaddūpama Sutta, 中部 22 , `蛇喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=203>`__ （香港．蕭式球 譯）， `蛇譬喻經 <http://agama.buddhason.org/MN/MN022.htm>`__ （臺灣．莊春江 譯）；巴利(Pāḷi) 原典， `PTS 版 <http://www.accesstoinsight.org/tipitaka/sltp/MN_I_utf8.html#pts.130>`__ 、 `Chaṭṭha Saṅgāyana, VRI 版 <http://www.tipitaka.org/romn/cscd/s0201m.mul2.xml>`__ ； 對照之阿含經典及其他： `中阿含200經 <http://www.cbeta.org/cgi-bin/goto.pl?linehead=T01n0026_p0763b01>`__ ，中阿含經卷第五十四，（二〇〇）大品 阿梨吒經 第九(第五後誦), MA 200、《增壹阿含經》43.5船筏(大正2.759.)。其他可詳參： `Majjhima-nikāya 巴利大藏經 經藏 中部 <{filename}/articles/tipitaka/sutta/majjhima/majjhima-nikaaya%zh.rst#mn22>`__
 
 ..
+  02-24 rev. correct the linkings of Dhp.
   2021-02-04 完成補充註釋中之經論出處
 
            | Duve saccāni akkhāsi, sambuddho vadataṃ varo;
