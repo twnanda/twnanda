@@ -3,7 +3,7 @@
 ====================================================================================================
 
 :date: 2021-01-24
-:modified: 2021-02-27
+:modified: 2021-03-09
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 第九：惡品（《法句經》, Dhammapada, Pāpavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
@@ -614,7 +614,7 @@ Dhp. 126
 | 　若能修善者，漏盡得涅槃。」(CBETA, T04, no. 213, p. 777, b27-28)
 | 
 
-梵文《法句經》對應偈頌位於〈28 惡品〉，Uv 28.9。
+梵文《法句經》無對應偈頌。
 
 -----
 
@@ -826,6 +826,7 @@ https://www.facebook.com/groups/491306231038114/permalink/1765448953623829
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  03-09 rev. Dhp. 126, proofread by the author-- Ken Su
   02-27 rev. correct typo & 原貼：書房夜話 400 ...
   02-24 finish editing
   2021-01-24 create rst
