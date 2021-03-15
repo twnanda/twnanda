@@ -3,12 +3,12 @@ The Source of Great Sufferings
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-11-05
+:modified: 2021-03-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Source of Great Sufferings (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2021-03-15
 
 ------
 
@@ -22,7 +22,7 @@ When the desire to sleep arises, it becomes I want to sleep. Don’t mix with th
 
 If you know them as such, it becomes insight for dispelling wrong view. This is not the insight of anicca and dukkha, but a person or a being disappears. I’ll dispel your doubt later. Now it's still in the stage of dispelling the identity view. It still needs to dispel eternal view and view of annihilation. 
 
-Note these points carefully. Only a Buddha had arisen into this world and had the chances to hear about it (Except a Buddha, nobody can teach them. Therefore, wrong views are very deep rooted in every living being. Therefore, the Buddha said the permanent homes of living beings were woeful planes). 
+Note these points carefully. Only a Buddha had arisen into this world and had the chances to hear about it (Except a Buddha, nobody can teach them. So, wrong views are very deep rooted in every living being. Therefore, the Buddha said the permanent homes of living beings were the woeful planes).
 
 If you are making something which is not me as me and it’ll connect things. How does it connect? You are making other things as my son, my wife, etc. The disease of wrong views will develop. You are thinking the arising phenomenon is me and the other thing as mine. Note them seriously. 
 
@@ -57,7 +57,7 @@ There is no me but you take it as me and falling into there (hells). But you are
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=36033#p36033 (posted on 2019-02-26)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=36033#p36033 (posted on 2019-02-26)
 
 ------
 
@@ -76,5 +76,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-28  create rst; post on 04-28

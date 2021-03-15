@@ -3,12 +3,12 @@ The Last Teaching of the Buddha
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-09-12
+:modified: 2021-03-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Last Teaching of the Buddha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-09-12
+revised on 2021-03-15
 
 ------
 
@@ -25,6 +25,9 @@ After the Buddha had passed away, the following verses were recited by Sakka (Ki
 (In most of his talks, Sayadaw never translated the Pali, word by word. He took the main points for teaching. Here Sayadaw made a very important point of the last day of the Buddha. The Buddha reminded the monks on practice and Sakka pointed out the end of the practice, i.e., Nibbāna). 
 
 Sakka was already a sotāpanna. So, he talked about followed to the end of the saṅkhāra dhamma. But most of you, after a person dies and say it’s saṅkhāra dhamma. So, it’s unstable and use it for reflection on death (maraṇānussati). 
+
+[This point is true in Thai tradition. Thai monks always chant these verses in
+funerals.]
 
 The right place to use is in one’s own khandha. You have to use it for yourself when still alive. It is not for after death. At the end of saṅkhāra is Nibbāna exists (He explained the saṅkhāra dhamma had the nature of vanishing. By clapping two hands and sound arose and vanished.) In a being whole life and the whole of saṁsāra was with conditioning and vanishing. 
 
@@ -52,7 +55,7 @@ The five khandha disappear and Nibbāna appears. Condense the whole teaching; th
 
 ------
 
-revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35769#p35769 (posted on 2019-01-14)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35769#p35769 (posted on 2019-01-14)
 
 ------
 
@@ -71,5 +74,6 @@ revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   09-12 rev. proofread by bhante
   2019-04-23  create rst; post on 04-28

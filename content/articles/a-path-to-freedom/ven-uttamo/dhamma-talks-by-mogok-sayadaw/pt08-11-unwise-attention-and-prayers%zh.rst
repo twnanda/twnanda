@@ -3,12 +3,12 @@ Unwise Attention and Prayers
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-10-02
+:modified: 2021-03-15
 :tags: Attention, Prayers, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Unwise Attention and Prayers (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-10-02
+revised on 2021-03-15
 
 ------
 
@@ -16,7 +16,7 @@ Dhamma Talks by Mogok Sayadaw; 4th June 1962
 
 [This was a heart touching talk by Sayadaw because he knew himself would pass away very soon. Within three months most of his talks during these periods was at Mogok and also his last visit. He urged and encouraged his disciples with great compassion and concern for their practices. Gave a lot of saṁvega talks here. In this talk one’s really feel his compassion and metta even it makes the listeners become sad. 
 
-He said, we were born and had the chances to free ourselves from dukkha because of the dhamma. But what were we doing? Mostly for worldly concerns and it was adhamma (not dhamma). He warned them the Buddha’s words. Once the Buddha took a few pieces of earth placed on his finger nail and said to the monks. If these pieces of earth fell to the ground and it would never get back on the nail. 
+He said, we were born and had the chances to free ourselves from dukkha because of the Dhamma. But what were we doing? Mostly for worldly concerns and it was adhamma (not Buddha Dhamma). He warned them the Buddha’s words. Once the Buddha took a few pieces of earth placed on his finger nail and said to the monks. If these pieces of earth fell to the ground and it would never get back on the nail.
 
 In the same way, if a human being fell into dugati (painful birth) would difficult to get back sugati (blissful birth). He mentioned another simile of a blind turtle living under a deep ocean and a yoke with a hole floating in the ocean. This blind turtle every hundred years emerged once on to the surface. 
 
@@ -44,7 +44,7 @@ Then you get the eye of right view — sammā-diṭṭhi eye. (From here to Nibb
 
 If you live in the adhamma way D. A. process continues (adhamma-not the way of Dhamma. Here Dhamma means in accordance with the Buddha’s Dhamma). And live with Dhamma and the D. A. process is cutting off. Now, with this adhamma of dosa is following with sorrow (soka) (For example: This is the moment when parents have displeasure with their children). 
 
-Children are not the problem, but parents are going to the apāya (planes of misery). People not listening and practicing dhamma in this present life become adhamma. And they are going around among the woeful planes in saṁsāra. We arrived at this human world with wholesome dhammas. After arriving but doing adhamma, we will lose our capitals (i.e., our wholesome kammas become fruitless in this life). 
+Children are not the problem, but parents are going to the apāya (planes of misery). People not listening and practising Dhamma in this present life become adhamma. And they are going around among the woeful planes in sa ṁsāra. We arrived at this human world with wholesome dhammas. After arriving but doing adhamma, we will lose our capitals (i.e., our wholesome kammas become fruitless in this life).
 
 The Buddha gave some similes for the loss (The similes of earth on the finger nail and a blind turtle in the ocean). So, the Buddha warned you on the value of your human life. From the human life you can go to Nibbāna and not from the apāyabhūmi (continued to talk the Bhūmija Sutta). The matter of realization of Nibbāna depends on wise/right attention. Originally nobody is right. It needs the help of a teacher. It’s a very important matter to have wise attention on the khandha. 
 
@@ -72,7 +72,7 @@ When it happens and at the same time all the changing and perishing disappear. (
 
 ------
 
-revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35948#p35948 (posted on 2019-02-15)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35948#p35948 (posted on 2019-02-15)
 
 ------
 
@@ -91,5 +91,6 @@ revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   10-02 rev. proofread by bhante
   2019-04-25  create rst; post on 04-28

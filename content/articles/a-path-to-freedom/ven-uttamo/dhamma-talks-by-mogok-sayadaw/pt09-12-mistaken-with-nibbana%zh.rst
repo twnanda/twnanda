@@ -3,12 +3,12 @@ Mistaken with Nibbāna
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-12-02
+:modified: 2021-03-15
 :tags: Nibbāna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Mistaken with Nibbāna (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2021-03-15
 
 ------
 
@@ -16,7 +16,7 @@ Dhamma Talks by Mogok Sayadaw; 4th to 5th October 1962
 
 [Sayadaw gave these two talks on ten insight corruptions connected with Nibbāna. It was two weeks before his passing away. Round about three months before he delivered a talk on the qualities of a Stream Enterer in Mogok for the last day there. He knew himself he would not come back again. All these were checking for oneself in practice. 
 
-Sayadaw gave an example of fake gold taking the place of real gold in daily use by most people. And it became popularity. He mentioned two kinds of counterfeit dhammas; i.e., theory and practice — pariyatti and paṭipatti. We can find these in some Budhists. ]
+Sayadaw gave an example of fake gold taking the place of real gold in daily use by most people. And it became popularity. He mentioned two kinds of counterfeit dhammas; i.e., theory and practice — pariyatti and paṭipatti. We can find these in some Buddhists. ]
 
 ------
 
@@ -98,7 +98,7 @@ You have to contemplate the impermanence of the arising counterfeit dhamma. Or n
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35995#p35995 (posted on 2019-02-21)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35995#p35995 (posted on 2019-02-21)
 
 ------
 
@@ -117,6 +117,7 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   12-02 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-27  create rst; post on 04-28

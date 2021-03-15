@@ -3,12 +3,12 @@ The Creator: The Deceitful Mind
 ==========================================
 
 :date: 2019-05-01
-:modified: 2020-06-15
+:modified: 2021-03-15
 :tags: The Creator, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Creator: The Deceitful Mind (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-06-15
+revised on 2021-03-15
 
 ------
 
@@ -88,7 +88,7 @@ This is the medicine of the Buddha. Anger and displeasure (dosa and domanassa) w
 
 Without taṇhā arising, whoever could contemplate the ending of feeling would realize Nibbāna. (For this point, Sayadaw recited the Pali in the Khandhavagga Saṁyutta).
 
-Taṇhā will arise and continue the D.A. process if you can’t contemplate painful feeling and want it to go away. If you don’t contemplate; avijjā saṅkhāra arises. (losting sati). If you want it to go away; and taṇhā upādāna arises.
+Taṇhā will arise and continue the D. A. process if you can’t contemplate painful feeling and want it to go away. If you don’t contemplate; avijjā and saṅkhāra arise (by losing sati). If you want it to go away; and taṇhā upādāna arises.
 
 Then, there is no security for the body and you have to go to the planes of misery. At anytime, you can do vipassanā if you can contemplate whatever arising. It becomes medicine if you know how to use it. Whereas it’s for dangers if you don’t. (It becomes poison.)
 
@@ -102,7 +102,7 @@ You are not only concern for your body door but also for your wife and children.
 
 If you can’t close your body door and it’ll torment you wherever you are. You have to look after it and still have to fall into the planes of misery. People suffer in hell because they have the bodies. People are hungry because of the body. The sufferings coming from the body door are incalculable and no ending about it.
 
-Whoever can make this body not exists is truly happy. People are doing merits for long life, healthy and (fortunes) in next life. Not including of the realization of Nibbāna. They are just for the sake of the physical body. They are still not having enough for the oppression in this life. 
+Whoever can make this body not exists is truly happy. People are doing merits for long life, healthy and fortunes in next life but not including of the realization of Nibbāna. They are just for the sake of the physical body. They are still not having enough for the oppression in this life.
 
 Therefore they are looking for more oppression in next life. Isn’t it too much? You don’t understand the body very well. If you can contemplate the body as anicca, dukkha, anatta and asubha a lot, and do you still have the body to torment you? And you’ll be in peace and happiness. What I am talking about the body door is still little.
 
@@ -116,7 +116,7 @@ Mind base (manāyatana) exists in the heart base (hadayavatthu).
 
 The mind base is in the blood of the heart (neither the heart nor the blood). The Buddha not mentioned a specific place for it. One teacher had suggested two possibilities; the heart area and the brain. We feel it at the heart if we have emotions. We are scratching the head if we think something] 
 
-There are three causes for mind consciousness arise; mind base, the mirror of mano dvara turning towards mental objects and then thoughts can arise. Thoughts can arise by three causes: mental object (dhammarammana) + mind base + attention. 
+There are three causes for mind consciousness arise; mind base, the mirror of mano dvara turning towards mental objects and then thoughts can arise. Thoughts can arise by three causes: mental object (dhammarammana) + mind base + attention.
 
 If you turn the mind base towards the past, present and future mental objects and thoughts arise. If you are turning it towards the objects in the safe even can’t see it and still will appear to you. Therefore mind consciousness is the sharpest one. 
 
@@ -190,7 +190,7 @@ Therefore, there is no mind and no form made by it in Nibbāna. Without the mind
 
 ------
 
-revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36084#p36084 (posted on 2019-03-08)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36084#p36084 (posted on 2019-03-08)
 
 ------
 
@@ -209,6 +209,7 @@ revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   2020-06-13 rev. old: the mirror of mano dvara truing towards mental objects; proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-29  create rst; post on 05-01

@@ -3,16 +3,16 @@ Practical Knowledge of Dukkha
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-08-12
+:modified: 2021-03-15
 :tags: dukkha, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Practical Knowledge of Dukkha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-08-12
+revised on 2021-03-15
 
 ------
 
-Dhamma Talks by Mogok Sayadaw; 29th ,30th June, 1st July 1961
+Dhamma Talks by Mogok Sayadaw; 29th & 30th June (morning and evening) 1961, 1st July 1961
 
 [Sayadaw gave four talks on Kicca Ñāṇa connection to the four functions of Dukkha Sacca; Pīḷanaṭṭha (oppressive), Saṅkhatatha (conditioning), Santāpatha (burning) and vipariṇāmatha (changing)]
 
@@ -46,7 +46,7 @@ It is bhāvetabba by contemplation with magga sacca for many times on the oppres
 
 ------
 
-T2
+T2 (morning talk)
 
 In Sacca Dhamma; Sacca is truth and Dhamma also is truth. There is nothing truer than that. Other dhammas can be said as not truth. It will give you the result at some-time if you have done dāna (giving). But if other unwholesome dhamma comes in and destruct, it will not give the result. 
 
@@ -68,6 +68,9 @@ For example, seeing consciousness arises. Seeing consciousness is the wound with
 
 Do you still desire these kinds of eyes? Taṇhā, upādāna and kamma not arise. The four truths are including in the Kicca Ñāṇa. So, just contemplate impermanence. Even you don’t know about them and all four truths are including in it. 
 
+
+T3 (evening talk)
+
 The Buddha said that he was realizing enlightenment by knowing the causes of the arising of living beings and the cessation of them. It’s the arising of ignorance and the cessation of it. Today I’ll talk about the Kicca Ñāṇa of Santāpatha — Burning with kilesa fire. Dukkha Sacca of the khandha is always burning with kilesa. Beings are always burning with the kilesa fire (see the Fire Discourse to the Kassapa’s brothers of fire worshipping ascetics, SN.35.28 Ādittasuttaṃ). 
 
 Mind/body are burning with fire. This khandha is burning with 11 kinds of fire (lust — raga, hatred — dosa, delusion — moha, birth — jāti, ageing — jarā, death — maraṇa, sorrow — soka, lamentation — parideva, pain — dukkha, grief — domanassa, despair — upāyāsa). 
@@ -79,6 +82,9 @@ Is there any dhamma not vanishing in the khandha? Contemplate every arising and 
 After that you don’t see any function of the burning process. The function of burning with fire is gone. This is seeing Nibbāna, the fuels (khandhas) are consumed and fire (kilesas) extinguished. It’s Kata Ñāṇa. 
 
 Mind and body are not arising as before is the fuels are consumed. Craving and clinging are not following after is the fire extinguished. Kicca Ñāṇa is seeing the fuels and fire are burning. In the Saṃyutta Nikāya the Buddha said; “If someone gets Kicca Ñāṇa and Nibbāna is near to him.”
+
+
+T4
 
 Arriving to the hell and the hell fire there is so strong that it nearly blinds the eyes. By hearing the crying of the hell beings and ears are nearly deaf. The smell there is also so terrible that the nose nearly falling off. The hell foods and drinks go into the mouth are burning the small and large intestines and falling out at the bottom. The clothes in the hell are touching the body also burn it down. 
 
@@ -98,7 +104,7 @@ The arising and vanishing are the functions (Kicca) of the mind/body process. Th
 
 ------
 
-revised on 2019-08-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35737#p35737 (posted on 2019-01-11)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35737#p35737 (posted on 2019-01-11)
 
 ------
 
@@ -117,6 +123,7 @@ revised on 2019-08-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   08-12 rev. proofread by bhante
   2019-01-13  create rst
   https://mogokdhammatalks.blog/

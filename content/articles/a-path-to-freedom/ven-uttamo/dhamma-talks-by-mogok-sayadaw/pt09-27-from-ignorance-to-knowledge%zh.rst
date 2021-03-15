@@ -3,12 +3,12 @@ From Ignorance to Knowledge
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-11-05
+:modified: 2021-03-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: From Ignorance to Knowledge (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2021-03-15
 
 ------
 
@@ -36,7 +36,7 @@ Therefore, vipassanā is cutting off one’s bad causes by oneself. This dhamma 
 
 For example, Tin Hla has a cough because of the cold. Giving heat to the body, the cold disappears, no cough anymore (Daw Tin Hla was U Kyaw Thein’s wife. Both were Sayadaw’s close disciples). Present khandhas continue to arise are the causes of avijjā, saṅkhāra, taṇhā, upādāna, kamma of the past life. 
 
-With the vipassanā contemplation to these continuous arising khandha and not let the causes, taṇhā, upādāna, and kamma, for the future khandhas to arise. I am asking you to cut off the causes (the past and the present causes). The past causes are section of avijjā, saṅkhāra. The present cases for future are section of taṇhā, upādāna, and kamma. 
+With the vipassanā contemplation to these continuous arising khandha and not let the causes, taṇhā, upādāna, and kamma, for the future khandhas to arise. I am asking you to cut off the causes (the past and the present causes). The past causes are section of avijjā, saṅkhāra. The present causes for future are section of taṇhā, upādāna, and kamma.
 
 The knowledge of contemplation of impermanence kills the causes. You are ending your own kamma. This is for someone who knows it, called a knowledgeable person. For someone not know is running in circle — an ignorant person. Making avijjā to become vijjā — ignorance becomes knowledge. 
 
@@ -48,7 +48,7 @@ People not practice and connecting dukkha one by one in infinity. Vipassanā mea
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=36038#p36038 (posted on 2019-02-26)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=36038#p36038 (posted on 2019-02-26)
 
 ------
 
@@ -67,5 +67,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-28  create rst; post on 04-28

@@ -3,12 +3,12 @@ A Poisonous Snake
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-07-25
+:modified: 2021-03-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: A Poisonous Snake (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-07-25
+revised on 2021-03-15
 
 ------
 
@@ -22,7 +22,7 @@ It’s craving (taṇhā). Taṇhā is a good preacher. By its teaching you crea
 
 Because of the fire element don’t have the chance of happiness. It’s terrible. Every day you have to request aging and sickness with foods and drinks. In this way to have a human life is without the dignity. For sickness you have to request with medicines. For King of the Death you can’t do anything for him. You have to go into the coffin. You have to feel your body very often (for fire element). 
 
-And then remind yourself that King of the Death is in the khandha and practice hard (Here Sayadaw’s talk was humorous). Feeling the body and looking for liberation. You handle it with mindfulness practice (satipaṭṭhāna). There are two ways you can choose from the king of the Death: the way to death and the way of liberation. But you all are enthusiastically following the way of death. 
+And then remind yourself that King of the Death is in the khandha and practice hard (Here Sayadaw’s talk was humorous). In this talk, I am asking you to f eel your body and look for liberation. You handle it with mindfulness practice (satipaṭṭhāna). There are two ways you can choose from the king of the Death: the way to death and the way of liberation. But you all are enthusiastically following the way of death.
 
 (continued Susīma’s story). Of the five khandhas, whatever arises, follow the impermanence. When impermanence is ending, the khandha is also disappearing. With khandha disappears and King of the Death also disappears. 
 
@@ -30,7 +30,7 @@ Without King of the Death is Nibbāna. Therefore going to a place free from the 
 
 ------
 
-revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35714#p35714 (posted on 2019-01-10)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35714#p35714 (posted on 2019-01-10)
 
 ------
 
@@ -49,6 +49,7 @@ revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   07-25 rev. proofread by bhante
   2019-01-13  create rst
   https://mogokdhammatalks.blog/

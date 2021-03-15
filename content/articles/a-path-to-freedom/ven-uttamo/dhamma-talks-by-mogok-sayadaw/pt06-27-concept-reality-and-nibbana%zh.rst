@@ -3,14 +3,14 @@ Concept, Reality and Nibbāna (ver. 2)
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-08-12
+:modified: 2021-03-15
 :tags: Reality, Nibbāna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Concept, Reality and Nibbāna (ver. 2) (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-**[Translator's NOTE: This was already translated in group 2** (`part2-10 <{filename}pt02-10-concept-reality-and-nibbana%zh.rst>`_) **, but you can choose one of them.]**
+**[Translator's NOTE: This was already translated in group 2** (`part2-10 <{filename}pt02-10-concept-reality-and-nibbana%zh.rst>`_) **.]**
 
-revised on 2019-08-12
+revised on 2021-03-15
 
 ------
 
@@ -46,7 +46,7 @@ People are praying for Nibbāna is without knowing about it. There is a place wi
 
 ------
 
-revised on 2019-08-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35761#p35761 (posted on 2019-01-14)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35761#p35761 (posted on 2019-01-14)
 
 ------
 
@@ -65,5 +65,6 @@ revised on 2019-08-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   08-12 rev. proofread by bhante
   2019-04-23 create rst; post on 04-28

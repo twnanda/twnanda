@@ -3,12 +3,12 @@ How to Pay Your Debts?
 ==========================================
 
 :date: 2019-04-28
-:modified: 2020-03-01
+:modified: 2021-03-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: How to Pay Your Debts? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-03-01
+revised on 2021-03-15
 
 ------
 
@@ -38,7 +38,7 @@ The four D. A. processes of taṇhā, dosa, māna and diṭṭhi from the six se
 
 There are more than that (These things are becoming more clear by understanding the D. A. processes. Only by studying the suttas in the Pali Nikāyas understand the dangers of saṁsāra). These kammas will make the khandhas (taṇhā, dosa, māna, diṭṭhi arise from the six senses doors). 
 
-Therefore how do you repay for them? You have to repay it with the khandhas. So, I had been told you very often that you were coming here for a visit. Later went back to you permanent places (i.e., four woeful planes). All these things have to be decided with the D. A. processes. Not with you sīla. These khandha debts can be only repaid with vipassanā knowledge and the Path Knowledge. 
+Therefore how do you repay for them? You have to repay it with the khandhas. So, I had been told you very often that you were coming here for a visit. Later went back to you permanent places (i.e., four woeful planes). All these things have to be decided with the D. A. processes and not with your sīla. These khandha debts can be only repaid with vipassanā knowledge and the Path Knowledge.
 
 Even in this life time your kammic debts are not few. Also the kammas of the past lives are waiting for the chances to give the results. It’s like this example; someone has million dollars in debt. But he is an ordinary worker. Can he pay back his debts? The Buddha arose in this world for this purpose. 
 
@@ -54,7 +54,7 @@ Later you can do other things which are not important. It you die earlier before
 
 ------
 
-revised on 2020-03-01; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35851#p35851 (posted on 2019-01-18)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35851#p35851 (posted on 2019-01-18)
 
 ------
 
@@ -73,6 +73,7 @@ revised on 2020-03-01; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   2020-03-01 rev. while editing PDF
   09-12 rev. proofread by bhante
   2019-04-24  create rst; post on 04-28

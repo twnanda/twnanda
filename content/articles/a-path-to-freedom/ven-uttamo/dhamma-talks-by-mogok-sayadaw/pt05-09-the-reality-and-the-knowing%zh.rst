@@ -3,12 +3,12 @@ The Reality and the Knowing
 ==========================================
 
 :date: 2019-01-13
-:modified: 2020-03-24
+:modified: 2021-03-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: The Reality and The Knowing (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-07-25
+revised on 2021-03-15
 
 ------
 
@@ -75,11 +75,11 @@ Contemplation of the mind
 1. breathing in mind and 2. breathing out mind (2 host minds)
 The two host minds are the primary objects for contemplation. You have to contemplate them if other minds (all the guest minds) are arising. 
 
-I’ll give you the contemplation of mind. Whatever you are seeing mind conscious ness arises. Hearing and hearing consciousness, smelling and smelling consciousness, tasting and tasting consciousness arises respectively. They are arising here and passing away here. 
+I’ll give you the contemplation of mind. Whatever you are seeing mind consciousness ness arises. Hearing and hearing consciousness, smelling and smelling consciousness, tasting and tasting consciousness arises respectively. They are arising here and passing away here. 
 
 In the physical body there are itches, pains, etc. regarding to the unpleasant sensation with the knowing of the unpleasant physical phenomena; also regarding to the pleasant sensations with the knowing of the pleasant physical phenomena. 
 
-(So regard to the physical body two types of knowing consciousness) There are totally six consciousnesses. They only arise sometime. Therefore these are external guest minds. Sometimes consciousness can arise as lobha, dosa, moha, alobha and adosa from the mind base. All these five minds are internal guest minds; not including non-delusion (amoha) because they are the contemplating mind (5 maggaṅgas).
+(So regard to the physical body two types of knowing consciousness. But as bodily consciousness is one only.) There are totally five consciousnesses. They only arise sometime. Therefore these are external guest minds. Sometimes consciousness can arise as lobha, dosa, moha, alobha, adosa and thinking minds. All these six minds are internal guest minds; not including non‐delusion (amoha) because they are the contemplating mind (five maggaṅgas).
 
 There are two host minds always exist; breathing in and breathing out minds. Therefore, in contemplation of mind, totally 13 types of mind have to be contemplated. Contemplate with amoha; i.e., the five maggaṅgas. If you are discerning the passing away, the five maggaṅgas arise naturally.
 
@@ -140,7 +140,7 @@ This is nothing to do with identity view (sakkāya diṭṭhi). Identity view pr
 
 ------
 
-revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35702#p35702 (posted on 2019-01-07)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35702#p35702 (posted on 2019-01-07)
 
 ------
 
@@ -159,6 +159,7 @@ revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   2020-03-24 rev. image sytax, old: .. image:: {filename}/extra/img/mogok-pt05-fig3-external.jpg
                                     | :alt: Contemplation of the mind
                                     | :align: center

@@ -3,12 +3,12 @@ The Importance of Anicca
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-11-05
+:modified: 2021-03-15
 :tags: Anicca, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Importance of Anicca (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2021-03-15
 
 ------
 
@@ -20,7 +20,7 @@ Phassa paccaya vedanā — contact conditions feeling. No mosquito bites you and
 
 You have to understand these things without any doubt. Then your wrong view falls away. You don't need to be afraid of it even though you die with the painful feelings — dukkha vedanā because wrong views and doubt fall away during your practice. You get the purification of view and doubt (diṭṭhivisuddhi and kankhāvitarana visuddhi). 
 
-It falls away with the insight knowledge but still not with the Path Knowledge yet. When you are seeing impermanence, the body not disappears. Only with the cessation of impermanence and the body will disappear. Wrong view and doubt are the two dhammas send being to painful births. 
+It falls away with the insight knowledge but still not with the Path Knowledge yet. When you are seeing impermanence, the body not disappears. Only with the cessation of impermanence and the body will disappear. Wrong view and doubt are the two dhammas sending beings to painful births. 
 
 Therefore, I advise you to die courageously near death (i.e., discerning impermanence with practice). Yesterday talk I was leaving this point. So today I am adding it here. (Yesterday Sayadaw gave a talk based on the Sotanugati sutta of Aṅguttara Nikāya.)
 
@@ -44,7 +44,7 @@ In this way your khandha boat will become light and can cross over the taṇhā 
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=36034#p36034 (posted on 2019-02-26)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=36034#p36034 (posted on 2019-02-26)
 
 ------
 
@@ -63,5 +63,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-28  create rst; post on 04-28

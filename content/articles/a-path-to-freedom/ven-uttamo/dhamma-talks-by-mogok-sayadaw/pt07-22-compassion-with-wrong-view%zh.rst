@@ -3,12 +3,12 @@ Compassion with Wrong View
 ==========================================
 
 :date: 2019-04-28
-:modified: 2020-06-15
+:modified: 2021-03-15
 :tags: Wrong View, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Compassion with Wrong View (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-06-15
+revised on 2021-03-15
 
 ------
 
@@ -34,7 +34,7 @@ Now, I’ll talk about the view of annihilation. A person with this view prefer 
 
 He knows that because of name and form there are a lot of dukkha. He prefers to be without name and form but not prefers Nibbāna. With this wrong view in the heart and practice can’t realize Nibbāna. It is not easy and difficult to follow the middle way between these two wrong views. They have strong disgust on life and prefer annihilation.
 
-The reason why one can’t see Nibbāna is that he is covered up by name and form; so, he can’t overcome dukkha sacca in section ② and can’t see Nibbāna in in there (i.e., viññāṇaṁ, nāma-rūpaṁ, saḷāyatana, phassa and vedanā or the five khandhas). He can’t accept the existence of Nibbāna and prefers being without khandha.
+The reason why one can’t see Nibbāna is that he is covered up by name and form; so, he can’t overcome dukkha sacca in section ② and can’t see Nibbāna in there (i.e., viññāṇaṁ, nāma‐rūpaṁ, saḷāyatana, phassa and vedanā or the five khandhas). He can’t accept the existence of Nibbāna and prefers being without khandha.
 
 Sometimes it perhaps is better to think as without this body in the state of anger, merely uccheda view arises. You have to go the middle of the two existences towards Nibbāna. You had never been in the middle way and never went straight before. You were wandering with these two extremes, and mostly with the view of eternalism in the whole saṁsāra. 
 
@@ -54,7 +54,7 @@ Faith and wisdom are including with them and leading to Nibbāna. Wisdom eye mea
 
 ------
 
-revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35853#p35853 (posted on 2019-01-18)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35853#p35853 (posted on 2019-01-18)
 
 ------
 
@@ -73,6 +73,7 @@ revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   2020-06-15 del:  Note: about "sotāpanna"; proofread by bhante:
   ------
 

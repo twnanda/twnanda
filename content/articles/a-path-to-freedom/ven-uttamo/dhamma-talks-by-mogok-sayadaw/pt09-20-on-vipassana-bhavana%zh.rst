@@ -3,12 +3,12 @@ On Vipassanā Bhāvana
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-11-05
+:modified: 2021-03-15
 :tags: Vipassanā, Bhāvana, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: On Vipassanā Bhāvana (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2021-03-15
 
 ------
 
@@ -72,7 +72,7 @@ The Buddha taught two knowledges; insight knowledge (vipassanā ñāṇa) and Pa
 
 During discerning of impermanence, the other four factors are also including. Vipassanā ñāṇa observes the khandha and not see other things and only seeing the arising and passing away. Go and ask the practicing yogi. He’ll answer you as seeing the arising and passing away. Not seeing of mind, feeling, etc. only seeing the arising and passing away. Then can decide as you get the insight knowledge. 
 
-Seeing arising and passing away dhammas and in this life will get the liberation. The only existence is only that. Body, feeling, etc. only exists as names. If you see this, you have right view; whereas if not seeing this, you have not arrived here yet. Insight knowledge is seeing saṅkhāra and anicca (conditioned phenomenon and impermanent). 
+Seeing arising and passing away dhammas and in this life will get the liberation. The only existence is only that. Body, feeling, etc. only exist as names. If you see this, you have right view; whereas if not seeing this, you have not arrived here yet. Insight knowledge is seeing sa khāra and anicca ṅ (conditioned phenomenon and impermanent).
 
 The lower knowledge sees the five khandhas. Therefore, they are quite different. Seeing the body, feeling, etc. are lower knowledge. It’s nāmā-rūpapariggaha ñāṇa — Discernment of mind and matter. In the Nidanavagga Saṃyutta — the Buddha taught Susīma only two knowledges for realization of Nibbāna. 
 
@@ -96,7 +96,7 @@ Only have the these knowledges. Do you satisfy with it? Firstly, it’s importan
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=36007#p36007 (posted on 2019-02-22)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=36007#p36007 (posted on 2019-02-22)
 
 ------
 
@@ -115,5 +115,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-28  create rst; post on 04-28

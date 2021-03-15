@@ -3,12 +3,12 @@ Rely on Dhamma, Not Outside Power
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-11-05
+:modified: 2021-03-15
 :tags: the Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Rely on Dhamma, Not Outside Power (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2021-03-15
 
 ------
 
@@ -18,7 +18,7 @@ From many past lives, we had done many wholesome and unwholesome kammas. These t
 
 There are many wholesome and unwholesome kammas exist in everyone. Therefore, instead of saying two dogs are following us, it’s more true to say that a pack of dogs following us. If we think it’s safe, then we are very foolish. Therefore, we have to walk on the way of freedom from dogs and will arrive to the place of Nibbāna free from dogs. 
 
-In regard to this, I’ll tell a story. [Sayadaw told about the story of Subrahmā Devata and his 1,000 celestial nymphs. The Buddha couldn’t save them directly by preventing them from falling into Hell. ] Only the Dhamma can save us (This point is different from some other Buddhists who rely on the outside power. Buddha and enlightened beings are not saviours. They only show the wayays to safety.). 
+In regard to this, I’ll tell a story. [Sayadaw told about the story of Subrahmā Devata and his 1,000 celestial nymphs. The Buddha couldn’t save them directly by preventing them from falling into Hell. ] Only the Dhamma can save us (This point is different from some other Buddhists who rely on the outside power. Buddha and enlightened beings are not saviours. They only show the way to safety.).
 
 And then Sayadaw talked on practice. In front is impermanent dhamma. The seeing ñāṇa behind is also dhamma (anicca/magga). It can only save you if you can practice and know the Dhamma. There are no other reliable things except the Dhamma. (i.e., outside powers, instead we have to develop inside power). 
 
@@ -30,7 +30,7 @@ But what they don’t know is taṇhā is like a drop of honey on the edge of a 
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35996#p35996 (posted on 2019-02-21)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35996#p35996 (posted on 2019-02-21)
 
 ------
 
@@ -49,5 +49,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-27  create rst; post on 04-28

@@ -3,12 +3,12 @@ The End of the World
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-08-12
+:modified: 2021-03-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The End of the World (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-08-12
+revised on 2021-03-15
 
 ------
 
@@ -44,7 +44,7 @@ First, the insight knowledges discover saṅkhāra dukkha and later supramundane
 
 Without the ending of saṅkhāra loka could not reach Nibbāna. After these words the Buddha went away. The monks did not understand the meaning and asked Ven. Ānanda for the answer. He said the five khandhas were saṅkhāra loka and the six senses bases also. 
 
-Only by following the Noble Eightfold Path the world would be end. Observing the five khandhas which arise from the 6sense doors is on the way to the end of the world. In the D. A. of cause and effect process, the effects are saṅkhāra. Seeing the khandha arises is seeing saṅkhāra. 
+Only by following the Noble Eightfold Path, the world would be end. Observing the five khandhas which arise from the 6sense doors is on the way to the end of the world. In the D. A. of cause and effect process, the effects are saṅkhāra. Seeing the khandha arises is seeing saṅkhāra. 
 
 Observing anicca is seeing dukkha. With saṅkhāra ends and dukkha also ends. The end of dukkha is Nibbāna. Without saṅkhāra loka the other lokas not exist (i.e., space and beings). They can only exist together. ]
 
@@ -64,7 +64,7 @@ That is your khandha ends. Therefore sometime I ask you; “Do your khandha disa
 
 ------
 
-revised on 2019-08-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35746#p35746 (posted on 2019-01-14)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35746#p35746 (posted on 2019-01-14)
 
 ------
 
@@ -83,5 +83,6 @@ revised on 2019-08-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   08-12 rev. proofread by bhante
   2019-04-22  create rst; post on 04-28

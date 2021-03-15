@@ -3,12 +3,12 @@ The Power of the Dhamma
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-10-02
+:modified: 2021-03-15
 :tags: the Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Power of the Dhamma (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-10-02
+revised on 2021-03-15
 
 ------
 
@@ -46,9 +46,15 @@ It rejects everything which is good. It hinders the Path and Fruition Knowledges
 
 Every of us are not clear between the main and the secondary causes. You may reach the goal by knowing the main cause only. Everything of goodness comes from the base of practice (i.e., need to always develop the practice of wholesome and ariya dhamma in our daily life).
 
+**Note:** This talk on the power of Dhamma is very good for reflection. It is food for thought and the heart. Sayadawji’s had penetrative wisdom which was very rare in Dhamma teachers. Here I gave an example of the angry person (a crown prince) and his very coarse facial form (rūpa) in the documentary film. He could not fulfill his kāmataṇhā for a woman and killed his royal family members. His face became red with anger and hatred like a fearful spirit (yakkha).
+
+Even before death, people faces have their prediction. Here I gave the example of a middle-aged woman Miss Chen who facial expression was frightened with fear at the moment of death. Her eyes were opened with a twisted lip, and it seemed her eyes were looking at somewhere. Her whole complexion was an ashen gray color. At the time of death, she was only 41 and a beautiful woman with a husband and no children. They were rich and leaving behind a very big house. Her husband also did not dare to stay there, because he knew that her wife became a ghost after death. This is also kāmataṇhā clinging to wealth and property. The crown prince’s situation was worse than her, because his action was matricide and patricide. The result of it was after death fell to the great hell (mahā-avici) as a hell-being.
+
+Without the education or knowledge of Buddha-Dhamma, human beings will do many foolish and useless things, and the result will be very painful. Even Buddha-Dhamma cannot be called as religion because it never teaches about the creator or outside power. It is on human or mind centered teachings. Without the Buddha we never understand on humans and the mind. Although the Earth is not the center of our solar system, as living beings (31 realms of existence), the human plane is the center of them. From Earth humans create all kinds of action (mental, verbal or bodily) and taking rebirths everywhere. Therefore, humans should not misuse their rare births as humans. If not as the Buddha warned us our permanent and frequent homes were hells, animal realm and ghost realm.
+
 ------
 
-revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35930#p35930 (posted on 2019-02-13)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35930#p35930 (posted on 2019-02-13)
 
 ------
 
@@ -67,5 +73,6 @@ revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   10-02 rev. proofread by bhante
   2019-04-25  create rst; post on 04-28

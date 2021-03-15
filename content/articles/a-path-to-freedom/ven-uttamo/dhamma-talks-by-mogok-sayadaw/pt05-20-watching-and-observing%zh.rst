@@ -3,12 +3,12 @@ Watching and Observing
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-07-25
+:modified: 2021-03-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Watching and Observing (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-07-25
+revised on 2021-03-15
 
 ------
 
@@ -30,9 +30,9 @@ What the Buddha taught and what the khandha told you were the same thing. Whatev
 
 The dhamma is for watching and observing. This is a practical dhamma. Sāriputta said that if we saw this and dukkha would end. It’s not according with your view and disappears there. 
 
-The person with watching and observing will see it. Whatever is arising and following after with knowing is watching. I am explaining to you clearly because I am worrying about your mistaken idea in the letters. My worry is you are taking the watching with the five path factors (5 maggan) and anicca appears after. The reality is anicca appears first and ñāṇa follows behind or after. 
+The person with watching and observing will see it. Whatever is arising and following after with knowing is watching. I am explaining to you clearly because I am worrying about your mistaken idea in the letters. My worry is you are taking the watching with the five path factors (five maggan) and anicca appears after. The reality is anicca appears first and ñāṇa follows behind or after. 
 
-For an example, gaccamiti paccanati—if going just knowing it as going; in this phrase, going is before and knowing is after. What the preceding dhamma shows you and know it behind with the watching. Persistent with mindfulness and observe with paññā (viriya, sati, paññā/the same as samādhi and paññā). 
+For an example, gaccamitova gaccamiti paccanati—if going just knowing it as going; in this phrase, going is before and knowing is after. What the preceding dhamma shows you and know it behind with the watching. Persistent with mindfulness and observe with paññā (viriya, sati, paññā/the same as samādhi and paññā).
 
 The first point may be difficult to catch. If you can catch up with one of them and become easier. What the Buddha taught and the khandha shows you are in accordingly and becomes right view. It is not alone but together with the other four factors. This is vipassanā knowledge. The khandha is always telling you. But the difficulty is we don’t listen to it. 
 
@@ -54,7 +54,7 @@ At the time you don’t want it and what will you see? This khandha will disappe
 
 ------
 
-revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35721#p35721 (posted on 2019-01-10)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35721#p35721 (posted on 2019-01-10)
 
 ------
 
@@ -73,6 +73,7 @@ revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   07-25 rev. proofread by bhante
   2019-01-13  create rst
   https://mogokdhammatalks.blog/

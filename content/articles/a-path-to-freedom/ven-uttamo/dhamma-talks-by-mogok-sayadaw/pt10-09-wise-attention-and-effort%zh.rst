@@ -3,20 +3,20 @@ Wise Attention and Effort
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-11-05
+:modified: 2021-03-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Wise Attention and Effort (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2021-03-15
 
 ------
 
 Dhamma Talks by Mogok Sayadaw; 9th January 1961
 
-With wise attention (yoniso) and effort, wisdom (paññā) becomes sharp. Knowledge – ñāṇa cut off defilements of the mind if wise attention is good. With not good attention, you can’t see impermanence, and ñāṇa does not cut off kilesass.
+With wise attention (yoniso) and effort, wisdom (paññā) becomes sharp. Knowledge —ñā a cut off defilements of the mind if wise attention ṇ is good. With not good attention, you can’t see impermanence, and ñāṇa does not cut off kilesa. 
 
-You have to remember that including with both of wise attention and ñāṇa and kilesas it will cut off. Then, good yoniso is the helper of knowledge. With only ñāṇa it can’t do anything. With wise attention and ñāṇa becomes sharp. With the wise attention of anicca and ñāṇa is cutting kilesas. 
+You have to remember that including with both of wise attention and ñāṇa, kilesas will be cut off. Then, good yoniso is the helper of knowledge. With only ñāṇa it can’t do anything. With wise attention and ñāṇa becomes sharp. With the wise attention of anicca and ñāṇa is cutting kilesas.
 
 With the wise attention of dukkha and anatta are also in the same way. With asubha and dukkha sacca are also the same. With wrong attention, ñāṇa doesn’t have the chances to come in. These points were the Buddha taught to Ven. Potthila (told the story of Potthila). An iguana was hiding in an earth mound with the six outlets. If you want to catch it, close the five outlets and waiting and watching at the opened one. In the same way close the eyes, ears, nose, tongue, and body, the five outlets. And then contemplate whatever arising from the mind outlet (mano). 
 
@@ -44,7 +44,7 @@ After that, continue the contemplation as dukkha sacca. Rice plants are kilesas,
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36184#p36184 (posted on 2019-03-25)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36184#p36184 (posted on 2019-03-25)
 
 ------
 
@@ -63,5 +63,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-29  create rst; post on 05-01

@@ -3,12 +3,12 @@ From Hell to Eternity
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-07-25
+:modified: 2021-03-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: From Hell to Eternity (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-07-25
+revised on 2021-03-15
 
 ------
 
@@ -40,7 +40,7 @@ With wrong attention to the khandha, many of the "I" or "self" arise. "I" or "se
 
 It becomes right view with wise attention. Unwise attention is like people looking into the mirror, taking the shadow in the mirror as, he, she, etc.; and then taṇhā, mana, diṭṭhi (craving, conceit and wrong view) come in. Here the mirror is the khandha and shadow is wrong view. It’s like a very small child who has never seen a mirror before. 
 
-He becomes frighten and running towards the mother after seeing his own shadow. you'll just go back to the wok (i.e., hell cauldron) if you have unwise attention. You will be tortured by the shadow with unwise attention. Correct yourself with wise attention. In the middle of you and the mirror anicca, dukkha and anatta shadows appear. With the right seeing and right view arises. 
+He becomes frighten and running towards the mother after seeing his own shadow. You'll just go back to the wok (i.e., hell cauldron) if you have unwise attention. You will be tortured by the shadow with unwise attention. Correct yourself with wise attention. In the middle of you and the mirror anicca, dukkha and anatta shadows appear. With the right seeing and right view arises.
 
 I ask you to contemplate the impermanence of the five khandhas for the right view. Then sammā-diṭṭhi arises and micchā-diṭṭhi dies away. And the seed of hell disappears. Some people think, if you understand the nature of mind/body and diṭṭhi will fall away. It’s not yet, you have to discern impermanence. 
 
@@ -50,7 +50,7 @@ The path factors (magga) have functions. For example, a boat is carrying a load 
 
 ------
 
-revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35724#p35724 (posted on 2019-01-10)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35724#p35724 (posted on 2019-01-10)
 
 ------
 
@@ -69,6 +69,7 @@ revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   07-25 rev. proofread by bhante
   2019-01-13  create rst
   https://mogokdhammatalks.blog/

@@ -3,12 +3,12 @@ Tanhā and Kamma
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-09-12
+:modified: 2021-03-15
 :tags: Tanhā, Kamma, Craving, Action, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Tanhā and Kamma (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-09-12
+revised on 2021-03-15
 
 ------
 
@@ -56,11 +56,11 @@ Ven. Sāriputta said that could observe one’s own mind would arrive to Nibbān
 
 By seeing impermanence and becomes ariya mind. Practice vipassanā is for the merits or changing the mind? These words are very important. If you can’t contemplate and only the worldly mind process is going on. Vipassanā mind arises is the ariya mind. 
 
-Contemplate the sotāpanna’s mind will become once returner (sakadāgāmin). Contemplate the sakadāgāmin’s mind will become non-returner (anāgāmin), etc. therefore changing the mind is important. Therefore one will never become an ariyan without practicing vipassanā.
+Contemplating the sotāpanna’s mind will become once‐returner (sakadāgāmin). Contemplating the sakadāgāmin’s mind will become non‐returner (anāgāmin), etc.; so changing the mind is important. Therefore one will never become an ariyan without practicing vipassanā.
 
 ------
 
-revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35846#p35846 (posted on 2019-01-18)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35846#p35846 (posted on 2019-01-18)
 
 ------
 
@@ -79,6 +79,7 @@ revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   09-12 rev. proofread by bhante
   04-23 rev. title; old:Craving and Action
   2019-04-23  create rst; post on 04-28

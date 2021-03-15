@@ -3,12 +3,12 @@ Dāna and the Ending of Dukkha
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-11-05
+:modified: 2021-03-15
 :tags: Dāna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Dāna and the Ending of Dukkha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2021-03-15
 
 ------
 
@@ -18,13 +18,13 @@ Dhamma Talks by Mogok Sayadaw; 22nd November 1961
 
 Offering with the desire for the becoming of human being or heavenly being is for the cause of dukkha (Samudaya Sacca). Even becoming the blissful khandha, it is still the truth of dukkha. (Dukkha Sacca). With the giving (dāna) still get lost in dukkha. The truth has to be based on the khandha for becoming the knowledge of seeing. 
 
-During the giving we have to enrich with insight. Wanting to be free from the direct experience of dukkha and make the offering must contemplate the khandha in this way. The precepts (5 here) have been established already. 
+During the giving we have to enrich with insight. Wanting to be free from the direct experience of dukkha and make the offering must contemplate the khandha in this way. The precepts (5 here) have been established already.
 
 No contemplation of the khandha and just giving is an ordinary dāna. It is not the best dāna. With much capital (investment) and get little profit we should not do this business. (The donors were business people). Let contemplate on the khandha for five minutes. 
 
 (Sayadaw was quite different from other teachers. If anyone wanted to perform a big dāna, such as building a sālā, dwellings, etc., Sayadaw asked them to practice vipassanā for some times before the offering; and with the offering ceremony transformed into a vi-vaṭṭa dāna — Dānas transcend the round of existence). 
 
-Do you see the impermanence of dukkha sacca? Without the path factor of samādhi you can’t see it. And also without the path factor of wisdom (paññā) you can’t see it. Now, you already completed with samādhi and paññā. (Sayadaw asked the disciples to follow him as he recited the Pali and translation for the vipassanā dāna offering. Before the water pouring ceremony, he asked disciples to to observe the khandha at the same time by listening to the talk; if the hindrances come in, also observe them.)
+Do you see the impermanence of dukkha sacca? Without the path factor of samādhi you can’t see it. And also without the path factor of wisdom (paññā) you can’t see it. Now, you already completed with samādhi and paññā. (Sayadaw asked the disciples to follow him as he recited the Pali and translation for the vipassanā dāna offering. Before the water pouring ceremony, he asked disciples to observe the khandha at the same time by listening to the talk; if the hindrances come in, also observe them.)
 
 (Sayadaw talked about the beginning of human being, starting from the combination of sperm and ovum, with them together were nāma (mind) dhamma.) You should offer things with the desire of ajāti Nibbāna ("no rebirth" Nibbāna) and with the fear of birth. It is for vi-vaṭṭa dāna, so it's not the main point for which kinds of things to offer. It is important to have a noble mind. 
 
@@ -52,7 +52,7 @@ According to the embryology, the being in the womb starts breathing after two or
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35774#p35774 (posted on 2019-01-14)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35774#p35774 (posted on 2019-01-14)
 
 ------
 
@@ -71,6 +71,7 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   11-05 rev. proofread by bhante; the 2nd note on the conception of a human embryo
   10-02 rev. proofread by bhante, Note on the conception of a human embryo
   09-12 rev. proofread by bhante

@@ -3,12 +3,12 @@ Disenchantment with the Monkey
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-11-05
+:modified: 2021-03-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Disenchantment with the Monkey (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2021-03-15
 
 ------
 
@@ -34,7 +34,7 @@ And they are ended with the assemblage of dukkha. Therefore, dukkha sacca arisin
 
 It’s no need to discern that much. In every second discerning them arising and passing away is enough. Their unstable and uncontrollable nature appears. For example, after death consciousness ceases, birth consciousness arises. And after it ceases, life continuum consciousness (bhavaṅga citta) arises. 
 
-Therefore, it’s good to disenchantment for it. Nibbidānto virijjāti — Dispassion comes with disenchantment. This means the Path Knowledge does not arise without the knowledge of disenchantment arises. If feeling (vedanā) arises, physical feeling (rūpa-vedanā) and mental feeling (citta-vedanā) arise. 
+Therefore, it’s good to have disenchantment for it. Nibbidānto virijjāti—Dispassion comes with disenchantment. This means the Path Knowledge does not arise without the knowledge of disenchantment arises. If feeling (vedanā) arises, physical feeling (rūpa vedanā) and mental feeling ‐ (citta‐vedanā) arise.
 
 With the cessation of feeling, physical and mental feelings cease. If craving (taṇhā) arises, craving for form (rūpa — taṇhā) and craving for mind (citta-taṇhā) arise. With the cessation of taṇhā, rūpa — taṇhā and citta-taṇhā also cease, etc. …
 
@@ -56,13 +56,13 @@ Always watch the D. A. process of one’s own khandha. In front, a D. A. dhamma 
 
 Here U Aung Zan Way and U Tin have to remember to contemplate the paṭicca-samuppanna dhamma — the result. Contemplate the arising result dhamma. Not on the paṭicca-samuppāda — it is the cause of dhamma. Samuppanna is arising dhamma. Samuppāda is the arisen dhamma.
 
-Therefore, can’t contemplate. Have to remember this point carefully. Samuppanna dhamma and ñāṇa have to be in line (one after another). If not in line, end up with fruitless. Sometimes people are saying your mind is like a monkey mind. This is not saying with ñāṇa but with hate. 
+Therefore, you can’t contemplate it. Have to remember this point carefully. Samuppanna dhamma and ñāṇa have to be in line (one after another). If not in line, it will end up with fruitless. Sometimes people are saying your mind is like a monkey mind. This is not saying with ñāṇa but with hate.
 
 (Note-U Aung Zan Way and U Tin were politicians and became his disciples the year he passed away. Both of them were successful in their practice. Later U Tin became a monk and known as Sayadaw U Dhammasara.)
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=36000#p36000 (posted on 2019-02-21)
+revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=36000#p36000 (posted on 2019-02-21)
 
 ------
 
@@ -81,5 +81,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-15 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-27  create rst; post on 04-28
