@@ -3,12 +3,12 @@ Transcending of Time
 ==========================================
 
 :date: 2019-12-02
-:modified: 2020-07-10
+:modified: 2021-03-16
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Transcending of Time (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-07-10
+revised on 2021-03-16
 
 ------
 
@@ -24,7 +24,7 @@ Dhamma Talks by Mogok Sayadaw
 
 (Sayadaw gave the example of Peya – a layman in the time of Buddha Kassapa; he missed the chance of realization because of the worldly matters. Sayadaw encouraged his disciples to practise hard for the realization.) 
 
-It is the great chance now (future is uncertain)! You’ll finish the practice if seeing the blips of impermanences. It’s only tihetuka (three wholesome roots) person can discern it; as a duhetuka person (someone has only two wholesome roots – non-greed and non-hatred but without the root of wisdom – non-delusion) could not. If you can discern it, don’t be relaxed and careless.”
+It is the great chance now (future is uncertain)! You’ll finish the practice if seeing the blips of impermanences. It’s only tihetuka (three wholesome roots) person can discern it; but as a duhetuka person (someone has only two wholesome roots— nongreed and non hatred but without the root of wisdom—non‐delusion) who cannot discern it. If you can discern it, don’t be relaxed and careless.”
 
 ------
 
@@ -34,7 +34,7 @@ It is the great chance now (future is uncertain)! You’ll finish the practice i
 
 For the Buddha and arahants, time was consumed by them. Even becoming a stream enterer (sotāpanna), a lot of time (kala) was consumed by him/her. He has only left for seven lives for kala to consume.
 
-[Here Sayadaw told the origin of the time and timeless dhammas teaching. It was delivered by the Buddha to the 500 monks who were brahmins before their ordinations. They also had connection with the Buddha in one of their past lives. At that time the bodhisatta was their teacher. They were too conceited so that the teacher asked them a puzzle question which also connected with time (kala).]
+[Here Sayadaw told the origin of the time and timeless dhammas teaching. It was delivered by the Buddha to the 500 monks who were brahmins before their ordinations. They also had connection with the Buddha in one of their past lives. At that time the bodhisatta was their teacher and because of their conceit, the teacher asked them a puzzle question which also connected with time (kala).]
 
 After death, taking rebirth (jāti) is like a stick fallen on the wound. It’s getting dukkha again after dukkha. (Sayadaw used the Anāthapiṇḍika’s story to teach vipassanā.) Don’t make the khandhas as this is ‘me’, this is ‘I am’ and this is ‘mine’. Contemplate them as impermanent, suffering and not-self. Here the Noble Eightfold Path is timeless dhamma.” 
 
@@ -46,13 +46,13 @@ After death, taking rebirth (jāti) is like a stick fallen on the wound. It’s 
 
 “It’s important to know what happening to one’s own khandha. Our bodies are consumed by morning and night periods. Its youthful form disappears and old form increases. Whichever realms of existence we go, we will be eaten by time. Only by going to live in Nibbāna which is no sun and moon; we are free from time. After becoming arahant and passing away (parinibbāna), he/she is not consumed by time (kala). 
 
-People pray for becoming eating stuffs for others if they don’t know the Dhamma (here by time and becoming animals for foods). In past lives we had used our time as eating stuffs for time (kala). Today I’ll show you the way for consuming kala. (Sayadaw continued to teach on contemplation of feeling – vedanānupassanā for ending kala – time.) ”
+No knowledge on Dhamma and p eople praying for becoming will become the eating stuffs for others (here by time and becoming animals for foods). In past lives we had used our time as eating stuffs for time (kala). Today I’ll show you the way for consuming kala. (Sayadaw continued to teach on contemplation of feeling— vedanānupassanā for ending kala—time.)”
 
 ------
 
 23rd June 1961
 
-“You may ask ‘What is the fault to practice without Dhamma at home?’ The answer is: you are creating causes for getting khandhas every day. With every arising of lobha, dosa, and moha, you make kamma (see the D. A. chart). These are looking for King of the Death. The khandhas are results and if you look for the causes; these are: avijjā → saṅkhāra → taṇhā → upādāna, kamma → soka, parideva, dukkha, domanassa which lead to miserable khandhas. (The whole series refer to the twelve links of D. A. process which leads to Dukkha.) Therefore, the Buddha said that only very few arriving to the blissful planes of existence.
+“You may ask ‘What is the fault of not practising of Dhamma at home?’ The answer is: you are creating causes for getting khandhas every day. With every arising of lobha, dosa, and moha, you make kamma (see the D. A. chart). These are looking for King of the Death. The khandhas are results and if you look for the causes; these are: avijjā → sa khāra → ta hā → upādāna, ṅ ṇ kamma → soka, parideva, dukkha, domanassa which lead to miserable khandhas. (The whole series refer to the twelve links of D. A. process which leads to Dukkha.) Therefore, the Buddha said that only very few arriving to the blissful planes of existence.
 
 Morning and night periods consume or extract our life span, physical form, strength and power from us. We have to make khandhas for them.
 
@@ -64,7 +64,7 @@ Also contemplate the impermanence if other neutral minds such as seeing and hear
 
 ------
 
-7th December 1960
+8 th December 1960
 
 “All the worldly affairs are time consuming (kālika). It is towards akālika (timelessness – literal meaning is immediate) that no craving and clinging (taṇhā and upādāna) arise with insight contemplation (vipassanā). Working for craving is kālika and doing for ñāṇa task (i.e., the Noble Path) is akālika. The arising of many, many dukkhas: sorrow, lamentation pain and grief is kālika. The cessation of dukkha is akālika. The reason why we possess the miserable ageing, sickness and death comes from indulgence in kālikas. Many, many dukkhas (sorrow, lamentation pain and grief) will come to end if we follow the way of akālika. All these teachings come from Saṃyutta Pali Text.
 
@@ -72,19 +72,19 @@ Also contemplate the impermanence if other neutral minds such as seeing and hear
 
 (The Buddha answered to the female deity:) From the beginning of human existence (see the Aggañña Sutta, DN.27 Aggaññasuttaṃ), human race used concepts of man and woman, husband and wife, son and daughter, etc. which all were based on wrong view (diṭṭhi). Human beings take these as reality and then their greed, hatred and delusion (lobha, dosa and moha) are increasing. From these unwholesome dhammas, many many dukkhas and worries arise. Human beings do only end up with concepts or signboards; so they don’t know the existence of the reality. 
 
-(All these super-ignorance or delusion create the unsustainable Earth situation nowadays, which comes from material developments. Out of greed and delusion, man was exploiting the Earth without proportion, leading to nowadays situation of global warming. It is the real danger for human race now. One of the weapons of mass destruction is advertisement and consumerism deceive and delude people becoming over-greedy and super-glue. All these are signboards which delude people becoming ignoramus.)
+(All these super‐ignorance or delusion create the unsustainable Earth situation nowadays, which comes from material developments. Out of greed and delusion, man was exploiting the Earth without proportion, leading to nowadays situation of global warming. It is the real danger for human race now. One of the weapons of mass destruction is advertisement and consumerism deceive and delude people becoming over‐greedy and super‐glue. All these are signboards which delude people becoming ignoramus.)
 
 Therefore, kālika matters become chaotic. Signboards are man and woman, but the reality of existence is impermanent mind and matter. We have to go to the Kingdom of Death if we are in chaos with kālika. From today onwards, you have to separate between the signboards (unreal) and the real existence of mind and matter. You all have to correct yourselves and there is still have time for it.
 
-Without or no correction is forever and with correction is now. (This is Burmese proverb.) It has been already quite a long time till now that we are in no good.
+No correction is forever and with correction is at now. (This is a Burmese proverb.) It has been already quite a long time till now that we are in no good.
 
-It is necessary to have the wish to correct and meet with a good teacher. You also need to have the desire mind for correcting yourself. We came here with mistakes and faults (i.e., avijjā, saṅkhāra from past lives). Therefore, we die again with mistakes and faults (no correction). There are only mind and matter by condensing the five khandhas. Furthermore, there only impermanence exists with condensing of the mind and matter. Seeing impermanence by contemplation, the kālika dhammas of craving and clinging can’t arise. One can contemplate it to see it by oneself (sandiṭṭhika) and it becomes akālika while craving not arising.
+It is necessary of wanting to correct and encounter a good teacher. You also need to have the desire mind for correcting yourself. We came here with mistakes and faults (i.e., avijjā, saṅkhāra from past lives). Therefore, we die again with mistakes and faults (no correction). There are only mind and matter by condensing the five khandhas. Furthermore, there only impermanence exists with condensing of the mind and matter. Seeing impermanence by contemplation, the kālika dhammas of craving and clinging can’t arise. One can contemplate it to see it by oneself (sandiṭṭhika) and it becomes akālika while craving not arising.
 
 Kālikas are arisen by following the desire of the khandhas. Therefore, you have to give up kālikas and follow the akālika (i.e., the Noble Path.).”
 
 ------
 
-revised on 2020-07-10
+revised on 2021-03-16
 
 ------
 
@@ -103,6 +103,7 @@ revised on 2020-07-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   07-10 post: 07-03 rev. the 3rd proofread by bhante
   2020-06-25 rev. the 2nd proofread by bhante
   2020-06-15 rev. old: It is necessary to want to correct and encounter a good teacher. ; proofread by bhante

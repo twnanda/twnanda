@@ -3,18 +3,18 @@ Don’t Waste Your Precious Times
 ==========================================
 
 :date: 2019-05-01
-:modified: 2020-06-15
+:modified: 2021-03-16
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Don’t Waste Your Precious Times (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-06-15
+revised on 2021-03-16
 
 ------
 
 Dhamma Talks by Mogok Sayadaw; no date noted
 
-You don’t know that a thief is entering you khandha. Aging is a thief. Taking your good eyes and leaving the weak eyes behind. Good complexion, good hair, good teeth, good mind and brain are not there anymore 
+You don’t know that a thief is entering your khandha. Aging is a thief. Taking your good eyes and leaving the weak eyes behind. Good complexion, good hair, good teeth, good mind and brain are not there anymore.
 
 (Good complexion becomes dry with wrinkles, with colored spots and others, including ageing smell. From black dark hairs become white and grey. Good teeth become bad teeth, yellow, broken, come out or shaky and painful. The mind and the brain do not work well and properly.
 
@@ -52,7 +52,7 @@ It was sure that he was not in the absorption state because he was not a samatha
 
 ------
 
-revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36338#p36338 (posted on 2019-04-16)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36338#p36338 (posted on 2019-04-16)
 
 ------
 
@@ -71,6 +71,7 @@ revised on 2020-06-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   06-11 rev. replace "Yan-gon" with "Rangoon (Yan-gon)"; proofread by bhante
   2020-05-31 proofread by bhante; replace "Rangoon" with "Yan-gon"
   12-02 rev. proofread by bhante

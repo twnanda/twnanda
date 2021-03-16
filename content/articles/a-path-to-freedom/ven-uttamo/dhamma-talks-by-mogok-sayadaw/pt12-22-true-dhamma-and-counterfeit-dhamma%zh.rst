@@ -3,12 +3,12 @@ True Dhamma and Counterfeit Dhamma
 ==========================================
 
 :date: 2019-05-01
-:modified: 2020-07-10
+:modified: 2021-03-16
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: True Dhamma and Counterfeit Dhamma (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-07-10
+revised on 2021-03-16
 
 ------
 
@@ -38,7 +38,7 @@ Tranquility (passaddhi) also can arise and the mind / body become tranquil. Know
 
 (Sayadaw not mentioned of them. It seemed to be referred to new doctrines, views and ideas crept into the Buddha’s teachings.)
 
-The Buddha with his knowledge of knowing the future (anagataṁ ñāṇa) and said that these things would be more in the later periods of the teaching (sāsana). First paṭisambhidā ñāṇa (the four forms of acumen), after that the six supernormal powers (chalabhiññā), triple knowledge (tevijja); stream enterer or no ariyan will only has contentment with sīla. 
+The Buddha with his knowledge of knowing the future (anagataṁ ñāṇa) and said that these things would be more in the later periods of the teaching (sāsana). First paṭisambhidā ñāṇa (the four forms of acumen), after that the six supernormal powers (chalabhiññā), triple knowledge (tevijja); stream enterer or no ariyan and will only has contentment with sīla.
 
 (Even with the last one, it is not so bad. If we look into the today world, even this sīla is quite rare in human beings). 
 
@@ -54,11 +54,11 @@ It’s nāmaparicheda ñāṇa – the knowledge of discerning of the mind. This
 
 If you don’t see impermanence, sukha vedanā connects to lobha, dukkha to dosa and upekkhā to moha respectively. It’s very important. Vedanā connects to avijjā, saṅkhāra if you don’t contemplate impermanence with upekkhā. 
 
-And it connects to the end with dukkha vedanā; with sukha vedanā, connectting in the middle. It connects to the three kinds of D.A. process for a person who does not know the practice. For someone who practices will stick with the ten counterfeit dhammas. (Here Sayadaw’s usage in Burmese was not very clear. What he wanted to say is that someone would stick with the ten counterfeit dhammas when he did the practice if he did not know and it would be connected with the D. A. process in three ways.)
+And it connects to the end with dukkha vedanā; with sukha vedanā, connectting in the middle. It connects to the three kinds of D.A. process for a person who does not know the practice. For someone who practices will stick with the ten counterfeit dhammas.
 
 ------
 
-revised on 2020-07-10; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36340#p36340 (posted on 2019-04-16)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36340#p36340 (posted on 2019-04-16)
 
 ------
 
@@ -77,6 +77,7 @@ revised on 2020-07-10; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   07-10 post: 07-03 rev. the 3rd proofread by bhante
   2020-06-15 rev. old:He wanted to say someone, who doesn’t know that the practice should be connected with the D. A. process in three ways, will sticks with the ten counterfeit dhammas when he /she practices.). ; proofread by bhante
   12-02 rev. proofread by bhante

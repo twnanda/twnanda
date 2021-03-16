@@ -3,12 +3,12 @@ How to Think?
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2021-03-16
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: How to Think? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2021-03-16
 
 ------
 
@@ -18,7 +18,8 @@ Worldlings have two kinds of thinking. With thinking that sorrow, lamentation, p
 
 We are thinking about this and that when we are staying alone. At the times of sleep and waking up, we are thinking about family and business matters. It’s like looking for one’s own dukkha. (Many human beings are like this). We are thinking about things which are not good and follow with sorrow, lamentation and grief. 
 
-One’s own thoughts are tormenting oneself. One’s khandha and others’ khandhas are no self. Not – self becomes self and you can’t sleep. Also you are thinking on suffering (dukkha) as happiness (sukha). You are thinking about the impossible so that pain and grief arise. (Here we can see the super-stupidity of human beings with their super-taṇhā.)
+One’s own thoughts are tormenting oneself. One’s khandha and others’ khandhas are not-self. Not self becomes self and you can’t ‐ sleep. Also you are thinking on suffering (dukkha) as happiness (sukha). You are thinking about the impossible so that pain and grief arise. (Here we can see the super‐stupidity of human beings with
+their super‐taṇhā.)
 
 The Buddha taught us how to think (from the Saṁyutta Nikāya). All thoughts come from wrong views (diṭṭhi). For example, if I am old it’s quite difficult for me. This is thinking with diṭṭhi. You’re going to the apāya (woeful plane) from the sleeping bed. With thinking and not-self becomes self is thought of wrong view. In the Saṁyutta, the Buddha taught us to think for Nibbāna and not to think for apāyas (painful births).
 
@@ -48,7 +49,7 @@ Even though still has the khandha the yogi sees Nibbāna, with the cessation of 
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36221#p36221 (posted on 2019-04-01)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36221#p36221 (posted on 2019-04-01)
 
 ------
 
@@ -67,6 +68,7 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   12-02 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-29  create rst; post on 05-01

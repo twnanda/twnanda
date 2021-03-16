@@ -3,12 +3,12 @@ Dependent Arising and the Taints
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2021-03-16
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Dependent Arising and the Taints (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2021-03-16
 
 ------
 
@@ -42,7 +42,7 @@ Taint of sensuality (kāmāsava) and taint of becoming (bhavāsava) cease (by se
 
 Why did the Buddha say; jānāto passato āsavakkhayaṁ vadami? I say; someone contemplates and discerns impermanence all the taints are vanished. By discerning impermanence becomes right view and taint of view (wrong view) not exists. 
 
-The knowledge of the way for the cessation of dukkha arrives in your heart. Dukkha nirodha gamini partipadaya ñāṇaṁ – you get the knowledge of the way to the cessation of dukkha. You will attain. Nibbāna if the taints are gone. Still dukkha nirodhe ñāṇaṁ left. The four taints are the cause of āsavas. 
+The knowledge of the way for the cessation of dukkha arrives in your heart. Dukkha nirodha gamini partipadaya ñāṇaṁ—you get the knowledge of the way to the cessation of dukkha. You will attain Nibbāna if the taints are gone. Still dukkha nirodhe ñāṇaṁ left. The four taints are the cause of āsavas.
 
 If they cease still dukkha can arise? Khandha not arises and then becomes dukkha nirodho – the cessation of dukkha. Dukkha nirodhe ñāṇaṁ – you get the knowledge of the cessation of dukkha. With the contemplation and seeing impermanence you get the four knowledges. 
 
@@ -68,7 +68,7 @@ Don’t take the 31 planes of existence with mathematical numbers. If you conden
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36313#p36313 (posted on 2019-04-13)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36313#p36313 (posted on 2019-04-13)
 
 ------
 
@@ -87,5 +87,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   12-02 rev. proofread by bhante
   2019-04-30  create rst; post on 05-01

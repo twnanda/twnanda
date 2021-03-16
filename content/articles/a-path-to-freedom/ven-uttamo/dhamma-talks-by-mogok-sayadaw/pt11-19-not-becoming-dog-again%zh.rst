@@ -3,12 +3,12 @@ Not Becoming Dog Again
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2021-03-16
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Not Becoming Dog Again (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2021-03-16
 
 ------
 
@@ -26,7 +26,7 @@ If you still have taṇhā/māna rope, diṭṭhi collar and clinging to the kha
 
 The power of not knowing/ignorance is so great that people are saying things and doing things whatever they want. (Just reflect on nowadays human and the Earth problems). 
 
-Now, praying is only for becoming a dog. If becoming worse than that, just go to avīci hell. Don’t be ended up with the artists, but at truth. (This referred to artists drawing and describing about celestial realms without really seeing with their own eyes.)
+Now, praying is only for becoming a dog. If becoming worse than that, just go to avīci hell. Don’t be ended up with the artists, but at truth. (This referred to art drawings and books which describ e about celestial realms without really seeing with their own eyes.)
 
 Khandha is dukkha sacca (i.e., the post); rope and collar are samudaya sacca and the dog is the sufferer (dukkha beings). Beings make their own posts; bind themselves with ropes and put on collars and running around their posts in circle, showing themselves in the 31 realms of existence without shame. Not doing vipassanā practice, the post, rope and collar will be never broken off; and then they will never be free from becoming a dog. (Nowadays dog culture is extremely popular. It seems dog numbers are nearly overcome human number. Where are these dogs coming from?)
 
@@ -38,7 +38,7 @@ All are included if you choose one of the contemplations (with one of the four s
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36298#p36298 (posted on 2019-04-12)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36298#p36298 (posted on 2019-04-12)
 
 ------
 
@@ -57,5 +57,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   12-02 rev. proofread by bhante
   2019-04-30  create rst; post on 05-01

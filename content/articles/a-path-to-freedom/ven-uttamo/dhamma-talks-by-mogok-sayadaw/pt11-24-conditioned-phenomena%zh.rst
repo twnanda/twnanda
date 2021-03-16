@@ -3,12 +3,12 @@ Conditioned Phenomena
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2021-03-16
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Conditioned Phenomena (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2021-03-16
 
 ------
 
@@ -28,7 +28,7 @@ So, as soon as saṅkhāra dhamma arises and it is important to know its arising
 
 In your body there are matter conditioning by action (kamma), mind (citta), temperature (utu) and food (āhāra). Therefore these are saṅkhāra dhamma and end up with perishing. Your minds are with mental factors (cetasika). With the food smell and the smelling consciousness, with the eating and the taste consciousness, with the joyful things and the joyful mind, etc. arise. 
 
-These different kinds of mind are conditioning by causes and will end up with perishing. You only have mind and body. These are saṅkhāra dhamma. Therefore all are ending up with perishing. Therefore I am urging you not to pray for any mind and body existence. 
+These different kinds of mind are conditioning by causes and will end up with perishing. You only have mind and body. These are saṅkhāra dhamma. So all are ending up with perishing. Therefore I am urging you not to pray for any mind and body existence.
 
 (Sayadaw continued to explain the following well known verses on saṅkhāra dhamma)
 
@@ -54,7 +54,7 @@ You will see the ending of it if you’re seeing the beginning of saṅkhāra. T
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36303#p36303 (posted on 2019-04-12)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36303#p36303 (posted on 2019-04-12)
 
 ------
 
@@ -73,5 +73,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   12-02 rev. proofread by bhante
   2019-04-30  create rst; post on 

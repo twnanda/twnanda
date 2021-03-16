@@ -3,12 +3,12 @@ Instruction on Dying
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2021-03-16
 :tags: Dying, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Instruction on Dying (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2021-03-16
 
 ------
 
@@ -48,11 +48,11 @@ Like a telescopic mirror aiming far away. Restlessness arises at the heart – b
 
 Turning your mind towards the heart base where it arises and falls away. If you take the mind as running away is the view of eternalism (sassata diṭṭhi). It’s the same view as the soul/life goes out. 
 
-(The view of the existence of a soul is a great problem. Even still many Buddhists are thinking in this way, and including some Buddhist monks. What a pity?)
+(The view of the existence of a soul is a great problem. Even still many Buddhists are thinking in this way, and including some Buddhist monks. What a pity it is?!)
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&start=10#p36337 (posted on 2019-04-16)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&start=10#p36337 (posted on 2019-04-16)
 
 ------
 
@@ -71,5 +71,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&s
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   12-02 rev. proofread by bhante
   2019-05-01  create rst; post on 

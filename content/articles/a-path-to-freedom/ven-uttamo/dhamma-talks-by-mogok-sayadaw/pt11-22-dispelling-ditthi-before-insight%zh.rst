@@ -3,12 +3,12 @@ Dispelling Diṭṭhi Before Insight
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2021-03-16
 :tags: Diṭṭhi, Insight, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Dispelling Diṭṭhi Before Insight (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2021-03-16
 
 ------
 
@@ -28,7 +28,7 @@ There is no need to answer every question which refers to non-existence (one of 
 | ④	 Does the Tathāgata (or arahant) neither exist nor not exist after death? ]
 | 
 
-Some of the questions mentioned among the texts are no need to answer. You yourself are not clear about with it if you give it answer. There are two causes for not attaining magga and phala (Path and Fruit Knowledges). These are: ① the five heavy kammas ② with the wrong process in the practice.
+Some of the questions mentioned among the texts are no need to answer. You yourself are not clear about with it if you give its answers. There are two causes for not attaining magga and phala (Path and Fruit Knowledge). These are: ① the five heavy kammas ② with the wrong process in the practice.
 
 (The Buddha continued asking questions to Ven. Anurādha and helping him to give up wrong views). If you observe the way which the Buddha asking questions, it was clear that before the contemplation and helping him to dispel diṭṭhi. During the time of listening dhamma talk diṭṭhi falls away is important. And then during the sitting meditation it doesn’t need any more. 
 
@@ -44,7 +44,7 @@ The Law of Dependent Origination is the medicine cure the disease of selfishness
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36301#p36301 (posted on 2019-04-12)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36301#p36301 (posted on 2019-04-12)
 
 ------
 
@@ -63,5 +63,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   12-02 rev. proofread by bhante
   2019-04-30  create rst; post on 05-01

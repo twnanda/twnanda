@@ -3,12 +3,12 @@ Fulfilling One’s Duty
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-11-05
+:modified: 2021-03-16
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Fulfilling One’s Duty (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2021-03-16
 
 ------
 
@@ -44,11 +44,11 @@ A wanderer asked Ven. Sāriputta; “What is the most difficult thing in loka �
 
 You will get it (discerning anicca) if you succeed with the no. ③. The Buddha and Sayadaw mentioned the importance of anicca in practice in their suttas and talks)
 
-(Sayadaw continued to talk on the hindrances from the Singalovada Sutta, DN.31 Siṅgālasuttaṃ). The reason of having impermanence (conditioned dhamma) and can’t discern it is covering by hindrances. Then, how to solve it? For example, lobha arises and it will cover up impermanence. First, you have to contemplate the impermanence of lobha mind. After that continue the contemplation whatever the khandha shows you. Because of these hindrances that can’t realize Path and Fruit.
+(Sayadaw continued to talk on the hindrances from the Saṅgārava Sutta, Aṅguttara Nikāya. The reason of having impermanence (conditioned dhamma) and can’t discern it is covering by hindrances. Then, how to solve it? For example, lobha arises and it will cover up impermanence. First, you have to contemplate the impermanence of lobha mind. After that continue the contemplation whatever the khandha shows you. Because of these hindrances that can’t realize Path and Fruit.
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36213#p36213 (posted on 2019-03-31)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36213#p36213 (posted on 2019-03-31)
 
 ------
 
@@ -67,5 +67,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-29  create rst; post on 05-01

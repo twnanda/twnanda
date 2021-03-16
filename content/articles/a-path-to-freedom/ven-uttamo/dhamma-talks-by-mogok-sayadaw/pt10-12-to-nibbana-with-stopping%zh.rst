@@ -3,12 +3,12 @@ To Nibbāna with Stopping
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-11-05
+:modified: 2021-03-16
 :tags: Nibbāna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: To Nibbāna with Stopping (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2021-03-16
 
 ------
 
@@ -16,7 +16,7 @@ Dhamma Talks by Mogok Sayadaw; 12th January 1961
 
 [According to Sayadaw, in the whole sutta pitaka, with the stopping method and realized Nibbāna were only two persons, Bāhiya Dārucīriya and Ven. Mālunkyāputta. He gave his view on this stopping method in the following talk. Sayadaw himself was quite a well know teacher in Abhidhamma during his time. 
 
-His view on the stopping method was also could be had some connections with his understanding of Abhidhamma teaching. Not only came from his understanding of the suttas. He himself was developing samādhi and practiced insight. 
+His view on the stopping method was also could be had some connections with his understanding of Abhidhamma teaching. It was not only came from his understanding of the suttas but also well experience in his own practice.
 
 He also taught his disciples to sit for samādhi. But in his many talks he didn’t mention much about it. In this talk he himself supported the Mahasi Sayadaw’s system as right practice.]
 
@@ -50,7 +50,7 @@ After the just knowing mind and follow behind with the later cognitive mind proc
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36187#p36187 (posted on 2019-03-25)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36187#p36187 (posted on 2019-03-25)
 
 ------
 
@@ -69,5 +69,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-29  create rst; post on 05-01
