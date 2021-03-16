@@ -3,12 +3,12 @@ Contentment (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-09-06
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Contentment (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-09-06
+revised on 2021-03-16
 
 ------
 
@@ -58,7 +58,7 @@ A big fire will burn everything whatever put into it, and never stop burning.
 
 Fire as a simile for greediness is not only burning the mind but also the physical world. The dangers coming from global warming are describing the over greediness or discontent of nowadays human beings.) Whatever water flows into the ocean from the land will never overflow. Human’s desire or greediness is never enough and it will always: “I want more! I want more!” (Human’s over exploitation of the earth resources has not finished yet and even now they are planning to outer space for the same purpose.) Someone has discontent and too choosy even their parents cannot bear it.
 
-Discontent with wholesome dhammas (i.e., merits) is good indeed. (i.e., merits related to sīla, samādhi and paññā). Searching, learning and studying on knowledge and wisdom should not have contentment. (These include worldly knowledge, but it should be wholesome and using them wisely and property. If not it will destroy or harm humans.) Then all these become wrong knowledges. With more knowledge and education is better.
+Discontent with wholesome dhammas (i.e., merits) is good indeed. (i.e., merits related to sīla, samādhi and paññā). Searching, learning and studying on knowledge and wisdom should not have contentment. (These include worldly knowledge, but it should be wholesome and using them wisely and properly. If not it will destroy or harm humans.) Then all these become wrong knowledges. With more knowledge and education is better.
 
 It can be used for the welfare and well-being of human race. Merits or wholesome Dhammas can be divided into different types, from the basic to higher levels. (e.g. sīla, samādhi and paññā). To develop merits is like a ladder going up higher and higher. (It does not mean that we should do it one by one. For example, giving dāna and at the same time observe sīla and doing meditation.)
 
@@ -125,13 +125,13 @@ There lived a very cruel pork butcher by the name of Cunda. He did this cruel bu
 
 The story of a butcher
 
-This happened when the Buddha stayed at Jetavana monastery. In Sāvatthī there was a butcher (not mentioned his name) slaughtered cattle and sold the meat for 55 years He craved for meat and took it with rice every day. One day he left some meat for his family and went to a riverside to have his bath. Unluckily a friend of him came and bought the meat by force. When he came back and did not find the meat. He never took his meal without meat-curry. He went to the back yard where his cattle were kept. He cut off the tongue of an ox and roasted it over a fire.
+This happened when the Buddha stayed at Jetavana monastery. In Sāvatthī there was a butcher (not mentioned his name) who slaughtered cattle and sold the meat for 55 years He craved for meat and took it with rice every day. One day he left some meat for his family and went to a riverside to have his bath. Unluckily a friend of him came and bought the meat by force. When he came back and did not find the meat. He never took his meal without meat-curry. He went to the back yard where his cattle were kept. He cut off the tongue of an ox and roasted it over a fire.
 
 During his meal, he made a bite on the tongue of the ox. As he did so, his own tongue also fell off into his plate. The butcher was in great pain and agony, he went on his knees with blood dripping profusely from the mouth. He died painfully and reborn in Hell. 
 
 Lost a wife for chillies
 
-This sad story happened some time ago at May-myo area in Burma. There was a couple doing farm work. The husband was very strong craving for chillies like the butcher in Sāvatthī. He always had his meal with chillies. One day during the meal he asked his wife where the chillies dish was. On that day, she was too busy and forgot to prepare it. He was so angry and could not control his anger, unluckily he grabbed the fire wood near him and bit her on the head. It seemed to be a little over force that she died instantly on the spot.
+This sad story happened some time ago at May-myo area in Burma. There was a couple doing farm work. The husband had very strong craving for chillies like the butcher in Sāvatthī. He always had his meal with chillies. One day during the meal he asked his wife where the chillies dish was. On that day, she was too busy and forgot to prepare it. He was so angry and could not control his anger, unluckily he grabbed the fire wood near him and bit her on the head. It seemed to be a little over force that she died instantly on the spot.
 
 Robbing a bank with a toy gun
 
@@ -206,7 +206,7 @@ Spiritual people, ancient sages and noble beings—mostly forest monks knew the 
 
 ------
 
-revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36973#p36973 (posted on 2019-11-20)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36973#p36973 (posted on 2019-11-20)
 
 ------
 
@@ -221,6 +221,7 @@ revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   2020-09-06 rev. the 3rd proofread by bhante
   07-03 rev. the 3rd proofread by bhante
   06-25 rev. the 2nd proofread by bhante

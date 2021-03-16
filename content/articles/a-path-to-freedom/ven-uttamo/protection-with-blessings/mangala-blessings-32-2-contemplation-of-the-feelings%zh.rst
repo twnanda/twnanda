@@ -3,12 +3,12 @@ Contemplation of Feelings: Vedanānupassanā (Maṅgala Sutta – Protection wit
 ========================================================================================
 
 :date: 2019-12-03
-:modified: 2020-06-30
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Contemplation of Feelings: Vedanānupassanā (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-06-30
+revised on 2021-03-16
 
 ------
 
@@ -21,6 +21,8 @@ Feelings arise in all minds. When the mind meets or contacts with an object and 
 Vedanānupassanā is contemplating the feeling or experience of the mind. Happy and unhappy are talking about vedanā. In some meditation centers, talking about to contemplate until the feelings are expired or to overcome vedanā. Could it be expired?
 
 With the mind exists and vedanā also exists. Even a very short period of mind (i.e., tadaṅga) has a feeling (vedanā), e.g.—The Path Mind (magga-citta). It experiences Nibbāna as happiness. (Here to overcome vedanā means to overcome dukkha vedanā with the contemplation. It is possible by practice.).
+
+This is a misunderstanding and an interpretation problem. It does not mean there is no vedanā and has physical pain but no mental pain. At that moment it becomes vipassānupekkhā – equanimity of insight.
 
 Mental factors (cetasika) are the movements of the mind. So, as a function, they are one. Therefore, we are using them as mind (citta). There are 52 types of mental factors (cetasikas). From there, the Buddha took out feelings (vedanā) as a particular contemplation.
 
@@ -83,7 +85,7 @@ With continued practice and discerning the three universal characteristics of ve
 
 ------
 
-revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36987#p36987 (posted on 2019-11-22)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36987#p36987 (posted on 2019-11-22)
 
 ------
 
@@ -98,6 +100,7 @@ revised on 2020-06-30; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-06-30 rev. the 1st proofread by bhante
+  2021-03-16 rev. proofread by bhante
+  06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

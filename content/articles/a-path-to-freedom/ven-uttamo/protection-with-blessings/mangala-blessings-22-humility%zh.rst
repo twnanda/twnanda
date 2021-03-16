@@ -3,12 +3,12 @@ Humility (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-09-06
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Humility (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-09-06
+revised on 2021-03-16
 
 ------
 
@@ -40,7 +40,7 @@ If a person becomes wiser and he will become humbler. By knowing more about the 
 
 At last most people will die without the true refuge. When still alive, they encounter a lot of difficulty and problems which they cannot solve or overcome by outside powers. The perfect or true refuge is wisdom (paññā), which is the internal quality of the mind. Everybody has it, and only we need to develop it.
 
-Therefore, the Buddha, the Dhamma and the Saṅgha (ariya saṅgha) are the perfect or true refuge. They represent only one thing—which is perfect wisdom. In general, true everyone refuge is the wholesome dhammas such as dāna, sīla, samādhi and paññā. These are not the outside powers and sensual pleasures which most people rely on it.
+Therefore, the Buddha, the Dhamma and the Saṅgha (ariya saṅgha) are the perfect or true refuge. They represent only one thing—which is perfect wisdom. In general, everyone true refuge is the wholesome dhammas such as dāna, sīla, samādhi and paññā. These are not the outside powers and sensual pleasures which most people rely on it.
 
 Generally speaking, the outside powers and external things/matters are untrue and belong to the fleeting nature. These things can be deluded our mind and created a lot of problems and sufferings in the world and societies. These unfortunate things are happening around us, which we can see in today world. Violence, terrorism, wars in the name of religion and power and all kinds of pollution (mind, body and nature) in the name of economics for sensual pleasures and overindulgence.
 
@@ -48,7 +48,7 @@ All these miserable things are created by fools and not the wise. The quality of
 
 ------
 
-revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36972#p36972 (posted on 2019-11-20)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36972#p36972 (posted on 2019-11-20)
 
 ------
 
@@ -63,7 +63,8 @@ revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-09-06 rev. the 3rd proofread by bhante
-  2020-06-25 rev. the 2nd proofread by bhante
+  2021-03-16 rev. proofread by bhante
+  09-06 rev. the 3rd proofread by bhante
+  06-25 rev. the 2nd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

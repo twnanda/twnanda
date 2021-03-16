@@ -3,12 +3,12 @@ Sorrowless (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-07-31
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Sorrowless (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-07-31
+revised on 2021-03-16
 
 ------
 
@@ -18,7 +18,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 Sorrow in the Pāli word is called soka. Encounter sorrow things and the mind has displeasure feeling of mental factor is called soka. Every time soka arises, including dosa (hatred). The deep sadness of sorrow is quite common in people of today. Sorrow comes from the loss of one’s loved family member, from lost one’s fortunes and the fortunes of friends, etc.
 
-All these are called soka. Here sorrow (soka) has a connection with loss and pain. The non-returner and arahant overcome sorrow. For others only by practice and wise contemplation. First has to know about the sufferings come from soka so that we can let go off it. Here I want to tell a true story of a man when encountered with death, which created sorrow for him and the family.
+All these are called soka. Here sorrow (soka) has a connection with loss and pain. The non-returner and arahant overcome sorrow but for others only by practice and wise contemplation. First has to know about the sufferings come from soka so that we can let go off it. Here I want to tell a true story of a man when encountered with death, which created sorrow for him and the family.
 
 This story had some good lessons for us to contemplate. I was living on the eastern coast of Taiwan. On every new year, I used to pay a visit to see my very old mother. For this purpose, I had to stay for a few days in this layman’s home. He was a cigarette smoker. Last year he had found out with the lung cancer of the second stage. Two or three years before, I urged him to have a medical check-up for lung cancer more than one or two times.
 
@@ -180,7 +180,7 @@ It was a great loss for her parents. The father was receiving guests and making 
 
 ------
 
-revised on 2020-07-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36999#p36999 (posted on 2019-11-22)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36999#p36999 (posted on 2019-11-22)
 
 ------
 
@@ -195,8 +195,9 @@ revised on 2020-07-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-07-31 rev. the 3rd proofread by bhante
-  2020-07-22 rev. the 2nd proofread by bhante
-  2020-06-30 rev. the 1st proofread by bhante
+  2021-03-16 rev. proofread by bhante
+  07-31 rev. the 3rd proofread by bhante
+  07-22 rev. the 2nd proofread by bhante
+  06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

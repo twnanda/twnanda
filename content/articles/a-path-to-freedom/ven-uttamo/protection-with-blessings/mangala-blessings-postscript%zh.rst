@@ -3,12 +3,12 @@ Postscript (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-07-22
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Postscript (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-07-22
+revised on 2021-03-16
 
 ------
 
@@ -53,7 +53,7 @@ The Buddha reminded us clearly about the nature of anger, and its results were q
 
 Why these unfortunate things happen to human beings continuously? Because most human beings do not know the law of kamma. Even if they know it, they have more faith in God than natural law. So, they do not take responsibility and do not know how to solve the problems.
 
-There was a true story that happened in Iran a few years ago. This incident was mentioned in the BBC radio program— Th Outlook. It was interesting and food for our heart. A young man was chasing a beautiful young woman. She rejected his proposal. Out of anger and hatred, he threw acid on her face when she was on her way back home.
+There was a true story that happened in Iran a few years ago. This incident was mentioned in the BBC radio program— The Outlook. It was interesting and food for our heart. A young man was chasing a beautiful young woman. She rejected his proposal. Out of anger and hatred, he threw acid on her face when she was on her way back home.
 
 We can imagine how much suffering and difficulties she had to go through after that tragedy. Later the young man who committed the evil crime was due to punishing with the Islamic Law (it seemed to be not with the criminal code). The day when the criminal was brought into justice, the young woman had to throw acid on the man’s face.
 
@@ -234,7 +234,7 @@ In this way, we protect oneself and protecting others, including nature. Every h
 
 ------
 
-revised on 2020-07-22; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=37001#p37001 (posted on 2019-11-22)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=37001#p37001 (posted on 2019-11-22)
 
 ------
 
@@ -249,7 +249,8 @@ revised on 2020-07-22; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-07-22 rev. the 2nd proofread by bhante
-  2020-06-30 rev. the 1st proofread by bhante
+  2021-03-16 rev. proofread by bhante
+  07-22 rev. the 2nd proofread by bhante
+  06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

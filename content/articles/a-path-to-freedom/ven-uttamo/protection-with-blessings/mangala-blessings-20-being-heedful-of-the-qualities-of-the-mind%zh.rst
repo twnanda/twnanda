@@ -3,12 +3,12 @@ Being Heedful of the Qualities of the Mind (Maṅgala Sutta – Protection with 
 ========================================================================================
 
 :date: 2019-12-03
-:modified: 2020-07-03
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Being Heedful of the Qualities of the Mind (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-07-03
+revised on 2021-03-16
 
 ------
 
@@ -53,7 +53,7 @@ The working of sati:
 | 
 | 5. the preceding of knowing and the following of knowing are in contact, not let other object come in between,
 | 
-| 6. all the tasks are important; it doesn’t mean do it all at the same time, only for one task which is now just doing. If not, you’ll make mistakes and become confused. The Buddha-sāsana had arisen for the changing of all the bad things into good things. So, we encounter a good life. Actually, the khandha is not good because it carries aging, sickness and death with it. With the sāsana the life becomes good. We can extract goodness from life. The most important task is what you are doing now. All matters should be kept within sati. By losing sati and it’ll full apart. Therefore, every task is important and every moment has value. It becomes samādhi if you put effort with sati. With the purified mind becomes paññā. One has to be dutiful in Dhamma-duty (i.e., doing everything with sati) to become the insider of the sāsana.
+| 6. all the tasks are important; it doesn’t mean do it all at the same time, only for one task which is now just doing. If not, you’ll make mistakes and become confused. The Buddha-sāsana had arisen for the changing of all the bad things into good things. So, we encounter a good life. Actually, the khandha is not good because it carries aging, sickness and death with it. With the sāsana the life becomes good. We can extract goodness from life. The most important task is what you are doing now. All matters should be kept within sati. By losing sati and it’ll fall apart. Therefore, every task is important and every moment has value. It becomes samādhi if you put effort with sati. With the purified mind becomes paññā. One has to be dutiful in Dhamma-duty (i.e., doing everything with sati) to become the insider of the sāsana.
 | 
 
 Without knowledge (knowing), we are deceived by the khandha. It will deceive us as permanence, happiness, self and beauty (nicca, sukha, atta, and subha). 
@@ -241,7 +241,7 @@ With diligent practice and he became an arahant. Once, King Pasenadi of Kosala a
 
 ------
 
-revised on 2020-07-03; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36970#p36970 (posted on 2019-11-20)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36970#p36970 (posted on 2019-11-20)
 
 ------
 
@@ -256,6 +256,7 @@ revised on 2020-07-03; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   07-03 rev. the 3rd proofread by bhante
   06-25 rev. the 2nd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante

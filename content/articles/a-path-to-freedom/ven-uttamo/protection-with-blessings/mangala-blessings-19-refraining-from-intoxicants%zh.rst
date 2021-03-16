@@ -3,12 +3,12 @@ Refraining from Intoxicants (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-09-06
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Refraining from Intoxicants (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-09-06
+revised on 2021-03-16
 
 ------
 
@@ -18,7 +18,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 It is a very important matter need to contemplate and reflect by every human being. Alcoholism has the longest human history to harm the human race. In some societies, even it becomes a culture. Drug addiction is worse than alcoholism, but it is not becoming a human culture yet. Nowadays, some countries legalized some drugs that will also become a human culture sooner or later in the future. Alcoholism is less harmful than drug addictions, but its effects on societies are much wider and complicated.
 
-Here refraining from intoxicants means all kinds of intoxicants which clouded the mind and cannot think clearly and behave foolishly. It is one of the very ill problems in societies. But the majority of people do not take it seriously like smoking problems. Why is that? Because they are in ignorance of the five precepts and no discernment in the harmfulness of alcoholism. It is including in the five precepts and may be the most dangerous one. If someone breaks this precept, there are more chances to break the others too. Because the mind cannot think good or bad, right or wrong, proper or improper, etc.
+Here refraining from intoxicants means all kinds of intoxicants which clouded the mind and cannot think clearly and behave foolishly. It is one of the very ill problems in societies. But the majority of people are not taking it seriously like smoking problems. Why is that? Because they are in ignorance of the five precepts and no discernment in the harmfulness of alcoholism. It is including in the five precepts and may be the most dangerous one. If someone breaks this precept, there are more chances to break the others too. Because the mind cannot think good or bad, right or wrong, proper or improper, etc.
 
 Alcoholics are the nuisances to their families and societies they lived in. They usually create a lot of problems and unhappiness in their families. Therefore, a very ill and serious problem in societies, especially for families. Everyone in a family should tackle alcoholism successfully, and then will have a prosperous and happy family life. There is a lot to talk about life sufferings and unhappiness which come from alcoholism. There was a documentary film on alcoholism and the sufferings and dangers it brings to societies.
 
@@ -92,7 +92,7 @@ After drunk, they are insulting people and beating their wives. People can be pa
 
 (2) Get disease and illness
 
-The common illness caused by intoxicants is cancer. There are also some of them I do not know about it. It can also lead to mental derangement or mental problems. I had known a family who had two children with mental derangement. The father was an alcoholic and married two times. From their first wife, he had two children, a daughter, and a son. The son after graduated and had a proper job.
+The common illness caused by intoxicants is cancer. Frequent consumption of alcohol and spirits can drastically increase the risk of esophageal (i.e., from throat to stomach areas) cancer. There are also some of them I do not know about it. It can also lead to mental derangement or mental problems. I had known a family who had two children with mental derangement. The father was an alcoholic and married two times. From their first wife, he had two children, a daughter, and a son. The son after graduated and had a proper job.
 
 And later had mental derangement and became a crazy man on the street. From the second wife, the man had some children. The oldest daughter in her teens had mental derangement and became crazy. Sometimes the working of kamma is very strange and inconceivable. I am allergic to alcohols and have an aversion to alcoholics and drunkards.
 
@@ -156,7 +156,7 @@ Because in the human world, they have more chances of making merits. Not because
 
 ------
 
-revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36969#p36969 (posted on 2019-11-20)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36969#p36969 (posted on 2019-11-20)
 
 ------
 
@@ -171,6 +171,7 @@ revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-09-06 rev. the 3rd proofread by bhante
+  2021-03-16 rev. proofread by bhante
+  rev. the 3rd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

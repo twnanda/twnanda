@@ -3,12 +3,12 @@ Paying Homage to Those Worthy of Homage (Maṅgala Sutta – Protection with Ble
 =====================================================================================
 
 :date: 2019-12-03
-:modified: 2020-09-06
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Paying Homage to Those Worthy of Homage (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-09-06
+revised on 2021-03-16
 
 ------
 
@@ -47,7 +47,7 @@ Only we are consorting with the wise and their teachings by practising them, we 
 
 ------
 
-revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36774#p36774 (posted on 2019-09-12)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36774#p36774 (posted on 2019-09-12)
 
 ------
 
@@ -62,7 +62,8 @@ revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   2020-09-06 rev. the 3rd proofread by bhante
-  2020-03-24 rev. the 2nd proofread by bhante
+  rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

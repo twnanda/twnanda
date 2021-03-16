@@ -3,12 +3,12 @@ Giving (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-09-06
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Giving (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-09-06
+revised on 2021-03-16
 
 ------
 
@@ -253,7 +253,7 @@ When these five results of giving were mentioned to General Sīha: he replied th
 
 Even the worst of all are encouraging people not to give. There was once a very wealthy man named Ānanda in Sāvatthī. He was a miserly man and encouraged his son Mūlasiri not to give. This rich man had five pots of gold buried in his house and died without revealing its location to anyone. He was reborn in a village of beggars not far from Sāvatthī. From the time when his mother was pregnant, all beggars in the village had difficulties in begging. They thought there must be a wicked and unfortunate person among them.
 
-By dividing themselves up in groups with the process of elimination. They found out the pregnant woman, and she was driven out of the village. A son was born to her, and he was very ugly and repulsive. If she went out alone by begging and got something. And with the boy got nothing. So, when the boy could go out by himself for begging, and she left her son. He wandered alone in Sāvatthī for begging and remembered his past life and old home. After arriving there, he went straight into the house. When the children of Mūlasiri saw him, they were frightened and crying. The servants beat him and threw him out of the house.
+By dividing themselves up in groups with the process of elimination. They found out the pregnant woman, and she was driven out of the village. A son was born to her, and he was very ugly and repulsive. If she went out alone by begging and got something, but with the boy they got nothing. So, when the boy could go out by himself for begging, and she left her son. He wandered alone in Sāvatthī for begging and remembered his past life and old home. After arriving there, he went straight into the house. When the children of Mūlasiri saw him, they were frightened and crying. The servants beat him and threw him out of the house.
 
 The Buddha was on his alms-round and saw the incident. Then the Buddha told Mūlasiri that the ugly young beggar was his father of previous life. He did not believe it. Therefore, the Buddha asked the beggar to show them the buried gold. And Mūlasiri became a lay disciple. Then the Buddha spoke in verse as follow: 
 
@@ -333,7 +333,7 @@ Give a gift with the thought “This is an ornament for the mind, a support for 
 
 ------
 
-revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36957#p36957 (posted on 2019-11-18)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36957#p36957 (posted on 2019-11-18)
 
 ------
 
@@ -348,7 +348,8 @@ revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-09-06 rev. the 3rd proofread by bhante
-  2020-06-25 rev. the 2nd proofread by bhante
+  2021-03-16 rev. proofread by bhante
+  09-06 rev. the 3rd proofread by bhante
+  06-25 rev. the 2nd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

@@ -3,12 +3,12 @@ A Mind Is Unshaken When Touched by the Ways of the World (Maṅgala Sutta – Pr
 ======================================================================================================
 
 :date: 2019-12-03
-:modified: 2020-07-31
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: A Mind Is Unshaken When Touched by the Ways of the World (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-07-31
+revised on 2021-03-16
 
 ------
 
@@ -40,7 +40,7 @@ It was like the law of kamma; the past life kammas (actions) had been done follo
 
 So, living beings cannot separate themselves from kamma that cannot free from the worldly dhamma. Even the Buddha and some of his chief and great disciples could not shun away from them. Once the time the Buddha and monks could not get any food that they had to eat some very coarse foods which were fed for horses. Ciñcamāṇavikā, who was a devoted pupil of other faith, accused the Buddha of having an affair with her. (DhA. iii. 178f; J. iv. 187F, Jātaka 472 Mahāpaduma Jātaka; ItA. 69)
 
-Even the Buddha sometimes had sickness with pains. Ven. Mahāmoggallāna, the chief disciple of the Buddha, had been killed by the assassins, it was also connected with this worldly dhamma. Once, the Nigaṇṭha ascetic planned to kill him. Because they thought the diminishing of their fame and fortune was related to him. So, they hired some assassins to kill him. At last Ven. Mahāmoggallāna was caught by the assassins and he was beaten up until all his bones were broken.
+Even the Buddha sometimes had sickness with pains. Ven. Mahāmoggallāna, the chief disciple of the Buddha, had been killed by the assassins, it was also connected with this worldly dhamma. Once, the Nigaṇṭha ascetics planned to kill him because they thought the diminishing of their fame and fortune was related to him. So, they hired some assassins to kill him. At last Ven. Mahāmoggallāna was caught by the assassins and he was beaten up until all his bones were broken.
 
 Nobody frees or escapes from censure. How to deal with censure is also very important. We do not need to pay much attention to the fools who censure us. But we need to listen and pay attention to the wise and noble people for their censure. After that, we have to correct and improve ourselves. We need to live a life of blamelessness and praise by them.
 
@@ -156,7 +156,7 @@ With gain become more and more insatiable. So, people want to gain more and more
 
 ------
 
-revised on 2020-07-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36997#p36997 (posted on 2019-11-22)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36997#p36997 (posted on 2019-11-22)
 
 ------
 
@@ -171,8 +171,9 @@ revised on 2020-07-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-07-31 rev. the 3rd proofread by bhante
-  2020-07-22 rev. the 2nd proofread by bhante
-  2020-06-30 rev. the 1st proofread by bhante
+  2021-03-16 rev. proofread by bhante
+  07-31 rev. the 3rd proofread by bhante
+  07-22 rev. the 2nd proofread by bhante
+  06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

@@ -3,12 +3,12 @@ Residing in a Suitable Place (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-03-24
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Residing in a Suitable Place (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-03-24
+revised on 2021-03-16
 
 ------
 
@@ -22,7 +22,7 @@ Scholars translate paṭirūpa-desa as civilized land or suitable place. How do 
 
 For noble beings, sages and the wise, the suitable place is for mental well-being where we can develop our sīla, samādhi and paññā. It does not mean that the Buddha had neglected of material well-being. By studying the Pāli Texts, we know that the Buddha taught nearly everything which had connection with human beings. Therefore, material well-being is subordinate to mental well-beings. We can know this point very clear by observing today world situations.
 
-The Buddha mentioned the importance of locality or places for the development and progress in worldly and spiritual matters. What are the things to choose for a suitable locality? We should consider on education, economy, health, spiritual, etc. We will have no progress for our whole life if living at wherever we are in. It is the best place to reside where there is the chance to realize the path and fruit of the Buddha dhamma; a place where we can fulfill the perfection (pāramīs) of the Buddha's teachings.
+The Buddha mentioned the importance of locality or places for the development and progress in worldly and spiritual matters. What are the things to choose for a suitable locality? We should consider on education, economy, health, spiritual, etc. We will have no progress for our whole life if living at wherever we are in. It is the best place to reside where there is the chance to realize the path and fruit of the Buddha D hamma ; a place where we can fulfill the perfection (pāramīs) of the Buddha's teachings.
 
 We should reside in countries where there is the Buddha sāsana. In general, a place where can support us for making merits; obtain wealth, education, and health. We can also distinguish a place with three periods of human life span: when young a suitable place for education, during the middle period for wealth and the last period for spiritual progress.
 
@@ -61,7 +61,7 @@ These are: ① hells, ② animals, ③ ghosts-realms; ④ Brahma gods with only 
 
 ------
 
-revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36775#p36775 (posted on 2019-09-12)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36775#p36775 (posted on 2019-09-12)
 
 ------
 
@@ -76,6 +76,7 @@ revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-03-24 rev. the 2nd proofread by bhante
+  2021-03-16 rev. proofread by bhante
+  rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante; replace title "Living in a Civilized Land"(old) with "Residing in a Suitable Place"
   2019-12-03  create rst

@@ -3,12 +3,12 @@ Assistance to One's Wife and Children (Maṅgala Sutta – Protection with Bless
 ==================================================================================
 
 :date: 2019-12-03
-:modified: 2020-09-08
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Assistance to One's Wife and Children (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-09-08
+revised on 2021-03-16
 
 ------
 
@@ -86,13 +86,13 @@ One day the Buddha saw him leaning against the wall of the monastery and eating 
 
 “Ānanda, look at this son of a rich man; he had lived a useless life, aimless life of pleasure. If he had learned to look after his riches and in the first stage of his life would have been the top ranking rich man. If he had become a monk, could have been an arahant and his wife an anāgāmi (the non-returner). If he had learned to look after his riches in the second stage of his life, he would have been a second ranking rich man.
 
-He could have been an anāgāmin; and his wife a sakadāgāmi (the once-returner), etc., if he had become a monk. However, he lost all the riches, and also all the chances of realization of the paths and fruits because he had done nothing all the three stages of his life.” In this story, we can see the importance of the four wheels mentioned in the Wheels Discourse already described at directing oneself rightly which related to the present life and its actions.
+He could have been an anāgāmin; and his wife a sakadāgāmi (the once-returner), etc., if he had become a monk. However, he lost all the riches, and also all the chances of realization of the paths and fruits because he had done nothing all the three stages of his life.” In this story, we can see the importance of the four wheels mentioned in the Wheels Discourse already described a s “directing oneself right ly ” (no. 3) which related to the present life and its actions.
 
 The Story of Kāla, Son of Anāthapiṇḍika:
 
 Kāla, the son of Anāthapiṇḍika always kept himself away, whenever the Buddha and his company of monks came to their house. Anāthapiṇḍika was worried that if his son kept on behaving in this way would not get any benefit. So he used money as a bait to change his son. He promised to give him 100 coins if the son consented to go to the monastery and keep the sabbath for one day. So Kāla went there and returned home early the next day without listening to any Dhamma discourse.
 
-Next time, Anāthapiṇḍika said to his son; “My son, if you learned a stanza of the Buddha's teaching, I will give you 1,000 coins on your return.” So, Kāla went to the Monastery again. This time he tried to learn something from the Buddha. The Buddha gave him a short stanza for learning by heart, and at the same time made him forgot it. Thus he had to repeat it so many times that in the end came to understand the full meaning of the Dhamma and then attained the Path and Fruit of a stream-winner (sotāpanna).
+Next time, Anāthapiṇḍika said to his son; “My son, if you learned a stanza of the Buddha's teaching, I will give you 1,000 coins on your return.” So, Kāla went to the Monastery again. This time he tried to learn something from the Buddha. The Buddha gave him a short stanza for learning by heart, and at the same time made him forgot it. Thus he had to repeat it so many times that in the end came to understand the full meaning of the Dhamma and then attained the Path and Fruit of a stream-winner (sotāpanna). The method here was very similar to a Chinese way of - Reading text book for hundred or thousand times.
 
 Early on the next morning, Kāla followed the Buddha and the saṅgha to his house. His father offered the rice gruel to the Buddha and the saṅgha. After that, the father brought 1000 coins and gave him, in front of the Buddha, but he refused to take it. Then the Buddha told Anāthapiṇḍika; “Dāyaka, your son had attained the Fruition State of a stream-winner which is much better and greater than the richest off of a universal Monarch, the status of celestial beings and Brahmā-gods.”
 
@@ -138,7 +138,7 @@ How many animals are killed every day around the world for foods alone. In the s
 
 ------
 
-revised on 2020-09-08; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36849#p36849 (posted on 2019-10-09)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36849#p36849 (posted on 2019-10-09)
 
 ------
 
@@ -153,7 +153,8 @@ revised on 2020-09-08; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-09-06; 08 rev. the 3rd proofread by bhante
-  2020-03-24 rev. the 2nd proofread by bhante
+  2021-03-16 rev. proofread by bhante
+  09-06; 08 rev. the 3rd proofread by bhante
+  03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

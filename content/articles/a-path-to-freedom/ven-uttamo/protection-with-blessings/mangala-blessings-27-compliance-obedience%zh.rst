@@ -3,12 +3,12 @@ Compliance / Obedience (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Compliance / Obedience (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2021-03-16
 
 ------
 
@@ -47,7 +47,7 @@ If they grew up in this way, their lives would be in downfall for sure. So, pare
 
 A Thief of Scent
 
-A certain monk was dwelling in a certain woodland thicket. When he had returned from his alms round and after the meal, he had a habit. He used to descent into a pond and sniff the scent of lotus flowers there. The devatā (female deity) inhabited the woodland thicket concerned his practice, desired his good and to stir up a sense of urgency (saṁvega) in him, and approached him. She reproached him as follow.
+A certain monk was dwelling in a certain woodland thicket. When he had returned from his alms round and after the meal, he had a habit. He used to descend into a pond and sniff the scent of lotus flowers there. The devatā (female deity) inhabited the woodland thicket concerned his practice, desired his good and to stir up a sense of urgency (saṁvega) in him, and approached him. She reproached him as follow.
 
 The monk sniffed the scent of lotus flowers which had not been given. So, this was a factor of theft, and became a thief of scent. The monk responded that he did not take it or damaged it. And only sniffed the scent from a distance. So, what was the reason to accuse him as a thief of scent? But there were also others who dug up the lotus stalks and damaged the flowers.
 
@@ -81,7 +81,7 @@ These qualities are ingrained in sages and noble beings. To become a good person
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36979#p36979 (posted on 2019-11-21)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36979#p36979 (posted on 2019-11-21)
 
 ------
 
@@ -96,5 +96,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

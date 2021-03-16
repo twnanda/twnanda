@@ -1,14 +1,14 @@
-================================================================================================================
-Purification of the Path and Not-Path (Maṅgala Sutta – Protection with Blessing)
-================================================================================================================
+=======================================================================================================================
+Purification of the Path and Not-Path (Maggāmagga nāṇadassanavisuddhi) (Maṅgala Sutta – Protection with Blessing)
+=======================================================================================================================
 
 :date: 2019-12-03
-:modified: 2020-09-06
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Purification of the Path and Not-Path (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-09-06
+revised on 2021-03-16
 
 ------
 
@@ -84,7 +84,7 @@ The problem here is the yogi’s attachment or pleasure in them. It is nikanti o
 
 ------
 
-revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36994#p36994 (posted on 2019-11-22)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36994#p36994 (posted on 2019-11-22)
 
 ------
 
@@ -99,6 +99,7 @@ revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-09-06 rev. the 3rd proofread by bhante
-  2020-05-29 rev. the 1st proofread by nanda
+  2021-03-16 rev. proofread by bhante
+  09-06 rev. the 3rd proofread by bhante
+  05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

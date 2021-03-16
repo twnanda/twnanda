@@ -3,12 +3,12 @@ Well Spoken Words (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-03-24
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Well Spoken Words (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-03-24
+revised on 2021-03-16
 
 ------
 
@@ -30,7 +30,7 @@ At the time, the Buddha was dwelling at Sāvatthi. The two chief disciples Sāri
 
 Therefore, the lay community brought many good things for the chief disciples as offering and placed it in front of Kokālika. He knew that the chief disciples were very frugal and would not accept the offerings obtained by suggestion. And then they would tell the people to give it to the resident monk. Kokālika informed this to the elders but Sāriputta and Mahā-Moggallāna did not accept them because they knew it was obtained by suggestive speech. They also did not tell the people to give it to the resident monk because it was not suitable for any monk for use. Without saying anything, they left the monastery. Kokālika was left behind alone with anger and had strong grudge against them.
 
-After the rain retreat Sāriputta and Mahā-Moggallāna paid a visit to the Buddha. After that the chief disciples with 500 monks wandered on tour and returned back at the place where Kokālika was. The lay supporters recognized the elders and gave a big offerings to the monks. The chief disciples accepted them and gave it to the Saṅgha (because it was obtained in lawful way). Kokālika saw this and went to the elders and accused them of evil monks with evil desires making a false display of excellent qualities. He himself went to the Buddha and informed him that the elders had evil desires and had come under the control of evil desires. The Buddha exhorted him as saying the elders were virtuous and not saying in this way. But Kokālika’s hatred was so strong to the elders that he did not listen to the Buddha and accused of Sāriputta and Mahā-Moggallāna in three times.
+After the rain retreat Sāriputta and Mahā-Moggallāna paid a visit to the Buddha. After that the chief disciples with 500 monks wandered on tour and returned back at the place where Kokālika was. The lay supporters recognized the elders and gave a big offerings to the monks. The chief disciples accepted them and gave it to the Saṅgha (because it was obtained in lawful way). Kokālika saw this and went to the elders and accused them of evil monks with evil desires making a false display of excellent qualities. He himself went to the Buddha and informed him that the elders had evil desires and had come under the control of evil desires. The Buddha exhorted him as saying the elders were virtuous and he should not say in this way. But Kokālika’s hatred was so strong to the elders that he did not listen to the Buddha and accused of Sāriputta and Mahā-Moggallāna in three times.
 
 After he left the Buddha and out of his sight, Kokālika’s body became covered with boils the size of mustard seeds. It grew into bigger and bigger, bursting open, exuding pus and blood. Kokālika died with this kammic illness and his resentment at Sāriputta and Mahā-Moggallāna and then reborn in the red-lotus hell.
 
@@ -131,7 +131,7 @@ So, the outcomes of the wrong view are bad consequences and right views are good
 
 ------
 
-revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36818#p36818 (posted on 2019-09-26)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36818#p36818 (posted on 2019-09-26)
 
 ------
 
@@ -146,6 +146,7 @@ revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-03-24 rev. the 2nd proofread by bhante
+  2021-03-16 rev. proofread by bhante
+  rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

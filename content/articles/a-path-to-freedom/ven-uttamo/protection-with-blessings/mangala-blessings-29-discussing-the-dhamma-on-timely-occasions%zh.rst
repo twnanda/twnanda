@@ -3,12 +3,12 @@ Discussing the Dhamma on Timely Occasions (Maṅgala Sutta – Protection with B
 =======================================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Discussing the Dhamma on Timely Occasions (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2021-03-16
 
 ------
 
@@ -42,7 +42,7 @@ There is no doubt that discussion or dialogue on Dhamma has great benefits. Ther
 
 Dialogue between faiths is also very important. Especially nowadays this is more urgently need. The main goal of all faiths is peace, harmony and happiness. The basic foundation is nearly the same, i.e., morality; to become a good human being. Because of misunderstanding and misinterpretation, one’s own and other faiths create problems and mistrust. There is also conceit—the superior syndrome. Because of this defilement, some people worship the same God, killing and harming other faiths.
 
-Today human morality is going down very quickly like a thermometer. Dialogue between faiths can help to solve the problem of moral degeneration. We can learn from each other and helping each other to solve social problems. In this respect, Buddha-Dhamma can offer a lot. Dialogue between world leaders, politicians, are also very important for their countries stability and the world.
+Today human morality is going down very quickly like a thermometer. Dialogue between faiths can help to solve the problem of moral degeneration. We can learn from each other and helping each other to solve social problems. In this respect, Buddha-Dhamma can offer a lot. Dialogue between world leaders, politicians, are also very important for the stability of their countries and the world.
 
 Out of greed and selfishness, some leaders and politicians only make their countries great and not a concern for others. They have ill-will and capitalist syndrome of growth, profits and competition. Greedy, ill-will, envy, avarice, exploitation, etc. will never bring harmony, peace and happiness to one’s own country and the world. Look at today world situations and we know the outcomes and conditions of unwholesome dhamma. A human cannot solve the worldly problems with confrontation and competition. Because greed, ill-will, delusion are the root of all suffering.
 
@@ -88,6 +88,14 @@ He continued to explain to them. Even though a noble disciple had abandoned the 
 | (9) restlessness,
 | (10) ignorance.
 | 
+
+**Note:**
+
+The third fetter of the distorted grasp of rules and vows is very important for true Buddhists to transcend Dukkha Sacca. If not, they can be fallen into extreme view of bhavataṇhā – craving for becoming which is Samudaya Sacca.
+
+Kilesa-mara comes in as impostor pretends to be true compassion and wisdom which deviate from the middle way – such as the doctrine of enlightened bodhisatta view.
+
+------
 
 As an anāgāmi, Ven Khemaka had eradicated the first five fetters. But he still had relation to the five aggregates subjected to clinging. It lingered in him as a residual conceit “I am”, a desire “I am”, an underlying tendency “I am” that had not yet been uprooted. So, the yogi had dwelt to contemplate the rise and fall in the five aggregates subjected to clinging and the residual conceit and the underlying tendency “I am”, came to be uprooted.
 
@@ -147,7 +155,7 @@ Even we can say all the human problems and sufferings come from not knowing the 
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36981#p36981 (posted on 2019-11-21)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36981#p36981 (posted on 2019-11-21)
 
 ------
 
@@ -162,5 +170,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-03-16 rev. proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

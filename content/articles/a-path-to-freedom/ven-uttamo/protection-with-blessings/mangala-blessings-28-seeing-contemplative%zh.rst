@@ -3,12 +3,12 @@ Seeing Contemplative (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-09-06
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Seeing Contemplative (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-09-06
+revised on 2021-03-16
 
 ------
 
@@ -94,7 +94,7 @@ The Buddha saved him for killing his mother. This was a very heavy unwholesome a
 For people who do not have the chances of seeing samaṇas they need to be very careful how to use the many media. Because there are many unwholesome things and matters are going on. Out of greed and hatred, some foolish people using the media exploit and harm others. Even politicians or some world leaders using them to harm the opposition. With the help of science to harm people are more easier and have great consequences than before.
 
 
-(2) The unsurpassed hearing: savaṇānuttariyaṃ
+(2) The unsurpassed hearing: savanānuttariyaṃ
 
 We have ears and hear many types of sound and voices. Most people are not using their ears properly or wisely. Therefore, there are a lot of noise pollution going on. Mostly these are artificial sound and voices by men and barking dogs. Even pollution of the ear can be divided into 2; material sound and human voices or speech. In modern-day noise, pollution are big problems. Human life is not quiet anymore. There are noises or sound from machines, animals (especially dogs barking) and music, etc.
 
@@ -110,14 +110,14 @@ The eye and ear are burning with polluted media sound and noises. The nose is bu
 
 There are a lot of things, not helping our many problems and difficulties in life. If we get lost in them, even become harmful. The wholesome things and matters are medicines of the mind and it become educations and the unwholesome ones will become poisons and harm everyone. For living beings, especially humans, seeing and listening are very important parts of our lives. How to use them properly and wisely is very important? The gods in rūpaloka (fine-material realm) use only the eyes and ears. Nose, tongue and body sensations are not useful for them.
 
-Why is that? Because their minds are pure and they only need the eyes to see the Buddha and noble beings, and with ears listen to their Dhamma. These two factors of seeing contemplatives and listening Dhamma are prerequisites for practicing Dhamma, and enlightenment. There were a lot of stories in the suttas mentioned about monks and lay people who met contemplatives and listened to Dhamma and their lives were changed dramatically. For the Buddha, the unsurpassed hearing or noble listening was on Dhamma—Dhamma savaṇānuttariyaṃ.
+Why is that? Because their minds are pure and they only need the eyes to see the Buddha and noble beings, and with ears listen to their Dhamma. These two factors of seeing contemplatives and listening Dhamma are prerequisites for practicing Dhamma, and enlightenment. There were a lot of stories in the suttas mentioned about monks and lay people who met contemplatives and listened to Dhamma and their lives were changed dramatically. For the Buddha, the unsurpassed hearing or noble listening was on Dhamma—Dhamma savanānuttariyaṃ.
 
 
 (3) The unsurpassed gain—lābhānuttariyaṃ
 
 This is a very wide subject to talk about. The Buddha mentioned some of them by common people, such as someone gains a son, a wife, wealth and various goods, etc. There are many kinds human beings want to get or attain. These things are depending on their desire and interest. Some of them are necessary to have and some are not. Some of the things are for pleasure and some are for knowledge.
 
-People use money, time and effort to get them. Some of them after attaining, it leads to stress, problems and sufferings; e.g., money, power. Because people cannot use them properly or wisely. And then by loosing or lost them lead to sorrow, lamentation, pain, grief and despair. Nowadays, humans are crazy to get more money. It becomes the mad, mad world. What for? For indulging in sensual pleasure which is low, common, worldly, ignoble and unbeneficial. These made people become more and more discontent.
+People use money, time and effort to get them. Some of them after attaining, it leads to stress, problems and sufferings; e.g., money, power. Because people cannot use them properly or wisely. And then by loosing or lost them lead to sorrow, lamentation, pain, grief and despair. Nowadays, humans are crazy to get more money. It becomes the mad, mad world. What it is for? For indulging in sensual pleasure which is low, common, worldly, ignoble and unbeneficial. These made people become more and more discontent.
 
 So, they do all sorts of things and matters to satisfy their desire and craving. This harm themselves and others, even to nature and environments. For the Buddha to have or gain faith (saddhā) in the Buddha, Dhamma and Saṅgha was the unsurpassed thing to have or gain—lābhānuttariya. Faith in the Buddha’s teaching had levels. It can be blind faith, ordinary faith and confident or conviction (the highest level). The Buddha never encouraged the lowest level of blind faith which could be false or true, and it could be dangerous and harmful, e.g., some modern cults (Faith in religions is a serious matter and we should not take it lightly).
 
@@ -144,7 +144,7 @@ So, they have to create problems and conflicts for using it. These leaders and g
 
 Therefore, fundamental knowledge or moral education is extremely important. Without this foundation, even wholesome knowledge can create problems and sufferings to family life and society. So, human knowledge is use to solve poverty and other problems and not for selfishness, exploitation and harming. Therefore, human worldly knowledge has two kinds; wholesome and unwholesome. There is also a special knowledge or transcendental knowledge, or super knowledge only came from a Buddha.
 
-Even wholesome worldly knowledge by using it wrongly, foolishly and stupidly bring a lot of harms, because it is based on craving, greed, ill-will, hatred, delusion, and ignorance. Therefore, the Buddha said that all worldly pleasure came from worldly knowledge are low and ignoble. These cannot free one from the round of existences (saṁsāra), not free from dukkha, not make the mind calm and peaceful, cannot develop penetrative knowledge, not lead to right knowing, not leading to the goal of Nibbāna which known by the ariyas. Sometimes people are too ignorant and stupid that they study, learn and imitate everything. There was an interesting ghost (peta) story on this point.
+Even wholesome worldly knowledge by using it wrongly, foolishly and stupidly bring a lot of harms, because it is based on craving, greed, ill-will, hatred, delusion, and ignorance. Therefore, the Buddha said that all worldly pleasure came from worldly knowledge are low and ignoble. These cannot free one from the round of existences (saṁsāraṁ), not free from dukkha, not make the mind calm and peaceful, cannot develop penetrative knowledge, not lead to right knowing, not leading to the goal of Nibbāna which known by the ariyas. Sometimes people are too ignorant and stupid that they study, learn and imitate everything. There was an interesting ghost (peta) story on this point.
 
 
 Miserable Strange Ghost:
@@ -152,7 +152,7 @@ Miserable Strange Ghost:
 One day Ven. Mahāmoggallāna came down from the Gijjha-kūṭa hill in Rājagaha. On the way, he met a very strange miserable ghost (peta). This peta head was pounding with many iron hammers and he fell on to the ground. And then he became normal again and the ghost got up again. As soon as he got up, all the iron hammers fell on his head again. It went on like this for non-stop. So, the Venerable asked him; “Oh! Man, why are you like a crazy one—like a deer, the whole body is trembling with fear and running to here and there? Indeed you had done the evil deed in the past and because of that, you were crying loudly with miserable voice. Who are you?”
 
 
-Before the hammers appeared again and struck his head, he answered to the Ven. As follow; “I am a peta and because of my evil deed, I had been fallen into hell before. The result of my evil deed is not finished yet. So, I have to continue for it as a peta. Every day my suffering is 60,000 iron hammers are falling on my head and breaking it into pieces.” The Ven. asked him; “Of the three actions, physical, verbal and mental which action did you commit?” Then the peta described his evil deed. “Ven. Sir, in one of my past lives as a man, I saw the Pacceka-buddha Sunetta. He was in meditation under a tree near the bank of the Ganges River. At that time, I have just learned my skill of throwing pebbles. For testing my skill, I threw a pebble on his head and it broke his head and died on the spot. (The stone pebble went into the right ear and came out from the left ear. People saw this became very angry and beat him to death.) Because of this evil deed, now the iron hammers are pounding on my head.” (DhA. ii. 71F; Pv. iv. 16; PvA. 283f)
+Before the hammers appeared again and struck his head, he answered to the Ven. as follow; “I am a peta and because of my evil deed, I had been fallen into hell before. The result of my evil deed is not finished yet. So, I have to continue for it as a peta. Every day my suffering is 60,000 iron hammers are falling on my head and breaking it into pieces.” The Ven. asked him; “Of the three actions, physical, verbal and mental which action did you commit?” Then the peta described his evil deed. “Ven. Sir, in one of my past lives as a man, I saw the Pacceka-buddha Sunetta. He was in meditation under a tree near the bank of the Ganges River. At that time, I have just learned my skill of throwing pebbles. For testing my skill, I threw a pebble on his head and it broke his head and died on the spot. (The stone pebble went into the right ear and came out from the left ear. People saw this became very angry and beat him to death.) Because of this evil deed, now the iron hammers are pounding on my head.” (DhA. ii. 71F; Pv. iv. 16; PvA. 283f)
 
 The Pacceka-buddha Sunetta was mentioned in the Peta Vatthu two times. Another time was he met a young prince who was conceited and with anger broke his alms bowl (Pv. iii. 2; iv. 7; PvA. 177f., 264). The prince after died and born in hell. After released from hell and born as a peta, and then at last born into a fishing village as a man. From this last life as a human being, he became the arahant Ven. Sāṇavāsī [Sānuvāsi (sī.), Sānavāsi (syā.)]. All these peta stories taught us to see the burdened khandha and its dukkha.
 
@@ -240,7 +240,7 @@ Therefore, the Buddha taught that this was the highest protection and blessing i
 
 ------
 
-revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36980#p36980 (posted on 2019-11-21)
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36980#p36980 (posted on 2019-11-21)
 
 ------
 
@@ -255,6 +255,7 @@ revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-09-06 rev. the 3rd proofread by bhante
+  2021-03-16 rev. proofread by bhanteold: savaṇānuttariyaṃ
+  09-06 rev. the 3rd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

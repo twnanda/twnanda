@@ -3,12 +3,12 @@ Support for One’s Parents (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-03-24
+:modified: 2021-03-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Support for One’s Parents (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-03-24
+revised on 2021-03-16
 
 ------
 
@@ -103,11 +103,47 @@ The Buddha mentioned seven kinds of fire in the Aggi Sutta – the Fire Discours
 
 If someone very badly treating his or her parents and will get the same outcome from his or her children. Both of them cannot get good children of their own. This we can see in the life of King Ajātasattu. He killed his father King Bimbisāra for power. Later in life, he was also killed by his son. Again his son was killed by his grandson.
 
-Three generations had been committed patricides. Nowadays if we observe our present societies, there are more and more cases of insulting, beating, and killing parents than before. We can see more and older homeless people on the streets. These and other things are the signs of decadence in human societies. Human beings are creating their hells on Earth. These are also predictions for their future to come.
+Three generations had committed patricides. Nowadays if we observe our present societies, there are more and more cases of insulting, beating, and killing parents than before. We can see more and older homeless people on the streets. These and other things are the signs of decadence in human societies. Human beings are creating their hells on Earth. These are also predictions for their future to come.
+
+In the Dhammapada text relating to the death of Ven. Mahā Moggallāna, the Buddha mentioned to the audience the evil consequences of killing one's parents.
 
 ------
 
-revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36820#p36820 (posted on 2019-09-27)
+X Punishment (Da avagga): 7. ṇḍ Mahā Moggallāna’s story 
+
+In one of his past lives, he killed both of his blind parents because of his wicked wife. Before married this woman he was a dutiful son (shao-gi).
+
+The Buddha taught four verses on this occasion – verse 137 to verse 140.
+
+Verse 137 is the kammic action (cause) of killing parents (can include noble beings) and verses 138 to 140 are the results.
+
+Verse 137 – Harm with weapons to those who are harmless and should not be harmed will soon come any of these 10 evil results.
+
+Verse 138 to 140 are 10 evil consequences:
+
+1. subject to severe pain
+
+2. impoverishment
+
+3. injury to the body (e.g. loss of limbs)
+
+4. serious illness (e.g. leprosy)
+
+5. lunacy
+
+6. follow with misfortunes
+
+7. wrongful and serious accusations
+
+8. loss of relatives
+
+9. destruction of wealth with burning down houses by fire and lightening
+
+10. after death fall into great Hell as birth.
+
+------
+
+revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36820#p36820 (posted on 2019-09-27)
 
 ------
 
@@ -122,6 +158,7 @@ revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-03-24 rev. the 2nd proofread by bhante
+  2021-03-16 rev. proofread by bhante
+  03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst
