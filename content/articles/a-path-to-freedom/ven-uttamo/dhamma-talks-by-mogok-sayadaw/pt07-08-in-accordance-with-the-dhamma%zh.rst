@@ -3,12 +3,12 @@ In Accordance with the Dhamma
 ==========================================
 
 :date: 2019-04-28
-:modified: 2021-03-15
+:modified: 2021-03-26
 :tags: the Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: In Accordance with the Dhamma (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-03-15
+revised on 2021-03-26
 
 ------
 
@@ -31,7 +31,7 @@ Know its disenchantment if it’s showing disenchantment. Know its upekkhā if i
 
 If, it’s vanishing and you know it as vanishing, etc. It takes longer time if kilesa comes in. If not coming in, it might take a week or seven days (to fulfill). Even you can achieve it by practice in the morning and realize in the evening. It can be fulfilled from ① to ③ by prayers. No. ④ is only with practicing by yourself.
 
-It's sure for you to realize it if you can make your knowledge accordingly with impermanence. n o. is more ④ important than no. ⑤ . The reason is n o. ④ the insight knowledge must be sharp for no. ⑤ Path Knowledge to arise Path knowledge. Have to contemplate as the arising is dukkha and the vanishing is dukkha. Their ending is the cessation of dukkha.
+It's sure for you to realize it if you can make your knowledge accordingly with impermanence. No. ④ is more important than no. ⑤. The reason is no. ④ the insight knowledge must be sharp for no. ⑤ Path Knowledge to arise Path knowledge. Have to contemplate as the arising is dukkha and the vanishing is dukkha. Their ending is the cessation of dukkha.
 
 No. ④ has the five path factors and ⑤ has the eight path factors. The path knowledge, the fruition knowledge and the reviewing knowledge (Paccavekkhana Ñāṇa), all are seeing the cessation of dukkha (i.e., Nibbāna).
 
@@ -39,13 +39,13 @@ The body becomes light and the heart becomes cool. (Sayadaw continued the Sakka 
 
 [And then Sayadaw talked about living beings were oppressed and killed by the three feelings. Giving a simile of a fish, a fish is seeing a bait (upekkhā) and wants to eat it (sukha). It gulps the bait and pulls up by the fisherman and beats to death (dukkha)].
 
-**Note:** From the beginning of this talk, Sayadaw mentioned these words “Some have already fulfilled this point also. They are not so few. You all are my veneyya (enlighten by his instructions). These are referring to no. 5 point which is Nibbāna. This is inspiring and encouraging for us who study his talks. I have no doubt about the success of his teaching. The yogis he referred were the ones who often listened to his talks every day two or three times for many years at three places (Amarapura, Mandalay and Mogok). Some staged at these centers and practiced under his guidance for a long retreat.
+**Note:** From the beginning of this talk, Sayadaw mentioned these words “Some have already fulfilled this point also. They are not so few. You all are my veneyya (enlighten by his instructions). These are referring to no. 5 point which is Nibbāna. This is inspiring and encouraging for us who study his talks. I have no doubt about the success of his teaching. The yogis he referred were the ones who often listened to his talks every day two or three times for many years at three places (Amarapura, Mandalay and Mogok). Some stayed at these centers and practiced under his guidance for a long retreat.
 
-The three talks here: The Hidden Treasure, Priceless Treasure of Mankind and In Accordance with the Dhamma, all were delivered on 16th November 1961. In the Dhamma list of that year (i.e., November and December 1961) he gave two or three talks a day. The reason behind is some lay people led by U Tan Daing from Rangoon came to Amarapura and had a long retreat with Sayadawgyi. Mogok Sayadaw was a remarkable Dhamma workaholic and non-stop working for the Buddha Dhamma. There were some who had the misconception that Arahant I deal was selfish. This is totally wrong and non-sense.
+The three talks here: The Hidden Treasure, Priceless Treasure of Mankind and In Accordance with the Dhamma, all were delivered on 16th November 1961. In the Dhamma list of that year (i.e., November and December 1961) he gave two or three talks a day. The reason behind is some lay people led by U Tan Daing from Rangoon came to Amarapura and had a long retreat with Sayadawgyi. Mogok Sayadaw was a remarkable Dhamma workaholic and non-stop working for the Buddha Dhamma. There were some who had the misconception that Arahant Ideal was selfish. This is totally wrong and non-sense.
 
 ------
 
-revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35772#p35772 (posted on 2019-01-14)
+revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35772#p35772 (posted on 2019-01-14)
 
 ------
 
@@ -64,6 +64,7 @@ revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-26 rev. proofread by bhante
   2021-03-15 rev. proofread by bhante
   09-12 rev. proofread by bhante
   2019-04-23  create rst; post on 04-28

@@ -3,12 +3,12 @@ On Vipassanā Bhāvana
 ==========================================
 
 :date: 2019-04-28
-:modified: 2021-03-15
+:modified: 2021-03-26
 :tags: Vipassanā, Bhāvana, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: On Vipassanā Bhāvana (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-03-15
+revised on 2021-03-26
 
 ------
 
@@ -92,11 +92,11 @@ Here is completion with the eight path factors. Not seeing impermanences, instea
 
 Even can open the kilesa cover is quite good now. This is the most important point for yogis. By opening the kilesa cover and meet with anicca. Again anicca covers Nibbāna. Therefore, have to practice and make vipassanā ñāṇa become maturity. When the Path Knowledge arises, the anicca cover is opened and you'll meet with asaṅkhata.
 
-Only have the these knowledges. Do you satisfy with it? Firstly, it’s important to see impermanence. With the opening of kilesa cover and will see impermanence. Therefore, samādhi is important. And again the impermanence cover is opened and will see asaṅkhata − Nibbāna.
+Only have these knowledges. Do you satisfy with it? Firstly, it’s important to see impermanence. With the opening of kilesa cover and will see impermanence. Therefore, samādhi is important. And again the cover of impermanence is opened and will see asaṅkhata—Nibbāna.
 
 ------
 
-revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=36007#p36007 (posted on 2019-02-22)
+revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=36007#p36007 (posted on 2019-02-22)
 
 ------
 
@@ -115,6 +115,7 @@ revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-26 rev. proofread by bhante
   2021-03-15 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-28  create rst; post on 04-28

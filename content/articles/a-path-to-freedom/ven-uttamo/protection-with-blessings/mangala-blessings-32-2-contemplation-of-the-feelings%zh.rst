@@ -3,12 +3,12 @@ Contemplation of Feelings: Vedanānupassanā (Maṅgala Sutta – Protection wit
 ========================================================================================
 
 :date: 2019-12-03
-:modified: 2021-03-16
+:modified: 2021-03-26
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Contemplation of Feelings: Vedanānupassanā (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2021-03-16
+revised on 2021-03-26
 
 ------
 
@@ -85,7 +85,7 @@ With continued practice and discerning the three universal characteristics of ve
 
 ------
 
-revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36987#p36987 (posted on 2019-11-22)
+revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36987#p36987 (posted on 2019-11-22)
 
 ------
 
@@ -100,6 +100,7 @@ revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-26 rev. proofread by bhante
   2021-03-16 rev. proofread by bhante
   06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda

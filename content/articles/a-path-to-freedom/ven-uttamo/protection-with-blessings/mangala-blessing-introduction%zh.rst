@@ -3,12 +3,12 @@ Introduction (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2021-03-16
+:modified: 2021-03-26
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Introduction (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2021-03-16
+revised on 2021-03-26
 
 ------
 
@@ -100,7 +100,7 @@ Dtow Dum forest is an amazing and interesting place. It is worthy of recording h
 
 A Japanese scientist had already made many researches on this point of how our mind states affected the water crystals. The Mother Earth is likened to a physical body. If any part of the body is damaged or harmed, it cannot function properly or even dies. We should have gratitude to her because it cares us like a mother. Ingratitude is the sign of an inferior person and has no good future for him. Therefore, , to survive and have a future, human beings must take care and look after the Earth.
 
-Even though Dtow Dum is not a virgin forest, a lot of wild animals still living there. The forest monks and some important lay people had tried to protect it from destruction. A businesswoman had a contract and mining of tin-tungsten ore in this area already for some years. Later she invited two forest monks and established a forest monastery there to protect the forest. It started the project in 1994. Two kutis (monk dwelling huts) and an open sālā were built on the top of the hill. The open sālā was on the edge of the hill and overlooked the valley with the green forest. It was used as a meditation and meeting hall. An an open eating hall was also built at the base of the hill.
+Even though Dtow Dum is not a virgin forest, a lot of wild animals still living there. The forest monks and some important lay people had tried to protect it from destruction. A businesswoman had a contract and mining of tin-tungsten ore in this area already for some years. Later she invited two forest monks and established a forest monastery there to protect the forest. It started the project in 1994. Two kutis (monk dwelling huts) and an open sālā were built on the top of the hill. The open sālā was on the edge of the hill and overlooked the valley with the green forest. It was used as a meditation and meeting hall. An open eating hall was also built at the base of the hill.
 
 Later an inner Sālā also was built deep into the forest for the monks during the summer retreat. Because Northeast Thailand was so hot that unpleasant with the heat there. Therefore, every year a group of monks comes down here for two months to stay in the deep forest for practice. Usually, they come here in March and go back to Northeast Thailand before the Vesak (Vesākha). (Vesak is the full moon day of May and celebrating for the birth, enlightened and passing away of the Buddha). Every year before the monks come here for a summer retreat; the miners help to build some bamboo platforms across the deep forest. There are a lot of big bamboos in this forest.
 
@@ -138,7 +138,7 @@ Metta and Khandha Suttas – the discourses on good-will, loving-kindness, lovin
 
 ------
 
-revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36763#p36764 (posted on 2019-09-09)
+revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36763#p36764 (posted on 2019-09-09)
 
 ------
 
@@ -153,6 +153,7 @@ revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-26 rev. proofread by bhante
   2021-03-16 rev. proofread by bhante
   2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante

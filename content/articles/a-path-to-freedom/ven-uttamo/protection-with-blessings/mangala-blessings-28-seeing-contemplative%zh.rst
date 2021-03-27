@@ -3,12 +3,12 @@ Seeing Contemplative (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2021-03-16
+:modified: 2021-03-26
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Seeing Contemplative (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2021-03-16
+revised on 2021-03-26
 
 ------
 
@@ -117,7 +117,7 @@ Why is that? Because their minds are pure and they only need the eyes to see the
 
 This is a very wide subject to talk about. The Buddha mentioned some of them by common people, such as someone gains a son, a wife, wealth and various goods, etc. There are many kinds human beings want to get or attain. These things are depending on their desire and interest. Some of them are necessary to have and some are not. Some of the things are for pleasure and some are for knowledge.
 
-People use money, time and effort to get them. Some of them after attaining, it leads to stress, problems and sufferings; e.g., money, power. Because people cannot use them properly or wisely. And then by loosing or lost them lead to sorrow, lamentation, pain, grief and despair. Nowadays, humans are crazy to get more money. It becomes the mad, mad world. What it is for? For indulging in sensual pleasure which is low, common, worldly, ignoble and unbeneficial. These made people become more and more discontent.
+People use money, time and effort to get them. Some of them after attaining, it leads to stress, problems and sufferings; e.g., money, power. Because people cannot use them properly or wisely. And then by loosing or lost them lead to sorrow, lamentation, pain, grief and despair. Nowadays, humans are crazy to get more money. It becomes the mad, mad world. What is this for? For indulging in sensual pleasure which is low, common, worldly, ignoble and unbeneficial. These made people become more and more discontent.
 
 So, they do all sorts of things and matters to satisfy their desire and craving. This harm themselves and others, even to nature and environments. For the Buddha to have or gain faith (saddhā) in the Buddha, Dhamma and Saṅgha was the unsurpassed thing to have or gain—lābhānuttariya. Faith in the Buddha’s teaching had levels. It can be blind faith, ordinary faith and confident or conviction (the highest level). The Buddha never encouraged the lowest level of blind faith which could be false or true, and it could be dangerous and harmful, e.g., some modern cults (Faith in religions is a serious matter and we should not take it lightly).
 
@@ -240,7 +240,7 @@ Therefore, the Buddha taught that this was the highest protection and blessing i
 
 ------
 
-revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36980#p36980 (posted on 2019-11-21)
+revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36980#p36980 (posted on 2019-11-21)
 
 ------
 
@@ -255,6 +255,7 @@ revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-26 rev. proofread by bhante
   2021-03-16 rev. proofread by bhanteold: savaṇānuttariyaṃ
   09-06 rev. the 3rd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante

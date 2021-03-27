@@ -3,12 +3,12 @@ The Four Noble Truths
 ==========================================
 
 :date: 2019-05-01
-:modified: 2021-03-15
+:modified: 2021-03-26
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Four Noble Truths (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-03-15
+revised on 2021-03-26
 
 ------
 
@@ -60,7 +60,7 @@ Pīḷanāṭṭha is mind and body which oppress the owner (The active part). S
 
 [Khandhas are always burning with the fire of taṇhā. This was a very uplifting talk. Sayadaw emphasized that enlightenment was not difficult. Only need to listen sacca dhamma, wise attention (yoniso) and bhāvetabba – observe anicca continuously. 
 
-He already sent disciples on the half way. The other half was the duties of the disciples. It was the opportunity for enlightenment now. Therefore, they should not waste the chances here. If they missed it, and it would never come back again for them. Sayadaw’s emphasis on this point was very important and had profound meaning in itself. To have a human birth is quite difficult because most beings are wandering in the painful existences (apāyabhūmi). Even wholesome merits come back to human world very difficult to have this rare chance again.]
+He already sent disciples on the half way. The other half was the duties of the disciples. Now was the opportunity for enlightenment. Therefore, they should not waste the chances here. If they missed it, and it would never come back again for them. Sayadaw’s emphasis on this point was very important and had profound meaning in itself. To have a human birth is quite difficult because most beings are wandering in the painful existences (apāyabhūmi). Even if the merits of wholesome dhamma could bring beings back to the human world, it is very difficult to have such a rare opportunity again. ]
 
 Bhāvetabba – Developing means, for example, of the four satipaṭṭhāna you can contemplate any one of them. Only seeing the kāya – body, vedanā – feeling, etc. is not developing yet. Seeing their both arising and passing away is called bhāvetabba. It's not tīraṇa pariññā if only seeing kāya, vedanā, etc.; it's only ñāta pariññā. It is not yet tīraṇa pariññā by only seeing that much with contemplation. 
 
@@ -138,7 +138,7 @@ Taṇhā prefers the birth, ageing and death of saṁsāra. And it hinders path 
 
 (a) Nissaraṇāṭṭha (Nissaraṇa-aṭṭha) – Escaping from Dukkha.
 
-Escape from the three rounds of existence—vattas. These are: kilesa, kamma and vipāka vattas. Sayadaw gave a very strong saṁvega talk, and sometimes it was humorous. A place frees from the three rounds of existence.
+Escape from the three rounds of existence—vattas. These are: kilesa, kamma and vipāka vattas. Sayadaw gave a very strong saṁvega talk, and sometimes it was humorous. It is a place frees from the three rounds of existence.
 
 Only we understand beings are revolving around the three vattas and wanting to escape from them. Therefore first, I’ll show how beings are in the endless cycle around the three vatta. Vatta – means a circle, revolving like a ball is called vatta.
 
@@ -257,7 +257,7 @@ Whatever mind arises contemplate impermanence. After that, continue to contempla
 
 ------
 
-revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36067#p36067 (posted on 2019-03-03)
+revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36067#p36067 (posted on 2019-03-03)
 
 ------
 
@@ -276,6 +276,7 @@ revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-26 rev. proofread by bhante
   2021-03-15 rev. proofread by bhante
   12-02 rev. proofread by bhante; (a) Pīḷanāṭṭha (Pīḷana-aṭṭha) – Oppressive
   11-05 rev. proofread by bhante

@@ -3,12 +3,12 @@ The Burdened Khandha
 ==========================================
 
 :date: 2019-05-01
-:modified: 2021-03-16
+:modified: 2021-03-26
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Burdened Khandha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-03-16
+revised on 2021-03-26
 
 ------
 
@@ -34,7 +34,7 @@ Why is that? For example, pain arises and at the time when ñāṇa follows it a
 
 **Note: Dukkha and the burdened khandha**
 
-Buddhists or non-Buddhists should contemplate on Dukkha and the Burdened khandha very often in our daily life with experiences. These Dhammas are like two sides of a coin and inseparable. With the understanding of Dukkha, we will understand the burdened khandha, vice versa. With development in contemplation, we can see the word with wisdom and compassionate eyes of Dhamma. Some Buddhists encourage people to use some western philosophies to understand Dukkha. The Buddha Dhamma is complete by itself and no need other worldly Dhammas to understand it. It’s also impossible became nearly all of them are based on wrong views. Dukkha sacca is the most difficult Dhamma to all living beings. Only a Buddha and his noble disciples can understand them (exclude pacceka-Buddha). We only need to practice with the four noble truths with contemplation of them in our daily life of experiences. First, we need to have appreciation on the nature of dukkha. The best places are hospitals and patients afflicted by ageing, sickness and dying. If we use the four meanings of dukkha sacca: 1. Oppressive (pīḷanāṭṭha) 2. Conditions by craving (saṅkhatāṭṭha) 3. Burning with fire of craving (santāpāṭṭha) and 4. suffering with changing (vipariṇāmaṭṭha).
+Buddhists or non-Buddhists should contemplate on Dukkha and the Burdened khandha very often in our daily life with experiences. These Dhammas are like two sides of a coin and inseparable. With the understanding of Dukkha, we will understand the burdened khandha, vice versa. With development in contemplation, we can see the world with wisdom and compassionate eyes of Dhamma. Some Buddhists encourage people to use some western philosophies to understand Dukkha. The Buddha Dhamma is complete by itself and no need other worldly knowledges to understand it. It’s also impossible because nearly all of them are based on wrong views. Dukkha sacca is the most difficult Dhamma to all living beings. Only a Buddha and his noble disciples can understand them (exclude pacceka-Buddha). We only need to practice with the four noble truths with contemplation of them in our daily life of experiences. First, we need to have appreciation on the nature of dukkha. The best places are hospitals and patients afflicted by ageing, sickness and dying. If we use the four meanings of dukkha sacca: 1. Oppressive (pīḷanāṭṭha) 2. Conditions by craving (saṅkhatāṭṭha) 3. Burning with fire of craving (santāpāṭṭha) and 4. suffering with changing (vipariṇāmaṭṭha).
 
 I myself also have a lot of benefit by using them in my daily life contemplation with experiences. First saṅkhatāṭṭha is my favourite one which dukkha is quite extensive in one’s life. It becomes wearisome which discern dukkha with the burdened khandha. When someone becomes older and older, its oppressive nature is becoming greater and can feel the burdened khandha with a lot of dukkha (many kinds of them). Within eleven years, I have three operations for three physical problems.
 
@@ -44,14 +44,13 @@ He spent his monkhood with practice for 45 years and at the age of 80 passed awa
 
 There are many ways of renunciation (nekkhamma) which is also one of the perfections (pāramīs). It is also important how to develop it properly and wisely. It should be in the middle way. If become extreme it will like playing hide-and-seek. Another way is totally disbanding it like some traditions. Even the Buddha’s Middle way is profound and not easy to interpret.
 
-I had seen a Thai book many years ago recorded Tan Chao Khun’s illness with colour photos. It was quite
-frightening to see it. The left side of his throat was eroded with cancerous cells and created a big sore and looked disgusting. This body is really dukkha sacca – disgusting and useless. Tan Chao Khun was lying down on the floor, and it seemed to be he possessed the strength of Dhamma to endure it calmly. It made me remember one of the scenes in the documentary file about His Majesty the King Rama IX by BBC. His Majesty had a big and wide shrine room with some Thai forest Ajahns’ photos of their sarīras. These are doubtful crystals come from the purified minds and look like gems. Her majesty the Queen was explaining about them to the BBC crews. The Queen pointed to Tan Chao Khun’s photo and explained about his illness. She went to see Tan Ajahn and asked him about the pain. His answer was he could bear it. Bodily pain surely has, but there is no mental pain.
+Many years ago I had read a Thai book which documented Tan Chao Khun's condition and included colour photographs. It was quite frightening to see it. The left side of his throat was eroded with cancerous cells and created a big sore and looked disgusting. This body is really dukkha sacca – disgusting and useless. Tan Chao Khun was lying down on the floor, and it seemed to be he possessed the strength of Dhamma to endure it calmly. It made me remember one of the scenes in the documentary film about His Majesty the King Rama IX by BBC. His Majesty had a big and wide shrine room with some of the Thai forest Ajahns’ photos and their sarīras. These are coloured crystals come from the purified minds and look like gems. Her majesty the Queen was explaining about them to the BBC crews. The Queen pointed to Tan Chao Khun’s photo and explained about his illness. She went to see Tan Ajahn and asked him about the pain. His answer was he could bear it. There is definitely physical pain, but not mental pain.
 
 Dhamma is truly a refuge. Human dukkha is insignificant if compare with the suffering of hell beings, animals and ghosts. These were also our permanent homes in the rounds of existence before. If we don’t have the sāsana in our heart in the future will be the same. Most of us come here for sight-seeing. Mogok Sayadawji was quite a remarkable Dhamma teacher. His teaching on Dukkha and the Burdened Khandha is just as if someone were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost or to carry a lamp into the dark.
 
 ------
 
-revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36332#p36332 (posted on 2019-04-16)
+revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36332#p36332 (posted on 2019-04-16)
 
 ------
 
@@ -70,6 +69,7 @@ revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-26 rev. proofread by bhante
   2021-03-16 rev. proofread by bhante
   2020-06-15 rev. old:
   ----

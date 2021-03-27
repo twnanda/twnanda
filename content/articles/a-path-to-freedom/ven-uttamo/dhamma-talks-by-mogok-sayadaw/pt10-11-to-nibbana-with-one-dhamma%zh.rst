@@ -3,12 +3,12 @@ To Nibbāna with One Dhamma
 ==========================================
 
 :date: 2019-05-01
-:modified: 2021-03-15
+:modified: 2021-03-26
 :tags: Nibbāna, Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: To Nibbāna with One Dhamma (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-03-15
+revised on 2021-03-26
 
 ------
 
@@ -42,11 +42,11 @@ Later Kundalakesī became an arahant, and the monk surprised about it. Then the 
 
 Its disenchantment and its ending will be sure to reach Nibbāna if you only contemplate feelings and discern impermanence. And then The Buddha said to the monks; “It is not a hero if you can conquer 100,000 enemies. It is a real hero that only you can conquer the kilesa enemy.”
 
-**Note:** There were some self-study western Buddhists rejected some meditation systems as invalid. According to them, they made this conclusion because it could not be found in the Pā i Nikāyas. ḷ If the Buddha had to teach everything in details and included everything, even 10 Pāḷi Nikāyas also not enough (we have 5 Nikāyas). These people should go and study all the wellestablished systems thoroughly with the Nikāyas is the right way to do. Here I am not saying that all systems you could find in media are authentic. I can give some examples, the Mahasi System and Saya Thet Gyi (U Ba Khin’s teacher) System s are well established for nearly a century now. There were many yogis who had benefited from it. This talk here is good for reflection on already well-established systems.
+**Note:** There were some self-study western Buddhists rejected some meditation systems as invalid. According to them, they made this conclusion because it could not be found in the Pā i Nikāyas. ḷ If the Buddha had to teach everything in details and included everything, even 10 Pāḷi Nikāyas also not enough (we have 5 Nikāyas). These people should go and study all the wellestablished systems thoroughly with the Nikāyas is the right way to do. Here I am not saying that all systems you could find in media are authentic. I can give some examples, the Mahasi System and Saya Thet Gyi (U Ba Khin’s teacher) System s are well established for nearly a century now. There were many yogis who had benefited from it (e.g., Sayagyi S. N. Goenka). This talk here is good for reflection on already well-established systems.
 
 ------
 
-revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36186#p36186 (posted on 2019-03-25)
+revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36186#p36186 (posted on 2019-03-25)
 
 ------
 
@@ -65,6 +65,7 @@ revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-26 rev. proofread by bhante
   2021-03-15 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-29  create rst; post on 05-01

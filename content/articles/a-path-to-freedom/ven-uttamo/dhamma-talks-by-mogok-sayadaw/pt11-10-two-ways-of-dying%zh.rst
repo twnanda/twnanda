@@ -3,12 +3,12 @@ Two Ways of Dying
 ==========================================
 
 :date: 2019-05-01
-:modified: 2021-03-16
+:modified: 2021-03-26
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Two Ways of Dying (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-03-16
+revised on 2021-03-26
 
 ------
 
@@ -51,27 +51,27 @@ There only is zero left if you don’t even try one of them. And then I myself c
 
 On sickness and dying Here we can see two talks on dying. These were given over a month before his death. These are good for reflection on sickness and dying food for the heart. In Sayadaw’s last year of life (i.e., 1962) his style of talks was changing slightly. Most of them had the sense of strong saṃvega on ageing, sickness, death and sufferings. He was very concerned about the Dhamma welfare of his listeners. Always urging them to practice diligently to transcend dukkha and there was not much time for them. It was also a hint for his disciples of his passing away in the near future.
 
-I had seen a Chinese documentary file on sickness and dying of old people. There were two groups of them: ordinary people and Buddhist yogis. The first group had no Dhamma knowledge and practice. When they were close to death or at dying with chronic diseases such as incurable cancer which made them suffered a lot physically and mentally. They were straggling for their lives with difficult breathing and so forth. Seeing their difficulty conditions and suffering made your heart very painful.
+I had seen a Chinese documentary film on sickness and dying of old people. There were two groups of them: ordinary people and Buddhist yogis. The first group had no Dhamma knowledge and practice. When they were close to death or at dying with chronic diseases such as incurable cancer which made them suffered a lot physically and mentally. They were straggling for their lives with difficult breathing and so forth. It is very painful for your heart to see their difficult conditions and suffering.
 
-The scene of old Buddhist yogis made your heart feeling with joy and inspiration. Their dying and death were quite remarkable. Some of them were in sitting postures and passed away calmly. It seemed to be they were like mature yogis. Some of them were in lying postures and with the smile on their faces which like in Sayadaw’s talk – dying with the smile and grimace. I don’t know their ways of practice, and it could be from Pure Land S. Among these yogis I recognize one of them. She was Miss Song Kuei Lin who died in 2010 at the age of 50 with severe cancer of the womb. I had listened to her video lecture on her tragic story. It resulted from her over sensual pleasure with men. When she found out about her deadly cancer, by then, she had already had relationship with more than 40 men.
+The scene of old Buddhist yogis made your heart feeling with joy and inspiration. Their dying and death were quite remarkable. Some of them were in sitting postures and passed away calmly. It seemed to be they were like mature yogis. Some of them were in lying postures and with the smile on their faces which like in Sayadaw’s talk – dying with the smile and grimace. I don’t know their ways of practice, and it could be from Pure Land System. Among these yogis I recognize one of them. She was Miss Song Kuei Lin who died in 2010 at the age of 50 with severe cancer of the womb. I had listened to her video lecture on her tragic story. It resulted from her over sensual pleasure with men. When she found out about her deadly cancer, by then, she had already had relationship with more than 40 men.
 
 Everything had its causes. When she was young in her teens she was influenced by polluted media – such as films, TV, etc. She was wrongly educated by these negative media and followed the wrong way of life. Later she married a man and has a son with him. This man later ended up in a prison. The son also born with mental disability. Because of her terminal cancer, she only had three months to live. She also had an old mother to look after. I can feel and understand her miserable conditions with sufferings. We can use Dhamma to contemplate and reflect on her life.
 
-In the Maṅgala Sutta (Discourse on Blessings) the first two blessings were - not consort with the fools and consort with the wise. Her life of downfall started with consorting with the fools – here include unwholesome media and men. Here we can see the penetrative wisdom of the Buddha. With this kind of polluted mind and actions she could never meet a good husband and gave birth to an abnormal son were nothing strange about it. It happened accordingly to the natural law of mind and kamma actions (kamma) – negative forces only attract negative phenomena.
+In the Maṅgala Sutta (Discourse on Blessings) the first two blessings were - not consort with the fools and consort with the wise. Her life of degradation began with a life of consorting with fools - and here that includes unhealthy media and men. Here we can see the penetrative wisdom of the Buddha. With this kind of polluted mind and actions she could never meet a good husband and gave birth to an abnormal son were nothing strange about it. It happened accordingly to the natural law of mind and kamma actions (kamma) – negative forces only attract negative phenomena.
 
-Every living being carrying wholesome and unwholesome kammic energies with them in the round of existence. The last three months of her life were giving her the opportunity to change its destiny towards some direction. In 2010 a small group of people came to her NE province and gave some public lectures for a few days in the provincial city. All of these personal lectures were based on personal experiences, knowledge of Chinese culture and moral education that have dramatically changed the lives of these people. Luckily, she came to listen these lectures and introduced herself to this group and herself became one of the educators.  These people were from all walks of life – some doctors, scholars, businessmen and women, etc.
+Every living being carrying wholesome and unwholesome kammic energies with them in the round of existence. The last three months of her life were giving her the opportunity to change its destiny towards some direction. In 2010 a small group of people came to her NE province and gave some public lectures for a few days in the provincial city. All of these personal lectures were based on personal experiences, knowledge of Chinese culture and moral education that have dramatically changed the lives of these people. Fortunately, she came to these talks and introduced herself to the group, becoming one of the educators herself. These people were from all walks of life – some doctors, scholars, businessmen and women, etc.
 
-This association with the wise changed her life of three months. Her mind and actions were in the right direction which alleviates some of her mental pain. In this group there were some who highly educated with other skills helping her with the disease and mental pain. Even her physical pain and the cancer situation feeling a little better. They introduced her to the pure land practice and with it, she ended her life wisely in a very short period. Some of her practice were – confession, repentance, service and Dhamma practices. At last, she died peacefully and her physical condition was not looked like a patient at all. Her face was calm, and the body limbs were soft and pliable. All these were the signs of good rebirth.
+This association with the wise changed her life of three months. Her mind and actions were in the right direction which alleviates some of her mental pain. In this group there were some who highly educated with other skills helping her with the disease and mental pain. Even her physical pain and the cancer situation was feeling a little better. They introduced her to the pure land practice and with it, she ended her life wisely in a very short period. Some of her practice were – confession, repentance, service and Dhamma practices. At last, she died peacefully and her physical condition was not looked like a patient at all. Her face was calm, and the body limbs were soft and pliable. All these were the signs of good rebirth.
 
 There are two important blessings which changed her miserable life into a peaceful ending. These are consorting with the wise and directing oneself rightly. Without association with wise and compassionate kalyāṇa-mittas, her life ending could be very miserable, and it would lead to the bad destination.
 
-Ageing, sickness and death are our great teachers and heavenly messages. True wisdom and compassion arise only by understanding dukkha profoundly. Wisdom and compassion are inseparable like two sides of a coin.
+Ageing, sickness and death are our great teachers and divine messengers. [Here divine messengers refer to the Devadata Sutta (MN 130: Devadūta Sutta, Majjhima-nikāya).] True wisdom and compassion arise only by understanding dukkha profoundly. Wisdom and compassion are inseparable like two sides of a coin. 
 
-The art of living and dying are very important for everyone. We can get this perception education only from the Buddha Dhamma. Everyone should train himself or herself with Dhamma, otherwise later we all will regret for it.
+The art of living and dying are very important for everyone. We can only get this kind of precious education from the Buddha Dhamma. Everyone should train themselves with the Dhamma, otherwise we will all regret it later.
 
 ------
 
-revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36289#p36289 (posted on 2019-04-12)
+revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36289#p36289 (posted on 2019-04-12)
 
 ------
 
@@ -90,6 +90,7 @@ revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-26 rev. proofread by bhante
   2021-03-16 rev. proofread by bhante
   12-02 rev. proofread by bhante
   2019-04-30  create rst; post on 05-01

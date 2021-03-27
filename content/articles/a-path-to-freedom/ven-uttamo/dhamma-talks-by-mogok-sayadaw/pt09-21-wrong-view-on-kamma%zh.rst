@@ -3,18 +3,18 @@ Wrong View on Kamma
 ==========================================
 
 :date: 2019-04-28
-:modified: 2021-03-15
+:modified: 2021-03-26
 :tags: Wrong View, Kamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Wrong View on Kamma (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-03-15
+revised on 2021-03-26
 
 ------
 
 Dhamma Talks by Mogok Sayadaw; 21st and 22nd September 1961
 
-If you can contemplate the five khandhas as these are not me, not I am and not mine, craving, conceit and wrong views will fall away. And if you discern impermanence, there is not “me”, not “I am”, and not “mine” exist. The Buddha in the Dhammapada and other suttas taught us as kamma actions ‐ were following like a shadow (wholesome actions as a shadow, and unwholesome actions as a cart following the ox).
+If you can contemplate the five khandhas as these are not me, not I am and not mine, craving, conceit and wrong views will fall away. And if you discern impermanence, there is no "I", "I am" or "mine" to be found. The Buddha in the Dhammapada and other suttas taught us as kamma actions ‐ were following like a shadow (wholesome actions as a shadow, and unwholesome actions as a cart following the ox).
 
 Therefore, we had to rely on kammas like father and mother. So most Buddhists are thinking that kamma not perish. Influence by craving for becoming bhāva — taṇhā, when someone hears the five khandhas are not-self and rely on kamma as stable (In the Puṇṇama sutta, a monk was listening to the Buddha’s teaching on anatta and thought like this). 
 
@@ -42,7 +42,7 @@ Between the cause and effect, no other things exist. This side is kamma and the 
 
 ------
 
-revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=36008#p36008 (posted on 2019-02-22)
+revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=36008#p36008 (posted on 2019-02-22)
 
 ------
 
@@ -61,6 +61,7 @@ revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-26 rev. proofread by bhante
   2021-03-15 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-28  create rst; post on 04-28

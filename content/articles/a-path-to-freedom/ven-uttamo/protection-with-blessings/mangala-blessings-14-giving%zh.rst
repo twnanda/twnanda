@@ -3,12 +3,12 @@ Giving (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2021-03-16
+:modified: 2021-03-26
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Giving (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2021-03-16
+revised on 2021-03-26
 
 ------
 
@@ -165,13 +165,13 @@ The results: Sāvajja dāna can give the result of internal and external dangers
 
 Understand of dāna is very important for how to do the right thing and in the right ways for better results to oneself and others.
 
-Dāna practice is quite important for common people (worldlings) in the round of existence (saṁsāra). Sīla practice is also the same. It supports the beings in saṁsāra for good rebirths, wealth and security. It becomes decisive support condition for Nibbāna if practice rightly, properly and wisely (upanissaya paccaya). Therefore, it is a blessing for existence and ending of dukkha. Everyone desires for wealth and fortunes but not many can fulfill their desire and wishes. Very rich and super rich persons are very rare indeed. Why is that? Because man does not know the main cause of where the wealth and fortunes come from. People know only the supporting causes which are external. They do not know about the internal causes which are the more important ones. Even some external causes depend on them. These are kamma (past and present), effort and knowledge (intelligent and wise). Dāna (all kind of wholesome dāna) is the main cause for wealth and fortunes. 
+Dāna practice is quite important for common people (worldlings) in the round of existence (saṁsāra). Sīla practice is also the same. It supports the beings in saṁsāra for good rebirths, wealth and security. It becomes decisive support condition for Nibbāna if practice rightly, properly and wisely (upanissaya paccaya). Therefore, it is a blessing for existence and ending of dukkha. Everyone desires for wealth and fortunes but not many can fulfill their desire and wishes. Very rich and super rich persons are very rare indeed. Why is that? Because man does not know the main cause of where the wealth and fortunes come from. People know only the supporting causes which are external. They do not know about the internal causes which are the more important ones. Even some external causes depend on them. These are kamma (past and present), effort and knowledge (intelligent and wise). Dāna (all kind of wholesome dāna) is the main cause for wealth and fortunes.
 
 There are two kinds of rich people, i.e., richest and super-richest. For richest wealth and fortunes, external causes are possible (it even still more or less has to depend on past kamma, i.e., having merits in the past; on the four wheels discourse, AN. 4.31 Cakkasuttaṃ). We can find these richest men at the Buddha’s time and modern day (e.g., Anāthapiṇḍika and Bill Gate). For super-richest people, it mostly has to depend on past kamma (e.g., in the Buddha’s time, there were five super-richest persons, i.e., Jotika, Jatila, Mendaka, Punna and Kākavaliya). You cannot find the super-richest person in these days. There is worldly happiness which is wholesome and blameless. We can enjoy them but should not get lost in it. 
 
 There is also spiritual happiness which transcending of dukkha. So, the Buddha was not a pessimist but a great optimist. He penetrated all kinds of happiness clearly and thoroughly. Worldly happiness is inferior and not to last long when not using and enjoying it properly and wisely; it can lead to a lot of suffering for oneself and others. Therefore, the Buddha taught the way to the true and great happiness (i.e., Nibbāna). Worldly happiness is connected with craving, greed and clinging which always lead to birth, ageing, sickness and death. Every Buddha should practice dāna and other wholesomeness always with the intention and wish of transcending dukkha.
 
-In the following I want to describe the power of kamma on great faith (saddhā) and generosity (cāga). It was connected to the five super-richest people in the time of Buddha Gautama. All of them were in Aṅga and Magadha regions both belonged to king Bimbisāra. They were; 1. Jotika 2. Jatila 3. Mendaka 4. Punna and 5. Kākavaliya
+In the following I want to describe the power of kamma on great faith (saddhā) and generosity (cāga). It was connected to the five super-richest people in the time of Buddha Gautama. All of them were in Aṅga and Magadha regions, both belonged to king Bimbisāra. They were; 1. Jotika 2. Jatila 3. Mendaka 4. Punna and 5. Kākavaliya.
 
 
 1. Jotika: Born into a rich family in Rājagaha. He owned a stately mansion with seven tiered pinnacles. It was surrounded by seven walls, each of which had an entrance guarded by celestial demons (yakkhas). According to the story it was built with the help of Sakka—king of the gods and decorated with gold and jewels.
@@ -333,7 +333,7 @@ Give a gift with the thought “This is an ornament for the mind, a support for 
 
 ------
 
-revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36957#p36957 (posted on 2019-11-18)
+revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36957#p36957 (posted on 2019-11-18)
 
 ------
 
@@ -348,6 +348,7 @@ revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-26 rev. proofread by bhante
   2021-03-16 rev. proofread by bhante
   09-06 rev. the 3rd proofread by bhante
   06-25 rev. the 2nd proofread by bhante

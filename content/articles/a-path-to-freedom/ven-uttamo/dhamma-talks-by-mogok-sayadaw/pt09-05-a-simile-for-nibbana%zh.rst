@@ -3,12 +3,12 @@ A Simile for Nibbāna
 ==========================================
 
 :date: 2019-04-28
-:modified: 2021-03-15
+:modified: 2021-03-26
 :tags: Nibbāna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: A Simile for Nibbāna (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-03-15
+revised on 2021-03-26
 
 ------
 
@@ -40,7 +40,7 @@ The worldly brahma gods with their divine eyes can see a small needle on the ear
 
 If you arrive at this point, see and know that there is a place without deaths. With the contemplation, khandhas disappear. Seeing the impermanence is the eyes of the disciple of the ariya. Not seeing deaths is the eyes of ariya.
 
-That no khandha exists is khandha nirodho nibbānaṁ—The cessation of the khandha is Nibbāna. Section ② (i.e., the five khandhas) not exists. These are death elements. The reason of not seeing deaths is the cessation of sections ② and ③ together (i.e., from viññāṇa …to … kamma).
+That no khandha exists is khandha nirodho nibbānaṁ—The cessation of the khandha is Nibbāna. Section ② (i.e., the five khandhas) not exists. These are death elements. The reason of not seeing deaths is the cessation of section ② connecting section ③ (i.e., from viññāṇa …to … kamma).
 
 Only Nibbāna and magga ñāṇa are leaving behind. Section ①, ②, ③, and ④, all are ceased. All of them are samudaya and dukkha saccas. The whole cycle of D. A. process is teaching for someone not in practice. The whole cycle of D. A. process is ended for someone in practice. After the contemplation of D. A. process and becoming a Buddha, he knew its beginning and the end of it.
 
@@ -58,7 +58,7 @@ Khandhas only had three Noble Truth, Dukkha, Samudaya, and Magga Saccas. But The
 
 ------
 
-revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35972#p35972 (posted on 2019-02-17)
+revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p=35972#p35972 (posted on 2019-02-17)
 
 ------
 
@@ -77,6 +77,7 @@ revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4202&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-26 rev. proofread by bhante
   2021-03-15 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-26  create rst; post on 04-28
