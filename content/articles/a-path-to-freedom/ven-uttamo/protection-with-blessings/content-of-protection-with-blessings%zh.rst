@@ -3,7 +3,7 @@ Content of Maṅgala Sutta – Protection with Blessing
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-07-31
+:modified: 2021-03-28
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Content of Maṅgala Sutta – Protection with Blessing
@@ -128,14 +128,19 @@ By Venerable Uttamo（鄔達摩尊者）
 
 ------
 
-- Full Text (upadate: 2020-09-08)
+- `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text.pdf>`__ (PDF, 2021-03-27); 
 
-  * `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text.pdf>`__ 
-  * `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-green.pdf>`__ (backgroup in green)
-  * for print
+- `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-green.pdf>`__ (PDF, background in green, 2021-03-27)
 
-    - `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-12pt-print.pdf>`__ (12 pt, pdf)
-    - `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-14pt-print.pdf>`__ (14 pt, pdf)
+- For Print, Size: B5, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-12pt-print-B5.pdf>`__ (12 pt, 458 pages, 2021-03-27) 
+
+- For Print, Size: B5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-14pt-print-B5.pdf>`__ (14 pt, 515 pages, 2021-03-27) 
+
+- For Print: `Cover <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mangala.jpg>`__ 
+
+- For Print, Size: A4, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-12pt-print-A4.pdf>`__ (12 pt, 321 pages, 2021-03-27) 
+
+- For Print, Size: A4, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-14pt-print-A4.pdf>`__ (14 pt, 515 pages, 2021-03-27) 
 
 ------
 
@@ -146,6 +151,7 @@ By Venerable Uttamo（鄔達摩尊者）
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-28 add & rev. proofread by bhante 03-26
   2020-09-08 rev. the 4th proofread by bhante
   2020-07-31 rev. the 3rd proofread by bhante
   07-22 rev. the 2nd proofread by bhante

@@ -3,7 +3,7 @@ Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
 ===============================================================================
 
 :date: 2019-11-13
-:modified: 2020-06-26
+:modified: 2021-03-28
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
@@ -62,11 +62,15 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 
 - full text: 
 
-  * `html  <{filename}eighteen-days-in-solitude-full-text%zh.rst>`_ ; 
-  * `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text.pdf>`__ (for read); 
-  * `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-green.pdf>`__ (for read, backgroup in green); 
-  * `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-12pt-print.pdf>`__ (for print, general, 12 pt); 
-  * `PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print.pdf>`__ (for print, large font, 14pt) 
+  * `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text.pdf>`__ (PDF, 2021-03-27); 
+
+  * `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-green.pdf>`__ (PDF, background in green, 2021-03-27)
+
+  * For Print, Size: A5, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-12pt-print-A5.pdf>`__ (12 pt, 144 pages, 2021-03-27) 
+
+  * For Print, Size: A5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print-A5.pdf>`__ (14 pt, 183 pages, 2021-03-27) 
+
+  * For Print: `Cover <https://github.com/twnanda/doc-pdf-etc/blob/master/image/18days.jpg>`__ 
 
 ------
 
@@ -77,6 +81,7 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-28 add & rev. proofread by bhante 03-26
   06-26 proofread by bhante old: {filename}/extra/pdf/Eighteen-Days-In-Solitude-full-text.pdf; {filename}/extra/pdf/Eighteen-Days-In-Solitude-full-text-green.pdf
 
   03-11 add PDF files: for read & print; The Best Fonts to Use in Print, Online, and Email (By John Wood, 2011 October)-- https://www.awai.com/2011/10/the-best-fonts-to-use-in-print-online-and-email/ ; 設計素養第一課：教科書字體選用指南: https://blog.justfont.com/2018/10/text-book-fonts/ ; 電腦族必知！原來這字體顏色對眼睛好: https://helloyishi.com.tw/healthy-living/eye-health/different-fonts-of-word-affect-your-reading-and-eyes/
