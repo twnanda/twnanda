@@ -3,7 +3,7 @@
 ==========
 
 :date: 2019-02-06
-:modified: 2021-02-24
+:modified: 2021-03-29
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著,  Nanda 編譯
 :tags: 佛典選譯, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
@@ -1023,92 +1023,93 @@
 - Dhp 152
 
   * 寡聞之（愚）人，生長如牡牛，唯增長筋肉，而不增智慧。 [dhp053]_ 、 [dhp001]_ 
-  * 這個少聞之人，如公牛般長大，他的肌肉增長，其智慧不增長。 [dhp-cf]_ 
+  * 不學的人如牛老去，只長肉而不長智慧。(152) [dhp002]_
 
 - Dhp 155 
 
   * 少壯不得財，並不修梵行，如池邊老鷺，無魚而萎滅。 [dhp054]_ 、 [dhp001]_ 
-  * 少壯時不修梵行，也沒有賺取財富；他們像衰老的鷺，在無魚的池等死。 [dhp-cf]_ 
+  * 既不修習梵行，年輕時又未取得財富，他們像老鸕鶿守候著無魚的池沼。(155) [dhp002]_
 
 `第十二　自己品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap12%zh.rst>`__ (12. Attavaggo; The Self; Dhp.157-166)
 
 - Dhp 159
 
   * 若欲誨他者，應如己所行（自）制乃制（他），克己實最難。 [dhp001]_ ( `159 典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story159%zh.rst>`__ ). [dhp055]_
-  * 正如指導別人那樣，自己也應該那樣做；已調服者才可調人，自己的確很難調服。 [dhp-cf]_ 
+  * 自己所教誨他人的，自己應同樣遵行，善於調御自己的人才能令他人自我調御，調御自己最困難。(159) [dhp002]_
 
 - Dhp 160 
 
   * 自為自依怙 [dhp056]_ ，他人何可依？自己善調御，證難得所依 [dhp057]_ 。 [dhp058]_ 、 [dhp001]_ 
-  * 自己是自己的依歸，他人怎能作為依歸？透過完全調服自己，他得到難得的依歸。 [dhp-cf]_ 
+  * 自己是自己的救護者，他人怎麼能當你的救護者？能夠自我調御的人，就成為自己最難得的救護者。(160) [dhp002]_
 
 - Dhp 165 
 
   * 惡實由己作，染污亦由己；由己不作惡，清淨亦由己。淨不淨依己，他何能淨他？ [dhp059]_ 、 [dhp001]_ 
-  * 惡是由自己所造，自己在污染自己，不造惡也由自己，是自己清淨自己。淨與不淨靠自己，無人能清淨他人。 [dhp-cf]_ 
+  * 惡確實由自己所作，染污亦是自己所為，不作惡實由自己所決定，清淨也是自己所為，淨與不淨由各人自己選擇，他人不能清淨別人。(165) [dhp002]_
+ 
 
 `第十三　世品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap13%zh.rst>`__ (13. Lokavaggo; 世間品; The World; Dhp.167-178)
 
 - Dhp 167
 
   * 莫從卑劣法。莫住於放逸。莫隨於邪見。莫增長世俗 [dhp060]_ 。 [dhp001]_ ( `167 典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story167%zh.rst>`__ ).  [dhp061]_ 
-  * 莫做卑劣事，莫怠惰過活，莫執持邪見，莫延長世界。 [dhp-cf]_ 
+  * 不應親近卑劣的教法，不應住於放逸，不應親近邪見，不應增長對世間的繫著。(167) [dhp002]_
 
 - Dhp 171 
 
   * 來看言個世界，猶如莊嚴王車。愚人沈湎此中，智者毫無執著。 [dhp062]_ 、 [dhp001]_ 
-  * 你們來看這個世界，像莊嚴的皇家馬車；愚人們沉湎於其中，了知的人沒有執著。 [dhp-cf]_ 
+  * 你們來！看這個像國王艷麗寶車的世間(身體)，智者不會(在此)有繫著，而愚者(在此)繫著沉淪。(171) [dhp002]_
 
 - Dhp 178 
 
   * 一統大地者，得生天上者，一切世界主，不及預流勝 [dhp063]_ 。 [dhp001]_  ( `178 典故 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story178%zh.rst>`__ ).  [dhp064]_ 
-  * 比起成為大地唯一統治者，或去天界，或統治整個世界，須陀洹果則是最勝。 [dhp-cf]_ 
+  * 地上的唯一統治者，或者能昇天，或者是一切世界的主宰，這些都不如預流果。(178) [dhp002]_
 
 `第十四　佛陀品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap14%zh.rst>`__ (14. Buddhavaggo; The Buddha; Dhp.179-196)
 
 - Dhp 183
 
   * 一切惡莫作，一切善應行，自調淨其意，是則諸佛教。 [dhp001]_  ( `183 研讀 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-study183%zh.rst>`__ ). [dhp065]_
-  * 不造作一切惡，圓滿種種的善，清淨自己的心，這是諸佛所教。 [dhp-cf]_ 
+  * 諸惡莫作，具足善，自淨其意，這是諸佛的教法。(183) [dhp002]_
 
 - Dhp 184
 
   * 諸佛說涅槃最上，忍辱為最高苦行。害他實非出家者，惱他不名為沙門。 [dhp065]_ 、 [dhp001]_ 
-  * 忍辱是最高的磨練，諸佛皆說涅槃至上。傷他人者非出家人，壓迫他人者非沙門。 [dhp-cf]_ 
+  * 忍辱與寬恕是第一苦行，諸佛說涅槃是最高的(境界)，出家為不害，沙門不傷害別人。(184) [dhp002]_
 
 - Dhp 185
 
   * 不誹與不害，嚴持於戒律 [dhp066]_ ，飲食知節量，遠處而獨居，勤修增上定 [dhp067]_ ，是為諸佛教。 [dhp065]_ 、 [dhp001]_ 
-  * 莫辱罵莫傷害、依護解脫克制、飲食當知節量、安住於寂靜處、及勤修增上心，這是諸佛所教。 [dhp-cf]_ 
+  * 不非難，不傷害，善防護戒律，飲食知量，獨坐臥於僻靜處，勤修禪定，此為諸佛的教導。(185)_  [dhp002]_
 
 `第十五　樂品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap15%zh.rst>`__ (15. Sukhavaggo; Happiness; Dhp.197-208)
 
 - Dhp 197
 
   * 我等實樂生 [dhp068]_ ，憎怨中無憎。於憎怨人中，我等無憎住。 [dhp069]_ 、 [dhp001]_ 
-  * 我們的確很安樂過活，在眾怨之中我們無怨；在充滿怨恨的眾人中，我們安住於無怨無恨。 [dhp-cf]_ 
+  * 在瞋恨之中，讓我們非常快樂地住於無瞋恨，在有瞋恨的眾人之中，讓我們住於無瞋恨。(197) [dhp002]_
 
 - Dhp 201
 
   * 勝利生憎怨，敗者住苦惱。勝敗兩俱捨，和靜住安樂。 [dhp070]_ 、 [dhp001]_ 
-  * 勝利會招來怨恨，戰敗者痛苦過活；捨棄了勝敗之後，寂靜者安樂過活。 [dhp-cf]_ 
+  * (勝利者)從勝利產生憎恨，失敗者則痛苦地睡臥，捨棄了勝負之後，寂靜者快樂地睡臥。(201) [dhp002]_
 
 - Dhp 204 
 
   * 無病最上利，知足最上財，信賴最上親，涅槃最上樂。 [dhp071]_ 、 [dhp001]_ 
-  * 健康是最大的收獲，知足是最大的財富，可信者是最好親人，涅槃是至上的快樂。 [dhp-cf]_ 
+  * 無病是最大的利得，知足是最大的財富，可信賴者是最佳親友，涅槃是最高的快樂。(204) [dhp002]_
 
 - Dhp 205 
 
   * 已飲獨居味，以及寂靜味，喜飲於法味，離怖畏去惡。[dhp072]_ 、 [dhp001]_ 
-  * 嚐了獨處味，以及寂靜味，他無苦無惡，得飲法喜味。 [dhp-cf]_ 
+  * 已經飲用(與感受)了離群獨處與止息的滋味，飲用(而感受著)法味與法樂，他遠離了作惡與離苦。(205) [dhp002]_
 
 `第十六　喜愛品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap16%zh.rst>`__ (16. Piyavaggo; Affection; Dhp.209~220)
 
 - Dhp 215 
 
   * 從欲樂生憂，從欲樂生怖；離欲樂無憂，何處有恐怖。 [dhp073]_ 、 [dhp001]_ 
-  * 由欲樂引生憂愁，由欲樂引生恐懼。對於解脫欲樂者，既無憂哪來恐懼？ [dhp-cf]_ 
+  * 從五欲生憂愁，從五欲生恐懼，對已解脫者而言，從五欲產生的憂愁不存在，恐怖要從何處來？(215) [dhp002]_
 
 `第十七　忿怒品 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap17%zh.rst>`__ (17. Kodhavaggo; Anger; Dhp.221-234)
 
@@ -2592,6 +2593,7 @@
 .. [mprnbn00] 另請參考 參考資訊_ 中之 大般涅槃經參考資訊_ 。 
 
 ..
+  03-29 法句經 白話文版 replace 敬法 法師 with 蘇錦坤 (till chap. 16)
   2021-02-24 add Dhp. selected with details; add: 佛典選譯（無註解版．唱誦用）
   2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
   2019-02-06 post
