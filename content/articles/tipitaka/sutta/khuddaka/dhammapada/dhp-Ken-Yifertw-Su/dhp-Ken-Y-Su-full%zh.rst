@@ -2,7 +2,7 @@
 ######################################################################
 
 :date: 2021-02-16
-:modified: 2021-04-07
+:modified: 2021-04-08
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》, Dhammapada, 白話文版（含巴利文法分析， 蘇錦坤 著 2021）
@@ -20,15 +20,15 @@
 - ARAHANTA_ VAGGO (090~099) 第七：阿羅漢品
 - SAHASSA_ VAGGO (100~115) 第八：千品
 - PAPA_ VAGGO (116~128) 第九：惡品
-- DANDA_ VAGGO (129~145) 第十：刑罰品
+- DANDA_ VAGGO (129~145) 第十：刀杖品
 - JARA_ VAGGO (146~156) 第十一：老品
-- ATTA_ VAGGO (157~166) 第十二：自品
+- ATTA_ VAGGO (157~166) 第十二：自己品
 - LOKA_ VAGGO (167~178) 第十三：世間品
 - BUDDHA_ VAGGO (179~196) 第十四：佛陀品
 - SUKHA_ VAGGO (197~208) 第十五：樂品
-- PIYA_ VAGGO (209~220) 第十六：喜愛品
+- PIYA_ VAGGO (209~220) 第十六：喜品
 - KODHA_ VAGGO (221~234) 第十七：忿怒品
-- MALA_ VAGGO (235~255) 第十八：污垢品
+- MALA_ VAGGO (235~255) 第十八：塵垢品
 - DHAMMATTHA_ VAGGO (256~272) 第十九：住於法品
 - MAGGA_ VAGGO (273~289) 第二十：道品
 - PAKINNAKA_ VAGGO (290~305) 第廿一：雜品
@@ -8582,10 +8582,10 @@ https://www.facebook.com/groups/491306231038114/permalink/1765448953623829
 
 .. _DANDA:
 
-刑罰品  　Daṇḍavaggo
+刀杖品  　Daṇḍavaggo
 --------------------
 
-.. list-table:: 十：刑罰品 目錄
+.. list-table:: 十：刀杖品 目錄
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
@@ -10543,10 +10543,10 @@ Cbeta Taiwan
 
 .. _ATTA:
 
-自品　Attavaggo
+自己品　Attavaggo
 -----------------
 
-.. list-table:: 十二：自品 目錄
+.. list-table:: 十二：自己品 目錄
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
@@ -14157,10 +14157,10 @@ Thera Nārada 的英譯為：
 
 .. _PIYA:
 
-喜愛品　Piyavaggo
+喜品　Piyavaggo
 -----------------
 
-.. list-table:: 十六：喜愛品 目錄
+.. list-table:: 十六：喜品 目錄
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
@@ -15979,10 +15979,10 @@ T210《法句經》只有一首對應偈頌位於〈25 忿怒品〉。
 
 .. _MALA:
 
-污垢品　Malavaggo
+塵垢品　Malavaggo
 -----------------
 
-.. list-table:: 十八：污垢品 目錄
+.. list-table:: 十八：塵垢品 目錄
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
@@ -17333,6 +17333,7 @@ Dhp. 255
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  04-08 rev. 4 titles to match the author's translation
   04-07 add: 18th Malavaggo
   04-01 add: 17th Kodhavaggo & conclusion of chap. 15 & chap.16; proofread by the author-- Ken Su
   03-28 add: 16th Piyavaggo; 

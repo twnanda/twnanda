@@ -1,18 +1,18 @@
 ====================================================================================================
-第十二：自品（《法句經》, Dhammapada, Attavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
+第十二：自己品（《法句經》, Dhammapada, Attavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
 ====================================================================================================
 
 :date: 2021-01-24
-:modified: 2021-03-11
+:modified: 2021-04-08
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
-:summary: 第十二：自品（《法句經》, Dhammapada, Attavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
+:summary: 第十二：自己品（《法句經》, Dhammapada, Attavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
 
 - `《法句經》目錄 <{filename}dhp-Ken-Y-Su%zh.rst>`__ , 白話文版, 蘇錦坤 著
 
 ------
 
-.. list-table:: 十二：自品 目錄
+.. list-table:: 十二：自己品 目錄
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
@@ -702,6 +702,7 @@ T210《法句經》的〈愛身品 20〉與巴利《法句經》的第12品〈�
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  04-08 old: 自己品
   03-11 rev. 第12品〈自己品〉結語, proofread by the author-- Ken Su
   03-09 finish editing
   03-05 editing till Dhp. 160

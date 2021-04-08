@@ -3,7 +3,7 @@
 =====================================================================
 
 :date: 2021-01-24
-:modified: 2021-01-25
+:modified: 2021-04-08
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》, Dhammapada, 白話文版（含巴利文法分析， 蘇錦坤 著 2021）
@@ -36,7 +36,7 @@
      - `第七：阿羅漢品 <{filename}dhp-Ken-Y-Su-chap07%zh.rst>`_
      - `第八：千品 <{filename}dhp-Ken-Y-Su-chap08%zh.rst>`_
      - `第九：惡品 <{filename}dhp-Ken-Y-Su-chap09%zh.rst>`_
-     - `第十：刑罰品 <{filename}dhp-Ken-Y-Su-chap10%zh.rst>`_
+     - `第十：刀杖品 <{filename}dhp-Ken-Y-Su-chap10%zh.rst>`_
      - `第十一：老品 <{filename}dhp-Ken-Y-Su-chap11%zh.rst>`_
 
    * - 6. Paṇḍitavaggo (Dhp.76-89)
@@ -50,11 +50,11 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `第十二：自品 <{filename}dhp-Ken-Y-Su-chap12%zh.rst>`_
+   * - `第十二：自己品 <{filename}dhp-Ken-Y-Su-chap12%zh.rst>`_
      - `第十三：世間品 <{filename}dhp-Ken-Y-Su-chap13%zh.rst>`_
      - `第十四：佛陀品 <{filename}dhp-Ken-Y-Su-chap14%zh.rst>`_
      - `第十五：樂品 <{filename}dhp-Ken-Y-Su-chap15%zh.rst>`_
-     - `第十六：喜愛品 <{filename}dhp-Ken-Y-Su-chap16%zh.rst>`_
+     - `第十六：喜品 <{filename}dhp-Ken-Y-Su-chap16%zh.rst>`_
      - `第十七：忿怒品 <{filename}dhp-Ken-Y-Su-chap17%zh.rst>`_
 
    * - 12. Attavaggo (Dhp.157-166)
@@ -68,7 +68,7 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `第十八：污垢品 <{filename}dhp-Ken-Y-Su-chap18%zh.rst>`_
+   * - `第十八：塵垢品 <{filename}dhp-Ken-Y-Su-chap18%zh.rst>`_
      - `第十九：住於法品 <{filename}dhp-Ken-Y-Su-chap19%zh.rst>`_
      - `第二十：道品 <{filename}dhp-Ken-Y-Su-chap20%zh.rst>`_
      - `第廿一：雜品 <{filename}dhp-Ken-Y-Su-chap21%zh.rst>`_
@@ -107,5 +107,5 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
-  01-25 rev. 序 dhp-Ken-Y-Su-preface%zh.rst old: dhp-Ken-Y-Su-preface-%zh.rst
+  04-08 rev. 4 titles to match the author's translation
   2021-01-24 create rst

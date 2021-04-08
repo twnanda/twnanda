@@ -1,19 +1,19 @@
 ====================================================================================================
-第十：刑罰品（《法句經》, Dhammapada, Daṇḍavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
+第十：刀杖品（《法句經》, Dhammapada, Daṇḍavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
 ====================================================================================================
 
 :date: 2021-01-24
-:modified: 2021-02-27
+:modified: 2021-04-08
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
-:summary: 第十：刑罰品（《法句經》, Dhammapada, Daṇḍavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
+:summary: 第十：刀杖品（《法句經》, Dhammapada, Daṇḍavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
 
 - `《法句經》目錄 <{filename}dhp-Ken-Y-Su%zh.rst>`__ , 白話文版, 蘇錦坤 著
 
 ------
 
 
-.. list-table:: 十：刑罰品 目錄
+.. list-table:: 十：刀杖品 目錄
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
@@ -1169,5 +1169,6 @@ https://www.facebook.com/groups/491306231038114/permalink/1769247093244015
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  04-08 rev. old: 刑罰品
   02-27 finish editing; proofread by author--Su
   2021-01-24 create rst
