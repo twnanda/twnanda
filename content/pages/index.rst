@@ -1,4 +1,4 @@
-:modified: 2017-11-26
+:modified: 2021-04-08
 :slug: index
 :lang: zh
 :status: hidden
@@ -29,7 +29,7 @@
      :alt: 佛陀
 
   諸惡莫作，眾善奉行，自淨其意，是諸佛教。
-  〔 `法句經 183 偈頌 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-study183%zh.rst>`_ 〕
+  〔 `法句經 183 偈頌 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-study/dhp-study183%zh.rst>`_ 〕
 
 ----
 
@@ -72,7 +72,7 @@
   * `巴利文佛典選譯 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_ (香港 志蓮淨苑)
   * `SuttaCentral <https://suttacentral.net/>`_ (包含漢文之多種語文)
   * `覺醒之翼——上座部佛教文獻選譯集 <http://www.theravadacn.org/>`_
-  * `Access to Insight <http://www.accesstoinsight.org/>`_
+  * `Access to Insight <http://www.accesstoinsight.org/>`_ , `Sutta Piṭaka <https://www.dhammatalks.org/suttas/>`_ (Suttas from the Pāli Canon, translated by Ṭhānissaro Bhikkhu)
   * `觉悟之路網 <http://dhamma.sutta.org/>`_ (上座部佛教, Theravada Buddhism, 漢文簡體)
   * `多語言巴利藏閱讀 <http://tipitaka.sutta.org/>`_
   * `巴利字典-- 巴利-英文,中文,日文,越南文,緬甸文 字典 <http://dictionary.sutta.org/>`_ 
@@ -86,11 +86,14 @@
   
 - `文章選讀 <{filename}/articles/uncategorized/paper-selected%zh.rst>`_
 
+  * `佛陀的啟示(What the Buddha Taught) <{filename}/articles/a-path-to-freedom/what-the-Buddha-taught/what-the-Buddha-taught-2020%zh.rst>`_
   * `當代南傳佛教大師(LIVING BUDDHIST MASTERS) <{filename}/extra/authors/jack-kornfield/living-buddhist-masters/Theravadian-Masters.htm>`_
   * `UNEXPECTED FREEDOM <{filename}/articles/uncategorized/paper-selected%zh.rst#unexpected-freedom>`_
     ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_]) 等等。
 
 ..
+  2021-04-08 rev. move to subdirectory-dhp-study; add: dhammatalks.org
+  2020-09-09 add: 佛陀的啟示(What the Buddha Taught) 
   11.26 add: 偈頌選讀
   07.05 del: 烏‧悉臘禪師（Sayadaw U Sila）禪修通告(元亨禪修營) & 慈濟瓦禪師 (Bhante Sujiva) 佛法講座通告
   03.16 add some links on 電子佛典資源; & old: modified: 2017-03-11T22:00+08:00
