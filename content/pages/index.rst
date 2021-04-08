@@ -1,3 +1,4 @@
+:date: 2016-02-14
 :modified: 2021-04-08
 :slug: index
 :lang: zh
@@ -105,6 +106,7 @@
         del: * `小部經典選譯
   2017.01.10 add: 慈濟瓦禪師(Bhante Sujiva)佛法講座通告
   05.04 del: 學佛社團
+  2016-02-14 created on github by siongui (02-16)
   02.04 2016 rev. 法句經 old:Tipitaka/Sutta/Khuddaka/Dhammapada/Dhammapada.htm;
                 覺悟之路 old http://http//anicca.online-dhamma.net/
                 hide:巴利藏閱讀輔具計劃(Tipitaka for Pali Learner Project)：簡介； 工作細項(Updated:01.25 '13)、
@@ -156,3 +158,4 @@
   93('04)/2/28 a href=http://www.buddhasasana.org/佛教正法維護網a href=http://www.buddhasasana.net b Buddha Sasana Online /b -
   Unofficial Home of the Theravadaa href=http://parami.org/sadhu/
   Saadhu!--The Theravada Buddhism Web Directory and Portala href=Original-Dhamma-Centre/index.html 法源中心
+  since (?) 1995.05
