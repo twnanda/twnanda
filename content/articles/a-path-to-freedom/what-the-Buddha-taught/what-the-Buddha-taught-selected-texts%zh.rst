@@ -3,7 +3,7 @@
 ==========
 
 :date: 2019-02-06
-:modified: 2021-03-29
+:modified: 2021-04-08
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著,  Nanda 編譯
 :tags: 佛典選譯, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
@@ -1069,7 +1069,7 @@
 
 - Dhp 183
 
-  * 一切惡莫作，一切善應行，自調淨其意，是則諸佛教。 [dhp001]_  ( `183 研讀 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-study183%zh.rst>`__ ). [dhp065]_
+  * 一切惡莫作，一切善應行，自調淨其意，是則諸佛教。 [dhp001]_  ( `183 研讀 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-study/dhp-study183%zh.rst>`__ ). [dhp065]_
   * 諸惡莫作，具足善，自淨其意，這是諸佛的教法。(183) [dhp002]_
 
 - Dhp 184
@@ -2377,7 +2377,7 @@
 
             〔明法尊者註14-08〕 有一次，阿難尊者請教佛陀，過去七佛的父母、壽量、菩提、聲聞眾、上首聲聞眾、上首侍者、所有的講說、不說布薩、為什麼他們不說布薩？其他的佛陀又如何？佛陀回答說，所有諸佛的佛法都是一樣的，佛陀馬上背誦過去諸佛在說法時所開講的一些偈語。
 
-            〔Nanda 校註〕 請參《法句經故事集》，十四～四、 `佛陀的教誨 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap14-ciu%zh.rst#dhp-183>`__ (偈 183~185)。 請參 `183 研讀 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-study183%zh.rst>`__ 。
+            〔Nanda 校註〕 請參《法句經故事集》，十四～四、 `佛陀的教誨 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-han-chap14-ciu%zh.rst#dhp-183>`__ (偈 183~185)。 請參 `183 研讀 <{filename}/articles/tipitaka/sutta/khuddaka/dhammapada/dhp-study/dhp-study183%zh.rst>`__ 。
 
 .. [dhp066] 原文 Patimokkha 為「別解脫律儀戒」，有二百二十七條主要的律文，為一切比丘所遵守的。
 
@@ -2593,6 +2593,7 @@
 .. [mprnbn00] 另請參考 參考資訊_ 中之 大般涅槃經參考資訊_ 。 
 
 ..
+  04-08 move to subdirectory-dhp-study
   03-29 法句經 白話文版 replace 敬法 法師 with 蘇錦坤 (till chap. 16)
   2021-02-24 add Dhp. selected with details; add: 佛典選譯（無註解版．唱誦用）
   2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
