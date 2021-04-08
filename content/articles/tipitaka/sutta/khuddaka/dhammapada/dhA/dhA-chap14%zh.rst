@@ -3,7 +3,7 @@
 =====================================================
 
 :date: 2016-05-27 11:00
-:modified: 2016-05-27 11:00
+:modified: 2021-04-08
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Buddhavaggo, 佛陀品, The Buddha
 :category: 巴利三藏小部
 :summary: 巴利《法句經》註解　摘譯　第十四：佛陀品 (The Buddha)
@@ -152,7 +152,7 @@
        | Sacittapariyodapanaṃ [sacittapariyodāpanaṃ (?)], etaṃ buddhāna sāsanaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一八三　 **一切惡莫作，一切善應行，自調淨其意，是則諸佛教。** ( `183 研讀 <{filename}../dhp-study183%zh.rst>`__ ).
+     - 一八三　 **一切惡莫作，一切善應行，自調淨其意，是則諸佛教。** ( `183 研讀 <{filename}../dhp-study/dhp-study183%zh.rst>`__ ).
 
    * - 註解 [4]_
      - sabbapāpassa akaraṇaṃ 諸惡莫作。
@@ -506,3 +506,7 @@
 - `法句經 (Dhammapada) <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+..
+  2021-04-08 rev. move to subdirectory-dhp-study
+  created on 2016-05-27 11:00

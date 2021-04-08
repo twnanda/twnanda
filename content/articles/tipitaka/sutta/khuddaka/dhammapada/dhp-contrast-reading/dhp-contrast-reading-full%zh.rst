@@ -3,7 +3,7 @@
 ===================================================
 
 :date: 2016-10-09 16:30
-:modified: 2021-02-24
+:modified: 2021-04-08
 :tags: 法句經, 法句經對讀, 雙品, Dhp, Dhammapada, Yamakavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Pairs
@@ -38953,7 +38953,7 @@
 
 .. [NandFn11-06] 〔Nanda 校註11-06〕 請參《法句經故事集》，十一～七、 `總是說錯話的比丘 <{filename}../dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-152>`__ (偈 152) 。
 
-.. [NandFn11-07] 〔Nanda 校註11-07〕 請參 `153-54 研讀 <{filename}../dhp-study153-4%zh.rst>`__ 。及《法句經故事集》，十一～八、 `佛陀的讚美詞 <{filename}../dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-153>`__ (偈 153~154) 。 
+.. [NandFn11-07] 〔Nanda 校註11-07〕 請參 `153-54 研讀 <{filename}../dhp-study/dhp-study153-4%zh.rst>`__ 。及《法句經故事集》，十一～八、 `佛陀的讚美詞 <{filename}../dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-153>`__ (偈 153~154) 。 
 
 .. [NandFn11-08] 〔校註11-08〕 法雨道場( 明法 法師)出版之修訂版，建議改"棟樑亦摧折"
 
@@ -39610,7 +39610,7 @@
 
 .. [NandFn14-02] 〔Nanda 校註14-02〕 請參《法句經故事集》，十四～二、 `佛陀從忉利天返回世間 <{filename}../dhp-story/dhp-story-han-chap14-ciu%zh.rst#dhp-181>`__  (偈 181)。
 
-.. [NandFn14-03] 〔Nanda 校註14-03〕 請參 `183 研讀 <{filename}../dhp-study183%zh.rst>`__ 。
+.. [NandFn14-03] 〔Nanda 校註14-03〕 請參 `183 研讀 <{filename}../dhp-study/dhp-study183%zh.rst>`__ 。
 
 
 .. [LChnFn15-01] 〔註15-01〕  日譯本為「安樂品」。
@@ -42439,6 +42439,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  04-08 rev. move to subdirectory-dhp-study
   2021-02-24 rev. correct typo
   2018-08-28 re-merge for adding 《法句經故事集》
   2016-10-09 16:30 create rst

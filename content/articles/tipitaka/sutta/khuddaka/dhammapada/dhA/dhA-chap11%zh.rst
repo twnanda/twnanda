@@ -3,7 +3,7 @@
 ==============================================
 
 :date: 2016-05-25 21:30
-:modified: 2016-05-25 21:30
+:modified: 2021-04-08
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Jarāvaggo, 老品, Old Age
 :category: 巴利三藏小部
 :summary: 巴利《法句經》註解　摘譯　十一：老品 (Old Age)
@@ -251,7 +251,7 @@
        | Visaṅkhāragataṃ cittaṃ, taṇhānaṃ khayamajjhagā.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一五四　 **已見造屋者** [LChnFn11-12]_ **！不再造於屋** [LChnFn11-13]_ **。椽桷** [LChnFn11-14]_ **皆毀壞，棟梁** [LChnFn11-15]_ **亦摧折。** [NandFn11-01]_ **我既證無為** [LChnFn11-16]_ **，一切愛盡滅。** ( `153-54 研讀 <{filename}../dhp-study153-4%zh.rst>`__ ).
+     - 一五四　 **已見造屋者** [LChnFn11-12]_ **！不再造於屋** [LChnFn11-13]_ **。椽桷** [LChnFn11-14]_ **皆毀壞，棟梁** [LChnFn11-15]_ **亦摧折。** [NandFn11-01]_ **我既證無為** [LChnFn11-16]_ **，一切愛盡滅。** ( `153-54 研讀 <{filename}../dhp-study/dhp-study153-4%zh.rst>`__ ).
 
    * - 註解 [4]_
      - gahakāraka diṭṭho 'si 當我通達無上菩提時，我看到你。
@@ -373,3 +373,7 @@
 - `法句經 (Dhammapada) <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+..
+  2021-04-08 rev. move to subdirectory-dhp-study
+  created on 2016-05-25 21:30

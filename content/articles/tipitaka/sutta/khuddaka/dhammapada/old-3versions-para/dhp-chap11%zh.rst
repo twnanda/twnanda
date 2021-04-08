@@ -2,7 +2,7 @@ Dhammapada 法句經(第十一：老品)
 ===============================
 
 :date: 2004-03-06
-:modified: 2004-04-03
+:modified: 2021-04-08
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Chap11.htm
 :tags: 法句經, Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine, 法集要頌經, 法句譬喻經, 出曜經, DHP, Dhp
 :category: 巴利三藏小部
@@ -89,7 +89,7 @@ Dhammapada 法句經(第十一：老品)
 
        154
        (
-       `研讀 <{filename}../dhp-study153-4%zh.rst>`_
+       `研讀 <{filename}../dhp-study/dhp-study153-4%zh.rst>`_
        )
 
      - 經多生輪迴，尋求造屋者，但未得見之，痛苦再再生。
@@ -127,4 +127,6 @@ Dhammapada 法句經(第十一：老品)
 
 備註：英譯可參考 "佛學數位圖書館暨博物館"中 巴利語教學 `經文選讀 (英) <http://buddhism.lib.ntu.edu.tw/DLMBS/lesson/pali/lesson_pali3.jsp>`_
 
-.. 03.06 '04
+.. 
+  2021-04-08 rev. move to subdirectory-dhp-study
+  created on 2004-03-06 (03.06 '04)

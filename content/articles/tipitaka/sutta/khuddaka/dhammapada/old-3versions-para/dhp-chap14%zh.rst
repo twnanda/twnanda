@@ -2,7 +2,7 @@ Dhammapada 法句經(第十四：佛陀品)
 =================================
 
 :date: 2004-03-06
-:modified: 2004-04-03
+:modified: 2021-04-08
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Chap14.htm
 :tags: 法句經, Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine, 法集要頌經, 法句譬喻經, 出曜經, DHP, Dhp
 :category: 巴利三藏小部
@@ -60,7 +60,7 @@ Dhammapada 法句經(第十四：佛陀品)
        Difficult is listening to the True Dharma; hard to come by is the appearance of the Awakened Ones.
 
    * - 183(
-       `研讀 <{filename}../dhp-study183%zh.rst>`__
+       `研讀 <{filename}../dhp-study/dhp-study183%zh.rst>`__
        )
 
        184
@@ -194,4 +194,7 @@ Dhammapada 法句經(第十四：佛陀品)
 
 備註：英譯可參考 "佛學數位圖書館暨博物館"中 巴利語教學 `經文選讀 (英) <http://buddhism.lib.ntu.edu.tw/DLMBS/lesson/pali/lesson_pali3.jsp>`_
 
-.. 03.06 '04
+.. 
+  2021-04-08 rev. move to subdirectory-dhp-study
+  rev. 2004-04-03
+  created on 2004-03-06 (03.06 '04)

@@ -3,7 +3,7 @@
 ==========================================================================
 
 :date: 2016-04-17
-:modified: 2021-03-29
+:modified: 2021-04-08
 :tags: 法句經, 法句經對讀, 佛陀品, Dhp, Dhammapada, Buddhavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Buddha
@@ -2261,7 +2261,7 @@
 
 .. [NandFn14-02] 〔Nanda 校註14-02〕 請參《法句經故事集》，十四～二、 `佛陀從忉利天返回世間 <{filename}../dhp-story/dhp-story-han-chap14-ciu%zh.rst#dhp-181>`__  (偈 181)。
 
-.. [NandFn14-03] 〔Nanda 校註14-03〕 請參 `183 研讀 <{filename}../dhp-study183%zh.rst>`__ 。
+.. [NandFn14-03] 〔Nanda 校註14-03〕 請參 `183 研讀 <{filename}../dhp-study/dhp-study183%zh.rst>`__ 。
 
 ---------------------------
 
@@ -2271,6 +2271,7 @@
 
 
 ..
+  04-08 rev. move to subdirectory-dhp-study
   2021-03-29 add: 白話文版 2021
    2018-08-19 post, 08-11 add: 周金言 譯《法句經故事集》(from rst)
    2016.04.17 created from rst

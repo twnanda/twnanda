@@ -521,4 +521,3 @@ ekāhaṃ jīvitaṃ seyyo passato udayavyayaṃ 僅有一天能見到五蘊生�
 
 ..
   created on 2021-04-07
-  南傳法句經 `佛陀品　BUDDHAVAGGO <{filename}old-3versions-para/dhp-chap14%zh.rst>`_ 第183 偈頌

@@ -3,7 +3,7 @@
 ==========================================================================
 
 :date: 2016-04-05 17:30
-:modified: 2016-05-17 12:00
+:modified: 2021-04-08
 :tags: 佛陀品, 法句經, Dhammapada, 了參法師, 文言文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP 
 :category: 巴利三藏小部
 :summary: 第十四：佛陀品（法句經, Dhammapada, BUDDHA-VAGGO, 了參 法師 譯, 文言文版）
@@ -27,7 +27,7 @@
 
 一八二　得生人道難，生得壽終難，得聞正法難，遇佛出世難。
 
-一八三　 **一切惡莫作，一切善應行，自調淨其意，是則諸佛教。** ( `183 研讀 <{filename}../dhp-study183%zh.rst>`__ ).
+一八三　 **一切惡莫作，一切善應行，自調淨其意，是則諸佛教。** ( `183 研讀 <{filename}../dhp-study/dhp-study183%zh.rst>`__ ).
 
 一八四　諸佛說涅槃最上，忍辱為最高苦行。害他實非出家者，惱他不名為沙門。
 
@@ -97,3 +97,7 @@
 - `法句經 首頁 <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+..
+  2021-04-08 rev. move to subdirectory-dhp-study
+  created on 2016-04-05 17:30

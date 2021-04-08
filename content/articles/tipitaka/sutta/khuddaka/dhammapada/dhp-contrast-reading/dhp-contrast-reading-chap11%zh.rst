@@ -3,7 +3,7 @@
 ======================================================================
 
 :date: 2016-06-04 15:00
-:modified: 2018-08-19
+:modified: 2021-04-08
 :tags: 法句經, 法句經對讀, 老品, Dhp, Dhammapada, Jarāvaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Old Age
@@ -1221,7 +1221,7 @@
 
 .. [NandFn11-06] 〔Nanda 校註11-06〕 請參《法句經故事集》，十一～七、 `總是說錯話的比丘 <{filename}../dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-152>`__ (偈 152) 。
 
-.. [NandFn11-07] 〔Nanda 校註11-07〕 請參 `153-54 研讀 <{filename}../dhp-study153-4%zh.rst>`__ 。及《法句經故事集》，十一～八、 `佛陀的讚美詞 <{filename}../dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-153>`__ (偈 153~154) 。 
+.. [NandFn11-07] 〔Nanda 校註11-07〕 請參 `153-54 研讀 <{filename}../dhp-study/dhp-study153-4%zh.rst>`__ 。及《法句經故事集》，十一～八、 `佛陀的讚美詞 <{filename}../dhp-story/dhp-story-han-chap11-ciu%zh.rst#dhp-153>`__ (偈 153~154) 。 
 
 .. [NandFn11-08] 〔校註11-08〕 法雨道場( 明法 法師)出版之修訂版，建議改"棟樑亦摧折"
 
@@ -1235,6 +1235,7 @@
 
 
 ..
+  04-08 rev. move to subdirectory-dhp-study
   2021-03-29 add: 白話文版 2021
    2018-08-19 post, 08-09 add: 周金言 譯《法句經故事集》(from rst)
    2016.04.17 created from rst
