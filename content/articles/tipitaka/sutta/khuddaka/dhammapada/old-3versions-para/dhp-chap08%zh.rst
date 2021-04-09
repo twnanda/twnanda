@@ -2,7 +2,7 @@ Dhammapada 法句經(第八：千品)
 =============================
 
 :date: 2004-03-06
-:modified: 2004-04-03
+:modified: 2021-04-09
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Khuddaka/Dhammapada/DhP_Chap08.htm
 :tags: 法句經, Dhammapada, The Buddha's Path of Wisdom, The Path of Dhamma, The Word of the Doctrine, 法集要頌經, 法句譬喻經, 出曜經, DHP, Dhp
 :category: 巴利三藏小部
@@ -157,7 +157,7 @@ Dhammapada 法句經(第八：千品)
 
    * - 113
 
-     - 若人壽百歲──不見生滅法，不如生一日──得見生滅法。
+     - 若人壽百歲──不見生滅法，不如生一日──得見生滅法。 ( `113 研讀 <{filename}../dhp-study/dhp-study113%zh.rst>`__ ) 
 
      - 知見五蘊生滅者的一天，好過不能知見五蘊生滅者的百年生命。
 
@@ -184,4 +184,7 @@ Dhammapada 法句經(第八：千品)
 
 備註：英譯可參考 "佛學數位圖書館暨博物館"中 巴利語教學 `經文選讀 (英) <http://buddhism.lib.ntu.edu.tw/DLMBS/lesson/pali/lesson_pali3.jsp>`_
 
-.. 03.06 '04
+
+.. 
+  2021-04-09 add Dhp. 113 研讀
+  created on 2004-03-06 (03.06 '04)

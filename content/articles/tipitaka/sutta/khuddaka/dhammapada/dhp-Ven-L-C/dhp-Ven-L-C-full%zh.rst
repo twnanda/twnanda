@@ -2,7 +2,7 @@
 ##########################################
 
 :date: 2004-03-27 09:00
-:modified: 2021-04-08
+:modified: 2021-04-09
 :tags: 法句經, Dhammapada, 了參法師, 文言文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP 
 :category: 巴利三藏小部
 :summary: 法句經, Dhammapada, 了參法師, 文言文版
@@ -419,7 +419,7 @@
 
 一一二　若人壽百歲──怠惰不精進，不如生一日──勵力行精進。 
 
-一一三　若人壽百歲──不見生滅法 [LChnFn08-12]_ ，不如生一日──得見生滅法。
+一一三　若人壽百歲──不見生滅法 [LChnFn08-12]_ ，不如生一日──得見生滅法。 ( `113 研讀 <{filename}../dhp-study/dhp-study113%zh.rst>`__ )
 
 一一四　若人壽百歲──不見不死道，不如生一日──得見不死道。
 
@@ -1865,6 +1865,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  04-09 add Dhp. 113 研讀
   04-08 rev. move to subdirectory-dhp-study
   2021-02-24 rev. correct typo of at Dhp. 171 of 了參法師; & old:這是說聖者又自證知，悟不由他之意。
   07.31; 07.24; 07.23; 

@@ -3,7 +3,7 @@
 ======================================================================
 
 :date: 2016-06-03 21:00
-:modified: 2021-03-25
+:modified: 2021-04-09
 :tags: 法句經, 法句經對讀, 千品, Dhp, Dhammapada, Sahassavaggo, 
        Parallel Reading, paragraph granularity, The Buddha's Path of Wisdom,
        法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, The Thousands
@@ -1293,8 +1293,7 @@
        | Ekāhaṃ jīvitaṃ seyyo, passato udayabbayaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一一三　若人壽百歲──不見生滅法，不如生一日──得見生滅法。 [LChnFn08-12]_ 、 [MettFn08-13]_ 、 [MettFn08-14]_
-
+     - 一一三　若人壽百歲──不見生滅法，不如生一日──得見生滅法。 [LChnFn08-12]_ 、 [MettFn08-13]_ 、 [MettFn08-14]_ ( `113 研讀 <{filename}../dhp-study/dhp-study113%zh.rst>`__ )
 
    * - 漢譯(蘇錦坤 譯, 白話文版, 2021) [14]_
      - | 如有人活了一百歲，而不了解生滅法，
@@ -2229,6 +2228,7 @@
 
 
 ..
+  04-09 add Dhp. 113 研讀
   2021-03-25 add: 白話文版 2021
    2018-08-19 post, 08-06 add: 周金言 譯《法句經故事集》(from rst)
    2016.06.03 created from rst

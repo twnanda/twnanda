@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2016-05-29 11:30
-:modified: 2021-04-08
+:modified: 2021-04-09
 :tags: 法句經註解, Dhp, Dhammapada, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapadapāḷi, The Path of Dhamma, Aṭṭhakathā
 :category: 巴利三藏小部
 :summary: 巴利法句經註解摘譯 整部 (The Full Text), Dhammapada Aṭṭhakathā (DhA)
@@ -3033,7 +3033,7 @@
        | Ekāhaṃ jīvitaṃ seyyo, passato udayabbayaṃ.
 
    * - 漢譯( **了參 法師** 譯, 文言文版) [3]_
-     - 一一三　若人壽百歲──不見生滅法 [LChnFn08-12]_ ，不如生一日──得見生滅法。
+     - 一一三　若人壽百歲──不見生滅法 [LChnFn08-12]_ ，不如生一日──得見生滅法。 ( `113 研讀 <{filename}../dhp-study/dhp-study113%zh.rst>`__ )
 
    * - 註解 [4]_
      - apassaṃ udayavyayaṃ 不能見到五蘊的生滅。ekāhaṃ jīvitaṃ seyyo passato udayavyayaṃ 僅有一天能見到五蘊生滅的人，比其他人好。
@@ -10552,5 +10552,6 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  04-09 add Dhp. 113 研讀
   2021-04-08 rev. move to subdirectory-dhp-study
   created on 2016-05-29 11:30

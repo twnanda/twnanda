@@ -3,7 +3,7 @@
 ====================================================================================================
 
 :date: 2021-01-24
-:modified: 2021-02-27
+:modified: 2021-04-09
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 第八：千品（《法句經》, Dhammapada, Sahassavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
@@ -808,7 +808,7 @@ Dhp. 112
 Dhp. 113
 ~~~~~~~~~~~
 
-這一首偈頌就是著名的「水潦鶴」公案。
+這一首偈頌就是著名的 `「水潦鶴」公案 <{filename}../dhp-study/dhp-study113%zh.rst>`__ 。
 
 《根本說一切有部毘奈耶雜事》卷40：
 
@@ -1063,6 +1063,7 @@ https://www.facebook.com/groups/491306231038114/permalink/1763726447129413
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  04-09 add Dhp. 113 研讀 (「水潦鶴」公案)
   02-27 rev.  原貼：書房夜話 398 ...
   02-24 finish editing
   02-16 add till Dhp 106
