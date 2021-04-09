@@ -1,11 +1,11 @@
-《法句經》第 113 偈頌研讀
-============================
+「水鶴」公案--《法句經》第 113 偈頌研讀
+==========================================
 
-:date: 2021-04-07
-:modified: 2021-04-07
-:tags: Dhp. 113, dhp. 113, Dhp 113, dhp 113, 水白鶴, 水潦鶴, 水老鶴, 生滅法, 水白鶴公案, 水潦鶴公案, 水老鶴公案, 公案, 法句經, Dhammapada
+:date: 2021-04-09
+:modified: 2021-04-09
+:tags: Dhp. 113, dhp. 113, Dhp 113, dhp 113, 水鶴, 水白鶴, 水潦鶴, 水老鶴, 生滅法, 水鶴公案, 水白鶴公案, 水潦鶴公案, 水老鶴公案, 公案, 法句經, Dhammapada,  udayabbayaṃ, water-heron, udaka, baka, crane, heron, grey duck
 :category: 巴利三藏小部
-:summary: 法句經研讀--第 113 偈頌
+:summary: 「水鶴」公案--《法句經》第 113 偈頌研讀
 
 - 巴利原典
 
@@ -139,9 +139,9 @@
  
 3. `法友飛鴻 286：又見水白鶴 <http://yifertw.blogspot.com/2018/06/blog-post_24.html>`__ 2018-06-24（部落格）
  
-4. `113 巴利《法句經》 <https://www.facebook.com/groups/491306231038114/permalink/1763637650471626>`__ 100-115 〈8 千品 Sahassavaggo〉 2021-02-19 （面冊）（以上四篇文章，作者為 蘇錦坤 Ken Su， 獨立佛學研究者 ，藏經閣外掃葉人， 台語與佛典 部落格格主）。
+4. `113 巴利《法句經》 <https://www.facebook.com/groups/491306231038114/permalink/1763637650471626>`__ 100-115 〈8 千品 Sahassavaggo〉 2021-02-19 （面冊、臉書）（以上四篇文章，作者為 蘇錦坤 Ken Su， 獨立佛學研究者 ，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>`__ 部落格格主）。
 
-5. Yuan Chuan Su： `面冊（臉書） 2018-06-18 <https://www.facebook.com/groups/491306231038114/permalink/954005774768155>`__
+5. Yuan Chuan Su： `臉書 2018-06-18 <https://www.facebook.com/groups/491306231038114/permalink/954005774768155>`__
 
 ------
 
@@ -239,7 +239,7 @@
 
 ya ji vaṣa-śado jivi apaśu udaka-vaya.
 
-如此故事只不過是用來彰顯對於一首誤傳的偈頌或至少是被認為誤傳的偈頌的訂正。如果這首偈頌在當時仍然是「俗語版本」的形式，那個字就不會讓背誦者認為是「water-heron 水-鶴」；而說一切有部（律）的作者就沒有正當理由去嘲諷失誤。相反地，很有可能這首偈頌〔很可能在一些佉盧字體的抄本已經寫作 udaka-vaka（正確應該是udayavyaya 或 udayabbaya），譯成梵文時被不經意地寫作 udaka-bakam〕 而導致必需訂正。我們可以觀察到，虛構的故事背景不僅提供了權威的訂正者（阿難尊者）對此訛誤的批評，同時也意味著此一背誦訛誤一直未被發覺，一直到權威的訂正者已經過於年邁，而其記憶也被認為不可靠。如果這樣的訂正更早出現，毫無疑問地發生錯誤的部派無法辯解。
+如此故事只不過是用來彰顯對於一首誤傳的偈頌或至少是被認為誤傳的偈頌的訂正。如果這首偈頌在當時仍然是「俗語版本」的形式，那個字就不會讓背誦者認為是「water-heron 水-鶴」；而說一切有部（律）的作者就沒有正當理由去嘲諷失誤。相反地，很有可能這首偈頌〔很可能在一些佉盧字體的抄本已經寫作 udaka-vaka（正確應該是udayavyaya 或 udayabbaya）〕，譯成梵文時被不經意地寫作 udaka-bakam ，而導致必需訂正。我們可以觀察到，虛構的故事背景不僅提供了權威的訂正者（阿難尊者）對此訛誤的批評，同時也意味著此一背誦訛誤一直未被發覺，一直到權威的訂正者已經過於年邁，而其記憶也被認為不可靠。如果這樣的訂正更早出現，毫無疑問地發生錯誤的部派無法辯解。
 
 在藏文毘奈耶中，這個故事的另一版本值得被提出來，雖然這仍然是個訛誤的版本，它意味著較晚期的說一切有部（律）在錯誤的偈頌導入一個「精巧的細節 artistic elaboration」，而仍然出於俗語（或者可能是犍陀羅語）的背景。這首被批評的偈頌被描述為：
 
@@ -247,7 +247,7 @@ ya ji vaṣa-śado jivi apaśu udaka-vaya.
 
 我們無需試著去決定藏譯對巴利「Ekāhaṃ(eka-aha 一日)」這個字的詮釋是失誤還是出自嘲弄（藏譯好像將此字解釋作「Eka-ahaṃ 孤獨-我」)，但是前半偈幾乎可以確定是嘗試去改善第一個版本。藏譯似乎意味著將原先的梵文「apaśyann udaka-bakam 不見水鶴」(漢譯版本可能根據的梵文)改作梵文「avaśyam udake bakah 確實(是一隻)水鶴」的藏譯。這樣的改變不可能出自意外的失誤。在法句經寫本所用的字，作為否定意義的字首 a 其後跟著一個單子音，常被當作是一個字的正常字首，這個單子音有時會被當作「intervocalic 兩個母音之間」的(一般)子音。雖然這首偈頌之中的字是「apaśu」，這個字也有可能在其他時候的拼寫作「avaśu」；而且即使最初仍然認出這個字「apaśu」用的是「p」，從其他寫卷看到的熟悉現象(-p 和 -v 混淆，例如 apādana 和 avādana)會讓此類律本的訂正者認為原稿應該是「v」，而最終寫成「avaśyam 確實」。
 
-很不幸的，阿難對該偈頌的訂正在藏文譯本中並未顯示任何作用，而後代的藏文閱讀者一定搞不清楚藏譯中阿難的偈頌會是什麼意義：
+很不幸的，阿難對該偈頌的訂正，在藏文譯本中並未顯示任何作用；而後代的藏文閱讀者一定搞不清楚，藏譯中阿難的偈頌會是什麼意義：
 
 「To live for a hundred years is undoubtedly birth and death 壽命百歲無可置疑地就是生與死。」
 
@@ -505,7 +505,7 @@ ekāhaṃ jīvitaṃ seyyo passato udayavyayaṃ 僅有一天能見到五蘊生�
                   She became a nun. Once she was washing her feet in the evening. She poured water from the pot, it flowed a short distance and disappeared in the ground. She poured the second time and water flowed little bit farther. When she poured water for the third time, it flowed farthest. She stood there contemplating that all things rise and fall, are born and die, some for a short time, some for longer. The Buddha saw her thoughts and told her this verse, saying that it was better to live shortly and understand this law than to live for hundred years and not to see it. Paṭācārā understood and attained Awakenment.
 
 .. [case-1] Baka，【陽】鶴（crane），蒼鷺 （heron）。 https://dictionary.sutta.org/browse/b/baka/
-.. [case-2] A mula-sarvastivadin criticism, INTRODUCTION, "THE GĀNDHĀRĪ DHARMAPADA", LONDON ORIENTAL SERIES. VOLUME 7, EDITED WITH AN INTRODUCTION AND COMMENTARY BY JOHN BROUGH, 1962, https://archive.org/stream/in.ernet.dli.2015.135849/2015.135849.The-Gandhari-Dharmapada_djvu.txt
+.. [case-2] A mula-sarvastivadin criticism, INTRODUCTION, "THE GĀNDHĀRĪ DHARMAPADA", LONDON ORIENTAL SERIES. VOLUME 7, EDITED WITH AN INTRODUCTION AND COMMENTARY BY JOHN BROUGH, 1962, https://archive.org/stream/in.ernet.dli.2015.135849/2015.135849.The-Gandhari-Dharmapada_djvu.txt , https://books.google.com.tw/books?id=aytJ5w074RYC&pg=PA1&hl=zh-TW&source=gbs_toc_r&cad=3#v=onepage&q&f=false
 .. [case-3] K. R. Norman, A Philological Approach to Buddhism, pp 107-108
 .. [case-4] "udakavaka(犍陀羅語/佉盧體拼音)"，這樣講好像有語病。（Kharosti 雖然古譯作「驢唇體」，但是可能出於嘲諷或戲謔、誤解。仍應以「佉盧體」的古譯為合適的稱謂。）
 
@@ -520,4 +520,6 @@ ekāhaṃ jīvitaṃ seyyo passato udayavyayaṃ 僅有一天能見到五蘊生�
 .. [case-6] 這故事應該是在西元後且在中亞發生，之所以這樣推論，是因為根據各部派律典記載，佛陀不允許用梵語背誦經典，且東印度也不使用犍陀羅語；至於佛教經典梵語化是西元後才發生的事情。因此事發不會在王舍城，且阿難更早已不在人世。故事中之所以有阿難與王舍城，應該是根本說一切有部想利用阿難的權威去強調背誦正確的重要性。
 
 ..
+  04-09 rev. add 「水鶴」公案 on title
   created on 2021-04-07
+  南傳法句經 `佛陀品　BUDDHAVAGGO <{filename}old-3versions-para/dhp-chap14%zh.rst>`_ 第183 偈頌
