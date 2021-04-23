@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2021-03-28
+:modified: 2021-04-23
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -53,7 +53,7 @@ Dhamma Talks by Mogok Sayadaw
      - For Print, Size: B5, general, 14.5 pt, `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-Vol-2.pdf>`__ (364 pages)
      - For Print, Size: B5, general, 14.5 pt, `Vol. III <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-Vol-3.pdf>`__ (355 pages)
      - For Print, Size: B5, general, 14.5 pt, `Vol. IV <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-Vol-4.pdf>`__ (407 pages)
-     - Cover (2021-03-28): `Vol-I <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok1.jpg>`__ , `Vol-II <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok2.jpg>`__ , `Vol-III <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok3.jpg>`__ , `Vol-IV <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok4.jpg>`__
+     - 
 
 ---------------------------
 
@@ -763,7 +763,7 @@ the translator : Ven. Uttamo (鄔達摩尊者）
      - `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text.pdf>`__ (PDF, 2021-03-27); `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-green.pdf>`__ (PDF, background in green, 2021-03-27)
    * - For Print, Size: A5, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-12pt-print-A5.pdf>`__ (12 pt, 144 pages, 2021-03-27) 
      - For Print, Size: A5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print-A5.pdf>`__ (14 pt, 183 pages, 2021-03-27) 
-     - For Print: `Cover <https://github.com/twnanda/doc-pdf-etc/blob/master/image/18days.jpg>`__ 
+     - 
      - 
 
 ------
@@ -899,8 +899,6 @@ Protection with Blessing
 
 - For Print, Size: B5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-14pt-print-B5.pdf>`__ (14 pt, 515 pages, 2021-03-27) 
 
-- For Print: `Cover <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mangala.jpg>`__ 
-
 - For Print, Size: A4, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-12pt-print-A4.pdf>`__ (12 pt, 321 pages, 2021-03-27) 
 
 - For Print, Size: A4, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-14pt-print-A4.pdf>`__ (14 pt, 515 pages, 2021-03-27) 
@@ -910,6 +908,7 @@ Protection with Blessing
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-23 del covers of four books for the consideration of copyright
   03-28 add & rev. proofread by bhante 03-26
   02-06 rev. old: mistaken Size: B6
   2021-01-29 rev. proofread by bhante 01-27; and change for print: (Size: B6) 

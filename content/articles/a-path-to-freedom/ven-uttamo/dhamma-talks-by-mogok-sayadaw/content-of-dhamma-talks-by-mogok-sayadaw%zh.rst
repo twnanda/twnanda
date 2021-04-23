@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2021-03-28
+:modified: 2021-04-23
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -47,7 +47,7 @@ Dhamma Talks by Mogok Sayadaw
      - For Print, Size: B5, general, 14.5 pt, `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-Vol-2.pdf>`__ (364 pages)
      - For Print, Size: B5, general, 14.5 pt, `Vol. III <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-Vol-3.pdf>`__ (355 pages)
      - For Print, Size: B5, general, 14.5 pt, `Vol. IV <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-Vol-4.pdf>`__ (407 pages)
-     - Cover (2021-03-28): `Vol-I <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok1.jpg>`__ , `Vol-II <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok2.jpg>`__ , `Vol-III <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok3.jpg>`__ , `Vol-IV <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok4.jpg>`__
+     - 
 
 ---------------------------
 
@@ -719,7 +719,7 @@ _`Part 13` ( `content of Part 13 <{filename}pt13-content-of-part13%zh.rst>`_ )
 
 ------
 
-revised on 2021-03-28
+revised on 2021-04-23
 
 ------
 
@@ -730,6 +730,7 @@ revised on 2021-03-28
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-23 del covers of four books for the consideration of copyright
   03-28 add & rev. proofread by bhante 03-26
   02-06 rev. old: mistaken Size: B6
   2021-01-29 rev. proofread by bhante 01-27; and change for print: (Size: B6) 
