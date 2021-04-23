@@ -3,7 +3,7 @@
 ====================================
 
 :date: 2019-02-06
-:modified: 2021-02-24
+:modified: 2021-04-23
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, Nanda 編譯
 :tags: 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛法, 佛陀說的法, 瓦爾朴拉羅睺羅, 鄭於中
 :category: 解脫之道
@@ -36,7 +36,7 @@
 
 　　最後，譯者與他敬愛的母親、長輩、親人、朋友、所有的讀者及一切眾生分享翻譯此書的功德，也把此功德迴向予其已故的父親。願他們的隨喜成為他們早日獲得解脫的助緣。
 
-Nanda 編譯
+Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2564; (04-11, `公元 <http://zh.wikipedia.org/wiki/公元>`__ 2021 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 | 電郵信箱：ｔｗ﹒ｎａｎｄａ＠ｇｍａｉｌ﹒ｃｏｍ
 | （為防網路機器人製造垃圾郵件，以上為 `全形 <https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2>`__ 字元顯示；請勿直接複製使用）
@@ -68,6 +68,18 @@ Nanda 編譯
    * - `附錄  本書常見佛學名詞淺釋 <{filename}what-the-Buddha-taught-appendix-term%zh.rst>`__
      - `張澄基序 <{filename}what-the-Buddha-taught-foreword-chang-cj%zh.rst>`__ （慧炬出版社）
      - 整部： `HTML <{filename}what-the-Buddha-taught-full%zh.rst>`__ (2021-02-13)
+
+   * - 整部列印〔尾註（註釋置於整個文本之後）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-B5.pdf>`__ （書本尺寸：B5, 384 頁）
+     - `ODT <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.odt>`__ （尾註；書本尺寸：B5）
+     - `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-A4.pdf>`__ （尾註；書本尺寸：A4, 277 頁）
+
+   * - 整部列印〔腳註（註釋置於該頁下方）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.pdf>`__  （書本尺寸：B5, 378 頁）
+     -  `ODT <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-B5.odt>`__ （腳註；書本尺寸：B5）
+     - `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-A4.pdf>`__ （腳註；書本尺寸：A4, 275 頁）
+
+   * - 整部列印〔簡體版，尾註（註釋置於整個文本之後）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-B5-simplified.pdf>`__ （書本尺寸：B5, 398 頁）
+     - 整部〔簡體版，腳註（註釋置於該頁下方）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5-simplified.pdf>`__  （書本尺寸：B5, 392 頁）
+     - 簡體版 `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-A4-simplified.pdf>`__ （腳註；書本尺寸：A4, 288 頁）
 
 ※※※ 建議初機學佛的讀者們：首先閱讀 `第一章 <{filename}what-the-Buddha-taught-chap1%zh.rst>`__ ，接著閱讀 `第五 <{filename}what-the-Buddha-taught-chap5%zh.rst>`__ 、 `七 <{filename}what-the-Buddha-taught-chap7%zh.rst>`__ 、 `八章 <{filename}what-the-Buddha-taught-chap8%zh.rst>`__ ；當基本概念較清楚與鮮明時，再回過頭來讀 `第二 <{filename}what-the-Buddha-taught-chap2%zh.rst>`__ 、 `三 <{filename}what-the-Buddha-taught-chap3%zh.rst>`__ 、 `四 <{filename}what-the-Buddha-taught-chap4%zh.rst>`__ 、 `六章 <{filename}what-the-Buddha-taught-chap6%zh.rst>`__ 。 〔取材自：原作者之 `前言 <{filename}what-the-Buddha-taught-preface%zh.rst>`__ （自序）〕
 
@@ -212,8 +224,8 @@ Nanda 編譯
   English （英文版）： `What The Buddha Taught <http://ftp.budaedu.org/ebooks/pdf/EN132.pdf>`__ (EN132, 7 MB, Cited from： `English <http://www.budaedu.org/en/>`__ → `Downloads <http://www.budaedu.org/en/downloads/>`__ → `eBooks <http://www.budaedu.org/ebooks/6-EN.php>`__ )
 
   本站（舊版連結）： `線上閱讀 <{filename}/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.html>`__ (HTML) 或下載(按滑鼠右鍵,選擇 "另存目標"(Chrome 則為"另存連結為")；便可直接存檔)：
-  `PDF <{filename}/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.pdf>`__ (含目錄及書籤功能)或
-  m$ `.DOC 檔 <{filename}/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.doc>`__
+  `PDF <{static}/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.pdf>`__ (含目錄及書籤功能)或
+  m$ `.DOC 檔 <{static}/extra/authors/walpola-rahula/What_the_Buddha_Taught-Han.doc>`__
 
   取材自：http://book.bfnn.org/books/0535.htm (直接閱讀 HTML)
 
@@ -304,6 +316,7 @@ Nanda 編譯
 - 賴明亮教授(1949-02-28 ~ 2019-01-25)， `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休（ `榮退典禮 <https://www.youtube.com/watch?v=57-zS_E6660>`_ , 2014-06-20）； 賴明亮 教授追思會 `專輯影片 <https://www.youtube.com/watch?v=iL1utpxa3pw>`_ （2019-02-28）。
 
 ..
+  04-23 add: 整部列印檔
   02-12 add: 整部： HTML (2021-02-12); 02-24 add: Siong-Ui Te; 佛典選譯（old: 刪除簡易註解版）
   2021-01-25 add: Dr. ML Lai 榮退典禮 影片連結
   2021-01-01 add: Academia.edu; move the link of Dr. Lai to the bottom
