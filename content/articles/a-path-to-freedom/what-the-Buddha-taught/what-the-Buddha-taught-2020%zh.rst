@@ -3,9 +3,9 @@
 ====================================
 
 :date: 2019-02-06
-:modified: 2021-04-23
+:modified: 2021-04-25
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, Nanda 編譯
-:tags: 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛法, 佛陀說的法, 瓦爾朴拉羅睺羅, 鄭於中
+:tags: 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛法, 佛陀說的法, 瓦爾朴拉羅睺羅, 鄭於中, 戴密微
 :category: 解脫之道
 :summary: 佛陀的啟示(What the Buddha taught)
 
@@ -30,7 +30,7 @@
 編譯弁言
 ~~~~~~~~~~
 
-本書編輯乃基於英文原著，主要採用　法嚴法師_ （筆名：顧法嚴）之譯本；並參考 鄭於中 之譯本。 序言（保羅‧戴密否 (Paul Demiville)）及前言（自序）兩篇，則參考 蘇錦坤、陳健忠兩位學者之譯文。註釋部份參考故　`尊者　明法比丘 <http://www.dhammarain.org.tw/obituary.html>`_ （「`法雨道場 <http://www.dhammarain.org.tw/>`_」）遺著與蘇錦坤者；「經典選譯」則參考巴利原典、英文原著及陳健忠等等者。詳細請參 本書書目_ 與 參考資料_ 。
+本書編輯乃基於英文原著，主要採用　法嚴法師_ （筆名：顧法嚴）之譯本；並參考 鄭於中 之譯本。 序言（保羅‧戴密微 (Paul Demiville)）及前言（自序）兩篇，則參考 蘇錦坤_ 、陳健忠兩位學者之譯文。註釋部份參考故　`尊者　明法比丘 <http://www.dhammarain.org.tw/obituary.html>`_ （「`法雨道場 <http://www.dhammarain.org.tw/>`_」）遺著與 蘇錦坤_ 者；「經典選譯」則參考巴利原典、英文原著及陳健忠等等者。詳細請參 本書書目_ 與 參考資料_ 。
 
 承蒙　 `秀定法師 <https://hdl.handle.net/11296/rkcsmf>`_ 、 `羅慶龍老師 <http://www.dhammarain.org.tw/new/new.html#aacariya-luo-ch-l>`__ 、  `莊博蕙 博士 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst#mn02-att>`__ 、故　 賴明亮教授_ 、 鄭晴如、 林宗亮、 陳秋雯、 `戴上為 <https://siongui.github.io/zh/pages/siong-ui-te.html>`__ （Siong-Ui Te 網路、程式支援）等諸位善知識，提供寶貴意見、指導、協助；在此一併致上感恩之意。書中或有疏漏、錯繆，蓋為編譯者之責；尚祈 各方賢達不吝 `來函 <mailto:tw.nanda@gmail.com>`__ 賜教！
 
@@ -46,7 +46,7 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 目錄
 ~~~~~~
 
-.. list-table:: 
+.. list-table:: on cyber
    :header-rows: 1
 
    * - `序言 <{filename}what-the-Buddha-taught-foreword%zh.rst>`__
@@ -69,6 +69,10 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
      - `張澄基序 <{filename}what-the-Buddha-taught-foreword-chang-cj%zh.rst>`__ （慧炬出版社）
      - 整部： `HTML <{filename}what-the-Buddha-taught-full%zh.rst>`__ (2021-02-13)
 
+
+.. list-table:: 佛陀的啟示（增訂版 2021）
+   :header-rows: 1
+
    * - 整部列印〔尾註（註釋置於整個文本之後）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-B5.pdf>`__ （書本尺寸：B5, 384 頁）
      - `ODT <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.odt>`__ （尾註；書本尺寸：B5）
      - `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-A4.pdf>`__ （尾註；書本尺寸：A4, 277 頁）
@@ -88,7 +92,7 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 詳細目錄
 ~~~~~~~~~~~
 
-- `序言 <{filename}what-the-Buddha-taught-foreword%zh.rst>`__ (Foreword, By Paul Demieville 法國大學 譚米華利 教授) 
+- `序言 <{filename}what-the-Buddha-taught-foreword%zh.rst>`__ (Foreword, By Paul Demieville 法國大學 戴密微 教授) 
 
 - `前言 <{filename}what-the-Buddha-taught-preface%zh.rst>`__ (自序，Preface, Most Ven. Walpola Rahula 化普樂·羅睺羅 尊者)
 
@@ -315,7 +319,14 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 
 - 賴明亮教授(1949-02-28 ~ 2019-01-25)， `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休（ `榮退典禮 <https://www.youtube.com/watch?v=57-zS_E6660>`_ , 2014-06-20）； 賴明亮 教授追思會 `專輯影片 <https://www.youtube.com/watch?v=iL1utpxa3pw>`_ （2019-02-28）。
 
+.. _Ken Su:
+
+.. _蘇錦坤:
+
+- 蘇錦坤 Ken Su， `獨立佛學研究者 <https://independent.academia.edu/KenYifertw>`_ (independent.academia.edu)，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>`_ 部落格格主、 `面冊 <https://www.facebook.com/profile.php?id=100016840620268>`__ （臉書） `瀚邦佛學研究中心 <https://www.facebook.com/groups/491306231038114>`__ 之話題高手、版主。
+
 ..
+  04-25 rev. 補增編譯, old: 增訂編譯; 戴密微, old: 戴密否, 譚米華利 (proofread by Ken Su); add: 蘇錦坤 Ken Su & 整部列印檔獨立列表
   04-23 add: 整部列印檔
   02-12 add: 整部： HTML (2021-02-12); 02-24 add: Siong-Ui Te; 佛典選譯（old: 刪除簡易註解版）
   2021-01-25 add: Dr. ML Lai 榮退典禮 影片連結
