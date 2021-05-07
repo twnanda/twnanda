@@ -3,7 +3,7 @@
 ==========================
 
 :date: 2019-02-06
-:modified: 2021-02-13
+:modified: 2021-05-07
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著,  Nanda 編譯
 :tags: 修習, 心智的培育, 修習：心智的培育, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
@@ -223,7 +223,7 @@
 
            AN.4. 157 Rogasuttaṃ (病經、病) (A ii 142)
 
-           「 :ttnote:`比丘`  們！有這二種病，哪二種呢？身體的病與心理病。比丘們！以身體的病而自稱一年無病，二年無病、三年無病、四年無病、五年無病、十年無病、二十年無病、三十年無病、四十年無病、五十年無病、一百年或更久無病的眾生被看得見，比丘們！除了 :ttnote:`煩惱`  已盡者外，那些眾生以心理病而自稱須臾無病者，在世間中非常難獲得。」（增支部4集157經/病經(莊春江譯) http://agama.buddhason.org/AN/AN0739.htm ）
+           「比丘們！有這二種病，哪二種呢？身體的病與心理病。比丘們！以身體的病而自稱一年無病，二年無病、三年無病、四年無病、五年無病、十年無病、二十年無病、三十年無病、四十年無病、五十年無病、一百年或更久無病的眾生被看得見，比丘們！除了煩惱已盡者外，那些眾生以心理病而自稱須臾無病者，在世間中非常難獲得。」（增支部4集157經/病經(莊春江譯) http://agama.buddhason.org/AN/AN0739.htm ）
 
            ～～～～～～～～～～
 
@@ -313,6 +313,7 @@
            大目犍連尊者說了以上的話後，比丘對大目犍連尊者的說話心感高興，滿懷歡喜。」（蕭式球 譯，香港志蓮淨苑：十五．反思經 http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=182 ）
 
 ..
+  05-07 del :ttnote:
   02-13 test recall 名相註解
   2021-02-06 完成補充註釋中之經論出處
   2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)

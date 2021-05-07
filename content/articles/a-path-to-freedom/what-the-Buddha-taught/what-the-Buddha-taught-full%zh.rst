@@ -4859,7 +4859,7 @@ Chapter V: The Fourth Noble Truth: Magga, The Path
 
            ～～～～～～～～～～           
 
-           「但這一代人樂於黏著，為黏著而興奮，享受黏著。對於這樣的一代人來說，這種狀態是很難看到的，那就是：具體的條件性（「法爾」、「此緣性」），和「緣起」。而這種狀態也是很難見到的，那就是：所有造作的止，捨離所有的獲得，消滅渴求（貪慾），消解，停止，`涅槃。（綜合譯自："Brahmā’s Request" translated by Ven. `Bodhi Bhikkhu`_ (The Connected Discourses of the Buddha: A Translation of the Samyutta Nikaya), and "The Request" by Thanissaro Bhikkhu, 1997; from the Pali: Āyācana Sutta, SN 6:1, PTS: S i 136, CDB i 231,  https://www.accesstoinsight.org/tipitaka/sn/sn06/sn06.001.than.html or https://www.dhammatalks.org/suttas/SN/SN6_1.html）
+           「但這一代人樂於黏著，為黏著而興奮，享受黏著。對於這樣的一代人來說，這種狀態是很難看到的，那就是：具體的條件性（「法爾」、「此緣性」），和「緣起」。而這種狀態也是很難見到的，那就是：所有造作的止，捨離所有的獲得，消滅渴求（貪慾），消解，停止，涅槃。（綜合譯自："Brahmā’s Request" translated by Ven. `Bodhi Bhikkhu`_ (The Connected Discourses of the Buddha: A Translation of the Samyutta Nikaya), and "The Request" by Thanissaro Bhikkhu, 1997; from the Pali: Āyācana Sutta, SN 6:1, PTS: S i 136, CDB i 231,  https://www.accesstoinsight.org/tipitaka/sn/sn06/sn06.001.than.html or https://www.dhammatalks.org/suttas/SN/SN6_1.html）
 
            ～～～～～～～～～～
 
@@ -4877,7 +4877,7 @@ Chapter V: The Fourth Noble Truth: Magga, The Path
 
            SN.43.1. Kāyagatāsatisuttaṃ (S iv 359)
 
-           「比丘們！什麼是`無為呢？比丘們！凡貪的滅盡、瞋的滅盡、癡的滅盡，比丘們！這被稱為無為。」（相應部43相應1經/身至念經(無為相應/處篇/如來記說)(莊春江譯) http://agama.buddhason.org/SN/SN1170.htm ）
+           「比丘們！什麼是無為呢？比丘們！凡貪的滅盡、瞋的滅盡、癡的滅盡，比丘們！這被稱為無為。」（相應部43相應1經/身至念經(無為相應/處篇/如來記說)(莊春江譯) http://agama.buddhason.org/SN/SN1170.htm ）
 
            ～～～～～～～～～～
 
@@ -4932,7 +4932,7 @@ Chapter V: The Fourth Noble Truth: Magga, The Path
 
            MN.28 Mahāhatthipadopamasuttaṃ (M i 191) 象足跡譬喻大經
 
-           「他這麼了知：『這五取蘊的會合、集合、結合確實是這樣。又，這被世尊所說：「凡見緣起者則見法；凡見法者則見緣起。」而這五取蘊即是緣所生的。凡對於這五取蘊的`欲、依住、隨從、取著，那是苦集；凡對於這五取蘊的欲貪的調伏、欲貪的捨斷，那是苦滅。』」（中部28經/象足跡譬喻大經(譬喻品[3])(莊春江譯) http://agama.buddhason.org/MN/MN028.htm ）
+           「他這麼了知：『這五取蘊的會合、集合、結合確實是這樣。又，這被世尊所說：「凡見緣起者則見法；凡見法者則見緣起。」而這五取蘊即是緣所生的。凡對於這五取蘊的欲、依住、隨從、取著，那是苦集；凡對於這五取蘊的欲貪的調伏、欲貪的捨斷，那是苦滅。』」（中部28經/象足跡譬喻大經(譬喻品[3])(莊春江譯) http://agama.buddhason.org/MN/MN028.htm ）
 
            ～～～～～～～～～～
 
@@ -5026,7 +5026,7 @@ Chapter V: The Fourth Noble Truth: Magga, The Path
 
 .. [註4-19] 十九：龍樹很明白地說過：「生死不異涅槃，涅槃不異生死。」見蒲桑編中論釋第廿五章第十九節。
 
-           1. 蒲桑：Louis de La Vallée-Poussin (Louis Étienne Joseph Marie de La Vallée-Poussin): `路易·埃堅納·約瑟夫·瑪麗·德·拉瓦萊-普桑 `路易·德·拉·瓦萊-普桑 <https://zh.wikipedia.org/wiki/%E8%B7%AF%E6%98%93%C2%B7%E5%BE%B7%C2%B7%E6%8B%89%C2%B7%E7%93%A6%E8%8E%B1-%E6%99%AE%E6%A1%91>`_ ）
+           1. 蒲桑：Louis de La Vallée-Poussin (Louis Étienne Joseph Marie de La Vallée-Poussin): `路易·埃堅納·約瑟夫·瑪麗·德·拉瓦萊-普桑 <https://zh.wikipedia.org/wiki/%E8%B7%AF%E6%98%93%C2%B7%E5%BE%B7%C2%B7%E6%8B%89%C2%B7%E7%93%A6%E8%8E%B1-%E6%99%AE%E6%A1%91>`_  (路易·德·拉·瓦萊-普桑) 
 
            2. 中論釋：《明句論》（Prasannapadā, 另譯《顯句論》、《中觀根本明句釋》）-- 月稱 Candrakīrti 對《中論 Madhyamakaśāstra》之註釋
 
