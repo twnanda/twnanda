@@ -27,10 +27,20 @@
 
 羅睺羅（W. Rahula） 1958年七月於巴黎
 
-  .. image:: {filename}/extra/img/walpola_rahula.png
-     :alt: 羅睺羅（Walpola Rahula）
+.. figure:: {static}/extra/img/walpola_rahula.png
+   :height: 693 px
+   :width: 1108 px
+   :scale: 50 %
+   :alt: 羅睺羅（Walpola Rahula）
+   :align: center
 
-尊者 化普樂‧羅睺羅 長老 Walpola Rahula Thero (1907–1997)（取材自 cited from: https://www.youtube.com/watch?v=UMWJxzj-OCk , maybe in `Sinhala language <https://en.wikipedia.org/wiki/Sinhala_language>`__ ，可能為 `僧伽羅語 <https://zh.wikipedia.org/wiki/%E5%83%A7%E4%BC%BD%E7%BD%97%E8%AF%AD>`_ ; Walpola Rahula Institute for Buddhist Studies）
+   尊者 化普樂‧羅睺羅 長老 Walpola Rahula Thero (1907–1997)
+
+------
+
+  （取材自 cited from: https://www.youtube.com/watch?v=UMWJxzj-OCk , maybe in `Sinhala language <https://en.wikipedia.org/wiki/Sinhala_language>`__ ，可能為 `僧伽羅語 <https://zh.wikipedia.org/wiki/%E5%83%A7%E4%BC%BD%E7%BD%97%E8%AF%AD>`_ ; Walpola Rahula Institute for Buddhist Studies）
+
+------
 
 Nanda 編譯 [fn2]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`__ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2562; (02-06, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2019 `CE <http://en.wikipedia.org/wiki/Common_Era>`__)
 

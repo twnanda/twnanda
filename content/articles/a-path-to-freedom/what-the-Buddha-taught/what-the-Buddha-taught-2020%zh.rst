@@ -46,7 +46,7 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 目錄
 ~~~~~~
 
-.. list-table:: 佛陀的啟示（增訂版 2021，印刷用）
+.. list-table:: 佛陀的啟示（增訂版 2021，網路閱讀）
    :header-rows: 1
 
    * - `序言 <{filename}what-the-Buddha-taught-foreword%zh.rst>`__
