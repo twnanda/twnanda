@@ -1,9 +1,9 @@
-====================================
-佛陀的啟示(What the Buddha Taught)
-====================================
+=================================================
+佛陀的啟示(What the Buddha Taught) 2021 增訂版
+=================================================
 
 :date: 2019-02-06
-:modified: 2021-05-02
+:modified: 2021-05-07
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, Nanda 編譯
 :tags: 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛法, 佛陀說的法, 瓦爾朴拉羅睺羅, 鄭於中, 戴密微
 :category: 解脫之道
@@ -46,7 +46,7 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 目錄
 ~~~~~~
 
-.. list-table:: on cyber
+.. list-table:: 佛陀的啟示（增訂版 2021，印刷用）
    :header-rows: 1
 
    * - `序言 <{filename}what-the-Buddha-taught-foreword%zh.rst>`__
@@ -69,8 +69,9 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
      - `張澄基序 <{filename}what-the-Buddha-taught-foreword-chang-cj%zh.rst>`__ （慧炬出版社）
      - 整部： `HTML <{filename}what-the-Buddha-taught-full%zh.rst>`__ (2021-02-13)
 
+------
 
-.. list-table:: 佛陀的啟示（增訂版 2021）
+.. list-table:: 佛陀的啟示（增訂版 2021，印刷用）
    :header-rows: 1
 
    * - 整部列印〔尾註（註釋置於整個文本之後）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-B5.pdf>`__ （2021-04-25, 書本尺寸：B5, 380 頁）； `封面 <{static}/extra/authors/walpola-rahula/cover-what-the-buddha-taught-endnote.png>`__ （PNG）
@@ -326,6 +327,7 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 - 蘇錦坤 Ken Su， `獨立佛學研究者 <https://independent.academia.edu/KenYifertw>`_ (independent.academia.edu)，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>`_ 部落格格主、 `面冊 <https://www.facebook.com/profile.php?id=100016840620268>`__ （臉書） `瀚邦佛學研究中心 <https://www.facebook.com/groups/491306231038114>`__ 之話題高手、版主。
 
 ..
+  05-07 add: 2021 增訂版 for title
   04-25 rev. add: cover, del: A4
   04-25 rev. 補增編譯, old: 增訂編譯; 戴密微, old: 戴密否, 譚米華利 (proofread by Ken Su); add: 蘇錦坤 Ken Su & 整部列印檔獨立列表
   04-23 add: 整部列印檔
