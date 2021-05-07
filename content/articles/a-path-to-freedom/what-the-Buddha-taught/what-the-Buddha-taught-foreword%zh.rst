@@ -3,9 +3,9 @@
 ============================================
 
 :date: 2019-02-06
-:modified: 2021-01-25
-:author: 保羅‧戴密否(Paul Demiville); Nanda 編譯
-:tags: 序言, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 蘇錦坤, 陳健忠, 保羅‧戴密否(Paul Demiville), 戴密微, 保羅‧譚米華利, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
+:modified: 2021-05-06
+:author: 保羅‧戴密微(Paul Demiville); Nanda 編譯
+:tags: 序言, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 蘇錦坤, 陳健忠, 保羅‧戴密微(Paul Demiville), 戴密否, 保羅‧譚米華利, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
 :summary: 序言（佛陀的啟示(What the Buddha taught)）
 
@@ -18,7 +18,7 @@
 
 羅睺羅博士對書中引文的解釋清晰、簡潔、直接而不賣弄學問，翻譯也總是嚴謹精確。當他嘗試在巴利經文中，重新探索所有大乘經的源頭時，或許引起討論的空間；但是，藉由他對巴利經典的熟練，反而為這些議題帶來更新的啟發。他在現代人群中專心作自己；但是他卻避免於堅持作比較，而只是處處給與建議；提醒讀者可以透過當今世界的某些當代思潮（社會主義、無神論、存在主義和精神分析）來作比較。讀者們應該感激，拜現代純正學術研究所賜，作者將佛法的經典，化為本書豐富的內容；盡可能以適合現代人理解的方式，來呈現給大家。
 
-保羅‧戴密否（法蘭西學院院士；法國大學教授；高等教育學院(巴黎)佛教研究主任） [fw-4]_
+保羅‧戴密微（法蘭西學院院士；法國大學教授；高等教育學院(巴黎)佛教研究主任） [fw-4]_
 
 Nanda 編譯 [fw-5]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`__ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2562; (02-06, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2019 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
@@ -114,6 +114,7 @@ Nanda 謹誌。
 - 賴明亮教授(1949-02-28 ~ 2019-01-25)， `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休（ `榮退典禮 <https://www.youtube.com/watch?v=57-zS_E6660>`_ , 2014-06-20）； 賴明亮 教授追思會 `專輯影片 <https://www.youtube.com/watch?v=iL1utpxa3pw>`_ （2019-02-28）。
 
 ..
+  05-06 rev. old: 戴密否, 譚米華利 (proofread by Ken Su)
   2021-01-25 add: Dr. ML Lai 榮退典禮 影片連結
   2021-01-23 add: Dr. Lai 榮退典禮 影片(remark:成大醫學中心院史影音數位化315卷-1, 2018年1月17日, 林志勝醫師等致詞(何志欽、趙可式教授、藥理所), https://www.youtube.com/watch?v=rcJ_u6J_pso , 20140620-成大醫學院神經科 賴明亮醫師榮退典禮, 成大醫學中心院史影音數位化315卷-2, https://www.youtube.com/watch?v=57-zS_E6660)
   2021-01-01 add: Academia.edu; move the link of Dr. Lai to the bottom
