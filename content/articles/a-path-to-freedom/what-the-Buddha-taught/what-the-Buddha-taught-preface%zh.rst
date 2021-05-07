@@ -3,7 +3,7 @@
 ###################################################
 
 :date: 2019-02-06
-:modified: 2021-01-25
+:modified: 2021-05-07
 :author: 化普樂‧羅睺羅 尊者(Ven. Walpola Rahula Thero)著; Nanda 編譯
 :tags: 前言, 自序, 佛陀的啟示, What the Buddha Taught, 化普樂‧羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 蘇錦坤, 陳健忠, 釋迦的啟示, 佛當初教的是什麼, 佛‧當初教的是什麼
 :category: 解脫之道
@@ -23,9 +23,14 @@
 
 有識之士已經不再使用「小乘」來稱呼「上座部（佛教）」（相對於「大乘」），這是當今世界所熟悉的兩派佛教傳承。被當作為原始、正統的「上座部佛教」流傳於錫蘭（今稱「斯里蘭卡」）、緬甸、泰國、柬埔寨、寮國和東巴基斯坦（今「孟加拉」）的吉大港 (Chittagon)。後起的大乘佛教則盛行於中國、日本、西藏、蒙古等地。兩者之間有某些差異，主要是在信仰、修行與戒條的不同；至於上述列舉的教義則毫無異議地認同。 [fn1]_ 
 
-最後，我要向盧道偉（E. F. C. Ludowyk）教授致上誠摯謝意，事實上是他邀請我寫這本書。感謝他給予我所有的幫助、關照、建議；他還從頭到尾讀完我的手稿。我也要對瑪麗安‧慕小姐（Miss Marianne Mohn）表達深摯謝意，她讀遍全書並提供許多珍貴的建議。最後，我特別感謝我在巴黎的老師－－保羅‧戴密否教授（Professor Paul Demieville）；他一直深切關照我，並且還為本書寫了序言。
+最後，我要向盧道偉（E. F. C. Ludowyk）教授致上誠摯謝意，事實上是他邀請我寫這本書。感謝他給予我所有的幫助、關照、建議；他還從頭到尾讀完我的手稿。我也要對瑪麗安‧慕小姐（Miss Marianne Mohn）表達深摯謝意，她讀遍全書並提供許多珍貴的建議。最後，我特別感謝我在巴黎的老師－－保羅‧戴密微教授（Professor Paul Demieville）；他一直深切關照我，並且還為本書寫了序言。
 
 羅睺羅（W. Rahula） 1958年七月於巴黎
+
+  .. image:: {filename}/extra/img/walpola_rahula.png
+     :alt: 羅睺羅（Walpola Rahula）
+
+尊者 化普樂‧羅睺羅 長老 Walpola Rahula Thero (1907–1997)（取材自 cited from: https://www.youtube.com/watch?v=UMWJxzj-OCk , maybe in `Sinhala language <https://en.wikipedia.org/wiki/Sinhala_language>`__ ，可能為 `僧伽羅語 <https://zh.wikipedia.org/wiki/%E5%83%A7%E4%BC%BD%E7%BD%97%E8%AF%AD>`_ ; Walpola Rahula Institute for Buddhist Studies）
 
 Nanda 編譯 [fn2]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`__ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2562; (02-06, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2019 `CE <http://en.wikipedia.org/wiki/Common_Era>`__)
 
@@ -109,6 +114,7 @@ Nanda 編譯 [fn2]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_
 - 賴明亮教授(1949-02-28 ~ 2019-01-25)， `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休（ `榮退典禮 <https://www.youtube.com/watch?v=57-zS_E6660>`_ , 2014-06-20）； 賴明亮 教授追思會 `專輯影片 <https://www.youtube.com/watch?v=iL1utpxa3pw>`_ （2019-02-28）。
 
 ..
+  05-07 add: Walpola Rahula Thero's photo; rev. old: 戴密否, 譚米華利 (proofread by Ken Su)
   2021-01-25 add: Dr. ML Lai 榮退典禮 影片連結
   2021-01-01 add: Academia.edu; move the link of Dr. Lai to the bottom
   08-26 add: 尊者　明法比丘
