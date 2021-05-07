@@ -3,7 +3,7 @@
 ========================
 
 :date: 2019-02-06
-:modified: 2021-02-04
+:modified: 2021-05-07
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著,  Nanda 編譯
 :tags: 第四聖諦, 道諦, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
@@ -198,7 +198,7 @@
 
            「又，聖尼！三蘊被八支聖道包含，或者八支聖道被三蘊包含呢？」
 
-           「毘舍佉學友！非三蘊被八支聖道包含，而是八支聖道被三蘊包含。毘舍佉學友！正語、正業、正命這些法被 :ttnote:`戒蘊` 包含；正精進、正念、正定這些法被定蘊包含；正見、正志這些法被慧蘊包含。」（中部44經/毘陀羅小經(雙小品[5])(莊春江譯) http://agama.buddhason.org/MN/MN044.htm ）
+           「毘舍佉學友！非三蘊被八支聖道包含，而是八支聖道被三蘊包含。毘舍佉學友！正語、正業、正命這些法被戒蘊包含；正精進、正念、正定這些法被定蘊包含；正見、正志這些法被慧蘊包含。」（中部44經/毘陀羅小經(雙小品[5])(莊春江譯) http://agama.buddhason.org/MN/MN044.htm ）
 
            ～～～～～～～～～～
 
@@ -223,6 +223,7 @@
            《犍度(第1卷-第10卷)》：「五比丘三白世尊：「瞿曇！汝于彼行、彼道……〔何能證得〕至尊殊勝之智見耶？」」(CBETA 2020.Q4, N03, no. 2, p. 14a8) https://cbetaonline.dila.edu.tw/zh/N0002_001
 
 ..
+  05-07 del :ttnote:`
   02-04 test recall 名相註解
   2021-01-24 完成補充註釋中之經論出處 & 增加莊春江老師之名相註解; Mhvg: Mahavagga (of the Vinaya), ed. Saddhatissa Thera (Alutgama, 1922).; **bhāvetabba** ： 應被修習  
   2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
