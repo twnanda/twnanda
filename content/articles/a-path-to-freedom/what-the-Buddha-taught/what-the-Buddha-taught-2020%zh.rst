@@ -74,8 +74,8 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 .. list-table:: 佛陀的啟示（增訂版 2021，印刷用）
    :header-rows: 1
 
-   * - 整部列印〔尾註（註釋置於整個文本之後）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-B5.pdf>`__ （2021-05-08, 書本尺寸：B5, 380 頁）； `封面 <{static}/extra/authors/walpola-rahula/cover-what-the-buddha-taught-endnote.png>`__ （PNG）
-     - `ODT <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.odt>`__ （尾註；書本尺寸：B5）
+   * - 整部列印〔尾註（註釋置於整個文本之後）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-B5.pdf>`__ （ **2021-05-15** , 書本尺寸：B5, 380 頁）； `封面 <{static}/extra/authors/walpola-rahula/cover-what-the-buddha-taught-endnote.png>`__ （PNG）
+     - `ODT <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.odt>`__ （尾註；書本尺寸：B5, 2021-05-08）
      - 
 
    * - 整部列印〔腳註（註釋置於該頁下方）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.pdf>`__  （2021-05-08, 書本尺寸：B5, 375 頁）； `封面 <{static}/extra/authors/walpola-rahula/cover-what-the-buddha-taught-footnote.png>`__ （PNG）
