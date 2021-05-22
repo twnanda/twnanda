@@ -2,7 +2,7 @@
 ######################################################################
 
 :date: 2021-02-16
-:modified: 2021-05-21
+:modified: 2021-05-22
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》, Dhammapada, 白話文版（含巴利文法分析， 蘇錦坤 著 2021）
@@ -22515,7 +22515,7 @@ Dhp. 331
 | 命終善業樂，棄一切苦樂。」(CBETA, N26, no. 9, p. 47, a3 // PTS. Dhp. 47)。
 | 
 
-第一句為「Atthamhi jātamhi sukhā sahāyā 在需要(幫助)時出現的朋友是快樂的」，了參法師翻譯為「現時得友樂」，雖未能完全表達原意，但是，並未差異太大；此處作「現時得友樂」就完全不相關了。可見，勉強把一句的涵義湊成五個字，完全不用這樣地捆手綁腳。
+第一句為「Atthamhi jātamhi sukhā sahāyā 在需要(幫助)時出現的朋友是快樂的」，了參法師翻譯為「應時得友樂」，雖未能完全表達原意，但是，並未差異太大；此處作「現時得友樂」就完全不相關了。可見，勉強把一句的涵義湊成五個字，完全不用這樣地捆手綁腳。
 
 ------
 
@@ -22901,6 +22901,7 @@ Cbeta Taiwan 在《法集要頌經》卷4〈樂品 30〉的標點為：
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  05-22 rev. Dhp 331; proofread by author, Ken Su
   05-21 add: 23rd Nāgavaggo 象品
   05-17 add: 22nd Nirayavaggo 地獄品
   05-09 add: 21st Pakiṇṇakavaggo
