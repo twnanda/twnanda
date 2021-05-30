@@ -2,7 +2,7 @@
 ######################################################################
 
 :date: 2021-02-16
-:modified: 2021-05-28
+:modified: 2021-05-30
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》, Dhammapada, 白話文版（含巴利文法分析， 蘇錦坤 著 2021）
@@ -23784,7 +23784,7 @@ Dhp. 350
 
 此首偈頌包含兩個句子：
 
-Ａ. 「Vitakkūpasame ca yo rato, asubhaṃ bhāvayate sadā sato; esa kho byanti kāhiti」。主詞為「esa 這個人」(單數)，動詞為「byantikāhiti 將去除、將消滅」(第三人稱單數現在式動詞，[vyanta 終點、盡頭 - kāhiti 將做(karoti 的未來式動詞)])，受詞為「taṇhā 貪愛」。此句到此為「這個人將滅盡貪愛」。
+Ａ. 「Vitakkūpasame ca yo rato, asubhaṃ bhāvayate sadā sato; esa kho byanti kāhiti」。主詞為「esa 這個人」(單數)，動詞為「byantikāhiti 將去除、將消滅」(第三人稱單數未來式動詞，[vyanta 終點、盡頭 - kāhiti 將做(karoti 的未來式動詞)])，受詞為「taṇhā 貪愛」(省略)。此句到此為「這個人將滅盡貪愛」。
 
 主詞「esa 這個人」以「yo 這樣的人 whoever」(關係代名詞)有三個同位語：
 
@@ -23796,7 +23796,7 @@ Dhp. 350
 
 Ｂ. 「esa checchati mārabandhanaṃ」。主詞為「esa 這個人」(單數)，動詞為「checchati 將斬斷」(第三人稱單數未來式動詞，現在式動詞為 chindati)，受詞為「mārabandhanaṃ 魔羅的繫縛」。
 
-------
+----
 
 《法句經》卷2〈愛欲品 32〉：
 
@@ -24511,6 +24511,7 @@ Dhp. 359
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  05-30 rev. Dhp 350; proofread by author, Ken Su
   05-28 add: 24th Taṇhāvaggo 貪愛品
   05-22 rev. Dhp 331; proofread by author, Ken Su
   05-21 add: 23rd Nāgavaggo 象品
