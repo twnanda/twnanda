@@ -2,7 +2,7 @@
 ######################################################################
 
 :date: 2021-02-16
-:modified: 2021-06-02
+:modified: 2021-06-04
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》, Dhammapada, 白話文版（含巴利文法分析， 蘇錦坤 著 2021）
@@ -23145,7 +23145,7 @@ Dhp. 338
 | Evampi taṇhānusaye anūhate,
 | nibbattatī dukkhamidaṃ punappunaṃ. (338)
 | 
-| 猶如樹根深固而未受傷的樹，被砍倒了還會重生，
+| 同樣地，像強壯的根未被破壞時，樹木即使被砍斷也會再生長，
 | 「貪欲隨使」未被摧毀時，這苦仍然會一次又一次再生。(338)
 | 
 
@@ -23157,9 +23157,7 @@ Dhp. 338
 
     2. 「taṇhānusaye anūhate 貪欲隨眠未斷絕時、微細的貪欲未斷絕時」(位格)，這是「taṇhānusaya anūhata」的位格 。
 
-    3. 副詞子句「Yathāpi mūle anupaddave daḷhe, chinno pi rukkho punareva rūhati」、「Yathā pi mūle anupaddave daḷhe, chinnopi rukkho puna-(r)-iva rūhati」。「yathā 同樣地」，「iva 像」。主詞為「rukkho 樹木」(單數)，動詞為「rūhati 生長」(第三人稱單數現在式動詞)，「puna 再」，「pi 即使」，「chinno rukkho 樹木被砍斷」，「mūle anupaddave daḷhe 在強壯的根未被破壞時」(位格)，這是「mūla anupaddava daḷha」的位格 ，「mūla 根 anupaddava 未被破壞 daḷha 穩固的、堅強的」。此句為「同樣地，就像樹木即使被砍斷，也會再生長，在強壯的根未被破壞時」。
-
-    4. 「Evampi taṇhānusaye anūhate, nibbattatī dukkhamidaṃ punappunaṃ」。主詞為「bhaddaṃ 祝福」(單數)，動詞為「gacchati 去」(第三人稱單數現在式動詞，省略)，副詞為「vo 你們」(複數，與格 dative)，此字有形容詞「yāvantettha samāgatā」、「yāvanto ettha samāgatā 每一位來到這裡的人」。此句為「祝福每一位來到這裡的人」。
+    3. 副詞子句「Yathāpi mūle anupaddave daḷhe, chinno pi rukkho punareva rūhati」、「Yathā pi mūle anupaddave daḷhe, chinnopi rukkho puna-(r)-iva rūhati」。「yathā 同樣地」，「iva 像」。主詞為「rukkho 樹木」(單數)，動詞為「rūhati 生長」(第三人稱單數現在式動詞)，「puna 再」，「pi 即使」，「chinno rukkho 樹木被砍斷」，「mūle anupaddave daḷhe 在強壯的根未被破壞時」(位格)，這是「mūla anupaddava daḷha」的位格 ，「mūla 根 anupaddava 未被破壞 daḷha 穩固的、堅強的」。此句為「同樣地，就像強壯的根未被破壞時，樹木即使被砍斷也會再生長」。
 
 ------
 
@@ -25977,6 +25975,7 @@ T210《法句經》，〈愛欲品 32〉，32首偈頌。
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  06-04 rev. Dhp 338; proofread by author, Ken Su
   06-02 add: 25th Bhikkhuvaggo 比丘品
   05-30 rev. Dhp 350; proofread by author, Ken Su
   05-28 add: 24th Taṇhāvaggo 貪愛品

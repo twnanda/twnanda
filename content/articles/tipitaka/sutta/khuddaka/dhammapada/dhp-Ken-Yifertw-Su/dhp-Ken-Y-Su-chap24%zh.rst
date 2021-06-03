@@ -3,7 +3,7 @@
 ====================================================================================================
 
 :date: 2021-01-24
-:modified: 2021-05-30
+:modified: 2021-06-04
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 第廿四：貪愛品（《法句經》, Dhammapada, Taṇhāvaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
@@ -299,7 +299,7 @@ Dhp. 338
 | Evampi taṇhānusaye anūhate,
 | nibbattatī dukkhamidaṃ punappunaṃ. (338)
 | 
-| 猶如樹根深固而未受傷的樹，被砍倒了還會重生，
+| 同樣地，像強壯的根未被破壞時，樹木即使被砍斷也會再生長，
 | 「貪欲隨使」未被摧毀時，這苦仍然會一次又一次再生。(338)
 | 
 
@@ -311,9 +311,7 @@ Dhp. 338
 
     2. 「taṇhānusaye anūhate 貪欲隨眠未斷絕時、微細的貪欲未斷絕時」(位格)，這是「taṇhānusaya anūhata」的位格 。
 
-    3. 副詞子句「Yathāpi mūle anupaddave daḷhe, chinno pi rukkho punareva rūhati」、「Yathā pi mūle anupaddave daḷhe, chinnopi rukkho puna-(r)-iva rūhati」。「yathā 同樣地」，「iva 像」。主詞為「rukkho 樹木」(單數)，動詞為「rūhati 生長」(第三人稱單數現在式動詞)，「puna 再」，「pi 即使」，「chinno rukkho 樹木被砍斷」，「mūle anupaddave daḷhe 在強壯的根未被破壞時」(位格)，這是「mūla anupaddava daḷha」的位格 ，「mūla 根 anupaddava 未被破壞 daḷha 穩固的、堅強的」。此句為「同樣地，就像樹木即使被砍斷，也會再生長，在強壯的根未被破壞時」。
-
-    4. 「Evampi taṇhānusaye anūhate, nibbattatī dukkhamidaṃ punappunaṃ」。主詞為「bhaddaṃ 祝福」(單數)，動詞為「gacchati 去」(第三人稱單數現在式動詞，省略)，副詞為「vo 你們」(複數，與格 dative)，此字有形容詞「yāvantettha samāgatā」、「yāvanto ettha samāgatā 每一位來到這裡的人」。此句為「祝福每一位來到這裡的人」。
+    3. 副詞子句「Yathāpi mūle anupaddave daḷhe, chinno pi rukkho punareva rūhati」、「Yathā pi mūle anupaddave daḷhe, chinnopi rukkho puna-(r)-iva rūhati」。「yathā 同樣地」，「iva 像」。主詞為「rukkho 樹木」(單數)，動詞為「rūhati 生長」(第三人稱單數現在式動詞)，「puna 再」，「pi 即使」，「chinno rukkho 樹木被砍斷」，「mūle anupaddave daḷhe 在強壯的根未被破壞時」(位格)，這是「mūla anupaddava daḷha」的位格 ，「mūla 根 anupaddava 未被破壞 daḷha 穩固的、堅強的」。此句為「同樣地，就像強壯的根未被破壞時，樹木即使被砍斷也會再生長」。
 
 ------
 
@@ -1629,68 +1627,7 @@ Dhp. 359
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  06-04 rev. Dhp 338; proofread by author, Ken Su
   05-30 rev. Dhp 350; proofread by author, Ken Su
-
-    佛學問答 94：離貪(「taṇhā 貪愛」)譯為滅婬
-    https://www.facebook.com/groups/491306231038114/permalink/1837584989743558/
-    ---------
-    鍾聞瑜問：2021/5/29
-    在這裡，《法句經》卷2〈愛欲品 32〉：
-    「覺意滅婬者，常念欲不淨，從是出邪獄，能斷老死患。」
-    離貪（「taṇhā 貪愛」）被譯為滅婬，是否是為了和「不淨」相配？
-    ----
-    Vitakkūpasame ca yo rato, asubhaṃ bhāvayate sadā sato;
-    Esa kho byantikāhiti, esa checchati mārabandhanaṃ. (350)
-    致力於思想寂靜、修習不淨、總是具念者，
-    這樣的人將滅盡貪愛，他將斬斷魔羅的繫縛。(350)
-    https://www.facebook.com/groups/491306231038114/permalink/1834962620005795
-    ----
-    蘇錦坤 回答：2021/5/30
-    謝謝你的留言，讓我發現幾個先前譯文不妥之處，我已經對此頌稍微作一些更動。
-    首先，你所舉的這一頌，是支謙在西元 224年的翻譯，那一年，孫權剛稱帝，是赤壁之戰後的 16年，我們不知道支謙為什麼翻譯出「滅婬」兩字。我們可以看到第三句《出曜經》作「愛此便得除」，《法集要頌經》作「棄捨彼貪愛」，了參法師作「當滅諸愛欲」，元亨寺版《法句經》作「當滅諸愛欲」，KR Norman 作「he indeed will make an end (of craving)」。
-    也就是說，此首偈頌(350 頌)並未出現「taṇhā 貪愛」，這一句是「未來式」：他「byantikāhiti 將去除、將消滅」或「byanti kāhiti 將到達盡頭 will make an end」。
-    各個翻譯者遇到一個困境，如翻譯作「不及物動詞」而不需要受詞，就必須直譯作「byanti kāhiti 將到達盡頭 will make an end」；如果選擇將「byantikāhiti 將去除、將消滅」當作一個字，這個及物動詞在偈頌中並未出現「受詞」。於是，必需「補上」這一個字「taṇhā 貪愛」當作「受詞」，即使KR Norman 也不例外。我也是順從此一翻譯模式。
-    ------------
-    鍾聞瑜問：2021/5/30
-    謝謝錦坤詳列各家的翻譯和您的説明，這樣看起來，翻譯真是件不簡單的事～既要正確用字也要達意，還要顧及文法結構。我們能輕鬆閱讀，真該感謝像您這樣的有心人。
-    ---------------
-    蘇錦坤 回答：2021/5/30
-    在漢譯文字，不容易從字句分辨出句子的結構，對於哪個字是主詞，哪個字是動詞，句子中是否有受詞，如果有，哪個字是受詞，這些都會造成閱讀障礙。
-    也就是說，漢譯需要一本包含句型說明的翻譯。這件事聰明的人不肯作，愚笨的人作不來；於是我這一個「半調子老文青」就先畫一個樣子，讓有能力的人出來訂正。
-    例如巴利《法句經》348頌 〈24 貪欲品 Taṇhāvaggo〉
-    -----------
-    Muñca pure muñca pacchato, majjhe muñca bhavassa pāragū;
-    Sabbattha vimuttamānaso, na punaṃ jātijaraṃ upehisi.(348)
-    元亨寺版《法句經》翻譯作：
-    「棄過現未來，而達於彼岸，
-    意脫一切處，無再受生老。」(CBETA, N26, no. 9, p. 48, a9 // PTS. Dhp. 50)。
-    了參法師翻譯作：
-    「捨過現未來，而渡於彼岸，
-    心解脫一切，不再受生老。」
-    淨海法師翻譯作：
-    「捨棄束縛，到達彼岸，
-    心得一切解脫，不再受生死。」
-    這都是將「過去」和「未來」當作受詞，可是句子中的用字是「副詞」，如果當副詞解釋，就只有「在前地」、「在後地」以及「中間地」，而沒有作為「捨棄」受詞的「過去」、「現在」、「未來」。
-    中國的黃寶生教授翻譯為：
-    「擺脫前後和中間，到達生死的彼岸，
-    　心擺脫所有一切，就不再有生和老。」
-    KR Norman 翻譯：
-    Give up in front, give up behind, give up in the middle,
-    having gone to the far shore of existence.
-    With mind freed in every respect
-    you will not return again to birth and old age.
-    我的翻譯有一點生硬：
-    「預先地放開，事後地放開，中間地放開，
-    當你渡到諸有彼岸，心解脫一切，你將不再有老死。」(348)
-    https://www.facebook.com/groups/491306231038114/permalink/1834773006691423
-    《雜阿含1164經》卷43：「：「諸尊！如世尊說[16]波羅延低舍彌德勒所問：
-    「『[17]若知二邊者，　　於中永無著，
-    　說名大丈夫，　　不顧於五欲，
-    　無有煩惱鏁，　　超出縫紩憂。』
-    「諸尊！此有何義？云何邊？云何二邊？云何為中？云何為縫紩？云何思？以智知，以了了；[18]智所知，了所了，作苦邊，脫於苦。」
-    有一答言：「六內入處是一邊，六外入處是二邊，受是其中，[19]愛為縫紩。習於受者，得彼彼因，身漸[20]轉增長出生，於此即法，以智知，以了了，[21]智所知，了所了，作苦邊，脫於苦。」」(CBETA, T02, no. 99, p. 310, b22-c4)
-    [16]Pārāyana Metteyyapañha (Sn. V. 3. Tissametteyya Māṇavapucchā)。[17]偈＝Sn. verses 1041-1042.。[18]智＝知【宋】【元】。[19]愛＝受【宋】＊。[20]轉＝漸【宋】【元】【明】。[21]智＝知【宋】。
-    https://www.facebook.com/groups/491306231038114/permalink/1837584989743558/
-
   05-28 finish editing
   2021-01-24 create rst
