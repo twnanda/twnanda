@@ -2,7 +2,7 @@
 ######################################################################
 
 :date: 2021-02-16
-:modified: 2021-06-04
+:modified: 2021-06-06
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》, Dhammapada, 白話文版（含巴利文法分析， 蘇錦坤 著 2021）
@@ -16286,9 +16286,11 @@ Dhp. 240
 
     2. KR Norman 引《長老偈》：「dhona」指「dhuta 頭陀行」，「atidhona」指「atidhuta 過度的 頭陀行」，「cārinaṃ 行者、如此行為的人」。
 
-    3. 惡、惡業。
+    3. 元亨寺版《法句經》將這字解釋為「惡、惡業」。
 
-此處的偈頌翻譯採 KR Norman 的解釋，如採取《法句經註》翻譯，則為：
+此處的偈頌翻譯採 KR Norman 的解釋，
+
+如採取《法句經註》翻譯，則為：
 
 | 「如同鐵鏽從鐵生起，生起之後卻吃掉鐵，
 | 過度沉溺於衣食(四事供養)者的行為將導入惡趣。」
@@ -16298,12 +16300,12 @@ Dhp. 240
 
 《法句經》卷2〈塵垢品 26〉：
 
-| 「惡生於心，還自壞形，　
+| 「惡生於心，還自壞形，
 | 　如鐵生垢，反食其身。」(CBETA, T04, no. 210, p. 568, b21-22)。
 | 
 | 《出曜經》卷11〈行品 10〉：
 | 
-| 「如鐵生垢，反食其身，　
+| 「如鐵生垢，反食其身，
 | 　惡生於心，還自壞形。」(CBETA, T04, no. 212, p. 671, c26-27)。
 | 
 | 《法集要頌經》卷1〈業品 9〉：
@@ -16390,7 +16392,7 @@ Dhp. 242
 
 --------
 
-此首偈頌包含四個句子：
+此首偈頌包含三個句子：
 
     1. 「Malitthiyā duccaritaṃ」、「Mall itthiyā duccaritaṃ」。主詞為「duccaritaṃ 邪行、惡行」(單數)，動詞為「hoti 是」(第三人稱單數現在式動詞，省略)，主詞補語為「Mall itthiyā, Malitthiyā 婦女的塵垢」(複數，itthiyā 女人的、不學習 -mala 塵垢)。
 
@@ -25975,6 +25977,7 @@ T210《法句經》，〈愛欲品 32〉，32首偈頌。
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  06-06 rev. Dhp. 242 old:四個句子; & Dhp. 240 old:惡、惡業。(proofread by the author-- Ken Su)
   06-04 rev. Dhp 338; proofread by author, Ken Su
   06-02 add: 25th Bhikkhuvaggo 比丘品
   05-30 rev. Dhp 350; proofread by author, Ken Su
