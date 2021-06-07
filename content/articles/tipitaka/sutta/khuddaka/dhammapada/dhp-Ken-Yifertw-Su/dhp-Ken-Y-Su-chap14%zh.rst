@@ -3,7 +3,7 @@
 ====================================================================================================
 
 :date: 2021-01-24
-:modified: 2021-03-19
+:modified: 2021-06-07
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 第十四：佛陀品（《法句經》, Dhammapada, Buddhavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
@@ -111,7 +111,7 @@ Dhp. 180
 
 ---------
 
-此首偈頌包含三個句子：
+此首偈頌包含兩個句子：
 
     1. 「yassa jālinī visattikā, taṇhā natthi kuhiñci netave」。主詞為「visattikā 強烈的執著」與「taṇhā 貪欲」，動詞為「atthi 存在」(第三人稱單數現在式動詞)；「na atthi 不存在」，「netave 去引導 to lead」(不定詞)，副詞為「kuhiñci 任何處」。「yassa jālinī 這樣的人的慾望(欲網)」連接到「assa」，「yassa 這樣的人的」(關係代名詞，屬格)，「jālinī 慾望或欲網」(諾曼的英譯同時採用這兩個字義，顯示他不確定應選擇哪一字義)。此句為「能引導他的欲網到任何地方的貪欲與執著不存在」。
 
@@ -1274,5 +1274,6 @@ Dhp. 196
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  06-07 rev. Dhp. 180 old:三個句子 (proofread by the author-- Ken Su)
   03-19 finish editing
   2021-01-24 create rst
