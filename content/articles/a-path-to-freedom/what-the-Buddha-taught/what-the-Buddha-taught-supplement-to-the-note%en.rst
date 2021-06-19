@@ -9,16 +9,16 @@ Supplement to the note of "What the Buddha Taught"
 :category: A Path to Freedom
 :summary: Supplement to the note of "What the Buddha Taught"
 
-- Chapter_I_ : The Buddhist Attitude of Mind
-- Chapter_II_ : The First Noble Truth: Dukkha
-- Chapter_III_ : The Second Noble Truth: Samudaya: The Arising of Dukkha
-- Chapter_IV_ : The Third Noble Truth: Nirodha: The Cessation of Dukkha
-- Chapter_V_ : The Fourth Noble Truth: Magga: The Path
-- Chapter_VI_ : The Doctrine of No-Soul: Anatta
-- Chapter_VII_ : Meditation or Mental Culture: Bhavana
-- Chapter_VIII_ : What the Buddha Taught and the World Today
+- `Chapter I: The Buddhist Attitude of Mind`_
+- `Chapter II: The First Noble Truth: Dukkha`_
+- `Chapter III: The Second Noble Truth: Samudaya: 'The Arising of Dukkha'`_
+- `Chapter IV: The Third Noble Truth: Nirodha: 'The Cessation of Dukkha'`_
+- `Chapter V: The Fourth Noble Truth: Magga: 'The Path'`_
+- `Chapter VI: The Doctrine of No-Soul: Anatta`_
+- `Chapter VII: 'Meditation' or Mental Culture: Bhavana`_
+- `Chapter VIII: What the Buddha Taught and the World Today`_
 
-.. _Chapter_I:
+.. _`Chapter I: The Buddhist Attitude of Mind`:
 
 Chapter I: The Buddhist Attitude of Mind
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -91,7 +91,7 @@ Chapter I: The Buddhist Attitude of Mind
 
 ------
 
-.. _Chapter_II:
+.. _`Chapter II: The First Noble Truth: Dukkha`:
 
 Chapter II: The First Noble Truth: Dukkha
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -115,7 +115,7 @@ Chapter II: The First Noble Truth: Dukkha
 
 ------
 
-.. _Chapter_III:
+.. _`Chapter III: The Second Noble Truth: Samudaya: 'The Arising of Dukkha'`:
 
 Chapter III: The Second Noble Truth: Samudaya: The Arising of Dukkha
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -139,7 +139,7 @@ Chapter III: The Second Noble Truth: Samudaya: The Arising of Dukkha
 
 ------
 
-.. _Chapter_IV:
+.. _`Chapter IV: The Third Noble Truth: Nirodha: 'The Cessation of Dukkha'`:
 
 Chapter IV: The Third Noble Truth: Nirodha: The Cessation of Dukkha
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -163,7 +163,7 @@ Chapter IV: The Third Noble Truth: Nirodha: The Cessation of Dukkha
 
 ------
 
-.. _Chapter_V:
+.. _`Chapter V: The Fourth Noble Truth: Magga: 'The Path'`:
 
 Chapter V: The Fourth Noble Truth: Magga: The Path
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -187,7 +187,7 @@ Chapter V: The Fourth Noble Truth: Magga: The Path
 
 ------
 
-.. _Chapter_VI:
+.. _`Chapter VI: The Doctrine of No-Soul: Anatta`:
 
 Chapter VI: The Doctrine of No-Soul: Anatta
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -211,7 +211,7 @@ Chapter VI: The Doctrine of No-Soul: Anatta
 
 ------
 
-.. _Chapter_VII:
+.. _`Chapter VII: 'Meditation' or Mental Culture: Bhavana`:
 
 Chapter VII: Meditation or Mental Culture: Bhavana
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -235,7 +235,7 @@ Chapter VII: Meditation or Mental Culture: Bhavana
 
 ------
 
-.. _Chapter_VIII:
+.. _`Chapter VIII: What the Buddha Taught and the World Today`:
 
 Chapter VIII: What the Buddha Taught and the World Today
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

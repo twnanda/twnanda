@@ -283,7 +283,7 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 
     - This site: `Here <{filename}/extra/a-path-to-freedom/What-the-Buddha-Taught-English.pdf>`__ (**with bookmark**, the second and enlarged edition, 1974; from `The Corporate Body of the Buddha Educational Foundation <http://ftp.budaedu.org/ebooks/pdf/EN132.pdf>`__ Taipei, Taiwan.) 
 
-      * `Supplement to the note of "What the Buddha Taught" <{filename}what-the-Buddha-taught-supplement-to-the-note.rst>`_ : by Nanda, Taiwan; not finished, 2021-06-19      
+      * `Supplement to the note of "What the Buddha Taught" <{filename}what-the-Buddha-taught-supplement-to-the-note%en.rst>`_ : by Nanda, Taiwan; not finished, 2021-06-19      
 
     - on `the site <https://drive.google.com/file/d/1DQe-nunSFR9M-zop3eLLidpQsZc0HUM5/view>`__ of The Corporate Body of the Buddha Educational Foundation
     - on `the site <https://archive.org/details/WhatTheBuddhaTaught_201606>`__ of Internet Archive 
