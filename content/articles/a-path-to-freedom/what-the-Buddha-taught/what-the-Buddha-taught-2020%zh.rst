@@ -3,7 +3,7 @@
 =================================================
 
 :date: 2019-02-06
-:modified: 2021-05-08
+:modified: 2021-06-19
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, Nanda 編譯
 :tags: 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛法, 佛陀說的法, 瓦爾朴拉羅睺羅, 鄭於中, 戴密微
 :category: 解脫之道
@@ -74,8 +74,8 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 .. list-table:: 佛陀的啟示（增訂版 2021，印刷用）
    :header-rows: 1
 
-   * - 整部列印〔尾註（註釋置於整個文本之後）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-B5.pdf>`__ （ **2021-05-15** , 書本尺寸：B5, 380 頁）； `封面 <{static}/extra/authors/walpola-rahula/cover-what-the-buddha-taught-endnote.png>`__ （PNG）
-     - `ODT <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.odt>`__ （尾註；書本尺寸：B5, 2021-05-08）
+   * - 整部列印〔尾註（註釋置於整個文本之後）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-B5.pdf>`__ （2021-05-08, 書本尺寸：B5, 380 頁）； `封面 <{static}/extra/authors/walpola-rahula/cover-what-the-buddha-taught-endnote.png>`__ （PNG）
+     - `ODT <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.odt>`__ （尾註；書本尺寸：B5）
      - 
 
    * - 整部列印〔腳註（註釋置於該頁下方）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.pdf>`__  （2021-05-08, 書本尺寸：B5, 375 頁）； `封面 <{static}/extra/authors/walpola-rahula/cover-what-the-buddha-taught-footnote.png>`__ （PNG）
@@ -281,11 +281,14 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 
   * PDF(Revised edition): 
 
-    - This site: `Here <{filename}/extra/a-path-to-freedom/What-the-Buddha-Taught-English.pdf>`__ (**with bookmark**, the second and enlarged edition, 1974; from `The Corporate Body of the Buddha Educational Foundation <http://ftp.budaedu.org/ebooks/pdf/EN132.pdf>`__ Taipei, Taiwan.)
+    - This site: `Here <{filename}/extra/a-path-to-freedom/What-the-Buddha-Taught-English.pdf>`__ (**with bookmark**, the second and enlarged edition, 1974; from `The Corporate Body of the Buddha Educational Foundation <http://ftp.budaedu.org/ebooks/pdf/EN132.pdf>`__ Taipei, Taiwan.) 
+
+      * `Supplement to the note of "What the Buddha Taught" <{filename}what-the-Buddha-taught-supplement-to-the-note.rst>`_ : by Nanda, Taiwan; not finished, 2021-06-19      
+
     - on `the site <https://drive.google.com/file/d/1DQe-nunSFR9M-zop3eLLidpQsZc0HUM5/view>`__ of The Corporate Body of the Buddha Educational Foundation
     - on `the site <https://archive.org/details/WhatTheBuddhaTaught_201606>`__ of Internet Archive 
     - on `the site <http://www.ahandfulofleaves.org/documents/what%20the%20buddha%20taught_rahula.pdf>`__ of A Handful of Leaves
-    - on `the site <https://web.ics.purdue.edu/~buddhism/docs/Bhante_Walpola_Rahula-What_the_Buddha_Taught.pdf>`__ of Purdue Buddhist Society (Second and enlarged edition, 1974)
+    - on `the site <https://web.ics.purdue.edu/~buddhism/docs/Bhante_Walpola_Rahula-What_the_Buddha_Taught.pdf>`__ of Purdue Buddhist Society (Second and enlarged edition, 1974) (linking not available, 2021-06-19)
 
     - `Rahula & Bomhard - What the Buddha Taught and The Dhammapada (2013) <https://www.academia.edu/43154656/Rahula_and_Bomhard_What_the_Buddha_Taught_and_The_Dhammapada_2013_>`__ ( **the second and enlarged edition, 1974**; Academia.edu)
 
@@ -327,6 +330,7 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 - 蘇錦坤 Ken Su， `獨立佛學研究者 <https://independent.academia.edu/KenYifertw>`_ (independent.academia.edu)，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>`_ 部落格格主、 `面冊 <https://www.facebook.com/profile.php?id=100016840620268>`__ （臉書） `瀚邦佛學研究中心 <https://www.facebook.com/groups/491306231038114>`__ 之話題高手、版主。
 
 ..
+  06-19 add: Supplement to the note of "What the Buddha Taught"
   05-08 rev. updated date
   05-07 add: 2021 增訂版 for title
   04-25 rev. add: cover, del: A4
