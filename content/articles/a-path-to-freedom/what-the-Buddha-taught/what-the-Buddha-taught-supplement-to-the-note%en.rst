@@ -3,7 +3,7 @@ Supplement to the note of "What the Buddha Taught"
 =====================================================
 
 :date: 2021-06-19
-:modified: 2021-06-19
+:modified: 2021-06-21
 :author: Ven. Walpola Rahula Thero
 :tags: What the Buddha Taught, Walpola Rahula, Supplement to the note
 :category: A Path to Freedom
@@ -27,67 +27,113 @@ Chapter I: The Buddhist Attitude of Mind
    :widths: 5 40 55
    :header-rows: 1
 
-   * - Place
+   * - Place [a]_
      - Note
      - Supplement
-   * - page 1
+   * - page 1 [a]_
      - Dhp. XII 4.
-     - Dhp. 160 (12. Attavaggo, Chapter 12 The Self)
+     - | Dhp. 160 (12. Attavaggo, Chapter 12 The Self): `Dhp XII: Self <https://www.dhammatalks.org/suttas/KN/Dhp/Ch12.html>`__, Thanissaro Bhikkhu [1]_ ;
+       | `Chapter XII. Self <http://buddhadust.net/dhamma-vinaya/sbe/kd/dhp/kd.dhp.mulr.sbe.htm#ch12>`__ [2]_ , F. Max Müller, Vol. X Part I of The Sacred Books of the East  
    * - page 1
      - Dhp. XII 4.
      - Dhp. 160 (12. Attavaggo, Chapter 12 The Self)
    * - page 1
      - D II (Colombo, 1929), p. 62 (Mahaparinibbana-sutta).
-     - | D.16 Mahāparinibbānasuttaṃ `CSCD paranum 165 <https://tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ , 
-       | `The Great Discourse on the Total Unbinding <https://www.dhammatalks.org/suttas/DN/DN16.html>`__ (at the end of [ II ]) , Thanissaro Bhikkhu;
-       | `The Discourse about the Great Emancipation <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/index.htm>`__ , The Second Chapter for Recitation, `The Fortunate One’s Sickness <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/16-Sickness.htm>`__ , Ānandajoti Bhikkhu
+     - | DN 16 Mahāparinibbānasuttaṃ `CSCD paranum 165 <https://tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ , 
+       | `The Great Discourse on the Total Unbinding <https://www.dhammatalks.org/suttas/DN/DN16.html>`__ (at the end of [ II ]) , Thanissaro Bhikkhu [1]_ ;
+       | `The Discourse about the Great Emancipation <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/index.htm>`__ , The Second Chapter for Recitation, `The Fortunate One’s Sickness <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/16-Sickness.htm>`__ , Ānandajoti Bhikkhu [3]_ 
    * - page 1
      - Dhp. XX 4.
      - Dhp. 276 (20. Maggavaggo, Chapter 20 The Way Or The Path)
    * - page 2
      - D II (Colombo, 1929), p. 62.
-     - | D.16 Mahāparinibbānasuttaṃ `CSCD paranum 165 <https://tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ , 
-       | `The Great Discourse on the Total Unbinding <https://www.dhammatalks.org/suttas/DN/DN16.html>`__ (at the end of [ II ]) , Thanissaro Bhikkhu;
-       | `The Discourse about the Great Emancipation <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/index.htm>`__ , The Second Chapter for Recitation, `The Fortunate One’s Sickness <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/16-Sickness.htm>`__ , Ānandajoti Bhikkhu
+     - | DN 16 Mahāparinibbānasuttaṃ `CSCD paranum 165 <https://tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ , 
+       | `The Great Discourse on the Total Unbinding <https://www.dhammatalks.org/suttas/DN/DN16.html>`__ (at the end of [ II ]) , Thanissaro Bhikkhu [1]_ ;
+       | `The Discourse about the Great Emancipation <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/index.htm>`__ , The Second Chapter for Recitation, `The Fortunate One’s Sickness <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/16-Sickness.htm>`__ , Ānandajoti Bhikkhu [3]_ 
    * - page 3
      - A (Colombo, 1929), p. 115.
-     - AN 3.65 or AN. 3.66 (AN.3.66 Kesamuttisuttaṃ, `The Instruction to the Kalamas <https://accesstoinsight.org/tipitaka/an/an03/an03.065.soma.html>`__ , Soma Thera; `To the Kālāmas <https://www.dhammatalks.org/suttas/AN/AN3_66.html>`__ , Thanissaro Bhikkhu)
+     - AN 3.65 or AN. 3.66 (AN.3.66 Kesamuttisuttaṃ, `The Instruction to the Kalamas <https://accesstoinsight.org/tipitaka/an/an03/an03.065.soma.html>`__ , Soma Thera; `To the Kālāmas <https://www.dhammatalks.org/suttas/AN/AN3_66.html>`__ , Thanissaro Bhikkhu [1]_ )
    * - page 3
      - Vimamsaka-sutta, no. 47 of M.
-     - MN.47 Vīmaṃsakasuttaṃ (`THE EXAMINATION <https://theravada.vn/vima%E1%B9%83sakasutta%E1%B9%83-the-examination/>`__ , Sister Upalavanna (or `this site <http://buddhistlibraryonline.com/index.php/the-teachings/tipitaka/suttapitaka/majjhimanikaya/mulapa-asapa-i/cu-layamakavaggo/105-mn47-vima-saka-sutta>`__ )
+     - MN 47 Vīmaṃsakasuttaṃ: `The Examination <http://buddhadust.net/dhamma-vinaya/mnl/mn/mn.047.upal.mnl.htm>`__ , Sister Upalavanna ( `Index of the Suttas of the Majjhima Nikāya Book I <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_1.htm#p47>`__) [2]_ ; `THE EXAMINATION <https://theravada.vn/vima%E1%B9%83sakasutta%E1%B9%83-the-examination/>`__, Sister Upalavanna (or `this site <http://buddhistlibraryonline.com/index.php/the-teachings/tipitaka/suttapitaka/majjhimanikaya/mulapa-asapa-i/cu-layamakavaggo/105-mn47-vima-saka-sutta>`__ )
    * - page 4
      - D II (Colombo, 1929), p. 95; A (Colombo, 1929), p. 239.
-     - | D.16 Mahāparinibbānasuttaṃ `CSCD paranum 217 <https://tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ , 
-       | `The Great Discourse on the Total Unbinding <https://www.dhammatalks.org/suttas/DN/DN16.html>`__ (at [ VI ]) , Thanissaro Bhikkhu;
-       | `The Discourse about the Great Emancipation <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/index.htm>`__ , The Sixth Chapter for Recitation, `The Last Instructions of the Realised One <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/40-Last-Instructions.htm>`__
-       | A (Colombo, 1929), p. 239.: A 239: typo of "A ii 79"? A ii 79, AN.4.76 Kusinārasuttaṃ, `Kusinārā <http://buddhadust.net/dhamma-vinaya/pts/an/04_fours/an04.076.wood.pts.htm>`__ , F. L. Woodward, M.A. (PTS).
+     - | DN 16 Mahāparinibbānasuttaṃ `CSCD paranum 217 <https://tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ , 
+       | `The Great Discourse on the Total Unbinding <https://www.dhammatalks.org/suttas/DN/DN16.html>`__ (at [ VI ]) , Thanissaro Bhikkhu [1]_ ;
+       | `The Discourse about the Great Emancipation <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/index.htm>`__ , The Sixth Chapter for Recitation, `The Last Instructions of the Realised One <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/40-Last-Instructions.htm>`__ Ānandajoti Bhikkhu [3]_ 
+       | A (Colombo, 1929), p. 239.: A 239: typo of "A ii 79"? A ii 79, AN.4.76 Kusinārasuttaṃ, `Kusinārā <http://buddhadust.net/dhamma-vinaya/pts/an/04_fours/an04.076.wood.pts.htm>`__, F. L. Woodward, M.A. (PTS) [2]_ .
    * - page 4
      - Upali-sutta, no. 56 of M.
-     - | MN.56 Upālisuttaṃ `CSCD <https://tipitaka.org/romn/cscd/s0202m.mul0.xml>`__ (68)
-       | `The Teaching to Upāli <https://www.dhammatalks.org/suttas/MN/MN56.html>`__ , Thanissaro Bhikkhu
-       | `To the Householder Upāli <http://buddhadust.net/dhamma-vinaya/mnl/mn/mn.056.upal.mnl.htm>`__ , Sister Upalavanna
+     - | MN 56 Upālisuttaṃ `CSCD <https://tipitaka.org/romn/cscd/s0202m.mul0.xml>`__ (68)
+       | `The Teaching to Upāli <https://www.dhammatalks.org/suttas/MN/MN56.html>`__ , Thanissaro Bhikkhu [1]_ 
+       | `To the Householder Upāli <http://buddhadust.net/dhamma-vinaya/mnl/mn/mn.056.upal.mnl.htm>`__ , Sister Upalavanna [2]_ 
    * - page 5
      - Rock Edict, XII
      - Major Rock Edict 12 (`Respect other sects and not take pride in one's own. <https://en.wikipedia.org/wiki/Major_Rock_Edicts#Major_Rock_Edict_12>`__ , translation by E. Hultzsch (1857-1927). Published in India in 1925. Inscriptions of Asoka p.34. Public Domain. Wikipedia); on `archive.org <https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch/page/n181/mode/2up?view=theater>`__
    * - page 7
      - At the time of the Buddha, the members of his Order of Monks (Sangha) addressed one another as Āvuso ‘Friend’. But before his death the Buddha instructed younger monks to address their elders as Bhante ‘Sir’ or Āyasmā ‘Venerable’. But elders should address the younger members by name, or as Āvuso ‘Friend’. (D II Colombo, 1929, p. 95).
      - | D II Colombo, 1929, p. 95: 
-       | D.16 Mahāparinibbānasuttaṃ `CSCD paranum 217 <https://tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ , 
-       | `The Great Discourse on the Total Unbinding <https://www.dhammatalks.org/suttas/DN/DN16.html>`__ (at [ VI ]) , Thanissaro Bhikkhu;
-       | `The Discourse about the Great Emancipation <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/index.htm>`__ , The Sixth Chapter for Recitation, `The Last Instructions of the Realised One <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/40-Last-Instructions.htm>`__
-       | A (Colombo, 1929), p. 239.: A 239: typo of "A ii 79"? A ii 79, AN.4.76 Kusinārasuttaṃ, `Kusinārā <http://buddhadust.net/dhamma-vinaya/pts/an/04_fours/an04.076.wood.pts.htm>`__ , F. L. Woodward, M.A. (PTS).
+       | DN 16 Mahāparinibbānasuttaṃ `CSCD paranum 217 <https://tipitaka.org/romn/cscd/s0102m.mul2.xml>`__ , 
+       | `The Great Discourse on the Total Unbinding <https://www.dhammatalks.org/suttas/DN/DN16.html>`__ (at [ VI ]) , Thanissaro Bhikkhu [1]_ ;
+       | `The Discourse about the Great Emancipation <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/index.htm>`__ , The Sixth Chapter for Recitation, `The Last Instructions of the Realised One <https://www.ancient-buddhist-texts.net/Texts-and-Translations/Mahaparinibbanasuttam/40-Last-Instructions.htm>`__ Ānandajoti Bhikkhu [3]_ 
+       | A (Colombo, 1929), p. 239.: A 239: typo of "A ii 79"? A ii 79, AN.4.76 Kusinārasuttaṃ, `Kusinārā <http://buddhadust.net/dhamma-vinaya/pts/an/04_fours/an04.076.wood.pts.htm>`__ , F. L. Woodward, M.A. (PTS). [2]_ 
    * - page 8
      - Karl Gjellerup’s The Pilgrim Kamanita seems to have been inspired by this story of Pukkusāti.
      - Der Pilger Kamanita/Pilgrimen Kamanita (1906, i.e. `The Pilgrim Kamanita <https://cd1.amaravati.org/wp-content/uploads/2014/09/28/Pligrim_Kamanita_2017_web_reduced.pdf>`__ , PDF)
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
+   * - page 9
+     - S II (PTS), P. 117
+     - | SN 12:68 Kosambī Sutta, `At Kosambī <https://www.dhammatalks.org/suttas/SN/SN12_68.html>`__, (On Knowing Dependent Co-arising), Thanissaro Bhikkhu [1]_ ; 
+       | `Kosambī <http://buddhadust.net/dhamma-vinaya/wp/sn/02_nv/sn02.12.068.bodh.wp.htm>`__, Bhikkhu Bodhi;
+       | `Kosambī <http://buddhadust.net/dhamma-vinaya/pts/sn/02_nv/sn02.12.068.rhyc.pts.htm>`__, Mrs. Rhys Davids [2]_ 
+   * - page 9
+     - Ibid. III, p.152
+     - | SN 22:101 Vāsijaṭopama (or Nāvā) Suttaɱ: `The Adz Handle (or The Ship) <http://buddhadust.net/dhamma-vinaya/wp/sn/03_kv/sn03.22.101.bodh.wp.htm>`__, Bhikkhu Bodhi [2]_ ; 
+       | `The Ship <https://www.dhammatalks.org/suttas/SN/SN22_101.html>`__, Thanissaro Bhikkhu [1]_ 
+   * - page 9
+     - S V, (PTS), p.423; III, p.103; M III (PTS), p. 19.
+     - | S V, (PTS), p.423—SN 56:11 Dhammacakkappavattanasuttaṃ: `Setting the Wheel of Dhamma in Motion <https://www.dhammatalks.org/suttas/SN/SN56_11.html>`__, Thanissaro Bhikkhu [1]_ ; `Setting in Motion the Wheel of the Dhamma <http://buddhadust.net/dhamma-vinaya/wp/sn/05_mv/sn05.56.011.bodh.wp.htm>`__, Bhikkhu Bodhi; `Setting Rolling the Wheel of Truth <http://buddhadust.net/dhamma-vinaya/ati/sn/05_mv/sn05.56.011.nymo.ati.htm>`__, Nanamoli Thera [2]_ ;
+       | S III, p.103—SN 22:82 Puṇṇamasuttaṃ: `The Full-Moon Night <http://buddhadust.net/dhamma-vinaya/wp/sn/03_kv/sn03.22.082.bodh.wp.htm>`__, Bhikkhu Bodhi [2]_ ; `The Full-moon Night <https://www.dhammatalks.org/suttas/SN/SN22_82.html>`__, Thanissaro Bhikkhu [1]_ ; 
+       | M III (PTS), p. 19—MN 109 Mahāpuṇṇamasuttaṃ: `The Great Full-Moon Night Discourse <https://www.dhammatalks.org/suttas/MN/MN109.html>`__, Thanissaro Bhikkhu [1]_ ; `The Longer Discourse on the Full Moon Night <http://buddhadust.net/dhamma-vinaya/mnl/mn/mn.109.upal.mnl.htm>`__, Sister Upalavanna [2]_ ;
+       | MN 56 Upālisuttaṃ: `The Teaching to Upāli <https://www.dhammatalks.org/suttas/MN/MN56.html>`__, Thanissaro Bhikkhu [1]_ ; `To the Householder Upāli <http://buddhadust.net/dhamma-vinaya/mnl/mn/mn.056.upal.mnl.htm>`__, Sister Upalavanna [2]_ 
+   * - page 9
+     - S V (PTS), p. 422
+     - | SN 56:11 Dhammacakkappavattanasuttaṃ: `Setting the Wheel of Dhamma in Motion <https://www.dhammatalks.org/suttas/SN/SN56_11.html>`__, Thanissaro Bhikkhu [1]_ ; 
+       | `Setting in Motion the Wheel of the Dhamma <http://buddhadust.net/dhamma-vinaya/wp/sn/05_mv/sn05.56.011.bodh.wp.htm>`__, Bhikkhu Bodhi [2]_ ; 
+       | `Setting Rolling the Wheel of Truth <http://buddhadust.net/dhamma-vinaya/ati/sn/05_mv/sn05.56.011.nymo.ati.htm>`__, Nanamoli Thera [2]_ 
+   * - page 10
+     - Canki-sutta, no.95 of M.
+     - | MN 95 Caṅkīsuttaṃ: `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu; [1]_ 
+       | `Majjhima Nikaya II Sutta Index <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_2.htm#p95>`__ [2]_
+   * - page 10
+     - Sn (PTS), p. 151 (v.798)
+     - | Suttanipāta, Aṭṭhaka Vagga, Paramaṭṭhaka Sutta (Snp 4.5) Verse 798
+       | `The Supreme Octet <https://www.dhammatalks.org/suttas/KN/StNp/StNp4_5.html>`_, Thanissaro Bhikkhu [1]_ ;
+       | `Sutta Nipāta <http://buddhadust.net/backmatter/indexes/sutta/kd/snp/idx_snp.htm>`__ [2]_ 
+   * - page 11
+     - In the Mahātanhāsankhaya-suttu, no. 38 of M.
+     - | MN 38 Mahātaṇhāsaṅkhayasuttaṃ: `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu [1]_ 
+       | `Majjhima Nikaya II Sutta Index <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_2.htm#p95>`__ [2]_ 
+   * - page 11
+     - M I (PTS), p. 260
+     - | MN 38 Mahātaṇhāsaṅkhayasuttaṃ: `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu [1]_ 
+       | `Majjhima Nikaya II Sutta Index <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_2.htm#p95>`__ [2]_ 
+   * - page 12
+     - M I (PTS), pp.134-135.
+     - | MN 22 Alagaddūpamasuttaṃ: `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu [1]_ 
+       | `Majjhima Nikaya II Sutta Index <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_2.htm#p95>`__ [2]_ 
+   * - page 12
+     - S V (PTS),p. 437
+     - | SN 56:31 Sīsapāvanasuttaṃ: `Saṁyutta Nikāya | The Connected Collection <https://www.dhammatalks.org/suttas/SN/index_SN.html>`__, Thanissaro Bhikkhu [1]_ 
+       | `Index to the Suttas of the Saɱyutta Nikāya, Mahā Vagga, Sacca Saɱyutta <http://buddhadust.net/backmatter/indexes/sutta/sn/05_mv/idx_56_saccasamyutta.htm>`__ [2]_ 
+   * - page 13
+     - Cūla-Mālunkya-sutta, no.63 of M.
+     - | MN 63 Cūḷamālukyasuttaṃ: `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu [1]_ 
+       | `Index of the Suttas of the Majjhima Nikāya Book II <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_2.htm>`__ [2]_  
+   * - page 15
+     - A (Colomo, 1929), pp. 345-346; S IV (PTS), p. 72 ff.
+     - | A (Colomo, 1929), pp. 345-346—AN 4.257 (or A.4.254) Mālukyaputtasuttaṃ: `Index of the Suttas of the Aṅguttara Nikāya, Catukka-Nipāta <http://buddhadust.net/backmatter/indexes/sutta/an/idx_04_catukkanipata.htm>`__ [2]_
+       | S IV (PTS), p. 72 ff.—SN 35:95 Mālukyaputtasuttaṃ: `Saṁyutta Nikāya | The Connected Collection <https://www.dhammatalks.org/suttas/SN/index_SN.html>`__, Thanissaro Bhikkhu [1]_ 
+       | `Index to the Suttas of the Saɱyutta Nikāya, Saḷāyatana Vagga, Saḷāyatana Saɱyutta <http://buddhadust.net/backmatter/indexes/sutta/sn/04_salv/idx_35_salayatanasamyutta.htm>`__ [2]_ 
 
 ------
 
@@ -103,15 +149,114 @@ Chapter II: The First Noble Truth: Dukkha
    * - Place
      - Note
      - Supplement
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
+   * - page 16
+     - Dhammacakkappavattana-sutta ‘Setting in Motion the Wheel of Truth’. Mhvg. (Alutgama, 1922), p. 9 ff; S V (PTS). P. 420 ff.
+     - | S V (PTS). P. 420 ff.—SN 56:11 Dhammacakkappavattanasuttaṃ: `Setting the Wheel of Dhamma in Motion <https://www.dhammatalks.org/suttas/SN/SN56_11.html>`__, Thanissaro Bhikkhu [1]_ ; `Setting in Motion the Wheel of the Dhamma <http://buddhadust.net/dhamma-vinaya/wp/sn/05_mv/sn05.56.011.bodh.wp.htm>`__, Bhikkhu Bodhi; `Setting Rolling the Wheel of Truth <http://buddhadust.net/dhamma-vinaya/ati/sn/05_mv/sn05.56.011.nymo.ati.htm>`__, Nanamoli Thera [2]_ 
+       | Mhvg. (Alutgama, 1922), p. 9 ff—Vinayapiṭake → Mahāvaggapāḷi → 1. Mahākhandhako → 6. Pañcavaggiyakathā: `REVERENCE TO THE BLESSED ONE, THE HOLY ONE, THE FULLY ENLIGHTENED ONE <https://www.sacred-texts.com/bud/sbe13/sbe1312.htm>`__ (T. W. Rhys Davids and Hermann Oldenberg, Vol. XIII of The Sacred Books of the East, Oxford, the Clarendon Press)
+   * - page 18
+     - A (Colombo, 1929), p. 49
+     - VII. Sukha Vagga, I.80, AN 2.63~75—On Pleasures or Happiness: `Index of the Suttas of the Aṅguttara Nikāya, Duka-Nipāta <http://buddhadust.net/backmatter/indexes/sutta/an/idx_02_dukanipata.htm>`__ [2]_ 
+   * - page 18
+     - Mahādukkhakkhandha-sutta, M I (PTS), p. 90.
+     - | MN 13 Mahādukkhakkhandhasuttaṃ: `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu [1]_ 
+       | `Index of the Suttas of the Majjhima Nikāya Book I <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_1.htm>`__ [2]_  
+   * - page 18
+     - M I (PTS), p. 85 ff; S III (PTS), p. 27 ff.
+     - | M I (PTS), p. 85 ff—MN 13 Mahādukkhakkhandhasuttaṃ: `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu [1]_ ; `Index of the Suttas of the Majjhima Nikāya Book I <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_1.htm>`__ [2]_ 
+       | S III (PTS), p. 27 ff.—SN 22.25 Chandarāgasuttaṃ: `Saṁyutta Nikāya | The Connected Collection <https://www.dhammatalks.org/suttas/SN/index_SN.html>`__, Thanissaro Bhikkhu [1]_; `Index to the Suttas of the Saɱyutta Nikāya, Khandha Vagga, Khandha Saɱyutta <http://buddhadust.net/backmatter/indexes/sutta/sn/03_kv/idx_22_khandhasamyutta.htm>`__ [2]_ 
+   * - page 19
+     - M I (PTS), p. 87.
+     - | MN 13 Mahādukkhakkhandhasuttaṃ: `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu [1]_ 
+       | `Index of the Suttas of the Majjhima Nikāya Book I <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_1.htm>`__ [2]_  
+   * - page 19
+     - Vism (PTS), P. 499; Abhisamuc, p. 38.
+     - | Vism (PTS), P. 499—Visuddhimagga (The Path of Purification), Chap. 16
+       | Bhikkhu Nyanamoli (trans.), The Path of Purification, Visuddhimagga, Buddhist Publication Society, Kandy 2011, ISBN 955-24-0023-6. `BPS-Pariyatti Editions <https://store.pariyatti.org/Path-of-Purification-The-_p_1386.html>`__, Onalaska 1999, ISBN 1-928706-01-0.
+       | The Path of Purity, Pe Maung (trans.), Pali Text Society, London, 3 vols., 1922–31
+       | Available as free PDF: The Path of Purification complete and The Path of Purification (Visuddhimagga) translated by Bhikkhu Nyanamoli ( on `AccessToInsight <https://accesstoinsight.org/lib/authors/nanamoli/PathofPurification2011.pdf>`__)
+       | Abhisamuc, p. 38.: `Compendium of Abhidharma <https://archive.org/details/in.ernet.dli.2015.405166>`__ [(Abhidharma-samuccaya of Asanga, ed. Pradhan (Visvabharati, Santiniketan, 1950) Sanskrit, on https://archive.org/ ]; Abhidharmasamuccaya: The Compendium of the Higher Teaching, Asaṅga, Walpola Rahula, Sara Boin-Webb, Jain Publishing Company, 2001, ISBN 0895819414, 9780895819413
+   * - page 20
+     - S V (PTS), p. 421
+     - | SN 56.13 Khandhasuttaṃ: `Saṁyutta Nikāya | The Connected Collection <https://www.dhammatalks.org/suttas/SN/index_SN.html>`__, Thanissaro Bhikkhu [1]_ 
+       | `Index to the Suttas of the Saɱyutta Nikāya, Mahā Vagga, Sacca Saɱyutta <http://buddhadust.net/backmatter/indexes/sutta/sn/05_mv/idx_56_saccasamyutta.htm>`__ [2]_ 
+   * - page 20
+     - S III (PTS), p. 158
+     - SN 22.104 Dukkhasuttaṃ: `Saṁyutta Nikāya | The Connected Collection <https://www.dhammatalks.org/suttas/SN/index_SN.html>`__, Thanissaro Bhikkhu [1]_; `Index to the Suttas of the Saɱyutta Nikāya, Khandha Vagga, Khandha Saɱyutta <http://buddhadust.net/backmatter/indexes/sutta/sn/03_kv/idx_22_khandhasamyutta.htm>`__ [2]_ 
+   * - page 20
+     - S III (PTS),p. 59
+     - SN 22.56 Upādānaparipavattasuttaṃ: `Saṁyutta Nikāya | The Connected Collection <https://www.dhammatalks.org/suttas/SN/index_SN.html>`__, Thanissaro Bhikkhu [1]_; `Index to the Suttas of the Saɱyutta Nikāya, Khandha Vagga, Khandha Saɱyutta <http://buddhadust.net/backmatter/indexes/sutta/sn/03_kv/idx_22_khandhasamyutta.htm>`__ [2]_ 
+   * - page 21
+     - Abhisamuc, p. 4. Vibh.p.72. Dhs. p. 133 § 594
+     - | Abhisamuc, p. 4.—Abhidharma-samuccaya of Asanga: `Compendium of Abhidharma <https://archive.org/details/in.ernet.dli.2015.405166>`__ [(Abhidharma-samuccaya of Asanga, ed. Pradhan (Visvabharati, Santiniketan, 1950) Sanskrit, on https://archive.org/ ]; Abhidharmasamuccaya: The Compendium of the Higher Teaching, Asaṅga, Walpola Rahula, Sara Boin-Webb, Jain Publishing Company, 2001, ISBN 0895819414, 9780895819413
+       | Vibh.p.72.—Vibhaṅga: `The Book of Analysis <https://suttacentral.net/vb1/en/thittila>`__,  U Thittila, first published in 1969 or `this <https://legacy.suttacentral.net/en/vb1>`__ (on `SuttaCentral <https://suttacentral.net/>`__ )
+       | Dhs. p. 133 §594—Dhammasaṅgaṇī or Dhammasaṅgaha: 'Collection of Dhammas' or A Buddhist Manual of Psychological Ethics, tr C. A. F. Rhys Davids, Royal Asiatic Society, 1900; reprinted with corrections, Pali Text Society,[2] Bristol; `Dhammasaṅgaṇī <https://suttacentral.net/ds>`__, or `this <https://legacy.suttacentral.net/ds>`__ on `SuttaCentral <https://suttacentral.net/>`__
+   * - page 22
+     - S III (PTS), p. 59
+     - SN 22.56 Upādānaparipavattasuttaṃ: `Saṁyutta Nikāya | The Connected Collection <https://www.dhammatalks.org/suttas/SN/index_SN.html>`__, Thanissaro Bhikkhu [1]_ ; `Index to the Suttas of the Saɱyutta Nikāya, Khandha Vagga, Khandha Saɱyutta <http://buddhadust.net/backmatter/indexes/sutta/sn/03_kv/idx_22_khandhasamyutta.htm>`__ [2]_ 
+   * - page 22
+     - S III (PTS), p.60
+     - SN 22.56 Upādānaparipavattasuttaṃ: `Saṁyutta Nikāya | The Connected Collection <https://www.dhammatalks.org/suttas/SN/index_SN.html>`__, Thanissaro Bhikkhu [1]_; `Index to the Suttas of the Saɱyutta Nikāya, Khandha Vagga, Khandha Saɱyutta <http://buddhadust.net/backmatter/indexes/sutta/sn/03_kv/idx_22_khandhasamyutta.htm>`__ [2]_ 
+   * - page 22
+     - A (Colombo, 1929), p. 590- 
+     - | AN 6.63 Nibbedhikasuttaṃ: `Penetrative <https://www.dhammatalks.org/suttas/AN/AN6_63.html>`__, Thanissaro Bhikkhu [1]_;
+       | `Drawing from Experience <http://buddhadust.net/dhamma-vinaya/bd/an/06_sixes/an06.063.olds.bd.htm>`__, Michael M. Olds [2]_
+   * - page 22
+     - Abhisamuc, p.6.
+     - Abhisamuc—Abhidharma-samuccaya of Asanga: `Compendium of Abhidharma <https://archive.org/details/in.ernet.dli.2015.405166>`__ [(Abhidharma-samuccaya of Asanga, ed. Pradhan (Visvabharati, Santiniketan, 1950) Sanskrit, on https://archive.org/ ]; Abhidharmasamuccaya: The Compendium of the Higher Teaching, Asaṅga, Walpola Rahula, Sara Boin-Webb, Jain Publishing Company, 2001, ISBN 0895819414, 9780895819413
+   * - page 22
+     - S III (PTS), p.60.
+     - SN 22.56 Upādānaparipavattasuttaṃ: `Saṁyutta Nikāya | The Connected Collection <https://www.dhammatalks.org/suttas/SN/index_SN.html>`__, Thanissaro Bhikkhu [1]_; `Index to the Suttas of the Saɱyutta Nikāya, Khandha Vagga, Khandha Saɱyutta <http://buddhadust.net/backmatter/indexes/sutta/sn/03_kv/idx_22_khandhasamyutta.htm>`__ [2]_ 
+   * - page 23
+     - According to Mahāyāna Buddhist philosophy the Aggregate of Consciousness has three aspects: citta, manas and vijňāna, and the Ālaya- vijňāna (popularly translated as ‘Store-Consciousness’) finds its place in this Aggregate. A detailed and comparative study of this subject will be found in a forthcoming work on Buddhist philosophy by the present writer.
+     - `Alayavijnana - Store Consciousness <https://www.saigon.com/anson/ebud/ebdha195.htm>`__, Venerable Dr. Walpola Rahula (Source: Buddhist Council of NSW)
+   * - page 23
+     - S III (PTS), p.61
+     - SN 22.56 Upādānaparipavattasuttaṃ: `Saṁyutta Nikāya | The Connected Collection <https://www.dhammatalks.org/suttas/SN/index_SN.html>`__, Thanissaro Bhikkhu [1]_; `Index to the Suttas of the Saɱyutta Nikāya, Khandha Vagga, Khandha Saɱyutta <http://buddhadust.net/backmatter/indexes/sutta/sn/03_kv/idx_22_khandhasamyutta.htm>`__ [2]_ 
+   * - page 24
+     - Mahātanhāsamkhaya-sutta, M I (PTS), p. 256 ff.
+     - | MN 38 Mahātaṇhāsaṅkhayasuttaṃ: `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu [1]_ 
+       | `Index of the Suttas of the Majjhima Nikāya Book I <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_1.htm>`__ [2]_ 
+   * - page 25
+     - MA II (PTS), pp. 306-307
+     - MA—Majjhima-nikāyaṭṭhakathā, Papañcasūdani: Commentary on Majjhima Nikaya; `The Papancasudani Commentary On Majjhima Nikaya Vol I Nava Nalanda Vihar <https://archive.org/details/ThePapancasudaniCommentaryOnMajjhimaNikayaVolINavaNalandaVihar>`__
+   * - page 25
+     - S III (PTS), p. 58.
+     - SN 22.55 Udānasuttaṃ: `Saṁyutta Nikāya | The Connected Collection <https://www.dhammatalks.org/suttas/SN/index_SN.html>`__, Thanissaro Bhikkhu [1]_; `Index to the Suttas of the Saɱyutta Nikāya, Khandha Vagga, Khandha Saɱyutta <http://buddhadust.net/backmatter/indexes/sutta/sn/03_kv/idx_22_khandhasamyutta.htm>`__ [2]_ 
+   * - page 26
+     - A (colomo, 1929), p. 700.
+     - | AN 7.74 Arakasuttaṃ (or AN 7:70: Arakenanusasani Suttaɱ): `Araka’s Instructions <https://www.dhammatalks.org/suttas/AN/AN7_70.html>`__, Thanissaro Bhikkhu [1]_
+       | `Wheel-Wright <http://buddhadust.net/dhamma-vinaya/pts/an/07_sevens/an07.070.hare.pts.htm>`__, E.M. Hare, PTS [2]_  
+   * - page 26
+     - (dāruyanta). Vism. (PTS), pp. 594-595
+     - | Visuddhimagga (The Path of Purification), Chap. 18
+       | Bhikkhu Nyanamoli (trans.), The Path of Purification, Visuddhimagga, Buddhist Publication Society, Kandy 2011, ISBN 955-24-0023-6. `BPS-Pariyatti Editions <https://store.pariyatti.org/Path-of-Purification-The-_p_1386.html>`__, Onalaska 1999, ISBN 1-928706-01-0.
+       | The Path of Purity, Pe Maung (trans.), Pali Text Society, London, 3 vols., 1922–31
+       | Available as free PDF: The Path of Purification complete and The Path of Purification (Visuddhimagga) translated by Bhikkhu Nyanamoli ( on `AccessToInsight <https://accesstoinsight.org/lib/authors/nanamoli/PathofPurification2011.pdf>`__)
+   * - page 26
+     - Vism. (PTS), p.513
+     - | Visuddhimagga (The Path of Purification), Chap. 16
+       | Bhikkhu Nyanamoli (trans.), The Path of Purification, Visuddhimagga, Buddhist Publication Society, Kandy 2011, ISBN 955-24-0023-6. `BPS-Pariyatti Editions <https://store.pariyatti.org/Path-of-Purification-The-_p_1386.html>`__, Onalaska 1999, ISBN 1-928706-01-0.
+       | The Path of Purity, Pe Maung (trans.), Pali Text Society, London, 3 vols., 1922–31
+       | Available as free PDF: The Path of Purification complete and The Path of Purification (Visuddhimagga) translated by Bhikkhu Nyanamoli ( on `AccessToInsight <https://accesstoinsight.org/lib/authors/nanamoli/PathofPurification2011.pdf>`__)
+   * - page 27
+     - S II (PTS), pp. 178-179; III pp.149, 151
+     - | S II (PTS), pp. 178-179—SN 15.1 Tiṇakaṭṭhasuttaṃ
+       | S III pp.149, 151—SN 22.99 Gaddulabaddhasuttaṃ, SN 22.100 Dutiyagaddulabaddhasuttaṃ: `Saṁyutta Nikāya | The Connected Collection <https://www.dhammatalks.org/suttas/SN/index_SN.html>`__, Thanissaro Bhikkhu [1]_; `Index to the Suttas of the Saɱyutta Nikāya, Khandha Vagga, Khandha Saɱyutta <http://buddhadust.net/backmatter/indexes/sutta/sn/03_kv/idx_22_khandhasamyutta.htm>`__ [2]_ 
+   * - page 27
+     - A V (PTS), p. 113
+     - | AN 10.61 Avijjāsuttaṃ: `Ignorance <https://www.dhammatalks.org/suttas/AN/AN10_61.html>`__,  Thanissaro Bhikkhu [1]_
+       | `Ignorance <http://buddhadust.net/dhamma-vinaya/wp/an/10_tens/an10.061.bodh.wp.htm>`__, Bhikkhu Bodhi, Wisdom Publications [2]_ 
+   * - page 27
+     - S V (PTS), p. 437. 
+     - | SN 56.30 Gavampatisuttaṃ: `Saṁyutta Nikāya | The Connected Collection <https://www.dhammatalks.org/suttas/SN/index_SN.html>`__, Thanissaro Bhikkhu [1]_ 
+       | `Index to the Suttas of the Saɱyutta Nikāya, Mahā Vagga, Sacca Saɱyutta <http://buddhadust.net/backmatter/indexes/sutta/sn/05_mv/idx_56_saccasamyutta.htm>`__ [2]_ 
+   * - page 28
+     - Abhisamuc, p. 7.
+     - Abhisamuc—Abhidharma-samuccaya of Asanga: `Compendium of Abhidharma <https://archive.org/details/in.ernet.dli.2015.405166>`__ [(Abhidharma-samuccaya of Asanga, ed. Pradhan (Visvabharati, Santiniketan, 1950) Sanskrit, on https://archive.org/ ]; Abhidharmasamuccaya: The Compendium of the Higher Teaching, Asaṅga, Walpola Rahula, Sara Boin-Webb, Jain Publishing Company, 2001, ISBN 0895819414, 9780895819413
+   * - page 28
+     - M II (PTS), p. 121
+     - MN 89 Dhammacetiyasuttaṃ: `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu [1]_ 
+       | `Index of the Suttas of the Majjhima Nikāya Book II <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_2.htm>`__ [2]_ 
 
 ------
 
@@ -127,6 +272,68 @@ Chapter III: The Second Noble Truth: Samudaya: The Arising of Dukkha
    * - Place
      - Note
      - Supplement
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
    * - 
      - 
      - 
@@ -161,6 +368,68 @@ Chapter IV: The Third Noble Truth: Nirodha: The Cessation of Dukkha
      - 
      - 
 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+
 ------
 
 .. _`Chapter V: The Fourth Noble Truth: Magga: 'The Path'`:
@@ -175,6 +444,68 @@ Chapter V: The Fourth Noble Truth: Magga: The Path
    * - Place
      - Note
      - Supplement
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
    * - 
      - 
      - 
@@ -209,6 +540,68 @@ Chapter VI: The Doctrine of No-Soul: Anatta
      - 
      - 
 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+
 ------
 
 .. _`Chapter VII: 'Meditation' or Mental Culture: Bhavana`:
@@ -223,6 +616,68 @@ Chapter VII: Meditation or Mental Culture: Bhavana
    * - Place
      - Note
      - Supplement
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
    * - 
      - 
      - 
@@ -257,9 +712,88 @@ Chapter VIII: What the Buddha Taught and the World Today
      - 
      - 
 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+   * - 
+     - 
+     - 
+
+------
+
+.. [a] 'page number' is based on the second and enlarged edition, 1967; The Corporate Body of the Buddha Educational Foundation Taipei, Taiwan. http://ftp.budaedu.org/ebooks/pdf/EN132.pdf 
+       
+       [For the others version: https://nanda.online-dhamma.net/a-path-to-freedom/what-the-Buddha-taught/what-the-Buddha-taught-2020/ (English)]
+
+Reference:
+
+.. [1] This site offers an extensive collection of English translations of suttas from the Pāli Canon, as well as a multitude of free downloads of Dhamma from the Kammaṭṭhāna (or Thai Forest) Tradition of Buddhism. Ṭhānissaro Bhikkhu of Metta Forest Monastery is the speaker, author or translator unless otherwise noted. https://www.dhammatalks.org/index.html
+
+.. [2] Obo the Awakener: http://buddhadust.net/index.htm or http://obo.genaud.net/
+
+.. [3] Ancient Buddhist Texts: Materials from the early and medieval Buddhist tradition covering texts in Pāli and Sanskrit; line by line (interlinear) texts and translations; translations in English only; studies of grammar, prosody and compilation; maps, reference works and audio files. (Ānandajoti Bhikkhu) https://www.ancient-buddhist-texts.net/
+
 ------
 
 by Nanda, Taiwan
 
 ..
+  06-21 add: chap. 2
+  Visuddhimagga (The Path of Purification) Buddhaghosa (First 90pages  only) http://www.abhidhamma.org/visuddhimagga-1.htm
+  Visuddhimagga MP3-- Visuddhimagga Talks by Venerable Sayādaw U Sīlānanda https://thepathofpurification.blogspot.com/p/download-visuddhimagga.html
   2021-06-19 upload testing, 10-16 create rst
