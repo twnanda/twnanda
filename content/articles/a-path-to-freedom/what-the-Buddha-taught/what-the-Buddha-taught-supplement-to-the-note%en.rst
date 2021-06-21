@@ -272,77 +272,61 @@ Chapter III: The Second Noble Truth: Samudaya: The Arising of Dukkha
    * - Place
      - Note
      - Supplement
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
+   * - page 29
+     - Mhvg. (Alutgama, 1922), p. 9; S V (PTS), p. 421 and passim.
+     - | Mhvg. (Alutgama, 1922), p. 9—Vinayapiṭake → Mahāvaggapāḷi → 1. Mahākhandhako → 6. Pañcavaggiyakathā: `REVERENCE TO THE BLESSED ONE, THE HOLY ONE, THE FULLY ENLIGHTENED ONE <https://www.sacred-texts.com/bud/sbe13/sbe1312.htm>`__ (T. W. Rhys Davids and Hermann Oldenberg, Vol. XIII of The Sacred Books of the East, Oxford, the Clarendon Press)
+       | S V (PTS). P. 420 ff.—SN 56:11 Dhammacakkappavattanasuttaṃ: `Setting the Wheel of Dhamma in Motion <https://www.dhammatalks.org/suttas/SN/SN56_11.html>`__, Thanissaro Bhikkhu [1]_ ; `Setting in Motion the Wheel of the Dhamma <http://buddhadust.net/dhamma-vinaya/wp/sn/05_mv/sn05.56.011.bodh.wp.htm>`__, Bhikkhu Bodhi; `Setting Rolling the Wheel of Truth <http://buddhadust.net/dhamma-vinaya/ati/sn/05_mv/sn05.56.011.nymo.ati.htm>`__, Nanamoli Thera [2]_ 
+   * - page 29
+     - M I (PTS), p. 51
+     - | MN 9 Sammādiṭṭhisuttaṃ: `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu; [1]_ 
+       | `Majjhima Nikaya I Sutta Index <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_1.htm#p95>`__ [2]_
+   * - page 29
+     - Abhisamuc, p. 43,
+     - Abhisamuc—Abhidharma-samuccaya of Asanga: `Compendium of Abhidharma <https://archive.org/details/in.ernet.dli.2015.405166>`__ [(Abhidharma-samuccaya of Asanga, ed. Pradhan (Visvabharati, Santiniketan, 1950) Sanskrit, on https://archive.org/ ]; Abhidharmasamuccaya: The Compendium of the Higher Teaching, Asaṅga, Walpola Rahula, Sara Boin-Webb, Jain Publishing Company, 2001, ISBN 0895819414, 9780895819413
+   * - page 30
+     - Vibh. (PTS), p. 106 ff.
+     - Vibh.—Vibhaṅga: `The Book of Analysis <https://suttacentral.net/vb1/en/thittila>`__,  U Thittila, first published in 1969 or `this <https://legacy.suttacentral.net/en/vb1>`__ (on `SuttaCentral <https://suttacentral.net/>`__ )
+   * - page 30
+     - M I (PTS), p. 51; S II p. 72; Vibh. P. 380.
+     - | M I (PTS), p. 51—MN 9 Sammādiṭṭhisuttaṃ: `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu; [1]_ ; `Majjhima Nikaya I Sutta Index <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_1.htm#p95>`__ [2]_
+       | S II p. 72—SN 12.43 Dukkhasuttaṃ: `Suffering <http://buddhadust.net/dhamma-vinaya/wp/sn/02_nv/sn02.12.043.bodh.wp.htm>`__, Bhikkhu Bodhi, Wisdom Publications, 2000; `Dukkha Suttaɱ <http://buddhadust.net/dhamma-vinaya/pts/sn/02_nv/sn02.12.043.rhyc.pts.htm>`__, Mrs. Rhys Davids, PTS [2]_ 
+       | Vibh. P. 380—Vibhaṅga: `The Book of Analysis <https://suttacentral.net/vb1/en/thittila>`__,  U Thittila, first published in 1969 or `this <https://legacy.suttacentral.net/en/vb1>`__ (on `SuttaCentral <https://suttacentral.net/>`__ )
+   * - page 30
+     - M I, p. 86.
+     - | MN 13 Mahādukkhakkhandhasuttaṃ: `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu [1]_ 
+       | `Index of the Suttas of the Majjhima Nikāya Book I <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_1.htm>`__ [2]_ 
+   * - page 30
+     - M I, p. 48.
+     - | MN 9 Sammādiṭṭhisuttaṃ: `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu [1]_ 
+       | `Index of the Suttas of the Majjhima Nikāya Book I <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_1.htm>`__ [2]_ 
+   * - page 31
+     - MA I (PTS), p. 210.
+     - MA—Majjhima-nikāyaṭṭhakathā, Papañcasūdani: Ettha ca manosañcetanāhāro tayo bhave āharatīti sāsavā kusalākusalacetanāva vuttā. (MA.9.); Commentary on Majjhima Nikaya; `The Papancasudani Commentary On Majjhima Nikaya Vol I Nava Nalanda Vihar <https://archive.org/details/ThePapancasudaniCommentaryOnMajjhimaNikayaVolINavaNalandaVihar>`__
+   * - page 31
+     - MA I (PTS), p. 209.
+     - MA—Majjhima-nikāyaṭṭhakathā, Papañcasūdani: Manosañcetanāti cetanā eva vuccati. Commentary on Majjhima Nikaya; `The Papancasudani Commentary On Majjhima Nikaya Vol I Nava Nalanda Vihar <https://archive.org/details/ThePapancasudaniCommentaryOnMajjhimaNikayaVolINavaNalandaVihar>`__
+   * - page 31
+     - MA I (PTS), p. 22.
+     - MA—Majjhima-nikāyaṭṭhakathā, Papañcasūdani: Commentary on Majjhima Nikaya; `The Papancasudani Commentary On Majjhima Nikaya Vol I Nava Nalanda Vihar <https://archive.org/details/ThePapancasudaniCommentaryOnMajjhimaNikayaVolINavaNalandaVihar>`__
+   * - page 31
+     - S II (PTS), p. 100
+     - | SN 12.63 Puttamaṃsūpamasuttaṃ: `Son's Flesh <http://buddhadust.net/dhamma-vinaya/wp/sn/02_nv/sn02.12.063.bodh.wp.htm>`__, Bhikkhu Bodhi, Wisdom Publications, 2000 [2]_ 
+       | `A Son’s Flesh <https://www.dhammatalks.org/suttas/SN/SN12_63.html>`__, Thanissaro Bhikkhu; [1]_  
+   * - page 31
+     - S II (PTS), p. 22.
+     - | SN 12.19 Bālapaṇḍitasuttaṃ: `The Fool & the Wise Person <https://www.dhammatalks.org/suttas/SN/SN12_19.html>`__, Thanissaro Bhikkhu; [1]_ 
+       | `The Wise Man and the Fool <http://buddhadust.net/dhamma-vinaya/wp/sn/02_nv/sn02.12.019.bodh.wp.htm>`__, Bhikkhu Bodhi, Wisdom Publications, 2000 [2]_ 
 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
+   * - page 31
+     - M III (PTS), p. 280; S IV, pp. 47, 107; V, p. 423
+     - | M III (PTS), p. 280—MN 147 Cūḷarāhulovādasuttaṃ: `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu [1]_ ; `Index of the Suttas of the Majjhima Nikāya Book III <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_3.htm#p147>`__ [2]_  
+       | S IV, pp. 47—SN 35.74 Paṭhamagilānasuttaṃ: `Ill (1) <https://www.dhammatalks.org/suttas/SN/SN35_74.html>`__, Thanissaro Bhikkhu; [1]_ ; `Sick 1 <http://buddhadust.net/dhamma-vinaya/wp/sn/04_salv/sn04.35.074-075.bodh.wp.htm#s74>`__, Bhikkhu Bodhi, Wisdom Publications, 2000 [2]_ 
+       | S IV, pp. 107—SN 35.121 Rāhulovādasuttaṃ: `Exhortation to Rāhula <http://buddhadust.net/dhamma-vinaya/wp/sn/04_salv/sn04.35.121.bodh.wp.htm>`__ Bhikkhu Bodhi, Wisdom Publications, 2000; `Rāhula <http://buddhadust.net/dhamma-vinaya/pts/sn/04_salv/sn04.35.121.wood.pts.htm>`__, F. L. Woodward, PTS [2]_ 
+       | S V, p. 423—SN 56:11 Dhammacakkappavattanasuttaṃ: `Setting the Wheel of Dhamma in Motion <https://www.dhammatalks.org/suttas/SN/SN56_11.html>`__, Thanissaro Bhikkhu [1]_ ; `Setting in Motion the Wheel of the Dhamma <http://buddhadust.net/dhamma-vinaya/wp/sn/05_mv/sn05.56.011.bodh.wp.htm>`__, Bhikkhu Bodhi; `Setting Rolling the Wheel of Truth <http://buddhadust.net/dhamma-vinaya/ati/sn/05_mv/sn05.56.011.nymo.ati.htm>`__, Nanamoli Thera [2]_ 
 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
+   * - page 33
+     - Prmj. I (PTS), p. 78 
+     - Prmj.— **Paramatthajotikā**, 4. Kumārapañhavaṇṇanā / Pañhavaṇṇanā / Ekaṃ nāma kintipañhavaṇṇanā: Paramatthato ca khandhesu jāyamānesu jīyamānesu mīyamānesu ca ‘‘khaṇe khaṇe tvaṃ bhikkhu jāyase ca jīyase ca mīyase cā’’ti
 
 ------
 
@@ -793,7 +777,7 @@ Reference:
 by Nanda, Taiwan
 
 ..
-  06-21 add: chap. 2
+  06-21 add: chap. 3; add: chap. 2
   Visuddhimagga (The Path of Purification) Buddhaghosa (First 90pages  only) http://www.abhidhamma.org/visuddhimagga-1.htm
   Visuddhimagga MP3-- Visuddhimagga Talks by Venerable Sayādaw U Sīlānanda https://thepathofpurification.blogspot.com/p/download-visuddhimagga.html
   2021-06-19 upload testing, 10-16 create rst
