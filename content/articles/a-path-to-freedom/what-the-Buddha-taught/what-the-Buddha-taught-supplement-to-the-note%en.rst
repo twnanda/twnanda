@@ -3,7 +3,7 @@ Supplement to the note of "What the Buddha Taught"
 =====================================================
 
 :date: 2021-06-19
-:modified: 2021-06-21
+:modified: 2021-06-22
 :author: Ven. Walpola Rahula Thero
 :tags: What the Buddha Taught, Walpola Rahula, Supplement to the note
 :category: A Path to Freedom
@@ -342,77 +342,74 @@ Chapter IV: The Third Noble Truth: Nirodha: The Cessation of Dukkha
    * - Place
      - Note
      - Supplement
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
+   * - page 36
+     - Lanka. p. 113
+     - Lanka.—The Laṅkāvatāra-sūtra: https://buddhanature.tsadra.org/index.php/Texts/La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra
+   * - page 36
+     - Mhvg. (Alutgama,1922), p. 10; S. V p. 421
+     - | Mhvg. (Alutgama,1922), p. 10—Vinayapiṭake → Mahāvaggapāḷi → 1. Mahākhandhako → 6. Pañcavaggiyakathā: `REVERENCE TO THE BLESSED ONE, THE HOLY ONE, THE FULLY ENLIGHTENED ONE <https://www.sacred-texts.com/bud/sbe13/sbe1312.htm>`__ (T. W. Rhys Davids and Hermann Oldenberg, Vol. XIII of The Sacred Books of the East, Oxford, the Clarendon Press)
+       | S. V p. 421—SN 56.11 Dhammacakkappavattanasuttaṃ: `Setting the Wheel of Dhamma in Motion <https://www.dhammatalks.org/suttas/SN/SN56_11.html>`__, Thanissaro Bhikkhu [1]_ ; `Setting in Motion the Wheel of the Dhamma <http://buddhadust.net/dhamma-vinaya/wp/sn/05_mv/sn05.56.011.bodh.wp.htm>`__, Bhikkhu Bodhi; `Setting Rolling the Wheel of Truth <http://buddhadust.net/dhamma-vinaya/ati/sn/05_mv/sn05.56.011.nymo.ati.htm>`__, Nanamoli Thera [2]_ 
+   * - page 36
+     - S I, p. 136
+     - SN 6.1 Brahmāyācanasuttaṃ: `The Request <https://www.dhammatalks.org/suttas/SN/SN6_1.html>`__, Thanissaro Bhikkhu [1]_ ; `The Entreaty <http://buddhadust.net/dhamma-vinaya/pts/sn/01_sagv/sn01.06.001.rhyc.pts.htm>`__, Mrs. Rhys Davids, assisted by Sūriyagoḍa Sumangala Thera, PTS [2]_ 
+   * - page 36
+     - Ibid. IV, p. 359
+     - SN 43.1. Kāyagatāsatisuttaṃ
+   * - page 36
+     - Ibid. III, p. 190.
+     - SN 23.2 Sattasuttaṃ
+   * - page 37
+     - A (PTS) II, p. 34. 
+     - AN. 4.34 Aggappasādasuttaṃ
+   * - page 37
+     - S (PTS) IV, p. 251
+     - SN. 38.1. Nibbānapañhāsuttaṃ
+   * - page 37
+     - M I, (PTS), p. 191
+     - MN.28 Mahāhatthipadopamasuttaṃ
+   * - page 37
+     - S II (PTS), p. 117
+     - SN. 12.68 Kosambisuttaṃ
+   * - page 37
+     - Ud. (Colombo, 1929), p. 129
+     - (https://accesstoinsight.org/tipitaka/kn/ud/ud.8.03.than.html  or https://www.dhammatalks.org/suttas/KN/Ud/ud8_3.html)
+   * - page 37
+     - Ibid. p. 128; D I (Colombo, 1929), p. 172.
+     - | Ibid. p. 128—80, Nibbāna Sutta: Unbinding (1), translated from the Pali by Thanissaro Bhikkhu © 2012, https://accesstoinsight.org/tipitaka/kn/ud/ud.8.01.than.html or https://www.dhammatalks.org/suttas/KN/Ud/ud8_1.html )  
+       | ‘‘Atthi, bhikkhave, tadāyatanaṃ, yattha neva pathavī, na āpo, na tejo, na vāyo, na ākāsānañcāyatanaṃ, na viññāṇañcāyatanaṃ, na ākiñcaññāyatanaṃ, na nevasaññānāsaññāyatanaṃ, nāyaṃ loko, na paraloko, na ubho candimasūriyā. Tatrāpāhaṃ, bhikkhave, neva āgatiṃ vadāmi , na gatiṃ, na ṭhitiṃ, na cutiṃ, na upapattiṃ; appatiṭṭhaṃ, appavattaṃ, anārammaṇamevetaṃ. Esevanto dukkhassā’’ti. Paṭhamaṃ.(https://tipitaka.org/romn/cscd/s0503m.mul7.xml)
+       | D I (Colombo, 1929), p. 172—DN.9 Poṭṭhapādasuttaṃ
+   * - page 39
+     - V (PTS), p. 369.
+     - V (PTS), p. 369.— typo of "S IV (PTS), p. 369."? S IV (PTS), p. 369—SN. 43.14- 43 Anāsavādisuttaṃ:
+   * - page 40
+     - Cf. Lanka. P. 200; 
+     - Lanka.—The Laṅkāvatāra-sūtra: https://buddhanature.tsadra.org/index.php/Texts/La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra
+   * - page 40
+     - Madhya. Kari XXV, 19
+     - Madhya. Kari—Mādhyamika-Kārikā of Nāgārjuna, ed. L. de la Vallée Poussin (Bib. Budd. IV).: Louis de La Vallée-Poussin (Louis É tienne Joseph Marie de La Vallée-Poussin, Mūlamadhyamakavṛtti-Prasannapadā
+   * - page 41
+     - S III (PTS), p. 189
+     - SN 23.1 Mārasuttaṃ
+   * - page 41
+     - S IV (PTS), p. 375 f.
+     - SN 44.1. Khemāsuttaṃ
+   * - page 41
+     - M I (PTS), p. 486
+     - MN.72 Aggivacchasuttaṃ
+   * - page 41
+     - Ibid. I, p. 487; III, p. 245; Sn (PTS), v. 232 (p. 41).
+     - | Ibid. I, p. 487—MN.72 Aggivacchasuttaṃ
+       | III, p. 245—MN.140 Dhātuvibhaṅgasuttaṃ
+       | Sn (PTS), v. 232 (p. 41)—Suttanipāta, Cūḷa Vagga (The Lesser, Chapter II), Snp 2.1, Verse 232? cf. verse 235; `Treasures <https://www.dhammatalks.org/suttas/KN/StNp/StNp2_1.html>`__; Ended the old, there is no new taking birth. Dispassioned their minds toward future becoming, they, with no seed, no desire for growth, enlightened, go out like this flame. Thanissaro Bhikkhu [1]_ ; "Their past (kamma) is spent, their new (kamma) no more arises, their mind to future becoming is unattached. Their germ (of rebirth-consciousness) has died, they have no more desire for re-living. Those wise men fade out (of existence) as the flame of this lamp (which has just faded away). This precious jewel is the Sangha. By this (asseveration of the) truth may there be happiness. (Ratana Sutta: The Jewel Discourse, translated from the Pali by Piyadassi Thera, © 1999, https://accesstoinsight.org/tipitaka/kn/snp/snp.2.01.piya.html
+   * - page 42
+     - A (Colombo, 1929) p. 218.
+     - AN. 4.45 Rohitassasuttaṃ (A ii 47) or SN.2.26 Rohitassasuttaṃ (S i 61) 
+   * - page 43
+     - S I (PTS), p. 5. 
+     - SN.1.10 Araññasuttaṃ
+   * - page 43
+     - M II (PTS), p. 121.
+     - MN.89 Dhammacetiyasuttaṃ
 
 ------
 
@@ -428,77 +425,18 @@ Chapter V: The Fourth Noble Truth: Magga: The Path
    * - Place
      - Note
      - Supplement
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
+   * - page 46
+     - M I (PTS), p. 301
+     - MN.44 Cūḷavedallasuttaṃ
+   * - page 49
+     - Vism. (PTS), p. 510
+     - | Visuddhimagga (The Path of Purification), Chap. 16
+       | Bhikkhu Nyanamoli (trans.), The Path of Purification, Visuddhimagga, Buddhist Publication Society, Kandy 2011, ISBN 955-24-0023-6. `BPS-Pariyatti Editions <https://store.pariyatti.org/Path-of-Purification-The-_p_1386.html>`__, Onalaska 1999, ISBN 1-928706-01-0.
+       | The Path of Purity, Pe Maung (trans.), Pali Text Society, London, 3 vols., 1922–31
+       | Available as free PDF: The Path of Purification complete and The Path of Purification (Visuddhimagga) translated by Bhikkhu Nyanamoli ( on `AccessToInsight <https://accesstoinsight.org/lib/authors/nanamoli/PathofPurification2011.pdf>`__)
+   * - page 50
+     - Mhvg. (Alutgama, 1922), p. 10
+     - Vinayapiṭake → Mahāvaggapāḷi → 1. Mahākhandhako → 6. Pañcavaggiyakathā: `REVERENCE TO THE BLESSED ONE, THE HOLY ONE, THE FULLY ENLIGHTENED ONE <https://www.sacred-texts.com/bud/sbe13/sbe1312.htm>`__ (T. W. Rhys Davids and Hermann Oldenberg, Vol. XIII of The Sacred Books of the East, Oxford, the Clarendon Press). ? 
 
 ------
 
@@ -777,6 +715,7 @@ Reference:
 by Nanda, Taiwan
 
 ..
+  06-22 add: chap. 4 & 5 (simple)
   06-21 add: chap. 3; add: chap. 2
   Visuddhimagga (The Path of Purification) Buddhaghosa (First 90pages  only) http://www.abhidhamma.org/visuddhimagga-1.htm
   Visuddhimagga MP3-- Visuddhimagga Talks by Venerable Sayādaw U Sīlānanda https://thepathofpurification.blogspot.com/p/download-visuddhimagga.html
