@@ -3,7 +3,7 @@ Supplement to the note of "What the Buddha Taught"
 =====================================================
 
 :date: 2021-06-19
-:modified: 2021-06-22
+:modified: 2021-06-23
 :author: Ven. Walpola Rahula Thero
 :tags: What the Buddha Taught, Walpola Rahula, Supplement to the note
 :category: A Path to Freedom
@@ -344,7 +344,7 @@ Chapter IV: The Third Noble Truth: Nirodha: The Cessation of Dukkha
      - Supplement
    * - page 36
      - Lanka. p. 113
-     - Lanka.—The Laṅkāvatāra-sūtra: https://buddhanature.tsadra.org/index.php/Texts/La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra
+     - Lanka.— `The Laṅkāvatāra-sūtra <https://buddhanature.tsadra.org/index.php/Texts/La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra>`__  
    * - page 36
      - Mhvg. (Alutgama,1922), p. 10; S. V p. 421
      - | Mhvg. (Alutgama,1922), p. 10—Vinayapiṭake → Mahāvaggapāḷi → 1. Mahākhandhako → 6. Pañcavaggiyakathā: `REVERENCE TO THE BLESSED ONE, THE HOLY ONE, THE FULLY ENLIGHTENED ONE <https://www.sacred-texts.com/bud/sbe13/sbe1312.htm>`__ (T. W. Rhys Davids and Hermann Oldenberg, Vol. XIII of The Sacred Books of the East, Oxford, the Clarendon Press)
@@ -383,7 +383,7 @@ Chapter IV: The Third Noble Truth: Nirodha: The Cessation of Dukkha
      - V (PTS), p. 369.— typo of "S IV (PTS), p. 369."? S IV (PTS), p. 369—SN. 43.14- 43 Anāsavādisuttaṃ:
    * - page 40
      - Cf. Lanka. P. 200; 
-     - Lanka.—The Laṅkāvatāra-sūtra: https://buddhanature.tsadra.org/index.php/Texts/La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra
+     - Lanka.— `The Laṅkāvatāra-sūtra <https://buddhanature.tsadra.org/index.php/Texts/La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra>`__  
    * - page 40
      - Madhya. Kari XXV, 19
      - Madhya. Kari—Mādhyamika-Kārikā of Nāgārjuna, ed. L. de la Vallée Poussin (Bib. Budd. IV).: Louis de La Vallée-Poussin (Louis É tienne Joseph Marie de La Vallée-Poussin, Mūlamadhyamakavṛtti-Prasannapadā
@@ -436,7 +436,7 @@ Chapter V: The Fourth Noble Truth: Magga: The Path
        | Available as free PDF: The Path of Purification complete and The Path of Purification (Visuddhimagga) translated by Bhikkhu Nyanamoli ( on `AccessToInsight <https://accesstoinsight.org/lib/authors/nanamoli/PathofPurification2011.pdf>`__)
    * - page 50
      - Mhvg. (Alutgama, 1922), p. 10
-     - Vinayapiṭake → Mahāvaggapāḷi → 1. Mahākhandhako → 6. Pañcavaggiyakathā: `REVERENCE TO THE BLESSED ONE, THE HOLY ONE, THE FULLY ENLIGHTENED ONE <https://www.sacred-texts.com/bud/sbe13/sbe1312.htm>`__ (T. W. Rhys Davids and Hermann Oldenberg, Vol. XIII of The Sacred Books of the East, Oxford, the Clarendon Press). ? 
+     - Vinayapiṭake → Mahāvaggapāḷi → 1. Mahākhandhako → 6. Pañcavaggiyakathā: `REVERENCE TO THE BLESSED ONE, THE HOLY ONE, THE FULLY ENLIGHTENED ONE <https://www.sacred-texts.com/bud/sbe13/sbe1312.htm>`__ (T. W. Rhys Davids and Hermann Oldenberg, Vol. XIII of The Sacred Books of the East, Oxford, the Clarendon Press). 
 
 ------
 
@@ -452,77 +452,127 @@ Chapter VI: The Doctrine of No-Soul: Anatta
    * - Place
      - Note
      - Supplement
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
+   * - page 52
+     - Mhvg. (Alutgama, 1922), p. 4 f; M I (PTS), p. 167 f. 
+     - | Mhvg. (Alutgama, 1922), p. 4 f—Vinayapiṭake → Mahāvaggapāḷi → 1. Mahākhandhako → 6. Pañcavaggiyakathā: `REVERENCE TO THE BLESSED ONE, THE HOLY ONE, THE FULLY ENLIGHTENED ONE <https://www.sacred-texts.com/bud/sbe13/sbe1312.htm>`__ (T. W. Rhys Davids and Hermann Oldenberg, Vol. XIII of The Sacred Books of the East, Oxford, the Clarendon Press).
+       | M I (PTS), p. 167 f—MN.26 Pāsarāsisuttaṃ:
 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
+   * - page 53
+     - M III (PTS), p. 63; S II (PTS), pp. 28, 95
+     - | M III (PTS), p. 63—MN. 115 Bahudhātukasuttaṃ:
+       | S II (PTS), pp. 28, 95—SN 12. 22 Dutiyadasabalasuttaṃ:
+   * - page 54
+     - Vism. (PTS), p. 517
+     - Chap 17
+   * - page 54
+     - | Limited space does not permit a discussion here of this most important doctrine. 
+       | A critical and comparative study if this subject in detail will be found in a forthcoming work on Buddhist philosophy by the present writer. 
+     - ??
+   * - page 55
+     - Sārattha II (PTS), p. 77
+     - | ‘‘Duve saccāni akkhāsi, sambuddho vadataṃ varo;
+       | Sammutiṃ paramatthañca, tatiyaṃ nūpalabbhati;
+       | Saṅketavacanaṃ saccaṃ, lokasammutikāraṇaṃ;
+       | Paramatthavacanaṃ saccaṃ, dhammānaṃ bhūtalakkhaṇa’’nti.
+       | (https://tipitaka.org/romn/cscd/s0302a.att0.xml)
+       | 
+       | `"What is the meaning of 'two truths' in the Manorathapūraṇī?" <https://buddhism.stackexchange.com/questions/21972/what-is-the-meaning-of-twotruths-in-the-manorathap%C5%ABra%E1%B9%87%C4%AB>`__
+       | `"Are nihilism & the sphere of nothingness different or the same?" <https://newbuddhist.com/discussion/14880/are-nihilism-the-sphere-of-nothingnessdifferent-or-the-same>`__ 
+   * - page 55
+     - Mh. Sūtrālankāra, XVIII 92.
+     - | Mh-Sutralankara: Mahāyāna-sūtrālaṅkāra of Asanga, ed. Sylvain Levy (Paris, 1907).: Maitreyanatha. Universal Vehicle Discourse Literature Mahayanasutralamkara (Treasury of the Buddhist Sciences), translated by American Institute of Buddhist Studies (Robert Thurman), 2004
+       | Asanga & Jamgön Mipham. A Feast of the Nectar of the Supreme Vehicle: An Explanation of the Ornament of the Mahayana Sutras, Maitreya's Mahāyānasūtrālaṅkāra with a commentary by Jamgön Mipham, Padmakara Translation Group (Shambhala, 2018)
+       | Maitreya. Ornament of the Great Vehicle Sutras: Maitreya’s Mahayanasutralamkara with Commentaries by Khenpo Shenga and Ju Mipham. Dharmachakra Translation Committee (Shambhala Publications, 2014) ISBN 978-1559394284
+   * - page 55
+     - H. von Glasenapp, in an article ‘Vedanta and Buddhism’ on the question of Anatta, The Middle Way, February, 1957, p. 154.
+     - `‘Vedanta and Buddhism’ <http://enlight.lib.ntu.edu.tw/FULLTEXT/JR-AN/an34799.pdf>`__
+   * - page 56
+     - M I (PTS), pp. 136-137
+     - MN. 22 Alagaddūpamasuttaṃ
+   * - page 56
+     - MA II (PTS), p. 112.
+     - | MA—Majjhima-nikāyaṭṭhakathā, Papañcasūdani: Commentary on Majjhima Nikaya; `The Papancasudani Commentary On Majjhima Nikaya Vol I Nava Nalanda Vihar <https://archive.org/details/ThePapancasudaniCommentaryOnMajjhimaNikayaVolINavaNalandaVihar>`__
+       | Asati na paritassatīti avijjamāne bhayaparitassanāya taṇhāparitassanāya vā na paritassati.
+       | Iminā bhagavā ajjhattakkhandhavināse aparitassamānaṃ khīṇāsavaṃ dassento desanaṃ
+       | matthakaṃ pāpesi. (https://tipitaka.org/romn/cscd/s0201a.att3.xml)
+   * - page 58
+     - M I (PTS), p. 228; S III pp. 132, 133.
+     - | M I (PTS), p. 228—MN 35 Cūḷasaccakasuttaṃ:
+       | S III pp. 132, 133—SN 22.90 Channasuttaṃ
+   * - page 58
+     - M I (PTS), p. 137
+     - MN 22 Alagaddūpamasuttaṃ
+   * - page 59
+     - ibid., p. 138.
+     - MN 22 Alagaddūpamasuttaṃ
+   * - page 59
+     - Dhp. A III (PTS), p. 148. ; Dhammapada Purānasannaya, Colombo, 1926, p. 77
+     - | Dhp. A III (PTS), p. 148—Dhammapada-aṭṭhakathā, `12. Attavaggo <https://tipitaka.org/romn/cscd/s0502a.att12.xml>`__, 4. Kumārakassapamātutherīvatthu: Tattha **nāthoti patiṭṭhā**. Idaṃ vuttaṃ hoti – yasmā attani ṭhitena attasampannena kusalaṃ katvā saggaṃ vā pāpuṇituṃ, maggaṃ vā bhāvetuṃ, phalaṃ vā sacchikātuṃ sakkā . Tasmā hi attāva attano patiṭṭhā hoti, paro ko nāma kassa patiṭṭhā siyā. Attanā eva hi sudantena nibbisevanena arahattaphalasaṅkhātaṃ dullabhaṃ nāthaṃ labhati. Arahattañhi sandhāya idha ‘‘nāthaṃ labhati dullabha’’nti vuttaṃ. 
+       | story of Dhp. 165: 9. Cūḷakālaupāsakavatthu
+       | `Anātha <http://dictionary.sutta.org/browse/a/an.tha>`__, `nātha <https://dictionary.sutta.org/browse/n/n.tha/>`__
+   * - page 60
+     - D II (Colombo, 1929), p. 62
+     - DN 16 Mahāparinibbānasuttaṃ
+   * - page 60
+     - Rhys Davids (Digha-nikāya Translation II, p. 108)
+     - `Digha-nikāya Translation II <https://archive.org/details/dialoguesofbuddh02davi>`__, `p. 108 <https://archive.org/details/dialoguesofbuddh02davi/page/108/mode/2up>`__)
+   * - page 61
+     - D II (Colombo, 1929), pp. 61-62.
+     - DN 16 Mahāparinibbānasuttaṃ
+   * - page 61
+     - Ibid., p.62. 
+     - DN 16 Mahāparinibbānasuttaṃ
+   * - page 62
+     - Mhvg., (Alutgama, 1929), pp.21-22
+     - Vinayapiṭake → Mahāvaggapāḷi → 1. Mahākhandhako → 6. Pañcavaggiyakathā: `REVERENCE TO THE BLESSED ONE, THE HOLY ONE, THE FULLY ENLIGHTENED ONE <https://www.sacred-texts.com/bud/sbe13/sbe1312.htm>`__ (T. W. Rhys Davids and Hermann Oldenberg, Vol. XIII of The Sacred Books of the East, Oxford, the Clarendon Press). 14. "the story of the thirty rich young companions."
+   * - page 62
+     - M I (PTS), p. 486.
+     - MN 72 Aggivacchasuttaṃ
+   * - page 63
+     - Dhp. XX, 7; Kindred Sayings IV, p. 282 
+     - | Dhp. XX, 7 Dhp. 276 (20. Maggavaggo, Chapter 20 The Way Or The Path)
+       | Woodward’s translation of `Kindred Sayings IV, p. 282 <https://archive.org/details/in.gov.ignca.9218/page/n303/mode/2up>`__ (on archive.org)
+   * - page 63
+     - M I (PTS), p. 487
+     - MN 72 Aggivacchasuttaṃ
+   * - page 63
+     - S IV (PTS), pp. 400-401
+     - SN 44 10. Ānandasuttaṃ
+   * - page 63
+     - M I (PTS), p. 70; Vibh. (PTS), p. 340.
+     - | M I (PTS), p. 70—MN 12 Mahāsīhanādasuttaṃ
+       | Vibh. (PTS), p. 340—Vibhaṅga: `The Book of Analysis <https://suttacentral.net/vb1/en/thittila>`__,  U Thittila, first published in 1969 or `this <https://legacy.suttacentral.net/en/vb1>`__ (on `SuttaCentral <https://suttacentral.net/>`__ )
+   * - page 64
+     - A (Colombo, 1929), p. 216.
+     - cf. AN 4. 42 Pañhabyākaraṇasuttaṃ (A ii 46)
+   * - page 64
+     - S IV (PTS), pp. 393, 395; M I (PTS), p. 484.
+     - | S IV (PTS), pp. 393, 395—SN 44. 8 Vacchagottasuttaṃ
+       | M I (PTS), p. 484— `Majjhima Nikāya | The Middle Collection <https://www.dhammatalks.org/suttas/MN/index_MN.html>`__, Thanissaro Bhikkhu [1]_ 
+       | `Index of the Suttas of the Majjhima Nikāya Book I <http://buddhadust.net/backmatter/indexes/sutta/mn/idx_majjhima_nikaya_1.htm>`__ [2]_
+   * - page 64
+     - S III (PTS), pp. 257-263; IV pp, 391f., 395 f., 398f., 400; MI, pp. 481f., 483f., 489f., A V p. 193
+     - | S III (PTS), pp. 257-263—S. 33. Vacchagottasaṃyuttaṃ: SN 33. 1 Rūpa-aññāṇasuttaṃ ~ SN 33. 55 ??
+       | IV pp, 391f., 395 f., 398f., 400—SN 44.7. Moggallānasuttaṃ, SN 44.8. Vacchagottasuttaṃ, SN 44.9. Kutūhalasālāsuttaṃ, SN 44 10. Ānandasuttaṃ
+       | MI, pp. 481f., 483f., 489f—MN 71 Tevijjavacchasuttaṃ, MN 72 Aggivacchasuttaṃ, MN 73 Mahāvacchasuttaṃ, 
+       | A V p. 193— cf. AN 3.58 Vacchagottasuttaṃ
+   * - page 65
+     - M I (PTS), pp. 489 ff.
+     - MN 73 Mahāvacchasuttaṃ
+   * - page 65
+     - S II (PTS), p. 94.; Lanka. P. 78-79.
+     - | S II (PTS), p. 94—SN.12. 61 Assutavāsuttaṃ
+       | Lanka. P. 78-79— — `The Laṅkāvatāra-sūtra <https://buddhanature.tsadra.org/index.php/Texts/La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra>`__  
+   * - page 65
+     - S III (PTS), pp. 126 ff.
+     - SN 22. 89 Khemakasuttaṃ
+   * - page 66
+     - M III (PTS), p. 19; S III, p. 103.
+     - | M III (PTS), p. 19—MN 109 Mahāpuṇṇamasuttaṃ
+       | S III, p. 103—SN 22 82 Puṇṇamasuttaṃ
+   * - page 66
+     - Abhisamuc, p. 31.
+     - Abhisamuc—Abhidharma-samuccaya of Asanga: `Compendium of Abhidharma <https://archive.org/details/in.ernet.dli.2015.405166>`__ [(Abhidharma-samuccaya of Asanga, ed. Pradhan (Visvabharati, Santiniketan, 1950) Sanskrit, on https://archive.org/ ]; Abhidharmasamuccaya: The Compendium of the Higher Teaching, Asaṅga, Walpola Rahula, Sara Boin-Webb, Jain Publishing Company, 2001, ISBN 0895819414, 9780895819413
 
 ------
 
@@ -715,6 +765,7 @@ Reference:
 by Nanda, Taiwan
 
 ..
+  06-22 add: chap. 6 (simple)
   06-22 add: chap. 4 & 5 (simple)
   06-21 add: chap. 3; add: chap. 2
   Visuddhimagga (The Path of Purification) Buddhaghosa (First 90pages  only) http://www.abhidhamma.org/visuddhimagga-1.htm
