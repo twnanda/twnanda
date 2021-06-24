@@ -3,7 +3,7 @@ Supplement to the note of "What the Buddha Taught"
 =====================================================
 
 :date: 2021-06-19
-:modified: 2021-06-23
+:modified: 2021-06-24
 :author: Ven. Walpola Rahula Thero
 :tags: What the Buddha Taught, Walpola Rahula, Supplement to the note
 :category: A Path to Freedom
@@ -380,7 +380,7 @@ Chapter IV: The Third Noble Truth: Nirodha: The Cessation of Dukkha
        | D I (Colombo, 1929), p. 172—DN.9 Poṭṭhapādasuttaṃ
    * - page 39
      - V (PTS), p. 369.
-     - V (PTS), p. 369.— typo of "S IV (PTS), p. 369."? S IV (PTS), p. 369—SN. 43.14- 43 Anāsavādisuttaṃ:
+     - S V (PTS), p. 369.— typo of "S IV (PTS), p. 369."? ; S IV (PTS), p. 369—SN. 43.14- 43 Anāsavādisuttaṃ:
    * - page 40
      - Cf. Lanka. P. 200; 
      - Lanka.— `The Laṅkāvatāra-sūtra <https://buddhanature.tsadra.org/index.php/Texts/La%E1%B9%85k%C4%81vat%C4%81ras%C5%ABtra>`__  
@@ -571,7 +571,7 @@ Chapter VI: The Doctrine of No-Soul: Anatta
      - | M III (PTS), p. 19—MN 109 Mahāpuṇṇamasuttaṃ
        | S III, p. 103—SN 22 82 Puṇṇamasuttaṃ
    * - page 66
-     - Abhisamuc, p. 31.
+     - Abhisamuc, p. 31
      - Abhisamuc—Abhidharma-samuccaya of Asanga: `Compendium of Abhidharma <https://archive.org/details/in.ernet.dli.2015.405166>`__ [(Abhidharma-samuccaya of Asanga, ed. Pradhan (Visvabharati, Santiniketan, 1950) Sanskrit, on https://archive.org/ ]; Abhidharmasamuccaya: The Compendium of the Higher Teaching, Asaṅga, Walpola Rahula, Sara Boin-Webb, Jain Publishing Company, 2001, ISBN 0895819414, 9780895819413
 
 ------
@@ -588,77 +588,21 @@ Chapter VII: Meditation or Mental Culture: Bhavana
    * - Place
      - Note
      - Supplement
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
+   * - page 67
+     - A (Colombo, 1929), p. 276
+     - A (Colombo, 1929), p. 276—? ; cf. AN 4. 157 Rogasuttaṃ (A ii 142)
+   * - page 67
+     - Chapter VII on the Ascetic Ideal, History of Buddhism in Ceylon by Walpola Rahula, (Colombo, 1956), pp. 199 ff
+     - `Chapter XII <https://archive.org/details/in.gov.ignca.5091/page/n263/mode/1up>`__ on the Ascetic Ideal, `History of Buddhism in Ceylon <https://archive.org/details/in.gov.ignca.5091>`__,  by Walpola Rahula, (Colombo, 1956), pp. 199 ff (or archive.org; `this site <http://www.ahandfulofleaves.org/documents/History%20of%20Buddhism%20in%20Ceylon_Walpola_1956-66.pdf>`__, PDF, ahandfulofleaves.org)
+   * - page 68
+     - See Sallekha-sutta (no. 8), of M.
+     - MN.8 Sallekhasuttaṃ
+   * - page 72
+     - S I (PTS), p. 5
+     - SN 1 10 Araññasuttaṃ
+   * - page 73
+     - M I (PTS), p. 100
+     - MN 15 Anumānasuttaṃ
 
 ------
 
@@ -674,77 +618,54 @@ Chapter VIII: What the Buddha Taught and the World Today
    * - Place
      - Note
      - Supplement
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-   * - 
-     - 
-     - 
+   * - page 77
+     - M I (PTS), pp.30-31
+     - MN 5 Anaṅgaṇasuttaṃ
+   * - page 77
+     - Ibid., pp.490 ff
+     - MN 73 Mahāvacchasuttaṃ
+   * - page 80
+     - S I (PTS), p. 234
+     - SN 11.18 Gahaṭṭhavandanāsuttaṃ
+   * - page 81
+     - MA I (PTS), p. 290f
+     - ??
+   * - page 81
+     - The Cakkavattisihanāda-sutta of the Digha-nikāya (No.26)
+     - DN 26 Cakkavattisihanada Sutta (or Cakkavattisuttaṃ)
+   * - page 82
+     - D I (Colombo, 1929), p. 101
+     - DN.5 Kūṭadantasuttaṃ
+   * - page 83
+     - A (Colombo, 1929), pp. 786 ff
+     - AN 8.54 Dīghajāṇusuttaṃ
+   * - page 83
+     - D III (Colombo, 1929), p. 115
+     - DN. 31 Siṅgālasuttaṃ
+   * - page 83
+     - A (Collombo, 1929), pp. 232-233
+     - AN.4 62 Ānaṇyasuttaṃ (Anaṇasuttaṃ)
+   * - page 84
+     - Jataka I, 260, 399; II, 400; III, 274, 320; V 119, 378
+     - | Jataka I, 260—No. 51. Mahāsīlava-Jātaka
+       | Jataka I, 399—No. 96. Telapatta-Jātaka
+       | Jataka II, 400— typo of "Jataka III, 400"? ; Jataka III, 400—No. 282. Seyya-Jātak
+       | Jataka III, 274—No. 251. Saṃkappa-Jātaka
+       | Jataka III, 320—No. 261. Paduma-Jātaka
+       | Jataka V, 119—No. 521. Tesakuṇa-Jātaka
+       | Jataka V, 378—No. 534. Mahā-Haɱsa-Jātaka
+   * - page 86
+     - Dhp. I 5
+     - Dhammapada (Dhp.) 1. Yamakavaggo: Dhp 005
+   * - page 86
+     - Ibid XVII 3
+     - Dhammapada (Dhp.) 17. Kodhavaggo: Dhp 223
+   * - page 86
+     - Ibid XV 5
+     - Dhammapada (Dhp.) 15. Sukhavaggo: Dhp 201
+   * - page 86
+     - Ibid XIII 4
+     - Dhammapada (Dhp.) 8. Sahassavaggo: Dhp 103
 
 ------
 
@@ -765,6 +686,7 @@ Reference:
 by Nanda, Taiwan
 
 ..
+  06-24 add: chap. 7 & 8 (simple)
   06-22 add: chap. 6 (simple)
   06-22 add: chap. 4 & 5 (simple)
   06-21 add: chap. 3; add: chap. 2
