@@ -3,7 +3,7 @@ Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
 ===============================================================================
 
 :date: 2019-11-13
-:modified: 2021-04-23
+:modified: 2021-07-04
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
@@ -70,6 +70,8 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 
   * For Print, Size: A5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print-A5.pdf>`__ (14 pt, 183 pages, 2021-03-27) 
 
+    **Note:** There are one (1) page which is colourful for print: Page 4 (1) (U Ādiccaramsī's photography, Introduction)
+
 ------
 
 - `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Ven. Uttamo
@@ -79,6 +81,7 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-04 add: Note of colourful pages
   04-23 del covers of four books for the consideration of copyright
   03-28 add & rev. proofread by bhante 03-26
   06-26 proofread by bhante old: {filename}/extra/pdf/Eighteen-Days-In-Solitude-full-text.pdf; {filename}/extra/pdf/Eighteen-Days-In-Solitude-full-text-green.pdf

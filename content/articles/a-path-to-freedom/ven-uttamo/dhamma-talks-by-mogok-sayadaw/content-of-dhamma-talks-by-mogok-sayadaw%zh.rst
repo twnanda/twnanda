@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2021-06-08
+:modified: 2021-07-04
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -43,7 +43,11 @@ Dhamma Talks by Mogok Sayadaw
      - For Print, Size: A4, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print.pdf>`__  (12 pt, 858 pages, 2021-03-27)
      - For Print, Size: A4, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print.pdf>`__ (14.5 pt, 1105 pages, 2021-03-27)
      - 
-   * - For Print, Size: B5, general, 14.5 pt, `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-Vol-1.pdf>`__ (522 pages, 2021-03-27)
+   * - | For Print, Size: B5, general, 14.5 pt, `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-Vol-1.pdf>`__ (522 pages, 2021-03-27)
+       | **Note:** There are three (3) pages which are colourful for print on this Volumn:
+       | a. Page 56 (45) (D. A. Process), 
+       | b. Page 71 (60) (Kammabhava, D. A. Process) and 
+       | c. Page 465 (454) (the Axle of the Taints，part5-5).   
      - For Print, Size: B5, general, 14.5 pt, `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-Vol-2.pdf>`__ (524 pages)
      - For Print, Size: B5, general, 14.5 pt, `Vol. III <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-Vol-3.pdf>`__ (518 pages)
      - Cover (2021-06-08): `Vol-I <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok1-cover.png>`__ , `Vol-II <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok2-cover.png>`__ , `Vol-III <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok3-cover.png>`__ 
@@ -730,6 +734,7 @@ revised on 2021-06-08
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-04 add: Note of colourful pages
   06-08 Divided into three volumes(改分為三冊) & add cover for dhamma talk of mogok sayadaw's
   04-23 del covers of four books for the consideration of copyright
   03-28 add & rev. proofread by bhante 03-26
