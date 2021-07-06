@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2021-07-04
+:modified: 2021-07-06
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -768,7 +768,7 @@ the translator : Ven. Uttamo (鄔達摩尊者）
    * - For Print, Size: A5, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-12pt-print-A5.pdf>`__ (12 pt, 144 pages, 2021-03-27) 
      - For Print, Size: A5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print-A5.pdf>`__ (14 pt, 183 pages, 2021-03-27) 
      - **Note:** There are one (1) page which is colourful for print: Page 4 (1) (U Ādiccaramsī's photography, Introduction)
-     - 
+     - `Cover <https://github.com/twnanda/doc-pdf-etc/blob/master/image/18days-B5.png>`__ of "Eighteen Days in Solitude" (2021-07-06)
 
 ------
 
@@ -907,11 +907,14 @@ Protection with Blessing
 
 - For Print, Size: A4, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-14pt-print-A4.pdf>`__ (14 pt, 515 pages, 2021-03-27) 
 
+- `Cover <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mangala-cover.png>`__ of "Maṅgala Sutta" (2021-07-06)
+
 ------
 
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-06 add: cover of 18-days & Maṅgala Sutta
   07-04 add: Note of colourful pages
   06-08 Divided into three volumes(改分為三冊) & add cover for dhamma talk of mogok sayadaw's
   04-23 del covers of four books for the consideration of copyright

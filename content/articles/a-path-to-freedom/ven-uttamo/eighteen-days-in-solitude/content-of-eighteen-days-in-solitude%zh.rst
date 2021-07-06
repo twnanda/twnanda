@@ -3,7 +3,7 @@ Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
 ===============================================================================
 
 :date: 2019-11-13
-:modified: 2021-07-04
+:modified: 2021-07-06
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
@@ -72,6 +72,8 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 
     **Note:** There are one (1) page which is colourful for print: Page 4 (1) (U Ādiccaramsī's photography, Introduction)
 
+  * `Cover <https://github.com/twnanda/doc-pdf-etc/blob/master/image/18days-B5.png>`__ of "Eighteen Days in Solitude" (2021-07-06)
+
 ------
 
 - `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Ven. Uttamo
@@ -81,6 +83,7 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-06 add: cover of 18-days & Maṅgala Sutta
   07-04 add: Note of colourful pages
   04-23 del covers of four books for the consideration of copyright
   03-28 add & rev. proofread by bhante 03-26
