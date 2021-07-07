@@ -63,7 +63,7 @@
      - Dhp_421_
      - Dhp_422_
      - Dhp_423_
-     - Dhp_`本品(Brāhmaṇavaggo)總結`_
+     - `本品(Brāhmaṇavaggo)總結`_
 
 ------
 
