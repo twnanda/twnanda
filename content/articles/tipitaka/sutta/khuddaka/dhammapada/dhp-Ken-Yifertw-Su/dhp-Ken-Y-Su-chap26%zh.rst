@@ -2595,7 +2595,7 @@ Dhp. 423
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
-  07-07 finish editing; 07-08 post
+  07-07 finish editing; 07-08 post; test for mistake while uploading
 
   （原貼： `巴利《法句經》與漢譯《法句經》，第26品〈婆羅門品〉結語 <https://www.facebook.com/groups/484533056446281/posts/503879861178267/>`__ ）
 
