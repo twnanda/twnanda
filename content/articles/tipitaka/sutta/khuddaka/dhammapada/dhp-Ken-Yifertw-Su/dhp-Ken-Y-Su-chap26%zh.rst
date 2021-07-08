@@ -149,9 +149,9 @@ Dhp. 384
 
 ----------
 
-此首偈頌為一個句子：「sabbe saṃyogā atthaṃ gacchanti」。主詞為「saṃyogā 結縛」(複數)，「sabbe saṃyogā 一切結縛」。動詞為「gacchanti 去到」(第三人稱複數現在式動詞)，受詞為「atthaṃ 家、休息處」；「gacchanti atthaṃ 回家、結樹、消失、消滅」。「Athassa sabbe saṃyogā」為「Atha assa sabbe saṃyogā」，「Atha 然後」，「assa sabbe saṃyogā 他的一切結縛」，「jānato 知者的」(屬格)。此句為「然後，知者的一切結縛消滅」。
+此首偈頌為一個句子：「sabbe saṃyogā atthaṃ gacchanti」。主詞為「saṃyogā 結縛」(複數)，「sabbe saṃyogā 一切結縛」。動詞為「gacchanti 去到」(第三人稱複數現在式動詞)，受詞為「atthaṃ 家、休息處」；「gacchanti atthaṃ 回家、結束、消失、消滅」。「Athassa sabbe saṃyogā」為「Atha assa sabbe saṃyogā」，「Atha 然後」，「assa sabbe saṃyogā 他的一切結縛」，「jānato 知者的」(屬格)。此句為「然後，知者的一切結縛消滅」。
 
-動詞「gacchanti 去到」有一時間副詞子句：「Yadā dvayesu dhammesu, pāragū hoti brāhmaṇo」。「Yadā 當」(關係副詞)，主詞為「brāhmaṇo 婆羅門」(單數)，動詞為「hoti 是」(第三人稱單數現在式動詞)，主詞補語為「pāragū 渡河到岸的」，副詞為「dvayesu dhammesu 在兩重法上」，《法句經註》暗示這是指「止、觀」。此句為「當婆羅門渡過了兩重法」。
+動詞「gacchanti 去到」有一時間副詞子句：「Yadā dvayesu dhammesu, pāragū hoti brāhmaṇo」。「Yadā 當」(關係副詞)，主詞為「brāhmaṇo 婆羅門」(單數)，動詞為「hoti 是」(第三人稱單數現在式動詞)，主詞補語為「pāragū 渡河到岸的」，副詞為「dvayesu dhammesu 在兩重法上」，《法句經註》暗示這是指「止、觀」，KR Norman 指出「dvaya dhamma 兩重法」與《法句經註》提到的「dve dhammā 兩法」不同，應如巴利《經集》886頌，意為「pairs of opposites 成對的法」(請參考 Bhikkhu Bodhi《經集英譯》頁1151-1152)。此句採取KR Norman 的主張而翻譯為「當婆羅門渡過了兩重法」。
 
 -------------
 
@@ -159,22 +159,23 @@ Dhp. 384
 
 | 「以無二法，清淨渡淵，
 | 　諸欲結解，是謂梵志」(CBETA, T04, no. 210, p. 572, b23-24)。
-|
+| 
 | 《出曜經》卷13〈沙門品 12〉：
 | 
 | 「截流而渡，無欲如梵，　
 | 　知行已盡，逮無量德。」(CBETA, T04, no. 212, p. 678, a17-18)。
-|
+| 
 | 《出曜經》卷29〈梵志品 34〉：
 | 
 | 「彼以無二，清淨無瑕，　
 | 　諸欲結解，是謂梵志。」(CBETA, T04, no. 212, p. 770, a23-24)。
-|
+| 
+| 
 | 《法集要頌經》卷4〈梵志品 33〉：
 | 
 | 「彼以不二行，清淨無瑕穢，
 | 　諸欲斷縛著，是名為梵志。」(CBETA, T04, no. 213, p. 798, a24-25)。
-|
+| 
 | 梵文《法句經》對應偈頌位於〈33 婆羅門品〉，Uv 33.72。
 | 
 
@@ -185,7 +186,10 @@ Dhp. 384
 | 「若常住於二法〔止觀〕，婆羅門達彼岸，
 | 如是彼智慧者，息滅一切繫縛。」(CBETA, N26, no. 9, p. 52, a8 // PTS. Dhp. 55)。
 | 
-| 
+
+------
+
+很顯然地「dvayesu dhammesu」不能翻譯作「不二行、無二法、無二」，漢譯版本很可能是「誤譯」。
 
 ------
 
@@ -2595,7 +2599,7 @@ Dhp. 423
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
-  07-08 rev. proofread on page no. of 元亨寺版《法句經》
+  07-08 rev. proofread on page no. of 元亨寺版《法句經》 & Dhp. 384
   07-07 finish editing; 07-08 post; test for mistake while uploading
 
   （原貼： `巴利《法句經》與漢譯《法句經》，第26品〈婆羅門品〉結語 <https://www.facebook.com/groups/484533056446281/posts/503879861178267/>`__ ）
