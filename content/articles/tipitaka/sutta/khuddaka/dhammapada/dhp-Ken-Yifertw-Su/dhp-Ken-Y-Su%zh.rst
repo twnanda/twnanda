@@ -3,7 +3,7 @@
 =====================================================================
 
 :date: 2021-01-24
-:modified: 2021-04-08
+:modified: 2021-07-09
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》, Dhammapada, 白話文版（含巴利文法分析， 蘇錦坤 著 2021）
@@ -83,17 +83,19 @@
      - 23. Nāgavaggo (Dhp.320-333)
 
 .. list-table:: Content of Dhammapada
-   :widths: 16 16 16 16
+   :widths: 16 16 16 16 16
    :header-rows: 1
 
    * - `第廿四：貪愛品 <{filename}dhp-Ken-Y-Su-chap24%zh.rst>`_
      - `第廿五：比丘品 <{filename}dhp-Ken-Y-Su-chap25%zh.rst>`_
      - `第廿六：波羅門品 <{filename}dhp-Ken-Y-Su-chap26%zh.rst>`_
+     - `附錄：巴利文法簡介 <{filename}dhp-Ken-Y-Su-gramma-note%zh.rst>`__
      - `整部 <{filename}dhp-Ken-Y-Su-full%zh.rst>`__
 
    * - 24. Taṇhāvaggo (Dhp.334-359)
      - 25. Bhikkhuvaggo (Dhp.360-382)
      - 26. Brāhmaṇavaggo (Dhp.383-423)
+     - Note of Gramma for Pali
      - Full text of Dhammapada (Dhp.001-423)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -102,10 +104,19 @@
 
 ------
 
+歡迎在相關部落格留言指正、補充、討論、批評。
+
+「巴利《法句經》偈頌句型及詞彙討論平台」(https://www.facebook.com/groups/484533056446281)
+
+「台語與佛典」(http://yifertw.blogspot.com)
+
+------
+
 - `法句經 首頁 <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  07-09 add. 歡迎在相關部落格留言指正、補充、討論、批評 & Note of Gramma for Pali
   04-08 rev. 4 titles to match the author's translation
   2021-01-24 create rst
