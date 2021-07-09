@@ -1,9 +1,9 @@
 ===========================================================================
-代序（《法句經》, Dhammapada, 白話文版（含巴利文法分析， 蘇錦坤 著 2021）
+序（《法句經》, Dhammapada, 白話文版（含巴利文法分析， 蘇錦坤 著 2021）
 ===========================================================================
 
 :date: 2021-01-24
-:modified: 2021-01-25
+:modified: 2021-07-09
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 代序--《法句經》, Dhammapada, 白話文版（含巴利文法分析， 蘇錦坤 著 2021）
@@ -22,39 +22,70 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 .. _preface:
 
-代序
-------
+序
+---
 
-有法友問及此處巴利《法句經》文法分析的來源。我必需坦白，這些文法分析得自近代的巴利學者與僧侶，他們則得自更古老的南傳上座部僧團。而且，我必需提醒：此處的文法經過我的演繹和詮釋，有些部分可能是錯誤的而需要進一步訂正。
+蘇錦坤　Ken Su
 
-近代有不少版本將巴利《法句經》翻譯成當代白話文字，或將漢譯《法句經》翻譯成現代白話，在此之後，應該有一本翻譯談到文法結構，和對應偈頌所呈現的風貌。
+《法句經》是到今日為止被翻譯成最多種語言的佛經，也是今日保存最多種古代語言版本的佛教文獻，古代版本《法句經》主要有巴利《法句經》、梵文《法句經》、犍陀羅語《法句經》、漢語《法句經》與藏語《法句經》；這些古代版本雖然都自稱為《法句經》（或《優陀那品》Udānavarga），其實彼此之間存在相當大的差異，但也不是完全不同；當代學者已經指出，跨文本的比較研究可以協助偈頌的解讀與經本的傳承傳統。
 
-此一專題希望建立一個討論平台，來呼應此項需求，希望有人接棒持續改進。
+以巴利《法句經》的漢譯而言，近百年來有許多翻譯版本，舉例來說，如了參法師、淨海法師、元亨寺、黃寶生等翻譯版本。平心而論，僅是將巴利字句翻譯成當代白話對讀者的幫助不大，其實，讀者更需要一本帶有句型分析、詮釋巴利字義並舉例闡述古今譯句利弊得失的譯本。
 
-出處：書房夜話 381：巴利《法句經》與漢譯《法句經》，第四品〈花品〉（臉書社團--瀚邦佛學研究中心 2021-01-19-13:49 更新 (原貼 2021-01-18-21:49）
+除了巴利偈頌的漢譯以外，如果附上古代翻譯的對應偈頌也許更能彰顯偈頌的本義。這代表著必需對古譯偈頌進行「校勘、標點、字義詮釋、偈頌編號」，再編列偈頌對照表。
 
-https://www.facebook.com/groups/491306231038114/permalink/1740342609467797
+以上簡述的工作項目，筆者不僅巴利知識貧乏，漢語文獻學根基也從缺，不是適合承擔此一任務的人選。記得方廣錩老師在佛光山上對我提到某項佛學文獻的整理時，他說：「這事聰明人不肯做，不伶俐的人又做不來。」
 
-----
+我雖算是「不伶俐的人」，但是不揣鄙陋而越俎代庖，希望匯集一些詮釋作為學者進一步討論與訂正的平台。
 
-Wei-jen Teng: 蘇錦坤 蘇老師的語法解析對於巴利經典的學習非常有用！隨喜讚歎！
+當然，本書所呈現的不完全是出自我個人的詮釋，我參酌最多的文獻為：
 
-蘇錦坤: (to:Wei-jen Teng) 開頭的地方，我將 optative 祈使句，imperative 命令句和 causative 使役動詞一律翻譯成「祈使句」，現在我後悔了，可能還需找時間回頭改。
+1. Norman, K. R., (1997, 2000), The Word of the Doctrine (Dhammapada), PTS, Oxford, UK.
 
-文法方面，我是「略識之無」，期望「方家」賜教和訂正。
+2. 元亨寺版《小部，法句經》(南傳大藏經)
 
-我認為這一系列貼文較有獨特貢獻的地方，應該是「漢巴對應偈頌」與「各品的總結」。
+3. 台大佛學數位圖書館「法句經解析」(http://buddhism.lib.ntu.edu.tw/DLMBS/lesson/pali/reading/gatha1.htm)
 
--------
+能夠完成此書，首先要感謝「瀚邦佛學研究中心」的臉書群組，組裡的部分成員陪伴我一則一則地陸續讀寫；其次要感謝法友 Nanda Lau，他協助校讀、抓錯，並且擔任最繁瑣的數位編輯的工作，以及促成編印成書，並提供讀者上網搜尋與閱讀。對本書有任何建議，請上網留言。
 
-鄧偉仁教授回答：巴利語動詞語法術語sattamī （optative）與pañcamī （imperative）的中譯的確有點麻煩，即使是英語翻譯也不完整，因為sattamī optative語氣表達：可能、應該、意願（會）；而pañcamī imperative表達命令、請求以及願望。所以很難用一個術語翻譯。過去常常把sattamī optative翻譯成『祈願語氣』，其實是有些誤導的，因為如果我們要表達『願眾生快樂』用的是pañcamī imperative。
-causative 翻譯成『使役動詞』是比較沒問題的。
+偈頌對照表：
 
-https://www.facebook.com/groups/491306231038114/permalink/1741736249328433
+1. 33: Brāhmaṇavarga, 梵文《法句經》33 〈婆羅門品〉對照表 v. 10 (academia.edu): https://www.academia.edu/11006030/33_Br%C4%81hma%E1%B9%87avarga_%E6%A2%B5%E6%96%87_%E6%B3%95%E5%8F%A5%E7%B6%93_33_%E5%A9%86%E7%BE%85%E9%96%80%E5%93%81_%E5%B0%8D%E7%85%A7%E8%A1%A8_v_10，
 
-------
+2. 《法句經》、《出曜經》與《法集要頌經》偈頌對照表 (Correspondence Tables of Chinese Verses among T210, T212 and T213): https://yifertwtw.blogspot.com/2015/02/33.html
 
-蘇錦坤 Ken Su， `獨立佛學研究者 <https://independent.academia.edu/KenYifertw>`_ ，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>`_ 部落格格主
+3. Pali 法句經1 〈雙品〉對照表 v. 7 https://www.academia.edu/34862645/Pali_%E6%B3%95%E5%8F%A5%E7%B6%931_%E9%9B%99%E5%93%81_%E5%B0%8D%E7%85%A7%E8%A1%A8_v_7
+
+相關論文(作者蘇錦坤)：
+
+1. `〈《法句經》的「四言偈頌」與「五言偈頌」〉 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol9-2.pdf>`__ (PDF) ，(2014a)， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ 9期，23-48頁，新竹市，台灣。
+
+2. `〈〈法句序〉與《法句經》重譯偈頌〉 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1236&i=1>`__ （PDF, 直接下載），(2014b)， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `70期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&id=8&task=search&templates=mag&keyword=&bid=1234>`__ ，1-56頁，南投縣，台灣。
+
+3. `〈《出曜經》研究〉 <https://drive.google.com/file/d/0B-y6CGDp4iI5cXllN3pfWUNmR2s/view?resourcekey=0-Yu7yZmMDj5do8S6sEDPgCg>`__ ，(2015a)， `《新加坡佛學研究學刊》 <https://www.bcs.edu.sg/research-and-library/journal/journal-archive/>`__ `2期 <https://www.bcs.edu.sg/wp-content/uploads/2015/09/BCS-Journal-2015-Vol-2-locked.pdf>`__ (PDF)，65-175頁，新加坡佛學院，新加坡。
+
+4. `〈《法句經》「三言」偈頌的標點與詮釋〉 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1244&i=1>`__ （PDF, 直接下載），(2015b)， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `72期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&id=8&task=search&templates=mag&keyword=&bid=1242>`__ ，39-88頁，南投縣，台灣。
+
+5. `〈試論「甘肅博物館001號《法句經》寫本」的異讀〉 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol10-2.pdf>`__ ，(2015c)， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ 10期，19-39頁，新竹市，台灣。
+
+6. `〈《法句經》的翻譯議題與重譯偈頌〉 <https://www.academia.edu/17534484/Issues_on_Chinese_Dhammapadas_translation_%E6%B3%95%E5%8F%A5%E7%B6%93%E7%9A%84%E7%BF%BB%E8%AD%AF%E8%AD%B0%E9%A1%8C%E8%88%87%E9%87%8D%E8%AD%AF%E5%81%88%E9%A0%8C_2015_In_Chinese_>`__ (academia.edu) ，(2015d)，《吳越佛教》第10輯48-67頁，杭州佛學院，杭州市，中國。
+
+7. `〈《法句經》的「校讀」與「誤譯」〉 <https://ir.dila.edu.tw/bitstream/123456789/308/1/03-%e8%98%87%e9%8c%a6%e5%9d%a4.pdf>`__ ，(2016a)，《法鼓佛學學報》19期，93-158頁，法鼓文理學院，新北市，台灣。
+
+8. `〈《法集要頌經》的翻譯議題〉 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1347&i=1>`__ ，(2016b)， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `79期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&id=8&task=search&templates=mag&keyword=&bid=1345>`__ ，99-171頁，南投縣，台灣。
+
+9. `〈書評：屈大成《法句經今注今譯》〉 <https://www.bcs.edu.sg/wp-content/uploads/2018/04/5.-Ken-Su-Vol-4.pdf>`__ ，(2017)， `《新加坡佛學研究學刊》 <https://www.bcs.edu.sg/research-and-library/journal/journal-archive/>`__ 4期183-189頁，新加坡佛學院，新加坡。
+
+10. `〈漢、巴《法句經》對應偈頌的相互詮釋〉 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol13-2.pdf>`__ ，(2018)， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ 13期，25-63頁，新竹市，台灣。
+
+11. `〈《法句經》(T210)的詮釋與翻譯---以法光法師《法句經之英譯及研究》為例〉 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=11068&i=1>`__ ，(2019a)， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `87期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&id=8&task=search&templates=mag&keyword=&bid=11065>`__ ，89-161頁，南投縣，台灣。
+
+12. `〈《法句經》的初譯偈頌與後譯偈頌〉 <https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=P20190125001-201906-201907300004-201907300004-1-59>`__ (華藝線上)，(2019b)，《法鼓佛學學報》24期，1-59頁，法鼓文理學院，新北市，台灣。
+
+13. `〈《法集要頌經》之校對研究〉 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol14-1.pdf>`__ ，(2019c)， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ 14期，1-41頁，新竹市，台灣。
+
+- 巴利《法句經》偈頌句型及詞彙討論平台 https://www.facebook.com/groups/484533056446281
+
+- 府城佛教網 首頁 https://nanda.online-dhamma.net
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -62,6 +93,8 @@ https://www.facebook.com/groups/491306231038114/permalink/1741736249328433
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
+​
 ..
+  07-09 rev: almost new (proofread by the author-- Ken Su)
   01-25 add: Wei-jen Teng (鄧偉仁教授) 對話
   2021-01-24 create rst
