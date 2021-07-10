@@ -63,5 +63,5 @@ F. 名詞的八個格：
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
-  07-10 rev. old: 第三類句型的不需受詞; 第四類句型的需有受詞 (proofread by the author-- Ken Su)
+  07-10 rev. filename; & old: 第三類句型的不需受詞; 第四類句型的需有受詞 (proofread by the author-- Ken Su)
   2021-07-09 create rst
