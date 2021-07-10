@@ -3,7 +3,7 @@
 ==============================================================================================
 
 :date: 2021-01-24
-:modified: 2021-07-08
+:modified: 2021-07-10
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 第一：雙品（《法句經》, Dhammapada, Yamakavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
@@ -143,9 +143,11 @@ Dhp. 001
 --------
 
 元亨寺版《法句經》《法句經》卷1：
-「諸法意為導，意主意造作。
-　人若染穢意，或語或〔身〕行，
-苦事則隨彼，如輪隨獸足。」(CBETA, N26, no. 9, p. 13, a7-8 // PTS. Dhp. 1)
+
+| 「諸法意為導，意主意造作。
+| 　人若染穢意，或語或〔身〕行，
+| 苦事則隨彼，如輪隨獸足。」(CBETA, N26, no. 9, p. 13, a7-8 // PTS. Dhp. 1)
+| 
 
 ----
 
@@ -480,7 +482,7 @@ Dhp. 006
 1). 「pare na vijānanti, mayamettha yamāmase」，主詞為「pare 其他人們」(第三人稱複數名詞)。動詞為「na vijānanti 不知道」(第三人稱複數，現在式動詞)，受詞為「mayamettha yamāmase」、「mayaṃ ettha yamāmase」。
 「mayaṃ ettha yamāmase」有兩種詮釋：
 
-    1. 將「yamā」當作死王」，「mayaṃ ettha yamāmase」就成為「我們終會死亡」，注釋書解釋「yamāmase」為「命令態動詞 imperative」，意為「let us go continually into the presence of death 我們將持續走到死王(maccu)之前」。請參考 PED 551頁。
+    1. 將「yamā」當作「死王」，「mayaṃ ettha yamāmase」就成為「我們終會死亡」，注釋書解釋「yamāmase」為「命令態動詞 imperative」，意為「let us go continually into the presence of death 我們將持續走到死王(maccu)之前」。請參考 PED 551頁。
 
     2. 將「 yamāmase」當作「yam 控制」的衍生詞，意為「應控制」(祈使態 optative)。「mayam ettha yamāmase」就成為「我們應當自我控制」。
 
@@ -542,7 +544,7 @@ Dhp. 007
 
     1. subhānupassiṃ viharantaṃ 住於「隨觀淨、樂」。anu 指的是「一再，從各個角度、各個層面」，anupassiṃ 為「隨觀、看作、當作」，「subha 淨、樂」。
 
-    2. indriyesu asaṃvutaṃ 不攝受諸根。
+    2. indriyesu asaṃvutaṃ 不收攝諸根。
 
     3. bhojanamhi cāmattaññuṃ 飲食不知量。
 
@@ -615,7 +617,7 @@ Dhp. 008
 
     1. asubhānupassiṃ viharantaṃ 住於「隨觀不淨」。anu 指的是「一再，從各個角度、各個層面」，anupassiṃ 為「隨觀、看作、當作」，「asubha 不淨」。
 
-    2. indriyesu susaṃvutaṃ 善攝受諸根。
+    2. indriyesu susaṃvutaṃ 善收攝諸根。
 
     3. Bhojanamhi ca mattaññuṃ 飲食知量。
 
@@ -1424,7 +1426,49 @@ Dhp. 020
 
 -------
 
-巴利《法句經》第品為〈Yamaka vaggo 雙品〉，下列各語言版本都有〈雙品〉：
+我們為何不直接閱讀漢譯《法句經》即可，為何要閱讀巴利《法句經》呢？或者
+
+我們為何不直接閱讀漢譯的巴利《法句經》即可，為何要閱讀巴利《法句經》呢？
+
+在此以本品的第九頌、第十頌為例，漢譯偈頌為：
+
+《法句經》卷1〈雙要品 9〉：
+
+| 「不吐毒態，欲心馳騁，
+| 　未能自調，不應法衣。　
+| 　能吐毒態，戒意安靜，　
+| 　降心已調，此應法衣。」(CBETA, T04, no. 210, p. 562, a26-29)。
+| 
+| 
+| 以近代漢譯巴利《法句經》為例：
+| 
+| 元亨寺版《法句經》卷1：
+| 
+| 「雖為纏袈娑，不脫垢濁者，無真實克己，不應纏袈娑。
+| 離棄諸垢濁，善住於戒律，真實以克己，彼應纏袈娑。」
+| 
+| 
+| 了參法師翻譯：
+| 
+| 「若人穿袈裟，不離諸垢穢，無誠實克己，不應著袈裟。
+| 若人離諸垢，能善持戒律，​克己與誠實，彼應著袈裟。」
+| 
+| 
+| 淨海法師翻譯：
+| 
+| 「雖然穿著袈裟，不除滅垢穢（煩惱），缺少自制和真實，不應穿著袈裟。
+| 棄除垢穢（煩惱），持戒而內心寂靜，有自制和真實，確可穿著袈裟。」
+| 
+
+給讀者的印象是，似乎必需除盡煩惱垢穢、具足戒律與真諦，才能穿袈裟。
+
+實際上，巴利用字是「將來式」，有決心並努力去達成「除盡煩惱垢穢、具足戒律與真諦」，才「值得」穿袈裟。
+
+偈頌並未主張「沒有修證就不能穿袈裟」。
+
+-------
+
+巴利《法句經》第一品為〈Yamaka vaggo 雙品〉，下列各語言版本都有〈雙品〉：
 
     1. 巴利《法句經》，第一品
 
@@ -1509,6 +1553,7 @@ Dhp. 020
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  07-10 rev. Dhp. 001, 006, 007, 008 and the conclusion of chap. 01, proofread by the author-- Ken Su 
   07-08 rev. the whole chapter, proofread by the author-- Ken Su
   原始貼文：臉書公開社團-- `瀚邦佛學研究中心 <https://www.facebook.com/groups/491306231038114/>`__ , 2021-01-04-15:28; https://www.facebook.com/groups/491306231038114/permalink/1728314027337322/
 
