@@ -2,7 +2,7 @@
 ######################################################################
 
 :date: 2021-02-16
-:modified: 2021-06-10
+:modified: 2021-07-11
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》, Dhammapada, 白話文版（含巴利文法分析， 蘇錦坤 著 2021）
@@ -39,6 +39,16 @@
 - BRAHMANA_ VAGGO (383~423) 第廿六：波羅門品
 - Note_ 附錄：巴利文法簡介
 
+------
+
+歡迎在相關部落格留言指正、補充、討論、批評。
+
+「巴利《法句經》偈頌句型及詞彙討論平台」(https://www.facebook.com/groups/484533056446281)
+
+「台語與佛典」(http://yifertw.blogspot.com)
+
+------
+
 **Namo tassa bhagavato arahato sammāsambuddhassa**
 
 **禮敬世尊、阿羅漢、圓滿自覺者**
@@ -47,9 +57,6 @@
 
 序
 ------
-
-序
----
 
 蘇錦坤　Ken Su
 
@@ -8018,16 +8025,16 @@ http://yifertw.blogspot.com/2018/06/blog-post_24.html
 | 
 | 《出曜經》卷22〈廣演品 25〉：
 | 
-| 「雖復壽百年，懈怠不精進，
-| 　不如一日中，精進不怯弱。」(CBETA, T04, no. 212, p. 725, b4-5)。
+| 「雖復壽百歲，不知生滅事，
+| 　不如一日中，曉了生滅事。」(CBETA, T04, no. 212, p. 725, b22-23)。
 | 
 | 《法集要頌經》卷3〈廣說品 24〉：
 | 
-| 「若人壽百歲，懈怠劣精進，
-| 　不如一日中，勇猛行精進。」(CBETA, T04, no. 213, p. 789, a22-24)。
+| 「若人壽百歲，不觀生滅法，
+| 　不如一日中，而解生滅法。」(CBETA, T04, no. 213, p. 789, a24-26)。
 | 
 
-梵文《法句經》對應偈頌位於〈24 教說品〉，Uv 24.5。
+梵文《法句經》對應偈頌位於〈24 教說品〉，Uv 24.6。
 
 -----
 
@@ -29041,6 +29048,12 @@ F. 名詞的八個格：
 
 蘇錦坤 Ken Su， `獨立佛學研究者 <https://independent.academia.edu/KenYifertw>`_ ，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>`_ 部落格格主
 
+歡迎在相關部落格留言指正、補充、討論、批評。
+
+「巴利《法句經》偈頌句型及詞彙討論平台」(https://www.facebook.com/groups/484533056446281)
+
+「台語與佛典」(http://yifertw.blogspot.com)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - `法句經 首頁 <{filename}../dhp%zh.rst>`__
@@ -29048,6 +29061,7 @@ F. 名詞的八個格：
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  07-11 rev. Dhp.113
   07-10 rev. preface, Dhp. 001, 006, 007, 008 and the conclusion of chap. 01, proofread by the author-- Ken Su
   07-09 rev. preface, chap 1~5, conclusion of 5, add: 26th 波羅門品 Brāhmaṇavaggo, note of gramma
   06-09 rev. Dhp. 066 (proofread by the author-- Ken Su)
