@@ -2,7 +2,7 @@
 ######################################################################
 
 :date: 2021-02-16
-:modified: 2021-07-11
+:modified: 2021-07-16
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》, Dhammapada, 白話文版（含巴利文法分析， 蘇錦坤 著 2021）
@@ -23683,7 +23683,7 @@ Dhp. 339
 | 「三十六使流，并及心意漏，
 | 　數數有邪見，依於欲想結。」(CBETA, T04, no. 213, p. 795, c13-14)
 | 
-| 梵文《法句經》無對應偈頌。
+| 梵文《法句經》對應偈頌位於〈31 心意品〉，Uv 31.29。
 | 
 
 ------
@@ -29061,6 +29061,7 @@ F. 名詞的八個格：
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  07-16 rev. Dhp. 339, old: 梵文《法句經》梵文《法句經》無對應偈頌。 proofread by the author-- Ken Su
   07-11 rev. Dhp.113
   07-10 rev. preface, Dhp. 001, 006, 007, 008 and the conclusion of chap. 01, proofread by the author-- Ken Su
   07-09 rev. preface, chap 1~5, conclusion of 5, add: 26th 波羅門品 Brāhmaṇavaggo, note of gramma
