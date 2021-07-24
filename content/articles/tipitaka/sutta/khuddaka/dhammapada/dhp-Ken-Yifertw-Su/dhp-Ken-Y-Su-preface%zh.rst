@@ -107,8 +107,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
-​
-..
+​..
   07-24 add: 作者簡單宣告
   07-09 rev: almost new (proofread by the author-- Ken Su)
   01-25 add: Wei-jen Teng (鄧偉仁教授) 對話
