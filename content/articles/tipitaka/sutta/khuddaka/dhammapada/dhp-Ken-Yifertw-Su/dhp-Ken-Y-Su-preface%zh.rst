@@ -3,7 +3,7 @@
 ===========================================================================
 
 :date: 2021-01-24
-:modified: 2021-07-09
+:modified: 2021-07-24
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 代序--《法句經》, Dhammapada, 白話文版（含巴利文法分析， 蘇錦坤 著 2021）
@@ -87,6 +87,20 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 - 府城佛教網 首頁 https://nanda.online-dhamma.net
 
+------
+
+作者簡單宣告：
+
+1. 此書可以開放印刷成書，不過請勿銷售販賣。
+
+2. 此書的本意是，作為巴利《法句經》偈頌解析的可以討論與改進的平台。所以希望讀者不要將此書的任何內容當作定論。
+
+3. 歡迎專家學者與諸山大德予以訂正，也請前往原臉書(Facebook)群組-- `巴利《法句經》偈頌句型及詞彙討論平台 <https://www.facebook.com/groups/484533056446281>`__ 留言，讓原作者能進一步改正。但是，如為佛法的初學者，請盡量保留原貌。(目前為止，已有鄧教授、關教授及 SF Chin 三位提出建言與斧正)。
+
+4. 原作者考慮在下一版增添「漢巴詞彙索引」，同時計畫將翻譯詞彙固定下來，第一版有時在不同偈頌將同一詞彙作不一致的翻譯。
+
+請轉印時，將以上四點印於「作者序」之後，謝謝！
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - `法句經 首頁 <{filename}../dhp%zh.rst>`__
@@ -95,6 +109,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 ​
 ..
+  07-24 add: 作者簡單宣告
   07-09 rev: almost new (proofread by the author-- Ken Su)
   01-25 add: Wei-jen Teng (鄧偉仁教授) 對話
   2021-01-24 create rst
