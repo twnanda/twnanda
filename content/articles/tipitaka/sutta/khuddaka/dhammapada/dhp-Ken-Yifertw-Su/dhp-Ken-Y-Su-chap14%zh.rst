@@ -3,7 +3,7 @@
 ====================================================================================================
 
 :date: 2021-01-24
-:modified: 2021-06-07
+:modified: 2021-07-24
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 第十四：佛陀品（《法句經》, Dhammapada, Buddhavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
@@ -55,7 +55,7 @@ Dhp. 179
 | Yassa jitaṃ nāvajīyati, jitaṃ assa no yāti koci loke;
 | Taṃ buddhamanantagocaraṃ, apadaṃ kena padena nessatha. (179)
 | 
-| 這他的勝利不會退失，世間無人能跟上他的勝利，
+| 他的勝利不會退失，世間無人能跟上他的勝利，
 | 這位境界無量的佛陀無跡可尋，你們以何方式導引他？(179)
 | 
 
@@ -1274,6 +1274,7 @@ Dhp. 196
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  07-24 rev. Dhp. 179 old:這他的勝利不會退失， (proofread by the author-- Ken Su)
   06-07 rev. Dhp. 180 old:三個句子 (proofread by the author-- Ken Su)
   03-19 finish editing
   2021-01-24 create rst
