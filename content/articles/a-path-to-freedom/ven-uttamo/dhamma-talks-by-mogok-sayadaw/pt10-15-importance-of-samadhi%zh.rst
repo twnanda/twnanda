@@ -3,12 +3,12 @@ Importance of Samādhi
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-11-05
+:modified: 2021-07-28
 :tags: Samādhi, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Importance of Samādhi (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-11-05
+revised on 2021-07-28
 
 ------
 
@@ -54,7 +54,7 @@ You know about yourself. Knowing the anicca khandha as anicca khandha is quite v
 
 Why is that? Because no samādhi and not knowing about the arising and passing away of them. So these things are following us. It becomes clear that uncountable dukkha are coming to us. If not coming now and it’ll be after death because the sec ③ of D.A. process (i.e., taṇhā, upādāna and kamma → jāti) will follow.
 
-A person with samādhi comes to anicca/magga, and taṇhā, upādāna and kamma cease to arise. Knowing rightly is magga. Someone having no samādhi sees only feeling, but don’t know rightly as anicca. So he follows with taṇhā, upādāna and kamma, and saṁsāra becomes long because he don’t have samādhi and paññā. 
+A person with samādhi comes to anicca/magga, and taṇhā, upādāna and kamma cease to arise. Knowing rightly is magga. Someone having no samādhi sees only feeling, but don’t know rightly as anicca. So he follows with taṇhā, upādāna and kamma, and saṁsāra becomes long because he does not have samādhi and paññā. 
 
 It is not knowing rightly without samādhi, and will be sent by kamma to rebirth. Arriving into the cow dung, it became a dung beetle. Queen Upari didn’t understand this kind of dhamma; she died and became a dung beetle. Kamma sent her there because it was following with taṇhā, upādāna and kamma. 
 
@@ -70,7 +70,7 @@ You know that the wound will grow out. Shouldn’t you do the thing which can pr
 
 ------
 
-revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36203#p36203 (posted on 2019-03-29)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36203#p36203 (posted on 2019-03-29)
 
 ------
 
@@ -89,5 +89,6 @@ revised on 2019-11-05; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-07-28 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-29  create rst; post on 05-01

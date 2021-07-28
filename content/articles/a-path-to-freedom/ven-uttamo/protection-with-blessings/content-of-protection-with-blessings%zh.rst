@@ -3,7 +3,7 @@ Content of Maṅgala Sutta – Protection with Blessing
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2021-07-06
+:modified: 2021-07-28
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Content of Maṅgala Sutta – Protection with Blessing
@@ -126,6 +126,8 @@ By Venerable Uttamo（鄔達摩尊者）
 
 - `Postscript <{filename}mangala-blessings-postscript%zh.rst>`_
 
+- `About the Author <{filename}mangala-blessings-about-the-author%zh.rst>`_
+
 ------
 
 - `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text.pdf>`__ (PDF, 2021-03-27); 
@@ -151,10 +153,11 @@ By Venerable Uttamo（鄔達摩尊者）
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-28 add: About the Author
   07-06 add: cover of 18-days & Maṅgala Sutta
   04-23 del covers of four books for the consideration of copyright
-  03-28 add & rev. proofread by bhante 03-26
-  2020-09-08 rev. the 4th proofread by bhante
+  2021-03-28 add & rev. proofread by bhante 03-26
+  09-08 rev. the 4th proofread by bhante
   2020-07-31 rev. the 3rd proofread by bhante
   07-22 rev. the 2nd proofread by bhante
   07-11 add linkings of full-text

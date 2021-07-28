@@ -3,12 +3,12 @@ Introduction (Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat)
 ==================================================================================
 
 :date: 2019-01-13
-:modified: 2020-02-27
+:modified: 2021-07-28
 :tags: Introduction, Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Introduction (Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat)
 
-revised on 2020-02-27
+revised on 2021-07-28
 
 ------
 
@@ -28,17 +28,17 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 
 “Eighteen Days in Solitude” is not a famous novel like “The Hundred Days in Solitude” for entertainment, which you can't take anything with you after death. These were the instructional Dhamma talks on Samatha-Vipassanā practice. It was given in the year of 2002 during the 18 days retreat in Rangoon. Ven. U Ādiccaramsī, the meditation teacher was not well-known outside Burma either. But he was well-known in Burma as an author and Dhamma teacher; an interesting and colorful man in his life. 
 
-The following short biography came from two of his books, the famous and best seller, “The Story of a Man Who has Faith and Taken Refuge in the Triple Gems”. And the second book was “A Man Walking on the Path of Spiritual Knowledge”, and from some of his talks. This short biography is not promoting the identity view which all Buddhists should be abandoned, but for a reflection on Dhamma. There were many things we can learn from his life. The Buddha always emphasized on wisdom (paññā). Without wisdom or wisdom faculty, human beings, out of ignorance and craving create a lot of problems in life, and in societies around the world.
+The following short biography came from two of his books, the famous and best seller, “The Story of a Man Who has Faith and Taken Refuge in the Triple Gems”. The second book was “A Man Walking on the Path of Spiritual Knowledge”, and from some of his talks. This short biography is not promoting the identity view which all Buddhists should be abandoned, but for a reflection on Dhamma. There were many things we can learn from his life. The Buddha always emphasized on wisdom (paññā). Without wisdom or wisdom faculty, human beings, out of ignorance and craving create a lot of problems in life, and in societies around the world.
 
 He was born in 1937 as Sun Lwin in the south-western part of Burma. Being the only son to a Muslim parent, so when he was young, he was forced by his father to be educated by the Koran. He never easily accepted anything with blind faith without knowing them clearly. His father appointed a good teacher for Koran teaching. Because of his intelligent and philosophical mind always questioned about the existence of God and the Creation. He asked questions to his teacher who wouldn’t give the proper answers to satisfy his mind. At last he said to his father that he wouldn’t accept any religions without knowing clearly.
 (Here we can see the importance of free inquiry and direct experience which the Buddha always encouraged in the Kalama Sutta and others. Even with intelligence, human beings are not wise enough so that create a lot of human problems in today world.)
 This made his father very angry and later it broke up the family apart. After finishing his high school, he went to Rangoon. He worked at day time in a government office and studied at a night time university. There he met a Christian woman and fell in love with her. Out of love he wanted to become a Christian and studied Christianity (Lust is stronger than faith. Here was the same God and Creation). After over three years, with different views and feelings, they were separated. And then his mother arranged a Muslim woman for him. He married this woman out of respect for his mother. In his last year of B.A degree, he moved to Rangoon University and continued the study on Philosophy. For this purpose he resigned his job as a government staff and taught as a teacher at night-time schools.
 
-From that period, he started writing romantic short stories. With his interest and sharp mind passed his B.A degree with distinction in Philosophy on Ethics. This was the first time happened in the history of Philosophy Department. He continued his M.A degree and taught as a tutor at the Department. As a Philosophy teacher he was an atheist and influenced by Marxism-Leninism and Mao Tse-Tung Thought or communist literatures. He didn’t have a happy family life and it became degenerated and ended up with divorce (There were some reasons behind this. The most important was the fanatic view of his Muslim wife). Later he met another young Buddhist Chinese woman who was one of his students. He married her because she resembled his first love whom he couldn’t forget (The main cause was they had strong kammic link from their past lives). 
+From that period, he started writing romantic short stories. With his interest and sharp mind passed his B.A degree with distinction in Philosophy on Ethics. This was the first time happened in the history of Philosophy Department. He continued his M.A degree and taught as a tutor at the Department. As a Philosophy teacher he was an atheist and influenced by Marxism-Leninism and Mao Tse-Tung Thought or communist literatures. He didn’t have a happy family life and it became degenerated and ended up with divorce (There were some reasons behind this. The most important one was the fanatic view of his Muslim wife). Later he met another young Buddhist Chinese woman who was one of his students. He married her because she resembled his first love whom he couldn’t forget (The main cause was they had strong kammic link from their past lives). 
 
 One day his teacher Professor Dr. U Khin Maung Win (Yale University graduate, later he became the Educational Minister) gave him an assignment for writing a textbook on Buddhist Ethic in Burmese. As a curriculum for students in Philosophy, he was already success in writing books and a bright person, but didn’t know much about Buddhism except in the Philosophy books. This was a great turning point in his life. This was also a very strange case because there were other Buddhist teachers in the Department. He came from the Muslim family and didn’t know much about Buddhism. The working of kamma was inconceivable. He had strong kammic link with Buddhism in his past lives.
 
-So, he studied and researched diligently for many months with Buddhist texts in English and Burmese. Near the end of his research, his teacher told him to stop the project. The reason was his teacher wanted to send him to Northern Burma, the Kachin State as the head of philosophy Department, and an assistant lecturer. Even though he didn’t has the chance for writing the textbook, gained the priceless knowledge of Buddhism. During these periods, he wrote some books on Philosophy; “ABC of Philosophy”, “Philosophers of the World”, “Chinese Philosophers”, “Russian Philosophers”, “Einstein”(a biography in two volumes), etc. He also studied world religions and wrote a book on world religions. With the knowledge on religions, he preferred Buddhism to more than others. But still he was not becoming a Buddhist yet. Because he still couldn’t accept the idea of rebirth and need to verify it. Later he encountered evidences for rebirth and the law of Kamma. 
+So, he studied and researched diligently for many months with Buddhist texts in English and Burmese. Near the end of his research, his teacher told him to stop the project. The reason was his teacher wanted to send him to Northern Burma, the Kachin State as the head of philosophy Department, and an assistant lecturer. Even though he didn’t has the chance for writing the textbook, but gained the priceless knowledge of Buddhism. During these periods, he wrote some books on Philosophy; “ABC of Philosophy”, “Philosophers of the World”, “Chinese Philosophers”, “Russian Philosophers”, “Einstein”(a biography in two volumes), etc. He also studied world religions and wrote a book on world religions. With the knowledge on religions, he preferred Buddhism to more than others. But still he was not becoming a Buddhist yet. Because he still couldn’t accept the idea of rebirth and need to verify it. Later he encountered evidences for rebirth and the law of Kamma. 
 
 It mentioned an incident on rebirth in his second book on his life, “A Man Walking on the Path of Spiritual Knowledge”. As a young boy in the primary school, one day the teacher taught about Taunggnoo History (round about 14th or 15th century). The teacher told the story of a Burmese King from Ava (Inwa) Kingdom attacked the Kingdom of Taunggnoo (it was recorded in the history book). At the end of the story, he suddenly cried. The teacher asked him the reason. He only said to her that in his past life he was a Buddhist. In the evening after back home and told his mother what had happened. At that time he was the king of Ava and with the help of his teacher, a Burmese monk named Phamei Sayadaw conquered Taunggnoo kingdom. He told his mother in details of the episode. This was remembering one of his past lives as a young boy.
 
@@ -52,7 +52,7 @@ One time he hypnotized one of his old university students. This male student in 
 
 He continued to ask her where about in her last life from this life. In her last life, she was the daughter of a well-known traditional doctor in a city in Burma. Later she ordained as a nun. So, it was easy for him to make inquiries by following the story. After some inquiries, it was confirmed what she had said before. It solved his doubts on rebirth and the law of kamma. During the periods of his treatments to illnesses with hypnotism and made records of them with the photos of these people, later he wrote a book about them. Publication censor-board did not allow to publish this book. [It's quite a strange censorship by a Buddhist government. Even western scientists were making researches about rebirths (for them was reincarnations) quite a long time ago and they confirmed it also. These are not superstitions and even helping to understand rebirths and law of kamma which are important for Buddhism. The education on law of Kamma and Rebirth are very important for human knowledge.]
 
-Later he became a Buddhist and wrote a book on his life, entitled “The Story of a Man Who has Faith and Taken Refuge in the Triple Gems.” It came out in 1989 and became a best seller book in Burma. Reprinted quite a few times and made him rich and very well known. It had four volumes; volume I “Three World Religions and Sun Lwin”, volume II “World Philosophy and Sun Lwin, volume III “The Buddhist Texts and Sun Lwin” and volume IV “On the Way to Perfection and Sun Lwin”. The fourth volume had six chapters, and its sub-title were as follow:
+Later he became a Buddhist and wrote a book on his life, entitled “The Story of a Man Who has Faith and Taken Refuge in the Triple Gems.” It came out in 1989 and became a best seller book in Burma. Reprinted quite a few times and made him rich and very well known. It had four volumes; volume I “Three World Religions and Sun Lwin”, volume II “World Philosophy and Sun Lwin, volume III “The Buddhist Texts and Sun Lwin” and volume IV “On the Way to Perfection and Sun Lwin”. The Volume IV has six chapters, which are subtitled as follows:
 
 | ①	 The clues of round of existence (samsara) and law of cause and effect
 | ②	 The questions on past life problem and answers from Buddhism
@@ -70,7 +70,7 @@ Later he established a meditation centre there. Also, he was busy with moving ac
 
 ------
 
-revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35450 (posted on 2018-12-14)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35450 (posted on 2018-12-14)
 
 ------
 
@@ -85,6 +85,8 @@ revised on 2020-02-27; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-28 rev. proofread by bhante
+  2021-03-15 rev. proofread by bhante
   2020-02-27 add Venerable U Ādiccaramsī's Portrait
   12-08 rev. proofread by bhante
   12-05 rev. proofread by bhante

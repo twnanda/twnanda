@@ -3,12 +3,12 @@ Perversions
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-09-12
+:modified: 2021-07-28
 :tags: perversion, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Perversions (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-09-12
+revised on 2021-07-28
 
 ------
 
@@ -20,7 +20,7 @@ We have to correct our mistakes on the khandha with our own knowledge. There are
 
 Therefore these are twelve inversions always surrounding the five khandhas. We were in many lives in such situations. It has been like surrounded by walls. The inner part is the khandhas and 31 realms are the outer walls. According to the truth these are dukkha and samudaya (the cause). 
 
-Fuels and fire are together. So beings are becoming fire ghosts. In the awaken times, people are always burning with the kilesa fire. In the sleeping times they are always burning with the life of aging. It was like burning all the times with fire in the security prison. 
+Fuels and fire are together. So beings are becoming fire ghosts. In the awaken times, people are always burning with the kilesa fire. In the sleeping times they are always burning with the fire of aging. It was like burning all the times with fire in the security prison. 
 
 It was surrounded by the twelve walls of ignorance. If we don’t know our worst situations will never find the way out. These mistakes come from the khandha. By clearing away the khandha and it will disappear. 
 
@@ -84,7 +84,7 @@ The Pali word saṁvega became a Burmese word like anicca, dukkha and anatta, bu
 
 ------
 
-revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35730#p35730 (posted on 2019-01-11)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35730#p35730 (posted on 2019-01-11)
 
 ------
 
@@ -103,6 +103,7 @@ revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-07-28 rev. proofread by bhante
   09-12 rev. proofread by bhante; add: Note on saṁvega; rev. some sentances: from hundred thousand aeons (kappa)..., ..., In the 31 realms of existence, there are only saṅkhāra and anicca.
   08-12 rev. proofread by bhante
   04-28 rev. replace inversion with perversions

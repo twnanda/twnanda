@@ -3,12 +3,12 @@ APPENDIX
 ===========================
 
 :date: 2020-12-30
-:modified: 2021-01-27
+:modified: 2021-07-28
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: APPENDIX (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-27
+revised on 2021-07-28
 
 ------
 
@@ -35,7 +35,7 @@ revised on 2021-01-27
 On Mind Development
 ~~~~~~~~~~~~~~~~~~~~~
 
-In the Dhammapada Verse-183, the Buddha replied to Ānanda on the instructions given by all the Buddhas was: “Not to do evil, to cultivate merit and to purify one’s mind. This is mind development for all humans, as training in sīla, samādhi and paññā. In the Theravada tradition we see more meditation systems than other traditions. One of the main reasons is Theravada bhikkhus have the strong tradition of study the Dhamma, Vinaya and their commentaries. There are some western scholars rejected the commentaries as not authentic. An internationally well-known Burmese teacher asked this question, “How many commentaries have they studied before?” Asian Buddhist tradition has a very long history with commentaries it even can be said as it started from Ven. Mahākaccāna. This tradition was handed down by teacher to teacher. It also had a long history of study and practice. The Buddha-dhamma always requires a teacher to teach the Dharma and its practice, unlike other worldly knowledges. We can only decide whether a teaching and system is authentic or not by its practice and results, not by thinking and its proliferation.
+In the Dhammapada Verse-183, the Buddha replied to Ānanda on the instructions given by all the Buddhas was: “Not to do evil, to cultivate merit and to purify one’s mind. This is mind development for all humans, as training in sīla, samādhi and paññā. In the Theravada tradition we see more meditation systems than other traditions. One of the main reasons is Theravada bhikkhus have the strong tradition of study the Dhamma, Vinaya and their commentaries. There are some western scholars rejected the commentaries as not authentic. An internationally well-known Burmese teacher asked this question, “How many commentaries have they studied before?” Asian Buddhist tradition has a very long history with commentaries it even can be said as it started from Ven. Mahākaccāna. This tradition was handed down by teacher to teacher. It also had a long history of study and practice. The Buddha-Dhamma always requires a teacher to teach the Dharma and its practice, unlike other worldly knowledges. We can only decide whether a teaching and system is authentic or not by its practice and results, not by thinking and its proliferation.
 
 Among the Theravada Buddhist countries, there are more meditation systems in Burma than in other countries because of the strong tradition of study and practice.
 
@@ -49,11 +49,11 @@ Q: U Ba San, I am illiterate, Can I practise your Dhamma?
 A: Literate or illiterate is not a necessary thing. The important thing is having true belief and really doing it. You need saddhā (faith) and viriya (perseverance).
 
 Q: Then, please tell me how to do it.
-A: Just nothing the in-breath and out-breath.
+A: Just noting the in-breath and out-breath.
 
 After U Ba San answered U Kyaw Din’s questions (i.e., Soon Loon Sayadaw’s lay-name) and he went into the groups of people for Dhamma discussion. (these Dhamma discussions were done at U Kyaw Din’s house.) With that much instruction U Kyaw Din started to do his practice. After practising for two or three days, his in-breath and out-breath became smooth.
 
-Then his friend U Shwe Lok came to his house. (U Shwe Lok had practised satipaṭṭhāna bhāvanā before.) He told him about his practice. U Shwe Lok corrected him by saying; “You have to follow with knowing.” U Kyew Din asked him again; “How to follow it with knowing?” He answered him very easily as; “Just knowing, knowing.” “What will happen if I follow with knowing?” “You’ll get merit.” “I’ll do it if I get merit.” In this way U Kyaw Din did the practice diligently with strong determination and faith. He also did his daily chores with sati and knowing. His daily chores were finished smoothly and easily with mindfulness practice. His samādhi developed and seeing light nimitta. With sati, samādhi and viriya he observed the physical sensations of touching (i.e., paṭhavī—earth element) in his whole body with his daily activities. Even he could make the meditation dictum on the practice as—Touching, Knowing, Sati “U Kavi became a tevijja arahant as a novice after four months with the practice.
+Then his friend U Shwe Lok came to his house. (U Shwe Lok had practised satipaṭṭhāna bhāvanā before.) He told him about his practice. U Shwe Lok corrected him by saying; “You have to follow with knowing.” U Kyaw Din asked him again; “How to follow it with knowing?” He answered him very easily as; “Just knowing, knowing.” “What will happen if I follow with knowing?” “You’ll get merit.” “I’ll do it if I get merit.” In this way U Kyaw Din did the practice diligently with strong determination and faith. He also did his daily chores with sati and knowing. His daily chores were finished smoothly and easily with mindfulness practice. His samādhi developed and seeing light nimitta. With sati, samādhi and viriya he observed the physical sensations of touching (i.e., paṭhavī—earth element) in his whole body with his daily activities. Even he could make the meditation dictum on the practice as—Touching, Knowing, Sati “U Kavi became a tevijja arahant as a novice after four months with the practice.
 
 (Sayadaw’s realization of Dhamma came by each stage exactly a month each. In the 3rd month he became an anāgāmi and could not live with his wife Daw Shwe Yi, so he asked permission from her to let him ordained as a novice. But his wife did not let him go. At last, with the help of the village folks he became a novice.)
 
@@ -69,15 +69,15 @@ He did the ānāpānasati by observing the in-breath and out-breath at the tip o
 
 From the three teachers above, we see the importance and benefits of the system, especially for someone who has no teacher to guide him. Also, we can select anyone of the systems to suit our nature and interest. Even though we cannot find anyone of the systems exactly in the suttas it does not mean that it is not authentic. It was also not possible for a Buddha to teach all the possible systems in his teachings, but we can find general outline and view in these systems (i.e., a true system). Each teacher taught his students according to his practice and experiences. Only the Buddha knows how to teach each person according to his own character and maturity. The other people find a teacher or study the suttas and existing systems to find out their ways with trials.
 
-The Buddha-dhamma is simple and direct but profound. Only with a qualified teacher (skill in pariyatti and paṭipatti—having both skills) to understand them clearly (e.g., Ledi Sayadaw). This was one reason we can see young yogis (i.e., children) in the Buddha’s time and even today. (there were some young yogi’s records in Burmese systems.) The records of the illiterate teachers and illiterate yogis support the important role of a teacher. Here I am not exaggerating on any meditation systems. There are some people who look down on systems and reject them. Meditation systems are unavoidable for most people. They need it. Even there are learned monks who do not know the practice.
+The Buddha-Dhamma is simple and direct but profound. Only with a qualified teacher (skill in pariyatti and paṭipatti—having both skills) to understand them clearly (e.g., Ledi Sayadaw). This was one reason we can see young yogis (i.e., children) in the Buddha’s time and even today. (there were some young yogi’s records in Burmese systems.) The records of the illiterate teachers and illiterate yogis support the important role of a teacher. Here I am not exaggerating on any meditation systems. There are some people who look down on systems and reject them. Meditation systems are unavoidable for most people. They need it. Even there are learned monks who do not know the practice.
 
 The meditation systems of Burma and Thailand are well known in both Asia and the West. But they do not know each other very well because of the differences in their modes and ways of practice. The Burmese systems were based on the suttas and commentaries and the Thai on the suttas. Most of the Burmese systems were discovered by the monks, and very few by laymen (e.g., Anagam Saya Thet who was Sayagyi U Ba Khin’s teacher. Saya Thet’s life was quite interesting. His main teacher was Ledi Sayadaw, but he had studied and practised under many teachers of his time.). Much of the Thai tradition is associated with forest monks. What I know from the Thai forest tradition they did not pay much attention to the commentaries, but they had some knowledge about the suttas. 
 
 Some Thai forest monks thought that without jhāna samādhi and insight was impossible. I do not know how many Burmese know about the Thai forest tradition vice versa. Some years ago, I had met a well-known Abhidhamma teacher in Burma. (He was a lay Buddhist.) He showed me a small booklet, the English translation of Ajahn Cha’s talk and made a critical comment. I thought he did not find any evidences of the suttas, commentaries and Abhidhamma in it. Then I responded him by referring to We-bu Sayadaw’s teaching and system. People who know Sayadaw’s teaching will understand what I mean. It was very simple. The best way to justify any teaching and system is only by practise, its result and time. Inauthentic Dhamma will disappear very quickly and cannot last long.
 
-Mogok Sayadaw’s talks are quite unique. By listening many times with contemplation, it can lead to dispassion with the khandhas and the external world. A Dhammakathika has this quality to teach people, and this was the also mentioned by Buddha. It was like listening to teachings of the Buddha and his great disciples. 
+Mogok Sayadaw’s talks are quite unique. By listening many times with contemplation, it can lead to dispassion with the khandhas and the external world. A Dhammakathika has this quality to teach people, and this was also mentioned by the Buddha. It was like listening to the teachings of the Buddha and his great disciples. 
 
-There were some monks who had learned and were trained under Mogok's teachings and since became meditation teachers to teach others. Each teacher had a different style, but the overall view and rules were the same. There are also some misinterpretations to Sayadaw’s talks. Some think Sayadaw’s system was pure satipaṭṭhāna practise like the Mahāsi System (i.e., sukkha-vipassanā). Sayadaw himself never gave a complete system and guidance as Mahāsi System. He was pointing the way and it process generally with many talks based on suttas, commentaries and from his own wisdom. From the many talks we can know the overall view of his insight practice.
+There were some monks who had learned and were trained under Mogok's teachings and since became meditation teachers to teach others. Each teacher had a different style, but the perspective and rules were the same. There are also some misinterpretations to Sayadaw’s talks. Some think Sayadaw’s system was pure satipaṭṭhāna practise like the Mahāsi System (i.e., sukkha-vipassanā). Sayadaw himself never gave a complete system and guidance as Mahāsi System. He was pointing the way and it process generally with many talks based on suttas, commentaries and from his own wisdom. From the many talks we can know the overall view of his insight practice.
 
 Here I want to present the meditation instruction of Sayadaw Puññananda's from his talks but not a complete translation and only a general outline. It seems to me the teaching is very clear and easy to practise. Anyone who is interested can give it a try.
 
@@ -159,7 +159,7 @@ There are two kinds of khandhas:
 
 1. Original khandha (the body) 2. Arising khandha
 
-It can be called the concept khandha and paramattha khandha. The yogi has to contemplate the arising khandha. If one does not overcome the pains when dukkha vedanās arise, the mind also becomes painful because we mix up the two khandhas. We see the pains with normal eye; this is seeing with self-view—atta to anupassati. Have to contemplate the arising khandha with knowledge eye (ñāṇa eye). When discern anicca, only the body is aching and not affecting the mind. The mind can bear with the painful feeling.
+It can be called the concept khandha and paramattha khandha. The yogi has to contemplate the arising khandha. If one does not overcome the pains when dukkha vedanās arise, the mind also becomes painful because we mix up the two khandhas. We see the pains with normal eye; this is seeing with self-view—attatho anupassati. Have to contemplate the arising khandha with knowledge eye (ñāṇa eye). When discern anicca, only the body is aching and not affecting the mind. The mind can bear with the painful feeling.
 
 Sayadaw gave a simile for it. Dropping a stone into the lake, and it goes down to the bottom. After it reaching to the bottom water bubbles are rising up to the surface one by one. When we are looking at each of a bubble arising to the surface, and it will burst open and disappear. If we look at all the air bubbles inside the water, they are mixed together; we cannot see them separately from each other as we can on the surface of the water. Continuity of the concept creates solidity and permanent (when the yogi discerns anicca at that moment the contemplating mind becomes upekkhā. This is a middle way—not reacting as, like or dislike.)
 
@@ -231,9 +231,9 @@ Seven Factors of Enlightenment (Bojjhaṅga)
 
 When people are sick, they look for something to rely on, because they want to cure the oppressive diseases. There is Dhamma we can relied on it, not by listening only. You have to try on the khandha dhamma to become the bojjhaṅga dhamma. There are seven bojjhaṅga dhamma: ① Mindfulness ② Discrimination of phenomena ③ persistent effort ④ Rapture ⑤ Tranquility ⑥ Concentration ⑦ Equanimity 
 
-Mindfulness, discrimination of phenomena, and concentration are the four working factors of enlightenment—karaka sambojjhaṅga. With these four factors of completion, rapture, tranquility and equanimity will arise by themselves. Without completion of the first four factors will not get it. We must know that it is not right with the first four factors if the last three factors does not arise.
+Mindfulness, discrimination of phenomena, persistent and concentration are the four working factors of enlightenment—karaka sambojjhaṅga. With these four factors of completion, rapture, tranquility and equanimity will arise by themselves. Without completion of the first four factors will not get it. We must know that it is not right with the first four factors if the last three factors does not arise.
 
-There is sati-sambojjhaṅga every time with the knowing of the arising phenomenon. For examples, every time vedanā arises, mind arises, etc. the yogi knows it. When the yogi observes the arising phenomenon, he will see the change of from its existence to non-existence. For examples, vedanā arises, after it arises and see its not-existing. Every time the object of contemplation arises observing with ñāṇa and seeing the arising and vanishing or birth and death. These khandhas are called guest khandhas. Because it does not exist all the time. The knowledge of seeing anicca is called the factor of discrimination of phenomena dhamma viriya bojjhaṅga. 
+There is sati-sambojjhaṅga every time with the knowing of the arising phenomenon. For examples, every time vedanā arises, mind arises, etc. the yogi knows it. When the yogi observes the arising phenomenon, he will see the change of from its existence to non-existence. For examples, vedanā arises, after it arises and see its not-existing. Every time the object of contemplation arises observing with ñāṇa and seeing the arising and vanishing or birth and death. These khandhas are called guest khandhas. Because it does not exist all the time. The knowledge of seeing anicca is called the factor of discrimination of phenomena—dhamma vicaya bojjhaṅga. 
 
 Every time dhamma arises with the persistent effort to discern impermanence is viriya bojjhaṅga. At the moment of discernment of anicca the mind not running away anywhere and calmly staying with the object is samādhi- bojjhaṅga. If the yogi can contemplate anicca with stability—rapture, tranquility and equanimity will complete slowly. If not developing then mindfulness, discrimination, persistent effort and samādhi- any one of them is lacking. Rapture (pīti-bojjhaṅga) will arise if four of them can work together successfully, . 
 
@@ -414,7 +414,7 @@ I have no doubt that if someone reads and reflects on Mogok Sayadaw's talk many 
 
 ------
 
-revised on 2021-01-27
+revised on 2021-07-28
 
 ------
 
@@ -433,6 +433,9 @@ revised on 2021-01-27
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-28 rev. proofread by bhante
+  02-26 proofread by bhante
+  Nanda's note: āraddha vipassanā (“Buddhist Meditation In Theory And Practice”; Original Author Paravahera Vajirañāṇa Mahāthera; New Edition Revised and Edited by Allan R. Bomhard), balava vipassanā (Chanmyay Sayadaw’s THE BUDDHA’S WAYSTO PEACE AND HAPPINESS) vipassanā] 
   2021-01-27 proofread by bhante; replace practise with practice (noun)
   2021-01-10 rev. the 1st proofread by bhante; post on 01-11
   2020-12-30 create rst; post on 12-30

@@ -3,12 +3,12 @@ Five Kinds of Right View
 ==========================================
 
 :date: 2019-01-13
-:modified: 2021-01-11
+:modified: 2021-07-28
 :tags: Right View, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Five Kinds of Right View (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-11
+revised on 2021-07-28
 
 ------
 
@@ -62,11 +62,11 @@ If you develop to the level of vipassanā sammādiṭṭhi and become a small st
 
 It's impossible to reverse him whatever religion come and whatever ways be used. He just fixes in Nibbāna without any changing. However rich with full of wealth and gems are not the real happiness. Even with these things can be in trouble and suffering. Only enter the stream is completed with the real happiness and gems of faith (saddhā), virtue (sīla), learning (suta), generosity (cāga), shame and fear of wrong doing (hiri and ottappa), wisdom (paññā) (the 7-jewels of a noble person). 
 
-These 4-points of view are always there whenerver someone becomes a stream enterer. This Dhamma is not difficult. The whole Kuru Country (during the Buddha’s time, and now is the New Deli area) practiced the Satipaṭṭhāna and had the good results. With right attention (yonisomanasikāra) will fulfill it. Every time when feeling is arising and knowing it as just feeling is right attention. If mind arising as mind and then with this right attention, it’s easy to contemplate impermanence from behind. It’s important to have right attention whatever is arising. The Buddha mentioned in the Aṅguttara Nikāya was by right attention whatever not increasing dhamma (phenomena) increase and whatever increasing dhamma develop. Even if you can’t give a label to the arising phenomenon and knowing that dhamma arising is good enough. By learning (pariyatti) can give the labels. How can you do it without learnin?. By knowing that dhamma arising is right attention. In the Buddha’s time Suppabuddha (Suppabuddhakuṭṭhisuttaṃ of Udāna, Khuddakanikāya) the leper and drunkard were no learning, but they had right attention. Knowing as dhamma arising is right attention. It’s not a person/ not a being and passing away. By following behind with this knowing is vipassanā. Follow behind the Path are 2 or 3 fruitions (phalas). Follow behind vipassanā knowledge are many fruitions. I will explain a little about in fruition state. At the beginning seeing dhamma arising and passing away but without analyzing the Noble Truths such as – this is the Truth of Dukkha (Dukkha Sacca) etc. And then all the impermanence suddenly ceases and changes into Nirodha Sacca. There is no Path Knowledge anymore. Instead the fruition mind stays with Nibbāna. Fruition minds are arising continuously but they are also changing, and seeing Nibbāna unaccountably. This is in fruition state. Yogi is staying with the fruition mind.
+These 4-points of view are always there whenerver someone becomes a stream enterer. This Dhamma is not difficult. The whole Kuru Country (during the Buddha’s time, and now is the New Deli area) practiced the Satipaṭṭhāna and had the good results. With right attention (yonisomanasikāra) will fulfill it. Every time when feeling is arising and knowing it as just feeling is right attention. If mind arising as mind and then with this right attention, it’s easy to contemplate impermanence from behind. It’s important to have right attention whatever is arising. The Buddha mentioned in the Aṅguttara Nikāya was by right attention whatever not increasing dhamma (phenomena) increase and whatever increasing dhamma develop. Even if you can’t give a label to the arising phenomenon and knowing that dhamma arising is good enough. By learning (pariyatti) can give the labels. How can you do it without learning? By knowing that dhamma arising is right attention. In the Buddha’s time Suppabuddha (Suppabuddhakuṭṭhisuttaṃ of Udāna, Khuddakanikāya) the leper and drunkard were no learning, but they had right attention. Knowing as dhamma arising is right attention. It’s not a person/ not a being and passing away. By following behind with this knowing is vipassanā. Follow behind the Path are 2 or 3 fruitions (phalas). Follow behind vipassanā knowledge are many fruitions. I will explain a little about in fruition state. At the beginning seeing dhamma arising and passing away but without analyzing the Noble Truths such as – this is the Truth of Dukkha (Dukkha Sacca) etc. And then all the impermanence suddenly ceases and changes into Nirodha Sacca. There is no Path Knowledge anymore. Instead the fruition mind stays with Nibbāna. Fruition minds are arising continuously but they are also changing, and seeing Nibbāna unaccountably. This is in fruition state. Yogi is staying with the fruition mind.
 
 ------
 
-revised on 2021-01-11; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35552#p35552 (posted on 2018-12-14)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35552#p35552 (posted on 2018-12-14)
 
 ------
 
@@ -87,6 +87,7 @@ revised on 2021-01-11; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-28 rev. proofread by bhante
   2021-01-11 rev. proofread by bhante; old: "You will ask, “Everyone can see it?”"
   2020-03-04 rev. title (small letter "of") while editing PDF
   05-26 rev. proofread by bhante

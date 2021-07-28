@@ -3,12 +3,12 @@ Introduction
 ==========================================
 
 :date: 2019-01-13
-:modified: 2021-01-11
+:modified: 2021-07-28
 :tags: Introduction, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Introduction (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-11
+revised on 2021-07-28
 
 ------
 
@@ -113,7 +113,7 @@ U Loon Pe asked questions concerning with insight practice from the points of Ab
 
 Sayadaw was clearing away U Pe Win's doubts. (13th July 1962)
 
-U Pe Win, an educated man, was from southern Shan State, he believed in the Christian teachings. As an export-import businessman, he had been foreign countries for many times. He came to see Sayadaw for some of his doubts in religion.
+U Pe Win, an educated man, was from southern Shan State, he believed in the Christian teachings. As an export-import businessman, he had been to foreign countries for many times. He came to see Sayadaw for some of his doubts in religion.
 
 | U Pe Win: Venerable, I am a Christian.
 | Sayadaw: Yes.
@@ -265,6 +265,8 @@ Shwe-hin-tha Sayadaw mentioned on Mogok Sayadaw as follows.
 Tipiṭaka Sayadaw's view
 
 A lay supporter asked Sayadaw; “Ven. Sir, nowadays Mogok Vipassanā Dhammas are everywhere. Do these teachings are in accordance with the suttas, commentaries and sub-commentaries? ”Sayadaw not answered them as right or wrong. Instead he said as follow; “If the Buddha still alive will give him the title of foremost in teaching the Burmese people in Burmese language for understanding Dhamma. He could get the foremost title for Burmese Commentator.”
+
+
 Mogok Sayadaw' skill
 
 Every time when there were conditions and chances, Min-goon Tipiṭaka Sayadaw mentioned as follow; “Mogok Sayadaw had the ability or skill to take out all the meanings in a Pali verse of the Buddha. He had this amazing skill. These Pali verses were also explained by commentators and sub-commentators before. But what Mogok Sayadaw's explanations of them were more natural and complete. He had the skill of taken out all the meanings without leaving any trace of meaning behind. Even he could express other meanings which were still not including in the commentary and sub-commentary. With Burmese language he had the ability to give the exposition in complete ways.” This might be one of the reasons he referred to Mogok Sayadaw as a Burmese commentator should receive the foremost in title.
@@ -283,11 +285,11 @@ On 13th June, 1977, at Gyo-pin-kauk City. At 7:30 p.m., Sayadaw U Vicitta starte
 
 4. There are people having faith and respect in someone who has few wishes and few things (as example, Ven. Mahākassapa or forest monks). This kind of people can't attain Nibbāna.
 
-There are people having faith and respect only in Dhamma. They don't care about the voice, nor concern about the appearance, not for the qualification and fame and not care about few wishes and few things, but only have respect and veneration in the Dhamma. Only this kind of people can attain Nibbāna in this life. Their numbers are not many. If I have to give example in this day, they are the listeners of Mogok Dhamma. Mogok Sayadaw U Vimala's talks were this kind of Dhamma. It can send one to Nibbāna in one sitting. People who respect this kind of Dhamma can be praiseworthy. And then Mogok Sayadaw U Vimala's Dhammas were two armed-lengths higher than my head. (His knowledge on the Tipiṭaka was from perception. Sayadaw can recite them by heart and even can tell the page number of a subject. Mogok Sayadaw knowledge came from wisdom or penetration of the khandha process.)
+5. There are people having faith and respect only in Dhamma. They don't care about the voice, nor concern about the appearance, not for the qualification and fame and not care about few wishes and few things, but only have respect and veneration in the Dhamma. Only this kind of people can attain Nibbāna in this life. Their numbers are not many. If I have to give example in this day, they are the listeners of Mogok Dhamma. Mogok Sayadaw U Vimala's talks were this kind of Dhamma. It can send one to Nibbāna in one sitting. People who respect this kind of Dhamma can be praiseworthy. And then Mogok Sayadaw U Vimala's Dhammas were two armed-lengths higher than my head. (His knowledge on the Tipiṭaka was from perception. Sayadaw can recite them by heart and even can tell the page number of a subject. Mogok Sayadaw knowledge came from wisdom or penetration of the khandha process.)
 
 ------
 
-revised on 2021-01-11; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4022 (posted on 2018-12-14)
+revised on 2021-07-28; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4022 (posted on 2018-12-14)
 
 ------
 
@@ -324,6 +326,8 @@ revised on 2021-01-11; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=40
               | sukha: agreeable，pleasant，blest
 
 ..
+  07-28 rev. proofread by bhante
+             ?? or this: As an import/export businessman, he has traveled abroad many times. ??
   2021-01-11 rev. old:"mogok supporters" proofread by bhante
   06-25 rev. Burma (Myanmar) old:Burma; proofread by bhante
   06-15 rev. replace "Yan-gon" with "Rangoon (Yan-gon)"; proofread by bhante

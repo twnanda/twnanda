@@ -3,8 +3,8 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2021-07-04
-:tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
+:modified: 2021-07-28
+:tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
 
@@ -721,9 +721,11 @@ _`Part 13` ( `content of Part 13 <{filename}pt13-content-of-part13%zh.rst>`_ )
 
 - 33.) `The Most Dangerous Enemy <{filename}pt13-33-the-most-dangerous-enemy%zh.rst>`_ (N/A)
 
+- `About the Translator <{filename}dhamma-talks-by-mogok-sayadaw-about-the-translator%zh.rst>`_
+
 ------
 
-revised on 2021-06-08
+revised on 2021-07-28
 
 ------
 
@@ -734,12 +736,13 @@ revised on 2021-06-08
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-28 add: About the Translator
   07-04 add: Note of colourful pages
   06-08 Divided into three volumes(改分為三冊) & add cover for dhamma talk of mogok sayadaw's
   04-23 del covers of four books for the consideration of copyright
   03-28 add & rev. proofread by bhante 03-26
   02-06 rev. old: mistaken Size: B6
-  2021-01-29 rev. proofread by bhante 01-27; and change for print: (Size: B6) 
+  01-29 rev. proofread by bhante 01-27; and change for print: (Size: B6) 
   2021-01-11 rev. proofread by bhante; old: Part 13-26 Sukkha Nibbāna & old title: Conclusion (Postscript)
   2020-12-30 add: Part 13; Conclusion (Postscript) & Appendix
   2020-07-31 rev. replace introduction with Introduction

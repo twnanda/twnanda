@@ -3,12 +3,12 @@ Is It Your View or the Buddha’s View?
 =============================================
 
 :date: 2020-12-30
-:modified: 2021-01-27
+:modified: 2021-07-28
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Is It Your View or the Buddha’s View? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-27
+revised on 2021-07-28
 
 ------
 
@@ -22,7 +22,7 @@ From the history of Buddhism, we know about its disappearance in India and sprea
 
 Nowadays we can see in some traditions with their new ideas and views have difficulties in their ways and practices. Even through the original teachings of Pāli Nikāya, it is difficult to understand clearly and practice effectively without a good, experienced teacher. Sayadawji’s talks were also supported the importance of maintaining and preserving its original teaching of the Buddha.]
 
-Some people are still dissatisfied with the answer of the Buddha’s view as that much (i.e., removal of desire and lust). So, they will ask more on it. In regard to what did the Buddha teach the removal of desire and lust. This is in regard to the removal of chanda-rāga on the five khandhas. You have to answer clearly as to remove the desire and lust in any one of the khandhas. The five khandhas are dukkha sacca, so they are not meant to be clung upon and are to be separated from it. They will again ask you what the benefit of removal of them is. The result of not removal of chanda-rāga on the khandhas it—the khandha will change and perish. When it is changed and perished there arise in one sorrow, lamentation, pain, displeasure and despair. Man and woman become husband and wife, so what are they doing for it about? For making wealth and money! (one man in the audience answered) No! You’re looking for crying. (Sayadaw’s answer)
+Some people are still dissatisfied with the answer of the Buddha’s view as that much (i.e., removal of desire and lust). So, they will ask more on it. In regard to what did the Buddha teach the removal of desire and lust. This is in regard to the removal of chanda-rāga on the five khandhas. You have to answer clearly as to remove the desire and lust in any one of the khandhas. The five khandhas are dukkha sacca, so they are not meant to be clung upon and are to be separated from it. They will again ask you what the benefit of removal of them is. The result of not removal of chanda-rāga on the khandhas is—the khandha will change and perish. When it is changed and perished there arise in one sorrow, lamentation, pain, displeasure and despair. Man and woman become husband and wife, so what are they doing for it about? For making wealth and money! (one man in the audience answered) No! You’re looking for crying. (Sayadaw’s answer)
 
 You all talk about it as a marriage and become confused. You can’t live without any for crying. You have to cry if looking for crying. You’ll become unhappy if looking for unhappiness. (Sayadaw gave some examples for family life.) Please tell about the results of no desire. (i.e., removal of chanda-rāga) You have to answer in this way. One is devoid of desire, lust and clinging, then sorrow, lamentation, pain, displeasure and despair do not arise in one. This is to exhort you not to attach yourself to them if you don't want to cry (the point of which is to get relief from the dukkha).
 
@@ -43,7 +43,7 @@ This was like a person who only has one leg, instead of two legs or only has one
 
 ------
 
-revised on 2021-01-27
+revised on 2021-07-28
 
 ------
 
@@ -62,6 +62,7 @@ revised on 2021-01-27
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2021-01-27 proofread by bhanteold: Bhikkhu Ariṭṭa
+  07-28 rev. proofread by bhante
+  2021-01-27 proofread by bhante; old: Bhikkhu Ariṭṭa
   2021-01-11 rev. proofread by bhante
   2020-12-30 create rst; post on 12-30

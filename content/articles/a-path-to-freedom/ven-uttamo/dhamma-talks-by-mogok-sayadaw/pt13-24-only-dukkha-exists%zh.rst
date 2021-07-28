@@ -3,12 +3,12 @@ Only Dukkha Exists
 =============================================
 
 :date: 2020-12-30
-:modified: 2021-01-11
+:modified: 2021-07-28
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Only Dukkha Exists (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-11
+revised on 2021-07-28
 
 ------
 
@@ -34,11 +34,11 @@ The observer will see the ending of it. The ending of the khandha is Nibbāna. B
 
 (Sayadaw talked about the practice on feeling)
 
-There are no times without feeling. During the pregnancy in the womb is dukkha. After birth is also dukkha. At the time of death is dukkha. Except dukkha arising and dukkha ceasing there is nothing exists. You’ll see it clearly as it’s only dukkha. Dukkha disappears if khandha disappears, it disappears under the observing mind. Nibbāna exists at the ending of khandha. It will arrive to the end by following its process. You’ll see Nibbāna by developing it with bhāvetabba—contemplating many times. It’ll never appear by waiting for it with good kamma (including with prayers as some Buddhists and other faiths). It’ll only arise by waiting and observing with good ñāṇa. The ending of the world—loka means one’s own loke–khandha. With the not wanting mind arises for the khandha and loka—the world comes to an end (all the three worlds will come to an end for the arahant).
+There are no times without feeling. During the pregnancy in the womb is dukkha. After birth is also dukkha. At the time of death is dukkha. Except dukkha arising and dukkha ceasing there is nothing exists. You’ll see it clearly as it’s only dukkha. Dukkha disappears if khandha disappears, it disappears under the observing mind. Nibbāna exists at the ending of khandha. It will arrive to the end by following its process. You’ll see Nibbāna by developing it with bhāvetabba—contemplating many times. It’ll never appear by waiting for it with good kamma (including with prayers as some Buddhists and other faiths). It’ll only arise by waiting and observing with good ñāṇa. The ending of the world—loka means one’s own loka–khandha. With the not wanting mind arises for the khandha and loka—the world comes to an end (all the three worlds will come to an end for the arahant).
 
 ------
 
-revised on 2021-01-11
+revised on 2021-07-28
 
 ------
 
@@ -57,5 +57,6 @@ revised on 2021-01-11
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-28 rev. proofread by bhante
   2021-01-11 rev. proofread by bhante
   2020-12-30 create rst; post on 12-30

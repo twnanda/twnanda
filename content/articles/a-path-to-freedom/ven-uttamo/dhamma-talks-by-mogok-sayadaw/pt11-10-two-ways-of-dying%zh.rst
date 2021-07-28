@@ -3,12 +3,12 @@ Two Ways of Dying
 ==========================================
 
 :date: 2019-05-01
-:modified: 2021-03-26
+:modified: 2021-07-28
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Two Ways of Dying (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-03-26
+revised on 2021-07-28
 
 ------
 
@@ -65,13 +65,13 @@ This association with the wise changed her life of three months. Her mind and ac
 
 There are two important blessings which changed her miserable life into a peaceful ending. These are consorting with the wise and directing oneself rightly. Without association with wise and compassionate kalyāṇa-mittas, her life ending could be very miserable, and it would lead to the bad destination.
 
-Ageing, sickness and death are our great teachers and divine messengers. [Here divine messengers refer to the Devadata Sutta (MN 130: Devadūta Sutta, Majjhima-nikāya).] True wisdom and compassion arise only by understanding dukkha profoundly. Wisdom and compassion are inseparable like two sides of a coin. 
+Ageing, sickness and death are our great teachers and divine messengers. [Here divine messengers refer to the Devadūta Sutta (MN 130: Devadūta Sutta, Majjhima-nikāya).] True wisdom and compassion arise only by understanding dukkha profoundly. Wisdom and compassion are inseparable like two sides of a coin. 
 
 The art of living and dying are very important for everyone. We can only get this kind of precious education from the Buddha Dhamma. Everyone should train themselves with the Dhamma, otherwise we will all regret it later.
 
 ------
 
-revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36289#p36289 (posted on 2019-04-12)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36289#p36289 (posted on 2019-04-12)
 
 ------
 
@@ -90,6 +90,7 @@ revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-28 rev. proofread by bhante
   03-26 rev. proofread by bhante
   2021-03-16 rev. proofread by bhante
   12-02 rev. proofread by bhante

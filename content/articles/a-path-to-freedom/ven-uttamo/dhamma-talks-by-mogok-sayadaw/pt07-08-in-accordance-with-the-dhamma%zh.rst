@@ -3,12 +3,12 @@ In Accordance with the Dhamma
 ==========================================
 
 :date: 2019-04-28
-:modified: 2021-03-26
+:modified: 2021-07-28
 :tags: the Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: In Accordance with the Dhamma (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-03-26
+revised on 2021-07-28
 
 ------
 
@@ -31,7 +31,7 @@ Know its disenchantment if it’s showing disenchantment. Know its upekkhā if i
 
 If, it’s vanishing and you know it as vanishing, etc. It takes longer time if kilesa comes in. If not coming in, it might take a week or seven days (to fulfill). Even you can achieve it by practice in the morning and realize in the evening. It can be fulfilled from ① to ③ by prayers. No. ④ is only with practicing by yourself.
 
-It's sure for you to realize it if you can make your knowledge accordingly with impermanence. No. ④ is more important than no. ⑤. The reason is no. ④ the insight knowledge must be sharp for no. ⑤ Path Knowledge to arise Path knowledge. Have to contemplate as the arising is dukkha and the vanishing is dukkha. Their ending is the cessation of dukkha.
+It's sure for you to realize it if you can make your knowledge accordingly with impermanence. No. ④ is more important than no. ⑤. The reason is no. ④ the insight knowledge must be sharp for no. ⑤ Path Knowledge to arise. Have to contemplate as the arising is dukkha and the vanishing is dukkha. Their ending is the cessation of dukkha.
 
 No. ④ has the five path factors and ⑤ has the eight path factors. The path knowledge, the fruition knowledge and the reviewing knowledge (Paccavekkhana Ñāṇa), all are seeing the cessation of dukkha (i.e., Nibbāna).
 
@@ -45,7 +45,7 @@ The three talks here: The Hidden Treasure, Priceless Treasure of Mankind and In 
 
 ------
 
-revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35772#p35772 (posted on 2019-01-14)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35772#p35772 (posted on 2019-01-14)
 
 ------
 
@@ -64,6 +64,7 @@ revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-28 rev. proofread by bhante
   03-26 rev. proofread by bhante
   2021-03-15 rev. proofread by bhante
   09-12 rev. proofread by bhante

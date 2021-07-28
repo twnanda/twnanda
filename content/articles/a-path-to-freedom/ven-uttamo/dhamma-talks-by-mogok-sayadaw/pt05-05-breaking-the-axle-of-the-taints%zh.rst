@@ -3,12 +3,12 @@ Breaking the Axle of the Taints
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-08-13
+:modified: 2021-07-28
 :tags: taint, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Breaking the Axle of the Taints (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-08-13
+revised on 2021-07-28
 
 ------
 
@@ -93,7 +93,7 @@ The spokes are sometimes going up and down during the turning or moving (Dependi
 
 The outer wheel is moving accordingly to the axle. This is turning the round of existence—saṁsāra. Āsavasamudaya → avijjāsamudayo (From Saṃyutta Nikāya)—Taints lead to ignorance. Avijjā paccaya Saṅkhāra, Saṅkhāra paccaya jāti → jarā, maraṇa—Ignorance condition volitional formation → birth → aging and death. This is describing D. A. in short way. 
 
-By the revolving of the taint of craving/taṇhā (axle), the inner wheel of ignorance is turning. Because of ignorance volition formation arises and spokes come into existence. And then it connects with birth, aging, and death. 
+By the revolving of the taint of craving/taṇhā (axle), the inner wheel of ignorance is turning. Because of ignorance, volition formation arises and spokes come into existence. And then it connects with birth, aging, and death. 
 
 Therefore the Buddha warned us whatever offerings were made, one must remind about the destruction of the taints—āsavas. Idaṁ me puññaṁ āsavakkhayā vahaṁ hotu—may this merit for the destruction of the taints to me. Destruction of taints is Nibbāna. The destruction of taints is very important. Taints and ignorance are mutually connecting to each other. If one of them exists, the other also does. Taints have to be destroyed. 
 
@@ -152,7 +152,7 @@ Therefore you have to cut it down with the Path Knowledge. Do the job of the pat
 
 ------
 
-revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35680#p35680 (posted on 2018-12-27)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35680#p35680 (posted on 2018-12-27)
 
 ------
 
@@ -171,6 +171,7 @@ revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-07-28 rev. proofread by bhante
   08-13 rev. mogok-pt05-fig1-2.jpg-- proofread by bhante
   07-25 rev. proofread by bhante
   2019-01-13  create rst

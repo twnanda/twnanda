@@ -3,12 +3,12 @@ Don’t Let the Mind in Pain
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-07-25
+:modified: 2021-07-28
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Don’t Let the Mind in Pain (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-07-25
+revised on 2021-07-28
 
 ------
 
@@ -30,7 +30,7 @@ This kind of situation is common to people without any preparation. Anyone who h
 
 The power of knowledge (ñāṇa) is powerful than kammas. The power of kamma is unstable, going up and down like a foot ball. Then you’ll become a human foot ball. Rely on the power of knowledge. It’s very important. 
 
-You have to work for the dhamma which protect you from fall into the planes of misery and in near death will have the security. In the worldly matters people are searching for wealth for their security. In the same way in the saṁsāric journey we should prepare for security (more important than any searching)
+You have to work for the Dhamma which protects you from fall into the planes of misery and will have the security in near death. In the worldly matters people are searching for wealth for their security. In the same way in the saṁsāric journey we should prepare for security (more important than any searching)
 
 In the Khandhavagga Saṃyutta, the Buddha taught the way to security. In our past lives we were falling into hells, to animal realms, to celestial and Brahma worlds due to the unstable kammas. The Buddha warned us many times, as near death not to die regretfully for our mistakes. 
 
@@ -62,7 +62,7 @@ If you know impermanence the mind is not in pain. At the present your mind is ha
 
 ------
 
-revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35699#p35699 (posted on 2019-01-07)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35699#p35699 (posted on 2019-01-07)
 
 ------
 
@@ -81,6 +81,8 @@ revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-07-28 rev. proofread by bhante
+  (?? or: You must work for the Dharma, which can protect you from falling into the planes of misery and will feel safe before you die. ??)
   07-25 rev. proofread by bhante
   2019-01-13  create rst
   https://mogokdhammatalks.blog/

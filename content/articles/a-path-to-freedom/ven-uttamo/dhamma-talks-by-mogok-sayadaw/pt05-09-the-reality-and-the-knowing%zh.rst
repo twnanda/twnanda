@@ -3,12 +3,12 @@ The Reality and the Knowing
 ==========================================
 
 :date: 2019-01-13
-:modified: 2021-03-15
+:modified: 2021-07-28
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: The Reality and The Knowing (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-03-15
+revised on 2021-07-28
 
 ------
 
@@ -75,7 +75,7 @@ Contemplation of the mind
 1. breathing in mind and 2. breathing out mind (2 host minds)
 The two host minds are the primary objects for contemplation. You have to contemplate them if other minds (all the guest minds) are arising. 
 
-I’ll give you the contemplation of mind. Whatever you are seeing mind consciousness ness arises. Hearing and hearing consciousness, smelling and smelling consciousness, tasting and tasting consciousness arises respectively. They are arising here and passing away here. 
+I’ll give you the contemplation of mind. Whatever you are seeing mind consciousness arises. Hearing and hearing consciousness, smelling and smelling consciousness, tasting and tasting consciousness arises respectively. They are arising here and passing away here. 
 
 In the physical body there are itches, pains, etc. regarding to the unpleasant sensation with the knowing of the unpleasant physical phenomena; also regarding to the pleasant sensations with the knowing of the pleasant physical phenomena. 
 
@@ -85,7 +85,7 @@ There are two host minds always exist; breathing in and breathing out minds. The
 
 Among the 11 guest minds; if one of them arises, follow with the five path factors. Whereas follow the host mind with the path factors if nothing of them arises. The host minds are always there. Every following go with anicca and magga. 
 
-So kilesa can’t come in between them. The Buddha taught as, if you practice in the morning and became a stream enterer in the evening. And practiced in the evening and became a stream enterer in the evening. This was a teaching to Prince Bodhirājakumāra (MN.85 Bodhirājakumārasuttaṃ?). Why cannot most people realize it? Because the reality and the knowing are not fitting in. 
+So kilesa can’t come in between them. The Buddha taught as, if you practice in the morning and became a stream enterer in the evening. And practiced in the evening and became a stream enterer in the morning. This was a teaching to Prince Bodhirājakumāra (MN.85 Bodhirājakumārasuttaṃ?). Why cannot most people realize it? Because the reality and the knowing are not fitting in. 
 
 The reasons are: don’t know the way of practice and not pay attention to it. Therefore we are far from the Path and Fruition Knowledges (Magga and Phala) and Nibbāna Every time it’s arising and no contemplation, for an example, by seeing an object become wanting, clinging, action and birth which continue the D. A. process. Then we will only get dukkha. We can’t follow with knowledge and will turn around with dukkha. And then we are trying for the arising of dukkha. “Don’t we have any pāramī or not doing the practice?” (We are not doing the practice, Ven. Sir). If you have compassion to yourself, just do the practice. 
 
@@ -140,7 +140,7 @@ This is nothing to do with identity view (sakkāya diṭṭhi). Identity view pr
 
 ------
 
-revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35702#p35702 (posted on 2019-01-07)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35702#p35702 (posted on 2019-01-07)
 
 ------
 
@@ -159,6 +159,7 @@ revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-28 rev. proofread by bhante
   2021-03-15 rev. proofread by bhante
   2020-03-24 rev. image sytax, old: .. image:: {filename}/extra/img/mogok-pt05-fig3-external.jpg
                                     | :alt: Contemplation of the mind

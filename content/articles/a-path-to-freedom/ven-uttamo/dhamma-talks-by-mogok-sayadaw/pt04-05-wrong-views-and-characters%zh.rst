@@ -3,12 +3,12 @@ Wrong Views and Characters
 ==========================================
 
 :date: 2019-01-13
-:modified: 2020-05-31
+:modified: 2021-07-28
 :tags: wrong view, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Wrong Views and Characters (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2020-05-31
+revised on 2021-07-28
 
 ------
 
@@ -52,7 +52,7 @@ The difficult things is most of you are sassata people. If you have the eye sigh
 
 Uccheda people even at the utmost can make a vow to become a bodhisatta. Between the two views, uccheda person is closer to Nibbāna. If you discern the impermanence of any khandha both wrong views are gone. By seeing the arising is uccheda view, with the passing away is sassata view and both will fall away. So discerning of impermanence is very beneficial. Go and study the Pali Suttas, most of them were talking about the rise and fall (udaya and vaya), i.e., impermanence. Why is that? Because it can revolt wrong views. Now, you have encountered the Buddha’s Teachings and must do this task. 
 
-If not you will incline towards one side. Therefore I am asking you very often that "do you discern impermanence?" The same as do you have the eye-sight yet? It doesn’t mean to see all of them. Here feeling arises and then not here. Mind arises and then not here. Know the overview of it! These are important so that I have to tell you. Even in the past lives before, you might be met one of the Buddhas, but one of these wrong views prevented you from liberation. Distinguish by characters sassata person is lust temperament (rāga carita). Uccheda person is hatred temperament (dosa carita).
+If not you will incline towards one side. Therefore I am asking you very often that; "Do you discern impermanence?" The same as do you have the eye-sight yet? It doesn’t mean to see all of them. Here feeling arises and then not here. Mind arises and then not here. Know the overview of it! These are important so that I have to tell you. Even in the past lives before, you might be met one of the Buddhas, but one of these wrong views prevented you from liberation. Distinguish by characters sassata person is lust temperament (rāga carita). Uccheda person is hatred temperament (dosa carita).
 
 Whatever reason he will not do it if he doesn’t want to do something. They are blunt people (If they have faith in the Dhamma can give up their lives for the practice). They are sharp and sassata people are soft. The Buddha taught a lot of things in details, and nothing was left behind (The Buddha never had a secret teaching or left some things behind for others to discover). 
 
@@ -62,7 +62,7 @@ Only you need to take care of it ending. The khandha, like the flowing water, is
 
 ------
 
-revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4036&p=35626#p35626 (posted on 2018-12-19)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4036&p=35626#p35626 (posted on 2018-12-19)
 
 ------
 
@@ -81,6 +81,7 @@ revised on 2020-05-31; cited from https://oba.org.tw/viewtopic.php?f=22&t=4036&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-07-28 rev. proofread by bhante
   2020-05-31 proofread by bhante; replace "Soong Loog" with "Soong Loon"
   07-02 rev. proofread by bhante
   2019-01-11  create rst; post on 01-13

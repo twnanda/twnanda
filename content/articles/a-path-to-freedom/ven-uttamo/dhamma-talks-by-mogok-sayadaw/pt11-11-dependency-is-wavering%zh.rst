@@ -3,18 +3,18 @@ Dependency Is Wavering
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2021-07-28
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Dependency Is Wavering (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2021-07-28
 
 ------
 
 Dhamma Talks by Mogok Sayadaw; (no date noted)
 
-It mentioned that someone had to fulfill these two factors if he wanted to enter the stream in the Petakopadesa Text (and old commentary): ① Listening to sacca dhamma; and ② after that, having right attention, such as materiality, feeling …… consciousness, dukkha sacca, etc.
+It mentioned that someone had to fulfill these two factors if he wanted to enter the stream in the Petakopadesa Text (an old commentary): ① Listening to sacca dhamma; and ② after that, having right attention, such as materiality, feeling …… consciousness, dukkha sacca, etc.
 
 There are two ways of knowing the truth: knowing by hearing from a teacher’s teachings; and practicing accordingly to the teaching and knowing directly, making decision by oneself. There are also two kinds of right attention: Right attention from the teacher’s teachings; and right attention come from direct practice. 
 
@@ -44,7 +44,7 @@ You will be free from kilesa by knowing its nature thoroughly. Doing the sitting
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36290#p36290 (posted on 2019-04-12)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36290#p36290 (posted on 2019-04-12)
 
 ------
 
@@ -63,5 +63,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-07-28 rev. proofread by bhante
   12-02 rev. proofread by bhante
   2019-04-30  create rst; post on 05-01

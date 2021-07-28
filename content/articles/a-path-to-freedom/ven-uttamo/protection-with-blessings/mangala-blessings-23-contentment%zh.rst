@@ -3,12 +3,12 @@ Contentment (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2021-03-16
+:modified: 2021-07-28
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Contentment (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2021-03-16
+revised on 2021-07-28
 
 ------
 
@@ -137,7 +137,7 @@ Robbing a bank with a toy gun
 
 This story came from China TV news. There was a young couple they were urgently in need for some money to do something. The wife asked him to look for the money, but he responded as he could not do other things. Then the wife said: “Can’t you rob the bank?”.
 
-This foolish man took his wife's advice seriously and went to rob a back with a toy gin. He was arrested and did not know what happen to him again. In China robbing a bank can be a death penalty. Strong craving for something we do not have (i.e., discontent) and trying to get it will sometime lead to crimes (e.g., the monk Devadatta). Also, in China News: a bad guy had an intimacy with a young woman (but not fell in love with each other). Later he approached the parents and the young  woman for marrying her. All of them rejected his proposal, so he killed all of them. (Therefore, young women should be very careful to become the prey of evil men.)
+This foolish man took his wife's advice seriously and went to rob a back with a toy gun. He was arrested and did not know what happen to him again. In China robbing a bank can be a death penalty. Strong craving for something we do not have (i.e., discontent) and trying to get it will sometime lead to crimes (e.g., the monk Devadatta). Also, in China News: a bad guy had an intimacy with a young woman (but not fell in love with each other). Later he approached the parents and the young  woman for marrying her. All of them rejected his proposal, so he killed all of them. (Therefore, young women should be very careful to become the prey of evil men.)
 
 The Buddha commented on discontent (non-contentment) as; dissatisfaction with one's own possessions and wanting to get others things belong to others. Someone can think the things belong to others is better than one's own. Sayadaw gave an incident which happened before in Sri Lanka. There was a nunnery  with thirty bhikkhunīs. The head nun had the nature of discontent, One time a lay supporter offered thirty cakes to them, all were the same.
 
@@ -206,7 +206,7 @@ Spiritual people, ancient sages and noble beings—mostly forest monks knew the 
 
 ------
 
-revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36973#p36973 (posted on 2019-11-20)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36973#p36973 (posted on 2019-11-20)
 
 ------
 
@@ -221,6 +221,7 @@ revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-28 rev. proofread by bhante
   2021-03-16 rev. proofread by bhante
   2020-09-06 rev. the 3rd proofread by bhante
   07-03 rev. the 3rd proofread by bhante

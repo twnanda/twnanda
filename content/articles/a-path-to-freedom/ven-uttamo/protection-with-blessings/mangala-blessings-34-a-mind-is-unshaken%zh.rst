@@ -3,12 +3,12 @@ A Mind Is Unshaken When Touched by the Ways of the World (Maṅgala Sutta – Pr
 ======================================================================================================
 
 :date: 2019-12-03
-:modified: 2021-03-16
+:modified: 2021-07-28
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: A Mind Is Unshaken When Touched by the Ways of the World (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2021-03-16
+revised on 2021-07-28
 
 ------
 
@@ -91,17 +91,17 @@ Mind and body have a particular nature (visesa lakkhaṇa or salakkhaṇa) and c
 
 The unshakable Mind and worldly Typhoons
 
-When the typhoon or cyclone comes, many trees are unstable and shaking violently. Some of them are blown away, uprooted and broken down. In the same ways when most worldlings encounter the eight worldly conditions their minds are shaken and unstable, if the effect is severe can have mental breakdowns. Loka Dhammas mean the worldly conditions or phenomena living beings have to encounter. The worldly Dhammas and Living beings follow each other. There are  three worlds: conditioned world, the worlds of living being and the space world or cosmos. These worldly conditions are related to the living beings (mostly to humans). Everyone has to encounter it if we live in the worlds (i.e., within its boundaries). Therefore, we have to make effort (here right effort) not to be shaken and trembled. We can’t stay away from its influence. Our responding to it is to have a stable mind. When encountering, how our mind reacting to it is a Dhamma practice.
+When the typhoon or cyclone comes, many trees are unstable and shaking violently. Some of them are blown away, uprooted and broken down. In the same ways when most worldlings encounter the eight worldly conditions their minds are shaken and unstable, if the effect is severe can have mental breakdowns. Loka dhammas mean the worldly conditions or phenomena living beings have to encounter. The worldly dhammas and living beings follow each other. There are  three worlds: conditioned world, the worlds of living being and the space world or cosmos. These worldly conditions are related to the living beings (mostly to humans). Everyone has to encounter it if we live in the worlds (i.e., within its boundaries). Therefore, we have to make effort (here right effort) not to be shaken and trembled. We can’t stay away from its influence. Our responding to it is to have a stable mind. When encountering, how our mind reacting to it is a Dhamma practice.
 
 Sayādaw talked about the eight worldly dhammas one by one and how to deal with it. (see the above list already mentioned)
 
 ① gain and loss (non-gain)
 
-Human beings do something for gain, which is related to happiness and joy. So, they use all sorts of possible way to do it. It maybe they can gain what they want and it may be not. They are in the smiles when gaining it. With no gain, then the face is in grimace. With gain and sometimes become conceited. Children are crying if they don’t get what they want. For growing up people, they suffer from depression and stress and sometimes can lead to commit suicide. Loka Dhammas are like typhoons. A weak tree can’t bear its force and will fall down, but it can’t shake a mountain. So, the Buddha asked disciples to practice like a mountain. Nobody shuns away from it and it’s also impossible. All living beings cannot run away from loka—the world. Some even say “If I die, all will finish.” It will never finish and still go on. We don’t know about where it will lead us. Even it could be worsted, because there is no guarantee.
+Human beings do something for gain, which is related to happiness and joy. So, they use all sorts of possible way to do it. It maybe they can gain what they want and it may be not. They are in the smiles when gaining it. With no gain, then the face is in grimace. With gain and sometimes become conceited. Children are crying if they don’t get what they want. For growing up people, they suffer from depression and stress and sometimes can lead to commit suicide. Loka dhammas are like typhoons. A weak tree can’t bear its force and will fall down, but it can’t shake a mountain. So, the Buddha asked disciples to practice like a mountain. Nobody shuns away from it and it’s also impossible. All living beings cannot run away from loka—the world. Some even say “If I die, all will finish.” It will never finish and still go on. We don’t know about where it will lead us. Even it could be worsted, because there is no guarantee.
 
-Sayādaw continued to talk how to deal with the worldly Dhammas as mentioned by the Buddha to the monks in the Aṅguttara Nikāya.
-By asking question to oneself if someone has gain (i.e., wise contemplation). “Does it last for the moment or forever?” It is impermanent (anicca), so it will change (vipariṇāma). If there is non-gain and only in loss, then it’s out of control and increases dukkha. We also have to think about how to use them for the benefit of oneself and others. This is more important than your gains. The second positive Dhamma of status, fame and power is also very important and how to use them for the benefit of oneself and others.
-Positive Dhammas become negative Dhammas if someone cannot use them properly, rightly and wisely. We can see this kind of people in societies and international levels. Mostly people concern the worldly conditions to personal and society levels and not pay much attention to the international level. Nowadays it is more important to solve the problems of international nature. Analysing the eight worldly conditions will get the positive and negative Dhammas. Positive Dhammas lead to attraction which is craving or greed. Negative Dhammas lead to repulsion which is hatred or anger.
+Sayādaw continued to talk how to deal with the worldly dhammas as mentioned by the Buddha to the monks in the Aṅguttara Nikāya.
+By asking question to oneself if someone has gain (i.e., wise contemplation). “Does it last for the moment or forever?” It is impermanent (anicca), so it will change (vipariṇāma). If there is non-gain and only in loss, then it’s out of control and increases dukkha. We also have to think about how to use them for the benefit of oneself and others. This is more important than your gains. The second positive dhamma of status, fame and power is also very important and how to use them for the benefit of oneself and others.
+Positive dhammas become negative dhammas if someone cannot use them properly, rightly and wisely. We can see this kind of people in societies and international levels. Mostly people concern the worldly conditions to personal and society levels and not pay much attention to the international level. Nowadays it is more important to solve the problems of international nature. Analysing the eight worldly conditions will get the positive and negative Dhammas. Positive dhammas lead to attraction which is craving or greed. Negative dhammas lead to repulsion which is hatred or anger.
 Having obsession by greed and hatred is delusion. For uninstructed worldlings these worldly conditions are unwholesome dhammas and the roots of unwholesomeness. Humans treat the problems wrongly and foolishly by obsessing with them can make the problems bigger and worse. Nowadays we can see a lot of human and environmental problems globally because of these unwholesome dhammas. Refugee crisis arises from war-torn countries. Economic migrants problems arise from poor countries or political instability of some countries. Some countries are rich with natural resources, but they become poor and a lot of debts. The above crisis and problems arose by bad leadership, governments and politicians. They do only think for their welfare and well-being not concerned for their citizens. It connected to greedy for wealth, power and corruptions.
 
 Some superpower and rich countries created unwholesome competitions and challenges to other countries by creating trade wars, protectionism and economic sanctions. This has damaged the innocent citizens of these countries, not the leaders and governments they are targeting. All these problems come from the unwholesome mental states of greedy, envy, stingy, selfishness, hatred and ill will.
@@ -156,7 +156,7 @@ With gain become more and more insatiable. So, people want to gain more and more
 
 ------
 
-revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36997#p36997 (posted on 2019-11-22)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36997#p36997 (posted on 2019-11-22)
 
 ------
 
@@ -171,6 +171,8 @@ revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-28 rev. proofread by bhante 
+             (old: A Mind that, When Touched by the Ways of the World is Unshaken)
   2021-03-16 rev. proofread by bhante
   07-31 rev. the 3rd proofread by bhante
   07-22 rev. the 2nd proofread by bhante

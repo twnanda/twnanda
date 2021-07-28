@@ -3,12 +3,12 @@ Why Human Beings in Dangers?
 ==========================================
 
 :date: 2019-01-13
-:modified: 2021-01-27
+:modified: 2021-07-28
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Why Human Beings in Dangers? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-27
+revised on 2021-07-28
 
 ------
 
@@ -18,7 +18,7 @@ T1
 
 [Before the Buddha appeared, Sakka, the king of Tāvatiṃsa Heaven, asked some questions to some teachers, but nobody could answer him. Later he asked the Buddha, listened to the talk and observed his khandhas, and became a stream enterer. And then passed away instantly and reborn again as Sakka at the same spot. He asked the Buddha that beings wanted long life and healthiness, but they had dangers and illnesses. So what was the reason about these? The Buddha gave the answer that because of envy (issā) and stinginess or avarice (macchariya). (Sayadaw said people have these negative mental states not only they have dangers and sickness but also lead to painful rebirths.) Where do these mental states come from? From love and hate. Where do love and hate come from? From desire (chanda), which are 5 kinds: want to get, want to search, want to use, want to store and want to give. The last giving is nothing to do with making merits (dāna) but to protect or secure one's own properties, for example bribery. Where is chanda come from? From thinking (vitakka); here refer to unwholesome thoughts, such as thoughts of sensual pleasure, ill-will and harmfulness. Where vitakka come from? From mental proliferations (papañca), connect with craving, conceit and wrong view (taṇhā, māna, diṭṭhi). And then Sakka asked the Buddha: “Is there any way to eradicate papañca?” Practice the contemplation of feeling. 
 
-This khandha is always going towards death. If you are going the wrong direction (micchā-maggan), deaths are never end. Only by right direction (sammā-maggan) will end deaths. Vīthi citta arise at the time of death for everyone (consciousness belonging to a cognitive process, here for taking rebirth.). These are not free from sense-objects. It's for a new destination of rebirth to see black dogs, Hell sign etc. before a being dies. The dying person knows his way to rebirth. Tears run down from his face because "I had lived a bad life so I will have a painful rebirth". At that time everyone has remorse but too late for correction. All living being no one dies without seeing the objective signs. Now, if you are making preparation, it will be ready at the dying moment. How much kamma still left? Nobody knows it? (In this present life for continue to live.) It's possible even today or tomorrow for death. There are also through the intervention of destructive kamma (upacchedaka kamma) can die anytime. If you are still going on pulling the time, you will be a foolish person. (Sayadaw continued Sakka's story) Envy and avarice are attracting dangers and evil things. They are mental states of dosa. They will let you have enemies and painful rebirths in this life. It doesn't come during the meditation, but in daily life of actions or activities. So in our daily life contemplate them with mindful attention. At first, it's difficult to practice with mental states, but later you will get the habit of it. 
+This khandha is always going towards death. If you are going the wrong direction (micchā-maggan), deaths are never end. Only by right direction (sammā-maggan) will end deaths. Vīthi citta arise at the time of death for everyone (consciousness belonging to a cognitive process, here for taking rebirth.). These are not free from sense-objects. It's for a new destination of rebirth to see black dogs, Hell sign etc. before a being dies. The dying person knows his way to rebirth. Tears run down from his face because "I had lived a bad life so I will have a painful rebirth". At that time everyone has remorse but too late for correction. All living beings no one dies without seeing the objective signs. Now, if you are making preparation, it will be ready at the dying moment. How much kamma still left? Nobody knows it. (In this present life for continue to live.) It's possible even today or tomorrow for death. There are also through the intervention of destructive kamma (upacchedaka kamma) can die anytime. If you are still going on pulling the time, you will be a foolish person. (Sayadaw continued Sakka's story) Envy and avarice are attracting dangers and evil things. They are mental states of dosa. They will let you have enemies and painful rebirths in this life. It doesn't come during the meditation, but in daily life of actions or activities. So in our daily life contemplate them with mindful attention. At first, it's difficult to practice with mental states, but later you will get the habit of it. 
 
 ------
 
@@ -36,17 +36,17 @@ T3
 
 I have to warn you all; because of your good kammas all of you are still alive. How long it's? I have to answer for you; it's until now. I will give you an example. A pond is full of water after raining. Because of the hot sun the water in the pond become less and less. But the fishes in the pond don't know that. The water dry up little by little, so are the fishes closer to die. The water dries up means for the fishes to die. Do you know it? Here fishes are human beings and the water becomes less and less means their kammas are used up slowly. For older people their kammic water nearly dry up now. Is it the time for them looking for pleasure like the fishes or searching for the deathlessness? If the pond dries up the fishes must become the foods for eagles and hawks. Here eagles and hawks are referring to the 4 painful rebirths. I have to remind you 2 things. Some are near death because their kammic water becomes less, but concern for others who are still far away from death. They are still busy with family matters and business. So I remind you to make preparation for death now. Practice for the death of taṇhā is looking for deathlessness. 
 
-(Retold the Sakka's story here) In this discourse the Buddha mentioned the types of feeling. (1) two pleasant mental feelings (somanassa vedanā) (2) two unpleasant mental feelings (domanassa vedanā) (3) two neutral mental feelings (upekkhā vadanā). Each type of these vedanā can be divided into wholesome and unwholesome (kusala and akusala) It is mentioned as one which has to pursue and one which has to  avoided (?? which has to be pursued and one which has to be avoided ??) in the sutta, DN.21 Sakkapañhasuttaṃ.
+(Retold the Sakka's story here) In this discourse the Buddha mentioned the types of feeling. (1) two pleasant mental feelings (somanassa vedanā) (2) two unpleasant mental feelings (domanassa vedanā) (3) two neutral mental feelings (upekkhā vadanā). Each type of these vedanā can be divided into wholesome and unwholesome (kusala and akusala). It is mentioned as one which has to be pursued and one which has to be avoided in the sutta, DN.21 Sakkapañhasuttaṃ.)
 
-(1) The wholesome pleasant mental feeling (kusala somanassa vedanā). The example of it is seeing anicca the mind develops joy and happiness (i.e., come from practice)
+(1) The wholesome pleasant mental feeling (kusala somanassa vedanā). The example of it is seeing anicca the mind develops joy and happiness (i.e., coming from practice).
 
-(2) Unwholesome pleasant mental feeling (akusala somanassa vedanā), e.g., come from sensual pleasure.
+(2) Unwholesome pleasant mental feeling (akusala somanassa vedanā), e.g., coming from sensual pleasure.
 
 (3) Wholesome unpleasant metal feeling (kusala domanassa vedanā).
   
-(An example of it is one disappointed with one’s own practice which has no progress. The commentary gave the story of bhikkhu Mahāsīva.)
+    (An example of it is one disappointed with one’s own practice which has no progress. The commentary gave the story of bhikkhu Mahāsīva.)
 
-(4) Unwholesome unpleasant mental feeling (akusala domanassa vedanā). An example of it is seeing someone hates or dislikes.
+(4) Unwholesome unpleasant mental feeling (akusala domanassa vedanā). An example of this is when the sight of someone creates hatred or dislike.
 
 (5) Wholesome neutral mental feeling (kusala upekkhā vedanā). As an example is vipassanupekkhā. 
 
@@ -110,7 +110,7 @@ If you have khandhas you have the danger of sickness. Before you are sick you ar
 
 ------
 
-revised on 2021-01-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35599#p35599 (posted on 2018-12-15)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35599#p35599 (posted on 2018-12-15)
 
 ------
 
@@ -129,6 +129,8 @@ revised on 2021-01-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-28 rev. proofread by bhante
+  02-26 proofread by bhante
   2021-01-27 proofread by bhante
   2020-03-04 rev. ← etc. while editing PDF
   06-14 rev. proofread by bhante

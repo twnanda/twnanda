@@ -3,12 +3,12 @@ Austerity / Celibacy (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-09-06
+:modified: 2021-07-28
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Austerity / Celibacy (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-09-06
+revised on 2021-07-28
 
 ------
 
@@ -24,7 +24,7 @@ The Pāli word tapo or tapa means to extinguish defilement by striving hard. Her
 
 In Pāli text, tapa was commenting in many ways; a name for restraint, the ascetic practices (dhutaṅga), energy, patience (khanti), brahmacariya, etc. So, here to take both austerity and celibacy as sīla, samādhi and paññā practices or the Noble Eightfold Path. In this Maṅgala Sutta, patience (khanti) is also tapa. The holy life (brahmacariya) is the practices of a monk with celibacy and other holy practices.
 
-In life when an encounter with dangers and sufferings tapa and brahmacariya or sīla, samādhi and paññā are true refuges. Other things and matters are not true refugees, for examples during sickness and dying. In the Sagāthāvagga, Devaputtasamyutta, Subrahmā Discourse; the Buddha said to the young deva (deity) Subrahmā as follow. (SN. 2.17 Subrahmasuttaṃ)
+In life when an encounter with dangers and sufferings tapa and brahmacariya or sīla, samādhi and paññā are true refuges. Other things and matters are not true refuges, for examples during sickness and dying. In the Sagāthāvagga, Devaputtasamyutta, Subrahmā Discourse; the Buddha said to the young deva (deity) Subrahmā as follow. (SN. 2.17 Subrahmasuttaṃ)
 
 Not apart from enlightenment (bojjhaṅgas), austerity (tapa), restraint of the sense faculties (indriya saṁvara) and relinquishing all (sabbanissagga), the Buddha could not see any security for all living beings. Why did the Buddha say these Dhamma to him? There were interesting dhammas we can learn from this discourse.
 
@@ -84,7 +84,7 @@ This teaching represented the three training; sīla, samādhi, and paññā. Exc
 
 ------
 
-revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36982#p36982 (posted on 2019-11-21)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36982#p36982 (posted on 2019-11-21)
 
 ------
 
@@ -99,6 +99,7 @@ revised on 2020-09-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2020-09-06 rev. the 3rd proofread by bhante
+  2021-07-28 rev. proofread by bhante
+  09-06 rev. the 3rd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

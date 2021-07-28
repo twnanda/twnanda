@@ -3,12 +3,12 @@ Fulfilling One’s Duty
 ==========================================
 
 :date: 2019-05-01
-:modified: 2021-03-16
+:modified: 2021-07-28
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Fulfilling One’s Duty (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-03-16
+revised on 2021-07-28
 
 ------
 
@@ -16,7 +16,7 @@ Dhamma Talks by Mogok Sayadaw; 27th May 1961
 
 Someone is wasting the chance of Path and Fruit (Magga and Phala) if he can’t catch up to the point of truth (sacca). The person who is listening to the teaching but not following to the end is also not getting the Path Knowledge. 
 
-(To support these two points. Sayadaw told the stories of Ven. Sāriputta and Dhānañjāni brahman; and lay men Pesa of the Buddha Kassapa’s time. Sāriputta taught the brahman the samatha dhamma and he was reborn in the Brahma world. 
+(To support these two points. Sayadaw told the stories of Ven. Sāriputta and Dhānañjāni brahman; and laymen Pesa of the Buddha Kassapa’s time. Sāriputta taught the brahman the samatha dhamma and he was reborn in the Brahma world. 
 
 But he had the potentiality for enlightenment. Later Sāriputta went there again and taught him vipassanā dhamma. Pesa’s story had been mentioned before).
 
@@ -48,7 +48,7 @@ You will get it (discerning anicca) if you succeed with the no. ③. The Buddha 
 
 ------
 
-revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36213#p36213 (posted on 2019-03-31)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p=36213#p36213 (posted on 2019-03-31)
 
 ------
 
@@ -67,6 +67,7 @@ revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4241&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-28 rev. proofread by bhante
   2021-03-16 rev. proofread by bhante
   11-05 rev. proofread by bhante
   2019-04-29  create rst; post on 05-01

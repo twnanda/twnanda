@@ -3,7 +3,7 @@ Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
 ===============================================================================
 
 :date: 2019-11-13
-:modified: 2021-07-06
+:modified: 2021-07-28
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
@@ -60,6 +60,8 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 
 - `Day 18 <{filename}day18-2002-11-03%zh.rst>`_ : 3rd November, 2002
 
+- `About the Translator <{filename}eighteen-days-in-solitude-about-the-translator%zh.rst>`_
+
 - full text: 
 
   * `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text.pdf>`__ (PDF, 2021-03-27); 
@@ -83,10 +85,11 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-28 add: About the Translator
   07-06 add: cover of 18-days & Maṅgala Sutta
   07-04 add: Note of colourful pages
   04-23 del covers of four books for the consideration of copyright
-  03-28 add & rev. proofread by bhante 03-26
+  2021-03-28 add & rev. proofread by bhante 03-26
   06-26 proofread by bhante old: {filename}/extra/pdf/Eighteen-Days-In-Solitude-full-text.pdf; {filename}/extra/pdf/Eighteen-Days-In-Solitude-full-text-green.pdf
 
   03-11 add PDF files: for read & print; The Best Fonts to Use in Print, Online, and Email (By John Wood, 2011 October)-- https://www.awai.com/2011/10/the-best-fonts-to-use-in-print-online-and-email/ ; 設計素養第一課：教科書字體選用指南: https://blog.justfont.com/2018/10/text-book-fonts/ ; 電腦族必知！原來這字體顏色對眼睛好: https://helloyishi.com.tw/healthy-living/eye-health/different-fonts-of-word-affect-your-reading-and-eyes/

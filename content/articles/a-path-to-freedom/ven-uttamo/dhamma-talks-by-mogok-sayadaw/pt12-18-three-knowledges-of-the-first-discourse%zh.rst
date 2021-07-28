@@ -3,12 +3,12 @@ Three Knowledges of the First Discourse
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2021-07-28
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Three Knowledges of the First Discourse (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2021-07-28
 
 ------
 
@@ -41,7 +41,7 @@ Whatever dhamma arising and knowing as dukkha sacca is sacca ñāṇa (except lo
 
 Whatever dhamma arising and knowing with the truths are sacca ñāṇa. (i.e., this is dukkha sacca; this is samudaya sacca, etc.) It is not contemplating with insight yet. Whatever dhamma arising and know the four truths with the analyzing. These were the knowledge of Koṇḍañña in the First Discourse. This knowledge is knowing with the analytical knowledge of whatever arising dhamma.
 
-Let’s talk about the functional knowledge (kicca ñāṇa). This knowledge is important. Sacca ñāṇa is knowing in accordance with the teacher’s teachings. Whatever arisingdhamma is, it knows both its arising and falling away. And then it is kicca ñāṇa thoroughly knowing them as dukkha. 
+Let’s talk about the functional knowledge (kicca ñāṇa). This knowledge is important. Sacca ñāṇa is knowing in accordance with the teacher’s teachings. Whatever arising dhamma is, it knows both its arising and falling away. And then it is kicca ñāṇa thoroughly knowing them as dukkha. 
 
 There is only dukkha arising and dukkha falling away, nothing mixed up with it. This is knowing dukkha sacca with fully understanding (pariññaya). The impermanence of dukkha is the function of dhamma and knowing about it. The function of knowledge kicca ñāṇa is practical knowledge. Sacca ñāṇa is normal knowledge. 
 
@@ -55,7 +55,7 @@ In the same way, whatever the khandha is showing you it's with only dukkha, and 
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36336#p36336 (posted on 2019-04-16)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36336#p36336 (posted on 2019-04-16)
 
 ------
 
@@ -74,5 +74,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-07-28 rev. proofread by bhante
   12-02 rev. proofread by bhante
   2019-05-01  create rst; post on 

@@ -3,12 +3,12 @@ True Refuge—God or Dhamma?
 =============================================
 
 :date: 2020-12-30
-:modified: 2021-01-27
+:modified: 2021-07-28
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: True Refuge—God or Dhamma? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-27
+revised on 2021-07-28
 
 ------
 
@@ -18,7 +18,7 @@ Dhamma Talks by Mogok Sayadaw; 14th January 1961
 
 Unwholesome dhammas lead to suffering, problems, disharmony, chaos and destruction etc. (many kinds—we can see this in the world situation today.) Wholesome dhammas are the opposite but by itself cannot transcend dukkha, birth, old age, sickness and death. It cannot immunize from unwholesomeness. So, beings still can have the chances to fall into woeful existences (apāyas). Even at near his death the Buddha not appointed his successor. He appointed the Dhamma as his successor and teacher of all his followers—including all kinds of living beings because all beings are part of nature—the dhamma means natural phenomena and natural laws and principles.
 
-This was the wisest thing to do. Throughout human history we will only find people choosing or appointing their religious and political figures; to act as their teachers or leaders. Later these teachers and leaders had problems within the communities and became corrupted. Even we could find these kinds of leadership in later Buddhist communities, because man was easily corrupted as worldling. But natural laws and principles are never changed and universal, if have to change man has to change his mind and not Dhamma. If change the Dhamma will become Adhamma—non-Dhamma of the Buddha. By not changing the Dhamma, it will last longer; people does not confuse with the teaching and practice, and will have the good results.
+This was the wisest thing to do. Throughout human history we will only find people choosing or appointing their religious and political figures; to act as their teachers or leaders. Later these teachers and leaders had problems within the communities and became corrupted. Even we could find these kinds of leadership in later Buddhist communities, because man was easily corrupted as worldling. But natural laws and principles are never changed and universal, if have to change man has to change his mind and not Dhamma. If change the Dhamma will become Adhamma—non-Dhamma of the Buddha. By not changing the Dhamma, it will last longer; people do not confuse with the teaching and practice, and will have the good results.
 
 Wholesome dhammas are the foundation for human survival and progress. We can see this in some suttas on the universal Monarch—cakkavattirāja, because they ruled the world according to the Dhamma, they depended on the Dhamma, took the Dhamma as their refuge, then were revering, cherishing, doing homage to the Dhamma. The Monarch, his governments and all the citizens followed and behaved accordingly to the Dhamma—such as Directing oneself rightly (Atta-sammā-paṇidhi-ca), well mastered discipline (Vinayo ca susikkhito), etc. that it could be called Golden Era—peaceful, harmonious, happiness, progress and well-being. (see all these wholesome dhammas in the Maṅgala Sutta, Suttanipāta). If we observe today world there are more bad leaders and governments around the world than before, a lot of chaos going on. 
 
@@ -51,7 +51,7 @@ When you are alive, contemplate the impermanence of phenomena. At dying, also co
 
 ------
 
-revised on 2021-01-27
+revised on 2021-07-28
 
 ------
 
@@ -70,6 +70,7 @@ revised on 2021-01-27
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2021-01-27 proofread by bhante; old: qualities if the mind
+  07-28 rev. proofread by bhante
+  01-27 proofread by bhante; old: qualities if the mind
   2021-01-11 rev. proofread by bhante
   2020-12-30 create rst; post on 12-30

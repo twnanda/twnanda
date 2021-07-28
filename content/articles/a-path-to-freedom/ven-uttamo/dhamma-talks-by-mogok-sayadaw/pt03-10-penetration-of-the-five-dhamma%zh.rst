@@ -3,12 +3,12 @@ Penetration of the Five Dhammas
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-07-25
+:modified: 2021-07-28
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Penetration of The Five Dhammas (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-07-25
+revised on 2021-07-28
 
 ------
 
@@ -20,7 +20,7 @@ T1
 
 [The Buddha said to the monks, the reason living beings were wandering in the round of existence because of not knowing the Dhammas which should be penetrated. According to the sutta the 6-Dhamma is: sensuality, feeling, perception, taint, action and suffering. Each one of them has 6 points to know. On the taints (āsavas): 1. To know āsavas – The taint of sensuality (kāmāsava), the taint of becoming (bhavāsava), the taint of view(diṭṭhāsava) and the taint of ignorance(avijjāsava). The first three of them are like the followers and ignorance is like a leader. In the sutta the Buddha mentioned three only without the view. 2. To know the cause – ignorance is the leader and the other are functioning accordingly to its order. 3. To know the diversity – living beings take rebirth in the thirthy-one-realms of existence. 4. To know the result – kamma. 5. To know the cessation – to destroy avijjāsava, i.e., ignorance ceases the taints cease. 6. To know the path of practice for cessation – the Noble Eightfold Paths.]
 
-In the early morning after wake up ignorance comes in. With the order of ignorance and all the other taints follow to act for the whole day. Every day of experience is the functions of the 4 taints. Without mindfulness we suffer by them. With mindfulness it becomes the contemplation on Dhamma (Dhammānupassanā). Every time they come and with sati contemplate its impermanence. I will talk on the third point which is the result. There are many types of taints giving the results to hell, animals, hungry ghosts, human beings, celestial beings and Brahma gods. Most people think taints usually lead to the planes of misery (apāya-bhūmi). 
+In the early morning after wake up ignorance comes in. With the order of ignorance and all the other taints follow to act for the whole day. Every day of experience is the functions of the 4 taints. Without mindfulness we suffer by them. With mindfulness it becomes the contemplation on Dhamma (Dhammānupassanā). Every time they come and with sati contemplate its impermanence. I will talk on the fourth point which is the result. There are many types of taints giving the results to hell, animals, hungry ghosts, human beings, celestial beings and Brahma gods. Most people think taints usually lead to the planes of misery (apāya-bhūmi). 
 
 ------
 
@@ -82,7 +82,7 @@ There are two kāmas; the object of sensuality (vatthu kāma) and defilements of
 
 T5 
 
-On feeling: The Buddha had arisen in this world or not is depending on the knowledge of each person. If you discern anicca, dukkha and anatta in the khandhas then the Buddha had arisen, and if you don't see it then it's not. You become Mr. and Mrs. Emptiness or Zero, or a person without values. The three-universal characteristics always exist without the Buddha appeared in this world or not. With the Buddha had arisen, we have the chance to know it. (Mentioned in the Aṅguttara-Nikāya) With the practice and discerning anicca, you should have gladness about that which will end your dukkha in this life. If you discern anicca it becomes Sandiṭṭhiko=visible here and now which is one of the qualities of dhamma (there are 6-attributes of Dhamma). If you put more effort and will see Nibbāna at the ending of impermanence which is akāliko=non-temporal. You may want to ask me. I have discerned anicca but not arrive at the ending yet. It means the discernment is not mature yet. Sandiṭṭhiko is not mature yet. Svākkhāto – the Dhamma is well expounded by the Awakened One, sandiṭṭhiko – it's visible here and now, akāliko – non-temporal; these three-attributes of the Dhamma are similar to learning (pariyatti or ñāta pariññā, practice (patipatti or tīrāṇa pariññā) and the fruit or result (pativedha or pahāna pariññā). How do we know the ending of anicca when the discerning knowledge becomes mature? The arising phenomenon is dukkha and the passing away is also dukkha. Except only dukkha nothing exists. If you can make this decision the anicca will end. At the ending Nibbāna appears.
+On feeling: The Buddha had arisen in this world or not is depending on the knowledge of each person. If you discern anicca, dukkha and anatta in the khandhas then the Buddha had arisen, and if you don't see it then it's not. You become Mr. and Mrs. Emptiness or Zero, or a person without values. The three-universal characteristics always exist without the Buddha appeared in this world or not. With the Buddha had arisen, we have the chance to know it. (Mentioned in the Aṅguttara-Nikāya) With the practice and discerning anicca, you should have gladness about that which will end your dukkha in this life. If you discern anicca it becomes Sandiṭṭhiko=visible here and now which is one of the qualities of Dhamma (there are 6-attributes of Dhamma). If you put more effort and will see Nibbāna at the ending of impermanence which is akāliko=non-temporal. You may want to ask me. I have discerned anicca but not arrive at the ending yet. It means the discernment is not mature yet. Sandiṭṭhiko is not mature yet. Svākkhāto – the Dhamma is well expounded by the Awakened One, sandiṭṭhiko – it's visible here and now, akāliko – non-temporal; these three-attributes of the Dhamma are similar to learning (pariyatti or ñāta pariññā, practice (patipatti or tīrāṇa pariññā) and the fruit or result (pativedha or pahāna pariññā). How do we know the ending of anicca when the discerning knowledge becomes mature? The arising phenomenon is dukkha and the passing away is also dukkha. Except only dukkha nothing exists. If you can make this decision the anicca will end. At the ending Nibbāna appears.
 
 | (1) To know about feelings: Feeling has three-kinds; pleasant, unpleasant and neutral feeling. 
 | (2) To know the cause of feeling: it's the contact (phassa). 
@@ -94,7 +94,7 @@ On feeling: The Buddha had arisen in this world or not is depending on the knowl
 
 ------
 
-revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35593#p35593 (posted on 2018-12-15)
+revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35593#p35593 (posted on 2018-12-15)
 
 ------
 
@@ -113,6 +113,7 @@ revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2021-07-28 rev. proofread by bhante
   07-25 rev. add: On dukkha: There are six points of dukkha are: (5) proofread by bhante; 
   06-14 rev. proofread by bhante
   05-10 rev. title: old:The
