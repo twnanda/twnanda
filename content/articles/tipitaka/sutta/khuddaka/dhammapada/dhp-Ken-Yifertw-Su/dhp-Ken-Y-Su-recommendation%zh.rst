@@ -67,7 +67,6 @@
 - `法句經 首頁 <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
-
 ​
 ..
   2021-07-25 create rst
