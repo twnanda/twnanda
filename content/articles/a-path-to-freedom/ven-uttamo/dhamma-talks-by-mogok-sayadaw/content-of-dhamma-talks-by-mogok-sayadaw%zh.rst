@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2021-07-28
+:modified: 2021-07-31
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -36,22 +36,12 @@ Dhamma Talks by Mogok Sayadaw
    * - `Part 13`_
      - `Epilogue <{filename}postscript%zh.rst>`__
      - `Appendix <{filename}appendix%zh.rst>`__
-     - `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ ; (PDF, 2021-03-27)
-     - `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (PDF, background in green, 2021-03-27)
-   * - For Print, Size: B5, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5.pdf>`__ (12 pt, 1163 pages, 2021-03-27) 
-     - For Print, Size: B5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5.pdf>`__ (14.5 pt, 1538 pages, 2021-03-27)
-     - For Print, Size: A4, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print.pdf>`__  (12 pt, 858 pages, 2021-03-27)
-     - For Print, Size: A4, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print.pdf>`__ (14.5 pt, 1105 pages, 2021-03-27)
-     - 
-   * - | For Print, Size: B5, general, 14.5 pt, `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-Vol-1.pdf>`__ (522 pages, 2021-03-27)
-       | **Note:** There are three (3) pages which are colourful for print on this Volumn:
-       | a. Page 56 (45) (D. A. Process), 
-       | b. Page 71 (60) (Kammabhava, D. A. Process) and 
-       | c. Page 465 (454) (the Axle of the Taints，part5-5).   
-     - For Print, Size: B5, general, 14.5 pt, `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-Vol-2.pdf>`__ (524 pages)
-     - For Print, Size: B5, general, 14.5 pt, `Vol. III <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-Vol-3.pdf>`__ (518 pages)
-     - Cover (2021-06-08): `Vol-I <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok1-cover.png>`__ , `Vol-II <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok2-cover.png>`__ , `Vol-III <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok3-cover.png>`__ 
-     - 
+     - `About the translator`_ 
+     - `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ ; (PDF, 2021-07-29)   `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (PDF, background in green, 2021-07-29)
+
+------
+
+- `For printing`_ full text of this book.
 
 ---------------------------
 
@@ -721,11 +711,43 @@ _`Part 13` ( `content of Part 13 <{filename}pt13-content-of-part13%zh.rst>`_ )
 
 - 33.) `The Most Dangerous Enemy <{filename}pt13-33-the-most-dangerous-enemy%zh.rst>`_ (N/A)
 
-- `About the Translator <{filename}dhamma-talks-by-mogok-sayadaw-about-the-translator%zh.rst>`_
+----
+
+_`About the translator`: `this link <{filename}dhamma-talks-by-mogok-sayadaw-about-the-translator%zh.rst>`_
 
 ------
 
-revised on 2021-07-28
+_`For printing` full text of this book:
+
+- Size: B5, General (12 pt)
+
+  * `full text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5.pdf>`__ (1109 pages, 2021-07-29) 
+
+  * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-1.pdf>`__ (566 pages, 2021-07-29)
+
+  * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-2.pdf>`__ (555 pages, 2021-07-29)
+     
+- Size: B5, Large font (14.5 pt)
+
+  * `full text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5.pdf>`__ (1477 pages, 2021-07-29) 
+
+  * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-1.pdf>`__ (513 pages, 2021-07-29); **Note:** There are three (3) pages which are colourful for print on this Volumn: 
+
+    | a. Page 53 (42) (D. A. Process), 
+    | b. Page 67 (56) (Kammabhava, D. A. Process) and 
+    | c. Page 446 (435) (the Axle of the Taints，part5-5).   
+
+  * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-2.pdf>`__ (509 pages, 2021-07-29)
+
+  * `Vol. III <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-3.pdf>`__ (481 pages, 2021-07-29)
+
+- `Size: A4 <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-A4.pdf>`__ , General (12 pt, 830 pages, 2021-07-29) 
+
+- `Size: A4 <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-A4.pdf>`__ , Large font (14.5 pt, 1067 pages, 2021-07-29) 
+
+- Cover: `Vol-I <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok1-cover.png>`__ , `Vol-II <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok2-cover.png>`__ , `Vol-III <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok3-cover.png>`__ (2021-06-08)
+
+revised on 2021-07-31
 
 ------
 
@@ -736,6 +758,7 @@ revised on 2021-07-28
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-31, 30 rev: printing 
   07-28 add: About the Translator
   07-04 add: Note of colourful pages
   06-08 Divided into three volumes(改分為三冊) & add cover for dhamma talk of mogok sayadaw's

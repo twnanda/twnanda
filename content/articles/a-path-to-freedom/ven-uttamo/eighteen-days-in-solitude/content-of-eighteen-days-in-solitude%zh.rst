@@ -3,7 +3,7 @@ Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
 ===============================================================================
 
 :date: 2019-11-13
-:modified: 2021-07-28
+:modified: 2021-07-29
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
@@ -64,13 +64,13 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 
 - full text: 
 
-  * `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text.pdf>`__ (PDF, 2021-03-27); 
+  * `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text.pdf>`__ (PDF, 2021-07-29); 
 
-  * `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-green.pdf>`__ (PDF, background in green, 2021-03-27)
+  * `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-green.pdf>`__ (PDF, background in green, 2021-07-29)
 
-  * For Print, Size: A5, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-12pt-print-A5.pdf>`__ (12 pt, 144 pages, 2021-03-27) 
+  * For Print, Size: A5, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-12pt-print-A5.pdf>`__ (12 pt, 145 pages, 2021-07-29) 
 
-  * For Print, Size: A5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print-A5.pdf>`__ (14 pt, 183 pages, 2021-03-27) 
+  * For Print, Size: A5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print-A5.pdf>`__ (14 pt, 185 pages, 2021-07-29) 
 
     **Note:** There are one (1) page which is colourful for print: Page 4 (1) (U Ādiccaramsī's photography, Introduction)
 
@@ -85,6 +85,7 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-29 rev: full text & print
   07-28 add: About the Translator
   07-06 add: cover of 18-days & Maṅgala Sutta
   07-04 add: Note of colourful pages
