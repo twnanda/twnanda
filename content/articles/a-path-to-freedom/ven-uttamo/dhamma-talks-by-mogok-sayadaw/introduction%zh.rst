@@ -3,12 +3,12 @@ Introduction
 ==========================================
 
 :date: 2019-01-13
-:modified: 2021-07-28
+:modified: 2021-08-28
 :tags: Introduction, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Introduction (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-07-28
+revised on 2021-08-28
 
 ------
 
@@ -113,7 +113,7 @@ U Loon Pe asked questions concerning with insight practice from the points of Ab
 
 Sayadaw was clearing away U Pe Win's doubts. (13th July 1962)
 
-U Pe Win, an educated man, was from southern Shan State, he believed in the Christian teachings. As an export-import businessman, he had been to foreign countries for many times. He came to see Sayadaw for some of his doubts in religion.
+U Pe Win, an educated man, was from southern Shan State, he believed in the Christian teachings. As an import/export businessman, he traveled abroad many times. He came to see Sayadaw for some of his doubts in religion.
 
 | U Pe Win: Venerable, I am a Christian.
 | Sayadaw: Yes.
@@ -289,7 +289,7 @@ On 13th June, 1977, at Gyo-pin-kauk City. At 7:30 p.m., Sayadaw U Vicitta starte
 
 ------
 
-revised on 2021-07-28; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4022 (posted on 2018-12-14)
+revised on 2021-08-28; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4022 (posted on 2018-12-14)
 
 ------
 
@@ -326,6 +326,7 @@ revised on 2021-07-28; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=40
               | sukha: agreeable，pleasant，blest
 
 ..
+  08-28 rev. proofread by bhante (07-31)
   07-28 rev. proofread by bhante
              ?? or this: As an import/export businessman, he has traveled abroad many times. ??
   2021-01-11 rev. old:"mogok supporters" proofread by bhante

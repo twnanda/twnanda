@@ -3,12 +3,12 @@ About the Translator (Dhamma Talks by Mogok Sayadaw)
 ===============================================================================
 
 :date: 2021-07-28
-:modified: 2021-07-28
+:modified: 2021-08-28
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: About the Translator (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned)
 
-revised on 2021-07-28
+revised on 2021-08-28
 
 ------
 
@@ -22,7 +22,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
   
 • In 1980 moved to Taiwan.
   
-• In 1986 went to Thailand and in 1988 took the higher ordination (became a monk) at the Monastery of Loong Por Chah’s Forest Tradition.
+• In 1986 went to Thailand and in 1988 took the higher ordination (became a monk) at a Monastery of Loong Por Chah’s Forest Tradition.
   
 • Stayed in Thailand until 2005, and then
   
@@ -38,7 +38,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 ------
 
-revised on 2021-07-28
+revised on 2021-08-28
 
 ------
 
@@ -49,4 +49,5 @@ revised on 2021-07-28
 - `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Ven. Uttamo
 
 ..
+  08-28 rev. proofread by bhante (07-31)
   2021-07-28  create rst

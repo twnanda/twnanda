@@ -3,12 +3,12 @@ With Kilesa Sap, No Real Happiness
 ==========================================
 
 :date: 2019-04-28
-:modified: 2021-07-28
+:modified: 2021-08-28
 :tags: Kilesa, Happiness, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: With Kilesa Sap, No Real Happiness (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-07-28
+revised on 2021-08-28
 
 ------
 
@@ -28,7 +28,7 @@ Every day I am giving talk is to make your kilesa sap becomes dry up. The six kn
 
 The reason you all don’t realize Nibbāna are the sap flows out continuously to connect life again and again. You all are happy with places making your saps flow out. If not flowing out and you take it as quite boring. D. A. process starts from where the sap flows out. When a person is getting old and has more knowledge. These more knowledges are making your saps flowing out. You all know how to make the saps come out. But don’t know how to stop it. You become bored without it. 
 
-If you’re not connecting saṁsāra and life becomes very dry. The work of drying up the sap is the only truly reliable thing to do. Making this tree dies and produce another tree is this kilesa saps. If the sap begins to flow, dukkha samudayo hoti (dukkha rises)—so it is the cause of the dukkha.)
+If you’re not connecting saṁsāra and life becomes very dry. The work of drying up the sap is the only truly reliable thing to do. It is these kilesa saps that causes this tree to die and produce another tree. If the sap begins to flow, it’s the dukkha arising (dukkha samudayo hoti)—so it is the cause of the dukkha.)
 
 If it continues to flow out is dukkha khandhassa hoti — the result of dukkha. Your khandhas have 1,500 kilesa saps. So it needs a lot of work to burn it. Ordinary kind of fire can’t do the job. You have to burn it with the maggin fire (the path fire) as strong as the hell fire. 
 
@@ -36,7 +36,7 @@ Except the path fire, there is no other thing to rely on. For the Buddha and ara
 
 ------
 
-revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35944#p35944 (posted on 2019-02-14)
+revised on 2021-08-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35944#p35944 (posted on 2019-02-14)
 
 ------
 
@@ -55,6 +55,7 @@ revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-28 rev. proofread by bhante (07-31)
   2021-07-28 rev. proofread by bhante
   Making this tree dies and produce another tree is this kilesa saps. (?? It is these kilesa saps that causes this tree to die and produce another tree. ??)
   10-02 rev. proofread by bhante
