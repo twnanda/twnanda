@@ -176,7 +176,7 @@ First-time Setup
 .. code-block:: bash
 
     $ sudo apt-get install git
-    $ sudo apt-get install python-pip
+    $ sudo apt-get install python3-pip
 
 2. git clone source code:
 
