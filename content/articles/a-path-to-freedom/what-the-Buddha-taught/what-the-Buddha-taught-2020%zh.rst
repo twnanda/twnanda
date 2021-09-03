@@ -3,7 +3,7 @@
 =================================================
 
 :date: 2019-02-06
-:modified: 2021-06-19
+:modified: 2021-09-03
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, Nanda 編譯
 :tags: 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛法, 佛陀說的法, 瓦爾朴拉羅睺羅, 鄭於中, 戴密微
 :category: 解脫之道
@@ -71,22 +71,11 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 
 ------
 
-.. list-table:: 佛陀的啟示（增訂版 2021，印刷用）
-   :header-rows: 1
-
-   * - 整部列印〔尾註（註釋置於整個文本之後）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-B5.pdf>`__ （2021-05-08, 書本尺寸：B5, 380 頁）； `封面 <{static}/extra/authors/walpola-rahula/cover-what-the-buddha-taught-endnote.png>`__ （PNG）
-     - `ODT <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.odt>`__ （尾註；書本尺寸：B5）
-     - 
-
-   * - 整部列印〔腳註（註釋置於該頁下方）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.pdf>`__  （2021-05-08, 書本尺寸：B5, 375 頁）； `封面 <{static}/extra/authors/walpola-rahula/cover-what-the-buddha-taught-footnote.png>`__ （PNG）
-     -  `ODT <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-B5.odt>`__ （腳註；書本尺寸：B5）
-     - 
-
-   * - 整部列印〔簡體版，尾註（註釋置於整個文本之後）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-B5-simplified.pdf>`__ （書本尺寸：B5, 398 頁）
-     - 整部〔簡體版，腳註（註釋置於該頁下方）〕： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5-simplified.pdf>`__  （書本尺寸：B5, 392 頁）
-     - 簡體版 `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-A4-simplified.pdf>`__ （腳註；書本尺寸：A4, 288 頁）
-
 ※※※ 建議初機學佛的讀者們：首先閱讀 `第一章 <{filename}what-the-Buddha-taught-chap1%zh.rst>`__ ，接著閱讀 `第五 <{filename}what-the-Buddha-taught-chap5%zh.rst>`__ 、 `七 <{filename}what-the-Buddha-taught-chap7%zh.rst>`__ 、 `八章 <{filename}what-the-Buddha-taught-chap8%zh.rst>`__ ；當基本概念較清楚與鮮明時，再回過頭來讀 `第二 <{filename}what-the-Buddha-taught-chap2%zh.rst>`__ 、 `三 <{filename}what-the-Buddha-taught-chap3%zh.rst>`__ 、 `四 <{filename}what-the-Buddha-taught-chap4%zh.rst>`__ 、 `六章 <{filename}what-the-Buddha-taught-chap6%zh.rst>`__ 。 〔取材自：原作者之 `前言 <{filename}what-the-Buddha-taught-preface%zh.rst>`__ （自序）〕
+
+------
+
+`佛陀的啟示（增訂版 2021，印刷用檔案）`_
 
 ------
 
@@ -329,7 +318,36 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 
 - 蘇錦坤 Ken Su， `獨立佛學研究者 <https://independent.academia.edu/KenYifertw>`_ (independent.academia.edu)，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>`_ 部落格格主、 `面冊 <https://www.facebook.com/profile.php?id=100016840620268>`__ （臉書） `瀚邦佛學研究中心 <https://www.facebook.com/groups/491306231038114>`__ 之話題高手、版主。
 
+------
+
+_`佛陀的啟示（增訂版 2021，印刷用檔案）`
+
+.. list-table:: 佛陀的啟示（增訂版 2021，印刷用檔案）
+   :header-rows: 1
+
+   * - 整部列印（腳註）： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.pdf>`__  ； `封面 <{static}/extra/authors/walpola-rahula/cover-what-the-buddha-taught-footnote.png>`__ （PNG）
+     -  `ODT <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.odt>`__ 〔腳註（註釋置於該頁下方）； **書本尺寸：B5**， 452 頁，2021-09-03〕
+     - 整部： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-A4.pdf>`__ 〔腳註（註釋置於該頁下方）； **書本尺寸：A4**， 324 頁，2021-09-03〕
+
+   * - 整部列印（尾註）： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-B5.pdf>`__  
+     - `ODT <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-B5.odt>`__ 〔尾註（註釋置於整個文本之後）；書本尺寸：B5，448 頁，2021-09-03〕
+     - 
+
+   * - 整部（ **簡體版** ，腳註）： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5-simplified.pdf>`__  
+     -  `ODT <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5-simplified.odt>`_ 〔 **簡體版** ，腳註（註釋置於該頁下方），書本尺寸：B5， 446 頁，2021-09-03〕
+     - 簡體版腳註： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-A4-simplified.pdf>`__ （書本尺寸：A4, 288 頁）
+
+   * - 2021-04-25 版《佛陀的啟示》 修訂（勘誤）表 **選刊** ： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-revise-note-for-2021-04-25-B5-footnote-selected-print.pdf>`__  〔 **腳註版** ， 36 頁〕
+     - 2021-04-25 版《佛陀的啟示》 修訂（勘誤）表 **選刊** ： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-revise-note-for-2021-04-25-B5-endnote-selected-print.pdf>`__  〔 **尾註版** ， 37 頁〕
+     - 
+
+   * - 2021-04-25 版《佛陀的啟示》 修訂（勘誤）表： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-revise-note-full-for-2021-04-25-B5-footnote.pdf>`__  〔 **腳註版** ， 66 頁〕
+     - 2021-04-25 版《佛陀的啟示》 修訂（勘誤）表： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-revise-note-full-for-2021-04-25-B5-endnote.pdf>`__  〔 **尾註版** ， 67 頁〕
+     - 
+
+
 ..
+  09-03 rev: 2021-09-02 修訂（順便更改版面） 
   06-19 add: Supplement to the note of "What the Buddha Taught"
   05-08 rev. updated date
   05-07 add: 2021 增訂版 for title
