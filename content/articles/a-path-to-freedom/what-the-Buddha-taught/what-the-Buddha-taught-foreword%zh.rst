@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2019-02-06
-:modified: 2021-05-06
+:modified: 2021-09-04
 :author: 保羅‧戴密微(Paul Demiville); Nanda 編譯
 :tags: 序言, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 蘇錦坤, 陳健忠, 保羅‧戴密微(Paul Demiville), 戴密否, 保羅‧譚米華利, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
@@ -20,7 +20,9 @@
 
 保羅‧戴密微（法蘭西學院院士；法國大學教授；高等教育學院(巴黎)佛教研究主任） [fw-4]_
 
-Nanda 編譯 [fw-5]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`__ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2562; (02-06, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2019 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
+參考：蘇錦坤 Ken Su 評 [fw-5]_ 
+
+Nanda 編譯 [fw-6]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`__ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2562; (02-06, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2019 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 ------
 
@@ -67,7 +69,15 @@ Nanda 編譯 [fw-5]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`
 
 .. [fw-4] Paul Demieville (Member of the Institut de France, Professor at the College de France, Director of Buddhist Studies at the School of Higher Studies (Paris))
 
-.. [fw-5] 本書編輯乃基於英文原著，主要採用　 `法嚴法師 <{filename}what-the-Buddha-taught-2020%zh.rst#ven-fa-yen>`__ （筆名：顧法嚴）之譯本；並參考 鄭於中 之譯本。 序言（保羅‧戴密否 (Paul Demiville)）及前言（自序）兩篇，則參考 蘇錦坤、陳健忠兩位學者之譯文。註釋部份參考故　`尊者　明法比丘 <http://www.dhammarain.org.tw/obituary.html>`_ （「`法雨道場 <http://www.dhammarain.org.tw/>`_」）遺著與蘇錦坤者；「經典選譯」則參考巴利原典、英文原著及陳健忠等等者。英文及兩位譯者分別之譯文如下列所示，請參考。
+.. [fw-5] 法蘭西學院院士戴密微（Paul Demiville）： 〈 `序 <http://yifertw.blogspot.com/2018/10/paul-demiville.html>`__ 〉(Paul Demiville 為此書寫的序)（2018年10月15日 星期一， `台語與佛典 <http://yifertw.blogspot.com/>`__ ，蘇錦坤 Ken Su，獨立佛學研究者）
+
+          * 1.) 戴密微認為「所有過去和現代以來數量龐大的佛教部派都毫無異議地承認阿含和尼柯耶的經典權威，而且除了企圖闡述文字的言外之意，沒有任一部派偏離這些教義。 Their authority is recognized unanimously by all the Buddhist schools, which were and are numerous, but none of which ever deviates from these texts, except with the intention of better interpreting the spirit beyond the letter. The interpretation has indeed been varied in the course of the expansion of Buddhism through many centuries and vast regions, and the Law has taken more than one aspect.」
+
+          這似乎純粹出乎個人想像，過去不是如此，現代也是千奇百怪，不一而足。
+
+          * 2.) 戴密微提到「羅睺羅嘗試在巴利經文中探索大乘經的源頭　as when he wishes to rediscover in the Pali sources all the doctrines of Mahayana」，這樣的嘗試別人或許認為勇氣可嘉，卻讓我感覺啼笑皆非。
+
+.. [fw-6] 本書編輯乃基於英文原著，主要採用　 `法嚴法師 <{filename}what-the-Buddha-taught-2020%zh.rst#ven-fa-yen>`__ （筆名：顧法嚴）之譯本；並參考 鄭於中 之譯本。 序言（保羅‧戴密否 (Paul Demiville)）及前言（自序）兩篇，則參考 蘇錦坤、陳健忠兩位學者之譯文。註釋部份參考故　`尊者　明法比丘 <http://www.dhammarain.org.tw/obituary.html>`_ （「`法雨道場 <http://www.dhammarain.org.tw/>`_」）遺著與蘇錦坤者；「經典選譯」則參考巴利原典、英文原著及陳健忠等等者。英文及兩位譯者分別之譯文如下列所示，請參考。
 
 ------
 
@@ -75,13 +85,7 @@ Nanda 編譯 [fw-5]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`
 
 Nanda 謹誌。
 
-- 法蘭西學院院士戴密微（Paul Demiville）： 〈 `序 <http://yifertw.blogspot.com/2018/10/paul-demiville.html>`__ 〉(Paul Demiville 為此書寫的序)（2018年10月15日 星期一， `台語與佛典 <http://yifertw.blogspot.com/>`__ ，蘇錦坤    Ken Su，獨立佛學研究者）
-
-  * 1.) 戴密微認為「所有過去和現代以來數量龐大的佛教部派都毫無異議地承認阿含和尼柯耶的經典權威，而且除了企圖闡述文字的言外之意，沒有任一部派偏離這些教義。 Their authority is recognized unanimously by all the Buddhist schools, which were and are numerous, but none of which ever deviates from these texts, except with the intention of better interpreting the spirit beyond the letter. The interpretation has indeed been varied in the course of the expansion of Buddhism through many centuries and vast regions, and the Law has taken more than one aspect.」
-
-  這似乎純粹出乎個人想像，過去不是如此，現代也是千奇百怪，不一而足。
-
-  * 2.) 戴密微提到「羅睺羅嘗試在巴利經文中探索大乘經的源頭　as when he wishes to rediscover in the Pali sources all the doctrines of Mahayana」，這樣的嘗試別人或許認為勇氣可嘉，卻讓我感覺啼笑皆非。
+------
 
 - 《釋迦的啓示》，羅睺羅博士著，顧法嚴譯，陳健忠(香港大學醫學院講師) `增訂補譯 <https://sites.google.com/site/herodrkwok/home/hero/zeng-ding-bu-yi-ben-shi-jia-de-qi-shi-reng-mian-fei-zeng-yue>`__ ，（香港九龍）顯密佛學會，1991。
 
@@ -114,6 +118,7 @@ Nanda 謹誌。
 - 賴明亮教授(1949-02-28 ~ 2019-01-25)， `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休（ `榮退典禮 <https://www.youtube.com/watch?v=57-zS_E6660>`_ , 2014-06-20）； 賴明亮 教授追思會 `專輯影片 <https://www.youtube.com/watch?v=iL1utpxa3pw>`_ （2019-02-28）。
 
 ..
+  09-04 rev. move Ken Su's note to the footnote
   05-06 rev. old: 戴密否, 譚米華利 (proofread by Ken Su)
   2021-01-25 add: Dr. ML Lai 榮退典禮 影片連結
   2021-01-23 add: Dr. Lai 榮退典禮 影片(remark:成大醫學中心院史影音數位化315卷-1, 2018年1月17日, 林志勝醫師等致詞(何志欽、趙可式教授、藥理所), https://www.youtube.com/watch?v=rcJ_u6J_pso , 20140620-成大醫學院神經科 賴明亮醫師榮退典禮, 成大醫學中心院史影音數位化315卷-2, https://www.youtube.com/watch?v=57-zS_E6660)

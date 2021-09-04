@@ -3,7 +3,7 @@
 ========================
 
 :date: 2019-02-06
-:modified: 2020-08-23
+:modified: 2021-09-04
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, 法嚴法師(顧法嚴) 譯
 :tags: 佛教的宗教態度, 佛教的思想體系——佛陀講「心」, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
@@ -11,7 +11,7 @@
 
 ----
 
-細節： `人類的地位是至高無上的`_ —— `人應當自作皈依`_ —— `責任自負`_ —— `自由思想`_ —— `懷疑`_ —— `寬大為懷`_ —— `佛教到底是宗教呢_還是哲學`_ —— `真理不需要標籤`_ —— `重點卻在「見」、知與瞭解上，而不在信（相信）上`_ —— `凡所教誡不是供執取的`_ —— `木筏的譬喻`_ —— `純粹的臆想只能製造莫須有的問題`_ —— `實踐的態度`_ —— `受傷者的譬喻`_ （箭喻經）
+細目： `人類的地位是至高無上的`_ —— `人應當自作皈依`_ —— `責任自負`_ —— `自由思想`_ —— `懷疑`_ —— `寬大為懷`_ —— `佛教到底是宗教呢_還是哲學`_ —— `真理不需要標籤`_ —— `重點卻在「見」、知與瞭解上，而不在信（相信）上`_ —— `凡所教誡不是供執取的`_ —— `木筏的譬喻`_ —— `純粹的臆想只能製造莫須有的問題`_ —— `實踐的態度`_ —— `受傷者的譬喻`_ （箭喻經）
 
 ------
 
@@ -66,14 +66,14 @@
 有一個時常被提起的問題：佛教到底是宗教呢？還是哲學？不管你叫它做什麼，都無關宏旨。佛教仍然是佛教，不論你給它貼上什麼樣的標籤。標籤是不相干的。我們將佛的教誡稱為「佛教」，也沒有什麼特別的重要性。人們為它所取的名字，是不關緊要的。
 
 | 名字有什麼相干？    我們叫做玫瑰的，
-| 叫任何別的名字，    仍然一樣的芬芳。
+| 叫任何別的名字，    仍然一樣的芬芳。 [註1-38]_ 
 | 
 
 .. _真理不需要標籤:
 
 同樣的，真理不需要標籤。它既不是佛教的，也不是基督教的、印度教的、或是回教的。它不是任何人的專利品。宗教的標籤，只是獨立瞭解真理的障礙。它們能在人們心中產生有害的偏見。
 
-這不僅再與理性和心靈有關的事情為然。即使在人與人的關係間，亦復如是。舉例來說，我們遇到一個人，並不把他看成人類，而先在他身上加上一個標籤，好比英國人、法國人、德國人、或是猶太人，然後將我們心中與這些名稱有關的一切成見，都加在此人身上。實際上，這人可能不含有絲毫我們所加於他身上的種種屬性。
+這不僅在與理性和心靈有關的事情為然。即使在人與人的關係間，亦復如是。舉例來說，我們遇到一個人，並不把他看成人類，而先在他身上加上一個標籤，好比英國人、法國人、德國人、或是猶太人，然後將我們心中與這些名稱有關的一切成見，都加在此人身上。實際上，這人可能不含有絲毫我們所加於他身上的種種屬性。
 
 人類最喜歡有分別性的標籤，甚至將各種人類共同具有的品性與情感也都加上了標籤。因此，我們常常談到各種「商標」的慈善事業：好比佛教慈善事業，或者基督教慈善事業，而藐視其他「商標」的慈善事業。可是慈善事業實在不能分宗派；它既非基督教的、佛教的、印度教的、也非回教的。一位母親對子女的愛，既非佛教的，也非基督教的；它只是母愛。人類的品性與情感如愛、慈、悲、恕、忍、義、欲、憎、惡、愚、慢等，都用不著宗教的標籤；它們並不專屬於任一宗教。
 
@@ -91,7 +91,7 @@
 
 「我從來沒見過那位尊者。假使我見到他，也不會認識他。」
 
-佛知到這不相識的青年是在他名下出家的。他不透露自己的身份，說道：「比丘啊！我來將法傳授與你吧。你留神聽著！我要講啦！」
+佛知道這不相識的青年是在他名下出家的。他不透露自己的身份，說道：「比丘啊！我來將法傳授與你吧。你留神聽著！我要講啦！」
 
 「好的，同修！」年輕人答應道。
 
@@ -117,15 +117,15 @@
 
 佛有一位叫做謨尸羅的弟子。他告訴另外一位比丘說：「沙衛陀同修啊！不靠禮拜、信（相信） [註1-23]_ ，沒有貪喜偏愛，不聽耳食之言及傳說，不考慮表面的理由，不耽於揣測的臆見，我確知、明見『生的止息』即是涅槃。」 [註1-24]_ 
 
-佛又說：「比丘們啊！我說離垢祛染，是對有知見的人說的，不是對無知無見的人說的啊！」 [註1-25]_ 
+佛又說：「比丘們啊！我說，有知有見能帶來漏盡，無知無見是不會帶來漏盡的！」 [註1-25]_ 
 
-佛教的信永遠是知見的問題，不是相信的問題。佛的教誡曾被形容為 ehipasika，就是請你自己「來看」，而不是來相信。
+佛教的信永遠是知見的問題，不是相信的問題。佛的教誡曾被形容為 ehi-passika，就是請你自己「來看」，而不是來相信。
 
 在佛典裡，說到證入真理的人，到處都用「得淨法眼」一詞。又如「他已見道、得道、知道，深入實相，盡祛疑惑，意志堅定，不復動搖。」「以正智慧如實知見。」 [註1-26]_ 談到他自己的悟道時，佛說：「眼睛生出來了，知識生出來了，智慧生出來了，善巧生出來了，光明生出來了。」 [註1-27]_ 佛教裡一向是由智慧得正見，而不是由盲信而生信仰。
 
 在正統婆羅門教毫不容地堅持要相信，並接受他們的傳統與權威為不容置疑的唯一真理的時代，佛這種態度日益受人激賞。有一次，一群博學知名的婆羅門教徒去拜訪佛，並與他作了長時間的討論。在這一群人中，有一位十六歲的青年，名叫迦婆逿伽。他的心智是公認為特別聰穎的。他向佛提出了一個問題 [註1-28]_ ：
 
-「可敬的喬答摩啊！婆羅門教的古聖典是經過往哲口口相傳，直至於今今從未中斷。關於這個，婆羅羅門教徒有一個絕對的結論：『只有這才是真理，餘者皆是假法。』可敬的喬答摩，對這點有什麼話說嗎？」
+「可敬的喬答摩啊！婆羅門教的古聖典是經過往哲口口相傳，直至於今從未中斷的。關於這個，婆羅羅門教徒有一個絕對的結論：『只有這才是真理，餘者皆是假法。』可敬的喬答摩，對這點有什麼話說嗎？」
 
 佛問道：「在婆羅門教徒中，有沒有一個人敢說他已親身確知確見『只有這才是真理，餘者皆假』？」
 
@@ -253,7 +253,7 @@
             | 
             | 「師」應作「庇護者」解釋。
             | 
-            | 另可參： `Dhp160 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap12/#dhp160>`__ （ `府城佛教網 <http://nanda.online-dhamma.net/>`__ ， `法句經 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp/>`__ ， `法句經 多譯本對讀(段層次) <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading/>`__ ， `第十二：自己品(自品) <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap12/>`__ ；或其 `鏡像站 <http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap12/#dhp160>`__ ）
+            | 另可參： `Dhp160 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap12/#dhp160>`__ （ `府城佛教網 <http://nanda.online-dhamma.net/>`__ ， `法句經 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp/>`__ ， `法句經 多譯本對讀(段層次) <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading/>`__ ， `第十二：自己品(自品) <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap12/>`__ ）
 
 .. [註1-02] 二：見一九二九年哥侖坡版巴利文《長部》第二集第六十二頁。
 
@@ -277,9 +277,9 @@
             | 「我已開正道，　　為大現異明，
             | 　已聞當自行，　　行乃解邪縛。」( CBETA, `T04, no. 210, p. 569, a22-23 <http://tripitaka.cbeta.org/T04, no. 210, p. 569, a22>`_ )。
             | 
-            | 另可參： `Dhp276 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20/#dhp276>`__ （ `府城佛教網 <http://nanda.online-dhamma.net/>`__ ， `法句經 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp/>`__ ， `法句經 多譯本對讀(段層次) <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading/>`__ ， `第二十：道品 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20/>`__ ；或其 `鏡像站 <http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20/#dhp276>`__ ）
+            | 另可參： `Dhp276 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20/#dhp276>`__ （ `府城佛教網 <http://nanda.online-dhamma.net/>`__ ， `法句經 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp/>`__ ， `法句經 多譯本對讀(段層次) <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading/>`__ ， `第二十：道品 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-chap20/>`__ ）
 
-.. [註1-05] 五：巴利文 Saṅgha 之字義是社團，但在佛教中專只和合僧團而言，亦即僧字的本義。佛法僧總稱三皈依或三寶。
+.. [註1-05] 五：巴利文 Saṅgha 之字義是社團，但在佛教中專指和合僧團而言，亦即僧字的本義。佛、法、僧總稱三皈依或三寶。
 
 .. [註1-06] 六：見一九二九年哥侖坡版巴利文《長部》第二集第六十二頁。
 
@@ -289,7 +289,7 @@
 
             《長阿含2經》卷2：「佛告阿難：「眾僧於我有所須耶？若有自言：『我持眾僧，我攝眾僧。』斯人於眾應有教命，如來不言：『我持於眾，我攝於眾。』」(CBETA, `T01, no. 1, p. 15, a26-29 <http://tripitaka.cbeta.org/T01, no. 1, p. 15, a26>`_ )。
 
-            或可參：長部16經，第二頌：“阿難，比丘僧團還期待我說些什麼呢？我已經把法詳盡地宣說了出來，如來是沒有把法保留在自己拳頭之內的。阿難，有人可能會認為我支配著僧團或僧團依靠我，所以他會認為如來應該對比丘僧團囑咐一些東西。但是，如來根本沒有 ‘我支配著僧團’ 或 ‘僧團依靠我’ 這樣想，所以如來哪有東西囑咐比丘僧團呢？〔 `長部16經 第二頌 - 大般涅槃經 多譯本對讀 <http://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/contrast-reading-chap2/>`__ ，CSCD 165 段(D16 Mahāparinibbānasuttaṃ CSCD paranum 165) （ `府城佛教網 <http://nanda.online-dhamma.net/>`__ ， `大般涅槃經/長部16經/般涅槃大經 Mahāparinibbānasuttaṃ <http://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/dn16/>`__ ， `長部16經 大般涅槃經 多譯本對讀 <http://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/contrast-reading-dn16/>`__ ；或其 `鏡像站 <http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/diigha/dn16/contrast-reading-chap2/>`__ 〕
+            或可參：長部16經，第二頌：“阿難，比丘僧團還期待我說些什麼呢？我已經把法詳盡地宣說了出來，如來是沒有把法保留在自己拳頭之內的。阿難，有人可能會認為我支配著僧團或僧團依靠我，所以他會認為如來應該對比丘僧團囑咐一些東西。但是，如來根本沒有 ‘我支配著僧團’ 或 ‘僧團依靠我’ 這樣想，所以如來哪有東西囑咐比丘僧團呢？〔 `長部16經 第二頌 - 大般涅槃經 多譯本對讀 <http://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/contrast-reading-chap2/>`__ ，CSCD 165 段(D16 Mahāparinibbānasuttaṃ CSCD paranum 165) （ `府城佛教網 <http://nanda.online-dhamma.net/>`__ ， `大般涅槃經/長部16經/般涅槃大經 Mahāparinibbānasuttaṃ <http://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/dn16/>`__ ， `長部16經 大般涅槃經 多譯本對讀 <http://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/contrast-reading-dn16/>`__ 〕
 
 .. [註1-07] 七：見一九二九年哥侖坡版巴利文《增支部》第一一五頁。
 
@@ -297,7 +297,7 @@
 
             漢譯對應經典為《中阿含16經，伽藍經》卷3〈業相應品 2〉(CBETA, `T01, no. 26, p. 438, b13 <http://tripitaka.cbeta.org/T01, no. 26, p. 438, b13>`__ )
 
-            另可參： `《卡拉馬經》巴、漢、英文對讀 <http://nanda.online-dhamma.net/extra/tipitaka/sutta/anguttara/an03/an03.65.contrast-reading.html>`__ （取自： `府城佛教網 <http://nanda.online-dhamma.net/>`__ ， `《中部尼柯耶》閱讀地圖(菩提比丘) <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/>`__ ，二、理解正法 ：1. 智慧的選擇： `AN 3.65: Kesaputti [Kālāma] Sutta 增支部3.65卡拉瑪經 <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/#an3-65>`__ ；或其 `鏡像站 <http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/anguttara/an03/an03.65.contrast-reading.html>`__ ）
+            另可參： `《卡拉馬經》巴、漢、英文對讀 <http://nanda.online-dhamma.net/extra/tipitaka/sutta/anguttara/an03/an03.65.contrast-reading.html>`__ （取自： `府城佛教網 <http://nanda.online-dhamma.net/>`__ ， `《中部尼柯耶》閱讀地圖(菩提比丘) <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/>`__ ，二、理解正法 ：1. 智慧的選擇： `AN 3.65: Kesaputti [Kālāma] Sutta 增支部3.65卡拉瑪經 <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/#an3-65>`__ ）
 
 .. [註1-08] 八：見巴利文《中部》第四十七經 Vimamsaka Sutta（譯者註：約相當於漢譯《中阿含經》第一八六求解經）。
 
@@ -309,7 +309,7 @@
 
             莊春江老師譯為：「不知他人心差別的考察比丘，應該在二法上對如來作探查」。（ `中部47經/考察經(雙小品[5])(莊春江譯) <http://agama.buddhason.org/MN/MN047.htm>`_ ）
 
-            另請參考： `《審察經》(思察經)巴、漢、英文對讀 <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/mn-047-contrast-reading/>`__ （取自： `府城佛教網 <http://nanda.online-dhamma.net/>`__ ， `《中部尼柯耶》閱讀地圖(菩提比丘) <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/>`__ ，二、理解正法：2. 對佛陀的審察 ： `MN 47 : Vīmaṃsaka Sutta 中部47經審察經(思察經) <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/#mn-47>`__ ；或其 `鏡像站 <http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/majjhima/mn-047-contrast-reading/>`__ ）
+            另請參考： `《審察經》(思察經)巴、漢、英文對讀 <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/mn-047-contrast-reading/>`__ （取自： `府城佛教網 <http://nanda.online-dhamma.net/>`__ ， `《中部尼柯耶》閱讀地圖(菩提比丘) <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/>`__ ，二、理解正法：2. 對佛陀的審察 ： `MN 47 : Vīmaṃsaka Sutta 中部47經審察經(思察經) <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/#mn-47>`__ ）
 
 .. [註1-09] 九：五蓋為(一)貪欲，(二)瞋恚，(三)睡眠，(四)掉舉，(五)疑。
 
@@ -327,11 +327,13 @@
 
             佛復告曰：「汝等若自慚愧，不敢問者，當因知識，速來諮問，宜及是時，無從後悔。」時，諸比丘又復默然。」(CBETA, `T01, no. 1, p. 26, b1-8 <http://tripitaka.cbeta.org/T01, no. 1, p. 26, b1>`_ )。
 
-            或可參：`長部16經 第六頌 - 大般涅槃經 多譯本對讀 <http://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/contrast-reading-chap6/>`__ ，CSCD 217 段(D16 Mahāparinibbānasuttaṃ CSCD paranum 217) （ `府城佛教網 <http://nanda.online-dhamma.net/>`__ ， `大般涅槃經/長部16經/般涅槃大經 Mahāparinibbānasuttaṃ <http://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/dn16/>`__ ， `長部16經 大般涅槃經 多譯本對讀 <http://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/contrast-reading-dn16/>`__ ；或其 `鏡像站 <http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/diigha/dn16/contrast-reading-chap6/>`__ 〕
+            或可參：`長部16經 第六頌 - 大般涅槃經 多譯本對讀 <http://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/contrast-reading-chap6/>`__ ，CSCD 217 段(D16 Mahāparinibbānasuttaṃ CSCD paranum 217) （ `府城佛教網 <http://nanda.online-dhamma.net/>`__ ， `大般涅槃經/長部16經/般涅槃大經 Mahāparinibbānasuttaṃ <http://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/dn16/>`__ ， `長部16經 大般涅槃經 多譯本對讀 <http://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/contrast-reading-dn16/>`__  
+
+            《增支部》第二三九頁：似為 A ii 79 之誤植；AN.4.76 Kusinārasuttaṃṃ `增支部4集76經/拘尸那羅經 <https://agama.buddhason.org/AN/AN0658.htm>`__ (莊春江譯) 
 
 .. [註1-11] 十一：摩訶毘羅是耆那教創始人，與佛陀同時，可能較佛年齡稍大些。
 
-            「摩訶毘羅」是「 Mahāvīra 大雄」的音譯，佛教也稱「釋迦牟尼」為大雄，所以佛寺正殿稱為「 大雄寶殿」。「尼乾若提子」又寫作「尼犍若提子」，巴利為：尼犍若提子　Nigaṇṭha Nāṭaputta.。
+            「摩訶毘羅」是「 Mahāvīra 大雄」的音譯，佛教也稱「釋迦牟尼」為大雄，所以佛寺正殿稱為「 大雄寶殿」。「尼乾若提子」又寫作「尼犍若提子」，巴利為： Nigaṇṭha Nāṭaputta (或 Nātaputta，梵 Nirgrantha Jñātiputra )「 Nigaṇṭha 離繫」教團（的首領）— Nāta 族的出身者（族姓子）。
 
 .. [註1-12] 十二：見巴利文《中部》第五十六優婆離經。
 
@@ -347,7 +349,7 @@
 
             （2）出家者 pavajita（K, G）, pravajita（Sh, M），在家者 gahatha（K）, grahatha（Sh）, gehatha（M）, gharasta（G）。
 
-            （3）於一，一宗派切之本質增長云云一句雖存後文，此譯與他學者之譯少有不同。此之意思是布施或由崇敬而得起本質增長，如是解為布施或崇敬，應是正當。本質增長 śalā-vaḍhi（K）, sala-vaḍhi（Sh, M）, sāra-vaḍhī（G）。
+            （3）於一切宗派之本質增長云云一句雖存後文，此譯與他學者之譯少有不同。此之意思是布施或由崇敬而得起本質增長，如是解為布施或崇敬，應是正當。本質增長 śalā-vaḍhi（K）, sala-vaḍhi（Sh, M）, sāra-vaḍhī（G）。
 
             （4）語言之制御 vaca-guti（K, Sh, M）, vaci-gutī（G）。
 
@@ -365,13 +367,49 @@
 
             （11）一部屬 nikyāyā（K）, nikaye（Sh, M）, nikāyā（G）。
 
+            英譯請參考： Major Rock Edict 12, `Kalsi version <https://en.wikipedia.org/wiki/Major_Rock_Edicts#Major_Rock_Edict_12 Wikipedia>`__
+
+            | King Devanampriya Priyadarsin is honouring all sects: ascetics or house holders, with gifts and with honours of various kinds.
+            | 天愛喜見王對所有教派，不論是出家者或在家者，都給予布施和各種崇敬。
+            | 
+            | But Devanampriya does not value either gifts or honours so (highly) as (this), (viz.) that a promotion of the essentials of all sects should take place. This promotion of the essentials (is possible) in many ways. But its root is this, viz. guarding (one's) speech, (i.e.) that neither praising one's own sect nor blaming other sects should take place on improper occasions, or (that) it should be moderate in every case. But other sects ought to be honoured in every way.
+            | 但天愛喜見王對布施或崇敬的重視程度並不高，（即）所有教派的精華都應得到提升。這種對本質的促進（是可以的）有很多方式。但其根源在於此，即保護（自己的）言論，（即）在不適當的場合既不贊美自己的教派，也不指責其他教派，或者說，在任何情況下都應該是溫和的。但其他教派應該在任何方面得到尊重。
+            | 
+            | If one is acting thus, he is promoting his own sect considerably and is benefiting other sects as well.
+            | 如果一個人這樣做，他就會大大促進自己的教派，也會使其他教派受益。
+            | 
+            | If one is acting otherwise than thus, he is both hurting his own sect and wronging other sects as well.
+            | 如果一個人的行為不是這樣，他既傷害了自己的教派，也對不起其他教派。
+            | 
+            | For whosoever praises his own sect or blames other sects, — all (this) out of pure devotion to his own sect, (i.e.) with the view of glorifying his own sect, — if he is acting thus, he rather injures his own sect very severely.
+            | 因為無論誰贊美自己的教派或指責其他教派，--都是出於對自己教派的純粹奉獻，（即）為了榮耀自己的教派，--如果他這樣做，反而會對自己的教派造成非常嚴重的傷害。
+            | 
+            | But concord is meritorious, (i.e.) that they should both hear and obey each other's morals.
+            | 但和諧是有好處的，（即）他們都應該聽到並遵守對方的道德。
+            | 
+            | For this is the desire of Devanampriya, (viz.) that all sects should be both full of learning and pure in doctrine.
+            | 因為這就是天愛喜見王的願望，（即）所有的教派都應該既充滿學問又有純正的教義。
+            | 
+            | And those who are attached to their respective (sects), ought to be spoken to (as follows). Devanampriya does not value either gifts or honours so (highly) as (this), (viz.) that a promotion of the essentials of all sects should take place.
+            | 而對那些依附於各自（教派）的人，應該（按以下方式）進行交談。天愛喜見王對布施或崇敬的重視程度並不像（這個）那樣高，（即）應該對所有教派的精髓進行宣傳。
+            | 
+            | And many (officers) are occupied for this purpose, (viz.) the Mahamatras of morality, the Mahamatras controlling women, the inspectors of cowpens, or other classes (of officials).
+            | 許多（官員）為此而工作，（即）道德的督察官，負責婦女（言行）的督察官，負責偏遠地區的軍官，或其他類（官員）。
+            | 
+            | And this is the fruit of it, (viz,) that both the promotion of one's own sect takes place, and the glorification of morality.
+            | 這就是它的結果，（即）既促進了自己的教派，又美化了道德。
+            | 
+            | — `12th Major Rock Edict <https://archive.org/details/InscriptionsOfAsoka.NewEditionByE.Hultzsch/page/n181/mode/2up?view=theater>`__ . Translation by E. Hultzsch (1857-1927). Published in India in 1925. Inscriptions of Asoka p.43, Public Domain. 
+            | 
+            | `Mahamatra <https://en.wikipedia.org/wiki/Mahamatra>`__ (From Wikipedia, the free encyclopedia) ; `“高级军官” <https://zh.wikiqube.net/wiki/Mahamatra>`__ 
+
 .. [註1-14] 十四：印度陶工的棚屋大都寬敞而清靜。巴利文佛典中，常有佛及苦行頭陀等出家人遊方時，在陶工棚屋中度夜之記載。
 
             此經為《中部140經》，《中阿含162經》：「分別六界經」(CBETA, `T01, no. 26, p. 690, a19 <http://tripitaka.cbeta.org/T01, no. 26, p. 690, a19>`_ )。
 
-            `分析界經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=464>`__ ; 蕭式球 譯、 `界分別經 <http://agama.buddhason.org/MN/MN140.htm>`__  ; 莊春江 譯、 `界分別經 <http://tripitaka.cbeta.org/N12n0005_015#0247a02>`__  ; 通妙 譯(元亨寺)
+            `分析界經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=464>`__ （蕭式球 譯）、 `界分別經 <http://agama.buddhason.org/MN/MN140.htm>`__ （莊春江 譯）、 `界分別經 <http://tripitaka.cbeta.org/N12n0005_015#0247a02>`__ （通妙 譯(元亨寺)）。
 
-            另請參考：`MN 140 : Dhātuvibhaṅga Sutta中部140界分別經 <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/#mn-140>`_ （ `府城佛教網 <http://nanda.online-dhamma.net/>`__ ， `《中部尼柯耶》閱讀地圖(菩提比丘) <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/>`__ ，七、正慧的修習：4. 究竟解脫： `MN 140 : Dhātuvibhaṅga Sutta中部140界分別經 <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/#mn-140>`__ ；或其 `鏡像站 <http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/majjhima/maps-MN-Bodhi/#mn-140>`__ ）。
+            另請參考：`MN 140 : Dhātuvibhaṅga Sutta中部140界分別經 <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/#mn-140>`_ （ `府城佛教網 <http://nanda.online-dhamma.net/>`__ ， `《中部尼柯耶》閱讀地圖(菩提比丘) <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/>`__ ，七、正慧的修習：4. 究竟解脫： `MN 140 : Dhātuvibhaṅga Sutta中部140界分別經 <http://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/#mn-140>`__ ）。
 
             另見 `法句譬喻經惟念品第六 <http://tripitaka.cbeta.org/T04n0211_001#0580c18>`__ 。
 
@@ -379,7 +417,7 @@
 
             《中阿含162經》世尊稱對方為「比丘」，對方反稱：「君」。(CBETA, `T01, no. 26, p. 690, a26 <http://tripitaka.cbeta.org/T01, no. 26, p. 690, a26>`__ )。巴利《中部140經》世尊稱他為「bhikkhu」，他回稱「āvuso」。
 
-            如同莊春江老師所指出的，經文序述稱此人為「比丘 bhikkhu」並不合適，從前後文可以知道他尚未在正法律之下出家，可能是稱為「bhikkhaka 乞食者」，而傳誦失誤。
+            如同莊春江老師所指出的，經文敘述稱此人為「比丘 bhikkhu」並不合適，從前後文可以知道他尚未在正法律之下出家，可能是稱為「bhikkhaka 乞食者」，而傳誦失誤。
 
             至於此位乞食者，尚未認出世尊，所以稱他為「āvuso」，可以翻譯為「友」，這是出家人之間對平輩或下輩的稱呼。
 
@@ -391,15 +429,15 @@
 
             《長部》第二集第九十五頁：(原注頁碼不明) 
 
-              PTS D. II, Page 154: 長部16, 大般涅槃經 第六頌(第六章) - 如來最後的話 http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/diigha/dn16/contrast-reading-chap6/#id4
+              PTS D. II, Page 154: 長部16, 大般涅槃經 第六頌(第六章) - 如來最後的話 https://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/contrast-reading-chap6/#id4
 
-               a. 阿難！現在，比丘們以學友之語互相稱呼，我死後不應該這樣稱呼，阿難！較資淺的比丘應該被較長老的比丘以名字或以姓氏或以學友之語稱呼；較長老的比丘應該被較資淺的比丘稱呼『大德！』或『尊者！』  漢譯(莊春江 譯, 莊春江工作站)
+               a. 阿難！現在，比丘們以學友之語互相稱呼，我死後不應該這樣稱呼，阿難！較資淺的比丘應該被較長老的比丘以名字或以姓氏或以學友之語稱呼；較長老的比丘應該被較資淺的比丘稱呼『大德！』或『尊者！』(莊春江 譯, 莊春江工作站)
 
                b. “阿難，現在比丘之間互相以賢友這個稱謂來稱呼，在我離去之後便不應這樣了。阿難，長老比丘應以名字、族姓或賢友來稱呼年輕比丘，年輕比丘應以大德或尊者來稱呼長老比丘。 (蕭式球 譯, 香港志蓮淨苑) 
 
                c. 「阿難，「朋友」一詞為現時諸比丘互相沿用的稱呼，於我去世後不應再用。阿難，年長的比丘應呼年幼比丘的名或姓，或稱「朋友」；但年幼者應稱年長者為「大德」或「尊者」。 (巴宙 譯, 1971 CE)
 
-.. [註1-18] 十八：印度牛群可在大街上逍遙漫步，是眾所皆知之事。從本文看來，這項傳統蓋由來已久。但一般說，來這些牛都是馴牛，而非危險的野牛。
+.. [註1-18] 十八：印度牛群可在大街上逍遙漫步，是眾所皆知之事。從本文看來，這項傳統蓋由來已久。但一般說來，這些牛都是馴牛，而非危險的野牛。
 
 .. [註1-19] 十九：阿羅漢（Arahaṁ）是已從各種污染不淨法如貪欲、瞋恚、不善欲、無明、貢高、我慢等得到解脫之人。他已得四果，親證涅槃，充滿了智慧、慈悲以及其他清淨高尚的品性。弗加沙（pukkusāti, 補估沙地, 富拘娑提, 弗區沙提）在當時已得到三果，名為阿那含（不還，不返者 anāgāmin）。二果叫斯陀含（一來，Sakadāgāmī），初果叫須陀洹（預流，Sotāpanna）。
 
@@ -460,24 +498,24 @@
 
 .. [註1-25] 二十五：見同書第三集第一五二頁。
 
-            1. 相應部22相應101經/斧頭柄經(蘊相應/蘊篇/修多羅)(莊春江譯) SN. 22.101 Vāsijaṭasuttaṃ 
+            1. 法嚴法師之譯文似乎有問題：［佛又說:「比丘們啊！我說離垢祛染，是對有知見的人說的，不是對無知無見的人說的啊！」〕
+
+            2. 相應部22相應101經/斧頭柄經(蘊相應/蘊篇/修多羅)(莊春江譯) SN. 22.101 Vāsijaṭasuttaṃ 
 
             「比丘們！我說諸煩惱的滅盡是屬於知者、見者的，非不知者、不見者。比丘們！知、見什麼者有諸煩惱的滅盡呢？『這樣是色，這樣是色的集，這樣是色的滅沒；這樣是受……這樣是想……這樣是行……這樣是識，這樣是識的集，這樣是識的滅沒。』比丘們！這麼知、這麼見者有諸煩惱的滅盡。  http://agama.buddhason.org/SN/SN0619.htm
 
-            2. 相應部．十二．因緣相應  蕭式球譯  22-2 蘊相應 （續） 一零一．斧柄
+            3. 相應部．十二．因緣相應  蕭式球譯  22-2 蘊相應 （續） 一零一．斧柄
 
             | 世尊說： “比丘們，我說，有知有見能帶來漏盡，無知無見是不會帶來漏盡的。
             | “比丘們，對什麼東西有知有見能帶來漏盡呢？
             | “比丘們，這是色，這是色的集起，這是色的滅除；這是受，這是受的集起，這是受的滅除；這是想，這是想的集起，這是想的滅除；這是行，這是行的集起，這是行的滅除；這是識，這是識的集起，這是識的滅除。比丘們，這樣的知，這樣的見，能帶來漏盡。 http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=487&page_id=584:641
             | 
 
-            3. 《雜阿含經》卷10：「二六三）」：
+            4. 《雜阿含經》卷10：「二六三）」：
 
                爾時，佛告諸比丘：「我以知見故，得諸漏盡，非不知見。云何以知見故，得諸漏盡，非不知見？謂此色、此色集、此色滅；此受、想、行、識，此識集、此識滅。不修方便隨順成就，而用心求：『令我諸漏盡，心得解脫。』當知彼比丘終不能得漏盡解脫。所以者何？不修習故，不修習何等？謂不修習念處、正勤、如意足、根、力、覺、道。 (宋　天竺三藏　求那跋陀羅　譯；CBETA 2020.Q1, T02, no. 99, p. 67a22) https://cbetaonline.dila.edu.tw/zh/T02n0099_p0067a22
 
-            4. SuttaCentral: https://suttacentral.net/sn22-pupphavagga
-
-            5. 原譯文似乎有問題：［佛又說:「比丘們啊！我說離垢祛染，是對有知見的人說的，不是對無知無見的人說的啊！」〕
+            5. SuttaCentral: https://suttacentral.net/sn22-pupphavagga
 
             6. ＜註25＞之後，譯文為「佛教的信永遠是知見的問題，不是相信的問題。佛的教誡曾被形容為 ehipasika，就是請你自己「來看」，而不是來相信。 」
 
@@ -489,11 +527,11 @@
 
               a. 《相應部》第五集第四二五頁：初轉法輪經 (法輪轉起經, 轉法輪經, SN 56.11 Dhammacakkappavattanasuttaṃ)　《相應部 56.11-12經》：「virajaṃ vītamalaṃ dhammacakkhuṃ」。
 
-              b. 而當這個解說被說時[CFn027] ，尊者[CFn028] 憍陳如的遠塵、離垢之法眼[CFn029] 生起：「凡任何集法[CFn030] 都是滅法。」(莊春江 譯, 莊春江工作站)
+              b. 而當這個解說被說時，尊者憍陳如的遠塵、離垢之法眼生起：「凡任何集法都是滅法。」(莊春江 譯, 莊春江工作站)
 
             　 憍陳如尊者在這段解說之中去除塵垢，生起法眼，明白到： “所有集起法，都是滅盡法。” (蕭式球 譯, 香港志蓮淨苑)
 
-               http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/samyutta/sn56/sn56-011-contrast-reading/
+               https://nanda.online-dhamma.net/tipitaka/sutta/samyutta/sn56/sn56-011-contrast-reading/
 
               c. 《雜阿含經》卷15：「（三七九）」：爾時，世尊說是法時，尊者憍陳如及八萬諸天遠塵離垢，得法眼淨。(宋　天竺三藏　求那跋陀羅　譯，CBETA 2020.Q1, T02, no. 99, p. 103c13) https://cbetaonline.dila.edu.tw/zh/T02n0099_p0103c13
 
@@ -543,9 +581,9 @@
 
                “比丘們，這是苦聖諦，我之前從沒聽過這種法義，我在這種法義之中，眼生出來了，智生出來了，慧生出來了，明生出來了，光生出來了； (蕭式球 譯, 香港志蓮淨苑)
 
-               http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/samyutta/sn56/sn56-011-contrast-reading/
+               https://nanda.online-dhamma.net/tipitaka/sutta/samyutta/sn56/sn56-011-contrast-reading/
 
-               《雜阿含經》卷15 （三七九）：「此苦聖諦，本所未曾聞法，當正思惟。時，生眼、智、明、覺，此苦集、此苦滅、此苦滅道跡聖諦，本所未曾聞法，當正思惟。時，生、眼、智、明、覺。 」(宋　天竺三藏　求那跋陀羅　譯， (CBETA, T02, no. 99, p. 103, c15 或 CBETA 2020.Q1, T02, no. 99, p. 103c14-17) https://cbetaonline.dila.edu.tw/zh/T02n0099_p0103c14
+               《雜阿含經》卷15 （三七九）：「此苦聖諦，本所未曾聞法，當正思惟。時，生眼、智、明、覺，此苦集、此苦滅、此苦滅道跡聖諦，本所未曾聞法，當正思惟；時，生、眼、智、明、覺。 」(宋　天竺三藏　求那跋陀羅　譯， (CBETA, T02, no. 99, p. 103, c15 或 CBETA 2020.Q1, T02, no. 99, p. 103c14-17) https://cbetaonline.dila.edu.tw/zh/T02n0099_p0103c14
 
 .. [註1-28] 二十八：見巴利文《中部》第九十五經 Canki Sutta。
 
@@ -658,7 +696,7 @@
             | 《大智度論》：
             | 「各各自依見，　　戲論起諍競；
             | 　若能知彼非，　　是為知正見。
-            | 不肯受他法，　　是名愚癡人，
+            | 　不肯受他法，　　是名愚癡人，
             | 　作是論議者，　　真是愚癡人。
             | 　若依自是見，　　而生諸戲論，
             | 　若此是淨智，　　無非淨智者。」」(CBETA, T25, no. 1509, p. 60, c17)
@@ -781,7 +819,7 @@
 
             `第二章  四聖諦 <{filename}what-the-Buddha-taught-chap2%zh.rst>`__ (第一聖諦：苦諦)； `第三章  第二聖諦 <{filename}what-the-Buddha-taught-chap3%zh.rst>`__ ：集諦——苦之生起； `第四章  第三聖諦 <{filename}what-the-Buddha-taught-chap4%zh.rst>`__ ：滅諦——苦的止息； `第五章  第四聖諦 <{filename}what-the-Buddha-taught-chap5%zh.rst>`__ ：道諦
 
-.. [註1-37] 三十七：佛這番訓誡，似乎對鬘童子產生了預期作用。因為在其他經中曾有他再度向佛求法，接著成為阿羅漢的記載。見一九二九年哥侖坡版巴利文《增支部》第三四五至三四六頁。
+.. [註1-37] 三十七：佛這番訓誡，似乎對鬘童子產生了預期作用。因為在其他經中曾有他再度向佛求法，接著成為阿羅漢的記載。見一九二九年哥侖坡版巴利文《增支部》第三四五至三四六頁及《相應部》第四集第七十二頁以次各頁。
 
             《增支部》第三四五至三四六頁：
 
@@ -789,7 +827,14 @@
 
             b.) A.4.254. 26-4. Mālukyaputtasuttaṁ 摩路枳耶子 《增支部經典(第4卷)》：「二百五十四」(CBETA 2020.Q1, N20, no. 7, p. 402a13) https://cbetaonline.dila.edu.tw/zh/N20n0007_p0402a13  (斷衣食住藥四愛)
 
+            c.) 《相應部》第四集第七十二頁以次各頁：（法嚴法師漏譯）
+
+            SN.35.95 Mālukyaputtasuttaṃ `相應部35相應95經/瑪魯迦之子經 <https://agama.buddhason.org/SN/SN0929.htm>`__ (處相應/處篇/修多羅)(莊春江譯) 
+
+.. [註1-38] 語出莎士比亞劇作《羅密歐與朱麗葉》第二幕‧第二場。
+
 ..
+  2021-09-04 rev. by paper printed fisrt
   08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
   2020-08-21 rev. add supplement from [註1-24] (07-23 ~ 08-21)
 

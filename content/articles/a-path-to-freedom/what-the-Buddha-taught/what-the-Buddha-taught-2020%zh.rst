@@ -30,7 +30,7 @@
 編譯弁言
 ~~~~~~~~~~
 
-本書編輯乃基於英文原著，主要採用　法嚴法師_ （筆名：顧法嚴）之譯本；並參考 鄭於中 之譯本。 序言（保羅‧戴密微 (Paul Demiville)）及前言（自序）兩篇，則參考 蘇錦坤_ 、陳健忠兩位學者之譯文。註釋部份參考故　`尊者　明法比丘 <http://www.dhammarain.org.tw/obituary.html>`_ （「`法雨道場 <http://www.dhammarain.org.tw/>`_」）遺著與 蘇錦坤_ 者；「經典選譯」則參考巴利原典、英文原著及陳健忠等等者。詳細請參 本書書目_ 與 參考資料_ 。
+本書編輯乃基於 化普樂羅睺羅大長老_ 英文原著，主要採用　法嚴法師_ （筆名：顧法嚴）之譯本；並參考 鄭於中 之譯本。 序言（保羅‧戴密微 (Paul Demiville)）及前言（自序）兩篇，則參考 蘇錦坤_ 、陳健忠兩位學者之譯文。註釋部份參考故　`尊者　明法比丘 <http://www.dhammarain.org.tw/obituary.html>`_ （「`法雨道場 <http://www.dhammarain.org.tw/>`_」）遺著 與 蘇錦坤_ 者；「經典選譯」則參考巴利原典、英文原著及陳健忠等等者。詳細請參 本書書目_ 與 參考資料_ 。
 
 承蒙　 `秀定法師 <https://hdl.handle.net/11296/rkcsmf>`_ 、 `羅慶龍老師 <http://www.dhammarain.org.tw/new/new.html#aacariya-luo-ch-l>`__ 、  `莊博蕙 博士 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst#mn02-att>`__ 、故　 賴明亮教授_ 、 鄭晴如、 林宗亮、 陳秋雯、 `戴上為 <https://siongui.github.io/zh/pages/siong-ui-te.html>`__ （Siong-Ui Te 網路、程式支援）等諸位善知識，提供寶貴意見、指導、協助；在此一併致上感恩之意。書中或有疏漏、錯繆，蓋為編譯者之責；尚祈 各方賢達不吝 `來函 <mailto:tw.nanda@gmail.com>`__ 賜教！
 
@@ -75,7 +75,7 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 
 ------
 
-`佛陀的啟示（增訂版 2021，印刷用檔案）`_
+`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`_
 
 ------
 
@@ -175,7 +175,84 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
        - 220.132 6066
        - 
 
-- 4.) `其他書訊 <{filename}what-the-Buddha-taught-other-booklist%zh.rst>`_
+- 4.) 台灣各地圖書館藏
+
+  .. list-table::
+     :header-rows: 1
+
+     * - 館藏地
+       - 索書號
+       - 登錄號/條碼
+
+     * - 基隆市公共圖書館
+       - D34
+       - T01169
+
+     * - 宜蘭縣公共圖書館
+       - 220 6066
+       - 040016671
+
+     * - 花蓮縣光復鄉圖書館
+       - B 220.1 3136
+       - B0009000016330
+
+     * - 臺東縣政府文化處圖書館
+       - 民80[1991]
+       - 初版
+
+     * - 屏東縣麟洛鄉立圖書館
+       - 220.132 875 875
+       - 31529000101312
+
+     * - 高雄市立圖書館（總館/7F）
+       - B 220 6662
+       - KML2803046
+
+     * - 臺南市立圖書館（公園總館）
+       - 220.7 6066
+       - 31204003665172
+
+     * - 嘉義市政府文化局圖書館
+       - 220 8739
+       - 0562337
+
+     * - 雲林縣北港鎮立圖書館
+       - 220.1 6066 
+       - 01651000323104
+
+     * - 彰化縣公共圖書館彰市一般閱覽區
+       - 22931 3136
+       - 31425000205601
+
+     * - 臺中市立圖書館西區開架閱覽區
+       - 220.132 2482
+       - TCW0050271
+
+     * - 苗栗縣立圖書館公館鄉立圖書館
+       - 225.8. 8557
+       - 21589000526159
+
+     * - **國立清華大學** 圖書館
+       - 220.132 8228 1994
+       - C255704
+
+     * - 國立陽明 **交通大學** 圖書館（交大校區）
+       - 220.8 2340 v.2003
+       - X299526
+
+     * - 桃園市立圖書館館（桃園分館）
+       - 220.1 6 89
+       - A054899
+
+     * - 新北市立圖書館（板橋）
+       - 225.1 8528
+       - TAB012475
+
+     * - 國家圖書館（台北市）
+       - 220.1 8595 79
+       - 001139193
+
+- 5.) `其他書訊 <{filename}what-the-Buddha-taught-other-booklist%zh.rst>`_
 
 ------
 
@@ -287,20 +364,48 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 
   * PDF: 서문, 머리말, 붓 다 (B008-1.pdf) https://t1.daumcdn.net/cfile/blog/11643D454FF2951C06?download ; 제1장 불교도의 마음가짐 (B008-2-1.pdf) https://t1.daumcdn.net/cfile/blog/1625E8504FF2A18A2E?download ; https://t1.daumcdn.net/cfile/blog/1859AE334FF2ABF30E?download (B008-2-2.pdf); 기타 (etc.)
 
+- 日本語版(日本語訳)：
 
-- `化普樂•羅睺羅大長老傳略 <http://blog.sina.com.cn/s/blog_53a888990102wfyb.html>`__ （簡體，2019-01-25 確認連結；2020-08-23　鍊結失效； `備份 PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/brief-biography-Ven-Walpola-Rahula-thera.pdf>`__ ）
+  著者： ワールポラ・ラーフラ 著 , 今枝　由郎 訳； 通し番号：  青343-1 ； ジャンル：  書籍 > 岩波文庫，日本十進分類 > 哲学／心理学／宗教 ； 刊行日： 2016/02/16 ； ISBN：  9784003334317 ； Cコード：  0115 ； 体裁：  文庫 ・ 並製 ・ カバー ・ 208頁 ； https://www.iwanami.co.jp/book/b246381.html
 
-  * `斯里蘭卡佛學家羅睺羅長老及其佛教哲學思想 <https://www.douban.com/group/topic/45543184/>`__ ，惟善；原載《哲學家》2008、2007年卷。錄入編輯：乾乾（簡體，2020-08-23 確認連結；原鍊結: http://www.philosophy.org.cn/Subject_info.aspx?n=20110413113845203538 失效）
+------
 
-  * `REFLECTING ON WALPOLA SRI RAHULA MAHATHERA: A QUEST FOR THE IDEAL THERAVADA BHIKKHU <https://kathika.wordpress.com/2014/08/03/reflecting-on-walpola-sri-rahula-mahathera-a-quest-for-the-ideal-theravada-bhikkhu/>`__ (linking confirmed on 2020-08-23)
+.. _ven_walpola_rahula:
 
-  * `Biography of Professor Walpola Sri Rahula Maha Thera <https://www.asiabooks.com/rahula,_walpola.html>`__ (linking confirmed on 2020-08-23)
+.. _化普樂羅睺羅大長老:
+
+**化普樂•羅睺羅大長老 (Ven. Walpola Sri Rahula Maha Thera)**
+
+- 化普樂•羅睺羅大長老傳略（簡體，2020-08-23 原鍊結失效 http://blog.sina.com.cn/s/blog_53a888990102wfyb.html ；此為 `繁體備份 PDF <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/brief-biography-Ven-Walpola-Rahula-thera.pdf>`__ ，2021-09-04 確認連結）
+
+  * `斯里蘭卡佛學家羅睺羅長老及其佛教哲學思想 <https://www.douban.com/group/topic/45543184/>`__ ，惟善；原載《哲學家》2008、2007年卷。錄入編輯：乾乾（簡體，原鍊結: http://www.philosophy.org.cn/Subject_info.aspx?n=20110413113845203538 失效；2021-09-04 確認目前連結）
+
+- `Biography of Professor Walpola Sri Rahula Maha Thera <https://www.asiabooks.com/rahula,_walpola.html>`__ (linking confirmed on 2021-09-04)
+
+  * `Ven. Walpola Rahula Thero <http://www.walpolarahula.institute/rahula-thero/>`__ on `Walpola Rahula Institute <http://www.walpolarahula.institute/>`__ (linking confirmed on 2021-09-04)
+
+  * `REFLECTING ON WALPOLA SRI RAHULA MAHATHERA: A QUEST FOR THE IDEAL THERAVADA BHIKKHU <https://kathika.lk/2014/08/03/reflecting-on-walpola-sri-rahula-mahathera-a-quest-for-the-ideal-theravada-bhikkhu/>`__ ( or https://kathika.wordpress.com/2014/08/03/reflecting-on-walpola-sri-rahula-mahathera-a-quest-for-the-ideal-theravada-bhikkhu/, linking confirmed on 2021-09-04)
+
+------
+
+.. figure:: {static}/extra/img/walpola_rahula.png
+   :height: 693 px
+   :width: 1108 px
+   :scale: 50 %
+   :alt: 羅睺羅（Walpola Rahula）
+   :align: center
+
+   尊者 化普樂‧羅睺羅 長老 Walpola Rahula Thero (1907–1997)
+
+（取材自 cited from: https://www.youtube.com/watch?v=UMWJxzj-OCk , maybe in `Sinhala language <https://en.wikipedia.org/wiki/Sinhala_language>`__ ，可能為 `僧伽羅語 <https://zh.wikipedia.org/wiki/%E5%83%A7%E4%BC%BD%E7%BD%97%E8%AF%AD>`_ ; Walpola Rahula Institute for Buddhist Studies）
 
 ------
 
 .. _法嚴法師:
 
 .. _ven_fa_yen:
+
+**法嚴法師**
 
 - 法嚴法師，俗姓顧，名世淦，字法嚴。祖籍浙江，1917-03-06（丁己年） ~ 1995-11-19（乙亥年），俗壽七十九載，戒臘九歲。早年于上海雷士德工學院攻機械工程，抗戰中至後方畢業于（重慶）中央大學，英文根柢極深，又自習梵文與巴利文，因此翻譯佛學著作得手應心。1952年皈依印順法師，賜法名〝法嚴〞，遂以〝顧法嚴〞為其著作之筆名。曾任職台灣農村復興委員會，先後擔任企劃處及總務長職，1970 年退休後，應沈家楨居士創辦之美國佛教會之聘，出任新竹譯經院副院長，主持佛經英譯工作；任期十年中譯出「大寶積經」一部為英文本。又將英文佛書多種譯為中文，如《禪門三柱》、《佛陀的啟示》、《原始佛典選譯》等。顧氏晚年(1978)移民美國，僑居舊金山，1986 年在妙境法師座下剃度出家，仍以〝法嚴〞為法名。 （ 金山一面竟成永訣 –– `追念法嚴法師 <http://www.bauswj.org/wp/wjonline/8553/>`__ ，朱斐； `懷念法嚴法師 <http://www.bauswj.org/wp/wjonline/%E6%87%B7%E5%BF%B5%E6%B3%95%E5%9A%B4%E6%B3%95%E5%B8%AB/>`__ ，釋繼如，BAUS Wisdom Journal `美佛慧訊 <http://www.bauswj.org/wp/>`__ ， `第四十一期 <http://www.bauswj.org/wp/issue/mag41/>`__ , 1996年 3月 14日）
 
@@ -310,23 +415,27 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 
 .. _dr_ml_lai:
 
+**賴明亮教授**
+
 - 賴明亮教授(1949-02-28 ~ 2019-01-25)， `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休（ `榮退典禮 <https://www.youtube.com/watch?v=57-zS_E6660>`_ , 2014-06-20）； 賴明亮 教授追思會 `專輯影片 <https://www.youtube.com/watch?v=iL1utpxa3pw>`_ （2019-02-28）。
 
 .. _Ken Su:
 
 .. _蘇錦坤:
 
+**蘇錦坤 Ken Su**
+
 - 蘇錦坤 Ken Su， `獨立佛學研究者 <https://independent.academia.edu/KenYifertw>`_ (independent.academia.edu)，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>`_ 部落格格主、 `面冊 <https://www.facebook.com/profile.php?id=100016840620268>`__ （臉書） `瀚邦佛學研究中心 <https://www.facebook.com/groups/491306231038114>`__ 之話題高手、版主。
 
 ------
 
-_`佛陀的啟示（增訂版 2021，印刷用檔案）`
+_`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
 
-.. list-table:: 佛陀的啟示（增訂版 2021，印刷用檔案）
+.. list-table:: 佛陀的啟示（修訂版 2021 九月，印刷用檔案）
    :header-rows: 1
 
    * - 整部列印（腳註）： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.pdf>`__  ； `封面 <{static}/extra/authors/walpola-rahula/cover-what-the-buddha-taught-footnote.png>`__ （PNG）
-     -  `ODT <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.odt>`__ 〔腳註（註釋置於該頁下方）； **書本尺寸：B5**， 452 頁，2021-09-03〕
+     -  `ODT <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-B5.odt>`__ 〔腳註（註釋置於該頁下方）； **書本尺寸：B5** ， 452 頁，2021-09-03，中國圖書分類號 CCL No.：220.1；佛教圖書分類法2011年版： 100/7050，ISBN：978-957-○○○-○○○-○ (參考)〕
      - 整部： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-foot-note-A4.pdf>`__ 〔腳註（註釋置於該頁下方）； **書本尺寸：A4**， 324 頁，2021-09-03〕
 
    * - 整部列印（尾註）： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-2021-end-note-B5.pdf>`__  
@@ -347,7 +456,7 @@ _`佛陀的啟示（增訂版 2021，印刷用檔案）`
 
 
 ..
-  09-04 rev: total page number on copyright page
+  09-04 add: 化普樂羅睺羅大長老; 日本語版(日本語訳); 台灣各地圖書館藏; rev: total page number on copyright page
   09-03 rev: 2021-09-02 修訂（順便更改版面） 
   06-19 add: Supplement to the note of "What the Buddha Taught"
   05-08 rev. updated date
