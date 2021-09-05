@@ -363,7 +363,7 @@
 
 
 ..
-  09-04 rev. by paper printed fisrt
+  09-05 rev. by paper printed first
   02-04 rev. del: [註3-03] 第二項（重複 copy [註3-02] ） & 英文版：（缺此頁）
   2021-01-04 完成補充註釋中之經論出處。
   2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)

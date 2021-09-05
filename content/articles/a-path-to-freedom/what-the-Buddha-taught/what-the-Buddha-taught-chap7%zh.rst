@@ -259,7 +259,7 @@
 
 
 ..
-  09-05 rev. by paper printed fisrt
+  09-05 rev. by paper printed first
   05-07 del :ttnote:
   02-13 test recall 名相註解
   2021-02-06 完成補充註釋中之經論出處

@@ -197,7 +197,7 @@
 
 
 ..
-  09-05 rev. by paper printed fisrt
+  09-05 rev. by paper printed first
   05-07 del :ttnote:`
   02-04 test recall 名相註解
   2021-01-24 完成補充註釋中之經論出處 & 增加莊春江老師之名相註解; Mhvg: Mahavagga (of the Vinaya), ed. Saddhatissa Thera (Alutgama, 1922).; **bhāvetabba** ： 應被修習  

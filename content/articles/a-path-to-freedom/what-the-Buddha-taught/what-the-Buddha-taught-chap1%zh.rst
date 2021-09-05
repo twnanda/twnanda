@@ -834,7 +834,7 @@
 .. [註1-38] 語出莎士比亞劇作《羅密歐與朱麗葉》第二幕‧第二場。
 
 ..
-  2021-09-04 rev. by paper printed fisrt
+  09-05 rev. by paper printed first
   08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
   2020-08-21 rev. add supplement from [註1-24] (07-23 ~ 08-21)
 

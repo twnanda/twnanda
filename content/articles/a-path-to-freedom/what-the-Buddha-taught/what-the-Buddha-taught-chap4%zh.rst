@@ -671,7 +671,7 @@
 2. 《相應部註》：所有這些術語都是涅槃(Nibbāna)的同義詞。因為依託於那（tamāgamma），所有形式的波動都變得靜止和平靜；所有的獲得都被放棄；所有的渴望都被摧毀；所有的慾望污穢都消失；所有的痛苦都停止。Spk-pt:̣以那為條件的(Contingent upon)：依附於(in dependence upon)那，因為它是聖道的對象條件。
 
 ..
-  09-05 rev. by paper printed fisrt
+  09-05 rev. by paper printed first
   05-07 del :ttnote:`
   02-04 test recall 名相註解
   2021-01-21 完成補充註釋中之經論出處 & 增加莊春江老師之名相註解

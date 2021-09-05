@@ -604,7 +604,7 @@
 .. [註2-34] 三十四：關於七覺支請參閱「 `修習：心智的培育 <{filename}what-the-Buddha-taught-chap7%zh.rst>`__ 」章。
 
 ..
-  09-04 rev. by paper printed fisrt
+  09-05 rev. by paper printed first
   2021-01-04 加 volition 之定位。
   2021-01-01 完成補充註解之經論出處。
   2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)

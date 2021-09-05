@@ -620,7 +620,7 @@
            https://nanda.online-dhamma.net/tipitaka/sutta/diigha/dn16/contrast-reading-chap1/#id7
 
 ..
-  09-05 rev. by paper printed fisrt
+  09-05 rev. by paper printed first
   05-07 del :ttnote:
   02-13 add some term 名相 on notes.js
   2021-02-08 完成補充註釋中之經論出處
