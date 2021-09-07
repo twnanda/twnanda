@@ -3,7 +3,7 @@
 ============================
 
 :date: 2019-02-06
-:modified: 2019-02-06
+:modified: 2021-09-07
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著,  Nanda 編譯
 :tags: 常見佛學名詞淺釋, 名相, 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛．當初教的是什麼
 :category: 解脫之道
@@ -13,7 +13,7 @@
 
 - 佛──佛陀之略稱，梵文Buddha之音譯。意思是覺悟的人。他所覺悟的是世間一切事、理的真相，包括眾生生死之謎的答案在內。佛不但自己有覺悟，而且能令他人覺悟。他自己覺悟後，一切身口意方面的種種行為，無一不契合真理，決無絲毫迷悖，所以是世間與出世間至高無上的聖者。
 
-- 皈依──皈即歸，迷途知返知謂。依是依靠、依止。眾生知迷求覺，以佛法僧三寶為依怙，叫做皈依。
+- 皈依──皈即歸，迷途知返之謂。依是依靠、依止。眾生知迷求覺，以佛法僧三寶為依怙，叫做皈依。
 
 - 梵志──梵是清淨義。梵志是清淨的苗裔、婆羅門教徒一生四個時期中的第二個時期，隨師修學清淨行時，叫做梵志。
 
@@ -115,6 +115,7 @@
 ※※※　請參考：  `編譯弁言 <{filename}what-the-Buddha-taught-2020%zh.rst#編譯弁言>`_ （ `本書首頁 <{filename}what-the-Buddha-taught-2020%zh.rst>`__ ）　※※※
 
 ..
+  2021-09-07 rev. by paper printed first
   2020-08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
   2019-02-06 post
   draft 2018-12-05
