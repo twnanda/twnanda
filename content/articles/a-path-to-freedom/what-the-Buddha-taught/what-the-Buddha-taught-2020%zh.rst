@@ -3,7 +3,7 @@
 =================================================
 
 :date: 2019-02-06
-:modified: 2021-09-04
+:modified: 2021-09-07
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, Nanda 編譯
 :tags: 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛法, 佛陀說的法, 瓦爾朴拉羅睺羅, 鄭於中, 戴密微
 :category: 解脫之道
@@ -67,7 +67,7 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 
    * - `附錄  本書常見佛學名詞淺釋 <{filename}what-the-Buddha-taught-appendix-term%zh.rst>`__
      - `張澄基序 <{filename}what-the-Buddha-taught-foreword-chang-cj%zh.rst>`__ （慧炬出版社）
-     - 整部： `HTML <{filename}what-the-Buddha-taught-full%zh.rst>`__ (2021-05-08)
+     - 整部： `HTML <{filename}what-the-Buddha-taught-full%zh.rst>`__ (2021-09-07)
 
 ------
 
@@ -456,6 +456,7 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
 
 
 ..
+  09-07 rev: date of full text 
   09-04 add: 化普樂羅睺羅大長老; 日本語版(日本語訳); 台灣各地圖書館藏; rev: total page number on copyright page
   09-03 rev: 2021-09-02 修訂（順便更改版面） 
   06-19 add: Supplement to the note of "What the Buddha Taught"

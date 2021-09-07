@@ -2495,7 +2495,7 @@
 
            Tīkā ：Dāso viya hutvā mittassa taṃ taṃ kiccaṃ karonto kathaṃ amitto nāma jātoti āha ‘‘aya’’ntiādi.
 
-           疏（複注）：成為如同僕人那樣後，為朋友做著種種應做之事，為什麼說：「的確像是非朋友」？［是因為］「這樣的人［不是時常做，是佈畏產生時才做，不是「出於（友）愛」而做］等［的緣故］。（ `羅慶龍老師 <http://www.dhammarain.org.tw/new/new.html#aacariya-luo-ch-l>`__ 譯、 `莊博蕙 博士 <http://nanda.online-dhamma.net/a-path-to-freedom/what-the-Buddha-taught/what-the-Buddha-taught-full/#mn02-att>`__ 指導）
+           疏（複注）：成為如同僕人那樣後，為朋友做著種種應做之事，為什麼說：「的確像是非朋友」？［是因為］「這樣的人［不是時常做，是佈畏產生時才做，不是「出於（友）愛」而做］等［的緣故］。（ `羅慶龍老師 <http://www.dhammarain.org.tw/new/new.html#aacariya-luo-ch-l>`__ 譯、 `莊博蕙 博士 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst#mn02-att>`__ 指導）
 
 .. [sgl28] 「以四種情況」(Catūhi…ṭhānehi)，Maurice Walshe 先生英譯為「由於四個原因」(for the four reason)，Narada 長老英譯為「在四個方面」(In four ways)，John Kelly, Sue Sawyer, and Victoria Yareham英譯為「以四件事」(by four things)。按：「(以)情況」(ṭhānehi)，另譯為「理由；道理」，《吉祥悅意》以「理由；根據」(kāraṇehi) 解說。
 
@@ -2509,7 +2509,7 @@
 
            パーリ语辞典samma :① interj. 友よ. pl. sammā.
 
-           疏：〔以下〕詳細解析「對於善［行］，［他］也［以］同樣的方式［贊同］」這個意義：「不論我們做佈施等任何［善事］」，他［都］贊同說：「善哉！親愛的，我們做吧！」，當這個朋友如是贊同時，不就是「非朋友」的「假朋友」，難道不是嗎? 那［得］視其阿諛程度［而定］。未考慮朋友對象、地點時間或那樣做［佈施等］時［會］衍生的矛盾障礙等，就說：「讓我們做吧！」，當了解這情形就知道「善哉！親愛的，我們做吧！」是在說阿諛之詞，這句「他也讚許善行」，含藏玄機。因此，［才］說「對於善［行］，［他］也［以］同樣的方式［贊同］」。（ `羅慶龍老師 <http://www.dhammarain.org.tw/new/new.html#aacariya-luo-ch-l>`__ 譯、 `莊博蕙 博士 <http://nanda.online-dhamma.net/a-path-to-freedom/what-the-Buddha-taught/what-the-Buddha-taught-full/#mn02-att>`__ 指導）
+           疏：〔以下〕詳細解析「對於善［行］，［他］也［以］同樣的方式［贊同］」這個意義：「不論我們做佈施等任何［善事］」，他［都］贊同說：「善哉！親愛的，我們做吧！」，當這個朋友如是贊同時，不就是「非朋友」的「假朋友」，難道不是嗎? 那［得］視其阿諛程度［而定］。未考慮朋友對象、地點時間或那樣做［佈施等］時［會］衍生的矛盾障礙等，就說：「讓我們做吧！」，當了解這情形就知道「善哉！親愛的，我們做吧！」是在說阿諛之詞，這句「他也讚許善行」，含藏玄機。因此，［才］說「對於善［行］，［他］也［以］同樣的方式［贊同］」。（ `羅慶龍老師 <http://www.dhammarain.org.tw/new/new.html#aacariya-luo-ch-l>`__ 譯、 `莊博蕙 博士 <{filename}/articles/tipitaka/sutta/majjhima/maps-MN-Bodhi%zh.rst#mn02-att>`__ 指導）
 
 .. [sgl32] 支持你行善（安頓於善事）：於善事，三歸依，五戒，十善道，責任；於提供物品上作善事，使聞法，催促如此的善事。
 
