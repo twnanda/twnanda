@@ -17,22 +17,22 @@ revised on 2021-09-12
     <div class="manuscript-page-image docutils container">
     <p>The following is a few pages of the manuscript of the accompanying translation (shown below):</p>
     <p></p>
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/part01-tranlator-note.png" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/part01-tranlator-note.png" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/part05-8.png" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/part05-8.png" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/part05-17.jpg" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/part05-17.jpg" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/part10-04.jpg" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/part10-04.jpg" />
     </div>
 
 ------

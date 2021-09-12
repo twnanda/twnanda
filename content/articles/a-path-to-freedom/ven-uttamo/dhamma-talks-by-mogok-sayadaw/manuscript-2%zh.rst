@@ -17,27 +17,27 @@ revised on 2021-09-12
     <div class="manuscript-page-image docutils container">
     <p>The following is a few pages of the manuscript of the accompanying translation (shown below):</p>
     <p></p>
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/part10-05.jpg" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/part10-05.jpg" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/part13-13.jpg" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/part13-13.jpg" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/part13-30.jpg" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/part13-30.jpg" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/part13-33.jpg" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/part13-33.jpg" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/proved-by-bhante.jpg" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/proved-by-bhante.jpg" />
     </div>
     <p></p>
 

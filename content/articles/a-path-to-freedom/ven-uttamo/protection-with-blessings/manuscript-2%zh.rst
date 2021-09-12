@@ -17,62 +17,62 @@ revised on 2021-09-12
     <div class="manuscript-page-image docutils container">
     <p>The following is a few pages of the manuscript of the accompanying translation (shown below):</p>
     <p></p>
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-58.png" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-58.png" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript80.png" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript80.png" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript117.png" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript117.png" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-119.png" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-119.png" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-209.png" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-209.png" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-224.png" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-224.png" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-item33.png" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-item33.png" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-item33-2.png" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-item33-2.png" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-item33-3.png" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-item33-3.png" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-item33-4.png" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-item33-4.png" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-item33-5.png" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-item33-5.png" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-item33-6.png" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-item33-6.png" />
     </div>
     <p></p>
 

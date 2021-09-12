@@ -17,37 +17,37 @@ revised on 2021-09-12
     <div class="manuscript-page-image docutils container">
     <p>The following is a few pages of the manuscript of the accompanying translation (shown below):</p>
     <p></p>
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color1.jpg" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color1.jpg" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color2.jpg" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color2.jpg" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color3.jpg" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color3.jpg" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color4.jpg" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color4.jpg" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color5.jpg" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color5.jpg" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color6.jpg" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color6.jpg" />
     </div>
     <p></p>
 
     <div class="manuscript-page-image docutils container">
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color7.jpg" />
+    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color7.jpg" />
     </div>
 
 ------
