@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2021-08-28
+:modified: 2021-09-12
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -721,33 +721,33 @@ _`Part 13` ( `content of Part 13 <{filename}dhamma-talks-by-mogok-sayadaw/pt13-c
 
 _`For printing` full text of "Dhamma Talks by Mogok Sayadaw":
 
-- Size: B5, General (12 pt)
+- Size: B5, General (12 pt, PDF)
 
-  * `full text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5.pdf>`__ (1109 pages, 2021-08-28) 
+  * `full text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5.pdf>`__ (1115 pages, 2021-09-12) 
 
-  * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-1.pdf>`__ (566 pages, 2021-08-28)
+  * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-1.pdf>`__ (569 pages, 2021-09-12)
 
-  * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-2.pdf>`__ (555 pages, 2021-08-28)
+  * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-2.pdf>`__ (558 pages, 2021-09-12)
      
-- Size: B5, Large font (14.5 pt)
+- Size: B5, Large font (14.5 pt, PDF)
 
-  * `full text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5.pdf>`__ (1477 pages, 2021-08-28) **Note:** There are three (3) pages which are colourful: Page 53, 67 and 446.
+  * `full text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5.pdf>`__ (1483 pages, 2021-09-12) **Note:** There are three (3) pages which are colourful: Page 53, 67 and 446.
 
-  * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-1.pdf>`__ (513 pages, 2021-08-28); **Note:** There are three (3) pages which are colourful for print on this Volumn: 
+  * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-1.pdf>`__ [515 pages, 2021-09-12, Translator's Notes ~ Part 05-16 (The Most Important Thing in Life)]; **Note:** There are three (3) pages which are colourful for print on this Volumn: 
 
     | a. Page 53 (42) (D. A. Process), 
     | b. Page 67 (56) (Kammabhava, D. A. Process) and 
     | c. Page 446 (435) (the Axle of the Taints，part5-5).   
 
-  * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-2.pdf>`__ (509 pages, 2021-08-28)
+  * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-2.pdf>`__ [511 pages, 2021-09-12, Part 05-17 (To Know Yourself) ~ Part 10-04 (Our Murderers)]
 
-  * `Vol. III <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-3.pdf>`__ (481 pages, 2021-08-28)
+  * `Vol. III <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-3.pdf>`__ [483 pages, 2021-09-12, Part 10-05 (The Four Noble Truths) ~ Vipassanā Bhāvanā (Appendix)]
 
-- `Size: A4 <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-A4.pdf>`__ , General (12 pt, 830 pages, 2021-08-28) 
+- `Size: A4 <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-A4.pdf>`__ , General (12 pt, PDF, 835 pages, 2021-09-12) 
 
-- `Size: A4 <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-A4.pdf>`__ , Large font (14.5 pt, 1067 pages, 2021-08-28) 
+- `Size: A4 <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-A4.pdf>`__ , Large font (14.5 pt, PDF, 1073 pages, 2021-09-12) 
 
-- Cover: `Vol-I <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok1-cover.png>`__ , `Vol-II <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok2-cover.png>`__ , `Vol-III <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok3-cover.png>`__ (2021-08-28)
+- Cover: `Vol-I <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok1-cover.png>`__ , `Vol-II <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok2-cover.png>`__ , `Vol-III <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok3-cover.png>`__ (2021-09-12)
 
 ------
 
@@ -937,13 +937,13 @@ Protection with Blessing
 
 - For Print:
 
-  * Size: B5, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-12pt-print-B5.pdf>`__ (12 pt, 452 pages, 2021-07-28) 
+  * Size: B5, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-12pt-print-B5.pdf>`__ (12 pt, 458 pages, 2021-09-12) 
 
-  * Size: B5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-14pt-print-B5.pdf>`__ (14 pt, 516 pages, 2021-07-28) 
+  * Size: B5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-14pt-print-B5.pdf>`__ (14 pt, 521 pages, 2021-09-12) 
 
-  * Size: A4, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-12pt-print-A4.pdf>`__ (12 pt, 316 pages, 2021-07-28) 
+  * Size: A4, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-12pt-print-A4.pdf>`__ (12 pt, 322 pages, 2021-09-12) 
 
-  * Size: A4, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-14pt-print-A4.pdf>`__ (14 pt, 355 pages, 2021-07-28) 
+  * Size: A4, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-14pt-print-A4.pdf>`__ (14 pt, 362 pages, 2021-09-12) 
 
 - `Cover <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mangala-cover.png>`__ of "Maṅgala Sutta" (2021-08-28)
 
@@ -952,6 +952,7 @@ Protection with Blessing
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  09-12 add: Some Selected Manuscripts
   08-28 rev. proofread by bhante (07-31)
   07-31 rev: full text & print
   07-06 add: cover of 18-days & Maṅgala Sutta
