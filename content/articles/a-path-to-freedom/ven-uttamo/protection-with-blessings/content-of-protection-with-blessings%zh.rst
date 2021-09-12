@@ -126,6 +126,8 @@ By Venerable Uttamo（鄔達摩尊者）
 
 - `Postscript <{filename}mangala-blessings-postscript%zh.rst>`_
 
+- `Manuscript of Translations <{filename}manuscript%zh.rst>`__ 
+
 - `About the Author <{filename}mangala-blessings-about-the-author%zh.rst>`_
 
 ------
