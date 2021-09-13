@@ -16,35 +16,31 @@ The following is a few pages of the manuscript of the accompanying translation (
 
 .. container:: manuscript-page-image
 
-  .. image:: `part01-tranlator-note`_
+  .. image:: images/part01-tranlator-note.png
      :scale: 85 %
      :align: center
-
-_`part01-tranlator-note`: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part01-tranlator-note.png
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/
 
 ------
 
-  .. image:: `part05-8`_
+  .. image:: images/part05-8.png
      :scale: 85 %
      :align: center
-
-_`part05-8`: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part05-8.png
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/
 
 ------
 
-  .. image:: `part05-17`_
+  .. image:: images/part05-17.png
      :scale: 85 %
      :align: center
-
-_`part05-17`: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part05-17.png
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/
 
 ------
 
-  .. image:: `part10-04`_
+  .. image:: images/part10-04.png
      :scale: 85 %
      :align: center
-
-_`part10-04`: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part10-04.png
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/
 
 ------
 
@@ -68,6 +64,14 @@ revised on 2021-09-13
 
 ..
   09-13 correct rst grammar
+
+    .. image:: `part01-tranlator-note`_
+     :scale: 85 %
+     :align: center
+
+    _`part01-tranlator-note`: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part01-tranlator-note.png
+    -------------------------------------------
+
    .. raw:: html
 
     <div class="manuscript-page-image docutils container">
