@@ -16,7 +16,7 @@ The following is a few pages of the manuscript of the accompanying translation (
 
 .. container:: manuscript-page-image
 
-  .. image:: part01-tranlator-note.png
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part01-tranlator-note.png
      :scale: 85 %
      :align: center
      :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part01-tranlator-note.png
