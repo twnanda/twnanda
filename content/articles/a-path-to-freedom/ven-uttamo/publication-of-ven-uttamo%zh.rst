@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2021-09-12
+:modified: 2021-09-13
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -41,7 +41,7 @@ Dhamma Talks by Mogok Sayadaw
      - `Part 12`_
    * - `Part 13`_
      - `Epilogue <{filename}dhamma-talks-by-mogok-sayadaw/postscript%zh.rst>`__
-     - `Appendix <{filename}dhamma-talks-by-mogok-sayadaw/appendix%zh.rst>`__ ( `Manuscript of Translations <{filename}dhamma-talks-by-mogok-sayadaw/manuscript%zh.rst>`__ )
+     - `Appendix <{filename}dhamma-talks-by-mogok-sayadaw/appendix%zh.rst>`__ ( `Manuscript of Translations <{filename}dhamma-talks-by-mogok-sayadaw/translation-manuscript%zh%zh>`__ )
      - `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ ; (PDF, 2021-03-27)
      - `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (PDF, background in green, 2021-03-27)
 
@@ -954,6 +954,7 @@ Protection with Blessing
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  09-13 rev: rename manuscript%zh.rst with translation-manuscript%zh.rst
   09-12 add: Some Selected Manuscripts
   08-28 rev. proofread by bhante (07-31)
   07-31 rev: full text & print
