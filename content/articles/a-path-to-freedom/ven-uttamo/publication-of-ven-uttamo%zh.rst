@@ -41,7 +41,7 @@ Dhamma Talks by Mogok Sayadaw
      - `Part 12`_
    * - `Part 13`_
      - `Epilogue <{filename}dhamma-talks-by-mogok-sayadaw/postscript%zh.rst>`__
-     - `Appendix <{filename}dhamma-talks-by-mogok-sayadaw/appendix%zh.rst>`__ ( `Manuscript of Translations <{filename}dhamma-talks-by-mogok-sayadaw/translation-manuscript%zh%zh>`__ )
+     - `Appendix <{filename}dhamma-talks-by-mogok-sayadaw/appendix%zh.rst>`__ ( `Manuscript of Translations <{filename}dhamma-talks-by-mogok-sayadaw/translation-manuscript%zh.rst>`__ )
      - `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ ; (PDF, 2021-03-27)
      - `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (PDF, background in green, 2021-03-27)
 
