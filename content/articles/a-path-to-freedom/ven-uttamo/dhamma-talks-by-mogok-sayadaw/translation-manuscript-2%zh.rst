@@ -8,46 +8,43 @@ Manuscript of Translations (2/2)
 :category: path of nirvana
 :summary: Manuscripts (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-09-13
-
-------
 
 The following is a few pages of the manuscript of the accompanying translation (shown below):
 
 .. container:: manuscript-page-image
 
-  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part10-05.jpg
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part10-05.png
      :scale: 70 %
      :align: center
-     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part10-05.jpg
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part10-05.png
 
 ------
 
-  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part13-13.jpg
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part13-13.png
      :scale: 70 %
      :align: center
-     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part13-13.jpg
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part13-13.png
 
 ------
 
-  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part13-30.jpg
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part13-30.png
      :scale: 70 %
      :align: center
-     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part13-30.jpg
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part13-30.png
 
 ------
 
-  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part13-33.jpg
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part13-33.png
      :scale: 70 %
      :align: center
-     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part13-33.jpg
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part13-33.png
 
 ------
 
-  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/proved-by-bhante.jpg
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/proved-by-bhante.png
      :scale: 70 %
      :align: center
-     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/proved-by-bhante.jpg
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/proved-by-bhante.png
 
 ------
 
