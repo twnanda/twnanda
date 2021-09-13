@@ -1,8 +1,8 @@
 ===================================
-Manuscript of Translations (1/2)
+Manuscript of Translations (2/2)
 ===================================
 
-:date: 2021-09-12
+:date: 2021-09-13
 :modified: 2021-09-13
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
@@ -16,35 +16,42 @@ The following is a few pages of the manuscript of the accompanying translation (
 
 .. container:: manuscript-page-image
 
-  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part01-tranlator-note.png
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part10-05.jpg
      :scale: 70 %
      :align: center
-     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part01-tranlator-note.png
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part10-05.jpg
 
 ------
 
-  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part05-8.png
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part13-13.jpg
      :scale: 70 %
      :align: center
-     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part05-8.png
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part13-13.jpg
 
 ------
 
-  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part05-17.png
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part13-30.jpg
      :scale: 70 %
      :align: center
-     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part05-17.png
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part13-30.jpg
 
 ------
 
-  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part10-04.png
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part13-33.jpg
      :scale: 70 %
      :align: center
-     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part10-04.png
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part13-33.jpg
 
 ------
 
-`The Other pictures <{filename}translation-manuscript-2%zh.rst>`__
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/proved-by-bhante.jpg
+     :scale: 70 %
+     :align: center
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/proved-by-bhante.jpg
+
+------
+
+`The Other pictures <{filename}translation-manuscript%zh.rst>`__
 
 ------
 
@@ -77,7 +84,6 @@ revised on 2021-09-13
 
     _`part01-tranlator-note`: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part01-tranlator-note.png
     -------------------------------------------
-
    .. raw:: html
 
     <div class="manuscript-page-image docutils container">
@@ -86,11 +92,4 @@ revised on 2021-09-13
     <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/part01-tranlator-note.png" />
     </div>
     <p></p>
-
-    <div class="manuscript-page-image docutils container">
-    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/part05-8.png" />
-    </div>
-    <p></p>
-
-    <img src="https://github.com/twnanda/doc-pdf-etc/blob/master/image/part01-tranlator-note.png" />
   2021-09-12 create rst

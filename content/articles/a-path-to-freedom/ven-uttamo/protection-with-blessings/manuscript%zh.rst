@@ -3,52 +3,62 @@ Manuscript of Translations (1/2)
 ===================================
 
 :date: 2021-09-12
-:modified: 2021-09-12
+:modified: 2021-09-13
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Manuscripts-- Protection with Blessing
 
-revised on 2021-09-12
+
+The following is a few pages of the manuscript of this book (shown below):
+
+.. container:: manuscript-page-image
+
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/protection-with-blessings-by-bhante-manuscript-color1.jpg
+     :scale: 70 %
+     :align: center
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color1.jpg
 
 ------
 
-.. raw:: html
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/protection-with-blessings-by-bhante-manuscript-color2.jpg
+     :scale: 70 %
+     :align: center
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color2.jpg
 
-    <div class="manuscript-page-image docutils container">
-    <p>The following is a few pages of the manuscript of the accompanying translation (shown below):</p>
-    <p></p>
-    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color1.jpg" />
-    </div>
-    <p></p>
+------
 
-    <div class="manuscript-page-image docutils container">
-    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color2.jpg" />
-    </div>
-    <p></p>
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/protection-with-blessings-by-bhante-manuscript-color3.jpg
+     :scale: 70 %
+     :align: center
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color3.jpg
 
-    <div class="manuscript-page-image docutils container">
-    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color3.jpg" />
-    </div>
-    <p></p>
+------
 
-    <div class="manuscript-page-image docutils container">
-    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color4.jpg" />
-    </div>
-    <p></p>
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/protection-with-blessings-by-bhante-manuscript-color4.jpg
+     :scale: 70 %
+     :align: center
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color4.jpg
 
-    <div class="manuscript-page-image docutils container">
-    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color5.jpg" />
-    </div>
-    <p></p>
+------
 
-    <div class="manuscript-page-image docutils container">
-    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color6.jpg" />
-    </div>
-    <p></p>
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/protection-with-blessings-by-bhante-manuscript-color5.jpg
+     :scale: 70 %
+     :align: center
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color5.jpg
 
-    <div class="manuscript-page-image docutils container">
-    <img src="//github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color7.jpg" />
-    </div>
+------
+
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/protection-with-blessings-by-bhante-manuscript-color6.jpg
+     :scale: 70 %
+     :align: center
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color6.jpg
+
+------
+
+  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/protection-with-blessings-by-bhante-manuscript-color7.jpg
+     :scale: 70 %
+     :align: center
+     :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/protection-with-blessings-by-bhante-manuscript-color7.jpg
 
 ------
 
@@ -56,7 +66,7 @@ revised on 2021-09-12
 
 ------
 
-revised on 2021-01-27
+revised on 2021-09-13
 
 ------
 
@@ -71,4 +81,6 @@ revised on 2021-01-27
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  09-13 correct rst grammar
+  finished:  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part01-tranlator-note.png
   2021-09-12 create rst
