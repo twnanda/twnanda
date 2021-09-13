@@ -16,28 +16,28 @@ The following is a few pages of the manuscript of the accompanying translation (
 
 .. container:: manuscript-page-image
 
-  .. image:: images/part01-tranlator-note.png
+  .. image:: image/part01-tranlator-note.png
      :scale: 85 %
      :align: center
      :target: https://github.com/twnanda/doc-pdf-etc/blob/master/
 
 ------
 
-  .. image:: images/part05-8.png
+  .. image:: image/part05-8.png
      :scale: 85 %
      :align: center
      :target: https://github.com/twnanda/doc-pdf-etc/blob/master/
 
 ------
 
-  .. image:: images/part05-17.png
+  .. image:: image/part05-17.png
      :scale: 85 %
      :align: center
      :target: https://github.com/twnanda/doc-pdf-etc/blob/master/
 
 ------
 
-  .. image:: images/part10-04.png
+  .. image:: image/part10-04.png
      :scale: 85 %
      :align: center
      :target: https://github.com/twnanda/doc-pdf-etc/blob/master/
