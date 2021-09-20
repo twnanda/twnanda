@@ -2,7 +2,7 @@ Dīghanikāya 巴利大藏經 經藏 長部 (The Long Discourses)
 #######################################################
 
 :date: 2003-07-13
-:modified: 2021-02-19
+:modified: 2021-09-20
 :tags: Dīghanikāya, 巴利三藏長部, Dialogues of the Buddha, The "Long" Discourses
 :category: 巴利三藏長部
 :summary: Dīghanikāya 長部
@@ -726,44 +726,7 @@ mahāvagga 大品
 
     * `The Great Steward: A Past Life Of Gotama <http://www.mahindaramatemple.com/e-tipitaka/Digha-Nikaya/dn-19.htm>`__ ( `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) 
 
-- _`DN 20`  Sutta [PTS 編次 (No.)]; DN ii 253 [PTS 頁碼 (Pp.)]
-  * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
-
-    * PTS: `Mahāsamayasuttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/DN_II_utf8.html#pts.253>`__ ( `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [1]_
-
-    * `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__： `Mahāsamayasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul0.xml>`__ [2]_
-
-  * 漢譯：
-
-    * `漢譯 長部20經/大集會經 <http://agama.buddhason.org/DN/DN20.htm>`__ ；莊春江 [3]_
-
-    * `大會經 <http://tripitaka.cbeta.org/B06n0003_002#0069a01>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典二．大會經第二十; [0069a01] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 69, a1) [5]_
-
-    * `大會經 <http://tripitaka.cbeta.org/N07n0004_020>`__ ；通妙譯，元亨寺漢譯南傳大藏經；二〇　大會經; [0212a03] ( `CBETA <http://www.cbeta.org/>`__ , N07, no. 4, p. 212, a3) [6]_
-
-    * 對照之阿含經典及其他： 
-
-      * `大會經 <http://tripitaka.cbeta.org/T01n0001_012#0079b01>`__ ；後秦弘始年佛陀耶舍共竺佛念譯．大正藏．第 1 冊． No. 1．佛說長阿含經．卷第十四．（一九）第二分大會經第十五．[0079b01] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 1, p. 79, b1)
-
-      * `雜阿含一一九二經（集會） <http://tripitaka.cbeta.org/T02n0099_044#0323a12>`__ ；宋 天竺三藏 求那跋陀羅 譯．大正藏．第 2 冊． No. 99．雜阿含經．卷第四十四．（一一九二）．[0323a12] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 99, p. 323, a12) 。 `雜阿含1192經 <http://agama.buddhason.org/SA/SA1192.htm>`__ ( 臺灣「 `莊春江工作站 <http://agama.buddhason.org/DN/index.htm>`__ 」)
-
-      * `別譯雜阿含105經 <http://tripitaka.cbeta.org/T02n0100_005#0411a24>`__ ；失譯人名今附秦錄．大正藏．第 2 冊． No. 100．別譯雜阿含經．卷第五．初誦第五．（一〇五）．[0411a24] ( `CBETA <http://www.cbeta.org/>`__ , T02, no. 100, p. 411, a24) 。
-
-      * `大三摩惹經 <http://tripitaka.cbeta.org/T01n0019_001>`__ ；西天譯經三藏朝散大夫試鴻臚卿傳教大師臣法天奉　詔譯．大正藏．第 1 冊． No. 19．佛說大三摩惹經．[0258a10] ( `CBETA <http://www.cbeta.org/>`__ , T01, no. 19, p. 258, a10)
-
-      * `相應部1相應37經/集會經 <http://agama.buddhason.org/SN/SN0037.htm>`__ ( 臺灣「 `莊春江工作站 <http://agama.buddhason.org/DN/index.htm>`__ 」)
-
-      * 梵Mahāsamāja-s. (Waldschmidt 小經)
-
-  * 英譯(English)：
-
-    * Maha-samaya Sutta — `The Great Assembly <http://www.accesstoinsight.org/tipitaka/dn/dn.20.0.piya.html>`__ , translated from the Pali by **Ven. Piyadassi Thera** 
-
-      `The Great Meeting <http://www.accesstoinsight.org/tipitaka/dn/dn.20.0.than.html>`__ , translated from the Pali by **Ven. Thanissaro Bhikkhu** ( `AccessToInsight <http://www.accesstoinsight.org/>`__ )
-
-    * PTS: `The Great Concourse <http://obo.genaud.net/dhamma-vinaya/pts/dn/dn.20.rhyt.pts.htm>`__ , translated from the Pali by T.W. Rhys Davids, II.284
-
-      WP: The Mighty Gathering: Devas Come to See the Buddha, Walshe, trans., 315 ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ )
+- _`DN 20` `Mahāsamayasuttaṃ; 大會經; 大集會經; The Great Meeting, The Great Assembly <{filename}dn20/dn20%zh.rst>`__ ; The Great Concourse; The Mighty Gathering [PTS 編次 (No.)]; DN ii 253 [PTS 頁碼 (Pp.)]
 
 - _`DN 21` Sakkapañha Sutta [PTS 編次 (No.)]; DN ii 263 [PTS 頁碼 (Pp.)]
 
@@ -1385,6 +1348,7 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
         * 參考書目
 
 ..
+  09-20 add: DN 20 Mahāsamayasuttaṃ; 大會經
   2021-02-19 add: 大因緣經注  http://www.studentbook.com.tw/goods.php?id=4576
   ------
   12.30 add: 國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」:雜阿含經 、中阿含經 、增壹阿含經；CBETA:雜阿含經 （ 50 卷本 ，劉宋　求那跋陀羅　譯）、別譯雜阿含經 （失譯，16 卷本）、雜阿含經 （失譯， 單卷本 ）、中阿含經 （東晉　瞿曇 僧伽提婆　譯，共 60 卷）、增壹阿含經 （東晉　瞿曇 僧伽提婆　譯，共 51 卷）、長阿含經 （後秦　佛陀耶舍　共　竺佛念　譯，共 22 卷）; 台語與佛典: 中阿含讀書會 、增支部尼柯耶讀書會、增一阿含讀書會
