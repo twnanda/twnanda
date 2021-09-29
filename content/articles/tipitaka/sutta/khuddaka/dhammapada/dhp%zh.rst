@@ -2,7 +2,7 @@
 ===================
 
 :date: 2016-01-29 09:00
-:modified: 2021-01-24
+:modified: 2021-09-29
 :tags: 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經, Dhammapada
@@ -43,12 +43,20 @@
   * 大正新脩大藏經 第四冊 `No. 211《法句譬喻經》 <http://www.cbeta.org/result/T04/T04n0211.htm>`_；晉世沙門　**法炬** 共　**法立** 譯： `卷第一 <http://www.cbeta.org/result/normal/T04/0211_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0211_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0211_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0211_004.htm>`__ (CBETA)
 
   * | `《出曜經》校勘與標點 <http://yifertw212.blogspot.com/>`_ ，2014。
-
     | 〔大正新脩大藏經 第四冊 `No. 212《出曜經》 <http://www.cbeta.org/result/T04/T04n0212.htm>`_ ；姚秦涼州沙門　**竺佛念** 譯： `卷第一 <http://www.cbeta.org/result/normal/T04/0212_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0212_001.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0212_001.htm>`__ 、..., 、..., 、..., 、 `卷第二十八 <http://www.cbeta.org/result/normal/T04/0212_028.htm>`__ 、 `卷第二十九 <http://www.cbeta.org/result/normal/T04/0212_029.htm>`__ 、 `卷第三十 <http://www.cbeta.org/result/normal/T04/0212_030.htm>`__ 〕(CBETA)
 
-  * | `《法集要頌經》校勘、標點與 Udānavarga 偈頌對照表 <http://yifertw213.blogspot.tw/>`_ ，2014。
-
+  * | `《法集要頌經》校勘與標點 <http://yifertw213.blogspot.com/2013/12/1-40.html>`__ ，〈1 有為品〉 40頌 --2013年12月6日 星期五。（ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.com/>`__ @ blogspot.com ）
     | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`_ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__〕(CBETA)  ( **尊者 法救** 集， **天息災** 譯) [7]_
+
+  * `《法句經》、《出曜經》與巴利《法句經》(Dhammapada)偈頌對照表 <https://yifertwtw.blogspot.com/2012/10/t210-chapter-1-t04558a1.html>`__ ；依支謙譯《法句經》（大正藏 T210）編序，〈1 無常品〉T210 Chapter 1 (T04.559a)-- 2012年10月8日 星期一。 `The Feature of the Correspondence Tables of Fa-Ju-Jing(T210) <https://yifertwtw.blogspot.com/2012/10/the-feature-of-correspondence-tables-of.html>`__ 2012年10月8日 星期一（@ blogspot.com）。
+
+  * `巴利《法句經》與漢譯《法句經》偈頌對照表  <https://yifertwtw.blogspot.com/2012/11/pali-dhammapada-1-yamaka-vagga-1-20-1.html>`__ ；依蘇錦坤漢譯巴利《法句經》編序，〈1 雙品〉-- 2012年11月19日 星期一。 `The Feature of the Correspondence Tables of Pali Dhammapada among T210, T211 and T213 <https://yifertwtw.blogspot.com/2012/11/the-feature-of-correspondence-tables-of.html>`__ 2012年11月19日 星期一。（@ blogspot.com）  
+
+  * `《法集要頌經》(T213)、《出曜經》(T212)、《法句經》(T210)與 梵文《法句經》Udānavarga 偈頌對照表 <http://yifertw213.blogspot.com/2013/12/t2131.html>`__ ；依《法集要頌經》編序，〈1有為品〉-- 2013年12月6日 星期五。
+
+  *  `梵文《法句經》、漢譯《法句經》與巴利《法句經》偈頌對照表 <https://yifertwtw.blogspot.com/2015/01/t2131.html>`__ ；依梵文《法句經》編序，〈1無常品〉-- 2015年1月1日 星期四（@ blogspot.com）。
+
+  *  `《法句經》、敦煌殘卷 P 2381 與巴利《法句經》偈頌對照表 <https://yifertwtw.blogspot.com/2013/04/p-2381-1.html>`__ ；依支謙譯《法句經》（大正藏 T210）編序，〈1 無常品〉-- 2013年4月30日 星期二（@ blogspot.com）。
 
   * (北傳) 法句經-- 經文編碼及註腳，法雨道場； `PDF <{filename}/extra/pdf/c-N-Dharmapada.pdf>`__ 、 `DOC <{filename}/extra/doc/c-N-Dharmapada.doc>`__； `DOC (Foreign1 字型) <{filename}/extra/doc/c-N-Dharmapada-f1.doc>`__
 
@@ -163,6 +171,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  09-29 add: 偈頌對照表 linking (this site: {filename}dhp-correspondence-tables/dhp-correspondence-tables%zh.rst under construction!)
   2021-01-24 add: 白話文版 2021 
   2018-08-07 add: 元亨寺 漢譯南傳大藏經 法句經
   2016-03-05 create rst for github
