@@ -3,7 +3,7 @@ Publications of Ven. Uttamo
 ============================
 
 :date: 2019-01-13
-:modified: 2021-09-14
+:modified: 2021-09-28
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Ven. Uttamo
@@ -725,7 +725,12 @@ _`For printing` full text of "Dhamma Talks by Mogok Sayadaw":
 
   * `full text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5.pdf>`__ (1115 pages, 2021-09-12) 
 
-  * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-1.pdf>`__ (569 pages, 2021-09-12)
+  * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-1.pdf>`__ (569 pages, 2021-09-12); **Note:** There are three (3) pages which are colourful for print on this Volumn: 
+
+    | a. Page 41 (31) (D. A. Process), 
+    | b. Page 52 (42) (Kammabhava, D. A. Process) and 
+    | c. Page 330 (320) (the Axle of the Taints，part5-5).   
+    | 
 
   * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-2.pdf>`__ (558 pages, 2021-09-12)
      
@@ -954,6 +959,7 @@ Protection with Blessing
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  09-28 add: Note of colourful pages for 12.pt
   09-14 rev: correct %zh%zh with %zh.rst
   09-13 rev: rename manuscript%zh.rst with translation-manuscript%zh.rst
   09-12 add: Some Selected Manuscripts
