@@ -4,7 +4,7 @@ About the Translator (Eighteen Days in Solitude)
 
 :date: 2021-07-28
 :modified: 2021-10-21
-:tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
+:tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Bhikkhu Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: About the Translator (Eighteen Days in Solitude)
 

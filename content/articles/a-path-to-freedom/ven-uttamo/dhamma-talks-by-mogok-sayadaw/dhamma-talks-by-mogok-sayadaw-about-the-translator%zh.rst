@@ -4,7 +4,7 @@ About the Translator (Dhamma Talks by Mogok Sayadaw)
 
 :date: 2021-07-28
 :modified: 2021-10-21
-:tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
+:tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: About the Translator (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned)
 

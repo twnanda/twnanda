@@ -4,7 +4,7 @@ Translator's Notes
 
 :date: 2019-01-11
 :modified: 2021-10-21
-:tags: Translator, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
+:tags: Translator, Dhamma Talks by Mogok Sayadaw, Bhikkhu Uttamo, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: Ven. Uttamo Bhante
 :summary: Translator's Notes (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned)
 

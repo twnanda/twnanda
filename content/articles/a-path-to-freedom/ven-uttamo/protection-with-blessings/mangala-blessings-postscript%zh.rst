@@ -4,7 +4,7 @@ Postscript (Maṅgala Sutta – Protection with Blessing)
 
 :date: 2019-12-03
 :modified: 2021-10-21
-:tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
+:tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Bhikkhu Uttamo, Ven. Uttamo
 :category: path of nirvana
 :summary: Postscript (Maṅgala Sutta – Protection with Blessing)
 

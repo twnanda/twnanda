@@ -4,7 +4,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 
 :date: 2019-04-18
 :modified: 2021-10-21
-:tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
+:tags: publication, Bhikkhu Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
 
@@ -12,7 +12,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 Dhamma Talks by Mogok Sayadaw
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--- Emptiness, Conditioned, and Unconditioned. Translation based on the recorded tapes by Ven. Uttamo thera
+-- Emptiness, Conditioned, and Unconditioned. Translation based on the recorded tapes by Bhikkhu Uttamo
 
 .. list-table:: Dhamma Talks by Mogok Sayadaw
    :widths: 20 20 20 20 20

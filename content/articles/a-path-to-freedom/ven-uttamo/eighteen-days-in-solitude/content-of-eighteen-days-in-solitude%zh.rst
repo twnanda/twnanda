@@ -4,7 +4,7 @@ Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
 
 :date: 2019-11-13
 :modified: 2021-10-21
-:tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
+:tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Bhikkhu Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
 

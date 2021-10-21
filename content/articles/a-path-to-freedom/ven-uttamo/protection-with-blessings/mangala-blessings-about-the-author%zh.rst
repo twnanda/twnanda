@@ -4,7 +4,7 @@ About the author (Maṅgala Sutta – Protection with Blessing)
 
 :date: 2021-07-28
 :modified: 2021-10-21
-:tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
+:tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Bhikkhu Uttamo, Ven. Uttamo
 :category: path of nirvana
 :summary: About the author (Maṅgala Sutta – Protection with Blessing)
 

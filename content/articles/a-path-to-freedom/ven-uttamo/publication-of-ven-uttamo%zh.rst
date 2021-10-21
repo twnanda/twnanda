@@ -1,17 +1,17 @@
-============================
-Publications of Ven. Uttamo
-============================
+=================================
+Publications of Bhikkhu Uttamo
+=================================
 
 :date: 2019-01-13
 :modified: 2021-10-21
-:tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
+:tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
-:summary: Publications of Ven. Uttamo
+:summary: Publications of Bhikkhu Uttamo
 
 
-- `Dhamma Talks by Mogok Sayadaw`_ -- Emptiness, Conditioned, and Unconditioned. Translation based on the recorded tapes by Ven. Uttamo Thera; cited from https://www.oba.org.tw/viewforum.php?f=22&sid=ed1ab0b13e5a4ae76826160aff983ceb 
+- `Dhamma Talks by Mogok Sayadaw`_ -- Emptiness, Conditioned, and Unconditioned. Translation based on the recorded tapes by Bhikkhu Uttamo; cited from https://www.oba.org.tw/viewforum.php?f=22&sid=ed1ab0b13e5a4ae76826160aff983ceb 
 
-- `Eighteen Days in Solitude`_ -- Instructional Dhamma Talks in Retreat, by Venerable U Ādiccaramsī; the translator: Ven. Uttamo Thera; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35449 
+- `Eighteen Days in Solitude`_ -- Instructional Dhamma Talks in Retreat, by Venerable U Ādiccaramsī; the translator: Bhikkhu Uttamo; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35449 
 
 - `Protection with Blessing`_ -- Maṅgala Sutta
 
@@ -765,7 +765,7 @@ Eighteen Days in Solitude
 
 by Venerable U Ādiccaramsī
 
-the translator : Ven. Uttamo (鄔達摩尊者）
+the translator : Bhikkhu Uttamo (鄔達摩  比丘）
 
 
 .. list-table:: Eighteen Days in Solitude

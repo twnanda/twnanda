@@ -4,7 +4,7 @@ Introduction
 
 :date: 2019-01-13
 :modified: 2021-10-21
-:tags: Introduction, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
+:tags: Introduction, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Introduction (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
