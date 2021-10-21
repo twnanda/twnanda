@@ -3,16 +3,16 @@ About the Translator (Dhamma Talks by Mogok Sayadaw)
 ===============================================================================
 
 :date: 2021-07-28
-:modified: 2021-08-28
+:modified: 2021-10-21
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: About the Translator (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned)
 
-revised on 2021-08-28
+revised on 2021-10-21
 
 ------
 
-By Venerable Uttamo Thera（尊者 鄔達摩 長老）
+By Bhikkhu Uttamo（鄔達摩 比丘）
 
 ------
 
@@ -38,7 +38,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 ------
 
-revised on 2021-08-28
+revised on 2021-10-21
 
 ------
 
@@ -46,8 +46,9 @@ revised on 2021-08-28
 
 ------
 
-- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Ven. Uttamo
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Bhikkhu Uttamo
 
 ..
+  10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
   08-28 rev. proofread by bhante (07-31)
   2021-07-28  create rst

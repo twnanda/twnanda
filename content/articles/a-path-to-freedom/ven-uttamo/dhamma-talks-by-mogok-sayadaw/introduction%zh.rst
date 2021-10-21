@@ -3,12 +3,12 @@ Introduction
 ==========================================
 
 :date: 2019-01-13
-:modified: 2021-08-28
+:modified: 2021-10-21
 :tags: Introduction, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Introduction (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-08-28
+revised on 2021-10-21
 
 ------
 
@@ -307,9 +307,7 @@ revised on 2021-08-28; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=40
 
 ------
 
-**This is only an experimental WWW. It's always under construction (proofreading, revising)!**
-
-**According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
+**According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ------
 
@@ -326,6 +324,7 @@ revised on 2021-08-28; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=40
               | sukha: agreeable，pleasant，blest
 
 ..
+  10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
   08-28 rev. proofread by bhante (07-31)
   07-28 rev. proofread by bhante
              ?? or this: As an import/export businessman, he has traveled abroad many times. ??

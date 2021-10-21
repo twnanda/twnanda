@@ -3,12 +3,12 @@ Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
 ===============================================================================
 
 :date: 2019-11-13
-:modified: 2021-07-29
+:modified: 2021-10-21
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
 
-By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
+By **Venerable U Ādiccaramsī** ; The translator: **Bhikkhu Uttamo**
 
 ------
 
@@ -78,13 +78,14 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 
 ------
 
-- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Ven. Uttamo
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Bhikkhu Uttamo
 
 ------
 
-**According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
+**According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
   07-29 rev: full text & print
   07-28 add: About the Translator
   07-06 add: cover of 18-days & Maṅgala Sutta

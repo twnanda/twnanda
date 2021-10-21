@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2021-09-28
+:modified: 2021-10-21
 :tags: publication, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -37,7 +37,7 @@ Dhamma Talks by Mogok Sayadaw
      - `Epilogue <{filename}postscript%zh.rst>`__
      - `Appendix <{filename}appendix%zh.rst>`__ ( `Manuscript of Translations <{filename}translation-manuscript%zh.rst>`__ )
      - `About the translator`_ 
-     - `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ ; (PDF, 2021-08-28)   `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (PDF, background in green, 2021-08-28)
+     - `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ ; (PDF, 2021-10-21)   `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (PDF, background in green, 2021-10-21)
 
 ------
 
@@ -721,48 +721,49 @@ _`For printing` full text of this book:
 
 - Size: B5, General (12 pt, PDF)
 
-  * `full text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5.pdf>`__ (1115 pages, 2021-09-12) 
+  * `full text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5.pdf>`__ (1115 pages, 2021-10-21) 
 
-  * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-1.pdf>`__ (569 pages, 2021-09-12); **Note:** There are three (3) pages which are colourful for print on this Volumn: 
+  * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-1.pdf>`__ (569 pages, 2021-10-21); **Note:** There are three (3) pages which are colourful for print on this Volumn: 
 
     | a. Page 41 (31) (D. A. Process), 
     | b. Page 52 (42) (Kammabhava, D. A. Process) and 
     | c. Page 330 (320) (the Axle of the Taints，part5-5).   
     | 
 
-  * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-2.pdf>`__ (558 pages, 2021-09-12)
+  * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-2.pdf>`__ (558 pages, 2021-10-21)
      
 - Size: B5, Large font (14.5 pt, PDF)
 
-  * `full text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5.pdf>`__ (1483 pages, 2021-09-12) **Note:** There are three (3) pages which are colourful: Page 53, 67 and 446.
+  * `full text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5.pdf>`__ (1483 pages, 2021-10-21) **Note:** There are three (3) pages which are colourful: Page 53, 67 and 446.
 
-  * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-1.pdf>`__ [515 pages, 2021-09-12, Translator's Notes ~ Part 05-16 (The Most Important Thing in Life)]; **Note:** There are three (3) pages which are colourful for print on this Volumn: 
+  * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-1.pdf>`__ [515 pages, 2021-10-21, Translator's Notes ~ Part 05-16 (The Most Important Thing in Life)]; **Note:** There are three (3) pages which are colourful for print on this Volumn: 
 
     | a. Page 53 (42) (D. A. Process), 
     | b. Page 67 (56) (Kammabhava, D. A. Process) and 
     | c. Page 446 (435) (the Axle of the Taints，part5-5).   
 
-  * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-2.pdf>`__ [511 pages, 2021-09-12, Part 05-17 (To Know Yourself) ~ Part 10-04 (Our Murderers)]
+  * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-2.pdf>`__ [511 pages, 2021-10-21, Part 05-17 (To Know Yourself) ~ Part 10-04 (Our Murderers)]
 
-  * `Vol. III <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-3.pdf>`__ [483 pages, 2021-09-12, Part 10-05 (The Four Noble Truths) ~ Vipassanā Bhāvanā (Appendix)]
+  * `Vol. III <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-3.pdf>`__ [483 pages, 2021-10-21, Part 10-05 (The Four Noble Truths) ~ Vipassanā Bhāvanā (Appendix)]
 
-- `Size: A4 <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-A4.pdf>`__ , General (12 pt, PDF, 835 pages, 2021-09-12) 
+- `Size: A4 <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-A4.pdf>`__ , General (12 pt, PDF, 835 pages, 2021-10-21) 
 
-- `Size: A4 <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-A4.pdf>`__ , Large font (14.5 pt, PDF, 1073 pages, 2021-09-12) 
+- `Size: A4 <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-A4.pdf>`__ , Large font (14.5 pt, PDF, 1073 pages, 2021-10-21) 
 
-- Cover: `Vol-I <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok1-cover.png>`__ , `Vol-II <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok2-cover.png>`__ , `Vol-III <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok3-cover.png>`__ (2021-08-28)
+- Cover: `Vol-I <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok1-cover.png>`__ , `Vol-II <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok2-cover.png>`__ , `Vol-III <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok3-cover.png>`__ (2021-10-21)
 
-revised on 2021-09-12
-
-------
-
-- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Ven. Uttamo
+revised on 2021-10-21
 
 ------
 
-**According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Bhikkhu Uttamo
+
+------
+
+**According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
   09-28 add: Note of colourful pages for 12.pt
   09-12 add: Some Selected Manuscripts
   08-28 rev. proofread by bhante (07-31)

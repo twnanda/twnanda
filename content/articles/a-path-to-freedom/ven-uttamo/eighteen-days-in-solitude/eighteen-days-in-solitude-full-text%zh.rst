@@ -3,16 +3,16 @@ Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat (Full Text)
 ===============================================================================
 
 :date: 2019-01-13
-:modified: 2021-07-29
+:modified: 2021-10-21
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat (Full Text)
 
-revised on 2021-07-29
+revised on 2021-10-21
 
 ------
 
-By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
+By **Venerable U Ādiccaramsī** ; The translator: **Bhikkhu Uttamo**
 
 ------
 
@@ -866,7 +866,7 @@ First, factors of enlightenment arise (i.e., bojjhaṅga dhammas). And then the 
 About the Translator
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-By Uttamo
+By Bhikkhu Uttamo
 
 **There is nothing worthy of mentioning about it. Only the Dhamma has value.**
 
@@ -890,7 +890,7 @@ By Uttamo
 
 -----
 
-revised on 2021-07-29
+revised on 2021-10-21
 
 ------
 
@@ -898,13 +898,14 @@ revised on 2021-07-29
 
 ------
 
-- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Ven. Uttamo
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Bhikkhu Uttamo
 
 ------
 
-**According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
+**According to the translator— Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
   2021-07-29 rev. introduction, day 4, 5, 8, 12, 13, 15, 16, 18; add: about-the-translator
   09-06 rev. the 3rd proofread (08-12) by bhante; old:Someone with weak faculties follows with three fruition cittas.
   2020-06-26 rev. proofread by bhante

@@ -3,16 +3,16 @@ Introduction (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2021-03-26
+:modified: 2021-10-21
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Introduction (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2021-03-26
+revised on 2021-10-21
 
 ------
 
-By Venerable Uttamo Thera（尊者 鄔達摩 長老）
+By Bhikkhu Uttamo（鄔達摩 比丘）
 
 ------
 
@@ -138,7 +138,7 @@ Metta and Khandha Suttas – the discourses on good-will, loving-kindness, lovin
 
 ------
 
-revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36763#p36764 (posted on 2019-09-09)
+revised on 2021-10-21; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36763#p36764 (posted on 2019-09-09)
 
 ------
 
@@ -146,13 +146,14 @@ revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 
 ------
 
-- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Ven. Uttamo
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Bhikkhu Uttamo
 
 ------
 
-**According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
+**According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
   03-26 rev. proofread by bhante
   2021-03-16 rev. proofread by bhante
   2020-03-24 rev. the 2nd proofread by bhante

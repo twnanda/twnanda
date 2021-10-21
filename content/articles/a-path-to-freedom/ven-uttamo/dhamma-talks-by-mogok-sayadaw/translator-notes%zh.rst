@@ -3,20 +3,20 @@ Translator's Notes
 ==========================================
 
 :date: 2019-01-11
-:modified: 2019-05-26
+:modified: 2021-10-21
 :tags: Translator, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: Ven. Uttamo Bhante
 :summary: Translator's Notes (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned)
 
-revised on 2019-05-26
+revised on 2021-10-21
 
 ------
 
-**According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
+**According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ------
 
-The translator: **Ven. Uttamo**
+The translator: **Bhikkhu Uttamo**
 
 **Mogok Sayadaw** (1899~1962) gave many talks on practice from 1945 until his death.
 
@@ -30,7 +30,7 @@ These teaching were based on khandha, āyatana, dhātu, sacca and paṭicca-samu
 
 ------
 
-revised on 2019-05-26; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4027 (posted on 2018-12-14)
+revised on 2021-10-21; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4027 (posted on 2018-12-14)
 
 ------
 
@@ -38,9 +38,10 @@ revised on 2019-05-26; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=40
 
 ------
 
-- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Ven. Uttamo
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Bhikkhu Uttamo
 
 ..
+  2021-10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
   05-26 rev. old: sacca & paṭicca-samuppāda
   05-03 rev. correct file name content-of-dhamma-talks-by-mogok-sayadaw%zh.rst
   04-18 rev. independent content from content of publication-of-ven-uttamo

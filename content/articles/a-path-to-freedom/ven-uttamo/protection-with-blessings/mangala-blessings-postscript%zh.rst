@@ -3,16 +3,16 @@ Postscript (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2021-03-16
+:modified: 2021-10-21
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Postscript (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2021-03-16
+revised on 2021-10-21
 
 ------
 
-By Venerable Uttamo Thera（尊者 鄔達摩 長老）
+By Bhikkhu Uttamo（鄔達摩 比丘）
 
 ------
 
@@ -234,7 +234,7 @@ In this way, we protect oneself and protecting others, including nature. Every h
 
 ------
 
-revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=37001#p37001 (posted on 2019-11-22)
+revised on 2021-10-21; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=37001#p37001 (posted on 2019-11-22)
 
 ------
 
@@ -242,13 +242,14 @@ revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 
 ------
 
-- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Ven. Uttamo
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Bhikkhu Uttamo
 
 ------
 
-**According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
+**According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
   2021-03-16 rev. proofread by bhante
   07-22 rev. the 2nd proofread by bhante
   06-30 rev. the 1st proofread by bhante
