@@ -3,8 +3,8 @@
 ==============================================================
 
 :date: 2021-08-31
-:modified: 2021-08-31
-:tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
+:modified: 2021-10-26
+:tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--依支謙譯《法句經》（大正藏 T210）編序
 
@@ -48,11 +48,11 @@ _`《法句經》偈頌對照表--依支謙譯《法句經》編序`
    :header-rows: 1
 
    * - `1 無常品 <{filename}dhp-correspondence-tables-t210-chap01%zh.rst>`_ 
-     - `2 教學品 <{filename}dhp-correspondence-tables-t210-chap02%zh.rst>`_ （建構中 (Under construction)!）
-     - `3 多聞品 <{filename}dhp-correspondence-tables-t210-chap03%zh.rst>`_ （建構中 (Under construction)!）
-     - `4 篤信品 <{filename}dhp-correspondence-tables-t210-chap04%zh.rst>`_ （建構中 (Under construction)!）
-     - `5 戒慎品 <{filename}dhp-correspondence-tables-t210-chap05%zh.rst>`_ （建構中 (Under construction)!）
-     - `6 惟念品 <{filename}dhp-correspondence-tables-t210-chap06%zh.rst>`_ （建構中 (Under construction)!）
+     - `2 教學品 <{filename}dhp-correspondence-tables-t210-chap02%zh.rst>`_ 
+     - `3 多聞品 <{filename}dhp-correspondence-tables-t210-chap03%zh.rst>`_ 
+     - `4 篤信品 <{filename}dhp-correspondence-tables-t210-chap04%zh.rst>`_ 
+     - `5 戒慎品 <{filename}dhp-correspondence-tables-t210-chap05%zh.rst>`_ 
+     - `6 惟念品 <{filename}dhp-correspondence-tables-t210-chap06%zh.rst>`_ 
 
    * - 1. 21首偈頌，卷1
      - 2. 29首偈頌，卷1
@@ -65,12 +65,12 @@ _`《法句經》偈頌對照表--依支謙譯《法句經》編序`
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `7 慈仁品 <{filename}dhp-correspondence-tables-t210-chap07%zh.rst>`_ （建構中 (Under construction)!）
-     - `8 言語品 <{filename}dhp-correspondence-tables-t210-chap08%zh.rst>`_ （建構中 (Under construction)!）
-     - `9 雙要品 <{filename}dhp-correspondence-tables-t210-chap09%zh.rst>`_ （建構中 (Under construction)!）
-     - `10 放逸品 <{filename}dhp-correspondence-tables-t210-chap10%zh.rst>`_ （建構中 (Under construction)!）
-     - `11 心意品 <{filename}dhp-correspondence-tables-t210-chap11%zh.rst>`_ （建構中 (Under construction)!）
-     - `12 華香品 <{filename}dhp-correspondence-tables-t210-chap12%zh.rst>`_ （建構中 (Under construction)!）
+   * - `7 慈仁品 <{filename}dhp-correspondence-tables-t210-chap07%zh.rst>`_ 
+     - `8 言語品 <{filename}dhp-correspondence-tables-t210-chap08%zh.rst>`_ 
+     - `9 雙要品 <{filename}dhp-correspondence-tables-t210-chap09%zh.rst>`_ 
+     - `10 放逸品 <{filename}dhp-correspondence-tables-t210-chap10%zh.rst>`_ 
+     - `11 心意品 <{filename}dhp-correspondence-tables-t210-chap11%zh.rst>`_ 
+     - `12 華香品 <{filename}dhp-correspondence-tables-t210-chap12%zh.rst>`_ 
 
    * - 7. 19首偈頌，卷1
      - 8. 12首偈頌，卷1
@@ -83,9 +83,9 @@ _`《法句經》偈頌對照表--依支謙譯《法句經》編序`
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `13 愚闇品 <{filename}dhp-correspondence-tables-t210-chap13%zh.rst>`_ （建構中 (Under construction)!）
-     - `14 明哲品 <{filename}dhp-correspondence-tables-t210-chap14%zh.rst>`_ （建構中 (Under construction)!）
-     - `15 羅漢品 <{filename}dhp-correspondence-tables-t210-chap15%zh.rst>`_ （建構中 (Under construction)!）
+   * - `13 愚闇品 <{filename}dhp-correspondence-tables-t210-chap13%zh.rst>`_ 
+     - `14 明哲品 <{filename}dhp-correspondence-tables-t210-chap14%zh.rst>`_ 
+     - `15 羅漢品 <{filename}dhp-correspondence-tables-t210-chap15%zh.rst>`_ 
      - `16 述千品 <{filename}dhp-correspondence-tables-t210-chap16%zh.rst>`_ （建構中 (Under construction)!）
      - `17 惡行品 <{filename}dhp-correspondence-tables-t210-chap17%zh.rst>`_ （建構中 (Under construction)!）
      - `18 刀杖品 <{filename}dhp-correspondence-tables-t210-chap18%zh.rst>`_ （建構中 (Under construction)!）
@@ -191,4 +191,5 @@ _`《法句經》偈頌對照表--依支謙譯《法句經》編序`
 
 
 ..
+  10-26 rev. completed to the chapter 15
   2021-08-31 post; 08-28 create rst
