@@ -2,7 +2,7 @@
 ===================
 
 :date: 2016-01-29 09:00
-:modified: 2021-09-29
+:modified: 2021-11-11
 :tags: 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經, Dhammapada
@@ -19,13 +19,13 @@
 
   * `文言文版 <{filename}dhp-Ven-L-C/dhp-Ven-L-C%zh.rst>`__ ( **了參 法師** 譯，台北市：圓明出版社，1991。)
 
-  * Dhammapada 法句經(中英對照)--　 **尊者 明法 比丘** 註（增加許多濃縮的故事）〕： `PDF <{filename}/extra/pdf/ec-dhp.pdf>`__ 、 `DOC <{filename}/extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/ec-dhp-f1.doc>`__ [3]_
+  * Dhammapada 法句經(中英對照)--　 **尊者 明法 比丘** 註（增加許多濃縮的故事）〕： `PDF <{static}/extra/pdf/ec-dhp.pdf>`__ 、 `DOC <{static}/extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) <{static}/extra/doc/ec-dhp-f1.doc>`__ [3]_
 
-  * 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師** (葉均)，注解： **尊者 明法 比丘** ； `PDF <{filename}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{filename}/extra/doc/pc-Dhammapada.doc>`__； `DOC (Foreign1 字型) <{filename}/extra/doc/pc-Dhammapada-f1.doc>`__ [4]_
+  * 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師** (葉均)，注解： **尊者 明法 比丘** ； `PDF <{static}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{static}/extra/doc/pc-Dhammapada.doc>`__； `DOC (Foreign1 字型) <{static}/extra/doc/pc-Dhammapada-f1.doc>`__ [4]_
 
   * `白話文版 2021 <{filename}dhp-Ken-Yifertw-Su/dhp-Ken-Y-Su%zh.rst>`__ ，含巴利文法分析， 蘇錦坤 著（蘇錦坤 Ken Su， `獨立佛學研究者 <https://independent.academia.edu/KenYifertw>`_ ，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>`_ 部落格格主）
 
-  * `白話文版 <{filename}dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__ ， **敬法 法師** 譯，第二修訂版 2015，`pdf <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__  `原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`_ ；　( `初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
+  * `白話文版 <{filename}dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__ ， **敬法 法師** 譯，第二修訂版 2015，`pdf <{static}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__  `原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`_ ；　( `初版 <{static}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
 
   * **《真理的語言(法句經)》** ， **淨海 法師** 中譯 [5]_
 
@@ -33,7 +33,7 @@
 
   * `南傳法句經新譯 <http://www.book853.com/show.aspx?id=1332&cid=89>`_ ，文言文版， **尊者 法增 比丘** 譯（七葉佛教書舍）
 
-  * 巴利語法句譯註 [6]_ ，廖文燦； `PDF <{filename}/extra/pdf/Dp-Liau.pdf>`__ 、 `RTF <{filename}/extra/doc/Dp-Liau.rtf>`__
+  * 巴利語法句譯註 [6]_ ，廖文燦； `PDF <{static}/extra/pdf/Dp-Liau.pdf>`__ 、 `RTF <{static}/extra/doc/Dp-Liau.rtf>`__
 
 - 參考相當之古漢譯對應經典：
 
@@ -48,17 +48,19 @@
   * | `《法集要頌經》校勘與標點 <http://yifertw213.blogspot.com/2013/12/1-40.html>`__ ，〈1 有為品〉 40頌 --2013年12月6日 星期五。（ `《法集要頌經》校勘、標點與 Udānavarga 對照表 <http://yifertw213.blogspot.com/>`__ @ blogspot.com ）
     | 〔大正新脩大藏經第四冊 `No. 213《法集要頌經》 <http://www.cbeta.org/result/T04/T04n0213.htm>`_ ： `卷第一 <http://www.cbeta.org/result/normal/T04/0213_001.htm>`__ 、 `卷第二 <http://www.cbeta.org/result/normal/T04/0213_002.htm>`__ 、 `卷第三 <http://www.cbeta.org/result/normal/T04/0213_003.htm>`__ 、 `卷第四 <http://www.cbeta.org/result/normal/T04/0213_004.htm>`__〕(CBETA)  ( **尊者 法救** 集， **天息災** 譯) [7]_
 
-  * `《法句經》、《出曜經》與巴利《法句經》(Dhammapada)偈頌對照表 <https://yifertwtw.blogspot.com/2012/10/t210-chapter-1-t04558a1.html>`__ ；依支謙譯《法句經》（大正藏 T210）編序，〈1 無常品〉T210 Chapter 1 (T04.559a)-- 2012年10月8日 星期一。 `The Feature of the Correspondence Tables of Fa-Ju-Jing(T210) <https://yifertwtw.blogspot.com/2012/10/the-feature-of-correspondence-tables-of.html>`__ 2012年10月8日 星期一（@ blogspot.com）。
+  * `《法句經》偈頌對照表 <{filename}dhp-correspondence-tables/dhp-correspondence-tables%zh.rst>`__
 
-  * `巴利《法句經》與漢譯《法句經》偈頌對照表  <https://yifertwtw.blogspot.com/2012/11/pali-dhammapada-1-yamaka-vagga-1-20-1.html>`__ ；依蘇錦坤漢譯巴利《法句經》編序，〈1 雙品〉-- 2012年11月19日 星期一。 `The Feature of the Correspondence Tables of Pali Dhammapada among T210, T211 and T213 <https://yifertwtw.blogspot.com/2012/11/the-feature-of-correspondence-tables-of.html>`__ 2012年11月19日 星期一。（@ blogspot.com）  
+    - 《法句經》、《出曜經》與巴利《法句經》(Dhammapada)偈頌對照表-- `依支謙譯《法句經》（大正藏 T210）編序 <{filename}dhp-correspondence-tables/dhp-correspondence-tables-t210%zh.rst>`__ （ `原始出處 <https://yifertwtw.blogspot.com/2012/10/t210-chapter-1-t04558a1.html>`__ ：〈1 無常品〉T210 Chapter 1 (T04.559a)-- 2012年10月8日 星期一。 `The Feature of the Correspondence Tables of Fa-Ju-Jing(T210) <https://yifertwtw.blogspot.com/2012/10/the-feature-of-correspondence-tables-of.html>`__ 2012年10月8日 星期一（@ blogspot.com）。 ）
 
-  * `《法集要頌經》(T213)、《出曜經》(T212)、《法句經》(T210)與 梵文《法句經》Udānavarga 偈頌對照表 <http://yifertw213.blogspot.com/2013/12/t2131.html>`__ ；依《法集要頌經》編序，〈1有為品〉-- 2013年12月6日 星期五。
+    - 巴利《法句經》、《法句經》、《出曜經》與《法集要頌經》偈頌對照表-- `依蘇錦坤漢譯巴利《法句經》編序 <{filename}dhp-correspondence-tables/dhp-correspondence-tables-pali%zh.rst>`__ （ `原始出處 <https://yifertwtw.blogspot.com/2012/11/pali-dhammapada-1-yamaka-vagga-1-20-1.html>`__ ：〈1 雙品〉-- 2012年11月19日 星期一。 `The Feature of the Correspondence Tables of Pali Dhammapada among T210, T211 and T213 <https://yifertwtw.blogspot.com/2012/11/the-feature-of-correspondence-tables-of.html>`__ 2012年11月19日 星期一（@ blogspot.com）。 ）
 
-  *  `梵文《法句經》、漢譯《法句經》與巴利《法句經》偈頌對照表 <https://yifertwtw.blogspot.com/2015/01/t2131.html>`__ ；依梵文《法句經》編序，〈1無常品〉-- 2015年1月1日 星期四（@ blogspot.com）。
+    - Udānavarga 梵文法句經、《法句經》(T210)、《出曜經》(T212)、《法集要頌經》(T213)與巴利《法句經》偈頌對照表-- `依梵文《法句經》編序 <{filename}dhp-correspondence-tables/dhp-correspondence-tables-sanskrit%zh.rst>`__ （ `原始出處 <https://yifertwtw.blogspot.com/2015/01/t2131.html>`__ ；依梵文《法句經》編序，〈1無常品〉-- 2015年1月1日 星期四（@ blogspot.com）。 ）
 
-  *  `《法句經》、敦煌殘卷 P 2381 與巴利《法句經》偈頌對照表 <https://yifertwtw.blogspot.com/2013/04/p-2381-1.html>`__ ；依支謙譯《法句經》（大正藏 T210）編序，〈1 無常品〉-- 2013年4月30日 星期二（@ blogspot.com）。
+    - `《法集要頌經》(T213)、《出曜經》(T212)、《法句經》(T210)與 梵文《法句經》Udānavarga 偈頌對照表 <http://yifertw213.blogspot.com/2013/12/t2131.html>`__ ；依《法集要頌經》編序，〈1有為品〉-- 2013年12月6日 星期五（@ blogspot.com）。
 
-  * (北傳) 法句經-- 經文編碼及註腳，法雨道場； `PDF <{filename}/extra/pdf/c-N-Dharmapada.pdf>`__ 、 `DOC <{filename}/extra/doc/c-N-Dharmapada.doc>`__； `DOC (Foreign1 字型) <{filename}/extra/doc/c-N-Dharmapada-f1.doc>`__
+    - `《法句經》、敦煌殘卷 P 2381 與巴利《法句經》偈頌對照表 <https://yifertwtw.blogspot.com/2013/04/p-2381-1.html>`__ ；依支謙譯《法句經》（大正藏 T210）編序，〈1 無常品〉-- 2013年4月30日 星期二（@ blogspot.com）。
+
+  * (北傳) 法句經-- 經文編碼及註腳，法雨道場； `PDF <{static}/extra/pdf/c-N-Dharmapada.pdf>`__ 、 `DOC <{static}/extra/doc/c-N-Dharmapada.doc>`__； `DOC (Foreign1 字型) <{static}/extra/doc/c-N-Dharmapada-f1.doc>`__
 
 - 《白話藏傳法句經》。 `（上） <blog.xuite.net/wisely619/twblog/129469780>`__ \、 `（中） <http://blog.xuite.net/wisely619/twblog/129469781>`__ \、 `（下） <http://blog.xuite.net/wisely619/twblog/129469782>`__ \；或 `（上） <https://manjusri0404pemajungney0710.wordpress.com/2009/12/12/%E7%99%BD%E8%A9%B1%E8%97%8F%E5%82%B3%E6%B3%95%E5%8F%A5%E7%B6%93%E3%80%80%EF%BC%88%E4%B8%8A%EF%BC%89%E3%80%80%E3%80%80%E3%80%80%E6%B3%95%E6%95%91%E5%B0%8A%E8%80%85%E8%91%97%EF%BC%8C%E8%91%9B%E9%9B%B7/>`__ \、 `（下） <https://manjusri0404pemajungney0710.wordpress.com/2009/12/12/%E7%99%BD%E8%A9%B1%E8%97%8F%E5%82%B3%E6%B3%95%E5%8F%A5%E7%B6%93%E3%80%80%EF%BC%88%E4%B8%8B%EF%BC%89%E3%80%80%E3%80%80%E3%80%80%E6%B3%95%E6%95%91%E5%B0%8A%E8%80%85%E8%91%97%EF%BC%8C%E8%91%9B%E9%9B%B7/>`__ 。 [8]_
 
@@ -85,7 +87,7 @@
 
 -----------------------------------------
 
-- 《法句經故事集》-- 馬來西亞．**達摩難陀長老** 著，臺灣．周金言 譯： `本站 <{filename}dhp-story/dhp-story-han-ciu%zh.rst>`__； `另一線上版 <http://www.budaedu.org/story/dp000.php>`__ (HTML)、 `PDF <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`__ （直掃）、 `PDF <{filename}/extra/pdf/Dhp-story-han.pdf>`__ （橫文）， `佛陀教育基金會 <http://www.budaedu.org>`__ ）； `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ （果儒 法師） [11]_
+- 《法句經故事集》-- 馬來西亞．**達摩難陀長老** 著，臺灣．周金言 譯： `本站 <{filename}dhp-story/dhp-story-han-ciu%zh.rst>`__； `另一線上版 <http://www.budaedu.org/story/dp000.php>`__ (HTML)、 `PDF <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`__ （直掃）、 `PDF <{static}/extra/pdf/Dhp-story-han.pdf>`__ （橫文）， `佛陀教育基金會 <http://www.budaedu.org>`__ ）； `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ （果儒 法師） [11]_
 
 - `南傳法句經的故事 <{filename}dhp-story/dhp-story-Ven-Dharmagupta%zh.rst>`_ （幾則；翻譯者: **護法 法師 Ven. Dharmagupta** ，尼泊爾籍） [12]_
 
@@ -152,7 +154,7 @@
 
 .. [10]  in the Bibliotheca Polyglotta (Gāndhārī, Pāḷi, English, The Buddhist Hybrid Sanskrit, Chinese)
 
-.. [11] 《法句經故事集》-- 馬來西亞．**達摩難陀長老** 著，臺灣．周金言 譯： `本站 <{filename}dhp-story/dhp-story-han-ciu%zh.rst>`__； `另一線上版 <http://www.budaedu.org/story/dp000.php>`__ (HTML)、 `PDF <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`__ （34.2 MB, 原始直式排版，掃描影像檔）、 `PDF <{filename}/extra/pdf/Dhp-story-han.pdf>`__ （橫式排版，文字檔；以上內容皆經 `佛陀教育基金會 <http://www.budaedu.org>`__ 稍做修改過）、 `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ （果儒 法師 修改）
+.. [11] 《法句經故事集》-- 馬來西亞．**達摩難陀長老** 著，臺灣．周金言 譯： `本站 <{filename}dhp-story/dhp-story-han-ciu%zh.rst>`__； `另一線上版 <http://www.budaedu.org/story/dp000.php>`__ (HTML)、 `PDF <http://ftp.budaedu.org/publish/C3/CH31/CH318-04-01-001.PDF>`__ （34.2 MB, 原始直式排版，掃描影像檔）、 `PDF <{static}/extra/pdf/Dhp-story-han.pdf>`__ （橫式排版，文字檔；以上內容皆經 `佛陀教育基金會 <http://www.budaedu.org>`__ 稍做修改過）、 `PDF <https://s3-ap-northeast-1.amazonaws.com/static.iyp.tw/29752/files/eaa2e39e-121a-4422-b0c4-cd8b964e0c1d.pdf>`__ （果儒 法師 修改）
 
 .. [12] 陳建宏，邱秀華，謝素鳳整理。《涅槃的高速公路》。（台南縣：原始佛教學院，2003）。
 
@@ -171,7 +173,8 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
-  09-29 add: 偈頌對照表 linking (this site: {filename}dhp-correspondence-tables/dhp-correspondence-tables%zh.rst under construction!)
+  11-16 rev. & add local linking of 偈頌對照表; replace {filename}/extra/ with {static}/extra/
+  09-29 偈頌對照表 linking (this site: {filename}dhp-correspondence-tables/dhp-correspondence-tables%zh.rst under construction!)
   2021-01-24 add: 白話文版 2021 
   2018-08-07 add: 元亨寺 漢譯南傳大藏經 法句經
   2016-03-05 create rst for github
