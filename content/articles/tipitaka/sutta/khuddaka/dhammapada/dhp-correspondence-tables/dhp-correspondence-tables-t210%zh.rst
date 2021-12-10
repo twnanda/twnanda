@@ -3,7 +3,7 @@
 ==============================================================
 
 :date: 2021-08-31
-:modified: 2021-11-16
+:modified: 2021-12-10
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--依支謙譯《法句經》（大正藏 T210）編序
@@ -28,7 +28,7 @@ I hope it would offer help to expound Pali Dhammapada in light of Chinese verses
 
 繼《出曜經》偈頌對照表於 2012年10月8日完成之後，本部落格繼續提供以支謙譯《法句經》為主的偈頌對照表，基本上僅列出《法句經》(T210), 《出曜經》(T212) 與巴利《法句經》的偈頌。
 
-也就是說，僅有出現在《法句經》(T210) 的偈頌及其對應偈頌才會出現在此對照表。版主希望除了利用巴利《法句經》、梵文《法句經》、犍陀羅語《法句經》與Pratna波特那《法句經》來解讀漢譯《法句經》之外，也能以漢譯《法句經》來校勘、解讀題他語言版本的《法句經》。
+也就是說，僅有出現在《法句經》(T210) 的偈頌及其對應偈頌才會出現在此對照表。版主希望除了利用巴利《法句經》、梵文《法句經》、犍陀羅語《法句經》與Pratna波特那《法句經》來解讀漢譯《法句經》之外，也能以漢譯《法句經》來校勘、解讀其他語言版本的《法句經》。
 
 此一漢、巴《法句經》偈頌對照表是在「法雨精舍版」的基礎下，進行修訂，在此謝謝該版所作的法供養。
 
@@ -122,9 +122,9 @@ _`《法句經》偈頌對照表--依支謙譯《法句經》編序`
    * - `25 忿怒品 <{filename}dhp-correspondence-tables-t210-chap25%zh.rst>`_
      - `26 塵垢品 <{filename}dhp-correspondence-tables-t210-chap26%zh.rst>`_
      - `27 奉持品 <{filename}dhp-correspondence-tables-t210-chap27%zh.rst>`_
-     - `28 道行品 <{filename}dhp-correspondence-tables-t210-chap28%zh.rst>`_ （建構中 (Under construction)!）
-     - `29 廣衍品 <{filename}dhp-correspondence-tables-t210-chap29%zh.rst>`_ （建構中 (Under construction)!）
-     - `30 地獄品 <{filename}dhp-correspondence-tables-t210-chap30%zh.rst>`_ （建構中 (Under construction)!）
+     - `28 道行品 <{filename}dhp-correspondence-tables-t210-chap28%zh.rst>`_ 
+     - `29 廣衍品 <{filename}dhp-correspondence-tables-t210-chap29%zh.rst>`_ 
+     - `30 地獄品 <{filename}dhp-correspondence-tables-t210-chap30%zh.rst>`_ 
 
    * - 25. 26首偈頌，卷2
      - 26. 19首偈頌，卷2
@@ -137,12 +137,12 @@ _`《法句經》偈頌對照表--依支謙譯《法句經》編序`
    :widths: 16 16 16 16 16 16
    :header-rows: 1
 
-   * - `31 象喻品 <{filename}dhp-correspondence-tables-t210-chap31%zh.rst>`_ （建構中 (Under construction)!）
-     - `32 愛欲品 <{filename}dhp-correspondence-tables-t210-chap32%zh.rst>`_ （建構中 (Under construction)!）
-     - `33 利養品 <{filename}dhp-correspondence-tables-t210-chap33%zh.rst>`_ （建構中 (Under construction)!）
-     - `34 沙門品 <{filename}dhp-correspondence-tables-t210-chap34%zh.rst>`_ （建構中 (Under construction)!）
-     - `35 梵志品 <{filename}dhp-correspondence-tables-t210-chap35%zh.rst>`_ （建構中 (Under construction)!）
-     - `36 泥洹品 <{filename}dhp-correspondence-tables-t210-chap36%zh.rst>`_ （建構中 (Under construction)!）
+   * - `31 象喻品 <{filename}dhp-correspondence-tables-t210-chap31%zh.rst>`_ 
+     - `32 愛欲品 <{filename}dhp-correspondence-tables-t210-chap32%zh.rst>`_ 
+     - `33 利養品 <{filename}dhp-correspondence-tables-t210-chap33%zh.rst>`_ 
+     - `34 沙門品 <{filename}dhp-correspondence-tables-t210-chap34%zh.rst>`_ 
+     - `35 梵志品 <{filename}dhp-correspondence-tables-t210-chap35%zh.rst>`_ 
+     - `36 泥洹品 <{filename}dhp-correspondence-tables-t210-chap36%zh.rst>`_ 
 
    * - 31. 17首偈頌，卷2
      - 32. 32首偈頌，卷2
@@ -155,9 +155,9 @@ _`《法句經》偈頌對照表--依支謙譯《法句經》編序`
    :widths: 16 16 16 16 16 16
    :header-rows: 1
 
-   * - `37 生死品 <{filename}dhp-correspondence-tables-t210-chap37%zh.rst>`_ （建構中 (Under construction)!）
-     - `38 道利品 <{filename}dhp-correspondence-tables-t210-chap38%zh.rst>`_ （建構中 (Under construction)!）
-     - `39 吉祥品 <{filename}dhp-correspondence-tables-t210-chap39%zh.rst>`_ （建構中 (Under construction)!）
+   * - `37 生死品 <{filename}dhp-correspondence-tables-t210-chap37%zh.rst>`_ 
+     - `38 道利品 <{filename}dhp-correspondence-tables-t210-chap38%zh.rst>`_ 
+     - `39 吉祥品 <{filename}dhp-correspondence-tables-t210-chap39%zh.rst>`_ 
      - 
      - 
      - 
@@ -191,6 +191,7 @@ _`《法句經》偈頌對照表--依支謙譯《法句經》編序`
 
 
 ..
+  12-10 rev. finish completing to the end (the chapter 39)
   11-16 rev. completed to the chapter 27
   10-26 rev. completed to the chapter 15
   2021-08-31 post; 08-28 create rst
