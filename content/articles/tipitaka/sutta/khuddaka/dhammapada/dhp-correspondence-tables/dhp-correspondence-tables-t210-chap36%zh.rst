@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2021-08-30
-:modified: 2021-12-10
+:modified: 2021-12-18
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--〈36 泥洹品〉36頌（依支謙譯《法句經》編序）
@@ -179,6 +179,12 @@
 
 ------
 
+| （取材自： 1. `Ken Yifertw - Academia.edu <https://www.academia.edu/39828517/T210_%E6%B3%95%E5%8F%A5%E7%B6%93_36_%E6%B3%A5%E6%B4%B9%E5%93%81_%E5%B0%8D%E7%85%A7%E8%A1%A8_v_6>`__
+| 　　　　　 2. https://yifertwtw.blogspot.com/2012/11/t210-chapter-36-t04573a36.html ）
+| 
+
+------
+
 - `《法句經》偈頌對照表--依蘇錦坤漢譯巴利《法句經》編序 <{filename}dhp-correspondence-tables-pali%zh.rst>`_
 - `《法句經》偈頌對照表--依支謙譯《法句經》（大正藏 T210）編序 <{filename}dhp-correspondence-tables-t210%zh.rst>`_
 - `《法句經》偈頌對照表--依梵文《法句經》編序 <{filename}dhp-correspondence-tables-sanskrit%zh.rst>`_
@@ -212,5 +218,6 @@
 
        ← `卷23〈27 泥洹品〉(CBETA, T04, no. 212, p. 730, c6-p. 736, a22) （2013年11月20日 星期三） <http://yifertw212.blogspot.com/2013/11/2327-cbeta-t04-no-212-p-730-c6-p-736-a22.html>`__  ← `《出曜經》校勘與標點 <http://yifertw212.blogspot.com/>`__ 
 ..
+  12-18 add: 取材自
   12-10 post; 12-09 rev. completed from the chapter 28 to the end (the chapter 39)
-  2021-08-30 create rst; 0*-** post
+  2021-08-30 create rst

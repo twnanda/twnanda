@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2021-08-30
-:modified: 2021-12-10
+:modified: 2021-12-17
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--〈39 吉祥品〉19頌（依支謙譯《法句經》編序）
@@ -101,6 +101,12 @@
 
 ------
 
+| （取材自： 1. `Ken Yifertw - Academia.edu <https://www.academia.edu/39828361/T210_%E6%B3%95%E5%8F%A5%E7%B6%93_39_%E5%90%89%E7%A5%A5%E5%93%81_%E5%B0%8D%E7%85%A7%E8%A1%A8_1>`__
+| 　　　　　 2. https://yifertwtw.blogspot.com/2012/11/t210-chapter-39-t04574c39.html ）
+| 
+
+------
+
 - `《法句經》偈頌對照表--依蘇錦坤漢譯巴利《法句經》編序 <{filename}dhp-correspondence-tables-pali%zh.rst>`_
 - `《法句經》偈頌對照表--依支謙譯《法句經》（大正藏 T210）編序 <{filename}dhp-correspondence-tables-t210%zh.rst>`_
 - `《法句經》偈頌對照表--依梵文《法句經》編序 <{filename}dhp-correspondence-tables-sanskrit%zh.rst>`_
@@ -121,5 +127,5 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
-  12-10 post; 12-10 rev. completed from the chapter 28 to the end (the chapter 39)
+  12-18 add: 取材自; 12-10 post; 12-10 rev. completed from the chapter 28 to the end (the chapter 39)
   2021-08-30 create rst

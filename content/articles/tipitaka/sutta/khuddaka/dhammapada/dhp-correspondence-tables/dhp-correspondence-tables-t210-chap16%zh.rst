@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2021-08-30
-:modified: 2021-11-16
+:modified: 2021-12-18
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--〈16 述千品〉16頌（依支謙譯《法句經》編序）
@@ -89,6 +89,12 @@
 
 ------
 
+| （取材自： 1. `Ken Yifertw - Academia.edu <https://www.academia.edu/39829513/T210_%E6%B3%95%E5%8F%A5%E7%B6%93_16_%E8%BF%B0%E5%8D%83%E5%93%81_%E5%B0%8D%E7%85%A7%E8%A1%A8_v_5>`__
+| 　　　　　 2. https://yifertwtw.blogspot.com/2012/10/t210-chapter-16-t04564b16.html ）
+| 
+
+------
+
 - `《法句經》偈頌對照表--依蘇錦坤漢譯巴利《法句經》編序 <{filename}dhp-correspondence-tables-pali%zh.rst>`_
 - `《法句經》偈頌對照表--依支謙譯《法句經》（大正藏 T210）編序 <{filename}dhp-correspondence-tables-t210%zh.rst>`_
 - `《法句經》偈頌對照表--依梵文《法句經》編序 <{filename}dhp-correspondence-tables-sanskrit%zh.rst>`_
@@ -109,5 +115,6 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  12-18 add: 取材自
   11-16 rev. completed to the chapter 27
   2021-08-30 create rst
