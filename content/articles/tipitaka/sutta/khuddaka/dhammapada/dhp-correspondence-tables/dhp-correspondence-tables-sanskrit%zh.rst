@@ -1,12 +1,12 @@
-=============================================================================
-Udānavarga 梵文法句經、巴利《法句經》漢譯與《法集要頌經》(T213)偈頌對照表
-=============================================================================
+========================================================
+《法句經》偈頌對照表--依梵文《法句經》Udānavarga 編序 
+========================================================
 
 :date: 2021-08-31
-:modified: 2021-08-31
+:modified: 2022-01-30
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
-:summary: 《法句經》偈頌對照表--依梵文《法句經》編序（Udānavarga 梵文法句經、巴利《法句經》漢譯與《法集要頌經》(T213)偈頌對照表）
+:summary: 《法句經》偈頌對照表--依梵文《法句經》編序（Udānavarga 梵文法句經、巴利《法句經》漢譯、《出曜經》(T212)與《法集要頌經》(T213)偈頌對照表）
 
 
 蘇錦坤 編著
@@ -70,9 +70,9 @@ _`《法句經》偈頌對照表--依梵文《法句經》編序`
    :header-rows: 1
 
    * - `1 無常品 <{filename}dhp-correspondence-tables-sanskrit-chap01%zh.rst>`_ 
-     - `2 欲品 <{filename}dhp-correspondence-tables-sanskrit-chap02%zh.rst>`_ （建構中 (Under construction)!）
-     - `3 貪品 <{filename}dhp-correspondence-tables-sanskrit-chap03%zh.rst>`_ （建構中 (Under construction)!）
-     - `4 不放逸品 <{filename}dhp-correspondence-tables-sanskrit-chap04%zh.rst>`_ （建構中 (Under construction)!）
+     - `2 欲品 <{filename}dhp-correspondence-tables-sanskrit-chap02%zh.rst>`_
+     - `3 貪品 <{filename}dhp-correspondence-tables-sanskrit-chap03%zh.rst>`_
+     - `4 不放逸品 <{filename}dhp-correspondence-tables-sanskrit-chap04%zh.rst>`_
      - `5 愛品 <{filename}dhp-correspondence-tables-sanskrit-chap05%zh.rst>`_ （建構中 (Under construction)!）
      - `6 戒品 <{filename}dhp-correspondence-tables-sanskrit-chap06%zh.rst>`_ （建構中 (Under construction)!）
 
@@ -213,4 +213,5 @@ _`《法句經》偈頌對照表--依梵文《法句經》編序`
 
 
 ..
+  2022-01-30 change title (old:Udānavarga 梵文法句經、巴利《法句經》漢譯與《法集要頌經》(T213)偈頌對照表); finish chap. 2 ~ chap. 4
   2021-08-31 post; 08-28 create rst
