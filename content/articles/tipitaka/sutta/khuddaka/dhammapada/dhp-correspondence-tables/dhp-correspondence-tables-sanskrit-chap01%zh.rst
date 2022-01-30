@@ -3,7 +3,7 @@
 =============================================================
 
 :date: 2021-08-31
-:modified: 2021-12-21
+:modified: 2022-01-30
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su, Sanskrit, Udānavarga
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--梵文《法句經》 1. Anityavarga 無常品
@@ -343,215 +343,258 @@
 
        梵文漢譯取材自： 猶如蚊子飲大海水 (https://yathasukha.blogspot.com/) 2021年1月4日 星期一 udānavargo https://yathasukha.blogspot.com/2021/01/udanavargo.html  （張貼者：新花長舊枝 15:21）
 
-.. [1-1] stīnamiddhaṃ vinodyeha sampraharṣya ca mānasam |
-       śṛṇutemaṃ pravakṣyāmi udānaṃ jina bhāṣitam //1,1|
+.. [1-1] | stīnamiddhaṃ vinodyeha sampraharṣya ca mānasam |
+         | śṛṇutemaṃ pravakṣyāmi udānaṃ jina bhāṣitam //1,1|
+         | 
 
        文言文：已除惛與睡，已令心歡喜，汝輩聽我說，佛所說法頌。〔梵文漢譯取材自： 猶如蚊子飲大海水 (https://yathasukha.blogspot.com/) 2021年1月4日 星期一 udānavargo https://yathasukha.blogspot.com/2021/01/udanavargo.html  （張貼者：新花長舊枝 15:21）。以下同。〕
 
-.. [1-2] evam uktaṃ bhagavatā sarvābhijñena tāyinā |
-         anukampakena ṛṣiṇā śarīrāntimadhāriṇā //1,2|
+.. [1-2] | evam uktaṃ bhagavatā sarvābhijñena tāyinā |
+         | anukampakena ṛṣiṇā śarīrāntimadhāriṇā //1,2|
+         | 
 
          世尊如是說，一切智怙主，具足悲憫仙，持此最後身。
 
-.. [1-3] anityā bata saṃskārā utpādavyaya dharmiṇaḥ |
-         utpadya hi nirudhyante teṣāṃ vyupaśamaḥ sukham //1,3|
+.. [1-3] | anityā bata saṃskārā utpādavyaya dharmiṇaḥ |
+         | utpadya hi nirudhyante teṣāṃ vyupaśamaḥ sukham //1,3|
 
          諸行無常，是生滅法，生已則滅，彼滅為樂。
 
-.. [1-4] ko nu harṣaḥ ka ānanda evaṃ prajvalite sati |
-         andhakāraṃ praviṣṭāḥ stha pradīpaṃ na gaveṣatha //1,4|
+.. [1-4] | ko nu harṣaḥ ka ānanda evaṃ prajvalite sati |
+         | andhakāraṃ praviṣṭāḥ stha pradīpaṃ na gaveṣatha //1,4|
+         | 
 
          何笑何可喜？如是在燒中，幽暗之所蔽，而不求燈明？
 
-.. [1-5] yāni imāny apaviddhāni vikṣiptāni diśo diśam |
-         kapotavarṇāny asthīni tāni drṣṭveha kā ratiḥ //1,5|
+.. [1-5] | yāni imāny apaviddhāni vikṣiptāni diśo diśam |
+         | kapotavarṇāny asthīni tāni drṣṭveha kā ratiḥ //1,5|
+         | 
 
          若已棄此，散在諸方，骨如鴿色，見此何樂？
 
-.. [1-6] yām eva prathamāṃ rātriṃ garbhe vasati mānavaḥ |
-         aviṣṭhitaḥ sa vrajati gataś ca na nivartate //1,6|
+.. [1-6] | yām eva prathamāṃ rātriṃ garbhe vasati mānavaḥ |
+         | aviṣṭhitaḥ sa vrajati gataś ca na nivartate //1,6|
+         | 
 
          若於初夜，人住母胎，不住捨離，逝而不還。
 
-.. [1-7] sāyam eke na dṛśyante kālyaṃ dṛṣṭā mahājanāḥ |
-         kālyaṃ caike na dṛṣyante sāyaṃ dṛṣṭā mahājanāḥ //1,7|
+.. [1-7] | sāyam eke na dṛśyante kālyaṃ dṛṣṭā mahājanāḥ |
+         | kālyaṃ caike na dṛṣyante sāyaṃ dṛṣṭā mahājanāḥ //1,7|
+         | 
 
          晨朝所見眾，夜至則不現，昨所瞻視者，今夕則或無。
 
-.. [1-8] tatra ko viśvasen martyo daharo ’smīti jīvite |
-         daharāpi ṃriyante hi narā nāryaś cānekaśaḥ //1,8|
+.. [1-8] | tatra ko viśvasen martyo daharo ’smīti jīvite |
+         | daharāpi ṃriyante hi narā nāryaś cānekaśaḥ //1,8|
+         | 
 
          無所恃怙，我今少壯，少者亦死，男女無數。
 
-.. [1-9] garbha eke vinaśyante tathaike sūtikā kule |
-         parisṛptās tathā hy eke tathaike paridhāvinaḥ //1,9|
+.. [1-9] | garbha eke vinaśyante tathaike sūtikā kule |
+         | parisṛptās tathā hy eke tathaike paridhāvinaḥ //1,9|
+         | 
 
          有在胎敗，有出亦亡，有爬時死，有跑時歿。
 
-.. [1-10] ye ca vṛddhā ye ca dahrā ye ca madhyamapūruṣāḥ |
-          anupūrvaṃ pravrajanti phalaṃ pakvaṃ va bandhanāt //1,10|
+.. [1-10] | ye ca vṛddhā ye ca dahrā ye ca madhyamapūruṣāḥ |
+         | anupūrvaṃ pravrajanti phalaṃ pakvaṃ va bandhanāt //1,10|
+         | 
 
           諸老少壯，及中間人，漸漸離去，如果熟離連結。
 
-.. [1-11] yathā phalānāṃ pakvānāṃ nityaṃ patanato bhayam |
-          evaṃ jātasya martyasya nityaṃ maraṇato bhayam //1,11|
+.. [1-11] | yathā phalānāṃ pakvānāṃ nityaṃ patanato bhayam |
+         | evaṃ jātasya martyasya nityaṃ maraṇato bhayam //1,11|
+         | 
 
           如果已熟，常怖掉落，已生如是，常有死怖。
 
-.. [1-12] yathāpi kumbhakāreṇa mṛttikā bhājanaṃ kṛtam |
-          sarvaṃ bhedana paryantam evaṃ martyasya jīvitam //1,12|
+.. [1-12] | yathāpi kumbhakāreṇa mṛttikā bhājanaṃ kṛtam |
+         | sarvaṃ bhedana paryantam evaṃ martyasya jīvitam //1,12|
+         | 
 
           譬如陶家師，所製作坯器，一切終破壞，人命亦如是。
 
-.. [1-13] yathāpi tantre vitate yad yad uktaṃ samupyate |
-          alpaṃ bhavati vātavyam evaṃ martyasya jīvitam //1,13|
+.. [1-13] | yathāpi tantre vitate yad yad uktaṃ samupyate |
+         | alpaṃ bhavati vātavyam evaṃ martyasya jīvitam //1,13|
+         | 
 
           猶如張綜，以杼投織，漸盡其縷，人命如是。
 
-.. [1-14] yathāpi va ˘ ˉ ˉ ˉ ˚˚˚˚˘ ˉ ˘ ˉ |
-          | ˚ghatano bhavati evaṃ martyasya jīvitam //1,14|
+.. [1-14] | yathāpi va ˘ ˉ ˉ ˉ ˚˚˚˚˘ ˉ ˘ ˉ |
+         |  ˚ghatano bhavati evaṃ martyasya jīvitam //1,14|
+         | 
 
           猶如死囚，將詣都市，動向死地，人命亦然。
 
-.. [1-15] yathā nadī pārvatīyā gacchate na nivartate |
-          evaṃ āyur manuṣyāṇāṃ gacchate na nivartate //1,15|
+.. [1-15] | yathā nadī pārvatīyā gacchate na nivartate |
+         | evaṃ āyur manuṣyāṇāṃ gacchate na nivartate //1,15|
+         | 
 
           如河駛流，往而不反，人命如是，逝者不還。
 
-.. [1-16] kisaraṃ ca parittaṃ ca tac ca duhkhena samyutam |
-          udake daṇḍarājīva kṣipram eva vinaśyati //1,16|
+.. [1-16] | kisaraṃ ca parittaṃ ca tac ca duhkhena samyutam |
+         | udake daṇḍarājīva kṣipram eva vinaśyati //1,16|
+         | 
 
           彼樂甚微少，且與苦相應，如以杖畫水，彼迅速消失。
 
-.. [1-17] yathā daṇḍena gopālo gāḥ prāpayati gocaram |
-          evaṃ rogair jarā mṛtyuḥ āyuḥ prāpayate nṛṇām //1,17|
+.. [1-17] | yathā daṇḍena gopālo gāḥ prāpayati gocaram |
+         | evaṃ rogair jarā mṛtyuḥ āyuḥ prāpayate nṛṇām //1,17|
+         | 
 
           如牧人操杖，驅牛至牧場，如是以病杖，老死驅人命。
 
-.. [1-18] atiyānti hy aho rātrā jīvitaṃ ca uparudhyate |
-          āyuḥ kṣīyati martyānāṃ kunadīṣu yathodakam //1,18|
+.. [1-18] | atiyānti hy aho rātrā jīvitaṃ ca uparudhyate |
+         | āyuḥ kṣīyati martyānāṃ kunadīṣu yathodakam //1,18|
+         | 
 
           晝夜流逝，生命停歇，人壽滅盡，如小河水。
 
-.. [1-19] dīrghā jāgarato rātrir dīrghaṃ śrāntasya yojanam |
-          dīrgho bālasya saṃsāraḥ saddharmam avijānataḥ //1,19|
+.. [1-19] | dīrghā jāgarato rātrir dīrghaṃ śrāntasya yojanam |
+         | dīrgho bālasya saṃsāraḥ saddharmam avijānataḥ //1,19|
+         | 
 
           不寐者夜長，疲惓者路長，愚者輪迴長，莫知正法故。
 
-.. [1-20] putro me ’sti dhanaṃ me ’stīty evaṃ bālo vihanyate |
-          ātmaiva hy ātmano nāsti kasya putraḥ kuto dhanam //1,20|
+.. [1-20] | putro me ’sti dhanaṃ me ’stīty evaṃ bālo vihanyate |
+         | ātmaiva hy ātmano nāsti kasya putraḥ kuto dhanam //1,20|
+         | 
 
           我有子有財，愚人常為憂，我實無有我，何有子與財？
 
-.. [1-21] anekāni sahasrāṇi nara nārī śatāni ca |
-          bhogān vai samudānīya vaśaṃ gacchanti mṛtyunaḥ //1,21|
+.. [1-21] | anekāni sahasrāṇi nara nārī śatāni ca |
+         | bhogān vai samudānīya vaśaṃ gacchanti mṛtyunaḥ //1,21|
+         | 
 
           千百非一，族姓男女，已聚財產，入死自在。
 
-.. [1-22] sarve kṣayāntā nicayāḥ patanāntāḥ samucchrayāḥ |
-          samyogā viprayogāntā maraṇāntaṃ hi jīvitam //1,22|
+.. [1-22] | sarve kṣayāntā nicayāḥ patanāntāḥ samucchrayāḥ |
+         | samyogā viprayogāntā maraṇāntaṃ hi jīvitam //1,22|
+         | 
 
           諸聚滅為邊，崇高墜為邊，合會離為邊，生者死為邊。
 
-.. [1-23] sarve sattvā mariṣyanti maraṇāntaṃ hi jīvitam |
-          yathā karma gamiṣyanti puṇya pāpa phala upagāḥ //1,23|
+.. [1-23] | sarve sattvā mariṣyanti maraṇāntaṃ hi jīvitam |
+         | yathā karma gamiṣyanti puṇya pāpa phala upagāḥ //1,23|
+         | 
 
           諸眾生將死，生者死為邊，如其業而行，福惡果隨行。
 
-.. [1-24] narakaṃ pāpa karmāṇaḥ kṛta puṇyās tu sad gatim |
-          anye tu mārgaṃ bhāvyeha nirvāsyanti nirāsravāḥ //1,24|
+.. [1-24] | narakaṃ pāpa karmāṇaḥ kṛta puṇyās tu sad gatim |
+         | anye tu mārgaṃ bhāvyeha nirvāsyanti nirāsravāḥ //1,24|
+         | 
 
           行惡入地獄，修善則善趣，然餘修道者，無漏入涅槃。
 
-.. [1-25] naivāntarīk se na samudra madhye na parvatānāṃ vivaraṃ praviśya |
-          na vidyate ’sau pṛthivī pradeśo yatra sthitaṃ na prasaheta mṛtyuḥ //1,25
+.. [1-25] | naivāntarīk se na samudra madhye na parvatānāṃ vivaraṃ praviśya |
+         | na vidyate ’sau pṛthivī pradeśo yatra sthitaṃ na prasaheta mṛtyuḥ //1,25
+         | 
 
           非空非海中，非入山石間，無有地方所，住彼不受死。
 
-.. [1-26] ye ceha bhūtā bhaviṣyanti vā punaḥ sarve gamiṣyanti prahāya deham |
-          tāṃ sarva hāniṃ kuśalo viditvā dharme sthito brahmacaryaṃ careta //1,26|
-          
+.. [1-26] | ye ceha bhūtā bhaviṣyanti vā punaḥ sarve gamiṣyanti prahāya deham |
+         | tāṃ sarva hāniṃ kuśalo viditvā dharme sthito brahmacaryaṃ careta //1,26|
+         | 
+
           若於此世界，已生或將生，一切捨身去。已知一切捨，住法之善者，應行於梵行。
 
-.. [1-27] jīrṇaṃ ca dṛṣṭveha tathaiva rogiṇaṃ mṛtaṃ ca dṛṣṭvā vyapayāta cetasam |
-          jahau sa dhīro gṛha bandhanāni kāmā hi lokasya na supraheyāḥ //1,27
+.. [1-27] | jīrṇaṃ ca dṛṣṭveha tathaiva rogiṇaṃ mṛtaṃ ca dṛṣṭvā vyapayāta cetasam |
+         | jahau sa dhīro gṛha bandhanāni kāmā hi lokasya na supraheyāḥ //1,27
+         | 
 
           於此世界中，已見老與病，見死心捨離，彼智捨家鎖，世間不斷欲。
 
-.. [1-28] jīryanti vai rāja rathāḥ sucitrā hy atho śarīram api jarām upaiti |
-          satāṃ tu dharmo na jarām upaiti santo hi taṃ satsu nivedayanti //1,28|
+.. [1-28] | jīryanti vai rāja rathāḥ sucitrā hy atho śarīram api jarām upaiti |
+         | satāṃ tu dharmo na jarām upaiti santo hi taṃ satsu nivedayanti //1,28|
+         | 
 
           盛飾王車亦必朽，此身老邁當亦爾，唯善人法不老朽，善人傳示於善人。
 
-.. [1-29] dhik tvām astu jare grāmye virūpa karaṇī hy asi |
-          tathā mano ramaṃ bimbaṃ jarayā hy abhimarditam //1,29|
+.. [1-29] | dhik tvām astu jare grāmye virūpa karaṇī hy asi |
+         | tathā mano ramaṃ bimbaṃ jarayā hy abhimarditam //1,29|
+         | 
 
           咄嗟汝如是，色變為老耄，如是可愛色，為老所敗壞。
 
-.. [1-30] yo ’pi varṣa śataṃ jīvet so ’pi mṛtyu parāyaṇaḥ |
-          anu hy enaṃ jarā hanti vyādhir vā yadi vāntakaḥ //1,30|
+.. [1-30] | yo ’pi varṣa śataṃ jīvet so ’pi mṛtyu parāyaṇaḥ |
+         | anu hy enaṃ jarā hanti vyādhir vā yadi vāntakaḥ //1,30|
+         | 
 
           若能活百歲，彼死為終點，老隨後殺彼，或病或若死。
 
-.. [1-31] sadā vrajanti hy anivartamānā divā ca rātrau ca vilujyamānāḥ |
-          matsyā ivātīva hi tapyamānā duhkhena jāti maraṇena yuktāḥ //1,31|
+.. [1-31] | sadā vrajanti hy anivartamānā divā ca rātrau ca vilujyamānāḥ |
+         | matsyā ivātīva hi tapyamānā duhkhena jāti maraṇena yuktāḥ //1,31|
+         | 
 
           常逝而不還，晝夜而敗壞，如魚極苦楚，生死苦相應。
 
-.. [1-32] āyur divā ca rātrau ca caratas tiṣṭhatas tathā |
-          nadīnāṃ vā yathā sroto gacchate na nivartate //1,32|
+.. [1-32] | āyur divā ca rātrau ca caratas tiṣṭhatas tathā |
+         | nadīnāṃ vā yathā sroto gacchate na nivartate //1,32|
+         | 
 
           人命日夜，或住或行，如駛流河，往而不反。
 
-.. [1-33] yeṣāṃ rātri divāpāye hy āyur alpataraṃ bhavet |
-          alpodake va matsyānāṃ kā nu teṣāṃ ratir bhavet //1,33|
+.. [1-33] | yeṣāṃ rātri divāpāye hy āyur alpataraṃ bhavet |
+         | alpodake va matsyānāṃ kā nu teṣāṃ ratir bhavet //1,33|
+         | 
 
           是日已過，命則隨減，如少水魚，斯有何樂？
 
-.. [1-34] parijīrṇam idaṃ rūpaṃ roga nīḍaṃ prabhaṅguram |
-          bhetsyate pūty asaṃdehaṃ maraṇāntaṃ hi jīvitam //1,34|
+.. [1-34] | parijīrṇam idaṃ rūpaṃ roga nīḍaṃ prabhaṅguram |
+         | bhetsyate pūty asaṃdehaṃ maraṇāntaṃ hi jīvitam //1,34|
+         | 
 
           此衰老形骸，病藪而易壞，朽聚必毀滅，有生終歸死。
 
-.. [1-35] aciraṃ bata kāyo ’yaṃ pṛthivīm adhiśeṣyate |
-          śunyo vyapeta vijñāno nirastaṃ vā kaḍaṅgaram //1,35|1
+.. [1-35] | aciraṃ bata kāyo ’yaṃ pṛthivīm adhiśeṣyate |
+         | śunyo vyapeta vijñāno nirastaṃ vā kaḍaṅgaram //1,35|1
+         | 
 
           此身實不久，當睡於地下，被棄無意識，無用如木屑。
 
-.. [1-36] kim anena śarīreṇa sravatā pūtinā sadā |
-          nityaṃ rogābhibhūtena jarā maraṇa bhīruṇā //1,36|
-          
+.. [1-36] | kim anena śarīreṇa sravatā pūtinā sadā |
+         | nityaṃ rogābhibhūtena jarā maraṇa bhīruṇā //1,36|
+         | 
+
           是身何用？恒漏臭處，為病所困，有老死畏。
 
-.. [1-37] anena pūtikāyena hy ātureṇa prabhaṅguṇā |
-          nigacchatha parāṃ śāntiṃ yoga kṣemam anuttaram //1,37|
-          
+.. [1-37] | anena pūtikāyena hy ātureṇa prabhaṅguṇā |
+         | nigacchatha parāṃ śāntiṃ yoga kṣemam anuttaram //1,37|
+         | 
+
           以此臭穢身，實病且易壞，汝得第一滅，是無上安隱。
 
-.. [1-38] iha varṣaṃ kariṣyāmi hemantaṃ grīṣmam eva ca |
-          bālo vicintayaty evam antarāyaṃ na paśyati //1,38|
-          
+.. [1-38] | iha varṣaṃ kariṣyāmi hemantaṃ grīṣmam eva ca |
+         | bālo vicintayaty evam antarāyaṃ na paśyati //1,38|
+         | 
+
           雨季當住此，冬夏亦住此，愚如是思慮，卻不見危險。
 
-.. [1-39] taṃ putra paśu sammattaṃ vyāsakta manasaṃ naram |
-          sutpaṃ grāmaṃ mahaughaiva mṛtyur ādāya gacchati //1,39|1
+.. [1-39] | taṃ putra paśu sammattaṃ vyāsakta manasaṃ naram |
+         | sutpaṃ grāmaṃ mahaughaiva mṛtyur ādāya gacchati //1,39|1
+         | 
 
           溺愛子與畜，其人心惑著，死神捉將去，如瀑流睡村。
 
-.. [1-40] na santi putrās trāṇāya na pitā nāpi bāndhavāḥ |
-          antakenābhibhūtasya na hi trāṇā bhavanti te //1,40|
+.. [1-40] | na santi putrās trāṇāya na pitā nāpi bāndhavāḥ |
+         | antakenābhibhūtasya na hi trāṇā bhavanti te //1,40|
+         | 
 
           父子與親戚，莫能為救護。為死所制時，彼實非救護。
 
-.. [1-41] idaṃ kṛtaṃ me kartavyam idaṃ kṛtvā bhaviṣyati |
-          ity evaṃ spandato martyān jarā mṛtyuś ca mardati //1,41|
+.. [1-41] | idaṃ kṛtaṃ me kartavyam idaṃ kṛtvā bhaviṣyati |
+         | ity evaṃ spandato martyān jarā mṛtyuś ca mardati //1,41|
+         | 
 
           此我已作，此當作，此已作將(得什麼)，因如是行動，老死能壞人。
 
-.. [1-42] tasmāt sadā dhyāna ratāḥ samāhitā hy ātāpino jāti jarānta darśinaḥ |
-          māraṃ sasainyaṃ hy abhibhūya bhikṣavo bhaveta jātī maraṇasya pāragāḥ //1,42|
+.. [1-42] | tasmāt sadā dhyāna ratāḥ samāhitā hy ātāpino jāti jarānta darśinaḥ |
+         | māraṃ sasainyaṃ hy abhibhūya bhikṣavo bhaveta jātī maraṇasya pāragāḥ //1,42|
+         | 
 
           故常樂靜慮，三昧常精勤，能見生老邊，已伏魔與軍，苾芻能度生死到彼岸。
+
 ..
+  2022-01-30 rev. 梵文加 | 斷行
   12-21 rev. 梵文之文言文漢譯移至備註；白話文漢譯上移至表格中之本文。
   2021-08-31 post; 08-28 create rst
