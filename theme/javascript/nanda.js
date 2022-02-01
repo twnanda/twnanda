@@ -246,3 +246,15 @@ function inputCheckChange() {
 	show.appendChild(crtable);
 	SetupNotes();
 }
+
+// 移除 gatha 號碼                                                              
+function removeGathaNumber() {                                                  
+  var gatha_tables = document.querySelectorAll("table.remove-gatha-number");    
+  for (var i=0; i<gatha_tables.length; i++) {                                   
+    var gatha_tds = gatha_tables[i].querySelectorAll("td");                     
+    for (var j=0; j<gatha_tds.length; j++) {                                    
+      gatha_tds[j].innerHTML = gatha_tds[j].innerHTML.replace(/[a-zA-Z0-9]+-\d+-\d+/, "");
+    }                                                                           
+  }                                                                             
+}                                                                               
+removeGathaNumber();
