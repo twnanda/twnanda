@@ -3,7 +3,7 @@
 =======================
 
 :date: 2021-08-31
-:modified: 2021-11-16
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表
@@ -35,10 +35,10 @@
 
    * - `第一：雙品 <{filename}dhp-correspondence-tables-pali-chap01%zh.rst>`_ 
      - `第二：不放逸品 <{filename}dhp-correspondence-tables-pali-chap02%zh.rst>`_ （建構中 (Under construction)!）
-     - `第三：心品 <{filename}dhp-correspondence-tables-pali-chap03%zh.rst>`_ （建構中 (Under construction)!）
-     - `第四：花品 <{filename}dhp-correspondence-tables-pali-chap04%zh.rst>`_ （建構中 (Under construction)!）
-     - `第五：愚人品 <{filename}dhp-correspondence-tables-pali-chap05%zh.rst>`_ （建構中 (Under construction)!）
-     - `第六：智者品 <{filename}dhp-correspondence-tables-pali-chap06%zh.rst>`_ （建構中 (Under construction)!）
+     - `第三：心品 <{filename}dhp-correspondence-tables-pali-chap03%zh.rst>`_ 
+     - `第四：花品 <{filename}dhp-correspondence-tables-pali-chap04%zh.rst>`_ 
+     - `第五：愚人品 <{filename}dhp-correspondence-tables-pali-chap05%zh.rst>`_ 
+     - `第六：智者品 <{filename}dhp-correspondence-tables-pali-chap06%zh.rst>`_ 
 
    * - 1. Yamakavaggo (Dhp.1-20)
      - 2. Appamādavaggo (Dhp.21-32)
@@ -51,12 +51,12 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `第七：阿羅漢品 <{filename}dhp-correspondence-tables-pali-chap07%zh.rst>`_ （建構中 (Under construction)!）
-     - `第八：千品 <{filename}dhp-correspondence-tables-pali-chap08%zh.rst>`_ （建構中 (Under construction)!）
-     - `第九：惡品 <{filename}dhp-correspondence-tables-pali-chap09%zh.rst>`_ （建構中 (Under construction)!）
-     - `第十：刀杖品 <{filename}dhp-correspondence-tables-pali-chap10%zh.rst>`_ （建構中 (Under construction)!）
-     - `第十一：老品 <{filename}dhp-correspondence-tables-pali-chap11%zh.rst>`_ （建構中 (Under construction)!）
-     - `第十二：自己品 <{filename}dhp-correspondence-tables-pali-chap12%zh.rst>`_ （建構中 (Under construction)!）
+   * - `第七：阿羅漢品 <{filename}dhp-correspondence-tables-pali-chap07%zh.rst>`_ 
+     - `第八：千品 <{filename}dhp-correspondence-tables-pali-chap08%zh.rst>`_ 
+     - `第九：惡品 <{filename}dhp-correspondence-tables-pali-chap09%zh.rst>`_ 
+     - `第十：刀杖品 <{filename}dhp-correspondence-tables-pali-chap10%zh.rst>`_ 
+     - `第十一：老品 <{filename}dhp-correspondence-tables-pali-chap11%zh.rst>`_ 
+     - `第十二：自己品 <{filename}dhp-correspondence-tables-pali-chap12%zh.rst>`_ 
 
    * - 7. Arahantavaggo (Dhp.90-99)
      - 8. Sahassavaggo (Dhp.100-115)
@@ -69,12 +69,12 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `第十三：世間品 <{filename}dhp-correspondence-tables-pali-chap13%zh.rst>`_ （建構中 (Under construction)!）
-     - `第十四：佛陀品 <{filename}dhp-correspondence-tables-pali-chap14%zh.rst>`_ （建構中 (Under construction)!）
-     - `第十五：樂品 <{filename}dhp-correspondence-tables-pali-chap15%zh.rst>`_ （建構中 (Under construction)!）
-     - `第十六：喜品 <{filename}dhp-correspondence-tables-pali-chap16%zh.rst>`_ （建構中 (Under construction)!）
-     - `第十七：忿怒品 <{filename}dhp-correspondence-tables-pali-chap17%zh.rst>`_ （建構中 (Under construction)!）
-     - `第十八：塵垢品 <{filename}dhp-correspondence-tables-pali-chap18%zh.rst>`_ （建構中 (Under construction)!）
+   * - `第十三：世間品 <{filename}dhp-correspondence-tables-pali-chap13%zh.rst>`_ 
+     - `第十四：佛陀品 <{filename}dhp-correspondence-tables-pali-chap14%zh.rst>`_ 
+     - `第十五：樂品 <{filename}dhp-correspondence-tables-pali-chap15%zh.rst>`_ 
+     - `第十六：喜品 <{filename}dhp-correspondence-tables-pali-chap16%zh.rst>`_ 
+     - `第十七：忿怒品 <{filename}dhp-correspondence-tables-pali-chap17%zh.rst>`_ 
+     - `第十八：塵垢品 <{filename}dhp-correspondence-tables-pali-chap18%zh.rst>`_ 
 
    * - 13. Lokavaggo (Dhp.167-178)
      - 14. Buddhavaggo (Dhp.179-196)
@@ -87,12 +87,12 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `第十九：住於法品 <{filename}dhp-correspondence-tables-pali-chap19%zh.rst>`_ （建構中 (Under construction)!）
-     - `第二十：道品 <{filename}dhp-correspondence-tables-pali-chap20%zh.rst>`_ （建構中 (Under construction)!）
-     - `第廿一：雜品 <{filename}dhp-correspondence-tables-pali-chap21%zh.rst>`_ （建構中 (Under construction)!）
-     - `第廿二：地獄品 <{filename}dhp-correspondence-tables-pali-chap22%zh.rst>`_ （建構中 (Under construction)!）
-     - `第廿三：象品 <{filename}dhp-correspondence-tables-pali-chap23%zh.rst>`_ （建構中 (Under construction)!）
-     - `第廿四：貪愛品 <{filename}dhp-correspondence-tables-pali-chap24%zh.rst>`_ （建構中 (Under construction)!）
+   * - `第十九：住於法品 <{filename}dhp-correspondence-tables-pali-chap19%zh.rst>`_ 
+     - `第二十：道品 <{filename}dhp-correspondence-tables-pali-chap20%zh.rst>`_ 
+     - `第廿一：雜品 <{filename}dhp-correspondence-tables-pali-chap21%zh.rst>`_ 
+     - `第廿二：地獄品 <{filename}dhp-correspondence-tables-pali-chap22%zh.rst>`_ 
+     - `第廿三：象品 <{filename}dhp-correspondence-tables-pali-chap23%zh.rst>`_ 
+     - `第廿四：貪愛品 <{filename}dhp-correspondence-tables-pali-chap24%zh.rst>`_ 
 
    * - 19. Dhammaṭṭhavaggo (Dhp.256-272)
      - 20. Maggavaggo (Dhp.273-289)
@@ -105,8 +105,8 @@
    :widths: 16 16 16 16 16 16
    :header-rows: 1
 
-   * - `第廿五：比丘品 <{filename}dhp-correspondence-tables-pali-chap25%zh.rst>`_ （建構中 (Under construction)!）
-     - `第廿六：波羅門品 <{filename}dhp-correspondence-tables-pali-chap26%zh.rst>`_ （建構中 (Under construction)!）
+   * - `第廿五：比丘品 <{filename}dhp-correspondence-tables-pali-chap25%zh.rst>`_ 
+     - `第廿六：波羅門品 <{filename}dhp-correspondence-tables-pali-chap26%zh.rst>`_ 
      - 
      - 
      - 
@@ -203,9 +203,9 @@
    * - `25 忿怒品 <{filename}dhp-correspondence-tables-t210-chap25%zh.rst>`_
      - `26 塵垢品 <{filename}dhp-correspondence-tables-t210-chap26%zh.rst>`_
      - `27 奉持品 <{filename}dhp-correspondence-tables-t210-chap27%zh.rst>`_
-     - `28 道行品 <{filename}dhp-correspondence-tables-t210-chap28%zh.rst>`_ （建構中 (Under construction)!）
-     - `29 廣衍品 <{filename}dhp-correspondence-tables-t210-chap29%zh.rst>`_ （建構中 (Under construction)!）
-     - `30 地獄品 <{filename}dhp-correspondence-tables-t210-chap30%zh.rst>`_ （建構中 (Under construction)!）
+     - `28 道行品 <{filename}dhp-correspondence-tables-t210-chap28%zh.rst>`_ 
+     - `29 廣衍品 <{filename}dhp-correspondence-tables-t210-chap29%zh.rst>`_ 
+     - `30 地獄品 <{filename}dhp-correspondence-tables-t210-chap30%zh.rst>`_ 
 
    * - 25. 26首偈頌，卷2
      - 26. 19首偈頌，卷2
@@ -218,12 +218,12 @@
    :widths: 16 16 16 16 16 16
    :header-rows: 1
 
-   * - `31 象喻品 <{filename}dhp-correspondence-tables-t210-chap31%zh.rst>`_ （建構中 (Under construction)!）
-     - `32 愛欲品 <{filename}dhp-correspondence-tables-t210-chap32%zh.rst>`_ （建構中 (Under construction)!）
-     - `33 利養品 <{filename}dhp-correspondence-tables-t210-chap33%zh.rst>`_ （建構中 (Under construction)!）
-     - `34 沙門品 <{filename}dhp-correspondence-tables-t210-chap34%zh.rst>`_ （建構中 (Under construction)!）
-     - `35 梵志品 <{filename}dhp-correspondence-tables-t210-chap35%zh.rst>`_ （建構中 (Under construction)!）
-     - `36 泥洹品 <{filename}dhp-correspondence-tables-t210-chap36%zh.rst>`_ （建構中 (Under construction)!）
+   * - `31 象喻品 <{filename}dhp-correspondence-tables-t210-chap31%zh.rst>`_ 
+     - `32 愛欲品 <{filename}dhp-correspondence-tables-t210-chap32%zh.rst>`_ 
+     - `33 利養品 <{filename}dhp-correspondence-tables-t210-chap33%zh.rst>`_ 
+     - `34 沙門品 <{filename}dhp-correspondence-tables-t210-chap34%zh.rst>`_ 
+     - `35 梵志品 <{filename}dhp-correspondence-tables-t210-chap35%zh.rst>`_ 
+     - `36 泥洹品 <{filename}dhp-correspondence-tables-t210-chap36%zh.rst>`_ 
 
    * - 31. 17首偈頌，卷2
      - 32. 32首偈頌，卷2
@@ -236,9 +236,9 @@
    :widths: 16 16 16 16 16 16
    :header-rows: 1
 
-   * - `37 生死品 <{filename}dhp-correspondence-tables-t210-chap37%zh.rst>`_ （建構中 (Under construction)!）
-     - `38 道利品 <{filename}dhp-correspondence-tables-t210-chap38%zh.rst>`_ （建構中 (Under construction)!）
-     - `39 吉祥品 <{filename}dhp-correspondence-tables-t210-chap39%zh.rst>`_ （建構中 (Under construction)!）
+   * - `37 生死品 <{filename}dhp-correspondence-tables-t210-chap37%zh.rst>`_ 
+     - `38 道利品 <{filename}dhp-correspondence-tables-t210-chap38%zh.rst>`_ 
+     - `39 吉祥品 <{filename}dhp-correspondence-tables-t210-chap39%zh.rst>`_ 
      - 
      - 
      - 
@@ -261,9 +261,9 @@
    :header-rows: 1
 
    * - `1 無常品 (梵文) <{filename}dhp-correspondence-tables-sanskrit-chap01%zh.rst>`_
-     - `2 欲品 <{filename}dhp-correspondence-tables-sanskrit-chap02%zh.rst>`_ （建構中 (Under construction)!）
-     - `3 貪品 <{filename}dhp-correspondence-tables-sanskrit-chap03%zh.rst>`_ （建構中 (Under construction)!）
-     - `4 不放逸品 <{filename}dhp-correspondence-tables-sanskrit-chap04%zh.rst>`_ （建構中 (Under construction)!）
+     - `2 欲品 <{filename}dhp-correspondence-tables-sanskrit-chap02%zh.rst>`_ 
+     - `3 貪品 <{filename}dhp-correspondence-tables-sanskrit-chap03%zh.rst>`_ 
+     - `4 不放逸品 <{filename}dhp-correspondence-tables-sanskrit-chap04%zh.rst>`_ 
      - `5 愛品 <{filename}dhp-correspondence-tables-sanskrit-chap05%zh.rst>`_ （建構中 (Under construction)!）
      - `6 戒品 <{filename}dhp-correspondence-tables-sanskrit-chap06%zh.rst>`_ （建構中 (Under construction)!）
 
@@ -398,6 +398,7 @@
 
 
 ..
+  2022-02-02 rev. pali & t210 finished; sanskrit till chapter 4
   11-16 rev. completed to the chapter 27
   10-26 rev. completed to the chapter 15
   2021-08-31 post; 08-28 create rst
