@@ -260,11 +260,11 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `1 無常品 (梵文) <{filename}dhp-correspondence-tables-sanskrit-chap01%zh.rst>`_
-     - `2 欲品 <{filename}dhp-correspondence-tables-sanskrit-chap02%zh.rst>`_ 
-     - `3 貪品 <{filename}dhp-correspondence-tables-sanskrit-chap03%zh.rst>`_ 
-     - `4 不放逸品 <{filename}dhp-correspondence-tables-sanskrit-chap04%zh.rst>`_ 
-     - `5 愛品 <{filename}dhp-correspondence-tables-sanskrit-chap05%zh.rst>`_ （建構中 (Under construction)!）
+   * - `1 無常品 <{filename}dhp-correspondence-tables-sanskrit-chap01%zh.rst>`_ 
+     - `2 欲品 <{filename}dhp-correspondence-tables-sanskrit-chap02%zh.rst>`_
+     - `3 貪品 <{filename}dhp-correspondence-tables-sanskrit-chap03%zh.rst>`_
+     - `4 不放逸品 <{filename}dhp-correspondence-tables-sanskrit-chap04%zh.rst>`_
+     - `5 喜品 <{filename}dhp-correspondence-tables-sanskrit-chap05%zh.rst>`_ （建構中 (Under construction)!）
      - `6 戒品 <{filename}dhp-correspondence-tables-sanskrit-chap06%zh.rst>`_ （建構中 (Under construction)!）
 
    * - 1: Anityavarga, 42首偈頌
@@ -278,106 +278,88 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `7 品 <{filename}dhp-correspondence-tables-sanskrit-chap07%zh.rst>`_ （建構中 (Under construction)!）
-     - `8 品 <{filename}dhp-correspondence-tables-sanskrit-chap08%zh.rst>`_ （建構中 (Under construction)!）
-     - `9 品 <{filename}dhp-correspondence-tables-sanskrit-chap09%zh.rst>`_ （建構中 (Under construction)!）
-     - `10 品 <{filename}dhp-correspondence-tables-sanskrit-chap10%zh.rst>`_ （建構中 (Under construction)!）
-     - `11 品 <{filename}dhp-correspondence-tables-sanskrit-chap11%zh.rst>`_ （建構中 (Under construction)!）
-     - `12 品 <{filename}dhp-correspondence-tables-sanskrit-chap12%zh.rst>`_ （建構中 (Under construction)!）
+   * - `7 善行品 <{filename}dhp-correspondence-tables-sanskrit-chap07%zh.rst>`_ （建構中 (Under construction)!）
+     - `8 言語品 <{filename}dhp-correspondence-tables-sanskrit-chap08%zh.rst>`_ （建構中 (Under construction)!）
+     - `9 業品 <{filename}dhp-correspondence-tables-sanskrit-chap09%zh.rst>`_ （建構中 (Under construction)!）
+     - `10 信品 <{filename}dhp-correspondence-tables-sanskrit-chap10%zh.rst>`_ （建構中 (Under construction)!）
+     - `11 沙門品 <{filename}dhp-correspondence-tables-sanskrit-chap11%zh.rst>`_ （建構中 (Under construction)!）
+     - `12 道品 <{filename}dhp-correspondence-tables-sanskrit-chap12%zh.rst>`_ （建構中 (Under construction)!）
 
-   * - 7. 19首偈頌
-     - 8. 12首偈頌
-     - 9. 22首偈頌
-     - 10. 20首偈頌
-     - 11. 12首偈頌
-     - 12. 17首偈頌
-
-.. list-table:: 梵文《法句經》品目
-   :widths: 16 16 16 16 16 16 
-   :header-rows: 1
-
-   * - `13品 <{filename}dhp-correspondence-tables-sanskrit-chap13%zh.rst>`_ （建構中 (Under construction)!）
-     - `14品 <{filename}dhp-correspondence-tables-sanskrit-chap14%zh.rst>`_ （建構中 (Under construction)!）
-     - `15品 <{filename}dhp-correspondence-tables-sanskrit-chap15%zh.rst>`_ （建構中 (Under construction)!）
-     - `16品 <{filename}dhp-correspondence-tables-sanskrit-chap16%zh.rst>`_ （建構中 (Under construction)!）
-     - `17品 <{filename}dhp-correspondence-tables-sanskrit-chap17%zh.rst>`_ （建構中 (Under construction)!）
-     - `18品 <{filename}dhp-correspondence-tables-sanskrit-chap18%zh.rst>`_ （建構中 (Under construction)!）
-
-   * - 13. 21首偈頌
-     - 14. 17首偈頌
-     - 15. 10首偈頌
-     - 16. 16首偈頌
-     - 17. 22首偈頌
-     - 18. 14首偈頌
+   * - 7. Sucaritaavarga, 12首偈頌
+     - 8. Vācavarga, 15首偈頌
+     - 9. Karmavarga, 19首偈頌
+     - 10. Śraddhāvarga, 20首偈頌
+     - 11. Śramaṇavarga, 15首偈頌
+     - 12. Mārgavarga, 20首偈頌
 
 .. list-table:: 梵文《法句經》品目
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `19品 <{filename}dhp-correspondence-tables-sanskrit-chap19%zh.rst>`_ （建構中 (Under construction)!）
-     - `20品 <{filename}dhp-correspondence-tables-sanskrit-chap20%zh.rst>`_ （建構中 (Under construction)!）
-     - `21品 <{filename}dhp-correspondence-tables-sanskrit-chap21%zh.rst>`_ （建構中 (Under construction)!）
-     - `22品 <{filename}dhp-correspondence-tables-sanskrit-chap22%zh.rst>`_ （建構中 (Under construction)!）
-     - `23品 <{filename}dhp-correspondence-tables-sanskrit-chap23%zh.rst>`_ （建構中 (Under construction)!）
-     - `24品 <{filename}dhp-correspondence-tables-sanskrit-chap24%zh.rst>`_ （建構中 (Under construction)!）
+   * - `13 利養品 <{filename}dhp-correspondence-tables-sanskrit-chap13%zh.rst>`_ （建構中 (Under construction)!）
+     - `14 忿怒品 <{filename}dhp-correspondence-tables-sanskrit-chap14%zh.rst>`_ （建構中 (Under construction)!）
+     - `15 念品 <{filename}dhp-correspondence-tables-sanskrit-chap15%zh.rst>`_ （建構中 (Under construction)!）
+     - `16 雜品 <{filename}dhp-correspondence-tables-sanskrit-chap16%zh.rst>`_ （建構中 (Under construction)!）
+     - `17 水品 <{filename}dhp-correspondence-tables-sanskrit-chap17%zh.rst>`_ （建構中 (Under construction)!）
+     - `18 花品 <{filename}dhp-correspondence-tables-sanskrit-chap18%zh.rst>`_ （建構中 (Under construction)!）
 
-   * - 19. 14首偈頌
-     - 20. 13首偈頌
-     - 21. 14首偈頌
-     - 22. 21首偈頌，卷2
-     - 23. 14首偈頌，卷2
-     - 24. 12首偈頌，卷2
+   * - 13. Satkāravarga, 18首偈頌
+     - 14. Drohavarga, 16首偈頌
+     - 15. Smṛtivarga, 26首偈頌
+     - 16. Prakīrṇakavarga, 24首偈頌
+     - 17. Udakavarga, 12首偈頌
+     - 18. Puṣpavarga, 26首偈頌
+
+.. list-table:: 梵文《法句經》品目
+   :widths: 16 16 16 16 16 16 
+   :header-rows: 1
+
+   * - `19 馬品 <{filename}dhp-correspondence-tables-sanskrit-chap19%zh.rst>`_ （建構中 (Under construction)!）
+     - `20 瞋恚品 <{filename}dhp-correspondence-tables-sanskrit-chap20%zh.rst>`_ （建構中 (Under construction)!）
+     - `21 如來品 <{filename}dhp-correspondence-tables-sanskrit-chap21%zh.rst>`_ （建構中 (Under construction)!）
+     - `22 聞品 <{filename}dhp-correspondence-tables-sanskrit-chap22%zh.rst>`_ （建構中 (Under construction)!）
+     - `23 我品 <{filename}dhp-correspondence-tables-sanskrit-chap23%zh.rst>`_ （建構中 (Under construction)!）
+     - `24 教說品 <{filename}dhp-correspondence-tables-sanskrit-chap24%zh.rst>`_ （建構中 (Under construction)!）
+
+   * - 19. Aśvavarga, 14首偈頌
+     - 20. Krodhavarga, 22首偈頌
+     - 21. Tathāgatavarga, 18首偈頌
+     - 22. Śrutavarga, 19首偈頌
+     - 23. Ātmavarga, 25首偈頌
+     - 24. Peyālavarga, 35首偈頌
 
 .. list-table:: 梵文《法句經》品目
    :widths: 16 16 16 16 16 16
    :header-rows: 1
 
-   * - `25品 <{filename}dhp-correspondence-tables-sanskrit-chap25%zh.rst>`_ （建構中 (Under construction)!）
-     - `26品 <{filename}dhp-correspondence-tables-sanskrit-chap26%zh.rst>`_ （建構中 (Under construction)!）
-     - `27品 <{filename}dhp-correspondence-tables-sanskrit-chap27%zh.rst>`_ （建構中 (Under construction)!）
-     - `28品 <{filename}dhp-correspondence-tables-sanskrit-chap28%zh.rst>`_ （建構中 (Under construction)!）
-     - `29品 <{filename}dhp-correspondence-tables-sanskrit-chap29%zh.rst>`_ （建構中 (Under construction)!）
-     - `30品 <{filename}dhp-correspondence-tables-sanskrit-chap30%zh.rst>`_ （建構中 (Under construction)!）
+   * - `25 善友品 <{filename}dhp-correspondence-tables-sanskrit-chap25%zh.rst>`_ （建構中 (Under construction)!）
+     - `26 泥洹品 <{filename}dhp-correspondence-tables-sanskrit-chap26%zh.rst>`_ （建構中 (Under construction)!）
+     - `27 觀品 <{filename}dhp-correspondence-tables-sanskrit-chap27%zh.rst>`_ （建構中 (Under construction)!）
+     - `28 惡品 <{filename}dhp-correspondence-tables-sanskrit-chap28%zh.rst>`_ （建構中 (Under construction)!）
+     - `29 雙品 <{filename}dhp-correspondence-tables-sanskrit-chap29%zh.rst>`_ （建構中 (Under construction)!）
+     - `30 樂品 <{filename}dhp-correspondence-tables-sanskrit-chap30%zh.rst>`_ （建構中 (Under construction)!）
 
-   * - 25. 26首偈頌，卷2
-     - 26. 19首偈頌，卷2
-     - 27. 17首偈頌，卷2
-     - 28. 28首偈頌，卷2
-     - 29. 14首偈頌，卷2
-     - 30. 16首偈頌，卷2
-
-.. list-table:: 梵文《法句經》品目
-   :widths: 16 16 16 16 16 16
-   :header-rows: 1
-
-   * - `31品 <{filename}dhp-correspondence-tables-sanskrit-chap31%zh.rst>`_ （建構中 (Under construction)!）
-     - `32品 <{filename}dhp-correspondence-tables-sanskrit-chap32%zh.rst>`_ （建構中 (Under construction)!）
-     - `33品 <{filename}dhp-correspondence-tables-sanskrit-chap33%zh.rst>`_ （建構中 (Under construction)!）
-     - `34品 <{filename}dhp-correspondence-tables-sanskrit-chap34%zh.rst>`_ （建構中 (Under construction)!）
-     - `35品 <{filename}dhp-correspondence-tables-sanskrit-chap35%zh.rst>`_ （建構中 (Under construction)!）
-     - `36品 <{filename}dhp-correspondence-tables-sanskrit-chap36%zh.rst>`_ （建構中 (Under construction)!）
-
-   * - 31. 17首偈頌，卷2
-     - 32. 32首偈頌，卷2
-     - 33. 20首偈頌，卷2
-     - 34. 32首偈頌，卷2
-     - 35. 40首偈頌，卷2
-     - 36. 36首偈頌，卷2
+   * - 25. Mitravarga, 25首偈頌
+     - 26. Nirvāṇavarga, 31首偈頌
+     - 27. Paśyavarga, 41首偈頌
+     - 28. Pāpavarga, 40首偈頌
+     - 29. Yugavarga, 57首偈頌
+     - 30. Sukhavarga, 52首偈頌
 
 .. list-table:: 梵文《法句經》品目
    :widths: 16 16 16 16 16 16
    :header-rows: 1
 
-   * - `37品 <{filename}dhp-correspondence-tables-sanskrit-chap37%zh.rst>`_ （建構中 (Under construction)!）
-     - `38品 <{filename}dhp-correspondence-tables-sanskrit-chap38%zh.rst>`_ （建構中 (Under construction)!）
-     - `39品 <{filename}dhp-correspondence-tables-sanskrit-chap39%zh.rst>`_ （建構中 (Under construction)!）
+   * - `31 心品 <{filename}dhp-correspondence-tables-sanskrit-chap31%zh.rst>`_ （建構中 (Under construction)!）
+     - `32 比丘品 <{filename}dhp-correspondence-tables-sanskrit-chap32%zh.rst>`_ （建構中 (Under construction)!）
+     - `33 婆羅門品 <{filename}dhp-correspondence-tables-sanskrit-chap33%zh.rst>`_ （建構中 (Under construction)!）
      - 
      - 
      - 
 
-   * - 37. 18首偈頌，卷2
-     - 38. 20首偈頌，卷2
-     - 39. 19首偈頌，卷2
+   * - 31. Cittavarga, 60首偈頌
+     - 32. Bhikṣuvarga, 82首偈頌
+     - 33. Brāhmaṇavarga, 83首偈頌
      - 
      - 
      - 
@@ -398,7 +380,7 @@
 
 
 ..
-  2022-02-02 rev. pali & t210 finished; sanskrit till chapter 4
+  2022-02-02 rev. pali & t210 finished; sanskrit till chapter 4; del. mistakes (no chapter 34~39)
   11-16 rev. completed to the chapter 27
   10-26 rev. completed to the chapter 15
   2021-08-31 post; 08-28 create rst
