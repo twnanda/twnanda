@@ -3,7 +3,7 @@
 =============================================================
 
 :date: 2021-08-30
-:modified: 2022-01-30
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su, Sanskrit, Udānavarga
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--梵文《法句經》2. kāmavargo 欲品
@@ -14,6 +14,7 @@
 .. list-table:: 梵文《法句經》 2. kāmavargo
    :widths: 20 20 20 20 20
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 梵文《法句經》〈2 欲品〉20頌 [0]_
      - 《法句經》(T210)〈32 愛欲品〉32頌
@@ -79,6 +80,11 @@
      - T212-02-012 智者不越次，漸漸以微微，巧匠漸刈垢，淨除諸穢污。(12)
      - ——————
      - PLSu-18-239 智者應隨時(剎那剎那)少量少量地(清理)清除自己的垢穢，如同銀匠(依順序地去除銀的雜質)。(239)
+
+.. list-table:: 梵文《法句經》 2. kāmavargo
+   :widths: 20 20 20 20 20
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 梵文《法句經》〈2 欲品〉20頌 [0]_
      - 《法句經》(T210)〈32 愛欲品〉32頌
@@ -298,5 +304,6 @@
 
 
 ..
+  02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   2022-01-30 post; 2022-01-27 finished
   2021-08-30 create rst [建構中 (Under construction)!]

@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2021-08-30
-:modified: 2021-12-18
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--支謙譯《法句經》
@@ -14,6 +14,7 @@
 .. list-table:: 支謙譯《法句經》〈28 道行品〉
    :widths: 33 33 34
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈28 道行品〉28頌
      - 《出曜經》(T212)〈13 道品〉20頌
@@ -64,6 +65,11 @@
      - T212-19-004 未斷林頃，增人縛著，心縛無解，如犢戀母。〈19 華品〉(4)
      - PLSu-19-284 只要人對親戚的欲望未被砍除，即使是僅有些微的一些欲望，他就有同樣的心執著，就像小牛(繫念)在牛母處吃奶。(284)
 
+.. list-table:: 支謙譯《法句經》〈28 道行品〉
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
+
    * - 《法句經》(T210)〈28 道行品〉28頌
      - 《出曜經》(T212)〈13 道品〉20頌
      - 巴利《法句經》(Dhammapada)〈20 道品〉17頌
@@ -109,6 +115,11 @@
        | T210-28-004 生死非常苦，能觀見為慧，欲離一切苦，行道一切除。(4)
      - T212-13-006 一切眾行苦，如慧之所見，若能覺此苦，行道淨其迹。(6)
      - PLSu-19-278 當他以智慧見到『諸行是苦』時，則他於苦厭離，這就是清淨之道。(278)
+
+.. list-table:: 支謙譯《法句經》〈28 道行品〉
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈28 道行品〉28頌
      - 《出曜經》(T212)〈13 道品〉20頌
@@ -175,6 +186,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   12-18 add: 取材自
   12-10 finish and post from the chapter 28 to the end (the chapter 39); 11-16 rev. completed this chapter
   2021-08-30 create rst

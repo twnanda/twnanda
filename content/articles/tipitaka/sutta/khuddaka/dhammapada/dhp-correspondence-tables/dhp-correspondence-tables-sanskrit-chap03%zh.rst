@@ -3,7 +3,7 @@
 =============================================================
 
 :date: 2021-08-30
-:modified: 2022-01-30
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su, Sanskrit, Udānavarga
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--梵文《法句經》3. Tṛṣṇāvarga 貪品
@@ -14,6 +14,7 @@
 .. list-table:: 梵文《法句經》 3. Tṛṣṇāvarga
    :widths: 20 20 20 20 20
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 梵文《法句經》〈3. Tṛṣṇāvarga 貪品〉18頌 [0]_
      - 《法句經》(T210)〈32 愛欲品〉32頌
@@ -80,6 +81,11 @@
      - T212-03-010 人為恩愛惑，不能捨情欲，如是憂愛多，潺潺盈于池。(10)
      - T213-03-012 若遠離貪愛，煩惱不能侵，貪欲若薄劣，如水滴蓮上。(12)
      - PLSu-24-336 在此世間能克服這卑劣的、難以克服的貪欲者，憂患從他身上墜落，像水珠從睡蓮墜落一樣。(336)
+
+.. list-table:: 梵文《法句經》 3. Tṛṣṇāvarga
+   :widths: 20 20 20 20 20
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 梵文《法句經》〈3. Tṛṣṇāvarga 貪品〉18頌 [0]_
      - 《法句經》(T210)〈32 愛欲品〉32頌
@@ -278,5 +284,6 @@
          已知此過患，及愛能生苦，離愛、無取、念，苾芻能出離。
 
 ..
+  02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   2022-01-30 post; 2022-01-28 finished
   2021-08-30 create rst [建構中 (Under construction)!]

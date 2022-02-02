@@ -3,7 +3,7 @@
 ====================================================================================================
 
 :date: 2021-08-28
-:modified: 2021-12-18
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--〈7 Arahant 阿羅漢品〉90-99頌（依蘇錦坤漢譯巴利《法句經Dhammapada》編序）
@@ -13,6 +13,7 @@
 .. list-table:: Dhammapada〈7 Arahant 阿羅漢品〉90-99頌
    :widths: 25 25 25 25
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 巴利《法句經》(Dhammapada) 〈7 阿羅漢品〉90-99頌（蘇錦坤漢譯）
      - 《法句經》(T210) 〈15 羅漢品〉10頌（支謙譯）
@@ -102,5 +103,6 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   12-18 post; 12-12 rev. completed from the chapter 1 to the end (the chapter 26)
   2021-08-28 create rst

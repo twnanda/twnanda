@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2021-08-30
-:modified: 2021-12-18
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--〈14 明哲品〉17頌（依支謙譯《法句經》編序）
@@ -14,6 +14,7 @@
 .. list-table:: 支謙譯《法句經》〈14 明哲品〉17頌
    :widths: 33 33 34
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈14 明哲品〉17頌
      - 《出曜經》(T212) 無相當品名
@@ -59,6 +60,11 @@
    * - T210-14-010 大人體無欲，在所昭然明，雖或遭苦樂，不高現其智。
      - T212-31-046 所在有賢人，不著欲穢垢，正使遭苦樂，不興於害意。〈31 樂品〉(46)
      - PLSu-06-083 善人捨棄一切，德人不因貪欲而閒談，智者不因遭受苦樂而顯露得意或懊惱。(83)
+
+.. list-table:: 支謙譯《法句經》〈14 明哲品〉17頌
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈14 明哲品〉17頌
      - 《出曜經》(T212) 無相當品名
@@ -120,6 +126,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   12-18 add: 取材自
   10-26 rev. completed to the chapter 15
   2021-08-30 create rst

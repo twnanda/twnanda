@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2021-08-30
-:modified: 2021-12-18
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--〈20 愛身品〉13頌（依支謙譯《法句經》編序）
@@ -14,6 +14,7 @@
 .. list-table:: 支謙譯《法句經》〈20 愛身品〉
    :widths: 33 33 34
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈20 愛身品〉13頌
      - 《出曜經》(T212)〈24 我品〉21頌
@@ -60,6 +61,11 @@
      - T212-24-010 為己或為彼，多有不成就，其有覺此者，正己乃訓彼。〈24 我品〉(10)
      - PLSu-12-166 (即使)別人有重大義利，不應因這而令自己放棄自己的義利，徹底理解了自己的義利，他應專注於自己的義利。(166)
 
+.. list-table:: 支謙譯《法句經》〈20 愛身品〉
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
+
    * - 《法句經》(T210)〈20 愛身品〉13頌
      - 《出曜經》(T212)〈24 我品〉21頌
      - 巴利《法句經》(Dhammapada)〈12 己身品〉10頌
@@ -104,6 +110,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   12-18 add: 取材自
   11-16 rev. completed to the chapter 27
   2021-08-30 create rst; 0*-** post

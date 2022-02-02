@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2021-08-30
-:modified: 2021-12-18
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--〈19 老耗品〉14頌（依支謙譯《法句經》編序）
@@ -14,6 +14,7 @@
 .. list-table:: 支謙譯《法句經》〈19 老耗品〉
    :widths: 33 33 34
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈19 老耗品〉14頌
      - 《出曜經》(T212) 無對應品名
@@ -59,6 +60,11 @@
    * - T210-19-010 不修梵行，又不富財，老如白鷺，守伺空池。
      - T212-18-004 不修梵行，少不積財，如鶴在池，守故何益？〈18 水品〉(4)
      - PLSu-11-155 既不修習梵行，年輕時又未取得財富，他們像老鸕鶿守候著無魚的池沼。(155)
+
+.. list-table:: 支謙譯《法句經》〈19 老耗品〉
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈19 老耗品〉14頌
      - 《出曜經》(T212) 無對應品名
@@ -108,6 +114,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   12-18 add: 取材自
   11-16 rev. completed to the chapter 27
   2021-08-30 create rst; 0*-** post

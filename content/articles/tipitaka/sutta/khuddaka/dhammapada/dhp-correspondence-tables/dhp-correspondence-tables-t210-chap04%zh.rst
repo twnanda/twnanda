@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2021-08-30
-:modified: 2021-12-17
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--〈4 篤信品〉 18頌（依支謙譯《法句經》編序）
@@ -14,6 +14,7 @@
 .. list-table:: 支謙譯《法句經》〈4 篤信品〉 18頌
    :widths: 33 33 34
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈4 篤信品〉18頌
      - 《出曜經》(T212)〈11 信品〉15頌
@@ -59,6 +60,11 @@
    * - T210-04-010 欲見諸真，樂聽講法，能捨慳垢，此之謂信。
      - T212-11-009 欲見諸真，樂聽講法，能捨慳垢，此之為信。(9)
      - ——————
+
+.. list-table:: 支謙譯《法句經》〈4 篤信品〉 18頌
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈2 教學品〉29頌
      - 《出曜經》(T212)〈8 學品〉無對應偈頌
@@ -124,6 +130,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   12-18 add: 取材自; 12-02 rev. correct sutta no T212-04 with T212-11
   10-26 rev. completed to the chapter 15
   2021-08-30 create rst

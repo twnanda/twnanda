@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2021-08-30
-:modified: 2021-12-18
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--〈31 象喻品〉17頌（依支謙譯《法句經》編序）
@@ -14,6 +14,7 @@
 .. list-table:: 支謙譯《法句經》〈31 象喻品〉
    :widths: 33 33 34
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈31 象喻品〉17頌
      - 《出曜經》(T212)〈20 馬喻品〉12頌
@@ -58,6 +59,11 @@
    * - T210-31-010 不得賢能伴，俱行行惡悍，廣斷王邑里，寧獨不為惡。
      - T212-15-010 設不得親友，獨遊無伴侶，廣觀諸方界，獨善不造惡。〈15 忿怒品〉(10)
      - PLSu-23-329 如果你不能找到叡智的朋友，一個聰明而善良的同行伙伴，如同國王已經捨棄了臣服於他的國土，一個人應獨行如一頭大象獨行於象林。(329)
+
+.. list-table:: 支謙譯《法句經》〈31 象喻品〉
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈31 象喻品〉17頌
      - 《出曜經》(T212)〈20 馬喻品〉12頌
@@ -123,6 +129,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   12-18 add: 取材自
   12-10 finish and post from the chapter 28 to the end (the chapter 39); 12-02 rev. completed this chapter
   2021-08-30 create rst; 0*-** post

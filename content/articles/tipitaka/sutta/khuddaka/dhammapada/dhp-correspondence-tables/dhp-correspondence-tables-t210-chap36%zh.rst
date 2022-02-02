@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2021-08-30
-:modified: 2021-12-18
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--〈36 泥洹品〉36頌（依支謙譯《法句經》編序）
@@ -14,6 +14,7 @@
 .. list-table:: 支謙譯《法句經》〈36 泥洹品〉
    :widths: 33 33 34
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈36 泥洹品〉36頌
      - 《出曜經》(T212)〈27 泥洹品〉30頌
@@ -60,6 +61,11 @@
      - T212-27-016 見而實而見，聞而實而聞，知而實而知，是謂名苦際。(16)
      - ——————
 
+.. list-table:: 支謙譯《法句經》〈36 泥洹品〉
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
+
    * - 《法句經》(T210)〈36 泥洹品〉36頌
      - 《出曜經》(T212)〈27 泥洹品〉30頌
      - 巴利《法句經》(Dhammapada) 無對應品名
@@ -103,6 +109,11 @@
    * - T210-36-020 無想不想入，無今世後世，亦無日月想，無往無所懸。
      - T212-27-025 非月非有光，非日非有明，審諦觀此者，乃應梵志行。(25) （參考）
      - ——————
+
+.. list-table:: 支謙譯《法句經》〈36 泥洹品〉
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈36 泥洹品〉36頌
      - 《出曜經》(T212)〈27 泥洹品〉30頌
@@ -148,6 +159,11 @@
    * - T210-36-030 道務先遠欲，早服佛教戒，滅惡極惡際，易如鳥逝空。
      - ——————
      - ——————
+
+.. list-table:: 支謙譯《法句經》〈36 泥洹品〉
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈36 泥洹品〉36頌
      - 《出曜經》(T212)〈27 泥洹品〉30頌
@@ -218,6 +234,7 @@
 
        ← `卷23〈27 泥洹品〉(CBETA, T04, no. 212, p. 730, c6-p. 736, a22) （2013年11月20日 星期三） <http://yifertw212.blogspot.com/2013/11/2327-cbeta-t04-no-212-p-730-c6-p-736-a22.html>`__  ← `《出曜經》校勘與標點 <http://yifertw212.blogspot.com/>`__ 
 ..
+  2022-02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   12-18 add: 取材自
   12-10 post; 12-09 rev. completed from the chapter 28 to the end (the chapter 39)
   2021-08-30 create rst

@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2021-08-30
-:modified: 2021-12-18
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--〈32 愛欲品〉32頌（依支謙譯《法句經》編序）
@@ -14,6 +14,7 @@
 .. list-table:: 支謙譯《法句經》〈32 愛欲品〉
    :widths: 33 33 34
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈32 愛欲品〉32頌
      - 《出曜經》(T212)〈3 愛品〉19頌
@@ -60,6 +61,11 @@
      - T212-32-019 三十六駃流，并及心意漏，敷數有邪見，依於欲想結。〈32 心意品〉(19)
      - PLSu-24-339 流向可意事物者的三十六流非常浩大；繫著於貪愛的主導思惟(將他)帶向惡見。(339)
 
+.. list-table:: 支謙譯《法句經》〈32 愛欲品〉
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
+
    * - 《法句經》(T210)〈32 愛欲品〉32頌
      - 《出曜經》(T212)〈3 愛品〉19頌
      - 巴利《法句經》(Dhammapada)〈24 愛欲品〉26頌
@@ -103,6 +109,11 @@
    * - T210-32-020 以欲網自蔽、以愛蓋自覆，自恣縛於獄，如魚入笱口，為老死所伺，若犢求母乳。
      - T212-03-003 以欲網自蔽，以愛蓋自覆，自恣縛於獄，如魚入笱口，為老死所伺，若犢求母乳。(3)
      - ——————
+
+.. list-table:: 支謙譯《法句經》〈32 愛欲品〉
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈32 愛欲品〉32頌
      - 《出曜經》(T212)〈3 愛品〉19頌
@@ -186,6 +197,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   12-18 add: 取材自
   12-10 finish and post from the chapter 28 to the end (the chapter 39); 12-02 rev. completed this chapter
   2021-08-30 create rst

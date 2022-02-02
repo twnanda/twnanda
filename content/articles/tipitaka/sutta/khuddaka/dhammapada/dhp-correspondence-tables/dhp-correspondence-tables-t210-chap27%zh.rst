@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2021-08-30
-:modified: 2021-12-18
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--支謙譯《法句經》
@@ -14,6 +14,7 @@
 .. list-table:: 支謙譯《法句經》〈27奉持品〉
    :widths: 33 33 34
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈27奉持品〉17頌
      - 《出曜經》(T212) 無對應品名
@@ -58,6 +59,11 @@
    * - T210-27-010 謂能止惡，恢廓弘道，息心滅意，是為沙門。
      - T212-12-015 所謂沙門，恢廓弘道，息心滅意，麤結不興。〈12 沙門品〉(15)
      - PLSu-19-265 止息一切大、小眾惡的的人，他以止息眾惡而被稱為沙門。(265)
+
+.. list-table:: 支謙譯《法句經》〈27奉持品〉
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈27奉持品〉17頌
      - 《出曜經》(T212) 無對應品名
@@ -119,6 +125,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   12-18 add: 取材自
   11-16 rev. completed to the chapter 27
   2021-08-30 create rst; 0*-** post

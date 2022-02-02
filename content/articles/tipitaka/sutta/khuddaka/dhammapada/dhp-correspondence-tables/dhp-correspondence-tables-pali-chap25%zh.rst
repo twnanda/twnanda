@@ -2,7 +2,7 @@
 《法句經》偈頌對照表--〈25 Bhikkhu Vagga 比丘品〉360-382頌（依蘇錦坤漢譯巴利《法句經Dhammapada》編序）
 =========================================================================================================
 
-:date: 2021-08-28
+:date: 2022-02-02
 :modified: 2021-12-18
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
@@ -11,9 +11,9 @@
 
 蘇錦坤 製表
 
-.. list-table:: Dhammapada〈25 Bhikkhu Vagga 比丘品〉360-382頌
-   :widths: 25 25 25 25
+.. list-table:: Dhammapada (25 Bhikkhu Vagga)
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 巴利《法句經》(Dhammapada)〈25 比丘品〉360-382頌（蘇錦坤漢譯）
      - 《法句經》(T210)〈34 沙門品〉32頌（支謙譯）
@@ -74,9 +74,10 @@
      - T212-27-012 比丘速抒船，以抒便當輕，永斷貪欲情，然後至泥洹。
      - T213-26-014 苾芻速杼船，以杼便當輕，求斷貪欲情，然後至圓寂。〈26 圓寂品〉 (14)
 
-.. list-table:: Dhammapada〈25 Bhikkhu Vagga 比丘品〉360-382頌
+.. list-table:: Dhammapada (25 Bhikkhu Vagga)
    :widths: 25 25 25 25
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 巴利《法句經》(Dhammapada)〈25 比丘品〉360-382頌
      - 《法句經》(T210)〈34 沙門品〉32頌
@@ -179,5 +180,6 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   12-18 post; 12-17 rev. completed from the chapter 1 to the end (the chapter 26)
   2021-08-28 create rst

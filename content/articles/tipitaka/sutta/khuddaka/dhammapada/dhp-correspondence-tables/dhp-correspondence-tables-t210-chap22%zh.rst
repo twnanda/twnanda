@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2021-08-30
-:modified: 2021-12-18
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--〈22 述佛品〉21頌（依支謙譯《法句經》編序）
@@ -14,6 +14,7 @@
 .. list-table:: 支謙譯《法句經》〈22 述佛品〉
    :widths: 33 33 34
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈22 述佛品〉21頌
      - 《出曜經》(T212)〈22 如來品〉17頌
@@ -59,6 +60,11 @@
    * - T210-22-010 不嬈亦不惱，如戒一切持，少食捨身貪，有行幽隱處，意諦以有黠，是能奉佛教。
      - T212-32-039 無害無所染，具足於戒律，於食知止足，及諸床臥具，修意求方便，是謂諸佛教。〈32 心意品〉(39)
      - PLSu-14-185 不非難，不傷害，善防護戒律，飲食知量，獨坐臥於僻靜處，勤修禪定，此為諸佛的教導。(185)
+
+.. list-table:: 支謙譯《法句經》〈22 述佛品〉
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈22 述佛品〉21頌
      - 《出曜經》(T212)〈22 如來品〉17頌
@@ -136,6 +142,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   12-18 add: 取材自
   11-16 rev. completed to the chapter 27
   2021-08-30 create rst; 0*-** post

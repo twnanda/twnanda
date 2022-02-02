@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2021-08-30
-:modified: 2021-12-18
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--〈34 沙門品〉32頌（依支謙譯《法句經》編序）
@@ -14,6 +14,7 @@
 .. list-table:: 支謙譯《法句經》〈34 沙門品〉
    :widths: 33 33 34
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈34 沙門品〉32頌
      - 《出曜經》(T212)〈8 學品〉〈12 沙門品〉16頌，〈33 沙門品〉44頌
@@ -62,6 +63,11 @@
      - ——————
      - PLSu-25-370 應斷五，應捨五，應修習五，超越五種執著的比丘，被稱為是「渡過瀑流者」。(370)
 
+.. list-table:: 支謙譯《法句經》〈34 沙門品〉
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
+
    * - 《法句經》(T210)〈34 沙門品〉32頌
      - 《出曜經》(T212)〈8 學品〉〈12 沙門品〉16頌，〈33 沙門品〉44頌
      - 巴利《法句經》(Dhammapada)〈25 比丘品〉23頌
@@ -106,6 +112,11 @@
    * - T210-34-020 我自為我，計無有我，故當損我，調乃為賢。
      - T212-20-012 自為自衛護，自歸求自度，是故躬自慎，如商賈良馬。〈20 馬喻品〉(12)
      - PLSu-25-380 自己為自己的保護者，自己是自己的方向引導者，所以應自我調御，如同商人調御他的良馬。(380)
+
+.. list-table:: 支謙譯《法句經》〈34 沙門品〉
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈34 沙門品〉32頌
      - 《出曜經》(T212)〈8 學品〉〈12 沙門品〉16頌，〈33 沙門品〉44頌
@@ -193,6 +204,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   12-18 add: 取材自
   12-10 finish and post from the chapter 28 to the end (the chapter 39); 12-08 rev. completed this chapter
   2021-08-30 create rst; 0*-** post

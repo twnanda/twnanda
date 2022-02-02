@@ -3,7 +3,7 @@
 ===================================================================
 
 :date: 2021-08-30
-:modified: 2021-12-18
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--〈12 華香品〉17頌（依支謙譯《法句經》編序）
@@ -14,6 +14,7 @@
 .. list-table:: 支謙譯《法句經》〈12 華香品〉17頌
    :widths: 33 33 34
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈12 華香品〉17頌
      - 《出曜經》(T212)〈19 華品〉19頌
@@ -58,6 +59,11 @@
    * - T210-12-010 如可意華，色美且香，工語有行，必得其福。
      - T212-19-007 如彼可意華，色好而香潔，巧言善如是，必得其果報。(7)
      - PLSu-04-052 說得動聽而已執行的語言是有結果的，就像美麗的花朵色彩繽紛且有花香。(52)
+
+.. list-table:: 支謙譯《法句經》〈12 華香品〉17頌
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈12 華香品〉17頌
      - 《出曜經》(T212)〈19 華品〉19頌
@@ -119,6 +125,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   12-18 add: 取材自
   10-26 rev. completed to the chapter 15
   2021-08-30 create rst

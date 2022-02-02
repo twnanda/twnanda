@@ -3,7 +3,7 @@
 =================================================================
 
 :date: 2021-08-30
-:modified: 2022-01-30
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su, Sanskrit, Udānavarga
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--梵文《法句經》4. Apramādavarga 不放逸品
@@ -14,6 +14,7 @@
 .. list-table:: 梵文《法句經》 4. Apramādavarga
    :widths: 20 20 20 20 20
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 梵文《法句經》〈4. 不放逸品〉38 頌 [0]_
      - 《法句經》(T210)〈10 放逸品〉 20 頌
@@ -82,6 +83,11 @@
      - T213-04-011 止觀不散亂，如財主守藏，莫貪樂鬪諍，亦勿嗜欲樂。(11)
      - PLSu-02-026 無知的愚人沉溺於放逸，智者保護不放逸如同他最珍貴的財寶。(26)
 
+.. list-table:: 梵文《法句經》 4. Apramādavarga
+   :widths: 20 20 20 20 20
+   :header-rows: 1
+   :class: remove-gatha-number
+
    * - 梵文《法句經》〈4. 不放逸品〉38 頌 [0]_
      - 《法句經》(T210)〈10 放逸品〉 20 頌
      - 《出曜經》(T212)〈4 無放逸品〉 16 頌，〈5 放逸品〉 24 頌
@@ -149,6 +155,11 @@
      - ——————
      - PLSu-21-293 那些善精進者，那些持續修身念處者，他們不斷地作該作的事，不親近不該作的事，正知正念者的漏止息。(293)
 
+.. list-table:: 梵文《法句經》 4. Apramādavarga
+   :widths: 20 20 20 20 20
+   :header-rows: 1
+   :class: remove-gatha-number
+
    * - 梵文《法句經》〈4. 不放逸品〉38 頌 [0]_
      - 《法句經》(T210)〈10 放逸品〉 20 頌
      - 《出曜經》(T212)〈4 無放逸品〉 16 頌，〈5 放逸品〉 24 頌
@@ -215,6 +226,11 @@
      - T212-05-015 比丘謹慎樂，放逸多憂愆各以次第，得盡諸結使。 (5.15) 
      - T213-04-030 苾芻懷謹慎，放逸多憂愆，各順次第得盡諸結使。 (30)
      - ——————
+
+.. list-table:: 梵文《法句經》 4. Apramādavarga
+   :widths: 20 20 20 20 20
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 梵文《法句經》〈4. 不放逸品〉38 頌 [0]_
      - 《法句經》(T210)〈10 放逸品〉 20 頌
@@ -539,5 +555,6 @@
 
 
 ..
+  02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   2022-01-30 post; 2022-01-30 finished
   2021-08-30 create rst [建構中 (Under construction)!]

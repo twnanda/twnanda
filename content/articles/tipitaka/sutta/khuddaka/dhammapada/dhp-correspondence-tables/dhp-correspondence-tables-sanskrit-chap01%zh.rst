@@ -3,7 +3,7 @@
 =============================================================
 
 :date: 2021-08-31
-:modified: 2022-01-30
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su, Sanskrit, Udānavarga
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--梵文《法句經》 1. Anityavarga 無常品
@@ -20,6 +20,7 @@
 .. list-table:: 梵文《法句經》 1: Anityavarga
    :widths: 20 20 20 20 20
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 梵文《法句經》〈1 無常品〉42頌 [0]_
      - 《法句經》(T210) 〈1 無常品〉21頌
@@ -90,6 +91,7 @@
 .. list-table:: 梵文《法句經》 1: Anityavarga
    :widths: 20 20 20 20 20
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 梵文
      - 《法句經》(T210) 〈1 無常品〉21頌
@@ -162,6 +164,7 @@
 .. list-table:: 梵文《法句經》 1: Anityavarga
    :widths: 20 20 20 20 20
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 梵文
      - 《法句經》(T210) 〈1 無常品〉21頌
@@ -233,6 +236,7 @@
 .. list-table:: 梵文《法句經》 1: Anityavarga
    :widths: 20 20 20 20 20
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 梵文
      - 《法句經》(T210) 〈1 無常品〉21頌
@@ -595,6 +599,7 @@
           故常樂靜慮，三昧常精勤，能見生老邊，已伏魔與軍，苾芻能度生死到彼岸。
 
 ..
+  02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   2022-01-30 rev. 梵文加 | 斷行
   12-21 rev. 梵文之文言文漢譯移至備註；白話文漢譯上移至表格中之本文。
   2021-08-31 post; 08-28 create rst

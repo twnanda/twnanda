@@ -2,7 +2,7 @@
 《法句經》偈頌對照表--〈30 地獄品〉16頌（依支謙譯《法句經》編序）
 ===================================================================
 :date: 2021-08-30
-:modified: 2021-12-17
+:modified: 2022-02-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--〈30 地獄品〉16頌（依支謙譯《法句經》編序）
@@ -13,6 +13,7 @@
 .. list-table:: 支謙譯《法句經》〈30 地獄品〉
    :widths: 33 33 34
    :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈30 地獄品〉16頌
      - 《出曜經》(T212) 無對應品名
@@ -61,6 +62,11 @@
    * - T210-30-010 其於眾惡行，欲作若已作，是苦不可解，罪近難得避。
      - ——————
      - ——————
+
+.. list-table:: 支謙譯《法句經》〈30 地獄品〉
+   :widths: 33 33 34
+   :header-rows: 1
+   :class: remove-gatha-number
 
    * - 《法句經》(T210)〈30 地獄品〉16頌
      - 《出曜經》(T212) 無對應品名
@@ -120,6 +126,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-02-02 rev. remove-gatha-number (add:  :class: remove-gatha-number)
   12-18 add: 取材自; 12-16 rev. T210-30-012, old: T212-06-012 夫欲自念者，善宜自守護，猶如防邊城，深塹固乃牢，失三離三者，智者宜自悟。〈6 念品〉(12)
   12-10 finish and post from the chapter 28 to the end (the chapter 39); 12-02 rev. completed this chapter
   2021-08-30 create rst
