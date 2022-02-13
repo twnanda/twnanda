@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2021-10-21
+:modified: 2022-02-13
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -14,6 +14,12 @@ Publications of Bhikkhu Uttamo
 - `Eighteen Days in Solitude`_ -- Instructional Dhamma Talks in Retreat, by Venerable U Ādiccaramsī; the translator: Bhikkhu Uttamo; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=35450#p35449 
 
 - `Protection with Blessing`_ -- Maṅgala Sutta
+
+- `Two Sides of A Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha)`_ 
+
+- `A Noble Search (Dhamma Talks by Sayadaw U Candima`_
+
+dhamma-talks-by-ukkattha-and-candima-sayadaw
 
 .. _Dhamma Talks by Mogok Sayadaw:
 
@@ -818,7 +824,7 @@ Protection with Blessing
 
 -- Maṅgala Sutta ( `Content of Maṅgala Sutta – Protection with Blessing <{filename}protection-with-blessings/content-of-protection-with-blessings%zh.rst>`_ )
 
-- `Introduction <{filename}protection-with-blessings/mangala-blessing-introduction%zh.rst>`_
+- `Introduction <{filename}protection-with-blessings/mangala-blessing-introduction%zh.rst>`__
 
 - `Texts <{filename}protection-with-blessings/mangala-blessing-texts%zh.rst>`_ 
 
@@ -956,9 +962,56 @@ Protection with Blessing
 
 ------
 
+.. _Two Sides of A Coin:
+
+Two Sides of A Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- `Introduction <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/introduction-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`__ to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
+
+- `Two Sides of A Coin <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/ukkattha-two-sides-of-a-coin%zh.rst>`__ 
+
+- `The Four Levels in Practice <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/ukkattha-the-four-levels-in-practice%zh.rst>`_
+
+- `The Way of a Stream Enterer <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/ukkattha-the-way-of-a-stream-enterer%zh.rst>`_
+
+- `From the Beginning to the End <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/ukkattha-from-the-beginning-to-the-end%zh.rst>`_
+
+- `Short Biography and Instruction on Practice <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/ukkattha-short-biography-and-instruction-on-practice%zh.rst>`_
+
+- `Appendix <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Under Construction!)
+
+------
+
+.. _A Noble Search:
+
+A Noble Search (Dhamma Talks by Sayadaw U Candima
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- `Introduction <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/introduction-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`__ to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
+
+- `A Noble Search <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-a-noble-search%zh.rst>`__
+
+- `On Basic Meditation <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-on-basic-meditation%zh.rst>`_
+
+- `Pain and Samādhi <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-pain-and-samādhi%zh.rst>`_
+
+- `Dealing with Pain in Samādhi Practice <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-dealing-with-pain-in-samadhi-practice%zh.rst>`_ (Under Construction!)
+
+- `On Ānāpāna Samādhi <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-on-anapana-samadhi%zh.rst>`_ (Under Construction!)
+
+- `A Scales Like Samādhi <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-a-scales-like-samadhi%zh.rst>`_ (Under Construction!)
+
+- `Diamond Meditation <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-diamond-meditation%zh.rst>`_ (Under Construction!)
+
+- `Appendix <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Under Construction!)
+
+------
+
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2022-02-13 add: Two Sides of A Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha) & A Noble Search (Dhamma Talks by Sayadaw U Candima
   10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
   09-28 add: Note of colourful pages for 12.pt
   09-14 rev: correct %zh%zh with %zh.rst
