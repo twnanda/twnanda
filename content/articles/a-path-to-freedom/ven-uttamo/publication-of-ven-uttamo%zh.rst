@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2022-02-14
+:modified: 2022-02-28
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -758,7 +758,7 @@ _`For printing` full text of "Dhamma Talks by Mogok Sayadaw":
 
 - `Size: A4 <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-A4.pdf>`__ , Large font (14.5 pt, PDF, 1073 pages, 2021-10-21) 
 
-- Cover: `Vol-I <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok1-cover.png>`__ , `Vol-II <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok2-cover.png>`__ , `Vol-III <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok3-cover.png>`__ (2021-10-21)
+- Cover: `Vol-I <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok1-cover.png>`__ , `Vol-II <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok2-cover.png>`__ , `Vol-III <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok3-cover.png>`__ (2022-02-28)
 
 ------
 
@@ -1011,6 +1011,7 @@ A Noble Search (Dhamma Talks by Sayadaw U Candima
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  02-28 rev. covers (picture) of Mogok Sayadaw's Dhamma talks
   02-14 rev. filename:candima-pain-and-samadhi%zh.rst (old:candima-pain-and-samādhi%zh.rst)
   2022-02-13 add: Two Sides of A Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha) & A Noble Search (Dhamma Talks by Sayadaw U Candima
   10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
