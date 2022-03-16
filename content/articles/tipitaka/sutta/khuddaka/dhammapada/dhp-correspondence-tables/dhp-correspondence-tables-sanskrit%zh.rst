@@ -74,7 +74,7 @@ _`《法句經》偈頌對照表--依梵文《法句經》編序`
      - `3 貪品 <{filename}dhp-correspondence-tables-sanskrit-chap03%zh.rst>`_
      - `4 不放逸品 <{filename}dhp-correspondence-tables-sanskrit-chap04%zh.rst>`_
      - `5 喜品 <{filename}dhp-correspondence-tables-sanskrit-chap05%zh.rst>`_ 
-     - `6 戒品 <{filename}dhp-correspondence-tables-sanskrit-chap06%zh.rst>`_ （建構中 (Under construction)!）
+     - `6 戒品 <{filename}dhp-correspondence-tables-sanskrit-chap06%zh.rst>`_ 
 
    * - 1: Anityavarga, 42首偈頌
      - 2: Kāmavarga, 20首偈頌
@@ -195,7 +195,7 @@ _`《法句經》偈頌對照表--依梵文《法句經》編序`
 
 
 ..
-  03-16 finish chap. 5
+  03-16 finish chap. 6 & chap. 5
   01-31 correct chapters  (from 7 sucarita善行品 till the end)
   2022-01-30 change title (old:Udānavarga 梵文法句經、巴利《法句經》漢譯與《法集要頌經》(T213)偈頌對照表); finish chap. 2 ~ chap. 4
   2021-08-31 post; 08-28 create rst
