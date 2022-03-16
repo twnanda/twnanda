@@ -243,44 +243,168 @@
 
        梵文漢譯取材自： 猶如蚊子飲大海水 (https://yathasukha.blogspot.com/) 2021年1月4日 星期一 udānavargo https://yathasukha.blogspot.com/2021/01/udanavargo.html  （張貼者：新花長舊枝 15:21）
 
-.. [5-1] 
-.. [5-2] 
-.. [5-3] 
-.. [5-4] 
-.. [5-5] 
-.. [5-6] 
-.. [5-7] 
-.. [5-8] 
-.. [5-9] 
-.. [5-10]  [梵] priyarūpasātagrathitā devakāyāḥ pṛthak sthitāḥ /
+.. [5-1] | (梵) priyebhyo jāyate śokaḥ priyebhyo jāyate bhayam /
+         | priyebhyo vipramuktānāṃ nāsti śokaḥ kuto bhayam //
+         | 
 
-       āghādinaḥ paridyūnā mṛtyu rājavaśaṃ gatāḥ //
+         從喜生憂愁，從喜生怖畏，已解脫喜者，無憂何怖畏？
 
-       喜色樂所繫，諸天身異住，苦等又悲傷，落入死王所。
-       各各分開而住的天神眾，滿足於喜愛的色身，會被這種滿足繫縛，是苦等與悲傷的，落入死王所在。
+.. [5-2] | (梵) priyebhyo jāyate śokaḥ priyebhyo jāyate bhayam /
+         | priyāṇām anyathībhāvād unmādam api gacchati //
+         | 
 
-       Eng: Woodville Rockhill (1975)
-       10. He who among gods and men is held by fondness for what is pleasing in the body (rūpa), does evil and suffers affliction, he falls into the power of age and death.
+         從喜生憂愁，從喜生怖畏，因喜變異故，遂成為狂亂。
 
-.. [5-11] 
-.. [5-12] 
-.. [5-13] 
-.. [5-14] 
-.. [5-15] 
-.. [5-16] 
-.. [5-17] 
-.. [5-18] 
-.. [5-19] 
-.. [5-20]
+.. [5-3] | (梵) śokā hi ye vai paridevitaṃ ca duḥkhaṃ ca lokasya hi naikarūpam /
+         | priyaṃ pratītyeha tad asti sarvaṃ priye 'sati syān na kathaṃcid etat //
+         | 
 
-.. [5-21] 
-.. [5-22] 
-.. [5-23] 
-.. [5-24] 
-.. [5-25] 
-.. [5-26] 
-.. [5-27] 
+         世上憂與惱，苦類實無數，依喜生諸苦，無喜彼亦無。
+
+.. [5-4] | (梵) tasmād dhi te sukhitā vītaśokā yeṣāṃ priyaṃ nāsti kathaṃcid eva /
+         | tasmād aśokaṃ padam eṣamāṇaḥ priyaṃ na kurvīta hi jīvaloke //
+         | 
+
+         故彼樂、無憂，若無任何喜，故尋無憂境，於世不生喜。
+
+.. [5-5] | (梵) mā priyaiḥ saṃgamo jātu mā ca syād apriyaiḥ sadā /
+         | priyāṇām adarśanaṃ duḥkham apriyāṇāṃ ca darśanam //
+         | 
+
+         莫與喜愛會，莫與不喜會，不見喜是苦，見不喜是苦。
+
+.. [5-6] | (梵) priyāṇāṃ ca vinābhāvād apriyāṇāṃ ca saṃgamāt /
+         | tīvra utpadyate śoko jīryante yena mānavāḥ //
+         | 
+
+         與喜愛別離，與不喜相聚，強烈憂生起，以此人衰敗。
+
+.. [5-7] | (梵) priyaṃ mṛtaṃ kālagataṃ jñātayaḥ sahitāḥ sthitāḥ /
+         | śocanti dīrgham adhvānaṃ duḥkho hi priyasaṃgamaḥ //
+         | (priya-vigamaḥ?)
+
+         喜愛就後世，朋友多親眷，長夜憂愁恨，喜離為甚苦。
+
+.. [5-8] | (梵) tasmāt priyaṃ na kurvīta priyabhāvo hi pāpakaḥ /
+         | granthās teṣāṃ na vidyante yeṣāṃ nāsti priyāpriyam //
+         | 
+
+         是故不生喜，喜性實是惡，若無喜不喜，彼則無繫縛。
+
+.. [5-9] | (梵) ayoge yujya cātmānaṃ yoge cāyujya sarvadā /
+         | arthaṃ hitvā priyagrāhī spṛhayaty arthayogine //
+         | 
+
+         己事不應事，不事應作事，捨利執喜者，慕利益相應。
+
+.. [5-10] | (梵)  priyarūpasātagrathitā devakāyāḥ pṛthak sthitāḥ /
+         | āghādinaḥ paridyūnā mṛtyu rājavaśaṃ gatāḥ //
+         | 
+
+         喜色樂所繫，諸天身異住，苦等又悲傷，落入死王所。
+       
+.. [5-11] | (梵) ye vai divā ca rātrau caiva apramattāḥ priyaṃ jahati nityam /
+         | te vai khananti tv aghamūlaṃ mṛtyur āmiṣaṃ durativartyam //
+         | 
+
+         日夜不放逸，恆常捨棄喜，彼能掘惡根，難越死神餌。
+
+.. [5-12] | (梵) asādhu sādhurūpeṇa priyarūpeṇa cāpriyam /
+         | duḥkhaṃ sukhasya rūpeṇa pramattān abhimardati //
+         | 
+
+         不善以善色，不喜以喜色，苦以樂的色，摧毀放逸者。
+
+.. [5-13] | (梵) ātmānaṃ cet priyaṃ vidyān na enaṃ pāpena yojayet /
+         | na hy etat sulabhaṃ bhavati sukhaṃ duṣkṛtakāriṇā //
+         | 
+
+         若知喜自己，不應修習惡，作惡行得樂，此實不易得。
+
+.. [5-14] | (梵) ātmānaṃ cet priyaṃ vidyān na enaṃ pāpena yojayet /
+         | etadd hi sulabhaṃ bhavati sukhaṃ sukṛtakāriṇā //
+         | 
+
+         若知喜自己，不應修習惡，作善行得樂，此實極易得。
+
+.. [5-15] | (梵) ātmānaṃ cet priyaṃ vidyād rakṣed enaṃ surakṣitam /
+         | yathā pratyantanagaraṃ gambhīraparikhaṃ dṛḍham /
+         | trayāṇām anyatamaṃ yāmaṃ pratijāgreta paṇḍitaḥ //
+         | 
+
+         若知喜自己，應護善所護，如防護邊城，令深塹牢固。智者三時中，隨一應警覺。
+
+.. [5-16] | (梵) ātmānaṃ cet priyaṃ vidyād gopayet taṃ sugopitam /
+         | yathā pratyantanagaraṃ guptam antarbahiḥ sthiram //
+
+         若知喜自己，應藏善所藏，如防護邊城，內外悉牢固。
+
+.. [5-17] | (梵) evaṃ gopayatātmānaṃ kṣaṇo vo mā hy upatyagāt /
+         | kṣaṇātītā hi śocante narakeṣu samarpitāḥ //
+         | 
+
+         如是藏自己，剎那莫捨離，時過實生憂，墮於地獄中。
+
+.. [5-18] | (梵) sarvā diśas tv anuparigamya cetasā naivādhyagāt priyataram ātmanaḥ kvacit /
+         | evaṃ priyaḥ pṛthag ātmā pareṣāṃ tasmān na hiṃsyāt param ātmakāraṇam //
+         | 
+
+         心遍於諸方，何處喜過己，如是各喜己，喜己不殺他。
+
+.. [5-19] | (梵) sarve daṇḍasya bibhyanti sarveṣāṃ jīvitaṃ priyam /
+         | ātmānam upamāṃ kṛtvā na eva hanyān na ghātayet //
+         | 
+
+         一切畏刀杖，一切皆喜命，以自度他情，勿殺勿令殺。
+
+.. [5-20] | (梵) cirapravāsinaṃ yadvad dūrataḥ svastināgatam /
+         | jñātayaḥ suhṛdo mitrāś cābhinandanti āgatam //
+         | 
+
+         如久住異鄉，遠方安歸來，知識與親友，歡迎其歸來。
+
+.. [5-21] | (梵) kṛtapuṇyaṃ tathā martyam asmāṃl lokāt paraṃ gatam /
+         | puṇyāny evābhinandanti priyaṃ jñātim ivāgatam //
+         | 
+
+         如是已作福，此世往彼世，諸福迎接彼，如迎親歸來。
+
+.. [5-22] | (梵) tasmāt kuruta puṇyānāṃ nicayaṃ sāmparāyikam /
+         | puṇyāni paraloke hi pratiṣṭhā prāṇināṃ hi sā //
+         | 
+
+         是故汝應作，積聚當來福，於他世界中，福令有情住。
+
+.. [5-23] | (梵) puṇyaṃ devāḥ praśaṃsanti samacaryāṃ ca yaś caret /
+         | iha cānindito bhavati pretya svarge ca modate //
+         | 
+
+         諸天稱讚福，若能行正行，此世不受譴，死後天受樂。
+
+.. [5-24] | (梵) dharmasthaṃ śīlasampannaṃ hrīmantaṃ satyavādinam /
+         | ātmanaḥ kārakaṃ santaṃ taṃ janaḥ kurute priyam //
+         | 
+
+         住法戒具足，有慚說諦語，令自寂靜者，世人喜愛彼。
+
+.. [5-25] | (梵) pareṣāṃ ca priyo bhavati hy ātmārthaṃ kriyate 'pi ca /
+         | dṛṣṭe ca dharme prāśaṃsyaḥ sāmparāye ca sadgatiḥ //
+         | 
+
+         為人所喜愛，且造作己義，現世被稱讚，後生於善趣。
+
+.. [5-26] | (梵) avavadetānuśāsīta cāsabhyāc ca nivārayet |
+         | asatāṃ na priyo bhavati satāṃ bhavati tu priyaḥ ||
+         | 
+
+         教授與教誡，制止非法行，不善者不喜，然善者喜此。
+
+.. [5-27] | (梵) asantaś caiva santaś ca nānā yānti tv itaś cyutāḥ |
+         | asanto narakaṃ yānti santaḥ svargaparāyaṇāḥ ||
+         | 
+
+         善與不善者，死後皆不同，不善墮地獄，善者生天上。
 
 ..
-  2022-03-16 post; 2022-02-18 ~ 03-16 finished
+  2022-03-16 post; add: 梵文 & 文言文; 2022-02-18 ~ 03-16 finished
   2021-08-30 create rst [建構中 (Under construction)!]
