@@ -88,7 +88,7 @@ _`《法句經》偈頌對照表--依梵文《法句經》編序`
    :header-rows: 1
 
    * - `7 善行品 <{filename}dhp-correspondence-tables-sanskrit-chap07%zh.rst>`_ 
-     - `8 言語品 <{filename}dhp-correspondence-tables-sanskrit-chap08%zh.rst>`_ （建構中 (Under construction)!）
+     - `8 言語品 <{filename}dhp-correspondence-tables-sanskrit-chap08%zh.rst>`_
      - `9 業品 <{filename}dhp-correspondence-tables-sanskrit-chap09%zh.rst>`_ （建構中 (Under construction)!）
      - `10 信品 <{filename}dhp-correspondence-tables-sanskrit-chap10%zh.rst>`_ （建構中 (Under construction)!）
      - `11 沙門品 <{filename}dhp-correspondence-tables-sanskrit-chap11%zh.rst>`_ （建構中 (Under construction)!）
@@ -195,7 +195,7 @@ _`《法句經》偈頌對照表--依梵文《法句經》編序`
 
 
 ..
-  03-20 finish chap. 7
+  03-20 finish chap. 8, chap. 7
   03-16 finish chap. 6 & chap. 5
   01-31 correct chapters  (from 7 sucarita善行品 till the end)
   2022-01-30 change title (old:Udānavarga 梵文法句經、巴利《法句經》漢譯與《法集要頌經》(T213)偈頌對照表); finish chap. 2 ~ chap. 4
