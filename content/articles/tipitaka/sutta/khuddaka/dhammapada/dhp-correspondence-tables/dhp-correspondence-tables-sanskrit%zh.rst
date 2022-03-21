@@ -3,7 +3,7 @@
 ========================================================
 
 :date: 2021-08-31
-:modified: 2022-03-20
+:modified: 2022-03-21
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--依梵文《法句經》編序（Udānavarga 梵文法句經、巴利《法句經》漢譯、《出曜經》(T212)與《法集要頌經》(T213)偈頌對照表）
@@ -89,7 +89,7 @@ _`《法句經》偈頌對照表--依梵文《法句經》編序`
 
    * - `7 善行品 <{filename}dhp-correspondence-tables-sanskrit-chap07%zh.rst>`_ 
      - `8 言語品 <{filename}dhp-correspondence-tables-sanskrit-chap08%zh.rst>`_
-     - `9 業品 <{filename}dhp-correspondence-tables-sanskrit-chap09%zh.rst>`_ （建構中 (Under construction)!）
+     - `9 業品 <{filename}dhp-correspondence-tables-sanskrit-chap09%zh.rst>`_ 
      - `10 信品 <{filename}dhp-correspondence-tables-sanskrit-chap10%zh.rst>`_ （建構中 (Under construction)!）
      - `11 沙門品 <{filename}dhp-correspondence-tables-sanskrit-chap11%zh.rst>`_ （建構中 (Under construction)!）
      - `12 道品 <{filename}dhp-correspondence-tables-sanskrit-chap12%zh.rst>`_ （建構中 (Under construction)!）
@@ -195,6 +195,7 @@ _`《法句經》偈頌對照表--依梵文《法句經》編序`
 
 
 ..
+  03-21 finish chap. 9
   03-20 finish chap. 8, chap. 7
   03-16 finish chap. 6 & chap. 5
   01-31 correct chapters  (from 7 sucarita善行品 till the end)
