@@ -3,7 +3,7 @@
 ========================================================
 
 :date: 2021-08-31
-:modified: 2022-03-28
+:modified: 2022-03-31
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--依梵文《法句經》編序（Udānavarga 梵文法句經、巴利《法句經》漢譯、《出曜經》(T212)與《法集要頌經》(T213)偈頌對照表）
@@ -108,7 +108,7 @@ _`《法句經》偈頌對照表--依梵文《法句經》編序`
    * - `13 利養品 <{filename}dhp-correspondence-tables-sanskrit-chap13%zh.rst>`_ 
      - `14 忿怒品 <{filename}dhp-correspondence-tables-sanskrit-chap14%zh.rst>`_ 
      - `15 念品 <{filename}dhp-correspondence-tables-sanskrit-chap15%zh.rst>`_ 
-     - `16 雜品 <{filename}dhp-correspondence-tables-sanskrit-chap16%zh.rst>`_ （建構中 (Under construction)!）
+     - `16 雜品 <{filename}dhp-correspondence-tables-sanskrit-chap16%zh.rst>`_ 
      - `17 水品 <{filename}dhp-correspondence-tables-sanskrit-chap17%zh.rst>`_ （建構中 (Under construction)!）
      - `18 花品 <{filename}dhp-correspondence-tables-sanskrit-chap18%zh.rst>`_ （建構中 (Under construction)!）
 
@@ -195,7 +195,7 @@ _`《法句經》偈頌對照表--依梵文《法句經》編序`
 
 
 ..
-  03-28 finish chap. 15; 03-25, chap. 14; 03-24, chap. 13, 12; 03-23, chap. 11; 03-22, chap. 10; 03-21, chap. 9; 03-20, chap. 8, chap. 7; 03-16, chap. 6 & chap. 5
+  03-31 finish chap. 16; 03-28, chap. 15; 03-25, chap. 14; 03-24, chap. 13, 12; 03-23, chap. 11; 03-22, chap. 10; 03-21, chap. 9; 03-20, chap. 8, chap. 7; 03-16, chap. 6 & chap. 5
   01-31 correct chapters  (from 7 sucarita善行品 till the end)
   2022-01-30 change title (old:Udānavarga 梵文法句經、巴利《法句經》漢譯與《法集要頌經》(T213)偈頌對照表); finish chap. 2 ~ chap. 4
   2021-08-31 post; 08-28 create rst
