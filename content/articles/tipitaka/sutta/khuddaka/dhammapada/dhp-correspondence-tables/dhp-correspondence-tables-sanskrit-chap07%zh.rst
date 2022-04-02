@@ -3,7 +3,7 @@
 ==============================================================
 
 :date: 2021-08-30
-:modified: 2022-03-20
+:modified: 2022-04-02
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, 支謙, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su, Sanskrit, Udānavarga
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--梵文《法句經》7. Sucaritavarga 善行品
@@ -244,5 +244,5 @@
 
 
 ..
-  2022-03-17 ~ 20 finished (add note [7-10-a])
+  2022-03-17 ~ 20 finished (04-02 add note [7-10-a])
   2021-08-30 create rst [建構中 (Under construction)!]
