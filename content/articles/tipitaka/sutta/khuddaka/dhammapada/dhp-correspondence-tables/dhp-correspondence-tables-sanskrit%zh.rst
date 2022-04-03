@@ -3,7 +3,7 @@
 ========================================================
 
 :date: 2021-08-31
-:modified: 2022-04-02
+:modified: 2022-04-03
 :tags: 法句經, Dhammapada, 偈頌對照表, 蘇錦坤, 巴利法句經, T210, 梵文法句經, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》偈頌對照表--依梵文《法句經》編序（Udānavarga 梵文法句經、巴利《法句經》漢譯、《出曜經》(T212)與《法集要頌經》(T213)偈頌對照表）
@@ -110,8 +110,7 @@ _`《法句經》偈頌對照表--依梵文《法句經》編序`
      - `15 念品 <{filename}dhp-correspondence-tables-sanskrit-chap15%zh.rst>`_ 
      - `16 雜品 <{filename}dhp-correspondence-tables-sanskrit-chap16%zh.rst>`_ 
      - `17 水品 <{filename}dhp-correspondence-tables-sanskrit-chap17%zh.rst>`_ 
-     - `18 花品 <{filename}dhp-correspondence-tables-sanskrit-chap18%zh.rst>`_ （建構中 (Under construction)!）
-
+     - `18 花品 <{filename}dhp-correspondence-tables-sanskrit-chap18%zh.rst>`_ 
    * - 13. Satkāravarga, 18首偈頌
      - 14. Drohavarga, 16首偈頌
      - 15. Smṛtivarga, 26首偈頌
@@ -123,7 +122,7 @@ _`《法句經》偈頌對照表--依梵文《法句經》編序`
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `19 馬品 <{filename}dhp-correspondence-tables-sanskrit-chap19%zh.rst>`_ （建構中 (Under construction)!）
+   * - `19 馬品 <{filename}dhp-correspondence-tables-sanskrit-chap19%zh.rst>`_ 
      - `20 瞋恚品 <{filename}dhp-correspondence-tables-sanskrit-chap20%zh.rst>`_ （建構中 (Under construction)!）
      - `21 如來品 <{filename}dhp-correspondence-tables-sanskrit-chap21%zh.rst>`_ （建構中 (Under construction)!）
      - `22 聞品 <{filename}dhp-correspondence-tables-sanskrit-chap22%zh.rst>`_ （建構中 (Under construction)!）
@@ -195,7 +194,7 @@ _`《法句經》偈頌對照表--依梵文《法句經》編序`
 
 
 ..
-  04-01 finish chap. 18; 03-31, chap. 17, 16; 03-28, chap. 15; 03-25, chap. 14; 03-24, chap. 13, 12; 03-23, chap. 11; 03-22, chap. 10; 03-21, chap. 9; 03-20, chap. 8, chap. 7; 03-16, chap. 6 & chap. 5
+  04-03 finish chap. 19; 04-02, chap. 18; 03-31, chap. 17, 16; 03-28, chap. 15; 03-25, chap. 14; 03-24, chap. 13, 12; 03-23, chap. 11; 03-22, chap. 10; 03-21, chap. 9; 03-20, chap. 8, chap. 7; 03-16, chap. 6 & chap. 5
   01-31 correct chapters  (from 7 sucarita善行品 till the end)
   2022-01-30 change title (old:Udānavarga 梵文法句經、巴利《法句經》漢譯與《法集要頌經》(T213)偈頌對照表); finish chap. 2 ~ chap. 4
   2021-08-31 post; 08-28 create rst
