@@ -124,7 +124,7 @@ _`《法句經》偈頌對照表--依梵文《法句經》編序`
 
    * - `19 馬品 <{filename}dhp-correspondence-tables-sanskrit-chap19%zh.rst>`_ 
      - `20 瞋恚品 <{filename}dhp-correspondence-tables-sanskrit-chap20%zh.rst>`_
-     - `21 如來品 <{filename}dhp-correspondence-tables-sanskrit-chap21%zh.rst>`_ （建構中 (Under construction)!）
+     - `21 如來品 <{filename}dhp-correspondence-tables-sanskrit-chap21%zh.rst>`_ 
      - `22 聞品 <{filename}dhp-correspondence-tables-sanskrit-chap22%zh.rst>`_ （建構中 (Under construction)!）
      - `23 我品 <{filename}dhp-correspondence-tables-sanskrit-chap23%zh.rst>`_ （建構中 (Under construction)!）
      - `24 教說品 <{filename}dhp-correspondence-tables-sanskrit-chap24%zh.rst>`_ （建構中 (Under construction)!）
@@ -194,7 +194,7 @@ _`《法句經》偈頌對照表--依梵文《法句經》編序`
 
 
 ..
-  04-04 finish chap. 20; 04-03, chap. 19; 04-02, chap. 18; 03-31, chap. 17, 16; 03-28, chap. 15; 03-25, chap. 14; 03-24, chap. 13, 12; 03-23, chap. 11; 03-22, chap. 10; 03-21, chap. 9; 03-20, chap. 8, chap. 7; 03-16, chap. 6 & chap. 5
+  04-04 finish chap. 21, 20; 04-03, chap. 19; 04-02, chap. 18; 03-31, chap. 17, 16; 03-28, chap. 15; 03-25, chap. 14; 03-24, chap. 13, 12; 03-23, chap. 11; 03-22, chap. 10; 03-21, chap. 9; 03-20, chap. 8, chap. 7; 03-16, chap. 6 & chap. 5
   01-31 correct chapters  (from 7 sucarita善行品 till the end)
   2022-01-30 change title (old:Udānavarga 梵文法句經、巴利《法句經》漢譯與《法集要頌經》(T213)偈頌對照表); finish chap. 2 ~ chap. 4
   2021-08-31 post; 08-28 create rst
