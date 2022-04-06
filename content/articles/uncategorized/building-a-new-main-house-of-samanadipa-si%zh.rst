@@ -3,7 +3,7 @@
 =======================================
 
 :date: 2022-04-06
-:modified: 2022-04-06
+:modified: 2022-04-07
 :tags: 護持, 布施
 :category: 未分類
 :summary: 建造一個新的「沙門森林精舍」的主建築
@@ -47,7 +47,7 @@
   The cotta<strong><img alt="" src="http://slo-theravada.org/images/build3.jpg" style="width: 250px; height: 188px; float: right; margin-left: 10px; margin-right: 10px;" /></strong>ge was purchased in 2016 to provide a secluded contemplative place for a few monks, where lay Buddhists and interested people could learn and practice the Buddha&#39;s teachings. The monks have been alms mendicants dependent on laypeople for food, clothing, accommodation, and medicine. This makes for a very open form of religious life. People come to the Hermitage to receive the guide in mental development and provide the day&#39;s main meal. The Hermitage is always open to visitors. There is no charge for any of the teachings, literature, or facilities that the community offers.</p>
   <p>
 
-這座小屋是在2016年購買的，目的是為幾位僧人提供一個隱蔽的禪修道場，讓在家佛教徒和感興趣的人可以學習和實踐佛法。僧侶們一直是依靠在家眾的衣、食、住和醫藥的布施護持著。這使得宗教生活的形式非常開放。人們來到此道場，供養一天的主要膳食，並接受精神發展的指導。道場總是向訪客開放。該僧團提供的任何教義、文獻或設施都不收費。
+這座小屋是在2016年購買的，目的是為幾位僧人提供一個隱蔽的禪修道場，讓在家佛教徒和感興趣的人可以學習和實踐佛法。僧侶們一直是依靠在家眾的衣、食、住和醫藥的布施護持著。這使得宗教生活的形式非常開放。人們來到此道場，供養一天的主要膳食，並接受精神發展的指導。道場總是向訪客開放。該僧團提供的任何教導、文獻或設施都不收費。
 
 .. raw:: html
 
@@ -109,7 +109,7 @@ Please see below for options on how to support this project. Additional instruct
 
 The Trustees
 
-請看下面關於如何支持這個項目的布施選項。若想了解更多細節，請寄電子郵件至沙門精舍之電子郵件信箱，我們將竭誠回覆您的問題。
+請看下面關於如何支持這個項目的布施選項。若想了解更多細節，請寄電子郵件至沙門精舍之電子郵件信箱(samanadipa@gmail.com)，我們將竭誠回覆您的問題。
 
 護持基金會  敬啟
 
@@ -164,6 +164,7 @@ The Trustees
 
 
 .. 
+  04-07 rev. teachings, old:教義; add: email box
   created on 2022-04-06; rev. 上座部禪修協會 old:成為上座部佛教協會
   
   .. container:: image
