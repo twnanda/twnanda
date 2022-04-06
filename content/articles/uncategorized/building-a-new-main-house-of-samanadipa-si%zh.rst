@@ -32,7 +32,7 @@
   <strong>Samanadipa Forest Buddhist Hermitage is unveiling a plan to build a new Main House next to the old cottage built in 1933. The land with the house was purchased in 2016. It was in the stewardship of Dru&scaron;tvo theravadskih budistov Bhavana (Bhavana Theravada Buddhist Society) till this year when it was transferred to Gozdni budistični samostan Samanadipa (Samanadipa Forest Buddhist Hermitage).</strong></p>
   <p>
 
-**（斯洛維尼亞） 「沙門森林精舍」公佈了一項計劃，在1933年建造的老別墅旁邊建造一個新的主建築。此一有房子的土地是在2016年購買的。它一直由「成為上座部佛教協會」(Bhavana Theravada Buddhist Society)管理，直到今年才移交給「沙門森林精舍」(Samanadipa Forest Buddhist Hermitage)。**
+**（斯洛維尼亞） 「沙門森林精舍」公佈了一項計劃，在1933年建造的老別墅旁邊建造一個新的主建築。此一有房子的土地是在2016年購買的。它一直由「上座部禪修協會」(Bhavana Theravada Buddhist Society)管理，直到今年才移交給「沙門森林精舍」(Samanadipa Forest Buddhist Hermitage)。**
 
 .. raw:: html
   
@@ -164,7 +164,7 @@ The Trustees
 
 
 .. 
-  created on 2022-04-06
+  created on 2022-04-06; rev. 上座部禪修協會 old:成為上座部佛教協會
   
   .. container:: image
 
