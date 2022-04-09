@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2022-02-28
+:modified: 2022-04-09
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -996,21 +996,24 @@ A Noble Search (Dhamma Talks by Sayadaw U Candima
 
 - `Pain and Samādhi <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-pain-and-samadhi%zh.rst>`_
 
-- `Dealing with Pain in Samādhi Practice <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-dealing-with-pain-in-samadhi-practice%zh.rst>`_ (Under Construction!)
+- `Dealing with Pain in Samādhi Practice <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-dealing-with-pain-in-samadhi-practice%zh.rst>`_ 
 
-- `On Ānāpāna Samādhi <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-on-anapana-samadhi%zh.rst>`_ (Under Construction!)
+- `On Ānāpāna Samādhi <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-on-anapana-samadhi%zh.rst>`_ 
 
-- `A Scales Like Samādhi <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-a-scales-like-samadhi%zh.rst>`_ (Under Construction!)
+- `A Scales Like Samādhi <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-a-scales-like-samadhi%zh.rst>`_ 
 
-- `Diamond Meditation <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-diamond-meditation%zh.rst>`_ (Under Construction!)
+- `Diamond Meditation <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-diamond-meditation%zh.rst>`_ 
 
-- `Appendix <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Under Construction!)
+- `Bhavaṅga Meditation <{filename}candima-bhavanga-meditation%zh.rst>`_ (Under Construction!)
+
+- `Appendix <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima 
 
 ------
 
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-09 add: Dealing with Pain in Samādhi Practice, On Ānāpāna Samādhi, A Scales Like Samādhi, Diamond Meditation and Appendix; "Bhavaṅga Meditation" suspended
   02-28 rev. covers (picture) of Mogok Sayadaw's Dhamma talks
   02-14 rev. filename:candima-pain-and-samadhi%zh.rst (old:candima-pain-and-samādhi%zh.rst)
   2022-02-13 add: Two Sides of A Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha) & A Noble Search (Dhamma Talks by Sayadaw U Candima
