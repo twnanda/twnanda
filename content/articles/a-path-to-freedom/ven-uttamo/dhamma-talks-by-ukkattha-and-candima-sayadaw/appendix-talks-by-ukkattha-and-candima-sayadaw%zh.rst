@@ -252,6 +252,7 @@ In the Bhaddekaratta Sutta (Majjhima Nikāya, Sutta No. 131) the Buddha taught a
 ------
 
 This is what every Buddhists should follow.
+
 Sabbe satta sukhi hontu!
 
 ------
