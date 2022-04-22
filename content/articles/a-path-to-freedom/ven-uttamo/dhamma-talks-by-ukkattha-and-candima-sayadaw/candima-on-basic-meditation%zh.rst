@@ -1,10 +1,10 @@
-==========================================================
-On Basic Meditation (Dhamma Talks by Sayadaw U Candima)
-==========================================================
+====================================================================
+On Basic Meditation [Dhamma Talks by Sayadaw U Candima (Sandima)]
+====================================================================
 
 :date: 2022-02-13
-:modified: 2022-02-13
-:tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search
+:modified: 2022-04-22
+:tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: On Basic Meditation (Dhamma Talks by Sayadaw U Candima)
 
@@ -74,7 +74,7 @@ If you are correcting, and lifting the body during the designated determination 
 
 ------
 
-revised on 2022-02-13
+revised on 2022-04-22
 
 ------
 
@@ -89,4 +89,5 @@ revised on 2022-02-13
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   2022-02-13 create rst

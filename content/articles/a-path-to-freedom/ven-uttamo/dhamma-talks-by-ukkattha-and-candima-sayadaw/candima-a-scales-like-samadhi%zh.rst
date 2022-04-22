@@ -1,10 +1,10 @@
-============================================================
-A Scales Like Samādhi (Dhamma Talks by Sayadaw U Candima)
-============================================================
+=====================================================================
+A Scales Like Samādhi [Dhamma Talks by Sayadaw U Candima (Sandima)
+=====================================================================
 
 :date: 2022-02-13
-:modified: 2022-04-09
-:tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search
+:modified: 2022-04-22
+:tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Scales Like Samādhi (Dhamma Talks by Sayadaw U Candima)
 
@@ -176,6 +176,10 @@ For the practice—with sukha vedanā (at the tip of the nostril) do the breathi
 
 ------
 
+revised on 2022-04-22
+
+------
+
 - `Content <{filename}content-of-dhamma-talks-by-candima-sayadaw%zh.rst>`__ of "A Noble Search" (Dhamma Talks by Sayadaw U Candima)
 
 - `Content <{filename}content-of-dhamma-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`__ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
@@ -187,5 +191,6 @@ For the practice—with sukha vedanā (at the tip of the nostril) do the breathi
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   04-09 post 1st proofread by bhante
   2022-02-13 create rst

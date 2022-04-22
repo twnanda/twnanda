@@ -1,10 +1,10 @@
-==========================================================
-Pain and Samādhi (Dhamma Talks by Sayadaw U Candima)
-==========================================================
+=================================================================
+Pain and Samādhi [Dhamma Talks by Sayadaw U Candima (Sandima)]
+=================================================================
 
 :date: 2022-02-13
-:modified: 2022-02-13
-:tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search
+:modified: 2022-04-22
+:tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Pain and Samādhi (Dhamma Talks by Sayadaw U Candima)
 
@@ -136,7 +136,7 @@ Here again we can see the wisdom of the Buddha, and he arranged the path factors
 
 ------
 
-revised on 2022-02-13
+revised on 2022-04-22
 
 ------
 
@@ -151,6 +151,7 @@ revised on 2022-02-13
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   2022-02-13 create rst
 
   Here again we can see the wisdom of the Buddha, and he arranged the path factors in a very systematic way. Without the right view and thinking or thought, we cannot have the right sīla and samādhi. (?? We cannot have correct sīla and samādhi without correct views and thinking or thoughts.  ?) Therefore, before the actual practice learning or listening or study Dhamma is very significant. (?? Therefore, it is very significant to learn or listen to or study Dhamma before actually practicing it. ??) Mogok Sayadaw's Dhamma talks are for this purpose. In this arrangement, we also see the importance of samādhi. Only we can develop the right samādhi and can develop insight.

@@ -1,14 +1,14 @@
-=====================================================
-A Noble Search (Dhamma Talks by Sayadaw U Candima)
-=====================================================
+===============================================================
+A Noble Search [Dhamma Talks by Sayadaw U Candima (Sandima)]
+===============================================================
 
 :date: 2022-02-13
-:modified: 2022-02-13
-:tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search
+:modified: 2022-04-22
+:tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Noble Search (Dhamma Talks by Sayadaw U Candima)
 
-Sayadaw U Candima (1951-)
+Sayadaw U Candima (Sandima, 1951- )
 
 I entered the Buddhist order near the end of 1975. I did the practice for over a year, and attained the path of stream entry. Only after 20 years the head monk of Suddhamma Sect Sayadaw, and Thom-pho Sayadaw were questioned on my practice. This happened at Nyaung-don Pariyatti Vihāra during the monk ordination ceremony. 
 
@@ -533,7 +533,7 @@ There is a saying in Zen (Chan) tradition—before the practice river is river, 
 
 ------
 
-revised on 2022-02-13
+revised on 2022-04-22
 
 ------
 
@@ -548,4 +548,5 @@ revised on 2022-02-13
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   2022-02-13 create rst

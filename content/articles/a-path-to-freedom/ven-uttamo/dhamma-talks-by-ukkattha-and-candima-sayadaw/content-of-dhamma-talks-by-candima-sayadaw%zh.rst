@@ -1,10 +1,10 @@
-==================================================================
-Content of "A Noble Search" (Dhamma Talks by Sayadaw U Candima)
-==================================================================
+============================================================================
+Content of "A Noble Search" [Dhamma Talks by Sayadaw U Candima (Sandima)]
+============================================================================
 
 :date: 2022-02-13
-:modified: 2022-04-09
-:tags: publication, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search
+:modified: 2022-04-22
+:tags: publication, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Content of A Noble Search (Dhamma Talks by Sayadaw U Candima)
 
@@ -32,7 +32,7 @@ Translation based on the recorded tapes (Burmese) by Bhikkhu Uttamo
 
 ------
 
-revised on 2022-04-09
+revised on 2022-04-22
 
 ------
 
@@ -43,5 +43,6 @@ revised on 2022-04-09
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   04-09 add: Dealing with Pain in Samādhi Practice, On Ānāpāna Samādhi, A Scales Like Samādhi, Diamond Meditation and Appendix; "Bhavaṅga Meditation" suspended
   2022-02-13 create rst

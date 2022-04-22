@@ -1,16 +1,16 @@
-======================================================================
-Content of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
-======================================================================
+================================================================================
+Content of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
+================================================================================
 
 :date: 2022-02-13
-:modified: 2022-04-09
-:tags: publication, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Sayadaw U Candima, Two Sides of a Coin, A Noble Search
+:modified: 2022-04-22
+:tags: publication, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Sayadaw U Candima, Two Sides of a Coin, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
-:summary: Content of Dhamma Talks by Sayadaw U Ukkaṭṭha (Two Sides of a Coin) and Sayadaw U Candima (A Noble Search)
+:summary: Content of Dhamma Talks by Sayadaw U Ukkaṭṭha (Two Sides of a Coin) and Sayadaw U Candima (Sandima) (A Noble Search)
 
 `Two Sides of A Coin__Dhamma Talks by Sayadaw U Ukkaṭṭha`_
 
-`A Noble Search__Dhamma Talks by Sayadaw U Candima`_
+`A Noble Search__Dhamma Talks by Sayadaw U Candima (Sandima)`_
 
 Translation based on the recorded tapes (Burmese) by Bhikkhu Uttamo
 
@@ -35,10 +35,10 @@ Two Sides of A Coin__Dhamma Talks by Sayadaw U Ukkaṭṭha
 
 ------
 
-A Noble Search__Dhamma Talks by Sayadaw U Candima
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A Noble Search__Dhamma Talks by Sayadaw U Candima (Sandima)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- `Introduction <{filename}introduction-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
+- `Introduction <{filename}introduction-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
 
 - `A Noble Search <{filename}candima-a-noble-search%zh.rst>`_
 
@@ -56,11 +56,11 @@ A Noble Search__Dhamma Talks by Sayadaw U Candima
 
 - `Bhavaṅga Meditation <{filename}candima-bhavanga-meditation%zh.rst>`_ (Under Construction!)
 
-- `Appendix <{filename}appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima 
+- `Appendix <{filename}appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
 
 ------
 
-revised on 2022-04-09
+revised on 2022-04-22
 
 ------
 
@@ -71,5 +71,6 @@ revised on 2022-04-09
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   04-09 add: Dealing with Pain in Samādhi Practice, On Ānāpāna Samādhi, A Scales Like Samādhi, Diamond Meditation and Appendix; "Bhavaṅga Meditation" suspended
   2022-02-13 create rst
