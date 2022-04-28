@@ -1006,7 +1006,7 @@ A Noble Search (Dhamma Talks by Sayadaw U Candima
 
 - `Diamond Meditation <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-diamond-meditation%zh.rst>`_ 
 
-- `Bhavaṅga Meditation <{filename}candima-bhavanga-meditation%zh.rst>`_
+- `Bhavaṅga Meditation <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-bhavanga-meditation%zh.rst>`_
 
 - `A Postscript of <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/postscript-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`__ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
 
