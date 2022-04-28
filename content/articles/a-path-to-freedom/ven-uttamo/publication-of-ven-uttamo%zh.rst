@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2022-04-09
+:modified: 2022-04-28
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -979,7 +979,9 @@ Two Sides of A Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha)
 
 - `Short Biography and Instruction on Practice <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/ukkattha-short-biography-and-instruction-on-practice%zh.rst>`_
 
-- `Appendix <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Under Construction!)
+- `A Postscript <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/postscript-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
+
+- `Appendix <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
 
 ------
 
@@ -1004,15 +1006,32 @@ A Noble Search (Dhamma Talks by Sayadaw U Candima
 
 - `Diamond Meditation <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-diamond-meditation%zh.rst>`_ 
 
-- `Bhavaṅga Meditation <{filename}candima-bhavanga-meditation%zh.rst>`_ (Under Construction!)
+- `Bhavaṅga Meditation <{filename}candima-bhavanga-meditation%zh.rst>`_
+
+- `A Postscript of <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/postscript-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`__ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
 
 - `Appendix <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima 
+
+------
+
+These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bound in one volume:
+
+- Full Text (PDF, under construction); 
+
+- Full Text (PDF, background in green, under construction)
+
+- For Print:
+
+  * Size: B5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/96942f6991e05e57e464927aabc0325e8c92fbeb/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (14 pt, 108 pages, 2022-04-28) 
+
+- `Cover <https://github.com/twnanda/doc-pdf-etc/blob/a84db3969f5fb0213675e1de8ee1a6c1bf3b1ef0/image/thae-inn-gu-ukkattha-and-candima.png>`__ of Bound volume of "Two Sides of A Coin" and "A Noble Search" (2022-04-27)
 
 ------
 
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-28 add & rev.: Bound volume of "Two Sides of A Coin" and "A Noble Search", etc.
   04-09 add: Dealing with Pain in Samādhi Practice, On Ānāpāna Samādhi, A Scales Like Samādhi, Diamond Meditation and Appendix; "Bhavaṅga Meditation" suspended
   02-28 rev. covers (picture) of Mogok Sayadaw's Dhamma talks
   02-14 rev. filename:candima-pain-and-samadhi%zh.rst (old:candima-pain-and-samādhi%zh.rst)
