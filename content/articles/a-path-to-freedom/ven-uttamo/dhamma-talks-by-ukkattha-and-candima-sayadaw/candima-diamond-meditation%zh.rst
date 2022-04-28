@@ -3,7 +3,7 @@ Diamond Meditation [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ===================================================================
 
 :date: 2022-02-13
-:modified: 2022-04-09
+:modified: 2022-04-27
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Diamond Meditation (Dhamma Talks by Sayadaw U Candima)
@@ -25,9 +25,10 @@ Don’t follow behind the air at the tip of the nostril, this is not included in
 You must contemplate with an equanimous mind and not react to anything. Only have the task of contemplation. Let the body is there as you originally has left behind (not making any adjustment or correction or any movement and leaving it as before in the beginning) You must let it go on its own (not concern anything) you only have the task of leading by sati and paññā, but must not lose sati. Must have patience with patience and endurance. With patience and endurance will arrive at Nibbāna. This was what was mentioned by the Buddha. Don't expect it to be done quickly, and it  becomes restless. Don’t let the mind associate with the body. The body without a mind is like a lifeless thing, and just leave it like that. To be patient with knowledge (nyan—ñāṇa). You have to let go of that much. Don’t give life faculty to the lifeless form (rūpa). Be mindful! Don’t be agreeable with it (i.e., follow the mind or the body). Let it go with your heart. Don’t be lacking in sati. Not to be finished quickly in a rush. 
 In this way, taṇhā will be cut off and defeated. (meditation is battling with taṇhā, but not in action as non-action.) Bhavaṅga will become vibrated. Taṇhā will pull out the kilesa baggage which has been kept. (Enormous baggage for the whole saṁsāra journey without discerning of its beginning.) Let the bhavaṅga mind in a lifeless state. Bhavaṅga vibrates and falls in and fruition of mind will come in. (Now, near the end of the sitting) During these seconds and minutes let go of everything. Let it die and whatever let it be, let the mind rest. Bhavaṅga with a blip become cool and fruition of mind comes in. Bhavaṅga is like a button (of machine). The bhavaṅga mind wants to grasp it. (Sayadaw asked the yogis to make the preparation for coming out from the two hours meditation period). 
 
-You adjust your indriya as originally (ending the meditation with equanimity). Here Mahāpallaṅka method is an analogy for the bodhisatta sitting on the seat under the Bodhi-tree—mahāpallaṅkaga to extinguish kilesa fire.
+You adjust your indriya as originally (ending the meditation with equanimity). Here Mahāpallaṅka method is an analogy for the bodhisatta sitting on the seat under the Bodhi-tree—mahāpallaṅka to extinguish kilesa fire.
 
 Some Reflections
+~~~~~~~~~~~~~~~~~
 
 With the knowledge of abhidhamma teaching the mind process in meditation is more clear. In Sayadaw’s talks on practice, it is very rare to talk about impermanence only the mind states and their changing process. (It was the same in Thae Inn Gu Sayadaw’s talks). It does not mean that the three universal characteristics are not important. It was mentioned by the Buddha very often in practice. In Mogok Sayadaw’s talks also we find a lot of them. Its importance is we can see very clear if we put it into the 12 links of paṭiccasamuppāda (see many talks by Mogok Sayadawji).
 
@@ -43,7 +44,7 @@ These three unwholesome roots of greed, hatred and delusion relate to these two 
 
 ------
 
-revised on 2022-04-22
+revised on 2022-04-27
 
 ------
 
@@ -58,6 +59,7 @@ revised on 2022-04-22
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-28 post, 04-27 rev: 2nd proofread by bhante
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   04-09 post 1st proofread by bhante
   2022-02-13 create rst

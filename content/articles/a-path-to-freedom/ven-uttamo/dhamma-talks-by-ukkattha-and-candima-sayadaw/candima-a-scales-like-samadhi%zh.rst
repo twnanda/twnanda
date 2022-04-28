@@ -3,7 +3,7 @@ A Scales Like Samādhi [Dhamma Talks by Sayadaw U Candima (Sandima)
 =====================================================================
 
 :date: 2022-02-13
-:modified: 2022-04-22
+:modified: 2022-04-28
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Scales Like Samādhi (Dhamma Talks by Sayadaw U Candima)
@@ -14,7 +14,7 @@ In this talk on scales like samādhi, U Candima called this method the vipassan�
 
 Here, developing samādhi like a scales is—first watching the breath at the tip of the nostril. After sometime dukkha vedanā will arise somewhere. But the mind does not follow the vedanā, but neither returns to the breath at the nostrils. Instead, levelling out these two vedanās one at the tip of the nose and dukkha vedanā appears down there, until the mind becomes upekkhā. The mind staying with vedanā becomes dukkha, domanassa which is one extreme. Wanting to overcome dukkha vedanā and send the mind to the nose with taṇhā becomes abhijjhā which is another extreme. 
 
-Therefore, if the yogi can contemplate these two objects or keep them equally until he becomes upekkhā which is the middle way or become the path—maggan. With this upekkhā maggan to develop insight—vipassanā, you can’t contemplate paramatā dhamma with kilesa mind if with kilesa it only becomes concepts. ]
+Therefore, if the yogi can contemplate these two objects or keep them equally until it becomes upekkhā which is the middle way or become the path—maggan. With this upekkhā maggan to develop insight—vipassanā, you can’t contemplate paramatā dhamma with kilesa mind if with kilesa it only becomes concepts. ]
 
 Today we’ll develop the scales like samādhi or middle way samādhi. (Here I didn’t translate the Burmese words—boun-chain kammaṭṭhāna directly) Before we did the ānāpānasati in an ordinary way (i.e., observing the breath only for three days, first one hour sitting and later two hrs sitting) and how to develop it. There is a way to develop insight, and I’ll talk about it today.
 
@@ -82,17 +82,17 @@ Is there any place for the mind to stay at? Yes, it exists for the mind to stay 
 
 What we are practicing until now when the air touches at the tip of the nostril, the mind moves here and there that it’s not purified yet. We have to continue to take off the dust, still we have to do it and can’t talk about paramatā mind and form. The place where the air and the tip of the nose touch is pleasant. The affliction of the four elements is dukkha. The mind combined with dukkha vedanā becomes distress (domanassa), when combined with sukha vedanā becomes joy (somanassa). Both mind states are lobha and dosa and can’t contemplate the paramatā dhamma. As a first step from dukkha vedanā it becomes sukha vedanā that is a success. Upekkhā vedanā means that the mind is inclined neither to dukkha nor to sukha; rather, it stays in the present moment. This is called the equanimous mind (upekkhā mind). If you practice with this way, this is a process leading to the arahatta magga and phala (path and fruit of arahantship). You can go straight with this one. The answer is the same. (There are many ways, if the practices are right and all have the same result.)
 
-If you encounter dukkha vedanā and domanassa arises or if your mind sticks at the tip of the nostril and sukha arises. Sticking with lobha is taṇhā which hinders path and fruit. It will not become citta-visuddhi. In addition to lobha and dosa, there is moha. Today’s method is to be free from three of them at the same time. The first method is free from dukkha vedanā and at the top of the nostril, the first jhāna of joy, pleasure and one-pointedness of mind (pīti, sukha and ekaggatā) arise and each jhānic factors (connecting, sustaining, joy and pleasure) are falling away one by one with the practice (i.e., ānāpāna-sati method). 
+If you encounter dukkha vedanā and domanassa arises or if your mind sticks at the tip of the nostril and sukha arises. Sticking with lobha is taṇhā which hinders path and fruit. It will not become citta-visuddhi. In addition to lobha and dosa, there is moha. Today’s method is to be free from three of them at the same time. The first method is free from dukkha vedanā and at the tip of the nostril, the first jhāna of joy, pleasure and one-pointedness of mind (pīti, sukha and ekaggatā) arise and each jhānic factors (connecting, sustaining, joy and pleasure) are falling away one by one with the practice (i.e., ānāpāna-sati method). 
 
 At last, free from lobha, dosa and moha and become sati and ekaggatā. Practicing Dhamma is not doing other things. This one is the goal.
 
 The mind is free from dukkha and sukha and the mind is with upekkhā and sati—this becomes citta-visuddhi. In insight practice, not doing this one and doing other things is not right. I am worried about you will go wrong. Therefore, I’m talking firmly on this point. With the affliction of the four elements, it  becomes dukkha vedanā and staying at the tip of the nostril, it becomes sukha vedanā. Two extremes appear. Getting rid of these two extremes is upekkhā vedanā. At the place, if sati stays there at the same time, it can be freed from lobha and dosa. For this, I’ll give you the practice. 
 
-(This place not at the nose or where pains arise at the bhavaṅga where the mind stays by itself with upekkhā. Sayadaw did not mention specifically the place only at the place.) 
+(This place is not at the nose or where pains arise but at the bhavaṅga where the mind stays by itself with upekkhā. Sayadaw did not mention specifically the place only at the place.) 
 
 This is the way of practicing together (i.e., samatha and vipassanā together—yuganaddha way). 
 
-We take the same kammaṭṭhāna of the air and the top of the nostril as before, with the affliction of the four elements. When the four elements are afflicted, the mind inclines toward the place of its affliction. Then the mind feels dukkha vedanā with distress (domanassa). But if the mind sticks at the contact of air and nostril, it is sticking with lobha. If you let go of the mind from the tip of the nostril and it is inclining on dukkha. So it can’t be let go. I don’t give the kammaṭṭhāna on my own invention. This is called the yuganaddha method—samādhi and paññā yoked together (in some of Mogok Sayadawji’s talks, he called it yuganandha—yoked two oxen together). This is the practice of samatha and vipassanā mixed together at the same time. Before vedanā arises, you breathe ānāpāna regularly or observing at the top of the head or rising and falling of abdomen, etc., are also in the same way.
+We take the same kammaṭṭhāna of the air and the tip of the nostril as before, with the affliction of the four elements. When the four elements are afflicted, the mind inclines toward the place of its affliction. Then the mind feels dukkha vedanā with distress (domanassa). But if the mind sticks at the contact of air and nostril, it is sticking with lobha. If you let go of the mind from the tip of the nostril and it is inclining on dukkha. So it can’t be let go. I don’t give the kammaṭṭhāna on my own invention. This is called the yuganaddha method—samādhi and paññā yoked together (in some of Mogok Sayadawji’s talks, he called it yuganandha—yoked two oxen together). This is the practice of samatha and vipassanā mixed together at the same time. Before vedanā arises, you breathe ānāpāna regularly or observing at the tip of the head or rising and falling of abdomen, etc., are also in the same way.
 
 Here you only can use form (rūpa) kammaṭṭhāna and can’t use mind object (nāma kammaṭṭhāna). When a time comes, vedanā arises and the mind inclines toward it. At that time there were dukkha vedanā from the four elements and sukha vedanā at the tip of the nostrils. In this way at that time become two vedanās and we establish upekkhā vedanā by purifying the mind. If the mind sticks at the tip of the nostril, it becomes lobha. So, don’t stick it there. If you drop it and domanassa arises. If you let go off domanassa and it moves to somanassa. So we can't let them both go, we have to adjust them both. Can we adjust both sides at the same time through sati? Yes, we can, e.g., a car driver, his eyes are looking in front of him and at the same time the hands are working, we’re eating and at the same time talking to each other. 
 
@@ -126,7 +126,7 @@ It will not give the result as we expect. If we practice blindly without knowing
 
 I am not teaching you with this method to realize Dhamma. I am not giving you instruction with this system. Furthermore, I want you to understand the nature of insight and show you the way of entering into jhāna. In the future, if you want to continue with this system, you have the main point of it. (i.e., how to do it, here is just for a basic). Now, you know the nature of the practice. If you cling to happiness (sukha vedanā), it is greed (lobha); and to suffering (dukkha vedanā), it is anger (dosa). If you stick with neither sukha nor dukkha objects, it becomes moha. 
 
-To be freed from moha we have to practice freeing from sukha and dukkha which is upekkhā. You can’t make upekkhā directly. You can’t make upekkhā by itself. Some people were doing this kind of upekkhā. With ordinary upekkhā when vedanā arises one only could sit for 15 minutes or asked to sit for 15 minutes. Whoever comes for practice as a sukkha vipassanā they directly produce upekkhā with perception (saññā).  [?? Regardless of who is practicing as a sukkha vipassanā, they will directly produce the perception (saññā) of upekkhā. ??] They can’t ask people to sit longer. 
+To be freed from moha we have to practice freeing from sukha and dukkha which is upekkhā. You can’t make upekkhā directly. You can’t make upekkhā by itself. Some people were doing this kind of upekkhā. With ordinary upekkhā when vedanā arises one only could sit for 15 minutes or asked to sit for 15 minutes. Regardless of who is practicing as a sukkha vipassanā, they will directly produce the perception (saññā) of upekkhā. They can’t ask people to sit longer. 
 
 (This referred to a dhammānupassanā system in Burma by a lay teacher, here U Candima’s words is short and not clear about the points. So I re-correct it for more clearer.)
 
@@ -176,7 +176,7 @@ For the practice—with sukha vedanā (at the tip of the nostril) do the breathi
 
 ------
 
-revised on 2022-04-22
+revised on 2022-04-28
 
 ------
 
@@ -191,6 +191,7 @@ revised on 2022-04-22
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-28 post; 04-27 rev: 2nd proofread by bhante
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   04-09 post 1st proofread by bhante
   2022-02-13 create rst

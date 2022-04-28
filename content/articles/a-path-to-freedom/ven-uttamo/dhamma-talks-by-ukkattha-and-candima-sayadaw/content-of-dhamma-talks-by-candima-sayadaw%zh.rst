@@ -3,7 +3,7 @@ Content of "A Noble Search" [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ============================================================================
 
 :date: 2022-02-13
-:modified: 2022-04-22
+:modified: 2022-04-28
 :tags: publication, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Content of A Noble Search (Dhamma Talks by Sayadaw U Candima)
@@ -26,13 +26,15 @@ Translation based on the recorded tapes (Burmese) by Bhikkhu Uttamo
 
 - `Diamond Meditation <{filename}candima-diamond-meditation%zh.rst>`_ 
 
-- `Bhavaṅga Meditation <{filename}candima-bhavanga-meditation%zh.rst>`_ (Under Construction!)
+- `Bhavaṅga Meditation <{filename}candima-bhavanga-meditation%zh.rst>`_ 
+
+- `Postscript <{filename}postscript-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
 
 - `Appendix <{filename}appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
 
 ------
 
-revised on 2022-04-22
+revised on 2022-04-28
 
 ------
 
@@ -43,6 +45,7 @@ revised on 2022-04-22
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-28 rev. Bhavaṅga Meditation, Appendix, full text print, etc.
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   04-09 add: Dealing with Pain in Samādhi Practice, On Ānāpāna Samādhi, A Scales Like Samādhi, Diamond Meditation and Appendix; "Bhavaṅga Meditation" suspended
   2022-02-13 create rst

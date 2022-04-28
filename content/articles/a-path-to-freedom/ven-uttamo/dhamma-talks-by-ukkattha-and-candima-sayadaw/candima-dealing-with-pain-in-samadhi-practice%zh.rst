@@ -3,14 +3,14 @@ Dealing with Pain in Samādhi Practice [Dhamma Talks by Sayadaw U Candima (Sandi
 ======================================================================================
 
 :date: 2022-02-13
-:modified: 2022-04-22
+:modified: 2022-04-28
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Dealing with Pain in Samādhi Practice (Dhamma Talks by Sayadaw U Candima)
 
  [This is a second talk in samādhi practice and connection with the above talk.] 
 
-After sitting in samādhi twice, everyone's experience is different; but the rising of dukkha vedanā is the same. However, the sitting posture may be dukkha vedanā of pains, and aches are the same thing. Here there are two kinds of yogi—someone has the strong five strengths of saddha, sati, viriya, samādhi and pañña, and someone has weak strengths. Even though feelings of dukkha vedanā are the same, someone who has enough strength can send the mind on the meditation object. My instruction is to free you from dukkha. Dukkha is not the teacher who gives you, but already it’s with you (i.e., vedanākkhandha). Therefore, however, the practice may be that yogis can’t be free themselves from dukkha. 
+After sitting in samādhi twice, everyone's experience is different; but the rising of dukkha vedanā is the same. However, the sitting posture may be dukkha vedanā of pains, and aches are the same thing. Here there are two kinds of yogi—someone has the strong five strengths of saddhā, sati, viriya, samādhi and pañña, and someone has weak strengths. Even though feelings of dukkha vedanā are the same, someone who has enough strength can send the mind on the meditation object. My instruction is to free you from dukkha. Dukkha is not the teacher who gives you, but already it’s with you (i.e., vedanākkhandha). Therefore, however, the practice may be that yogis can’t be free themselves from dukkha. 
 
 Wherever you keep your mind at the nostril or rising and falling of the abdomen when the khandha is changed (afflicted) dukkha vedanā arise is the same. Mindful of the mind at the object is connecting or applied thought (vitakka)—this is one of the jhānic factors, and keeping the mind on dukkha vedanā is kāma-vitakka and byāpāda vitakka (i.e., sensual thought of not wanting dukkha vedanā and aversion to it.). Keeping the mind on pains, aches and numbness is unwholesome thoughts (vitakka). This unwholesome vitakka and jhānic vitakka are competing with each other. 
 
@@ -24,9 +24,9 @@ Doing the farming is not difficult, but cleaning the field is. To know what one 
 
 Jhānic vitakka sends the mind to the meditation object and kāma vitakka pulls the mind down to the place of pains, aches, and numbness. You must pull the mind toward jhānic vitakka. Sending the mind toward the entrance of the nostril is jhānic vitakka. Reflecting short and long of the breathing is jhānic vicāra (sustaining or sustained thought). It is not possible with the pain down there. Contemplating at there is wrong sustaining. There is no jhānic vitakka if you follow the pains and aches, and become unwholesome vitakka. This is not the cause of a teacher and by one’s own cause. You must check your own effort. With no absorption (jhāna), there is no path (magga), i.e., jhānapaccayo and maggapaccayo (jhāna condition and path condition). 
 
-For the path (magga) you use the jhānic condition (jhānapaccayo). You let the mind concentrate one-pointedly on your meditation objects is jhāna. Jhāna sends the mind to the place where the air and nostril point contact (the other objects also the same way). Send it with faith (saddha—has faith on the practice and oneself). Contemplating with viriya means not letting the mind fall away from the object by giving strength to it. (i.e., connecting and sustaining with strength)
+For the path (magga) you use the jhānic condition (jhānapaccayo). You let the mind concentrate one-pointedly on your meditation objects is jhāna. Jhāna sends the mind to the place where the air and nostril point contact (the other objects also the same way). Send it with faith (saddhā—has faith on the practice and oneself). Contemplating with viriya means not letting the mind fall away from the object by giving strength to it. (i.e., connecting and sustaining with strength)
 
-Here, the faith—saddha is that there is no other way to get rid of the pain of death other than this practice. Even now with this vedanā yogi becomes uncontrollable to his mind and at dying, it will become worse than this situation. If you follow the desire of taṇhā (correct the body), when falling into four woeful existences, it will be more painful than here. Therefore, there I will have no refuge and no one to rely on; I must practice with faith—saddha. Sending the mind to the object with power is the strength of effort (viriya).  Staying alert with mindfulness is the strength of mindfulness (sati). 
+Here, the faith—saddhā is that there is no other way to get rid of the pain of death other than this practice. Even now with this vedanā yogi becomes uncontrollable to his mind and at dying, it will become worse than this situation. If you follow the desire of taṇhā (correct the body), when falling into four woeful existences, it will be more painful than here. Therefore, there I will have no refuge and no one to rely on; I must practice with faith—saddhā. Sending the mind to the object with power is the strength of effort (viriya).  Staying alert with mindfulness is the strength of mindfulness (sati). 
 If you practice with these three factors, the strength of concentration (samādhi) develops. Send the mind to the primary object with five strengths, you will get it, if not you don’t get it (i.e., samādhi). Do I have strength in the practice? The mind not staying where it has been sent has no strength and becomes painful. You have to know it. You suffer because of association with unwholesome vitakka (unwholesome dhammas or kilesas are fools. So this is association or consort with the fools). You have to know one’s mistakes. If you do send your mind to the object of meditation as the teacher says, and it is still really painful; that is the teacher's mistake. If you can’t send the mind, that is your mistake. If you free yourself from these two mistakes, it becomes sukha (instead of dukkha). In Dhamma practice, no matter what, the practice will likely encounter dukkha vedanā. Vedanā only stops at death. While still alive, you have to live together with this lump of poison. 
 
 Therefore, the most important thing is you have to deal with it. The Buddha warned us to run away from it. The yogis run with strength. Practicing Dhamma is done with strength. Could you be free from it if you don’t have strength?
@@ -105,9 +105,9 @@ In ānāpāna kammaṭṭhāna—working-ground, subjects of meditation, the tou
 
 Other kammaṭṭhānas are also not wrong. It’s unnecessary for argument on your kammaṭṭhāna or my kammaṭṭhāna is right. When vedanā arising unwholesome dhammas of taṇhā, mana, diṭṭhi sink the mind in the mud. We use the five strengths to pull it out.
 
-We contemplate the meditation object not only with faith (saddha), mindfulness (sati), effort (viriya), samādhi and discernment (paññā) of the five strengths but also with the five jhānic factors—vitakka, vicāra, pīti, sukha and ekaggatā (connecting, sustaining, rapture, pleasure and one-pointedness). If you relax the mind, and it’ll move to vedanā. 
+We contemplate the meditation object not only with faith (saddhā), mindfulness (sati), effort (viriya), samādhi and discernment (paññā) of the five strengths but also with the five jhānic factors—vitakka, vicāra, pīti, sukha and ekaggatā (connecting, sustaining, rapture, pleasure and one-pointedness). If you relax the mind, and it’ll move to vedanā. 
 
-Could you relax it near death? To develop the mind freer from vedanā (pain) by adjusting short and long breaths at the tip of the nostril. When practicing you have to exhort yourself with the frightened mind and doing the practice blindly leads to failure. Even though now you aren’t free from vedanā, later you’ll be free from it for sure. U Zin (i.e., himself) gives you the guarantee. I’ll send you or show you to the place where it is free by giving of my time. 
+Could you relax it near death? Develop the mind to be free from vedanā (pain) by adjusting short and long breaths at the tip of the nostril. When practicing you have to exhort yourself with the frightened mind and doing the practice blindly leads to failure. Even though now you aren’t free from vedanā, later you’ll be free from it for sure. U Zin (i.e., himself) gives you the guarantee. I’ll send you or show you to the place where it is free by giving of my time. 
 
 [This is not an exaggeration. Later one of his talks on interview with yogis (including a nun, a woman and a man) discussed their experiences with him. They overcame the pains and gained samādhi. I gave the title for it as “With samādhi overcome the hindrances”. Here the yogis could sit for two hours and three hours at a time. They gained samādhi—some had skeletons as nimitta (mental sign); some 32 parts of the body and some had discerned the four great elements (these were the majority). For yogis had bones nimitta with samādhi power by contemplating its nature and overcame wrong view, craving with hatred. Now it has become vipassanā. It was very similar to the Thai forest tradition which developed jhānas and after coming out from samādhi contemplated dhammas—such as, four elements, 32-parts of the body (asubha), skeleton, etc. 
 
@@ -119,7 +119,7 @@ Some Buddhists even go to extremes to say that commentaries, Abhidhamma and vipa
 
 There were many evidences in the suttas many people without any jhāna practices by listening the Buddha’s teachings realized Dhamma—e.g., Santati minister, Suramutta—the drunkard, Suppabuddha—the leper, some citizens, even sensual devatas (not include brahma-gods).
 
-Some well-known Burmese Sayadaws like Ledi Sayadaw, Mogok Sayadaw, Mahāsi Sayadaw, etc. were not ordinary monks and very good pāḷi scholars and practicing monks. It doesn't really matter whether the teachings and practices of others are right or wrong, what matters is your own knowledge and your own practice.
+Some well-known Burmese Sayadaws like Ledi Sayadaw, Mogok Sayadaw, Mahāsi Sayadaw, etc. were not ordinary monks and very good pāḷi scholars and practicing monks. It doesn't really matter whether the teachings and practices of others are right or wrong, what matters is your own knowledge and your own practice. ]
 
 I want you all to have the strength to pull the mind out from the kilesa mind. I am training you to have the strength to bear dukkha vedanā and to pull yourself out from it. It’s like kneading a dough. In making bread by mixing the flour with water, knead it until it becomes dough. While kneading, you can’t do it in a comfortable manner. To make a thick and sticky dough, you have to use force. It is better to become a thick and sticky dough. For three or four days is like kneading the flour with water and can’t take comfort in doing it. It’s not yet arriving at the stage of making the cake of vipassanā. All of your minds are very coarse with lobha, dosa and moha. Ultimate reality—paramatā mind and body (form—rūpa) are so refined that you can’t work with this coarse or rough mind. We’re making our minds (contemplative minds) to become refined. Now we’re doing the sitting an hour each for five times. Later we’ll practice for two hours for each sitting. 
 
@@ -129,7 +129,7 @@ Anyone who gives up the effort only ends up with loss and will not easy to die a
 
 ------
 
-revised on 2022-04-22
+revised on 2022-04-28
 
 ------
 
@@ -144,6 +144,7 @@ revised on 2022-04-22
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-28 post; 04-27 rev: 2nd proofread by bhante
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   04-09 post 1st proofread by bhante
   2022-02-13 create rst
