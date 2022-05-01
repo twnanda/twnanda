@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2022-04-28
+:modified: 2022-05-01
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -1022,7 +1022,7 @@ These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bo
 
 - For Print:
 
-  * Size: B5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/96942f6991e05e57e464927aabc0325e8c92fbeb/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (14 pt, 108 pages, 2022-04-28) 
+  * Size: B5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/774a68a84b773c1f1fcfa1de63a4063bf518174a/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (14 pt, 250 pages, 2022-04-29) 
 
 - `Cover <https://github.com/twnanda/doc-pdf-etc/blob/a84db3969f5fb0213675e1de8ee1a6c1bf3b1ef0/image/thae-inn-gu-ukkattha-and-candima.png>`__ of Bound volume of "Two Sides of A Coin" and "A Noble Search" (2022-04-27)
 
@@ -1031,6 +1031,7 @@ These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bo
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  05-01 rev. two books--thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf
   04-28 add & rev.: Bound volume of "Two Sides of A Coin" and "A Noble Search", etc.
   04-09 add: Dealing with Pain in Samādhi Practice, On Ānāpāna Samādhi, A Scales Like Samādhi, Diamond Meditation and Appendix; "Bhavaṅga Meditation" suspended
   02-28 rev. covers (picture) of Mogok Sayadaw's Dhamma talks
