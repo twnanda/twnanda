@@ -1,5 +1,5 @@
 :date: 2016-02-14
-:modified: 2021-04-08
+:modified: 2022-05-26
 :slug: index
 :lang: zh
 :status: hidden
@@ -34,10 +34,11 @@
 
 ----
 
-- 府城地區寺院、道場
+- `府城地區寺院、道場 <{filename}/articles/temples/list-of-temples%zh.rst>`__
 
   * `妙心寺(臺南) <{filename}/articles/miaucim/introduction-to-miau-sim-temple%zh.rst>`_
-  * `府城地區其他寺院、道場 <{filename}/articles/temples/list-of-temples%zh.rst>`_
+  * `開元寺 <{filename}/articles/temples/intro-khai-guan%zh.rst>`_
+  * `法華寺 <{filename}/articles/temples/intro-hoat-hoa-si%zh.rst>`_  等等。
 
 - 《(南傳) `巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`_ 》
 
@@ -93,6 +94,7 @@
     ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_]) 等等。
 
 ..
+  2022-05-26 rev. 府城地區寺院、道場
   2021-04-08 rev. move to subdirectory-dhp-study; add: dhammatalks.org
   2020-09-09 add: 佛陀的啟示(What the Buddha Taught) 
   11.26 add: 偈頌選讀
