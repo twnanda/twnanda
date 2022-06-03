@@ -126,9 +126,9 @@
 
 ----
 
-.. _Ken_Su:
+.. _ken_su:
 
-- `蘇錦坤作品集 <{filename}/articles/lib/authors/ken-su/publication-of-ken-su%zh.rst>`_ （Ken Su， `獨立佛學研究者 <https://independent.academia.edu/KenYifertw>`_ ，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>_ 部落格格主））
+- `蘇錦坤作品集 <{filename}/articles/lib/authors/ken-su/publication-of-ken-su%zh.rst>`_ （Ken Su， `獨立佛學研究者 <https://independent.academia.edu/KenYifertw>`_ ，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>`_ 部落格格主））
 
 ----
 
