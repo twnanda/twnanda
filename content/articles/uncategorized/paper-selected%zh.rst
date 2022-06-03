@@ -2,7 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2020-08-23
+:modified: 2022-06-03
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -126,6 +126,12 @@
 
 ----
 
+.. _Ken_Su:
+
+- `蘇錦坤作品集 <{filename}/articles/lib/authors/ken-su/publication-of-ken-su%zh.rst>`_ （Ken Su， `獨立佛學研究者 <https://independent.academia.edu/KenYifertw>`_ ，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>_ 部落格格主））
+
+----
+
 - 《智慧之樹，不返之流-- 觀禪的修行與進程》 (The Tree of Wisdom，The River of No Return-- The practice and development on insight meditattion)：
 
   | 作者：慈濟瓦禪師(Venerable Sujiva)； 譯者：雷叔雲、湯華俊；
@@ -197,6 +203,8 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  2022-06-03 add 蘇錦坤作品集
+
   08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
   06-19 rev. linking of 《佛陀與佛法》 (The Buddha and His Teachings) & 《佛陀的古道》 (The Buddha's Ancient Path)--PDF (English) & ; old: expired-- 直接閱讀 HTML http://www.what-buddha-taught. net/Books3/Piyadassi_Thera_The_Buddhas_Ancient_Path.htm ; hiden: http://www.sutra.org.tw/library/reads%20pdf/PDF/%E4%BD%9B%E9%99%80%E7%9A%84%E5%8F%A4%E9%81%93.pdf, http://www.sutra.org.tw/library/reads%20pdf/PDF/佛陀的古道.pdf
 
