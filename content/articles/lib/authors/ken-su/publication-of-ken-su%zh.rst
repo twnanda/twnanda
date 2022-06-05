@@ -66,14 +66,14 @@
 
 蘇錦坤 Ken Su， `獨立佛學研究者 <https://independent.academia.edu/KenYifertw>`_ ，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>`_ 部落格格主）
 
-蘇錦坤為福嚴推廣教育班學生，長老菩提比丘與無著法師於2006年訪台講學期間，曾擔任臨時侍者並且充當翻譯。
+蘇錦坤曾在2006年長老菩提比丘與無著比丘訪台期間，擔任臨時侍者及翻譯，之後致力於譯介歐美佛教學者的論文。目前致力於一般民眾的佛教文獻學推廣講座。
 
 法鼓文理學院阿含研究小組成員： (2013-)
 
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
-  06-05 rev. 第一章　對照目錄的「對應經典」與「參考經典」 chap01-2016-Satyabhisamaya_76-03.pdf
+  06-05 rev. 作者簡介; 第一章　對照目錄的「對應經典」與「參考經典」 chap01-2016-Satyabhisamaya_76-03.pdf
         add: 第一章　對照目錄的「對應經典」與「參考經典」
         del: - `再訪「井水喻」 <{filename}ken-su2006%zh.rst>`_ ──探索SN 12.68 Kosambi《拘睒彌經》的詮釋（Ven. Bhikkhu Bodhi 原著•蘇錦坤 譯 （ `原始出處 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1086&i=1>`__ (pdf)： `「正觀雜誌」 第38期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=6>`__ 2006-09-25 出版）
 
