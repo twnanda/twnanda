@@ -73,7 +73,8 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
-  06-05 add: 第一章　對照目錄的「對應經典」與「參考經典」
+  06-05 rev. 第一章　對照目錄的「對應經典」與「參考經典」 chap01-2016-Satyabhisamaya_76-03.pdf
+        add: 第一章　對照目錄的「對應經典」與「參考經典」
         del: - `再訪「井水喻」 <{filename}ken-su2006%zh.rst>`_ ──探索SN 12.68 Kosambi《拘睒彌經》的詮釋（Ven. Bhikkhu Bodhi 原著•蘇錦坤 譯 （ `原始出處 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1086&i=1>`__ (pdf)： `「正觀雜誌」 第38期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=6>`__ 2006-09-25 出版）
 
         - `寶唱《經律異相》所引之阿含經 <{filename}ken-su2007%zh.rst>`_ ───試論水野弘元教授的〈增一阿含經解說〉(Texts Quoted from Āgamas in Shi-baochang’s Jing-lü-yi-xiāng: An Investigation ito Kogen’s ‘A General Introduction on Chinese Ekottara-āgama’) （ `原始出處 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol2-4.doc>`__ (.doc)： `「福嚴佛學研究」 第二期 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ ｜No. 2 / 2007.4）
