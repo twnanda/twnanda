@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2018-04-15
+:modified: 2022-06-09
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -37,13 +37,15 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 
 - 英譯(English)：
 
-  * `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ (buddhadust.com, collecting many translators's works (選錄多位翻譯者之譯文) [7]_ 
+  * `Saŋyutta Nikāya <https://obo.genaud.net/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ (Obo's Web, collecting many translators's works (選錄多位翻譯者之譯文) [7]_ 
 
   * `Saṃyutta Nikāya <http://metta.lk/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ ( `METTANET - LANKA <http://metta.lk/>`__ ) [8]_
 
   * Samyutta Nikaya-- `The Grouped Discourses <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ (Selected translations, original 部份經典選譯，其他請參原始出處: `AccessToInsight <http://www.accesstoinsight.org/>`__ ) [9]_
 
   * Samyutta Nikaya-- `Collection of the Kindred Sayings <http://www.mahindaramatemple.com/e-tipitaka/samyutta-nikaya/samyutta-nikaya.htm>`__ (請參原始出處: `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ ) [10]_
+
+  * Saṁyutta Nikāya-- `The Connected Collection <https://www.dhammatalks.org/suttas/SN/index_SN.html>`__ ( `Dhamma talks, Writings and Translation of Ṭhānissaro Bhikkhu <https://www.dhammatalks.org/>`__ ``*dhammatalks.org*`` ) [11]_
 
 - `Saṃyuttanikāya 相應部經典 <https://sites.google.com/site/palishengdian/pali/da/sn>`__ ( on `Pali 聖典 <https://sites.google.com/site/palishengdian/>`__ )
 
@@ -248,7 +250,7 @@ Mahāvagga 大篇
 
 - 46.) `Bojjhaṅga-saṃyuttaṃ 覺支相應 <{filename}sn46-bojjhanga-samyutta%zh.rst>`__ (184 經 or 175經, 七覺支相應, The Seven Factors for Awakening)
 
-- 47.) `Satipaṭṭhāna-saṃyuttaṃ 念住相應 <{filename}sn47-satipatthana-samyutta%zh.rst>`__ (建構中 under construction; 104 經, 念處相應, 四念住相應, The Four Frames of Reference (Foundations of Mindfulness))
+- 47.) `Satipaṭṭhāna-saṃyuttaṃ 念住相應 <{filename}sn47-satipatthana-samyutta%zh.rst>`__ (104 經, 念處相應, 四念住相應, The Four Frames of Reference (Foundations of Mindfulness)
 
 - 48.) `Indriya-saṃyuttaṃ 根相應 <{filename}sn48-indriya-samyutta%zh.rst>`__ (建構中 under construction; 178 經, 五根相應, The Five Mental Faculties)
 
@@ -352,14 +354,14 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 .. [6] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Saṃyutta Nikāya (SN) <https://suttacentral.net/sn>`__ 。
 
-.. [7] 選錄多位翻譯者之譯文，請參 `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ → `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ : 1. (sŋ 1-11) `Sagāthā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_01_sagathavagga.htm>`__ (With Cantos, Poetry, Verses)
-       2. (sŋ 12-21) `Nidāna-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_02_nidanavagga.htm>`__ (About Nidana, Causation)
+.. [7] 選錄多位翻譯者之譯文，請參 `Obo's Web <https://obo.genaud.net/index.htm>`__ → `Index to Sutta Indexes <https://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ → `Saŋyutta Nikāya <https://obo.genaud.net/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ : 1. (sŋ 1-11) `Sagāthā-Vagga <https://obo.genaud.net/backmatter/indexes/sutta/sn/idx_01_sagathavagga.htm>`__ (With Cantos, Poetry, Verses)
+       2. (sŋ 12-21) `Nidāna-Vagga <https://obo.genaud.net/backmatter/indexes/sutta/sn/idx_02_nidanavagga.htm>`__ (About Nidana, Causation)
 
-       3. (sŋ 22-34) `Khandha-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_03_khandhavagga.htm>`__ (On the Stockpiles, Elements of Existance, Aggregates)
+       3. (sŋ 22-34) `Khandha-Vagga <https://obo.genaud.net/backmatter/indexes/sutta/sn/idx_03_khandhavagga.htm>`__ (On the Stockpiles, Elements of Existance, Aggregates)
 
-       4. (sŋ 35-44) `Saļāyatana-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_04_salayatanavagga.htm>`__ (On the Sense Realm, Six Sense Bases)
+       4. (sŋ 35-44) `Saļāyatana-Vagga <https://obo.genaud.net/backmatter/indexes/sutta/sn/idx_04_salayatanavagga.htm>`__ (On the Sense Realm, Six Sense Bases)
 
-       5. (sŋ 45-56) `Mahā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_05_mahavagga.htm>`__ (The Great Collection) [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
+       5. (sŋ 45-56) `Mahā-Vagga <https://obo.genaud.net/backmatter/indexes/sutta/sn/idx_05_mahavagga.htm>`__ (The Great Collection) [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
 
 .. [8] `METTANET - LANKA <http://metta.lk/>`__ ( → `Tipitaka <http://metta.lk/tipitaka/>`__  → `Saṃyutta Nikāya <http://metta.lk/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/index.html>`__ )
 
@@ -369,8 +371,22 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 .. [10] 請參考： `Mahindarama e-Buddhist Education Centre <http://www.mahindaramatemple.com/e-service/e-mbec.htm>`__ → `e-Tipitaka <http://www.mahindaramatemple.com/e-tipitaka/e-tipitaka.htm>`__ → `Suttanta Pitaka <http://www.mahindaramatemple.com/e-tipitaka/suttanta.htm>`__ → 3. Samyutta Nikaya `Collection of the Kindred Sayings <http://www.mahindaramatemple.com/e-tipitaka/samyutta-nikaya/samyutta-nikaya.htm>`__ (also named the "Grouped" Discourses)
 
+.. [11] 請參考：`Dhamma talks, Writings and Translation of Ṭhānissaro Bhikkhu <https://www.dhammatalks.org/>`__ ``*dhammatalks.org*`` → `Sutta Piṭaka <https://www.dhammatalks.org/suttas/index.html>`__ (Suttas from the Pāli Canon Saṁyutta Nikāya) →  `Saṁyutta Nikāya <https://www.dhammatalks.org/suttas/SN/index_SN.html>`__ (The Connected Collection)
+
 
 ..
+  2022-06-09 add: 47. Satipaṭṭhāna-saṃyuttaṃ 念住相應; Saṁyutta Nikāya-- `The Connected Collection (Dhamma talks, Writings and Translation of Ṭhānissaro Bhikkhu
+             del: [BuddhaDust] old: `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ (buddhadust.com, collecting many translators's works (選錄多位翻譯者之譯文)
+
+             `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ → `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ : 1. (sŋ 1-11) `Sagāthā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_01_sagathavagga.htm>`__ (With Cantos, Poetry, Verses)
+                  2. (sŋ 12-21) `Nidāna-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_02_nidanavagga.htm>`__ (About Nidana, Causation)
+
+                  3. (sŋ 22-34) `Khandha-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_03_khandhavagga.htm>`__ (On the Stockpiles, Elements of Existance, Aggregates)
+
+                  4. (sŋ 35-44) `Saļāyatana-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_04_salayatanavagga.htm>`__ (On the Sense Realm, Six Sense Bases)
+
+                  5. (sŋ 45-56) `Mahā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_05_mahavagga.htm>`__ (The Great Collection) [BuddhaDust]
+
   04.15 add: 46 Bojjhaṅga-saṃyuttaṃ 覺支相應, 七覺支相應
   04.09 add: 44 Abyākata-saṃyuttaṃ 無記相應
   04.07 add: 43 Asaṅkhata-saṃyuttaṃ 無為相應
