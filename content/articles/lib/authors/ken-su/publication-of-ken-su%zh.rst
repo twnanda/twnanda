@@ -3,7 +3,7 @@
 =====================
 
 :date: 2022-06-03
-:modified: 2022-06-05
+:modified: 2022-06-10
 :tags: 蘇錦坤, 藏經閣的掃葉人, Ken Su
 :category: 蘇錦坤老師
 :summary: 蘇錦坤 老師 作品集 (Publications of Ken Su)
@@ -24,8 +24,10 @@
 
 - `前言 <{filename}ken-su-preface-agama-nikaya-study%zh.rst>`__
 
-- `第一章　對照目錄的「對應經典」與「參考經典」 <{static}/extra/authors/ken-su/chap01-2016-Satyabhisamaya_76-03.pdf>`__ （2022 修訂；原論文：〈試論對照目錄的「對應經典」與「參考經典」---以《中阿含》為例〉，(2016b) ， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `76期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=3>`__ ， `105-196頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1263&i=1>`__ ，南投縣，台灣。）
-- 
+- `第一章　對照目錄的「對應經典」與「參考經典」 <{static}/extra/authors/ken-su/chap01-2016-Satyabhisamaya_76-03.pdf>`__ （2022-06-05 修訂；原論文：〈試論對照目錄的「對應經典」與「參考經典」---以《中阿含》為例〉，(2016b) ， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `76期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=3>`__ ， `105-196頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1263&i=1>`__ ，南投縣，台灣。）
+
+- `第二章　寶唱《經律異相》所引之阿含經 <{static}/extra/authors/ken-su/chap02-2007-FBS_vol2-4.pdf>`__ （2022-06-10 修訂；原論文：〈寶唱《經律異相》所引之阿含經〉───試論水野弘元教授的〈增一阿含經解說〉(Texts Quoted from Āgamas in Shi-baochang’s Jing-lü-yi-xiāng: An Investigation ito Kogen’s ‘A General Introduction on Chinese Ekottara-āgama’)，(2007.4)， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ `2期 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ ， `91-160頁 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol2-4.doc>`__ (ms doc)，新竹市。
+
 - 
 -
 - `編後語 <{filename}ken-su-postscript-agama-nikaya-study%zh.rst>`__
@@ -73,17 +75,17 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
+  06-10 add: 第二章　寶唱《經律異相》所引之阿含經
   06-05 rev. 作者簡介; 第一章　對照目錄的「對應經典」與「參考經典」 chap01-2016-Satyabhisamaya_76-03.pdf
         add: 第一章　對照目錄的「對應經典」與「參考經典」
         del: - `再訪「井水喻」 <{filename}ken-su2006%zh.rst>`_ ──探索SN 12.68 Kosambi《拘睒彌經》的詮釋（Ven. Bhikkhu Bodhi 原著•蘇錦坤 譯 （ `原始出處 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1086&i=1>`__ (pdf)： `「正觀雜誌」 第38期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=6>`__ 2006-09-25 出版）
-
-        - `寶唱《經律異相》所引之阿含經 <{filename}ken-su2007%zh.rst>`_ ───試論水野弘元教授的〈增一阿含經解說〉(Texts Quoted from Āgamas in Shi-baochang’s Jing-lü-yi-xiāng: An Investigation ito Kogen’s ‘A General Introduction on Chinese Ekottara-āgama’) （ `原始出處 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol2-4.doc>`__ (.doc)： `「福嚴佛學研究」 第二期 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ ｜No. 2 / 2007.4）
-
+        - `寶唱《經律異相》所引之阿含經 <{filename}ken-su2007%zh.rst>`_         
         - `《別譯雜阿含經》攝頌的特點 <{filename}ken-su2008%zh.rst>`_  蘇錦坤 撰 （ `原始出處 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1126&i=1>`__ (pdf)： `「正觀雜誌」 第45期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=5>`__ 2008-06-25 出版）
 
           本文列舉攝頌的功能，並且檢視了《別譯雜阿含經》與其攝頌的對應關係，這兩者顯示相當程度的一致性，但也呈現了不少差異。本文嘗試將《別譯雜阿含經》的攝頌對應到相當的各部經典，詳列兩者之間的差異，並且探索攝頌所顯示的特點。
 
+
+    、《二十一世紀僧伽的挑戰》、《中部尼柯耶閱讀地圖》、《離苦得樂--佛陀之道》，無著法師的《巴利口誦傳統的形式與功能》、《他山之石可以攻錯—藉助四阿含解讀巴利經典》 I & II、《中阿含比較研究摘要》。
+
   06-04 add: 編後語 ken-su-postscript-agama-nikaya-study
   2022-06-03 create
-  　
-    、《二十一世紀僧伽的挑戰》、《中部尼柯耶閱讀地圖》、《離苦得樂--佛陀之道》，無著法師的《巴利口誦傳統的形式與功能》、《他山之石可以攻錯—藉助四阿含解讀巴利經典》 I & II、《中阿含比較研究摘要》。
