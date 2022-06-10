@@ -3,7 +3,7 @@
 =============================================
 
 :date: 2022-06-04
-:modified: 2022-06-05
+:modified: 2022-06-10
 :tags: 編後語, 阿含, 尼柯耶, 比較研究論文選集, 比較研究, 論文選集, 蘇錦坤, 藏經閣的掃葉人, Ken Su
 :category: 蘇錦坤老師
 :summary: 編後語（「阿含、尼柯耶」比較研究論文選集）
@@ -80,7 +80,7 @@
 
 期刊論文: 
 
-16. 〈寶唱《經律異相》所引之阿含經〉，(2007)， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ `2期 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ ， `91-160頁 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol2-4.doc>`__ (PDF)，新竹市。
+16. 〈寶唱《經律異相》所引之阿含經〉，(2007)， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ `2期 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ ， `91-160頁 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol2-4.doc>`__ (ms doc)，新竹市。
 
 17. 〈《別譯雜阿含經》攝頌的特點〉，(2008)， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `45期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=5>`__ ， `5-80頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1126&i=1>`__ ，南投縣。
 
@@ -229,5 +229,6 @@
 
 
 ..
+  06-10 rev. 〈寶唱《經律異相》所引之阿含經〉ms doc; old: 標注為 PDF
   06-05 rev. 作者簡介;   old:在無著的引薦之下，
   2022-06-04 create
