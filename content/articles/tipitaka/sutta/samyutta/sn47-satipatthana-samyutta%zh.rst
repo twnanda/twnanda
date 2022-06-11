@@ -1,7 +1,7 @@
 Satipaṭṭhāna-saṃyuttaṃ 念住相應, 念處相應, 四念住相應, The Four Frames of Reference (Foundations of Mindfulness) (巴利三藏 相應部)
 #######################################################################################################################################
 
-:date: 2017-07-17
+:date: 2022-06-09
 :modified: 2022-06-09
 :tags: 巴利三藏相應部, 念住相應, 念處相應, 四念住相應, The Four Frames of Reference, Foundations of Mindfulness
 :category: 巴利三藏相應部

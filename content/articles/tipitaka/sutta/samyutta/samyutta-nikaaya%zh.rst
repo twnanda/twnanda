@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2022-06-09
+:modified: 2022-06-11
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -252,7 +252,7 @@ Mahāvagga 大篇
 
 - 47.) `Satipaṭṭhāna-saṃyuttaṃ 念住相應 <{filename}sn47-satipatthana-samyutta%zh.rst>`__ (104 經, 念處相應, 四念住相應, The Four Frames of Reference (Foundations of Mindfulness)
 
-- 48.) `Indriya-saṃyuttaṃ 根相應 <{filename}sn48-indriya-samyutta%zh.rst>`__ (建構中 under construction; 178 經, 五根相應, The Five Mental Faculties)
+- 48.) `Indriya-saṃyuttaṃ 根相應 <{filename}sn48-indriya-samyutta%zh.rst>`__ (178 經, 五根相應, The Five Mental Faculties)
 
 - 49.) `Sammappadhāna-saṃyuttaṃ 正勤相應 <{filename}sn49-sammappadhana-samyutta%zh.rst>`__ (建構中 under construction; 54 經, 四正勤相應, The Four Right Exertions)
 
@@ -375,6 +375,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  06-11 add: 48. Indriya-saṃyuttaṃ 根相應
   2022-06-09 add: 47. Satipaṭṭhāna-saṃyuttaṃ 念住相應; Saṁyutta Nikāya-- `The Connected Collection (Dhamma talks, Writings and Translation of Ṭhānissaro Bhikkhu
              del: [BuddhaDust] old: `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ (buddhadust.com, collecting many translators's works (選錄多位翻譯者之譯文)
 
