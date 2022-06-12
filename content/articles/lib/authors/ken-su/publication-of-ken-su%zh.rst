@@ -3,7 +3,7 @@
 =====================
 
 :date: 2022-06-03
-:modified: 2022-06-10
+:modified: 2022-06-12
 :tags: 蘇錦坤, 藏經閣的掃葉人, Ken Su
 :category: 蘇錦坤老師
 :summary: 蘇錦坤 老師 作品集 (Publications of Ken Su)
@@ -58,8 +58,10 @@
 
 「漢譯佛典文獻學」，主要在校勘、標點、詞義詮釋的範圍
 
+- `第十六章　寫在「漢譯佛典文獻學」講座之前 <{static}/extra/authors/ken-su/chap16-preface-philology-chinese-buddhist-translations.pdf>`__ 
 
-
+- 
+-
 
 ------
 
@@ -75,6 +77,7 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
+  06-12 add: 第十六章　寫在「漢譯佛典文獻學」講座之前
   06-10 add: 第二章　寶唱《經律異相》所引之阿含經
   06-05 rev. 作者簡介; 第一章　對照目錄的「對應經典」與「參考經典」 chap01-2016-Satyabhisamaya_76-03.pdf
         add: 第一章　對照目錄的「對應經典」與「參考經典」
