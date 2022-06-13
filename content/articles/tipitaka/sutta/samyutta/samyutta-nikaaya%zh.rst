@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2022-06-12
+:modified: 2022-06-14
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -258,7 +258,7 @@ Mahāvagga 大篇
 
 - 50.) `Bala-saṃyuttaṃ 力相應 <{filename}sn50-bala-samyutta%zh.rst>`__ (108 經, 五力相應, The Five Strengths)
 
-- 51.) `Iddhipāda-saṃyuttaṃ 神足相應 <{filename}sn51-iddhipada-samyutta%zh.rst>`__ (建構中 under construction; 86 經, 四神足相應, The Four Bases of Power)
+- 51.) `Iddhipāda-saṃyuttaṃ 神足相應 <{filename}sn51-iddhipada-samyutta%zh.rst>`__ (86 經, 四神足相應, The Four Bases of Power)
 
 - 52.) `Anuruddha-saṃyuttaṃ 阿那律相應 <{filename}sn52-anuruddha-samyutta%zh.rst>`__ (建構中 under construction; 24 經, 阿那律尊者相應, Ven. Anuruddha)
 
@@ -375,6 +375,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  06-14 add: 51. Iddhipāda-saṃyuttaṃ 神足相應
   06-12 add: 49. Sammappadhāna-saṃyuttaṃ 正勤相應 & 50 Bala-saṃyuttaṃ 力相應
   06-11 add: 48. Indriya-saṃyuttaṃ 根相應
   2022-06-09 add: 47. Satipaṭṭhāna-saṃyuttaṃ 念住相應; Saṁyutta Nikāya-- `The Connected Collection (Dhamma talks, Writings and Translation of Ṭhānissaro Bhikkhu
