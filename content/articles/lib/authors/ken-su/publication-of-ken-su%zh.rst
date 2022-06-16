@@ -31,7 +31,7 @@
 - `第三章　「讚佛偈」───兼論《雜阿含經》、《別譯雜阿含經》與《相應部》之異同 <{static}/extra/authors/ken-su/chap03-2014-stanza-of-praise-to-the-buddha.pdf>`__ （2022-06-14 修訂；原論文：2014， `《法鼓佛學學報》 <https://sp.dila.edu.tw/journal.htm>`__ `15期 <https://sp.dila.edu.tw/journal_list/26.htm>`__ （ `摘要 <https://sp.dila.edu.tw/journal_detail/97.htm>`__ ）， `67-108頁 <https://sp.dila.edu.tw/magazine/downloadfile/97/1.htm>`__ ，法鼓文理學院，新北市，台灣。
 -
 
-- `第四章　寫本與默誦--《別譯雜阿含經》的翻譯議題 <{static}/extra/authors/ken-su/chap04-2019-ken-su-Vol-5.pdf>`__ （2022-06-14 修訂；原論文：(2019a)， `《新加坡佛學研究學刊》 <https://www.bcs.edu.sg/research-and-library/journal/journal-archive/>`__ 5期， `41-91頁 <https://www.bcs.edu.sg/wp-content/uploads/2020/07/2.-Ken-Su-Vol-5.pdf>`__ ，新加坡佛學院，新加坡。
+- `第四章　寫本與默誦--《別譯雜阿含經》的翻譯議題 <{static}/extra/authors/ken-su/chap04-2019-ken-su-vol-5.pdf>`__ （2022-06-14 修訂；原論文：(2019a)， `《新加坡佛學研究學刊》 <https://www.bcs.edu.sg/research-and-library/journal/journal-archive/>`__ 5期， `41-91頁 <https://www.bcs.edu.sg/wp-content/uploads/2020/07/2.-Ken-Su-Vol-5.pdf>`__ ，新加坡佛學院，新加坡。
 
 - `第十六章　寫在「漢譯佛典文獻學」講座之前 <{static}/extra/authors/ken-su/chap16-preface-philology-chinese-buddhist-translations.pdf>`__ 
 
@@ -80,7 +80,7 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
-  06-16 rev:第三章　「讚佛偈」: 註4 的紅字，改成:詳見本文第六節〈對《雜阿含經論會編》的省思〉
+  06-16 add: 第四章　寫本與默誦; rev:第三章　「讚佛偈」: 註4 的紅字，改成:詳見本文第六節〈對《雜阿含經論會編》的省思〉
   06-15 add: 第三章　「讚佛偈」───兼論《雜阿含經》、《別譯雜阿含經》與《相應部》之異同
   06-13 rev: move 第十六章　寫在「漢譯佛典文獻學」講座之前 to 「阿含、尼柯耶」比較研究論文選集
   06-12 add: 第十六章　寫在「漢譯佛典文獻學」講座之前
