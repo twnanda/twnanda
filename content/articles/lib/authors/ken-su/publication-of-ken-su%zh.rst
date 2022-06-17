@@ -3,7 +3,7 @@
 =====================
 
 :date: 2022-06-03
-:modified: 2022-06-16
+:modified: 2022-06-17
 :tags: 蘇錦坤, 藏經閣的掃葉人, Ken Su
 :category: 蘇錦坤老師
 :summary: 蘇錦坤 老師 作品集 (Publications of Ken Su)
@@ -32,6 +32,8 @@
 -
 
 - `第四章　寫本與默誦--《別譯雜阿含經》的翻譯議題 <{static}/extra/authors/ken-su/chap04-2019-ken-su-vol-5.pdf>`__ （2022-06-14 修訂；原論文：(2019a)， `《新加坡佛學研究學刊》 <https://www.bcs.edu.sg/research-and-library/journal/journal-archive/>`__ 5期， `41-91頁 <https://www.bcs.edu.sg/wp-content/uploads/2020/07/2.-Ken-Su-Vol-5.pdf>`__ ，新加坡佛學院，新加坡。
+
+- `第五章  《雪山夜叉經》-- 巴利經典與漢譯經典的比較研究 <{static}/extra/authors/ken-su/chap05-2009-satyabhisamaya_48-03.pdf>`__ （2022-06-17 修訂；原論文：〈《雪山夜叉經》───巴利經典與漢譯經典對照閱讀〉，(2009a)， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `48期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=5>`__ ， `69-142頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1145&i=1>`__ ，南投縣。
 
 - `第十六章　寫在「漢譯佛典文獻學」講座之前 <{static}/extra/authors/ken-su/chap16-preface-philology-chinese-buddhist-translations.pdf>`__ 
 
@@ -80,6 +82,7 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
+  06-17 add: 第五章  《雪山夜叉經》-- 巴利經典與漢譯經典的比較研究
   06-16 add: 第四章　寫本與默誦; rev:第三章　「讚佛偈」: 註4 的紅字，改成:詳見本文第六節〈對《雜阿含經論會編》的省思〉
   06-15 add: 第三章　「讚佛偈」───兼論《雜阿含經》、《別譯雜阿含經》與《相應部》之異同
   06-13 rev: move 第十六章　寫在「漢譯佛典文獻學」講座之前 to 「阿含、尼柯耶」比較研究論文選集
