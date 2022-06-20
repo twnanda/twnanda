@@ -34,7 +34,7 @@
 
 - `第五章　《雪山夜叉經》───巴利經典與漢譯經典的比較研究 <{static}/extra/authors/ken-su/chap05-2009-satyabhisamaya_48-03.pdf>`__ （2022-06-17 修訂；原論文：〈《雪山夜叉經》───巴利經典與漢譯經典對照閱讀〉，2009a， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `48期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=5>`__ ， `69-142頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1145&i=1>`__ ，南投縣。
 
-- 第六章　從後說絕───單卷本《雜阿含經》是否將偈頌譯成長行 <{static}/extra/authors/ken-su/chap06-2010-satyabhisamaya_55-01.pdf>`__ （2022-06-20 修訂；原論文：2010b， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `55期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=4>`__ ， `5-104頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1179&i=1>`__ ，南投縣。
+- `第六章　從後說絕───單卷本《雜阿含經》是否將偈頌譯成長行 <{static}/extra/authors/ken-su/chap06-2010-satyabhisamaya_55-01.pdf>`__ （2022-06-20 修訂；原論文：2010b， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `55期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=4>`__ ， `5-104頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1179&i=1>`__ ，南投縣。
 
 - 
 - 
