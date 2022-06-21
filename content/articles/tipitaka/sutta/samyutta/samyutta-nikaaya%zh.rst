@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2022-06-14
+:modified: 2022-06-21
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -266,7 +266,7 @@ Mahāvagga 大篇
 
 - 54.) `Ānāpāna-saṃyuttaṃ 入出息相應 <{filename}sn54-anapana-samyutta%zh.rst>`__ (20 經, 入出息念相應; Mindfulness of breathing)
 
-- 55.) `Sotāpatti-saṃyuttaṃ 入流相應 <{filename}sn55-sotapatti-samyutta%zh.rst>`__ (建構中 under construction; 74 經, 預流相應, 四預流支相應, Stream-entry)
+- 55.) `Sotāpatti-saṃyuttaṃ 入流相應 <{filename}sn55-sotapatti-samyutta%zh.rst>`__ (74 經, 預流相應, 四預流支相應, Stream-entry)
 
 - 56.) `Sacca-saṃyuttaṃ 諦相應 <{filename}sn56-sacca-samyutta%zh.rst>`__ (131 經, 四聖諦相應, The Four Noble Truths)
 
@@ -375,6 +375,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  06-21 add: 55. Sotāpatti-saṃyuttaṃ 入流相應
   06-14 add: 51. Iddhipāda-saṃyuttaṃ 神足相應
   06-12 add: 49. Sammappadhāna-saṃyuttaṃ 正勤相應 & 50 Bala-saṃyuttaṃ 力相應
   06-11 add: 48. Indriya-saṃyuttaṃ 根相應
