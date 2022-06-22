@@ -3,7 +3,7 @@
 =====================
 
 :date: 2022-06-03
-:modified: 2022-06-21
+:modified: 2022-06-22
 :tags: 蘇錦坤, 藏經閣的掃葉人, Ken Su
 :category: 蘇錦坤老師
 :summary: 蘇錦坤 老師 作品集 (Publications of Ken Su)
@@ -36,10 +36,11 @@
 
 - `第六章　從後說絕───單卷本《雜阿含經》是否將偈頌譯成長行 <{static}/extra/authors/ken-su/chap06-2010-satyabhisamaya_55-01.pdf>`__ （2022-06-20 修訂；原論文：2010b， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `55期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=4>`__ ， `5-104頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1179&i=1>`__ ，南投縣。
 
-- 
-- 
-- 
+- `第七章　詮釋選自單卷本《雜阿含經》的兩部經典 <{static}/extra/authors/ken-su/chap07-2010--22.pdf>`__ 〔2022-06-22 修訂；本文 未曾發表 。但是 ，第三節 〈單卷本《雜阿含 9經》的探討 〉曾為前一論文（從後說絕───單卷本《雜阿含經》是否將偈頌譯成長行）的一章節，而略有訂正〕
 
+- 
+- 
+- 
 - `第十六章　寫在「漢譯佛典文獻學」講座之前 <{static}/extra/authors/ken-su/chap16-preface-philology-chinese-buddhist-translations.pdf>`__ 
 
 - `編後語 <{filename}ken-su-postscript-agama-nikaya-study%zh.rst>`__
@@ -87,6 +88,7 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
+  06-22 add: 第七章　詮釋選自單卷本《雜阿含經》的兩部經典 & rev. 第六章　從後說絕
   06-21 add: 第六章　從後說絕
   06-17 add: 第五章  《雪山夜叉經》-- 巴利經典與漢譯經典的比較研究; suspended: `前言 <{filename}ken-su-preface-agama-nikaya-study%zh.rst>`__
   06-16 add: 第四章　寫本與默誦; rev:第三章　「讚佛偈」: 註4 的紅字，改成:詳見本文第六節〈對《雜阿含經論會編》的省思〉
