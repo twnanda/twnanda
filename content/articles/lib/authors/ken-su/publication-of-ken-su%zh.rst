@@ -3,7 +3,7 @@
 =====================
 
 :date: 2022-06-03
-:modified: 2022-06-22
+:modified: 2022-06-24
 :tags: 蘇錦坤, 藏經閣的掃葉人, Ken Su
 :category: 蘇錦坤老師
 :summary: 蘇錦坤 老師 作品集 (Publications of Ken Su)
@@ -34,10 +34,11 @@
 
 - `第五章　《雪山夜叉經》───巴利經典與漢譯經典的比較研究 <{static}/extra/authors/ken-su/chap05-2009-satyabhisamaya_48-03.pdf>`__ （2022-06-17 修訂；原論文：〈《雪山夜叉經》───巴利經典與漢譯經典對照閱讀〉，2009a， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `48期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=5>`__ ， `69-142頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1145&i=1>`__ ，南投縣。
 
-- `第六章　從後說絕───單卷本《雜阿含經》是否將偈頌譯成長行 <{static}/extra/authors/ken-su/chap06-2010-satyabhisamaya_55-01.pdf>`__ （2022-06-20 修訂；原論文：2010b， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `55期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=4>`__ ， `5-104頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1179&i=1>`__ ，南投縣。
+- `第六章　從後說絕───單卷本《雜阿含經》是否將偈頌譯成長行 <{static}/extra/authors/ken-su/chap06-2010-satyabhisamaya_55-01.pdf>`__ （2022-06-22 修訂；原論文：2010b， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `55期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=4>`__ ， `5-104頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1179&i=1>`__ ，南投縣。
 
 - `第七章　詮釋選自單卷本《雜阿含經》的兩部經典 <{static}/extra/authors/ken-su/chap07-2010--22.pdf>`__ 〔2022-06-22 修訂；本文 未曾發表 。但是 ，第三節 〈單卷本《雜阿含 9經》的探討 〉曾為前一論文（從後說絕───單卷本《雜阿含經》是否將偈頌譯成長行）的一章節，而略有訂正〕
 
+- `第八章 《別譯雜阿含經》攝頌的特點 <{static}/extra/authors/ken-su/chap08-2008-satyabhisamaya_45-01.pdf>`__ （2022-06-24 修訂；原論文：2008， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `45期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=5>`__ ， `5-80頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1126&i=1>`__ ，南投縣。
 - 
 - 
 - 
@@ -88,6 +89,7 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
+  06-24 add: 第八章 《別譯雜阿含經》攝頌的特點
   06-22 add: 第七章　詮釋選自單卷本《雜阿含經》的兩部經典 & rev. 第六章　從後說絕
   06-21 add: 第六章　從後說絕
   06-17 add: 第五章  《雪山夜叉經》-- 巴利經典與漢譯經典的比較研究; suspended: `前言 <{filename}ken-su-preface-agama-nikaya-study%zh.rst>`__
