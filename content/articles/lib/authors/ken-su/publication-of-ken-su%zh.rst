@@ -43,6 +43,9 @@
 - `第九章　反思辛島靜志〈說一切有部法義「篡入」法藏部《長阿含經》的漢譯《十上經》〉一文的論點 <{static}/extra/authors/ken-su/chap09-2021-satyabhisamaya_99-02.pdf>`__ （2022-06-25 修訂；原論文：2021b， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `99期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ ， `63-126頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=11243&i=1>`__ ，南投縣，台灣。）
 
 - `第十章　「百讚頌」（Varṇaśatam verses）：梵文、巴利與漢譯「優婆離頌」的異同 <{static}/extra/authors/ken-su/chap10-2022-0625-varnasatam-verses.pdf>`__ （2022-06-25，2022 **第一次發表** ） 
+
+- `第十一章　《大正藏》頁底註的訛誤───以第一、二冊為主 <{static}/extra/authors/ken-su/chap11-2021-satyabhisamaya_97-02.pdf>`__ （2022-06-25 修訂；原論文：2021a， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `97期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ ， `79-109頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=11232&i=1>`__ ，南投縣，台灣。
+
 - 
 - 
 - `第十六章　寫在「漢譯佛典文獻學」講座之前 <{static}/extra/authors/ken-su/chap16-preface-philology-chinese-buddhist-translations.pdf>`__ 
@@ -92,7 +95,7 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
-  06-25 add: 第十章　「百讚頌」(第一次發表)；第九章　《十上經》與辛島靜志的論文
+  06-25 add: 第十一章　《大正藏》頁底註的訛誤; 第十章　「百讚頌」(第一次發表)；第九章　《十上經》與辛島靜志的論文
   06-24 add: 第八章　《別譯雜阿含經》攝頌的特點
   06-22 add: 第七章　詮釋選自單卷本《雜阿含經》的兩部經典 & rev. 第六章　從後說絕
   06-21 add: 第六章　從後說絕
