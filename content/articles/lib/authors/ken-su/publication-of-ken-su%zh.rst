@@ -3,7 +3,7 @@
 =====================
 
 :date: 2022-06-03
-:modified: 2022-06-26
+:modified: 2022-06-28
 :tags: 蘇錦坤, 藏經閣的掃葉人, Ken Su
 :category: 蘇錦坤老師
 :summary: 蘇錦坤 老師 作品集 (Publications of Ken Su)
@@ -44,9 +44,13 @@
 
 - `第十章　「百讚頌」（Varṇaśatam verses）：梵文、巴利與漢譯「優婆離頌」的異同 <{static}/extra/authors/ken-su/chap10-2022-0625-varnasatam-verses.pdf>`__ （2022-06-25，2022 **第一次發表** ） 
 
-- `第十一章　《大正藏》頁底註的訛誤───以第一、二冊為主 <{static}/extra/authors/ken-su/chap11-2021-satyabhisamaya_97-02.pdf>`__ （2022-06-25 修訂；原論文：2021a， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `97期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ ， `79-109頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=11232&i=1>`__ ，南投縣，台灣。
+- `第十一章　《大正藏》頁底註的訛誤───以第一、二冊為主 <{static}/extra/authors/ken-su/chap11-2021-satyabhisamaya_97-02.pdf>`__ （2022-06-25 修訂；原論文：2021a， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `97期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ ， `79-109頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=11232&i=1>`__ ，南投縣，台灣。）
 
 - `第十二章　菩提比丘：《中部》閱讀地圖 <{static}/extra/authors/ken-su/chap12-2011-maps-mn-bodhi.pdf>`__ （2022-06-26 修訂；初稿 2011，本文不曾於期刊發表，雖曾以「菩提比丘：《中阿含》(《中部》尼柯耶)閱讀地圖」為題，在「 `台語與佛典 <https://yifertw.blogspot.com/>`__ 」部落格（ `2014年6月7日 星期六 <https://yifertw.blogspot.com/2014/06/blog-post_7.html>`__ ）貼出，但是貼文錯誤頗多。本篇原為英文「教學大綱」。 `@ 府城佛教網 <https://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/>`__ ）
+
+- `第十三章　初期漢譯佛典「一詞多譯」現象的探討及省思 <{static}/extra/authors/ken-su/chap13-2016-fbs_vol11-4.pdf>`__ （2022-06-25 修訂；原論文：2016d ， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ `11期 <https://www.fuyan.org.tw/journal/fbs/fbs013.html>`__ ， `75-116頁 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol11-4.pdf>`__ (PDF)，新竹市，台灣 。）
+
+- 
 - 
 - `第十六章　寫在「漢譯佛典文獻學」講座之前 <{static}/extra/authors/ken-su/chap16-preface-philology-chinese-buddhist-translations.pdf>`__ 
 
@@ -95,6 +99,7 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
+  06-28 add: 第十三章　初期漢譯佛典「一詞多譯」現象的探討及省思
   06-26 add: 第十二章　菩提比丘：《中部》閱讀地圖 & rev. 第十一章　《大正藏》頁底註的訛誤
   06-25 add: 第十一章　《大正藏》頁底註的訛誤; 第十章　「百讚頌」(第一次發表)；第九章　《十上經》與辛島靜志的論文
   06-24 add: 第八章　《別譯雜阿含經》攝頌的特點
