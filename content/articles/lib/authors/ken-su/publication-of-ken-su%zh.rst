@@ -3,7 +3,7 @@
 =====================
 
 :date: 2022-06-03
-:modified: 2022-06-29
+:modified: 2022-06-30
 :tags: 蘇錦坤, 藏經閣的掃葉人, Ken Su
 :category: 蘇錦坤老師
 :summary: 蘇錦坤 老師 作品集 (Publications of Ken Su)
@@ -52,9 +52,9 @@
 
 - `第十四章　書評：王建偉、金暉《雜阿含經校釋》 <{static}/extra/authors/ken-su/chap14-2016-3-ken-su-vol-3.pdf>`__ （2022-06-29 修訂；原論文：2016c， `《新加坡佛學研究學刊》 <https://www.bcs.edu.sg/research-and-library/journal/journal-archive/>`__ 3期， `65-90頁 <https://www.bcs.edu.sg/wp-content/uploads/2016/10/3.-Ken-Su-Vol-3.pdf>`__ ，新加坡佛學院，新加坡。
 
-- 第十五章 漢譯《善見律毘婆沙》與巴利《一切善見律註》的差別 （2022-06-29 修訂；原論文：〈漢巴《一切善見律毘婆沙》的差別〉，(2018)，發表於： `@ academia.edu <https://www.academia.edu/36118271/8_%E6%BC%A2%E5%B7%B4_%E4%B8%80%E5%88%87%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99_%E7%9A%84%E5%B7%AE%E5%88%A5_pdf_2018_in_Chinese_>`__ （漢譯《善見律毘婆沙》關於《小部》的譯文 `@ 台語與佛典 <https://yifertw.blogspot.com/2018/03/blog-post_9.html>`__ ）
+- 第十五章 漢譯《善見律毘婆沙》與巴利《一切善見律註》 <{static}/extra/authors/ken-su/chap15-2018-sp-han-pa.pdf>`__ （2022-06-30，2022 **第一次發表** ）
 
-- `編後語 <{filename}ken-su-postscript-agama-nikaya-study%zh.rst>`__ （ `PDF <{static}/extra/authors/ken-su/postscript-agama-nikaya-study-ken-su.pdf>`__ ，2022-06-29 修訂）
+- `編後語 <{filename}ken-su-postscript-agama-nikaya-study%zh.rst>`__ （ `PDF <{static}/extra/authors/ken-su/postscript-agama-nikaya-study-ken-su.pdf>`__ ，2022-06-30 修訂）
 
 ------
 
@@ -100,6 +100,7 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
+  06-30 rev: 編後語 & 漢譯《善見律毘婆沙》與巴利《一切善見律註》(刪 發表於： @ academia.edu （漢譯《善見律毘婆沙》關於《小部》的譯文 @ 台語與佛典 )
   06-29 add: 第十四章　書評：王建偉、金暉《雜阿含經校釋》、第十五章 漢譯《善見律毘婆沙》與巴利《一切善見律註》的差別(without pdf); rev. 編後語
    <{static}/extra/authors/ken-su/chap15-2018-difference-of-sp-between-pa-ha.pdf>`__
   06-28 add: 第十三章　初期漢譯佛典「一詞多譯」現象的探討及省思

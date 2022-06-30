@@ -3,7 +3,7 @@
 =============================================
 
 :date: 2022-06-04
-:modified: 2022-06-29
+:modified: 2022-06-30
 :tags: 編後語, 阿含, 尼柯耶, 比較研究論文選集, 比較研究, 論文選集, 蘇錦坤, 藏經閣的掃葉人, Ken Su
 :category: 蘇錦坤老師
 :summary: 編後語（「阿含、尼柯耶」比較研究論文選集）
@@ -32,7 +32,7 @@
 
 在此感謝我的老師菩提比丘與無著比丘的示範與教導，也特別感謝白瑞德教授激勵我、並且在最關鍵的時刻幫助我走上論文寫作這一條路。當然，如果沒有《福嚴佛學研究》與《正觀》兩份學術期刊願意接納我這門外漢的文章，或許我會只讀而不寫，而不會有長達十六年的塗塗抹抹的寫作生涯。
 
-本書最後，要特別感謝法友 Nanda，如果沒有他的協助，不會有這本書面世。法友 Nanda 獨力設立、維護及主持《府城佛教網》網站 ( https://nanda.online-dhamma.net/ )，提供並整理了許多佛教經典及論著，是一個十分方便、寶貴的佛學資料庫。我認識了 Nanda 法友之後，透過他訂正了幾條《維基百科》的詞條，也蒙他贈送不少珍貴而稀有的佛教書籍。去年在他協助之下，出版了我個人的第一本書：《法句經 -- 白話文版，含巴利文法分析》。這次，他接受我的邀請，再度協助編印此書，也讓此書在網路上與大家分享。
+本書最後，要特別感謝法友 Nanda，如果沒有他的協助，不會有這本書面世。法友 Nanda獨力設立、維護及主持《府城佛教網》網站(https://nanda.online-dhamma.net/)，提供並整理了許多佛教經典及論著，是一個十分方便、寶貴的佛學資料庫。我認識了 Nanda法友之後，透過他訂正了幾條《維基百科》的詞條，也蒙他贈送不少珍貴而稀有的佛教書籍。去年在他協助之下，出版了我個人的第一本書：《法句經 -- 白話文版，含巴利文法分析》。這次，他接受我的邀請，再度協助編印此書，也讓此書在網路上與大家分享。
 
 以下，為我的翻譯與寫作總目錄：
 
@@ -120,43 +120,25 @@
 
 34. 〈王建偉、金暉《雜阿含經校釋》書評〉，(2016c) ， `《新加坡佛學研究學刊》 <https://www.bcs.edu.sg/research-and-library/journal/journal-archive/>`__ 3期， `65-90頁 <https://www.bcs.edu.sg/wp-content/uploads/2016/10/3.-Ken-Su-Vol-3.pdf>`__ ，新加坡佛學院，新加坡。
 
-35. 〈漢巴《一切善見律毘婆沙》的差別〉，(2018)，發表於： `@ academia.edu <https://www.academia.edu/36118271/8_%E6%BC%A2%E5%B7%B4_%E4%B8%80%E5%88%87%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99_%E7%9A%84%E5%B7%AE%E5%88%A5_pdf_2018_in_Chinese_>`__ （漢譯《善見律毘婆沙》關於《小部》的譯文 `@ 台語與佛典 <https://yifertw.blogspot.com/2018/03/blog-post_9.html>`__ ）
+35. 〈寫本與默誦---《別譯雜阿含經》的翻譯議題〉，(2019a)， `《新加坡佛學研究學刊》 <https://www.bcs.edu.sg/research-and-library/journal/journal-archive/>`__ 5期， `41-91頁 <https://www.bcs.edu.sg/wp-content/uploads/2020/07/2.-Ken-Su-Vol-5.pdf>`__ ，新加坡佛學院，新加坡。
 
-36. 〈寫本與默誦---《別譯雜阿含經》的翻譯議題〉，(2019a)， `《新加坡佛學研究學刊》 <https://www.bcs.edu.sg/research-and-library/journal/journal-archive/>`__ 5期， `41-91頁 <https://www.bcs.edu.sg/wp-content/uploads/2020/07/2.-Ken-Su-Vol-5.pdf>`__ ，新加坡佛學院，新加坡。
+36. 〈晝度樹與合歡花 --- 悼念辛島靜志教授〉，(2019b)， `《新加坡佛學研究學刊》 <https://www.bcs.edu.sg/research-and-library/journal/journal-archive/>`__ 5期， `133-135頁 <https://www.bcs.edu.sg/wp-content/uploads/2020/07/4.-Ken-Su-Vol-5.pdf>`__ ，新加坡佛學院，新加坡。
 
-37. 〈晝度樹與合歡花 --- 悼念辛島靜志教授〉，(2019b)， `《新加坡佛學研究學刊》 <https://www.bcs.edu.sg/research-and-library/journal/journal-archive/>`__ 5期， `133-135頁 <https://www.bcs.edu.sg/wp-content/uploads/2020/07/4.-Ken-Su-Vol-5.pdf>`__ ，新加坡佛學院，新加坡。
+37. Su, Ken, (2020a), ‘Notes on the Translation and Translator of the Shorter Chinese Saṃyukta-āgama (T 100)’, `Research on the Saṃyukta-āgama <http://agamaresearch.dila.edu.tw/wp-content/uploads/2013/10/Research-on-the-Sa%E1%B9%83yukta-%C4%81gama-24.07.2021-printed-published-corrected.pdf>`__ , Dhammadinnā, Bhikkhunī (ed.), pp. 843-880, DILA, New Taipei City, Taiwan.
 
-38. Su, Ken, (2020a), ‘Notes on the Translation and Translator of the Shorter Chinese Saṃyukta-āgama (T 100)’, `Research on the Saṃyukta-āgama <http://agamaresearch.dila.edu.tw/wp-content/uploads/2013/10/Research-on-the-Sa%E1%B9%83yukta-%C4%81gama-24.07.2021-printed-published-corrected.pdf>`__ , Dhammadinnā, Bhikkhunī (ed.), pp. 843-880, DILA, New Taipei City, Taiwan.
+38. 〈初期漢譯佛典疑難詞釋義(2)〉，(2020b)， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ `15期 <https://www.fuyan.org.tw/journal/fbs/fbs013.html>`__ ， `121-145頁 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol15-3.pdf>`__ (PDF)，新竹市，台灣。
 
-39. 〈初期漢譯佛典疑難詞釋義(2)〉，(2020b)， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ `15期 <https://www.fuyan.org.tw/journal/fbs/fbs013.html>`__ ， `121-145頁 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol15-3.pdf>`__ (PDF)，新竹市，台灣。
+39. 〈《大正藏》頁底註的訛誤---以第一、二冊為主〉，(2021a)， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `97期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ ， `79-109頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=11232&i=1>`__ ，南投縣，台灣。
 
-40. 〈《大正藏》頁底註的訛誤---以第一、二冊為主〉，(2021a)， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `97期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ ， `79-109頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=11232&i=1>`__ ，南投縣，台灣。
+40.〈反思辛島靜志〈說一切有部法義「篡入」法藏部《長阿含經》的漢譯《十上經》〉一文的論點〉，(2021b)， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `99期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ ， `63-126頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=11243&i=1>`__ ，南投縣，台灣。
 
-41.〈反思辛島靜志〈說一切有部法義「篡入」法藏部《長阿含經》的漢譯《十上經》〉一文的論點〉，(2021b)， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `99期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ ， `63-126頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=11243&i=1>`__ ，南投縣，台灣。
+41. 〈皇帝的生日禮物：翻譯的童話故事〉，(2022a)， `《元智全球在地文化報》79期 <https://www.ge.yzu.edu.tw/modules/news/article.php?storyid=1197>`__ ( `下載 PDF <https://www.ge.yzu.edu.tw/modules/filelist/index.php/download/get/58>`__ )，頁1，桃園市，台灣。
 
-42. 〈皇帝的生日禮物：翻譯的童話故事〉，(2022a)， `《元智全球在地文化報》79期 <https://www.ge.yzu.edu.tw/modules/news/article.php?storyid=1197>`__ ( `下載 PDF <https://www.ge.yzu.edu.tw/modules/filelist/index.php/download/get/58>`__ )，頁1，桃園市，台灣。
+42. 〈佛教與翻譯〉，(2022b)，`《元智全球在地文化報》79期 <https://www.ge.yzu.edu.tw/modules/news/article.php?storyid=1197>`__ ( `下載 PDF <https://www.ge.yzu.edu.tw/modules/filelist/index.php/download/get/58>`__ )，頁2，桃園市，台灣。
 
-43. 〈佛教與翻譯〉，(2022b)，`《元智全球在地文化報》79期 <https://www.ge.yzu.edu.tw/modules/news/article.php?storyid=1197>`__ ( `下載 PDF <https://www.ge.yzu.edu.tw/modules/filelist/index.php/download/get/58>`__ )，頁2，桃園市，台灣。
+43. 〈書評：陳世峰、紀贇翻譯《佛教文獻學十講》〉，(審稿中)。
 
-44. 〈書評：陳世峰、紀贇翻譯《佛教文獻學十講》〉，(審稿中)。
-
-45. 〈《阿毘曇八犍度論》〈偈跋渠〉與《阿毘達磨發智論》的偈頌釋譯與比較研究〉，(審稿中)。
-
-46.〈「百讚頌」（Varṇaśatam verses）：梵文、巴利與漢譯「優婆離偈頌」的異同及意涵〉，(待發表)，
-
-------
-
-研討會論文: 
-
-47. 〈藉助巴利《尼柯耶》解讀四阿含攝頌〉，(2008)，《第二屆巴利學與佛教學術研討會》，台北縣中和市，放生寺，嘉義縣南華大學協辦。（ `@ academia.edu <https://www.academia.edu/7207669/Rendering_Chinese_udd%C4%81nas_of_four_%C4%80gamas_in_the_light_of_Pali_Nik%C4%81ka_2008_in_Chinese_%E8%97%89%E5%8A%A9%E5%B7%B4%E5%88%A9%E5%B0%BC%E6%9F%AF%E8%80%B6%E8%A7%A3%E8%AE%80%E6%BC%A2%E8%AD%AF%E5%9B%9B%E9%98%BF%E5%90%AB%E7%9A%84%E6%94%9D%E9%A0%8C>`__ ）
-
-48. “Is There Another Chinese Ekottarika-āgama Translated?--Reflections on Documents other than Chinese Ancient Catalogues”, (2012), EA Workshop at Dharma-Drum Buddhist College, New-Taipei City, Taiwan.
-
-49. “Terms, Verses and Events Translated Differently by Zhu Fonian 竺佛念, A Comparative Study Based on Parallel Passages in the Chang ahan Jing (長阿含經, Taishō 1), Chuyao jing (出曜經, Taishō 212), and Sifen lü (四分律, Taishō 1428)”, (2013), DA Workshop at Dharma-Drum Buddhist College, New-Taipei City, Taiwan. (參考： `@ 台語與佛典 <https://yifertw.blogspot.com/2020/09/296.html>`__ )
-
-50. 〈《法句經》的翻譯議題與重譯偈頌〉，(2014)，《第十二屆吳越佛教學術研討會》，杭州市佛教協會，杭州佛學院協辦，中國。 （ `@ academia.edu <https://www.academia.edu/17534484/Issues_on_Chinese_Dhammapadas_translation_%E6%B3%95%E5%8F%A5%E7%B6%93%E7%9A%84%E7%BF%BB%E8%AD%AF%E8%AD%B0%E9%A1%8C%E8%88%87%E9%87%8D%E8%AD%AF%E5%81%88%E9%A0%8C_2015_In_Chinese_>`__ ）
-
-51. “Notes on the Chinese translation of the shorter Saṃyukta-āgama (T 100)”, (2018), SĀ Workshop at Buenos Aires, Argentina. （ `@ academia.edu <https://www.academia.edu/45498892/_In_English_Notes_on_the_Translation_and_the_Translator_of_the_Shorter_Chinese_Sa%E1%B9%83yukta_%C4%81gama>`__ ）
+44. 〈《阿毘曇八犍度論》〈偈跋渠〉與《阿毘達磨發智論》的偈頌釋譯與比較研究〉，(審稿中)。
 
 ------
 
@@ -231,6 +213,27 @@
 
 
 ..
+  06-30 rev. & del. 研討會論文: & 
+
+               35. 〈漢巴《一切善見律毘婆沙》的差別〉，(2018)，發表於： `@ academia.edu <https://www.academia.edu/36118271/8_%E6%BC%A2%E5%B7%B4_%E4%B8%80%E5%88%87%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99_%E7%9A%84%E5%B7%AE%E5%88%A5_pdf_2018_in_Chinese_>`__ （漢譯《善見律毘婆沙》關於《小部》的譯文 `@ 台語與佛典 <https://yifertw.blogspot.com/2018/03/blog-post_9.html>`__ ）
+
+               46.〈「百讚頌」（Varṇaśatam verses）：梵文、巴利與漢譯「優婆離偈頌」的異同及意涵〉，(待發表)
+  ------
+
+  研討會論文: 
+
+  47. 〈藉助巴利《尼柯耶》解讀四阿含攝頌〉，(2008)，《第二屆巴利學與佛教學術研討會》，台北縣中和市，放生寺，嘉義縣南華大學協辦。（ `@ academia.edu <https://www.academia.edu/7207669/Rendering_Chinese_udd%C4%81nas_of_four_%C4%80gamas_in_the_light_of_Pali_Nik%C4%81ka_2008_in_Chinese_%E8%97%89%E5%8A%A9%E5%B7%B4%E5%88%A9%E5%B0%BC%E6%9F%AF%E8%80%B6%E8%A7%A3%E8%AE%80%E6%BC%A2%E8%AD%AF%E5%9B%9B%E9%98%BF%E5%90%AB%E7%9A%84%E6%94%9D%E9%A0%8C>`__ ）
+
+  48. “Is There Another Chinese Ekottarika-āgama Translated?--Reflections on Documents other than Chinese Ancient Catalogues”, (2012), EA Workshop at Dharma-Drum Buddhist College, New-Taipei City, Taiwan.
+
+  49. “Terms, Verses and Events Translated Differently by Zhu Fonian 竺佛念, A Comparative Study Based on Parallel Passages in the Chang ahan Jing (長阿含經, Taishō 1), Chuyao jing (出曜經, Taishō 212), and Sifen lü (四分律, Taishō 1428)”, (2013), DA Workshop at Dharma-Drum Buddhist College, New-Taipei City, Taiwan. (參考： `@ 台語與佛典 <https://yifertw.blogspot.com/2020/09/296.html>`__ )
+
+  50. 〈《法句經》的翻譯議題與重譯偈頌〉，(2014)，《第十二屆吳越佛教學術研討會》，杭州市佛教協會，杭州佛學院協辦，中國。 （ `@ academia.edu <https://www.academia.edu/17534484/Issues_on_Chinese_Dhammapadas_translation_%E6%B3%95%E5%8F%A5%E7%B6%93%E7%9A%84%E7%BF%BB%E8%AD%AF%E8%AD%B0%E9%A1%8C%E8%88%87%E9%87%8D%E8%AD%AF%E5%81%88%E9%A0%8C_2015_In_Chinese_>`__ ）
+
+  51. “Notes on the Chinese translation of the shorter Saṃyukta-āgama (T 100)”, (2018), SĀ Workshop at Buenos Aires, Argentina. （ `@ academia.edu <https://www.academia.edu/45498892/_In_English_Notes_on_the_Translation_and_the_Translator_of_the_Shorter_Chinese_Sa%E1%B9%83yukta_%C4%81gama>`__ ）
+
+  ------
+
   06-29 rev.  
   06-10 rev. 〈寶唱《經律異相》所引之阿含經〉ms doc; old: 標注為 PDF
   06-05 rev. 作者簡介;   old:在無著的引薦之下，
