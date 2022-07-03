@@ -3,7 +3,7 @@
 =====================
 
 :date: 2022-06-03
-:modified: 2022-07-02
+:modified: 2022-07-03
 :tags: 蘇錦坤, 藏經閣的掃葉人, Ken Su
 :category: 蘇錦坤老師
 :summary: 蘇錦坤 老師 作品集 (Publications of Ken Su)
@@ -24,41 +24,41 @@
 
 - `前言 <{static}/extra/authors/ken-su/preface-agama-nikaya-study-ken-su.pdf>`__ 
 
-- `第一章　對照目錄的「對應經典」與「參考經典」 <{static}/extra/authors/ken-su/chap01-2016-satyabhisamaya_76-03.pdf>`__ （2022-06-05 修訂；原論文：〈試論對照目錄的「對應經典」與「參考經典」---以《中阿含》為例〉，2016b， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `76期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=3>`__ ， `105-196頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1263&i=1>`__ ，南投縣，台灣。）
+- `第一章　對照目錄的「對應經典」與「參考經典」 <{static}/extra/authors/ken-su/chap01-2016-satyabhisamaya_76-03.pdf>`__ （PDF，2022-07-02 修訂；原論文：〈試論對照目錄的「對應經典」與「參考經典」---以《中阿含》為例〉，2016b， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `76期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=3>`__ ， `105-196頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1263&i=1>`__ ，南投縣，台灣。）
 
-- `第二章　寶唱《經律異相》所引之阿含經 <{static}/extra/authors/ken-su/chap02-2007-fbs_vol2-4.pdf>`__ （2022-06-10 修訂；原論文：〈寶唱《經律異相》所引之阿含經〉───試論水野弘元教授的〈增一阿含經解說〉(Texts Quoted from Āgamas in Shi-baochang’s Jing-lü-yi-xiāng: An Investigation ito Kogen’s ‘A General Introduction on Chinese Ekottara-āgama’)，2007.4， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ `2期 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ ， `91-160頁 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol2-4.doc>`__ (ms doc)，新竹市。）
+- `第二章　寶唱《經律異相》所引之阿含經 <{static}/extra/authors/ken-su/chap02-2007-fbs_vol2-4.pdf>`__ （PDF，2022-07-02 修訂；原論文：〈寶唱《經律異相》所引之阿含經〉───試論水野弘元教授的〈增一阿含經解說〉(Texts Quoted from Āgamas in Shi-baochang’s Jing-lü-yi-xiāng: An Investigation ito Kogen’s ‘A General Introduction on Chinese Ekottara-āgama’)，2007.4， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ `2期 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ ， `91-160頁 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol2-4.doc>`__ (ms doc)，新竹市。）
 
-- `第三章　「讚佛偈」───兼論《雜阿含經》、《別譯雜阿含經》與《相應部》之異同 <{static}/extra/authors/ken-su/chap03-2014-stanza-of-praise-to-the-buddha.pdf>`__ （2022-06-14 修訂；原論文：2014， `《法鼓佛學學報》 <https://sp.dila.edu.tw/journal.htm>`__ `15期 <https://sp.dila.edu.tw/journal_list/26.htm>`__ （ `摘要 <https://sp.dila.edu.tw/journal_detail/97.htm>`__ ）， `67-108頁 <https://sp.dila.edu.tw/magazine/downloadfile/97/1.htm>`__ ，法鼓文理學院，新北市，台灣。）
+- `第三章　「讚佛偈」───兼論《雜阿含經》、《別譯雜阿含經》與《相應部》之異同 <{static}/extra/authors/ken-su/chap03-2014-stanza-of-praise-to-the-buddha.pdf>`__ （PDF，2022-07-02 修訂；原論文：2014， `《法鼓佛學學報》 <https://sp.dila.edu.tw/journal.htm>`__ `15期 <https://sp.dila.edu.tw/journal_list/26.htm>`__ （ `摘要 <https://sp.dila.edu.tw/journal_detail/97.htm>`__ ）， `67-108頁 <https://sp.dila.edu.tw/magazine/downloadfile/97/1.htm>`__ ，法鼓文理學院，新北市，台灣。）
 
-- `第四章　寫本與默誦--《別譯雜阿含經》的翻譯議題 <{static}/extra/authors/ken-su/chap04-2019-ken-su-vol-5.pdf>`__ （2022-06-14 修訂；原論文：2019a， `《新加坡佛學研究學刊》 <https://www.bcs.edu.sg/research-and-library/journal/journal-archive/>`__ 5期， `41-91頁 <https://www.bcs.edu.sg/wp-content/uploads/2020/07/2.-Ken-Su-Vol-5.pdf>`__ ，新加坡佛學院，新加坡。）
+- `第四章　寫本與默誦--《別譯雜阿含經》的翻譯議題 <{static}/extra/authors/ken-su/chap04-2019-ken-su-vol-5.pdf>`__ （PDF，2022-07-02 修訂；原論文：2019a， `《新加坡佛學研究學刊》 <https://www.bcs.edu.sg/research-and-library/journal/journal-archive/>`__ 5期， `41-91頁 <https://www.bcs.edu.sg/wp-content/uploads/2020/07/2.-Ken-Su-Vol-5.pdf>`__ ，新加坡佛學院，新加坡。）
 
-- `第五章　《雪山夜叉經》───巴利經典與漢譯經典的比較研究 <{static}/extra/authors/ken-su/chap05-2009-satyabhisamaya_48-03.pdf>`__ （2022-06-17 修訂；原論文：〈《雪山夜叉經》───巴利經典與漢譯經典對照閱讀〉，2009a， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `48期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=5>`__ ， `69-142頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1145&i=1>`__ ，南投縣。）
+- `第五章　《雪山夜叉經》───巴利經典與漢譯經典的比較研究 <{static}/extra/authors/ken-su/chap05-2009-satyabhisamaya_48-03.pdf>`__ （PDF，2022-06-17 修訂；原論文：〈《雪山夜叉經》───巴利經典與漢譯經典對照閱讀〉，2009a， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `48期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=5>`__ ， `69-142頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1145&i=1>`__ ，南投縣。）
 
-- `第六章　從後說絕───單卷本《雜阿含經》是否將偈頌譯成長行 <{static}/extra/authors/ken-su/chap06-2010-satyabhisamaya_55-01.pdf>`__ （2022-06-22 修訂；原論文：2010b， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `55期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=4>`__ ， `5-104頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1179&i=1>`__ ，南投縣。）
+- `第六章　從後說絕───單卷本《雜阿含經》是否將偈頌譯成長行 <{static}/extra/authors/ken-su/chap06-2010-satyabhisamaya_55-01.pdf>`__ （PDF，2022-06-22 修訂；原論文：2010b， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `55期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=4>`__ ， `5-104頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1179&i=1>`__ ，南投縣。）
 
-- `第七章　詮釋選自單卷本《雜阿含經》的兩部經典 <{static}/extra/authors/ken-su/chap07-2010--22.pdf>`__ 〔2022-06-22 修訂；本文 未曾發表 。但是 ，第三節 〈單卷本《雜阿含 9經》的探討 〉曾為前一論文（從後說絕───單卷本《雜阿含經》是否將偈頌譯成長行）的一章節，而略有訂正〕
+- `第七章　詮釋選自單卷本《雜阿含經》的兩部經典 <{static}/extra/authors/ken-su/chap07-2010--22.pdf>`__ 〔PDF，2022-06-24 修訂；本文 未曾發表 。但是 ，第三節 〈單卷本《雜阿含 9經》的探討 〉曾為前一論文（從後說絕───單卷本《雜阿含經》是否將偈頌譯成長行）的一章節，而略有訂正〕
 
-- `第八章　《別譯雜阿含經》攝頌的特點 <{static}/extra/authors/ken-su/chap08-2008-satyabhisamaya_45-01.pdf>`__ （2022-06-24 修訂；原論文：2008， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `45期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=5>`__ ， `5-80頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1126&i=1>`__ ，南投縣。）
+- `第八章　《別譯雜阿含經》攝頌的特點 <{static}/extra/authors/ken-su/chap08-2008-satyabhisamaya_45-01.pdf>`__ （PDF，2022-06-24 修訂；原論文：2008， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `45期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=5>`__ ， `5-80頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1126&i=1>`__ ，南投縣。）
 
-- `第九章　反思辛島靜志〈說一切有部法義「篡入」法藏部《長阿含經》的漢譯《十上經》〉一文的論點 <{static}/extra/authors/ken-su/chap09-2021-satyabhisamaya_99-02.pdf>`__ （2022-06-25 修訂；原論文：2021b， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `99期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ ， `63-126頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=11243&i=1>`__ ，南投縣，台灣。）
+- `第九章　反思辛島靜志〈說一切有部法義「篡入」法藏部《長阿含經》的漢譯《十上經》〉一文的論點 <{static}/extra/authors/ken-su/chap09-2021-satyabhisamaya_99-02.pdf>`__ （PDF，2022-06-25 修訂；原論文：2021b， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `99期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ ， `63-126頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=11243&i=1>`__ ，南投縣，台灣。）
 
-- `第十章　「百讚頌」（Varṇaśatam verses）：梵文、巴利與漢譯「優婆離頌」的異同 <{static}/extra/authors/ken-su/chap10-2022-0625-varnasatam-verses.pdf>`__ （2022-06-25，2022 **第一次發表** ） 
+- `第十章　「百讚頌」（Varṇaśatam verses）：梵文、巴利與漢譯「優婆離頌」的異同 <{static}/extra/authors/ken-su/chap10-2022-0625-varnasatam-verses.pdf>`__ （PDF，2022-06-25，2022 **第一次發表** ） 
 
-- `第十一章　《大正藏》頁底註的訛誤───以第一、二冊為主 <{static}/extra/authors/ken-su/chap11-2021-satyabhisamaya_97-02.pdf>`__ （2022-06-25 修訂；原論文：2021a， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `97期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ ， `79-109頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=11232&i=1>`__ ，南投縣，台灣。）
+- `第十一章　《大正藏》頁底註的訛誤───以第一、二冊為主 <{static}/extra/authors/ken-su/chap11-2021-satyabhisamaya_97-02.pdf>`__ （PDF，2022-06-25 修訂；原論文：2021a， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `97期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ ， `79-109頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=11232&i=1>`__ ，南投縣，台灣。）
 
-- `第十二章　菩提比丘：《中部》閱讀地圖 <{static}/extra/authors/ken-su/chap12-2011-maps-mn-bodhi.pdf>`__ （2022-06-26 修訂；初稿 2011，本文不曾於期刊發表，雖曾以「菩提比丘：《中阿含》(《中部》尼柯耶)閱讀地圖」為題，在「 `台語與佛典 <https://yifertw.blogspot.com/>`__ 」部落格（ `2014年6月7日 星期六 <https://yifertw.blogspot.com/2014/06/blog-post_7.html>`__ ）貼出，但是貼文錯誤頗多。本篇原為英文「教學大綱」。 `@ 府城佛教網 <https://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/>`__ ）
+- `第十二章　菩提比丘：《中部》閱讀地圖 <{static}/extra/authors/ken-su/chap12-2011-maps-mn-bodhi.pdf>`__ （PDF，2022-06-26 修訂；初稿 2011，本文不曾於期刊發表，雖曾以「菩提比丘：《中阿含》(《中部》尼柯耶)閱讀地圖」為題，在「 `台語與佛典 <https://yifertw.blogspot.com/>`__ 」部落格（ `2014年6月7日 星期六 <https://yifertw.blogspot.com/2014/06/blog-post_7.html>`__ ）貼出，但是貼文錯誤頗多。本篇原為英文「教學大綱」。 `@ 府城佛教網 <https://nanda.online-dhamma.net/tipitaka/sutta/majjhima/maps-MN-Bodhi/>`__ ）
 
-- `第十三章　初期漢譯佛典「一詞多譯」現象的探討及省思 <{static}/extra/authors/ken-su/chap13-2016-fbs_vol11-4.pdf>`__ （2022-06-25 修訂；原論文：2016d ， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ `11期 <https://www.fuyan.org.tw/journal/fbs/fbs013.html>`__ ， `75-116頁 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol11-4.pdf>`__ (PDF)，新竹市，台灣 。）
+- `第十三章　初期漢譯佛典「一詞多譯」現象的探討及省思 <{static}/extra/authors/ken-su/chap13-2016-fbs_vol11-4.pdf>`__ （PDF，2022-06-28 修訂；原論文：2016d ， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ `11期 <https://www.fuyan.org.tw/journal/fbs/fbs013.html>`__ ， `75-116頁 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol11-4.pdf>`__ (PDF)，新竹市，台灣 。）
 
-- `第十四章　書評：王建偉、金暉《雜阿含經校釋》 <{static}/extra/authors/ken-su/chap14-2016-3-ken-su-vol-3.pdf>`__ （2022-06-29 修訂；原論文：2016c， `《新加坡佛學研究學刊》 <https://www.bcs.edu.sg/research-and-library/journal/journal-archive/>`__ 3期， `65-90頁 <https://www.bcs.edu.sg/wp-content/uploads/2016/10/3.-Ken-Su-Vol-3.pdf>`__ ，新加坡佛學院，新加坡。
+- `第十四章　書評：王建偉、金暉《雜阿含經校釋》 <{static}/extra/authors/ken-su/chap14-2016-3-ken-su-vol-3.pdf>`__ （PDF，2022-06-29 修訂；原論文：2016c， `《新加坡佛學研究學刊》 <https://www.bcs.edu.sg/research-and-library/journal/journal-archive/>`__ 3期， `65-90頁 <https://www.bcs.edu.sg/wp-content/uploads/2016/10/3.-Ken-Su-Vol-3.pdf>`__ ，新加坡佛學院，新加坡。
 
-- `第十五章　漢譯《善見律毘婆沙》與巴利《一切善見律註》 <{static}/extra/authors/ken-su/chap15-2018-sp-han-pa.pdf>`__ （2022-06-30，2022 **第一次發表** ）
+- `第十五章　漢譯《善見律毘婆沙》與巴利《一切善見律註》 <{static}/extra/authors/ken-su/chap15-2018-sp-han-pa.pdf>`__ （PDF，2022-07-02，2022 **第一次發表** ）
 
-- `第十六章　寫在「漢譯佛典文獻學」講座之前 <{static}/extra/authors/ken-su/chap16-preface-philology-chinese-buddhist-translations.pdf>`__ 
+- `第十六章　寫在「漢譯佛典文獻學」講座之前 <{static}/extra/authors/ken-su/chap16-preface-philology-chinese-buddhist-translations.pdf>`__ （PDF，2022-06-17）
 
-- `編後語 <{filename}ken-su-postscript-agama-nikaya-study%zh.rst>`__ （ `PDF <{static}/extra/authors/ken-su/postscript-agama-nikaya-study-ken-su.pdf>`__ ，2022-06-30 修訂）
+- `編後語 <{filename}ken-su-postscript-agama-nikaya-study%zh.rst>`__ （ `PDF <{static}/extra/authors/ken-su/postscript-agama-nikaya-study-ken-su.pdf>`__ ，2022-06-29 修訂）
 
-- 參考書目
+- `參考書目 <{static}/extra/authors/ken-su/referrence-comparison_study_between_agama_nikaya.pdf>`__ （PDF，2022-07-03）
 
 ------
 
@@ -102,6 +102,7 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
+  07-03 add: 參考書目; rev. chap01, 02, 03, 04, 15
   07-02 add: 前言; rev: recovery of 第十六章　寫在「漢譯佛典文獻學」講座之前; - 索引
   06-30 rev: correct the linking of chap. 15; 編後語 & 漢譯《善見律毘婆沙》與巴利《一切善見律註》(刪 發表於： @ academia.edu （漢譯《善見律毘婆沙》關於《小部》的譯文 @ 台語與佛典 )
   06-29 add: 第十四章　書評：王建偉、金暉《雜阿含經校釋》、第十五章 漢譯《善見律毘婆沙》與巴利《一切善見律註》的差別(without pdf); rev. 編後語
