@@ -3,7 +3,7 @@
 =====================
 
 :date: 2022-06-03
-:modified: 2022-07-03
+:modified: 2022-07-05
 :tags: 蘇錦坤, 藏經閣的掃葉人, Ken Su
 :category: 蘇錦坤老師
 :summary: 蘇錦坤 老師 作品集 (Publications of Ken Su)
@@ -22,7 +22,7 @@
 「阿含、尼柯耶」比較研究論文選集
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- `前言 <{static}/extra/authors/ken-su/preface-agama-nikaya-study-ken-su.pdf>`__ 
+- `前言 <{static}/extra/authors/ken-su/preface-agama-nikaya-study-ken-su.pdf>`__ （PDF，2022-07-04） 
 
 - `第一章　對照目錄的「對應經典」與「參考經典」 <{static}/extra/authors/ken-su/chap01-2016-satyabhisamaya_76-03.pdf>`__ （PDF，2022-07-02 修訂；原論文：〈試論對照目錄的「對應經典」與「參考經典」---以《中阿含》為例〉，2016b， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `76期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=3>`__ ， `105-196頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1263&i=1>`__ ，南投縣，台灣。）
 
@@ -56,7 +56,9 @@
 
 - `第十六章　寫在「漢譯佛典文獻學」講座之前 <{static}/extra/authors/ken-su/chap16-preface-philology-chinese-buddhist-translations.pdf>`__ （PDF，2022-06-17）
 
-- `編後語 <{filename}ken-su-postscript-agama-nikaya-study%zh.rst>`__ （ `PDF <{static}/extra/authors/ken-su/postscript-agama-nikaya-study-ken-su.pdf>`__ ，2022-06-29 修訂）
+- `出版絮語 <{static}/extra/authors/ken-su/publication-assist-note.pdf>`__ （PDF，2022-07-04）
+
+- `編後語 <{filename}ken-su-postscript-agama-nikaya-study%zh.rst>`__ （ `PDF <{static}/extra/authors/ken-su/postscript-agama-nikaya-study-ken-su.pdf>`__ ，2022-07-04 修訂）
 
 - `參考書目 <{static}/extra/authors/ken-su/referrence-comparison_study_between_agama_nikaya.pdf>`__ （PDF，2022-07-03）
 
@@ -102,6 +104,7 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
+  07-05 add: 出版絮語; rev. 前言, 編後語 & 第十六章　寫在「漢譯佛典文獻學」講座之前
   07-03 add: 參考書目; rev. chap01, 02, 03, 04, 15
   07-02 add: 前言; rev: recovery of 第十六章　寫在「漢譯佛典文獻學」講座之前; - 索引
   06-30 rev: correct the linking of chap. 15; 編後語 & 漢譯《善見律毘婆沙》與巴利《一切善見律註》(刪 發表於： @ academia.edu （漢譯《善見律毘婆沙》關於《小部》的譯文 @ 台語與佛典 )
