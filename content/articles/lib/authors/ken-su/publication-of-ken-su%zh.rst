@@ -56,7 +56,7 @@
 
 - `第十六章　寫在「漢譯佛典文獻學」講座之前 <{static}/extra/authors/ken-su/chap16-preface-philology-chinese-buddhist-translations.pdf>`__ （PDF，2022-06-17）
 
-- `出版絮語 <{static}/extra/authors/ken-su/publication-assist-note.pdf>`__ （PDF，2022-07-04）
+- `出版絮語 <{static}/extra/authors/ken-su/publication-assist-note.pdf>`__ （PDF，2022-07-05）
 
 - `編後語 <{filename}ken-su-postscript-agama-nikaya-study%zh.rst>`__ （ `PDF <{static}/extra/authors/ken-su/postscript-agama-nikaya-study-ken-su.pdf>`__ ，2022-07-04 修訂）
 
@@ -104,7 +104,7 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
-  07-05 rev. the attribute of all PDF files; add: 出版絮語; rev. 前言, 編後語 & 第十六章　寫在「漢譯佛典文獻學」講座之前
+  07-05 del. the names of Dhamma friends; rev. the attribute of all PDF files; add: 出版絮語; rev. 前言, 編後語 & 第十六章　寫在「漢譯佛典文獻學」講座之前
   07-03 add: 參考書目; rev. chap01, 02, 03, 04, 15
   07-02 add: 前言; rev: recovery of 第十六章　寫在「漢譯佛典文獻學」講座之前; - 索引
   06-30 rev: correct the linking of chap. 15; 編後語 & 漢譯《善見律毘婆沙》與巴利《一切善見律註》(刪 發表於： @ academia.edu （漢譯《善見律毘婆沙》關於《小部》的譯文 @ 台語與佛典 )
