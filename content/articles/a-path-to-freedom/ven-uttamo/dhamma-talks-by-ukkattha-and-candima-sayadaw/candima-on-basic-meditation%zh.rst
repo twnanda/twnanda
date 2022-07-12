@@ -3,7 +3,7 @@ On Basic Meditation [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ====================================================================
 
 :date: 2022-02-13
-:modified: 2022-04-22
+:modified: 2022-07-12
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: On Basic Meditation (Dhamma Talks by Sayadaw U Candima)
@@ -52,7 +52,7 @@ This is passambhaya-kāyasaṅkhāra—from strong breathing to become lighter. 
 
 You can also breathe ānāpāna slowly or lightly. Here I’ll show you the method which is not slow, and fast, not soft, and strong breathing. You use this method or not up to you (i.e., his system). Why I allow this, you will understand it by practicing. You’ll know later how to practice is the best way. Now, you have to practice with the method you prefer.
 
-The four great elements change, and when you encounter dukkha vedanā you don’t allow changing your postures, either moving or lifting your limbs. Why I don’t allow it will explain the reason during the practice. Now, we start with an hour sitting for each sitting, and later with two hours for each sitting. With The-inn Gu method we practice ānāpāna for three or four days (U Ba Khin’s method also the same, but they are 10 days' retreat. Here is nine days’ retreat.) After that you don’t use it, not practice ānāpāna for nine days. From then onwards, we practice for two hours each sitting. If dukkha vedanā arises, moving, lifting and correcting the body is not allowed in this center. I’ll explain why the reason is. I will show only what is necessary in the practice. Another point is there are no two ways, and only one way, you’ll also know about it. Samatha-yānika and vipassanā-yānika are only ways (i.e., as the Noble Eightfold Path). There are no two methods, and you can learn about them through practice (i.e., samatha-based or insight-based). 
+The four great elements change, and when you encounter dukkha vedanā you don’t allow changing your postures, either moving or lifting your limbs. Why I don’t allow it will explain the reason during the practice. Now, we start with an hour sitting for each sitting, and later with two hours for each sitting. With The-inn Gu method we practice ānāpāna for three or four days (U Ba Khin’s method also the same, but they are 10 days' retreat. Here is nine days’ retreat.) After that you don’t use it, not practice ānāpāna for nine days. From then onwards, we practice for two hours each sitting. If dukkha vedanā arises, moving, lifting and correcting the body is not allowed in this center. I’ll explain why the reason is. I will show only what is necessary in the practice. Another point is there are no two ways, and only one way, you’ll also know about it. Samatha-yānika and vipassanā-yānika have only one way (i.e., as the Noble Eightfold Path).
 
 Yogis who want to practice with my method there are rules have to be followed—
 
@@ -74,7 +74,7 @@ If you are correcting, and lifting the body during the designated determination 
 
 ------
 
-revised on 2022-04-22
+revised on 2022-07-12
 
 ------
 
@@ -89,5 +89,6 @@ revised on 2022-04-22
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   2022-02-13 create rst

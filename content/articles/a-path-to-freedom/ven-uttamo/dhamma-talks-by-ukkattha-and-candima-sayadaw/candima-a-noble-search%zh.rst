@@ -3,7 +3,7 @@ A Noble Search [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ===============================================================
 
 :date: 2022-02-13
-:modified: 2022-04-22
+:modified: 2022-07-12
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Noble Search (Dhamma Talks by Sayadaw U Candima)
@@ -12,7 +12,7 @@ Sayadaw U Candima (Sandima, 1951- )
 
 I entered the Buddhist order near the end of 1975. I did the practice for over a year, and attained the path of stream entry. Only after 20 years the head monk of Suddhamma Sect Sayadaw, and Thom-pho Sayadaw were questioned on my practice. This happened at Nyaung-don Pariyatti Vihāra during the monk ordination ceremony. 
 
-(There are two major Buddhist sects in Burma—the oldest, and largest is the Suddhamma sect, followed by the Shwe-kin, and other smaller sects.)  
+(There are two major Buddhist sects in Burma—the oldest, and largest is the Suddhamma sect, followed by the Shwe-kyin, and other smaller sects.)  
 
 I started my Dhamma teaching from there. At that place I gave only one talk there. The 2nd time was at Tonn-tay, Kyauk-pa-daung Pariyatti Vihāra. There I taught the monks and nuns (Burmese as sīla—shin, Thai as mei-chee) for 14 days. Actually it was a ten days retreat, but it took 14 days. 
 
@@ -100,11 +100,11 @@ Even though I had the perfection I did not think about to become a monk, it was 
 
 I thought their lives were too dry and boring, and only they could bear it. Anyhow, I myself now am a monk. When I was continuing my study (maybe in university) one day my elder sister, and uncle, not giving any reason, took me somewhere for ordination (This was arranged by his parents. Sayadaw himself also did not mention very clearly the reason behind the ordination.) They were afraid of me that not telling anything about it to me. My character is never talking, and doing things which are not right. So they were afraid of asking me to ordain by force. From Saketa (the town where his uncle lived) they brought me to Mingaladon (this is the place where the international airport exists, not far from Rangoon, and Maw-be) by car. At Munpye-yanpye Pagoda (it means free from Mara, and enemy) there was a nine days retreat of The-inn Gu meditation for the temporary ordained monks.
 
-(Here the working of kamma was quite interesting. He learned ānāpānasati from his great uncle monk who was a teacher of Mogok tradition. Except samatha practice he did not learn any important Dhammas from him for the Four Noble Truths, paṭiccasamuppāda, vipassanā, etc. He also did not have any interest in Mogok Dhamma. His knowledge of practice was zero, and he encountered many difficulties in his practice. It seemed to me he had a strong kammic link with The-inn Gu Sayadaw. It makes me remember one of Ajahn Chah’s disciples—Ajahn P. He was from Bangkok, and after graduation in Thailand he continued his further study in the U.S. One day on his meditation there he saw a senior monk in his practice, and he did not know who the monk was. 
+(Here the working of kamma was quite interesting. He learned ānāpānasati from his great uncle monk who was a teacher of Mogok tradition. Except samatha practice he did not learn any important Dhammas from him for the Four Noble Truths, paṭiccasamuppāda, vipassanā, etc. He also did not have any interest in Mogok Dhamma. His knowledge of practice was zero, and he encountered many difficulties in his practice. It seemed to me he had a strong kammic link with The-inn Gu Sayadaw. It makes me remember one of Ajahn Chah’s disciples—Ajahn P. He was from Bangkok, and after graduation in Thailand he continued his further study in the U.S. One day in his meditation there he saw a senior monk in his practice, and he did not know who the monk was. 
 
 He came back to Thailand, and was looking for this monk. He was looking for him in the well known Thai forest tradition of Ajahn Mun’s senior disciples—such as Ajahn Fung, Ajahn Wen, Ajahn Chop, etc. Later he found Ajahn Chah who was the monk who appeared in his meditation. He became Ajahn Chah’s disciple, and because of his samādhi had a monastery in Bangkok at a noisy area near Don Muang international airport. Therefore, everyone has their own teacher of kammic link.)
 
-So they took me to Kammaṭṭhāna teacher U Siyama who was The-inn Gu Sayadaw’s disciple. They did not even tell me a word of the purpose of taking me here. When we arrived there, my parents were waiting for us. There was also a pavilion for monk ordination with new monk robes inside. I was speaking with Sayadaw, and later my mother called me to have my lunch, and to take a bath. 
+So they took me to Kammaṭṭhāna teacher U Siridhamma who was The-inn Gu Sayadaw’s disciple. They did not even tell me a word of the purpose of taking me here. When we arrived there, my parents were waiting for us. There was also a pavilion for monk ordination with new monk robes inside. I was speaking with Sayadaw, and later my mother called me to have my lunch, and to take a bath. 
 
 When I was preparing for a bath, my mother told me to wash my head first. When I was sitting with my bowed head, mother poured water on my head, and then cut my head hair with the scissors. After two or three times of cutting, the middle part of the hairs were gone. It made me angry, but to my mother I couldn’t say anything about it, if another person I could kill him. (Here we can see his dosa character which is tough and determined.) 
 
@@ -182,7 +182,7 @@ I only remember one Dhamma, which is whether you want to know if you are enlight
 
 I only understood this one. The other things are the five khandhas, etc. I did not know anything about them. “In the practice, the normal knowing of seeing man, and knowing as man, seeing dog, and knowing as dog; it’s not the realization yet; but if you are seeing man, and not knowing as man, seeing dog, and not knowing as dog is the realization.” I only knew this one, and this was a manual Dhamma for me. Now I have attained the Dhamma with this one as my manual. 
 
-The teachers taught the students as—“noting the hotness, stiffness, and tenseness as vedanā, and continue to observe them.” Then I want to ask my teacher; “Ven. Sir, should I note the hotness, stiffness, tenseness as vedanā?” He said to me; “Yes, it’s” Then I noted them as —hotness is vedanā, stiffness is vedanā, vedanā, vedanā, etc. When I checked it I only knew hotness, stiffness, and aches, and pain, but didn’t know vedanā (i.e., get lost in words, and concepts). There was an old nun who looked after me. Her name was Daw Mittara, she herself also was a teacher (it seemed teaching the nuns, and laywomen). 
+The teachers taught the students as—“noting the hotness, stiffness, and tenseness as vedanā, and continue to observe them.” Then I went to ask my teacher; “Ven. Sir, should I note the hotness, stiffness, tenseness as vedanā?” He said to me; “Yes, it’s” Then I noted them as —hotness is vedanā, stiffness is vedanā, vedanā, vedanā, etc. When I checked it I only knew hotness, stiffness, and aches, and pain, but didn’t know vedanā (i.e., get lost in words, and concepts). There was an old nun who looked after me. Her name was Daw Mittara, she herself also was a teacher (it seemed teaching the nuns, and laywomen). 
 
 At night, I went to ask her my problem. Then I asked her; “Sayalay, when I practice, note the hotness, stiffness, and tenseness as vedanās, but I don’t know about vedanā. I only know hotness, stiffness, and aches only. How should I practice knowing vedanā?” (Sayadaw did not continue to talk about how the Mae-chee Daw Mittara responded to him. He stopped here. I guess Daw Mittara would answer the same as his teacher had said before. Sayalay is the Burmese word for teacher and is the name given to nuns by monks and lay alike.)
 
@@ -214,7 +214,7 @@ From then onwards from midday 12 p.m. to nighttime 7 p.m. I did one sitting. I d
 
 (In one of Mogok Talks—it mentioned yogis should practice with saṁvega, chanda, and māna for attaining of Dhamma)
 
-The practice and progress did not match, and all that remained was pain and soreness every day. It took me a long time, but I didn't get to exist. I tried to run away from vedanā with only a short time, and fell back into it. Only with ānāpāna practice, I freed myself from it; and without it, I became unpleasant again. I was not freed from dukkha. How should I practice this Dhamma? And then I was praying for the Buddha. 
+The practice and progress did not match, and all that remained was pain and soreness every day. It took me a long time, but I didn't find the exist. I tried to run away from vedanā with only a short time, and fell back into it. Only with ānāpāna practice, I freed myself from it; and without it, I became unpleasant again. I was not freed from dukkha. How should I practice this Dhamma? And then I was praying for the Buddha. 
 
 I could not rely on my teacher; so I prayed to the Buddha, but he did not teach me. I was afraid of the four woeful existences (apāya). Fear of ageing, sickness, and death sufferings was also this mind. The female boss Visākhā, and Anāthapiṇḍika boss became stream winners (sotāpanna), and enjoyed the sensual pleasure in havens, they were also in this mind. This mind was changing in various ways to express its nature—which I became understanding of. It was arriving at insight. When doing the practice, I didn’t get what one’s desire was, and thinking as follows. 
 
@@ -350,7 +350,7 @@ The ignorance of concepts was ceased (i.e, avijjā paññatti), and became knowl
 
 It was expressing its form (rūpa) characteristics, with its own nature and changing (anicca). From the ignorant perception (avijjā saññā) it changed into wisdom knowledge (vijjā paññā). Form was changing, and the mind gave the paramatā perception. 
 
-It simply changed from avijjā paññā to vijjā paññā. It couldn’t kill the khandhas yet it was the five khandhas changing into paramatā sense objects. The dhamma of hotness, coldness, etc. which I was talking about by using the concepts in reality it was changing and vanishing. I was not naming it with concepts. If a paramatā dhamma arose, and the mind knew it. And the mind changed. I didn’t give the concept of the form paramatā. Every time form arises, the mind knows it. It was not form, and it must be the mind (i.e., nāma—name) nāma-dhamma, because the mind knowing the paramatā has ceased. Why every time it was arising and knowing it? What was this? The mind was changing in stages. Before, I was seeing the form (rūpa) with the aggregate of perception (saññākkhandha). Knowing that each changing of form was not my knowing and not me. The mind stayed with the element (form) which was arising, on the right knee the form of aches arose. 
+It simply changed from avijjā saññā to vijjā paññā. It couldn’t kill the five khandhas yet it was the five khandhas changing into paramatā sense objects. The dhamma of hotness, coldness, etc. which I was talking about by using the concepts in reality it was changing and vanishing. I was not naming it with concepts. If a paramatā dhamma arose, and the mind knew it. And the mind changed. I didn’t give the concept of the form paramatā. Every time form arises, the mind knows it. It was not form, and it must be the mind (i.e., nāma—name) nāma-dhamma, because the mind knowing the paramatā has ceased. Why every time it was arising and knowing it? What was this? The mind was changing in stages. Before, I was seeing the form (rūpa) with the aggregate of perception (saññākkhandha). Knowing that each changing of form was not my knowing and not me. The mind stayed with the element (form) which was arising, on the right knee the form of aches arose. 
 
 I had mindfulness on it, from here who was the one changing to another form? What did it mean? I was observing it with the desired knowledge. Every time form arising, I was catching it with mindfulness (i.e., hotness, coldness, tenseness, etc.) 
 
@@ -484,7 +484,7 @@ Sati is the result dhamma. At the time of the cessation of mental states (factor
 
 I was not entering the steam yet (i.e., sotāpatti magga). It was near of entering the path. My teacher came back from the toilet, and opening the door, it was making the sound of chwee! And I regained my sati. When the mind arose in contact with the sound and the ear, sati cut it off at this moment. This was entering the stream. Before this mind was wanting to contemplate, to know, and to desire. What was sticking with the mind? 
 
-The I-ness of diṭṭhi-taṇhā-māna was sticking with the mind. The mind came to overwhelm sati before and it was now in cessation. So this sati was left behind as an object of contemplation. Now this ownerless sati was with the cause ceased Now this ownerless sati with the cause ceased, and became the resulted anatta sati (not-self mindfulness) which didn’t have a person, a being or me.  The mind clinging to the result of the cause as my khandha was arising this loneliness of sati discerned the identity view of atta and craving (diṭṭhi-taṇhā). Here is the cessation of the five khandhas when the object and contemplative mind were freed from atta.
+The I-ness of diṭṭhi-taṇhā-māna was sticking with the mind. The mind came to overwhelm sati before and it was now in cessation. So this sati was left behind as an object of contemplation. Now this ownerless sati with the cause ceased, and became the resulted anatta sati (not-self mindfulness) which didn’t have a person, a being or me.  The mind clinging to the result of the cause as my khandha was arising this loneliness of sati discerned the identity view of atta and craving (diṭṭhi-taṇhā). Here is the cessation of the five khandhas when the object and contemplative mind were freed from atta.
 
 (This talk was the 3rd time he gave to the public after over 20 years of his attainment. So his talk here is not very smooth, also sometimes very fast. 
 
@@ -492,13 +492,11 @@ Later his talks were better, and better. Sometimes he was using long sentences, 
 
 When I was seeing the offender, and making this exclamation; “You are the offender. In the whole round of existence (saṃsāra) I have been riding on you.” When you have cars, you all are using it. Without cars, you can’t go anywhere. Now it was the same way. The wanting atta-taṇhā was desiring for Nibbāna. It was afraid of woeful existences (apāyas). It had a desire for the khandha, and also wanting to be freed from it. This mind was happening in various ways. Now it had no place to stay, and came to cessation. Sati was under the power of the mind. Now sati was seeing the mind as atta again, and it has ceased. 
 
-(Here is misusing the words as seeing the mind as atta again, it should be designated to the khandhas as atta.) 
-
 This was entering the stream (sotāpatti magga). With the entrance of the path, I had the sense of satisfaction. This moving mind which wanted to contemplate for freedom was seeing by sati, and it couldn’t control the atta khandha (Khandha by itself is not atta, but the mind takes it as atta). The bhavaṅga was vibrating and peaceful like put down a burdened load, and becoming clear. The vibration of bhavaṅga meant in the whole round of existence was carrying this heavy load with wrong perception, wrong knowing, and wrong view to my khandha was fallen away. 
 
 (In this full talk, U Chandima was suing a lot of Pāḷi words of the suttas, and abhidhamma was unusual. It seems to me it came from his study of some of the suttas, and abhidhamma. According to him before, and during the practice he didn’t know anything about them even the vipassanā practice. Soon Loon Sayadaw’s Dhamma talks were always simple Burmese, and couldn’t use the Pāḷi word.)
 
-Carrying this heavy load in human life I couldn’t never put it down. (?? Carrying this burden in human life, I could not put it down forever. ??) Now, this heavy load was successfully thrown over the cliff, and became light, and gave me the sense of satisfaction. It would never cling to this khandha as me, and mine again. The heavy burden fell away, and there was happiness. And the bhavaṅga was with vibrations—such as, vibrating with coolness, vibrating with coolness, etc. 
+Carrying this burden in human life, I could not put it down forever. Now, this heavy load was successfully thrown over the cliff, and became light, and gave me the sense of satisfaction. It would never cling to this khandha as me, and mine again. The heavy burden fell away, and there was happiness. And the bhavaṅga was with vibrations—such as, vibrating with coolness, vibrating with coolness, etc. 
 
 This was the experience of fruition states. It was existing as a fruition mind which freed from the fire of sorrow, lamentation, etc. After that I got up from sitting. 
 
@@ -533,7 +531,7 @@ There is a saying in Zen (Chan) tradition—before the practice river is river, 
 
 ------
 
-revised on 2022-04-22
+revised on 2022-07-12
 
 ------
 
@@ -548,5 +546,6 @@ revised on 2022-04-22
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   2022-02-13 create rst

@@ -3,7 +3,7 @@ Pain and Samādhi [Dhamma Talks by Sayadaw U Candima (Sandima)]
 =================================================================
 
 :date: 2022-02-13
-:modified: 2022-04-22
+:modified: 2022-07-12
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Pain and Samādhi (Dhamma Talks by Sayadaw U Candima)
@@ -32,9 +32,9 @@ Khandha will be disturbed, oppressed by change, then the mind will incline towar
 
 With no reflection on cause, and effect the worldling will react according to their habitual tendency. They will correct it for comfort. The desire for comfort is abhijjhā, unbearable to pain is dosa, not knowing the nature of mind and form is moha. They meet abhijjhā, domanassa and moha in the same situation. Therefore, meditation is a way to free the mind that is under the control of these defilements by removing them. This is the first thing you have to do.
 
-Do I have the method and system? Meditation objects, and the focal points are different, but when the khandha elements are deformed the mind goes to focus at oppressed places are the same. The mind has to leave the vedanā, and must stay with the original object. This was in the textbook (suttas). You shouldn’t pay attention to vedanā. (vedanā vikkhambhitava-vedanā amanasikāra = suppress and not pay attention to feeling) Do you not suffer by paying attention to pain, aches and numbness? Does the text ask you to correct your body or not pay attention to vedanā? Noting them as pain, pain; vedanā, anicca, dukkha and anatta—doesn’t it become worse? After that, you want to correct it by lifting and changing the body. I’ll explain each one of them.
+Do I have the method and system? Meditation objects, and the focal points are different, but when the khandha elements are disturbed the mind goes to focus at oppressed places are the same. The mind has to leave the vedanā, and must stay with the original object. This was in the textbook (suttas). You shouldn’t pay attention to vedanā. (vedanā vikkhambhitava-vedanā amanasikāra = suppress and not pay attention to feeling) Do you not suffer by paying attention to pain, aches and numbness? Does the text ask you to correct your body or not pay attention to vedanā? Noting them as pain, pain; vedanā, anicca, dukkha and anatta—doesn’t it become worse? After that, you want to correct it by lifting and changing the body. I’ll explain each one of them.
 
-Vedanā-vikkhambhitava—suppress feeling; vedanā-amanasikāra—not pay attention to feeling, after that, keep the mind on the primary meditation object. With the meditation objects on the tip of head, rising and falling of abdomen, etc. When dukkha vedanā arises could you keep the mind there? For example, with ānāpāna meditation even though you send it (the mind) back to the tip of the nostril it goes down again (vedanā pulls the mind down to its place). Therefore, dealing with the encountered dukkha vedanā is Dhamma practice. Except it, do you have anything to practice? There are no two ways or three ways in practice, it’s only one. 
+Vedanā-vikkhambhitava—suppress feeling; vedanā-amanasikāra—not pay attention to feeling, after that, keep the mind on the primary meditation object. With the meditation objects on the top of head, rising and falling of abdomen, etc. When dukkha vedanā arises could you keep the mind there? For example, with ānāpāna meditation even though you send it (the mind) back to the tip of the nostril it goes down again (vedanā pulls the mind down to its place). Therefore, dealing with the encountered dukkha vedanā is Dhamma practice. Except it, do you have anything to practice? There are no two ways or three ways in practice, it’s only one. 
 
 Here, there are two differences between samatha based and insight based (samatha, and vipassanā yānikas) practices. There is only one kind to practice in this place. With regard to Dhamma practice if we look at the Āsīvisopama Sutta—the simile of the vipers, practicing with whatever system Dhamma is only one (see Āsīvisopama Sutta in Saḷāyatana-saṃyutta, Saṃyutta Nikāya). A criminal was sent to the king, and he did not punish him by himself. So the king ordered the criminal to look after the four snakes (viper snakes). Therefore, the criminal looked after and fed them every day. He was happy with the snakes. But a friend of his wanting him to survive said—If bitten by one of the snakes the body would become stiff and tight like a piece of wood. If bitten by another one, the body would become swollen and putrid; bitten by another the body would become black like a charcoal, and if bitten by the last one the body would fall apart into pieces. What the criminal should do was leave them behind, and run away for his life. As he was running away, the four snakes chased him from behind. He was running with all of his strength that they could not follow him to some distance.
 
@@ -136,7 +136,7 @@ Here again we can see the wisdom of the Buddha, and he arranged the path factors
 
 ------
 
-revised on 2022-04-22
+revised on 2022-07-12
 
 ------
 
@@ -151,7 +151,6 @@ revised on 2022-04-22
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   2022-02-13 create rst
-
-  Here again we can see the wisdom of the Buddha, and he arranged the path factors in a very systematic way. Without the right view and thinking or thought, we cannot have the right sīla and samādhi. (?? We cannot have correct sīla and samādhi without correct views and thinking or thoughts.  ?) Therefore, before the actual practice learning or listening or study Dhamma is very significant. (?? Therefore, it is very significant to learn or listen to or study Dhamma before actually practicing it. ??) Mogok Sayadaw's Dhamma talks are for this purpose. In this arrangement, we also see the importance of samādhi. Only we can develop the right samādhi and can develop insight.

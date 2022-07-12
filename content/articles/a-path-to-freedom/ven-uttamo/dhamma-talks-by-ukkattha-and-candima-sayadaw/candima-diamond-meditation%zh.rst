@@ -3,14 +3,14 @@ Diamond Meditation [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ===================================================================
 
 :date: 2022-02-13
-:modified: 2022-04-27
+:modified: 2022-07-12
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Diamond Meditation (Dhamma Talks by Sayadaw U Candima)
 
 [ This is a two hours sitting meditation talk by Sayadaw. He called this vipassanā practice as bodhisatta kammaṭṭhāna or Mahāpallaṅka method or Diamond Throne method. Bodhisatta Siddhattha sat under a bodhi tree and attained enlightenment in one sitting. Burmese Buddhists give the name to the place where the Buddha’s enlightenment as Mahapallin (Mahāpallaṅka) or Diamond Throne. Sayadaw called it as diamond throne method because with determination or resolution (adhiṭṭhāna) in one sitting kill or abandon taṇhā kilesa. In one of his talks he mentioned it as the only way to expose taṇhā quickly. 
 
-I did not transcribe the whole talk, but only the important points. The Practice also quite simple. Yogis who develop samādhi with ānāpāna-sati can do this practice. After the successful purification of the mind (cittavisuddhi) or jhāna samādhi, continuing with Mahāpallaṅka meditation, one can bear dukkha vedanā.
+I did not transcribe the whole talk, but only the important points. The Practice is also quite simple. Yogis who develop samādhi with ānāpāna-sati can do this practice. After the successful purification of the mind (cittavisuddhi) or jhāna samādhi, continuing with Mahāpallaṅka meditation, one can bear dukkha vedanā.
 
 Sitting with the body in relaxation. Without any tension and control to the body. Mind and body are in relaxation. You should not have any concern for the body. The mind has to be at rest and free. Empty the mind out and just pure awareness. Whatever is happening to the mind and body,  just be aware of it without any state of intervention. If vedanā arises on the body, don’t go and look at it. The physical body doesn’t have craving (taṇhā) which is happening in the mind. So only look at the mind. Whatever mind state arises, look at them.
 
@@ -30,7 +30,7 @@ You adjust your indriya as originally (ending the meditation with equanimity). H
 Some Reflections
 ~~~~~~~~~~~~~~~~~
 
-With the knowledge of abhidhamma teaching the mind process in meditation is more clear. In Sayadaw’s talks on practice, it is very rare to talk about impermanence only the mind states and their changing process. (It was the same in Thae Inn Gu Sayadaw’s talks). It does not mean that the three universal characteristics are not important. It was mentioned by the Buddha very often in practice. In Mogok Sayadaw’s talks also we find a lot of them. Its importance is we can see very clear if we put it into the 12 links of paṭiccasamuppāda (see many talks by Mogok Sayadawji).
+With the knowledge of abhidhamma teaching, the mind process in meditation is becoming clear. In Sayadaw’s talks on practice, it is very rare to talk about impermanence only the mind states and their changing process. (It was the same in Thae Inn Gu Sayadaw’s talks). It does not mean that the three universal characteristics are not important. It was mentioned by the Buddha very often in practice. In Mogok Sayadaw’s talks also we find a lot of them. Its importance is we can see very clear if we put it into the 12 links of paṭiccasamuppāda (see many talks by Mogok Sayadawji).
 
 Sayadaw U Candima called this satipaṭṭhāna as cittānupassanā, just contemplate in the mind only, and not concerning for rūpa and vedanā phenomena. In the beginning of the sitting, it doesn’t have any object to observe, and it’s just pure awareness. It does not mean there is no object at all. A mind with no object is impossible, even path and fruition minds have Nibbāna as its object. Why is the observing mind purely aware here? A yogi attains jhāna which is upekkhā samādhi with it only can do this practice. A person is not dead yet, so the mind will always arise. Even the following mind can observe the preceding contemplative mind (path factors mind)
 
@@ -44,7 +44,7 @@ These three unwholesome roots of greed, hatred and delusion relate to these two 
 
 ------
 
-revised on 2022-04-27
+revised on 2022-07-12
 
 ------
 
@@ -59,6 +59,7 @@ revised on 2022-04-27
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-28 post, 04-27 rev: 2nd proofread by bhante
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   04-09 post 1st proofread by bhante

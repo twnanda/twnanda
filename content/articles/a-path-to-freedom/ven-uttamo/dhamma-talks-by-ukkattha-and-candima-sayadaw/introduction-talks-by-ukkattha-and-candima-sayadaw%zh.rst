@@ -3,7 +3,7 @@ Introduction to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sa
 =====================================================================================
 
 :date: 2022-02-13
-:modified: 2022-04-22
+:modified: 2022-07-12
 :tags: Introduction, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Two Sides of A Coin, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Introduction to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
@@ -14,9 +14,9 @@ This is a book about two Burmese monks—Thae Inn Gu Sayadaw U Ukkaṭṭha and 
 
 Sayadaw U Ukkaṭṭha was born in 1913 in a village of Maw-be town not fat from Rangoon (Yangon) on the way to Mingaladon Airport. He was named Moung Aung Tun by the parents. When he was young not interested in study and only has very basic education. According to his talk he was married twice and had a wife in his village and the other in Rangoon. He separated his time in these two places. During the time of farming, he stayed at his village. After the cultivation, he lived with the other wife in Rangoon. He lived his life as an alcoholic, gambler, a professional thug and robber. He spent some time in prison for his crimes. At the age of 46, when he was in Rangoon, he went with two accomplices to rob a house at night. It seemed that the owner of the house knew their plans and waited for them with a long knife. When he was leading the others and entering the house and attached by the man inside. The knife fell on his head, and he fell down with his buttock on the floor. The man did not strike again, that they ran out for their lives. He was wearing a hat on that occasion, and it saved his life. This life-threatening incident let him have strong saṃvega. After healing his wounds, he returned to the village with his wife's book, which was about the life and practice of Soon Loon Sayadaw's. From that time on, he observed the nine precepts and confined himself to a room in the village monastery; he then diligently practiced meditation according to the book.
 
-We can read about his life and practice in the following translation of his some Dhamma talks which include four talks here. The first talk had no date and place, but it seems to be at his Thae Inn Gu meditation center in Maw-be. It was requested by a lay disciple, and it took more than three hours long. It mentioned his life from young boy to until his practice up to arahant. The 2nd talk is in 1964 at University Dhammasāla. The first talk on the practice of becoming a sotāpanna and the other to become an arahant.
+We can read about his life and practice in the following translation of his some Dhamma talks which include four talks here. The first talk had no date and place, but it seems to be at his Thae Inn Gu meditation center in Maw-be. It was requested by a lay disciple, and it took more than three hours long. It mentioned his life from young boy to until his practice up to arahant. The second talk is in 1964 at University Dhammasāla and about the practice from stream enterer to arahant. The last two talks are in 1968 at Mye-nigon Dhammasāla. The first talk on the practice of becoming a sotāpanna and the other to become an arahant.
 
-Sayadaw possessed a clear and good voice. Sometimes his talks were like reciting poems and had a smooth and continuous flow. He knows nothing about the Suttas, and he left it to the reader to decide whether some of his interpretations of the Dharma are in accordance with the Suttas. Sayadaw talked the Dhamma according to his seeing and understanding.
+Sayadaw possessed a clear and good voice. Sometimes his talks were like reciting poems and had a smooth and continuous flow. He knows nothing about the Suttas, and he left it to the reader to decide whether some of his interpretations of the Dhamma are in accordance with the Suttas. Sayadaw talked the Dhamma according to his seeing and understanding.
 
 ------
 
@@ -32,7 +32,7 @@ Here I want to express my thank and gratitude to people who help and support me 
 
 ------
 
-revised on 2022-04-22
+revised on 2022-07-12
 
 ------
 
@@ -49,6 +49,7 @@ revised on 2022-04-22
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   03-29 add thank words
   2022-02-13 create rst

@@ -3,7 +3,7 @@ On Ānāpāna Samādhi [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ==================================================================
 
 :date: 2022-02-13
-:modified: 2022-04-22
+:modified: 2022-07-12
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: On Ānāpāna Samādhi (Dhamma Talks by Sayadaw U Candima)
@@ -49,7 +49,7 @@ This is the reason behind not changing dukkha vedanā when the four elements dis
 
 At the time the mind sticks at the tip of the nostril has no dosa, it frees from the dosa toad (toad represents dosa). It’s not really free yet. When it frees from sati the toad appears again. (Sati is not strong enough on the object and is pulled down by the pain). There are three kinds of freedom—tadaṅga (for short period), vikkhambhana (suppression) and samuccheda (eradication). 
 
-If you can collect the mind on the object for tadaṅga will free from dosa. It’ll appear again (i.e., pain) if you can’t do it. Now present ānāpāna is tadaṅga practice. Whatever system or method we use in accordance to the Buddha, at first it was like striking a brass bell after the “Dong” sound the sound becomes louder and slowly becomes smaller and disappears. This is called pasambhayam-kāyasaṅkhāra-calming the bodily formation or fabrication (i.e., the breath). If you breathe with ānāpāna similar to the way of sawing a wood, it must refine slowly. It becomes refined, not by oneself and happening naturally when the mind frees from unwholesomeness.
+If you can collect the mind on the object for tadaṅga will free from dosa. It’ll appear again (i.e., pain) if you can’t do it. Now present ānāpāna is tadaṅga practice. Whatever system or method we use in accordance to the Buddha, at first it was like striking a brass bell after the “Dong” sound the sound becomes louder and slowly becomes smaller and disappears. This is called pasambhayam-kāyasaṅkhāram—calming the bodily formation or fabrication (i.e., the breath). If you breathe with ānāpāna similar to the way of sawing a wood, it must refine slowly. It becomes refined, not by oneself and happening naturally when the mind frees from unwholesomeness.
 
 We don’t need to kill the enemy. If there are enemies; to protect ourselves, we must fight them. Now it’s led by sati and viriya that unwholesome minds or mental states can’t come near. There’s no need to run away from them.
 
@@ -80,7 +80,7 @@ He gave an example of lifting a stick with fingers in the middle of the stick an
 
 ------
 
-revised on 2022-04-22
+revised on 2022-07-12
 
 ------
 
@@ -95,6 +95,7 @@ revised on 2022-04-22
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   04-09 post 1st proofread by bhante
   2022-02-13 create rst

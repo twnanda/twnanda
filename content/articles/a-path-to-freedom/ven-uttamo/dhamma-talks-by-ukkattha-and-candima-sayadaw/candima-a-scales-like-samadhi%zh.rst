@@ -3,7 +3,7 @@ A Scales Like Samādhi [Dhamma Talks by Sayadaw U Candima (Sandima)
 =====================================================================
 
 :date: 2022-02-13
-:modified: 2022-04-28
+:modified: 2022-07-12
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Scales Like Samādhi (Dhamma Talks by Sayadaw U Candima)
@@ -46,7 +46,7 @@ Only after overcoming vedanā can you practice samatha/vipassanā practice (i.e.
 
 First practice is making these lobha, dosa and moha cease. Other than that, don't practice anything else you can't succeed it. Therefore, I must explain on this problem with tadaṅga pahāna vikkhambhana pahāna and samuccheda pahāna (short period of abandonment, suppression for longer, eradication). Now, you can sit for two hours and there is no tiredness and strong stress. Some already fall into bhavaṅga and free from them (i.e., in jhāna state). Even some are not free from them, when they sit for two hours they don’t have the mind state of trying to struggle with it. They don’t have to because the mind becomes refined. 
 
-Passambhaya-kāyasaṅkhāra—the breath become calm down with dosa fallen away and breathing also refined, not tired anymore. Could I ask the yogis to breathe slowly like now at the beginning when they arrived here? All will get up and run away. We’re practicing to be free from the lobha /dosa of not wanting to experience it, even though it’ll take long. Now you can sit for two hours. All right! Let’s move forward step. What is the nature of insight practice? The mind contemplates the mind and form to become true insight (vipassanā) should not think about the past and future even for a ten hours period (only with the present moment). Even for ten hours, the mind doesn’t know about the eye, ears, nose, …etc. It’s free from the worldly objects of concept (loka-paññatti-ārammaṇa), only then it discerns loka-paramatā mind and form. The samādhi discerns mind and form, not including  concepts.
+Passambhayam-kāyasaṅkhāram—the breath become calm down with dosa fallen away and breathing also refined, not tired anymore. Could I ask the yogis to breathe slowly like now at the beginning when they arrived here? All will get up and run away. We’re practicing to be free from the lobha /dosa of not wanting to experience it, even though it’ll take long. Now you can sit for two hours. All right! Let’s move forward step. What is the nature of insight practice? The mind contemplates the mind and form to become true insight (vipassanā) should not think about the past and future even for a ten hours period (only with the present moment). Even for ten hours, the mind doesn’t know about the eye, ears, nose, …etc. It’s free from the worldly objects of concept (loka-paññatti-ārammaṇa), only then it discerns loka-paramatā mind and form. The samādhi discerns mind and form, not including  concepts.
 
 During the contemplation it’s anicca, dukkha, etc. are concepts and not vipassanā. It can be taken as bhāvanā—mind or mental development. Anicca saññā, dukkha saññā, etc. (perceptions of anicca, dukkha, etc.) are not insight—vipassanā and not paramatā dhamma. There are three knowledges: Paramatā is penetrative knowledge, saññā—the perception of names and concepts are conceptual knowledge and viññāṇa knowing is not giving names and concepts and also non-penetrative nor analytical knowledge.
 
@@ -176,7 +176,7 @@ For the practice—with sukha vedanā (at the tip of the nostril) do the breathi
 
 ------
 
-revised on 2022-04-28
+revised on 2022-07-12
 
 ------
 
@@ -191,6 +191,7 @@ revised on 2022-04-28
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-28 post; 04-27 rev: 2nd proofread by bhante
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   04-09 post 1st proofread by bhante

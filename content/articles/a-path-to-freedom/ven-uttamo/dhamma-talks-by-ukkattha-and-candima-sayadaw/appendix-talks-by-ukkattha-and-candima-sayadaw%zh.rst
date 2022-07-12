@@ -3,7 +3,7 @@ Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandim
 =================================================================================
 
 :date: 2022-02-13
-:modified: 2022-04-28
+:modified: 2022-07-12
 :tags: Appendix, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Two Sides of A Coin, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
@@ -42,7 +42,7 @@ Only by direct practice and experiment can we understand pain and find a way out
 
 (I get this information from Ven. Ādiccaramsī’s talks. He had given a lot of D. A. lectures in the whole Burma and I met many Buddhists who really changed their lives for the better. It was like the education of the Chinese sages who changed people’s lives, who really put into practice in societies. We can change people’s life only with wholesome education and noble education). 
 
-Another key point in understanding D.A.'s teaching and through reflection is that we can let go of our egoic views or selfishness, and so temporarily reduce much of the suffering we experience. With the self view or unwise attention, it’ll create or make the problems or suffering greater. With the right view and thinking, sitting meditation becomes easier and good for dealing with pain. If we take pain or view them with self, it becomes more unbearable or increases the mental suffering. We view and contemplate pains or unpleasant feelings as not-self (anatta), empty of essence (suñña) and stranger or alien (parajana) and become sati and paññā. There were some who didn’t know anything about dependent co-origination before and practiced with the wrong view. Even though they were tough, people couldn’t bear the pain. After they had the right view and let go of the self and selfishness, they could contemplate pains as separate from the mind and see them as alien. They discerned pains as something in front of them.
+Another key point in understanding of D.A. teaching is through reflection that we can let go of our egoic views or selfishness, and so temporarily reduce much of the suffering we experience. With the self view or unwise attention, it’ll create or make the problems or suffering greater. With the right view and thinking, sitting meditation becomes easier and good for dealing with pain. If we take pain or view them with self, it becomes more unbearable or increases the mental suffering. We view and contemplate pains or unpleasant feelings as not-self (anatta), empty of essence (suñña) and stranger or alien (parajana) and become sati and paññā. There were some who didn’t know anything about dependent co-origination before and practiced with the wrong view. Even though they were tough, people couldn’t bear the pain. After they had the right view and let go of the self and selfishness, they could contemplate pains as separate from the mind and see them as alien. They discerned pains as something in front of them.
 
 In one of Mogok Sayadaw’s talks on dukkha vedanā—he said if dukkha vedanā starts arising, contemplate it as quickly as possible, and it becomes less severe. 
 
@@ -102,7 +102,7 @@ Here I include on samādhi by two teachers—a Thai forest ajahn and a Chinese C
 
 On samādhi by Loong Por Tate is taken from a small booklet called “Buddho” translated by Ajahn Ṭhānissaro, Buddho mantra meditation. The Buddho mantra is quite well known in the Thai forest tradition and is used by many famous ajahns, e.g., Ajahn Mun. Once, when he was living in a forest in Northern Thailand, he taught some hill tribesmen to recite it, and achieved good results. Using it with breath meditation (ānāpāna) is also very good. Its meaning also reminds us that we must always be awake. So it is a good meditation object that combines the Buddhist mantra Buddho with the breath in daily life. Also, it is very easy to practice by all, even for children. 
 
-In Chinese Mahāyana tradition—the mantra Ami-to-fo or Amitabha is quite a common practice. They have many records on Chinese practicers from a long time ago. One of the Chinese monks who became adept in Amitabha mantra was Guang Ching old monk. He was quite skilled in samādhi and could stay in samādhi for many days. At the age of 95, one day he was sitting on a cane chair and said to his monks and nuns as follows: “No coming and no going; no business matters” and closed his eyes in samādhi and passed away very peacefully. No-one knows the time of his death because he was used to sitting in samādhi like We-bu Sayadaw. There are many similarities between them. Both of them were sitter practicers for their whole life, very few words and quiet, adept in samādhi, attained psychic ability, etc. We-bu Sayadaw’s practice was also very simple with ānāpāna in all postures—one dhamma (eko-dhammo). Once Sāriputta asked a female wanderer a simple question—“What is the one dhamma to Nibbāna?”
+In Chinese Mahāyana tradition—the mantra Ami-to-fo or Amitabha is quite a common practice. They have many records on Chinese practicers from a long time ago. One of the Chinese monks who became adept in Amitabha mantra was Guang Ching old monk. He was quite skilled in samādhi and could stay in samādhi for many days. At the age of 95, one day he was sitting on a cane chair and said to his monks and nuns as follows: “No coming and no going; no more business” and closed his eyes in samādhi and passed away very peacefully. No-one knows the time of his death because he was used to sitting in samādhi like We-bu Sayadaw. There are many similarities between them. Both of them were sitter practicers for their whole life, very few words and quiet, adept in samādhi, attained psychic ability, etc. We-bu Sayadaw’s practice was also very simple with ānāpāna in all postures—one dhamma (eko-dhammo). Once Sāriputta asked a female wanderer a simple question—“What is the one dhamma to Nibbāna?”
 
 She could not answer, so Sāriputta gave her the answer—“With vedanā can arrive at Nibbāna.”
 
@@ -187,7 +187,7 @@ There is a big question that arises. What happened to the people leaving behind 
 
 A wrecked ship—dāna, sīla, samatha practices without right views.
 
-Sometimes it’s amazing to know people—even if they don’t have common sense. If people have common sense, the situations or lives can even get better. It's even better if people have wisdom. We don’t appreciate or understand Dukkha that we cling to the self view, sensual pleasures and becoming (bhava-taṇhā—coming and going forever) like a dog clung to its dry bone. We don’t need western philosophers to teach us what Dukkha is? I don't know how many of them (in the past) became, are or will become Buddhists. Maybe they can teach you how to become a hedonist and hedonism. Today, world situations confirm this point.
+Sometimes it’s amazing to know people—even they don’t have common sense. If people have common sense, the situations and their lives can get better. It's even better if people have wisdom. We don’t appreciate or understand Dukkha that we cling to the self view, sensual pleasures and becoming (bhava-taṇhā—coming and going forever) like a dog clung to its dry bone. We don’t need western philosophers to teach us what Dukkha is? I don't know how many of them (in the past) became, are or will become Buddhists. Maybe they can teach you how to become a hedonist and hedonism. Today, world situations confirm this point.
 
 To see, to understand, to penetrate Dukkha, the sutta teachings are enough. Actually, we are always living and experiencing these two noble truths—the cause and result (samudaya and dukkha) all the time. If we have sati and paññā—mindfulness, observation, observation and reflection will experience the four noble truths. Instead, we’re like blind people have eyes but can’t see. It was also like living with our minds all the time and never separated, but we don’t know about it. 
 
@@ -197,7 +197,7 @@ Also, the four meanings of Dukkha are close to us in daily life—these are: opp
 
 A few years ago, Sitagu Sayadaw did some teachings in Germany. In each teaching, he saw more women than men in attendance. He was curious about it and asked them the reason on this matter. The answer was—during the second world war, many men died and left behind more women. This is the main cause of women population increases and men population decreases. Sayadaw also heard a true story which happened after the war. There was a passenger bus carrying women on a line with only a male driver on it and no male passenger. So the women forced this poor guy and drove the bus to somewhere. Sayadaw did not mention what happen to him later. What a poor man? Therefore when things are becoming extremes it becomes ugly and problematic. Without the middle way, humans are always in dangers. We see a lot of these things in today’s world. 
 
-Buddhas are teachers who need students. If everyone becomes Buddha, where are the students. If everyone wants to be man and where arethe women. It seems to me sometime human beings even don’t have common sense. Go against the natural law! ]
+Buddhas are teachers who need students. If everyone becomes Buddha, where are the students. If everyone wants to be man and where are the women. It seems to me sometime human beings even don’t have common sense. Go against the natural law! ]
 
 Here, I would like to bring up two stories of taking the Bodhisattva Vow in Myanmar. These are true and humorous stories mentioned in the biography of Mogok Sayadaw.
 
@@ -281,7 +281,7 @@ Sabbe satta sukhi hontu!
 
 ------
 
-revised on 2022-04-28
+revised on 2022-07-12
 
 ------
 
@@ -298,6 +298,7 @@ revised on 2022-04-28
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-28 post, 04-27 rev: 2nd proofread by bhante
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   04-09 post 1st proofread by bhante
