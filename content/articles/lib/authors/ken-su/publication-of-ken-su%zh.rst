@@ -74,7 +74,7 @@
 
 - 封面：
 
-  * 整部 `PDF <{static}/extra/authors/ken-su/comparison_study_between_agama_nikaya-full-text.png>`__ （2022-07-06, 688 頁）；
+  * 整部 `PDF <{static}/extra/authors/ken-su/comparison_study_between_agama_nikaya-full-text.png>`__ ；
 
   * 上冊 `PNG <{static}/extra/authors/ken-su/comparison_study_between_agama_nikaya-a.png>`__ ；
 
@@ -122,7 +122,7 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
-  07-15 add: cover & PDF of full-text, vol. a & b
+  07-15 del 贅詞 of cover; add: cover & PDF of full-text, vol. a & b
   07-05 del. the names of Dhamma friends; rev. the attribute of all PDF files; add: 出版絮語; rev. 前言, 編後語 & 第十六章　寫在「漢譯佛典文獻學」講座之前
   07-03 add: 參考書目; rev. chap01, 02, 03, 04, 15
   07-02 add: 前言; rev: recovery of 第十六章　寫在「漢譯佛典文獻學」講座之前; - 索引
