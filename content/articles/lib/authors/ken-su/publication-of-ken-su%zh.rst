@@ -3,7 +3,7 @@
 =====================
 
 :date: 2022-06-03
-:modified: 2022-07-05
+:modified: 2022-07-15
 :tags: 蘇錦坤, 藏經閣的掃葉人, Ken Su
 :category: 蘇錦坤老師
 :summary: 蘇錦坤 老師 作品集 (Publications of Ken Su)
@@ -64,6 +64,24 @@
 
 ------
 
+- 列印：
+
+  * 整部 `PDF <{static}/extra/authors/ken-su/comparison_study_between_agama_nikaya-full-text.pdf>`__ （2022-07-06, 688 頁）；
+
+  * 上冊 `PDF <{static}/extra/authors/ken-su/comparison_study_between_agama_nikaya-vol-a.pdf>`__ （2022-07-06, 387 頁）；
+
+  * 下冊 `PDF <{static}/extra/authors/ken-su/comparison_study_between_agama_nikaya-vol-a.pdf>`__ （2022-07-06, 315 頁）
+
+- 封面：
+
+  * 整部 `PDF <{static}/extra/authors/ken-su/comparison_study_between_agama_nikaya-full-text.png>`__ （2022-07-06, 688 頁）；
+
+  * 上冊 `PNG <{static}/extra/authors/ken-su/comparison_study_between_agama_nikaya-a.png>`__ ；
+
+  * 下冊 `PNG <{static}/extra/authors/ken-su/comparison_study_between_agama_nikaya-b.png>`__ 
+
+------
+
 跨語言文本「法句經」的比較研究
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -104,6 +122,7 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
+  07-15 add: cover & PDF of full-text, vol. a & b
   07-05 del. the names of Dhamma friends; rev. the attribute of all PDF files; add: 出版絮語; rev. 前言, 編後語 & 第十六章　寫在「漢譯佛典文獻學」講座之前
   07-03 add: 參考書目; rev. chap01, 02, 03, 04, 15
   07-02 add: 前言; rev: recovery of 第十六章　寫在「漢譯佛典文獻學」講座之前; - 索引
