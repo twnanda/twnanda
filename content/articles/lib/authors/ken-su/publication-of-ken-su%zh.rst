@@ -3,7 +3,7 @@
 =====================
 
 :date: 2022-06-03
-:modified: 2022-07-15
+:modified: 2022-07-19
 :tags: 蘇錦坤, 藏經閣的掃葉人, Ken Su
 :category: 蘇錦坤老師
 :summary: 蘇錦坤 老師 作品集 (Publications of Ken Su)
@@ -13,7 +13,7 @@
 
 - `跨語言文本「法句經」的比較研究`_ 
 
-- `「漢譯佛典文獻學」`_ ，主要在校勘、標點、詞義詮釋的範圍
+- `「漢譯佛典校勘學」論文選集`_ ，主要在校勘、標點、詞義詮釋的範圍
 
 - 作者簡介_
 
@@ -64,7 +64,7 @@
 
 ------
 
-- 列印：
+- 《「阿含、尼柯耶」比較研究論文選集》 **列印** ：
 
   * 整部 `PDF <{static}/extra/authors/ken-su/comparison_study_between_agama_nikaya-full-text.pdf>`__ （2022-07-06, 688 頁）；
 
@@ -72,7 +72,7 @@
 
   * 下冊 `PDF <{static}/extra/authors/ken-su/comparison_study_between_agama_nikaya-vol-a.pdf>`__ （2022-07-06, 315 頁）
 
-- 封面：
+- 《「阿含、尼柯耶」比較研究論文選集》 **封面** ：
 
   * 整部 `PDF <{static}/extra/authors/ken-su/comparison_study_between_agama_nikaya-full-text.png>`__ ；
 
@@ -101,12 +101,32 @@
 
 ------
 
-「漢譯佛典文獻學」
-~~~~~~~~~~~~~~~~~~~
+「漢譯佛典校勘學」論文選集
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 「漢譯佛典文獻學」，主要在校勘、標點、詞義詮釋的範圍
 
--
+- 前言
+
+- 一、 漢譯佛典的校勘
+
+- `二、 印順導師與漢譯佛典的校勘 <{static}/extra/authors/ken-su/chap02-2011-FBS_vol6-2.pdf>`__ （PDF，2022-07-19 修訂；原論文：〈漢譯佛典校勘舉例---兼論印順導師與佛典校勘〉，(2011b)， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ `6期 <https://www.fuyan.org.tw/journal/fbs/fbs012.html>`__ ， `23-72頁 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol6-2.pdf>`__ (PDF)，新竹市，台灣。）
+
+- `三、 漢譯佛典的新式標點舉例 <{static}/extra/authors/ken-su/chap03-2013-satyabhisamaya_66-02.pdf>`__ （PDF，2022-07-19 修訂；原論文：〈漢譯佛典新式標點舉例〉，(2013b)， `《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `66期 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1&pages=3>`__ ， `39-111頁 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=1220&i=1>`__ ，南投縣，台灣。）
+
+- 四、《七處三觀1經》的校勘與標點（PDF，2022-07-02 修訂；原論文：〈《七處三觀經》研究(1)—《七處三觀1經》校勘與標點---兼對 Tilmann Vetter 與 Paul Harrison 論文的回應〉，(2012a)， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ `7期 <https://www.fuyan.org.tw/journal/fbs/fbs012.html>`__ ， `1-74頁 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol7-1.pdf>`__ (PDF)，新竹市，台灣。）
+
+- 五、 詮釋漢譯佛典的疑難詞
+
+- 六、 詮釋帝釋十號與巴利詞彙 Addhabhavati
+
+- 七、 佛教疑偽經典的審查
+
+- 八、 日本正倉院《聖語藏》的異讀
+
+- 九、對照目錄的歷史、運用與編列
+
+- 編後語
 
 ------
 
@@ -122,6 +142,11 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
+  07-19 add: 「漢譯佛典校勘學」論文選集; 印順導師與漢譯佛典的校勘; 漢譯佛典的新式標點舉例; 
+        replace 「漢譯佛典文獻學」 with 「漢譯佛典校勘學」論文選集
+        - `前言 <{static}/extra/authors/ken-su/preface-collation-ken-su.pdf>`__ （PDF，2022-0-0）
+        - `四、《七處三觀1經》的校勘與標點 <{static}/extra/authors/ken-su/chap04-2012-FBS_vol7-1.pdf>`__  
+        - `編後語 <{static}/extra/authors/ken-su/postscript-collation-ken-su.pdf>`__ （PDF，2022-0-0 修訂）
   07-15 del 贅詞 of cover; add: cover & PDF of full-text, vol. a & b
   07-05 del. the names of Dhamma friends; rev. the attribute of all PDF files; add: 出版絮語; rev. 前言, 編後語 & 第十六章　寫在「漢譯佛典文獻學」講座之前
   07-03 add: 參考書目; rev. chap01, 02, 03, 04, 15
