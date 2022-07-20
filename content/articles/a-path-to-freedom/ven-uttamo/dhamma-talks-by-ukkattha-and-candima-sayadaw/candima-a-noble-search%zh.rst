@@ -3,7 +3,7 @@ A Noble Search [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ===============================================================
 
 :date: 2022-02-13
-:modified: 2022-07-12
+:modified: 2022-07-20
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Noble Search (Dhamma Talks by Sayadaw U Candima)
@@ -214,7 +214,7 @@ From then onwards from midday 12 p.m. to nighttime 7 p.m. I did one sitting. I d
 
 (In one of Mogok Talks—it mentioned yogis should practice with saṁvega, chanda, and māna for attaining of Dhamma)
 
-The practice and progress did not match, and all that remained was pain and soreness every day. It took me a long time, but I didn't find the exist. I tried to run away from vedanā with only a short time, and fell back into it. Only with ānāpāna practice, I freed myself from it; and without it, I became unpleasant again. I was not freed from dukkha. How should I practice this Dhamma? And then I was praying for the Buddha. 
+The practice and progress did not match, and all that remained was pain and soreness every day. It took me a long time, but I didn't find the way out. I tried to run away from vedanā with only a short time, and fell back into it. Only with ānāpāna practice, I freed myself from it; and without it, I became unpleasant again. I was not freed from dukkha. How should I practice this Dhamma? And then I was praying for the Buddha. 
 
 I could not rely on my teacher; so I prayed to the Buddha, but he did not teach me. I was afraid of the four woeful existences (apāya). Fear of ageing, sickness, and death sufferings was also this mind. The female boss Visākhā, and Anāthapiṇḍika boss became stream winners (sotāpanna), and enjoyed the sensual pleasure in havens, they were also in this mind. This mind was changing in various ways to express its nature—which I became understanding of. It was arriving at insight. When doing the practice, I didn’t get what one’s desire was, and thinking as follows. 
 
@@ -531,7 +531,7 @@ There is a saying in Zen (Chan) tradition—before the practice river is river, 
 
 ------
 
-revised on 2022-07-12
+revised on 2022-07-20
 
 ------
 
@@ -546,6 +546,7 @@ revised on 2022-07-12
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-20 rev. proofread by bhante
   07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   2022-02-13 create rst

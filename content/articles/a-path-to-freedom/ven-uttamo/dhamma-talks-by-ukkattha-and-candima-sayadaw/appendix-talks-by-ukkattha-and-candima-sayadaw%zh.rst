@@ -3,7 +3,7 @@ Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandim
 =================================================================================
 
 :date: 2022-02-13
-:modified: 2022-07-12
+:modified: 2022-07-20
 :tags: Appendix, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Two Sides of A Coin, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
@@ -134,7 +134,9 @@ And he talks about getting more and more in contact with Jy, and as the mind bec
 
 Note: For more teachings and on Dhamma about the Thai forest tradition are available on the internet at www.accesstoinsight.org; www.mettaforest.org; dhammatalks.org. 
 
-Recommendation for reading: “The Craft of the Heart” by Ajahn Lee Dhammadharo, translated by Ṭhānissaro Bhikkhu. 
+Recommendation for reading: “The Craft of the Heart” by Ajahn Lee Dhammadharo, translated by Ṭhānissaro Bhikkhu.
+
+https://forestdhamma.org/books/
 
 Chan Master Hsuan Hua’s on Samādhi
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -281,7 +283,7 @@ Sabbe satta sukhi hontu!
 
 ------
 
-revised on 2022-07-12
+revised on 2022-07-20
 
 ------
 
@@ -298,6 +300,7 @@ revised on 2022-07-12
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-20 rev. proofread by bhante
   07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-28 post, 04-27 rev: 2nd proofread by bhante
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw

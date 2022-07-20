@@ -3,7 +3,7 @@ The Way of a Stream Enterer (Dhamma Talks by Sayadaw U Ukkaṭṭha)
 ===================================================================
 
 :date: 2022-02-13
-:modified: 2022-02-13
+:modified: 2022-07-20
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Two Sides of A Coin
 :category: path of nirvana
 :summary: The Way of a Stream Enterer (Dhamma Talks by Sayadaw U Ukkaṭṭha)
@@ -44,7 +44,7 @@ If I don’t do it, it’s also impossible. Therefore, I propagate the right dha
 
 When I saw a visual object which I liked, it became pleasant and desirable. It became a happy mind (sukha and lobha). When seeing undesirable object, and it became disliked mind and angry mind arose. With hearing, smelling, tasting and touching kāma-raga (desire and lust) mind arose. I wanted to experience it very often. I didn’t know the characteristic of changing nature of the four elements such as stiffness, tension, pushing, pulling, hotness, coldness, etc. Likewise, I didn’t want to experience it. When the body became changed, I relied on the doctor. Because of the nature of dukkha, the dosa mind arose. This was how all the different kinds of knowing mind occurred as well. Knowing about good things became pleasant and on bad things became unpleasant. Rāga and dosa (lust and anger) arose from seeing, hearing, smelling, etc. Because I didn’t know them as vedanā and not knowing them as dukkha. Not knowing about the truth of dukkha that rāga-dosa arose within me. Why these minds arose within me? Because I was not seeing vedanā, not knowing upādāna (clinging) and not knowing dukkha sacca. My mind was always covered with moha (delusion). Therefore, only lobha, dosa and moha were arising with me. When the six senses of door contact with the six sense objects and I knew the arising dhamma with non-existing concepts that these minds arose. The Buddha taught that non-existing was concepts and the existing was paramatā. U Zin didn’t know about the mind and form nature and its characteristics. How did I see the concept? I saw a woman, and it became a desire lust mind (raga mind). When seeing a woman and knew it as a woman. Seeing her fat body and knew it as fat. If seeing thin, pretty, beautiful and only knew these things and raga mind arose. When seeing ugliness and dosa mind arose, and I knew non-existing things. Therefore, it became raga, dosa, moha, māna minds. Seeing the dog and knowing as dog, seeing pig, chicken, etc., it was also knowing as pig, chicken, etc. These were not right and it was only a concept. In reality these were feeling nature (vedanā), changing form nature (rūpa), mind and form nature. If you are seeing non-existing things and then going down by kneeling with your four legs (i.e., to apāya, may be as a dog, animals, etc.; here Sayadaw’s usage is rough but has a serious tone and makes you remember it forever.) This thing happens because we’re covered with moha (delusion) of avijjā dhamma (ignorance). Other sense doors of ear, nose, etc. were also in the same way. Whatever arose from there, I didn’t know about their vedanās, mind and form and couldn’t differentiate paññatti and paramatā, didn’t know their natural characteristics. I only knew about their non-existing dhammas (i.e., concepts).
 
-When I saw a woman and I asked a child (a boy). What is that? His answer was, “This is a woman.” “Is she beautiful or pretty?” “She has white skin, fat and pretty” U Zin also was seeing it this way for 46 years. I was not different from the child’s view, and only had a child’s knowledge. When I heard a sound and asked the child. There was a dog barking, and I asked him, “Child! What is that sound?” The child’s response was “Ha! Why asking me? This is a dog barking” I heard it and also knowing as a dog barking. The child was also knowing as a dog barking. Everyone has the same knowledge, that is conceptual knowledge. We all are knowing the non-existing dhamma. We’re seeing and knowing of the non-existing dhamma. The Buddha taught two views—wrong and right views. We don’t know the right view. The existing dhamma is mind and form, which is paramatā dhamma. We know only the non-existing dhamma that—in regarding smell, knowing as fragrance or smelly, etc. We have to stop at vedanā; if not, it continues to taṇhā and upādāna and the five khandhas/mind and form arise, and it’s turning the dependent arising process. Once an odor is smelled, "cittasaṅkhāra" or mental factors arise (i.e., minds arise). If you take it as fragrant rāga mind/lobha mind, peta mind (ghost mind) arise. If it’s a putrid smell, then you don’t want to experience it and dosa mind arises. If these minds arise, where do you think you're going? These are non-existing dhamma and with these minds and die in 100, thousand humans die and no-one becomes human again. They’ll become dogs, pigs, chickens, fishes in the water and in hells (include hungry shades).
+When I saw a woman and I asked a child (a boy). What is that? His answer was, “This is a woman.” “Is she beautiful or pretty?” “She has white skin, fat and pretty” U Zin also was seeing it this way for 46 years. I was not different from the child’s view, and only had a child’s knowledge. When I heard a sound and asked the child. There was a dog barking, and I asked him, “Child! What is that sound?” The child’s response was “Ha! Why asking me? This is a dog barking” I heard it and also knowing as a dog barking. The child was also knowing as a dog barking. Everyone has the same knowledge, that is conceptual knowledge. We all are knowing the non-existing dhamma. We’re seeing and knowing of the non-existing dhamma. The Buddha taught two views—wrong and right views. We don’t know the right view. The existing dhamma is mind and form, which is paramatā dhamma. We know only the non-existing dhamma that—in regarding smell, knowing as fragrance or smelly, etc. We have to stop at vedanā; if not, it continues to taṇhā and upādāna and the five khandhas/mind and form arise, and it’s turning the dependent arising process. Once an odor is smelled, "cittasaṅkhāra" or mental factors arise (i.e., minds arise). If you take it as fragrant rāga mind/lobha mind, peta mind (ghost mind) arise. If it’s a putrid smell, then you don’t want to experience it and dosa mind arises. If these minds arise, where do you think you're going? These are non-existing dhamma and with these minds and die in a hundred thousand humans die and no-one becomes human again. They’ll become dogs, pigs, chickens, fishes in the water and in hells (include hungry shades).
 
 [Here we can see Sayadaw’s wisdom comes from enlightenment. Even though he knew nothing about the suttas, his understanding of paṭiccasamuppāda was very profound. Listening to his talk is very similar to Mogok Sayadaw’s teaching.]
 
@@ -80,11 +80,11 @@ The male devata is served by 500 or 600 celestial nymphs on each of his left and
 
 These are the wise men. The fools we’re talking are opium eater, alcoholics and gamblers, etc. Really pushing down us to painful existences (apāyas) are lobha, dosa, moha and māna dhammas or minds falling down there. We don’t know about the foolish minds which are consorted. We associate with them continuously. It’s possible if we don’t consort with drunkards and can shun away from them. Could you shun away from greed, anger, delusion, etc.? You’ll fall into the chasm with them, but you don’t stay away from it. The fools are not the drunkards, gamblers, opium users (at that time Burma didn’t has heroine yet), murderers, etc. It was talking about the minds. Pushing down someone into apāyas and the rounds of existence (saṃsāra) are these states of mind. (Mogok Sayadaw also interpreted the fools in the maṅgala Sutta as unwholesome dhammas. Ariyas know between the fake and the real very clear.) You can get the three wise men with you only by practicing insight. The Buddha taught about the four establishing of mindfulness practice—kāya, vedanā, citta, etc. He was teaching the right things. There are no other dhammas to Nibbāna except these four dhammas. There are 40 objects for samatha practice and people practice what they like it. The important thing is knowing the differences between paññatti and paramatā. With the right concept only get the right paramatā , and with the wrong ones and become wrong. These are to know with knowledge and ignorance (vijjā and avijjā).
 
-For 46 years U Zin made friends with the four fools (lobha, dosa, moha, māna) who were going down to apāyas kneeling with their four legs. I practiced for 21 months with the strong determination as if I have to die let it be, otherwise I must realize the Dhamma. Firstly, I am mindful of the in-breath and out-breath of the ānāpāna (breathing) practice. If only knowing the in and out breaths is samatha practice. In kāyānupassanā (body contemplation) what is air (vāya)? It’s the nature of pressure, motion, distention. These are all known by the mind, which is not the practice of samadhi. After the pressure, motion and distention it ceases. This is the ceasing of mind and form, and knowing the nature of vanishing. With many times of knowing the pressure and distention pressure and distention, etc. at the sitting area, the four elements are changing. Knowing the pressure and distention of the air is kāyāsatipaṭṭhāna—mindfulness of the body and the other elements of earth, water, fire are also in the same way of knowing their nature. The earth element, the air element, etc. will kill you (in life at any time, near death is sure). All these are the elements of form (rūpa), and like the four dragon snakes, of the form you’ll bite with one of them (If they become imbalance, the most prominent one will kill you). Bitten by the earth snake one will die with stiffness of the body, by fire snake the body was burnt like fire and die with hotness, with air snake the body like cut into pieces and die. The excessive elements effecting the body are—earth effects the body and jaw with stiffness, water make the liquid body flowing out, with tejo—heat one will cry out “Ahh! Very hot and burning, please help me.”, with air (vaya) become dizzy and the stomach can be burst open and die This air element can kill you at any time during eating, sleeping, in the toilet, on the car, etc. It’s a very quick air snake. Only vipassanā yogis know about their nature. If you contemplate their outer forms, you will only know the concepts. 
+For 46 years U Zin made friends with the four fools (lobha, dosa, moha, māna) who were going down to apāyas kneeling with their four legs. I practiced for 21 months with the strong determination as if I have to die let it be, otherwise I must realize the Dhamma. Firstly, I am mindful of the in-breath and out-breath of the ānāpāna (breathing) practice. If only knowing the in and out breaths is samatha practice. In kāyānupassanā (body contemplation) what is air (vāyo)? It’s the nature of pressure, motion, distention. These are all known by the mind, which is not the practice of samadhi. After the pressure, motion and distention it ceases. This is the ceasing of mind and form, and knowing the nature of vanishing. With many times of knowing the pressure and distention pressure and distention, etc. at the sitting area, the four elements are changing. Knowing the pressure and distention of the air is kāyāsatipaṭṭhāna—mindfulness of the body and the other elements of earth, water, fire are also in the same way of knowing their nature. The earth element, the air element, etc. will kill you (in life at any time, near death is sure). All these are the elements of form (rūpa), and like the four dragon snakes, of the form you’ll bite with one of them (If they become imbalance, the most prominent one will kill you). Bitten by the earth snake one will die with stiffness of the body, by fire snake the body was burnt like fire and die with hotness, with air snake the body like cut into pieces and die. The excessive elements effecting the body are—earth effects the body and jaw with stiffness, water make the liquid body flowing out, with tejo—heat one will cry out “Ahh! Very hot and burning, please help me.”, with air (vāyo) become dizzy and the stomach can be burst open and die. This air element can kill you at any time during eating, sleeping, in the toilet, on the car, etc. It’s a very quick air snake. Only vipassanā yogis know about their nature. If you contemplate their outer forms, you will only know the concepts. 
 
 (The four vipers designate the four elements, which were mentioned in the discourse of "The Simile of the Vipers")—Āsīvisopama Sutta, Saṁyutta N (SN.35.238) and the commentary. This sutta is important for mind development. Later we will see its importance in the teaching of Sayadaw U Candima. These four great elements effect our lives and during dying. Our health is also dependent on them (one of the causes). If they are imbalanced or in disturbance, they give us suffering in life and at dying, most important is at death. 
 
-When there is a disturbance in the earth element, the body becomes stiff like wood. The Buddha compared it as bitten by a viper of the wooden—mouth type. With the disturbance of the water element the body becomes putrid, oozing pus, fresh and blood and later leave behind bones and skin. It’s like bitten by a putrid—mouth snake. With the disturbance of the fire element, it becomes feverish all over. It’s like thrown into a pit of coal. The Buddha compared it with a fire—mouth snake. With the disturbance of air element, severe pains run through the joints and sinew. It’s like the body was smashed by rocks and the bones pulverized. It compared with a dagger—mouth snake. At near death, we’ll be bitten by one of the elements.)
+When there is a disturbance in the earth element, the body becomes stiff like wood. The Buddha compared it as bitten by a viper of the wooden—mouth type. With the disturbance of the water element the body becomes putrid, oozing pus, flesh and blood and later leave behind bones and skin. It’s like bitten by a putrid—mouth snake. With the disturbance of the fire element, it becomes feverish all over. It’s like thrown into a pit of coal. The Buddha compared it with a fire—mouth snake. With the disturbance of air element, severe pains run through the joints and sinew. It’s like the body was smashed by rocks and the bones pulverized. It compared with a dagger—mouth snake. At near death, we’ll be bitten by one of the elements.)
 
 When the four elements of the internal body are disturbed, the noble beings (ariyas) are not afraid for dying. They know all the four elements and the mind nature, the body loathsomeness, and kammas and its results that not afraid for dying. It becomes knowledge (vijjā). We sit longer on the hard floor and vedanā (feeling) arises. This arising form (rūpa) will kill us. We don’t know its nature of pressure and distention, go and feel the vedanā. This is vedanā satipaṭṭhāna—contemplation of feelings). If you only know the feeling of pain it’s wrong view (diṭṭhi). This is knowing upon the dukkha on dukkha. If you know hotness, aches and pains become dukkha samudaya (the cause of dukkha). From vedanā it connects to taṇhā (feeling → craving). I don’t contemplate the feeling (vedanā) of pain and stiffness, instead contemplate the feeling mind (i.e., mind experience vedanā.) How does the nature earth element arise? It becomes stiff, tense, numb, ache, etc.—this is the nature of earth element. In books, it mentioned as the nature of hardness and softness—is paṭhavī. In the khandha arises as becoming aches, numbness, stiffness. What is the nature of water element (āpo)? During the contemplation, the chest becomes tense and something is choking or blocking inside. Sweat is flowing out the body. 
 
@@ -102,6 +102,8 @@ Arom five and arom six all are existing as sabhāva, and not thinking about the 
 
 Sādhu! Sādhu! Sādhu!
 
+------
+
 **Note on sotāpanna:** 
 
 From Sayadaw’s talk we know some nature of a sotāpanna. He is quite different from a worldling. One of the very distinct nature is he never views and knows things with concepts by knowingly. He will communicate with people by using concepts, but never take it as real. This point is very important for yogis to check their first stage of realization. Later we will see its important point in Sayadaw U Candima and his practice for sotāpanna. Thae Inn Gu Sayadaw had said if you see a woman, and it’s a woman, see a dog, and it’s a dog, then you are not a Sotāpanna. U Candima did not have knowledge on Dhamma and not had a proper teacher to guide him when he started the practice. He used the above quotation by Thae Inn Gu Sayadaw and checked his practice. I heard a story on a very well-known Burmese author, Shwe U-daung. Actually, he was not a Buddhist—a Christian, but also study and practice. Once time he went to see Thae Inn Gu Sayadaw and talked about his realization. Sayadaw asked him by pointing to a woman, “What do you see?”
@@ -112,13 +114,72 @@ Sayadaw: No! You’re not a sotāpanna.
 
 This same author mentioned in one of his writings that a sotāpanna took alcohol only water went into his body, the spirit could not enter it. U Sun Lwin (later Ven. Ādiccaramsī) asked Taung Pu-Lu Sayadaw as was it true? Sayadaw’s answer was; Sotāpanna or whatever it’s, if you take alcohol in accordance to its chemical nature (dhātu) you would be drunk.”
 
-In the Chinese Mahāyana Chan (Zen) tradition there is a saying by Chan masters—this was before the practice mountain is mountain, river is river. During the practice—maintain is not maintain, river is not river. After the practice—mountain is mountain, river is river. In the sotāpanna’s view and knowing after the practice—still mountain is not mountain, river is not river. So, which one is true?
+In the Chinese Mahāyana Chan (Zen) tradition there is a saying by Chan masters—this was before the practice mountain is mountain, river is river. During the practice—mountain is not mountain, river is not river. After the practice—mountain is mountain, river is river. In the sotāpanna’s view and knowing after the practice—still mountain is not mountain, river is not river. So, which one is true?
 
 Worse than this is some Chinese Buddhists compare some great religious figures at the same level of the Buddha. So sotāpanna’s to arahant’s purity are lower than these upāsakas (prophets). How did they become Buddhists? I don’t understand them. Then the Buddha’s teachings will become wrong views. This is very clear they don’t know the pāḷi-suttas.
 
 ------
 
-revised on 2022-02-13
+**Obstacles for realization of Dhamma**
+
+There are some unwholesome dhammas which stop someone to realize Dhamma in this life, and some are curable and some are not. It is based on a book called, “Fundamental Paṭiccasamuppāda Lectures” by Sayadaw U Sumana—Mogok meditation teacher, Sagaing Hill Siri Sumana Maggin Dhamma Center.
+There are five kinds of obstacles (antarāya) which hinder the paths and fruits in practice. These are –
+
+1. Ānantarika kamma—the five heavy kammas
+
+2. Kilesantariya—defilements of wrong view
+
+3. Vipākantariya—the results of past kammas
+
+4. Ariyūpavādantariya—unwholesome actions done to noble beings.
+
+5. Paññatti-vītikkamantariya—breaking the vinaya rules and no purification.
+
+1. The five heavy kammas
+
+    a Killing one’s mother
+
+    b Killing one’s father
+
+    c Killing arahant
+
+    d Harming the Buddha by injuring him
+
+    e Splitting the saṅgha
+
+These five heavy kammas are incurable in this life. If a being dies with these kammas (even one of them) next rebirth will be in the great Hell.
+
+2. The obstacles of defilement
+
+There are ten kilesas—(1) greed (2) hatred (3) delusion (4) conceit (5) wrong views (6) doubt (7) sloth (8) restlessness (9) and (10) shamelessness and fearlessness of wrongdoing.
+
+Here the obstacles of defilement means wrong views and doubt. The leader of wrong views is identity view (sakkāya-diṭṭhi) and from it develop two main wrong views—eternalism (sassata) and annihilationism (uccheda). With the extension of them—55 sassatas and seven ucchedas which are mentioned in the Brahmajāla Sutta, sutta no. 1, Digha Nikāya. 
+
+All these 62 wrong views have fallen away only to overcome the obstacle and with the practice can eradicate wrong views and doubt. To achieve this, yogis must understand the law of dependent co-arising—paṭicca-samuppāda by study or taught by teachers (e.g., Mogok Sayadaw’s talks).
+
+3. The results of past kammas
+
+There are eight kinds of living beings that can’t realize paths and fruits in their lives. These are: (1) beings in hells (2) beings in animal kingdom (3) beings as peta—hungry ghosts (4) beings as titans—asuras (5) worldling formless brahmā-gods (puthujjana arūpābrahma) (6) beings as brahmā-gods with no minds (asaññabrahma) (7) a person born with two wholesome roots only (duhetuka puggala), i.e., non-greed, non-hatred and delusion (8) seven persons without wholesome roots by births (ahetuka puggalas)
+
+The seven persons without wholesome roots are: (1) born with blindness (2) born with deafness (3) born with dumbness (4) born as a dullard can’t remember things (5) born with craziness (6) not a man nor a woman (maybe between) (7) a person born with both organs of male and female.
+
+I want to make some reflections on the (7) and (8) living beings in the list. Taken together, there are eight types of people, among them no. 4—born as a dullard can’t remember things and no. 5—born with craziness can’t even practice meditations. The other five people can do it, so they should study and practice planting the seed of wisdom. It makes me remember Don—an Esan youth (Thai Laotian) from our forest monastery in Ubon Province, near Bung Wai Village. He was born as a person with deafness and dumbness. His family are living in the village. In the beginning he came to the monastery very often. He helped the monastery in many ways—sweeping, hauling water, going alms round with the monks for carrying rice and foods for them, sometimes it was quite heavy, etc. On observant days, he sit meditation with the monks. Later he stayed at the monastery most of the time and stayed at empty kutis. Even sometime saw him wearing white clothes as phacow (eight-preceptor who wears white). 
+
+My emphasis here is even though he was an ahetuka person carrying some wholesome kammas with him to this life. If we contemplate them with the blessings mentioned in the Maṅgala Sutta and will find some of them—such as consorting with the wise, residing in a suitable place, directing oneself rightly, etc. Among them, it is very important to guide yourself correctly in this life and into the future.
+
+The obstacles related to past kammas are incurable in this livefor these beings (these include eight human beings: one duhetuka + seven ahetukas).
+
+4. Ariyūpavādantariya—wrong doings to noble beings
+
+There are four noble beings from stream enterer to arahant, and three kinds of actions—mental, verbal and bodily actions. If someone with one of any actions has done wrong to any noble being (e.g., sotāpaññā) is an obstacle in practice. This obstacle not only relates to worldlings, but also to other ariyas, e.g., sotāpaññā to sakadāgāmī. This obstacle is curable by asking forgiveness.
+
+5. Breaking the monastic rules
+
+These obstacles only relate to monastics—monks and nuns only. This obstacle can be cured by confession according to specific rules.
+
+------
+
+revised on 2022-07-20
 
 ------
 
@@ -133,4 +194,6 @@ revised on 2022-02-13
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-20 rev. proofread by bhante
+  03-29 add "Obstacles for realization of Dhamma"
   2022-02-13 create rst
