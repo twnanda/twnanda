@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2022-05-01
+:modified: 2022-07-21
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -1008,6 +1008,8 @@ A Noble Search (Dhamma Talks by Sayadaw U Candima
 
 - `Bhavaṅga Meditation <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-bhavanga-meditation%zh.rst>`_
 
+- `After Samādhi, Develop Vipassanā <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-after-samadhi-develop-vipassana%zh.rst>`_  (add on 2022-07-21)
+
 - `A Postscript of <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/postscript-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`__ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
 
 - `Appendix <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima 
@@ -1031,6 +1033,7 @@ These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bo
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-21 add: After Samādhi, Develop Vipassanā
   05-01 rev. two books--thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf
   04-28 add & rev.: Bound volume of "Two Sides of A Coin" and "A Noble Search", etc.
   04-09 add: Dealing with Pain in Samādhi Practice, On Ānāpāna Samādhi, A Scales Like Samādhi, Diamond Meditation and Appendix; "Bhavaṅga Meditation" suspended

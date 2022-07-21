@@ -3,7 +3,7 @@ Content of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima
 ================================================================================
 
 :date: 2022-02-13
-:modified: 2022-05-01
+:modified: 2022-07-21
 :tags: publication, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Sayadaw U Candima, Two Sides of a Coin, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Sayadaw U Ukkaṭṭha (Two Sides of a Coin) and Sayadaw U Candima (Sandima) (A Noble Search)
@@ -58,6 +58,8 @@ A Noble Search__Dhamma Talks by Sayadaw U Candima (Sandima)
 
 - `Bhavaṅga Meditation <{filename}candima-bhavanga-meditation%zh.rst>`_ 
 
+- `After Samādhi, Develop Vipassanā <{filename}candima-after-samadhi-develop-vipassana%zh.rst>`_ 
+
 - `Postscript <{filename}postscript-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
 
 - `Appendix <{filename}appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
@@ -76,7 +78,7 @@ These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bo
 
 ------
 
-revised on 2022-05-01
+revised on 2022-07-21
 
 ------
 
@@ -87,6 +89,7 @@ revised on 2022-05-01
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-21 add: After Samādhi, Develop Vipassanā
   05-01 rev. two books--thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf
   04-28 rev. Appendix, full text print, etc.
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
