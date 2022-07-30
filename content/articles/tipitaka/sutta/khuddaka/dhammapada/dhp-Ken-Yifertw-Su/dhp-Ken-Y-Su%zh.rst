@@ -3,7 +3,7 @@
 =====================================================================
 
 :date: 2021-01-24
-:modified: 2021-07-25
+:modified: 2021-07-30
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 《法句經》, Dhammapada, 白話文版（含巴利文法分析， 蘇錦坤 著 2021）
@@ -94,7 +94,7 @@
      - `第廿四：貪愛品 <{filename}dhp-Ken-Y-Su-chap24%zh.rst>`_
      - `第廿五：比丘品 <{filename}dhp-Ken-Y-Su-chap25%zh.rst>`_
      - `第廿六：波羅門品 <{filename}dhp-Ken-Y-Su-chap26%zh.rst>`_
-     - 附錄： `巴利文法簡介 <{filename}dhp-Ken-Y-Su-grammar-note%zh.rst>`__ 、 `一些迴響 <{filename}dhp-Ken-Y-Su-response%zh.rst>`__ 
+     - 附錄： `巴利文法簡介 <{filename}dhp-Ken-Y-Su-grammar-note%zh.rst>`__ 、 `一些迴響 <{filename}dhp-Ken-Y-Su-response%zh.rst>`__ 、 `修訂紀錄表 <{filename}dhp-Ken-Y-Su-revised-rec%zh.rst>`__ （自 2021-07-25 之後）
      - `整部 <{filename}dhp-Ken-Y-Su-full%zh.rst>`__
 
    * - 23. Nāgavaggo (Dhp.320-333)
@@ -133,6 +133,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-07-30 add: 修訂紀錄表（自 2021-07-25 之後）
   07-25 add: 推薦序、一些迴響、列印檔（整本、上、下冊）
   07-10 rev. old: Note of Gramma for Pali
   07-09 add. 歡迎在相關部落格留言指正、補充、討論、批評 & Note of Gramma for Pali

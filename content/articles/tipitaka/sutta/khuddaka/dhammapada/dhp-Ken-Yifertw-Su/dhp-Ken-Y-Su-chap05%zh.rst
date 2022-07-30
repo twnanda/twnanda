@@ -3,7 +3,7 @@
 ====================================================================================================
 
 :date: 2021-01-24
-:modified: 2021-07-08
+:modified: 2022-07-30
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 第五：愚人品（《法句經》, Dhammapada, Bālavaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
@@ -557,60 +557,24 @@ Dhp. 069
 Dhp. 070
 ~~~~~~~~~~~
 
-| Māse māse kusaggena, bālo bhuñjeyya bhojanaṃ;
-| Na so saṅkhātadhammānaṃ, kalaṃ agghati soḷasiṃ. (70)
+| Māse māse kusaggena, bālo bhuñjeyya bhojanaṃ;
+| Na so saṅkhātadhammānaṃ, kalaṃ agghati soḷasiṃ.
 | 
 | 即使一個愚人能月復一月，只食用一片香茅草葉尖的少許食物，
-| 他苦行的回報也不及已解證法義者的十六分之一。(70)
+| 他(苦行的回報)也不及阿羅漢(功德)的十六分之一。
 | 
-
------------
+| **即使愚人能月復一月，只食用一片香茅草葉尖的少許食物，**
+| **他(苦行的回報)也不及了解法義者(功德)的十六分之一。**
+| 
 
 本偈頌含兩個句子：
 
-    1. 「bālo bhuñjeyya bhojanaṃ」，主詞是「bālo 愚者」(第三人稱單數)。動詞是「bhuñjeyya 能吃」(第三人稱單數，祈使態)，受詞為「bhojanaṃ 食物」。動詞有兩個副詞：「kusaggena 以香茅草尖」(工具格)，「Māse māse 月復一月、一月一月地」。所以，整個上半偈為：「一個愚人能月復一月，只食用一片香茅草葉尖的少許食物」。
+1. 「bālo bhuñjeyya bhojanaṃ」，主詞是「bālo 愚者」(第三人稱單數)。動詞是「bhuñjeyya 能吃」(第三人稱單數，祈使態)，受詞為「bhojanaṃ 食物」。動詞有兩個副詞：「kusaggena 以香茅草尖」(工具格)，「Māse māse 月復一月、一月一月地」。所以，整個上半偈為：「一個愚人能月復一月，只食用一片香茅草葉尖的少許食物」。
 
-    2. 下半偈的主幹為「bālo dukkhaṃ nigacchati 愚人承受苦」，前面為一個時間副詞子句「Yadā ca paccati pāpaṃ」，「Yadā 當、一旦 when」是關係代名詞，「pāpaṃ 惡」，「paccati」為被動語態動詞，意為「被煮、被煮熟」。所以，整個下半偈為：「一旦惡(果)成熟，愚者就承受苦(報)」。
-
------
-
-《法句經》卷1〈愚闇品 13〉：
-
-| 「過罪未熟，愚以恬惔，
-| 至其熟[44]處，自受大罪。」(CBETA, T04, no. 210, p. 563, c5-7)[44]處＝時【宋】【元】【明】。
-| 
-| 《法句經》卷1〈惡行品 17〉：
-| 
-| 「妖孽見福，其惡未熟，
-| 至其惡熟，自受罪[43]虐」(CBETA, T04, no. 210, p. 564, c26-27)，[43]虐＝酷【宋】【元】【明】。
-| 
-| 《出曜經》卷25〈惡行品 29〉：
-| 
-| 「愚者自謂正，猶惡未成熟，......
-| 惡以成熟滿，諸苦亦復熟」(CBETA, T04, no. 212, p. 744, c28 - p. 745, a13-14)
-| 
-| 《法集要頌經》卷3〈罪障品 28〉：
-| 
-| 「愚者自謂正，猶惡不成熟，
-| 惡已成熟滿，諸苦亦復熟。」(CBETA, T04, no. 213, p. 792, b21-22)
-| 
-
-梵文《法句經》的對應偈頌位於〈24 教說品〉 Uv 24.17。
-
-漢譯《法句經》同一首偈頌翻譯了兩次，在〈愚闇品 13〉的偈頌與巴利〈愚者品〉呼應；在〈惡行品 17〉的偈頌與梵文〈惡品〉呼應。
-
------
-
-元亨寺版《法句經》卷1：
-
-| 「愚者月復月，雖唯取少食，似草之尖端，
-| 〔功德〕不值思法者，十六分之一。」(CBETA, N26, no. 9, p. 19, a14 // PTS. Dhp. 10)
-| 
-
-------
+2. 下半偈的主幹為「na so kalaṃ agghati soḷasiṃ」，主詞是「so 他(上半偈的 bālo 愚者)」(第三人稱單數)。動詞是「na agghati 不值得」(第三人稱單數，現在式)，受詞為「kalaṃ soḷasiṃ 十六分之一」。受詞有一個形容詞：「saṅkhātadhammānaṃ 了解法義者的(阿羅漢的)」(屬格)。所以，整個下半偈為：「他(的功德)不及阿羅漢的十六分之一」。
 
 | Ye ca saṅkhātadhammāse, ye ca sekhā puthū idha;
-| Tesaṃ me nipako iriyaṃ, puṭṭho pabrūhi mārisa.
+| Tesaṃ me nipako iriyaṃ, puṭṭho pabrūhi mārisa. (Snp 1038)
 | 
 
 在〈書房夜話 45：思法者(？) saṅkhātadhammā〉，我們從巴利「小部」的《法句經》70 頌與《經集》1038頌得知，「saṅkhātadhammā」的字面意義是「體悟佛陀教導的人」，此字在巴利文獻中，意指「阿羅漢」。
@@ -627,29 +591,41 @@ Dhp. 070
 | 以智慧得無生法故，名數法人。」(CBETA, T25, no. 1509, p. 82, c18-20)
 | 
 
------
-
-關於巴利文獻「saṅkhātadhammā」意指「阿羅漢」，請參考：
+關於巴利文獻「saṅkhātadhammā」意指「阿羅漢」，請參考：https://www.facebook.com/groups/491306231038114/permalink/1548048802030513
 
 〈書房夜話 45：思法者(？) saṅkhātadhammā〉 http://yifertw.blogspot.com/2019/11/45-sankhatadhamma.html
 
 〈書房夜話 46：法數、法教 saṅkhātadhammā〉 http://yifertw.blogspot.com/2019/11/46-sankhatadhamma.html
 
------
-
 《法句經》卷1〈愚闇品 13〉：
 
 | 「愚好美食，[49]月月滋甚，　　
 | 　於十六分，未一思法。」(CBETA, T04, no. 210, p. 563, c9-11)
+| 
 | [49]月＝日【宋】【元】【明】。
+| 
 | 
 | 《法集要頌經》卷3〈廣說品 24〉：
 | 
 | 「從月至於月，愚者用飲食，
 | 　彼不知法數，十六不及一。」(CBETA, T04, no. 213, p. 789, b29-c2)
 | 
-
-梵文《法句經》的對應偈頌位於〈9 業品〉 Uv 9.44。
+| 梵文《法句經》的對應偈頌位於〈9 業品〉 Uv 9.44。
+| 
+| 元亨寺版《法句經》卷1：
+| 
+| 「愚者月復月，雖唯取少食，似草之尖端，
+| 〔功德〕不值思法者，十六分之一。」(CBETA, N26, no. 9, p. 19, a14 // PTS. Dhp. 10)。
+| 
+| 「似草之尖端」應作「以草之尖端」。
+| 
+| 請參考： https://www.facebook.com/groups/2085421668436772/permalink/2373752152937054
+| 
+| 耆那教經典有與此類似的偈頌，Uttaradhyayana 9 尼彌王（King Nami）出家（Pravragya）
+| 
+|   Mase mase tu jo balo kusaggenam tu bhunjae
+|   Na so sukkha adhammasa kalam agghai solasim.
+| 
 
 ------
 
@@ -1064,6 +1040,7 @@ Dhp. 075
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-07-30: 2022-07-08 rev. Dhp. 070, proofread by the author-- Ken Su
   07-08 rev. the conclusion, proofread by the author-- Ken Su
   https://www.facebook.com/groups/484533056446281/posts/505197321046521/ old: https://www.facebook.com/groups/491306231038114/permalink/1745815228920535/
   關於巴利文獻「saṅkhātadhammā」意指「阿羅漢」，請參考：https://www.facebook.com/groups/491306231038114/permalink/1548048802030513?__cft__[0]=AZVMDrIx46wuuzsBsC6Yo0saqMPoPsoZzUpRraYq8qmcOlHnx9rw-CV3cfVWWa57XDsSpDeNRUb8jnEUGeJyweAQ63sWrnUrD_TbN8giulWS23kpiABOZRIMbDFL1pKHveTE0JFMBXG_qH_Vvynrtjqg&__tn__=-UK-R

@@ -3,7 +3,7 @@
 ====================================================================================================
 
 :date: 2021-01-24
-:modified: 2021-07-16
+:modified: 2022-07-30
 :tags: 法句經, Dhammapada, 蘇錦坤, 白話文版, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 藏經閣的掃葉人, Ken Su
 :category: 巴利三藏小部
 :summary: 第廿四：貪愛品（《法句經》, Dhammapada, Taṇhāvaggo, 白話文版, 蘇錦坤 著（含巴利文法分析，2021）
@@ -1222,7 +1222,7 @@ Dhp. 355
 | Bhogataṇhāya dummedho, hanti aññeva attanaṃ. (355)
 | 
 | 財富能傷害愚人，但不能傷害求度彼岸的人，
-| 愚人以財富及貪愛而自害害人。(355)
+| 愚人以貪戀財富而自害害人。(355)
 | 
 
 ------
@@ -1233,7 +1233,7 @@ Dhp. 355
 
     2. 「no ca pāragavesino」。主詞為「bhogā 財富」(複數，省略)，動詞為「Hananti 傷害、殺害」(第三人稱複數現在式動詞，省略)，「no」為加強語氣的「na」，受詞為「pāragavesino 求度彼岸的人」。
 
-    3. 「Bhogataṇhāya dummedho, hanti aññeva attanaṃ」、「Bhogataṇhāya dummedho, hanti aññe eva attanaṃ」。主詞為「dummedho 愚人」，動詞為「Hanti 傷害、殺害」(第三人稱單數現在式動詞)，受詞為「aññe eva attanaṃ 別人，甚至自己」；副詞為「bhogataṇhāya 以財富及貪愛」(工具格)。
+    3. 「Bhogataṇhāya dummedho, hanti aññeva attanaṃ」、「Bhogataṇhāya dummedho, hanti aññe eva attanaṃ」。主詞為「dummedho 愚人」，動詞為「Hanti 傷害、殺害」(第三人稱單數現在式動詞)，受詞為「aññe eva attanaṃ 別人，甚至自己」；副詞為「bhogataṇhāya 以貪戀財富」(工具格)。
 
 ------
 
@@ -1264,6 +1264,8 @@ Dhp. 355
 | 
 
 「毀滅財愚者，決非求彼岸」與巴利偈頌本意有差距。
+
+或許可改作「財毀滅愚者，非求彼岸者」。
 
 ------
 
@@ -1627,6 +1629,7 @@ Dhp. 359
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2022-07-30: 2021-09-09 proofread by the author-- Ken Su
   07-16 rev. Dhp. 339, old: 梵文《法句經》梵文《法句經》無對應偈頌。proofread by the author-- Ken Su
   06-04 rev. Dhp 338; proofread by author, Ken Su
   05-30 rev. Dhp 350; proofread by author, Ken Su
