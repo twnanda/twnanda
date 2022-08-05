@@ -3,7 +3,7 @@ After Samādhi, Develop Vipassanā [Dhamma Talks by Sayadaw U Candima (Sandima)]
 =================================================================================
 
 :date: 2022-07-21
-:modified: 2022-07-21
+:modified: 2022-08-05
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: After Samādhi, Develop Vipassanā (Dhamma Talks by Sayadaw U Candima)
@@ -74,7 +74,7 @@ It only has one kind that becomes one mind. On the seeing object man and woman, 
 
 Instead of seeing the skeleton and seeing it as a man, a woman with beauty; kilesa arises. Do you have to chase and kill the kilesa? Kilesa’s mind is the result and wrong view is the cause. If you want to extinguish the result, you have to kill the cause.
 
-Before, you see it as a man, a woman; lobha, dosa and moha arise, because of wrong seeing. If not seeing as a man, a woman; lobha, dosa kāma do not arise. Only seeing as skeleton and defilement of lust (kāma-kilesa) and diṭṭhi cease from behind. This is not chasing and killing them. With insight knowledge contemplates the object and its attention on it by discerning about them. (?? Contemplate with "insight knowledge" to the internal nature of the object of attention (i.e., skeleton) that makes the wrong seeing of diṭṭhi—taṇhā cease (i.e., man or woman). Because of the object (ārammaṇa) and wrong attention, kilesa arises. The way of practising for Dhamma appears. Diṭṭhi-taṇhā end is the ending of rise and fall. 
+Before, you see it as a man, a woman; lobha, dosa and moha arise, because of wrong seeing. If not seeing as a man, a woman; lobha, dosa kāma do not arise. Only seeing as skeleton and defilement of lust (kāma-kilesa) and diṭṭhi cease from behind. This is not chasing and killing them. Contemplate with "insight knowledge" to the internal nature of the object of attention (i.e., skeleton) that makes the wrong seeing of diṭṭhi—taṇhā cease (i.e., man or woman). Because of the object (ārammaṇa) and wrong attention, kilesa arises. The way of practising for Dhamma appears. Diṭṭhi-taṇhā end is the ending of rise and fall.
 
 The ending of rise and fall is Nibbāna.
 
@@ -301,13 +301,13 @@ For information on Sayadaw U Candima's teaching and retreat:
 | Website : www.theinngu 32.org
 | 
 
-Sayadaw U Candima wrote about his meditation teaching in Burmese called “The Way to Stream Entery”. This book was translated into English as “Theravada Meditation Art and Methodology”. The readers can find it on www.amazon.com as ebook: https://www.amazon.com/Ashin-Sandimar-AungLan-Sayadaw-ebook/dp/B07WK7D2QZ/ref=monarch_sidesheet
+Sayadaw U Candima wrote about his meditation teaching in Burmese called “The Way to Stream Entery”. This book was translated into English as “Theravada Meditation Art and Methodology”. The readers can find it on www.amazon.com as e-book: https://www.amazon.com/Ashin-Sandimar-AungLan-Sayadaw-ebook/dp/B07WK7D2QZ/ref=monarch_sidesheet
 
 Note: If there are mistakes and misunderstandings, it is all my fault. I ask everyone's forgiveness. I hope the lives and practices of these two noble warriors inspire people to end their Dukkha in this present life.
 
 ------
 
-revised on 2022-07-21
+revised on 2022-08-05
 
 ------
 
@@ -322,4 +322,5 @@ revised on 2022-07-21
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-05 rev. proofread by bhante
   2022-07-21 create rst

@@ -3,7 +3,7 @@ A Postscript of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sa
 =====================================================================================
 
 :date: 2022-04-28
-:modified: 2022-07-20
+:modified: 2022-08-05
 :tags: Postscript, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Two Sides of A Coin, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Postscript of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
@@ -20,7 +20,7 @@ So you must give the right concept. How to contemplate it? Contemplate form (rū
 
 In the past, if you had practiced an asubha object, asubha nimitta will arise. The acquired sign (parikamma nimitta) arises in the mind. If you practiced skeleton before, now skeleton will arise (Sayadaw also talked about other asubha nimittas). Don’t be afraid of it. These are your Dhamma inheritance of the past. Some people talked about them as concepts. They didn’t know the differences between concept and reality (paramatā). These are the results of past kammas. 
 
-If seeing asubha in this life, you will go to Nibbāna (i.e., can finish the practice like him). It kills taṇhā directly. Don’t let it disappear. Contemplate its nature. How does it appear? For example, the fresh body changes slowly stage by stage—becoming brown and black in color, flowing out with putrid blood and pus, the body becomes bloated, etc. Observe its nature. How does it change and dissolve? You will see its nature. Seeing, hearing, smelling, etc. are dhamma. You don’t need to argue about it. 
+If seeing asubha in this life, you will go to Nibbāna (i.e., can finish the practice like him). It kills taṇhā directly. Don’t let it disappear. Contemplate its nature. How does it appear? For example, the flesh body changes slowly stage by stage—becoming brown and black in color, flowing out with putrid blood and pus, the body becomes bloated, etc. Observe its nature. How does it change and dissolve? You will see its nature. Seeing, hearing, smelling, etc. are dhamma. You don’t need to argue about it. 
 
 Don’t be afraid of the putrid, bloated corpses which are upādānakkhandha of the mind. You’ll see the whole world as asubha (as in his own practice).
 
@@ -74,7 +74,7 @@ You’ll find out the nature of mind (nāma) which feels sukha and dukkha.
 
 The mind fears dukkha and likes (love) sukha. When dukkha vedanā arises, it knows at the legs (in sitting) and not able to bear the pain it moves to the tip of the nostril. Knowing these (dukkha and sukha) to and fro is knowing impermanence (this is not the same as U Candima’s Scales like meditation—see above the instruction of U Candima). If you follow them to the end, mind and form cease at the same time. The mind becomes peaceful and happy. This arrives at cittānupassanā-satipaṭṭhāna, from dukkha into sukha (i.e., into sotāpanna). 
 
-Knowing the tip of the nostril is kāyapassanā (i.e., breath meditation), knowing feeling (vedanā) arising is vedanā-satipaṭṭhāna, and then the feeling nature of nāma dhamma will come to ending—and arrive at cittasatipaṭṭhāna (from there one continues to become a once-returner, non-returner and arahant, see Sayadaw’s practice and realization). 
+Knowing the tip of the nostril is kāyapassanā (i.e., breath meditation), knowing feeling (vedanā) arising is vedanā-satipaṭṭhāna, and then the feeling nature of nāma dhamma ends—arriving at cittasatipaṭṭhāna (from where one continues to be a once-returner, non-returner and arahant, see Sayadaw’s practice and realization).
 
 Stiffness, tension, etc., are non-existent dhammas. Nāma feeling is an existing dhamma. When you arrive cittasatipaṭṭhāna, your destination (good existence—sugati) is stable. You have to practice becoming stable destinations (gati). Work hard! Be patient with vedanā and attack kilesa. If you have patience (i.e., khanti) will attain Nibbāna. 
 
@@ -134,7 +134,7 @@ The education on the law of kamma becomes very important to every human being wh
 
 ------
 
-revised on 2022-07-20
+revised on 2022-08-05
 
 ------
 
@@ -151,6 +151,7 @@ revised on 2022-07-20
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-05 rev. proofread by bhante
   07-20 rev. proofread by bhante
   post on 04-28
   2022-04-27 create rst

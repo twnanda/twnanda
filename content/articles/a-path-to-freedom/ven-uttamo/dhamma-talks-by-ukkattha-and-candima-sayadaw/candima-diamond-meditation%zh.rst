@@ -3,14 +3,14 @@ Diamond Meditation [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ===================================================================
 
 :date: 2022-02-13
-:modified: 2022-07-12
+:modified: 2022-08-05
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Diamond Meditation (Dhamma Talks by Sayadaw U Candima)
 
 [ This is a two hours sitting meditation talk by Sayadaw. He called this vipassanā practice as bodhisatta kammaṭṭhāna or Mahāpallaṅka method or Diamond Throne method. Bodhisatta Siddhattha sat under a bodhi tree and attained enlightenment in one sitting. Burmese Buddhists give the name to the place where the Buddha’s enlightenment as Mahapallin (Mahāpallaṅka) or Diamond Throne. Sayadaw called it as diamond throne method because with determination or resolution (adhiṭṭhāna) in one sitting kill or abandon taṇhā kilesa. In one of his talks he mentioned it as the only way to expose taṇhā quickly. 
 
-I did not transcribe the whole talk, but only the important points. The Practice is also quite simple. Yogis who develop samādhi with ānāpāna-sati can do this practice. After the successful purification of the mind (cittavisuddhi) or jhāna samādhi, continuing with Mahāpallaṅka meditation, one can bear dukkha vedanā.
+I did not transcribe the whole talk, but only the important points. The practice is also quite simple. Yogis who develop samādhi with ānāpāna-sati can do this practice. After the successful purification of the mind (cittavisuddhi) or jhāna samādhi, continuing with Mahāpallaṅka meditation, one can bear dukkha vedanā.
 
 Sitting with the body in relaxation. Without any tension and control to the body. Mind and body are in relaxation. You should not have any concern for the body. The mind has to be at rest and free. Empty the mind out and just pure awareness. Whatever is happening to the mind and body,  just be aware of it without any state of intervention. If vedanā arises on the body, don’t go and look at it. The physical body doesn’t have craving (taṇhā) which is happening in the mind. So only look at the mind. Whatever mind state arises, look at them.
 
@@ -44,7 +44,7 @@ These three unwholesome roots of greed, hatred and delusion relate to these two 
 
 ------
 
-revised on 2022-07-12
+revised on 2022-08-05
 
 ------
 
@@ -59,6 +59,7 @@ revised on 2022-07-12
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-05 rev. proofread by bhante
   07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-28 post, 04-27 rev: 2nd proofread by bhante
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw

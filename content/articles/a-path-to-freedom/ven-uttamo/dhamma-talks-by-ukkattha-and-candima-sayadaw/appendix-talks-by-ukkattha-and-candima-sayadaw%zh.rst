@@ -3,7 +3,7 @@ Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandim
 =================================================================================
 
 :date: 2022-02-13
-:modified: 2022-07-20
+:modified: 2022-08-05
 :tags: Appendix, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Two Sides of A Coin, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
@@ -23,6 +23,8 @@ Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandim
   * `Loong Por Tate talked about Jit & Jy`_
 
   * `Chan Master Hsuan Hua’s on Samādhi`_
+
+- `Some Explanations On the Practice`_
 
 - `Some Dhamma Reflections`_
 
@@ -60,12 +62,16 @@ Therefore, how to contemplate it? Not listening to the Dhamma (i.e., suññatā 
 
 [ It seems that this is not simple, because the mind's response to pain is the focus. If the mind with aversion, irritation, etc., it’s not easy to overcome it. Instead of the physical pain, it is better to contemplate the mental pain (feeling); as Thae-inn Gu Sayadaw says, it is better to do so. See Sayadaw’s teachings and instructions. ]
 
+------
+
 A Mogok teacher: 
 ~~~~~~~~~~~~~~~~~~
 
 The importance of vedanā—many yogis are stuck at dukkha vedanā. Their practice did not develop because they did not understand vedanā or contemplated it in the wrong way. This is reacting to vedanā wrongly with unwise attention. One also cannot overcome it with wrong views. Should not contemplate dukkha vedanā in an unbearable way. There are four faults dealing with dukkha vedanā unbearably. These are: (1) Dukkha vedanā becomes stronger (2) Samādhi falls down (3) Wanting it to disappear (4) Vedanā covering the mind and delusion comes in, and does not know one’s situation.
 
 There are two kinds of khandhas: (1) The original khandha, i.e., the physical body and can see with the fleshy eyes (2) The arising khandha, this can only be known with the mind eye. They can be called conceptual khandha (paññatti) and intrinsic khandha (paramatā). The yogi has to contemplate the arising khandha. If one does not overcome the pain when dukkha vedanā arises, the mind also becomes painful because of the mix-up of the two khandhas. We see pains with normal eyes—this is seeing with self-view (attato-anupassati). Have to contemplate the arising khandha with knowledge eye (ñāṇa eye). When discerning anicca, only the body is in pain and not affecting the mind. The mind can bear pain.
+
+------
 
 Taw-Ku Sayadawgyi
 ~~~~~~~~~~~~~~~~~~
@@ -82,6 +88,8 @@ Taw-Ku Sayadawgyi
 
 Sayadaw himself is a very good example of patience and endurance with pains in sitting meditation. He taught what he himself had practiced. All Mahāsi centers only sit for an hour with walking meditation. At Sayadaw’s center, yogis have to sit for at least three hours.
 
+------
+
 Tha-thom Min-goon Sayadawgyi (Mahāsi Sayadaw’s teacher)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -89,11 +97,15 @@ Don’t make it arise or vanish, but know it arises and vanishes. Making it aris
 
 Because of this burning kilesa that suffering (dukkha) arises, and we experience dukkha vedanā. At the time of battling with kilesa enemies which are testing the yogis’ courage and persistence of effort. Vipassanā practice is long term practice. Our age (era) is also neyya period or neyya-puggala (in our time most people take some time to practice for realization of Dhamma, and need a lot of effort). So the main point is contemplating the vanishing of mind and body (form). To contemplate all the time is the duty of yogis. Only with continuous contemplation knowledge (ñāṇa) develops to the top and when encounter a suitable situation, it will arise instantly. 
 
+------
+
 Sa-gaing Taung Mahāgandhāyon Sayadaw U Uttara (1858— 1919)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Before the dangers of sickness and death come first practicing the Dhamma. If you fear the great sufferings of apāyas (woeful existences) and try to be patient with small sufferings. 
 If you desire the great happiness of Nibbāna and try to abandon small happiness.
+
+------
 
 On Samādhi
 ~~~~~~~~~~~~
@@ -154,6 +166,44 @@ Chan Master Hsuan Hua’s on Samādhi
 “Truly recognize your own faults. And don’t discuss the faults of others. Others’ faults are just my own. Being of one substance with all is called great compassion.”
 
 (In the Theravada view—“being of one substance with all” means all beings are saṃsāric dukkha travelers in round of existence. If we really understand or penetrate Dukkha only develop true great compassion and not otherwise, because true wisdom and true compassion can’t separate.
+
+------
+
+Some Explanations On the Practice
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Here I want to clarify two points mentioned in Sayadaw U Candima’s talks. These are: mahāpallaṅka  (in Burmese—mahāpallin) and “the three levels of samādhi” (bhavaṅgas or the three stages of purification of the mind) or three bhavaṅgas.  U Candima’s usage of mahāpallin means full-lotus posture meditation. Actually, full-lotus is a yoga posture. Therefore, I translate it as Diamond meditation.
+
+Here “the three levels of samādhi” or  “three bhavaṅgas” is more important. Without these three stages of samādhi, full insight is impossible (see his bio-talk).
+
+| The first bhavaṅga refers to the first jhāna.
+| The second bhavaṅga refers to the second and third jhānas.
+| The third bhavaṅga refers to the fourth jhāna.
+| 
+
+To understand them clearer, I recommend the readers to read his book “Theravada Meditation Art and Methodology” on www.amazon.com, e-book.
+
+Another important sutta in his practice is:
+
+MN 148 Chachakka Sutta (The six sets of six, Majjhima-nikāya)
+
+The six sets of six are:
+
+| 1. the six internal bases (āyatana)
+| 2. the six external bases (āyatana)
+| 3. the six consciousness (viññāṇa)
+| 4. the six contact (phassa) 
+| 5. the six feelings (vedanā)
+| 6. the six cravings (taṇhā)
+| 
+
+A yogi must know these three six sets of six directly in the practice. If not, the practice is still not right yet (see his bio-talk.)
+
+But The-inn Gu Sayadaw and his way of practices are not the same. U Candima himself mentioned this point in his talk.
+
+There can be many ways of practice to realize Dhamma.  I also encourage readers to read the practices of the famous Thai forest tradition.
+
+------
 
 Some Dhamma Reflections
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -283,7 +333,7 @@ Sabbe satta sukhi hontu!
 
 ------
 
-revised on 2022-07-20
+revised on 2022-08-05
 
 ------
 
@@ -300,6 +350,7 @@ revised on 2022-07-20
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-05 add. Some Explanations On the Practice
   07-20 rev. proofread by bhante
   07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-28 post, 04-27 rev: 2nd proofread by bhante

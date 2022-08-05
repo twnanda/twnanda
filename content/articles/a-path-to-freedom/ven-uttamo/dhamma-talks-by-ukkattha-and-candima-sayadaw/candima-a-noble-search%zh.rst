@@ -3,7 +3,7 @@ A Noble Search [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ===============================================================
 
 :date: 2022-02-13
-:modified: 2022-07-20
+:modified: 2022-08-05
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Noble Search (Dhamma Talks by Sayadaw U Candima)
@@ -91,8 +91,6 @@ When I was thinking about this matter, marrying a woman was like signing the agr
 (When a sotāpanna sees a woman, it is not a woman to him. I have already mentioned one of Ajahn Chah’s disciple Khun T, when he was thinking about having a family life, and every woman he thought about for his choice all of them appeared to him like skeletons.) 
 
 I did not say a word for half an hour, so that she asked me; “Darling, are you not well?” I responded with one words as; “I am well” After 15 minutes passed by “Do you have a lover in Rangoon?” I only responded with; “I don’t have anyone”, and then another 15 or 20 minutes passed. Likewise, I myself don't know what happened to me. She asked me; “Do you see any fault in me?” My response was; “No, you don’t have any fault.” With this response, she was crying. I knew that she was crying, but in my mind she was still a wooden statue for me. 
-
-[This is my reflection—maybe in his past life as a monk he practiced four elements meditation on earth element (paṭhavī)]. 
 
 After that, I returned home. Next day I told my sister that last night I went there, and spoke with her, but she was not a human. They all laughed at me. These are related to perfection, because of wholesome perfection I could practice the Dhamma like now.
 
@@ -194,7 +192,7 @@ For example, in geometry (a type of mathematics)—two triangles are equal, in t
 
 Before vedanā arising I practiced ānāpānasati, and when vedanā arose as an example—hotness arising from its nature, and I recited it as anatta, anatta, etc. So my mind became tired. When I looked it back, hotness is only known as hotness. I didn’t know it as anatta, and only the reciting of anatta existed. 
 
-The instructor of meditation (kammaṭṭhāna-ācariya) had to give the instruction suitable to the character of the student, and not taking everyone as the same. People had different knowledge (ñāṇa). This was the most important in giving instruction. The teacher must give guidance appropriate to the practitioner's shallow or deep knowledge, and his scope, and perspective. I wanted to know the nature of cause, and effect. The teacher gave me instruction as usual (i.e., fix formula) that the giver, and the receiver were not in accordance with its nature. It was only reciting as anatta, but I couldn’t bear the pain and aches; because I couldn’t bear the hotness, pain and aches that the mind suffered—So I was reciting it dukkha, dukkha, etc. It was only reciting, and still in suffering. It did not disappear, and also not knowing as vedanā. From hotness, it changed to stiffness, so I noted it as anicca; once noting the stiffness, it also changed. I noted it as anatta, anicca, and recited as dukkha, but I was only knowing of not wanting the pains, and aches. 
+The instructor of meditation (kammaṭṭhāna-ācariya) had to give the instruction suitable to the character of the student, and not taking everyone as the same. People had different knowledge (ñāṇa). This was the most important in giving instruction. The teacher must give guidance appropriate to the practitioner's shallow or deep knowledge, and his scope, and perspective. I wanted to know the nature of cause, and effect. The teacher gave me instruction as usual (i.e., fixed formula) that the giver, and the receiver were not in accordance with its nature. It was only reciting as anatta, but I couldn’t bear the pain and aches; because I couldn’t bear the hotness, pain and aches that the mind suffered—So I was reciting it dukkha, dukkha, etc. It was only reciting, and still in suffering. It did not disappear, and also not knowing as vedanā. From hotness, it changed to stiffness, so I noted it as anicca; once noting the stiffness, it also changed. I noted it as anatta, anicca, and recited as dukkha, but I was only knowing of not wanting the pains, and aches. 
 
 Anicca, dukkha and anatta knowledges did not arise and only knowing it as unpleasant. For a week I was practicing days and nights, the practice was not developed enough that it made me disappointed. It was also not right. Therefore, I went to ask the meditation teacher U Nandobasa. It was not easy to ask him, because there were many people there. He could shave head hair, so I had to wait until my hair was long enough. 
 
@@ -218,7 +216,7 @@ The practice and progress did not match, and all that remained was pain and sore
 
 I could not rely on my teacher; so I prayed to the Buddha, but he did not teach me. I was afraid of the four woeful existences (apāya). Fear of ageing, sickness, and death sufferings was also this mind. The female boss Visākhā, and Anāthapiṇḍika boss became stream winners (sotāpanna), and enjoyed the sensual pleasure in havens, they were also in this mind. This mind was changing in various ways to express its nature—which I became understanding of. It was arriving at insight. When doing the practice, I didn’t get what one’s desire was, and thinking as follows. 
 
-In the past, arahants attained absorption (jhānas), before I also had attained jhānas. Attaining of jhānas must be arahant. Therefore, I practiced ānāpāna up to jhāna levels, after attaining it I went up to the sky as before, and came down again. I was playing jhāna in different ways, after that I was opening my eyes, and when seeing a nun, and only knowing as a nun. In this case, if seeing man, and knowing as man, seeing dog, and still knowing as dog, then my practice was not attaining the Dhamma Nibbāna) yet. I deviated from it, so what should I do to achieve Dhamma? I didn’t see the trace of the path because I didn’t get the good method and the right way. Therefore, I myself teach you with guarantee with the right method, and right way. I am concerned for you not to happen the same as me. I am teaching you this kind of saddhā.
+In the past, arahants attained absorption (jhānas), before I also had attained jhānas. Attaining of jhānas must be arahant. Therefore, I practiced ānāpāna up to jhāna levels, after attaining it I went up to the sky as before, and came down again. I was playing jhāna in different ways, after that I was opening my eyes, and when seeing a nun, and only knowing as a nun. In this case, if seeing man, and knowing as man, seeing dog, and still knowing as dog, then my practice was not attaining the Dhamma Nibbāna) yet. I deviated from it, so what should I do to achieve Dhamma? I didn’t see the trace of the path because I didn’t get the good method and the right way. Therefore, I myself teach you with guarantee with the right method, and right way. I am concerned for you not to happen the same as me. I am teaching you with this kind of saddhā.
 
 I was practicing until my buttocks were like falling apart with the skin falling out. After the sitting, if I got up my buttocks, and robe were sticking together. 
 
@@ -531,7 +529,7 @@ There is a saying in Zen (Chan) tradition—before the practice river is river, 
 
 ------
 
-revised on 2022-07-20
+revised on 2022-08-05
 
 ------
 
@@ -546,6 +544,7 @@ revised on 2022-07-20
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-05 rev. proofread by bhante
   07-20 rev. proofread by bhante
   07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw

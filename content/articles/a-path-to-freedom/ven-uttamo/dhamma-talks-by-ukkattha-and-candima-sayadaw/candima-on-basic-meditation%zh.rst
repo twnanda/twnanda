@@ -3,7 +3,7 @@ On Basic Meditation [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ====================================================================
 
 :date: 2022-02-13
-:modified: 2022-07-12
+:modified: 2022-08-05
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: On Basic Meditation (Dhamma Talks by Sayadaw U Candima)
@@ -48,7 +48,7 @@ It must calm the breath, meaning there is no calmness to make it calm.  (This re
 
 In the Paṭisambhidāmagga (a commentary) it gave the example of striking a copper bell. The sound of “dong” becomes smaller, and smaller, and then disappears. 
 
-This is passambhaya-kāyasaṅkhāra—from strong breathing to become lighter. (this referred to the 4th stage of ānāpāna in Pāḷi). The words of rough breathing do not mean to breathe like cutting a log with a saw (i.e., using force). This means using a strong breathing which is suitable to oneself. The saying of strong breathing is not dhamma means speaking without practice. You’ll know about them later with the practice. I am not rejecting your own way of practice because it’s reasonable (some methods, as mentioned before). Later you’ll become clear of them. In collecting the mind, you can do it with the method which you like. 
+This is passambhayam-kāyasaṅkhāram—from strong breathing to become lighter. (this referred to the 4th stage of ānāpāna in Pāḷi). The words of rough breathing do not mean to breathe like cutting a log with a saw (i.e., using force). This means using a strong breathing which is suitable to oneself. The saying of strong breathing is not dhamma means speaking without practice. You’ll know about them later with the practice. I am not rejecting your own way of practice because it’s reasonable (some methods, as mentioned before). Later you’ll become clear of them. In collecting the mind, you can do it with the method which you like. 
 
 You can also breathe ānāpāna slowly or lightly. Here I’ll show you the method which is not slow, and fast, not soft, and strong breathing. You use this method or not up to you (i.e., his system). Why I allow this, you will understand it by practicing. You’ll know later how to practice is the best way. Now, you have to practice with the method you prefer.
 
@@ -66,7 +66,7 @@ If you sit with other methods you also have to follow these rules. You should no
 
 With ānāpāna you should not stop it again, and breathe it again, should not breathe strongly, and then lightly (i.e., breathe in the constant way). Here the machine will teach you how to breathe (There is a recording machine with The-inn breathing system, during the sitting is playing a record of the breathing sound, and the yogi’s try to breathe according to the sound.) You have to breathe equally according to the machine. This is referring to yogis who can follow it. For older yogis who can’t breathe according to the machine can breathe stronger with one’s own ability. You all note it carefully. Later you’ll say I can’t breathe according to the machine. 
 
-It doesn’t mean you have to follow the machine exactly. It will be better if you can breathe according to the rate of the machine. Even though you can breathe it, but you don’t follow it, and it will be a mistake (i.e., miss the benefit of results which is overcoming pain, and go into samādhi). Older people, and some who have heart disease (problems) breathe with one’s good breathing, but must have acceleration (power, and force), and in accordance with the rules (as mentioned all above). You should breathe more than ordinary breathing (i.e., once or twice more). If you can breathe in accordance with the machine, it should be the same as it. In the beginning, it’s not used to this mind of breathing that it becomes tired or tight in the chest, because the lungs’ area is not opening up, or you are used to the normal slow breathing. With a little strong breathing the lungs’ area opens up, and it becomes tired and tight. Without concern about it, and if you continue to breathe regularly, the lungs’ area opens up, and blood circulation becomes good even if it is possible to treat the disease. If you can breathe in accordance with the machine it is better. If you can’t do it with one’s own breathing rate the long breaths, and short breaths have to be in equal lengths, slow breathing, and fast breathing have to be right, strong breathing, and soft breathing have to be right, etc. 
+It doesn’t mean you have to follow the machine exactly. It will be better if you can breathe according to the rate of the machine. Even though you can breathe it, but you don’t follow it, and it will be a mistake (i.e., miss the benefit of results which is overcoming pain, and go into samādhi). Older people, and some who have heart disease (problems) breathe with one’s good breathing, but must have acceleration (power, and force), and in accordance with the rules (as mentioned all above). You should breathe more than ordinary breathing (i.e., once or twice more). If you can breathe in accordance with the machine, it should be the same as it. In the beginning, it’s not used to this kind of breathing that it becomes tired or tight in the chest, because the lungs’ area is not opening up, or you are used to the normal slow breathing. With a little strong breathing the lungs’ area opens up, and it becomes tired and tight. Without concern about it, and if you continue to breathe regularly, the lungs’ area opens up, and blood circulation becomes good even if it is possible to treat the disease. If you can breathe in accordance with the machine it is better. If you can’t do it with one’s own breathing rate the long breaths, and short breaths have to be in equal lengths, slow breathing, and fast breathing have to be right, strong breathing, and soft breathing have to be right, etc. 
 
 Its meaning is breathing rhythmically with constancy (without any changes, and it is important). Sometimes the breath is long and short, strong and weak, and there is a pause when breathing. ??) In this case, it doesn’t develop samādhi. Weak and strong, slow and fast have to be right. Later, pain (vedanā) will give you the answer. If vedanā arises, your own original meditation object is unreliable (i.e., other methods as mentioned above). Unreliable doesn’t mean these methods are wrong—Later you’ll understand them. Still not practicing, you don’t know the answer yet. The answer will come out during the practice. 
 
@@ -74,7 +74,7 @@ If you are correcting, and lifting the body during the designated determination 
 
 ------
 
-revised on 2022-07-12
+revised on 2022-08-05
 
 ------
 
@@ -89,6 +89,7 @@ revised on 2022-07-12
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-05 rev. proofread by bhante
   07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   2022-02-13 create rst

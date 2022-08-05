@@ -3,7 +3,7 @@ The Way of a Stream Enterer (Dhamma Talks by Sayadaw U Ukkaṭṭha)
 ===================================================================
 
 :date: 2022-02-13
-:modified: 2022-07-20
+:modified: 2022-08-05
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Two Sides of A Coin
 :category: path of nirvana
 :summary: The Way of a Stream Enterer (Dhamma Talks by Sayadaw U Ukkaṭṭha)
@@ -163,11 +163,11 @@ There are eight kinds of living beings that can’t realize paths and fruits in 
 
 The seven persons without wholesome roots are: (1) born with blindness (2) born with deafness (3) born with dumbness (4) born as a dullard can’t remember things (5) born with craziness (6) not a man nor a woman (maybe between) (7) a person born with both organs of male and female.
 
-I want to make some reflections on the (7) and (8) living beings in the list. Taken together, there are eight types of people, among them no. 4—born as a dullard can’t remember things and no. 5—born with craziness can’t even practice meditations. The other five people can do it, so they should study and practice planting the seed of wisdom. It makes me remember Don—an Esan youth (Thai Laotian) from our forest monastery in Ubon Province, near Bung Wai Village. He was born as a person with deafness and dumbness. His family are living in the village. In the beginning he came to the monastery very often. He helped the monastery in many ways—sweeping, hauling water, going alms round with the monks for carrying rice and foods for them, sometimes it was quite heavy, etc. On observant days, he sit meditation with the monks. Later he stayed at the monastery most of the time and stayed at empty kutis. Even sometime saw him wearing white clothes as phacow (eight-preceptor who wears white). 
+I want to make some reflections on the (7) and (8) living beings in the list. Taken together, there are eight types of people, among them no. 4—born as a dullard can’t remember things and no. 5—born with craziness can’t even practice meditations. The other five people can do it, so they should study and practice planting the seed of wisdom. It makes me remember Don—an Esan youth (Thai Laotian) from our forest monastery in Ubon Province, near Bung Wai Village. He was born as a person with deafness and dumbness. His family are living in the village. In the beginning he came to the monastery very often. He helped the monastery in many ways—sweeping, hauling water, going alms round with the monks for carrying rice and foods for them, sometimes it was quite heavy, etc. On observant days, he sit meditation with the monks. Later he stayed at the monastery most of the time and stayed at empty kutis. Even sometime saw him wearing white clothes as pha-khao (eight-preceptor who wears white). 
 
 My emphasis here is even though he was an ahetuka person carrying some wholesome kammas with him to this life. If we contemplate them with the blessings mentioned in the Maṅgala Sutta and will find some of them—such as consorting with the wise, residing in a suitable place, directing oneself rightly, etc. Among them, it is very important to guide yourself correctly in this life and into the future.
 
-The obstacles related to past kammas are incurable in this livefor these beings (these include eight human beings: one duhetuka + seven ahetukas).
+The obstacles related to past kammas are incurable in this life for these beings (these include eight human beings: one duhetuka + seven ahetukas).
 
 4. Ariyūpavādantariya—wrong doings to noble beings
 
@@ -179,7 +179,7 @@ These obstacles only relate to monastics—monks and nuns only. This obstacle ca
 
 ------
 
-revised on 2022-07-20
+revised on 2022-08-05
 
 ------
 
@@ -194,6 +194,7 @@ revised on 2022-07-20
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-05 rev. proofread by bhante
   07-20 rev. proofread by bhante
   03-29 add "Obstacles for realization of Dhamma"
   2022-02-13 create rst

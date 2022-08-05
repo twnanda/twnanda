@@ -3,7 +3,7 @@ From the Beginning to the End (The Way From Sotāpanna to Arahant, Dhamma Talks 
 ========================================================================================================
 
 :date: 2022-02-13
-:modified: 2022-02-13
+:modified: 2022-08-05
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Two Sides of A Coin
 :category: path of nirvana
 :summary: From the Beginning to the End (The Way From Sotāpanna to Arahant, Dhamma Talks by Sayadaw U Ukkaṭṭha)
@@ -46,7 +46,7 @@ You have to contemplate the nāma (mind), its nature characteristic sabhāva lak
 
 I’ll continue on vedanā. With the cessation of dukkha, sotāpanna has sukha, with dukkha ceases and sukha samādhi arises. His samādhi becomes good. Now, it’ll exterminate taṇhā (craving). Contemplation of sukha will become dukkha, this reduces taṇhā. Now, I’ll talk about the dissolution of form (rūpa). The dissolution of nāma (mind) is related to sotāpanna. There are sabhāva view and mind view—with a lot of contemplation on the khandha and loathsomeness of the body appears (asubha). Seeing it as like with an open eye, like a large foamy water, as like 10 days or 15 days loathsome corpse, etc. This is seeing its dhamma sabhāva (dhamma nature). Some said that Thae Inn practice was on concepts. The Buddha said the whole world (loka) was paramatā dhamma. Not really exist is paññatti—concepts. Seeing and knowing dhammas are paramatā dhamma, because of seeing its sabhāva lakkhaṇa. There are five concepts—from sotāpanna to arahant the abandonment of concepts in different levels. What concepts are abandoned by sotāpanna? He abandons the concepts of four elements as -stiffness, tenseness, etc. (internal) and from external the concepts of man, woman, dog, car, etc. He understands the feeling (vedanā) of nāma dhamma.
 
-The stomach of the corpse is opened and with pus and blood flowing out from it. It’s infested with many worms. Skeleton appears and seeing one’s khandha as disgusting. The body appears also as a boiling foamy water, and burning with fire. All these signs (lakkhaṇa) are the perishing of form (rūpa) with its four elements. The skeleton represents earth element (paṭhavī); bloated, putrid, flowing with pus and blood represents water element (āpo), the corpse burns with fire represents fire element (tejo), boiling foamy water represents air element (vāya). At now, form is the cause and nāma (mind) is the result. At sotāpanna nāma (mind) is the cause and form is the result. It’s seeing the khandha terrible situations that not desire for it. It becomes the result of disgust, and the desire to throw it away. In sleep, it is this state of mind, and at eating also the same state of mind. On the whole world becomes this state of mind. Wanting to throw it away but also can’t do it. And then I am looking for comfort. 
+The stomach of the corpse is opened and with pus and blood flowing out from it. It’s infested with many worms. Skeleton appears and seeing one’s khandha as disgusting. The body appears also as a boiling foamy water, and burning with fire. All these signs (lakkhaṇa) are the perishing of form (rūpa) with its four elements. The skeleton represents earth element (paṭhavī); bloated, putrid, flowing with pus and blood represents water element (āpo), the corpse burns with fire represents fire element (tejo), boiling foamy water represents air element (vāyo). At now, form is the cause and nāma (mind) is the result. At sotāpanna nāma (mind) is the cause and form is the result. It’s seeing the khandha terrible situations that not desire for it. It becomes the result of disgust, and the desire to throw it away. In sleep, it is this state of mind, and at eating also the same state of mind. On the whole world becomes this state of mind. Wanting to throw it away but also can’t do it. And then I am looking for comfort. 
 
 In the mind is seeing the khandha’s sabhāva which is paramatā. In the past, I had two dakamas (i.e., two upāsikās—in Burmese is dakama, his two wives in lay life). I thought at the time that they might be good for me. At that time, I was practicing in the village (see his auto-bio talk). When I was looking at the dakama in Rangoon (Burmese wife) and seeing her bloated putrid corpse in the mosquito net. (As a sakadāgāmī—once returner, his samādhi was very good, and he had the power to see things. U Candima also had this power, which mentioned in his auto-bio talk.) It was quite disgusting. When my mind turned toward the Karen-ma in the village, and she also became putrid, smelly and disgusting. 
 
@@ -74,7 +74,7 @@ From the contemplation of mind (cittānupassanā) let us contemplate dhammānupa
 
 ------
 
-revised on 2022-02-13
+revised on 2022-08-05
 
 ------
 
@@ -89,4 +89,5 @@ revised on 2022-02-13
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-05 rev. proofread by bhante
   2022-02-13 create rst
