@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2022-07-21
+:modified: 2022-08-10
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -1018,21 +1018,16 @@ A Noble Search (Dhamma Talks by Sayadaw U Candima
 
 These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bound in one volume:
 
-- Full Text (PDF, under construction); 
+- `PDF <https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 14 pt, 285 pages, 2022-08-10)
 
-- Full Text (PDF, background in green, under construction)
-
-- For Print:
-
-  * Size: B5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/774a68a84b773c1f1fcfa1de63a4063bf518174a/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (14 pt, 250 pages, 2022-04-29) 
-
-- `Cover <https://github.com/twnanda/doc-pdf-etc/blob/a84db3969f5fb0213675e1de8ee1a6c1bf3b1ef0/image/thae-inn-gu-ukkattha-and-candima.png>`__ of Bound volume of "Two Sides of A Coin" and "A Noble Search" (2022-04-27)
+- `Cover <https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/image/thae-inn-gu-ukkattha-and-candima.png>`__ of Bound volume of "Two Sides of A Coin" and "A Noble Search" (2022-08-10)
 
 ------
 
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-10 rev. full-text and cover of Bound volume of "Two Sides of A Coin" and "A Noble Search"
   07-21 add: After Samādhi, Develop Vipassanā
   05-01 rev. two books--thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf
   04-28 add & rev.: Bound volume of "Two Sides of A Coin" and "A Noble Search", etc.
