@@ -9,9 +9,6 @@
 :summary: 目錄（莫哥西亞多開示錄-- 空、有為及無為）
 
 
-陸續翻譯中！
-~~~~~~~~~~~~~~
-
 莫哥西亞多開示錄
 ~~~~~~~~~~~~~~~~~~~
 
@@ -22,8 +19,8 @@
    :header-rows: 1
 
    * - `英譯者註 <{filename}translator-notes-han%zh.rst>`__
-     - `簡介 <{filename}introduction-han%zh.rst>`__ 
-     - `緣起法流程 <{filename}da-process-han%zh.rst>`__
+     - `簡介 <{filename}introduction-han%zh.rst>`__  （待譯中！）
+     - `緣起法流程 <{filename}da-process-han%zh.rst>`__ （待譯中！）
      - `第 1 部`_
      - `第 2 部`_ 
    * - `第 3 部`_
@@ -37,12 +34,15 @@
      - `第 11 部`_
      - `第 12 部`_
    * - `第 13 部`_
-     - `跋 <{filename}postscript-han%zh.rst>`__
+     - `跋 <{filename}postscript-han%zh.rst>`__ （待譯中！）
      - `附錄 <{filename}appendix-han%zh.rst>`__ ( `翻譯手稿 <{filename}../dhamma-talks-by-mogok-sayadaw/translation-manuscript%zh.rst>`__ )
-     - `關於英譯者`_ 
+     - `關於英譯者`_  （待譯中！）
      - 
 
 ---------------------------
+
+以下待譯中！
+~~~~~~~~~~~~~~
 
 _`第 1 部` ( `第 1 部目錄 <{filename}pt01-content-of-part01-han%zh.rst>`_ )
 
@@ -196,137 +196,137 @@ _`第 3 部` ( `第 3 部目錄 <{filename}pt03-content-of-part03-han%zh.rst>`_ 
 
 _`第 4 部` ( `第 4 部目錄 <{filename}pt04-content-of-part04-han%zh.rst>`_ )
 
-- 1.) `Inward Exploration <{filename}pt04-01-inward-exploration-han%zh.rst>`_ (1960-11-28, 1960-1201 ~ 12-02, 1962-09-25)
+- 1.) `向內探索 <{filename}pt04-01-inward-exploration-han%zh.rst>`_ (1960-11-28, 1960-1201 ~ 12-02, 1962-09-25)
 
-- 2.) `With Faith Transcend Wrong View <{filename}pt04-02-with-faith-transcend-wrong-view-han%zh.rst>`_ (1960-12-06)
+- 2.) `以信仰超越邪見 <{filename}pt04-02-with-faith-transcend-wrong-view-han%zh.rst>`_ (1960-12-06)
 
-- 3.) `Time-Comsuming and Timeless / Kālika and Akālika <{filename}pt04-03-time-comsuming-and-timeless-kalika-and-akalika-han%zh.rst>`_ (1960-12-08)
+- 3.) `當時的（Kālika）及 「不受時間限制的（即時的 Akālika）」 <{filename}pt04-03-time-comsuming-and-timeless-kalika-and-akalika-han%zh.rst>`_ (1960-12-08)
 
-- 4.) `Checking for Wrong Views <{filename}pt04-04-checking-for-wrong-views-han%zh.rst>`_ (1960-12-09)
+- 4.) `檢查邪見 <{filename}pt04-04-checking-for-wrong-views-han%zh.rst>`_ (1960-12-09)
 
-- 5.) `Wrong Views and Characters <{filename}pt04-05-wrong-views-and-characters-han%zh.rst>`_ (1961-12-09)
+- 5.) `邪見及其特性 <{filename}pt04-05-wrong-views-and-characters-han%zh.rst>`_ (1961-12-09)
 
-- 6.) `The Wise and the Fool <{filename}pt04-06-the-wise-and-the-fool-han%zh.rst>`_ (1960-12-11)
+- 6.) `智者與愚者 <{filename}pt04-06-the-wise-and-the-fool-han%zh.rst>`_ (1960-12-11)
 
-- 7.) `Saṁsāra and the Hindrances <{filename}pt04-07-samsara-and-the-hindrances-han%zh.rst>`_ (1960-12-13, 12-17 ~ 12-21)
+- 7.) `輪迴與障礙 <{filename}pt04-07-samsara-and-the-hindrances-han%zh.rst>`_ (1960-12-13, 12-17 ~ 12-21)
 
-- 8.) `Dependent Origination at Home <{filename}pt04-08-dependent-origination-at-home-han%zh.rst>`_ (1960-12-16, 1961-09-29 ~ 10-01)
+- 8.) `在家的緣起 <{filename}pt04-08-dependent-origination-at-home-han%zh.rst>`_ (1960-12-16, 1961-09-29 ~ 10-01)
 
-- 9.) `Nibbāna Always Exist <{filename}pt04-09-nibbana-always-exist-han%zh.rst>`_ (1960-12-25, 1962-06-22)
+- 9.) `涅槃總是存在的 <{filename}pt04-09-nibbana-always-exist-han%zh.rst>`_ (1960-12-25, 1962-06-22)
 
-- 10.) `The Six Oceans of Māgandiya <{filename}pt04-10-the-six-oceans-of-magandiya-han%zh.rst>`_ (1960-12-25, 1961-09-05 ~ 09-08)
+- 10.) `Māgandiya 的六大海洋 <{filename}pt04-10-the-six-oceans-of-magandiya-han%zh.rst>`_ (1960-12-25, 1961-09-05 ~ 09-08)
 
-- 11.) `Taṇhā the Tailor <{filename}pt04-11-tanha-the-tailor-han%zh.rst>`_ (1960-12-29)
+- 11.) `貪（Taṇhā）這個裁縫師 <{filename}pt04-11-tanha-the-tailor-han%zh.rst>`_ (1960-12-29)
 
-- 12.) `How to Open Your Eye? <{filename}pt04-12-how-to-open-your-eye-han%zh.rst>`_ (1960-12-30, 1961-05-30 ~ 06-01)
+- 12.) `如何打開你的視野？ <{filename}pt04-12-how-to-open-your-eye-han%zh.rst>`_ (1960-12-30, 1961-05-30 ~ 06-01)
 
-- 13.) `The Road Map to Nibbāna <{filename}pt04-13-the-road-map-to-nibbana-han%zh.rst>`_ (1961-01-06, 09-19 ~ 09-20)
+- 13.) `通往涅槃的路線圖 <{filename}pt04-13-the-road-map-to-nibbana-han%zh.rst>`_ (1961-01-06, 09-19 ~ 09-20)
 
 _`第 5 部` ( `第 5 部目錄 <{filename}pt05-content-of-part05-han%zh.rst>`_ )
 
-- 1.) `Don't End Up at What Others Say <{filename}pt05-01-dont-end-up-at-what-others-say-han%zh.rst>`_ (1961-01-08)
+- 1.) `不要因別人說什麼就結束（修行） <{filename}pt05-01-dont-end-up-at-what-others-say-han%zh.rst>`_ (1961-01-08)
 
-- 2.) `Stopping and Contemplation <{filename}pt05-02-stopping-and-contemplation-han%zh.rst>`_ (1961-01-09)
+- 2.) `停頓與深觀 <{filename}pt05-02-stopping-and-contemplation-han%zh.rst>`_ (1961-01-09)
 
-- 3.) `Impermanence <{filename}pt05-03-impermanence-han%zh.rst>`_ (1961-01-11)
+- 3.) `無常 <{filename}pt05-03-impermanence-han%zh.rst>`_ (1961-01-11)
 
-- 4.) `Training the Six Animals <{filename}pt05-04-training-the-six-animals-han%zh.rst>`_ (1961-01-13 ~ 01-15, 1962-03-22)
+- 4.) `訓練六種動物 <{filename}pt05-04-training-the-six-animals-han%zh.rst>`_ (1961-01-13 ~ 01-15, 1962-03-22)
 
-- 5.) `Breaking the Axle of the Taints <{filename}pt05-05-breaking-the-axle-of-the-taints-han%zh.rst>`_ (1959-01-05, 1961-01-16,1961-10-24)
+- 5.) `斬斷煩惱（染汙）之軸 Breaking the Axle of the Taints <{filename}pt05-05-breaking-the-axle-of-the-taints-han%zh.rst>`_ (1959-01-05, 1961-01-16,1961-10-24)
 
-- 6.) `Don't Let the Mind in Pain <{filename}pt05-06-dont-let-the-mind-in-pain-han%zh.rst>`_ (1961-01-17 ~ 01-18)
+- 6.) `不要讓心靈處於痛苦之中 <{filename}pt05-06-dont-let-the-mind-in-pain-han%zh.rst>`_ (1961-01-17 ~ 01-18)
 
-- 7.) `Buddhavāda <{filename}pt05-07-buddhavada-han%zh.rst>`_ (1961-01-19)
+- 7.) `佛陀的敘述（Buddhavāda） <{filename}pt05-07-buddhavada-han%zh.rst>`_ (1961-01-19)
 
-- 8.) `From Dukkha to Nibbāna <{filename}pt05-08-from-dukkha-to-nibbana-han%zh.rst>`_ (1961-02-05)
+- 8.) `從苦到涅槃 <{filename}pt05-08-from-dukkha-to-nibbana-han%zh.rst>`_ (1961-02-05)
 
-- 9.) `The Reality and the Knowing <{filename}pt05-09-the-reality-and-the-knowing-han%zh.rst>`_ (1961-02-06 ~ 02-08)
+- 9.) `現實與了悟 <{filename}pt05-09-the-reality-and-the-knowing-han%zh.rst>`_ (1961-02-06 ~ 02-08)
 
-- 10.) `Dukkha Exist and Dukkha Cease <{filename}pt05-10-dukkha-exist-and-dukkha-cease-han%zh.rst>`_ (1961-02-09 ~ 02-12)
+- 10.) `苦的存在與苦的止息 <{filename}pt05-10-dukkha-exist-and-dukkha-cease-han%zh.rst>`_ (1961-02-09 ~ 02-12)
 
-- 11.) `Can't See Nibbāna with Wrong View <{filename}pt05-11-cant-see-nibbana-with-wrong-view-han%zh.rst>`_ (1961-02-13 ~ 02-15)
+- 11.) `以邪見無法看到涅槃 <{filename}pt05-11-cant-see-nibbana-with-wrong-view-han%zh.rst>`_ (1961-02-13 ~ 02-15)
 
-- 12.) `Khandha Calling and Ñāṇa Going? <{filename}pt05-12-khandha-calling-and-nana-going-han%zh.rst>`_ (1961-03-05~ 03-06)
+- 12.) `蘊的召喚和智的去向？ <{filename}pt05-12-khandha-calling-and-nana-going-han%zh.rst>`_ (1961-03-05~ 03-06)
 
-- 13.) `Why Suffer So Much? <{filename}pt05-13-why-suffer-so-much-han%zh.rst>`_ (1961-03-10)
+- 13.) `為什麼要受這麼多的苦？ <{filename}pt05-13-why-suffer-so-much-han%zh.rst>`_ (1961-03-10)
 
-- 14.) `A Poisonous Snake <{filename}pt05-14-a-poisonous-snake-han%zh.rst>`_ (1961-03-11)
+- 14.) `毒蛇 <{filename}pt05-14-a-poisonous-snake-han%zh.rst>`_ (1961-03-11)
 
-- 15.) `Don't Waste Your Precious Life <{filename}pt05-15-dont-waste-your-precious-life-han%zh.rst>`_ (1961-03-12 ~ 03-13)
+- 15.) `不要浪費你寶貴的生命 <{filename}pt05-15-dont-waste-your-precious-life-han%zh.rst>`_ (1961-03-12 ~ 03-13)
 
-- 16.) `The Most Important Thing in Life <{filename}pt05-16-the-most-important-thing-in-life-han%zh.rst>`_ (1961-03-16)
+- 16.) `生命中最重要的事 <{filename}pt05-16-the-most-important-thing-in-life-han%zh.rst>`_ (1961-03-16)
 
-- 17.) `To Know Yourself <{filename}pt05-17-to-know-yourself-han%zh.rst>`_ (1961-03-20)
+- 17.) `認識你自己 <{filename}pt05-17-to-know-yourself-han%zh.rst>`_ (1961-03-20)
 
-- 18.) `Formation and Impermanence <{filename}pt05-18-formation-and-impermanence-han%zh.rst>`_ (1961-03-21)
+- 18.) `行與無常 <{filename}pt05-18-formation-and-impermanence-han%zh.rst>`_ (1961-03-21)
 
-- 19.) `Dying with Smile <{filename}pt05-19-dying-with-smile-han%zh.rst>`_ (1961-03-30)
+- 19.) `微笑著死去 <{filename}pt05-19-dying-with-smile-han%zh.rst>`_ (1961-03-30)
 
-- 20.) `Watching and Observing <{filename}pt05-20-watching-and-observing-han%zh.rst>`_ (1961-03-31)
+- 20.) `注視與觀察 <{filename}pt05-20-watching-and-observing-han%zh.rst>`_ (1961-03-31)
 
-- 21.) `For Practice or Reciting <{filename}pt05-21-for-practice-or-reciting-han%zh.rst>`_ (1961-05-01 ~ 05-02)
+- 21.) `用於練習或背誦 <{filename}pt05-21-for-practice-or-reciting-han%zh.rst>`_ (1961-05-01 ~ 05-02)
 
-- 22.) `Khandha Fuel with Kilesa Fire <{filename}pt05-22-khandha-fuel-with-kilesa-fire-han%zh.rst>`_ (1961-05-13)
+- 22.) `蘊燃料與欲念（Kilesa）火 <{filename}pt05-22-khandha-fuel-with-kilesa-fire-han%zh.rst>`_ (1961-05-13)
 
-- 23.) `From Hell to Eternity <{filename}pt05-23-from-hell-to-eternity-han%zh.rst>`_ (1961-05-14)
+- 23.) `從地獄到永恆 <{filename}pt05-23-from-hell-to-eternity-han%zh.rst>`_ (1961-05-14)
 
 _`第 6 部` ( `第 6 部目錄 <{filename}pt06-content-of-part06-han%zh.rst>`_ )
 
-- 1.) `The Mind at Dying <{filename}pt06-01-the-mind-at-dying-han%zh.rst>`_ (1961-05-29)
+- 1.) `臨終時的心 <{filename}pt06-01-the-mind-at-dying-han%zh.rst>`_ (1961-05-29)
 
-- 2.) `Perversions <{filename}pt06-02-perversions-han%zh.rst>`_ (1961-06-17 ~ 06-18, 06-20 ~ 06-21)
+- 2.) `顛倒 <{filename}pt06-02-perversions-han%zh.rst>`_ (1961-06-17 ~ 06-18, 06-20 ~ 06-21)
 
-- 3.) `The Nature of Vipassanā <{filename}pt06-03-the-nature-of-vipassana-han%zh.rst>`_ (1961-06-22)
+- 3.) `內觀的本質 <{filename}pt06-03-the-nature-of-vipassana-han%zh.rst>`_ (1961-06-22)
 
-- 4.) `The Right Association <{filename}pt06-04-the-right-association-han%zh.rst>`_ (1961-06-22)
+- 4.) `正確的聯想 <{filename}pt06-04-the-right-association-han%zh.rst>`_ (1961-06-22)
 
-- 5.) `Did the Buddha Help Everyone? <{filename}pt06-05-did-the-buddha-help-everyone-han%zh.rst>`_ (1961-06-23)
+- 5.) `佛陀是否幫助每個人？ <{filename}pt06-05-did-the-buddha-help-everyone-han%zh.rst>`_ (1961-06-23)
 
-- 6.) `What Is the Most Important Thing in Life? <{filename}pt06-06-what-is-the-most-important-thing-in-life-han%zh.rst>`_ (1961-06-25)
+- 6.) `什麼是生命中最重要的事情？ <{filename}pt06-06-what-is-the-most-important-thing-in-life-han%zh.rst>`_ (1961-06-25)
 
-- 7.) `Polishing the Mind <{filename}pt06-07-polishing-the-mind-han%zh.rst>`_ (1961-06-27)
+- 7.) `擦亮心靈 <{filename}pt06-07-polishing-the-mind-han%zh.rst>`_ (1961-06-27)
 
-- 8.) `Searching for the Right Things <{filename}pt06-08-searching-for-the-right-things-han%zh.rst>`_ (1961-06-28)
+- 8.) `尋找正確的東西 <{filename}pt06-08-searching-for-the-right-things-han%zh.rst>`_ (1961-06-28)
 
-- 9.) `Practical Knowledge of Dukkha <{filename}pt06-09-practical-knowledge-of-dukkha-han%zh.rst>`_ (1961-06-29 ~ 07-01)
+- 9.) `對「苦」的實用知識 <{filename}pt06-09-practical-knowledge-of-dukkha-han%zh.rst>`_ (1961-06-29 ~ 07-01)
 
-- 10.) `The Art of Thinking <{filename}pt06-10-the-art-of-thinking-han%zh.rst>`_ (1961-08-01)
+- 10.) `思考的藝術 <{filename}pt06-10-the-art-of-thinking-han%zh.rst>`_ (1961-08-01)
 
-- 11.) `Twelve Perversions <{filename}pt06-11-twelve-perversions-han%zh.rst>`_ (1961-08-03 ~ 08-04)
+- 11.) `十二顛倒 <{filename}pt06-11-twelve-perversions-han%zh.rst>`_ (1961-08-03 ~ 08-04)
 
-- 12.) `The End of the World <{filename}pt06-12-the-end-of-the-world-han%zh.rst>`_ (1961-08-04)
+- 12.) `世界的盡頭 <{filename}pt06-12-the-end-of-the-world-han%zh.rst>`_ (1961-08-04)
 
-- 13.) `Kammic Energy <{filename}pt06-13-kammic-energy-han%zh.rst>`_ (1961-08-05)
+- 13.) `業力 <{filename}pt06-13-kammic-energy-han%zh.rst>`_ (1961-08-05)
 
-- 14.) `Weapon of Mass Destruction <{filename}pt06-14-weapon-of-mass-destruction-han%zh.rst>`_ (1961-08-10)
+- 14.) `大規模破壞性武器 <{filename}pt06-14-weapon-of-mass-destruction-han%zh.rst>`_ (1961-08-10)
 
-- 15.) `Vipassanā is Ñāṇa or Kamma? <{filename}pt06-15-vipassana-is-knowledge-or-action-han%zh.rst>`_ (1961-08-16) 
+- 15.) `內觀是「智」還是「業」 <{filename}pt06-15-vipassana-is-knowledge-or-action-han%zh.rst>`_ (1961-08-16) 
 
-- 16.) `Appreciation of Nibbāna <{filename}pt06-16-appreciation-of-nibbana-han%zh.rst>`_ (1961-08-18 ~ 08-19)
+- 16.) `欣賞涅槃 <{filename}pt06-16-appreciation-of-nibbana-han%zh.rst>`_ (1961-08-18 ~ 08-19)
 
-- 17.) `How to Use Desire and Conceit? <{filename}pt06-17-how-to-use-desire-and-conceit-han%zh.rst>`_ (1961--08-30)
+- 17.) `如何利用慾望和自負？ <{filename}pt06-17-how-to-use-desire-and-conceit-han%zh.rst>`_ (1961--08-30)
 
-- 18.) `The Beginning and the Ending <{filename}pt06-18-beginning-and-ending-han%zh.rst>`_ (19)
+- 18.) `起點與終點 <{filename}pt06-18-beginning-and-ending-han%zh.rst>`_ (19)
 
-- 19.) `Four Types of Yogi <{filename}pt06-19-four-types-of-yogi-han%zh.rst>`_ (1961-09-04)
+- 19.) `四種類型的修行者（瑜伽士） <{filename}pt06-19-four-types-of-yogi-han%zh.rst>`_ (1961-09-04)
 
-- 20.) `Two Views on Insight <{filename}pt06-20-two-views-on-insight-han%zh.rst>`_ (1961-09-12)
+- 20.) `對洞察力的兩種看法 <{filename}pt06-20-two-views-on-insight-han%zh.rst>`_ (1961-09-12)
 
-- 21.) `Two Kinds of Disenchantment <{filename}pt06-21-two-kinds-of-disenchantment-han%zh.rst>`_ (1961-09-16)
+- 21.) `兩種失落感 <{filename}pt06-21-two-kinds-of-disenchantment-han%zh.rst>`_ (1961-09-16)
 
-- 22.) `Searching for the Truth <{filename}pt06-22-searching-for-the-truth-han%zh.rst>`_ (1961-10-02)
+- 22.) `尋找真理 <{filename}pt06-22-searching-for-the-truth-han%zh.rst>`_ (1961-10-02)
 
-- 23.) `Dealing with Wrong View and Doubt <{filename}pt06-23-dealing-with-wrong-view-and-doubt-han%zh.rst>`_ (1961-10-03)
+- 23.) `對付邪見和懷疑-2 <{filename}pt06-23-dealing-with-wrong-view-and-doubt-han%zh.rst>`_ (1961-10-03)
 
-- 24.) `Controlling the Mind <{filename}pt06-24-controlling-the-mind-han%zh.rst>`_ (1961-10-10)
+- 24.) `控制心 <{filename}pt06-24-controlling-the-mind-han%zh.rst>`_ (1961-10-10)
 
-- 25.) `Ñāṇa Eye and Normal Eye <{filename}pt06-25-nana-eye-and-normal-eye-han%zh.rst>`_ (1961-10-14)
+- 25.) `慧眼和正常的眼 <{filename}pt06-25-nana-eye-and-normal-eye-han%zh.rst>`_ (1961-10-14)
 
-- 26.) `Insight Knowledge and Path Knowledge <{filename}pt06-26-insight-knowledge-and-path-knowledge-han%zh.rst>`_ (19)
+- 26.) `內觀智與道智 <{filename}pt06-26-insight-knowledge-and-path-knowledge-han%zh.rst>`_ (19)
 
-- 27.) `Concept, Reality and Nibbāna (ver. 2) <{filename}pt06-27-concept-reality-and-nibbana-han%zh.rst>`_ (1961-10-17)
+- 27.) `概念、現實與涅槃（第二版） <{filename}pt06-27-concept-reality-and-nibbana-han%zh.rst>`_ (1961-10-17)
 
-- 28.) `Spiritual Faculties and Nibbāna <{filename}pt06-28-spiritual-faculties-and-nibbana-han%zh.rst>`_ (1961-10-19)
+- 28.) `靈性能力與涅槃 <{filename}pt06-28-spiritual-faculties-and-nibbana-han%zh.rst>`_ (1961-10-19)
 
 _`第 7 部` ( `第 7 部目錄 <{filename}pt07-content-of-part07-han%zh.rst>`_ )
 
@@ -731,4 +731,4 @@ _`關於英譯者`: 請 `點此 <{filename}dhamma-talks-by-mogok-sayadaw-about-t
 **據英譯者—鄔達摩比丘交待，此譯文僅能免費與大眾結緣，作為法的禮物（Dhamma Dāna）。你可以在任何媒體上重新編製、重印、翻譯和重新發布這部作品。**
 
 ..
-  2022-08-24  create rst; post on 08-26
+  2022-08-24  create rst; post on 08-26; 以下待譯中！

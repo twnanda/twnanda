@@ -8,8 +8,8 @@
 :category: path of nirvana
 :summary: 《莫哥西亞多開示錄-- 空、有為及無為》第 1 部目錄
 
-陸續翻譯中！
-~~~~~~~~~~~~~~
+本部開示錄待譯中！
+~~~~~~~~~~~~~~~~~~~~~
 
 - 1.) `通過聆聽空性法門和空性涅槃 <{filename}pt01-01-emptiness-dhamma-and-emptiness-nibbana-han%zh.rst>`_ (1961-09-11)
 
@@ -52,4 +52,5 @@
 **據英譯者—鄔達摩比丘交待，此譯文僅能免費與大眾結緣，作為法的禮物（Dhamma Dāna）。你可以在任何媒體上重新編製、重印、翻譯和重新發布這部作品。**
 
 ..
-  2022-08-24  create rst; post on 08-26
+  2022-08-24  create rst; post on 08-26; 本部開示錄待譯中！
+
