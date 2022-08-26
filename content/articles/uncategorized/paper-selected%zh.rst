@@ -2,7 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2022-06-03
+:modified: 2022-08-26
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -114,7 +114,7 @@
 
 - `Maṅgala Sutta – Protection with Blessing <{filename}/articles/a-path-to-freedom/ven-uttamo/protection-with-blessings/content-of-protection-with-blessings%zh.rst>`_ : (in English)《吉祥經》（尊者　 **鄔達摩長老** 編著，英文）
 
-- `Dhmma Talks by Mogok Sayadaw <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`_ : Translation based on the recorded tapes by **Ven. Uttamo thera** （尊者　 **莫哥西亞多** 開示錄；由　尊者　 **鄔達摩　長老** 　自緬甸語錄音帶譯為 **英文** ）
+- `Dhmma Talks by Mogok Sayadaw <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#dhmma-talks-by-mogok-sayadaw>`_ : Translation based on the recorded tapes by **Ven. Uttamo thera** （尊者　 **莫哥西亞多** 開示錄；由　尊者　 **鄔達摩　長老** 　自緬甸語錄音帶譯為 **英文** ； `中文試譯 <{filename}/articles/a-path-to-freedom/ven-uttamo/dhamma-talks-by-mogok-sayadaw-han/content-of-dhamma-talks-by-mogok-sayadaw-han%zh.rst>`__ ）
 
   * `莫哥西亞多 <http://wiki.sutta.org/wiki/%E8%8E%AB%E5%93%A5%E8%A5%BF%E4%BA%9A%E5%A4%9A>`__ (上座部佛教百科， **中文** ) 
 
@@ -203,6 +203,7 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  08-26 add: 莫哥西亞多開示錄中文試譯
   2022-06-03 add 蘇錦坤作品集
 
   08-23 add independent subdirectory:what-the-Buddha-taught; redirect what-the-Buddha-taught-2020%zh.rst (old: what-the-Buddha-taught%zh.rst)
