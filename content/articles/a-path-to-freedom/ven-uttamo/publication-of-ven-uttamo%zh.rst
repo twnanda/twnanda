@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2022-08-10
+:modified: 2022-08-26
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -54,6 +54,8 @@ Dhamma Talks by Mogok Sayadaw
 ------
 
 - `For printing`_ full text of "Dhamma Talks by Mogok Sayadaw".
+
+- `Chinese traslation <{filename}dhamma-talks-by-mogok-sayadaw-han/content-of-dhamma-talks-by-mogok-sayadaw-han%zh.rst>`__ (**experimental**)
 
 ---------------------------
 
@@ -1027,6 +1029,7 @@ These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bo
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-26 add: Chinese traslation (experimental)
   08-10 rev. full-text and cover of Bound volume of "Two Sides of A Coin" and "A Noble Search"
   07-21 add: After Samādhi, Develop Vipassanā
   05-01 rev. two books--thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf
