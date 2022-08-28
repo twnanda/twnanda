@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2022-08-24
-:modified: 2022-08-26
+:modified: 2022-08-28
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 目錄（莫哥西亞多開示錄-- 空、有為及無為）
@@ -330,385 +330,385 @@ _`第 6 部` ( `第 6 部目錄 <{filename}pt06-content-of-part06-han%zh.rst>`_ 
 
 _`第 7 部` ( `第 7 部目錄 <{filename}pt07-content-of-part07-han%zh.rst>`_ )
 
-- 1.) `The Creators of Dukkha <{filename}pt07-01-the-creators-of-dukkha-han%zh.rst>`_ (1961-10-21)
+- 1.) `「苦」的創造者 <{filename}pt07-01-the-creators-of-dukkha-han%zh.rst>`_ (1961-10-21)
 
-- 2.) `Two Causes for Wrong View <{filename}pt07-02-two-causes-for-wrong-view-han%zh.rst>`_ (1961-10-23)
+- 2.) `邪見的兩個原因 <{filename}pt07-02-two-causes-for-wrong-view-han%zh.rst>`_ (1961-10-23)
 
-- 3.) `The Beginning of Beings <{filename}pt07-03-beginning-of-beings-han%zh.rst>`_ (1961-10-25)
+- 3.) `眾生的開始 <{filename}pt07-03-beginning-of-beings-han%zh.rst>`_ (1961-10-25)
 
-- 4.) `Ending of the Unwholesome Life <{filename}pt07-04-ending-of-the-unwholesome-life-han%zh.rst>`_ (1961-10-31)
+- 4.) `不善生活的終結 <{filename}pt07-04-ending-of-the-unwholesome-life-han%zh.rst>`_ (1961-10-31)
 
-- 5.) `The Last Teaching of the Buddha <{filename}pt07-05-the-last-teaching-of-the-buddha-han%zh.rst>`_ (1961-11-03)
+- 5.) `佛陀的最後教導 <{filename}pt07-05-the-last-teaching-of-the-buddha-han%zh.rst>`_ (1961-11-03)
 
-- 6.) `The Hidden Treasure <{filename}pt07-06-hidden-treasure-han%zh.rst>`_ (1961-11-16)
+- 6.) `隱藏的寶藏 <{filename}pt07-06-hidden-treasure-han%zh.rst>`_ (1961-11-16)
 
-- 7.) `Priceless Treasure of Mankind <{filename}pt07-07-priceless-treasure-of-mankind-han%zh.rst>`_ (1961-11-16)
+- 7.) `人類的無價之寶 <{filename}pt07-07-priceless-treasure-of-mankind-han%zh.rst>`_ (1961-11-16)
 
-- 8.) `In Accordance with the Dhamma <{filename}pt07-08-in-accordance-with-the-dhamma-han%zh.rst>`_ (1961-11-16)
+- 8.) `與「法」相一致 <{filename}pt07-08-in-accordance-with-the-dhamma-han%zh.rst>`_ (1961-11-16)
 
-- 9.) `Perform A Dāna Properly <{filename}pt07-09-perform-adana-properly-han%zh.rst>`_ (1961-11-22)
+- 9.) `正確地執行布施 <{filename}pt07-09-perform-adana-properly-han%zh.rst>`_ (1961-11-22)
 
-- 10.) `Dāna and Ending of Dukkha <{filename}pt07-10-dana-and-the-ending-of-dukkha-han%zh.rst>`_ (1961-11-22)
+- 10.) `布施和「苦」的結束 <{filename}pt07-10-dana-and-the-ending-of-dukkha-han%zh.rst>`_ (1961-11-22)
 
-- 11.) `Two Guardians of Hells <{filename}pt07-11-two-guardians-of-hells-han%zh.rst>`_ (1961-11-23)
+- 11.) `兩個地獄的守護者 <{filename}pt07-11-two-guardians-of-hells-han%zh.rst>`_ (1961-11-23)
 
-- 12.) `Can't Rely on the Outside Power <{filename}pt07-12-cannot-rely-on-the-outside-power-han%zh.rst>`_ (1961-11-23)
+- 12.) `不能依賴外部力量 <{filename}pt07-12-cannot-rely-on-the-outside-power-han%zh.rst>`_ (1961-11-23)
 
-- 13.) `Dukkha and the End of Dukkha <{filename}pt07-13-dukkha-and-the-end-of-dukkha-han%zh.rst>`_ (1961-11-24)
+- 13.) `「苦」與「苦」的結束 <{filename}pt07-13-dukkha-and-the-end-of-dukkha-han%zh.rst>`_ (1961-11-24)
 
-- 14.) `Important of Feeling <{filename}pt07-14-importance-of-feeling-han%zh.rst>`_ (1961-11-25)
+- 14.) `「受」的重要性 <{filename}pt07-14-importance-of-feeling-han%zh.rst>`_ (1961-11-25)
 
-- 15.) `Tanhā and Kamma <{filename}pt07-15-craving-and-action-han%zh.rst>`_ (1961-11-28)
+- 15.) `「貪 Tanhā」與「業 Kamma」 <{filename}pt07-15-craving-and-action-han%zh.rst>`_ (1961-11-28)
 
-- 16.) `Three Cups of Medicine and the Crazy Beings <{filename}pt07-16-three-cups-of-medicine-and-the-crazy-beings-han%zh.rst>`_ (1961-11-30)
+- 16.) `三杯藥和瘋狂的眾生 <{filename}pt07-16-three-cups-of-medicine-and-the-crazy-beings-han%zh.rst>`_ (1961-11-30)
 
-- 17.) `Stream-Enterer and the Perversions <{filename}pt07-17-stream-enterer-and-the-inversions-han%zh.rst>`_ (1961-11-30)
+- 17.) `「入流者」與顛倒 <{filename}pt07-17-stream-enterer-and-the-inversions-han%zh.rst>`_ (1961-11-30)
 
-- 18.) `Breaking the Collar <{filename}pt07-18-breaking-the-collar-han%zh.rst>`_ (1961-11-30)
+- 18.) `打破（輪迴緣起的）軸環 <{filename}pt07-18-breaking-the-collar-han%zh.rst>`_ (1961-11-30)
 
-- 19.) `Frightening Wrong View <{filename}pt07-19-frightening-wrong-view-han%zh.rst>`_ (1961-12-05)
+- 19.) `可怕的邪見 <{filename}pt07-19-frightening-wrong-view-han%zh.rst>`_ (1961-12-05)
 
-- 20.) `How To Pay your Debts? <{filename}pt07-20-how-to-pay-your-debts-han%zh.rst>`_ (1961-12-07)
+- 20.) `如何償還你的債務？ <{filename}pt07-20-how-to-pay-your-debts-han%zh.rst>`_ (1961-12-07)
 
-- 21.) `Do Buddhists Have Wrong Views? <{filename}pt07-21-do-buddhists-have-wrong-views-han%zh.rst>`_ (1961-12-06)
+- 21.) `佛教徒有邪見嗎？ <{filename}pt07-21-do-buddhists-have-wrong-views-han%zh.rst>`_ (1961-12-06)
 
-- 22.) `Compassion with Wrong View <{filename}pt07-22-compassion-with-wrong-view-han%zh.rst>`_ (1961-12-08)
+- 22.) `慈悲為懷的邪見 <{filename}pt07-22-compassion-with-wrong-view-han%zh.rst>`_ (1961-12-08)
 
-- 23.) `The Paths of the Wise and the Fool <{filename}pt07-23-the-paths-of-the-wise-and-the-fool-han%zh.rst>`_ (1961-12-10)
+- 23.) `智者與愚者之路 <{filename}pt07-23-the-paths-of-the-wise-and-the-fool-han%zh.rst>`_ (1961-12-10)
 
-- 24.) `Searching for the Source <{filename}pt07-24-searching-for-the-source-han%zh.rst>`_ (1961-12-11)
+- 24.) `尋找源頭 <{filename}pt07-24-searching-for-the-source-han%zh.rst>`_ (1961-12-11)
 
-- 25.) `The Three Knowledges in the Suttas <{filename}pt07-25-three-knowledges-in-the-suttas-han%zh.rst>`_ (1961-12-15)
+- 25.) `經典中的三種「智」 <{filename}pt07-25-three-knowledges-in-the-suttas-han%zh.rst>`_ (1961-12-15)
 
-- 26.) `The Doctrine of the Buddha <{filename}pt07-26-the-doctrine-of-the-buddha-han%zh.rst>`_ (1961-12-16)
+- 26.) `佛陀的教誨 <{filename}pt07-26-the-doctrine-of-the-buddha-han%zh.rst>`_ (1961-12-16)
 
-- 27.) `Unwise Attention and Sufferings <{filename}pt07-27-unwise-attention-and-sufferings-han%zh.rst>`_ (1961-12-17)
+- 27.) `不明智的專注和痛苦 <{filename}pt07-27-unwise-attention-and-sufferings-han%zh.rst>`_ (1961-12-17)
 
-- 28.) `Craving Overrule Actions <{filename}pt07-28-craving-overrules-actions-han%zh.rst>`_ (1961-12-18)
+- 28.) `「渴望」戰勝了「行」 <{filename}pt07-28-craving-overrules-actions-han%zh.rst>`_ (1961-12-18)
 
-- 29.) `Conditioned and Unconditioned <{filename}pt07-29-conditioned-and-unconditioned-han%zh.rst>`_ (1962-02-22)
+- 29.) `有條件的（「有為」）和無條件的（「無為」） <{filename}pt07-29-conditioned-and-unconditioned-han%zh.rst>`_ (1962-02-22)
 
 _`第 8 部` ( `第 8 部目錄 <{filename}pt08-content-of-part08-han%zh.rst>`_ )
 
-- 1.) `The Three Words <{filename}pt08-01-three-worlds-han%zh.rst>`_ (1962-02-15 ~ 02-21)
+- 1.) `三言兩語 <{filename}pt08-01-three-worlds-han%zh.rst>`_ (1962-02-15 ~ 02-21)
 
-- 2.) `Are You the Wise or the Fool? <{filename}pt08-02-are-you-the-wise-or-the-fool-han%zh.rst>`_ (1962-03-05, 03-06)
+- 2.) `你是智者還是愚者？ <{filename}pt08-02-are-you-the-wise-or-the-fool-han%zh.rst>`_ (1962-03-05, 03-06)
 
-- 3.) `The Power of the Dhamma <{filename}pt08-03-power-of-the-dhamma-han%zh.rst>`_ (1962-03-14)
+- 3.) `法的力量 <{filename}pt08-03-power-of-the-dhamma-han%zh.rst>`_ (1962-03-14)
 
-- 4.) `To Nibbāna Without New Kammas <{filename}pt08-04-to-nibbana-without-new-kammas-han%zh.rst>`_ (1962-03-15)
+- 4.) `通往涅槃而無新業 <{filename}pt08-04-to-nibbana-without-new-kammas-han%zh.rst>`_ (1962-03-15)
 
-- 5.) `Negligence and Suffering <{filename}pt08-05-negligence-and-suffering-han%zh.rst>`_ (1962-03-23, 03-24)
+- 5.) `過失與痛苦 <{filename}pt08-05-negligence-and-suffering-han%zh.rst>`_ (1962-03-23, 03-24)
 
-- 6.) `On Anatta <{filename}pt08-06-on-anatta-han%zh.rst>`_ (1962-04-19, 04-19)
+- 6.) `關於無我 <{filename}pt08-06-on-anatta-han%zh.rst>`_ (1962-04-18, 04-19)
 
-- 7.) `Two Causes of No Realization <{filename}pt08-07-two-causes-of-no-realization-han%zh.rst>`_ (1962-04-21)
+- 7.) `沒有了悟的兩個原因 <{filename}pt08-07-two-causes-of-no-realization-han%zh.rst>`_ (1962-04-21)
 
-- 8.) `With Tanhā and Māna to Nibbāna <{filename}pt08-08-with-tanha-and-mana-to-nibbana-han%zh.rst>`_ (1962-05-13)
+- 8.) `從具「貪（Tanhā）」和「（我）慢（Māna）」到涅槃 <{filename}pt08-08-with-tanha-and-mana-to-nibbana-han%zh.rst>`_ (1962-05-13)
 
-- 9.) `The Extension of Saṁsāra <{filename}pt08-09-extension-of-samsara-han%zh.rst>`_ (1962-05-15)
+- 9.) `輪迴的延伸 <{filename}pt08-09-extension-of-samsara-han%zh.rst>`_ (1962-05-15)
 
-- 10.) `With Kilesa Sap, No Real Happiness <{filename}pt08-10-with-kilesa-sap-no-real-happiness-han%zh.rst>`_ (1962-05-29)
+- 10.) `被煩惱削弱（的心），就沒有真正的幸福 <{filename}pt08-10-with-kilesa-sap-no-real-happiness-han%zh.rst>`_ (1962-05-29)
 
-- 11.) `Unwise Attention and Prayers <{filename}pt08-11-unwise-attention-and-prayers-han%zh.rst>`_ (1962-06-04)
+- 11.) `不明智的專注和祈禱 <{filename}pt08-11-unwise-attention-and-prayers-han%zh.rst>`_ (1962-06-04)
 
-- 12.) `Truth Is in the Khandha <{filename}pt08-12-truth-is-in-the-khandha-han%zh.rst>`_ (1962--06-15)
+- 12.) `真理在蘊當中 <{filename}pt08-12-truth-is-in-the-khandha-han%zh.rst>`_ (1962-06-15)
 
-- 13.) `Nibbāna Is the Foremost Happiness <{filename}pt08-13-nibbana-is-the-foremost-happiness-han%zh.rst>`_ (1962-06-15)
+- 13.) `涅槃是最重要的幸福 <{filename}pt08-13-nibbana-is-the-foremost-happiness-han%zh.rst>`_ (1962-06-15)
 
-- 14.) `To Have Compassion and Wisdom for Oneself <{filename}pt08-14-to-has-compassion-and-wisdom-for-oneself-han%zh.rst>`_ (1962-06-16)
+- 14.) `對自己要有慈悲心和智慧 <{filename}pt08-14-to-has-compassion-and-wisdom-for-oneself-han%zh.rst>`_ (1962-06-16)
 
-- 15.) `About the Mind <{filename}pt08-15-about-the-mind-han%zh.rst>`_ (1962-06-17)
+- 15.) `關於「心」 <{filename}pt08-15-about-the-mind-han%zh.rst>`_ (1962-06-17)
 
-- 16.) `On Nibbānan <{filename}pt08-16-on-nibbana-han%zh.rst>`_ (1962-06-18)
+- 16.) `關於「涅槃」 <{filename}pt08-16-on-nibbana-han%zh.rst>`_ (1962-06-18)
 
-- 17.) `Two Different Dhammas <{filename}pt08-17-two-different-dhammas-han%zh.rst>`_ (1962-06-20)
+- 17.) `兩種不同的「法」 <{filename}pt08-17-two-different-dhammas-han%zh.rst>`_ (1962-06-20)
 
-- 18.) `Two Knowledge of the Truth <{filename}pt08-18-two-knowledges-of-the-truth-han%zh.rst>`_ (1962-06-21)
+- 18.) `兩種對真理的智慧 <{filename}pt08-18-two-knowledges-of-the-truth-han%zh.rst>`_ (1962-06-21)
 
-- 19.) `Right Association <{filename}pt08-19-right-association-han%zh.rst>`_ (1962-06-22)
+- 19.) `正確的聯想-2 <{filename}pt08-19-right-association-han%zh.rst>`_ (1962-06-22)
 
-- 20.) `The Importance of Knowing the Truth <{filename}pt08-20-importance-of-knowing-the-truth-han%zh.rst>`_ (1962-07-08)
+- 20.) `了悟真理的重要性 <{filename}pt08-20-importance-of-knowing-the-truth-han%zh.rst>`_ (1962-07-08)
 
-- 21.) `Answer To A Buddhist <{filename}pt08-21-answer-to-a-buddhist-han%zh.rst>`_ (1962-07-10)
+- 21.) `對佛教徒的回答 <{filename}pt08-21-answer-to-a-buddhist-han%zh.rst>`_ (1962-07-10)
 
-- 22.) `Three Steps to Nibbāna <{filename}pt08-22-three-steps-to-nibbana-han%zh.rst>`_ (1962-07-08 ~ 07-10)
+- 22.) `通往涅槃的三個步驟 <{filename}pt08-22-three-steps-to-nibbana-han%zh.rst>`_ (1962-07-08 ~ 07-10)
 
-- 23.) `Wrong View on Nibbāna <{filename}pt08-23-wrong-view-on-nibbana-han%zh.rst>`_ (1962-07-11,  07-12)
+- 23.) `對《涅槃》的邪見 <{filename}pt08-23-wrong-view-on-nibbana-han%zh.rst>`_ (1962-07-11,  07-12)
 
 _`第 9 部` ( `第 9 部目錄 <{filename}pt09-content-of-part09-han%zh.rst>`_ )
 
-- 1.) `The Dangers of Wrong Knowledge <{filename}pt09-01-the-dangers-of-wrong-knowledge-han%zh.rst>`_ (1962-07-31)
+- 1.) `錯誤知識的危險 <{filename}pt09-01-the-dangers-of-wrong-knowledge-han%zh.rst>`_ (1962-07-31)
 
-- 2.) `Non-conflict and Non-attachment <{filename}pt09-02-non-conflict-and-non-attachment-han%zh.rst>`_ (1962-08-08)
+- 2.) `不衝突和不執著 <{filename}pt09-02-non-conflict-and-non-attachment-han%zh.rst>`_ (1962-08-08)
 
-- 3.) `Development with Contemplation <{filename}pt09-03-development-with-contemplation-han%zh.rst>`_ (1962-08-08)
+- 3.) `用深觀來發展 <{filename}pt09-03-development-with-contemplation-han%zh.rst>`_ (1962-08-08)
 
-- 4.) `Mountains of Bones and Oceans of Blood <{filename}pt09-04-mountains-of-bones-and-oceans-of-blood-han%zh.rst>`_ (1962-09-02 ~ 09-03)
+- 4.) `骨山與血海 <{filename}pt09-04-mountains-of-bones-and-oceans-of-blood-han%zh.rst>`_ (1962-09-02 ~ 09-03)
 
-- 5.) `The Simile for Nibbāna <{filename}pt09-05-a-simile-for-nibbana-han%zh.rst>`_ (1962-09-07)
+- 5.) `涅槃的比喻 <{filename}pt09-05-a-simile-for-nibbana-han%zh.rst>`_ (1962-09-07)
 
-- 6.) `Contemplation on Annatta <{filename}pt09-06-contemplation-on-anatta-han%zh.rst>`_ (1962-09-16)
+- 6.) `深觀無我 <{filename}pt09-06-contemplation-on-anatta-han%zh.rst>`_ (1962-09-16)
 
-- 7.) `Cessation of the Taints <{filename}pt09-07-cessation-of-the-taints-han%zh.rst>`_ (1962-09-19)
+- 7.) `染污（煩惱）的止息 <{filename}pt09-07-cessation-of-the-taints-han%zh.rst>`_ (1962-09-19)
 
-- 8.) `Are You Worshipping Wrong Views? <{filename}pt09-08-are-you-worshipping-wrong-views-han%zh.rst>`_ (1962-09-20)
+- 8.) `你在崇拜邪見嗎？ <{filename}pt09-08-are-you-worshipping-wrong-views-han%zh.rst>`_ (1962-09-20)
 
-- 9.) `Body and Mental Pains <{filename}pt09-09-body-and-mental-pains-han%zh.rst>`_ (1962-09-22)
+- 9.) `身和心的痛苦 <{filename}pt09-09-body-and-mental-pains-han%zh.rst>`_ (1962-09-22)
 
-- 10.) `How to Die with Feelings? <{filename}pt09-10-how-to-die-with-feelings-han%zh.rst>`_ (1962-09-23, 09-24)
+- 10.) `如何覺知感受而死？ <{filename}pt09-10-how-to-die-with-feelings-han%zh.rst>`_ (1962-09-23, 09-24)
 
-- 11.) `Should Know One's Value <{filename}pt09-11-should-know-ones-value-han%zh.rst>`_ (1962-09-26)
+- 11.) `應該知道自己的價值 <{filename}pt09-11-should-know-ones-value-han%zh.rst>`_ (1962-09-26)
 
-- 12.) `Mistaken with Nibbāna <{filename}pt09-12-mistaken-with-nibbana-han%zh.rst>`_ (1962-10-04 ~ 10-05)
+- 12.) `誤以為是涅槃 <{filename}pt09-12-mistaken-with-nibbana-han%zh.rst>`_ (1962-10-04 ~ 10-05)
 
-- 13.) `Rely on Dhamma, Not Outside Power <{filename}pt09-13-rely-on-dhamma-not-outside-power-han%zh.rst>`_ (1962-10-07)
+- 13.) `依靠法，不依靠外部力量 <{filename}pt09-13-rely-on-dhamma-not-outside-power-han%zh.rst>`_ (1962-10-07)
 
-- 14.) `The Murderers <{filename}pt09-14-the-murderers-han%zh.rst>`_ (1962-10-08)
+- 14.) `兇手 <{filename}pt09-14-the-murderers-han%zh.rst>`_ (1962-10-08)
 
-- 15.) `Fall in Love with Dukkha <{filename}pt09-15-fall-in-love-with-dukkha-han%zh.rst>`_ (1962-10-09)
+- 15.) `愛上「苦」 <{filename}pt09-15-fall-in-love-with-dukkha-han%zh.rst>`_ (1962-10-09)
 
-- 16.) `Why Become Living Beings? <{filename}pt09-16-why-become-living-beings-han%zh.rst>`_ (1962-10-09)
+- 16.) `為什麼成為眾生？ <{filename}pt09-16-why-become-living-beings-han%zh.rst>`_ (1962-10-09)
 
-- 17.) `Disenchantment with the Monkey <{filename}pt09-17-disenchantment-with-the-monkey-han%zh.rst>`_ (1962-10-10)
+- 17.) `對猴子的迷戀 <{filename}pt09-17-disenchantment-with-the-monkey-han%zh.rst>`_ (1962-10-10)
 
-- 18.) `How to Perform Dāna? <{filename}pt09-18-how-to-perform-dana-han%zh.rst>`_ (1962-10-12)
+- 18.) `如何進行布施 <{filename}pt09-18-how-to-perform-dana-han%zh.rst>`_ (1962-10-12)
 
-- 19.) `Staying with the Truly Reliable Dhamma <{filename}pt09-19-staying-with-the-truly-reliable-dhamma-han%zh.rst>`_ (1962-10-15)
+- 19.) `堅守真正可靠的法 <{filename}pt09-19-staying-with-the-truly-reliable-dhamma-han%zh.rst>`_ (1962-10-15)
 
-- 20.) `On Vipassanā̄ Bhavana <{filename}pt09-20-on-vipassana-bhavana-han%zh.rst>`_ (1961-09-01 ~ 09-02)
+- 20.) `關於內觀（觀禪）修行 <{filename}pt09-20-on-vipassana-bhavana-han%zh.rst>`_ (1961-09-01 ~ 09-02)
 
-- 21.) `Wrong View on Kamma <{filename}pt09-21-wrong-view-on-kamma-han%zh.rst>`_ (1961-09-21, 09-22)
+- 21.) `關於業的邪見 <{filename}pt09-21-wrong-view-on-kamma-han%zh.rst>`_ (1961-09-21, 09-22)
 
-- 22.) `The Source of Great Sufferings <{filename}pt09-22-the-source-of-great-sufferings-han%zh.rst>`_ (1961-10-04)
+- 22.) `大「苦」的根源 <{filename}pt09-22-the-source-of-great-sufferings-han%zh.rst>`_ (1961-10-04)
 
-- 23.) `The Important of Anicca <{filename}pt09-23-the-important-of-anicca-han%zh.rst>`_ (no date)
+- 23.) `無常的重要性 <{filename}pt09-23-the-important-of-anicca-han%zh.rst>`_ (no date)
 
-- 24.) `Wholesome Kamma with Knowledge <{filename}pt09-24-wholesome-kamma-with-knowledge-han%zh.rst>`_ (1960-12-09)
+- 24.) `以智行善業 <{filename}pt09-24-wholesome-kamma-with-knowledge-han%zh.rst>`_ (1960-12-09)
 
-- 25.) `Wrong View, Dukkha and Nibbāna <{filename}pt09-25-wrong-view-dukkha-and-nibbana-han%zh.rst>`_ (1960-10-10)
+- 25.) `邪見、苦與涅槃 <{filename}pt09-25-wrong-view-dukkha-and-nibbana-han%zh.rst>`_ (1960-10-10)
 
-- 26.) `Importance of the Truth of Dukkha <{filename}pt09-26-importance-of-the-truth-of-dukkha-han%zh.rst>`_ (1960-12-11)
+- 26.) `「苦」之真理的重要性 <{filename}pt09-26-importance-of-the-truth-of-dukkha-han%zh.rst>`_ (1960-12-11)
 
-- 27.) `From Ignorance to Knowledge <{filename}pt09-27-from-ignorance-to-knowledge-han%zh.rst>`_ (1960-12-12)
+- 27.) `從無明到「智」 <{filename}pt09-27-from-ignorance-to-knowledge-han%zh.rst>`_ (1960-12-12)
 
 _`第 10 部` ( `第 10 部目錄 <{filename}pt10-content-of-part10-han%zh.rst>`_ )
 
-- 1.) `The Middle Way <{filename}pt10-01-the-middle-way-han%zh.rst>`_ (1960-12-13)
+- 1.) `中道 <{filename}pt10-01-the-middle-way-han%zh.rst>`_ (1960-12-13)
 
-- 2.) `Correct One's Mistakes in Time <{filename}pt10-02-correct-ones-mistakes-in-time-han%zh.rst>`_ (1960-12-18)
+- 2.) `及時糾正自己的錯誤 <{filename}pt10-02-correct-ones-mistakes-in-time-han%zh.rst>`_ (1960-12-18)
 
-- 3.) `Are You A Fool? <{filename}pt10-03-are-you-a-fool-han%zh.rst>`_ (1960-12-18)
+- 3.) `你是個傻瓜嗎？ <{filename}pt10-03-are-you-a-fool-han%zh.rst>`_ (1960-12-18)
 
-- 4.) `Our Murderers <{filename}pt10-04-our-murderers-han%zh.rst>`_ (1960-12-25)
+- 4.) `我們的凶手 <{filename}pt10-04-our-murderers-han%zh.rst>`_ (1960-12-25)
 
-- 5.) `The Four Noble Truths <{filename}pt10-05-the-four-noble-truths-han%zh.rst>`_ (1957-12-06 ~ 12-25)
+- 5.) `四聖諦 <{filename}pt10-05-the-four-noble-truths-han%zh.rst>`_ (1957-12-06 ~ 12-25)
 
-- 6.) `Pay Your Debts with Knowledge <{filename}pt10-06-pay-your-debts-with-knowledge-han%zh.rst>`_ (1960-12-28)
+- 6.) `用智慧償還你的債務 <{filename}pt10-06-pay-your-debts-with-knowledge-han%zh.rst>`_ (1960-12-28)
 
-- 7.) `Protecting Your Mind <{filename}pt10-07-protecting-your-mind-han%zh.rst>`_ (1960-12-31)
+- 7.) `保護好你的心 <{filename}pt10-07-protecting-your-mind-han%zh.rst>`_ (1960-12-31)
 
-- 8.) `The Creator: the Deceitful Mind <{filename}pt10-08-the-creator-the-deceitful-mind-han%zh.rst>`_ (1961-01-01 ~ 01-05)
+- 8.) `創造者：欺騙的心 <{filename}pt10-08-the-creator-the-deceitful-mind-han%zh.rst>`_ (1961-01-01 ~ 01-05)
 
-- 9.) `Wise Attention and Effort <{filename}pt10-09-wise-attention-and-effort-han%zh.rst>`_ (1961-01-09)
+- 9.) `明智的注意和努力 <{filename}pt10-09-wise-attention-and-effort-han%zh.rst>`_ (1961-01-09)
 
-- 10.) `Rust Corrodes the Iron <{filename}pt10-10-rust-corrodes-the-iron-han%zh.rst>`_ (1961-01-10)
+- 10.) `鐵鏽侵蝕著鐵 <{filename}pt10-10-rust-corrodes-the-iron-han%zh.rst>`_ (1961-01-10)
 
-- 11.) `To Nibbāna with One Dhamma <{filename}pt10-11-to-nibbana-with-one-dhamma-han%zh.rst>`_ (1961-01-11)
+- 11.) `以一法通向涅槃 <{filename}pt10-11-to-nibbana-with-one-dhamma-han%zh.rst>`_ (1961-01-11)
 
-- 12.) `To Nibbāna with Stopping <{filename}pt10-12-to-nibbana-with-stopping-han%zh.rst>`_ (1961-01-12)
+- 12.) `以止息達到涅槃 <{filename}pt10-12-to-nibbana-with-stopping-han%zh.rst>`_ (1961-01-12)
 
-- 13.) `True Refuge <{filename}pt10-13-true-refuge-han%zh.rst>`_ (1961-01-14)
+- 13.) `真正的避難所（皈依） <{filename}pt10-13-true-refuge-han%zh.rst>`_ (1961-01-14)
 
-- 14.) `Diseased Body <{filename}pt10-14-the-diseased-body-han%zh.rst>`_ (1961-01-15)
+- 14.) `疾病的身體 <{filename}pt10-14-the-diseased-body-han%zh.rst>`_ (1961-01-15)
 
-- 15.) `Important of Samadhi <{filename}pt10-15-importance-of-samadhi-han%zh.rst>`_ (1961-01-16)
+- 15.) `三摩地（止禪 Samadhi）的重要性 <{filename}pt10-15-importance-of-samadhi-han%zh.rst>`_ (1961-01-16)
 
-- 16.) `Craving and Suffering <{filename}pt10-16-craving-and-suffering-han%zh.rst>`_ (1961-01-21)
+- 16.) `渴望與「苦」 <{filename}pt10-16-craving-and-suffering-han%zh.rst>`_ (1961-01-21)
 
-- 17.) `Fulfilling One's Duty <{filename}pt10-17-fulfilling-ones-duty-han%zh.rst>`_ (1961-05-27)
+- 17.) `履行自己的職責 <{filename}pt10-17-fulfilling-ones-duty-han%zh.rst>`_ (1961-05-27)
 
-- 18.) `Impermanent and Taintless <{filename}pt10-18-impermanent-and-taintless-han%zh.rst>`_ (1960-05-30)
+- 18.) `無常與無染 <{filename}pt10-18-impermanent-and-taintless-han%zh.rst>`_ (1960-05-30)
 
-- 19.) `Dukkha and Nibbāna <{filename}pt10-19-dukkha-and-nibbana-han%zh.rst>`_ (1960-06-24)
+- 19.) `「苦」與涅槃 <{filename}pt10-19-dukkha-and-nibbana-han%zh.rst>`_ (1960-06-24)
 
-- 20.) `How To Think? <{filename}pt10-20-how-to-think-han%zh.rst>`_ (1960-07-01)
+- 20.) `如何思考？ <{filename}pt10-20-how-to-think-han%zh.rst>`_ (1960-07-01)
 
-- 21.) `Four Nibbānas <{filename}pt10-21-four-nibbanas-han%zh.rst>`_ (1960-07-01)
+- 21.) `四個涅槃 <{filename}pt10-21-four-nibbanas-han%zh.rst>`_ (1960-07-01)
 
-- 22.) `On Insight Knowledge <{filename}pt10-22-on-insight-knowledge-han%zh.rst>`_ (1960-11-27)
+- 22.) `論內觀智 <{filename}pt10-22-on-insight-knowledge-han%zh.rst>`_ (1960-11-27)
 
 _`第 11 部` ( `第 11 部目錄 <{filename}pt11-content-of-part11-han%zh.rst>`_ )
 
-- 1.) `No Free Time Is for Sufferings <{filename}pt11-01-no-free-time-is-for-sufferings-han%zh.rst>`_ (1961-02-04)
+- 1.) `沒有閒工夫是用來受苦的 <{filename}pt11-01-no-free-time-is-for-sufferings-han%zh.rst>`_ (1961-02-04)
 
-- 2.) `Who Is Your Creator? <{filename}pt11-02-who-is-your-creator-han%zh.rst>`_ (1961-02-16)
+- 2.) `誰是你的創造者？ <{filename}pt11-02-who-is-your-creator-han%zh.rst>`_ (1961-02-16)
 
-- 3.) `What Is the Most Important Thing? <{filename}pt11-03-what-is-the-most-important-thing-han%zh.rst>`_ (1961-03-19)
+- 3.) `什麼是最重要的事？ <{filename}pt11-03-what-is-the-most-important-thing-han%zh.rst>`_ (1961-03-19)
 
-- 4.) `The Process of Existing and Not-Existing <{filename}pt11-04-process-of-existing-and-not-existing-han%zh.rst>`_ (1961-08-16)
+- 4.) `存在與不存在的過程 <{filename}pt11-04-process-of-existing-and-not-existing-han%zh.rst>`_ (1961-08-16)
 
-- 5.) `The End of the World (B) <{filename}pt11-05-the-end-of-the-world-b-han%zh.rst>`_ (1961-10-28)
+- 5.) `世界的盡頭（B） <{filename}pt11-05-the-end-of-the-world-b-han%zh.rst>`_ (1961-10-28)
 
-- 6.) `Why So Many Corpses? <{filename}pt11-06-why-so-many-corpses-han%zh.rst>`_ (1961-12-29)
+- 6.) `為什麼有這麼多屍體？ <{filename}pt11-06-why-so-many-corpses-han%zh.rst>`_ (1961-12-29)
 
-- 7.) `Dāna and Nibbāna <{filename}pt11-07-dana-and-nibbana-han%zh.rst>`_ (1961-12-05)
+- 7.) `布施和涅槃 <{filename}pt11-07-dana-and-nibbana-han%zh.rst>`_ (1961-12-05)
 
-- 8.) `Practicing for Dying <{filename}pt11-08-practicing-for-dying-han%zh.rst>`_ (1962-08-11 ~ 08-12)
+- 8.) `為死亡而修行 <{filename}pt11-08-practicing-for-dying-han%zh.rst>`_ (1962-08-11 ~ 08-12)
 
-- 9.) `Seeing Nibbāna with the Pure Mind <{filename}pt11-09-seeing-nibbana-with-the-pure-mind-han%zh.rst>`_ (1962-08-23)
+- 9.) `以清淨心見涅槃 <{filename}pt11-09-seeing-nibbana-with-the-pure-mind-han%zh.rst>`_ (1962-08-23)
 
-- 10.) `Two Ways of Dying <{filename}pt11-10-two-ways-of-dying-han%zh.rst>`_ (1962-08-29)
+- 10.) `死亡的兩種方式 <{filename}pt11-10-two-ways-of-dying-han%zh.rst>`_ (1962-08-29)
 
-- 11.) `Dependency Is Wavering <{filename}pt11-11-dependency-is-wavering-han%zh.rst>`_ (N/A)
+- 11.) `依賴是動搖的 <{filename}pt11-11-dependency-is-wavering-han%zh.rst>`_ (N/A)
 
-- 12.) `The Creator <{filename}pt11-12-the-creator-han%zh.rst>`_ (N/A)
+- 12.) `造物主 <{filename}pt11-12-the-creator-han%zh.rst>`_ (N/A)
 
-- 13.) `Not a Soul, Only an Intrinsic Nature <{filename}pt11-13-not-a-soul-only-an-intrinsic-nature-han%zh.rst>`_ (N/A)
+- 13.) `沒有靈魂，只有內在的本性 <{filename}pt11-13-not-a-soul-only-an-intrinsic-nature-han%zh.rst>`_ (N/A)
 
-- 14.) `Why Can't Discern Dukkha? <{filename}pt11-14-why-cannot-discern-dukkha-han%zh.rst>`_ (N/A)
+- 14.) `為什麼不能辨別苦 <{filename}pt11-14-why-cannot-discern-dukkha-han%zh.rst>`_ (N/A)
 
-- 15.) `Becoming and Not Becoming <{filename}pt11-15-becoming-and-not-becoming-han%zh.rst>`_ (N/A)
+- 15.) `成為和不成為 <{filename}pt11-15-becoming-and-not-becoming-han%zh.rst>`_ (N/A)
 
-- 16.) `Don't Live and Die with Ignorance <{filename}pt11-16-dont-Live-and-die-with-ignorance-han%zh.rst>`_ (N/A)
+- 16.) `不要在無明中生存和死亡 <{filename}pt11-16-dont-Live-and-die-with-ignorance-han%zh.rst>`_ (N/A)
 
-- 17.) `Wise Attention and Wisdom <{filename}pt11-17-wise-attention-and-wisdom-han%zh.rst>`_ (N/A)
+- 17.) `明智的專注和智慧 <{filename}pt11-17-wise-attention-and-wisdom-han%zh.rst>`_ (N/A)
 
-- 18.) `Human Characters <{filename}pt11-18-human-characters-han%zh.rst>`_ (N/A)
+- 18.) `人類的角色 <{filename}pt11-18-human-characters-han%zh.rst>`_ (N/A)
 
-- 19.) `Not Becoming Dog Again <{filename}pt11-19-not-becoming-dog-again-han%zh.rst>`_ (N/A)
+- 19.) `不再成為狗 <{filename}pt11-19-not-becoming-dog-again-han%zh.rst>`_ (N/A)
 
-- 20.) `Difficult To Know Dukkha and Vedanā <{filename}pt11-20-difficult-to-know-dukkha-and-vedana-han%zh.rst>`_ (N/A)
+- 20.) `難知的「苦」和「受」 <{filename}pt11-20-difficult-to-know-dukkha-and-vedana-han%zh.rst>`_ (N/A)
 
-- 21.) `Bond with Diṭṭhi Rope and Carrying Away by Taṇhā Water <{filename}pt11-21-bond-with-ditthi-rope-and-carrying-away-by-tanha-water-han%zh.rst>`_ (N/A)
+- 21.) `與「邪見 Diṭṭhi」繩索結合，被「貪 Taṇhā」水帶走 and Carrying Away by Taṇhā Water <{filename}pt11-21-bond-with-ditthi-rope-and-carrying-away-by-tanha-water-han%zh.rst>`_ (N/A)
 
-- 22.) `Dispelling Diṭṭhi Before Insight <{filename}pt11-22-dispelling-ditthi-before-insight-han%zh.rst>`_ (N/A)
+- 22.) `「內觀」前祛除邪見 <{filename}pt11-22-dispelling-ditthi-before-insight-han%zh.rst>`_ (N/A)
 
-- 23.) `A Noble Life and Practice <{filename}pt11-23-a-noble-life-and-practice-han%zh.rst>`_ (N/A)
+- 23.) `高貴的生活和修行 <{filename}pt11-23-a-noble-life-and-practice-han%zh.rst>`_ (N/A)
 
-- 24.) `Conditioned Phenomena <{filename}pt11-24-conditioned-phenomena-han%zh.rst>`_ (N/A)
+- 24.) `有為的現象 <{filename}pt11-24-conditioned-phenomena-han%zh.rst>`_ (N/A)
 
-- 25.) `Practice Only One <{filename}pt11-25-practice-only-one-han%zh.rst>`_ (N/A)
+- 25.) `只修行一個 <{filename}pt11-25-practice-only-one-han%zh.rst>`_ (N/A)
 
-- 26.) `Deceiving by the Active Mind <{filename}pt11-26-deceiving-by-the-active-mind-han%zh.rst>`_ (N/A)
+- 26.) `主動心的欺騙 <{filename}pt11-26-deceiving-by-the-active-mind-han%zh.rst>`_ (N/A)
 
-- 27.) `Ignoble and Noble Searches <{filename}pt11-27-ignoble-and-noble-searches-han%zh.rst>`_ (N/A)
+- 27.) `卑鄙和高尚的探索 <{filename}pt11-27-ignoble-and-noble-searches-han%zh.rst>`_ (N/A)
 
 _`第 12 部` ( `第 12 部目錄 <{filename}pt12-content-of-part12-han%zh.rst>`_ )
 
-- 1.) `Khandha Fuel, Kilesa Fire and Nibbāna <{filename}pt12-01-khandha-fuel-kilesa-fire-and-nibbana-han%zh.rst>`_ (N/A)
+- 1.) `「蘊 Khandha」燃料、「雜染 Kilesa」火和涅槃 <{filename}pt12-01-khandha-fuel-kilesa-fire-and-nibbana-han%zh.rst>`_ (N/A)
 
-- 2.) `Penetration of Dukkha <{filename}pt12-02-penetration-of-dukkha-han%zh.rst>`_ (1956-10-15)
+- 2.) `「苦 Dukkha」的穿透 <{filename}pt12-02-penetration-of-dukkha-han%zh.rst>`_ (1956-10-15)
 
-- 3.) `Dhamma and Anudhamma <{filename}pt12-03-dhamma-and-anudhamma-han%zh.rst>`_ (1956) (no date but year noted)
+- 3.) `「法」及「隨法 Anudhamma」 <{filename}pt12-03-dhamma-and-anudhamma-han%zh.rst>`_ (1956) (no date but year noted)
 
-- 4.) `Dependent Arising and the Four Noble Truths <{filename}pt12-04-dependent-arising-and-the-four-noble-truths-han%zh.rst>`_ (N/A)
+- 4.) `「緣起（依存的產生）」和四聖諦 <{filename}pt12-04-dependent-arising-and-the-four-noble-truths-han%zh.rst>`_ (N/A)
 
-- 5.) `Dependent Arising and the Taints <{filename}pt12-05-dependent-arising-and-the-taints-han%zh.rst>`_ (N/A)
+- 5.) `「緣起」和「煩惱、染汙 Taints」 <{filename}pt12-05-dependent-arising-and-the-taints-han%zh.rst>`_ (N/A)
 
-- 6.) `Dangers That the Worldling Can’t Escape <{filename}pt12-06-dangers-that-the-worldlings-cannot-escape-han%zh.rst>`_ (N/A)
+- 6.) `（世間）俗人無法逃避的危險 <{filename}pt12-06-dangers-that-the-worldlings-cannot-escape-han%zh.rst>`_ (N/A)
 
-- 7.) `Just Intrinsic Nature <{filename}pt12-07-just-intrinsic-nature-han%zh.rst>`_ (N/A)
+- 7.) `就只是內在本質 Just Intrinsic Nature <{filename}pt12-07-just-intrinsic-nature-han%zh.rst>`_ (N/A)
 
-- 8.) `Ignorance and Craving <{filename}pt12-08-ignorance-and-craving-han%zh.rst>`_ (N/A)
+- 8.) `無明與渴求 <{filename}pt12-08-ignorance-and-craving-han%zh.rst>`_ (N/A)
 
-- 9.) `Everyone Is a Thief <{filename}pt12-09-everyone-is-a-thief-han%zh.rst>`_ (N/A)
+- 9.) `人人都是小偷 <{filename}pt12-09-everyone-is-a-thief-han%zh.rst>`_ (N/A)
 
-- 10.) `Concept, Reality and Wise Attention <{filename}pt12-10-concept-reality-and-wise-attention-han%zh.rst>`_ (N/A)
+- 10.) `概念、真理和明智的專注 <{filename}pt12-10-concept-reality-and-wise-attention-han%zh.rst>`_ (N/A)
 
-- 11.) `Simple and Direct (B) <{filename}pt12-11-simple-and-direct-han%zh.rst>`_ (N/A)
+- 11.) `簡單而直接（2） <{filename}pt12-11-simple-and-direct-han%zh.rst>`_ (N/A)
 
-- 12.) `Insight for Everyone <{filename}pt12-12-insight-for-everyone-han%zh.rst>`_ (N/A)
+- 12.) `每個人的內觀 <{filename}pt12-12-insight-for-everyone-han%zh.rst>`_ (N/A)
 
-- 13.) `Dying and Undying <{filename}pt12-13-dying-and-undying-han%zh.rst>`_ (N/A)
+- 13.) `死與不死 <{filename}pt12-13-dying-and-undying-han%zh.rst>`_ (N/A)
 
-- 14.) `The Burdened Khandha <{filename}pt12-14-burdened-khandha-han%zh.rst>`_ (N/A)
+- 14.) `負擔沉重的「蘊」 <{filename}pt12-14-burdened-khandha-han%zh.rst>`_ (N/A)
 
-- 15.) `Time and Timeless <{filename}pt12-15-time-and-timeless-han%zh.rst>`_ (N/A)
+- 15.) `時間與永恆-2 <{filename}pt12-15-time-and-timeless-han%zh.rst>`_ (N/A)
 
-- 16.) `Dying, Saṁsāra and Nibbāna <{filename}pt12-16-dying-samsara-and-nibbana-han%zh.rst>`_ (N/A)
+- 16.) `死亡、輪迴和涅槃 <{filename}pt12-16-dying-samsara-and-nibbana-han%zh.rst>`_ (N/A)
 
-- 17.) `Don't Get Lost in Sufferings <{filename}pt12-17-donot-get-lost-in-sufferings-han%zh.rst>`_ (N/A)
+- 17.) `不要迷失在「苦」中 <{filename}pt12-17-donot-get-lost-in-sufferings-han%zh.rst>`_ (N/A)
 
-- 18.) `Three Knowledges of the First Discourse <{filename}pt12-18-three-knowledges-of-the-first-discourse-han%zh.rst>`_ (N/A)
+- 18.) `第一講的三個「智」 <{filename}pt12-18-three-knowledges-of-the-first-discourse-han%zh.rst>`_ (N/A)
 
-- 19.) `Instruction on Dying <{filename}pt12-19-instruction-on-dying-han%zh.rst>`_ (N/A)
+- 19.) `關於死亡的指引 <{filename}pt12-19-instruction-on-dying-han%zh.rst>`_ (N/A)
 
-- 20.) `Don't Waste Your Precious Times <{filename}pt12-20-donot-waste-your-precious-times-han%zh.rst>`_ (N/A)
+- 20.) `不要浪費你寶貴的時間 <{filename}pt12-20-donot-waste-your-precious-times-han%zh.rst>`_ (N/A)
 
-- 21.) `The Dangers of Ignoble Dhamma <{filename}pt12-21-dangers-of-ignoble-dhamma-han%zh.rst>`_ (N/A)
+- 21.) `「非聖法 ignoble dhamma」 的危險 <{filename}pt12-21-dangers-of-ignoble-dhamma-han%zh.rst>`_ (N/A)
 
-- 22.) `True Dhamma and Counterfeit Dhamma <{filename}pt12-22-true-dhamma-and-counterfeit-dhamma-han%zh.rst>`_ (N/A)
+- 22.) `真正的佛法和假冒的佛法 <{filename}pt12-22-true-dhamma-and-counterfeit-dhamma-han%zh.rst>`_ (N/A)
 
-- 23.) `Transcending of Time <{filename}pt12-23-transcending-of-time-han%zh.rst>`_ (N/A)
+- 23.) `時間的超越 <{filename}pt12-23-transcending-of-time-han%zh.rst>`_ (N/A)
 
 _`第 13 部` ( `第 13 部目錄 <{filename}pt13-content-of-part13-han%zh.rst>`_ )
 
-- 1.) `The Real Saviour <{filename}pt13-01-the-real-saviour-han%zh.rst>`_ (1961-07-28)
+- 1.) `真正的救世主 <{filename}pt13-01-the-real-saviour-han%zh.rst>`_ (1961-07-28)
 
-- 2.) `Should Have Sympathy for Oneself <{filename}pt13-02-should-have-sympathy-for-oneself-han%zh.rst>`_ (1961-10-07~08)
+- 2.) `應該同情自己 <{filename}pt13-02-should-have-sympathy-for-oneself-han%zh.rst>`_ (1961-10-07~08)
 
-- 3.) `Importance of Anicca and Momentary Nibbāna <{filename}pt13-03-importance-of-anicca-and-momentary-nibbana-han%zh.rst>`_ (1961-10-11)
+- 3.) `無常和瞬間涅槃的重要性 <{filename}pt13-03-importance-of-anicca-and-momentary-nibbana-han%zh.rst>`_ (1961-10-11)
 
-- 4.) `Grown up With Ignorance <{filename}pt13-04-grown-up-with-ignorance-han%zh.rst>`_ (1961-10-18)
+- 4.) `在無明中成長 <{filename}pt13-04-grown-up-with-ignorance-han%zh.rst>`_ (1961-10-18)
 
-- 5.) `The Way of No Grimace and Smile <{filename}pt13-05-the-way-of-no-grimace-and-smile-han%zh.rst>`_ (1961-11-15)
+- 5.) `無怨無悔與微笑之道 <{filename}pt13-05-the-way-of-no-grimace-and-smile-han%zh.rst>`_ (1961-11-15)
 
-- 6.) `Man’s Story and His Stupidity <{filename}pt13-06-man-s-story-and-his-stupidity-han%zh.rst>`_ (1961-11-27)
+- 6.) `人的故事和他的愚蠢 <{filename}pt13-06-man-s-story-and-his-stupidity-han%zh.rst>`_ (1961-11-27)
 
-- 7.) `Man, Happy With Kilesa Diseases <{filename}pt13-07-man-happy-with-kilesa-diseases-han%zh.rst>`_ (1961-11-27)
+- 7.) `人，帶著「雜染煩惱 Kilesa」這個疾病卻快樂 <{filename}pt13-07-man-happy-with-kilesa-diseases-han%zh.rst>`_ (1961-11-27)
 
-- 8.) `Fall in Love With the Killer <{filename}pt13-08-fall-in-love-with-the-killer-han%zh.rst>`_ (1961-12-19~20)
+- 8.) `與殺手相愛 <{filename}pt13-08-fall-in-love-with-the-killer-han%zh.rst>`_ (1961-12-19~20)
 
-- 9.) `Everyone Is a Stranger <{filename}pt13-09-everyone-is-a-stranger-han%zh.rst>`_ (1962-03-12)
+- 9.) `每個人都是陌生人 <{filename}pt13-09-everyone-is-a-stranger-han%zh.rst>`_ (1962-03-12)
 
-- 10.) `Wavering and Not Wavering <{filename}pt13-10-wavering-and-not-wavering-han%zh.rst>`_ (1962-05-05~06)
+- 10.) `動搖與不動搖 <{filename}pt13-10-wavering-and-not-wavering-han%zh.rst>`_ (1962-05-05~06)
 
-- 11.) `So Many Excuses <{filename}pt13-11-so-many-excuses-han%zh.rst>`_ (1962-06-09)
+- 11.) `這麼多的藉口 <{filename}pt13-11-so-many-excuses-han%zh.rst>`_ (1962-06-09)
 
-- 12.) `The Hidden Nibbāna <{filename}pt13-12-the-hidden-nibbana-han%zh.rst>`_ (1962-09-28)
+- 12.) `隱藏的涅槃 <{filename}pt13-12-the-hidden-nibbana-han%zh.rst>`_ (1962-09-28)
 
-- 13.) `A Slave With Four Masters <{filename}pt13-13-a-slave-with-four-masters-han%zh.rst>`_ (1960-12-18)
+- 13.) `一個有四個主人的奴隸 <{filename}pt13-13-a-slave-with-four-masters-han%zh.rst>`_ (1960-12-18)
 
-- 14.) `The Blind With Distortions <{filename}pt13-14-the-blind-with-distortions-han%zh.rst>`_ (1960-12-20)
+- 14.) `扭曲的盲人 <{filename}pt13-14-the-blind-with-distortions-han%zh.rst>`_ (1960-12-20)
 
-- 15.) `On Sensuality <{filename}pt13-15-on-sensuality-han%zh.rst>`_ (1960-12-21)
+- 15.) `論喜愛感官享受 <{filename}pt13-15-on-sensuality-han%zh.rst>`_ (1960-12-21)
 
-- 16.) `Is It Your View or the Buddha’s View? <{filename}pt13-16-is-it-your-view-or-the-buddha-s-view-han%zh.rst>`_ (1960-12-24)
+- 16.) `是你的觀點還是佛的觀點？ <{filename}pt13-16-is-it-your-view-or-the-buddha-s-view-han%zh.rst>`_ (1960-12-24)
 
-- 17.) `The Danger of Craving <{filename}pt13-17-the-danger-of-craving-han%zh.rst>`_ (1960-10-05)
+- 17.) `貪欲的危險 <{filename}pt13-17-the-danger-of-craving-han%zh.rst>`_ (1960-10-05)
 
-- 18.) `Is Everything That Happens Anatta? <{filename}pt13-18-is-everything-that-happens-anatta-han%zh.rst>`_ (1960-12-30)
+- 18.) `發生的一切是「無我」嗎？Is Everything That Happens Anatta? <{filename}pt13-18-is-everything-that-happens-anatta-han%zh.rst>`_ (1960-12-30)
 
-- 19.) `Human Perils <{filename}pt13-19-human-perils-han%zh.rst>`_ (1961-01-08)
+- 19.) `人類的危險 <{filename}pt13-19-human-perils-han%zh.rst>`_ (1961-01-08)
 
-- 20.) `Anicca Ñāṇa, the Saviour <{filename}pt13-20-anicca-nana-the-saviour-han%zh.rst>`_ (1961-01-10)
+- 20.) `救世主—「無常智」 <{filename}pt13-20-anicca-nana-the-saviour-han%zh.rst>`_ (1961-01-10)
 
-- 21.) `True Refuge—God or Dhamma? <{filename}pt13-21-true-refuge-god-or-dhamma-han%zh.rst>`_ (1961-01-14)
+- 21.) `真正的皈依處（避難所）—上帝或佛法？ <{filename}pt13-21-true-refuge-god-or-dhamma-han%zh.rst>`_ (1961-01-14)
 
-- 22.) `The Art of Living and Dying <{filename}pt13-22-the-art-of-living-and-dying-han%zh.rst>`_ (1961-09-25~30)
+- 22.) `生與死的藝術 <{filename}pt13-22-the-art-of-living-and-dying-han%zh.rst>`_ (1961-09-25~30)
 
-- 23.) `Importance of Habitual Practice <{filename}pt13-23-importance-of-habitual-practice-han%zh.rst>`_ (1961-10-20)
+- 23.) `養成習慣修行的重要性 <{filename}pt13-23-importance-of-habitual-practice-han%zh.rst>`_ (1961-10-20)
 
-- 24.) `Only Dukkha Exists <{filename}pt13-24-only-dukkha-exists-han%zh.rst>`_ (1961-10-28)
+- 24.) `只有「苦」存在 <{filename}pt13-24-only-dukkha-exists-han%zh.rst>`_ (1961-10-28)
 
-- 25.) `Perfection for Nibbāna <{filename}pt13-25-perfection-for-nibbana-han%zh.rst>`_ (N/A)
+- 25.) `證入涅槃的波羅蜜 <{filename}pt13-25-perfection-for-nibbana-han%zh.rst>`_ (N/A)
 
-- 26.) `Sukha Nibbāna <{filename}pt13-26-sukha-nibbana-han%zh.rst>`_ (In 1954)
+- 26.) `快樂涅槃（Sukha Nibbāna） <{filename}pt13-26-sukha-nibbana-han%zh.rst>`_ (In 1954)
 
-- 27.) `Ascending with Three Knowledges <{filename}pt13-27-ascending-with-three-knowledges-han%zh.rst>`_ (N/A)
+- 27.) `以「三智」見升華 <{filename}pt13-27-ascending-with-three-knowledges-han%zh.rst>`_ (N/A)
 
-- 28.) `Becoming and Eight Faults <{filename}pt13-28-becoming-and-eight-faults-han%zh.rst>`_  (N/A)
+- 28.) `成就與八種過失 <{filename}pt13-28-becoming-and-eight-faults-han%zh.rst>`_  (N/A)
 
-- 29.) `The Nature of Dukkha <{filename}pt13-29-the-nature-of-dukkha-han%zh.rst>`_ (N/A)
+- 29.) `「苦」的本質 <{filename}pt13-29-the-nature-of-dukkha-han%zh.rst>`_ (N/A)
 
-- 30.) `The Worst Danger <{filename}pt13-30-the-worst-danger-han%zh.rst>`_ (N/A)
+- 30.) `最可怕的危險 <{filename}pt13-30-the-worst-danger-han%zh.rst>`_ (N/A)
 
-- 31.) `Importance of Dukkha Sacca <{filename}pt13-31-importance-of-dukkha-sacca-han%zh.rst>`_ (N/A)
+- 31.) `「苦聖諦」的重要性 <{filename}pt13-31-importance-of-dukkha-sacca-han%zh.rst>`_ (N/A)
 
-- 32.) `Dealing With the Five Spiritual Faculties and Five Hindrances <{filename}pt13-32-dealing-with-the-five-spiritual-faculties-and-five-hindrances-han%zh.rst>`_ (N/A)
+- 32.) `處理五力（五種精神能力）和五種障礙 <{filename}pt13-32-dealing-with-the-five-spiritual-faculties-and-five-hindrances-han%zh.rst>`_ (N/A)
 
-- 33.) `The Most Dangerous Enemy <{filename}pt13-33-the-most-dangerous-enemy-han%zh.rst>`_ (N/A)
+- 33.) `最危險的敵人 <{filename}pt13-33-the-most-dangerous-enemy-han%zh.rst>`_ (N/A)
 
 ----
 
@@ -716,19 +716,13 @@ _`關於英譯者`: 請 `點此 <{filename}dhamma-talks-by-mogok-sayadaw-about-t
 
 ------
 
-更新：西元 2022-08-26
+更新：西元 2022-08-28
 
 ------
 
 - 尊者 鄔達摩比丘出版品 `目錄 <{filename}../publication-of-ven-uttamo-han%zh.rst>`__ 
 
-------
-
-**中譯者聲明：** 出於法供養之心，試譯此文以饗法友。此譯文是一暫時性版本，會隨著時空因緣逐步修正。囿於所學，請十方賢達不吝來函賜教錯謬與未臻完善處；並祈藉此拋磚引玉，眾法友能共襄盛舉，共同圓滿此譯事。 Nanda 謹識。
-
-------
-
-**據英譯者—鄔達摩比丘交待，此譯文僅能免費與大眾結緣，作為法的禮物（Dhamma Dāna）。你可以在任何媒體上重新編製、重印、翻譯和重新發布這部作品。**
 
 ..
-  2022-08-24  create rst; post on 08-26; 以下待譯中！
+  2022-08-28 finish titles & del: 中譯者聲明 & 據英譯者—鄔達摩比丘交待 which moved on footer 
+  2022-08-24 create rst; post on 08-26; 以下待譯中！
