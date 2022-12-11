@@ -3,7 +3,7 @@
 =====================
 
 :date: 2022-06-03
-:modified: 2022-07-19
+:modified: 2022-12-11
 :tags: 蘇錦坤, 藏經閣的掃葉人, Ken Su
 :category: 蘇錦坤老師
 :summary: 蘇錦坤 老師 作品集 (Publications of Ken Su)
@@ -70,7 +70,7 @@
 
   * 上冊 `PDF <{static}/extra/authors/ken-su/comparison_study_between_agama_nikaya-vol-a.pdf>`__ （2022-07-06, 387 頁）；
 
-  * 下冊 `PDF <{static}/extra/authors/ken-su/comparison_study_between_agama_nikaya-vol-a.pdf>`__ （2022-07-06, 315 頁）
+  * 下冊 `PDF <{static}/extra/authors/ken-su/comparison_study_between_agama_nikaya-vol-b.pdf>`__ （2022-07-06, 315 頁）
 
 - 《「阿含、尼柯耶」比較研究論文選集》 **封面** ：
 
@@ -142,6 +142,7 @@
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
 ..
+  12-11 rev. correct linking of vol. b & full
   07-19 add: 「漢譯佛典校勘學」論文選集; 印順導師與漢譯佛典的校勘; 漢譯佛典的新式標點舉例; 
         replace 「漢譯佛典文獻學」 with 「漢譯佛典校勘學」論文選集
         - `前言 <{static}/extra/authors/ken-su/preface-collation-ken-su.pdf>`__ （PDF，2022-0-0）
