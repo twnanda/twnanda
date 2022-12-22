@@ -3,7 +3,7 @@
 =================================================
 
 :date: 2019-02-06
-:modified: 2021-09-07
+:modified: 2022-12-22
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, Nanda 編譯
 :tags: 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛法, 佛陀說的法, 瓦爾朴拉羅睺羅, 鄭於中, 戴密微
 :category: 解脫之道
@@ -20,6 +20,8 @@
 - 本書書目_
 
 - 參考資料_
+
+- 有聲書_ （＠Youtube）
 
 ------
 
@@ -454,8 +456,33 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
      - 2021-04-25 版《佛陀的啟示》 修訂（勘誤）表： `PDF <{static}/extra/authors/walpola-rahula/what-the-buddha-taught-revise-note-full-for-2021-04-25-B5-endnote.pdf>`__  〔 **尾註版** ， 67 頁〕
      - 
 
+------
+
+.. _有聲書_Youtube:
+
+
+有聲書
+~~~~~~~~~
+
+（＠Youtube）
+
+.. list-table:: 佛陀的啟示（有聲書）
+   :header-rows: 1
+
+   * - `第一章  佛教的宗教態度 <https://www.youtube.com/watch?v=Pv9f5ukKm9s&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K>`__
+     - `第二章  四聖諦 <https://www.youtube.com/watch?v=WwQB6rZ_a1E&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=3>`__ (第一聖諦：苦諦)
+     - `第三章  第二聖諦：集諦——苦之生起 <https://www.youtube.com/watch?v=tztVcBpcDD0&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=4>`__
+
+   * - `第四章  第三聖諦：滅諦 <https://www.youtube.com/watch?v=9rJnTGuH3-g&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=5>`__ (苦的止息)
+     - `第五章  第四聖諦：道諦 <https://www.youtube.com/watch?v=sXHLM8TsxTU&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=6>`__
+     - `第六章  無我論 <https://www.youtube.com/watch?v=4Pe-Y7-dLmQ&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=7>`__
+
+   * - `第七章  修習：心智的培育 <https://www.youtube.com/watch?v=drT0KzRlF34&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=8>`__
+     - `第八章  佛的教誡與今日世界 <https://www.youtube.com/watch?v=_Y7ADhk8nJs&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=9>`__
+     - 
 
 ..
+  2022-12-22 add: linking of 有聲書@youtube
   09-07 rev: date of full text 
   09-04 add: 化普樂羅睺羅大長老; 日本語版(日本語訳); 台灣各地圖書館藏; rev: total page number on copyright page
   09-03 rev: 2021-09-02 修訂（順便更改版面） 
