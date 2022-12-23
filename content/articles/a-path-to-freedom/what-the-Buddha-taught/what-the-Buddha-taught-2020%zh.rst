@@ -3,7 +3,7 @@
 =================================================
 
 :date: 2019-02-06
-:modified: 2022-12-23
+:modified: 2022-12-24
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, Nanda 編譯
 :tags: 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛法, 佛陀說的法, 瓦爾朴拉羅睺羅, 鄭於中, 戴密微
 :category: 解脫之道
@@ -476,10 +476,11 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
      - 第六章  無我論
 
    * - 第七章  修習：心智的培育
-     - `第八章  佛的教誡與今日世界
+     - 第八章  佛的教誡與今日世界
      - 
 
 ..
+  12-24 rev. correct error of rst syntax 
   12-23 add: tag--audiobook
     rev. old:
 
