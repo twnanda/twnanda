@@ -458,13 +458,11 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
 
 ------
 
-.. _有聲書_Youtube:
+.. _audiobook:
 
 
 有聲書
 ~~~~~~~~~
-
-（＠Youtube）
 
 .. list-table:: 佛陀的啟示（有聲書）
    :header-rows: 1
@@ -482,15 +480,16 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
      - 
 
 ..
-  12-23 rev. old:
+  12-23 add: tag--audiobook
+    rev. old:
 
-   * - `第一章  佛教的宗教態度 <https://www.youtube.com/watch?v=Pv9f5ukKm9s&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K>`__
+    * - `第一章  佛教的宗教態度 <https://www.youtube.com/watch?v=Pv9f5ukKm9s&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K>`__
      - `第二章  四聖諦 <https://www.youtube.com/watch?v=WwQB6rZ_a1E&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=3>`__ (第一聖諦：苦諦)
      - `第三章  第二聖諦：集諦——苦之生起 <https://www.youtube.com/watch?v=tztVcBpcDD0&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=4>`__
-   * - `第四章  第三聖諦：滅諦 <https://www.youtube.com/watch?v=9rJnTGuH3-g&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=5>`__ (苦的止息)
+    * - `第四章  第三聖諦：滅諦 <https://www.youtube.com/watch?v=9rJnTGuH3-g&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=5>`__ (苦的止息)
      - `第五章  第四聖諦：道諦 <https://www.youtube.com/watch?v=sXHLM8TsxTU&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=6>`__
      - `第六章  無我論 <https://www.youtube.com/watch?v=4Pe-Y7-dLmQ&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=7>`__
-   * - `第七章  修習：心智的培育 <https://www.youtube.com/watch?v=drT0KzRlF34&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=8>`__
+    * - `第七章  修習：心智的培育 <https://www.youtube.com/watch?v=drT0KzRlF34&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=8>`__
      - `第八章  佛的教誡與今日世界 <https://www.youtube.com/watch?v=_Y7ADhk8nJs&list=PLSmF9faDI0NcbbrJpx-v5liXG77e_PC1K&index=9>`__
      - 
 
