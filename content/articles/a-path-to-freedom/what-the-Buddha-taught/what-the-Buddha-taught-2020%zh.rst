@@ -92,23 +92,61 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 
 - `第一章  佛教的宗教態度 <{filename}what-the-Buddha-taught-chap1%zh.rst>`__ (Chapter I: The Buddhist attitude of Mind)
 
-  - `人類的地位是至高無上的 <{filename}what-the-Buddha-taught-chap1%zh.rst#人類的地位是至高無上的>`__ —— `人應當自作皈依 <{filename}what-the-Buddha-taught-chap1%zh.rst#人應當自作皈依>`__ —— `責任自負 <{filename}what-the-Buddha-taught-chap1%zh.rst#責任自負>`__ —— `自由思想 <{filename}what-the-Buddha-taught-chap1%zh.rst#自由思想>`__ —— `懷疑 <{filename}what-the-Buddha-taught-chap1%zh.rst#懷疑>`__ —— `寬大為懷 <{filename}what-the-Buddha-taught-chap1%zh.rst#寬大為懷>`__ —— `佛教到底是宗教呢？還是哲學？ <{filename}what-the-Buddha-taught-chap1%zh.rst#佛教到底是宗教呢？還是哲學？>`__ —— `真理不需要標籤 <{filename}what-the-Buddha-taught-chap1%zh.rst#真理不需要標籤>`__ —— `重點卻在「見」、知與瞭解上，而不在信（相信）上 <{filename}what-the-Buddha-taught-chap1%zh.rst#重點卻在「見」、知與瞭解上，而不在信（相信）上>`__ —— `凡所教誡不是供執取的 <{filename}what-the-Buddha-taught-chap1%zh.rst#凡所教誡不是供執取的>`__ —— `木筏的譬喻 <{filename}what-the-Buddha-taught-chap1%zh.rst#木筏的譬喻>`__ —— `純粹的臆想只能製造莫須有的問題 <{filename}what-the-Buddha-taught-chap1%zh.rst#純粹的臆想只能製造莫須有的問題>`__ —— `實踐的態度 <{filename}what-the-Buddha-taught-chap1%zh.rst#實踐的態度>`__ —— `受傷者的譬喻 <{filename}what-the-Buddha-taught-chap1%zh.rst#受傷者的譬喻>`__ （箭喻經）
+  * `人類的地位是至高無上的 <{filename}what-the-Buddha-taught-chap1%zh.rst#人類的地位是至高無上的>`__ —— `人應當自作皈依 <{filename}what-the-Buddha-taught-chap1%zh.rst#人應當自作皈依>`__ —— `責任自負 <{filename}what-the-Buddha-taught-chap1%zh.rst#責任自負>`__ —— `自由思想 <{filename}what-the-Buddha-taught-chap1%zh.rst#自由思想>`__ —— `懷疑 <{filename}what-the-Buddha-taught-chap1%zh.rst#懷疑>`__ —— `寬大為懷 <{filename}what-the-Buddha-taught-chap1%zh.rst#寬大為懷>`__ —— `佛教到底是宗教呢？還是哲學？ <{filename}what-the-Buddha-taught-chap1%zh.rst#佛教到底是宗教呢？還是哲學？>`__ —— `真理不需要標籤 <{filename}what-the-Buddha-taught-chap1%zh.rst#真理不需要標籤>`__ —— `重點卻在「見」、知與瞭解上，而不在信（相信）上 <{filename}what-the-Buddha-taught-chap1%zh.rst#重點卻在「見」、知與瞭解上，而不在信（相信）上>`__ —— `凡所教誡不是供執取的 <{filename}what-the-Buddha-taught-chap1%zh.rst#凡所教誡不是供執取的>`__ —— `木筏的譬喻 <{filename}what-the-Buddha-taught-chap1%zh.rst#木筏的譬喻>`__ —— `純粹的臆想只能製造莫須有的問題 <{filename}what-the-Buddha-taught-chap1%zh.rst#純粹的臆想只能製造莫須有的問題>`__ —— `實踐的態度 <{filename}what-the-Buddha-taught-chap1%zh.rst#實踐的態度>`__ —— `受傷者的譬喻 <{filename}what-the-Buddha-taught-chap1%zh.rst#受傷者的譬喻>`__ （箭喻經）
 
 - `第二章  四聖諦 <{filename}what-the-Buddha-taught-chap2%zh.rst>`__ (Chapter II: The First Noble Truth: Dukkha 第一聖諦：苦諦)
 
-  - `佛教是既非悲觀的，也非樂觀的；它是「實觀」的 <{filename}what-the-Buddha-taught-chap2%zh.rst#佛教是既非悲觀的，也非樂觀的；它是「實觀」的>`__ —— `苦的意義 <{filename}what-the-Buddha-taught-chap2%zh.rst#苦的意義>`__ —— `經驗上的三種面相 <{filename}what-the-Buddha-taught-chap2%zh.rst#經驗上的三種面相>`__ —— `三方面去審察「苦」 <{filename}what-the-Buddha-taught-chap2%zh.rst#三方面去審察「苦」>`__ `何謂「眾生」 <{filename}what-the-Buddha-taught-chap2%zh.rst#何謂「眾生」>`__ —— `五蘊 <{filename}what-the-Buddha-taught-chap2%zh.rst#五蘊>`__ —— `世間並無永恆不變而與物質對立的精神，可以被視為「自我」、「靈魂」或「個我」者 <{filename}what-the-Buddha-taught-chap2%zh.rst#世間並無永恆不變而與物質對立的精神，可以被視為「自我」、「靈魂」或「個我」者>`__ —— `五蘊都是無常的、不停地變遷著的 <{filename}what-the-Buddha-taught-chap2%zh.rst#五蘊都是無常的、不停地變遷著的>`__ —— `思想者與思想 <{filename}what-the-Buddha-taught-chap2%zh.rst#思想者與思想>`__ —— `生命有起源嗎 <{filename}what-the-Buddha-taught-chap2%zh.rst#生命有起源嗎>`__ —— 
+  * `佛教是既非悲觀的，也非樂觀的；它是「實觀」的 <{filename}what-the-Buddha-taught-chap2%zh.rst#佛教是既非悲觀的，也非樂觀的；它是「實觀」的>`__ —— `苦的意義 <{filename}what-the-Buddha-taught-chap2%zh.rst#苦的意義>`__ —— `經驗上的三種面相 <{filename}what-the-Buddha-taught-chap2%zh.rst#經驗上的三種面相>`__ —— `三方面去審察「苦」 <{filename}what-the-Buddha-taught-chap2%zh.rst#三方面去審察「苦」>`__ `何謂「眾生」 <{filename}what-the-Buddha-taught-chap2%zh.rst#何謂「眾生」>`__ —— `五蘊 <{filename}what-the-Buddha-taught-chap2%zh.rst#五蘊>`__ —— `世間並無永恆不變而與物質對立的精神，可以被視為「自我」、「靈魂」或「個我」者 <{filename}what-the-Buddha-taught-chap2%zh.rst#世間並無永恆不變而與物質對立的精神，可以被視為「自我」、「靈魂」或「個我」者>`__ —— `五蘊都是無常的、不停地變遷著的 <{filename}what-the-Buddha-taught-chap2%zh.rst#五蘊都是無常的、不停地變遷著的>`__ —— `思想者與思想 <{filename}what-the-Buddha-taught-chap2%zh.rst#思想者與思想>`__ —— `生命有起源嗎 <{filename}what-the-Buddha-taught-chap2%zh.rst#生命有起源嗎>`__ 
 
 - `第三章  第二聖諦：集諦——苦之生起 <{filename}what-the-Buddha-taught-chap3%zh.rst>`__ (Chapter III: The Second Noble Truth: Samudaya, the arising or origin of dukkha)
+  
+  * `定義 <{filename}what-the-Buddha-taught-chap3%zh.rst#定義>`__ —— `四食 <{filename}what-the-Buddha-taught-chap3%zh.rst#四食>`_ —— `苦之生起的原因、種子 <{filename}what-the-Buddha-taught-chap3%zh.rst#苦之生起的原因、種子>`_ —— `生起與息滅的本質 <{filename}what-the-Buddha-taught-chap3%zh.rst#生起與息滅的本質>`_ —— `業與輪迴 <{filename}what-the-Buddha-taught-chap3%zh.rst#業與輪迴>`_ —— `死倒底是什麼？ <{filename}what-the-Buddha-taught-chap3%zh.rst#死倒底是什麼？>`_ —— `再生是什麼呢？ <{filename}what-the-Buddha-taught-chap3%zh.rst#再生是什麼呢？>`_
 
 - `第四章  第三聖諦：滅諦 <{filename}what-the-Buddha-taught-chap4%zh.rst>`__ (苦的止息， Chapter IV: The Third Noble Truth: Nirodha, the cessation of dukkha)
 
+  * `什麼是涅槃呢？ <{filename}what-the-Buddha-taught-chap4%zh.rst#什麼是涅槃呢？>`__ —— `語言與絕對真理 <{filename}what-the-Buddha-taught-chap4%zh.rst#語言與絕對真理>`_ —— `涅槃的定義 <{filename}what-the-Buddha-taught-chap4%zh.rst#涅槃的定義>`_ —— `涅槃不是消極的 <{filename}what-the-Buddha-taught-chap4%zh.rst#涅槃不是消極的>`_ —— `涅槃是絕對真理 <{filename}what-the-Buddha-taught-chap4%zh.rst#`涅槃是絕對真理>`_ —— `什麼是絕對的真理？ <{filename}what-the-Buddha-taught-chap4%zh.rst#什麼是絕對的真理？>`_ —— `真理不是反面的 <{filename}what-the-Buddha-taught-chap4%zh.rst#真理不是反面的>`_ —— `涅槃與生死 <{filename}what-the-Buddha-taught-chap4%zh.rst#涅槃與生死>`_ —— `涅槃不是任何東西的結果 <{filename}what-the-Buddha-taught-chap4%zh.rst#涅槃不是任何東西的結果>`_ —— `涅槃之後又如何？ <{filename}what-the-Buddha-taught-chap4%zh.rst#涅槃之後又如何？>`_ —— `通俗而不正確的語句 <{filename}what-the-Buddha-taught-chap4%zh.rst#通俗而不正確的語句>`_ —— `阿羅漢死（般涅槃）後如何？ <{filename}what-the-Buddha-taught-chap4%zh.rst#阿羅漢死（般涅槃）後如何？>`_ —— `如果沒有「我」，那麼誰來親證涅槃呢？ <{filename}what-the-Buddha-taught-chap4%zh.rst#如果沒有「我」，那麼誰來親證涅槃呢？>`_ —— `涅槃可以當生成就 <{filename}what-the-Buddha-taught-chap4%zh.rst#涅槃可以當生成就>`_
+
 - `第五章  第四聖諦：道諦 <{filename}what-the-Buddha-taught-chap5%zh.rst>`__ (Chapter V: The Fourth Noble Truth: Magga, The Path)
+
+  * `戒學（合乎道德的行為） <{filename}what-the-Buddha-taught-chap5%zh.rst#戒學（合乎道德的行為）>`_ —— `心智訓練 <{filename}what-the-Buddha-taught-chap5%zh.rst#心智訓練>`_ —— `慧學 <{filename}what-the-Buddha-taught-chap5%zh.rst#慧學>`_ —— `兩種知見 <{filename}what-the-Buddha-taught-chap5%zh.rst#兩種知見>`_ —— `關於四聖諦，我們有四樁事情要做 <{filename}what-the-Buddha-taught-chap5%zh.rst#關於四聖諦，我們有四樁事情要做>`_
 
 - `第六章  無我論 <{filename}what-the-Buddha-taught-chap6%zh.rst>`__ (Chapter VI: ANATTA: The Doctrine of No Soul)
 
-- `第七章  修習：心智的培育 <{filename}what-the-Buddha-taught-chap6%zh.rst>`__ (Chapter VII: BHĀVANĀ: Meditation or Mental Culture)
+  * `什麼是「靈魂」或「自我」 <{filename}what-the-Buddha-taught-chap6%zh.rst#什麼是「靈魂」或「自我」>`_ —— `上帝與靈魂：自衛和自存 <{filename}what-the-Buddha-taught-chap6%zh.rst#上帝與靈魂：自衛和自存>`_ —— `反潮流的教誡 <{filename}what-the-Buddha-taught-chap6%zh.rst#反潮流的教誡>`_ —— `分析法與合成法 <{filename}what-the-Buddha-taught-chap6%zh.rst#分析法與合成法>`_ —— `緣起論 <{filename}what-the-Buddha-taught-chap6%zh.rst#緣起論>`_ —— `自由意志的問題 <{filename}what-the-Buddha-taught-chap6%zh.rst#自由意志的問題>`_ —— `真理有兩種（俗諦與聖諦） <{filename}what-the-Buddha-taught-chap6%zh.rst#真理有兩種（俗諦與聖諦）>`_ —— `某些錯誤見解 <{filename}what-the-Buddha-taught-chap6%zh.rst#某些錯誤見解>`_ —— `佛陀毫不含糊地斷然否認「自我」的存在 <{filename}what-the-Buddha-taught-chap6%zh.rst#佛陀毫不含糊地斷然否認「自我」的存在>`_ —— `佛陀緘口不答 <{filename}what-the-Buddha-taught-chap6%zh.rst#佛陀緘口不答>`_ —— `造成「我」的觀念，是一種模模糊糊的「我存在」的感覺 <{filename}what-the-Buddha-taught-chap6%zh.rst#造成「我」的觀念，是一種模模糊糊的「我存在」的感覺>`_ —— `對於無我問題的正確立場 <{filename}what-the-Buddha-taught-chap6%zh.rst#對於無我問題的正確立場>`_ —— `如果沒有神我、自我，受業報的又是誰呢？ <{filename}what-the-Buddha-taught-chap6%zh.rst#如果沒有神我、自我，受業報的又是誰呢？>`_ —— `無我論不應被視為消極的 <{filename}what-the-Buddha-taught-chap6%zh.rst#無我論不應被視為消極的>`_
 
-- `第八章  佛的教誡與今日世界 <{filename}what-the-Buddha-taught-chap6%zh.rst>`__ (Chapter VIII: What the Buddha taught and the World Today)
+- `第七章  修習：心智的培育 <{filename}what-the-Buddha-taught-chap7%zh.rst>`__ (Chapter VII: BHĀVANĀ: Meditation or Mental Culture)
+
+  * `錯誤見解 <{filename}what-the-Buddha-taught-chap7%zh.rst#錯誤見解>`_ —— `佛教的修習，不是逃避日常生活 <{filename}what-the-Buddha-taught-chap7%zh.rst#佛教的修習，不是逃避日常生活>`_ —— `兩種修習 <{filename}what-the-Buddha-taught-chap7%zh.rst#兩種修習>`_ —— `念住 <{filename}what-the-Buddha-taught-chap7%zh.rst#念住>`_ —— `修習憶念出入息法（數息觀） <{filename}what-the-Buddha-taught-chap7%zh.rst#修習憶念出入息法（數息觀）>`_ —— `了了分明於你的每一舉動 <{filename}what-the-Buddha-taught-chap7%zh.rst#了了分明於你的每一舉動>`_ —— `活在當下 <{filename}what-the-Buddha-taught-chap7%zh.rst#活在當下>`_ —— `受念住 <{filename}what-the-Buddha-taught-chap7%zh.rst#受念住>`_ —— `心念住 <{filename}what-the-Buddha-taught-chap7%zh.rst#心念住>`_ —— `對於倫理、心靈與理性方面問題的修習（法念住） <{filename}what-the-Buddha-taught-chap7%zh.rst#對於倫理、心靈與理性方面問題的修習（法念住）>`_
+
+- `第八章  佛的教誡與今日世界 <{filename}what-the-Buddha-taught-chap8%zh.rst>`__ (Chapter VIII: What the Buddha taught and the World Today)
+
+  * `錯誤觀念 <{filename}what-the-Buddha-taught-chap8%zh.rst#錯誤觀念>`_ —— `佛教生活方式的八正道，是為了一切的人而設 <{filename}what-the-Buddha-taught-chap8%zh.rst#佛教生活方式的八正道，是為了一切的人而設>`_ —— `日常生活 <{filename}what-the-Buddha-taught-chap8%zh.rst#日常生活>`_ —— `家庭及社交生活 <{filename}what-the-Buddha-taught-chap8%zh.rst#家庭及社交生活>`_ —— `在家居士成功地遵行佛教而達到很高的精神境界 <{filename}what-the-Buddha-taught-chap8%zh.rst#在家居士成功地遵行佛教而達到很高的精神境界>`_ —— `如何成為佛教徒 <{filename}what-the-Buddha-taught-chap8%zh.rst#如何成為佛教徒>`_ —— `社會與經濟問題 <{filename}what-the-Buddha-taught-chap8%zh.rst#社會與經濟問題>`_ —— `貧窮是一切非義與罪行之源 <{filename}what-the-Buddha-taught-chap8%zh.rst#貧窮是一切非義與罪行之源>`_ —— `物質與精神發展 <{filename}what-the-Buddha-taught-chap8%zh.rst#物質與精神發展>`_ —— `在家居士有四種樂趣 <{filename}what-the-Buddha-taught-chap8%zh.rst#在家居士有四種樂趣>`_ —— `佛對於政治、戰爭與和平的主張 <{filename}what-the-Buddha-taught-chap8%zh.rst#佛對於政治、戰爭與和平的主張>`_ —— `非暴力 <{filename}what-the-Buddha-taught-chap8%zh.rst#非暴力>`_ —— `十王法（國王的十種職責）經 <{filename}what-the-Buddha-taught-chap8%zh.rst#十王法（國王的十種職責）經>`_ —— `佛陀的福音 <{filename}what-the-Buddha-taught-chap8%zh.rst#佛陀的福音>`_ —— `它（佛陀的主張）切實際嗎？ <{filename}what-the-Buddha-taught-chap8%zh.rst#它（佛陀的主張）切實際嗎？>`_ —— `阿輸迦王（天人所敬愛者）的例子 <{filename}what-the-Buddha-taught-chap8%zh.rst#阿輸迦王（天人所敬愛者）的例子>`_ —— `佛教的目標 <{filename}what-the-Buddha-taught-chap8%zh.rst#佛教的目標>`_
+
+- `佛典選譯 <{filename}what-the-Buddha-taught-selected-texts%zh.rst>`__
+
+  * `導言 <{filename}what-the-Buddha-taught-selected-texts%zh.rst#導言>`_
+
+  * `轉法輪經（初轉法輪經） <{filename}what-the-Buddha-taught-selected-texts%zh.rst#轉法輪經（初轉法輪經）>`__
+
+  * `燃燒經 <{filename}what-the-Buddha-taught-selected-texts%zh.rst#燃燒經>`__
+
+  * `慈經 <{filename}what-the-Buddha-taught-selected-texts%zh.rst#慈經>`__
+
+  * `吉祥經 <{filename}what-the-Buddha-taught-selected-texts%zh.rst#吉祥經>`__
+
+  * `一切漏經 <{filename}what-the-Buddha-taught-selected-texts%zh.rst#一切漏經>`__
+
+  * `布喻經 <{filename}what-the-Buddha-taught-selected-texts%zh.rst#布喻經>`__
+
+  * `念處經 <{filename}what-the-Buddha-taught-selected-texts%zh.rst#念處經>`__
+
+  * `教授尸伽羅經 <{filename}what-the-Buddha-taught-selected-texts%zh.rst#教授尸伽羅經>`__
+
+  * `法句經選輯 <{filename}what-the-Buddha-taught-selected-texts%zh.rst#法句經選輯>`__
+
+  * `佛陀最後的教誡 <{filename}what-the-Buddha-taught-selected-texts%zh.rst#佛陀最後的教誡>`__
+
+  * `經典參考資訊 <{filename}what-the-Buddha-taught-selected-texts%zh.rst#經典參考資訊>`__
 
 - `附錄  本書常見佛學名詞淺釋 <{filename}what-the-Buddha-taught-appendix-term%zh.rst>`_ 
 
@@ -467,6 +505,10 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
 .. list-table:: 佛陀的啟示（有聲書）
    :header-rows: 1
 
+   * - 序言
+     - 前言 （自序）
+     - 佛陀傳略
+
    * - 第一章  佛教的宗教態度
      - 第二章  四聖諦 (第一聖諦：苦諦)
      - `第三章  第二聖諦：集諦——苦之生起 <https://www.youtube.com/watch?v=MXlOtyBI5mU>`__
@@ -477,10 +519,10 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
 
    * - 第七章  修習：心智的培育
      - 第八章  佛的教誡與今日世界
-     - 
+     - 佛典選譯
 
 ..
-  12-24 rev. correct error of rst syntax 
+  12-24 rev. correct error of rst syntax & add content with detail
   12-23 add: tag--audiobook
     rev. old:
 
