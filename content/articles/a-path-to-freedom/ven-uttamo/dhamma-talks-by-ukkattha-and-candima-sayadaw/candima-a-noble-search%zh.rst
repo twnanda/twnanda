@@ -3,7 +3,7 @@ A Noble Search [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ===============================================================
 
 :date: 2022-02-13
-:modified: 2022-08-05
+:modified: 2022-12-28
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Noble Search (Dhamma Talks by Sayadaw U Candima)
@@ -492,7 +492,7 @@ When I was seeing the offender, and making this exclamation; “You are the offe
 
 This was entering the stream (sotāpatti magga). With the entrance of the path, I had the sense of satisfaction. This moving mind which wanted to contemplate for freedom was seeing by sati, and it couldn’t control the atta khandha (Khandha by itself is not atta, but the mind takes it as atta). The bhavaṅga was vibrating and peaceful like put down a burdened load, and becoming clear. The vibration of bhavaṅga meant in the whole round of existence was carrying this heavy load with wrong perception, wrong knowing, and wrong view to my khandha was fallen away. 
 
-(In this full talk, U Chandima was suing a lot of Pāḷi words of the suttas, and abhidhamma was unusual. It seems to me it came from his study of some of the suttas, and abhidhamma. According to him before, and during the practice he didn’t know anything about them even the vipassanā practice. Soon Loon Sayadaw’s Dhamma talks were always simple Burmese, and couldn’t use the Pāḷi word.)
+(In this full talk, U Chandima was using a lot of Pāḷi words of the suttas, and abhidhamma was unusual. It seems to me it came from his study of some of the suttas, and abhidhamma. According to him before, and during the practice he didn’t know anything about them even the vipassanā practice. Soon Loon Sayadaw’s Dhamma talks were always simple Burmese, and couldn’t use the Pāḷi word.)
 
 Carrying this burden in human life, I could not put it down forever. Now, this heavy load was successfully thrown over the cliff, and became light, and gave me the sense of satisfaction. It would never cling to this khandha as me, and mine again. The heavy burden fell away, and there was happiness. And the bhavaṅga was with vibrations—such as, vibrating with coolness, vibrating with coolness, etc. 
 
@@ -544,6 +544,7 @@ revised on 2022-08-05
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  12-28 rev. proofread by bhante, old: U Chandima was suing a lot of (on 12-14)
   08-05 rev. proofread by bhante
   07-20 rev. proofread by bhante
   07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)

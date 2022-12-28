@@ -3,7 +3,7 @@ Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandim
 =================================================================================
 
 :date: 2022-02-13
-:modified: 2022-08-05
+:modified: 2022-12-28
 :tags: Appendix, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Two Sides of A Coin, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
@@ -329,11 +329,11 @@ In the Bhaddekaratta Sutta (Majjhima Nikāya, Sutta No. 131) the Buddha taught a
 
 This is what every Buddhists should follow.
 
-Sabbe satta sukhi hontu!
+Sabbe sattā sukhitā hontu!
 
 ------
 
-revised on 2022-08-05
+revised on 2022-12-28
 
 ------
 
@@ -350,6 +350,7 @@ revised on 2022-08-05
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2022-12-28 rev. proofread by bhante, old: Sabbe satta sukhi hontu!
   08-05 add. Some Explanations On the Practice
   07-20 rev. proofread by bhante
   07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)

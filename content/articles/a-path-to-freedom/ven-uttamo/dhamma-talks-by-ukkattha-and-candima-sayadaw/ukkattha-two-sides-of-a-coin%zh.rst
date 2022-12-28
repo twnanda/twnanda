@@ -3,7 +3,7 @@ Two Sides of a Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha)
 ===========================================================
 
 :date: 2022-02-13
-:modified: 2022-07-12
+:modified: 2022-12-28
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Two Sides of A Coin
 :category: path of nirvana
 :summary: Two Sides of a Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha)
@@ -66,7 +66,7 @@ After three days had passed and a misfortune was fallen on him. Two crime inspec
 
 I answered him as “I don’t know anything” He said to me “If you don’t tell the truth you must die” My response was “This is up to you.”
 
-U Aung Tun was handcuffed from behind and bound with rope around the arms. They put him down with his back on a wooden platform which was six inches thick. His two legs were also bound with rope. Two men controlled him at the head and the other two at the legs. Inspector Hla Myint sat on U Aung Tun’s stomach. They covered his face with a wet cloth and pouring water on it. Water went into his mouth, and it was quite unbearable. It was also difficult to breathe under the water, making a wah-wah-wah sound. Because of his samādhi power, U Aung Tun could bear it. With the practice of insight by seeing anicca after the ending of it and became quite (it could be in the fruition state—phala). Hla Myint thought that I was in coma. I was not in coma, the water went in and the stomach rising up. When my stomach was full of water, Hla Myint with his buttocks pounded on my stomach four or five times and all the water came out from the mouth. If I was like I used to be, I went into a rage. This time I didn't get angry. I suffered because of my karmic debt, only this mental state. For a month they could not get any confession from him and sent him back to Naypyidaw. Hla Myint told Colonel Kyi Win “I think it was a mistake. We can’t get any information from him.” Inspector U Ko Ko Lay was dissatisfied with it and wanting to do the questioning again. Kyi Win asked me, “I heard that you were bad before.” I answered him that I was bad before and not now and practicing Dhamma. Colonel Kyi Win asked them to free me, but U Ko Ko Lay did not want to free me. So, he sent U Aung Tun to Kamayut Police Station and put him in a cell. He is being arranged to have him sent to a distant prison. The police officer of the Kamayut Police Station knew U Aung Tun and sent him to Rangoon Prison. After seven days passed, Colonel Kyi Win freed him from the prison. 
+U Aung Tun was handcuffed from behind and bound with rope around the arms. They put him down with his back on a wooden platform which was six inches thick. His two legs were also bound with rope. Two men controlled him at the head and the other two at the legs. Inspector Hla Myint sat on U Aung Tun’s stomach. They covered his face with a wet cloth and pouring water on it. Water went into his mouth, and it was quite unbearable. It was also difficult to breathe under the water, making a wah-wah-wah sound. Because of his samādhi power, U Aung Tun could bear it. With the practice of insight by seeing anicca after the ending of it and became quiet (it could be in the fruition state—phala). Hla Myint thought that I was in coma. I was not in coma, the water went in and the stomach rising up. When my stomach was full of water, Hla Myint with his buttocks pounded on my stomach four or five times and all the water came out from the mouth. If I was like I used to be, I went into a rage. This time I didn't get angry. I suffered because of my karmic debt, only this mental state. For a month they could not get any confession from him and sent him back to Naypyidaw. Hla Myint told Colonel Kyi Win “I think it was a mistake. We can’t get any information from him.” Inspector U Ko Ko Lay was dissatisfied with it and wanting to do the questioning again. Kyi Win asked me, “I heard that you were bad before.” I answered him that I was bad before and not now and practicing Dhamma. Colonel Kyi Win asked them to free me, but U Ko Ko Lay did not want to free me. So, he sent U Aung Tun to Kamayut Police Station and put him in a cell. He is being arranged to have him sent to a distant prison. The police officer of the Kamayut Police Station knew U Aung Tun and sent him to Rangoon Prison. After seven days passed, Colonel Kyi Win freed him from the prison. 
 
 As soon as U Aung Tun was free and going back to his village. He asked his family members (brothers and sisters) to build a Kuti for him, and he would do the practice. They build the kuti in the Hte-yo woods—the base has eight pillars and the floor has six planks, forming a square. U Aung Tun interpreted it as—eightfold paths, six elements and four noble truths. He made a determination; “I must realize Dhamma.” so he was practising hard without rising from his seat.
 
@@ -108,7 +108,7 @@ Note: In the following, three talks by Thae Inn Gu Sayadaw are included. The fir
 
 ------
 
-revised on 2022-07-12
+revised on 2022-12-28
 
 ------
 
@@ -123,5 +123,6 @@ revised on 2022-07-12
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2022-12-28 rev. proofread by bhante, old: after the ending of it and became quite (on 12-14)
   07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   2022-02-13 create rst
