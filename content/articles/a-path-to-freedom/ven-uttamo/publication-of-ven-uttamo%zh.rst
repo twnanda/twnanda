@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2022-08-26
+:modified: 2022-12-28
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -15,11 +15,11 @@ Publications of Bhikkhu Uttamo
 
 - `Protection with Blessing`_ -- Maṅgala Sutta
 
-- `Two Sides of A Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha)`_ 
+- `Two Sides of A Coin`_ (Dhamma Talks by Sayadaw U Ukkaṭṭha)
 
-- `A Noble Search (Dhamma Talks by Sayadaw U Candima`_
+- `A Noble Search`_ (Dhamma Talks by Sayadaw U Candima)
 
-dhamma-talks-by-ukkattha-and-candima-sayadaw
+------
 
 .. _Dhamma Talks by Mogok Sayadaw:
 
@@ -966,8 +966,10 @@ Protection with Blessing
 
 .. _Two Sides of A Coin:
 
-Two Sides of A Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Two Sides of A Coin
+~~~~~~~~~~~~~~~~~~~~~~
+
+ (Dhamma Talks by Sayadaw U Ukkaṭṭha)
 
 - `Introduction <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/introduction-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`__ to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
 
@@ -989,8 +991,10 @@ Two Sides of A Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha)
 
 .. _A Noble Search:
 
-A Noble Search (Dhamma Talks by Sayadaw U Candima
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A Noble Search
+~~~~~~~~~~~~~~~~~
+
+ (Dhamma Talks by Sayadaw U Candima)
 
 - `Introduction <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/introduction-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`__ to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
 
@@ -1010,11 +1014,13 @@ A Noble Search (Dhamma Talks by Sayadaw U Candima
 
 - `Bhavaṅga Meditation <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-bhavanga-meditation%zh.rst>`_
 
-- `After Samādhi, Develop Vipassanā <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-after-samadhi-develop-vipassana%zh.rst>`_  (add on 2022-07-21)
+- `After Samādhi, Develop Vipassanā <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-after-samadhi-develop-vipassana%zh.rst>`_ 
 
 - `A Postscript of <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/postscript-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`__ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
 
 - `Appendix <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima 
+
+- Appendix 2 of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima-- Right Samadhi and Insight in Sayadaw U Ukkaṭṭha's Teaching
 
 ------
 
@@ -1029,6 +1035,7 @@ These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bo
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  12-28 add: - Appendix 2 of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima-- Right Samadhi and Insight in Sayadaw U Ukkaṭṭha's Teaching (title only, texts not yet,  on 12-14) ; del: extra dhamma-talks-by-ukkattha-and-candima-sayadaw above Dhamma Talks by Mogok Sayadaw
   08-26 add: Chinese traslation (experimental)
   08-10 rev. full-text and cover of Bound volume of "Two Sides of A Coin" and "A Noble Search"
   07-21 add: After Samādhi, Develop Vipassanā
