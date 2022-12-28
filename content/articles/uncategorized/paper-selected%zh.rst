@@ -124,7 +124,7 @@
 
 - `Eighteen Days In Solitude <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#eighteen-days-in-solitude>`_ --Instructional Dhamma Talks in Retreat, By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo thera** （18天禪修營，尊者　 **阿締佳嵐溪長老** 開示錄；由　尊者　 **鄔達摩長老** 　自緬甸語錄音帶譯為 **英文** ）
 
-- `Two Sides of A Coin <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#two-sides-of-a-coin-dhamma-talks-by-sayadaw-u-ukkattha>`_ (Dhamma Talks by Sayadaw U Ukkaṭṭha) and `A Noble Search <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#a-noble-search-dhamma-talks-by-sayadaw-u-candima>`_ [Dhamma Talks by Sayadaw U Candima (or Sandima)] --  These two books are combined and bound in one volume; The translator: **Ven. Uttamo thera** （銅板的兩面，尊者 **帖因古西亞多** 開示錄；神聖的追尋， **強諦瑪西亞多** 開示錄；由　尊者　 **鄔達摩長老** 　自緬甸語錄音帶譯為 **英文** ）
+- `Two Sides of A Coin <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#Two Sides of A Coin>`_ (Dhamma Talks by Sayadaw U Ukkaṭṭha) and `A Noble Search <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#A Noble Search>`_ [Dhamma Talks by Sayadaw U Candima (or Sandima)] --  These two books are combined and bound in one volume; The translator: **Ven. Uttamo thera** （銅板的兩面，尊者 **帖因古西亞多** 開示錄；神聖的追尋， **強諦瑪西亞多** 開示錄；由　尊者　 **鄔達摩長老** 　自緬甸語錄音帶譯為 **英文** ）
 
 ----
 
