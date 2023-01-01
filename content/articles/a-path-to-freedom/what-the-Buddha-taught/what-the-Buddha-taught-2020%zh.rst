@@ -3,7 +3,7 @@
 =================================================
 
 :date: 2019-02-06
-:modified: 2022-12-24
+:modified: 2023-01-01
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, Nanda 編譯
 :tags: 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛法, 佛陀說的法, 瓦爾朴拉羅睺羅, 鄭於中, 戴密微
 :category: 解脫之道
@@ -505,23 +505,33 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
 .. list-table:: 佛陀的啟示（有聲書）
    :header-rows: 1
 
-   * - 序言
-     - 前言 （自序）
-     - 佛陀傳略
+   * - 序言 （`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-forward.mp3>`__ , Youtube）
+     - 前言 （自序）（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-preface.mp3>`__ , Youtube）
+     - 佛陀傳略（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-the-Buddha.mp3>`__ , Youtube）
 
-   * - 第一章  佛教的宗教態度
-     - 第二章  四聖諦 (第一聖諦：苦諦)
-     - `第三章  第二聖諦：集諦——苦之生起 <https://www.youtube.com/watch?v=MXlOtyBI5mU>`__
+   * - 第一章  佛教的宗教態度（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap1.mp3>`__ , Youtube）
+     - 第二章  四聖諦 (第一聖諦：苦諦)（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap2.mp3>`__ , Youtube）
+     - `第三章  第二聖諦：集諦——苦之生起 （`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap3.mp3>`__ , Youtube）<https://www.youtube.com/watch?v=MXlOtyBI5mU>`__
 
-   * - `第四章  第三聖諦：滅諦 <https://www.youtube.com/watch?v=bbi71Yj5Zvw>`__ (苦的止息)
-     - 第五章  第四聖諦：道諦 
-     - 第六章  無我論
+   * - `第四章  第三聖諦：滅諦 （`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap4.mp3>`__ , Youtube）<https://www.youtube.com/watch?v=bbi71Yj5Zvw>`__ (苦的止息)
+     - 第五章  第四聖諦：道諦 （`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap5.mp3>`__ , Youtube）
+     - 第六章  無我論（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap6.mp3>`__ , Youtube）
 
-   * - 第七章  修習：心智的培育
-     - 第八章  佛的教誡與今日世界
-     - 佛典選譯
+   * - 第七章  修習：心智的培育（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap7.mp3>`__ , Youtube）
+     - 第八章  佛的教誡與今日世界（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap8.mp3>`__ , Youtube）
+     - 佛典選譯（`MP3 <https://drive.google.com/file/d/13bim_jGx8nwpBguVU098UibXnTnYFh3d/view?usp=sharing>`__ , Youtube）
+
+   * - `附錄  本書常見佛學名詞淺釋 （`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-appendix-term.mp3>`__ , Youtube）
+     - 
+     - 
+
+------
+
+※※※ 建議初機學佛的讀者們：首先閱讀 `第一章 <{filename}what-the-Buddha-taught-chap1%zh.rst>`__ ，接著閱讀 `第五 <{filename}what-the-Buddha-taught-chap5%zh.rst>`__ 、 `七 <{filename}what-the-Buddha-taught-chap7%zh.rst>`__ 、 `八章 <{filename}what-the-Buddha-taught-chap8%zh.rst>`__ ；當基本概念較清楚與鮮明時，再回過頭來讀 `第二 <{filename}what-the-Buddha-taught-chap2%zh.rst>`__ 、 `三 <{filename}what-the-Buddha-taught-chap3%zh.rst>`__ 、 `四 <{filename}what-the-Buddha-taught-chap4%zh.rst>`__ 、 `六章 <{filename}what-the-Buddha-taught-chap6%zh.rst>`__ 。 〔取材自：原作者之 `前言 <{filename}what-the-Buddha-taught-preface%zh.rst>`__ （自序）〕
 
 ..
+  2023-01-01 add: mp3
+
   12-24 rev. correct error of rst syntax & add content with detail
   12-23 add: tag--audiobook
     rev. old:
@@ -537,6 +547,7 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
      - 
 
   2022-12-22 add: linking of 有聲書@youtube
+
   09-07 rev: date of full text 
   09-04 add: 化普樂羅睺羅大長老; 日本語版(日本語訳); 台灣各地圖書館藏; rev: total page number on copyright page
   09-03 rev: 2021-09-02 修訂（順便更改版面） 
@@ -547,14 +558,15 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
   04-25 rev. 補增編譯, old: 增訂編譯; 戴密微, old: 戴密否, 譚米華利 (proofread by Ken Su); add: 蘇錦坤 Ken Su & 整部列印檔獨立列表
   04-23 add: 整部列印檔
   02-12 add: 整部： HTML (2021-02-12); 02-24 add: Siong-Ui Te; 佛典選譯（old: 刪除簡易註解版）
-  2021-01-25 add: Dr. ML Lai 榮退典禮 影片連結
+  01-25 add: Dr. ML Lai 榮退典禮 影片連結
   2021-01-01 add: Academia.edu; move the link of Dr. Lai to the bottom
+
   08-28 add: 韓文版
   08-26 add: 尊者　明法比丘
   08-23 redirect (add independent subdirectory:what-the-Buddha-taught); add:註解：第二章 四聖諦(till note 09)
   《佛法》 https://www.getit01.com/p201807223974060/ (alive on 2020-08-23)
-
   2020-07-23 rev. 英文版(English):  PDF(Revised edition): 改為條列式
+
   02-11 rev. correct linking of 莊博士; add: 迴向文
   2019-02-06 finished & post
   2019-01-25 賴明亮教授捨報。draft 12-05; http://bbc029.web3.ncku.edu.tw/p/412-1131-17517.php?Lang=zh-tw 連結失效
