@@ -21,7 +21,7 @@
 
 - 參考資料_
 
-- 有聲書_ （＠Youtube）
+- 有聲書_ （MP3 & ＠Youtube）
 
 ------
 
@@ -505,23 +505,23 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
 .. list-table:: 佛陀的啟示（有聲書）
    :header-rows: 1
 
-   * - 序言 （`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-forward.mp3>`__ , Youtube）
-     - 前言 （自序）（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-preface.mp3>`__ , Youtube）
-     - 佛陀傳略（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-the-Buddha.mp3>`__ , Youtube）
+   * - 序言 （`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-forward.mp3>`__ , Youtube, 5'20"）
+     - 前言 （自序）（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-preface.mp3>`__ , Youtube, 5'36"）
+     - 佛陀傳略（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-the-Buddha.mp3>`__ , Youtube, 3'07"）
 
-   * - 第一章  佛教的宗教態度（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap1.mp3>`__ , Youtube）
-     - 第二章  四聖諦 (第一聖諦：苦諦)（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap2.mp3>`__ , Youtube）
-     - `第三章  第二聖諦：集諦——苦之生起 （`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap3.mp3>`__ , Youtube）<https://www.youtube.com/watch?v=MXlOtyBI5mU>`__
+   * - 第一章  佛教的宗教態度（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap1.mp3>`__ , Youtube, 3'26"）
+     - 第二章  四聖諦 (第一聖諦：苦諦)（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap2.mp3>`__ , Youtube, 31'18"）
+     - 第三章  第二聖諦：集諦——苦之生起 （`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap3.mp3>`__ , `Youtube <https://www.youtube.com/watch?v=MXlOtyBI5mU>`__ , 13'37"）
 
-   * - `第四章  第三聖諦：滅諦 （`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap4.mp3>`__ , Youtube）<https://www.youtube.com/watch?v=bbi71Yj5Zvw>`__ (苦的止息)
-     - 第五章  第四聖諦：道諦 （`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap5.mp3>`__ , Youtube）
-     - 第六章  無我論（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap6.mp3>`__ , Youtube）
+   * - 第四章  第三聖諦：滅諦 （`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap4.mp3>`__ , `Youtube <https://www.youtube.com/watch?v=bbi71Yj5Zvw>`__ , 22'19"）(苦的止息)
+     - 第五章  第四聖諦：道諦 （`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap5.mp3>`__ , Youtube, 14'05"）
+     - 第六章  無我論（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap6.mp3>`__ , Youtube, 37'22"）
 
-   * - 第七章  修習：心智的培育（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap7.mp3>`__ , Youtube）
-     - 第八章  佛的教誡與今日世界（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap8.mp3>`__ , Youtube）
-     - 佛典選譯（`MP3 <https://drive.google.com/file/d/13bim_jGx8nwpBguVU098UibXnTnYFh3d/view?usp=sharing>`__ , Youtube）
+   * - 第七章  修習：心智的培育（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap7.mp3>`__ , Youtube, 24'57"）
+     - 第八章  佛的教誡與今日世界（`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-chap8.mp3>`__ , Youtube, 34'42"）
+     - 佛典選譯（`MP3 <https://drive.google.com/file/d/13bim_jGx8nwpBguVU098UibXnTnYFh3d/view?usp=sharing>`__ , Youtube, 1:58:55）
 
-   * - `附錄  本書常見佛學名詞淺釋 （`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-appendix-term.mp3>`__ , Youtube）
+   * - `附錄  本書常見佛學名詞淺釋 （`MP3 <{static}/extra/authors/walpola-rahula/what-the-Buddha-taught-4-audiobook-appendix-term.mp3>`__ , Youtube, 4'43"）
      - 
      - 
 
@@ -530,7 +530,7 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
 ※※※ 建議初機學佛的讀者們：首先閱讀 `第一章 <{filename}what-the-Buddha-taught-chap1%zh.rst>`__ ，接著閱讀 `第五 <{filename}what-the-Buddha-taught-chap5%zh.rst>`__ 、 `七 <{filename}what-the-Buddha-taught-chap7%zh.rst>`__ 、 `八章 <{filename}what-the-Buddha-taught-chap8%zh.rst>`__ ；當基本概念較清楚與鮮明時，再回過頭來讀 `第二 <{filename}what-the-Buddha-taught-chap2%zh.rst>`__ 、 `三 <{filename}what-the-Buddha-taught-chap3%zh.rst>`__ 、 `四 <{filename}what-the-Buddha-taught-chap4%zh.rst>`__ 、 `六章 <{filename}what-the-Buddha-taught-chap6%zh.rst>`__ 。 〔取材自：原作者之 `前言 <{filename}what-the-Buddha-taught-preface%zh.rst>`__ （自序）〕
 
 ..
-  2023-01-01 add: mp3
+  2023-01-01 add: mp3, 時間長短
 
   12-24 rev. correct error of rst syntax & add content with detail
   12-23 add: tag--audiobook
