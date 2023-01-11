@@ -3,7 +3,7 @@
 -----------------------------------------------------
 
 :date: 2004-08-24
-:modified: 2016-11-14 20:30
+:modified: 2023-01-12
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16.html
 :tags: 巴利三藏長部, 大般涅槃經, 南傳大般涅槃經, 大般湼槃經, 般涅槃大經, D16 Mahāparinibbānasuttaṃ, D16, Mahāparinibbānasuttaṃ, DN 16, Dn16, dn16, dn 16
 :category: 巴利三藏長部
@@ -223,7 +223,7 @@
 
 .. [22] 節錄自：《普門學報》第48期：二十世紀佛教文選‧比丘尼篇，頁 261~273，November, 2008.11.01，佛光山‧普門學報社 出版，ISSN 1609-476X（33.南北傳涅槃經之比較……恆　清）；原始出處:《覺世》第719期，1977年7月，頁282~300。 ]
  
-        收錄於《南傳大藏經解題》，世界佛學名著譯叢，第24冊，（台北：華宇出版社，1984年），頁282-300 （若連結失效，可嘗試 `這裡 <https://drive.google.com/open?id=0B-WGqLRmkmMpQTVKVlNuTTA0cjA>`__ ）
+        收錄於《南傳大藏經解題》，世界佛學名著譯叢，第24冊，（台北：華宇出版社，1984年），頁282-300 （若連結失效，可嘗試 `這裡 <https://drive.google.com/file/d/0B-WGqLRmkmMpQTVKVlNuTTA0cjA/view?usp=sharing&resourcekey=0-hiaFHETvioRKYk6gmtD1Xw>`__ ）
 
 .. inconvenient to access, so 
 
@@ -238,7 +238,9 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
-  11.14 add: 英譯-- extra\tipitaka\sutta\digha\aanandajoti; dn16-than%zh.rst, dn16-vaji%zh.rst, dn16-pts%zh.rst, dn16-cscd%zh.rst, dn16-chuangcj%zh.rst; 通妙譯，臺灣元亨寺版; 上座部佛教百科 -- http://wiki.sutta.org; link of 長阿含遊行經；心魁居士〈蕭興勝〉白話語意譯述; ver. memo;
+  2023-01-12 rev. move to directory of open-passive, old: https://drive.google.com/open?id=0B-WGqLRmkmMpQTVKVlNuTTA0cjA
+
+  11.14 20:30 add: 英譯-- extra\tipitaka\sutta\digha\aanandajoti; dn16-than%zh.rst, dn16-vaji%zh.rst, dn16-pts%zh.rst, dn16-cscd%zh.rst, dn16-chuangcj%zh.rst; 通妙譯，臺灣元亨寺版; 上座部佛教百科 -- http://wiki.sutta.org; link of 長阿含遊行經；心魁居士〈蕭興勝〉白話語意譯述; ver. memo;
         rev. link of Ven. Ānandajoti Bhikkhu @ dhammatalks
              .. old original: `The Discourse about the Great Emancipation (DN 16) <http://www.dhammatalks.net/ancient_buddhist_texts/Texts-and-ranslations/Mahaparinibbanasuttam/index.htm>`__ ( `Dhamma Talks <http://www.dhammatalks.net/>`__ (((((0))))) Attaining PEACE with KNOWING & SEEING a Handful of Leaves))  
              & http://www.dhammatalks.net/ancient_buddhist_texts/Texts-and-Translations/Mahaparinibbanasuttam/index.htm
