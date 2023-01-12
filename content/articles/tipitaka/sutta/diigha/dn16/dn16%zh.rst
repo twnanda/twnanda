@@ -238,7 +238,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
-  2023-01-12 rev. move to directory of open-passive, old: https://drive.google.com/open?id=0B-WGqLRmkmMpQTVKVlNuTTA0cjA
+  2023-01-12 rev. move to directory of open-passive, old: https://drive.google.com/open?id=0B-WGqLRmkmMpQTVKVlNuTTA0cjA ; re-deploy at 3:39 pm
 
   11.14 20:30 add: 英譯-- extra\tipitaka\sutta\digha\aanandajoti; dn16-than%zh.rst, dn16-vaji%zh.rst, dn16-pts%zh.rst, dn16-cscd%zh.rst, dn16-chuangcj%zh.rst; 通妙譯，臺灣元亨寺版; 上座部佛教百科 -- http://wiki.sutta.org; link of 長阿含遊行經；心魁居士〈蕭興勝〉白話語意譯述; ver. memo;
         rev. link of Ven. Ānandajoti Bhikkhu @ dhammatalks
