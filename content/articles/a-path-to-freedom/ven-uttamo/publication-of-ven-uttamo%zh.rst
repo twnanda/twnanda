@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2022-12-28
+:modified: 2023-04-18
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -780,27 +780,88 @@ the translator : Bhikkhu Uttamo (鄔達摩  比丘）
    :widths: 25 25 25 25
    :header-rows: 1
 
-   * - `introduction <{filename}eighteen-days-in-solitude/eighteen-days-in-solitude-introduction%zh.rst>`__ 
-     - `Day 01: 17th October, 2002 <{filename}eighteen-days-in-solitude/day01-2002-10-17%zh.rst>`_
-     - `Day 02: 18th October, 2002 <{filename}eighteen-days-in-solitude/day02-2002-10-18%zh.rst>`_
-     - `Day 03: 19th October, 2002 <{filename}eighteen-days-in-solitude/day03-2002-10-19%zh.rst>`_
-   * - `Day 04: 20th October, 2002 <{filename}eighteen-days-in-solitude/day04-2002-10-20%zh.rst>`_
-     - `Day 05: 21st October, 2002 <{filename}eighteen-days-in-solitude/day05-2002-10-21%zh.rst>`_
-     - `Day 06: 22nd October, 2002 <{filename}eighteen-days-in-solitude/day06-2002-10-22%zh.rst>`_
-     - `Day 07: 23rd October, 2002 <{filename}eighteen-days-in-solitude/day07-2002-10-23%zh.rst>`_
-   * - `Day 08: 24th October, 2002 <{filename}eighteen-days-in-solitude/day08-2002-10-24%zh.rst>`_
-     - `Day 09: 25th October, 2002 <{filename}eighteen-days-in-solitude/day09-2002-10-25%zh.rst>`_
-     - `Day 10: 26th October, 2002 <{filename}eighteen-days-in-solitude/day10-2002-10-26%zh.rst>`_
-     - `Day 11: 27th October, 2002 <{filename}eighteen-days-in-solitude/day11-2002-10-27%zh.rst>`_
-   * - `Day 12: 28th October, 2002 <{filename}eighteen-days-in-solitude/day12-2002-10-28%zh.rst>`_
-     - `Day 13: 29th October, 2002 <{filename}eighteen-days-in-solitude/day13-2002-10-29%zh.rst>`_
-     - `Day 14: 30th October, 2002 <{filename}eighteen-days-in-solitude/day14-2002-10-30%zh.rst>`_
-     - `Day 15: 31st October, 2002 <{filename}eighteen-days-in-solitude/day15-2002-10-31%zh.rst>`_
-   * - `Day 16: 1st November, 2002 <{filename}eighteen-days-in-solitude/day16-2002-11-01%zh.rst>`_
-     - `Day 17: 2nd November, 2002 <{filename}eighteen-days-in-solitude/day17-2002-11-02%zh.rst>`_
-     - `Day 18: 3rd November, 2002 <{filename}eighteen-days-in-solitude/day18-2002-11-03%zh.rst>`_
-     - `About the translator <{filename}eighteen-days-in-solitude/eighteen-days-in-solitude-about-the-translator%zh.rst>`__
+   * - | `introduction <{filename}eighteen-days-in-solitude/eighteen-days-in-solitude-introduction%zh.rst>`__ 
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-introduction.mp3>`__ 18'48", `Youtube <https://www.youtube.com/watch?v=aoV6CJu5bgI&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn>`__
+       | 
 
+     - | `Day 01: 17th October, 2002 <{filename}eighteen-days-in-solitude/day01-2002-10-17%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day01-2002-10-17.mp3>`__ 15'01", `Youtube <https://www.youtube.com/watch?v=vBKFgddQmfI&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=2>`__ )
+       | 
+
+     - | `Day 02: 18th October, 2002 <{filename}eighteen-days-in-solitude/day02-2002-10-18%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day02-2002-10-18.mp3>`__ 14'26", `Youtube <https://www.youtube.com/watch?v=gTNcrUPlKUs&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=3>`__ )
+       | 
+
+     - | `Day 03: 19th October, 2002 <{filename}eighteen-days-in-solitude/day03-2002-10-19%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day03-2002-10-19.mp3>`__ 13'14", `Youtube <https://www.youtube.com/watch?v=gTNcrUPlKUs&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=4>`__ )
+       | 
+
+   * - | `Day 04: 20th October, 2002 <{filename}eighteen-days-in-solitude/day04-2002-10-20%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day04-2002-10-20.mp3>`__ 12'45", `Youtube <https://www.youtube.com/watch?v=rsmp11a6XRQ&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=5>`__ )
+       | 
+
+     - | `Day 05: 21st October, 2002 <{filename}eighteen-days-in-solitude/day05-2002-10-21%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day05-2002-10-21.mp3>`__ 12'54", `Youtube <https://www.youtube.com/watch?v=rsmp11a6XRQ&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=6>`__ )
+       | 
+
+     - | `Day 06: 22nd October, 2002 <{filename}eighteen-days-in-solitude/day06-2002-10-22%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day06-2002-10-22.mp3>`__ 12'44", `Youtube <https://www.youtube.com/watch?v=rsmp11a6XRQ&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=7>`__ )
+       | 
+
+     - | `Day 07: 23rd October, 2002 <{filename}eighteen-days-in-solitude/day07-2002-10-23%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day07-2002-10-23.mp3>`__ 9'33", `Youtube <https://www.youtube.com/watch?v=rsmp11a6XRQ&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=8>`__ )
+       | 
+
+   * - | `Day 08: 24th October, 2002 <{filename}eighteen-days-in-solitude/day08-2002-10-24%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day08-2002-10-24.mp3>`__ 13'23", `Youtube <https://www.youtube.com/watch?v=rsmp11a6XRQ&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=9>`__ )
+       | 
+
+     - | `Day 09: 25th October, 2002 <{filename}eighteen-days-in-solitude/day09-2002-10-25%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day09-2002-10-25.mp3>`__ 12'55", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=10>`__ )
+       | 
+
+     - | `Day 10: 26th October, 2002 <{filename}eighteen-days-in-solitude/day10-2002-10-26%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day10-2002-10-26.mp3>`__ 14'13", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=11>`__ )
+       | 
+
+     - | `Day 11: 27th October, 2002 <{filename}eighteen-days-in-solitude/day11-2002-10-27%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day11-2002-10-27.mp3>`__ 11'49", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=12>`__ )
+       | 
+
+   * - | `Day 12: 28th October, 2002 <{filename}eighteen-days-in-solitude/day12-2002-10-28%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day12-2002-10-28.mp3>`__ 15'38", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=13>`__ )
+       | 
+
+     - | `Day 13: 29th October, 2002 <{filename}eighteen-days-in-solitude/day13-2002-10-29%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day13-2002-10-29.mp3>`__ 13'48", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=14>`__ )
+       | 
+
+     - | `Day 14: 30th October, 2002 <{filename}eighteen-days-in-solitude/day14-2002-10-30%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day14-2002-10-30.mp3>`__ 11'51", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=15>`__ )
+       | 
+
+     - | `Day 15: 31st October, 2002 <{filename}eighteen-days-in-solitude/day15-2002-10-31%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day15-2002-10-31.mp3>`__ 10'44", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=16>`__ )
+       | 
+
+   * - | `Day 16: 1st November, 2002 <{filename}eighteen-days-in-solitude/day16-2002-11-01%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day16-2002-11-01.mp3>`__ 15'06", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=17>`__ )
+       | 
+
+     - | `Day 17: 2nd November, 2002 <{filename}eighteen-days-in-solitude/day17-2002-11-02%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day17-2002-11-02.mp3>`__ 20'22", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=18>`__ )
+       | 
+
+     - | `Day 18: 3rd November, 2002 <{filename}eighteen-days-in-solitude/day18-2002-11-03%zh.rst>`_
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day18-2002-11-03.mp3>`__ 17'54", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=19>`__ )
+       | 
+
+     - | `About the translator <{filename}eighteen-days-in-solitude/eighteen-days-in-solitude-about-the-translator%zh.rst>`__
+       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-about-the-translator.mp3>`__ 1'09", `Youtube <https://www.youtube.com/watch?v=cekfluyXGzY&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=20>`__ )
+       | 
+
+- `another channel <https://www.youtube.com/watch?v=Hi5kF-4-e9Q&list=PLbDOrDpAQzSah30ukOqLdZjXAovHNBZ1Z&index=1>`__ @ youtube
+        
 ------
 
 - full text: 
@@ -1035,6 +1096,7 @@ These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bo
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-04-18 add: audio (MP3 & Youtube, including citta channel) of 18 days
   12-28 add: - Appendix 2 of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima-- Right Samadhi and Insight in Sayadaw U Ukkaṭṭha's Teaching (title only, texts not yet,  on 12-14) ; del: extra dhamma-talks-by-ukkattha-and-candima-sayadaw above Dhamma Talks by Mogok Sayadaw
   08-26 add: Chinese traslation (experimental)
   08-10 rev. full-text and cover of Bound volume of "Two Sides of A Coin" and "A Noble Search"
