@@ -3,7 +3,7 @@ Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
 ===============================================================================
 
 :date: 2019-11-13
-:modified: 2023-04-18
+:modified: 2023-05-05
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Bhikkhu Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
@@ -22,7 +22,11 @@ By **Venerable U Ādiccaramsī** ; The translator: **Bhikkhu Uttamo**
 
 -----
 
-- `Introduction <{filename}eighteen-days-in-solitude-introduction%zh.rst>`_ (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-introduction.mp3>`__ 18'48", `Youtube <https://www.youtube.com/watch?v=aoV6CJu5bgI&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn>`__ ; `another channel <https://www.youtube.com/watch?v=Hi5kF-4-e9Q&list=PLbDOrDpAQzSah30ukOqLdZjXAovHNBZ1Z&index=1>`__ @ youtube)
+- `Introduction <{filename}eighteen-days-in-solitude-introduction%zh.rst>`_ (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-introduction.mp3>`__ 18'48", `Youtube <https://www.youtube.com/watch?v=aoV6CJu5bgI&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn>`__ ); 
+
+  * download `all the MP3 files  <https://github.com/twnanda/twnanda.github.io/tree/master/extra/authors/bhante-uttamo/audiobook/18days>`__ of this book; 
+  * `list of this book on Youtube <https://www.youtube.com/playlist?list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn>`__ ; 
+  * `another channel <https://www.youtube.com/watch?v=Hi5kF-4-e9Q&list=PLbDOrDpAQzSah30ukOqLdZjXAovHNBZ1Z&index=1>`__ @ youtube
 
 - `Day 1 <{filename}day01-2002-10-17%zh.rst>`_ : 17th October, 2002 (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day01-2002-10-17.mp3>`__ 15'01", `Youtube <https://www.youtube.com/watch?v=vBKFgddQmfI&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=2>`__ )
 
@@ -85,6 +89,7 @@ By **Venerable U Ādiccaramsī** ; The translator: **Bhikkhu Uttamo**
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  05-05 add linkings of all the MP3 files & Youtube
   2023-04-18 add: audio (MP3 & Youtube, including citta channel)
   10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
   07-29 rev: full text & print
