@@ -3,7 +3,7 @@ Pain and Samādhi [Dhamma Talks by Sayadaw U Candima (Sandima)]
 =================================================================
 
 :date: 2022-02-13
-:modified: 2022-07-12
+:modified: 2023-06-08
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Pain and Samādhi (Dhamma Talks by Sayadaw U Candima)
@@ -64,7 +64,7 @@ Do the body have pain and happiness? It does have afflictions. Pain and happines
 
 We ask yogis to sit for two hours, then they say Thaw Inn monk is rough. When you sit—is there any beating with a stick? Pain arises by itself—is it because of me? If they give you anesthetic—are you still in pain? Pain arises in the mind, and if you accuse the body, will it be true?
 
-When the body disturbed or afflicted, if the mind suffers and keep it at the tip of the nostril. Does it stay where you keep it? (Other methods also in the same way) What is pulling it down and not letting it there? You have to think about it. In practicing Dhamma don’t do it blindly. Is it possible there is no cause to pull it down? You pull it up there (at the nostril), and the other pulls it down (at the pain). So there are two phenomena that arise here. In this way, the nature of the practice appear to us. 
+When the body disturbed or afflicted, if the mind suffers and keep it at the tip of the nostril. Does it stay where you keep it? (Other methods also in the same way) What is pulling it down and not letting it there? You have to think about it. In practicing Dhamma don’t do it blindly. Is it possible there is no cause to pull it down? You pull it up there (at the nostril), and the other pulls it down (at the pain). So there are two phenomena that arise here. In this way, the nature of the practice appears to us. 
 
 It’s not possible to practice randomly. The teacher also can’t teach people his ideas. Between the pulling up force and the pulling down force, the mind follows behind the stronger force. Saddhā—faith or conviction makes one decide that with this meditation system and following the teaching and practice; one can get rid of the dying dhamma. Could you be free from it (i.e., death) if you follow in accordance with the pulling down dhamma? You have to keep it up with the five strengths (i.e., with spiritual faculties). 
 
@@ -151,6 +151,7 @@ revised on 2022-07-12
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-06-08 rev. proofread by bhante
   07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
   2022-02-13 create rst

@@ -3,7 +3,7 @@ A Noble Search [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ===============================================================
 
 :date: 2022-02-13
-:modified: 2022-12-28
+:modified: 2023-06-08
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Noble Search (Dhamma Talks by Sayadaw U Candima)
@@ -172,7 +172,7 @@ I arrived at The-inn Gu, and on 12th of Na-yone (i.e., roughly in June), and I s
 
 Sometimes with good jhāna it was freed from vedanā (Here the language Sayadaw used did not represent the exact meaning. Good jhāna was not the real abortion state, but represented strong samādhi. We can never be free from feeling, one type of three feelings always exists as one of the five khandhas. Freed from vedanā meant I could bear it.) Sometimes it fell back on vedanā (i.e., vedanā pulling the mind down to its place). 
 
-What did Sayadawgyi say about it? (i.e., referred to The-inn Gu U Ukkaṭṭha). He taught: “Hot, stiffness, tightness are vedanā, numbness is vedanā, to vedanā noting it as vedanā” (from Sayadaw’s U Ukkatha’s talk). I had to note them as vedanā, but I didn’t know about it. I had listened to other talks also, and didn’t know anything about them. Likewise, I did not know about insight practice (vipassanā). 
+What did Sayadawgyi say about it? (i.e., referred to The-inn Gu U Ukkaṭṭha). He taught: “Hot, stiffness, tightness are vedanā, numbness is vedanā, to vedanā noting it as vedanā” (from Sayadaw U Ukkatha’s talk). I had to note them as vedanā, but I didn’t know about it. I had listened to other talks also, and didn’t know anything about them. Likewise, I did not know about insight practice (vipassanā). 
 
 (Here we know about the importance of study (pariyat or ñāta pariññā). U Chandima didn’t have a good teacher to guide him. He had the chance to study with his great uncle monk who was teaching the Mogok System, but it seemed he had not learnt anything from him when he was in high school. I want to say here the importance of Mogok Sayadaw’s Dhamma talks in practice. It not only helps us to develop wisdom faculties also directs us to the clear direction on the practice).
 
@@ -242,7 +242,7 @@ If Sayadawgyi did not mention, I could take pleasure in visions, and hearings (i
 
 Here we can see U Chandima’s wisdom character. He easily gave up on them. His search was not these unstable things—a noble search, which was Nibbāna. Nothing is worthy of clinging.]
 
-Which one was Dhamma? (I was in the state of looking for the Dhamma, and still not found it yet. Arahants could separate many bodies. Could it be that the Dhamma is able to separate the body? I was separating the mind from the body. I attained them by creation. In sitting, a body was separated out in a blip, and it went away from me with each step. (This kind of experience is confusing, and misunderstanding people as a soul goes out from a body. Not only scientists believe it, even Buddhist monks. Some Mahayanist interpret it as a soul by seeing someone in a hypnotic state have this kind of experience.)
+Which one was Dhamma? (I was in the state of looking for the Dhamma, and still not found it yet. Arahants could separate many bodies. Could it be that the Dhamma is able to separate the body? I was separating the mind from the body. I attained them by creation. In sitting, a body was separated out in a blip, and it went away from me with each step. (This kind of experience is confusing, and misunderstanding people as a soul goes out from a body. Not only scientists believe it, even Buddhist monks. Some Mahāyanist interpret it as a soul by seeing someone in a hypnotic state have this kind of experience.)
 
 At that time I was thirsty for water. The mind of wanting to drink water arose, and I must go and drink water, but without getting up to drink it. With a lot of exercises, this body went out step by step slowly. This body opened the lid of the water pot, and held the cup, took the water inside and drank it. Ah! It cooled up my chest. This body (form) returned to the sitting place and ceased, the mind and the sitting body combined again.
 
@@ -254,7 +254,7 @@ My desire for Dhamma was very strong. A man who was hungry, and tired came back 
 
 I thought I could get the Dhamma with a normal eye, so I opened my eyes and looked at people in front of me (don’t forget he was in the center), then closed my eyes again, and thought about its form. Opening the eye again, and pulling the form towards me. After three or four days, the forms (human form) appeared in my mind as seeing like a normal eye. This was not only for the people in front of me, but also the people behind me. When with the mind spreading, it was on the whole object of the Dhammasāla (i.e., the whole meditation hall). I was seeing the entire Dhammasāla like a normal eye. I went down from the Dhammasāla staircase, and looked at all the streets and saw all of them. When looking at the full center compound (a large area), I saw all of them. And then I thought I was becoming an arahant now, and opening my eyes and looking at things—seeing nun, man, dog, etc. only knowing them as still as nun, man, dog, etc. the normal knowing was still there, and not disappeared. I was emotionally depressed because I thought I seemed unable to attain the Dhamma.
 
-[Here I want to do some reflection on the divine eye which is mentioned by U Chandima and other sources. In Sayadaw’s practice we know that he mentioned the divine eye two times with the light nimitta, and abhiññā—intuitive knowledge. In Burma there was a system called Kanni method which was taught by Kanni Sayadaw U Sobita (1880-1966), one of his disciples was Mye-zin Sayadaw U Sobita (now passed away). Kanni Sayadaw’s teacher was Lat-pan forest Sayadaw U Ādicca (we don’t know much about his life, and it seemed to be the contemporary of Ledi Sayadaw). Sayadaw U Ādicca learnt it from the Theravadin Tibetan monk Shila-tissa who passed away at Lat-pan forest. It seems to me Ledi Sayadaw also had tried this system before in his commentary on ānāpānasati Sutta can see some traces of this practice. One time Ledi Sayadaw in a retreat developed the divine eye—according to him, he was trying to spread the light nimitta to the whole universe, but it was too extensive that he could not retreat it back to him.
+[Here I want to do some reflections on the divine eye which is mentioned by U Chandima and other sources. In Sayadaw’s practice we know that he mentioned the divine eye two times with the light nimitta, and abhiññā—intuitive knowledge. In Burma there was a system called Kanni method which was taught by Kanni Sayadaw U Sobita (1880-1966), one of his disciples was Mye-zin Sayadaw U Sobita (now passed away). Kanni Sayadaw’s teacher was Lat-pan forest Sayadaw U Ādicca (we don’t know much about his life, and it seemed to be the contemporary of Ledi Sayadaw). Sayadaw U Ādicca learnt it from the Theravadin Tibetan monk Shila-tissa who passed away at Lat-pan forest. It seems to me Ledi Sayadaw also had tried this system before in his commentary on ānāpānasati Sutta can see some traces of this practice. One time Ledi Sayadaw in a retreat developed the divine eye—according to him, he was trying to spread the light nimitta to the whole universe, but it was too extensive that he could not retreat it back to him.
 
 The Kanni System is based on the ānāpānasati Sutta of the first four tetrads to develop samādhi with the light nimitta; it is not the same as in the commentary. They sit in meditation and closed their eyes with cloth that light nimitta easily to arise. So in the first step of the first tetrads, yogi even can have the light nimitta. As a 2nd step they use the light to send it short, and long distances by exercising it; as the 3rd step, send the light inside the body up and down accordingly, knowing the breath in the beginning, in the middle, and in the end (the full breath). Later send it outwardly. When the practice is mature, they can use the light to see wherever they want.
 
@@ -326,7 +326,7 @@ If looking at a dog its form (i.e., color) was expressing its own nature, and on
 
 Before, when I saw a man, I knew to regard it as a man. Now the visual form (color) was expressing its element nature, and the mind stopped at the ultimate form (paramatā rūpa). 
 
-Mind, and form were separated, and from stayed on its own, giving the concept on it was mind dhamma. Form was not mind, and mind was not form; so mind and form were separate. This was a small stream enterer (cūḷa-sotāpanna). If someone penetrated beyond the concept, and reality became cūḷa-sotāpanna or mahā-sotāpanna. (now here—he was a cūḷa-sotāpanna, the insight process not ending yet). 
+Mind and form were separated, and form (rūpa) stayed on its own, giving the concept on it was mind dhamma. Form was not mind, and mind was not form; so mind and form were separate. This was a small stream enterer (cūḷa-sotāpanna). If someone penetrated beyond the concept, and reality became cūḷa-sotāpanna or mahā-sotāpanna. (now here—he was a cūḷa-sotāpanna, the insight process not ending yet). 
 
 If seeing and just at seeing; if hearing and just at hearing—on the hearing just knew its element nature, and not as a crow (i.e., the sound of a crow). If hearing the sound of a dog, and just at hearing, and not clung to the dog because knowledge (ñāṇa) preceded it, only knowing the changing nature, and after knowing it vanished. 
 
@@ -544,6 +544,7 @@ revised on 2022-08-05
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-06-08 rev. proofread by bhante
   12-28 rev. proofread by bhante, old: U Chandima was suing a lot of (on 12-14)
   08-05 rev. proofread by bhante
   07-20 rev. proofread by bhante

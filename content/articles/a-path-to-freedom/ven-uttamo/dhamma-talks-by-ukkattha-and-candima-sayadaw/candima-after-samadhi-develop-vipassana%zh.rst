@@ -3,7 +3,7 @@ After Samādhi, Develop Vipassanā [Dhamma Talks by Sayadaw U Candima (Sandima)]
 =================================================================================
 
 :date: 2022-07-21
-:modified: 2022-08-05
+:modified: 2023-06-08
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: After Samādhi, Develop Vipassanā (Dhamma Talks by Sayadaw U Candima)
@@ -68,7 +68,7 @@ It stays with magga and phala minds. [at first, it appears with path mind once a
 
 (Sayadaw asked one of the yogis who was discerning of the skeleton to get up.)
 
-All who have seen the skeleton looking at me with the minds as before you discerned the skeletons. Open your eyes and look at me. You have to objectify with knowledge (ñāṇa) to reach the internal skeleton. (The yogi—a man who was standing, said that he discerned it.) could you objectify it as man or woman? (No ! It doesn’t exist. I only see the bones.) Do bones have life and soul? (It doesn’t have.) Do you have any lustful mind on the bones? (I don’t have it.) Do you have any anger after seeing it? (No! I don’t.) You have seen your khandha as bones. Likewise, you also see the external as bones. Are there any two things? (It doesn’t exist.)
+All who have seen the skeleton looking at me with the minds as before you discerned the skeletons. Open your eyes and look at me. You have to objectify with knowledge (ñāṇa) to reach the internal skeleton. (The yogi—a man who was standing, said that he discerned it.) Could you objectify it as man or woman? (No ! It doesn’t exist. I only see the bones.) Do bones have life and soul? (It doesn’t have.) Do you have any lustful mind on the bones? (I don’t have it.) Do you have any anger after seeing it? (No! I don’t.) You have seen your khandha as bones. Likewise, you also see the external as bones. Are there any two things? (It doesn’t exist.)
 
 It only has one kind that becomes one mind. On the seeing object man and woman, taṇhā, mana, diṭṭhi and all the eleven kinds of fire ceased. It stops at just seeing. Not seeing the skeleton and by seeing the external form with conceptual attention as man and woman wrong view arises and taṇhā, mana, diṭṭhi kilesa appear.
 
@@ -82,7 +82,7 @@ According to the dependent co-arising, it stops as just seeing. Dhamma already e
 
 (That is also true. According to the Buddha and Mogok Sayadaw, the first path (magga) is exterminated diṭṭhi, but with this diṭṭhi—the coarser taṇhā which leads beings to fall into apāyas also eradicated. For example, from 100% of taṇhā, ¼ (25%) of it is eradicated.) 
 
-If delusion (moha or ignorance) sticks with us, lobha, dosa, diṭṭhi, mana and 11 kinds of fire are with it. You don’t need to kill them one by one  (wholesome and unwholesome are in groups). The mind is purified when it frees from anger, imitation of toad (Vammika Sutta) and the poison of four vipers (Āsīvisopama Sutta) (āsīvisopama sutta, SN 35.238 and vammika sutta, MN 23). It’s also correct in accordance with the suttas.
+If delusion (moha or ignorance) sticks with us, lobha, dosa, diṭṭhi, mana and 11 kinds of fire are with it. You don’t need to kill them one by one  (wholesome and unwholesome are in groups). The mind is purified when it frees from anger, irritation of toad (Vammika Sutta) and the poison of four vipers (Āsīvisopama Sutta) (āsīvisopama sutta, SN 35.238 and vammika sutta, MN 23). It’s also correct in accordance with the suttas.
 
 Continue to dig or demolish the ant-hill and find a forked path (In Vammika Sutta). This forked path is related to the ways of samatha-yānika and vipassanā-yānika. The yogi has to walk on one of these paths.
 
@@ -322,5 +322,6 @@ revised on 2022-08-05
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-06-08 rev. proofread by bhante
   08-05 rev. proofread by bhante
   2022-07-21 create rst
