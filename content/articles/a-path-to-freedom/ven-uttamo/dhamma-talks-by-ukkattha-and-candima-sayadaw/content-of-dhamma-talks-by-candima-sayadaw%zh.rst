@@ -3,7 +3,7 @@ Content of "A Noble Search" [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ============================================================================
 
 :date: 2022-02-13
-:modified: 2022-08-10
+:modified: 2023-06-10
 :tags: publication, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Content of A Noble Search (Dhamma Talks by Sayadaw U Candima)
@@ -52,9 +52,14 @@ These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bo
 
 ------
 
+- `MP3 and Youtube <{filename}content-of-dhamma-talks-by-ukkattha-and-candima-sayadaw%zh.rst#mp3_and_youtube>`__ of Dhamma Talks by Ukkattha Sayadaw and Candima Sayadaw
+
+------
+
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-06-10 add the linkings of mp3 & Youtube
   08-10 rev. full-text and cover of Bound volume of "Two Sides of A Coin" and "A Noble Search"
   07-21 add: After Samādhi, Develop Vipassanā
   04-28 rev. Bhavaṅga Meditation, Appendix, full text print, etc.

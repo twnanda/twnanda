@@ -3,7 +3,7 @@ Content of Maṅgala Sutta – Protection with Blessing
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2023-05-06
+:modified: 2023-06-09
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Bhikkhu Uttamo, Ven. Uttamo
 :category: path of nirvana
 :summary: Content of Maṅgala Sutta – Protection with Blessing
@@ -154,7 +154,7 @@ By Bhikkhu Uttamo（鄔達摩 比丘）
 
 ------
 
-.. _MP3 and Youtube of This Book:
+.. _mp3_and_youtube:
 
 MP3 and Youtube of This Book
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -208,7 +208,7 @@ MP3 and Youtube of This Book
 
 - 13 Consistency in One's Work (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-13-consistency-in-ones-work.mp3>`__ 10'42", `Youtube <https://www.youtube.com/watch?v=T017DqjJzmg&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=12>`__ )
 
-- 14 Giving (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-14-giving.mp3>`__ 01:03:58, `Youtube <https://www.youtube.com/watch?v=Cyl44XI1XTo&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=13>`__ )
+- 14 Giving (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-14-giving.mp3>`__ 01:03:58, `Youtube <https://www.youtube.com/watch?v=NIOfJpVEOdo&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=13>`__ )
 
 - 15 Living in Rectitude (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-15-living-in-rectitude.mp3>`__ 27'56", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=14>`__ )
 
@@ -311,6 +311,7 @@ MP3 and Youtube of This Book
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-09 rev. youtube and mp3 of 14 Giving
   05-06 rev. add audio MP3 & Youtube with in additional paragraph
   2023-05-05 add audio (MP3 & Youtube, including citta channel)
   10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante

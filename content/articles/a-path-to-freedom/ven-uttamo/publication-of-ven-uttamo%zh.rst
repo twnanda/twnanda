@@ -55,6 +55,8 @@ Dhamma Talks by Mogok Sayadaw
 
 - `For printing`_ full text of "Dhamma Talks by Mogok Sayadaw".
 
+- `MP3 and Youtube <{filename}dhamma-talks-by-mogok-sayadaw/content-of-audio-dhamma-talks-by-mogok-sayadaw%zh.rst>`__ of Dhamma Talks by Mogok Sayadaw
+
 - `Chinese traslation <{filename}dhamma-talks-by-mogok-sayadaw-han/content-of-dhamma-talks-by-mogok-sayadaw-han%zh.rst>`__ (**experimental**)
 
 ---------------------------
@@ -892,8 +894,6 @@ Protection with Blessing
 
 -- Maṅgala Sutta ( `Content of Maṅgala Sutta – Protection with Blessing <{filename}protection-with-blessings/content-of-protection-with-blessings%zh.rst>`_ )
 
-- `MP3 and Youtube of This Book <{filename}protection-with-blessings/content-of-protection-with-blessings%zh.rst#MP3 and Youtube of This Book>`__ 
-
 - `Introduction <{filename}protection-with-blessings/mangala-blessing-introduction%zh.rst>`_ 
 
 - `Texts <{filename}protection-with-blessings/mangala-blessing-texts%zh.rst>`_ 
@@ -1032,6 +1032,10 @@ Protection with Blessing
 
 ------
 
+- `MP3 and Youtube of This Book <{filename}protection-with-blessings/content-of-protection-with-blessings%zh.rst#mp3_and_youtube>`__ 
+
+------
+
 .. _Two Sides of A Coin:
 
 Two Sides of A Coin
@@ -1100,9 +1104,14 @@ These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bo
 
 ------
 
+- `MP3 and Youtube <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/content-of-dhamma-talks-by-ukkattha-and-candima-sayadaw%zh.rst#mp3_and_youtube>`__ of Dhamma Talks by Ukkattha Sayadaw and Candima Sayadaw
+
+------
+
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-10 add the linkings of mp3 & Youtube of Dhamma Talks by Mogok Sayadaw & by Ukkattha Sayadaw and Candima Sayadaw
   05-06 rev. simplify the linkings of audio MP3 & Youtube
   05-05 add audio (MP3 & Youtube, including citta channel) of Maṅgala Sutta & add linkings of all the MP3 files & Youtube of 18 days
   2023-04-18 add: audio (MP3 & Youtube, including citta channel) of 18 days

@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2022-08-26
+:modified: 2023-06-10
 :tags: publication, Bhikkhu Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -41,7 +41,9 @@ Dhamma Talks by Mogok Sayadaw
 
 ------
 
-- `For printing`_ full text of this book.
+- `For printing`_ full text of Dhamma Talks by Mogok Sayadaw
+
+- `MP3 and Youtube <{filename}content-of-audio-dhamma-talks-by-mogok-sayadaw%zh.rst>`__ of Dhamma Talks by Mogok Sayadaw
 
 - `Chinese traslation <{filename}../dhamma-talks-by-mogok-sayadaw-han/content-of-dhamma-talks-by-mogok-sayadaw-han%zh.rst>`__ (**experimental**)
 
@@ -765,6 +767,7 @@ revised on 2021-10-21
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-06-10 add the linkings of mp3 & Youtube
   08-26 add: Chinese traslation (experimental)
   2022-02-28 rev. covers (picture) of Mogok Sayadaw's Dhamma talks
   10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
