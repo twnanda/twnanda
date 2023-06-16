@@ -2,7 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2022-12-28
+:modified: 2023-06-16
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -126,7 +126,15 @@
 
 - `Two Sides of A Coin <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#Two Sides of A Coin>`_ (Dhamma Talks by Sayadaw U Ukkaṭṭha) and `A Noble Search <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo%zh.rst#A Noble Search>`_ [Dhamma Talks by Sayadaw U Candima (or Sandima)] --  These two books are combined and bound in one volume; The translator: **Ven. Uttamo thera** （銅板的兩面，尊者 **帖因古西亞多** 開示錄；神聖的追尋， **強諦瑪西亞多** 開示錄；由　尊者　 **鄔達摩長老** 　自緬甸語錄音帶譯為 **英文** ）
 
-----
+------
+
+.. _mae_chee_kaew:
+
+- `美琪喬 <{filename}/articles/lib/mae-chee-kaew/mae-chee-kaew%zh.rst>`_ ——一位阿羅漢尼修道證果之旅
+
+  美琪喬(Mae Chee Kaew)是個鄉下婦女，過著泰國東北部普通農村簡單的生活，她克服重重困難，離家追尋佛陀的聖道。美琪喬有很好的因緣，遇到幾位當代最著名的禪師，她認真遵從他們的指導，精進用功修就一顆清明和任運自在的心。她的堅忍、勇氣、還有直觀的智慧讓她超越一切世俗的局限，從苦難中解脫。
+
+------
 
 .. _ken_su:
 
@@ -205,6 +213,7 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  2023-06-16 add 美琪喬
   12-28 add: Two Sides of A Coin & A Noble Search
   08-26 add: 莫哥西亞多開示錄中文試譯
   2022-06-03 add 蘇錦坤作品集
