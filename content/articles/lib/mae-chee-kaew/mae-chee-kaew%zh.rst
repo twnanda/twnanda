@@ -97,7 +97,7 @@
 
 ------
 
-本書使用之「簡轉繁」工具： `ConvertZZ <https://github.com/flier268/ConvertZZ>`_ 版本：1.0.0.8, 2019-06-03
+本書使用之「簡轉繁」工具： `ConvertZZ <https://github.com/flier268/ConvertZZ>`_ ，版本：1.0.0.8, 2019-06-03
 
 ------
 
