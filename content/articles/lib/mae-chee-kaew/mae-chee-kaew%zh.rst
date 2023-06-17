@@ -3,7 +3,7 @@
 =====================================
 
 :date: 2023-06-16
-:modified: 2023-06-16
+:modified: 2023-06-17
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 美琪喬——一位阿羅漢尼修道證果之旅
@@ -21,7 +21,15 @@
 
 ------
 
-``*「我小時候去寺院必須由父母陪伴，而且不准跟比丘廝混在一起。比丘們討論佛法，我得在後面剛好聽得到的地方坐著聽。指導禪修的老師教我們怎麼禮佛，怎麼唸誦讚歎佛陀功德，他鼓勵我們迴向慈心給所有的眾生，還有平時做人要坦率正直，要慷慨。然而他也說，作為在家人，無論我們多麼慷慨佈施，功德都比不上出家為美琪誠心修行熄滅一切苦。我把這些話牢牢記在心裡。」　　　——美琪喬*``
+::
+
+   「我小時候去寺院必須由父母陪伴，而且不准跟比丘廝混在一起。
+  比丘們討論佛法，我得在後面剛好聽得到的地方坐著聽。指導禪修
+  的老師教我們怎麼禮佛，怎麼唸誦讚歎佛陀功德，他鼓勵我們迴向
+  慈心給所有的眾生，還有平時做人要坦率正直，要慷慨。然而他也
+  說，作為在家人，無論我們多麼慷慨佈施，功德都比不上出家為美
+  琪誠心修行熄滅一切苦。我把這些話牢牢記在心裡。」
+  　　　　　　　　　　　　　　　　　　　　　　　　　——美琪喬
 
 ------
 
@@ -29,28 +37,48 @@
 
 * **第一輯 在家——紅塵歲月**
 
-  ``*生在這個世界，我們很重視消逝的每一天、每一月、每一年，珍惜自己和別人的生命，因此心總是捲入憂苦和悲痛中。*``
+  ::
+
+     生在這個世界，我們很重視消逝的每一天、每一月、每一年，珍惜
+     自己和別人的生命，因此心總是捲入憂苦和悲痛中。
 
 
   * `月光珠 <{filename}mae-chee-kaew-chap1-01-moonstone%zh.rst>`_
 
-  ``*瞭解你自己，接受自己的錯誤然後努力改過。對自己不要有所隱瞞，最重要的是不要欺騙自己。如果你要的話可以欺騙整個世界，但是絕對不要欺騙你自己。*``
+  ::
+
+     瞭解你自己，接受自己的錯誤然後努力改過。對自己不要有所隱瞞，
+     最重要的是不要欺騙自己。如果你要的話可以欺騙整個世界，但是絕
+     對不要欺騙你自己。
 
   * `戰士般無畏的精神 <{filename}mae-chee-kaew-chap1-02-fearless%zh.rst>`_ （以下建構中！）
 
-  ``*不要懷疑禪修的價值，也不要低估自己的能力。在追求真理的道路上，不管修到哪裡都滿足於當時的成績，因為這個成績反映了部分的真理，是你可以依憑的。*``
+  ::
+
+    不要懷疑禪修的價值，也不要低估自己的能力。在追求真理的道路上，
+    不管修到哪裡都滿足於當時的成績，因為這個成績反映了部分的真理，
+    是你可以依憑的。
 
   * `一輩子的祝福 <{filename}mae-chee-kaew-chap1-03-blessing%zh.rst>`_ 
 
-  ``*修心就像農夫耕田，先把土地清理，接著整地，犁地翻土，育苗插秧，施肥，澆水，除草。最後，你就有個豐盛的收成。*``
+  ::
 
-  * `桑園 <{filename}mae-chee-kaew-chap01-04-mulberry%zh.rst>`_ 
+    修心就像農夫耕田，先把土地清理，接著整地，犁地翻土，育苗插秧，
+    施肥，澆水，除草。最後，你就有個豐盛的收成。
 
-  ``*你的身、你的心、你的生命——這些都不屬於你的，所以不能依靠它們帶給你真正的快樂。*``
+  * `桑園 <{filename}mae-chee-kaew-chap1-04-mulberry%zh.rst>`_ 
+
+  ::
+
+    你的身、你的心、你的生命——這些都不屬於你的，所以不能依靠它們
+    帶給你真正的快樂。
 
   * `農家忙 <{filename}mae-chee-kaew-chap1-05-immersed%zh.rst>`_ 
 
-  ``*我的根門不停受到轟炸：眼對到色；耳對到聲；鼻對到香；舌對到味；身對到觸。我觀察所有的這些東西，如此一來，每一根門都成了我的老師。*``
+  ::
+
+    我的根門不停受到轟炸：眼對到色；耳對到聲；鼻對到香；舌對到味；
+    身對到觸。我觀察所有的這些東西，如此一來，每一根門都成了我的老師。
 
   * `小喬 <{filename}mae-chee-kaew-chap1-06-little%zh.rst>`_ 
 
@@ -65,9 +93,9 @@
   * `山中的鬼世界 <{filename}mae-chee-kaew-chap2-07-ghosts%zh.rst>`_
   * `諾格拉芭洞 <{filename}mae-chee-kaew-chap2-08-nok-kraba%zh.rst>`_
   * `捨道還俗 <{filename}mae-chee-kaew-chap2-09-failings%zh.rst>`_
-  * `觀身法門 <{filename}mae-chee-kaew-chap02-10-body%zh.rst>`_ 
-  * `美琪的楷模 <{filename}mae-chee-kaew-chap02-11-ideal%zh.rst>`_ 
-  * `參學之旅 <{filename}mae-chee-kaew-chap02-12-pilgrimage%zh.rst>`_ 
+  * `觀身法門 <{filename}mae-chee-kaew-chap2-10-body%zh.rst>`_ 
+  * `美琪的楷模 <{filename}mae-chee-kaew-chap2-11-ideal%zh.rst>`_ 
+  * `參學之旅 <{filename}mae-chee-kaew-chap2-12-pilgrimage%zh.rst>`_ 
 
 * **第三輯：心性——步上聖道**
 
@@ -80,10 +108,10 @@
 
 - **第四輯：清凈——圓滿果證**
 
-  * `河流與大海 <{filename}mae-chee-kaew-chap2-01-river%zh.rst>`_
-  * `無盡的感恩 <{filename}mae-chee-kaew-chap2-02-gratitude%zh.rst>`_
-  * `終身不渝的信諾 <{filename}mae-chee-kaew-chap2-03-commitment%zh.rst>`_
-  * `心的清凈 <{filename}mae-chee-kaew-chap2-04-pureness%zh.rst>`_ 
+  * `河流與大海 <{filename}mae-chee-kaew-chap4-01-river%zh.rst>`_
+  * `無盡的感恩 <{filename}mae-chee-kaew-chap4-02-gratitude%zh.rst>`_
+  * `終身不渝的信諾 <{filename}mae-chee-kaew-chap4-03-commitment%zh.rst>`_
+  * `心的清凈 <{filename}mae-chee-kaew-chap4-04-pureness%zh.rst>`_ 
 
 * `後記 <{filename}mae-chee-kaew-epilogue%zh.rst>`_
 * `美琪喬法語集 <{filename}mae-chee-kaew-collected-teachings%zh.rst>`_
@@ -121,5 +149,9 @@
 
 
 ..
+  06-17 add chap. 1-02 & 1-03
+  quotation:
+  ``*生在這個世界，我們很重視消逝的每一天、每一月、每一年，珍惜自己和別人的生命，因此心總是捲入憂苦和悲痛中。*``
+
   2023-06-16 chap. 1-01; create rst on 2023-06-14
 
