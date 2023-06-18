@@ -84,11 +84,39 @@
 
 - **第二輯: 出家——美琪生涯**
 
-  * `萬緣放下 <{filename}mae-chee-kaew-chap2-01-leaving%zh.rst>`_  （以下建構中！）
+  ::
+
+     基本訓練就像用有丫叉的樹枝撐著香蕉樹，讓沉重的果串發育長大，
+     避免香蕉還未熟就掉在地上。
+
+  * `萬緣放下 <{filename}mae-chee-kaew-chap2-01-leaving%zh.rst>`_ 
+
+  ::
+
+     我熬過許許多多的苦難來考驗自己的願力，試過好多天粒米未進，
+     好幾個晚上不躺下來睡覺。忍耐是滋潤我心靈的糧食；精進是讓我
+     躺下休息的枕頭。
+
   * `失而復得的寶藏 <{filename}mae-chee-kaew-chap2-02-reclaiming%zh.rst>`_
+
+  ::
+
+     做個堂堂正正的出家人！不要貪圖世俗生活的污穢而毀了出家的發心，
+     不要回頭，不要眷念俗家、親屬。
+
   * `捅馬蜂窩 <{filename}mae-chee-kaew-chap2-03-stirring%zh.rst>`_
+
+  ::
+
+     仔細觀察你內心煩惱的起伏，別那麼容易給它們騙去。等你有能力
+     掌控它們的動向時，就可以把它們的負面作用轉成正面的心靈能量。
+
   * `擔水時擔水 <{filename}mae-chee-kaew-chap2-04-simply%zh.rst>`_ 
-  * `通往其他世界的關口 <{filename}mae-chee-kaew-chap2-05-through%zh.rst>`_ 
+
+（以下建構中！）
+
+  * `通往其他世界的關口 <{filename}mae-chee-kaew-chap2-05-through%zh.rst>`_  
+
   * `野豬 <{filename}mae-chee-kaew-chap2-06-wild%zh.rst>`_ 
   * `山中的鬼世界 <{filename}mae-chee-kaew-chap2-07-ghosts%zh.rst>`_
   * `諾格拉芭洞 <{filename}mae-chee-kaew-chap2-08-nok-kraba%zh.rst>`_
@@ -149,7 +177,7 @@
 
 
 ..
-  06-18 add chap. 1-04 & 1-06
+  06-18 add chap. 2-01 ~ 2-04 and some files proved by A-Liang; chap. 1-04 ~ 1-06 
   06-17 add chap. 1-02 & 1-03
   quotation:
   ``*生在這個世界，我們很重視消逝的每一天、每一月、每一年，珍惜自己和別人的生命，因此心總是捲入憂苦和悲痛中。*``
