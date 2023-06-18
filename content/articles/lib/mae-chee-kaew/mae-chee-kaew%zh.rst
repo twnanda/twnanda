@@ -3,7 +3,7 @@
 =====================================
 
 :date: 2023-06-16
-:modified: 2023-06-17
+:modified: 2023-06-18
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 美琪喬——一位阿羅漢尼修道證果之旅
@@ -51,7 +51,7 @@
      最重要的是不要欺騙自己。如果你要的話可以欺騙整個世界，但是絕
      對不要欺騙你自己。
 
-  * `戰士般無畏的精神 <{filename}mae-chee-kaew-chap1-02-fearless%zh.rst>`_ （以下建構中！）
+  * `戰士般無畏的精神 <{filename}mae-chee-kaew-chap1-02-fearless%zh.rst>`_ 
 
   ::
 
@@ -73,7 +73,7 @@
     你的身、你的心、你的生命——這些都不屬於你的，所以不能依靠它們
     帶給你真正的快樂。
 
-  * `農家忙 <{filename}mae-chee-kaew-chap1-05-immersed%zh.rst>`_ 
+  * `農家忙 <{filename}mae-chee-kaew-chap1-05-immersed%zh.rst>`_
 
   ::
 
@@ -84,7 +84,7 @@
 
 - **第二輯: 出家——美琪生涯**
 
-  * `萬緣放下 <{filename}mae-chee-kaew-chap2-01-leaving%zh.rst>`_ 
+  * `萬緣放下 <{filename}mae-chee-kaew-chap2-01-leaving%zh.rst>`_  （以下建構中！）
   * `失而復得的寶藏 <{filename}mae-chee-kaew-chap2-02-reclaiming%zh.rst>`_
   * `捅馬蜂窩 <{filename}mae-chee-kaew-chap2-03-stirring%zh.rst>`_
   * `擔水時擔水 <{filename}mae-chee-kaew-chap2-04-simply%zh.rst>`_ 
@@ -149,6 +149,7 @@
 
 
 ..
+  06-18 add chap. 1-04 & 1-06
   06-17 add chap. 1-02 & 1-03
   quotation:
   ``*生在這個世界，我們很重視消逝的每一天、每一月、每一年，珍惜自己和別人的生命，因此心總是捲入憂苦和悲痛中。*``
