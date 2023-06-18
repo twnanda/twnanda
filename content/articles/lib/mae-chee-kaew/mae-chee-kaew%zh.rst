@@ -113,13 +113,37 @@
 
   * `擔水時擔水 <{filename}mae-chee-kaew-chap2-04-simply%zh.rst>`_ 
 
-（以下建構中！）
+  ::
+
+     人會受苦是由於執著放不下，老是不滿足。
+     好好觀察自己的心，學習怎麼捨棄苦的原因。
 
   * `通往其他世界的關口 <{filename}mae-chee-kaew-chap2-05-through%zh.rst>`_  
 
+  ::
+
+     不要像動物那樣只知吃睡，戒懼自己不再沉迷世俗的生活，
+     謹小慎微害怕來生會墮落。不要坐在那裡發呆，生命剩下的時日不多了，
+     好好警惕自己！
+
   * `野豬 <{filename}mae-chee-kaew-chap2-06-wild%zh.rst>`_ 
+
+  ::
+
+    一切的意識領域、一切的眾生，都源自於心。所以，你最好全神專注自己的心，
+    你會在這裡發現整個宇宙。
+
   * `山中的鬼世界 <{filename}mae-chee-kaew-chap2-07-ghosts%zh.rst>`_
+
+  ::
+
+    仔細觀察你身語意三業，言行舉止要沉穩內斂，不要說太多話，
+    也不要給自己添麻煩。注意自己的語言，笑的時候要矜持。
+
   * `諾格拉芭洞 <{filename}mae-chee-kaew-chap2-08-nok-kraba%zh.rst>`_
+   
+   （以下建構中！）
+
   * `捨道還俗 <{filename}mae-chee-kaew-chap2-09-failings%zh.rst>`_
   * `觀身法門 <{filename}mae-chee-kaew-chap2-10-body%zh.rst>`_ 
   * `美琪的楷模 <{filename}mae-chee-kaew-chap2-11-ideal%zh.rst>`_ 
@@ -177,7 +201,7 @@
 
 
 ..
-  06-18 add chap. 2-01 ~ 2-04 and some files proved by A-Liang; chap. 1-04 ~ 1-06 
+  06-18 add chap. 2-05 ~ 2-08 and some files proved by A-Liang; add chap. 2-01 ~ 2-04 and some files proved by A-Liang; chap. 1-04 ~ 1-06 
   06-17 add chap. 1-02 & 1-03
   quotation:
   ``*生在這個世界，我們很重視消逝的每一天、每一月、每一年，珍惜自己和別人的生命，因此心總是捲入憂苦和悲痛中。*``
