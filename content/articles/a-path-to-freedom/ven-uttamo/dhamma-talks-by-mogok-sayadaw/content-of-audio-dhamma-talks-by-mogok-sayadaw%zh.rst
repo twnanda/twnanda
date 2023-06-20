@@ -3,7 +3,7 @@ Content of Audio (MP3 and Youtube) of Dhamma Talks by Mogok Sayadaw-- Emptiness,
 ==================================================================================================================
 
 :date: 2023-06-10
-:modified: 2023-06-10
+:modified: 2023-06-20
 :tags: publication, Bhikkhu Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -361,7 +361,7 @@ Dhamma Talks by Mogok Sayadaw
   * 5.) The Simile for Nibbāna (1962-09-07)
   * 6.) Contemplation on Annatta (1962-09-16)
 
-- **Part 09-07 ~ 11** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt09-07--11.mp3>`__ 38'51", `Youtube <https://www.youtube.com/watch?v=TGievxcVI5A&list=PLgpGmPf7fzNbRfFNBwcHkPJIlesmdSQNK&index=11>`__
+- **Part 09-07 ~ 11** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt09-07--11.mp3>`__ 38'51", `Youtube <https://www.youtube.com/watch?v=h_hhERm8zW4&list=PLgpGmPf7fzNbRfFNBwcHkPJIlesmdSQNK&index=12>`__
 
   * 7.) Cessation of the Taints (1962-09-19)
   * 8.) Are You Worshipping Wrong Views? (1962-09-20)
@@ -369,7 +369,7 @@ Dhamma Talks by Mogok Sayadaw
   * 10.) How to Die with Feelings? (1962-09-23, 09-24)
   * 11.) Should Know One's Value (1962-09-26)
 
-- **Part 09-12 ~ 18** MP3, Youtube (under construction!)
+- **Part 09-12 ~ 18** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt09-12--18.mp3>`__ 45'06", `Youtube <https://www.youtube.com/watch?v=WhP4kX3W_gQ&list=PLgpGmPf7fzNbRfFNBwcHkPJIlesmdSQNK&index=13>`__
 
   * 12.) Mistaken with Nibbāna (1962-10-04 ~ 10-05)
   * 13.) Rely on Dhamma, Not Outside Power (1962-10-07)
@@ -379,13 +379,14 @@ Dhamma Talks by Mogok Sayadaw
   * 17.) Disenchantment with the Monkey (1962-10-10)
   * 18.) How to Perform Dāna? (1962-10-12)
 
-- **Part 09-19 ~ 22** MP3, Youtube (under construction!)
+- **Part 09-19 ~ 22** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt09-19--22.mp3>`__ 40'46", `Youtube <https://www.youtube.com/watch?v=INIn9UYidRA&list=PLgpGmPf7fzNbRfFNBwcHkPJIlesmdSQNK&index=14>`__
 
   * 19.) Staying with the Truly Reliable Dhamma (1962-10-15)
   * 20.) On Vipassanā̄ Bhavana (1961-09-01 ~ 09-02)
   * 21.) Wrong View on Kamma (1961-09-21, 09-22)
   * 22.) The Source of Great Sufferings (1961-10-04)
-- **Part 09-23 ~ 27** MP3, Youtube (under construction!)
+
+- **Part 09-23 ~ 27** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt09-23--27.mp3>`__ 30'19", `Youtube <https://www.youtube.com/watch?v=GdgkeIfKGDY&list=PLgpGmPf7fzNbRfFNBwcHkPJIlesmdSQNK&index=15>`__
 
   * 23.) The Important of Anicca (no date)
   * 24.) Wholesome Kamma with Knowledge (1960-12-09)
@@ -395,19 +396,19 @@ Dhamma Talks by Mogok Sayadaw
 
 **Part 10**
 
-- **Part 10-01 ~ 04** MP3, Youtube (under construction!)
+- **Part 10-01 ~ 04** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt10-01--04.mp3>`__ 27'11", `Youtube <https://www.youtube.com/watch?v=D7g4Zu_h5U8&list=PLgpGmPf7fzNaUsRmZq7sv2W9XpqU6Jfd2&index=1>`__
 
   * 1.) The Middle Way (1960-12-13)
   * 2.) Correct One's Mistakes in Time (1960-12-18)
   * 3.) Are You A Fool? (1960-12-18)
   * 4.) Our Murderers (1960-12-25)
 
-- **Part 10-05 ~ 06** MP3, Youtube (under construction!)
+- **Part 10-05 ~ 06** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt10-05--06.mp3>`__ 46'15", `Youtube <https://www.youtube.com/watch?v=oWO8wYx3yX8&list=PLgpGmPf7fzNaUsRmZq7sv2W9XpqU6Jfd2&index=2>`__
 
   * 5.) The Four Noble Truths (1957-12-06 ~ 12-25)
   * 6.) Pay Your Debts with Knowledge (1960-12-28)
 
-- **Part 10-07 ~ 11** MP3, Youtube (under construction!)
+- **Part 10-07 ~ 11** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt10-07--11.mp3>`__ 46'17", `Youtube <https://www.youtube.com/watch?v=RpXuMt_EEmw&list=PLgpGmPf7fzNaUsRmZq7sv2W9XpqU6Jfd2&index=3>`__
 
   * 7.) Protecting Your Mind (1960-12-31)
   * 8.) The Creator: the Deceitful Mind (1961-01-01 ~ 01-05)
@@ -415,7 +416,7 @@ Dhamma Talks by Mogok Sayadaw
   * 10.) Rust Corrodes the Iron (1961-01-10)
   * 11.) To Nibbāna with One Dhamma (1961-01-11)
 
-- **Part 10-12 ~ 16** MP3, Youtube (under construction!)
+- **Part 10-12 ~ 16** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt10-12--16.mp3>`__ 39'49", `Youtube <https://www.youtube.com/watch?v=0aAuZwX4su0&list=PLgpGmPf7fzNaUsRmZq7sv2W9XpqU6Jfd2&index=4>`__
 
   * 12.) To Nibbāna with Stopping (1961-01-12)
   * 13.) True Refuge (1961-01-14)
@@ -423,7 +424,7 @@ Dhamma Talks by Mogok Sayadaw
   * 15.) Important of Samadhi (1961-01-16)
   * 16.) Craving and Suffering (1961-01-21)
 
-- **Part 10-17 ~ 22** MP3, Youtube (under construction!)
+- **Part 10-17 ~ 22** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt10-17--22.mp3>`__ 30'38", `Youtube <https://www.youtube.com/watch?v=kvFNsxCkjrg&list=PLgpGmPf7fzNaUsRmZq7sv2W9XpqU6Jfd2&index=5>`__
 
   * 17.) Fulfilling One's Duty (1961-05-27)
   * 18.) Impermanent and Taintless (1960-05-30)
@@ -434,7 +435,7 @@ Dhamma Talks by Mogok Sayadaw
 
 **Part 11**
 
-- **Part 11-01 ~ 07** MP3, Youtube (under construction!)
+- **Part 11-01 ~ 07** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt11-01--07.mp3>`__ 39'46", `Youtube <https://www.youtube.com/watch?v=HAA60i_MtzA&list=PLgpGmPf7fzNaUsRmZq7sv2W9XpqU6Jfd2&index=6>`__
 
   * 1.) No Free Time Is for Sufferings (1961-02-04)
   * 2.) Who Is Your Creator? (1961-02-16)
@@ -444,14 +445,14 @@ Dhamma Talks by Mogok Sayadaw
   * 6.) Why So Many Corpses? (1961-12-29)
   * 7.) Dāna and Nibbāna (1961-12-05)
 
-- **Part 11-08 ~ 11** MP3, Youtube (under construction!)
+- **Part 11-08 ~ 11** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt11-08--11.mp3>`__ 45'04", `Youtube <https://www.youtube.com/watch?v=UqxDf_CHiUU&list=PLgpGmPf7fzNaUsRmZq7sv2W9XpqU6Jfd2&index=7>`__
 
   * 8.) Practicing for Dying (1962-08-11 ~ 08-12)
   * 9.) Seeing Nibbāna with the Pure Mind (1962-08-23)
   * 10.) Two Ways of Dying (1962-08-29)
   * 11.) Dependency Is Wavering (N/A)
 
-- **Part 11-12 ~ 17** MP3, Youtube (under construction!)
+- **Part 11-12 ~ 17** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt11-12--17.mp3>`__ 42'22", `Youtube <https://www.youtube.com/watch?v=0F66ntwbTAw&list=PLgpGmPf7fzNaUsRmZq7sv2W9XpqU6Jfd2&index=8>`__
 
   * 12.) The Creator (N/A)
   * 13.) Not a Soul, Only an Intrinsic Nature (N/A)
@@ -460,7 +461,7 @@ Dhamma Talks by Mogok Sayadaw
   * 16.) Don't Live and Die with Ignorance (N/A)
   * 17.) Wise Attention and Wisdom (N/A)
 
-- **Part 11-18 ~ 22** MP3, Youtube (under construction!)
+- **Part 11-18 ~ 22** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt11-18--22.mp3>`__ 30'52", `Youtube <https://www.youtube.com/watch?v=gLtlvUhA0rI&list=PLgpGmPf7fzNaUsRmZq7sv2W9XpqU6Jfd2&index=9>`__
 
   * 18.) Human Characters (N/A)
   * 19.) Not Becoming Dog Again (N/A)
@@ -468,7 +469,7 @@ Dhamma Talks by Mogok Sayadaw
   * 21.) Bond with Diṭṭhi Rope and Carrying Away by Taṇhā Water (N/A)
   * 22.) Dispelling Diṭṭhi Before Insight (N/A)
 
-- **Part 11-23 ~ 27** MP3, Youtube (under construction!)
+- **Part 11-23 ~ 27** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt11-23--27.mp3>`__ 35'59", `Youtube <https://www.youtube.com/watch?v=akn0-1D-Mug&list=PLgpGmPf7fzNaUsRmZq7sv2W9XpqU6Jfd2&index=10>`__
 
   * 23.) A Noble Life and Practice (N/A)
   * 24.) Conditioned Phenomena (N/A)
@@ -478,7 +479,7 @@ Dhamma Talks by Mogok Sayadaw
 
 **Part 12**
 
-- **Part 12-01 ~ 08** MP3, Youtube (under construction!)
+- **Part 12-01 ~ 08** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt12-01--08.mp3>`__ 44'49", `Youtube <https://www.youtube.com/watch?v=vnj9Ax1g5QE&list=PLgpGmPf7fzNaUsRmZq7sv2W9XpqU6Jfd2&index=11>`__
 
   * 1.) Khandha Fuel, Kilesa Fire and Nibbāna (N/A)
   * 2.) Penetration of Dukkha (1956-10-15)
@@ -489,7 +490,7 @@ Dhamma Talks by Mogok Sayadaw
   * 7.) Just Intrinsic Nature (N/A)
   * 8.) Ignorance and Craving (N/A)
 
-- **Part 12-09 ~ 15** MP3, Youtube (under construction!)
+- **Part 12-09 ~ 15** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt12-09--15.mp3>`__ 46'01", `Youtube <https://www.youtube.com/watch?v=kQiZ1sKP7-Y&list=PLgpGmPf7fzNaUsRmZq7sv2W9XpqU6Jfd2&index=12>`__
 
   * 9.) Everyone Is a Thief (N/A)
   * 10.) Concept, Reality and Wise Attention (N/A)
@@ -499,14 +500,14 @@ Dhamma Talks by Mogok Sayadaw
   * 14.) The Burdened Khandha (N/A)
   * 15.) Time and Timeless (N/A)
 
-- **Part 12-16 ~ 19** MP3, Youtube (under construction!)
+- **Part 12-16 ~ 19** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt12-16--19.mp3>`__ 32'42", `Youtube <https://www.youtube.com/watch?v=9G16toWYNM8&list=PLgpGmPf7fzNaUsRmZq7sv2W9XpqU6Jfd2&index=13>`__
 
   * 16.) Dying, Saṁsāra and Nibbāna (N/A)
   * 17.) Don't Get Lost in Sufferings (N/A)
   * 18.) Three Knowledges of the First Discourse (N/A)
   * 19.) Instruction on Dying (N/A)
 
-- **Part 12-20 ~ 23** MP3, Youtube (under construction!)
+- **Part 12-20 ~ 23** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt12-20--23.mp3>`__ 37'21", `Youtube <https://www.youtube.com/watch?v=2u81IkYZUIw&list=PLgpGmPf7fzNaUsRmZq7sv2W9XpqU6Jfd2&index=14>`__
 
   * 20.) Don't Waste Your Precious Times (N/A)
   * 21.) The Dangers of Ignoble Dhamma (N/A)
@@ -586,5 +587,6 @@ Dhamma Talks by Mogok Sayadaw
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-09 add till part 12
   2023-06-09 create rst; post on 06-10 
   `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt09-12--18.mp3>`__ 38'51", `Youtube <https://www.youtube.com/watch?v=TGievxcVI5A&list=PLgpGmPf7fzNbRfFNBwcHkPJIlesmdSQNK&index=11>`__
