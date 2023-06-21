@@ -3,7 +3,7 @@ Content of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima
 ================================================================================
 
 :date: 2022-02-13
-:modified: 2023-06-10
+:modified: 2023-06-21
 :tags: publication, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Sayadaw U Candima, Two Sides of a Coin, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Sayadaw U Ukkaṭṭha (Two Sides of a Coin) and Sayadaw U Candima (Sandima) (A Noble Search)
@@ -38,6 +38,8 @@ Two Sides of A Coin__Dhamma Talks by Sayadaw U Ukkaṭṭha
 - `Postscript <{filename}postscript-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
 
 - `Appendix <{filename}appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
+
+- `Appendix 2 <{filename}appendix-2-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
 
 ------
 
@@ -152,6 +154,7 @@ MP3 and Youtube of This Book
 - Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/thae-inn-gu-sayadaw/appendix-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 44'09", `Youtube <https://www.youtube.com/watch?v=Yh7lyaKIDlw&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=8>`__ )
 
 ..
+  06-21 add appendix 2
   2023-06-10 add audio  (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/candima-after-samadhi-develop-vipassana.mp3>`__ '", `Youtube <>`__ ) 
   08-10 rev. full-text and cover of Bound volume of "Two Sides of A Coin" and "A Noble Search"
   07-21 add: After Samādhi, Develop Vipassanā
