@@ -3,7 +3,7 @@ Content of Audio (MP3 and Youtube) of Dhamma Talks by Mogok Sayadaw-- Emptiness,
 ==================================================================================================================
 
 :date: 2023-06-10
-:modified: 2023-06-20
+:modified: 2023-06-23
 :tags: publication, Bhikkhu Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -516,7 +516,7 @@ Dhamma Talks by Mogok Sayadaw
 
 **Part 13**
 
-- **Part 13-01 ~ 05** MP3, Youtube (under construction!)
+- **Part 13-01 ~ 05** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt13-01--05.mp3>`__ 42'11", `Youtube <https://www.youtube.com/watch?v=arJhQ8qbSUY&list=PLgpGmPf7fzNYChjbvVHjaGBTfCjHIOspd&index=1>`__
 
   * 1.) The Real Saviour (1961-07-28)
   * 2.) Should Have Sympathy for Oneself (1961-10-07~08)
@@ -524,20 +524,20 @@ Dhamma Talks by Mogok Sayadaw
   * 4.) Grown up With Ignorance (1961-10-18)
   * 5.) The Way of No Grimace and Smile (1961-11-15)
 
-- **Part 13-06 ~ 09** MP3, Youtube (under construction!)
+- **Part 13-06 ~ 09** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt13-06--09.mp3>`__ 34'17", `Youtube <https://www.youtube.com/watch?v=3fMMPRP-43w&list=PLgpGmPf7fzNYChjbvVHjaGBTfCjHIOspd&index=2>`__
 
   * 6.) Man’s Story and His Stupidity (1961-11-27)
   * 7.) Man, Happy With Kilesa Diseases (1961-11-27)
   * 8.) Fall in Love With the Killer (1961-12-19~20)
   * 9.) Everyone Is a Stranger (1962-03-12)
 
-- **Part 13-10 ~ 12** MP3, Youtube (under construction!)
+- **Part 13-10 ~ 12** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt13-06--09.mp3>`__ 34'17", `Youtube <https://www.youtube.com/watch?v=A7Z9x2GmqjQ&list=PLgpGmPf7fzNYChjbvVHjaGBTfCjHIOspd&index=3>`__
 
   * 10.) Wavering and Not Wavering (1962-05-05~06)
   * 11.) So Many Excuses (1962-06-09)
   * 12.) The Hidden Nibbāna (1962-09-28)
 
-- **Part 13-13 ~ 20** MP3, Youtube (under construction!)
+- **Part 13-13 ~ 20** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt13-10--12.mp3>`__ 45'59", `Youtube <https://www.youtube.com/watch?v=A9-UqCfpm3w&list=PLgpGmPf7fzNYChjbvVHjaGBTfCjHIOspd&index=4>`__
 
   * 13.) A Slave With Four Masters (1960-12-18)
   * 14.) The Blind With Distortions (1960-12-20)
@@ -548,13 +548,13 @@ Dhamma Talks by Mogok Sayadaw
   * 19.) Human Perils (1961-01-08)
   * 20.) Anicca Ñāṇa, the Saviour (1961-01-10)
 
-- **Part 13-21 ~ 23** MP3, Youtube (under construction!)
+- **Part 13-21 ~ 23** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt13-21--23.mp3>`__ 43'05", `Youtube <https://www.youtube.com/watch?v=SvB4zoXhgWk&list=PLgpGmPf7fzNYChjbvVHjaGBTfCjHIOspd&index=5>`__
 
   * 21.) True Refuge—God or Dhamma? (1961-01-14)
   * 22.) The Art of Living and Dying (1961-09-25~30)
   * 23.) Importance of Habitual Practice (1961-10-20)
 
-- **Part 13-24 ~ 29** MP3, Youtube (under construction!)
+- **Part 13-24 ~ 29** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt13-24--29.mp3>`__ 31'25", `Youtube <https://www.youtube.com/watch?v=PdLBVQonN4g&list=PLgpGmPf7fzNYChjbvVHjaGBTfCjHIOspd&index=6>`__
 
   * 24.) Only Dukkha Exists (1961-10-28)
   * 25.) Perfection for Nibbāna (N/A)
@@ -563,7 +563,7 @@ Dhamma Talks by Mogok Sayadaw
   * 28.) Becoming and Eight Faults (N/A)
   * 29.) The Nature of Dukkha (N/A)
 
-- **Part 13-30 ~ 33** MP3, Youtube (under construction!)
+- **Part 13-30 ~ 33** `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt13-30--33.mp3>`__ 35'21", `Youtube <https://www.youtube.com/watch?v=4voB2lcA8tY&list=PLgpGmPf7fzNYChjbvVHjaGBTfCjHIOspd&index=7>`__
 
   * 30.) The Worst Danger (N/A)
   * 31.) Importance of Dukkha Sacca (N/A)
@@ -572,11 +572,11 @@ Dhamma Talks by Mogok Sayadaw
 
 ----
 
-- Epilogue: MP3, Youtube (under construction!)
+- Epilogue: `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/epilogue-of-dhamma-talks-by-mogok-sayadaw.mp3>`__ 10'12", `Youtube <https://www.youtube.com/watch?v=DVoZC9UkXrg&list=PLgpGmPf7fzNYChjbvVHjaGBTfCjHIOspd&index=8>`__
 
-- Appendix: MP3, Youtube (under construction!)
+- Appendix: `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/appendix-of-dhamma-talks-by-mogok-sayadaw.mp3>`__ 1:04:49, `Youtube <https://www.youtube.com/watch?v=8lF-848VWXQ&list=PLgpGmPf7fzNYChjbvVHjaGBTfCjHIOspd&index=9>`__
 
-- About the translator: MP3, Youtube (under construction!)
+- About the translator: `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/about-the-translator.mp3>`__ 1'9", `Youtube <https://www.youtube.com/watch?v=FAp0dfAYeU0&list=PLgpGmPf7fzNYChjbvVHjaGBTfCjHIOspd&index=10>`__
 
 ------
 
@@ -587,6 +587,7 @@ Dhamma Talks by Mogok Sayadaw
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  06-09 add till part 12
+  06-23 add part 13 till the end
+  06-20 add till part 12
   2023-06-09 create rst; post on 06-10 
   `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mogok-sayadaw/pt09-12--18.mp3>`__ 38'51", `Youtube <https://www.youtube.com/watch?v=TGievxcVI5A&list=PLgpGmPf7fzNbRfFNBwcHkPJIlesmdSQNK&index=11>`__
