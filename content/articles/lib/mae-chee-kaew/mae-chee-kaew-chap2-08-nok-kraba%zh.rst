@@ -3,21 +3,21 @@
 ===================================================
 
 :date: 2023-06-16
-:modified: 2023-06-18
+:modified: 2023-06-23
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 諾格拉芭洞（美琪喬——一位阿羅漢尼修道證果之旅）
 
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
 多年下來，美琪喬的禪修形成獨特的風格和明確的方向，每次進入新的心靈領域都加強她禪修的動力。她花費大量的工夫研究其他眾生的憂悲苦惱，但是卻忽略了返過來觀察那令她在生死中流轉不息的情執。因為禪相是由內在的意根接觸，透過往內專注觀照而知道，所以她把觀察禪相視為對心以及深層心理功能的探索。她以為經由觀察禪定中出現的現象，可以瞭解心和深層心理功能的真相，與此同時也瞭解觀照的心。問題是雖然禪相中的世界跟人類世界一樣真實，一樣明顯，可是在禪修者的知覺中，這些還是屬於外在的世界。即使這些現象沒有實體，不可觸控，不過在本質上還是心知道的對象，所以屬於觀照心以外的法。美琪喬全心全意探究這些禪相，導致她的禪修只專注外在的心靈領域，忽略了自己心裡面精彩的內在世界。
 
-美琪喬沒有看出修行中這個關鍵偏差，而阿姜坎攀也沒有足夠的智慧點出癥結，畢竟他自己的修行也沒有超越定與神通的範疇，在知見上無法破除美琪喬對禪修境界的迷執。雖然他的心有甚深的定力扶持，但缺乏般若內觀，因此無法洞見禪修境界無常、苦的本質。美琪喬信賴阿姜坎攀的指導能力，沒有意識到自己需要一位真正高明的老師。
+美琪喬沒有看出修行中這個關鍵偏差，而阿瞻坎攀也沒有足夠的智慧點出癥結，畢竟他自己的修行也沒有超越定與神通的範疇，在知見上無法破除美琪喬對禪修境界的迷執。雖然他的心有甚深的定力扶持，但缺乏般若內觀，因此無法洞見禪修境界無常、苦的本質。美琪喬信賴阿瞻坎攀的指導能力，沒有意識到自己需要一位真正高明的老師。
 
-美琪喬對各種心靈領域越來越著迷，貪著追求興奮的新體驗和更廣泛的知識——這個貪染正是眾生墮入輪迴的心識世界、流轉不息的原因。美琪喬還未透徹瞭解苦以及造成苦的真相，阿姜坎攀縱使有定力，也沒有辦法幫助她擺脫強烈重定輕慧的傾向。因此，美琪喬耽溺在三摩地的寧靜中，不知不覺沉迷於感官認知的微妙力量。
+美琪喬對各種心靈領域越來越著迷，貪著追求興奮的新體驗和更廣泛的知識——這個貪染正是眾生墮入輪迴的心識世界、流轉不息的原因。美琪喬還未透徹瞭解苦以及造成苦的真相，阿瞻坎攀縱使有定力，也沒有辦法幫助她擺脫強烈重定輕慧的傾向。因此，美琪喬耽溺在三摩地的寧靜中，不知不覺沉迷於感官認知的微妙力量。
 
 美琪喬一九三七年至一九四五年住在皋山，這段時期日本入侵泰國，把泰國拖入區域正在惡化的衝突中，成為二戰的一個主要前線戰場。戰爭爆發時，戰機飛過她們住的那座山上方前往執行轟炸任務，回程途中，經常把未用的炸彈卸投在附近的山區，之後才降落到附近的空軍基地。間歇性震耳欲聾的爆炸讓僧尼二眾逃亡至懸崖下避難，只有美琪喬一人處之泰然，不受干擾也不害怕地繼續禪修。她發願寧可獻出生命也要追求佛法，她知道如果要在這一輩子解脫煩惱，在修行的道路上就必須視死如歸。
 
@@ -49,7 +49,7 @@
 
 ------
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
@@ -61,5 +61,6 @@
 
 
 ..
+  06-23 rev. 阿姜 → 阿瞻
   2023-06-18, create rst on 2023-06-16
 

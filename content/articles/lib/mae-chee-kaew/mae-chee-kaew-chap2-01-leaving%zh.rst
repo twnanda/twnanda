@@ -3,13 +3,13 @@
 =================================================
 
 :date: 2023-06-16
-:modified: 2023-06-18
+:modified: 2023-06-23
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 萬緣放下（美琪喬——一位阿羅漢尼修道證果之旅）
 
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
@@ -21,9 +21,9 @@
 
 其他的美琪圍繞著替她穿上傳統泰國美琪的白色制服：一件覆蓋腰身以下，裙襬掛到小腿的下裙；一件頸部打鈕釦，長袖的寬鬆上衣；一條長白布，披在左肩上，前面從右腋下穿過，右肩袒露出來——在佛教這樣的穿著象徵恭敬。
 
-美喬頂禮主持出家儀式的長老阿姜坎攀三次，雙手合十夾著蠟燭、香和蓮花，她皈依佛；皈依法——佛陀至高無上的教導；皈依僧——四雙八輩男女和合眾。接著，她莊重發願一心持守凈戒，在大眾前正式唸誦美琪的基本戒：不傷害生命；不偷盜；不淫；不妄語；不飲酒；不非時食；不歌舞觀聽；不塗飾香鬘；不坐臥高廣華麗床座。
+美喬頂禮主持出家儀式的長老阿瞻坎攀三次，雙手合十夾著蠟燭、香和蓮花，她皈依佛；皈依法——佛陀至高無上的教導；皈依僧——四雙八輩男女和合眾。接著，她莊重發願一心持守凈戒，在大眾前正式唸誦美琪的基本戒：不傷害生命；不偷盜；不淫；不妄語；不飲酒；不非時食；不歌舞觀聽；不塗飾香鬘；不坐臥高廣華麗床座。
 
-美喬唸誦完戒條，阿姜坎攀看著她，說他將詳細解釋每一條戒，要她仔細聽：
+美喬唸誦完戒條，阿瞻坎攀看著她，說他將詳細解釋每一條戒，要她仔細聽：
 
 **「皈依佛法僧三寶是每一個佛教徒追求佛道的第一步，也是最根本的一步。佛陀是圓滿覺悟的典範，是修道者的導師，皈依了佛，就是把佛陀當作導師，同時也立誓不再皈依其他不正確的對象；法是追求圓滿覺悟的道路，亦是圓滿的真理，皈依了法，就是把真理作為目標，同時也立誓不再跟隨錯誤的教導和邪道；僧是追求圓滿覺悟者的化現，皈依了僧，也就把僧伽當作庇護，同時也立誓不再與愚癡的人和乖離正法的人為伍；這樣皈依佛法僧三寶，也就是向圓滿覺悟者立下承諾，同時也願意遵守最基本的克制。**
 
@@ -41,7 +41,7 @@
 
 **「持戒不單單是不作惡，也要實踐所有的善法。持戒約束我們的心，不做會帶來苦惱的惡行，另外也凈化我們的心和行為，趨向解脫。這八戒是一切佛法修行最重要的基礎，是出家律的根本。要牢牢記住，戒的修行是解脫道的部分，所以要好好努力，恭敬端莊地持凈戒。」**
 
-阿姜坎攀針對性開示激勵美喬之後，就替她主持正式出家為美琪的儀式。至此，美琪喬終於圓了她這一輩子的願。
+阿瞻坎攀針對性開示激勵美喬之後，就替她主持正式出家為美琪的儀式。至此，美琪喬終於圓了她這一輩子的願。
 
 ------
 
@@ -49,7 +49,7 @@
 
 ------
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
@@ -61,5 +61,6 @@
 
 
 ..
+  06-23 rev. 阿姜 → 阿瞻
   2023-06-18, create rst on 2023-06-16
 

@@ -3,13 +3,13 @@
 =============================================
 
 :date: 2023-06-16
-:modified: 2023-06-18
+:modified: 2023-06-23
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 野豬（美琪喬——一位阿羅漢尼修道證果之旅）
 
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
@@ -31,7 +31,7 @@
 
 第二天天亮，美琪喬在大殿跟其他出家人一起時低聲告訴他們這起匪夷所思的事件。她詳細講述情節，確保大家瞭解整個情況，以便假使那家獵人等下拿野豬肉供養時，他們能慈悲地接受那頭野豬的佈施。她懇請每個人都吃些野豬肉，以尊敬它布施的發心，並且希望這樣能幫助它往生人道。
 
-果然不出所料，稍遲些，獵人阿黑的太太到來寺院，她帶了一些烤野豬肉，很恭敬地供養阿姜坎攀和僧眾。他們問她從哪裡得來野豬肉時，她告知詳情，一切都跟美琪喬敘說的相符。所有的出家人都接受這份供養，希望他們慈悲的做法多少減輕這可憐生命的痛苦。
+果然不出所料，稍遲些，獵人阿黑的太太到來寺院，她帶了一些烤野豬肉，很恭敬地供養阿瞻坎攀和僧眾。他們問她從哪裡得來野豬肉時，她告知詳情，一切都跟美琪喬敘說的相符。所有的出家人都接受這份供養，希望他們慈悲的做法多少減輕這可憐生命的痛苦。
 
 美琪喬看到渴愛聯繫著死亡與再生，把生命導入一連串無止境的憂悲苦惱當中。她遇到許多人受貪婪的扭曲和憎恨的驅使，當他們在茫茫的無明大海中既沒有依靠，也沒有目標地漂浮時，被過去深重的業力連累而往下沉。困在惡道中的神識在最需要福德資糧時沒有福德資糧，這些餓鬼在過去世生在人道時沒有養成無私地佈施的習慣，忽略道德的保護力量。得到人身沒有累積福德資糧，死後神識墮入黑暗的惡道中，就幾乎不可能再積德了。這些孤魂野鬼自己沒有可以依賴的福德，只能靠別人救濟。要是在人道中的善人沒有發心把身語意三業的功德迴向給它們，那麼這些餓鬼就活在極度貧困匱乏中，完全沒有辦法趨向善道，唯有繼續承受惡業的悲慘報應，等待過去做壞事或者茍且造惡的果報耗盡。在美琪喬看來，餓鬼就像流浪的動物，在貧困恐怖的環境漂泊，受心靈匱乏所困擾，沒有主人照顧。這些陷入惡業果報的眾生，無論生在哪一道，並沒什麼差別，因為它們的痛苦和悲慘沒有止境。
 
@@ -41,7 +41,7 @@
 
 ------
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
@@ -53,5 +53,6 @@
 
 
 ..
+  06-23 rev. 阿姜 → 阿瞻
   2023-06-18, create rst on 2023-06-16
 

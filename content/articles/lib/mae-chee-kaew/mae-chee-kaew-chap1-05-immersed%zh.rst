@@ -3,17 +3,17 @@
 ===============================================
 
 :date: 2023-06-16
-:modified: 2023-06-18
+:modified: 2023-06-23
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 農家忙（美琪喬——一位阿羅漢尼修道證果之旅）
 
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
-阿姜曼離開之後，達白沉默寡言下來。她停止了禪修，讓她生命陶醉其中的喜悅和興奮黯淡下來，最終消失。達白生性害羞，不愛交際，面臨這樣的處境，她投入工作，把時間排得滿滿。
+阿瞻曼離開之後，達白沉默寡言下來。她停止了禪修，讓她生命陶醉其中的喜悅和興奮黯淡下來，最終消失。達白生性害羞，不愛交際，面臨這樣的處境，她投入工作，把時間排得滿滿。
 
 達白手邊總有忙不完的活，沒有片刻消停。她開始種棉花、藍靛樹還有養蠶的桑樹。她也著手紡織工作，包括梳棉，把白絨絨的棉球紡成一卷卷的紗，再編織成布。她會坐在織布機前好幾個小時，把蠶絲和棉紗織成布，然後縫製成寬鬆的裙子和襯衫等，再染上藍色漂亮的圖案，染料是她從割下的藍靛磨碎提煉而成的。另外她也小心裁剪縫紉適合鄉下做粗工用的衣著。
 
@@ -21,7 +21,7 @@
 
 她還經常在冷冽的森林裡跋涉一整天採集野菜，憑著味道和顏色形狀辨別各種可食用的瓜果菌蕨等。傍晚時分回到家以後，她會把滿籃子的收穫分類處理，清洗削皮切片，再加魚和肉等佐料烹飪，煮成美味營養的一餐。
 
-達白多才多藝成了村子裡的風頭人物，在普泰族社會，傳統手藝精湛的年輕女孩子備受讚賞，會是個好媳婦。而刻苦耐勞，踏實，順從家庭和傳統的個性，還有孝親敬老的行為，使得她更加出色。不久，開始有人上門提親，其中一個是住在附近，小達白一歲的布嘛，他鼓起勇氣向女方家長提親。這時達白依然沉浸在阿姜曼的教導中，沒有心思談戀愛，也沒有認真想過要結婚。但是她的父母接受了布嘛的提親，達白不忍違逆他們的意願，只好接受這樁婚事。看來達白無法擺脫塵世的糾纏——至少暫時如此。
+達白多才多藝成了村子裡的風頭人物，在普泰族社會，傳統手藝精湛的年輕女孩子備受讚賞，會是個好媳婦。而刻苦耐勞，踏實，順從家庭和傳統的個性，還有孝親敬老的行為，使得她更加出色。不久，開始有人上門提親，其中一個是住在附近，小達白一歲的布嘛，他鼓起勇氣向女方家長提親。這時達白依然沉浸在阿瞻曼的教導中，沒有心思談戀愛，也沒有認真想過要結婚。但是她的父母接受了布嘛的提親，達白不忍違逆他們的意願，只好接受這樁婚事。看來達白無法擺脫塵世的糾纏——至少暫時如此。
 
 達白跟布嘛按照普泰族傳統在剛入雨季時結婚，那年達白十七歲。根據習俗，婚後達白搬過去跟夫家一起住，那是一個離她娘家不遠的大家族。他們住在一棟很大間，用茅草作屋頂的高腳木屋。來到這裡達白成為家族裡最年輕的一員，也理所當然地成為日常勞作的主力，倔強堅韌的個性讓她挑起種種重擔。
 
@@ -53,7 +53,7 @@
 
 ------
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
@@ -65,5 +65,6 @@
 
 
 ..
+  06-23 rev. 阿姜 → 阿瞻
   2023-06-18 proved by A-Liang, 06-18, create rst on 2023-06-16
 

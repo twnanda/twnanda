@@ -1,19 +1,31 @@
-===============================================
-後記
-===============================================
+=============================================
+後記（美琪喬——一位阿羅漢尼修道證果之旅）
+=============================================
 
 :date: 2023-06-16
-:modified: 2023-06-16
+:modified: 2023-06-23
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 後記（美琪喬——一位阿羅漢尼修道證果之旅）
 
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
-建構中！
+阿瞻因噠崴是泰國森林佛教傳承德高望重的長老，他特別推崇美琪喬以及她留下給後世那些不朽的遺產。長老在卉曬村附近誕生，十一歲出家當沙彌，從小就認識美琪喬。據說他們倆過去有許多世在佛道上結下深厚的法緣——美琪喬本身也經常確認這點。
+
+葬禮不久之後，阿瞻因噠崴發願要建一座塔，以塑像和影象紀念美琪喬清凈的悲憫心和她樸素莊嚴的威儀。他設想在一個地方建塔，讓各界人士可以在一起追憶這位阿羅漢尼的殊勝功德，頂禮她的舍利。
+
+經過多年詳細的計劃，阿瞻因噠崴終於實現了他的心願。他跟一群來自曼谷的鐵道工程師一起設計和建築紀念塔，塔的結構分兩部分，下部是寬大的梯形塔身，上部是往上逐漸狹小，高聳美觀的尖頂。紀念塔矗立在卉曬女眾道場附近一塊平坦的高地上，從地面到塔頂有八十英尺高，非常壯觀。紀念塔周圍環繞著水池，池面開滿粉紅色和紫色的蓮花。池邊圍繞著熱帶花卉，花下鋪滿石頭，往內一圈是修剪整齊的灌木。塔的外邊種了一排遮蔭的高樹。整個環境氛圍格外寧靜安詳。
+
+二〇〇六年五月二十一日，美琪喬紀念塔正式開幕。自此以後，這裡成了世界各地虔誠佛教徒朝聖的其中一個地點。
+
+紀念塔裡面，美琪喬像寶石那樣璀璨的舍利顯著地擺在供桌上。這裡有三尊真人大小的美琪喬塑像；一尊是混合材料製作的立像，安置在亭子裏；一尊是精緻的蠟像——美琪喬披著白袍的坐像，安奉在第二層的佛臺上；還有一尊美琪喬行禪的玻璃纖維像，則擺在第一層最顯眼的地方。塔第二層精致的銅門銅窗，是由泰國著名的藝術家設計製作。
+
+美琪喬的舍利正式安奉入塔時，阿瞻摩訶布瓦慈悲地主持開幕儀式。開示道：
+
+**「我們今天這個吉祥的法會，是要向阿瞻曼的聖弟子美琪喬致敬。美琪喬的遺骨已經變成晶瑩剔透的舍利了。證阿羅漢果跟性別沒有關係，任何人，不管是男是女，只要透過圓滿的修行功德熄滅內心所有的煩惱，就成為阿羅漢。美琪喬是我們殊勝的典範，每個人都應該努力向她學習，圓滿自己內心的功德。誠心誠意恭敬她無上的果證，就跟頂禮佛法僧三寶一樣，大家可以皈依她純一滿凈的功德。」**
 
 ------
 
@@ -21,7 +33,7 @@
 
 ------
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
@@ -33,5 +45,5 @@
 
 
 ..
-  create rst on 2023-06-16
+  2023-06-23, create rst on 2023-06-16
 

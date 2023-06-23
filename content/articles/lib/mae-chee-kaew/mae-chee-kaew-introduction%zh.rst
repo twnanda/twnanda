@@ -3,13 +3,13 @@
 =============================================
 
 :date: 2023-06-16
-:modified: 2023-06-16
+:modified: 2023-06-23
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 導讀（美琪喬——一位阿羅漢尼修道證果之旅）
 
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
@@ -43,9 +43,9 @@
 
 我把蒐集到的事蹟依照歷史脈絡描寫美琪喬的生平，撰成一本敘事性的傳記。我根據所能找到的資料，她講過的話，她同輩說過的話，以及當時發生過的事，按照時間和文化為經緯架構她的一生。
 
-我撰寫的事蹟編輯自許多泰文資料，在這方面要衷心感謝阿姜摩訶布瓦，在他的開示和著作中，有許多美琪喬禪修的關鍵細節，另外我也引用他對解脫知見和般若細膩的解釋來建構美琪喬證悟的次第。美琪喬是阿姜摩訶布瓦座下最為利根的弟子之一，而他也確鑿無疑地印可了她的果證。
+我撰寫的事蹟編輯自許多泰文資料，在這方面要衷心感謝阿瞻摩訶布瓦，在他的開示和著作中，有許多美琪喬禪修的關鍵細節，另外我也引用他對解脫知見和般若細膩的解釋來建構美琪喬證悟的次第。美琪喬是阿瞻摩訶布瓦座下最為利根的弟子之一，而他也確鑿無疑地印可了她的果證。
 
-阿姜因噠崴是完成本書的重要助緣，由於他從小就親近美琪喬，因此知道許多重要的文化背景和當年事情的具體過程。美琪喬還在世的親戚也告知她家庭生活的詳細情節，包括出家最初幾年的各種人事概況。鶣絲麗醫生在美琪喬晚年時給予她周詳的看護，清楚記得美琪生命最後歲月的點點滴滴，她給我分享這些前塵往事，以及許多美琪親口告訴看護們的精彩故事。
+阿瞻因噠崴是完成本書的重要助緣，由於他從小就親近美琪喬，因此知道許多重要的文化背景和當年事情的具體過程。美琪喬還在世的親戚也告知她家庭生活的詳細情節，包括出家最初幾年的各種人事概況。鶣絲麗醫生在美琪喬晚年時給予她周詳的看護，清楚記得美琪生命最後歲月的點點滴滴，她給我分享這些前塵往事，以及許多美琪親口告訴看護們的精彩故事。
 
 我把這些素材編織在一起描繪她的一生。然而，在這些不同的文字和口述材料當中，存在著許多矛盾和不一致之處，有時候同一件事有不同版本，還有一些事件完全沒有留下具體內容。結果我得憑想像來補充她生活和修行的細節，增添生動的情景，以便把她塑造成一位充滿幹勁、形象鮮明和成就非凡的女性。這本傳記相對而言注重敘事多於學術，旨在激發真誠修行者的道心。有鑑於此，本書的內容主要是引導讀者一起來探索，在佛道上一顆圓滿解脫的心，究竟有多麼深奧和微妙。
 
@@ -55,7 +55,7 @@
 
 ------
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
@@ -67,5 +67,6 @@
 
 
 ..
+  06-23 rev. 阿姜 → 阿瞻
   create rst on 2023-06-16
 

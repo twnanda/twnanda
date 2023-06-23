@@ -3,19 +3,19 @@
 ===========================================================
 
 :date: 2023-06-16
-:modified: 2023-06-18
+:modified: 2023-06-23
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 通往其他世界的關口（美琪喬——一位阿羅漢尼修道證果之旅）
 
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
 住在皋山這段時期，美琪喬常常在深夜坐禪時經歷各種特殊的境界，都是聞所未聞，匪夷所思的體驗。從深定稍微退出來，美琪喬的心會進入一個她所熟悉，心靈能量交織的世界，這個世界有不同的領域，存在各種心靈眾生，有些來自黑暗，低層次的領域，在承受著過去惡業的苦果；有些來自光明，高尚的領域，屬於天人或者梵天。
 
-禪定似乎把她帶到一道關口，在這裡不同能量場競相吸引她的心，要引起她的注意。阿姜曼曾經說過這是近行定，警告她在這個層次的定可能會遇到異類眾生的心靈能量，她會輕易受到傷害。同時也告訴她在還沒有踏出這道關口之前，一定要有能力牢牢控制自己的心。美琪喬謹記阿姜曼的指導，但是她天生好奇喜歡冒險，禁不住誘惑溜出去探險。
+禪定似乎把她帶到一道關口，在這裡不同能量場競相吸引她的心，要引起她的注意。阿瞻曼曾經說過這是近行定，警告她在這個層次的定可能會遇到異類眾生的心靈能量，她會輕易受到傷害。同時也告訴她在還沒有踏出這道關口之前，一定要有能力牢牢控制自己的心。美琪喬謹記阿瞻曼的指導，但是她天生好奇喜歡冒險，禁不住誘惑溜出去探險。
 
 出了關口看到的景象令她既恐怖又著迷，整大群沒有軀體的神識包圍著她——有些哀嚎，有些尖叫，有些哭泣——哀求她消除他們過去所造的種種惡業。許許多多的面孔和形體緊緊依附著他們，這些過去世生命的殘餘，就像來自未結束旅程的死亡烙印跟在後面。這些神識全都乞求她的注意、憐憫和護念，以照亮他們黑暗的角落，給予他們希望。
 
@@ -33,7 +33,7 @@
 
 從小到大，美琪喬都深切憐憫畜牲悲慘的命運。她以前每天餵黃牛和水牛時，會抓一把糯米給它們，在它們耳邊親昵地細語：你們在田裏工作，當然也有飯吃。動物受到憐惜跟她很親熱，比如，有時頸項鈴鐺的繩子斷了，那隻牛會直接走到她跟前讓她知道，而不是趁機溜掉。無論如何，美琪喬也瞭解到，儘管這些動物受主人良好的對待，囿於過去的業力，依然一輩子受苦。
 
-美琪喬知道眾生之所以墮入惡道，嗔怒和仇恨是主要的原因。看到這位悲慘的訪客滿是憎心，她教導它內心充滿嗔怒、復仇思想的危害。她警告這只水牛的神識，負面情緒跟來世投生為人的期望起衝突，倘若它真的想做人，一定要控制這些有害的煩惱。
+美琪喬知道眾生之所以墮入惡道，嗔怒和仇恨是主要的原因。看到這位悲慘的訪客滿是憎心，她教導它內心充滿嗔怒、復仇思想的危害。她警告這隻水牛的神識，負面情緒跟來世投生為人的期望起衝突，倘若它真的想做人，一定要控制這些有害的煩惱。
 
 美琪喬繼續告訴它五戒是做人的基本，假使有機會投生為人，它一定要莊重發願遵守這些基本規範。接著她解釋五戒的內容：不可以殺死或傷害其他生命；不准偷盜或者拿別人的東西，比如人家種在園子裏的蔬菜；不准邪淫或者發生不正當的性關係；不准撒謊、故意欺騙別人；還有，不准耽溺於酒或導致神志不清的毒品。
 
@@ -59,7 +59,7 @@
 
 ------
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
@@ -71,5 +71,6 @@
 
 
 ..
+  06-23 rev. 阿姜 → 阿瞻
   2023-06-18, create rst on 2023-06-16
 

@@ -3,17 +3,17 @@
 ==========================================
 
 :date: 2023-06-16
-:modified: 2023-06-16
+:modified: 2023-06-23
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 序（美琪喬——一位阿羅漢尼修道證果之旅）
 
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
-二〇〇七年我住在那坎內森林道場時，住持阿姜因噠崴要求我把美琪喬的傳略翻譯成英文，打算分別以泰文和英文出版。雖然這本傳略相當簡短，但是他慈悲地把收集到關於美琪喬生平的資料供我使用。
+二〇〇七年我住在那坎內森林道場時，住持阿瞻因噠崴要求我把美琪喬的傳略翻譯成英文，打算分別以泰文和英文出版。雖然這本傳略相當簡短，但是他慈悲地把收集到關於美琪喬生平的資料供我使用。
 
 翻譯了這本傳略之後，我決定更深入研究和了解影響美琪喬一生的重要事蹟，包括她修證解脫的每一過程，然後寫一本完整的傳記。在寫作過程中，那坎內森林道場提供安靜適宜的環境，而且在調查工作方面這裡的比丘給了我很大的幫助。這本書每一章節前面美琪喬的法語片段，大部分都是她用母語普泰方言開示的，這對我來說是個難題，要感恩好幾位普泰族比丘的解釋，才得以翻譯出來。
 
@@ -31,7 +31,7 @@
 
 ------
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
+**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
 
 ------
 
@@ -43,5 +43,6 @@
 
 
 ..
+  06-23 rev. 阿姜 → 阿瞻; 阿瞻紹 → 阿瞻韶
   create rst on 2023-06-16
 
