@@ -255,7 +255,7 @@
 
 * `後記 <{filename}mae-chee-kaew-epilogue%zh.rst>`_
 * `美琪喬法語集 <{filename}mae-chee-kaew-collected-teachings%zh.rst>`_
-* 附錄-- 泰國地方、人物、寺院等 `專有名詞羅馬拼音表 <{filename}mae-chee-kaew-term-roman.rst>`_ 
+* 附錄-- 泰國地方、人物、寺院等 `專有名詞羅馬拼音表 <{filename}mae-chee-kaew-term-roman%zh.rst>`_ 
 * 本書 PDF （建構中！）
 
 ------
