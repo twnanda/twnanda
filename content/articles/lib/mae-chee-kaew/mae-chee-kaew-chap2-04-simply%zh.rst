@@ -3,15 +3,11 @@
 ===================================================
 
 :date: 2023-06-16
-:modified: 2023-06-23
+:modified: 2023-06-25
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 擔水時擔水（美琪喬——一位阿羅漢尼修道證果之旅）
 
-
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
-
-------
 
 美琪喬果敢的舉動在社區關係緊密的卉曬村引起一陣不小的波動，牽涉其中的兩個家族都為各自的立場放話。農農寺的女眾都是村子裡的人，難免不受這起鬧劇波及。她們支援美琪喬的決定——大部分甚至鼓勵她那樣做，可是目前的情況卻引起不必要的關注，把村子裡的糾紛帶進寺院，而且寺院太過靠近村子，使得事態越發惡化。
 
@@ -29,7 +25,7 @@
 
 擔水是粗重的體力活，日復一日踏著沉重的步伐，上、下，上、下……美琪喬每天不知疲倦地重複同樣的勞動，道心不曾因此而動搖，她決心把世俗的逆境轉為修行的增上緣，走路時每一步都默唸佛陀，一步一個字，「佛—陀」、「佛—陀」……念得心平靜下來時，感覺身上挑的水桶輕了許多，工作也不再那麼勞累。打開心扉之後，擔水成了簡單的勞動：恰如其分地工作，此時此地，一個腳步接一個腳步，當下了了分明。
 
-美琪喬的幾個哥哥來皋山探望，看到她生活的情況和面對的困苦很是震撼和吃驚。他們深愛著妹妹，為了分擔她的辛苦，體現同甘共苦的精神，便協助女尼來回從小溪擔水到山上。但是要挑足夠六個男眾和五個女眾的用量可不容易，末了他們都累癱了，早先那股幹勁也消失了。
+美琪喬的幾個哥哥來皋山探望，看到她生活的情況和面對的困苦很是震撼和吃驚。他們深愛著妹妹，為了分擔她的辛苦，體現同甘共苦的精神，便協助美琪來回從小溪擔水到山上。但是要挑足夠六個男眾和五個女眾的用量可不容易，末了他們都累癱了，早先那股幹勁也消失了。
 
 他們勸美琪喬回卉曬村，在那裡至少他們可以給個照應。他們也告訴她布嘛已經再婚，他把房子賣了，帶著小喬和家人搬到另一個府去安置新家。美琪喬不為所動，她決定跟隨阿瞻坎攀在皋山過清苦的修道生活。
 
@@ -41,20 +37,9 @@
 
 - 本書 `目錄 <{filename}mae-chee-kaew%zh.rst>`_
 
-------
-
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
-
-------
-
-**備註：**
-
-.. [1] https://forestdhamma.org/2018/06/04/%E7%BE%8E%E7%90%AA%E4%B9%94/
-
-.. [2] https://forestdhamma.org/books/english-books/ 
-
 
 ..
+  06-25 rev. 女尼 → 美琪 and 簡化版權（delete it）
   06-23 rev. 阿姜 → 阿瞻; 阿瞻紹 → 阿瞻韶
   2023-06-18 rev. proved by A-Liang, 06-18, create rst on 2023-06-16
 

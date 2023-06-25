@@ -3,21 +3,17 @@
 =================================================
 
 :date: 2023-06-16
-:modified: 2023-06-23
+:modified: 2023-06-25
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 萬緣放下（美琪喬——一位阿羅漢尼修道證果之旅）
 
 
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
-
-------
-
 美喬出家的日期選在佛曆阿沙陀月（公曆七月）的滿月日。這天萬里晴空，美喬跪在農農寺的男女僧眾前，毫無懊悔地放下這半輩子以來的一切，捨下過去的自己，參與古老、莊嚴簡單的儀式，正式落髮為尼，自誓為美琪。這年美喬三十六歲。
 
 美喬一大早就到寺院準備剃度，她忐忑不安地微笑著向常住尼師打招呼，然後恭敬地坐在一旁，一起用簡單的早齋。用完齋之後，她長久以來追求，捨棄一切過梵行生活的夢想終於得以實現。她身上舊身份的象徵正逐一地脫下，一會兒之後，她蹲在飛滿蝴蝶的井邊，有點不安地把頭伸向美琪棠。這位美琪上首拿著一把鈍剪刀，俐落地在她頭上揮動，把黑油油的長髮一團一團剪下，很快的，只留下一頭雜亂的粗發茬。美喬平靜地看著地上不斷堆積起來的頭髮，思維色身虛幻的本質：頭髮不是我；不是我所有。就如身體的其他部位，頭髮只不過是自然的一部分，是物質世界的一部分，頭髮是屬於世間的，不屬於我的，跟我是誰沒有什麼關係。
 
-接著，美琪棠拿起一把經常使用，刀刃磨得銳利的圓柄剃刀，一刀一刀把發茬給剃掉，露出光亮的面板，最後剩下一顆光禿禿的腦袋。美喬摸撫著光滑的頭頂，發出會心的微笑，沒有一絲眷念。
+接著，美琪棠拿起一把經常使用，刀刃磨得銳利的圓柄剃刀，一刀一刀把發茬給剃掉，露出光亮的皮膚，最後剩下一顆光禿禿的腦袋。美喬摸撫著光滑的頭頂，發出會心的微笑，沒有一絲眷念。
 
 其他的美琪圍繞著替她穿上傳統泰國美琪的白色制服：一件覆蓋腰身以下，裙襬掛到小腿的下裙；一件頸部打鈕釦，長袖的寬鬆上衣；一條長白布，披在左肩上，前面從右腋下穿過，右肩袒露出來——在佛教這樣的穿著象徵恭敬。
 
@@ -47,20 +43,9 @@
 
 - 本書 `目錄 <{filename}mae-chee-kaew%zh.rst>`_
 
-------
-
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
-
-------
-
-**備註：**
-
-.. [1] https://forestdhamma.org/2018/06/04/%E7%BE%8E%E7%90%AA%E4%B9%94/
-
-.. [2] https://forestdhamma.org/books/english-books/ 
-
 
 ..
+  06-25 rev. proofed by A-Liang and 簡化版權（delete it）  
   06-23 rev. 阿姜 → 阿瞻
   2023-06-18, create rst on 2023-06-16
 

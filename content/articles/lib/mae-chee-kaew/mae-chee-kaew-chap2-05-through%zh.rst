@@ -3,15 +3,11 @@
 ===========================================================
 
 :date: 2023-06-16
-:modified: 2023-06-23
+:modified: 2023-06-25
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 通往其他世界的關口（美琪喬——一位阿羅漢尼修道證果之旅）
 
-
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
-
-------
 
 住在皋山這段時期，美琪喬常常在深夜坐禪時經歷各種特殊的境界，都是聞所未聞，匪夷所思的體驗。從深定稍微退出來，美琪喬的心會進入一個她所熟悉，心靈能量交織的世界，這個世界有不同的領域，存在各種心靈眾生，有些來自黑暗，低層次的領域，在承受著過去惡業的苦果；有些來自光明，高尚的領域，屬於天人或者梵天。
 
@@ -57,20 +53,9 @@
 
 - 本書 `目錄 <{filename}mae-chee-kaew%zh.rst>`_
 
-------
-
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
-
-------
-
-**備註：**
-
-.. [1] https://forestdhamma.org/2018/06/04/%E7%BE%8E%E7%90%AA%E4%B9%94/
-
-.. [2] https://forestdhamma.org/books/english-books/ 
-
 
 ..
+  06-25 rev. 簡化版權（delete it）
   06-23 rev. 阿姜 → 阿瞻
   2023-06-18, create rst on 2023-06-16
 

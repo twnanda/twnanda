@@ -3,15 +3,11 @@
 =======================================================
 
 :date: 2023-06-16
-:modified: 2023-06-23
+:modified: 2023-06-25
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 任運自在的覺知（美琪喬——一位阿羅漢尼修道證果之旅）
 
-
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
-
-------
 
 接下來的幾個月，美琪喬的生活沉浸於寧靜穩定的階段，一心專精勇猛禪修。每天用完早齋不久，她就回到偏僻的茅舍那裡，整個早上來回從經行道的一端步行到另一端。經行道成了她竭盡全力摧毀生死輪迴的修道戰場。她經行時往內專注到沒有注意身體的位置，也沒有注意腳底接觸地面。覺知是那麼的投入往內觀察，致使偶爾走出界撞到矮樹叢，她也專注依舊，憑本能回到道上繼續經行，整個心思全神貫注在意識流上。
 
@@ -53,19 +49,8 @@
 
 - 本書 `目錄 <{filename}mae-chee-kaew%zh.rst>`_
 
-------
-
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
-
-------
-
-**備註：**
-
-.. [1] https://forestdhamma.org/2018/06/04/%E7%BE%8E%E7%90%AA%E4%B9%94/
-
-.. [2] https://forestdhamma.org/books/english-books/ 
-
 
 ..
+  06-25 rev. 簡化版權（delete it）
   2023-06-23, create rst on 2023-06-16
 

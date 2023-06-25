@@ -3,15 +3,11 @@
 =====================================================
 
 :date: 2023-06-16
-:modified: 2023-06-23
+:modified: 2023-06-25
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 一輩子的祝福（美琪喬——一位阿羅漢尼修道證果之旅）
 
-
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
-
-------
 
 阿瞻韶在卉曬村這一帶總共停留了三年，起先是在森林一邊，後來遷至另一邊。阿瞻韶在那個地區轉換居住的地點時，達頌一直跟隨著他們，提議新的搬遷地點，然後跟朋友一起搭小茅舍給僧團。
 
@@ -58,7 +54,7 @@
 
 **「我們的身體是無常的，生了下來必定會死亡；我們的心是永恒的，它沒有生，也不會隨著身體死去。心隨著因緣的牽引恒常移動、旋轉和變化。」**
 
-阿瞻曼繼續用手杖的尖端有節奏地敲屍體，一面敲一面重申這個道理。隨著輕輕的敲打，她的屍體開始腐爛，每敲一次，屍體就腐爛得更厲害，首先是面板膨脹起來裂開，露出裡面的肌肉，接著肌肉也開始潰爛，露出骨頭和內部的器官。
+阿瞻曼繼續用手杖的尖端有節奏地敲屍體，一面敲一面重申這個道理。隨著輕輕的敲打，她的屍體開始腐爛，每敲一次，屍體就腐爛得更厲害，首先是皮膚膨脹起來裂開，露出裡面的肌肉，接著肌肉也開始潰爛，露出骨頭和內部的器官。
 
 達白在一旁看得出神，整具屍體很快就爛剩骨頭。阿瞻曼從骸骨中把心的「心髓」拿起來放在掌上，然後說：
 
@@ -90,20 +86,9 @@
 
 - 本書 `目錄 <{filename}mae-chee-kaew%zh.rst>`_
 
-------
-
-**本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿瞻 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕
-
-------
-
-**備註：**
-
-.. [1] https://forestdhamma.org/2018/06/04/%E7%BE%8E%E7%90%AA%E4%B9%94/
-
-.. [2] https://forestdhamma.org/books/english-books/ 
-
 
 ..
+  06-25 rev. proofed by A-Liang
   06-23 rev. 阿姜 → 阿瞻; 阿瞻紹 → 阿瞻韶
   06-18 rev. proofed by A-Liang
   2023-06-17, create rst on 2023-06-16
