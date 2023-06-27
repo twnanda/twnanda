@@ -9,6 +9,11 @@
 :summary: 美琪喬——一位阿羅漢尼修道證果之旅
 
 
+.. container:: index-page-image
+
+  .. image:: {filename}/extra/img/cover-mae-chee-kaew.jpg
+     :alt: Cover of "Mae Chee Kaew"
+
 美琪喬是個鄉下婦女，過著泰國東北部普通農村簡單的生活，她克服重重困難，離家追尋佛陀的聖道。美琪喬有很好的因緣，遇到幾位當代最著名的禪師，她認真遵從他們的指導，精進用功修就一顆清明和任運自在的心。她的堅忍、勇氣、還有直觀的智慧讓她超越一切世俗的局限，從苦難中解脫。
 
 ------
@@ -16,6 +21,18 @@
 **本傳統中文體版取材自：** 同名（《美琪喬》） 簡體中文版  `PDF <https://forestdhamma.org/ebooks/chinese/pdf/mck-chinese.pdf>`__ 〔2016, 捷平 翻譯，馬來西亞，傳承出版社； [1]_ 譯自 2009 阿姜 戒寶 (Ajaan Dick Sīlaratano) 編輯之英文版 `Mae Chee Kaew- Her Journey to Spiritual Awakening and Enlightenment <https://forestdhamma.org/ebooks/english/pdf/Mae_Chee_Kaew.pdf>`__ , PDF; other format:  [2]_ 〕 [3]_
 
 ------
+
+.. container:: index-page-image
+
+  .. image:: {filename}/extra/img/mae-chee-kaew-foto1.jpg
+     :alt: Foto 1 of "Mae Chee Kaew"
+
+
+.. container:: index-page-image
+
+  .. image:: {filename}/extra/img/mae-chee-kaew-foto2.jpg
+     :alt: Foto 2 of "Mae Chee Kaew"
+
 
 - `序 <{filename}mae-chee-kaew-preface%zh.rst>`_
 
