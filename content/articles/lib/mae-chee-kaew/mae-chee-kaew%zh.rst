@@ -3,7 +3,7 @@
 =====================================
 
 :date: 2023-06-16
-:modified: 2023-06-23
+:modified: 2023-06-28
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 美琪喬——一位阿羅漢尼修道證果之旅
@@ -13,6 +13,9 @@
 
   .. image:: {filename}/extra/img/cover-mae-chee-kaew.jpg
      :alt: Cover of "Mae Chee Kaew"
+     :scale: 35 %
+     :align: center
+
 
 美琪喬是個鄉下婦女，過著泰國東北部普通農村簡單的生活，她克服重重困難，離家追尋佛陀的聖道。美琪喬有很好的因緣，遇到幾位當代最著名的禪師，她認真遵從他們的指導，精進用功修就一顆清明和任運自在的心。她的堅忍、勇氣、還有直觀的智慧讓她超越一切世俗的局限，從苦難中解脫。
 
@@ -26,13 +29,15 @@
 
   .. image:: {filename}/extra/img/mae-chee-kaew-foto1.jpg
      :alt: Foto 1 of "Mae Chee Kaew"
-
+     :scale: 35 %
+     :align: center
 
 .. container:: index-page-image
 
   .. image:: {filename}/extra/img/mae-chee-kaew-foto2.jpg
      :alt: Foto 2 of "Mae Chee Kaew"
-
+     :scale: 35 %
+     :align: center
 
 - `序 <{filename}mae-chee-kaew-preface%zh.rst>`_
 
@@ -321,6 +326,8 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  06-28 rev. set scale of foto=35 %
+  06-27 add cover and fotoes
   06-23 add chap. 2-09 ~ the end and rev. 阿姜 → 阿瞻; 阿瞻紹 → 阿瞻韶
   06-18 add chap. 2-05 ~ 2-08 and some files proved by A-Liang; add chap. 2-01 ~ 2-04 and some files proved by A-Liang; chap. 1-04 ~ 1-06 
   06-17 add chap. 1-02 & 1-03
