@@ -3,7 +3,7 @@
 =====================================
 
 :date: 2023-06-16
-:modified: 2023-06-28
+:modified: 2023-06-29
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 美琪喬——一位阿羅漢尼修道證果之旅
@@ -13,7 +13,8 @@
 
   .. image:: {filename}/extra/img/cover-mae-chee-kaew.jpg
      :alt: Cover of "Mae Chee Kaew"
-     :scale: 35 %
+     :width: 904
+     :height: 1341
      :align: center
 
 
@@ -29,14 +30,16 @@
 
   .. image:: {filename}/extra/img/mae-chee-kaew-foto1.jpg
      :alt: Foto 1 of "Mae Chee Kaew"
-     :scale: 35 %
+     :width: 904
+     :height: 1341
      :align: center
 
 .. container:: index-page-image
 
   .. image:: {filename}/extra/img/mae-chee-kaew-foto2.jpg
      :alt: Foto 2 of "Mae Chee Kaew"
-     :scale: 35 %
+     :width: 904
+     :height: 1341
      :align: center
 
 - `序 <{filename}mae-chee-kaew-preface%zh.rst>`_
@@ -326,6 +329,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  06-29 rev. replace scale of foto=35 % with width: 904, height: 1341
   06-28 rev. set scale of foto=35 %
   06-27 add cover and fotoes
   06-23 add chap. 2-09 ~ the end and rev. 阿姜 → 阿瞻; 阿瞻紹 → 阿瞻韶
