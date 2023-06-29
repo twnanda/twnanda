@@ -13,8 +13,8 @@
 
   .. image:: {filename}/extra/img/cover-mae-chee-kaew.jpg
      :alt: Cover of "Mae Chee Kaew"
-     :width: 904
-     :height: 1341
+     :width: 452
+     :height: 670
      :align: center
 
 
@@ -30,16 +30,16 @@
 
   .. image:: {filename}/extra/img/mae-chee-kaew-foto1.jpg
      :alt: Foto 1 of "Mae Chee Kaew"
-     :width: 904
-     :height: 1341
+     :width: 452
+     :height: 670
      :align: center
 
 .. container:: index-page-image
 
   .. image:: {filename}/extra/img/mae-chee-kaew-foto2.jpg
      :alt: Foto 2 of "Mae Chee Kaew"
-     :width: 904
-     :height: 1341
+     :width: 452
+     :height: 670
      :align: center
 
 - `序 <{filename}mae-chee-kaew-preface%zh.rst>`_
@@ -329,7 +329,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
-  06-29 rev. replace scale of foto=35 % with width: 904, height: 1341
+  06-29 rev. replace scale of foto=35 % with width: 904, height: 1341 (50%), then width: 452, height: 670 (25%original)
   06-28 rev. set scale of foto=35 %
   06-27 add cover and fotoes
   06-23 add chap. 2-09 ~ the end and rev. 阿姜 → 阿瞻; 阿瞻紹 → 阿瞻韶
