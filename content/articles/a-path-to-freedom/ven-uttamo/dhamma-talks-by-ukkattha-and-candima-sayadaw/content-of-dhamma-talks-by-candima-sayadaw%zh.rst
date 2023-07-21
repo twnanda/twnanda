@@ -1,6 +1,6 @@
-============================================================================
-Content of "A Noble Search" [Dhamma Talks by Sayadaw U Candima (Sandima)]
-============================================================================
+=========================================================
+Content of Dhamma Talks by Sayadaw U Candima (Sandima)
+=========================================================
 
 :date: 2022-02-13
 :modified: 2023-06-21
@@ -10,6 +10,15 @@ Content of "A Noble Search" [Dhamma Talks by Sayadaw U Candima (Sandima)]
 
 
 Translation based on the recorded tapes (Burmese) by Bhikkhu Uttamo
+
+------
+
+`Content of "Right Samādhi and Right Insight"`_
+
+------
+
+Content of "A Noble Search" 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - `Introduction <{filename}introduction-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
 
@@ -38,10 +47,6 @@ Translation based on the recorded tapes (Burmese) by Bhikkhu Uttamo
 
 ------
 
-revised on 2023-06-21
-
-------
-
 - `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Bhikkhu Uttamo
 
 ------
@@ -58,9 +63,42 @@ These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bo
 
 ------
 
+Content of "Right Samādhi and Right Insight" 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- `Introduction to Right Samādhi and Right Insight <{filename}right-samaadhi-and-right-insight-introduction%zh.rst>`_ (Dhamma Talks by Sayadaw U Candima)
+
+- `On Basic Meditation <{filename}candima-on-basic-meditation%zh.rst>`_
+
+- `Pain and Samādhi-b <{filename}right-samaadhi-and-right-insight-pain-and-samadhi%zh.rst>`_
+
+- `Dealing with Pain in Samādhi Practice <{filename}candima-dealing-with-pain-in-samadhi-practice%zh.rst>`_
+- `On Ānāpāna Samādhi <{filename}candima-on-anapana-samadhi%zh.rst>`_ 
+
+- `A Scales Like Samādhi <{filename}candima-a-scales-like-samadhi%zh.rst>`_ 
+
+- `Diamond Meditation <{filename}candima-diamond-meditation%zh.rst>`_ 
+
+- `Bhavaṅga Meditation <{filename}candima-bhavanga-meditation%zh.rst>`_ 
+
+- `After Samādhi, Develop Vipassanā <{filename}candima-after-samadhi-develop-vipassana%zh.rst>`_
+
+- Samādhi Practices
+
+  * 1. `The First Stage <{filename}right-samaadhi-and-right-insight-first-stage%zh.rst>`_ of Purification of The Mind (Cittavisuddhi)
+
+  * 2. `The Second Stage <{filename}right-samaadhi-and-right-insight-second-stage%zh.rst>`_ of Purification of The Mind
+
+  * 3. `The Third Stage <{filename}right-samaadhi-and-right-insight-third-stage%zh.rst>`_ of Purification of The Mind
+
+  * `Conclusion <{filename}right-samaadhi-and-right-insight-conclusion%zh.rst>`_ 
+
+------
+
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-20 add Right Samādhi and Right Insight
   06-21 add appendix 2
   2023-06-10 add the linkings of mp3 & Youtube
   08-10 rev. full-text and cover of Bound volume of "Two Sides of A Coin" and "A Noble Search"
