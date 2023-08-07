@@ -3,7 +3,7 @@ Conclusion (Right Samādhi and Right Insight)
 ================================================
 
 :date: 2023-07-20
-:modified: 2023-07-20
+:modified: 2023-07-30
 :tags: Bhikkhu Uttamo, Sayadaw U Candima, Right Samādhi, Right Insight, cittavisuddhi, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Conclusion (Right Samādhi and Right Insight)
@@ -39,7 +39,7 @@ Recommendation for reading:
         | For ebook and audiobook download see forestsangha.org
         | 
 
-(3) Beyond Birth: An Autobiography by Phra Agahn Suchart Abhijāto
+(3) Beyond Birth: An Autobiography by Phra Ajahn Suchart Abhijāto
 
         | Website: phrasuchart.com
         | 	
@@ -51,7 +51,7 @@ Recommendation for reading:
 
 ------
 
-revised on 2023-07-20
+revised on 2023-07-30
 
 ------
 
@@ -68,4 +68,5 @@ revised on 2023-07-20
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-30 rev. old:Phra Agahn Suchart Abhijāto
   2023-07-20 create rst

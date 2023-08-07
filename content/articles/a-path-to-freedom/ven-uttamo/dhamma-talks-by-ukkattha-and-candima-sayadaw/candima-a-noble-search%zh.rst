@@ -3,7 +3,7 @@ A Noble Search [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ===============================================================
 
 :date: 2022-02-13
-:modified: 2023-06-08
+:modified: 2023-07-30
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Noble Search (Dhamma Talks by Sayadaw U Candima)
@@ -164,7 +164,7 @@ After seeing my parents at home, I returned to the monastery.
 
 Then I met the female followers (upāsikās) again at Taik-koe-lone (Nine Buildings). At present with respect, and over faith (saddhā) became craving (taṇhā). I thought they were extreme, and also didn’t know me before. And then I went to talk to Sayadaw about it (U Chandima did not mention what really happened to him, anyhow he was extremely careful about his practice, and monk life). 
 
-After listening to me, he said; “Yes, you can’t continue to stay here. If you continue to stay here there will be danger.” So he sent me to The-inn Gu Meditation Center in Maw-be. At night, when I sat for meditation, and understood the reality behind the incident. In my past life (it seemed the near past life) I had practiced here as a monk. At that time this place was a deep forest (in Thailand at the beginning of the 20th century villages, and forests did not have clear boundaries. Outside the villages were forests.) Every day on alms round I left some extra food for a group of cats’ family in the forest. This group of cats came, and ate these foods. Therefore, I had intimacy with these cats, because of the past fetters (saṁyojana) it continued to this present life. So I didn’t see any faults in them, and went to The-inn Gu Center for my practice. 
+After listening to me, he said; “Yes, you can’t continue to stay here. If you continue to stay here there will be danger.” So he sent me to The-inn Gu Meditation Center in Maw-be. At night, when I sat for meditation, and understood the reality behind the incident. In my past life (it seemed the near past life) I had practiced here as a monk. At that time this place was a deep forest. (at the beginning of the twentieth century, in Thailand, there were also no clear boundaries between villages and forests. Outside the villages were the forests.) Every day on alms round I left some extra food for a group of cats’ family in the forest. This group of cats came, and ate these foods. Therefore, I had intimacy with these cats, because of the past fetters (saṁyojana) it continued to this present life. So I didn’t see any faults in them, and went to The-inn Gu Center for my practice. 
 
 (In Mae-chi Kaaw Siamlam’s biography mentioned one of her past lives as a mother hen with some chicks were wandering around a monastery, and looking for foods, insects, and rice grains. Nowadays, humans are closer to animals than before or ever. They created more kammic links with all sorts of animals; using animals in many ways with a lot of exploitation on animals, sometimes in very cruel ways. Today men talk a lot about human rights, and also use it wrongly. Do they ever think about animal rights? With animals, humans create a lot of environmental problems around the world.) 
 
@@ -529,7 +529,7 @@ There is a saying in Zen (Chan) tradition—before the practice river is river, 
 
 ------
 
-revised on 2022-08-05
+revised on 2023-07-30
 
 ------
 
@@ -544,6 +544,7 @@ revised on 2022-08-05
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-30 rev. old: in Thailand at the beginning of the 20th century villages, and forests did not have clear boundaries.
   2023-06-08 rev. proofread by bhante
   12-28 rev. proofread by bhante, old: U Chandima was suing a lot of (on 12-14)
   08-05 rev. proofread by bhante

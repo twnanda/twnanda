@@ -3,7 +3,7 @@ Introduction to Right Samādhi and Right Insight
 ===================================================
 
 :date: 2023-07-20
-:modified: 2023-07-20
+:modified: 2023-08-02
 :tags: Introduction, Bhikkhu Uttamo, Right Samādhi, Right Insight, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Introduction to Right Samādhi and Right Insight [Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)]
@@ -13,6 +13,8 @@ Translation by Bhikkhu Uttamo
 ------
 
 `STILL, Flowing Water`_
+
+`A Noble Search`_
 
 ------
 
@@ -68,6 +70,11 @@ There are three important suttas in his teaching—those are: Āsīvisopama Sutt
 I have a purpose for writing this long article. The most recent books (“Two Sides of a Coin” and “A Noble Search”) are life stories told by The-inn Gu Sayadaw and Sayadaw U Candima themselves to inspire readers. There I have translated only some of his talks (i.e. U Candima's Dhamma) on the practice of samadhi and some controversies with Buddhists about the nature of right samadhi and true insight. I relied on some of his instructional talks in his nine days retreat for yogis. These recorded talks were not complete and mixed up with some of his Dhamma talks to lay people. I don't even have a clear understanding of them myself (all of them are compiler errors). Now, I base this essay on his book—“The Way to Stream Entry”.
 
 The reader should use this article to read the autobiographical and Dhamma talk of U Candima, which has the practice of samādhi. I have included only important excerpts from his book so that readers can get a general idea of his life and teaching. I hope that the life and teaching of U Candima will address some of the issues of samādhi and insight faced by the practitioner. 
+
+------
+
+A Noble Search
+~~~~~~~~~~~~~~~~~~~
 
 I entered the Buddhist order near the end of 1975. I did the practice for over a year, and attained the path of stream entry. Only after 20 years the head monk of Suddhamma Sect Sayadaw, and Thom-pho Sayadaw were questioned on my practice. This happened at Nyaung-don Pariyatti Vihāra during the monk ordination ceremony. 
 
@@ -607,4 +614,5 @@ revised on 2023-07-20
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2022-07-20 create rst
+  08-20 add the subtitle "A Noble Search"
+  2023-07-20 create rst
