@@ -12,7 +12,7 @@
 
 - `巴利字典 <http://dictionary.sutta.org/>`_ -- 巴利-英文、中文、日文、越南文、緬甸文 字典(Updated:06.22 '13)
 
-- `呼籲安全地保存佛陀的舍利 <{filename}/extra/relics-of-the-buddha/Relics_of_the_Buddha.html>`_ (07.05 '07)
+- `呼籲安全地保存佛陀的舍利 <{static}/extra/relics-of-the-buddha/Relics_of_the_Buddha.html>`_ (07.05 '07)
 
 - `護持建造一個新的「沙門森林精舍」的主建築 <{filename}/articles/uncategorized/building-a-new-main-house-of-samanadipa-si%zh.rst>`_ (更新:2022-04-06)
 
@@ -48,21 +48,21 @@
 
 - `烏‧ 悉臘禪師（Sayadaw U Sila）禪修通告(元亨禪修營) <http://myweb.ncku.edu.tw/~lsn46/announce.html#meditation-Jun2017>`_
 
-- 聖法大長老禪修營通告(法寂禪林)： `指導禪師：聖法大長老 (Ven. Ariyadhamma Mahathera); 11月18 -- 26日 <{filename}/extra/meditation/meditation-Ariyadhamma-Mahathera-2011-1118.html>`_。 (Updated:09.12 '11)
+- 聖法大長老禪修營通告(法寂禪林)： `指導禪師：聖法大長老 (Ven. Ariyadhamma Mahathera); 11月18 -- 26日 <{static}/extra/meditation/meditation-Ariyadhamma-Mahathera-2011-1118.html>`_。 (Updated:09.12 '11)
 
-- 禪修課程通告(台灣原始佛教協會ＯＢＡ)： `指導禪師：鄔達摩尊者 (Ven. Uttamo); 5月7日 -- 6月19日的每個星期六、日，共7週，14個上課日。 <{filename}/extra/meditation/meditation-Uttamo-2011-May-June.html>`_ (Updated:04.28 '11)
+- 禪修課程通告(台灣原始佛教協會ＯＢＡ)： `指導禪師：鄔達摩尊者 (Ven. Uttamo); 5月7日 -- 6月19日的每個星期六、日，共7週，14個上課日。 <{static}/extra/meditation/meditation-Uttamo-2011-May-June.html>`_ (Updated:04.28 '11)
 
 - 南傳上座部佛教學院 `菩提禪林：2011全年度 長期、短期禪修 <http://www.taiwandipa.org.tw/index.php?url=60-101&prg_no=i&data_master_id=742>`_ 2011.01.01 ~ 12.11; `線上報名 <http://www.taiwandipa.org.tw/index.php?url=60-201&prg_no=i&data_master_id=742>`__
 
-- 三日禪通告(諦觀學佛園)： `指導禪師：悉臘尊者(Bhante U Siila); 2011年4月15~17日。 <{filename}/extra/meditation/meditation-U-Sila-2011-0415-17.html>`__ (Updated:03.24 '11)
+- 三日禪通告(諦觀學佛園)： `指導禪師：悉臘尊者(Bhante U Siila); 2011年4月15~17日。 <{static}/extra/meditation/meditation-U-Sila-2011-0415-17.html>`__ (Updated:03.24 '11)
 
-- 十日禪通啟(鹿野苑妙善寺)： `指導禪師：悉臘尊者(Bhante U Siila); 2011年3月12~21日。 <{filename}/extra/meditation/meditation-U-Sila-2011-0312-21.html>`__ (Updated:02.25 '11)
+- 十日禪通啟(鹿野苑妙善寺)： `指導禪師：悉臘尊者(Bhante U Siila); 2011年3月12~21日。 <{static}/extra/meditation/meditation-U-Sila-2011-0312-21.html>`__ (Updated:02.25 '11)
 
-- 一日禪修通告(十方法界慈善事業基金會)： `指導禪師：悉臘尊者(Bhante U Siila); 2011年3月6日 (週日); 09:00 ~ 17:00 <{filename}/extra/meditation/meditation-U-Sila-2011-0306.html>`__ 。(Updated:02.17 '11)
+- 一日禪修通告(十方法界慈善事業基金會)： `指導禪師：悉臘尊者(Bhante U Siila); 2011年3月6日 (週日); 09:00 ~ 17:00 <{static}/extra/meditation/meditation-U-Sila-2011-0306.html>`__ 。(Updated:02.17 '11)
 
-- 二日禪修通告(淨覺寺)： `指導禪師：悉臘尊者(Bhante U Siila); 2011年2月19、20日(週六、週日) <{filename}/extra/meditation/meditation-U-Sila-2011-0219-20.html>`__ ; 一夜兩天; 週六上午 9 點至週日下午 4 點為止；週六上午八點半報到。(Updated:01.28 '11)
+- 二日禪修通告(淨覺寺)： `指導禪師：悉臘尊者(Bhante U Siila); 2011年2月19、20日(週六、週日) <{static}/extra/meditation/meditation-U-Sila-2011-0219-20.html>`__ ; 一夜兩天; 週六上午 9 點至週日下午 4 點為止；週六上午八點半報到。(Updated:01.28 '11)
 
-- 一日禪修通告(正信)： `指導禪師：悉臘尊者(Bhante U Siila); 2月13日(週日); 09:00 ~ 17:00 <{filename}/extra/meditation/meditation-U-Sila-2011-0213.html>`__ (Updated:01.28 '11)
+- 一日禪修通告(正信)： `指導禪師：悉臘尊者(Bhante U Siila); 2月13日(週日); 09:00 ~ 17:00 <{static}/extra/meditation/meditation-U-Sila-2011-0213.html>`__ (Updated:01.28 '11)
 
 - 法雨道場禪修通告(含短期出家) `指導禪師-- 吉祥尊者(Bhante U Mangala); 2011年3月6日~ 3月18日 <http://dhammarain.online-dhamma.net/Meditation-Retreat/retreat-2011-Mar.html>`__ (Updated:11.13 '10)
 
@@ -72,21 +72,22 @@
 
 - `南傳上座部佛教學院招生簡章(TTBC:TaiwandIpa TheravAda Buddhist College) <http://myweb.ncku.edu.tw/~lsn46/TTBC/TTBC_2008.html>`__ (Updated:12.22 '07)
 
-- `持明寺一個月精進禪修 <{filename}/extra/meditation/meditation-Cu_Min-2008Feb.html>`__ (Updated:12.02 '07)
+- `持明寺一個月精進禪修 <{static}/extra/meditation/meditation-Cu_Min-2008Feb.html>`__ (Updated:12.02 '07)
 
-- `聞思佛學圖書館禪修訊息 <{filename}/extra/meditation/meditation-Wen-Su-2007Dec.html>`_ (Updated:09.08 '07)
+- `聞思佛學圖書館禪修訊息 <{static}/extra/meditation/meditation-Wen-Su-2007Dec.html>`_ (Updated:09.08 '07)
 
-- `嘉義三學苑禪修訊息 <{filename}/extra/meditation/meditation-Ka-Gi-2007Nov.html>`_ (Updated:07.10 '07)
+- `嘉義三學苑禪修訊息 <{static}/extra/meditation/meditation-Ka-Gi-2007Nov.html>`_ (Updated:07.10 '07)
 
 ------
 
-- `您關心同為佛教徒的在臺泰勞嗎？ <{filename}/extra/temples/miau-cim/overseasthai.htm>`_ [87('98)/02/11]
+- `您關心同為佛教徒的在臺泰勞嗎？ <{static}/extra/temples/miau-cim/overseasthai.htm>`_ [87('98)/02/11]
 
 ------
 
 資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2565; (04.06, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2022 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   04.06 2022 add:護持建造一個新的「沙門森林精舍」的主建築
   03.08 add:開印長老-高雄弘法行
   01.07 2018 rev. rm linking of doc; add:2018龍樹林僧團 法寂禪林 禪修營04.05~04.18日 

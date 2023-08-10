@@ -97,13 +97,13 @@
 
   * `本站 <{filename}sn56-011-contrast-reading%zh.rst>`__ －－巴利原典(CSCD)、 **Ven. Bhikkhu Bodhi** (英譯)、莊春江　漢譯、蕭式球　漢譯、 **覓寂尊者**　漢譯、( **坦尼沙羅尊者** 英譯)良稹　漢譯、 **Ven. Thanissaro Bhikkhu** (英譯)
 
-  * `轉法輪經 (PDF) <{filename}/extra/tipitaka/sutta/samyutta/sn56_011-samadhi-buddha.pdf>`__ ，「原始佛法三摩地學會」中譯 (依 **菩提比丘** 之相應部英譯本為主；附《 **菩提比丘** 英譯本》（部份）、《 **坦尼沙羅比丘** 英譯本》、《雜阿含大正藏第379經》；原始出處請參考： `三摩地學會 <http://www.samadhi-buddha.org/>`__  → `三摩地譯著文集 <http://www.tseatw.org/modules/articles/article.php?id=180>`__ - `SN56.011：轉法輪經(先覺、覺法、後覺三寶具足，法輪常轉) : 三摩地學會‧解脫園） <http://www.tseatw.org/modules/articles/article.php?id=180>`__ → `相應部經‧第56諦相應‧011經：轉法輪經 <http://www.samadhi-buddha.org/Theravada/Canon/Cht/Nikaya/sn56_011.pdf>`__ ）
+  * `轉法輪經 (PDF) <{static}/extra/tipitaka/sutta/samyutta/sn56_011-samadhi-buddha.pdf>`__ ，「原始佛法三摩地學會」中譯 (依 **菩提比丘** 之相應部英譯本為主；附《 **菩提比丘** 英譯本》（部份）、《 **坦尼沙羅比丘** 英譯本》、《雜阿含大正藏第379經》；原始出處請參考： `三摩地學會 <http://www.samadhi-buddha.org/>`__  → `三摩地譯著文集 <http://www.tseatw.org/modules/articles/article.php?id=180>`__ - `SN56.011：轉法輪經(先覺、覺法、後覺三寶具足，法輪常轉) : 三摩地學會‧解脫園） <http://www.tseatw.org/modules/articles/article.php?id=180>`__ → `相應部經‧第56諦相應‧011經：轉法輪經 <http://www.samadhi-buddha.org/Theravada/Canon/Cht/Nikaya/sn56_011.pdf>`__ ）
 
   * `Details for SN 56.11 Dhammacakkappavattana <https://suttacentral.net/sn56.11>`__ ( `SuttaCentral <https://suttacentral.net/>`__ [20]_ )
 
 ----
 
-- `S. 56:11 Dhammacakkappavattanasuttam 《轉法輪經》─漢巴對讀分析、文法分析、法義加油站 <{filename}/extra/tipitaka/sutta/samyutta/sn56.011-nikaya_selected.html>`__ ─　整理者： **釋性恩(Dhammajivi)** （摘自《尼柯耶》選讀：巴利學習系列Ⅱ.）； `PDF <{filename}/extra/tipitaka/sutta/samyutta/sn56.011-nikaya_selected.pdf>`__ ；　 `ms .doc <{filename}/extra/tipitaka/sutta/samyutta/sn56.011-nikaya_selected.doc>`__
+- `S. 56:11 Dhammacakkappavattanasuttam 《轉法輪經》─漢巴對讀分析、文法分析、法義加油站 <{static}/extra/tipitaka/sutta/samyutta/sn56.011-nikaya_selected.html>`__ ─　整理者： **釋性恩(Dhammajivi)** （摘自《尼柯耶》選讀：巴利學習系列Ⅱ.）； `PDF <{static}/extra/tipitaka/sutta/samyutta/sn56.011-nikaya_selected.pdf>`__ ；　 `ms .doc <{static}/extra/tipitaka/sutta/samyutta/sn56.011-nikaya_selected.doc>`__
 
 - `轉法輪經(講記) <http://www.dhammarain.org.tw/books/run/005.htm>`__ （ `另一連結 <http://dhammarain.online-dhamma.net/books/run/005.htm>`__ ）〔取自 `《轉正法輪》 <http://www.dhammarain.org.tw/books/run/run-all.htm>`__ ；（ `另一連結 <http://dhammarain.online-dhamma.net/books/run/run-all.htm>`__ ） **帕奧禪師** 開示錄〕
 
@@ -179,6 +179,7 @@
 .. [20] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Saṃyutta Nikāya (SN) <https://suttacentral.net/sn>`__  →  SN 56  `Sacca Saṃyutta <https://suttacentral.net/sn56>`__   →  `SN 56.11 <https://suttacentral.net/pi/sn56.11>`__  →  `Details for SN 56.11 Dhamma-cakka­ppavattana <https://suttacentral.net/sn56.11>`__ 。
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   10.22 rename sacca%zh.rst with sn56-sacca-samyutta%zh.rst
   08.11 add:  增壹阿含19.2, 中阿含204羅摩經(部份參照); 08.10 add:  如來所說之一 on title, linking of 諦相應 (四聖諦相應); rev. correct linking of Palikanon.com ; del: Namo tassa bhagavato arahato sammāsambuddhassa 禮敬世尊、阿羅漢、正等正覺者
 

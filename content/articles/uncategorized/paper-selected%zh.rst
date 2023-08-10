@@ -20,10 +20,10 @@
 
   Venerable PIYADASSI THERA(毗那達西長老) 編著；方支/譯
 
-  `線上閱讀 <{filename}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.htm>`__ (HTML)
+  `線上閱讀 <{static}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.htm>`__ (HTML)
   或下載(按滑鼠右鍵,選擇 "另存目標"(Chrome 則為"另存連結為")；便可直接存檔)：
-  `PDF <{filename}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.pdf>`__ (含目錄及書籤功能)或
-  m$ `.DOC 檔 <{filename}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.doc>`__ （取材自： `ftp://ftp.puremind.org.tw/02%20南傳佛教入門資料%2F佛陀的古道.doc <ftp://ftp.puremind.org.tw/02%20南傳佛教入門資料%2F佛陀的古道.doc>`__）
+  `PDF <{static}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.pdf>`__ (含目錄及書籤功能)或
+  m$ `.DOC 檔 <{static}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.doc>`__ （取材自： `ftp://ftp.puremind.org.tw/02%20南傳佛教入門資料%2F佛陀的古道.doc <ftp://ftp.puremind.org.tw/02%20南傳佛教入門資料%2F佛陀的古道.doc>`__）
 
   PDF 繁體版 `另一鍊結 <http://www.brahmavihara.my/theravada-ebooks-download/books-search?format=raw&task=download&fid=22>`__ ； PDF `簡體版 <https://www.dhammatalks.net/Chinese/Ven_Piyadassi_The_Buddhas_Path.pdf>`__
 
@@ -35,13 +35,13 @@
 
   Venerable Narada Mahathera 那爛陀大長老 編著； 釋學愚法師 譯
 
-  線上閱讀或下載： `PDF <{filename}/extra/authors/narada/The-Buddha-and-His-Teachings-Han.pdf>`__
+  線上閱讀或下載： `PDF <{static}/extra/authors/narada/The-Buddha-and-His-Teachings-Han.pdf>`__
 
-  英文版 (English): `PDF (English) <{filename}/extra/authors/narada/The-Buddha-and-His-Teachings.pdf>`__
+  英文版 (English): `PDF (English) <{static}/extra/authors/narada/The-Buddha-and-His-Teachings.pdf>`__
 
 ----
 
-- `當代南傳佛教大師(LIVING BUDDHIST MASTERS) <{filename}/extra/authors/jack-kornfield/living-buddhist-masters/Theravadian-Masters.htm>`_
+- `當代南傳佛教大師(LIVING BUDDHIST MASTERS) <{static}/extra/authors/jack-kornfield/living-buddhist-masters/Theravadian-Masters.htm>`_
 
 ----
 
@@ -49,18 +49,18 @@
 
 - UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
-  Read `on line <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/English/index.htm>`__
-  or `PDF <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/English/Unexpected_Freedom_2009.pdf>`__ (full text);
+  Read `on line <{static}/extra/authors/ajahn-munindo/unexpected-freeodm/English/index.htm>`__
+  or `PDF <{static}/extra/authors/ajahn-munindo/unexpected-freeodm/English/Unexpected_Freedom_2009.pdf>`__ (full text);
   These pages are copied on this server by courtesy of
   `Ven. MUNINDO <https://ratanagiri.org.uk/about/residents>`_ . Another site:dhammatalks.net-- `PDF <http://www.dhammatalks.net/Books9/Ajahn_Munindo_Unexpected_Freedom.pdf>`__ ; download `EPUB <https://forestsangha.org/system/resources/W1siZiIsIjIwMTUvMTAvMjIvOXJiN21scjkyaF9VbmV4cGVjdGVkX0ZyZWVkb21fQWphaG5fTXVuaW5kby5lcHViIl1d/Unexpected%20Freedom%20-%20Ajahn%20Munindo.epub?sha=37d81b16e167262a>`__ or `MOBI <https://forestsangha.org/system/resources/W1siZiIsIjIwMTUvMTAvMjIvNWI3aXZsM3V0aV9VbmV4cGVjdGVkX0ZyZWVkb21fQWphaG5fTXVuaW5kby5tb2JpIl1d/Unexpected%20Freedom%20-%20Ajahn%20Munindo.mobi?sha=0f7aa000697cf184>`__ (from `forestsangha.org <https://forestsangha.org/teachings/books/unexpected-freedom?language=English>`__ )
 
-  漢譯： `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_
+  漢譯： `【意想不到的自由】 <{static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_
   -- 阿姜 穆寧多[穆寧多(牟尼度) 法師]演講輯 (02.06 '08)
 
 ----
 
 - 《煩惱熄滅--　隆波連佛法開示錄與傳略》：
-  `PDF (16.8 MB) <{filename}/extra/authors/ajahn-liem/Ajahn_Liem-No-Worries.pdf>`__ ；
+  `PDF (16.8 MB) <{static}/extra/authors/ajahn-liem/Ajahn_Liem-No-Worries.pdf>`__ ；
   原始出處： `No worries <http://www.dhammatalks.net/Chinese/Ajahn_Liem-No-Worries.pdf>`_
   - 17MB PDF (Original from:
   `for Knowing and Seeing-- a Handful of Leaves <http://www.dhammatalks.net/index2.htm#Chinese>`_);
@@ -72,7 +72,7 @@
 
 ----
 
-- 《禪修心法--正確的修行態度》： `漢譯 <{filename}/extra/authors/shwe_oo_min/What-is-the-Right-Attitude-for-Meditation-Han.html>`__ ; `PDF <{filename}/extra/authors/shwe_oo_min/right_attitude-Han.pdf>`__ (初版!) ( `What is the Right Attitude for Meditation <http://www.vimokkha.com/WHAT%20IS%20THE%20RIGHT%20ATTITUDE%20FOR%20MEDITATION.htm>`__ , Sayadaw Shwe O. Min originally wrote in Burmese, U. Tejaniya translates in English, and Yeh Wenko translates in Chinese from English.) 
+- 《禪修心法--正確的修行態度》： `漢譯 <{static}/extra/authors/shwe_oo_min/What-is-the-Right-Attitude-for-Meditation-Han.html>`__ ; `PDF <{static}/extra/authors/shwe_oo_min/right_attitude-Han.pdf>`__ (初版!) ( `What is the Right Attitude for Meditation <http://www.vimokkha.com/WHAT%20IS%20THE%20RIGHT%20ATTITUDE%20FOR%20MEDITATION.htm>`__ , Sayadaw Shwe O. Min originally wrote in Burmese, U. Tejaniya translates in English, and Yeh Wenko translates in Chinese from English.) 
 
   [緬甸, 西亞多 史歐明禪師 著（Sayadaw Shwe Oo Min 2002年11月辭世; 世壽 89）；
   烏 德旃尼亞 英譯；葉文可 漢譯]
@@ -85,9 +85,9 @@
 
 - `《阿姜曼尊者正傳》 <http://www.charity.idv.tw/r/r.htm>`_ （新版《尊者阿姜　曼傳》，陳在昕、喬正一聯合翻譯。）
 
-- 《尊者阿姜　考‧阿納拉唷》： `正體中文 <{filename}/extra/authors/mahaboowa/Ajaan-Khao-trad-ch-Ver2-1.pdf>`__
+- 《尊者阿姜　考‧阿納拉唷》： `正體中文 <{static}/extra/authors/mahaboowa/Ajaan-Khao-trad-ch-Ver2-1.pdf>`__
   （取自： `One Drive-- Word Online <https://onedrive.live.com/view.aspx?cid=D7A954C2A604BF39&resid=D7A954C2A604BF39%21353&app=WordPdf&authkey=%21AFAgLw-E3vwNCAU>`__ ）；
-  `簡體中文 <{filename}/extra/authors/mahaboowa/Ajaan-Khao-simple-ch-Ver2-1.pdf>`__
+  `簡體中文 <{static}/extra/authors/mahaboowa/Ajaan-Khao-simple-ch-Ver2-1.pdf>`__
   （取自： `One Drive-- Word Online <https://onedrive.live.com/view.aspx?cid=D7A954C2A604BF39&resid=D7A954C2A604BF39%21352&app=WordPdf&authkey=%21AFAgLw-E3vwNCAU>`__ ）　←　 `One Drive <https://onedrive.live.com/?cid=d7a954c2a604bf39&id=D7A954C2A604BF39%21344&ithint=folder,pdf&authkey=!AFAgLw-E3vwNCAU>`__ ；短址：http://1drv.ms/1stcCxb）。
   中國法友請至（百度雲） `下載 <http://pan.baidu.com/s/1mgl1DOG>`__ 。
 
@@ -164,15 +164,15 @@
 ----
 
 - 《火山的熄滅》及《禪修心法--正確的修行態度》
-  `漢譯合刊 <{filename}/extra/authors/sujiva/Volcano/Volcano-Attitude.pdf>`__
+  `漢譯合刊 <{static}/extra/authors/sujiva/Volcano/Volcano-Attitude.pdf>`__
 
 ----
 
 - 《火山的熄滅－－內觀禪介紹》：
-  `漢譯 <{filename}/extra/authors/sujiva/Volcano/volcanos-Han.pdf>`__ (初版!)
+  `漢譯 <{static}/extra/authors/sujiva/Volcano/volcanos-Han.pdf>`__ (初版!)
   (`For the Stilling of Volcanoes <http://www.buddhanet.net/pdf_file/volcanos.pdf>`_, by Ven. Sujiva)
 
-  [馬來西亞, `蘇吉瓦（蘇濟瓦）禪師 <{filename}/extra/authors/sujiva/sujiva.htm>`_ 著
+  [馬來西亞, `蘇吉瓦（蘇濟瓦）禪師 <{static}/extra/authors/sujiva/sujiva.htm>`_ 著
 
 ----
 
@@ -200,19 +200,20 @@
 
 ----
 
-- `阿含聖典的解脫心法 <{filename}/extra/vimutticitta/vimuttic.htm>`__
+- `阿含聖典的解脫心法 <{static}/extra/vimutticitta/vimuttic.htm>`__
   （大卿弘法師於 1996 年的開示摘錄）
 
-- `線上經典示範：金剛經 <{filename}/extra/demo/uajprdem.htm>`_
+- `線上經典示範：金剛經 <{static}/extra/demo/uajprdem.htm>`_
   【測試版(依〝 `中華佛教百科文獻基金會 <{filename}/articles/buddhist-encyclo/chinese-buddhist-encyclopaedia%zh.rst>`_ 〞
   編著之《中華佛教百科全書》(第四冊 p. 2035 )】
 
-- `e世代佛典羅馬拼音台語版（金剛經．藥師經．彌陀經．普門品） <{filename}/extra/authors/ta-guan/Di-Guang-Si-TAIWANISH-Chanting.htm>`_ ：自然音標(口語調)﹒台語﹒羅馬注音版
+- `e世代佛典羅馬拼音台語版（金剛經．藥師經．彌陀經．普門品） <{static}/extra/authors/ta-guan/Di-Guang-Si-TAIWANISH-Chanting.htm>`_ ：自然音標(口語調)﹒台語﹒羅馬注音版
 
-- `掬月囈語 <{filename}/extra/seefo/Asen/index.htm>`_
+- `掬月囈語 <{static}/extra/seefo/Asen/index.htm>`_
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2023-06-16 add 美琪喬
   12-28 add: Two Sides of A Coin & A Noble Search
   08-26 add: 莫哥西亞多開示錄中文試譯

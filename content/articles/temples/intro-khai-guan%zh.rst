@@ -7,9 +7,9 @@
 :category: 府城地區寺院、道場
 :summary: 府城開元寺
 
-- `開元寺 <{filename}/extra/temples/khai-guan/local.html>`__ -- 許雅茹；取自： 鄉土教材資料庫搜尋服務 (原「國立臺北師範學院社會科教育學系」，改制為「臺北教育大學」後，資料庫隨之搬移，原連結失效。因此用本網站之歷史庫存檔)。
+- `開元寺 <{static}/extra/temples/khai-guan/local.html>`__ -- 許雅茹；取自： 鄉土教材資料庫搜尋服務 (原「國立臺北師範學院社會科教育學系」，改制為「臺北教育大學」後，資料庫隨之搬移，原連結失效。因此用本網站之歷史庫存檔)。
 
-- `開元寺 <{filename}/extra/temples/khai-guan/C-Culture-Affair.html>`__ 〔原置於文化建設委員會( `文化部 <http://www.moc.gov.tw/>`__ )網站之 `台南市古蹟使用調查與評估 <http://localdap.ncl.edu.tw/hypage.cgi?HYPAGE=search/search_res.hpg&dtd_id=1&sysid=00000289>`__ --附錄--靜修地類古蹟，現已移除；沿用本網站之歷史庫存檔。〕
+- `開元寺 <{static}/extra/temples/khai-guan/C-Culture-Affair.html>`__ 〔原置於文化建設委員會( `文化部 <http://www.moc.gov.tw/>`__ )網站之 `台南市古蹟使用調查與評估 <http://localdap.ncl.edu.tw/hypage.cgi?HYPAGE=search/search_res.hpg&dtd_id=1&sysid=00000289>`__ --附錄--靜修地類古蹟，現已移除；沿用本網站之歷史庫存檔。〕
 
   |  另可參考「 `國家圖書館`_ 」內【臺灣鄉土文獻影像資料庫】中之 `臺南市古蹟使用調查與評估`_ ）。
   |  資料類型	圖書 
@@ -30,13 +30,13 @@
 
 - `開元寺 <http://dev.dila.edu.tw/taiwanbudgis/searchRes.php?id=704A15>`__
   (取自：台灣佛寺時空平台-- `台灣佛寺線上導覽`_ --寺廟檢視)
-- `開元寺慧光圖書館 <{filename}/extra/temples/khai-guan/khai-guan-lib.htm>`__ ; 開元禪學院圖書館(原置於 `佛學數位圖書館暨博物館`_ 之圖書館錄，現已不存；沿用本網站之歷史庫存檔)。
-- `開元禪學院院況簡介 <{filename}/extra/temples/khai-guan/khai-guan-school.htm>`__ (原置於 `佛學數位圖書館暨博物館`_  ，現已不存；沿用本網站之歷史庫存檔)。
-- `開元寺 <{filename}/extra/temples/khai-guan/5.htm>`__ （原置於「風月無情--個性小舖」站之「古蹟巡禮」，現已移除；沿用本網站之歷史庫存檔）。
+- `開元寺慧光圖書館 <{static}/extra/temples/khai-guan/khai-guan-lib.htm>`__ ; 開元禪學院圖書館(原置於 `佛學數位圖書館暨博物館`_ 之圖書館錄，現已不存；沿用本網站之歷史庫存檔)。
+- `開元禪學院院況簡介 <{static}/extra/temples/khai-guan/khai-guan-school.htm>`__ (原置於 `佛學數位圖書館暨博物館`_  ，現已不存；沿用本網站之歷史庫存檔)。
+- `開元寺 <{static}/extra/temples/khai-guan/5.htm>`__ （原置於「風月無情--個性小舖」站之「古蹟巡禮」，現已移除；沿用本網站之歷史庫存檔）。
 - `開元寺 <http://www.dang.idv.tw/temple/t7.htm>`__
   （ `鯤島本土文化園地`_ -- `府城廟宇巡禮`_ -7）。
 - `戀念台南情---開元寺(日據時期明信片) <http://blog.xuite.net/c0916439966/twblog/115160302-%E6%88%80%E5%BF%B5%E5%8F%B0%E5%8D%97%E6%83%85---%E9%96%8B%E5%85%83%E5%AF%BA(%E6%97%A5%E6%93%9A%E6%99%82%E6%9C%9F%E6%98%8E%E4%BF%A1%E7%89%87)>`__
-- `開元寺 <{filename}/extra/temples/khai-guan/tainans20.htm>`__ -- 台南市(原智凰網路科技股份有限公司設立之休閒驛站(Trevel King)，現已不存；沿用本網站之歷史庫存檔)。
+- `開元寺 <{static}/extra/temples/khai-guan/tainans20.htm>`__ -- 台南市(原智凰網路科技股份有限公司設立之休閒驛站(Trevel King)，現已不存；沿用本網站之歷史庫存檔)。
 
 ------
 
@@ -50,6 +50,7 @@
 .. _府城廟宇巡禮: http://www.dang.idv.tw/temple/index.htm
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2022-05-26 del: :oldurl: http://myweb.ncku.edu.tw/~lsn46/Temples/Khai-Guan/Khai-Guan.htm
                   - 台南市政府文化局舊版、 新版(2011)、 照片(新版, 2011)
                   開元寺 http://buddhistinformatics.ddbc.edu.tw/taiwanbudgis/searchRes.php?id=704A15   (取自：台灣佛寺時空平台-- 台灣佛寺線上導覽

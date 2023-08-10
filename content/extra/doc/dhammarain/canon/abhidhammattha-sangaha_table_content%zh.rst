@@ -9,47 +9,47 @@
 :summary: 攝阿毗達摩義論表解（完整版）目錄
 
 
-- 封面： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/01-cover_Abhidhammattha-sangaha_Table.pdf>`__ 
+- 封面： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/01-cover_Abhidhammattha-sangaha_Table.pdf>`__ 
 
-- 版權頁： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/16-copyright.pdf>`__ 
+- 版權頁： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/16-copyright.pdf>`__ 
 
-- 略語表： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/02-abbreviations.pdf>`__ 
+- 略語表： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/02-abbreviations.pdf>`__ 
 
-- 詳細目錄： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/03-content.pdf>`__ ； `doc <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/03-content.doc>`__ (ms office word 97-2003)  
+- 詳細目錄： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/03-content.pdf>`__ ； `doc <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/03-content.doc>`__ (ms office word 97-2003)  
 
-- 序（含【心流圖與各品對照表】）： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/04-preface.pdf>`__ ； `doc <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/04-preface.doc>`__ (ms office word 97-2003)
+- 序（含【心流圖與各品對照表】）： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/04-preface.pdf>`__ ； `doc <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/04-preface.doc>`__ (ms office word 97-2003)
 
-- 第一　攝心分別品： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/05-Chap01_ADS_T.pdf>`__ ； `doc <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/05-Chap01_ADS_T.doc>`__ (ms office word 97-2003)
+- 第一　攝心分別品： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/05-Chap01_ADS_T.pdf>`__ ； `doc <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/05-Chap01_ADS_T.doc>`__ (ms office word 97-2003)
 
-- 第二　攝心所分別： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/06-Chap02_ADS_T.pdf>`__ ； `doc <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/06-Chap02_ADS_T.doc>`__ (ms office word 97-2003)
+- 第二　攝心所分別： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/06-Chap02_ADS_T.pdf>`__ ； `doc <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/06-Chap02_ADS_T.doc>`__ (ms office word 97-2003)
 
-- 第三　攝雜分別： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/07-Chap03_ADS_T.pdf>`__ ； `doc <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/07-Chap03_ADS_T.doc>`__ (ms office word 97-2003) （2018.01.29 更新）
+- 第三　攝雜分別： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/07-Chap03_ADS_T.pdf>`__ ； `doc <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/07-Chap03_ADS_T.doc>`__ (ms office word 97-2003) （2018.01.29 更新）
 
-- 第四　攝路分別： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/08-Chap04_ADS_T.pdf>`__ ； `doc <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/08-Chap04_ADS_T.doc>`__ (ms office word 97-2003)
+- 第四　攝路分別： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/08-Chap04_ADS_T.pdf>`__ ； `doc <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/08-Chap04_ADS_T.doc>`__ (ms office word 97-2003)
 
-- 第五　攝離路分別： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/09-Chap05_ADS_T.pdf>`__ ； `doc <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/09-Chap05_ADS_T.doc>`__ (ms office word 97-2003)
+- 第五　攝離路分別： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/09-Chap05_ADS_T.pdf>`__ ； `doc <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/09-Chap05_ADS_T.doc>`__ (ms office word 97-2003)
 
-- 第六　攝色分別： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/10-Chap06_ADS_T.pdf>`__ ； `doc <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/10-Chap06_ADS_T.doc>`__ (ms office word 97-2003)
+- 第六　攝色分別： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/10-Chap06_ADS_T.pdf>`__ ； `doc <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/10-Chap06_ADS_T.doc>`__ (ms office word 97-2003)
 
-- 第七　攝集分別： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/11-Chap07_ADS_T.pdf>`__ ； `doc <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/11-Chap07_ADS_T.doc>`__ (ms office word 97-2003)
+- 第七　攝集分別： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/11-Chap07_ADS_T.pdf>`__ ； `doc <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/11-Chap07_ADS_T.doc>`__ (ms office word 97-2003)
 
-- 第八　攝緣分別： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/12-Chap08_ADS_T.pdf>`__ ； `doc <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/12-Chap08_ADS_T.doc>`__ (ms office word 97-2003)
+- 第八　攝緣分別： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/12-Chap08_ADS_T.pdf>`__ ； `doc <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/12-Chap08_ADS_T.doc>`__ (ms office word 97-2003)
 
-- 第九　攝業處分別品： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/13-Chap09_ADS_T.pdf>`__ ； `doc <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/13-Chap09_ADS_T.doc>`__ (ms office word 97-2003)
+- 第九　攝業處分別品： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/13-Chap09_ADS_T.pdf>`__ ； `doc <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/13-Chap09_ADS_T.doc>`__ (ms office word 97-2003)
 
-- 附錄： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/14-Appendix.pdf>`__ ； `doc <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/14-Appendix.doc>`__ (ms office word 97-2003)
+- 附錄： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/14-Appendix.pdf>`__ ； `doc <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/14-Appendix.doc>`__ (ms office word 97-2003)
 
-- 習題解答： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/15-resolve.pdf>`__ ； `doc <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/15-resolve.doc>`__ (ms office word 97-2003)
+- 習題解答： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/15-resolve.pdf>`__ ； `doc <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/15-resolve.doc>`__ (ms office word 97-2003)
 
-- 1-89心-icon： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/05-Chap01-8-1-89citta-icon.pdf>`__ ； `doc <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/05-Chap01-8-1-89citta-icon.doc>`__ (ms office word 97-2003)
+- 1-89心-icon： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/05-Chap01-8-1-89citta-icon.pdf>`__ ； `doc <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/05-Chap01-8-1-89citta-icon.doc>`__ (ms office word 97-2003)
 
-- 緣起-灰白： `.jpg <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/paticcasamuppada-grey.jpg>`__
+- 緣起-灰白： `.jpg <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/paticcasamuppada-grey.jpg>`__
  
-- 緣起-彩色： `.JPG <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/paticcasamuppada-colour.jpg>`__
+- 緣起-彩色： `.JPG <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/paticcasamuppada-colour.jpg>`__
 
-- 緣起-彩色： `.JPG <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/paticcasamuppada-colour00.jpg>`__
+- 緣起-彩色： `.JPG <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/paticcasamuppada-colour00.jpg>`__
 
-- 修訂紀錄(2017.11.23)： `PDF <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/note-revised-2017-TBL.pdf>`__ ； `.rtf <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/note-revised-2017-TBL.rtf>`__ ； `doc <{filename}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/note-revised-2017-TBL.doc>`__ (ms office word 97-2003)
+- 修訂紀錄(2017.11.23)： `PDF <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/note-revised-2017-TBL.pdf>`__ ； `.rtf <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/note-revised-2017-TBL.rtf>`__ ； `doc <{static}/extra/dhammarain/extra/doc/canon/abhidhamma/yeh/note-revised-2017-TBL.doc>`__ (ms office word 97-2003)
 
 ------ 
 
@@ -60,6 +60,7 @@
 -  `好書介紹 <{filename}/articles/dhammarain/articles/books/books%zh.rst>`_ 
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2018.04. upload (test under nanda acc.); 04.23 create .rst for github
   02.01 rev. old: .doc、攝阿毗達摩義論表解--封面、index-目錄、1-攝心分別品、2-攝心所分別品、3-攝雜分別、4-攝路分別、5-攝離路分別、6-攝色分別、7-攝菩提分、8-發趣法、9-攝業處分別、14-附錄、15-解答、《攝阿毘達摩義論表解 完整版》2017 修訂版，更正紀錄; hide doc of cover 
   2018.01.31 rev. add:3-攝雜分別： `PDF <>`__ ；.doc (2018.01.29 更新) 

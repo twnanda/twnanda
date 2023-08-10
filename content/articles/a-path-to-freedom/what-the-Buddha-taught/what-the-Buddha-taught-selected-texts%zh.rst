@@ -1454,11 +1454,11 @@
 
     * `本站 <{filename}/articles/tipitaka/sutta/samyutta/sn56-011-contrast-reading%zh.rst>`__ －－巴利原典(CSCD)、 **Ven. Bhikkhu Bodhi** (英譯)、莊春江　漢譯、蕭式球　漢譯、 **覓寂尊者**　漢譯、( **坦尼沙羅尊者** 英譯)良稹　漢譯、 **Ven. Thanissaro Bhikkhu** (英譯)
 
-    * `轉法輪經 (PDF) <{filename}/extra/tipitaka/sutta/samyutta/sn56_011-samadhi-buddha.pdf>`__ ，「原始佛法三摩地學會」中譯 (依 **菩提比丘** 之相應部英譯本為主；附《 **菩提比丘** 英譯本》（部份）、《 **坦尼沙羅比丘** 英譯本》、《雜阿含大正藏第379經》（ `三摩地學會 <http://www.samadhi-buddha.org/>`__ → → → `相應部經‧第56諦相應‧011經：轉法輪經 <http://www.samadhi-buddha.org/Theravada/Canon/Cht/Nikaya/sn56_011.pdf>`__ ）
+    * `轉法輪經 (PDF) <{static}/extra/tipitaka/sutta/samyutta/sn56_011-samadhi-buddha.pdf>`__ ，「原始佛法三摩地學會」中譯 (依 **菩提比丘** 之相應部英譯本為主；附《 **菩提比丘** 英譯本》（部份）、《 **坦尼沙羅比丘** 英譯本》、《雜阿含大正藏第379經》（ `三摩地學會 <http://www.samadhi-buddha.org/>`__ → → → `相應部經‧第56諦相應‧011經：轉法輪經 <http://www.samadhi-buddha.org/Theravada/Canon/Cht/Nikaya/sn56_011.pdf>`__ ）
 
     * `Details for SN 56.11 Dhammacakkappavattana <https://suttacentral.net/sn56.11>`__ ( `SuttaCentral <https://suttacentral.net/>`__ )
 
-  - `S. 56:11 Dhammacakkappavattanasuttam 《轉法輪經》─漢巴對讀分析、文法分析、法義加油站 <{filename}/extra/tipitaka/sutta/samyutta/sn56.011-nikaya_selected.html>`__ ─　整理者： **釋性恩(Dhammajivi)** （摘自《尼柯耶》選讀：巴利學習系列Ⅱ.）； `PDF <{filename}/extra/tipitaka/sutta/samyutta/sn56.011-nikaya_selected.pdf>`__ ；　 `ms .doc <{filename}/extra/tipitaka/sutta/samyutta/sn56.011-nikaya_selected.doc>`__
+  - `S. 56:11 Dhammacakkappavattanasuttam 《轉法輪經》─漢巴對讀分析、文法分析、法義加油站 <{static}/extra/tipitaka/sutta/samyutta/sn56.011-nikaya_selected.html>`__ ─　整理者： **釋性恩(Dhammajivi)** （摘自《尼柯耶》選讀：巴利學習系列Ⅱ.）； `PDF <{static}/extra/tipitaka/sutta/samyutta/sn56.011-nikaya_selected.pdf>`__ ；　 `ms .doc <{static}/extra/tipitaka/sutta/samyutta/sn56.011-nikaya_selected.doc>`__
 
   - 《釋迦的啓示》，羅睺羅博士著，顧法嚴譯，陳健忠(香港大學醫學院講師) `增訂補譯 <https://sites.google.com/site/herodrkwok/home/hero/zeng-ding-bu-yi-ben-shi-jia-de-qi-shi-reng-mian-fei-zeng-yue>`__ ，（香港九龍）顯密佛學會，1991。
 
@@ -1634,7 +1634,7 @@
 
   - `中部10經/【念住大經】(根本法門品[1]); 莊春江 <http://agama.buddhason.org/MN/MN010.htm>`__ \ ( ← `漢譯中部 <http://agama.buddhason.org/MN/index.htm>`__ ←  `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ ）。
 
-  - 江鍊百漢譯；釋芝峯校證《 `念處經第十 <http://tripitaka.cbeta.org/B06n0004_001#0097b30>`__ 》 `(PDF) <{filename}/extra/tipitaka/sutta/digha/mn.010.ShCFon.pdf>`__ \ 。
+  - 江鍊百漢譯；釋芝峯校證《 `念處經第十 <http://tripitaka.cbeta.org/B06n0004_001#0097b30>`__ 》 `(PDF) <{static}/extra/tipitaka/sutta/digha/mn.010.ShCFon.pdf>`__ \ 。
 
   - `念處經 <http://tripitaka.cbeta.org/N09n0005_001#0073a02>`__ ; 通妙 譯(元亨寺) 
 
@@ -1735,7 +1735,7 @@
 
   * 《長部》．十六　《大般涅槃經》；寧樂 
 
-  * `遍涅槃大經 <{filename}/extra/tipitaka/sutta/digha/dn16-TW-Liau.html>`__ ；臺灣．廖文燦 譯(AB 佛曆　2549年; 2005 AD) (`PDF <{filename}/extra/tipitaka/sutta/digha/dn16-TW-Liau.pdf>`__，ms. `.doc <{filename}/extra/tipitaka/sutta/digha/dn16-TW-Liau.doc>`__ )
+  * `遍涅槃大經 <{static}/extra/tipitaka/sutta/digha/dn16-TW-Liau.html>`__ ；臺灣．廖文燦 譯(AB 佛曆　2549年; 2005 AD) (`PDF <{static}/extra/tipitaka/sutta/digha/dn16-TW-Liau.pdf>`__，ms. `.doc <{static}/extra/tipitaka/sutta/digha/dn16-TW-Liau.doc>`__ )
 
   * `大槃涅槃經第十六 <http://tripitaka.cbeta.org/B06n0003_002>`__ (CBETA)；江鍊百譯；　沙門芝峯校證
 
@@ -1761,13 +1761,13 @@
 
 - 英譯(English)：
 
-  * `Last Days of the Buddha <{filename}/articles/tipitaka/sutta/diigha/dn16-vaji%zh.rst>`__ (complete text), translated from the Pali by Sister Vajira & Francis Story ( `PDF <{filename}/extra/tipitaka/sutta/digha/dn.16.vaji.pdf>`__ ) 
+  * `Last Days of the Buddha <{filename}/articles/tipitaka/sutta/diigha/dn16-vaji%zh.rst>`__ (complete text), translated from the Pali by Sister Vajira & Francis Story ( `PDF <{static}/extra/tipitaka/sutta/digha/dn.16.vaji.pdf>`__ ) 
 
   * `The Great Discourse on the Total Unbinding <{filename}/articles/tipitaka/sutta/diigha/dn16-than%zh.rst>`__ (excerpt), DN 16 PTS: D ii 137 chapters 5-6, Translated from the Pali by **Ven. Thanissaro Bhikkhu** ( **坦尼沙羅尊者** )
 
-  * `The Discourse about the Great Emancipation <{filename}/extra/tipitaka/sutta/digha/aanandajoti/index-TheDiscourse_about_theGreatEmancipation.html>`__ ;  `PDF </extra/tipitaka/sutta/digha/aanandajoti/dn16-anandajoti-Eng.pdf>`__ (A Translation of Mahāparinibbānasutta (DN 16); June, 2008 / 2552, edited and translated by **Ven.Ānandajoti Bhikkhu** ) 
+  * `The Discourse about the Great Emancipation <{static}/extra/tipitaka/sutta/digha/aanandajoti/index-TheDiscourse_about_theGreatEmancipation.html>`__ ;  `PDF </extra/tipitaka/sutta/digha/aanandajoti/dn16-anandajoti-Eng.pdf>`__ (A Translation of Mahāparinibbānasutta (DN 16); June, 2008 / 2552, edited and translated by **Ven.Ānandajoti Bhikkhu** ) 
 
-  * Discourse on the Great Event of the Passing away of the Buddha, Translation by Myanmar Authors, SOURCE: "TEN SUTTAS FROM DIGHA NIKAYA", BURMA PITAKA ASSOCIATION, 1984: `part 1 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-I.html>`__ , `part 2 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-II.html>`__ , `part 3 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-III.html>`__ , `part 4 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-IV.html>`__ 
+  * Discourse on the Great Event of the Passing away of the Buddha, Translation by Myanmar Authors, SOURCE: "TEN SUTTAS FROM DIGHA NIKAYA", BURMA PITAKA ASSOCIATION, 1984: `part 1 <{static}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-I.html>`__ , `part 2 <{static}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-II.html>`__ , `part 3 <{static}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-III.html>`__ , `part 4 <{static}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-IV.html>`__ 
 
 - `巴、漢、英多譯本對讀 <{filename}/articles/tipitaka/sutta/diigha/contrast-reading-dn16%zh.rst>`__
 
@@ -3016,6 +3016,7 @@
 
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2021-09-07 rev. by paper printed first
   09-06 finish adding footnote with details 
    刪除 [stpt12]  與 [stpt08] 同

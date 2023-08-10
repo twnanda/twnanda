@@ -35,8 +35,8 @@
      - `第十五章： 自燈明、法燈明─最後說法 <{filename}biography-of-the-Buddha-masutani-excerpts-chap15%zh.rst>`__ 
 
    * - 整部： `HTML <{filename}biography-of-the-Buddha-masutani-excerpts-full%zh.rst>`__
-     - `PDF <{filename}/extra/a-path-to-freedom/biography-of-the-Buddha-masutani-excerpts.pdf>`__ (整部, 具「書籤」)、 PDF <{filename}/extra/a-path-to-freedom/biography-of-the-Buddha-masutani-excerpts-read.pdf>`__ （具「書籤」、背景顏色為「豆沙綠」，對眼睛可能比較友善）
-     - `.doc <{filename}/extra/a-path-to-freedom/biography-of-the-Buddha-masutani-excerpts.doc>`__ （ms Word 97-2003）
+     - `PDF <{static}/extra/a-path-to-freedom/biography-of-the-Buddha-masutani-excerpts.pdf>`__ (整部, 具「書籤」)、 PDF <{static}/extra/a-path-to-freedom/biography-of-the-Buddha-masutani-excerpts-read.pdf>`__ （具「書籤」、背景顏色為「豆沙綠」，對眼睛可能比較友善）
+     - `.doc <{static}/extra/a-path-to-freedom/biography-of-the-Buddha-masutani-excerpts.doc>`__ （ms Word 97-2003）
 
 ---------------------------
 
@@ -181,7 +181,7 @@
 2. 在臺​首度漢譯  → 　**李君奭** 譯 [3]_ ；出版日期：1979； **《佛陀》** ，出版者：專心企業；出版地：彰化市, 臺灣 [4]_ → 
 3. 重新打字排版，以「非賣品」與大眾結緣。  → 　《佛陀》， **和裕版** , 1996.12 (民85) [5]_ → 　
 4. 重新選譯，並精簡潤飾排版  → 　 **《佛陀》，法藏版** [6]_ , 1997.7 (民86)  → 
-5. **《佛陀》，法雨道場 1998.9  掛網** （當時，故　明法尊者與法藏講堂　慶定法師有互動；請參 `附圖 <{filename}/extra/img/tainan-masutani-biography-of-the-buddha-hoatchong.jpg>`__ (1,250 KB) ）
+5. **《佛陀》，法雨道場 1998.9  掛網** （當時，故　明法尊者與法藏講堂　慶定法師有互動；請參 `附圖 <{static}/extra/img/tainan-masutani-biography-of-the-buddha-hoatchong.jpg>`__ (1,250 KB) ）
 
 .. [1] 1. 増谷 文雄（ますたに ふみお、1902年2月16日 - 1987年12月6日）；福岡県小倉市（現・北九州市小倉）生まれ。 (取材自：日文維基-- https://ja.wikipedia.org/wiki/%E5%A2%97%E8%B0%B7%E6%96%87%E9%9B%84 )
 
@@ -220,6 +220,7 @@
 .. [6] 法藏講堂: 地址：71148台南市歸仁區民權八街85巷1號; 電話：+886-6-2301406;　傳真：00886-6-2391563; 免費通話：Skype至上座部佛教學院; 　電郵：taiwandipa@gmail.com; http://www.taiwandipa.org.tw/
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2018.04.11 rev. original URL on Dhammarain (old: http://www.dhammarain.org.tw/books/Autobiography-of-buddha/chap01.htm) & add:本書因緣 (2017.04.17 email)
   image:: /extra/img/tainan-masutani-biography-of-the-buddha-hoatchong.jpg
    :width: 244

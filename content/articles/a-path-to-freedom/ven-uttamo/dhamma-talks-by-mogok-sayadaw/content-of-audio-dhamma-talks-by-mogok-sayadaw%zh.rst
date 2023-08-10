@@ -587,6 +587,7 @@ Dhamma Talks by Mogok Sayadaw
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   06-23 add part 13 till the end
   06-20 add till part 12
   2023-06-09 create rst; post on 06-10 

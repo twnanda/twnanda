@@ -2,7 +2,7 @@
 ==========================================
 
 :date: 2021-04-09
-:modified: 2021-04-09
+:modified: 2023-08-08
 :tags: Dhp. 113, dhp. 113, Dhp 113, dhp 113, 水鶴, 水白鶴, 水潦鶴, 水老鶴, 生滅法, 水鶴公案, 水白鶴公案, 水潦鶴公案, 水老鶴公案, 公案, 法句經, Dhammapada,  udayabbayaṃ, water-heron, udaka, baka, crane, heron, grey duck
 :category: 巴利三藏小部
 :summary: 「水鶴」公案--《法句經》第 113 偈頌研讀
@@ -387,7 +387,7 @@ udayavyaya（俗語）
 例如「軟顎音 k, g」會弱化成「y」甚至消失。
 「軟顎音 velar consonant」的發音部位請參考附圖，
 
-  .. image:: {filename}/extra/img/velar-consonant.jpg
+  .. image:: {static}/extra/img/velar-consonant.jpg
      :alt: 軟顎音
      :width: 460
      :height: 270
@@ -405,7 +405,7 @@ udayavyaya（俗語）
 
 事實上，犍陀羅語不是俗語方言(Prakrit dialect)當中唯一會將 udaka 和 udaya 如此混淆的語言，因為俗語寫卷中 udaya 或 udaa 的拼寫對其他(俗語)方言來說可能代表兩個字的任一字，理論上這樣的拼寫可能會在改寫成梵文時被當作 udaka。
 
-  .. image:: {filename}/extra/img/weaken-velar-consonant.jpg
+  .. image:: {static}/extra/img/weaken-velar-consonant.jpg
      :alt: 軟顎音弱化
      :width: 360
      :height: 475
@@ -437,9 +437,9 @@ ekāhaṃ jīvitaṃ seyyo passato udayavyayaṃ 僅有一天能見到五蘊生�
 
 .. [3] 〔註003〕　本譯文請參考： `文言文版 <{filename}../dhp-Ven-L-C/dhp-Ven-L-C%zh.rst>`__ ( **了參 法師** 譯，台北市：圓明出版社，1991。) 另參： 
 
-       一、 Dhammapada 法句經(中英對照) -- English translated by **Ven. Ācharya Buddharakkhita** ; Chinese translated by Yeh chun(葉均); Chinese commented by **Ven. Bhikkhu Metta(明法比丘)** 〔 **Ven. Ācharya Buddharakkhita** ( **佛護 尊者** ) 英譯; **了參 法師(葉均)** 譯; **明法比丘** 註（增加許多濃縮的故事）〕： `PDF <{filename}/extra/pdf/ec-dhp.pdf>`__ 、 `DOC <{filename}/extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/ec-dhp-f1.doc>`__ 。
+       一、 Dhammapada 法句經(中英對照) -- English translated by **Ven. Ācharya Buddharakkhita** ; Chinese translated by Yeh chun(葉均); Chinese commented by **Ven. Bhikkhu Metta(明法比丘)** 〔 **Ven. Ācharya Buddharakkhita** ( **佛護 尊者** ) 英譯; **了參 法師(葉均)** 譯; **明法比丘** 註（增加許多濃縮的故事）〕： `PDF <{static}/extra/pdf/ec-dhp.pdf>`__ 、 `DOC <{static}/extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) <{static}/extra/doc/ec-dhp-f1.doc>`__ 。
 
-       二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF <{filename}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{filename}/extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/pc-Dhammapada-f1.doc>`__
+       二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF <{static}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{static}/extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) <{static}/extra/doc/pc-Dhammapada-f1.doc>`__
 
 .. [4] 〔註004〕　取材自： `《法句經》, Dhammapada, 白話文版，蘇錦坤 著，2021 <{filename}../dhp-Ken-Yifertw-Su/dhp-Ken-Y-Su%zh.rst>`__ （含巴利文法分析與多文譯本比較研究）
 
@@ -520,6 +520,7 @@ ekāhaṃ jīvitaṃ seyyo passato udayavyayaṃ 僅有一天能見到五蘊生�
 .. [case-6] 這故事應該是在西元後且在中亞發生，之所以這樣推論，是因為根據各部派律典記載，佛陀不允許用梵語背誦經典，且東印度也不使用犍陀羅語；至於佛教經典梵語化是西元後才發生的事情。因此事發不會在王舍城，且阿難更早已不在人世。故事中之所以有阿難與王舍城，應該是根本說一切有部想利用阿難的權威去強調背誦正確的重要性。
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   04-09 rev. add 「水鶴」公案 on title
   created on 2021-04-07
   南傳法句經 `佛陀品　BUDDHAVAGGO <{filename}old-3versions-para/dhp-chap14%zh.rst>`_ 第183 偈頌

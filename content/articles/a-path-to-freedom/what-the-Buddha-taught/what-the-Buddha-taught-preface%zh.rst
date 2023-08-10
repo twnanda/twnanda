@@ -107,7 +107,7 @@ Nanda 編譯 [fn2]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_
 
       * PDF(Revised edition): 
 
-        - This site: `Here <{filename}/extra/a-path-to-freedom/What-the-Buddha-Taught-English.pdf>`__ (**with bookmark**, the second and enlarged edition, 1974; from `The Corporate Body of the Buddha Educational Foundation <http://ftp.budaedu.org/ebooks/pdf/EN132.pdf>`__ Taipei, Taiwan.)
+        - This site: `Here <{static}/extra/a-path-to-freedom/What-the-Buddha-Taught-English.pdf>`__ (**with bookmark**, the second and enlarged edition, 1974; from `The Corporate Body of the Buddha Educational Foundation <http://ftp.budaedu.org/ebooks/pdf/EN132.pdf>`__ Taipei, Taiwan.)
         - on `the site <https://drive.google.com/file/d/1DQe-nunSFR9M-zop3eLLidpQsZc0HUM5/view>`__ of The Corporate Body of the Buddha Educational Foundation
         - on `the site <https://archive.org/details/WhatTheBuddhaTaught_201606>`__ of Internet Archive 
         - on `the site <http://www.ahandfulofleaves.org/documents/what%20the%20buddha%20taught_rahula.pdf>`__ of A Handful of Leaves
@@ -124,6 +124,7 @@ Nanda 編譯 [fn2]_  `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_
 - 賴明亮教授(1949-02-28 ~ 2019-01-25)， `國立成功大學 <https://web.ncku.edu.tw/>`_ `醫學院 <http://web.med.ncku.edu.tw/>`_ `神經學科 <http://neuro.med.ncku.edu.tw/>`_ 教授退休（ `榮退典禮 <https://www.youtube.com/watch?v=57-zS_E6660>`_ , 2014-06-20）； 賴明亮 教授追思會 `專輯影片 <https://www.youtube.com/watch?v=iL1utpxa3pw>`_ （2019-02-28）。
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   05-07 add: Walpola Rahula Thero's photo; rev. old: 戴密否, 譚米華利 (proofread by Ken Su)
   2021-01-25 add: Dr. ML Lai 榮退典禮 影片連結
   2021-01-01 add: Academia.edu; move the link of Dr. Lai to the bottom

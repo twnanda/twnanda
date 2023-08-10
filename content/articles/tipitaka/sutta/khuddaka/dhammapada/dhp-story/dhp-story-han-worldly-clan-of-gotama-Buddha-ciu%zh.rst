@@ -33,7 +33,7 @@
 
 ----
 
- .. image:: {filename}/extra/img/worldly-clan-of-Gotama-Buddha.jpg
+ .. image:: {static}/extra/img/worldly-clan-of-Gotama-Buddha.jpg
      :alt: 佛陀家譜
      :height: 505 px
      :width: 364 px
@@ -54,7 +54,7 @@
 
 ----
 
-佛陀家譜： `PDF 檔 <{filename}/extra/pdf/worldly-clan-of-Gotama-Buddha.pdf>`__ 
+佛陀家譜： `PDF 檔 <{static}/extra/pdf/worldly-clan-of-Gotama-Buddha.pdf>`__ 
 
 ----
 
@@ -174,4 +174,5 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 .. 
+  2023-08-08 rev. replace filename with static to match "gramma"
    2018-08-19 finish & upload from rst; 2018-08-02 create rst

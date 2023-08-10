@@ -7,55 +7,55 @@
 :category: 護法法師
 :summary: 護法法師 Home Page (Home Page of Master Dharmagupta)
 
-- `Dhammapada <{filename}/extra/authors/dharmagupta/dhammapada-gatha-the-way-of-truth.pdf>`_ —The Way of the Truth (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
+- `Dhammapada <{static}/extra/authors/dharmagupta/dhammapada-gatha-the-way-of-truth.pdf>`_ —The Way of the Truth (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
 
-- `Dhammapada Aṭṭhakathā <{filename}/extra/authors/dharmagupta/dhammapada-atthakatha.pdf>`_ —Dhammapada commentary; Buddhist Legends (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
+- `Dhammapada Aṭṭhakathā <{static}/extra/authors/dharmagupta/dhammapada-atthakatha.pdf>`_ —Dhammapada commentary; Buddhist Legends (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
 
-- `Mahapariptra <{filename}/extra/authors/dharmagupta/mahapariptra-the-book-of-protection.pdf>`_ —The Book of Protectionin (in Nepalese language, editated and translated by Bhiksu Dharmagupta Mahasthavira)
+- `Mahapariptra <{static}/extra/authors/dharmagupta/mahapariptra-the-book-of-protection.pdf>`_ —The Book of Protectionin (in Nepalese language, editated and translated by Bhiksu Dharmagupta Mahasthavira)
 
-- `Dhātukatha <{filename}/extra/authors/dharmagupta/dhaatukatha-discourse-on-elements.pdf>`_ —Discourse on Elements (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
+- `Dhātukatha <{static}/extra/authors/dharmagupta/dhaatukatha-discourse-on-elements.pdf>`_ —Discourse on Elements (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
 
-- `Paṭṭhāna <{filename}/extra/authors/dharmagupta/patthana.pdf>`_ —Conditional Relations (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
+- `Paṭṭhāna <{static}/extra/authors/dharmagupta/patthana.pdf>`_ —Conditional Relations (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
 
-- `Vissuddhimaggo <{filename}/extra/authors/dharmagupta/vissuddhimagga.pdf>`_ —The Path of Purification (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
+- `Vissuddhimaggo <{static}/extra/authors/dharmagupta/vissuddhimagga.pdf>`_ —The Path of Purification (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
 
 ------
 
 - 護法法師簡介。
 - `尊者的足跡－南傳法句經的故事 <{filename}../tipitaka/sutta/khuddaka/dhammapada/dhp-story/dhp-story-Ven-Dharmagupta%zh.rst>`_ （或 `此分類項 <{category}尊者的足跡－南傳法句經的故事。>`_ 。
 
-- `心靈法語－ DHARMAGUPTA 。 <{filename}/extra/authors/dharmagupta/vipasana.htm>`_
-- `靜坐實用手冊－－你在嗎？覺知嗎？心去那裡了？ <{filename}/extra/authors/dharmagupta/meditation.htm>`_
-- `涅槃的高速公路 <{filename}/extra/authors/dharmagupta/nibbana.htm>`_
-- `涅槃的北二高--清淨道論導讀 <{filename}/extra/authors/dharmagupta/ntro-vis.htm>`_
-- `涅槃的中二高 <{filename}/extra/authors/dharmagupta/Buddhism-for-the-Tricky.html>`_ (Nov. '07)
-- `涅槃的捷運 <{filename}/extra/authors/dharmagupta/Buddhism-for-Explorer.html>`_
-- `護法法師於嘉義新雨道場「靜坐班」之開示 <{filename}/extra/authors/dharmagupta/newrain.htm>`_ ：含
+- `心靈法語－ DHARMAGUPTA 。 <{static}/extra/authors/dharmagupta/vipasana.htm>`_
+- `靜坐實用手冊－－你在嗎？覺知嗎？心去那裡了？ <{static}/extra/authors/dharmagupta/meditation.htm>`_
+- `涅槃的高速公路 <{static}/extra/authors/dharmagupta/nibbana.htm>`_
+- `涅槃的北二高--清淨道論導讀 <{static}/extra/authors/dharmagupta/ntro-vis.htm>`_
+- `涅槃的中二高 <{static}/extra/authors/dharmagupta/Buddhism-for-the-Tricky.html>`_ (Nov. '07)
+- `涅槃的捷運 <{static}/extra/authors/dharmagupta/Buddhism-for-Explorer.html>`_
+- `護法法師於嘉義新雨道場「靜坐班」之開示 <{static}/extra/authors/dharmagupta/newrain.htm>`_ ：含
 
 - 《內觀禪修法》。
 
-  * `《內觀禪修法（一）》。 <{filename}/extra/authors/dharmagupta/newrain/vipasana.htm>`_
-  * `《內觀禪修法（二）》。 <{filename}/extra/authors/dharmagupta/newrain/vipasan2.htm>`_
-  * `《內觀禪修法（三）》。 <{filename}/extra/authors/dharmagupta/newrain/vipasan3.htm>`_
-  * `《內觀禪修法（四）》。 <{filename}/extra/authors/dharmagupta/newrain/vipasan4.htm>`_
-  * `《內觀禪修法（五）》。 <{filename}/extra/authors/dharmagupta/newrain/vipasan5.htm>`_
-  * `《內觀禪修法（六）》。 <{filename}/extra/authors/dharmagupta/newrain/vipasan6.htm>`_
+  * `《內觀禪修法（一）》。 <{static}/extra/authors/dharmagupta/newrain/vipasana.htm>`_
+  * `《內觀禪修法（二）》。 <{static}/extra/authors/dharmagupta/newrain/vipasan2.htm>`_
+  * `《內觀禪修法（三）》。 <{static}/extra/authors/dharmagupta/newrain/vipasan3.htm>`_
+  * `《內觀禪修法（四）》。 <{static}/extra/authors/dharmagupta/newrain/vipasan4.htm>`_
+  * `《內觀禪修法（五）》。 <{static}/extra/authors/dharmagupta/newrain/vipasan5.htm>`_
+  * `《內觀禪修法（六）》。 <{static}/extra/authors/dharmagupta/newrain/vipasan6.htm>`_
 
 - 《靜坐與喜悅之路》。
 
-  * `《靜坐與喜悅之路（一）》。 <{filename}/extra/authors/dharmagupta/newrain/medtjoy1.htm>`_
-  * `《靜坐與喜悅之路（二）》。 <{filename}/extra/authors/dharmagupta/newrain/medtjoy2.htm>`_
-  * `《靜坐與喜悅之路（三）》。 <{filename}/extra/authors/dharmagupta/newrain/medtjoy3.htm>`_
-  * `《靜坐與喜悅之路（四）》。 <{filename}/extra/authors/dharmagupta/newrain/medtjoy4.htm>`_
-  * `《靜坐與喜悅之路（五）》。 <{filename}/extra/authors/dharmagupta/newrain/medtjoy5.htm>`_
-  * `《靜坐與喜悅之路（六）》。 <{filename}/extra/authors/dharmagupta/newrain/medtjoy6.htm>`_
+  * `《靜坐與喜悅之路（一）》。 <{static}/extra/authors/dharmagupta/newrain/medtjoy1.htm>`_
+  * `《靜坐與喜悅之路（二）》。 <{static}/extra/authors/dharmagupta/newrain/medtjoy2.htm>`_
+  * `《靜坐與喜悅之路（三）》。 <{static}/extra/authors/dharmagupta/newrain/medtjoy3.htm>`_
+  * `《靜坐與喜悅之路（四）》。 <{static}/extra/authors/dharmagupta/newrain/medtjoy4.htm>`_
+  * `《靜坐與喜悅之路（五）》。 <{static}/extra/authors/dharmagupta/newrain/medtjoy5.htm>`_
+  * `《靜坐與喜悅之路（六）》。 <{static}/extra/authors/dharmagupta/newrain/medtjoy6.htm>`_
 
-- `《命終關懷》。 <{filename}/extra/authors/dharmagupta/newrain/hospiece.htm>`_
+- `《命終關懷》。 <{static}/extra/authors/dharmagupta/newrain/hospiece.htm>`_
 
 - 三淨肉在南傳佛教經典之依據－－
-  `耆婆迦經(Jivaka-suttanta)〈中部經典二．第五十五〉 <{filename}/extra/authors/dharmagupta/M-55-Jiivaka.htm>`_
+  `耆婆迦經(Jivaka-suttanta)〈中部經典二．第五十五〉 <{static}/extra/authors/dharmagupta/M-55-Jiivaka.htm>`_
 
-- `《喜悅之路》 <{filename}/extra/authors/dharmagupta/the-way-of-happiness.pdf>`_ （PDF，以上幾本著作之選輯 2020 一月）
+- `《喜悅之路》 <{static}/extra/authors/dharmagupta/the-way-of-happiness.pdf>`_ （PDF，以上幾本著作之選輯 2020 一月）
 
 ----
 
@@ -67,7 +67,7 @@
 
 **Ven. Dharmagupta 師父法相**
 
-.. image:: {filename}/extra/img/dharmagupta/hufa.gif
+.. image:: {static}/extra/img/dharmagupta/hufa.gif
    :alt: 護法法師法相
    :align: center
 
@@ -75,9 +75,10 @@
 
 ----
 
-- `師父碩士論文 <{filename}/extra/authors/dharmagupta/thesis/content.htm>`_
+- `師父碩士論文 <{static}/extra/authors/dharmagupta/thesis/content.htm>`_
 
 .. 
+   2023-08-08 rev. replace filename with static to match "gramma"
    12-25 add: Paṭṭhāna (Conditional Relations)
    11-17 add: Vissuddhimaggo; rev. replace Mahastavira with Mahasthavira
    11-15 del: धम्मपद — सत्यको मार्ग (Dhammapada—The Way of the Truth); 

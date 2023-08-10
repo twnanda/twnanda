@@ -8,14 +8,14 @@
 
   namo tassa bhagavato arahato sammāsambuddhassa
 
-  .. image:: {filename}/extra/img/bss.jpg
+  .. image:: {static}/extra/img/bss.jpg
      :alt: 佛陀
 
 .. container:: index-page-image
 
   皈敬世尊、阿羅漢、正等正覺者
 
-  .. image:: {filename}/extra/img/Buddha2.jpg
+  .. image:: {static}/extra/img/Buddha2.jpg
      :alt: 佛陀
 
 .. container:: align-center
@@ -26,7 +26,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {filename}/extra/img/buddha.jpg
+  .. image:: {static}/extra/img/buddha.jpg
      :alt: 佛陀
 
   諸惡莫作，眾善奉行，自淨其意，是諸佛教。
@@ -83,17 +83,18 @@
 
 - `訊息公告 <{filename}/articles/uncategorized/announce%zh.rst>`_
 
-  * `呼籲安全地保存佛陀的舍利 <{filename}/extra/relics-of-the-buddha/Relics_of_the_Buddha.html>`_
+  * `呼籲安全地保存佛陀的舍利 <{static}/extra/relics-of-the-buddha/Relics_of_the_Buddha.html>`_
   * `【新譯「尊者阿姜 曼傳」與「尊者阿姜 高傳」】相關訊息 <{filename}/articles/uncategorized/open-distribution-the-biography-ven-acariya-mun%zh.rst>`_
   
 - `文章選讀 <{filename}/articles/uncategorized/paper-selected%zh.rst>`_
 
   * `佛陀的啟示(What the Buddha Taught) <{filename}/articles/a-path-to-freedom/what-the-Buddha-taught/what-the-Buddha-taught-2020%zh.rst>`_
-  * `當代南傳佛教大師(LIVING BUDDHIST MASTERS) <{filename}/extra/authors/jack-kornfield/living-buddhist-masters/Theravadian-Masters.htm>`_
+  * `當代南傳佛教大師(LIVING BUDDHIST MASTERS) <{static}/extra/authors/jack-kornfield/living-buddhist-masters/Theravadian-Masters.htm>`_
   * `UNEXPECTED FREEDOM <{filename}/articles/uncategorized/paper-selected%zh.rst#unexpected-freedom>`_
-    ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_]) 等等。
+    ([by AJAHN MUNINDO; `【意想不到的自由】 <{static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_]) 等等。
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2022-05-26 rev. 府城地區寺院、道場
   2021-04-08 rev. move to subdirectory-dhp-study; add: dhammatalks.org
   2020-09-09 add: 佛陀的啟示(What the Buddha Taught) 

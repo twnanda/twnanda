@@ -15,19 +15,19 @@
 
 .. list-table:: 法雨雜誌簡目
 
-  * - `法雨雜誌第一期(2003.12.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-001.htm>`__ ; ( `PDF <{filename}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-001.pdf>`__ ) (updated: 11.16 '08)
-    - `法雨雜誌第二期(2005.01.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-002.htm>`__ ; ( `PDF <{filename}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-002.pdf>`__ ) (updated: 11.16 '08)
-  * - `法雨雜誌第三期(2006.01) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-003.htm>`__ ; ( `PDF <{filename}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-003.pdf>`__ ) (updated: 11.16 '08)
-    - `法雨雜誌第四期(2007.01) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-004.htm>`__ ; ( `PDF <{filename}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-004.pdf>`__ ) (updated: 11.16 '08)
-  * - `法雨雜誌第五期(2007.12.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-005.htm>`__ ; ( `PDF <{filename}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-005.pdf>`__ ) (updated: 11.16 '08)
-    - `法雨雜誌第六期(2008.11.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-006.htm>`__ ; ( `PDF <{filename}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-006.pdf>`__ ) (updated: 09.06 '09)
+  * - `法雨雜誌第一期(2003.12.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-001.htm>`__ ; ( `PDF <{static}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-001.pdf>`__ ) (updated: 11.16 '08)
+    - `法雨雜誌第二期(2005.01.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-002.htm>`__ ; ( `PDF <{static}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-002.pdf>`__ ) (updated: 11.16 '08)
+  * - `法雨雜誌第三期(2006.01) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-003.htm>`__ ; ( `PDF <{static}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-003.pdf>`__ ) (updated: 11.16 '08)
+    - `法雨雜誌第四期(2007.01) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-004.htm>`__ ; ( `PDF <{static}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-004.pdf>`__ ) (updated: 11.16 '08)
+  * - `法雨雜誌第五期(2007.12.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-005.htm>`__ ; ( `PDF <{static}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-005.pdf>`__ ) (updated: 11.16 '08)
+    - `法雨雜誌第六期(2008.11.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-006.htm>`__ ; ( `PDF <{static}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-006.pdf>`__ ) (updated: 09.06 '09)
 
 詳細目錄
 ~~~~~~~~~~
 
 .. list-table:: 法雨雜誌詳細目錄
 
-  * - `法雨雜誌第一期(2003.12.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-001.htm>`__ ; ( `PDF <{filename}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-001.pdf>`__ ) (updated: 11.16 '08)
+  * - `法雨雜誌第一期(2003.12.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-001.htm>`__ ; ( `PDF <{static}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-001.pdf>`__ ) (updated: 11.16 '08)
 
       | 修禪的增上緣 / 明法比丘…………… 1
       | 工作禪 / 明法比丘…………………… 1
@@ -42,7 +42,7 @@
       | 「不殺生」與「不受用魚、肉」的古今觀/ 烏帕沙瑪比丘…………………18
       | 原始佛教與一般佛教的差別/明法比丘21
 
-    - `法雨雜誌第二期(2005.01.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-002.htm>`__ ; ( `PDF <{filename}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-002.pdf>`__ ) (updated: 11.16 '08)
+    - `法雨雜誌第二期(2005.01.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-002.htm>`__ ; ( `PDF <{static}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-002.pdf>`__ ) (updated: 11.16 '08)
 
       | 從根源作意(一) / 明法比丘…………… 1
       | 喜心的修習/ 明法比丘……………… 1
@@ -58,7 +58,7 @@
       | 善知識的話/ 緬甸 韋布大師………29
       | 來函照登
 
-  * - `法雨雜誌第三期(2006.01) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-003.htm>`__ ; ( `PDF <{filename}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-003.pdf>`__ ) (updated: 11.16 '08)
+  * - `法雨雜誌第三期(2006.01) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-003.htm>`__ ; ( `PDF <{static}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-003.pdf>`__ ) (updated: 11.16 '08)
 
       | 誰綁了你? / 明法比丘 ‥‥‥‥‥‥‥1
       | 隨緣自在/ 明法比丘‥‥‥‥‥‥‥‥1
@@ -72,7 +72,7 @@
       | 看護的態度/ 珍‥‥‥‥‥‥‥‥‥21
       | 法雨道場平日掛單須知 ‥‥‥‥‥‥22
 
-    - `法雨雜誌第四期(2007.01) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-004.htm>`__ ; ( `PDF <{filename}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-004.pdf>`__ ) (updated: 11.16 '08)
+    - `法雨雜誌第四期(2007.01) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-004.htm>`__ ; ( `PDF <{static}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-004.pdf>`__ ) (updated: 11.16 '08)
 
       | 苦,真實是苦/ 明法比丘 ‥‥‥‥‥‥ 1
       | 集,真實是集/ 明法比丘‥‥‥‥‥‥‥ 1
@@ -86,7 +86,7 @@
       | 在世界佈滿塵埃的道路上/ Paññālokā‥‥26
       | 來函照登 ‥‥‥‥‥‥‥‥‥‥‥‥ 27
 
-  * - `法雨雜誌第五期(2007.12.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-005.htm>`__ ; ( `PDF <{filename}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-005.pdf>`__ ) (updated: 11.16 '08)
+  * - `法雨雜誌第五期(2007.12.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-005.htm>`__ ; ( `PDF <{static}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-005.pdf>`__ ) (updated: 11.16 '08)
 
       | 滅,真實是滅/ 明法比丘 ‥‥‥‥‥‥ 1
       | 道,真實是道/ 明法比丘‥‥‥‥‥‥‥ 1
@@ -100,7 +100,7 @@
       | 《攝阿毘達摩義論表解》序/ 明法比丘29
       | 坐道場暫歇息/ 釋妙行‥‥‥‥‥‥‥30
 
-    - `法雨雜誌第六期(2008.11.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-006.htm>`__ ; ( `PDF <{filename}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-006.pdf>`__ ) (updated: 09.06 '09)
+    - `法雨雜誌第六期(2008.11.) <http://www.dhammarain.org.tw/magazine/dhammarain-mag-006.htm>`__ ; ( `PDF <{static}/extra/dhammarain/extra/doc/magazine/dhammarain-mag-006.pdf>`__ ) (updated: 09.06 '09)
 
       | 清閒 / 明法比丘　　　‥‥‥‥‥‥‥‥‥ 1
       | 正直 / 明法比丘‥‥‥‥‥‥‥‥‥‥ 1
@@ -119,7 +119,9 @@
       | 卐‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 27
       | 念死‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 28
 
+
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   04.22 upload (test under nanda acc.); 04.20 add:詳細目錄
   2018.04.19 create .rst for github; upload 04. & replace foreign1 with UTF-8
   2009.09.06 add: No.06 法雨雜誌第六期 (2008.12) 

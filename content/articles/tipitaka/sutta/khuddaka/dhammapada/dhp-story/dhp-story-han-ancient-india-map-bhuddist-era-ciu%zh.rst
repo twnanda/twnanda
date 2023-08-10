@@ -9,7 +9,7 @@
 :summary: 原始佛教時期的印度地圖（《法句經故事集》周金言 譯）
 
 
- .. image:: {filename}/extra/img/ancient-india-map-Bhuddist-Era.jpg
+ .. image:: {static}/extra/img/ancient-india-map-Bhuddist-Era.jpg
      :alt: 原始佛教時期的印度地圖
      :height: 505 px
      :width: 364 px
@@ -54,7 +54,7 @@
 
 ----
 
-原始佛教時期的印度地圖： `PDF 檔 <{filename}/extra/pdf/ancient-india-map-Bhuddist-Era.pdf>`__ 
+原始佛教時期的印度地圖： `PDF 檔 <{static}/extra/pdf/ancient-india-map-Bhuddist-Era.pdf>`__ 
 
 ----
 
@@ -174,4 +174,5 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 .. 
+   2023-08-08 rev. replace filename with static to match "gramma"
    2018-08-19 finish & upload from rst; 2018-08-02 create rst

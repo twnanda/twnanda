@@ -21,7 +21,7 @@
 
 | 二一　無逸不死 [LChnFn02-01]_ 道，放逸趣死路。無逸者不死，放逸者如尸 [LChnFn02-02]_ 。
 | 二二　智者深知此 [LChnFn02-03]_ ，所行不放逸。不放逸得樂，喜悅於聖境 [LChnFn02-04]_ 。
-| 二三　智者常堅忍，勇猛修禪定。解脫 [LChnFn02-05]_ 得安隱，證無上涅槃。 `典故 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，法句經故事集(偈 021~023) 
+| 二三　智者常堅忍，勇猛修禪定。解脫 [LChnFn02-05]_ 得安隱，證無上涅槃。 `典故 <{static}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，法句經故事集(偈 021~023) 
 | 
 
 二四　奮勉常正念，淨行能克己，如法而生活，無逸善名增。
@@ -73,4 +73,8 @@
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
-.. (研讀): 21~23; 25; 30
+.. 
+  2023-08-08 rev. replace filename with static to match "gramma"
+  (研讀): 21~23; 25; 30
+  :date: 2016-04-05 17:30
+  :modified: 2016-05-16 17:00

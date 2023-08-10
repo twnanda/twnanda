@@ -10,7 +10,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {filename}/extra/dhammarain/extra/img/top_01_full.gif
+  .. image:: {static}/extra/dhammarain/extra/img/top_01_full.gif
      :width: 948 px 
      :height: 98 px 
      :alt: 道場logo
@@ -27,6 +27,7 @@
 資訊更新日期: 07.11, `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2560; ( `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2017 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2018.04.22 upload (test under nanda acc.); 04.19 create .rst for github
       	2017.07.11 rev.: Abhidhammatthasavgaho 《攝阿毘達摩義論》表解 (2015.03.修訂版)：　 分章目錄 (更新: 2015.06.08); -- (2008.12.修訂版) a href="yabe1/Abhidhammattha-sangaha_Table.zip">ZIP</a>(<b>17,660 KB</b>);
       	12.21 add: 出版前言(雜阿含經注；明法比丘（Metta Bhikkhu）注；遺著) 

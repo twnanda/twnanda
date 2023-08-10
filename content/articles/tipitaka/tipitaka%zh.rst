@@ -198,7 +198,7 @@ Sutta Piṭaka 經藏 (The collection of discourses):
 
 .. _人施設論:
 
-- （4.） `Puggala-paññatti 人施設論 <{filename}/extra/authors/dhammavihaarii/puggala-pannatti/Puggala-pannatti.html>`_ (Abr.=Pp) [Designation of Human-type(PTS)] or (Description of Individuals)
+- （4.） `Puggala-paññatti 人施設論 <{static}/extra/authors/dhammavihaarii/puggala-pannatti/Puggala-pannatti.html>`_ (Abr.=Pp) [Designation of Human-type(PTS)] or (Description of Individuals)
 
 - （5.） Kathā-vatthu 論事 (Abr.=KV) [Points of Controversy, 2 vols(PTS)]
 
@@ -233,26 +233,28 @@ Sutta Piṭaka 經藏 (The collection of discourses):
 
 - 巴利三藏 PTS 與 CSCD 頁碼對照表：(A Table of Corresponding Page Numbers of the Nikāyā, including some aṭṭhakathā and ṭīkā in PTS and CSCD)（ `法雨道場 <http://www.dhammarain.org.tw/>`__ ，故 `明法尊者 <http://www.dhammarain.org.tw/obituary.html>`__ 遺著） (2020-08-16)
 
-  * `長部 Dīghanikāya <{filename}/extra/tipitaka/D-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/D-CS-vs-PTS.pdf>`__ 
-  * `中部 Majjhimanikāya <{filename}/extra/tipitaka/M-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/M-CS-vs-PTS.pdf>`__ 
+  * `長部 Dīghanikāya <{static}/extra/tipitaka/D-CS-vs-PTS.htm>`__ 、 `PDF <{static}/extra/tipitaka/D-CS-vs-PTS.pdf>`__ 
+  * `中部 Majjhimanikāya <{static}/extra/tipitaka/M-CS-vs-PTS.htm>`__ 、 `PDF <{static}/extra/tipitaka/M-CS-vs-PTS.pdf>`__ 
 
-    - `中部注釋《破除疑障(破斥猶豫)》Majjhimanikāya-aṭṭhakathā (Papañcasūdanī) <{filename}/extra/tipitaka/MA-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/MA-CS-vs-PTS.pdf>`__ 
+    - `中部注釋《破除疑障(破斥猶豫)》Majjhimanikāya-aṭṭhakathā (Papañcasūdanī) <{static}/extra/tipitaka/MA-CS-vs-PTS.htm>`__ 、 `PDF <{static}/extra/tipitaka/MA-CS-vs-PTS.pdf>`__ 
 
-  * `相應部 Saṁyuttanikāya <{filename}/extra/tipitaka/S-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/S-CS-vs-PTS.pdf>`__
+  * `相應部 Saṁyuttanikāya <{static}/extra/tipitaka/S-CS-vs-PTS.htm>`__ 、 `PDF <{static}/extra/tipitaka/S-CS-vs-PTS.pdf>`__
 
-    - `相應部注釋《顯揚心義（顯揚真義）》 Saṁyuttanikāya-aṭṭhakathā(1~5), sāratthappakāsinī) <{filename}/extra/tipitaka/Spk-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/Spk-CS-vs-PTS.pdf>`__
-    - `相應部疏 Saṁyuttanikāya-ṭīkā <{filename}/extra/tipitaka/St-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/St-CS-vs-PTS.pdf>`__
+    - `相應部注釋《顯揚心義（顯揚真義）》 Saṁyuttanikāya-aṭṭhakathā(1~5), sāratthappakāsinī) <{static}/extra/tipitaka/Spk-CS-vs-PTS.htm>`__ 、 `PDF <{static}/extra/tipitaka/Spk-CS-vs-PTS.pdf>`__
+    - `相應部疏 Saṁyuttanikāya-ṭīkā <{static}/extra/tipitaka/St-CS-vs-PTS.htm>`__ 、 `PDF <{static}/extra/tipitaka/St-CS-vs-PTS.pdf>`__
 
-  * `增支部 Aṅguttaranikāya <{filename}/extra/tipitaka/A-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/A-CS-vs-PTS.pdf>`__
+  * `增支部 Aṅguttaranikāya <{static}/extra/tipitaka/A-CS-vs-PTS.htm>`__ 、 `PDF <{static}/extra/tipitaka/A-CS-vs-PTS.pdf>`__
 
-    - `增支部注釋《滿足希求》 Aṅguttaranikāya-aṭṭhakathā, Manorathapūraṇī <{filename}/extra/tipitaka/AA-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/AA-CS-vs-PTS.pdf>`__
-    - `增支部疏 Aṅguttaranikāya-ṭīkā <{filename}/extra/tipitaka/At-CS-vs-PTS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/At-CS-vs-PTS.pdf>`__
+    - `增支部注釋《滿足希求》 Aṅguttaranikāya-aṭṭhakathā, Manorathapūraṇī <{static}/extra/tipitaka/AA-CS-vs-PTS.htm>`__ 、 `PDF <{static}/extra/tipitaka/AA-CS-vs-PTS.pdf>`__
+    - `增支部疏 Aṅguttaranikāya-ṭīkā <{static}/extra/tipitaka/At-CS-vs-PTS.htm>`__ 、 `PDF <{static}/extra/tipitaka/At-CS-vs-PTS.pdf>`__
 
-  * `善見毗婆沙（善見律毗婆沙, Samantapāsādikā, Sp <{filename}/extra/tipitaka/Sp-PTS-vs-CS.htm>`__ 、 `PDF <{filename}/extra/tipitaka/Sp-PTS-vs-CS.pdf>`__
+  * `善見毗婆沙（善見律毗婆沙, Samantapāsādikā, Sp <{static}/extra/tipitaka/Sp-PTS-vs-CS.htm>`__ 、 `PDF <{static}/extra/tipitaka/Sp-PTS-vs-CS.pdf>`__
 
-  * `PTS 版《巴利藏》與《漢譯南傳大藏經》對照表 <{filename}/extra/tipitaka/PTS-vs-han-kuan-hen-si.htm>`__ (HTML)
+  * `PTS 版《巴利藏》與《漢譯南傳大藏經》對照表 <{static}/extra/tipitaka/PTS-vs-han-kuan-hen-si.htm>`__ (HTML)
+
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2020-08-16 add:巴利三藏 PTS 與 CSCD 頁碼對照表 
   03.27 add 巴利 on title
   03.15 2017 rev. old:戒(集)蘊品; old: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/tipitaka.htm

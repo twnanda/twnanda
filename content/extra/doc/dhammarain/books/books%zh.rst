@@ -11,7 +11,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {filename}/extra/dhammarain/extra/img/top_01_full.gif
+  .. image:: {static}/extra/dhammarain/extra/img/top_01_full.gif
      :width: 948 px 
      :height: 98 px
      :alt: 道場logo
@@ -284,6 +284,7 @@ Jack Kornfield
 資訊更新日期: 01.22, `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2561; ( `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2018 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2018.04.22 upload (test under nanda acc.); 04.21 create .rst for github
 
         ven-metta/big_writer.htm
@@ -310,7 +311,7 @@ Jack Kornfield
         canon/vinaya/pc-Bhikkhuniipatimokkha.html
         canon/vinaya/pce-Bhikkhuniipatimokkha.html
         canon/vinaya/bhikkhupatimokkha.html
-        清淨道論  `直接閱讀 <{filename}/extra/dhammarain/extra/doc/canon/post-canon/c-Visuddhimagga.html/>`__ (html) 、
+        清淨道論  `直接閱讀 <{static}/extra/dhammarain/extra/doc/canon/post-canon/c-Visuddhimagga.html/>`__ (html) 、
 
         doc/books/sanro-2ndVer.htm
         extra/doc/books/health-all.htm

@@ -25,14 +25,14 @@ DN 2 Sāmaññaphala Sutta PTS 編次(No.): DN 02; PTS頁碼(Pp.): D i 47
 
   * 主譯：德雄比丘（Bhikkhu Guooavaara）(中文助譯：不成道人)(2002年9月)[英文編譯：菩提比丘（Bhikkhu Bodhi）1988年5月]
 
-    * `版權頁 <{filename}/extra/authors/guooavaara/DN02-Ven-Dhasioun-donors.html>`__
-    * `導 讀 <{filename}/extra/authors/guooavaara/DN02-Ven-Dhasioun-introduction.html>`__
-    * `英譯序 <{filename}/extra/authors/guooavaara/DN02-Ven-Dhasioun-preface-Eng.html>`__
-    * `中譯序 <{filename}/extra/authors/guooavaara/DN02-Ven-Dhasioun-preface-Han.html>`__
-    * `Ⅰ. 經文篇 <{filename}/extra/authors/guooavaara/DN02-Ven-Dhasioun.html>`__
-    * `Ⅱ. 註疏篇 <{filename}/extra/authors/guooavaara/DN02-Ven-Dhasioun-commentary.html>`__
+    * `版權頁 <{static}/extra/authors/guooavaara/DN02-Ven-Dhasioun-donors.html>`__
+    * `導 讀 <{static}/extra/authors/guooavaara/DN02-Ven-Dhasioun-introduction.html>`__
+    * `英譯序 <{static}/extra/authors/guooavaara/DN02-Ven-Dhasioun-preface-Eng.html>`__
+    * `中譯序 <{static}/extra/authors/guooavaara/DN02-Ven-Dhasioun-preface-Han.html>`__
+    * `Ⅰ. 經文篇 <{static}/extra/authors/guooavaara/DN02-Ven-Dhasioun.html>`__
+    * `Ⅱ. 註疏篇 <{static}/extra/authors/guooavaara/DN02-Ven-Dhasioun-commentary.html>`__
 
-  * `沙門本色的果經 <{filename}/extra/authors/liau/DN02-TW-Liau.htm>`__ (廖文燦；臺灣，佛曆 B.E. 2549年;  2005 B.C.E)
+  * `沙門本色的果經 <{static}/extra/authors/liau/DN02-TW-Liau.htm>`__ (廖文燦；臺灣，佛曆 B.E. 2549年;  2005 B.C.E)
 
   * `沙門果經 <http://tripitaka.cbeta.org/N06n0004_002>`__ ；通妙譯，元亨寺漢譯南傳大藏經； original 原始出處: `CBETA <http://www.cbeta.org/>`__ [5]_
 
@@ -100,6 +100,7 @@ DN 2 Sāmaññaphala Sutta PTS 編次(No.): DN 02; PTS頁碼(Pp.): D i 47
 
 .. [12] `增壹阿含經 <http://buddhaspace.org/agama1/>`__ → `馬血天子問八政品第四十三 <http://buddhaspace.org/agama1/43.html>`__ → `（七） <http://buddhaspace.org/agama1/43.html#七>`__  (國立臺灣大學 「 `獅子吼佛學專站 <http://buddhaspace.org/main/modules/dokuwiki/agama:%E5%8F%B0%E5%A4%A7%E7%8D%85%E5%AD%90%E5%90%BC%E4%BD%9B%E5%AD%B8%E5%B0%88%E7%AB%99%E7%B0%A1%E4%BB%8B>`_ 」「 `阿含藏專案列表 <http://buddhaspace.org/main/modules/dokuwiki/>`_ 」)
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   12.28 add:通妙譯，元亨寺; SuttaCentral; 獅子吼佛學專站「 阿含藏專案列表 」footnote; 
   12.27 2017 add: 巴利(Pāḷi) 原典; del:  * 韋提希子月夜問夫人經(已亡佚，原參赤沼智善《漢巴四部四阿含互照錄》的對照表)(聶承遠--誤植)
   .. -- li ahref= 雜阿含卷七第一五六～一六五經(大正‧卷七‧一五四～一六三經)。ap --

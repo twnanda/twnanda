@@ -14,7 +14,7 @@ By **Venerable U Ādiccaramsī** ; The translator: **Bhikkhu Uttamo**
 
 **Venerable U Ādiccaramsī** (1937-2002) Portrait
 
-.. image:: {filename}/extra/img/ven-adiccaramsi-portrait.jpg
+.. image:: {static}/extra/img/ven-adiccaramsi-portrait.jpg
    :alt: Venerable U Ādiccaramsī's Portrait
    :align: center
    :height: 379 px
@@ -89,6 +89,7 @@ By **Venerable U Ādiccaramsī** ; The translator: **Bhikkhu Uttamo**
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   05-05 add linkings of all the MP3 files & Youtube
   2023-04-18 add: audio (MP3 & Youtube, including citta channel)
   10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante

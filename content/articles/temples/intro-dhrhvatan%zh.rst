@@ -17,7 +17,7 @@
 
 ----
 
-- `德化堂 <{filename}/extra/temples/dhrhwatan/Culture-apx3-7.html>`__ 〔原置於文化建設委員會( `文化部 <http://www.moc.gov.tw/>`__ )網站之台南市古蹟使用調查與評估--附錄--靜修地類古蹟，現已移除；沿用本網站之歷史庫存檔。〕
+- `德化堂 <{static}/extra/temples/dhrhwatan/Culture-apx3-7.html>`__ 〔原置於文化建設委員會( `文化部 <http://www.moc.gov.tw/>`__ )網站之台南市古蹟使用調查與評估--附錄--靜修地類古蹟，現已移除；沿用本網站之歷史庫存檔。〕
 
   | 另可參考「 `國家圖書館`_ 」內【 `臺灣鄉土文獻影像資料庫`_ 】中之 `臺南市古蹟使用調查與評估`_ ）。
   | 
@@ -43,7 +43,7 @@
 
 - `台南德化堂`_ （取自： `維基百科`_ ）
 
-- `德化堂 <{filename}/extra/temples/dhrhwatan/3.htm>`__ （原置於「風月無情--個性小舖」站之「古蹟巡禮」，現已移除；沿用本網站之歷史庫存檔）。
+- `德化堂 <{static}/extra/temples/dhrhwatan/3.htm>`__ （原置於「風月無情--個性小舖」站之「古蹟巡禮」，現已移除；沿用本網站之歷史庫存檔）。
 - `德化堂 <http://www.dang.idv.tw/temple/t13.htm>`_
   （ `鯤島本土文化園地`_ -- `府城廟宇巡禮`_ -13）。
 - `光復前台南德化堂的歷史 <http://ccbs.ntu.edu.tw/FULLTEXT/JR-BJ010/bj97036.htm>`_ （從龍華教到佛教---光復前台南德化堂的歷史 / 圓光佛學研究中心台灣佛教特藏室　/ 王見川 / 圓光佛學學報 / 第五期(2000.12) / 頁241-280）
@@ -68,6 +68,7 @@
 .. _台灣佛教史料庫: http://buddhism.lib.ntu.edu.tw/museum/TAIWAN/ 
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2022-05-26 rev. del: :oldurl: http://myweb.ncku.edu.tw/~lsn46/Temples/Dhrhvatan/dhrhvatan.htm
                        .. _古蹟建築_台南德化堂: http://www.dm.ncyu.edu.tw/database/titleout_content_n.asp?ID=249&OName=%A5x%ABn%BCw%A4%C6%B0%F3&AllText=
                        .. _臺灣建築檔案: http://www.dm.ncyu.edu.tw/

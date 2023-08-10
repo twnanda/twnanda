@@ -35647,11 +35647,11 @@
 
 .. [3] 〔註003〕　本譯文請參考： `文言文版 <{filename}../dhp-Ven-L-C/dhp-Ven-L-C%zh.rst>`__ ( **了參 法師** 譯，台北市：圓明出版社，1991。) 另參： 
 
-       一、 Dhammapada 法句經(中英對照) -- English translated by **Ven. Ācharya Buddharakkhita** ; Chinese translated by Yeh chun(葉均); Chinese commented by **Ven. Bhikkhu Metta(明法比丘)** 〔 **Ven. Ācharya Buddharakkhita** ( **佛護 尊者** ) 英譯; **了參 法師(葉均)** 譯; **明法比丘** 註（增加許多濃縮的故事）〕： `PDF <{filename}/extra/pdf/ec-dhp.pdf>`__ 、 `DOC <{filename}/extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/ec-dhp-f1.doc>`__ 。
+       一、 Dhammapada 法句經(中英對照) -- English translated by **Ven. Ācharya Buddharakkhita** ; Chinese translated by Yeh chun(葉均); Chinese commented by **Ven. Bhikkhu Metta(明法比丘)** 〔 **Ven. Ācharya Buddharakkhita** ( **佛護 尊者** ) 英譯; **了參 法師(葉均)** 譯; **明法比丘** 註（增加許多濃縮的故事）〕： `PDF <{static}/extra/pdf/ec-dhp.pdf>`__ 、 `DOC <{static}/extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) <{static}/extra/doc/ec-dhp-f1.doc>`__ 。
 
-       二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF <{filename}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{filename}/extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/pc-Dhammapada-f1.doc>`__
+       二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF <{static}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{static}/extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) <{static}/extra/doc/pc-Dhammapada-f1.doc>`__
 
-.. [4] 〔註004〕　本譯文請參考： `白話文版 <{filename}../dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__ ， **敬法 法師** 譯，第二修訂版 2015，`pdf <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__ ，`原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`__ ；　(`初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
+.. [4] 〔註004〕　本譯文請參考： `白話文版 <{filename}../dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__ ， **敬法 法師** 譯，第二修訂版 2015，`pdf <{static}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__ ，`原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`__ ；　(`初版 <{static}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
 
 .. [5] 〔註005〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
 
@@ -38999,7 +38999,7 @@
 
 .. [MettFn12-09] 〔明法尊者註12-09〕 **(自)己利益** ︰attadatthaṁ，指道、果、涅槃。
 
-.. [MettFn12-10] 〔明法尊者註12-10〕 佛陀宣告︰「四個月後即將般涅槃。」七百位凡夫比丘(puthujjanā bhikkhū)生起悚懼心，來親近佛陀，共商︰「我們該怎麼辦？」有位自利長老(Attadatthatthero阿塔達塔)依然保持正常的作息，不來佛陀的身邊。其他比丘誤解他的心意，便向佛陀報告。自利長老於是恭敬地向佛陀解釋，他對佛陀最崇敬的就是在佛陀般涅槃之前，證得阿羅漢果。佛陀讚歎他：「做得好！尊敬我的比丘，應該像你一樣。只有真正法隨法行(dhammānudhammaṁ paṭipajjantāyeva)的人才是真正尊敬我的人。」(與364偈的 `故事--二十五～四、尊重佛陀的方法 <{filename}/extra/pdf/Dhp-story-han-chap25.pdf>`__ 同)。
+.. [MettFn12-10] 〔明法尊者註12-10〕 佛陀宣告︰「四個月後即將般涅槃。」七百位凡夫比丘(puthujjanā bhikkhū)生起悚懼心，來親近佛陀，共商︰「我們該怎麼辦？」有位自利長老(Attadatthatthero阿塔達塔)依然保持正常的作息，不來佛陀的身邊。其他比丘誤解他的心意，便向佛陀報告。自利長老於是恭敬地向佛陀解釋，他對佛陀最崇敬的就是在佛陀般涅槃之前，證得阿羅漢果。佛陀讚歎他：「做得好！尊敬我的比丘，應該像你一樣。只有真正法隨法行(dhammānudhammaṁ paṭipajjantāyeva)的人才是真正尊敬我的人。」(與364偈的 `故事--二十五～四、尊重佛陀的方法 <{static}/extra/pdf/Dhp-story-han-chap25.pdf>`__ 同)。
 
                   PS: 請參《法句經故事集》，十二～十、 `精進的比丘 <{filename}../dhp-story/dhp-story-han-chap12-ciu%zh.rst#dhp->`__ (偈 166)。
 
@@ -41569,7 +41569,7 @@
 
                   PS: 請參《法句經故事集》，二十五～三、 `比丘應該慎言 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-363>`__  (偈 363)。
 
-.. [MettFn25-04] 〔明法尊者註25-04〕 佛陀宣告︰「四個月後即將般涅槃。」許多凡夫比丘生悚懼心，來親近佛陀，一夥人來討論「我們該怎麼辦？」有位達摩拉瑪比丘(Dhammārāmo)依然保持正常的作息，不來佛陀的身邊。其他比丘誤解他的心意，便向佛陀報告。達摩拉瑪比丘於是恭敬地向佛陀解釋，他對佛陀最崇敬的就是在佛陀般涅槃之前，證得阿羅漢果。佛陀讚歎他：「做得好！尊敬我的比丘，應該像你一樣。只有真正法隨法行(dhammānudhammaṁ paṭipajjantāyeva)的人才是真正尊敬我的人。」(與166偈的 `故事--十二～十、精進的比丘 <{filename}/extra/pdf/Dhp-story-han-chap12.pdf>`__ 同)。
+.. [MettFn25-04] 〔明法尊者註25-04〕 佛陀宣告︰「四個月後即將般涅槃。」許多凡夫比丘生悚懼心，來親近佛陀，一夥人來討論「我們該怎麼辦？」有位達摩拉瑪比丘(Dhammārāmo)依然保持正常的作息，不來佛陀的身邊。其他比丘誤解他的心意，便向佛陀報告。達摩拉瑪比丘於是恭敬地向佛陀解釋，他對佛陀最崇敬的就是在佛陀般涅槃之前，證得阿羅漢果。佛陀讚歎他：「做得好！尊敬我的比丘，應該像你一樣。只有真正法隨法行(dhammānudhammaṁ paṭipajjantāyeva)的人才是真正尊敬我的人。」(與166偈的 `故事--十二～十、精進的比丘 <{static}/extra/pdf/Dhp-story-han-chap12.pdf>`__ 同)。
 
                   PS: 請參《法句經故事集》，二十五～四、 `尊重佛陀的方法 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-364>`__  (偈 364)。
 
@@ -41599,7 +41599,7 @@
 
                   PS: 請參《法句經故事集》，二十五～九、 `比丘應該內心寧靜 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-378>`__  (偈 378)。
 
-.. [MettFn25-14] 〔明法尊者註25-14〕 犁家長老(Naṅgalakulatthera難迦拉苦拉)是一位窮人。有一天，一位比丘 看見他穿破衣服耕種，就問他是否願意出家。他答應了，他把犁和舊衣服掛在一棵樹上去出家。出家後，他對比丘的生活不滿，想還俗。每次生起這種念頭的時候，他就到那棵樹下去，並且譴責自己：「不知羞恥！你還想還俗，穿舊衣，領薪過生活啊！」這樣自責之後，他的不滿就消失了。其他比丘問他為什麼經常到那棵樹下？他告訴他們：「我去親近我的老師(ācariya)。」後來，他證得阿羅漢果，就不再去那棵樹下了。其他比丘問他：「你現在怎麼不再去找你的老師了呢？」他回答說：「我以前去找老師，是因為有需要，但現在已經不需要了！」比丘們就向佛陀查證，佛陀告訴他們：「難迦拉苦拉已經證得阿羅漢果了。」本則故事跟143-144偈的卑盧帝沙(Pilotikatissa)的 `故事-- 十～十、年輕比丘和破舊的衣服 <{filename}/extra/pdf/Dhp-story-han-chap10.pdf>`__ 雷同。 (Dhp. 380 cp. `Dhp. 160 <{filename}dhp-contrast-reading-chap12%zh.rst#dhp160>`__ )
+.. [MettFn25-14] 〔明法尊者註25-14〕 犁家長老(Naṅgalakulatthera難迦拉苦拉)是一位窮人。有一天，一位比丘 看見他穿破衣服耕種，就問他是否願意出家。他答應了，他把犁和舊衣服掛在一棵樹上去出家。出家後，他對比丘的生活不滿，想還俗。每次生起這種念頭的時候，他就到那棵樹下去，並且譴責自己：「不知羞恥！你還想還俗，穿舊衣，領薪過生活啊！」這樣自責之後，他的不滿就消失了。其他比丘問他為什麼經常到那棵樹下？他告訴他們：「我去親近我的老師(ācariya)。」後來，他證得阿羅漢果，就不再去那棵樹下了。其他比丘問他：「你現在怎麼不再去找你的老師了呢？」他回答說：「我以前去找老師，是因為有需要，但現在已經不需要了！」比丘們就向佛陀查證，佛陀告訴他們：「難迦拉苦拉已經證得阿羅漢果了。」本則故事跟143-144偈的卑盧帝沙(Pilotikatissa)的 `故事-- 十～十、年輕比丘和破舊的衣服 <{static}/extra/pdf/Dhp-story-han-chap10.pdf>`__ 雷同。 (Dhp. 380 cp. `Dhp. 160 <{filename}dhp-contrast-reading-chap12%zh.rst#dhp160>`__ )
 
                   PS: 請參《法句經故事集》，二十五～十、 `執著於老舊的衣服 <{filename}../dhp-story/dhp-story-han-chap25-ciu%zh.rst#dhp-379>`__  (偈 379~380)。
 
@@ -42439,6 +42439,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   04-09 add Dhp. 113 研讀
   04-08 rev. move to subdirectory-dhp-study
   2021-02-24 rev. correct typo

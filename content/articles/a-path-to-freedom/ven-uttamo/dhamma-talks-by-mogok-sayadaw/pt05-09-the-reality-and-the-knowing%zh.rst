@@ -58,14 +58,14 @@ Therefore, we were ending up at other’s sayings and making many prayers (inclu
 
 Contemplation of the mind
 
-.. image:: {filename}/extra/img/mogok-pt05-fig3-external.jpg
+.. image:: {static}/extra/img/mogok-pt05-fig3-external.jpg
    :alt: Contemplation of the mind
    :align: center
  
 | (Bodily consciousness: unpleasant and pleasant experiences—itches, pain, etc.)
 | 
 
-.. image:: {filename}/extra/img/mogok-pt05-fig4-internal.jpg
+.. image:: {static}/extra/img/mogok-pt05-fig4-internal.jpg
    :alt: 6-Internal guest mind
    :align: center
 
@@ -159,6 +159,7 @@ revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   07-28 rev. proofread by bhante
   2021-03-15 rev. proofread by bhante
   2020-03-24 rev. image sytax, old: .. image:: {filename}/extra/img/mogok-pt05-fig3-external.jpg

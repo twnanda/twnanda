@@ -366,7 +366,7 @@
 
   * 巴、漢、英文對讀：
 
-    - `本站 <{filename}/extra/tipitaka/sutta/anguttara/an03/an03.65.contrast-reading.html>`__
+    - `本站 <{static}/extra/tipitaka/sutta/anguttara/an03/an03.65.contrast-reading.html>`__
 
     - `Details for AN 3.65 Kesaputti [Kālāma] <https://suttacentral.net/an3.65>`__ ( `SuttaCentral <https://suttacentral.net/>`__ [10]_ )
 
@@ -2406,7 +2406,9 @@
 
 .. [12] § 2.8.南傳《中部》第 120《行生經》（ `福嚴佛學院 <http://www.fuyan.org.tw/>`__ →研究論文→福嚴佛學研究第三期 (2008.04)；或 `溫宗堃の風培基 <http://tkwen.theravada-chinese.org>`__ →福嚴佛學院講義 → `福嚴佛學研究 第三期 (2008.04)(PDF) <http://tkwen.theravada-chinese.org/Fuyan/Buddhist/Studies/v3_2008.pdf>`__ ）
 
+
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2019-02-11 add anchor of 一切漏經注( .. _mn02-att:)
   12.17 2018 add: 一切漏經注 書目 & 書訊
   10.16 METTANET - LANKA (metta.lk) re-activation

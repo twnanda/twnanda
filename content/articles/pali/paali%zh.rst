@@ -86,17 +86,17 @@ Velthuis方案最初由Frans Velthuis在1991年為他給TEX排字系統設計的
 其他參考資料
 ~~~~~~~~~~~~~~
 
-- `舊有字型換為 Unicode字型 <{filename}/extra/pali/change-to-Unicode.html>`__ ：將舊有以不同字型(例如 foreign1, Kh2 或 VriRomanPali CN, Times_CSX+)羅馬化轉寫巴利語之檔案，藉由 ms Word 巨集換為 Unicode字型；　請參考：（ `為什麼要改用 Unicode <{filename}/extra/pali/Why-Unicode.html>`_ ）
+- `舊有字型換為 Unicode字型 <{static}/extra/pali/change-to-Unicode.html>`__ ：將舊有以不同字型(例如 foreign1, Kh2 或 VriRomanPali CN, Times_CSX+)羅馬化轉寫巴利語之檔案，藉由 ms Word 巨集換為 Unicode字型；　請參考：（ `為什麼要改用 Unicode <{static}/extra/pali/Why-Unicode.html>`_ ）
 
-- `如何正常瀏覽以 UTF-8 編碼之網頁 <{filename}/extra/pali/utf-8.htm>`__
+- `如何正常瀏覽以 UTF-8 編碼之網頁 <{static}/extra/pali/utf-8.htm>`__
 
-- `轉寫巴利語之各種字型字元對應 (Romanized Pāḷi Character Mapping) <{filename}/extra/pali/Romanized-Paali-Character-font-Mapping.pdf>`__
+- `轉寫巴利語之各種字型字元對應 (Romanized Pāḷi Character Mapping) <{static}/extra/pali/Romanized-Paali-Character-font-Mapping.pdf>`__
 
 ----
 
-- `把【巴利專有名詞新音譯方案】的文字(例如苟答馬、阿拉漢、比庫等等)藉由 ms Word 巨集 回復為一般譯名(喬答摩、阿羅漢、比丘等等) <{filename}/extra/pali/pali-term-recover-normal-macro.html>`__ ； `PDF <{filename}/extra/pali/pali-term-recover-normal-macro.pdf>`__ ； 請參考： `〈「喬答摩」沒有必要「規範」為「果德瑪」〉迴響輯要  <{filename}/extra/pali/pali-term-change-response.html>`__ , `PDF <{filename}/extra/pali/pali-term-change-response.pdf>`__ 
+- `把【巴利專有名詞新音譯方案】的文字(例如苟答馬、阿拉漢、比庫等等)藉由 ms Word 巨集 回復為一般譯名(喬答摩、阿羅漢、比丘等等) <{static}/extra/pali/pali-term-recover-normal-macro.html>`__ ； `PDF <{static}/extra/pali/pali-term-recover-normal-macro.pdf>`__ ； 請參考： `〈「喬答摩」沒有必要「規範」為「果德瑪」〉迴響輯要  <{static}/extra/pali/pali-term-change-response.html>`__ , `PDF <{static}/extra/pali/pali-term-change-response.pdf>`__ 
 
-- `把【巴利專有名詞新音譯方案】的文字(例如苟答馬、阿拉漢、比庫等等)藉由 Google Chrome 擴充功能 回復為一般譯名(喬答摩、阿羅漢、比丘等等) <{filename}/extra/pali/pali-term-recover-normal-chrome-extension.html>`__ 
+- `把【巴利專有名詞新音譯方案】的文字(例如苟答馬、阿拉漢、比庫等等)藉由 Google Chrome 擴充功能 回復為一般譯名(喬答摩、阿羅漢、比丘等等) <{static}/extra/pali/pali-term-recover-normal-chrome-extension.html>`__ 
 
 ----
 
@@ -112,35 +112,35 @@ Velthuis方案最初由Frans Velthuis在1991年為他給TEX排字系統設計的
 
 - 巴漢詞典 Concise Pāḷi-English Dictionary A.P.Buddhadatta Mahāthera 原著；大馬比丘 Mahāñāṇo 漢譯；明法比丘 繼續編輯至 2009.5； `直接閱讀 </extra/pali/concise-pali-Han-revised-by-Ven-Metta-2009.htm>`__ (html) 、 `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/concise-pali-Han-revised-by-Ven-Metta-2009.pdf>`__ 、　 `(ms).doc <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/concise-pali-Han-revised-by-Ven-Metta-2009.doc>`__ 、　`PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/concise-pali-Han-revised-by-Ven-Metta-2009-simplified-cn.pdf>`__ (中文簡體版)
 
-  * `簡明巴英詞典 <{filename}/extra/pali/Concise-Pali-Han-Maha.html>`__ (Concise Pali-English Dictionary), A.P. Buddhadatta Mahāthera 原著, 大馬比丘 **漢譯** ; 「法雨道場」訂正，補充。2005.4. `PDF <{filename}/extra/pali/Concise-Pali-Han-Maha.pdf>`__ ; `RST <{filename}/extra/pali/Concise-Pali-Han-Maha.rst>`__
+  * `簡明巴英詞典 <{static}/extra/pali/Concise-Pali-Han-Maha.html>`__ (Concise Pali-English Dictionary), A.P. Buddhadatta Mahāthera 原著, 大馬比丘 **漢譯** ; 「法雨道場」訂正，補充。2005.4. `PDF <{static}/extra/pali/Concise-Pali-Han-Maha.pdf>`__ ; `RST <{static}/extra/pali/Concise-Pali-Han-Maha.rst>`__
 
 - `簡要巴漢辭典 <http://agama.buddhason.org/study/note.htm>`_ （莊春江工作站）
 
-- `巴利-漢-英語 佛學名相 辭彙 <{filename}/extra/pali/Pali-Han-Eng-glossary.htm>`__
+- `巴利-漢-英語 佛學名相 辭彙 <{static}/extra/pali/Pali-Han-Eng-glossary.htm>`__
 
-- `簡明巴英詞典 <{filename}/extra/pali/Concise-Pali-Han-Maha-Ver-B.html>`__ (Concise Pali-English Dictionary), A.P. Buddhadatta Mahāthera 原著,  大馬比丘 漢譯; Digital Edition: Marcus Bingenheimer with Shi Zhanghui 釋章慧, Guan Zefu 關則富, Yue Jiandong 越建東, Zhuang Guobin 莊國彬, Huang Yumei 黃玉媺, Cai Bolang 蔡伯郎; Digital Edition Version 1.0 (Autumn 2005); `PDF <{filename}/extra/pali/Concise-Pali-Han-Maha-Ver-B.pdf>`__ 
+- `簡明巴英詞典 <{static}/extra/pali/Concise-Pali-Han-Maha-Ver-B.html>`__ (Concise Pali-English Dictionary), A.P. Buddhadatta Mahāthera 原著,  大馬比丘 漢譯; Digital Edition: Marcus Bingenheimer with Shi Zhanghui 釋章慧, Guan Zefu 關則富, Yue Jiandong 越建東, Zhuang Guobin 莊國彬, Huang Yumei 黃玉媺, Cai Bolang 蔡伯郎; Digital Edition Version 1.0 (Autumn 2005); `PDF <{static}/extra/pali/Concise-Pali-Han-Maha-Ver-B.pdf>`__ 
 
-- `巴漢辭典（附 巴利字索引） <{filename}/extra/pali/Pali-han-Liau.html>`__，譯者：（台灣．斗六）廖文燦； 2009.4. `PDF <{filename}/extra/pali/Pali-han-Liau.pdf>`__ ; `RST <{filename}/extra/pali/Pali-han-Liau.rst>`__
+- `巴漢辭典（附 巴利字索引） <{static}/extra/pali/Pali-han-Liau.html>`__，譯者：（台灣．斗六）廖文燦； 2009.4. `PDF <{static}/extra/pali/Pali-han-Liau.pdf>`__ ; `RST <{static}/extra/pali/Pali-han-Liau.rst>`__
 
-- `巴利字尾 <{filename}/extra/pali/suffix-of-pali.htm>`__ 、 `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/suffix-of-pali.pdf>`__ 、 `(ms).doc  <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/suffix-of-pali.doc>`__ （ 法雨道場，故　明法比丘　著）
+- `巴利字尾 <{static}/extra/pali/suffix-of-pali.htm>`__ 、 `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/suffix-of-pali.pdf>`__ 、 `(ms).doc  <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/suffix-of-pali.doc>`__ （ 法雨道場，故　明法比丘　著）
 
-- 巴利語入門 PĀḶI PRIMER（原作者： Lily de Silva, M. A, Ph. D.，含〈習題解答與文法分析〉及〈簡明實用文法〉；整理者：釋性恩(Dhammajīvī)） `直接閱讀 <{filename}/extra/pali/Pali_Primary.html>`__ （HTML）、 `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/pali_primary.pdf>`__ 、 `DOC <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/pali_primary.doc>`__  [2005-04-02 版]；
+- 巴利語入門 PĀḶI PRIMER（原作者： Lily de Silva, M. A, Ph. D.，含〈習題解答與文法分析〉及〈簡明實用文法〉；整理者：釋性恩(Dhammajīvī)） `直接閱讀 <{static}/extra/pali/Pali_Primary.html>`__ （HTML）、 `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/pali_primary.pdf>`__ 、 `DOC <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/pali_primary.doc>`__  [2005-04-02 版]；
 
-- 巴利語輕鬆上路(ENJOYING Pali)(護法法師 選文; 蔡奇林 譯解)： `直接閱讀 <{filename}/extra/pali/pali-easy.htm>`__ (HTML)； `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/pali-easy.pdf>`__ ;  `(ms).doc <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/pali-easy.doc>`__ 
+- 巴利語輕鬆上路(ENJOYING Pali)(護法法師 選文; 蔡奇林 譯解)： `直接閱讀 <{static}/extra/pali/pali-easy.htm>`__ (HTML)； `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/pali-easy.pdf>`__ ;  `(ms).doc <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/pali-easy.doc>`__ 
 
 - 《實用巴利語文法》上冊：蔡奇林 編譯（台灣．嘉義）；本講義上冊文法部份「簡介、第一章～第十七章」係以 A.K.WARDER INTRODUCTION TO PALI 一書之 “INTRODUCTION, LESSON 1～16” 為底本，另參考水野弘元之《巴利文法》，並從《巴利藏》中廣引經文例句增補改編而成： `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/practical_pali_grammar_a-f1.pdf>`__ （Foreign1 字型，1997.10. 初版，2000.08 第二版修訂，2013.8.26 再次修訂）、　《實用巴利語文法》下冊： `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/practical_pali_grammar_b-f1.pdf>`__ （Foreign1 字型，1997 年6 月19 日 增訂第二版）　、《實用巴利語文法》附錄： `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/practical_pali_grammar_appendex-f1.pdf>`__ （Foreign1 字型，2000 年8 月 修訂 第二版）
 
-- 實用巴利語文法(A Practical Grammar of the Pali Language)，原作者： Chas. Duroiselle(1906.12.20 于仰光); Eisel Mazard, 2007.10 于西雙版納 整理; 金如是 整理(2009.4 修正版)： `pali 四版校稿說明 <{filename}/extra/pali/pali-grammar-Duroiselle-4ed-note.html>`__  、 `直接閱讀 <{filename}/extra/pali/pali-grammar-Duroiselle-4ed.html>`__ （HTML）、 `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/pali-grammar-Duroiselle-4ed.pdf>`__ 、 `doc <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/pali-grammar-Duroiselle-4ed.doc>`__  (繁漢版) 
+- 實用巴利語文法(A Practical Grammar of the Pali Language)，原作者： Chas. Duroiselle(1906.12.20 于仰光); Eisel Mazard, 2007.10 于西雙版納 整理; 金如是 整理(2009.4 修正版)： `pali 四版校稿說明 <{static}/extra/pali/pali-grammar-Duroiselle-4ed-note.html>`__  、 `直接閱讀 <{static}/extra/pali/pali-grammar-Duroiselle-4ed.html>`__ （HTML）、 `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/pali-grammar-Duroiselle-4ed.pdf>`__ 、 `doc <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/pali-grammar-Duroiselle-4ed.doc>`__  (繁漢版) 
 
 ^^^^^^
 
-- `以天城體字母表示巴利語 <{filename}/extra/pali/Devanagari/pali-devanagari-map.htm>`__
+- `以天城體字母表示巴利語 <{static}/extra/pali/Devanagari/pali-devanagari-map.htm>`__
 
 - `巴利語(文)教學 <http://buddhism.lib.ntu.edu.tw/BDLM/lesson/pali/lesson_pali1.htm>`_ (台大佛學研究中心)。
 
-- `The Pali alphabets in Devanagari and Roman characters <{filename}/extra/pali/Devanagari/Pali-Deva-Rome.htm>`_ .
+- `The Pali alphabets in Devanagari and Roman characters <{static}/extra/pali/Devanagari/Pali-Deva-Rome.htm>`_ .
 
-- `The Pali alphabets in Devanagari and Roman characters--Extension(123) <{filename}/extra/pali/Devanagari/P-D-R123.htm>`__ .
+- `The Pali alphabets in Devanagari and Roman characters--Extension(123) <{static}/extra/pali/Devanagari/P-D-R123.htm>`__ .
 
 - `天城體文字 <http://jianrenṭripod.com/devanagari.html>`_ 。
 
@@ -209,6 +209,7 @@ Velthuis方案最初由Frans Velthuis在1991年為他給TEX排字系統設計的
 .. [4] 佛光大辭典: `巴利語 <https://www.buddhistdoor.org/tc/dictionary/details/%E5%B7%B4%E5%88%A9%E8%AA%9E>`__
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   12.17 2018 add: Chrome 擴充功能 回復為一般譯名 
   12.17 2018 add 維基資料，some 辭典、文法
 

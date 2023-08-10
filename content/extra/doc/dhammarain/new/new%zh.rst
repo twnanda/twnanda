@@ -9,7 +9,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {filename}/extra/dhammarain/extra/img/top_01_full.gif
+  .. image:: {static}/extra/dhammarain/extra/img/top_01_full.gif
      :width: 948 px 
      :height: 98 px 
      :alt: 道場logo
@@ -48,7 +48,7 @@
 - | 請事先以 E-MAIL 或 電話 報名(馨醇居士)；遠道參學者，當晚可在道場掛單；請先來電告之。
   | Tel： (05)253-0029
   | `E-mail：dhammarain＠gmail.com <dhammarain@gmail.com>`__ (為防垃圾電郵，請記得複製時將＠改為 @ )
-  | `報名表 <{filename}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.doc>`__ or `PDF <{filename}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.pdf>`__ (與「攝阿毘達摩義論解讀課程」報名表相同)
+  | `報名表 <{static}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.doc>`__ or `PDF <{static}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.pdf>`__ (與「攝阿毘達摩義論解讀課程」報名表相同)
 
 攝阿毘達摩義論解讀 (最新課程) 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,7 +65,7 @@
 - | 請事先以 E-MAIL 或 電話 報名(馨醇居士)；遠道參學者，當晚可在道場掛單；請先來電告之。
   | Tel： (05)253-0029
   | `E-mail：dhammarain＠gmail.com <dhammarain@gmail.com>`__ (為防垃圾電郵，請記得複製時將＠改為 @ )
-  | `報名表 <{filename}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.doc>`__ or `PDF <{filename}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.pdf>`__ (與「巴利文教學」報名表相同)
+  | `報名表 <{static}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.doc>`__ or `PDF <{static}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.pdf>`__ (與「巴利文教學」報名表相同)
 
 ------
 
@@ -266,6 +266,7 @@
 - `舊訊息 <{filename}oldnews%zh.rst>`__
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2018.04.19 create .rst for github
   04.17 rev. 巴利文教學/攝阿毘達摩義論解讀-- old: 3月第2、4週：03/11; 25(週日); hide:2日禪共修
   03.09 rev. 巴利文教學/攝阿毘達摩義論解讀--old:2018.02.04(第一週週日)、02.10(第二週週六)

@@ -10,7 +10,7 @@ D.A. Process
 
 revised on 2021-01-27
 
-.. image:: {filename}/extra/img/mogok-da-process-12.jpg
+.. image:: {static}/extra/img/mogok-da-process-12.jpg
    :alt: D.A. Process
    :align: center
 
@@ -276,7 +276,7 @@ There are 4 kinds of clinging;
 Kammabhava means kammically active process of existence or actions conditioning for existence. In the diagram of the D. A. process, kammabhava at sec ③ was written with incomplete form; such as: 
 
 
-.. image:: {filename}/extra/img/kamma-bhava.jpg
+.. image:: {static}/extra/img/kamma-bhava.jpg
    :alt: Kamma-Bhava
    :align: center
 
@@ -373,6 +373,7 @@ revised on 2021-01-27; cited from https://oba.org.tw/viewtopic.php?f=22&t=4026&s
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2021-01-27 proofread by bhante; replace practise with practice (noun) 
   06-15 correct content of the chart, Kamma-Bhava; proofread by bhante
   2020-05-31 proofread by bhante

@@ -10,7 +10,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {filename}/extra/dhammarain/extra/img/top_01_full.gif
+  .. image:: {static}/extra/dhammarain/extra/img/top_01_full.gif
      :width: 948 px 
      :height: 98 px 
      :alt: 道場logo
@@ -28,6 +28,7 @@
 
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2018.04.22 upload (test under nanda acc.); 04.19 create .rst for github
       	2014.05.26 rev. body center 
       	---------------------------------------- 

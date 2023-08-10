@@ -10,7 +10,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {filename}/extra/dhammarain/extra/img/top_01_full.gif
+  .. image:: {static}/extra/dhammarain/extra/img/top_01_full.gif
      :width: 948 px 
      :height: 98 px 
      :alt: 道場logo
@@ -35,7 +35,7 @@
     | 請事先以 E-MAIL 或 電話 報名
     | Tel： (05)253-0029
     | `E-mail <dhammarain@gmail.com>`_
-    | `報名表 <{filename}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.doc>`__ (.doc) or `PDF  <{filename}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.pdf>`__
+    | `報名表 <{static}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.doc>`__ (.doc) or `PDF  <{static}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.pdf>`__
 
   * **二. 攝阿毘達摩義論解讀 / 宗戒尊尼主講**
 
@@ -50,7 +50,7 @@
     | 請事先以 E-MAIL 或 電話 報名
     | Tel： (05)253-0029
     | `E-mail <dhammarain@gmail.com>`_
-    | `報名表 <{filename}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.doc>`__ (.doc) or `PDF  <{filename}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.pdf>`__
+    | `報名表 <{static}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.doc>`__ (.doc) or `PDF  <{static}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.pdf>`__
 
 ----
 
@@ -68,17 +68,17 @@
 
 ----
 
-- **法雨道場路線** ： `地圖1 <{filename}/extra/dhammarain/extra/img/dhamma-rain-map.jpg>`_ ; GPS定位：北緯 23。24'15"，東經 120。29'43"；Google Maps:23.411798, 120.487468 ; `Google 地圖01 <{filename}/extra/dhammarain/extra/img/dhamma-rain-Google_map01.jpg>`_ 
+- **法雨道場路線** ： `地圖1 <{static}/extra/dhammarain/extra/img/dhamma-rain-map.jpg>`_ ; GPS定位：北緯 23。24'15"，東經 120。29'43"；Google Maps:23.411798, 120.487468 ; `Google 地圖01 <{static}/extra/dhammarain/extra/img/dhamma-rain-Google_map01.jpg>`_ 
 　　 
-  　　一、由中山高速公路下交流道，往嘉義方向，走北港路，在世賢路右轉，至吳鳳南路右轉，在中埔鄉．後庄左轉(右轉則往白河)，約700公尺，往三界埔方向右轉(金鍠五金百貨的對面) **富和路（公路編號：嘉139** ）（參「 `富和路」圖 <{filename}/extra/dhammarain/extra/img/dhamma-rain-Google_map139-huho.png>`_ ） ，在「成功國小」前面左轉 **公路編號：嘉138** ）（參「 `嘉138」圖 <{filename}/extra/dhammarain/extra/img/dhamma-rain-Google_map-Ka138.png>`_ ） ，過「瑞泰休閒中心」幾十公尺，循「法雨道場」指標右轉，約一公里抵達道場。
+  　　一、由中山高速公路下交流道，往嘉義方向，走北港路，在世賢路右轉，至吳鳳南路右轉，在中埔鄉．後庄左轉(右轉則往白河)，約700公尺，往三界埔方向右轉(金鍠五金百貨的對面) **富和路（公路編號：嘉139** ）（參「 `富和路」圖 <{static}/extra/dhammarain/extra/img/dhamma-rain-Google_map139-huho.png>`_ ） ，在「成功國小」前面左轉 **公路編號：嘉138** ）（參「 `嘉138」圖 <{static}/extra/dhammarain/extra/img/dhamma-rain-Google_map-Ka138.png>`_ ） ，過「瑞泰休閒中心」幾十公尺，循「法雨道場」指標右轉，約一公里抵達道場。
 
   　　　　離中埔鄉後庄約 8 公里。(沿路有「法雨道場」路標)
 
-  　　二、由南二高下交流道，往嘉義方向，約150公尺，在「台塑石油」加油站右邊小路左轉，約100公尺有四叉路(小圓環)，轉到左邊算來第二條叉路（公路編號：嘉139-1）( `Google 地圖01-b <{filename}/extra/dhammarain/extra/img/dhamma-rain-Google_map01-b.jpg>`_ ; `Google 照片01 <{filename}/extra/dhammarain/extra/img/dhamma-rain-Google_pic01.jpg>`_ ; `Google 照片01-b <{filename}/extra/dhammarain/extra/img/dhamma-rain-Google_pic01-b.jpg>`_ )，循「法雨道場」指標前進，約五公里，三叉路(有紅綠燈)右轉（公路編號：嘉138）( `Google 地圖02 <{filename}/extra/dhammarain/extra/img/dhamma-rain-Google_map02.jpg>`_ ; `Google 照片02 <{filename}/extra/dhammarain/extra/img/dhamma-rain-Google_pic02.jpg>`_ )，約一公里，右轉過橋( `Google 地圖03 <{filename}/extra/dhammarain/extra/img/dhamma-rain-Google_map03.jpg>`_ ; `Google 照片03 <{filename}/extra/dhammarain/extra/img/dhamma-rain-Google_pic03.jpg>`_ ; `Google 照片03-b <{filename}/extra/dhammarain/extra/img/dhamma-rain-Google_pic03-b.jpg>`_ )，約一公里半，循「法雨道場」指標左轉( `Google 地圖04 <{filename}/extra/dhammarain/extra/img/dhamma-rain-Google_map04.jpg>`_ ; `Google 照片04 <{filename}/extra/dhammarain/extra/img/dhamma-rain-Google_pic04.jpg>`_ )，約一公里抵達道場( `Google 照片05 <{filename}/extra/dhammarain/extra/img/dhamma-rain-Google_pic05.jpg>`_ )。(沿路有路標)
+  　　二、由南二高下交流道，往嘉義方向，約150公尺，在「台塑石油」加油站右邊小路左轉，約100公尺有四叉路(小圓環)，轉到左邊算來第二條叉路（公路編號：嘉139-1）( `Google 地圖01-b <{static}/extra/dhammarain/extra/img/dhamma-rain-Google_map01-b.jpg>`_ ; `Google 照片01 <{static}/extra/dhammarain/extra/img/dhamma-rain-Google_pic01.jpg>`_ ; `Google 照片01-b <{static}/extra/dhammarain/extra/img/dhamma-rain-Google_pic01-b.jpg>`_ )，循「法雨道場」指標前進，約五公里，三叉路(有紅綠燈)右轉（公路編號：嘉138）( `Google 地圖02 <{static}/extra/dhammarain/extra/img/dhamma-rain-Google_map02.jpg>`_ ; `Google 照片02 <{static}/extra/dhammarain/extra/img/dhamma-rain-Google_pic02.jpg>`_ )，約一公里，右轉過橋( `Google 地圖03 <{static}/extra/dhammarain/extra/img/dhamma-rain-Google_map03.jpg>`_ ; `Google 照片03 <{static}/extra/dhammarain/extra/img/dhamma-rain-Google_pic03.jpg>`_ ; `Google 照片03-b <{static}/extra/dhammarain/extra/img/dhamma-rain-Google_pic03-b.jpg>`_ )，約一公里半，循「法雨道場」指標左轉( `Google 地圖04 <{static}/extra/dhammarain/extra/img/dhamma-rain-Google_map04.jpg>`_ ; `Google 照片04 <{static}/extra/dhammarain/extra/img/dhamma-rain-Google_pic04.jpg>`_ )，約一公里抵達道場( `Google 照片05 <{static}/extra/dhammarain/extra/img/dhamma-rain-Google_pic05.jpg>`_ )。(沿路有路標)
 　　
 - 嘉義縣公共汽車：嘉義往嘉義農場，在同仁派出所（荖園仔）站下車（約 30 分鐘）。步行至道場約 3.5 公里。
 
-  `嘉義縣公車處營運路線簡圖 <{filename}/extra/dhammarain/extra/img/kagi-kuang-bus.jpg>`_ (編碼：7301:嘉義 ←→ 嘉義農場) & 時刻表： `大雅站 <{filename}/extra/dhammarain/extra/doc/dai-ghaa-107-0115timetable.pdf>`_ （2018.01.15; 嘉義 ←→ 同仁：全票 56, 半票28; 2018.04.18 來源：`7301嘉義—大埔—嘉義農場票價表 <https://extws.cyhg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTUxNC9yZWxmaWxlLzE3NjI0LzU1MjEzLzJlMjM1MTZlLTZmYmQtNDE4OS1hMTg2LThiNWRkOTQ2NmE1NC5wZGY%3d&n=NzMwMeWYiee%2bqeKAlOWkp%2bWflOKAlOWYiee%2bqei%2bsuWgtOelqOWDueihqC5wZGY%3d&icon=.pdf>`_ ；取材自： `嘉義縣公共汽車管理處 <https://bus.cyhg.gov.tw/>`_ ）或 `公路客運乘車資訊查詢系統 <https://www.taiwanbus.tw/DyBus.aspx>`__ 。
+  `嘉義縣公車處營運路線簡圖 <{static}/extra/dhammarain/extra/img/kagi-kuang-bus.jpg>`_ (編碼：7301:嘉義 ←→ 嘉義農場) & 時刻表： `大雅站 <{static}/extra/dhammarain/extra/doc/dai-ghaa-107-0115timetable.pdf>`_ （2018.01.15; 嘉義 ←→ 同仁：全票 56, 半票28; 2018.04.18 來源：`7301嘉義—大埔—嘉義農場票價表 <https://extws.cyhg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTUxNC9yZWxmaWxlLzE3NjI0LzU1MjEzLzJlMjM1MTZlLTZmYmQtNDE4OS1hMTg2LThiNWRkOTQ2NmE1NC5wZGY%3d&n=NzMwMeWYiee%2bqeKAlOWkp%2bWflOKAlOWYiee%2bqei%2bsuWgtOelqOWDueihqC5wZGY%3d&icon=.pdf>`_ ；取材自： `嘉義縣公共汽車管理處 <https://bus.cyhg.gov.tw/>`_ ）或 `公路客運乘車資訊查詢系統 <https://www.taiwanbus.tw/DyBus.aspx>`__ 。
 
 - 嘉義客運：嘉義往澐水，在同仁派出所（荖園仔）站下車（約 30 分鐘）。步行至道場約 3.5 公里。
 
@@ -102,10 +102,11 @@
 | 　　`鏡像站(mirror site) <http://dhammarain.online-dhamma.net/>`_
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   04.22 upload (test under nanda acc.); 04.19 reserved for 
   independent user's acc. on github(could would be: http://dhammarain.github.io/ ), 
   e.g. {filename}/articles/dhammarain/articles/new/new%zh.rst>`__
-  {filename}/extra/dhammarain/extra/img/top_01_full.gif
+  {static}/extra/dhammarain/extra/img/top_01_full.gif
   <{filename}/articles/books/books%zh.rst>`_   etc.
   2018.04.18 create .rst for github
         rev:公路客運乘車資訊查詢系統(old:公路總局即時動態網頁);  嘉義縣公車處營運路線簡圖(old:嘉義縣公共汽車路線圖); del:(火車站前) 至 中埔鄉同仁派出所 (參考： 

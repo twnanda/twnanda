@@ -18,7 +18,7 @@ By **Venerable U Ādiccaramsī** ; The translator: **Bhikkhu Uttamo**
 
 **Venerable U Ādiccaramsī** (1937-2002) Portrait
 
-.. image:: {filename}/extra/img/ven-adiccaramsi-portrait.jpg
+.. image:: {static}/extra/img/ven-adiccaramsi-portrait.jpg
    :alt: Venerable U Ādiccaramsī's Portrait
    :align: center
    :height: 758px
@@ -905,6 +905,7 @@ revised on 2021-10-21
 **According to the translator— Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
   2021-07-29 rev. introduction, day 4, 5, 8, 12, 13, 15, 16, 18; add: about-the-translator
   09-06 rev. the 3rd proofread (08-12) by bhante; old:Someone with weak faculties follows with three fruition cittas.

@@ -7,9 +7,6 @@
 :category: 巴利三藏小部
 :summary: 巴利法句經註解, 摘譯, 不放逸品, Dhammapada Aṭṭhakathā (DhA)
 
-.. created from 2016-03-08 12:00
-
---------------
 
 - `巴利《法句經》註解摘譯目錄 <{filename}dhA-content%zh.rst>`_
 
@@ -349,9 +346,9 @@
 
 .. [3] 〔註003〕　本譯文請參考： `文言文版 <{filename}../dhp-Ven-L-C/dhp-Ven-L-C%zh.rst>`__ ( **了參 法師** 譯，台北市：圓明出版社，1991。) 另參： 
 
-       一、 Dhammapada 法句經(中英對照) -- English translated by **Ven. Ācharya Buddharakkhita** ; Chinese translated by Yeh chun(葉均); Chinese commented by **Ven. Bhikkhu Metta(明法比丘)** 〔 **Ven. Ācharya Buddharakkhita** ( **佛護 尊者** ) 英譯; **了參 法師(葉均)** 譯; **明法比丘** 註（增加許多濃縮的故事）〕： `PDF <{filename}/extra/pdf/ec-dhp.pdf>`__ 、 `DOC <{filename}/extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/ec-dhp-f1.doc>`__ 。
+       一、 Dhammapada 法句經(中英對照) -- English translated by **Ven. Ācharya Buddharakkhita** ; Chinese translated by Yeh chun(葉均); Chinese commented by **Ven. Bhikkhu Metta(明法比丘)** 〔 **Ven. Ācharya Buddharakkhita** ( **佛護 尊者** ) 英譯; **了參 法師(葉均)** 譯; **明法比丘** 註（增加許多濃縮的故事）〕： `PDF <{static}/extra/pdf/ec-dhp.pdf>`__ 、 `DOC <{static}/extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) <{static}/extra/doc/ec-dhp-f1.doc>`__ 。
 
-       二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF <{filename}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{filename}/extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/pc-Dhammapada-f1.doc>`__
+       二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF <{static}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{static}/extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) <{static}/extra/doc/pc-Dhammapada-f1.doc>`__
 
 .. [4] 〔註004〕　取材自：【部落格-- 荒草不曾鋤】--　`《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`_  （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
 
@@ -386,40 +383,44 @@
 
 .. [MettFn02-06] 〔明法尊者註02-06〕　有一天，名醫耆婆(Jīvako)邀請佛陀和眾多比丘到他家接受供養，但是周利槃特(Cūḷapanthako)除外。周利槃特十分沮喪。佛陀明白他的心意後，就給他一塊布，要他一邊搓揉布塊，一邊複誦「去除污垢，去除污垢。」(‘rajoharaṇaṁ rajoharaṇan’ti)佛陀離開後，周利槃特努力搓揉布塊，並複誦「去除污垢」，不久，布變髒了，這時候他了解到無常。佛陀就以神通力出現在他的面前，說：「不只是布因污垢而變髒，人心也有污垢，去除污垢，才能證果。」他繼續用功，不久就證得阿羅漢果。
 
-                  PS: 請參 `025 典故 <{filename}../dhp-story/dhp-story025%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～三、愚笨的周利槃特證得聖果 (偈 025)。
+                  PS: 請參 `025 典故 <{filename}../dhp-story/dhp-story025%zh.rst>`__ ；或 `法句經故事集 <{static}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～三、愚笨的周利槃特證得聖果 (偈 025)。
 
 .. [MettFn02-07] 〔明法尊者註02-07〕　舍衛城某次慶典時，一群年輕人惹事生非。佛陀說︰「諸愚者、無慧者會作騷擾事；有慧者像有價之財，護衛不放逸，圓滿證得不死的大涅槃。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～四、慶典期間幼稚的舉止 (偈 026~027)。
+                  PS: 請參 `法句經故事集 <{static}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～四、慶典期間幼稚的舉止 (偈 026~027)。
 
 .. [MettFn02-08] 〔明法尊者註02-08〕　有一次，大迦葉長老(Mahākassapatthera)住在畢缽離洞窟(Pipphaliguhāya)的時候，運用神通想要知道，誰有正念、誰迷糊，誰快往生了。這時候，佛陀明白大迦葉長老的作為，便告誡他：「大迦葉！你所知道的只是小境界，只有諸佛的境界才能夠知道一切眾生的生死。」
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～五、大迦葉尊者想知道生死輪迴的次數 (偈 028)。
+                  PS: 請參 `法句經故事集 <{static}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～五、大迦葉尊者想知道生死輪迴的次數 (偈 028)。
 
 .. [MettFn02-09] 〔明法尊者註02-09〕　本偈說兩位比丘的故事，一位精進，一位懈怠，精進的比丘修習警寤瑜伽(一天當中只睡中夜10pm~2am)，懈怠的比丘愛講話。精進的比丘很短的時間就證得阿羅漢果。當他們去見佛陀時，佛陀跟懈怠的比丘告誡。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～六、修行的目的 (偈 029)。
+                  PS: 請參 `法句經故事集 <{static}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～六、修行的目的 (偈 029)。
 
 .. [MettFn02-10] 〔明法尊者註02-10〕** 摩伽**：帝釋天王七個名字之一。帝釋天王做人時有七誓約(satta vatapadāni)︰「1.願終生孝養父母。2.願終生禮敬長輩。3.願終生語柔和。4.願終生不誹謗。5.願終生守住離慳垢；舒手施、樂捨施、有求必應、樂分配施。6.願終生說真實語。7.願終生不生氣，若生氣則速制伏。」(S.11.11.；cf.《雜阿含1105經》)。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～七、瑪伽為何往生為帝釋 (偈 030)。
+                  PS: 請參 `法句經故事集 <{static}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～七、瑪伽為何往生為帝釋 (偈 030)。
 
 .. [MettFn02-11] 〔明法尊者註02-11〕** 結**：煩惱的異名。
 
 .. [MettFn02-12] 〔明法尊者註02-12〕　本偈說一位比丘精進用功，卻感覺進步很少，他感到沮喪，他想要去見佛陀，請佛陀給予指引。在路上，他遇見熊熊大火，於是就跑到山上去觀察火勢。正當火勢漫延時，他領悟到，就像火燒毀一切東西，以聖道智之火也會燒掉大大小小的束縛。這時，佛陀出現在他的面前，說：「比丘！就如大火燒毀一切障礙，以智火能燒掉所有的結。」聽完偈頌之後，他透析燒掉束縛的事，不久，就證得阿羅漢果。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～八、智慧之火 (偈 031)。
+                  PS: 請參 `法句經故事集 <{static}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～八、智慧之火 (偈 031)。
 
 .. [MettFn02-13] 〔明法尊者註02-13〕　出生在舍衛城附近的小村莊的尼迦瑪西提舍長老(Nigamavāsitissa- tthero)，出家後過著簡單的生活，有時其他比丘會誤會他的行為，如避開大型會。佛陀則讚嘆他少欲知足，說此偈。
 
-                  PS: 請參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～九、知足的比丘 (偈 032)。
+                  PS: 請參 `法句經故事集 <{static}/extra/pdf/Dhp-story-han-chap02.pdf>`__ ，二～九、知足的比丘 (偈 032)。
 
-.. [NandFn02-01] 〔Nanda 校註02-01〕 第 21-23 偈頌，可參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`_ ，二～一、摩醯提利陰謀陷害珊蔓娣皇后 (偈 021~023)。
+.. [NandFn02-01] 〔Nanda 校註02-01〕 第 21-23 偈頌，可參 `法句經故事集 <{static}/extra/pdf/Dhp-story-han-chap02.pdf>`_ ，二～一、摩醯提利陰謀陷害珊蔓娣皇后 (偈 021~023)。
 
-.. [NandFn02-02] 〔Nanda 校註02-02〕 第 24 偈頌，可參 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap02.pdf>`_ ，二～二、富翁的聲音 (偈 024)。
+.. [NandFn02-02] 〔Nanda 校註02-02〕 第 24 偈頌，可參 `法句經故事集 <{static}/extra/pdf/Dhp-story-han-chap02.pdf>`_ ，二～二、富翁的聲音 (偈 024)。
 
 ---------------------------
 
 - `法句經 (Dhammapada) <{filename}../dhp%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+
+.. 
+  2023-08-08 rev. replace filename with static to match "gramma"
+  created from 2016-03-08 12:00

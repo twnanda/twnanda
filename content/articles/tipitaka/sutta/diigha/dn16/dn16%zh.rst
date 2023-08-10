@@ -29,7 +29,7 @@
 
   * 《長部》．十六　《大般涅槃經》；寧樂 [7]_
 
-  * `遍涅槃大經 <{filename}/extra/tipitaka/sutta/digha/dn16-TW-Liau.html>`__ ；臺灣．廖文燦 譯(AB 佛曆　2549年; 2005 AD) (`PDF <{filename}/extra/tipitaka/sutta/digha/dn16-TW-Liau.pdf>`__，ms. `.doc <{filename}/extra/tipitaka/sutta/digha/dn16-TW-Liau.doc>`__ )
+  * `遍涅槃大經 <{static}/extra/tipitaka/sutta/digha/dn16-TW-Liau.html>`__ ；臺灣．廖文燦 譯(AB 佛曆　2549年; 2005 AD) (`PDF <{static}/extra/tipitaka/sutta/digha/dn16-TW-Liau.pdf>`__，ms. `.doc <{static}/extra/tipitaka/sutta/digha/dn16-TW-Liau.doc>`__ )
 
   * `大槃涅槃經第十六 <http://tripitaka.cbeta.org/B06n0003_002>`__ (CBETA)；江鍊百譯；　沙門芝峯校證 [8]_
 
@@ -55,13 +55,13 @@
 
 - 英譯(English)：
 
-  * `Last Days of the Buddha <{filename}dn16-vaji%zh.rst>`__ (complete text), translated from the Pali by Sister Vajira & Francis Story ( `PDF <{filename}/extra/tipitaka/sutta/digha/dn.16.vaji.pdf>`__ ) (original: [17]_ )
+  * `Last Days of the Buddha <{filename}dn16-vaji%zh.rst>`__ (complete text), translated from the Pali by Sister Vajira & Francis Story ( `PDF <{static}/extra/tipitaka/sutta/digha/dn.16.vaji.pdf>`__ ) (original: [17]_ )
 
   * `The Great Discourse on the Total Unbinding <{filename}dn16-than%zh.rst>`__ (excerpt), DN 16 PTS: D ii 137 chapters 5-6, Translated from the Pali by **Ven. Thanissaro Bhikkhu** ( **坦尼沙羅尊者** ) (original: [18]_ )
 
-  * `The Discourse about the Great Emancipation <{filename}/extra/tipitaka/sutta/digha/aanandajoti/index-TheDiscourse_about_theGreatEmancipation.html>`__ ;  `PDF </extra/tipitaka/sutta/digha/aanandajoti/dn16-anandajoti-Eng.pdf>`__ (A Translation of Mahāparinibbānasutta (DN 16); June, 2008 / 2552, edited and translated by **Ven.Ānandajoti Bhikkhu** , original: [19]_ ) 
+  * `The Discourse about the Great Emancipation <{static}/extra/tipitaka/sutta/digha/aanandajoti/index-TheDiscourse_about_theGreatEmancipation.html>`__ ;  `PDF </extra/tipitaka/sutta/digha/aanandajoti/dn16-anandajoti-Eng.pdf>`__ (A Translation of Mahāparinibbānasutta (DN 16); June, 2008 / 2552, edited and translated by **Ven.Ānandajoti Bhikkhu** , original: [19]_ ) 
 
-  * Discourse on the Great Event of the Passing away of the Buddha, Translation by Myanmar Authors, SOURCE: "TEN SUTTAS FROM DIGHA NIKAYA", BURMA PITAKA ASSOCIATION, 1984: `part 1 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-I.html>`__ , `part 2 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-II.html>`__ , `part 3 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-III.html>`__ , `part 4 <{filename}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-IV.html>`__ (original:[20]_ )
+  * Discourse on the Great Event of the Passing away of the Buddha, Translation by Myanmar Authors, SOURCE: "TEN SUTTAS FROM DIGHA NIKAYA", BURMA PITAKA ASSOCIATION, 1984: `part 1 <{static}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-I.html>`__ , `part 2 <{static}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-II.html>`__ , `part 3 <{static}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-III.html>`__ , `part 4 <{static}/extra/tipitaka/sutta/digha/dn.16.mmr-bpa-IV.html>`__ (original:[20]_ )
 
 - 日譯(和訳)：大般涅槃経（マハーパリニッバーナ・スッタンタ）；中村元 『ブッダ最後の旅 - 大パリニッバーナ経』 岩波文庫
 
@@ -73,7 +73,7 @@
 
 -------------------
 
-- `南傳大般涅槃經述略 <{filename}/extra/tipitaka/sutta/digha/Mahaprinbb-intro.html>`__ －－ 陳士強 (法音, 1998, 11期; 總171期, Pp. 18) (取材自： [21]_ )
+- `南傳大般涅槃經述略 <{static}/extra/tipitaka/sutta/digha/Mahaprinbb-intro.html>`__ －－ 陳士強 (法音, 1998, 11期; 總171期, Pp. 18) (取材自： [21]_ )
   
 
 - `南北傳涅槃經之比較 <http://www.fgsihb.org/article-info.asp?id=1568>`__ ，恆清法師 ( [22]_ )
@@ -238,6 +238,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2023-01-12 rev. move to directory of open-passive, old: https://drive.google.com/open?id=0B-WGqLRmkmMpQTVKVlNuTTA0cjA ; re-deploy at 3:39 pm
 
   11.14 20:30 add: 英譯-- extra\tipitaka\sutta\digha\aanandajoti; dn16-than%zh.rst, dn16-vaji%zh.rst, dn16-pts%zh.rst, dn16-cscd%zh.rst, dn16-chuangcj%zh.rst; 通妙譯，臺灣元亨寺版; 上座部佛教百科 -- http://wiki.sutta.org; link of 長阿含遊行經；心魁居士〈蕭興勝〉白話語意譯述; ver. memo;

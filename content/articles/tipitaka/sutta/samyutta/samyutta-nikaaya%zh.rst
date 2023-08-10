@@ -272,13 +272,13 @@ Mahāvagga 大篇
 
 ------
 
--  The comparative catalog of Saṁyuttanikāya & Saṁyukta-āgama 《相應部》與《雜阿含經》對照表： `HTML <{filename}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+-  The comparative catalog of Saṁyuttanikāya & Saṁyukta-āgama 《相應部》與《雜阿含經》對照表： `HTML <{static}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <{static}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.pdf>`__ , `ms doc <{static}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.doc>`__ , `ms rtf <{static}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
-- The comparative catalog of Saṁyukta-āgama & Saṁyuttanikāya 《雜阿含經》與《相應部》對照表： `HTML <{filename}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+- The comparative catalog of Saṁyukta-āgama & Saṁyuttanikāya 《雜阿含經》與《相應部》對照表： `HTML <{static}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.htm>`__ (直接閱讀), `PDF <{static}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.pdf>`__ , `ms doc <{static}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.doc>`__ , `ms rtf <{static}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
-- The comparative catalog of short Saṁyukta-āgama(BZA) & Saṁyukta-āgama 《別譯雜阿含經》與《雜阿含經》對照表： `HTML <{filename}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+- The comparative catalog of short Saṁyukta-āgama(BZA) & Saṁyukta-āgama 《別譯雜阿含經》與《雜阿含經》對照表： `HTML <{static}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <{static}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.pdf>`__ , `ms doc <{static}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.doc>`__ , `ms rtf <{static}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
-- The comparative catalog of one scroll Saṁyukta-āgama & Saṁyukta-āgama 一卷本《雜阿含經》與《雜阿含經》對照表： `HTML <{filename}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+- The comparative catalog of one scroll Saṁyukta-āgama & Saṁyukta-āgama 一卷本《雜阿含經》與《雜阿含經》對照表： `HTML <{static}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <{static}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.pdf>`__ , `ms doc <{static}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.doc>`__ , `ms rtf <{static}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
 ------
 
@@ -375,6 +375,7 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   06-21 add: 55. Sotāpatti-saṃyuttaṃ 入流相應
   06-14 add: 51. Iddhipāda-saṃyuttaṃ 神足相應
   06-12 add: 49. Sammappadhāna-saṃyuttaṃ 正勤相應 & 50 Bala-saṃyuttaṃ 力相應

@@ -16,7 +16,7 @@ Dhamma Talks by Mogok Sayadaw; 5th January 1959, 16th January 1961 and 24th Octo
 
 [Those three talks were delivered at different times, but they had connection and using the wheel symbol to explain the Dhamma and practice. The picture of the wheel was mainly connected with the third talk but it also can be used for the other two talks. ]
 
-.. image:: {filename}/extra/img/mogok-pt05-fig1-2.jpg
+.. image:: {static}/extra/img/mogok-pt05-fig1-2.jpg
    :alt: a complete set of the wheel with 4 spokes; separated parts of the wheel
    :align: center
 
@@ -171,6 +171,7 @@ revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2021-07-28 rev. proofread by bhante
   08-13 rev. mogok-pt05-fig1-2.jpg-- proofread by bhante
   07-25 rev. proofread by bhante

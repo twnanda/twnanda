@@ -8632,11 +8632,11 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 
 ------
 
-- `中部經典總說 <{filename}/extra/tipitaka/sutta/majjhima/majjhimanikaya-introduction-guan-hiang.pdf>`__ ；通妙譯，元亨寺漢譯南傳大藏經編譯委員會，高雄：元亨寺妙林出版社, 1995，經藏／中部經典四
+- `中部經典總說 <{static}/extra/tipitaka/sutta/majjhima/majjhimanikaya-introduction-guan-hiang.pdf>`__ ；通妙譯，元亨寺漢譯南傳大藏經編譯委員會，高雄：元亨寺妙林出版社, 1995，經藏／中部經典四
 
 ------
 
--  The comparative catalog of Majjhimanikāya & Madhyama-āgama 《中部》與《中阿含經》經對照表 & 《中阿含經》與《中部》對照表： `HTML <{filename}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+-  The comparative catalog of Majjhimanikāya & Madhyama-āgama 《中部》與《中阿含經》經對照表 & 《中阿含經》與《中部》對照表： `HTML <{static}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.htm>`__ (直接閱讀), `PDF <{static}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.pdf>`__ , `ms doc <{static}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.doc>`__ , `ms rtf <{static}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
 - 國立臺灣大學 「 `獅子吼佛學專站 <http://buddhaspace.org/main/modules/dokuwiki/agama:%E5%8F%B0%E5%A4%A7%E7%8D%85%E5%AD%90%E5%90%BC%E4%BD%9B%E5%AD%B8%E5%B0%88%E7%AB%99%E7%B0%A1%E4%BB%8B>`_ 」「 `阿含藏專案列表 <http://buddhaspace.org/main/modules/dokuwiki/>`_ 」
 
@@ -8712,7 +8712,9 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 
 .. [14] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Majjhima Nikāya (MN) <https://suttacentral.net/mn>`__ 。
 
+
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   12.17 2018 add: 一切漏經注 書目 & 書訊
   12.30 add: 國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」:雜阿含經 、增壹阿含經；CBETA:雜阿含經 （ 50 卷本 ，劉宋　求那跋陀羅　譯）、別譯雜阿含經 （失譯，16 卷本）、雜阿含經 （失譯， 單卷本 ）、中阿含經 （東晉　瞿曇 僧伽提婆　譯，共 60 卷）、增壹阿含經 （東晉　瞿曇 僧伽提婆　譯，共 51 卷）、長阿含經 （後秦　佛陀耶舍　共　竺佛念　譯，共 22 卷）; 台語與佛典: 中阿含讀書會 、增支部尼柯耶讀書會、增一阿含讀書會
   12.27 add:漏盡經 ( 台大獅子吼佛學專站 ； 阿含站專案列表 → 中阿含經 → 卷第二 )

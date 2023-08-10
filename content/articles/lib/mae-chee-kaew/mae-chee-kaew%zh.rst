@@ -11,7 +11,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {filename}/extra/img/cover-mae-chee-kaew.jpg
+  .. image:: {static}/extra/img/cover-mae-chee-kaew.jpg
      :alt: Cover of "Mae Chee Kaew"
      :width: 452
      :height: 670
@@ -28,7 +28,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {filename}/extra/img/mae-chee-kaew-foto1.jpg
+  .. image:: {static}/extra/img/mae-chee-kaew-foto1.jpg
      :alt: Foto 1 of "Mae Chee Kaew"
      :width: 452
      :height: 670
@@ -36,7 +36,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {filename}/extra/img/mae-chee-kaew-foto2.jpg
+  .. image:: {static}/extra/img/mae-chee-kaew-foto2.jpg
      :alt: Foto 2 of "Mae Chee Kaew"
      :width: 452
      :height: 670
@@ -329,6 +329,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   06-30 rev. 阿姜 戒寶 → 阿瞻 戒寶
   06-29 rev. replace scale of foto=35 % with width: 904, height: 1341 (50%), then width: 452, height: 670 (25%original)
   06-28 rev. set scale of foto=35 %

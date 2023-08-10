@@ -1213,7 +1213,7 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
 
 ------
 
--  The comparative catalog of Dīganikāya & Dīrgha-āgama 《長部》與《長阿含經》對照表 & The comparative catalog of Dīrgha-āgama & Dīganikāya 《長阿含經》與《長部》對照表： `HTML <{filename}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+-  The comparative catalog of Dīganikāya & Dīrgha-āgama 《長部》與《長阿含經》對照表 & The comparative catalog of Dīrgha-āgama & Dīganikāya 《長阿含經》與《長部》對照表： `HTML <{static}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.htm>`__ (直接閱讀), `PDF <{static}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.pdf>`__ , `ms doc <{static}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.doc>`__ , `ms rtf <{static}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
 - `CBETA <http://www.cbeta.org/>`__ 
 
@@ -1348,6 +1348,7 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
         * 參考書目
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   09-20 add: DN 20 Mahāsamayasuttaṃ; 大會經
   2021-02-19 add: 大因緣經注  http://www.studentbook.com.tw/goods.php?id=4576
   ------

@@ -118,7 +118,7 @@ How to use the power (status) and wealth (gain), it is very important. By using 
 
 Gold(金) + Two swords(戔) = money = 錢.
 
-.. image:: {filename}/extra/img/magala-sutta-chi-money.jpg
+.. image:: {static}/extra/img/magala-sutta-chi-money.jpg
    :alt: chinese character of money 
    :align: center
 
@@ -171,6 +171,7 @@ revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   07-28 rev. proofread by bhante 
              (old: A Mind that, When Touched by the Ways of the World is Unshaken)
   2021-03-16 rev. proofread by bhante

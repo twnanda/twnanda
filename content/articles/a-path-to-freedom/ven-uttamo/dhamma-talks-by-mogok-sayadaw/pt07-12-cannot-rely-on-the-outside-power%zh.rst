@@ -16,7 +16,7 @@ Dhamma Talks by Mogok Sayadaw; 23rd November 1961
 
 [This talk was based on the 12 links of D.A. process to explain the teaching. So you **need to use** `the D.A. chart <{filename}da-process%zh.rst>`__ **to understand the explanation**.]
 
-.. image:: {filename}/extra/img/mogok-pt07-12-fig.jpg
+.. image:: {static}/extra/img/mogok-pt07-12-fig.jpg
    :alt: pt07-12-fig
    :align: center
 
@@ -97,6 +97,7 @@ revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   09-12 rev. proofread by bhante
   08-13 add:
 

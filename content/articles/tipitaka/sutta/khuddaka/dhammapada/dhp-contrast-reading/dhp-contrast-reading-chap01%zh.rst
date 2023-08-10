@@ -1989,11 +1989,11 @@
 
 .. [3] 〔註003〕　本譯文請參考： `文言文版 <{filename}../dhp-Ven-L-C/dhp-Ven-L-C%zh.rst>`__ ( **了參 法師** 譯，台北市：圓明出版社，1991。) 另參： 
 
-       一、 Dhammapada 法句經(中英對照) -- English translated by **Ven. Ācharya Buddharakkhita** ; Chinese translated by Yeh chun(葉均); Chinese commented by **Ven. Bhikkhu Metta(明法比丘)** 〔 **Ven. Ācharya Buddharakkhita** ( **佛護 尊者** ) 英譯; **了參 法師(葉均)** 譯; **明法比丘** 註（增加許多濃縮的故事）〕： `PDF <{filename}/extra/pdf/ec-dhp.pdf>`__ 、 `DOC <{filename}/extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/ec-dhp-f1.doc>`__ 。
+       一、 Dhammapada 法句經(中英對照) -- English translated by **Ven. Ācharya Buddharakkhita** ; Chinese translated by Yeh chun(葉均); Chinese commented by **Ven. Bhikkhu Metta(明法比丘)** 〔 **Ven. Ācharya Buddharakkhita** ( **佛護 尊者** ) 英譯; **了參 法師(葉均)** 譯; **明法比丘** 註（增加許多濃縮的故事）〕： `PDF <{static}/extra/pdf/ec-dhp.pdf>`__ 、 `DOC <{static}/extra/doc/ec-dhp.doc>`__ ； `DOC (Foreign1 字型) <{static}/extra/doc/ec-dhp-f1.doc>`__ 。
 
-       二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF <{filename}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{filename}/extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) <{filename}/extra/doc/pc-Dhammapada-f1.doc>`__
+       二、 法句經 Dhammapada (Pāḷi-Chinese 巴漢對照)-- 漢譯： **了參 法師(葉均)** ；　單字注解：廖文燦；　注解： **尊者　明法比丘** ；`PDF <{static}/extra/pdf/pc-Dhammapada.pdf>`__ 、 `DOC <{static}/extra/doc/pc-Dhammapada.doc>`__ ； `DOC (Foreign1 字型) <{static}/extra/doc/pc-Dhammapada-f1.doc>`__
 
-.. [4] 〔註004〕　本譯文請參考： `白話文版 <{filename}../dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__ ， **敬法 法師** 譯，第二修訂版 2015，`pdf <{filename}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__ ，`原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`__ ；　(`初版 <{filename}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
+.. [4] 〔註004〕　本譯文請參考： `白話文版 <{filename}../dhp-Ven-C-F/dhp-Ven-C-F%zh.rst>`__ ， **敬法 法師** 譯，第二修訂版 2015，`pdf <{static}/extra/pdf/Dhp-Ven-c-f-Ver2-PaHan.pdf>`__ ，`原始出處，直接下載 pdf <http://www.tusitainternational.net/pdf/%E6%B3%95%E5%8F%A5%E7%B6%93%E2%80%94%E2%80%94%E5%B7%B4%E6%BC%A2%E5%B0%8D%E7%85%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf>`__ ；　(`初版 <{static}/extra/pdf/Dhp-Ven-C-F-Ver-1st.pdf>`__ )
 
 .. [5] 〔註005〕　取材自：【部落格-- 荒草不曾鋤】-- `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ （涵蓋了T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯。）
 
@@ -2552,8 +2552,9 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2021-02-08 add: 白話文版 2021
-  2018-08-19 post, 08-03 add: 周金言 譯《法句經故事集》(from rst); old: PS: 請參 `001 典故 <{filename}../dhp-story/dhp-story001%zh.rst>`__ ；或 `法句經故事集 <{filename}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～一、瞎眼的阿羅漢 (偈 001)。
+  2018-08-19 post, 08-03 add: 周金言 譯《法句經故事集》(from rst); old: PS: 請參 `001 典故 <{filename}../dhp-story/dhp-story001%zh.rst>`__ ；或 `法句經故事集 <{static}/extra/pdf/Dhp-story-han-chap01.pdf>`__  ，一～一、瞎眼的阿羅漢 (偈 001)。
   03.10 rev. 設定為 github 環境； replace with 漢譯(相當之古漢譯對應經典) old:漢譯( 尊者 法救撰　吳天竺沙門 維祇難等譯)
   02.28 rev. 法師, Ven., link of 節錄自：聖典..二　摘錄; 整部 (The Full Text) (add)
   02.26 rev. dhp.htm 法句經; re-arrange directory-- old:Tipitaka/kn/dhp/

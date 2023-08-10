@@ -32,7 +32,7 @@ If we look at Mao Tse-tung’s era during the time of Chinese cultural revolutio
 
 For example, you take out the heart letter (hsing) from the original word for love (ike). And then the short form love becomes without heart. What it means love without the heart? [love without heart becomes lust.]
 
-.. image:: {filename}/extra/img/love-to-lust.jpg
+.. image:: {static}/extra/img/love-to-lust.jpg
    :alt: love to lust
    :align: center
    :height: 144 px
@@ -126,6 +126,7 @@ revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

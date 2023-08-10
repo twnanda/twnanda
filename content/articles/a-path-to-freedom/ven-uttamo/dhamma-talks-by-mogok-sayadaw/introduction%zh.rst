@@ -14,7 +14,7 @@ revised on 2021-10-21
 
 **Mogok Sayadaw** (1899-1962) Portrait
 
-.. image:: {filename}/extra/img/mogok-sayadaw-portrait.jpg
+.. image:: {static}/extra/img/mogok-sayadaw-portrait.jpg
    :alt: Mogok Sayadaw's Portrait
    :align: center
 
@@ -324,6 +324,7 @@ revised on 2021-08-28; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=40
               | sukha: agreeable，pleasant，blest
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
   08-28 rev. proofread by bhante (07-31)
   07-28 rev. proofread by bhante

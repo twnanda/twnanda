@@ -580,7 +580,7 @@
 
 ----
 
- .. image:: {filename}/extra/img/worldly-clan-of-Gotama-Buddha.jpg
+ .. image:: {static}/extra/img/worldly-clan-of-Gotama-Buddha.jpg
      :alt: 佛陀家譜
      :height: 505 px
      :width: 364 px
@@ -601,7 +601,7 @@
 
 ----
 
-佛陀家譜： `PDF 檔 <{filename}/extra/pdf/worldly-clan-of-Gotama-Buddha.pdf>`__ 
+佛陀家譜： `PDF 檔 <{static}/extra/pdf/worldly-clan-of-Gotama-Buddha.pdf>`__ 
 
 ----
 
@@ -612,7 +612,7 @@
 原始佛教時期的印度地圖
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
- .. image:: {filename}/extra/img/ancient-india-map-Bhuddist-Era.jpg
+ .. image:: {static}/extra/img/ancient-india-map-Bhuddist-Era.jpg
      :alt: 原始佛教時期的印度地圖
      :height: 505 px
      :width: 364 px
@@ -657,7 +657,7 @@
 
 ----
 
-原始佛教時期的印度地圖： `PDF 檔 <{filename}/extra/pdf/ancient-india-map-Bhuddist-Era.pdf>`__ 
+原始佛教時期的印度地圖： `PDF 檔 <{static}/extra/pdf/ancient-india-map-Bhuddist-Era.pdf>`__ 
 
 法句經故事集目錄_
 
@@ -8566,6 +8566,7 @@
                      鴦掘魔尊者的故事也請參考十三～六、「 `證聖果的殺人兇手 <{filename}dhp-story-han-chap13-ciu%zh.rst#dhp-173>`__ 」 Dhp. 173 。
 
 .. 
+  2023-08-08 rev. replace filename with static to match "gramma"
    2018-08-22 finish & upload from rst; 
    remark:
    ================================

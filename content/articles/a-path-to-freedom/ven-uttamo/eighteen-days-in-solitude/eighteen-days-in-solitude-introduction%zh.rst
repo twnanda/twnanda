@@ -20,7 +20,7 @@ By **Venerable U Ādiccaramsī** ; The translator: **Ven. Uttamo**
 
 **Venerable U Ādiccaramsī** (1937-2002) Portrait
 
-.. image:: {filename}/extra/img/ven-adiccaramsi-portrait.jpg
+.. image:: {static}/extra/img/ven-adiccaramsi-portrait.jpg
    :alt: Venerable U Ādiccaramsī's Portrait
    :align: center
    :height: 758px
@@ -85,6 +85,7 @@ revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=8&t=4021&p=
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   07-28 rev. proofread by bhante
   2021-03-15 rev. proofread by bhante
   2020-02-27 add Venerable U Ādiccaramsī's Portrait

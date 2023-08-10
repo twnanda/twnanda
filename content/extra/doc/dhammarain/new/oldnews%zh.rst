@@ -49,7 +49,7 @@
 | 請事先以 E-MAIL 或 電話 報名(馨醇居士)；遠道參學者，當晚可在道場掛單；請先來電告之。
 | Tel： (05)253-0029
 | `E-mail：dhammarain＠gmail.com <dhammarain@gmail.com>`__
-| `報名表 <{filename}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.doc>`__ or `PDF <{filename}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.pdf>`__ (與「攝阿毘達摩義論解讀課程」報名表相同)
+| `報名表 <{static}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.doc>`__ or `PDF <{static}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.pdf>`__ (與「攝阿毘達摩義論解讀課程」報名表相同)
 | 「攝阿毘達摩義論解讀 (最新課程) / 宗戒尊尼主講」
 | 
 | 原則上：每月　第一週 & 第三週　的週日。
@@ -62,7 +62,7 @@
 | 請事先以 E-MAIL 或 電話 報名
 | Tel： (05)253-0029
 | `E-mail：dhammarain＠gmail.com <dhammarain@gmail.com>`__
-| `報名表 <{filename}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.doc>`__ or `PDF <{filename}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.pdf>`__
+| `報名表 <{static}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.doc>`__ or `PDF <{static}/extra/dhammarain/extra/doc/new/abhidhammattha-pali-teaching-2014.pdf>`__
 | 
 | 二日禪修營通告
 | 03.17~03.18 每月一次的2日禪共修，因 2月舉辦禪修營停止一次。
@@ -112,7 +112,7 @@
 | 
 | 請事先以 E-MAIL 或 電話 報名
 | Tel： (05)253-0029/ 來電時間 pm12:00 ~ 17:00
-| 　　　`E-mail：dhammarain＠gmail.com <dhammarain@gmail.com>`__ 報名表： `m$ .doc <{filename}/extra/dhammarain/extra/doc/meditation/meditation-apply-general.doc>`__ or `PDF <{filename}/extra/dhammarain/extra/doc/meditation/meditation-apply-general.pdf>`__
+| 　　　`E-mail：dhammarain＠gmail.com <dhammarain@gmail.com>`__ 報名表： `m$ .doc <{static}/extra/dhammarain/extra/doc/meditation/meditation-apply-general.doc>`__ or `PDF <{static}/extra/dhammarain/extra/doc/meditation/meditation-apply-general.pdf>`__
 | 
 | 
 | 禪修通告
@@ -133,7 +133,7 @@
 | Tel： (05)253-0029/ 來電時間 pm12:00 ~ 17:00
 | 　　　`E-mail：dhammarain＠gmail.com <dhammarain@gmail.com>`__
 | 
-| `禪修營注意事項 <{filename}/extra/dhammarain/extra/doc/meditation/stipulation.pdf>`__
+| `禪修營注意事項 <{static}/extra/dhammarain/extra/doc/meditation/stipulation.pdf>`__
 | 
 | 報名表：m$ .doc or PDF
 | 
@@ -149,7 +149,7 @@
 
 **供佛　點燈　祈福** (點右圖可另開分頁瀏覽)
 
-  .. image:: {filename}/extra/dhammarain/extra/doc/new/vesak2017.jpg
+  .. image:: {static}/extra/dhammarain/extra/doc/new/vesak2017.jpg
      :alt: 法雨道場2017衛塞節
 
 | 日期：5月10日（五月，月圓日）
@@ -201,7 +201,7 @@
 
 (點右圖可另開分頁瀏覽)
 
-  .. image:: {filename}/extra/dhammarain/extra/doc/meditation/dicourse-2017Mar.jpg
+  .. image:: {static}/extra/dhammarain/extra/doc/meditation/dicourse-2017Mar.jpg
      :alt: 2017Mar佛法開示
 
 | 日期：2017.03.20(一)~25(六)
@@ -223,7 +223,7 @@
 
 (點右圖可另開分頁瀏覽)
 
-  .. image:: {filename}/extra/dhammarain/extra/doc/meditation/meditation-2017Mar.jpg
+  .. image:: {static}/extra/dhammarain/extra/doc/meditation/meditation-2017Mar.jpg
      :alt: 2017Mar三日禪修營悉達拉大長老
 
 | 指導老師：悉達拉大長老(Sayadaw U Cittara)
@@ -254,7 +254,7 @@
 
 悉達拉大長老簡介
 
- .. image:: {filename}/extra/dhammarain/extra/img/Sayadaw-U-Cittara.jpg
+ .. image:: {static}/extra/dhammarain/extra/img/Sayadaw-U-Cittara.jpg
      :alt: 悉達拉大長老2017Mar三日禪修營
 
 | 大長老為帕奧禪林的資深禪師、第二(second)住持，曾代理禪林的住持。
@@ -384,7 +384,7 @@
 
 (點右圖可另開分頁瀏覽)
 
-  .. image:: {filename}/extra/dhammarain/extra/doc/meditation/2016-1130-1207.gif
+  .. image:: {static}/extra/dhammarain/extra/doc/meditation/2016-1130-1207.gif
      :alt: 2016Nov.燃燈尼禪師(Sayalay Dīpaṅkara)
 
 | 指導老師：燃燈尼禪師(Sayalay Dīpaṅkara)
@@ -416,10 +416,10 @@
 燃燈禪師簡介
 ~~~~~~~~~~~~~~~
 
-  .. image:: {filename}/extra/dhammarain/extra/img/Sayalay-Dipankara-b.00_jpg_srb
+  .. image:: {static}/extra/dhammarain/extra/img/Sayalay-Dipankara-b.00_jpg_srb
      :alt: 燃燈尼禪師(Sayalay Dīpaṅkara)2016Nov.
 
-  .. image:: {filename}/extra/dhammarain/extra/img/Sayalay-Dipankara-a.jpg
+  .. image:: {static}/extra/dhammarain/extra/img/Sayalay-Dipankara-a.jpg
      :alt: 燃燈尼禪師(Sayalay Dīpaṅkara)-a-2016Nov.
 
 | 燃燈禪師（Sayalay Dīpaṅkara）在1964 年 5 月 9 日的衛塞節出生於緬甸。很年輕時候，每次只要有僧眾從她附近經過，就會對他們充滿著虔敬之心。 25 歲時，毅然放棄了大學學位，尋求更高的佛法智慧，而在帕奧禪師（Pa Auk Sayadaw）座下出家。　
@@ -438,7 +438,7 @@
 禪修通告
 ~~~~~~~~~~
 
-  .. image:: {filename}/extra/dhammarain/extra/doc/meditation/2016-0208--14.gif
+  .. image:: {static}/extra/dhammarain/extra/doc/meditation/2016-0208--14.gif
      :alt: 2016Feb吉祥尊者(Bhante Maṅgala)
 
 | 指導禪師：吉祥尊者(Bhante Maṅgala)
@@ -466,7 +466,7 @@
 | 吉祥尊者（Ven.U Maṅgala）簡介
 | ——帕奧禪林的業處指導老師之一
 
-  .. image:: {filename}/extra/dhammarain/extra/img/Bhante-U-Magala-b.jpg
+  .. image:: {static}/extra/dhammarain/extra/img/Bhante-U-Magala-b.jpg
      :alt: 吉祥尊者(Bhante Maṅgala)2016Feb
 
 | 1968年出生於馬來西亞歷史最悠久的古城麻六甲（Melaka），中學時期已經認真思考人生的方向，並開始學禪，大學畢業後決心把生命投入修行。
@@ -478,12 +478,12 @@
 | 在菩提禪林及兜率天修行林教禪，主持短期出家。
 | 
 
-  .. image:: {filename}/extra/dhammarain/extra/img/Bhante-U-Magala-a.jpg
+  .. image:: {static}/extra/dhammarain/extra/img/Bhante-U-Magala-a.jpg
      :alt: 吉祥尊者(Bhante Maṅgala)2016Feb
 
 尊者通曉中英雙語，目前為古晉兜率天修行林（Tusita Hermitage ）〖位於砂撈越—古晉—石角—柔佛巴魯肚。只限男性出家眾、65歲以上的老尼師與男性禪修者〗以及菩提法苑（Bodhivana Buddhist Hermitage）〖位於砂撈越—古晉—11裡。只限65歲以下的女性出家眾與禪修者〗的精神導師，有近百位僧、尼、俗四眾弟子在尊者教導下習禪。
 
-  .. image:: {filename}/extra/dhammarain/extra/img/Bhante-U-Magala-c.jpg
+  .. image:: {static}/extra/dhammarain/extra/img/Bhante-U-Magala-c.jpg
      :alt: 吉祥尊者(Bhante Maṅgala)2016Feb
 
 | 2009 年籌辦兜率天修行林新翼，以提升修行林為叢林道場
@@ -542,7 +542,7 @@
 2015, 清明節 3日禪修通告 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  .. image:: {filename}/extra/dhammarain/extra/doc/meditation/2015-Apr-Meditation.jpg
+  .. image:: {static}/extra/dhammarain/extra/doc/meditation/2015-Apr-Meditation.jpg
      :alt: 吉祥尊者(Bhante Maṅgala)2016Feb
 
 | 指導老師：悅音尊者(​Bhante U Subhasita)
@@ -706,7 +706,7 @@
 | 備註：請事先以 E-MAIL 或 電話報名 (馨醇居士)；
 | 　　　遠道參學者，當晚可在道場掛單；請先來電告之。
 | 
-| 報名表 or `PDF <{filename}/extra/dhammarain/extra/doc/new/abhidhammattha-teaching-2013.pdf>`__ 
+| 報名表 or `PDF <{static}/extra/dhammarain/extra/doc/new/abhidhammattha-teaching-2013.pdf>`__ 
 | 
 | 歡迎本雅難陀禪師蒞臨法雨道場！
 | 
@@ -909,7 +909,7 @@
 | 
 | 97('08)/12/29四念住禪修(冬季)
 
-  .. image:: {filename}/extra/dhammarain/extra/img/india-greeting.gif
+  .. image:: {static}/extra/dhammarain/extra/img/india-greeting.gif
      :alt: india-greeting
 
 | 禪修期間
@@ -972,9 +972,11 @@
 | 曾參加過法雨道場的四念住禪者，需再添寫報名表.
 | 曾參加其他禪修營者，免添報名表.直接告訴我們參加時間即可.
 | 
-| 　　 `禪修時辰 <{filename}/extra/dhammarain/extra/doc/meditation/Meditation-Hours.pdf>`__ (pdf)
+| 　　 `禪修時辰 <{static}/extra/dhammarain/extra/doc/meditation/Meditation-Hours.pdf>`__ (pdf)
+
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   2018.04.22 upload (test under nanda acc.); 04.19 create .rst for github
   ------
   02.26 2017 change code to UTF-8

@@ -14,23 +14,23 @@
 
   - PTS:  `mahāsatipaṭṭhānasuttaṃ <{filename}dn22-pts%zh.rst>`__ [original： `Access to Insight <http://www.accesstoinsight.org/>`__  → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `DN <http://www.accesstoinsight.org/tipitaka/dn/index.html>`__ → DN 22: Maha-satipatthana Sutta → `{D ii 290} <http://www.accesstoinsight.org/tipitaka/sltp/DN_II_utf8.html#pts.290>`__ ; (PTS Page 290）]
 
-  -  `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ ： `Mahāsatipaṭṭhānasuttaṃ <{filename}/extra/tipitaka/sutta/digha/dn.22-CSCD.html>`__ [original： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單 “Tipiṭaka Scripts” 中選 `Roman → Web <http://www.tipitaka.org/romn/>`__  → Tipiṭaka (Mūla) → Suttapiṭaka → Dīghanikāya → Mahāvaggapāḷi → `9. Mahāsatipaṭṭhānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul8.xml>`__ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__  (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
+  -  `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ ： `Mahāsatipaṭṭhānasuttaṃ <{static}/extra/tipitaka/sutta/digha/dn.22-CSCD.html>`__ [original： `The Pāḷi Tipitaka (http://www.tipitaka.org/) <http://www.tipitaka.org/>`__ (請於左邊選單 “Tipiṭaka Scripts” 中選 `Roman → Web <http://www.tipitaka.org/romn/>`__  → Tipiṭaka (Mūla) → Suttapiṭaka → Dīghanikāya → Mahāvaggapāḷi → `9. Mahāsatipaṭṭhānasuttaṃ <http://www.tipitaka.org/romn/cscd/s0102m.mul8.xml>`__ )。或可參考 `【國際內觀中心】(Vipassana Meditation <http://www.dhamma.org/>`__  (As Taught By S.N. Goenka in the tradition of Sayagyi U Ba Khin)所發行之《第六次結集》(巴利大藏經) CSCD ( `Chaṭṭha Saṅgāyana <http://www.tipitaka.org/chattha>`__ CD)。]
 
 - 漢譯：
 
   - `念住大經；莊春江 <{filename}dn22-chuangcj%zh.rst>`__ [原始出處請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ → 22 → `長部22經/念住大經(大品[第二]); 莊春江 <http://agama.buddhason.org/DN/DN22.htm>`__ ]。
 
-  - `長部．二十二．大念處經；蕭式球 <{filename}/extra/tipitaka/sutta/digha/dn.22-SiuSK.html>`__ (原始出處請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ --5.1.2.026；或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ --南傳佛教-- 5.1.巴利文佛典選譯-- 5.1.1.長部 → 22 大念處經 → `【長部．二十二．大念處經】蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=274>`__ ，頁1～ `頁4 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=274&page_id=156:0>`__ )
+  - `長部．二十二．大念處經；蕭式球 <{static}/extra/tipitaka/sutta/digha/dn.22-SiuSK.html>`__ (原始出處請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ --5.1.2.026；或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ --南傳佛教-- 5.1.巴利文佛典選譯-- 5.1.1.長部 → 22 大念處經 → `【長部．二十二．大念處經】蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=274>`__ ，頁1～ `頁4 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=274&page_id=156:0>`__ )
 
-  - `大念處經；明法比丘 <{filename}/extra/tipitaka/sutta/digha/dn.22.metta-pc.html>`__ \ (**Ven. Bhikkhu Metta, Taiwan)**\ (巴漢對照及文法分析);  `PDF <{filename}/extra/tipitaka/sutta/digha/dn.22.metta-pc.pdf>`__ \ [原始出處請參考：  `法雨道場 <http://www.dhammarain.org.tw/>`__ \ →  `閱讀三藏 <http://www.dhammarain.org.tw/canon/canon1.html>`__ \ →  大念處經 -- (巴漢對照及文法分析) -- Edited by **Ven. Bhikkhu Metta明法比丘(Taiwan)**\；  `另一鏡像站: dhammarain.online-dhamma.net <http://dhammarain.online-dhamma.net>`__ ]
+  - `大念處經；明法比丘 <{static}/extra/tipitaka/sutta/digha/dn.22.metta-pc.html>`__ \ (**Ven. Bhikkhu Metta, Taiwan)**\ (巴漢對照及文法分析);  `PDF <{static}/extra/tipitaka/sutta/digha/dn.22.metta-pc.pdf>`__ \ [原始出處請參考：  `法雨道場 <http://www.dhammarain.org.tw/>`__ \ →  `閱讀三藏 <http://www.dhammarain.org.tw/canon/canon1.html>`__ \ →  大念處經 -- (巴漢對照及文法分析) -- Edited by **Ven. Bhikkhu Metta明法比丘(Taiwan)**\；  `另一鏡像站: dhammarain.online-dhamma.net <http://dhammarain.online-dhamma.net>`__ ]
 
-  -  `大念處經經文（帕奧禪師弟子合譯） <{filename}/extra/tipitaka/sutta/digha/dn.22-paauk.html>`__ （出自 `《正念之道》, 帕奧禪師著；弟子合譯 <{filename}/extra/tipitaka/sutta/digha/dn.22-paauk-full.htm>`__ ） （ `經文 PDF <{filename}/extra/tipitaka/sutta/digha/dn.22-paauk.pdf>`__  ； `《正念之道》PDF <{filename}/extra/tipitaka/sutta/digha/dn.22-paauk-full.pdf>`__  （原始出處請參考：  `法雨道場 <http://www.dhammarain.org.tw/>`__  →  `好書介紹 <http://www.dhammarain.org.tw/books/book1.html>`__ ）；  `正念之道, 另一鏡像站:  `dhammarain.online-dhamma.net <http://dhammarain.online-dhamma.net/books/paauk/paauk_all.htm>`__ ； 或自 `台灣南傳上座部佛教學院--TTBC <http://www.taiwandipa.org.tw/>`__ 下載 `正念之道 Zip 壓縮檔 <http://www.taiwandipa.org.tw/images/k/k12-0.zip>`__ ）
+  -  `大念處經經文（帕奧禪師弟子合譯） <{static}/extra/tipitaka/sutta/digha/dn.22-paauk.html>`__ （出自 `《正念之道》, 帕奧禪師著；弟子合譯 <{static}/extra/tipitaka/sutta/digha/dn.22-paauk-full.htm>`__ ） （ `經文 PDF <{static}/extra/tipitaka/sutta/digha/dn.22-paauk.pdf>`__  ； `《正念之道》PDF <{static}/extra/tipitaka/sutta/digha/dn.22-paauk-full.pdf>`__  （原始出處請參考：  `法雨道場 <http://www.dhammarain.org.tw/>`__  →  `好書介紹 <http://www.dhammarain.org.tw/books/book1.html>`__ ）；  `正念之道, 另一鏡像站:  `dhammarain.online-dhamma.net <http://dhammarain.online-dhamma.net/books/paauk/paauk_all.htm>`__ ； 或自 `台灣南傳上座部佛教學院--TTBC <http://www.taiwandipa.org.tw/>`__ 下載 `正念之道 Zip 壓縮檔 <http://www.taiwandipa.org.tw/images/k/k12-0.zip>`__ ）
 
   -  `《念住：通往證悟的直接之道》; 無著比丘 Ven. Bhikkhu Anālayo 著，pdf <http://www.gaya.org.tw/publisher/faya/Satipatthana_%E3%80%8A%E5%BF%B5%E4%BD%8F%EF%BC%9A%E9%80%9A%E5%BE%80%E8%AD%89%E6%82%9F%E7%9A%84%E7%9B%B4%E6%8E%A5%E4%B9%8B%E9%81%93%E3%80%8B.pdf>`__ ， 香光書鄉編譯組：釋自鼐、釋恆定、蘇錦坤、溫宗堃、陳布燦、王瑞鄉 譯(2013.2月)〔 `香光資訊網 <http://www.gaya.org.tw/index.htm>`__ ／ `香光書鄉 <http://www.gaya.org.tw/publisher/index.htm>`__ ／ `法悅叢書 <http://www.gaya.org.tw/publisher/faya/fayaindex.htm>`__ ／《念住：通往證悟的直接之道》；另刊於 `香光莊嚴季刊 <http://www.gayamagazine.org/>`__ ［第116期］ `一本讀懂《大念住經》 視讀經典（四） <http://www.gayamagazine.org/periodical/detail/161>`__ ；2014.6月〕　德國‧漢堡大學‧沼田 `佛學研究中心 <https://www.buddhismuskunde.uni-hamburg.de/>`__ (Numata Zentrum für Buddhismuskunde: Universität Hamburg)網站亦有提供 `《念住：通往證悟的直接之道》; 無著比丘 Ven. Bhikkhu Anālayo 著，pdf <https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/direct-path-chinese.pdf>`__
 
-  -  `大念處經；曾銀湖　譯 <{filename}/extra/tipitaka/sutta/digha/dn.22-Jen-TW.html>`__ 〔取自《四念處》；巴利英譯：Maurice Walshe（英國）; 英文白話文中譯：曾銀湖（臺灣）〕
+  -  `大念處經；曾銀湖　譯 <{static}/extra/tipitaka/sutta/digha/dn.22-Jen-TW.html>`__ 〔取自《四念處》；巴利英譯：Maurice Walshe（英國）; 英文白話文中譯：曾銀湖（臺灣）〕
 
-  -  `大念處經; 鄧殿臣、趙桐　譯 <{filename}/extra/tipitaka/sutta/digha/dn.22.den-cau.html>`__ （原始出處請參考： `大念處經; 鄧殿臣、趙桐　譯  <http://tripitaka.cbeta.org/W05n0048_001>`__ 〔含(題解),  `CBETA 中華電子佛典協會 <http://tripitaka.cbeta.org/>`__ 〕
+  -  `大念處經; 鄧殿臣、趙桐　譯 <{static}/extra/tipitaka/sutta/digha/dn.22.den-cau.html>`__ （原始出處請參考： `大念處經; 鄧殿臣、趙桐　譯  <http://tripitaka.cbeta.org/W05n0048_001>`__ 〔含(題解),  `CBETA 中華電子佛典協會 <http://tripitaka.cbeta.org/>`__ 〕
 
   -  `念處之道: 大念處經講記，性空法師， PDF <http://www.gaya.org.tw/publisher/faya/%E5%BF%B5%E8%99%95%E4%B9%8B%E9%81%93%EF%BC%9B%E3%80%8A%E5%A4%A7%E5%BF%B5%E8%99%95%E7%B6%93%E3%80%8B%E8%AC%9B%E8%A8%98.pdf>`__ 〔內含元亨寺譯的《大念處經》 (出自《漢譯南傳大藏經》）； `香光書鄉 <http://www.gaya.org.tw/publisher/>`__ →  `法悅叢書 <http://www.gaya.org.tw/publisher/faya/fayaindex.htm>`__ 〕
 
@@ -44,9 +44,9 @@
 
 - 英譯(English)：
 
-  -  `The Great Frames of Reference <{filename}/extra/tipitaka/sutta/digha/dn.22.0.bpit.html>`_ \ -- translated from the Pali by **Burma Piṭaka Association** [original：Maha-satipatthana Sutta: The Great Frames of Reference translated from the Pali by  `Burma Piṭaka Association <http://www.accesstoinsight.org/tipitaka/dn/dn.22.0.bpit.html>`_ \ © 2010; ( `Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ ) ]
+  -  `The Great Frames of Reference <{static}/extra/tipitaka/sutta/digha/dn.22.0.bpit.html>`_ \ -- translated from the Pali by **Burma Piṭaka Association** [original：Maha-satipatthana Sutta: The Great Frames of Reference translated from the Pali by  `Burma Piṭaka Association <http://www.accesstoinsight.org/tipitaka/dn/dn.22.0.bpit.html>`_ \ © 2010; ( `Access to Insight:Readings in Theravada Buddhism <http://www.accesstoinsight.org/>`__ ) ]
 
-  -  `The Great Frames of Reference <{filename}/extra/tipitaka/sutta/digha/dn.22.0.than.html>`__ \  -- translated from the Pali by **Ven. Thanissaro Bhikkhu**. [原始出處(original)：Maha-satipatthana Sutta: The Great Frames of Reference translated from the Pali by Ven. `Thanissaro Bhikkhu <http://www.accesstoinsight.org/tipitaka/dn/dn.22.0.than.html>`_ \ © 2000] 
+  -  `The Great Frames of Reference <{static}/extra/tipitaka/sutta/digha/dn.22.0.than.html>`__ \  -- translated from the Pali by **Ven. Thanissaro Bhikkhu**. [原始出處(original)：Maha-satipatthana Sutta: The Great Frames of Reference translated from the Pali by Ven. `Thanissaro Bhikkhu <http://www.accesstoinsight.org/tipitaka/dn/dn.22.0.than.html>`_ \ © 2000] 
 
   -  `The Long Discourse about the Ways of Attending to Mindfulness <http://www.ancient-buddhist-texts.net/English-Texts/Mindfulness/index.htm>`_ \ , edited and translated by **Ven. Ānandajoti Bhikkhu** ( `Ancient Buddhist Texts <http://www.ancient-buddhist-texts.net/index.htm>`_ \ ); the other  `(mirror) <http://www.dhammatalks.net/ancient_buddhist_texts/English-Texts/Mindfulness/index.htm>`_ \ site ( `Dhamma Talks <http://www.dhammatalks.net/>`_ \ (((((0))))) Attaining PEACE with KNOWING & SEEING a Handful of Leaves)
 
@@ -78,7 +78,7 @@
 
       -  `中部10經/【念住大經】(根本法門品[1]); 莊春江 <http://agama.buddhason.org/MN/MN010.htm>`__ \ ( ← `漢譯中部 <http://agama.buddhason.org/MN/index.htm>`__ ←  `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ ）。
 
-      -  江鍊百漢譯；釋芝峯校證《念處經第十》 `(PDF) <{filename}/extra/tipitaka/sutta/digha/mn.010.ShCFon.pdf>`__ \ 。
+      -  江鍊百漢譯；釋芝峯校證《念處經第十》 `(PDF) <{static}/extra/tipitaka/sutta/digha/mn.010.ShCFon.pdf>`__ \ 。
 
     - 英譯：
 
@@ -111,7 +111,7 @@
 
       -  Majjhima Nikaaya III, III. 2. 8. aanaapaanasutta.m (118) The Discourse On In and Out Breathing `Translated by Sister Upalavanna <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/118-anappanasati-e.html>`__ (METTANET - LANKA之 `THE TIPITAKA <http://metta.lk/tipitaka/>`__ -- `Majjhima Nikaya <http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ ) or `Majjhima Nikāya <http://awake.kiev.ua/dhamma/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/index.html>`__ (awake.kiev.ua) 。
 
-  -  `中部 10 念處經(臺灣 廖文燦漢譯) <{filename}/extra/tipitaka/sutta/majjhima/mn10-TW-Liau.htm>`__
+  -  `中部 10 念處經(臺灣 廖文燦漢譯) <{static}/extra/tipitaka/sutta/majjhima/mn10-TW-Liau.htm>`__
 
 ---------------------------------
 
@@ -182,6 +182,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2023-08-08 rev. replace filename with static to match "gramma"
   10.16 add:  awake.kiev.ua (the other METTANET)
   08.15 rev. old: PTS: mahāparinibbānasuttaṃ
   01.16 2017 replace /extra/tipitaka/sutta/digha/dn.22-pts.html with dn22-pts%zh.rst

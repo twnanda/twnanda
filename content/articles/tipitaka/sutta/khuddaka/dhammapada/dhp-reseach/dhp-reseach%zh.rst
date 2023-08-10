@@ -19,7 +19,7 @@
 
 - `「法句——優陀那」 <http://yinshun-edu.org.tw/Master_yinshun/y35_11_02>`_ 。 **印順 法師** 著。 [18]_
 
-- 南北傳《法句經》的對照表， **尊者 明法 比丘** ： `PDF <{filename}/extra/pdf/S-vs-N-Dharmapada.pdf>`__ ; `doc <{filename}/extra/doc/S-vs-N-Dharmapada.doc>`_ ; `DOC (Foreign1 字型) <{filename}/extra/doc/S-vs-N-Dharmapada-f1.doc>`__
+- 南北傳《法句經》的對照表， **尊者 明法 比丘** ： `PDF <{static}/extra/pdf/S-vs-N-Dharmapada.pdf>`__ ; `doc <{static}/extra/doc/S-vs-N-Dharmapada.doc>`_ ; `DOC (Foreign1 字型) <{static}/extra/doc/S-vs-N-Dharmapada-f1.doc>`__
 
 - `法句經讀書會 <http://yifertw.blogspot.tw/search/label/%E6%B3%95%E5%8F%A5%E7%B6%93%E8%AE%80%E6%9B%B8%E6%9C%83>`_ （具有“法句經讀書會”標籤的文章）“藏經閣外的掃葉人”網誌 [21]_
 
@@ -195,9 +195,11 @@
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
-.. http://dhamma4khmer2.org/TripitakaEnglish/DHAMMAPADA.pdf
+.. 
+  2023-08-08 rev. replace filename with static to match "gramma"
+  
+   http://dhamma4khmer2.org/TripitakaEnglish/DHAMMAPADA.pdf
    Norman, K. R., (1997), The Word of the Doctrine (Dhammapada), PTS, London, UK.
-   
 
    01.16 2017 add: 01.16 2017 add: Falk, Harry, (2011) & 2014
                    《法集要頌經》(T213)的翻譯議題; &《法句經》的「校讀」與「誤譯」

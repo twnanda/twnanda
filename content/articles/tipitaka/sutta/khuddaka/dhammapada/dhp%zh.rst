@@ -173,7 +173,8 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
-  11-16 rev. & add local linking of 偈頌對照表; replace {filename}/extra/ with {static}/extra/
+  2023-08-08 rev. replace filename with static to match "gramma"
+  11-16 rev. & add local linking of 偈頌對照表; replace {static}/extra/ with {static}/extra/
   09-29 偈頌對照表 linking (this site: {filename}dhp-correspondence-tables/dhp-correspondence-tables%zh.rst under construction!)
   2021-01-24 add: 白話文版 2021 
   2018-08-07 add: 元亨寺 漢譯南傳大藏經 法句經
