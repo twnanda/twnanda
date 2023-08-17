@@ -24,7 +24,7 @@ Translation based on the recorded tapes (Burmese) by Bhikkhu Uttamo
 
 - `Postscript <{filename}postscript-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
 
-- `Appendix <{filename}appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
+- `Appendix (On Samādhi and Pain by Teachers) <{filename}appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
 
 ------
 

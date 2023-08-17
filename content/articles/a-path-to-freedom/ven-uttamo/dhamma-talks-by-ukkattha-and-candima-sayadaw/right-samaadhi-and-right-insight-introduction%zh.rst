@@ -599,7 +599,7 @@ revised on 2023-07-20
 
 ------
 
-- `Content <{filename}right-samaadhi-and-right-insight-content%zh.rst>`__ of "Right Samādhi and Right Insight" (by Sayadaw U Candima)
+- `Content <{filename}content-right-samaadhi-and-right-insight%zh.rst>`__ of "Right Samādhi and Right Insight" (by Sayadaw U Candima)
 
 - `Content <{filename}content-of-dhamma-talks-by-ukkattha%zh.rst>`__ of "Two Sides of A Coin" (Dhamma Talks by Sayadaw U Ukkaṭṭha)
 

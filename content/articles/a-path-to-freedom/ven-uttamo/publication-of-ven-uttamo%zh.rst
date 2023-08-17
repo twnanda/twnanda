@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2023-05-06
+:modified: 2023-08-17
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -18,6 +18,8 @@ Publications of Bhikkhu Uttamo
 - `Two Sides of A Coin`_ (Dhamma Talks by Sayadaw U Ukkaṭṭha)
 
 - `A Noble Search`_ (Dhamma Talks by Sayadaw U Candima)
+
+- `Right Samādhi and Right Insight`_ (Dhamma Talks by Sayadaw U Candima)
 
 ------
 
@@ -1072,6 +1074,21 @@ A Noble Search
 
 - `A Noble Search <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-a-noble-search%zh.rst>`__
 
+- `A Postscript of <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/postscript-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`__ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
+
+- `Appendix (On Samādhi and Pain by Teachers) <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima 
+
+------
+
+.. _Right Samādhi and Right Insight:
+
+Right Samādhi and Right Insight
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ (Dhamma Talks by Sayadaw U Candima)
+
+- `Introduction to Right Samādhi and Right Insight <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/right-samaadhi-and-right-insight-introduction%zh.rst>`_ (Dhamma Talks by Sayadaw U Candima)
+
 - `On Basic Meditation <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-on-basic-meditation%zh.rst>`_
 
 - `Pain and Samādhi <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-pain-and-samadhi%zh.rst>`_
@@ -1088,11 +1105,15 @@ A Noble Search
 
 - `After Samādhi, Develop Vipassanā <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/candima-after-samadhi-develop-vipassana%zh.rst>`_ 
 
-- `A Postscript of <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/postscript-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`__ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
+- Samādhi Practices
 
-- `Appendix <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima 
+  * 1. `The First Stage <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/right-samaadhi-and-right-insight-first-stage%zh.rst>`_ of Purification of The Mind (Cittavisuddhi)
 
-- Appendix 2 of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima-- Right Samadhi and Insight in Sayadaw U Ukkaṭṭha's Teaching
+  * 2. `The Second Stage <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/right-samaadhi-and-right-insight-second-stage%zh.rst>`_ of Purification of The Mind
+
+  * 3. `The Third Stage <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/right-samaadhi-and-right-insight-third-stage%zh.rst>`_ of Purification of The Mind
+
+  * `Conclusion <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/right-samaadhi-and-right-insight-conclusion%zh.rst>`_ 
 
 ------
 
@@ -1111,6 +1132,7 @@ These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bo
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-17 rev. re-arrange contents of two books: A Noble Search and Right Samādhi and Right Insight
   06-10 add the linkings of mp3 & Youtube of Dhamma Talks by Mogok Sayadaw & by Ukkattha Sayadaw and Candima Sayadaw
   05-06 rev. simplify the linkings of audio MP3 & Youtube
   05-05 add audio (MP3 & Youtube, including citta channel) of Maṅgala Sutta & add linkings of all the MP3 files & Youtube of 18 days

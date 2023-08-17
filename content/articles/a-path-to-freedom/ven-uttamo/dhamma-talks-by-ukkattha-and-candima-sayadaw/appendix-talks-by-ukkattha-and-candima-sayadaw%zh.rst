@@ -1,12 +1,13 @@
-=================================================================================
-Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
-=================================================================================
+=======================================================================================================================
+Appendix (On Samādhi and Pain by Teachers) of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
+=======================================================================================================================
 
 :date: 2022-02-13
 :modified: 2022-12-28
 :tags: Appendix, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Two Sides of A Coin, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
-:summary: Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
+:summary: Appendix (On Samādhi and Pain by Teachers) of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
+
 
 - `A Mogok teacher:`_
 
