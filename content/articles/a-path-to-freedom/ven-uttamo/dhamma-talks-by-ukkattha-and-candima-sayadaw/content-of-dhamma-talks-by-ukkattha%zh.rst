@@ -3,7 +3,7 @@ Content of "Two Sides of A Coin" (Dhamma Talks by Sayadaw U Ukkaṭṭha)
 ========================================================================
 
 :date: 2022-02-13
-:modified: 2023-06-10
+:modified: 2023-08-23
 :tags: publication, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Two Sides of A Coin, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Content of "Two Sides of A Coin" (Dhamma Talks by Sayadaw U Ukkaṭṭha)
@@ -38,11 +38,13 @@ revised on 2022-04-28
 
 ------
 
-These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bound in one volume:
+- `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 
-- `PDF <https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 14 pt, 285 pages, 2022-08-10)
+- `Cover <https://github.com/tw-nanda/pdf-etc/blob/main/image/thae-inn-gu-ukkattha-and-candima-2.png>`__ of Bound volume of "Two Sides of A Coin" and "A Noble Search" (2022-08-23)
 
-- `Cover <https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/image/thae-inn-gu-ukkattha-and-candima.png>`__ of Bound volume of "Two Sides of A Coin" and "A Noble Search" (2022-08-10)
+| These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bound in one volume:
+| ("A Noble Search" includes the following sections:'On Basic Meditation', 'Pain and Samādhi', 'Dealing with Pain in Samādhi Practice', 'On Ānāpāna Samādhi', 'A Scales Like Samādhi', 'Diamond Meditation', 'Bhavaṅga Meditation', 'After Samādhi, Develop Vipassanā')
+| 
 
 ------
 
@@ -53,6 +55,9 @@ These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bo
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-23 rev. 
+  old: https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf, 
+       https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/image/thae-inn-gu-ukkattha-and-candima.png
   2023-06-10 add the linkings of mp3 & Youtube
   08-10 rev. full-text and cover of Bound volume of "Two Sides of A Coin" and "A Noble Search"
   04-28 rev. Appendix, full text print, etc.

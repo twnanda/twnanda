@@ -3,7 +3,7 @@ Content of Dhamma Talks by Sayadaw U Candima (Sandima)
 =========================================================
 
 :date: 2022-02-13
-:modified: 2023-08-17
+:modified: 2023-08-23
 :tags: publication, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Content of A Noble Search (Dhamma Talks by Sayadaw U Candima)
@@ -25,6 +25,16 @@ Translation based on the recorded tapes (Burmese) by Bhikkhu Uttamo
 - `Postscript <{filename}postscript-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima)
 
 - `Appendix (On Samādhi and Pain by Teachers) <{filename}appendix-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`_ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
+
+------
+
+- `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
+
+- `Cover <https://github.com/tw-nanda/pdf-etc/blob/main/image/thae-inn-gu-ukkattha-and-candima-2.png>`__ of Bound volume of "Two Sides of A Coin" and "A Noble Search" (2022-08-23)
+
+| Those two books ("Two Sides of A Coin" and "A Noble Search") are combined and bound in one volume:
+| ("A Noble Search" includes the following sections:'On Basic Meditation', 'Pain and Samādhi', 'Dealing with Pain in Samādhi Practice', 'On Ānāpāna Samādhi', 'A Scales Like Samādhi', 'Diamond Meditation', 'Bhavaṅga Meditation', 'After Samādhi, Develop Vipassanā')
+| 
 
 ------
 
@@ -61,15 +71,13 @@ Right Samādhi and Right Insight
 
 ------
 
-- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Bhikkhu Uttamo
+- `PDF of Right Samādhi and Right Insight <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/right-samaadhi-and-right-insight.pdf>`__ (For Print, Size: B5, 247 pages, 2022-08-23)
+
+- `Cover of Right Samādhi and Right Insight <https://github.com/tw-nanda/pdf-etc/blob/main/image/u-chandima-right-samaadhi-and-right-insight.png>`__ 
 
 ------
 
-Those two books ("Two Sides of A Coin" and "A Noble Search") are combined and bound in one volume:
-
-- `PDF <https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 14 pt, 285 pages, 2022-08-10)
-
-- `Cover <https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/image/thae-inn-gu-ukkattha-and-candima.png>`__ of Bound volume of "Two Sides of A Coin" and "A Noble Search" (2022-08-10)
+- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Bhikkhu Uttamo
 
 ------
 
@@ -80,6 +88,10 @@ Those two books ("Two Sides of A Coin" and "A Noble Search") are combined and bo
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-23 rev. 
+  old: https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf, 
+       https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/image/thae-inn-gu-ukkattha-and-candima.png
+       add: Cover & PDF of Right Samādhi and Right Insight
   08-17 rev. re-arrange contents of two books: A Noble Search and Right Samādhi and Right Insight
   07-20 add Right Samādhi and Right Insight
   06-21 add appendix 2

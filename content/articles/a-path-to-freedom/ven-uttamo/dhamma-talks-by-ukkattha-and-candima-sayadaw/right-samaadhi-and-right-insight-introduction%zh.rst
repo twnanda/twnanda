@@ -601,9 +601,9 @@ revised on 2023-07-20
 
 - `Content <{filename}content-right-samaadhi-and-right-insight%zh.rst>`__ of "Right Samādhi and Right Insight" (by Sayadaw U Candima)
 
-- `Content <{filename}content-of-dhamma-talks-by-ukkattha%zh.rst>`__ of "Two Sides of A Coin" (Dhamma Talks by Sayadaw U Ukkaṭṭha)
-
 - `Content <{filename}content-of-dhamma-talks-by-candima-sayadaw%zh.rst>`__ of "A Noble Search" (Dhamma Talks by Sayadaw U Candima)
+
+- `Content <{filename}content-of-dhamma-talks-by-ukkattha%zh.rst>`__ of "Two Sides of A Coin" (Dhamma Talks by Sayadaw U Ukkaṭṭha)
 
 - `Content <{filename}content-of-dhamma-talks-by-ukkattha-and-candima-sayadaw%zh.rst>`__ of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima
 

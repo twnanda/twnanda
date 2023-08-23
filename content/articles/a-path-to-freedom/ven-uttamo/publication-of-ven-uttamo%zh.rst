@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2023-08-17
+:modified: 2023-08-23
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -1080,6 +1080,16 @@ A Noble Search
 
 ------
 
+- `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
+
+- `Cover <https://github.com/tw-nanda/pdf-etc/blob/main/image/thae-inn-gu-ukkattha-and-candima-2.png>`__ of Bound volume of "Two Sides of A Coin" and "A Noble Search" (2022-08-23)
+
+| These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bound in one volume:
+| ("A Noble Search" includes the following sections:'On Basic Meditation', 'Pain and Samādhi', 'Dealing with Pain in Samādhi Practice', 'On Ānāpāna Samādhi', 'A Scales Like Samādhi', 'Diamond Meditation', 'Bhavaṅga Meditation', 'After Samādhi, Develop Vipassanā')
+| 
+
+------
+
 .. _Right Samādhi and Right Insight:
 
 Right Samādhi and Right Insight
@@ -1117,11 +1127,9 @@ Right Samādhi and Right Insight
 
 ------
 
-These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bound in one volume:
+- `PDF of Right Samādhi and Right Insight <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/right-samaadhi-and-right-insight.pdf>`__ (For Print, Size: B5, 247 pages, 2022-08-23)
 
-- `PDF <https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 14 pt, 285 pages, 2022-08-10)
-
-- `Cover <https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/image/thae-inn-gu-ukkattha-and-candima.png>`__ of Bound volume of "Two Sides of A Coin" and "A Noble Search" (2022-08-10)
+- `Cover of Right Samādhi and Right Insight <https://github.com/tw-nanda/pdf-etc/blob/main/image/u-chandima-right-samaadhi-and-right-insight.png>`__ 
 
 ------
 
@@ -1132,6 +1140,10 @@ These two books ("Two Sides of A Coin" and "A Noble Search") are combined and bo
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-23 rev. 
+  old: https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf, 
+       https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/image/thae-inn-gu-ukkattha-and-candima.png
+       add: Cover & PDF of Right Samādhi and Right Insight
   08-17 rev. re-arrange contents of two books: A Noble Search and Right Samādhi and Right Insight
   06-10 add the linkings of mp3 & Youtube of Dhamma Talks by Mogok Sayadaw & by Ukkattha Sayadaw and Candima Sayadaw
   05-06 rev. simplify the linkings of audio MP3 & Youtube
