@@ -3,7 +3,7 @@
 =====================================
 
 :date: 2023-06-16
-:modified: 2023-06-30
+:modified: 2023-09-02
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 美琪喬——一位阿羅漢尼修道證果之旅
@@ -11,7 +11,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {static}/extra/img/cover-mae-chee-kaew.jpg
+  .. image:: {filename}/extra/img/cover-mae-chee-kaew.png
      :alt: Cover of "Mae Chee Kaew"
      :width: 452
      :height: 670
@@ -28,7 +28,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {static}/extra/img/mae-chee-kaew-foto1.jpg
+  .. image:: {filename}/extra/img/mae-chee-kaew-foto1.jpg
      :alt: Foto 1 of "Mae Chee Kaew"
      :width: 452
      :height: 670
@@ -36,7 +36,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {static}/extra/img/mae-chee-kaew-foto2.jpg
+  .. image:: {filename}/extra/img/mae-chee-kaew-foto2.jpg
      :alt: Foto 2 of "Mae Chee Kaew"
      :width: 452
      :height: 670
@@ -329,7 +329,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
-  2023-08-08 rev. replace filename with static to match "gramma"
+  09-02 rev. replace cover-mae-chee-kaew.png (traditional chinese)(old: cover-mae-chee-kaew.jpg, english)
   06-30 rev. 阿姜 戒寶 → 阿瞻 戒寶
   06-29 rev. replace scale of foto=35 % with width: 904, height: 1341 (50%), then width: 452, height: 670 (25%original)
   06-28 rev. set scale of foto=35 %
