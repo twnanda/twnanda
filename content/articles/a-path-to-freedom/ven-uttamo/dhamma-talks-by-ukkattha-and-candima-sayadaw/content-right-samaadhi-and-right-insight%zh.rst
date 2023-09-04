@@ -3,7 +3,7 @@ Content of "Right Samādhi and Right Insight"
 ================================================
 
 :date: 2023-07-20
-:modified: 2023-08-23
+:modified: 2023-09-04
 :tags: publication, Bhikkhu Uttamo, Right Samādhi, Right Insight, Sayadaw U Candima, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Content of "Right Samādhi and Right Insight"
@@ -50,6 +50,12 @@ Translation by Bhikkhu Uttamo
 
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
+------
+
+- `MP3 and Youtube <{filename}content-of-dhamma-talks-by-ukkattha-and-candima-sayadaw%zh.rst#mp3_and_youtube>`__ of Dhamma Talks by Ukkattha Sayadaw and Candima Sayadaw
+
+
 ..
+  09-04 add linking of MP3 & Youtube
   08-23 add: Cover & PDF of Right Samādhi and Right Insight
   2023-07-20 create rst
