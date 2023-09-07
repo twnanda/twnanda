@@ -3,7 +3,7 @@
 =====================================
 
 :date: 2023-06-16
-:modified: 2023-09-03
+:modified: 2023-09-07
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 美琪喬——一位阿羅漢尼修道證果之旅
@@ -42,7 +42,7 @@
      :height: 670
      :align: center
 
-- `序 <{filename}mae-chee-kaew-preface%zh.rst>`_
+- `序 <{filename}mae-chee-kaew-preface%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-preface.mp3>`__ 3'02", `Youtube <https://www.youtube.com/watch?v=hVv5S8zvRtA&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=2>`__ )
 
 ------
 
@@ -58,7 +58,7 @@
 
 ------
 
-- `導讀 <{filename}mae-chee-kaew-introduction%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-introduction.mp3>`__ 16'26", `整本書之 MP3 目錄 <https://github.com/twnanda/twnanda/tree/master/content/extra/authors/mae-chee-kaew>`__ ; `Youtube <https://www.youtube.com/watch?v=VxXsYWqEk_k&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=2>`__ ; **整本書 Youtube** 6:45:01) 
+- `導讀 <{filename}mae-chee-kaew-introduction%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-introduction.mp3>`__ 16'26", `整本書之 MP3 目錄 <https://github.com/twnanda/twnanda/tree/master/content/extra/authors/mae-chee-kaew>`__ ; `Youtube <https://www.youtube.com/watch?v=VxXsYWqEk_k&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=3>`__ ; **整本書 Youtube** 6:45:01) 
 
 * **第一輯 在家——紅塵歲月**
 
@@ -68,7 +68,7 @@
      自己和別人的生命，因此心總是捲入憂苦和悲痛中。
 
 
-  * `月光珠 <{filename}mae-chee-kaew-chap1-01-moonstone%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap1-01-moonstone.mp3>`__ 19'54", `Youtube <https://www.youtube.com/watch?v=cHBYxJp4luA&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=3>`__ )
+  * `月光珠 <{filename}mae-chee-kaew-chap1-01-moonstone%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap1-01-moonstone.mp3>`__ 19'54", `Youtube <https://www.youtube.com/watch?v=cHBYxJp4luA&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=4>`__ )
 
   ::
 
@@ -76,7 +76,7 @@
      最重要的是不要欺騙自己。如果你要的話可以欺騙整個世界，但是絕
      對不要欺騙你自己。
 
-  * `戰士般無畏的精神 <{filename}mae-chee-kaew-chap1-02-fearless%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap1-02-fearless.mp3>`__ 16'01", `Youtube <https://www.youtube.com/watch?v=yU0-eZOm_hM&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=4>`__ )
+  * `戰士般無畏的精神 <{filename}mae-chee-kaew-chap1-02-fearless%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap1-02-fearless.mp3>`__ 16'01", `Youtube <https://www.youtube.com/watch?v=yU0-eZOm_hM&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=5>`__ )
 
   ::
 
@@ -84,28 +84,28 @@
     不管修到哪裡都滿足於當時的成績，因為這個成績反映了部分的真理，
     是你可以依憑的。
 
-  * `一輩子的祝福 <{filename}mae-chee-kaew-chap1-03-blessing%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap1-03-blessing.mp3>`__ 17'06", `Youtube <https://www.youtube.com/watch?v=RElQM6xakk4&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=5>`__ )
+  * `一輩子的祝福 <{filename}mae-chee-kaew-chap1-03-blessing%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap1-03-blessing.mp3>`__ 17'06", `Youtube <https://www.youtube.com/watch?v=RElQM6xakk4&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=6>`__ )
 
   ::
 
     修心就像農夫耕田，先把土地清理，接著整地，犁地翻土，育苗插秧，
     施肥，澆水，除草。最後，你就有個豐盛的收成。
 
-  * `桑園 <{filename}mae-chee-kaew-chap1-04-mulberry%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap1-04-mulberry.mp3>`__ 15'33", `Youtube <https://www.youtube.com/watch?v=mWtyi4K5Dm8&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=6>`__ )
+  * `桑園 <{filename}mae-chee-kaew-chap1-04-mulberry%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap1-04-mulberry.mp3>`__ 15'33", `Youtube <https://www.youtube.com/watch?v=mWtyi4K5Dm8&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=7>`__ )
 
   ::
 
     你的身、你的心、你的生命——這些都不屬於你的，所以不能依靠它們
     帶給你真正的快樂。
 
-  * `農家忙 <{filename}mae-chee-kaew-chap1-05-immersed%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap1-05-immersed.mp3>`__ 11'17", `Youtube <https://www.youtube.com/watch?v=SlypZcudl70&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=7>`__ )
+  * `農家忙 <{filename}mae-chee-kaew-chap1-05-immersed%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap1-05-immersed.mp3>`__ 11'17", `Youtube <https://www.youtube.com/watch?v=SlypZcudl70&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=8>`__ )
 
   ::
 
     我的根門不停受到轟炸：眼對到色；耳對到聲；鼻對到香；舌對到味；
     身對到觸。我觀察所有的這些東西，如此一來，每一根門都成了我的老師。
 
-  * `小喬 <{filename}mae-chee-kaew-chap1-06-little%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap1-06-little.mp3>`__ 16'16", `Youtube <https://www.youtube.com/watch?v=4W5m-qXjCIg&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=8>`__ )
+  * `小喬 <{filename}mae-chee-kaew-chap1-06-little%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap1-06-little.mp3>`__ 16'16", `Youtube <https://www.youtube.com/watch?v=4W5m-qXjCIg&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=9>`__ )
 
 - **第二輯: 出家——美琪生涯**
 
@@ -114,7 +114,7 @@
      基本訓練就像用有丫叉的樹枝撐著香蕉樹，讓沉重的果串發育長大，
      避免香蕉還未熟就掉在地上。
 
-  * `萬緣放下 <{filename}mae-chee-kaew-chap2-01-leaving%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-01-leaving.mp3>`__ 09'03", `Youtube <https://www.youtube.com/watch?v=ku1Mzr0N6SU&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=9>`__ )
+  * `萬緣放下 <{filename}mae-chee-kaew-chap2-01-leaving%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-01-leaving.mp3>`__ 09'03", `Youtube <https://www.youtube.com/watch?v=ku1Mzr0N6SU&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=10>`__ )
 
   ::
 
@@ -122,28 +122,28 @@
      好幾個晚上不躺下來睡覺。忍耐是滋潤我心靈的糧食；精進是讓我
      躺下休息的枕頭。
 
-  * `失而復得的寶藏 <{filename}mae-chee-kaew-chap2-02-reclaiming%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-02-reclaiming.mp3>`__ 13'46", `Youtube <https://www.youtube.com/watch?v=u_bY06PebrE&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=10>`__ )
+  * `失而復得的寶藏 <{filename}mae-chee-kaew-chap2-02-reclaiming%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-02-reclaiming.mp3>`__ 13'46", `Youtube <https://www.youtube.com/watch?v=u_bY06PebrE&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=11>`__ )
 
   ::
 
      做個堂堂正正的出家人！不要貪圖世俗生活的污穢而毀了出家的發心，
      不要回頭，不要眷念俗家、親屬。
 
-  * `捅馬蜂窩 <{filename}mae-chee-kaew-chap2-03-stirring%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-03-stirring.mp3>`__ 10'32", `Youtube <https://www.youtube.com/watch?v=t-WwqX_45fs&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=11>`__ )
+  * `捅馬蜂窩 <{filename}mae-chee-kaew-chap2-03-stirring%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-03-stirring.mp3>`__ 10'32", `Youtube <https://www.youtube.com/watch?v=t-WwqX_45fs&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=12>`__ )
 
   ::
 
      仔細觀察你內心煩惱的起伏，別那麼容易給它們騙去。等你有能力
      掌控它們的動向時，就可以把它們的負面作用轉成正面的心靈能量。
 
-  * `擔水時擔水 <{filename}mae-chee-kaew-chap2-04-simply%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-04-simply.mp3>`__ 06'59", `Youtube <https://www.youtube.com/watch?v=jh0KsVGtIGI&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=12>`__ )
+  * `擔水時擔水 <{filename}mae-chee-kaew-chap2-04-simply%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-04-simply.mp3>`__ 06'59", `Youtube <https://www.youtube.com/watch?v=jh0KsVGtIGI&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=13>`__ )
 
   ::
 
      人會受苦是由於執著放不下，老是不滿足。
      好好觀察自己的心，學習怎麼捨棄苦的原因。
 
-  * `通往其他世界的關口 <{filename}mae-chee-kaew-chap2-05-through%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-05-through.mp3>`__ 130'15", `Youtube <https://www.youtube.com/watch?v=scCBxNEZlKU&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=13>`__ )
+  * `通往其他世界的關口 <{filename}mae-chee-kaew-chap2-05-through%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-05-through.mp3>`__ 130'15", `Youtube <https://www.youtube.com/watch?v=scCBxNEZlKU&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=14>`__ )
 
   ::
 
@@ -151,42 +151,42 @@
      謹小慎微害怕來生會墮落。不要坐在那裡發呆，生命剩下的時日不多了，
      好好警惕自己！
 
-  * `野豬 <{filename}mae-chee-kaew-chap2-06-wild%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-06-wild.mp3>`__ 08'52", `Youtube <https://www.youtube.com/watch?v=ylGl_OU-eAc&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=14>`__ )
+  * `野豬 <{filename}mae-chee-kaew-chap2-06-wild%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-06-wild.mp3>`__ 08'52", `Youtube <https://www.youtube.com/watch?v=ylGl_OU-eAc&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=15>`__ )
 
   ::
 
     一切的意識領域、一切的眾生，都源自於心。所以，你最好全神專注自己的心，
     你會在這裡發現整個宇宙。
 
-  * `山中的鬼世界 <{filename}mae-chee-kaew-chap2-07-ghosts%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-07-ghosts.mp3>`__ 11'58", `Youtube <https://www.youtube.com/watch?v=gAAleMxDs4Y&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=15>`__ )
+  * `山中的鬼世界 <{filename}mae-chee-kaew-chap2-07-ghosts%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-07-ghosts.mp3>`__ 11'58", `Youtube <https://www.youtube.com/watch?v=gAAleMxDs4Y&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=16>`__ )
 
   ::
 
     仔細觀察你身語意三業，言行舉止要沉穩內斂，不要說太多話，
     也不要給自己添麻煩。注意自己的語言，笑的時候要矜持。
 
-  * `諾格拉芭洞 <{filename}mae-chee-kaew-chap2-08-nok-kraba%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-08-nok-kraba.mp3>`__ 13'01", `Youtube <https://www.youtube.com/watch?v=VFPUaxGo6Uw&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=16>`__ )
+  * `諾格拉芭洞 <{filename}mae-chee-kaew-chap2-08-nok-kraba%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-08-nok-kraba.mp3>`__ 13'01", `Youtube <https://www.youtube.com/watch?v=VFPUaxGo6Uw&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=17>`__ )
 
   ::
 
     假使你忽略培養內在的念和慧，不肯痛下苦功，那麼你修道上的障礙
     會越積越多，到最後遮蔽所有的出路，永遠墮入黑暗之途。
 
-  * `捨道還俗 <{filename}mae-chee-kaew-chap2-09-failings%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-09-failings.mp3>`__ 10'52", `Youtube <https://www.youtube.com/watch?v=isXHLjSycL8&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=17>`__ )
+  * `捨道還俗 <{filename}mae-chee-kaew-chap2-09-failings%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-09-failings.mp3>`__ 10'52", `Youtube <https://www.youtube.com/watch?v=isXHLjSycL8&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=18>`__ )
 
   ::
 
     我們最渴愛最執著的就是這具身體，如此一來就必然要受苦。
     看清楚這副臭皮囊！它就只不過是剎那剎那生滅，兩尺寬六尺高的一堆血肉罷了。
 
-  * `觀身法門 <{filename}mae-chee-kaew-chap2-10-body%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-10-body.mp3>`__ 11'28", `Youtube <https://www.youtube.com/watch?v=ipZqF_nig78&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=18>`__ )
+  * `觀身法門 <{filename}mae-chee-kaew-chap2-10-body%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-10-body.mp3>`__ 11'28", `Youtube <https://www.youtube.com/watch?v=ipZqF_nig78&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=19>`__ )
 
   ::
 
     身為出家人生活淡泊，困苦是免不了的，我們一定要耐得住，
     切不可偷懶或抱怨，面對任何情況，皆以慈悲心應對。
 
-  * `美琪的楷模 <{filename}mae-chee-kaew-chap2-11-ideal%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-11-ideal.mp3>`__ 10'12", `Youtube <https://www.youtube.com/watch?v=L66erBZDYwg&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=19>`__ )
+  * `美琪的楷模 <{filename}mae-chee-kaew-chap2-11-ideal%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-11-ideal.mp3>`__ 10'12", `Youtube <https://www.youtube.com/watch?v=L66erBZDYwg&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=20>`__ )
 
   ::
 
@@ -194,7 +194,7 @@
     我們可能早上就死去，也可能在晚上死，誰也不知道什麼時候，唯一可以確定的是
     時辰到了死亡就會降臨。
 
-  * `參學之旅 <{filename}mae-chee-kaew-chap2-12-pilgrimage%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-12-pilgrimage.mp3>`__ 18'28", `Youtube <https://www.youtube.com/watch?v=9BHnk7rOQBU&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=20>`__ )
+  * `參學之旅 <{filename}mae-chee-kaew-chap2-12-pilgrimage%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap2-12-pilgrimage.mp3>`__ 18'28", `Youtube <https://www.youtube.com/watch?v=9BHnk7rOQBU&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=21>`__ )
 
 * **第三輯：心性——步上聖道**
 
@@ -203,20 +203,20 @@
     有智慧的人看到自身的固執，認出那是固執；看到陰暗，認出陰暗；看到愚癡，
     他們同樣認得出來。他們只看自己的過錯，不去怪罪別人。
 
-  * `修道因緣的交集 <{filename}mae-chee-kaew-chap3-01-intersecting%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap3-01-intersecting.mp3>`__ 19'32", `Youtube <https://www.youtube.com/watch?v=xVltDOv-fD4&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=21>`__ )
+  * `修道因緣的交集 <{filename}mae-chee-kaew-chap3-01-intersecting%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap3-01-intersecting.mp3>`__ 19'32", `Youtube <https://www.youtube.com/watch?v=xVltDOv-fD4&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=22>`__ )
 
   ::
 
     當你的心對自性的領悟彷彿繁花般盛放，那漫長無際的苦惱之盡頭，將慢慢出現在眼前。
 
-  * `法的預兆 <{filename}mae-chee-kaew-chap3-02-portent%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap3-02-portent.mp3>`__ 20'58", `Youtube <https://www.youtube.com/watch?v=HmAR6wb8P1c&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=22>`__ )
+  * `法的預兆 <{filename}mae-chee-kaew-chap3-02-portent%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap3-02-portent.mp3>`__ 20'58", `Youtube <https://www.youtube.com/watch?v=HmAR6wb8P1c&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=23>`__ )
 
   ::
 
     心專注佛法，初步的內觀是看到執著色身引起的苦。
     那些看清楚色身的人通常很快證悟佛法。
 
-  * `內在的屍體 <{filename}mae-chee-kaew-chap3-03-corpse%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap3-03-corpse.mp3>`__ 14'43", `Youtube <https://www.youtube.com/watch?v=P_0CDrKR7JQ&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=23>`__ )
+  * `內在的屍體 <{filename}mae-chee-kaew-chap3-03-corpse%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap3-03-corpse.mp3>`__ 14'43", `Youtube <https://www.youtube.com/watch?v=P_0CDrKR7JQ&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=24>`__ )
 
   ::
 
@@ -224,21 +224,21 @@
     心徹底休息時靜止不動，心靜止不動智慧容易生起，順暢運作。
     智慧運作時，心洞然明白。
 
-  * `任運自在的覺知 <{filename}mae-chee-kaew-chap3-04-spontaneous%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap3-04-spontaneous.mp3>`__ 14'11", `Youtube <https://www.youtube.com/watch?v=tqCHVtigWJY&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=24>`__ )
+  * `任運自在的覺知 <{filename}mae-chee-kaew-chap3-04-spontaneous%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap3-04-spontaneous.mp3>`__ 14'11", `Youtube <https://www.youtube.com/watch?v=tqCHVtigWJY&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=25>`__ )
 
   ::
 
     心正常的狀態是清凈的，心受到外塵染污才不凈，引起傷悲快樂等情緒波動，不斷渲染，
     直到完全看不到自己的本性。
 
-  * `光明的核心 <{filename}mae-chee-kaew-chap3-05-luminous%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap3-05-luminous.mp3>`__ 07'47", `Youtube <https://www.youtube.com/watch?v=2Wnr-eQTKfk&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=25>`__ )
+  * `光明的核心 <{filename}mae-chee-kaew-chap3-05-luminous%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap3-05-luminous.mp3>`__ 07'47", `Youtube <https://www.youtube.com/watch?v=2Wnr-eQTKfk&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=26>`__ )
 
   ::
 
     一瞬間的內觀清晰地洞見無明，令我們對這一純大苦聚集的執著厭倦，不再緊抓。
     在這清涼的片刻，內心的火熄滅了，自然從苦中解脫。
 
-  * `娑羅花盛開 <{filename}mae-chee-kaew-chap3-06-phayom%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap3-06-phayom.mp3>`__ 13'31", `Youtube <https://www.youtube.com/watch?v=tcujRWtfcBs&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=26>`__ )
+  * `娑羅花盛開 <{filename}mae-chee-kaew-chap3-06-phayom%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap3-06-phayom.mp3>`__ 13'31", `Youtube <https://www.youtube.com/watch?v=tcujRWtfcBs&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=27>`__ )
 
   ::
 
@@ -256,30 +256,30 @@
     他們沒有意識到不管多麼用功望多麼遠，也望不到涅槃。
     因為涅槃並不在有為的世間裏。
 
-  * `河流與大海 <{filename}mae-chee-kaew-chap4-01-river%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap4-01-river.mp3>`__ 11'07", `Youtube <https://www.youtube.com/watch?v=5ERysHq1Jk4&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=27>`__ )
+  * `河流與大海 <{filename}mae-chee-kaew-chap4-01-river%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap4-01-river.mp3>`__ 11'07", `Youtube <https://www.youtube.com/watch?v=5ERysHq1Jk4&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=28>`__ )
 
   ::
 
     我們生下來從孩童到長大成人都依賴父母和師長。
     我們能有今日都是由於他們的撫養教育，他們對我們恩重如山。
 
-  * `無盡的感恩 <{filename}mae-chee-kaew-chap4-02-gratitude%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap4-02-gratitude.mp3>`__ 09'23", `Youtube <https://www.youtube.com/watch?v=BHliWVthmM0&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=28>`__ )
+  * `無盡的感恩 <{filename}mae-chee-kaew-chap4-02-gratitude%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap4-02-gratitude.mp3>`__ 09'23", `Youtube <https://www.youtube.com/watch?v=BHliWVthmM0&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=29>`__ )
 
   ::
 
     提出問題之前，先在內心尋找答案。你找的話，通常都能找到答案。
 
-  * `終身不渝的信諾 <{filename}mae-chee-kaew-chap4-03-commitment%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap4-03-commitment.mp3>`__ 06'12", `Youtube <https://www.youtube.com/watch?v=cSwk2VWI_JU&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=29>`__ )
+  * `終身不渝的信諾 <{filename}mae-chee-kaew-chap4-03-commitment%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap4-03-commitment.mp3>`__ 06'12", `Youtube <https://www.youtube.com/watch?v=cSwk2VWI_JU&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=30>`__ )
 
   ::
 
     作為佛弟子，我們絕對不可以對自身的實相一無所知，任由生命腐朽。
     死亡時，要做到對身心沒有絲毫牽掛，放下自在地離去。
 
-  * `心的清凈 <{filename}mae-chee-kaew-chap4-04-pureness%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap4-04-pureness.mp3>`__ 16'31", `Youtube <https://www.youtube.com/watch?v=xWL2F5hOTqc&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=30>`__ )
+  * `心的清凈 <{filename}mae-chee-kaew-chap4-04-pureness%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-chap4-04-pureness.mp3>`__ 16'31", `Youtube <https://www.youtube.com/watch?v=xWL2F5hOTqc&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=31>`__ )
 
-* `後記 <{filename}mae-chee-kaew-epilogue%zh.rst>`_  (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-epilogue.mp3>`__ 04'12", `Youtube <https://www.youtube.com/watch?v=ofyvqTYqRjk&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=31>`__ )
-* `美琪喬法語集 <{filename}mae-chee-kaew-collected-teachings%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-collected-teachings.mp3>`__ 19'37", `Youtube <https://www.youtube.com/watch?v=Aq9cljb341U&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=32>`__ )
+* `後記 <{filename}mae-chee-kaew-epilogue%zh.rst>`_  (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-epilogue.mp3>`__ 04'12", `Youtube <https://www.youtube.com/watch?v=ofyvqTYqRjk&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=32>`__ )
+* `美琪喬法語集 <{filename}mae-chee-kaew-collected-teachings%zh.rst>`_ (`MP3 <{static}/extra/authors/mae-chee-kaew/mae-chee-kaew-collected-teachings.mp3>`__ 19'37", `Youtube <https://www.youtube.com/watch?v=Aq9cljb341U&list=PLgpGmPf7fzNaF5RuoeLhWjU5lHSeXG_rh&index=33>`__ )
 * 附錄-- 泰國地方、人物、寺院等 `專有名詞羅馬拼音表 <{filename}mae-chee-kaew-term-roman%zh.rst>`_ 
 * 本書 `PDF <{static}/extra/authors/mae-chee-kaew/mck-traditional-Chinese.pdf>`__ (222 pages, 4047 KB, 2023-09-03)
 
@@ -329,6 +329,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  09-07 add linking of MP3 & YT for preface(序)
   09-03 add linking of PDF, MP3 & YT
   09-02 rev. replace cover-mae-chee-kaew.png (traditional chinese)(old: cover-mae-chee-kaew.jpg, english)
   06-30 rev. 阿姜 戒寶 → 阿瞻 戒寶
