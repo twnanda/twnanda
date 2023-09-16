@@ -2,7 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2023-06-16
+:modified: 2023-09-16
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -78,20 +78,6 @@
   烏 德旃尼亞 英譯；葉文可 漢譯]
 
 　　 `另一譯本 <http://www.wretch.cc/blog/saidlee&article_id=1793471>`__ ﹝英漢對照; 然僅譯至第20段(共27段)﹞
-
-----
-
-【新譯「尊者阿姜 曼傳」與「尊者阿姜 考傳」】相關訊息：
-
-- `《阿姜曼尊者正傳》 <http://www.charity.idv.tw/r/r.htm>`_ （新版《尊者阿姜　曼傳》，陳在昕、喬正一聯合翻譯。）
-
-- 《尊者阿姜　考‧阿納拉唷》： `正體中文 <{static}/extra/authors/mahaboowa/Ajaan-Khao-trad-ch-Ver2-1.pdf>`__
-  （取自： `One Drive-- Word Online <https://onedrive.live.com/view.aspx?cid=D7A954C2A604BF39&resid=D7A954C2A604BF39%21353&app=WordPdf&authkey=%21AFAgLw-E3vwNCAU>`__ ）；
-  `簡體中文 <{static}/extra/authors/mahaboowa/Ajaan-Khao-simple-ch-Ver2-1.pdf>`__
-  （取自： `One Drive-- Word Online <https://onedrive.live.com/view.aspx?cid=D7A954C2A604BF39&resid=D7A954C2A604BF39%21352&app=WordPdf&authkey=%21AFAgLw-E3vwNCAU>`__ ）　←　 `One Drive <https://onedrive.live.com/?cid=d7a954c2a604bf39&id=D7A954C2A604BF39%21344&ithint=folder,pdf&authkey=!AFAgLw-E3vwNCAU>`__ ；短址：http://1drv.ms/1stcCxb）。
-  中國法友請至（百度雲） `下載 <http://pan.baidu.com/s/1mgl1DOG>`__ 。
-
-有關紙本訊息可參考： `【新譯「尊者阿姜 曼傳」與「尊者阿姜 考傳」】相關訊息 <{filename}open-distribution-the-biography-ven-acariya-mun%zh.rst>`_
 
 ----
 
@@ -213,6 +199,23 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  2023-09-16 del: 
+  ----
+
+  【新譯「尊者阿姜 曼傳」與「尊者阿姜 考傳」】相關訊息：
+
+    《阿姜曼尊者正傳》 <http://www.charity.idv.tw/r/r.htm（新版《尊者阿姜　曼傳》，陳在昕、喬正一聯合翻譯。）
+
+    《尊者阿姜　考‧阿納拉唷》： 正體中文 <{static}/extra/authors/mahaboowa/Ajaan-Khao-trad-ch-Ver2-1.pdf
+    （取自： `One Drive-- Word Online <https://onedrive.live.com/view.aspx?cid=D7A954C2A604BF39&resid=D7A954C2A604BF39%21353&app=WordPdf&authkey=%21AFAgLw-E3vwNCAU>`__ ）；
+    簡體中文 <{static}/extra/authors/mahaboowa/Ajaan-Khao-simple-ch-Ver2-1.pdf>
+    （取自： `One Drive-- Word Online <https://onedrive.live.com/view.aspx?cid=D7A954C2A604BF39&resid=D7A954C2A604BF39%21352&app=WordPdf&authkey=%21AFAgLw-E3vwNCAU>`__ ）　←　 `One Drive <https://onedrive.live.com/?cid=d7a954c2a604bf39&id=D7A954C2A604BF39%21344&ithint=folder,pdf&authkey=!AFAgLw-E3vwNCAU>`__ ；短址：http://1drv.ms/1stcCxb）。
+    中國法友請至（百度雲） 下載 <http://pan.baidu.com/s/1mgl1DOG> 。
+
+  有關紙本訊息可參考： 【新譯「尊者阿姜 曼傳」與「尊者阿姜 考傳」】相關訊息 <{filename}open-distribution-the-biography-ven-acariya-mun
+
+  ----
+
   2023-08-08 rev. replace filename with static to match "gramma"
   2023-06-16 add 美琪喬
   12-28 add: Two Sides of A Coin & A Noble Search
