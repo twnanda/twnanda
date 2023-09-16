@@ -3,7 +3,7 @@
 =========
 
 :date: 2005-05-01
-:modified: 2022-04-06
+:modified: 2023-09-16
 :tags: 訊息公告
 :category: 未分類
 :summary: 訊息公告
@@ -15,8 +15,6 @@
 - `呼籲安全地保存佛陀的舍利 <{static}/extra/relics-of-the-buddha/Relics_of_the_Buddha.html>`_ (07.05 '07)
 
 - `護持建造一個新的「沙門森林精舍」的主建築 <{filename}/articles/uncategorized/building-a-new-main-house-of-samanadipa-si%zh.rst>`_ (更新:2022-04-06)
-
-- `【新譯「尊者阿姜 曼傳」與「尊者阿姜 高傳」】相關訊息 <{filename}/articles/uncategorized/open-distribution-the-biography-ven-acariya-mun%zh.rst>`_ (Updated:10.12 '15)
 
 ------
 
@@ -87,6 +85,7 @@
 資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2565; (04.06, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2022 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 ..
+  09-16 del. 新譯「曼」與「高」  (Updated:10.12 '15)
   2023-08-08 rev. replace filename with static to match "gramma"
   04.06 2022 add:護持建造一個新的「沙門森林精舍」的主建築
   03.08 add:開印長老-高雄弘法行
