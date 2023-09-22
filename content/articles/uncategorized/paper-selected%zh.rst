@@ -2,7 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2023-09-16
+:modified: 2023-09-22
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -116,9 +116,17 @@
 
 .. _mae_chee_kaew:
 
-- `美琪喬 <{filename}/articles/lib/mae-chee-kaew/mae-chee-kaew%zh.rst>`_ ——一位阿羅漢尼修道證果之旅
+- `美琪 喬 <{filename}/articles/lib/mae-chee-kaew/mae-chee-kaew%zh.rst>`_ ——一位阿羅漢尼修道證果之旅
 
   美琪喬(Mae Chee Kaew)是個鄉下婦女，過著泰國東北部普通農村簡單的生活，她克服重重困難，離家追尋佛陀的聖道。美琪喬有很好的因緣，遇到幾位當代最著名的禪師，她認真遵從他們的指導，精進用功修就一顆清明和任運自在的心。她的堅忍、勇氣、還有直觀的智慧讓她超越一切世俗的局限，從苦難中解脫。
+
+------
+
+.. _ajahn_suchart:
+
+- `我的人生道路 <{filename}/articles/lib/ajahn-suchart/ajahn-suchart%zh.rst>`_ ——阿瞻 蘇查自傳 (Ajahn Suchart Abhijāto)
+
+我主要的專註一直都是在照顧這顆心，簡單並平靜地生活，一直守住當下直到我的時間結束。
 
 ------
 
@@ -199,6 +207,7 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  09-22 add: 我的人生道路——阿瞻蘇查自傳
   2023-09-16 del: 
   ----
 
