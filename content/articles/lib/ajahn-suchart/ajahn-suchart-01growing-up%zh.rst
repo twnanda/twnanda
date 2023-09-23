@@ -79,7 +79,7 @@
 
 ------
 
-**本傳統中文體版取材自：** 同名（《我的人生道路》） 簡體中文版  `PDF <https://ia600200.us.archive.org/2/items/MDBook/MyWayInChineseVersion.pdf>`__ 〔2016, 1月； 譯自 2014, 11月 阿瞻 蘇查 (Ajahn Suchart Abhijāto) 泰文版 `My Way- An Autobiography by Ajahn Suchart Abhijāto <http://www.kammatthana.com/my%20way.pdf>`__ 
+**本傳統中文體版取材自：** 同名（《我的人生道路》） 簡體中文版  `PDF <https://ia600200.us.archive.org/2/items/MDBook/MyWayInChineseVersion.pdf>`__ 〔2016, 1月； 譯自 2014, 11月 阿瞻 蘇查 (Ajahn Suchart Abhijāto) 英文版 `My Way- An Autobiography by Ajahn Suchart Abhijāto <http://www.kammatthana.com/my%20way.pdf>`__ 
 
 
 ..
