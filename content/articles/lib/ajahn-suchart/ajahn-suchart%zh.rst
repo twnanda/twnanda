@@ -3,7 +3,7 @@
 ================================
 
 :date: 2023-09-22
-:modified: 2023-09-23
+:modified: 2023-09-26
 :tags: 我的人生道路, 阿瞻蘇查, Ajahn Suchart, Ajahn Suchart Abhijāto
 :category: 書選
 :summary: 我的人生道路——阿瞻 蘇查自傳 (An Autobiography by Ajahn Suchart Abhijāto)
@@ -12,12 +12,48 @@
 .. container:: index-page-image
 
   .. image:: {filename}/extra/img/ajahn-suchart.png
-     :alt: Cover of "Ajahn Suchart"
+     :alt: Ajahn Suchart Abhijāto
      :width: 452
      :height: 670
      :align: center
 
+阿瞻 蘇查(Ajahn Suchart Abhijāto)
+
 我主要的專注一直都是在照顧這顆心，簡單並平靜地生活，一直守住當下直到我的時間結束。
+
+------
+
+.. container:: index-page-image
+
+  .. image:: {filename}/extra/img/ajahn-suchart-somdet.png
+     :alt: His Holiness Somdet Phra Yannasangvorn, The late Supreme Patriarch of the Thai Sangha
+     :width: 452
+     :height: 670
+     :align: center
+
+| 已故泰國僧王頌得帕耶納桑文上座
+| His Holiness Somdet Phra Yannasangvorn, The late Supreme Patriarch of the Thai Sangha
+| 
+| 我會和任何有興趣修行佛法的人分享佛法。同時，我也是在報答我對授戒師頌得帕耶納桑文上座的感恩。
+| “I provide knowledge to anyone who is interested in practicing the Dhamma and at the same time, I am repaying the kindness of my preceptor by serving His Holiness Somdet Phra Yannasangvorn.”
+| 
+
+------
+
+.. container:: index-page-image
+
+  .. image:: {filename}/extra/img/ajahn-suchart-maha-boowa.png
+     :alt: Ᾱcariya Mahā Boowa Ñāṇasampanno
+     :width: 452
+     :height: 670
+     :align: center
+
+| 阿瞻摩訶布瓦
+| Ᾱcariya Mahā Boowa Ñāṇasampanno
+| 
+| 龍達對待和他一起居住的沙彌和比丘如同自己的兒子，他們也同樣把龍達看待為自己的父母親。
+| 「Por Mae Kru Jarn, means Father, Mother, and Teacher. The novices and monks staying with Luangta Mahā Boowa were treated as if they were his sons while Luangta himself was regarded as both father and mother to them.”
+| 
 
 ------
 
@@ -63,5 +99,6 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  09-26 add photoes
   09-23 rev. old: 我主要的專註, 泰文版; make template of chap. 2~7 and so on.
   2023-09-22 chap. 1; create rst on 2023-09-22

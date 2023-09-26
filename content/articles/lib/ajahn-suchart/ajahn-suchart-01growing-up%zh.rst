@@ -3,7 +3,7 @@
 ==================================================
 
 :date: 2023-09-22
-:modified: 2023-09-22
+:modified: 2023-09-26
 :tags: 我的人生道路, 阿瞻蘇查, Ajahn Suchart, Ajahn Suchart Abhijāto
 :category: 書選
 :summary: 第 1 篇: 成長（我的人生道路——阿瞻蘇查自傳）
@@ -83,4 +83,5 @@
 
 
 ..
+  09-26 rev. proofread
   create rst on 2023-09-22
