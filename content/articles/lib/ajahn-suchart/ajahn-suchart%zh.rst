@@ -3,7 +3,7 @@
 ================================
 
 :date: 2023-09-22
-:modified: 2023-09-26
+:modified: 2023-09-27
 :tags: 我的人生道路, 阿瞻蘇查, Ajahn Suchart, Ajahn Suchart Abhijāto
 :category: 書選
 :summary: 我的人生道路——阿瞻 蘇查自傳 (An Autobiography by Ajahn Suchart Abhijāto)
@@ -66,11 +66,12 @@
 - `第 7 篇: 搬遷到淡浮寺 <{filename}ajahn-suchart-07moving-to-wat-yannasangvararam%zh.rst>`_ 
 - `山上法語 <{filename}ajahn-suchart-dhamma-on-the-mountain%zh.rst>`_ 
 - 附錄-- `阿瞻 蘇查每日活動表 <{filename}ajahn-suchart-addendum%zh.rst>`_ 
+- `詞彙註釋 <{filename}ajahn-suchart-glossary%zh.rst>`_
 - 本書 PDF
 
 ------
 
-**本傳統中文體版 [1]_ 取材自：** 同名（《我的人生道路》） 簡體中文版  `PDF <https://ia600200.us.archive.org/2/items/MDBook/MyWayInChineseVersion.pdf>`__ 〔2016, 1月； 譯自 2014, 11月 阿瞻 蘇查 (Ajahn Suchart Abhijāto) 英文版 `My Way- An Autobiography by Ajahn Suchart Abhijāto <http://www.kammatthana.com/my%20way.pdf>`__ 
+**本傳統中文體版 [1]_ 取材自：** 同名（《我的人生道路》） 簡體中文版  `PDF <https://ia600200.us.archive.org/2/items/MDBook/MyWayInChineseVersion.pdf>`__ 〔2016, 1月； 譯自 2014, 11月 阿瞻 蘇查 (Ajahn Suchart Abhijāto) 英文版 `My Way- An Autobiography by Ajahn Suchart Abhijāto <http://www.kammatthana.com/my%20way.pdf>`__  [2]_ 
 
 ------
 
@@ -97,8 +98,11 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
        維基百科之「 **簡化字（簡體字）** 」： https://zh.wikipedia.org/wiki/%E7%AE%80%E5%8C%96%E5%AD%97
 
+.. [2] 參考: 阿羅漢向.阿羅漢果，阿瞻摩訶布瓦尊者著，2011, http://www.forestdhamma.org/ebooks/chinese/pdf/Arahattamagga_-_Arahattaphala-chinese.pdf
+
 
 ..
+  09-27 add 詞彙註釋 and ref. 2 
   09-26 add photoes
   09-23 rev. old: 我主要的專註, 泰文版; make template of chap. 2~7 and so on.
   2023-09-22 chap. 1; create rst on 2023-09-22
