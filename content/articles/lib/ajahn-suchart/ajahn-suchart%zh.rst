@@ -3,7 +3,7 @@
 ================================
 
 :date: 2023-09-22
-:modified: 2023-09-27
+:modified: 2023-09-28
 :tags: 我的人生道路, 阿瞻蘇查, Ajahn Suchart, Ajahn Suchart Abhijāto
 :category: 書選
 :summary: 我的人生道路——阿瞻 蘇查自傳 (An Autobiography by Ajahn Suchart Abhijāto)
@@ -98,11 +98,12 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
        維基百科之「 **簡化字（簡體字）** 」： https://zh.wikipedia.org/wiki/%E7%AE%80%E5%8C%96%E5%AD%97
 
-.. [2] 參考: 阿羅漢向.阿羅漢果，阿瞻摩訶布瓦尊者著，2011, http://www.forestdhamma.org/ebooks/chinese/pdf/Arahattamagga_-_Arahattaphala-chinese.pdf
+.. [2] 參考: 阿羅漢向.阿羅漢果，阿瞻摩訶布瓦尊者著，2011, http://www.forestdhamma.org/ebooks/chinese/pdf/Arahattamagga-Arahattaphala-chinese.pdf
 
 
 ..
-  09-27 add 詞彙註釋 and ref. 2 
+  09-28 rev. correct note. 2
+  09-27 add 詞彙註釋 and note 2 
   09-26 add photoes
   09-23 rev. old: 我主要的專註, 泰文版; make template of chap. 2~7 and so on.
   2023-09-22 chap. 1; create rst on 2023-09-22
