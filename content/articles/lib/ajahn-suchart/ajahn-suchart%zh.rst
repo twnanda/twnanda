@@ -3,7 +3,7 @@
 ================================
 
 :date: 2023-09-22
-:modified: 2023-09-29
+:modified: 2023-09-30
 :tags: 我的人生道路, 阿瞻蘇查, Ajahn Suchart, Ajahn Suchart Abhijāto
 :category: 書選
 :summary: 我的人生道路——阿瞻 蘇查自傳 (An Autobiography by Ajahn Suchart Abhijāto)
@@ -11,7 +11,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {filename}/extra/img/ajahn-suchart.png
+  .. image:: {static}/extra/img/ajahn-suchart.png
      :alt: Ajahn Suchart Abhijāto
      :width: 452
      :height: 670
@@ -25,7 +25,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {filename}/extra/img/ajahn-suchart-somdet.png
+  .. image:: {static}/extra/img/ajahn-suchart-somdet.png
      :alt: His Holiness Somdet Phra Yannasangvorn, The late Supreme Patriarch of the Thai Sangha
      :width: 452
      :height: 670
@@ -42,7 +42,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {filename}/extra/img/ajahn-suchart-maha-boowa.png
+  .. image:: {static}/extra/img/ajahn-suchart-maha-boowa.png
      :alt: Ᾱcariya Mahā Boowa Ñāṇasampanno
      :width: 452
      :height: 670
@@ -106,6 +106,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  09-30 rev. replace image:: {filename}/ with image:: {static}/
   09-29 add: linkings of Beyond Birth; rev. correct note. 2 again
   09-28 rev. correct note. 2
   09-27 add 詞彙註釋 and note 2 
