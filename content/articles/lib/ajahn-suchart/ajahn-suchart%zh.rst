@@ -3,7 +3,7 @@
 ================================
 
 :date: 2023-09-22
-:modified: 2023-09-28
+:modified: 2023-09-29
 :tags: 我的人生道路, 阿瞻蘇查, Ajahn Suchart, Ajahn Suchart Abhijāto
 :category: 書選
 :summary: 我的人生道路——阿瞻 蘇查自傳 (An Autobiography by Ajahn Suchart Abhijāto)
@@ -73,6 +73,8 @@
 
 **本傳統中文體版 [1]_ 取材自：** 同名（《我的人生道路》） 簡體中文版  `PDF <https://ia600200.us.archive.org/2/items/MDBook/MyWayInChineseVersion.pdf>`__ 〔2016, 1月； 譯自 2014, 11月 阿瞻 蘇查 (Ajahn Suchart Abhijāto) 英文版 `My Way- An Autobiography by Ajahn Suchart Abhijāto <http://www.kammatthana.com/my%20way.pdf>`__  [2]_ 
 
+另一英文詳細版自傳: `Beyond Birth <https://www.mediafire.com/file/xmx04fmxvujvck5/Beyond+Birth.pdf/file>`__ (PDF)
+
 ------
 
 版權宣告
@@ -86,7 +88,9 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 ------
 
-- 《阿瞻 蘇查自傳》 YouTube 英語簡介版： `An Auto Biography of Phra Ajahn Suchart  Abhijato <https://www.youtube.com/watch?v=fH-24oldw_E>`__ @ YouTube, 7'09"
+- 《阿瞻 蘇查自傳》 YouTube 英語簡介版： `An Auto Biography of Phra Ajahn Suchart Abhijato <https://www.youtube.com/watch?v=fH-24oldw_E>`__ @ YouTube, 7'09"
+
+- 《阿瞻 蘇查自傳》 YouTube 英語詳細版：  `Beyond Birth <https://www.youtube.com/watch?v=7y_88fTM_OI&list=PLQinC9Nk4gbLuVIn8pJE1Uf5MvoLyVOSN>`__  @ YouTube; `MP3 <https://www.mediafire.com/folder/iee0uprbvh1pm/Beyond+Birth>`__ 
 
 ------
 
@@ -98,10 +102,11 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
        維基百科之「 **簡化字（簡體字）** 」： https://zh.wikipedia.org/wiki/%E7%AE%80%E5%8C%96%E5%AD%97
 
-.. [2] 參考: 阿羅漢向.阿羅漢果，阿瞻摩訶布瓦尊者著，2011, http://www.forestdhamma.org/ebooks/chinese/pdf/Arahattamagga-Arahattaphala-chinese.pdf
+.. [2] 參考: 阿羅漢向.阿羅漢果，阿瞻摩訶布瓦尊者著，2011, https://forestdhamma.org/books/%e4%b8%ad%e6%96%87-chinese-books/
 
 
 ..
+  09-29 add: linkings of Beyond Birth; rev. correct note. 2 again
   09-28 rev. correct note. 2
   09-27 add 詞彙註釋 and note 2 
   09-26 add photoes
