@@ -3,7 +3,7 @@
 =====================================
 
 :date: 2023-06-16
-:modified: 2023-09-07
+:modified: 2023-09-30
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 美琪喬——一位阿羅漢尼修道證果之旅
@@ -11,7 +11,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {filename}/extra/img/cover-mae-chee-kaew.png
+  .. image:: {static}/extra/img/cover-mae-chee-kaew.png
      :alt: Cover of "Mae Chee Kaew"
      :width: 452
      :height: 670
@@ -28,7 +28,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {filename}/extra/img/mae-chee-kaew-foto1.jpg
+  .. image:: {static}/extra/img/mae-chee-kaew-foto1.jpg
      :alt: Foto 1 of "Mae Chee Kaew"
      :width: 452
      :height: 670
@@ -36,7 +36,7 @@
 
 .. container:: index-page-image
 
-  .. image:: {filename}/extra/img/mae-chee-kaew-foto2.jpg
+  .. image:: {static}/extra/img/mae-chee-kaew-foto2.jpg
      :alt: Foto 2 of "Mae Chee Kaew"
      :width: 452
      :height: 670
@@ -329,6 +329,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  09-30 rev. replace image:: {filename}/ with image:: {static}/ 
   09-07 add linking of MP3 & YT for preface(序)
   09-03 add linking of PDF, MP3 & YT
   09-02 rev. replace cover-mae-chee-kaew.png (traditional chinese)(old: cover-mae-chee-kaew.jpg, english)
