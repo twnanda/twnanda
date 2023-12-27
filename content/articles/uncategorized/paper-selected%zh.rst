@@ -2,7 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2023-09-22
+:modified: 2023-12-27
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -114,6 +114,10 @@
 
 ------
 
+.. _the_life_of_sariputta:
+
+- `尊者 舍利弗的一生 <{filename}/articles/lib/the-life-of-sariputta/the-life-of-sariputta%zh.rst>`_ (The Life of Sāriputta) (2023.12)
+
 .. _mae_chee_kaew:
 
 - `美琪 喬 <{filename}/articles/lib/mae-chee-kaew/mae-chee-kaew%zh.rst>`_ ——一位阿羅漢尼修道證果之旅
@@ -207,6 +211,7 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  12-27 add: 尊者 舍利弗的一生 
   09-28 rev. 專註 → 專注
   09-22 add: 我的人生道路——阿瞻蘇查自傳
   2023-09-16 del: 
