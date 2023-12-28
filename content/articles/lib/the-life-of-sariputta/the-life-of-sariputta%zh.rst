@@ -3,7 +3,7 @@
 =============================================
 
 :date: 2023-12-27
-:modified: 2023-12-27
+:modified: 2023-12-28
 :tags: 舍利弗, 舍利子, 法將, Sāriputta, Saariputta
 :category: 書選
 :summary: 尊者舍利弗的一生 (The Life of Sāriputta)
@@ -12,8 +12,8 @@
 - `第一部 從出生到證得阿羅漢果 <{filename}the-life-of-sariputta-chap1%zh.rst>`_ 
 - `第二部 內觀的成熟 <{the-life-of-sariputta-chap2%zh.rst>`_ 
 - `第三部 彼岸 <{filename}the-life-of-sariputta-chap3%zh.rst>`_ 
-- `第四章 與舍利弗有關的經典 <{filename}the-life-of-sariputta-chap4%zh.rst>`_ 
-- `第五章 《本生經》中的舍利弗 <{filename}the-life-of-sariputta-chap5%zh.rst>`_ 
+- `第四部 與舍利弗有關的經典 <{filename}the-life-of-sariputta-chap4%zh.rst>`_ 
+- `第五部 《本生經》中的舍利弗 <{filename}the-life-of-sariputta-chap5%zh.rst>`_ 
 - 附錄
 
   * `舍利弗與摩訶目犍連的聖骨略記 <{filename}the-life-of-sariputta-addendum%zh.rst>`_ 
@@ -113,5 +113,5 @@
 
 
 ..
-  2023-12-2
+  12-28 rev. replace 第四章、第五章 with 部
   create rst on 2023-12-27
