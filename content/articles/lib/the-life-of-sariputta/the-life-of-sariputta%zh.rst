@@ -10,7 +10,7 @@
 
 - `序言 <{filename}the-life-of-sariputta-preface%zh.rst>`_ 
 - `第一部 從出生到證得阿羅漢果 <{filename}the-life-of-sariputta-chap1%zh.rst>`_ 
-- `第二部 內觀的成熟 <{the-life-of-sariputta-chap2%zh.rst>`_ 
+- `第二部 內觀的成熟 <{filename}the-life-of-sariputta-chap2%zh.rst>`_ 
 - `第三部 彼岸 <{filename}the-life-of-sariputta-chap3%zh.rst>`_ 
 - `第四部 與舍利弗有關的經典 <{filename}the-life-of-sariputta-chap4%zh.rst>`_ 
 - `第五部 《本生經》中的舍利弗 <{filename}the-life-of-sariputta-chap5%zh.rst>`_ 
@@ -23,7 +23,7 @@
 - `本書參考經典 <{filename}the-life-of-sariputta-tipitaka-reference%zh.rst>`_ 
 - 版權宣告_
 
-- 本書 PDF 
+- 本書 `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/The-Life-of-Sariputta.pdf>`_
 
 ------
 
@@ -113,5 +113,5 @@
 
 
 ..
-  12-28 rev. replace 第四章、第五章 with 部
+  12-28 rev. repair linking of chap2 replace 第四章、第五章 with 部
   create rst on 2023-12-27
