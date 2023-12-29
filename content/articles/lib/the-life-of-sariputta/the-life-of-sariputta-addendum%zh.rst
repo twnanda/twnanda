@@ -4,7 +4,7 @@
 
 :date: 2023-12-27
 :modified: 2023-12-28
-:tags: 舍利弗, 舍利子, 法將, Sāriputta, Saariputta
+:tags: 舍利弗, 舍利子, 法將, Sāriputta, Sariputta, Saariputta
 :category: 書選
 :summary: 舍利弗與摩訶目犍連的聖骨略記（尊者舍利弗的一生 The Life of Sāriputta）
 

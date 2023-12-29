@@ -4,7 +4,7 @@
 
 :date: 2023-12-27
 :modified: 2023-12-27
-:tags: 舍利弗, 舍利子, 法將, Sāriputta, Saariputta
+:tags: 舍利弗, 舍利子, 法將, Sāriputta, Sariputta, Saariputta
 :category: 書選
 :summary: 第一部 從出生到證得阿羅漢果（尊者舍利弗的一生 The Life of Sāriputta）
 
