@@ -3,7 +3,7 @@
 =============================================
 
 :date: 2023-12-27
-:modified: 2023-12-28
+:modified: 2024-01-02
 :tags: 舍利弗, 舍利子, 法將, Sāriputta, Sariputta, Saariputta
 :category: 書選
 :summary: 尊者舍利弗的一生 (The Life of Sāriputta)
@@ -32,27 +32,102 @@
 有聲書
 ~~~~~~~~~
 
-- 整本書合輯
-
-  * 男聲朗讀
-
-    - Youtube 
-
-  * 女聲朗讀
-
-    -  
-
 - 序言
 
-  * 男聲朗讀 ()
+  * 男聲朗讀 (5'53")
 
-    - MP3 (以下之 MP3, 選 download raw file)
-    - Youtube 
+    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-preface-john.mp3>`__ (以下之 MP3, 選 download raw file)
+    - `Youtube <https://www.youtube.com/watch?v=RCM47g-A47o&list=PLgpGmPf7fzNY8g6UrhkEh2hYnziW4L811>`__ (或 `另一頻道 <https://www.youtube.com/watch?v=kTOpS_0gTZQ&list=PLbDOrDpAQzSZfc22GLPHhSbE6sEigWWLC>`__ )
 
-  * 女聲朗讀 ()
+  * 女聲朗讀 (5'51")
 
-    - MP3 
-    - Youtube 
+    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-preface-yating.mp3>`__ 
+    - `Youtube <https://www.youtube.com/watch?v=6nWmhg0GqSU&list=PLgpGmPf7fzNacOy9e-DB6R0Ts-tbwUp1n>`__ (或 `另一頻道 <https://www.youtube.com/watch?v=D7jL6W4yxHo&list=PLbDOrDpAQzSaCIjIdlEbSWfJy21zqMj-v>`__ )
+
+- 第一部 從出生到證得阿羅漢果
+
+  * 男聲朗讀 (25'50")
+
+    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap1-john.mp3>`__            
+    - `Youtube <https://www.youtube.com/watch?v=rojkjyLFxpk&list=PLgpGmPf7fzNY8g6UrhkEh2hYnziW4L811&index=2>`__ 
+
+  * 女聲朗讀 (26'33")
+
+    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap1-yating.mp3>`__ 
+    - `Youtube <https://www.youtube.com/watch?v=hY-l8QV549Q&list=PLgpGmPf7fzNacOy9e-DB6R0Ts-tbwUp1n&index=2>`__ 
+
+- 第二部 內觀的成熟
+
+  * 男聲朗讀 (01:22:38) （2-1: `友誼、助人為樂者 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap2-1-john.mp3>`__ , 25'32" ; 2-2: `成就、轉法輪者 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap2-2-john.mp3>`__ , 36'15" ; 2-3: `尊者的親人、沒有怨恨的人 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap2-3-john.mp3>`__ , 23'48"）
+
+    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap2-john.mp3>`__ 
+
+    - `Youtube <https://www.youtube.com/watch?v=Ong7Sh9U8qk&list=PLgpGmPf7fzNY8g6UrhkEh2hYnziW4L811&index=3>`__
+
+  * 女聲朗讀 (1:30:11) （2-1: `友誼、助人為樂者 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap2-1-yating.mp3>`__ , 26'54" ; 2-2: `成就、轉法輪者 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap2-2-yating.mp3>`__ , 37'50" ; 2-3: `尊者的親人、沒有怨恨的人 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap2-3-yating.mp3>`__ , 25'20"）
+
+    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap2-yating.mp3>`__ 
+    - `Youtube <https://www.youtube.com/watch?v=iJ2U4Z7yDjo&list=PLgpGmPf7fzNacOy9e-DB6R0Ts-tbwUp1n&index=3>`__ 
+
+- 第三部 彼岸
+
+  * 男聲朗讀 (33'20")
+
+    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap3-john.mp3>`__
+    - `Youtube <https://www.youtube.com/watch?v=IaWSJtypt0c&list=PLgpGmPf7fzNY8g6UrhkEh2hYnziW4L811&index=4>`__
+
+  * 女聲朗讀 (36'35")
+
+    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap3-yating.mp3>`__ 
+    - `Youtube <https://www.youtube.com/watch?v=YXRO_4iBb0I&list=PLgpGmPf7fzNacOy9e-DB6R0Ts-tbwUp1n&index=4>`__ 
+
+- 第四部 與舍利弗有關的經典
+
+  * 男聲朗讀 (19'44")
+
+    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap4-john.mp3>`__
+    - `Youtube <https://www.youtube.com/watch?v=VStg6ZHD9-U&list=PLgpGmPf7fzNY8g6UrhkEh2hYnziW4L811&index=5>`__
+
+  * 女聲朗讀 (21'04")
+
+    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap4-yating.mp3>`__ 
+    - `Youtube <https://www.youtube.com/watch?v=1H1ib7ko-t0&list=PLgpGmPf7fzNacOy9e-DB6R0Ts-tbwUp1n&index=5>`__ 
+
+- 第五部 《本生經》中的舍利弗
+
+  * 男聲朗讀 (9'02")
+
+    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap5-john.mp3>`__
+    - `Youtube <https://www.youtube.com/watch?v=tkYc6A4mY_E&list=PLgpGmPf7fzNY8g6UrhkEh2hYnziW4L811&index=6>`__
+
+  * 女聲朗讀 (9'32")
+
+    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-chap5-yating.mp3>`__ 
+    - `Youtube <https://www.youtube.com/watch?v=Jc4JEc8zAE0&list=PLgpGmPf7fzNacOy9e-DB6R0Ts-tbwUp1n&index=6>`__ 
+
+- 附錄
+
+  * 舍利弗與摩訶目犍連的聖骨略記
+
+    + 男聲朗讀
+
+      - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-appendix-john.mp3>`__ (10'13")
+      - `Youtube <https://www.youtube.com/watch?v=ks2eKYhHMFs&list=PLgpGmPf7fzNY8g6UrhkEh2hYnziW4L811&index=7>`__
+
+    + 女聲朗讀 (10'02")
+
+      - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/the-life-of-sariputta-audiobook/the-life-of-sariputta-appendix-yating.mp3>`__ 
+      - `Youtube <https://www.youtube.com/watch?v=A8Y8fZSEKpM&list=PLgpGmPf7fzNacOy9e-DB6R0Ts-tbwUp1n&index=7>`__ 
+
+- 整本書合輯
+
+  * 男聲朗讀 (3:10:33)
+
+    - `Youtube <https://www.youtube.com/watch?v=WfjhIeuF61c&list=PLgpGmPf7fzNY8g6UrhkEh2hYnziW4L811&index=8>`__ 
+
+  * 女聲朗讀 (3:19:33)
+
+    - `Youtube <https://www.youtube.com/watch?v=Ah6jM9g2r1E&list=PLgpGmPf7fzNacOy9e-DB6R0Ts-tbwUp1n&index=8>`__ 
 
 ----
 
@@ -113,5 +188,6 @@
 
 
 ..
+  2024-01-02 add linkings of 有聲書 (MP3 and youtube)
   12-28 rev. repair linking of chap2 replace 第四章、第五章 with 部
   create rst on 2023-12-27
