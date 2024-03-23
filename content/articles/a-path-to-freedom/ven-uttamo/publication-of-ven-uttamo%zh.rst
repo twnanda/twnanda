@@ -785,7 +785,7 @@ the translator : Bhikkhu Uttamo (鄔達摩  比丘）
    :header-rows: 1
 
    * - | `Introduction <{filename}eighteen-days-in-solitude/eighteen-days-in-solitude-introduction%zh.rst>`__ 
-       | (`MP3 <https://github.com/twnanda/18days-Uttamo/eighteen-days-in-solitude-introduction.mp3>`__ 18'48", `Youtube <https://www.youtube.com/watch?v=aoV6CJu5bgI&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn>`__
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-introduction.mp3>`__ 18'48", `Youtube <https://www.youtube.com/watch?v=aoV6CJu5bgI&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn>`__
        | 
 
      - | `Day 01: 17th October, 2002 <{filename}eighteen-days-in-solitude/day01-2002-10-17%zh.rst>`_
