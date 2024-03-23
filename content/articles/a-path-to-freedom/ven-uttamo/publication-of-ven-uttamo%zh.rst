@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2023-08-23
+:modified: 2024-03-23
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -785,7 +785,7 @@ the translator : Bhikkhu Uttamo (鄔達摩  比丘）
    :header-rows: 1
 
    * - | `Introduction <{filename}eighteen-days-in-solitude/eighteen-days-in-solitude-introduction%zh.rst>`__ 
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-introduction.mp3>`__ 18'48", `Youtube <https://www.youtube.com/watch?v=aoV6CJu5bgI&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn>`__
+       | (`MP3 <https://github.com/twnanda/18days-Uttamo/mp3/eighteen-days-in-solitude-introduction.mp3>`__ 18'48", `Youtube <https://www.youtube.com/watch?v=aoV6CJu5bgI&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn>`__
        | 
 
      - | `Day 01: 17th October, 2002 <{filename}eighteen-days-in-solitude/day01-2002-10-17%zh.rst>`_
@@ -1140,6 +1140,7 @@ Right Samādhi and Right Insight
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2024-03-23 rev. raw-rst test for moving to identical dir; old: {static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-introduction.mp3
   08-23 rev. 
   old: https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf, 
        https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/image/thae-inn-gu-ukkattha-and-candima.png
