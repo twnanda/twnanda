@@ -35,7 +35,7 @@ jobs:
       run: |
         touch ./output/.nojekyll
     - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@v4
+      uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         REPOSITORY_NAME: twnanda/twnanda.github.io
