@@ -3,7 +3,7 @@
 =================================================
 
 :date: 2019-02-06
-:modified: 2023-09-30
+:modified: 2024-03-24
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, Nanda 編譯
 :tags: 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛法, 佛陀說的法, 瓦爾朴拉羅睺羅, 鄭於中, 戴密微
 :category: 解脫之道
@@ -505,131 +505,131 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
 
   * 男聲朗讀 (5'23")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-buddha-taught-4-audiobook-forward-john.mp3>`__ 
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-buddha-taught-4-audiobook-forward-john.mp3>`__ 
     - `Youtube <https://www.youtube.com/watch?v=nv5-FI160gg&list=PLgpGmPf7fzNYA7R0xlWdPPQy4mPQShRB2&index=2>`_
 
   * 女聲朗讀 (5'37")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-buddha-taught-4-audiobook-forward-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-buddha-taught-4-audiobook-forward-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=r3lwWK7bhNs&list=PLgpGmPf7fzNYpq88UAvcK44L8gftW8nq8&index=2>`__
 
 - 前言 （自序）
 
   * 男聲朗讀 (5'39")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-buddha-taught-4-audiobook-preface-john.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-buddha-taught-4-audiobook-preface-john.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=TzEUatBR4wY&list=PLgpGmPf7fzNYA7R0xlWdPPQy4mPQShRB2&index=3>`__
 
   * 女聲朗讀 (5'58")
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-buddha-taught-4-audiobook-preface-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-buddha-taught-4-audiobook-preface-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=HiKu07Gpxgw&list=PLgpGmPf7fzNYpq88UAvcK44L8gftW8nq8&index=3>`__
 
 - 佛陀傳略
 
   * 男聲朗讀 (3'12")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-the-Buddha-john.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-the-Buddha-john.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=el0IP0l9cLI&list=PLgpGmPf7fzNYA7R0xlWdPPQy4mPQShRB2&index=4>`__
 
   * 女聲朗讀 (3'28")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-the-Buddha-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-the-Buddha-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=PicEDkuSjio&list=PLgpGmPf7fzNYpq88UAvcK44L8gftW8nq8&index=4>`__
 
 - 第一章 佛教的宗教態度
 
   * 男聲朗讀 (35'23")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap1-john.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap1-john.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=MEAUioPHz9M&list=PLgpGmPf7fzNYA7R0xlWdPPQy4mPQShRB2&index=5>`__
 
   * 女聲朗讀 (39'13")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap1-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap1-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=5cGP9l-4eJ0&list=PLgpGmPf7fzNYpq88UAvcK44L8gftW8nq8&index=5>`__
 
 - 第二章 四聖諦 (第一聖諦：苦諦)
 
   * 男聲朗讀 (31'15")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap2-john.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap2-john.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=O3_hW8CDD0U&list=PLgpGmPf7fzNYA7R0xlWdPPQy4mPQShRB2&index=6>`__
 
   * 女聲朗讀 (34'05")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap2-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap2-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=heB283qtPTc&list=PLgpGmPf7fzNYpq88UAvcK44L8gftW8nq8&index=6>`__
 
 - 第三章 第二聖諦：集諦——苦之生起
 
   * 男聲朗讀 (13'33")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap3-john.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap3-john.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=YJYxI-ycpLU&list=PLgpGmPf7fzNYA7R0xlWdPPQy4mPQShRB2&index=7>`__
 
   * 女聲朗讀 (14'48")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap3-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap3-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=mCCLnG4v3gg&list=PLgpGmPf7fzNYpq88UAvcK44L8gftW8nq8&index=7>`__
 
 - 第四章 第三聖諦：滅諦 (苦的止息)
 
   * 男聲朗讀 (22'06")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap4-john.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap4-john.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=nrumPSIL5vA&list=PLgpGmPf7fzNYA7R0xlWdPPQy4mPQShRB2&index=8>`__
 
   * 女聲朗讀 (24'22")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap4-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap4-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=D-Q5n-59GmQ&list=PLgpGmPf7fzNYpq88UAvcK44L8gftW8nq8&index=8>`__
 
 - 第五章 第四聖諦：道諦
 
   * 男聲朗讀 (14'01")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap5-john.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap5-john.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=kT-H-Sy_xSs&list=PLgpGmPf7fzNYA7R0xlWdPPQy4mPQShRB2&index=9>`__
 
   * 女聲朗讀 (15'26")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap5-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap5-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=BJf0GXj-9pU&list=PLgpGmPf7fzNYpq88UAvcK44L8gftW8nq8&index=9>`__
 
 - 第六章 無我論
 
   * 男聲朗讀 (37'41")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap6-john.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap6-john.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=3GlGAJT8niI&list=PLgpGmPf7fzNYA7R0xlWdPPQy4mPQShRB2&index=10>`__
 
   * 女聲朗讀 (41'19")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap6-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap6-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=48nOpnaBvg0&list=PLgpGmPf7fzNYpq88UAvcK44L8gftW8nq8&index=10>`__
 
 - 第七章 修習：心智的培育
 
   * 男聲朗讀 (25'01")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap7-john.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap7-john.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=qafGpVQ97Lg&list=PLgpGmPf7fzNYA7R0xlWdPPQy4mPQShRB2&index=11>`__
 
   * 女聲朗讀 (26'57")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap7-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap7-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=M2Ai4UaLKBo&list=PLgpGmPf7fzNYpq88UAvcK44L8gftW8nq8&index=11>`__
 
 - 第八章 佛的教誡與今日世界
 
   * 男聲朗讀 (34'46")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap8-john.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap8-john.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=U0qmq9AO8IY&list=PLgpGmPf7fzNYA7R0xlWdPPQy4mPQShRB2&index=12>`__
 
   * 女聲朗讀 (37'31")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-chap8-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-chap8-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=Ul_4HeZxSIk&list=PLgpGmPf7fzNYpq88UAvcK44L8gftW8nq8&index=12>`__
 
 - 佛典選譯
@@ -648,12 +648,12 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
 
   * 男聲朗讀 (4'46")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-appendix-term-john.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-appendix-term-john.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=D4rRwFZjfFk&list=PLgpGmPf7fzNYA7R0xlWdPPQy4mPQShRB2&index=14>`__
 
   * 女聲朗讀 (5'20")
 
-    - `MP3 <{static}/extra/authors/walpola-rahula/audiobook/what-the-Buddha-taught-4-audiobook-appendix-term-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/what-the-Buddha-taught/mp3/what-the-Buddha-taught-4-audiobook-appendix-term-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=DqzF4vRNwhw&list=PLgpGmPf7fzNYpq88UAvcK44L8gftW8nq8&index=14>`__
 
 - 整部書合輯
@@ -672,6 +672,7 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
 
 
 ..
+  2024-03-23 rev. moving to identical repo;
   09-30 rev. linkings of audio
   2023-08-08 rev. replace filename with static to match "gramma"; rev. replace "/extra/authors/walpola-rahula/"" with "/extra/authors/walpola-rahula/audiobook/"
   01-20 add and rev. linking of `Youtube <>`__, old: chap3: https://www.youtube.com/watch?v=MXlOtyBI5mU, chap.4: https://www.youtube.com/watch?v=bbi71Yj5Zvw

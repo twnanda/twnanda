@@ -3,7 +3,7 @@ Content of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima
 ================================================================================
 
 :date: 2022-02-13
-:modified: 2023-09-04
+:modified: 2024-03-23
 :tags: publication, Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Sayadaw U Candima, Two Sides of a Coin, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Sayadaw U Ukkaṭṭha (Two Sides of a Coin) and Sayadaw U Candima (Sandima) (A Noble Search)
@@ -122,9 +122,7 @@ revised on 2023-08-23
 MP3 and Youtube of This Book
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- download `all the MP3 files <https://github.com/twnanda/twnanda.github.io/tree/master/extra/authors/bhante-uttamo/audiobook/thae-inn-gu-sayadaw>`__ of "Two Sides of A Coin"
-
-- download `all the MP3 files <https://github.com/twnanda/twnanda.github.io/tree/master/extra/authors/bhante-uttamo/audiobook/candima-sayadaw>`__ of "A Noble Search"
+- download `all the MP3 files < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/>`__ of "Two Sides of A Coin" and <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/`__ of "A Noble Search"
 
 
 - `list of Two Sides of A Coin on Youtube <https://www.youtube.com/playlist?list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201>`__ ( `another channel <https://www.youtube.com/watch?v=-3W1qgv3kJ0&list=PLbDOrDpAQzSb-7idI6v_hk4TW1dR9str_>`__ @ youtube)
@@ -135,68 +133,69 @@ MP3 and Youtube of This Book
 
 **Two Sides of A Coin__Dhamma Talks by Sayadaw U Ukkaṭṭha**
 
-- Introduction to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/thae-inn-gu-sayadaw/introduction-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 9'41", `Youtube <https://www.youtube.com/watch?v=eXLXZKvWpL4&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=1>`__ )
+- Introduction to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (`MP3 < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/introduction-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 9'41", `Youtube <https://www.youtube.com/watch?v=eXLXZKvWpL4&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=1>`__ )
 
-- Two Sides of A Coin (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/thae-inn-gu-sayadaw/ukkattha-two-sides-of-a-coin.mp3>`__ 47'56", `Youtube <https://www.youtube.com/watch?v=rjRQjjxr5OQ&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=2>`__ )
+- Two Sides of A Coin (`MP3 < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-two-sides-of-a-coin.mp3>`__ 47'56", `Youtube <https://www.youtube.com/watch?v=rjRQjjxr5OQ&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=2>`__ )
 
-- The Four Levels in Practice (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/thae-inn-gu-sayadaw/ukkattha-the-four-levels-in-practice.mp3>`__ 39'16", `Youtube <https://www.youtube.com/watch?v=nOzu6sIlXak&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=3>`__ )
+- The Four Levels in Practice (`MP3 < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-the-four-levels-in-practice.mp3>`__ 39'16", `Youtube <https://www.youtube.com/watch?v=nOzu6sIlXak&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=3>`__ )
 
-- The Way of a Stream Enterer (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/thae-inn-gu-sayadaw/ukkattha-the-way-of-a-stream-enterer.mp3>`__ 57'36", `Youtube <https://www.youtube.com/watch?v=sRh7TrL2VTY&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=4>`__ )
+- The Way of a Stream Enterer (`MP3 < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-the-way-of-a-stream-enterer.mp3>`__ 57'36", `Youtube <https://www.youtube.com/watch?v=sRh7TrL2VTY&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=4>`__ )
 
-- From the Beginning to the End (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/thae-inn-gu-sayadaw/ukkattha-from-the-beginning-to-the-end.mp3>`__ 36'12", `Youtube <https://www.youtube.com/watch?v=xsBJ0XKMd4k&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=5>`__ )
+- From the Beginning to the End (`MP3 < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-from-the-beginning-to-the-end.mp3>`__ 36'12", `Youtube <https://www.youtube.com/watch?v=xsBJ0XKMd4k&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=5>`__ )
 
-- Short Biography and Instruction on Practice (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/thae-inn-gu-sayadaw/ukkattha-short-biography-and-instruction-on-practice.mp3>`__ 19'32", `Youtube <https://www.youtube.com/watch?v=CadS4HgftBU&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=6>`__ )
+- Short Biography and Instruction on Practice (`MP3 < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-short-biography-and-instruction-on-practice.mp3>`__ 19'32", `Youtube <https://www.youtube.com/watch?v=CadS4HgftBU&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=6>`__ )
 
-- Postscript of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima) (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/thae-inn-gu-sayadaw/postscript-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 25'45", `Youtube <https://www.youtube.com/watch?v=Rutc7aH8nIo&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=7>`__ )
+- Postscript of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima) (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/postscript-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 25'45", `Youtube <https://www.youtube.com/watch?v=Rutc7aH8nIo&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=7>`__ )
 
-- Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/thae-inn-gu-sayadaw/appendix-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 50'16", `Youtube <https://www.youtube.com/watch?v=XcaCzTtm8rY&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=8>`__ )
+- Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/appendix-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 50'16", `Youtube <https://www.youtube.com/watch?v=XcaCzTtm8rY&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=8>`__ )
 
 ------
 
 **A Noble Search__Dhamma Talks by Sayadaw U Candima (Sandima)**
 
-- Introduction to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima) (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/introduction-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 9'41", `Youtube <https://www.youtube.com/watch?v=j7d_hf0efkU&list=PLgpGmPf7fzNayl8otcZHPgTKwom_jIvUn&index=1>`__ )
+- Introduction to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima) (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/introduction-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 9'41", `Youtube <https://www.youtube.com/watch?v=j7d_hf0efkU&list=PLgpGmPf7fzNayl8otcZHPgTKwom_jIvUn&index=1>`__ )
 
 - A Noble Search (`MP3 <https://drive.google.com/file/d/1wB6ZYwemehtlgRCvO087DVqks89ZxRsc/view?usp=sharing>`__ 2:56:09, `Youtube <https://www.youtube.com/watch?v=Vm0oSVkMU9E&list=PLgpGmPf7fzNayl8otcZHPgTKwom_jIvUn&index=2>`__ )
 
-- Postscript of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima) (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/thae-inn-gu-sayadaw/postscript-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 25'46", `Youtube <https://www.youtube.com/watch?v=3L8cBFkqRKM&list=PLgpGmPf7fzNayl8otcZHPgTKwom_jIvUn&index=3>`__ )
+- Postscript of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima) (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/postscript-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 25'46", `Youtube <https://www.youtube.com/watch?v=3L8cBFkqRKM&list=PLgpGmPf7fzNayl8otcZHPgTKwom_jIvUn&index=3>`__ )
 
-- Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/thae-inn-gu-sayadaw/appendix-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 44'09", `Youtube <https://www.youtube.com/watch?v=NsOFEMioZMU&list=PLgpGmPf7fzNayl8otcZHPgTKwom_jIvUn&index=4>`__ )
+- Appendix of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/appendix-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 44'09", `Youtube <https://www.youtube.com/watch?v=NsOFEMioZMU&list=PLgpGmPf7fzNayl8otcZHPgTKwom_jIvUn&index=4>`__ )
 
 ------
 
 **Right Samādhi and Right Insight__Dhamma Talks by Sayadaw U Candima (Sandima)**
 
-- Introduction to Right Samādhi and Right Insight (3:13:02, MP3: `part1 <{static}/extra/authors/bhante-uttamo/audiobook/candima-sayadaw/right-samaadhi-and-right-insight-introduction-1.mp3>`__ , `part2 <{static}/extra/authors/bhante-uttamo/audiobook/candima-sayadaw/right-samaadhi-and-right-insight-introduction-2.mp3>`__ , `part3 <{static}/extra/authors/bhante-uttamo/audiobook/candima-sayadaw/right-samaadhi-and-right-insight-introduction-3.mp3>`__ , `part4 <{static}/extra/authors/bhante-uttamo/audiobook/candima-sayadaw/right-samaadhi-and-right-insight-introduction-4.mp3>`__ ; `Youtube <https://www.youtube.com/watch?v=uZPMgS-LE3s&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g>`__ )
+- Introduction to Right Samādhi and Right Insight (3:13:02, MP3: `part1 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/right-samaadhi-and-right-insight-introduction-1.mp3>`__ , `part2 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/right-samaadhi-and-right-insight-introduction-2.mp3>`__ , `part3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/right-samaadhi-and-right-insight-introduction-3.mp3>`__ , `part4 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/right-samaadhi-and-right-insight-introduction-4.mp3>`__ ; `Youtube <https://www.youtube.com/watch?v=uZPMgS-LE3s&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g>`__ )
 
-- On Basic Meditation (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/candima-sayadaw/right-samaadhi-and-right-insight-basic-meditation.mp3>`__ 20'26", `Youtube <https://www.youtube.com/watch?v=_--ZDji20gE&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=2>`__ )
+- On Basic Meditation (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/right-samaadhi-and-right-insight-basic-meditation.mp3>`__ 20'26", `Youtube <https://www.youtube.com/watch?v=_--ZDji20gE&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=2>`__ )
 
-- Pain and Samādhi (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/candima-sayadaw/right-samaadhi-and-right-insight-pain-and-samadhi.mp3>`__ 40'57", `Youtube <https://www.youtube.com/watch?v=L95oqrM5x9g&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=3>`__ )
+- Pain and Samādhi (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/right-samaadhi-and-right-insight-pain-and-samadhi.mp3>`__ 40'57", `Youtube <https://www.youtube.com/watch?v=L95oqrM5x9g&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=3>`__ )
 
-- Dealing with Pain in Samādhi Practice (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/candima-sayadaw/right-samaadhi-and-right-insight-dealing-with-pain-in-samadhi-practice.mp3>`__ 34'42", `Youtube <https://www.youtube.com/watch?v=1Ytoo8Aee9k&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=4>`__ ) 
+- Dealing with Pain in Samādhi Practice (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/right-samaadhi-and-right-insight-dealing-with-pain-in-samadhi-practice.mp3>`__ 34'42", `Youtube <https://www.youtube.com/watch?v=1Ytoo8Aee9k&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=4>`__ ) 
 
-- On Ānāpāna Samādhi (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/candima-sayadaw/right-samaadhi-and-right-insight-on-anapana-samadhi.mp3>`__ 23'56", `Youtube <https://www.youtube.com/watch?v=UXQ_mLSZCZA&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=5>`__ ) 
+- On Ānāpāna Samādhi (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/right-samaadhi-and-right-insight-on-anapana-samadhi.mp3>`__ 23'56", `Youtube <https://www.youtube.com/watch?v=UXQ_mLSZCZA&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=5>`__ ) 
 
-- A Scales Like Samādhi (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/candima-sayadaw/right-samaadhi-and-right-insight-a-scales-like-samadhi.mp3>`__ 53'22", `Youtube <https://www.youtube.com/watch?v=Y2EBmRsNCX8&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=6>`__ ) 
+- A Scales Like Samādhi (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/right-samaadhi-and-right-insight-a-scales-like-samadhi.mp3>`__ 53'22", `Youtube <https://www.youtube.com/watch?v=Y2EBmRsNCX8&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=6>`__ ) 
 
-- Diamond Meditation (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/candima-sayadaw/right-samaadhi-and-right-insight-diamond-meditation.mp3>`__ 10'57", `Youtube <https://www.youtube.com/watch?v=pKCCuCvFrz0&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=7>`__ ) 
+- Diamond Meditation (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/right-samaadhi-and-right-insight-diamond-meditation.mp3>`__ 10'57", `Youtube <https://www.youtube.com/watch?v=pKCCuCvFrz0&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=7>`__ ) 
 
-- Bhavaṅga Meditation (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/candima-sayadaw/right-samaadhi-and-right-insight-bhavanga-meditation.mp3>`__ 18'50", `Youtube <https://www.youtube.com/watch?v=lVGuvaYi6mo&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=8>`__ ) 
+- Bhavaṅga Meditation (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/right-samaadhi-and-right-insight-bhavanga-meditation.mp3>`__ 18'50", `Youtube <https://www.youtube.com/watch?v=lVGuvaYi6mo&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=8>`__ ) 
 
-- After Samādhi, Develop Vipassanā (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/candima-sayadaw/right-samaadhi-and-right-insight-after-samadhi-develop-vipassana.mp3>`__ 56'19", `Youtube <https://www.youtube.com/watch?v=FVLMIjyuDVE&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=9>`__ )
+- After Samādhi, Develop Vipassanā (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/right-samaadhi-and-right-insight-after-samadhi-develop-vipassana.mp3>`__ 56'19", `Youtube <https://www.youtube.com/watch?v=FVLMIjyuDVE&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=9>`__ )
 
 - Samādhi Practices
 
-  * 1). The First Stage of Purification of The Mind (Cittavisuddhi)  (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/candima-sayadaw/right-samaadhi-and-right-insight-first-stage%zh.mp3>`__ 56'28", `Youtube <https://www.youtube.com/watch?v=n04-6hPy9ZU&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=10>`__ )
+  * 1). The First Stage of Purification of The Mind (Cittavisuddhi)  (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/right-samaadhi-and-right-insight-first-stage%zh.mp3>`__ 56'28", `Youtube <https://www.youtube.com/watch?v=n04-6hPy9ZU&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=10>`__ )
 
-  * 2). The Second Stage of Purification of The Mind (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/candima-sayadaw/right-samaadhi-and-right-insight-second-stage.mp3>`__ 38'36", `Youtube <https://www.youtube.com/watch?v=WVuaopaboZU&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=11>`__ )
+  * 2). The Second Stage of Purification of The Mind (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/right-samaadhi-and-right-insight-second-stage.mp3>`__ 38'36", `Youtube <https://www.youtube.com/watch?v=WVuaopaboZU&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=11>`__ )
 
   * 3). The Third Stage of Purification of The Mind (`MP3 <https://drive.google.com/file/d/1DNd6csyV_gHNLFmcP3ibartj5kpH0gWZ/view?usp=sharing>`__ 2:14:02, `Youtube <https://www.youtube.com/watch?v=FZZq24MBgxc&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=12>`__ )
 
-  * Conclusion (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/candima-sayadaw/right-samaadhi-and-right-insight-conclusion.mp3>`__ 7'29", `Youtube <https://www.youtube.com/watch?v=VFvaPvlvXPM&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=13>`__ )
+  * Conclusion (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/right-samaadhi-and-right-insight-conclusion.mp3>`__ 7'29", `Youtube <https://www.youtube.com/watch?v=VFvaPvlvXPM&list=PLgpGmPf7fzNYZKiPobUW_ydcToWZVry0g&index=13>`__ )
 
 
 ..
+  2024-03-23 rev. moving to identical repo; old: https://github.com/twnanda/twnanda.github.io/tree/master/extra/authors/bhante-uttamo/audiobook/thae-inn-gu-sayadaw &  https://github.com/twnanda/twnanda.github.io/tree/master/extra/authors/bhante-uttamo/audiobook/candima-sayadaw
   09-04 rev. & add Right Samādhi and Right Insight__Dhamma Talks by Sayadaw U Candima (Sandima)
   08-23 rev. 
   old: https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf, 
@@ -205,7 +204,7 @@ MP3 and Youtube of This Book
   08-17 rev. re-arrange contents of two books: A Noble Search and Right Samādhi and Right Insight
   08-02 add appendix 2 under Sayadaw U Candima
   06-21 add appendix 2
-  2023-06-10 add audio  (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/candima-after-samadhi-develop-vipassana.mp3>`__ '", `Youtube <>`__ ) 
+  2023-06-10 add audio  (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/candima-after-samadhi-develop-vipassana.mp3>`__ '", `Youtube <>`__ ) 
   08-10 rev. full-text and cover of Bound volume of "Two Sides of A Coin" and "A Noble Search"
   07-21 add: After Samādhi, Develop Vipassanā
   05-01 rev. two books--thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf

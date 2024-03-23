@@ -3,7 +3,7 @@ Content of Maṅgala Sutta – Protection with Blessing
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2023-06-09
+:modified: 2024-03-23
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Bhikkhu Uttamo, Ven. Uttamo
 :category: path of nirvana
 :summary: Content of Maṅgala Sutta – Protection with Blessing
@@ -167,12 +167,12 @@ MP3 and Youtube of This Book
 
 ------
 
-- Introduction  (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-introduction.mp3>`__ 35'12", `Youtube <https://www.youtube.com/watch?v=HkpT0AZw07A&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh>`__ )
+- Introduction  (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-introduction.mp3>`__ 35'12", `Youtube <https://www.youtube.com/watch?v=HkpT0AZw07A&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh>`__ )
 
 
-- Texts (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-texts.mp3>`__ 17'55", `Youtube <https://www.youtube.com/watch?v=SZ1YDwvNnbs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=2>`__ )
+- Texts (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-texts.mp3>`__ 17'55", `Youtube <https://www.youtube.com/watch?v=SZ1YDwvNnbs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=2>`__ )
 
-- 1 Not Consorting with Fools ("#1 + #2 + #3 + #4": `MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/>`__ 28'00", `Youtube <https://www.youtube.com/watch?v=C9R760UXKJo&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=3>`__ , 00:01 ~ 07:13)
+- 1 Not Consorting with Fools ("#1 + #2 + #3 + #4": `MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/>`__ 28'00", `Youtube <https://www.youtube.com/watch?v=C9R760UXKJo&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=3>`__ , 00:01 ~ 07:13)
 
 - 2 Consorting with the Wise (MP3 and Youtube, refer to: "#1 + #2 + #3 + #4": 07:14 ~ 11:07)
 
@@ -180,9 +180,9 @@ MP3 and Youtube of This Book
 
 - 4 Residing in a Suitable Place (MP3 and Youtube, refer to: "#1 + #2 + #3 + #4": 18:22 ~ 28:00)
 
-- 5 Having Made Merit in the Past (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-05-having-made-merit-in-the-past.mp3>`__ 20'06", `Youtube <https://www.youtube.com/watch?v=zScpJjz8YRk&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=4>`__ )
+- 5 Having Made Merit in the Past (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-05-having-made-merit-in-the-past.mp3>`__ 20'06", `Youtube <https://www.youtube.com/watch?v=zScpJjz8YRk&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=4>`__ )
 
-- 6 Directing Oneself Rightly (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-06-and-sub-directing-oneself-rightly.mp3>`__ 31'47", `Youtube <https://www.youtube.com/watch?v=n9ONnzQbOpc&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=5>`__ , 00:01 ~ 12:36)
+- 6 Directing Oneself Rightly (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-06-and-sub-directing-oneself-rightly.mp3>`__ 31'47", `Youtube <https://www.youtube.com/watch?v=n9ONnzQbOpc&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=5>`__ , 00:01 ~ 12:36)
 
   * Samāpatti (success) and Vipatti (failure) (MP3 and Youtube, refer to above: 12:37 ~ 15:00)
 
@@ -194,95 +194,95 @@ MP3 and Youtube of This Book
 
   * Presence / Lacking of Mindfulness, Intelligence and Perseverance (MP3 and Youtube, refer to above: 25:17 ~ 31:47)
 
-- 7 Broad Knowledge (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-07-broad-knowledge.mp3>`__ 21'58", `Youtube <https://www.youtube.com/watch?v=6jvgQiyBVXU&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=6>`__ )
+- 7 Broad Knowledge (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-07-broad-knowledge.mp3>`__ 21'58", `Youtube <https://www.youtube.com/watch?v=6jvgQiyBVXU&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=6>`__ )
 
-- 8 Having Skills (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-08-having-skills.mp3>`__ 12'45", `Youtube <https://www.youtube.com/watch?v=MPvk8NFOMl0&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=7>`__ )
+- 8 Having Skills (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-08-having-skills.mp3>`__ 12'45", `Youtube <https://www.youtube.com/watch?v=MPvk8NFOMl0&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=7>`__ )
 
-- 9 Well Mastered Disciplines (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-09-well-mastered-disciplines.mp3>`__ 20'35", `Youtube <https://www.youtube.com/watch?v=YJqLxArYkhg&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=8>`__ )
+- 9 Well Mastered Disciplines (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-09-well-mastered-disciplines.mp3>`__ 20'35", `Youtube <https://www.youtube.com/watch?v=YJqLxArYkhg&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=8>`__ )
 
-- 10 Well Spoken Words (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-10-well-spoken-words.mp3>`__ 26'18", `Youtube <https://www.youtube.com/watch?v=JHbenl7mZ5k&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=9>`__ )
+- 10 Well Spoken Words (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-10-well-spoken-words.mp3>`__ 26'18", `Youtube <https://www.youtube.com/watch?v=JHbenl7mZ5k&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=9>`__ )
 
-- 11 Support for One’s Parents (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-11-support-for-ones-parents.mp3>`__ 24'19" , `Youtube <https://www.youtube.com/watch?v=dMCBG25WOJ8&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=10>`__ )
+- 11 Support for One’s Parents (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-11-support-for-ones-parents.mp3>`__ 24'19" , `Youtube <https://www.youtube.com/watch?v=dMCBG25WOJ8&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=10>`__ )
 
-- 12 Assistance to One's Wife and Children (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-12-assistance-to-ones-wife-and-children.mp3>`__ 26'06", `Youtube <https://www.youtube.com/watch?v=O6SSO3vPWRk&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=11>`__ )
+- 12 Assistance to One's Wife and Children (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-12-assistance-to-ones-wife-and-children.mp3>`__ 26'06", `Youtube <https://www.youtube.com/watch?v=O6SSO3vPWRk&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=11>`__ )
 
-- 13 Consistency in One's Work (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-13-consistency-in-ones-work.mp3>`__ 10'42", `Youtube <https://www.youtube.com/watch?v=T017DqjJzmg&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=12>`__ )
+- 13 Consistency in One's Work (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-13-consistency-in-ones-work.mp3>`__ 10'42", `Youtube <https://www.youtube.com/watch?v=T017DqjJzmg&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=12>`__ )
 
-- 14 Giving (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-14-giving.mp3>`__ 01:03:58, `Youtube <https://www.youtube.com/watch?v=NIOfJpVEOdo&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=13>`__ )
+- 14 Giving (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-14-giving.mp3>`__ 01:03:58, `Youtube <https://www.youtube.com/watch?v=NIOfJpVEOdo&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=13>`__ )
 
-- 15 Living in Rectitude (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-15-living-in-rectitude.mp3>`__ 27'56", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=14>`__ )
+- 15 Living in Rectitude (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-15-living-in-rectitude.mp3>`__ 27'56", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=14>`__ )
 
-- 16 Assistance to One’s Relatives (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-16-assistance-to-ones-relatives.mp3>`__ 12'31", `Youtube <https://www.youtube.com/watch?v=iC4X1A1EwAU&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=15>`__ )
+- 16 Assistance to One’s Relatives (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-16-assistance-to-ones-relatives.mp3>`__ 12'31", `Youtube <https://www.youtube.com/watch?v=iC4X1A1EwAU&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=15>`__ )
 
-- 17 Deeds That Are Blameless (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-17-deeds-that-are-blameless.mp3>`__ 21'38", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=16>`__ )
+- 17 Deeds That Are Blameless (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-17-deeds-that-are-blameless.mp3>`__ 21'38", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=16>`__ )
 
-- 18 Avoiding, Abstaining from Evil (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-18-avoiding-abstaining-from-evil.mp3>`__ 34'36", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=17>`__ )
+- 18 Avoiding, Abstaining from Evil (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-18-avoiding-abstaining-from-evil.mp3>`__ 34'36", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=17>`__ )
 
-- 19 Refraining from Intoxicants (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-19-refraining-from-intoxicants.mp3>`__ 32'38", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=18>`__ )
+- 19 Refraining from Intoxicants (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-19-refraining-from-intoxicants.mp3>`__ 32'38", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=18>`__ )
 
-- 20 Being Heedful of the Qualities of the Mind (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-20-being-heedful-of-the-qualities-of-the-mind.mp3>`__ 42'56", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=19>`__ )
+- 20 Being Heedful of the Qualities of the Mind (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-20-being-heedful-of-the-qualities-of-the-mind.mp3>`__ 42'56", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=19>`__ )
 
-- 21 Respect (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-21-respect-22-humility.mp3>`__ "#21 + #22" = 23'52", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=20>`__ , #21: 00:01 ~ 14:17)
+- 21 Respect (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-21-respect-22-humility.mp3>`__ "#21 + #22" = 23'52", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=20>`__ , #21: 00:01 ~ 14:17)
 
 - 22 Humility (MP3 and Youtube, refer to: "#21 + #22": 14:18 ~ 23:52)
 
-- 23 Contentment (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-23-contentment.mp3>`__ 46'47", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=21>`__ )
+- 23 Contentment (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-23-contentment.mp3>`__ 46'47", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=21>`__ )
 
-- 24 Gratitude (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-24-gratitude.mp3>`__ 27'14", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=22>`__ )
+- 24 Gratitude (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-24-gratitude.mp3>`__ 27'14", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=22>`__ )
 
-- 25 Hearing the Dhamma on Timely Occasions (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-25-hearing-the-dhamma-on-timely-occasions.mp3>`__ 38'38", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=23>`__ )
+- 25 Hearing the Dhamma on Timely Occasions (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-25-hearing-the-dhamma-on-timely-occasions.mp3>`__ 38'38", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=23>`__ )
 
-- 26 Patience (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-26-patience.mp3>`__ 21'38", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=24>`__ )
+- 26 Patience (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-26-patience.mp3>`__ 21'38", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=24>`__ )
 
-- 27 Compliance / Obedience (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-27-compliance-obedience.mp3>`__ 14'45", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=25>`__ )
+- 27 Compliance / Obedience (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-27-compliance-obedience.mp3>`__ 14'45", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=25>`__ )
 
-- 28 Seeing Contemplative (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-28-seeing-contemplative.mp3>`__ 52'10", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=26>`__ )
+- 28 Seeing Contemplative (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-28-seeing-contemplative.mp3>`__ 52'10", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=26>`__ )
 
-- 29 Discussing the Dhamma on Timely Occasions (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-29-discussing-the-dhamma-on-timely-occasions.mp3>`__ 22'46", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=27>`__ )
+- 29 Discussing the Dhamma on Timely Occasions (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-29-discussing-the-dhamma-on-timely-occasions.mp3>`__ 22'46", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=27>`__ )
 
-- 30 Austerity / 31 Celibacy (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-30-austerity-31-celibacy.mp3>`__ 13'28", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=28>`__ )
+- 30 Austerity / 31 Celibacy (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-30-austerity-31-celibacy.mp3>`__ 13'28", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=28>`__ )
 
-- 32 Seeing the Noble Truths (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-32-seeing-the-noble-truths.mp3>`__ 12'44", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=29>`__ )
+- 32 Seeing the Noble Truths (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-32-seeing-the-noble-truths.mp3>`__ 12'44", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=29>`__ )
 
-  * The Middle Way – Majjhimā Patipadā (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-32-1-middle-way.mp3>`__ 13'51", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=30>`__ )
+  * The Middle Way – Majjhimā Patipadā (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-32-1-middle-way.mp3>`__ 13'51", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=30>`__ )
 
-  * Establishing of Mindfulness: Satipatthāna (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-32-2-establishing-of-mindfulness-32-2-contemplation-of-the-body-of-feelings.mp3>`__ 37'16", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=31>`__ , 00:01 ~ 09:27)
+  * Establishing of Mindfulness: Satipatthāna (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-32-2-establishing-of-mindfulness-32-2-contemplation-of-the-body-of-feelings.mp3>`__ 37'16", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=31>`__ , 00:01 ~ 09:27)
 
     - Contemplation of the Body: Kāyānupassanā (MP3 and Youtube, refer to above: 09:28 ~ 23:37)
 
     - Contemplation of Feelings: Vedanānupassanā (MP3 and Youtube, refer to above: 23:38 ~ 37:16)
 
-    - Contemplation of the Mind: Cittānupassanā (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-32-2-contemplation-of-the-mind--the-Dhamma.mp3>`__ 33'33", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=32>`__ , 00:01 ~ 10:48)
+    - Contemplation of the Mind: Cittānupassanā (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-32-2-contemplation-of-the-mind--the-Dhamma.mp3>`__ 33'33", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=32>`__ , 00:01 ~ 10:48)
 
     - Contemplation of the Dhammas: Dhammānupassanā (MP3 and Youtube, refer to above: 10:49 ~ 33:33)
   
-  * Seven Purifications (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-32-3-seven-purifications-sila-visuddhi-the-mind.mp3>`__ 10'24", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=33>`__ , 00:01 ~ 02:36)
+  * Seven Purifications (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-32-3-seven-purifications-sila-visuddhi-the-mind.mp3>`__ 10'24", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=33>`__ , 00:01 ~ 02:36)
 
     - Purification of Virtue (MP3 and Youtube, refer to above: 02:37 ~ 07:03)
 
     - Purification of the Mind (MP3 and Youtube, refer to above: 07:04 ~ 10:24)
 
-    - Purification of View (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-32-3-purification-of-the-view.mp3>`__ 30'04", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=34>`__ )
+    - Purification of View (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-32-3-purification-of-the-view.mp3>`__ 30'04", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=34>`__ )
 
-    - Purification by Overcoming Doubt (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-32-3-purification-by-overcoming-doubt.mp3>`__ 14'53", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=35>`__ )
+    - Purification by Overcoming Doubt (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-32-3-purification-by-overcoming-doubt.mp3>`__ 14'53", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=35>`__ )
 
-    - Purification of the Path and Not-Path (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-32-3-purification-of-the-path-and-not-path.mp3>`__ 10'46", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=36>`__ )
+    - Purification of the Path and Not-Path (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-32-3-purification-of-the-path-and-not-path.mp3>`__ 10'46", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=36>`__ )
 
-    - Purification of the Way and Purification by Knowledge and Vision (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-32-3-purification-of-the-way-and-by-knowledge-and-vision.mp3>`__ 23'23", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=37>`__ )
+    - Purification of the Way and Purification by Knowledge and Vision (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-32-3-purification-of-the-way-and-by-knowledge-and-vision.mp3>`__ 23'23", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=37>`__ )
 
-- 33 Realizing Nibbāna (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-33-realizing-nibbana.mp3>`__ 39'57", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=38>`__ )
+- 33 Realizing Nibbāna (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-33-realizing-nibbana.mp3>`__ 39'57", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=38>`__ )
 
-- 34 A Mind Is Unshaken When Touched by the Ways of the World (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-34-a-mind-is-unshaken.mp3>`__ 38'54", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=39>`__ )
+- 34 A Mind Is Unshaken When Touched by the Ways of the World (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-34-a-mind-is-unshaken.mp3>`__ 38'54", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=39>`__ )
 
-- 35 Sorrowless (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-35-sorrowless.mp3>`__ 32'49", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=40>`__ )
+- 35 Sorrowless (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-35-sorrowless.mp3>`__ 32'49", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=40>`__ )
 
-- 36 Dustless (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-36-dustless-37-secure.mp3>`__ 18'32", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=41>`__ , 00:01 ~ 10:45)
+- 36 Dustless (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-36-dustless-37-secure.mp3>`__ 18'32", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=41>`__ , 00:01 ~ 10:45)
 
 - 37 Secure (MP3 and Youtube, refer to above: 10:46 ~ 18:32)
 
-- Postscript (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-postscript.mp3>`__ 34'59", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=42>`__ )
+- Postscript (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-postscript.mp3>`__ 34'59", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=42>`__ )
 
-- About the Author (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/mangala-sutta-protection-with-blessings/mangala-blessing-about-the-author.mp3>`__ 1'05", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=43>`__ )
+- About the Author (`MP3 <http://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/mp3/mangala-sutta-protection-with-blessings/mangala-blessing-about-the-author.mp3>`__ 1'05", `Youtube <https://www.youtube.com/watch?v=18FYXf0mVFs&list=PLgpGmPf7fzNb8c33BL_S9S_6_gPFUj5Gh&index=43>`__ )
 
 ------
 
@@ -311,6 +311,7 @@ MP3 and Youtube of This Book
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2024-03-23 rev. moving to identical repo; old: {static}/extra/authors/bhante-uttamo/audiobook/
   06-09 rev. youtube and mp3 of 14 Giving
   05-06 rev. add audio MP3 & Youtube with in additional paragraph
   2023-05-05 add audio (MP3 & Youtube, including citta channel)

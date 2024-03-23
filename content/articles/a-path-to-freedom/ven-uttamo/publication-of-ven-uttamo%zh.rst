@@ -789,79 +789,79 @@ the translator : Bhikkhu Uttamo (鄔達摩  比丘）
        | 
 
      - | `Day 01: 17th October, 2002 <{filename}eighteen-days-in-solitude/day01-2002-10-17%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day01-2002-10-17.mp3>`__ 15'01", `Youtube <https://www.youtube.com/watch?v=vBKFgddQmfI&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=2>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day01-2002-10-17.mp3>`__ 15'01", `Youtube <https://www.youtube.com/watch?v=vBKFgddQmfI&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=2>`__ )
        | 
 
      - | `Day 02: 18th October, 2002 <{filename}eighteen-days-in-solitude/day02-2002-10-18%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day02-2002-10-18.mp3>`__ 14'26", `Youtube <https://www.youtube.com/watch?v=gTNcrUPlKUs&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=3>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day02-2002-10-18.mp3>`__ 14'26", `Youtube <https://www.youtube.com/watch?v=gTNcrUPlKUs&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=3>`__ )
        | 
 
      - | `Day 03: 19th October, 2002 <{filename}eighteen-days-in-solitude/day03-2002-10-19%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day03-2002-10-19.mp3>`__ 13'14", `Youtube <https://www.youtube.com/watch?v=gTNcrUPlKUs&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=4>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day03-2002-10-19.mp3>`__ 13'14", `Youtube <https://www.youtube.com/watch?v=gTNcrUPlKUs&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=4>`__ )
        | 
 
    * - | `Day 04: 20th October, 2002 <{filename}eighteen-days-in-solitude/day04-2002-10-20%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day04-2002-10-20.mp3>`__ 12'45", `Youtube <https://www.youtube.com/watch?v=rsmp11a6XRQ&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=5>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day04-2002-10-20.mp3>`__ 12'45", `Youtube <https://www.youtube.com/watch?v=rsmp11a6XRQ&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=5>`__ )
        | 
 
      - | `Day 05: 21st October, 2002 <{filename}eighteen-days-in-solitude/day05-2002-10-21%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day05-2002-10-21.mp3>`__ 12'54", `Youtube <https://www.youtube.com/watch?v=rsmp11a6XRQ&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=6>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day05-2002-10-21.mp3>`__ 12'54", `Youtube <https://www.youtube.com/watch?v=rsmp11a6XRQ&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=6>`__ )
        | 
 
      - | `Day 06: 22nd October, 2002 <{filename}eighteen-days-in-solitude/day06-2002-10-22%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day06-2002-10-22.mp3>`__ 12'44", `Youtube <https://www.youtube.com/watch?v=rsmp11a6XRQ&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=7>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day06-2002-10-22.mp3>`__ 12'44", `Youtube <https://www.youtube.com/watch?v=rsmp11a6XRQ&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=7>`__ )
        | 
 
      - | `Day 07: 23rd October, 2002 <{filename}eighteen-days-in-solitude/day07-2002-10-23%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day07-2002-10-23.mp3>`__ 9'33", `Youtube <https://www.youtube.com/watch?v=rsmp11a6XRQ&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=8>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day07-2002-10-23.mp3>`__ 9'33", `Youtube <https://www.youtube.com/watch?v=rsmp11a6XRQ&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=8>`__ )
        | 
 
    * - | `Day 08: 24th October, 2002 <{filename}eighteen-days-in-solitude/day08-2002-10-24%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day08-2002-10-24.mp3>`__ 13'23", `Youtube <https://www.youtube.com/watch?v=rsmp11a6XRQ&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=9>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day08-2002-10-24.mp3>`__ 13'23", `Youtube <https://www.youtube.com/watch?v=rsmp11a6XRQ&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=9>`__ )
        | 
 
      - | `Day 09: 25th October, 2002 <{filename}eighteen-days-in-solitude/day09-2002-10-25%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day09-2002-10-25.mp3>`__ 12'55", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=10>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day09-2002-10-25.mp3>`__ 12'55", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=10>`__ )
        | 
 
      - | `Day 10: 26th October, 2002 <{filename}eighteen-days-in-solitude/day10-2002-10-26%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day10-2002-10-26.mp3>`__ 14'13", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=11>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day10-2002-10-26.mp3>`__ 14'13", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=11>`__ )
        | 
 
      - | `Day 11: 27th October, 2002 <{filename}eighteen-days-in-solitude/day11-2002-10-27%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day11-2002-10-27.mp3>`__ 11'49", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=12>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day11-2002-10-27.mp3>`__ 11'49", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=12>`__ )
        | 
 
    * - | `Day 12: 28th October, 2002 <{filename}eighteen-days-in-solitude/day12-2002-10-28%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day12-2002-10-28.mp3>`__ 15'38", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=13>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day12-2002-10-28.mp3>`__ 15'38", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=13>`__ )
        | 
 
      - | `Day 13: 29th October, 2002 <{filename}eighteen-days-in-solitude/day13-2002-10-29%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day13-2002-10-29.mp3>`__ 13'48", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=14>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day13-2002-10-29.mp3>`__ 13'48", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=14>`__ )
        | 
 
      - | `Day 14: 30th October, 2002 <{filename}eighteen-days-in-solitude/day14-2002-10-30%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day14-2002-10-30.mp3>`__ 11'51", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=15>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day14-2002-10-30.mp3>`__ 11'51", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=15>`__ )
        | 
 
      - | `Day 15: 31st October, 2002 <{filename}eighteen-days-in-solitude/day15-2002-10-31%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day15-2002-10-31.mp3>`__ 10'44", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=16>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day15-2002-10-31.mp3>`__ 10'44", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=16>`__ )
        | 
 
    * - | `Day 16: 1st November, 2002 <{filename}eighteen-days-in-solitude/day16-2002-11-01%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day16-2002-11-01.mp3>`__ 15'06", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=17>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day16-2002-11-01.mp3>`__ 15'06", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=17>`__ )
        | 
 
      - | `Day 17: 2nd November, 2002 <{filename}eighteen-days-in-solitude/day17-2002-11-02%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day17-2002-11-02.mp3>`__ 20'22", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=18>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day17-2002-11-02.mp3>`__ 20'22", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=18>`__ )
        | 
 
      - | `Day 18: 3rd November, 2002 <{filename}eighteen-days-in-solitude/day18-2002-11-03%zh.rst>`_
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-day18-2002-11-03.mp3>`__ 17'54", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=19>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day18-2002-11-03.mp3>`__ 17'54", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=19>`__ )
        | 
 
      - | `About the translator <{filename}eighteen-days-in-solitude/eighteen-days-in-solitude-about-the-translator%zh.rst>`__
-       | (`MP3 <{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-about-the-translator.mp3>`__ 1'09", `Youtube <https://www.youtube.com/watch?v=cekfluyXGzY&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=20>`__ )
+       | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-about-the-translator.mp3>`__ 1'09", `Youtube <https://www.youtube.com/watch?v=cekfluyXGzY&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=20>`__ )
        | 
 
 - download `all the MP3 files  <https://github.com/twnanda/twnanda.github.io/tree/master/extra/authors/bhante-uttamo/audiobook/18days>`__ of this book; 
@@ -1140,7 +1140,9 @@ Right Samādhi and Right Insight
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2024-03-23 rev. raw-rst test for moving to identical dir; old: {static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-introduction.mp3
+  03-23 rev. moving to identical repo; old: 
+  2024-03-23 rev. raw-rst test for moving to identical dir; old: 
+{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-introduction.mp3
   08-23 rev. 
   old: https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf, 
        https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/image/thae-inn-gu-ukkattha-and-candima.png
