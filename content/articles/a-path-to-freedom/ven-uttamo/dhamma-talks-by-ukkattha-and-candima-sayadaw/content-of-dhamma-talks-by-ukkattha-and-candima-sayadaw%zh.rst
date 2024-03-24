@@ -135,7 +135,14 @@ MP3 and Youtube of This Book
 
 - Introduction to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (`MP3 < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/introduction-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 9'41", `Youtube <https://www.youtube.com/watch?v=eXLXZKvWpL4&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=1>`__ )
 
-- Two Sides of A Coin (`MP3 < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-two-sides-of-a-coin.mp3>`__ 47'56", `Youtube <https://www.youtube.com/watch?v=rjRQjjxr5OQ&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=2>`__ )
+- Two Sides of A Coin (`MP3 < https://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-two-sides-of-a-coin.mp3>`__ 47'56", `Youtube <https://www.youtube.com/watch?v=rjRQjjxr5OQ&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=2>`__ )
+
+  .. raw:: html
+
+     <audio controls>
+       <source src="https://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-two-sides-of-a-coin.mp3" type="audio/mpeg">
+       Your browser does not support the audio element.
+     </audio>
 
 - The Four Levels in Practice (`MP3 < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-the-four-levels-in-practice.mp3>`__ 39'16", `Youtube <https://www.youtube.com/watch?v=nOzu6sIlXak&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=3>`__ )
 
