@@ -1141,8 +1141,7 @@ Right Samādhi and Right Insight
 
 ..
   03-23 rev. moving to identical repo; old: 
-  2024-03-23 rev. raw-rst test for moving to identical dir; old: 
-{static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-introduction.mp3
+  2024-03-23 rev. raw-rst test for moving to identical dir; old: {static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-introduction.mp3
   08-23 rev. 
   old: https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf, 
        https://github.com/twnanda/doc-pdf-etc/blob/0e9d79c4f3f0032cd0ec3c688e994c0393997208/image/thae-inn-gu-ukkattha-and-candima.png

@@ -122,9 +122,6 @@ revised on 2023-08-23
 MP3 and Youtube of This Book
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- download `all the MP3 files < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/>`__ of "Two Sides of A Coin" and <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/`__ of "A Noble Search"
-
-
 - `list of Two Sides of A Coin on Youtube <https://www.youtube.com/playlist?list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201>`__ ( `another channel <https://www.youtube.com/watch?v=-3W1qgv3kJ0&list=PLbDOrDpAQzSb-7idI6v_hk4TW1dR9str_>`__ @ youtube)
 
 - `list of A Noble Search on Youtube <https://www.youtube.com/watch?v=S7xRj8ryR_o&list=PLgpGmPf7fzNayl8otcZHPgTKwom_jIvUn>`__ ( `another channel <https://www.youtube.com/watch?v=DuKgMUJFkGo&list=PLbDOrDpAQzSYhoCj_mv_ne-PZy4LGBUZE>`__ @ youtube)
@@ -202,6 +199,7 @@ MP3 and Youtube of This Book
 
 
 ..
+  - download `all the MP3 files < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/>`__ of "Two Sides of A Coin" and `<http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/>`__ of "A Noble Search"
   2024-03-23 rev. moving to identical repo; old: https://github.com/twnanda/twnanda.github.io/tree/master/extra/authors/bhante-uttamo/audiobook/thae-inn-gu-sayadaw &  https://github.com/twnanda/twnanda.github.io/tree/master/extra/authors/bhante-uttamo/audiobook/candima-sayadaw
   09-04 rev. & add Right Samādhi and Right Insight__Dhamma Talks by Sayadaw U Candima (Sandima)
   08-23 rev. 
