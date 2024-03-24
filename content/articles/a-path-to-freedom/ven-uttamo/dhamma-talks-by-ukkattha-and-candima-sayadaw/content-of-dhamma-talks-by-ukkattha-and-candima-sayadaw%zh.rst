@@ -130,9 +130,9 @@ MP3 and Youtube of This Book
 
 **Two Sides of A Coin__Dhamma Talks by Sayadaw U Ukkaṭṭha**
 
-- Introduction to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (`MP3 < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/introduction-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 9'41", `Youtube <https://www.youtube.com/watch?v=eXLXZKvWpL4&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=1>`__ )
+- Introduction to Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (`MP3 <http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/introduction-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 9'41", `Youtube <https://www.youtube.com/watch?v=eXLXZKvWpL4&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=1>`__ )
 
-- Two Sides of A Coin (`MP3 < https://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-two-sides-of-a-coin.mp3>`__ 47'56", `Youtube <https://www.youtube.com/watch?v=rjRQjjxr5OQ&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=2>`__ )
+- Two Sides of A Coin (`MP3 <https://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-two-sides-of-a-coin.mp3>`__ 47'56", `Youtube <https://www.youtube.com/watch?v=rjRQjjxr5OQ&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=2>`__ )
 
   .. raw:: html
 
@@ -141,13 +141,13 @@ MP3 and Youtube of This Book
        Your browser does not support the audio element.
      </audio>
 
-- The Four Levels in Practice (`MP3 < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-the-four-levels-in-practice.mp3>`__ 39'16", `Youtube <https://www.youtube.com/watch?v=nOzu6sIlXak&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=3>`__ )
+- The Four Levels in Practice (`MP3 <http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-the-four-levels-in-practice.mp3>`__ 39'16", `Youtube <https://www.youtube.com/watch?v=nOzu6sIlXak&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=3>`__ )
 
-- The Way of a Stream Enterer (`MP3 < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-the-way-of-a-stream-enterer.mp3>`__ 57'36", `Youtube <https://www.youtube.com/watch?v=sRh7TrL2VTY&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=4>`__ )
+- The Way of a Stream Enterer (`MP3 <http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-the-way-of-a-stream-enterer.mp3>`__ 57'36", `Youtube <https://www.youtube.com/watch?v=sRh7TrL2VTY&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=4>`__ )
 
-- From the Beginning to the End (`MP3 < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-from-the-beginning-to-the-end.mp3>`__ 36'12", `Youtube <https://www.youtube.com/watch?v=xsBJ0XKMd4k&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=5>`__ )
+- From the Beginning to the End (`MP3 <http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-from-the-beginning-to-the-end.mp3>`__ 36'12", `Youtube <https://www.youtube.com/watch?v=xsBJ0XKMd4k&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=5>`__ )
 
-- Short Biography and Instruction on Practice (`MP3 < http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-short-biography-and-instruction-on-practice.mp3>`__ 19'32", `Youtube <https://www.youtube.com/watch?v=CadS4HgftBU&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=6>`__ )
+- Short Biography and Instruction on Practice (`MP3 <http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/mp3/ukkattha-short-biography-and-instruction-on-practice.mp3>`__ 19'32", `Youtube <https://www.youtube.com/watch?v=CadS4HgftBU&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=6>`__ )
 
 - Postscript of Dhamma Talks by Sayadaw U Ukkaṭṭha and Sayadaw U Candima (Sandima) (`MP3 <http://nanda.online-dhamma.net/candima-sayadaw-uttamo/mp3/postscript-talks-by-ukkattha-and-candima-sayadaw.mp3>`__ 25'45", `Youtube <https://www.youtube.com/watch?v=Rutc7aH8nIo&list=PLgpGmPf7fzNbyFtEh6ck11p1UhaiGj201&index=7>`__ )
 
