@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2023-06-10
+:modified: 2024-03-27
 :tags: publication, Bhikkhu Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -34,10 +34,15 @@ Dhamma Talks by Mogok Sayadaw
      - `Part 11`_
      - `Part 12`_
    * - `Part 13`_
-     - `Epilogue <{filename}postscript%zh.rst>`__
+     - `Part 14`_
+     - `Part 15`_
+     - `Part 16`_
+     - `Part 17`_
+   * - `Epilogue <{filename}postscript%zh.rst>`__
      - `Appendix <{filename}appendix%zh.rst>`__ ( `Manuscript of Translations <{filename}translation-manuscript%zh.rst>`__ )
      - `About the translator`_ 
      - `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ ; (PDF, 2021-10-21)   `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (PDF, background in green, 2021-10-21)
+     - 
 
 ------
 
@@ -715,6 +720,92 @@ _`Part 13` ( `content of Part 13 <{filename}pt13-content-of-part13%zh.rst>`_ )
 
 - 33.) `The Most Dangerous Enemy <{filename}pt13-33-the-most-dangerous-enemy%zh.rst>`_ (N/A)
 
+_`Part 14` ( `content of Part 14 <{filename}pt14-content-of-part14%zh.rst>`_ )
+
+- 1.) `True Refuge (B) <{filename}pt14-01-true-refuge%zh.rst>`_ (1959-02-28)
+
+- 2.) `Are you the Fool or the Wise? <{filename}pt14-02-are-you-the-fool-or-the-wise%zh.rst>`_ (1961-08-09)
+
+- 3.) `Extinguish The Hell Fire <{filename}pt14-03-extinguish-the-hell-fire%zh.rst>`_ (1961-08-14 and 15)
+
+- 4.) `A Fire Ghost <{filename}pt14-04-a-fire-ghost%zh.rst>`_ (1961-08-22 and 23)
+
+- 5.) `Praying to Become Dogs Again <{filename}pt14-05-praying-to-become-dogs-again%zh.rst>`_ (1961-08-27)
+
+- 6.) `Three Steps of Mindfulness <{filename}pt14-06-three-steps-of-mindfulness%zh.rst>`_ (1961-08-30)
+
+- 7.) `Buddhist and Non-Buddhist <{filename}pt14-07-buddhist-and-non-buddhist%zh.rst>`_ (1961-08-31)
+
+- 8.) `How to Use the Mirror? / Blind People <{filename}pt14-08-how-to-use-the-mirror-blind-people%zh.rst>`_ (1961-09-09~10)
+
+- 9.) `Too Crazy / Burning Oneself with Fire <{filename}pt14-09-too-crazy-burning-oneself-with-fire%zh.rst>`_ (1961-09-14)
+
+- 10.) `Knowing and Seeing <{filename}pt14-10-knowing-and-seeing%zh.rst>`_ (1961-09-16)
+
+- 11.) `Worse Than an Atomic Bomb <{filename}pt14-11-worse-than-an-atomic-bomb%zh.rst>`_ (1961-07-17)
+
+- 12.) `Dhamma is in the Khandha <{filename}pt14-12-dhamma-is-in-the-khandha%zh.rst>`_ (1961-10-05)
+
+- 13.) `Why So Much Sufferings? <{filename}pt14-13-why-so-much-sufferings%zh.rst>`_ (1961-10-07~08)
+
+- 14.) `Noble Dhamma and Wrong Dhamma <{filename}pt14-14-noble-dhamma-and-wrong-dhamma%zh.rst>`_ (1961-10-09)
+
+- 15.) `Why No Realization? <{filename}pt14-15-why-no-realization?%zh.rst>`_ (1961-10-10)
+
+- 16.) `Every Buddhist Should Know <{filename}pt14-16-every-buddhist-should-know%zh.rst>`_ (1961-10-11)
+
+- 17.) `Importance Of Knowing Oneself <{filename}pt14-17-importance-of-knowing-oneself%zh.rst>`_ (1961-10-15)
+
+- 18.) `Faith in Kamma and Dukkha Sacca <{filename}pt14-18-faith-in-kamma-and-dukkha-sacca%zh.rst>`_ (1961-10-29 ~ 30)
+
+- 19.) `Dying All The Time <{filename}pt14-19-dying-all-the-time%zh.rst>`_ (1961-11-15)
+
+- 20.) `Humans Take Dukkha as Sukha <{filename}pt14-20-humans-take-dukkha-as-sukha%zh.rst>`_ (1961-11-15)
+
+- 21.) `Darkness to Light <{filename}pt14-21-darkness-to-light%zh.rst>`_ (1961-11-17)
+
+- 22.) `Dhamma Is The Creator <{filename}pt14-22-dhamma-is-the-creator%zh.rst>`_ (1961-11-17)
+
+- 23.) `Ignorance to Knowledge <{filename}pt14-23-ignorance-to-knowledge%zh.rst>`_ (1961-11-26)
+
+- 24.) `A Slave with Six Masters <{filename}pt14-24-a-slave-with-six-masters%zh.rst>`_ (1961-11-26)
+
+- 25.) `How to Ask Questions? <{filename}pt14-25-how-to-ask-questions%zh.rst>`_ (1961-11-27)
+
+- 26.) `Khandha Hospital <{filename}pt14-26-khandha-hospital%zh.rst>`_ (1961-11-27)
+
+- 27.) `Useless and Disgusting Khandha <{filename}pt14-27-useless-and-disgusting-khandha%zh.rst>`_ (1961-11-28)
+
+- 28.) `Lunatics of the World <{filename}pt14-28-lunatics-of-the-world%zh.rst>`_ (1961-11-29)
+
+- 29.) `Ending of Dukkha; Need Only One <{filename}pt14-29-ending-of-dukkha-need-only-one%zh.rst>`_ (1961-12-19 ~ 20)
+
+- 30.) `The Oppressor of Beings <{filename}pt14-30-the-oppressor-of-beings%zh.rst>`_ (1962-02-23 ~ 25)
+
+- 31.) `Humans Looking for Unreliable <{filename}pt14-31-humans-looking-for-unreliable%zh.rst>`_ (1962-02-27)
+
+- 32.) `Worldlings with Wrong Eyes and Defiled Minds <{filename}pt14-32-worldlings-with-wrong-eyes-and-defiled-minds%zh.rst>`_ (1962-03-10)
+
+- 33.) `Our Great Mistake <{filename}pt14-33-our-great-mistake%zh.rst>`_ (1962-03-12)
+
+- 34.) `A Diseased Body <{filename}pt14-34-a-diseased-body%zh.rst>`_ (1962-03-13)
+
+- 35.) `On the Five Hindrances <{filename}pt14-35-on-the-five-hindrances%zh.rst>`_ (1962-03-31 ~ 04-04)
+
+- 36.) `The Five Rarities <{filename}pt14-36-the-five-rarities%zh.rst>`_ (5th to 7th April 1962-04-05 ~ 07)
+
+_`Part 15`
+
+Under Construction!
+
+_`Part 16`
+
+Under Construction!
+
+_`Part 17`
+
+Under Construction!
+
 ----
 
 _`About the translator`: `this link <{filename}dhamma-talks-by-mogok-sayadaw-about-the-translator%zh.rst>`_
@@ -756,7 +847,7 @@ _`For printing` full text of this book:
 
 - Cover: `Vol-I <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok1-cover.png>`__ , `Vol-II <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok2-cover.png>`__ , `Vol-III <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok3-cover.png>`__ (2022-02-28)
 
-revised on 2021-10-21
+revised on 2024-03-27
 
 ------
 
@@ -767,6 +858,7 @@ revised on 2021-10-21
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2024-03-27 add Part 14
   2023-06-10 add the linkings of mp3 & Youtube
   08-26 add: Chinese traslation (experimental)
   2022-02-28 rev. covers (picture) of Mogok Sayadaw's Dhamma talks
