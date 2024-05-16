@@ -3,7 +3,7 @@
 =============================================
 
 :date: 2023-12-27
-:modified: 2024-01-02
+:modified: 2024-05-16
 :tags: 舍利弗, 舍利子, 法將, Sāriputta, Sariputta, Saariputta
 :category: 書選
 :summary: 尊者舍利弗的一生 (The Life of Sāriputta)
@@ -18,6 +18,7 @@
 
   * `舍利弗與摩訶目犍連的聖骨略記 <{filename}the-life-of-sariputta-addendum%zh.rst>`_ 
   * `與舍利弗有關的經集 Sutta-nipāta <{filename}the-life-of-sariputta-sutta-nipata%zh.rst>`_
+  * `向智尊者略傳 <{filename}the-life-of-sariputta-biography-nyanaponika-excerpt%zh.rst>`_ 
 
 - 參考資訊_ 
 - `本書參考經典 <{filename}the-life-of-sariputta-tipitaka-reference%zh.rst>`_ 
@@ -188,6 +189,7 @@
 
 
 ..
+  2024-05-16 add 向智尊者略傳
   2024-01-02 add linkings of 有聲書 (MP3 and youtube)
   12-28 rev. repair linking of chap2 replace 第四章、第五章 with 部
   create rst on 2023-12-27
