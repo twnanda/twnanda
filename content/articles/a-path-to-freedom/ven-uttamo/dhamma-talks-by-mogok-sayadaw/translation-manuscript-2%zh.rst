@@ -3,7 +3,7 @@ Manuscript of Translations (2/2)
 ===================================
 
 :date: 2021-09-13
-:modified: 2021-09-13
+:modified: 2024-05-20
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Manuscripts (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
@@ -17,6 +17,7 @@ The following is a few pages of the manuscript of the accompanying translation (
      :scale: 70 %
      :align: center
      :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part10-05.png
+     :alt: partial manuscript of part10-05
 
 ------
 
@@ -24,6 +25,7 @@ The following is a few pages of the manuscript of the accompanying translation (
      :scale: 70 %
      :align: center
      :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part13-13.png
+     :alt: partial manuscript of part13-13
 
 ------
 
@@ -31,6 +33,7 @@ The following is a few pages of the manuscript of the accompanying translation (
      :scale: 70 %
      :align: center
      :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part13-30.png
+     :alt: partial manuscript of part13-30
 
 ------
 
@@ -38,6 +41,7 @@ The following is a few pages of the manuscript of the accompanying translation (
      :scale: 70 %
      :align: center
      :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/part13-33.png
+     :alt: partial manuscript of part13-33
 
 ------
 
@@ -45,6 +49,7 @@ The following is a few pages of the manuscript of the accompanying translation (
      :scale: 70 %
      :align: center
      :target: https://github.com/twnanda/doc-pdf-etc/blob/master/image/proved-by-bhante.png
+     :alt: partial manuscript of proved-by-bhante
 
 ------
 
@@ -67,6 +72,7 @@ revised on 2021-09-13
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2024-05-20 add alt attribute for images
   09-13 correct rst grammar
   finished:  .. image:: https://nanda.online-dhamma.net/doc-pdf-etc/image/part01-tranlator-note.png
     .. image:: image/part01-tranlator-note.png
