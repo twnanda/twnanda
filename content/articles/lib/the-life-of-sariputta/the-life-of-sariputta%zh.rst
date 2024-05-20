@@ -3,8 +3,8 @@
 =============================================
 
 :date: 2023-12-27
-:modified: 2024-05-20
-:tags: 舍利弗, 舍利子, 法將, Sāriputta, Sariputta, Saariputta
+:modified: 2024-05-21
+:tags: 舍利弗, 舍利子, 法將, Sāriputta, Sariputta, Saariputta, 向智尊者, 向智,尊者向智,Nyanaponika Thera,Nyanaponika Mahathera,Ñāṇapoṇika
 :category: 書選
 :summary: 尊者舍利弗的一生 (The Life of Sāriputta)
 
@@ -30,6 +30,8 @@
   * `印刷用 (大字體版 19pt) <http://nanda.online-dhamma.net/the-life-of-sariputta/pdf-odt/The-Life-of-Sariputta-nanda-enlarged-print.pdf>`_ （399 頁）
 
   * `閱讀用 <http://nanda.online-dhamma.net/the-life-of-sariputta/pdf-odt/The-Life-of-Sariputta-nanda-enlarged.pdf>`_
+
+- `本書封面 <http://nanda.online-dhamma.net/the-life-of-sariputta/pdf-odt/the-life-of-sariputta-cover.png>`_
 
 - 本書 ODT （ `開放文件格式 <https://zh.wikipedia.org/wiki/%E5%BC%80%E6%94%BE%E6%96%87%E6%A1%A3%E6%A0%BC%E5%BC%8F>`_ ）：
 
@@ -212,8 +214,9 @@
 
 
 ..
-  2024-05-20 add 向智尊者略傳 MP3, Youtube 鍊結 & rev. move mp3 to identical repo; old: <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/The-Life-of-Sariputta.pdf>`
-  2024-05-16 add 向智尊者略傳
+  05-21 add 本書封面 and tag Ñāṇapoṇika, etc.
+  05-20 add 向智尊者略傳 MP3, Youtube 鍊結 & rev. move mp3 to identical repo; old: <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/The-Life-of-Sariputta.pdf>`
+  05-16 add 向智尊者略傳
   2024-01-02 add linkings of 有聲書 (MP3 and youtube)
   12-28 rev. repair linking of chap2 replace 第四章、第五章 with 部
   create rst on 2023-12-27
