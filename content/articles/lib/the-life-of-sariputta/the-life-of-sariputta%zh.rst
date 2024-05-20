@@ -24,7 +24,18 @@
 - `本書參考經典 <{filename}the-life-of-sariputta-tipitaka-reference%zh.rst>`_ 
 - 版權宣告_
 
-- 本書 `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/The-Life-of-Sariputta.pdf>`_
+- 本書 PDF：
+
+  * `印刷用 (14pt) <http://nanda.online-dhamma.net/the-life-of-sariputta/pdf-odt/The-Life-of-Sariputta-nanda-print.pdf>`_ （240 頁）
+  * `印刷用 (大字體版 19pt) <http://nanda.online-dhamma.net/the-life-of-sariputta/pdf-odt/The-Life-of-Sariputta-nanda-enlarged-print.pdf>`_ （399 頁）
+
+  * `閱讀用 <http://nanda.online-dhamma.net/the-life-of-sariputta/pdf-odt/The-Life-of-Sariputta-nanda-enlarged.pdf>`_
+
+- 本書 ODT （ `開放文件格式 <https://zh.wikipedia.org/wiki/%E5%BC%80%E6%94%BE%E6%96%87%E6%A1%A3%E6%A0%BC%E5%BC%8F>`_ ）：
+
+  * `一般 <http://nanda.online-dhamma.net/the-life-of-sariputta/pdf-odt/The-Life-of-Sariputta-nanda.odt>`_ （14pt）
+
+  * `大字體版 <http://nanda.online-dhamma.net/the-life-of-sariputta/pdf-odt/The-Life-of-Sariputta-nanda-enlarged.odt>`_ （19pt）
 
 ------
 
@@ -201,7 +212,7 @@
 
 
 ..
-  2024-05-20 add 向智尊者略傳 MP3, Youtube 鍊結 & rev. move mp3 to identical repo
+  2024-05-20 add 向智尊者略傳 MP3, Youtube 鍊結 & rev. move mp3 to identical repo; old: <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/The-Life-of-Sariputta.pdf>`
   2024-05-16 add 向智尊者略傳
   2024-01-02 add linkings of 有聲書 (MP3 and youtube)
   12-28 rev. repair linking of chap2 replace 第四章、第五章 with 部
