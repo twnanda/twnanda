@@ -3,7 +3,7 @@
 ================================
 
 :date: 2023-09-22
-:modified: 2023-10-27
+:modified: 2024-05-21
 :tags: 我的人生道路, 阿瞻蘇查, Ajahn Suchart, Ajahn Suchart Abhijāto
 :category: 書選
 :summary: 我的人生道路——阿瞻 蘇查自傳 (An Autobiography by Ajahn Suchart Abhijāto)
@@ -67,7 +67,7 @@
 - `山上法語 <{filename}ajahn-suchart-dhamma-on-the-mountain%zh.rst>`_ 
 - 附錄-- `阿瞻 蘇查每日活動表 <{filename}ajahn-suchart-addendum%zh.rst>`_ 
 - `詞彙註釋 <{filename}ajahn-suchart-glossary%zh.rst>`_
-- 本書 `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/my-way-traditional-Chinese-read.pdf>`__ (選 download raw file); `ODT <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/my-way-traditional-Chinese-read.odt>`__ (選 download raw file)
+- 本書 `PDF <http://nanda.online-dhamma.net/Ajahn-Suchart/pdf-odt/my-way-traditional-Chinese-read.pdf>`__ ; `ODT <http://nanda.online-dhamma.net/Ajahn-Suchart/pdf-odt/my-way-traditional-Chinese-read.odt>`__ 
 
 ------
 
@@ -90,60 +90,60 @@
 
   * 男聲朗讀 (10'49")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/john-reading/ajahn-suchart-01growing-up-john.mp3>`__ (以下之 MP3, 選 download raw file)
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-01growing-up-john.mp3>`__ 
     - `Youtube <https://www.youtube.com/watch?v=Qyi_aywmqPo&list=PLgpGmPf7fzNabpqM6UixincgjjLxv_hWa&index=2>`__
 
   * 女聲朗讀 (11'38")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/yating-reading/ajahn-suchart-01growing-up-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-01growing-up-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=u-Nwips49tk&list=PLgpGmPf7fzNa0Ry7cA81b9dESvHPmqPi8&index=2>`__
 
 - 第 2 篇: 世俗生活
 
   * 男聲朗讀 (14'20")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/john-reading/ajahn-suchart-02worldly-life-john.mp3>`__ 
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-02worldly-life-john.mp3>`__ 
     - `Youtube <https://www.youtube.com/watch?v=W-1E4VAaiQs&list=PLgpGmPf7fzNabpqM6UixincgjjLxv_hWa&index=3>`__
 
   * 女聲朗讀 (15'19")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/yating-reading/ajahn-suchart-02worldly-life-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-02worldly-life-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=Gm9HOWjPO4k&list=PLgpGmPf7fzNa0Ry7cA81b9dESvHPmqPi8&index=3>`__
 
 - 第 3 篇: 接近佛法
 
   * 男聲朗讀 (20'28")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/john-reading/ajahn-suchart-03approaching-the-dhamma-john.mp3>`__ 
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-03approaching-the-dhamma-john.mp3>`__ 
     - `Youtube <https://www.youtube.com/watch?v=kR5TM4mfsBc&list=PLgpGmPf7fzNabpqM6UixincgjjLxv_hWa&index=4>`__
 
   * 女聲朗讀 (22'03")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/yating-reading/ajahn-suchart-03approaching-the-dhamma-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-03approaching-the-dhamma-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=dJJzzKAEeXI&list=PLgpGmPf7fzNa0Ry7cA81b9dESvHPmqPi8&index=4>`__
 
 - 第 4 篇: 在家禪修修習者
 
   * 男聲朗讀 (12'37")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/john-reading/ajahn-suchart-04lay-meditator-john.mp3>`__ 
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-04lay-meditator-john.mp3>`__ 
     - `Youtube <https://www.youtube.com/watch?v=zSbTT5hdHW0&list=PLgpGmPf7fzNabpqM6UixincgjjLxv_hWa&index=5>`__
 
   * 女聲朗讀 (13'38")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/yating-reading/ajahn-suchart-04lay-meditator-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-04lay-meditator-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=KSkHYnGWRjA&list=PLgpGmPf7fzNa0Ry7cA81b9dESvHPmqPi8&index=5>`__
 
 - 第 5 篇: 出家
 
   * 男聲朗讀 (10'29")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/john-reading/ajahn-suchart-05becoming-a-monk-john.mp3>`__ 
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-05becoming-a-monk-john.mp3>`__ 
     - `Youtube <https://www.youtube.com/watch?v=EePTc02UQQM&list=PLgpGmPf7fzNabpqM6UixincgjjLxv_hWa&index=6>`__
 
   * 女聲朗讀 (11'14")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/yating-reading/ajahn-suchart-05becoming-a-monk-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-05becoming-a-monk-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=R-3NaHmjqOE&list=PLgpGmPf7fzNa0Ry7cA81b9dESvHPmqPi8&index=6>`__
 
 - 第 6 篇: 出家生活
@@ -160,48 +160,48 @@
 
   * 男聲朗讀 (38'02")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/john-reading/ajahn-suchart-07moving-to-wat-yannasangvararam-john.mp3>`__ 
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-07moving-to-wat-yannasangvararam-john.mp3>`__ 
     - `Youtube <https://www.youtube.com/watch?v=ImLDoMHveuA&list=PLgpGmPf7fzNabpqM6UixincgjjLxv_hWa&index=8>`__
 
   * 女聲朗讀 (41'00")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/yating-reading/ajahn-suchart-07moving-to-wat-yannasangvararam-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-07moving-to-wat-yannasangvararam-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=3gd7Dj4B5-k&list=PLgpGmPf7fzNa0Ry7cA81b9dESvHPmqPi8&index=8>`__
 
 - 山上法語
 
   * 男聲朗讀 (17'54")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/john-reading/ajahn-suchart-dhamma-on-the-mountain-john.mp3>`__ 
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-dhamma-on-the-mountain-john.mp3>`__ 
     - `Youtube <https://www.youtube.com/watch?v=b-TfulHF0fs&list=PLgpGmPf7fzNabpqM6UixincgjjLxv_hWa&index=9>`__
 
   * 女聲朗讀 (19'33")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/yating-reading/ajahn-suchart-dhamma-on-the-mountain-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-dhamma-on-the-mountain-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=OexAKg92FSg&list=PLgpGmPf7fzNa0Ry7cA81b9dESvHPmqPi8&index=9>`__
 
 - 附錄-- 阿瞻 蘇查每日活動表
 
   * 男聲朗讀 (1'17")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/john-reading/ajahn-suchart-addendum-john.mp3>`__ 
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-addendum-john.mp3>`__ 
     - `Youtube <https://www.youtube.com/watch?v=jGW71L8sXyk&list=PLgpGmPf7fzNabpqM6UixincgjjLxv_hWa&index=10>`__
 
   * 女聲朗讀 (1'21")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/yating-reading/ajahn-suchart-addendum-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-addendum-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=w2C7rNlpBHQ&list=PLgpGmPf7fzNa0Ry7cA81b9dESvHPmqPi8&index=10>`__
 
 - 詞彙註釋
 
   * 男聲朗讀 (26'56")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/john-reading/ajahn-suchart-glossary-john.mp3>`__ 
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-glossary-john.mp3>`__ 
     - `Youtube <https://www.youtube.com/watch?v=VLYFbXHMk2Q&list=PLgpGmPf7fzNabpqM6UixincgjjLxv_hWa&index=11>`__
 
   * 女聲朗讀 (30'04")
 
-    - `MP3 <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/yating-reading/ajahn-suchart-glossary-yating.mp3>`__
+    - `MP3 <http://nanda.online-dhamma.net/Ajahn-Suchart/mp3/ajahn-suchart-glossary-yating.mp3>`__
     - `Youtube <https://www.youtube.com/watch?v=PVyCLIAG1SU&list=PLgpGmPf7fzNa0Ry7cA81b9dESvHPmqPi8&index=11>`__
 
 ----
@@ -241,6 +241,8 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  2024-05-21 move to identical and friendly repo; old: <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/my-way-traditional-Chinese-read.pdf>`__ (選 download raw file); `ODT <https://github.com/tw-nanda/pdf-etc/blob/main/Ajahn-Suchart/my-way-traditional-Chinese-read.odt>`__ (選 download raw file)
+
   10-27 add:PDF and 有聲書linking
   09-30 rev. replace image:: {filename}/ with image:: {static}/
   09-29 add: linkings of Beyond Birth; rev. correct note. 2 again
