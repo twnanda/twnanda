@@ -3,12 +3,12 @@ Our Great Mistake
 ========================================================
 
 :date: 2024-03-27
-:modified: 2024-03-27
+:modified: 2024-06-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Our Great Mistake (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-03-27
+revised on 2024-06-09
 
 ------
 
@@ -16,19 +16,19 @@ Dhamma Talks by Mogok Sayadaw; 12th March 1962
 
 [This talk is based on a sutta in Khandha Vagga, Khandhasaṃyutta, sutta no.122; SN 22:122]
 
-Virtuous Discourse. It’s about questions and answers between Mahākoṭṭhika and Sāriputta.
+Virtuous Discourse. It’s about questions and answers between Mahākoṭṭhika and Sāriputta. 
 
-Mahākoṭṭhika asked Sāriputta; “What’re the things that a virtuous bhikkhu should carefully attend to?” A monk should carefully attend to one of the five khandhas as— impermanent, suffering, disease, a tumour, a dart, misery, affliction, alien, disintegrating, empty and non-self (in eleven ways) will attain the path of the stream enterer. (Sayadawji always emphasized the first magga in most of his talks-nothing is more frightening than the four apāyas of existence, especially hell existences. After the first magga the upper maggas are becoming easy and no need a teacher for guidance). You’ll respond to these as it’s too much for attention. You don’t have to contemplate all of them. If you combine all of them becoming the three universal characteristics (the yogi can choose any one of them which suit his nature and preference). This point is the knowledge of a teacher (refer him) At last it leads to or goes into anicca— rise and fall. It is becoming increasingly clear that even with the precepts (sīla), there must be the right concentration or attendance. With more contemplation it’ll lead to the Truth (sacca) If we’re having skill in one of them (factors) will finish the practice.
+Mahākoṭṭhika asked Sāriputta, “What are the things that a virtuous bhikkhu should carefully attend to?” A monk should carefully attend to one of the five khandhas as— impermanent, suffering, disease, a tumour, a dart, misery, affliction, alien, disintegrating, empty, and non-self (in eleven ways) to attain the path of the stream-enterer. (Sayadawji always emphasized the first magga in most of his talks—nothing is more frightening than the four apāyas of existence, especially hell existences. After the first magga, the upper maggas become easier and there is no need for a teacher for guidance). You’ll respond to these as they are too much for attention. You don’t have to contemplate all of them. If you combine all of them they become the three universal characteristics (the yogi can choose any one of them that suits his nature and preference). This point is the knowledge of a teacher (refer to him). At last, it leads to or transforms into anicca—rise and fall. It is becoming increasingly clear that even with the precepts (sīla), there must be the right concentration or attendance. With more contemplation, it will lead to the Truth (sacca). Having skill in one of them (factors) will finish the practice. 
 
-Contemplating as an alien (parato, parajana) or stranger is quite good. Contemplative knowledge is one thing and rise and fall— anicca is another. They are taking about their natures. You must make the decision that it has nothing to do with me. When one’s own khandha becomes alien and also other khandhas become strangers. It doesn’t affect anyone. It’s happening by itself and the I or Me goes in and disturbing it so that it does not become an alien. If not become parato (alien) it becomes attato (self) and attaniyato (my property). You go in and disturb it, which becomes unwise-attention (ayoniso). Why are you not becoming a stream enterer? You make an alien to be your own, and follow behind with the D.A. process of dukkha, domanassa, etc. Now you find out your fault. You make other property as yours and fall into apāyas. It was like a watchman killed by robbers. It was better if the owner had been killed. It is quite painful to be killed without owning property. Here is also the same as falling into apāyas with other property. If you can contemplate only with the alien it becomes equanimity (upekkhā). It can develop to saṅkhāra upekkhā ñāṇa, after that path knowledge arises.
+Contemplating as an alien (parato, parajana) or stranger is quite good. Contemplative knowledge is one thing and rise and fall—anicca is another. They are talking about their natures. You must make the decision that it has nothing to do with me. When one’s own khandha becomes alien and also other khandhas become strangers, it doesn’t affect anyone. It’s happening by itself and the I or Me goes in and disturbs it so that it does not become an alien. If it does not become parato (alien), it becomes attato (self) and attaniyato (my property). You go in and disturb it, which becomes unwise-attention (ayoniso). Why are you not becoming a stream enterer? You make an alien your own, and follow behind with the D.A. process of dukkha, domanassa, etc. Now you have found out your fault. You make other property as yours and fall into apāyas. It was like a watchman killed by robbers. It would have been better if the owner had been killed. It is quite painful to be killed without owning property. Here it is also the same as falling into apāyas with other property. If you can contemplate only with the alien, it becomes equanimity (upekkhā). It can develop to saṅkhāra upekkhā ñāṇa, after that path knowledge arises.
 
-The four lower realms (apāya) are such a person's "own" home (i.e., he has khandha as his own). Diṭṭhi, diṭṭhi-upādāna and action (kamma) governed by diṭṭhi push people down there. Making an alien as one’s own is the greatest mistake. Whatever merit you’re doing-mind arises by object and sense base (ārammaṇa and dvāra) and form (rūpa) arise by kamma citta, utu and āhāra (action, mind, temperature and nutrient). In all these things nothing is made by oneself. Therefore, it became a crime and fell into apāya prison.
+The four lower realms (apāya) are such a person's "own" home (i.e., he considers the khandha as his own). Diṭṭhi, diṭṭhi-upādāna, and action (kamma) governed by diṭṭhi push individuals into these realms. Claiming an alien as one's own is the greatest mistake. Whatever merit you perform, the mind arises from the object and sense base (ārammaṇa and dvāra), and form (rūpa) arises from kamma, citta, utu, and āhāra (action, mind, temperature, and nutrient). In all these processes, nothing is created by oneself. Therefore, it becomes a crime, leading to falling into the apāya prison. 
 
-The family members are related to each other as I and mine without knowing each one is a stranger to others. If arguing strongly with other property as one’s own, it becomes clinging to the wrong view. Don’t blame it on kamma by falling into apāya. This is the cause of the wrong views and clinging to wrong views.
+Family members are related to each other as 'I' and 'mine,' without realizing that each one is a stranger to the others. Arguing strongly that other's property is one's own leads to clinging to the wrong view. Do not attribute falling into apāya to kamma. This is the cause of wrong views and clinging to them.
 
 ------
 
-revised on 2024-03-27
+revised on 2024-06-09
 
 ------
 
@@ -47,4 +47,5 @@ revised on 2024-03-27
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-09 rev. proofread by bhante Uttamo
   2024-03-27 create rst
