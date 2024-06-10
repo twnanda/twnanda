@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2024-03-23
+:modified: 2024-06-10
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -48,10 +48,15 @@ Dhamma Talks by Mogok Sayadaw
      - `Part 11`_
      - `Part 12`_
    * - `Part 13`_
+     - `Part 14`_
+     - `Part 15`_
+     - `Part 16`_
      - `Epilogue <{filename}dhamma-talks-by-mogok-sayadaw/postscript%zh.rst>`__
-     - `Appendix <{filename}dhamma-talks-by-mogok-sayadaw/appendix%zh.rst>`__ ( `Manuscript of Translations <{filename}dhamma-talks-by-mogok-sayadaw/translation-manuscript%zh.rst>`__ )
+   * - `Appendix <{filename}dhamma-talks-by-mogok-sayadaw/appendix%zh.rst>`__ ( `Manuscript of Translations <{filename}dhamma-talks-by-mogok-sayadaw/translation-manuscript%zh.rst>`__ )
      - `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ ; (PDF, 2021-10-21)
      - `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (PDF, background in green, 2021-10-21)
+     - 
+     - 
 
 ------
 
@@ -729,6 +734,175 @@ _`Part 13` ( `content of Part 13 <{filename}dhamma-talks-by-mogok-sayadaw/pt13-c
 
 - 33.) `The Most Dangerous Enemy <{filename}dhamma-talks-by-mogok-sayadaw/pt13-33-the-most-dangerous-enemy%zh.rst>`_ (N/A)
 
+_`Part 14` ( `content of Part 14 <{filename}dhamma-talks-by-mogok-sayadaw/pt14-content-of-part14%zh.rst>`_ )
+
+- 1.) `True Refuge-2 <{filename}dhamma-talks-by-mogok-sayadaw/pt14-01-true-refuge%zh.rst>`_ (1959-02-28)
+
+- 2.) `Are you the Fool or the Wise? <{filename}dhamma-talks-by-mogok-sayadaw/pt14-02-are-you-the-fool-or-the-wise%zh.rst>`_ (1961-08-09)
+
+- 3.) `Extinguish The Hell Fire <{filename}dhamma-talks-by-mogok-sayadaw/pt14-03-extinguish-the-hell-fire%zh.rst>`_ (1961-08-14 and 15)
+
+- 4.) `A Fire Ghost <{filename}dhamma-talks-by-mogok-sayadaw/pt14-04-a-fire-ghost%zh.rst>`_ (1961-08-22 and 23)
+
+- 5.) `Praying to Become Dogs Again <{filename}dhamma-talks-by-mogok-sayadaw/pt14-05-praying-to-become-dogs-again%zh.rst>`_ (1961-08-27)
+
+- 6.) `Three Steps of Mindfulness <{filename}dhamma-talks-by-mogok-sayadaw/pt14-06-three-steps-of-mindfulness%zh.rst>`_ (1961-08-30)
+
+- 7.) `Buddhist and Non-Buddhist <{filename}dhamma-talks-by-mogok-sayadaw/pt14-07-buddhist-and-non-buddhist%zh.rst>`_ (1961-08-31)
+
+- 8.) `How to Use the Mirror? / Blind People <{filename}dhamma-talks-by-mogok-sayadaw/pt14-08-how-to-use-the-mirror-blind-people%zh.rst>`_ (1961-09-09~10)
+
+- 9.) `Too Crazy / Burning Oneself with Fire <{filename}dhamma-talks-by-mogok-sayadaw/pt14-09-too-crazy-burning-oneself-with-fire%zh.rst>`_ (1961-09-14)
+
+- 10.) `Knowing and Seeing <{filename}dhamma-talks-by-mogok-sayadaw/pt14-10-knowing-and-seeing%zh.rst>`_ (1961-09-16)
+
+- 11.) `Worse Than an Atomic Bomb <{filename}dhamma-talks-by-mogok-sayadaw/pt14-11-worse-than-an-atomic-bomb%zh.rst>`_ (1961-07-17)
+
+- 12.) `Dhamma is in the Khandha <{filename}dhamma-talks-by-mogok-sayadaw/pt14-12-dhamma-is-in-the-khandha%zh.rst>`_ (1961-10-05)
+
+- 13.) `Why So Much Sufferings? <{filename}dhamma-talks-by-mogok-sayadaw/pt14-13-why-so-much-sufferings%zh.rst>`_ (1961-10-07~08)
+
+- 14.) `Noble Dhamma and Wrong Dhamma <{filename}dhamma-talks-by-mogok-sayadaw/pt14-14-noble-dhamma-and-wrong-dhamma%zh.rst>`_ (1961-10-09)
+
+- 15.) `Why No Realization? <{filename}dhamma-talks-by-mogok-sayadaw/pt14-15-why-no-realization%zh.rst>`_ (1961-10-10)
+
+- 16.) `Every Buddhist Should Know <{filename}dhamma-talks-by-mogok-sayadaw/pt14-16-every-buddhist-should-know%zh.rst>`_ (1961-10-11)
+
+- 17.) `Importance Of Knowing Oneself <{filename}dhamma-talks-by-mogok-sayadaw/pt14-17-importance-of-knowing-oneself%zh.rst>`_ (1961-10-15)
+
+- 18.) `Faith in Kamma and Dukkha Sacca <{filename}dhamma-talks-by-mogok-sayadaw/pt14-18-faith-in-kamma-and-dukkha-sacca%zh.rst>`_ (1961-10-29 ~ 30)
+
+- 19.) `Dying All The Time <{filename}dhamma-talks-by-mogok-sayadaw/pt14-19-dying-all-the-time%zh.rst>`_ (1961-11-15)
+
+- 20.) `Humans Take Dukkha as Sukha <{filename}dhamma-talks-by-mogok-sayadaw/pt14-20-humans-take-dukkha-as-sukha%zh.rst>`_ (1961-11-15)
+
+- 21.) `Darkness to Light <{filename}dhamma-talks-by-mogok-sayadaw/pt14-21-darkness-to-light%zh.rst>`_ (1961-11-17)
+
+- 22.) `Dhamma Is The Creator <{filename}dhamma-talks-by-mogok-sayadaw/pt14-22-dhamma-is-the-creator%zh.rst>`_ (1961-11-17)
+
+- 23.) `Ignorance to Knowledge <{filename}dhamma-talks-by-mogok-sayadaw/pt14-23-ignorance-to-knowledge%zh.rst>`_ (1961-11-26)
+
+- 24.) `A Slave with Six Masters <{filename}dhamma-talks-by-mogok-sayadaw/pt14-24-a-slave-with-six-masters%zh.rst>`_ (1961-11-26)
+
+- 25.) `How to Ask Questions? <{filename}dhamma-talks-by-mogok-sayadaw/pt14-25-how-to-ask-questions%zh.rst>`_ (1961-11-27)
+
+- 26.) `Khandha Hospital <{filename}dhamma-talks-by-mogok-sayadaw/pt14-26-khandha-hospital%zh.rst>`_ (1961-11-27)
+
+- 27.) `Useless and Disgusting Khandha <{filename}dhamma-talks-by-mogok-sayadaw/pt14-27-useless-and-disgusting-khandha%zh.rst>`_ (1961-11-28)
+
+- 28.) `Lunatics of the World <{filename}dhamma-talks-by-mogok-sayadaw/pt14-28-lunatics-of-the-world%zh.rst>`_ (1961-11-29)
+
+- 29.) `Ending of Dukkha; Need Only One <{filename}dhamma-talks-by-mogok-sayadaw/pt14-29-ending-of-dukkha-need-only-one%zh.rst>`_ (1961-12-19 ~ 20)
+
+- 30.) `The Oppressor of Beings <{filename}dhamma-talks-by-mogok-sayadaw/pt14-30-the-oppressor-of-beings%zh.rst>`_ (1962-02-23 ~ 25)
+
+- 31.) `Humans Looking for Unreliable <{filename}dhamma-talks-by-mogok-sayadaw/pt14-31-humans-looking-for-unreliable%zh.rst>`_ (1962-02-27)
+
+- 32.) `Worldlings with Wrong Eyes and Defiled Minds <{filename}dhamma-talks-by-mogok-sayadaw/pt14-32-worldlings-with-wrong-eyes-and-defiled-minds%zh.rst>`_ (1962-03-10)
+
+- 33.) `Our Great Mistake <{filename}dhamma-talks-by-mogok-sayadaw/pt14-33-our-great-mistake%zh.rst>`_ (1962-03-12)
+
+- 34.) `A Diseased Body <{filename}dhamma-talks-by-mogok-sayadaw/pt14-34-a-diseased-body%zh.rst>`_ (1962-03-13)
+
+- 35.) `On the Five Hindrances <{filename}dhamma-talks-by-mogok-sayadaw/pt14-35-on-the-five-hindrances%zh.rst>`_ (1962-03-31 ~ 04-04)
+
+- 36.) `The Five Rarities <{filename}dhamma-talks-by-mogok-sayadaw/pt14-36-the-five-rarities%zh.rst>`_ (5th to 7th April 1962-04-05 ~ 07)
+
+_`Part 15` ( `content of Part 15 <{filename}dhamma-talks-by-mogok-sayadaw/pt15-content-of-part15%zh.rst>`_ )
+
+
+- 1.) `Sufferings Made by Humans <{filename}dhamma-talks-by-mogok-sayadaw/pt15-01-sufferings-made-by-humans%zh%zh.rst>`_ (1962-04-08 and 09)
+
+- 2.) `Humans’ Own Properties <{filename}dhamma-talks-by-mogok-sayadaw/pt15-02-humans-own-properties%zh.rst>`_ (1962-04-17)
+
+- 3.) `On Ways of Undertaking Things <{filename}dhamma-talks-by-mogok-sayadaw/pt15-03-on-ways-of-undertaking-things%zh.rst>`_ (1962-04-19)
+
+- 4.) `How to React Pain? <{filename}dhamma-talks-by-mogok-sayadaw/pt15-04-how-to-react-pain%zh.rst>`_ (1962-04-20)
+
+- 5.) `On Future Humans and Kammas <{filename}dhamma-talks-by-mogok-sayadaw/pt15-05-on-future-humans-and-kammas%zh.rst>`_ (1962-04-22 and 23)
+
+- 6.) `Dangers of Craving for Taste <{filename}dhamma-talks-by-mogok-sayadaw/pt15-06-dangers-of-craving-for-taste%zh.rst>`_ (1961-08-30)
+
+- 7.) `Extinguish Your Hell Fire <{filename}dhamma-talks-by-mogok-sayadaw/pt15-07-extinguish-your-hell-fire%zh.rst>`_ (1962-04-26 and 27)
+
+- 8.) `Humans Love for Khandha and Taṇhā <{filename}dhamma-talks-by-mogok-sayadaw/pt15-08-humans-love-for-khandha-and-tanha%zh.rst>`_ (1962-04-30 and 05-01)
+
+- 9.) `With More Wavering and More Sinking / With Big Taṇhā Comes Big Cauldron <{filename}dhamma-talks-by-mogok-sayadaw/pt15-09-with-more-wavering-and-more-sinking-with-big-tanha-comes-big-cauldron%zh.rst>`_ (1962-05-05 and 06)
+
+- 10.) `Using the Sense Doors Wisely <{filename}dhamma-talks-by-mogok-sayadaw/pt15-10-using-the-sense-doors-wisely%zh.rst>`_ (1962-05-07 and 08)
+
+- 11.) `Whoever Loves Dukkha Not Attain Nibbāna <{filename}dhamma-talks-by-mogok-sayadaw/pt15-11-whoever-loves-dukkha-not-attain-nibbana%zh.rst>`_ (1962-05-09)
+
+- 12.) `Blind and Disable Person <{filename}dhamma-talks-by-mogok-sayadaw/pt15-12-blind-and-disable-person%zh.rst>`_ (1962-05-16)
+
+- 13.) `The Fool and the Oppressor <{filename}dhamma-talks-by-mogok-sayadaw/pt15-13-the-fool-and-the-oppressor%zh.rst>`_ (1962-05-18)
+
+- 14.) `Safety First; Let Pleasures Come Later <{filename}dhamma-talks-by-mogok-sayadaw/pt15-14-safety-first-let-pleasures-come-later%zh.rst>`_ (1962-05-22 and 23)
+
+- 15.) `With Corpses Piling Up <{filename}dhamma-talks-by-mogok-sayadaw/pt15-15-with-corpses-piling-up%zh.rst>`_ (1962-05-26)
+
+- 16.) `More Fearful Than Five Heavy Kammas <{filename}dhamma-talks-by-mogok-sayadaw/pt15-16-more-fearful-than-five-heavy-kammas%zh.rst>`_ (1962-05-27 and 28)
+
+- 17.) `Knowing Dhamma is Knowing the Buddha <{filename}dhamma-talks-by-mogok-sayadaw/pt15-17-knowing-dhamma-is-knowing-the-buddha%zh.rst>`_ (1962-05-30 and 31)
+
+- 18.) `Happy with the Oppressive Khandha <{filename}dhamma-talks-by-mogok-sayadaw/pt15-18-happy-with-the-oppressive-khandha%zh.rst>`_ (1962-06-05 and 06)
+
+- 19.) `The Lost of Knowledge <{filename}dhamma-talks-by-mogok-sayadaw/pt15-19-the-lost-of-knowledge%zh.rst>`_ (1962-06-07)
+
+- 20.) `Don’t Waste Your Times <{filename}dhamma-talks-by-mogok-sayadaw/pt15-20-dont-waste-your-times%zh.rst>`_ (1962-06-09)
+
+- 21.) `The Existence of Nibbāna / Diṭṭhi and Taṇhā <{filename}dhamma-talks-by-mogok-sayadaw/pt15-21-the-existence-of-nibbana-ditthi-and-tanha%zh.rst>`_ (1962-06-24 to 26)
+
+- 22.) `Vipassanā Is Easy; Don’t Let Your Khandhas Consort with Taṇhā <{filename}dhamma-talks-by-mogok-sayadaw/pt15-22-vipassana-is-easy-dont-let-your-khandhas-consort-with-tanha%zh.rst>`_ (1962-07-09)
+
+- 23.) `Why Asking to Discern Anicca? <{filename}dhamma-talks-by-mogok-sayadaw/pt15-23-why-asking-to-discern-anicca%zh.rst>`_ (1962-07-09)
+
+- 24.) `Humans Lust for Taṇhā, Nandi, Rāga <{filename}dhamma-talks-by-mogok-sayadaw/pt15-24-humans-lust-for-tanha-nandiraga%zh.rst>`_ (1962-07-07)
+
+- 25.) `A Life with Avijjā and Saṅkhāra / Living with Small and Big Dukkhas <{filename}dhamma-talks-by-mogok-sayadaw/pt15-25-a-life-with-avijja-and-sankhara-living-with-small-and-big-dukkhas%zh.rst>`_ (1962-07-16)
+
+- 26.) `The Great Fault of Heedlessness <{filename}dhamma-talks-by-mogok-sayadaw/pt15-26-the-great-fault-of-heedlessness%zh.rst>`_ (1962-08-15)
+
+- 27.) `No Free Times is Bhāvanā <{filename}dhamma-talks-by-mogok-sayadaw/pt15-27-no-free-times-is-bhavana%zh.rst>`_ (1962-09-01)
+
+- 28.) `The Meaning of Saṁsāra <{filename}dhamma-talks-by-mogok-sayadaw/pt15-28-meaning-of-samsara%zh.rst>`_ (1962-09-04)
+
+- 29.) `Why Not See Nibbāna? <{filename}dhamma-talks-by-mogok-sayadaw/pt15-29-why-not-see-nibbana%zh.rst>`_ (1962-09-10)
+
+- 30.) `Dukkha Sacca and Dukkha Vedanā <{filename}dhamma-talks-by-mogok-sayadaw/pt15-30-dukkha-sacca-and-dukkha-vedana%zh.rst>`_ (1962-09-14)
+
+- 31.) `Too Crazy <{filename}dhamma-talks-by-mogok-sayadaw/pt15-31-too-crazy%zh.rst>`_ (1962-09-14)
+
+- 32.) `Crushing by Ageing and Death <{filename}dhamma-talks-by-mogok-sayadaw/pt15-32-crushing-by-ageing-and-death%zh.rst>`_ (1962-09-15)
+
+- 33.) `The Real Father and Mother <{filename}dhamma-talks-by-mogok-sayadaw/pt15-33-real-father-and-mother%zh.rst>`_ (1962-09-21)
+
+- 34.) `A Tame Mind and Untame Mind <{filename}dhamma-talks-by-mogok-sayadaw/pt15-34-a-tame-mind-and-untame-mind%zh.rst>`_ (1962-09-29 and 30)
+
+- 35.) `A Short Visit to Human Realm <{filename}dhamma-talks-by-mogok-sayadaw/pt15-35-a-short-visit-to-human-realm%zh.rst>`_ (1962-10-02)
+
+- 36.) `The Eyes by Mother and Teacher <{filename}dhamma-talks-by-mogok-sayadaw/pt15-36-eyes-by-mother-and-teacher%zh.rst>`_ (1962-10-02)
+
+- 37.) `Leading by Wisdom <{filename}dhamma-talks-by-mogok-sayadaw/pt15-37-leading-by-wisdom%zh.rst>`_ (1962-10-03)
+
+- 38.) `Wrong Views on Nibbāna <{filename}dhamma-talks-by-mogok-sayadaw/pt15-38-wrong-views-on-nibbana%zh.rst>`_ (1962-10-07)
+
+- 39.) `Bitten by Dogs <{filename}dhamma-talks-by-mogok-sayadaw/pt15-39-bitten-by-dogs%zh.rst>`_ (1962-10-07)
+
+- 40.) `The Great Benefit of Anicca <{filename}dhamma-talks-by-mogok-sayadaw/pt15-40-great-benefit-of-anicca%zh.rst>`_ (1962-10-13)
+
+- 41.) `The Crooked Dhamma and the Straight Dhamma <{filename}dhamma-talks-by-mogok-sayadaw/pt15-41-crooked-dhamma-and-the-straight-dhamma%zh.rst>`_ (1962-10-01)
+
+- 42.) `Khandha Train and Life Stations <{filename}dhamma-talks-by-mogok-sayadaw/pt15-42-khandha-train-and-life-stations%zh.rst>`_ (1960-12-02 and 03)
+
+- 43.) `The Buddha’s View / Human’s Fires <{filename}dhamma-talks-by-mogok-sayadaw/pt15-43-buddhas-view-humans-fires%zh.rst>`_ (1960-12-05)
+
+_`Part 16` 
+
+(under construction!)
+
+------
+
 - `About the translator <{filename}dhamma-talks-by-mogok-sayadaw/dhamma-talks-by-mogok-sayadaw-about-the-translator%zh.rst>`__
 
 _`For printing` full text of "Dhamma Talks by Mogok Sayadaw":
@@ -1140,6 +1314,7 @@ Right Samādhi and Right Insight
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  06-10 add Part 14 and Part 15
   03-23 rev. moving to identical repo; old: 
   2024-03-23 rev. raw-rst test for moving to identical dir; old: {static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-introduction.mp3
   08-23 rev. 
