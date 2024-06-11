@@ -3,7 +3,7 @@ The Four Levels in Practice (Dhamma Talks by Sayadaw U Ukkaṭṭha)
 ===================================================================
 
 :date: 2022-02-13
-:modified: 2022-07-20
+:modified: 2024-06-11
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Two Sides of A Coin
 :category: path of nirvana
 :summary: The Four Levels in Practice (Dhamma Talks by Sayadaw U Ukkaṭṭha)
@@ -14,11 +14,9 @@ I have traveled to many places to teach Dhamma, such places as Rangoon, Mandalay
 
 (With my experience in Thailand, in every uposatha day there were more women than men coming to our place for the whole day and night practice). 
 
-[More women than men: 
+[More women than men: ]
 
-]
-
-It’s very rare to know anyone who wants Nibbāna. Why is that? There is no mind and body in Nibbāna. There are no pork, chicken and beef curies to eat and no ice cream there. Furthermore, there are no diamond earrings to wear, no diamond necklace and no bracelet to wear, etc. Therefore, they have no desire for Nibbāna. They also heard about that there is no mind and body and no impermanence. They do not know about feeling (vedanā), so they are happy with vedanā. Nibbāna is quite a happiness, only someone arrives there know about it. It’s very rare to see someone who desires for Nibbāna. Humans, deities (devata) and Brahma gods also don’t want it. Brahma gods are taking pleasure in absorption (Jhāna) direct knowledge (abhiññā) and with desire of form (rūpa-taṇhā). Devatas are on the beauty of physical form, and humans are taking pleasure in sensual objects of defilement and clinging to them. Nuns and monks are also not wanting it (i.e., Nibbāna). Because all of them don’t know dukkha (sufferings). They take enjoyment in the feelings of pleasant and unpleasant (sukha, dukkha vedanā). They don’t know about vedanā (feeling). With the six senses of doors, they enjoy the five cords of sensual pleasure. These are the objects (ārammaṇas) will send them to painful existences (apāyas). Why can they enjoy these things? They don’t know about sukha and dukkha vedanās and don’t know cause and effect dhammas. If they know about it, they will be afraid. If they know with the enjoyment will fall into "painful existence", they will become afraid. ??) Mind and body will stop by knowing cause and effect. 
+It’s very rare to know anyone who wants Nibbāna. Why is that? There is no mind and body in Nibbāna. There are no pork, chicken and beef curries to eat and no ice cream there. Furthermore, there are no diamond earrings to wear, no diamond necklace and no bracelet to wear, etc. Therefore, they have no desire for Nibbāna. They also heard about that there is no mind and body and no impermanence. They do not know about feeling (vedanā), so they are happy with vedanā. Nibbāna is quite a happiness, only someone arrives there know about it. It’s very rare to see someone who desires for Nibbāna. Humans, deities (devata) and Brahma gods also don’t want it. Brahma gods are taking pleasure in absorption (Jhāna) direct knowledge (abhiññā) and with desire of form (rūpa-taṇhā). Devatas are on the beauty of physical form, and humans are taking pleasure in sensual objects of defilement and clinging to them. Nuns and monks are also not wanting it (i.e., Nibbāna). Because all of them don’t know dukkha (sufferings). They take enjoyment in the feelings of pleasant and unpleasant (sukha, dukkha vedanā). They don’t know about vedanā (feeling). With the six senses of doors, they enjoy the five cords of sensual pleasure. These are the objects (ārammaṇas) will send them to painful existences (apāyas). Why can they enjoy these things? They don’t know about sukha and dukkha vedanās and don’t know cause and effect dhammas. If they know about it, they will be afraid. If they know with the enjoyment will fall into "painful existence", they will become afraid. ??) Mind and body will stop by knowing cause and effect. 
 
 The result of mind and body will stop by destroying the cause (i.e., by discerning of anicca). 
 
@@ -90,7 +88,7 @@ Thae Inn Gu tradition don’t talk much about insight knowledges only how the mi
 
 ------
 
-revised on 2022-07-20
+revised on 2024-06-11
 
 ------
 
@@ -105,6 +103,7 @@ revised on 2022-07-20
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2024-06-11 rev. proofread by bhante
   07-20 rev. proofread by bhante
   07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   03-29 add "More women than men:" (suspended)

@@ -3,7 +3,7 @@ From the Beginning to the End (The Way From Sotāpanna to Arahant, Dhamma Talks 
 ========================================================================================================
 
 :date: 2022-02-13
-:modified: 2022-08-05
+:modified: 2024-06-11
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Two Sides of A Coin
 :category: path of nirvana
 :summary: From the Beginning to the End (The Way From Sotāpanna to Arahant, Dhamma Talks by Sayadaw U Ukkaṭṭha)
@@ -70,11 +70,11 @@ Noble beings do not fear death, for they see and know their coming and going. I 
 
 The minds not yet arise are—the mind wants to see, wants to eat, etc. and this is contemplating the not yet arising mind. These are wanting desirous minds—the minds of latent defilements. This is contemplation of the minds—cittānupassanā. Non-returner contemplates the not yet arising latent defilements. This is killing the latent tendency (anusaya) and not let them arise. Now people (scholars) are arguing according to the books (suttas and commentaries). They are not really knowing it (This point reminds us not to argue with practices which we really not experience directly). The mind is inclining towards these refined particles, and enjoy in it. The mind inclines toward it, seeing it and experiencing it. Therefore, D.A process is turning on the eye door. You can’t let the mind be itself, with not seeing only it will not incline, and not inclining will not experience it. This is let the mind stops by itself. There is nothing to be called for that and not giving names to it, because all the concepts paññatti are falling away. This is not the Dhamma which can be seen by ordinary men, ordinary deities (devatas) and ordinary brahmā-gods. Only practicing of insight yogis can see it, this is the Dhamma to Nibbāna. This is contemplation on the refined form (rūpa) and it becomes the faculty of wisdom (paññindriya). It’s arriving at the top of insight (vipassanā) and contemplating on the refined mind and form. In looking for the way out, I have to contemplate again on the external. The seeing nature, the experiencing nature, etc. all the five khandhas are rising and falling away. Contemplate them with the three universal characteristics of anicca, dukkha and anatta and this also not free from it and contemplate again on the mind. What it looks like is—as the simile of the sea crossing ship and the bird. The ship was in the middle of the water and the bird on the ship mast went out and looking for the seashore. When it did not find it and returned to the ship mast. The bird was perching on the ship mast is like contemplating of the internal anusaya—latent defilement of the desire or wanting mind. The bird went out and looking for the seashore is like contemplating impermanence of the mind and form with the three characteristics which arising from external āyatana—sense bases. 
 
-From the contemplation of mind (cittānupassanā) let us contemplate dhammānupassanā (contemplation of dhamma). When contemplate again, the internal and the wanting or desire minds are not there anymore. Now we are closing to the seashore. When contemplate again on the seeing, hearing, smelling, etc. minds and from (rūpa)-the non-existing anicca, dukkha and anatta are concepts (saññā) or perceptions. We are contemplating of non-existing things with saññā—concepts. We are not stopping at the real existence of just seeing, just hearing, etc. and clinging to the saññā-concepts. Anicca, dukkha and anatta saññās are fallen away by knowing this and arriving at the shore. And them the Bird (yogi) will never come back again (totally free forever). I am not contemplating the phenomena which arise from the sense objects ārammaṇa or aroms) only at just seeing, just hearing, etc. and nothing is there just sabhāva phenomena, and it becomes zero (saññā). This is dhammānupassanā (contemplation on dhammas). I have no births anymore and nothing have to do and free from the three bhūmis (sensual realm, fine material jhānic-gods and formless jhānic-gods).
+From the contemplation of mind (cittānupassanā) let us contemplate dhammānupassanā (contemplation of dhamma). When contemplate again, the internal and the wanting or desire minds are not there anymore. Now we are closing to the seashore. When contemplate again on the seeing, hearing, smelling, etc. minds and from (rūpa)-the non-existing anicca, dukkha and anatta are concepts (saññā) or perceptions. We are contemplating of non-existing things with saññā—concepts. We are not stopping at the real existence of just seeing, just hearing, etc. and clinging to the saññā-concepts. Anicca, dukkha and anatta saññās are fallen away by knowing this and arriving at the shore. And them the Bird (yogi) will never come back again (totally free forever). I am not contemplating the phenomena which arise from the sense objects ārammaṇa or aroms) only at just seeing, just hearing, etc. and nothing is there just sabhāva phenomena, and it becomes zero (suññā). This is dhammānupassanā (contemplation on dhammas). I have no births anymore and nothing have to do and free from the three bhūmis (sensual realm, fine material jhānic-gods and formless jhānic-gods).
 
 ------
 
-revised on 2022-08-05
+revised on 2024-06-11
 
 ------
 
@@ -89,5 +89,6 @@ revised on 2022-08-05
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2024-06-11 rev. proofread by bhante
   08-05 rev. proofread by bhante
   2022-02-13 create rst

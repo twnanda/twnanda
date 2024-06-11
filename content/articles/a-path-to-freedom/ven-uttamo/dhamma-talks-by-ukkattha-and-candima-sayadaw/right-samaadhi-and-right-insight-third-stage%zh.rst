@@ -3,7 +3,7 @@ The Third Stage of Purification of The Mind (Right Samādhi and Right Insight)
 =================================================================================
 
 :date: 2023-07-20
-:modified: 2023-07-20
+:modified: 2024-06-11
 :tags: Bhikkhu Uttamo, Sayadaw U Candima, Right Samādhi, Right Insight, cittavisuddhi, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: The Third Stage of Purification of The Mind [Right Samādhi and Right Insight]
@@ -413,7 +413,7 @@ The contemplative mind is able to discern the paramatā objects of the main caus
 
 _`The existence of the three worlds`
 
-After contemplation of the mind objects related to the past and future of the five sense objects (i.e., eye, car, nose...) the following knowledge arises to Mr. Brown. Even though the mind consciousness cannot go out from the mind-door (manodvāra) or except the manodvāra cannot incline toward other doors, it can pay attention to any desire object and clinging object. He can investigate and experience directly the nature of the mind and its characteristics and wondrous nature, that his insight knowledge of non-self nature becomes more clear and able to make his own decision on it. Therefore, he understands that if there is no mind and there will be no world (loka), and if loka exists, it depends on the decision of the mind.
+After contemplation of the mind objects related to the past and future of the five sense objects (i.e., eye, ear, nose...) the following knowledge arises to Mr. Brown. Even though the mind consciousness cannot go out from the mind-door (manodvāra) or except the manodvāra cannot incline toward other doors, it can pay attention to any desire object and clinging object. He can investigate and experience directly the nature of the mind and its characteristics and wondrous nature, that his insight knowledge of non-self nature becomes more clear and able to make his own decision on it. Therefore, he understands that if there is no mind and there will be no world (loka), and if loka exists, it depends on the decision of the mind.
 
 **Note**: An arahant takes the object of Nibbāna, even though he has the mind not clinging to it as the world (loka). He just stops at seeing, hearing, just stops at knowing, etc. that liberate from the concept of loka. 
 
@@ -690,4 +690,5 @@ revised on 2023-07-20
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2024-06-11 rev. proofread by bhante
   2023-07-20 create rst
