@@ -3,12 +3,12 @@ Extinguish Your Hell Fire
 ==========================================
 
 :date: 2024-06-10
-:modified: 2024-06-10
+:modified: 2024-07-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Extinguish Your Hell Fire (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -16,7 +16,7 @@ Dhamma Talks by Mogok Sayadaw; 26th to 27th April 1962
 
 [In the beginning, the explanation was about the five khandhas.] Five khandhas arise by taṇhā-chanda – craving and desire. Someone who clings to the khandhas becomes identified with clinging khandhas (upādānakkhandhas), while without clinging, they are merely khandhas. There are many kinds of khandha according to the desire of beings, and they are not created by anyone (for example, human khandhas, deva khandhas, etc.). Material form (rūpa) arises from the four great elements, mind (nāma) from contact (phassa), and consciousness (viññāṇa) from mind and form (nāma-rūpa). How do we prevent craving, conceit, and wrong view from arising? You have to contemplate the five khandhas as follows: 'This is not mine, this I am not, this is not my self.' Then, all of them become non-self, as I am explaining from the text. In real contemplation, you contemplate only one of the four satipaṭṭhānas. The Buddha asks us to contemplate in this way. One monk thought, 'If all the five khandhas are unreliable, what can I rely on?' Lacking wisdom, covered in ignorance, and having strong craving, he looked for something reliable. Thus, he chose to rely on kamma, making it 'mine,' which became a wrong view. Believing kamma as not perishing, that kamma becomes self (atta). Every Buddhist who had not encountered a good teacher previously relied on kamma, believing it does not perish. This is kammavadi sassatadiṭṭhi – a belief that holds a permanent wrong view on kamma. Kamma is like father and mother, and beings have to suffer according to its arrangement. If it decides you should live, you live; if it decides you should die, you die. This is akin to the faith in God, where He determines everything for you. Both are considered wrong views.
 
-The Buddha teaches Dhamma in two ways, making it easy to see and understand. He taught with similes, analogies, etc. (e.g., Kamma follows behind like a shadow; these are conceptual dhammas). The other way is directly through suññatā-dhammas (emptiness of dhamma or paramatā-dhammas). Believing in kamma and its results cannot dispel diṭṭhi (self-view), as discussed in these Pāli textbooks. Then, do the kammas that have been done become defunct? This is easy to answer. During the performance of kamma, mind and form exist. At death, also new mind and form arise. The mind and form of this life do not follow into the next life. Until after the attainment of Nibbāna, all the kammas will continue to yield results (i.e., for the parishioners of arahants). Believing that the mind and form here follow to there is sassata-diṭṭhi.
+The Buddha teaches Dhamma in two ways, making it easy to see and understand. He taught with similes, analogies, etc. (e.g., Kamma follows behind like a shadow; these are conceptual dhammas). The other way is directly through suññatā-dhammas (emptiness of dhamma or paramatā-dhammas). Believing in kamma and its results cannot dispel diṭṭhi (self-view), as discussed in these Pāli textbooks. Then, do the kammas that have been done become defunct? This is easy to answer. During the performance of kamma, mind and form exist. At death, also new mind and form arise. The mind and form of this life do not follow into the next life. Until after the attainment of Nibbāna, all the kammas will continue to yield results. Believing that the mind and form here follow to there is sassata-diṭṭhi.
 
 If you take it that the mind and form here do not follow there, that also is uccheda-diṭṭhi. The same kind of mind and form that arise there is called giving the result (Sayadaw Dr. Nanda Malarbhivamsa gives the example of the internet being ON LINE). The Buddha continued the talk with Q and A to dispel diṭṭhi, and all the monks became arahants.
 
@@ -28,7 +28,7 @@ Therefore, you can extinguish the hell fire and keep away the hell cauldrons fro
 
 ------
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -47,4 +47,5 @@ revised on 2024-06-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-09 proofread by bhante Uttamo
   2024-06-10 create rst, proofread by bhante Uttamo

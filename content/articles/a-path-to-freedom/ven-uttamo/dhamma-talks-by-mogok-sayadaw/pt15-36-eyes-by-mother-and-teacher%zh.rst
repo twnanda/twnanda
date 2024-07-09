@@ -3,12 +3,12 @@ The Eyes by Mother and Teacher
 ==================================
 
 :date: 2024-06-10
-:modified: 2024-06-10
+:modified: 2024-07-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Eyes by Mother and Teacher (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -28,11 +28,15 @@ I’ll tell you about the benefit of it. Before, you didn’t know it, following
 
 The mother can give you the eyes of sīla. The teacher can give you the wisdom-eyes. Isn't that quite different? Only with wisdom can one go to Nibbāna, and you have to rely on it. It can exterminate the watery root of saṁsāra. In this way, it’s joyful to die, with the cessation of samudaya and the ending of dukkha. The Buddha teaches that if you want to think, then think of it as dukkha sacca (from Saccasaṁyutta). By thinking of whatever is arising, you close the doors of apāyas (i.e., follow with magga). If you lag in your thinking, the doors to apāya open (i.e., man follows thinking). Which impacts you more—opening the doors or closing the doors to apāya? You attain magga if you are capable of thinking. Being unable to think leads to dukkha; therefore, the 4 apāyas become our homes and fields. I’ll relate a short story for you. In the Buddha’s time, Vajirā Bhikkhuni, after going on alms round in Sāvatthī, later went to a cemetery for the day’s abiding. Then Māra, the Evil One, desiring to arouse fear and terror in her, wanted to disrupt her day’s abiding and approached her with questions: "By whom has this being been created? Where has the being arisen? Where does the being cease?" He asked all these useless questions. Only dukkha sacca exists and there is no living being. Māra approached her regarding living beings. Vajirā recognized him as Māra and gave the answer, "There are no living beings; why do you come and ask me?" Māra was questioning with the wrong view. Only dukkha sacca exists. (from Bhikkhunisaṁyutta).
 
-You must remember that whatever arises in the khandha is dukkha arising. The momentary present is also dukkha, and so is vanishing. Nibbāna is near; why don’t you find it? Because you don’t know how to remove dukkha. Note: There are two coverings on Nibbāna—the first is hindrances, and the second is dukkha. If you contemplate by discerning anicca, its disenchantment, and the desire for its ending, then the cycles of arising and falling come to an end. Do not merely open your eyes and look; the khandhas (five khandhas) disappear under Knowledge. What remains with the knowledge? The contemplative mind or ñāṇa stays with the extinction of dukkha (i.e., Nibbāna). Extinction at the place of dukkha is Nibbāna. This knowing is path knowledge. It was like a movie. The images that appear on the movie screen are like the arising of dukkhas. When the movie ends and the images cease, the white screen appears. This is like Nibbāna (This is a metaphorical term and should not be taken literally because Nibbāna is a kind of Emptiness). Knowing or seeing is magga ñāṇa.
+You must remember that whatever arises in the khandha is dukkha arising. The momentary present is also dukkha, and so is vanishing. Nibbāna is near; why don’t you find it? Because you don’t know how to remove dukkha. 
+
+[Note: There are two coverings on Nibbāna—the first is hindrances, and the second is dukkha.]
+
+If you contemplate by discerning anicca, its disenchantment, and the desire for its ending, then the cycles of arising and falling come to an end. Do not merely open your eyes and look; the khandhas (five khandhas) disappear under Knowledge. What remains with the knowledge? The contemplative mind or ñāṇa stays with the extinction of dukkha (i.e., Nibbāna). Extinction at the place of dukkha is Nibbāna. This knowing is path knowledge. It was like a movie. The images that appear on the movie screen are like the arising of dukkhas. When the movie ends and the images cease, the white screen appears. This is like Nibbāna (This is a metaphorical term and should not be taken literally because Nibbāna is a kind of Emptiness). Knowing or seeing is magga ñāṇa.
 
 ------
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -51,4 +55,5 @@ revised on 2024-06-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-09 proofread by bhante Uttamo
   2024-06-10 create rst, proofread by bhante Uttamo

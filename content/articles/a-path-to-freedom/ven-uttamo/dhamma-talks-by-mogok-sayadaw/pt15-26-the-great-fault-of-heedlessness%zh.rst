@@ -3,12 +3,12 @@ The Great Fault of Heedlessness
 ==================================
 
 :date: 2024-06-10
-:modified: 2024-06-10
+:modified: 2024-07-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Great Fault of Heedlessness (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -29,7 +29,7 @@ Note on King Yama
 
 Most God-centered religions also mention hell. Some western scholars do not interpret it literally as mentioned in the suttas and have their own interpretations. The Pāli word for hell is niraya – devoid of any happiness and pleasure. So most human beings don’t like it. Even though they don’t like it and can’t accept it, most of their defilements and actions lead to that direction. Dr. Nandamalarbhivamsa’s talk on the Desire of King Yama mentions that when he was young he read a Burmese book called – The Buddha Doctrine does not accept 31 realms of existence. The Ven. said it was not the Buddha but he himself who did not accept it. In the same way, some western scholars interpret some of the Buddha’s teachings as mythology, mental factors of psychology, etc. because it’s out of their knowledge and experiences. There are many things in nature humans can’t know directly with their defiled minds or with the six senses of the door.
 
-The Buddha dhamma is not a blind faith to come and believe in. Everyone can prove it with practice but it is not easy to achieve with ordinary effort and faith. With the Kanni meditation system, some yogis could experience some realms – such as the Tāvatiṃsa Heaven, rūpa-brahma realm, and nāga realm to pay respect to some of the Buddha’s relics there. In Tāvatiṃsa Heaven is the Cūḷāmaṇi Cetiya, enshrined with the bodhisatta’s hair and one of the eye teeth, in the Brahma Realm is the Dussa Cetiya enshrined with the bodhisatta’s clothes and shoes, and in the Nāga Realm of Bhogavatī, King of the Nāga enshrined one of the Buddha’s eye teeth with red, green, golden, pearl, and clear crystal colors.
+The Buddha dhamma is not a blind faith to come and believe in. Everyone can prove it with practice but it is not easy to achieve with ordinary effort and faith. With the Kanni meditation system, some yogis could experience some realms – such as the Tāvatiṃsa Heaven, rūpa-brahma realm, and nāga realm to pay respect to some of the Buddha’s relics there. In Tāvatiṃsa Heaven is the Cūḷāmaṇi Cetiya, enshrined with the bodhisatta’s hair and one of the eye teeth, in the Brahma Realm is the Dussa Cetiya enshrined with the bodhisatta’s clothes and shoes, and in the Nāga Realm of Bhogavatī, King of the Nāga enshrined one of the Buddha’s eye teeth with red, green, golden, pearl, and clear crystal-colored relics. The existence of the Buddha’s sarīras also was mentioned in the commentary of “The Last days of the Buddha”. The yogis’ experiences of the Buddha’s relics in these places are also met with the commentary.
 
 There are two books recording yogis’ experiences with the light nimitta but no mention of hell (niraya). Because Mye-zin Sayadaw did not allow them to see everything, only allowing them to see the cetiyas and the Buddha’s relics to inspire their minds on the Buddha dhamma. 
 
@@ -45,7 +45,7 @@ Humans who don’t understand and appreciate Dukkha and its causes will never so
 
 ------
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -64,4 +64,5 @@ revised on 2024-06-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-09 proofread by bhante Uttamo
   2024-06-10 create rst, proofread by bhante Uttamo

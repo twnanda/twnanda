@@ -3,12 +3,12 @@ Knowing and Seeing
 ==========================================
 
 :date: 2024-03-27
-:modified: 2024-06-09
+:modified: 2024-07-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Knowing and Seeing (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-09
+revised on 2024-07-09
 
 ------
 
@@ -22,7 +22,7 @@ If I don’t discuss this topic, what will happen to vipassanā practitioners? T
 
 You have to note it carefully. This is killing of diṭṭhi at both sides. Insight with no diṭṭhi falls away is useless vipassanā. The Buddha was very worry about of diṭṭhi not fallen away as an important matter. Some say they are contemplating it but don’t see it. It seems the contemplating dhamma is permanent. Contemplate anicca with saṅkhāra. This kind of Dhamma is quite difficult. It’s also quite right. If not explain them, at object (ārammaṇa) is anicca and the contemplating mind (ārammaṇika) is nicca. (i.e., sassata view. If it’s like this, even with full effort you can’t achieve it (because there was evidence in the suttas related to some disciples of the Buddha).
 
-Saṅkhāre saṅkhāra vipassanti— saṅkhāra dhamma contemplates saṅkhāra dhamma. If not, it was like monk with sati, then it becomes sassata-diṭṭhi. According to him only other phenomena were died, but the mind viññāṇam not died. Sotāpatti magga cannot arise if diṭṭhi exists. When the object of contemplation is showing its anicca and the contemplative saṅkhāra mind contemplates it. Whatever pāramī you have if diṭṭhi resists will not achieve it. Sappurisa saṁsevo— approaching a good teacher (as mentioned by the Buddha) is a crucial factor for entering the stream.
+Saṅkhāre saṅkhāra vipassanti— saṅkhāra dhamma contemplates saṅkhāra dhamma. If not, it was like with the monk Sāti (Mahātaṇhā-saṅkhaya Sutta, MN 38), then it becomes sassata-diṭṭhi. According to him only other phenomena were died, but the mind viññāṇam not died. Sotāpatti magga cannot arise if diṭṭhi exists. When the object of contemplation is showing its anicca and the contemplative saṅkhāra mind contemplates it. Whatever pāramī you have if diṭṭhi resists will not achieve it. Sappurisa saṁsevo— approaching a good teacher (as mentioned by the Buddha) is a crucial factor for entering the stream.
 
 ------------------------
 
@@ -44,7 +44,7 @@ He was a short-lived Buddha that left behind many Dhamma for us (this is the dif
 
 ------
 
-revised on 2024-06-09
+revised on 2024-07-09
 
 ------
 
@@ -63,5 +63,6 @@ revised on 2024-06-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-09 rev. proofread by bhante Uttamo
   06-09 rev. proofread by bhante Uttamo
   2024-03-27 create rst

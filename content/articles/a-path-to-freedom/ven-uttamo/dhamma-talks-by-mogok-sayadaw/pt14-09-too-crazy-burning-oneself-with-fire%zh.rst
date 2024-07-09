@@ -3,7 +3,7 @@ Too Crazy / Burning Oneself with Fire
 ==========================================
 
 :date: 2024-03-27
-:modified: 2024-06-09
+:modified: 2024-07-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Too Crazy / Burning Oneself with Fire (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
@@ -34,13 +34,13 @@ You all have to do this under the power or arrangement of your master, taṇhā.
 
 [I don’t know in the Sutta this brahman would answer like this— maybe like this; “I am worried it’ll die out.” Fire worship is a reunion with the Creator. In the Buddhist sense it’s worshiping of kilesa fire, so it increases defilements. So, Sayadaw made a joke here. There was an interesting story about a fire worshiper. Near dying he saw a bonfire as a mind object, so he mentioned it to the brahmins beside his death-bed. They reminded him to incline his mind there which they took as Heaven. After the brahmin died fallen into Hell.]
 
-Dakar Kywe! Why are you busy everyday? “Yes, Venerable,” (not give the answer). Sayadaw gave the answer; “I am worrying that the fire will go out.” (Upāsaka U Kywe was a textile owner who was a regular Dhamma listener, an old man and sitting in front of Sayadaw). The majority of people will say any kind of merit is good. Merits with round existence are adding fire woods or fuels. Merits stopping the round of existence is extinguishing the fire. Who is burnt by adding fuels? It’ll burn itself. If all of you don’t have the chance to listen to this kind of talk, you will take it as a traditional job. (i.e., merits and demerits). You have pleasure on this khandha that searching for woods (i.e., affection on the khandha). If you  recognize it as a bonfire, you will not search for it. Therefore, contemplation with insight to know the khandha as bonfire. With the contemplation you’ll find out the khandha is burnt up and perishing with birth and death fires (jāti and maraṇa).
+Dakar Kywe! Why are you busy everyday? “Yes, Venerable,” (not give the answer). Sayadaw gave the answer; “I am worrying that the fire will go out.” (Upāsaka U Kywe was a textile owner who was a regular Dhamma listener, an old man and sitting in front of Sayadaw). The majority of people will say any kind of merit is good. Merits with round of existence are adding fire woods or fuels. Merits stopping the round of existence is extinguishing the fire. Who is burnt by adding fuels? It’ll burn yourself. If all of you don’t have the chance to listen to this kind of talk, you will take it as a traditional job. (i.e., merits and demerits). You have pleasure on this khandha that searching for woods (i.e., affection on the khandha). If you  recognize it as a bonfire, you will not search for it. Therefore, contemplation with insight to know the khandha as bonfire. With the contemplation you’ll find out the khandha is burnt up and perishing with birth and death fires (jāti and maraṇa).
 
 At last, being enlightened by contemplation and not wanting it; then one will find Nibbāna where both fuel and fire cease or are extinguished.
 
 ------
 
-revised on 2024-06-09
+revised on 2024-07-09
 
 ------
 
@@ -59,5 +59,6 @@ revised on 2024-06-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-09 rev. proofread by bhante Uttamo
   06-09 rev. proofread by bhante Uttamo
   2024-03-27 create rst

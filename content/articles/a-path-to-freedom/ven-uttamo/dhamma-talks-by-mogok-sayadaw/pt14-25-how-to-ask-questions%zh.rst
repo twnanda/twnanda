@@ -3,18 +3,18 @@ How to Ask Questions?
 ==========================================
 
 :date: 2024-03-27
-:modified: 2024-06-09
+:modified: 2024-07-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: How to Ask Questions? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-09
+revised on 2024-07-09
 
 ------
 
 Dhamma Talks by Mogok Sayadaw; 27th November 1961
 
-I have often said that if one does not understand D.A., one will have the wrong view and doubt. You have to remember this point until attaining the path and fruit knowledges (until becoming a stream enterer). Only after understanding it can diṭṭhi be purified. After this, after the contemplation of impermanence, suffering, and no-self (anicca, dukkha, and anatta), one can testify to the path knowledge. With the understanding of D.A. will understand the process of the khandha and its arising causes. We have to contemplate this khandha that if you have Diṭṭhi and Vicikicchā becoming fruitless. D.A. is one’s khandha arising cause and its process. The arising cause and its process are different. The arising cause is knowing the causes of dhamma which causes the present khandha to arise. Is it the arising process for man or woman? No! It isn't. If knowing viññāṇam → …… feeling (vedanā) (section 2) or the five khandhas is knowing the arising process. (i.e., knowing the dhammas of cause and effect). If you do not know and follow the contemplation (i.e., after dispelling the wrong way), Doubt and Wrong View will appear in the contemplation. These dhammas are forbidding path and fruit knowledges. They forbid the First Path. If not knowing the cause, dhamma has Doubt. If not knowing the result, dhamma has Wrong View. If you are clear about these things, then you have to make the decision that this life of Dukkha will be extinguished.
+I have often said that if one does not understand D.A., one will have the wrong view and doubt. You have to remember this point until attaining the path and fruit knowledges (until becoming a stream enterer). Only after understanding it can diṭṭhi be purified. After this, after the contemplation of impermanence, suffering, and non-self (anicca, dukkha, and anatta), one can testify to the path knowledge. With the understanding of D.A. will understand the process of the khandha and its arising causes. We have to contemplate this khandha that if you have Diṭṭhi and Vicikicchā becoming fruitless. D.A. is one’s khandha arising cause and its process. The arising cause and its process are different. The arising cause is knowing the causes of dhamma which causes the present khandha to arise. Is it the arising process for man or woman? No! It isn't. If knowing viññāṇam → …… feeling (vedanā) (section 2) or the five khandhas is knowing the arising process. (i.e., knowing the dhammas of cause and effect). If you do not know these things before and follow the contemplation, Doubt and Wrong View will appear in the contemplation. These dhammas are forbidding path and fruit knowledges. They forbid the First Path. If not knowing the cause, dhamma has Doubt. If not knowing the result, dhamma has Wrong View. If you are clear about these things, then you have to make the decision that this life of Dukkha will be extinguished.
 
 (Sayadaw talked about the questions and answers between Sāriputta and Mahā-Kassapa.) 
 
@@ -32,7 +32,7 @@ Vedanā paccaya taṇhā does not arise = feeling conditions craving does not ar
 
 ------
 
-revised on 2024-06-09
+revised on 2024-07-09
 
 ------
 
@@ -51,5 +51,6 @@ revised on 2024-06-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-09 rev. proofread by bhante Uttamo
   06-09 rev. proofread by bhante Uttamo
   2024-03-27 create rst

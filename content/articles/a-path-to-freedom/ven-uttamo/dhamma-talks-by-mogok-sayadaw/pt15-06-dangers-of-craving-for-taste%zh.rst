@@ -3,18 +3,20 @@ Dangers of Craving for Taste
 ==========================================
 
 :date: 2024-06-10
-:modified: 2024-06-10
+:modified: 2024-07-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Dangers of Craving for Taste (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
 Dhamma Talks by Mogok Sayadaw; 22nd April 1962
 
-Food for thought on dāna. U Aung Zan Wai – a retired politician and his group came to Mogok with Sayadaw and practiced meditation. They offered food to the monks and all the yogis there. He requested Sayadaw for an anumodana talk. Sayadaw reminded all of them how to make dāna properly and how to consume food. He said all should make merits to end dukkha (nibbāna) and not for sugatis and wealth in the future to come. All these worldly pleasures are Dukkha, even as we can see a lot of sufferings as human beings. Celestial and Brahma beings also have Dukkha. (See Subrahma Devata’s story). Sayadaw reminded and taught people how to consume food. He said the monks have to reflect on the four requisites before using them. Lay people should also do it. If they don’t know how to do it, at least they should spread metta and health for the donors’ benefits. Consuming in this way does not fall into Debts – to the donors. If consuming with greed, dissatisfaction, and discontentment (criticism of the dānas) or without sati in the process, in the future to come they have to repay the Debts with Khandhas.
+[Food for thought on dāna. U Aung Zan Wai – a retired politician and his group came to Mogok with Sayadaw and practiced meditation. They offered food to the monks and all the yogis there. He requested Sayadaw for an anumodana talk.] 
+
+Sayadaw reminded all of them how to make dāna properly and how to consume food. He said all should make merits to end dukkha (nibbāna) and not for sugatis and wealth in the future to come. All these worldly pleasures are Dukkha, even as we can see a lot of sufferings as human beings. Celestial and Brahma beings also have Dukkha. (See Subrahma Devata’s story). Sayadaw reminded and taught people how to consume food. He said the monks have to reflect on the four requisites before using them. Lay people should also do it. If they don’t know how to do it, at least they should spread metta and health for the donors’ benefits. Consuming in this way does not fall into Debts – to the donors. If consuming with greed, dissatisfaction, and discontentment (criticism of the dānas) or without sati in the process, in the future to come they have to repay the Debts with Khandhas.
 
 Another way is during the consuming process of using sati to observe the mind consciousness on the flavours and discern its nature. This is the consuming of food with the four noble truths (This way is explained in Saṁyutta). 
 
@@ -50,7 +52,7 @@ Later, at his mother’s arrangement, she sent a courtesan to seduce her son wit
 
 ------
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -69,4 +71,5 @@ revised on 2024-06-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-09 proofread by bhante Uttamo
   2024-06-10 create rst, proofread by bhante Uttamo

@@ -3,22 +3,22 @@ Dhamma is in the Khandha
 ==========================================
 
 :date: 2024-03-27
-:modified: 2024-06-09
+:modified: 2024-07-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Dhamma is in the Khandha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-09
+revised on 2024-07-09
 
 ------
 
 Dhamma Talks by Mogok Sayadaw; 5th October 1961
 
-Dhamma exists in you, so I am asking you to practice it. Four kinds of dhamma exist within the khandha. These are; black dhamma, white dhamma, black and white mixed dhamma and neither black nor white dhamma. People think that there are only bad and good dhammas. You have affection for this aggregate of feelings. Affection is craving (taṇhā). With the affection you’re working to feed and look after it. vedanā paccaya taṇhā paccaya pariyesanā (feeling → craving → seeking or working). You also have affection for the khandhas of son and daughter (children) seeking more for them. Because of seeking, it increases taṇhā. You’re busy every day for it and don't realize that this is black dhamma. For example, when you're going into the darkness at night and are bitten by a viper snake, you don't know what has bitten you. In this case, you all are bitten by Taṇhā and must go to Apāyas. The seeds in the banana kill the banana tree. Here taṇhā inside also is asking you for seeking and will send you apāyas. Taṇhā also has two kinds.   Taṇhā has affection to the khandha and taṇhā seeking to feed it.
+Dhamma exists in you, so I am asking you to practice it. Four kinds of dhamma exist within the khandha. These are; black dhamma, white dhamma, black and white mixed dhamma and neither black nor white dhamma. People think that there are only bad and good dhammas. You have affection for this aggregate of feelings. Affection is craving (taṇhā). With the affection you’re working to feed and look after it. Vedanā paccaya taṇhā paccaya pariyesanā (feeling → craving → seeking or working). You also have affection for the khandhas of son and daughter (children) seeking more for them. Because of seeking, it increases taṇhā. You’re busy every day for it and don't realize that this is black dhamma. For example, when you're going into the darkness at night and are bitten by a viper snake, you don't know what has bitten you. In this case, you all are bitten by Taṇhā and must go to Apāyas. The seeds in the banana kill the banana tree. Here taṇhā inside also is asking you for seeking and will send you apāyas. Taṇhā also has two kinds.   Taṇhā has affection to the khandha and taṇhā seeking to feed it.
 
 Pariyesanā → labho = Seeking → acquisition; people gain money and wealth (maybe even power in politics). After attainment of money (power) they are smiling. This is the smiling of Taṇhā. They can smile at the tasks of going to apāyas. (Sometimes Sayadaw’s remarks on human stupidity are humorous and profound) this is not the D.A. process of wandering in the whole of Saṁsāra, but the D.A. of family life.
 
-Lābha → vinisaya (vinissaya, vibhāvana or niyamo) = acquisition → ascertainment, which requires planning on how to use them. Making ascertainment with Diṭṭhi and Taṇhā or becoming of diṭṭhi / taṇhā (Sayadaw gave example of for wives and children. For nowadays humans for conflicts and wars, including trade wars, polluting the environments and nature, etc. up to international levels.) They are doing these things all the time. Do they consider these actions as the dhammas of dark demerits? (for some leaders, politicians, economists, etc. these are human progress.) This can be prevented by encountering a good teacher. (This shows the greatest importance of a Buddha and Dhamma Education). There are medicines if you are inflicted with wounds and diseases. There is rightness if there are mistakes. Don’t be afraid of ageing. Do not be afraid of ageing. You have to fear ignorance in the face of ageing because you’re developing of Taṇhā (In this case Buddhists are luckier than western counterparts).
+Lābha → vinisaya (vinissaya, vibhāvana or niyamo) = acquisition → ascertainment, which requires planning on how to use them. Making ascertainment with Diṭṭhi and Taṇhā or becoming of diṭṭhi / taṇhā (Sayadaw gave example of for wives and children. For nowadays humans for conflicts and wars, including trade wars, polluting the environments and nature, etc. up to international levels.) They are doing these things all the time. Do they consider these actions as the dhammas of dark demerits? (for some leaders, politicians, economists, etc. these are human progress.) This can be prevented by encountering a good teacher. (This shows the greatest importance of a Buddha and Dhamma Education). There are medicines if you are inflicted with wounds and diseases. There is rightness if there are mistakes. Don’t be afraid of ageing. You have to fear ignorance in the face of ageing because you’re developing of Taṇhā (In this case Buddhists are luckier than western counterparts).
 
 It's from the homes that you are going to apāyas. The khandhas are oppressing you until you arrive there. Khandha is Dukkha Sacca— the Truth of Suffering that oppresses someone who has it.
 
@@ -28,7 +28,7 @@ Chanda-rāgo→ upādāna (attachment) → ārakkha (possessiveness) → macchar
 
 ------
 
-revised on 2024-06-09
+revised on 2024-07-09
 
 ------
 
@@ -47,5 +47,6 @@ revised on 2024-06-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-09 rev. proofread by bhante Uttamo
   06-09 rev. proofread by bhante Uttamo
   2024-03-27 create rst

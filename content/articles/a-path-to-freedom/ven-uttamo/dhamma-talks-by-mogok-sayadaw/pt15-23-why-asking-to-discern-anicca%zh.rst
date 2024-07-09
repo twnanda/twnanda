@@ -3,12 +3,12 @@ Why Asking to Discern Anicca?
 =================================
 
 :date: 2024-06-10
-:modified: 2024-06-10
+:modified: 2024-07-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Why Asking to Discern Anicca? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -18,13 +18,13 @@ Not yet abandoned kilesa still arise for a stream enterer (sotāpanna). But his 
 
 The objects of contemplation are purejātapaccayo – pre-nascence conditions that have already arisen (no longer exist). The contemplating minds (ñāṇa) are pacchājātapaccayo – post-nascence conditions, arising later (two minds can’t arise at the same moment). This is not related to paṭṭhānanaya – the method of conditional relations. I am only providing the Pāli names. Originally, they occur as before and after (i.e., objects first arise, followed by contemplative minds as a secondary arising). It is important to note carefully that only when the preceding objects have ceased do the following minds (ñāṇa) arise. Naming mind and form (nāma and rūpa) merely helps you recognize the objects. The reality is that the object does not exist there (it has already passed away). If you ask again, "Is it considered the present moment?" If there is nothing intervening between them (i.e., between objects and ñāṇas), then it is the present moment. This fits into the practice of observing the dead with the living, as I explained yesterday (see the above talk – Vipassanā is Easy).
 
-You are unaware of your own death, thus you fear the later death. If you truly see your own death (the dead), you will not pray to them again (see later Buddhists). Seeing your own Dukkha as sacca ñāṇa – vipassanā knowledge. Sacca ñāṇas eradicate taṇhā, upādāna, and kamma. If a Buddha arises, he teaches this sacca ñāṇa. The kicca ñāṇa – functional knowledge, involves forms, feelings, mind, etc., abandoning their nature through change and decay (vipariṇāma lakkhaṇam), and you must discern their functional nature. Discerning their oppressive nature constitutes kicca ñāṇa.
+You are unaware of your own death, thus you fear the later death. If you truly see your own death (the dead), you will not pray to them again (see later Buddhists). Seeing your own Dukkha is sacca ñāṇa – vipassanā knowledge. Sacca ñāṇas eradicate taṇhā, upādāna, and kamma. If a Buddha arises, he teaches this sacca ñāṇa. The kicca ñāṇa – functional knowledge, involves forms, feelings, mind, etc., abandoning their nature through change and decay (vipariṇāma lakkhaṇam), and you must discern their functional nature. Discerning their oppressive nature constitutes kicca ñāṇa.
 
 If you thoroughly understand their oppressive nature and with a non-desiring mind, all of them cease. Knowing this, as you liberate from Dukkha (nissaraṇa), is kata ñāṇa. Then you become a stream enterer.
 
 ------
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -43,4 +43,5 @@ revised on 2024-06-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-09 proofread by bhante Uttamo
   2024-06-10 create rst, proofread by bhante Uttamo

@@ -3,12 +3,12 @@ The Buddha’s View / Human’s Fires
 ======================================
 
 :date: 2024-06-10
-:modified: 2024-06-10
+:modified: 2024-07-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Buddha’s View / Human’s Fires (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -57,7 +57,7 @@ Mahākaccāna gave two answers for these groups: (The two causes for their confl
 
 2. For religious people, it is because of adherence to lust for views, bondage to, fixation on, obsession by, and holding firmly to these views.
 
-There is also a very important sutta for human beings in the Dīgha Nikāya, the Sakkapañha Sutta, DN.21. Sakka, ruler of the gods, posed his first question to the Buddha. The question was – "Why do human beings (or other beings) wish to live with no hate, harming one another, hostile and malign, but in peace and happiness?"
+There is also a very important sutta for human beings in the Dīgha Nikāya, the Sakkapañha Sutta, DN.21. Sakka, ruler of the gods, posed his first question to the Buddha. The question was – "Why do human beings (or other beings) wish to live with no hate, harming one another, hostile and malign, but in peace and happiness, they yet live in hate, harming on another, hostile and malign?"
 
 The Buddha’s answer was – "It’s the bonds of jealousy and avarice (issā-macchariya). These are still related to the lust for sensual pleasures. This also leads to disputes and conflicts." 
 
@@ -65,7 +65,7 @@ Nowadays, these problems and sufferings are increasing in the 21st century from 
 
 ------
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -84,4 +84,5 @@ revised on 2024-06-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-09 proofread by bhante Uttamo
   2024-06-10 create rst, proofread by bhante Uttamo

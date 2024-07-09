@@ -3,12 +3,12 @@ Worldlings with Wrong Eyes and Defiled Minds
 ========================================================
 
 :date: 2024-03-27
-:modified: 2024-06-09
+:modified: 2024-07-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Worldlings with Wrong Eyes and Defiled Minds (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-09
+revised on 2024-07-09
 
 ------
 
@@ -45,13 +45,13 @@ Some people can even take another person's life over a disgusting body. It was l
 
 The human body is a very coarse form, but the obsession with it is sometimes quite extreme. They are not only craving and clinging to the opposite sex but also to the same sex, which is considered abnormal and unnatural. When human morals and virtues degenerate, unlawful lust and abnormal lust for the body form become extreme (mentioned in the Aggañña Sutta, DN 27).
 
-One of Ajahn Mun's senior disciples, Ajahn Lee Dharmadhara, reflected in his autobiography on what it would be like to have a family and then realized the Dukkha that would follow him. He gave up the plan to have a family life and decided to continue with his practice as a monk. The book “The Autobiography of Phra Ajaan Lee,” translated by Ajahn Thanissaro, is highly recommended.
+One of Ajahn Mun's senior disciples, Ajahn Lee Dharmadharo, reflected in his autobiography on what it would be like to have a family and then realized the Dukkha that would follow him. He gave up the plan to have a family life and decided to continue with his practice as a monk. The book “The Autobiography of Phra Ajaan Lee,” translated by Ajahn Thanissaro, is highly recommended.
 
 https://www.dhammatalks.org/Archive/Writings/Ebooks/TheAutobiographyofPhraAjaanLee_181215.pdf
 
 ------
 
-revised on 2024-06-09
+revised on 2024-07-09
 
 ------
 
@@ -70,5 +70,6 @@ revised on 2024-06-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-09 rev. proofread by bhante Uttamo
   06-09 rev. proofread by bhante Uttamo
   2024-03-27 create rst

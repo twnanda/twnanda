@@ -3,12 +3,12 @@ Khandha Train and Life Stations
 ===================================
 
 :date: 2024-06-10
-:modified: 2024-06-10
+:modified: 2024-07-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Khandha Train and Life Stations (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -30,11 +30,11 @@ How do you experience them? Ageing, sickness, and death do not come back again. 
 
 At the ending of Anatta → Anatta Nibbāna exists.
 
-Note: Nibbāna is Atta or Anatta? I have heard from a Forest Thai Ajahn that Nibbāna is neither Atta nor Anatta. It makes sense because there are no worldly designations for it. Some Buddhists, whose Diṭṭhi-Taṇhā are so strong, postulate Atta Nibbāna with a permanent Heaven for coming and going to save all beings, similar to Hindu Avatars. Additionally, some Buddhists interpret Suññatā as meaning nothing exists. Thus, the defilement of bhava-taṇhā was terrifying for worldlings. Thus, Nibbāna being anatta is especially relevant for these rāgūmmattas (rāga-ummattas) and mohūmmattakas who prefer the ways of drifting and sinking in saṁsāra with their Attas.
+Note: Nibbāna is Atta or Anatta? I have heard from a Forest Thai Ajahn that Nibbāna is neither Atta nor Anatta. It makes sense because there are no worldly designations for it. Some Buddhists, whose Diṭṭhi-Taṇhā are so strong, postulate Atta Nibbāna with a permanent Heaven for coming and going to save all beings, similar to Hindu Avatars. Additionally, some Buddhists interpret Suññatā as meaning nothing exists. Thus, the defilement of bhava-taṇhā was terrifying for worldlings. Thus, Nibbāna being anatta is especially relevant for these rāgūmmattakas (rāga-ummattakas) and mohūmmattakas who prefer the ways of drifting and sinking in saṁsāra with their Attas.
 
 ------
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -53,4 +53,5 @@ revised on 2024-06-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-09 proofread by bhante Uttamo
   2024-06-10 create rst, proofread by bhante Uttamo

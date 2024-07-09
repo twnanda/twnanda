@@ -3,12 +3,12 @@ On Ways of Undertaking Things
 ==========================================
 
 :date: 2024-06-10
-:modified: 2024-06-10
+:modified: 2024-07-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: On Ways of Undertaking Things (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -20,7 +20,7 @@ It seems to me that these two suttas are very important for today's human societ
 
 Sayadaw’s talk was not mentioned in details, which are in the Sutta. He only takes some of the points and helps people remember the important points.]
 
-People want happiness of body and mind but they don’t get it. What is the reason for that? It comes from wrong association. What they need is one thing and what they encounter is another thing. They are consorting with people who should not be consorted. They cultivate and follow things which should not be cultivated and followed. There are four kinds of persons related to it. These are:
+People want happiness of body and mind but they don’t get it. What is the reason for that? It comes from wrong association. What they need is one thing and what they encounter is another thing. They are consorting with people who should not be consorted. They cultivate and follow things which should not be cultivated and followed. There are four kinds of person related to it. These are:
 
 1. Someone who is painful in body and mind; speaks falsehoods and has wrong views (In the sutta it is mentioned – a person who does things which are painful in the present and for the future to come; in the sutta mentioned ten unwholesome dhammas. Here Sayadaw spoke only about falsehoods and wrong views.)
 
@@ -44,7 +44,7 @@ According to the Buddha, the four differences are moha (delusion) and paññā (
 
 ------
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -63,4 +63,5 @@ revised on 2024-06-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-09 proofread by bhante Uttamo
   2024-06-10 create rst, proofread by bhante Uttamo

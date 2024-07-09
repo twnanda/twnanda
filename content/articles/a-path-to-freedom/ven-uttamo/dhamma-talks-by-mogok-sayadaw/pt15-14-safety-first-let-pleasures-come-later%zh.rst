@@ -3,12 +3,12 @@ Safety First; Let Pleasures Come Later
 ================================================
 
 :date: 2024-06-10
-:modified: 2024-06-10
+:modified: 2024-07-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Safety First; Let Pleasures Come Later (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -18,7 +18,7 @@ Listening to a Dhamma talk is to understand the differences between paññāti a
 
 (Indulgence in worldly pleasures is like licking the honey on the blade of a razor, as mentioned by the Buddha. Sayadaw is warning his disciples about this point.) If you indulge in worldly pleasures and later fall into apāyas, it is like this analogy. (Sayadaw described the hell existences and the ghost world (petas) and gave instruction on cittānupassanā and anicca.) If you discern anicca, the hell seed falls off.
 
-You have reason to ask me when the contemplation of insight will end. For example, if you contemplate minds and see them as not minds but only as aniccas, then you are closer to the path of knowledge. If you're only seeing the minds, it's not yet complete. You have to see the vanishing of the phenomena which is anicca and keep this point in mind. Don't contemplate it as minds, feelings, etc., instead contemplate it as anicca, noting as anicca. (When the yogis discern anicca.) In this way, you attain Nibbāna in a short period. You need to ask me why that is? When the mind is sharp (at the time of discerning anicca) – Could it be possible for two minds to arise together? You see the non-existence of the arising minds even though you’re contemplating minds. Therefore, change the contemplative knowledge to anicca. Even though contemplating minds, only when you discern the non-existence of the minds does it become correct.
+You have reason to ask me when the contemplation of insight will end. For example, if you contemplate minds and see them as not minds but only as aniccas, then you are closer to the path of knowledge. If you're only seeing the minds, it's not yet complete. You have to see the vanishing of the phenomena which is anicca and keep this point in mind. Don't contemplate it as minds, feelings, etc., instead contemplate it as anicca, noting as anicca. (When the yogis discern anicca.) In this way, you attain Nibbāna in a short period. You need to ask me why that is? When the mind is sharp (at the time of discerning anicca) – could it be possible for two minds to arise together? You see the non-existence of the arising minds even though you’re contemplating minds. Therefore, change the contemplative knowledge to anicca. Even though contemplating minds, only when you discern the non-existence of the minds does it become correct.
 
 If you’re still seeing the minds, it’s still wrong because minds can’t arise together and become parallel. Knowledge of rises and falls means arising here and vanishing here (we have to reflect on this point carefully). The reality of seeing is the non-existence of the arising mind. Therefore, here contemplate as anicca, perceiving as anicca, knowing as anicca. During the time of contemplation do not let other mind states intervene. Between anicca and magga, don’t let other dhammas intervene. If you can contemplate in this way, it is certain to attain Nibbāna. The Buddha himself provides a guarantee in the sutta of the Aṅguttara Nikāya. The reason it takes a long time for you is that between anicca and the contemplating mind (i.e., magga), other minds intervene, so that the contemplative mind has to enter later. The vanishing of the arising dhamma is anicca, and knowing the vanishing is magga. If you can continue this process, you can even attain Dhamma within an hour.
 
@@ -96,7 +96,7 @@ The first is considered a noble search, and the second an ignoble search. For th
 
 ------
 
-revised on 2024-06-10
+revised on 2024-07-09
 
 ------
 
@@ -115,4 +115,5 @@ revised on 2024-06-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-09 proofread by bhante Uttamo
   2024-06-10 create rst, proofread by bhante Uttamo

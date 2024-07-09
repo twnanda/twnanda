@@ -3,12 +3,12 @@ The Five Rarities
 ========================================================
 
 :date: 2024-03-27
-:modified: 2024-06-09
+:modified: 2024-07-09
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Five Rarities (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-09
+revised on 2024-07-09
 
 ------
 
@@ -40,11 +40,13 @@ The khandha body is showing its anicca to you. If you don’t see anicca and ins
 
 This has nothing to do with pāramīs. We are not looking or observing it correctly. What will happen if it doesn't fit with it? Three kinds of D.A. process come in or kilesa comes in between them. Even the practitioner can’t get it and there is no need to talk about others. For example, on the body dukkha vedanā arises and you know it as dukkha vedanā and then pay attention to its vanishing. Perceiving and knowing it as dukkha vedanā and paying attention to its vanishing. If not like this, what happens to me? It becomes wrong perceiving. You have to contemplate with the right perception, knowing, and viewing. If your contemplation fits these three points you will get Dhamma before long. If not contemplated, it becomes zero. It’s not an empty zero. The zero which leads you to apāyas. Instead of practising accordingly, you’re practising incorrectly. Therefore, the Buddha was warning us as if hundred thousand humans die and after death no one is reborn in sugatis. Human beings have a desire to live in the world of rising and vanishing. They don’t like the non-arising and non-vanishing, this is referring to the middle way of Dhammānu dhamma paṭipatti.
 
-The Buddha mentioned—it’s rare to find someone who understands and repays the gratitude that is due. We should emphasize this as a main factor. We should practice and ensure our own safety first, and then think of others (Sayadaw gave the example of Sāriputta to his mom). You should take care of your own matters first, and then address the matters of others. The Buddha was reminding people, whether man or woman, whoever desires for Nibbāna must have this kind of spirit. (Some Buddhists make vows that are impossible to fulfill, such as "I will not attain Nibbāna until all sentient beings are liberated.") It was something like— "Only after all the oceanic water has been drunk by me and has become empty, then I would attain Nibbāna." This goes against the Buddha's teachings.
+The Buddha mentioned—it’s rare to find someone who understands and repays the gratitude that is due. We should emphasize this as a main factor. We should practice and ensure our own safety first, and then think of others (Sayadaw gave the example of Sāriputta to his mom). You should take care of your own matters first, and then address the matters of others. The Buddha was reminding people, whether man or woman, whoever desires for Nibbāna must have this kind of spirit. 
+
+[Some Buddhists make vows that are impossible to fulfill, such as "I will not attain Nibbāna until all sentient beings are liberated." It was something like— "Only after all the oceanic water has been drunk by me and has become empty, then I would attain Nibbāna." This goes against the Buddha's teachings.]
 
 ------
 
-revised on 2024-06-09
+revised on 2024-07-09
 
 ------
 
@@ -63,5 +65,6 @@ revised on 2024-06-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-09 rev. proofread by bhante Uttamo
   06-09 rev. proofread by bhante Uttamo
   2024-03-27 create rst
