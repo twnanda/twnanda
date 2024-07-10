@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2024-06-10
+:modified: 2024-07-10
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -764,7 +764,7 @@ _`Part 14` ( `content of Part 14 <{filename}dhamma-talks-by-mogok-sayadaw/pt14-c
 
 - 14.) `Noble Dhamma and Wrong Dhamma <{filename}dhamma-talks-by-mogok-sayadaw/pt14-14-noble-dhamma-and-wrong-dhamma%zh.rst>`_ (1961-10-09)
 
-- 15.) `Why No Realization? <{filename}dhamma-talks-by-mogok-sayadaw/pt14-15-why-no-realization%zh.rst>`_ (1961-10-10)
+- 15.) `Why No Realization?   <{filename}dhamma-talks-by-mogok-sayadaw/pt14-15-why-no-realization%zh.rst>`_ (1961-10-10)
 
 - 16.) `Every Buddhist Should Know <{filename}dhamma-talks-by-mogok-sayadaw/pt14-16-every-buddhist-should-know%zh.rst>`_ (1961-10-11)
 
@@ -899,7 +899,85 @@ _`Part 15` ( `content of Part 15 <{filename}dhamma-talks-by-mogok-sayadaw/pt15-c
 
 _`Part 16` 
 
-(under construction!)
+- 1.) `Right Perception, Knowing and Viewing <{filename}dhamma-talks-by-mogok-sayadaw/pt16-01-right-perception-knowing-and-viewing%zh.rst>`_ (1960-12-20)
+
+- 2.) `The Quickest Way to End Taṇhā <{filename}dhamma-talks-by-mogok-sayadaw/pt16-02-quickest-way-to-end-tanha%zh.rst>`_ (1960-12-22)
+
+- 3.) `The Importance of Spiritual Friend <{filename}dhamma-talks-by-mogok-sayadaw/pt16-03-importance-of-spiritual-friend%zh.rst>`_ (1961-01-17)
+
+- 4.) `Where Is Dukkha Coming from? <{filename}dhamma-talks-by-mogok-sayadaw/pt16-04-where-is-dukkha-coming-from%zh.rst>`_ (1961-05-28)
+
+- 5.) `The Greatest Enemy <{filename}dhamma-talks-by-mogok-sayadaw/pt16-05-greatest-enemy%zh.rst>`_ (1960-06-30)
+
+- 6.) `The Poisonous Tree <{filename}dhamma-talks-by-mogok-sayadaw/pt16-06-poisonous-tree%zh.rst>`_ (1960-07-05)
+
+- 7.) `Diṭṭhi And Apāyas <{filename}dhamma-talks-by-mogok-sayadaw/pt16-07-ditthi-and-apayas%zh.rst>`_ (1960-05-27, 28 and 06-02)
+
+- 8.) `The Paths of Action And Knowledge <{filename}dhamma-talks-by-mogok-sayadaw/pt16-08-paths-of-action-and-knowledge%zh.rst>`_ (1962-04-30 and 05-01)
+
+- 9.) `With Little Pleasure And Too Much Dukkha <{filename}dhamma-talks-by-mogok-sayadaw/pt16-09-with-little-pleasure-and-too-much-dukkha%zh.rst>`_ (1960-10-05)
+
+- 10.) `Deceiving by The Mind <{filename}dhamma-talks-by-mogok-sayadaw/pt16-10-deceiving-by-the-mind%zh.rst>`_ (1961-09-08)
+
+- 11.) `Contemplation of Mind <{filename}dhamma-talks-by-mogok-sayadaw/pt16-11-contemplation-of-mind%zh.rst>`_ (1961-10-11)
+
+- 12.) `Happy With Dukkha <{filename}dhamma-talks-by-mogok-sayadaw/pt16-12-happy-with-dukkha%zh.rst>`_ (1961-10-13)
+
+- 13.) `Differences Between Khandha And Nibbāna <{filename}dhamma-talks-by-mogok-sayadaw/pt16-13-differences-between-khandha-and-nibbana%zh.rst>`_ (no date)
+
+- 14.) `Making Decision with The Khandha <{filename}dhamma-talks-by-mogok-sayadaw/pt16-14-making-decision-with-the-khandha%zh.rst>`_ (no date)
+
+- 15.) `Not for Chanting But for Practice <{filename}dhamma-talks-by-mogok-sayadaw/pt16-15-not-for-chanting-but-for-practice%zh.rst>`_ (no date)
+
+- 16.) `Worthless And Worthy <{filename}dhamma-talks-by-mogok-sayadaw/pt16-16-worthless-and-worthy%zh.rst>`_ (no date)
+
+- 17.) `On the Hindrances <{filename}dhamma-talks-by-mogok-sayadaw/pt16-17-on-the-hindrances%zh.rst>`_ (no date)
+
+- 18.) `Making Kammas Becoming Fruitless <{filename}dhamma-talks-by-mogok-sayadaw/pt16-18-making-kammas-becoming-fruitless%zh.rst>`_ (1961-02-04)
+
+- 19.) `Waiting for Dangers <{filename}dhamma-talks-by-mogok-sayadaw/pt16-19-waiting-for-dangers%zh.rst>`_ (1961-02-25)
+
+- 20.) `The Importance of Saving Oneself <{filename}dhamma-talks-by-mogok-sayadaw/pt16-20-importance-of-saving-oneself%zh.rst>`_ (1961-07-28)
+
+- 21.) `Die with Wrong Views <{filename}dhamma-talks-by-mogok-sayadaw/pt16-21-die-with-wrong-views%zh.rst>`_ (1961-07-31)
+
+- 22.) `What Is in the Khandha? <{filename}dhamma-talks-by-mogok-sayadaw/pt16-22-what-is-in-the-khandha%zh.rst>`_ (1960-12-10)
+
+- 23.) `The Four Dangers <{filename}dhamma-talks-by-mogok-sayadaw/pt16-23-four-dangers%zh.rst>`_ (1960-12-12)
+
+- 24.) `For the Cessation of Existence <{filename}dhamma-talks-by-mogok-sayadaw/pt16-24-for-the-cessation-of-existence%zh.rst>`_ (1961-08-06)
+
+- 25.) `Dhamma Increasing of Dukkha <{filename}dhamma-talks-by-mogok-sayadaw/pt16-25-dhamma-increasing-of-dukkha%zh.rst>`_ (1961-08-07)
+
+- 26.) `The Most Fearful Thing <{filename}dhamma-talks-by-mogok-sayadaw/pt16-26-the-most-fearful-thing%zh.rst>`_ (1961-08-19)
+
+- 27.) `The Essence of the Buddha Sāsana <{filename}dhamma-talks-by-mogok-sayadaw/pt16-27-essence-of-the-buddha-sasana%zh.rst>`_ (1961-09-21)
+
+- 28.) `The Owner of the Khandha <{filename}dhamma-talks-by-mogok-sayadaw/pt16-28-owner-of-the-khandha%zh.rst>`_ (1961-09-22)
+
+- 29.) `On the Main Road to Nibbāna <{filename}dhamma-talks-by-mogok-sayadaw/pt16-29-on-the-main-road-to-nibbana%zh.rst>`_ (1961-09-23)
+
+- 30.) `Following the Khandha with Knowledge <{filename}dhamma-talks-by-mogok-sayadaw/pt16-30-following-the-khandha-with-knowledge%zh.rst>`_ (1961-09-28)
+
+- 31.) `Permanent and Temporary Homes <{filename}dhamma-talks-by-mogok-sayadaw/pt16-31-permanent-and-temporary-homes%zh.rst>`_ (1961-10-03)
+
+- 32.) `Why Not See Nibbāna? (B) <{filename}dhamma-talks-by-mogok-sayadaw/pt16-32-why-not-see-nibbana%zh.rst>`_ (1961-11-17)
+
+- 33.) `Not Yours <{filename}dhamma-talks-by-mogok-sayadaw/pt16-33-not-yours%zh.rst>`_ (1962-03-16)
+
+- 34.) `The Oceans Never Dry <{filename}dhamma-talks-by-mogok-sayadaw/pt16-34-oceans-never-dry%zh.rst>`_ (1962-03-18 ~ 20)
+
+- 35.) `On Wrong View and Doubt <{filename}dhamma-talks-by-mogok-sayadaw/pt16-35-on-wrong-view-and-doubt%zh.rst>`_ (1962-05-24, 25)
+
+- 36.) `Who Created Dukkha? <{filename}dhamma-talks-by-mogok-sayadaw/pt16-36-who-created-dukkha%zh.rst>`_ (1962-06-13)
+
+- 37.) `Nature of Stream Enterer <{filename}dhamma-talks-by-mogok-sayadaw/pt16-37-nature-of-stream-enterer%zh.rst>`_ (1962-07-01)
+
+- 38.) `Postcript <{filename}dhamma-talks-by-mogok-sayadaw/pt16-38-postcript%zh.rst>`_ 
+
+- 39.) `Chance and Duty <{filename}dhamma-talks-by-mogok-sayadaw/pt16-39-chance-and-duty%zh.rst>`_ 
+
+- 40.) `Dhamma Reflection: Choice and Chance <{filename}dhamma-talks-by-mogok-sayadaw/pt16-40-dhamma-reflection-choice-and-chance%zh.rst>`_ 
 
 ------
 
@@ -1314,6 +1392,7 @@ Right Samādhi and Right Insight
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-10 add Part 16
   06-10 add Part 14 and Part 15
   03-23 rev. moving to identical repo; old: 
   2024-03-23 rev. raw-rst test for moving to identical dir; old: {static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-introduction.mp3
