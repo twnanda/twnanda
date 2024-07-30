@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2024-07-10
+:modified: 2024-07-11
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -811,7 +811,7 @@ _`Part 14` ( `content of Part 14 <{filename}dhamma-talks-by-mogok-sayadaw/pt14-c
 _`Part 15` ( `content of Part 15 <{filename}dhamma-talks-by-mogok-sayadaw/pt15-content-of-part15%zh.rst>`_ )
 
 
-- 1.) `Sufferings Made by Humans <{filename}dhamma-talks-by-mogok-sayadaw/pt15-01-sufferings-made-by-humans%zh%zh.rst>`_ (1962-04-08 and 09)
+- 1.) `Sufferings Made by Humans <{filename}dhamma-talks-by-mogok-sayadaw/pt15-01-sufferings-made-by-humans%zh.rst>`_ (1962-04-08 and 09)
 
 - 2.) `Humans’ Own Properties <{filename}dhamma-talks-by-mogok-sayadaw/pt15-02-humans-own-properties%zh.rst>`_ (1962-04-17)
 
@@ -1392,7 +1392,7 @@ Right Samādhi and Right Insight
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  07-10 add Part 16
+  07-11 rev. linking of pt15-01 ; 07-10 add Part 16
   06-10 add Part 14 and Part 15
   03-23 rev. moving to identical repo; old: 
   2024-03-23 rev. raw-rst test for moving to identical dir; old: {static}/extra/authors/bhante-uttamo/audiobook/18days/eighteen-days-in-solitude-introduction.mp3

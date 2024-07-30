@@ -3,12 +3,12 @@ Dhamma Reflection: Choice and Chance
 ===========================================
 
 :date: 2024-07-10
-:modified: 2024-07-10
+:modified: 2024-07-30
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Dhamma Reflection: Choice and Chance (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-07-10
+revised on 2024-07-30
 
 ------
 
@@ -138,36 +138,34 @@ For the worldlings, they are craving and clinging to properties, their bodies, a
 
 On the other hand, for the sages, ariyans, and sutavā ariya sāvakas, they use their properties and wealth by relinquishing them with generosity and giving up (dāna, cāga). 
 
-They would relinquish their bodies with sīla and their whole life by living with Samatha and vipassanā bhāvanā (samādhi and paññā). They are the only wisest people making the true choices. Encountering the Buddha Dhamma, it is very important to make the right choices and take the opportunity or chance for the practice. Here, I want to introduce the Seliva (Serivāṇija??) Jātaka and its importance for making the right choice and its opportune moment. This jātaka (birth story of the bodhisatta) is quite well known to nearly all Buddhists, but mostly we overlook its important message by the Buddha. The reason the Buddha told this story is as follows. I based this story on a Dhamma talk by Sayadaw U Uttama (Sa-gaing).
+They would relinquish their bodies with sīla and their whole life by living with samatha and vipassanā bhāvanā (samādhi and paññā). They are the only wisest people making the true choices. Encountering the Buddha Dhamma, it is very important to make the right choices and take the opportunity or chance for the practice. Here, I want to introduce the Seriva (Serivāṇija) Jātaka and its importance for making the right choice and its opportune moment. This jātaka (birth story of the bodhisatta) is quite well known to nearly all Buddhists, but mostly we overlook its important message by the Buddha. The reason the Buddha told this story is as follows. I based this story on a Dhamma talk by Sayadaw U Uttama (Sa-gaing).
 
-A monk went into seclusion and practiced, but he came back without success. The Buddha heard this and admonished him for giving up the practice. He exhorted him for easily giving up the practice, which needed a lot of effort. Encountering the Dhamma and having the chances for the practice was not very easy to come by. It needed a lot of good conditions. If he missed the chances, he would regret it and encounter sorrow, pain, and grief, like the foolish jeweller Seliva. Wasting time on things with no value and essence is foolishness. How we spend our time in daily life is the most important question as a human. This is for the welfare of the present life and the future to come.
-
-------
+A monk went into seclusion and practiced, but he came back without success. The Buddha heard this and admonished him for giving up the practice. He exhorted him for easily giving up the practice, which needed a lot of effort. Encountering the Dhamma and having the chances for the practice was not very easy to come by. It needed a lot of good conditions. If he missed the chances, he would regret it and encounter sorrow, pain, and grief, like the foolish jeweller Seriva. Wasting time on things with no value and essence is foolishness. How we spend our time in daily life is the most important question as a human. This is for the welfare of the present life and the future to come.
 
 The Story
-~~~~~~~~~~
+~~~~~~~~~~~
 
 At that time, the bodhisatta was a wandering jeweller (a street vendor). It seems to be ornamented jewellery and not expensive ones. 
 
-One time, he and another jeweller named Seliva (i.e., the past life of the reneged monk Devadatta) went to a town called Aritthapura to sell their goods. They made an agreement between them. They could not go together at the same time to any designated places for sale. But as soon as one of them left a place after selling his goods, the other could go in for sale.
+One time, he and another jeweller named Seriva (i.e., the past life of the reneged monk Devadatta) went to a town called Aritthapura to sell their goods. They made an agreement between them. They could not go together at the same time to any designated places for sale. But as soon as one of them left a place after selling his goods, the other could go in for sale.
 
-In this town, there was a poor family consisting of an old woman and her small granddaughter. They previously belonged to a rich family. Seliva was the first person who came to their place. When the young girl saw Seliva and his jewel ornaments, she requested her grandma to buy one or two for her. The grandma responded that she had no money to buy it. But the granddaughter told her they had an old bowl in a corner and it could be exchanged for some of the ornaments.
+In this town, there was a poor family consisting of an old woman and her small granddaughter. They previously belonged to a rich family. Seriva was the first person who came to their place. When the young girl saw Seriva and his jewel ornaments, she requested her grandma to buy one or two for her. The grandma responded that she had no money to buy it. But the granddaughter told her they had an old bowl in a corner and it could be exchanged for some of the ornaments.
 
 Note: In Burma, when we were young, there were some Indians who collected recyclable materials such as aluminium, bottles, papers, etc., in exchange for foods – such as beans, etc.
 
-The grandma brought the bowl to Seliva, who checked it by scratching with a needle. With his experience, he at once knew it was a golden bowl worth a hundred thousand dollars. He was a dishonest guy and very greedy (maybe like some politicians and businessmen today). So he said to the grandma it was a useless bowl and not even worth a cent, and he threw the old bowl on the ground and left. In his mind, he had a selfish plan, which was to return and take the golden bowl in exchange for a very cheap ornament.
+The grandma brought the bowl to Seriva, who checked it by scratching with a needle. With his experience, he at once knew it was a golden bowl worth a hundred thousand dollars. He was a dishonest guy and very greedy (maybe like some politicians and businessmen today). So he said to the grandma it was a useless bowl and not even worth a cent, and he threw the old bowl on the ground and left. In his mind, he had a selfish plan, which was to return and take the golden bowl in exchange for a very cheap ornament.
 
 After he left the place, the bodhisatta arrived there. When the young girl saw his face and manner, she asked the grandma to try again for some ornaments because it seemed to her that the bodhisatta was a good person. After the bodhisatta received the bowl and checked it with a needle, he at once told them it was a golden bowl worth a hundred thousand dollars. He did not have enough money to buy it. But the grandma could not believe it and said to him it was his merit because the other man told her that it was a worthless bowl. Therefore, the bodhisatta could offer them anything he had with him. He told her he had 500 dollars and other ornaments worth another 500 dollars. He gave everything he had with him and asked for 8 dollars for the boat fee to cross the river. He took the scale with him as a weapon and quickly left the place.
 
-After the bodhisatta left, Seliva came back very soon, asking for the bowl. The grandma told him that, as he was dishonest and a liar, she had already sold it to the bodhisatta and showed him the ornaments and the money. As soon as he heard the bad news, his anger exploded, and he behaved like a lunatic. Throwing everything he had on the ground, he grasped his iron scale as a weapon and chased the bodhisatta as fast as he could.
+After the bodhisatta left, Seriva came back very soon, asking for the bowl. The grandma told him that, as he was dishonest and a liar, she had already sold it to the bodhisatta and showed him the ornaments and the money. As soon as he heard the bad news, his anger exploded, and he behaved like a lunatic. Throwing everything he had on the ground, he grasped his iron scale as a weapon and chased the bodhisatta as fast as he could.
 
-At the bank of the river, the bodhisatta gave the boatman 8 dollars and asked him to row the boat as quickly as possible to the other side of the river. When Seliva arrived at the river bank, the boat was already in the middle of the river. He was shouting at the boatman to come back for him, but to no avail. Then he continued watching it until it was far away. At that moment, with great remorse, sorrow, pain, and grief, he thought, "I’ll never get it." With a broken heart, hot blood spat out from his mouth, and he collapsed and died there.
+At the bank of the river, the bodhisatta gave the boatman 8 dollars and asked him to row the boat as quickly as possible to the other side of the river. When Seriva arrived at the river bank, the boat was already in the middle of the river. He was shouting at the boatman to come back for him, but to no avail. Then he continued watching it until it was far away. At that moment, with great remorse, sorrow, pain, and grief, he thought, "I’ll never get it." With a broken heart, hot blood spat out from his mouth, and he collapsed and died there.
 
-Devadatta’s strong grudge started from that life as Seliva to the bodhisatta until the great being became the Buddha Gautama. This is the danger and suffering of Dosa–Hatred. At the end of the story, the Buddha strongly reminded the monk of the rare chances and difficulties in having a human birth and practicing to transcend Dukkha in the round of existence. Therefore, he had to practice diligently to realize the four noble truths in this life, at least having a fixed destination (i.e., entering the stream). Otherwise, he would have great remorse like Seliva, who lost the golden bowl and his life.
+Devadatta’s strong grudge started from that life as Seriva to the bodhisatta until the great being became the Buddha Gautama. This is the danger and suffering of Dosa–Hatred. At the end of the story, the Buddha strongly reminded the monk of the rare chances and difficulties in having a human birth and practicing to transcend Dukkha in the round of existence. Therefore, he had to practice diligently to realize the four noble truths in this life, at least having a fixed destination (i.e., entering the stream). Otherwise, he would have great remorse like Seriva, who lost the golden bowl and his life.
 
-The Seliva Jātaka offers us some important Dhamma points as food for the heart. We should reflect on it wisely for our benefits in worldly and spiritual matters. Most Buddhists know this remarkable story as the Buddha emphasized the honesty of the great being. It is partly true and not the most important point. According to the text, a bodhisatta who cultivates the 10 perfections in his round of existence never tells lies, always maintaining truthfulness (sacca). The Buddha also said someone who tells lies could do any unwholesome actions. We can also discern the dangers of suffering from the three unwholesome roots – greed, hatred, and delusion, which burn humans all the time. On the international level, there are a lot of competitions (unwholesome), greediness, hatred, ill-will, jealousy, etc., burning human beings like forest fires. Conflicts of war are becoming more violent, bloody, and cruel, with a lot of destruction.
+The Seriva Jātaka offers us some important Dhamma points as food for the heart. We should reflect on it wisely for our benefits in worldly and spiritual matters. Most Buddhists know this remarkable story as the Buddha emphasized the honesty of the great being. It is partly true and not the most important point. According to the text, a bodhisatta who cultivates the 10 perfections in his round of existence never tells lies, always maintaining truthfulness (sacca). The Buddha also said someone who tells lies could do any unwholesome actions. We can also discern the dangers of suffering from the three unwholesome roots – greed, hatred, and delusion, which burn humans all the time. On the international level, there are a lot of competitions (unwholesome), greediness, hatred, ill-will, jealousy, etc., burning human beings like forest fires. Conflicts of war are becoming more violent, bloody, and cruel, with a lot of destruction.
 
-For spiritual matters, it is more important. Seliva only lost his golden bowl and life. But for Buddhists, they lose the essence of Dhamma, which is difficult to come by, and if we make the wrong choice, we will miss the chance. And also, it could be a great loss because it's not certain for next time in the future. The future is unknown. There is nothing more important than the ending of dukkha.
+For spiritual matters, it is more important. Seriva only lost his golden bowl and life. But for Buddhists, they lose the essence of Dhamma, which is difficult to come by, and if we make the wrong choice, we will miss the chance. And also, it could be a great loss because it's not certain for next time in the future. The future is unknown. There is nothing more important than the ending of dukkha.
 
 Most humans are like the following story. A mother hen with its chicks is searching for food in a pile of garbage. Sometime later, a ruby gem comes out from the garbage. It doesn’t affect the animals. Later, a small boy who is playing near the area comes near the place and sees it. He picks up the ruby and plays with it but doesn’t know about its worth. A man passes by and sees the boy playing with the gemstone. He asks the boy to give him the gemstone, and he will buy some delicious chocolate bars for him. The boy agrees, and the man gets the precious stone.
 
@@ -190,7 +188,7 @@ As Buddhists, we should never forget and always remind ourselves of the eight fa
 
 ------
 
-revised on 2024-07-10
+revised on 2024-07-30
 
 ------
 
@@ -209,4 +207,5 @@ revised on 2024-07-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-30 rev. proofread by bhante Uttamo
   2024-07-10 create rst

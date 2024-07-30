@@ -3,12 +3,12 @@ Following the Khandha with Knowledge
 ===========================================
 
 :date: 2024-07-10
-:modified: 2024-07-10
+:modified: 2024-07-30
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Following the Khandha with Knowledge (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-07-10
+revised on 2024-07-30
 
 ------
 
@@ -18,7 +18,7 @@ Dhamma practice only appears in the Buddha-sāsana, so it’s very important. (e
 
 I don’t want you to see anicca with your eyes. (even this, most people don’t know and can't see). With ñāṇa, discerning them in the khandha is like water bubbles bursting! Discerning the minds is like water foams.
 
-This is killing of taṇhā, upādāna, and kamma. Then birth can’t arise. With the cutting off of the causes, the results are also cut. It’s the ending of one’s own dukkha, so you have to practice it without laziness. Before, it was your own making anicca. Now I’m showing you by asking you to discern the anicca that the Dhamma (khandha) displays to you. You contemplate it with ñāṇa as – "it’s right, it’s right." Taṇhā becomes thin by seeing it as disgusting. With the thinning of taṇhā, it at last ceases. By following the arising and vanishing of the khandha as it displays itself to you, you will arrive at Nibbāna. This is the result of diṭṭha-dhamma (direct seeing). In the Dhamma-guṇa, excellent qualities of Dhamma include akālika, which means giving the result without delay. Giving the result only by contemplating (developing). If you recite it, it is only Samatha. With contemplation, you attain magga. With recitation, you get samādhi. By seeing dukkha, dosa thins out and knowledge of fear arises. It is fearful to get this khandha. With the thinning of dosa, bhaya-ñāṇa arises (fearfulness). It’s certain that taṇhā and dosa become thinner by contemplating anicca.
+This is killing of taṇhā, upādāna, and kamma. Then birth can’t arise. With the cutting off of the causes, the results are also cut. It’s the ending of one’s own dukkha, so you have to practice it without laziness. Before, it was your own making anicca. Now I’m showing you by asking you to discern the anicca that the Dhamma (khandha) displays to you. You contemplate it with ñāṇa as – "it’s right, it’s right." Taṇhā becomes thin by seeing it as disgusting. With the thinning of taṇhā, it at last ceases. By following the arising and vanishing of the khandha as it displays itself to you, you will arrive at Nibbāna. This is the result of diṭṭha-dhamma (direct seeing). In the Dhamma-guṇa, excellent qualities of Dhamma include akālika, which means giving the result without delay. Giving the result only by contemplating (developing). If you recite it, it is only samatha. With contemplation, you attain magga. With recitation, you get samādhi. By seeing dukkha, dosa thins out and knowledge of fear arises. It is fearful to get this khandha. With the thinning of dosa, bhaya-ñāṇa arises (fearfulness). It’s certain that taṇhā and dosa become thinner by contemplating anicca.
 
 If you know it as the arising and vanishing of dukkha sacca, you don’t want any realm and life, and become fearful. Only with the fear of khandha will you not get it. Non-self also can’t stop the arising and vanishing, which means not-self. On the khandha body, pleasure arises. You want it to stay longer, but it doesn't and disappears. By discerning anatta, taṇhā, māna, and diṭṭhi thin out. This point is mentioned by the Buddha in the Aṅguttara Nikāya. People who discern anicca are discerning all three of them (i.e., the three lakkhaṇas). 
 
@@ -28,11 +28,15 @@ In reality, anicca vata saṅkhāra – all conditioned phenomena are impermanen
 
 It's not about making it happen. Knowing it accordingly with the dhamma shows its true nature. Ñāṇa takes the name of the object of contemplation. Only what the dhamma tells you is right. It’s not right just by reciting. It becomes anicca and dukkha and anatta-ñāṇas respectively, based on the dhamma signs. It does not relate to ñāṇa. The nature of ñāṇa is only knowing. Therefore, if you still do not discern dhamma, do not contemplate as anicca. It becomes vipassanā ñāṇa only by what the dhamma is showing you. Do not take it from a book, which is only a record.
 
-The practice of vipassanā is to know oneself (D.A process is about oneself). Not knowing oneself means that living beings are encountering many kinds of dukkha. This ñāṇa is made by dhamma (not by prayers). Wisdom perfection arises by contemplating dhamma (So Buddhism is not a blind faith. Confidence comes from direct experience without judgement and coloring. (Sayadaw continues on Sakka’s Questions). The Buddha-dhamma arrives in your body. This Ñāṇa ought to become a Dhamma–cetiya. Flesh, blood, bones are like bricks and cement. If you contemplate three types of feeling with their aniccas, and papañca dies → vitakka dies → …… issa/macchariya die (see the Sakkapañha Sutta, Dīgha Nikāya, DN 21).
+The practice of vipassanā is to know oneself (D.A process is about oneself). Not knowing oneself means that living beings are encountering many kinds of dukkha. This ñāṇa is made by dhamma (not by prayers). Wisdom perfection arises by contemplating dhamma. 
+
+(So Buddhism is not a blind faith. Confidence comes from direct experience without judgement and coloring. Sayadaw continues on Sakka’s Questions). 
+
+The Buddha-dhamma arrives in your body. This Ñāṇa ought to become a Dhamma–cetiya. Flesh, blood, bones are like bricks and cement. If you contemplate three types of feeling with their aniccas, and papañca dies → vitakka dies → …… issa/macchariya die (see the Sakkapañha Sutta, Dīgha Nikāya, DN 21).
 
 ------
 
-revised on 2024-07-10
+revised on 2024-07-30
 
 ------
 
@@ -51,4 +55,5 @@ revised on 2024-07-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-30 rev. proofread by bhante Uttamo
   2024-07-10 create rst

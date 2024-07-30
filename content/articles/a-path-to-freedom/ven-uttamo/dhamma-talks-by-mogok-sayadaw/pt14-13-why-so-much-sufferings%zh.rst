@@ -3,12 +3,12 @@ Why So Much Sufferings?
 ==========================================
 
 :date: 2024-03-27
-:modified: 2024-07-09
+:modified: 2024-07-30
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Why So Much Sufferings? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-07-09
+revised on 2024-07-30
 
 ------
 
@@ -16,13 +16,13 @@ Dhamma Talks by Mogok Sayadaw; 7th to 8th October 1961
 
 Tape 1
 
-Which way is the quickest way to end taṇhā? With taṇhā ends arriving at Nibbāna. (Contemplation of feelings (vedanās) is the quickest way to end Taṇhā or Dukkha). If I have to talk about Nibbāna, there is no need to carry around the khandha burdens, and no feeding and cleansing of its 'bitterness' (Dukkhas). ??] Thus, there is no quest for wealth and property (power). There is no "suffering" of remaining in someone else's womb (birth). There is no suffering (dukkha) caused by disease.  There is also no dukkha of relying on others during sickness, and no dukkha of sorrow, lamentation, pain and grief at near death (seeing signs of unwholesomeness with painful destinations and attachment to wealth and family members). Why I have to exhort you every day is because I want you to die with a smile.
+Which way is the quickest way to end taṇhā? With taṇhā ends arriving at Nibbāna. (Contemplation of feelings (vedanās) is the quickest way to end Taṇhā or Dukkha). If I have to talk about Nibbāna, there is no need to carry around the khandha burdens, and no feeding and cleansing of its 'bitterness' (Dukkhas). Thus, there is no quest for wealth and property (power). There is no "suffering" of remaining in someone else's womb (birth). There is no suffering (dukkha) caused by disease.  There is also no dukkha of relying on others during sickness, and no dukkha of sorrow, lamentation, pain and grief at near death (seeing signs of unwholesomeness with painful destinations and attachment to wealth and family members). Why I have to exhort you every day is because I want you to die with a smile.
 
 (Sayadaw mentioned the terrible dying moment and painful situations). The Buddha himself was warning us 32 times in his life: Don’t be heedless; practise diligently until your bones and flesh are worn out, and your blood is dried up. The wealth and possessions (powers) which you earned cannot even stop the dying sickness and disease. The truly reliable thing is only maggaṅga (the path factors). (Mentioned the sufferings of Hells. This is not like the mythology of God and Creation. With Dhamma practice, one can find it out by oneself. 
 
 Kanni meditation develops light nimitta which can discern the 31 realms of existence. There are two books that I know of that mentioned the yogis' experiences about these realms. The strange thing is most of the world religions accept the existence of hells).
 
-You don’t need to spend money for it, you only have to use your nyan (ñāṇa). Only have to nod your head at what the khandha is telling you. There is no khandha that does not talk about their stories. (Sayadaw told about Sakka—King of the 33 gods in the Cūḷataṇhāsaṅkhaya Sutta, Sutta No. 37, Majjhima N.) If vedanā arises, you have to observe whether it’s still there or not. You’ll have the path factors if you discern it not there anymore. You insert the knowledge of seeing the dissolution of vedanā. Then the feeling conditions that taṇhā does not arise (vedanā → taṇhā) (The Buddha gave the instruction to Sakka) The knowledge which discerns the dissolution comes in and cuts off the process. vedanā paccaya taṇhā is the Pāli word which refers to people not doing vipassanā. (feeling conditions taṇhā) vedanā paccaya paññā—feeling conditions wisdom is someone discerning anicca. Taṇhā disappears by discerning anicca. Vedanā nirodha taṇhā nirodho—with the cessation of feeling, taṇhā (craving) ceases. If you can make feeling cease, it becomes path factors. The task of no sympathy to oneself is business matters, but the task of practicing the path is having sympathy for oneself. Therefore, in the world, there are more people who have no sympathy for themselves. (This is not an exaggeration; the Buddha himself admonished us as the permanent homes of living beings are the four woeful planes of existence).
+You don’t need to spend money for it, you only have to use your nyan (ñāṇa). Only have to nod your head at what the khandha is telling you. There is no khandha that does not talk about their stories. (Sayadaw told about Sakka—King of the 33 gods in the Cūḷataṇhāsaṅkhaya Sutta, Sutta No. 37, Majjhima N.) If vedanā arises, you have to observe whether it’s still there or not. You’ll have the path factors if you discern it not there anymore. You insert the knowledge of seeing the dissolution of vedanā. Then the feeling conditions that taṇhā does not arise (vedanā → taṇhā) (The Buddha gave the instruction to Sakka) The knowledge which discerns the dissolution comes in and cuts off the process. Vedanā paccaya taṇhā is the Pāli words which refer to people not doing vipassanā, (feeling conditions taṇhā). Vedanā paccaya paññā—feeling conditions wisdom is someone discerning anicca. Taṇhā disappears by discerning anicca. Vedanā nirodha taṇhā nirodho—with the cessation of feeling, taṇhā (craving) ceases. If you can make feeling cease, it becomes path factors. The task of no sympathy to oneself is business matters, but the task of practicing the path is having sympathy for oneself. Therefore, in the world, there are more people who have no sympathy for themselves. (This is not an exaggeration; the Buddha himself admonished us as the permanent homes of living beings are the four woeful planes of existence).
 
 ------
 
@@ -40,7 +40,7 @@ Knowledge can arise following the anicca of feelings. If you are discerning anic
 
 ------
 
-revised on 2024-07-09
+revised on 2024-07-30
 
 ------
 
@@ -59,6 +59,7 @@ revised on 2024-07-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-30 rev. proofread by bhante Uttamo
   07-09 rev. proofread by bhante Uttamo
   06-09 rev. proofread by bhante Uttamo
   2024-03-27 create rst

@@ -3,12 +3,12 @@ Not for Chanting But for Practice
 ===========================================
 
 :date: 2024-07-10
-:modified: 2024-07-10
+:modified: 2024-07-30
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Not for Chanting But for Practice (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-07-10
+revised on 2024-07-30
 
 ------
 
@@ -16,7 +16,7 @@ Dhamma Talks by Mogok Sayadaw; (no date)
 
 [Sayadaw gave two talks on the qualities of Dhamma with humour]
 
-The work of seeing Dhamma by oneself is the practice leading to path knowledge. If you contemplate to see the object of contemplation, the contemplative knowledge will send you to Nibbāna directly. Sandiṭṭhiko – it’s visible here and now through insight. Whatever dhamma arises, you have to ask yourself – is it still there or not? You have to contemplate your own death. If you see it, it becomes sandiṭṭhika. Seeing moment-to-moment dying and not finding the corpses is insight. Finding the corpse in a moment of death is Samatha. You will not see your death even once if you are only looking for deaths. If you see it, you will not need to look for it (it’s meaningful). If you are mindful, you will think about it (i.e., the way of insight). With mindful attention, think about the minds which arise for the worldling. This is called sati sampajāna – mindfulness with full awareness. With practice, let maggaṅga – the path factors – arise. The path factors will send you to Nibbāna.
+The work of seeing Dhamma by oneself is the practice leading to path knowledge. If you contemplate to see the object of contemplation, the contemplative knowledge will send you to Nibbāna directly. Sandiṭṭhiko – it’s visible here and now through insight. Whatever dhamma arises, you have to ask yourself – is it still there or not? You have to contemplate your own death. If you see it, it becomes sandiṭṭhika. Seeing moment-to-moment dying and not finding the corpses is insight. Finding the corpse in a moment of death is samatha. You will not see your death even once if you are only looking for deaths. If you see it, you will not need to look for it (it’s meaningful). If you are mindful, you will think about it (i.e., the way of insight). With mindful attention, think about the minds which arise for the worldling. This is called sati sampajañña – mindfulness with full awareness. With practice, let maggaṅga – the path factors – arise. The path factors will send you to Nibbāna.
 
 You all do not want the true happiness of Nibbāna, but instead desire the fake happiness found in wives and children. Therefore, the Buddha called you all – CRAZY PEOPLE! Or Lunatics! Puthujjana-ummattako – worldlings are crazy fools. Which one do you prioritize – Dhamma or rice? Rice becomes excrement and Dhamma sends you to Nibbāna. In the whole of saṁsāra, you all prefer the useless things and resist the right and useful things (it is easy to do demerits and difficult to do merits).
 
@@ -30,7 +30,7 @@ If it does not become sandiṭṭhika and does not become akālika (i.e., appare
 
 ------
 
-revised on 2024-07-10
+revised on 2024-07-30
 
 ------
 
@@ -49,4 +49,5 @@ revised on 2024-07-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-30 rev. proofread by bhante Uttamo
   2024-07-10 create rst

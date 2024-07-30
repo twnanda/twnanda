@@ -3,12 +3,12 @@ Differences Between Khandha And Nibbāna
 ===========================================
 
 :date: 2024-07-10
-:modified: 2024-07-10
+:modified: 2024-07-30
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Differences Between Khandha And Nibbāna (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-07-10
+revised on 2024-07-30
 
 ------
 
@@ -26,7 +26,7 @@ The impermanence and suffering of dhamma vanish (i.e., khandha with anicca). A s
 
 ------
 
-revised on 2024-07-10
+revised on 2024-07-30
 
 ------
 
@@ -45,4 +45,5 @@ revised on 2024-07-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-30 rev. proofread by bhante Uttamo
   2024-07-10 create rst

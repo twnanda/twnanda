@@ -3,12 +3,12 @@ On the Hindrances
 ===========================================
 
 :date: 2024-07-10
-:modified: 2024-07-10
+:modified: 2024-07-30
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: On the Hindrances (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-07-10
+revised on 2024-07-30
 
 ------
 
@@ -24,13 +24,13 @@ The reasons for wandering in saṁsāra and carrying around the asubha khandhas 
 
 A wanderer asked Sāriputta about dukkha and sukha. Sāriputta’s answer was – if becoming again is dukkha, and not becoming again is sukha. The Buddha also said that birth is dukkha sacca – jātipi dukkha sacca. Inserting insight knowledge into the process cuts off the next birth. The Buddha exhorted us that after abandoning this khandha, not getting another khandha is the best thing to do. This is the same as Sāriputta’s answer to the wanderer.
 
-I will talk about insight knowledge and path knowledge. (Sayadaw spoke about the five hindrances in gist. In this talk, he mostly talks about restlessness and remorse.)  
+I will talk about insight knowledge and path knowledge. (Sayadaw spoke about the five hindrances in gist. In this talk, he mostly talks about restlessness and remorse.) 
 
 The hindrances arise at the heart (hadaya vatthu) and disappear at the same place. The mind does not stay at one place, running here and there is restlessness. Remorse has two kinds – remembering and thinking about unwholesomeness that one has done before. Don’t think about them; if you do, it forbids Nibbāna. If you do what the Buddha asked you, then it will not be forbidden. You should never think back to the unwholesome dhammas. You have to do what needs to be done. Thinking about merit that one has not done yet is also kukkucca (here is worry). Kukkucca is related to misconduct and good conduct (duccarita and sucarita). These are unpleasant states of mind. If you do not think about them, you will not fall into apāyas; otherwise, you’ll fall into apāyas. Die with the contemplation of the impermanent khandha and do not remember them.
 
 Not knowing the truth means that saṁsāra is very long. Knowing about the truth of dukkha is the most important. If you know dukkha sacca, then samudaya sacca is already abandoned. (This point is very important. Falling in love with dukkha is falling in love with samudaya, and vice versa. When people are terminally ill or near death, this point becomes very clear.) If you do not break up with avijjā, you will never cut off from deaths. Deaths will never disappear if the khandha does not disappear, because the disappearance of the khandha is Nibbāna. (Sometimes, he asks the yogis if the khandhas vanish or not). Someone with the ending of aniccas sees the thing that is able to die come to the end. The ending of death is seeing the deathless. Discerning anicca is the beginning of insight. 
 
-Existing is udaya, and vanishing is vaya. As an example, Vedanā arises, and when you observe, it is not there anymore. In Burmese, phit (arising) and pyat (vanishing). Seeing it through the five path factors. What does the commentary on the Aṅguttara Nikāya say about it? It says, "Let discern anicca, and the seeing of Nibbāna with the eight path factors will arise."
+Existing is udaya, and vanishing is vaya. As an example, vedanā arises, and when you observe, it is not there anymore. In Burmese is phit (arising) and pyat (vanishing), seeing it through the five path factors. What does the commentary on the Aṅguttara Nikāya say about it? It says, "Let discern anicca, and the seeing of Nibbāna with the eight path factors will arise."
 
 Therefore, don’t let doubt come in, as – “Could I attain Nibbāna?” (i.e., if discerning anicca). The duty of yogis is to discern anicca. Just contemplate for the discernment of anicca. If you discern it, you are arriving at insight, and then you’ll discern it in greater detail. Insight knowledge conditions the path knowledge with proximity condition – anantarapaccayo. If you do not yet discern anicca, you have not arrived at the inside of sāsana yet. The Buddha’s teaching has not gone into your heart. Between the two knowledges of mundane and supramundane, to get the mundane knowledge is more important. The hindrances forbid you to see anicca and Nibbāna. Remorse and worry can come in near the practice of insight and near death.
 
@@ -38,7 +38,7 @@ Therefore, don’t let doubt come in, as – “Could I attain Nibbāna?” (i.e
 
 ------
 
-revised on 2024-07-10
+revised on 2024-07-30
 
 ------
 
@@ -57,4 +57,5 @@ revised on 2024-07-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-30 rev. proofread by bhante Uttamo
   2024-07-10 create rst
