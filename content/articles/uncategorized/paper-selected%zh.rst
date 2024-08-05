@@ -2,7 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2023-12-27
+:modified: 2024-08-05
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -38,6 +38,10 @@
   線上閱讀或下載： `PDF <{static}/extra/authors/narada/The-Buddha-and-His-Teachings-Han.pdf>`__
 
   英文版 (English): `PDF (English) <{static}/extra/authors/narada/The-Buddha-and-His-Teachings.pdf>`__
+
+----
+
+- `禪修手冊 <{static}/extra/a-path-to-freedom/handbook-meditation.html>`__ ； `PDF <http://nanda.online-dhamma.net/doc-pdf-etc/pdf/handbook-meditation.pdf>`__ (2009 法雨道場)
 
 ----
 
@@ -134,6 +138,10 @@
 
 ------
 
+.. _letters_from_mara:
+
+- `魔羅的來信 <{filename}/articles/lib/ajahn-punnadhammo/letters-from-mara/letters-from-mara%zh.rst>`_ ，阿姜 富樓那達摩 著 (Letters from Mara, by Ajahn Puṇṇadhammo)
+
 .. _ken_su:
 
 - `蘇錦坤作品集 <{filename}/articles/lib/authors/ken-su/publication-of-ken-su%zh.rst>`_ （Ken Su， `獨立佛學研究者 <https://independent.academia.edu/KenYifertw>`_ ，藏經閣外掃葉人， `台語與佛典 <http://yifertw.blogspot.com/>`_ 部落格格主））
@@ -211,6 +219,7 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  2024-08-05 add: 魔羅的來信(Letters from Mara) and 禪修手冊2009
   12-27 add: 尊者 舍利弗的一生 
   09-28 rev. 專註 → 專注
   09-22 add: 我的人生道路——阿瞻蘇查自傳
