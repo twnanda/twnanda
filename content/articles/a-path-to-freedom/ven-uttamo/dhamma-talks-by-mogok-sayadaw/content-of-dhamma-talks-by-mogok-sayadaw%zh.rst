@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2024-03-27
+:modified: 2024-08-08
 :tags: publication, Bhikkhu Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -40,7 +40,7 @@ Dhamma Talks by Mogok Sayadaw
      - `Epilogue <{filename}postscript%zh.rst>`__
    * - `Appendix <{filename}appendix%zh.rst>`__ ( `Manuscript of Translations <{filename}translation-manuscript%zh.rst>`__ )
      - `About the translator`_ 
-     - `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text.pdf>`__ ; (PDF, 2021-10-21)   `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf>`__ (PDF, background in green, 2021-10-21)
+     - `Full Text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-reading-2024-0808.pdf>`__ (PDF, 2024-08-08, for reading, on a soya green background)
      - 
      - 
 
@@ -894,40 +894,32 @@ _`About the translator`: `this link <{filename}dhamma-talks-by-mogok-sayadaw-abo
 
 _`For printing` full text of this book:
 
-- Size: B5, General (12 pt, PDF)
+- Size: B5, General (12 pt, PDF): `full text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-2024-0808.pdf>`__ (1469 pages, 2024-08-08)
 
-  * `full text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5.pdf>`__ (1115 pages, 2021-10-21) 
+**Note:** Recommended to be printed in four volumes:
+  
+ | Vol. I: Translator's Notes ~ Part 05-16 (The Most Important Thing in Life)
+ | Vol. II: Part 05-17 (To Know Yourself) ~ Part 10-04 (Our Murderers)
+ | Vol. III: Part 10-05 (The Four Noble Truths) ~ Part 13 ~ Vipassanā Bhāvanā (Appendix)
+ | Vol. IV: Part 14 ~ Part 16 (~ Dhamma Reflection: Choice and Chance), Manuscript of Translations
+ | 
 
-  * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-1.pdf>`__ (569 pages, 2021-10-21); **Note:** There are three (3) pages which are colourful for print on this Volumn: 
+**Note:** There are three (3) pages which are colourful for print: 
 
-    | a. Page 41 (31) (D. A. Process), 
-    | b. Page 52 (42) (Kammabhava, D. A. Process) and 
-    | c. Page 330 (320) (the Axle of the Taints，part5-5).   
-    | 
-
-  * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-2.pdf>`__ (558 pages, 2021-10-21)
+ | a. Page 48 (33) (D. A. Process), 
+ | b. Page 59 (44) (Kammabhava, D. A. Process) and 
+ | c. Page 352 (337) (the Axle of the Taints，part5-5).   
+ | 
      
-- Size: B5, Large font (14.5 pt, PDF)
+- Size: B5, Large font (14.5 pt, PDF): `full text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-2024-0808.pdf>`__ (1943 pages, 2021-10-21) **Note:** There are three (3) pages which are colourful: Page 67, 82 and 475.
 
-  * `full text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5.pdf>`__ (1483 pages, 2021-10-21) **Note:** There are three (3) pages which are colourful: Page 53, 67 and 446.
+- `Size: A4, General (12 pt, PDF: `full text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-A4-2024-0808>`__ (1083 pages, 2024-08-08) **Note:** There are three (3) pages which are colourful.
 
-  * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-1.pdf>`__ [515 pages, 2021-10-21, Translator's Notes ~ Part 05-16 (The Most Important Thing in Life)]; **Note:** There are three (3) pages which are colourful for print on this Volumn: 
+- `Size: A4, Large font (14.5 pt, PDF:  `full text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-A4-2024-0808>`__ (1413 pages, 2024-08-08) 
 
-    | a. Page 53 (42) (D. A. Process), 
-    | b. Page 67 (56) (Kammabhava, D. A. Process) and 
-    | c. Page 446 (435) (the Axle of the Taints，part5-5).   
+- Cover: `Vol-I <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/images/mogok-cover-vol-I-2021-10.png>`__ , `Vol-II <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/images/mogok-cover-vol-II-2021-10.png>`__ , `Vol-III <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/images/mogok-cover-vol-III-2021-10.png>`__ (2021-10), `Vol-IV <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/images/mogok-cover-vol-IV-202408.png>`__ (2024-08-08)
 
-  * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-2.pdf>`__ [511 pages, 2021-10-21, Part 05-17 (To Know Yourself) ~ Part 10-04 (Our Murderers)]
-
-  * `Vol. III <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-3.pdf>`__ [483 pages, 2021-10-21, Part 10-05 (The Four Noble Truths) ~ Vipassanā Bhāvanā (Appendix)]
-
-- `Size: A4 <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-A4.pdf>`__ , General (12 pt, PDF, 835 pages, 2021-10-21) 
-
-- `Size: A4 <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-A4.pdf>`__ , Large font (14.5 pt, PDF, 1073 pages, 2021-10-21) 
-
-- Cover: `Vol-I <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok1-cover.png>`__ , `Vol-II <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok2-cover.png>`__ , `Vol-III <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mogok3-cover.png>`__ (2022-02-28)
-
-revised on 2024-03-27
+revised on 2024-08-08
 
 ------
 
@@ -938,6 +930,7 @@ revised on 2024-03-27
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-09 rev. mogok sayadaw fulltext & cover
   06-10 rev. Part 14 and add Part 15
   2024-03-27 add Part 14
   2023-06-10 add the linkings of mp3 & Youtube
