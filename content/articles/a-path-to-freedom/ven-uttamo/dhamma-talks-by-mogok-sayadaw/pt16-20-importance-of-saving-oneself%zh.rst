@@ -3,7 +3,7 @@ The Importance of Saving Oneself
 ===========================================
 
 :date: 2024-07-10
-:modified: 2024-07-10
+:modified: 2024-08-08
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Importance of Saving Oneself (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
@@ -16,7 +16,7 @@ Dhamma Talks by Mogok Sayadaw; 28th July 1961
 
 Not practicing vipassanā and wasting time with worldly matters is like watering the poison tree. The task of saving oneself is to listen to Dhamma and practice. When you are young, you have no chance to save yourself. As you grow up, it also increases with family matters. Therefore, coming to this human world is like being a human beast (animal). Only by conquering the kilesas will one become a sotāpanna to an arahant.
 
-Kilesas are hiding in the khandha. Do kilesas die if you don’t know the dangers (ādīnavas) of them? Without discerning the anicca khandha, not knowing the dukkha, ungovernable anatta nature, and unable to contemplate the asubha nature, kilesas will not die. You’ll conquer kilesas if you can contemplate and discern one of the four factors. If you never cut off the khandha process, the khandha will continue. When the khandha stops, taṇhā stops, which is Nibbāna. With the two vaṭṭa saccas (dukkha and samudaya) stop, and two Vi-vaṭṭa saccas (nirodha and magga) arise, the problems will finish.
+Kilesas are hiding in the khandha. Do kilesas die if you don’t know the dangers (ādīnavas) of them? Without discerning the anicca khandha, not knowing the dukkha, ungovernable anatta nature, and unable to contemplate the asubha nature, kilesas will not die. You’ll conquer kilesas if you can contemplate and discern one of the four factors. If you never cut off the khandha process, the khandha will continue. When the khandha stops, taṇhā stops, which is Nibbāna. With the two vaṭṭa saccas (dukkha and samudaya) stop, and two vi-vaṭṭa saccas (nirodha and magga) arise, the problems will finish.
 
 If you don’t know about the khandhas and kilesas, you live with blindness and craziness. In past lives, you were also living as blind and crazy people (Seeing the majority of humans, this point is quite clear). 
 
@@ -45,4 +45,5 @@ revised on 2024-07-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-08 rev. proofread by Bhante
   2024-07-10 create rst
