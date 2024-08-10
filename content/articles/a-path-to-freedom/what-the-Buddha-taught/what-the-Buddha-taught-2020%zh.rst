@@ -3,7 +3,7 @@
 =================================================
 
 :date: 2019-02-06
-:modified: 2024-05-20
+:modified: 2024-08-10
 :author: 化普樂·羅睺羅 尊者(Ven. Walpola Rahula Thero)著, Nanda 編譯
 :tags: 佛陀的啟示, What the Buddha Taught, 化普樂·羅睺羅, Walpola Rahula, 顧法嚴, 法嚴法師, 釋迦的啟示, 佛當初教的是什麼, 佛法, 佛陀說的法, 瓦爾朴拉羅睺羅, 鄭於中, 戴密微
 :category: 解脫之道
@@ -69,7 +69,7 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 
    * - `附錄  本書常見佛學名詞淺釋 <{filename}what-the-Buddha-taught-appendix-term%zh.rst>`__
      - `張澄基序 <{filename}what-the-Buddha-taught-foreword-chang-cj%zh.rst>`__ （慧炬出版社）
-     - 整部： `HTML <{filename}what-the-Buddha-taught-full%zh.rst>`__ (2021-09-07)
+     - 整部： `HTML <{filename}what-the-Buddha-taught-full%zh.rst>`__ ； `PDF <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-end-note-B5-2024-aug-for-reading.pdf>`__ (2024-08-10)
 
 ------
 
@@ -77,7 +77,7 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 
 ------
 
-`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`_
+`佛陀的啟示（修訂版 2024 八月，印刷用檔案）`_
 
 ------
 
@@ -469,24 +469,25 @@ Nanda 編譯  `佛曆 <http://zh.wikipedia.org/wiki/佛曆>`__ ( `BE <http://en.
 
 ------
 
-_`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
+_`佛陀的啟示（修訂版 2024 八月，印刷用檔案）`
 
-.. list-table:: 佛陀的啟示（修訂版 2021 九月，印刷用檔案）
+.. list-table:: 佛陀的啟示（修訂版 2024 八月，印刷用檔案）
    :header-rows: 1
 
-   * - 整部列印（腳註）： `PDF <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-2021-foot-note-B5.pdf>`__  ； `封面 <http://nanda.online-dhamma.net/what-the-Buddha-taught/image/cover-what-the-buddha-taught-footnote.png>`__ （PNG）
-     -  `ODT <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-2021-foot-note-B5.odt>`__ 〔腳註（註釋置於該頁下方）； **書本尺寸：B5** ， 452 頁，2021-09-03，中國圖書分類號 CCL No.：220.1；佛教圖書分類法2011年版： 100/7050，ISBN：978-957-○○○-○○○-○ (參考)〕
-     - 整部： `PDF <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-2021-foot-note-A4.pdf>`__ 〔腳註（註釋置於該頁下方）； **書本尺寸：A4**， 324 頁，2021-09-03〕
+   * - 整部列印（腳註）： `PDF <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-foot-note-B5-2024-aug.pdf>`__  ； `封面 <http://nanda.online-dhamma.net/what-the-Buddha-taught/image/cover-what-the-buddha-taught-footnote.png>`__ （PNG）
+     -  `ODT <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-foot-note-B5-2024-aug.odt>`__ 〔腳註（註釋置於該頁下方）； **書本尺寸：B5** ， 454 頁，2024-08-10，中國圖書分類號 CCL No.：220.1；佛教圖書分類法2011年版： 100/7050，ISBN：978-957-○○○-○○○-○ (參考)〕
+     - 整部： `PDF <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-foot-note-A4-2024-aug.pdf>`__ 〔腳註（註釋置於該頁下方）； **書本尺寸：A4**， 326 頁，2024-08-10〕
 
-   * - 整部列印（尾註）： `PDF <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-2021-end-note-B5.pdf>`__  
-     - `ODT <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-2021-end-note-B5.odt>`__ 〔尾註（註釋置於整個文本之後）；書本尺寸：B5，448 頁，2021-09-03〕
+   * - 整部列印（尾註）： `PDF <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-end-note-B5-2024-aug.pdf>`__  
+     - `ODT <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-end-note-B5-2024-aug.odt>`__ 〔尾註（註釋置於整個文本之後）；書本尺寸：B5，448 頁，2024-08-10〕
      - 
 
-   * - 整部（ **簡體版** ，腳註）： `PDF <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-2021-foot-note-B5-simplified.pdf>`__  
-     -  `ODT <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-2021-foot-note-B5-simplified.odt>`_ 〔 **簡體版** ，腳註（註釋置於該頁下方），書本尺寸：B5， 446 頁，2021-09-03〕
-     - 簡體版腳註： `PDF <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-2021-foot-note-A4-simplified.pdf>`__ （書本尺寸：A4, 288 頁）
+   * - 整部（ **簡體版** ，腳註）： `PDF <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-2024-aug-foot-note-B5-simplified.pdf>`__  
+     -  `ODT <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-2024-aug-foot-note-B5-simplified.pdf>`_ 〔 **簡體版** ，腳註（註釋置於該頁下方），書本尺寸：B5， 456 頁，2024-08-10〕
+     - 簡體版腳註： `PDF <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-2024-aug-foot-note-A4-simplified.pdf>`__ （書本尺寸：A4, 328 頁）
 
-   * - 2021-04-25 版《佛陀的啟示》 修訂（勘誤）表 **選刊** ： `PDF <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-revise-note-for-2021-04-25-B5-footnote-selected-print.pdf>`__  〔 **腳註版** ， 36 頁〕
+   * - 2021-04-25 版《佛陀的啟示》 修訂（勘誤）表 **選刊** ： `PDF <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-revise-note-for-2021-04-25-B5-footnote-selected-print.pdf>`__  〔 **腳註版** ， 36 頁〕； 2024-08-10 版《佛陀的啟示》 修訂（勘誤）表  `PDF <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-revise-note-full-for-2024-08-10-B5-endnote.pdf>`__   〔 **腳註版** ， 2 頁〕
+
      - 2021-04-25 版《佛陀的啟示》 修訂（勘誤）表 **選刊** ： `PDF <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-revise-note-for-2021-04-25-B5-endnote-selected-print.pdf>`__  〔 **尾註版** ， 37 頁〕
      - 
 
@@ -672,6 +673,8 @@ _`佛陀的啟示（修訂版 2021 九月，印刷用檔案）`
 
 
 ..
+  08-10 rev. some revised files (odt & PDf); 
+     old: <http://nanda.online-dhamma.net/what-the-Buddha-taught/pdf-odt-doc/what-the-buddha-taught-2021-foot-note-B5.pdf>`__
   05-20 rev. moving pdf, odt, doc and cover-what-the-buddha-taught-footnote.png to identical repo;
   2024-03-23 rev. moving to identical repo;
   09-30 rev. linkings of audio
