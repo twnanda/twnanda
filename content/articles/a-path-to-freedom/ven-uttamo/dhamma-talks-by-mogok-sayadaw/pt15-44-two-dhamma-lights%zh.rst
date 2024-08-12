@@ -32,11 +32,11 @@ The Buddha also talked about it; if you practice it yourself, the practice will 
 
 ------
 
-revised on 2024-06-10
+revised on 2024-08-12
 
 ------
 
-- `Content <{filename}pt14-content-of-part14%zh.rst>`__ of Part 14 on "Dhamma Talks by Mogok Sayadaw"
+- `Content <{filename}pt15-content-of-part15%zh.rst>`__ of Part 15 on "Dhamma Talks by Mogok Sayadaw"
 
 ------
 

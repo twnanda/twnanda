@@ -40,7 +40,7 @@ revised on 2024-06-10
 
 ------
 
-- `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Ven. Uttamo
+- `Content <{filename}pt15-content-of-part15%zh.rst>`__ of Part 15 on "Dhamma Talks by Mogok Sayadaw"
 
 ------
 

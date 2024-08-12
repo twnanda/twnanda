@@ -47,7 +47,7 @@ revised on 2024-07-30
 
 ------
 
-- `Content <{filename}pt14-content-of-part14%zh.rst>`__ of Part 14 on "Dhamma Talks by Mogok Sayadaw"
+- `Content <{filename}pt15-content-of-part15%zh.rst>`__ of Part 15 on "Dhamma Talks by Mogok Sayadaw"
 
 ------
 
