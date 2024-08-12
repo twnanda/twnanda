@@ -3,14 +3,14 @@ Content of Part 15 on Dhamma Talks by Mogok Sayadaw
 ====================================================
 
 :date: 2024-06-10
-:modified: 2024-06-10
+:modified: 2024-08-12
 :tags: Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Part 14 on Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
 
 _`Part 15`
 
-- 1.) `Sufferings Made by Humans <{filename}pt15-01-sufferings-made-by-humans%zh%zh.rst>`_ (1962-04-08 and 09)
+- 1.) `Sufferings Made by Humans <{filename}pt15-01-sufferings-made-by-humans%zh.rst>`_ (1962-04-08 and 09)
 
 - 2.) `Humans’ Own Properties <{filename}pt15-02-humans-own-properties%zh.rst>`_ (1962-04-17)
 
@@ -96,6 +96,8 @@ _`Part 15`
 
 - 43.) `The Buddha’s View / Human’s Fires <{filename}pt15-43-buddhas-view-humans-fires%zh.rst>`_ (1960-12-05)
 
+- 44.) `Two Dhamma Lights <{filename}pt15-44-two-dhamma-lights%.rst>`_ (1962-06-23)
+
 ------
 
 - `Content <{filename}content-of-dhamma-talks-by-mogok-sayadaw%zh.rst>`__ of "Dhamma Talks by Mogok Sayadaw"
@@ -109,4 +111,6 @@ _`Part 15`
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-12 add: Part15-44 Two Dhamma Lights
+  07-09 rev. old: pt15-01-sufferings-made-by-humans%zh%zh.rst
   2024-06-10 create 

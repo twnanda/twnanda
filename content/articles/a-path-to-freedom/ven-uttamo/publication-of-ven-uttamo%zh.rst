@@ -897,7 +897,7 @@ _`Part 15` ( `content of Part 15 <{filename}dhamma-talks-by-mogok-sayadaw/pt15-c
 
 - 43.) `The Buddha’s View / Human’s Fires <{filename}dhamma-talks-by-mogok-sayadaw/pt15-43-buddhas-view-humans-fires%zh.rst>`_ (1960-12-05)
 
-- 44.) `Two Dhamma Lights <{filename}dhamma-talks-by-mogok-sayadaw/pt15-44-two-dhamma-lights.rst>`_ (1962-06-23)
+- 44.) `Two Dhamma Lights <{filename}dhamma-talks-by-mogok-sayadaw/pt15-44-two-dhamma-lights%zh.rst>`_ (1962-06-23)
 
 _`Part 16` 
 

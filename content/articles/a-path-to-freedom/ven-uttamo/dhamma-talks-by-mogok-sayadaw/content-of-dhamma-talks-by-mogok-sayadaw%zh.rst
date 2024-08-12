@@ -882,7 +882,7 @@ _`Part 15`
 
 - 43.) `The Buddha’s View / Human’s Fires <{filename}pt15-43-buddhas-view-humans-fires%zh.rst>`_ (1960-12-05)
 
-- 44.) `Two Dhamma Lights <{filename}pt15-44-two-dhamma-lights.rst>`_ (1962-06-23)
+- 44.) `Two Dhamma Lights <{filename}pt15-44-two-dhamma-lights%.rst>`_ (1962-06-23)
 
 _`Part 16`
 
