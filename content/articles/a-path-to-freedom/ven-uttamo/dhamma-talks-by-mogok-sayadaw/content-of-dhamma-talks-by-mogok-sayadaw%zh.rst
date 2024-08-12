@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2024-08-08
+:modified: 2024-08-12
 :tags: publication, Bhikkhu Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -882,6 +882,8 @@ _`Part 15`
 
 - 43.) `The Buddha’s View / Human’s Fires <{filename}pt15-43-buddhas-view-humans-fires%zh.rst>`_ (1960-12-05)
 
+- 44.) `Two Dhamma Lights <{filename}pt15-44-two-dhamma-lights.rst>`_ (1962-06-23)
+
 _`Part 16`
 
 Under Construction!
@@ -930,6 +932,7 @@ revised on 2024-08-08
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-12 add: Part15-44 Two Dhamma Lights
   08-09 rev. mogok sayadaw fulltext & cover
   06-10 rev. Part 14 and add Part 15
   2024-03-27 add Part 14

@@ -1,38 +1,30 @@
-====================
-Two Dhamma Lights
-====================
+============================
+Don’t Waste Your Times
+============================
 
-:date: 2024-06-10
-:modified: 2024-06-10
+:date: 2024-08-12
+:modified: 2024-08-12
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Two Dhamma Lights (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-10
+revised on 2024-08-12
 
 ------
 
-Dhamma Talks by Mogok Sayadaw; 23rd June 1962
+Dhamma Talks by Mogok Sayadaw; 9th June 1962
 
-[This talk is inspirational and instills confidence in the practice]
+[In this talk, we see the strong exhortation by Sayadaw to his listeners for their spiritual development. This is his last visit to Mogok and after a few months, he will put down his burdened suffering khandha for eternal peace.] 
 
-There are two correct seeings: seeing with the insight path factors and seeing with the path factors (i.e., vipassanā maggaṅga and magga ñāṇa). Whatever phenomenon (dhamma) you’re contemplating over a long period will not be perceived as mind, feeling, etc., but only as the rising and falling of anicca. This is the observation of saṅkhāra dukkha. This type of seeing can only be seen within the Buddha Sāsana. Whatever arises in the khandha, note it as saṅkhāra dukkha. This is the precursor to the arising of the supra-mundane path factor (i.e., lokuttara magga or magga ñāṇa). If you die with this seeing, you will not descend to apāyas; as soon as you reach sugati, the authentic magga (referred to as magga ñāṇa) arises.
+You all were missing the two good noble truths (nirodha and magga saccas) in the whole of saṁsāra and also never had a good living. Never having a life with no worries and no dying. The maggan way is free from fear, fright, and crying. The reason why the Buddha had fulfilled all the different perfections (i.e., ten pāramitās) was to search for the maggan path (to end dukkha and teach living beings). We only have to follow the path he searched for us. So, no need to give many reasons and arguments (see the later tradition) for it. Don’t be too slow in following it, because the path can disappear (it seems to refer to his teachings). All these points are mentioned in the Saṁyutta Nikāya. You are getting the way of the practice easily and don’t postpone the time for tomorrow or the day after tomorrow. Death will overcome you, because it’s the non-self khandha.
 
-(This point was mentioned in the Sotānugata Sutta at Aṅguttara Nikāya, AN 4.191. This point is interesting: those who are reborn in a celestial realm. The Buddha goes and helps someone who has this quality (someone who has the potential for realization).
+[Sayadaw explained the four meanings of magga sacca (the noble path) and gave instructions for the practice.] What does the khandha tell you? What does the khandha originally have? Sabbe Saṅkhāra anicca – all conditions are impermanent. This is anicca vata saṅkhāra khandha — with compounded things and impermanence. It’s conditioned by others and arises and vanishes. It’s important to discern the phenomenon arising here and vanishing here. Don’t ask the question of where it comes from and after it vanishes where it goes? It comes from an unseen place and arises here. It arises in this place with causes and after it vanishes, doesn’t go anywhere, and it disappears here. You have to watch and observe it arise and vanish here. This is vipassanā. It was like lightning in the dark sky (i.e., from Udāna Pāli). As an example, when bathing with cold water, every time you pour water on the body, warmness vanishes and coldness arises. If samādhi becomes mature, the form of the khandha disappears and only seeing anicca remains.
 
-The Buddha will certainly help someone or people who have this view. For someone, this is the view of freeing oneself from dukkha (Sayadaw gave the example of Ven. Cūḷa-panthaka). If you’re not seeing it, there is no benefit to becoming a human. (This point is very important for Buddhists to not miss this precious chance).
-
-If one does not possess this view, even meeting the Buddha, he can’t do anything. Saṅkhāra dukkha always exists in the khandha. Don’t get a good teacher that it makes people blind (it appears they have a good eye but can’t see). Some pray, "May I meet the future Buddha Metteyya!" If you don’t have this ñāṇa with you and meet him, it will also be useless. You can’t be liberated by him. 
-
-(This point is very important for Buddhists who believe in some vows and mantras that can help them with some Buddhas, bodhisattvas at Buddha Lands. Most of them only have one light, which is believing in the law of kamma and not knowing about the five darknesses and five lights.)
-
-You have to practice hard to discern this view. Seeing once, seeing twice, with seeing a lot of them, you have to note it as supra-mundane knowledge that will arise. If you follow the end of aniccas, saṅkhāra dukkha will come to an end, and magga sammā diṭṭhi will arise. The path knowledge meets with asaṅkhāta sukha. In the past, monks did not teach this kind of Dhamma; they did not talk about it, and most people think Nibbāna is very far away for them, unable to reach it because they think it's far away for them. (It’s interesting to contemplate these factors in Thai and Burmese Buddhism before the end of the 19th century, i.e., before the Thai forest tradition and Ledi Sayadaw)
-
-The Buddha also talked about it; if you practice it yourself, the practice will tell you that it’s near. My worry is that you don’t do the practice. There is nothing to be low-spirited about. Getting the anicca khandha is getting the vaṭṭa-khandha. You’ll be liberated from vipāka-vaṭṭa by not seeing aniccas anymore (i.e., as a result of the round of existence). Peace and coolness are left behind in the khandha. Mind and body become light, and gladness arises as a heavy load is lifted off – free from the dangers of WOEFUL EXISTENCES – ĀPAYAS.
+You’ll see the real existence of paramatā dhamma vanishing. You have to follow the arising of them in the whole khandha. In the Saṁyutta Nikāya, it is mentioned that searching within the two arms' length of the khandha will reveal Nibbāna. In the khandha, there is only the arising of dukkha and the vanishing of dukkha. Form (rūpa), feeling (vedanā), etc., are only names. If you discern the impermanence of dukkha, you are attaining the path factors (maggaṅga). It’s only through contemplation, not by prayers. The development of the path factors cuts off the water root of Taṇhā.
 
 ------
 
-revised on 2024-06-10
+revised on 2024-08-12
 
 ------
 
@@ -51,4 +43,4 @@ revised on 2024-06-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2024-06-10 create rst, proofread by bhante Uttamo
+  2024-08-12; 06-10 create rst; content mistaken with pt15-44-two-dhamma-lights

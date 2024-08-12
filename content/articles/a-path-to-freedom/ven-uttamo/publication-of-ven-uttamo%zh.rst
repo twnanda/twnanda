@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2024-08-09
+:modified: 2024-08-12
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -897,6 +897,8 @@ _`Part 15` ( `content of Part 15 <{filename}dhamma-talks-by-mogok-sayadaw/pt15-c
 
 - 43.) `The Buddha’s View / Human’s Fires <{filename}dhamma-talks-by-mogok-sayadaw/pt15-43-buddhas-view-humans-fires%zh.rst>`_ (1960-12-05)
 
+- 44.) `Two Dhamma Lights <{filename}dhamma-talks-by-mogok-sayadaw/pt15-44-two-dhamma-lights.rst>`_ (1962-06-23)
+
 _`Part 16` 
 
 - 1.) `Right Perception, Knowing and Viewing <{filename}dhamma-talks-by-mogok-sayadaw/pt16-01-right-perception-knowing-and-viewing%zh.rst>`_ (1960-12-20)
@@ -1384,6 +1386,7 @@ Right Samādhi and Right Insight
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-12 add: Part15-44 Two Dhamma Lights
   08-09 rev. mogok sayadaw fulltext & cover; old: https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf (2021-10-21); https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5.pdf 1115 pages, 2021-10-21;   * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-1.pdf>`__ (569 pages, 2021-10-21);   * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-2.pdf>`__ (558 pages, 2021-10-21); https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5.pdf>`__ (1483 pages, 2021-10-21) **Note:** There are three (3) pages which are colourful: Page 53, 67 and 446. 
   * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-1.pdf>`__ [515 pages, 2021-10-21, Translator's Notes ~ Part 05-16 (The Most Important Thing in Life)]; **Note:** There are three (3) pages which are colourful for print on this Volumn: 
 
