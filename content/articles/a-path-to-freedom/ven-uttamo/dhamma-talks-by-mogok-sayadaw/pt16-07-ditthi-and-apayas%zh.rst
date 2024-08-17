@@ -3,12 +3,12 @@ Diṭṭhi And Apāyas
 ==========================================
 
 :date: 2024-07-10
-:modified: 2024-07-10
+:modified: 2024-08-17
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Diṭṭhi And Apāyas (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-07-10
+revised on 2024-08-17
 
 ------
 
@@ -32,7 +32,7 @@ And then the cuti mind arises (i.e., the last mind moment at the time of death).
 
 Therefore, the Buddha exhorts us to practice 1792 times in his 45 years of teaching. Some people are crying near death, with tears flowing down their faces, because they are seeing the dugati nimittas (bad destinations – such as hell, ghost, animal realms). How terrible is that? This is not an ordinary matter, but the most important matter. Therefore, don’t give any excuses and reasons for your practice. If you say "I have no time" it means you don't have any sympathy for yourself.
 
-Some Refections
+Some Reflections
 ~~~~~~~~~~~~~~~~~
 
 If we never study the Buddha Dhamma, we will never know the dangers of saṁsāra while carrying with us the latent defilements of the three unwholesome roots – greed, hatred, and delusion, along with its other companions. The untrained mind mostly inclines toward unwholesome dhammas. Most ordinary Buddhists do not know the dangers and its consequences of Diṭṭhi. For worldlings, there are only two kinds of kamma – unwholesome and wholesome. Throughout their whole day and whole life, all their actions (mental, speech, and body) are of these two kinds, mostly the negative ones. This happens to world leaders, politicians, economists, scientists, etc. If we do not study the Buddha's teachings, apply it in daily life, and practice the noble eightfold path, the frequent homes of all worldlings will be the four apāyas. This is not an exaggeration. We can check ourselves with the standard law of the D.A. process. The Buddha also warns us.
@@ -47,7 +47,7 @@ Right views, right thoughts, and right actions are related to wisdom – right k
 
 ------
 
-revised on 2024-07-10
+revised on 2024-08-17
 
 ------
 
@@ -66,4 +66,5 @@ revised on 2024-07-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-17 rev. replace refection with reflection, proofread by Bhante
   2024-07-10; create rst on 07-09
