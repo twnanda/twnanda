@@ -3,7 +3,7 @@ Content of Part 16 on Dhamma Talks by Mogok Sayadaw
 ====================================================
 
 :date: 2024-07-10
-:modified: 2024-07-10
+:modified: 2024-08-20
 :tags: Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Part 16 on Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -84,12 +84,6 @@ _`Part 16`
 
 - 37.) `Nature of Stream Enterer <{filename}pt16-37-nature-of-stream-enterer%zh.rst>`_ (1962-07-01)
 
-- 38.) `Postcript <{filename}pt16-38-postcript%zh.rst>`_ 
-
-- 39.) `Chance and Duty <{filename}pt16-39-chance-and-duty%zh.rst>`_ 
-
-- 40.) `Dhamma Reflection: Choice and Chance <{filename}pt16-40-dhamma-reflection-choice-and-chance%zh.rst>`_ 
-
 ------
 
 - `Content <{filename}content-of-dhamma-talks-by-mogok-sayadaw%zh.rst>`__ of "Dhamma Talks by Mogok Sayadaw"
@@ -103,4 +97,5 @@ _`Part 16`
 **According to the translator—Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-20 re-arrange content: 38.) Postcript; 39.) Chance and Duty; 40.) Dhamma Reflection: Choice and Chance are moved to higher order
   2024-07-10 create 

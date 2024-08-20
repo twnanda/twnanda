@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2024-08-12
+:modified: 2024-08-20
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -51,8 +51,13 @@ Dhamma Talks by Mogok Sayadaw
      - `Part 14`_
      - `Part 15`_
      - `Part 16`_
-     - `Epilogue <{filename}dhamma-talks-by-mogok-sayadaw/postscript%zh.rst>`__
-   * - `Appendix <{filename}dhamma-talks-by-mogok-sayadaw/appendix%zh.rst>`__ ( `Manuscript of Translations <{filename}dhamma-talks-by-mogok-sayadaw/translation-manuscript%zh.rst>`__ )
+     - `Epilogue <{filename}dhamma-talks-by-mogok-sayadaw/postscript%zh.rst>`__ **(after Part 13)**
+   * - `Appendix <{filename}dhamma-talks-by-mogok-sayadaw/appendix%zh.rst>`__ **(after Part 13)**
+     - `Postcript <{filename}dhamma-talks-by-mogok-sayadaw/pt16-38-postcript%zh.rst>`__ (after Part 16) 
+     - `Chance and Duty (Appendix) <{filename}dhamma-talks-by-mogok-sayadaw/pt16-39-chance-and-duty%zh.rst>`__ (after Part 13)
+     - `Dhamma Reflection: Choice and Chance <{filename}dhamma-talks-by-mogok-sayadaw/pt16-40-dhamma-reflection-choice-and-chance%zh.rst>`__ 
+     - `About the translator <{filename}dhamma-talks-by-mogok-sayadaw/dhamma-talks-by-mogok-sayadaw-about-the-translator%zh.rst>`__
+   * - `Manuscript of Translations <{filename}dhamma-talks-by-mogok-sayadaw/translation-manuscript%zh.rst>`__ )
      - `Full Text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-reading-2024-0808.pdf>`__ (PDF, 2024-08-08, for reading, on a soya green background)
      - 
      - 
@@ -975,12 +980,6 @@ _`Part 16`
 
 - 37.) `Nature of Stream Enterer <{filename}dhamma-talks-by-mogok-sayadaw/pt16-37-nature-of-stream-enterer%zh.rst>`_ (1962-07-01)
 
-- 38.) `Postcript <{filename}dhamma-talks-by-mogok-sayadaw/pt16-38-postcript%zh.rst>`_ 
-
-- 39.) `Chance and Duty <{filename}dhamma-talks-by-mogok-sayadaw/pt16-39-chance-and-duty%zh.rst>`_ 
-
-- 40.) `Dhamma Reflection: Choice and Chance <{filename}dhamma-talks-by-mogok-sayadaw/pt16-40-dhamma-reflection-choice-and-chance%zh.rst>`_ 
-
 ------
 
 - `About the translator <{filename}dhamma-talks-by-mogok-sayadaw/dhamma-talks-by-mogok-sayadaw-about-the-translator%zh.rst>`__
@@ -1106,7 +1105,7 @@ the translator : Bhikkhu Uttamo (鄔達摩  比丘）
        | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-day18-2002-11-03.mp3>`__ 17'54", `Youtube <https://www.youtube.com/watch?v=VTF6GSwRY-I&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=19>`__ )
        | 
 
-     - | `About the translator <{filename}eighteen-days-in-solitude/eighteen-days-in-solitude-about-the-translator%zh.rst>`__
+     - | `About the translator (MP3) <{filename}eighteen-days-in-solitude/eighteen-days-in-solitude-about-the-translator%zh.rst>`__
        | (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-about-the-translator.mp3>`__ 1'09", `Youtube <https://www.youtube.com/watch?v=cekfluyXGzY&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=20>`__ )
        | 
 
@@ -1386,6 +1385,7 @@ Right Samādhi and Right Insight
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-20 add: content of part 16 & re-arrange content: 38. Postcript; 39. Chance and Duty; 40. Dhamma Reflection: Choice and Chance are moved to higher order
   08-12 add: Part15-44 Two Dhamma Lights
   08-09 rev. mogok sayadaw fulltext & cover; old: https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf (2021-10-21); https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5.pdf 1115 pages, 2021-10-21;   * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-1.pdf>`__ (569 pages, 2021-10-21);   * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-2.pdf>`__ (558 pages, 2021-10-21); https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5.pdf>`__ (1483 pages, 2021-10-21) **Note:** There are three (3) pages which are colourful: Page 53, 67 and 446. 
   * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-1.pdf>`__ [515 pages, 2021-10-21, Translator's Notes ~ Part 05-16 (The Most Important Thing in Life)]; **Note:** There are three (3) pages which are colourful for print on this Volumn: 
