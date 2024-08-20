@@ -54,8 +54,8 @@ Dhamma Talks by Mogok Sayadaw
      - `Epilogue <{filename}dhamma-talks-by-mogok-sayadaw/postscript%zh.rst>`__ **(after Part 13)**
    * - `Appendix <{filename}dhamma-talks-by-mogok-sayadaw/appendix%zh.rst>`__ **(after Part 13)**
      - `Postcript <{filename}dhamma-talks-by-mogok-sayadaw/pt16-38-postcript%zh.rst>`__ (after Part 16) 
-     - `Chance and Duty (Appendix) <{filename}dhamma-talks-by-mogok-sayadaw/pt16-39-chance-and-duty%zh.rst>`__ (after Part 13)
-     - `Dhamma Reflection: Choice and Chance <{filename}dhamma-talks-by-mogok-sayadaw/pt16-40-dhamma-reflection-choice-and-chance%zh.rst>`__ 
+     - `Chance and Duty (Appendix) <{filename}dhamma-talks-by-mogok-sayadaw/pt16-39-chance-and-duty%zh.rst>`__ (after Part 16)
+     - `Dhamma Reflection: Choice and Chance <{filename}dhamma-talks-by-mogok-sayadaw/pt16-40-dhamma-reflection-choice-and-chance%zh.rst>`__ (after Part 16)
      - `About the translator <{filename}dhamma-talks-by-mogok-sayadaw/dhamma-talks-by-mogok-sayadaw-about-the-translator%zh.rst>`__
    * - `Manuscript of Translations <{filename}dhamma-talks-by-mogok-sayadaw/translation-manuscript%zh.rst>`__ )
      - `Full Text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-reading-2024-0808.pdf>`__ (PDF, 2024-08-08, for reading, on a soya green background)
@@ -1385,7 +1385,7 @@ Right Samādhi and Right Insight
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  08-20 add: content of part 16 & re-arrange content: 38. Postcript; 39. Chance and Duty; 40. Dhamma Reflection: Choice and Chance are moved to higher order
+  08-20 add: (after Part 16); add: content of part 16 & re-arrange content: 38. Postcript; 39. Chance and Duty; 40. Dhamma Reflection: Choice and Chance are moved to higher order
   08-12 add: Part15-44 Two Dhamma Lights
   08-09 rev. mogok sayadaw fulltext & cover; old: https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-green.pdf (2021-10-21); https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5.pdf 1115 pages, 2021-10-21;   * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-1.pdf>`__ (569 pages, 2021-10-21);   * `Vol. II <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-vol-2.pdf>`__ (558 pages, 2021-10-21); https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5.pdf>`__ (1483 pages, 2021-10-21) **Note:** There are three (3) pages which are colourful: Page 53, 67 and 446. 
   * `Vol. I <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-vol-1.pdf>`__ [515 pages, 2021-10-21, Translator's Notes ~ Part 05-16 (The Most Important Thing in Life)]; **Note:** There are three (3) pages which are colourful for print on this Volumn: 
