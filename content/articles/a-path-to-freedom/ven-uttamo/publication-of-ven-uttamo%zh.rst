@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2024-08-22
+:modified: 2024-08-23
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -53,7 +53,7 @@ Dhamma Talks by Mogok Sayadaw
      - `Part 16`_
      - `Epilogue <{filename}dhamma-talks-by-mogok-sayadaw/postscript%zh.rst>`__ **(after Part 13)**
    * - `Appendix <{filename}dhamma-talks-by-mogok-sayadaw/appendix%zh.rst>`__ **(after Part 13)**
-     - `Postcript <{filename}dhamma-talks-by-mogok-sayadaw/pt16-38-postcript%zh.rst>`__ (after Part 16) 
+     - `Postscript <{filename}dhamma-talks-by-mogok-sayadaw/pt16-38-postcript%zh.rst>`__ (after Part 16) 
      - `Chance and Duty (Appendix) <{filename}dhamma-talks-by-mogok-sayadaw/pt16-39-chance-and-duty%zh.rst>`__ (after Part 16)
      - `Dhamma Reflection: Choice and Chance <{filename}dhamma-talks-by-mogok-sayadaw/pt16-40-dhamma-reflection-choice-and-chance%zh.rst>`__ (after Part 16)
      - `About the translator <{filename}dhamma-talks-by-mogok-sayadaw/dhamma-talks-by-mogok-sayadaw-about-the-translator%zh.rst>`__
@@ -1385,6 +1385,7 @@ Right Samādhi and Right Insight
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-23 rev. mis-typing:Postcript
   08-22; 08-21 rev. 5 files of fulltext
   08-20 add: (after Part 16); add: content of part 16 & re-arrange content: 38. Postcript; 39. Chance and Duty; 40. Dhamma Reflection: Choice and Chance are moved to higher order
   08-12 add: Part15-44 Two Dhamma Lights

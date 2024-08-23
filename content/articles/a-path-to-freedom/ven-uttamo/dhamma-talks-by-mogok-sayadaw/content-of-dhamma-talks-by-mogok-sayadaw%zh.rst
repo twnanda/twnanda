@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2024-08-22
+:modified: 2024-08-23
 :tags: publication, Bhikkhu Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -39,7 +39,7 @@ Dhamma Talks by Mogok Sayadaw
      - `Part 16`_
      - `Epilogue <{filename}postscript%zh.rst>`__ **(after Part 13)**
    * - `Appendix <{filename}appendix%zh.rst>`__ **(after Part 13)**
-     - `Postcript <{filename}pt16-38-postscript%zh.rst>`__ (after Part 16) 
+     - `Postscript <{filename}pt16-38-postscript%zh.rst>`__ (after Part 16) 
      - `Chance and Duty (Appendix) <{filename}pt16-39-chance-and-duty%zh.rst>`__ (after Part 16)
      - `Dhamma Reflection: Choice and Chance <{filename}pt16-40-dhamma-reflection-choice-and-chance%zh.rst>`__  (after Part 16)
      - `About the translator`_ 
@@ -1009,6 +1009,7 @@ revised on 2024-08-21
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  08-23 rev. mis-typing:Postcript
   08-22; 08-21 rev. 5 files of fulltext
   08-20 rev.  add:(after Part 16) add: content of part 16 & re-arrange content: 38. Postcript; 39. Chance and Duty; 40. Dhamma Reflection: Choice and Chance are moved to higher order
   08-12 add: Part15-44 Two Dhamma Lights
