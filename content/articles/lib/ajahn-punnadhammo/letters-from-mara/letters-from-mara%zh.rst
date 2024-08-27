@@ -3,12 +3,12 @@
 ================================
 
 :date: 2024-08-05
-:modified: 2024-08-26
-:tags: 魔羅的來信, 阿瞻, 阿姜, 阿瞻富樓那達摩, 阿姜富樓那達摩, 阿姜蓬那達摩, 阿姜普那達摩, Ajahn Punnadhammo, Ajahn Puṇṇadhammo, 阿瞻法滿
+:modified: 2024-08-27
+:tags: 魔羅的來信, 阿瞻, 阿姜, 阿瞻普那達摩, 阿姜普那達摩, 阿姜蓬那達摩, Ajahn Punnadhammo, Ajahn Puṇṇadhammo, 阿瞻法滿
 :category: 書選
 :summary: 魔羅的來信(Letters from Mara)
 
-阿姜 富樓那達摩 著 (By Ajahn Punnadhammo, Ajahn Puṇṇadhammo) 
+阿瞻 普那達摩 著 (By Ajahn Punnadhammo, Ajahn Puṇṇadhammo) 
 
 ------
 
@@ -17,7 +17,7 @@
 ------
 
 - `序言 <{filename}mara-intr%zh.rst>`_ 
-- `第一軍：感官之主——慾望 <{filename}mara01%zh.rst>`_ （建構中！）
+- `第一軍：感官之主——慾望 <{filename}mara01%zh.rst>`_ 
 - `第二軍：不滿足 <{filename}mara02%zh.rst>`_ （建構中！）
 - `第三軍：飢餓和口渴 <{filename}mara03%zh.rst>`_ （建構中！）
 - `第四軍：渴愛 <{filename}mara04%zh.rst>`_ （建構中！）
@@ -85,6 +85,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  08-27 add 第一軍：感官之主——慾望
   08-26 rev. finish chapter 1 and backup for reference
   2024-08-05; create rst on 2024-08-05
 
