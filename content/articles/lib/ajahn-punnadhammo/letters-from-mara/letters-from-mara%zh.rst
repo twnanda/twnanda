@@ -3,7 +3,7 @@
 ================================
 
 :date: 2024-08-05
-:modified: 2024-09-01
+:modified: 2024-09-03
 :tags: 魔羅的來信, 阿瞻, 阿姜, 阿瞻普那達摩, 阿姜普那達摩, 阿姜蓬那達摩, Ajahn Punnadhammo, Ajahn Puṇṇadhammo, 阿瞻法滿
 :category: 書選
 :summary: 魔羅的來信(Letters from Mara)
@@ -19,7 +19,7 @@
 - `序言 <{filename}mara-intr%zh.rst>`_ 
 - `第一軍：感官之主——慾望 <{filename}mara01%zh.rst>`_ 
 - `第二軍：無聊（不滿足） <{filename}mara02%zh.rst>`_ 
-- `第三軍：飢餓和口渴 <{filename}mara03%zh.rst>`_ （建構中！）
+- `第三軍：飢渴交加（飢餓和口渴） <{filename}mara03%zh.rst>`_ 
 - `第四軍：渴愛 <{filename}mara04%zh.rst>`_ （建構中！）
 - `第五軍：惛沈和睡眠 <{filename}mara05%zh.rst>`_ （建構中！）
 - `第六軍：怯懦 <{filename}mara06%zh.rst>`_ （建構中！）
@@ -89,6 +89,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  09-03 rev. finish chapter 3
   09-01 rev. finish chapter 2; replace 道場 with 隱修院
   08-27 rev. remove hiden 以正念劍，退十魔軍; add: 就在今生 （In This Very Life）; add 第一軍：感官之主——慾望
   08-26 rev. finish chapter 1 and backup for reference
