@@ -1,9 +1,8 @@
 《中部尼柯耶》閱讀地圖(菩提比丘)
-================================
+===================================
 
 :date: 2012-04-03 07:00
-:modified: 2019-02-11
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/maps-MN-Bodhi.html
+:modified: 2024-09-06
 :tags: 《中部尼柯耶》閱讀地圖, A Systematic Study of the Majjhima Nikāya--Exploring the Word of the Buddha (BODHI MONASTERY), 中部, 尼柯耶, Majjhima Nikāya
 :category: 巴利三藏中部
 :summary: 《中部尼柯耶》閱讀地圖, A Systematic Study of the Majjhima Nikāya--Exploring the Word of the Buddha (BODHI MONASTERY)(菩提尊者)
@@ -148,7 +147,7 @@
 
     - `陷阱堆經 <http://agama.buddhason.org/MN/MN026.htm>`_ (另版 Ariyapariyesanāsuttaṃ 聖遍求經); 莊春江 譯 [3]_
 
-    - `尋求聖法經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=207>`_ ; 蕭式球 譯 [4]_
+    - `尋求聖法經 <{filename}mn026-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `聖求經 <http://tripitaka.cbeta.org/B06n0004_001#0122a26>`__ 芝峯 譯(華宇) [5]_
 
@@ -200,7 +199,7 @@
 
   * 漢譯：
 
-    - `恐懼驚慌經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=185>`_ 蕭式球 譯 [4]_
+    - `恐懼驚慌經 <{filename}mn004-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `恐怖與害怕經 <http://agama.buddhason.org/MN/MN004.htm>`_ 莊春江 譯 [3]_
 
@@ -243,7 +242,7 @@
 
   * 漢譯：
 
-    - `大薩遮經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=217>`_ ; 蕭式球 譯 [4]_
+    - `大薩遮經 <{filename}mn036-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `薩遮迦大經 <http://agama.buddhason.org/MN/MN036.htm>`_ ; 莊春江 譯 [3]_
 
@@ -285,7 +284,7 @@
 
   * 漢譯：
 
-    - `大獅吼經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=193>`_ ; 蕭式球 譯 [4]_
+    - `大獅吼經 <{filename}mn012-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `師子吼大經 <http://agama.buddhason.org/MN/MN012.htm>`_ ; 莊春江 譯 [3]_
 
@@ -366,7 +365,7 @@
 
   * 巴、漢、英文對讀：
 
-    - `本站 <{static}/extra/tipitaka/sutta/anguttara/an03/an03.65.contrast-reading.html>`__
+    - `本站 <{filename}/extra/tipitaka/sutta/anguttara/an03/an03.65.contrast-reading.html>`__
 
     - `Details for AN 3.65 Kesaputti [Kālāma] <https://suttacentral.net/an3.65>`__ ( `SuttaCentral <https://suttacentral.net/>`__ [10]_ )
 
@@ -384,7 +383,7 @@
 
   * 漢譯：
 
-    - `無諍經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=241>`_  ; 蕭式球 譯 [4]_
+    - `無諍經 <{filename}mn060-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `無缺點經 <http://agama.buddhason.org/MN/MN060.htm>`_  ; 莊春江 譯 [3]_
 
@@ -428,7 +427,7 @@
 
   * 漢譯：
 
-    - `觀察經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=228>`_ ; 蕭式球 譯 [4]_
+    - `觀察經 <{filename}mn047-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `考察經 <http://agama.buddhason.org/MN/MN047.htm>`_ ; 莊春江 譯 [3]_
 
@@ -470,7 +469,7 @@
 
   * 漢譯：
 
-    - `闡基經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=364>`__ ; 蕭式球 譯 [4]_
+    - `闡基經 <{filename}mn095-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `鄭計經 <http://agama.buddhason.org/MN/MN095.htm>`__ ; 莊春江 譯 [3]_
 
@@ -523,7 +522,7 @@
 
   * 漢譯：
 
-    - `大行法經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=227>`__  ; 蕭式球 譯 [4]_
+    - `大行法經 <{filename}mn046-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `法的受持大經 <http://agama.buddhason.org/MN/MN046.htm>`__ ; 莊春江 譯 [3]_
 
@@ -568,7 +567,7 @@
 
   * 漢譯：
 
-    - `狗戒經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=238>`__  ; 蕭式球 譯 [4]_
+    - `狗戒經 <{filename}mn057-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `守狗戒者經 <http://agama.buddhason.org/MN/MN057.htm>`__ ; 莊春江 譯 [3]_
 
@@ -612,7 +611,7 @@
 
   * 漢譯：
 
-    - `小分析業經 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=459>`__  ; 蕭式球 譯 [4]_
+    - `小分析業經 <{filename}mn135-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `業分別小經 <http://agama.buddhason.org/MN/MN135.htm>`__  ; 莊春江 譯 [3]_
 
@@ -654,7 +653,7 @@
 
   * 漢譯：
 
-    - `娑羅村經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=222>`__  ; 蕭式球 譯 [4]_
+    - `娑羅村經 <{filename}mn041-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `沙拉經 <http://agama.buddhason.org/MN/MN041.htm>`__ ; 莊春江 譯 [3]_
 
@@ -695,7 +694,7 @@
 
   * 漢譯：
 
-    - `行與再投生經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=393>`__ ; 蕭式球 譯 [4]_
+    - `行與再投生經 <{filename}mn120-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `往生之意志經 <http://agama.buddhason.org/MN/MN120.htm>`__ ; 莊春江 譯 [3]_
 
@@ -729,7 +728,7 @@
 
   * 漢譯：
 
-    - `芒果林教化羅睺邏經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=242>`__ ; 蕭式球 譯 [4]_
+    - `芒果林教化羅睺邏經 <{filename}mn061-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `芒果樹苖圃教誡羅侯羅經 <http://agama.buddhason.org/MN/MN061.htm>`__ ; 莊春江 譯 [3]_
 
@@ -763,7 +762,7 @@
 
   * 漢譯：
 
-    - `鋸喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=202>`__ ; 蕭式球 譯 [4]_
+    - `鋸喻經 <{filename}mn021-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `鋸子譬喻經 <http://agama.buddhason.org/MN/MN021.htm>`__ ; 莊春江 譯 [3]_
 
@@ -810,7 +809,7 @@
 
   * 漢譯：
 
-    - `大苦蘊經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=194>`__ ; 蕭式球 譯 [4]_
+    - `大苦蘊經 <{filename}mn013-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `苦蘊大經 <http://agama.buddhason.org/MN/MN013.htm>`__ ; 莊春江 譯 [3]_
 
@@ -853,7 +852,7 @@
 
   * 漢譯：
 
-    - `頗多利耶經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=235>`__ ; 蕭式球 譯 [4]_
+    - `頗多利耶經 <{filename}mn054-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `迫得利亞經 <http://agama.buddhason.org/MN/MN054.htm>`__ ; 莊春江 譯 [3]_
 
@@ -889,7 +888,7 @@
 
   * 漢譯：
 
-    - `摩緊提耶經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=256>`__ ; 蕭式球 譯 [4]_
+    - `摩緊提耶經 <{filename}mn075-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `馬更地亞經 <http://agama.buddhason.org/MN/MN075.htm>`__ ; 莊春江 譯 [3]_
 
@@ -966,7 +965,7 @@
 
   * 漢譯：
 
-    - `賴吒和羅經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=263>`__ ; 蕭式球 譯 [4]_
+    - `賴吒和羅經 <{filename}mn082-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `護國經 <http://agama.buddhason.org/MN/MN082.htm>`__ 莊春江 譯 [3]_
 
@@ -1013,7 +1012,7 @@
 
   * 漢譯：
 
-    - `小摩倫迦經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=244>`__ ; 蕭式球 譯 [4]_
+    - `小摩倫迦經 <{filename}mn063-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `瑪魯迦小經 <http://agama.buddhason.org/MN/MN063.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1050,7 +1049,7 @@
 
   * 漢譯：
 
-    - `大實木喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=210>`__ ; 蕭式球 譯 [4]_
+    - `大實木喻經 <{filename}mn029-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `心材譬喻大經 <http://agama.buddhason.org/MN/MN029.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1092,7 +1091,7 @@
 
   * 漢譯：
 
-    - `小象跡喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=208>`__ ; 蕭式球 譯 [4]_
+    - `小象跡喻經 <{filename}mn027-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `象足跡譬喻小經 <http://agama.buddhason.org/MN/MN027.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1130,7 +1129,7 @@
 
   * 漢譯：
 
-    - `大馬城經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=220>`__ ; 蕭式球 譯 [4]_
+    - `大馬城經 <{filename}mn039-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `馬城大經 <http://agama.buddhason.org/MN/MN039.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1168,7 +1167,7 @@
 
   * 漢譯：
 
-    - `小馬城經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=221>`__ ; 蕭式球 譯 [4]_
+    - `小馬城經 <{filename}mn040-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `馬城小經 <http://agama.buddhason.org/MN/MN040.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1202,7 +1201,7 @@
 
   * 漢譯：
 
-    - `希望經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=187>`__ ; 蕭式球 譯 [4]_
+    - `希望經 <{filename}mn006-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `希望經 <http://agama.buddhason.org/MN/MN006.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1242,7 +1241,7 @@
 
   * 漢譯：
 
-    - `兩類覺經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=200>`__ ; 蕭式球 譯 [4]_
+    - `兩類覺經 <{filename}mn019-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `二種尋經 <http://agama.buddhason.org/MN/MN019.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1280,7 +1279,7 @@
 
   * 漢譯：
 
-    - `覺止息經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=201>`__ ; 蕭式球 譯 [4]_
+    - `覺止息經 <{filename}mn020-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `尋之止息經 <http://agama.buddhason.org/MN/MN020.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1320,7 +1319,7 @@
 
   * 漢譯：
 
-    - `布喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=188>`__ ; 蕭式球 譯 [4]_
+    - `布喻經 <{filename}mn007-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `衣服經 <http://agama.buddhason.org/MN/MN007.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1358,7 +1357,7 @@
 
   * 漢譯：
 
-    - `漸損經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=189>`__ ; 蕭式球 譯 [4]_
+    - `漸損經 <{filename}mn008-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `削減經 <http://agama.buddhason.org/MN/MN008.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1400,7 +1399,7 @@
 
   * 漢譯：
 
-    - `漏經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=183>`__ ; 蕭式球 譯 [4]_
+    - `漏經 <{filename}mn002-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `一切煩惱經 <http://agama.buddhason.org/MN/MN002.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1489,7 +1488,7 @@
 
   * 漢譯：
 
-    - `大四十經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=390>`__ ; 蕭式球 譯 [4]_
+    - `大四十經 <{filename}mn117-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `四十大經 <http://agama.buddhason.org/MN/MN117.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1529,7 +1528,7 @@
 
   * 漢譯：
 
-    - `念處經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=191>`__ ; 蕭式球 譯 [4]_
+    - `念處經 <{filename}mn010-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `念住大經 <http://agama.buddhason.org/MN/MN010.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1574,7 +1573,7 @@
 
   * 漢譯：
 
-    - `出入息念經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=391>`__ ; 蕭式球 譯 [4]_
+    - `出入息念經 <{filename}mn118-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `入出息念經 <http://agama.buddhason.org/MN/MN118.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1614,7 +1613,7 @@
 
   * 漢譯：
 
-    - `大沙俱邏．優陀夷經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=258>`__ ; 蕭式球 譯 [4]_
+    - `大沙俱邏．優陀夷經 <{filename}mn077-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `色古巫大夷大經 <http://agama.buddhason.org/MN/MN077.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1660,7 +1659,7 @@
 
   * 漢譯：
 
-    - `正見經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=190>`__ ; 蕭式球 譯 [4]_
+    - `正見經 <{filename}mn009-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `正見經 <http://agama.buddhason.org/MN/MN009.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1700,7 +1699,7 @@
 
   * 漢譯：
 
-    - `小獅吼經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=192>`__ ; 蕭式球 譯 [4]_
+    - `小獅吼經 <{filename}mn011-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `獅子吼小經 <http://agama.buddhason.org/MN/MN011.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1734,7 +1733,7 @@
 
   * 漢譯：
 
-    - `蛇喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=203>`__ ; 蕭式球 譯 [4]_
+    - `蛇喻經 <{filename}mn022-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `蛇譬喻經 <http://agama.buddhason.org/MN/MN022.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1774,7 +1773,7 @@
 
   * 漢譯：
 
-    - `大愛盡經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=219>`__ ; 蕭式球 譯 [4]_
+    - `大愛盡經 <{filename}mn038-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `渴愛的滅盡大經 <http://agama.buddhason.org/MN/MN038.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1816,7 +1815,7 @@
 
   * 漢譯：
 
-    - `六層六處經 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=471>`__ ; 蕭式球 譯 [4]_
+    - `六層六處經 <{filename}mn148-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `六個六經 <http://agama.buddhason.org/MN/MN148.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1852,7 +1851,7 @@
 
   * 漢譯：
 
-    - `難陀迦教化比丘尼經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=469>`__ ; 蕭式球 譯 [4]_
+    - `難陀迦教化比丘尼經 <{filename}mn146-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `難達葛教誡經 <http://agama.buddhason.org/MN/MN146.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1888,7 +1887,7 @@
 
   * 漢譯：
 
-    - `大六處經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=472>`__ ; 蕭式球 譯 [4]_
+    - `大六處經 <{filename}mn149-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `六處大經 <http://agama.buddhason.org/MN/MN149.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1926,7 +1925,7 @@
 
   * 漢譯：
 
-    - `大象跡喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=209>`__ ; 蕭式球 譯 [4]_
+    - `大象跡喻經 <{filename}mn028-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `象足跡譬喻大經 <http://agama.buddhason.org/MN/MN028.htm>`__ ; 莊春江 譯 [3]_
 
@@ -1968,7 +1967,7 @@
 
   * 漢譯：
 
-    - `鵪鶉喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=247>`__ ; 蕭式球 譯 [4]_
+    - `鵪鶉喻經 <{filename}mn066-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `鵪鶉譬喻經 <http://agama.buddhason.org/MN/MN066.htm>`__ ; 莊春江 譯 [3]_
 
@@ -2004,7 +2003,7 @@
 
   * 漢譯：
 
-    - `大摩倫迦經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=245>`__ ; 蕭式球 譯 [4]_
+    - `大摩倫迦經 <{filename}mn064-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `瑪魯迦大經 <http://agama.buddhason.org/MN/MN064.htm>`__ ; 莊春江 譯 [3]_
 
@@ -2038,7 +2037,7 @@
 
   * 漢譯：
 
-    - `八城經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=233>`__ ; 蕭式球 譯 [4]_
+    - `八城經 <{filename}mn052-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `八城人經 <http://agama.buddhason.org/MN/MN052.htm>`__ ; 莊春江 譯 [3]_
 
@@ -2074,7 +2073,7 @@
 
   * 漢譯：
 
-    - `分析界經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=464>`__ ; 蕭式球 譯 [4]_
+    - `分析界經 <{filename}mn140-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `界分別經 <http://agama.buddhason.org/MN/MN140.htm>`__ ; 莊春江 譯 [3]_
 
@@ -2114,7 +2113,7 @@
 
   * 漢譯：
 
-    - `基多山經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=251>`__ ; 蕭式球 譯 [4]_
+    - `基多山經 <{filename}mn070-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `記大其哩經 <http://agama.buddhason.org/MN/MN070.htm>`__ ; 莊春江 譯 [3]_
 
@@ -2170,7 +2169,7 @@
 
   * 漢譯：
 
-    - `小牛角經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=212>`__ ; 蕭式球 譯 [4]_
+    - `小牛角經 <{filename}mn031-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `牛角小經 <http://agama.buddhason.org/MN/MN031.htm>`__ ; 莊春江 譯 [3]_
 
@@ -2210,7 +2209,7 @@
 
   * 漢譯：
 
-    - `大牛角經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=213>`__ ; 蕭式球 譯 [4]_
+    - `大牛角經 <{filename}mn032-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `牛角大經 <http://agama.buddhason.org/MN/MN032.htm>`__ ; 莊春江 譯 [3]_
 
@@ -2250,7 +2249,7 @@
 
   * 漢譯：
 
-    - `跋陀離經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=246>`__ ; 蕭式球 譯 [4]_
+    - `跋陀離經 <{filename}mn065-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `跋大哩經 <http://agama.buddhason.org/MN/MN065.htm>`__ ; 莊春江 譯 [3]_
 
@@ -2288,7 +2287,7 @@
 
   * 漢譯：
 
-    - `沙摩村經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=377>`__ ; 蕭式球 譯 [4]_
+    - `沙摩村經 <{filename}mn104-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `沙麼村經 <http://agama.buddhason.org/MN/MN104.htm>`__ ; 莊春江 譯 [3]_
 
@@ -2326,7 +2325,7 @@
 
   * 漢譯：
 
-    - `防衛大臣目犍連經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=381>`__ ; 蕭式球 譯 [4]_
+    - `防衛大臣目犍連經 <{filename}mn108-siu-sk%zh.rst>`__ ; 蕭式球 譯 [4]_
 
     - `守護者目犍連經 <http://agama.buddhason.org/MN/MN108.htm>`__ ; 莊春江 譯 [3]_
 
@@ -2406,9 +2405,9 @@
 
 .. [12] § 2.8.南傳《中部》第 120《行生經》（ `福嚴佛學院 <http://www.fuyan.org.tw/>`__ →研究論文→福嚴佛學研究第三期 (2008.04)；或 `溫宗堃の風培基 <http://tkwen.theravada-chinese.org>`__ →福嚴佛學院講義 → `福嚴佛學研究 第三期 (2008.04)(PDF) <http://tkwen.theravada-chinese.org/Fuyan/Buddhist/Studies/v3_2008.pdf>`__ ）
 
-
 ..
-  2023-08-08 rev. replace filename with static to match "gramma"
+  2024-09-06 add some files of siu-sk; 
+     :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Majjhima/maps-MN-Bodhi.html
   2019-02-11 add anchor of 一切漏經注( .. _mn02-att:)
   12.17 2018 add: 一切漏經注 書目 & 書訊
   10.16 METTANET - LANKA (metta.lk) re-activation

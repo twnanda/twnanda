@@ -38,7 +38,7 @@ Majjhima-nikāya 巴利大藏經 經藏 中部 (Further Dialogues of the Buddha;
 
   * `漢譯 中部/Majjhimanikāyo <http://agama.buddhason.org/MN/index.htm>`__ ；莊春江 (original: 原始出處) [5]_
 
-  * `中部 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ (5.1.2.中部)；蕭式球 (original: 原始出處) [6]_
+  * `中部 <{filename}mn140-siu-sk%zh.rst>`__ ; (5.1.2.中部)；蕭式球 (original: 原始出處) [6]_
 
   * `南傳中部經典 <http://tripitaka.cbeta.org/B06n0004_001>`__ ；沙門芝峯據日譯本重譯（錄至《呵魔經第五十》）；下載 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/B/B0004.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/B/B0004.）pdf>`__ 、 `ePub <http://www.cbeta.org/download/epub/download.php?file=B/B0004.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/B/B0004.mobi>`__ ; original 原始出處: `CBETA <http://www.cbeta.org/>`__ [7]_
 
@@ -79,7 +79,7 @@ _`細目`
 
 
 Mūlapaṇṇāsa  根本五十經篇
-+++++++++++++++++++++++++
++++++++++++++++++++++++++++++++
 
 .. list-table:: mūlapaṇṇāsa  根本五十經篇（MN 1 ～ MN 50）
 
@@ -91,7 +91,7 @@ Mūlapaṇṇāsa  根本五十經篇
     - 
 
 Majjhimapaṇṇāsa 中分五十經篇
-++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++
 
 .. list-table:: Majjhimapaṇṇāsa 中分五十經篇（MN 51 ～ MN 100）
 
@@ -103,7 +103,7 @@ Majjhimapaṇṇāsa 中分五十經篇
     - 
 
 Uparipaṇṇāsa 後分五十經篇
-+++++++++++++++++++++++++
++++++++++++++++++++++++++++++
 
 .. list-table:: Uparipaṇṇāsa 後分五十經篇（MN 101 ～ MN 152）
 
@@ -119,7 +119,7 @@ Uparipaṇṇāsa 後分五十經篇
 Mūlapaṇṇāsa 根本五十經篇
 
 Mūlapariyāyavaggo 根本法門品
-++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++
 
 Mūlapaṇṇāsa 根本五十經篇
 
@@ -153,7 +153,7 @@ Mūlapaṇṇāsa 根本五十經篇
 
     - `根本法門經 <http://agama.buddhason.org/MN/MN001.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `根源經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=182>`__ ; **蕭式球** 譯 [6]_
+    - `根源經 <{filename}mn001-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `根本法門經 <http://tripitaka.cbeta.org/B06n0004_001#0087b20>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -203,7 +203,7 @@ Mūlapaṇṇāsa 根本五十經篇
 
     - `一切煩惱經 <http://agama.buddhason.org/MN/MN002.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `漏經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=183>`__ ; **蕭式球** 譯 [6]_
+    - `漏經 <{filename}mn002-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `一切漏經 <http://tripitaka.cbeta.org/B06n0004_001#0088b09>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -267,7 +267,7 @@ Mūlapaṇṇāsa 根本五十經篇
 
     - `法之繼承人經 <http://agama.buddhason.org/MN/MN003.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `法繼承經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=184>`__ ; **蕭式球** 譯 [6]_
+    - `法繼承經 <{filename}mn003-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `法嗣經 <http://tripitaka.cbeta.org/B06n0004_001#0089b13>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -313,7 +313,7 @@ Mūlapaṇṇāsa 根本五十經篇
 
     - `恐怖與害怕經 <http://agama.buddhason.org/MN/MN004.htm>`_ ; **莊春江** 譯 [5]_
 
-    - `恐懼驚慌經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=185>`_ ; **蕭式球** 譯 [6]_
+    - `恐懼驚慌經 <{filename}mn004-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `怖駭經 <http://tripitaka.cbeta.org/B06n0004_001#0090a32>`__ ; **芝峯** 譯(華宇) [5]_
 
@@ -365,7 +365,7 @@ Mūlapaṇṇāsa 根本五十經篇
 
     - `無穢經 <http://agama.buddhason.org/MN/MN005.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `無穢經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=186>`__ ; **蕭式球** 譯 [6]_
+    - `無穢經 <{filename}mn005-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `無穢經 <http://tripitaka.cbeta.org/B06n0004_001#0091b13>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -425,7 +425,7 @@ Mūlapaṇṇāsa 根本五十經篇
 
     - `希望經 <http://agama.buddhason.org/MN/MN006.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `希望經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=187>`__ ; **蕭式球** 譯 [6]_
+    - `希望經 <{filename}mn006-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `願經 <http://tripitaka.cbeta.org/B06n0004_001#0093a17>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -473,7 +473,7 @@ Mūlapaṇṇāsa 根本五十經篇
 
     - `衣服經 <http://agama.buddhason.org/MN/MN007.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `布喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=188>`__ ; **蕭式球** 譯 [6]_
+    - `布喻經 <{filename}mn007-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `布喻經 <http://tripitaka.cbeta.org/B06n0004_001#0093b28>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -527,7 +527,7 @@ Mūlapaṇṇāsa 根本五十經篇
 
     - `削減經 <http://agama.buddhason.org/MN/MN008.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `漸損經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=189>`__ ; **蕭式球** 譯 [6]_
+    - `漸損經 <{filename}mn008-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `損損經 <http://tripitaka.cbeta.org/B06n0004_001#0094b17>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -575,7 +575,7 @@ Mūlapaṇṇāsa 根本五十經篇
 
     - `正見經 <http://agama.buddhason.org/MN/MN009.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `正見經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=190>`__ ; **蕭式球** 譯 [6]_
+    - `正見經 <{filename}mn009-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `正見經 <http://tripitaka.cbeta.org/B06n0004_001#0096a06>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -631,7 +631,7 @@ Mūlapaṇṇāsa 根本五十經篇
 
     - `念住大經 <http://agama.buddhason.org/MN/MN010.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `念處經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=191>`__ ; **蕭式球** 譯 [6]_
+    - `念處經 <{filename}mn010-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `念處經 <http://tripitaka.cbeta.org/B06n0004_001#0097b30>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -747,7 +747,7 @@ Sīhanādavaggo 獅子吼品
 
     - `獅子吼小經 <http://agama.buddhason.org/MN/MN011.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小獅吼經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=192>`__ ; **蕭式球** 譯 [6]_
+    - `小獅吼經 <{filename}mn011-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `師子吼小經 <http://tripitaka.cbeta.org/B06n0004_001#0099b02>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -791,7 +791,7 @@ Sīhanādavaggo 獅子吼品
 
     - `師子吼大經 <http://agama.buddhason.org/MN/MN012.htm>`_ ; **莊春江** 譯 [5]_
 
-    - `大獅吼經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=193>`_ ; **蕭式球** 譯 [6]_
+    - `大獅吼經 <{filename}mn012-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `師子吼大經 <http://tripitaka.cbeta.org/B06n0004_001#0100b01>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -858,7 +858,7 @@ Sīhanādavaggo 獅子吼品
 
     - `苦蘊大經 <http://agama.buddhason.org/MN/MN013.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大苦蘊經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=194>`__ ; **蕭式球** 譯 [6]_
+    - `大苦蘊經 <{filename}mn013-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `苦蘊大經 <http://tripitaka.cbeta.org/B06n0004_001#0103b24>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -908,7 +908,7 @@ Sīhanādavaggo 獅子吼品
 
     - `苦蘊小經 <http://agama.buddhason.org/MN/MN014.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小苦蘊經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=195>`__ ; **蕭式球** 譯 [6]_
+    - `小苦蘊經 <{filename}mn014-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `苦蘊小經 <http://tripitaka.cbeta.org/B06n0004_001#0105a22>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -958,7 +958,7 @@ Sīhanādavaggo 獅子吼品
 
     - `推量經 <http://agama.buddhason.org/MN/MN015.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `反思經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=196>`__ ; **蕭式球** 譯 [6]_
+    - `反思經 <{filename}mn015-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `思量經 <http://tripitaka.cbeta.org/B06n0004_001#0106b10>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1016,7 +1016,7 @@ Sīhanādavaggo 獅子吼品
 
     - `心荒蕪經 <http://agama.buddhason.org/MN/MN016.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `心障礙經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=197>`__ ; **蕭式球** 譯 [6]_
+    - `心障礙經 <{filename}mn016-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `心荒穢經 <http://tripitaka.cbeta.org/B06n0004_001#0108b12>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1066,7 +1066,7 @@ Sīhanādavaggo 獅子吼品
 
     - `林叢經 <http://agama.buddhason.org/MN/MN017.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `樹林經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=198>`__ ; **蕭式球** 譯 [6]_
+    - `樹林經 <{filename}mn017-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `林藪經 <http://tripitaka.cbeta.org/B06n0004_001#0109b11>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1112,7 +1112,7 @@ Sīhanādavaggo 獅子吼品
 
     - `蜜丸經 <http://agama.buddhason.org/MN/MN018.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `蜜糰經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=199>`__ ; **蕭式球** 譯 [6]_
+    - `蜜糰經 <{filename}mn018-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `蜜丸經 <http://tripitaka.cbeta.org/B06n0004_001#0110b01>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1158,7 +1158,7 @@ Sīhanādavaggo 獅子吼品
 
     - `二種尋經 <http://agama.buddhason.org/MN/MN019.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `兩類覺經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=200>`__ ; **蕭式球** 譯 [6]_
+    - `兩類覺經 <{filename}mn019-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `雙思經 <http://tripitaka.cbeta.org/B06n0004_001#0112a05>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1208,7 +1208,7 @@ Sīhanādavaggo 獅子吼品
 
     - `尋之止息經 <http://agama.buddhason.org/MN/MN020.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `覺止息經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=201>`__ ; **蕭式球** 譯 [6]_
+    - `覺止息經 <{filename}mn020-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `息思經 <http://tripitaka.cbeta.org/B06n0004_001#0113a22>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1313,7 +1313,7 @@ Opammavaggo 譬喻法品
 
     - `鋸子譬喻經 <http://agama.buddhason.org/MN/MN021.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `鋸喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=202>`__ ; **蕭式球** 譯 [6]_
+    - `鋸喻經 <{filename}mn021-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `鋸喻經 <http://tripitaka.cbeta.org/B06n0004_001#0114a18>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1353,7 +1353,7 @@ Opammavaggo 譬喻法品
 
     - `蛇譬喻經 <http://agama.buddhason.org/MN/MN022.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `蛇喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=203>`__ ; **蕭式球** 譯 [6]_
+    - `蛇喻經 <{filename}mn022-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `蛇喻經 <http://tripitaka.cbeta.org/B06n0004_001#0115b30>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1397,7 +1397,7 @@ Opammavaggo 譬喻法品
 
     - `蟻丘經 <http://agama.buddhason.org/MN/MN023.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `螞蟻窩經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=204>`__ ; **蕭式球** 譯 [6]_
+    - `螞蟻窩經 <{filename}mn023-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `蟻垤經 <http://tripitaka.cbeta.org/B06n0004_001#0118b17>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1441,7 +1441,7 @@ Opammavaggo 譬喻法品
 
     - `接力車經 <http://agama.buddhason.org/MN/MN024.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `接替馬車經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=205>`__ ; **蕭式球** 譯 [6]_
+    - `接替馬車經 <{filename}mn024-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `傳車經 <http://tripitaka.cbeta.org/B06n0004_001#0119a23>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1481,7 +1481,7 @@ Opammavaggo 譬喻法品
 
     - `餌經 <http://agama.buddhason.org/MN/MN025.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `誘餌經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=206>`__ ; **蕭式球** 譯 [6]_
+    - `誘餌經 <{filename}mn025-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `撒餌經 <http://tripitaka.cbeta.org/B06n0004_001#0120b04>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1535,7 +1535,7 @@ Opammavaggo 譬喻法品
 
     - `陷阱堆經 <http://agama.buddhason.org/MN/MN026.htm>`_ (另版 Ariyapariyesanāsuttaṃ 聖遍求經); **莊春江** 譯 [5]_
 
-    - `尋求聖法經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=207>`_ ; **蕭式球** 譯 [6]_
+    - `尋求聖法經 <{filename}mn026-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `聖求經 <http://tripitaka.cbeta.org/B06n0004_001#0122a26>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1588,7 +1588,7 @@ Opammavaggo 譬喻法品
 
     - `象足跡譬喻小經 <http://agama.buddhason.org/MN/MN027.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小象跡喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=208>`__ ; **蕭式球** 譯 [6]_
+    - `小象跡喻經 <{filename}mn027-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `象跡喻小經 <http://tripitaka.cbeta.org/B06n0004_001#0125a14>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1630,7 +1630,7 @@ Opammavaggo 譬喻法品
 
     - `象足跡譬喻大經 <http://agama.buddhason.org/MN/MN028.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大象跡喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=209>`__ ; **蕭式球** 譯 [6]_
+    - `大象跡喻經 <{filename}mn028-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `象跡喻大經 <http://tripitaka.cbeta.org/B06n0004_001#0126b29>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1672,7 +1672,7 @@ Opammavaggo 譬喻法品
 
     - `心材譬喻大經 <http://agama.buddhason.org/MN/MN029.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大實木喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=210>`__ ; **蕭式球** 譯 [6]_
+    - `大實木喻經 <{filename}mn029-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `心材喻大經 <http://tripitaka.cbeta.org/B06n0004_001#0128a21>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1714,7 +1714,7 @@ Opammavaggo 譬喻法品
 
     - `心材譬喻小經 <http://agama.buddhason.org/MN/MN030.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小實木喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=211>`__ ; **蕭式球** 譯 [6]_
+    - `小實木喻經 <{filename}mn030-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `心材喻小經 <http://tripitaka.cbeta.org/B06n0004_001#0129b01>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1813,7 +1813,7 @@ Mahāyamakavaggo 雙大品
 
     - `牛角小經 <http://agama.buddhason.org/MN/MN031.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小牛角經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=212>`__ ; **蕭式球** 譯 [6]_
+    - `小牛角經 <{filename}mn031-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `牛角林小經 <http://tripitaka.cbeta.org/B06n0004_001#0131a02>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1853,7 +1853,7 @@ Mahāyamakavaggo 雙大品
 
     - `牛角大經 <http://agama.buddhason.org/MN/MN032.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大牛角經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=213>`__ ; **蕭式球** 譯 [6]_
+    - `大牛角經 <{filename}mn032-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `牛角林大經 <http://tripitaka.cbeta.org/B06n0004_001#0132a20>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1893,7 +1893,7 @@ Mahāyamakavaggo 雙大品
 
     - `牧牛者大經 <http://agama.buddhason.org/MN/MN033.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大牧牛人經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=214>`__ ; **蕭式球** 譯 [6]_
+    - `大牧牛人經 <{filename}mn033-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `牧牛者大經 <http://tripitaka.cbeta.org/B06n0004_001#0133b23>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1943,7 +1943,7 @@ Mahāyamakavaggo 雙大品
 
     - `牧牛者小經 <http://agama.buddhason.org/MN/MN034.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小牧牛人經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=215>`__ ; **蕭式球** 譯 [6]_
+    - `小牧牛人經 <{filename}mn034-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `牧牛者小經 <http://tripitaka.cbeta.org/B06n0004_001#0134b17>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -1989,7 +1989,7 @@ Mahāyamakavaggo 雙大品
 
     - `薩遮迦小經 <http://agama.buddhason.org/MN/MN035.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小薩遮經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=216>`__ ; **蕭式球** 譯 [6]_
+    - `小薩遮經 <{filename}mn035-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `薩遮迦小經 <http://tripitaka.cbeta.org/B06n0004_001#0135a15>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2054,7 +2054,7 @@ Mahāyamakavaggo 雙大品
 
     - `薩遮迦大經 <http://agama.buddhason.org/MN/MN036.htm>`_ ; **莊春江** 譯 [5]_
 
-    - `大薩遮經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=217>`_ ; **蕭式球** 譯 [6]_
+    - `大薩遮經 <{filename}mn036-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `薩遮迦大經 <http://tripitaka.cbeta.org/B06n0004_001#0137a11>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2100,7 +2100,7 @@ Mahāyamakavaggo 雙大品
 
     - `渴愛的滅盡小經 <http://agama.buddhason.org/MN/MN037.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小愛盡經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=212>`__ ; **蕭式球** 譯 [6]_
+    - `小愛盡經 <{filename}mn037-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `愛盡小經 <http://tripitaka.cbeta.org/B06n0004_001#0131a02>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2144,7 +2144,7 @@ Mahāyamakavaggo 雙大品
 
     - `渴愛的滅盡大經 <http://agama.buddhason.org/MN/MN038.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大愛盡經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=219>`__ ; **蕭式球** 譯 [6]_
+    - `大愛盡經 <{filename}mn038-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `愛盡大經 <http://tripitaka.cbeta.org/B06n0004_001#0141a23>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2192,7 +2192,7 @@ Mahāyamakavaggo 雙大品
 
     - `馬城大經 <http://agama.buddhason.org/MN/MN039.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大馬城經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=220>`__ ; **蕭式球** 譯 [6]_
+    - `大馬城經 <{filename}mn039-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `馬邑大經 <http://tripitaka.cbeta.org/B06n0004_001#0144a15>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2238,7 +2238,7 @@ Mahāyamakavaggo 雙大品
 
     - `馬城小經 <http://agama.buddhason.org/MN/MN040.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小馬城經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=221>`__ ; **蕭式球** 譯 [6]_
+    - `小馬城經 <{filename}mn040-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `馬邑小經 <http://tripitaka.cbeta.org/B06n0004_001#0146a07>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2339,7 +2339,7 @@ Cūḷayamakavaggo 雙小品
 
     - `沙拉經 <http://agama.buddhason.org/MN/MN041.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `娑羅村經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=222>`__ ; **蕭式球** 譯 [6]_
+    - `娑羅村經 <{filename}mn041-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `薩羅村婆羅門經 <http://tripitaka.cbeta.org/B06n0004_001#0147a02>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2394,7 +2394,7 @@ Cūḷayamakavaggo 雙小品
 
     - `威樂若經 <http://agama.buddhason.org/MN/MN042.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `毗蘭若經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=223>`__ ; **蕭式球** 譯 [6]_
+    - `毗蘭若經 <{filename}mn042-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `鞞蘭若村婆羅門經 <http://tripitaka.cbeta.org/B06n0004_001#0148a01>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2437,7 +2437,7 @@ Cūḷayamakavaggo 雙小品
 
     - `毘陀羅大經 <http://agama.buddhason.org/MN/MN043.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大廣解經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=224>`__ ; **蕭式球** 譯 [6]_
+    - `大廣解經 <{filename}mn043-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `有明大經 <http://tripitaka.cbeta.org/B06n0004_001#0148a20>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2485,7 +2485,7 @@ Cūḷayamakavaggo 雙小品
 
     - `毘陀羅小經 <http://agama.buddhason.org/MN/MN044.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小廣解經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=225>`__ ; **蕭式球** 譯 [6]_
+    - `小廣解經 <{filename}mn044-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `有明小經 <http://tripitaka.cbeta.org/B06n0004_001#0147a02>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2533,7 +2533,7 @@ Cūḷayamakavaggo 雙小品
 
     - `法的受持小經 <http://agama.buddhason.org/MN/MN045.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小行法經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=226>`__ ; **蕭式球** 譯 [6]_
+    - `小行法經 <{filename}mn045-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `得法小經 <http://tripitaka.cbeta.org/B06n0004_001#0150b16>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2595,7 +2595,7 @@ Cūḷayamakavaggo 雙小品
 
     - `法的受持大經 <http://agama.buddhason.org/MN/MN046.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大行法經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=227>`__ ; **蕭式球** 譯 [6]_
+    - `大行法經 <{filename}mn046-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `得法大經 <http://tripitaka.cbeta.org/B06n0004_001#0151b06>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2640,7 +2640,7 @@ Cūḷayamakavaggo 雙小品
 
     - `考察經 <http://agama.buddhason.org/MN/MN047.htm>`_ ; **莊春江** 譯 [5]_
 
-    - `觀察經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=228>`_ ; **蕭式球** 譯 [6]_
+    - `觀察經 <{filename}mn047-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `思察經 <http://tripitaka.cbeta.org/B06n0004_001#0152b27>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2684,7 +2684,7 @@ Cūḷayamakavaggo 雙小品
 
     - `拘睒彌經 <http://agama.buddhason.org/MN/MN048.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `拘睒彌經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=229>`__ ; **蕭式球** 譯 [6]_
+    - `拘睒彌經 <{filename}mn048-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `憍賞彌經 <http://tripitaka.cbeta.org/B06n0004_001#0153b08>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2728,7 +2728,7 @@ Cūḷayamakavaggo 雙小品
 
     - `梵天的邀請經 <http://agama.buddhason.org/MN/MN049.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `梵天請經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=230>`__ ; **蕭式球** 譯 [6]_
+    - `梵天請經 <{filename}mn049-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `梵天請經 <http://tripitaka.cbeta.org/B06n0004_001#0154b09>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2774,7 +2774,7 @@ Cūḷayamakavaggo 雙小品
 
     - `應該被呵責的魔經 <http://agama.buddhason.org/MN/MN050.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `魔羅受斥經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=231>`__ ; **蕭式球** 譯 [6]_
+    - `魔羅受斥經 <{filename}mn050-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `呵魔經 <http://tripitaka.cbeta.org/B06n0004_001#0147a02>`__ ; **芝峯** 譯(華宇) [7]_
 
@@ -2873,7 +2873,7 @@ Gahapativaggo 居士品
 
     - `耿達勒葛經 <http://agama.buddhason.org/MN/MN051.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `緊達羅迦經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=232>`__ ; **蕭式球** 譯 [6]_
+    - `緊達羅迦經 <{filename}mn051-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `乾達羅迦經 <http://tripitaka.cbeta.org/N10n0005_006#0074a08>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -2913,7 +2913,7 @@ Gahapativaggo 居士品
 
     - `八城人經 <http://agama.buddhason.org/MN/MN052.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `八城經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=233>`__ ; **蕭式球** 譯 [6]_
+    - `八城經 <{filename}mn052-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `八城經 <http://tripitaka.cbeta.org/N10n0005_006#0088a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -2963,7 +2963,7 @@ Gahapativaggo 居士品
 
     - `有學經 <http://agama.buddhason.org/MN/MN053.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `學人經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=234>`__ ; **蕭式球** 譯 [6]_
+    - `學人經 <{filename}mn053-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `有學經 <http://tripitaka.cbeta.org/N10n0005_006#0094a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3007,7 +3007,7 @@ Gahapativaggo 居士品
 
     - `迫得利亞經 <http://agama.buddhason.org/MN/MN054.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `頗多利耶經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=235>`__ ; **蕭式球** 譯 [6]_
+    - `頗多利耶經 <{filename}mn054-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `哺多利經 <http://tripitaka.cbeta.org/N10n0005_006#0101a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3068,7 +3068,7 @@ Gahapativaggo 居士品
 
     - `耆婆經 <http://agama.buddhason.org/MN/MN055.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `耆婆經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=236>`__ ; **蕭式球** 譯 [6]_
+    - `耆婆經 <{filename}mn055-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `耆婆迦經 <http://tripitaka.cbeta.org/N10n0005_006#0113a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3122,7 +3122,7 @@ Gahapativaggo 居士品
 
     - `優婆離經 <http://agama.buddhason.org/MN/MN056.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `優波離經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=237>`__ ; **蕭式球** 譯 [6]_
+    - `優波離經 <{filename}mn056-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `優波離經 <http://tripitaka.cbeta.org/N10n0005_006#0117a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3162,7 +3162,7 @@ Gahapativaggo 居士品
 
     - `守狗戒者經 <http://agama.buddhason.org/MN/MN057.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `狗戒經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=238>`__ ; **蕭式球** 譯 [6]_
+    - `狗戒經 <{filename}mn057-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `狗行者經 <http://tripitaka.cbeta.org/N10n0005_006#0137a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3218,7 +3218,7 @@ Gahapativaggo 居士品
 
     - `無畏王子經 <http://agama.buddhason.org/MN/MN058.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `無畏王子經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=239>`__ ; **蕭式球** 譯 [6]_
+    - `無畏王子經 <{filename}mn058-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `無畏王子經 <http://tripitaka.cbeta.org/N10n0005_006#0143a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3260,7 +3260,7 @@ Gahapativaggo 居士品
 
     - `多種受經 <http://agama.buddhason.org/MN/MN059.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `多種受經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=240>`__ ; **蕭式球** 譯 [6]_
+    - `多種受經 <{filename}mn059-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `多受經 <http://tripitaka.cbeta.org/N10n0005_006#0149a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3304,7 +3304,7 @@ Gahapativaggo 居士品
 
     - `無缺點經 <http://agama.buddhason.org/MN/MN060.htm>`_  ; **莊春江** 譯 [5]_
 
-    - `無諍經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=241>`_  ; **蕭式球** 譯 [6]_
+    - `無諍經 <{filename}mn060-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `無戲論經 <http://tripitaka.cbeta.org/N10n0005_006#0155a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3413,7 +3413,7 @@ Bhikkhuvaggo 比丘品
 
     - `芒果樹苖圃教誡羅侯羅經 <http://agama.buddhason.org/MN/MN061.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `芒果林教化羅睺邏經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=242>`__ ; **蕭式球** 譯 [6]_
+    - `芒果林教化羅睺邏經 <{filename}mn061-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `菴婆蘖林教誡羅睺羅經 <http://tripitaka.cbeta.org/N10n0005_007#0172a05>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3459,7 +3459,7 @@ Bhikkhuvaggo 比丘品
 
     - `教誡羅侯羅大經 <http://agama.buddhason.org/MN/MN062.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大教化羅睺邏經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=243>`__ ; **蕭式球** 譯 [6]_
+    - `大教化羅睺邏經 <{filename}mn062-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `教誡羅睺羅大經 <http://tripitaka.cbeta.org/N10n0005_007#0180a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3501,7 +3501,7 @@ Bhikkhuvaggo 比丘品
 
     - `瑪魯迦小經 <http://agama.buddhason.org/MN/MN063.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小摩倫迦經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=244>`__ ; **蕭式球** 譯 [6]_
+    - `小摩倫迦經 <{filename}mn063-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `摩羅迦小經 <http://tripitaka.cbeta.org/N10n0005_007#0188a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3556,7 +3556,7 @@ Bhikkhuvaggo 比丘品
 
     - `瑪魯迦大經 <http://agama.buddhason.org/MN/MN064.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大摩倫迦經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=245>`__ ; **蕭式球** 譯 [6]_
+    - `大摩倫迦經 <{filename}mn064-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `摩羅迦大經 <http://tripitaka.cbeta.org/N10n0005_007#0196a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3602,7 +3602,7 @@ Bhikkhuvaggo 比丘品
 
     - `跋大哩經 <http://agama.buddhason.org/MN/MN065.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `跋陀離經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=246>`__ ; **蕭式球** 譯 [6]_
+    - `跋陀離經 <{filename}mn065-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `跋陀利經 <http://tripitaka.cbeta.org/N10n0005_007#0202a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3660,7 +3660,7 @@ Bhikkhuvaggo 比丘品
 
     - `鵪鶉譬喻經 <http://agama.buddhason.org/MN/MN066.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `鵪鶉喻經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=247>`__ ; **蕭式球** 譯 [6]_
+    - `鵪鶉喻經 <{filename}mn066-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `鶉喻經 <http://tripitaka.cbeta.org/N10n0005_007#0215a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3704,7 +3704,7 @@ Bhikkhuvaggo 比丘品
 
     - `遮堵瑪經 <http://agama.buddhason.org/MN/MN067.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `遮偷摩經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=248>`__ ; **蕭式球** 譯 [6]_
+    - `遮偷摩經 <{filename}mn067-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `車頭聚落經 <http://tripitaka.cbeta.org/N10n0005_007#0227a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3742,7 +3742,7 @@ Bhikkhuvaggo 比丘品
 
     - `那勒葛波那經 <http://agama.buddhason.org/MN/MN068.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `那邏迦波那經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=249>`__ ; **蕭式球** 譯 [6]_
+    - `那邏迦波那經 <{filename}mn068-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `那羅伽波寧村經 <http://tripitaka.cbeta.org/N10n0005_007#0234a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3780,7 +3780,7 @@ Bhikkhuvaggo 比丘品
 
     - `枸哩亞尼經 <http://agama.buddhason.org/MN/MN069.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `瞿尼師經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=250>`__ ; **蕭式球** 譯 [6]_
+    - `瞿尼師經 <{filename}mn069-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `瞿尼師經 <http://tripitaka.cbeta.org/N10n0005_007#0243a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3820,7 +3820,7 @@ Bhikkhuvaggo 比丘品
 
     - `記大其哩經 <http://agama.buddhason.org/MN/MN070.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `基多山經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=251>`__ ; **蕭式球** 譯 [6]_
+    - `基多山經 <{filename}mn070-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `枳吒山邑經 <http://tripitaka.cbeta.org/N10n0005_007#0249a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3926,7 +3926,7 @@ Paribbājakavaggo 普行者品
 
     - `三明與婆蹉經 <http://agama.buddhason.org/MN/MN071.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `三明婆蹉種經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=252>`__ ; **蕭式球** 譯 [6]_
+    - `三明婆蹉種經 <{filename}mn071-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `婆蹉衢多三明經 <http://tripitaka.cbeta.org/N10n0005_008#0260a05>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -3965,7 +3965,7 @@ Paribbājakavaggo 普行者品
 
     - `婆蹉火經 <http://agama.buddhason.org/MN/MN072.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `火婆蹉種經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=253>`__ ; **蕭式球** 譯 [6]_
+    - `火婆蹉種經 <{filename}mn072-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `婆蹉衢多火〔喻〕經 <http://tripitaka.cbeta.org/N10n0005_008#0264a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4007,7 +4007,7 @@ Paribbājakavaggo 普行者品
 
     - `婆蹉大經 <http://agama.buddhason.org/MN/MN073.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大婆蹉種經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=254>`__ ; **蕭式球** 譯 [6]_
+    - `大婆蹉種經 <{filename}mn073-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `婆蹉衢多大經 <http://tripitaka.cbeta.org/N10n0005_008#0272a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4045,7 +4045,7 @@ Paribbājakavaggo 普行者品
 
     - `長爪經 <http://agama.buddhason.org/MN/MN074.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `長甲經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=255>`__ ; **蕭式球** 譯 [6]_
+    - `長甲經 <{filename}mn074-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `長爪經 <http://tripitaka.cbeta.org/N10n0005_008#0283a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4085,7 +4085,7 @@ Paribbājakavaggo 普行者品
 
     - `馬更地亞經 <http://agama.buddhason.org/MN/MN075.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `摩緊提耶經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=256>`__ ; **蕭式球** 譯 [6]_
+    - `摩緊提耶經 <{filename}mn075-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `摩犍提經 <http://tripitaka.cbeta.org/N10n0005_008#0289a01>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4151,7 +4151,7 @@ Paribbājakavaggo 普行者品
 
     - `散達葛經 <http://agama.buddhason.org/MN/MN076.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `散陀迦經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=257>`__ ; **蕭式球** 譯 [6]_
+    - `散陀迦經 <{filename}mn076-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `刪陀迦經 <http://tripitaka.cbeta.org/N10n0005_008#0304a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4191,7 +4191,7 @@ Paribbājakavaggo 普行者品
 
     - `色古巫大夷大經 <http://agama.buddhason.org/MN/MN077.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大沙俱邏．優陀夷經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=258>`__ ; **蕭式球** 譯 [6]_
+    - `大沙俱邏．優陀夷經 <{filename}mn077-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `善生優陀夷大經 <http://tripitaka.cbeta.org/N11n0005_009>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4235,7 +4235,7 @@ Paribbājakavaggo 普行者品
 
     - `沙門木地葛經 <http://agama.buddhason.org/MN/MN078.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `須摩滿提經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=259>`__ ; **蕭式球** 譯 [6]_
+    - `須摩滿提經 <{filename}mn078-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `沙門文祁子經 <http://tripitaka.cbeta.org/N11n0005_009#0022a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4275,7 +4275,7 @@ Paribbājakavaggo 普行者品
 
     - `色古巫大夷小經 <http://agama.buddhason.org/MN/MN079.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小沙俱邏．優陀夷經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=260>`__ ; **蕭式球** 譯 [6]_
+    - `小沙俱邏．優陀夷經 <{filename}mn079-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `善生優陀夷小經 <http://tripitaka.cbeta.org/N11n0005_009#0029a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4313,7 +4313,7 @@ Paribbājakavaggo 普行者品
 
     - `偉柯那色經 <http://agama.buddhason.org/MN/MN080.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `韋迦那經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=261>`__ ; **蕭式球** 譯 [6]_
+    - `韋迦那經 <{filename}mn080-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `鞞摩那修經 <http://tripitaka.cbeta.org/N11n0005_009#0289a01>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4407,7 +4407,7 @@ Rājavaggo 王品
 
     - `額低葛勒經 <http://agama.buddhason.org/MN/MN081.htm>`__ **莊春江** 譯 [5]_
 
-    - `伽提迦羅經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=262>`__ ; **蕭式球** 譯 [6]_
+    - `伽提迦羅經 <{filename}mn081-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `陶師經 <http://tripitaka.cbeta.org/N11n0005_010#0047a05>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4445,7 +4445,7 @@ Rājavaggo 王品
 
     - `護國經 <http://agama.buddhason.org/MN/MN082.htm>`__ **莊春江** 譯 [5]_
 
-    - `賴吒和羅經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=263>`__ ; **蕭式球** 譯 [6]_
+    - `賴吒和羅經 <{filename}mn082-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `賴吒惒羅經 <http://tripitaka.cbeta.org/N11n0005_010#0057a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4493,7 +4493,7 @@ Rājavaggo 王品
 
     - `麻額提婆經 <http://agama.buddhason.org/MN/MN083.htm>`__ **莊春江** 譯 [5]_
 
-    - `大天王經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=264>`__ ; **蕭式球** 譯 [6]_
+    - `大天王經 <{filename}mn083-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `大天[木*奈]林經 <http://tripitaka.cbeta.org/N11n0005_010#0079a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4531,7 +4531,7 @@ Rājavaggo 王品
 
     - `摩偷羅經 <http://agama.buddhason.org/MN/MN084.htm>`__ **莊春江** 譯 [5]_
 
-    - `摩偷羅經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=265>`__ ; **蕭式球** 譯 [6]_
+    - `摩偷羅經 <{filename}mn084-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `摩偷羅經 <http://tripitaka.cbeta.org/N11n0005_010#0088a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4571,7 +4571,7 @@ Rājavaggo 王品
 
     - `菩提王子經 <http://agama.buddhason.org/MN/MN085.htm>`__ **莊春江** 譯 [5]_
 
-    - `菩提王子經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=266>`__ ; **蕭式球** 譯 [6]_
+    - `菩提王子經 <{filename}mn085-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `菩提王子經 <http://tripitaka.cbeta.org/N11n0005_010#0097a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4623,7 +4623,7 @@ Rājavaggo 王品
 
     - `鴦掘摩羅經 <http://agama.buddhason.org/MN/MN086.htm>`__ **莊春江** 譯 [5]_
 
-    - `鴦掘摩羅經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=267>`__ ; **蕭式球** 譯 [6]_
+    - `鴦掘摩羅經 <{filename}mn086-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `鴦掘摩經 <http://tripitaka.cbeta.org/N11n0005_010#0104a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4669,7 +4669,7 @@ Rājavaggo 王品
 
     - `從可愛者所生經 <http://agama.buddhason.org/MN/MN087.htm>`__ **莊春江** 譯 [5]_
 
-    - `鍾愛生經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=268>`__ ; **蕭式球** 譯 [6]_
+    - `鍾愛生經 <{filename}mn087-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `愛生經 <http://tripitaka.cbeta.org/N11n0005_010#0115a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4709,7 +4709,7 @@ Rājavaggo 王品
 
     - `斗蓬經 <http://agama.buddhason.org/MN/MN088.htm>`__ **莊春江** 譯 [5]_
 
-    - `斗蓬經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=269>`__ ; **蕭式球** 譯 [6]_
+    - `斗蓬經 <{filename}mn088-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `鞞訶提經 <http://tripitaka.cbeta.org/N11n0005_010#0122a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4747,7 +4747,7 @@ Rājavaggo 王品
 
     - `法的塔廟經 <http://agama.buddhason.org/MN/MN089.htm>`__ **莊春江** 譯 [5]_
 
-    - `法廟經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=270>`__ ; **蕭式球** 譯 [6]_
+    - `法廟經 <{filename}mn089-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `法莊嚴經 <http://tripitaka.cbeta.org/N11n0005_010#0128a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4785,7 +4785,7 @@ Rājavaggo 王品
 
     - `葛那葛得勒經 <http://agama.buddhason.org/MN/MN090.htm>`__ **莊春江** 譯 [5]_
 
-    - `緊那迦陀邏經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=271>`__ ; **蕭式球** 譯 [6]_
+    - `緊那迦陀邏經 <{filename}mn090-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `普棘刺林經 <http://tripitaka.cbeta.org/N11n0005_010#0135a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4885,7 +4885,7 @@ Brāhmaṇavaggo 婆羅門品
 
     - `梵壽經 <http://agama.buddhason.org/MN/MN091.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `梵壽經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=360>`__ ; **蕭式球** 譯 [6]_
+    - `梵壽經 <{filename}mn091-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `梵摩經 <http://tripitaka.cbeta.org/N11n0005_011#0144a05>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4923,7 +4923,7 @@ Brāhmaṇavaggo 婆羅門品
 
     - `謝勒經 <http://agama.buddhason.org/MN/MN092.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `舍羅經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=361>`__ ; **蕭式球** 譯 [6]_
+    - `舍羅經 <{filename}mn092-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `施羅經 <http://tripitaka.cbeta.org/N11n0005_011#0157a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -4961,7 +4961,7 @@ Brāhmaṇavaggo 婆羅門品
 
     - `阿攝拉亞那經 <http://agama.buddhason.org/MN/MN093.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `阿娑邏經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=362>`__ ; **蕭式球** 譯 [6]_
+    - `阿娑邏經 <{filename}mn093-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `阿攝惒經 <http://tripitaka.cbeta.org/N11n0005_011#0158a02>`__ ; **通妙** 譯(元亨寺) [8]_ ，〔阿攝羅耶那〕
 
@@ -5001,7 +5001,7 @@ Brāhmaṇavaggo 婆羅門品
 
     - `苟德木柯經 <http://agama.buddhason.org/MN/MN094.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `瞿多目迦經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=363>`__ ; **蕭式球** 譯 [6]_
+    - `瞿多目迦經 <{filename}mn094-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `瞿哆牟伽經 <http://tripitaka.cbeta.org/N11n0005_011#0170a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5039,7 +5039,7 @@ Brāhmaṇavaggo 婆羅門品
 
     - `鄭計經 <http://agama.buddhason.org/MN/MN095.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `闡基經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=364>`__ ; **蕭式球** 譯 [6]_
+    - `闡基經 <{filename}mn095-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `商伽經 <http://tripitaka.cbeta.org/N11n0005_011#0177a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5107,7 +5107,7 @@ Brāhmaṇavaggo 婆羅門品
 
     - `耶蘇葛力經 <http://agama.buddhason.org/MN/MN096.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `伊須迦利經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=365>`__ ; **蕭式球** 譯 [6]_
+    - `伊須迦利經 <{filename}mn096-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `鬱瘦歌邏經 <http://tripitaka.cbeta.org/N11n0005_011#0190a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5145,7 +5145,7 @@ Brāhmaṇavaggo 婆羅門品
 
     - `達那若尼經 <http://agama.buddhason.org/MN/MN097.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `陀然經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=366>`__ ; **蕭式球** 譯 [6]_
+    - `陀然經 <{filename}mn097-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `陀然經 <http://tripitaka.cbeta.org/N11n0005_011#0198a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5185,7 +5185,7 @@ Brāhmaṇavaggo 婆羅門品
 
     - `襪謝德經 <http://agama.buddhason.org/MN/MN098.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `婆舍多經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=367>`__ ; **蕭式球** 譯 [6]_
+    - `婆舍多經 <{filename}mn098-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `婆私吒經 <http://tripitaka.cbeta.org/N11n0005_011#0209a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5223,7 +5223,7 @@ Brāhmaṇavaggo 婆羅門品
 
     - `蘇玻經 <http://agama.buddhason.org/MN/MN099.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `須跋經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=368>`__ ; **蕭式球** 譯 [6]_
+    - `須跋經 <{filename}mn099-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `須婆經 <http://tripitaka.cbeta.org/N11n0005_011#0210a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5263,7 +5263,7 @@ Brāhmaṇavaggo 婆羅門品
 
     - `傷歌邏經 <http://agama.buddhason.org/MN/MN100.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `僧伽羅婆經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=369>`__ ; **蕭式球** 譯 [6]_
+    - `僧伽羅婆經 <{filename}mn100-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `傷歌邏經 <http://tripitaka.cbeta.org/N11n0005_011#0224a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5358,7 +5358,7 @@ Devadahavaggo 天臂品
 
     - `天臂經 <http://agama.buddhason.org/MN/MN101.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `天湖經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=374>`__ ; **蕭式球** 譯 [6]_
+    - `天湖經 <{filename}mn101-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `天臂經 <http://tripitaka.cbeta.org/N11n0005_012#0229a08>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5402,7 +5402,7 @@ Devadahavaggo 天臂品
 
     - `五三經 <http://agama.buddhason.org/MN/MN102.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `五與三經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=375>`__ ; **蕭式球** 譯 [6]_
+    - `五與三經 <{filename}mn102-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `五三經 <http://tripitaka.cbeta.org/N11n0005_012#0257a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5440,7 +5440,7 @@ Devadahavaggo 天臂品
 
     - `如何經 <http://agama.buddhason.org/MN/MN103.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `認為經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=376>`__ ; **蕭式球** 譯 [6]_
+    - `認為經 <{filename}mn103-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `如何經 <http://tripitaka.cbeta.org/N11n0005_012#0257a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5480,7 +5480,7 @@ Devadahavaggo 天臂品
 
     - `沙麼村經 <http://agama.buddhason.org/MN/MN104.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `沙摩村經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=377>`__ ; **蕭式球** 譯 [6]_
+    - `沙摩村經 <{filename}mn104-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `舍彌村經 <http://tripitaka.cbeta.org/N11n0005_012#0257a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5524,7 +5524,7 @@ Devadahavaggo 天臂品
 
     - `善星經 <http://agama.buddhason.org/MN/MN105.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `善星經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=378>`__ ; **蕭式球** 譯 [6]_
+    - `善星經 <{filename}mn105-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `善星經 <http://tripitaka.cbeta.org/N11n0005_012#0266a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5578,7 +5578,7 @@ Devadahavaggo 天臂品
 
     - `隨應於不動經 <http://agama.buddhason.org/MN/MN106.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `助益不動搖經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=379>`__ ; **蕭式球** 譯 [6]_
+    - `助益不動搖經 <{filename}mn106-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `不動利益經 <http://tripitaka.cbeta.org/N11n0005_012#0275a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5618,7 +5618,7 @@ Devadahavaggo 天臂品
 
     - `會計師目犍連經 <http://agama.buddhason.org/MN/MN107.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `算師目犍連經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=380>`__ ; **蕭式球** 譯 [6]_
+    - `算師目犍連經 <{filename}mn107-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `算數家目犍連經 <http://tripitaka.cbeta.org/N11n0005_012#0280a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5654,7 +5654,7 @@ Devadahavaggo 天臂品
 
   * 漢譯：
 
-    - `防衛大臣目犍連經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=381>`__ ; **蕭式球** 譯 [6]_
+    - `防衛大臣目犍連經 <{filename}mn108-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `守護者目犍連經 <http://agama.buddhason.org/MN/MN108.htm>`__ ; **莊春江** 譯 [5]_
 
@@ -5704,7 +5704,7 @@ Devadahavaggo 天臂品
 
     - `滿月大經 <http://agama.buddhason.org/MN/MN109.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大月圓經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=382>`__ ; **蕭式球** 譯 [6]_
+    - `大月圓經 <{filename}mn109-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `滿月大經 <http://tripitaka.cbeta.org/N11n0005_012#0297a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5744,7 +5744,7 @@ Devadahavaggo 天臂品
 
     - `滿月小經 <http://agama.buddhason.org/MN/MN110.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小月圓經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=383>`__ ; **蕭式球** 譯 [6]_
+    - `小月圓經 <{filename}mn110-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `滿月小經 <http://tripitaka.cbeta.org/N11n0005_012#0304a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5842,7 +5842,7 @@ Anupadavaggo 不斷品
 
     - `逐步經 <http://agama.buddhason.org/MN/MN111.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `逐一經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=384>`__ ; **蕭式球** 譯 [6]_
+    - `逐一經 <{filename}mn111-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `不斷經 <http://tripitaka.cbeta.org/N12n0005_013#0001a05>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5884,7 +5884,7 @@ Anupadavaggo 不斷品
 
     - `六純淨經 <http://agama.buddhason.org/MN/MN112.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `六種清淨經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=385>`__ ; **蕭式球** 譯 [6]_
+    - `六種清淨經 <{filename}mn112-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `六淨經 <http://tripitaka.cbeta.org/N12n0005_013#0007a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5924,7 +5924,7 @@ Anupadavaggo 不斷品
 
     - `善人經 <http://agama.buddhason.org/MN/MN113.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `善人經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=386>`__ ; **蕭式球** 譯 [6]_
+    - `善人經 <{filename}mn113-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `善士經 <http://tripitaka.cbeta.org/N12n0005_013#0015a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -5964,7 +5964,7 @@ Anupadavaggo 不斷品
 
     - `應該實行與不應該實行經 <http://agama.buddhason.org/MN/MN114.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `應行不應行經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=387>`__ ; **蕭式球** 譯 [6]_
+    - `應行不應行經 <{filename}mn114-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `應習不應習經 <http://tripitaka.cbeta.org/N12n0005_013#0024a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6002,7 +6002,7 @@ Anupadavaggo 不斷品
 
     - `多界經 <http://agama.buddhason.org/MN/MN115.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `多種界經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=388>`__ ; **蕭式球** 譯 [6]_
+    - `多種界經 <{filename}mn115-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `多界經 <http://tripitaka.cbeta.org/N12n0005_013#0041a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6054,7 +6054,7 @@ Anupadavaggo 不斷品
 
     - `仙吞經 <http://agama.buddhason.org/MN/MN116.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `仙人山經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=389>`__ ; **蕭式球** 譯 [6]_
+    - `仙人山經 <{filename}mn116-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `仙吞經 <http://tripitaka.cbeta.org/N12n0005_013#0049a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6094,7 +6094,7 @@ Anupadavaggo 不斷品
 
     - `四十大經 <http://agama.buddhason.org/MN/MN117.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大四十經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=390>`__ ; **蕭式球** 譯 [6]_
+    - `大四十經 <{filename}mn117-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `大四十經 <http://tripitaka.cbeta.org/N12n0005_013#0055a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6142,7 +6142,7 @@ Anupadavaggo 不斷品
 
     - `入出息念經 <http://agama.buddhason.org/MN/MN118.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `出入息念經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=391>`__ ; **蕭式球** 譯 [6]_
+    - `出入息念經 <{filename}mn118-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `入出息念經 <http://tripitaka.cbeta.org/N12n0005_013#0063a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6194,7 +6194,7 @@ Anupadavaggo 不斷品
 
     - `身至念經 <http://agama.buddhason.org/MN/MN119.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `身念經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=392>`__ ; **蕭式球** 譯 [6]_
+    - `身念經 <{filename}mn119-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `身行念經 <http://tripitaka.cbeta.org/N12n0005_013#0073a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6234,7 +6234,7 @@ Anupadavaggo 不斷品
 
     - `往生之意志經 <http://agama.buddhason.org/MN/MN120.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `行與再投生經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=393>`__ ; **蕭式球** 譯 [6]_
+    - `行與再投生經 <{filename}mn120-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `行生經 <http://tripitaka.cbeta.org/N12n0005_013#0084a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6333,7 +6333,7 @@ Suññatavaggo 空品
 
     - `空小經 <http://agama.buddhason.org/MN/MN121.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小空經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=445>`__ ; **蕭式球** 譯 [6]_
+    - `小空經 <{filename}mn121-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `空小經 <http://tripitaka.cbeta.org/N12n0005_014#0089a05>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6383,7 +6383,7 @@ Suññatavaggo 空品
 
     - `空大經 <http://agama.buddhason.org/MN/MN122.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大空經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=446>`__ ; **蕭式球** 譯 [6]_
+    - `大空經 <{filename}mn122-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `空大經 <http://tripitaka.cbeta.org/N12n0005_014#0095a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6427,7 +6427,7 @@ Suññatavaggo 空品
 
     - `不可思議-未曾有經 <http://agama.buddhason.org/MN/MN123.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `未曾有法經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=447>`__ ; **蕭式球** 譯 [6]_
+    - `未曾有法經 <{filename}mn123-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `希有未曾有法經 <http://tripitaka.cbeta.org/N12n0005_014#0104a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6465,7 +6465,7 @@ Suññatavaggo 空品
 
     - `巴古勒經 <http://agama.buddhason.org/MN/MN124.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `薄拘羅經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=448>`__ ; **蕭式球** 譯 [6]_
+    - `薄拘羅經 <{filename}mn124-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `薄拘羅經 <http://tripitaka.cbeta.org/N12n0005_014#0111a01>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6503,7 +6503,7 @@ Suññatavaggo 空品
 
     - `已調御階位經 <http://agama.buddhason.org/MN/MN125.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `調御地經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=449>`__ ; **蕭式球** 譯 [6]_
+    - `調御地經 <{filename}mn125-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `調御地經 <http://tripitaka.cbeta.org/N12n0005_014#0116a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6555,7 +6555,7 @@ Suññatavaggo 空品
 
     - `地生經 <http://agama.buddhason.org/MN/MN126.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `浮彌經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=450>`__ ; **蕭式球** 譯 [6]_
+    - `浮彌經 <{filename}mn126-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `浮彌經 <http://tripitaka.cbeta.org/N12n0005_014#0126a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6595,7 +6595,7 @@ Suññatavaggo 空品
 
     - `阿那律經 <http://agama.buddhason.org/MN/MN127.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `阿那律陀經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=451>`__ ; **蕭式球** 譯 [6]_
+    - `阿那律陀經 <{filename}mn127-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `阿那律經 <http://tripitaka.cbeta.org/N12n0005_014#0134a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6633,7 +6633,7 @@ Suññatavaggo 空品
 
     - `隨雜染經 <http://agama.buddhason.org/MN/MN128.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `污染經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=452>`__ ; **蕭式球** 譯 [6]_
+    - `污染經 <{filename}mn128-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `隨煩惱經 <http://tripitaka.cbeta.org/N12n0005_014#0089a05>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6671,7 +6671,7 @@ Suññatavaggo 空品
 
     - `愚者與賢者經 <http://agama.buddhason.org/MN/MN129.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `愚人與智者經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=453>`__ ; **蕭式球** 譯 [6]_
+    - `愚人與智者經 <{filename}mn129-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `賢愚經 <http://tripitaka.cbeta.org/N12n0005_014#0155a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6709,7 +6709,7 @@ Suññatavaggo 空品
 
     - `天使經 <http://agama.buddhason.org/MN/MN130.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `天信使經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=454>`__ ; **蕭式球** 譯 [6]_
+    - `天信使經 <{filename}mn130-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `天使經 <http://tripitaka.cbeta.org/N12n0005_014#0172a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6810,7 +6810,7 @@ Vibhaṅgavaggo 分別品
 
     - `賢善一夜者經 <http://agama.buddhason.org/MN/MN131.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `當下勤修經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=455>`__ ; **蕭式球** 譯 [6]_
+    - `當下勤修經 <{filename}mn131-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `一夜賢者經 <http://tripitaka.cbeta.org/N12n0005_015#0182a05>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6854,7 +6854,7 @@ Vibhaṅgavaggo 分別品
 
     - `阿難賢善一夜者經 <http://agama.buddhason.org/MN/MN132.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `阿難當下勤修經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=456>`__ ; **蕭式球** 譯 [6]_
+    - `阿難當下勤修經 <{filename}mn132-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `阿難一夜賢者經 <http://tripitaka.cbeta.org/N12n0005_015#0186a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6892,7 +6892,7 @@ Vibhaṅgavaggo 分別品
 
     - `摩訶迦旃延賢善一夜者經 <http://agama.buddhason.org/MN/MN133.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大迦旃延當下勤修經 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=459>`__ ; **蕭式球** 譯 [6]_
+    - `大迦旃延當下勤修經 <{filename}mn133-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `大迦旃延一夜賢者經 <http://tripitaka.cbeta.org/N12n0005_015#0190a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6930,7 +6930,7 @@ Vibhaṅgavaggo 分別品
 
     - `羅麼色耿其雅賢善一夜者經 <http://agama.buddhason.org/MN/MN134.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `羅摩沙迦當下勤修經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=458>`__ ; **蕭式球** 譯 [6]_
+    - `羅摩沙迦當下勤修經 <{filename}mn134-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `盧夷強耆一夜賢者經 <http://tripitaka.cbeta.org/N12n0005_015#0200a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -6968,7 +6968,7 @@ Vibhaṅgavaggo 分別品
 
     - `業分別小經 <http://agama.buddhason.org/MN/MN135.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小分析業經 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=459>`__ ; **蕭式球** 譯 [6]_
+    - `小分析業經 <{filename}mn135-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `小業分别經 <{filename}mn135-dersiong%zh.rst>`__ **德雄比丘** (故　**明法比丘**  提供電子檔)
 
@@ -7022,7 +7022,7 @@ Vibhaṅgavaggo 分別品
 
     - `業分別大經 <http://agama.buddhason.org/MN/MN136.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大分析業經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=460>`__ ; **蕭式球** 譯 [6]_
+    - `大分析業經 <{filename}mn136-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `大業分別經 <http://tripitaka.cbeta.org/N12n0005_015#0210a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7085,7 +7085,7 @@ Vibhaṅgavaggo 分別品
 
     - `六處分別經 <http://agama.buddhason.org/MN/MN137.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `分析六處經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=461>`__ ; **蕭式球** 譯 [6]_
+    - `分析六處經 <{filename}mn137-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `六處分別經 <http://tripitaka.cbeta.org/N12n0005_015#0220a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7125,7 +7125,7 @@ Vibhaṅgavaggo 分別品
 
     - `總說分別經 <http://agama.buddhason.org/MN/MN138.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `分析義理經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=462>`__ ; **蕭式球** 譯 [6]_
+    - `分析義理經 <{filename}mn138-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `總說分別經 <http://tripitaka.cbeta.org/N12n0005_015#0229a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7165,7 +7165,7 @@ Vibhaṅgavaggo 分別品
 
     - `無諍之分別經 <http://agama.buddhason.org/MN/MN139.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `分析無諍經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=463>`__ ; **蕭式球** 譯 [6]_
+    - `分析無諍經 <{filename}mn139-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `無諍分別經 <http://tripitaka.cbeta.org/N12n0005_015#0238a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7207,7 +7207,7 @@ Vibhaṅgavaggo 分別品
 
     - `界分別經 <http://agama.buddhason.org/MN/MN140.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `分析界經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=464>`__ ; **蕭式球** 譯 [6]_
+    - `分析界經 <{filename}mn140-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `界分別經 <http://tripitaka.cbeta.org/N12n0005_015#0247a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7255,7 +7255,7 @@ Vibhaṅgavaggo 分別品
 
     - `諦分別經 <http://agama.buddhason.org/MN/mn141.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `分析聖諦經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=465>`__ ; **蕭式球** 譯 [6]_
+    - `分析聖諦經 <{filename}mn141-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `諦分別經 <http://tripitaka.cbeta.org/N12n0005_015#0259a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7297,7 +7297,7 @@ Vibhaṅgavaggo 分別品
 
     - `供養分別經 <http://agama.buddhason.org/MN/MN142.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `分析供養經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=466>`__ ; **蕭式球** 譯 [6]_
+    - `分析供養經 <{filename}mn142-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `施分別經 <http://tripitaka.cbeta.org/N12n0005_015#0265a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7395,7 +7395,7 @@ Saḷāyatanavaggo 六處品
 
     - `教誡給孤獨經 <http://agama.buddhason.org/MN/MN143.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `教化給孤獨長者經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=476>`__ ; **蕭式球** 譯 [6]_
+    - `教化給孤獨長者經 <{filename}mn143-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `教給孤獨經 <http://tripitaka.cbeta.org/N12n0005_016#0272a05>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7435,7 +7435,7 @@ Saḷāyatanavaggo 六處品
 
     - `教誡闡陀經 <http://agama.buddhason.org/MN/MN144.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `教化車匿經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=467>`__ ; **蕭式球** 譯 [6]_
+    - `教化車匿經 <{filename}mn144-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `教闡陀經 <http://tripitaka.cbeta.org/N12n0005_016#0279a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7473,7 +7473,7 @@ Saḷāyatanavaggo 六處品
 
     - `教誡富樓那經 <http://agama.buddhason.org/MN/MN145.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `教化富那經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=468>`__ ; **蕭式球** 譯 [6]_
+    - `教化富那經 <{filename}mn145-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `教富樓那經 <http://tripitaka.cbeta.org/N12n0005_016#0284a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7511,7 +7511,7 @@ Saḷāyatanavaggo 六處品
 
     - `難達葛教誡經 <http://agama.buddhason.org/MN/MN146.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `難陀迦教化比丘尼經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=469>`__ ; **蕭式球** 譯 [6]_
+    - `難陀迦教化比丘尼經 <{filename}mn146-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `教難陀迦經 <http://tripitaka.cbeta.org/N12n0005_016#0289a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7559,7 +7559,7 @@ Saḷāyatanavaggo 六處品
 
     - `教誡羅侯羅小經 <http://agama.buddhason.org/MN/MN147.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `小教化羅睺邏經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=470>`__ ; **蕭式球** 譯 [6]_
+    - `小教化羅睺邏經 <{filename}mn147-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `教羅睺羅小經 <http://tripitaka.cbeta.org/N12n0005_016#0301a03>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7613,7 +7613,7 @@ Saḷāyatanavaggo 六處品
 
     - `六個六經 <http://agama.buddhason.org/MN/MN148.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `六層六處經 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=471>`__ ; **蕭式球** 譯 [6]_
+    - `六層六處經 <{filename}mn148-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `六六經 <http://tripitaka.cbeta.org/N12n0005_016#0305a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7667,7 +7667,7 @@ Saḷāyatanavaggo 六處品
 
     - `六處大經 <http://agama.buddhason.org/MN/MN149.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `大六處經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=472>`__ ; **蕭式球** 譯 [6]_
+    - `大六處經 <{filename}mn149-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `大六處經 <http://tripitaka.cbeta.org/N12n0005_016#0313a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7717,7 +7717,7 @@ Saḷāyatanavaggo 六處品
 
     - `頻頭城經 <http://agama.buddhason.org/MN/MN150.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `頻頭城經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=473>`__ ; **蕭式球** 譯 [6]_
+    - `頻頭城經 <{filename}mn150-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `頻頭城經 <http://tripitaka.cbeta.org/N12n0005_016#0317a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7755,7 +7755,7 @@ Saḷāyatanavaggo 六處品
 
     - `淨化施食經 <http://agama.buddhason.org/MN/MN151.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `化食清淨經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=474>`__ ; **蕭式球** 譯 [6]_
+    - `化食清淨經 <{filename}mn151-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `乞食清淨經 <http://tripitaka.cbeta.org/N12n0005_0321a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -7793,7 +7793,7 @@ Saḷāyatanavaggo 六處品
 
     - `根修習經 <http://agama.buddhason.org/MN/MN152.htm>`__ ; **莊春江** 譯 [5]_
 
-    - `修習根經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=475>`__ ; **蕭式球** 譯 [6]_
+    - `修習根經 <{filename}mn152-siu-sk%zh.rst>`__ ; **蕭式球** 譯 [6]_
 
     - `根修習經 <http://tripitaka.cbeta.org/N12n0005_016#0326a02>`__ ; **通妙** 譯(元亨寺) [8]_
 
@@ -8632,11 +8632,11 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 
 ------
 
-- `中部經典總說 <{static}/extra/tipitaka/sutta/majjhima/majjhimanikaya-introduction-guan-hiang.pdf>`__ ；通妙譯，元亨寺漢譯南傳大藏經編譯委員會，高雄：元亨寺妙林出版社, 1995，經藏／中部經典四
+- `中部經典總說 <{filename}/extra/tipitaka/sutta/majjhima/majjhimanikaya-introduction-guan-hiang.pdf>`__ ；通妙譯，元亨寺漢譯南傳大藏經編譯委員會，高雄：元亨寺妙林出版社, 1995，經藏／中部經典四
 
 ------
 
--  The comparative catalog of Majjhimanikāya & Madhyama-āgama 《中部》與《中阿含經》經對照表 & 《中阿含經》與《中部》對照表： `HTML <{static}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.htm>`__ (直接閱讀), `PDF <{static}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.pdf>`__ , `ms doc <{static}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.doc>`__ , `ms rtf <{static}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+-  The comparative catalog of Majjhimanikāya & Madhyama-āgama 《中部》與《中阿含經》經對照表 & 《中阿含經》與《中部》對照表： `HTML <{filename}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/majjhima/M-vs-M-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
 - 國立臺灣大學 「 `獅子吼佛學專站 <http://buddhaspace.org/main/modules/dokuwiki/agama:%E5%8F%B0%E5%A4%A7%E7%8D%85%E5%AD%90%E5%90%BC%E4%BD%9B%E5%AD%B8%E5%B0%88%E7%AB%99%E7%B0%A1%E4%BB%8B>`_ 」「 `阿含藏專案列表 <http://buddhaspace.org/main/modules/dokuwiki/>`_ 」
 
@@ -8712,9 +8712,7 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 
 .. [14] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Majjhima Nikāya (MN) <https://suttacentral.net/mn>`__ 。
 
-
 ..
-  2023-08-08 rev. replace filename with static to match "gramma"
   12.17 2018 add: 一切漏經注 書目 & 書訊
   12.30 add: 國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」:雜阿含經 、增壹阿含經；CBETA:雜阿含經 （ 50 卷本 ，劉宋　求那跋陀羅　譯）、別譯雜阿含經 （失譯，16 卷本）、雜阿含經 （失譯， 單卷本 ）、中阿含經 （東晉　瞿曇 僧伽提婆　譯，共 60 卷）、增壹阿含經 （東晉　瞿曇 僧伽提婆　譯，共 51 卷）、長阿含經 （後秦　佛陀耶舍　共　竺佛念　譯，共 22 卷）; 台語與佛典: 中阿含讀書會 、增支部尼柯耶讀書會、增一阿含讀書會
   12.27 add:漏盡經 ( 台大獅子吼佛學專站 ； 阿含站專案列表 → 中阿含經 → 卷第二 )
