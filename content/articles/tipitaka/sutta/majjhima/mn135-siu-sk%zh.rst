@@ -2,7 +2,7 @@
 ====================================================================
 
 :date: 2024-09-05
-:modified: 2024-09-05
+:modified: 2024-09-08
 :author: 蕭式球
 :tags: 中部135經, 小分析業, 小業分別經, MN 135, mn135, M135, Cūḷakammavibhaṅgasuttaṃ, Cūḷakamma­vibhaṅga Sutta, 蕭式球, 巴利三藏中部
 :category: 巴利三藏中部
@@ -73,7 +73,7 @@
 
 ------
 
-- `蕭式球 譯 巴利佛典 <{filename}../tipitaka-tr-by-siu-sk%zh.rst>`__
+- `蕭式球 譯 經藏 中部 Majjhimanikāya <{filename}majjhima-nikaaya-tr-by-siu-sk%zh.rst>`__
 
 - `巴利大藏經 經藏 中部 Majjhimanikāya <{filename}majjhima-nikaaya%zh.rst>`__
 
