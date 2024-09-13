@@ -3,7 +3,7 @@
 ================================
 
 :date: 2024-08-05
-:modified: 2024-09-11
+:modified: 2024-09-13
 :tags: 魔羅的來信, 阿瞻, 阿姜, 阿瞻普那達摩, 阿姜普那達摩, 阿姜蓬那達摩, Ajahn Punnadhammo, Ajahn Puṇṇadhammo, 阿瞻法滿
 :category: 書選
 :summary: 魔羅的來信(Letters from Mara)
@@ -22,7 +22,7 @@
 - `第三軍：飢渴交加（飢餓和口渴） <{filename}mara03%zh.rst>`_ 
 - `第四軍：渴愛 <{filename}mara04%zh.rst>`_ 
 - `第五軍：惛沈和睡眠 <{filename}mara05%zh.rst>`_ 
-- `第六軍：怯懦 <{filename}mara06%zh.rst>`_ （建構中！）
+- `第六軍：怖畏（怯懦） <{filename}mara06%zh.rst>`_ 
 - `第七軍：疑 <{filename}mara07%zh.rst>`_ （建構中！）
 - `第八軍：覆藏與頑固 <{filename}mara08%zh.rst>`_ （建構中！）
 - `第九軍：利得、聲譽和惡名 <{filename}mara09%zh.rst>`_ （建構中！）
@@ -89,6 +89,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  09-13 rev. finish chapter 6
   09-11 rev. finish chapter 5
   09-10 rev. finish chapter 4
   09-03 rev. finish chapter 3
