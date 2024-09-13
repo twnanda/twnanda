@@ -23,7 +23,7 @@
 - `第四軍：渴愛 <{filename}mara04%zh.rst>`_ 
 - `第五軍：惛沈和睡眠 <{filename}mara05%zh.rst>`_ 
 - `第六軍：怖畏（怯懦） <{filename}mara06%zh.rst>`_ 
-- `第七軍：疑 <{filename}mara07%zh.rst>`_ （建構中！）
+- `第七軍：疑法（不確定性） <{filename}mara07%zh.rst>`_ 
 - `第八軍：覆藏與頑固 <{filename}mara08%zh.rst>`_ （建構中！）
 - `第九軍：利得、聲譽和惡名 <{filename}mara09%zh.rst>`_ （建構中！）
 - `第十軍：自贊、毀他 <{filename}mara10%zh.rst>`_ （建構中！）
@@ -89,7 +89,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
-  09-13 rev. finish chapter 6
+  09-13 rev. finish chapter 7; finish chapter 6; 
   09-11 rev. finish chapter 5
   09-10 rev. finish chapter 4
   09-03 rev. finish chapter 3
