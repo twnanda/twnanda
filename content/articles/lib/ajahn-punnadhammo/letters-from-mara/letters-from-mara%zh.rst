@@ -26,7 +26,7 @@
 - `第七軍：疑法（不確定性） <{filename}mara07%zh.rst>`_ 
 - `第八軍：覆藏與頑固 <{filename}mara08%zh.rst>`_ 
 - `第九軍：利得、聲譽和惡名 <{filename}mara09%zh.rst>`_ 
-- `第十軍：自贊、毀他 <{filename}mara10%zh.rst>`_ （建構中！）
+- `第十軍：自贊、毀他 <{filename}mara10%zh.rst>`_ 
 - `結語 <{filename}mara-conc%zh.rst>`_ （建構中！）
 - 本書 PDF ; ODT
 
@@ -89,7 +89,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
-  09-19 rev. finish chapter 8; finish chapter 9; 
+  09-19 rev. finish chapter 8; finish chapter 9; finish chapter 10
   09-13 rev. finish chapter 7; finish chapter 6; 
   09-11 rev. finish chapter 5
   09-10 rev. finish chapter 4
