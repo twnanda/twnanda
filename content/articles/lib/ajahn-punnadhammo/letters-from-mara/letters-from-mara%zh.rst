@@ -3,7 +3,7 @@
 ================================
 
 :date: 2024-08-05
-:modified: 2024-09-20
+:modified: 2024-09-21
 :tags: 魔羅的來信, 阿瞻, 阿姜, 阿瞻普那達摩, 阿姜普那達摩, 阿姜蓬那達摩, Ajahn Punnadhammo, Ajahn Puṇṇadhammo, 阿瞻法滿
 :category: 書選
 :summary: 魔羅的來信(Letters from Mara)
@@ -28,6 +28,7 @@
 - `第九軍：利得、聲譽和惡名 <{filename}mara09%zh.rst>`_ 
 - `第十軍：自贊、毀他 <{filename}mara10%zh.rst>`_ 
 - `結語 <{filename}mara-conc%zh.rst>`_ 
+- `魔羅的來信（整本書） <{filename}letters-from-mara-full-texts%zh.rst>`_ 
 - 本書 PDF ; ODT
 
 ------
@@ -72,6 +73,10 @@
 
 ------
 
+- `身體之城 <{filename}../../dharmagupta/kaayanagara/kaayanagara%zh.rst>`_ (The City of the Body, Kāyanagara)
+
+------
+
 版權宣告
 ~~~~~~~~~~~
 
@@ -89,6 +94,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  09-21 add: 整本書
   09-20 rev. finish conclusion
   09-19 rev. finish chapter 8; finish chapter 9; finish chapter 10
   09-13 rev. finish chapter 7; finish chapter 6; 
