@@ -3,7 +3,7 @@
 =========================================================
 
 :date: 2024-09-21
-:modified: 2024-09-22
+:modified: 2024-09-23
 :tags: 魔羅的來信, 阿瞻, 阿姜, 阿瞻普那達摩, 阿姜普那達摩, 阿姜蓬那達摩, Ajahn Punnadhammo, Ajahn Puṇṇadhammo, 阿瞻法滿
 :category: 書選
 :summary: 魔羅的來信（全書）(Full texts of "Letters from Māra")
@@ -481,6 +481,10 @@ https://www.arrowriver.ca/maraidx.html
 
 ------
 
+- 本書
+  * PDF: `閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-reading.pdf>`__（背景：豆沙綠色；39 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-print.pdf>`__ （39 頁，210 x 297 cm）
+  * ODT：`閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/the-letter-from-mara-han-reading.odt>`__（背景：豆沙綠色；39 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/the-letter-from-mara-han-print.odt>`__ （A4，14 點，39 頁，210 x 297 cm）
+
 .. _audiobook:
 
 有聲書（整本書合輯）
@@ -652,5 +656,6 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  09-23 add: PDF & ODT
   09-22 rev. linking of 身體之城 & Youtube
   2024-09-21; create rst on 2024-08-05

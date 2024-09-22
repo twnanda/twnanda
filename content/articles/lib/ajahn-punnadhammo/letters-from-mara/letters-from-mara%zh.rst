@@ -3,7 +3,7 @@
 ================================
 
 :date: 2024-08-05
-:modified: 2024-09-22
+:modified: 2024-09-23
 :tags: 魔羅的來信, 阿瞻, 阿姜, 阿瞻普那達摩, 阿姜普那達摩, 阿姜蓬那達摩, Ajahn Punnadhammo, Ajahn Puṇṇadhammo, 阿瞻法滿
 :category: 書選
 :summary: 魔羅的來信(Letters from Mara)
@@ -29,7 +29,9 @@
 - `第十軍：自贊、毀他 <{filename}mara10%zh.rst>`_ 
 - `結語 <{filename}mara-conc%zh.rst>`_ 
 - `魔羅的來信（整本書） <{filename}letters-from-mara-full-texts%zh.rst>`_ 
-- 本書 PDF ; ODT
+- 本書
+  * PDF: `閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-reading.pdf>`__（背景：豆沙綠色；39 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-print.pdf>`__ （39 頁，210 x 297 cm）
+  * ODT：`閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/the-letter-from-mara-han-reading.odt>`__（背景：豆沙綠色；39 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/the-letter-from-mara-han-print.odt>`__ （A4，14 點，39 頁，210 x 297 cm）
 
 ------
 
@@ -123,6 +125,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  09-23 add: PDF & ODT
   09-22 rev. linking of 身體之城 & youtube
   09-21 add: 整本書
   09-20 rev. finish conclusion
