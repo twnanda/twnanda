@@ -3,7 +3,7 @@
 =========================================================
 
 :date: 2024-09-21
-:modified: 2024-09-21
+:modified: 2024-09-22
 :tags: 魔羅的來信, 阿瞻, 阿姜, 阿瞻普那達摩, 阿姜普那達摩, 阿姜蓬那達摩, Ajahn Punnadhammo, Ajahn Puṇṇadhammo, 阿瞻法滿
 :category: 書選
 :summary: 魔羅的來信（全書）(Full texts of "Letters from Māra")
@@ -22,22 +22,18 @@ https://www.arrowriver.ca/maraidx.html
 
 ------
 
-**作者註 - 向已故的 C. S. Lewis 致歉，他是《The Screwtape Letters》 [01]_ 的作者，因為我無恥地抄襲了他的聰明想法。**
+**作者註 - 向已故的 C. S. Lewis 致歉，他是《The Screwtape Letters》** [01]_ **的作者，因為我無恥地抄襲了他的聰明想法。**
 
 ------
 
-`序言`_
-`第一軍：感官之主——慾望`_
-`第二軍：無聊（不滿足）`_
-`第三軍：飢渴交加（飢餓和口渴）`_
-`第四軍：渴愛`_
-`第五軍：惛沈和睡眠`_
-`第六軍：怖畏（怯懦）`_
-`第七軍：疑法（不確定性）`_
-`第八軍：惡意（覆藏）與頑固`_
-`第九軍：榮譽、聲望與惡名`_
-`第十軍：自我讚美與詆毀他人`_
-`結語`_
+`序言`_ 、 `第一軍：感官之主——慾望`_ 、 `第二軍：無聊（不滿足）`_
+
+`第三軍：飢渴交加（飢餓和口渴）`_ 、 `第四軍：渴愛`_ 、 `第五軍：惛沈和睡眠`_
+
+`第六軍：怖畏（怯懦）`_ 、 `第七軍：疑法（不確定性）`_ 、 `第八軍：惡意（覆藏）與頑固`_
+
+`第九軍：榮譽、聲望與惡名`_ 、 `第十軍：自我讚美與詆毀他人`_ 、 `結語`_
+
 - 本書 PDF ; ODT
 
 ------
@@ -523,7 +519,7 @@ https://www.arrowriver.ca/maraidx.html
 
 - `就在今生 （In This Very Life） <https://drive.google.com/file/d/1koncl2XazmeAPqJN9GHqjbv7523kyoZf/view>`__ 第三章：十魔軍（班迪達尊者（Sayādaw U Paṇḍita）著，奧智達比丘（U Aggacitta）英譯，卡瑪蘭諦戒女尼師（Sayalay Khemanandi）中譯，大越法師 MBSC編譯小組 審校，社團法人台灣佛陀原始正法學會 出版，西元 2022, 7 月
 
-- `身體之城 <{filename}../../dharmagupta/kaayanagara/kaayanagara%zh.rst>`_ (The City of the Body, Kāyanagara)
+- `身體之城 <{filename}../../../dharmagupta/kaayanagara/kaayanagara%zh.rst>`_ (The City of the Body, Kāyanagara)
 
 ------
 
@@ -662,4 +658,5 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  09-22 rev. linking of 身體之城
   2024-09-21; create rst on 2024-08-05

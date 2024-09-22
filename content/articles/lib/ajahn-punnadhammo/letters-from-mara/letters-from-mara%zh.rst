@@ -3,7 +3,7 @@
 ================================
 
 :date: 2024-08-05
-:modified: 2024-09-21
+:modified: 2024-09-22
 :tags: 魔羅的來信, 阿瞻, 阿姜, 阿瞻普那達摩, 阿姜普那達摩, 阿姜蓬那達摩, Ajahn Punnadhammo, Ajahn Puṇṇadhammo, 阿瞻法滿
 :category: 書選
 :summary: 魔羅的來信(Letters from Mara)
@@ -73,7 +73,7 @@
 
 ------
 
-- `身體之城 <{filename}../../dharmagupta/kaayanagara/kaayanagara%zh.rst>`_ (The City of the Body, Kāyanagara)
+- `身體之城 <{filename}../../../dharmagupta/kaayanagara/kaayanagara%zh.rst>`_ (The City of the Body, Kāyanagara)
 
 ------
 
@@ -94,6 +94,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  09-22 rev. linking of 身體之城
   09-21 add: 整本書
   09-20 rev. finish conclusion
   09-19 rev. finish chapter 8; finish chapter 9; finish chapter 10
