@@ -3,7 +3,7 @@
 ===============================================
 
 :date: 2024-09-21
-:modified: 2024-09-21
+:modified: 2024-09-22
 :tags: 護法法師, Bhikkhu Dharmagupta, Dharmagupta, Kāyanagara, 身體之城, The City of the Body, Plyak Shonthirak
 :category: 書選
 :summary: 身體之城(The City of the Body, Kāyanagara)
@@ -38,6 +38,10 @@
 
 - `整部書 <{filename}kaayanagara-full-texts%zh.rst>`_ 
 - 本書 PDF ; ODT
+
+----
+
+- `English <{filename}kaayanagara-full-texts-english%zh.rst>`_ (英文版)
 
 ------
 
@@ -124,4 +128,5 @@
 Dhamma should not be sold like goods in the market place. Permission to reproduce this publication in any way for free distribution, as a gift of Dhamma, is hereby granted and no further permission need be obtained. Reproduction in any way for commercial gain is strictly prohibited.
 
 ..
+  09-22 add english version
   2024-09-21; create rst on 2024-09-21

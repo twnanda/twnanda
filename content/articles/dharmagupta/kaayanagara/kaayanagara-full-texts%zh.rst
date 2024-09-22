@@ -3,29 +3,39 @@
 =========================================
 
 :date: 2024-09-21
-:modified: 2024-09-21
+:modified: 2024-09-22
 :tags: 護法法師, Bhikkhu Dharmagupta, Dharmagupta, Kāyanagara, 身體之城, The City of the Body, Plyak Shonthirak
 :category: 書選
 :summary: 身體之城全書 (The City of the Body, Kāyanagara)
 
 
-`英譯前言`_ 
-`1. 身體之城的地區`_ 
-`2. 身體之城的保護者（統治者）`_ 
-`3. 「身體之城」的內部`_ 
-`4. 警報`_ 
-`5. 事件的開端`_ 
-`6. 死亡之城`_ 
-`7. 軍事力量準備`_ 
-`8. 前進`_ 
-`9. 建議`_ 
-`10. 看不見的敵人`_ 
-`11. 心王的夢`_ 
-`12. 心王的夢得到解決`_ 
-`13. 打開皇家國庫`_ 
-`14. 準備船`_ 
-`15. 障礙`_ 
-`16. 不死大城（不朽的大都會）`_ 
+| 編輯：普拉克·桑蒂拉克 (Plyak Shonthirak)
+| （巴利語與文化哲學家）
+| 
+
+英譯： 護法比丘（Bhikkhu Dharmagupta）
+
+中譯編輯： Nanda (臺灣)
+
+------
+
+- `英譯前言`_ 
+- `1. 身體之城的地區`_ 
+- `2. 身體之城的保護者（統治者）`_ 
+- `3. 「身體之城」的內部`_ 
+- `4. 警報`_ 
+- `5. 事件的開端`_ 
+- `6. 死亡之城`_ 
+- `7. 軍事力量準備`_ 
+- `8. 前進`_ 
+- `9. 建議`_ 
+- `10. 看不見的敵人`_ 
+- `11. 心王的夢`_ 
+- `12. 心王的夢得到解決`_ 
+- `13. 打開皇家國庫`_ 
+- `14. 準備船`_ 
+- `15. 障礙`_ 
+- `16. 不死大城（不朽的大都會）`_ 
 
 ------
 
@@ -513,6 +523,59 @@ Natthi Santi Param Sukham – 沒有其他的幸福比得上和平。(除了和�
 
 《身體之城》結束。
 
+----
+
+**參考資訊：** 
+
+- 這部「身體之城」後面的「指南」，乃出自《攝阿毘達摩義論》。
+
+  阿毗達摩概要精解 (A Comprehensive Manual of Abhidhamma)，英編者： 菩提比丘 Ven. Bhikkhu Bodhi
+
+  或 明法法師著作： Abhidhammatthasaṅgaho 《攝阿毘達摩義論》表解
+
+  http://www.dhammarain.org.tw/canon/canon1.html#%E8%97%8F%E5%A4%96%E6%96%87%E7%8D%BB
+
+------
+
+- `Until Nirvana's Time: Buddhist Poems from Cambodia 柬埔寨佛教詩歌 <https://books.google.com.tw/books?id=YFR1EAAAQBAJ&pg=PA273&lpg=PA273&dq=K%C4%81yanagara&source=bl&ots=ZL1o7UrDO6&sig=ACfU3U2nht0NvMFT8EEY5Xa8fjcrXJSqgA&hl=zh-TW&sa=X&ved=2ahUKEwjy04zfhN2GAxV5m68BHU8mDNYQ6AF6BAgTEAM#v=onepage&q=K%C4%81yanagara&f=false>`_ ，Google 圖書，部份閱覽；
+
+- File details
+
+|   Variant titles: Kanyanakhòn (Phuk 2)
+|   The Body City (Fascicle 2)
+|   Creation date: 17 Nov 1912
+|   Languages: Lao, Pali  寮文，巴利文
+|   Scripts: Tham (lao)   寮文
+|   Content type: Manuscript  手寫稿 （寮國皇室珍藏）
+|   Originals information:
+|   The original material is located in Vat Xiang Thong Rasavoravihan, Xiang Thong-Khili village, Luang Prabang, Laos.
+|   Reference: EAP1398/7/185
+|   Level: File
+|   Extent: 26
+|   Digitisation date: 2021
+|   https://eap.bl.uk/archive-file/EAP1398-7-185
+|   
+
+- copying date in Gregorian: 1758 November 01
+
+|   Place of copying: Luang Prabang
+|   Script:   Tham Lao （寮文）
+|   Writing support: Palm-leaf（貝葉(經)）
+|   https://www.hmmlcloud.org/dreamsea/detail.php?msid=202
+|   
+
+- Reference Table of Pali Literature 巴利文獻參考表 
+
+|   Compiled by Bhikkhu Nyanatusita 都率智 比丘匯編
+|   Unclassified Anthologies, etc  未分類的文集等
+|   Kāyanagara, Kāyanagarasutta (S or Kh ?)
+|   https://www.bps.lk/olib/mi/mi013.pdf
+|   
+
+------
+
+- `English <{filename}kaayanagara-full-texts-english%zh.rst>`_ (英文版)
+
 ------
 
 - 本書 `目錄 <{filename}letters-from-mara%zh.rst>`_ 
@@ -538,4 +601,5 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  09-22 add reference and english version
   2024-09-21; create rst on 2024-09-21
