@@ -487,13 +487,13 @@ https://www.arrowriver.ca/maraidx.html
 
 - 男聲朗讀 ()
 
-  *  Youtube
-  *  MP3
+.. _audiobook:
 
-- 女聲朗讀 ()
+有聲書（整本書合輯）
 
-  *  Youtube
-  *  MP3
+- 男聲朗讀： `Youtube <https://www.youtube.com/watch?v=rDFRn1lr4sw>`__ (1:27:45); MP3 (send email to me)
+
+- 女聲朗讀： `Youtube <https://www.youtube.com/watch?v=37DtEZeTDCI>`__ (1:34:58); MP3 (send email to me)
 
 ----
 
@@ -658,5 +658,5 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
-  09-22 rev. linking of 身體之城
+  09-22 rev. linking of 身體之城 & Youtube
   2024-09-21; create rst on 2024-08-05
