@@ -3,7 +3,7 @@
 =========================================
 
 :date: 2024-09-21
-:modified: 2024-09-22
+:modified: 2024-09-23
 :tags: 護法法師, Bhikkhu Dharmagupta, Dharmagupta, Kāyanagara, 身體之城, The City of the Body, Plyak Shonthirak
 :category: 書選
 :summary: 身體之城全書 (The City of the Body, Kāyanagara)
@@ -578,9 +578,19 @@ Natthi Santi Param Sukham – 沒有其他的幸福比得上和平。(除了和�
 
 ------
 
-- 本書 `目錄 <{filename}letters-from-mara%zh.rst>`_ 
+- 本書 `分章目錄 <{filename}letters-from-mara%zh.rst>`_ 
 
 ------
+
+.. _audiobook:
+
+- 有聲書（整本書合輯）
+
+  * 男聲朗讀： Youtube; MP3
+
+  * 女聲朗讀： Youtube; MP3
+
+----
 
 - 護法法師 <{filename}../master-dharmagupta%zh.rst>`_  (Home Page of Ven. Dharmagupta)
 
@@ -601,5 +611,6 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  09-23 modi. PDF ; ODT suspended
   09-22 add reference and english version
   2024-09-21; create rst on 2024-09-21

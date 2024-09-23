@@ -2,13 +2,15 @@
 ########################################
 
 :date: 2000-07-08
-:modified: 2024-09-21
+:modified: 2024-09-23
 :tags: 護法法師
 :category: 護法法師
 :summary: 護法法師 Home Page (Home Page of Master Dharmagupta)
 
 
 - `身體之城 <{filename}kaayanagara/kaayanagara%zh.rst>`_ (The City of the Body, Kāyanagara)
+
+- `The City of the Body <{filename}kaayanagara/kaayanagara-full-texts-english%zh.rst>`_ (Kāyanagara)
 
 - `Dhammapada <{static}/extra/authors/dharmagupta/dhammapada-gatha-the-way-of-truth.pdf>`_ —The Way of the Truth (in Nepalese language, translated by Bhiksu Dharmagupta Mahasthavira)
 
@@ -81,6 +83,7 @@
 - `師父碩士論文 <{static}/extra/authors/dharmagupta/thesis/content.htm>`_
 
 .. 
+   09-23 add. The City of the Body, Kāyanagara (linking of English)
    2024-09-21 add. 身體之城 (The City of the Body, Kāyanagara)
    2023-08-08 rev. replace filename with static to match "gramma"
    12-25 add: Paṭṭhāna (Conditional Relations)
