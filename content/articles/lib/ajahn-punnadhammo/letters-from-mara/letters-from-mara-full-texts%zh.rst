@@ -26,15 +26,31 @@ https://www.arrowriver.ca/maraidx.html
 
 ------
 
-`序言`_ 、 `第一軍：感官之主——慾望`_ 、 `第二軍：無聊（不滿足）`_
+.. list-table:: 魔羅的來信(Letters from Māra)
+   :header-rows: 1
 
-`第三軍：飢渴交加（飢餓和口渴）`_ 、 `第四軍：渴愛`_ 、 `第五軍：惛沈和睡眠`_
+   * - `序言`_ 
+     - `第一軍：感官之主——慾望`_
+     - `第二軍：無聊（不滿足）`_
 
-`第六軍：怖畏（怯懦）`_ 、 `第七軍：疑法（不確定性）`_ 、 `第八軍：惡意（覆藏）與頑固`_
+   * - `第三軍：飢渴交加（飢餓和口渴）`_
+     - `第四軍：渴愛`_
+     - `第五軍：惛沈和睡眠`_
 
-`第九軍：榮譽、聲望與惡名`_ 、 `第十軍：自我讚美與詆毀他人`_ 、 `結語`_
+   * - `第六軍：怖畏（怯懦）`_
+     - `第七軍：疑法（不確定性）`_
+     - `第八軍：惡意（覆藏）與頑固`_
 
-- 本書 PDF ; ODT
+   * - `第九軍：榮譽、聲望與惡名`_
+     - `第十軍：自我讚美與詆毀他人`_
+     - `結語`_
+
+------
+
+- 本書
+
+  * PDF: `閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-reading.pdf>`__ （背景：豆沙綠色；39 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-print.pdf>`__ （39 頁，210 x 297 cm）
+  * ODT：`閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/the-letter-from-mara-han-reading.odt>`__ （背景：豆沙綠色；39 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/the-letter-from-mara-han-print.odt>`__ （A4，14 點，39 頁，210 x 297 cm）
 
 ------
 
@@ -482,8 +498,9 @@ https://www.arrowriver.ca/maraidx.html
 ------
 
 - 本書
-  * PDF: `閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-reading.pdf>`__（背景：豆沙綠色；39 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-print.pdf>`__ （39 頁，210 x 297 cm）
-  * ODT：`閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/the-letter-from-mara-han-reading.odt>`__（背景：豆沙綠色；39 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/the-letter-from-mara-han-print.odt>`__ （A4，14 點，39 頁，210 x 297 cm）
+
+  * PDF: `閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-reading.pdf>`__ （背景：豆沙綠色；39 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-print.pdf>`__ （39 頁，210 x 297 cm）
+  * ODT：`閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/the-letter-from-mara-han-reading.odt>`__ （背景：豆沙綠色；39 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/the-letter-from-mara-han-print.odt>`__ （A4，14 點，39 頁，210 x 297 cm）
 
 .. _audiobook:
 
