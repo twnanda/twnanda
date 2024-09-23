@@ -592,7 +592,7 @@ Natthi Santi Param Sukham – 沒有其他的幸福比得上和平。(除了和�
 
 ----
 
-- 護法法師 <{filename}../master-dharmagupta%zh.rst>`_  (Home Page of Ven. Dharmagupta)
+- `護法法師 <{filename}../master-dharmagupta%zh.rst>`_  (Home Page of Ven. Dharmagupta)
 
 ------
 
@@ -611,6 +611,6 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
-  09-23 modi. PDF ; ODT suspended
+  09-23 modi. PDF ; ODT suspended; repair lingking of 護法法師
   09-22 add reference and english version
   2024-09-21; create rst on 2024-09-21

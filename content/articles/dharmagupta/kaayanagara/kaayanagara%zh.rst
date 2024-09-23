@@ -108,7 +108,7 @@
 
 ------
 
-- 護法法師 <{filename}../master-dharmagupta%zh.rst>`_  (Home Page of Ven. Dharmagupta)
+- `護法法師 <{filename}../master-dharmagupta%zh.rst>`_  (Home Page of Ven. Dharmagupta)
 
 ------
 
@@ -122,6 +122,6 @@
 Dhamma should not be sold like goods in the market place. Permission to reproduce this publication in any way for free distribution, as a gift of Dhamma, is hereby granted and no further permission need be obtained. Reproduction in any way for commercial gain is strictly prohibited.
 
 ..
-  09-23 modi. PDF ; ODT suspended
+  09-23 modi. PDF ; ODT suspended; repair lingking of 護法法師
   09-22 add english version
   2024-09-21; create rst on 2024-09-21
