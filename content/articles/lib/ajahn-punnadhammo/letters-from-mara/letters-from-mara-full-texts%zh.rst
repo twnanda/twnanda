@@ -3,7 +3,7 @@
 =========================================================
 
 :date: 2024-09-21
-:modified: 2024-09-23
+:modified: 2024-09-28
 :tags: 魔羅的來信, 阿瞻, 阿姜, 阿瞻普那達摩, 阿姜普那達摩, 阿姜蓬那達摩, Ajahn Punnadhammo, Ajahn Puṇṇadhammo, 阿瞻法滿
 :category: 書選
 :summary: 魔羅的來信（全書）(Full texts of "Letters from Māra")
@@ -49,7 +49,8 @@ https://www.arrowriver.ca/maraidx.html
 
 - 本書
 
-  * PDF: `閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-reading.pdf>`__ （背景：豆沙綠色；39 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-print.pdf>`__ （39 頁，210 x 297 cm）
+  * PDF: `閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-reading.pdf>`__ （背景：豆沙綠色；39 頁, A4）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-print-A5.pdf>`__ （73 頁，A5, 148 x 210 cm）
+
   * ODT：`閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/the-letter-from-mara-han-reading.odt>`__ （背景：豆沙綠色；39 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/the-letter-from-mara-han-print.odt>`__ （A4，14 點，39 頁，210 x 297 cm）
 
 ------
@@ -287,6 +288,8 @@ https://www.arrowriver.ca/maraidx.html
 
 她嘆了口氣：「查了又有什麼用呢？」
 
+------
+
 向那無精打采、沉悶灰暗的懶惰與怠惰大軍致意！（旁白：「『accidy 怠惰』，是『acedia 心靈怠惰』的古拼法，一種病態的精神或靈性麻木。」 「謝啦，親愛的！」）希望你不要誤會，請繼續努力！
 
 看起來你的力量似乎在減弱；自從工業革命以來，人們的工作時間越來越長；但你我都清楚，真正的精神懶惰比以往任何時候都更加普遍。他們感興趣的只是快速解決問題和即時的救贖。（他們渴望速成的解脫，卻忽略了深層的自我探索。）
@@ -343,6 +346,8 @@ https://www.arrowriver.ca/maraidx.html
 我們可以鼓勵他們將懦弱視為美德。稱之為「謹慎」，稱之為「負責」。說：「要理智，為什麼要自找麻煩呢？讓一切保持現狀吧。」他們每天早上起床，戴上帽子，搭地鐵去做枯燥乏味的工作；仔細計劃著他們的退休生活。到了那時，他們已被生活打擊得體無完膚，會在餘生中輕而易舉，且毫無思索地滑向墳墓。
 
 我們要特別注意的是，那些還有剩下一點點鬥志的人；他們可能會開始考慮去朝聖，或者更糟的是，去寺院。要在他們耳邊低語這些危險：「在這艱難的經濟時期，為什麼要辭掉工作呢？要理智點，堅持下去，離退休金只剩二十年了！」 
+
+------
 
 魔羅停下手中的工作，雙手背在身後，若有所思地踱步到落地窗前。他看著一座巨大的城市影像。高樓大廈的牆壁如同巨大扭曲的洞窟，街道上佈滿了駭人的海報和刺眼的霓虹標語。噪音和煙霧充斥在空氣中。消瘦的人影如無知的螞蟻般，毫無目標地在迷宮中匆匆穿梭。
 
@@ -443,16 +448,18 @@ https://www.arrowriver.ca/maraidx.html
 
 ------
 
-第十軍：自我讚美與詆毀他人
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-（自贊、毀他）
-
 魔羅雙手抱頭靠在椅背上。「有時候我自己都覺得驚訝。我的意思是，沒有我，這個組織會變成什麼樣子？如果我不是那麼謙虛，我幾乎就是完美的！」
 
 「我一直這麼認為，魔羅。你的那些軍隊可真是致命的啊！」
 
 「什麼！？那些無能的蠢貨！如果我不一直像個保姆一樣看著他們，他們早就把整個宇宙搞得一團糟了！這年頭要找到像樣的幫手可真難啊！不過算了吧……」
+
+------
+
+第十軍：自我讚美與詆毀他人
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+（自贊、毀他）
 
 問候我勇敢而強大的第十軍！
 
@@ -487,7 +494,7 @@ https://www.arrowriver.ca/maraidx.html
 
 祕書帶著竊笑，眨了眨眼離開了。魔羅快速地審視著他那廣袤的帝國，結束了一天的工作。他盯著螢幕，掃描著宇宙，觀察著眾生在生死之間的輪迴。道德高尚者死後重現於天堂；沒有道德的則墮入地獄。從地獄和天堂，眾生完成他們的時光，然後再次出現在人間……他們在毫無結果的循環中不停輪迴，被慾望之風吹拂著；這些風是魔羅經過時代的努力所煽動的。
 
-然而，在螢幕上——在一間竹製的小屋裡，一位老婦人躺下準備離世。她身穿僧袍，頭已剃光。她平靜而莊重地，將自己虛弱的身體伸展在薄薄的草蓆上，右側躺下。魔羅厭惡地看著——他知道接下來會發生什麼，並且對此心懷恐懼；但卻無法移開目光，就像用舌頭探著一顆腐爛的牙齒一樣，痛苦且無法控制。這位比丘尼安詳地辭世，螢幕閃爍了一下；自動軟體迅速搜索所有存在的領域，最終顯示出可怕的錯誤訊息：「搜尋不到此眾生。」 
+然而，在螢幕上——在一間竹製的小屋裡，一位老婦人躺下準備離世。她身穿僧袍，頭已剃光。她平靜而莊重地，將自己虛弱的身體伸展在薄薄的草蓆上，右側躺下。魔羅厭惡地看著——他知道接下來會發生什麼，並且對此心懷恐懼；但卻無法移開目光，就像用舌頭探著一顆腐爛的牙齒一樣，痛苦且無法控制。這位比丘尼安詳地辭世，螢幕閃爍了一下；自動軟體迅速搜索所有存在的領域，最終顯示出可怕的錯誤訊息：「搜尋不到此眾生。」
 
 「呸！幸好這種方式失去的並不多。」魔羅不允許自己，過多揣測那位老比丘尼的去向——這個想法讓他隱隱感到不安。他繼續審視那些仍在他管轄範圍內的眾多、更加容易控制的個案。他們不停地轉來轉去；在這巨大的摩天輪裡面上上下下。
 
@@ -558,35 +565,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 備註
 ~~~~~~~
 
-.. [01] 《地獄來鴻》（直譯：螺絲帶信件，Screwtape Letters）是 C.S.路易斯（C. S. Lewis）所著的一部基督教護教小說，並獻給J.R.R.托爾金（J. R. R. Tolkien）。這本書以諷刺性的書信體寫成；雖然形式上是虛構的，但其劇情和角色主要用來探討基督教神學問題，尤其是關於誘惑與抵抗誘惑的議題。
-
-        《地獄來鴻》首次出版於1942年2月，故事以一系列書信的形式展開，由資深惡魔史魁普（Screwtape）寫給他的侄子、小惡魔伍木德（Wormwood，初級誘惑者）。叔叔的指導涉及侄子對一位英國男子——僅稱作「病人」——的責任，目的是確保他走向永恆的毀滅。
-
-        截至1999年，這本小說已經有26個英語版本和15個德語版本，銷量約達50萬冊。
-
-        取自維基百科（英文）
-
-        The Screwtape Letters is a Christian apologetic novel by C. S. Lewis and dedicated to J. R. R. Tolkien. It is written in a satirical, epistolary style and, while it is fictional in format, the plot and characters are used to address Christian theological issues, primarily those to do with temptation and resistance to it.
-        First published in February 1942,[2] the story takes the form of a series of letters from a senior demon, Screwtape, to his nephew, Wormwood, a junior tempter. The uncle's mentorship pertains to the nephew's responsibility in securing the damnation of a British man known only as "the Patient".
-        Until 1999, the novel had 26 English and 15 German editions, with around half a million copies sold.[3]
-        From Wikipedia, the free encyclopedia 
-        https://en.wikipedia.org/wiki/The_Screwtape_Letters
-
-        ～～～～～～～～～～～
-
-        大鎯頭寫給蠹木的煽情書(地獄來鴻；The Screwtape Letters，C.S.Lewis 著
-
-        作者：魯益師(C. S. Lewis) | 出處：道聲出版社
-
-        魯易斯以初信的英格蘭年輕人阿蠻為對象，描述在當時處境下他所經歷的靈性掙扎，反映出許許多多人的共同經歷，引起廣泛的共鳴。
-
-        本書最特別之處，是使用別出心裁的反諷文學手法，以“大鬼”（Screwtape，大鎯頭）與“小鬼”（Wormwood，蠹木）為正面角色，因此書名The Screwtape Letters，舊譯為《地獄來鴻》，或者《魔鬼書信》。書中大鬼指導小鬼多方攻擊這位年輕人，在他從未信走向初信的路上，百般阻撓，引誘他離棄信仰而走向罪惡之路。在他面對戰爭以及其他種種壓力時，魔鬼不但利用與其同住的母親成為嫌隙來源，而且在其上教會、戀愛與從軍過程，都成為魔鬼下手的好機會，使其面對離棄信仰的誘惑。此外，在大小鬼之間又有許多間隙，大鬼經常責備小鬼，而小鬼時常埋怨大鬼，二鬼之間是既合作又競爭的關係，因為地獄的規則就是犧牲別人而自己高昇。..., ..., ...  https://wellsofgrace.com/books/spiritual/letters/index.htm
-
-        ～～～～～～～～～～～
-
-	《地獄家書》朗讀版
-
-        　CS 路易斯（Clive Staples Lewis，1898-1963年），又被翻譯為魯益師，是著名的英國作家和護教家，《指環王The Lord of the Rings》作者托爾金（John Ronald Reuel Tolkien ， 1892-1973年）的摯友，一同在牛津大學任教。 CS 路易的神學和文學作品膾炙人口，被譽為「懷疑論者的使徒The Apostle to the Skeptics」。代表作包括《納尼亞傳奇The Chronicles of Narnia》、《地獄家書The Screwtape Letters》、《純粹的基督教Mere Christianity》和《四種愛The Four Loves》。..., ..., ...  https://cmchurch.org/the-screwtape-letters-cs-lewis/
+.. [01] 《地獄來鴻》（Screwtape Letters）是 C.S.路易斯（C. S. Lewis）所著的一部基督教護教小說，並獻給J.R.R.托爾金（J. R. R. Tolkien）。這本書以諷刺性的書信體寫成；雖然形式上是虛構的，但其劇情和角色主要用來探討基督教神學問題，尤其是關於誘惑與抵抗誘惑的議題。   《地獄來鴻》首次出版於1942年2月，故事以一系列書信的形式展開，由資深惡魔史魁普（Screwtape）寫給他的侄子、小惡魔伍木德（Wormwood，初級誘惑者）。叔叔的指導涉及侄子對一位英國男子——僅稱作「病人」——的責任，目的是確保他走向永恆的毀滅。   截至1999年，這本小說已經有26個英語版本和15個德語版本，銷量約達50萬冊。〔取自維基百科（英文） https://en.wikipedia.org/wiki/The_Screwtape_Letters 〕。   大鎯頭寫給蠹木的煽情書(地獄來鴻；The Screwtape Letters，C.S.Lewis 著；作者：魯益師(C. S. Lewis) | 出處：道聲出版社 https://wellsofgrace.com/books/spiritual/letters/index.htm ；《地獄家書》朗讀版 https://cmchurch.org/the-screwtape-letters-cs-lewis/
 
 .. [02] 精進經、元亨寺，漢譯南傳大藏經，經藏，小部，經集，大品，第二經；438. 精勤經 《經集》：「汝欲第一軍」(CBETA 2024.R2, N27, no. 12, p. 112a2)  https://cbetaonline.dila.edu.tw/zh/N27n0012_p0112a02
 
@@ -640,29 +619,21 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
         蘇摩 -- 維基百科，自由的百科全書 https://zh.wikipedia.org/wiki/%E8%98%87%E6%91%A9
 
 .. [06] 魔羅在這裡的討論是基於《世間起源經》（起世因本經，長部第27 經）中發現的宇宙神話。這段經文描述人類如何從神一般的實體墮落。當人類嚐到漂浮在海面上的原始營養精華時，就開始了這種退化，導致它們發育出粗糙的肉身。
-.. [07] 最常見的是，塔克被描繪成一位胖胖的、頭髮稀疏的僧侶，擁有良好的幽默感和對食物及啤酒的極大熱愛，通常兩者常常一起出現。有時，這種塔克的描繪成為故事中的喜劇元素。 
+.. [07] 最常見的是，塔克被描繪成一位胖胖的、頭髮稀疏的僧侶，擁有良好的幽默感和對食物及啤酒的極大熱愛，通常兩者常常一起出現。有時，這種塔克的描繪成為故事中的喜劇元素。 However, most commonly, Tuck is depicted as a fat, balding monk with a good sense of humour and a great love of food and ale, often together. Sometimes, the latter depiction of Tuck is the comic relief of the tale. (https://en.wikipedia.org/wiki/Friar_Tuck)
 
-        However, most commonly, Tuck is depicted as a fat, balding monk with a good sense of humour and a great love of food and ale, often together. Sometimes, the latter depiction of Tuck is the comic relief of the tale. (https://en.wikipedia.org/wiki/Friar_Tuck)
-
-.. [08] 二階導數  微積分中，函數的二階導數（英語：second derivative或second order derivative）是其導數的導數。粗略而言，某量的二階導數，描述該量的變化率本身是否變化得快。例如，物體位置對時間的二階導數是瞬時加速度，即該物體的速度隨時間的變化率。 
-
-        取材自：二階導數 - 維基百科，自由的百科全書  https://zh.wikipedia.org/wiki/%E4%BA%8C%E9%9A%8E%E5%B0%8E%E6%95%B8
+.. [08] 二階導數  微積分中，函數的二階導數（英語：second derivative或second order derivative）是其導數的導數。粗略而言，某量的二階導數，描述該量的變化率本身是否變化得快。例如，物體位置對時間的二階導數是瞬時加速度，即該物體的速度隨時間的變化率。（取材自：二階導數 - 維基百科，自由的百科全書  https://zh.wikipedia.org/wiki/%E4%BA%8C%E9%9A%8E%E5%B0%8E%E6%95%B8 ）
 .. [09] 《哈姆雷特》（英語：Hamlet）又名《王子復仇記》，是莎士比亞於1599年至1602年間創作的一部悲劇作品，是他最負盛名和被人引用最多的劇本。習慣上將本劇與《馬克白》、《李爾王》和《奧賽羅》一起，並稱為莎士比亞的「四大悲劇」。
 
         戲劇中叔父克勞迪謀害了丹麥國王--哈姆雷特的父親，篡了王位，並娶了國王的遺孀葛簇特；王子哈姆雷特因此為父王之死向叔父復仇。劇本細緻入微地刻畫了偽裝的、真實的瘋癲 —— 從悲痛欲絕到假裝憤怒 —— 探索了背叛、復仇、亂倫、墮落等主題。
 
         《哈姆雷特》在莎士比亞戲劇中是最長的一齣，也是英國文學中最富震撼力、影響力的戲劇之一，並似乎「不停地被他人講述、改編著。」[1]本戲劇是莎士比亞有生之年最受歡迎的戲劇之一，並自1879年以來就雄踞皇家莎士比亞劇團演出榜首。[2]戲劇影響了眾多作家，包括歌德、詹姆斯·喬伊斯、艾瑞斯·梅鐸等人，並被稱為「在《灰姑娘》之後最常被搬上螢幕的戲劇。」[3]
 
-        莎士比亞的《哈姆雷特》來自於阿姆雷特傳奇(Amleth)，出自十三世紀的薩克斯·格勒麥蒂克斯[4]的作品《格斯塔·達諾拉姆》[5]，並在十六世紀由學者弗朗西斯·迪·貝勒弗萊斯特[6]重新講述。他也可能參考了伊莉莎白時代的《烏哈姆雷特》(Ur-Hamlet)。莎士比亞也讓演員理察·伯比奇[7]出了名。[8]在之後的400多年中，劇中角色都由頗負盛名的演員們來擔任。
-
-        哈姆雷特 - 維基百科，自由的百科全書 https://zh.wikipedia.org/wiki/%E5%93%88%E5%A7%86%E9%9B%B7%E7%89%B9
+        莎士比亞的《哈姆雷特》來自於阿姆雷特傳奇(Amleth)，出自十三世紀的薩克斯·格勒麥蒂克斯[4]的作品《格斯塔·達諾拉姆》[5]，並在十六世紀由學者弗朗西斯·迪·貝勒弗萊斯特[6]重新講述。他也可能參考了伊莉莎白時代的《烏哈姆雷特》(Ur-Hamlet)。莎士比亞也讓演員理察·伯比奇[7]出了名。[8]在之後的400多年中，劇中角色都由頗負盛名的演員們來擔任。 （取材自： 哈姆雷特 - 維基百科，自由的百科全書 https://zh.wikipedia.org/wiki/%E5%93%88%E5%A7%86%E9%9B%B7%E7%89%B9
 .. [10] 斷見是兩大邪見之一。它認為生命體只是物質運動的產物，而意識則在死亡時便消失殆盡。與之相對的則是「永恆主義」（常見）這種觀點，該觀點認為生命體擁有一個永恆不變的自我實體（「阿特曼(atman, 自性)」或 「靈魂」），這個實體因為是不朽的，能夠在肉體死亡後繼續存在。
 
 .. [11] 笛卡爾主義 – 維基百科，自由的百科全書 https://zh.wikipedia.org/wiki/%E7%AC%9B%E5%8D%A1%E5%B0%94%E4%B8%BB%E4%B9%89
 
-.. [12] 熵ㄕㄤ[2]是一種測量在動力學方面不能做功的能量總數，也就是當總體的熵增加，其作功能力也下降，熵的量度正是能量退化的指標。熵亦被用於計算一個系統中的失序現象，也就是計算該系統混亂的程度。熵是一個描述系統狀態的函數，但是經常用熵的參考值和變化量進行分析比較，它在控制論、機率論、數論、天體物理、生命科學等領域都有重要應用，在不同的學科中也有引申出的更為具體的定義，是各領域十分重要的參量。
-
-        熵 - 維基百科，自由的百科全書 https://zh.wikipedia.org/wiki/%E7%86%B5
+.. [12] 熵ㄕㄤ[2]是一種測量在動力學方面不能做功的能量總數，也就是當總體的熵增加，其作功能力也下降，熵的量度正是能量退化的指標。熵亦被用於計算一個系統中的失序現象，也就是計算該系統混亂的程度。熵是一個描述系統狀態的函數，但是經常用熵的參考值和變化量進行分析比較，它在控制論、機率論、數論、天體物理、生命科學等領域都有重要應用，在不同的學科中也有引申出的更為具體的定義，是各領域十分重要的參量。（取材自：  熵 - 維基百科，自由的百科全書 https://zh.wikipedia.org/wiki/%E7%86%B5
 
 .. [13] 語出：莎士比亞（Shakespeare）的一齣悲劇——《凱撒大帝》（The Tragedy of Julius Caesar, Act II, sc. 2, l. 34ff）
 
@@ -673,6 +644,34 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  09-28 re-arrange: 
+        《地獄來鴻》（直譯：螺絲帶信件，Screwtape Letters）是 C.S.路易斯（C. S. Lewis）所著的一部基督教護教小說，並獻給J.R.R.托爾金（J. R. R. Tolkien）。這本書以諷刺性的書信體寫成；雖然形式上是虛構的，但其劇情和角色主要用來探討基督教神學問題，尤其是關於誘惑與抵抗誘惑的議題。
+
+        《地獄來鴻》首次出版於1942年2月，故事以一系列書信的形式展開，由資深惡魔史魁普（Screwtape）寫給他的侄子、小惡魔伍木德（Wormwood，初級誘惑者）。叔叔的指導涉及侄子對一位英國男子——僅稱作「病人」——的責任，目的是確保他走向永恆的毀滅。
+
+        截至1999年，這本小說已經有26個英語版本和15個德語版本，銷量約達50萬冊。
+
+        取自維基百科（英文）
+
+        The Screwtape Letters is a Christian apologetic novel by C. S. Lewis and dedicated to J. R. R. Tolkien. It is written in a satirical, epistolary style and, while it is fictional in format, the plot and characters are used to address Christian theological issues, primarily those to do with temptation and resistance to it.
+        First published in February 1942,[2] the story takes the form of a series of letters from a senior demon, Screwtape, to his nephew, Wormwood, a junior tempter. The uncle's mentorship pertains to the nephew's responsibility in securing the damnation of a British man known only as "the Patient".
+        Until 1999, the novel had 26 English and 15 German editions, with around half a million copies sold.[3]
+        From Wikipedia, the free encyclopedia 
+        https://en.wikipedia.org/wiki/The_Screwtape_Letters
+
+        ～～～～～～～～～～～
+
+        大鎯頭寫給蠹木的煽情書(地獄來鴻；The Screwtape Letters，C.S.Lewis 著；        作者：魯益師(C. S. Lewis) | 出處：道聲出版社 
+
+        魯易斯以初信的英格蘭年輕人阿蠻為對象，描述在當時處境下他所經歷的靈性掙扎，反映出許許多多人的共同經歷，引起廣泛的共鳴。
+
+        本書最特別之處，是使用別出心裁的反諷文學手法，以“大鬼”（Screwtape，大鎯頭）與“小鬼”（Wormwood，蠹木）為正面角色，因此書名The Screwtape Letters，舊譯為《地獄來鴻》，或者《魔鬼書信》。書中大鬼指導小鬼多方攻擊這位年輕人，在他從未信走向初信的路上，百般阻撓，引誘他離棄信仰而走向罪惡之路。在他面對戰爭以及其他種種壓力時，魔鬼不但利用與其同住的母親成為嫌隙來源，而且在其上教會、戀愛與從軍過程，都成為魔鬼下手的好機會，使其面對離棄信仰的誘惑。此外，在大小鬼之間又有許多間隙，大鬼經常責備小鬼，而小鬼時常埋怨大鬼，二鬼之間是既合作又競爭的關係，因為地獄的規則就是犧牲別人而自己高昇。..., ..., ... 
+
+        　《地獄家書》朗讀版
+
+        　CS 路易斯（Clive Staples Lewis，1898-1963年），又被翻譯為魯益師，是著名的英國作家和護教家，《指環王The Lord of the Rings》作者托爾金（John Ronald Reuel Tolkien ， 1892-1973年）的摯友，一同在牛津大學任教。 CS 路易的神學和文學作品膾炙人口，被譽為「懷疑論者的使徒The Apostle to the Skeptics」。代表作包括《納尼亞傳奇The Chronicles of Narnia》、《地獄家書The Screwtape Letters》、《純粹的基督教Mere Christianity》和《四種愛The Four Loves》。..., ..., ...  https://cmchurch.org/the-screwtape-letters-cs-lewis/
+   old:   * PDF: `閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-reading.pdf>`__ （背景：豆沙綠色；39 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-print.pdf>`__ （39 頁，210 x 297 cm）
+
   09-23 add: PDF & ODT
   09-22 rev. linking of 身體之城 & Youtube
   2024-09-21; create rst on 2024-08-05

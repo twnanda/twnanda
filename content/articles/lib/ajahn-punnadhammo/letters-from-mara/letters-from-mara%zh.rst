@@ -3,7 +3,7 @@
 ================================
 
 :date: 2024-08-05
-:modified: 2024-09-23
+:modified: 2024-09-28
 :tags: 魔羅的來信, 阿瞻, 阿姜, 阿瞻普那達摩, 阿姜普那達摩, 阿姜蓬那達摩, Ajahn Punnadhammo, Ajahn Puṇṇadhammo, 阿瞻法滿
 :category: 書選
 :summary: 魔羅的來信(Letters from Mara)
@@ -31,7 +31,8 @@
 - `魔羅的來信（整本書） <{filename}letters-from-mara-full-texts%zh.rst>`_ 
 - 本書
 
-  * PDF: `閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-reading.pdf>`__ （背景：豆沙綠色；39 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-print.pdf>`__ （39 頁，210 x 297 cm）
+  * PDF: `閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-reading.pdf>`__ （背景：豆沙綠色；39 頁, A4）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-print-A5.pdf>`__ （73 頁，A5, 148 x 210 cm）
+
   * ODT：`閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/the-letter-from-mara-han-reading.odt>`__ （背景：豆沙綠色；39 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/the-letter-from-mara-han-print.odt>`__ （A4，14 點，39 頁，210 x 297 cm）
 
 ------
@@ -77,35 +78,7 @@
 備註
 ~~~~~~~
 
-.. [01] 《地獄來鴻》（直譯：螺絲帶信件，Screwtape Letters）是 C.S.路易斯（C. S. Lewis）所著的一部基督教護教小說，並獻給J.R.R.托爾金（J. R. R. Tolkien）。這本書以諷刺性的書信體寫成；雖然形式上是虛構的，但其劇情和角色主要用來探討基督教神學問題，尤其是關於誘惑與抵抗誘惑的議題。
-
-        《地獄來鴻》首次出版於1942年2月，故事以一系列書信的形式展開，由資深惡魔史魁普（Screwtape）寫給他的侄子、小惡魔伍木德（Wormwood，初級誘惑者）。叔叔的指導涉及侄子對一位英國男子——僅稱作「病人」——的責任，目的是確保他走向永恆的毀滅。
-
-        截至1999年，這本小說已經有26個英語版本和15個德語版本，銷量約達50萬冊。
-
-        取自維基百科（英文）
-
-        The Screwtape Letters is a Christian apologetic novel by C. S. Lewis and dedicated to J. R. R. Tolkien. It is written in a satirical, epistolary style and, while it is fictional in format, the plot and characters are used to address Christian theological issues, primarily those to do with temptation and resistance to it.
-        First published in February 1942,[2] the story takes the form of a series of letters from a senior demon, Screwtape, to his nephew, Wormwood, a junior tempter. The uncle's mentorship pertains to the nephew's responsibility in securing the damnation of a British man known only as "the Patient".
-        Until 1999, the novel had 26 English and 15 German editions, with around half a million copies sold.[3]
-        From Wikipedia, the free encyclopedia 
-        https://en.wikipedia.org/wiki/The_Screwtape_Letters
-
-        ～～～～～～～～～～～
-
-        大鎯頭寫給蠹木的煽情書(地獄來鴻；The Screwtape Letters，C.S.Lewis 著
-
-        作者：魯益師(C. S. Lewis) | 出處：道聲出版社
-
-        魯易斯以初信的英格蘭年輕人阿蠻為對象，描述在當時處境下他所經歷的靈性掙扎，反映出許許多多人的共同經歷，引起廣泛的共鳴。
-
-        本書最特別之處，是使用別出心裁的反諷文學手法，以“大鬼”（Screwtape，大鎯頭）與“小鬼”（Wormwood，蠹木）為正面角色，因此書名The Screwtape Letters，舊譯為《地獄來鴻》，或者《魔鬼書信》。書中大鬼指導小鬼多方攻擊這位年輕人，在他從未信走向初信的路上，百般阻撓，引誘他離棄信仰而走向罪惡之路。在他面對戰爭以及其他種種壓力時，魔鬼不但利用與其同住的母親成為嫌隙來源，而且在其上教會、戀愛與從軍過程，都成為魔鬼下手的好機會，使其面對離棄信仰的誘惑。此外，在大小鬼之間又有許多間隙，大鬼經常責備小鬼，而小鬼時常埋怨大鬼，二鬼之間是既合作又競爭的關係，因為地獄的規則就是犧牲別人而自己高昇。..., ..., ...  https://wellsofgrace.com/books/spiritual/letters/index.htm
-
-        ～～～～～～～～～～～
-
-	《地獄家書》朗讀版
-
-        　CS 路易斯（Clive Staples Lewis，1898-1963年），又被翻譯為魯益師，是著名的英國作家和護教家，《指環王The Lord of the Rings》作者托爾金（John Ronald Reuel Tolkien ， 1892-1973年）的摯友，一同在牛津大學任教。 CS 路易的神學和文學作品膾炙人口，被譽為「懷疑論者的使徒The Apostle to the Skeptics」。代表作包括《納尼亞傳奇The Chronicles of Narnia》、《地獄家書The Screwtape Letters》、《純粹的基督教Mere Christianity》和《四種愛The Four Loves》。..., ..., ...  https://cmchurch.org/the-screwtape-letters-cs-lewis/
+.. [01] 《地獄來鴻》（Screwtape Letters）是 C.S.路易斯（C. S. Lewis）所著的一部基督教護教小說，並獻給J.R.R.托爾金（J. R. R. Tolkien）。這本書以諷刺性的書信體寫成；雖然形式上是虛構的，但其劇情和角色主要用來探討基督教神學問題，尤其是關於誘惑與抵抗誘惑的議題。   《地獄來鴻》首次出版於1942年2月，故事以一系列書信的形式展開，由資深惡魔史魁普（Screwtape）寫給他的侄子、小惡魔伍木德（Wormwood，初級誘惑者）。叔叔的指導涉及侄子對一位英國男子——僅稱作「病人」——的責任，目的是確保他走向永恆的毀滅。   截至1999年，這本小說已經有26個英語版本和15個德語版本，銷量約達50萬冊。〔取自維基百科（英文） https://en.wikipedia.org/wiki/The_Screwtape_Letters 〕。   大鎯頭寫給蠹木的煽情書(地獄來鴻；The Screwtape Letters，C.S.Lewis 著；作者：魯益師(C. S. Lewis) | 出處：道聲出版社 https://wellsofgrace.com/books/spiritual/letters/index.htm ；《地獄家書》朗讀版 https://cmchurch.org/the-screwtape-letters-cs-lewis/
 
 ----
 
@@ -126,6 +99,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  09-28 re-arrange from full-text
   09-23 add: PDF & ODT
   09-22 rev. linking of 身體之城 & youtube
   09-21 add: 整本書
