@@ -3,7 +3,7 @@
 =========================================
 
 :date: 2024-09-21
-:modified: 2024-09-21
+:modified: 2024-09-28
 :tags: 護法法師, Bhikkhu Dharmagupta, Dharmagupta, Kāyanagara, 身體之城, The City of the Body, Plyak Shonthirak
 :category: 書選
 :summary: 12. 心王的夢得到解決（身體之城）
@@ -22,14 +22,14 @@
 | Macchariya - 吝嗇（慳）
 | Thīna –懒惰（昏沉）
 | Middha–睡眠、麻木，疲倦
-| Ahirika－犯罪並不羞恥（無慚）
+| Ahirika－犯罪並不知羞恥（無慚）
 | Anotappa－無懼犯罪（無愧）
 | Uddhacca - 浮躁、分心（掉舉、躁動不安）
 | Kukkucca – 懺悔（惡作、追悔；憂慮，懊悔）
 | Issā－嫉妒
 | Lobha－永無止境的貪婪（貪、貪婪）
 | Diṭṭhi – 誤解（邪見、錯誤的觀點）
-| Māna – 自負（慢）
+| Māna – 自負（我慢）
 | Vicikicchā – 懷疑（疑、懷疑論）
 | 
 
@@ -43,4 +43,5 @@
 
 
 ..
+  09-28 proofread by A-Liang
   2024-09-21; create rst on 2024-09-21

@@ -37,7 +37,6 @@
 - `16. 不死大城（不朽的大都會） <{filename}kaayanagara16%zh.rst>`_ 
 
 - `整部書 <{filename}kaayanagara-full-texts%zh.rst>`_ 
-- 本書 PDF ; ODT
 
 ----
 
@@ -45,14 +44,23 @@
 
 ------
 
+- 本書
+
+  * PDF: `閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/kayanaraga-proofread-by-nanda-green.pdf>`__ （背景：豆沙綠色；35 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/kayanaraga-proofread-by-nanda-print-A5.pdf>`__ （57 頁，148 x 210 cm）
+  * ODT：`閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/kayanaraga-proofread-by-nanda-green.odt>`__ （背景：豆沙綠色；36 頁）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/docs/https://github.com/twnanda/doc-pdf-etc/blob/master/docs/>`__ （A5，14 點，57 頁，148 x 210 cm）
+
+------
+
 .. _audiobook:
 
-- 有聲書（整本書合輯）
+有聲書（整本書合輯）
 
-  * 男聲朗讀： Youtube; MP3
+- 男聲朗讀： `Youtube <https://www.youtube.com/watch?v=BaMGoNC8CMw&list=PLgpGmPf7fzNYxmIvdXZcIx4dnWYBh7ZG2>`__ (1:03:24); MP3 (send email to me)
 
-  * 女聲朗讀： Youtube; MP3
+- 女聲朗讀： `Youtube <https://www.youtube.com/watch?v=6G7-kt9dRtI&list=PLgpGmPf7fzNYxmIvdXZcIx4dnWYBh7ZG2&index=2>`__ (1:09:27); MP3 (send email to me)
 
+- Reading in English: `Youtube <https://www.youtube.com/watch?v=rSSCfpDmD7Q&list=PLgpGmPf7fzNYxmIvdXZcIx4dnWYBh7ZG2&index=3>`__ (57:05); MP3 (send email to me)
+ 
 ----
 
 **參考資訊：** 
