@@ -2,7 +2,7 @@
 ########
 
 :date: 2005-05-01
-:modified: 2024-08-05
+:modified: 2024-10-01
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -132,9 +132,19 @@
 
 .. _ajahn_suchart:
 
-- `我的人生道路 <{filename}/articles/lib/ajahn-suchart/ajahn-suchart%zh.rst>`_ ——阿瞻 蘇查自傳 (Ajahn Suchart Abhijāto)
+- `我的人生道路 <{filename}/articles/lib/ajahn-suchart/ajahn-suchart%zh.rst>`_ ——阿瞻 蘇查自傳 (Ajahn Suchart Abhijāto)；   我主要的專注一直都是在照顧這顆心，簡單並平靜地生活，一直守住當下直到我的時間結束。
 
-我主要的專注一直都是在照顧這顆心，簡單並平靜地生活，一直守住當下直到我的時間結束。
+------
+
+- 在和諧中了悟真理：三部曲 (Awaken to Truth in Harmony: A Trilogy)；奧智達比丘著 (Aggacitta Bhikkhu) ，溫宗堃中譯，護法苑（Sāsanārakkha Buddhist Sanctuary） 出版； PDF: `中文（簡體） <https://sasanarakkha.org/wp-content/uploads/2021/02/%E5%9C%A8%E5%92%8C%E8%B0%90%E4%B8%AD%E4%BA%86%E6%82%9F%E7%9C%9F%E7%90%86%EF%BC%9A%E4%B8%89%E9%83%A8%E6%9B%B2.pdf>`__ [10.15 MB]； `English <https://sasanarakkha.org/wp-content/uploads/2018/03/TRILOGY_layout-200213.pdf>`__ [1.27 MB] (   https://sasanarakkha.org/2010/05/01/awaken-to-truth-in-harmony-a-trilogy/)
+
+------
+
+.. _ven_kumāra_bhikkhu:
+
+- 《什麼是禪那和三摩地，你真的知道嗎？》("What You Might Not Know about Jhāna & Samādhi")；古瑪拉 比丘 (Kumāra Bhikkhu)著
+
+  這本書是為那些希望解開與禪那有關的疑惑和困惑的人所寫的。 `尊者 古瑪拉 比丘 教學平台與概況 <https://justpaste.it/kumara>`__ （→ Publications (English & 中文 ebook/ebooklet/ebrochure)）
 
 ------
 
@@ -219,6 +229,7 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  10-01 add: linking of 在和諧中了悟真理：三部曲 & 什麼是禪那和三摩地，你真的知道嗎？
   2024-08-05 add: 魔羅的來信(Letters from Mara) and 禪修手冊2009
   12-27 add: 尊者 舍利弗的一生 
   09-28 rev. 專註 → 專注
