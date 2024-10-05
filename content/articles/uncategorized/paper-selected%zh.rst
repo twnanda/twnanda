@@ -1,8 +1,9 @@
+--------------
 文章選讀
-########
+--------------
 
 :date: 2005-05-01
-:modified: 2024-10-01
+:modified: 2024-10-05
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -140,9 +141,9 @@
 
 ------
 
-.. _ven_kumāra_bhikkhu:
+.. _ven_kumara_bhikkhu:
 
-- 《什麼是禪那和三摩地，你真的知道嗎？》("What You Might Not Know about Jhāna & Samādhi")；古瑪拉 比丘 (Kumāra Bhikkhu)著
+- 《什麼是禪那和三摩地，你真的知道嗎？》("What You Might Not Know about Jhāna & Samādhi")；古瑪拉 比丘 (Kumāra Bhikkhu)著；PDF: 英文版 ( `English <https://justpaste.it/jbook>`__ ) ； `簡體中文 <https://justpaste.it/redirect/KumaraPublications/https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Es_gHEvQrQbnW9E3JjlNLc8WcUnZF_lr%2Fview%3Fusp%3Dsharing>`__ [ `Publications (ebook/ebooklet/ebrochure) by Kumāra Bhikkhu) <https://justpaste.it/KumaraPublications>`_ ] ； 正體（繁體）中文： `一般版 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/%E4%BB%80%E9%BA%BC%E6%98%AF%E7%A6%AA%E9%82%A3%E5%92%8C%E4%B8%89%E6%91%A9%E5%9C%B0%EF%BC%8C%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%9F%A5%E9%81%93%E5%97%8E%EF%BC%9F.pdf>`__ （99 頁）； `閱讀版 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/%E4%BB%80%E9%BA%BC%E6%98%AF%E7%A6%AA%E9%82%A3%E5%92%8C%E4%B8%89%E6%91%A9%E5%9C%B0%EF%BC%8C%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%9F%A5%E9%81%93%E5%97%8E%EF%BC%9F-reading.pdf>`__ （背景：豆沙綠色；99 頁）
 
   這本書是為那些希望解開與禪那有關的疑惑和困惑的人所寫的。 `尊者 古瑪拉 比丘 教學平台與概況 <https://justpaste.it/kumara>`__ （→ Publications (English & 中文 ebook/ebooklet/ebrochure)）
 
@@ -229,6 +230,7 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  10-05 add: 4 linkings of 什麼是禪那和三摩地，你真的知道嗎？
   10-01 add: linking of 在和諧中了悟真理：三部曲 & 什麼是禪那和三摩地，你真的知道嗎？
   2024-08-05 add: 魔羅的來信(Letters from Mara) and 禪修手冊2009
   12-27 add: 尊者 舍利弗的一生 
