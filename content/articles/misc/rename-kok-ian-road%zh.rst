@@ -187,11 +187,11 @@ Nanda 於 2024-02-19（04-01修訂）
 
 .. container:: shrine-epigraph-image
 
-  .. image:: https://nanda.online-dhamma.net/dispersed-design/img/shrine-epigraph-20230422.jpg
+  .. image:: https://github.com/twnanda/dispersed-design/blob/main/content/img/shrine-epigraph-20230422.jpg
      :alt: 劉厝寶公宮沿革（碑文）
      :scale: 70 %
      :align: center
-     :target: https://github.com/twnanda/dispersed-design/blob/main/content/img/shrine-epigraph-20230422.jpg
+     :target: https://nanda.online-dhamma.net/dispersed-design/img/shrine-epigraph-20230422.jpg
 
 ------
 
@@ -206,12 +206,12 @@ Nanda 於 2024-02-19（04-01修訂）
 
 .. container:: shrine-epigraph-image-b
 
-  .. image:: https://nanda.online-dhamma.net/dispersed-design/img/shrine-epigraph-amplified-20240216.jpg
+  .. image:: https://github.com/twnanda/dispersed-design/blob/main/content/img/shrine-epigraph-amplified-20240216.jpg
      :alt: 劉厝寶公宮沿革（碑文部份放大）
      :width: 750
      :height: 1000
      :align: center
-     :target: https://github.com/twnanda/dispersed-design/blob/main/content/img/shrine-epigraph-amplified-20240216.jpg
+     :target: https://nanda.online-dhamma.net/dispersed-design/img/shrine-epigraph-amplified-20240216.jpg
 
 ------
 
