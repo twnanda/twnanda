@@ -3,7 +3,7 @@
 ================
 
 :date: 2024-10-10
-:modified: 2024-10-10
+:modified: 2024-10-11
 :tags: 台灣俚語, 臺灣俚語, 台灣話, 臺灣話,  台灣語, 臺灣語, 閩南語, 閩南話
 :category: 未分類
 :summary: 32 句台灣俚語
@@ -27,7 +27,8 @@ https://www.youtube.com/watch?v=6K30irXq7ik
 
 ------
 
-- 目錄
+目錄
+~~~~~~
 
 - `1. 粗腳重手`_ 
 - `2. 想空想縫`_ 
@@ -2040,4 +2041,5 @@ https://www.kmdn.gov.tw/1117/1271/1274/249305?cprint=pt
 
 
 ..
+  10-11 rev. take 目錄 as subject
   2024-10-10 created from rst

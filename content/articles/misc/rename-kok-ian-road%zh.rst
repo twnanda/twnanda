@@ -3,8 +3,8 @@
 =======================
 
 :date: 2024-10-10
-:modified: 2024-10-10
-:tags: 國軒路, 
+:modified: 2024-10-11
+:tags: 劉國軒, 國軒路, 岡山區劉厝里, 岡山鎮劉厝里, 劉厝, 劉次, 劉國淵, 劉登科
 :category: 未分類
 :summary: 「國軒路」命名之商榷
 
@@ -57,7 +57,9 @@
 
 Nanda 於 2024-02-19（04-01修訂）
 
-過年回劉次祖次，想起里內那條命名有待商榷之「國軒路」。於是再次爬文研究、探討一番。
+------
+
+過年轉去劉次 e 祖次，想起里內那條命名有待商榷之「國軒路」。於是再次爬文研究、探討一番。
 
 家祖父劉　祥公，乃先祖劉登科公所育四子中之第四房「廷佑」公繁衍之第六代（先祖劉登科公為第一代）。
 
@@ -187,6 +189,9 @@ Nanda 於 2024-02-19（04-01修訂）
 
   .. image:: {static}/extra/img/shrine-epigraph-20230422.jpg
      :alt: 劉厝寶公宮沿革（碑文）
+     :width: 1333
+     :height: 1000
+     :align: center
 
 ------
 
@@ -203,6 +208,9 @@ Nanda 於 2024-02-19（04-01修訂）
 
   .. image:: {static}/extra/img/shrine-epigraph-amplified-20240216.jpg
      :alt: 劉厝寶公宮沿革（碑文部份放大）
+     :width: 1000
+     :height: 1333
+     :align: center
 
 ------
 
@@ -1158,4 +1166,5 @@ https://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAw
 
 
 ..
+  10-11 set image with percentage
   2024-10-10 created rst; start on 2024-02-19（04-01修訂）
