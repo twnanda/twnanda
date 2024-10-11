@@ -187,7 +187,7 @@ Nanda 於 2024-02-19（04-01修訂）
 
 .. container:: shrine-epigraph-image
 
-  .. image:: https://nanda.online-dhamma.net/dispersed-design/img/shrine-epigraph-20230422.jpg
+  .. image:: https://raw.githubusercontent.com/twnanda/dispersed-design/refs/heads/main/content/img/shrine-epigraph-20230422.jpg
      :alt: 劉厝寶公宮沿革（碑文）
      :align: center
      :width: 2800
@@ -206,7 +206,7 @@ Nanda 於 2024-02-19（04-01修訂）
 
 .. container:: shrine-epigraph-image-b
 
-  .. image:: https://github.com/twnanda/dispersed-design/blob/dd77e9c167a88e2a06ae931dcae87e7dcc12b6af/content/img/shrine-epigraph-amplified-20240216.jpg
+  .. image:: https://raw.githubusercontent.com/twnanda/dispersed-design/refs/heads/main/content/img/shrine-epigraph-amplified-20240216.jpg
      :alt: 劉厝寶公宮沿革（碑文部份放大）
      :width: 750
      :height: 1000
@@ -1173,5 +1173,6 @@ https://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAw
 
      https://github.com/twnanda/dispersed-design/blob/main/content/img/shrine-epigraph-amplified-20240216.jpg
      https://github.com/twnanda/dispersed-design/blob/dd77e9c167a88e2a06ae931dcae87e7dcc12b6af/content/img/shrine-epigraph-amplified-20240216.jpg
+     https://raw.githubusercontent.com/twnanda/dispersed-design/refs/heads/main/content/img/shrine-epigraph-amplified-20240216.jpg
         :scale: 70 %  (w4000, h3000)
   2024-10-10 created rst; start on 2024-02-19（04-01修訂）
