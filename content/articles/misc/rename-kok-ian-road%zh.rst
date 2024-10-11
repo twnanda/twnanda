@@ -1166,5 +1166,5 @@ https://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAw
 
 
 ..
-  10-11 set image with percentage
+  10-11 rev. abbreviate the size of image
   2024-10-10 created rst; start on 2024-02-19（04-01修訂）
