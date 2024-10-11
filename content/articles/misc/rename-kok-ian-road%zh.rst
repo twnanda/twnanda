@@ -140,7 +140,7 @@ Nanda 於 2024-02-19（04-01修訂）
 
 ------
 
-附啟：本文承蒙岡山在地文史工作者，岡山里  劉天賦里長伯ㄚ提供寶貴資訊與建議。
+附啟：本文承蒙岡山在地文史工作者，岡山里  劉天賦 里長伯ㄚ提供寶貴資訊與建議。
 
 ------
 
@@ -187,7 +187,7 @@ Nanda 於 2024-02-19（04-01修訂）
 
 .. container:: shrine-epigraph-image
 
-  .. image:: https://github.com/twnanda/dispersed-design/blob/main/content/img/shrine-epigraph-20230422.jpg
+  .. image:: https://nanda.online-dhamma.net/dispersed-design/img/shrine-epigraph-20230422.jpg
      :alt: 劉厝寶公宮沿革（碑文）
      :scale: 70 %
      :align: center
@@ -1167,5 +1167,5 @@ https://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAw
 ..
   10-11 rev. move image files to identical rep.; abbreviate the size of image
      :target: https://nanda.online-dhamma.net/dispersed-design/img/shrine-epigraph-20230422.jpg
-
+     https://github.com/twnanda/dispersed-design/blob/main/content/img/shrine-epigraph-20230422.jpg 
   2024-10-10 created rst; start on 2024-02-19（04-01修訂）
