@@ -190,8 +190,8 @@ Nanda 於 2024-02-19（04-01修訂）
   .. image:: {static}/extra/img/shrine-epigraph-20230422.jpg
      :alt: 劉厝寶公宮沿革（碑文）
      :align: center
-     :width: 2800
-     :height: 2100
+     :width: 800
+     :height: 600
 
 ------
 
