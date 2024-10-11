@@ -4,7 +4,7 @@
 
 :date: 2024-10-10
 :modified: 2024-10-11
-:tags: 劉國軒, 國軒路, 岡山區劉厝里, 岡山鎮劉厝里, 劉厝, 劉次, 劉國淵, 劉登科
+:tags: 劉國軒, 國軒路, 寶公宮, 劉厝寶公宮, 岡山區劉厝里, 岡山鎮劉厝里, 劉厝, 劉次, 劉國淵, 劉登科
 :category: 未分類
 :summary: 「國軒路」命名之商榷
 
@@ -187,11 +187,11 @@ Nanda 於 2024-02-19（04-01修訂）
 
 .. container:: shrine-epigraph-image
 
-  .. image:: {static}/extra/img/shrine-epigraph-20230422.jpg
+  .. image:: https://nanda.online-dhamma.net/dispersed-design/img/shrine-epigraph-20230422.jpg
      :alt: 劉厝寶公宮沿革（碑文）
-     :width: 1333
-     :height: 1000
+     :scale: 70 %
      :align: center
+     :target: https://github.com/twnanda/dispersed-design/blob/main/content/img/shrine-epigraph-20230422.jpg
 
 ------
 
@@ -206,11 +206,12 @@ Nanda 於 2024-02-19（04-01修訂）
 
 .. container:: shrine-epigraph-image-b
 
-  .. image:: {static}/extra/img/shrine-epigraph-amplified-20240216.jpg
+  .. image:: https://nanda.online-dhamma.net/dispersed-design/img/shrine-epigraph-amplified-20240216.jpg
      :alt: 劉厝寶公宮沿革（碑文部份放大）
-     :width: 1000
-     :height: 1333
+     :width: 750
+     :height: 1000
      :align: center
+     :target: https://github.com/twnanda/dispersed-design/blob/main/content/img/shrine-epigraph-amplified-20240216.jpg
 
 ------
 
@@ -1166,5 +1167,5 @@ https://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?quote_code=QTAw
 
 
 ..
-  10-11 rev. abbreviate the size of image
+  10-11 rev. move image files to identical rep.; abbreviate the size of image
   2024-10-10 created rst; start on 2024-02-19（04-01修訂）
