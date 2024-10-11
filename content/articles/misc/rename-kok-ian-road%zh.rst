@@ -204,7 +204,7 @@ Nanda 於 2024-02-19（04-01修訂）
 
 .. container:: shrine-epigraph-image-b
 
-  .. image::  {static}/extra/img/shrine-epigraph-amplified-20240216.jpg
+  .. image:: {static}/extra/img/shrine-epigraph-amplified-20240216.jpg
      :alt: 劉厝寶公宮沿革（碑文部份放大）
      :width: 750
      :height: 1000
