@@ -3,7 +3,7 @@
 ================
 
 :date: 2024-10-10
-:modified: 2024-10-11
+:modified: 2024-10-12
 :tags: 台灣俚語, 臺灣俚語, 台灣話, 臺灣話,  台灣語, 臺灣語, 閩南語, 閩南話
 :category: 未分類
 :summary: 32 句台灣俚語
@@ -2039,7 +2039,12 @@ https://yifertw.blogspot.com/2013/04/blog-post_10.html
 
 https://www.kmdn.gov.tw/1117/1271/1274/249305?cprint=pt
 
+---------------------------
+
+- 本文之 `PDF <https://nanda.online-dhamma.net/dispersed-design/pdf/32%E5%8F%B0%E7%81%A3%E4%BF%9A%E8%AA%9E.pdf>`__ ； `閱讀用 <https://nanda.online-dhamma.net/dispersed-design/pdf/32%E5%8F%B0%E7%81%A3%E4%BF%9A%E8%AA%9E-read.pdf>`__ （背景：豆沙綠色）
+
 
 ..
+  10-12 add pdf
   10-11 rev. take 目錄 as subject
   2024-10-10 created from rst
