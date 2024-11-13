@@ -3,7 +3,7 @@ A Noble Search [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ===============================================================
 
 :date: 2022-02-13
-:modified: 2023-07-30
+:modified: 2024-11-13
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Noble Search (Dhamma Talks by Sayadaw U Candima)
@@ -500,7 +500,7 @@ This was the experience of fruition states. It was existing as a fruition mind w
 
 [Here again according to U Chandima's experience after the path knowledge, and fruition knowledge arose which was also mentioned by Mogok Sayadaw in some of his talks. Many meditation teachers also mentioned this point. 
 
-Path knowledge is the cause, and fruition knowledge is the result, very similar to jhāna. To become mature, skills have to be developed many times.]
+Path knowledge is the cause, and fruition knowledge is the result.]
 
 When I was getting up from the seat, it wasn’t me. Entering the stream also freed from the four postures (i.e., in squatting position—most Burmese have the habit of squatting more than other cultures). From the squatting I was ready to get up—this was not in sitting, standing, moving, and stretching with the path knowledge arose. After the path knowledge, and fruition mind arose; then I stood up, and I was in a dazed state. Standing up was not me, stepping was not me (i.e., walking). I was moving my hand, it was not me. I was trying to speak, it wasn’t me. Diṭṭhi was fallen away, and it would never stick back again.
 
@@ -544,6 +544,7 @@ revised on 2023-07-30
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2024-11-13 rev. proofread by bhante; erase very similar to ..., ..., ...; old: Path knowledge is the cause, and fruition knowledge is the result, very similar to jhāna. To become mature, skills have to be developed many times.
   07-30 rev. old: in Thailand at the beginning of the 20th century villages, and forests did not have clear boundaries.
   2023-06-08 rev. proofread by bhante
   12-28 rev. proofread by bhante, old: U Chandima was suing a lot of (on 12-14)
