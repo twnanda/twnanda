@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2022-08-24
-:modified: 2023-08-10
+:modified: 2024-12-02
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 目錄（莫哥西亞多開示錄-- 空、有為及無為）
@@ -20,7 +20,7 @@
 
    * - `英譯者註 <{filename}translator-notes-han%zh.rst>`__
      - `簡介 <{filename}introduction-han%zh.rst>`__  （待譯中！）
-     - `緣起法流程 <{filename}da-process-han%zh.rst>`__ （待譯中！）
+     - `緣起法流程 <{filename}da-process-han%zh.rst>`__ 
      - `第 1 部`_
      - `第 2 部`_ 
    * - `第 3 部`_
@@ -716,14 +716,14 @@ _`關於英譯者`: 請 `點此 <{filename}dhamma-talks-by-mogok-sayadaw-about-t
 
 ------
 
-更新：西元 2023-08-10
+更新：西元 2024-12-02
 
 ------
 
 - 尊者 鄔達摩比丘出版品 `目錄 <{filename}../publication-of-ven-uttamo-han%zh.rst>`__ 
 
-
 ..
+  2024-12-02 add: 緣起法流程
   2023-08-10 del:emptiness-dhamma-and-emptiness-nibbana-han%zh.rst>`_ etc.
 
   2022-08-28 finish titles & del: 中譯者聲明 & 據英譯者—鄔達摩比丘交待 which moved on footer 
