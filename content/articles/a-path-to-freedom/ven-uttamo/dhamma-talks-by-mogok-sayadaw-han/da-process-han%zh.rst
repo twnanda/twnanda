@@ -3,12 +3,12 @@
 =================================
 
 :date: 2024-12-02
-:modified: 2024-12-02
+:modified: 2024-12-03
 :tags: 緣起法流程, 緣起法, 緣起, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄
 :category: path of nirvana
 :summary: 緣起法流程 (莫哥西亞多開示錄-- 空、有為及無為)
 
-更新：西元 2024-12-02
+更新：西元 2024-12-03
 
 ------
 
@@ -28,11 +28,15 @@
 
 ------
 
-.. image:: {static}/extra/img/mogok-da-process-12-han.jpg
+.. image:: {static}/extra/img/mogok-da-process-12-han.webp
    :alt: D.A. Process
    :align: center
 
-**（此彩圖取自：《攝阿毘達摩義論表解（Abhidhammatthasaṅgaha-vitthāra） 完整版》/ 明法比丘編∕edited by Bhikkhu Metta, 2008 年版.(羅慶龍 修訂 2022.02)  http://www.dhammarain.org.tw/canon/canon1.html#%E8%97%8F%E5%A4%96%E6%96%87%E7%8D%BB）**
+**緣起過程圖**
+
+------
+
+可參考 `另一圖`_
 
 ------
 
@@ -469,7 +473,17 @@ Avijjā 的意思是「不知道」，即對四聖諦的不知曉。四聖諦包
 
 ------
 
-更新：西元 2024-12-02
+_`另一圖`
+
+.. image:: {static}/extra/img/da-process-12-dhammarain-metta.jpg
+   :alt: D.A. Process
+   :align: center
+
+**（此彩圖取自：《攝阿毘達摩義論表解（Abhidhammatthasaṅgaha-vitthāra） 完整版》/ 明法比丘編∕edited by Bhikkhu Metta, 2008 年版.(羅慶龍 修訂 2022.02)  http://www.dhammarain.org.tw/canon/canon1.html#%E8%97%8F%E5%A4%96%E6%96%87%E7%8D%BB）**
+
+------
+
+更新：西元 2024-12-03
 
 ------
 
@@ -481,4 +495,5 @@ Avijjā 的意思是「不知道」，即對四聖諦的不知曉。四聖諦包
 - 尊者 鄔達摩比丘出版品 `目錄 <{filename}../publication-of-ven-uttamo-han%zh.rst>`__ 
 
 ..
+  12-03 更新中文圖
   2024-12-02  create rst
