@@ -3,7 +3,7 @@ Introduction
 ==========================================
 
 :date: 2019-01-13
-:modified: 2021-10-21
+:modified: 2024-12-21
 :tags: Introduction, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Introduction (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
@@ -238,7 +238,7 @@ The Mogok lay people took Sayadaw's body as a lump of ruby gem. For them it was 
 
 From the hall of Meditation Centre to the cremation field:
 
-On the 3rd Jan. 1963, Sayadaw's body inside the jeweled coffin was carried to the cremation field at 12 a.m. It was a very grand ceremony and very rare indeed. Along the way, both sides of the road were full of people waiting for paying their respect. The coffin was placed on a big vehicle with the statues of three flying horses. It looked like carrying the coffin in the sky. Following behind with full of people. At the center of the field was a sālā for the coffin. It was surrounded by six pavilions; three on the right and the others on the left. Also in the field was a cremation ground built with concrete. They placed the coffin at the central sālā for 7-days ceremony. For 7-days each of the six pavilions took their turn to carry the coffin from the central sālā to their place for veneration.
+On the 3rd Jan. 1963, Sayadaw's body inside the jeweled coffin was carried to the cremation field at 12 p.m. It was a very grand ceremony and very rare indeed. Along the way, both sides of the road were full of people waiting for paying their respect. The coffin was placed on a big vehicle with the statues of three flying horses. It looked like carrying the coffin in the sky. Following behind with full of people. At the center of the field was a sālā for the coffin. It was surrounded by six pavilions; three on the right and the others on the left. Also in the field was a cremation ground built with concrete. They placed the coffin at the central sālā for 7-days ceremony. For 7-days each of the six pavilions took their turn to carry the coffin from the central sālā to their place for veneration.
 
 Bees made home for the 3rd time:
 
@@ -289,7 +289,7 @@ On 13th June, 1977, at Gyo-pin-kauk City. At 7:30 p.m., Sayadaw U Vicitta starte
 
 ------
 
-revised on 2021-08-28; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4022 (posted on 2018-12-14)
+revised on 2024-12-21; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4022 (posted on 2018-12-14)
 
 ------
 
@@ -324,6 +324,7 @@ revised on 2021-08-28; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=40
               | sukha: agreeable，pleasant，blest
 
 ..
+  2024-12-21 rev. replace 12 a.m. with 12 p.m.
   2023-08-08 rev. replace filename with static to match "gramma"
   10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
   08-28 rev. proofread by bhante (07-31)
