@@ -3,12 +3,12 @@ Introduction
 ==========================================
 
 :date: 2019-01-13
-:modified: 2024-12-21
+:modified: 2024-12-23
 :tags: Introduction, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Introduction (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-10-21
+revised on 2024-12-23
 
 ------
 
@@ -91,7 +91,7 @@ In 1959 Sayadaw was 60 years of age and had 41 rains (vassas). At these periods 
 
 But Mogok Sayadaw did not talked in this way. He was different, and said; “Don't go slowly on the long saṁsāric journey by taking pleasure in happiness. It's better arriving to safety (i.e., Nibbāna) as quicker as possible. Don't be choosy and go with whatever you get. Don't wait for good carriage. If you get the upper class, then just go with it. With the ordinary class, then be just with it. With the cargo carriage, then go with it. At last if you get only in the carriage of coals, and then go with it. It's better to arrive there as quickly as possible.”
 
-At that time the disciples could use tape recorders extensively to record Sayadaw's talks. One time Sayadaw said to Daw Phom; “Daw Phom, you have to record all of my talks. In the future it will be more valuable than gold.” (Daw Phom was from Mogok and a strong supporter and had gems business.) This prediction also became true, after Sayadaw passed away. On 12th November 1960, U Tan Daing and U Tun Yin came from Rangoon (Yan-gon) to visit Sayadaw for Dhamma. Next day, Sayadaw started to give them talks. And then more people came from Rangoon (Yan-gon). They were politicians and businessmen. For the people of Rangoon (Yan-gon), he arranged a special day time talk for them every day. (Among the Rangoon (Yan-gon) disciples, U Tan Daing and U Tin were very important. After Sayadaw passed away, U Tan Daing was the first one who preserved and propagated Sayadaw's Dhamma talks. U Tin later became a monk with the name of U Dhammasara and a well-known meditation teacher.)
+At that time the disciples could use tape recorders extensively to record Sayadaw's talks. One time Sayadaw said to Daw Phom; “Daw Phom, you have to record all of my talks. In the future it will be more valuable than gold.” (Daw Phom was from Mogok and a strong supporter and had gems business.) This prediction also became true, after Sayadaw passed away. On 12th November 1960, U Tan Daing and U Tun Yin came from Rangoon (Yan-gon) to visit Sayadaw for Dhamma. Next day, Sayadaw started to give them talks. And then more people came from Rangoon (Yan-gon). They were politicians and businessmen. For the people of Rangoon (Yan-gon), he arranged a special day time talk for them every day. (Among the Rangoon (Yan-gon) disciples, U Tan Daing and U Tun Yin were very important. After Sayadaw passed away, U Tan Daing was the first one who preserved and propagated Sayadaw's Dhamma talks. U Tun Yin later became a monk with the name of U Dhammasara and a well-known meditation teacher.)
 
 In Mogok's teachings it is emphasized to have right view and understanding of Paṭiccasamuppāda. In the beginning of the teaching of Dependent Co-arising Sayadaw did not have the chart of 12 links of paṭiccasamuppāda. For this purpose, he only used the betel nuts for the 12 links one by one placed them in front of his table. When U Tan Daing and U Tun Yin visited Sayadaw from Rangoon (Yan-gon), Sayadaw was still using the betel nuts. U Tun Yin was the owner of an art design company and had artistic view. He discussed with Sayadaw and suggested the small drinking plastic cups instead of betel nuts. So it changed from betel nuts to plastic cups which were clearer. Later with more discussion with Sayadaw the chart cycle of Paṭiccasamuppāda came into being. It became very popular and spread to everywhere. During the 1960, winter talks in Mandalay a lot of people came to listen to his talks everyday from 7 p.m. to 8 p.m. These people were not only from Mandalay, many were from other cities. They came by cars and train. Wanting to know how many people came, Daw Tin Hla offered 6000 paper fans to one for each person. Even these numbers were not enough for each person.
 
@@ -289,7 +289,7 @@ On 13th June, 1977, at Gyo-pin-kauk City. At 7:30 p.m., Sayadaw U Vicitta starte
 
 ------
 
-revised on 2024-12-21; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4022 (posted on 2018-12-14)
+revised on 2024-12-23; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=4022 (posted on 2018-12-14)
 
 ------
 
@@ -324,6 +324,7 @@ revised on 2024-12-21; cited from https://www.oba.org.tw/viewtopic.php?f=22&t=40
               | sukha: agreeable，pleasant，blest
 
 ..
+  12-23 rev. relace "U Tin" with "U Tun Tin"
   2024-12-21 rev. replace 12 a.m. with 12 p.m.
   2023-08-08 rev. replace filename with static to match "gramma"
   10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
