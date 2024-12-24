@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2022-08-24
-:modified: 2024-12-21
+:modified: 2024-12-24
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 目錄（莫哥西亞多開示錄-- 空、有為及無為）
@@ -34,9 +34,19 @@
      - `第 11 部`_
      - `第 12 部`_
    * - `第 13 部`_
-     - `跋 <{filename}postscript-han%zh.rst>`__ （待譯中！）
-     - `附錄 <{filename}appendix-han%zh.rst>`__ ( `翻譯手稿 <{filename}../dhamma-talks-by-mogok-sayadaw/translation-manuscript%zh.rst>`__ )
-     - `關於英譯者`_  （待譯中！）
+     - 第 14 部
+     - 第 15 部
+     - 第 16 部
+     - 結語（第 13 部之後）
+   * - 附錄（第 13 部之後；待譯中！）
+     - 跋（第 16 部之後；待譯中！）
+     - 機會與責任（附錄）（第 16 部分之後；待譯中！）
+     - 佛法反思：選擇與機會 （第 16 部分之後；待譯中！）
+     - `關於英譯者`_ 
+   * - `翻譯手稿 <{filename}../dhamma-talks-by-mogok-sayadaw/translation-manuscript%zh.rst>`__ )
+     - 
+     - 
+     - 
      - 
 
 ---------------------------
@@ -712,17 +722,21 @@ _`第 13 部`
 
 ----
 
-_`關於英譯者`: 請 `點此 <{filename}dhamma-talks-by-mogok-sayadaw-about-the-translator-han%zh.rst>`_
+_`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
 
 ------
 
-更新：西元 2024-12-21
+更新：西元 2024-12-24
 
 ------
 
 - 尊者 鄔達摩比丘出版品 `目錄 <{filename}../publication-of-ven-uttamo-han%zh.rst>`__ 
 
 ..
+  12-24 add 關於英譯者; `附錄 <{filename}appendix-han%zh.rst>`__ （第 13 部之後；待譯中！）
+     - `跋 <{filename}postscript-han%zh.rst>`__ （第 16 部之後；待譯中！）
+     - `機會與責任（附錄）<{filename}pt16-39-chance-and-duty-han%zh.rst>`__ （第 16 部分之後；待譯中！）
+     - `佛法反思：選擇與機會 <{filename}pt16-40-dhamma-reflection-choice-and-chance-han%zh.rst>`__ （第 16 部分之後；待譯中！）
   2024-12-21 add: 引言
   2024-12-02 add: 緣起法流程
   2023-08-10 del:emptiness-dhamma-and-emptiness-nibbana-han%zh.rst>`_ etc.
