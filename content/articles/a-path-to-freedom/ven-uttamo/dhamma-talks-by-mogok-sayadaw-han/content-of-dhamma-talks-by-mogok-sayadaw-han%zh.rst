@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2022-08-24
-:modified: 2024-12-24
+:modified: 2024-12-25
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 目錄（莫哥西亞多開示錄-- 空、有為及無為）
@@ -48,6 +48,10 @@
      - 
      - 
      - 
+
+---------------------------
+
+- `有聲書(MP3 及 Youtube)目錄 <{filename}content-of-audio-dhamma-talks-by-mogok-sayadaw-han%zh.rst>`__
 
 ---------------------------
 
@@ -726,13 +730,14 @@ _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
 
 ------
 
-更新：西元 2024-12-24
+更新：西元 2024-12-25
 
 ------
 
 - 尊者 鄔達摩比丘出版品 `目錄 <{filename}../publication-of-ven-uttamo-han%zh.rst>`__ 
 
 ..
+  12-24 add 有聲書(MP3 及 Youtube)目錄 
   12-24 add 關於英譯者; `附錄 <{filename}appendix-han%zh.rst>`__ （第 13 部之後；待譯中！）
      - `跋 <{filename}postscript-han%zh.rst>`__ （第 16 部之後；待譯中！）
      - `機會與責任（附錄）<{filename}pt16-39-chance-and-duty-han%zh.rst>`__ （第 16 部分之後；待譯中！）
