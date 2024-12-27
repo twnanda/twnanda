@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2022-08-24
-:modified: 2024-12-25
+:modified: 2024-12-27
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 目錄（莫哥西亞多開示錄-- 空、有為及無為）
@@ -38,10 +38,10 @@
      - 第 15 部
      - 第 16 部
      - 結語（第 13 部之後）
-   * - 附錄（第 13 部之後；待譯中！）
-     - 跋（第 16 部之後；待譯中！）
-     - 機會與責任（附錄）（第 16 部分之後；待譯中！）
-     - 佛法反思：選擇與機會 （第 16 部分之後；待譯中！）
+   * - 附錄（第 13 部之後）
+     - 跋（第 16 部之後）
+     - 機會與責任（附錄）（第 16 部分之後）
+     - 佛法反思：選擇與機會 （第 16 部分之後）
      - `關於英譯者`_ 
    * - `翻譯手稿 <{filename}../dhamma-talks-by-mogok-sayadaw/translation-manuscript%zh.rst>`__ )
      - 
@@ -730,13 +730,18 @@ _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
 
 ------
 
-更新：西元 2024-12-25
+-  另可參考：《當代南傳佛教大師》 `第十二章　莫哥西亞多 <{filename}mogok-sayadaw-newrain-metta-han%zh.rst>`__ 
+
+------
+
+更新：西元 2024-12-27
 
 ------
 
 - 尊者 鄔達摩比丘出版品 `目錄 <{filename}../publication-of-ven-uttamo-han%zh.rst>`__ 
 
 ..
+  12-27 add 第十二章　莫哥西亞多
   12-24 add 有聲書(MP3 及 Youtube)目錄 
   12-24 add 關於英譯者; `附錄 <{filename}appendix-han%zh.rst>`__ （第 13 部之後；待譯中！）
      - `跋 <{filename}postscript-han%zh.rst>`__ （第 16 部之後；待譯中！）
