@@ -53,6 +53,8 @@
 
 - `有聲書(MP3 及 Youtube)目錄 <{filename}content-of-audio-dhamma-talks-by-mogok-sayadaw-han%zh.rst>`__
 
+- `另可參考`_
+
 ---------------------------
 
 以下待譯中！
@@ -730,7 +732,7 @@ _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
 
 ------
 
--  另可參考：《當代南傳佛教大師》 `第十二章　莫哥西亞多 <{filename}mogok-sayadaw-newrain-metta-han%zh.rst>`__ 
+-  _`另可參考` ：《當代南傳佛教大師》 `第十二章　莫哥西亞多 <{filename}mogok-sayadaw-newrain-metta-han%zh.rst>`__ 
 
 ------
 
