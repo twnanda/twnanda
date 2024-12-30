@@ -57,12 +57,14 @@
 
 ---------------------------
 
-以下待譯中！
-~~~~~~~~~~~~~~
-
 _`第 1 部` ( `第 1 部目錄 <{filename}pt01-content-of-part03-han%zh.rst>`_ )
 
-- 1.) 通過聆聽空性法門和空性涅槃  (1961-09-11)
+- 1.) `聆聽空性之法與空性涅槃 <{filename}pt01-01-emptiness-dhamma-and-emptiness-nibbana-han%zh.rst>`_  (1961-09-11)
+
+------
+
+以下待譯中！
+~~~~~~~~~~~~~~
 
 - 2.) 錯誤的觀點（邪見）與空性 (1961-10-22)
 
@@ -743,6 +745,7 @@ _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
 - 尊者 鄔達摩比丘出版品 `目錄 <{filename}../publication-of-ven-uttamo-han%zh.rst>`__ 
 
 ..
+  12-30 add: pt01-01 聆聽空性之法與空性涅槃（莫哥西亞多開示錄）
   12-27 add 第十二章　莫哥西亞多
   12-24 add 有聲書(MP3 及 Youtube)目錄 
   12-24 add 關於英譯者; `附錄 <{filename}appendix-han%zh.rst>`__ （第 13 部之後；待譯中！）
