@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2022-08-24
-:modified: 2024-12-27
+:modified: 2025-01-01
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 目錄（莫哥西亞多開示錄-- 空、有為及無為）
@@ -57,16 +57,16 @@
 
 ---------------------------
 
-_`第 1 部` ( `第 1 部目錄 <{filename}pt01-content-of-part03-han%zh.rst>`_ )
+_`第 1 部` ( `第 1 部目錄 <{filename}pt01-content-of-part01-han%zh.rst>`_ )
 
 - 1.) `聆聽空性之法與空性涅槃 <{filename}pt01-01-emptiness-dhamma-and-emptiness-nibbana-han%zh.rst>`_  (1961-09-11)
+
+- 2.) `邪見與空性 <{filename}pt01-02-wrong-view-and-emptiness-han%zh.rst>`_  (1961-10-22)
 
 ------
 
 以下待譯中！
 ~~~~~~~~~~~~~~
-
-- 2.) 錯誤的觀點（邪見）與空性 (1961-10-22)
 
 - 3.) Visākha 和 Dhammadinna 的問答 
 
@@ -738,13 +738,14 @@ _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
 
 ------
 
-更新：西元 2024-12-27
+更新：西元 2025-01-01
 
 ------
 
 - 尊者 鄔達摩比丘出版品 `目錄 <{filename}../publication-of-ven-uttamo-han%zh.rst>`__ 
 
 ..
+  2025-01-01 add: pt01-02 邪見與空性
   12-30 add: pt01-01 聆聽空性之法與空性涅槃（莫哥西亞多開示錄）
   12-27 add 第十二章　莫哥西亞多
   12-24 add 有聲書(MP3 及 Youtube)目錄 

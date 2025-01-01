@@ -3,19 +3,19 @@
 ==============================
 
 :date: 2022-08-26
-:modified: 2024-12-30
+:modified: 2025-01-01
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 《莫哥西亞多開示錄-- 空、有為及無為》第 1 部目錄
 
 - 1.) `聆聽空性之法與空性涅槃 <{filename}pt01-01-emptiness-dhamma-and-emptiness-nibbana-han%zh.rst>`_ (1961-09-11)
 
+- 2.) `錯誤的觀點（邪見）與空性 <{filename}pt01-02-wrong-view-and-emptiness-han%zh.rst>`_ (1961-10-22)
+
 ------
 
 以下待譯中！
 ~~~~~~~~~~~~~~~~~~~~~
-
-- 2.) `錯誤的觀點（邪見）與空性 <{filename}pt01-02-wrong-view-and-emptiness-han%zh.rst>`_ (1961-10-22)
 
 - 3.) `Visākha 和 Dhammadinna 的問答 <{filename}pt01-03-questions-and-answers-by-visakha-and-dhammadinna-han%zh.rst>`_ (1961-12-11 ~ 17)
 
@@ -46,6 +46,7 @@
 - 尊者 鄔達摩比丘出版品 `目錄 <{filename}../publication-of-ven-uttamo-han%zh.rst>`__
 
 ..
+  2025-01-01 add: pt01-02 邪見與空性
   2024-12-30 add: pt01-01 聆聽空性之法與空性涅槃
   08-28 del: 中譯者聲明 & 據英譯者—鄔達摩比丘交待 which moved on footer
   2022-08-24  create rst; post on 08-26; 本部開示錄待譯中！
