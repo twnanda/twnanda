@@ -68,8 +68,6 @@ Anicca vaṭṭa sankhāra～「諸行無常」；這是五蘊的職責與作用
 譯自 `英譯文 <{filename}../dhamma-talks-by-mogok-sayadaw/pt01-02-wrong-view-and-emptiness-han%zh.rst>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-------
-
 - `第 1 部目錄 <{filename}pt01-content-of-part01-han%zh.rst>`_ 
 
 - 《莫哥西亞多開示錄》 `目錄 <{filename}content-of-dhamma-talks-by-mogok-sayadaw-han%zh.rst>`__ 
