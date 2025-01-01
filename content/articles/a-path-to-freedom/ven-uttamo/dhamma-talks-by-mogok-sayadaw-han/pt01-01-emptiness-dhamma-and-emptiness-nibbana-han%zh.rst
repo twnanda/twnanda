@@ -51,7 +51,7 @@
 
 ------
 
-譯自 `英譯文 <{filename}../pt01-01-emptiness-dhamma-and-emptiness-nibbana%zh.rst>`__
+譯自 `英譯文 <{filename}../dhamma-talks-by-mogok-sayadaw/pt01-01-emptiness-dhamma-and-emptiness-nibbana%zh.rst>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - `第 1 部目錄 <{filename}pt01-content-of-part01-han%zh.rst>`_ 
