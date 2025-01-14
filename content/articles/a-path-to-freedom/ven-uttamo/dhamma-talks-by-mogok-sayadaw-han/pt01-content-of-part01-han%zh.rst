@@ -3,7 +3,7 @@
 ==============================
 
 :date: 2022-08-26
-:modified: 2025-01-01
+:modified: 2025-01-14
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 《莫哥西亞多開示錄-- 空、有為及無為》第 1 部目錄
@@ -14,12 +14,17 @@
 
 ------
 
+以下提供兩版譯文參考！
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 3.) `問與答：毘舍佉與法施比丘尼的對話 <{filename}pt01-03-questions-and-answers-by-visakha-and-dhammadinna-han%zh.rst>`_ (1961-12-11 ~ 17)
+
+- 4.) `難陀迦的教誨 <{filename}pt01-04-nandaka-s-exhortation-han%zh.rst>`_ (1961-12-18 ~ 19)
+
+------
+
 以下待譯中！
 ~~~~~~~~~~~~~~~~~~~~~
-
-- 3.) `Visākha 和 Dhammadinna 的問答 <{filename}pt01-03-questions-and-answers-by-visakha-and-dhammadinna-han%zh.rst>`_ (1961-12-11 ~ 17)
-
-- 4.) `Nandaka 的勸告 <{filename}pt01-04-nandaka-s-exhortation-han%zh.rst>`_ (1961-12-18 ~ 19)
 
 - 5.) `緣起的延續 <{filename}pt01-05-continuation-of-dependent-arising-han%zh.rst>`_ (1960-11-15)
 
@@ -45,7 +50,9 @@
 
 - 尊者 鄔達摩比丘出版品 `目錄 <{filename}../publication-of-ven-uttamo-han%zh.rst>`__
 
+
 ..
+  01-14 add: 為完成之'pt01-03 問與答：毘舍佉與法施比丘尼的對話' & 'pt01-04 難陀迦的教誨'草稿
   2025-01-01 add: pt01-02 邪見與空性
   2024-12-30 add: pt01-01 聆聽空性之法與空性涅槃
   08-28 del: 中譯者聲明 & 據英譯者—鄔達摩比丘交待 which moved on footer
