@@ -3,18 +3,21 @@ Penetration of the Five Dhammas
 ==========================================
 
 :date: 2019-01-13
-:modified: 2021-07-28
+:modified: 2025-01-14
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Penetration of The Five Dhammas (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-07-28
+revised on 2025-01-14
 
 ------
 
 Dhamma Talks by Mogok Sayadaw; 5th to 9th Dec.1959
 
 [Sayadaw delivered five talks on the 5-Dhammas; the taints (āsavas), action (kamma), suffering (dukkha), sensuality (kāma) and feeling (vedanā) respectively. It based on a sutta in the Aṅguttara-Nikāya which mentioned totally 6-Dhammas, including perception (sañña). But Sayadaw did not include it in his talks. ]
+
+On Taints
+~~~~~~~~~~~~~~~~
 
 T1 
 
@@ -94,7 +97,7 @@ On feeling: The Buddha had arisen in this world or not is depending on the knowl
 
 ------
 
-revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35593#p35593 (posted on 2018-12-15)
+revised on 2025-01-14; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p=35593#p35593 (posted on 2018-12-15)
 
 ------
 
@@ -113,6 +116,7 @@ revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4031&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-01-14 rev. proofread by bhante
   2021-07-28 rev. proofread by bhante
   07-25 rev. add: On dukkha: There are six points of dukkha are: (5) proofread by bhante; 
   06-14 rev. proofread by bhante

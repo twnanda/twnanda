@@ -3,12 +3,12 @@ Breaking the Shells of Ignorance
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-05-26
+:modified: 2025-01-14
 :tags: Ignorance, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Breaking the Shells of Ignorance (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-05-26
+revised on 2025-01-14
 
 ------
 
@@ -33,9 +33,9 @@ T2
 
 [(This is an important talk on vipassanā practice. Talk about more detailed on anicca. Sayadaw quoted from Milindapañha. King Milinda requested Ven. Nāgasena to teach him how to develop vipassanā. He gave a simile. A tiger during hunting a prey, it hides himself in a bush where other animals used to come. When an animal approaches near, it jumps on the prey and kills it. If he is chasing the animal may be never catch it. In this simile, the tiger is yogi, watching is sati, bush is samādhi, jumping on and killing the prey is paññā. Watching and seeing the animal approaching is sati, killing the prey is sampajāna ~ clear comprehension. So the whole process is sati – sampajāna ~ mindfulness and clear comprehension. 
 
-After that Sayadaw continued the instruction based on Sāriputta’s saying: "Kāyaṃ imaṃ sammasatha, parijānātha punappunaṃ; Kāye sabhāvaṃ disvāna, dukkhassantaṃ karissathā" (Milindapañha/ Kammakāraṅgapañho) ~ Observe this mind-body process again and again continuously will see it arising and ceasing nature clearly with knowledge. And then strive on until dukkha come to an end. According to Sayadaw, Nāgasena’s instruction is for beginners, because in the beginning of practice samādhi is not very strong enough, so that only can discern the body coarse sensations. After long periods of practice and samādhi develop, that can discern the subtler sensations more and more as it shows its true nature. Discerning more will understand another nature as dukkha; dukkha will come to an end with continue practice. This is Sāriputta’s instruction.) Nāgasena’s instruction is Sati-Sampajāna. Sāriputta’s instruction is bhāvetabba and pahātabba (Developing and abandoning). Developing the insight knowledges and abandoning of kilesas. After discerning anicca, observing again and again continuously (bhāvetabba) until dukkha end (pahātabba). ]
+After that Sayadaw continued the instruction based on Sāriputta’s saying: "Kāyaṃ imaṃ sammasatha, parijānātha punappunaṃ; Kāye sabhāvaṃ disvāna, dukkhassantaṃ karissathā" (Milindapañha/ Kammakāraṅgapañho) ~ Observe this mind-body process again and again continuously will see it arising and ceasing nature clearly with knowledge. And then strive on until dukkha come to an end. According to Sayadaw, Nāgasena’s instruction is for beginners, because in the beginning of practice samādhi is not very strong enough, so that only can discern the body coarse sensations. After long periods of practice and samādhi develop, that can discern the subtler sensations more and more as it shows its true nature. Discerning more will understand another nature as dukkha; dukkha will come to an end with continue practice. This is Sāriputta’s instruction.) Nāgasena’s instruction is Sati-sampajañña. Sāriputta’s instruction is bhāvetabba and pahātabba (Developing and abandoning). Developing the insight knowledges and abandoning of kilesas. After discerning anicca, observing again and again continuously (bhāvetabba) until dukkha end (pahātabba). ]
 
-Watching is sati. Caught on the prey of impermanence is Sampajāna. Sampajāna means seeing rightly. It is paññā. Samatha and vipassanā are including together. You have sati so you can catch on it. If you can catch on the arising and passing away, the fourth ignorance is fallen away. Of the 5-layers of ignorance it’s important for the fourth avijjā to be fallen away. Impermanence is always there. It’s also equal to Ehi-passiko. After that no need to watch. Nodding your head at whatever the khandha is showing you. Watching at it is Nāgasena’s instruction. After that nodding your head only is Sāriputta’s instruction. Bhāvetabba ~ by developing of seeing one’s own dukkha and knowing that it’s a great dukkha. With this making decision, then dukkha ceases. Watching and catching is for beginner in vipassanā. Sāriputta asked to observe the dhamma which is showing us its nature again and again. And then you will know the story of your khandhas thoroughly. Sāriputta taught up to Dukkha Sacca. This knowledge comes in when you see impermanence again and again. And then suddenly with a blip and there is nothing to contemplate. You will know that the greatest dukkha is not there anymore. It’s the Path Knowledge of Nibbāna. It’s true that no khandha is Nibbāna. Impermanent khandha is vipāka vaṭṭa (Resultant Round of Existence). Impermanence cease is free from the vaṭṭa. Therefore, in the mind it appears like lightness and happiness. This is no need for pāramitās (perfection). Only need for effort (viriya). The fourth ignorance can be broken by watching and catching. The fifth is only by knowing Dukkha thoroughly. When the Path Knowledge arises, what happen in the body? By seeing Dukkha continuously and this Dukkha ending will arise, and then follow by the knowledge of not wanting it. At the time taṇhā (craving) is extinguished with a blip and it ceases. It’s like cooling by pouring with 1,000 buckets of cold water.
+Watching is sati. Caught on the prey of impermanence is sampajañña. Sampajañña means seeing rightly. It is paññā. Samatha and vipassanā are including together. You have sati so you can catch on it. If you can catch on the arising and passing away, the fourth ignorance is fallen away. Of the 5-layers of ignorance it’s important for the fourth avijjā to be fallen away. Impermanence is always there. It’s also equal to Ehi-passiko. After that no need to watch. Nodding your head at whatever the khandha is showing you. Watching at it is Nāgasena’s instruction. After that nodding your head only is Sāriputta’s instruction. Bhāvetabba ~ by developing of seeing one’s own dukkha and knowing that it’s a great dukkha. With this making decision, then dukkha ceases. Watching and catching is for beginner in vipassanā. Sāriputta asked to observe the dhamma which is showing us its nature again and again. And then you will know the story of your khandhas thoroughly. Sāriputta taught up to Dukkha Sacca. This knowledge comes in when you see impermanence again and again. And then suddenly with a blip and there is nothing to contemplate. You will know that the greatest dukkha is not there anymore. It’s the Path Knowledge of Nibbāna. It’s true that no khandha is Nibbāna. Impermanent khandha is vipāka vaṭṭa (Resultant Round of Existence). Impermanence cease is free from the vaṭṭa. Therefore, in the mind it appears like lightness and happiness. This is no need for pāramitās (perfection). Only need for effort (viriya). The fourth ignorance can be broken by watching and catching. The fifth is only by knowing Dukkha thoroughly. When the Path Knowledge arises, what happen in the body? By seeing Dukkha continuously and this Dukkha ending will arise, and then follow by the knowledge of not wanting it. At the time taṇhā (craving) is extinguished with a blip and it ceases. It’s like cooling by pouring with 1,000 buckets of cold water.
 
 ------
 
@@ -46,7 +46,7 @@ During seeing impermanence goose flesh can be raised up. Don’t be afraid. Vipa
 
 ------
 
-revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35553#p35553 (posted on 2018-12-14)
+revised on 2025-01-14; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p=35553#p35553 (posted on 2018-12-14)
 
 ------
 
@@ -67,6 +67,7 @@ revised on 2019-05-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4028&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-01-14 rev. proofread by bhante
   05-26 rev. proofread by bhante
   04-21 rev. & add: Content of Publications of Ven. Uttamo; Content of Part 2 on "Dhamma Talks by Mogok Sayadaw"
         del: https://mogokdhammatalks.blog/
