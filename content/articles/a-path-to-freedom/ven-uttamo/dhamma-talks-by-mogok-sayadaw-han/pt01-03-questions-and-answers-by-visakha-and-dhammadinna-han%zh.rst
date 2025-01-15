@@ -3,16 +3,16 @@
 ==========================================================
 
 :date: 2025-01-14
-:modified: 2025-01-14
+:modified: 2025-01-15
 :tags: 譯者註, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 邪見, 空性, 涅槃, Mogok Sayadaw, Mogok
 :category: path of nirvana
 :summary: 問與答：毘舍佉與法施比丘尼的對話 (莫哥西亞多開示錄-- 空、有為及無為)
 
-更新：西元 2025-01-14
+更新：西元 2025-01-15
 
 ------
 
-**特別聲明：本篇尚未完全校對妥；僅供法友參考！並祈藉此拋磚引玉，眾法友能共襄盛舉，共同圓滿此譯事。 Nanda 謹識。**
+**特別聲明：本篇尚未完全校對妥；疏漏錯繆難免，讀者應慎思明辨。僅供法友參考；並祈藉此拋磚引玉，眾法友能共襄盛舉，共同圓滿此譯事。 Nanda 謹識。**
 
 ------
 
@@ -108,8 +108,8 @@
 
 ------
 
-**以下提供兩種譯文；請讀者酌參！**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**特別聲明：以下提供兩種譯文；疏漏錯繆難免，讀者應慎思明辨。僅供法友參考；並祈藉此拋磚引玉，眾法友能共襄盛舉，共同圓滿此譯事。 Nanda 謹識。**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nothing is more fearful than wrong view; because of this someone can kill one's own mother and father. The 5-heavy kammas come from it. In sotāpanna these kammas are never happened. People said they fear unwholesome dhammas. Don't be fear! If you destroy wrong view, no need to fear any unwholesome dhammas. It's leading other unwholesome dhammas and sending beings to the 8-great hells and 120-small hells. If you see sakkāya it dispels wrong view. Why? It becomes right view and the wrong view has to go away. Wrong view must exterminate by right view. Any illness has to be cured by its own medicine. Dāna, sīla and samatha can’t overcome it. It's better to do wholesome kammas after dispel wrong view, if not will fall downwards again. The Buddha preferred the kinds of dāna, sīla and samatha enrich with vipassanā. There are 8-kinds of dāna and the best one is enriched with vipassanā. (Mentioned in the Aṅguttaranikāya) Sakkāya diṭṭhi arises because of not knowing the reality. Therefore, knowing the differences clearly and then do the merits. As an example, you shoot a bird with a poison arrow and hit the skin only. It continues to fly as long as the poison not spread enough to the whole body, and then spread enough it will fall down. In the same way any merits done with wrong view going upward temporary and later pull downward by wrong view.
 
@@ -1616,7 +1616,7 @@ For ending the dhamma talk, to realize Nibbāna start from the conditioned, cond
 
 ------
 
-更新：西元 2025-01-14
+更新：西元 2025-01-15
 
 ------
 
@@ -1630,4 +1630,5 @@ For ending the dhamma talk, to realize Nibbāna start from the conditioned, cond
 - 尊者 鄔達摩比丘出版品 `目錄 <{filename}../publication-of-ven-uttamo-han%zh.rst>`__ 
 
 ..
+  01-15 rev. 特別聲明, proofread by ㄚ亮
   2025-01-14  create rst
