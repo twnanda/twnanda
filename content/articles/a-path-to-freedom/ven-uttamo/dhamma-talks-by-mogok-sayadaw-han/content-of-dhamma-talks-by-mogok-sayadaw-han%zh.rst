@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2022-08-24
-:modified: 2025-01-14
+:modified: 2025-01-15
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 目錄（莫哥西亞多開示錄-- 空、有為及無為）
@@ -72,16 +72,16 @@ _`第 1 部` ( `第 1 部目錄 <{filename}pt01-content-of-part01-han%zh.rst>`_ 
 
 - 4.) `難陀迦的教誨 <{filename}pt01-04-nandaka-s-exhortation-han%zh.rst>`_ (1961-12-18 ~ 19)
 
+- 5.) `緣起的延續 <{filename}pt01-05-continuation-of-dependent-arising-han%zh.rst>`_ (1960-11-15)
+
+- 6.) `（四）念住的所緣與觀照的心 <{filename}pt01-06-satipathana-objects-and-the-contemplative-mind-han%zh.rst>`_ (1961-09-16)
+
+- 7.) `四位阿羅漢與一位凡夫比丘 <{filename}pt01-07-four-arahants-and-an-ordinary-monk-han%zh.rst>`_ (1961-10-19)
+
 ------
 
 以下待譯中！
 ~~~~~~~~~~~~~~
-
-- 5.) 緣起的延續 
-
-- 6.) 念處所緣與內觀的心 
-
-- 7.) 四阿羅漢與一個普通僧人 
 
 - 8.) 止（三摩地 Samatha） 與 觀（Vipassanā）
 
@@ -743,10 +743,11 @@ _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
 
 ------
 
-更新：西元 2025-01-14
+更新：西元 2025-01-15
 
 
 ..
+  01-15 add: 未完稿之 pt01-05, pt01-06, pt01-07
   01-14 add: 為完成之'pt01-03 問與答：毘舍佉與法施比丘尼的對話' & 'pt01-04 難陀迦的教誨'草稿
 
   ------
