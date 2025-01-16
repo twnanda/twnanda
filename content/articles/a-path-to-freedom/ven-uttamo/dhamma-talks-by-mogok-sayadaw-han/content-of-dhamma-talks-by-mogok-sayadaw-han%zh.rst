@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2022-08-24
-:modified: 2025-01-15
+:modified: 2025-01-16
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 目錄（莫哥西亞多開示錄-- 空、有為及無為）
@@ -78,22 +78,20 @@ _`第 1 部` ( `第 1 部目錄 <{filename}pt01-content-of-part01-han%zh.rst>`_ 
 
 - 7.) `四位阿羅漢與一位凡夫比丘 <{filename}pt01-07-four-arahants-and-an-ordinary-monk-han%zh.rst>`_ (1961-10-19)
 
+- 8.) `止禪與觀禪 <{filename}pt01-08-samatha-and-vipassana-han%zh.rst>`_ (1961-10-20)
+
+- 9.) `涅槃就在周遭，不再遠處 <{filename}pt01-09-nibbana-is-near-not-far-away-han%zh.rst>`_ (1961-12-15)
+
+- 10.) `在正確的地方尋找涅槃 <{filename}pt01-10-looking-for-nibbana-at-the-right-place-han%zh.rst>`_ (N/A)
+
+- 11.) `以智慧觀照身與心 <{filename}pt01-11-observe-the-mind-body-with-panna-han%zh.rst>`_ (1959-02-28)
+
+- 12.) `以陌生人的身份觀察心身的無常 <{filename}pt01-12-observe-the-impermanence-of-mind-body-as-a-stranger-han%zh.rst>`_ (1959-03-01)
+
 ------
 
 以下待譯中！
 ~~~~~~~~~~~~~~
-
-- 8.) 止（三摩地 Samatha） 與 觀（Vipassanā）
-
-- 9.) 涅槃就在周遭，不再遠處 
-
-- 10.) 在正確的地方尋找涅槃 
-
-- 11.) 以慧（Paññā）觀察心身
-
-- 12.) 以陌生人的身份觀察心身的無常 
-
-------
 
 _`第 2 部`
 
@@ -743,10 +741,11 @@ _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
 
 ------
 
-更新：西元 2025-01-15
+更新：西元 2025-01-16
 
 
 ..
+  01-16 add: pt01-08 ~ pt01-12 之草稿
   01-15 add: 未完稿之 pt01-05, pt01-06, pt01-07
   01-14 add: 為完成之'pt01-03 問與答：毘舍佉與法施比丘尼的對話' & 'pt01-04 難陀迦的教誨'草稿
 

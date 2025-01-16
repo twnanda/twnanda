@@ -27,18 +27,13 @@
 
 - 7.) `四位阿羅漢與一位凡夫比丘 <{filename}pt01-07-four-arahants-and-an-ordinary-monk-han%zh.rst>`_ (1961-10-19)
 
-------
-
-以下待譯中！
-~~~~~~~~~~~~~~~~~~~~~
-
-- 8.) `止（三摩地 Samatha） 與 觀（Vipassanā） <{filename}pt01-08-samatha-and-vipassana-han%zh.rst>`_ (1961-10-20)
+- 8.) `止禪與觀禪 <{filename}pt01-08-samatha-and-vipassana-han%zh.rst>`_ (1961-10-20)
 
 - 9.) `涅槃就在周遭，不再遠處 <{filename}pt01-09-nibbana-is-near-not-far-away-han%zh.rst>`_ (1961-12-15)
 
 - 10.) `在正確的地方尋找涅槃 <{filename}pt01-10-looking-for-nibbana-at-the-right-place-han%zh.rst>`_ (N/A)
 
-- 11.) `以慧（Paññā）觀察心身 <{filename}pt01-11-observe-the-mind-body-with-panna-han%zh.rst>`_ (1959-02-28)
+- 11.) `以智慧觀照身與心 <{filename}pt01-11-observe-the-mind-body-with-panna-han%zh.rst>`_ (1959-02-28)
 
 - 12.) `以陌生人的身份觀察心身的無常 <{filename}pt01-12-observe-the-impermanence-of-mind-body-as-a-stranger-han%zh.rst>`_ (1959-03-01)
 
