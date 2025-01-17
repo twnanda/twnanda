@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2022-08-24
-:modified: 2025-01-16
+:modified: 2025-01-17
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 目錄（莫哥西亞多開示錄-- 空、有為及無為）
@@ -88,24 +88,24 @@ _`第 1 部` ( `第 1 部目錄 <{filename}pt01-content-of-part01-han%zh.rst>`_ 
 
 - 12.) `以陌生人的身份觀察心身的無常 <{filename}pt01-12-observe-the-impermanence-of-mind-body-as-a-stranger-han%zh.rst>`_ (1959-03-01)
 
+_`第 2 部`
+
+- 1.) `五種正見 <{filename}pt02-01-five-kinds-of-right-view-han%zh.rst>`_ (1960-02-26 ~ 03-02, in Mandalay)
+
+- 2.) `打破無明的殼層 <{filename}pt02-02-breaking-the-shells-of-ignorance-han%zh.rst>`_ (1960-06-20~ 22, in Amarapura)
+
+- 3.) `五暗與五光 <{filename}pt02-03-five-darkness-five-lights-han%zh.rst>`_ (05-04 ~ 05-08, in Mandalay)
+
+- 4.) `超越時間 <{filename}pt02-04-transcending-time-han%zh.rst>`_ (1958-08-24)
+
+- 5.) `涅槃：苦的終結 <{filename}pt02-05-nibbana-the-ending-of-dukkha-han%zh.rst>`_ (1958-09-05)
+
+- 6.) `正念的重要性 <{filename}pt02-06-important-of-right-attention-han%zh.rst>`_ (1959-01-14)
+
 ------
 
 以下待譯中！
 ~~~~~~~~~~~~~~
-
-_`第 2 部`
-
-- 1.) 五種正見five-kinds-of-right-view1960-02-26 ~02, in Mandalay)
-
-- 2.) 打破無明的外殼breaking-the-shells-of-ignorance1960-06-20~ 22, in Amarapura)
-
-- 3.) 五暗與五光five-darkness-five-lights05-04 ~08, in Mandalay)
-
-- 4.) 超越時間transcending-time1958-08-24)
-
-- 5.) 涅槃：苦的終點nibbana-the-ending-of-dukkha1958-09-05)
-
-- 6.) 正確注意力的重要性important-of-right-attention1959-01-14)
 
 - 7.) Yamaka 比丘bhikkhu-yamaka1959-02-16 ~ 23)
 
@@ -741,10 +741,11 @@ _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
 
 ------
 
-更新：西元 2025-01-16
+更新：西元 2025-01-17
 
 
 ..
+  01-17 add: pt02-01 ~ pt02-06 之草稿
   01-16 add: pt01-08 ~ pt01-12 之草稿
   01-15 add: 未完稿之 pt01-05, pt01-06, pt01-07
   01-14 add: 為完成之'pt01-03 問與答：毘舍佉與法施比丘尼的對話' & 'pt01-04 難陀迦的教誨'草稿

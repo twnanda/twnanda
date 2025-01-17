@@ -3,28 +3,31 @@
 ==============================
 
 :date: 2022-08-26
-:modified: 2022-08-28
+:modified: 2025-01-17
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 《莫哥西亞多開示錄-- 空、有為及無為》第 2 部目錄
 
 
-本部開示錄待譯中！
-~~~~~~~~~~~~~~~~~~~~~
+以下提供兩版譯文參考！
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - 1.) `五種正見 <{filename}pt02-01-five-kinds-of-right-view-han%zh.rst>`_ (1960-02-26 ~ 03-02, in Mandalay)
 
-- 2.) `打破無明的外殼 <{filename}pt02-02-breaking-the-shells-of-ignorance-han%zh.rst>`_ (1960-06-20~ 22, in Amarapura)
+- 2.) `打破無明的殼層 <{filename}pt02-02-breaking-the-shells-of-ignorance-han%zh.rst>`_ (1960-06-20~ 22, in Amarapura)
 
 - 3.) `五暗與五光 <{filename}pt02-03-five-darkness-five-lights-han%zh.rst>`_ (05-04 ~ 05-08, in Mandalay)
 
 - 4.) `超越時間 <{filename}pt02-04-transcending-time-han%zh.rst>`_ (1958-08-24)
 
-- 5.) `涅槃：苦的終點 <{filename}pt02-05-nibbana-the-ending-of-dukkha-han%zh.rst>`_ (1958-09-05)
+- 5.) `涅槃：苦的終結 <{filename}pt02-05-nibbana-the-ending-of-dukkha-han%zh.rst>`_ (1958-09-05)
 
-- 6.) `正確注意力的重要性 <{filename}pt02-06-important-of-right-attention-han%zh.rst>`_ (1959-01-14)
+- 6.) `正念的重要性 <{filename}pt02-06-important-of-right-attention-han%zh.rst>`_ (1959-01-14)
 
-- 7.) `Yamaka 比丘 <{filename}pt02-07-bhikkhu-yamaka-han%zh.rst>`_ (1959-02-16 ~ 23)
+------
+
+以下待譯中！
+~~~~~~~~~~~~~~
 
 - 8.) `變化的功能知識 <{filename}pt02-08-functional-knowledge-of-change-han%zh.rst>`_ (1961-07-01)
 
@@ -68,6 +71,9 @@
 
 - 28.) `邪見和聆聽法談 <{filename}pt02-28-wrong-viewand-listening-talks-han%zh.rst>`_ (1959-03-27)
 
+
+- 7.) `Yamaka 比丘 <{filename}pt02-07-bhikkhu-yamaka-han%zh.rst>`_ (1959-02-16 ~ 23)
+
 ------
 
 - 《莫哥西亞多開示錄》 `目錄 <{filename}content-of-dhamma-talks-by-mogok-sayadaw-han%zh.rst>`__ of "Dhamma Talks by Mogok Sayadaw"
@@ -77,5 +83,6 @@
 - 尊者 鄔達摩比丘出版品 `目錄 <{filename}../publication-of-ven-uttamo-han%zh.rst>`__
 
 ..
+  2025-01-17 add: pt02-01 ~ pt02-06 之草稿
   08-28 del: 中譯者聲明 & 據英譯者—鄔達摩比丘交待 which moved on footer
   2022-08-24  create rst; post on 08-26; 本部開示錄待譯中！
