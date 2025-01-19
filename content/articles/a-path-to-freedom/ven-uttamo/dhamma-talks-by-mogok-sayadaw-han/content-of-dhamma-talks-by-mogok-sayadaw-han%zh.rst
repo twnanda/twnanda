@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2022-08-24
-:modified: 2025-01-17
+:modified: 2025-01-19
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 目錄（莫哥西亞多開示錄-- 空、有為及無為）
@@ -57,7 +57,7 @@
 
 ---------------------------
 
-_`第 1 部` ( `第 1 部目錄 <{filename}pt01-content-of-part01-han%zh.rst>`_ )
+_`第 1 部` ( `第 1 部目錄 <{filename}pt01-content-of-part01-han%zh.rst>`_ 、第 1 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part01-ref.html>`__ 、第 1 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part01-ref.pdf>`__ )
 
 - 1.) `聆聽空性之法與空性涅槃 <{filename}pt01-01-emptiness-dhamma-and-emptiness-nibbana-han%zh.rst>`_  (1961-09-11)
 
@@ -88,7 +88,7 @@ _`第 1 部` ( `第 1 部目錄 <{filename}pt01-content-of-part01-han%zh.rst>`_ 
 
 - 12.) `以陌生人的身份觀察心身的無常 <{filename}pt01-12-observe-the-impermanence-of-mind-body-as-a-stranger-han%zh.rst>`_ (1959-03-01)
 
-_`第 2 部`
+_`第 2 部` ( `第 2 部目錄 <{filename}pt02-content-of-part02-han%zh.rst>`_ 、第 2 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part02-ref.html>`__ 、第 2 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part02-ref.pdf>`__ )
 
 - 1.) `五種正見 <{filename}pt02-01-five-kinds-of-right-view-han%zh.rst>`_ (1960-02-26 ~ 03-02, in Mandalay)
 
@@ -153,7 +153,7 @@ _`第 2 部`
 
 ------
 
-_`第 3 部`
+_`第 3 部` ( `第 3 部目錄 <{filename}pt03-content-of-part03-han%zh.rst>`_ 、第 3 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part03-ref.html>`__ 、第 3 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part03-ref.pdf>`__ )
 
 - 1.) 生滅智的巨大利益great-benefit-of-udayabbhaya-nana1959-03-03)
 
@@ -215,7 +215,7 @@ _`第 3 部`
 
 ------
 
-_`第 4 部`
+_`第 4 部` ( `第 4 部目錄 <{filename}pt04-content-of-part04-han%zh.rst>`_ 、第 4 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part04-ref.html>`__ 、第 4 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part04-ref.pdf>`__ )
 
 - 1.) 向內探索inward-exploration1960-11-28, 1960-1201 ~02, 1962-09-25)
 
@@ -243,7 +243,7 @@ _`第 4 部`
 
 - 13.) 通往涅槃的路線圖the-road-map-to-nibbana1961-01-06,19 ~20)
 
-_`第 5 部`
+_`第 5 部` ( `第 5 部目錄 <{filename}pt05-content-of-part05-han%zh.rst>`_ 、第 5 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part05-ref.html>`__ 、第 1 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part05-ref.pdf>`__ )
 
 - 1.) 不要因別人說什麼就結束（修行）dont-end-up-at-what-others-say1961-01-08)
 
@@ -741,10 +741,11 @@ _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
 
 ------
 
-更新：西元 2025-01-17
+更新：西元 2025-01-19
 
 
 ..
+  01-19 add: 莫哥西亞多開示錄，第 1~5 部 (參考用譯文)
   01-17 add: pt02-01 ~ pt02-06 之草稿
   01-16 add: pt01-08 ~ pt01-12 之草稿
   01-15 add: 未完稿之 pt01-05, pt01-06, pt01-07

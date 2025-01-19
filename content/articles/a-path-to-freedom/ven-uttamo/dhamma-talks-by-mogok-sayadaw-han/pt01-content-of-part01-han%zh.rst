@@ -3,10 +3,11 @@
 ==============================
 
 :date: 2022-08-26
-:modified: 2025-01-15
+:modified: 2025-01-19
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 《莫哥西亞多開示錄-- 空、有為及無為》第 1 部目錄
+
 
 - 1.) `聆聽空性之法與空性涅槃 <{filename}pt01-01-emptiness-dhamma-and-emptiness-nibbana-han%zh.rst>`_ (1961-09-11)
 
@@ -43,10 +44,17 @@
 
 ------
 
+- 第 1 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part01-ref.html>`__ 、
+
+- 第 1 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part01-ref.pdf>`__
+
+------
+
 - 尊者 鄔達摩比丘出版品 `目錄 <{filename}../publication-of-ven-uttamo-han%zh.rst>`__
 
 
 ..
+  01-19 add: 莫哥西亞多開示錄，第 1~5 部 (參考用譯文)
   01-16 add: pt01-08 ~ pt01-12 之草稿
   01-15 add: 未完稿之 pt01-05, pt01-06, pt01-07
   01-14 add: 未完成之'pt01-03 問與答：毘舍佉與法施比丘尼的對話' & 'pt01-04 難陀迦的教誨'草稿
