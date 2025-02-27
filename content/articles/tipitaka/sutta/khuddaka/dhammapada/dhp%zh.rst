@@ -2,7 +2,7 @@
 ===================
 
 :date: 2016-01-29 09:00
-:modified: 2021-11-11
+:modified: 2025-02-27
 :tags: 法句經, Dhammapada, 法集要頌經, 法句譬喻經, 出曜經, Dhp., DHP, 
 :category: 巴利三藏小部
 :summary: 法句經, Dhammapada
@@ -73,6 +73,8 @@
   * `《法句經》 <http://yathasukha.blogspot.tw/2011/07/1.html>`__ ： **具 pali 註解** 。涵蓋了 T210《法句經》、T212《出曜經》、 T213《法集要頌經》、巴利《法句經》、巴利《優陀那》、梵文《法句經》，對他種語言的偈頌還附有漢語翻譯（部落格-- 荒草不曾鋤）；
 
     * **pali 註解** （ `本站 <{filename}dhA/dhA-content%zh.rst>`__ ）——　取自上述之【部落格-- 荒草不曾鋤】
+
+  * `法句義注 Dhammapada-aṭṭhakathā（第一版） <{static}/extra/tipitaka/sutta/khuddaka/dhp/Dph-Att-v1-2-2024-0930-traditional-Chinese-2025-Feb.htm>`__ 〔正（繁）體中文（v1-2-2024-9-30-正體-2025-0222）〕； `PDF <{static}/extra/tipitaka/sutta/khuddaka/dhp/Dph-Att-v1-2-2024-0930-traditional-Chinese-2025-Feb.pdf>`__ 
 
   * `Multilingual edition of Dhammapada <https://www2.hf.uio.no/polyglotta/index.php?page=volume&vid=80>`__ (犍陀羅語、巴利語、英語、混合佛教梵語、漢語多語對讀) [10]_
 
@@ -173,6 +175,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2025-02-27 add: 法句義注 Dhammapada-aṭṭhakathā（第一版）正體 (02-22)
   2023-08-08 rev. replace filename with static to match "gramma"
   11-16 rev. & add local linking of 偈頌對照表; replace {static}/extra/ with {static}/extra/
   09-29 偈頌對照表 linking (this site: {filename}dhp-correspondence-tables/dhp-correspondence-tables%zh.rst under construction!)
