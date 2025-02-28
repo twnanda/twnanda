@@ -2461,10 +2461,6 @@ Dvesahāyakabhikkhuvatthu
 
 ----
 
--偈頌部份可另參`多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst>`_ 
-
-----
-
 - `法句經首頁 <{filename}../dhp%zh.rst>`_ _
 
 - `Tipiṭaka南傳大藏經;巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`_ _

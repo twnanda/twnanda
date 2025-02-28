@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2025-02-27
-:modified: 2025-02-27
+:modified: 2025-02-28
 :tags: 法句義注, 法句經, Dhammapada-aṭṭhakathā, Dhammapada Aṭṭhakathā, DhpA, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapada, Dhammapadapāḷi, The Path of Dhamma
 :category: 巴利三藏小部
 :summary: 巴利《法句義注》Dhammapada-aṭṭhakathā 目錄
@@ -105,6 +105,10 @@
 
 ---------------------------
 
+- `簡體版 <{filename}dhpA-smpl/dhpA-smpl-content%zh.rst>`__ （已將「標新立異之音譯名」，轉換為一般既有譯名）
+
+--------------------------
+
 原簡體版
 ~~~~~~~~~~
 
@@ -132,6 +136,7 @@ v1.2（2024.9.30）
 
 
 .. 
+  02-28 add: 簡體版（已將「標新立異之音譯名」，轉換為一般既有譯名）
   2025-02-27 create rst
 
   PDF: 如實知見 knowing and seeing the truth - 經藏 https://drive.google.com/file/d/1-ES9kZNdxJih1vAuywbPWJR4VskjDR3H/view
