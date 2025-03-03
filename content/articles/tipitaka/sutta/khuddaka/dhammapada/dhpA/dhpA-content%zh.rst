@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2025-02-27
-:modified: 2025-02-28
+:modified: 2025-03-03
 :tags: 法句義注, 法句經, Dhammapada-aṭṭhakathā, Dhammapada Aṭṭhakathā, DhpA, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapada, Dhammapadapāḷi, The Path of Dhamma
 :category: 巴利三藏小部
 :summary: 巴利《法句義注》Dhammapada-aṭṭhakathā 目錄
@@ -23,16 +23,16 @@
 
    * - `1. Yamakavaggo (Dhp.1-20) <{filename}dhpA-chap01%zh.rst>`__
      - `2. Appamādavaggo (Dhp.21-32) <{filename}dhpA-chap02%zh.rst>`__
-     - `3. Cittavaggo (Dhp.33-43) <{filename}dhpA-chap03%zh.rst>`__ （以下幾品建構中！）
+     - `3. Cittavaggo (Dhp.33-43) <{filename}dhpA-chap03%zh.rst>`__
      - `4. Pupphavaggo (Dhp.44-59) <{filename}dhpA-chap04%zh.rst>`__ 
-     - `5. Bālavaggo (Dhp.60-75) <{filename}dhpA-chap05%zh.rst>`__ 
+     - `5. Bālavaggo (Dhp.60-75) <{filename}dhpA-chap05%zh.rst>`__  （以下幾品建構中！）
      - `6. Paṇḍitavaggo (Dhp.76-89) <{filename}dhpA-chap06%zh.rst>`__ 
    
    * - 1. 雙品 (The Pairs)
      - 2. 不放逸品 (Heedfulness)
-     - 3. 心品 (The Mind) （以下幾品建構中！）
+     - 3. 心品 (The Mind)
      - 4. 華品 (花品 Flower)
-     - 5. 愚品 (愚人品 The Fool)
+     - 5. 愚品 (愚人品 The Fool) （以下幾品建構中！）
      - 6. 智者品 (The Wise Man)
  
 .. list-table:: Content of Dhammapada Aṭṭhakathā
@@ -136,6 +136,7 @@ v1.2（2024.9.30）
 
 
 .. 
+  03-03 finish chapter 3 & chapter 4 (（巴利《法句義注》)
   03-02 finish chapter 2 (（巴利《法句義注》)
   02-28 add: 簡體版（已將「標新立異之音譯名」，轉換為一般既有譯名）
   2025-02-27 create rst
