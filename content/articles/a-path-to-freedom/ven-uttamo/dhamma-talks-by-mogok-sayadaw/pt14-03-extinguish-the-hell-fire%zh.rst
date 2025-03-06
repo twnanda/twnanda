@@ -3,12 +3,12 @@ Extinguish The Hell Fire
 ==========================================
 
 :date: 2024-03-27
-:modified: 2024-06-09
+:modified: 2025-03-06
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Extinguish The Hell Fire (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-09
+revised on 2025-03-06
 
 ------
 
@@ -30,7 +30,7 @@ You just observe with ñāṇa what the khandha is telling about it. It’s not 
 
 Tape 2
 
-The ten unwholesome dhammas (akusala dhamma) are described as black or dark actions; the 10 wholesome actions are described as white dhammas black and white mixed actions (with the king of Hell — Yama, being in this group), and the action to cut off either black, white, or mixed actions, is NIBBĀNA. Developing the path factors is easy if you discern the signs of anicca.
+The ten unwholesome dhammas (akusala dhamma) are described as black or dark actions; the 10 wholesome actions are described as white dhammas; black and white mixed actions (with the king of Hell — Yama, being in this group); and the action to cut off either black, white, or mixed actions, is NIBBĀNA. Developing the path factors is easy if you discern the signs of anicca.
 
 At the end of the signs of anicca (anicca lakkhaṇa), Nibbāna exists. Sāsana Dhamma (i.e., Buddhadhamma), is very rare and difficult to encounter. (He mentioned some men during the time of the Buddha, such as— his two jhāna teachers, father in law, Pasenadi, King of Kosala; they met the great being but not enlightened). So don’t waste your time. Try hard! Incline your own knowledge (ñāṇa) towards the objects of anicca. Don’t waste your time with talking. (Here Sayadaw admonished his disciples to come to the Dhamma Sālā for practice only not for worldly affairs). You have to stay with it as dhamma objects (dhamma— ārammaṇas). Everyone has three types of debt (i.e., black, white and mixed kammas). He showed them how to stop kammas with the dependent arising of the khandha. For example,
 
@@ -52,7 +52,7 @@ Seeing consciousness → feeling → taṇhā → clinging → action. You can e
 
 ------
 
-revised on 2024-06-09
+revised on 2025-03-06
 
 ------
 
@@ -71,5 +71,6 @@ revised on 2024-06-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   06-09 rev. proofread by bhante Uttamo
   2024-03-27 create rst

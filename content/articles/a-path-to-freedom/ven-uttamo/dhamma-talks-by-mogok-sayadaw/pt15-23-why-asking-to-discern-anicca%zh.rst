@@ -3,16 +3,16 @@ Why Asking to Discern Anicca?
 =================================
 
 :date: 2024-06-10
-:modified: 2024-07-09
+:modified: 2025-03-06
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Why Asking to Discern Anicca? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-07-09
+revised on 2025-03-06
 
 ------
 
-Dhamma Talks by Mogok Sayadaw; 9th July 1962
+Dhamma Talks by Mogok Sayadaw; 10th July 1962
 
 Not yet abandoned kilesa still arise for a stream enterer (sotāpanna). But his mindfulness (sati) always follows behind it. Concerning the khandha is craving for becoming – bhava-taṇhā (here refers to U Mya who is in the audience and talking about the practice). (on Sacca ñāṇa, Kicca ñāṇa and Kata ñāṇa, the way to stream entry). If you condense the five khandhas they become mind and form. Again condense mind and form to become rise and fall (anicca). Whatever you contemplate whether it’s mind or form, you have to discern aniccas. If you ask me – “We have to contemplate mind and form and again not to discern mind and form?” This is the straightforward instruction. (Then Sayadaw explains the reason for it.)
 
@@ -24,7 +24,7 @@ If you thoroughly understand their oppressive nature and with a non-desiring min
 
 ------
 
-revised on 2024-07-09
+revised on 2025-03-06
 
 ------
 
@@ -43,5 +43,6 @@ revised on 2024-07-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   07-09 proofread by bhante Uttamo
   2024-06-10 create rst, proofread by bhante Uttamo

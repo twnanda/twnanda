@@ -3,16 +3,16 @@ Everyone Is a Thief
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2025-03-06
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Everyone Is a Thief (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2025-03-06
 
 ------
 
-Dhamma Talks by Mogok Sayadaw; no date noted
+Dhamma Talks by Mogok Sayadaw; 19th March 1960
 
 Saṅkhāra dhamma is the five khandhas. The five khandhas are conditioning by others. They don’t have any quality or power of one’s own. The five khandhas are relying on others. The khandha arises with the four conditions of kamma, citta, utu, āhāra. Let’s put aside the four mind khandhas for just now. Form is conditioning by kamma. 
 
@@ -54,7 +54,7 @@ Taṇhā nirodho – the cessation of craving is also Nibbāna. (Sayadaw continu
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36327#p36327 (posted on 2019-04-16)
+revised on 2025-03-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36327#p36327 (posted on 2019-04-16)
 
 ------
 
@@ -73,5 +73,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   12-02 rev. proofread by bhante
   2019-04-30  create rst; post on 05-01

@@ -3,12 +3,12 @@ Unwise Attention and Sufferings
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-09-12
+:modified: 2025-03-06
 :tags: Unwise Attention, Sufferings, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Unwise Attention and Sufferings (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-09-12
+revised on 2025-03-06
 
 ------
 
@@ -30,7 +30,7 @@ The desire for asking is taint of sensuality (kāmāsava). Planes of jhanic exis
 
 All the taints are coming from unwise attention and ending up in dukkha sacca. With unwise attention and kilesa arises. Beings are doing actions with kilesa. They encounter ageing, sickness and death with actions and arriving to the planes of existence. Axle of taints is broken down and ends the problems with wise attention. Don’t follow the paths of smile and grimace. It can’t be free from ageing and death. 
 
-Noble beings (ariyas) can smile because they are free from ageing and death. They don’t have anything for the grimace and only have Saṁvega (for other living beings because they had direct experienced of dukkha sacca and the taste of Nibbāna). Because of unwise attention beings are wandering among the planes of existence. 
+Noble beings (ariyas) can smile because they are free from ageing and death. They don’t have anything for the grimace and only have Saṁvega for other living beings because they had direct experienced of dukkha sacca and the taste of Nibbāna. Because of unwise attention beings are wandering among the planes of existence. 
 
 In the Saṃyutta Nikāya (Khandhavagga), Ven. Mahākoṭṭhita asked Ven. Sāriputta “Someone has sīla and what should he do?” The answer was; he should have wise attention. Therefore whatever is arising and contemplate its impermanence and no taints arise. Contemplate the five khandhas as impermanent, suffering, disease, a tumour, a dart, misery, affliction, alien, disintegrating, empty and non-self (11 ways). 
 
@@ -42,7 +42,7 @@ The Path Knowledge is like a knife. It’s breaking down the axle of the taint. 
 
 ------
 
-revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35858#p35858 (posted on 2019-01-18)
+revised on 2025-03-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35858#p35858 (posted on 2019-01-18)
 
 ------
 
@@ -61,5 +61,6 @@ revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   09-12 rev. proofread by bhante
   2019-04-25  create rst; post on 04-28

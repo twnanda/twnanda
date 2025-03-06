@@ -3,12 +3,12 @@ Becoming and Eight Faults
 =============================================
 
 :date: 2020-12-30
-:modified: 2021-01-11
+:modified: 2025-03-06
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Becoming and Eight Faults (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-11
+revised on 2025-03-06
 
 ------
 
@@ -18,7 +18,7 @@ Dhamma Talks by Mogok Sayadaw; (no date)
 
 Rounds of existence—Saṃsāra birth, aging and death are going in a round continuously (i.e., jāti, jarā and maraṇa). Three or four bad things (plus vyādhi—sickness) are in a series which is called Saṃsāra. (Sayadaw talked about the simile of the great log) The saṃsāric traveller is like a great log. A yogi who has not attained Nibbāna is one who has never before contemplated with insight (vipassanā) on the six bases of internal sense, such as the eyes, ears and nose, etc. Having affection to them was like the log veers towards the near shore. You’ll not have affection to them if contemplating with insight. Then it’ll not veer on towards the near shore. Again, the yogi had affection for the six external sense objects of sight, sound, smell, etc. It was like the log veers towards the far shore.
 
-Sinking in the mid-stream is sunk by taṇhā-rāga (craving and lust). Getting cast up on high ground is mana—conceit or has conceit. It can continue to float in the stream of current by contemplating all of them with insight. Getting caught by human beings means don’t want to separate with family members and wealth (here Sayadaw referred to his audience. In the sutta the Buddha referred to monks.) After freeing from here getting caught by devatas—non-human beings. Before the realization of Nibbāna, you would have the aspiration and desire to enjoy the happiness of heavens and brahma worlds.
+Sinking in the mid-stream is sunk by taṇhā-rāga (craving and lust). Getting cast up on high ground is māna—conceit or has conceit. It can continue to float in the stream of current by contemplating all of them with insight. Getting caught by human beings means don’t want to separate with family members and wealth (here Sayadaw referred to his audience. In the sutta the Buddha referred to monks.) After freeing from here getting caught by devatas—non-human beings. Before the realization of Nibbāna, you would have the aspiration and desire to enjoy the happiness of heavens and brahma worlds.
 
 (Sayadaw made a lot of effort in many of his talks to change his audience’s wrong inspiration and desire or traditional mistaken ideas and views of common Buddhists. One of these is that many Buddhists make merits for the worldly happiness that they pray and inspire for these enjoyments before arriving at the Nibbāna.)
 
@@ -26,7 +26,7 @@ The log continues by floating down getting caught in a whirlpool. It was sucking
 
 ------
 
-revised on 2021-01-11
+revised on 2025-03-06
 
 ------
 
@@ -45,5 +45,6 @@ revised on 2021-01-11
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   2021-01-11 rev. proofread by bhante
   2020-12-30 create rst; post on 12-30

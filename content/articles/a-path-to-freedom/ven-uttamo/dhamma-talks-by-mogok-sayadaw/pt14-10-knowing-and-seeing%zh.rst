@@ -3,18 +3,18 @@ Knowing and Seeing
 ==========================================
 
 :date: 2024-03-27
-:modified: 2024-07-09
+:modified: 2025-03-06
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Knowing and Seeing (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-07-09
+revised on 2025-03-06
 
 ------
 
 Dhamma Talks by Mogok Sayadaw; 16th September 1961
 
-There are three reasons for the Buddha to give Dhamma talk: with request, without request, and depending on the situation. "Without request" is out of compassion and is unrelated to what is appropriate or inappropriate. Depending on the situation, it is, for example, a quarrel between relatives on both sides. Out of his loving-kindness (metta) and compassion (karuṇā) for all living beings, the Buddha revealed his teachings to the fools and the wise men in a non-requesting and adaptable way, so that they could be liberated from suffering (Dukkha). The Buddha had strong disgust to get another khandha. He was very glad and preferred not having a khandha. In the discourses (suttanta),  D.A. process is expressed in series or online. Actually, viññāṇa, nāma-rūpa, saḷāyatana, phassa and vedanā, all are arising together (in Abhidhamma). In the book it mentioned three kinds of feelings arise. This is knowing with learning ñatta-pariñña. The actual desire is contemplation (practise)-tīraṇa-pariñña. In direct experience only one kind of feeling arises. At the time of its arising you must know it. Only with tīraṇa-pariñña pahāna-pariñña will be possible (practice leads to realization).
+There are three reasons for the Buddha to give Dhamma talk: with request, without request, and depending on the situation. "Without request" is out of compassion and is unrelated to what is appropriate or inappropriate. Depending on the situation, it is, for example, a quarrel between relatives on both sides. Out of his loving-kindness (metta) and compassion (karuṇā) for all living beings, the Buddha revealed his teachings to the fools and the wise men in a non-requesting and adaptable way, so that they could be liberated from suffering (Dukkha). The Buddha had strong disgust to get another khandha. He was very glad and preferred not having a khandha. In the discourses (suttanta),  D.A. process is expressed in series or online. Actually, viññāṇa, nāma-rūpa, saḷāyatana, phassa and vedanā, all are arising together (in Abhidhamma). In the book it mentioned three kinds of feelings arise. This is knowing with learning ñāta-pariñña. The actual desire is contemplation (practise)-tīraṇa-pariñña. In direct experience only one kind of feeling arises. At the time of its arising you must know it. Only with tīraṇa-pariñña pahāna-pariñña will be possible (practice leads to realization).
 
 Phassa paccaya sukha, dukkha and upekkhā vedanās— Contact conditions pleasant, unpleasant and neutral feelings. You have to know it (arising) and also see it (contemplating). When the contemplating mind arises and it’s not there anymore (the arising vedanā). Why am I discussing this at the moment you are observing it, and it's not there anymore? Two kinds of feeling can’t be in parallel (can’t arise together). At the time of feeling, objects arising, the feeling of the contemplating mind can’t arise (contemplating knowledge-mind is always a neutral feeling— it’s good for contemplation on this point). vedanās are unable to be in parallel that only after the feeling object ceases, the contemplating knowledge or mind (vedanā) can arise. The vedanā object is anicca and the contemplating knowledge vedanā is Saṅkhāra (this also arises through conditioning). Observe anicca with Saṅkhāra. (contemplating the arising vedanā is from the heart (where it arises). Contemplate the arising anicca with new Saṅkhāra (the object is old Saṅkhāra). If the new Saṅkhāra also ceases can’t contemplate the object (i.e., the contemplating mind comes late). The reason is you can’t contemplate anicca with the anicca. The cessation is anicca and the arising is saṅkhāra. You have to contemplate with this saṅkhāra. Here is arising and at the time you contemplate it already ceases. With this cessation and this arising meet together.
 
@@ -44,7 +44,7 @@ He was a short-lived Buddha that left behind many Dhamma for us (this is the dif
 
 ------
 
-revised on 2024-07-09
+revised on 2025-03-06
 
 ------
 
@@ -63,6 +63,7 @@ revised on 2024-07-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   07-09 rev. proofread by bhante Uttamo
   06-09 rev. proofread by bhante Uttamo
   2024-03-27 create rst

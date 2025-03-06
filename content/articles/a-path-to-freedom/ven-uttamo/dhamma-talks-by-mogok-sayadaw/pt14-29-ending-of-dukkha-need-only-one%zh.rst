@@ -3,12 +3,12 @@ Ending of Dukkha; Need Only One
 ==========================================
 
 :date: 2024-03-27
-:modified: 2024-06-09
+:modified: 2025-03-06
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Ending of Dukkha; Need Only One (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-09
+revised on 2025-03-06
 
 ------
 
@@ -16,7 +16,7 @@ Dhamma Talks by Mogok Sayadaw; 19th to 20th December 1961
 
 Tape 1
 
-In the Rādha Sutta (SN 23:1), he asked the Buddha, "What is called the King of Death (Māra)?" The Buddha replied, "Form (rūpa) dhamma will kill you because you have to die as long as form exists. If you can contemplate the impermanence (anicca) of form as the king of death, that is beneficial; if you can't, it will kill you across many lives. If you can contemplate and lose interest in the king of death and its end, you have conquered the evil of 'khandha mara'—the evil of 'khandha'. Feeling (vedanā) is also the king of death, as are perception, mental formations, and consciousness (i.e., the other nāma khandhas of saññā, saṅkhāra, and viññāṇam)." 
+In the Rādha Sutta (SN 23:1), he asked the Buddha, "What is called the King of Death (Māra)?" The Buddha replied, "Form (rūpa) dhamma will kill you because you have to die as long as form exists. If you can contemplate the impermanence (anicca) of form as the king of death, that is beneficial; if you can't, it will kill you across many lives. If you can contemplate and lose interest in the king of death and its end, you have conquered the evil of 'khandha māra'—the evil of 'khandha'. Feeling (vedanā) is also the king of death, as are perception, mental formations, and consciousness (i.e., the other nāma khandhas of saññā, saṅkhāra, and viññāṇam)." 
 
 The five khandhas will kill someone who received them by prayers. Death from bodily stiffness is caused by the earth element (paṭhavī). 
 
@@ -44,11 +44,11 @@ Seeing the inconstant is insight knowledge, and seeing Nibbāna is path, fruit, 
 
 With the second and third path knowledge, the axle of kamāsava is totally broken down, and with the fourth path knowledge, bhavāsava and avijjāsava are broken down. Now, you all are complete with upanissayapaccayo—decisive support condition (having the three wholesome roots of non-greed, non-hatred, and non-delusion, i.e., Tihetuka Person, having the potential for enlightenment). For the liberation from the three rounds of existence—three vaṭṭa, try to do the Path Condition (maggapaccayo). You have enough 23 conditions and are only left with the Maggapaccayo. This point is very, very important!
 
-To give an example—an analogy—all food (23 conditions) is ready; you only need salt (Maggapaccayo)! (So don’t become a foolish Buddhist.)
+To give an example—an analogy—all foods (23 conditions) are ready; you only need salt (Maggapaccayo)! (So don’t become a foolish Buddhist.)
 
 ------
 
-revised on 2024-06-09
+revised on 2025-03-06
 
 ------
 
@@ -67,5 +67,6 @@ revised on 2024-06-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   06-09 rev. proofread by bhante Uttamo
   2024-03-27 create rst

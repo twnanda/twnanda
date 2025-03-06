@@ -3,12 +3,12 @@ More Fearful Than Five Heavy Kammas
 ================================================
 
 :date: 2024-06-10
-:modified: 2024-06-10
+:modified: 2025-03-06
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: More Fearful Than Five Heavy Kammas (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-10
+revised on 2025-03-06
 
 ------
 
@@ -40,11 +40,11 @@ The Buddha's use of similes, analogies, metaphors is for understanding and not t
 
 If the first candle light moves to the second candle, then the first candle light must cease. This demonstrates sassata diṭṭhi falling away. The same kind of light appears at the second candle. This demonstrates uccheda diṭṭhi falling away.
 
-Dana with no enrichment of insight (or support with insight knowledge) becomes inferior dāna. (from Aṅguttara Nikāya) A Vipassanā yogi with the discernment of anicca and no desire for anicca, with this kind of making dāna, will not acquire another khandha again. The Buddha taught various types of dāna, and the last one was dāna supporting with insight. Starting with insight and following with dāna is not wrong (or the best way which Mogok Sayadaw teaches people all the time.) At last, the Buddha encouraged the monks to teach the lay community about dispelling wrong views for them with reference to Anāthapiṇḍika (see the original sutta).
+Dāna with no enrichment of insight (or support with insight knowledge) becomes inferior dāna. (from Aṅguttara Nikāya) A Vipassanā yogi with the discernment of anicca and no desire for anicca, with this kind of making dāna, will not acquire another khandha again. The Buddha taught various types of dāna, and the last one was dāna supporting with insight. Starting with insight and following with dāna is not wrong (or the best way which Mogok Sayadaw teaches people all the time.) At last, the Buddha encouraged the monks to teach the lay community about dispelling wrong views for them with reference to Anāthapiṇḍika (see the original sutta).
 
 ------
 
-revised on 2024-06-10
+revised on 2025-03-06
 
 ------
 
@@ -63,4 +63,5 @@ revised on 2024-06-10
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   2024-06-10 create rst, proofread by bhante Uttamo

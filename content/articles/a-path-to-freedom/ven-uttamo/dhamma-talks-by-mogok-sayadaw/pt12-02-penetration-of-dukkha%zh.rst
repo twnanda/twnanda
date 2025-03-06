@@ -3,12 +3,12 @@ Penetration of Dukkha
 ==========================================
 
 :date: 2019-05-01
-:modified: 2021-03-26
+:modified: 2025-03-06
 :tags: Dukkha, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Penetration of Dukkha (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-03-26
+revised on 2025-03-06
 
 ------
 
@@ -18,7 +18,7 @@ The practice will be finished if you get the knowledge of knowing dukkha sacca b
 
 Dukkhas are in the way of one ceases and another one arises continuously like a windmill. It appears in the knowledge as dukkha is going on like a machine. If you want to contemplate form (rūpa) and just form; to contemplate the mind and just the mind; it ceases and arises one by one continuously like a machine. 
 
-At first dukkha machine is going on. And after that dukkha machine is stopping. Dukkha machine going on is seeking dukkha. After that dukkha stopping is seeing sukha. And then the doors to woeful planes are closed and enter the stream. 
+At first dukkha machine is going on. And after that dukkha machine is stopping. Dukkha machine going on is seeing dukkha. After that dukkha stopping is seeing sukha. And then the doors to woeful planes are closed and enter the stream. 
 
 If you have seen this kind of cessation four times, there is no more birth to come. You can make your own decision with the practice and no need to ask others about it; also no need to find a teacher. 
 
@@ -44,7 +44,7 @@ The nature of khandha only has the rising dukkha and the falling dukkha. It is g
 
 ------
 
-revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36311#p36310 (posted on 2019-04-13)
+revised on 2025-03-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36311#p36310 (posted on 2019-04-13)
 
 ------
 
@@ -63,6 +63,7 @@ revised on 2021-03-26; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   03-26 rev. proofread by bhante
   2021-03-16 rev. proofread by bhante
   07-10 post: 07-03 rev. the 3rd proofread by bhante

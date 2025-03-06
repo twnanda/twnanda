@@ -3,12 +3,12 @@ Perfection for Nibbāna
 =============================================
 
 :date: 2020-12-30
-:modified: 2021-01-11
+:modified: 2025-03-06
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Perfection for Nibbāna (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-11
+revised on 2025-03-06
 
 ------
 
@@ -18,11 +18,11 @@ Amata means deathless which is Nibbāna. The way or path to the deathless is the
 
 [This talk was based on a sutta in the Saṁyutta Nikāya, but Sayadaw did not mention its name.]
 
-You have to go straight and will arrive to the deathless. You encountered me this life because you had fulfilled your perfection (pāramī). Making wished for life existence was making prayers to die with feeling because at any time never lacking from feeling (i.e., vedanā, which is one of the five khandhas, is present momentarily.)
+You have to go straight and will arrive to the deathless. You encountered me this life because you had fulfilled your perfection (pāramī). Making wish for life existence was making prayers to die with feeling because at any time never lacking from feeling (i.e., vedanā, which is one of the five khandhas, is present momentarily.)
 
 Not knowing of dukkha sacca that beings prayed for vedanā.
 
-Making wished was taṇhā and what they got was the killer (khandha).
+Making wish was taṇhā and what they got was the killer (khandha).
 
 Nibbāna only attains by contemplating with magga sacca on the dukkha sacca. Contemplating on the arising and vanishing of phenomena is developing dukkha sacca. Come out from impermanence and arrive Nibbāna (the Buddha taught in Udāna Pāli). Not seeing impermanence is coming out from impermanence. 
 
@@ -42,7 +42,7 @@ Therefore, discerning of impermanence means one has the perfection that you have
 
 ------
 
-revised on 2021-01-11
+revised on 2025-03-06
 
 ------
 
@@ -61,5 +61,6 @@ revised on 2021-01-11
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   2021-01-11 rev. proofread by bhante
   2020-12-30 create rst; post on 12-30

@@ -3,12 +3,12 @@ Too Crazy / Burning Oneself with Fire
 ==========================================
 
 :date: 2024-03-27
-:modified: 2024-07-09
+:modified: 2025-03-06
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Too Crazy / Burning Oneself with Fire (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-09
+revised on 2025-03-06
 
 ------
 
@@ -26,13 +26,13 @@ Tape 2
 
 The fools who feed their khandha longer and longer lives are becoming worse and worse (i.e., increasing unwholesomeness— akusala). It is like increasing the flesh of a pig. What happens with the increment of the flesh? It'll be hit by the spear earlier. Here also the same if feeding the khandha with unwholesomeness will be hit by spears of apāyas. This is the way of feeding the khandha by fools. For the wise, they nourish the khandhas with wholesome qualities. By practicing the noble path with the khandhas, they can end suffering. It has the decisive support condition which sends to Nibbāna (upanissayapaccayo). There is no time limit for suffering in the apāyas. According to the Buddha these beings suffered according to their kammas, and no life span. Do not feed the khandha body for just one life's comfort.
 
-When the Buddha appeared, the 31 realm of existence were burning with fire. The khandha body of living beings is burning with the fire of ageing, sickness and death, and also in the heart (mind) burning with the fire of greed, hatred and delusion. Therefore, the khandha is with fuel and fire together. It always has two kinds of fire with it, the fire of permanent burning (ageing and sickness) fire and burning with changing fire (changing of kilesas). Therefore, it’s good to extinguish the khandha fire. The ignorant who pray for the next khandhas (rebirth) are like those who burn themselves by changing fire. (They will eventually suffer in samsara.) The khandha fire is burning with force and strength, but humans worry of its extinction by doing merits and demerits (kusala and akusala) and then this is putting more fuels in it. To accumulate merits by praying for the khandhas is like adding fuel to the fire before it extinguishes (burning continuously non-stop; eventually, the karmic fire will burn one's body).
+When the Buddha appeared, the 31 realm of existence were burning with fire. The khandha body of living beings is burning with the fire of ageing, sickness and death, and also in the heart (mind) burning with the fire of greed, hatred and delusion. Therefore, the khandha is with fuel and fire together. It always has two kinds of fire with it, the fire of permanent burning (ageing and sickness) fire and burning with changing fire (changing of kilesas). Therefore, it’s good to extinguish the khandha fire. The ignorant who pray for the next khandhas (rebirth) are like those who burn themselves by changing fire. (They will eventually suffer in saṃsāra.) The khandha fire is burning with force and strength, but humans worry of its extinction by doing merits and demerits (kusala and akusala) and then this is putting more fuels in it. To accumulate merits by praying for the khandhas is like adding fuel to the fire before it extinguishes (burning continuously non-stop; eventually, the karmic fire will burn one's body).
 
 Therefore, it is becoming far from Nibbāna where the eleven types of fire are extinguished. We have to finish or stop the work of adding fuels in it.
 
-You all have to do this under the power or arrangement of your master, taṇhā. Therefore, there are more wholesome and unwholesome under the power of taints—  āsavas. All these things (Dhamma) can be talked about only inside the Sāsana. Outside the Sāsana, humans are only doing the job of refueling the fire. Humans doing this outside the teaching is let it be, but it should not happen now with the Dhamma teachings existing. If you do merit with vivaṭṭa-kusala— that is to do merit with the desire to be "free from Dukkha". Khandha is like a bonfire and the one who puts fire-woods in is like a fire-worshiper (a Hindu belief). The Buddha saw this and asked the brahmin why he did it. His answer was, “I want to extinguish the Fire.”
+You all have to do this under the power or arrangement of your master, taṇhā. Therefore, there are more wholesome and unwholesome under the power of taints—  āsavas. All these things (Dhammas) can be talked about only inside the Sāsana. Outside the Sāsana, humans are only doing the job of refueling the fire. Humans doing this outside the teaching is let it be, but it should not happen now with the Dhamma teachings existing. If you do merit with vivaṭṭa-kusala— that is to do merit with the desire to be "free from Dukkha". Khandha is like a bonfire and the one who puts fire-woods in is like a fire-worshiper (a Hindu belief). The Buddha saw this and asked the brahmin why he did it. His answer was, “I want to extinguish the Fire.”
 
-[I don’t know in the Sutta this brahman would answer like this— maybe like this; “I am worried it’ll die out.” Fire worship is a reunion with the Creator. In the Buddhist sense it’s worshiping of kilesa fire, so it increases defilements. So, Sayadaw made a joke here. There was an interesting story about a fire worshiper. Near dying he saw a bonfire as a mind object, so he mentioned it to the brahmins beside his death-bed. They reminded him to incline his mind there which they took as Heaven. After the brahmin died fallen into Hell.]
+[I don’t know in the Sutta this brahman would answer like this— maybe like this; “I am worried it’ll die out.” Fire worship is a reunion with the Creator. In the Buddhist sense it’s worshiping of kilesa fire, so it increases defilements. So, Sayadaw made a joke here. There was an interesting story about a fire worshipper. Near dying he saw a bonfire as a mind object, so he mentioned it to the brahmins beside his death-bed. They reminded him to incline his mind there which they took as Heaven. After the brahmin died fallen into Hell.]
 
 Dakar Kywe! Why are you busy everyday? “Yes, Venerable,” (not give the answer). Sayadaw gave the answer; “I am worrying that the fire will go out.” (Upāsaka U Kywe was a textile owner who was a regular Dhamma listener, an old man and sitting in front of Sayadaw). The majority of people will say any kind of merit is good. Merits with round of existence are adding fire woods or fuels. Merits stopping the round of existence is extinguishing the fire. Who is burnt by adding fuels? It’ll burn yourself. If all of you don’t have the chance to listen to this kind of talk, you will take it as a traditional job. (i.e., merits and demerits). You have pleasure on this khandha that searching for woods (i.e., affection on the khandha). If you  recognize it as a bonfire, you will not search for it. Therefore, contemplation with insight to know the khandha as bonfire. With the contemplation you’ll find out the khandha is burnt up and perishing with birth and death fires (jāti and maraṇa).
 
@@ -40,7 +40,7 @@ At last, being enlightened by contemplation and not wanting it; then one will fi
 
 ------
 
-revised on 2024-07-09
+revised on 2025-03-06
 
 ------
 
@@ -59,6 +59,7 @@ revised on 2024-07-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   07-09 rev. proofread by bhante Uttamo
   06-09 rev. proofread by bhante Uttamo
   2024-03-27 create rst

@@ -3,12 +3,12 @@ The Paths of the Wise and the Fool
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-09-12
+:modified: 2025-03-06
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Paths of the Wise and the Fool (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-09-12
+revised on 2025-03-06
 
 ------
 
@@ -54,7 +54,7 @@ He reminded us quite very often to have mindfulness and clear comprehension in e
 
 So the Buddha was saying of he was too worry for us to open our eyes. Even it was better with a hot iron bar to poke your eye. (Unwholesome dhammas are burning and poisoning the six senses doors and their consequences are unthinkable. Now, many unwholesome media are harming human beings all the times. So we can see the Buddha’s worry and compassion.)
 
-It will never end since continuing to taṇhā, upādānaṁ and kamma and saṁsāra. After the seeing and wanting, clinging and action will come for many times. And with uncountable births arise. Lacking of sati and sampajāna (mindfulness and clear comprehension) is horrible. 
+It will never end since continuing to taṇhā, upādānaṁ and kamma and saṁsāra. After the seeing and wanting, clinging and action will come for many times. And with uncountable births arise. Lacking of sati and sampajañña (mindfulness and clear comprehension) is horrible. 
 
 So the Buddha had emphasized about it. Do you know how to open your eyes? You can’t open it accordingly to the tradition. Not knowing the truth is ignorance and saṅkhāra are following behind it. It can follow by the three D. A. processes with greed, hatred and delusion. These are the D. A. processes in the beginning, middle and end (see the twelve links of D. A.). 
 
@@ -64,7 +64,7 @@ Without a right teacher can’t be in the middle way. If the fools become fortun
 
 ------
 
-revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35854#p35854 (posted on 2019-01-18)
+revised on 2025-03-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35854#p35854 (posted on 2019-01-18)
 
 ------
 
@@ -83,5 +83,6 @@ revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   09-12 rev. proofread by bhante
   2019-04-24  create rst; post on 04-28

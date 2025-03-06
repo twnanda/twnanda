@@ -3,12 +3,12 @@ Khandha Hospital
 ==========================================
 
 :date: 2024-03-27
-:modified: 2024-07-30
+:modified: 2025-03-06
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Khandha Hospital (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-07-30
+revised on 2025-03-06
 
 ------
 
@@ -26,11 +26,11 @@ If you stay with samatha and vipassanā, you will not be pricked by thorns. You 
 In the discourse of the Simile of the Six Animals, the Buddha mentioned these thorns and continued to talk about the six animals. Only in physical and mental seclusion can one become safe. Upadhi-viveka only comes by attaining the Magga—path knowledge (seclusion from acquisitions). Staying away from the sense-objects is body seclusion. With the calm mind contemplating anicca is mind seclusion (not letting the mind go towards sense-objects). If you have wounds on the hand and go to touch the poison, you will die! Therefore, I have to warn you to not play around with them. It’s not easy to talk about these kinds of Dhamma. The nature of these Dhammas is not the same as the preferences of beings. The preferences or desires of beings are to be pricked with thorns (not small ones, the biggest and most poisonous ones, especially politicians and economists). Dhamma is free from dangers (i.e., Nibbāna, no other thing is really free).
 What the Buddha taught was right. You have to make the decision that all your preferences are wrong. If becoming citta-viveka, contemplate with insight. The six animals are from Saṃyutta and viveka is from the Aṅguttara. If it’s becoming upadhi-viveka you’ll never be pricked by thorns. Kaya-viveka → citta-viveka → vipassanā → upadhi-viveka (Khandhas vanish/magga). Khandha is the place where wounds and sores grow out. There is no khandha in upadhi-viveka (upadhi-viveka is equivalent to nibbāna.) If it disappears for five minutes, ten minutes, etc., there is no wound. Without the body there is no place for pricking. Therefore, in free times ariyas prefer to stay in fruitions (phalas). Only if you know these things, you prefer Nibbāna. Here, the fact that khandha is "rogato" (disease) becomes clear. This Khandha was like a Hospital with Patients (with many kinds of disease). Cessation of this Khandha is Nibbāna. Only you know that you have wounds and want to be freed from it. Now, you all know that you all have wounds. With practice and not wanting to stay with the big wounds, the path knowledge arises. Khandha is oppressive with no pity— Pīḷanaṭṭha and with 96 kinds of disease. It’ll oppress you with the sense objects of wounds. You have been oppressed with it because the khandha exists. So don’t include kammas in it. Then, upāsakas and upāsikas – “What is the most important thing for you?” (With no khandha existing, Venerable Sir.)
 
-You’ll see the khandha grows out with wounds in blips (i.e., discern anicca). Continue with the contemplation and become disenchanted with it. With this, khandha exists and Nibbāna is covered up. Ñāṇa (knowledge) is covered up with defilements (kilesa). And then the khandha (i.e., Dukkha Sacca) is covered up by Nibbāna. If you know thoroughly that khandha has wounds and you don't want them, then ñāṇa does not turn towards upādāna; instead, it turns towards no upādāna Nibbāna (here upādāna is Khandhas).
+You’ll see the khandha grows out with wounds in blips (i.e., discern anicca). Continue with the contemplation and become disenchanted with it. With this, khandha exists and Nibbāna is covered up. Ñāṇa (knowledge) is covered up with defilements (kilesa). And then the khandha (i.e., Dukkha Sacca) covered up Nibbāna. If you know thoroughly that khandha has wounds and you don't want them, then ñāṇa does not turn towards upādāna; instead, it turns towards no upādāna Nibbāna (here upādāna is Khandhas).
 
 ------
 
-revised on 2024-07-30
+revised on 2025-03-06
 
 ------
 
@@ -49,6 +49,7 @@ revised on 2024-07-30
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   07-30 rev. proofread by bhante Uttamo
   07-09 rev. proofread by bhante Uttamo
   06-09 rev. proofread by bhante Uttamo

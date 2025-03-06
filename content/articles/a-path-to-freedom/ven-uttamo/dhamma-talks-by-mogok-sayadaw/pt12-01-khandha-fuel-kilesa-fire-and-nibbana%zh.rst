@@ -3,12 +3,12 @@ Khandha Fuel, Kilesa Fire and Nibbāna
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2025-03-06
 :tags: Khandha, Kilesa, Nibbāna, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Khandha Fuel, Kilesa Fire and Nibbāna (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2025-03-06
 
 ------
 
@@ -24,7 +24,7 @@ Even they fall in love with saṅkhāra dukkha.) By feeding and looking after it
 
 You’re taking the fuel as a lump of gold. Khandha is like fuel and kilesa is fire. The eleven kinds of fire are encircling the khandha and burning with it. Thirty-one realms of existence are like big fire. Without the cessation of ignorance (avijjā), volitional formation (saṅkhāra) is as fuels as changing the realms of existence; and then burning with the fire of defilements.
 
-Only with the extinction of fuel, fire will have peace. If dukkha exists, and then sukha also must exist. It is because of not knowing how to go there that not arriving there. Taking pleasure in burning with fire is ignorant pleasure (nutty human beings). Practising insight is expelling the defilements hidden in the khandha. 
+Only with the extinction of fuel and fire, you will have peace. If dukkha exists, and then sukha also must exist. It is because of not knowing how to go there that not arriving there. Taking pleasure in burning with fire is ignorant pleasure (nutty human beings). Practising insight is expelling the defilements hidden in the khandha. 
 
 Then it’s the extinguisher (i.e., vipassanā) of the kilesa fire. Only by using the path of holy water that kilesa fire will die out. There must be a place existed with the fuel and fire are extinct. With fuel and fire together beings are wandering in the 31 realms of existence with shame and disadvantage. We are looking for bodies for the funeral invitations. 
 
@@ -38,7 +38,7 @@ The Buddha said; sabbe saṅkhāra anicca – therefore mind and body only have 
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36309#p36309 (posted on 2019-04-13)
+revised on 2025-03-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p=36309#p36309 (posted on 2019-04-13)
 
 ------
 
@@ -57,5 +57,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4371&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   12-02 rev. proofread by bhante
   2019-04-30  create rst; post on 05-01

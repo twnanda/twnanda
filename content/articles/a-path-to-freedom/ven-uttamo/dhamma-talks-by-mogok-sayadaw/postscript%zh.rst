@@ -3,12 +3,12 @@ Epilogue
 ===========================
 
 :date: 2020-12-30
-:modified: 2021-01-27
+:modified: 2025-03-06
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Epilogue (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-01-27
+revised on 2025-03-06
 
 ------
 
@@ -44,13 +44,13 @@ So the teaching chapters of the Buddha and the ancient sages are not easy to com
 
 If someone listened or read Sayadaw’s talks many times with contemplation, it would be for sure that he/she will become a genuine Buddhist and with its practice at least can discern anicca. If this translation can help someone in this direction or solving his difficulties and problems in the practice then it’s worthwhile for me to do the translation.
 
-May the Dharma live on!
+May the Dhamma live on!
 
-Sabbe satta sukhi hontu!
+Sabbe satta sukhita hontu!
 
 ------
 
-revised on 2021-01-27
+revised on 2025-03-06
 
 ------
 
@@ -69,6 +69,7 @@ revised on 2021-01-27
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   2021-01-27 proofread by bhante
   2021-01-11 rev. proofread by bhante; old title: Conclusion (Postscript)
   2020-12-30 create rst; post on 12-30

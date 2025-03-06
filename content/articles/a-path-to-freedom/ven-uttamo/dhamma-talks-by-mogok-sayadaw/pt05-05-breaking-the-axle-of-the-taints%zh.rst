@@ -3,12 +3,12 @@ Breaking the Axle of the Taints
 ==========================================
 
 :date: 2019-01-13
-:modified: 2021-07-28
+:modified: 2025-03-06
 :tags: taint, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Breaking the Axle of the Taints (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-07-28
+revised on 2025-03-06
 
 ------
 
@@ -93,7 +93,7 @@ The spokes are sometimes going up and down during the turning or moving (Dependi
 
 The outer wheel is moving accordingly to the axle. This is turning the round of existence—saṁsāra. Āsavasamudaya → avijjāsamudayo (From Saṃyutta Nikāya)—Taints lead to ignorance. Avijjā paccaya Saṅkhāra, Saṅkhāra paccaya jāti → jarā, maraṇa—Ignorance condition volitional formation → birth → aging and death. This is describing D. A. in short way. 
 
-By the revolving of the taint of craving/taṇhā (axle), the inner wheel of ignorance is turning. Because of ignorance, volition formation arises and spokes come into existence. And then it connects with birth, aging, and death. 
+By the revolving of the taint of craving/taṇhā (axle), the inner wheel of ignorance is turning. Because of ignorance, volitional formation arises and spokes come into existence. And then it connects with birth, aging, and death. 
 
 Therefore the Buddha warned us whatever offerings were made, one must remind about the destruction of the taints—āsavas. Idaṁ me puññaṁ āsavakkhayā vahaṁ hotu—may this merit for the destruction of the taints to me. Destruction of taints is Nibbāna. The destruction of taints is very important. Taints and ignorance are mutually connecting to each other. If one of them exists, the other also does. Taints have to be destroyed. 
 
@@ -106,7 +106,7 @@ There are three of them;
 
 If you break them (the axle) the wheel can’t move. The wandering round of existence (saṁsāra) can’t continue. The khandhas you get are foul or loathsome dukkha (asubha dukkha). In this situation you are adding more of the asubha dukkha of the loads of sons and daughters is very shameful indeed (to the ariyans’ eyes). 
 
-We are quite foolish and crazy people. We had coffins and sometimes not when we were wandering in saṁsāra sometime; sometime we had clothes and sometime not (As human beings and animals, mostly without any clothes and coffins to bury). 
+We are quite foolish and crazy people. We had coffins and sometimes not when we were wandering in saṁsāra; sometime we had clothes and sometime not (As human beings and animals, mostly without any clothes and coffins to bury). 
 
 Therefore we are wandering with shame and disadvantages. Let us do the job of breaking the axle. If we break the axle even though the whole wheel are connecting with it still can’t move on. The axle is greed and wrong view (lobha and diṭṭhi). Therefore taṇhā is more powerful than ignorance. We can only break the axle with the sword of the path (factors of the path). 
 
@@ -152,7 +152,7 @@ Therefore you have to cut it down with the Path Knowledge. Do the job of the pat
 
 ------
 
-revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35680#p35680 (posted on 2018-12-27)
+revised on 2025-03-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35680#p35680 (posted on 2018-12-27)
 
 ------
 
@@ -171,6 +171,7 @@ revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   2023-08-08 rev. replace filename with static to match "gramma"
   2021-07-28 rev. proofread by bhante
   08-13 rev. mogok-pt05-fig1-2.jpg-- proofread by bhante

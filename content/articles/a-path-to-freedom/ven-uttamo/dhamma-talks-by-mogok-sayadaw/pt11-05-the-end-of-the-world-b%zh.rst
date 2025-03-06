@@ -3,12 +3,12 @@ The End of the World (B)
 ==========================================
 
 :date: 2019-05-01
-:modified: 2019-12-02
+:modified: 2025-03-06
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The End of the World (B) (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-12-02
+revised on 2025-03-06
 
 ------
 
@@ -18,7 +18,7 @@ Dhamma Talks by Mogok Sayadaw; 28th October 1961
 
 Saṅkhāra loka is the khandhas arise by conditioning. Arising and vanishing moment to moment is loka. You’ll not arrive to Nibbāna with good kamma but with good knowledge. So it’s clear that Nibbāna is ñāṇa path. Kam path is to the 31 realms of existence. 
 
-There are three paths: kam path jhan path and ñāṇa path (Some short Burmese words came from the Pali language – kam=kamma, jhan=jhāna, ñāṇa=ñāṇa, etc). Kam path is the far cause. Jhan path is the near cause. Ñāṇa path is the direct path, the cause of sending there. (Kamma and jhāna are supporting cause and ñāṇa is producing cause to Nibbāna). 
+There are three paths: kam path jhan path and nyan path (Some short Burmese words came from the Pali language – kam=kamma, jhan=jhāna, nyan=ñāṇa, etc). Kam path is the far cause. Jhan path is the near cause. Nyan path is the direct path, the cause of sending there. (Kamma and jhāna are supporting cause and ñāṇa is producing cause to Nibbāna). 
 
 Human life span is short (now human life span is around 75 years. It will be degenerated to 10yrs in the far future; see the Cakkavatti Sīhanāda Sutta of Digha Nikāya, DN.26 Cakkavattisuttaṃ). You have to follow the ñāṇa path if you want to be quicker.
 
@@ -42,7 +42,7 @@ Nibbāna exists at the end of the khandha. Just following it and will arrive to 
 
 ------
 
-revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36284#p36284 (posted on 2019-04-12)
+revised on 2025-03-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p=36284#p36284 (posted on 2019-04-12)
 
 ------
 
@@ -61,5 +61,6 @@ revised on 2019-12-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4362&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   12-02 rev. proofread by bhante
   2019-04-30  create rst; post on 05-01

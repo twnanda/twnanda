@@ -3,12 +3,12 @@ Do Buddhists Have Wrong Views?
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-09-12
+:modified: 2025-03-06
 :tags: Wrong Views, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Do Buddhists Have Wrong Views? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-09-12
+revised on 2025-03-06
 
 ------
 
@@ -38,7 +38,7 @@ It can’t get the Path and Fruition Knowledges to practice with this wrong view
 
 He can’t correct it with wrong teacher. You may ask: Nothing is going there from here, then what is happening there? Is there nothing having any connection with here? It's the view of annihilation (uccheda diṭṭhi). It becomes fruitless after death by taking wholesome and unwholesome kammas which one has done. So after being free from sassata diṭṭhi, it becomes uccheda diṭṭhi again. It becomes uccheda diṭṭhi if taking the view of nothing is connection with here. It's very difficult to have right view without encountering with a good teacher. 
 
-I’ll help you to dispel uccheda diṭṭhi. Visākha died and her name and form (mind/body) were ceasing here. And similarity of name and form arose there by causes. The name and form from here caused the result of name and form to arise there. Nothing was followed there from this side.
+I’ll help you to dispel uccheda diṭṭhi. Visākha died and his name and form (mind/body) were ceasing here. And similarity of name and form arose there by causes. The name and form from here caused the result of name and form to arise there. Nothing was followed there from this side.
 
 The cause is not cut off. The name and form result another name and form, but not being followed there. It’s just connection between cause and effect and this is free from uccheda diṭṭhi. Combine together; ① It is free from sassata diṭṭhi that these name and form are not followed there. ② But they have connection between cause and effect connection, this is free from uccheda diṭṭhi.
 
@@ -50,7 +50,7 @@ You want to be cured when a sore grows on your hand. After the medical treatment
 
 ------
 
-revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35852#p35852 (posted on 2019-01-18)
+revised on 2025-03-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35852#p35852 (posted on 2019-01-18)
 
 ------
 
@@ -69,5 +69,6 @@ revised on 2019-09-12; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   09-12 rev. proofread by bhante
   2019-04-24  create rst; post on 04-28

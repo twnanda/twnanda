@@ -3,12 +3,12 @@ The Buddha’s View / Human’s Fires
 ======================================
 
 :date: 2024-06-10
-:modified: 2024-07-09
+:modified: 2025-03-06
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Buddha’s View / Human’s Fires (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-07-09
+revised on 2025-03-06
 
 ------
 
@@ -24,7 +24,7 @@ If you do not have any appreciation for Nibbāna, you will never practice. Even 
 
 (Actually, with the understanding of D.A process, the nature of Nibbāna is becoming clear.)
 
-Without paṭiccasamuppāda, there is no inclusion of Truth (sacca). With the cessation of samudaya comes nirodha – the cessation of dukkha. With the cessation of the cause (i.e., samudaya/craving) the result of dukkha ceases (i.e., the five khandhas), which is Nibbāna. This leads to the appreciation of Nibbāna. It’s quite a valuable Dhamma. (refer to Aggivacchagotta Sutta). Only with the understanding of D.A and truths (sacca) can one appreciate Nibbāna. And only with this understanding does diṭṭhi fall off. With the contemplation of anicca and taṇhā, upādāna ceases. With the cessation of taṇhā and upādāna, Nibbāna will appear.
+Without paṭiccasamuppāda, there is no inclusion of Truth (sacca). With the cessation of samudaya comes nirodha – the cessation of dukkha. With the cessation of the cause (i.e., samudaya/craving) the result of dukkha ceases (i.e., the five khandhas), which is Nibbāna. This leads to the appreciation of Nibbāna. It’s quite a valuable Dhamma. (refer to Aggivacchagotta Sutta). Only with the understanding of D.A and truths (sacca) can one appreciate Nibbāna. And only with this understanding does diṭṭhi fall off. With the contemplation of anicca, taṇhā, upādāna cease. With the cessation of taṇhā and upādāna, Nibbāna will appear.
 
 Buddhavāda → Contemplation of anicca (five khandhas) → the cessation of taṇhā, upādāna → the cessation of dukkha (nibbāna). 
 
@@ -34,7 +34,7 @@ If you’re praying for a human existence, you have to be burnt with human Fire 
 
 Note: Human beings have more diverse kinds of Fire than other beings. Therefore, the Buddha has to appear on Earth, and he can deliver many suttas for misguided men. The human realm is the best place to study defilements and to cultivate goodness. Only humans, who understand Dukkha, will develop goodness and wisdom.
 
-Eleven kinds of Fire are Fires (see the 11 kinds of fire in the First Discourse of Dukkha with the kilesa Fires of humans, there are a lot to be mentioned. With the material developments of science and technology, human’s Fires have become more developed and complicated.) Human khandhas and Fuels cannot be separated, and they are burning all the time (similar to the fire ghosts that Mahāmoggallāna encountered at Mt. Gijjhakūta). Therefore, where Khandha exists, Fires also exist. Thus, Nibbāna is the extinction of Fires and Fuels.
+Eleven kinds of Fire are Fires (see the 11 kinds of fire in the First Discourse of Dukkha with the kilesa Fires of humans, there are a lot to be mentioned. With the material developments of science and technology, human’s Fires have become more developed and complicated.) Human khandhas and Fires cannot be separated, and they are burning all the time (similar to the fire ghosts that Mahāmoggallāna encountered at Mt. Gijjhakūta). Therefore, where Khandha exists, Fires also exist. Thus, Nibbāna is the extinction of Fires and Fuels.
 
 With continuous contemplating, the khandha disappears—i.e., at the ending of aniccas, and no khandhas exist (objects of khandha disappeared). This means no Fuels and Fires exist. Therefore, for a contemplating person (yogi), seeing the Dhamma by himself. Nibbāna is sandiṭṭhiko—SEEING BY ONESELF, free from kilesa vaṭṭa and vipāka vaṭṭa (i.e., taṇhā, upādāna of sec. three and jāti of sec. 4). This signifies that the D.A process is cut off. With the cessation of the cause of paṭiccasamuppāda, the result is Nibbāna (sec. three and sec. 4). This is marked by the cessation of the three samudaya sacca and the five khandhas of dukkha sacca (sec. three and sec. 4).
 
@@ -65,7 +65,7 @@ Nowadays, these problems and sufferings are increasing in the 21st century from 
 
 ------
 
-revised on 2024-07-09
+revised on 2025-03-06
 
 ------
 
@@ -84,5 +84,6 @@ revised on 2024-07-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-03-06 rev. proofread by bhante
   07-09 proofread by bhante Uttamo
   2024-06-10 create rst, proofread by bhante Uttamo
