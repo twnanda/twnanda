@@ -2,7 +2,7 @@
 ################
 
 :date: 2016-02-14
-:modified: 2024-05-20
+:modified: 2025-03-11
 :slug: index
 :lang: zh
 :order: 1
@@ -96,7 +96,12 @@
   * `UNEXPECTED FREEDOM <{filename}/articles/uncategorized/paper-selected%zh.rst#unexpected-freedom>`_
     ([by AJAHN MUNINDO; `【意想不到的自由】 <{static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_]) 等等。
 
+  * `鄔達摩(Uttamo)長老出版品 <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo-han%zh.rst>`_
+
+
+
 ..
+  2025-03-11 add 鄔達摩(Uttamo)長老出版品
   2024-05-20 add attribute of order=1 & replace filename with static on image and html
   2023-09-16 add title del: 【新譯「尊者阿姜 曼傳」與「尊者阿姜 高傳」】相關訊息 open-distribution-the-biography-ven-acariya-mun
   2022-05-26 rev. 府城地區寺院、道場
