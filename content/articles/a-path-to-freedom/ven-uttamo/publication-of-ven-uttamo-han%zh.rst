@@ -13,7 +13,7 @@
 
 - 18天禪修營，尊者　 阿締佳嵐溪長老(Venerable U Ādiccaramsī Thera) 開示錄；由　尊者　 鄔達摩長老 　自緬甸語錄音帶譯為 `英文 <{filename}eighteen-days-in-solitude/content-of-eighteen-days-in-solitude%zh.rst>`__ ） （中文翻譯中） 
 
-- 《吉祥經》（Maṅgala Sutta，加持護佑，　尊者　鄔達摩長老 編著（ `英文 <{filename}protection-with-blessings/content-of-protection-with-blessings%zh.rst>`__ ）； `中譯文 (參考）<{static}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/mangala-uttamo-han-ref.html>`__ ； `PDF <https://github.com/twnanda/doc-pdf-etc/blob/3d2678e5d6ecbc474827ab962efc0313d3d1435b/pdf/mangala-han-ref.pdf>`__
+- 《吉祥經》（Maṅgala Sutta，加持護佑，　尊者　鄔達摩長老 編著（ `英文 <{filename}protection-with-blessings/content-of-protection-with-blessings%zh.rst>`__ ）； `中譯文 (參考） <{static}/extra/tipitaka/sutta/khuddaka/khuddaka-patha/mangala-uttamo-han-ref.html>`__ ； `中譯文 (參考）PDF <https://github.com/twnanda/doc-pdf-etc/blob/3d2678e5d6ecbc474827ab962efc0313d3d1435b/pdf/mangala-han-ref.pdf>`__
 
 - 銅板的兩面（Two Sides of A Coin），尊者 帖因古西亞多（Sayadaw U Ukkaṭṭha）開示錄；由　尊者　 鄔達摩長老 　自緬甸語錄音帶譯為 `英文 <{filename}dhamma-talks-by-ukkattha-and-candima-sayadaw/content-of-dhamma-talks-by-ukkattha%zh.rst>`__ （中文翻譯中）
 
