@@ -8,6 +8,12 @@
 :summary: 巴利《法句義注》Dhammapada-aṭṭhakathā 3. 心品 Cittavaggo
 
 
+- `目錄 <{filename}dhpA-content%zh.rst>`_ （巴利《法句義注》Dhammapada-aṭṭhakathā）
+
+- 偈頌部份可另參`多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap03%zh.rst>`_ 
+
+----
+
 - 3. 心品 Cittavaggo 目錄
 
 .. list-table:: 3. 心品
@@ -689,7 +695,7 @@ Soreyyattheravatthu
 
 ------
 
--偈頌部份可另參`多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst>`_ 
+- 偈頌部份可另參`多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap03%zh.rst>`_ 
 
 ----
 
@@ -697,9 +703,9 @@ Soreyyattheravatthu
 
 ----
 
-- `法句經首頁 <{filename}../dhp%zh.rst>`_ _
+- `法句經首頁 <{filename}../dhp%zh.rst>`__
 
-- `Tipiṭaka南傳大藏經;巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`_ _
+- `Tipiṭaka南傳大藏經;巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ----
 

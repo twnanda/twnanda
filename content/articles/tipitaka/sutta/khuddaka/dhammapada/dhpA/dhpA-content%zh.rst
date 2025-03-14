@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2025-02-27
-:modified: 2025-03-12
+:modified: 2025-03-14
 :tags: 法句義注, 法句經, Dhammapada-aṭṭhakathā, Dhammapada Aṭṭhakathā, DhpA, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapada, Dhammapadapāḷi, The Path of Dhamma
 :category: 巴利三藏小部
 :summary: 巴利《法句義注》Dhammapada-aṭṭhakathā 目錄
@@ -39,16 +39,16 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `7. Arahantavaggo (Dhp.90-99) <{filename}dhpA-chap07%zh.rst>`__ （以下幾品建構中！）
+   * - `7. Arahantavaggo (Dhp.90-99) <{filename}dhpA-chap07%zh.rst>`__
      - `8. Sahassavaggo (Dhp.100-115) <{filename}dhpA-chap08%zh.rst>`__ 
-     - `9. Pāpavaggo (Dhp.116-128) <{filename}dhpA-chap09%zh.rst>`__ 
+     - `9. Pāpavaggo (Dhp.116-128) <{filename}dhpA-chap09%zh.rst>`__  （以下幾品建構中！）
      - `10. Daṇḍavaggo (Dhp.129-145) <{filename}dhpA-chap10%zh.rst>`__ 
      - `11. Jarāvaggo (Dhp.146-156) <{filename}dhpA-chap11%zh.rst>`__ 
      - `12. Attavaggo (Dhp.157-166) <{filename}dhpA-chap12%zh.rst>`__
 
-   * - 7. 阿羅漢品 (The Arahat) （以下幾品建構中！）
+   * - 7. 阿羅漢品 (The Arahat) 
      - 8. 千品 (The Thousands)
-     - 9. 惡品 (Evil)
+     - 9. 惡品 (Evil) （以下幾品建構中！）
      - 10. 刀杖品 (Violence)
      - 11. 老品 (Old Age)
      - 12. 自己品 (The Self)
@@ -136,6 +136,7 @@ v1.2（2024.9.30）
 
 
 .. 
+  03-14 finish chapter 7 & chapter 8 (（巴利《法句義注》)
   03-12 finish chapter 5 & chapter 6 (（巴利《法句義注》)
   03-03 finish chapter 3 & chapter 4 (（巴利《法句義注》)
   03-02 finish chapter 2 (（巴利《法句義注》)

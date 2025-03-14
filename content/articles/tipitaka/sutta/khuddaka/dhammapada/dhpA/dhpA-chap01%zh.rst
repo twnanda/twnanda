@@ -10,8 +10,6 @@
 
 - `目錄 <{filename}dhpA-content%zh.rst>`_ （巴利《法句義注》Dhammapada-aṭṭhakathā）
 
-----
-
 - 偈頌部份可另參 `多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst>`_ 
 
 - 第一品　雙品目錄
@@ -2453,7 +2451,7 @@ Dvesahāyakabhikkhuvatthu
 
 --------------
 
--偈頌部份可另參`多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst>`_ 
+- 偈頌部份可另參`多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst>`_ 
 
 ----
 
@@ -2461,9 +2459,9 @@ Dvesahāyakabhikkhuvatthu
 
 ----
 
-- `法句經首頁 <{filename}../dhp%zh.rst>`_ _
+- `法句經首頁 <{filename}../dhp%zh.rst>`__
 
-- `Tipiṭaka南傳大藏經;巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`_ _
+- `Tipiṭaka南傳大藏經;巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ----
 

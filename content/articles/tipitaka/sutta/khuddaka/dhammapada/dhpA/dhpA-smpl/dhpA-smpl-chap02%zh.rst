@@ -8,6 +8,10 @@
 :summary: 巴利《法句义注》Dhammapada-aṭṭhakathā 2. 不放逸品 Appamādavaggo
 
 
+- 偈颂部份可另参`多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap02%zh.rst>`_ 
+
+----
+
 - 第 2 品：不放逸品 目录
 
 .. list-table:: 2. 不放逸品
@@ -1778,7 +1782,7 @@ Nigamavāsitissattheravatthu
 
 ------
 
--偈颂部份可另参`多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst>`_ 
+- 偈颂部份可另参`多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap02%zh.rst>`_ 
 
 ----
 

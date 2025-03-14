@@ -10,7 +10,7 @@
 
 - `目錄 <{filename}dhpA-content%zh.rst>`_ （巴利《法句義注》Dhammapada-aṭṭhakathā）
 
-- 偈頌部份可另參`多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap04%zh.rst>`_ 
+- 偈頌部份可另參`多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap06%zh.rst>`_ 
 
 ----
 
@@ -874,7 +874,7 @@ Pañcasataāgantukabhikkhuvatthu
 
 ----
 
-- 偈頌部份可另參`多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap05%zh.rst>`_ 
+- 偈頌部份可另參`多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap06%zh.rst>`_ 
 
 ----
 

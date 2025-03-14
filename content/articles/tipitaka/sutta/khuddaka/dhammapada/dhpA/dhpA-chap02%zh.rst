@@ -8,6 +8,13 @@
 :summary: 巴利《法句義注》Dhammapada-aṭṭhakathā 2. 不放逸品 Appamādavaggo
 
 
+
+- `目錄 <{filename}dhpA-content%zh.rst>`_ （巴利《法句義注》Dhammapada-aṭṭhakathā）
+
+- 偈頌部份可另參 `多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap02%zh.rst>`_ 
+
+----
+
 - 第 2 品：不放逸品 目錄
 
 .. list-table:: 2. 不放逸品
@@ -1667,7 +1674,7 @@ Maghavatthu
 
 從此以後，當[阿修羅世界的]質多羅巴答離樹開花了，阿修羅們[就想：]“我們的出生地天宮的晝度樹開花時節[到了]。”都登上天宮去打仗。
 
-帝釋在下面海裡任命了龍作為守衛，然後[其上面]是金翅鳥，然後[其上面]是甕睾鬼，然後[其上面]是夜叉，然後 [其上面]是四大天王。在所有的最上面，為了防範危難，則在天宮門口放置了一個手拿金剛杵的因陀羅天王 [90]_ 像。阿修羅們在打敗了龍等後，過來遠遠地看到因陀羅天王像[就以為]“帝釋出來了”，都紛紛逃走了。
+帝釋在下面海裡任命了龍作為守衛，然後[其上面]是金翅鳥，然後[其上面]是甕睾鬼，然後[其上面]是夜叉，然後 [其上面]是四大天王。在所有的最上面，為了防範危難，則在天宮門口放置了一個手拿金剛杵的因答天王 [90]_ 像。阿修羅們在打敗了龍等後，過來遠遠地看到因答天王像[就以為]“帝釋出來了”，都紛紛逃走了。
 
 摩訶利，年輕人馬喀就是這樣不放逸地行道。由於這樣不放逸他獲得了如此的統治權，成為兩個天界的天王。不放逸是佛陀等所稱讚的。一切的世間、出世間成就都依靠不放逸而成就，然後誦出了以下偈頌：
 
@@ -1778,7 +1785,7 @@ Nigamavāsitissattheravatthu
 
 ------
 
--偈頌部份可另參`多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst>`_ 
+- 偈頌部份可另參 `多版本對讀 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap02%zh.rst>`_ 
 
 ----
 
@@ -1786,9 +1793,9 @@ Nigamavāsitissattheravatthu
 
 ----
 
-- `法句經首頁 <{filename}../dhp%zh.rst>`_ _
+- `法句經首頁 <{filename}../dhp%zh.rst>`__
 
-- `Tipiṭaka南傳大藏經;巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`_ _
+- `Tipiṭaka南傳大藏經;巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ----
 

@@ -9,7 +9,7 @@
 
 
 
-- 偈颂部份可另参`多版本对读 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap04%zh.rst>`_ 
+- 偈颂部份可另参`多版本对读 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap05%zh.rst>`_ 
 
 ----
 
@@ -1292,7 +1292,7 @@ Vanavāsītissasāmaṇeravatthu
 
 ------
 
-- 偈颂部份可另参`多版本对读 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap04%zh.rst>`_ 
+- 偈颂部份可另参`多版本对读 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap05%zh.rst>`_ 
 
 ----
 

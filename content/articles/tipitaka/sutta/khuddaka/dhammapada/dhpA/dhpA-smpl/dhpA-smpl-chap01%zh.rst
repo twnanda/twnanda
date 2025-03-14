@@ -12,7 +12,9 @@
 
 ----
 
-- 偈颂部份可另参 `多版本对读 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst>`_ 
+- 偈颂部份可另参`多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst>`_ 
+
+----
 
 - 第一品　双品目录
 
@@ -2453,7 +2455,7 @@ Dvesahāyakabhikkhuvatthu
 
 --------------
 
--偈颂部份可另参`多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst>`_ 
+- 偈颂部份可另参`多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap01%zh.rst>`_ 
 
 ----
 
