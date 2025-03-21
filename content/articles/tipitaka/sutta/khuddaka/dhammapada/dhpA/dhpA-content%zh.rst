@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2025-02-27
-:modified: 2025-03-14
+:modified: 2025-03-21
 :tags: 法句義注, 法句經, Dhammapada-aṭṭhakathā, Dhammapada Aṭṭhakathā, DhpA, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapada, Dhammapadapāḷi, The Path of Dhamma
 :category: 巴利三藏小部
 :summary: 巴利《法句義注》Dhammapada-aṭṭhakathā 目錄
@@ -41,15 +41,15 @@
 
    * - `7. Arahantavaggo (Dhp.90-99) <{filename}dhpA-chap07%zh.rst>`__
      - `8. Sahassavaggo (Dhp.100-115) <{filename}dhpA-chap08%zh.rst>`__ 
-     - `9. Pāpavaggo (Dhp.116-128) <{filename}dhpA-chap09%zh.rst>`__  （以下幾品建構中！）
+     - `9. Pāpavaggo (Dhp.116-128) <{filename}dhpA-chap09%zh.rst>`__ 
      - `10. Daṇḍavaggo (Dhp.129-145) <{filename}dhpA-chap10%zh.rst>`__ 
      - `11. Jarāvaggo (Dhp.146-156) <{filename}dhpA-chap11%zh.rst>`__ 
      - `12. Attavaggo (Dhp.157-166) <{filename}dhpA-chap12%zh.rst>`__
 
    * - 7. 阿羅漢品 (The Arahat) 
      - 8. 千品 (The Thousands)
-     - 9. 惡品 (Evil) （以下幾品建構中！）
-     - 10. 刀杖品 (Violence)
+     - 9. 惡品 (Evil)
+     - 10. 棍杖品 (Violence)
      - 11. 老品 (Old Age)
      - 12. 自己品 (The Self)
 
@@ -57,14 +57,14 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `13. Lokavaggo (Dhp.167-178) <{filename}dhpA-chap13%zh.rst>`__
+   * - `13. Lokavaggo (Dhp.167-178) <{filename}dhpA-chap13%zh.rst>`__ （以下幾品建構中！）
      - `14. Buddhavaggo (Dhp.179-196) <{filename}dhpA-chap14%zh.rst>`__
      - `15. Sukhavaggo (Dhp.197-208) <{filename}dhpA-chap15%zh.rst>`__
      - `16. Piyavaggo (Dhp.209~220) <{filename}dhpA-chap16%zh.rst>`__
      - `17. Kodhavaggo (Dhp.221-234) <{filename}dhpA-chap17%zh.rst>`__
      - `18. Malavaggo (Dhp.235-255) <{filename}dhpA-chap18%zh.rst>`__
 
-   * - 13. 世品 (世間品 The World)
+   * - 13. 世品 (世間品 The World) （以下幾品建構中！）
      - 14. 佛陀品 (The Buddha)
      - 15. 樂品 (Happiness)
      - 16. 喜愛品 (Affection)
@@ -136,6 +136,7 @@ v1.2（2024.9.30）
 
 
 .. 
+  03-21 finish chapter 9, 10, 11 & chapter 12 (（巴利《法句義注》)
   03-14 finish chapter 7 & chapter 8 (（巴利《法句義注》)
   03-12 finish chapter 5 & chapter 6 (（巴利《法句義注》)
   03-03 finish chapter 3 & chapter 4 (（巴利《法句義注》)

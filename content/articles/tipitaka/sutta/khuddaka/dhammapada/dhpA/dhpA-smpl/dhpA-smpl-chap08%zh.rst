@@ -9,12 +9,9 @@
 
 
 
-- 偈颂部份可另参`多版本对读 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap08%zh.rst>`_ 
+- 偈颂部份可另参 `多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap08%zh.rst>`_ 
 
 ----
-
-- 7. 阿罗汉品 Arahantavaggo 目录
-
 
 - 8. 千品 Sahassavaggo 目录
 
@@ -1072,7 +1069,7 @@ bahuputtikattherīvatthu
 
 ------
 
-- 偈颂部份可另参`多版本对读 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap08%zh.rst>`_ 
+- 偈颂部份可另参 `多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap08%zh.rst>`_ 
 
 ----
 

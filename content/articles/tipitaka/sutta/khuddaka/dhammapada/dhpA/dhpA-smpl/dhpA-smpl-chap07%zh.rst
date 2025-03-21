@@ -9,7 +9,7 @@
 
 
 
-- 偈颂部份可另参`多版本对读 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap07%zh.rst>`_ 
+- 偈颂部份可另参 `多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap07%zh.rst>`_ 
 
 ----
 
@@ -542,7 +542,7 @@ Aññataraitthivatthu
 
 ------
 
-- 偈颂部份可另参`多版本对读 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap07%zh.rst>`_ 
+- 偈颂部份可另参 `多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap07%zh.rst>`_ 
 
 ----
 

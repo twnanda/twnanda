@@ -8,7 +8,7 @@
 :summary: 巴利《法句义注》Dhammapada-aṭṭhakathā 4. 华品 (花品) Pupphavaggo
 
 
-- 偈颂部份可另参`多版本对读 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap04%zh.rst>`_ 
+- 偈颂部份可另参`多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap04%zh.rst>`_ 
 
 ----
 
@@ -1389,7 +1389,7 @@ Garahadinnavatthu
 
 ------
 
-- 偈颂部份可另参`多版本对读 <{filename}../dhp-contrast-reading/dhp-contrast-reading-chap04%zh.rst>`_ 
+- 偈颂部份可另参 `多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap04%zh.rst>`_ 
 
 ----
 
