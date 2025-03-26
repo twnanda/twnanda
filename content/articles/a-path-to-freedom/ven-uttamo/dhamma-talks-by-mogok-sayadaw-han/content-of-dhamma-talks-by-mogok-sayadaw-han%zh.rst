@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2022-08-24
-:modified: 2025-01-19
+:modified: 2025-03-26
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 目錄（莫哥西亞多開示錄-- 空、有為及無為）
@@ -291,7 +291,8 @@ _`第 5 部` ( `第 5 部目錄 <{filename}pt05-content-of-part05-han%zh.rst>`_ 
 
 - 23.) 從地獄到永恆from-hell-to-eternity1961-05-14)
 
-_`第 6 部`
+
+_`第 6 部` ( `第 6 部目錄 <{filename}pt06-content-of-part06-han%zh.rst>`_ 、第 6 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part06-ref.html>`__ 、第 1 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part06-ref.pdf>`__ )
 
 - 1.) 臨終時的心the-mind-at-dying1961-05-29)
 
@@ -741,10 +742,23 @@ _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
 
 ------
 
-更新：西元 2025-01-19
+更新：西元 2025-03-26
 
 
 ..
+  03-26 add: 莫哥西亞多開示錄，第 6 部 (參考用譯文)
+  03-09 remark: excluded topic:
+        Part 2 7.) Bhikkhu Yamaka (1959-02-16 ~ 23)
+               8.) The Functional Knowledge of Change (1961-07-01)
+               10.) Concept, Reality and Nibbāna (1961-10-17)
+        Part 3 9.) The Four Taints (1959-12-04)
+               23.) The Burden of the Khandhas (1960-10-03)
+        Part 5 10.) Dukkha Exist and Dukkha Cease (1961-02-09 ~ 02-12)
+        Part 6 16.) Appreciation of Nibbāna (1961-08-18 ~ 08-19)
+        Part 7 13.) Dukkha and the End of Dukkha (1961-11-24)
+        Part 8 8.) With Tanhā and Māna to Nibbāna (1962-05-13)
+               9.) The Extension of Saṁsāra (1962-05-15)
+        Part 9 16.) Why Become Living Beings? (1962-10-09)
   01-19 add: 莫哥西亞多開示錄，第 1~5 部 (參考用譯文)
   01-17 add: pt02-01 ~ pt02-06 之草稿
   01-16 add: pt01-08 ~ pt01-12 之草稿

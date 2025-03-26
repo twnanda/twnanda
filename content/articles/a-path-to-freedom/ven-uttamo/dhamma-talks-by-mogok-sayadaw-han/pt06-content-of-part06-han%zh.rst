@@ -3,11 +3,18 @@
 ==============================
 
 :date: 2022-08-26
-:modified: 2022-08-28
+:modified: 2025-03-26
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 《莫哥西亞多開示錄-- 空、有為及無為》第 6 部目錄
 
+
+
+- 第 6 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part06-ref.html>`__ 、
+
+- 第 6 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part06-ref.pdf>`__
+
+---------------------
 
 本部開示錄待譯中！
 ~~~~~~~~~~~~~~~~~~~~~
@@ -77,5 +84,6 @@
 - 尊者 鄔達摩比丘出版品 `目錄 <{filename}../publication-of-ven-uttamo-han%zh.rst>`__
 
 ..
+  2025-03-26 add: 莫哥西亞多開示錄，第 6 部 (參考用譯文)
   08-28 del: 中譯者聲明 & 據英譯者—鄔達摩比丘交待 which moved on footer
   2022-08-26  create rst
