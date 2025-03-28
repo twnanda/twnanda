@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2022-08-24
-:modified: 2025-03-26
+:modified: 2025-03-28
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 目錄（莫哥西亞多開示錄-- 空、有為及無為）
@@ -350,7 +350,7 @@ _`第 6 部` ( `第 6 部目錄 <{filename}pt06-content-of-part06-han%zh.rst>`_ 
 
 - 28.) 靈性能力與涅槃 spiritual-faculties-and-nibbana1961-10-19)
 
-_`第 7 部`
+_`第 7 部` ( `第 7 部目錄 <{filename}pt07-content-of-part07-han%zh.rst>`_ 、第 7 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part07-ref.html>`__ 、第 7 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part07-ref.pdf>`__ )
 
 - 1.) 「苦」的創造者the-creators-of-dukkha1961-10-21)
 
@@ -410,7 +410,7 @@ _`第 7 部`
 
 - 29.) 有條件的（「有為」）和無條件的（「無為」） 29-conditioned-and-unconditioned1962-02-22)
 
-_`第 8 部`
+_`第 8 部` ( `第 8 部目錄 <{filename}pt08-content-of-part08-han%zh.rst>`_ 、第 8 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part08-ref.html>`__ 、第 8 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part08-ref.pdf>`__ )
 
 - 1.) 三言兩語three-worlds1962-02-15 ~21)
 
@@ -746,6 +746,7 @@ _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
 
 
 ..
+  03-28 add: 莫哥西亞多開示錄，第 7 & 8 部 (參考用譯文)
   03-26 add: 莫哥西亞多開示錄，第 6 部 (參考用譯文)
   03-09 remark: excluded topic:
         Part 2 7.) Bhikkhu Yamaka (1959-02-16 ~ 23)
