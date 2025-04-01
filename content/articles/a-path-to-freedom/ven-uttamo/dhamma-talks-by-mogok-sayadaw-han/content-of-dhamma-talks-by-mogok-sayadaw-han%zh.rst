@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2022-08-24
-:modified: 2025-03-28
+:modified: 2025-04-01
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 目錄（莫哥西亞多開示錄-- 空、有為及無為）
@@ -458,7 +458,7 @@ _`第 8 部` ( `第 8 部目錄 <{filename}pt08-content-of-part08-han%zh.rst>`_ 
 
 - 23.) 對《涅槃》的邪見wrong-view-on-nibbana1962-07-11, 12)
 
-_`第 9 部`
+_`第 9 部` ( `第 9 部目錄 <{filename}pt09-content-of-part09-han%zh.rst>`_ 、第 9 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part09-ref.html>`__ 、第 9 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part09-ref.pdf>`__ )
 
 - 1.) 錯誤知識的危險the-dangers-of-wrong-knowledge1962-07-31)
 
@@ -514,7 +514,7 @@ _`第 9 部`
 
 - 27.) 從無明到「智」from-ignorance-to-knowledge1960-12-12)
 
-_`第 10 部`
+_`第 10 部` ( `第 10 部目錄 <{filename}pt10-content-of-part10-han%zh.rst>`_ 、第 10 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part10-ref.html>`__ 、第 10 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part10-ref.pdf>`__ )
 
 - 1.) 中道the-middle-way1960-12-13)
 
@@ -560,7 +560,7 @@ _`第 10 部`
 
 - 22.) 論內觀智on-insight-knowledge1960-11-27)
 
-_`第 11 部`
+_`第 11 部` ( `第 11 部目錄 <{filename}pt11-content-of-part11-han%zh.rst>`_ 、第 11 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part11-ref.html>`__ 、第 11 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part11-ref.pdf>`__ )
 
 - 1.) 沒有閒工夫是用來受苦的no-free-time-is-for-sufferings1961-02-04)
 
@@ -742,10 +742,11 @@ _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
 
 ------
 
-更新：西元 2025-03-26
+更新：西元 2025-04-01
 
 
 ..
+  04-01 add: 莫哥西亞多開示錄，第 9 ~ 11 部 (參考用譯文)
   03-28 add: 莫哥西亞多開示錄，第 7 & 8 部 (參考用譯文)
   03-26 add: 莫哥西亞多開示錄，第 6 部 (參考用譯文)
   03-09 remark: excluded topic:
