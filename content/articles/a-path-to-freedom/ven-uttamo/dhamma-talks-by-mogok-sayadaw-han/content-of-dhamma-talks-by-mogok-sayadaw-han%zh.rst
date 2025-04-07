@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2022-08-24
-:modified: 2025-04-01
+:modified: 2025-04-08
 :tags: 莫哥西亞多, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄, 空、有為, 無為
 :category: path of nirvana
 :summary: 目錄（莫哥西亞多開示錄-- 空、有為及無為）
@@ -34,11 +34,11 @@
      - `第 11 部`_
      - `第 12 部`_
    * - `第 13 部`_
-     - 第 14 部
+     - `第 14 部`_
      - 第 15 部
      - 第 16 部
-     - 結語（第 13 部之後）
-   * - 附錄（第 13 部之後）
+     - `結語（第 13 部之後）`_
+   * - `附錄（第 13 部之後）`_
      - 跋（第 16 部之後）
      - 機會與責任（附錄）（第 16 部分之後）
      - 佛法反思：選擇與機會 （第 16 部分之後）
@@ -616,7 +616,7 @@ _`第 11 部` ( `第 11 部目錄 <{filename}pt11-content-of-part11-han%zh.rst>`
 
 - 27.) 卑鄙和高尚的探索ignoble-and-noble-searches
 
-_`第 12 部`
+_`第 12 部` ( `第 12 部目錄 <{filename}pt12-content-of-part12-han%zh.rst>`_ 、第 12 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part12-ref.html>`__ 、第 12 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part12-ref.pdf>`__ )
 
 - 1.) 「蘊 Khandha」燃料、「雜染 Kilesa」火和涅槃khandha-fuel-kilesa-fire-and-nibbana
 
@@ -664,7 +664,7 @@ _`第 12 部`
 
 - 23.) 時間的超越transcending-of-time
 
-_`第 13 部`
+_`第 13 部` ( `第 13 部目錄 <{filename}pt13-content-of-part13-han%zh.rst>`_ 、第 13 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part13-ref.html>`__ 、第 13 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part13-ref.pdf>`__ )
 
 - 1.) 真正的救世主the-real-saviour1961-07-28)
 
@@ -732,6 +732,85 @@ _`第 13 部`
 
 - 33.) 最危險的敵人
 
+_`結語（第 13 部之後）` ( 結語（第 13 部之後） `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-postscript-after-Part13-ref.html>`__ 、結語（第 13 部之後） `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-postscript-after-Part13-ref.pdf>`__ )
+
+_`附錄（第 13 部之後）` ( 附錄（第 13 部之後） `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-appendix-after-Part13-ref.html>`__ 、附錄（第 13 部之後） `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-appendix-after-Part13-ref.pdf>`__ )
+
+
+_`第 14 部` ( `第 14 部目錄 <{filename}pt14-content-of-part14-han%zh.rst>`_ 、第 14 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part14-ref.html>`__ 、第 14 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part14-ref.pdf>`__ )
+
+- 1.) 真正的皈依-2 (True Refuge-2)
+
+- 2.) 你是愚者還是智者？ (Are You the Fool or the Wise?)
+
+- 3.) 熄滅地獄之火 (Extinguish the Hell Fire)
+
+- 4.) 被火吞噬之鬼 (A Fire Ghost)
+
+- 5.) 祈求再次變成為狗 (Praying to Become Dogs Again)
+
+- 6.) 正念的三個步驟 (Three Steps of Mindfulness)
+
+- 7.) 佛教徒與非佛教徒 (Buddhist and Non-Buddhist)
+
+- 8.) 如何使用鏡子？／盲人 (How to Use the Mirror? / Blind People)
+
+- 9.) 太瘋狂了／以火自焚 (Too Crazy / Burning Oneself with Fire)
+
+- 10.) 知與見 (Knowing and Seeing)
+
+- 11.) 比原子彈還可怕 (Worse Than an Atomic Bomb)
+
+- 12.) 法就在五蘊中 (Dhamma Is in the Khandha)
+
+- 13.) 為何這麼多苦難？ (Why So Much Sufferings?)
+
+- 14.) 正法與邪法 (Noble Dhamma and Wrong Dhamma)
+
+- 15.) 為何尚未證悟？ (Why No Realization?)
+
+- 16.) 每位佛教徒都應知曉 (Every Buddhist Should Know)
+
+- 17.) 認識自己的重要性 (Importance of Knowing Oneself)
+
+- 18.) 對業力與苦諦的信心 (Faith in Kamma and Dukkha Sacca)
+
+- 19.) 時時刻刻都在死亡 (Dying All The Time)
+
+- 20.) 世人以苦為樂 (Humans Take Dukkha as Sukha)
+
+- 21.) 從黑暗走向光明 (Darkness to Light)
+
+- 22.) 法是創造者 (Dhamma Is The Creator)
+
+- 23.) 從無明走向智慧 (Ignorance to Knowledge)
+
+- 24.) 有六位主人的奴隸 (A Slave with Six Masters)
+
+- 25.) 如何提問？ (How to Ask Questions?)
+
+- 26.) 五蘊醫院 (Khandha Hospital)
+
+- 27.) 無用且令人厭惡的五蘊 (Useless and Disgusting Khandha)
+
+- 28.) 世界上的瘋子們 (Lunatics of the World)
+
+- 29.) 苦的止息；只需一法 (Ending of Dukkha; Need Only One)
+
+- 30.) 眾生之壓迫者 (The Oppressor of Beings)
+
+- 31.) 世人尋找不可靠之物 (Humans Looking for Unreliable)
+
+- 32.) 眼盲心穢的凡夫 (Worldlings with Wrong Eyes and Defiled Minds)
+
+- 33.) 我們的大錯 (Our Great Mistake)
+
+- 34.) 患病之身 (A Diseased Body)
+
+- 35.) 關於五蓋 (On the Five Hindrances)
+
+- 36.) 五種稀有法 (The Five Rarities)
+
 ----
 
 _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
@@ -742,10 +821,10 @@ _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
 
 ------
 
-更新：西元 2025-04-01
-
+更新：西元 2025-04-08
 
 ..
+  04-08 add: 莫哥西亞多開示錄，第 12 ~ 14 部 (參考用譯文)
   04-01 add: 莫哥西亞多開示錄，第 9 ~ 11 部 (參考用譯文)
   03-28 add: 莫哥西亞多開示錄，第 7 & 8 部 (參考用譯文)
   03-26 add: 莫哥西亞多開示錄，第 6 部 (參考用譯文)
