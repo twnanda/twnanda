@@ -10,83 +10,88 @@
 
 
 
+- 第 16 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part16-ref.html>`__ 、
+
+- 第 16 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part15-ref.pdf>`__
+
+---------------------
+
 本部開示錄待譯中！
 ~~~~~~~~~~~~~~~~~~~~~
 
+- 1.) 正確的知覺、知見與觀察 (Right Perception, Knowing and Viewing)
 
-_`Part 16`
+- 2.) 快速斷除渴愛之道 (The Quickest Way to End Taṇhā)
 
-- 1.) 
+- 3.) 善知識的重要性 (The Importance of Spiritual Friend)
 
-- 2.) 
+- 4.) 苦從何來？ (Where Is Dukkha Coming from?)
 
-- 3.) 
+- 5.) 最大的敵人 (The Greatest Enemy)
 
-- 4.) 
+- 6.) 毒樹 (The Poisonous Tree)
 
-- 5.) 
+- 7.) 邪見與惡趣 (Diṭṭhi and Apāyas)
 
-- 6.) 
+- 8.) 行為之道與智慧之道 (The Paths of Action and Knowledge)
 
-- 7.) 
+- 9.) 樂少而苦多 (With Little Pleasure And Too Much Dukkha)
 
-- 8.) 
+- 10.) 被心所欺騙 (Deceiving by The Mind)
 
-- 9.) 
+- 11.) 觀心 (Contemplation of Mind)
 
-- 10.) 
+- 12.) 樂於苦 (Happy with Dukkha)
 
-- 11.) 
+- 13.) 五蘊與涅槃之差異 (Differences between Khandha and Nibbāna)
 
-- 12.) 
+- 14.) 以五蘊作抉擇 (Making Decision with The Khandha)
 
-- 13.) 
+- 15.) 非為誦念，乃為實修 (Not for Chanting but for Practice)
 
-- 14.) 
+- 16.) 有價值與無價值 (Worthless and Worthy)
 
-- 15.) 
+- 17.) 關於五蓋 (On the Hindrances)
 
-- 16.) 
+- 18.) 使業不再結果 (Making Kammas Becoming Fruitless)
 
-- 17.) 
+- 19.) 等待災難 (Waiting for Dangers)
 
-- 18.) 
+- 20.) 救度自身的重要性 (The Importance of Saving Oneself)
 
-- 19.) 
+- 21.) 帶著邪見而死 (Die with Wrong Views)
 
-- 20.) 
+- 22.) 五蘊之中有何物？ (What Is in the Khandha?)
 
-- 21.) 
+- 23.) 四種危險 (The Four Dangers)
 
-- 22.) 
+- 24.) 為了止息「有」而修 (For the Cessation of Existence)
 
-- 23.) 
+- 25.) 增長苦的法 (Dhamma Increasing of Dukkha)
 
-- 24.) 
+- 26.) 最可怕的事 (The Most Fearful Thing)
 
-- 25.) 
+- 27.) 佛陀教法的精髓 (The Essence of the Buddha Sāsana)
 
-- 26.) 
+- 28.) 五蘊的主人 (The Owner of the Khandha)
 
-- 27.) 
+- 29.) 通往涅槃的正道 (On the Main Road to Nibbāna)
 
-- 28.) 
+- 30.) 隨智慧觀照五蘊 (Following the Khandha with Knowledge)
 
-- 29.) 
+- 31.) 永久與暫時的居所 (Permanent and Temporary Homes)
 
-- 30.) 
+- 32.) 為何不見涅槃？ (Why Not See Nibbāna?)
 
-- 31.) 
+- 33.) 不是你的 (Not Yours)
 
-- 32.) 
+- 34.) 海洋永不乾涸 (The Oceans Never Dry)
 
-- 33.) 
+- 35.) 論邪見與疑 (On Wrong View and Doubt)
 
-- 34.) 
+- 36.) 誰創造了苦？ (Who Created Dukkha?)
 
-- 35.) 
-
-- 36.) 
+- 37.) 入流者的本質 (Nature of Stream Enterer)
 
 ------
 
@@ -98,9 +103,3 @@ _`Part 16`
 
 ..
   2025-04-08 add: 參考用譯文; 04-07 create rst
-
-      - 第 16 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part16-ref.html>`__ 、
-
-      - 第 16 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part15-ref.pdf>`__
-
-      ---------------------

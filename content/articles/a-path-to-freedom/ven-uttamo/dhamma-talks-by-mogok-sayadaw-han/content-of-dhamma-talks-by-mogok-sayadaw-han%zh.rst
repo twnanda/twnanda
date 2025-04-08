@@ -35,13 +35,13 @@
      - `第 12 部`_
    * - `第 13 部`_
      - `第 14 部`_
-     - 第 15 部
-     - 第 16 部
+     - `第 15 部`_
+     - `第 16 部`_
      - `結語（第 13 部之後）`_
    * - `附錄（第 13 部之後）`_
-     - 跋（第 16 部之後）
-     - 機會與責任（附錄）（第 16 部分之後）
-     - 佛法反思：選擇與機會 （第 16 部分之後）
+     - `跋（第 16 部之後）`_
+     - `機會與責任（附錄）（第 16 部分之後）`_
+     - `佛法反思：選擇與機會 （第 16 部分之後）`_
      - `關於英譯者`_ 
    * - `翻譯手稿 <{filename}../dhamma-talks-by-mogok-sayadaw/translation-manuscript%zh.rst>`__ )
      - 
@@ -811,6 +811,183 @@ _`第 14 部` ( `第 14 部目錄 <{filename}pt14-content-of-part14-han%zh.rst>`
 
 - 36.) 五種稀有法 (The Five Rarities)
 
+
+_`第 15 部` ( `第 15 部目錄 <{filename}pt15-content-of-part15-han%zh.rst>`_ 、第 15 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part15-ref.html>`__ 、第 15 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part15-ref.pdf>`__ )
+
+- 1.) 人為之苦 (Sufferings Made by Humans)
+
+- 2.) 人類自身的財產 (Humans’ Own Properties)
+
+- 3.) 處事之道 (On Ways of Undertaking Things)
+
+- 4.) 如何面對痛苦？ (How to React Pain?)
+
+- 5.) 未來人類與業 (On Future Humans and Kammas)
+
+- 6.) 味覺貪欲之危險 (Dangers of Craving for Taste)
+
+- 7.) 熄滅你的地獄之火 (Extinguish Your Hell Fire)
+
+- 8.) 人類對五蘊與渴愛的愛戀 (Humans Love for Khandha and Taṇhā)
+
+- 9.) 越是動搖，越是沉淪 / 渴愛越大，地獄鑊鼎越大 (With More Wavering and More Sinking / With Big Taṇhā Comes Big Cauldron)
+
+- 10.) 善用六根門 (Using the Sense Doors Wisely)
+
+- 11.) 愛戀痛苦者不得涅槃 (Whoever Loves Dukkha Not Attain Nibbāna)
+
+- 12.) 盲者與跛者 (Blind and Disable Person)
+
+- 13.) 愚者與壓迫者 (The Fool and the Oppressor)
+
+- 14.) 安全為先，享樂在後 (Safety First; Let Pleasures Come Later)
+
+- 15.) 屍體堆積如山 (With Corpses Piling Up)
+
+- 16.) 比五逆重罪更可怕 (More Fearful Than Five Heavy Kammas)
+
+- 17.) 知法即知佛 (Knowing Dhamma Is Knowing the Buddha)
+
+- 18.) 樂於受壓迫的五蘊 (Happy with the Oppressive Khandha)
+
+- 19.) 失去智慧 (The Lost of Knowledge)
+
+- 20.) 莫浪費你們的時光 (Don’t Waste Your Times)
+
+- 21.) 涅槃的存在／邪見與貪愛 (The Existence of Nibbāna / Diṭṭhi and Taṇhā)
+
+- 22.) 內觀並不困難；別讓你的蘊身與愛相隨 (Vipassanā Is Easy; Don’t Let Your Khandhas Consort with Taṇhā)
+
+- 23.) 為何要觀無常？ (Why Asking to Discern Anicca?)
+
+- 24.) 人類對貪、欣喜、愛染的慾望 (Humans Lust for Taṇhā, Nandi, Rāga)
+
+- 25.) 與無明和行共存的生活 / 與小苦和大苦共存 (A Life with Avijjā and Saṅkhāra / Living with Small and Big Dukkhas)
+
+- 26.) 放逸的巨大過失 (The Great Fault of Heedlessness)
+
+- 27.) 無空閒即是修行 (No Free Times is Bhāvanā)
+
+- 28.) 輪迴的意義 (The Meaning of Saṁsāra)
+
+- 29.) 為何未見涅槃？ (Why Not See Nibbāna?)
+
+- 30.) 苦諦與苦受 (Dukkha Sacca and Dukkha Vedanā)
+
+- 31.) 太瘋狂了 (Too Crazy)
+
+- 32.) 被衰老和死亡碾壓 (Crushing by Ageing and Death)
+
+- 33.) 真正的父親和母親 (The Real Father and Mother)
+
+- 34.) 調伏的心與未調伏的心 (A Tame Mind and Untame Mind)
+
+- 35.) 短暫造訪人間 (A Short Visit to Human Realm)
+
+- 36.) 母親與老師所賜之眼 (The Eyes by Mother and Teacher)
+
+- 37.) 以智慧為導 (Leading by Wisdom)
+
+- 38.) 對涅槃的錯誤見解 (Wrong Views on Nibbāna)
+
+- 39.) 被狗咬傷 (Bitten by Dogs) 
+
+- 40.) 無常的巨大益處 (The Great Benefit of Anicca)
+
+- 41.) 邪法與正法 (The Crooked Dhamma and the Straight Dhamma)
+
+- 42.) 五蘊列車與人生車站 (Khandha Train and Life Stations)
+
+- 43.) 佛陀的見解／人類的火焰 (The Buddha’s View / Human’s Fires) 
+
+- 44.) 兩種佛法之光 (Two Dhamma Lights) 
+
+
+_`第 16 部` ( `第 16 部目錄 <{filename}pt16-content-of-part16-han%zh.rst>`_ 、第 16 部 `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part16-ref.html>`__ 、第 16 部 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-part16-ref.pdf>`__ )
+
+
+- 1.) 正確的知覺、知見與觀察 (Right Perception, Knowing and Viewing)
+
+- 2.) 快速斷除渴愛之道 (The Quickest Way to End Taṇhā)
+
+- 3.) 善知識的重要性 (The Importance of Spiritual Friend)
+
+- 4.) 苦從何來？ (Where Is Dukkha Coming from?)
+
+- 5.) 最大的敵人 (The Greatest Enemy)
+
+- 6.) 毒樹 (The Poisonous Tree)
+
+- 7.) 邪見與惡趣 (Diṭṭhi and Apāyas)
+
+- 8.) 行為之道與智慧之道 (The Paths of Action and Knowledge)
+
+- 9.) 樂少而苦多 (With Little Pleasure And Too Much Dukkha)
+
+- 10.) 被心所欺騙 (Deceiving by The Mind)
+
+- 11.) 觀心 (Contemplation of Mind)
+
+- 12.) 樂於苦 (Happy with Dukkha)
+
+- 13.) 五蘊與涅槃之差異 (Differences between Khandha and Nibbāna)
+
+- 14.) 以五蘊作抉擇 (Making Decision with The Khandha)
+
+- 15.) 非為誦念，乃為實修 (Not for Chanting but for Practice)
+
+- 16.) 有價值與無價值 (Worthless and Worthy)
+
+- 17.) 關於五蓋 (On the Hindrances)
+
+- 18.) 使業不再結果 (Making Kammas Becoming Fruitless)
+
+- 19.) 等待災難 (Waiting for Dangers)
+
+- 20.) 救度自身的重要性 (The Importance of Saving Oneself)
+
+- 21.) 帶著邪見而死 (Die with Wrong Views)
+
+- 22.) 五蘊之中有何物？ (What Is in the Khandha?)
+
+- 23.) 四種危險 (The Four Dangers)
+
+- 24.) 為了止息「有」而修 (For the Cessation of Existence)
+
+- 25.) 增長苦的法 (Dhamma Increasing of Dukkha)
+
+- 26.) 最可怕的事 (The Most Fearful Thing)
+
+- 27.) 佛陀教法的精髓 (The Essence of the Buddha Sāsana)
+
+- 28.) 五蘊的主人 (The Owner of the Khandha)
+
+- 29.) 通往涅槃的正道 (On the Main Road to Nibbāna)
+
+- 30.) 隨智慧觀照五蘊 (Following the Khandha with Knowledge)
+
+- 31.) 永久與暫時的居所 (Permanent and Temporary Homes)
+
+- 32.) 為何不見涅槃？ (Why Not See Nibbāna?)
+
+- 33.) 不是你的 (Not Yours)
+
+- 34.) 海洋永不乾涸 (The Oceans Never Dry)
+
+- 35.) 論邪見與疑 (On Wrong View and Doubt)
+
+- 36.) 誰創造了苦？ (Who Created Dukkha?)
+
+- 37.) 入流者的本質 (Nature of Stream Enterer)
+
+_`跋（第 16 部之後）` （ `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-postscript-after-Part16-ref.html>`__ 、 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-postscript-after-Part16-ref.pdf>`__ )
+
+
+_`機會與責任（附錄）（第 16 部分之後）` （ `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-appendix-after-Part16-ref.html>`__ 、 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-appendix-after-Part16-ref.pdf>`__ )
+
+
+_`佛法反思：選擇與機會 （第 16 部分之後）` （ `參考用譯文 <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-dhamma-reflection-choice-and-chance-after-part16-ref.html>`__ 、 `參考用譯文 PDF <http://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/han/Dhamma_Talks_by_Mogok_Sayadaw-dhamma-reflection-choice-and-chance-after-part16-ref.pdf>`__ ) 
+
 ----
 
 _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
@@ -824,6 +1001,7 @@ _`關於英譯者`: 請 `點此 <{filename}about-the-translator-han%zh.rst>`_
 更新：西元 2025-04-08
 
 ..
+  04-08 add: 莫哥西亞多開示錄，第 15 ~ 16 部, 跋, 機會與責任（附錄）, 佛法反思：選擇與機會  (參考用譯文)
   04-08 add: 莫哥西亞多開示錄，第 12 ~ 14 部 (參考用譯文)
   04-01 add: 莫哥西亞多開示錄，第 9 ~ 11 部 (參考用譯文)
   03-28 add: 莫哥西亞多開示錄，第 7 & 8 部 (參考用譯文)
