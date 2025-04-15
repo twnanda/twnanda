@@ -3,12 +3,12 @@ Dukkha Exists and Dukkha Ceases
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-07-25
+:modified: 2025-04-15
 :tags: dukkha, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Dukkha Exists and Dukkha Ceases (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-07-25
+revised on 2025-04-15
 
 ------
 
@@ -28,7 +28,7 @@ They are arising and passing away that have to take it as dukkha (born and die a
 
 (Every mind at least has the seven universal mental factors together with it. See the Abhidhamma, especially the conditional Relations—Paṭṭhāna). Therefore, it’s the assemblage of dukkha and neither a person nor a being. From birth to death is the process of dukkha. Ven. Anurādha was discerning impermanence but he couldn’t realize Nibbāna because he was hindered by wrong view.
 
-Whatever arising is dukkha sacca and without dispel wrong view like this, the contemplation will not lead to the realization of Nibbāna. From the six senses doors whatever arises is only the assemblage of dukkha arising. 
+Whatever arising is dukkha sacca and without dispel wrong view like this, the contemplation will not lead to the realization of Nibbāna. From the six sense doors whatever arises is only the assemblage of dukkha arising. 
 
 By knowing in this way, wrong view falls away. After that, comes the contemplation of impermanence. And then you will realize easily the Path and Fruition Knowledges. 
 
@@ -62,7 +62,7 @@ The reason saṁsāra was long for us was never had been followed dukkha sacca w
 
 The way to it is vipassanā. The reason we were wandering in saṁsāra was without vipassanā before. (Continued to talk on cittānupassanā) If seeing the arising mind, contemplate it. If you can’t catch it, then contemplate at feeling. 
 
-Again if you can’t, then contemplate on craving. Whatever mind arises from the six senses door, you have to contemplate. If you can’t, it will mix-up with the I-ness. For example, when itching mind arises and becomes I am itchy. It becomes identity view (sakkāya diṭṭhi).  
+Again if you can’t, then contemplate on craving. Whatever mind arises from the six sense doors, you have to contemplate. If you can’t, it will mix-up with the I-ness. For example, when itching mind arises and becomes I am itchy. It becomes identity view (sakkāya diṭṭhi).  
 (Continued the story of Anurādha) About the question: Is a being still becoming after dying? Death is dying consciousness and birth is rebirth-linking consciousness (paṭisandhi viññāṇa). There is no being in it. It’s dukkha sacca at the beginning; also in the middle and at the end dukkha sacca. There is no being for dying and becoming. This kind of question the Buddha never answered because it was asking with wrong view. No need to answer for it. In that way wrong view is falling away. 
 
 Wrong views fall away by knowledge is cūḷa-sotāpanna. Have the same right view as sotāpanna). It’s not falling away by contemplation. It is easy to get the Path and Fruition Knowledges after falling away by knowledge with contemplation. 
@@ -75,7 +75,7 @@ T3
 
 (In the beginning of the talk) You should do the vipassanā contemplation only after dispelling wrong view by knowledge; because vipassanā contemplation is working with the paramattha dhamma (ultimate phenomena). 
 
-Everything arise from the six senses doors of mind and body process; neither person nor living being exists. For example, from the eye door eye consciousness arises, good or bad feeling, like or dislike taṇhā, etc. … no phenomenon has any person or living being. Person or being is only exists in speech and not in reality. 
+Everything arise from the six sense doors of mind and body process; neither person nor living being exists. For example, from the eye door eye consciousness arises, good or bad feeling, like or dislike taṇhā, etc. … no phenomenon has any person or living being. Person or being is only exists in speech and not in reality. 
 
 (continued the Anurādha’s story) The Buddha answered to his questions posed by other sect, and first cleared away his wrong view and doubt. With regarding to the five khandhas, using the three universal characteristics and explained to him in the Q and A forms. Whatever arising from the khandhas; all are anicca, dukkha and anatta dhammas and including neither person nor living being. 
 
@@ -101,7 +101,7 @@ Knowing them is saccanulomika ñāṇa. After that continue the contemplation un
 
 ------
 
-revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35706#p35706 (posted on 2019-01-09)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35706#p35706 (posted on 2019-01-09)
 
 ------
 
@@ -120,6 +120,7 @@ revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   07-25 rev. proofread by bhante
   2019-01-13  create rst
   https://mogokdhammatalks.blog/

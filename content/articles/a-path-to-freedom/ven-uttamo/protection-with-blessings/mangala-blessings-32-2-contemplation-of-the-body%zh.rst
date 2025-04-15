@@ -3,12 +3,12 @@ Contemplation of the Body: Kāyānupassanā (Maṅgala Sutta – Protection with
 ======================================================================================
 
 :date: 2019-12-03
-:modified: 2020-05-29
+:modified: 2025-04-15
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Contemplation of the Body: Kāyānupassanā (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-05-29
+revised on 2025-04-15
 
 ------
 
@@ -28,7 +28,7 @@ Contemplation or meditation is exercising the mind with the objects of meditatio
 
 The body cannot survive without changing with the changing of postures that it can survive longer. But for most people not aware of the changes, because of a lack of mindfulness or awareness. They are doing things habitually, and the mind is at other places. These are connections with the big postures and actions.
 
-There are also other small activities. These exercises are in the Mindfulness with Clear Knowing (sati-sampajāna) or mindfulness and clear knowledge (sati-sampajañña). The instructions for clear knowing are; going forward and returning; looking ahead and looking away; flexing and extending the limbs; wearing clothes and carrying things; eating, drinking and tasting; defecating and urinating; walking, standing, sitting, falling asleep, waking up, talking and keeping silent.
+There are also other small activities. These exercises are in the Mindfulness with Clear Knowing (sati-sampajañña) or mindfulness and clear knowledge (sati-sampajañña). The instructions for clear knowing are; going forward and returning; looking ahead and looking away; flexing and extending the limbs; wearing clothes and carrying things; eating, drinking and tasting; defecating and urinating; walking, standing, sitting, falling asleep, waking up, talking and keeping silent.
 
 The next two exercises are Anatomical Parts and Elements: Contemplating the anatomical constitution of the body; direct mindfulness to an analysis of the body parts. It listed various anatomical parts, organs and fluids. Review this same body up from the soles of the feet and down from the top of the hair, enclosed by skin, as full of many kinds of impurity.
 
@@ -113,7 +113,7 @@ To observe objectively, without getting lost in associations and reactions. Free
 
 ------
 
-revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36986#p36986 (posted on 2019-11-22)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36986#p36986 (posted on 2019-11-22)
 
 ------
 
@@ -128,5 +128,6 @@ revised on 2020-05-29; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda
   2019-12-03  create rst

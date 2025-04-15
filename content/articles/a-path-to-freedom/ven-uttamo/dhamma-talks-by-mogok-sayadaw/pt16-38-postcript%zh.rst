@@ -3,12 +3,12 @@ Postscript
 ===========================================
 
 :date: 2024-07-10
-:modified: 2025-03-06
+:modified: 2025-04-15
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Postscript (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2025-03-06
+revised on 2025-04-15
 
 ------
 
@@ -22,7 +22,7 @@ There are two kinds of monks whose contributions made the Dhamma and the world s
 
 The second kind is someone without much great learning but who possesses a lot of experience and knows how to live the holy life according to the Buddha's instructions.
 
-For example, the Thai Forest Tradition – such as Laun Pu Sao Kantasilo, Laung Pu Mun Bhuridatto, and their disciples, Laung Por Chah, etc. We need both types of monks for the Buddha Dhamma to last long and for the welfare of human beings, especially Buddhists.
+For example, the Thai Forest Tradition – such as Laung Pu Sao Kantasilo, Laung Pu Mun Bhuridatto, and their disciples, Laung Por Chah, etc. We need both types of monks for the Buddha Dhamma to last long and for the welfare of human beings, especially Buddhists.
 
 Without Dhamma education and knowledge, humans don’t know how to behave and live their lives, leading to more sufferings and problems in their present lives and future. They also don’t know how to solve human and environmental problems and disasters.
 
@@ -160,7 +160,7 @@ Verse: 28
 
 ------
 
-revised on 2025-03-06
+revised on 2025-04-15
 
 ------
 
@@ -179,6 +179,7 @@ revised on 2025-03-06
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-15 rev. proofread by bhante
   2025-03-06 rev. proofread by bhante
   07-30 rev. proofread by bhante Uttamo
   2024-07-10 create rst

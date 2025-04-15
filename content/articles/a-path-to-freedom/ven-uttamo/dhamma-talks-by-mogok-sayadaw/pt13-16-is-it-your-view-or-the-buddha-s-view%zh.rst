@@ -3,12 +3,12 @@ Is It Your View or the Buddha’s View?
 =============================================
 
 :date: 2020-12-30
-:modified: 2021-07-28
+:modified: 2025-04-15
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Is It Your View or the Buddha’s View? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-07-28
+revised on 2025-04-15
 
 ------
 
@@ -37,13 +37,13 @@ They’ll ask again, with affection and desire what phenomena will dwell in the 
 The Buddha admonished very strong to some monks who misinterpreted his teachings regard with Dhamma and Vinaya, as to Bhikkhu Sāti in Mahātaṇhāsaṅkhaya Sutta (MN 38) and Bhikkhu Ariṭṭha in Alagaddūpama Sutta (MN 22), both in Majjhima Nikāya. In the Aṅguttara Nikāya we can see some Suttas on the preserving the Dhamma which is good for contemplation. The list of them are: I:130-169, 2:20, 2:41, 4:160, 4:180, 5:79-80, 5:154-156, 5:201, 6:40, 7:59 (From Bhikkhu Bodhi’s translations)
 The explanation regard to the numbers—as example I:130-169. (I is the Book of the ones, 130 to 169 are the Sutta numbers.)
 
-Before the Buddha passed away, he did not appoint nay personal figure to replace him. Here we can see the wisdom of the Buddha not like any other religious figures because man could not be reliable like the Dhamma. Even we can see the problem in later Buddhist tradition and other faiths, some of them were fighting each other for power and wealth. Therefore, the Buddha appointed the Dhamma-Vinaya as the teacher for all followers on his behalf. Even then some later Buddhists using the quotation—“Taking the sīla as your teacher”, without Dhamma.
+Before the Buddha passed away, he did not appoint any personal figure to replace him. Here we can see the wisdom of the Buddha not like any other religious figures because man could not be reliable like the Dhamma. Even we can see the problem in later Buddhist tradition and other faiths, some of them were fighting each other for power and wealth. Therefore, the Buddha appointed the Dhamma-Vinaya as the teacher for all followers on his behalf. Even then some later Buddhists using the quotation—“Taking the sīla as your teacher”, without Dhamma.
 
 This was like a person who only has one leg, instead of two legs or only has one arm, instead of two arms. In Pāli, Dhamma is represented the teaching of the Buddha, and Adhamma is the teaching which did not come from the Buddha.]
 
 ------
 
-revised on 2021-07-28
+revised on 2025-04-15
 
 ------
 
@@ -62,6 +62,7 @@ revised on 2021-07-28
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   07-28 rev. proofread by bhante
   2021-01-27 proofread by bhante; old: Bhikkhu Ariṭṭa
   2021-01-11 rev. proofread by bhante

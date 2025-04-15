@@ -3,12 +3,12 @@ To Nibbāna without New Kammas
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-10-02
+:modified: 2025-04-15
 :tags: Nibbāna, Kamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: To Nibbāna without New Kammas (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-10-02
+revised on 2025-04-15
 
 ------
 
@@ -32,7 +32,7 @@ The bhavaṅga cittas continually exist after birth consciousness and up to deat
 
 New kamma: Bodily, verbal and mind actions (kāya, vacī, and mana kammas). Base on the six senses doors and six senses objects and we create these actions all the times. All living beings create new kammas with the old kammas every moment. During sleep we are alive with the old kammas of bhavaṅga cittas. 
 
-The cessation of kammas: Nibbāna is never realized without the ending of new kammas. They will continuously give the results on and on without end. Without the cessation of new kammas and Nibbāna can’t arise. The way to the ending of kāmas: The Noble Eightfold Path. ]
+The cessation of kammas: Nibbāna is never realized without the ending of new kammas. They will continuously give the results on and on without end. Without the cessation of new kammas and Nibbāna can’t arise. The way to the ending of kamma: The Noble Eightfold Path. ]
 
 The Buddha taught about the four things on kamma. These were old and new kammas, the cessation of kamma and the way to the cessation of kamma. 
 
@@ -72,7 +72,7 @@ In the Satipaṭṭhāna Sutta, it also mentioned to contemplate wholesome menta
 
 ------
 
-revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35931#p35931 (posted on 2019-02-13)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35931#p35931 (posted on 2019-02-13)
 
 ------
 
@@ -91,5 +91,6 @@ revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   10-02 rev. proofread by bhante
   2019-04-25  create rst; post on 04-28

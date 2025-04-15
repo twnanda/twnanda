@@ -3,12 +3,12 @@ Contentment (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2021-07-28
+:modified: 2025-04-15
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Contentment (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2021-07-28
+revised on 2025-04-15
 
 ------
 
@@ -16,7 +16,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 
 ------
 
-The commentary only commented it with the monastic life. Even though lay people are living a lifestyle very different from the monks, it can be beneficial by knowing the contentment of monk life taught by the Buddha. They are many things and dhammas in them which can develop our mind in accordance with the wholesome dhammas.
+The commentary only commented it with the monastic life. Even though lay people are living a lifestyle very different from the monks, it can be beneficial by knowing the contentment of monk life taught by the Buddha. There are many things and dhammas in them which can develop our mind in accordance with the wholesome dhammas.
 
 We have already seen it in the Gavesi Sutta—he was a lay disciple of the Buddha Kassapa. He and his followers were competing each other in dhamma challenges—sīla, samādhi and paññā—their spiritual level developed up to the highest level of arahantship. In today's Buddhist countries, there are still some upāsakas living a lifestyle that is very close to the monks and developing their minds. By studying and observing the monks, we can adjust the Dhamma accordingly to our daily lifestyle. (e.g., how the monks relate to nature is interesting. It is animate or inanimate things—always with harmlessness, care and consideration. These qualities and behaviours are urgently need and very important for today human race.
 
@@ -143,7 +143,7 @@ The Buddha commented on discontent (non-contentment) as; dissatisfaction with on
 
 She was too choosy (discontent) that asked the second nun on the line to change with her. It was going down the line in this way to the last nun. Only that she had satisfaction. Nowadays humans are worse than this old nun. Their discontent is so extreme that they are exploiting the earth resources for sensual pleasure in all possible ways by neglecting their physical and mental well-being. One of the western philosophies is “Enjoy yourself—Life is short”. I want to add a little more to it. Enjoy yourself—Life is short, and then go to apāya happily. We can justify human great discontent by observing all sorts of pollution internal and external, severe weather, climate changes, global warming, natural disasters, etc. Human discontent is so extreme that one Earth is not enough. They need multiple Earths, so they are starting in competition in space exploration for other planets. Even the Buddha mentioned foolish people as follows; human beings were still in discontent if raining with treasures from the sky by gods. Therefore, contentment is non-greed that suppressing greed which is the cause of suffering.
 
-There was a lot to talk about contentment because it is related to discontent—greed which is about human beings. Therefore, I want to add one more story for contemplation. This was an Arabic tale. There were five Arab merchants travelling in a desert with their camels and goods together. Mostly afternoon they rested at shady places and continued their journey at night. One full-moon night they travelled on the journey and passing near a pit. One of them locked into the pit and saw some glittering objects at the base (because of the full-moon, but the objects were not clear). He told the others to stop and look into it. At last, they made a conclusion that it might be some treasures. So, they decided to let one of them down and checked for it. The greediest one volunteered to go down first. They took off their white long outer clothes, connecting each end to make a rope. As soon as the man’s foot touched the base, he immediately saw the object clearly. No, these were not treasure but poisonous cobras and vipers; because the moonlight made the eyes shine. He was so frightened and shocked and shouted at the others above to pull him up quickly because these were snakes. The others did not believe what he said, so they thought he was a greedy person and wanted to trick them. Instead of pulling him up, they sent another man to go down again. For the second man, as soon as his feet touched the ground, he knew what happened down there. So, he shouted back the men up there as these were only snakes, but they did not believe him and thought both of them were plotting to lie them. In this way all of them lost their lives by going down there because no trust on each other. This was the outcome of over greed and selfishness.
+There was a lot to talk about contentment because it is related to discontent—greed which is about human beings. Therefore, I want to add one more story for contemplation. This was an Arabic tale. There were five Arab merchants travelling in a desert with their camels and goods together. Mostly afternoon they rested at shady places and continued their journey at night. One full-moon night they travelled on the journey and passing near a pit. One of them looked into the pit and saw some glittering objects at the base (because of the full-moon, but the objects were not clear). He told the others to stop and look into it. At last, they made a conclusion that it might be some treasures. So, they decided to let one of them down and checked for it. The greediest one volunteered to go down first. They took off their white long outer clothes, connecting each end to make a rope. As soon as the man’s foot touched the base, he immediately saw the object clearly. No, these were not treasure but poisonous cobras and vipers; because the moonlight made the eyes shine. He was so frightened and shocked and shouted at the others above to pull him up quickly because these were snakes. The others did not believe what he said, so they thought he was a greedy person and wanted to trick them. Instead of pulling him up, they sent another man to go down again. For the second man, as soon as his feet touched the ground, he knew what happened down there. So, he shouted back the men up there as these were only snakes, but they did not believe him and thought both of them were plotting to lie them. In this way all of them lost their lives by going down there because no trust on each other. This was the outcome of over greed and selfishness.
 
 The five Security Council members of the UN were like these five Arab merchants. The five members are also no trust in others by solving world problems. They follow their own desire and opportunity by vetoes on the UN decisions. Instead of solving all the human problems sometime it made them worse (e.g., Syrian Civil War). They oppose and fight each other for their own benefits out of greed, hatred and delusion. The Security Council becomes  Insecurity Council and United Nations become Disunited Nations and the problems would never be solved. What’s a shame! The fools will never know and appreciate the excellence quality of contentment, but the wise and noble beings understand quite clearly. This is also their precious way of life.
 
@@ -206,7 +206,7 @@ Spiritual people, ancient sages and noble beings—mostly forest monks knew the 
 
 ------
 
-revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36973#p36973 (posted on 2019-11-20)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36973#p36973 (posted on 2019-11-20)
 
 ------
 
@@ -221,6 +221,7 @@ revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   07-28 rev. proofread by bhante
   2021-03-16 rev. proofread by bhante
   2020-09-06 rev. the 3rd proofread by bhante

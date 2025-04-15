@@ -3,12 +3,12 @@ The Extension of Saṁsāra
 ==========================================
 
 :date: 2019-04-28
-:modified: 2019-10-02
+:modified: 2025-04-15
 :tags: Saṁsāra, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The Extension of Saṁsāra (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-10-02
+revised on 2025-04-15
 
 ------
 
@@ -40,7 +40,7 @@ If the āyatanas are ceased; are there still other kilesas arise? The answer wil
 
 After they are ceased, does other kilesa still arise? Or is there anything existing? Don’t ask in this way. At the place of cessation Nibbāna must appear. With these six āyatanas dhamma can arrive to Nibbāna. Ven. Sāriputta talked about the contemplation of impermanence of the six āyatanas. It included both body contemplation and mind. 
 
-So, all the minds cease nothing arise and only Nibbāna appears. This is neither a person nor a being. So, you didn’t need to ask; isn’t something arising? There is no papañca and it’s the same asking as; is there any papañca? If papañca ceases and Nibbāna appears. Don’t have any doubt about it. Someone still not ending yet has to follow to the end. 
+So, all the minds cease nothing arise and only Nibbāna appears. This is neither a person nor a being. So, you don’t need to ask; isn’t something arising? There is no papañca and it’s the same asking as; is there any papañca? If papañca ceases and Nibbāna appears. Don’t have any doubt about it. Someone still not ending yet has to follow to the end. 
 
 All the four Qs were asking with wrong views. Both arahants were making the decision for us. It’s Nibbāna if papañca ceases whereas khandha will arise if not ceases. Wanting to end dukkha, you have to kill the cause of papañca. It’s the mind or the mind-base. (Sayadaw continued to teach cittānupassanā).
 
@@ -54,7 +54,7 @@ Therefore, it abandons papañca is clear. (Sayadaw continued to explain the insi
 
 ------
 
-revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35943#p35943 (posted on 2019-02-14)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p=35943#p35943 (posted on 2019-02-14)
 
 ------
 
@@ -73,5 +73,6 @@ revised on 2019-10-02; cited from https://oba.org.tw/viewtopic.php?f=22&t=4192&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   10-02 rev. proofread by bhante
   2019-04-25  create rst; post on 04-28

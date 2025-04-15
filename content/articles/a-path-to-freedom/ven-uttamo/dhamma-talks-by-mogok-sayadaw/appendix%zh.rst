@@ -3,12 +3,12 @@ APPENDIX
 ===========================
 
 :date: 2020-12-30
-:modified: 2021-07-28
+:modified: 2025-04-15
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: APPENDIX (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-07-28
+revised on 2025-04-15
 
 ------
 
@@ -35,7 +35,7 @@ revised on 2021-07-28
 On Mind Development
 ~~~~~~~~~~~~~~~~~~~~~
 
-In the Dhammapada Verse-183, the Buddha replied to Ānanda on the instructions given by all the Buddhas was: “Not to do evil, to cultivate merit and to purify one’s mind. This is mind development for all humans, as training in sīla, samādhi and paññā. In the Theravada tradition we see more meditation systems than other traditions. One of the main reasons is Theravada bhikkhus have the strong tradition of study the Dhamma, Vinaya and their commentaries. There are some western scholars rejected the commentaries as not authentic. An internationally well-known Burmese teacher asked this question, “How many commentaries have they studied before?” Asian Buddhist tradition has a very long history with commentaries it even can be said as it started from Ven. Mahākaccāna. This tradition was handed down by teacher to teacher. It also had a long history of study and practice. The Buddha-Dhamma always requires a teacher to teach the Dharma and its practice, unlike other worldly knowledges. We can only decide whether a teaching and system is authentic or not by its practice and results, not by thinking and its proliferation.
+In the Dhammapada Verse-183, the Buddha replied to Ānanda on the instructions given by all the Buddhas was: “Not to do evil, to cultivate merit and to purify one’s mind. This is mind development for all humans, as training in sīla, samādhi and paññā. In the Theravada tradition we see more meditation systems than other traditions. One of the main reasons is Theravada bhikkhus have the strong tradition of study the Dhamma, Vinaya and their commentaries. There are some western scholars rejected the commentaries as not authentic. An internationally well-known Burmese teacher asked this question, “How many commentaries have they studied before?” Asian Buddhist tradition has a very long history with commentaries it even can be said as it started from Ven. Mahākaccāna. This tradition was handed down by teacher to teacher. It also had a long history of study and practice. The Buddha-Dhamma always requires a teacher to teach the Dhamma and its practice, unlike other worldly knowledges. We can only decide whether a teaching and system is authentic or not by its practice and results, not by thinking and its proliferation.
 
 Among the Theravada Buddhist countries, there are more meditation systems in Burma than in other countries because of the strong tradition of study and practice.
 
@@ -278,7 +278,7 @@ Mind and form dhammas are not arisen by themselves (i.e., causeless). It is also
        
 The purification of the process starting from 1. to 5. can be known and achieved with the help of a teacher. 
 
-(Therefor, a qualified and skillful teacher is very important for a yogi. Mogok Sayadawgyi was such kind of teacher. His teachings or talk are very helpful in practise and profound understanding of Dhamma.)
+(Therefor, a qualified and skillful teacher is very important for a yogi. Mogok Sayadawgyi was such kind of teacher. His teachings or talks are very helpful in practise and profound understanding of Dhamma.)
 
 6.) From here the yogi persistently continues to contemplate anicca will arrive to the level of equanimity to all saṅkhāra dukkha—conditioned dukkha. This is purification of the way—paṭipadā-ñāṇa-dassana-visuddhi.
        
@@ -414,7 +414,7 @@ I have no doubt that if someone reads and reflects on Mogok Sayadaw's talk many 
 
 ------
 
-revised on 2021-07-28
+revised on 2025-04-15
 
 ------
 
@@ -433,6 +433,7 @@ revised on 2021-07-28
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   07-28 rev. proofread by bhante
   02-26 proofread by bhante
   Nanda's note: āraddha vipassanā (“Buddhist Meditation In Theory And Practice”; Original Author Paravahera Vajirañāṇa Mahāthera; New Edition Revised and Edited by Allan R. Bomhard), balava vipassanā (Chanmyay Sayadaw’s THE BUDDHA’S WAYSTO PEACE AND HAPPINESS) vipassanā] 

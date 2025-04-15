@@ -3,12 +3,12 @@ Avoiding, Abstaining from Evil (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-06-25
+:modified: 2025-04-15
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Avoiding, Abstaining from Evil (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-06-25
+revised on 2025-04-15
 
 ------
 
@@ -72,7 +72,7 @@ Doing an action, there are many stages; beginning, many times, a lot or again an
 
 After death as an animal and born as a hungry ghost (peta). The slightest of its result is when it becomes a human being has a short life span. For stealing: The slightest result is the loss of one’s wealth. For illicit sexual behaviors: the slightest result is hating by others and has many enemies. For telling falsehoods: the slightest result is being falsely accused and arrested.
 
-For decisive tale-bearing: The slightest result is breaking of one’s friendships and family break up. These things happen very often. For harsh speech: the slightest result is not hearing about pleasant and happy things and matters. For frivolous chattering/useless and meaningless: the slightest result is no one taking his words to heart or accepting what has said. For drinking of fermented and distilled liquors: the slightest result is leading to mental derangement or becomes a dull and stupid person.
+For devisive tale-bearing: The slightest result is breaking of one’s friendships and family break up. These things happen very often. For harsh speech: the slightest result is not hearing about pleasant and happy things and matters. For frivolous chattering/useless and meaningless: the slightest result is no one taking his words to heart or accepting what has said. For drinking of fermented and distilled liquors: the slightest result is leading to mental derangement or becomes a dull and stupid person.
 
 As a human being, it is very important to understand the analysis of action. Because the human world is a place where a living being has more chances than any other existences to cultivate goodness. There was a sutta in the Majjhima Nikāya on the analysis of action; Cūḷa-Kammavibhaṅga Sutta (MN 135). It is worthwhile to study it for avoiding and abstaining from evils and performing goodness.
 
@@ -177,7 +177,7 @@ After the last time, he resolved not taking the life of the boa and threw his kn
 
 ------
 
-revised on 2020-06-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36964#p36964 (posted on 2019-11-19)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36964#p36964 (posted on 2019-11-19)
 
 ------
 
@@ -192,6 +192,7 @@ revised on 2020-06-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   2020-06-25 rev. the 2nd proofread by bhante
   2020-05-29 rev. the 1st proofread by bhante
   2019-12-03  create rst

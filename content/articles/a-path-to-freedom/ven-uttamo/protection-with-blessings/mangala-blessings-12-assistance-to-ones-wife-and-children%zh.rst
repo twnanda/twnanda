@@ -3,12 +3,12 @@ Assistance to One's Wife and Children (Maṅgala Sutta – Protection with Bless
 ==================================================================================
 
 :date: 2019-12-03
-:modified: 2021-03-16
+:modified: 2025-04-15
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Assistance to One's Wife and Children (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2021-03-16
+revised on 2025-04-15
 
 ------
 
@@ -43,7 +43,7 @@ Assistance to one's wife in five ways:
 Assistance to one’s children in five ways:
 
 (1) Restrain them from evil
-(2) Direct them towards the goods
+(2) Direct them towards the good
 (3) Train them to a profession
 (4) Arrange suitable marriages for them
 (5) In due time hand over the inheritance to them.
@@ -138,7 +138,7 @@ How many animals are killed every day around the world for foods alone. In the s
 
 ------
 
-revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36849#p36849 (posted on 2019-10-09)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36849#p36849 (posted on 2019-10-09)
 
 ------
 
@@ -153,6 +153,7 @@ revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   2021-03-16 rev. proofread by bhante
   09-06; 08 rev. the 3rd proofread by bhante
   03-24 rev. the 2nd proofread by bhante

@@ -3,12 +3,12 @@ Craving Overrules Actions
 ==========================================
 
 :date: 2019-04-28
-:modified: 2021-03-15
+:modified: 2025-04-15
 :tags: Craving Overrules Actions, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Craving Overrules Actions (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-03-15
+revised on 2025-04-15
 
 ------
 
@@ -36,13 +36,13 @@ You like the permanent, happiness, self medicines. In the past you all were stuc
 
 You get the maggan raft (path factors raft) if you know not‐self as not‐self. It’s you yourself making the axle of the taints and turning around it. And then die in the 31 realms of existence. With the wrong grasping and taints arise (This talk is connecting with the previous talk). All the taints and realms of existence are making by oneself.
 
-So, D. A. process is one’s own process. Have to contemplate one’s and others’ khandhas as not-self. We are constructing spokes of kamma on the axle of the taints. From the six senses doors construct the spokes of kamma. You also can’t make the spokes if you don’t make the axle. 
+So, D. A. process is one’s own process. Have to contemplate one’s and others’ khandhas as not-self. We are constructing spokes of kamma on the axle of the taints. From the six sense doors construct the spokes of kamma. You also can’t make the spokes if you don’t make the axle. 
 
-Without the spokes, the outer most wheel of ageing, sickness and death can’t exist. Therefore, for not grasping contemplate impermanence of whatever arises from the six senses doors.
+Without the spokes, the outer most wheel of ageing, sickness and death can’t exist. Therefore, for not grasping contemplate impermanence of whatever arises from the six sense doors.
 
 ------
 
-revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35859#p35859 (posted on 2019-01-18)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35859#p35859 (posted on 2019-01-18)
 
 ------
 
@@ -61,6 +61,7 @@ revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   2021-03-15 rev. proofread by bhante
   09-12 rev. proofread by bhante
   2019-04-25  create rst; post on 04-28

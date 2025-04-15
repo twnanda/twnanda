@@ -3,12 +3,12 @@ The End of the World
 ==========================================
 
 :date: 2019-04-28
-:modified: 2021-03-15
+:modified: 2025-04-15
 :tags: Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: The End of the World (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2021-03-15
+revised on 2025-04-15
 
 ------
 
@@ -42,7 +42,7 @@ First, the insight knowledges discover saṅkhāra dukkha and later supramundane
 
 [ There are three worlds (loka). These are: space (ākāsa loka), living beings (satta loka) and conditioned world (saṅkhāra loka). One time the Buddha mentioned these worlds to the monks and said that couldn’t go to the end of the world on foot or by vehicles. 
 
-Without the ending of saṅkhāra loka could not reach Nibbāna. After these words the Buddha went away. The monks did not understand the meaning and asked Ven. Ānanda for the answer. He said the five khandhas were saṅkhāra loka and the six senses bases also. 
+Without the ending of saṅkhāra loka could not reach Nibbāna. After these words the Buddha went away. The monks did not understand the meaning and asked Ven. Ānanda for the answer. He said the five khandhas were saṅkhāra loka and the six sense bases also. 
 
 Only by following the Noble Eightfold Path, the world would be end. Observing the five khandhas which arise from the 6sense doors is on the way to the end of the world. In the D. A. of cause and effect process, the effects are saṅkhāra. Seeing the khandha arises is seeing saṅkhāra. 
 
@@ -52,9 +52,9 @@ Do not mix up Nibbāna with the wholesome kamma, with only wholesome kamma can�
 
 Maggan (path factors) cut off dukkha. They are different things. You can’t find Nibbāna in the satta and ākāsa and only in saṅkhāra loka. (This is the main reason except a Buddha no other beings can teach the way to Nibbāna). It exists at the end of saṅkhāra loka. I will talk about saṅkhāra loka. Every resultant dhamma is saṅkhāra (arising by conditioning). This itself also will condition other dhammas (In the Buddha’s Teaching no original cause or the first cause, so the Buddha rejected the Creator.)
 
-For example, according to the D. A. process: Ignorance (the cause) → volitional formation (result/cause) → viññāṇaṁ (result/cause)……etc. The 6sense doors (eye, ear, nose, tongue, body and mind) are called loka. People have wrong view taking them as loka. At the end of sense bases (saḷāyatana) Nibbāna exists. 
+For example, according to the D. A. process: Ignorance (the cause) → volitional formation (result/cause) → viññāṇaṁ (result/cause)……etc. The 6 sense doors (eye, ear, nose, tongue, body and mind) are called loka. People have wrong view taking them as loka. At the end of sense bases (saḷāyatana) Nibbāna exists. 
 
-People taking my eyes, my ears, etc. and perceive them as loka. In short take the mind and body as loka. Contemplate one of the six senses bases. You cut off saṅkhāra and satta lokas if you can contemplate them to the end. Nibbāna exists at the end of the khandha or āyatana. 
+People taking my eyes, my ears, etc. and perceive them as loka. In short take the mind and body as loka. Contemplate one of the six sense bases. You cut off saṅkhāra and satta lokas if you can contemplate them to the end. Nibbāna exists at the end of the khandha or āyatana. 
 
 Contemplate the arising mind in oneself. Contemplate the preceding mind with the following mind (i.e. ñāṇa). If someone is not an ariyan and no ariyan mind states arise. Minds are not many (What sayadaw meant here was for practice by a worldling. According to the Abhidhamma there were 89 types of mind. But Sayadaw made it simple and condensed into 13 kinds of mind for vipassanā practice). 
 
@@ -64,7 +64,7 @@ That is your khandha ends. Therefore sometime I ask you; “Do your khandha disa
 
 ------
 
-revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35746#p35746 (posted on 2019-01-14)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p=35746#p35746 (posted on 2019-01-14)
 
 ------
 
@@ -83,6 +83,7 @@ revised on 2021-03-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4084&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   2021-03-15 rev. proofread by bhante
   08-12 rev. proofread by bhante
   2019-04-22  create rst; post on 04-28

@@ -3,12 +3,12 @@ Purification by Overcoming Doubt (Kaṅkhāvitaraṇavisuddhi) (Maṅgala Sutta 
 =========================================================================================================
 
 :date: 2019-12-03
-:modified: 2021-03-16
+:modified: 2025-04-15
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Purification by Overcoming Doubt: Kaṅkhāvitaranavisuddhi (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2021-03-16
+revised on 2025-04-15
 
 ------
 
@@ -70,13 +70,13 @@ What did they achieve during the old last year? If we achieved something wholeso
 
 Wholesome dhammas should always be cultivated at any time in any place. A couple from Hong Kong is welcoming the 2018 new year at a meditation retreat in Burma. After that, they will continue the spiritual journey at the holy site of Buddhagayā.
 
-This is welcoming the new year with heedfulness. But the majority are doing it with heedlessness. With the development of sati and paññā (mindfulness and discernment) arriving at the knowledge of rising and fall of phenomena (udayabbaya ñāṇa). Here the contemplative mind is sharp enough for the present moment.
+This is welcoming the new year with heedfulness. But the majority are doing it with heedlessness. With the development of sati and paññā (mindfulness and discernment) arriving at the knowledge of rise and fall of phenomena (udayabbaya ñāṇa). Here the contemplative mind is sharp enough for the present moment.
 
 The yogi has a strong resolution. And then the ten insight corruptions come in and the yogi can be taken them as realization. Therefore, he is stopping there. If he knows these are not representing the end of the way; then he is with the knowledge and vision of what is and what is not the path (maggāmagga ñāṇadassana). With the continued contemplation and at last the yogi is arriving at the end of the spiritual journey. This is the purification by knowledge and vision (Ñāṇadassana-visuddhi).
 
 ------
 
-revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36993#p36993 (posted on 2019-11-22)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36993#p36993 (posted on 2019-11-22)
 
 ------
 
@@ -91,6 +91,7 @@ revised on 2021-03-16; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   2021-03-16 rev. proofread by bhante
   09-06 rev. the 3rd proofread by bhante
   06-30 rev. the 1st proofread by bhante

@@ -3,12 +3,12 @@ Broad Knowledge (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-03-24
+:modified: 2025-04-15
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Broad Knowledge (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-03-24
+revised on 2025-04-15
 
 ------
 
@@ -34,7 +34,7 @@ Why is that? it is not difficult to find the causes if we have the knowledge of 
 
 These are unwholesome and wholesome mental states which control the living beings. The unwholesome roots are greed, hatred and delusion and the wholesome roots are non-greed, non-hatred and non-delusion. For most of us, unwholesome things and its way are easily to be done and be followed it, it does not need effort because we are used to it. The wholesome things and way are difficult because it needs for learning and training to develop. Therefore, the Buddha’s Education is compulsory to everyone; without it, we cannot solve human problems wisely and properly; on the contrary it is increasing them all the times.
 
-Over half a century ago Mogok Sayadaw said as followed to his lay disciple: “Maung, Tun Tin, it is beneficial that we can record the sound with the development of science. It can lead us to Nibbāna if we know how to use it. Without using property, it’ll send us into the Wok” (here the word ‘wok’ is the Cantonese language for large iron cauldron which we can see in the hell scenes). Sayadaw’s saying was like a prediction for his own teaching and the outcomes of science which is misused by human beings.
+Over half a century ago Mogok Sayadaw said as followed to his lay disciple: “Maung, Tun Tin, it is beneficial that we can record the sound with the development of science. It can lead us to Nibbāna if we know how to use it. Without using properly, it’ll send us into the Wok” (here the word ‘wok’ is the Cantonese language for large iron cauldron which we can see in the hell scenes). Sayadaw’s saying was like a prediction for his own teaching and the outcomes of science which is misused by human beings.
 
 The knowledge of arts is also very important for human beings and the society. The arts refers to the creation or performance of drama, music, poetry, painting, literature, etc. It is also impossible for human culture and development without arts. We could misuse them by polluting people’s minds and then bringing harms. We can also use it for educating people in the wholesome directions by developing their virtues, moral standards and becoming intelligent and wise. It totally depends on human views, thoughts and intentions. With wrong views, thoughts and intentions; the outcome will be bad. Nowadays many types of media are influencing human beings greatly, from small children to all sorts of age including old people. Most of them get lost in them like drug addicts. Their minds are never peaceful and are always in restless states.
 
@@ -89,7 +89,7 @@ Progress-upward way is the opposite, with positive results and benefit for himse
 
 ------
 
-revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36809#p36809 (posted on 2019-09-24)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36809#p36809 (posted on 2019-09-24)
 
 ------
 
@@ -104,6 +104,7 @@ revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

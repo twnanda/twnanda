@@ -3,12 +3,12 @@ Do Buddhists Have Wrong Views?
 ==========================================
 
 :date: 2019-04-28
-:modified: 2025-03-06
+:modified: 2025-04-15
 :tags: Wrong Views, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Do Buddhists Have Wrong Views? (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2025-03-06
+revised on 2025-04-15
 
 ------
 
@@ -26,7 +26,7 @@ You must discern those three characteristic and have wise attention (i.e., anicc
 
 (The other two lokas depend on the saṅkhāra loka; they can’t exist without it). Therefore condensing these three lokas, it's only arising and passing away. The wanderers were talking about their different views to Anāthapiṇḍika. 
 
-I am teaching you every day for wise attention and no need to correct for it; but I must correct on listening talks. By listening to the sutta discourses and view of eternalism can arise (sassata diṭṭhi). For example, Visākha died and became a female deity in Tusita Heaven. Visākha was a name and a concept. 
+I am teaching you every day for wise attention and no need to correct for it; but I must correct on listening talks. By listening to the sutta discourses and view of eternalism can arise (sassata diṭṭhi). For example, Visākhā died and became a female deity in Tusita Heaven. Visākhā was a name and a concept. 
 
 The real existence was mind and body. Mind and body arose here and passed away here. Could it be gotten there? Even a little piece of it was not going there. It didn’t have any power to go. It simply took wrongly as this viññā arose in Tusita. 
 
@@ -50,7 +50,7 @@ You want to be cured when a sore grows on your hand. After the medical treatment
 
 ------
 
-revised on 2025-03-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35852#p35852 (posted on 2019-01-18)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p=35852#p35852 (posted on 2019-01-18)
 
 ------
 
@@ -69,6 +69,7 @@ revised on 2025-03-06; cited from https://oba.org.tw/viewtopic.php?f=22&t=4091&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-15 rev. proofread by bhante
   2025-03-06 rev. proofread by bhante
   09-12 rev. proofread by bhante
   2019-04-24  create rst; post on 04-28

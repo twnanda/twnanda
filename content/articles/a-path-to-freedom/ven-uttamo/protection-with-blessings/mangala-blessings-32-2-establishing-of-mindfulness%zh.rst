@@ -3,12 +3,12 @@ Establishing of Mindfulness: Satipatthāna (Maṅgala Sutta – Protection with 
 =======================================================================================
 
 :date: 2019-12-03
-:modified: 2020-07-22
+:modified: 2025-04-15
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Establishing of Mindfulness: Satipatthāna (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-07-22
+revised on 2025-04-15
 
 ------
 
@@ -48,13 +48,13 @@ These results were the guarantee gave by the Buddha.
 
 And then the Buddha continued the four satipaṭṭhāna in general.
 
-Contemplate the body as the body, not other ways. This is differentiating the object. Sati needs to see a thing as it is. If it is the body, then it is the body. The meaning of anupassati is contemplating. Samādhi and paññā are included in the contemplating. The factors include are; ātāpī—practicing very hard or perseverance or diligent; sampajāna—is clearly knowing, knowing the situation of the mind and satimā—must have sati.
+Contemplate the body as the body, not other ways. This is differentiating the object. Sati needs to see a thing as it is. If it is the body, then it is the body. The meaning of anupassati is contemplating. Samādhi and paññā are included in the contemplating. The factors include are; ātāpī—practicing very hard or perseverance or diligent; sampajañña—is clearly knowing, knowing the situation of the mind and satimā—must have sati.
 
 Natural phenomena are working together. It must have these three factors in the contemplation. There are five functional factors—kāraka maggaṅga; right view, right thought, right effort, right mindfulness and right concentration. They are working together. What are they pushing away? Or are they overcoming? The hindrances—nīvaraṇas are overcome. They defiled the mind and blockage the knowledge to arise.
 
 Therefore, wholesome mental states cannot arise. Here the Buddha was only sorting out two hindrances; desires (abhijjhā) and discontent (domanassa). Abhijjhā here is thinking on objects with greed (lobha). This is not the mental action of covetousness (abhijjhā) which mentioned in the ten unwholesome kammas. The same word but have different meanings. Here is thinking about desirable and pleasant objects.
 
-With the undesirable and unpleasant objects, discontent arises. Contemplating with ātāpī, sampajāna and sati, and these hindrances cannot arise or like or dislike cannot arise. Contemplating feelings, minds and dhammas are also in the same way. In the introduction of the satipaṭṭhāna sutta, the Buddha gave the general outline.
+With the undesirable and unpleasant objects, discontent arises. Contemplating with ātāpī, sampajañña and sati, and these hindrances cannot arise or like or dislike cannot arise. Contemplating feelings, minds and dhammas are also in the same way. In the introduction of the satipaṭṭhāna sutta, the Buddha gave the general outline.
 
 The reason behind the four objects of satipaṭṭhāna is relating to the abandoning of 12 inversions or distortions (vipallāsa), with the body contemplation to see the body nature of no beauty, unattractive or repulsive (asubha). To see the feelings as dukkha. To see the mind as inconstant (anicca). And to see the dhammas as not-self (anatta).
 
@@ -75,7 +75,7 @@ First abandoning the hindrances, with one of the satipaṭṭhāna practice and 
 
 ------
 
-revised on 2020-07-22; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36985#p36985 (posted on 2019-11-22)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36985#p36985 (posted on 2019-11-22)
 
 ------
 
@@ -90,6 +90,7 @@ revised on 2020-07-22; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   2020-07-22 rev. the 2nd proofread by bhante
   2020-06-30 rev. the 1st proofread by bhante
   2020-05-29 rev. the 1st proofread by nanda

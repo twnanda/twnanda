@@ -3,12 +3,12 @@ Epilogue
 ===========================
 
 :date: 2020-12-30
-:modified: 2025-03-06
+:modified: 2025-04-15
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Epilogue (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2025-03-06
+revised on 2025-04-15
 
 ------
 
@@ -22,7 +22,7 @@ Even if we temporarily possess the seven noble treasures (sattavidha-ariya-dhana
 
 There are now Buddhist schools in Burma open to the lay community, and more lay people are studying the Sutta Nikāyas, the Abhidhamma and commentaries—such as the Visuddhimagga. These people are younger generation. There were only a few older people who interested in Abhidhamma before. This is a good sign for Burmese Buddhism. There are some Burmese meditation systems are spread outside Burma, but it’s very rare to see Dhamma translations books by well-known scholar monks and meditation teachers. Even Ledi Sayadaw’s books are very rare in Burmese before. Only not very long-time ago, a well-known publishing group with the help of Ledi monks made Ledi Sayadaw’s work available in Burmese. Ledi Sayadaw’s works are also very important for translations to spread it outside Burma.
 
-I have already mentioned above my English language is not excellent, but Mogok talks are like the noble treasures and noble taste of Dhamma. So, I wanted to share it with others; besides, there was no one else who would try to do it. I have the habit of making notes whatever good books (Dhamma or worldly) which I am reading (including listening Dhamma talks). This is one of the important factors for Mogok Dhamma coming into existence. In fact, I would like to translate from the books transcribed by the Mogok Centre; for in each of the talks they contain other essences of the Dharma, but I do not have these books to hand. Even if I try them alone, it takes me for many years to finish it.
+I have already mentioned above my English language is not excellent, but Mogok talks are like the noble treasures and noble taste of Dhamma. So, I wanted to share it with others; besides, there was no one else who would try to do it. I have the habit of making notes whatever good books (Dhamma or worldly) which I am reading (including listening Dhamma talks). This is one of the important factors for Mogok Dhamma coming into existence. In fact, I would like to translate from the books transcribed by the Mogok Centre; for in each of the talks they contain other essences of the Dhamma, but I do not have these books to hand. Even if I try them alone, it takes me for many years to finish it.
 
 When I was still in Burma in 1980 Mogok talks were only 33 in volumes. In my short biography on U Sun Lwin (Ven. Ādiccaramsī) for his Dhamma in retreat I have mentioned he had studied Mogok talks in volumes donated to him by friends. These were 39 volumes, and he wrote about them for four volumes in gist and finished it in 1990. At the time when he finished, Mogok Dhamma volumes were 44 volumes in numbers.
 
@@ -50,7 +50,7 @@ Sabbe satta sukhita hontu!
 
 ------
 
-revised on 2025-03-06
+revised on 2025-04-15
 
 ------
 
@@ -69,6 +69,7 @@ revised on 2025-03-06
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-15 rev. proofread by bhante
   2025-03-06 rev. proofread by bhante
   2021-01-27 proofread by bhante
   2021-01-11 rev. proofread by bhante; old title: Conclusion (Postscript)

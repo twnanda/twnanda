@@ -3,12 +3,12 @@ Having Made Merit in the Past (Maṅgala Sutta – Protection with Blessing)
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-07-04
+:modified: 2025-04-15
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Having Made Merit in the Past (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2020-07-04
+revised on 2025-04-15
 
 ------
 
@@ -50,13 +50,13 @@ The Buddha mentioned that there were no merits (kusala) which one should not do 
 
 In the Devatas Sutta (AN. 9.19 Devatāsuttaṃ), a number of deities came to see the Buddha, telling about their past merits and the present situations. The first group of deities said that in the past as human and monks approached them. They rose up for them but not paid homage to them.
 
-Lacking of the other merits, they were reborn as inferior class to compared to others. The second group – they rose up and paid homage but not offered seats. So they became inferior class if compared to others. The 3rd group – they did ① and ② but not offered things to the monks. ④ they shared things (offered) to the monks but not listened the Dhamma (here requested for Dhamma). ⑤ listened Dhamma but not with eager ears ⑥ listened with eager ears but not retained the Dhamma in minds. ⑦ retained the Dhamma in minds but not contemplated the meanings ⑧ contemplated the meanings but not put into practice ⑨ put the Dhamma into practice so that these last group of deities free from regret and remorse. The Buddha mentioned the whole episode to the monks and exhorted them to do all things which should be done, otherwise they would regret like those deities.
+Lacking of the other merits, they were reborn as inferior class compared to others. The second group – they rose up and paid homage but not offered seats. So they became inferior class if compared to others. The 3rd group – they did ① and ② but not offered things to the monks. ④ they shared things (offered) to the monks but not listened the Dhamma (here requested for Dhamma). ⑤ listened Dhamma but not with eager ears ⑥ listened with eager ears but not retained the Dhamma in minds. ⑦ retained the Dhamma in minds but not contemplated the meanings ⑧ contemplated the meanings but not put into practice ⑨ put the Dhamma into practice so that these last group of deities free from regret and remorse. The Buddha mentioned the whole episode to the monks and exhorted them to do all things which should be done, otherwise they would regret like those deities.
 
 The blessing of merits done in the past is very important for human beings because it was like planting a tree. From a tree we have a lot of benefits such as clean air (one way to deal with present global warming), good weather, give shade, fruits, flowers, for constructions, etc., in the same way merits done in the past and present will bring us good rebirths, good fortunes, welfare and protections. Everyone can stop the unwholesome for arising with a lot of wholesome kammas because wholesome and unwholesome kammas are following him as energies waiting for chances to give results.
 
 Deities have more appreciation and understanding of merits than human beings. In heavens their enjoyment in sensual pleasure and other benefits are totally depending on their past merits because they do not have the chances to perform merits in heavens. Even king of heaven,  Sakka had to come down to earth for making merit. Human beings (mostly) do not have any power or knowledge to know their past merits, instead they use their intelligence and effort (ñāṇa and viriya) to achieve what they want and need. 
 
-When deities are near death they want to take rebirth in human world for cultivation of merit and return back to heaven because human world is the best place for it and not because they like the place. (they disgust the smell of human’s.)
+When deities are near death they want to take rebirth in human world for cultivation of merit and return back to heaven because human world is the best place for it and not because they like the place. (they disgust the smell of human.)
 
 Someone is intelligent and wise, also encountering with good things and suitable situations, etc. because he or she had made merits in  past lives. People had many wholesome merits in their past lives, mostly had success whatever kind of endeavor they were in. In the Buddha time, the billionaire Jotika was a very good example. In modern-day, the Hong Kong business tycoon Mr. Li is also a very good evidence. He came from Mainland China into Hong Kong and met a Feng Sui master.
 
@@ -94,7 +94,7 @@ All these wholesome Dhammas were praised by the wise and noble person. It could 
 
 ------
 
-revised on 2020-07-04; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36785#p36785 (posted on 2019-09-17)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36785#p36785 (posted on 2019-09-17)
 
 ------
 
@@ -109,6 +109,7 @@ revised on 2020-07-04; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   07-04 add: (AN. 9.19 Devatāsuttaṃ), Āthana Sutta (?? attāṇa sutta)   
   2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante

@@ -3,12 +3,12 @@ Worse Than an Atomic Bomb
 ==========================================
 
 :date: 2024-03-27
-:modified: 2024-06-09
+:modified: 2025-04-15
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: Worse Than an Atomic Bomb (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2024-06-09
+revised on 2025-04-15
 
 ------
 
@@ -18,7 +18,7 @@ The Buddha spent 45 years warning us 36 times. So this matter is very important.
 
 The arrangement of taṇhā and kamma is never good, even if it will lead to sugati (i.e., with merits). Because taṇhā is a lustful lunatic (rāgo’mmatta or rāgo-ummatta); following the order of the lunatic, that kamma builds the house of khandha, so can it be good? Except the truth of Dukkha it cannot be otherwise (even jhānas are Dukkha, no need to mention about the inferior sensual pleasures). The khandha, which we get from taṇhā and kamma, has many kinds of dukkha. (Sayadaw mentioned some of them). If you look at the D.A. process will know it. Don’t desire for sugati, Desire is taṇhā. Is taṇhā normal or crazy?
 
-The Buddha exhorted us to practising vipassanā. Do not be heedless with family matters and businesses. With heedlessness, at dying, remorse and worry become prevalent. (Sayadaw explained about the object signs of woeful existences and death bed situations). You have to prepare for it from now. At near death you have no time for it. I have to teach vipassanā if you want from grimaced death to smiling death. Vipassanā is very easy; I will explain how to practice it easily. (He told the story in the Indriyabhāvanā Sutta, No.152, Majjhima Nikāya) You will see the object if you open your eyes. After seeing it lobha, dosa and moha minds will arise (one of them). These can be desire, hatred, or no attention; among these three, one of them will arise. For all these mind states I am worrying about all of you. (Sayadaw told about the Japan atomic bomb. With every glance, if you lack sati, an atomic bomb falls on you (quilt funny analogy). If I were to speak openly or clearly, it would be more painful than an atomic bomb. Why is that? Because after seeing it, if greed (lobha mind) arises, it leads to uncountable births. Atomic bombs only kill you once (this life). Lobha (also dosa, moha) makes you die no end. Don’t take it lightly as I don’t believe it. This is natural law— Dhamma Niyama.
+The Buddha exhorted us to practising vipassanā. Do not be heedless with family matters and businesses. With heedlessness, at dying, remorse and worry become prevalent. (Sayadaw explained about the object signs of woeful existences and death bed situations). You have to prepare for it from now. At near death you have no time for it. I have to teach vipassanā if you want from grimaced death to smiling death. Vipassanā is very easy; I will explain how to practice it easily. (He told the story in the Indriyabhāvanā Sutta, No.152, Majjhima Nikāya) You will see the object if you open your eyes. After seeing it lobha, dosa and moha minds will arise (one of them). These can be desire, hatred, or no attention; among these three, one of them will arise. For all these mind states I am worrying about all of you. (Sayadaw told about the Japan atomic bomb. With every glance, if you lack sati, an atomic bomb falls on you (quite a funny analogy). If I were to speak openly or clearly, it would be more painful than an atomic bomb. Why is that? Because after seeing it, if greed (lobha mind) arises, it leads to uncountable births. Atomic bombs only kill you once (this life). Lobha (also dosa, moha) makes you die no end. Don’t take it lightly as I don’t believe it. This is natural law— Dhamma Niyama.
 
 (Here we can discern the importance of Dhamma Education and Dhamma Nutriments for all human kinds. It’s a great tragedy and disgusting to see some humans with their foolishness and craziness create a lot of tensions, conflicts, killings and harming or eliminate each other on the international levels–such as, territory or land disputes, competition in arms industries and economics, trade wars, etc. Even animals can live together in peace and harmony. This is my own experience in observing nature. Humans for greed, hatred, ill-will, envy, selfishness, etc. they can give up their lives for unwholesome dhammas.
 
@@ -30,7 +30,7 @@ The continuing dhamma (i.e., lobha) is stopped there (not lead to clinging—up�
 
 ------
 
-revised on 2024-06-09
+revised on 2025-04-15
 
 ------
 
@@ -49,5 +49,6 @@ revised on 2024-06-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   06-09 rev. proofread by bhante Uttamo
   2024-03-27 create rst

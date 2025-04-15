@@ -3,12 +3,12 @@ Texts — Maṅgala Sutta: Discourse on Protection with Blessings
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2020-03-24
+:modified: 2025-04-15
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: Texts — Maṅgala Sutta: Discourse on Protection with Blessings
 
-revised on 2020-03-24
+revised on 2025-04-15
 
 ------
 
@@ -24,7 +24,7 @@ By Venerable Uttamo Thera（尊者 鄔達摩 長老）
 | 4. Patirūpa desa-vāso ca：Residing in a suitable place.
 | 5. Pubbe ca kata-puññatā：Having made merit in the past.
 | 6. Atta-sammā-paṇidhi ca：Directing oneself rightly.
-| Etam maṅgalam-uttamaṁ：This is this highest protection with a blessing.
+| Etam maṅgalam-uttamaṁ：This is the highest protection with a blessing.
 | 
 | 7/8. Bāhu-saccañ ca sippañ ca：Broad knowledge, skill.
 | 9. Vinayo ca susikkhito：Well-mastered discipline.
@@ -154,7 +154,7 @@ We are learning the Maṅgala Sutta by heart even at a young age as children. Bu
 
 ------
 
-revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36769#p36769 (posted on 2019-09-11)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36769#p36769 (posted on 2019-09-11)
 
 ------
 
@@ -169,6 +169,7 @@ revised on 2020-03-24; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   2020-03-24 rev. the 2nd proofread by bhante
   2020-02-27 add & rev. proofread for-2nd-proved-by-bhante
   2019-12-03  create rst

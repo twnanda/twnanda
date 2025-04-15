@@ -3,12 +3,12 @@ Can’t See Nibbāna with Wrong View
 ==========================================
 
 :date: 2019-01-13
-:modified: 2019-07-25
+:modified: 2025-04-15
 :tags: nibbāna, wrong view, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhmma Talks
 :category: path of nirvana
 :summary: Can’t see Nibbāna with wrong view (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
 
-revised on 2019-07-25
+revised on 2025-04-15
 
 ------
 
@@ -62,7 +62,7 @@ The mind of fear and looking for refuge appeared together. These came about beca
 
 T3
 
-[Diṭṭhi is more fearful than taṇhā. It’s the source of painful destinations (dugati). So, it’s more dangerous than taṇhā. In this talk Sayadaw explained the D. A. process from the six senses doors. In our normal life we always create kammas without knowingly and most of them are unwholesome. 
+[Diṭṭhi is more fearful than taṇhā. It’s the source of painful destinations (dugati). So, it’s more dangerous than taṇhā. In this talk Sayadaw explained the D. A. process from the six sense doors. In our normal life we always create kammas without knowingly and most of them are unwholesome. 
 
 Only by vipassanā practice we stop creating kammas. He also emphasized about we were alive with each mind moment. We are seeing our birth and death moment to moment by practice. 
 
@@ -74,7 +74,7 @@ Wrong view is the rope binder and taṇhā is the floater. If you binds a person
 
 With this example, wrong view is more fearful than craving is quite evident (The Buddha was very skillful in using language and similes to teach living beings. There are a lot of things and dhamma for contemplation on wrong views and to penetrate its evils). 
 
-Whatever arises from the six senses doors and can’t contemplate with insight will connect with craving, clinging and kamma. You will not connect with it if you can contemplate. Therefore without any contemplation no way can rise up from the planes of misery. 
+Whatever arises from the six sense doors and can’t contemplate with insight will connect with craving, clinging and kamma. You will not connect with it if you can contemplate. Therefore without any contemplation no way can rise up from the planes of misery. 
 
 (Remember the warning of the Buddha as planes of misery were the permanent homes of living beings).
 
@@ -84,7 +84,7 @@ If the next mind is not arising, then he is dead. Because you are alive with ta�
 
 ------
 
-revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35707#p35707 (posted on 2019-01-09)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p=35707#p35707 (posted on 2019-01-09)
 
 ------
 
@@ -103,6 +103,7 @@ revised on 2019-07-25; cited from https://oba.org.tw/viewtopic.php?f=22&t=4049&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   07-25 rev. proofread by bhante
   2019-01-13  create rst
   https://mogokdhammatalks.blog/

@@ -3,12 +3,12 @@ A Mind Is Unshaken When Touched by the Ways of the World (Maṅgala Sutta – Pr
 ======================================================================================================
 
 :date: 2019-12-03
-:modified: 2021-07-28
+:modified: 2025-04-15
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Ven. Uttamo
 :category: path of nirvana
 :summary: A Mind Is Unshaken When Touched by the Ways of the World (Maṅgala Sutta – Protection with Blessing)
 
-revised on 2021-07-28
+revised on 2025-04-15
 
 ------
 
@@ -124,7 +124,7 @@ Gold(金) + Two swords(戔) = money = 錢.
 
 Therefore, Chinese language is wisdom language. This letter chan should be changed a little bit to suit to modern man. Instead, of two swords,  insert two atomic bombs beside gold. Why that? Because money syndrome is like the globalization. Everything becomes business like. Every day and everywhere, modern man just talks about money! money! It is like a crazy mad world. Arms race, trade war, protectionism, etc. testify this point. People do not welcome COVID-19, but they like to welcome money syndrome. An American politician even made his political slogan; “America First!” Americans like to compete and challenge in everything. Its culture become American Syndrome.
 
-Money, wealth, power, status, fame related to taṇhā which is the main source of dukkha. It obsesses human beings quite strongly and they become restless, emotional and sensual. Therefore, Buddha referred to the worldling mind as like a monkey. There are two English words which pronunciations close to money—these are monkey and honey. The beloved couple call each other as honey and sweetie, but never as monkey. Human loves honey and not monkey. These influential people, who have gain and wealth, power, status and fame should use them as honey and not as monkey. Their present life and future life to come will be better and better; if behave like monkey, they will become worse than a monkey. Everything has pair as bad or good; so, there are also two systems of politics and economics each—Monkey politics or honey politics; monkey economics or honey economics. With monkey politics and politicians or monkey economics and economists, it will bring suffering and problems. These are unsustainable. On the other hand, with honey politics and politicians or honey economics and economists, it will will bring happiness and peace. These are sustainable. Politic and economy itself are not problem which is human himself. The fools (bāla) teach the way to become a monkey, but the wise (paṇḍita) teach the way to become honey. Humans have choice and can create their own destiny. They are not under the influence and wish of the creator. They are under the law of action → reaction. Human himself can create Hell and Heaven on the earth. Therefore, every human being has the responsibility not to behave like a monkey.
+Money, wealth, power, status, fame related to taṇhā which is the main source of dukkha. It obsesses human beings quite strongly and they become restless, emotional and sensual. Therefore, Buddha referred to the worldling mind as like a monkey. There are two English words which pronunciations close to money—these are monkey and honey. The beloved couple call each other as honey and sweetie, but never as monkey. Human loves honey and not monkey. These influential people, who have gain and wealth, power, status and fame should use them as honey and not as monkey. Their present life and future life to come will be better and better; if behave like monkey, they will become worse than a monkey. Everything has pair as bad or good; so, there are also two systems of politics and economics each—Monkey politics or honey politics; monkey economics or honey economics. With monkey politics and politicians or monkey economics and economists, it will bring suffering and problems. These are unsustainable. On the other hand, with honey politics and politicians or honey economics and economists, it will will bring happiness and peace. These are sustainable. Politic and economy itself are not problem which is human himself. The fools (bāla) teach the way to become a monkey, but the wise (paṇḍita) teach the way to become honey. Humans have choice and can create their own destiny. They are not under the influence and wish of the creator. They are under the law of action ⇌ reaction. Human himself can create Hell and Heaven on the earth. Therefore, every human being has the responsibility not to behave like a monkey.
 
 We should not be in low spirit when not success for gains, because the time and situations are still not conducive for it. So, we have to try it again. Another thing we should think about is, with our success for gains, we could become conceited. It will make people around disgust you. For non-gain, the right way to deal with it is to reflect our mistakes and weak points; and then find out the answer for achieving them.
 
@@ -156,7 +156,7 @@ With gain become more and more insatiable. So, people want to gain more and more
 
 ------
 
-revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36997#p36997 (posted on 2019-11-22)
+revised on 2025-04-15; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p=36997#p36997 (posted on 2019-11-22)
 
 ------
 
@@ -171,6 +171,7 @@ revised on 2021-07-28; cited from https://oba.org.tw/viewtopic.php?f=22&t=4702&p
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-15 rev. proofread by bhante
   2023-08-08 rev. replace filename with static to match "gramma"
   07-28 rev. proofread by bhante 
              (old: A Mind that, When Touched by the Ways of the World is Unshaken)
