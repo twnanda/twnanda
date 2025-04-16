@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2025-03-09
+:modified: 2025-04-16
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -986,7 +986,7 @@ _`Part 16`
 
 _`For printing` full text of "Dhamma Talks by Mogok Sayadaw":
 
-- Size: B5, General (12 pt, PDF): `full text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-2025-0309.pdf>`__ (1465 pages, 2025-03-09)
+- Size: B5, General (12 pt, PDF): `full text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-2025-04-14.pdf>`__ (1465 pages, 2025-04-14)
 
 **Note:** Recommended to be printed in four volumes:
   
@@ -1003,11 +1003,16 @@ _`For printing` full text of "Dhamma Talks by Mogok Sayadaw":
  | c. the Axle of the Taints，part5-5.
  | 
      
-- Size: B5, Large font (14.5 pt, PDF): `full text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-2025-0309.pdf>`__ (1934 pages, 2025-03-09) **Note:** There are three (3) pages which are colourful as above.
+- Size: B5, Large font (14 pt, PDF): `full text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-B5-2025-04-14.pdf>`__ (1834 pages, 2025-04-14) **Note:** There are three (3) pages which are colourful as above.
 
-- `Size: A4, General (12 pt, PDF: `full text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-A4-2025-0309.pdf>`__ (1075 pages, 2025-03-09) **Note:** There are three (3) pages which are colourful.
+- `Size: A4, General (12 pt, PDF: `full text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-A4-2025-04-14.pdf>`__ (1064 pages, 2025-04-14) **Note:** There are three (3) pages which are colourful.
 
-- `Size: A4, Large font (14.5 pt, PDF:  `full text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-A4-2025-0309.pdf>`__ (1401 pages, 2025-03-09) 
+- `Size: A4, Large font (14 pt, PDF:  `full text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-14pt-print-A4-2025-04-14.pdf>`__ (1300 pages, 2025-04-14) 
+
+- Size: B5, Large font (16 pt, PDF): `full text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-16pt-print-B5-2025-04-14.pdf>`__ (2231 pages, 2025-04-14)
+
+- Size: B5, Large font (16 pt, **ODT** ): `full text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-16pt-print-B5-2025-04-14.odt>`__ (2224 pages, 2025-04-14)
+
 
 - Cover: `Vol-I <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/images/mogok-cover-vol-I-2025.png>`__ , `Vol-II <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/images/mogok-cover-vol-II-2025.png>`__ , `Vol-III <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/images/mogok-cover-vol-III-2025.png>`__ (2021-10), `Vol-IV <https://github.com/twnanda/mogok-sayadaw-pdf-odt-etc/blob/main/content/images/mogok-cover-vol-IV-2025.png>`__ (2025-03-09)
 
@@ -1261,19 +1266,22 @@ Protection with Blessing
 
 ------
 
-- `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text.pdf>`__ (PDF, 2021-10-21); 
+- `Full Text <https://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/pdf-odt-etc/protection-with-blessings-full-text-12pt-B5-print-2025-0416>`__ (PDF, 2025-04-16); 
 
-- `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-green.pdf>`__ (PDF, background in green, 2021-10-21)
+- `Full Text <https://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/pdf-odt-etc/protection-with-blessings-full-text-12pt-B5-reading-2025-0416.pdf>`__ (PDF, background in green, 2025-04-16)
 
 - For Print:
 
-  * Size: B5, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-12pt-print-B5.pdf>`__ (12 pt, 458 pages, 2021-10-21) 
+  * Size: B5, `general <https://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/pdf-odt-etc/protection-with-blessings-full-text-12pt-B5-reading-2025-0416.pdf>`__ (12 pt, 496 pages, 2025-04-16) 
 
-  * Size: B5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-14pt-print-B5.pdf>`__ (14 pt, 521 pages, 2021-10-21) 
+  * Size: B5, `large font <https://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/pdf-odt-etc/protection-with-blessings-full-text-14pt-B5-print-2025-0416.pdf>`__ (14 pt, 561 pages, 2025-04-16) 
 
-  * Size: A4, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-12pt-print-A4.pdf>`__ (12 pt, 322 pages, 2021-10-21) 
+  * Size: A4, `general <https://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/pdf-odt-etc/protection-with-blessings-full-text-12pt-A4-print-2025-0416.pdf>`__ (12 pt, 345 pages, 2025-04-16) 
 
-  * Size: A4, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-14pt-print-A4.pdf>`__ (14 pt, 362 pages, 2021-10-21) 
+  * Size: A4, `large font <https://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/pdf-odt-etc/protection-with-blessings-full-text-14pt-A4-print-2025-0416.pdf>`__ (14 pt, 391 pages, 2025-04-16) 
+
+  * Size: A4, large font; `ODT <https://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/pdf-odt-etc/protection-with-blessings-full-text-14pt-A4-print-2025-0416.pdf>`__ ( **ODT** 14 pt, 391 pages, 2025-04-16) 
+
 
 - `Cover <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mangala-cover.png>`__ of "Maṅgala Sutta" (2021-10-21)
 
@@ -1385,6 +1393,7 @@ Right Samādhi and Right Insight
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-16 rev. proofread by bhante (04-08)
   2025-03-09 rev. proofread by bhante (03-03)
    PDF, 2024-08-21 (<https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-reading-2024-0821.pdf)
    Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-print-B5-2024-0821.pdf>`__ (1469 pages, 2024-08-21)

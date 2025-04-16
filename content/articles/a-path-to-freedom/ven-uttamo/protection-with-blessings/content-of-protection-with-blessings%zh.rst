@@ -3,7 +3,7 @@ Content of Maṅgala Sutta – Protection with Blessing
 ===============================================================================
 
 :date: 2019-12-03
-:modified: 2024-03-23
+:modified: 2025-04-16
 :tags: Maṅgala Sutta, Protection with Blessing, Maṅgala, Protection, Bhikkhu Uttamo, Ven. Uttamo
 :category: path of nirvana
 :summary: Content of Maṅgala Sutta – Protection with Blessing
@@ -286,19 +286,21 @@ MP3 and Youtube of This Book
 
 ------
 
-- `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text.pdf>`__ (PDF, 2021-10-21); 
+- `Full Text <https://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/pdf-odt-etc/protection-with-blessings-full-text-12pt-B5-print-2025-0416>`__ (PDF, 2025-04-16); 
 
-- `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-green.pdf>`__ (PDF, background in green, 2021-10-21)
+- `Full Text <https://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/pdf-odt-etc/protection-with-blessings-full-text-12pt-B5-reading-2025-0416.pdf>`__ (PDF, background in green, 2025-04-16)
 
 - For Print:
 
-  * Size: B5, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-12pt-print-B5.pdf>`__ (12 pt, 458 pages, 2021-10-21) 
+  * Size: B5, `general <https://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/pdf-odt-etc/protection-with-blessings-full-text-12pt-B5-reading-2025-0416.pdf>`__ (12 pt, 496 pages, 2025-04-16) 
 
-  * Size: B5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-14pt-print-B5.pdf>`__ (14 pt, 521 pages, 2021-10-21) 
+  * Size: B5, `large font <https://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/pdf-odt-etc/protection-with-blessings-full-text-14pt-B5-print-2025-0416.pdf>`__ (14 pt, 561 pages, 2025-04-16) 
 
-  * Size: A4, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-12pt-print-A4.pdf>`__ (12 pt, 322 pages, 2021-10-21) 
+  * Size: A4, `general <https://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/pdf-odt-etc/protection-with-blessings-full-text-12pt-A4-print-2025-0416.pdf>`__ (12 pt, 345 pages, 2025-04-16) 
 
-  * Size: A4, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/protection-with-blessings-full-text-14pt-print-A4.pdf>`__ (14 pt, 362 pages, 2021-10-21) 
+  * Size: A4, `large font <https://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/pdf-odt-etc/protection-with-blessings-full-text-14pt-A4-print-2025-0416.pdf>`__ (14 pt, 391 pages, 2025-04-16) 
+
+  * Size: A4, large font; `ODT <https://nanda.online-dhamma.net/mangala-sutta-protection-with-blessings-uttamo/pdf-odt-etc/protection-with-blessings-full-text-14pt-A4-print-2025-0416.pdf>`__ ( **ODT** 14 pt, 391 pages, 2025-04-16) 
 
 - `Cover <https://github.com/twnanda/doc-pdf-etc/blob/master/image/mangala-cover.png>`__ of "Maṅgala Sutta" (2021-10-21)
 
@@ -311,6 +313,7 @@ MP3 and Youtube of This Book
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2025-04-16 rev. proofread by bhante (04-08)
   2024-03-23 rev. moving to identical repo; old: {static}/extra/authors/bhante-uttamo/audiobook/
   06-09 rev. youtube and mp3 of 14 Giving
   05-06 rev. add audio MP3 & Youtube with in additional paragraph
