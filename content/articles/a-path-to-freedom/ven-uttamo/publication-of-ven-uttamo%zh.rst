@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2025-04-16
+:modified: 2025-04-17
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -58,7 +58,7 @@ Dhamma Talks by Mogok Sayadaw
      - `Dhamma Reflection: Choice and Chance <{filename}dhamma-talks-by-mogok-sayadaw/pt16-40-dhamma-reflection-choice-and-chance%zh.rst>`__ (after Part 16)
      - `About the translator <{filename}dhamma-talks-by-mogok-sayadaw/dhamma-talks-by-mogok-sayadaw-about-the-translator%zh.rst>`__
    * - `Manuscript of Translations <{filename}dhamma-talks-by-mogok-sayadaw/translation-manuscript%zh.rst>`__ )
-     - `Full Text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-reading-2025-0309.pdf>`__ (PDF, 2025-03-09, for reading, on a soya green background)
+     - `Full Text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-reading-B5-2025-04-14.pdf>`__ (PDF, 2025-04-17, for reading, on a soya green background)
      - 
      - 
      - 
@@ -1393,6 +1393,7 @@ Right Samādhi and Right Insight
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-17 add. reading pdf
   04-16 rev. proofread by bhante (04-08)
   2025-03-09 rev. proofread by bhante (03-03)
    PDF, 2024-08-21 (<https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-reading-2024-0821.pdf)

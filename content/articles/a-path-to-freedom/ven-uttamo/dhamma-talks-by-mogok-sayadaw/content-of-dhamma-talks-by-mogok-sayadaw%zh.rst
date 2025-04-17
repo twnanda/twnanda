@@ -3,7 +3,7 @@ Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditi
 ======================================================================================
 
 :date: 2019-04-18
-:modified: 2025-04-16
+:modified: 2025-04-17
 :tags: publication, Bhikkhu Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned
 :category: path of nirvana
 :summary: Content of Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned
@@ -44,7 +44,7 @@ Dhamma Talks by Mogok Sayadaw
      - `Dhamma Reflection: Choice and Chance <{filename}pt16-40-dhamma-reflection-choice-and-chance%zh.rst>`__  (after Part 16)
      - `About the translator`_ 
    * - `Manuscript of Translations <{filename}translation-manuscript%zh.rst>`__ )
-     - `Full Text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-reading-2025-0309.pdf>`__ (PDF, 2025-03-09, for reading, on a soya green background)
+     - `Full Text <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-12pt-reading-B5-2025-04-14.pdf>`__ (PDF, 2025-04-17, for reading, on a soya green background)
      - 
      - 
      - 
@@ -1002,7 +1002,7 @@ _`For printing` full text of this book:
 
 - Cover: `Vol-I <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/images/mogok-cover-vol-I-2025.png>`__ , `Vol-II <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/images/mogok-cover-vol-II-2025.png>`__ , `Vol-III <https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/images/mogok-cover-vol-III-2025.png>`__ (2021-10), `Vol-IV <https://github.com/twnanda/mogok-sayadaw-pdf-odt-etc/blob/main/content/images/mogok-cover-vol-IV-2025.png>`__ (2025-03-09)
 
-revised on 2025-04-16
+revised on 2025-04-17
 
 ------
 
@@ -1013,6 +1013,7 @@ revised on 2025-04-16
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  04-17 add. reading pdf
   04-16 rev. proofread by bhante (04-08)
   2025-03-09 rev. proofread by bhante (03-03)
    PDF, 2024-08-21 (<https://nanda.online-dhamma.net/mogok-sayadaw-pdf-odt-etc/pdf/Dhamma_Talks_by_Mogok_Sayadaw-full-text-reading-2024-0821.pdf)
