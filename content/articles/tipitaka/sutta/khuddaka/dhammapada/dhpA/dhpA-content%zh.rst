@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2025-02-27
-:modified: 2025-03-21
+:modified: 2025-04-19
 :tags: 法句義注, 法句經, Dhammapada-aṭṭhakathā, Dhammapada Aṭṭhakathā, DhpA, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapada, Dhammapadapāḷi, The Path of Dhamma
 :category: 巴利三藏小部
 :summary: 巴利《法句義注》Dhammapada-aṭṭhakathā 目錄
@@ -57,16 +57,16 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `13. Lokavaggo (Dhp.167-178) <{filename}dhpA-chap13%zh.rst>`__ （以下幾品建構中！）
+   * - `13. Lokavaggo (Dhp.167-178) <{filename}dhpA-chap13%zh.rst>`__ 
      - `14. Buddhavaggo (Dhp.179-196) <{filename}dhpA-chap14%zh.rst>`__
-     - `15. Sukhavaggo (Dhp.197-208) <{filename}dhpA-chap15%zh.rst>`__
+     - `15. Sukhavaggo (Dhp.197-208) <{filename}dhpA-chap15%zh.rst>`__ （以下幾品建構中！）
      - `16. Piyavaggo (Dhp.209~220) <{filename}dhpA-chap16%zh.rst>`__
      - `17. Kodhavaggo (Dhp.221-234) <{filename}dhpA-chap17%zh.rst>`__
      - `18. Malavaggo (Dhp.235-255) <{filename}dhpA-chap18%zh.rst>`__
 
-   * - 13. 世品 (世間品 The World) （以下幾品建構中！）
+   * - 13. 世品 (世間品 The World)
      - 14. 佛陀品 (The Buddha)
-     - 15. 樂品 (Happiness)
+     - 15. 樂品 (Happiness) （以下幾品建構中！）
      - 16. 喜愛品 (Affection)
      - 17. 忿怒品 (Anger)
      - 18. 垢穢品 (Impurity)
@@ -136,6 +136,7 @@ v1.2（2024.9.30）
 
 
 .. 
+  04-19 finish chapter 13 & 14 (（巴利《法句義注》)
   03-21 finish chapter 9, 10, 11 & chapter 12 (（巴利《法句義注》)
   03-14 finish chapter 7 & chapter 8 (（巴利《法句義注》)
   03-12 finish chapter 5 & chapter 6 (（巴利《法句義注》)
