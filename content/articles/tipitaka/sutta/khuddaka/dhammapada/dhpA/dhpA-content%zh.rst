@@ -62,28 +62,28 @@
      - `15. Sukhavaggo (Dhp.197-208) <{filename}dhpA-chap15%zh.rst>`__
      - `16. Piyavaggo (Dhp.209~220) <{filename}dhpA-chap16%zh.rst>`__
      - `17. Kodhavaggo (Dhp.221-234) <{filename}dhpA-chap17%zh.rst>`__
-     - `18. Malavaggo (Dhp.235-255) <{filename}dhpA-chap18%zh.rst>`__ （以下幾品建構中！）
+     - `18. Malavaggo (Dhp.235-255) <{filename}dhpA-chap18%zh.rst>`__
 
    * - 13. 世品 (世間品 The World)
      - 14. 佛陀品 (The Buddha)
      - 15. 樂品 (Happiness)
      - 16. 喜愛品 (Affection)
      - 17. 忿怒品 (Anger)
-     - 18. 垢穢品 (Impurity) （以下幾品建構中！）
+     - 18. 垢穢品 (Impurity)
 
 .. list-table:: Content of Dhammapada Aṭṭhakathā
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
    * - `19. Dhammaṭṭhavaggo (Dhp.256-272) <{filename}dhpA-chap19%zh.rst>`__
-     - `20. Maggavaggo (Dhp.273-289) <{filename}dhpA-chap20%zh.rst>`__
+     - `20. Maggavaggo (Dhp.273-289) <{filename}dhpA-chap20%zh.rst>`__ （以下幾品建構中！）
      - `21. Pakiṇṇakavaggo (Dhp.290-305) <{filename}dhpA-chap21%zh.rst>`__
      - `22. Nirayavaggo (Dhp.306-319) <{filename}dhpA-chap22%zh.rst>`__
      - `23. Nāgavaggo (Dhp.320-333) <{filename}dhpA-chap23%zh.rst>`__
      - `24. Taṇhāvaggo (Dhp.334-359) <{filename}dhpA-chap24%zh.rst>`__
 
    * - 19. 法住品 (The Just)
-     - 20. 道品 (The Path)
+     - 20. 道品 (The Path) （以下幾品建構中！）
      - 21. 雜品 (Miscellaneous)
      - 22. 地獄品 (The State of Woe)
      - 23. 象品 (The Elephant)
@@ -136,7 +136,7 @@ v1.2（2024.9.30）
 
 
 .. 
-  04-20 finish chapter 15 & 17 (（巴利《法句義注》)
+  04-20 finish chapter 15 ~ 19 (（巴利《法句義注》)
   04-19 finish chapter 13 & 14 (（巴利《法句義注》)
   03-21 finish chapter 9, 10, 11 & chapter 12 (（巴利《法句義注》)
   03-14 finish chapter 7 & chapter 8 (（巴利《法句義注》)
