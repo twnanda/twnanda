@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2025-02-27
-:modified: 2025-04-20
+:modified: 2025-04-25
 :tags: 法句義注, 法句經, Dhammapada-aṭṭhakathā, Dhammapada Aṭṭhakathā, DhpA, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapada, Dhammapadapāḷi, The Path of Dhamma
 :category: 巴利三藏小部
 :summary: 巴利《法句義注》Dhammapada-aṭṭhakathā 目錄
@@ -76,17 +76,17 @@
    :header-rows: 1
 
    * - `19. Dhammaṭṭhavaggo (Dhp.256-272) <{filename}dhpA-chap19%zh.rst>`__
-     - `20. Maggavaggo (Dhp.273-289) <{filename}dhpA-chap20%zh.rst>`__ （以下幾品建構中！）
+     - `20. Maggavaggo (Dhp.273-289) <{filename}dhpA-chap20%zh.rst>`__
      - `21. Pakiṇṇakavaggo (Dhp.290-305) <{filename}dhpA-chap21%zh.rst>`__
      - `22. Nirayavaggo (Dhp.306-319) <{filename}dhpA-chap22%zh.rst>`__
-     - `23. Nāgavaggo (Dhp.320-333) <{filename}dhpA-chap23%zh.rst>`__
+     - `23. Nāgavaggo (Dhp.320-333) <{filename}dhpA-chap23%zh.rst>`__ （以下幾品建構中！）
      - `24. Taṇhāvaggo (Dhp.334-359) <{filename}dhpA-chap24%zh.rst>`__
 
    * - 19. 法住品 (The Just)
-     - 20. 道品 (The Path) （以下幾品建構中！）
+     - 20. 道品 (The Path)
      - 21. 雜品 (Miscellaneous)
      - 22. 地獄品 (The State of Woe)
-     - 23. 象品 (The Elephant)
+     - 23. 象品 (The Elephant) （以下幾品建構中！）
      - 24. 愛欲品 (Craving)
 
 .. list-table:: Content of Dhammapada Aṭṭhakathā
@@ -136,6 +136,7 @@ v1.2（2024.9.30）
 
 
 .. 
+  04-25 finish chapter 20 ~ 22 (（巴利《法句義注》)
   04-20 finish chapter 15 ~ 19 (（巴利《法句義注》)
   04-19 finish chapter 13 & 14 (（巴利《法句義注》)
   03-21 finish chapter 9, 10, 11 & chapter 12 (（巴利《法句義注》)

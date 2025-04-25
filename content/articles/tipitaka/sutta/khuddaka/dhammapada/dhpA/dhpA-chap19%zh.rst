@@ -15,13 +15,13 @@
 
 ----
 
-- 18. 垢穢品 Malavaggo 目錄
+- 19. 法住品 Dhammaṭṭhavaggo 目錄
 
 .. container:: align-right
 
    文喜比丘譯
 
-.. list-table:: 18. 垢穢品
+.. list-table:: 19. 法住品
 
   * - 1. 一法官的故事( dhp_256_257_ )
     - 2. 六群比丘的故事( dhp_258_ )
@@ -498,5 +498,6 @@ Sambahulasīlādisampannabhikkhuvatthu
 
 
 ..
+  04-24 rev. caption of table
   04-20 finish this chapter (Chap 19)
   2025-02-27 create rst; 
