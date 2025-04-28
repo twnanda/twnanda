@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2025-02-27
-:modified: 2025-04-26
+:modified: 2025-04-28
 :tags: 法句義注, 法句經, Dhammapada-aṭṭhakathā, Dhammapada Aṭṭhakathā, DhpA, The Buddha's Path of Wisdom, 法集要頌, 法句譬喻經, 出曜經, Dhammapada, Dhammapadapāḷi, The Path of Dhamma
 :category: 巴利三藏小部
 :summary: 巴利《法句義注》Dhammapada-aṭṭhakathā 目錄
@@ -94,12 +94,12 @@
    :header-rows: 1
 
    * - `25. Bhikkhuvaggo (Dhp.360-382) <{filename}dhpA-chap25%zh.rst>`__
-     - `26. Brāhmaṇavaggo (Dhp.383-423) <{filename}dhpA-chap26%zh.rst>`__ （本品建構中！）
+     - `26. Brāhmaṇavaggo (Dhp.383-423) <{filename}dhpA-chap26%zh.rst>`__
      - 
      - `Dhammapada (Dhp.001-423) <{filename}dhA-full%zh.rst>`__
 
    * - 25. 比丘品 (The Monk)
-     - 26. 婆羅門品 (The Holy Man) （本品建構中！）
+     - 26. 婆羅門品 (The Holy Man)
      - `跋語 (Postscript) <{filename}dhpA-postscript%zh.rst>`__
      - 整部 (The Full Text)
 
@@ -136,6 +136,7 @@ v1.2（2024.9.30）
 
 
 .. 
+  04-28 finish chapter 26 (（巴利《法句義注》)
   04-26 finish chapter 23 ~ 25 (（巴利《法句義注》)
   04-25 finish chapter 20 ~ 22 (（巴利《法句義注》)
   04-20 finish chapter 15 ~ 19 (（巴利《法句義注》)
