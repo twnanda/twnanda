@@ -1,4 +1,4 @@
-5. 愚品 (愚人品) Bālavaggo（巴利《法句義注》Dhammapada-aṭṭhakathā）
+5. 愚人品 Bālavaggo（巴利《法句義注》Dhammapada-aṭṭhakathā）
 ============================================================================
 
 :date: 2025-02-27
@@ -15,7 +15,7 @@
 
 ----
 
-- 5. 愚品 (愚人品) Bālavaggo 目錄
+- 5. 愚人品 Bālavaggo 目錄
 
 .. container:: align-right
 
