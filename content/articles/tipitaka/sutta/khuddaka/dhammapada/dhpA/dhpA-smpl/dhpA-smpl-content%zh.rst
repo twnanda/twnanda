@@ -2,7 +2,7 @@
 ###################################################
 
 :date: 2025-02-28
-:modified: 2025-03-21
+:modified: 2025-04-30
 :tags: 法句义注, 法句经, Dhammapada-aṭṭhakathā, Dhammapada Aṭṭhakathā, DhpA, The Buddha's Path of Wisdom, 法集要颂, 法句譬喻经, 出曜经, Dhammapada, Dhammapadapāḷi, The Path of Dhamma
 :category: 巴利三藏小部
 :summary: 巴利《法句义注》Dhammapada-aṭṭhakathā 目录
@@ -57,14 +57,14 @@
    :widths: 16 16 16 16 16 16 
    :header-rows: 1
 
-   * - `13. Lokavaggo (Dhp.167-178) <{filename}dhpA-smpl-chap13%zh.rst>`__ （以下几品建构中！）
+   * - `13. Lokavaggo (Dhp.167-178) <{filename}dhpA-smpl-chap13%zh.rst>`__
      - `14. Buddhavaggo (Dhp.179-196) <{filename}dhpA-smpl-chap14%zh.rst>`__
      - `15. Sukhavaggo (Dhp.197-208) <{filename}dhpA-smpl-chap15%zh.rst>`__
      - `16. Piyavaggo (Dhp.209~220) <{filename}dhpA-smpl-chap16%zh.rst>`__
      - `17. Kodhavaggo (Dhp.221-234) <{filename}dhpA-smpl-chap17%zh.rst>`__
      - `18. Malavaggo (Dhp.235-255) <{filename}dhpA-smpl-chap18%zh.rst>`__
 
-   * - 13. 世品 (世间品 The World) （以下几品建构中！）
+   * - 13. 世品 (世间品 The World)
      - 14. 佛陀品 (The Buddha)
      - 15. 乐品 (Happiness)
      - 16. 喜爱品 (Affection)
@@ -77,14 +77,14 @@
 
    * - `19. Dhammaṭṭhavaggo (Dhp.256-272) <{filename}dhpA-smpl-chap19%zh.rst>`__
      - `20. Maggavaggo (Dhp.273-289) <{filename}dhpA-smpl-chap20%zh.rst>`__
-     - `21. Pakiṇṇakavaggo (Dhp.290-305) <{filename}dhpA-smpl-chap21%zh.rst>`__
+     - `21. Pakiṇṇakavaggo (Dhp.290-305) <{filename}dhpA-smpl-chap21%zh.rst>`__ （以下几品建构中！）
      - `22. Nirayavaggo (Dhp.306-319) <{filename}dhpA-smpl-chap22%zh.rst>`__
      - `23. Nāgavaggo (Dhp.320-333) <{filename}dhpA-smpl-chap23%zh.rst>`__
      - `24. Taṇhāvaggo (Dhp.334-359) <{filename}dhpA-smpl-chap24%zh.rst>`__
 
    * - 19. 法住品 (The Just)
      - 20. 道品 (The Path)
-     - 21. 杂品 (Miscellaneous)
+     - 21. 杂品 (Miscellaneous) （以下几品建构中！）
      - 22. 地狱品 (The State of Woe)
      - 23. 象品 (The Elephant)
      - 24. 爱欲品 (Craving)
@@ -138,6 +138,7 @@ v1.2（2024.9.30）
 
 
 .. 
+  04-30 finish chapter 13 & chapter 20 (（巴利《法句義注》)
   03-21 finish chapter 9, 10, 11 & chapter 12 (（巴利《法句義注》)
   03-14 finish 巴利《法句義注》 Chap. 7 & Chap. 8
   03-12 finish 巴利《法句義注》 Chap. 5 & Chap. 6
