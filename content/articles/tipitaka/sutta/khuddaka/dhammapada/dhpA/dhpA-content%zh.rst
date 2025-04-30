@@ -101,7 +101,7 @@
    * - 25. 比丘品 (The Monk)
      - 26. 婆羅門品 (The Holy Man)
      - `跋語 (Postscript) <{filename}dhpA-postscript%zh.rst>`__
-     - 整部 (The Full Text)  <{filename}dhpA-full%zh.rst>`__
+     - `整部 (The Full Text) <{filename}dhpA-full%zh.rst>`__
 
 ---------------------------
 
