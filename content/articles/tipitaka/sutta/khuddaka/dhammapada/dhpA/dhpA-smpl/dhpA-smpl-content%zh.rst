@@ -77,14 +77,14 @@
 
    * - `19. Dhammaṭṭhavaggo (Dhp.256-272) <{filename}dhpA-smpl-chap19%zh.rst>`__
      - `20. Maggavaggo (Dhp.273-289) <{filename}dhpA-smpl-chap20%zh.rst>`__
-     - `21. Pakiṇṇakavaggo (Dhp.290-305) <{filename}dhpA-smpl-chap21%zh.rst>`__ （以下几品建构中！）
+     - `21. Pakiṇṇakavaggo (Dhp.290-305) <{filename}dhpA-smpl-chap21%zh.rst>`__ 
      - `22. Nirayavaggo (Dhp.306-319) <{filename}dhpA-smpl-chap22%zh.rst>`__
      - `23. Nāgavaggo (Dhp.320-333) <{filename}dhpA-smpl-chap23%zh.rst>`__
      - `24. Taṇhāvaggo (Dhp.334-359) <{filename}dhpA-smpl-chap24%zh.rst>`__
 
    * - 19. 法住品 (The Just)
      - 20. 道品 (The Path)
-     - 21. 杂品 (Miscellaneous) （以下几品建构中！）
+     - 21. 杂品 (Miscellaneous)
      - 22. 地狱品 (The State of Woe)
      - 23. 象品 (The Elephant)
      - 24. 爱欲品 (Craving)
@@ -96,12 +96,12 @@
    * - `25. Bhikkhuvaggo (Dhp.360-382) <{filename}dhpA-smpl-chap25%zh.rst>`__
      - `26. Brāhmaṇavaggo (Dhp.383-423) <{filename}dhpA-smpl-chap26%zh.rst>`__
      - 
-     - `Dhammapada (Dhp.001-423) <{filename}dhA-full%zh.rst>`__
+     - Dhammapada (Dhp.001-423)
 
    * - 25. 比丘品 (The Monk)
      - 26. 婆罗门品 (The Holy Man)
      - `跋语 (Postscript) <{filename}dhpA-smpl-postscript%zh.rst>`__
-     - 整部 (The Full Text)
+     - `整部 (The Full Text) <{filename}dhpA-smpl-full%zh.rst>`__
 
 ---------------------------
 
@@ -138,7 +138,8 @@ v1.2（2024.9.30）
 
 
 .. 
-  04-30 finish chapter 13 & chapter 20 (（巴利《法句義注》)
+  04-30 finish chapter 13 ~ chapter 26 & full texts (（巴利《法句義注》)
+ （以下几品建构中！）
   03-21 finish chapter 9, 10, 11 & chapter 12 (（巴利《法句義注》)
   03-14 finish 巴利《法句義注》 Chap. 7 & Chap. 8
   03-12 finish 巴利《法句義注》 Chap. 5 & Chap. 6

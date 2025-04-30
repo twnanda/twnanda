@@ -9,7 +9,7 @@
 
 
 
-- 偈颂部份可另参 `多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst>`_ 
+- 偈颂部份可另参 `多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst>`__ 
 
 ------
 
@@ -683,7 +683,7 @@ Paṭācārāvatthu
 
 ------
 
-- 偈颂部份可另参 `多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst>`_ 
+- 偈颂部份可另参 `多版本对读 <{filename}../../dhp-contrast-reading/dhp-contrast-reading-chap20%zh.rst>`__ 
 
 ----
 
