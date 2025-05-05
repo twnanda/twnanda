@@ -160,13 +160,6 @@
 
 ------
 
-備註
-~~~~~~~~
-
-.. [mn003-1] 
-
-------
-
 - `蕭式球 譯 經藏 中部 Majjhimanikāya <{filename}majjhima-nikaaya-tr-by-siu-sk%zh.rst>`__
 
 - `巴利大藏經 經藏 中部 Majjhimanikāya <{filename}majjhima-nikaaya%zh.rst>`__
