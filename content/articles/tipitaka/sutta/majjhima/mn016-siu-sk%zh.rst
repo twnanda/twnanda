@@ -2,7 +2,7 @@
 ===========================================================
 
 :date: 2024-09-06
-:modified: 2025-05-05
+:modified: 2025-05-10
 :author: 蕭式球
 :tags: 心障礙經, 心荒蕪經, 心荒穢經, 心穢經, MN 16, mn16, M16, Cetokhilasuttaṃ,  Cetokhila Sutta, 蕭式球, 巴利三藏中部
 :category: 巴利三藏中部
@@ -105,7 +105,11 @@
 備註
 ~~~~~~~~
 
-.. [mn016-1] “欲定勤行神足(chanda-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)、精進定勤行神足(viriya-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)、心定勤行神足(citta-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)、觀定勤行神足(vīmaṁsa-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)” 稱為四神足，它們也簡稱為 “欲、精進、心、觀” 。四神足是取得 “心力/神力” (iddhi)的四條 “途徑” (pāda)：通過 “願欲” (chanda)為基礎的 “定” (samādhi)，精勤(padhāna)修行(saṅkhāra)來取得 “神足” ，是欲神足；通過 “精進” (viriya)為基礎的定，精勤修行來取得神足，是精進神足；通過 “高質素的心” (citta)為基礎的定，精勤修行來取得神足，是心神足；通過 “觀察分析” (vīmaṁsa)為基礎的定，精勤修行來取得神足，是觀神足。
+.. [mn016-1] 
+
+
+“欲定勤行神足(chanda-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)、精進定勤行神足(viriya-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)、心定勤行神足(citta-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)、觀定勤行神足(vīmaṁsa-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)” 稱為四神足，是取得 “神通” (iddhi)的四條 “途徑” (pāda)：通過 “願欲” (chanda)為基礎的 “定” (samādhi)，精勤(padhāna)修行(saṅkhāra)來取得 “神通” ，是欲定勤行神足，其餘三者同樣道理。
+
 
 .. [mn016-2] 這裏的十五支是指 “上進、四神足、捨棄五種內心障礙、善斷五種內心束縛” 十五種東西。
 
@@ -121,4 +125,7 @@
 
 
 ..
+  05-10; rev. footnote; old footnote: 
+  “欲定勤行神足(chanda-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)、精進定勤行神足(viriya-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)、心定勤行神足(citta-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)、觀定勤行神足(vīmaṁsa-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)” 稱為四神足，它們也簡稱為 “欲、精進、心、觀” 。四神足是取得 “心力/神力” (iddhi)的四條 “途徑” (pāda)：通過 “願欲” (chanda)為基礎的 “定” (samādhi)，精勤(padhāna)修行(saṅkhāra)來取得 “神足” ，是欲神足；通過 “精進” (viriya)為基礎的定，精勤修行來取得神足，是精進神足；通過 “高質素的心” (citta)為基礎的定，精勤修行來取得神足，是心神足；通過 “觀察分析” (vīmaṁsa)為基礎的定，精勤修行來取得神足，是觀神足。
+
   2025-05-05; created on 2024-09-06
