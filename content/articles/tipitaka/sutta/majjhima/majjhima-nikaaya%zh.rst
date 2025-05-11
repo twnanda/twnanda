@@ -5510,7 +5510,7 @@ Devadahavaggo 天臂品
 
 .. _MN105:
 
-- MN 105: Sunakkhatta Sutta, 中部105, 舍彌村經, M ii 252
+- MN 105: Sunakkhatta Sutta, 中部105, 善星經, M ii 252
 
   * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn105>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn105>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
@@ -5604,7 +5604,7 @@ Devadahavaggo 天臂品
 
 .. _MN107:
 
-- MN 107: Gaṇakamoggallāna Sutta, 中部107, 舍彌村經, M iii 1
+- MN 107: Gaṇakamoggallāna Sutta, 中部107, 算師目犍連經, 會計師目犍連經, 算數家目犍連經, M iii 1
 
   * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn107>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn107>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
@@ -5730,7 +5730,7 @@ Devadahavaggo 天臂品
 
 .. _MN110:
 
-- MN 110: Cūḷapuṇṇama Sutta, 中部110, 舍彌村經, M iii 20
+- MN 110: Cūḷapuṇṇama Sutta, 中部110, 滿月小經, 小月圓經, M iii 20
 
   * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn110>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn110>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
@@ -8713,7 +8713,7 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 .. [14] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Majjhima Nikāya (MN) <https://suttacentral.net/mn>`__ 。
 
 ..
-  2025-05-11 rev. old: MN 86: Raṭṭhapāla Sutta
+  2025-05-11 rev. old: MN 86: Raṭṭhapāla Sutta; 中部105, 舍彌村經; 中部107, 舍彌村經; 中部110, 舍彌村經; 
   12.17 2018 add: 一切漏經注 書目 & 書訊
   12.30 add: 國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」:雜阿含經 、增壹阿含經；CBETA:雜阿含經 （ 50 卷本 ，劉宋　求那跋陀羅　譯）、別譯雜阿含經 （失譯，16 卷本）、雜阿含經 （失譯， 單卷本 ）、中阿含經 （東晉　瞿曇 僧伽提婆　譯，共 60 卷）、增壹阿含經 （東晉　瞿曇 僧伽提婆　譯，共 51 卷）、長阿含經 （後秦　佛陀耶舍　共　竺佛念　譯，共 22 卷）; 台語與佛典: 中阿含讀書會 、增支部尼柯耶讀書會、增一阿含讀書會
   12.27 add:漏盡經 ( 台大獅子吼佛學專站 ； 阿含站專案列表 → 中阿含經 → 卷第二 )
