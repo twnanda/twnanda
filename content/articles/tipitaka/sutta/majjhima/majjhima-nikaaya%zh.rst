@@ -2,7 +2,7 @@ Majjhima-nikāya 巴利大藏經 經藏 中部 (Further Dialogues of the Buddha;
 =============================================================================================================
 
 :date: 2003-07-13
-:modified: 2018-12-17
+:modified: 2025-05-11
 :tags: 中部尼柯耶, 中部, 尼柯耶, Majjhima nikāya, 巴利三藏中部
 :category: 巴利三藏中部
 :summary: Majjhima-nikāya 中部 (Further Dialogues of the Buddha; The "Middle-length" Discourses)
@@ -4609,11 +4609,11 @@ Rājavaggo 王品
 
 .. _MN86:
 
-- MN 86: Raṭṭhapāla Sutta, 中部86, 鴦掘摩羅經, 鴦掘摩經, M ii 97
+- MN 86: Aṅgulimāla Sutta, 中部86, 鴦掘摩羅經, 鴦掘摩經, M ii 97
 
   * 概要、題解： `Ⅰ <{filename}majjhima-nikaya-summary-guan-hiang%zh.rst#mn86>`__ （ **通妙** 譯，元亨寺） [8]_ 、 `Ⅱ <{filename}majjhima-nikaya-summary-santagavesaka%zh.rst#mn86>`__ （ **尊者覓寂比丘, Santagavesaka Bhikkhu** ）
 
-  * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Raṭṭhapālasuttaṃ
+  * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：Aṅgulimālasuttaṃ
 
     - `2.4.6 Aṅgulimāla suttaṃ <http://www.accesstoinsight.org/tipitaka/sltp/MN_II_utf8.html#pts.097>`__ (PTS, `Access to Insight <http://www.accesstoinsight.org/>`_ ) [1]
 
@@ -8713,6 +8713,7 @@ _`Majjhimanikāya-aṭṭhakathā & Ṭīkā《中部注釋與疏抄》`
 .. [14] 請參考： `SuttaCentral <https://suttacentral.net/>`__ -- *Early Buddhist texts, translations, and parallels*  →  Pāli Suttas →  `Majjhima Nikāya (MN) <https://suttacentral.net/mn>`__ 。
 
 ..
+  2025-05-11 rev. old: MN 86: Raṭṭhapāla Sutta
   12.17 2018 add: 一切漏經注 書目 & 書訊
   12.30 add: 國立臺灣大學 「 獅子吼佛學專站 」「 阿含藏專案列表 」:雜阿含經 、增壹阿含經；CBETA:雜阿含經 （ 50 卷本 ，劉宋　求那跋陀羅　譯）、別譯雜阿含經 （失譯，16 卷本）、雜阿含經 （失譯， 單卷本 ）、中阿含經 （東晉　瞿曇 僧伽提婆　譯，共 60 卷）、增壹阿含經 （東晉　瞿曇 僧伽提婆　譯，共 51 卷）、長阿含經 （後秦　佛陀耶舍　共　竺佛念　譯，共 22 卷）; 台語與佛典: 中阿含讀書會 、增支部尼柯耶讀書會、增一阿含讀書會
   12.27 add:漏盡經 ( 台大獅子吼佛學專站 ； 阿含站專案列表 → 中阿含經 → 卷第二 )
