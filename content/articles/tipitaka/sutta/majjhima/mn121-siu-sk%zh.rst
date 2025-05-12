@@ -52,7 +52,7 @@
 
 取材自： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 《中部》 `第 101-第 152經 <https://www.chilin.org/upload/culture/doc/1666608331.pdf>`_ (PDF) （香港，「志蓮淨苑」-文化）
 
-原先連結： http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=394
+原先連結： http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=60&id=445
 
 出現錯誤訊息：
 
