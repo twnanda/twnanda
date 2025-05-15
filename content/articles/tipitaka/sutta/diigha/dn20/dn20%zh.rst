@@ -3,7 +3,7 @@
 ============================================
 
 :date: 2021-09-20
-:modified: 2021-09-20
+:modified: 2025-05-15
 :tags: 大會經, 大集會經, DN.20 Mahāsamayasuttaṃ, dn 20, Dn20, The Great Meeting, The Great Assembly, 大集会経
 :category: 巴利三藏長部
 :summary: 大會經(大集會經， DN.20 Mahāsamayasuttaṃ)
@@ -26,7 +26,7 @@
 
   - `大集會經；莊春江 譯 <{filename}dn20-chuangcj%zh.rst>`__ [原始出處請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ → 20 → `長部20經/大集會經(大品[第二]); 莊春江 <http://agama.buddhason.org/DN/DN20.htm>`__ ]。
 
-  - `長部．二十．大會經；蕭式球 譯 <{filename}dn20-siusk%zh.rst>`__ (原始出處請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ --5.1.2.026；或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ --南傳佛教-- 5.1.巴利文佛典選譯-- 5.1.1.長部 → 20 大會經 → `【長部．二十．大會經】蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=536>`__ )
+  - `長部．二十．大會經；蕭式球 譯 <{filename}dn20-siusk%zh.rst>`__ (原始出處請參考：《長部》 `第二分 （14-23經） <https://www.chilin.org/upload/culture/doc/1666608287.pdf>`_ (PDF) （香港，「志蓮淨苑」-文化）
 
   - `大會經 <http://tripitaka.cbeta.org/B06n0003_002#0069a01>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典二．大會經第二十; [0069a01] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 69, a1)
 
@@ -65,4 +65,5 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2025-05-15 rev.  old: `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ --5.1.2.026；或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ --南傳佛教-- 5.1.巴利文佛典選譯-- 5.1.1.長部 → 20 大會經 → `【長部．二十．大會經】蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=536>`__ )
   09-20 finish & post; 2021-09-14 create rst

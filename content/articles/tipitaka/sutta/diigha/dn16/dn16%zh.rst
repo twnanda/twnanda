@@ -1,10 +1,9 @@
------------------------------------------------------
+------------------------------------------------------------
 大般涅槃經/長部16經/般涅槃大經 Mahāparinibbānasuttaṃ
------------------------------------------------------
+------------------------------------------------------------
 
 :date: 2004-08-24
-:modified: 2023-01-12
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16.html
+:modified: 2025-05-15
 :tags: 巴利三藏長部, 大般涅槃經, 南傳大般涅槃經, 大般湼槃經, 般涅槃大經, D16 Mahāparinibbānasuttaṃ, D16, Mahāparinibbānasuttaṃ, DN 16, Dn16, dn16, dn 16
 :category: 巴利三藏長部
 :summary: (南傳巴利語)大般涅槃經/長部16經/般涅槃大經 Mahāparinibbānasuttaṃ
@@ -100,7 +99,7 @@
 
 .. [3] 請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ → 16 → `長部16經/般涅槃大經(大品[第二]); 莊春江 <http://agama.buddhason.org/DN/DN16.htm>`__ ]
 
-.. [4] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ --5.1.2.026；或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ --南傳佛教-- 5.1.巴利文佛典選譯-- 5.1.1.長部 → 16 大般湼槃經 → `【長部．十六．大般湼槃經】蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359>`__ ，頁1～ `頁15 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=955:0>`__ )
+.. [4] 請參考： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ ， `《長部》 <https://www.chilin.org/news/news-detail.php?id=202&type=2#%E9%95%B7%E9%83%A8>`__ 《長部》 `第二分 （14-23經） <https://www.chilin.org/upload/culture/doc/1666608287.pdf>`_ (PDF) （香港，「志蓮淨苑」-文化）
 
 .. [5] 請參考： `南傳大般涅槃經 <http://www.towisdom.org.tw/04-detail.asp?BookNo=1008>`__ (慧炬出版社)
 
@@ -238,6 +237,9 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2025-05-15 rev. old: `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ --5.1.2.026；或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ --南傳佛教-- 5.1.巴利文佛典選譯-- 5.1.1.長部 → 16 大般湼槃經 → `【長部．十六．大般湼槃經】蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359>`__ ，頁1～ `頁15 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359&page_id=955:0>`__ )
+   :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16.html
+
   2023-08-08 rev. replace filename with static to match "gramma"
   2023-01-12 rev. move to directory of open-passive, old: https://drive.google.com/open?id=0B-WGqLRmkmMpQTVKVlNuTTA0cjA ; re-deploy at 3:39 pm
 

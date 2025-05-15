@@ -1,13 +1,13 @@
 長部2經 Sāmaññaphalasuttaṃ 沙門果經
-===================================
+=======================================
 
 :date: 2005-04-17
-:modified: 2017-12-28
+:modified: 2025-05-15
 :tags: 沙門果經, D2 Sāmaññaphalasuttaṃ, 巴利三藏長部
 :category: 巴利三藏長部
-:summary: 長部2經 (DN02) Sāmaññaphalasuttaṃ 沙門果經
-          The Fruits of the Contemplative Life
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/Saamannaphala/Saamannaphala.html
+:summary: 長部2經 (DN02) Sāmaññaphalasuttaṃ 沙門果經, The Fruits of the Contemplative Life
+
+
 
 DN 2 Sāmaññaphala Sutta PTS 編次(No.): DN 02; PTS頁碼(Pp.): D i 47
 
@@ -21,7 +21,7 @@ DN 2 Sāmaññaphala Sutta PTS 編次(No.): DN 02; PTS頁碼(Pp.): D i 47
 
   * `沙門果經 <http://agama.buddhason.org/DN/DN02.htm>`__ (莊春江；臺灣) [3]_
 
-  * `沙門果經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=272>`__ (蕭式球；香港) [4]_
+  * `沙門果經  <{filename}../dn02-siu-sk%zh.rst>`__ (蕭式球；香港) [4]_
 
   * 主譯：德雄比丘（Bhikkhu Guooavaara）(中文助譯：不成道人)(2002年9月)[英文編譯：菩提比丘（Bhikkhu Bodhi）1988年5月]
 
@@ -79,7 +79,7 @@ DN 2 Sāmaññaphala Sutta PTS 編次(No.): DN 02; PTS頁碼(Pp.): D i 47
 
 .. [3] 請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯 長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ → `2 <http://agama.buddhason.org/DN/DN02.htm>`__ （長部2經/沙門果經(戒蘊品[第一])(莊春江譯)）
 
-.. [4] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.1.長部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） → `02 沙門果經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=272>`__
+.. [4] 請參考： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ （香港，「志蓮淨苑」-文化） `第一分 （1-13經） <https://www.chilin.org/upload/culture/doc/1666608275.pdf>`_ (PDF) （香港，「志蓮淨苑」-文化）
 
 .. [5] 請參考： `N 《漢譯南傳大藏經》 <http://tripitaka.cbeta.org/N>`__ （紙本來源：元亨寺漢譯南傳大藏經編譯委員會 / 高雄：元亨寺妙林出版社, 1995.） → 經藏／經藏／長部 → `N06 <http://tripitaka.cbeta.org/N06>`__ → 第 6 冊：直接進入閱讀 `N06n0004　長部經典(第1卷-第14卷) ( 14 卷)　【通妙譯】 <http://tripitaka.cbeta.org/N06n0004>`_ （ → `第 002 卷 <http://tripitaka.cbeta.org/N06n0004_002>`__ 二　沙門果經）、下載 `ePub <http://www.cbeta.org/download/epub/download.php?file=N/N0004.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/N/N0004.mobi>`__ 、 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/N/N0004.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/N/N0004.pdf>`__ 。
 
@@ -100,6 +100,7 @@ DN 2 Sāmaññaphala Sutta PTS 編次(No.): DN 02; PTS頁碼(Pp.): D i 47
 
 .. [12] `增壹阿含經 <http://buddhaspace.org/agama1/>`__ → `馬血天子問八政品第四十三 <http://buddhaspace.org/agama1/43.html>`__ → `（七） <http://buddhaspace.org/agama1/43.html#七>`__  (國立臺灣大學 「 `獅子吼佛學專站 <http://buddhaspace.org/main/modules/dokuwiki/agama:%E5%8F%B0%E5%A4%A7%E7%8D%85%E5%AD%90%E5%90%BC%E4%BD%9B%E5%AD%B8%E5%B0%88%E7%AB%99%E7%B0%A1%E4%BB%8B>`_ 」「 `阿含藏專案列表 <http://buddhaspace.org/main/modules/dokuwiki/>`_ 」)
 ..
+  2025-05-15 rev. old: (蕭式球；香港) 沙門果經  http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=272;  `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.1.長部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） → `02 沙門果經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=272>`__  ; :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/Saamannaphala/Saamannaphala.html
   2023-08-08 rev. replace filename with static to match "gramma"
   12.28 add:通妙譯，元亨寺; SuttaCentral; 獅子吼佛學專站「 阿含藏專案列表 」footnote; 
   12.27 2017 add: 巴利(Pāḷi) 原典; del:  * 韋提希子月夜問夫人經(已亡佚，原參赤沼智善《漢巴四部四阿含互照錄》的對照表)(聶承遠--誤植)

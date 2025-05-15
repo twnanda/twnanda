@@ -1,8 +1,8 @@
 Dīghanikāya 巴利大藏經 經藏 長部 (The Long Discourses)
-#######################################################
+###########################################################
 
 :date: 2003-07-13
-:modified: 2021-09-20
+:modified: 2025-05-15
 :tags: Dīghanikāya, 巴利三藏長部, Dialogues of the Buddha, The "Long" Discourses
 :category: 巴利三藏長部
 :summary: Dīghanikāya 長部
@@ -29,7 +29,7 @@ Dīghanikāya 巴利大藏經 經藏 長部 (The Long Discourses)
 
   * `漢譯 長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ ；莊春江 (original: 原始出處) [3]_
 
-  * `長部 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ ；蕭式球 (original: 原始出處) [4]_
+  * `長部 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ ；蕭式球 (original: 原始出處) [4]_
 
   * `南傳長部經典 <http://tripitaka.cbeta.org/B06n0003>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（錄至《弊宿經第二十三》；下載 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/B/B0003.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/B/B0003.pdf>`__ 、 `ePub <http://www.cbeta.org/download/epub/download.php?file=B/B0003.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/B/B0003.mobi>`__ ; original 原始出處: `CBETA <http://www.cbeta.org/>`__ [5]_
 
@@ -104,7 +104,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `漢譯 長部1經/梵網經 <http://agama.buddhason.org/DN/DN01.htm>`__ ；莊春江 [3]_
 
-    * `梵網經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=490>`__ ；蕭式球 [4]_
+    * `梵網經 <{filename}dn01-siu-sk%zh.rst>`_ ；蕭式球 [4]_
 
     * `梵網經 <http://tripitaka.cbeta.org/B06n0003_001#0004b17>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典一．梵網經第一; [0004b18] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 4, b18) [5]_
 
@@ -144,7 +144,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `漢譯 長部3經/安玻德經 <http://agama.buddhason.org/DN/DN03.htm>`__ ；莊春江 [3]_
 
-    * `菴婆多經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=491>`__ ；蕭式球 [4]_
+    * `菴婆多經 <{filename}dn03-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `阿摩晝經 <http://tripitaka.cbeta.org/B06n0003_001#0016a22>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典一．阿摩晝經第三; [0016a22] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 16, 22) [5]_
  
@@ -176,7 +176,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `漢譯 長部4經/犬杖經 <http://agama.buddhason.org/DN/DN04.htm>`__ ；莊春江 [3]_
 
-    * `須那檀多經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=492>`__ ；蕭式球 [4]_
+    * `須那檀多經 <{filename}dn04-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `種德經 <http://tripitaka.cbeta.org/B06n0003_001#0019a09>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典一．種德經第四; [0019a09] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 19, 9) [5]_
  
@@ -206,7 +206,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `漢譯 長部5經/古得旦得經 <http://agama.buddhason.org/DN/DN05.htm>`__ ；莊春江 [3]_
 
-    * `究羅檀頭經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=493>`__ ；蕭式球 [4]_
+    * `究羅檀頭經 <{filename}dn05-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `究羅檀頭經 <http://tripitaka.cbeta.org/B06n0003_001#0020b31>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典一．究羅檀頭經第五; [0020b31] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 20, b31) [5]_
  
@@ -236,7 +236,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `漢譯 長部6經/摩訶里經 <http://agama.buddhason.org/DN/DN06.htm>`__ ；莊春江 [3]_
 
-    * `摩訶梨經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=494>`__ ；蕭式球 [4]_
+    * `摩訶梨經 <{filename}dn06-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `摩訶梨經 <http://tripitaka.cbeta.org/B06n0003_001#0023b04>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典一．摩訶梨經第六; [0023b04] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 23, b4) [5]_
  
@@ -266,7 +266,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `漢譯 長部7經/若里亞經 <http://agama.buddhason.org/DN/DN07.htm>`__ ；莊春江 [3]_
 
-    * `吒尼耶經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=495>`__ ；蕭式球 [4]_
+    * `吒尼耶經 <{filename}dn07-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `闍利經 <http://tripitaka.cbeta.org/B06n0003_001#0024b06>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典一．闍利經第七; [0024b06] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 24, b6) [5]_
  
@@ -311,7 +311,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `漢譯 長部8經/獅子吼大經 <http://agama.buddhason.org/DN/DN08.htm>`__ ；莊春江 [3]_
 
-    * `獅吼經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=496>`__ ；蕭式球 [4]_
+    * `獅吼經 <{filename}dn08-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `迦葉師子吼經 <http://tripitaka.cbeta.org/B06n0003_001#0024b15>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典一．迦葉師子吼經第八; [0024b15] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 24, b15) [5]_
  
@@ -341,7 +341,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `漢譯 長部9經/玻得播達經 <http://agama.buddhason.org/DN/DN09.htm>`__ ；莊春江 [3]_
 
-    * `布吒波陀經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=497>`__ ；蕭式球 [4]_
+    * `布吒波陀經 <{filename}dn09-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `布吒婆樓經 <http://tripitaka.cbeta.org/B06n0003_001#0027a07>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典一．布吒婆樓經第九; [0027a07] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 27, a7) [5]_
  
@@ -373,7 +373,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `漢譯 長部10經/蘇玻經 <http://agama.buddhason.org/DN/DN10.htm>`__ ；莊春江 [3]_
 
-    * `須跋經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=498>`__ ；蕭式球 [4]_
+    * `須跋經 <{filename}dn10-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `須婆經 <http://tripitaka.cbeta.org/B06n0003_001#0030a24>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典一．須婆經第十; [0030a24] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 30, 24) [5]_
  
@@ -401,7 +401,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `漢譯 長部11經/給哇得經 <http://agama.buddhason.org/DN/DN11.htm>`__ ；莊春江 [3]_
 
-    * `羇婆多經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=499>`__ ；蕭式球 [4]_
+    * `羇婆多經 <{filename}dn11-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `堅固經 <http://tripitaka.cbeta.org/B06n0003_001#0031a16>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典一．堅固經第十一; [0031a16] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 31, 16) [5]_
  
@@ -435,7 +435,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `漢譯 長部12經/羅希者經 <http://agama.buddhason.org/DN/DN12.htm>`__ ；莊春江 [3]_
 
-    * `露遮經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=500>`__ ；蕭式球 [4]_
+    * `露遮經 <{filename}dn12-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `露遮經 <http://tripitaka.cbeta.org/B06n0003_001#0032b11>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典一．露遮經第十二; [0032b11] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 32, b11) [5]_
  
@@ -467,7 +467,7 @@ sīlakkhandhavagga 戒蘊(集)品
 
     * `漢譯 長部13經/三明經 <http://agama.buddhason.org/DN/DN13.htm>`__ ；莊春江 [3]_
 
-    * `三明經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=501>`__ ；蕭式球 [4]_
+    * `三明經 <{filename}dn13-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `三明經 <http://tripitaka.cbeta.org/B06n0003_001#0034a09>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典一．三明經第十三; [0034a09] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 34, 9) [5]_
  
@@ -526,7 +526,7 @@ mahāvagga 大品
 
     * `漢譯 長部14經/譬喻大經 <http://agama.buddhason.org/DN/DN14.htm>`__ ；莊春江 [3]_
 
-    * `大本經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=502>`__ ；蕭式球 [4]_
+    * `大本經 <{filename}dn14-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `大本經 <http://tripitaka.cbeta.org/B06n0003_001#0036b01>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典一．大本經第十四; [0036b01] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 36, b1) [5]_
 
@@ -564,7 +564,7 @@ mahāvagga 大品
 
     * `漢譯 長部15經/因緣大經 <http://agama.buddhason.org/DN/DN15.htm>`__ ；莊春江 [3]_
 
-    * `大因緣經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=503>`__ ；蕭式球 [4]_
+    * `大因緣經 <{filename}dn15-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `大緣經 <http://tripitaka.cbeta.org/B06n0003_002#0044b18>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典二．大緣經第十五; [0044b18] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 44, b18) [5]_
 
@@ -612,7 +612,7 @@ mahāvagga 大品
 
     * `漢譯 長部17經/大善見經 <http://agama.buddhason.org/DN/DN17.htm>`__ ；莊春江 [3]_
 
-    * `大善見王經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=518>`__ ；蕭式球 [4]_
+    * `大善見王經 <{filename}dn17-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `大善見王經 <http://tripitaka.cbeta.org/B06n0003_002#0059a12>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典二．大善見王經第十七; [0059a12] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p.59, a12) [5]_
 
@@ -662,7 +662,7 @@ mahāvagga 大品
 
     * `漢譯 長部18經/人牛王經 <http://agama.buddhason.org/DN/DN18.htm>`__ ；莊春江 [3]_
 
-    * `眾中雄經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=519>`__ ；蕭式球 [4]_
+    * `眾中雄經 <{filename}dn18-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `闍尼沙經 <http://tripitaka.cbeta.org/B06n0003_002#0062b13>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典二．闍尼沙經第十八; [0062b13] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 62, b13) [5]_
 
@@ -706,7 +706,7 @@ mahāvagga 大品
 
     * `漢譯 長部19經/大總管經 <http://agama.buddhason.org/DN/DN19.htm>`__ ；莊春江 [3]_
 
-    * `大瞿毗陀經 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=520>`__ ；蕭式球 [4]_
+    * `大瞿毗陀經 <{filename}dn19-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `大典尊經 <http://tripitaka.cbeta.org/B06n0003_002#0065a12>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典二．大典尊經第十九; [0065a12] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 65, a12) [5]_
 
@@ -739,6 +739,8 @@ mahāvagga 大品
   * 漢譯：
 
     * `漢譯 長部21/帝釋所問經 <http://agama.buddhason.org/DN/DN21.htm>`__ ；莊春江 [3]_
+
+    * `帝釋問經 <{filename}dn21-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `帝釋所問經 <http://tripitaka.cbeta.org/B06n0003_002#0070b01>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典二．帝釋所問經第二十一; [0070b01] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 70, b1) [5]_
 
@@ -779,6 +781,8 @@ mahāvagga 大品
   * 漢譯：
 
     * `漢譯 長部23經/波亞西經 <http://agama.buddhason.org/DN/DN23.htm>`__ ；莊春江 [3]_
+
+    * `波耶尸經 <{filename}dn23-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `弊宿經 <http://tripitaka.cbeta.org/B06n0003_002#0075b22>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（長部經典二．弊宿經第二十三; [0075b22] ( `CBETA <http://www.cbeta.org/>`__ , B06, no. 3, p. 75, b22) [5]_
 
@@ -838,6 +842,8 @@ pāthikavagga 波梨品
 
     * `漢譯 長部24經/波梨經 <http://agama.buddhason.org/DN/DN24.htm>`__ ；莊春江 [3]_
 
+    * `波吒釐經 <{filename}dn24-siu-sk%zh.rst>`__ ；蕭式球 [4]_
+
     * `波梨經 <http://tripitaka.cbeta.org/N08n0004_024>`__ ；通妙譯，元亨寺漢譯南傳大藏經；一　波梨經; [0001a02] ( `CBETA <http://www.cbeta.org/>`__ , N08, no. 4, p. 1, a2) [6]_
 
     * 對照之阿含經典及其他： 
@@ -861,6 +867,8 @@ pāthikavagga 波梨品
   * 漢譯：
 
     * `漢譯 長部25經/烏頓玻利額經 <http://agama.buddhason.org/DN/DN25.htm>`__ ；莊春江 [3]_
+
+    * `優曇波利園獅子吼經 <{filename}dn25-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `優曇婆邏師子吼經 <http://tripitaka.cbeta.org/N08n0004_025>`__ ；通妙譯，元亨寺漢譯南傳大藏經；二五　優曇婆邏師子吼經; [0036a02] ( `CBETA <http://www.cbeta.org/>`__ , N08, no. 4, p. 36, a2) [6]_
 
@@ -889,6 +897,8 @@ pāthikavagga 波梨品
   * 漢譯：
 
     * `漢譯 長部26經/轉輪王經 <http://agama.buddhason.org/DN/DN26.htm>`__ ；莊春江 [3]_
+
+    * `轉輪王獅子吼經 <{filename}dn26-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `轉輪聖王師子吼經 <http://tripitaka.cbeta.org/N08n0004_026>`__ ；通妙譯，元亨寺漢譯南傳大藏經；二六　轉輪聖王師子吼經; [0055a02] ( `CBETA <http://www.cbeta.org/>`__ , N08, no. 4, p. 55, a2) [6]_
 
@@ -919,6 +929,8 @@ pāthikavagga 波梨品
   * 漢譯：
 
     * `漢譯 長部27經/開端的了知經 <http://agama.buddhason.org/DN/DN27.htm>`__ ；莊春江 [3]_
+
+    * `世間起源經 <{filename}dn27-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `起世因本經 <http://tripitaka.cbeta.org/N08n0004_027>`__ ；通妙譯，元亨寺漢譯南傳大藏經；二七　起世因本經; [0075a02] ( `CBETA <http://www.cbeta.org/>`__ , N08, no. 4, p. 75, a2) [6]_
 
@@ -951,6 +963,8 @@ pāthikavagga 波梨品
   * 漢譯：
 
     * `漢譯 長部28經/能淨信經 <http://agama.buddhason.org/DN/DN28.htm>`__ ；莊春江 [3]_
+
+    * `淨信經 <{filename}dn28-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `自歡喜經 <http://tripitaka.cbeta.org/N08n0004_028>`__ ；通妙譯，元亨寺漢譯南傳大藏經；二八　自歡喜經; [0092a02] ( `CBETA <http://www.cbeta.org/>`__ , N08, no. 4, p. 92, a2) [6]_
 
@@ -995,6 +1009,8 @@ pāthikavagga 波梨品
 
     * `漢譯 長部29經/清淨經 <http://agama.buddhason.org/DN/DN29.htm>`__ ；莊春江 [3]_
 
+    * `清淨經 <{filename}dn29-siu-sk%zh.rst>`__ ；蕭式球 [4]_
+
     * `清淨經 <http://tripitaka.cbeta.org/N08n0004_029>`__ ；通妙譯，元亨寺漢譯南傳大藏經；二九　清淨經; [0112a02] ( `CBETA <http://www.cbeta.org/>`__ , N08, no. 4, p. 112, a2) [6]_
 
     * 對照之阿含經典及其他： 
@@ -1019,6 +1035,8 @@ pāthikavagga 波梨品
 
     * `漢譯 長部30經/相經 <http://agama.buddhason.org/DN/DN30.htm>`__ ；莊春江 [3]_
 
+    * `相經 <{filename}dn30-siu-sk%zh.rst>`__ ；蕭式球 [4]_
+
     * `三十二相經 <http://tripitaka.cbeta.org/N08n0004_030>`__ ；通妙譯，元亨寺漢譯南傳大藏經；三〇　三十二相經; [0138a02] ( `CBETA <http://www.cbeta.org/>`__ , N08, no. 4, p. 138, a2) [6]_
 
     * 對照之阿含經典及其他： 
@@ -1042,6 +1060,8 @@ pāthikavagga 波梨品
   * 漢譯：
 
     * `漢譯 長部31經/辛額勒經 <http://agama.buddhason.org/DN/DN31.htm>`__ ；莊春江 [3]_
+
+    * `教化仙伽邏經 <{filename}dn31-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `教授尸伽羅越經 <http://tripitaka.cbeta.org/N08n0004_031>`__ ；通妙譯，元亨寺漢譯南傳大藏經；三一　教授尸伽羅越經; [0181a02] ( `CBETA <http://www.cbeta.org/>`__ , N08, no. 4, p. 181, a2) [6]_
 
@@ -1079,6 +1099,8 @@ pāthikavagga 波梨品
 
     * `漢譯 長部32經/稻竿經 <http://agama.buddhason.org/DN/DN32.htm>`__ ；莊春江 [3]_
 
+    * `阿提那經 <{filename}dn32-siu-sk%zh.rst>`__ ；蕭式球 [4]_
+
     * `阿吒曩胝經 <http://tripitaka.cbeta.org/N08n0004_032>`__ ；通妙譯，元亨寺漢譯南傳大藏經；三二　阿吒曩胝經; [0200a02] ( `CBETA <http://www.cbeta.org/>`__ , N08, no. 4, p. 200, a2) [6]_
 
     * 對照之阿含經典及其他： 
@@ -1112,6 +1134,8 @@ pāthikavagga 波梨品
   * 漢譯：
 
     * `漢譯 長部33經/結集經 <http://agama.buddhason.org/DN/DN33.htm>`__ ；莊春江 [3]_
+
+    * `合誦經 <{filename}dn33-siu-sk%zh.rst>`__ ；蕭式球 [4]_
 
     * `等誦經 <http://tripitaka.cbeta.org/N08n0004_033>`__ ；通妙譯，元亨寺漢譯南傳大藏經；三三　等誦經; [0225a02] ( `CBETA <http://www.cbeta.org/>`__ , N08, no. 4, p. 225, a2) [6]_
 
@@ -1178,6 +1202,8 @@ pāthikavagga 波梨品
 
     * `漢譯 長部34經/十增經 <http://agama.buddhason.org/DN/DN34.htm>`__ ；莊春江 [3]_
 
+    * `增十經 <{filename}dn34-siu-sk%zh.rst>`__ ；蕭式球 [4]_
+
     * `十上經 <http://tripitaka.cbeta.org/N08n0004_034>`__ ；通妙譯，元亨寺漢譯南傳大藏經；三四　十上經; [0283a02] ( `CBETA <http://www.cbeta.org/>`__ , N08, no. 4, p. 283, a2) [6]_
 
     * 對照之阿含經典及其他： 
@@ -1213,7 +1239,7 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
 
 ------
 
--  The comparative catalog of Dīganikāya & Dīrgha-āgama 《長部》與《長阿含經》對照表 & The comparative catalog of Dīrgha-āgama & Dīganikāya 《長阿含經》與《長部》對照表： `HTML <{static}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.htm>`__ (直接閱讀), `PDF <{static}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.pdf>`__ , `ms doc <{static}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.doc>`__ , `ms rtf <{static}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+-  The comparative catalog of Dīganikāya & Dīrgha-āgama 《長部》與《長阿含經》對照表 & The comparative catalog of Dīrgha-āgama & Dīganikāya 《長阿含經》與《長部》對照表： `HTML <{filename}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/digha/D-vs-D-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
 - `CBETA <http://www.cbeta.org/>`__ 
 
@@ -1269,7 +1295,7 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
 
 .. [3] 請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ 
 
-.. [4] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.1.長部 (選譯)（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ）
+.. [4] 請參考： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ ， `《長部》 <https://www.chilin.org/news/news-detail.php?id=202&type=2#%E9%95%B7%E9%83%A8>`__ 
 
 .. [5] `南傳長部經典 <http://tripitaka.cbeta.org/B06n0003>`__ ；江鍊百據日譯本重譯成為漢文，沙門芝峯校證，收在《普慧大藏經》中。請參考： `CBETA <http://www.cbeta.org/>`__ → CBETA 相關網站 → `漢文大藏經 <http://tripitaka.cbeta.org/>`__ → `B 大藏經補編選錄 <http://tripitaka.cbeta.org/B>`__ （紙本來源：大藏經補編，藍吉富 主編 / 台北：華宇出版社, 1985.） → 第 6 冊 `B06 <http://tripitaka.cbeta.org/B06>`__ → `B06n0003　南傳長部經典 ( 2 卷)【江鍊百譯】 <http://tripitaka.cbeta.org/B06n0003>`__  → `第 001 卷 <http://tripitaka.cbeta.org/B06n0003_001>`__； `第 002 卷 <http://tripitaka.cbeta.org/B06n0003_002>`__ （下載 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/B/B0003.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/B/B0003.pdf>`__ 、 `ePub <http://www.cbeta.org/download/epub/download.php?file=B/B0003.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/B/B0003.mobi>`__ ）
 
@@ -1348,7 +1374,8 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
         * 參考書目
 
 ..
-  2023-08-08 rev. replace filename with static to match "gramma"
+  2025-05-15 rev:   old: 蕭式球 長部 http://www.chilin.edu.hk/edu/report_section.asp?section_id=5; 香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.1.長部 (選譯)（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ）
+
   09-20 add: DN 20 Mahāsamayasuttaṃ; 大會經
   2021-02-19 add: 大因緣經注  http://www.studentbook.com.tw/goods.php?id=4576
   ------
