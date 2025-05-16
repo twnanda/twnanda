@@ -1,12 +1,12 @@
-長部第 2 經，梵網經，DN 1: Brahmajāla Sutta 蕭式球 譯
-==========================================================
+長部第 2 經，沙門果經，DN 2: Sāmaññaphala Sutta 蕭式球 譯
+=============================================================
 
 :date: 2025-05-15
-:modified: 2025-05-15
+:modified: 2025-05-16
 :author: 蕭式球
-:tags: 梵網經, 梵動經, 梵網六十二見經, DN 1, dn1, D1, Brahmajālasuttaṃ, Brahmajāla Sutta, 蕭式球, 巴利三藏長部
+:tags: 沙門果經, DN 2, dn2, D2, Sāmaññaphalasuttaṃ, Sāmaññaphala Sutta, 蕭式球, 巴利三藏長部
 :category: 巴利三藏長部
-:summary: 長部第 1 經，梵網經，DN 1: Brahmajāla Sutta 蕭式球 譯
+:summary: 長部第 2 經，沙門果經，DN 2: Sāmaññaphala Sutta 蕭式球 譯
 
 
 
@@ -411,4 +411,5 @@
 
 
 ..
+  rev. 05-16 title & tag.
   2025-05-15, created on 2025-05-13

@@ -29,7 +29,7 @@ Dīghanikāya 巴利大藏經 經藏 長部 (The Long Discourses)
 
   * `漢譯 長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ ；莊春江 (original: 原始出處) [3]_
 
-  * `長部 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ ；蕭式球 (original: 原始出處) [4]_
+  * `長部 <{filename}diigha-nikaaya-tr-by-siu-sk%zh>`__ ；蕭式球 (original: 原始出處) [4]_
 
   * `南傳長部經典 <http://tripitaka.cbeta.org/B06n0003>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（錄至《弊宿經第二十三》；下載 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/B/B0003.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/B/B0003.pdf>`__ 、 `ePub <http://www.cbeta.org/download/epub/download.php?file=B/B0003.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/B/B0003.mobi>`__ ; original 原始出處: `CBETA <http://www.cbeta.org/>`__ [5]_
 
@@ -1374,7 +1374,8 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
         * 參考書目
 
 ..
-  2025-05-15 rev:   old: 蕭式球 長部 http://www.chilin.edu.hk/edu/report_section.asp?section_id=5; 香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.1.長部 (選譯)（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ）
+  05-16 rev. directly 長部 diigha-nikaaya-tr-by-siu-sk%zh；蕭式球
+  2025-05-15 rev: old: 蕭式球 長部 http://www.chilin.edu.hk/edu/report_section.asp?section_id=5; 香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.1.長部 (選譯)（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ）
 
   09-20 add: DN 20 Mahāsamayasuttaṃ; 大會經
   2021-02-19 add: 大因緣經注  http://www.studentbook.com.tw/goods.php?id=4576
