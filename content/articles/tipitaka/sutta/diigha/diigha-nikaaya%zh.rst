@@ -2,7 +2,7 @@ Dīghanikāya 巴利大藏經 經藏 長部 (The Long Discourses)
 ###########################################################
 
 :date: 2003-07-13
-:modified: 2025-05-15
+:modified: 2025-05-17
 :tags: Dīghanikāya, 巴利三藏長部, Dialogues of the Buddha, The "Long" Discourses
 :category: 巴利三藏長部
 :summary: Dīghanikāya 長部
@@ -29,7 +29,7 @@ Dīghanikāya 巴利大藏經 經藏 長部 (The Long Discourses)
 
   * `漢譯 長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ ；莊春江 (original: 原始出處) [3]_
 
-  * `長部 <{filename}diigha-nikaaya-tr-by-siu-sk%zh>`__ ；蕭式球 (original: 原始出處) [4]_
+  * `長部 <{filename}diigha-nikaaya-tr-by-siu-sk%zh.rst>`__ ；蕭式球 (original: 原始出處) [4]_
 
   * `南傳長部經典 <http://tripitaka.cbeta.org/B06n0003>`__ ；江鍊百 據日譯本重譯，沙門 芝峯 校證（錄至《弊宿經第二十三》；下載 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/B/B0003.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/B/B0003.pdf>`__ 、 `ePub <http://www.cbeta.org/download/epub/download.php?file=B/B0003.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/B/B0003.mobi>`__ ; original 原始出處: `CBETA <http://www.cbeta.org/>`__ [5]_
 
@@ -514,7 +514,7 @@ mahāvagga 大品
      - `DN 22`_
      - `DN 23`_
 
-- _`DN 14`  Sutta [PTS 編次 (No.)]; D ii 1 [PTS 頁碼 (Pp.)]
+- _`DN 14` Mahāpadāna Sutta [PTS 編次 (No.)]; D ii 1 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -582,7 +582,7 @@ mahāvagga 大品
 
       * 梵Mahāvadāna-s. (Waldschmidt 1953.)
 
-  * 《大因緣經注》(Mahānidānasuttavaṇṇanā)：巴漢校譯與導論； 莊博蕙 譯著， 菩提長老 (Ven. Bhikkhu Bodhi Thera) 前言；香光書鄉出版社發行，CE 2020.12 [10]_
+  * `《大因緣經注》(Mahānidānasuttavaṇṇanā)：巴漢校譯與導論 <https://www.santamonastery.org/2024/05/27/mahanidana/>`__ ； 莊博蕙 譯著， 菩提長老 (Ven. Bhikkhu Bodhi Thera) 前言 （Santa Monastery 美國寂靜禪舍）；香光書鄉出版社發行，CE 2020.12 [10]_
 
   * 英譯(English)：
 
@@ -598,9 +598,9 @@ mahāvagga 大品
 
       **Buddhism in Translations:** `There is No Ego. (DN 15: Excerpt). <http://obo.genaud.net/dhamma-vinaya/bit/bit-15.htm#page_135>`__ ; `Dependent Origination (DN 15: Excerpt) <http://obo.genaud.net/dhamma-vinaya/bit/bit-37.htm>`__ Warren, trans.  ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ )
 
-- _`DN 16` `Mahāparinibbānasuttaṃ; 大般涅槃經; Last Days of the Buddha <{filename}dn16/dn16%zh.rst>`__ ; 般涅槃大經; 大般湼槃經; The Great Discourse on the Total Unbinding; The Discourse about the Great Emancipation; Discourse on the Great Event of the Passing away of the Buddha; DN 16 [PTS 編次 (No.)]; D ii 137 [PTS 頁碼 (Pp.)]
+- _`DN 16` `Mahāparinibbānasuttaṃ; 大般涅槃經; Last Days of the Buddha <{filename}dn16/dn16%zh.rst>`__ ; 般涅槃大經; 大般湼槃經, 大般涅槃經, 南傳大般涅槃經, 般涅槃大經, 遍涅槃大經, 大槃涅槃經, 遊行經, 佛般泥洹經, 般泥洹經; The Great Discourse on the Total Unbinding; The Discourse about the Great Emancipation; Discourse on the Great Event of the Passing away of the Buddha; DN 16 [PTS 編次 (No.)]; D ii 137 [PTS 頁碼 (Pp.)]
 
-- _`DN 17`  Sutta [PTS 編次 (No.)]; DN ii 169 [PTS 頁碼 (Pp.)]
+- _`DN 17` : Mahāsudassana Sutta [PTS 編次 (No.)]; DN ii 169 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -650,7 +650,7 @@ mahāvagga 大品
 
       WP: The Great Splendour: A King's Renunciation, Walshe, trans., 279 ( `Suttas of the Digha Nikaya <http://obo.genaud.net/backmatter/indexes/sutta/dn/idx_digha_nikaya.htm>`__ )
 
-- _`DN 18`  Sutta [PTS 編次 (No.)]; DN ii 200 [PTS 頁碼 (Pp.)]
+- _`DN 18` Janavasabha Sutta [PTS 編次 (No.)]; DN ii 200 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -694,7 +694,7 @@ mahāvagga 大品
      - `DN 22`_
      - `DN 23`_
 
-- _`DN 19`  Sutta [PTS 編次 (No.)]; DN ii 220 [PTS 頁碼 (Pp.)]
+- _`DN 19` Mahāgovinda Sutta [PTS 編次 (No.)]; DN ii 220 [PTS 頁碼 (Pp.)]
 
   * `巴利(Pāḷi) <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AF%AD>`__ 原典：
 
@@ -1374,7 +1374,7 @@ _`Dīghanikāya aṭṭhakathā and Ṭīkā《長部注釋與疏抄》`
         * 參考書目
 
 ..
-  05-16 rev. directly 長部 diigha-nikaaya-tr-by-siu-sk%zh；蕭式球
+  05-16 rev. directly 長部 diigha-nikaaya-tr-by-siu-sk%zh；蕭式球; add linking of 《大因緣經注》
   2025-05-15 rev: old: 蕭式球 長部 http://www.chilin.edu.hk/edu/report_section.asp?section_id=5; 香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.1.長部 (選譯)（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ）
 
   09-20 add: DN 20 Mahāsamayasuttaṃ; 大會經
