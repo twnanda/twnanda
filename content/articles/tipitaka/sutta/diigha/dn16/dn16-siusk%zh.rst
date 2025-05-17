@@ -1,22 +1,23 @@
 長部．十六．大般湼槃經, Mahāparinibbānasuttaṃ, 蕭式球譯
-=======================================================
+=============================================================
 
 :date: 2015-02-21
-:modified: 2025-05-16
-:oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16-SiuSK.html
+:modified: 2016-11-15
 :author: 蕭式球
-:tags: 大般湼槃經, 蕭式球, 大般涅槃經, 南傳大般涅槃經, 般涅槃大經, D16 Mahāparinibbānasuttaṃ, D16, Mahāparinibbānasuttaṃ, DN 16, Dn16, dn16, dn 16, 巴利三藏長部
+:tags: 大般湼槃經, 蕭式球, 大般涅槃經, 南傳大般涅槃經, 般涅槃大經, 遍涅槃大經, 大槃涅槃經, 遊行經, 佛般泥洹經, 般泥洹經, D16 Mahāparinibbānasuttaṃ, D16, Mahāparinibbāna sutta, DN 16, Dn16, dn16, dn 16, 巴利三藏長部
 :category: 巴利三藏長部
-:summary: 長部．十六． `大般湼槃經`_, Mahāparinibbānasuttaṃ, `蕭式球`_ 譯
+:summary: 長部．十六．大般湼槃經, Mahāparinibbānasuttaṃ, 蕭式球譯
 
+----
 
+(C)Copyright Chi Lin Nunnery 2004
 
-原始出處： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ ， `《長部》 <https://www.chilin.org/news/news-detail.php?id=202&type=2#%E9%95%B7%E9%83%A8>`__ 《長部》 `第二分 （14-23經） <https://www.chilin.org/upload/culture/doc/1666608287.pdf>`_ (PDF) （香港，「志蓮淨苑」-文化）  (C)Copyright Chi Lin Nunnery 2004
+原始出處： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 《長部》 `第二分 （14-23經） <https://www.chilin.org/upload/culture/doc/1666608287.pdf>`_ (PDF) （香港，「志蓮淨苑」-文化）
 
 ----
 
 目錄
-^^^^
+^^^^^^^^
 
 .. list-table:: 南傳大般涅槃經(Mahāparinibbānasuttaṃ, 蕭式球譯)目錄
    :widths: 16 16 16 16 16 16
@@ -1522,9 +1523,7 @@
 
 (C)Copyright Chi Lin Nunnery 2004
 
-原始出處： `【長部．十六．大般湼槃經】蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359>`_
-( `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_
-→ 5.1.巴利文佛典選譯 → 5.1.1.長部 → 16 大般湼槃經)
+原始出處： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 《長部》 `第二分 （14-23經） <https://www.chilin.org/upload/culture/doc/1666608287.pdf>`_ (PDF) （香港，「志蓮淨苑」-文化）
 
 
 .. _大般湼槃經: http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359
@@ -1538,13 +1537,14 @@
 
 - `經文選讀 <{filename}/articles/canon-selected/canon-selected%zh.rst>`__ 
 
-- `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
+- `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__ 
 
-..
-  2025-05-16 rev. old: 原始出處： `【長部．十六．大般湼槃經】蕭式球 <http:/05/www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359>`_
-( `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_
-→ 5.1.巴利文佛典選譯 → 5.1.1.長部 → 16 大般湼槃經)
 
+
+.. 
+  2025-05-16 del: oldurl http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16-SiuSK.html
+  原始出處： 【長部．十六．大般湼槃經】蕭式球 http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359   ( `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 http://www.chilin.edu.hk/edu/report_section.asp?section_id=5  → 5.1.巴利文佛典選譯 → 5.1.1.長部 → 16 大般湼槃經)
+  ------
   11.15 add: 目錄 & anchor (第一誦, ..., ...)
         rev. tag
   2016-11-11 add ver. memo & upper dir at the bottom; 11-14 upload

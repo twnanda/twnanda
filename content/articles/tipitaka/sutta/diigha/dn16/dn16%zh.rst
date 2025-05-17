@@ -20,7 +20,7 @@
 
   * `般涅槃大經 <{filename}dn16-chuangcj%zh.rst>`__ ；莊春江 (original: 原始出處) [3]_
 
-  * `長部．十六　大般湼槃經；蕭式球 <{filename}dn16-siusk%zh.rst>`__  (original: 原始出處) [4]_
+  * 長部．十六　`大般湼槃經 <{filename}dn16-siusk%zh.rst>`__ ；蕭式球 (original: 原始出處) [4]_
 
   * `南傳大般涅槃經 <{filename}dn16-pachow-full%zh.rst>`__ ；巴宙譯 (1971 AD)。 [5]_
 

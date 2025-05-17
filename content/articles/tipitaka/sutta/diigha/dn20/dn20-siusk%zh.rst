@@ -1,17 +1,19 @@
-=================================================
+===================================================
 長部．二十．大會經, Mahāsamayasuttaṃ, 蕭式球譯
-=================================================
+===================================================
 
 :date: 2021-09-20
 :modified: 2025-05-16
 :author: 蕭式球
-:tags: 大會經, 蕭式球, D20 Mahāsamayasuttaṃ, D20, Mahāsamayasuttaṃ, DN 20, Dn20, dn20, dn 20, 巴利三藏長部
+:tags: 大會經, 蕭式球, 大集會經, 大三摩惹經, 別譯雜阿含105經, D20, Mahāsamayasuttaṃ, Mahāsamaya Sutta, DN 20, Dn20, dn20, dn 20, 巴利三藏長部
 :category: 巴利三藏長部
-:summary: 長部．二十．大會經, Mahāsamayasuttaṃ, `蕭式球`_ 譯
+:summary: 長部．二十．大會經, Mahāsamayasuttaṃ, 蕭式球譯
 
+----
 
+(C)Copyright Chi Lin Nunnery 2004
 
-原始出處： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ ， `《長部》 <https://www.chilin.org/news/news-detail.php?id=202&type=2#%E9%95%B7%E9%83%A8>`__ 《長部》 `第二分 （14-23經） <https://www.chilin.org/upload/culture/doc/1666608287.pdf>`_ (PDF) （香港，「志蓮淨苑」-文化）  (C)Copyright Chi Lin Nunnery 2004
+原始出處： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 《長部》 `第二分 （14-23經） <https://www.chilin.org/upload/culture/doc/1666608287.pdf>`_ (PDF) （香港，「志蓮淨苑」-文化）
 
 ----
 
@@ -429,7 +431,7 @@
 
 (C)Copyright Chi Lin Nunnery 2004
 
-原始出處：  `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ ， `《長部》 <https://www.chilin.org/news/news-detail.php?id=202&type=2#%E9%95%B7%E9%83%A8>`__ 《長部》 `第二分 （14-23經） <https://www.chilin.org/upload/culture/doc/1666608287.pdf>`_ (PDF) （香港，「志蓮淨苑」-文化）
+原始出處： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 《長部》 `第二分 （14-23經） <https://www.chilin.org/upload/culture/doc/1666608287.pdf>`_ (PDF) （香港，「志蓮淨苑」-文化）
 
 ------
 
@@ -439,11 +441,14 @@
 
 - `大會經(大集會經， DN.20 Mahāsamayasuttaṃ) <{filename}dn20%zh.rst>`__
 
+- `蕭式球 譯 經藏 長部 Majjhimanikāya <{filename}../diigha-nikaaya-tr-by-siu-sk%zh>`__
+
+- `巴利大藏經 經藏 長部 Majjhimanikāya <{filename}../diigha-nikaaya%zh.rst>`__
+
 - `經文選讀 <{filename}/articles/canon-selected/canon-selected%zh.rst>`__ 
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
-  2025-05-15 rev. old: `【長部．二十．大會經】蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=536>`_ ( `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_  → 5.1.巴利文佛典選譯 → 5.1.1.長部 → 20 大會經)
-
+  2025-05-16 rev. old:  `【長部．二十．大會經】蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=536>`_  ( `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_   → 5.1.巴利文佛典選譯 → 5.1.1.長部 → 20 大會經)
   09-20 finish & post; 2021-09-14 create rst

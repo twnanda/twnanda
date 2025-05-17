@@ -1,9 +1,9 @@
-===================================================
+========================================================
 大念處經(念住大經)  (DN 22 Mahāsatipaṭṭhānasuttaṃ)
-===================================================
+========================================================
 
-:date: 2004-07-03 09:00
-:modified: 2017-10-16
+:date: 2004-07-03
+:modified: 2025-05-17
 :tags: 大念處經, 念住大經, DN 22 Mahāsatipaṭṭhānasuttaṃ, dn 22, Dn22, The Long Discourse about the Ways of Attending to Mindfulness, The Great Frames of Reference
 :category: 巴利三藏長部
 :summary: 大念處經 (念住大經, DN 22 Mahāsatipaṭṭhānasuttaṃ) The Great Frames of Reference; The Long Discourse about the Ways of Attending to Mindfulness
@@ -20,7 +20,7 @@
 
   - `念住大經；莊春江 <{filename}dn22-chuangcj%zh.rst>`__ [原始出處請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯長部/Dīghanikāyo <http://agama.buddhason.org/DN/index.htm>`__ → 22 → `長部22經/念住大經(大品[第二]); 莊春江 <http://agama.buddhason.org/DN/DN22.htm>`__ ]。
 
-  - `長部．二十二．大念處經；蕭式球 <{static}/extra/tipitaka/sutta/digha/dn.22-SiuSK.html>`__ (原始出處請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ --5.1.2.026；或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ --南傳佛教-- 5.1.巴利文佛典選譯-- 5.1.1.長部 → 22 大念處經 → `【長部．二十二．大念處經】蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=274>`__ ，頁1～ `頁4 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=274&page_id=156:0>`__ )
+  - `長部．二十二．大念處經；蕭式球 <{filename}../dn22-siu-sk%zh.rst>`__ [原始出處請參考：  `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 《長部》 `第二分 （14-23經） <https://www.chilin.org/upload/culture/doc/1666608287.pdf>`_ (PDF) （香港，「志蓮淨苑」-文化）
 
   - `大念處經；明法比丘 <{static}/extra/tipitaka/sutta/digha/dn.22.metta-pc.html>`__ \ (**Ven. Bhikkhu Metta, Taiwan)**\ (巴漢對照及文法分析);  `PDF <{static}/extra/tipitaka/sutta/digha/dn.22.metta-pc.pdf>`__ \ [原始出處請參考：  `法雨道場 <http://www.dhammarain.org.tw/>`__ \ →  `閱讀三藏 <http://www.dhammarain.org.tw/canon/canon1.html>`__ \ →  大念處經 -- (巴漢對照及文法分析) -- Edited by **Ven. Bhikkhu Metta明法比丘(Taiwan)**\；  `另一鏡像站: dhammarain.online-dhamma.net <http://dhammarain.online-dhamma.net>`__ ]
 
@@ -182,6 +182,7 @@
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
+  2025-05-17 rev. old: {static}/extra/tipitaka/sutta/digha/dn.22-SiuSK.html>`__ (原始出處請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ --5.1.2.026；或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ --南傳佛教-- 5.1.巴利文佛典選譯-- 5.1.1.長部 → 22 大念處經 → `【長部．二十二．大念處經】蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=274>`__ ，頁1～ `頁4 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=274&page_id=156:0>`__ )
   2023-08-08 rev. replace filename with static to match "gramma"
   10.16 add:  awake.kiev.ua (the other METTANET)
   08.15 rev. old: PTS: mahāparinibbānasuttaṃ
@@ -243,4 +244,4 @@
   http://140.116.94.31/TVC/Web/os/mahasati/text.htm
   introd.htm; contents.htm;
   04.09; 04.08 2005
-  08.21; 佛曆　2548年 (07.03 2004)
+  08.21; 佛曆　2548年 (07.03 2004) 2004-07-03 09:00
