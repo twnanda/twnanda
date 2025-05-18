@@ -2,7 +2,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 ###############################################################################################
 
 :date: 2004-07-31
-:modified: 2022-06-21
+:modified: 2025-05-18
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Samyutta-nikaaya.htm
 :tags: 相應尼柯耶, 相應部, 尼柯耶, Saṃyutta nikāya, 巴利三藏相應部
 :category: 巴利三藏相應部
@@ -29,7 +29,7 @@ Saṃyuttanikāya 巴利大藏經 經藏 相應部 (The Book of Kindred Sayings;
 
   * `漢譯 相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__ ；莊春江 (original: 原始出處) [3]_
 
-  * `相應部 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ ( 5.1.3.相應部)；蕭式球 (original: 原始出處) [4]_
+  * `相應部 <{filename}samyutta-nikaaya-tr-by-siu-sk%zh.rst>`__ ；蕭式球 (original: 原始出處) [4]_
 
   * 相應部 N13, N14, N15, N16, N17, N18 → `N13 <http://tripitaka.cbeta.org/N13>`__ ；通妙譯，元亨寺漢譯南傳大藏經； original 原始出處: `CBETA <http://www.cbeta.org/>`__ [5]_
 
@@ -272,13 +272,13 @@ Mahāvagga 大篇
 
 ------
 
--  The comparative catalog of Saṁyuttanikāya & Saṁyukta-āgama 《相應部》與《雜阿含經》對照表： `HTML <{static}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <{static}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.pdf>`__ , `ms doc <{static}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.doc>`__ , `ms rtf <{static}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+-  The comparative catalog of Saṁyuttanikāya & Saṁyukta-āgama 《相應部》與《雜阿含經》對照表： `HTML <{filename}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/samyutta/Sn-vs-Sa-dhammarain.rtf>`__ (  `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
-- The comparative catalog of Saṁyukta-āgama & Saṁyuttanikāya 《雜阿含經》與《相應部》對照表： `HTML <{static}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.htm>`__ (直接閱讀), `PDF <{static}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.pdf>`__ , `ms doc <{static}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.doc>`__ , `ms rtf <{static}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+- The comparative catalog of Saṁyukta-āgama & Saṁyuttanikāya 《雜阿含經》與《相應部》對照表： `HTML <{filename}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/samyutta/Sa-vs-Sn-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
-- The comparative catalog of short Saṁyukta-āgama(BZA) & Saṁyukta-āgama 《別譯雜阿含經》與《雜阿含經》對照表： `HTML <{static}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <{static}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.pdf>`__ , `ms doc <{static}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.doc>`__ , `ms rtf <{static}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+- The comparative catalog of short Saṁyukta-āgama(BZA) & Saṁyukta-āgama 《別譯雜阿含經》與《雜阿含經》對照表： `HTML <{filename}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/samyutta/SSa-vs-Sa-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
-- The comparative catalog of one scroll Saṁyukta-āgama & Saṁyukta-āgama 一卷本《雜阿含經》與《雜阿含經》對照表： `HTML <{static}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <{static}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.pdf>`__ , `ms doc <{static}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.doc>`__ , `ms rtf <{static}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
+- The comparative catalog of one scroll Saṁyukta-āgama & Saṁyukta-āgama 一卷本《雜阿含經》與《雜阿含經》對照表： `HTML <{filename}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.htm>`__ (直接閱讀), `PDF <{filename}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.pdf>`__ , `ms doc <{filename}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.doc>`__ , `ms rtf <{filename}/extra/tipitaka/sutta/samyutta/Sa-1scroll-vs-Sa-dhammarain.rtf>`__ ( `【法雨道場】 <http://www.dhammarain.org.tw/>`__ )
 
 ------
 
@@ -348,7 +348,19 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 .. [3] 請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯 相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__
 
-.. [4] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ）
+.. [4] 請參考： 取材自： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 
+
+       《中部》 `第一分 （1-11相應） <https://www.chilin.org/upload/culture/doc/1666608343.pdf>`__ 、 `第二分 （12-21相應） <https://www.chilin.org/upload/culture/doc/1666608353.pdf>`__ 、 `第三分 （22-34相應） <https://www.chilin.org/upload/culture/doc/1666608363.pdf>`__  、 `第四分 （35-44相應） <https://www.chilin.org/upload/culture/doc/1666608375.pdf>`__ 、 `第五分 （45-56相應） <https://www.chilin.org/upload/culture/doc/1666608387.pdf>`__ (PDF) （香港，「志蓮淨苑」-文化）
+
+       原先連結： http://www.chilin.edu.hk/edu/report_section.asp?section_id=5
+
+       出現錯誤訊息：
+
+       Microsoft OLE DB Provider for ODBC Drivers error '80004005'
+
+       [Microsoft][ODBC Microsoft Access Driver]General error Unable to open registry key 'Temporary (volatile) Jet DSN for process 0x6a8 Thread 0x568 DBC 0x2064fcc Jet'.
+
+       /edu/include/i_database.asp, line 20
 
 .. [5] 請參考： `N 《漢譯南傳大藏經》 <http://tripitaka.cbeta.org/N>`__ （紙本來源：元亨寺漢譯南傳大藏經編譯委員會 / 高雄：元亨寺妙林出版社, 1995.） → 經藏／相應部 N13, N14, N15, N16, N17, N18 → `N13 <http://tripitaka.cbeta.org/N13>`__ → 第 13 冊：直接進入閱讀 `N13n0006　相應部經典(第1卷-第11卷) ( 11 卷)　【通妙譯】 <http://tripitaka.cbeta.org/N13n0006>`_ （ `第 001 卷 <http://tripitaka.cbeta.org/N13n0006_001>`__ 、 `第 002 卷 <http://tripitaka.cbeta.org/N13n0006_002>`__ ..., ... 以此類推）、下載 `ePub <http://www.cbeta.org/download/epub/download.php?file=N/N0006.epub>`__ 、 `MOBI <http://www.cbeta.org/download/download.php?file=mobi/N/N0006.mobi>`__ 、 `PDF A4版 <http://www.cbeta.org/download/download.php?file=pdf_a4/N/N0006.pdf>`__ 、 `PDF iPad版 <http://www.cbeta.org/download/download.php?file=pdf_ipad/N/N0006.pdf>`__ 。
 
@@ -375,7 +387,8 @@ _`Saṁyuttanikāya-aṭṭhakathā & Ṭīkā《相應部注釋與疏抄》`
 
 
 ..
-  2023-08-08 rev. replace filename with static to match "gramma"
+  2025-05-18 rev. old:  <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ ( 5.1.3.相應部)；蕭式球 (original: 原始出處) [4]_ : `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ）
+
   06-21 add: 55. Sotāpatti-saṃyuttaṃ 入流相應
   06-14 add: 51. Iddhipāda-saṃyuttaṃ 神足相應
   06-12 add: 49. Sammappadhāna-saṃyuttaṃ 正勤相應 & 50 Bala-saṃyuttaṃ 力相應
