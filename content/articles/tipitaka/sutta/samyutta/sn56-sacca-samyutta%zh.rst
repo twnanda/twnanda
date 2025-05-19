@@ -2,10 +2,13 @@ Sacca-saṃyuttaṃ 諦相應, 四聖諦相應, The Four Noble Truths (巴利三
 ###############################################################################
 
 :date: 2017-08-09
-:modified: 2017-08-19
+:modified: 2025-05-19
 :tags: 巴利三藏相應部, Sacca-saṃyuttaṃ 諦相應, 四聖諦相應, 四聖諦, Sacca
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Sacca-saṃyuttaṃ 諦相應, 四聖諦相應, The Four Noble Truths
+
+
+以下 蕭式球 譯之經典舊連結請參考： (56) Sacca-saṃyuttaṃ 諦相應 （蕭式球 譯，巴利大藏經 經藏 相應部 第五分，大篇 Mahāvagga （45-56相應）( `直接閱讀 <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/相應部-第五分（45-56相應）.html>`__ , html )； `PDF <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/%E7%9B%B8%E6%87%89%E9%83%A8-%E7%AC%AC%E4%BA%94%E5%88%86%EF%BC%8845-56%E7%9B%B8%E6%87%89%EF%BC%89-bookmarked.pdf>`__ 
 
 
 .. list-table:: Sacca-saṃyuttaṃ 諦相應
@@ -1339,12 +1342,13 @@ Pañcagatipeyyāla-Vaggo 第十一 五趣中略品
 
 .. [5] 部份經典選譯，請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ 
 
-.. [6] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） -- `56 諦相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395>`__ 
+.. [6] 取材自： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 《中部》 `第一分 （1-11相應） <https://www.chilin.org/upload/culture/doc/1666608343.pdf>`__ 、 `第二分 （12-21相應） <https://www.chilin.org/upload/culture/doc/1666608353.pdf>`__ 、 `第三分 （22-34相應） <https://www.chilin.org/upload/culture/doc/1666608363.pdf>`__  、 `第四分 （35-44相應） <https://www.chilin.org/upload/culture/doc/1666608375.pdf>`__ 、 `第五分 （45-56相應） <https://www.chilin.org/upload/culture/doc/1666608387.pdf>`__ (PDF) （香港，「志蓮淨苑」-文化）
 
 .. [7] Dhammacakkapavattana Sutta, Samyutta Nikaya LVI, 11:Setting in Motion the Wheel of the Dhamma-- `Translated from the Pali by Ven. Bodhi Bhikkhu <http://www.budsas.org/ebud/ebsut001.htm>`__ ( `BuddhaSasana <http://www.budsas.org/index.htm>`__ English Section)
 
 
 ..
+  2025-05-19 add: 蕭式球 譯; old: 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） -- `56 諦相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=395>`__ 
   08.19 add interior tag, e.g. .. _sn56_1:
   08.14 rev. note(ref.)
   08.11 finished (edit 08.09)

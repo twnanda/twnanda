@@ -2,7 +2,7 @@ Jambukhādaka-saṃyuttaṃ 閻浮車相應, 遊行者閻浮車相應, Jambhukha
 ######################################################################################################
 
 :date: 2017-08-19
-:modified: 2017-08-19
+:modified: 2025-05-19
 :tags: 巴利三藏相應部, Jambukhādaka-saṃyuttaṃ, 閻浮車相應, 遊行者閻浮車相應, Jambhukhadaka the wanderer, The Kindred Sayings about Jambukhadaka, Connected Discourses with Jambukhadaka
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Jambukhādaka-saṃyuttaṃ 閻浮車相應, 遊行者閻浮車相應, Jambhukhadaka the wanderer
@@ -10,6 +10,12 @@ Jambukhādaka-saṃyuttaṃ 閻浮車相應, 遊行者閻浮車相應, Jambhukha
 PTS: The Kindred Sayings about Jambukhadaka, IV.170
 
 WP: Connected Discourses with Jambukhadaka, II.1294
+
+(38) Jambukhādaka-saṃyuttaṃ 閻浮迦相應 （蕭式球 譯，巴利大藏經 經藏 相應部 第四分，六處篇 Saḷāyatanavagga （35-44相應） ( `直接閱讀 <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/相應部-第四分（35-44相應）.html>`__ , html )； `PDF <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/%E7%9B%B8%E6%87%89%E9%83%A8-%E7%AC%AC%E5%9B%9B%E5%88%86%EF%BC%8835-44%E7%9B%B8%E6%87%89%EF%BC%89-bookmarked.pdf>`__ 
+
+
+取材自： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 《中部》 `第一分 （1-11相應） <https://www.chilin.org/upload/culture/doc/1666608343.pdf>`__ 、 `第二分 （12-21相應） <https://www.chilin.org/upload/culture/doc/1666608353.pdf>`__ 、 `第三分 （22-34相應） <https://www.chilin.org/upload/culture/doc/1666608363.pdf>`__  、 `第四分 （35-44相應） <https://www.chilin.org/upload/culture/doc/1666608375.pdf>`__ 、 `第五分 （45-56相應） <https://www.chilin.org/upload/culture/doc/1666608387.pdf>`__ (PDF) （香港，「志蓮淨苑」-文化）
+
 
 .. _sn38_1:
 
@@ -167,5 +173,6 @@ WP: Connected Discourses with Jambukhadaka, II.1294
 .. [4] 選錄多位翻譯者之譯文，請參 `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ → `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ : 4. (sŋ 35-44) `Saļāyatana-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_04_salayatanavagga.htm>`__ (The Book of the Six Sense Bases; On the Sense Realm, Six Sense Bases; The Kindred Sayings on the Sixfold Sphere of Sense and Other Subjects) → 38. `Jambhukhādaka-Saŋyutta <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/04_salv/idx_38_jambhukhadakasamyutta.htm>`__ [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
 
 ..
+  2025-05-19 add: 蕭式球 譯
   08.19 finished
   create on 2017.07.17

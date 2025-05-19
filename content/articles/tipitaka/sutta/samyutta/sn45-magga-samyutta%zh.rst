@@ -2,10 +2,13 @@ Magga-saṃyuttaṃ 道相應, 八正道相應, 八聖道相應, The Noble Eight
 ##############################################################################################
 
 :date: 2017-08-18
-:modified: 2017-08-19
+:modified: 2025-05-19
 :tags: 巴利三藏相應部, Magga-saṃyuttaṃ, 道相應, 八正道相應, 八聖道相應, The Noble Eightfold Path
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Magga-saṃyuttaṃ 道相應, 八正道相應, 八聖道相應, The Noble Eightfold Path
+
+
+以下 蕭式球 譯之經典舊連結請參考： (45) Magga-saṃyuttaṃ 道相應 （蕭式球 譯，巴利大藏經 經藏 相應部 第五分，大篇 Mahāvagga （45-56相應）( `直接閱讀 <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/相應部-第五分（45-56相應）.html>`__ , html )； `PDF <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/%E7%9B%B8%E6%87%89%E9%83%A8-%E7%AC%AC%E4%BA%94%E5%88%86%EF%BC%8845-56%E7%9B%B8%E6%87%89%EF%BC%89-bookmarked.pdf>`__ 
 
 .. list-table:: Magga-saṃyuttaṃ 道相應
 
@@ -1330,9 +1333,10 @@ PTS: The Flood, V.47; WP: Floods, II.1563
 
 .. [5] 部份經典選譯，請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ 
 
-.. [6] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） -- `45-1 道相應 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=350>`__ 、 `45-2 道相應 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=351>`__
+.. [6] 取材自： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 《中部》 `第一分 （1-11相應） <https://www.chilin.org/upload/culture/doc/1666608343.pdf>`__ 、 `第二分 （12-21相應） <https://www.chilin.org/upload/culture/doc/1666608353.pdf>`__ 、 `第三分 （22-34相應） <https://www.chilin.org/upload/culture/doc/1666608363.pdf>`__  、 `第四分 （35-44相應） <https://www.chilin.org/upload/culture/doc/1666608375.pdf>`__ 、 `第五分 （45-56相應） <https://www.chilin.org/upload/culture/doc/1666608387.pdf>`__ (PDF) （香港，「志蓮淨苑」-文化）
 
 ..
+  2025-05-19 add: 蕭式球 譯; old: 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） -- `45-1 道相應 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=350>`__ 、 `45-2 道相應 <http://www.chilin.edu.hk/edu/work_paragraph_detail.asp?id=351>`__
   08.19 add interior tag, e.g. .. _sn45_1:
   08.18 finished (edit 08.15)
   create on 2017.07.17

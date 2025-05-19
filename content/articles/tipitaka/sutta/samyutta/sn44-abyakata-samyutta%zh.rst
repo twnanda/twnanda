@@ -2,7 +2,7 @@ Abyākata-saṃyuttaṃ 無記相應, 無記說相應, Not designated (巴利三
 ############################################################################
 
 :date: 2017-04-09
-:modified: 2017-04-09
+:modified: 2025-05-19
 :tags: 巴利三藏相應部, Abyākatasaṃyuttaṃ, Abyākata-saṃyuttaṃ, 無記相應, 無記說相應, Not designated
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Abyākata-saṃyuttaṃ 無記相應, 無記說相應, Not designated
@@ -11,6 +11,11 @@ Abyākata-saṃyuttaṃ 無記相應, 無記說相應, Not designated (巴利三
 - `無記相應對讀 <{filename}sn44-abyakata-samyutta-parallel-reading%zh.rst>`__ 
 
 ------
+
+(44) Abyākata-saṃyuttaṃ 不解說相應  （蕭式球 譯，巴利大藏經 經藏 相應部 第四分，六處篇 Saḷāyatanavagga （35-44相應） ( `直接閱讀 <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/相應部-第四分（35-44相應）.html>`__ , html )； `PDF <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/%E7%9B%B8%E6%87%89%E9%83%A8-%E7%AC%AC%E5%9B%9B%E5%88%86%EF%BC%8835-44%E7%9B%B8%E6%87%89%EF%BC%89-bookmarked.pdf>`__ 
+
+取材自： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 《中部》 `第一分 （1-11相應） <https://www.chilin.org/upload/culture/doc/1666608343.pdf>`__ 、 `第二分 （12-21相應） <https://www.chilin.org/upload/culture/doc/1666608353.pdf>`__ 、 `第三分 （22-34相應） <https://www.chilin.org/upload/culture/doc/1666608363.pdf>`__  、 `第四分 （35-44相應） <https://www.chilin.org/upload/culture/doc/1666608375.pdf>`__ 、 `第五分 （45-56相應） <https://www.chilin.org/upload/culture/doc/1666608387.pdf>`__ (PDF) （香港，「志蓮淨苑」-文化）
+
 
 .. _sn44_1:
 
@@ -110,5 +115,6 @@ Abyākata-saṃyuttaṃ 無記相應, 無記說相應, Not designated (巴利三
 
 
 ..
+  2025-05-19 add: 蕭式球 譯
   2018.04.09 finish & upload
   create on 2017.07.17

@@ -2,10 +2,13 @@ Jhāna-saṃyuttaṃ 禪相應, 四靜慮相應, 禪定相應, Jhana (mental abs
 ##############################################################################################
 
 :date: 2017-08-14
-:modified: 2017-08-19
+:modified: 2025-05-19
 :tags: 巴利三藏相應部, Jhāna-saṃyuttaṃ, 禪相應, 四靜慮相應, 禪定相應, Jhana, mental absorption
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Jhāna-saṃyuttaṃ 禪相應, 四靜慮相應, 禪定相應, Jhana (mental absorption)
+
+
+以下 蕭式球 譯之經典舊連結請參考： (53) Jhāna-saṃyuttaṃ 禪相應 （蕭式球 譯，巴利大藏經 經藏 相應部 第五分，大篇 Mahāvagga （45-56相應）( `直接閱讀 <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/相應部-第五分（45-56相應）.html>`__ , html )； `PDF <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/%E7%9B%B8%E6%87%89%E9%83%A8-%E7%AC%AC%E4%BA%94%E5%88%86%EF%BC%8845-56%E7%9B%B8%E6%87%89%EF%BC%89-bookmarked.pdf>`__ 
 
 
 .. list-table:: Jhāna-saṃyuttaṃ 禪相應
@@ -115,9 +118,10 @@ PTS: The Flood, V.V.274
 
 .. [4] 選錄多位翻譯者之譯文，請參 `Obo's Web <http://www.buddhadust.com/m/index.htm>`__ → `Index to Sutta Indexes <http://www.buddhadust.com/m/backmatter/indexes/sutta/sutta_toc.htm>`__ → `Saŋyutta Nikāya <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_samyutta_nikaya.htm>`__ : 5. (sŋ 45-56) `Mahā-Vagga <http://www.buddhadust.com/m/backmatter/indexes/sutta/sn/idx_05_mahavagga.htm>`__ (The Great Collection) [BuddhaDust]；或 `另一鏡像站 <http://obo.genaud.net/backmatter/indexes/sutta/sutta_toc.htm>`__ [genaud.net]
 
-.. [6] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） -- `53 禪相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=370>`__ 
+.. [6] 取材自： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 《中部》 `第一分 （1-11相應） <https://www.chilin.org/upload/culture/doc/1666608343.pdf>`__ 、 `第二分 （12-21相應） <https://www.chilin.org/upload/culture/doc/1666608353.pdf>`__ 、 `第三分 （22-34相應） <https://www.chilin.org/upload/culture/doc/1666608363.pdf>`__  、 `第四分 （35-44相應） <https://www.chilin.org/upload/culture/doc/1666608375.pdf>`__ 、 `第五分 （45-56相應） <https://www.chilin.org/upload/culture/doc/1666608387.pdf>`__ (PDF) （香港，「志蓮淨苑」-文化）
 
 ..
+  2025-05-19 add: 蕭式球 譯; old: 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） -- `53 禪相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=370>`__ 
   08.19 add interior tag, e.g. .. _sn53_1:
   08.14 finished (edit 08.14)
   create on 2017.07.17

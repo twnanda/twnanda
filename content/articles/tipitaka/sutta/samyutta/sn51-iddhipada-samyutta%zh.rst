@@ -2,13 +2,16 @@ Iddhipāda-saṃyuttaṃ 神足相應, 四神足相應, The Four Bases of Power 
 #######################################################################################
 
 :date: 2022-06-12
-:modified: 2022-06-12
+:modified: 2025-05-19
 :tags: 巴利三藏相應部, Iddhipāda-saṃyuttaṃ 神足相應, 四神足相應, The Four Bases of Power
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Iddhipāda-saṃyuttaṃ 神足相應, 四神足相應, The Four Bases of Power
 
 
 - （巴利）神足相應： 7. `Iddhipādasaṃyuttaṃ <https://tipitaka.org/romn/cscd/s0305m.mul6.xml>`__ (CSCD) [1]_
+
+以下 蕭式球 譯之經典舊連結請參考： (51) Iddhipāda-saṃyuttaṃ 神足相應 （蕭式球 譯，巴利大藏經 經藏 相應部 第五分，大篇 Mahāvagga （45-56相應）( `直接閱讀 <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/相應部-第五分（45-56相應）.html>`__ , html )； `PDF <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/%E7%9B%B8%E6%87%89%E9%83%A8-%E7%AC%AC%E4%BA%94%E5%88%86%EF%BC%8845-56%E7%9B%B8%E6%87%89%EF%BC%89-bookmarked.pdf>`__ 
+
 
 .. list-table:: Iddhipāda-saṃyuttaṃ 神足相應
   :widths: 25 25 25 
@@ -229,7 +232,7 @@ Oghavaggo 暴流品
        | 荒蕪、垢、惱亂，受、渴愛、渴望。」
        | 
 
-.. [3] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） → 5.1.3.相應部： `51 神足相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=357>`__ 
+.. [3] 取材自： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 《中部》 `第一分 （1-11相應） <https://www.chilin.org/upload/culture/doc/1666608343.pdf>`__ 、 `第二分 （12-21相應） <https://www.chilin.org/upload/culture/doc/1666608353.pdf>`__ 、 `第三分 （22-34相應） <https://www.chilin.org/upload/culture/doc/1666608363.pdf>`__  、 `第四分 （35-44相應） <https://www.chilin.org/upload/culture/doc/1666608375.pdf>`__ 、 `第五分 （45-56相應） <https://www.chilin.org/upload/culture/doc/1666608387.pdf>`__ (PDF) （香港，「志蓮淨苑」-文化）
 
        第三十三至八十六經共五十四篇經文都是一些跟《道相應》中的經文重複的部分。巴利聖典協會所出版的巴利原典也沒有把這些重複部分刊出，只是給予經文的號數及少許經文概略。因為這五十四篇經文的內容跟《道相應》中一些經文一致，讀者可在本學報第六期的《道相應》之中找出這些經文，然後把八正道的內容轉為四神足便行了。
 
@@ -359,5 +362,6 @@ Oghavaggo 暴流品
            - 1325 ~ 1362
 
 ..
+  2025-05-19 add: 蕭式球 譯; old: 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） → 5.1.3.相應部： `51 神足相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=357>`__ 
   finished 2022-06-12 ~ 06-14
   create on 2017.07.17

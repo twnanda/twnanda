@@ -2,11 +2,16 @@ Vedanā-saṃyuttaṃ 受相應, Feeling (巴利三藏 相應部)
 #####################################################
 
 :date: 2005-02-12
-:modified: 2017-08-19
+:modified: 2025-05-19
 :oldurl: http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Samyutta/Vedanaa.htm
 :tags: 巴利三藏相應部, Vedanā-saṃyuttaṃ, 受相應, Feeling
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Vedanā-saṃyuttaṃ 受相應, Feeling
+
+
+(36) Vedanā-saṃyuttaṃ 受相應 （蕭式球 譯，巴利大藏經 經藏 相應部 第四分，六處篇 Saḷāyatanavagga （35-44相應） ( `直接閱讀 <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/相應部-第四分（35-44相應）.html>`__ , html )； `PDF <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/%E7%9B%B8%E6%87%89%E9%83%A8-%E7%AC%AC%E5%9B%9B%E5%88%86%EF%BC%8835-44%E7%9B%B8%E6%87%89%EF%BC%89-bookmarked.pdf>`__ 
+
+取材自： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 《中部》 `第一分 （1-11相應） <https://www.chilin.org/upload/culture/doc/1666608343.pdf>`__ 、 `第二分 （12-21相應） <https://www.chilin.org/upload/culture/doc/1666608353.pdf>`__ 、 `第三分 （22-34相應） <https://www.chilin.org/upload/culture/doc/1666608363.pdf>`__  、 `第四分 （35-44相應） <https://www.chilin.org/upload/culture/doc/1666608375.pdf>`__ 、 `第五分 （45-56相應） <https://www.chilin.org/upload/culture/doc/1666608387.pdf>`__ (PDF) （香港，「志蓮淨苑」-文化）
 
 
 .. list-table:: Vedanāsaṃyuttaṃ 受相應
@@ -376,6 +381,7 @@ Aṭṭhasatapariyāya-Vaggo 第三 百八理品
 .. [5] 部份經典選譯，請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ 
 
 ..
+  2025-05-19 add: 蕭式球 譯
   08.19 add interior tag, e.g. .. _sn36_1:
   08.14 rev. note(ref.)
   08.04 改版 big revision finished 

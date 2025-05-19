@@ -2,13 +2,17 @@ Anamatagga-saṃyuttaṃ 無始相應, The unimaginable beginnings of samsara an
 ############################################################################################################
 
 :date: 2017-12-09
-:modified: 2017-12-09
+:modified: 2025-05-19
 :tags: 巴利三藏相應部, 
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Anamatagga-saṃyuttaṃ 無始相應, The unimaginable beginnings of samsara and transmigration
 
 
 - `無始相應對讀 <{filename}sn15-anamatagga-samyutta-parallel-reading%zh.rst>`__ 
+
+------
+
+- (15) Anamatagga-saṃyuttaṃ 無始相應 （蕭式球 譯，巴利大藏經 經藏 相應部 第二分，因緣篇 Nidānavagga （12-21相應） ( `直接閱讀 <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/相應部-第二分（12-21相應）.html>`__ , html )； `PDF <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/%E7%9B%B8%E6%87%89%E9%83%A8-%E7%AC%AC%E4%BA%8C%E5%88%86%EF%BC%8812-21%E7%9B%B8%E6%87%89%EF%BC%89-bookmarked.pdf>`__ 
 
 ------
 
@@ -27,70 +31,70 @@ Paṭhamavaggo 第一 第一品
 
 - SN 15. 1, `Tiṇakaṭṭhasuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `草木經 <http://agama.buddhason.org/SN/SN0396.htm>`__ (莊春江) [2]_ ; `草木 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `草木經 <http://agama.buddhason.org/SN/SN0396.htm>`__ (莊春江) [2]_ ; 草木 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_2:
 
 - SN 15. 2, `Pathavīsuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `地經 <http://agama.buddhason.org/SN/SN0397.htm>`__ (莊春江) [2]_ ; `大地 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `地經 <http://agama.buddhason.org/SN/SN0397.htm>`__ (莊春江) [2]_ ; 大地 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_3:
 
 - SN 15. 3, `Assusuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `淚經 <http://agama.buddhason.org/SN/SN0398.htm>`__ (莊春江) [2]_ ; `淚水 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `淚經 <http://agama.buddhason.org/SN/SN0398.htm>`__ (莊春江) [2]_ ; 淚水 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_4:
 
 - SN 15. 4, `Khīrasuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `乳經 <http://agama.buddhason.org/SN/SN0399.htm>`__ (莊春江) [2]_ ; `母乳 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `乳經 <http://agama.buddhason.org/SN/SN0399.htm>`__ (莊春江) [2]_ ; 母乳 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_5:
 
 - SN 15. 5, `Pabbatasuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `山經 <http://agama.buddhason.org/SN/SN0400.htm>`__ (莊春江) [2]_ ; `山 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `山經 <http://agama.buddhason.org/SN/SN0400.htm>`__ (莊春江) [2]_ ; 山 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_6:
 
 - SN 15. 6, `Sāsapasuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `芥子經 <http://agama.buddhason.org/SN/SN0401.htm>`__ (莊春江) [2]_ ; `芥末 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `芥子經 <http://agama.buddhason.org/SN/SN0401.htm>`__ (莊春江) [2]_ ; 芥末 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_7:
 
 - SN 15. 7, `Sāvakasuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `弟子經 <http://agama.buddhason.org/SN/SN0402.htm>`__ (莊春江) [2]_ ; `弟子 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `弟子經 <http://agama.buddhason.org/SN/SN0402.htm>`__ (莊春江) [2]_ ; 弟子 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_8:
 
 - SN 15. 8, `Gaṅgāsuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `恒河經 <http://agama.buddhason.org/SN/SN0403.htm>`__ (莊春江) [2]_ ; `恆河 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `恒河經 <http://agama.buddhason.org/SN/SN0403.htm>`__ (莊春江) [2]_ ; 恆河 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_9:
 
 - SN 15. 9, `Daṇḍasuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `棍子經 <http://agama.buddhason.org/SN/SN0404.htm>`__ (莊春江) [2]_ ; `棒杖 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `棍子經 <http://agama.buddhason.org/SN/SN0404.htm>`__ (莊春江) [2]_ ; 棒杖 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_10:
 
 - SN 15. 10, `Puggalasuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `人經 <http://agama.buddhason.org/SN/SN0405.htm>`__ (莊春江) [2]_ ; `人 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `人經 <http://agama.buddhason.org/SN/SN0405.htm>`__ (莊春江) [2]_ ; 人 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 ------
 
@@ -107,70 +111,70 @@ Dutiyavaggo 第二 第二品
 
 - SN 15. 11, `Duggatasuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `不幸經 <http://agama.buddhason.org/SN/SN0406.htm>`__ (莊春江) [2]_ ; `痛苦 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477&page_id=115:0>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `不幸經 <http://agama.buddhason.org/SN/SN0406.htm>`__ (莊春江) [2]_ ; 痛苦 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_12:
 
 - SN 15. 12, `Sukhitasuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `快樂經 <http://agama.buddhason.org/SN/SN0407.htm>`__ (莊春江) [2]_ ; `快樂 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477&page_id=115:0>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `快樂經 <http://agama.buddhason.org/SN/SN0407.htm>`__ (莊春江) [2]_ ; 快樂 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_13:
 
 - SN 15. 13, `Tiṃsamattasuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `三十位經 <http://agama.buddhason.org/SN/SN0408.htm>`__ (莊春江) [2]_ ; `三十比丘 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477&page_id=115:0>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `三十位經 <http://agama.buddhason.org/SN/SN0408.htm>`__ (莊春江) [2]_ ; 三十比丘 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_14:
 
 - SN 15. 14, `Mātusuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `母親經 <http://agama.buddhason.org/SN/SN0409.htm>`__ (莊春江) [2]_ ; `母親 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477&page_id=115:0>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `母親經 <http://agama.buddhason.org/SN/SN0409.htm>`__ (莊春江) [2]_ ; 母親 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_15:
 
 - SN 15. 15, `Pitusuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `父親經 <http://agama.buddhason.org/SN/SN0410.htm>`__ (莊春江) [2]_ ; `父親 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477&page_id=115:0>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `父親經 <http://agama.buddhason.org/SN/SN0410.htm>`__ (莊春江) [2]_ ; 父親 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_16:
 
 - SN 15. 16, `Bhātusuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `兄弟經 <http://agama.buddhason.org/SN/SN0411.htm>`__ (莊春江) [2]_ ; `兄弟 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477&page_id=115:0>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `兄弟經 <http://agama.buddhason.org/SN/SN0411.htm>`__ (莊春江) [2]_ ; 兄弟 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_17:
 
 - SN 15. 17, `Bhaginisuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `姊妹經 <http://agama.buddhason.org/SN/SN0412.htm>`__ (莊春江) [2]_ ; `姊妹 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477&page_id=115:0>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `姊妹經 <http://agama.buddhason.org/SN/SN0412.htm>`__ (莊春江) [2]_ ; 姊妹 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_18:
 
 - SN 15. 18, `Puttasuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `兒子經 <http://agama.buddhason.org/SN/SN0413.htm>`__ (莊春江) [2]_ ; `兒子 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477&page_id=115:0>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `兒子經 <http://agama.buddhason.org/SN/SN0413.htm>`__ (莊春江) [2]_ ; 兒子 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_19:
 
 - SN 15. 19, `Dhītusuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `女兒經 <http://agama.buddhason.org/SN/SN0414.htm>`__ (莊春江) [2]_ ; `女兒 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477&page_id=115:0>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `女兒經 <http://agama.buddhason.org/SN/SN0414.htm>`__ (莊春江) [2]_ ; 女兒 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 
 .. _sn15_20:
 
 - SN 15. 20, `Vepullapabbatasuttaṃ <http://www.tipitaka.org/romn/cscd/s0302m.mul3.xml>`__ (CSCD) [1]_ , 
 
-  * `毘富羅山經 <http://agama.buddhason.org/SN/SN0415.htm>`__ (莊春江) [2]_ ; `毗富羅山 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477&page_id=115:0>`__ (志蓮淨苑, 蕭式球) [3]_ ;  
+  * `毘富羅山經 <http://agama.buddhason.org/SN/SN0415.htm>`__ (莊春江) [2]_ ; 毗富羅山 (志蓮淨苑, 蕭式球) [3]_ ;  
 
 ------
 
@@ -191,9 +195,11 @@ Dutiyavaggo 第二 第二品
 
 .. [2] 請參考： `臺灣【莊春江工作站】 <http://agama.buddhason.org/index.htm>`__ → `漢譯 相應部/Saṃyuttanikāyo <http://agama.buddhason.org/SN/index.htm>`__
 
-.. [3] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） → 5.1.3.相應部： `15-1 無始相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477>`__ ; `15-2 無始相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=477&page_id=115:0>`__ 
+.. [3] 取材自： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 《中部》 `第一分 （1-11相應） <https://www.chilin.org/upload/culture/doc/1666608343.pdf>`__ 、 `第二分 （12-21相應） <https://www.chilin.org/upload/culture/doc/1666608353.pdf>`__ 、 `第三分 （22-34相應） <https://www.chilin.org/upload/culture/doc/1666608363.pdf>`__  、 `第四分 （35-44相應） <https://www.chilin.org/upload/culture/doc/1666608375.pdf>`__ 、 `第五分 （45-56相應） <https://www.chilin.org/upload/culture/doc/1666608387.pdf>`__ (PDF) （香港，「志蓮淨苑」-文化）
+
 
 ..
+  2025-05-19 add: 蕭式球 譯; old: 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） → 5.1.3.相應部： `15-1 無始相應 ; `15-2 無始相應 
   12.09 finish 莊春江、蕭式球 & upload
 
   bak: mul0.xml>`__ (CSCD) [1]_ , (如何)渡瀑流, S i 1 (PTS page), 1. 1. 1, SN 1

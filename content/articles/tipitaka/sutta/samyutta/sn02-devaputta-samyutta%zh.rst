@@ -2,10 +2,15 @@ Devaputta-saṃyuttaṃ 天子相應, Sons of the Devas (巴利三藏 相應部)
 ###################################################################
 
 :date: 2004-08-21
-:modified: 2017-08-19
+:modified: 2025-05-18
 :tags: 巴利三藏相應部, 天子相應, Devaputta-saṃyutta, Devaputta-saṃyuttaṃ, Sons of the Devas
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Devaputtasaṃyuttaṃ (Sons of the Devas 天子相應)
+
+
+
+- (02) Devaputta-saṃyutta 天子相應 （蕭式球 譯，巴利大藏經 經藏 相應部 第一分，有偈篇 Sagāthāvagga （1-11相應） ( `直接閱讀 <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/相應部-第一分（1-11相應）.html>`__ , html )； `PDF <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/%E7%9B%B8%E6%87%89%E9%83%A8-%E7%AC%AC%E4%B8%89%E5%88%86%EF%BC%8822-34%E7%9B%B8%E6%87%89%EF%BC%89-bookmarked.pdf>`__ 
+
 
 .. list-table:: Devaputta-saṃyuttaṃ 天子相應
 
@@ -364,6 +369,7 @@ Nānātitthiya-Vaggo 第三 種種外道品
 .. [5] 部份經典選譯，請參考： `Access to Insight <http://www.accesstoinsight.org/>`__ → `Tipitaka <http://www.accesstoinsight.org/tipitaka/index.html>`__ : → `SN <http://www.accesstoinsight.org/tipitaka/sn/index.html>`__ 
 
 ..
+  2025-05-18 add: 蕭式球 譯
   08.19 add interior tag, e.g. .. _sn2_1:
   08.14 rev. note(ref.)
   08.03 改版 revision finished 

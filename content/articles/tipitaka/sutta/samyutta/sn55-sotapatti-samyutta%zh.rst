@@ -2,12 +2,15 @@ Sotāpatti-saṃyuttaṃ 入流相應; 預流相應, 四預流支相應, Stream-
 ########################################################################################
 
 :date: 2022-06-21
-:modified: 2022-06-21
+:modified: 2025-05-19
 :tags: 巴利三藏相應部, Sotāpatti-saṃyuttaṃ, 入流相應; 預流相應, 四預流支相應, Stream-entry
 :category: 巴利三藏相應部
 :summary: 巴利三藏相應部 Sotāpatti-saṃyuttaṃ 入流相應; 預流相應, 四預流支相應, Stream-entry
 
 - （巴利）入流相應： `Sotāpatti-saṃyuttaṃ <https://tipitaka.org/romn/cscd/s0305m.mul10.xml>`__ (CSCD) [1]_
+
+
+以下 蕭式球 譯之經典舊連結請參考： (55) Sotāpatti-saṃyuttaṃ 入流相應 （蕭式球 譯，巴利大藏經 經藏 相應部 第五分，大篇 Mahāvagga （45-56相應）( `直接閱讀 <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/相應部-第五分（45-56相應）.html>`__ , html )； `PDF <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/%E7%9B%B8%E6%87%89%E9%83%A8-%E7%AC%AC%E4%BA%94%E5%88%86%EF%BC%8845-56%E7%9B%B8%E6%87%89%EF%BC%89-bookmarked.pdf>`__ 
 
 .. list-table:: Sotāpatti-saṃyuttaṃ 入流相應
   :widths: 25 25 25 
@@ -406,9 +409,9 @@ Mahāpaññavaggo 大慧品
 
        Javanapaññāsuttaṃ ( `72經/速慧經 <https://agama.buddhason.org/SN/SN1695.htm>`__ )、 Tikkhapaññāsuttaṃ (`73經/利慧經 <https://agama.buddhason.org/SN/SN1696.htm>`__ 、 Nibbedhikapaññāsuttaṃ ( `相應部55相應74經/洞察慧經 <https://agama.buddhason.org/SN/SN1697.htm>`__ )
 
-.. [3] 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） → 5.1.3.相應部： `55 入流相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=394>`__ 
+.. [3] 取材自： `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`__ 《中部》 `第一分 （1-11相應） <https://www.chilin.org/upload/culture/doc/1666608343.pdf>`__ 、 `第二分 （12-21相應） <https://www.chilin.org/upload/culture/doc/1666608353.pdf>`__ 、 `第三分 （22-34相應） <https://www.chilin.org/upload/culture/doc/1666608363.pdf>`__  、 `第四分 （35-44相應） <https://www.chilin.org/upload/culture/doc/1666608375.pdf>`__ 、 `第五分 （45-56相應） <https://www.chilin.org/upload/culture/doc/1666608387.pdf>`__ (PDF) （香港，「志蓮淨苑」-文化）
 
-       `第七  大智慧品 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=394&page_id=822:0>`__ 
+       第七  大智慧品 
 
        | 六十二．大、六十三．許多、六十四．充足、六十五．深度、六十六．無量、六十七．寬闊、六十八．很多、
        | 六十九．敏捷、七十．輕快、七十一．歡悅、七十二．快捷、七十三．銳利、七十四．洞察力
@@ -552,5 +555,7 @@ Mahāpaññavaggo 大慧品
            - 1325 ~ 1362
 
 ..
+  2025-05-19 add: 蕭式球 譯; old: 請參考： `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`__ -- 5.1.巴利文佛典選譯-- 5.1.3.相應部（或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`__ ） → 5.1.3.相應部： `55 入流相應 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=394>`__ ;         `第七  大智慧品 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=61&id=394&page_id=822:0>`__ 
+
   finished 2022-06-14 ~ 06-21
   create on 2017.07.17
