@@ -2,7 +2,7 @@
 ################
 
 :date: 2016-02-14
-:modified: 2025-03-11
+:modified: 2025-05-28
 :slug: index
 :lang: zh
 :order: 1
@@ -94,13 +94,14 @@
   * `佛陀的啟示(What the Buddha Taught) <{filename}/articles/a-path-to-freedom/what-the-Buddha-taught/what-the-Buddha-taught-2020%zh.rst>`_
   * `當代南傳佛教大師(LIVING BUDDHIST MASTERS) <{static}/extra/authors/jack-kornfield/living-buddhist-masters/Theravadian-Masters.htm>`_
   * `UNEXPECTED FREEDOM <{filename}/articles/uncategorized/paper-selected%zh.rst#unexpected-freedom>`_
-    ([by AJAHN MUNINDO; `【意想不到的自由】 <{static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_]) 等等。
+    ([by AJAHN MUNINDO; `【意想不到的自由】 <{filename}/articles/lib/ajahn-munindo/unexpected-freeodm/unexpected-freeodm-han-content%zh.rst>`_ ]) 等等。
 
   * `鄔達摩(Uttamo)長老出版品 <{filename}/articles/a-path-to-freedom/ven-uttamo/publication-of-ven-uttamo-han%zh.rst>`_
 
 
 
 ..
+  05-28 rev. old: 【意想不到的自由】 {static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>
   2025-03-11 add 鄔達摩(Uttamo)長老出版品
   2024-05-20 add attribute of order=1 & replace filename with static on image and html
   2023-09-16 add title del: 【新譯「尊者阿姜 曼傳」與「尊者阿姜 高傳」】相關訊息 open-distribution-the-biography-ven-acariya-mun

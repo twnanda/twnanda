@@ -3,7 +3,7 @@
 --------------
 
 :date: 2005-05-01
-:modified: 2024-10-05
+:modified: 2025-05-28
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -59,8 +59,7 @@
   These pages are copied on this server by courtesy of
   `Ven. MUNINDO <https://ratanagiri.org.uk/about/residents>`_ . Another site:dhammatalks.net-- `PDF <http://www.dhammatalks.net/Books9/Ajahn_Munindo_Unexpected_Freedom.pdf>`__ ; download `EPUB <https://forestsangha.org/system/resources/W1siZiIsIjIwMTUvMTAvMjIvOXJiN21scjkyaF9VbmV4cGVjdGVkX0ZyZWVkb21fQWphaG5fTXVuaW5kby5lcHViIl1d/Unexpected%20Freedom%20-%20Ajahn%20Munindo.epub?sha=37d81b16e167262a>`__ or `MOBI <https://forestsangha.org/system/resources/W1siZiIsIjIwMTUvMTAvMjIvNWI3aXZsM3V0aV9VbmV4cGVjdGVkX0ZyZWVkb21fQWphaG5fTXVuaW5kby5tb2JpIl1d/Unexpected%20Freedom%20-%20Ajahn%20Munindo.mobi?sha=0f7aa000697cf184>`__ (from `forestsangha.org <https://forestsangha.org/teachings/books/unexpected-freedom?language=English>`__ )
 
-  漢譯： `【意想不到的自由】 <{static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_
-  -- 阿姜 穆寧多[穆寧多(牟尼度) 法師]演講輯 (02.06 '08)
+  漢譯： `【意想不到的自由】 <{filename}/articles/lib/ajahn-munindo/unexpected-freeodm/unexpected-freeodm-han-content%zh.rst>`_ -- 阿姜 穆寧多[穆寧多(牟尼度) 法師]演講輯 ( `舊譯 (02.06 '08) <{static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_ 
 
 ----
 
@@ -230,6 +229,7 @@
   （嘉義西佛寺　上傳下正　法師撰）
 
 ..
+  2025-05-28 add. new【意想不到的自由】; old:  {static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>
   10-05 add: 4 linkings of 什麼是禪那和三摩地，你真的知道嗎？
   10-01 add: linking of 在和諧中了悟真理：三部曲 & 什麼是禪那和三摩地，你真的知道嗎？
   2024-08-05 add: 魔羅的來信(Letters from Mara) and 禪修手冊2009
