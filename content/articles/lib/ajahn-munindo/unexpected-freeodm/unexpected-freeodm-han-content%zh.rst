@@ -3,7 +3,7 @@
 =====================================
 
 :date: 2025-05-28
-:modified: 2025-05-28
+:modified: 2025-06-03
 :tags: 意想不到的自由, 阿瞻, 阿姜, 阿瞻穆寧多, 阿瞻牟尼度, 阿姜穆寧多, 阿姜牟尼度, Ajahn MUNINDO, Ajahn Munindo, Unexpected Freedom, 
 :category: 書選
 :summary: 意想不到的自由 (Unexpected Freedom)-- 穆寧多(牟尼度) 法師 演講輯 (BY Ajahn Munindo)
@@ -38,6 +38,15 @@
 
   * PDF: 閱讀用 （背景：豆沙綠色； 頁, A4）； 印刷用 （ 頁，A5, 148 x 210 cm）
 
+
+.. _audiobook:
+
+有聲書：前言--意想不到的自由 (Unexpected Freedom)--穆寧多 法師 (Ajahn Munindo) 演講輯
+
+- 男聲朗讀： `Youtube <https://www.youtube.com/watch?v=trkcHrmJID4>`__ (10:49)
+
+- 女聲朗讀： `Youtube <https://www.youtube.com/watch?v=mjYxYNYDQL4&t=6s>`__ (11:31)
+
 ------
 
 - 本開示小箋乃經 `阿瞻 穆寧多(牟尼度) 法師 <https://www.ratanagiri.org.uk/about-residents>`__ ;  慈悲授權翻譯與眾法友分享。 原英文 **取材自：** `PDF <https://www.dhammatalks.net/Books9/Ajahn_Munindo_Unexpected_Freedom.pdf>`__ ( `dhammatalks.net <http://www.dhammatalks.net/>`__ ) ;  `EPUB <https://forestsangha.org/system/resources/W1siZiIsIjIwMTUvMTAvMjIvOXJiN21scjkyaF9VbmV4cGVjdGVkX0ZyZWVkb21fQWphaG5fTXVuaW5kby5lcHViIl1d/Unexpected%20Freedom%20-%20Ajahn%20Munindo.epub?sha=37d81b16e167262a>`__ or `MOBI <https://forestsangha.org/system/resources/W1siZiIsIjIwMTUvMTAvMjIvNWI3aXZsM3V0aV9VbmV4cGVjdGVkX0ZyZWVkb21fQWphaG5fTXVuaW5kby5tb2JpIl1d/Unexpected%20Freedom%20-%20Ajahn%20Munindo.mobi?sha=0f7aa000697cf184>`__ (from forestsangha.org )
@@ -55,6 +64,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  06-03 add audiobook & chap. 1
   2025-05-28; create rst on 2025-05-01; html on 2008-04-08
 
   PDF: `閱讀用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-reading.pdf>`__ （背景：豆沙綠色；39 頁, A4）； `印刷用 <https://nanda.online-dhamma.net/doc-pdf-etc/pdf/the-letter-from-mara-han-print-A5.pdf>`__ （73 頁，A5, 148 x 210 cm）
