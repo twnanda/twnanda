@@ -15,10 +15,11 @@
 ------
 
 - `前言 <{filename}unexpected-freeodm-han-intr%zh.rst>`_ 
-- 1. `極為簡單 <{filename}unexpected-freeodm-han-01%zh.rst>`_ (Profoundly Simple) （以下建構中！）
+- 1. `極為簡單 <{filename}unexpected-freeodm-han-01%zh.rst>`_ (Profoundly Simple)
   簡樸、感恩師長、堅定決心、正念、珍視內觀、柔和
 
-- 2. `我們都是佛法的傳譯者 <{filename}unexpected-freeodm-han-02%zh.rst>`_ (We Are All Translators)
+- 2. `我們都是佛法的傳譯者 <{filename}unexpected-freeodm-han-02%zh.rst>`_ (We Are All Translators) （以下建構中！）
+  佛法修行的翻譯是一項共同任務、辨識本質、尊重傳統、創造性投入，從根源作意與目標導向的修行
 - 3. `感覺之外 <{filename}unexpected-freeodm-han-03%zh.rst>`_ (More Than Our Feelings)
 - 4. `認識我們的情感內在 <{filename}unexpected-freeodm-han-04%zh.rst>`_ (Getting to Know Our Emotional Household)
 - 5. `當我們墜入愛河 <{filename}unexpected-freeodm-han-05%zh.rst>`_ (When We Fall In Love)
@@ -64,6 +65,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  06-28 add chap. 2 我們都是佛法的傳譯者
   06-03 add audiobook & chap. 1
   2025-05-28; create rst on 2025-05-01; html on 2008-04-08
 
