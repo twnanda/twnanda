@@ -180,7 +180,7 @@ Velthuis方案最初由Frans Velthuis在1991年為他給TEX排字系統設計的
 
 - `Pali Language Books & Resources <https://palistudies.blogspot.com/p/resources.html>`__ - The List
 
-- `Resources for learning Pali <https://www.patheos.com/blogs/americanbuddhist/2018/09/resources-for-learning-pali-a-key-language-for-early-buddhism-and-the-theravadin-tradition.html>__ : a key language for early Buddhism and the Theravadin Tradition
+- `Resources for learning Pali <https://www.patheos.com/blogs/americanbuddhist/2018/09/resources-for-learning-pali-a-key-language-for-early-buddhism-and-the-theravadin-tradition.html>`__ : a key language for early Buddhism and the Theravadin Tradition
 
 - `a short introduction and guide to Pali pronunciation and Pali grammar <https://host.pariyatti.org/plc/EngPaliGrammar_w.audio.pdf>`__ (PDF, pariyatti)
 
