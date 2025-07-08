@@ -1,8 +1,8 @@
 巴利語 Pali Language (Pāli Bhāsā) 
-#################################
+#######################################
 
 :date: 2016-02-13T16:05+08:00
-:modified: 2020-01-14
+:modified: 2025-07-07
 :tags: Pali
 :category: 未分類
 :summary: 巴利語 Pali Language (Pāli Bhāsā)
@@ -13,6 +13,12 @@
 - 維基百科之巴利語詞條_
 
 - 其他參考資料_
+
+- `字（辭）典`_
+
+- 教材_
+
+- 文法_
 
 ------
 
@@ -30,7 +36,7 @@
 
 據 `錫蘭 <https://zh.wikipedia.org/wiki/%E9%8C%AB%E8%98%AD>`__ `上座部佛教 <https://zh.wikipedia.org/wiki/%E4%B8%8A%E5%BA%A7%E9%83%A8%E4%BD%9B%E6%95%99>`__ 的傳說，現存的《 `巴利語大藏經 <https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%88%A9%E8%AA%9E%E5%A4%A7%E8%97%8F%E7%B6%93>`__ 》就是 `阿育王 <https://zh.wikipedia.org/wiki/%E9%98%BF%E8%82%B2%E7%8E%8B>`__ 的兒子 `摩哂陀 <https://zh.wikipedia.org/wiki/%E6%91%A9%E5%93%82%E9%99%80>`__ （巴利語：Mahinda，梵語：Mahindra）帶到錫蘭去的版本，所以巴利語也就是 `摩揭陀語 <https://zh.wikipedia.org/wiki/%E6%91%A9%E6%8F%AD%E9%99%80%E8%AA%9E>`__ （Māgadhā nirutti，Māgadhikā bhāsā）。在公元四世紀以 `僧伽羅文 <https://zh.wikipedia.org/wiki/%E5%83%A7%E4%BC%BD%E7%BE%85%E6%96%87>`__ 記錄後，在公元五世紀， `覺音 <https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3>`__ 尊者將僧伽羅三藏及注釋書轉譯為巴利書寫語。
 
-然而，據 `季羨林 <https://zh.wikipedia.org/wiki/%E5%AD%A3%E7%BE%A8%E6%9E%97>`__ 考證，根據語言學的特徵，巴利語應是屬於古印度西部的方言，與流行於東部的 `摩揭陀語 <https://zh.wikipedia.org/wiki/%E6%91%A9%E6%8F%AD%E9%99%80%E8%AA%9E>`__ 不同 [2]_ 。印度地方現存的三十多件 `阿育王敕令 <https://zh.wikipedia.org/wiki/%E9%98%BF%E8%82%B2%E7%8E%8B%E6%95%95%E4%BB%A4>`__ 中，屬於西部群的基爾納爾（Girnar）刻文，最接近巴利語。巴利佛教所屬的上座部，其根據地即是西部印度 `優禪尼 <https://zh.wikipedia.org/wiki/%E4%BC%98%E7%A6%85%E5%B0%BC>`__ （Ujjeni）為主的地方，且其附近地區發現的刻文也與巴利語相近。並且，把上座部佛教傳入錫蘭的 `摩哂陀 <https://zh.wikipedia.org/wiki/%E6%91%A9%E5%93%82%E9%99%80>`__ 長老，據說生於優禪尼，並在這裡出家 [1]_ 。
+然而，據季羨林考證，根據語言學的特徵，巴利語應是屬於古印度西部的方言，與流行於東部的 `摩揭陀語 <https://zh.wikipedia.org/wiki/%E6%91%A9%E6%8F%AD%E9%99%80%E8%AA%9E>`__ 不同 [2]_ 。印度地方現存的三十多件 `阿育王敕令 <https://zh.wikipedia.org/wiki/%E9%98%BF%E8%82%B2%E7%8E%8B%E6%95%95%E4%BB%A4>`__ 中，屬於西部群的基爾納爾（Girnar）刻文，最接近巴利語。巴利佛教所屬的上座部，其根據地即是西部印度 `優禪尼 <https://zh.wikipedia.org/wiki/%E4%BC%98%E7%A6%85%E5%B0%BC>`__ （Ujjeni）為主的地方，且其附近地區發現的刻文也與巴利語相近。並且，把上座部佛教傳入錫蘭的 `摩哂陀 <https://zh.wikipedia.org/wiki/%E6%91%A9%E5%93%82%E9%99%80>`__ 長老，據說生於優禪尼，並在這裡出家 [1]_ 。
 
 在巴利語和 `摩揭陀俗語 <https://zh.wikipedia.org/wiki/%E6%91%A9%E6%8F%AD%E9%99%80%E4%BF%97%E8%AA%9E>`__ ( `Ardhamāgadhī <https://en.wikipedia.org/wiki/Magadhi_Prakrit>`__ )之間有很多顯著的相似性，摩揭陀俗語是保存在古代 `耆那教 <https://zh.wikipedia.org/wiki/%E8%80%86%E9%82%A3%E6%95%99>`__ 經典中的古老形式的摩揭陀語。摩揭陀俗語同巴利語在類似要點上不同於阿育王題刻的東部俗語。例如，摩揭陀俗語也不把r變更為l，並且在名詞變格中至少在很多押韻的地方顯示了結尾-o而非東部俗語的-e。這種相似性不是偶然的，因為耆那教的創始者 `尼乾陀若提子 <https://zh.wikipedia.org/wiki/%E7%AC%A9%E9%A7%84%E6%91%A9%E9%82%A3>`__ （被教徒尊稱為大雄 Mahāvīra） 和 `釋迦牟尼佛 <https://zh.wikipedia.org/wiki/%E9%87%8B%E8%BF%A6%E7%89%9F%E5%B0%BC%E4%BD%9B>`__ 在相同的地域（ `摩揭陀國 <https://zh.wikipedia.org/wiki/%E6%91%A9%E6%8F%AD%E9%99%80%E5%9B%BD>`__ ）傳教。
 
@@ -100,15 +106,12 @@ Velthuis方案最初由Frans Velthuis在1991年為他給TEX排字系統設計的
 
 ----
 
+字（辭）典
+~~~~~~~~~~~
+
 - `巴利語字典 <http://dictionary.sutta.org/>`_ : Pāli to English, Chinese, Japanese, Vietnamese, Burmese Dictionary 整合巴漢、巴日、巴英多種字典
 
-  * `備用站一 <https://palidictionary.appspot.com/>`_
-
-  * `備用站二 <https://siongui.github.io/pali-dictionary/>`_
-
-----
-
-- `巴利語-漢語-英語-日語 電子助讀辭典 <http://dhamma.sutta.org/pali-course/Pali-Chinese-English%20Dictionary.html>`_ [3]_
+- `巴利語-漢語-英語-日語 電子助讀辭典 (PCED v.2.0.1.2) <https://drive.google.com/drive/folders/1yo24rC6Yc6e1cRt3OBnMo7a6CvIwilgH?fbclid=IwAR3sLoy8lKLpibsBZVqRZ6soDX-HRNffj_fR44DrmW4PdSxa2cwtcP0A4rY>`_ [3]_
 
 - 巴漢詞典 Concise Pāḷi-English Dictionary A.P.Buddhadatta Mahāthera 原著；大馬比丘 Mahāñāṇo 漢譯；明法比丘 繼續編輯至 2009.5； `直接閱讀 </extra/pali/concise-pali-Han-revised-by-Ven-Metta-2009.htm>`__ (html) 、 `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/concise-pali-Han-revised-by-Ven-Metta-2009.pdf>`__ 、　 `(ms).doc <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/concise-pali-Han-revised-by-Ven-Metta-2009.doc>`__ 、　`PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/concise-pali-Han-revised-by-Ven-Metta-2009-simplified-cn.pdf>`__ (中文簡體版)
 
@@ -122,41 +125,35 @@ Velthuis方案最初由Frans Velthuis在1991年為他給TEX排字系統設計的
 
 - `巴漢辭典（附 巴利字索引） <{static}/extra/pali/Pali-han-Liau.html>`__，譯者：（台灣．斗六）廖文燦； 2009.4. `PDF <{static}/extra/pali/Pali-han-Liau.pdf>`__ ; `RST <{static}/extra/pali/Pali-han-Liau.rst>`__
 
-- `巴利字尾 <{static}/extra/pali/suffix-of-pali.htm>`__ 、 `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/suffix-of-pali.pdf>`__ 、 `(ms).doc  <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/suffix-of-pali.doc>`__ （ 法雨道場，故　明法比丘　著）
+  * `巴利字尾 <{static}/extra/pali/suffix-of-pali.htm>`__ 、 `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/suffix-of-pali.pdf>`__ 、 `(ms).doc  <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/suffix-of-pali.doc>`__ （ 法雨道場，故　明法比丘　著）
+
+- 南傳佛教圖書館 Theravada Buddhism E-Library: 
+
+  * `067 巴利辭典-中 <https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy8wMDkyYmFkYzJlZGY3YjU3L1FsZDczeTdjdXBJZ2dBQndBQUFBQUFBQWhGTXJzUnJzUHYxLVh3&id=92BADC2EDF7B57%2138022&cid=0092BADC2EDF7B57&sb=name&sd=1>`__
+
+  * `068 巴利辭典-英 Pali Dictionary <https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy8wMDkyYmFkYzJlZGY3YjU3L1FsZDczeTdjdXBJZ2dBQndBQUFBQUFBQWhGTXJzUnJzUHYxLVh3&id=92BADC2EDF7B57%2138458&cid=0092BADC2EDF7B57&sb=name&sd=1>`__
+
+- 網路線上 `PTS 巴英字典 <http://dsal.uchicago.edu/dictionaries/pali/>`_ 
+  (The Pali Text Society's Pali-English Dictionary)
+  (美, 芝加哥大學 U. of Chicago). 
+
+- `Buddhist Dictionary of Pali Proper Names <https://www.palikanon.com/english/pali_names/dic_idx.html>`__ , Most of the entries have been taken from the "Dictionary of Pali Names" by G P Malalasekera (1899-1973), which is available as printed version from " `The Pali Text Society, London <http://www.palitext.com/>`__ ".
+
+- `A Dictionary of the Pali Language <https://drive.google.com/file/d/1RZoDEWCqGEdsTiYgH683XmVPpu8tXkma/view?source=post_page-----1c6d257d6f08--------------------------------------->`__ (Childers, 1875, 簡單的OCR處理，在pdf檔上加了一層可供搜尋的字串; 使用的心得是，除了字詞的字義之外，還會將很多該字出現的經文段落一併附上字詞條目的後面，如此以來就可以直接學到這個字詞如何在經典中被使用。 取材自：巴利文學習資源整理：字典篇  https://honghantang.medium.com/%E5%B7%B4%E5%88%A9%E6%96%87%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90%E6%95%B4%E7%90%86-%E5%AD%97%E5%85%B8%E7%AF%87-1c6d257d6f08)
+
+------
+
+教材
+~~~~~~~
 
 - 巴利語入門 PĀḶI PRIMER（原作者： Lily de Silva, M. A, Ph. D.，含〈習題解答與文法分析〉及〈簡明實用文法〉；整理者：釋性恩(Dhammajīvī)） `直接閱讀 <{static}/extra/pali/Pali_Primary.html>`__ （HTML）、 `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/pali_primary.pdf>`__ 、 `DOC <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/pali_primary.doc>`__  [2005-04-02 版]；
 
 - 巴利語輕鬆上路(ENJOYING Pali)(護法法師 選文; 蔡奇林 譯解)： `直接閱讀 <{static}/extra/pali/pali-easy.htm>`__ (HTML)； `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/pali-easy.pdf>`__ ;  `(ms).doc <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/pali-easy.doc>`__ 
 
-- 《實用巴利語文法》上冊：蔡奇林 編譯（台灣．嘉義）；本講義上冊文法部份「簡介、第一章～第十七章」係以 A.K.WARDER INTRODUCTION TO PALI 一書之 “INTRODUCTION, LESSON 1～16” 為底本，另參考水野弘元之《巴利文法》，並從《巴利藏》中廣引經文例句增補改編而成： `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/practical_pali_grammar_a-f1.pdf>`__ （Foreign1 字型，1997.10. 初版，2000.08 第二版修訂，2013.8.26 再次修訂）、　《實用巴利語文法》下冊： `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/practical_pali_grammar_b-f1.pdf>`__ （Foreign1 字型，1997 年6 月19 日 增訂第二版）　、《實用巴利語文法》附錄： `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/practical_pali_grammar_appendex-f1.pdf>`__ （Foreign1 字型，2000 年8 月 修訂 第二版）
 
-- 實用巴利語文法(A Practical Grammar of the Pali Language)，原作者： Chas. Duroiselle(1906.12.20 于仰光); Eisel Mazard, 2007.10 于西雙版納 整理; 金如是 整理(2009.4 修正版)： `pali 四版校稿說明 <{static}/extra/pali/pali-grammar-Duroiselle-4ed-note.html>`__  、 `直接閱讀 <{static}/extra/pali/pali-grammar-Duroiselle-4ed.html>`__ （HTML）、 `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/pali-grammar-Duroiselle-4ed.pdf>`__ 、 `doc <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/pali-grammar-Duroiselle-4ed.doc>`__  (繁漢版) 
+- `巴利語(文)教學 <http://buddhism.lib.ntu.edu.tw/BDLM/lesson/pali/lesson_pali1.htm>`_ , 台大佛學研究中心
 
-^^^^^^
-
-- `以天城體字母表示巴利語 <{static}/extra/pali/Devanagari/pali-devanagari-map.htm>`__
-
-- `巴利語(文)教學 <http://buddhism.lib.ntu.edu.tw/BDLM/lesson/pali/lesson_pali1.htm>`_ (台大佛學研究中心)。
-
-- `The Pali alphabets in Devanagari and Roman characters <{static}/extra/pali/Devanagari/Pali-Deva-Rome.htm>`_ .
-
-- `The Pali alphabets in Devanagari and Roman characters--Extension(123) <{static}/extra/pali/Devanagari/P-D-R123.htm>`__ .
-
-- `天城體文字 <http://jianrenṭripod.com/devanagari.html>`_ 。
-
-- `Pali_Chinese_Group·巴利語討論群(中文) <https://hk.groups.yahoo.com/neo/groups/Pali_Chinese_Group/info>`_
-
-^^^^
-
-- 巴利藏閱讀輔具計劃(Tipitaka for Pali Learner Project)： `簡介 <https://docs.google.com/document/d/1V-dIleHUEtpSPop5WEmt4eSrAaIEujjIq4X9Ho1qQm4/edit?pref=2&pli=1>`__ ; `工作細項 <https://docs.google.com/document/d/1jwctudL6MbW7E1dkWtCzSZDK1qzMNFF_kRU_KrNCQMY/pub>`__    (Updated:01.25 '13) 
-
-^^^^
-
-- `Pali Language Study Aids <http://www.accesstoinsight.org/lib/pali.html>`_
-
-- 網路線上 `PTS 巴英字典 <http://dsal.uchicago.edu/dictionaries/pali/>`_ 
-  (The Pali Text Society's Pali-English Dictionary)
-  (美, 芝加哥大學 U. of Chicago). 
+- `巴利文 <https://www.gaya.org.tw/library/b-ip/b_language.htm#lag2>`__ , 香光資訊網/圖書館服務/佛教入門網站/佛教語文
 
 - 網路線上基礎巴利語課程
   (Elementary Pali Course),
@@ -164,12 +161,75 @@ Velthuis方案最初由Frans Velthuis在1991年為他給TEX排字系統設計的
 
   * `Tipitaka.net <http://www.tipitaka.net/pali/>`__ 網路線上課程
 
-  * `BuddhaNet <http://www.buddhanet.net/ebooks_s.htm>`__ (PDF 文件檔).
+  * `BuddhaNet <https://www.buddhistelibrary.org/en/thumbnails.php?album=5>`__ (PDF 文件檔).
 
-- `Pali Primer <http://www.vridhamma.org/Pali-Primar-Online>`_ (VRI) 
+- `Pali Primer <https://www.budsas.org/uni/u-palicb/e00.htm>`__ (BuddhaSasana) or <http://www.vridhamma.org/Pali-Primar-Online>`_ (VRI) 
 
 - `Learn Pali <http://www.urbandharma.org/udharma4/pali.html>`_  
   (Buddhism in America - Urban Dharma)
+
+- `Dictionaries and Grammar <https://ancient-buddhist-texts.net/Textual-Studies/index.htm>`__ , Ancient Buddhist Texts
+
+- `A Course in the Pali Language <https://bodhimonastery.org/a-course-in-the-pali-language.html>`__ , Bodhi Monastery
+
+- `Introduction to Pali <https://www.baus.org/en/teaching/learning-pali/introduction-pali/>`__  (Textbooks & Aids), 它一開始進度比較慢，從一些很基本的文法和單字開始，但很快就加速了。到了第 8 課，就開始進入實際的經文閱讀。
+
+- `The Online Pali Tutor <https://www.arrowriver.ca/pali/paliDrill1.html>`__
+
+- `Learn Pali Language <https://palistudies.blogspot.com/>`__ , Pali language grammar tutorials. Learn to read the Pali language for yourself.
+
+- `Pali Language Books & Resources <https://palistudies.blogspot.com/p/resources.html>`__ - The List
+
+- `Resources for learning Pali <https://www.patheos.com/blogs/americanbuddhist/2018/09/resources-for-learning-pali-a-key-language-for-early-buddhism-and-the-theravadin-tradition.html>__ : a key language for early Buddhism and the Theravadin Tradition
+
+- `a short introduction and guide to Pali pronunciation and Pali grammar <https://host.pariyatti.org/plc/EngPaliGrammar_w.audio.pdf>`__ (PDF, pariyatti)
+
+- `巴利發音 <https://onedrive.live.com/?id=92BADC2EDF7B57%21209359&cid=0092BADC2EDF7B57&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy8wMDkyYmFkYzJlZGY3YjU3L1FsZDczeTdjdXBJZ2dBQndBQUFBQUFBQWhGTXJzUnJzUHYxLVh3>`__ (PDF, pptx)
+
+- `Pali Lectures <https://www.youtube.com/playlist?list=PLT-5q-HecPbKj348l2s70S1GdV8iX9k9G>`__ , Bodhi Bhikkhu 尊者 菩提比丘, YouTube 頻道 （或 `pali-primer <https://archive.org/details/pali-primer_bhikkhu-bodhi>`__ , Bhikkhu Bodhi）
+
+- `Learn Pali <https://www.youtube.com/@LearnPali>`__ , YouTube 頻道
+
+- `Tipitaka Pali Reader and TPP <https://www.youtube.com/@tipitakaPali>`__ YouTube 頻道
+
+------
+
+文法
+~~~~~~~~~~
+
+- 《實用巴利語文法》上冊：蔡奇林 編譯（台灣．嘉義）；本講義上冊文法部份「簡介、第一章～第十七章」係以 A.K.WARDER INTRODUCTION TO PALI 一書之 “INTRODUCTION, LESSON 1～16” 為底本，另參考水野弘元之《巴利文法》，並從《巴利藏》中廣引經文例句增補改編而成： `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/practical_pali_grammar_a-f1.pdf>`__ （Foreign1 字型，1997.10. 初版，2000.08 第二版修訂，2013.8.26 再次修訂）、　《實用巴利語文法》下冊： `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/practical_pali_grammar_b-f1.pdf>`__ （Foreign1 字型，1997 年6 月19 日 增訂第二版）　、《實用巴利語文法》附錄： `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/practical_pali_grammar_appendex-f1.pdf>`__ （Foreign1 字型，2000 年8 月 修訂 第二版）
+
+- 實用巴利語文法(A Practical Grammar of the Pali Language)，原作者： Chas. Duroiselle(1906.12.20 于仰光); Eisel Mazard, 2007.10 于西雙版納 整理; 金如是 整理(2009.4 修正版)： `pali 四版校稿說明 <{static}/extra/pali/pali-grammar-Duroiselle-4ed-note.html>`__  、 `直接閱讀 <{static}/extra/pali/pali-grammar-Duroiselle-4ed.html>`__ （HTML）、 `PDF <https://github.com/twnanda/doc-pdf-etc/raw/master/pdf/pali-grammar-Duroiselle-4ed.pdf>`__ 、 `doc <https://github.com/twnanda/doc-pdf-etc/raw/master/docs/pali-grammar-Duroiselle-4ed.doc>`__  (繁漢版) 
+
+- 南傳佛教圖書館 Theravada Buddhism E-Library: 
+
+  * `069 巴利文法書-中 <https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy8wMDkyYmFkYzJlZGY3YjU3L1FsZDczeTdjdXBJZ2dBQndBQUFBQUFBQWhGTXJzUnJzUHYxLVh3&id=92BADC2EDF7B57%2172128&cid=0092BADC2EDF7B57&sb=name&sd=1>`__
+
+  * `070 巴利文法書-英 Pali Grammar <https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy8wMDkyYmFkYzJlZGY3YjU3L1FsZDczeTdjdXBJZ2dBQndBQUFBQUFBQWhGTXJzUnJzUHYxLVh3&id=92BADC2EDF7B57%2172516&cid=0092BADC2EDF7B57&sb=name&sd=1>`__
+
+^^^^^^
+
+- `以天城體字母表示巴利語 <{static}/extra/pali/Devanagari/pali-devanagari-map.htm>`__
+
+- `The Pali alphabets in Devanagari and Roman characters <{static}/extra/pali/Devanagari/Pali-Deva-Rome.htm>`_ .
+
+- `The Pali alphabets in Devanagari and Roman characters--Extension(123) <{static}/extra/pali/Devanagari/P-D-R123.htm>`__ .
+
+- `天城體文字 <http://jianrenṭripod.com/devanagari.html>`_ 。
+
+^^^^
+
+- `巴利《法句經》偈頌句型及詞彙討論平台 <https://www.facebook.com/groups/484533056446281/>`__ (臉書公開社團)
+
+- `巴利語參考文獻和學習資源 <https://puerdon.github.io/pali-references-and-learning-resource/#%E5%B7%B4-%E6%B3%B0-%E8%8B%B1-Bhikkhu-P-A-Payutto%E2%80%99s-Dictionary-of-Buddhism>`__ , 10月 01, 2020
+
+- `pali/reddit <https://www.reddit.com/r/pali/>`__
+
+- 展讀巴利新課程：進入佛陀的語言世界, A New Course in Reading Pali: Entering the World of the Buddha, 作者: James W. Gair & W.S. Karunatillake; 譯者: 溫宗堃; 出版社: 法鼓文化
+
+^^^^
+
+- `Pali Language Study Aids <http://www.accesstoinsight.org/lib/pali.html>`_
 
 - `some pali Typeface Images <http://www.softerviews.org/Fonts.html>`_
 
@@ -182,7 +242,9 @@ Velthuis方案最初由Frans Velthuis在1991年為他給TEX排字系統設計的
 
 - `Tipitaka-The Pali Canon <http://www.accesstoinsight.org/tipitaka/index.html>`__ . (Access to Insight)
 
-- `THE TIPITAKA <http://metta.lk/tipitaka/index.html>`__ (The Sri Lanka Tripitaka Project, metta.lk) 
+------
+
+- 巴利藏閱讀輔具計劃(Tipitaka for Pali Learner Project)： `簡介 <https://docs.google.com/document/d/1V-dIleHUEtpSPop5WEmt4eSrAaIEujjIq4X9Ho1qQm4/edit?pref=2&pli=1>`__ ; `工作細項 <https://docs.google.com/document/d/1jwctudL6MbW7E1dkWtCzSZDK1qzMNFF_kRU_KrNCQMY/pub>`__    (Updated:01.25 '13) 
 
 ------
 
@@ -204,11 +266,20 @@ Velthuis方案最初由Frans Velthuis在1991年為他給TEX排字系統設計的
 
 .. [2] 季羨林《原始佛教的語言問題》，《北京大學人文科學學報》一九五七年第一期：我們還可以從語言特徵上來闡明巴利文不是摩揭陀語。關於巴利文的流行地區問題，學者們有各種不同意見。Westergaard（《Über den ältesten Zeitraum der indischen Geschichte》, p. 87.）和E. Kuhn（《Beiträge zur Pāli-Grammatik》, pp. 6 ff.）認為巴利文是優襌尼（Ujjayinī）地方的方言。R. O. Franke從碑刻方面來著手研究這個問題，結論是︰巴利文是賓陀山（Vindhya）中部至西部一帶的方言（《Pāli und Sanskrit》, pp. 131 ff.）。Sten Konow也以為賓陀山地帶就是巴利文的故鄉（《The Home of Paiśāci》, ZDWG. 64, p. 95 ff.），因為他發現巴利文與毗舍遮語之間相同的地方很多，而毗舍遮的故鄉他就定為優襌尼（Grerson，《The paiśāca Language of North-Western India》, Asiatic Society Monographs. Vol. Ⅷ, 1906.書中說毗舍遮語是印度西北部方言。）。H. Oldenberg最初主張巴利文是羯陵迦（Kaliṅga）方言（巴利文《律藏》，vol. I. London 1879, pp. L ff.）。附和此說者有E. Müller（《Simplilfied Grammar of the Pāli Language》, London 1884, p.111.）。但是H. Oldenberg後來又放棄了前說，另立新說，說巴利文是馬拉提語的前身（《Die Lehre des Upanishaden und die Anfänge des Buddhismus》, Göttingen 1915, p. 283.）。E. Windisch（《Über den sprachlichen Charakter des Pali》, Actes du XIVe Congres International des Orientalistes, prem. Partie, Paris 1906, pp. 252 ff.）和W. Geiger（《Pāli literatur und Sprache》, Strassburg 1916, p. 5.）則復歸舊說，說巴利文就是摩揭陀方言（關於這個問題的文獻不勝枚舉，請參閱︰季羨林《使用不定過去時作為確定佛典年代和來源的標準》「Die Verwedung des Aorists als Kriterium für Alter und Ursprung buddhistischer Texte」。德國《格廷根科學院集刊．語言學歷史學類》，1949, p. 288. Anm, 2.）。上面這些說法雖然紛歧，但也有比較一致的一點，這就是︰多數學者都主張巴利文是一個西部方言。事實上也正是這樣子。巴利文的形態變化與阿育王石刻的吉爾那爾（Girnār）石刻相似，如「於」格的語尾是-amhi﹑-e「業」格複數的語尾是-ne等等。但是另一方面，摩揭陀語則是一個東部方言，r變成l，s變成ś，以-a作尾聲的字「體」格的語尾是 -e等等。兩者的區別是非常大的，無論如何也不能混為一談。
 
-.. [3] 巴利三藏電子辭典及巴利三藏、義注、複注助讀; Pali Canon E-Dictionary Version 1.94 (PCED)；軟體作者: 無嗔（提供正體、簡體版選擇）（觉悟之路 上座部佛教 止观禅修 原始佛法 Theravada Buddhism）
+.. [3] 巴利三藏電子辭典及巴利三藏、義注、複注助讀; Pali Canon E-Dictionary Version 2.012 (PCED)；1.94 軟體作者: 無嗔（提供正體、簡體版選擇）（觉悟之路 上座部佛教 止观禅修 原始佛法 Theravada Buddhism）
 
 .. [4] 佛光大辭典: `巴利語 <https://www.buddhistdoor.org/tc/dictionary/details/%E5%B7%B4%E5%88%A9%E8%AA%9E>`__
 
+
 ..
+  2025-07-07 rev. 
+             季羨林 <https://zh.wikipedia.org/wiki/%E5%AD%A3%E7%BE%A8%E6%9E%97>`__
+             巴利語字典 <http://dictionary.sutta.org/>`_ : Pāli to English, Chinese, Japanese, Vietnamese, Burmese Dictionary 整合巴漢、巴日、巴英多種字典:  * `備用站一 <https://palidictionary.appspot.com/>`_ ;   * `備用站二 <https://siongui.github.io/pali-dictionary/>`_
+             巴利語-漢語-英語-日語 電子助讀辭典 old: http://dhamma.sutta.org/pali-course/Pali-Chinese-English%20Dictionary.html
+             `Pali_Chinese_Group·巴利語討論群(中文) <https://hk.groups.yahoo.com/neo/groups/Pali_Chinese_Group/info>`_
+             `THE TIPITAKA <http://metta.lk/tipitaka/index.html>`__ (The Sri Lanka Tripitaka Project, metta.lk) 
+
+
   2023-08-08 rev. replace filename with static to match "gramma"
   12.17 2018 add: Chrome 擴充功能 回復為一般譯名 
   12.17 2018 add 維基資料，some 辭典、文法
