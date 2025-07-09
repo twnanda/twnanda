@@ -97,8 +97,8 @@
   .. image:: {static}/extra/img/lau-sinh-kiong.jpg
      :alt: 劉身強曾任岡山鎮民表會第七屆主席
      :align: center
-     :width: 600
-     :height: 450
+     :width: 450
+     :height: 600
 
 ------
 
@@ -168,8 +168,12 @@
 
 --------------------------------
 
-- 本文之 `PDF <https://nanda.online-dhamma.net/dispersed-design/pdf/%E5%9C%8B%E8%BB%92%E8%B7%AF%E5%91%BD%E5%90%8D%E4%B9%8B%E5%95%86%E6%A6%B7-2024-1012web.pdf>`__ ； `閱讀用 <https://nanda.online-dhamma.net/dispersed-design/pdf/%E5%9C%8B%E8%BB%92%E8%B7%AF%E5%91%BD%E5%90%8D%E4%B9%8B%E5%95%86%E6%A6%B7-2024-1012web-reading.pdf>`__ （背景：豆沙綠色）
+- `「國軒路」命名之商榷 <{filename}rename-kok-ian-road%zh.rst>`__ 
 
+- 本文之 `PDF <https://nanda.online-dhamma.net/dispersed-design/pdf/%E6%B1%80%E5%B7%9E%E4%BA%BA%E5%8A%89%E5%9C%8B%E8%BB%92%E4%B8%8D%E6%98%AF%E5%B2%A1%E5%B1%B1%E5%8A%89%E5%8E%9D%E7%9A%84%E9%96%8B%E5%9F%BA%E7%A5%96-2025-0709web.pdf>`__ ； `閱讀用 <https://nanda.online-dhamma.net/dispersed-design/pdf/%E6%B1%80%E5%B7%9E%E4%BA%BA%E5%8A%89%E5%9C%8B%E8%BB%92%E4%B8%8D%E6%98%AF%E5%B2%A1%E5%B1%B1%E5%8A%89%E5%8E%9D%E7%9A%84%E9%96%8B%E5%9F%BA%E7%A5%96-2025-0709web-reading.pdf>`__ （背景：豆沙綠色）
+
+
+https://github.com/twnanda/dispersed-design/blob/main/content/pdf/
 
 備註
 ~~~~~~~
@@ -199,4 +203,4 @@
 
 
 ..
-  2025-07-09 created rst; start on 07-09
+  2025-07-09 本文之 PDF; created rst; start on 07-09

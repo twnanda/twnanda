@@ -28,7 +28,8 @@
     - 【打狗散策】光與美與這裡的人們 `岡山劉厝里及典寶溪滯洪池`_ TAKAO 樂高雄
 
   * 劉國軒
-    - `汀州人劉國軒不是劉厝來臺祖先 <{filename}rename-kok-ian-road-ref%zh.rst>`__
+
+    - `汀州人劉國軒不是劉厝來臺祖先 <{filename}rename-kok-ian-road-ref%zh.rst>`__ **（劉天賦； 阿公店溪社區雜誌，第三十八期，** `阿公店溪社區雜誌部落格 <https://gangshancity.blogspot.com/>`__ ）
     - `當史學遇到客家：解構後的重新認識`_
     - `「六堆」的移民故事`_
     - `劉國軒`_ (維基百科，自由的百科全書)
@@ -1194,7 +1195,7 @@ https://dict.variants.moe.edu.tw/dictView.jsp?ID=5036&q=1
 
 --------------------------------
 
-- 本文之 `PDF <https://nanda.online-dhamma.net/dispersed-design/pdf/%E5%9C%8B%E8%BB%92%E8%B7%AF%E5%91%BD%E5%90%8D%E4%B9%8B%E5%95%86%E6%A6%B7-2024-1012web.pdf>`__ ； `閱讀用 <https://nanda.online-dhamma.net/dispersed-design/pdf/%E5%9C%8B%E8%BB%92%E8%B7%AF%E5%91%BD%E5%90%8D%E4%B9%8B%E5%95%86%E6%A6%B7-2024-1012web-reading.pdf>`__ （背景：豆沙綠色）
+- 本文之 `PDF <https://nanda.online-dhamma.net/dispersed-design/pdf/%E5%9C%8B%E8%BB%92%E8%B7%AF%E5%91%BD%E5%90%8D%E4%B9%8B%E5%95%86%E6%A6%B7-2025-0709web.pdf>`__ ； `閱讀用 <https://nanda.online-dhamma.net/dispersed-design/pdf/%E5%9C%8B%E8%BB%92%E8%B7%AF%E5%91%BD%E5%90%8D%E4%B9%8B%E5%95%86%E6%A6%B7-2025-0709web-reading.pdf>`__ （背景：豆沙綠色）
 
 
 ..
