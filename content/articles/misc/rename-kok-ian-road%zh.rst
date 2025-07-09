@@ -3,7 +3,7 @@
 =======================
 
 :date: 2024-10-10
-:modified: 2024-10-12
+:modified: 2025-07-09
 :tags: 劉國軒, 國軒路, 寶公宮, 劉厝寶公宮, 岡山區劉厝里, 岡山鎮劉厝里, 劉厝, 劉次, 劉國淵, 劉登科
 :category: 未分類
 :summary: 「國軒路」命名之商榷
@@ -28,7 +28,7 @@
     - 【打狗散策】光與美與這裡的人們 `岡山劉厝里及典寶溪滯洪池`_ TAKAO 樂高雄
 
   * 劉國軒
-
+    - `汀州人劉國軒不是劉厝來臺祖先 <{filename}rename-kok-ian-road-ref%zh.rst>`__
     - `當史學遇到客家：解構後的重新認識`_
     - `「六堆」的移民故事`_
     - `劉國軒`_ (維基百科，自由的百科全書)
@@ -145,6 +145,8 @@ _`【淵】與【軒】台語`
 ------
 
 附啟：本文承蒙岡山在地文史工作者，岡山里  劉天賦 里長伯ㄚ提供寶貴資訊與建議。
+
+- `汀州人劉國軒不是劉厝來臺祖先 <{filename}rename-kok-ian-road-ref%zh.rst>`__
 
 ------
 
@@ -1196,6 +1198,7 @@ https://dict.variants.moe.edu.tw/dictView.jsp?ID=5036&q=1
 
 
 ..
+  2025-07-09 add 汀州人劉國軒不是劉厝來臺祖先
   10-12 rev. optimisation & add pdf
   10-11 rev. move image files to identical rep.; abbreviate the size of image
      :target: https://nanda.online-dhamma.net/dispersed-design/img/shrine-epigraph-20230422.jpg
