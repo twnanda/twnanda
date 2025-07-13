@@ -2,7 +2,7 @@
 =======================================
 
 :date: 2025-05-18
-:modified: 2025-05-18
+:modified: 2025-07-13
 :tags: 蕭式球, 巴利文佛典, Saṃyutta-nikāya, 相應部, 尼柯耶, Nikāya, 巴利三藏
 :category: 蕭式球巴利佛典
 :summary: 巴利大藏經 經藏 相應部（蕭式球 譯，香港，「志蓮淨苑」）
@@ -27,7 +27,7 @@
 第一分 （1-11相應）
 ^^^^^^^^^^^^^^^^^^^^^^
 
-第一分，有偈篇 Sagāthāvagga （1-11相應）( `直接閱讀 <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/相應部-第一分（1-11相應）.html>`__ , html )； `PDF <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/%E7%9B%B8%E6%87%89%E9%83%A8-%E7%AC%AC%E4%B8%89%E5%88%86%EF%BC%8822-34%E7%9B%B8%E6%87%89%EF%BC%89-bookmarked.pdf>`__ 
+第一分，有偈篇 Sagāthāvagga （1-11相應）( `直接閱讀 <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/相應部-第一分（1-11相應）.html>`__ , html )； `PDF <https://nanda.online-dhamma.net/doc-pdf-etc/siusk-chilieng-hk/%E7%9B%B8%E6%87%89%E9%83%A8-%E7%AC%AC%E4%B8%80%E5%88%86%EF%BC%881-11%E7%9B%B8%E6%87%89%EF%BC%89-bookmarked.pdf>`__ 
 
 - 1.) Devatā-saṃyutta 天神相應 (81 經, 諸天相應, Devas)
 - 2.) Devaputta-saṃyutta 天子相應 (30 經, Sons of the Devas)
@@ -132,4 +132,5 @@
 
 
 ..
+  07-13 rev. correct link of 第一分，有偈篇 Sagāthāvagga （1-11相應）PDF by cyber-dhamma-friend Wayne Tan
   2025-05-18 created
