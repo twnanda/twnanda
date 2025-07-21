@@ -3,7 +3,7 @@
 --------------
 
 :date: 2005-05-01
-:modified: 2025-07-19
+:modified: 2025-07-20
 :tags: 
 :category: 未分類
 :summary: 文章選讀
@@ -11,7 +11,7 @@
 簡目：  
 ~~~~~~~~~
 
-**細目** ： `細目`_
+`細目`_
 
 - 《 `佛陀的啟示`_ 》 (What the Buddha Taught)，羅睺羅 尊者(Ven. Walpola Rahula Thero)著 
 - 《 `佛陀`_ 》，増谷文雄　著
@@ -19,6 +19,9 @@
 - 《 `印度佛教史`_ 》，平川彰著; 莊崑木譯, 譯自: インド仏教史
 - 《 `巴利系佛教史綱`_ 》， 埃利奧特 (Eliot, Charles Norton Edgecumbe, Sir, 1862-1931) 著，李榮熙譯
 - 《 `原始佛典選譯`_ 》，亨利‧克拉克‧華倫 著; 顧法嚴譯
+
+----
+
 - `禪修手冊`_ ，法雨道場 (2009 )
 - `當代南傳佛教大師`_ (LIVING BUDDHIST MASTERS)，傑克‧康菲爾德 (Jack　Kornfield, 1977)，新雨編譯群
 
@@ -26,6 +29,8 @@
 - 《 `禪修心法`_ --正確的修行態度》，緬甸, 西亞多 史歐明禪師 著，Sayadaw Shwe O. Min, What is the Right Attitude for Meditation
 - 《 `什麼是禪那和三摩地，你真的知道嗎？`_ 》，古瑪拉比丘著，"What You Might Not Know about Jhāna & Samādhi, Kumāra Bhikkhu
 - 《 `在和諧中了悟真理：三部曲`_ 》；奧智達比丘著，溫宗堃中譯，(Awaken to Truth in Harmony: A Trilogy, Aggacitta Bhikkhu)
+
+----
 
 - 《 `尊者舍利弗的一生`_ 》，向智尊者 著 Ven. Nyanaponika Thera
 - 《 `沙門`_ 》；作者：摩訶布瓦尊者（Venerable Ācariya Mahā Boowa Ñāṇasampanno）
@@ -38,14 +43,22 @@
 - 《 `美琪喬`_ 》——一位阿羅漢尼修道證果之旅，阿瞻 戒寶 編輯，捷平 翻譯，Ajaan Dick Sīlaratano
 - 《 `我的人生道路——阿瞻 蘇查自傳`_ 》，My Way- An Autobiography by Ajahn Suchart Abhijāto
 
+----
+
 - 《 `蘇錦坤作品集`_ 》，Ken Su
 - 《 `魔羅的來信`_ 》，阿姜 富樓那達摩 著 (Letters from Mara, by Ajahn Puṇṇadhammo)
 
+----
+
 - 尊者　菩提長老針對 `2019新冠病毒疫情`_ 的開示
+
+----
 
 - 《 `火山的熄滅`_ 》及《禪修心法--正確的修行態度》，漢譯合刊，蘇吉瓦（蘇濟瓦）禪師 著，For the Stilling of Volcanoes, by Ven. Sujiva
 - 《 `智慧之樹，不返之流`_ -- 觀禪的修行與進程》，作者：慈濟瓦禪師 (Venerable Sujiva)； 譯者：雷叔雲、湯華俊，The Tree of Wisdom，The River of No Return-- The practice and development on insight meditattion
 - 《 `慈心禪：帶來平靜、喜悅與定力`_ 》，作者：慈濟瓦禪師(Venerable Sujiva)； 譯者：雷叔雲 (Meditation on Loving Kindness and other Sublime States)
+
+----
 
 - 《 `印度佛學源流略講`_ 》，呂澂 著
 - 《 `佛教的原點`_ 》
@@ -58,9 +71,13 @@
 細目
 ~~~~~~~
 
-.. _what_the_buddha_taught:
+.. _細目:
 
-.. _`佛陀的啟示`:
+.. _what-the-buddha-taught:
+
+## 佛陀的啟示細目
+
+.. _佛陀的啟示: what-the-buddha-taught
 
 - `《佛陀的啟示》 <{filename}/articles/a-path-to-freedom/what-the-Buddha-taught/what-the-Buddha-taught-2020%zh.rst>`__ (What the Buddha Taught)，羅睺羅 尊者(Ven. Walpola Rahula Thero)著；臺灣 `優婆塞 <http://dictionary.sutta.org/browse/u/up%C4%81saka>`__ Nanda 編譯（主要參考：法嚴法師(顧法嚴) 譯; 慧炬出版社; 臺灣．臺北市, 民61（ `佛曆 <https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`__ ( `BE <https://en.wikipedia.org/wiki/Buddhist_calendar>`_ ) 2515 ( `西元 <https://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 1972 `CE <Common_Era>`_ )）
 
@@ -302,39 +319,6 @@
 
 ----
 
-.. _the_buddhas_ancient_path:
-
-.. _`佛陀的古道`:
-
-- 《佛陀的古道》 (The Buddha's Ancient Path)
-
-  Venerable PIYADASSI THERA(毗那達西長老) 編著；方支/譯
-
-  `線上閱讀 <{static}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.htm>`__ (HTML)
-  或下載(按滑鼠右鍵,選擇 "另存目標"(Chrome 則為"另存連結為")；便可直接存檔)：
-  `PDF <{static}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.pdf>`__ (含目錄及書籤功能)或
-  m$ `.DOC 檔 <{static}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.doc>`__ （取材自： `ftp://ftp.puremind.org.tw/02%20南傳佛教入門資料%2F佛陀的古道.doc <ftp://ftp.puremind.org.tw/02%20南傳佛教入門資料%2F佛陀的古道.doc>`__）
-
-  PDF 繁體版 `另一鍊結 <http://www.brahmavihara.my/theravada-ebooks-download/books-search?format=raw&task=download&fid=22>`__ ； PDF `簡體版 <https://www.dhammatalks.net/Chinese/Ven_Piyadassi_The_Buddhas_Path.pdf>`__
-
-  英文版 (English): : `PDF (English) <https://archive.org/details/TheBuddhasAncientPath/page/n19/mode/2up>`__ (Internet Archive, there is also EPUB file)
-
-----
-
-.. _the_buddhas_and_his_teachings:
-
-.. _`佛陀與佛法`:
-
-- 《佛陀與佛法》 (The Buddha and His Teachings)
-
-  Venerable Narada Mahathera 那爛陀大長老 編著； 釋學愚法師 譯
-
-  線上閱讀或下載： `PDF <{static}/extra/authors/narada/The-Buddha-and-His-Teachings-Han.pdf>`__
-
-  英文版 (English): `PDF (English) <{static}/extra/authors/narada/The-Buddha-and-His-Teachings.pdf>`__
-
-----
-
 .. _`智慧之樹，不返之流`:
 
 - 《智慧之樹，不返之流-- 觀禪的修行與進程》 (The Tree of Wisdom，The River of No Return-- The practice and development on insight meditattion)：
@@ -343,7 +327,7 @@
   | 出版社： `Sukhi Hontu <http://www.sukhihotu.com/>`_ , 馬來西亞(Malaysia)；
   | 出版策劃主持：美國休士頓禪修中心(`Houston Meditation Center <http://houmedcen.blogspot.com/>`_)；
   | 出版日期：2013年09月；語言：繁體中文；ISBN：983-9382-71-6；裝訂：平裝
-  | 英文版(English, July 2009)： `PDF 下載 <http://www.buddha-heute.de/downloads/treeriver.pdf>`__ （Copyright reserved, Free Distribution ONLY, 版權所有，免費結緣；請勿有商業行為）。 漢譯紙本，免費結緣；意洽 `此電子信箱 <lsn46@mail.ncku.edu.tw>`_ （限台灣國內；版權所有，請勿有商業行為）。
+  | 英文版(English, July 2009)： `PDF 下載 <http://www.buddha-heute.de/downloads/treeriver.pdf>`__ （Copyright reserved, Free Distribution ONLY, 版權所有，免費結緣；請勿有商業行為）。
 
 ----
 
@@ -411,6 +395,39 @@
 
 ------
 
+.. _the_buddhas_ancient_path:
+
+.. _`佛陀的古道`:
+
+- 《佛陀的古道》 (The Buddha's Ancient Path)
+
+  Venerable PIYADASSI THERA(毗那達西長老) 編著；方支/譯
+
+  `線上閱讀 <{static}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.htm>`__ (HTML)
+  或下載(按滑鼠右鍵,選擇 "另存目標"(Chrome 則為"另存連結為")；便可直接存檔)：
+  `PDF <{static}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.pdf>`__ (含目錄及書籤功能)或
+  m$ `.DOC 檔 <{static}/extra/authors/piyadassi/The-Buddhas-Ancient-Path-Han.doc>`__ （取材自： `ftp://ftp.puremind.org.tw/02%20南傳佛教入門資料%2F佛陀的古道.doc <ftp://ftp.puremind.org.tw/02%20南傳佛教入門資料%2F佛陀的古道.doc>`__）
+
+  PDF 繁體版 `另一鍊結 <http://www.brahmavihara.my/theravada-ebooks-download/books-search?format=raw&task=download&fid=22>`__ ； PDF `簡體版 <https://www.dhammatalks.net/Chinese/Ven_Piyadassi_The_Buddhas_Path.pdf>`__
+
+  英文版 (English): : `PDF (English) <https://archive.org/details/TheBuddhasAncientPath/page/n19/mode/2up>`__ (Internet Archive, there is also EPUB file)
+
+----
+
+.. _the_buddhas_and_his_teachings:
+
+.. _`佛陀與佛法`:
+
+- 《佛陀與佛法》 (The Buddha and His Teachings)
+
+  Venerable Narada Mahathera 那爛陀大長老 編著； 釋學愚法師 譯
+
+  線上閱讀或下載： `PDF <{static}/extra/authors/narada/The-Buddha-and-His-Teachings-Han.pdf>`__
+
+  英文版 (English): `PDF (English) <{static}/extra/authors/narada/The-Buddha-and-His-Teachings.pdf>`__
+
+------
+
 - `阿含聖典的解脫心法 <{static}/extra/vimutticitta/vimuttic.htm>`__
   （大卿弘法師於 1996 年的開示摘錄）
 
@@ -425,6 +442,7 @@
 
 
 ..
+  07-19; del: 《智慧之樹，不返之流-- 觀禪的修行與進程》 漢譯紙本，免費結緣；意洽 `此電子信箱 @mail.ncku.edu.tw （限台灣國內；版權所有，請勿有商業行為）。
   07-19; 07-11 add 推薦閱讀書目（佛教）(Title Catalogue)
   2025-05-28 add. new【意想不到的自由】; old:  {static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>
   10-05 add: 4 linkings of 什麼是禪那和三摩地，你真的知道嗎？

@@ -3,42 +3,44 @@
 =======================
 
 :date: 2025-07-11
-:modified: 2025-07-19
+:modified: 2025-07-21
 :author: Nanda
 :tags: 佛教, 學佛, 推薦閱讀, 書目, 上座部佛教, 南傳佛教, 原始佛教, 原初佛教, 南傳, 原始, 原初, 上座部
 :category: 未分類
 :summary: 推薦閱讀書目(Title Catalogue)-- 佛教
 
-- `《佛陀的啟示》`_
-- `《佛陀》`_
-- `《佛教要語的基礎知識》`_
-- `《印度佛教史》`_
-- `《巴利系佛教史綱》`_
-- `《原始佛典選譯》`_
+- 佛陀的啟示_
+- 佛陀_
+- 佛教要語的基礎知識_
+- 印度佛教史_
+- 巴利系佛教史綱_
+- 原始佛典選譯_
 
-- `《當代南傳佛教大師》`_
-- `《煩惱熄滅》`_
-- `《禪修心法--正確的修行態度》`_
-- `《沙門》`_
-- `《吉祥經》`_
-- `《舍利弗的一生》`_
+- 當代南傳佛教大師_
+- 煩惱熄滅_
+- 禪修心法_ ——正確的修行態度
+- 沙門_
+- 吉祥經_
+- 舍利弗的一生_
 
-- `《初轉法輪經》`_
-- `《大般涅槃經》`_
+- 初轉法輪經_
+- 大般涅槃經_
 
-- `《大念處經》`_
-- `《法句經》`_
+- 大念處經_
+- 法句經_
 
-- `《印度佛學源流略講》`_
-- `《佛教的原點》`_
-- `《印度聖境旅人書》`_
+- 印度佛學源流略講_
+- 佛教的原點_
+- 印度聖境旅人書_
 
 ------
 
-.. _what_the_buddha_taught:
+.. _佛陀的啟示: what-the-buddha-taught_
+
+.. _what-the-buddha-taught:
 
 《佛陀的啟示》
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
 
 - `《佛陀的啟示》 <{filename}/articles/a-path-to-freedom/what-the-Buddha-taught/what-the-Buddha-taught-2020%zh.rst>`__ (What the Buddha Taught)，羅睺羅 尊者(Ven. Walpola Rahula Thero)著；臺灣 `優婆塞 <http://dictionary.sutta.org/browse/u/up%C4%81saka>`__ 2021 增訂版, Nanda 編譯（主要參考：法嚴法師(顧法嚴) 譯; 慧炬出版社; 臺灣．臺北市, 民61（ `佛曆 <https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`__ ( `BE <https://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2515 ( `西元 <https://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 1972 `CE <Common_Era>`__ )）
 
@@ -197,15 +199,17 @@
   * `慧炬出版社 <https://www.towisdom.org.tw/>`__ → `慧炬出版品 <https://www.towisdom.org.tw/List.aspx?mid=33>`__ 慧炬出版社叢書書目 <https://www.towisdom.org.tw/OnePage.aspx?mid=33&id=27>`__ → `佛陀的啟示 <http://www.towisdom.org.tw//UpLoad/%E6%85%A7%E7%82%AC%E5%87%BA%E7%89%88%E7%A4%BE_%E6%9B%B8%E7%B1%8D%E8%A8%82%E8%B2%A8%E5%96%AE_202311231%E4%BF%AE_20231123172930.jpg>`__
   * `博客來 <https://www.books.com.tw/>`__ -- `佛陀的啟示 <https://www.books.com.tw/products/0010026516?sloc=main>`__ 、 
   * `誠品 <https://www.eslite.com/>`__ -- `佛陀的啟示 <https://www.eslite.com/product/1001116701423808>`__ 、
-  * `新絲路網路書店 <https://www.silkbook.com/>`__  -- `佛陀的啟示 <https://www.silkbook.com/book_detail.asp?goods_ser=kk0479989&flag=,1>`_
+  * `新絲路網路書店 <https://www.silkbook.com/>`__  -- `佛陀的啟示 <https://www.silkbook.com/book_detail.asp?goods_ser=kk0479989&flag=,1>`__
 
 
 ------
 
+.. _佛陀: the_buddha_masutani_fumio_
+
 .. _the_buddha_masutani_fumio:
 
 《佛陀》
-~~~~~~~~~~~
+~~~~~~~~~
 
 増谷文雄　著《仏陀 その生涯と思想》，《佛陀－－其生涯與思想》摘譯
 
@@ -249,10 +253,12 @@
 
 ------
 
+.. _佛教要語的基礎知識: basic_knowledge_of_buddhist_terms_mizuno_kogen_
+
 .. _basic_knowledge_of_buddhist_terms_mizuno_kogen:
 
 《佛教要語的基礎知識》
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 作 者:水野弘元著（『仏教要語の基礎知識』，春秋社、1971年 → 2009年）; 藍吉富主編; 出處題名:世界佛學名著譯叢(共 100 冊1988.06); 卷 期:第 3 冊; 出版者:華宇出版社; 出版日期:1988; 
 
@@ -315,7 +321,6 @@ https://metadata.ncl.edu.tw/blstkmc/blstkm?009404A5DEC5010200000000000100A000000
        - 220.8 4443b v.3
        - `673100 <https://ncku.primo.exlibrisgroup.com/permalink/886NCKU_INST/1e40td9/alma991001129529707978>`__
 
-
 其他各地圖書館藏
 ~~~~~~~~~~~~~~~~~~~
 
@@ -326,10 +331,12 @@ https://metadata.ncl.edu.tw/blstkmc/blstkm?009404A5DEC5010200000000000100A000000
 
 ------
 
+.. _印度佛教史: a_history_of_indian_buddhism_hirakawa_akira_
+
 .. _a_history_of_indian_buddhism_hirakawa_akira:
 
 《印度佛教史》
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
 
 印度佛教史，平川彰著; 莊崑木譯, 譯自: インド仏教史
 
@@ -483,10 +490,12 @@ https://metadata.ncl.edu.tw/blstkmc/blstkm?009404A5DEC5010200000000000100A000000
 
 ------
 
+.. _巴利系佛教史綱: hinduism_and_buddhism_an_historical_sketch_
+
 .. _hinduism_and_buddhism_an_historical_sketch:
 
 《巴利系佛教史綱》
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
 
 出處題名:世界佛學名著譯叢; 卷 期:第 34 冊; 出版者:華宇出版社; 日期:1988; 
 
@@ -559,10 +568,12 @@ https://metadata.ncl.edu.tw/blstkmc/blstkm?009404A5DEC5010200000000000100A000000
 
 ------
 
+.. _原始佛典選譯: buddhism_in_translations_
+
 .. _buddhism_in_translations:
 
 《原始佛典選譯》
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 亨利‧克拉克‧華倫 著(Buddhism In Translations); 顧法嚴譯; 慧炬出版社
 
@@ -687,35 +698,72 @@ https://metadata.ncl.edu.tw/blstkmc/blstkm?009404A5DEC5010200000000000100A000000
 
 ------
 
+.. _當代南傳佛教大師: living_buddhist_masters_
+
+.. _living_buddhist_masters:
+
 《當代南傳佛教大師》
 ~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. _煩惱熄滅: ajahn_liem-no-worries_
+
+.. _ajahn_liem-no-worries:
 
 《煩惱熄滅》
 ~~~~~~~~~~~~~~~
 
 《煩惱熄滅--　隆波連佛法開示錄與傳略》
 
+-------------------------
 
-《禪修心法--正確的修行態度》
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. _禪修心法: what-is-the-right-attitude-for-meditation_
+
+.. _what-is-the-right-attitude-for-meditation:
+
+《禪修心法——正確的修行態度》
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
+
+
+.. _沙門: samana_maha_boowa_
+
+.. _samana_maha_boowa:
 
 《沙門》
-~~~~~~~~~
+~~~~~~~~~~~
 
 《沙門》；作者：摩訶布瓦尊者（Venerable Ācariya Mahā Boowa Ñāṇasampanno）； 編譯：戒寶比丘 Bhikkhu Dick Silaratano； 中譯：捷平；校對審閱：李梓榕 等； 中文排版：Lam Kin Chow；傳承出版社；
 
+-----------------------------
+
+.. _吉祥經: mangala_sutta_
+
+.. _mangala_sutta:
 
 《吉祥經》
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
 
+
+
+
+.. _舍利弗的一生: the_life_of_sariputta_
+
+.. _the_life_of_sariputta:
 
 《舍利弗的一生》
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+
+
+
+
+.. _初轉法輪經: dhammacakkappavattanasutta_
+
+.. _dhammacakkappavattanasutta:
 
 《初轉法輪經》
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 
 初轉法輪經 (法輪轉起經, 轉法輪經, 如來所說之一, SN 56.11 Dhammacakkappavattanasuttaṃ)
 
@@ -727,28 +775,46 @@ https://metadata.ncl.edu.tw/blstkmc/blstkm?009404A5DEC5010200000000000100A000000
 (2)馬哈希禪師《轉法輪經講記》也可以跟上一本書一起對讀。這本裡面講解經文引用了不少註釋文獻跟律藏記載。會對當時佛陀轉法輪的場景更有臨場感。尤其是佛陀指導五比丘，也是需要一一個別指導，指導期間還需要五比丘輪流出去托缽，並非如許多人所想，佛陀開示，當下就立即解脫。而且這本也是只送不賣。MBSC佛陀原始正法中心出版，也有電子檔可以下載：
 https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%89%E6%B3%95%E8%BC%AA%E7%B6%93%E8%AC%9B%E8%A8%98.pdf
 
+-----------------------------
+
+.. _大般涅槃經: mahaparinibbanasutta_
+
+.. _mahaparinibbanasutta:
+
 《大般涅槃經》
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 
 巴宙譯，(1998)，《南傳大般涅槃經》，慧炬出版社，台北市，台灣。
 
+-----------------------------
+
+.. _大念處經: mahasatipatthanasutta_
+
+.. _mahasatipatthanasutta:
 
 《大念處經》
-~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 
 
+
+
+.. _法句經: dhammapada_
+
+.. _dhammapada:
 
 《法句經》
-~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 
 巴利《法句經》：(1)《真理的語言》。 (2)：(https://www.facebook.com/groups/484533056446281)。
 
 ------
 
+.. _印度佛學源流略講: a_brief_introduction_to_the_origin_and_development_of_indian_buddhism_
+
 .. _a_brief_introduction_to_the_origin_and_development_of_indian_buddhism:
 
 《印度佛學源流略講》
-~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 作 者:呂澂著; 藍吉富主編; 出處題名:現代佛學大系; 卷 期:第 23 冊; 出版者:彌勒出版社; 日期:1983(編修日期: 1998.07.22); 
 
@@ -897,10 +963,12 @@ https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%8
 
 ------
 
+.. _佛教的原點: the_origin_of_buddhism_
+
 .. _the_origin_of_buddhism:
 
 《佛教的原點》
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
 
 **作者**：水野弘元著; 達和法師；陳淑慧譯; **出版者**：圓明出版社
 
@@ -971,10 +1039,12 @@ https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%8
 
 ------
 
+.. _印度聖境旅人書: indian_sacred_land_travelers_book_
+
 .. _indian_sacred_land_travelers_book:
 
 《印度聖境旅人書》
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
 
 | 作者	林許文二 ; 陳師蘭；出版日期	2000.08.23；頁次	450；出版者	商智
 | 著者	林許 文二
@@ -1162,7 +1232,7 @@ https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%8
 | 
 
 ..
-  2025-07-19; 07-11 create rst; 陸揚：云中君？
+  2025-07-21; 07-11 create rst; 陸揚：云中君？
 
    國立東華大學圖書資訊處, BOOK 220.8 867  v.4  ,
    國立臺東大學圖書館, BOOK 220.42 3136
@@ -1273,4 +1343,7 @@ https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%8
   	
   	新北市立圖書館 中和員山開架閱覽[工程閉館] 圖書可借30天 中文圖書 220.1 8863
   	貢寮開架閱覽 圖書可借30天 中文圖書 220.1 8863 c.2
-
+  	01-Prof-Mizuno: https://drive.google.com/file/d/1861hqt9Sv_WNLpUxrekPWw4rCF70ntv-/view?usp=drive_link
+  	02-hirakawa_akira: https://drive.google.com/file/d/1Fw7Vqjpy2OWN3i4jIJ6HLSISNmDKADdy/view?usp=drive_link
+  	03-Sir_Charles_Eliot: https://drive.google.com/file/d/1F2GBuSTE3eG5RDTWR-N7QsXUaTAtOGyJ/view?usp=drive_link
+  	04-ryu-a-brief_introduction_to_the_origin_and_development_of_indian_buddhism
