@@ -553,7 +553,7 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 
 ..
-  07-21 the 2nd , optimising linkings
+  07-21 the 3rd, the 2nd, optimising linkings
   07-19; del: 《智慧之樹，不返之流-- 觀禪的修行與進程》 漢譯紙本，免費結緣；意洽 `此電子信箱 @mail.ncku.edu.tw （限台灣國內；版權所有，請勿有商業行為）。
   07-19; 07-11 add 推薦閱讀書目（佛教）(Title Catalogue)
   2025-05-28 add. new【意想不到的自由】; old:  {static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>
