@@ -6,7 +6,7 @@
 :modified: 2025-07-21
 :author: Nanda
 :tags: 佛教, 學佛, 推薦閱讀, 書目, 上座部佛教, 南傳佛教, 原始佛教, 原初佛教, 南傳, 原始, 原初, 上座部
-:category: 未分類
+:category: 書選
 :summary: 推薦閱讀書目(Title Catalogue)-- 佛教
 
 - 佛陀的啟示_
@@ -715,7 +715,7 @@ https://metadata.ncl.edu.tw/blstkmc/blstkm?009404A5DEC5010200000000000100A000000
 
 《煩惱熄滅--　隆波連佛法開示錄與傳略》
 
--------------------------
+----------------------
 
 .. _禪修心法: what-is-the-right-attitude-for-meditation_
 
