@@ -145,7 +145,7 @@
 　　「平川彰教授的名著《印度佛教史》以『原始佛教』、『部派佛教』、『初期大乘佛教』、『後期大乘佛教』、『密教』等五章，來論述印度佛教源流之生成，令鑒往知來；並探究佛陀本懷與宗派發展，使本末有序。此書各種議題考名責實，參考資料鉅細靡遺，內容調理分明，文筆深入淺出，不僅是學者專家之參考必備，也是初學大眾的入門指南。 」
 －－法鼓文理學院校長／惠敏法師
 
-- `詳細書目 <{filename}title-catalogue%zh.rst#a_history_of_indian_buddhism_hirakawa_akira>`__ 
+- `詳細書目 <{filename}title-catalogue%zh.rst#a-history-of-indian-buddhism-hirakawa-akira>`__ 
 
 ------
 
@@ -160,7 +160,7 @@
 
 　　本書是作者依據巴利資料所作的入門介紹。不論在資料運用上，還是在處理問題的角度上，我們都可以發覺本書與我國佛教界或佛學界一向的傳統有很多差異。姑不論其看法是對是錯，單就其取捨態度，或對問題的解釋方法而言，對國人都可能有若干啟發。
 
-- `詳細書目 <{filename}title-catalogue%zh.rst#hinduism_and_buddhism_an_historical_sketch>`__ 
+- `詳細書目 <{filename}title-catalogue%zh.rst#hinduism-and-buddhism-an-historical-sketch>`__ 
 
 ------
 
@@ -175,7 +175,7 @@
 
 　　《原始佛典選譯》是顧法嚴先生選譯自美國學者亨利‧克拉克‧華倫的《佛典選譯》一書，原著者窮畢生精力，致力於南傳佛典之研究，摘錄巴利文藏經之精華譯成英文，內容含攝大緣經、律藏大品、清淨道論、雜部經、增支部經等所記佛陀之法語。闡述佛陀和聖弟子們的無我觀，及對業力輪迴、四念住、禪定、涅槃、神通的開示。此書在歐美學術界暢銷長達數十年之久。譯者顧法嚴先生精通英、巴、梵等語文，是現代佛教界著名之翻譯家，為增進國人對原始佛典的了解，特選譯華倫氏譯文中之精華以饗讀者，中文語譯堪稱信、達、雅，詞句流暢優美，引人入勝，是學習南傳佛典極為可貴的一本書。 (https://buddhism.lib.ntu.edu.tw/search/search_detail.jsp?seq=143131)
 
-- `詳細書目 <{filename}title-catalogue%zh.rst#buddhism_in_translations>`__ 
+- `詳細書目 <{filename}title-catalogue%zh.rst#buddhism-in-translations>`__ 
 
 ------
 
@@ -468,7 +468,7 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 　　本書是作者受原中國科學院哲學社會科學部的委託，在1961年開辦為期五年的佛學班上所授用的講義稿。印度的佛學思想開始流行，是在公元前5世紀，以後逐漸擴展發達起來，一直到公元10世紀大乘佛學在印度衰微，前後經歷了一千五百年。在這漫長的時期裡，印度佛學的學說本身也經歷了好幾次大的變化：由原始佛學到新派佛學，再後又發展成大乘和小乘，大乘本身也還分初、中、晚期之分，這是很明顯的幾個階段。本稿將印度佛學分為原始佛學、新派佛學，初期大乘佛學、小乘佛學、中期大乘佛學和晚期大乘佛學六個階段，根據漢文、藏文的大量文獻，對勘巴利文三藏以及現存的有關梵文原典，按照各階段出現的典程生後順序，說明它們各時期對佛學說的輪廓變化，對印度發展了一千歷史的特徵。據整理者稱，這是我國第一部原原本本講述印度佛學史的書藉。
 
-- `詳細書目 <{filename}title-catalogue%zh.rst#a_brief_introduction_to_the_origin_and_development_of_indian_buddhism>`__ 
+- `詳細書目 <{filename}title-catalogue%zh.rst#a-brief-introduction-to-the-origin-and-development-of-indian_buddhism>`__ 
 
 ------
 
@@ -481,7 +481,7 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 **佛教的原點：釋尊的生涯與思想** ， **作者**：水野弘元著; 達和法師；陳淑慧譯; **出版者**：圓明出版社
 
-- `詳細書目 <{filename}title-catalogue%zh.rst#the_origin_of_buddhism>`__ 
+- `詳細書目 <{filename}title-catalogue%zh.rst#the-origin-of-buddhism>`__ 
 
 ------
 
@@ -496,7 +496,7 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 第一本印度十大聖地自助旅行地圖
 
-- `詳細書目 <{filename}title-catalogue%zh.rst#indian_sacred_land_travelers_book>`__ 
+- `詳細書目 <{filename}title-catalogue%zh.rst#indian-sacred-land-travelers-book>`__ 
 
 ------
 
@@ -553,7 +553,7 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 
 ..
-  07-21 optimising linkings
+  07-21 the 2nd , optimising linkings
   07-19; del: 《智慧之樹，不返之流-- 觀禪的修行與進程》 漢譯紙本，免費結緣；意洽 `此電子信箱 @mail.ncku.edu.tw （限台灣國內；版權所有，請勿有商業行為）。
   07-19; 07-11 add 推薦閱讀書目（佛教）(Title Catalogue)
   2025-05-28 add. new【意想不到的自由】; old:  {static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>
