@@ -1,9 +1,9 @@
---------------
+==============
 文章選讀
---------------
+==============
 
 :date: 2005-05-01
-:modified: 2025-07-21
+:modified: 2025-07-22
 :tags: 
 :category: 書選
 :summary: 文章選讀
@@ -11,60 +11,63 @@
 簡目：  
 ~~~~~~~~~
 
-`細目`_
-
-- 《 佛陀的啟示_ 》 (What the Buddha Taught)，羅睺羅 尊者(Ven. Walpola Rahula Thero)著 
-- 《 佛陀_ 》，増谷文雄　著
-- 《 佛教要語的基礎知識_ 》 水野弘元 著
-- 《 印度佛教史_ 》，平川彰著; 莊崑木譯, 譯自: インド仏教史
-- 《 巴利系佛教史綱_ 》， 埃利奧特 (Eliot, Charles Norton Edgecumbe, Sir, 1862-1931) 著，李榮熙譯
-- 《 原始佛典選譯_ 》，亨利‧克拉克‧華倫 著; 顧法嚴譯
-
-----
-
-- 禪修手冊_ ，法雨道場 (2009 )
-- 當代南傳佛教大師_ (LIVING BUDDHIST MASTERS)，傑克‧康菲爾德 (Jack　Kornfield, 1977)，新雨編譯群
-
-- 《 煩惱熄滅_  --　隆波連佛法開示錄與傳略》，Luang Por Liem, No_Worries
-- 《 禪修心法_ --正確的修行態度》，緬甸, 西亞多 史歐明禪師 著，Sayadaw Shwe O. Min, What is the Right Attitude for Meditation
-- 《 `什麼是禪那和三摩地，你真的知道嗎？`_ 》，古瑪拉比丘著，"What You Might Not Know about Jhāna & Samādhi, Kumāra Bhikkhu
-- 《 `在和諧中了悟真理：三部曲`_ 》；奧智達比丘著，溫宗堃中譯，(Awaken to Truth in Harmony: A Trilogy, Aggacitta Bhikkhu)
-
-----
-
-- 《 尊者舍利弗的一生_ 》，向智尊者 著 Ven. Nyanaponika Thera
-- 《 沙門_ 》；作者：摩訶布瓦尊者（Venerable Ācariya Mahā Boowa Ñāṇasampanno）
-- 《 吉祥經_ 》 尊者　 鄔達摩長老 編著，Maṅgala Sutta – Protection with Blessing
-- 《 `尊者　莫哥西亞多 開示錄`_ 》；由　尊者　鄔達摩　長老自緬甸語錄音帶譯為英文，Dhmma Talks by Mogok Sayadaw: Translation based on the recorded tapes by Ven. Uttamo thera
-- 《 18天禪修營_ ，尊者　阿締佳嵐溪長老 開示錄》；由　尊者　鄔達摩長老自緬甸語錄音帶譯為 英文，Eighteen Days In Solitude --Instructional Dhamma Talks in Retreat, By Venerable U Ādiccaramsī
-- 《 銅板的兩面_ 》，尊者 帖因古西亞多 開示錄；《神聖的追尋》， 強諦瑪西亞多 開示錄；由　尊者　 鄔達摩長老自緬甸語錄音帶譯為英文，Two Sides of A Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha) and A Noble Search [Dhamma Talks by Sayadaw U Candima (or Sandima)]
-
-- 《 意想不到的自由_ 》 -- 阿姜 穆寧多[穆寧多(牟尼度) 法師]演講輯，NEXPECTED FREEDOM (by AJAHN MUNINDO)
-- 《 美琪喬_ 》——一位阿羅漢尼修道證果之旅，阿瞻 戒寶 編輯，捷平 翻譯，Ajaan Dick Sīlaratano
-- 《 我的人生道路_ 》，——阿瞻 蘇查自傳，My Way- An Autobiography by Ajahn Suchart Abhijāto
-
-----
-
-- 《 蘇錦坤作品集_ 》，Ken Su
-- 《 魔羅的來信_ 》，阿姜 富樓那達摩 著 (Letters from Mara, by Ajahn Puṇṇadhammo)
-
-----
-
-- 尊者　菩提長老針對 2019新冠病毒疫情_ 的開示
-
-----
+    .. raw:: html
+    
+       <a class="reference internal" href="#detail-of-the-books"><strong>細目</strong></a>
+       <ul>
+         <li> <a class="reference internal" href="#what-the-buddha-taught"><strong>《佛陀的啟示》</strong></a> (What the Buddha Taught)</li>
+         <li> <a class="reference internal" href="#the_buddha_masutani_fumio"><strong>《佛陀》</strong></a>（増谷文雄 著）</li>
+         <li> <a class="reference internal" href="#basic_knowledge_of_buddhist_terms_mizuno_kogen"><strong>《佛教要語的基礎知識》</strong></a>（水野弘元 著）</li>
+         <li> <a class="reference internal" href="#a_history_of_indian_buddhism_hirakawa_akira"><strong>《印度佛教史》</strong></a>（平川彰 著，莊崑木 譯）</li>
+         <li> <a class="reference internal" href="#hinduism_and_buddhism_an_historical_sketch"><strong>《巴利系佛教史綱》</strong></a>（埃利奧特 著，李榮熙 譯）</li>
+         <li> <a class="reference internal" href="#buddhism_in_translations"><strong>《原始佛典選譯》</strong></a>（亨利‧克拉克‧華倫 著，顧法嚴 譯）</li>
+       </ul>
+       <hr class="docutils" />
+       <ul class="simple">
+         <li> <a class="reference internal" href="#handbook_meditation_dhammarain"><strong>《禪修手冊》</strong></a>，法雨道場 (2009 )</li>
+         <li> <a class="reference internal" href="#living_buddhist_masters"><strong>《當代南傳佛教大師》</strong></a> (LIVING BUDDHIST MASTERS)，傑克‧康菲爾德 (Jack　Kornfield, 1977)，新雨編譯群</li>
+         <li> <a class="reference internal" href="#ajahn-liem-no-worries"><strong>《煩惱熄滅》</strong></a> --　隆波連佛法開示錄與傳略，Luang Por Liem, No_Worries</li>
+         <li> <a class="reference internal" href="#what-is-the-right-attitude-for-meditation"> <strong>《禪修心法》</strong></a> --正確的修行態度，緬甸, 西亞多 史歐明禪師 著，Sayadaw Shwe O. Min, What is the Right Attitude for Meditation</li>
+         <li> <a class="reference internal" href="#handbook_meditation_dhammarain"><strong>《什麼是禪那和三摩地，你真的知道嗎？》</strong></a>，古瑪拉比丘著，"What You Might Not Know about Jhāna & Samādhi, Kumāra Bhikkhu</li>
+         <li> <a class="reference internal" href="#awaken-to-truth-in-harmony-a-trilogy"><strong>《在和諧中了悟真理：三部曲》</strong></a>；奧智達比丘著，溫宗堃中譯，(Awaken to Truth in Harmony: A Trilogy, Aggacitta Bhikkhu)</li>
+       </ul>
+       <hr class="docutils" />
+       <ul class="simple">
+         <li> <a class="reference internal" href="#the_life_of_sariputta"><strong>《尊者舍利弗的一生》</strong></a>，向智尊者 著 Ven. Nyanaponika Thera</li>
+         <li> <a class="reference internal" href="#samana_maha_boowa"><strong>《沙門》</strong></a>；作者：摩訶布瓦尊者（Venerable Ācariya Mahā Boowa Ñāṇasampanno）</li>
+         <li> <a class="reference internal" href="#mangala_sutta"><strong>《吉祥經》</strong></a> 尊者　 鄔達摩長老 編著，Maṅgala Sutta – Protection with Blessing</li>
+         <li> <a class="reference internal" href="#dhamma-talks-by-mogok-sayadaw"><strong>《尊者　莫哥西亞多 開示錄》</strong></a>；由　尊者　鄔達摩　長老自緬甸語錄音帶譯為英文，Dhmma Talks by Mogok Sayadaw: Translation based on the recorded tapes by Ven. Uttamo thera</li>
+         <li> <a class="reference internal" href="#eighteen-days-in-solitude"><strong>《18天禪修營》</strong></a>，尊者　阿締佳嵐溪長老 開示錄》；由　尊者　鄔達摩長老自緬甸語錄音帶譯為 英文，Eighteen Days In Solitude --Instructional Dhamma Talks in Retreat, By Venerable U Ādiccaramsī</li>
+         <li> <a class="reference internal" href="#two-sides-of-a-coin"><strong>《銅板的兩面》</strong></a>，尊者 帖因古西亞多 開示錄；《神聖的追尋》， 強諦瑪西亞多 開示錄；由　尊者　 鄔達摩長老自緬甸語錄音帶譯為英文，Two Sides of A Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha) and A Noble Search [Dhamma Talks by Sayadaw U Candima (or Sandima)]</li>
+         <li> <a class="reference internal" href="#unexpected_freedom"><strong>《意想不到的自由》</strong></a> -- 阿姜 穆寧多[穆寧多(牟尼度) 法師]演講輯，NEXPECTED FREEDOM (by AJAHN MUNINDO)</li>
+         <li> <a class="reference internal" href="#mae_chee_kaew"><strong>《美琪喬》</strong></a>—— 一位阿羅漢尼修道證果之旅，阿瞻 戒寶 編輯，捷平 翻譯，Ajaan Dick Sīlaratano</li>
+         <li> <a class="reference internal" href="#ajahn_suchart"><strong>《我的人生道路》</strong></a>，——阿瞻 蘇查自傳，My Way- An Autobiography by Ajahn Suchart Abhijāto</li>
+         </ul>
+       <hr class="docutils" />
+       <ul class="simple">
+         <li> <a class="reference internal" href="#ken_su"><strong>《蘇錦坤作品集》</strong></a>，Ken Su</li>
+         <li> <a class="reference internal" href="#letters_from_mara"><strong>《魔羅的來信》</strong></a> ，阿瞻 富樓那達摩 著 (Letters from Mara, by Ajahn Puṇṇadhammo)</li>
+         </ul>
+       <hr class="docutils" />
+       <ul class="simple">
+         <li> <a class="reference internal" href="#ven_bhikkhu_bodhi_discourse_on_covid_19"><strong>尊者　菩提長老針對 2019新冠病毒疫情</strong></a> 的開示</li>
+       </ul>
+       <hr class="docutils" />
 
 - 《 火山的熄滅_ 》及《禪修心法--正確的修行態度》，漢譯合刊，蘇吉瓦（蘇濟瓦）禪師 著，For the Stilling of Volcanoes, by Ven. Sujiva
 - 《 `智慧之樹，不返之流`_ -- 觀禪的修行與進程》，作者：慈濟瓦禪師 (Venerable Sujiva)； 譯者：雷叔雲、湯華俊，The Tree of Wisdom，The River of No Return-- The practice and development on insight meditattion
 - 《 `慈心禪：帶來平靜、喜悅與定力`_ 》，作者：慈濟瓦禪師(Venerable Sujiva)； 譯者：雷叔雲 (Meditation on Loving Kindness and other Sublime States)
 
-----
+------
 
-- 《 印度佛學源流略講_ 》，呂澂 著
-- 《 佛教的原點_ 》
-- 《 印度聖境旅人書_ 》
-- 《 佛陀的古道_ 》 (The Buddha's Ancient Path)，毗那達西長老 (Venerable PIYADASSI THERA) 編著，方支/譯
-- 《 佛陀與佛法_ 》 (The Buddha and His Teachings)，那爛陀大長老 (Venerable Narada Mahathera) 編著，釋學愚法師 譯
+    .. raw:: html
+
+         <li> <a class="reference internal" href="#a_brief_introduction_to_the_origin_and_development_of_indian_buddhism"><strong>《印度佛學源流略講》</strong></a> ，呂澂 著</li>
+         <li> <a class="reference internal" href="#the_origin_of_buddhism"><strong>《佛教的原點》</a> ：釋尊的生涯與思想</strong> ， 作者：水野弘元著; 達和法師；陳淑慧譯</li>
+         <li> <a class="reference internal" href="#indian_sacred_land_travelers_book"><strong>《印度聖境旅人書》</strong></a>，林許文二; 陳師蘭；2000.08.23；頁次：450；商智</li>
+         <li> <a class="reference internal" href="#the_buddhas_ancient_path"><strong>《佛陀的古道》</strong></a>，Venerable PIYADASSI THERA(毗那達西長老) 編著；方支/譯</li>
+         <li> <a class="reference internal" href="#the_buddhas_and_his_teachings"><strong>《佛陀與佛法》</strong></a> (The Buddha and His Teachings)，那爛陀大長老 (Venerable Narada Mahathera) 編著，釋學愚法師 譯</li>
+       </ul>
 
 ------
 
@@ -201,9 +204,9 @@
 
 ------
 
-.. _煩惱熄滅: ajahn_liem-no-worries_
+.. _煩惱熄滅: ajahn-liem-no-worries_
 
-.. _ajahn_liem-no-worries:
+.. _ajahn-liem-no-worries:
 
 《煩惱熄滅》
 ~~~~~~~~~~~~~~~~
@@ -468,7 +471,7 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 　　本書是作者受原中國科學院哲學社會科學部的委託，在1961年開辦為期五年的佛學班上所授用的講義稿。印度的佛學思想開始流行，是在公元前5世紀，以後逐漸擴展發達起來，一直到公元10世紀大乘佛學在印度衰微，前後經歷了一千五百年。在這漫長的時期裡，印度佛學的學說本身也經歷了好幾次大的變化：由原始佛學到新派佛學，再後又發展成大乘和小乘，大乘本身也還分初、中、晚期之分，這是很明顯的幾個階段。本稿將印度佛學分為原始佛學、新派佛學，初期大乘佛學、小乘佛學、中期大乘佛學和晚期大乘佛學六個階段，根據漢文、藏文的大量文獻，對勘巴利文三藏以及現存的有關梵文原典，按照各階段出現的典程生後順序，說明它們各時期對佛學說的輪廓變化，對印度發展了一千歷史的特徵。據整理者稱，這是我國第一部原原本本講述印度佛學史的書藉。
 
-- `詳細書目 <{filename}title-catalogue%zh.rst#a-brief-introduction-to-the-origin-and-development-of-indian_buddhism>`__ 
+- `詳細書目 <{filename}title-catalogue%zh.rst#a-brief-introduction-to-the-origin-and-development-of-indian-buddhism>`__ 
 
 ------
 
@@ -553,6 +556,7 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 
 ..
+  07-22 rev. linkings in bold with 「raw:: html」
   07-21 the 3rd, the 2nd, optimising linkings
   07-19; del: 《智慧之樹，不返之流-- 觀禪的修行與進程》 漢譯紙本，免費結緣；意洽 `此電子信箱 @mail.ncku.edu.tw （限台灣國內；版權所有，請勿有商業行為）。
   07-19; 07-11 add 推薦閱讀書目（佛教）(Title Catalogue)
@@ -619,3 +623,5 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
   10.05 Add:  火山的熄滅 & 禪修心法
   09.09 Add:  Unexpected_Freeodm
   05.01 2005  
+
+
