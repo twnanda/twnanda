@@ -206,13 +206,13 @@
        - 220.132 3136, 新訂四版、220.12 2482, 十四版
        - 21208000232060 1975, 文化局開架圖書室
 
-     * - `文化處馬祖圖書館 <https://matsucc.gov.tw/%E6%96%87%E5%8C%96%E8%99%95%E9%A6%AC%E7%A5%96%E5%9C%96%E6%9B%B8%E9%A4%A8/>`__（ `連江縣圖書館館藏查詢 <https://matsucc.e2center.com.tw/webpac/search.cfm>`__）
+     * - `文化處馬祖圖書館 <https://matsucc.gov.tw/%E6%96%87%E5%8C%96%E8%99%95%E9%A6%AC%E7%A5%96%E5%9C%96%E6%9B%B8%E9%A4%A8/>`__ （ `連江縣圖書館館藏查詢 <https://matsucc.e2center.com.tw/webpac/search.cfm>`__ ）
        - 淨心印經會, 民78, ?
        - ?
 
 - 購書：
 
-  * `慧炬出版社 <https://www.towisdom.org.tw/>`__ → `慧炬出版品 <https://www.towisdom.org.tw/List.aspx?mid=33>`__ 慧炬出版社叢書書目 <https://www.towisdom.org.tw/OnePage.aspx?mid=33&id=27>`__ → `佛陀的啟示 <http://www.towisdom.org.tw//UpLoad/%E6%85%A7%E7%82%AC%E5%87%BA%E7%89%88%E7%A4%BE_%E6%9B%B8%E7%B1%8D%E8%A8%82%E8%B2%A8%E5%96%AE_202311231%E4%BF%AE_20231123172930.jpg>`__
+  * `慧炬出版社 <https://www.towisdom.org.tw/>`__ → `慧炬出版品 <https://www.towisdom.org.tw/List.aspx?mid=33>`__ `慧炬出版社叢書書目 <https://www.towisdom.org.tw/OnePage.aspx?mid=33&id=27>`__ → `佛陀的啟示 <http://www.towisdom.org.tw//UpLoad/%E6%85%A7%E7%82%AC%E5%87%BA%E7%89%88%E7%A4%BE_%E6%9B%B8%E7%B1%8D%E8%A8%82%E8%B2%A8%E5%96%AE_202311231%E4%BF%AE_20231123172930.jpg>`__
   * `博客來 <https://www.books.com.tw/>`__ -- `佛陀的啟示 <https://www.books.com.tw/products/0010026516?sloc=main>`__ 、 
   * `誠品 <https://www.eslite.com/>`__ -- `佛陀的啟示 <https://www.eslite.com/product/1001116701423808>`__ 、
   * `新絲路網路書店 <https://www.silkbook.com/>`__  -- `佛陀的啟示 <https://www.silkbook.com/book_detail.asp?goods_ser=kk0479989&flag=,1>`__
@@ -280,7 +280,7 @@
 
   內容：#出版前言#作者序#第一章　佛敎#　一、　佛敎的定義#　二、　佛敎的分類#第二章　三寶#　一、　三寶總說#　二、　三寶各說#第三章　三科（五蘊、十二處、十八界）#　一、　三科總說#　二、　三科各說#第四章　三法印、四法印#　一、　法印總說#　二、　法印各說#第五章　緣起說#　一、　緣起總說#　二、　十二緣起說#第六章　四諦說#　一、　四諦總說#　二、　四諦各說#第七章　修道論#　一、　修道論概說#　二、　修道論各說#　三、　三學#　四、　修道階位#第八章　煩惱論#　一、　煩惱的語義、異名、種類#　二、　煩惱各論#　三、　煩惱與智慧、解脫、菩提、涅槃的關係#附篇：#　（一）佛學研究座談會記錄：水野弘元主答．慈惠譯#　（二）什麼是佛教／P. Lakshmi Narasu著．了參譯#　（三）佛教／慧海、依聞共譯自大英百科全書
 
-https://metadata.ncl.edu.tw/blstkmc/blstkm?009404A5DEC5010200000000000100A000000001000000000^#tudorkmtop
+`臺灣書目整合查詢系統 <https://metadata.ncl.edu.tw/blstkmc/blstkm#tudorkmtop>`__
 
 ------
 
@@ -403,7 +403,7 @@ https://metadata.ncl.edu.tw/blstkmc/blstkm?009404A5DEC5010200000000000100A000000
 | 索引
 | 
 
-- `平川彰-印度佛教史-上（HTML, 豆沙綠底色） https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A-green.html>`__ 、 `PDF, 豆沙綠底色 https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A-green.pdf>`__ 、 `直接閱讀 <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A.html>`__ （HTML, 一般）、 `PDF, 一般 https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A.pdf>`__ 、 `PDF <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A-%E7%9B%B4%E5%BC%8F.pdf>`__ （原書直式編排，仍為舊式 foreign1, KH2s_kj 等等字型羅馬轉寫巴利語）、 `ms .doc <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A.doc>`__ （一般）、 `ms .doc <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A-green.doc>`__ （豆沙綠底色）、 `ODT <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A.odt>`__ （一般）、 `ODT <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A-green.odt>`__ （豆沙綠底色）
+- `平川彰-印度佛教史-上（HTML, 豆沙綠底色） <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A-green.html>`__ 、 `PDF, 豆沙綠底色 <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A-green.pdf>`__ 、 `直接閱讀 <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A.html>`__ （HTML, 一般）、 `PDF, 一般 <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A.pdf>`__ 、 `PDF <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A-%E7%9B%B4%E5%BC%8F.pdf>`__ （原書直式編排，仍為舊式 foreign1, KH2s_kj 等等字型羅馬轉寫巴利語）、 `ms .doc <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A.doc>`__ （一般）、 `ms .doc <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A-green.doc>`__ （豆沙綠底色）、 `ODT <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A.odt>`__ （一般）、 `ODT <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A-green.odt>`__ （豆沙綠底色）
 
 ------
 
@@ -518,7 +518,7 @@ https://metadata.ncl.edu.tw/blstkmc/blstkm?009404A5DEC5010200000000000100A000000
 
 - 桃、竹、苗
 
-    * 中華信義神學院 `墨蘭頓圖書資訊中心 <http://webpac.lib.cls.org.tw/webpacIndex.jsp>`__ , 	 294.30954 1202  
+  * 中華信義神學院 `墨蘭頓圖書資訊中心 <http://webpac.lib.cls.org.tw/webpacIndex.jsp>`__ , 	 294.30954 1202  
 
 - 北、北、基
 
@@ -572,12 +572,12 @@ https://metadata.ncl.edu.tw/blstkmc/blstkm?009404A5DEC5010200000000000100A000000
 
 - 宜、花、東
 
-  * 佛光大學圖書館 <https://libweb.fgu.edu.tw/>`__ , 巴利系佛教史綱, 查爾斯．埃利奧特(Charles Eliot)著 ; 李榮熙譯, 華宇, 臺北縣中和市, S 220.8 4627 v.34, 珍藏叢書區(2F),  BOOK 220.8 4627 v.34 (NBINet)
+  * `佛光大學圖書館 <https://libweb.fgu.edu.tw/>`__ , 巴利系佛教史綱, 查爾斯．埃利奧特(Charles Eliot)著 ; 李榮熙譯, 華宇, 臺北縣中和市, S 220.8 4627 v.34, 珍藏叢書區(2F),  BOOK 220.8 4627 v.34 (NBINet)
   * `慈濟大學 <https://www.webpac.tcu.edu.tw/webpac/search.cfm>`__ , 巴利系佛教史綱, 艾略特(Eliot, Charles Norton Edgecumbe, Sir, 1862-1931)著, 釋迦牟尼, 李榮熙譯, 華宇, 民74-79, 慈大校本部一二樓及地下室書庫, 220.8 8567 1985-1990 v.34
 
 - 高、屏
 
-  * `高雄市立圖書館 <https://www.ksml.edu.tw/>`__ , 巴利系佛教史綱, (英)埃利奧特(Charles Eliot)撰, 李榮熙譯, 華宇, 民76, 中和市, 規格：18,344面;22公分, 叢書名：世界佛學名著譯叢:34, 前鎮分館, B 220.09 4222; 館藏查詢 <https://webpacx.ksml.edu.tw/>`__
+  * `高雄市立圖書館 <https://www.ksml.edu.tw/>`__ , 巴利系佛教史綱, (英)埃利奧特(Charles Eliot)撰, 李榮熙譯, 華宇, 民76, 中和市, 規格：18,344面;22公分, 叢書名：世界佛學名著譯叢:34, 前鎮分館, B 220.09 4222; `館藏查詢 <https://webpacx.ksml.edu.tw/>`__
   * `國立中山大學圖書館 <https://lis.nsysu.edu.tw/>`__ , 巴利系佛教史綱, 查爾斯⋅埃利奧特著 ; 李榮熙譯, 民76[1987], 總圖5F中文圖書區; 220.8 8567 v.34 (NBINet)
   * `國立屏東大學圖書館 <https://library.nptu.edu.tw/>`__ , 巴利系佛敎史綱 / 查爾斯・埃利奧特著 ; 李榮熙譯, 民生中文圖書區, 220.91 4462 (NBINet)
 
@@ -708,7 +708,7 @@ https://metadata.ncl.edu.tw/blstkmc/blstkm?009404A5DEC5010200000000000100A000000
     * `香光尼眾佛學院圖書館 <https://www.gaya.org.tw/library/>`__ , 原始佛典選譯, 亨利．克拉克．華倫著;顧法嚴譯, 初版, 台北市, 普門文庫印贈, 民68, 259面, 普門叢書 90, 316/4428、 316/4428/C.1
     * `南華大學圖書館 <https://lib.nhu.edu.tw/mp.asp?mp=1>`__ , 原始佛典選譯, 華倫;顧法嚴, 臺北市, 慧炬, 民75, 南華大學圖書館/4F東方語文圖書區(分類號100-299.99), BOOK 223.16 4428、BOOK 223.16 4428 c.2、  民81, 4F東方語文圖書區(分類號100-299.99), BOOK 223.16 4428 81
     * `國立中正大學圖書館 <https://lib.ccu.edu.tw/>`__ , 原始佛典選譯, 華倫 (Warren, Henry Clarke, 1854-1899); 顧法嚴; 民75, 1986, 五樓中文書庫 ; 221.8 867
-    * 臺南市立圖書館  <https://www.tnpl.tn.edu.tw/w5368759830002704284/index>`__ , 原始佛典選譯, 1992, 223.16 4428 1999, (安平開架閱覽區), 223.16 4428 1999
+    * `臺南市立圖書館  <https://www.tnpl.tn.edu.tw/w5368759830002704284/index>`__ , 原始佛典選譯, 1992, 223.16 4428 1999, (安平開架閱覽區), 223.16 4428 1999
     * （臺南市） `妙心寺 <http://www.mst.org.tw:8080/webpac700/index.aspx>`__ （中華佛教百科文獻基金會館藏查詢）, 	原始佛典選譯	亨利．克拉克．華倫 著；釋法嚴 譯, 慧炬, 1986, 316 / 0024 / 1986 、 德和印刷, 316 / 4428 / 1997 、 普門文庫, 1979, 316 / 0024 / 1979 /
 
 * **彰、中、投**
@@ -961,8 +961,8 @@ https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%8
 
 - 宜、花、東
 
-  * 慈濟大學 <https://www.webpac.tcu.edu.tw/webpac/search.cfm>`__ , 印度佛學源流略論, 呂澂, 大千出版, 民97.04, 220.91, 856 2008
-  * 佛光大學圖書館 <https://libweb.fgu.edu.tw/>`__ , 印度佛學源流略講, 呂澂, 大千, 臺北縣汐止市, 2003[民92], 220.91 6038, 東方語文圖書區(3F) 、 印度佛學源流略講, 呂澂; 藍吉富主編, 彌勒, 臺北縣新店市, 民72, 220.828 4443 v.23, 東方語文圖書區(3F) (NBINet)
+  * `慈濟大學 <https://www.webpac.tcu.edu.tw/webpac/search.cfm>`__ , 印度佛學源流略論, 呂澂, 大千出版, 民97.04, 220.91, 856 2008
+  * `佛光大學圖書館 <https://libweb.fgu.edu.tw/>`__ , 印度佛學源流略講, 呂澂, 大千, 臺北縣汐止市, 2003[民92], 220.91 6038, 東方語文圖書區(3F) 、 印度佛學源流略講, 呂澂; 藍吉富主編, 彌勒, 臺北縣新店市, 民72, 220.828 4443 v.23, 東方語文圖書區(3F) (NBINet)
   * `臺東縣政府文化處圖書館 <https://libwww.ccl.ttct.edu.tw/mp.asp?mp=10>`__ , `印度佛學源流略講 <https://library.ccl.ttct.edu.tw/bookDetail.do?id=37120#>`__ , 印度佛教史略,阿齊王及其石訓, 彌勒, 臺北縣新店市, 民71 [1982], 初版, 集叢名：現代佛學大系:23 ( `館藏書目查詢 <https://library.ccl.ttct.edu.tw/webpacIndex.jsp>`__ )
 
 - 高、屏
@@ -1005,7 +1005,7 @@ https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%8
 
   * `法鼓文化心靈網路書店 <https://www.ddc.com.tw/>`__ -- `印度佛學源流略論(修訂版) <https://www.ddc.com.tw/product/book/prod.php?id=7787&type=b>`__ 、
   * `紀伊國屋書店（台灣）網路店 <https://taiwan.kinokuniya.com/>`__ -- `印度佛學源流略論(修訂版) <https://taiwan.kinokuniya.com/bw/9789574473328>`__ 、
-  * `博客來 <https://www.books.com.tw/>`__ -- `印度佛學源流略論(修訂版) (2019/12/12) <https://www.books.com.tw/products/0010843847?srsltid=AfmBOoqgxZKAoFgEo4HNYVFexVYF97SDroPDt4nUAF9oa6Z0V-nS40SM>`__ 、 印度佛學源流略論（新版, 2008/04/01） <https://www.books.com.tw/products/0010398745?sloc=main>`__ 、 
+  * `博客來 <https://www.books.com.tw/>`__ -- `印度佛學源流略論(修訂版) (2019/12/12) <https://www.books.com.tw/products/0010843847?srsltid=AfmBOoqgxZKAoFgEo4HNYVFexVYF97SDroPDt4nUAF9oa6Z0V-nS40SM>`__ 、 `印度佛學源流略論（新版, 2008/04/01） <https://www.books.com.tw/products/0010398745?sloc=main>`__ 、 
   * `誠品 <https://www.eslite.com/>`__ -- `印度佛學源流略論(修訂版) <https://www.eslite.com/product/1001120002818546?srsltid=AfmBOopU5nlQZNutt1WPkz0lXiVe7qiXabH07U3_G4PJK5NrN0NnYA38>`__ 、
   * `金石堂 <https://www.kingstone.com.tw/>`__ -- `印度佛學源流略論（修訂版） <https://www.kingstone.com.tw/basic/2012200232936/?lid=search&actid=WISE&kw=%E5%8D%B0%E5%BA%A6%E4%BD%9B%E5%AD%B8>`__ 、
   * `三民網路書店 <https://www.sanmin.com.tw/>`__ -- `印度佛學源流略論 (2019/12/12) <https://www.sanmin.com.tw/product/index/007550546>`__ 、
@@ -1113,38 +1113,39 @@ https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%8
 
     * `國立東華大學圖書資訊處 <https://lib.ndhu.edu.tw/>`_ , 三樓中文書區600-999, 737.19 4400 2000、 三樓中文書區600-999, 737.19 4001-2 2008
 
+    * `臺東縣政府文化處圖書館 <https://libwww.ccl.ttct.edu.tw/mp.asp?mp=10>`_ , 金峰鄉立圖書館/開架, 737.19 8778、 臺東縣政府文化處圖書館/開架, 737.19 8778
     * `國立臺東大學圖書館 <https://lic.nttu.edu.tw/mp.asp?mp=1>`_ , 737.19 4001 c.3 | 知本總館/1F密集書庫、 737.19 4001-3 | 知本總館/3F中文書庫
 
     * `佛光大學圖書館 <https://libweb.fgu.edu.tw/>`_ , 737.19 7524, 佛光大學圖書館/東方語文圖書區-7大類(4F) 、 737.19 4001-2, 佛光大學圖書館/東方語文圖書區-7大類(4F)
 
-    * `慈濟大學 <https://www.webpac.tcu.edu.tw/webpac/search.cfm>`_ 
+    * `慈濟大學 <https://www.webpac.tcu.edu.tw/webpac/search.cfm>`__ , 737.19 8746 2000; 建國分館3~5樓中文書庫 737.19 8746 89 c.2; 建國分館3~5樓中文書庫 737.19 8746 89; 中學2~3樓中英文書庫區 737.19 8746 2000
 
 
 - 高、屏
 
     * `高雄市立圖書館 <https://www.ksml.edu.tw/>`_ , 右昌分館/右昌 圖書 B 992 4001 書在館 KML0911851、 寶珠分館/寶珠 圖書 B 992 4001, KML0911855、彌陀公園/彌陀公園 圖書 B 737.19 4001, 21202000167087、 大社分館/大社分館 圖書 B 737.19 4001 89, 21465000320267、 岡山文化/第一開架室 圖書 B 737.19 4001, 21202000340163、 茂林圖書館/茂林圖書館 圖書 B 737.19 4001 89 書在館，但館藏不提供網路借書服務。 21477000174511、 甲仙分館/甲仙分館 圖書 B 737.19 4001, 21474000328858、 總館/6F 開放書架區 圖書 B 737.19 4001, KML3572800、 前鎮分館/前鎮 圖書 B 992 4001 找尋中、 楠仔坑分館/楠仔坑 圖書 B 737.19 7524, KML4053532、 中崙分館/中崙分館 圖書 B 737.19 8746, 21467000547154、 大寮分館/大寮分館 圖書 B 737.19 4001 2008, 21469000550097、 岡山文化/第一開架室 圖書 B 737.19 4001-3, 21202001788626、 小港分館/小港分館主題書展 圖書 B 737.19 7524, KML1760606、 三民分館/三民 圖書 B 737.19 7524, KML2327739、 總館/6F 開放書架區 圖書 B 737.19 7524, KML2925472、 林園分館/林園分館 圖書 B 737.19 7524, KML5423631、 小港分館/小港 圖書 B 737.19 7524 待移送他館
 
-    * `國立中山大學圖書館 <https://lis.nsysu.edu.tw/>`_ 
-    * `國立高雄大學圖資館 <https://lic.nuk.edu.tw/index.php?Lang=zh-tw>`__ , `館藏查詢 <https://libopac.nuk.edu.tw/toread/opac>`__ 
-    * `高雄師範大學圖書資訊處 <https://lis.nknu.edu.tw/>`__
+    * `國立高雄大學圖資館 <https://lic.nuk.edu.tw/index.php?Lang=zh-tw>`__ , `館藏查詢 <https://libopac.nuk.edu.tw/toread/opac>`__ , 東方語文圖書區(四樓), 737.19 4001-2 2000、 東方語文圖書區(四樓), 737.19 4001-1 2008
+    * `高雄師範大學圖書資訊處 <https://lis.nknu.edu.tw/>`__ , 和平5F 中文書庫, 737.19 4001
     * `國立高雄科技大學圖書館 <https://nkust.primo.exlibrisgroup.com/discovery/login?vid=886NKUST_INST:86NKUST&lang=zh-tw>`_ , 4F東方語文書庫 ; 737.19 4001
     * `國立高雄餐旅大學圖書資訊館 <https://lic.nkuht.edu.tw/>`_ , 4F吃喝玩樂書區 ; 719.371 8746、 印度聖境旅人書 [ `電子資源 <https://nkuht.flysheet.com.tw/login/?url=http://www.airitibooks.com/detail.aspx?PublicationID=P20130521210>`__ ] :
 
-    * `屏東縣公共圖書館 <https://library.pthg.gov.tw/>`_
-    * `國立屏東大學圖書館 <https://library.nptu.edu.tw/>`_ 
+    * `屏東縣公共圖書館 <https://library.pthg.gov.tw/>`_ , 來義鄉立圖書館/來義圖書室, 737.19 8746
+    * `國立屏東大學圖書館 <https://library.nptu.edu.tw/>`_ , 民生中文圖書區, 737.19 4400
     * `國立屏東科技大學圖書館 <https://lib2.npust.edu.tw/>`_ ,  2F中文書庫; (737.19 4001)
 
 
 
 - 雲、嘉、南
 
-  * 雲林縣政府文化觀光處圖書館 <https://webpacx.ylccb.gov.tw/>`_ , 二崙鄉立圖書館/二崙鄉圖書室, 737.19 4001 2000 可借閱 01649000202641、 口湖鄉立圖書館/口湖鄉圖書室, 737.19 400、 文化觀光處/文化觀光處2樓開架閱覽室, 737.19 4001 2008 00640001467847、崙背鄉立圖書館/崙背鄉圖書室, 737.19 4001 2008、 麥寮鄉立圖書館/麥寮鄉圖書室, 737.19 8967 v.13 可借閱 01638000148813、 褒忠鄉立圖書館/褒忠鄉圖書室, 737.19 8967, 01634000242359 、 台西鄉立圖書館/台西鄉圖書室, 737.19 8967 可借閱 01636000155788 、 莿桐鄉立圖書館/莿桐鄉圖書室, 737.19 4001 v.13 已被外借/2016-02-25 01647000317351、 文化觀光處/文化觀光處2樓開架閱覽室, 737.19 4001 可借閱 00640000899057、 斗南鎮立圖書館/斗南鎮圖書室, 737.19 4001 可借閱 01630000251689 、 大埤鄉立圖書館/大埤鄉圖書室, 737.19、 古坑鄉立圖書館/古坑鄉罕用書庫, 737.19 4400
+  * `雲林縣政府文化觀光處圖書館 <https://webpacx.ylccb.gov.tw/>`_ , 二崙鄉立圖書館/二崙鄉圖書室, 737.19 4001 2000 可借閱 01649000202641、 口湖鄉立圖書館/口湖鄉圖書室, 737.19 400、 文化觀光處/文化觀光處2樓開架閱覽室, 737.19 4001 2008 00640001467847、崙背鄉立圖書館/崙背鄉圖書室, 737.19 4001 2008、 麥寮鄉立圖書館/麥寮鄉圖書室, 737.19 8967 v.13 可借閱 01638000148813、 褒忠鄉立圖書館/褒忠鄉圖書室, 737.19 8967, 01634000242359 、 台西鄉立圖書館/台西鄉圖書室, 737.19 8967 可借閱 01636000155788 、 莿桐鄉立圖書館/莿桐鄉圖書室, 737.19 4001 v.13 已被外借/2016-02-25 01647000317351、 文化觀光處/文化觀光處2樓開架閱覽室, 737.19 4001 可借閱 00640000899057、 斗南鎮立圖書館/斗南鎮圖書室, 737.19 4001 可借閱 01630000251689 、 大埤鄉立圖書館/大埤鄉圖書室, 737.19、 古坑鄉立圖書館/古坑鄉罕用書庫, 737.19 4400
 
-    * `香光尼眾佛學院圖書館 <https://www.gaya.org.tw/library/>`_ , 299.1/4001、 299.1/4001-1
-    * `南華大學圖書館 <https://lib.nhu.edu.tw/mp.asp?mp=1>`_ , 3F東方語文圖書區(分類號300-999.99)	BOOK 737.19 4001
-    * `國立中正大學圖書館 <https://lib.ccu.edu.tw/>`_ , 六樓中文書庫 ; 737.19 8778、 六樓中文書庫 ; 737.19 8746
+  * `嘉義市公共圖書館 <https://library.chiayi.gov.tw/wSite/mp>`_ , 文化局圖書館/文化局書庫, 737.19 8746、 文化局圖書館/文化局書庫, 737.19 8746
+  * `香光尼眾佛學院圖書館 <https://www.gaya.org.tw/library/>`_ , 299.1/4001、 299.1/4001-1
+  * `南華大學圖書館 <https://lib.nhu.edu.tw/mp.asp?mp=1>`_ , 3F東方語文圖書區(分類號300-999.99)	BOOK 737.19 4001
+  * `國立中正大學圖書館 <https://lib.ccu.edu.tw/>`_ , 六樓中文書庫 ; 737.19 8778、 六樓中文書庫 ; 737.19 8746
 
-  * 臺南市立圖書館  <https://www.tnpl.tn.edu.tw/w5368759830002704284/index>`_ , 喜樹開架閱覽區), 737.19 4001 2000、 土城(新總館)罕用書庫（需線上調閱）, 737.19 8746、 PH0031578 白河開架閱覽區 白河開架閱覽區 737.19 8746、 DS0037262 東山開架閱覽區 東山開架閱覽區 737.19 8746、 KZ0056964 歸仁罕用書庫（需線上調閱） 歸仁罕用書庫（需線上調閱） 737.19 8746、 NH0039980 南化罕用書庫（需線上調閱）(閉館整修) 南化罕用書庫（需線上調閱）(閉館整修) 737.19 8746、 TN0115927 新營文化中心開架閱覽區 737.19 8746
+  * `臺南市立圖書館  <https://www.tnpl.tn.edu.tw/w5368759830002704284/index>`_ , 喜樹開架閱覽區), 737.19 4001 2000、 土城(新總館)罕用書庫（需線上調閱）, 737.19 8746、 PH0031578 白河開架閱覽區 白河開架閱覽區 737.19 8746、 DS0037262 東山開架閱覽區 東山開架閱覽區 737.19 8746、 KZ0056964 歸仁罕用書庫（需線上調閱） 歸仁罕用書庫（需線上調閱） 737.19 8746、 NH0039980 南化罕用書庫（需線上調閱）(閉館整修) 南化罕用書庫（需線上調閱）(閉館整修) 737.19 8746、 TN0115927 新營文化中心開架閱覽區 737.19 8746
     * `國立成功大學圖書館 <https://www.lib.ncku.edu.tw/>`_ , 中文圖書區(5F) ; 737.19 4001
 
 
@@ -1156,9 +1157,11 @@ https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%8
 
     * `國立中興大學圖書館 <https://www.lib.nchu.edu.tw/>`_ , 5樓中文書庫 ; 737.19 4001-5、 5樓中文書庫 ; 737.19 4001-2
     * `東海大學圖書館 <https://lis.thu.edu.tw/>`_ 圖書總館/四樓中文書庫, BOOK 737.19 4400-01 2000
+    * `靜宜大學蓋夏圖書館 <https://library.pu.edu.tw/>`_ , 4F東方語文書庫, 737.19 7524
+    * `中國醫藥大學圖書館 <https://lib.cmu.edu.tw/>`_ , 北港分部書庫, 737.19 7524 2008、 北港分部閉架書庫, 737.19 7524 2008、 北港分部閉架書庫, 737.19 4001-2 2013
     * `國立勤益科技大學圖書館 <https://aleph.ncut.edu.tw/F?RN=938848320>`_ , 	總圖( 1/ 0), W 737.19 4001、 總圖B1( 1/ 0), 737.19 4001-1
 
-    * `國立公共資訊圖書館 <https://www.nlpi.edu.tw/>`_ , 館藏查詢系統 <https://ipac.nlpi.edu.tw/>`__ , 中興分館(南投)/中興2樓書庫	中文圖書	737.19 4001、 總館閉架書庫, 737.19 4001 c.1/095B53、總館閉架書庫, 737.19 4001 /158B15
+    * `國立公共資訊圖書館 <https://www.nlpi.edu.tw/>`_ , `館藏查詢系統 <https://ipac.nlpi.edu.tw/>`__ , 中興分館(南投)/中興2樓書庫	中文圖書	737.19 4001、 總館閉架書庫, 737.19 4001 c.1/095B53、總館閉架書庫, 737.19 4001 /158B15
     * `國立彰化師範大學圖書館 <https://webpacx.ncue.edu.tw/>`_ , 寶山分館/書庫, 737.19 4001 c.2、 總館/四樓書庫, 737.19 4001、 電子書
 
     * `南投縣政府文化局圖書館 <https://webpac.nthcc.gov.tw/webpac/search.cfm>`_ , 文化局3樓一般圖書區, 737.19 4001、埔里館3樓一般圖書區	737.19 4400 c.0
@@ -1166,16 +1169,19 @@ https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%8
 
 - 桃、竹、苗
 
+    * `國立中央大學圖書館 <https://www.lib.ncu.edu.tw/>`_ , 總圖4F中文書庫 ; 737.19 7504 97、 總圖4F中文書庫 ; 737.19 4001-3 102
+    * `國立體育大學圖書館 <http://192.83.181.243/uhtbin/webcat>`_ , 737.19 4001, 4F中日文圖書區
     * `國立清華大學圖書館 <https://www.lib.nthu.edu.tw/>`__ , 2000[民89], 總圖 ; 737.19 8746 、 印度聖境旅人書 : 恆河十二大聖地旅行地圖, 2008[民97],  737.19 8746 2008
     * `國立陽明交通大學圖書館 <https://www.lib.nycu.edu.tw/>`_ , 台北陽明校區圖書館, 一般書庫區; 737.19 4001、新竹交大校區圖書館, (四樓)中文圖書區
 
     * `苗栗縣公共圖書館 <https://lib.miaoli.gov.tw/wSite/mp>`_ , 頭份市立圖書館/頭份書庫, 737.19 4001 仍在館內、 苗栗縣立圖書館/縣圖開架閱覽區, 737.19 8746 97、 苑裡鎮立圖書館/苑裡館書庫, 737.19 4001
 
-      * `育達科技大學家聲紀念圖書館 <https://lib.ydu.edu.tw/T1/index.cfm>`__ ,  737.19 8746 2013, 家聲紀念圖書館/總館
+    * `育達科技大學家聲紀念圖書館 <https://lib.ydu.edu.tw/T1/index.cfm>`__ ,  737.19 8746 2013, 家聲紀念圖書館/總館
 
 
 - 北、北、基
 
+    * `法鼓文理學院圖書資訊館 <https://lic.dila.edu.tw/>`_ , 總館, 四樓佛學書庫區, B 910 4001、 總館, 四樓佛學書庫區, B 910 4001 c.2、 麗英館, 中文圖書區, 737.19 4001 2000
     * `國家圖書館 <https://www.ncl.edu.tw/>`_ , 初版, 2008, 737.19 8778、 第一版, 2000, 737.19 8746
     * `國立臺灣圖書館 <https://www.ntl.edu.tw/wSite/mp?mp=1>`_ , 三樓中文圖書區, 737.19 4001 89、地下二樓密集書庫正複本區, 737.19 4001 89、地下二樓密集書庫正複本區, 737.19 4001 89
 
@@ -1185,67 +1191,14 @@ https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%8
 
     * `國立臺灣大學圖書館 <https://www.lib.ntu.edu.tw/>`_ , 總圖2F人社資料區 ; 737.19 4400
     * `國立臺灣師範大學圖書館 <https://www.lib.ntnu.edu.tw/>`_ , 林口分館	935.19 440、 總館7F書架, 935.19 440、 公館分館, 935.19 440、 總館7F書架, 935.19 225
+    * `國立政治大學圖書館 <https://www.lib.nccu.edu.tw/>`_ , 總圖三樓中文圖書區; 737.19 8746、 總圖三樓中文圖書區; 737.19 8746a
     * `淡江大學圖書館 <https://www.lib.tku.edu.tw/>`_ ,  總館7樓書庫 ; 737.19 /8746-2、 總館7樓書庫; 737.19 /8746, 共2件
     * `東吳大學圖書館 <https://www.lib.scu.edu.tw/>`_ , 雙溪中正書庫 ; 737.19 4001
+    * `輔仁大學圖書館 <https://home.lib.fju.edu.tw/TC/>`_ , 公博樓圖書館圖書區	 737.19 4001  2008、 公博樓圖書館圖書區	 737.19 4001
+    * `中國文化大學圖書館 <https://lib.pccu.edu.tw/>`_ ,  總館5F中文圖書區, 737.19 4001-1
     * `國立臺灣科技大學圖書館 <https://library.ntust.edu.tw/>`_ , 台科B1地下室, 737.19 746-2、 華夏5F中文書庫, 737.19 4001 2000、  台科3F中文書庫, 737.19 746
     * `國立臺北科技大學圖書館 <https://holding.lib.ntut.edu.tw/>`_ , 圖書館/三樓書庫, 中日文圖書, 737.19 8746
     * `國立臺北大學圖書館 <https://wpac.lib.ntpu.edu.tw/webpac/search.cfm>`_ , 3F中文圖書區, 737.19 4001、 電子書
-
-| 	國立屏東科技大學圖書館, 737.19 4001  ,
-| 	 `國家圖書館 <https://www.ncl.edu.tw/>`__ , 737.19 8746  ,
-| 	 國立臺東大學圖書館, BOOK 737.19 4001  ,
-| 	 國立東華大學圖書資訊處, BOOK 731.19 8746 89  ,
-| 	 國立中正大學圖書館 <https://lib.ccu.edu.tw/>`__ , BOOK 737.19 8746  ,
-| 	 `東吳大學圖書館 <https://www.lib.scu.edu.tw/>`__ , 737.19 4001  ,
-| 	 國立陽明交通大學圖書館, BOOK 733.19 4001  ,
-| 	 國立臺北科技大學圖書館, CB 737.19 8746  ,
-| 	 `國立臺灣圖書館 <https://www.ntl.edu.tw/wSite/mp?mp=1>`__ , 737.19 4001 89  ,
-| 	 國立高雄科技大學圖書館, 739.19 4001
-| 	`國立臺灣師範大學圖書館 <https://www.lib.ntnu.edu.tw/>`__ , 935.19 225  ,
-| 	 臺北市立圖書館, 737.19 4001  ,
-| 	 淡江大學圖書館, 737.19 8746  ,
-| 	 `國立成功大學圖書館 <https://www.lib.ncku.edu.tw/>`__ , BOOK 737.19 4001  ,
-| 	 國立勤益科技大學圖書館, 737.19 4001-1  ,
-| 	 `國立中興大學圖書館 <https://www.lib.nchu.edu.tw/>`__ , 737.19 4001-5
-| 	、 , Book 737.19 4001 2000
-| 	國立高雄師範大學圖書館, 737.19 4001
-| 	國立屏東大學圖書館 <https://library.nptu.edu.tw/>`__ , 737.19 4400
-| 	國立中央大學圖書館, 737.19 7504 97  ,
-| 	 `靜宜大學蓋夏圖書館 <https://library.pu.edu.tw/>`__ , BOOK 737.19 7524  ,
-| 	 中國文化大學圖書館, 737.19 4001-1  ,
-| 	 `國立中興大學圖書館 <https://www.lib.nchu.edu.tw/>`__ , BOOK 737.19 4001-2 97  ,
-| 	 `國立政治大學圖書館 <https://www.lib.nccu.edu.tw/>`__ , 935.19 225 2008  ,
-| 	 `國家圖書館 <https://www.ncl.edu.tw/>`__ , 737.19 8778  ,
-| 	 `中國醫藥大學圖書館 <https://lib.cmu.edu.tw/>`__ , BOOK 737.19 7524 2008  ,
-| 	 國立高雄科技大學圖書館, 737.19 4001 2008  ,
-| 	 `輔仁大學圖書館 <https://home.lib.fju.edu.tw/TC/>`__ , 737.19 4001  ,
-| 	 國立陽明交通大學圖書館, 737.19 7524 0
-| 	 臺北市立圖書館, BOOK 737.19 4001  ,
-| 	 國立東華大學圖書資訊處, 737.19 4001-2  ,
-| 	 佛光大學圖書館 <https://libweb.fgu.edu.tw/>`__ , BOOK 737.19 7524
-| 	`國立臺灣師範大學圖書館 <https://www.lib.ntnu.edu.tw/>`__ , 935.19 440
-| 	淡江大學圖書館, 737.19 8746-2
-| 	香光尼眾佛學院圖書館, 299.1 4001-1
-| 	國立臺東大學圖書館, BOOK 737.19 4001-3
-| 	國立體育大學圖書館, BOOK 737.19 4001
-| 	
-| 	`法鼓文理學院圖書資訊館 <https://lic.dila.edu.tw/>`__  B 910 4001
-| 	
-| 	基隆市公共圖書館
-| 	
-| 	慈濟大學 <https://www.webpac.tcu.edu.tw/webpac/search.cfm>`__ , 737.19 8746 2000; 建國分館3~5樓中文書庫 737.19 8746 89 c.2; 建國分館3~5樓中文書庫 737.19 8746 89; 中學2~3樓中英文書庫區 737.19 8746 2000
-| 	
-| 	`臺東縣政府文化處圖書館 <https://libwww.ccl.ttct.edu.tw/mp.asp?mp=10>`__ 737.19 8778
-| 	國立臺東大學圖書資訊館  737.19 4001 c.3
-| 	屏東縣公共圖書館 來義鄉立圖書館/來義圖書室 一般圖書 737.19 8746
-| 	國立屏東大學圖書館 <https://library.nptu.edu.tw/>`__ (民生中文圖書區), 737.19 4400 
-| 	嘉義市公共圖書館 文化局圖書館/文化局書庫 圖書 737.19 8746 
-| 
-| 	`臺中市立圖書館 <https://www.library.taichung.gov.tw/public/>`_
-| 	桃園市立圖書館 蘆竹分館/3樓書庫 一般圖書 737.19 4001
-| 	
-| 	新北市立圖書館
-| 
 
 ------
 
@@ -1291,9 +1244,9 @@ https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%8
   * `香光尼眾佛學院圖書館 <https://www.gaya.org.tw/library/>`_
   * （臺南市） `妙心寺 <http://www.mst.org.tw:8080/webpac700/index.aspx>`_ （中華佛教百科文獻基金會館藏查詢）
 
-  * 雲林縣政府文化觀光處圖書館 <https://webpacx.ylccb.gov.tw/>`_
-  * 嘉義市公共圖書館 <https://library.chiayi.gov.tw/wSite/mp>`_
-  * 臺南市立圖書館  <https://www.tnpl.tn.edu.tw/w5368759830002704284/index>`_
+  * `雲林縣政府文化觀光處圖書館 <https://webpacx.ylccb.gov.tw/>`_
+  * `嘉義市公共圖書館 <https://library.chiayi.gov.tw/wSite/mp>`_
+  * `臺南市立圖書館  <https://www.tnpl.tn.edu.tw/w5368759830002704284/index>`_
 
   * `國立成功大學圖書館 <https://www.lib.ncku.edu.tw/>`_ 
   * `國立臺南大學圖資處 <https://lis.nutn.edu.tw/>`_ , 
@@ -1312,7 +1265,7 @@ https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%8
 
   * `臺中市立圖書館 <https://www.library.taichung.gov.tw/public/>`_ 
 
-  * `國立公共資訊圖書館 <https://www.nlpi.edu.tw/>`_ , 館藏查詢系統 <https://ipac.nlpi.edu.tw/>`__
+  * `國立公共資訊圖書館 <https://www.nlpi.edu.tw/>`_ , `館藏查詢系統 <https://ipac.nlpi.edu.tw/>`__
 
   * `國立中興大學圖書館 <https://www.lib.nchu.edu.tw/>`_
   * `東海大學圖書館 <https://lis.thu.edu.tw/>`_ 
@@ -1341,7 +1294,7 @@ https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%8
   * 中華信義神學院 `墨蘭頓圖書資訊中心 <http://webpac.lib.cls.org.tw/webpacIndex.jsp>`_
 
   * `苗栗縣公共圖書館 <https://lib.miaoli.gov.tw/wSite/mp>`_
-  * 育達科技大學家聲紀念圖書館 <https://lib.ydu.edu.tw/T1/index.cfm>`_
+  * `育達科技大學家聲紀念圖書館 <https://lib.ydu.edu.tw/T1/index.cfm>`_
 
 - 北、北、基
 
@@ -1351,7 +1304,7 @@ https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%8
 
   * `國家圖書館 <https://www.ncl.edu.tw/>`_ 
   * `國立臺灣圖書館 <https://www.ntl.edu.tw/wSite/mp?mp=1>`_ 
-  * `國立故宮博物院圖書館 <https://tech2.npm.edu.tw/museum/>`
+  * `國立故宮博物院圖書館 <https://tech2.npm.edu.tw/museum/>`_
 
   * `基隆市公共圖書館 <https://webpac.klccab.gov.tw/webpac/search.cfm>`_
   * `臺北市立圖書館 <https://book.tpml.edu.tw/>`_
@@ -1382,121 +1335,9 @@ https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E8%BD%8
 
 
 ..
-  07-25 add: 平川彰-印度佛教史-上（HTML, 豆沙綠底色）, pdf, odt, doc等等 linkings
+  07-25 rev. 各圖書館資訊; add: 平川彰-印度佛教史-上（HTML, 豆沙綠底色）, pdf, odt, doc等等 linkings
   2025-07-21; 07-11 create rst; 陸揚：云中君？
-
-   國立東華大學圖書資訊處, BOOK 220.8 867  v.4  ,
-   國立臺東大學圖書館, BOOK 220.42 3136
-   `國家圖書館 <https://www.ncl.edu.tw/>`__ , 221.8 867 79  ,
-   `國立中山大學圖書館 <https://lis.nsysu.edu.tw/>`__ , 221.8 8528
-   `國家圖書館 <https://www.ncl.edu.tw/>`__ , 221.8 867  ,
-   國立東華大學圖書資訊處, BOOK 221 867  ,
-   香光尼眾佛學院圖書館, 316 4428
-  	國立臺東大學圖書館, BOOK 220 4245
-  	`國立臺灣大學圖書館 <https://www.lib.ntu.edu.tw/>`__ , 229.1 4428  ,
-   `國立清華大學圖書館 <https://www.lib.nthu.edu.tw/>`__ , BOOK 221 3136  ,
-   中原大學圖書館, 221.03 7136  ,
-   `中國醫藥大學圖書館 <https://lib.cmu.edu.tw/>`__ , 220.42 4054  ,
-   `東吳大學圖書館 <https://www.lib.scu.edu.tw/>`__ , 221.1 4428  ,
-   國立臺北護理健康大學圖書館, 221.09 2259
-   `國立臺灣師範大學圖書館 <https://www.lib.ntnu.edu.tw/>`__ , 220.4 483
-  	國立屏東大學圖書館 <https://library.nptu.edu.tw/>`__ , 221.093 3136
-  	`東海大學圖書館 <https://lis.thu.edu.tw/>`__ , BOOK 220.8 3136  ,
-   臺北市立圖書館, 221.09  ,
-   `國立清華大學圖書館 <https://www.lib.nthu.edu.tw/>`__ , 221.03 867  ,
-   `國立臺灣圖書館 <https://www.ntl.edu.tw/wSite/mp?mp=1>`__ , C 221.09 4428  ,
-   國立陽明交通大學圖書館, 221.09 3136 BOOK  ,
-   `國立中興大學圖書館 <https://www.lib.nchu.edu.tw/>`__ , BOOK 229.1 3136  ,
-   國立屏東科技大學圖書館, 221 5077  ,
-   國立東華大學圖書資訊處, BOOK 220.91 8475  ,
-   中央警察大學圖書館, 220.91 867
-  	`國立臺灣師範大學圖書館 <https://www.lib.ntnu.edu.tw/>`__ , 221 483
-  	國立屏東大學圖書館 <https://library.nptu.edu.tw/>`__ , 221.093 3136
-  	`南華大學圖書館 <https://lib.nhu.edu.tw/mp.asp?mp=1>`__ , BOOK 223.16 4428  ,
-   國立中正大學圖書館 <https://lib.ccu.edu.tw/>`__ , 221.8 867
-  	`南華大學圖書館 <https://lib.nhu.edu.tw/mp.asp?mp=1>`__ , BOOK 223.16 4428 81  ,
-   `國立中興大學圖書館 <https://www.lib.nchu.edu.tw/>`__ , BOOK 223.16 4428  ,
-   `國立臺灣大學圖書館 <https://www.lib.ntu.edu.tw/>`__ , 229.1 4428 1992
-  	國立東華大學圖書資訊處, 220.8 4428 1989
-  	`國立故宮博物院圖書館 <https://tech2.npm.edu.tw/museum/>`__ , 221.8 867 8328 1986
-  	`國立清華大學圖書館 <https://www.lib.nthu.edu.tw/>`__ , 221.8 867
-  	中華信義神學院墨蘭頓圖書資訊中心, 294.3 5002
-  	
-  	（台北） `法光佛教文化研究所 <http://fakuang.org.tw/FK4.htm>`__  B310/() （圖書館書目檢索）
-  	（臺南市） `妙心寺 <http://www.mst.org.tw:8080/webpac700/index.aspx>`__ （中華佛教百科文獻基金會館藏查詢） 316 / 4428 / 1997 /, 316 / 0024 / 1986 /, 316 / 0024 / 1979 /
-  	`法鼓文理學院圖書資訊館 <https://lic.dila.edu.tw/>`__  B 316 4428 1984
-  	
-  	宜蘭縣圖書館 220 4428 79
-  	慈濟大學 <https://www.webpac.tcu.edu.tw/webpac/search.cfm>`__ , 221.03 67 1984; 建國分館3~5樓中文書庫 221.09 867
-  	國立臺東大學圖書資訊館 220.42 3136
-  	國立屏東大學圖書館 <https://library.nptu.edu.tw/>`__  ?
-  	臺南市立圖書館 (安平開架閱覽區), 223.16 4428 1999
-  	嘉義市公共圖書館 ?
-  	苗栗縣公共圖書館
-  	新北市立圖書館 新莊中港開架閱覽 圖書可借30天 中文圖書 221.09 867
-  	========================================================
-  	========================================================
-
-  	  水野弘元著; 達和法師；陳淑慧譯; 圓明出版社
-  	
-  	著者 水野 弘元
-  	題名 佛教的原點 / 水野弘元原著; 釋達和, 陳淑慧譯
-  	版本項 初版
-  	出版項 1991
-  	臺中市 : 恆沙, 民80
-  	面數高廣 [10], 270, 圖版[2]面 : 彩圖 ; 21公分
-  	
-  	`東海大學圖書館 <https://lis.thu.edu.tw/>`__ , 高雄縣政府文化局圖書館, 國立中正大學圖書館 <https://lib.ccu.edu.tw/>`__ , `國立政治大學圖書館 <https://www.lib.nccu.edu.tw/>`__ , `國立清華大學圖書館 <https://www.lib.nthu.edu.tw/>`__ , `國立公共資訊圖書館 <https://www.nlpi.edu.tw/>`__ , 國立臺灣科技大學圖書館, `國家圖書館 <https://www.ncl.edu.tw/>`__ , 佛光大學圖書館 <https://libweb.fgu.edu.tw/>`__    印刷文字資料 
-  	      `國立臺灣師範大學圖書館 <https://www.lib.ntnu.edu.tw/>`__   印刷文字資料 1991
-  	      `東吳大學圖書館 <https://www.lib.scu.edu.tw/>`__   印刷文字資料 
-  	      `南華大學圖書館 <https://lib.nhu.edu.tw/mp.asp?mp=1>`__   印刷文字資料 
-  	      立法院國會圖書館
-  	
-  	 `國家圖書館 <https://www.ncl.edu.tw/>`__ , 220.91 8863 c.4,
-  	 `東海大學圖書館 <https://lis.thu.edu.tw/>`__ , BOOK 220.91 1261  ,
-  	 `國立政治大學圖書館 <https://www.lib.nccu.edu.tw/>`__ , 220.7 024  ,
-  	 `國立清華大學圖書館 <https://www.lib.nthu.edu.tw/>`__ , 220.8 8358 v.1  ,
-  	 國立臺灣科技大學圖書館, 220.12 863  ,
-  	 `國立公共資訊圖書館 <https://www.nlpi.edu.tw/>`__ , 229.1 1611  ,
-  	 高雄縣政府文化局圖書館, BOOK 220.7 1611  ,
-  	 國立中正大學圖書館 <https://lib.ccu.edu.tw/>`__ , 220.1 8863.2  ,
-  	 佛光大學圖書館 <https://libweb.fgu.edu.tw/>`__ , BOOK 220.1 1611-2
-  	`國立臺灣師範大學圖書館 <https://www.lib.ntnu.edu.tw/>`__ , 220.7 024
-  	`東吳大學圖書館 <https://www.lib.scu.edu.tw/>`__ , 229.1 1611
-  	`南華大學圖書館 <https://lib.nhu.edu.tw/mp.asp?mp=1>`__ , BOOK 220.1 9611 81
-  	立法院國會圖書館, 220.7 1611
-  	
-  	`國家圖書館 <https://www.ncl.edu.tw/>`__ , 220.91 8863 87  ,
-  	 國立中正大學圖書館 <https://lib.ccu.edu.tw/>`__ , BOOK 220.1 8863  ,
-  	 國立高雄餐旅大學圖書資訊館, 220.1 8863  ,
-  	 國立高雄科技大學圖書館, 220.1 1611  ,
-  	 佛光大學圖書館 <https://libweb.fgu.edu.tw/>`__ , BOOK 220.1 1611  ,
-  	 `國立暨南國際大學圖書館 <https://www.lib.ncnu.edu.tw/index.php/tw/>`__ , b 220.91 8763  ,
-  	 國立東華大學圖書資訊處, 220.1 1611  ,
-  	 `國立臺灣圖書館 <https://www.ntl.edu.tw/wSite/mp?mp=1>`__ , ,
-  	 `國立臺灣圖書館 <https://www.ntl.edu.tw/wSite/mp?mp=1>`__ , 220.1 1611 87  ,
-  	 中原大學圖書館, 220.91 1611
-  	
-  	中原大學圖書館, 佛光大學圖書館 <https://libweb.fgu.edu.tw/>`__ , `國立臺灣圖書館 <https://www.ntl.edu.tw/wSite/mp?mp=1>`__ , 國立中正大學圖書館 <https://lib.ccu.edu.tw/>`__ , 國立東華大學圖書資訊處, 國立高雄科技大學圖書館, 國立高雄餐旅大學圖書資訊館, `國立暨南國際大學圖書館 <https://www.lib.ncnu.edu.tw/index.php/tw/>`__ , `國家圖書館 <https://www.ncl.edu.tw/>`__ , 香光尼眾佛學院圖書館
-  	
-  	（台北） `法光佛教文化研究所 <http://fakuang.org.tw/FK4.htm>`__  B171/() （圖書館書目檢索）
-  	（臺南市） `妙心寺 <http://www.mst.org.tw:8080/webpac700/index.aspx>`__ （中華佛教百科文獻基金會館藏查詢） 082.8 / 2400 / 1998 / V.102, 082.8 / 2400 / 1998 / C.1, 010 / 1261 / 1992 / C.1, 010 / 1261 / 1991 /
-  	`法鼓文理學院圖書資訊館 <https://lic.dila.edu.tw/>`__  B 010 1611-2 87
-  	
-  	基隆市公共圖書館
-  	慈濟大學 <https://www.webpac.tcu.edu.tw/webpac/search.cfm>`__ , 220.91 8635-1 1998
-  	臺南市立圖書館 (喜樹開架閱覽區), 220.91 1611 1991 
-  	臺南市立圖書館 (山上開架閱覽區), 220.91 8863 2000
-  	臺南市立圖書館 (安平開架閱覽區), 220.91 1611 2000
-  	彰化縣公共圖書館 鹿港閉架書庫區 可借28天不可跨館預約 220.12 1611 80 
-  	苗栗縣公共圖書館
-  	桃園市立圖書館 蘆竹分館/3樓書庫 一般圖書 220.1 1611
-  	
-  	新北市立圖書館 中和員山開架閱覽[工程閉館] 圖書可借30天 中文圖書 220.1 8863
-  	貢寮開架閱覽 圖書可借30天 中文圖書 220.1 8863 c.2
   	01-Prof-Mizuno: https://drive.google.com/file/d/1861hqt9Sv_WNLpUxrekPWw4rCF70ntv-/view?usp=drive_link
   	02-hirakawa_akira: https://drive.google.com/file/d/1Fw7Vqjpy2OWN3i4jIJ6HLSISNmDKADdy/view?usp=drive_link
   	03-Sir_Charles_Eliot: https://drive.google.com/file/d/1F2GBuSTE3eG5RDTWR-N7QsXUaTAtOGyJ/view?usp=drive_link
-  	04-ryu-a-brief_introduction_to_the_origin_and_development_of_indian_buddhism
-
-     * `高雄市立圖書館 <https://webpacx.ksml.edu.tw/>`_  BOOK 220.7 1611
+  	04-ryu-a-brief_introduction_to_the_origin_and_development_of_indian_buddhism: https://drive.google.com/file/d/1jWcRxnfzkUR5iFUKvSEjmaUY5ygVzVFu/view?usp=drive_link
