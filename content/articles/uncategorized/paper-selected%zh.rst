@@ -1,24 +1,24 @@
-==============
-文章選讀
-==============
+=================
+書籍、文章選讀
+=================
 
 :date: 2005-05-01
-:modified: 2025-07-22
+:modified: 2025-07-25
 :tags: 
 :category: 書選
-:summary: 文章選讀
+:summary: 書籍、文章選讀
 
 簡目：  
 ~~~~~~~~~
 
     .. raw:: html
-    
+
        <a class="reference internal" href="#detail-of-the-books"><strong>細目</strong></a>
        <ul>
          <li> <a class="reference internal" href="#what-the-buddha-taught"><strong>《佛陀的啟示》</strong></a> (What the Buddha Taught)</li>
          <li> <a class="reference internal" href="#the_buddha_masutani_fumio"><strong>《佛陀》</strong></a>（増谷文雄 著）</li>
          <li> <a class="reference internal" href="#basic_knowledge_of_buddhist_terms_mizuno_kogen"><strong>《佛教要語的基礎知識》</strong></a>（水野弘元 著）</li>
-         <li> <a class="reference internal" href="#a_history_of_indian_buddhism_hirakawa_akira"><strong>《印度佛教史》</strong></a>（平川彰 著，莊崑木 譯）</li>
+         <li> <a class="reference internal" href="#a_history_of_indian_buddhism_hirakawa_akira"><strong>《印度佛教史》</strong></a>（平川彰 著；莊崑木 譯、《印度佛教史》(上冊) 釋顯如 李鳳媚 譯）</li>
          <li> <a class="reference internal" href="#hinduism_and_buddhism_an_historical_sketch"><strong>《巴利系佛教史綱》</strong></a>（埃利奧特 著，李榮熙 譯）</li>
          <li> <a class="reference internal" href="#buddhism_in_translations"><strong>《原始佛典選譯》</strong></a>（亨利‧克拉克‧華倫 著，顧法嚴 譯）</li>
        </ul>
@@ -129,6 +129,23 @@
 
 《印度佛教史》
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+印 度 佛 教 史 (上冊)，平川 彰 著 釋顯如 李鳳媚 譯, 出版者： `法雨道場 <http://www.dhammarain.org.tw/>`__  ( 原：嘉義新雨道場 ), 60652 台灣‧嘉義縣中埔鄉同仁村柚仔宅 50 之 6 號, Tel：(886)(5) 253-0029
+
+　　平川彰著《印度佛教史 上卷》，由顯如法師（一九四九︱一九九八）翻譯，以「顯證」的筆名，於一九七九年一月起，在《淨覺雜誌》連載四十五期。他往生之後，善友們著手整理他的遺作時，才驚覺這部譯作已被遺忘，尚未編輯成書。編輯部取得該書手稿，並向台南妙心寺「中華佛教百科文獻基金會佛學資料中心」請求影印《淨覺雜誌》的連載文稿，請新竹法華寺地觀法師以電腦作業來掃描文稿，節省重新打字的費時費力。再商請李鳳媚小姐對照日文原書，校正錯誤並補足略譯的部分，歷時約一年多。
+
+　　本書為東京大學名譽教授平川彰一九七四年的作品，平川教授的寫作風格極其詳實，論理分明並層層剖析，往往在艱難處娓娓道來，令人茅塞頓開。《印度佛教史》旨在為初學者介紹印度佛教，書分上下兩冊，本書為上冊；除了有平川教授一氣呵成地推介每個論點的特色外，每一節後面並附有參考書目，供讀者作更深入的研究，堪稱佛教史入門書中的最佳選擇。唯其寫作時間較早，故無法照顧到一九七四年後的作品。
+若是想瞭解、學習原始佛教，或是在研究部派佛教，必須處理到原始佛教的某些議題時，本書（上冊）業已足夠。至於要學習「後期大乘佛教」與「秘密佛教」的教理，就須研讀本書之下冊。很慶幸，佛光出版社即將推出上、下冊完整版，請讀者自行請書。
+
+　　本書的出版，感謝李鳳媚小姐細心、認真地重新校訂與翻譯，致力呈現原作者風貌，並耗費時日編輯索引。發心校對者，有明法比丘、許銘泉、李樹銘、蔡秀嫚等。感謝諸善友的熱心護持，願本書的出版，使世間善法興盛，佛法增輝，台海和平。
+
+嘉義新雨道場 啟
+
+二○○一年三月
+
+- `平川彰-印度佛教史-上（HTML, 豆沙綠底色） <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A-green.html>`__ 、 `PDF, 豆沙綠底色 <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A-green.pdf>`__ 、 `直接閱讀 <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A.html>`__ （HTML, 一般）、 `PDF, 一般 <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A.pdf>`__ 、 `PDF <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A-%E7%9B%B4%E5%BC%8F.pdf>`__ （原書直式編排，仍為舊式 foreign1, KH2s_kj 等等字型羅馬轉寫巴利語）、 `ms .doc <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A.doc>`__ （一般）、 `ms .doc <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A-green.doc>`__ （豆沙綠底色）、 `ODT <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A.odt>`__ （一般）、 `ODT <https://nanda.online-dhamma.net/doc-pdf-etc/hirakawa-akira%E5%B9%B3%E5%B7%9D%E7%AB%A0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2/%E5%B9%B3%E5%B7%9D%E5%BD%B0-%E5%8D%B0%E5%BA%A6%E4%BD%9B%E6%95%99%E5%8F%B2-%E4%B8%8A-green.odt>`__ （豆沙綠底色）
+
+------
 
 印度佛教史，平川彰著; 莊崑木譯, 譯自: インド仏教史
 
@@ -556,8 +573,9 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 
 ..
+  07-25 add: 平川彰-印度佛教史-上（HTML, 豆沙綠底色）, pdf, odt, doc等等 linkings
   07-22 rev. linkings in bold with 「raw:: html」
-  07-21 the 3rd, the 2nd, optimising linkings
+  07-21 the 3rd, the 2nd, optimising linkings; mizu-- https://drive.google.com/file/d/1861hqt9Sv_WNLpUxrekPWw4rCF70ntv-/view?usp=drive_link ; hiraka-- https://drive.google.com/file/d/1Fw7Vqjpy2OWN3i4jIJ6HLSISNmDKADdy/view?usp=drive_link ; eliot his_sketch --  https://drive.google.com/file/d/1F2GBuSTE3eG5RDTWR-N7QsXUaTAtOGyJ/view?usp=drive_link ; rju-chéng-- https://drive.google.com/file/d/1jWcRxnfzkUR5iFUKvSEjmaUY5ygVzVFu/view?usp=drive_link 
   07-19; del: 《智慧之樹，不返之流-- 觀禪的修行與進程》 漢譯紙本，免費結緣；意洽 `此電子信箱 @mail.ncku.edu.tw （限台灣國內；版權所有，請勿有商業行為）。
   07-19; 07-11 add 推薦閱讀書目（佛教）(Title Catalogue)
   2025-05-28 add. new【意想不到的自由】; old:  {static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>
