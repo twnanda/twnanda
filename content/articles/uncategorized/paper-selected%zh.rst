@@ -3,7 +3,7 @@
 =================
 
 :date: 2005-05-01
-:modified: 2025-07-25
+:modified: 2025-07-26
 :tags: 
 :category: 書選
 :summary: 書籍、文章選讀
@@ -16,41 +16,41 @@
        <a class="reference internal" href="#detail-of-the-books"><strong>細目</strong></a>
        <ul>
          <li> <a class="reference internal" href="#what-the-buddha-taught"><strong>《佛陀的啟示》</strong></a> (What the Buddha Taught)</li>
-         <li> <a class="reference internal" href="#the_buddha_masutani_fumio"><strong>《佛陀》</strong></a>（増谷文雄 著）</li>
-         <li> <a class="reference internal" href="#basic_knowledge_of_buddhist_terms_mizuno_kogen"><strong>《佛教要語的基礎知識》</strong></a>（水野弘元 著）</li>
-         <li> <a class="reference internal" href="#a_history_of_indian_buddhism_hirakawa_akira"><strong>《印度佛教史》</strong></a>（平川彰 著；莊崑木 譯、《印度佛教史》(上冊) 釋顯如 李鳳媚 譯）</li>
-         <li> <a class="reference internal" href="#hinduism_and_buddhism_an_historical_sketch"><strong>《巴利系佛教史綱》</strong></a>（埃利奧特 著，李榮熙 譯）</li>
-         <li> <a class="reference internal" href="#buddhism_in_translations"><strong>《原始佛典選譯》</strong></a>（亨利‧克拉克‧華倫 著，顧法嚴 譯）</li>
+         <li> <a class="reference internal" href="#the-buddha-masutani-fumio"><strong>《佛陀》</strong></a>（増谷文雄 著）</li>
+         <li> <a class="reference internal" href="#basic-knowledge-of-buddhist-terms-mizuno-kogen"><strong>《佛教要語的基礎知識》</strong></a>（水野弘元 著）</li>
+         <li> <a class="reference internal" href="#a-history-of-indian-buddhism-hirakawa-akira"><strong>《印度佛教史》</strong></a>（平川彰 著；莊崑木 譯、《印度佛教史》(上冊) 釋顯如 李鳳媚 譯）</li>
+         <li> <a class="reference internal" href="#hinduism-and-buddhism-an-historical-sketch"><strong>《巴利系佛教史綱》</strong></a>（埃利奧特 著，李榮熙 譯）</li>
+         <li> <a class="reference internal" href="#buddhism-in-translations"><strong>《原始佛典選譯》</strong></a>（亨利‧克拉克‧華倫 著，顧法嚴 譯）</li>
        </ul>
        <hr class="docutils" />
        <ul class="simple">
-         <li> <a class="reference internal" href="#handbook_meditation_dhammarain"><strong>《禪修手冊》</strong></a>，法雨道場 (2009 )</li>
-         <li> <a class="reference internal" href="#living_buddhist_masters"><strong>《當代南傳佛教大師》</strong></a> (LIVING BUDDHIST MASTERS)，傑克‧康菲爾德 (Jack　Kornfield, 1977)，新雨編譯群</li>
-         <li> <a class="reference internal" href="#ajahn-liem-no-worries"><strong>《煩惱熄滅》</strong></a> --　隆波連佛法開示錄與傳略，Luang Por Liem, No_Worries</li>
+         <li> <a class="reference internal" href="#handbook-meditation-dhammarain"><strong>《禪修手冊》</strong></a>，法雨道場 (2009 )</li>
+         <li> <a class="reference internal" href="#living-buddhist-masters"><strong>《當代南傳佛教大師》</strong></a> (LIVING BUDDHIST MASTERS)，傑克‧康菲爾德 (Jack　Kornfield, 1977)，新雨編譯群</li>
+         <li> <a class="reference internal" href="#ajahn-liem-no-worries"><strong>《煩惱熄滅》</strong></a> --　隆波連佛法開示錄與傳略，Luang Por Liem, No-Worries</li>
          <li> <a class="reference internal" href="#what-is-the-right-attitude-for-meditation"> <strong>《禪修心法》</strong></a> --正確的修行態度，緬甸, 西亞多 史歐明禪師 著，Sayadaw Shwe O. Min, What is the Right Attitude for Meditation</li>
-         <li> <a class="reference internal" href="#handbook_meditation_dhammarain"><strong>《什麼是禪那和三摩地，你真的知道嗎？》</strong></a>，古瑪拉比丘著，"What You Might Not Know about Jhāna & Samādhi, Kumāra Bhikkhu</li>
+         <li> <a class="reference internal" href="#handbook-meditation-dhammarain"><strong>《什麼是禪那和三摩地，你真的知道嗎？》</strong></a>，古瑪拉比丘著，"What You Might Not Know about Jhāna & Samādhi, Kumāra Bhikkhu</li>
          <li> <a class="reference internal" href="#awaken-to-truth-in-harmony-a-trilogy"><strong>《在和諧中了悟真理：三部曲》</strong></a>；奧智達比丘著，溫宗堃中譯，(Awaken to Truth in Harmony: A Trilogy, Aggacitta Bhikkhu)</li>
        </ul>
        <hr class="docutils" />
        <ul class="simple">
-         <li> <a class="reference internal" href="#the_life_of_sariputta"><strong>《尊者舍利弗的一生》</strong></a>，向智尊者 著 Ven. Nyanaponika Thera</li>
-         <li> <a class="reference internal" href="#samana_maha_boowa"><strong>《沙門》</strong></a>；作者：摩訶布瓦尊者（Venerable Ācariya Mahā Boowa Ñāṇasampanno）</li>
-         <li> <a class="reference internal" href="#mangala_sutta"><strong>《吉祥經》</strong></a> 尊者　 鄔達摩長老 編著，Maṅgala Sutta – Protection with Blessing</li>
+         <li> <a class="reference internal" href="#the-life-of-sariputta"><strong>《尊者舍利弗的一生》</strong></a>，向智尊者 著 Ven. Nyanaponika Thera</li>
+         <li> <a class="reference internal" href="#samana-maha-boowa"><strong>《沙門》</strong></a>；作者：摩訶布瓦尊者（Venerable Ācariya Mahā Boowa Ñāṇasampanno）</li>
+         <li> <a class="reference internal" href="#mangala-sutta"><strong>《吉祥經》</strong></a> 尊者　 鄔達摩長老 編著，Maṅgala Sutta – Protection with Blessing</li>
          <li> <a class="reference internal" href="#dhamma-talks-by-mogok-sayadaw"><strong>《尊者　莫哥西亞多 開示錄》</strong></a>；由　尊者　鄔達摩　長老自緬甸語錄音帶譯為英文，Dhmma Talks by Mogok Sayadaw: Translation based on the recorded tapes by Ven. Uttamo thera</li>
          <li> <a class="reference internal" href="#eighteen-days-in-solitude"><strong>《18天禪修營》</strong></a>，尊者　阿締佳嵐溪長老 開示錄》；由　尊者　鄔達摩長老自緬甸語錄音帶譯為 英文，Eighteen Days In Solitude --Instructional Dhamma Talks in Retreat, By Venerable U Ādiccaramsī</li>
          <li> <a class="reference internal" href="#two-sides-of-a-coin"><strong>《銅板的兩面》</strong></a>，尊者 帖因古西亞多 開示錄；《神聖的追尋》， 強諦瑪西亞多 開示錄；由　尊者　 鄔達摩長老自緬甸語錄音帶譯為英文，Two Sides of A Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha) and A Noble Search [Dhamma Talks by Sayadaw U Candima (or Sandima)]</li>
-         <li> <a class="reference internal" href="#unexpected_freedom"><strong>《意想不到的自由》</strong></a> -- 阿姜 穆寧多[穆寧多(牟尼度) 法師]演講輯，NEXPECTED FREEDOM (by AJAHN MUNINDO)</li>
-         <li> <a class="reference internal" href="#mae_chee_kaew"><strong>《美琪喬》</strong></a>—— 一位阿羅漢尼修道證果之旅，阿瞻 戒寶 編輯，捷平 翻譯，Ajaan Dick Sīlaratano</li>
-         <li> <a class="reference internal" href="#ajahn_suchart"><strong>《我的人生道路》</strong></a>，——阿瞻 蘇查自傳，My Way- An Autobiography by Ajahn Suchart Abhijāto</li>
+         <li> <a class="reference internal" href="#unexpected-freedom"><strong>《意想不到的自由》</strong></a> -- 阿姜 穆寧多[穆寧多(牟尼度) 法師]演講輯，NEXPECTED FREEDOM (by AJAHN MUNINDO)</li>
+         <li> <a class="reference internal" href="#mae-chee-kaew"><strong>《美琪喬》</strong></a>—— 一位阿羅漢尼修道證果之旅，阿瞻 戒寶 編輯，捷平 翻譯，Ajaan Dick Sīlaratano</li>
+         <li> <a class="reference internal" href="#ajahn-suchart"><strong>《我的人生道路》</strong></a>，——阿瞻 蘇查自傳，My Way- An Autobiography by Ajahn Suchart Abhijāto</li>
          </ul>
        <hr class="docutils" />
        <ul class="simple">
-         <li> <a class="reference internal" href="#ken_su"><strong>《蘇錦坤作品集》</strong></a>，Ken Su</li>
-         <li> <a class="reference internal" href="#letters_from_mara"><strong>《魔羅的來信》</strong></a> ，阿瞻 富樓那達摩 著 (Letters from Mara, by Ajahn Puṇṇadhammo)</li>
+         <li> <a class="reference internal" href="#ken-su"><strong>《蘇錦坤作品集》</strong></a>，Ken Su</li>
+         <li> <a class="reference internal" href="#letters-from-mara"><strong>《魔羅的來信》</strong></a> ，阿瞻 富樓那達摩 著 (Letters from Mara, by Ajahn Puṇṇadhammo)</li>
          </ul>
        <hr class="docutils" />
        <ul class="simple">
-         <li> <a class="reference internal" href="#ven_bhikkhu_bodhi_discourse_on_covid_19"><strong>尊者　菩提長老針對 2019新冠病毒疫情</strong></a> 的開示</li>
+         <li> <a class="reference internal" href="#ven-bhikkhu-bodhi-discourse-on-covid-19"><strong>尊者　菩提長老針對 2019新冠病毒疫情</strong></a> 的開示</li>
        </ul>
        <hr class="docutils" />
 
@@ -62,11 +62,11 @@
 
     .. raw:: html
 
-         <li> <a class="reference internal" href="#a_brief_introduction_to_the_origin_and_development_of_indian_buddhism"><strong>《印度佛學源流略講》</strong></a> ，呂澂 著</li>
-         <li> <a class="reference internal" href="#the_origin_of_buddhism"><strong>《佛教的原點》</a> ：釋尊的生涯與思想</strong> ， 作者：水野弘元著; 達和法師；陳淑慧譯</li>
-         <li> <a class="reference internal" href="#indian_sacred_land_travelers_book"><strong>《印度聖境旅人書》</strong></a>，林許文二; 陳師蘭；2000.08.23；頁次：450；商智</li>
-         <li> <a class="reference internal" href="#the_buddhas_ancient_path"><strong>《佛陀的古道》</strong></a>，Venerable PIYADASSI THERA(毗那達西長老) 編著；方支/譯</li>
-         <li> <a class="reference internal" href="#the_buddhas_and_his_teachings"><strong>《佛陀與佛法》</strong></a> (The Buddha and His Teachings)，那爛陀大長老 (Venerable Narada Mahathera) 編著，釋學愚法師 譯</li>
+         <li> <a class="reference internal" href="#a-brief-introduction-to-the-origin-and-development-of-indian-buddhism"><strong>《印度佛學源流略講》</strong></a> ，呂澂 著</li>
+         <li> <a class="reference internal" href="#the-origin-of-buddhism"><strong>《佛教的原點》</a> ：釋尊的生涯與思想</strong> ， 作者：水野弘元著; 達和法師；陳淑慧譯</li>
+         <li> <a class="reference internal" href="#indian-sacred-land-travelers-book"><strong>《印度聖境旅人書》</strong></a>，林許文二; 陳師蘭；2000.08.23；頁次：450；商智</li>
+         <li> <a class="reference internal" href="#the-buddhas-ancient-path"><strong>《佛陀的古道》</strong></a>，Venerable PIYADASSI THERA(毗那達西長老) 編著；方支/譯</li>
+         <li> <a class="reference internal" href="#the-buddhas-and-his-teachings"><strong>《佛陀與佛法》</strong></a> (The Buddha and His Teachings)，那爛陀大長老 (Venerable Narada Mahathera) 編著，釋學愚法師 譯</li>
        </ul>
 
 ------
@@ -95,9 +95,9 @@
 
 ------
 
-.. _佛陀: the_buddha_masutani_fumio_
+.. _佛陀: the-buddha-masutani-fumio_
 
-.. _the_buddha_masutani_fumio:
+.. _the-buddha-masutani-fumio:
 
 《佛陀》
 ~~~~~~~~~~~
@@ -108,9 +108,9 @@
 
 ------
 
-.. _佛教要語的基礎知識: basic_knowledge_of_buddhist_terms_mizuno_kogen_
+.. _佛教要語的基礎知識: basic-knowledge-of-buddhist-terms-mizuno-kogen_
 
-.. _basic_knowledge_of_buddhist_terms_mizuno_kogen:
+.. _basic-knowledge-of-buddhist-terms-mizuno-kogen:
 
 《佛教要語的基礎知識》
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -123,9 +123,9 @@
 
 ------
 
-.. _印度佛教史: a_history_of_indian_buddhism_hirakawa_akira_
+.. _印度佛教史: a-history-of-indian-buddhism-hirakawa-akira_
 
-.. _a_history_of_indian_buddhism_hirakawa_akira:
+.. _a-history-of-indian-buddhism-hirakawa-akira:
 
 《印度佛教史》
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -169,9 +169,9 @@
 
 ------
 
-.. _巴利系佛教史綱: hinduism_and_buddhism_an_historical_sketch_
+.. _巴利系佛教史綱: hinduism-and-buddhism-an-historical-sketch_
 
-.. _hinduism_and_buddhism_an_historical_sketch:
+.. _hinduism-and-buddhism-an-historical-sketch:
 
 《巴利系佛教史綱》
 ~~~~~~~~~~~~~~~~~~~~
@@ -184,9 +184,9 @@
 
 ------
 
-.. _原始佛典選譯: buddhism_in_translations_
+.. _原始佛典選譯: buddhism-in-translations_
 
-.. _buddhism_in_translations:
+.. _buddhism-in-translations:
 
 《原始佛典選譯》
 ~~~~~~~~~~~~~~~~~~
@@ -199,9 +199,9 @@
 
 ------
 
-.. _禪修手冊: handbook_meditation_dhammarain_
+.. _禪修手冊: handbook-meditation-dhammarain_
 
-.. _handbook_meditation_dhammarain:
+.. _handbook-meditation-dhammarain:
 
 《禪修手冊》
 ~~~~~~~~~~~~~~~~
@@ -210,9 +210,9 @@
 
 ------
 
-.. _當代南傳佛教大師: living_buddhist_masters_
+.. _當代南傳佛教大師: living-buddhist-masters_
 
-.. _living_buddhist_masters:
+.. _living-buddhist-masters:
 
 《當代南傳佛教大師》
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -257,7 +257,7 @@
 
 ------
 
-.. _ven_kumara_bhikkhu:
+.. _ven-kumara-bhikkhu:
 
 .. _`什麼是禪那和三摩地，你真的知道嗎？`: what-you-might-not-know-about-jhana-and-samadhi_
 
@@ -283,9 +283,9 @@
 
 ------
 
-.. _沙門: samana_maha_boowa_
+.. _沙門: samana-maha-boowa_
 
-.. _samana_maha_boowa:
+.. _samana-maha-boowa:
 
 《沙門》
 ~~~~~~~~~~~
@@ -301,9 +301,9 @@
 
 ------
 
-.. _意想不到的自由: unexpected_freedom_
+.. _意想不到的自由: unexpected-freedom_
 
-.. _unexpected_freedom:
+.. _unexpected-freedom:
 
 《意想不到的自由》
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -319,9 +319,9 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 ------
 
-.. _吉祥經: mangala_sutta_
+.. _吉祥經: mangala-sutta_
 
-.. _mangala_sutta:
+.. _mangala-sutta:
 
 《吉祥經》
 ~~~~~~~~~~~~~~~~
@@ -370,9 +370,9 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 ------
 
-.. _尊者舍利弗的一生: the_life_of_sariputta_
+.. _尊者舍利弗的一生: the-life-of-sariputta_
 
-.. _the_life_of_sariputta:
+.. _the-life-of-sariputta:
 
 《尊者舍利弗的一生》
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -381,7 +381,7 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 ------
 
-.. _ven_bhikkhu_bodhi_discourse_on_covid_19:
+.. _ven-bhikkhu-bodhi-discourse-on-covid-19:
 
 .. _2019新冠病毒疫情:
 
@@ -389,9 +389,9 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 ------
 
-.. _美琪喬: mae_chee_kaew_
+.. _美琪喬: mae-chee-kaew_
 
-.. _mae_chee_kaew:
+.. _mae-chee-kaew:
 
 《美琪喬》
 ~~~~~~~~~~~~~~~~
@@ -402,20 +402,20 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 ------
 
-.. _我的人生道路: ajahn_suchart_
+.. _我的人生道路: ajahn-suchart_
 
-.. _ajahn_suchart:
+.. _ajahn-suchart:
 
 我的人生道路——阿瞻 蘇查自傳
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- `我的人生道路 <{filename}/articles/lib/ajahn-suchart/ajahn-suchart%zh.rst>`__ ——阿瞻 蘇查自傳 (Ajahn Suchart Abhijāto)；   我主要的專注一直都是在照顧這顆心，簡單並平靜地生活，一直守住當下直到我的時間結束。
+- `我的人生道路 <{filename}/articles/lib/ajahn-suchart/ajahn-suchart%zh.rst>`-- ——阿瞻 蘇查自傳 (Ajahn Suchart Abhijāto)；   我主要的專注一直都是在照顧這顆心，簡單並平靜地生活，一直守住當下直到我的時間結束。
 
 ------
 
-.. _蘇錦坤作品集: ken_su_
+.. _蘇錦坤作品集: ken-su_
 
-.. _ken_su:
+.. _ken-su:
 
 《蘇錦坤作品集》
 ~~~~~~~~~~~~~~~~~~~
@@ -424,9 +424,9 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 ------
 
-.. _魔羅的來信: letters_from_mara_
+.. _魔羅的來信: letters-from-mara_
 
-.. _letters_from_mara:
+.. _letters-from-mara:
 
 《魔羅的來信》
 ~~~~~~~~~~~~~~~~~~~
@@ -475,9 +475,9 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 ------
 
-.. _印度佛學源流略講: a_brief_introduction_to_the_origin_and_development_of_indian_buddhism_
+.. _印度佛學源流略講: a-brief-introduction-to-the-origin-and-development-of-indian-buddhism_
 
-.. _a_brief_introduction_to_the_origin_and_development_of_indian_buddhism:
+.. _a-brief-introduction-to-the-origin-and-development-of-indian-buddhism:
 
 《印度佛學源流略講》
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -492,9 +492,9 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 ------
 
-.. _佛教的原點: the_origin_of_buddhism_
+.. _佛教的原點: the-origin-of-buddhism_
 
-.. _the_origin_of_buddhism:
+.. _the-origin-of-buddhism:
 
 《佛教的原點》
 ~~~~~~~~~~~~~~~~
@@ -505,9 +505,9 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 ------
 
-.. _印度聖境旅人書: indian_sacred_land_travelers_book_
+.. _印度聖境旅人書: indian-sacred-land-travelers-book_
 
-.. _indian_sacred_land_travelers_book:
+.. _indian-sacred-land-travelers-book:
 
 《印度聖境旅人書》
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -520,9 +520,9 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 ------
 
-.. _佛陀的古道: the_buddhas_ancient_path_
+.. _佛陀的古道: the-buddhas-ancient-path_
 
-.. _the_buddhas_ancient_path:
+.. _the-buddhas-ancient-path:
 
 《佛陀的古道》
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -542,9 +542,9 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 ----
 
-.. _佛陀與佛法: the_buddhas_and_his_teachings_
+.. _佛陀與佛法: the-buddhas-and-his-teachings_
 
-.. _the_buddhas_and_his_teachings:
+.. _the-buddhas-and-his-teachings:
 
 《佛陀與佛法》
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -573,6 +573,7 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 
 ..
+  07-26 rev. replace 「_」with「-」@「.. _」
   07-25 add: 平川彰-印度佛教史-上（HTML, 豆沙綠底色）, pdf, odt, doc等等 linkings
   07-22 rev. linkings in bold with 「raw:: html」
   07-21 the 3rd, the 2nd, optimising linkings; mizu-- https://drive.google.com/file/d/1861hqt9Sv_WNLpUxrekPWw4rCF70ntv-/view?usp=drive_link ; hiraka-- https://drive.google.com/file/d/1Fw7Vqjpy2OWN3i4jIJ6HLSISNmDKADdy/view?usp=drive_link ; eliot his_sketch --  https://drive.google.com/file/d/1F2GBuSTE3eG5RDTWR-N7QsXUaTAtOGyJ/view?usp=drive_link ; rju-chéng-- https://drive.google.com/file/d/1jWcRxnfzkUR5iFUKvSEjmaUY5ygVzVFu/view?usp=drive_link 
