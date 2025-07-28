@@ -3,7 +3,7 @@
 =================
 
 :date: 2005-05-01
-:modified: 2025-07-26
+:modified: 2025-07-28
 :tags: 
 :category: 書選
 :summary: 書籍、文章選讀
@@ -217,7 +217,106 @@
 《當代南傳佛教大師》
 ~~~~~~~~~~~~~~~~~~~~~~
 
-- `當代南傳佛教大師(LIVING BUDDHIST MASTERS) <{static}/extra/authors/jack-kornfield/living-buddhist-masters/Theravadian-Masters.htm>`_
+| 作　　者‧Jack　Kornfield　傑克‧康菲爾德
+| 譯　　者‧新雨編譯群
+| 總 編 輯‧吳明興
+| 出 版 者‧圓明出版社
+| 出版日期‧民國86年12月第1版第1刷
+| 
+
+**摘要**
+
+　　要閱讀本書，方法有很多種。
+
+　　飽學多聞的人，可以快速瀏覽，以滿足好奇心。
+
+　　你也可以空心閱讀，讓清靜的法水滲透你整個心靈。
+
+　　在洗滌的過程中，也許一種修行、一句妙語、一幅道場情景、或者一份直指人心的智慧，會吸引你駐足神往，成為你把取的對象。
+
+　　這時，經由寂靜的內觀，你會看到為什麼會出現那樣特別的念頭。
+
+　　等你已吸取所需，那些妄念自然脫落，隨著滾滾生滅的瀑流往下漂浮，離你而去，直到永遠永遠。
+
+| 目次	呈獻
+| 當代南傳佛教大師法相
+| 推薦序 楊郁文
+| 前言 傑克・康菲爾德
+| 序一 創巴仁波切
+| 序二 羅摩・達沙
+| 編者說明
+| 譯序 新雨編輯羣
+| 第一章 佛法精要
+| 第二章 緬甸、寮國、泰國的禪修概況
+| 第三章 教法總說
+| 第四章 阿姜查--修行問答
+| 第五章 馬哈希西亞多-內觀禪修:基本和進階練習
+| 第六章 孫倫西亞多--行者與內觀禪修
+| 第七章 佛使比丘--自然內觀法
+| 第八章 阿姜念--內觀的開發
+| 第九章 阿薑摩訶布瓦--以智慧開發三摩地
+| 第十章 唐卜陸西亞多--正念於三十二種身體成分的禪法
+| 第十一章 莫因西亞多--內觀訓練
+| 第十二章 莫哥西亞多--觀心與觀受
+| 第十三章 烏巴慶--佛法實踐精要
+| 第十四章 阿姜達摩答羅--內觀禪修本質問答
+| 第十五章 阿姜朱連--採訪回憶錄
+| 第十六章 更進一步的問答
+| 第十七章 其他現行上座部佛教的禪修法
+| 佛學常用術語
+| 作者簡介
+| 附錄 當代南傳佛教大師的禪修道場
+| ISBN	9789574880300 (pbk)
+| 
+
+https://buddhism.lib.ntu.edu.tw/search/search_detail.jsp?seq=690259&comefrom=authorinfo
+
+------
+
+　　佛法歷經二千五百年已演變成各式各樣的宗派和形式。在不同的文化和環境裡，活生生的法總是借著新的型態展現出來。不過禪修仍是它們的核心，佛陀曾親身示範並以此教導人們。唯有透過禪修，學佛的人才能使焦慮不安的心放慢下來，開始看清楚世間的真相。否則，他仍將持續增添無明，繼續掠奪性的執取以肯定自我。沒有禪修，就沒有聖賢和開悟的道路，也根本沒有佛法可言。
+
+　　對二十世紀日益縮小的世界來說，禪修提供了一項特別有效的訓練。在這個科技時代，人們也喜歡制造一些靈修的把戲──一種新型、改良式的靈修，保證快速見效。然而腳踏實地、親身力行的方式一直是真正精神修煉的基石，但宗教郎中卻舍此不顧，大肆推銷他們自己的教義，推銷神奇、便捷的花招。
+
+　　本書裡的老師是真正佛法的化身，他們是綿延不絕教法的傳承者，成功地保留佛法的精純原貌並為人演說。這些老師的教法以及他們本身的範例，鼓舞激勵後來的修行者正確且圓滿跟隨法的路徑。
+
+目錄
+
+| 呈獻 3
+| 推薦序 楊郁文 3
+| 前言 傑克·康菲爾德 8
+| 編者說明 9
+| 第一章 佛法精要 10
+| 第二章 緬甸、寮國、泰國的禪修概況 22
+| 第三章 教法總說 28
+| 第四章 阿姜查--修行問答 29
+| 第五章 馬哈西西亞多-內觀禪修:基本和進階練習 39
+| 第六章 孫隆西亞多--行者與內觀禪修 57
+| 第七章 佛使比丘--自然內觀法 75
+| 第八章 阿薑念--內觀的開發 82
+| 第九章 阿薑摩訶布瓦--以智能開發三摩地 98
+| 第十章 唐卜陸西亞多--正念於三十二種身體成分的禪法 111
+| 第十一章 莫寧西亞多--內觀訓練 116
+| 第十二章 莫哥西亞多--觀心與觀受 125
+| 第十三章 烏巴慶--佛法實踐精要 140
+| 第十四章 阿姜達摩答羅--內觀禪修本質問答 153
+| 第十五章 阿姜朱連--采訪回憶錄 161
+| 第十六章 更進一步的問答 168
+| 第十七章 其它現行上座部佛教的禪修法 176
+| 佛學常用術語 182
+| 作者簡介 183
+| 附錄 當代南傳佛教大師的禪修道場 184
+| ISBN	9789579534604 (pbk)
+| 
+
+https://buddhism.lib.ntu.edu.tw/en/search/search_detail.jsp?seq=690102&comefrom=authorinfo
+
+----
+
+- `當代南傳佛教大師(LIVING BUDDHIST MASTERS) <{static}/extra/authors/jack-kornfield/living-buddhist-masters/Theravadian-Masters.htm>`__
+
+------
+
+完整板： `直接閱讀 HTML <https://www.buddhason.org/books/living_buddhist_masters>`__ 、 `PDF <https://www.mahabodhi.org/MP3/qjdl/Living_Buddhist_Masters_Chinese.pdf>`__
 
 ------
 
@@ -229,15 +328,15 @@
 ~~~~~~~~~~~~~~~~
 
 - 《煩惱熄滅--　隆波連佛法開示錄與傳略》：
-  `PDF (16.8 MB) <{static}/extra/authors/ajahn-liem/Ajahn_Liem-No-Worries.pdf>`__ ；
+  `直接閱讀 <https://siongui.github.io/zh/2006/01/01/no-worries-luang-por-liem/>`__ (HTML)、 `PDF (16.8 MB) <{static}/extra/authors/ajahn-liem/Ajahn_Liem-No-Worries.pdf>`__ ；
   原始出處： `No worries <http://www.dhammatalks.net/Chinese/Ajahn_Liem-No-Worries.pdf>`_
   - 17MB PDF (Original from:
   `for Knowing and Seeing-- a Handful of Leaves <http://www.dhammatalks.net/index2.htm#Chinese>`_);
   `英文版(English) <http://www.dhammatalks.net/Books/Luang_Por_Liem_No_Worries.pdf>`__
   (original from: `Dhamma Talks-- for Knowing and Seeing-- a Handful of Leaves <http://www.dhammatalks.net/>`_)
 
-  隆波連-- 森林僧傳統 (`forestsangha <http://www.forestsangha.org/>`_)--
-  巴蓬寺(`Wat Nong Pah Pong <http://www.watnongpahpong.org/index.php>`_) 住持。
+  隆波連-- 森林僧傳統 ( `forestsangha <http://www.forestsangha.org/>`_ )--
+  巴蓬寺( `Wat Nong Pah Pong <http://www.watnongpahpong.org/index.php>`_ ) 住持。
 
 ------
 
@@ -326,7 +425,32 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 《吉祥經》
 ~~~~~~~~~~~~~~~~
 
-- `Maṅgala Sutta – Protection with Blessing <{filename}/articles/a-path-to-freedom/ven-uttamo/protection-with-blessings/content-of-protection-with-blessings%zh.rst>`_ : (in English)《吉祥經》（尊者　 **鄔達摩長老** 編著，英文）
+- `《吉祥經》 <http://nanda.online-dhamma.net/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.metta.html#khp5>`__ （尊者 明法比丘譯，法雨道場）；巴利大藏經 經藏 `小部 Khuddakanikaaya <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/khuddaka-nikaaya/>`__ ／ 經集 5. Suttanipāta (The Sutta Collection) ／  第二品 小品 (2. Cūḷavaggo) ／ 第四章 吉祥經 4. Maṅgalasuttaṃ。或 `大吉祥經 <http://tripitaka.cbeta.org/N27n0012_001#0070a07>`__ （ `CBETA <http://tripitaka.cbeta.org/>`__ 元亨寺版）。
+
+
+- `吉祥經［注解］ <https://video.lwdh.org.tw/download/pdf/lwdh/zaahj/zaahj_C02.pdf>`__ , PDF, 開印法師注解，釋開仁整理（2013.1.15）
+
+- 《 `吉祥經 <http://tripitaka.cbeta.org/N26n0008_001#0003a03>`__ 》， `CBETA <http://tripitaka.cbeta.org/>`__ 元亨寺版（或《 `吉祥經 <http://nanda.online-dhamma.net/extra/tipitaka/sutta/khuddaka/khuddaka-patha/Khp.1-9.Guan-Heng.html#khp5>`__ 》：巴利大藏經 經藏 `小部 Khuddakanikaaya <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/khuddaka-nikaaya/>`__ ／ `小誦 <http://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/khuddaka-patha/khuddaka-patha/>`__ (1. Khuddakapāṭha, Khuddaka-paa.tha) (Abr.=Khp)(with Commentary PTS); (The short passages) ／ 5. 吉祥經 Maṅgalasuttaṃ）
+
+- `吉祥經 <http://tripitaka.cbeta.org/B07n0013_001>`__ ；(民國)　法舫法師 譯（《大藏經補編》，第 7 冊，第 1 卷，No.0013，藍吉富 主編 / 台北：華宇出版社, 1985. `CBETA <http://www.cbeta.org/>`__ ）
+
+- `大吉祥經 <http://www.theravadacn.org/Sutta/Maha_Mangala2.htm>`__ ，小部經集 II.4，坦尼沙羅尊者英譯，良稹中譯
+
+- 《釋迦的啓示》，羅睺羅博士著，顧法嚴譯，陳健忠(香港大學醫學院講師) `增訂補譯 <https://sites.google.com/site/herodrkwok/home/hero/zeng-ding-bu-yi-ben-shi-jia-de-qi-shi-reng-mian-fei-zeng-yue>`__ ，（香港九龍）顯密佛學會，1991。
+
+- `吉祥經 <http://www.buddhistelibrary.org/zh/albums/central/Dhamma/mangala.pdf>`__ 及注釋，　法增比丘，馬來西亞，2005 年。 
+
+- 英譯：
+
+  * `Maṅgala Sutta – Protection with Blessing <{filename}/articles/a-path-to-freedom/ven-uttamo/protection-with-blessings/content-of-protection-with-blessings%zh.rst>`_ : (in English)《吉祥經》（尊者　 **鄔達摩長老** 編著，英文）
+
+  * Khp 5. Maṅgala Sutta — `Protection <https://www.dhammatalks.org/suttas/KN/Khp/khp5.html>`__ , translated from the Pāli Canon by Ven. Ṭhānissaro Bhikkhu thera, Khuddakapāṭha | Short Passages / Khp 5. Maṅgala Sutta — Protection
+
+  * `Sn 2:4  Protection <https://www.dhammatalks.org/suttas/KN/StNp/StNp2_4.html>`__ . This sutta is identical with Khp 5. translated from the Pāli Canon by Ven. Ṭhānissaro Bhikkhu thera, Sutta Nipāta | The Discourse Group / II : The Lesser Chapter (Cūḷa Vagga).
+
+  * `Blessings <https://www.accesstoinsight.org/tipitaka/kn/khp/khp.5.nara.html>`__ (Narada Thera, 1994) | `DISCOURSE ON BLESSINGS <https://www.accesstoinsight.org/tipitaka/kn/khp/khp.1-9x.piya.html#khp-5>`__ (Piyadassi Thera, 1999) |  `Blessings <https://www.accesstoinsight.org/tipitaka/kn/khp/khp.5.soni.html>`__ (Dr. R.L. Soni, 2006); `Life's Highest Blessings <https://www.accesstoinsight.org/lib/authors/soni/wheel254.html>`__ (translation and Commentary by Dr. R.L. Soni, revised by Bhikkhu Khantipalo) | `Protection <https://www.accesstoinsight.org/tipitaka/kn/khp/khp.1-9.than.html#khp-5>`__ (Thanissaro Bhikkhu, 1994) ] (from `AccessToInsight <https://www.accesstoinsight.org/tipitaka/kn/khp/index.html>`__ ). 
+
+  **Maṅgala is also translated as good omen, auspices or good fortune.**
 
 ------
 
@@ -344,7 +468,6 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
   * `莫哥西亞多文獻及翻譯 <http://wiki.sutta.org/wiki/Portal:%E6%96%87%E7%8C%AE%E5%8F%8A%E7%BF%BB%E8%AF%91#.E8.8E.AB.E5.93.A5.E8.A5.BF.E4.BA.9A.E5.A4.9A>`__ (上座部佛教百科， **中文** ) 
 
   * `緬甸仰光莫哥禪修中心總部 <http://bbs.sutta.org/thread-4074-1-1.html>`__ (上座部佛教資訊區， **中文** 
-
 
 ------
 
@@ -573,6 +696,7 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 
 ..
+  07-28 rev. and add: 當代南傳佛教大師、煩惱熄滅--　隆波連佛法開示錄與傳略直接閱讀siongui.github、吉祥經［注解］
   07-26 rev. replace 「_」with「-」@「.. _」
   07-25 add: 平川彰-印度佛教史-上（HTML, 豆沙綠底色）, pdf, odt, doc等等 linkings
   07-22 rev. linkings in bold with 「raw:: html」
