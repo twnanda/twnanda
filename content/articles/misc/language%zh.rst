@@ -3,7 +3,7 @@
 ================
 
 :date: 2025-08-02
-:modified: 2025-08-02
+:modified: 2025-08-03
 :tags: 語與文, 台語, 臺語, 台灣語, 臺灣語, 巴利語, 巴利文
 :category: 未分類
 :summary: 語與文
@@ -88,7 +88,7 @@ https://books.google.com.tw/books?id=wxtwCgAAQBAJ&printsec=frontcover&dq=isbn:95
 | 語ㆣㄧ、文ㆠㄨㄣˊ
 | 
 
-  .. image:: {static}../../extra/img/language.jpg
+  .. image:: {static}../../extra/img/language.png
      :width: 1389
      :height: 785
      :alt: language flowchart
