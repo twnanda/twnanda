@@ -88,7 +88,7 @@ https://books.google.com.tw/books?id=wxtwCgAAQBAJ&printsec=frontcover&dq=isbn:95
 | 語ㆣㄧ、文ㆠㄨㄣˊ
 | 
 
-  .. image:: {static}/extra/img/language.jpg
+  .. image:: {static}../../extra/img/language.jpg
      :width: 1389
      :height: 785
      :alt: language flowchart
