@@ -3,8 +3,8 @@
 ================
 
 :date: 2025-08-02
-:modified: 2025-08-03
-:tags: 語與文, 台語, 臺語, 台灣語, 臺灣語, 巴利語, 巴利文
+:modified: 2025-08-04
+:tags: 語與文, 語文不分, 台語, 臺語, 台灣語, 臺灣語, 巴利語, 巴利文
 :category: 未分類
 :summary: 語與文
 
@@ -69,6 +69,20 @@ https://books.google.com.tw/books?id=wxtwCgAAQBAJ&printsec=frontcover&dq=isbn:95
 
 語是語（音），文是文（字），兩者不同概念；語音透過文字系統，就可寫成文字。
 
+例如：
+
+1. "韓語"可以透過"諺文"寫成韓文；
+
+2. "日語"可以透過"假名"寫成日文；
+
+3. "英語"可以透過"盧恩Runes"寫成英文；
+
+4. 韓語、日語、華語、台語、客語、越南語可以透過"漢字系統"寫成韓文、日文、華文、台文、客文、越南文；
+5. `巴利語 Pāḷi <{filename}../pali/paali%zh.rst>`__ 則可以分別透過 "錫蘭文、緬甸文、泰國文、寮國文、高棉文"寫成各該國之巴利文；
+
+6. 台語、客語、越南語、南島語、巴利語 Pāḷi、英語則可以透過"拉丁字母系統"寫成台文、客文、越南文、南島文（原住民族語文）、巴利文、英文。
+
+
 .. table::
   :align: center
 
@@ -97,4 +111,5 @@ https://books.google.com.tw/books?id=wxtwCgAAQBAJ&printsec=frontcover&dq=isbn:95
 取材自： https://www.facebook.com/photo/?fbid=122230534076037050&set=p.122230534076037050 （樂暢走標漢醫師 https://www.facebook.com/profile.php?id=61551111510540 ） ←  https://www.facebook.com/photo.php?fbid=610647431937109&id=100089755723578&set=a.108576608810863 （羽兔盒 Feather Rabbit Box 面冊： https://www.facebook.com/frabbitbox)  ←  Aiuanyu 愛灣語 （面冊： https://www.facebook.com/Aiuanyu）
 
 ..
+  08-04 add ... 寫成各該國之巴利文 in 語與文
   2025-08-02 created from rst
