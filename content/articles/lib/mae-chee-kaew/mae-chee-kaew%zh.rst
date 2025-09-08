@@ -3,7 +3,7 @@
 =====================================
 
 :date: 2023-06-16
-:modified: 2024-05-20
+:modified: 2025-09-08
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew
 :category: 書選
 :summary: 美琪喬——一位阿羅漢尼修道證果之旅
@@ -305,6 +305,8 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 ------
 
+* `軼事 <{filename}mae-chee-kaew-anecdote%zh.rst>`_ （取材自：《此生可尋》——美琪喬的修行歷程與佛法） 
+
 本書使用之「簡轉繁」工具： `ConvertZZ <https://github.com/flier268/ConvertZZ>`_ ，版本：1.0.0.8, 2019-06-03
 
 ------
@@ -329,6 +331,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
+  2025-09-08 add 軼事（取材自：《此生可尋》——美琪喬的修行歷程與佛法）
   2024-05-20 rev. moving 本書 PDF to identical repo & mp3:replace mae-chee-kaew-uttamo with mae-chee-kaew
   2024-03-24 rev. moving to identical repo;
   09-30 rev. replace image:: {filename}/ with image:: {static}/ 
