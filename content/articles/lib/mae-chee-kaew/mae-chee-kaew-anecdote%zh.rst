@@ -3,7 +3,7 @@
 =================================================
 
 :date: 2025-09-08
-:modified: 2025-09-08
+:modified: 2025-09-09
 :tags: 美琪喬, 美琪喬傳, 阿羅漢尼, Mae Chee Kaew, Mae Chee, Kaew, Mae Chee Kaew Sianglum
 :category: 書選
 :summary: 軼事（《此生可尋》——美琪喬 Mae Chee Kaew Sianglum 的修行歷程與佛法）
@@ -23,8 +23,8 @@
 
   .. image:: {static}/extra/img/mae-chee-kaew-and-ajahn-inthawai.png
      :alt: 美琪喬與阿瞻因噠崴 (Mae Chee Kaew and Ajahn Inthawai)
-     :width: 700
-     :height: 472
+     :width: 467
+     :height: 314
      :align: center
 
 **美琪喬與阿瞻因噠崴 (Mae Chee Kaew and Ajahn Inthawai)**
@@ -119,5 +119,6 @@
 
 
 ..
+  09-09 rev. 相片*2/3
   2025-09-08 add:軼事 1--因爲美琪喬的功德，連天神都想投胎到她的子宮; create rst
 
