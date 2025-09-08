@@ -331,7 +331,7 @@ Dhamma should not be sold like goods in the market place. Permission to reproduc
 
 
 ..
-  2025-09-08 add 軼事（取材自：《此生可尋》——美琪喬的修行歷程與佛法）
+  2025-09-08 add add:軼事 1--因爲美琪喬的功德，連天神都想投胎到她的子宮; 軼事2（取材自：《此生可尋》——美琪喬的修行歷程與佛法）
   2024-05-20 rev. moving 本書 PDF to identical repo & mp3:replace mae-chee-kaew-uttamo with mae-chee-kaew
   2024-03-24 rev. moving to identical repo;
   09-30 rev. replace image:: {filename}/ with image:: {static}/ 
