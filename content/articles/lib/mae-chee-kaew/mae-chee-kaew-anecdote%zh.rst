@@ -31,7 +31,7 @@
 
 ------
 
-照片中，坐在美琪喬隔壁的那位比丘是誰？西方世界怎樣得知美琪喬的故事？兩條問題的答案就是阿瞻因噠崴，一位阿瞻摩訶布瓦傳承著名的弟子。
+照片中，坐在美琪喬隔壁的那位比丘是誰？西方世界怎樣得知美琪喬的故事？兩條問題的答案就是阿瞻因噠崴 [1]_ ，一位阿瞻摩訶布瓦傳承著名的弟子。
 
 作爲佛教徒，我們知道天神，就算他們是光輝明亮的，也有一天會死去。不是每一位天神都是佛教徒，但也有許多是佛教徒。以下是這一位佛教徒天神的故事。
 
@@ -70,6 +70,13 @@
 目前，阿瞻因噠崴已經是資深的長老了。秉著慈心，阿瞻因噠崴根據阿瞻摩訶布瓦及其他長老的教導，教導僧侶和在家人修習佛法。
 
 除此之外，阿瞻因噠崴也向社區提供援助，例如幫助醫院、為醫院提供醫療設備、建造學校，以及成立基金會來幫助生病的僧侶。
+
+- 本文部分資料取材自《死隨念》一書，長老阿瞻因噠崴的生平簡介。（ `《死隨念•與死同行》 <https://connecthkuhk-my.sharepoint.com/personal/lvnigel_connect_hku_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Flvnigel%5Fconnect%5Fhku%5Fhk%2FDocuments%2F%E4%BD%9B%E6%95%99%2Fluang%20por%20inthawai%2F%E6%AD%BB%E9%9A%A8%E5%BF%B5%20%E8%88%87%E6%AD%BB%E5%90%8C%E8%A1%8C%2Epdf&parent=%2Fpersonal%2Flvnigel%5Fconnect%5Fhku%5Fhk%2FDocuments%2F%E4%BD%9B%E6%95%99%2Fluang%20por%20inthawai&ga=1>`__ ）
+
+- 如實知見 knowing and seeing the truth - 美琪喬 Mae Chee Kaew
+
+https://www.knownsee.com/%E5%A4%A7%E5%B8%AB%E7%88%B6-masters/%E6%B3%B0%E5%9C%8B-thailand/%E7%BE%8E%E7%90%AA%E5%96%AC-mae-chee-kaew#h.i94s73fx5mtc
+
 
 ------
 
@@ -116,9 +123,41 @@
 
 - 《美琪喬——一位阿羅漢尼修道證果之旅》 `目錄 <{filename}mae-chee-kaew%zh.rst>`_
 
+------
+
+**備註：**
+
+.. [1] Luang puu Inthawai Santussako 的原名是 Inthawai Piyukham（在泰語中，「In」是因陀羅神的名字，「Thawai」的意思是給予）。
 
 
 ..
-  09-09 rev. 相片*2/3
+  09-09 rev. 本文部分資料取材自《死隨念》一書; English backup; 相片*2/3
   2025-09-08 add:軼事 1--因爲美琪喬的功德，連天神都想投胎到她的子宮; create rst
 
+  "With the merit of Mae Chee Kaew, even a god (deva) requested to be born in her womb"
+  Who is the monk next to Mae Chee Kaew? How did the Western world learn of Mae Chee Kaew's story? The answer to the two questions is none other than the renowned Geiji Ajaan Luang Phor Inthawai, an important disciple of the lineage of the great Luang Ta Maha Bua. 
+  For Buddhists, we know that the gods, even though they are radiant and resplendent, are not immortal and will die one day. It may interest you to know that not all devas are Buddhists, but it is true that there are a large proportion of devout Buddhist devas. This is the story of one such deva. 
+  Before the deva was to die, he was ready to look for a good family for himself to be reborn to, so that he may continue to practice Buddhism. As the Buddhist devas tended to move together as a group, their luminous aura caused the Phu Kao area to light up very brightly. They were led by the Leader of the Devas in the Heaven of Thirty Three, Phra Indra Devaraj. However, they were only perceptible by those who had the Divine Eye, so only Mae Chee Kaew and Mae Daeng (Mae Chee Ma Ngae Piw Kam) were aware of their presence. 
+  The deva spoke to them and said, "I would like to be born as a son of Khun Mae Chee." Mae Chee replied that "Mae Chee bùat láew" (ordained already), and that if you really want, you should enter the womb of a farmer woman that I know of, and you can be ordained as a monk when you grow up. This couple is not a rich couple, but are farmers, but can afford to send you to school to learn to read and write. 
+  And it is good to be born to them, because if you are born to them now, you will be one of the middle children. The people in this area love the first, and the last child the most, and they wont be too upset if you were to go forth in the yellow robe. They are also a good Buddhist family with right views."
+  The deva replied, "How can you guarantee that I will ordain as a monk when after I grow up, as desired?"
+  Mae Chee Kaew replied, "It depends on your own bùp-pá-gam (merit, deeds, previous actions, kamma) alone."
+  The devas then discussed this matter with one another, which also included the Deva King Phra Indra, and then decided to return to heaven, except for the deva who was to be born to the farmer couple. 
+  Some time later, Khun Mae Chee Kaew invited the couple for a chat, and told them about her discussions with the devas. The husband and wife both agreed to offer to be the parents of the deva. When the wife delivered the baby, the deva was born as a baby boy with all his complete faculties intact. This is actually important as those who are physically challenged are usually considered unsuitable for ordination. 
+  The father came to see Mae Chee Kaew to inform her of his son's birth. Mae Chee Kaew told him to name his son "Inthawai", meaning "An offering to Phra Inn (Indra)". 
+  At present, Luang Phor Inthawai is now very famous and has become a great Geiji Ajaan that many people respect. I think he should be known to those Singaporeans and Malaysians who like to follow monks of the Thammayut tradition. 
+
+  -----------------------------------------------
+
+    Mae Chee Kaew revealed that in one of her past lives she was born as a chicken who lived at the temple and was raised on the leftover rice collected on almsround. She was a ash-red colored chicken.
+  As a chicken, she managed to raise 7 offspring at a time, with 3 males and 4 females. Some of the offspring died before they hatched. Ya Koo Wat Baa Na Pern was the person who had metta offering rice and water to her. But still, raising 7 offspring was quite difficult.
+  As soon as the sun rose, she had to get off from her roost and start to bring her offspring to go around looking for food to eat. Whatever ants, bugs, termites or leftover scraps she could find to feed her offspring and make sure that they are full.
+  Some of her offspring were full fast and some were forever hungry. It was because some chicks were faster and stronger than the rest. When she found some food and starts clucking for them to come to eat, the stronger ones would get to the food first and finish them.
+  Thus the slow ones never got to eat and she would have to go and find more food for them to eat. Doing this all day made her very tired as she kept having to find food for the chicks to eat. But still, as a mother she had to endure to take care of her children.
+  Still, it was a miserable and difficult time because she felt exhausted and while she gave food to her children, she herself became thin. Her chicken body got aches all over. She didn't even have the time to lie on the ground to rest or roll around in the dust (dust bath) to keep cool and clean.
+  On the days Ya Koo remembered to throw out some rice for the chickens to eat, then she could take a breather and relax a little to recover her strength. But sometimes the temple people forgot and she had to go around scratching the ground and looking for food for herself and her kids.
+  Because of the suffering she had to go through while raising her chicks, she adithan-ed that by the merit of raising her children well, by the merit of rejoicing in the sound of Dhamma and chanting from the temple, may she not be troubled by child-rearing in her next life.
+  Mae Chee also told her disciples that it is important to recollect the cycle of birth and death because we will then be mindful and know the dangers of committing unwholesome deeds. Later on, because of the merit of listening to the chanting and the Dhamma, she was able to break free from rebirth as an animal.
+  Due to the presence of her old merit accumulated from previous lives, after she died as a chicken, she took rebirth as a adult/senior tewada in one of the heavens, before taking rebirth as a human in her current life.
+  Source: The Book "Lohk Nee Lohk Hai Dai, History of Patipada and Dhamma of Mae Chee Kaew Sianglum"
+  Cr. Amatatum
