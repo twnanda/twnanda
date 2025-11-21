@@ -92,18 +92,11 @@
 
 ------
 
-備註
-~~~~~~~~
-
-.. [mn003-1] 
-
-------
-
 - `蕭式球 譯 經藏 中部 Majjhimanikāya <{filename}majjhima-nikaaya-tr-by-siu-sk%zh.rst>`__
 
 - `巴利大藏經 經藏 中部 Majjhimanikāya <{filename}majjhima-nikaaya%zh.rst>`__
 
-- `經文選讀 <{filename}/articles/canon-selected/canon-selected%zh.rst>`__ 
+- `經文選讀 <{filename}/articles/canon-selected/canon-selected%zh.rst>`__
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 

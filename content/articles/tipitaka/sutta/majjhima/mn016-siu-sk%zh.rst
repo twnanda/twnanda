@@ -105,11 +105,7 @@
 備註
 ~~~~~~~~
 
-.. [mn016-1] 
-
-
-“欲定勤行神足(chanda-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)、精進定勤行神足(viriya-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)、心定勤行神足(citta-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)、觀定勤行神足(vīmaṁsa-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)” 稱為四神足，是取得 “神通” (iddhi)的四條 “途徑” (pāda)：通過 “願欲” (chanda)為基礎的 “定” (samādhi)，精勤(padhāna)修行(saṅkhāra)來取得 “神通” ，是欲定勤行神足，其餘三者同樣道理。
-
+.. [mn016-1] “欲定勤行神足(chanda-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)、精進定勤行神足(viriya-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)、心定勤行神足(citta-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)、觀定勤行神足(vīmaṁsa-samādhi-padhāna-saṅkhāra-samannāgata iddhi-pāda)” 稱為四神足，是取得 “神通” (iddhi)的四條 “途徑” (pāda)：通過 “願欲” (chanda)為基礎的 “定” (samādhi)，精勤(padhāna)修行(saṅkhāra)來取得 “神通” ，是欲定勤行神足，其餘三者同樣道理。
 
 .. [mn016-2] 這裏的十五支是指 “上進、四神足、捨棄五種內心障礙、善斷五種內心束縛” 十五種東西。
 

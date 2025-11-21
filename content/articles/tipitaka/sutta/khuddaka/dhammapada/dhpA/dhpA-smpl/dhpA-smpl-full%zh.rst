@@ -1452,7 +1452,7 @@ Kāḷayakkhinīvatthu
 
 ------
 
-（Nanda备注：另请参 Dhp. 291, 二十一、杂品、`2. 吃鸡蛋的女人的故事 <{filename}dhpA-chap21%zh.rst#dhp-291>`_ ）
+（Nanda备注：另请参 `Dhp. 291, 二十一、杂品、2. 吃鸡蛋的女人的故事 <{filename}dhpA-chap21%zh.rst#dhp-291>`_ ）
 
 ------
 

@@ -3,7 +3,7 @@
 ===================================================
 
 :date: 2021-09-20
-:modified: 2025-05-16
+:modified: 2025-05-17
 :author: 蕭式球
 :tags: 大會經, 蕭式球, 大集會經, 大三摩惹經, 別譯雜阿含105經, D20, Mahāsamayasuttaṃ, Mahāsamaya Sutta, DN 20, Dn20, dn20, dn 20, 巴利三藏長部
 :category: 巴利三藏長部
@@ -439,16 +439,16 @@
 
 ------
 
-- `大會經(大集會經， DN.20 Mahāsamayasuttaṃ) <{filename}dn20%zh.rst>`__
+- `大會經(大集會經， DN.20 Mahāsamayasuttaṃ) <{filename}dn20/dn20%zh.rst>`__
 
-- `蕭式球 譯 經藏 長部 Majjhimanikāya <{filename}../diigha-nikaaya-tr-by-siu-sk%zh>`__
+- `蕭式球 譯 經藏 長部 Majjhimanikāya <{filename}diigha-nikaaya-tr-by-siu-sk%zh>`__
 
-- `巴利大藏經 經藏 長部 Majjhimanikāya <{filename}../diigha-nikaaya%zh.rst>`__
+- `巴利大藏經 經藏 長部 Majjhimanikāya <{filename}diigha-nikaaya%zh.rst>`__
 
 - `經文選讀 <{filename}/articles/canon-selected/canon-selected%zh.rst>`__ 
 
 - `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 ..
-  2025-05-16 rev. old:  `【長部．二十．大會經】蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=536>`_  ( `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_   → 5.1.巴利文佛典選譯 → 5.1.1.長部 → 20 大會經)
+  2025-05-17, 16 rev. old:  `【長部．二十．大會經】蕭式球 <http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=536>`_  ( `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_   → 5.1.巴利文佛典選譯 → 5.1.1.長部 → 20 大會經)
   09-20 finish & post; 2021-09-14 create rst

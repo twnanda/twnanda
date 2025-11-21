@@ -2,7 +2,7 @@
 =============================================================
 
 :date: 2015-02-21
-:modified: 2016-11-15
+:modified: 2025-05-17
 :author: 蕭式球
 :tags: 大般湼槃經, 蕭式球, 大般涅槃經, 南傳大般涅槃經, 般涅槃大經, 遍涅槃大經, 大槃涅槃經, 遊行經, 佛般泥洹經, 般泥洹經, D16 Mahāparinibbānasuttaṃ, D16, Mahāparinibbāna sutta, DN 16, Dn16, dn16, dn 16, 巴利三藏長部
 :category: 巴利三藏長部
@@ -1531,18 +1531,22 @@
 
 ------
 
-- `大般涅槃經/長部16經/般涅槃大經 Mahāparinibbānasuttaṃ <{filename}dn16%zh.rst>`__
+- `大般涅槃經/長部16經/般涅槃大經 Mahāparinibbānasuttaṃ <{filename}dn16/dn16%zh.rst>`__
 
-- 大般涅槃經 Mahāparinibbānasuttaṃ `多譯本對讀(段層次) <{filename}contrast-reading-dn16%zh.rst>`__
+- 大般涅槃經 Mahāparinibbānasuttaṃ `多譯本對讀(段層次) <{filename}dn16/contrast-reading-dn16%zh.rst>`__
+
+- `蕭式球 譯 經藏 長部 Majjhimanikāya <{filename}diigha-nikaaya-tr-by-siu-sk%zh>`__
+
+- `巴利大藏經 經藏 長部 Majjhimanikāya <{filename}diigha-nikaaya%zh.rst>`__
 
 - `經文選讀 <{filename}/articles/canon-selected/canon-selected%zh.rst>`__ 
 
-- `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__ 
+- `Tipiṭaka 南傳大藏經; 巴利大藏經 <{filename}/articles/tipitaka/tipitaka%zh.rst>`__
 
 
 
 .. 
-  2025-05-16 del: oldurl http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16-SiuSK.html
+  2025-17, 05-16 rev. & del: oldurl http://myweb.ncku.edu.tw/~lsn46/Tipitaka/Sutta/Digha/dn.16-SiuSK.html
   原始出處： 【長部．十六．大般湼槃經】蕭式球 http://www.chilin.edu.hk/edu/report_section_detail.asp?section_id=59&id=359   ( `香港【志蓮淨苑】文化部--佛學園圃--5. 南傳佛教 http://www.chilin.edu.hk/edu/report_section.asp?section_id=5  → 5.1.巴利文佛典選譯 → 5.1.1.長部 → 16 大般湼槃經)
   ------
   11.15 add: 目錄 & anchor (第一誦, ..., ...)
