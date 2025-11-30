@@ -3,7 +3,7 @@
 ===================================
 
 :date: 2025-11-21
-:modified: 2025-11-21
+:modified: 2025-11-30
 :tags: 黃友棣音樂數位資料庫, 黃友棣, 黃友棣教授, 樂風泱泱, 大樂必易
 :category: 藝術-文化
 :summary: 樂風泱泱（黃友棣音樂數位資料庫）
@@ -27,6 +27,12 @@
 
 ------
 
+.. container:: magnificent-style-of-music
+
+  .. image:: https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/magnificent-style-of-music/magnificent-style-of-music-heading.gif
+     :alt: 樂風泱泱
+     :align: center
+
 - `生命歴程 <{filename}life-journey%zh.rst>`_
 - `樂教推手 <{filename}champion-of-music-education%zh.rst>`_
 - `作品綜述 <{filename}work-overview%zh.rst>`_
@@ -44,4 +50,5 @@
 - 3.) `音樂大師黃友棣教授與圓照寺 <http://www.yct.com.tw/990110.html>`__
 
 ..
+  11-30 rev. add icon and photo
   2025-11-21 post; 11-12 created rst
