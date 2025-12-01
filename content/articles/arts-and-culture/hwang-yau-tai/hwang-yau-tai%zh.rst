@@ -3,7 +3,7 @@
 =======================
 
 :date: 2025-11-21
-:modified: 2025-11-21
+:modified: 2025-12-01
 :tags: 黃友棣音樂數位資料庫, 黃友棣, 黃友棣教授, 樂風泱泱, 大樂必易
 :category: 藝術-文化
 :summary: 黃友棣音樂數位資料庫
@@ -41,7 +41,7 @@
 創作手稿
 ~~~~~~~~~~~
 
-- `樂譜 <{filename}creative-manuscript/music-papers%zh.rst>`_
+- `樂譜 <{filename}creative-manuscript/sheet-music%zh.rst>`_
 - `書信手札 <{filename}creative-manuscript/manu-scripts-list%zh.rst>`_
 - `作品解説 <{filename}creative-manuscript/works-description-list%zh.rst>`_ 
 
@@ -80,6 +80,7 @@
 
 
 ..
+  12-01 rev. replace music-papers%zh.rst with sheet-music%zh.rst
   2025-11-21 post; 11-08 created rst; start on 2025-11-07
   (建構中！)
   資料庫檢索	MusicWorksGuide.aspx
