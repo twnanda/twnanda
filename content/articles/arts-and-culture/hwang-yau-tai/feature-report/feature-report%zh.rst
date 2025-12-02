@@ -3,7 +3,7 @@
 ===============================================
 
 :date: 2025-11-21
-:modified: 2025-11-21
+:modified: 2025-12-02
 :tags: 黃友棣音樂數位資料庫, 黃友棣, 黃友棣教授, 樂風泱泱, 大樂必易
 :category: 藝術-文化
 :summary: 專題報導（黃友棣音樂數位資料庫）
@@ -27,9 +27,19 @@
 
 ------
 
+
+.. container:: feature-report
+
+  .. image:: https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/feature-report/feature-report-heading.gif
+     :alt: 專題報導
+     :align: center
+
+
 - `新聞採録 <{filename}news-brief-list%zh.rst>`_
 - `春風化雨薪火相傳 <{filename}torch-generation-to-generation%zh.rst>`_
 - `與音樂教育家相遇 <{filename}meeting-with-music-educators%zh.rst>`_
 
+
 ..
+  12-02 rev. add icon and photo
   2025-11-21 post; 11-12 created rst
