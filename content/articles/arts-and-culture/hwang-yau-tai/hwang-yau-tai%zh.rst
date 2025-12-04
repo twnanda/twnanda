@@ -3,7 +3,7 @@
 =======================
 
 :date: 2025-11-21
-:modified: 2025-12-01
+:modified: 2025-12-04
 :tags: 黃友棣音樂數位資料庫, 黃友棣, 黃友棣教授, 樂風泱泱, 大樂必易
 :category: 藝術-文化
 :summary: 黃友棣音樂數位資料庫
@@ -27,8 +27,12 @@
 
 ------
 
-樂風泱泱
-~~~~~~~~~~~
+.. _樂風泱泱:
+
+|pic1| **樂風泱泱**
+
+.. |pic1| image:: https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/magnificent-style-of-music/magnificent-style-of-music-heading.gif
+     :alt: 樂風泱泱
 
 - `生命歴程 <{filename}magnificent-style-of-music/life-journey%zh.rst>`_
 - `樂教推手 <{filename}magnificent-style-of-music/champion-of-music-education%zh.rst>`_
@@ -38,8 +42,14 @@
 
 ------
 
-創作手稿
-~~~~~~~~~~~
+.. _創作手稿:
+
+|pic2| **創作手稿**
+
+.. |pic2| image:: https://nanda.online-dhamma.net/Academia-and-Education/
+     Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/
+     creative-manuscript/creative-manuscript-caption.gif
+     :alt: 創作手稿
 
 - `樂譜 <{filename}creative-manuscript/sheet-music%zh.rst>`_
 - `書信手札 <{filename}creative-manuscript/manu-scripts-list%zh.rst>`_
@@ -47,8 +57,12 @@
 
 ------
 
-專題報導
-~~~~~~~~~~~
+.. _專題報導:
+
+|pic3| **專題報導**
+
+.. |pic3| image:: https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/feature-report/feature-report-heading.gif
+     :alt: 專題報導
 
 - `新聞採録 <{filename}feature-report/news-brief-list%zh.rst>`_
 - `春風化雨薪火相傳 <{filename}feature-report/torch-generation-to-generation%zh.rst>`_
@@ -56,8 +70,12 @@
 
 ------
 
-出版及相關著作
-~~~~~~~~~~~~~~~~~~
+.. _出版及相關著作:
+
+|pic4| **出版及相關著作**
+
+.. |pic4| image:: https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/publication-and-refs/publication-and-refs-heading.gif
+     :alt: 出版及相關著作
 
 - `樂教文集 <{filename}publication-and-refs/music-education-collection%zh.rst>`_
 - `音樂論著 <{filename}publication-and-refs/music-treatises%zh.rst>`_
@@ -80,6 +98,7 @@
 
 
 ..
+  12-04 add images of heading
   12-01 rev. replace music-papers%zh.rst with sheet-music%zh.rst
   2025-11-21 post; 11-08 created rst; start on 2025-11-07
   (建構中！)
