@@ -25,7 +25,7 @@
      - `相關網站連結 <{filename}related-website-links%zh.rst>`_
      - `留言版及其他 <{filename}bbs-etc/bbs-etc%zh.rst>`_
 
-------
+----
 
   |pic1| |pic3| |pic2|
 
@@ -39,14 +39,18 @@
           :alt: 音樂作品精選
           :align: middle
 
+
 .. list-table:: 音樂作品精選
    :widths: 20 80
 
-   * - .. image:: https://nanda.online-dhamma.net/Academia-and-Education/
-                  Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/
-                  magnificent-style-of-music/magnificent-style-of-music-photo.jpg
-           :width: 100%
-           :alt: magnificent-style-of-music-photo
+   * - 
+
+       .. raw:: html
+             
+                <img src="https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/magnificent-style-of-music/magnificent-style-of-music-photo.jpg" 
+                     alt="magnificent-style-of-music-photo" 
+                     width= 110
+                     height= 195;" />
 
        .. _音樂作品精選:
 
@@ -64,7 +68,9 @@
        	         合唱組曲”佳節頌”，以四章分別歌頌我國民間的四個節日－清明，端陽，中秋，新春．韋瀚章先生所作的詞句，恉用喜悅的心情作誠懇的祝頌，並不用感慨與牢騷，極能顯示出我國詩人溫柔敦厚的性格．作曲方面，我認為歌頌我國民間佳節的詩歌，該用我國民間的樂語；因此，我必須偏重使用調式的曲調與調式的和聲，並且要盡量使用民間的樂曲為襯托．我選出四首粵樂古調來配合這四章歌詞，有時用之為佈景材料，有時直接剪裁其曲調來應用，有時則採其片段，用作前奏或間奏．獨唱 ｜ 鋼琴伴奏
          - 電子譜: a0131.mus 下載檔案
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	         
        *  天主經 2004-12-20
        	        
@@ -78,7 +84,9 @@
        	         天主教宗教歌曲混聲四部合唱 ｜ 鋼琴伴奏
          - 電子譜: a0127.mus 下載檔案 https://web.archive.org/web/20090430095023/http://mim.khcc.gov.tw/hyl/do/empaper/a0127.mus
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  天馬翱翔 2004-12-20
        	        
@@ -92,7 +100,9 @@
        	         為三個樂章連續進行的奏鳴曲，後有尾聲，各章之間有間奏樂段相連接．樂曲內容是用神話題材來演繹姐妹的友愛深情．鋼琴獨奏
          - 電子譜: a0133.mus 下載檔案 https://web.archive.org/web/20090430193232/http://mim.khcc.gov.tw/hyl/do/empaper/a0133.mus
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  太極劍舞 2004-12-20
        	        
@@ -106,7 +116,9 @@
        	         這首極慢的舞曲，專為配合太極劍舞的韻律動作．曲譜之，上附加曲調，只為幫助舞步記憶．此舞的五十六式名稱，均註於槳譜上方；這些名稱，在不同地域，不同師傳，可能略有差別．如果不是配舞，此曲演奏速度，可以不用如所註速度之緩慢；因為音樂進行太慢，便失去動感了．鋼琴獨奏
          - 電子譜: a0134.mus 下載檔案 https://web.archive.org/web/20090430095534/http://mim.khcc.gov.tw/hyl/do/empaper/a0134.mus
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  有一嬰孩為我們誕生了 2004-12-20
        	        
@@ -120,8 +132,12 @@
        	         天主教宗教歌曲混聲二部合唱 ｜ 鋼琴伴奏
          - 電子譜: a0128.mus 下載檔案 https://web.archive.org/web/20090430095529/http://mim.khcc.gov.tw/hyl/do/empaper/a0128.mus
        	        
-       > --------------------------------------
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
 
        *  戒定真香 2004-12-20
        	        
@@ -135,7 +151,9 @@
        	         這首梵音曲調，甚具莊嚴肅穆的氣氛．用素歌的形式處理，表明這自由節奏的樂曲；其中加用裝飾樂段，以增抒情韻味．尾聲是三次反覆的朗誦佛號，是越奏越快的F phrygian 調式；因為強弱拍很顯，故劃分小節．鋼琴獨奏
          - 電子譜: a0135.mus 下載檔案 https://web.archive.org/web/20090430100740/http://mim.khcc.gov.tw/hyl/do/empaper/a0135.mus
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  夜怨 2004-12-20
        	        
@@ -149,7 +167,9 @@
        	         這首夜曲，在演奏前先以朗誦將詩中境界展示，然後開始豎笛的獨奏。當鋼琴奏主題之時，豎笛則用對位曲調與主題互相傾訴。鐵馬的叮咚聲響，喚起了殷切的思念之情，宛如波濤，漸趨澎湃。最後，無可奈何地，極力隱忍，仍歸乎靜。這種怨而不怒的氣質，足以刻劃出我國的昔日閨中婦女的賢淑品性。長笛獨奏 ｜ 朗誦 ｜ 鋼琴伴奏
          - 電子譜: a0137.mus 下載檔案 https://web.archive.org/web/20090430095024/http://mim.khcc.gov.tw/hyl/do/empaper/a0137.mus
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  清明(佳節頌) 2004-12-20
        	        
@@ -163,7 +183,9 @@
        	         合唱組曲”佳節頌”，以四章分別歌頌我國民間的四個節日－清明，端陽，中秋，新春．韋瀚章先生所作的詞句，恉用喜悅的心情作誠懇的祝頌，並不用感慨與牢騷，極能顯示出我國詩人溫柔敦厚的性格．作曲方面，我認為歌頌我國民間佳節的詩歌，該用我國民間的樂語；因此，我必須偏重使用調式的曲調與調式的和聲，並且要盡量使用民間的樂曲為襯托．我選出四首粵樂古調來配合這四章歌詞，有時用之為佈景材料，有時直接剪裁其曲調來應用，有時則採其片段，用作前奏或間奏．獨唱 ｜ 鋼琴伴奏
          - 電子譜: a0129.mus 下載檔案 https://web.archive.org/web/20090430101501/http://mim.khcc.gov.tw/hyl/do/empaper/a0129.mus
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  荷塘月色 2004-12-20
        	        
@@ -177,7 +199,9 @@
        	         這是東方色彩的夜曲，其結構為單純的三段體．前後段都是柔和的抒情歌，中間的一段插曲，則是活潑舞曲．鋼琴獨奏
          - 電子譜: a0138.mus 下載檔案 https://web.archive.org/web/20090430095057/http://mim.khcc.gov.tw/hyl/do/empaper/a0138.mus
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  聖母經 2004-12-20
        	        
@@ -191,7 +215,9 @@
        	         天主教宗教歌曲混聲二部合唱 ｜ 鋼琴伴奏
          - 電子譜: a0126.mus 下載檔案 https://web.archive.org/web/20090430095524/http://mim.khcc.gov.tw/hyl/do/empaper/a0126.mus
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  離恨（小提琴） 2004-12-20
        	        
@@ -205,7 +231,9 @@
        	         小提琴獨奏曲小提琴獨奏 ｜ 鋼琴伴奏
          - 電子譜: a0124.mus 下載檔案 https://web.archive.org/web/20090430095514/http://mim.khcc.gov.tw/hyl/do/empaper/a0124.mus
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  雙聲恨 2004-12-20
        	        
@@ -219,7 +247,9 @@
        	         小提琴獨奏曲小提琴獨奏 ｜ 鋼琴伴奏
          - 電子譜: a0125.mus 下載檔案 https://web.archive.org/web/20090430095519/http://mim.khcc.gov.tw/hyl/do/empaper/a0125.mus
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  九華垂跡（眾福之門） 2004-12-20
        *  三天路程兩天到（久客還鄉） 2004-12-20
@@ -234,7 +264,9 @@
        *  山神湧泉（眾福之門） 2004-12-20
        *  中秋怨 2004-12-20
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  五岳之歌（偉大的中華） 2004-12-20
        *  天山明月 2004-12-20
@@ -249,7 +281,9 @@
        *  月下歌舞（阿里飛翠） 2004-12-20
        *  月亮彎彎－康定民歌（家鄉組曲） 2004-12-20
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  木棉花之歌 2004-12-20
        *  父親節歌 2004-12-20
@@ -264,7 +298,9 @@
        *  四季花開（錦城花絮） 2004-12-20
        *  四海五湖之歌（偉大的中華） 2004-12-20
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  生日歌 2004-12-20
        *  田園音樂會 2004-12-20
@@ -279,7 +315,9 @@
        *  百花亭組曲II 2004-12-20
        *  百花亭組曲III 2004-12-20
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  何處不相逢 2004-12-20
        *  杜宇（鳴春組曲） 2004-12-20
@@ -294,7 +332,9 @@
        *  東北謠（長白銀輝） 2004-12-20
        *  東僧雲集（眾福之門） 2004-12-20
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  玫瑰花兒為誰開（合唱） 2004-12-20
        *  玫瑰花兒為誰開（器樂） 2004-12-20
@@ -309,7 +349,9 @@
        *  阿里山變奏曲 2004-12-20
        *  青天白日滿地紅（偉大的中華） 2004-12-20
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  青青草坪上 2004-12-20
        *  信士朝山（眾福之門） 2004-12-20
@@ -324,7 +366,9 @@
        *  秋花秋蝶 2004-12-20
        *  秋花秋蝶(鋼琴） 2004-12-20
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  紅綵妹妹（三美競秀） 2004-12-20
        *  美哉台灣 2004-12-20
@@ -339,7 +383,9 @@
        *  高山之春（阿里飛翠） 2004-12-20
        *  高雄晨光 2004-12-20
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  高雄晨光（合唱） 2004-12-20
        *  偉大的母親 2004-12-20
@@ -354,7 +400,9 @@
        *  望月（古黔花谿） 2004-12-20
        *  望故鄉（一剪梅） 2004-12-20
        	        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        	        
        *  眾福之門序歌 2004-12-20
        *  細問鳳－寄情（傜山春曉） 2004-12-20

@@ -25,7 +25,7 @@
      - `相關網站連結 <{filename}related-website-links%zh.rst>`_
      - `留言版及其他 <{filename}bbs-etc/bbs-etc%zh.rst>`_
 
-------
+----
 
   |pic1| |pic3| |pic2|
 
@@ -42,11 +42,14 @@
 .. list-table:: 音樂作品集
    :widths: 20 80
 
-   * - .. image:: https://nanda.online-dhamma.net/Academia-and-Education/
-                  Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/
-                  magnificent-style-of-music/magnificent-style-of-music-photo.jpg
-           :width: 100%
-           :alt: magnificent-style-of-music-photo
+   * - 
+
+       .. raw:: html
+             
+                <img src="https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/magnificent-style-of-music/magnificent-style-of-music-photo.jpg" 
+                     alt="magnificent-style-of-music-photo" 
+                     width= 110
+                     height= 195;" />
 
        .. _音樂作品集:
 
@@ -63,7 +66,9 @@
            「音的幻化」系列活動：與黃友棣大師對話－合唱百薈嘉年華。示範演唱團體：木棉花合唱團、台灣合唱團、鼓山區婦女合唱團、增德兒童合唱團、高雄市立文化中心兒童合唱團
          - 影音數位檔: v000040-0001 開始播放 WMV 檔案  https://web.archive.org/web/20090617014738/http://mim.khcc.gov.tw/hyl/do/video/cca100047-mu-v000040-0001-m.wmv  開始播放 RM 檔案 https://web.archive.org/web/20090617014738/http://mim.khcc.gov.tw/hyl/do/video/cca100047-mu-v000040-0001.rm
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  1998高雄市漢聲合唱團「中國藝術歌曲之夜」 1998-10-18
        
@@ -78,7 +83,9 @@
        
          - 備註
       
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  千佛山頌 不詳
        
@@ -96,7 +103,9 @@
          - 聲音數位檔: a000030-0001 開始播放 WMA 檔案  開始播放 RA 檔案  開始播放 MP3 檔案
          - 聲音數位檔: a000031-0001 開始播放 WMA 檔案 https://web.archive.org/web/20090617024927/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000031-0001.wma 開始播放 RA 檔案 https://web.archive.org/web/20090617024927/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000031-0001.ra 開始播放 MP3 檔案 https://web.archive.org/web/20090617024927/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000031-0001-m.mp3
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
 
        *  大地頌歌 2003-10-07
        
@@ -109,7 +118,9 @@
            佛教音樂涵薀優雅莊嚴的氣氛，深具潛移默化，與移風易俗的殊勝功能。近十年來，在有心人士的提倡推廣下，佛教聖歌的興起，如雨後春筍，朝氣蓬勃。其中，黃友棣教授及圓照寺住持敬定法師，便是不遺餘力；全心投入於佛教音樂的推廣普及，其盼能「以樂弘道」，宣揚佛理，廣行教化，力挽社會暑糜之氣，促進人與人之間的和諧無諍。以此「大地音緣」，巡禮一趟梵音之旅，品嚐「心靈法筵」
          - 聲音數位檔: a000005-0001 開始播放 WMA 檔案 https://web.archive.org/web/20090617014359/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000005-0001.wma  開始播放 RA 檔案 https://web.archive.org/web/20090617014359/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000005-0001.ra 開始播放 MP3 檔案 https://web.archive.org/web/20090617014359/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000005-0001-m.mp3
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  中國名曲（一）旅人的心 1990
        
@@ -122,7 +133,9 @@
            「問鶯燕」這首歌滿篇傷懷感人的回憶，惹人唏噓激發鄉愁：「桃花點點，鶯燕碧浪，佳麗姍姍，跨舟搖槳」，昔日情景使人嚮盻，如今景物全空，「輕問鶯燕，春光易老，故人難逢」。這發自年邁人內心深處的感嘆，何等泣然惆悵。以曾道雄的藝術造詣與生活歷練，恰恰能道出這種傷感、深沈與奈何的噓嘆，道出人間的溫情誠摯，描繪時事變遷的遺憾！
          - 聲音數位檔: a000022-0001 開始播放 WMA 檔案 https://web.archive.org/web/20090617022858/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000022-0001.wma 開始播放 RA 檔案 https://web.archive.org/web/20090617022858/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000022-0001.ra  開始播放 MP3 檔案 https://web.archive.org/web/20090617022858/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000022-0001-m.mp3
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  中國名曲（一）旅人的心 1990
        
@@ -135,7 +148,9 @@
            「中秋節」是中國人除了新年之外的另一個全家人團圓的日子。這首「桐淚滴中秋」是取用「中秋」作題材，以描繪遊子懷鄉思親為中心的歌曲。全曲以C小調寫成，大都是傷感的描述，尤其後半段的詞句引取自杜牧唐詩「泊秦淮」：「商女不知亡國恨，隔江猶唱後庭花」的詞句，很是讓人唏噓感嘆，即使國家民族處在苦難之中，仍有人醉生夢死，花天酒地，終日苟且偷安，全不關心國家民族的苦難。
          - 聲音數位檔: a000023-0001 開始播放 WMA 檔案 https://web.archive.org/web/20090617023837/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000023-0001.wma 開始播放 RA 檔案 https://web.archive.org/web/20090617023837/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000023-0001.ra 開始播放 MP3 檔案 https://web.archive.org/web/20090617023837/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000023-0001-m.mp3
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  中國名曲（二）大江東去 1990
        
@@ -149,7 +164,9 @@
          - 聲音數位檔: a000024-0001 開始播放 WMA 檔案 https://web.archive.org/web/20090617014708/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000024-0001.wma 開始播放 RA 檔案  開始播放 MP3 檔案
          - 聲音數位檔: a000025-0001 開始播放 WMA 檔案  開始播放 RA 檔案  開始播放 MP3 檔案 https://web.archive.org/web/20090617014708/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000025-0001-m.mp3
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  中國第一部歌頌「佛教聖者」的清唱劇－曹溪聖光演唱會 1998-06-10
        
@@ -162,7 +179,9 @@
            中國第一部歌頌「佛教聖者」的清唱劇－曹溪聖光演唱會
          - 影音數位檔: v000036-0001 開始播放 WMV 檔案 https://web.archive.org/web/20090617022541/http://mim.khcc.gov.tw/hyl/do/video/cca100047-mu-v000036-0001-m.wmv 開始播放 RM 檔案 https://web.archive.org/web/20090617022541/http://mim.khcc.gov.tw/hyl/do/video/cca100047-mu-v000036-0001.rm
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  友情、歌聲、快樂飛翔聯合演唱會 2002-06-20
        
@@ -175,7 +194,9 @@
            這次演唱會的主題為「友情‧歌聲‧快樂飛翔」，是希望望透過美妙的歌聲而與愛好合唱音樂的朋友結緣，期盼不論是高雄市、或來自台北，乃至國外的合唱團得以增進彼此情誼，讓大家徜徐在音樂園地裡，快樂飛翔於合唱天空中。
          - 聲音數位檔: a000019-0001 開始播放 WMA 檔案 https://web.archive.org/web/20090617022928/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000019-0001.wma 開始播放 RA 檔案 https://web.archive.org/web/20090617022928/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000019-0001.ra 開始播放 MP3 檔案 https://web.archive.org/web/20090617022928/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000019-0001-m.mp3
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  天韻禪音演唱會 1997-02-02
        
@@ -188,7 +209,9 @@
            高雄市安祥禪學會與安祥合唱團主辦，高雄、台南、屏東、基隆安祥合唱團、小精靈唱、小牧笛合奏團聯合演出。
          - 影音數位檔: v000010-0001 開始播放 WMV 檔案 https://web.archive.org/web/20090617022933/http://mim.khcc.gov.tw/hyl/do/video/cca100047-mu-v000010-0001-m.wmv 開始播放 RM 檔案 https://web.archive.org/web/20090617022933/http://mim.khcc.gov.tw/hyl/do/video/cca100047-mu-v000010-0001.rm
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  天韻禪音演唱會專輯 1997-02-02
        
@@ -201,7 +224,9 @@
            高雄市安祥禪學會與安祥合唱團主辦，高雄、台南、屏東、基隆安祥合唱團、小精靈唱、小牧笛合奏團聯合演出。
          - 聲音數位檔: a000002-0001 開始播放 WMA 檔案 https://web.archive.org/web/20090617024917/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000002-0001.wma 開始播放 RA 檔案 https://web.archive.org/web/20090617024917/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000002-0001.ra 開始播放 MP3 檔案 https://web.archive.org/web/20090617024917/http://mim.khcc.gov.tw/hyl/do/audio/cca100047-mu-a000002-0001-m.mp3
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  心之頌讚－高雄市漢聲合唱團演出 1996-05-19
        
@@ -214,7 +239,9 @@
            心之頌讚－高雄市漢聲合唱團演出
          - 影音數位檔: v000037-0001 開始播放 WMV 檔案 https://web.archive.org/web/20090617014422/http://mim.khcc.gov.tw/hyl/do/video/cca100047-mu-v000037-0001-m.wmv 開始播放 RM 檔案 https://web.archive.org/web/20090617014422/http://mim.khcc.gov.tw/hyl/do/video/cca100047-mu-v000037-0001.rm
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  台北縣教師合唱團2001年演唱會 2001
        *  台北縣教師合唱團2001年演唱會 2001
@@ -229,7 +256,9 @@
        *  台灣合唱團1999年演唱會-台灣鄉頌‧黃友棣教授作品發表拍攝帶2 1999-01-03
        *  台灣合唱團1999年演唱會-台灣鄉頌‧黃友棣教授作品發表拍攝帶2（上字幕）
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  台灣合唱團2000年演唱會-台灣鄉頌‧黃友棣教授作品發表拍攝帶1 2000-03-26
        *  台灣合唱團2000年演唱會-台灣鄉頌‧黃友棣教授作品發表拍攝帶2 2000-03-26
@@ -244,7 +273,9 @@
        *  台灣鄉頌－黃友棣作品演唱會（台灣合唱團2002年音樂會） 2002-05-18
        *  台灣鄉頌－黃友棣作品演唱會（台灣合唱團2003年音樂會） 2003-07-06
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  安祥之歌 不詳
        *  安祥之歌－禪曲合唱選輯（下卷） 1996
@@ -259,7 +290,9 @@
        *  幸福之歌演唱會～禪曲之美、希望之光～ 1997-12-28
        *  幸福之歌演唱會～禪曲之美、希望之光～ 1997-12-28
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  前輩足跡系列　黃友棣樂展－頌篇 1999-12-04
        *  流芳－黃友棣合唱作品專集 2000
@@ -274,7 +307,9 @@
        *  陳明律演唱黃友棣藝術歌曲 2002-01
        *  黃友棣合唱之夜「樂海無涯」 2000-11-18
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  黃友棣國際學術研討會（一） 2000-11-18
        *  黃友棣國際學術研討會（二） 2000-11-18
@@ -289,7 +324,9 @@
        *  黃友棣教授蒞臨鼓山婦女合唱團練唱會 2004-11-15
        *  黃友棣教授樂展（一） 1987-11-21
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  黃友棣教授樂展（二） 1987-11-21
        *  黃友棣教授樂展（三） 1987-11-21
@@ -304,7 +341,9 @@
        *  慈濟大愛台　慈濟心慈濟情（安祥心慈濟情演唱會） 1999-02-07
        *  新竹教區聖樂發表演唱會（上）（下） 2004-09-19
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        *  聖誕歌曲專輯 不詳
        *  輕笑－「中國經典歌曲」蔡敏女高音獨唱專集 2000
@@ -314,7 +353,9 @@
        *  點絳唇－中國藝術歌曲與民謠 2002
        *  藝術家vs.琵琶行‧台灣民謠 2002-03-10
        
-       > --------------------------------------
+       .. raw:: html
+          
+          <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
        
        佳節的祝福 (混聲四部合唱)，黃瑩.黃友棣；合唱曲譜本；菊8開；頁 數：80／裝 訂：平裝；ISBN：9789570342437；https://www.musiker.com.tw/MusicBook.asp?id=4578
        
