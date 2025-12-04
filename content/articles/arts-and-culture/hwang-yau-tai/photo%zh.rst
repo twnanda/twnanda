@@ -3,7 +3,7 @@
 ===================================================
 
 :date: 2025-11-21
-:modified: 2025-11-21
+:modified: 2025-12-04
 :tags: 黃友棣, 黃友棣教授, 黃友棣音樂數位資料庫, 樂風泱泱
 :category: 藝術-文化
 :summary: 影像寫真（樂風泱泱－－黃友棣音樂數位資料庫）
@@ -27,73 +27,103 @@
 
 ------
 
-影像寫真
-~~~~~~~~~~~~~
+  |pic1| |pic3| |pic2|
 
-（以下建構中）
+.. |pic1| image:: https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/magnificent-style-of-music/g-clef.gif
+   :width: 10%
 
-共 505  張相片
+.. |pic2| image:: https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/magnificent-style-of-music/dot.gif
+   :width: 2%
 
-黃友棣與友人合影
+.. |pic3| image::  https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/photo/photo-heading.gif
+          :alt: 影像寫真
+          :align: middle
 
-黃友棣與得獎者合影
+.. list-table:: 影像寫真
+   :widths: 20 80
 
-教導南胡
+   * - .. image:: https://nanda.online-dhamma.net/Academia-and-Education/
+                  Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/
+                  magnificent-style-of-music/magnificent-style-of-music-photo.jpg
+           :width: 100%
+           :alt: magnificent-style-of-music-photo
 
-黃友棣與李志衡合影
+       .. _影像寫真:
 
-黃友棣演唱
+     - **影像寫真** (共 505  張相片)
 
-黃友棣與韋瀚章等人合影
+       黃友棣與友人合影
+       
+       黃友棣與得獎者合影
+       
+       教導南胡
+       
+       黃友棣與李志衡合影
+       
+       黃友棣演唱
+       
+       黃友棣與韋瀚章等人合影
+       
+       李志衡與韋瀚章合影
+       
+       黃友棣與李志衡等人合影
+       
+       黃友棣先生獨照
+       
+       政工幹校畢業合影
+       
+       黃友棣演唱
+       
+       韋瀚章先生獨照
+       
+       黃友棣指導音樂會
+       
+       黃友棣排練音樂會指揮
+       
+       黃友棣樂韻飄香音樂會
+       
+       黃友棣指導合唱團
+       
+       黃友棣與合唱團合影
+       
+       黃友棣與學生合影
+       
+       黃友棣先生音樂會
+       
+       黃友棣先生指導合唱團成員
+       
+       蕾蒂合唱成立十週年慶
+       
+       安祥合唱團演唱
+       
+       黃友棣於安祥合唱團演唱會上致詞
+       
+       黃友棣接受安祥合團團員獻花
+       
+       黃友棣與安祥合唱團團員合影
+       
+       安祥合唱團團員合影
+       
+       安祥合唱團台北團團員專程南下高雄向黃友棣教授請益
+       
+       黃友棣參加高雄安祥合唱團成立週年慶祝茶會
+       
+       黃友棣於高雄安祥合唱團成立週年慶祝茶會上致詞
 
-李志衡與韋瀚章合影
+       黃友棣接受安祥合團團員獻花
 
-黃友棣與李志衡等人合影
+       黃友棣於安祥合唱團演唱會上致詞
 
-黃友棣先生獨照
+       黃友棣與安祥合唱團團員合影
 
-政工幹校畢業合影
+       安祥合唱團演唱
 
-黃友棣演唱
+       黃友棣與安祥合唱團團員合影
 
-韋瀚章先生獨照
+       安祥合唱團團員合影
 
-黃友棣指導音樂會
-
-黃友棣排練音樂會指揮
-
-黃友棣樂韻飄香音樂會
-
-黃友棣指導合唱團
-
-黃友棣與合唱團合影
-
-黃友棣與學生合影
-
-黃友棣先生音樂會
-
-黃友棣先生指導合唱團成員
-
-蕾蒂合唱成立十週年慶
-
-安祥合唱團演唱
-
-黃友棣於安祥合唱團演唱會上致詞
-
-黃友棣接受安祥合團團員獻花
-
-黃友棣與安祥合唱團團員合影
-
-安祥合唱團團員合影
-
-安祥合唱團台北團團員專程南下高雄向黃友棣教授請益
-
-黃友棣參加高雄安祥合唱團成立週年慶祝茶會
-
-黃友棣於高雄安祥合唱團成立週年慶祝茶會上致詞
-
-待補 ???
-
+       待補 ???
 
 ..
+  12-04 rev. add icon & photo
   2025-11-21 post; 11-12 created rst
