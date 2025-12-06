@@ -3,11 +3,18 @@
 =======================
 
 :date: 2025-11-21
-:modified: 2025-12-04
+:modified: 2025-12-06
 :tags: 黃友棣音樂數位資料庫, 黃友棣, 黃友棣教授, 樂風泱泱, 大樂必易
 :category: 藝術-文化
 :summary: 黃友棣音樂數位資料庫
 
+
+.. container:: homepage-photo-1
+
+  .. image:: https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/magnificent-style-of-music/homepage-photo-1.jpg
+     :alt: 黃友棣教授-1
+     :align: center
+     :width: 50%
 
 .. list-table:: 黃友棣音樂數位資料庫
    :widths: 33 33 33 
@@ -27,6 +34,13 @@
 
 ------
 
+.. container:: homepage-photo-2
+
+  .. image:: https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/magnificent-style-of-music/homepage-photo-2.jpg
+     :alt: 黃友棣教授-2
+     :align: center
+     :width: 50%
+
 .. _樂風泱泱:
 
 |pic1| **樂風泱泱**
@@ -41,6 +55,13 @@
 - `年表 <{filename}magnificent-style-of-music/chronology%zh.rst>`_
 
 ------
+
+.. container:: homepage-photo-3
+
+  .. image:: https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/magnificent-style-of-music/homepage-photo-3.JPG
+     :alt: 黃友棣教授-3
+     :align: center
+     :width: 50%
 
 .. _創作手稿:
 
@@ -57,6 +78,13 @@
 
 ------
 
+.. container:: homepage-photo-4
+
+  .. image:: https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/magnificent-style-of-music/homepage-photo-4.jpg
+     :alt: 黃友棣教授-4
+     :align: center
+     :width: 30%
+
 .. _專題報導:
 
 |pic3| **專題報導**
@@ -69,6 +97,13 @@
 - `與音樂教育家相遇 <{filename}feature-report/meeting-with-music-educators%zh.rst>`_
 
 ------
+
+.. container:: homepage-photo-5
+
+  .. image:: https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/magnificent-style-of-music/homepage-photo-5.jpg
+     :alt: 黃友棣教授-5
+     :align: center
+     :width: 50%
 
 .. _出版及相關著作:
 
@@ -98,6 +133,7 @@
 
 
 ..
+  12-06 add photos of homepage
   12-04 add images of heading
   12-01 rev. replace music-papers%zh.rst with sheet-music%zh.rst
   2025-11-21 post; 11-08 created rst; start on 2025-11-07
