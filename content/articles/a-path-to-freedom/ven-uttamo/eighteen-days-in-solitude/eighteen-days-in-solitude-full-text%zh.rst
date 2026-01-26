@@ -8,7 +8,7 @@ Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat (Full Text)
 :category: path of nirvana
 :summary: Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat (Full Text)
 
-revised on 2021-10-21
+revised on 2026-01-26
 
 ------
 
@@ -890,7 +890,7 @@ By Bhikkhu Uttamo
 
 -----
 
-revised on 2021-10-21
+revised on 2026-01-26
 
 ------
 

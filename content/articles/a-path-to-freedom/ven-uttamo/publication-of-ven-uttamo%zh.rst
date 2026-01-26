@@ -1329,7 +1329,7 @@ A Noble Search
 
 ------
 
-- `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
+- `PDF <http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/odt-pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-A4.pdf>`__ (For Print, Size: A4, 378 pages, 2026-01-26)
 
 - `Cover <https://github.com/tw-nanda/pdf-etc/blob/main/image/thae-inn-gu-ukkattha-and-candima-2.png>`__ of Bound volume of "Two Sides of A Coin" and "A Noble Search" (2022-08-23)
 
@@ -1389,7 +1389,7 @@ Right Samādhi and Right Insight
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2026-01-26 rev. & move files of 18days in solitude (odt and pdf) to another repository for reading directly
+  2026-01-26 rev. & move files of 18days in solitude and thae-inn-gu-ukkattha-and-candima-14pt-print-A4.pdf (odt and pdf) to another repository for reading directly
   04-17 add. reading pdf
   04-16 rev. proofread by bhante (04-08)
   2025-03-09 rev. proofread by bhante (03-03)

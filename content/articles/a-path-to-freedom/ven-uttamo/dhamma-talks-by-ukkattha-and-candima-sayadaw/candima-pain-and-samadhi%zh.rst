@@ -136,7 +136,7 @@ Here again we can see the wisdom of the Buddha, and he arranged the path factors
 
 ------
 
-revised on 2022-07-12
+revised on 2026-01-26
 
 ------
 

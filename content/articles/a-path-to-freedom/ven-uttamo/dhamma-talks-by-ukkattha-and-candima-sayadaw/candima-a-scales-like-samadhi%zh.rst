@@ -176,7 +176,7 @@ For the practice—with sukha vedanā (at the tip of the nostril) do the breathi
 
 ------
 
-revised on 2022-07-12
+revised on 2026-01-26
 
 ------
 
