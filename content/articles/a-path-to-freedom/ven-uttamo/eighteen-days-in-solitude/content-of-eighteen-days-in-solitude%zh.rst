@@ -3,7 +3,7 @@ Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
 ===============================================================================
 
 :date: 2019-11-13
-:modified: 2024-05-20
+:modified: 2026-01-26
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Bhikkhu Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Content of Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat
@@ -66,15 +66,11 @@ By **Venerable U Ādiccaramsī** ; The translator: **Bhikkhu Uttamo**
 
 - `About the Translator <{filename}eighteen-days-in-solitude-about-the-translator%zh.rst>`_ (`MP3 <http://nanda.online-dhamma.net/18days-Uttamo/mp3/eighteen-days-in-solitude-about-the-translator.mp3>`__ 1'09", `Youtube <https://www.youtube.com/watch?v=cekfluyXGzY&list=PLgpGmPf7fzNaawwd8HeAbc4VizPNhnDwn&index=20>`__ )
 
-- full text: 
+- `Full Text <http://nanda.online-dhamma.net/18days-Uttamo/odt-pdf/Eighteen-Days-In-Solitude-full-text-green.pdf>`__ (PDF, background in green, 2026-01-26)
 
-  * `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text.pdf>`__ (PDF, 2021-07-29); 
+- For Print, Size: A5, `general <http://nanda.online-dhamma.net/18days-Uttamo/odt-pdf/Eighteen-Days-In-Solitude-full-text-12pt-print-A5.pdf>`__ (12 pt, 163 pages, 2026-01-26) 
 
-  * `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-green.pdf>`__ (PDF, background in green, 2021-07-29)
-
-  * For Print, Size: A5, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-12pt-print-A5.pdf>`__ (12 pt, 145 pages, 2021-07-29) 
-
-  * For Print, Size: A5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print-A5.pdf>`__ (14 pt, 185 pages, 2021-07-29) 
+- For Print, Size: A5, `large font <http://nanda.online-dhamma.net/18days-Uttamo/odt-pdf/Eighteen-Days-In-Solitude-full-text-14pt-print-A5.pdf>`__ (14 pt, 213 pages, 2026-01-26)
 
     **Note:** There are one (1) page which is colourful for print: Page 4 (1) (U Ādiccaramsī's photography, Introduction)
 
@@ -89,6 +85,7 @@ By **Venerable U Ādiccaramsī** ; The translator: **Bhikkhu Uttamo**
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2026-01-26 rev. & move files of 18days in solitude (odt and pdf) to another repository for reading directly
   2024-05-20 rev. move to identical repo (replace {static}/extra/authors/bhante-uttamo/audiobook/18days/ with http://nanda.online-dhamma.net/18days-Uttamo/mp3/)
   2023-08-08 rev. replace filename with static to match "gramma"
   05-05 add linkings of all the MP3 files & Youtube

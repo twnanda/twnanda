@@ -3,7 +3,7 @@ A Scales Like Samādhi [Dhamma Talks by Sayadaw U Candima (Sandima)
 =====================================================================
 
 :date: 2022-02-13
-:modified: 2022-07-12
+:modified: 2026-01-26
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Scales Like Samādhi (Dhamma Talks by Sayadaw U Candima)
@@ -22,7 +22,7 @@ Here is not to attain the Dhamma with this method (i.e., Nibbāna). Now we’re 
 
 Whichever postures you’re in or keeping it, this khandha will be cruel to you. Because of its cruelty, khandha becomes dukkha and the mind suffers and is tired. Every time with practice you’ll encounter it. When walking, can you walk for a long time in a focused manner? Even though it’s not good for samādhi because of its movements, but it’s good for supporting it (according to the forest monks, walking samādhi is more stable than sitting. Some monks did a lot of walking than sitting, e.g., Ajahn Mun himself.) Walking meditation is supporting one’s own kammaṭṭhāna to has strength. During walking meditation, no-one becomes ariya (a noble being). Because if the yogi enters into one-pointed samādhi (ekaggatā samādhi), he has to stop from walking. 
 
-If indriya-saṁvara sīla is in equilibrium (restraint of the sensory faculty), the yogi has to stoop from walking. It’s easy to say that with the four postures (i.e., sitting, standing, walking and lying down) attaining Dhamma. But nobody said, as not attaining the Dhamma with the four postures. There are two ways of walking—after attaining jhāna samādhi and to support samādhi (as mentioned above). Later, yogis will know all of them. For having a stable samādhi before attaining it, the mind with sati has to stick on the primary object (here ānāpāna) outside the sittings. 
+If indriya-saṁvara sīla is in equilibrium (restraint of the sensory faculty), the yogi has to stop from walking. It’s easy to say that with the four postures (i.e., sitting, standing, walking and lying down) attaining Dhamma. But nobody said, as not attaining the Dhamma with the four postures. There are two ways of walking—after attaining jhāna samādhi and to support samādhi (as mentioned above). Later, yogis will know all of them. For having a stable samādhi before attaining it, the mind with sati has to stick on the primary object (here ānāpāna) outside the sittings. 
 
 To support this point, walking meditation is good. As I had explained on the first day, if you attain jhāna directly with sitting posture, it is freed from dukkha vedanā and no need for walking. This is attaining jhāna with sitting posture. Walking meditation is supporting samādhi, but if you’re a vipassanā-yānika maybe you can attain it or with the four elements meditation (i.e., not sure). But you can’t attain it with taruṇa-vipassanā—i.e., weak basic insight stage. Yogis also need to understand these things. I’ll explain all of them for why?
 
@@ -191,6 +191,7 @@ revised on 2022-07-12
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2026-01-26 rev. replace stoop with stop (@the yogi has to stop from walking.)
   07-12 rev. proofread by bhante (bhante finished on 2022-06-06, sent @ post office 06-10, received and scan 06-15; type finished 06-22, proofreading finished and sent on 07-11)
   04-28 post; 04-27 rev: 2nd proofread by bhante
   04-22 add: tag--Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw

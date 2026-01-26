@@ -3,7 +3,7 @@ Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat (Full Text)
 ===============================================================================
 
 :date: 2019-01-13
-:modified: 2021-10-21
+:modified: 2026-01-26
 :tags: Eighteen Days in Solitude, Instructional Dhamma Talks in Retreat, Ven. Uttamo, Bhikkhu Uttamo, Dhmma Talks, Venerable U Ādiccaramsī
 :category: path of nirvana
 :summary: Eighteen Days in Solitude-- Instructional Dhamma Talks in Retreat (Full Text)
@@ -217,7 +217,7 @@ What happen in the surroundings? People are thinking and planning in many differ
 [He gave another incident in China. A man put pesticides for rats in to the foods of a shop closed to his own shop with jealousy and killing some of the students because this shop attracted more students than his. Later he was arrested and put to death. This tragedy came from envy and selfishness (issā and macchariya) which the Buddha answered to Sakka (the God King) as the fetters led beings in hostility, violence, rivalry and ill will.]
 ) 
 
-Hatred dhamma exists among people. And human lives are never in safety. (For example, nowadays terrorism at many parts of Middle East, some African countries, etc.) All these sufferings and problems are made by human beings. So, we need for practice to be with sati in daily life. (The above mentioned things were not only sati, but also including clearly comprehending – Sampajāna. See sati / sampajāna in the Satipaṭṭhāna Sutta.) 
+Hatred dhamma exists among people. And human lives are never in safety. (For example, nowadays terrorism at many parts of Middle East, some African countries, etc.) All these sufferings and problems are made by human beings. So, we need for practice to be with sati in daily life. (The above mentioned things were not only sati, but also including clearly comprehending – Sampajañña. See sati / Sampajañña in the Satipaṭṭhāna Sutta.) 
 
 Clocks are invented for having sati. The clocks are reminding us. Usually I get up at 3:30 a.m. For this I made ready for the alarm. But today the clock is not making sound. This monk is also out of sati. Today I was arriving there late and lay people were waiting for the toilets. A lack of mindfulness and inconvenience happened. Therefore the inconveniences and deaths are the cause of heedlessness. There is no realization if you can’t overcome it. You can’t arrive to the destination if you don’t practice with care. You can’t work with careless. You come here and practice for the sake of path and fruit. You become a person having sati in everything if you work hard for seven days. Every morning I come here for talk is reminding you. It needs to accept it. If not, even with the giving and attain nothing. 
 
@@ -905,6 +905,7 @@ revised on 2021-10-21
 **According to the translator— Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2026-01-26 rev. replace Sampajāna with Sampajañña
   2023-08-08 rev. replace filename with static to match "gramma"
   10-21 rev. replace 「Ven. Uttamo Thero （尊者 鄔達摩 長老）」 with 「Bhikkhu Uttamo（鄔達摩 比丘）」; proofread by bhante
   2021-07-29 rev. introduction, day 4, 5, 8, 12, 13, 15, 16, 18; add: about-the-translator

@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2025-04-17
+:modified: 2026-01-26
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -1123,15 +1123,11 @@ the translator : Bhikkhu Uttamo (鄔達摩  比丘）
         
 ------
 
-- full text: 
+- `Full Text <http://nanda.online-dhamma.net/18days-Uttamo/odt-pdf/Eighteen-Days-In-Solitude-full-text-green.pdf>`__ (PDF, background in green, 2026-01-26)
 
-  * `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text.pdf>`__ (PDF, 2021-10-21); 
+- For Print, Size: A5, `general <http://nanda.online-dhamma.net/18days-Uttamo/odt-pdf/Eighteen-Days-In-Solitude-full-text-12pt-print-A5.pdf>`__ (12 pt, 163 pages, 2026-01-26) 
 
-  * `Full Text <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-green.pdf>`__ (PDF, background in green, 2021-10-21)
-
-  * For Print, Size: A5, `general <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-12pt-print-A5.pdf>`__ (12 pt, 145 pages, 2021-10-21) 
-
-  * For Print, Size: A5, `large font <https://github.com/twnanda/doc-pdf-etc/blob/master/pdf/Eighteen-Days-In-Solitude-full-text-14pt-print-A5.pdf>`__ (14 pt, 185 pages, 2021-10-21) 
+- For Print, Size: A5, `large font <http://nanda.online-dhamma.net/18days-Uttamo/odt-pdf/Eighteen-Days-In-Solitude-full-text-14pt-print-A5.pdf>`__ (14 pt, 213 pages, 2026-01-26)
 
     **Note:** There are one (1) page which is colourful for print: Page 4 (1) (U Ādiccaramsī's photography, Introduction)
 
@@ -1393,6 +1389,7 @@ Right Samādhi and Right Insight
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2026-01-26 rev. & move files of 18days in solitude (odt and pdf) to another repository for reading directly
   04-17 add. reading pdf
   04-16 rev. proofread by bhante (04-08)
   2025-03-09 rev. proofread by bhante (03-03)
