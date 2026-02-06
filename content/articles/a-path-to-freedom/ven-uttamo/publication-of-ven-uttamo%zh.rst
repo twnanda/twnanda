@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2026-01-26
+:modified: 2026-02-06
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -20,6 +20,12 @@ Publications of Bhikkhu Uttamo
 - `A Noble Search`_ (Dhamma Talks by Sayadaw U Candima)
 
 - `Right Samādhi and Right Insight`_ (Dhamma Talks by Sayadaw U Candima)
+
+------
+
+- `Seeing Is Believing <{filename}dhamma-talks-by-nyanabhasa-sayadaw/content-of-dhamma-talks-by-nyanabhasa-sayadaw%zh.rst>`_ -- Dhamma Talks by Sayadaw U Nyanabhasa
+- `Step by Step <{filename}dhamma-talks-by-jotika-sayadaw/content-of-dhamma-talks-by-jotika-sayadaw%zh.rst>`_ -- Dhamma Talks by Sayadaw Jotika
+- `With an Open Mind <{filename}dhamma-talks-by-jhaneyya-sayadaw/content-of-dhamma-talks-by-jhaneyya-sayadaw%zh.rst>`_ -- Dhamma Talks by Sayadaw Jhaneyya
 
 ------
 
@@ -1389,6 +1395,7 @@ Right Samādhi and Right Insight
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  02-06 add: Seeing Is Believing, Step by Step, With an Open Mind
   2026-01-26 rev. & move files of 18days in solitude and thae-inn-gu-ukkattha-and-candima-14pt-print-A4.pdf (odt and pdf) to another repository for reading directly
   04-17 add. reading pdf
   04-16 rev. proofread by bhante (04-08)
