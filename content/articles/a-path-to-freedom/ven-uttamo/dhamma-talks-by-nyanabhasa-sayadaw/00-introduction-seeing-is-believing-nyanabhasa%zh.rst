@@ -2,16 +2,14 @@
 Introduction (Seeing Is Believing-- Dhamma Talks by Sayadaw U Nyanabhasa)
 ============================================================================
 
-:date: 2026-02-06
-:modified: 2026-02-06
+:date: 2026-02-08
+:modified: 2026-02-08
 :tags: publication, Bhikkhu Uttamo, Sayadaw U Ñāṇabhāsa, Sayadaw U Nyanabhasa, Ñāṇabhāsa, Seeing Is Believing
 :category: path of nirvana
 :summary: Introduction (Seeing Is Believing-- Dhamma Talks by Sayadaw U Nyanabhasa)
 
 
 The following translations are instructional Dhamma talks on practice by three Burmese teachers. I do not know much about their personal lives. These Dhamma talks were offered to me by Upāsikā Daw Lay Thwe of New Zealand, including Dhamma talks by Mogok Sayadawgyi. Therefore, I am able to share the Dhamma with others.
-
-Recently, on the BBC News, I heard some good news: the billionaire Bill Gates donated his 200 billion dollars to charity, especially for medical research and other causes. Only intelligent and wise people use their lives to benefit the human race.
 
 I give the title to Sayadaw U Ñāṇabhāsa as “Seeing Is Believing,” because the talk is about the yogi’s experiences in practice. This is not meant in the worldly sense of viewpoint and experience. Seeing the Dhamma is seeing with a purified mind; such seeing will never deceive the yogi. With the ordinary five senses and an impure mind, however, seeing can deceive us. For example, when we see a hill from a distance, it may appear to be a mountain, but when we come closer, it turns out to be quite different.
 
@@ -110,6 +108,7 @@ Appamāda dhamma expresses the essence of life.
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  02-08 del: gates
   2026-02-06; 01-26 create rst
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 
