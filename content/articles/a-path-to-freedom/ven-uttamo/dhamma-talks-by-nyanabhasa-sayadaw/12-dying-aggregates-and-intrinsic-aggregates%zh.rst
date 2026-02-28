@@ -3,7 +3,7 @@ Dying Aggregates and Intrinsic Aggregates (Seeing Is Believing)
 ==================================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-02-28
 :tags: publication, Bhikkhu Uttamo, Sayadaw U Ñāṇabhāsa, Sayadaw U Nyanabhasa, Ñāṇabhāsa, Seeing Is Believing
 :category: path of nirvana
 :summary: Dying Aggregates and Intrinsic Aggregates (Seeing Is Believing-- Dhamma Talks by Sayadaw U Nyanabhasa)
@@ -87,13 +87,13 @@ These points were mentioned by the Buddha to Prince Bodhirājakumāra (Majjhima 
 
 If one cannot yet discern anicca, one should re-establish samādhi by re-noting the in-breath and out-breath. Sayadawgyi also emphasised this point repeatedly.
 
-Not seeing anicca directly by oneself, but merely knowing about it from teachers, is called anubodha-ñāṇa—knowledge derived from another. Paṭivedha-ñāṇa means knowing the aggregates directly through penetration and practice. Only with a Buddha has arisen we know about this knowledge. If one understands these points correctly, becoming a stream-enterer is not difficult.
+Not seeing anicca directly by oneself, but merely knowing about it from teachers, is called anubodha-ñāṇa—knowledge derived from another. Paṭivedha-ñāṇa means knowing the aggregates directly through penetration and practice. Only through the the appearance of a Buddha into the world can we come to know such wisdom. If one understands these points correctly, becoming a stream-enterer is not difficult.
 
 There is still time to emphasise an important principle: the newly arising aggregate did not exist before. After it arises, it does not continue to exist. Therefore, the aggregate is nothing other than arising and passing away.
 
 Emptiness (Suññatā), Intrinsic Nature (Sabhāva), and Reflection on Cessation
 
-Therefore, there is no being (misatta), no living entity (nijjīva), and no soul.
+Therefore, there is no being (nisatta), no living entity (nijjīva), and no soul.
 
 The suññatā-khandha is void of a person or a being, whereas the sabhāva-khandha possesses an intrinsic nature. It exists in accordance with causes, and when those causes cease, it no longer exists. The yogi must observe the aggregate as both existing and not existing—that is, as a process of rise and fall.
 
@@ -142,4 +142,5 @@ Mogok Sayadaw stated that cintā-maya ñāṇa is helpful in preventing defileme
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  02-28 rev. proofread by bhante
   2026-02-06; 02-04 create rst

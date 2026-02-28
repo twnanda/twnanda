@@ -3,7 +3,7 @@ Intrinsic Nature of Emptiness (Seeing Is Believing)
 ======================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-02-28
 :tags: publication, Bhikkhu Uttamo, Sayadaw U Ñāṇabhāsa, Sayadaw U Nyanabhasa, Ñāṇabhāsa, Seeing Is Believing
 :category: path of nirvana
 :summary: Intrinsic Nature of Emptiness (Seeing Is Believing-- Dhamma Talks by Sayadaw U Nyanabhasa)
@@ -59,7 +59,7 @@ We must examine the entire process. For example, a sensation arises instantaneou
 
 In the same way, whatever phenomenon arises within the aggregates (khandha) has the nature of perishing. This was stated by the Buddha. Most yogis discern suññatā in objects, but still cling to wrong view in relation to the knowing mind (ñāṇa). They think, “I contemplate it, so I see it, and I know it—there is an observer.” This is sakkāya-diṭṭhi clinging to the knowing mind, and such a yogi will not realise Dhamma quickly; or realisation will take a long time. This point is supported by evidence in the suttas.
 
-Mogok Sayadaw instructs yogis as follows: Observe mind and body with ñāṇa. This makes sense for practice: it means there is no person and no being in mind, body, or knowledge. Therefore, yogis should not include a person or a being in either the object or in ñāṇa.
+Mogok Sayadaw instructs yogis as follows: **Observe mind and body with ñāṇa**. This makes sense for practice: it means there is no person and no being in mind, body, or knowledge. Therefore, yogis should not include a person or a being in either the object or in ñāṇa.
 
 Only those who can discern anicca in all objects and in the knowing mind will realise Dhamma quickly.
 
@@ -102,4 +102,5 @@ With further contemplation, this knowledge matures into the knowledge of seeing 
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  02-28 rev. proofread by bhante
   2026-02-06; 02-04 create rst

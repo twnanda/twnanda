@@ -3,7 +3,7 @@ The Three Seclusions and the Process of Inconstancy (Seeing Is Believing)
 ============================================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-02-28
 :tags: publication, Bhikkhu Uttamo, Sayadaw U Ñāṇabhāsa, Sayadaw U Nyanabhasa, Ñāṇabhāsa, Seeing Is Believing
 :category: path of nirvana
 :summary: The Three Seclusions and the Process of Inconstancy (Seeing Is Believing-- Dhamma Talks by Sayadaw U Nyanabhasa)
@@ -43,13 +43,13 @@ A person holding the eternalist view (sassata-diṭṭhi) does not dare to commi
 
 A person holding the annihilationist view (uccheda-diṭṭhi), if required to act, does not care about the future results of existence. If such a person turns toward the Dhamma, he may even give up his life for the practice leading to Nibbāna. In this situation, he has no clinging to other things. Therefore, even people of very poor moral background can realize the Dhamma.
 
-(In the following Sayadaw talks on the causes of non-realization). It is emphasized that without giving up sensual pleasures and without a teacher to guide the practice, realization cannot be attained. This may lead one onto the wrong path. Practicing in a relaxed manner—without persistent effort and without sufficient strength in practice—does not lead to realization.
+**(In the following Sayadaw talks on the causes of non-realization). It is emphasized** that **without giving up sensual pleasures** and **without a teacher to guide** the practice, realization cannot be attained. This may lead one onto the wrong path. **Practicing in a relaxed manner—without persistent effort** and **without sufficient strength in practice** —does not lead to realization.
 
 When a person grows old, both mind and body weaken, and the practice becomes difficult to sustain. If one is unable to overcome these limitations, one may have to abandon the practice, especially when the aging body can no longer follow it. With old age, sickness inevitably arises. Therefore, one must practice diligently while still capable. However, many people become complacent as death approaches.
 
 Mogok Sayadaw urged his disciples to practice quickly; otherwise, sickness and death would overtake them.
 
-Those who are strongly attached to wrong views, and who cannot abandon or change those views, cannot realize the Dhamma. Only at the stage of arahantship it is completely right. Even a stream-enterer is not right yet because he could only abandon eight inversions out of twelve. As long as defilements (kilesa) remain, complete rightness has not yet been achieved. Still will follow behind defilements. (OR The mind will still arise in accordance with defilements. It will become completely right only when all defilements come to an end.
+Those who are **strongly attached to wrong views**, and who cannot abandon or change those views, cannot realize the Dhamma. Only at the stage of arahantship it is completely right. Even a stream-enterer is not right yet because he could only abandon eight of the twelve inversions (vipallāsa). As long as defilements (kilesa) remain, complete rightness has not yet been achieved. The mind will still arise in accordance with defilements. It will become completely right only when all defilements come to an end.
 
 Practical Advice Given by the Sayadaw
 
@@ -137,4 +137,5 @@ If the practice fits into this process, it will succeed. With much discernment, 
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  02-28 rev. proofread by bhante
   2026-02-06; 02-04 create rst

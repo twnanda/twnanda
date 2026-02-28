@@ -3,7 +3,7 @@ Talk One: Sitting Meditation — On Ānāpāna Samādhi (Step by Step)
 ========================================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-02-28
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jotika, Sayadaw U Jotika, Step by Step
 :category: path of nirvana
 :summary: Talk One: Sitting Meditation — On Ānāpāna Samādhi (Step by Step-- Dhamma Talks by Sayadaw U Jotika)
@@ -25,7 +25,7 @@ Breath meditation (ānāpāna) is letting the mind stay with a faultless object.
 
 These unwholesome dhammas are burning people, yet they are still looking for faulty objects. Ānāpāna is not searching for an object to contemplate; instead, it exists all the time. It is a faultless object that has the nature of peacefulness. Therefore, by practising ānāpāna, the mind becomes peaceful and cool.
 
-We have to prepare our minds before the practice. This is the way of noble beings (cariyas). By uplifting the mind, joy arises. Stimulating the mind so that it has the desire to practise—these are important points. Now, let us start the practice.
+We have to prepare our minds before the practice. This is the way of noble beings (ariyas). By uplifting the mind, joy arises. Stimulating the mind so that it has the desire to practise—these are important points. Now, let us start the practice.
 
 Do not breathe artificially, either the in-breath or the out-breath, and do not use force in breathing. Breathe in a normal, natural way. The only extra task is to keep sati at the entrance of the nostrils. Some people breathe forcefully. I do not say that this is wrong, but yogis then need strong effort, and the body must be strong and healthy. Otherwise, within a short period, one becomes tired and falls apart. Do not tense the mind; let it relax.
 
@@ -68,6 +68,7 @@ Many of Ajahn Mun’s disciples use a “Buddho” mantra in their daily practic
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  02-28 rev. proofread by bhante
   2026-02-06; 01-28 create rst
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 

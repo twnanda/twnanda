@@ -3,7 +3,7 @@ On the Five Hindrances
 ========================================================
 
 :date: 2024-03-27
-:modified: 2024-06-09
+:modified: 2026-02-28
 :tags: Dhamma, Dhamma Talks by Mogok Sayadaw, Ven. Mogok Sayadaw, Ven. Uttamo, Dhamma Talks
 :category: path of nirvana
 :summary: On the Five Hindrances (Dhamma Talks by Mogok Sayadaw-- Emptiness, Conditioned, and Unconditioned.)
@@ -26,7 +26,7 @@ Sloth and torpor (thīna-middha) has two kinds— related to lobha and dosa. Con
 
 [(Sayadaw talked about how difficult it was to become a Buddha and that only after becoming a Buddha could he teach the Dhamma.) There are misconceptions about Buddhas and bodhisattas among some Buddhists. Buddha and bodhisatta are not God or avatars, which are the concepts of Hinduism. Otherwise, Buddhism becomes a saṁsāric-vāda— sassata-vāda.] Sloth and torpor forbid the path and fruit (i.e., the "wanting to sleep" mind and sleeping mind (i.e., bhavaṅga mind) are making the Sāsana disappear. Consorting with sloth and torpor is associated with fools.
 
-Asevanā ca bālanam— Not consorting with fools, if you associate with dhammas leading to apāyas (hells, animals, ghosts existences), you’ll arrive there!
+Asevanā ca bālanam— Not consorting with fools, if you associate with unwholesome dhammas leading to apāyas (hells, animals, ghosts existences), you’ll arrive there!
 
 (This serious warning is very important for today's humans because there are many problems and sufferings in many sectors of society up to international levels).
 
@@ -63,5 +63,6 @@ revised on 2024-06-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2026-02-28 rev. proofread by bhante; old: with dhammas (Asevanā ca bālanam—)
   06-09 rev. proofread by bhante Uttamo
   2024-03-27 create rst

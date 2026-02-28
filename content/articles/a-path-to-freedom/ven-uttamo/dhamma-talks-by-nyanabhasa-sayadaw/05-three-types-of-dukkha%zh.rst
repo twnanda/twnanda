@@ -3,7 +3,7 @@ Three Types of Dukkha (Seeing Is Believing)
 ==============================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-02-28
 :tags: publication, Bhikkhu Uttamo, Sayadaw U Ñāṇabhāsa, Sayadaw U Nyanabhasa, Ñāṇabhāsa, Seeing Is Believing
 :category: path of nirvana
 :summary: Three Types of Dukkha (Seeing Is Believing-- Dhamma Talks by Sayadaw U Nyanabhasa)
@@ -13,7 +13,7 @@ By listening to Dhamma talks, one gains the truth-knowledge (sacca-ñāṇa). Wh
 
 The wanderer Jambukhādaka approached and questioned Sāriputta about the truth of suffering (dukkha-sacca). There are three types of suffering, and only by understanding them is a yogi able to practice correctly. These are:
 
-    1. Dukkha-dukkhatā
+1. Dukkha-dukkhatā
 
 Suffering due to pain—painful bodily and mental feeling. Unpleasant feelings (dukkha-vedanā) such as numbness, aches, and pains are called dukkha-dukkhatā. This type of suffering is known to everyone; even animals know it. Through this knowledge alone, one cannot realize the Dhamma. Only through understanding the second and third types of suffering can dukkha-sacca be realized.
 
@@ -39,7 +39,7 @@ Therefore, one must clearly understand the distinction between the body-aggregat
 
 Beyond these, there are innumerable forms of suffering arising each second within one’s life. These are the arising khandhas. 
 
-Conventional Death and Insightful Death
+**Conventional Death and Insightful Death**
 
 Death is only one event in a single lifetime-- conventional death (sammuti-maraṇa) which is known by everyone. Insightful death (vipassanā-maraṇa), however, is not known by everyone. This is momentary death (khaṇika-maraṇa), which is known through penetrating insight. Contemplation of conventional death is beneficial for development because it leads to a sense of urgency (saṃvega).
 
@@ -72,4 +72,5 @@ The ultimate phenomena (paramattha-dhamma) arise and perish, this is its nature.
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  02-28 rev. proofread by bhante
   2026-02-06; 02-04 create rst

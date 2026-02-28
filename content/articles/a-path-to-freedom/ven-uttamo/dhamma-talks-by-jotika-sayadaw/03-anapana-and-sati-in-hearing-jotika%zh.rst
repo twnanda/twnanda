@@ -3,7 +3,7 @@ Talk Three: Ānāpāna and Sati in Hearing (Step by Step)
 ============================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-02-28
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jotika, Sayadaw U Jotika, Step by Step
 :category: path of nirvana
 :summary: Talk Three: Ānāpāna and Sati in Hearing (Step by Step-- Dhamma Talks by Sayadaw U Jotika)
@@ -25,7 +25,7 @@ Sayadawgyi often instructed practitioners to practise ānāpāna for fifteen or 
 
 Even for those who have already discerned anicca at the beginning of sitting, samādhi must still be established. 
 
-This is a general principle at other times but not at near death, there is no need to do samādhi, because there is no time for it. (In many suttas when the Buddha visited sick or dying monks he always taught them vipassanā.) (?? OR In many scriptures, when the Buddha visited monks who were ill or dying, he always taught them vipassanā (insight meditation). ??)  At times of good health and in ordinary circumstances, however, people should calm the mind and purify it from the hindrances.
+This is a general principle at other times but not at near death, there is no need to do samādhi, because there is no time for it. (In many scriptures, when the Buddha visited monks who were ill or dying, he always taught them vipassanā (insight meditation). At times of good health and in ordinary circumstances, however, people should calm the mind and purify it from the hindrances.
 
 It is like a knife: after sharpening it, one can cut things. Even if one has already discerned phenomena before, after re-establishing samādhi one can discern more clearly than before. If the mind moves away, pull it back to the object. If you bind a wild bull to a post, at first it will struggle, but after some time it will calm down. In the same way, with unshakable resolution and effort, sati becomes stable and the mind calms down; thus sati and viriya develop into samādhi.
 
@@ -123,6 +123,7 @@ When hearing arises, note it until it stops, and after it stops, return to the i
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  02-28 rev. proofread by bhante
   2026-02-06; 01-28 create rst
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 

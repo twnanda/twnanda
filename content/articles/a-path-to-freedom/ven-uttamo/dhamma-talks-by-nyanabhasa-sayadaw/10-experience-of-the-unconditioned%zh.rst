@@ -3,7 +3,7 @@ Experience of the Unconditioned (Seeing Is Believing)
 ========================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-02-28
 :tags: publication, Bhikkhu Uttamo, Sayadaw U Ñāṇabhāsa, Sayadaw U Nyanabhasa, Ñāṇabhāsa, Seeing Is Believing
 :category: path of nirvana
 :summary: Experience of the Unconditioned (Seeing Is Believing-- Dhamma Talks by Sayadaw U Nyanabhasa)
@@ -17,13 +17,13 @@ King Milinda asked Venerable Nāgasena about the experience of Nibbāna. At firs
 
 The yogi must take great care: he must know precisely every arising and vanishing phenomenon. Other mind states must not be allowed to enter the mind. As the contemplative mind becomes closer to Nibbāna, it later arrives together with the cessation of rise and fall. I will analyse the process of cessation, because it is very important. In the Buddha’s teachings, this is the highest and most profound Dhamma.
 
-Some say the mind depends on the brain; this is not entirely correct. It exists as depending on the blood of the heart. This is not entirely correct. Consider the story of a young monk who was eaten by a tiger. When the element of consciousness (viññāṇa-dhātu) arrived at the heart area, it came to cessation. When there is trembling or fear, the heart beats faster; strong emotions have the same effect.
+Some say the mind depends on the brain; this is not entirely correct. It exists as depending on the blood of the heart. Consider the story of a young monk who was eaten by a tiger. When the element of consciousness (viññāṇa-dhātu) arrived at the heart area, it came to cessation. When there is trembling or fear, the heart beats faster; strong emotions have the same effect.
 
 Roots, Light of Knowledge, and the Disappearance of the Body
 
 Depending on the state of mind, the heart blood changes. There are six roots of consciousness, and one must understand them. When the root of greed—wanting, affection, liking, and attachment—arises, the heart blood becomes bright red. The colour depends on the state of mind.
 
-The root of hatred is unhappiness, (??) sadness, disappointment, aversion, irritation, and related states. When this root arises, the blood of the heart becomes murky. The root of delusion is nodding, doubt, confusion, and indecisiveness; when it arises, the blood of the heart becomes reddish. These three are the unwholesome roots.
+The root of hatred is sadness, disappointment, aversion, irritation, and related states. When this root arises, the blood of the heart becomes murky. The root of delusion is nodding, doubt, confusion, and indecisiveness; when it arises, the blood of the heart becomes reddish. These three are the unwholesome roots.
 
 Let us now continue with the three wholesome roots. The root of non-greed is giving, generosity, and sharing; when this root is present, the blood of the heart emits a colourful brightness. The root of non-hatred is goodwill, kindness, and friendliness; then the blood emits a clear white colour.
 
@@ -175,4 +175,5 @@ This is related to the absence of defilements (kilesas), which otherwise emit sm
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  02-28 rev. proofread by bhante
   2026-02-06; 02-04 create rst

@@ -3,7 +3,7 @@ Talk Two: Sitting Meditation and Consuming Food (Step by Step)
 =================================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-02-28
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jotika, Sayadaw U Jotika, Step by Step
 :category: path of nirvana
 :summary: Talk Two: Sitting Meditation and Consuming Food (Step by Step-- Dhamma Talks by Sayadaw U Jotika)
@@ -14,7 +14,7 @@ Before starting the main practice, one has to carry out some preliminary work (p
 |     1. Ask for forgiveness from the Triple Gem (Buddha, Dhamma, and Saṅgha), as well as from parents and teachers (from beginningless saṁsāra up to the present). This helps protect samādhi from disturbances.
 |     2. Offer the body to the Triple Gem and to one’s teachers. This reduces excessive concern for the body and prevents disturbances. During sitting meditation, too much concern about the body and frequent changing of posture make it difficult to see khandha-dukkha.
 |     3. Spread goodwill (mettā) to the surroundings and to all beings, for protection and for the sharing of merits. (See the story of the Mettā Sutta, Suttanipāta, Uragavagga, Sutta No. 8.)
-|     4. Request meditation instruction from the Buddha or from one’s teachers. With conceit, even if one can discern anicca, one cannot see Nibbāna; thus conceit itself can be a hindrance, for example, Venerable Anuruddha. Making request from the Buddha (in front of the statue) or teachers remind yogis to practise with respect. (?? OR Making requests before a Buddha statue or a spiritual teacher serves as a reminder for yogis to practise with reverence. ??)
+|     4. Request meditation instruction from the Buddha or from one’s teachers. With conceit, even if one can discern anicca, one cannot see Nibbāna; thus conceit itself can be a hindrance, for example, Venerable Anuruddha. Making requests before a Buddha statue or a spiritual teacher serves as a reminder for yogis to practise with reverence.
 | 
 
 With parikamma, the mind gains a sense of security, especially in quiet places (for example, deep forests, Dtaw Dum Forest is a good example.) In this way, the mind is not overly concerned with the body and can move straight towards Nibbāna.
@@ -23,7 +23,7 @@ Therefore, this duty or preparatory work should be done by every yogi. Practisin
 
 Mindfulness (sati) is very important for discerning latent defilements (see some examples given by U Sun Lwin in his talks). Indeed, we can say that the beginning of the Dhamma is mindfulness.
 
-Among the forty meditation objects, ānāpāna is the best. Kasiṇa objects (usually prepared as visual disks) require preparation. Asubha (corpse) meditation can be too demanding. (I once met a Western monk who practised in Sri Lanka with corpses in a cave where human bodies were disposed of; he even took some colour photographs of them.) Ānāpāna, however, can be practised anywhere and acquires more time rather than special conditions. (?? OR However, Anapanasati meditation can be practiced anywhere; what it requires is more time rather than special conditions. OR Anapanasati meditation, however, can be practiced anywhere; what is needed is more time rather than special conditions. ??)
+Among the forty meditation objects, ānāpāna is the best. Kasiṇa objects (usually prepared as visual disks) require preparation. Asubha (corpse) meditation can be too demanding. (I once met a Western monk who practised in Sri Lanka with corpses in a cave where human bodies were disposed of; he even took some colour photographs of them.) Ānāpāna, however, can be practised anywhere and acquires more time rather than special conditions. (Without special conditions, yogi gets more time for the practice.)
 
 Some people think that ānāpāna meditation is only related to the Buddha, the agga-sāvakas, and the mahā-sāvakas.
 
@@ -50,7 +50,7 @@ How can something precious be achieved easily? You have to try many times—this
 
 Many people do not know the nature of breathing from birth until death. To die without sati is delusion—moha or avijjā—which leads to saṅkhāra. Practise ānāpāna with effort in the four postures: sitting, walking, standing, and lying down. Train continuously until you are able to do it naturally.
 
-Some people find it easier in studies and good memories due to concentration power. (?? OR Some people find it easier in studies and good memories due to their strong ability to concentrate.  OR Some people excel in their studies and possess excellent memory due to their strong ability to concentrate. ??) This is the power of sati and samādhi. In the Mahāsi system, the mind is concentrated at the abdomen; in the Saya Thet system at the middle of the head. (This is not for samādhi but for vipassanā cotemplation after samādhi has been established through ānāpāna.) Although the objects may differ—abdomen, middle of the head, and so on—they all occur within oneself and are known directly, not through thinking. Seeing them in the present moment and knowing them as they are is ñāṇa (knowledge). All of these are contemplations of the four great elements.
+Some people find it easier in studies and good memories due to their strong ability to concentrate. This is the power of sati and samādhi. In the Mahāsi system, the mind is concentrated at the abdomen; in the Saya Thet system at the middle of the head. (This is not for samādhi but for vipassanā cotemplation after samādhi has been established through ānāpāna.) Although the objects may differ—abdomen, middle of the head, and so on—they all occur within oneself and are known directly, not through thinking. Seeing them in the present moment and knowing them as they are is ñāṇa (knowledge). All of these are contemplations of the four great elements.
 
 The benefits of ānāpāna are as follows:
 
@@ -108,6 +108,7 @@ These are the main contemplations related to eating. They must be practised repe
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  02-28 rev. proofread by bhante
   2026-02-06; 01-28 create rst
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 

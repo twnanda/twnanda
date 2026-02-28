@@ -3,13 +3,13 @@ The Nature of the Unborn (Seeing Is Believing)
 =================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-02-28
 :tags: publication, Bhikkhu Uttamo, Sayadaw U Ñāṇabhāsa, Sayadaw U Nyanabhasa, Ñāṇabhāsa, Seeing Is Believing
 :category: path of nirvana
 :summary: The Nature of the Unborn (Seeing Is Believing-- Dhamma Talks by Sayadaw U Nyanabhasa)
 
 
-The Saṅgāthāvagga, the book of verses in the Saṃyutta Nikāya, contains the Buddha’s teachings. Some people take Nibbāna—the Unborn—to be a golden city, a paradise, or a place that exists somewhere. Even the Buddha was still alive, people had doubts with it.
+The Sagāthāvagga, the book of verses in the Saṃyutta Nikāya, contains the Buddha’s teachings. Some people take Nibbāna—the Unborn—to be a golden city, a paradise, or a place that exists somewhere. Even the Buddha was still alive, people had doubts with it.
 
 A devatā from the Tāvatiṃsa Heaven once came to the Buddha and asked the question: “Where does Nibbāna exist?” (This was the devatā Rohitassa.)
 
@@ -122,4 +122,5 @@ Therefore, it is difficult to know the UNBORN.
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  02-28 rev. proofread by bhante
   2026-02-06; 02-04 create rst
