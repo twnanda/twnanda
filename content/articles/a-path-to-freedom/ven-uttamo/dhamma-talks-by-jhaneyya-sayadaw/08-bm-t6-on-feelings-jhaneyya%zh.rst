@@ -3,14 +3,14 @@ On Feelings (With an Open Mind)
 ==================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-03-01
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jhaneyya, Sayadaw U Jhaneyya, With an Open Mind
 :category: path of nirvana
 :summary: On Feelings (T 6, Burma) (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
 
 
 
-On Feelings (T 6, Burma)
+Dhamma Talk 6: On Feelings
 
 We must use meditation objects that are suitable to our individual characters.
 
@@ -30,15 +30,15 @@ Do not miss any arising phenomenon. All phenomena—pleasant or unpleasant—are
 
 Both of these approaches must be abandoned.
 
+------
+
 How to Contemplate Feeling
 
 How should feeling be contemplated? One must contemplate in order to know its nature. This is the nature of feeling: it is not a person, not a being.
 
 A yogi once asked me about a statement found in a Dhamma book:
 
-“If one contemplates pain merely as ‘painful, painful’ (by noting), and dies with that perception of mind may fall into painful states of existence (apāya-bhūmi).”
-
-So how, then, should feeling be contemplated?
+“If one contemplates pain merely as ‘painful, painful’ (by noting), and dies with that perception of mind may fall into painful states of existence (apāya-bhūmi).” So how, then, should feeling be contemplated?
 
 If there is no listening to Dhamma talks and no understanding of Dhamma, a person who is near death—oppressed by disease—may cling to the concept “my body is painful.” This becomes improper attention, rooted in wrong view (diṭṭhi) and craving (taṇhā). At that time, the person experiences bodily and mental pain and, if dying in such a state, may fall into the lower realms (apāya).
 
@@ -46,18 +46,21 @@ In correct contemplation, one does not attend to the body or body parts, but att
 
 If a dying person can separate the mind from the body, they can endure pain and die peacefully. (See Sayadaw U Candimā’s Bhavaṅga Meditation.) According to Mogok Sayadaw, if a yogi discerns impermanence (anicca), painful feeling is no longer experienced as pain.
 
-Some people criticise blindly without practising themselves. Mahāsi Sayadaw explained this matter clearly in many ways in his books. In the early stage of practice, when samādhi is weak, pain appears together with the body, and with better samādhi, the location of pain is not distinct. As samādhi improves, the painful nature and the knowing nature become distinct to the yogi.
+Some people criticise blindly without practising themselves. Mahāsi Sayadaw explained this matter clearly in many ways in his books. In the early stages of practice, when samadhi is still weak, pain manifests through the body; as samadhi strengthens, the location of the pain becomes less distinct. As samādhi improves, the painful nature and the knowing nature become distinct to the yogi.
 
 At that stage, concepts and bodily form dissolve at the level of feeling, and the mind rests on the nature of feeling itself. When this happens, wrong view (diṭṭhi) falls away.
 
 There are three ways of contemplating feeling (such as pain):
 
-|     1. Direct, face-to-face contemplation: One does not avoid pain but centres on it through contemplation. Even though it makes one become tired, one can realise Dhamma quickly. Following pain with mindfulness, happiness will arise. [As in Ajahn Mahā Bua’s experience, he was able to sit for an entire night until morning without moving.]
-|     2. The ambush method. 
-|     3. Contemplation with samādhi strength.
-| 
+    1. Direct, face-to-face contemplation: One does not avoid pain but centres on it through contemplation. Even though it makes one become tired, one can realise Dhamma quickly. Following pain with mindfulness, happiness will arise. [As in Ajahn Mahā Bua’s experience, he was able to sit for an entire night until morning without moving.]
+
+    2. The ambush method. 
+
+    3. Contemplation with samādhi strength.
 
 Note: The above three ways of contemplation are taught by Mahāsi meditation teachers.
+
+------
 
 Contemplating Pain: Endurance, Strategy, and Skill
 
@@ -73,8 +76,9 @@ The yogi should note these objects quickly and with intensity, while still knowi
 
 (Here, I refer readers to Sayadaw U Candimā’s instructions on ānāpāna samādhi, which are similar to the method described above. See my translation, A Noble Search.)
 
-One should not speculate about the level of insight one has attained. May be one can conquer pain if it not may still transform into pleasant feeling. (Because every thing of beginning has its ending.)
+One should not speculate about the level of insight one has attained. Perhaps one can conquer suffering; if not, it may still transform into a sense of joy. (For everything that has a beginning must also have an end.)
 
+------
 
 Pleasant Feeling, Equanimity, and Progress in Insight
 
@@ -82,16 +86,21 @@ If pain changes into pleasant feeling (sukha), the yogi must also note it and sh
 
 It is suitable to practice with samādhi strength method—especially for elderly practitioners—the yogi should contemplate the primary objects of sitting practice: touching and knowing, or rising and falling of the abdomen. As samādhi develops, pain decreases. At that point, one should return to noting pain again. With the strength of samādhi, insight knowledge develops more slowly, the realisation of Dhamma takes longer time.
 
+------
+
 Three Ways of Contemplating Feeling
 
 (From the Sakkapañha Sutta, Dīgha Nikāya, Sutta No. 21)
 
-|     1. Contemplate painful feeling by enduring it—it was like prying out a thorn with another thorn in the foot.
-|     2. Contemplate pleasant feeling as suffering, because every pleasant feeling exists between two painful states.
-|     3. Contemplate neutral feeling as impermanent and unstable.
-| 
+    1. Contemplate painful feeling by enduring it—it was like prying out a thorn with another thorn in the foot.
+
+    2. Contemplate pleasant feeling as suffering, because every pleasant feeling exists between two painful states.
+
+    3. Contemplate neutral feeling as impermanent and unstable.
 
 Yogis should not delight in sensual pleasures, as this wastes precious time and can lead to the lower realms (apāyas). Laypeople, in particular, should reflect deeply on this. However, yogis may experience pleasant, painful, or neutral feelings in relation to practice, and this does not lead to apāyas. By contemplating these vedanās, especially during or near death, one can even realise Dhamma at death or in the next life (see Sotānugata Sutta, sutta no. 191, Book of Fours, Aṅguttara Nikāya, AN 4.191).
+
+------
 
 Insight Knowledge and Happiness
 
@@ -103,7 +112,8 @@ Do not assume that only happiness indicates progress in Dhamma. The arising of p
 
 (This can be seen clearly in U Sun Lwin’s experience, described in Eighteen Days in Solitude.)
 
-  
+------
+
 Elevating the Faculties and Contemplating Feeling
 
 At this stage, yogis must strengthen the faculties (indriya)—especially faith, mindfulness, and effort. By doing so, they can attain higher insight knowledge. One should contemplate pleasant feeling (sukha-vedanā) as suffering, and incline the mind toward discerning rise and fall as suffering, knowing it as changing dukkha (vipariṇāma-dukkha).
@@ -119,6 +129,8 @@ If neutral feeling is not clearly known, it turns into delusion.
 When a yogi can discern impermanence (anicca) through contemplation, lobha, dosa, and moha do not arise, and the process of dependent arising (paṭicca-samuppāda) is cut off. 
 
 (Understanding dependent arising—both as a process and as a teaching—is therefore extremely important for one’s practice. Hence, one should study and reflect on Mogok Sayadaw’s Dhamma talks.)
+
+------
 
 Insight Contemplation and Sabhāva-Lakkhaṇa
 
@@ -143,6 +155,7 @@ If one knows the arising of a phenomenon and also knows its vanishing, and conte
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-01 rev. proofread by bhante
   2026-02-06 create rst
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 

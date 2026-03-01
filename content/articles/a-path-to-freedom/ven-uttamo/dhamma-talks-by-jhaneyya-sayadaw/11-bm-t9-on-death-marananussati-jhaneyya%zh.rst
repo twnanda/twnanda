@@ -3,14 +3,14 @@ On Death (Maraṇānussati) (T 9, Burma) (With an Open Mind)
 =============================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-03-01
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jhaneyya, Sayadaw U Jhaneyya, With an Open Mind
 :category: path of nirvana
 :summary: On Death (Maraṇānussati) (T 9, Burma) (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
 
 
 
-On Death (Maraṇānussati) (T 9, Burma)
+Dhamma Talk 9: On Death (Maraṇānussati)
 
 (Based on the story of the weaver girl)
 
@@ -20,6 +20,8 @@ Among the four protective meditations, recollection of death is the one closest 
 
 This urgency prevents the wasting of time and naturally inclines the mind toward insight practice. The Dhamma of the Buddha is not meant merely for intellectual understanding; it must be put into practice. The story of the weaver girl clearly supports this point.
 
+------
+
 The Fruits of Recollection of Death
 
 This meditation develops the roots of non-greed, non-anger, and non-delusion, supporting a person in becoming firmly established in the three wholesome roots (tihetuka). It is also closely related to heedfulness (appamāda). Through this practice, one develops clear perception of impermanence, unsatisfactoriness, and non-self with regard to all persons and beings, and strengthens discernment of anicca, dukkha, and anattā as they manifest in both mind and body reality (paramattha-dhamma).
@@ -28,19 +30,26 @@ The weaver girl received the Buddha’s teaching on death and practiced accordin
 
 This story is truly remarkable and offers profound material for reflection and contemplation. Eventually, the weaver girl died accidentally at the hands of her father. Overcome with sorrow and lamentation, her father went to see the Buddha for consolation. After listening to the Buddha’s teaching, he ordained as a monk and, not long afterward, attained arahantship. Through the connection with recollection of death, both father and daughter realized the Dhamma and brought dukkha to an end.
 
+------
+
 Dhammapada Verse 174
 
-| Blind are the people of this world; only a few see clearly.
-| Just as only a few birds escape from a net, only a few go to the heaven (or to Nibbāna).
-| 
+Blind are the people of this world; only a few see clearly.
 
-Reflection: Some Reflections on Death and Dying
+Just as only a few birds escape from a net, only a few go to the heaven (or to Nibbāna).
+
+------
+
+
+Reflection: on Death and Dying
 
 All living beings fear death, especially human beings. They seek many ways to protect their lives. Yet, despite their fear of pain and death, humans often inflict suffering on others, including animals, sometimes in extremely cruel and unthinkable ways (for example, the use of animal furs). Even worse, human beings inflict such harm upon their own species.
 
 These realities are clearly visible in the twenty-first century, extending even to the international level. Wars and conflicts are more frequent than before, and violence has become increasingly bloody and extreme. (This reflects the profound dominance of ignorance, greed, and hatred in the human mind when death is neither understood nor contemplated wisely.)
 
-Reflection: Reflections on Fear, Violence, and Recollection of Death
+------
+
+Reflection: on Fear, Violence, and Recollection of Death
 
 It is quite striking to observe that ordinary people, who themselves fear pain and death, often take great enjoyment or taste (rasa) in violence, as can be seen in various forms of media such as films and other entertainment. Such responses reveal a lack of love and compassion for those who suffer. This reflects an untrained mind, which naturally inclines toward unwholesome objects and activities.
 
@@ -50,9 +59,11 @@ To support this contemplation, one should study relevant canonical and commentar
 
 If we have opportunities to observe and reflect on aging, sickness, and dying, these can become powerful supports for insight. Documentary films addressing these themes may also be beneficial. Direct observation of autopsies, where appropriate, can be valuable not only for asubha-bhāvanā but also for deepening reflection on death itself. Such experiences can arouse strong saṃvega and reveal the essentially insubstantial nature of the physical body, which is so often misused as a basis for sensual pleasure, leading to the waste of our precious human life in foolish and unskillful pursuits.
 
-All of the phenomena discussed above help turn the mind toward goodwill, love, and compassion for our fellow human beings, because we all share the same fundamental difficulties and sufferings. These reflections also remind us not to squander our time, but to engage in actions that are genuinely beneficial—for ourselves and for others—actions whose results will accompany us into the future.
+All of the phenomena discussed above help turn the mind toward goodwill, love, and compassion for our fellow human beings, because we all share the same fundamental difficulties and sufferings. These reflections also remind us not to squander our time, but to engage in actions that are genuinely beneficial—for ourselves and for others—actions which results will accompany us into the future.
 
 This human world is a rare and precious field of opportunity: a place to cultivate goodness, develop wisdom, and ultimately transcend dukkha.
+
+------
 
 Reflection: Guests
 
@@ -72,6 +83,8 @@ Therefore, as human beings living on this earth, we are entrusted with a duty, a
 
 We should always remember that we are merely guests, and use this reflection as a basis for wise contemplation and practice.
 
+------
+
 The Second Type of Guests: Feelings (Vedanā)
 
 The second type of guests are feelings (vedanā). In many respects, they are even more influential than external guests such as other living beings. This is because our reactions to the external world are largely centered on feelings. These guests are constantly coming and going within the khandha guesthouse.
@@ -82,11 +95,15 @@ Human beings easily become lost in pleasant feelings, react strongly against pai
 
 Pleasant feeling provides a certain gratification (assāda), but it also carries great danger (ādīnava). The gratification is small and short-lived, while the suffering that follows is substantial. For example, eating food, earning money, cooking, eating again, and cleaning up afterward—each activity offers brief enjoyment, yet is surrounded by effort, dissatisfaction, and repetition. The pleasure exists only between two dangers.
 
-Pleasant, painful, and neutral feelings work together to trap and torture those who become lost in them. A classic simile illustrates this clearly: a fish sees the bait (neutral feeling), the desire to eat arises (pleasant feeling), and being caught and killed by the fisherman follows (painful feeling).
+Pleasant, painful, and neutral feelings work together to trap and torture those who become lost in them. A classic simile illustrates this clearly:
+
+a fish sees the bait (neutral feeling), the desire to eat arises (pleasant feeling), and being caught and killed by the fisherman follows (painful feeling).
 
 In the same way, feelings exert powerful effects not only on individual human beings but also on the wider world. From environmental destruction and pollution to climate change, wars, and conflicts, we can see how unwise reactions to feelings collectively generate immense suffering.
 
 Thus, feelings truly behave like guests—they arrive, stay briefly, and depart. If we mistake them for something permanent or worthy of clinging to, we become their victims. If, however, we learn to observe them with mindfulness and wisdom, without attachment or aversion, they lose their power to dominate the mind.
+
+------
 
 The Third Type of Guests: Defilements (Kilesa)
 
@@ -119,6 +136,7 @@ With defilements, however, mere understanding is not sufficient. We must activel
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-01 rev. proofread by bhante
   2026-02-06 create rst
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 

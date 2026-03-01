@@ -3,7 +3,7 @@ Why Should We Cultivate Insight? (With an Open Mind-- Dhamma Talks by Sayadaw Jh
 ==========================================================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-03-01
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jhaneyya, Sayadaw U Jhaneyya, With an Open Mind
 :category: path of nirvana
 :summary: Why Should We Cultivate Insight? (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
@@ -62,7 +62,7 @@ Yogis can be obstructed by wrong views in their practice. This can happen in man
 
 Therefore, in Mahāsi Sayadaw’s Dhamma verse: “Do not be concerned for the body and life to be treated cruelly.”
 
-Note: No one dies in practice; only the body shows its cruelty through change (vipariṇāma). Yogis also have to show their cruelty to the kilesas. U Sun Lwin (Ven. Ādiccaramsī) also mentioned a Dhamma quotation in U Ba Khin’s place as follows: “Don’t be concerned about it; the concerning mind will be slanted and overturned.”
+Note: No one dies in practice; only the body shows its cruelty through change (vipariṇāma). Yogis also have to show their cruelty to the kilesas. U Sun Lwin (Ven. Ādiccaramsī) also mentioned a Dhamma quotation in U Ba Khin’s place as follows: “Don’t be concerned about it; with the concerning mind, it (the bowl of oil) will be slanted and overturned. 
 
 He already had a great deal of Dhamma knowledge at that time and was familiar with Mogok Dhamma, so he emphasized the importance of ñāta-pariññā. At that time, external disturbances were able to come in and destroy the practice (that is, worldly dhammas and unseen beings).
 
@@ -76,7 +76,10 @@ Vipassanā insight is the practice of knowing oneself.
 
 Only Dhamma education can make humans free from problems and suffering. Otherwise, the human realm declines toward hell, animal, and ghost realms. These also become their future destinations.)
 
-Reflection: Do mind and body have the same value?
+------
+
+Dhamma Reflection: Do mind and body have the same value?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Today, I and my kappiya (lay attendants) were talking about a water-heating machine and complaining about the low quality of most modern products. These products do not last long and are easily damaged. Today, humans are more centred on money than on quality, including the quality of themselves. In the past, businesspeople talked about quality rather than quantity; today, it is the opposite.
 
@@ -86,7 +89,9 @@ In the Khuddakapāṭha Pāli, there is a very important sutta for every human b
 
 The Buddha himself used these similes in the sutta. Our physical bodies are like clay pots. The merits referred to here are dāna, sīla, samādhi, and paññā, which correspond to the four gold pots. This also relates to Dhammapada verse 183:
 
-“The non-doing of all evil, the cultivation of what is wholesome, the cleansing of one’s own mind— this is the teaching of the Awakened Ones (all Buddhas).”
+“The non-doing of all evil, the cultivation of what is wholesome,
+
+the cleansing of one’s own mind— this is the teaching of the Awakened Ones (all Buddhas).”
 
 These verses are about sīla, samādhi, and paññā. The four gold pots are connected to the five noble growths: saddhā, sīla, suta, cāga, and paññā. Many of the Buddha’s teachings overlap with one another.
 
@@ -115,6 +120,7 @@ Every human being comes into this human world only temporarily. During the time 
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-01 rev. proofread by bhante
   2026-02-06 create rst
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 

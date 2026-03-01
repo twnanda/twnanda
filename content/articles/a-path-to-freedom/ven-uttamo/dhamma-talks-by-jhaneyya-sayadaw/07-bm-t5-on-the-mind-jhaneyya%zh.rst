@@ -1,23 +1,16 @@
-==============================================================
-“On the Mind” and “Noting and Sati” (With an Open Mind)
-==============================================================
+==================================
+On the Mind (With an Open Mind)
+==================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-03-01
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jhaneyya, Sayadaw U Jhaneyya, With an Open Mind
 :category: path of nirvana
-:summary: “On the Mind” and “Noting and Sati” (T 5, Burma) (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
+:summary: On the Mind (T 5, Burma) (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
 
 
 
-“On the Mind” and “Noting and Sati” (Talk 5, Burma)
-
-- `On the Mind`_
-- `Noting and Sati`_
-
-
-On the Mind
-~~~~~~~~~~~~~~~~
+Dhamma Talk 5: On the Mind
 
 Do not follow the desires of the mind, but also do not suppress or torture it. The mind takes pleasure in unwholesome objects and will never free itself from sensual pleasures by following desire alone.
 
@@ -45,8 +38,7 @@ When contemplating feeling, the aim is not to eliminate or make it disappear, bu
 
 ------
 
-Noting and Sati
-~~~~~~~~~~~~~~~~~~
+Noting & Sati
 
 Through noting and sati, the yogi knows the nature of the mind. When insight knowledge becomes mature, one may no longer be able to note in the same way. At that time, only watching and observing remain. This has its own level that follows the noting stage. In the Mahāsi system, the progression is from noting to observing—the noting-and-observing level becomes pure observing.
 
@@ -55,6 +47,7 @@ You cannot skip or pass over this stage. Even though people perform merits, if t
 [There are many examples, both in the time of the Buddha and among modern Buddhists. For instance, in the name of compassion and love, people may act blindly, without sati and paññā, thereby creating many external problems.]
 
 Reflection: On Oneself and Others
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 (A Dhamma reflection based on a Dhamma talk by Sayadaw U Uttama)
 
@@ -73,13 +66,11 @@ This is a valuable teaching in the Pupphavagga (The Chapter on Flowers).
 
 (See Pāveyyaka Ajivaka Vatthu.) There are three important points in these verses.
 
-		(1) We should not focus on the rudeness of others.
-
-These are verbal and physical actions. 
-
-	(2) Also, do not focus on what others have done or left undone.
-
-	(3)	Rather, focus on what one has or has not done oneself.
+| 	(1) We should not focus on the rudeness of others.
+| These are verbal and physical actions. 
+| 	(2) Also, do not focus on what others have done or left undone.
+| 	(3)	Rather, focus on what one has or has not done oneself.
+| 
 
 The above three points are related to mental action (mano kamma).
 
@@ -164,6 +155,7 @@ This is the end of dukkha.
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-01 rev. proofread by bhante
   2026-02-06 create rst
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 

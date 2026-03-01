@@ -3,14 +3,14 @@ The Process of the Four Satipaṭṭhānas (With an Open Mind)
 ============================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-03-01
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jhaneyya, Sayadaw U Jhaneyya, With an Open Mind
 :category: path of nirvana
 :summary: The Process of the Four Satipaṭṭhānas (T 8, Burma) (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
 
 
 
-The Process of the Four Satipaṭṭhānas (T 8, Burma)
+Dhamma Talk 8: The Process of the Four Satipaṭṭhānas
 
 (Based on a talk given during a seven-day vipassanā retreat)
 
@@ -30,6 +30,7 @@ However, the practice is not deteriorating—it is developing. Yogis encounter e
 
 This stage is neither easy nor difficult in itself; it depends on the individual. The real difficulty lies in not knowing the method, not following the instructions, or not applying sufficient effort.
 
+------
 
 On Effort, Perseverance, and Contemplation of Mind
 
@@ -41,6 +42,8 @@ It is very important to continually examine one’s own mind. The good or bad st
 
 In the beginning, however, direct contemplation of mind is not appropriate. The reason is that the mind is subtle, refined, and deceptive, easily leading to imagination and conceptual proliferation.
 
+------
+
 Note on Method and Individual Differences
 
 [Contemplation cannot be taken as a fixed rule; it depends on the individual and their character. Mogok Sayadaw often emphasized cittānupassanā, stating that for him it was effective in dispelling diṭṭhi and discerning anicca.
@@ -49,6 +52,8 @@ Venerable Ādiccaramsi (U Sun Lwin) once commented that, according to his experi
 
 The commentarial tradition also suggests that those who contemplate the mind require strong samādhi.]
 
+------
+
 Proper Sequencing in Practice
 
 First, one should thoroughly contemplate body and feeling. Only then does one arrive naturally at contemplation of the mind. When the mind follows its desires, it becomes coarse; therefore, one should not give it free rein. At the same time, suppressing the mind is also incorrect, as suppression creates further tension and reaction.
@@ -56,6 +61,8 @@ First, one should thoroughly contemplate body and feeling. Only then does one ar
 The Buddha’s Middle Way—neither indulgence nor suppression—is profound and invaluable.
 
 During practice, if strong rapture (pīti) arises, it should not be controlled. Instead, one should contemplate the desire to control. One must not go against nature, which is anattā. Where suppression is present, reaction inevitably follows.
+
+------
 
 On the Arising of Elements and the Danger at the Time of Death
 
@@ -82,6 +89,7 @@ Mogok Sayadaw clearly stated: “Do not fear the arising of lobha, dosa, and moh
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-01 rev. proofread by bhante
   2026-02-06 create rst
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 

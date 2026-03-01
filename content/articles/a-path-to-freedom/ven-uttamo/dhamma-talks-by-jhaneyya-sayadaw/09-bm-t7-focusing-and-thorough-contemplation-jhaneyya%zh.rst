@@ -3,14 +3,14 @@ Focusing and Thorough Contemplation (With an Open Mind)
 ==========================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-03-01
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jhaneyya, Sayadaw U Jhaneyya, With an Open Mind
 :category: path of nirvana
 :summary: Focusing and Thorough Contemplation (T 7, Burma) (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
 
 
 
-Focusing and Thorough Contemplation (T 7, Burma)
+Dhamma Talk 7: Focusing and Thorough Contemplation
 
 Contemplation by focusing and contemplation by thoroughness are not the same. Focusing refers to attending to the present object as it arises and fitting awareness to it. Thorough contemplation refers to discerning impermanence (anicca) by knowing the condition nature of phenomena and their characteristics.
 
@@ -20,7 +20,9 @@ Clarification on Focusing and Thorough Contemplation
 
 When samādhi is strong, a yogi is able to note phenomena in detail. For example, when noting the rising and falling of the abdomen, there are many aspects that can be noted. Between the beginning, middle, and ending of the falling movement, there are phenomena that arise and cease. Things exist between the beginning, middle, and end of the falling of the abdomen, and these can be known through careful attention.
 
-Here, Sayadaw encourages yogis to study different teachers’ talks and instructions, and to apply them according to one’s own character, verifying the practice through direct personal experience. Therefore, one should not adopt a sectarian view.
+[Here, Sayadaw encourages yogis to study different teachers’ talks and instructions, and to apply them according to one’s own character, verifying the practice through direct personal experience. Therefore, one should not adopt a sectarian view.]
+
+------
 
 Practice in Formal Meditation and Daily Life
 
@@ -53,6 +55,7 @@ The primary cause of all skillful and unskillful states is attention.
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-01 rev. proofread by bhante
   2026-02-06 create rst
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 

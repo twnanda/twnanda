@@ -3,7 +3,7 @@ Conclusion and Dedication (With an Open Mind)
 ================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-03-01
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jhaneyya, Sayadaw U Jhaneyya, With an Open Mind
 :category: path of nirvana
 :summary: Conclusion and Dedication (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
@@ -12,17 +12,21 @@ Conclusion and Dedication (With an Open Mind)
 
 In conclusion, I would like to offer the following prayer:
 
-| May the living worlds of human beings, devas, and brahmā gods
-| all establish faith and reverence in the true Dhamma
-| of the Noble Lord Buddha, through the cultivation of the Noble Eightfold Path.
-| 
-| May all beings enjoy and dwell in the Nibbānic element.
-| The fires of greed (lobha), hatred (dosa), and delusion (moha)
-| are burning powerfully throughout the world. Truly, these three fires are exceedingly great.
-| 
-| May the Dhamma leading to Nibbāna shine forth brightly
-| and endure for a long time.
-| 
+May the living worlds of human beings, devas, and brahmā gods
+
+all establish faith and reverence in the true Dhamma
+
+of the Noble Lord Buddha, through the cultivation of the Noble Eightfold Path.
+
+May all beings enjoy and dwell in the Nibbānic element.
+
+The fires of greed (lobha), hatred (dosa), and delusion (moha)
+
+are burning powerfully throughout the world. Truly, these three fires are exceedingly great.
+
+May the Dhamma leading to Nibbāna shine forth brightly
+
+and endure for a long time.
 
 ------
 
@@ -39,6 +43,7 @@ In conclusion, I would like to offer the following prayer:
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-01 rev. proofread by bhante
   2026-02-06 create rst
 
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)

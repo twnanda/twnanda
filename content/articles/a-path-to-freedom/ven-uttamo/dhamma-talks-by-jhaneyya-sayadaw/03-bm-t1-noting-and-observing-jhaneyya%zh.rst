@@ -3,16 +3,18 @@ Noting and Observing (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
 ==============================================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-03-01
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jhaneyya, Sayadaw U Jhaneyya, With an Open Mind
 :category: path of nirvana
 :summary: Noting and Observing (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
 
+Dhamma Talks given in Burma
 
+The following nine Dhamma talks were given in Burma
 
-Noting and Observing (Talk 1)
+------
 
-The following Dhamma talks were given in Burma
+Dhamma Talk 1: Noting and Observing
 
 Yogis should not stop their practice if their noting is not clear, such as the rising and falling of the abdomen, sitting, or touching the floor. If one becomes lazy in the practice, one should undertake a samatha practice or Dhamma contemplation or recollection. Therefore, yogis should have some knowledge of the Dhamma—by listening to Dhamma talks, reading, or studying the suttas.
 
@@ -53,6 +55,7 @@ For example, in the Thai Forest Tradition, the object of mantra—Buddho—is we
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-01 rev. proofread by bhante
   2026-02-06 create rst
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 

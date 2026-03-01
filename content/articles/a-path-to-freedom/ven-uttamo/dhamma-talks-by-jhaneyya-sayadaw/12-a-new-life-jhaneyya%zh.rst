@@ -3,7 +3,7 @@ A New Life (With an Open Mind)
 =================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-03-01
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jhaneyya, Sayadaw U Jhaneyya, With an Open Mind
 :category: path of nirvana
 :summary: A New Life (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
@@ -14,6 +14,30 @@ U Han Htay, Religious Department
 
 (This is an article written by a research officer, originally titled “The King Couple I Knew”.)
 
+---------------------------------------------
+
+Title: Translation: Selections from Suzuki Shosan; Author:	King, Jocelyn B.; King, Winston L.; Source: The Eastern Buddhist=イースタン・ブディスト	1979
+
+NTU Digital Library of Buddhist Studies ::: Buddhist Author Authority Database   https://buddhism.lib.ntu.edu.tw/en/author/authorinfo.jsp?ID=10230
+
+----------------------------------------------------------------------
+
+In Memoriam: Winston L. King
+
+Winston L. King was ninety-three when he died on February 15, 2000, at his home in Madison, Wisconsin. …, …, … …, …, …
+
+…, …, …
+
+Winston believed that the adherent of a particular faith is better able "to penetrate to the centrally important features of another religion" that might be opaque to the "nonreligionist." His analogical observation, "Being in love he will know how to understand something of another's being in the same situation" grew out of the deep mutual devotion between Winston and Jocelyn, his beloved wife of more than sixty-six years.
+
+…, …, …
+
+Donald K. Swearer
+
+Swarthmore College
+
+https://muse.jhu.edu/pub/5/article/3525
+------------------------------------------------------------------
 
 Saya U Pe Aung sent Dr. King and his wife, Jocelyn B. King, to Sayagyi U Ba Khin’s meditation centre in September 1959. Our department assigned me and two other officers to accompany them. We did not need to take leave, as this was part of our official duty.
 
@@ -27,6 +51,7 @@ When my father asked a civil servant about this, he was told that during their f
 
 My father later told us about this, but at that time I still did not know about Sayagyi’s meditation centre. I never thought of meeting him, nor did I make any effort to do so. It was only later, through my involvement with the American couple, that I finally met him.
 
+------
 
 Inya Myaing and the First Meetings with Sayagyi
 
@@ -40,13 +65,15 @@ At 7:00 p.m. he interviewed the yogis about their practice. Around 9:00 or 10:00
 
 Sayagyi was calm and straightforward. If he had something to say, he spoke openly. He held great reverence for the Triple Gem—the Buddha, the Dhamma, and the Sangha. At that time, however, I still did not know very much about Sayagyi.
 
-We were mainly interested in observing the two foreign yogis who asked Sayagyi questions about their practice rather than about the Dhamma itself. We felt uplifted seeing Dr. King and his wife practise respectfully and diligently. I was thinking myself,  “What will happen to them? How will they change?”
+Our primary focus is on observing those two foreign yogis, whose questions to Sayagi were not about the Dharma itself, but rather about their own spiritual practice.) We felt uplifted seeing Dr. King and his wife practise respectfully and diligently. I was thinking myself,  “What will happen to them? How will they change?”
+
+------
 
 Mrs. King Changed Her Life
 
-On the third day, I heard Joyslyn King reporting to Sayagyi about her experiences of strong physical pain (dukkha). Dr. King had dissatisfaction with impermanence (anicca) and discussed this with Sayagi. All three of us practised in the usual way, without forcing ourselves.
+On the third day, I heard Jocelyn King reporting to Sayagyi about her experiences of strong physical pain (dukkha). Dr. King had dissatisfaction with impermanence (anicca) and discussed this with Sayagi. All three of us practised in the usual way, without forcing ourselves.
 
-By the fifth day, Joyslyn King’s face became clear and bright. She no longer appeared dissatisfied as before. That evening, Sayagyi gave a Dhamma talk, and after it ended, she bowed and touched Sayagyi’s feet with her head as a gesture of deep respect.
+By the fifth day, Jocelyn King’s face became clear and bright. She no longer appeared dissatisfied as before. That evening, Sayagyi gave a Dhamma talk, and after it ended, she bowed and touched Sayagyi’s feet with her head as a gesture of deep respect.
 
 She openly admitted, “I am becoming a true Buddhist from a Christian life.”
 
@@ -82,6 +109,7 @@ Dr. King agreed and expressed his intention to participate in a future retreat, 
 
 Up to that time, he did not abandon the Christian view. He later wrote two books, Ten Thousand Miles Far Away and Searching for Nibbāna. In these works, he described that he had understood only part of the Dhamma; much of it remained unclear and difficult for him.
 
+------
 
 The Couple Far Away from Thousands of Lives
 
@@ -97,8 +125,10 @@ Dr. King, however, was still many lifetimes away from his beloved wife. His facu
 
 I continue to pray for Dr. King who has already received the path of the Dhamma, and with his wife able to lead the Buddha-Dhamma onward to others.
 
+------
 
 Some Reflections
+~~~~~~~~~~~~~~~~~~~~~~
 
 According to Mrs. King’s article, “My Lifetime Teacher,” she practised bhāvanā under Sayagyi’s guidance on three occasions—between July and September 1959. Her mind underwent a decisive transformation only during the third retreat.
 
@@ -126,6 +156,54 @@ Here, I would like to introduce a well-known Burmese monk who taught the Sayā T
 
 ------
 
+Venerable Ñāṇa Cāgī U Tejalankara Sayadaw
+
+This Sayadaw was Ñāṇa Cāgī U Tejalankara (1900–?), a Burmese monk whose life marked an important turning point in modern Vipassanā practice.
+
+Time: 9:00 a.m., September 1938, Full Moon Day 
+
+Place: Bhi-lū Island, Gwan-the Village, Lower Burma
+
+At that time, he was thirty-eight years old and serving as a village monk-teacher. Unexpectedly, he picked up a Dhamma book that belonged to an upāsaka who used to bring it to the monastery. The book was Ditthadhamma Vipassanā, written by disciples of Saya Thet.
+
+As he read a few pages, his interest grew rapidly. He reflected:
+
+“This Dhamma is not written from book knowledge. It comes from direct experience and practice. It is deeply inspiring. I must try it.”
+
+Immediately, he put the book down and began practicing ānāpāna meditation. Because of his accumulated pāramī, in that single sitting he directly experienced the taste of Dhamma. He completely lost awareness of time, continuing to sit without even hearing the sound of the wooden drum calling for the meal.
+
+After some time, his disciples came and informed him of the missed schedule.
+
+From that day onward, for one full week he stopped formal teaching. Together with the monks and novices, he practiced ānāpāna meditation continuously. After this intensive week, he resumed teaching during the daytime while continuing meditation practice at night together with his students.
+
+From 1938 to 1978, over a period of forty years, he established many meditation centres throughout Burma and trained more than six hundred thousand yogis.
+
+It appears to me that Ñāṇa Cāgī Sayadaw never met Anāgāmi Sayā Thet, who passed away in 1945. At that time in Burma, it was considered taboo for a layperson to teach meditation to monks.
+
+On Teachers, Lineages, and the Spread of Dittha-Dhamma Vipassanā
+
+To this day, no female meditation teachers have emerged in Myanmar. In Thailand, however, there were already a few notable women practitioners before, and possibly continuing into the present era, such as Mae Chee Kaew (1901-1991), Naeb Mahāniranon (1897–1983) and Khun Ki Nanayon (1901–1978).
+
+[We can find their names in K. Tiyavanīch's “Forest Recollection”: Naeb Mahāniranon and Ki (Kee) Nanayon.]
+
+At the beginning of Saya Thet’s teaching, some monks strongly opposed him. However, he was able to overcome this resistance. In later years, not only laypeople but also monks came to him for meditation practice.
+
+Ñāṇa Cāgī Sayadaw sometimes spoke humorously to his Dhamma listeners, saying:
+
+“If Saya Thet had not appeared, I myself would have become a ghost— a great kind of monastic ghost.”
+
+The text Dittha-Dhamma Vipassanā became so popular that it was published seven times while Saya Thet was still alive. Regarding its practical content, the book included essential Dhamma principles drawn from Ledi Sayadaw’s teachings, methods from well-known Sayadaws, and Saya Thet’s own direct meditative experience. It was written in simple and clear language, making it suitable for people of all backgrounds.
+
+Another Western teacher associated with U Ba Khin’s tradition was John Coleman, who wrote about his spiritual journey in a book titled The Quiet Mind. Before this, he had worked for the CIA. While in Thailand, he practiced Vipassanā at Wat Mahādhāt, which taught the Mahāsi system.
+
+After some time, however, he found that this method was not suitable for his temperament, and he continued his spiritual search elsewhere. He later came to Burma and practiced under Sayagyi U Ba Khin. During his first encounter, he did not experience significant progress, yet he maintained strong faith and perseverance.
+
+He then continued searching and met two other teachers: Dr. Suzuki (Rinzai Zen) and Jiddu Krishnamurti (the Indian teacher). However, remaining with them involved many practical difficulties. Consequently, he returned again to Sayagyi U Ba Khin, and on this second attempt, he achieved success in his practice.
+
+John Coleman thus made the right decision. Had he stayed with the other two teachers, his spiritual quest might not have borne fruit. This illustrates an important principle: each person must search for a teacher and a meditation system that is genuinely suitable for their own character and disposition.
+
+------
+
 - `Content  <{filename}content-of-dhamma-talks-by-jhaneyya-sayadaw%zh.rst>`__ of With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya
 
 - `Content <{filename}../publication-of-ven-uttamo%zh.rst>`__ of Publications of Bhikkhu Uttamo
@@ -139,6 +217,7 @@ Here, I would like to introduce a well-known Burmese monk who taught the Sayā T
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-01 rev. proofread by bhante
   2026-02-06 create rst
 
     ---------------------------------------------

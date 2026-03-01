@@ -1,12 +1,12 @@
-==================================================================================
-To Strip Off Wrong Views (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
-==================================================================================
+===========================================================================================
+Dhamma Talks (given in Singapore) (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
+===========================================================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-03-01
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jhaneyya, Sayadaw U Jhaneyya, With an Open Mind
 :category: path of nirvana
-:summary: To Strip Off Wrong Views (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
+:summary: Dhamma Talks (given in Singapore) (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
 
 
 
@@ -28,11 +28,15 @@ The active mind (javāna), however, does have the three sub-moments—this is an
 
 Kamma (here referring to kammic energy) also does not itself possess three sub-moments. Kilesa and kamma exist as accumulated energy, but volition (cetanā) is anicca. Energy itself is not directly known as anicca; however, when conditions are fulfilled, it produces results. These are inconceivable dhammas and cannot be grasped conceptually.
 
+------
+
 On Pain and Noting Practice
 
 In some modern books it is said that yogis should not contemplate painful feelings unbearably. For someone who has not yet practiced sufficiently, it is not helpful to engage in such contemplation.
 
 In the beginning stage, pain may overwhelm the yogi. Later, pain and noting may appear to proceed in parallel. Eventually, the noting becomes stronger than the pain, so that the yogi can clearly note the pain and it becomes bearable. This has been observed, for example, among Taw-Koo Sayadawgyi and his yogis.
+
+------
 
 On Distinctness of Objects in Noting
 
@@ -49,6 +53,8 @@ Anusaya kilesa (latent defilements) reside in the unknowing mind and are latent 
 
 Defilements that arise through sense objects and sense doors are called ārammaṇika kilesas—defilements conditioned by objects.
 
+------
+
 Practice in Daily Life and in Retreat
 
 In daily life, it is often not possible to note phenomena continuously. When continuous noting is not feasible, one should at least reflect upon the Three Universal Characteristics or contemplate Dhamma. This point is very important.
@@ -59,6 +65,8 @@ Other activities—such as travelling or waiting for a bus—can also be used fo
 
 However, in a meditation centre, continuous noting can and should be practiced more fully.
 
+------
+
 Protective Practices and Fearlessness
 
 Monks who practice in forests, mountains, and cemeteries should recollect the qualities of the Buddha and cultivate mettā. These practices serve as protection against danger, disturbances, and fear.
@@ -67,11 +75,15 @@ There is no need to fear the unseen world (paraloka). What yogis should truly fe
 
 For a deeper understanding of the mind’s nature, one should study the Mind Chapter (Cittavagga) of the Dhammapada.
 
+------
+
 On Not Controlling the Mind
 
 Do not attempt to control the mind. If something arises, simply note it—that is, know it.
 
 This is the natural functioning of the mind. For example, when thinking arises, it is simply known as thinking.
+
+------
 
 On Noting, Samādhi, and Insight
 
@@ -84,6 +96,8 @@ In Burmese, the term kyi conveys the meaning of looking at, watching, or observi
 As practice matures, sati (mindfulness) and paññā (wisdom) develop together. Establishing mindfulness (satipaṭṭhāna) allows wisdom to follow behind mindfulness.
 
 Through this process, practice progresses from conceptual understanding (paññatti) toward ultimate reality (paramattha dhammas).
+
+------
 
 On Samādhi, Insight, and the Noting Method
 
@@ -98,6 +112,8 @@ This is the crucial distinction between satipaṭṭhāna-samādhi and samatha-s
 When pure samādhi is firmly established and then applied to observation, insight can arise. However, its strength may fluctuate: sometimes it weakens, and then it must be re-established again. This approach is found, for example, in the Thai Forest tradition and the Sayagyi U Ba Khin system.
 
 By contrast, the noting method continuously develops samādhi without decline.
+
+------
 
 Equanimity and Its Nearest Enemy
 
@@ -125,6 +141,8 @@ With continuous mental noting, the body fades from prominence, and the yogi clea
 
 At this point, it becomes evident that: knowing consciousness and the existing object (i.e. mind and object) fit together precisely. From this alignment, insight knowledge arises, beginning with understanding of mind, object, and impermanence (anicca). The earlier (lower) insight knowledges follow the same principle.
 
+------
+
 Noting and Observing Are Not the Same
 
 Mental noting and looking at (observing) are not identical.
@@ -133,7 +151,9 @@ Mental noting and looking at (observing) are not identical.
 |     • Looking at / observing is knowing the nature of phenomena by centering awareness directly on them.
 | 
 
-In Burmese usage:
+------
+
+ In Burmese usage:
 
     • the words translated as noting and looking at (e.g., mart, kyi) may also be rendered as watching and observing.
 
@@ -143,6 +163,8 @@ The best way is direct seeing.
 
 Simply do the practice.
 
+------
+
 On Noting, Centering, and the Balance of Practice
 
 For example, by noting the sitting posture and the touching (contact with the seat), and by centering awareness on it, the yogi comes to know the hardness and softness of the earth element.
@@ -151,15 +173,16 @@ If the yogi’s mind is restless, priority must be given to mental noting in ord
 
 Later, as noting is maintained and samādhi develops, the jhāna factors—such as rapture (pīti), happiness (sukha), and tranquility—may arise naturally.
 
+------
+
 Mahāsi Sayadaw’s Instruction
 
 In Mahāsi Sayadaw’s teaching, the practice consists of:
 
 |     • noting, and
 |     • centering on the object
+|     (The Burmese term for “centering on” is shū-site.)
 | 
-
-(The Burmese term for “centering on” is shu-site.)
 
 Mental noting and looking at (observing) must remain in balance.
 
@@ -169,11 +192,13 @@ Mental noting and looking at (observing) must remain in balance.
 
 Both extremes prevent progress.
 
-|     • Merely observing tends toward imagination and conceptualization.
-|     • Merely noting, without observation, does not lead to insight knowledge (paññā).
-| 
+    • Merely observing tends toward imagination and conceptualization.
+
+    • Merely noting, without observation, does not lead to insight knowledge (paññā).
 
 Therefore, sati (mindfulness) and paññā (wisdom) must develop together—that is, the path factors must function in unison.
+
+------
 
 Essential Principle
 
@@ -181,9 +206,13 @@ Noting stabilizes the mind. Observing reveals the nature of phenomena.
 
 When they are properly balanced, insight can arise.
 
+------
+
 Important Note
 
-To gain a clear and correct understanding of Talk Three, reference should be made to Mogok Sayadawgyi’s discourse, Part 6: Two Views on Insight (delivered on 12 September 1961).
+To gain a clear and correct understanding of Talk Three, reference should be made to Mogok Sayadawgyi’s discourse, Part 6: Two Views on Insight
+
+(delivered on 12 September 1961).
 
 ------
 
@@ -195,6 +224,8 @@ There may be difficulties in practice. If the path is right, even if one does no
 If samādhi develops, the yogi should continue the sitting. If one stops while samādhi is present, the next sitting may not be as good. This highlights the importance of non-reaction, the Middle Way, and letting go.
 
 Latent defilements will inevitably arise and disturb the yogi at any time. This is their nature. The duty of a yogi is not to remove them by force, but to contemplate them with equanimity.
+
+------
 
 Effort and the Four Bases of Power
 
@@ -210,6 +241,8 @@ For example, when greed or anger arises, one must note it by centering on it. If
 
 The real purpose of practice is the understanding of dhammas, which is discernment (paññā).
 
+------
+
 Contact, Defilement, and the Puppet Analogy
 
 An important point here is this: Whenever objects and sense doors make contact, they touch the unknowing mind, where defilements such as delusion or ignorance are present. These defilements arise and disturb us.
@@ -217,6 +250,8 @@ An important point here is this: Whenever objects and sense doors make contact, 
 It is like a puppet show. We do not see what is happening behind the scenes. We do not see lobha–taṇhā (greed and craving) pulling the strings behind our actions.
 
 By contemplating this deeply, one can understand the nature of defilements and the ways human beings react to them. Much can be learned from careful contemplation of these patterns.
+
+------
 
 The Three Unwholesome Roots
 
@@ -239,6 +274,7 @@ The phenomena of greed, anger, and delusion can overwhelm the knowing mind. Beca
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-01 rev. proofread by bhante
   2026-02-06 create rst
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 

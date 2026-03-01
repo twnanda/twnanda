@@ -3,14 +3,14 @@ The Noble Dhamma of the Buddha (With an Open Mind)
 =====================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-03-01
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jhaneyya, Sayadaw U Jhaneyya, With an Open Mind
 :category: path of nirvana
 :summary: The Noble Dhamma of the Buddha (T 3, Burma) (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
 
 
 
-The Noble Dhamma of the Buddha (T 3, Burma)
+Dhamma Talk 3: The Noble Dhamma of the Buddha
 
 A Christian missionary school in the U.S. invited Sitagu Sayadawgyi to give a talk. The preacher who invited the Sayadaw always carried the Dhammapada and used it to give talks based on the essence of the Dhamma contained therein.
 
@@ -92,6 +92,7 @@ Thae-inn Gu Sayadaw said that insight contemplation is training for death. An ex
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-01 rev. proofread by bhante
   2026-02-06 create rst
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 

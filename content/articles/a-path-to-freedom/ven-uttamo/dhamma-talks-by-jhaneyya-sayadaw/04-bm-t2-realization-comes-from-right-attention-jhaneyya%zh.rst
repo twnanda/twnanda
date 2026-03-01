@@ -3,14 +3,14 @@ Realization Comes from Right Attention (With an Open Mind)
 =============================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-03-01
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jhaneyya, Sayadaw U Jhaneyya, With an Open Mind
 :category: path of nirvana
 :summary: Realization Comes from Right Attention (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
 
 
 
-Realization Comes from Right Attention (Talk 2, Burma)
+Dhamma Talk 2: Realization Comes from Right Attention
 
 Diṭṭhi is the main enemy (the defiled mind). If one cannot abandon wrong view, one cannot abandon craving, greed, and lust. 
 
@@ -44,9 +44,11 @@ Noting prevents the mind from running away by regulating samādhi. In some situa
 
 Why is it necessary to note objects? It is to remain with the present moment and to know the changing nature of the present moment. For this reason, we have to note. During the noting process, yogis discern anicca. At first, yogis only know the arising of phenomena and cannot immediately discern anicca. Later, when samādhi becomes strong, the discerning of anicca follows.
 
-One should not compare oneself with Mogok Sayadawgyi, because he possessed very sharp knowledge. According to sutta, it was mentioned to discern anicca, its disenchantment and its cessation. (Mogok Sayadaw also taught in the same way but did not mention about mental noting. Here, Sayadaw U Jhaneyya emphasized the importance of noting before the discernment of anicca.)
+One should not compare oneself with Mogok Sayadawgyi, because he possessed very sharp knowledge. According to sutta, it was mentioned to discern anicca, its disenchantment and its cessation. 
 
-Note: There are monks who interpret Mogok Sayadaw’s way of practice differently, including teachers from the Mogok tradition. Many talks by Mogok Sayadaw never described the practice in detail from beginning to end. From his close disciples—whether monks, laymen, or women—there are also no references to their practices, in brief or in detail, except for U Kyaw Thein, who spoke about his practice under the Sayadaw’s guidance only in gist, as recorded in the short biography of Sayadawgyi. This was a great loss for Buddhists.
+(Mogok Sayadaw also taught in the same way but did not mention about mental noting. Here, Sayadaw U Jhaneyya emphasized the importance of noting before the discernment of anicca.)
+
+Note: There are monks who interpret Mogok Sayadaw’s way of practice differently, including teachers from the Mogok tradition. Many talks by Mogok Sayadaw never described the practice in detail from beginning to end. From the accounts of his close disciples—whether monks, lay practitioners—there is no mention of either a brief or detailed description of his practice methods. Only U Kyaw Thein once referred to his practice under the Sayadaw's guidance, yet his account merely outlines key points, which appear in the Sayadaw's brief biography. This was a great loss for Buddhists.
 
 From the study of his Dhamma talks and his two biographies (i.e., by U Kyaw Thein and Sayadaw U Gosita), as well as from my own understanding, I hold a different view. In fact, U Kyaw Thein is the best candidate to write a complete biography and account of Sayadawgyi’s teaching.
 
@@ -77,6 +79,7 @@ If one becomes interested in them (i.e., external signs), they do not vanish. Wo
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-01 rev. proofread by bhante
   2026-02-06 create rst
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 

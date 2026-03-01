@@ -3,14 +3,14 @@ On Defilements (With an Open Mind)
 =====================================================
 
 :date: 2026-02-06
-:modified: 2026-02-06
+:modified: 2026-03-01
 :tags: publication, Bhikkhu Uttamo, Sayadaw Jhaneyya, Sayadaw U Jhaneyya, With an Open Mind
 :category: path of nirvana
 :summary: On Defilements (T 4, Burma) (With an Open Mind-- Dhamma Talks by Sayadaw Jhaneyya)
 
 
 
-On Defilements (Talk 4, Burma)
+Dhamma Talk 4: On Defilements
 
 (The following talk is based on the well-known sutta The Simile of the Great Log, Sutta No. 241 (4), Saḷāyatana Saṃyutta.)
 
@@ -38,7 +38,7 @@ Therefore, I ask you to contemplate by focusing properly, not by allowing defile
 
 Thus, defilements cannot be penetrated by practising lightly or casually. Views such as “when tired one must change posture” or “when itching one must scratch” are incorrect. 
 
-[Referring to a meditation system taught by a lay teacher who expound a version of the Middle Way.]
+[Referring to a meditation system taught by a lay teacher who expounds a version of the Middle Way.]
 
  (Continue to explain the ten insight corruptions.)
 
@@ -48,19 +48,22 @@ Effort (viriya): with strong effort, the yogi does not wish to sleep and is able
 
 The simile of a log sinking in the middle of a river means that even though the yogi does not cling to self or others, one may still cling to one’s practice of Dhamma itself.
 
-When samādhi and ñāṇa develop, experiences such as light, rapture, and tranquillity may arise. Yogis may not contemplate it and take it as realisation. Body Light: Body light can appear and yogi takes it as realisationof path and fruit. Sometime yogi can fall into sleep, and mistakenly think this is the cessation of dukkha. (See the explanations of wrong cessations in Sayadaw U Ñāṇobhāsa’s talks.)
+When samādhi and ñāṇa develop, experiences such as light, rapture, and tranquillity may arise. Yogis may not contemplate it and take it as realisation. Body Light: Body light can appear and yogi takes it as realisation of path and fruit. Sometimes yogis fall into sleep and mistakenly believe this to be the cessation of suffering. (See the explanations of wrong cessations in Sayadaw U Ñāṇobhāsa’s talks.)
 
-Rapture (pīti): gooseflesh may arise. Tranquillity (passaddhi): the yogi can sit longer because body and mind become calm. Happiness (sukha): body and mind feel pleasant. Knowledge (ñāṇa): when knowledge becomes sharp using it for critical or judgmental analysis, it misses the phenomena and becomes entangled in excessive reflection.
+Rapture (pīti): gooseflesh may arise. Tranquillity (passaddhi): the yogi can sit longer because body and mind become calm. Happiness (sukha): body and mind feel pleasant. Knowledge (ñāṇa): When knowledge becomes sharp, employed for criticism or judgmental analysis, it misses the essence of phenomena and becomes entangled in excessive reflection.
 
 The simile of the great log being lifted onto higher ground refers to conceit (māna). Because of one’s experiences, one may look down on others and become conceited.
 
+------
+
 Reflection: Some Reflections on Abhidhamma
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 I have found that knowledge of Abhidhamma teachings, together with the study of the suttas, brings great benefit. Abhidhamma provides the supportive conditions for understanding the suttas more penetratively and profoundly. However, there are some scholars and Buddhists who believe that Abhidhamma was not taught by the Buddha and therefore should be neglected, and they even encourage others to adopt the same view.
 
 Sometimes it is quite astonishing to see that some people lack basic common sense. What kind of human beings—philosophers, scientists, politicians, economists, or religious leaders—could independently discover and expound Abhidhamma? According to the records, only the Buddha was capable of doing so. The Buddha expounded Abhidhamma in the Heaven of the Thirty-three Gods (Tāvatiṃsa) and later related it to Sāriputta, who passed away before the Buddha. Therefore, during the First Council, no one was able to recite it. This may be one reason why Abhidhamma was not formally recorded at that council.
 
-This does not mean that we should accept everything blindly from the texts. Ledi Sayadaw himself was a very good example of critical inquiry. I have read some of his Dhamma talks and found that he adopted a critical approach toward the commentaries, always examining them from a practical perspective, such as in his treatment of paramattha-dīpanī topics. Consequently, his views sometimes differed from those of certain commentators.
+This does not mean that we should accept everything blindly from the texts. Ledi Sayadaw himself was a very good example of critical inquiry. I have read some of his Dhamma Dipanis and found that he adopted a critical approach toward the commentaries, always examining them from a practical perspective, such as in his treatment of paramattha-dīpanī topics. Consequently, his views sometimes differed from those of certain commentators.
 
 I have also read a Dhamma book by Mahāgandhāyon Sayadaw (Ashin Janakabhivamsa). This work consists of a long series of Dhamma discourses on Paṭṭhāna (Conditional Relations). In several places, Sayadaw explained Abhidhamma through the framework of the suttas, and at other times explained the suttas through Abhidhamma. In this way, it greatly enhanced our understanding of the Dhamma.
 
@@ -85,6 +88,7 @@ A simile or analogy arose in my mind. It is like comparing the Himalayan mountai
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  03-01 rev. proofread by bhante
   2026-02-06 create rst
    - `PDF <https://github.com/tw-nanda/pdf-etc/blob/main/pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-B5.pdf>`__ (For Print, Size: B5, 377 pages, 2023-08-23)
 
