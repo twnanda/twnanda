@@ -3,7 +3,7 @@
 =================================
 
 :date: 2024-12-21
-:modified: 2024-12-25
+:modified: 2026-04-09
 :tags: 引言, 莫哥西亞多開示錄, 鄔達摩比丘, 尊者莫哥西亞多, 尊者鄔達摩, 法談, 開示錄
 :category: path of nirvana
 :summary: 引言（莫哥西亞多開示錄-- 空、有為及無為）
@@ -554,11 +554,11 @@
 
 1 Pakki 拉提（用於占星寶石）= 1.5 x Sunari 拉提 = 1.5 x 121.5 毫克 = 182.25 毫克 = 0.91 克拉（引自：Ratti，維基百科；檢索於 2024-12-12  https://en.wikipedia.org/wiki/Ratti_(unit)）
 
-.. [intro6] 〔跋蹉經 SN 12.68〕
+.. [intro6] 參考： 第 16 部 之 37. 入流者的本質 (Nature of Stream Enterer)。 《憍賞彌經》-- MN 48: Kosambiya Sutta, 中部48, 憍賞彌經, 拘睒彌經, M i 320
 
 ------
 
-更新：西元 2024-12-23
+更新：西元 2026-04-09
 
 ------
 
@@ -570,6 +570,7 @@
 - 尊者 鄔達摩比丘出版品 `目錄 <{filename}../publication-of-ven-uttamo-han%zh.rst>`__ 
 
 ..
+  2026-04-09 rev: [intro6]; old:〔跋蹉經 SN 12.68〕** 運用ㄟㄞ時要小心謹慎！ SN.12.68 Kosambisuttaṃ 相應部12相應68經/憍賞彌經(因緣相應/因緣篇/修多羅)（內有「井水喻」）；憍賞彌國-- [梵文 (羅馬轉寫)]Kauśāmbī,Vatsa; [巴利文 (羅馬轉寫)]Kosambī,Vamsa,Vaṁsa 跋蹉國；有些還譯為《高僧比丘經》、《高僧鬥爭經》
   12-25 rev. proofread by ㄚ亮
   12-23 rev. 烏．譚大英（U Tan Daing）、烏．吞音（U Tun Yin）和烏．丁（U Tin）; some word, texts proofread by ㄚ亮
   2024-12-21  create rst
