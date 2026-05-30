@@ -8,15 +8,12 @@
 :category: 藝術-文化
 :summary: 陳玉峯老師著作（陳玉峯老師數位資料庫）
 
-
+        .. _`詳細書籍目錄`:
 
 .. list-table:: 陳玉峯老師數位資料庫
    :widths: 25 25 25 25
 
    * - `書籍 <{filename}books%zh.rst>`_ （詳細書籍目錄）
-
-        .. _`詳細書籍目錄`:
-
      - `調查報告 <{filename}investigation-report%zh.rst>`_
      - `期刊論文 <{filename}journal-articles%zh.rst>`_
      - `會議論文 <{filename}conference-papers%zh.rst>`_
