@@ -13,7 +13,7 @@
 
 
 .. list-table:: 會議論文
-   :widths: 37 5 5 53
+   :widths: 37 10 10 43
    :header-rows: 1
 
    * - 題名
@@ -145,6 +145,12 @@
      - 1995
      - 陳玉峯、陳月霞
      - 靜宜大學通識教育中心第三次學術論文研討會
+
+------
+
+- 回 `陳玉峯老師著作 <publication-prof-chen-yf%zh.rst>`_
+- 回 `陳玉峯老師數位資料庫首頁 <chen-yueh-fong%zh.rst>`_
+
 
 
 ..

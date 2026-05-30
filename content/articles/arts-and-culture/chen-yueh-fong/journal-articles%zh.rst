@@ -12,7 +12,7 @@
 .. _`期刊論文`:
 
 .. list-table:: 期刊論文
-   :widths: 59 5 18 18
+   :widths: 54 10 18 18
    :header-rows: 1
 
    * - 題名
@@ -305,6 +305,11 @@
      - 楊國禎，陳玉峯
      - 台灣省立博物館年刊32:65-69
 
+
+------
+
+- 回 `陳玉峯老師著作 <publication-prof-chen-yf%zh.rst>`_
+- 回 `陳玉峯老師數位資料庫首頁 <chen-yueh-fong%zh.rst>`_
 
 
 ..

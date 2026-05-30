@@ -13,7 +13,7 @@
 
 
 .. list-table:: 調查報告
-   :widths: 59 5 18 18
+   :widths: 54 10 18 18
    :header-rows: 1
 
    * - 題名
@@ -280,6 +280,12 @@
      - 1981
      - 黃增泉、郭城孟、鄭元春、陳玉峯、黃志林
      - 環境保護4:1-28
+
+
+------
+
+- 回 `陳玉峯老師著作 <publication-prof-chen-yf%zh.rst>`_
+- 回 `陳玉峯老師數位資料庫首頁 <chen-yueh-fong%zh.rst>`_
 
 
 
