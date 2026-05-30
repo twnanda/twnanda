@@ -27,7 +27,7 @@
 
          * - `玉山社／星月書房出版公司 <https://www.tipi.com.tw/>`_
            -  `九歌出版社 <https://www.chiuko.com.tw/>`_
-           -  淑馨出版社：參考 Readmoo 讀墨 <https://readmoo.com/>`__ 或 `三民書局 <https://www.sanmin.com.tw/>`__
+           -  淑馨出版社：參考 `Readmoo 讀墨 <https://readmoo.com/>`__ 或 `三民書局 <https://www.sanmin.com.tw/>`__
 
          * - `Readmoo 讀墨 <https://readmoo.com/>`__
            - `誠品 <https://www.eslite.com/>`__
