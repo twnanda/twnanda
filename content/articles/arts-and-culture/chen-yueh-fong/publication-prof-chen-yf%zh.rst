@@ -67,7 +67,8 @@
 
 ------
 
-- 回 `陳玉峯老師數位資料庫首頁 <chen-yueh-fong%zh.rst>`_
+- 回 `陳玉峯老師數位資料庫首頁 <{filename}chen-yueh-fong%zh.rst>`_
+
 
 
 ..

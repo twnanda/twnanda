@@ -1760,6 +1760,12 @@
     `台灣雲端書庫 <https://www.ebookservice.tw/>`__ `電子書 <https://www.ebookservice.tw/chc/book/286dce4e-8ba4-416d-849c-12a88c608148>`__
 
 
+------
+
+- 回 `陳玉峯老師著作 <{filename}publication-prof-chen-yf%zh.rst>`_
+- 回 `陳玉峯老師數位資料庫首頁 <{filename}chen-yueh-fong%zh.rst>`_
+
+
 
 ..
   2026-05-30 post; 2026-05-17 created rst
