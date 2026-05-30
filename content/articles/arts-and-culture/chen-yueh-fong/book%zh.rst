@@ -1,0 +1,1603 @@
+===============================================
+陳玉峯老師著作--書籍（陳玉峯老師數位資料庫）
+===============================================
+
+:date: 2026-05-30
+:modified: 2026-05-30
+:tags: 陳玉峯老師數位資料庫, 陳玉峯, 陳玉峯老師, 陳玉峯教授, 陳玉峰, 陳玉峰老師, 陳玉峰教授, 生態, 台灣生態, 環境運動、台灣環境運動, 環保運動, 台灣環保運動, 台灣文化運動, 調查報告
+:category: 藝術-文化
+:summary: 陳玉峯老師著作--書籍（陳玉峯老師數位資料庫）
+
+
+.. _`書籍簡目`:
+
+
+.. _`《台灣植被誌》系列`:
+
+- 《台灣植被誌》系列：
+
+  * `台灣自然史─台灣植被誌（第一卷）〈總論及植被帶概論〉`_ (1995)∕陳玉峯∕玉山社出版社
+  * `卷二：高山植被帶及高山植物（上）、（下）`_ (1997)∕陳玉峯
+  * `卷三：亞高山冷杉林帶及高地草原（上）、（下）`_ (1998)、
+  * `卷四：檜木霧林帶`_ (2001)、
+  * `卷五：台灣鐵杉林帶（上）、（下）`_ (2004)、
+  * `卷六：闊葉林（Ⅰ）南橫專冊`_ (2006)、
+  * `卷六：闊葉林（Ⅱ）（上）`_ 、
+  * `卷六：闊葉林（Ⅲ）（下）`_ (2007) 、
+  * `卷七：海岸植被誌`_ (2015)、
+  * `卷八—地區植被（Ι）：大甲植被誌`_ (2004)、
+  * `卷八—地區植被（Ⅱ）：大肚山植被`_ (2005)、
+  * `卷九：物種生態誌（一）`_ (2007)
+  * `卷十：物種生態誌（二）`_ (2008)
+  * `卷十一：物種生態誌（三）`_ (2008)
+  * `卷十二：物種生態誌（四）`_ (2009)
+
+- 《 `台灣木竹材的利用`_ 》(2025-07)
+- 《 `寫給天上的自己`_ 》(2024)
+- 《 `北海岸來自溫帶的流浪者之歌：避夏族的故事`_ 》(2023-08-30)
+- 《 `唯我玉山`_ 》（上）、（中）、（下）  (2022)
+- 《 `迷樣山林：阿里山林場「北格」物語`_ 》(2019)
+- 《 `綠島海岸植被`_ 》 (2015)
+- 《 `玉峯觀止：台灣自然、宗教與教育之我見`_ 》(2013)
+- 《 `民國廢核元年－廢四核、清核廢`_ 》(2013)
+- 《 `台灣素人─宗教、精神、價值與人格`_ 》(2012)
+- 《 `山災地變人造孽`_ 》(2012)
+- 《 `山、海與千風之歌`_ 》(2011)
+- 《 `前進雨林`_ 》(2010)
+- 《 `阿里山：永遠的檜木霧林原鄉`_ 》（與陳月霞合著）(2005)
+- 《 `自然學習者的教育觀`_ 》(2004)
+- 《 `台灣生態與變態`_ 》(2004)
+- 《 `21 世紀台灣主流的土石亂流─台灣山地災變以及災後人造孽`_ 》(2002)
+- 《 `台灣山林與文化反思`_ 》(2000)
+- 《 `土地倫理與 921 大震`_ 》(2000)
+- 《 `搶救棲蘭檜木林運動誌（下冊）：台灣世紀末林業大論戰`_ 》(2001)
+- 《 `搶救棲蘭檜木林運動誌（中冊）：台灣檜木霧林傳奇與滄桑`_ 》(2000)
+- 《 `全國搶救棲蘭檜木林運動誌（上）`_ 》(1999)
+- 《 `台灣生態史話15 講`_ 》(1997)
+- 《 `展讀大坑天書`_ 》(1996)
+- 《 `生態台灣`_ 》(1996)
+- 《 `台灣綠色傳奇`_ 》(1991)
+- 《 `台灣原生植物（上）、（下）`_ 》(1990) 
+- 《 `塔塔加遊憩區預定地及其遴近地區之歷史沿革`_ 》(1987)
+- 《 `墾丁國家公園海岸植被`_ 》(1985)
+- 《 `鵝鑾鼻公園植物與植被`_ 》(1984)
+- 自然善知 (2024-11-15)
+- 關了無門關之後 (2024-03-01)
+- 《 `李岳勳先生外傳`_ 》（上、下） (2024)
+- 古道夢：浸水營越嶺路西段植群 / 陳玉峯/楊國禎/潘富哲/董藹光 /愛智 / 2021-11-01
+- 山居物語：68山路與乾溪畔 (2021-03-01)
+- 《 `綠歌：上森的禮物`_ 》 (2021)
+- 千年後再見 (2020-09-01)
+- 台灣樟樹調查事業報告書 (2020-08-01)
+- 拾穗 (2020-03-01)
+- 《 `雞屎藤`_ 》(2019-12-01)
+- 壇經旁注 (2019-10-01)
+- 槲樹的天演逆旅 (2019-07-01)
+- 信心無銘 (2019-07-01)
+- 北台的生態綠化 (2019-02-01) 
+- 落葉歸根：陳玉峯講台灣自然人文 (2018)
+- 舊山線 (2018) 
+- 決戰馬頭山—台灣山海經 (2018)
+- 靈海聖山—為藻礁生態系祈福!  (2018)
+- 自然與宗教隨筆 (2018-04-01)
+- 台南的生態綠化 (2018-01-01)
+- 社會關懷 (2018)
+- 南一段行腳世出世間 (2017)
+- 七笑因緣：台灣檜木文化的溯源（上）、（下），2017
+- 雪山盟（上）、（下），2017
+- 生之態交響曲 (2017-04-01)
+- 有容乃大──大肚台地的生態綠化 (2016-08-01)
+- 自然音聲 (2016)
+- 風雲台灣‧談古說今 (2016)
+- 阿賢仔 / 楊尚賢/原著 陳玉峯/輯校  / 愛智 / 2016-09-01
+- 解讀神明：台灣素民宗教與生態平權 (2015)
+- 《 `綠島金夢`_ 》(2015)
+- 綠島解說文本 (2015)
+- 台灣山林百年紀 (2014)
+- 自然哲思三部曲 (2014)
+- 私房菜 (2014)
+- 環保神明大進擊 (2014)
+- 蘇府王爺－台灣素民史之一例 (2013)
+- 興隆淨寺（一）：1895年之前 (2011)
+- 印土苦旅 (2010)
+- 前進雨林 (2010)
+- 台灣生態人文誌（一）：台灣心靈的生界源跡 (2006)
+- 台灣生態人文誌（二）：土地倫理與台灣命運 (2006)
+- 亂世鴻爪 (2006)
+- 阿里山：永遠的檜木霧林原鄉 (2005)
+- 敏督利注 (2005)
+- 台灣自然資源開拓史系列（一）阿里山．玉山區1—火龍119：阿里山1976 年大火與遷村事件初探 (2002)
+- 告別世紀 (2001)
+- 台灣山林與文化反思 (2000)
+- 自然印象與教育哲思 (2000)
+- 嚴土熟生 (1998)
+- 人文與生態 (1997)
+- 台灣生態悲歌 (1997)
+- 高雄縣自然生態 (1997)
+- 認識台灣 (1996-08-30)
+- 赤腳走山 (1995)
+- 土地的苦戀 (1994-04-20)
+- 人與自然的對決 (1992)
+- 台灣生界的舞台 (1990)
+- 植物之美 (1987)
+- 台灣植被與水土保持 (1985)
+- 鵝鑾鼻公園植物與植被 (1984)
+
+------
+
+- 回 `陳玉峯老師著作 <publication-prof-chen-yf%zh.rst>`_
+- 回 `陳玉峯老師數位資料庫首頁 <chen-yueh-fong%zh.rst>`_
+
+------
+
+.. _`台灣自然史─台灣植被誌（第一卷）〈總論及植被帶概論〉`:
+
+- 《台灣植被誌》系列：
+
+  * **台灣自然史─台灣植被誌（第一卷）〈總論及植被帶概論〉**
+
+    陳玉峯∕玉山社出版社∕1995(民84)∕ISBN: 9579361193(平裝, 新台幣800元;); 9579361185 (精裝, 新臺幣1000元)∕303面∕圖∕28公分
+
+    - 購書： `博客來 <https://www.books.com.tw/products/0010168750?sloc=main>`__ 、 `金石堂 <https://www.kingstone.com.tw/basic/2013670035287/?lid=search&actid=WISE&kw=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C>`__ 、 `三民書局 <https://www.sanmin.com.tw/product/index/000735828>`__ 
+
+    - 購書（二手書）： `iOPEN Mall <https://mall.iopenmall.tw/045518/index.php?action=product_detail&prod_no=P4551806817371>`__ （七成新，2026-05-20）、 `露天--東岸二手書庫 <https://www.ruten.com.tw/item/22415276015601/?utm_source=lbjtw>`__ （<東岸二手書庫>精裝本，九成新，）、 `露天--海王子二手書 <https://www.ruten.com.tw/item/22401535172248/?utm_source=lbjtw>`__ （2026-05-20）、 `Yahoo <https://tw.bid.yahoo.com/item/101159222181?utm_source=lbjtw>`__ （2026-05-20）、 `蝦皮 <https://shopee.tw/%E8%80%81%E6%AE%98%E4%BA%8C%E6%89%8B%E6%9B%B8B-%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C-%E7%AC%AC%E4%B8%80%E5%8D%B7%E7%B8%BD%E8%AB%96%E5%8F%8A%E6%A4%8D%E8%A2%AB%E5%B8%B6%E6%A6%82%E8%AB%96-%E9%99%B3%E7%8E%89%E5%B3%B0-1995%E5%B9%B4-9579361185-%E6%9B%B8%E6%B3%81%E4%BD%B3-i.16860162.24013873413?extraParams=%7B%22display_model_id%22%3A245343741019%2C%22model_selection_logic%22%3A3%7D&sp_atk=e10e8a95-b538-4232-aa67-b3a10a52e20b&xptdk=e10e8a95-b538-4232-aa67-b3a10a52e20b>`__ （2026-05-20）
+
+    - 借書（圖書館）：
+
+      .. list-table:: 圖書館
+         :widths: 33 33 33
+
+         * - `國家圖書館 <https://www.ncl.edu.tw/>`_ ( `375.232 8736-2, 001513228 <https://aleweb.ncl.edu.tw/F/4BEP4FPC41Y5INE9GQAJTM37S596M1JIDFH5EHT86XLD6FA6XG-02640?func=item-global&doc_library=TOP02&doc_number=000589341&year=&volume=&sub_library=>`__ ，中文書庫)、 `電子書 375.232 8736-2 90, 002364858 <https://aleweb.ncl.edu.tw/F/4BEP4FPC41Y5INE9GQAJTM37S596M1JIDFH5EHT86XLD6FA6XG-02808?func=item-global&doc_library=TOP02&doc_number=000982811&year=&volume=&sub_library=>`__
+           - `國立臺灣大學圖書館 <https://www.lib.ntu.edu.tw/>`_ ( `索書號: 375.233 7512 1998 v.3 no.1, 條碼: 2006735; 索書號: 375.233 7512 1998 v.3 no.2, 條碼: 2006736 <https://ntu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991015077409704786&context=L&vid=886NTU_INST:886NTU_INST&lang=zh-tw&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=title,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__ )
+           - `私立東海大學圖書館 <http://lib.thu.edu.tw/>`_ ( `索書號 375.232 7512 V.1, 登錄號/條碼: 00201398; 索書號 375.232 7512 V.1 C.2, 登錄號/條碼: 00880723 <https://webpac.lib.thu.edu.tw/bookDetail/505747>`__ )
+
+      .. list-table:: 圖書館
+         :widths: 33 33 33
+
+         * - `國立成功大學圖書館 <https://www.lib.ncku.edu.tw/>`_ ( `索書號 BOOK 375.232 7512b(1), 登錄號/條碼: 1122591、 375.232 7512b, 1097195 <https://ncku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991017643559707978&context=L&vid=886NCKU_INST:886NCKU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Everything&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&sortby=date_a&facet=frbrgroupid,include,9012776977391358966&offset=0>`__ )、 `電子書 <https://ncku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991020419899707978&context=L&vid=886NCKU_INST:886NCKU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__ 
+           - `私立靜宜大學圖書館 <https://library.pu.edu.tw/>`_ ( `索書號 BOOK 375.232 7512b(1), 登錄號/條碼: 1122591 <https://webpacx.lib.pu.edu.tw/bookDetail/65660>`__ ); BOOK 375.232 7512 85 V.1, 00238831) （ `電子書：卷四、卷六 <https://webpacx.lib.pu.edu.tw/search?searchInput=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&searchField=FullText>`__ ）
+           - `私立玄奘大學圖書館 <https://www.hcu.edu.tw/library/zh-tw/>`_ (缺) ( `台灣植被誌.第三卷，圖書；臺灣植被誌.第五卷,臺灣鐵杉林帶，電子書 <https://hculibrary.hcu.edu.tw/webopac/>`__ )
+
+      .. list-table:: 各地區圖書館
+         :widths: 25 25 25 25
+
+         * - `澎、金、馬`_ 
+           - `宜、花、東`_ 
+           - `高、屏`_ 
+           - `雲、嘉、南`_ 
+
+         * - `中、彰、投`_ 
+           - `桃、竹、苗`_ 
+           - `北、北、基`_ 
+           - 
+
+      .. _`澎、金、馬`:
+
+       .. list-table:: 圖書館(澎、金、馬)
+         :widths: 50 50 
+
+         * - `金門縣文化局圖書館 <https://cabkc.kinmen.gov.tw/informationlists?uid=9>`_ ； `金門縣公共圖書館館藏查詢系統 <https://webpacx.km.edu.tw/>`__  （缺）；（ `卷七：海岸植被誌/陳玉峯/愛智圖書 <https://webpacx.km.edu.tw/bookDetail/367227>`__ )
+           - `國立金門大學圖書館 <https://library.nqu.edu.tw/>`_ ( `台灣植被誌,高山植被帶與高山植物 <https://lib.nqu.edu.tw/bookDetail.do?id=67914>`__ ，375.232 8736 86 V.2-2, E190979)
+
+         * - `國立澎湖科技大學圖書館 <https://www.npu.edu.tw/lib/>`_ ( `375.233 8736 v.1 <https://inspire.npu.edu.tw/webpac/content.cfm?mid=215865&m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&s0=0&w=0&list_num=10&current_page=1&mt=&at=&sj=&py=&it=&lr=&lg=&si=>`__ ，3F中文書庫)、 `電子書 <https://inspire.npu.edu.tw/webpac/content.cfm?mid=326715&m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&s0=0&w=0&list_num=10&current_page=1&mt=&at=&sj=&py=&it=&lr=&lg=&si=>`__
+
+           - `連江縣政府文化處馬祖圖書館 <https://matsucc.gov.tw/%e6%96%87%e5%8c%96%e8%99%95%e9%a6%ac%e7%a5%96%e5%9c%96%e6%9b%b8%e9%a4%a8/>`_ （缺）（ `館藏查詢 <https://matsucc.e2center.com.tw/webpac/search.cfm?m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&s0=0&w=0>`__ ）
+
+- `澎湖縣立圖書館 <https://www.phlib.nat.gov.tw/>`_ ( `台灣植被誌. 第一卷, 總論及植被帶總論 <https://webpac.phlib.nat.gov.tw/bookDetail/68098>`__ 
+
+  | 澎湖縣圖書館/縣圖書庫，375.232 7512 v.1，85433
+  | 七美鄉圖書館/七美書庫，375.27 7512 1995，CM002156
+  | 白沙鄉圖書館/白沙書庫，375.27 7512 v.1 1995，PS002744
+  | 西嶼鄉圖書館/西嶼書庫，375.27 7512 1995，SU002438
+  | 望安鄉圖書館/望安書庫，375.232 7512 1996，WA002312
+  | 
+
+      .. _`宜、花、東`:
+
+- `宜蘭縣立圖書館 <https://library.e-land.gov.tw/>`_  ( `臺灣植被誌.第一卷.總論及植被帶概論 <https://webpac.ilccb.gov.tw/bookDetail/6801>`__ 
+
+  | 冬山鄉立圖書館冬山館/冬山館一般書區，一般書，375.27 8736； 
+  | 礁溪鄉立圖書館 /礁溪參考室，參考書，R 375.232 7412，不可外借)
+  | 
+
+       .. list-table:: 圖書館(宜蘭縣)
+         :widths: 50 50
+
+         * - `國立宜蘭大學圖書資訊館 <https://lic.niu.edu.tw/>`_  ( `電子書 <https://niu.airitibooks.com/Publication/Details?publicationID=P20090227139>`__ )
+           - `佛光大學圖書館 <https://libweb.fgu.edu.tw/>`_ （缺）
+
+- `花蓮縣文化局圖書館 <https://library.hccc.gov.tw/mp.asp?mp=20>`_ ( `台灣植被誌. 第一卷 : 總論及植被帶概論 <https://center.hccc.gov.tw/bookDetail/18925>`__ )
+
+      .. list-table:: 圖書館(花蓮縣)
+         :widths: 50 50
+
+         * - `國立東華大學圖書館 <https://lib.ndhu.edu.tw/>`_  ( `375.233 7512 v.1 <https://books-lib.ndhu.edu.tw/toread/opac/bibliographic_view?NewBookMode=false&id=383757&location=0&q=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&start=0&view=CONTENT>`__ ；四樓中文書區000-599)
+           - `慈濟大學圖書館 <https://lib.tcu.edu.tw/>`_  ( `N0081299，建國分館3~5樓中文書庫，375.233 8736 1995 v.1 c.2 <https://www.webpac.tcu.edu.tw/webpac/content.cfm?mid=22737&m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&s0=0&w=0&list_num=10&current_page=1&mt=&at=&sj=&py=&it=&lr=&lg=&si=>`__ ；N0050064，建國分館3~5樓中文書庫，375.233 8736 1995 v.1；M0022059，慈大中央館區一二樓及地下室書庫，375.232 8736 1995 v.1)
+
+- `台東縣立圖書館 <https://libwww.ccl.ttct.edu.tw/mp.asp?mp=10>`_  
+
+  | `延平鄉立圖書館/375.27 8736，C010073 <https://libraryx.ccl.ttct.edu.tw/bookDetail/50580>`__ ；
+  | 鹿野鄉立圖書館/375.27 8736 V.1，D000329；
+  | 關山鎮立圖書館/375.27 8736/2006-06-22，E020533，；
+  | 關山鎮立圖書館/375.27 8736 c.1，E042248；
+  | 海端鄉立圖書館/375.27 8736 v.1，G021510；
+  | 成功鎮立圖書館/375.27 7512，I028789；
+  | 成功鎮立圖書館/375.232 8736，I000850；
+  | 成功鎮立圖書館/開架，參考書/，R 375.232 83636，I000121，；
+  | 長濱鄉立圖書館/375.232 8736，J016002，； 
+  | 太麻里鄉立圖書館/375.232 7512，K009625)
+  | 
+
+      .. list-table:: 圖書館(台東縣)
+         :widths: 50 50
+
+         * - `國立臺東大學圖書館 <https://lic.nttu.edu.tw/>`_  ( `375.27 7512-4 v.1 , C069420 <https://hylib.lib.nttu.edu.tw/webpac/bookDetail.do?id=141880&Lflag=1>`__ ，知本總館/1F密集書庫)
+           - `國立臺東專科學校圖書館 <https://lic.ntc.edu.tw/>`_  （缺）
+
+      .. _`高、屏`:
+
+      .. _`屏東縣圖書館`:
+
+- `屏東縣立圖書館 <https://www.cultural.pthg.gov.tw/library/>`_  ( `375.27 8736, 31526000060381 <https://library.pthg.gov.tw/bookDetail/173054?qs=%7B%5Eurl3%2C%2Fsearch4%2Cquery%5E%3A%7B%5E%2Cs23%2CFullText4%2C%2Cs13%2C31526000060381%5E%7D%7D>`__
+
+  | `屏東市復興圖書館/復圖圖書室 <https://library.pthg.gov.tw/bookDetail/173054>`__ 
+  | 滿州鄉立圖書館/滿州圖書室，375.27 8736, 31552000206360；
+  | 長治鄉立圖書館/長治一般圖書區，375.232 8736, 31527000225370；
+  | 九如鄉立圖書館/九如圖書室，參考書，R 375.27 8736 V.1，限館內閱覽，31528000417835；
+  | 萬丹鄉立圖書館/萬丹圖書室，375.27 8736, 31533000046139；
+  | 長治鄉立圖書館/長治一般圖書區，375.232 8736 v.1, 31527000160494；
+  | 內埔鄉立圖書館/內埔中文圖書區，參考書，R 375.27 8736，限館內閱覽，31530000149806；
+  | 長治鄉立圖書館/長治一般圖書區，375.232 8736, 31527000225339；
+  | 新埤鄉立圖書館/新埤圖書室，375.27 8736 v.2, 31548000133109；
+  | 九如鄉立圖書館/九如圖書室，參考書，R 375.27 8736 V.2，限館內閱覽，31528000413198)
+  | 
+
+      .. list-table:: 圖書館(屏東縣)
+         :widths: 50 50
+
+         * - `國立屏東大學圖書館 <https://library.nptu.edu.tw/>`_  ( `375.232 7512 v.1, 31000001925091，民生中文圖書區 <https://webpac.nptu.edu.tw/webpac/content.cfm?mid=120158&m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&s0=0&w=0&list_num=10&current_page=1&mt=&at=&sj=&py=&pr=&it=&lr=&lg=&si=1&view=d>`__ (etc.) 、 `電子檔 <https://webpac.nptu.edu.tw/webpac/content.cfm?mid=753353&m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&s0=0&w=0&list_num=10&current_page=1&mt=&at=&sj=&py=&pr=&it=&lr=&lg=&si=1&view=d>`__ )
+           - `國立屏東科技大學圖書與會展館 <https://lib.npust.edu.tw/>`_  ( `375.27 7512 90 新訂四版, 0248282 <https://primo.npust.edu.tw/primo-explore/fulldisplay?docid=NPUST_ALEPH005123790&context=L&vid=NPUST&lang=zh_TW&search_scope=Local&adaptor=Local%20Search%20Engine&tab=local&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&mode=basic>`__ ) 
+
+      .. list-table:: 圖書館(屏東縣)
+         :widths: 33 33 33
+
+         * - `大仁科技大學圖書資訊館 <https://a14.tajen.edu.tw/>`_ （缺）
+           - `美和科技大學圖書館 <https://library.meiho.edu.tw/>`_ （缺）
+           - `慈惠醫護管理專科學校圖書館 <https://www.tzuhui.edu.tw/ischool/publish_page/5/>`_ （缺）
+
+      .. _`高雄市圖書館`:
+
+- `高雄市立圖書館 <https://www.ksml.edu.tw/>`_  ( `10 間分館 <https://webpacx.ksml.edu.tw/bookDetail/525876>`__ )
+
+  | 大社分館：B 375.233 7512 85，21465000184457
+  | 大樹二館：B 375.233 4343 v.1 v.1，21463000031927  
+  | 大樹二館：B 375.233 4343 v.1 c.1 v.1，21463000031935  
+  | 路竹分館：B 375.233 7512 v.1 v.1，21458000011929  
+  | 甲仙分館：B 375.233 8736，21474000028854  
+  | 鳥松分館：B 375.233 8736，21466000037489  
+  | 內門木柵分館：B 375.233 8444 v.1 v.1，21484000010778  
+  | 杉林分館：B 375.233 7512 v.1 v.1，21476000055464  
+  | 中崙分館：參考書/資料 R 375.233 8736；不可外借，21467000063335  
+  | 大寮分館：B 375.233；不可外借，21469000040529
+  | 中庄分館：B 375.233 7512，21202000998622
+  | 小港分館：B 375.233 7512 v.1，KML1727763，
+  | 林園二館：B 375.233 8736 v.1 1995 v.1，21471000011682  
+  | 林園分館：B 375.233 8736 v.1 1995 v.1，21470000028746  
+  | 田寮分館：B 375.233 8736 v.1 v.1，21461000102219  
+  | 湖內分館：B 375.233 8444 v.1 84 v.1，21459000032188  
+  | 桃源圖書館：B 375.232 8736 v.1 v.1，21480000059161  
+  | 鳳山二館：參考書/資料 R 375.233 8736 v.1，不可外借，21468000254288  
+  | 那瑪夏圖書館：參考書/資料 R 375.232 8736 v.1不可外借，21479000224965  
+  | 桃源圖書館：參考書/資料 R 375.232 8736 v.1 c.2 v.1，不可外借，21480000088467
+  | 旗津分館：B 375.233 7512 v.1，KML0752366
+  | 罕用書室(左營)：B 375.233 7512 v.1，KML0752368  
+  | 三民分館：B 375.233 7512 v.1 v.1，KML0752369
+  | 寶珠分館：B 375.233 7512 v.1 v.1，KML0752373
+  | 新興分館：B 375.233 7512 c.2 1995 c.2，KML0806216
+  | 前鎮分館：B 375.233 7512 v.1 v.1，KML1060009
+  | 
+
+      .. list-table:: 圖書館(高雄市)
+         :widths: 33 33 33
+
+         * - `國立中山大學圖書與資訊處 <https://lis.nsysu.edu.tw/>`_  ( `總圖B2閉架書庫區 375.232 8736 90, E344516 <https://nsysu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991005812879707977&context=L&vid=886NSYSU_INST:886NSYSU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Everything&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&sortby=date_d&facet=frbrgroupid,include,9029376535527255587&offset=0>`__ 及 375.232 8736 85 c.2, E274246; 375.232 8736 85, E251129)
+           - `國立高雄師範大學圖書館 <https://lis.nknu.edu.tw/>`_  ( `375.232 7512-3 v.1, 0294457 <https://sso.nknu.edu.tw/Library/bookQuery/detail.aspx?record_num=1263553&cPageData_Search=%7B%22iNowPage%22%3A1%2C%22iPerPageRows%22%3A10%2C%22cQueryData%22%3A%22%5B%7B%5C%22cWord%5C%22%3A%5C%22%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C%5C%22%2C%5C%22cOperator%5C%22%3A%5C%22AND%5C%22%2C%5C%22cType%5C%22%3A%5C%22K%5C%22%7D%5D%22%7D&cPageData_Reference=>`__ ，燕巢2F_中文書區)
+           - `國立高雄大學圖書館 <https://lic.nuk.edu.tw/>`_  ( `375.233 7512 v.1 2001, 310001057671 <https://libopac.nuk.edu.tw/toread/opac/bibliographic_view/87040?location=0&q=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&start=0&view=CONTENT>`__ ，東方語文圖書區(五樓))
+
+         * - `義守大學圖書與資訊處 <https://olis.isu.edu.tw/>`_  ( `電子書 <https://isu.airitibooks.com/Publication/Details?publicationID=P20090227139>`__ )
+           - `高雄醫學大學圖書館 <https://olis.kmu.edu.tw/index.php/zh-tw/>`_  ( `375.232 8736 v.1, 00357793 <https://toread.kmu.edu.tw/toread/opac/bibliographic_view/274199?location=0&q=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&start=0&view=CONTENT>`__ ，前棟3F一般圖書區(圖書館))、 `電子書 <https://kmu.airitibooks.com/Publication/Details?publicationID=P20090227139>`__ 
+           - `文藻外語大學圖書館 <https://lib.wzu.edu.tw/>`_ （缺）
+
+         * - `國立高雄科技大學圖書館 <https://www.lib.nkust.edu.tw/>`_  ( `375.232 7512 v.1 2001, 31000001649949 <https://nkust.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990050718960204121&context=L&vid=886NKUST_INST:86NKUST&lang=zh-tw&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__ ，第一圖書館 3F東方語文書庫) 、 `電子書 <https://nkust.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991003299819704121&context=L&vid=886NKUST_INST:86NKUST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__
+           - `國立高雄餐旅大學圖書館 <https://lic.nkuht.edu.tw/>`_ （缺）
+           - `樹德科技大學圖書館 <https://www.lib.stu.edu.tw/>`_  ( `375.27 7512 2001 v.1, C231327 <https://webpac.stu.edu.tw/webopac/Default.aspx>`__ )
+
+         * - `正修科技大學圖書資訊處 <https://li.csu.edu.tw/>`_ （缺）
+           - `輔英科技大學圖書館 <https://lib.fy.edu.tw/>`_  ( `375.27 7512 v.1 c.1, 00096613、 375.27 7512 v.1, 00060020 <https://webpact.fy.edu.tw/bookDetail/22136>`__ )
+           - `台鋼科技大學圖書館 <https://library.tsust.edu.tw/>`_  ( `電子書 <https://www.airitibooks.com/OtherLibraries/GoToOtherLibraryIndex?isShowAlert=P20090227139>`__ )
+
+         * - `樹人醫護管理專科學校圖書館 <https://lib.szmc.edu.tw/>`_ （缺）
+           - `育英醫護管理專科學校圖書館資圖組 <https://www.yuhing.edu.tw/ischool/publish_page/26/>`_ （缺）
+           - 
+
+      .. _`雲、嘉、南`:
+
+      .. _`台南市圖書館`:
+
+- `台南市立圖書館 <https://www.tnpl.tn.edu.tw/>`_  ( `375.233 7512 2007 v.6:2, TPL0025000 <https://lib.tnml.tn.edu.tw/webpac/content.cfm?mid=638655&m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&list_num=10&current_page=1&mt=&at=&sj=&py=&pr=&it=&lr=&lg=&si=>`__ )
+
+  | TPL0025000，新總館3F開架閱覽區，375.233 7512 2007 v.6:2， 
+  | TPL0024380，新總館3F開架閱覽區，375.233 7512 2006 v.6-1， 
+  | TPL0021916，新總館3F開架閱覽區，375.232 7512 2007 v.6:2 c.1， 
+  | TPL0021915，新總館3F開架閱覽區，375.33 7512 2007 v.9， 
+  | 31204005372231，鹽埕開架閱覽區，375.233 7512 2004 v.5下冊， 
+  | 31204005372223，鹽埕開架閱覽區，375.233 7512 2004 v.5上冊， 
+  | 31204005372330，鹽埕開架閱覽區，375.233 7512 2005 v.8-1， 
+  | 31204005695953，公園總館B1罕用書庫，375.232 7512 2007 v.6:2， 
+  | 31204003118693，裕文罕用書庫（需線上調閱），375.27 7512 2007 v.9，2007 v.9
+  | 31204003118651，裕文罕用書庫（需線上調閱），375.27 7512 2001 v.4，2001 v.4
+  | 31204003118685，裕文罕用書庫（需線上調閱），375.27 7512 2005 v.8，2005 v.8
+  | 31204003118669，裕文罕用書庫（需線上調閱），375.27 7512 2004 v.5-上冊，2004 v.5-上冊
+  | 31204003117901，裕文罕用書庫（需線上調閱），375.27 7512 2007 v.6-2下冊，2007 v.6-2下冊
+  | 31204003117893，裕文罕用書庫（需線上調閱），375.27 7512 2007 v.6-2上冊，2007 v.6-2上冊
+  | 31204003117885，裕文罕用書庫（需線上調閱），375.27 7512 2006 v.6-1，2006 v.6-1
+  | 31204003118677，裕文罕用書庫（需線上調閱），375.27 7512 2004 v.5-下冊，2004 v.5-下冊
+  | 202626，臺南研究資料館-公園總館（限館內閱覽），TNR 375.232 8736 v.6:1， 
+  | NC0027640，楠西開架閱覽區(閉館整修)，375.232 8736， 
+  | 31204001125492，林森罕用書庫（需線上調閱），375.27 7512 2001 v.4，2001 v.4
+  | 31204001125500，喜樹罕用書庫（需線上調閱），375.27 7512 v.4，v.4
+  | 31204001125468，林森罕用書庫（需線上調閱），375.27 7512 2001 v.1，2001 v.1
+  | 31204001125476，喜樹罕用書庫（需線上調閱），375.27 7512 2001 v.1，2001 v.1
+  | 383150，林森罕用書庫（需線上調閱），375.27 7512 v.3-1 c.2，v.3-1 c.2
+  | 383998，喜樹罕用書庫（需線上調閱），375.27 7512 v.3-2 c.4，v.3-2 c.4
+  | 383997，喜樹罕用書庫（需線上調閱），375.27 7512 v.3-1 c.4，v.3-1 c.4
+  | 383151，林森罕用書庫（需線上調閱），375.27 7512 v.3-2 c.2，v.3-2 c.2
+  | 359481，喜樹罕用書庫（需線上調閱），375.27 7512 v.2-1 c.6，v.2-1 c.6
+  | 359480，林森罕用書庫（需線上調閱），375.27 7512 v.2-1 c.5，v.2-1 c.5
+  | NH0024084，南化罕用書庫（需線上調閱），南化罕用書庫（需線上調閱），375.27 8736，NH0024084;3-1-(4)A
+  | PM0011587，北門罕用書書庫，北門罕用書書庫，375.27 8736，
+  | HP0004855，後壁罕用書庫（需線上調閱）(閉館整修)，後壁罕用書庫（需線上調閱）(閉館整修)，375.27 8736 v.1，3F2-1
+  | HP0004847，後壁罕用書庫（需線上調閱）(閉館整修)，後壁罕用書庫（需線上調閱）(閉館整修)，375.27 8736 v.2，3F2-1
+  | TA0006737，大內罕用書庫（需線上調閱），大內罕用書庫（需線上調閱），375.27 8736，
+  | CK0005055，七股罕用書庫（需線上調閱）(閉館整修)，七股罕用書庫（需線上調閱）(閉館整修)，375.27 8736，
+  | SA0000517，山上罕用書書庫，山上罕用書書庫，375.27 8736，
+  | HY0000777，下營罕用書庫（需線上調閱），下營罕用書庫（需線上調閱），375.27 8736 v.1，v.1
+  | HK0015040，西港開架閱覽區，西港開架閱覽區，375.27 8736，
+  | YS0019122，鹽水開架閱覽區(閉館整修)，鹽水開架閱覽區(閉館整修)，375.27 8736，
+  | SN0133460，善化罕用書庫（需線上調閱），善化罕用書庫（需線上調閱），375.27 8736，
+  | ED0104515，安定開架閱覽區，安定開架閱覽區，375.232 8736 1995 v.1，
+  | ZD0017834，仁德參考資料區，仁德參考資料區，R 375.27 8736，
+  | 
+
+      .. list-table:: 圖書館(台南市)
+         :widths: 33 33 33
+
+         * - `國立成功大學圖書館 <https://www.lib.ncku.edu.tw/>`_ ( `索書號 BOOK 375.232 7512b(1), 登錄號/條碼: 1122591、 375.232 7512b, 1097195 <https://ncku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991017643559707978&context=L&vid=886NCKU_INST:886NCKU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Everything&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&sortby=date_a&facet=frbrgroupid,include,9012776977391358966&offset=0>`__ )、 `電子書 <https://ncku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991020419899707978&context=L&vid=886NCKU_INST:886NCKU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__ 
+           - `國立臺南藝術大學圖書館 <https://lib.tnnua.edu.tw/>`_ （缺）
+           - `國立臺南大學圖書館 <https://lib.nutn.edu.tw/>`_  ( `375.27 7512 v.1,  <https://primo.nutn.edu.tw/primo-explore/fulldisplay?docid=NUTN_ALEPH005264053&context=L&vid=NUTN_N&lang=zh_TW&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__ ，府城總館，2樓中文書庫區)
+
+         * - `長榮大學圖書館 <https://dweb.cjcu.edu.tw/lib>`_  ( `375.232 8836 V.1, 31116000616497 <https://discovery.cjcu.edu.tw/primo-explore/fulldisplay?docid=CJCU_ALEPH005038344&context=L&vid=CJCU_N&lang=zh_TW&search_scope=ALL&adaptor=Local%20Search%20Engine&isFrbr=true&tab=ils_pc&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__ ，3F中文書庫區)
+           - `中信金融管理學院圖書館 <https://library.ctbc.edu.tw/>`_  ( `375.27  8736-2  v.1, 153625 <http://lib.ctbc.edu.tw/Webpac2/store.dll/?ID=167899&T=0&snc=D3400168D263E43D2E301102452A2E0D&ty=ns>`__ )
+           - `台灣基督長老教會台南神學院黃彰輝紀念圖書館 <https://www.ttcslib.org.tw/>`_ （缺）
+
+         * - `國立臺南護理專科學校圖資中心 <https://secr.ntin.edu.tw/lic>`_ （缺）
+           - `南臺科技大學圖書暨資訊處 <https://lib.stust.edu.tw/>`_ （缺）
+           - `崑山科技大學圖書資訊館 <https://www.lib.ksu.edu.tw/>`_  ( `BOOK 375.232 7512 v.1, KS122030 <https://libwebpac.ksu.edu.tw/webopac/Default.aspx>`__ )
+
+         * - `嘉南藥理大學圖書館 <https://lib.cnu.edu.tw/>`_  ( `375.27 7512 v.1, 204718 <https://webpac.cnu.edu.tw/bookDetail.do?id=116048&hyftdToken=188811017&nowid=14>`__ ，3F中文書庫)、 `電子書 <https://webpac.cnu.edu.tw/bookDetail.do?id=229080>`__
+           - `台南家專學校財團法人台南應用科技大學圖書館 <https://lib.tut.edu.tw/>`_  ( `375.232 7512 84, 815600 <https://inspire.tut.edu.tw/webpac/content.cfm?mid=162293&m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&s0=0&w=0&list_num=10&current_page=1&mt=&at=&sj=&py=&it=&lr=&lg=&si=>`__ ，4F中文圖書)、 `電子書 <https://inspire.tut.edu.tw/webpac/content.cfm?mid=334683&m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&s0=0&w=0&list_num=10&current_page=1&mt=&at=&sj=&py=&it=&lr=&lg=&si=>`__
+           - `中信科技大學圖書館 <https://library.ctbctech.edu.tw/>`_ （缺）、 `電子書 <https://hylib.ctbctech.edu.tw/bookSearchList.do?searchtype=simplesearch&execodeHidden=true&execode=&search_field=TI&search_input=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&searchsymbol=hyLibCore.webpac.search.common_symbol&resid=189082283&nowpage=1#searchtype=simplesearch&execodeHidden=true&execode=&search_field=TI&search_input=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&searchsymbol=hyLibCore.webpac.search.common_symbol&resid=189082283&nowpage=1>`__
+
+         * - `中華醫事科技大學圖書館 <https://lis.hwai.edu.tw/>`_  ( `BOOK 375.232 4343, 0056101 <https://webpac.hwai.edu.tw/bookDetail.do?id=79968&Lflag=1>`__ ，五樓書庫)
+           - `敏惠醫護管理專科學校圖書館 <https://c005.mhchcm.edu.tw/>`_ （缺）
+           - 
+
+      .. _`嘉義縣圖書館`:
+
+- `嘉義縣公共圖書館 <https://www.cycab.gov.tw/>`_  ( `375.27 7512, 20015000132435 <https://lib.cycab.gov.tw/bookDetail/67075>`__ )
+
+  | 東石鄉立圖書館/東石書庫，375.27 7512，20015000132435
+  | 溪口鄉立圖書館/溪口舊書及複本區，375.27 8736，20018000085728
+  | 布袋鎮立圖書館/布袋參考室，R 375.27 8736，20006000096738
+  | 朴子市金臻圖書館/朴子書庫，375.27 7512，20008000022771
+  | 民雄鄉立圖書館/民雄參考室，R 375.27 8736 v.1，20007000404898
+  | 鹿草鄉立圖書館/鹿草書庫，375.27 7512，20016000249393
+  | 義竹鄉立圖書館/義竹書庫，375.27 7512 v.1，20019000073185
+  | 六腳鄉立圖書館/六腳書庫，375.232 8736，20014000023512
+  | 新港鄉立圖書館/新港書庫，375.27 8736 v.1，20011000540214
+  | 新港鄉立圖書館/新港書庫，375.27 8736 v.2，20011000059744
+  | 太保市立圖書館/太保書庫，375.27 8726，20004000236354
+  | 大埔鄉立圖書館/大埔書庫，375.27 8736 v.1，20013000219567
+  | 竹崎鄉立圖書館/竹崎第二書庫，375.27 7512，20009000088432
+  | 新港鄉立圖書館/新港書庫，375.232 7512 V.8，20011000265689，
+  | 
+
+- `嘉義市公共圖書館 <https://library.chiayi.gov.tw/>`_ （缺）
+
+      .. list-table:: 圖書館(嘉義縣)
+         :widths: 33 33 33
+
+         * - `國立嘉義大學圖書資訊處 <https://website.ncyu.edu.tw/lib/>`_  ( `375.27 7512 90 v.1, C0054745 <https://libaleph.ncyu.edu.tw/F/Q2VLKH2RF2T3V2ID2FUSPDIQGF7BADRVSGKXL8ES4M5Y5FHF8M-07298?func=item-global&doc_library=TOP02&doc_number=005124211&year=&volume=&sub_library=LIBL1>`__ 蘭潭館，4樓中文圖書區)
+           - `國立中正大學圖書館 <https://lib.ccu.edu.tw/>`_ ( `375.232 8736, C01579702 <https://ccu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990050502140107979&context=L&vid=886CCU_INST:886CCU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Everything&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__ ，五樓中文書庫)
+           - `南華大學圖書館 <https://lib.nhu.edu.tw/>`_ ( `BOOK 375.232 7512, 00136658 <https://hylib.nhu.edu.tw//bookDetail.do?id=284129&resid=188827049&nowid=7>`__ ，3F東方語文圖書區)
+
+         * - `吳鳳科技大學圖書館 <https://www.lib.wfu.edu.tw/>`_  ( `375.232/8736, 0050755 <http://opac.lib.wfu.edu.tw/webpac/include/ShowBib.aspx?IN=110200&Objid=59715>`__ )
+           - `崇仁醫護管理專科學校教務處圖書出版組 <https://www.cjc.edu.tw/Front/AdministrativeUnit/AcademicAffairs/BookPublishingGroup/BookPublishingGroup-1/News.aspx?id=leXseTOyFSk=>`_ （缺）
+           - 
+
+      .. _`雲林縣圖書館`:
+
+- `雲林縣立圖書館 <https://lib.ylccb.gov.tw/>`_  ( `375.232 7512  v.1, 01654000007750 <https://webpacx.ylccb.gov.tw/bookDetail/207087>`__ )
+
+  | 四湖鄉立圖書館，375.232 7512 v.1，01654000007750；
+  | 二崙鄉立圖書館，375.232 7512 1996 v.1，01649000037849
+  | 口湖鄉立圖書館/口湖鄉圖書室，375.27 7512，1653000086277
+  | 元長鄉立圖書館/元長鄉圖書室，375.27 7512，1655000176834
+  | 麥寮鄉立圖書館/麥寮圖書室，375.232 8736，1638000089652
+  | 大埤鄉立圖書館/大埤鄉圖書室，375.232 7512 v.1，1631000087917
+  | 林內鄉立圖書館/林內鄉圖書室，375.232 7512 v.1，1643000182101
+  | 褒忠鄉立圖書館/褒忠鄉圖書室，375.232 7512 v.1，1634000209812
+  | 西螺鎮立圖書館/西螺鎮圖書室，375.23 7512，1648000431226
+  | 台西鄉立圖書館/台西罕用書庫，375.27 7512，1636000242131
+  | 
+
+      .. list-table:: 圖書館(雲林縣)
+         :widths: 50 50
+
+         * - `國立雲林科技大學圖書館 <https://www.lib.yuntech.edu.tw/>`_  ( `375.232 8736 v.1, C066990 <https://www.libwebpac.yuntech.edu.tw/bookDetail/86935>`__ ，中文書庫區五樓；375.232 8736 90 v.1, C121386)
+           - `國立虎尾科技大學圖書館 <https://library.nfu.edu.tw/>`_  ( `375.27 7512 84, C057735 <https://toread.lib.nfu.edu.tw/toread/opac/bibliographic_view/433429?location=0&q=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&start=0&view=CONTENT>`__ ，4F 書庫)、 `電子書 <https://toread.lib.nfu.edu.tw/toread/opac/bibliographic_view/688280?location=0&q=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&start=0&view=CONTENT>`__
+
+      .. _`中、彰、投`:
+
+      .. _`南投縣圖書館`:
+
+- `南投縣政府文化局圖書館 <https://www.nthcc.gov.tw/A7_4>`_  ( `357.232 7512 c.1 <https://webpac.nthcc.gov.tw/webpac/content.cfm?mid=408266&m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&list_num=10&current_page=1&mt=&at=&sj=&py=&pr=&it=&lr=&lg=&si=>`__ )
+
+  | 31308000169920，信義2樓一般圖書區，357.232 7512 c.1
+  | 31308000106278，信義2樓一般圖書區，357.232 7512 c.0
+  | 31303000032905，集集儲藏室，375.27 7512
+  | 
+
+      .. list-table:: 圖書館(南投縣)
+         :widths: 50 50
+
+         * - `國立暨南國際大學圖書館 <https://www.lib.ncnu.edu.tw/index.php/tw/>`_  ( `375.27 8736-2 v.1 c.2, C133842 <https://primo.lib.ncnu.edu.tw/primo-explore/fulldisplay?docid=NCNU_ILS005220898&context=L&vid=NCNU&lang=zh_TW&search_scope=ILS_PC&adaptor=Local%20Search%20Engine&tab=ils_pc&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__ ，4F 中文圖書區；ref 375.27 8736-2 v.1, C105964，B1調閱密集書庫圖書)
+           - `南開科技大學南開念先紀念圖書館 <https://library.nkut.edu.tw/>`_  ( `375.232 7512-2 84, 052473 <https://webpac.nkut.edu.tw/toread/opac/bibliographic_view?NewBookMode=false&id=18557&mps=20&q=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&start=0&view=CONTENT>`__ ，三樓書庫；375.232 7512-3 90 v.1, 108309)
+
+      .. _`彰化縣圖書館`:
+
+- `彰化縣立圖書館 <https://lib.bocach.gov.tw/>`_  ( `PB 375.232 7512 v.1, 31202004837683 <https://library.toread.bocach.gov.tw/webpac_rwd/content.cfm?mid=13234&m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&list_num=10&current_page=2&mt=&at=&sj=&py=&pr=&it=&lr=&lg=&si=>`__ )
+
+  | 31202004837683，縣圖閉架書庫，PB 375.232 7512 v.1，預約，宅配
+  | 31401000200066，溪湖書庫，375.27 7512，預約，宅配
+  | 31402000373655，田中書庫，375.27 7512 1995，預約，宅配
+  | 31402000487984，田中書庫，375.232 7512 2001 c.1，預約，宅配
+  | 31403000143452，北斗書庫，375.27 7512，預約，宅配
+  | 31404000199742，埔心書庫，375.27 8736，預約，宅配
+  | 31405000045116，永靖書庫，375.27 7512，預約，宅配
+  | 31406000208472，二林書庫，375.27 7512，預約，宅配
+  | 31408000075620，埤頭書庫，375.27 7512，預約，宅配
+  | 31410000176853，秀水書庫室，375.27 7512，
+  | 31411000108201，鹿港開架閱覽區，375.27 7512 84，預約，宅配
+  | 31412000264515，竹塘書庫，375.27 7512，預約，宅配
+  | 31414000130514，溪州書庫，375.27 7512，預約，宅配
+  | 31416000014473，芳苑參考室，R 375.232 7512 v.1，預約，宅配
+  | 31417000041086，田尾書庫，375.232 7512，預約，宅配
+  | 31419000183157，員林書庫(2館)，375.232 2780 85 v.4，預約，宅配
+  | 31420000142011，伸港開架閱覽區，375.27 7512 84 c.2，預約，宅配
+  | 31420000142029，伸港開架閱覽區，375.27 7512 84，預約，宅配
+  | 31423000143229，線西開架書區(2F)（休館中），375.9 4451，預約，宅配
+  | 31423000143237，線西開架書區(2F)（休館中），375.27 7512，預約，宅配
+  | 
+
+      .. list-table:: 圖書館(彰化縣)
+         :widths: 50 50
+
+         * - `國立彰化師範大學圖書與資訊處 <https://olis.ncue.edu.tw/>`_  ( `375.232 7512, 0308611 <https://webpacx.ncue.edu.tw/bookDetail/91068>`__ ，進德校區圖書館/四樓書庫)
+           - `大葉大學圖書館 <https://lib.dyu.edu.tw/>`_  ( `375.232 7512-1, 801375232000022 <https://webpac.dyu.edu.tw/toread311_DYU/opac/BibliographicView.page?id=139664&location=0&q=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&start=0&view=CONTENT>`__ ，三樓中文圖書區)、 `建國科技大學圖書資訊處 <https://ecc.ctu.edu.tw/p/412-1011-6207.php?Lang=zh-tw>`_ （缺）
+
+      .. _`臺中市圖書館`:
+
+- `臺中市立圖書館 <https://www.library.taichung.gov.tw/>`_  ( `375.27 7512 86, TCS0003860 <https://webpac.taichung.gov.tw/bookDetail/229228>`__ )
+
+  | 大里分館/大里開架閱覽區，375.23 7512 v.1 2001，31375000103639
+  | 大墩分館/大墩開架閱覽區，375.27 7512 V.1，TCC0233355
+  | 大墩分館/大墩開架閱覽區，375.27 7512 V.4，TCC0267040
+  | 大墩分館/大墩開架閱覽區，375.27 7512 V.1，TCC0235057
+  | 東區分館/東區開架閱覽區，375.27 7512 v.1 84，TCE0022539
+  | 東區分館/東區開架閱覽區，375.27 7512 v.2 86，TCE0021880
+  | 南區分館/南區開架閱覽區，375.27 7512 86，TCS0003860
+  | 清水紫雲巖圖書館/清水紫雲巖書庫，375.232 7512，31374000079238
+  | 東勢許良宇圖書館/東勢許良宇臺中學專區，TS 生態臺中 v.1，31361000270362
+  | 清水分館/清水開架閱覽區，375.232 7512 v.，31365000061572
+  | 
+
+- `國立公共資訊圖書館 <https://www.nlpi.edu.tw/>`_  ( `T 375.27 7512, 31120006487218 <https://ipac.nlpi.edu.tw/bookDetail/190111>`__ )、 `電子書 <https://ipac.nlpi.edu.tw/bookDetail/644861>`__
+
+  | 中興分館(南投)/中興3樓參考書區，參考資料，R 375.232 7512 V1，不可外借，R030795
+  | 總館/3樓文獻資料區，臺灣資料，T 375.27 7512 /T02A32，不可外借，31120006487226
+  | 總館/4樓自然科學區，中文圖書，375.27 7512，在架，31120006487218
+  | 總館閉架書庫/閉架書庫區(須調閱)，中文圖書，375.232 7512 V1 /101A31，在架，B127626
+  | 總館/3樓文獻資料區，臺灣資料，T 375.27 7512 v.1 /T02A32，不可外借，31120004631361
+  | 
+
+      .. list-table:: 圖書館(臺中市)
+         :widths: 33 33 33
+
+         * - `國立中興大學圖書館 <https://www.lib.nchu.edu.tw/>`_  ( `BOOK 375.232 7512-3, 511007 <https://nchu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990051758800107976&context=L&vid=886NCHU_INST:886NCHU_INST&lang=zh-tw&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__ )
+           - `國立臺中教育大學圖書館 <https://lib.ntcu.edu.tw/>`_  ( `375.232 7512 v.1, 0137983 <https://webpac.ntcu.edu.tw/bookDetail.do?id=396943&resid=188836441&nowid=13>`__ )
+           - `國立臺灣體育運動大學圖書資訊處 <https://lis.ntus.edu.tw/>`_  ( `375.27 7512 v.1, 0138153 <https://webpac.ntus.edu.tw/bookDetail/51857>`__ )
+
+         * - `逢甲大學圖書館 <https://web.lib.fcu.edu.tw/library/>`_  ( `375.232 7512 v.1, LBC499216 <https://fcu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991003289109709608&context=L&vid=886FCU_INST:886FCU_INST&lang=zh-tw&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__ )、 `電子書 <https://fcu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991008464659709608&context=L&vid=886FCU_INST:886FCU_INST&lang=zh-tw&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__
+           - `中山醫學大學圖書館 <https://lib.csmu.edu.tw/>`_  ( `375.232 7512 v.1 <https://aleph.csmu.edu.tw/F/C1XU3U2FTGCX7SDELQ8LR2QFS21TSHCN8P4HBF4LIAVESAU4V5-00471?func=full-set-set&set_number=000060&set_entry=000001&format=999>`__ )
+           - `中國醫藥大學圖書館 <https://lib.cmu.edu.tw/>`_  ( `375.27 7512 v.1, 011010062884 <https://weblis.cmu.edu.tw/webpac/content.cfm?mid=27250&m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&s0=0&w=0&list_num=10&current_page=1&mt=&at=&sj=&py=&it=&lr=&lg=&si=>`__ ，北港分部閉架書庫1；375.27 4450, 021010017722，北港分部書庫)
+
+         * - `亞洲大學圖書館 <https://library.asia.edu.tw/>`_  ( `375.232 7512 2001 v.1, C00163060 <https://aulib.asia.edu.tw/webpac/content.cfm?mid=108576&m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&s0=0&w=0&list_num=10&current_page=1&mt=&at=&sj=&py=&it=&lr=&lg=&si=>`__ ，4F中文書庫)
+           - `國立勤益科技大學圖書館 <https://library.ncut.edu.tw/>`_  ( `375.27 7512-1 v.1, 089478 <https://aleph.ncut.edu.tw/F/VDT2JEUHKTFK51INR5FH885CVJUQMXQIXJL73PNINM7U6PI1FX-17085?func=item-global&doc_library=TOP02&doc_number=001080841&year=&volume=&sub_library=LIB>`__ ; 132685)
+           - `國立臺中科技大學圖書館 <https://elib.nutc.edu.tw/>`_  ( `375.232 7512 V.1, 177599 <https://ntit.ent.sirsidynix.net/client/zh_TW/NUTC/search/results/?te=ILS&ln=zh_TW&q=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&rw=0#>`__ ，三民總館)
+
+         * - `朝陽科技大學波錠紀念圖書館 <https://www.lib.cyut.edu.tw/>`_  ( `375.232 7512 v.1, C169582 <https://cyut.on.worldcat.org/search/detail/1338442357?queryString=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&clusterResults=false&groupVariantRecords=false&stickyFacetsChecked=true&baseScope=wz%3A79224&format=Jrnl&format=Video&format=Book&format=Audiobook&format=Music&format=Msscr&scope=wz%3A79224&idDetect=true>`__ )
+           - `弘光科技大學圖書館 <https://lib.hk.edu.tw/>`_ （缺）
+           - `嶺東科技大學圖書館 <https://ltu2501.video.ltu.edu.tw/>`_  ( `375.27 8736 v.1, 091514 <https://webpac.ltu.edu.tw/webpac/content.cfm?mid=65771&m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&s0=0&w=1&list_num=10&current_page=1&mt=&at=&sj=&py=&pr=&it=&lr=&lg=&si=1&view=d>`__ ，總館A區5F)
+
+         * - `中臺科技大學圖書館 <https://lic.ctust.edu.tw/p/412-1025-4982.php?Lang=zh-tw>`_  ( `375.27 7512 v. 1, 0150569 <https://webpac.ctust.edu.tw/ctclib/queryt?mirn=0&sinput=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C>`__ )、 `電子書 <https://webpac.ctust.edu.tw/ctclib/queryt?mirn=0&sinput=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C>`__ , z154906)
+           - `僑光科技大學圖書館 <https://lib.ocu.edu.tw/>`_ （缺）、 `電子書 <https://webpacx.ocu.edu.tw/bookDetail/139559>`__
+           - `修平科技大學圖書館 <https://lib.hust.edu.tw/>`_  ( `R R375.232 7512, 37957000006492 <https://webopac.hust.edu.tw/webopac/>`__ ，B1中文密集書庫/總館，參考書)
+
+      .. _`桃、竹、苗`:
+
+      .. _`苗栗縣圖書館`:
+
+- `苗栗縣立圖書館 <https://lib.miaoli.gov.tw/>`__  ( `BOOK 375.27 8736 48655, 21584000026821 <https://webpacx.miaoli.gov.tw/bookDetail/228830>`__ )
+
+  | 三灣鄉立圖書館/三灣書庫，BOOK 375.27 8736，21051，21590000014857
+  | 頭屋鄉立圖書館/頭屋一般書庫，BOOK 375.27 8736 v.1，17588，21585000018809
+  | 竹南鎮立圖書館/竹南書庫，BOOK 375.27 8736，48655，21584000026821
+  | 卓蘭鎮立圖書館/卓蘭書庫，BOOK 375.27 8736 c.1 1995，20160，21576000041404
+  | 李科永紀念圖書館/李科永書庫，BOOK 375.232 8736 84，53337，21594000121159
+  | 後龍鎮立圖書館/後龍罕用書庫，BOOK 375.27 7512 1995，18177，21582000133134
+  | 公館鄉立圖書館/公館書庫，BOOK 375.27 8736 v.1，17280，21589000030806
+  | 苑裡鎮立圖書館/苑裡書庫，BOOK 375.232 7512 V.1，，21581000033807
+  | 三義鄉立圖書館/三義書庫，BOOK 375.27 8736，9347，A000971
+  | 獅潭鄉立圖書館/獅潭一般可外借圖書區，BOOK 375.27 7512 v.1 1995，13258，21579000041531
+  | 卓蘭鎮立圖書館/卓蘭書庫，BOOK 375.232 8736 v.1，28400，21576000281786
+  | 銅鑼鄉立圖書館/銅鑼書庫，BOOK 375.23 8736，，21588000116375
+  | 卓蘭鎮立圖書館/卓蘭書庫，BOOK 375.232 8736，29842，21576000361935
+  | 苑裡鎮立圖書館/苑裡書庫，BOOK 375.23 7512，九十二年預算，21581000552814
+  | 三灣鄉立圖書館/三灣書庫，BOOK 375.232 8736 v.1，，21590000417746
+  | 後龍鎮立圖書館/後龍罕用書庫，BOOK 375.232 8736 v.1，，21582000439994
+  | 
+
+      .. list-table:: 圖書館(苗栗縣)
+         :widths: 50 50
+
+         * - `國立聯合大學國鼎圖書館 <https://library.nuu.edu.tw/>`_  ( `BOOK 375.27 7512 90 v.1, 184168 <https://webopac.nuu.edu.tw/webopac/>`__ )、 `電子書 <https://webopac.nuu.edu.tw/webopac/>`__ (EB 375.232)
+           - `育達科技大學家聲紀念圖書館 <https://lib.ydu.edu.tw/T1/index.cfm>`_  ( `375.232 8736 2001 v.1, C0063248 <https://ilib.ydu.edu.tw/bookDetail.do?id=210272&resid=189021140&nowid=6>`__ ; C0089305)、 `仁德醫護管理專科學校圖書管理組 <https://lib.jente.edu.tw/>`_ （缺）
+
+      .. _`新竹縣圖書館`:
+
+- `新竹縣公共圖書館 <https://hcplibrary.hchcc.gov.tw/>`_  ( `Book 375.27 7512 v.1 c.1, OM00013269 <https://webpac.hchcc.gov.tw/bookDetail/36593>`__ )
+
+  | 文化局/文化局三樓書庫，Book 375.232 7512-2 c.1，
+  | 五峰/五峰，Book 375.27 7512 c.1，WF00007210
+  | 北埔/北埔罕借書區，Book 375.27 7512 c.1，PP00003914
+  | 峨眉/峨眉，Book 375.27 7512 v.2 c.1，OM00013270
+  | 峨眉/峨眉，Book 375.27 7512 v.1 c.1，OM00013269
+  | 關西/關西，Book 375.27 8736 c.1，KH00002630
+  | 橫山/橫山，Book 375.27 7512 c.1，HS00010239
+  | 新埔/新埔，R 375.27 8736 1995 c.1，HP00012597
+  | 芎林/芎林，Book 375.27 7512 v.1 c.1，HL00003496
+  | 竹東/A棟2樓，Book 375.27 7512 v.2 c.2，CT00010921
+  | 竹東/A棟2樓，Book 375.27 7512，CT00010920
+  | 
+
+      .. list-table:: 圖書館(新竹縣)
+         :widths: 50 50
+
+         * - `明新科技大學右任紀念圖書館 <https://admin.must.edu.tw/index.aspx?UnitID=73>`_ （缺）
+           - `敏實科技大學圖書館 <https://lib.mitust.edu.tw/>`_ （缺）
+
+- `新竹市立圖書館 <https://library.hccg.gov.tw/>`_ （缺）
+
+      .. list-table:: 圖書館(新竹市)
+         :widths: 50 50
+
+         * - `國立清華大學圖書館 <https://www.lib.nthu.edu.tw/>`__ ( `總圖 <https://nthu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990001313220206774&context=L&vid=886UST_NTHU:886UST_NTHU&lang=zh-tw&search_scope=NTHU_holding&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=title,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=10>`__ 375.27 8736, C243309、 `人社分館 <https://nthu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990002708820206774&context=L&vid=886UST_NTHU:886UST_NTHU&lang=zh-tw&search_scope=NTHU_holding&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=title,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__  375.27 8736 2001, C400493)
+           - `國立陽明交通大學圖書館 <https://www.lib.nycu.edu.tw/>`_   ( `375.232 7518 v.1, X332100 <https://nycu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990009614680206772&context=L&vid=886UST_NYCU:886UST_NYCU&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__ ，新竹交大校區圖書館，(四樓)中文圖書區)、375.233 7512 v.1, 30010100361628，台北陽明校區圖書館，傳甲典藏庫)
+
+         * - `中華大學圖書館 <https://lis.chu.edu.tw/>`_  ( `375.232 8736, C0069022 <http://opac.lib.chu.edu.tw:8080/webopac/>`__ )、 `電子書 <http://opac.lib.chu.edu.tw:8080/webopac/>`__
+           - `元培醫事科技大學圖書組 <https://lib.ypu.edu.tw/>`_ （缺）
+
+      .. _`桃園市圖書館`:
+
+- `桃園市立圖書館 <https://www.typl.gov.tw/zh-tw>`_  ( `375.232 7512, 318297 <https://webpac.typl.gov.tw/bookDetail/1354378>`__ )
+
+  | 大溪分館/總館三樓書庫，375.27 7512 v1 C2，E026849
+  | 中壢分館/書庫，375.27 7512，B051357
+  | 文化局分館/開架室/區，375.232 7512，318297
+  | 蘆竹分館/3樓書庫，375.232 7122，H139963
+  | 
+
+      .. list-table:: 圖書館(桃園市)
+         :widths: 33 33 33
+
+         * - `國立中央大學圖書館 <https://www.lib.ncu.edu.tw/>`_  ( `375.232 7512 v.1, 1043172,  <https://ncu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991001394129706773&context=L&vid=886UST_NCU:886UST_NCU&lang=zh-tw&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=nculib&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__ )
+           - `中原大學張靜愚紀念圖書館 <https://lib.cycu.edu.tw/>`_  ( `375.232 7512 v.1, E211577; E243885 <https://cylis.lib.cycu.edu.tw/search~S1*cht?/t{u53F0}{u7063}{u690D}{u88AB}{u8A8C}/t{21542b}{214943}{214474}{215756}{21586d}/1%2C12%2C13%2CE/2exact&FF=t{21542b}{214943}{214474}{215756}{21586d}+{214f73}{213021}{21407b}+{21516d}{215924}{213523}{214474}{215756}{213c53}{214545}{215924}&1%2C2%2C>`__ ，總圖4樓書庫)
+           - `國立體育大學圖書館 <https://lib.ntsu.edu.tw/>`_  ( `375.232 7512 V.1, E079509 <http://192.83.181.243/uhtbin/cgisirsi/?ps=ThBAz1MdBC/NTSU/128340005/9>`__ ，4F中日文圖書區)
+
+         * - `長庚大學圖書館 <https://www.cgu.edu.tw/library/>`_ （缺）
+           - `長庚科技大學圖書館 <https://lis.cgust.edu.tw/>`_  ( `375.232 8736, 0082813 <https://aleph.lib.cgu.edu.tw/F/VFRLEQMMVSL6H781BAV4Y5S8RAH3GH4KIDBQXLARSU6YFT2QAB-00291?func=item-global&doc_library=FLY04&doc_number=005088697&year=&volume=&sub_library=>`__ 林口總館，3F書庫、BC0000321，嘉義分部，嘉義中文書庫)、
+           - `南亞技術學院 <https://web.nanya.edu.tw/library/>`_ （缺）
+
+         * - `元智大學圖書館 <https://www.yzu.edu.tw/library/index.php/tw/>`_ （缺）
+           - `開南大學圖書館 <https://lib.knu.edu.tw//?Lang=zh-tw>`_ （缺）
+           - `龍華科技大學資訊圖書處 <https://il.lhu.edu.tw/>`_  ( `375.232 7512 v.1, C070432 <https://webpac.lhu.edu.tw/webpac/ele_content.cfm?mid=252385&m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&s0=0&w=0&list_num=10&current_page=1&mt=&at=&sj=&py=&it=&lr=&lg=&si=>`__ ，密集書庫(請洽三樓流通櫃檯申請調閱))
+
+         * - `健行科技大學圖書館 <https://www.lib.uch.edu.tw/>`_  ( `375.232 7512, C0081973 <https://webpac.uch.edu.tw/bookDetail/338178>`__ ，健行科大圖書館/密集書庫室，參考書)
+           - `萬能科技大學圖書館 <https://administration.vnu.edu.tw/lib>`_  ( `375.232 7512 v.1, C0425931 <https://webpaclib.vnu.edu.tw/bookDetail.do?id=187900&hyftdToken=188816730&nowid=1>`__ ，總館/3樓中文書庫)
+           - `新生醫護管理專科學校圖書館 <https://lib.hsc.edu.tw/>`_ （缺）
+
+      .. _`北、北、基`:
+
+      .. _`基隆市圖書館`:
+
+- `基隆市公共圖書館 <https://kllib.klcg.gov.tw/>`_ （缺）
+
+      .. list-table:: 圖書館(基隆市)
+         :widths: 33 33 33
+
+         * - `國立臺灣海洋大學圖書暨資訊處 <https://li.ntou.edu.tw/>`_  ( `375.27 7512  v.1, C115159 <https://ocean.ntou.edu.tw/search*cht?/X{u53F0}{u7063}{u690D}{u88AB}{u8A8C}&SORT=D/X{u53F0}{u7063}{u690D}{u88AB}{u8A8C}&SORT=D&SUBKEY=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C/1%2C11%2C11%2CB/frameset&FF=X{u53F0}{u7063}{u690D}{u88AB}{u8A8C}&SORT=D&5%2C5%2C>`__ ，B1罕用書調閱單)
+           - `崇右影藝科技大學圖書資訊中心 <https://lic.cufa.edu.tw/>`_  （缺）、 
+           - `德育護理健康學院圖書館 <https://lib.dyhu.edu.tw/>`_  ( `375.232 8736 v.1, 040956 <https://collections.dyhu.edu.tw/bookDetail.do?id=26402>`__ )
+
+      .. _`新北市圖書館`:
+
+- `新北市立圖書館 <https://www.library.ntpc.gov.tw/>`_  ( `375.27 8736 v.1, HBB056111 <https://webpac.ntpclib.gov.tw/Miracle_rwd/content?mId=90068>`__ ，選「詳細」)
+
+  | 條碼號，館藏地，館藏流通類別，資料類型，索書號，館藏狀態，備註，附件
+  | EAB018805，鶯歌開架閱覽，圖書可借30天，中文圖書Chinese，Books，375.27，8736，v.2，在架  
+  | FAB028742，永和開架閱覽[工程閉館，臨時櫃台週一至週日，9:00-17:00]，圖書可借30天，中文圖書Chinese，Books，375.27，7512，v.1，在架  
+  | FAB035368 永和開架閱覽[工程閉館，臨時櫃台週一至週日 9:00-17:00] 圖書可借30天 中文圖書Chinese Books 375.27 7512 v.2 在架  
+  | HAB028848 三重開架閱覽[重建閉館] 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.2 在架  
+  | HDB008579 三重崇德開架閱覽 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.1 盤點未到  
+  | IAB007118 新莊福營參考室 不外借 參考書Chinese Reference Resources R 375.27 8736 c.2 盤點未到  
+  | ICB009857 新莊中港開架閱覽 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.2 在架  
+  | KBB003502 蘆洲集賢開架閱覽 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.1 在架  
+  | KBB031559 蘆洲集賢開架閱覽 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.2 在架  
+  | LBB013178 泰山貴子開架閱覽 圖書可借30天 中文圖書Chinese Books 375.232 8736 在架
+  | HBB056111 總館8樓開架閱覽[0-3類] 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.1 在架  
+  | HDB008579 三重崇德開架閱覽 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.1 盤點未到  
+  | IAB007118 新莊福營參考室 不外借 參考書Chinese Reference Resources R 375.27 8736 c.2 盤點未到  
+  | ICB009857 新莊中港開架閱覽 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.2 在架  
+  | KBB003502 蘆洲集賢開架閱覽 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.1 在架  
+  | KBB031559 蘆洲集賢開架閱覽 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.2 在架  
+  | LBB013178 泰山貴子開架閱覽 圖書可借30天 中文圖書Chinese Books 375.232 8736 在架  
+  | OBB021150 中和大同參考室 不外借 參考書Chinese Reference Resources R 375.27 7512 v.2 在架  
+  | PAB013004 八里開架閱覽 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.1 在架  
+  | PAB013005 八里開架閱覽 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.2 在架
+  | RAB003853 深坑開架閱覽 圖書可借30天 中文圖書Chinese Books 375.27 7512 在架  
+  | RAB004032 深坑開架閱覽 圖書可借30天 中文圖書Chinese Books 375.27 7512 c.2 在架  
+  | SAB011607 石碇開架閱覽 圖書可借30天 中文圖書Chinese Books 375.27 8736 在架  
+  | UBB006211 淡水竹圍開架閱覽 圖書可借30天 中文圖書Chinese Books 375.232 8736 v.2 在架  
+  | WAB018591 金山開架閱覽 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.1 在架  
+  | WAB018592 金山開架閱覽 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.2 在架  
+  | XAB006711 雙溪參考室 不外借 參考書Chinese Reference Resources R 375.27 8736 v.1 在架  
+  | XAB007830 雙溪參考室 不外借 參考書Chinese Reference Resources R 375.27 8736 v.2 在架  
+  | ZAB003426 萬里開架閱覽 圖書可借30天 中文圖書Chinese Books 357.27 7512 v.1 在架  
+  | ZAB007606 萬里開架閱覽 圖書可借30天 中文圖書Chinese Books 375.232 8736 v.1 c.2 在架
+  | ZBB012366 總館8樓開架閱覽[0-3類] 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.1 c.2 在架  
+  | ZBB012367 總館8樓開架閱覽[0-3類] 圖書可借30天 中文圖書Chinese Books 375.27 8736 v.2:1 在架
+  | 
+
+      .. list-table:: 圖書館(新北市)
+         :widths: 33 33 33
+
+         * - `國立臺北大學圖書館 <https://library.ntpu.edu.tw/>`_  ( `375.27 7512 v.1, CM059636 <https://wpac.lib.ntpu.edu.tw/webpac/content.cfm?mid=58081&m=ss&k0=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&t0=k&c0=and&s0=0&w=0&list_num=10&current_page=1&mt=&at=&sj=&py=&pr=&it=&lr=&lg=&si=1&view=d>`__ )
+           - `國立臺灣藝術大學圖書館 <https://lib.ntua.edu.tw/>`_  （缺）
+           - `輔仁大學圖書館 <https://home.lib.fju.edu.tw/>`_  ( `375.233 7512  v.1, E045836N <https://library.lib.fju.edu.tw:444/search*cht?/t{u53F0}{u7063}{u690D}{u88AB}{u8A8C}/t{21542b}{214943}{214474}{215756}{21586d}/1%2C5%2C6%2CB/exact&FF=t{21542b}{214943}{214474}{215756}{21586d}+{214f73}{213021}{21407b}+{21516d}{215924}{213523}{214474}{215756}{213c53}{214545}{215924}&1%2C2%2C>`__ ，濟時樓圖書館圖書區；375.233 7512  v.1 c.2, E290387A)
+
+         * - `淡江大學覺生紀念圖書館 <https://www.lib.tku.edu.tw/>`_  ( `375.232, 8736 v.1, 00001227083 <https://uco-tku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991006752579705912&context=L&vid=886UCO_TKU:886TKU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=title,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C,AND&query=creator,contains,%E9%99%B3%E7%8E%89%E5%B3%AF,AND&mode=advanced&offset=0>`__ ，總館6樓書庫)
+           - `國立空中大學圖書館 <https://library.nou.edu.tw/>`_ （缺）
+           - `華梵大學圖書館 <https://lib.hfu.edu.tw/>`_  ( `375.232 8736 v.1, C072955 <http://webopac.hfu.edu.tw/webopac/>`__ ，總館 中文書庫 (2F))
+
+         * - `法鼓文理學院圖書館 <https://lic.dila.edu.tw/>`_  ( `G 375.233 7512 v.1 [1996], BD0006238 <https://licbib.dila.edu.tw/F/LM8HRM7FEPVFKF2UTIBHGXUVGQA75LNQJ9IL2C1HSK2KBM68Y6-02910?func=item-global&doc_library=TOP01&doc_number=000545853&year=&volume=&sub_library=>`__ ，麗英館/世學中文圖書區)
+           - `馬偕醫學大學圖書資訊處圖書館 <https://lib.mmu.edu.tw/>`_ （缺）
+           - `真理大學圖書館 <https://library.au.edu.tw/>`_  ( `375.27 8736 v.1, 111108087 <https://lib.au.edu.tw/webopac/>`__ ，總館2F/台北校區；111108087、111116024)
+
+         * - `臺北基督學院圖書館 <https://lib.cct.edu.tw/>`_ （缺）
+           - `明志科技大學圖書館 <https://library.mcut.edu.tw/>`_ （缺）
+           - `聖約翰科技大學圖書館 <https://www.sju.edu.tw/lib.aspx>`_ （缺）
+
+         * - `景文科技大學圖書資訊處圖書館 <https://lis.just.edu.tw/p/412-1017-2956.php?Lang=zh-tw>`_  ( `375.232 7512 v.1, 0038361 <https://jinwenlib.just.edu.tw/bookDetail.jsp?nowid=1&id=85750&resid=188810525>`__ ，圖書總館/4F中文書庫)
+           - `東南科技大學圖書資訊處 <https://oli.tnu.edu.tw/>`_  ( `375.232 8736, 044081 <https://opac.tnu.edu.tw/cgi-bin/koha/opac-detail.pl?biblionumber=48219&query_desc=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C>`__ ，3樓中文書庫；067009、067008)
+           - `醒吾科技大學資訊圖書處 <https://ils.hwu.edu.tw/>`_  ( `375.232 8736 v.1, 00019118 <https://ilswebpac.hwu.edu.tw/toread/opac/bibliographic_view/18545?limit=20&offset=local%3A-1&q=all_titles%3A%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&source=local&view=CONTENT>`__ )
+
+         * - `華夏科技大學圖書館 <https://lib.hwh.edu.tw/bin/home.php>`_  ( `375.232 7512 2001 v.1, 0165870 <http://webopac.lib.hwh.edu.tw/webopac/BookView1.aspx?url=Cxjg.aspx&dc=1&fc=4&n=7&d=Info000072&cata01=BHC0168657&key=0&num=1&l=&dd=>`__ ，四樓中文書庫/總館)
+           - `致理科技大學圖書館 <https://lib.chihlee.edu.tw/mp.asp?mp=100>`_ （缺）
+           - `德霖科技大學圖書館 <https://lib.hdut.edu.tw/>`_ （缺）
+
+         * - `台北海洋科技大學圖書館 <https://lib.tumt.edu.tw/>`_ （缺）
+           - `黎明技術學院圖書館 <https://www.lit.edu.tw/labs/3449/>`_ （缺）、 `耕莘健康管理專科學校圖書館 <https://lib.ctcn.edu.tw/>`_ （缺）
+           - `亞東科技大學圖書館 <https://lib.aeust.edu.tw/p/426-1079-1.php>`_ （缺）、 `電子書 <https://opac.aeust.edu.tw/webopac/>`__
+
+      .. _`臺北市圖書館`:
+
+- `臺北市立圖書館 <https://tpml.gov.taipei/>`_  ( `375.233 7512 V.1, A14 <https://book.tpml.edu.tw/bookDetail/388525>`__ ； `375.233 7512 V.1, J12 <https://book.tpml.edu.tw/bookDetail/99622>`__)
+
+  | 館藏地，館藏類型，索書號，備註
+  | A13三民/參考室(不可預約)，不流通資料(不可預約)，375.233 7512 V.1，不可外借
+  | A13三民/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | A14中崙/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | B11永春/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | C11道藩/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | D12長安/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | D13大直/密集書庫區(採線上預約)，書刊，375.233 7512 V.1，可外借/閉架
+  | E11王貫英/密集書庫區(採線上預約)，書刊，375.233 7512 V.1，可外借/閉架
+  | F12大同/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | G14萬華/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | H15文山/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | H16力行/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | I11南港/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | I12舊莊/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | J12東湖/密集書庫區(採線上預約)，書刊，375.233 7512 V.1，可外借/閉架
+  | J13西湖/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | K12天母/參考室(不可預約)，不流通資料(不可預約)，375.233 7512 V.1，不可外借
+  | L12稻香/密集書庫區(採線上預約)，書刊，375.233 7512 V.1，可外借/閉架
+  | L14清江(週二至週六17:00起，圖書借還由讀者自助辦理，獎品兌換等櫃臺服務項目暫停受理)/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | L15吉利/密集書庫區(採線上預約)，書刊，375.233 7512 V.1，可外借/閉架
+  | L41秀山書閣/密集書庫區3(採線上預約)，書刊，375.233 7512 V.1，可外借/閉架
+  | A13三民/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | D12長安/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | G14萬華/密集書庫區(採線上預約)，書刊，375.233 7512 V.1，可外借/閉架
+  | G14萬華/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | H14萬興/密集書庫區(採線上預約)，書刊，375.233 7512 V.1，可外借/閉架
+  | I12舊莊/特色館藏區，書刊，375.233 7512 V.1，可外借
+  | J12東湖/密集書庫區(採線上預約)，書刊，375.233 7512 V.1，可外借/閉架
+  | K12天母/一般書庫區，書刊，375.233 7512 V.1，可外借
+  | L11北投/特色館藏區，書刊，375.233 7512 V.1，可外借
+  | 
+
+      .. list-table:: 圖書館(臺北市)
+         :widths: 33 33 33
+
+         * - `國立臺灣師範大學圖書館 <http://www.lib.ntnu.edu.tw/>`_  ( `574 440-5(2) V.1 1996年2刷, BM0129100 <https://www.lib.ntnu.edu.tw/holding/doQuickSearch.jsp?newQuery=true&searchtype=X&search=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C>`__ ，總館7F書架、B10568320:歷史系、 B10588190：美術系、BM0308257：公館分館)
+           - `國立政治大學圖書館 <https://www.lib.nccu.edu.tw/>`_  ( `575.232 4403 <https://nccu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991016944239705721&context=L&vid=886NCCU_INST:886NCCU_INST&lang=zh-tw&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__ ，總圖中文撤架區)
+           - `國立臺北藝術大學圖書館 <https://lib2.tnua.edu.tw/>`_ （缺）
+
+         * - `國立臺北教育大學圖書館 <https://lib.ntue.edu.tw/>`_  ( `375.233 7512 v.1c.2, 000982385 <https://aleph18.lib.ntue.edu.tw/F/V3X4AV27QU7IJVS8XVAR3IEDSEJHKGD8M4A9DAQ8Y52U847VIX-06660?func=full-set-set&set_number=050402&set_entry=000010&format=999>`__ ，總館)
+           - `臺北市立大學圖書館 <https://lib.utaipei.edu.tw/UTWeb/wSite/mp?mp=1>`_  ( `375.232 7512, A0157192 <https://webpac.utaipei.edu.tw/bookDetail/135430>`__ ，博愛閉架書庫/中文圖書區)、 `電子書 <https://webpac.utaipei.edu.tw/bookDetail/212966>`__
+           - `臺北醫學大學圖書館 <https://library.tmu.edu.tw/>`_  ( `375.232 7512 84 v.1, C0108784 <https://libelis.tmu.edu.tw/bookDetail.do?id=17886&hyftdToken=188822522&nowid=6>`__ ，北醫圖書館(信義)/2F中文圖書區)、 `電子書 <https://libelis.tmu.edu.tw/bookDetail.do?id=215695&hyftdToken=188822522&nowid=4>`__
+
+         * - `東吳大學圖書館 <https://www.lib.scu.edu.tw/>`_  ( `375.232 7512, 條碼: M10148701 <https://uco-scu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991004993619705913&context=L&vid=886UCO_SCU:886SCU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=title,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__ ，雙溪中正書庫)
+           - `文化大學圖書館 <https://lib.pccu.edu.tw/>`_  ( `375.232 7512, B00163741 <https://webpac.pccu.edu.tw/search~S1*cht?/t{u53F0}{u7063}{u690D}{u88AB}{u8A8C}/t14{21542b}25{214943}12{214474}11{215756}14{21586d}/1%2C1%2C2%2CE/frameset&FF=t14{21542b}25{214943}12{214474}11{215756}14{21586d}&2%2C%2C2>`__ ，總館5F中文圖書區)
+           - `世新大學圖書館 <https://lib.shu.edu.tw/>`_ （缺）
+
+         * - `銘傳大學圖書館 <https://library.mcu.edu.tw/>`_  ( `375.232 4454 v.5 pt.1 c.2, C0426605 <https://uco-mcu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000442319705914&context=L&vid=886UCO_MCU:886MCU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&offset=0>`__ ，桃園館、C0426603:臺北館,1F中文書庫、C0229579：台北F棟101典藏室)
+           - `實踐大學圖書館 <https://lib.usc.edu.tw/>`_ （缺）
+           - `大同大學圖書館 <https://library.ttu.edu.tw/>`_ （缺）
+
+         * - `國立臺灣科技大學圖書館 <https://library.ntust.edu.tw/>`_  ( `375.27 736, C120728 <https://sierra.lib.ntust.edu.tw/search~S1*cht?/t{u53F0}{u7063}{u690D}{u88AB}{u8A8C}/t14{21542b}25{214943}12{214474}11{215756}14{21586d}/1%2C2%2C6%2CB/exact&FF=t14{21542b}25{214943}12{214474}11{215756}14{21586d}&1%2C4%2C>`__ 2F中文書庫)
+           - `國立臺北科技大學圖書館 <https://lib.ntut.edu.tw/>`_  ( `375.232 8736 2001 v.1, 1155049 <https://holding.lib.ntut.edu.tw/bookDetail/104833>`__ ，三樓書庫) 
+           - `國立臺北護理健康大學圖書館 <https://library.ntunhs.edu.tw/>`_ （缺）
+
+         * - `國立臺北商業大學圖書館 <https://library.ntub.edu.tw/>`_ （缺）、 `電子書 <https://webpacx.ntub.edu.tw/bookDetail/130236>`__
+           - `國立臺灣戲曲學院圖書館 <https://rb009.tcpa.edu.tw/p/450-1012-1289,c1.php>`_ （缺）
+           - `德明財經科技大學圖書館 <https://www1.takming.edu.tw/lib/>`_ （缺）
+
+         * - `臺北城市科技大學圖書資訊處 <https://lis.tpcu.edu.tw/>`_ （缺）
+           - `馬偕醫護管理專科學校圖書館 <https://web.mkc.edu.tw/Site/olis?Sn=anz7N79mvBCjpFOwDInkkSAU0KikPEke&%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF>`_  ( `375.232 8736 2001 <http://lib-aleph.mkc.edu.tw/F/UDHGX7P8FAJ4L1XLXD1GGA8X69EK893VQ3ABBXQRDG9V8FU1S3-22886?func=short-0&set_number=005487>`__ ，三芝)
+           - `中華科技大學圖書館 <https://library.cust.edu.tw/>`_ （缺）、 `中國科技大學圖書館 <http://www.lib.cute.edu.tw/>`_ （缺）
+
+         * - `康寧大學圖書館 <https://library.ukn.edu.tw/>`_  ( `375.232 7512 1995 v.1, C007126 <http://webpac.knjc.edu.tw/bookDetail.do?id=41694&Lflag=1>`__ ，北部校區圖書館/書庫，報銷處理中)
+           - `台灣神學研究學院圖書館 <https://lib.tgst.edu.tw/>`_  ( `SB950.3.T35 C47 <https://aleph.flysheet.com.tw/F/X4NYP7PAE4TNF6KG7EIM98MCG59618TDYXD56156GTALEGEYPE-11242?func=short-0&set_number=093382>`__ ，一般書區)
+           - `台灣浸會神學院圖書資訊中心 <https://tbts.edu.tw/data.php?id=353>`_ （缺）
+
+    - 電子書： `臺灣華文電子書庫 <https://taiwanebook.ncl.edu.tw/zh-tw/book/NCL-002364858>`__
+
+------
+
+       `書籍簡目`_
+
+.. _`卷二：高山植被帶及高山植物（上）、（下）`:
+
+  * **卷二：高山植被帶及高山植物（上）、（下）**
+
+    (1997)∕陳玉峯∕
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`卷三：亞高山冷杉林帶及高地草原（上）、（下）`:
+
+  * **卷三：亞高山冷杉林帶及高地草原（上）、（下）**
+
+    (1998)、
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`卷四：檜木霧林帶`:
+
+  * **卷四：檜木霧林帶**
+
+    (2001)、
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`卷五：台灣鐵杉林帶（上）、（下）`:
+
+  * **卷五：台灣鐵杉林帶（上）、（下）**
+
+    (2004)、
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`卷六：闊葉林（Ⅰ）南橫專冊`:
+
+  * **卷六：闊葉林（Ⅰ）南橫專冊**
+
+    (2006)、
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`卷六：闊葉林（Ⅱ）（上）`:
+
+  * **卷六：闊葉林（Ⅱ）（上）**
+
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`卷六：闊葉林（Ⅲ）（下）`:
+  
+  * **卷六：闊葉林（Ⅲ）（下）**
+
+    (2007) 、
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`卷七：海岸植被誌`:
+
+  * **卷七：海岸植被誌**
+
+    陳玉峯 / 愛智圖書有限公司 / 2023-01-01 / ISBN 9789576085925 （上）、 9789576085932（下）
+
+    內容簡介：
+
+    你知道台灣全國低於海平面的面積，已超過15萬公頃嗎？你知道環台千餘公里海岸線，已無法天然形成海岸林嗎？你知道台灣今後海岸地區災變的強度與頻度勢必會加劇嗎？
+
+    陳玉峯自1970年代末葉迄今，便開始斷續進行台灣海岸植被的調查。其一生調查的台灣海岸植被，完整撰寫成《海岸植被誌》一書，並將日治時代海岸研究的總代表鈴木重良（1932）的〈台灣海岸植物一覽〉重新整理。《海岸植被誌》完整交代台灣全島海岸植被，基於自然生態保育、國土綠網的理念，提供海岸復育堅實的引據。陳玉峯一生調查研究台灣植被48年，撰寫成《台灣植被誌系列》20餘冊，睽違10多年，台灣植被誌第七卷—《海岸植被誌》上、下2冊，完整補齊了《台灣植被誌系列》。以將近半個世紀調查、研究台灣植被科學，深深領悟天文、地文、生文暨人文同體共構、交互影響、彼此應現，我們對待自然生態系的態度暨行為，相當於我們如何對待良知暨後代子孫。
+
+    長年來，陳玉峯由自然科學自自然然聯結到屬靈的原鄉，而以生前死後的永恆長河，感受沒有任何刻意去感受的眾生的際遇，直到成為地景、風景本身。
+
+    `台灣雲端書庫 <https://www.ebookservice.tw/>`__ `上冊 <https://www.ebookservice.tw/chc/book/1e3e1b67-71b8-4ba6-8e80-aacce2423d61>`__ (電子書)、  `下冊 <https://www.ebookservice.tw/chc/book/09741fca-680d-4bf5-aeab-1841db48c6be>`__
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`卷八—地區植被（Ι）：大甲植被誌`:
+
+  * **卷八—地區植被（Ι）：大甲植被誌**
+
+    (2004)、
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`卷八—地區植被（Ⅱ）：大肚山植被`:
+
+  * **卷八—地區植被（Ⅱ）：大肚山植被**
+
+    (2005)
+
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`卷九：物種生態誌（一）`:
+
+  * **卷九：物種生態誌（一）**
+
+    (2007)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`卷十：物種生態誌（二）`:
+
+  * **卷十：物種生態誌（二）**
+
+    2008
+
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`卷十一：物種生態誌（三）`:
+
+  * **卷十一：物種生態誌（三）**
+
+    2008
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`卷十二：物種生態誌（四）`:
+
+  * **卷十二：物種生態誌（四）**
+
+    2009
+
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`台灣木竹材的利用`:
+
+       **台灣木竹材的利用**
+       
+       2025，郭自得譯，陳玉峯整理，台灣生態學會，山林書院叢書:51，430頁，彰化縣，彰化市
+
+    ——————————————————
+
+    林業保育署 2025-08-21 《台灣木竹材的利用》新書發表暨讀者見面會 從百年史料到當代永續——重現台灣木竹材知識體系，銜接文化傳承與淨零未來 https://www.forest.gov.tw/news/0076797 ：
+
+    農業部林業及自然保育署與上森景觀設計合作，於今(21)日舉辦《台灣木竹材的利用》新書發表暨讀者見面會，由長期研究山林文化與工藝史的陳玉峯老師整理，結合百年前日治時期的珍貴史料與現代材料科學的新知，完整呈現台灣木竹材的分類、性質、加工技術、應用方式以及文化意涵。林業保育署期望藉此推廣在地綠色建材建材應用於建築、設計與景觀等領域提供專業參照，邁向2050淨零碳排永續目標。
+
+　　《台灣木竹材的利用》一書的原始基礎，源自於百餘年前日治時期的木竹材調查研究。當時，由日本林業部長金平亮三博士率領專業團隊，對臺灣常見木材與竹材進行了系統性的調查與記錄，內容涵蓋材料的分類、性質特徵、加工方式、適用範圍以及實際應用案例。這些資料以當時嚴謹的科學方法撰寫，成為台灣自然材料最早且完整的知識架構，也為後世研究與應用提供了寶貴基礎。
+
+　　出版過程由郭自得先生將原稿精確翻譯，確保史料的專業語義與技術細節得以忠實呈現；再由數十年投身於生態、哲學與工藝研究的陳玉峯老師整理，將這批百年史料置於當代在地語境下加以詮釋與文化轉譯。
+
+　　林業保育署表示，書中不僅保留了原始資料的歷史風貌，更進一步補充現代材料科學、環境適應性與固碳性能等資訊，讓傳統知識與當代永續理念緊密結合。這樣的再詮釋，不僅彰顯木竹材作為文化資產的地位，也為未來木竹材固碳量化、材料永續評估及國家淨零策略的推動奠定了科學基礎。
+
+　　林業保育署署長林華慶表示，木竹材文化深植於臺灣生活脈絡，從建築、農具到日常器物皆留下智慧。然而隨著工業化與全球化，可再生的木竹建材反而逐漸被取代，傳統知識面臨斷層危機，本書的出版正是產業與文化復興的重要里程碑。特別感謝陳玉峯老師的專業投入，以及企業的贊助支持，使本書得以順利出版，展現學術、產業與政府跨領域合作，共同推動文化傳承與永續發展。
+
+    中央社 2025/08/21 14:50:27， https://www.cna.com.tw/postwrite/chi/410228 ：《台灣木竹材的利用》新書發表暨讀者見面會 從百年史料到當代永續－重現台灣木竹材知識體系，銜接文化傳承與淨零未來
+
+       ――――――
+       
+       - **章節**
+
+         | 重啟台灣百年木竹文化｜上森公司 蔡再益總經理
+         | 為樹立傳，為山言志｜上境設計／上典景觀 吳靜宜總經理
+         | 循木而尋路，聽竹知心｜福境群公司 盧文德董事長
+         | 譯本代序｜陳玉峯
+         | 譯本前言｜陳玉峯
+         | 
+         | 第一篇 總論
+         | 
+         |    第1章 木材
+         |    第2章 台灣的住民與本島人
+         |    第3章 台灣產的樹木
+         |    第4章 市場的木材
+         |    
+         | 第二篇 各論
+         |    
+         |    第一 建築用材
+         |    第二 木造船及竹筏用材
+         |    第三 土工（Thô-kang）竝橋樑（Kiô-niûn用材）
+         |    第四 水工用材
+         |    第五 車輛用材
+         |    第六 小木用材
+         |    第七 雕製（雕刻）用材
+         |    第八 車枳用材
+         |    第九 桶類用材
+         |    第一○ 槓類用材
+         |    第一一 入花（木象嵌）用材
+         |    第一二 機械台用材
+         |    第一三 油車用材
+         |    第一四 楔用材
+         |    第一五 受軸用材
+         |    第一六 布機用材
+         |    第一七 木屐類用材
+         |    第一八 搗舂及搗杵用材
+         |    第一九 箸用材
+         |    第二○ 洋傘柄用材
+         |    第二一浮苓用材
+         |    第二二 杯用材
+         |    第二三 農具用材
+         |    第二四 打棉道具用材
+         |    第二五 煙吹用材
+         |    第二六 蕃仔火柴用材
+         |    第二七 線香製造材料
+         |    第二八 粘仔粉原料
+         |    第二九 白末（材粉）原料用材
+         |    第三○ 焚香木
+         |    第三一 竹材的利用
+         |    第三二 籠、籃、篩類用材
+         |    第三三 紙雨傘骨用材
+         |    第三四 紙燈骨用材
+         |    第三五 尫仔物（玩具）用材
+         |    第三六 笠仔
+         |    第三七 香腳用材
+         |    第三八 桶篐用材
+         |    第三九 篾仔（竹繩用割竹片）用材
+         |    第四三 籬笆（圍牆）用材
+         |    第四○ 聖籤（筮竹）用材
+         |    第四一 築離堵（壁下）及竹片厝竹（屋頂竹）
+         |    第四二 地雷（竹獨樂）用材
+         |    第四四 篊竹（牡蠣養殖杭）用材
+         |    第四五 竹絲（竹絮）用材
+         |    第四六 茯葉用材
+         |    第四七 竹篾用材
+         |    第四八 籐製品
+         |    第四九 蓪草
+         |    第五○ 椰瓢殼工藝
+         |    第五一 筆筒樹工藝
+         |    第五二 朴仔皮絲用材
+         |    第五三 鋸屑
+         |    附 本島人有關用材的傳說
+         |    台灣木竹材的利用一覽表（本島人之部）
+         |    
+       
+       ――――――
+
+       桃園市立圖書館（436.5 2348, F10141357）；電子書借閱： `臺南市立圖書館 <https://tnml.ebook.hyread.com.tw/bookDetail.jsp?id=470588>`__ （HyRead ebook）
+       
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+       ――――――――――――――――――――――――――――――
+
+.. _`北海岸來自溫帶的流浪者之歌：避夏族的故事`:
+
+- **北海岸來自溫帶的流浪者之歌：避夏族的故事**
+
+    陳玉峯，前衛出版社，2023-08-30，初版，山林書院叢書SL14，ISBN：9786267325377，平裝，全彩，定價 $ 300
+
+    ——————————————————
+       
+       - **內容簡介**
+
+         本書共分兩篇。第一篇「海岸總論」，概述台灣海岸植被帶的五大類型，從海岸根本的生態特徵，透過整體論的書寫方式，處處流露禪機談自然。這是台灣海岸生物全觀的介紹，也是靈性生態的展現，還有嚴謹的定義、精美的植物社會剖面圖。
+
+         第二篇「傳奇避夏族」，就在台灣東北角雪山山脈第一座山頭靈鷲山下以迄全北海岸，石板菜、金花石蒜等率先登場，接著是海岸潮間帶的石蓴、海藻等翠綠舖衍，再有一群有如溫帶吉普賽流浪者一般的海灘草花群，如濱當歸、濱旋花、濱蘿蔔、濱防風、糙莖麝香百合、台灣百合、白花馬鞍藤、南國薊、台灣蒲公英、濱剪刀股、細葉剪刀股、天蓬草舅、白鳳菜、密花黃菫、小海米……構成北海岸的主要地景，這些獨特物種兀自循環生命週期，冬萌、春花、夏遁，一反溫帶習性而逆勢操作的天演，成為北海岸生界的一大特徵。
+
+       - **作者介紹**
+
+         陳玉峯
+
+         山林書院創辦人、上森公司生態顧問
+
+         台灣自然保育、文化改造的代表性人物。畢業於台灣大學植物系，台灣大學碩士，東海大學理學博士。先後任教台大、逢甲、東海、靜宜大學，曾任靜宜大學副校長、靜宜大學通識教育中心主任、台灣生態學會理事長。現為「山林書院」負責人、台灣生態研究中心負責人。專業研究台灣山林植物生態與分類，積約48年台灣山林研究、調查經驗。從事生態保育運動與教育、社運、政治運動、自然寫作、生態攝影、社教演講。2003年榮獲第二屆總統文化獎──鳳蝶獎。
+
+         1991年創設「台灣生態研究中心」。2002年創設全國第一所生態學系暨研究所，並捐獻、募款興建生態館。2003年10月成立台灣生態學會。著有「台灣植被誌」系列專書及其他論述、散文等近百冊。2007年辭教職，勘旅全球、搶救熱帶雨林，並學習、探索台灣宗教哲學。2012年開創「山林書院」。2014年8月，任教成功大學台灣文學系，並兼系所主任3年，於2020年1月退休。
+
+       - **目錄**
+
+         | 序言（ `心道法師`_ ）
+         | 銘誌
+         | 海岸總論篇――
+         | 海自為海，岸自為岸，為何叫海岸？
+         | 　
+         | 　1、潮汐
+         | 　2、浪跡與蟬殼
+         | 　3、幽靈蟹如何「過堂」？
+         | 　4、台灣的海岸植被帶
+         | 　4-1　砂灘植群
+         | 　4-2　風之太極：林投
+         | 　4-3　風吹沙砂丘植群剖面
+         | 　4-4　無根藤與海埔姜
+         | 　4-5　文殊蘭的空間佈局
+         | 　4-6　珊瑚礁海岸林
+         | 　4-7　棋盤腳
+         | 　4-8　蓮葉桐
+         | 　4-9　北、東北海岸獨特的植群
+         | 　
+         | 傳奇避夏族篇――
+         | 北及東北海岸的特殊物種
+         | 　
+         | 　1、「限制因子」的限制
+         | 　2、不可思議與不思議，不得不思議—北部海岸有一群溫帶海洋性的「吉普賽」
+         | 　3、大自然不容許我武斷，卻永遠賜予我驚喜與慰藉—台化日人濱當歸
+         | 　　
+         | 　4、榮枯寫實生命的劇照――滿地小星星的石板菜
+         | 　5、茅毛珍珠菜的時空花束
+         | 　6、溫帶風情畫的濱旋花
+         | 　7、白花馬鞍藤與政治
+         | 　8、濱蘿蔔的種不種、型不型？
+         | 　9、太平洋格局的浪濤兒濱防風
+         | 　10、潮間帶季節性的綠地毯
+         | 　11、大地的喇叭手：糙莖麝香百合
+         | 　12、視覺「星群」簡譜――台灣蒲公英、濱剪刀股、細葉剪刀股、南國薊、天蓬草舅、雙花蟛蜞菊、白鳳菜及其他
+         | 　13、異味薰天的密花黃菫
+         | 　14、琉球豬殃殃
+         | 　15、小海米
+         | 　
+
+    ——————————————————
+
+         .. _`心道法師`:
+
+         * **推薦序（心道法師）**
+
+           陳玉峰老師在台灣深入行腳，把台灣的生界植被呈現出它們生命與生態的演化連結點，不只是生態，是全部生命結構體的整體脈動，每一個生命跟生態系都息息相關連結成一體，這就是「生命共同體」。陳老師是深入了解這個連結點的！
+
+           我是從修行的真實性去深透到陳老師的這份領悟，從這個領悟裏面知道「生命共同體」彼此相依共存、多元共生。生態就是種子學，種子是養活生命的，所以在這當中，就是尊重它的價值：每一個生命都有生態的連結價值，所以要讓生命活下去、活得很好，就要尊重它生存的空間，它們就會分享它們的成果。要有生存空間，才能展現分享的成果！
+
+           陳老師是生命生態的代言人，他的講話代表生命的語言，他對整個生態關心到密不可分，所以他能夠感應它們的脈動語言，這些生命是認同的。這是很難的，是為序。
+
+           心道法師
+
+    ——————————————————
+
+    - 購書： `前衛出版社 <http://www.avanguard.com.tw/m/2001-1609-952967-1.php>`__ (優惠價 $ 237, 2026-05-20)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+       ――――――――――――――――――――――――――――――
+
+.. _`唯我玉山`:
+
+- **唯我玉山**
+
+    唯我玉山(上)：總說玉山 /陳玉峯 / 愛智圖書 / 2021-03-01 / ISBN 9789576085833； 
+
+    唯我玉山(中)：重返聖山之一 / ISBN 9789576085840； 
+
+    唯我玉山(下)：重返聖山之二 / ISBN 9789576085857
+
+    **上冊內容簡介**
+
+    | 這是一封寫給母親母土—台灣的情書
+    | 寫了47年，寫了30萬餘字……
+    | 
+    | ◆ 台灣史上首部見證玉山40年生態大變遷的史詩巨作 ◆
+    | 
+    | 「從來沒有人實證比對過玉山的40年變遷，
+    | 我必須交代，而且，必須是本質、結構性的洞燭，
+    | 楬櫫我台灣聖山天演的本質、精神與義理。」—陳玉峯
+    | 
+    | 　　★台灣史上首次，將玉山半世紀以來的生態變遷統整論述、分析比對
+    | 　　★台灣史上首次，將玉山山塊的故事擴寫到五大山脈的佈局
+    | 　　★台灣史上首次，解析這座台灣的聖山，百萬年來的本質、精神、義理及其文化的底蘊
+    | 　　★陳玉峯教授一生鑽研、搶救台灣地土最欣慰的時刻盡藏於此
+    | 
+    | 　　莎士比亞寫過：「戀人總在旅途的終點相會。」
+    | 　　生態學家陳玉峯從初識玉山，與之承諾，
+    | 　　走過山巔海隅，終於，在生命的夕陽與玉山重逢，
+    | 　　並說道：「千年後再見！」
+    | 　　47年的寫給玉山的情書還留著，
+    | 　　但帽緣下的灰髮也與玉山圓柏的灰骨分不清。
+    | 　　《唯我玉山》全套三書不只陳列玉山群峯的的生態特徵，
+    | 　　還訴說著百萬年來台灣八大生態帶的史詩與傳奇。
+    | 　　陳玉峯教授將40年來玉山的大變遷，
+    | 　　舉凡物種遷徙、滅絕、隔離機制、暖化與生命週期等，
+    | 　　融入地毯式的調查中，
+    | 　　並整合阿里山山脈、中央山脈、海岸山脈的植群社會，
+    | 　　完成山通大海的論述。
+    | 　　「玉山對我而言是一卷流動萬端的基因地圖，
+    | 　　遠在我出生之前、死亡之後，
+    | 　　我走進玉山的夢，玉山走進我的夢。
+    | 　　自然界不會給「答案」，所有答案是自然本尊，
+    | 　　流變無常的內在有常；
+    | 　　經驗、知識不是智慧，只是無窮案例的無數假相，
+    | 　　智慧是活體每瞬當下心念的示現，無可言說。
+    | 　　祈願每個台灣人都是一尊巍峨玉山！」—陳玉峯
+    | 
+    | 　　◆致讀者
+    | 
+    | 　　這三冊書敘述的玉山，大致上是全面性的台灣，而以玉山為主軸，
+    | 　　撰述的體例，是依作者做環境或解說教育的模式，或所謂的科普方式行文；
+    | 　　由於作者採取各篇章獨立為文，難免為解說需要，各篇會有一些重疊或重複，
+    | 　　但表述的內容或重點，多少會有不同旨趣，
+    | 　　也許反而會有助於對生態內涵的瞭解，
+    | 　　而獨立篇章的方式也可讓讀者信手翻閱，不必瞻前顧後。
+    | 玉山是台灣天文、地文、人文及生文的象徵。玉山及全台灣的快速隆起，卻在地體、地質、氣候及植被的影響作用下，極為劇烈的地表剝蝕，形成了生界的關鍵特徵，特別是植物演化的速率，造就台灣生態體系的獨特性。而台灣文化的裸真、台灣人的天真、正直、木訥或總體氣質，也隱隱相關於台灣地土。
+    | 「玉山群峯地處台灣地軸中樞，
+    | 玉山生界就是總體台灣；
+    | 玉山精神正是亙古恆新，
+    | 永遠希望無窮，示現灣
+    | 生之勇猛、力之美！」
+    | 
+
+    **中冊內容簡介**
+
+    | 啟程，走進深山之深、歲月之邃。從1981年首登玉山頂調查植群，到2019年重返原鄉聖山，迄今邁入第40年。以近半世紀的樣區調查比對，見證解析玉山諸峯的生態變遷與植群遷徙、演化。在台灣山林從理性自然科學而參，而匯聚到感同共化，應允完成了1981年在玉山山頂許下對山神的承諾，解讀生界的前世、今生、來世。
+
+    | 「玉山說法從是概念說念
+    | 玉山說法不分理性或感性，
+    | 而是示現著全知、全在、全能的天啟，
+    | 人們只能虔敬地去理解、瞭解、悟解及靈解，
+    | 玉山從開天闢地、宇宙洪荒到如今，
+    | 奔雷的寧靜、暗夜的亮麗灼眼。」
+    | 
+
+    **下冊內容簡介**
+
+    | 玉山山體是亙古如新，它永遠上演著生之勇猛、力之美。下冊內容詳實詮釋新玉山調查行中，玉山圓峯的成住壞空、玉山北峯、北北峰的前世今生、玉山藝聞等。與此同時，作者亦將無可言說的心念示現，創造出超越一般意義上的「自然本尊」與「秩序」，投射在流變中的心靈能夠擁抱蒼穹與無窮。
+    | 
+    | 「玉山對我而言是一卷流動萬端的基因地圖，
+    | 遠在我出生之前、死亡之後，
+    | 我走進玉山的夢，玉山走進我的夢。
+    | 自然界不會給「答案」，所有答案是自然本尊，
+    | 流變無常的內在有常；
+    | 經驗、知識不是智慧，只是無窮案例的無數假相，
+    | 智慧是活體每瞬當下心念的示現,無可言說。
+    | 祈願每個台灣人都是一尊巍峨玉山！」
+    | 
+
+    `台灣雲端書庫 <https://www.ebookservice.tw/>`__ `上冊 <https://www.ebookservice.tw/chc/book/988f769f-7da1-471f-92b7-2b01d1e833fb>`__ (電子書)、 `中冊 <https://www.ebookservice.tw/chc/book/621cfa6d-46dd-4a6d-a619-469350a0b609>`__ (電子書)、    `下冊 <https://www.ebookservice.tw/chc/book/b011678b-324e-4fef-abf5-593a71a4e8c9>`__  (電子書)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`迷樣山林：阿里山林場「北格」物語`:
+
+- **迷樣山林：阿里山林場「北格」物語**
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`台灣山林與文化反思`:
+
+- **台灣山林與文化反思**
+
+    (2000)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`自然學習者的教育觀`:
+
+- **自然學習者的教育觀**
+
+    (2004)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`台灣生態與變態`:
+
+- **台灣生態與變態**
+
+    (2004)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`阿里山：永遠的檜木霧林原鄉`:
+
+- **阿里山：永遠的檜木霧林原鄉**
+
+    （與陳月霞合著）(2005)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`前進雨林`:
+
+- **前進雨林**
+
+    (2010)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`山、海與千風之歌`:
+
+- **山、海與千風之歌**
+
+    (2011)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`玉峯觀止：台灣自然、宗教與教育之我見`:
+
+- **玉峯觀止：台灣自然、宗教與教育之我見**
+
+    (2013)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`綠島海岸植被`:
+
+- **綠島海岸植被**
+
+    (2015)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`民國廢核元年－廢四核、清核廢`:
+
+- **民國廢核元年－廢四核、清核廢**
+
+    (2013)，陳玉峯、陳月霞
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`台灣素人─宗教、精神、價值與人格`:
+
+- **台灣素人─宗教、精神、價值與人格**
+
+    (2012a)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`山災地變人造孽`:
+
+- **山災地變人造孽**
+
+    (2012)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`21 世紀台灣主流的土石亂流─台灣山地災變以及災後人造孽`:
+
+- **21 世紀台灣主流的土石亂流─台灣山地災變以及災後人造孽**
+
+    (2002)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`土地倫理與 921 大震`:
+
+- **土地倫理與 921 大震**
+
+    (2000)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`搶救棲蘭檜木林運動誌（下冊）：台灣世紀末林業大論戰`:
+
+- **搶救棲蘭檜木林運動誌（下冊）：台灣世紀末林業大論戰**
+
+    2001
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`搶救棲蘭檜木林運動誌（中冊）：台灣檜木霧林傳奇與滄桑`:
+
+- **搶救棲蘭檜木林運動誌（中冊）：台灣檜木霧林傳奇與滄桑**
+
+    2000
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`全國搶救棲蘭檜木林運動誌（上）`:
+
+- **全國搶救棲蘭檜木林運動誌（上）**
+
+    (1999)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`台灣生態史話15 講`:
+
+- **台灣生態史話15 講**
+
+    (1997)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`展讀大坑天書`:
+
+- **展讀大坑天書**
+
+    (1996)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`生態台灣`:
+
+- **生態台灣**
+
+    (1996)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`台灣綠色傳奇`:
+
+- **台灣綠色傳奇**
+
+    (1991)，張老師出版社
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`塔塔加遊憩區預定地及其遴近地區之歷史沿革`:
+
+- **塔塔加遊憩區預定地及其遴近地區之歷史沿革**
+
+    (1987)，陳玉峯、陳清祥 玉山國 家公園管理處出版
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`墾丁國家公園海岸植被`:
+
+- **墾丁國家公園海岸植被**
+
+    (1985)，陳玉峯  墾丁國家公園管理處出版
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`鵝鑾鼻公園植物與植被`:
+
+- **鵝鑾鼻公園植物與植被**
+
+    (1984)，陳玉峯，墾丁國家公園管理處出版
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`台灣原生植物（上）、（下）`:
+
+- **台灣原生植物（上）、（下）**
+
+    (1990) 游以德、陳玉峯、吳盈，淑馨出版社
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`寫給天上的自己`:
+
+- **寫給天上的自己**
+
+    愛智出版, 2024年7月1日 - 240 頁; ISBN，9576086108, 9789576086106
+
+    陳教授在完成自許的社會責任著作之後，寫了這本童真老人的新書，自我與靈魂的對話。
+
+    而再老的樹幹，長出的還是嫩枝綠葉，經由愛智編輯群的靈心慧命編織，呈獻給台灣一朵純真的禮讚！
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`雞屎藤`:
+
+- **雞屎藤**
+
+    博客來 `電子書 <https://www.books.com.tw/products/E050187751?sloc=main>`__
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`綠島金夢`:
+
+- **綠島金夢**
+
+    綠島金夢（漫畫） 博客來 `電子書 <https://www.books.com.tw/products/E050215434?sloc=main>`__
+
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`李岳勳先生外傳`:
+
+- **李岳勳先生外傳**
+
+    愛智圖書有限公司, 2024-03-01, ISBN，9789576086076 (上冊)、ISBN，9789576086083 (下冊)
+
+    內容簡介
+
+    李岳勳先生(1920-1999年)，覷破台灣傳統宗教信仰的流變與底蘊，以《禪在台灣》等著作，道出台灣人血液中的美與善—「無功用行」。陳玉峯教授於2010年開始研究，自此貫穿天文、地文、生文及人文的整體論。10餘年來從授課、演講、著述等面向加以闡發，2023年開撰《李岳勳先生外傳》。
+
+    台灣兩位思想家，跨越世紀的哲思與對話。以李岳勳先生為器，楬櫫台灣文化中「隱性禪」之千年傳奇，也是台灣人難以覺知的善美，而這些，此刻正在你我的血液中汨汨的流動著……
+
+    `台灣雲端書庫 <https://www.ebookservice.tw/>`__ `上冊 <https://www.ebookservice.tw/chc/book/b243e47f-5683-4f75-93a9-7e2bc234eca5>`__ (電子書)、  `下冊 <https://www.ebookservice.tw/chc/book/b9b228f2-6fd0-4285-9e57-e923a95df3d2>`__  (電子書)
+
+       `書籍簡目`_ 
+
+       `購書、借書、讀書 <{filename}reading-borrow-buy-books%zh.rst>`__
+
+.. _`綠歌：上森的禮物`:
+
+- **綠歌：上森的禮物**
+
+    陳玉峯 / 愛智圖書 / 2021-11-01 / ISBN 9789576085741
+
+    內容簡介：台灣，一座神蹟之島，居住著古老的本土物種與成千上萬外來種，他們每一個姿勢，都是創造性的回應，他們每一回譜唱，都是前所未聞的交響。山林修行者陳玉峯教授在描寫「植物氣質」的過程中，悠然神往，聽見了植物們歡唱「綠之歌」！
+
+    `台灣雲端書庫 <https://www.ebookservice.tw/>`__ `電子書 <https://www.ebookservice.tw/chc/book/286dce4e-8ba4-416d-849c-12a88c608148>`__
+
+
+
+..
+  2026-05-30 post; 2026-05-17 created rst
+
+   臺灣書目整合查詢系統  陳玉峯  525筆  https://metadata.ncl.edu.tw/blstkmc/blstkm?@@1553218216#tudorkmtop
+
+   全國圖書書目資訊網  https://nbinet.ncl.edu.tw/
+      NBINet聯合目錄 https://nbinet3.ncl.edu.tw/screens/opacmenu_cht.html
+
+   購書： 玉山社／星月書房 出版公司 https://www.tipi.com.tw/ (key=陳玉峯, null)  前衛出版社 http://www.avanguard.com.tw/ (key=陳玉峯, 1 book-- 北海岸來自溫帶的流浪者之歌：避夏族的故事) 、愛智圖書 https://www.aichi.com.tw/ 山林書院 / .... 、晨星出版社 https://www.morningstar.com.tw/  (key=陳玉峯, 2 book-- 認識台灣、土地的苦戀)  、淑馨出版社 (Null)
+
+      TAAZE 讀冊生活 https://www.taaze.tw/index.html ： 台灣植被誌: https://www.taaze.tw/rwd_searchResult.html?keyType%5B%5D=0&keyword%5B%5D=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C
+      台灣雲端書庫  https://www.ebookservice.tw/
+    - 電子書：  `HyRead ebook 高雄市立圖書館 <https://ksml.ebook.hyread.com.tw/bookDetail.jsp?id=388945>`__ （電子書）
+
+  玄奘大學圖書館 key:陳玉峯
+   1 雞屎藤 [電子資源] / 陳玉峯/九歌, 2019 電子資源     0
+   2 靈海聖山 [電子資源] : 為藻礁生態系祈福! / 陳玉峯/愛智圖書, 2018 電子資源     0
+   3 社會關懷 [電子資源] / 陳玉峯/愛智圖書, 2018 電子資源     0
+   4 台南的生態綠化 [電子資源] / 陳玉峯/愛智圖書, 2018 電子資源     0
+   5 興隆淨寺 / 陳玉峰/愛智, 2011 圖書 新竹 臺灣佛教研究中心(0/1) 222.927 7734 v.1 0
+   6 認識台灣 陳玉峰/晨星發行 1996 圖書 新竹 總館2樓書庫(0/1) 673.207 7512
+
+   1 臺灣植被誌.第五卷,臺灣鐵杉林帶，陳玉峰/前衛，2004，電子書， ， ，0
+   2 台灣植被誌.第三卷,亞高山台灣冷杉林帶與高地草原，陳玉峰/前衛出版，1998，圖書，新竹 總館1樓書庫(0/2)，375.27 7512 v.3-1，1
+  https://hculibrary.hcu.edu.tw/webopac/
+
+  佛光大學圖書館 key:台灣植被誌  電子資源
+  電子資源，生之態交響曲 作者：陳玉峰著 出版社：愛智 出版地：高雄市 出版年：2017[民106]
+  阿賢仔 獄中書信 綠色的生命 一部臺灣史 獄中書信綠色的生命一部臺灣史 作者：楊尚賢原著 ; 陳玉峰輯校 ; 吳欣芸繪圖 出版社：愛智圖書 出版地：高雄市 出版年：2016[民105]
+  社會關懷 作者：陳玉峯著作.解說.攝影 出版社：愛智圖書 出版地：高雄市 出版年：2018[民107]
+  台南的生態綠化 臺南的生態綠化 作者：陳玉峯著 出版社：愛智圖書 出版地：高雄市出版年：2018[民107]
+  雞屎藤   生之態交響曲   南一段行腳 世出世間 世出世間  山.海.千風之歌
+  七笑因緣. [上] 台灣檜木文化的溯源 台灣檜木文化的溯源 臺灣檜木文化的溯源  作者：陳玉峯著作.解說.攝影  出版社：愛智圖書  出版地：高雄市  出版年：2017[民106]
+  七笑因緣. [下] 台灣檜木文化的溯源 台灣檜木文化的溯源 臺灣檜木文化的溯源  作者：陳玉峯著作.解說.攝影  出版社：愛智圖書  出版地：高雄市  出版年：2017[民106]
+  雪山盟. [上] 作者：陳玉峯著作.解說.攝影 出版社：愛智圖書 出版地：高雄市 出版年：2017[民106]
+  雪山盟. [下]  作者：陳玉峯著作.解說.攝影  出版社：愛智圖書  出版地：高雄市出版年：2017[民106]
+
+    https://libils.fgu.edu.tw/bookSearchList.do?execode=&searchsymbol=hyLibCore.webpac.search.common_symbol&search_input=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&searchtype=simplesearch&search_field=FullText&execodeHidden=true&resid=188813339&nowpage=1#execode=&searchsymbol=hyLibCore.webpac.search.common_symbol&searchtype=simplesearch&search_input=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&search_field=FullText&execodeHidden=true&resid=188813339&nowpage=1
+  東華大學 BOOK 375.27 8736 84, 00146623 去向不明?
+  國立臺東專科學校圖書館：台灣植被誌. 第四卷. 檜木霧林帶 ；台灣植被誌. 第五卷. 台灣鐵杉林帶；台灣植被誌. 下冊; 第三卷. 亞高山台灣冷杉林帶與高地草原；台灣植被誌. 上; 第三卷. 亞高山台灣冷杉林帶與高地草原；台灣植被誌 : 大甲鎮植被. 第八卷. 地區植被專論(一)；台灣植被誌 : 南橫專冊. 第六卷. 闊葉林(一)；物種生態誌(一) 總論及植被帶概論 高山植被帶與高山植物(下), https://library.ntc.edu.tw/toread/opac/search?q=%E5%8F%B0%E7%81%A3%E6%A4%8D%E8%A2%AB%E8%AA%8C&max=&view=CONTENT&level=all&material_type=all&location=
+  美和科技大學圖書館：key:台灣植被誌:  台灣植被誌,高山植被帶與高山植物 索書號 375.27 7512 v.2-2 | 圖書總館/中文圖書區 | 一般圖書資料 | 書在館 | 118078 | 不可預約；台灣植被誌,亞高山台灣冷杉林帶與高地草原  116002，中文圖書區，375.27 7512 v.3-1
+  慈惠醫護管理專科學校圖書館: 台灣植被誌--臺灣自然史系列；6 ISBN/ISSN/ISRC：，9789578013346 http://163.24.235.84/bookDetail.do?id=25912
+
+  台灣植被誌  陳玉峯  （缺）  `電子書 <>`__
