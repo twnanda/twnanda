@@ -13,7 +13,7 @@
 .. list-table:: 陳玉峯老師數位資料庫
    :widths: 25 25 25 25
 
-   * - `書籍 <{filename}books%zh.rst>`__  
+   * - `書籍 <{filename}books%zh.rst>`_ （詳細書籍目錄）
 
         .. _`詳細書籍目錄`:
 
