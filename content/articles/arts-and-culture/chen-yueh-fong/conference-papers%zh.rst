@@ -13,7 +13,7 @@
 
 
 .. list-table:: 會議論文
-   :widths: 40 2 2 56
+   :widths: 37 5 5 53
    :header-rows: 1
 
    * - 題名

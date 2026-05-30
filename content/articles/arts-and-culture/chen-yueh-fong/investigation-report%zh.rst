@@ -13,7 +13,7 @@
 
 
 .. list-table:: 調查報告
-   :widths: 62 2 18 18
+   :widths: 59 5 18 18
    :header-rows: 1
 
    * - 題名
