@@ -3,7 +3,7 @@
 ===================
 
 :date: 2026-05-30
-:modified: 2026-05-30
+:modified: 2026-05-31
 :tags: 購書, 借書, 讀書, 買書
 :category: 藝術-文化
 :summary: 
@@ -252,23 +252,23 @@
            - `國立中興大學圖書館 <https://www.lib.nchu.edu.tw/>`_
 
          * - `私立東海大學圖書館 <http://lib.thu.edu.tw/>`_ 
+           - `私立靜宜大學蓋夏圖書館 <https://library.pu.edu.tw/>`_ 
            - `國立臺中教育大學圖書館 <https://lib.ntcu.edu.tw/>`_
-           - `國立臺灣體育運動大學圖書資訊處 <https://lis.ntus.edu.tw/>`_
 
          * - `逢甲大學圖書館 <https://web.lib.fcu.edu.tw/library/>`_
            - `中山醫學大學圖書館 <https://lib.csmu.edu.tw/>`_
            - `中國醫藥大學圖書館 <https://lib.cmu.edu.tw/>`_
 
-         * - `亞洲大學圖書館 <https://library.asia.edu.tw/>`_
+         * - `國立臺灣體育運動大學圖書資訊處 <https://lis.ntus.edu.tw/>`_
            - `國立勤益科技大學圖書館 <https://library.ncut.edu.tw/>`_
            - `國立臺中科技大學圖書館 <https://elib.nutc.edu.tw/>`_
 
          * - `朝陽科技大學波錠紀念圖書館 <https://www.lib.cyut.edu.tw/>`_
            - `弘光科技大學圖書館 <https://lib.hk.edu.tw/>`_
-           - `嶺東科技大學圖書館 <https://ltu2501.video.ltu.edu.tw/>`_
+           - `亞洲大學圖書館 <https://library.asia.edu.tw/>`_
 
          * - `中臺科技大學圖書館 <https://lic.ctust.edu.tw/p/412-1025-4982.php?Lang=zh-tw>`_
-           - `僑光科技大學圖書館 <https://lib.ocu.edu.tw/>`_、 
+           - `僑光科技大學圖書館 <https://lib.ocu.edu.tw/>`_、 `嶺東科技大學圖書館 <https://ltu2501.video.ltu.edu.tw/>`_
            - `修平科技大學圖書館 <https://lib.hust.edu.tw/>`_
 
       .. _`桃、竹、苗`:
@@ -418,6 +418,7 @@
 
 
 ..
+  05-31 add: 私立靜宜大學圖書館
   2026-05-30 post; 2026-05-16 created rst
    臺灣書目整合查詢系統  陳玉峯  525筆  https://metadata.ncl.edu.tw/blstkmc/blstkm?@@1553218216#tudorkmtop
 
