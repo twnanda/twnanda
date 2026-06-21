@@ -3,7 +3,7 @@
 =========================================
 
 :date: 2026-05-30
-:modified: 2026-05-30
+:modified: 2026-06-21
 :tags: 陳玉峯老師數位資料庫, 陳玉峯, 陳玉峯老師, 陳玉峯教授, 陳玉峰, 陳玉峰老師, 陳玉峰教授, 生態, 台灣生態, 環境運動、台灣環境運動, 環保運動, 台灣環保運動, 台灣文化運動, 著作目錄
 :category: 藝術-文化
 :summary: 陳玉峯老師著作（陳玉峯老師數位資料庫）
@@ -11,12 +11,13 @@
         .. _`詳細書籍目錄`:
 
 .. list-table:: 陳玉峯老師數位資料庫
-   :widths: 25 25 25 25
+   :widths: 20 20 20 20 20
 
    * - `書籍 <{filename}book%zh.rst>`_ （詳細書籍目錄）
      - `調查報告 <{filename}investigation-report%zh.rst>`_
      - `期刊論文 <{filename}journal-articles%zh.rst>`_
      - `會議論文 <{filename}conference-papers%zh.rst>`_
+     - `其他著作 <{filename}other-works-prof-chen-yf%zh.rst>`_
 
 
 **經典書籍** （ `詳細書籍目錄`_ ）
@@ -72,4 +73,5 @@
 
 
 ..
+  06-21 rev. & add from Prof. Chen
   2026-05-30 post; 05-16 created rst
