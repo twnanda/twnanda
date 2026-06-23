@@ -3,7 +3,7 @@
 =======================
 
 :date: 2026-05-30
-:modified: 2026-06-21
+:modified: 2026-06-23
 :tags: 陳玉峯老師數位資料庫, 陳玉峯, 陳玉峯老師, 陳玉峯教授, 陳玉峰, 陳玉峰老師, 陳玉峰教授, 生態, 台灣生態, 環境運動、台灣環境運動, 環保運動, 台灣環保運動, 台灣文化運動
 :category: 藝術-文化
 :summary: 陳玉峯老師數位資料庫
@@ -27,19 +27,19 @@
 - 學歷：
 
   * 出生：1953 年生於 `台灣 <https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3>`__ `雲林 <https://www.yunlin.gov.tw>`__ `北港 <https://bggov.yunlin.gov.tw>`__ 。
-  * `臺灣大學 <https://www.ntu.edu.tw/>`__ ， `植物系 <https://homepage.ntu.edu.tw/~deptlifesci/?menu=info&sub=intro>`__ ，學士（1980）。
-  * 臺灣大學， `植物學研究所 <https://www.ntuipb.info/intro>`__ ，理學碩士（1983）。
-  * `東海大學 <https://www.thu.edu.tw/>`__ ， `生物系所 <https://biology.thu.edu.tw/front/per/others/pages.php?ID=dGh1X2Jpb2xvZ3kmb3RoZXJz>`__ ，理學博士（1993）。
+  * `臺灣大學 <https://www.ntu.edu.tw/>`__ ， `植物系 <https://homepage.ntu.edu.tw/~deptlifesci/?menu=info&sub=intro>`__ ，理學士，1980，證書：（68）大字第21018號。
+  * 臺灣大學， `植物學研究所 <https://www.ntuipb.info/intro>`__ ，理學碩士，1983，證書：（71）碩字第01585號。
+  * `東海大學 <https://www.thu.edu.tw/>`__ ， `生物系所 <https://biology.thu.edu.tw/front/per/others/pages.php?ID=dGh1X2Jpb2xvZ3kmb3RoZXJz>`__ ，理學博士，1993，證書：博字第3196號。
 
 ------
 
 - 經歷：
 
   * 台灣大學，植物學系，助教，1981年－1983年
-  * `內政部營建署 <https://www.nlma.gov.tw/ch/sglarticle/nlma>`__ ， `墾丁國家公園 <https://www.ktnp.gov.tw/>`__ 及 `玉山國家公園 <https://www.ysnp.gov.tw/>`__ ，解說及保育研究課技士、技正、課長，1984年－1989年；開拓體制內生態保育研究與解說教育先鋒。
-  * 1987年以降，先後任教逢甲、東海、靜宜大學
-  * 專職 `靜宜大學 <https://www.pu.edu.tw/>`__ ，副教授，1994年－1998年
-  * 靜宜大學， `生態學系 <https://eco.pu.edu.tw/>`__ 等，教授，1998年－2007年（靜宜大學副校長，2003~2004）
+  * `內政部營建署 <https://www.nlma.gov.tw/ch/sglarticle/nlma>`__ ， `墾丁國家公園 <https://www.ktnp.gov.tw/>`__ 及 `玉山國家公園 <https://www.ysnp.gov.tw/>`__ ，解說及保育研究課技士、技正、課長，1984年－1989年；開拓體制內生態保育研究與解說教育先鋒。（證書：高考，1986，（75）全高字第47號）
+  * 1987年以降，先後任教逢甲、東海、靜宜大學（證書：助教，1980.12，助字第16896號；講師，1987.12，講字第26918號）
+  * 專職 `靜宜大學 <https://www.pu.edu.tw/>`__ ，副教授，1994年－1998年（證書：1994.4，副字第19644號）
+  * 靜宜大學， `生態學系 <https://eco.pu.edu.tw/>`__ 等，教授，1998年－2007年（靜宜大學副校長，2003~2004）（證書：1998.1，教字第09425號）
   * 2007年辭退教職，重新讀書、勘旅全球再學習，潛心佛法。
   * `玄奘大學 <https://www.hcu.edu.tw/>`__ `宗教系 <https://www.hcu.edu.tw/ird/zh-tw/?sh=>`_ 客座教授，2003~2004
   * `成功大學 <https://web.ncku.edu.tw/>`__ ， `台灣文學系 <https://twl.ncku.edu.tw/>`__ ，教授， `2014年08月－ 2020.01  <https://twl.ncku.edu.tw/p/405-1143-165292,c24427.php?Lang=zh-tw>`__ （兼任台灣文學系系主任 `2017.02 - 2020.01 <https://twl.ncku.edu.tw/p/412-1143-10450.php?Lang=zh-tw#cmb_609_4>`__ ），2020年1月於任內退休。
@@ -49,7 +49,7 @@
   * 於1991年創設 `「台灣生態研究中心」 <https://ecology.org.tw/about/intro>`__ ，為民間人文及自然生態最活躍的單位之一。
   * 1998～2003年規劃、籌設、執行靜宜大學 `「生態學研究所暨生態學系」 <https://eco.pu.edu.tw/>`__ 
   * 2003年創辦 `「台灣生態學會」 <https://ecology.org.tw/>`__ 
-  * 2003年，獲得 `總統文化獎 <https://zh.wikipedia.org/zh-tw/%E7%B8%BD%E7%B5%B1%E6%96%87%E5%8C%96%E7%8D%8E>`__ 「鳳蝶獎」（第二屆 `總統文化獎 <https://www.president.gov.tw/NEWS/7998>`__ ）。
+  * 2003年，獲得 `總統文化獎 <https://zh.wikipedia.org/zh-tw/%E7%B8%BD%E7%B5%B1%E6%96%87%E5%8C%96%E7%8D%8E>`__ 「鳳蝶獎」（Presidential Culture Award-- Swallowtail Butterfly Award)；第二屆 `總統文化獎 <https://www.president.gov.tw/NEWS/7998>`__ `得獎評定書 <{filename}presidential-culture-award-prof-chen-yf%zh.rst>`_ ）。
 
   * 2021年重任台灣生態學會理事長。
 
@@ -57,6 +57,8 @@
   * 全美台灣基金會(2002)傑出奉獻獎
   * 巫永福文化評論獎(1998)
   * 國際橡樹學會(IOS)2025特別貢獻獎
+
+  * `體制內詳細經歷 <{filename}work-experience-within-the-system-prof-chen-yf%zh.rst>`__ 
 
   * `詳細經歷 <{filename}work-experience-prof-chen-yf%zh.rst>`__ 
 
@@ -184,6 +186,8 @@
   * [14]台灣宗教哲學
   * [15]台灣史及文化
 
+- `曾經開授課程名稱及校系  <{filename}courses-previously-offered-prof-chen-yf%zh.rst>`_ (部分)
+
 ※※※※※※※※※
 
   .. image:: https://nanda.online-dhamma.net/Academia-and-Education/Prof-Chen-Yueh-Fong-Digital-Database/Prof-Chen-Yueh-Fong-homepage/photo/prof-chen-yf-2025book-launch.jpg
@@ -232,6 +236,7 @@
 - `山林書院面冊 <https://www.facebook.com/hillwood.tw?locale=zh_TW>`__ 
 
 ..
+  06-23 add 證書字號, 曾經開授課程名稱及校系, 體制內詳細經歷
   06-21 rev. source from Prof. Chen
   2026-05-30 post; 2026-05-16 created rst; start on 2011-10-02
   取材自：
