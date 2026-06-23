@@ -3,7 +3,7 @@
 =====================
 
 :date: 2022-06-03
-:modified: 2023-04-14
+:modified: 2026-06-23
 :tags: 蘇錦坤, 藏經閣的掃葉人, Ken Su
 :category: 蘇錦坤老師
 :summary: 蘇錦坤 老師 作品集 (Publications of Ken Su)
@@ -82,7 +82,7 @@
 
 ------
 
-- 《「阿含、尼柯耶」比較研究論文選集》2023.4 月，大千出版社，平裝 
+- 《「阿含、尼柯耶」比較研究論文選集》 2023.4 月， _`大千出版社` ，平裝 
 
   增加 ISBN 書號，以及為了方便學者引述及評論而略改數字。
 
@@ -145,6 +145,23 @@
 
 ------
 
+2023 ～ 2025 論文
+~~~~~~~~~~~~~~~~~~~~~
+
+- 1. (2023a)， 《「阿含、尼柯耶」比較研究論文選集》 ， `大千出版社`_ ，新北市，台灣。
+- 2. (2023b)， `〈日本正倉院《聖語藏》顯示的異讀〉 <{static}/extra/authors/ken-su/2023b.pdf>`_ （PDF)，`《正觀》 <http://www.tt034.org.tw/index.php?option=module&lang=cht&task=showlist&id=8&index=1>`__ `105期 <https://www.tt034.org.tw/index.php?option=module&lang=cht&id=8&task=search&templates=mag&keyword=&bid=11278>`__ ， `76-106頁 <https://www.tt034.org.tw/index.php?option=module&lang=cht&task=dfile&id=11280&i=1>`_ ，南投縣，台灣。
+- 3. (2023c)， `〈《佛教百科全書》的「增一阿含經」詞條評介〉 <{static}/extra/authors/ken-su/2023c.pdf>`_ （PDF)，《學思》第一期， 39-52頁，玄奘大學，新竹市，台灣。
+- 4. (2023d)， `〈呂澂「《四十二章經》抄自漢譯《法句經》」一說的商榷〉 <{static}/extra/authors/ken-su/2023d.pdf>`_ （PDF)， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ `18期 <https://www.fuyan.org.tw/journal/fbs/fbs014.html>`__ ， `1-50頁 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol18-1.pdf>`_，新竹市，台灣。 
+- 5. (2023e)， `〈佛典翻譯的過去、現在與未來〉 <{static}/extra/authors/ken-su/2023e.pdf>`_ （PDF)， `《慧炬》第639期 <https://www.towisdom.org.tw/List.aspx?mid=54&page=2>`__ ， `3-7頁 <https://www.towisdom.org.tw//UpLoad/tow639-01_20231013151056.pdf>`__ ，慧炬雜誌社，台北市，台灣。
+- 6. (2024a)， `〈詮釋的鑰匙：利用對應詞彙解析巴利、漢譯經文〉 <{static}/extra/authors/ken-su/2024a.pdf>`_ （PDF)，《學思》第二期，27-39頁，玄奘大學，新竹市，台灣。
+- 7. (2024b)， `〈《雜阿含經》(T99)與《相應部》的八類差異〉 <{static}/extra/authors/ken-su/2024b.pdf>`_ （PDF)，《學思》第三期，39-52頁，玄奘大學，新竹市，台灣。
+- 8. (2024c)， `〈《大正藏》校勘註記「明版」異讀之檢示：以《阿含經》與《法句經》為主〉 <{static}/extra/authors/ken-su/2024c.pdf>`_ （PDF)， `《福嚴佛學研究》 <https://www.fuyan.org.tw/journal/fbs/fbs011.html>`__ `19期 <https://www.fuyan.org.tw/journal/fbs/fbs014.html>`__ ， `1-29頁 <https://www.fuyan.org.tw/download/journal/fbs/FBS_vol19-1.pdf>`__ ，新竹市，台灣。
+- 9. (2024d)，張譯仁、蘇錦坤合著， `〈那體慧〈支謙兩首未證實來源的「法句偈頌」〉評介〉 <{static}/extra/authors/ken-su/2024d.pdf>`_ （PDF)，《正觀》111期，5-62頁，南投縣，台灣。 
+
+- `2 ~ 9 論文摘要 <{filename}ken-su-abstract-of-thesis-2023to2025%zh.rst>`__
+
+------
+
 作者簡介
 ~~~~~~~~~~~~
 
@@ -156,7 +173,9 @@
 
 《新加坡佛學研究學刊》編輯委員： (2014-2017)
 
+
 ..
+  2026-06-23 add: 2023 ～ 2025 論文
   2023-04-14 add: 2023.4 月，大千出版社
   12-11 rev. correct linking of vol. b & full
   07-19 add: 「漢譯佛典校勘學」論文選集; 印順導師與漢譯佛典的校勘; 漢譯佛典的新式標點舉例; 
