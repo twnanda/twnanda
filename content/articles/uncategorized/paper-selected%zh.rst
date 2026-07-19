@@ -3,7 +3,7 @@
 =================
 
 :date: 2005-05-01
-:modified: 2025-07-28
+:modified: 2026-07-19
 :tags: 
 :category: 書選
 :summary: 書籍、文章選讀
@@ -39,7 +39,9 @@
          <li> <a class="reference internal" href="#dhamma-talks-by-mogok-sayadaw"><strong>《尊者　莫哥西亞多 開示錄》</strong></a>；由　尊者　鄔達摩　長老自緬甸語錄音帶譯為英文，Dhmma Talks by Mogok Sayadaw: Translation based on the recorded tapes by Ven. Uttamo thera</li>
          <li> <a class="reference internal" href="#eighteen-days-in-solitude"><strong>《18天禪修營》</strong></a>，尊者　阿締佳嵐溪長老 開示錄》；由　尊者　鄔達摩長老自緬甸語錄音帶譯為 英文，Eighteen Days In Solitude --Instructional Dhamma Talks in Retreat, By Venerable U Ādiccaramsī</li>
          <li> <a class="reference internal" href="#two-sides-of-a-coin"><strong>《銅板的兩面》</strong></a>，尊者 帖因古西亞多 開示錄；《神聖的追尋》， 強諦瑪西亞多 開示錄；由　尊者　 鄔達摩長老自緬甸語錄音帶譯為英文，Two Sides of A Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha) and A Noble Search [Dhamma Talks by Sayadaw U Candima (or Sandima)]</li>
-         <li> <a class="reference internal" href="#unexpected-freedom"><strong>《意想不到的自由》</strong></a> -- 阿姜 穆寧多[穆寧多(牟尼度) 法師]演講輯，NEXPECTED FREEDOM (by AJAHN MUNINDO)</li>
+         <li> <a class="reference internal" href="#divine-light-and-dhamma-light"><strong>《神聖之光與法光》</strong></a>，一本關於「甘尼」（Kanni）禪修體系的書；由　尊者　 鄔達摩長老自緬甸文譯為英文，Divine Light and Dhamma Light: a book on the Kanni meditation system</li>
+         <li> <a class="reference internal" href="#stillness-flowing"><strong>《靜心之流：阿姜 查的生平與教誨》</strong></a> ，阿瞻 袈亞裟柔 著，Stillness Flowing – The Life and Teachings of Ajahn Chah (by Ajahn Jayasaro)</li>
+         <li> <a class="reference internal" href="#unexpected-freedom"><strong>《意想不到的自由》</strong></a> -- 阿瞻 穆寧多[穆寧多(牟尼度) 法師]演講輯，UNEXPECTED FREEDOM (by AJAHN MUNINDO)</li>
          <li> <a class="reference internal" href="#mae-chee-kaew"><strong>《美琪喬》</strong></a>—— 一位阿羅漢尼修道證果之旅，阿瞻 戒寶 編輯，捷平 翻譯，Ajaan Dick Sīlaratano</li>
          <li> <a class="reference internal" href="#ajahn-suchart"><strong>《我的人生道路》</strong></a>，——阿瞻 蘇查自傳，My Way- An Autobiography by Ajahn Suchart Abhijāto</li>
          </ul>
@@ -400,7 +402,16 @@ https://buddhism.lib.ntu.edu.tw/en/search/search_detail.jsp?seq=690102&comefrom=
 
 ------
 
-.. _意想不到的自由: unexpected-freedom_
+.. _靜心之流: stillness-flowing_
+
+.. _stillness-flowing:
+
+《靜心之流》
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+  `《靜心之流》：阿姜 查的生平與教誨 <{filename}/articles/lib/ajahn-jayasaro/stillness-flowing/stillness-flowing-han-content%zh.rst>`_ ，阿瞻 袈亞裟柔 著， `Stillness Flowing `<https://www.jayasaro.panyaprateep.org/uploads/book/1/10/files/00000010.pdf>`__ - The Life and Teachings of Ajahn Chah (by Ajahn Jayasaro) (PDF)； `簡體中文版 <https://www.jayasaro.panyaprateep.org/uploads/book/1/80/files/00000080.pdf>`__ (PDF) (from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org/en/home>`_ )
+
+------
 
 .. _unexpected-freedom:
 
@@ -414,7 +425,7 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
   These pages are copied on this server by courtesy of
   `Ven. MUNINDO <https://ratanagiri.org.uk/about/residents>`_ . Another site:dhammatalks.net-- `PDF <http://www.dhammatalks.net/Books9/Ajahn_Munindo_Unexpected_Freedom.pdf>`__ ; download `EPUB <https://forestsangha.org/system/resources/W1siZiIsIjIwMTUvMTAvMjIvOXJiN21scjkyaF9VbmV4cGVjdGVkX0ZyZWVkb21fQWphaG5fTXVuaW5kby5lcHViIl1d/Unexpected%20Freedom%20-%20Ajahn%20Munindo.epub?sha=37d81b16e167262a>`__ or `MOBI <https://forestsangha.org/system/resources/W1siZiIsIjIwMTUvMTAvMjIvNWI3aXZsM3V0aV9VbmV4cGVjdGVkX0ZyZWVkb21fQWphaG5fTXVuaW5kby5tb2JpIl1d/Unexpected%20Freedom%20-%20Ajahn%20Munindo.mobi?sha=0f7aa000697cf184>`__ (from `forestsangha.org <https://forestsangha.org/teachings/books/unexpected-freedom?language=English>`__ )
 
-  漢譯： `《意想不到的自由》 <{filename}/articles/lib/ajahn-munindo/unexpected-freeodm/unexpected-freeodm-han-content%zh.rst>`_ -- 阿姜 穆寧多[穆寧多(牟尼度) 法師]演講輯 ( `舊譯 (02.06 '08) <{static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_ 
+  漢譯： `意想不到的自由 <{filename}/articles/lib/ajahn-munindo/unexpected-freeodm/unexpected-freeodm-han-content%zh.rst>`_ -- 阿姜 穆寧多[穆寧多(牟尼度) 法師]演講輯 ( `舊譯 (02.06 '08) <{static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>`_ 
 
 ------
 
@@ -493,6 +504,17 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 ------
 
+.. _神聖之光與法光: divine-light-and-dhamma-light_
+
+.. _divine-light-and-dhamma-light:
+
+《神聖之光與法光》
+~~~~~~~~~~~~~~~~~~~~~~
+
+- `Divine Light and Dhamma Light <{filename}/articles/a-path-to-freedom/ven-uttamo/divine-light-and-dhamma-light/content-of-divine-light-and-dhamma-light%zh.rst>`_ : a book on the Kanni meditation system；《神聖之光與法光》，一本關於「甘尼」（Kanni）禪修體系的書；由　尊者　 鄔達摩長老自緬甸文譯為英文
+
+------
+
 .. _尊者舍利弗的一生: the-life-of-sariputta_
 
 .. _the-life-of-sariputta:
@@ -554,7 +576,7 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 《魔羅的來信》
 ~~~~~~~~~~~~~~~~~~~
 
-- `魔羅的來信 <{filename}/articles/lib/ajahn-punnadhammo/letters-from-mara/letters-from-mara%zh.rst>`__ ，阿姜 富樓那達摩 著 (Letters from Mara, by Ajahn Puṇṇadhammo)
+- `魔羅的來信 <{filename}/articles/lib/ajahn-punnadhammo/letters-from-mara/letters-from-mara%zh.rst>`__ ，阿瞻 富樓那達摩 著 (Letters from Mara, by Ajahn Puṇṇadhammo)
 
 ----
 
@@ -696,6 +718,7 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 
 ..
+  2026-07-19 add 靜心之流 (Stillness Flowing) and Divine Light and Dhamma Light
   07-28 rev. and add: 當代南傳佛教大師、煩惱熄滅--　隆波連佛法開示錄與傳略直接閱讀siongui.github、吉祥經［注解］
   07-26 rev. replace 「_」with「-」@「.. _」
   07-25 add: 平川彰-印度佛教史-上（HTML, 豆沙綠底色）, pdf, odt, doc等等 linkings
