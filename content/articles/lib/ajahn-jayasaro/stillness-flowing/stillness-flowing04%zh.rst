@@ -1352,3 +1352,4 @@ kusalachanda kusalachanda，善欲 ) 或“想要追求真理”（巴： 或“
 ..
   2026-07-19 post; 07-18; create rst on 2026-07-17
   平舍心  平捨心
+  時不時  Every now and again 

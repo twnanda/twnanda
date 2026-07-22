@@ -3,7 +3,7 @@
 ==============================
 
 :date: 2026-07-19
-:modified: 2026-07-19
+:modified: 2026-07-22
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 靜心之流：阿姜查的生平與教誨 (The Life and Teachings of Ajahn Chah)
@@ -11,7 +11,7 @@
 
 **靜心之流：阿姜查的生平與教誨 (The Life and Teachings of Ajahn Chah)**
 
-**阿瞻 袈亞裟柔 著 (By Ajahn Jayasaro, Ajahn Jayasāro)**
+**阿姜 袈亞裟柔 著 (By Ajahn Jayasaro, Ajahn Jayasāro)**
 
 ------
 
@@ -79,11 +79,11 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
     - 導言 · 總歸是不可思議的 · 素描畫像 · 從心到心
 
-- `第五章：佛法的命脈 <{filename}stillness-flowing05%zh.rst>`_ （ **建構中！** ）
+- `第五章：佛法的命脈 <{filename}stillness-flowing05%zh.rst>`_ 
 
   * 隆波與戒律
 
-    - 導言 · 巴帝摩卡：戒律的核心 · 戒規：添磚加瓦 · 苦行：加大力度
+    - 導言 · 波羅提木叉：戒律的核心 · 戒規：添磚加瓦 · 苦行：加大力度
 
 - `第六章：萬物的本質 <{filename}stillness-flowing06%zh.rst>`_ （ **建構中！** ）
 
@@ -153,7 +153,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
   | The Autobiography of Phra Ajaan Lee, translated by Thanissaro Bhikkhu
   | 
 
-- | 《功德與靈性成長》；作者：菩提比丘，選自 作者：菩提比丘，選自 1995 年由佛教出版社發行的第 年由佛教出版社發行的第 259 輪《滋養根柢》 輪《滋養根柢》
+- | 《功德與靈性成長》；作者：菩提比丘，選自 作者：菩提比丘，選自 1995 年由佛教出版社發行的《法輪》第 259 期-- 《滋養根柢》
   | Merit and Spiritual Growth by Bhikkhu Bodhi, published in 1995 by The Buddhist Publication Society as Wheel 259, Nourishing The Roots
   | 
 
@@ -244,4 +244,6 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
 
 
 ..
+  07-22 add chap 5
+  07-20 rev. with 《法輪》第 259 期
   2026-07-19 post; create rst on 2026-07-09
