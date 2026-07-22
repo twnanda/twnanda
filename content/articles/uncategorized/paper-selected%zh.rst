@@ -3,7 +3,7 @@
 =================
 
 :date: 2005-05-01
-:modified: 2026-07-19
+:modified: 2026-07-22
 :tags: 
 :category: 書選
 :summary: 書籍、文章選讀
@@ -409,7 +409,7 @@ https://buddhism.lib.ntu.edu.tw/en/search/search_detail.jsp?seq=690102&comefrom=
 《靜心之流》
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-- `《靜心之流》：阿姜 查的生平與教誨 <{filename}/articles/lib/ajahn-jayasaro/stillness-flowing/stillness-flowing-han-content%zh.rst>`_ ，阿瞻 袈亞裟柔 著， `Stillness Flowing <https://www.jayasaro.panyaprateep.org/uploads/book/1/10/files/00000010.pdf>`__ - The Life and Teachings of Ajahn Chah (by Ajahn Jayasaro) (PDF)； `簡體中文版 <https://www.jayasaro.panyaprateep.org/uploads/book/1/80/files/00000080.pdf>`__ (PDF) (from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org/en/home>`_ )
+- `《靜心之流》：阿姜 查的生平與教誨 <{filename}/articles/lib/ajahn-jayasaro/stillness-flowing/stillness-flowing-han-content%zh.rst>`_ ，阿姜 袈亞裟柔 著， `Stillness Flowing <https://www.jayasaro.panyaprateep.org/uploads/book/1/10/files/00000010.pdf>`__ - The Life and Teachings of Ajahn Chah (by Ajahn Jayasaro) (PDF)； `簡體中文版 <https://www.jayasaro.panyaprateep.org/uploads/book/1/80/files/00000080.pdf>`__ (PDF) (from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org/en/home>`_ )
 
 ------
 
@@ -718,6 +718,7 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 
 ..
+  07-22 改回：阿姜 袈亞裟柔; 07-20 rev. reStructuredText 語法
   2026-07-19 add 靜心之流 (Stillness Flowing) and Divine Light and Dhamma Light
   07-28 rev. and add: 當代南傳佛教大師、煩惱熄滅--　隆波連佛法開示錄與傳略直接閱讀siongui.github、吉祥經［注解］
   07-26 rev. replace 「_」with「-」@「.. _」
