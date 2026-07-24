@@ -3,7 +3,7 @@ Chapter 3 : Dassana Pāragū (Seeing Beyond) (Divine Light and Dhamma Light)
 ===============================================================================
 
 :date: 2026-07-03
-:modified: 2026-07-03
+:modified: 2026-07-24
 :tags: publication, Bhikkhu Uttamo, Kanni Sayadaw U Sobhitā, Kanni Sayadaw, Divine Light and Dhamma Light, Kanni Meditation System, Kanni Meditation, Mye-zin Sayadaw U Sobhita
 :category: path of nirvana
 :summary: Chapter 3 : Dassana Pāragū (Seeing Beyond) (Divine Light and Dhamma Light)
@@ -1517,7 +1517,7 @@ Khin Thein responded as, “I find out a four-squared structure which becoming s
 
 And then I thought as follow. She did not have any knowledge like others (blind at age 3, no schooling, living in a remote village). On the Burmese pagoda, it had the forms of umbrella, overturned alms bowl, etc. Even she knew about the Burmese one, it would not take the famous Mahābodhi Cetiya as pagoda (Because it’s quite a different form).
 
-And then I emphasized her and told her about this place. Each Buddha enlightened here (from Kakusandha Buddha to Metteyya Buddha — totally five Buddhas). This is the noble ground of the beginning of the Earth. When the Earth will perish, this is also the last place comes to end.
+And then I sympathize with her and told her about this place. Each Buddha enlightened here (from Kakusandha Buddha to Metteyya Buddha — totally five Buddhas). This is the noble ground of the beginning of the Earth. When the Earth will perish, this is also the last place comes to end.
 
 With the 5 Buddhas in this aeon (kappa), 5 lotus flowers appeared as signs from the earth in the beginning of it. Emperor Asoka constructed this Cetiya. Shwe-da-gon Cetiya was the first one built on this Earth. After the Shwe-da-gon, this cetiya was the second one on Earth.
 
@@ -2408,4 +2408,5 @@ Ledi Sayadaw already had experience of the light nimitta in 1895 when he practis
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  07-24 rev. emphasized replace with "sympathize with"
   2026-07-03 post, 07-03 create rst
