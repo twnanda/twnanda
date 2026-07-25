@@ -3,7 +3,7 @@
 ==============================
 
 :date: 2026-07-19
-:modified: 2026-07-22
+:modified: 2026-07-25
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 靜心之流：阿姜查的生平與教誨 (The Life and Teachings of Ajahn Chah)
@@ -85,7 +85,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
     - 導言 · 波羅提木叉：戒律的核心 · 戒規：添磚加瓦 · 苦行：加大力度
 
-- `第六章：萬物的本質 <{filename}stillness-flowing06%zh.rst>`_ （ **建構中！** ）
+- `第六章：萬物的本質 <{filename}stillness-flowing06%zh.rst>`_ 
 
   * 禪修指導
 
@@ -244,6 +244,29 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
 
 
 ..
+  07-25 add chap 6
   07-22 add chap 5
   07-20 rev. with 《法輪》第 259 期
   2026-07-19 post; create rst on 2026-07-09
+
+   采用 -- 採用
+   主人公 -- 主人翁
+   蒲密蓬 -- 蒲美蓬
+   作為 -- 做為; 
+   保准 -- 保證
+   粘米飯 -- 糯米飯
+   喂 -- 餵
+
+
+   關系 -- 關係
+   余甘子 -- 餘甘子
+   平舍 -- 平捨    （心）
+  
+  巴帝摩卡 --  波羅提木叉
+  屍棄佛 -- 尸棄佛
+  通脹 -- 通膨
+  應舍 -- 應捨
+  坦罪 -- 懺悔
+  特征 -- 特徵
+  天南海北 -- 天南地北
+  止語 -- 禁語
