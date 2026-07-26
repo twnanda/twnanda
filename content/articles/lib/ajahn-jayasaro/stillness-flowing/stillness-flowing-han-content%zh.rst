@@ -3,7 +3,7 @@
 ==============================
 
 :date: 2026-07-19
-:modified: 2026-07-25
+:modified: 2026-07-26
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 靜心之流：阿姜查的生平與教誨 (The Life and Teachings of Ajahn Chah)
@@ -91,7 +91,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
     - 螺絲和螺帽 · 荊棘與芒刺 · 方法和工具 · 平靜與洞見
 
-- `第七章：磨亮海螺殼 <{filename}stillness-flowing07%zh.rst>`_ （ **建構中！** ）
+- `第七章：磨亮海螺殼 <{filename}stillness-flowing07%zh.rst>`_ 
 
   * 對比丘的訓練
 
@@ -244,6 +244,7 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
 
 
 ..
+  07-26 add chap 7
   07-25 add chap 6
   07-22 add chap 5
   07-20 rev. with 《法輪》第 259 期
@@ -270,3 +271,7 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
   特征 -- 特徵
   天南海北 -- 天南地北
   止語 -- 禁語
+
+  准備 -- 准備
+  啊羅漢 -- 阿羅漢
+  齣家 -- 出家

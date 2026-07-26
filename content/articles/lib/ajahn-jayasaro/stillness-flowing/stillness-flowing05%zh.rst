@@ -2363,7 +2363,7 @@ kiccavatta）。隆波堅信，它們有助於僧人在履行職責時提升正�
 
 ------
 
--  (Stillness Flowing) `目錄 <{filename}stillness-flowing-han-content%zh.rst>`_ 
+- 靜心之流 (Stillness Flowing) `目錄 <{filename}stillness-flowing-han-content%zh.rst>`_ 
 
 
 ------

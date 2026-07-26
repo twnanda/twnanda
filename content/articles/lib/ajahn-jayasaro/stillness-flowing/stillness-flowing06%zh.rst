@@ -1311,7 +1311,7 @@ insight）”。此時，尚未證悟的禪修者可能會誤認為，那種極�
 
 ------
 
--  (Stillness Flowing) `目錄 <{filename}stillness-flowing-han-content%zh.rst>`_ 
+- 靜心之流 (Stillness Flowing) `目錄 <{filename}stillness-flowing-han-content%zh.rst>`_ 
 
 
 ------
