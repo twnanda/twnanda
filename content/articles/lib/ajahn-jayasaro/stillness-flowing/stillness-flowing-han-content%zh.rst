@@ -3,7 +3,7 @@
 ==============================
 
 :date: 2026-07-19
-:modified: 2026-07-26
+:modified: 2026-07-27
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 靜心之流：阿姜查的生平與教誨 (The Life and Teachings of Ajahn Chah)
@@ -97,7 +97,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
     - 引言 · 部分與整體 · 教學的奇蹟 · 全面的訓練
 
-- `第八章：君自遠方來 <{filename}stillness-flowing08%zh.rst>`_ （ **建構中！** ）
+- `第八章：君自遠方來 <{filename}stillness-flowing08%zh.rst>`_ 
 
   * 隆波與他的西方僧團
 
@@ -244,6 +244,7 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
 
 
 ..
+  07-27 add chap 8
   07-26 add chap 7
   07-25 add chap 6
   07-22 add chap 5
@@ -275,3 +276,4 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
   准備 -- 准備
   啊羅漢 -- 阿羅漢
   齣家 -- 出家
+  米 -- 公尺
