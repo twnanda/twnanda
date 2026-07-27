@@ -103,7 +103,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
     - 引言 · 首位弟子 · 透過西方的眼睛 · 正中要害 · 了知世間的人 · 東方與西方的相遇
 
-- `第九章：了卻紅塵緣 <{filename}stillness-flowing09%zh.rst>`_ （ **建構中！** ）
+- `第九章：了卻紅塵緣 <{filename}stillness-flowing09%zh.rst>`_ 
 
   * 美琪的訓練
 
@@ -244,7 +244,7 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
 
 
 ..
-  07-27 add chap 8
+  07-27 add chap 9 & 8
   07-26 add chap 7
   07-25 add chap 6
   07-22 add chap 5

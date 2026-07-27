@@ -1914,7 +1914,7 @@ sāmaṇera 沙彌）。在作為沙彌受訓的一年裡，他們會過著和�
 
 ------
 
--  (Stillness Flowing) `目錄 <{filename}stillness-flowing-han-content%zh.rst>`_ 
+- 靜心之流 (Stillness Flowing) `目錄 <{filename}stillness-flowing-han-content%zh.rst>`_ 
 
 
 ------
