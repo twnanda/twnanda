@@ -115,7 +115,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
     - 導言 · 去寺院 · 正見 · 第一次見面 · 芸芸眾生 · 家庭生活 · 修行佛法
 
-- `第十一章：烈日下的冰 <{filename}stillness-flowing11%zh.rst>`_ （ **建構中！** ）
+- `第十一章：烈日下的冰 <{filename}stillness-flowing11%zh.rst>`_ 
 
   * 隆波病弱的晚年
 
@@ -244,7 +244,7 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
 
 
 ..
-  07-28 add chap 10
+  07-28 add chap 11 & 10
   07-27 add chap 9 & 8
   07-26 add chap 7
   07-25 add chap 6
