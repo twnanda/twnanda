@@ -3,7 +3,7 @@
 ==============================
 
 :date: 2026-07-19
-:modified: 2026-07-27
+:modified: 2026-07-28
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 靜心之流：阿姜查的生平與教誨 (The Life and Teachings of Ajahn Chah)
@@ -109,7 +109,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
     - 導言 · 森林戒尼 · 尊敬的父親
 
-- `第十章：出自慈悲心 <{filename}stillness-flowing10%zh.rst>`_ （ **建構中！** ）
+- `第十章：出自慈悲心 <{filename}stillness-flowing10%zh.rst>`_ 
 
   * 隆波與在家眾
 
@@ -244,6 +244,7 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
 
 
 ..
+  07-28 add chap 10
   07-27 add chap 9 & 8
   07-26 add chap 7
   07-25 add chap 6
@@ -277,3 +278,7 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
   啊羅漢 -- 阿羅漢
   齣家 -- 出家
   米 -- 公尺
+  自打 -- 打從
+  舍棄 -- 捨棄
+  舍戒 -- 捨戒
+  敢說敢幹 -- 敢說敢做
