@@ -3,7 +3,7 @@
 ==============================
 
 :date: 2026-07-19
-:modified: 2026-07-28
+:modified: 2026-07-29
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 靜心之流：阿姜查的生平與教誨 (The Life and Teachings of Ajahn Chah)
@@ -121,7 +121,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
     - 身患病，心康健 · 意猶未盡
 
-- `第十二章：廣闊的畫卷 <{filename}stillness-flowing12%zh.rst>`_ （ **建構中！** ）
+- `第十二章：廣闊的畫卷 <{filename}stillness-flowing12%zh.rst>`_ 
 
   * 隆波在西方 — 1977 與 1979
 
@@ -244,6 +244,7 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
 
 
 ..
+  07-29 add chap 12
   07-28 add chap 11 & 10
   07-27 add chap 9 & 8
   07-26 add chap 7
@@ -259,7 +260,6 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
    保准 -- 保證
    粘米飯 -- 糯米飯
    喂 -- 餵
-
 
    關系 -- 關係
    余甘子 -- 餘甘子
@@ -278,7 +278,12 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
   啊羅漢 -- 阿羅漢
   齣家 -- 出家
   米 -- 公尺
+
   自打 -- 打從
   舍棄 -- 捨棄
   舍戒 -- 捨戒
   敢說敢幹 -- 敢說敢做
+
+  知者 -- 智者 ?
+
+   慈、悲、喜、舍 -- 慈、悲、喜、捨
