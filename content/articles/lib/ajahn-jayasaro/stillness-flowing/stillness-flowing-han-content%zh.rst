@@ -131,6 +131,8 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
 - `附錄 <{filename}stillness-flowing-appendix%zh.rst>`_ （ **建構中！** ）
 
+- `術語注釋表 <{filename}stillness-flowing-buddhist-term%zh.rst>`_ 
+
 - `靜心之流（整本書） <{filename}stillness-flowing-full-texts%zh.rst>`_ （ **建構中！** ）
 
 - 本書
@@ -244,7 +246,7 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
 
 
 ..
-  07-29 add chap 12
+  07-29 add 術語注釋表 & chap 12
   07-28 add chap 11 & 10
   07-27 add chap 9 & 8
   07-26 add chap 7
