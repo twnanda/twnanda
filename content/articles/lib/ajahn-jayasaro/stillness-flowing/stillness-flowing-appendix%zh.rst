@@ -11,11 +11,10 @@
 
 **示意圖與照片**
 
-- 巴蓬寺
+巴蓬寺
+~~~~~~~~
 
 .. container:: images of Wat Nong Pah Pong
-
-  巴蓬寺
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/6d78b79db4b9eac3a47df6a84c8eeed2673a883a/content/img/stillness-flowing/%E5%B7%B4%E8%93%AC%E5%AF%BA.png?raw=true
      :width: 780
@@ -31,11 +30,12 @@
 
 17. 染衣棚 18. 寺院大門
 
-- 森林僧人的僧衣和資具
+------
+
+森林僧人的僧衣和資具
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. container:: images of The Robes and Supplies of Forest Monks
-
-  森林僧人的僧衣和資具
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/c742e61a5fcc43f3ff5b4fc0ee47c52e325798b4/content/img/stillness-flowing/%E6%A3%AE%E6%9E%97%E5%83%A7%E4%BA%BA%E7%9A%84%E5%83%A7%E8%A1%A3%E5%92%8C%E8%B3%87%E5%85%B7.png?raw=true
      :width: 670
@@ -47,12 +47,12 @@
 
 5. 缽蓋 6. 編織缽套 7. 缽 8. 缽架 9. 水壺 10. 隨坐布
 
-- 森林僧人的居所
+------
 
+森林僧人的居所
+~~~~~~~~~~~~~~~~~
 
 .. container:: images of The Forest Monk's Dwelling
-
-  森林僧人的居所
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/6d78b79db4b9eac3a47df6a84c8eeed2673a883a/content/img/stillness-flowing/%E6%A3%AE%E6%9E%97%E5%83%A7%E4%BA%BA%E7%9A%84%E5%B1%85%E6%89%80.png?raw=true
      :width: 791
