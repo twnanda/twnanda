@@ -37,7 +37,7 @@
 
   森林僧人的僧衣和資具
 
-  .. image:: https://github.com/twnanda/dispersed-design/blob/6d78b79db4b9eac3a47df6a84c8eeed2673a883a/content/img/stillness-flowing/%E6%A3%AE%E6%9E%97%E5%83%A7%E4%BA%BA%E7%9A%84%E5%83%A7%E8%A1%A3%E5%92%8C%E8%B3%87%E5%85%B7.png?raw=true
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c742e61a5fcc43f3ff5b4fc0ee47c52e325798b4/content/img/stillness-flowing/%E6%A3%AE%E6%9E%97%E5%83%A7%E4%BA%BA%E7%9A%84%E5%83%A7%E8%A1%A3%E5%92%8C%E8%B3%87%E5%85%B7.png?raw=true
      :width: 670
      :height: 970
      :target: https://nanda.dhamma-online.net/
