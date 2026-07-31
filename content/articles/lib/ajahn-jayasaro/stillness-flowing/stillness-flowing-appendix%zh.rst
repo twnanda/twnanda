@@ -17,8 +17,8 @@
 .. container:: images of Wat Nong Pah Pong
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/6d78b79db4b9eac3a47df6a84c8eeed2673a883a/content/img/stillness-flowing/%E5%B7%B4%E8%93%AC%E5%AF%BA.png?raw=true
-     :width: 780
-     :height: 864
+     :width: 390
+     :height: 432
      :target: https://nanda.dhamma-online.net/
      :alt: 巴蓬寺
 
@@ -38,8 +38,8 @@
 .. container:: images of The Robes and Supplies of Forest Monks
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/c742e61a5fcc43f3ff5b4fc0ee47c52e325798b4/content/img/stillness-flowing/%E6%A3%AE%E6%9E%97%E5%83%A7%E4%BA%BA%E7%9A%84%E5%83%A7%E8%A1%A3%E5%92%8C%E8%B3%87%E5%85%B7.png?raw=true
-     :width: 670
-     :height: 970
+     :width: 335
+     :height: 485
      :target: https://nanda.dhamma-online.net/
      :alt: 森林僧人的僧衣和資具
 
@@ -55,8 +55,8 @@
 .. container:: images of The Forest Monk's Dwelling
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/6d78b79db4b9eac3a47df6a84c8eeed2673a883a/content/img/stillness-flowing/%E6%A3%AE%E6%9E%97%E5%83%A7%E4%BA%BA%E7%9A%84%E5%B1%85%E6%89%80.png?raw=true
-     :width: 791
-     :height: 984
+     :width: 395
+     :height: 492
      :target: https://nanda.dhamma-online.net/
      :alt: 森林僧人的居所
 
@@ -70,8 +70,8 @@
 .. container:: images of Luang Pu Sao Kantasiilo
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/Luang%20Pu%20Sao%20Kantasiilo.png?raw=true
-     :width: 328
-     :height: 435
+     :width: 164
+     :height: 217
      :target: https://nanda.dhamma-online.net/
      :alt: Luang Pu Sao Kantasiilo
 
@@ -85,8 +85,8 @@
 .. container:: images of Luang Pu Mun Bhuridatto
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/Luang%20Pu%20Mun%20Bhuridatto.png?raw=true
-     :width: 328
-     :height: 435
+     :width: 164
+     :height: 217
      :target: https://nanda.dhamma-online.net/
      :alt: Luang Pu Mun Bhuridatto
 
@@ -100,8 +100,8 @@
 .. container:: images of Luang Pu Tongrat Kantasiilo
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/Luang%20Pu%20Tongrat%20Kantasiilo.png?raw=true
-     :width: 328
-     :height: 435
+     :width: 164
+     :height: 217
      :target: https://nanda.dhamma-online.net/
      :alt: Luang Pu Tongrat Kantasiilo
 
@@ -115,8 +115,8 @@
 .. container:: images of Luang Pu Kinaree Candiyo
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/Luang%20Pu%20Kinaree%20Candiyo.png?raw=true
-     :width: 325
-     :height: 436
+     :width: 162
+     :height: 218
      :target: https://nanda.dhamma-online.net/
      :alt: Luang Pu Kinaree Candiyo
 
@@ -130,8 +130,8 @@
 .. container:: images of Dhamma Talk on the Day of Fasting
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/%E9%BD%8B%E6%88%92%E6%97%A5%E7%9A%84%E4%BD%9B%E6%B3%95%E9%96%8B%E7%A4%BA.png?raw=true
-     :width: 595
-     :height: 433
+     :width: 297
+     :height: 216
      :target: https://nanda.dhamma-online.net/
      :alt: Dhamma Talk on the Day of Fasting
 
@@ -145,8 +145,8 @@
 .. container:: Luang Por Chah's Kuti
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/1964-1981%E9%9A%86%E6%B3%A2%E6%9F%A5%E7%9A%84%E5%AD%A4%E9%82%B8-%E7%85%A7%E7%89%87%E6%94%9D%E6%96%BC%E4%BF%AE%E7%B9%95%E5%BE%8C.png?raw=true
-     :width: 597
-     :height: 434
+     :width: 298
+     :height: 217
      :target: https://nanda.dhamma-online.net/
      :alt: Luang Por Chah’s Kuti 1964-1981 (photograph taken after later renovation)
 
@@ -160,8 +160,8 @@
 .. container:: The Prime Minister of Sri Lanka paid respects to Luang Por
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/%E6%8B%89%E7%B4%8D%E8%BE%9B%E6%A0%BC%C2%B7%E6%99%AE%E9%9B%B7%E9%A6%AC%E9%81%94%E8%96%A9%E7%A6%AE%E6%95%AC%E9%9A%86%E6%B3%A2%E6%9F%A5.png?raw=true
-     :width: 598
-     :height: 435
+     :width: 299
+     :height: 217
      :target: https://nanda.dhamma-online.net/
      :alt: 1988 年 6 月 16 日，斯里蘭卡首相拉納辛格·普雷馬達薩先生前來禮敬隆波查。
 
@@ -175,8 +175,8 @@
 .. container:: Early days at Pah Pong: A monk is sweeping around the kuti
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/%E6%B8%85%E6%8E%83%E5%AD%A4%E9%82%B8.png?raw=true
-     :width: 669
-     :height: 438
+     :width: 334
+     :height: 219
      :target: https://nanda.dhamma-online.net/
      :alt: 早期巴蓬寺，一位僧人在清掃孤邸的四周。
 
@@ -190,8 +190,8 @@
 .. container:: Luang Por with his mother Maechee Pim Chuangchot
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/%E9%9A%86%E6%B3%A2%E8%88%87%E6%AF%8D%E8%A6%AA.png?raw=true
-     :width: 571
-     :height: 856
+     :width: 285
+     :height: 428
      :target: https://nanda.dhamma-online.net/
      :alt: 1976 年，在隆波的母親美琪·彬·創卓捨報前不久，隆波與她的合影
 
@@ -205,8 +205,8 @@
 .. container:: Monks mixing cement for the Luang Por Chah stupa
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/for-Luang-Por-Chah-stupa.png?raw=true
-     :width: 667
-     :height: 450
+     :width: 333
+     :height: 225
      :target: https://nanda.dhamma-online.net/
      :alt: 1992 年，僧人們正在為建造隆波查舍利塔攪拌水泥。
 
@@ -220,8 +220,8 @@
 .. container:: Luang Por’s body is carried in procession from the Wat Pah Pong Dhamma Hall to the stupa in preparation for cremation
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/%E6%BA%96%E5%82%99%E7%81%AB%E5%8C%96.png?raw=true
-     :width: 669
-     :height: 449
+     :width: 334
+     :height: 224
      :target: https://nanda.dhamma-online.net/
      :alt: 送葬隊伍將隆波的法體從巴蓬寺法堂抬到舍利塔，準備火化
 
@@ -233,5 +233,5 @@
 
 
 ..
-  07-31 add the other photos (except 示意圖)
+  07-31 rev. size of hpotos & add the other photos (except 示意圖)
   2026-07-30 post; create rst on 2026-07-09
