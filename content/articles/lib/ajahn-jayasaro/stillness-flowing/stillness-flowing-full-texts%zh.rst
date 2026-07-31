@@ -3,16 +3,11 @@
 ====================================
 
 :date: 2026-07-29
-:modified: 2026-07-29
+:modified: 2026-07-31
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 靜心之流 (Stillness Flowing) 全書
 
-
-| 於此世他世，均無有所求，
-| 無欲而解脫，是謂正聖者。
-| 《法句經》第 410 偈
-| 
 
 **靜心之流：阿姜查的生平與教誨 (The Life and Teachings of Ajahn Chah)**
 
@@ -134,13 +129,69 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
 - `隆波頌`_ 
 
-- `附錄 <{filename}stillness-flowing-appendix%zh.rst>`_ （ **建構中！** ）
+- `附錄`_ 
 
 - `術語注釋表`_ 
 
 - 本書
 
   * PDF
+
+------
+
+.. container:: images of Cover
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/b462d11ec6f85b43d33c1fb461db157d66a7b7a8/content/img/stillness-flowing/cover.png?raw=true
+     :width: 400
+     :height: 600
+     :target: https://nanda.dhamma-online.net/
+     :alt: 封面
+
+------
+
+**本書中使用的縮略語：**
+
+AN: Aṅguttara Nikāya 《增支部》
+
+Cv: Cullavagga 《小品》
+
+Dhp: Dhammapada 《法句經》
+
+DN: Dīgha Nikāya 《長部》
+
+It: Itivuttaka 《如是語》
+
+Ja: Jātaka 《本生經》
+
+Khp: Khuddakapāṭha 《小誦》
+
+MN: Majjhima Nikāya 《中部》
+
+Mv: Mahāvagga 《大品》
+
+Patis: Paṭisambhidā 《無礙解道》
+
+Pr: Pārājika 《波羅夷》
+
+Pv: Parivāra 《附隨》
+
+SN: Saṃyutta Nikāya 《相應部》
+
+Sn: Sutta Nipāta 《經集》
+
+Th: Theragāthā 《長老偈》
+
+Thī: Therīgāthā 《長老尼偈》
+
+Ud: Udāna 《自說》
+
+Vin: Vinaya Piṭaka 《律藏》
+
+| Vin-a: Vinaya Aṭṭhakathā (Samantāpāsādikā)
+| 《攝律義注》（《一切善見律》）
+| 
+
+Vism: Visuddhimagga 《清淨道論》
 
 ------
 
@@ -248,6 +299,18 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
 | 於袈納瑪拉隱居處
 | Janamāra Hermitage
 | 
+
+------
+
+.. container:: images of Ven. Ajahn Chah
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/b462d11ec6f85b43d33c1fb461db157d66a7b7a8/content/img/stillness-flowing/Ven-Ajahn-Chah.png?raw=true
+     :width: 1004
+     :height: 1358
+     :target: https://nanda.dhamma-online.net/
+     :alt: 尊者  菩提亞納長老（阿姜查）
+
+尊者  菩提亞納長老（阿姜查）
 
 ------
 
@@ -411,6 +474,16 @@ Por（隆波）”（尊敬的父親），年老時被稱為“Luang Pu（隆普
 經被牛津英語字典（Oxford English Dictionary）收編，成為了英語詞
 匯的一部分，如“Pali”（巴利）、“Sangha”（僧團）、“Theravada”
 （上座部）等。
+
+------
+
+.. container:: image of title of chapter1
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/b462d11ec6f85b43d33c1fb461db157d66a7b7a8/content/img/stillness-flowing/title-of-chap1.png?raw=true
+     :width: 390
+     :height: 654
+     :target: https://nanda.dhamma-online.net/
+     :alt: title of chap 1
 
 ------
 
@@ -3956,7 +4029,7 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 法中 取得進步，學生們甘願做出必要的犧牲，為修習付出精進與熱忱。
 
 
-隆波查給小鹿餵食(img)
+隆波查餵食小鹿(img)
 
 
 在這當中發揮作用的，不僅僅是他們對求道與奉獻已然有所了解，還
@@ -6026,6 +6099,9 @@ pavāranā）的在家人乞討、要求、甚至是暗示任何除飲用水以�
 | “未來您應當約束自己。”
 | 
 
+
+懺悔坦罪 (img)
+
 ●●●●●●
 
 以上各部分的介紹僅是匆匆幾瞥，讓讀者了解一些波羅提木叉的戒
@@ -7120,7 +7196,7 @@ kiccavatta）。隆波堅信，它們有助於僧人在履行職責時提升正�
    比丘們，你們應當如此訓練自己。
                   《相應部 迦葉相應 滿足經》SN 16.1
 
-**巴蓬寺早期典型的孤邸**
+巴蓬寺早期典型的孤邸 (img)
 
 
 巴蓬寺的大部分孤邸都來自信眾及其家庭的供養。對村民來說，
@@ -7902,13 +7978,11 @@ nakhā，dantā，taco——可以把它們當作咒語在心裡念誦，讓心�
 
 很多巴蓬寺的出家人，練習行禪（巴：caṅkama 泰：jongkrom）
 的時間與坐禪同樣多，甚或更多。佛陀也曾列舉這樣做的好處：強健
-
-337
 體魄，有助消化，令身體堪忍以及隨時準備好精進等等。最重要的是，
 佛陀曾說，與坐禪中開發的三摩地相比，行禪中生起的三摩地更容易
-在正式禪修時段以外持續下去（《增支部 在正式禪修時段以外持續下去（《增支部 五集 第 29 經》AN 5. 29 AN 5. 29）。
+在正式禪修時段以外持續下去（《增支部 在正式禪修時段以外持續下去（《增支部 五集 第 29 經》AN 5. 29）。
 
-**隆波查在行禪**
+隆波查在行禪 (img)
 
 
 行禪既是坐禪的替代，也是它的補充。如果身體由於疾病而無法
@@ -18432,6 +18506,230 @@ Sussex）包括一組極其珍貴的鏡頭，笑容滿面的隆波正與英國�
 
 ------
 
+附錄
+~~~~~~~
+
+
+**示意圖與照片**
+
+巴蓬寺
+~~~~~~~~
+
+.. container:: images of Wat Nong Pah Pong
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/6d78b79db4b9eac3a47df6a84c8eeed2673a883a/content/img/stillness-flowing/%E5%B7%B4%E8%93%AC%E5%AF%BA.png?raw=true
+     :width: 390
+     :height: 432
+     :target: https://nanda.dhamma-online.net/
+     :alt: 巴蓬寺
+
+1. 寺院圍牆 2. 美琪院區 3. 僧眾孤邸區 4. 戒堂 5. 隆波的孤邸
+
+6. 廚房 7. 食堂 8. 鐘樓 9. 法堂 10. 縫衣孤邸 11. 舍利塔 12. 護理孤邸
+
+13. 寺院內門（原大門） 寺院內門（原大門）14. 隆波查紀念館 15. 住持孤邸 16. 外會堂
+
+17. 染衣棚 18. 寺院大門
+
+------
+
+森林僧人的僧衣和資具
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. container:: images of The Robes and Supplies of Forest Monks
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c742e61a5fcc43f3ff5b4fc0ee47c52e325798b4/content/img/stillness-flowing/%E6%A3%AE%E6%9E%97%E5%83%A7%E4%BA%BA%E7%9A%84%E5%83%A7%E8%A1%A3%E5%92%8C%E8%B3%87%E5%85%B7.png?raw=true
+     :width: 335
+     :height: 485
+     :target: https://nanda.dhamma-online.net/
+     :alt: 森林僧人的僧衣和資具
+
+1. 帳傘 2. 蠟燭燈籠 3. 外僧衣（僧伽棃） 外僧衣（僧伽棃）4. 上僧衣（郁多羅僧） 上僧衣（郁多羅僧）
+
+5. 缽蓋 6. 編織缽套 7. 缽 8. 缽架 9. 水壺 10. 隨坐布
+
+------
+
+森林僧人的居所
+~~~~~~~~~~~~~~~~~
+
+.. container:: images of The Forest Monk's Dwelling
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/6d78b79db4b9eac3a47df6a84c8eeed2673a883a/content/img/stillness-flowing/%E6%A3%AE%E6%9E%97%E5%83%A7%E4%BA%BA%E7%9A%84%E5%B1%85%E6%89%80.png?raw=true
+     :width: 395
+     :height: 492
+     :target: https://nanda.dhamma-online.net/
+     :alt: 森林僧人的居所
+
+1. 孤邸（小木屋） 孤邸（小木屋）2. 晾衣繩 3. 打坐檯 4. 覆肩衣 5. 腰帶 6. 下僧衣（安陀會）7. 拖鞋 8. 行禪小徑
+
+------
+
+隆普掃·堪塔西羅
+~~~~~~~~~~~~~~~~~
+
+.. container:: images of Luang Pu Sao Kantasiilo
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/Luang%20Pu%20Sao%20Kantasiilo.png?raw=true
+     :width: 164
+     :height: 217
+     :target: https://nanda.dhamma-online.net/
+     :alt: Luang Pu Sao Kantasiilo
+
+隆普掃·堪塔西羅（Luang Pu Sao Kantasīlo, 1861-1941）
+
+------
+
+隆普曼·布利達陀
+~~~~~~~~~~~~~~~~~
+
+.. container:: images of Luang Pu Mun Bhuridatto
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/Luang%20Pu%20Mun%20Bhuridatto.png?raw=true
+     :width: 164
+     :height: 217
+     :target: https://nanda.dhamma-online.net/
+     :alt: Luang Pu Mun Bhuridatto
+
+隆普曼·布利達陀（Luang Pu Mun Bhuridatto, 1870-1949）
+
+------
+
+隆普通拉·堪塔西羅
+~~~~~~~~~~~~~~~~~~~
+
+.. container:: images of Luang Pu Tongrat Kantasiilo
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/Luang%20Pu%20Tongrat%20Kantasiilo.png?raw=true
+     :width: 164
+     :height: 217
+     :target: https://nanda.dhamma-online.net/
+     :alt: Luang Pu Tongrat Kantasiilo
+
+隆普通拉·堪塔西羅（Luang Pu Tongrat Kantasiilo, 1888-1956）
+
+------
+
+隆普欽納利·堪諦尤
+~~~~~~~~~~~~~~~~~~~
+
+.. container:: images of Luang Pu Kinaree Candiyo
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/Luang%20Pu%20Kinaree%20Candiyo.png?raw=true
+     :width: 162
+     :height: 218
+     :target: https://nanda.dhamma-online.net/
+     :alt: Luang Pu Kinaree Candiyo
+
+隆普欽納利·堪諦尤（Luang Pu Kinaree Candiyo, 1896-1980）
+
+------
+
+齋戒日的佛法開示
+~~~~~~~~~~~~~~~~~~~
+
+.. container:: images of Dhamma Talk on the Day of Fasting
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/%E9%BD%8B%E6%88%92%E6%97%A5%E7%9A%84%E4%BD%9B%E6%B3%95%E9%96%8B%E7%A4%BA.png?raw=true
+     :width: 297
+     :height: 216
+     :target: https://nanda.dhamma-online.net/
+     :alt: Dhamma Talk on the Day of Fasting
+
+齋戒日的佛法開示 (A Wan Phra Dhamma discourse)。
+
+------
+
+1964-1981 年期間，隆波查的孤邸
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. container:: Luang Por Chah's Kuti
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/1964-1981%E9%9A%86%E6%B3%A2%E6%9F%A5%E7%9A%84%E5%AD%A4%E9%82%B8-%E7%85%A7%E7%89%87%E6%94%9D%E6%96%BC%E4%BF%AE%E7%B9%95%E5%BE%8C.png?raw=true
+     :width: 298
+     :height: 217
+     :target: https://nanda.dhamma-online.net/
+     :alt: Luang Por Chah’s Kuti 1964-1981 (photograph taken after later renovation)
+
+1964-1981 年期間，隆波查的孤邸（照片攝於修繕後）。
+
+------
+
+1988 年 6 月 16 日斯里蘭卡首相前來禮敬隆波查
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. container:: The Prime Minister of Sri Lanka paid respects to Luang Por
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/%E6%8B%89%E7%B4%8D%E8%BE%9B%E6%A0%BC%C2%B7%E6%99%AE%E9%9B%B7%E9%A6%AC%E9%81%94%E8%96%A9%E7%A6%AE%E6%95%AC%E9%9A%86%E6%B3%A2%E6%9F%A5.png?raw=true
+     :width: 299
+     :height: 217
+     :target: https://nanda.dhamma-online.net/
+     :alt: 1988 年 6 月 16 日，斯里蘭卡首相拉納辛格·普雷馬達薩先生前來禮敬隆波查。
+
+1988 年 6 月 16 日，斯里蘭卡首相拉納辛格·普雷馬達薩先生 (Ranasinghe Premadasa) 前來禮敬隆波查。
+
+------
+
+早期巴蓬寺，一位僧人在清掃孤邸的四周
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. container:: Early days at Pah Pong: A monk is sweeping around the kuti
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/%E6%B8%85%E6%8E%83%E5%AD%A4%E9%82%B8.png?raw=true
+     :width: 334
+     :height: 219
+     :target: https://nanda.dhamma-online.net/
+     :alt: 早期巴蓬寺，一位僧人在清掃孤邸的四周。
+
+早期巴蓬寺，一位僧人在清掃孤邸的四周。
+
+------
+
+1976 年，在隆波的母親--美琪·彬·創卓捨報前不久，隆波與她的合影
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. container:: Luang Por with his mother Maechee Pim Chuangchot
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/%E9%9A%86%E6%B3%A2%E8%88%87%E6%AF%8D%E8%A6%AA.png?raw=true
+     :width: 285
+     :height: 428
+     :target: https://nanda.dhamma-online.net/
+     :alt: 1976 年，在隆波的母親美琪·彬·創卓捨報前不久，隆波與她的合影
+
+1976 年，在隆波的母親--美琪·彬·創卓捨報前不久，隆波與她的合影。
+
+------
+
+1992 年，僧人們正在為建造隆波查舍利塔攪拌水泥
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. container:: Monks mixing cement for the Luang Por Chah stupa
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/for-Luang-Por-Chah-stupa.png?raw=true
+     :width: 333
+     :height: 225
+     :target: https://nanda.dhamma-online.net/
+     :alt: 1992 年，僧人們正在為建造隆波查舍利塔攪拌水泥。
+
+1992 年，僧人們正在為建造隆波查舍利塔攪拌水泥。
+
+------
+
+送葬隊伍將隆波的法體從巴蓬寺法堂抬到舍利塔，準備火化
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. container:: Luang Por’s body is carried in procession from the Wat Pah Pong Dhamma Hall to the stupa in preparation for cremation
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/%E6%BA%96%E5%82%99%E7%81%AB%E5%8C%96.png?raw=true
+     :width: 334
+     :height: 224
+     :target: https://nanda.dhamma-online.net/
+     :alt: 送葬隊伍將隆波的法體從巴蓬寺法堂抬到舍利塔，準備火化
+
+送葬隊伍將隆波的法體從巴蓬寺法堂抬到舍利塔，準備火化。
+
+------
+
 術語注釋表
 ~~~~~~~~~~~~~
 
@@ -18916,52 +19214,6 @@ Z.
 
 ------
 
-**本書中使用的縮略語：**
-
-AN: Aṅguttara Nikāya 《增支部》
-
-Cv: Cullavagga 《小品》
-
-Dhp: Dhammapada 《法句經》
-
-DN: Dīgha Nikāya 《長部》
-
-It: Itivuttaka 《如是語》
-
-Ja: Jātaka 《本生經》
-
-Khp: Khuddakapāṭha 《小誦》
-
-MN: Majjhima Nikāya 《中部》
-
-Mv: Mahāvagga 《大品》
-
-Patis: Paṭisambhidā 《無礙解道》
-
-Pr: Pārājika 《波羅夷》
-
-Pv: Parivāra 《附隨》
-
-SN: Saṃyutta Nikāya 《相應部》
-
-Sn: Sutta Nipāta 《經集》
-
-Th: Theragāthā 《長老偈》
-
-Thī: Therīgāthā 《長老尼偈》
-
-Ud: Udāna 《自說》
-
-Vin: Vinaya Piṭaka 《律藏》
-
-| Vin-a: Vinaya Aṭṭhakathā (Samantāpāsādikā)
-| 《攝律義注》（《一切善見律》）
-| 
-
-Vism: Visuddhimagga 《清淨道論》
-
-------
-
 | **禁止售賣此書** 。
 | 這是來自泰國、新加坡、馬來西亞和中國的佛弟子
 | 免費贈送給讀者的一份 **法的禮物**
@@ -19434,6 +19686,7 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
 
 
 ..
+  07-31 add 3 photos
   2026-07-29; create rst on 2026-07-29
 
    采用 -- 採用
