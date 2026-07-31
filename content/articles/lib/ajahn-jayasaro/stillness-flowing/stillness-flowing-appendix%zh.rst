@@ -115,8 +115,8 @@
 .. container:: images of Luang Pu Kinaree Candiyo
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/652a97b17e5871e66691d3c33971ea4fec60c0fc/content/img/stillness-flowing/Luang%20Pu%20Kinaree%20Candiyo.png?raw=true
-     :width: 791
-     :height: 984
+     :width: 325
+     :height: 436
      :target: https://nanda.dhamma-online.net/
      :alt: Luang Pu Kinaree Candiyo
 
