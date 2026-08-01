@@ -3,7 +3,7 @@
 ====================================
 
 :date: 2026-07-29
-:modified: 2026-07-31
+:modified: 2026-08-01
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 靜心之流 (Stillness Flowing) 全書
@@ -669,7 +669,20 @@ Por（隆波）”（尊敬的父親），年老時被稱為“Luang Pu（隆普
 擁下，國王夫婦步入白塔。他們先向棺槨頂禮叩拜，隨後，依照神聖
 的傳統舉行了一系列的供養儀式。
 
-泰王蒲美蓬和王后詩麗吉陛下於火化當日禮敬隆波查法體(img)
+
+------
+
+.. container:: images of Their Majesties King Bhumibol and Queen Sirikit pay respects to Luang Por
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01King%20Bhumibol%20and%20Queen.png?raw=true
+     :width: 598
+     :height: 435
+     :target: https://nanda.dhamma-online.net/
+     :alt: 泰王蒲美蓬和王后詩麗吉陛下禮敬隆波查法體
+
+泰王蒲美蓬和王后詩麗吉陛下於火化當日禮敬隆波查法體
+
+------
 
 首先，他們向十位僧銜很高的長老供養僧衣。在接受僧衣之前，
 長老們左手持華麗的遮面扇，念誦了一段省思無常與寂滅的簡短經文。
@@ -774,7 +787,19 @@ Kuti）和美琪 [1-4]_
 淨的心完成這項任務，即使感到勞累和精疲力盡也毫不在乎。每個人
 都作出了犧牲。這是佛法在一遍遍地流經人心。”
 
-僧人們正在建造舍利塔(img)
+------
+
+.. container:: images of The monks are building a stupa
+
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E5%BB%BA%E9%80%A0%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
+     :width: 454
+     :height: 685
+     :target: https://nanda.dhamma-online.net/
+     :alt: 僧人們正在建造舍利塔
+
+僧人們正在建造舍利塔
+
+------
 
 經過短短六個月的全力以赴，舍利塔於 經過短短六個月的全力以赴，舍利塔於1993年1月15日正式落成。
 
@@ -818,7 +843,19 @@ Kuti）和美琪 [1-4]_
 用金色蠟燭雕刻出的藤蔓和花卉造型，讓它看起來像是一支巨大的
 蠟燭。
 
-隆波查舍利塔(img)
+------
+
+.. container:: image of Luang Por Chah stupa
+
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E9%9A%86%E6%B3%A2%E6%9F%A5%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
+     :width: 458
+     :height: 685
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查舍利塔
+
+隆波查舍利塔
+
+------
 
 焚化爐裡面滿滿地整齊堆放著檀香木花和大量的木炭，阿姜連和
 烏汶府最高行政長官一起，將皇家火種放入爐中。火焰迅速騰起，啊
@@ -1751,7 +1788,19 @@ Upasampadā）在當地的剃度寺院——康內寺舉行。隆波的戒師是
 正穿透過相機，直視觀者的內心。這是一張極有感召力卻又令人不安
 的照片，它挑戰著觀者認為理所當然的一切。
 
-隆普曼(img)
+------
+
+.. container:: image of Luang Pu Mun
+
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E9%9A%86%E6%99%AE%E6%9B%BC.png?raw=true
+     :width: 567
+     :height: 853
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆普曼
+
+隆普曼
+
+------
 
 以隆普曼為主角的故事和軼聞，與佛教經典中有關高僧大德的事跡
 有著驚人的相似，大都由他的學生及同輩們講述。儘管可以預料，在這
@@ -1804,7 +1853,19 @@ Upasampadā）在當地的剃度寺院——康內寺舉行。隆波的戒師是
 成的小團體，抵達了隆普曼所在的寺院，泊池森林寺（Wat Pah
 Nong Peu）。
 
-泊池森林寺(img)
+------
+
+.. container:: image of Wat Pah Nong Peu
+
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E6%B3%8A%E6%B1%A0%E6%A3%AE%E6%9E%97%E5%AF%BA.png?raw=true
+     :width: 568
+     :height: 382
+     :target: https://nanda.dhamma-online.net/
+     :alt: 泊池森林寺
+
+泊池森林寺
+
+------
 
 一踏進寺院，隆波即刻被它寂靜安詳的氛圍所打動。寺院中央的
 地面打掃得纖塵不染，一座小小的木製吊腳法堂佇立其中。映入他眼
@@ -2177,7 +2238,19 @@ Daeng）等，宛如莊重但友好的哨兵。當他沿途行走時，不時會
 相反，猶如一件歲月磨平了的老僧衣，他身上透著一種謙和的自足與
 自在，表明他覺得自己已無須再證明什麼了。
 
-隆普欽納理(img)
+------
+
+.. container:: image of Luang Pu Kinaree Candiyo
+
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02Luang%20Pu%20Kinaree%20Candiyo.png?raw=true
+     :width: 456
+     :height: 685
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆普欽納理·堪諦尤 (Luang Pu Kinaree Candiyo)
+
+隆普欽納理·堪諦尤 (Luang Pu Kinaree Candiyo)
+
+------
 
 隆普欽納理是位親切而溫和的人，無論每一刻可能帶給他什麼，
 他似乎都很知足。他很少說話，他覺得似乎很少有什麼事情值得去打
@@ -3281,7 +3354,17 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 
 **缽食**
 
-衣缽(img)
+.. container:: image of kasaava and patta
+
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-03%E8%A1%A3%E7%BC%BD.png?raw=true
+     :width: 458
+     :height: 685
+     :target: https://nanda.dhamma-online.net/
+     :alt: 衣缽
+
+衣缽
+
+------
 
 托缽得來的食物，在最好的日子裡也不過是很基本的食物。通常，
 僧人能托缽回來的差不多只有糯米飯，多出幾根香蕉或魚乾都是很難
@@ -3310,7 +3393,19 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 三根香蕉。隆波叫其中一位比丘將香蕉切成薄片，然後分給大家。那
 天，那三根香蕉供養了整個僧團。
 
-清晨托缽(img)
+------
+
+.. container:: image of Morning Alms Round
+
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-03%E6%B8%85%E6%99%A8%E6%89%98%E7%BC%BD.png?raw=true
+     :width: 667
+     :height: 441
+     :target: https://nanda.dhamma-online.net/
+     :alt: 清晨托缽
+
+清晨托缽
+
+------
 
 對於飢餓的年輕僧人來說，每日一食雖說只有一團糯米飯和少許
 辣椒醬，很少再有其它食物，但那仍然是可口的美味。阿姜占就是這
@@ -18610,7 +18705,7 @@ Sussex）包括一組極其珍貴的鏡頭，笑容滿面的隆波正與英國�
 
 ------
 
-隆普欽納利·堪諦尤
+隆普欽納理·堪諦尤
 ~~~~~~~~~~~~~~~~~~~
 
 .. container:: images of Luang Pu Kinaree Candiyo
@@ -18621,7 +18716,7 @@ Sussex）包括一組極其珍貴的鏡頭，笑容滿面的隆波正與英國�
      :target: https://nanda.dhamma-online.net/
      :alt: Luang Pu Kinaree Candiyo
 
-隆普欽納利·堪諦尤（Luang Pu Kinaree Candiyo, 1896-1980）
+隆普欽納理·堪諦尤（Luang Pu Kinaree Candiyo, 1896-1980）
 
 ------
 
@@ -19686,6 +19781,7 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
 
 
 ..
+  08-01 add photos of ch01--03
   07-31 add 3 photos
   2026-07-29; create rst on 2026-07-29
 

@@ -3,7 +3,7 @@
 =================================
 
 :date: 2026-07-19
-:modified: 2026-07-19
+:modified: 2026-08-01
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第一章：生命的寂止（靜心之流(Stillness Flowing)）
@@ -187,7 +187,20 @@
 擁下，國王夫婦步入白塔。他們先向棺槨頂禮叩拜，隨後，依照神聖
 的傳統舉行了一系列的供養儀式。
 
-泰王蒲美蓬和王后詩麗吉陛下於火化當日禮敬隆波查法體(img)
+
+------
+
+.. container:: images of Their Majesties King Bhumibol and Queen Sirikit pay respects to Luang Por
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01King%20Bhumibol%20and%20Queen.png?raw=true
+     :width: 598
+     :height: 435
+     :target: https://nanda.dhamma-online.net/
+     :alt: 泰王蒲美蓬和王后詩麗吉陛下禮敬隆波查法體
+
+泰王蒲美蓬和王后詩麗吉陛下於火化當日禮敬隆波查法體
+
+------
 
 首先，他們向十位僧銜很高的長老供養僧衣。在接受僧衣之前，
 長老們左手持華麗的遮面扇，念誦了一段省思無常與寂滅的簡短經文。
@@ -292,7 +305,19 @@ Kuti）和美琪 [1-4]_
 淨的心完成這項任務，即使感到勞累和精疲力盡也毫不在乎。每個人
 都作出了犧牲。這是佛法在一遍遍地流經人心。”
 
-僧人們正在建造舍利塔(img)
+------
+
+.. container:: images of The monks are building a stupa
+
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E5%BB%BA%E9%80%A0%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
+     :width: 454
+     :height: 685
+     :target: https://nanda.dhamma-online.net/
+     :alt: 僧人們正在建造舍利塔
+
+僧人們正在建造舍利塔
+
+------
 
 經過短短六個月的全力以赴，舍利塔於 經過短短六個月的全力以赴，舍利塔於1993年1月15日正式落成。
 
@@ -336,7 +361,19 @@ Kuti）和美琪 [1-4]_
 用金色蠟燭雕刻出的藤蔓和花卉造型，讓它看起來像是一支巨大的
 蠟燭。
 
-隆波查舍利塔(img)
+------
+
+.. container:: image of Luang Por Chah stupa
+
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E9%9A%86%E6%B3%A2%E6%9F%A5%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
+     :width: 458
+     :height: 685
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查舍利塔
+
+隆波查舍利塔
+
+------
 
 焚化爐裡面滿滿地整齊堆放著檀香木花和大量的木炭，阿姜連和
 烏汶府最高行政長官一起，將皇家火種放入爐中。火焰迅速騰起，啊
@@ -385,6 +422,7 @@ Kuti）和美琪 [1-4]_
 .. [1-7] 國葬有兩個階段。大部分來賓只出席第一階段。第一階段在供養葬禮火種和放置“檀香木花”後結束。大部分葬禮中的實際火葬在稍後舉行，只有家屬和親友參加。這種情況下，火葬定在午夜。
 
 ..
+  08-01 add photo
   2026-07-19 post; 07-15; create rst on 2026-07-09
    采用 -- 採用
    主人公 -- 主人翁

@@ -3,7 +3,7 @@
 =================================
 
 :date: 2026-07-19
-:modified: 2026-07-19
+:modified: 2026-08-01
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第二章：世間的啟迪（靜心之流(Stillness Flowing)）
@@ -911,7 +911,19 @@ Upasampadā）在當地的剃度寺院——康內寺舉行。隆波的戒師是
 正穿透過相機，直視觀者的內心。這是一張極有感召力卻又令人不安
 的照片，它挑戰著觀者認為理所當然的一切。
 
-隆普曼(img)
+------
+
+.. container:: image of Luang Pu Mun
+
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E9%9A%86%E6%99%AE%E6%9B%BC.png?raw=true
+     :width: 567
+     :height: 853
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆普曼
+
+隆普曼
+
+------
 
 以隆普曼為主角的故事和軼聞，與佛教經典中有關高僧大德的事跡
 有著驚人的相似，大都由他的學生及同輩們講述。儘管可以預料，在這
@@ -964,7 +976,19 @@ Upasampadā）在當地的剃度寺院——康內寺舉行。隆波的戒師是
 成的小團體，抵達了隆普曼所在的寺院，泊池森林寺（Wat Pah
 Nong Peu）。
 
-泊池森林寺(img)
+------
+
+.. container:: image of Wat Pah Nong Peu
+
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E6%B3%8A%E6%B1%A0%E6%A3%AE%E6%9E%97%E5%AF%BA.png?raw=true
+     :width: 568
+     :height: 382
+     :target: https://nanda.dhamma-online.net/
+     :alt: 泊池森林寺
+
+泊池森林寺
+
+------
 
 一踏進寺院，隆波即刻被它寂靜安詳的氛圍所打動。寺院中央的
 地面打掃得纖塵不染，一座小小的木製吊腳法堂佇立其中。映入他眼
@@ -1337,7 +1361,19 @@ Daeng）等，宛如莊重但友好的哨兵。當他沿途行走時，不時會
 相反，猶如一件歲月磨平了的老僧衣，他身上透著一種謙和的自足與
 自在，表明他覺得自己已無須再證明什麼了。
 
-隆普欽納理(img)
+------
+
+.. container:: image of Luang Pu Kinaree Candiyo
+
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02Luang%20Pu%20Kinaree%20Candiyo.png?raw=true
+     :width: 456
+     :height: 685
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆普欽納理·堪諦尤 (Luang Pu Kinaree Candiyo)
+
+隆普欽納理·堪諦尤 (Luang Pu Kinaree Candiyo)
+
+------
 
 隆普欽納理是位親切而溫和的人，無論每一刻可能帶給他什麼，
 他似乎都很知足。他很少說話，他覺得似乎很少有什麼事情值得去打
@@ -2313,6 +2349,7 @@ osadha）。八個日夜，他靠清水生存，完全不睡覺，傾盡全力�
 
 
 ..
+  08-01 add photo
   2026-07-19 post; 07-17; create rst on 2026-07-16
   作為  做為; 保准 保證
    

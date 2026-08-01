@@ -3,7 +3,7 @@
 =================================
 
 :date: 2026-07-19
-:modified: 2026-07-19
+:modified: 2026-08-01
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第三章：不走尋常路（靜心之流(Stillness Flowing)）
@@ -216,7 +216,17 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 
 **缽食**
 
-衣缽(img)
+.. container:: image of kasaava and patta
+
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-03%E8%A1%A3%E7%BC%BD.png?raw=true
+     :width: 458
+     :height: 685
+     :target: https://nanda.dhamma-online.net/
+     :alt: 衣缽
+
+衣缽
+
+------
 
 托缽得來的食物，在最好的日子裡也不過是很基本的食物。通常，
 僧人能托缽回來的差不多只有糯米飯，多出幾根香蕉或魚乾都是很難
@@ -245,7 +255,19 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 三根香蕉。隆波叫其中一位比丘將香蕉切成薄片，然後分給大家。那
 天，那三根香蕉供養了整個僧團。
 
-清晨托缽(img)
+------
+
+.. container:: image of Morning Alms Round
+
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-03%E6%B8%85%E6%99%A8%E6%89%98%E7%BC%BD.png?raw=true
+     :width: 667
+     :height: 441
+     :target: https://nanda.dhamma-online.net/
+     :alt: 清晨托缽
+
+清晨托缽
+
+------
 
 對於飢餓的年輕僧人來說，每日一食雖說只有一團糯米飯和少許
 辣椒醬，很少再有其它食物，但那仍然是可口的美味。阿姜占就是這
@@ -925,6 +947,7 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 
 
 ..
+  08-01 add photo
   2026-07-19 post; 07-17; create rst on 2026-07-17
   粘米飯 -- 糯米飯
   喂 -- 餵

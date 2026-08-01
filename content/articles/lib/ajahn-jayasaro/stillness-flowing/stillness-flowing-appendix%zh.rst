@@ -3,7 +3,7 @@
 =====================
 
 :date: 2026-07-19
-:modified: 2026-07-31
+:modified: 2026-08-01
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 附錄（靜心之流(Stillness Flowing)）
@@ -109,7 +109,7 @@
 
 ------
 
-隆普欽納利·堪諦尤
+隆普欽納理·堪諦尤
 ~~~~~~~~~~~~~~~~~~~
 
 .. container:: images of Luang Pu Kinaree Candiyo
@@ -120,7 +120,7 @@
      :target: https://nanda.dhamma-online.net/
      :alt: Luang Pu Kinaree Candiyo
 
-隆普欽納利·堪諦尤（Luang Pu Kinaree Candiyo, 1896-1980）
+隆普欽納理·堪諦尤（Luang Pu Kinaree Candiyo, 1896-1980）
 
 ------
 
@@ -233,5 +233,6 @@
 
 
 ..
+  08-01 隆普欽納理·堪諦尤（Luang Pu Kinaree Candiyo, 1896-1980）(old: 隆普欽納利)
   07-31 rev. size of hpotos & add the other photos (except 示意圖)
   2026-07-30 post; create rst on 2026-07-09
