@@ -842,7 +842,7 @@ pavāranā）的在家人乞討、要求、甚至是暗示任何除飲用水以�
 
 .. container:: image of Paacittiya (confession)
 
-  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-05%E6%87%BA%E6%82%94%E5%9D%A6%E7%BD%AA.png?raw=true
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-05%E6%87%BA%E6%82%94%E5%9D%A6%E7%BD%AA.png?raw=true
      :width: 298
      :height: 218
      :target: https://nanda.dhamma-online.net/

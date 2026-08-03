@@ -78,7 +78,7 @@
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-04%E9%9A%86%E6%B3%A2%E6%9F%A5%E9%A4%B5%E9%A3%9F%E5%B0%8F%E9%B9%BF.png?raw=true
      :width: 334
-     :height: 250
+     :height: 500
      :target: https://nanda.dhamma-online.net/
      :alt: 隆波查餵食小鹿
 

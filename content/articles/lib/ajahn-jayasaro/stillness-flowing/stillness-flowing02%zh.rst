@@ -915,7 +915,7 @@ Upasampadā）在當地的剃度寺院——康內寺舉行。隆波的戒師是
 
 .. container:: image of Luang Pu Mun
 
-  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E9%9A%86%E6%99%AE%E6%9B%BC.png?raw=true
+  .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E9%9A%86%E6%99%AE%E6%9B%BC.png?raw=true
      :width: 283
      :height: 426
      :target: https://nanda.dhamma-online.net/
@@ -980,7 +980,7 @@ Nong Peu）。
 
 .. container:: image of Wat Pah Nong Peu
 
-  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E6%B3%8A%E6%B1%A0%E6%A3%AE%E6%9E%97%E5%AF%BA.png?raw=true
+  .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E6%B3%8A%E6%B1%A0%E6%A3%AE%E6%9E%97%E5%AF%BA.png?raw=true
      :width: 284
      :height: 191
      :target: https://nanda.dhamma-online.net/
@@ -1365,7 +1365,7 @@ Daeng）等，宛如莊重但友好的哨兵。當他沿途行走時，不時會
 
 .. container:: image of Luang Pu Kinaree Candiyo
 
-  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02Luang%20Pu%20Kinaree%20Candiyo.png?raw=true
+  .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02Luang%20Pu%20Kinaree%20Candiyo.png?raw=true
      :width: 228
      :height: 342
      :target: https://nanda.dhamma-online.net/

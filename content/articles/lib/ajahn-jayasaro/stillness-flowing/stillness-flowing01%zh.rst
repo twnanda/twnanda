@@ -309,7 +309,7 @@ Kuti）和美琪 [1-4]_
 
 .. container:: images of The monks are building a stupa
 
-  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E5%BB%BA%E9%80%A0%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
+  .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E5%BB%BA%E9%80%A0%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
      :width: 227
      :height: 342
      :target: https://nanda.dhamma-online.net/
@@ -365,7 +365,7 @@ Kuti）和美琪 [1-4]_
 
 .. container:: image of Luang Por Chah stupa
 
-  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E9%9A%86%E6%B3%A2%E6%9F%A5%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
+  .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E9%9A%86%E6%B3%A2%E6%9F%A5%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
      :width: 229
      :height: 342
      :target: https://nanda.dhamma-online.net/

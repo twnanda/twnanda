@@ -304,9 +304,9 @@ Vism: Visuddhimagga 《清淨道論》
 
 .. container:: images of Ven. Ajahn Chah
 
-  .. image:: https://github.com/twnanda/dispersed-design/blob/b462d11ec6f85b43d33c1fb461db157d66a7b7a8/content/img/stillness-flowing/Ven-Ajahn-Chah.png?raw=true
-     :width: 1004
-     :height: 1358
+  .. image:: https://github.com/twnanda/dispersed-design/blob/0522da98e9161d7417751471bd1a27c35cc6bf1d/content/img/stillness-flowing/Ven-Ajahn-Chah.png?raw=true
+     :width: 500 
+     :height: 742
      :target: https://nanda.dhamma-online.net/
      :alt: 尊者  菩提亞納長老（阿姜查）
 
@@ -791,7 +791,7 @@ Kuti）和美琪 [1-4]_
 
 .. container:: images of The monks are building a stupa
 
-  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E5%BB%BA%E9%80%A0%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
+  .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E5%BB%BA%E9%80%A0%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
      :width: 227
      :height: 342
      :target: https://nanda.dhamma-online.net/
@@ -847,7 +847,7 @@ Kuti）和美琪 [1-4]_
 
 .. container:: image of Luang Por Chah stupa
 
-  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E9%9A%86%E6%B3%A2%E6%9F%A5%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
+  .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E9%9A%86%E6%B3%A2%E6%9F%A5%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
      :width: 229
      :height: 342
      :target: https://nanda.dhamma-online.net/
@@ -1792,7 +1792,7 @@ Upasampadā）在當地的剃度寺院——康內寺舉行。隆波的戒師是
 
 .. container:: image of Luang Pu Mun
 
-  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E9%9A%86%E6%99%AE%E6%9B%BC.png?raw=true
+  .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E9%9A%86%E6%99%AE%E6%9B%BC.png?raw=true
      :width: 283
      :height: 426
      :target: https://nanda.dhamma-online.net/
@@ -1857,7 +1857,7 @@ Nong Peu）。
 
 .. container:: image of Wat Pah Nong Peu
 
-  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E6%B3%8A%E6%B1%A0%E6%A3%AE%E6%9E%97%E5%AF%BA.png?raw=true
+  .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E6%B3%8A%E6%B1%A0%E6%A3%AE%E6%9E%97%E5%AF%BA.png?raw=true
      :width: 284
      :height: 191
      :target: https://nanda.dhamma-online.net/
@@ -2242,7 +2242,7 @@ Daeng）等，宛如莊重但友好的哨兵。當他沿途行走時，不時會
 
 .. container:: image of Luang Pu Kinaree Candiyo
 
-  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02Luang%20Pu%20Kinaree%20Candiyo.png?raw=true
+  .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02Luang%20Pu%20Kinaree%20Candiyo.png?raw=true
      :width: 228
      :height: 342
      :target: https://nanda.dhamma-online.net/
@@ -3368,7 +3368,7 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 
 .. container:: image of kasaava and patta
 
-  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-03%E8%A1%A3%E7%BC%BD.png?raw=true
+  .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-03%E8%A1%A3%E7%BC%BD.png?raw=true
      :width: 229
      :height: 342
      :target: https://nanda.dhamma-online.net/
@@ -3409,7 +3409,7 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 
 .. container:: image of Morning Alms Round
 
-  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-03%E6%B8%85%E6%99%A8%E6%89%98%E7%BC%BD.png?raw=true
+  .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-03%E6%B8%85%E6%99%A8%E6%89%98%E7%BC%BD.png?raw=true
      :width: 333
      :height: 220
      :target: https://nanda.dhamma-online.net/
@@ -4141,7 +4141,7 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-04%E9%9A%86%E6%B3%A2%E6%9F%A5%E9%A4%B5%E9%A3%9F%E5%B0%8F%E9%B9%BF.png?raw=true
      :width: 334
-     :height: 250
+     :height: 500
      :target: https://nanda.dhamma-online.net/
      :alt: 隆波查餵食小鹿
 
@@ -6254,7 +6254,7 @@ pavāranā）的在家人乞討、要求、甚至是暗示任何除飲用水以�
 
 .. container:: image of Paacittiya (confession)
 
-  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-05%E6%87%BA%E6%82%94%E5%9D%A6%E7%BD%AA.png?raw=true
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-05%E6%87%BA%E6%82%94%E5%9D%A6%E7%BD%AA.png?raw=true
      :width: 298
      :height: 218
      :target: https://nanda.dhamma-online.net/
