@@ -3,7 +3,7 @@
 ==================================
 
 :date: 2026-07-19
-:modified: 2026-07-25
+:modified: 2026-08-03
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第六章：萬物的本質（靜心之流(Stillness Flowing)）
@@ -363,8 +363,19 @@ nakhā，dantā，taco——可以把它們當作咒語在心裡念誦，讓心�
 佛陀曾說，與坐禪中開發的三摩地相比，行禪中生起的三摩地更容易
 在正式禪修時段以外持續下去（《增支部 在正式禪修時段以外持續下去（《增支部 五集 第 29 經》AN 5. 29 AN 5. 29）。
 
-**隆波查在行禪**
+------
 
+.. container:: image of Luang Por Chah Practicing Walking Meditation
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-06%E9%9A%86%E6%B3%A2%E6%9F%A5%E5%9C%A8%E8%A1%8C%E7%A6%AA.png?raw=true
+     :width: 229
+     :height: 342
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查在行禪
+
+隆波查在行禪
+
+------
 
 行禪既是坐禪的替代，也是它的補充。如果身體由於疾病而無法
 坐禪，或坐禪時生起的強烈障礙在行禪時變得可控或消失，這時行禪
@@ -1027,8 +1038,19 @@ pijarana 檢視）老、病、死、無可避免的愛別離以及因果業力�
 但是禪修者常常會懷疑它在開發能夠徹見三共相（無常、不圓滿、無
 我）的洞見中所扮演的角色，此洞見被視為佛法禪修實踐的頂峰。
 
-隆波查在坐禪 (img)
+------
 
+.. container:: image of Luang Por Chah is meditating
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-06%E9%9A%86%E6%B3%A2%E6%9F%A5%E5%9C%A8%E5%9D%90%E7%A6%AA.png?raw=true
+     :width: 251
+     :height: 324
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查在坐禪
+
+隆波查在坐禪
+
+------
 
 當隆波指導弟子們要 pijarana（檢視）三共相時，他提倡多大程
 度的作意為之？禪修者如何確信，他們是在開發深入三共相的洞見，
@@ -1362,6 +1384,7 @@ insight）”。此時，尚未證悟的禪修者可能會誤認為，那種極�
 
 
 ..
+  08-03 add photos (08-02)
   2026-07-25; create rst on 2026-07-09
   varnished 塗漆的 -- 鋥：ㄓㄥˋ, zhèng, 磨也；磨鋥出箭光。見《集韻．去聲．映韻》。shiny, polished; 鋥亮: 閃光耀眼; 反光發亮 https://zh.wiktionary.org/zh-hant/%E9%8B%A5%E4%BA%AE
   平舍 -- 平捨

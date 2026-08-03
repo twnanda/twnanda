@@ -3,7 +3,7 @@
 ====================================
 
 :date: 2026-07-29
-:modified: 2026-08-01
+:modified: 2026-08-03
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 靜心之流 (Stillness Flowing) 全書
@@ -675,8 +675,8 @@ Por（隆波）”（尊敬的父親），年老時被稱為“Luang Pu（隆普
 .. container:: images of Their Majesties King Bhumibol and Queen Sirikit pay respects to Luang Por
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01King%20Bhumibol%20and%20Queen.png?raw=true
-     :width: 598
-     :height: 435
+     :width: 299
+     :height: 217
      :target: https://nanda.dhamma-online.net/
      :alt: 泰王蒲美蓬和王后詩麗吉陛下禮敬隆波查法體
 
@@ -792,8 +792,8 @@ Kuti）和美琪 [1-4]_
 .. container:: images of The monks are building a stupa
 
   .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E5%BB%BA%E9%80%A0%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
-     :width: 454
-     :height: 685
+     :width: 227
+     :height: 342
      :target: https://nanda.dhamma-online.net/
      :alt: 僧人們正在建造舍利塔
 
@@ -848,8 +848,8 @@ Kuti）和美琪 [1-4]_
 .. container:: image of Luang Por Chah stupa
 
   .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E9%9A%86%E6%B3%A2%E6%9F%A5%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
-     :width: 458
-     :height: 685
+     :width: 229
+     :height: 342
      :target: https://nanda.dhamma-online.net/
      :alt: 隆波查舍利塔
 
@@ -1793,8 +1793,8 @@ Upasampadā）在當地的剃度寺院——康內寺舉行。隆波的戒師是
 .. container:: image of Luang Pu Mun
 
   .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E9%9A%86%E6%99%AE%E6%9B%BC.png?raw=true
-     :width: 567
-     :height: 853
+     :width: 283
+     :height: 426
      :target: https://nanda.dhamma-online.net/
      :alt: 隆普曼
 
@@ -1858,8 +1858,8 @@ Nong Peu）。
 .. container:: image of Wat Pah Nong Peu
 
   .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E6%B3%8A%E6%B1%A0%E6%A3%AE%E6%9E%97%E5%AF%BA.png?raw=true
-     :width: 568
-     :height: 382
+     :width: 284
+     :height: 191
      :target: https://nanda.dhamma-online.net/
      :alt: 泊池森林寺
 
@@ -2243,8 +2243,8 @@ Daeng）等，宛如莊重但友好的哨兵。當他沿途行走時，不時會
 .. container:: image of Luang Pu Kinaree Candiyo
 
   .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02Luang%20Pu%20Kinaree%20Candiyo.png?raw=true
-     :width: 456
-     :height: 685
+     :width: 228
+     :height: 342
      :target: https://nanda.dhamma-online.net/
      :alt: 隆普欽納理·堪諦尤 (Luang Pu Kinaree Candiyo)
 
@@ -2582,7 +2582,19 @@ Daeng）等，宛如莊重但友好的哨兵。當他沿途行走時，不時會
 他十分不情願地放棄了行禪，全部改為坐禪。三天之後，劇烈的腳痛
 才消失。
 
-隆波查(img)
+------
+
+.. container:: image of Luang Por Chah
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-02%E9%9A%86%E6%B3%A2%E6%9F%A5.png?raw=true
+     :width: 287
+     :height: 426
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查
+
+隆波查
+
+------
 
 在他寄宿的這間廢棄的寺院裡，前任居住者們留下的微小痕跡隨
 處可見。地板上，星星點點地灑落著蠟滴；供桌後面，褪了色的書籍
@@ -3357,8 +3369,8 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 .. container:: image of kasaava and patta
 
   .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-03%E8%A1%A3%E7%BC%BD.png?raw=true
-     :width: 458
-     :height: 685
+     :width: 229
+     :height: 342
      :target: https://nanda.dhamma-online.net/
      :alt: 衣缽
 
@@ -3398,8 +3410,8 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 .. container:: image of Morning Alms Round
 
   .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-03%E6%B8%85%E6%99%A8%E6%89%98%E7%BC%BD.png?raw=true
-     :width: 667
-     :height: 441
+     :width: 333
+     :height: 220
      :target: https://nanda.dhamma-online.net/
      :alt: 清晨托缽
 
@@ -4123,9 +4135,19 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 舉止，學生們形成對他的看法，並建立起對他的信任和信心。為了在
 法中 取得進步，學生們甘願做出必要的犧牲，為修習付出精進與熱忱。
 
+------
 
-隆波查餵食小鹿(img)
+.. container:: image of Luang Por Chah Feeds a Fawn
 
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-04%E9%9A%86%E6%B3%A2%E6%9F%A5%E9%A4%B5%E9%A3%9F%E5%B0%8F%E9%B9%BF.png?raw=true
+     :width: 334
+     :height: 250
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查餵食小鹿
+
+隆波查餵食小鹿
+
+------
 
 在這當中發揮作用的，不僅僅是他們對求道與奉獻已然有所了解，還
 取決於他們對老師的認知、對老師的愛戴和尊重以及效法老師的力度。
@@ -4703,7 +4725,19 @@ kusalachanda kusalachanda，善欲 ) 或“想要追求真理”（巴： 或“
 他帶來了一群國際讀者。不久，他的教導接連被譯成德文、法文、西
 班牙文、中文和其他文字。
 
-隆波查接受泰王賜封昭坤僧銜後返回烏汶 (img)
+------
+
+.. container:: image of Returned to Ubon after receiving the monastic title of Chaokun
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-04%E6%8E%A5%E5%8F%97%E5%83%A7%E9%8A%9C%E5%BE%8C%E5%9B%9E%E7%83%8F%E6%B1%B6.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查接受泰王賜封昭坤僧銜後返回烏汶
+
+隆波查接受泰王賜封昭坤僧銜後返回烏汶
+
+------
 
 面對紛湧而來的名聲與地位，隆波不為所動，一如他面對誣陷和誹
 謗一樣。1973 年 12 月 5 日，他接受了普密蓬 日，他接受了普密蓬 · 阿杜德國王陛下頒授的 阿杜德國王陛下頒授的
@@ -5036,7 +5070,19 @@ kusalachanda kusalachanda，善欲 ) 或“想要追求真理”（巴： 或“
 都是一位老人了——他的身體過早地衰老了。這些開示洋溢著一種父
 輩的語調，幽默和溫暖總是充盈在話語之間。
 
-隆波查在巴蓬寺法堂為僧團開示(img)
+------
+
+.. container:: image of Luang Por Chah Delivers a Dhamma Talk to the Sangha in the Dhamma Hall at Wat Pah Pong
+
+  .. image:: https://github.com/twnanda/dispersed-design/  .png?raw=true
+     :width: 334
+     :height: 218
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查在巴蓬寺法堂為僧團開示
+
+隆波查在巴蓬寺法堂為僧團開示
+
+------
 
 隆波開示的主要特點是即興而發，隨感而起。他堅持佛法開示不
 能、也不應該事先準備好講稿。雖然他在開口之前，通常心裡已有了
@@ -5118,7 +5164,19 @@ kusalachanda kusalachanda，善欲 ) 或“想要追求真理”（巴： 或“
 個著名的開示，無論他的語氣如何變化，貫穿隆波講法的鮮明特徵從
 未有過改變。
 
-隆波查 (img)
+------
+
+.. container:: image of Luang Por Chah
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-04%E9%9A%86%E6%B3%A2%E6%9F%A5.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查
+
+隆波查
+
+------
 
 這樣的開示，只使用簡單的語言和最少的理論（就像隆普曼的同
 輩人曾說過的，“盡可能地簡單，但無法再簡單”），同時大量運用比喻，
@@ -6194,8 +6252,15 @@ pavāranā）的在家人乞討、要求、甚至是暗示任何除飲用水以�
 | “未來您應當約束自己。”
 | 
 
+.. container:: image of Paacittiya (confession)
 
-懺悔坦罪 (img)
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-05%E6%87%BA%E6%82%94%E5%9D%A6%E7%BD%AA.png?raw=true
+     :width: 298
+     :height: 218
+     :target: https://nanda.dhamma-online.net/
+     :alt: 懺悔坦罪
+
+懺悔坦罪
 
 ●●●●●●
 
@@ -6908,7 +6973,19 @@ fruit 印度枳）、酸角或姜等，榨汁熬煮後過濾而得。到了後�
 當成是可以敷衍了事的儀軌。對於誠摯的禪修者，額頭叩抵地面時的
 那種感受能觸發深不可言的情感，令他們湧出喜悅的淚水。
 
-僧人們頂禮隆波查，沙彌們隨後另行頂禮 (img)
+------
+
+.. container:: image of Homage to Luang Por Chah
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-05%E9%A0%82%E7%A6%AE%E9%9A%86%E6%B3%A2%E6%9F%A5.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 僧人們頂禮隆波查，沙彌們隨後另行頂禮
+
+僧人們頂禮隆波查，沙彌們隨後另行頂禮
+
+------
 
 頂禮成為了巴蓬寺標誌性訓練中的一項。隆波和他的弟子們大量
 地頂禮，比一般泰國寺院要多得多（提起巴蓬寺時，城裡的僧人有時
@@ -6961,7 +7038,19 @@ fruit 印度枳）、酸角或姜等，榨汁熬煮後過濾而得。到了後�
 促發相應的善的心態。如此，反覆以恭敬的態度行事，會促使善思和
 善想優先生起，而不善心則被排擠到一邊。
 
-恭敬合掌 (img)
+------
+
+.. container:: image of keep his hands together in the prayer-like anjali
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-05%E6%81%AD%E6%95%AC%E5%90%88%E6%8E%8C.png?raw=true
+     :width: 334
+     :height: 221
+     :target: https://nanda.dhamma-online.net/
+     :alt: 恭敬合掌
+
+恭敬合掌
+
+------
 
 實際上，團體中涉及的年資高低有別的種種禮儀，有不少是僧人
 們在進入巴蓬寺僧團前就很熟悉的。幾百年來，泰國社會吸收了某些
@@ -7291,8 +7380,20 @@ kiccavatta）。隆波堅信，它們有助於僧人在履行職責時提升正�
    比丘們，你們應當如此訓練自己。
                   《相應部 迦葉相應 滿足經》SN 16.1
 
-巴蓬寺早期典型的孤邸 (img)
 
+------
+
+.. container:: image of A typical early-period kuti at Wat Nong Pah Pong
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-05%E5%B7%B4%E8%93%AC%E5%AF%BA%E6%97%A9%E6%9C%9F%E5%85%B8%E5%9E%8B%E7%9A%84%E5%AD%A4%E9%82%B8.png?raw=true
+     :width: 334
+     :height: 220
+     :target: https://nanda.dhamma-online.net/
+     :alt: 巴蓬寺早期典型的孤邸
+
+巴蓬寺早期典型的孤邸
+
+------
 
 巴蓬寺的大部分孤邸都來自信眾及其家庭的供養。對村民來說，
 即便是集資蓋一所普通的木屋孤邸，也是傾其所有、畢生只能做一次
@@ -8077,8 +8178,19 @@ nakhā，dantā，taco——可以把它們當作咒語在心裡念誦，讓心�
 佛陀曾說，與坐禪中開發的三摩地相比，行禪中生起的三摩地更容易
 在正式禪修時段以外持續下去（《增支部 在正式禪修時段以外持續下去（《增支部 五集 第 29 經》AN 5. 29）。
 
-隆波查在行禪 (img)
+------
 
+.. container:: image of Luang Por Chah Practicing Walking Meditation
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-06%E9%9A%86%E6%B3%A2%E6%9F%A5%E5%9C%A8%E8%A1%8C%E7%A6%AA.png?raw=true
+     :width: 229
+     :height: 342
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查在行禪
+
+隆波查在行禪
+
+------
 
 行禪既是坐禪的替代，也是它的補充。如果身體由於疾病而無法
 坐禪，或坐禪時生起的強烈障礙在行禪時變得可控或消失，這時行禪
@@ -8741,8 +8853,17 @@ pijarana 檢視）老、病、死、無可避免的愛別離以及因果業力�
 但是禪修者常常會懷疑它在開發能夠徹見三共相（無常、不圓滿、無
 我）的洞見中所扮演的角色，此洞見被視為佛法禪修實踐的頂峰。
 
-隆波查在坐禪 (img)
+.. container:: image of Luang Por Chah is meditating
 
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-06%E9%9A%86%E6%B3%A2%E6%9F%A5%E5%9C%A8%E5%9D%90%E7%A6%AA.png?raw=true
+     :width: 251
+     :height: 324
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查在坐禪
+
+隆波查在坐禪
+
+------
 
 當隆波指導弟子們要 pijarana（檢視）三共相時，他提倡多大程
 度的作意為之？禪修者如何確信，他們是在開發深入三共相的洞見，
@@ -9186,7 +9307,19 @@ angsa 音：昂沙）。從這一刻起，他的訓練正式開始。他將參�
 少放鬆了這一要求，但對西方人和上了年紀的人仍保留了這一做法，
 這種溫和地過渡到僧團生活的作法，讓他們受益匪淺。
 
-沙彌受戒出家儀式。在隆波查的注視下，一位僧人將“覆肩衣”置於沙彌頭頂。 (img)
+------
+
+.. container:: image of Ordination Ceremony for Novice Monks
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-07%E6%B2%99%E5%BD%8C%E5%8F%97%E6%88%92%E5%87%BA%E5%AE%B6%E5%84%80%E5%BC%8F.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 沙彌受戒出家儀式。在隆波查的注視下，一位僧人將“覆肩衣”置於沙彌頭頂。
+
+沙彌受戒出家儀式。在隆波查的注視下，一位僧人將“覆肩衣”置於沙彌頭頂。 
+
+------
 
 沙彌出家儀式（巴：pabbajjā，音：巴拔迦）很簡短。申請人從
 老師那裡接過僧衣，正式向老師請求“出家”，並從老師那裡求授十
@@ -9984,7 +10117,19 @@ Nissaggiya Pācittiya）戒律條例。這次檢查做得很徹底。儘管有�
    無逸不死道，放逸趨死路。
    《法句經》第 21 偈
 
-隆波查帶領僧人們托缽 (img)
+------
+
+.. container:: image of Luang Por Cha led the monks on their alms round
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-07%E9%9A%86%E6%B3%A2%E6%9F%A5%E5%B8%B6%E9%A0%98%E5%83%A7%E4%BA%BA%E5%80%91%E6%89%98%E7%BC%BD.png?raw=true
+     :width: 298
+     :height: 217
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查帶領僧人們托缽
+
+隆波查帶領僧人們托缽
+
+------
 
 
 **世間八風**
@@ -10132,7 +10277,19 @@ paṭipatti）中。他會根據特定的時間、地點及聽眾，來選取他
 來勞動……我們展現出：為集體做奉獻如何能成為有益的佛法
 修行。”
 
-僧人們正在修建通往金剛光洞寺的公路 (img)
+------
+
+.. container:: image of Monks Build a Road
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-07%E5%83%A7%E4%BA%BA%E5%80%91%E4%BF%AE%E5%BB%BA%E5%85%AC%E8%B7%AF.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 僧人們正在修建通往金剛光洞寺的公路
+
+僧人們正在修建通往金剛光洞寺的公路
+
+------
 
 巴蓬寺僧團最傳奇的工程項目，是用四個月時間修造的一條山路。
 這條路攀上陡山密林，一直通到巴蓬寺以北八十公里外的分院金剛光
@@ -11811,9 +11968,19 @@ abhaytan”，直譯是：“在此處，我們把免受恐懼做為禮物，獻
 美多的存在則經常是決定性因素。這裡有一個活生生的人，證明此事
 是行得通的。
 
+------
 
-隆波查與西方弟子們 (img)
+.. container:: image of Luang Por Chah and His Western Disciples
 
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-08%E9%9A%86%E6%B3%A2%E6%9F%A5%E8%88%87%E8%A5%BF%E6%96%B9%E5%BC%9F%E5%AD%90%E5%80%91.png?raw=true
+     :width: 334
+     :height: 250
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查與西方弟子們
+
+隆波查與西方弟子們
+
+------
 
 沒有其他西方人的陪伴，阿姜蘇美多已經在艱苦條件下生活了幾
 年，很顯然，他從修行中收穫良多。他同時也是翻譯和前輩。而且，
@@ -12227,9 +12394,19 @@ abhaytan”，直譯是：“在此處，我們把免受恐懼做為禮物，獻
 展現了“真正的隆波”。這是一個常見的主題：每個人都傾向於把自
 己眼中的隆波，看作是真正的隆波。
 
+------
 
-西方僧人在國際森林寺院附近的村莊裡托缽 (img)
+.. container:: image of Western Monks Begging for Alms
 
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-08%E8%A5%BF%E6%96%B9%E5%83%A7%E4%BA%BA%E6%89%98%E7%BC%BD.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 西方僧人在國際森林寺院附近的村莊裡托缽
+
+西方僧人在國際森林寺院附近的村莊裡托缽
+
+------
 
 隆波再三安撫西方僧人，他們面臨的困難是暫時的，而且，鑑於
 他們繼承了無量劫中所累積的染汙的力量，困難也是避免不了的。他
@@ -13037,8 +13214,19 @@ mātāpitūhi? （你有你父母的許可嗎？）”然後他回答，“Āma 
 很小的帶茅草頂棚的竹製孤邸裡，我們有一個很小的有著茅草頂棚和
 泥土地面的法堂。”
 
-阿姜蘇美多在早期的國際森林寺院 (img)
+------
 
+.. container:: image of Ajahn Sumedho in the Early Days of the International Forest Monastery
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-08%E6%97%A9%E6%9C%9F%E9%98%BF%E5%A7%9C%E8%98%87%E7%BE%8E%E5%A4%9A.png?raw=true
+     :width: 229
+     :height: 342
+     :target: https://nanda.dhamma-online.net/
+     :alt: 阿姜蘇美多在早期的國際森林寺院
+
+阿姜蘇美多在早期的國際森林寺院
+
+------
 
 隆波沒有插手國際森林寺院的日常運作。僧人們自由地按照自己
 覺得合適的方式建設寺院。他們自己設計了法堂，它的布局和常見的
@@ -13741,8 +13929,19 @@ Precepts）——這意味著，她們在修行時無緣得到比丘尼戒律所
 衡。對於那些感覺到自己的證悟之路尚且漫長的人來說，通過各種善
 行積累福報，為她們在禪修上的挫敗感提供了令人安心的補償。
 
-美琪們參加日常的集體勞動 (img)
+------
 
+.. container:: image of maechees-Group Work
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-09%E7%BE%8E%E7%90%AA%E5%80%91%E9%9B%86%E9%AB%94%E5%8B%9E%E5%8B%95.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 美琪們參加日常的集體勞動
+
+美琪們參加日常的集體勞動
+
+------
 
 美琪們對寺院整體運作的首要貢獻是種菜和備餐。當比丘和戒尼
 的數量增至近百人時，這成為一項主要的日常勞動。美琪們在工作時
@@ -15569,7 +15768,17 @@ Saṅghaṃ saraṇaṃ gacchāmi: 我皈依僧。
 切，我發現自己全錯了。隆波說，住在高處的人可以看到下面的人，
 但是住在較低地方的人則看不到上面的人。我反思這一點。他是對的。”
 
-隆波查為信眾答疑解惑 (img)
+------
+
+.. container:: image of Luang Por Chah Answers Questions and Clarifies Doubts for Devotees
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-10%E9%9A%86%E6%B3%A2%E6%9F%A5%E7%82%BA%E4%BF%A1%E7%9C%BE%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查為信眾答疑解惑
+
+隆波查為信眾答疑解惑
 
 ------
 
@@ -16762,9 +16971,19 @@ ekaggatārammaṇa)”這個詞。通常，在涉及培育禪定時會用到這�
 事都有風險。過馬路也有風險。”他希望，這麼做至少可以讓他在死
 前，為佛陀的教法（巴：Sāsana）多做些善事。
 
+------
 
-僧人照料病中的隆波查 (img)
+.. container:: image of Monks Care for the Ailing Luang Por Chah
 
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-11%E5%83%A7%E4%BA%BA%E7%85%A7%E6%96%99%E9%9A%86%E6%B3%A2%E6%9F%A5.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 僧人照料病中的隆波查
+
+僧人照料病中的隆波查
+
+------
 
 此前，巴蓬寺已經達成一致，任何有關隆波醫療上的重大決定都
 必須請示僧團。這是他第一次沒有理會這個規定。好幾位資深弟子已
@@ -16957,9 +17176,19 @@ ekaggatārammaṇa)”這個詞。通常，在涉及培育禪定時會用到這�
 上設門，侍者們可以在規定時間將客人帶入。會客時，隆波房間的窗
 簾會被拉開。
 
+------
 
-僧俗二眾在護理孤邸外禮敬隆波查 (img)
+.. container:: image of Monks and laypeople paid their respects to Luang Por Chah outside the kuti
 
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-11%E5%AD%A4%E9%82%B8%E5%A4%96%E7%A6%AE%E6%95%AC%E9%9A%86%E6%B3%A2%E6%9F%A5.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 僧俗二眾在護理孤邸外禮敬隆波查
+
+僧俗二眾在護理孤邸外禮敬隆波查
+
+------
 
 每天，都有信眾特意來看一眼躺在床上的隆波，並在窗下向他頂
 禮。到了傍晚，如果天氣不錯，侍者們就會用輪椅推著隆波來到室外。
@@ -17488,8 +17717,19 @@ dee）或“正確性”——時的挑戰。當你還不知道那個目標是�
 
 - 　　　　　　當我們人類體驗到同樣的事情時，我們就不必說太多。只要看著彼此，我們已經理解了對方。當我走進這裡時，我就有這種感覺。
 
+------
 
-隆波查給予眾人祝福 (img)
+.. container:: image of Luang Por Chah extends his blessings to everyone
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-12%E9%9A%86%E6%B3%A2%E6%9F%A5%E7%A5%9D%E7%A6%8F%E7%9C%BE%E4%BA%BA.png?raw=true
+     :width: 298
+     :height: 216
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查祝福眾人
+
+隆波查祝福眾人
+
+------
 
 
 **種下蓮花**
@@ -17685,8 +17925,17 @@ dee）或“正確性”——時的挑戰。當你還不知道那個目標是�
 
 - 　　　　　　我對這次出國旅行的感受是，這是個幽默事件。多年來，我一直覺得自己是個猴王，被看客們指點耍弄。我尋思，“若是出國，試著做一段時間的阿姜青蛙，會是什麼感覺？”我知道我肯定會是一個阿姜青蛙，因為我不懂他們的語言。而結果則是：雖說青蛙不懂人話，一旦它開始呱呱叫，人們就跑來了 [12-11]_ 。對我來說，這就像啞巴教瘋子。但還不算太糟。你不必學習或通過考試來得到佛陀授予的學位。於是，一個啞巴僧人在倫敦建立一家寺院分院，讓瘋癲的人在裡面學習。這真是個喜劇。
 
+------
 
-1977 年，隆波查在漢普斯特精舍內僧人們居住的房間前 (img)
+.. container:: image of Luang Por Chah Hampstead Vihaara1977
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-12%E9%9A%86%E6%B3%A2%E6%9F%A51977%E6%BC%A2%E6%99%AE%E6%96%AF%E7%89%B9.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 1977 年，隆波查在漢普斯特精舍內僧人們居住的房間前
+
+1977 年，隆波查在漢普斯特精舍內僧人們居住的房間前
 
 ------
 
@@ -18205,9 +18454,19 @@ dee）或“正確性”——時的挑戰。當你還不知道那個目標是�
 個月的僧人生涯。行程開始時，保羅發現隆波對北美地理依然茫無所
 知。“馬薩諸塞也在美國嗎？”他問，“波士頓呢，是在紐約嗎？”
 
+------
 
-1979 年，隆波查到訪內觀禪修社 (img)
+.. container:: image of Luang Por Cha Visit to the Vipassana Meditation Center1979
 
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-12%E9%9A%86%E6%B3%A2%E6%9F%A51979%E8%A8%AA%E5%85%A7%E8%A7%80%E7%A6%AA%E4%BF%AE%E7%A4%BE.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 1979 年，隆波查到訪內觀禪修社
+
+1979 年，隆波查到訪內觀禪修社
+
+------
 
 隆波在內觀禪修社逗留了八天，指導一個大約七十人的禪修營。
 早上，隆波會把時間給工作人員——大多是中心的老學員——讓他們
@@ -18398,9 +18657,20 @@ Sussex）包括一組極其珍貴的鏡頭，笑容滿面的隆波正與英國�
 重要的多。最重要的事情就是高質量的適應能力，隨時準備好與周遭
 的世界平靜相處，而不是讓世界符合你對平靜的看法。”
 
-1980 年，位於戚瑟斯特的心遠離森林寺院 (img)
+------
+
+.. container:: image of Cittaviveka Forest Monastery Chithurst1980 
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-12%E5%BF%83%E9%81%A0%E9%9B%A2%E6%A3%AE%E6%9E%97%E5%AF%BA%E9%99%A21980.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 1980 年，位於戚瑟斯特的心遠離森林寺院
+
+1980 年，位於戚瑟斯特的心遠離森林寺院
 
 ------
+
 
 三、最後一晚
 ~~~~~~~~~~~~~~~
@@ -18473,6 +18743,17 @@ Sussex）包括一組極其珍貴的鏡頭，笑容滿面的隆波正與英國�
 - 　　　　　　當一切都已善說和善作，只有一條道能從死中解脫：當你以智慧徹見，沒有什麼真正是“我”或“我的”，你就證得了不死。
 
 ------
+
+.. container:: image of Luang Por Chah-- colour
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/5eab3e6c4521667cf916aca50bd461e85f6a07d8/content/img/stillness-flowing/%E9%9A%86%E6%B3%A2%E6%9F%A5%E6%B3%95%E7%9B%B8colour.png?raw=true
+     :width: 500
+     :height: 616
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查法相（彩色）
+
+------
+
 
 隆波頌
 ~~~~~~~~~
@@ -18600,6 +18881,27 @@ Sussex）包括一組極其珍貴的鏡頭，笑容滿面的隆波正與英國�
 | 
 
 ------
+
+.. container:: image of Handwritten English Manuscript of Luang Por Chah Song
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/5eab3e6c4521667cf916aca50bd461e85f6a07d8/content/img/stillness-flowing/%E9%9A%86%E6%B3%A2%E9%A0%8C%E8%8B%B1%E6%96%87%E6%89%8B%E5%AF%AB%E7%A8%BF.png?raw=true
+     :width: 900
+     :height: 1400
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波頌英文手寫稿
+
+------
+
+.. container:: image of Luang Por Chah-- colour-2
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/5eab3e6c4521667cf916aca50bd461e85f6a07d8/content/img/stillness-flowing/%E9%9A%86%E6%B3%A2%E6%9F%A5%E6%B3%95%E7%9B%B8colour-2.png?raw=true
+     :width: 502
+     :height: 606
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查法相 (colour)-2 
+
+------
+
 
 附錄
 ~~~~~~~
@@ -19781,6 +20083,7 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
 
 
 ..
+  08-03 add photos of ch04--12
   08-01 add photos of ch01--03
   07-31 add 3 photos
   2026-07-29; create rst on 2026-07-29

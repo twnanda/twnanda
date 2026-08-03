@@ -3,7 +3,7 @@
 ==================================
 
 :date: 2026-07-19
-:modified: 2026-07-27
+:modified: 2026-08-03
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第八章：君自遠方來（靜心之流(Stillness Flowing)）
@@ -510,9 +510,19 @@
 美多的存在則經常是決定性因素。這裡有一個活生生的人，證明此事
 是行得通的。
 
+------
 
-隆波查與西方弟子們 (img)
+.. container:: image of Luang Por Chah and His Western Disciples
 
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-08%E9%9A%86%E6%B3%A2%E6%9F%A5%E8%88%87%E8%A5%BF%E6%96%B9%E5%BC%9F%E5%AD%90%E5%80%91.png?raw=true
+     :width: 334
+     :height: 250
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查與西方弟子們
+
+隆波查與西方弟子們
+
+------
 
 沒有其他西方人的陪伴，阿姜蘇美多已經在艱苦條件下生活了幾
 年，很顯然，他從修行中收穫良多。他同時也是翻譯和前輩。而且，
@@ -926,9 +936,19 @@
 展現了“真正的隆波”。這是一個常見的主題：每個人都傾向於把自
 己眼中的隆波，看作是真正的隆波。
 
+------
 
-西方僧人在國際森林寺院附近的村莊裡托缽 (img)
+.. container:: image of Western Monks Begging for Alms
 
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-08%E8%A5%BF%E6%96%B9%E5%83%A7%E4%BA%BA%E6%89%98%E7%BC%BD.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 西方僧人在國際森林寺院附近的村莊裡托缽
+
+西方僧人在國際森林寺院附近的村莊裡托缽
+
+------
 
 隆波再三安撫西方僧人，他們面臨的困難是暫時的，而且，鑑於
 他們繼承了無量劫中所累積的染汙的力量，困難也是避免不了的。他
@@ -1736,8 +1756,19 @@ mātāpitūhi? （你有你父母的許可嗎？）”然後他回答，“Āma 
 很小的帶茅草頂棚的竹製孤邸裡，我們有一個很小的有著茅草頂棚和
 泥土地面的法堂。”
 
-阿姜蘇美多在早期的國際森林寺院 (img)
+------
 
+.. container:: image of Ajahn Sumedho in the Early Days of the International Forest Monastery
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-08%E6%97%A9%E6%9C%9F%E9%98%BF%E5%A7%9C%E8%98%87%E7%BE%8E%E5%A4%9A.png?raw=true
+     :width: 229
+     :height: 342
+     :target: https://nanda.dhamma-online.net/
+     :alt: 阿姜蘇美多在早期的國際森林寺院
+
+阿姜蘇美多在早期的國際森林寺院
+
+------
 
 隆波沒有插手國際森林寺院的日常運作。僧人們自由地按照自己
 覺得合適的方式建設寺院。他們自己設計了法堂，它的布局和常見的
@@ -1939,5 +1970,6 @@ sāmaṇera 沙彌）。在做為沙彌受訓的一年裡，他們會過著和�
 
 
 ..
+  08-03 add photos
   2026-07-27; create rst on 2026-07-09
   米 -- 公尺

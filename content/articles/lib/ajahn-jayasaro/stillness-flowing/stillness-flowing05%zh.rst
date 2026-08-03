@@ -3,7 +3,7 @@
 ==================================
 
 :date: 2026-07-19
-:modified: 2026-07-22
+:modified: 2026-08-03
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第五章：佛法的命脈（靜心之流(Stillness Flowing)）
@@ -839,6 +839,18 @@ pavāranā）的在家人乞討、要求、甚至是暗示任何除飲用水以�
 | “未來您應當約束自己。”
 | 
 
+
+.. container:: image of Paacittiya (confession)
+
+  .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-05%E6%87%BA%E6%82%94%E5%9D%A6%E7%BD%AA.png?raw=true
+     :width: 298
+     :height: 218
+     :target: https://nanda.dhamma-online.net/
+     :alt: 懺悔坦罪
+
+懺悔坦罪
+
+
 ●●●●●●
 
 以上各部分的介紹僅是匆匆幾瞥，讓讀者了解一些波羅提木叉的戒
@@ -1550,7 +1562,19 @@ fruit 印度枳）、酸角或姜等，榨汁熬煮後過濾而得。到了後�
 當成是可以敷衍了事的儀軌。對於誠摯的禪修者，額頭叩抵地面時的
 那種感受能觸發深不可言的情感，令他們湧出喜悅的淚水。
 
-僧人們頂禮隆波查，沙彌們隨後另行頂禮 (img)
+------
+
+.. container:: image of Homage to Luang Por Chah
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-05%E9%A0%82%E7%A6%AE%E9%9A%86%E6%B3%A2%E6%9F%A5.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 僧人們頂禮隆波查，沙彌們隨後另行頂禮
+
+僧人們頂禮隆波查，沙彌們隨後另行頂禮
+
+------
 
 頂禮成為了巴蓬寺標誌性訓練中的一項。隆波和他的弟子們大量
 地頂禮，比一般泰國寺院要多得多（提起巴蓬寺時，城裡的僧人有時
@@ -1603,7 +1627,19 @@ fruit 印度枳）、酸角或姜等，榨汁熬煮後過濾而得。到了後�
 促發相應的善的心態。如此，反覆以恭敬的態度行事，會促使善思和
 善想優先生起，而不善心則被排擠到一邊。
 
-恭敬合掌 (img)
+------
+
+.. container:: image of keep his hands together in the prayer-like anjali
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-05%E6%81%AD%E6%95%AC%E5%90%88%E6%8E%8C.png?raw=true
+     :width: 334
+     :height: 221
+     :target: https://nanda.dhamma-online.net/
+     :alt: 恭敬合掌
+
+恭敬合掌
+
+------
 
 實際上，團體中涉及的年資高低有別的種種禮儀，有不少是僧人
 們在進入巴蓬寺僧團前就很熟悉的。幾百年來，泰國社會吸收了某些
@@ -1933,8 +1969,20 @@ kiccavatta）。隆波堅信，它們有助於僧人在履行職責時提升正�
    比丘們，你們應當如此訓練自己。
                   《相應部 迦葉相應 滿足經》SN 16.1
 
-**巴蓬寺早期典型的孤邸**
 
+------
+
+.. container:: image of A typical early-period kuti at Wat Nong Pah Pong
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-05%E5%B7%B4%E8%93%AC%E5%AF%BA%E6%97%A9%E6%9C%9F%E5%85%B8%E5%9E%8B%E7%9A%84%E5%AD%A4%E9%82%B8.png?raw=true
+     :width: 334
+     :height: 220
+     :target: https://nanda.dhamma-online.net/
+     :alt: 巴蓬寺早期典型的孤邸
+
+巴蓬寺早期典型的孤邸
+
+------
 
 巴蓬寺的大部分孤邸都來自信眾及其家庭的供養。對村民來說，
 即便是集資蓋一所普通的木屋孤邸，也是傾其所有、畢生只能做一次
@@ -2438,6 +2486,7 @@ kiccavatta）。隆波堅信，它們有助於僧人在履行職責時提升正�
 
 
 ..
+  08-03 add photos (08-02)
   2026-07-22; create rst on 2026-07-19
   巴帝摩卡 --  波羅提木叉
   屍棄佛 -- 尸棄佛

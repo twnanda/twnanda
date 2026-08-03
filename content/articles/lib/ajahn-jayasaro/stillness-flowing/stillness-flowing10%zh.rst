@@ -3,7 +3,7 @@
 ==================================
 
 :date: 2026-07-19
-:modified: 2026-07-28
+:modified: 2026-08-03
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第十章：出自慈悲心（靜心之流(Stillness Flowing)）
@@ -1674,7 +1674,17 @@ Saṅghaṃ saraṇaṃ gacchāmi: 我皈依僧。
 切，我發現自己全錯了。隆波說，住在高處的人可以看到下面的人，
 但是住在較低地方的人則看不到上面的人。我反思這一點。他是對的。”
 
-隆波查為信眾答疑解惑 (img)
+------
+
+.. container:: image of Luang Por Chah Answers Questions and Clarifies Doubts for Devotees
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-10%E9%9A%86%E6%B3%A2%E6%9F%A5%E7%82%BA%E4%BF%A1%E7%9C%BE%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查為信眾答疑解惑
+
+隆波查為信眾答疑解惑
 
 ------
 
@@ -2661,6 +2671,7 @@ ekaggatārammaṇa)”這個詞。通常，在涉及培育禪定時會用到這�
 
 
 ..
+  08-03 add photo
   2026-07-28; create rst on 2026-07-09
   自打 -- 打從
   舍棄 -- 捨棄

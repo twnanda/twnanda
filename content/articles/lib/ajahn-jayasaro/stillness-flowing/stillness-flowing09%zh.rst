@@ -3,7 +3,7 @@
 ==================================
 
 :date: 2026-07-19
-:modified: 2026-07-27
+:modified: 2026-08-03
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第九章：了卻紅塵緣（靜心之流(Stillness Flowing)）
@@ -36,7 +36,7 @@
 於缺少一個比丘尼傳承來因襲延續，東南亞地區的佛教文化，最終
 孕育出了自己土生土長的一種女性出家團體。在十七世紀荷蘭和法
 國旅行家們關於暹羅王國的遊記中，可以看到有關白衣美琪（泰：
-maechee maechee， 意為 ‘行梵行的女性’）的記載，
+maechee ， 意為 ‘行梵行的女性’）的記載，
 那時，這一團體似乎已經在社會上發展得相當成熟 [9-1]_ 。
 
 對於以出家為天職並立志證悟解脫的女性來說，美琪的形式絕非
@@ -531,8 +531,19 @@ Precepts）——這意味著，她們在修行時無緣得到比丘尼戒律所
 衡。對於那些感覺到自己的證悟之路尚且漫長的人來說，通過各種善
 行積累福報，為她們在禪修上的挫敗感提供了令人安心的補償。
 
-美琪們參加日常的集體勞動 (img)
+------
 
+.. container:: image of maechees-Group Work
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-09%E7%BE%8E%E7%90%AA%E5%80%91%E9%9B%86%E9%AB%94%E5%8B%9E%E5%8B%95.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 美琪們參加日常的集體勞動
+
+美琪們參加日常的集體勞動
+
+------
 
 美琪們對寺院整體運作的首要貢獻是種菜和備餐。當比丘和戒尼
 的數量增至近百人時，這成為一項主要的日常勞動。美琪們在工作時
@@ -719,4 +730,5 @@ the knowing in the knowing）。不是對冷熱、苦樂、晝夜的知曉，而
 
 
 ..
+  08-03 add photo
   2026-07-27; create rst on 2026-07-09

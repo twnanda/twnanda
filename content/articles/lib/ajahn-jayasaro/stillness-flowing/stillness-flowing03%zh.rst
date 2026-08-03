@@ -3,7 +3,7 @@
 =================================
 
 :date: 2026-07-19
-:modified: 2026-08-01
+:modified: 2026-08-03
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第三章：不走尋常路（靜心之流(Stillness Flowing)）
@@ -219,8 +219,8 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 .. container:: image of kasaava and patta
 
   .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-03%E8%A1%A3%E7%BC%BD.png?raw=true
-     :width: 458
-     :height: 685
+     :width: 229
+     :height: 342
      :target: https://nanda.dhamma-online.net/
      :alt: 衣缽
 
@@ -260,8 +260,8 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 .. container:: image of Morning Alms Round
 
   .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-03%E6%B8%85%E6%99%A8%E6%89%98%E7%BC%BD.png?raw=true
-     :width: 667
-     :height: 441
+     :width: 333
+     :height: 220
      :target: https://nanda.dhamma-online.net/
      :alt: 清晨托缽
 
@@ -947,7 +947,8 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 
 
 ..
-  08-01 add photo
+  08-03 rev. size of  photo
+  08-01 add photos
   2026-07-19 post; 07-17; create rst on 2026-07-17
   粘米飯 -- 糯米飯
   喂 -- 餵

@@ -3,7 +3,7 @@
 ===================================
 
 :date: 2026-07-19
-:modified: 2026-07-28
+:modified: 2026-08-03
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第十一章：烈日下的冰（靜心之流 (Stillness Flowing)）
@@ -262,9 +262,19 @@
 事都有風險。過馬路也有風險。”他希望，這麼做至少可以讓他在死
 前，為佛陀的教法（巴：Sāsana）多做些善事。
 
+------
 
-僧人照料病中的隆波查 (img)
+.. container:: image of Monks Care for the Ailing Luang Por Chah
 
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-11%E5%83%A7%E4%BA%BA%E7%85%A7%E6%96%99%E9%9A%86%E6%B3%A2%E6%9F%A5.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 僧人照料病中的隆波查
+
+僧人照料病中的隆波查
+
+------
 
 此前，巴蓬寺已經達成一致，任何有關隆波醫療上的重大決定都
 必須請示僧團。這是他第一次沒有理會這個規定。好幾位資深弟子已
@@ -457,9 +467,19 @@
 上設門，侍者們可以在規定時間將客人帶入。會客時，隆波房間的窗
 簾會被拉開。
 
+------
 
-僧俗二眾在護理孤邸外禮敬隆波查 (img)
+.. container:: image of Monks and laypeople paid their respects to Luang Por Chah outside the kuti
 
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-11%E5%AD%A4%E9%82%B8%E5%A4%96%E7%A6%AE%E6%95%AC%E9%9A%86%E6%B3%A2%E6%9F%A5.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 僧俗二眾在護理孤邸外禮敬隆波查
+
+僧俗二眾在護理孤邸外禮敬隆波查
+
+------
 
 每天，都有信眾特意來看一眼躺在床上的隆波，並在窗下向他頂
 禮。到了傍晚，如果天氣不錯，侍者們就會用輪椅推著隆波來到室外。
@@ -724,5 +744,6 @@ ICU 重症監護病房，他在那裡住了些時日，同時接受肺炎治療�
 
 
 ..
+  08-03 add photos
   2026-07-28; create rst on 2026-07-09
   知者 -- 智者 ?

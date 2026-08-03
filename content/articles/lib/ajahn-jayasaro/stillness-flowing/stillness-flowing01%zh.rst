@@ -3,7 +3,7 @@
 =================================
 
 :date: 2026-07-19
-:modified: 2026-08-01
+:modified: 2026-08-03
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第一章：生命的寂止（靜心之流(Stillness Flowing)）
@@ -193,8 +193,8 @@
 .. container:: images of Their Majesties King Bhumibol and Queen Sirikit pay respects to Luang Por
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01King%20Bhumibol%20and%20Queen.png?raw=true
-     :width: 598
-     :height: 435
+     :width: 299
+     :height: 217
      :target: https://nanda.dhamma-online.net/
      :alt: 泰王蒲美蓬和王后詩麗吉陛下禮敬隆波查法體
 
@@ -310,8 +310,8 @@ Kuti）和美琪 [1-4]_
 .. container:: images of The monks are building a stupa
 
   .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E5%BB%BA%E9%80%A0%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
-     :width: 454
-     :height: 685
+     :width: 227
+     :height: 342
      :target: https://nanda.dhamma-online.net/
      :alt: 僧人們正在建造舍利塔
 
@@ -366,8 +366,8 @@ Kuti）和美琪 [1-4]_
 .. container:: image of Luang Por Chah stupa
 
   .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-01%E9%9A%86%E6%B3%A2%E6%9F%A5%E8%88%8D%E5%88%A9%E5%A1%94.png?raw=true
-     :width: 458
-     :height: 685
+     :width: 229
+     :height: 342
      :target: https://nanda.dhamma-online.net/
      :alt: 隆波查舍利塔
 
@@ -422,6 +422,7 @@ Kuti）和美琪 [1-4]_
 .. [1-7] 國葬有兩個階段。大部分來賓只出席第一階段。第一階段在供養葬禮火種和放置“檀香木花”後結束。大部分葬禮中的實際火葬在稍後舉行，只有家屬和親友參加。這種情況下，火葬定在午夜。
 
 ..
+  08-03 rev. size of  photo
   08-01 add photo
   2026-07-19 post; 07-15; create rst on 2026-07-09
    采用 -- 採用

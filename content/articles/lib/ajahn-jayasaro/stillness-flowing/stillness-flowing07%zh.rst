@@ -3,7 +3,7 @@
 ==================================
 
 :date: 2026-07-19
-:modified: 2026-07-26
+:modified: 2026-08-03
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第七章：磨亮海螺殼（靜心之流 (Stillness Flowing)）
@@ -166,7 +166,19 @@ angsa 音：昂沙）。從這一刻起，他的訓練正式開始。他將參�
 少放鬆了這一要求，但對西方人和上了年紀的人仍保留了這一做法，
 這種溫和地過渡到僧團生活的作法，讓他們受益匪淺。
 
-沙彌受戒出家儀式。在隆波查的注視下，一位僧人將“覆肩衣”置於沙彌頭頂。 (img)
+------
+
+.. container:: image of Ordination Ceremony for Novice Monks
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-07%E6%B2%99%E5%BD%8C%E5%8F%97%E6%88%92%E5%87%BA%E5%AE%B6%E5%84%80%E5%BC%8F.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 沙彌受戒出家儀式。在隆波查的注視下，一位僧人將“覆肩衣”置於沙彌頭頂。
+
+沙彌受戒出家儀式。在隆波查的注視下，一位僧人將“覆肩衣”置於沙彌頭頂。 
+
+------
 
 沙彌出家儀式（巴：pabbajjā，音：巴拔迦）很簡短。申請人從
 老師那裡接過僧衣，正式向老師請求“出家”，並從老師那裡求授十
@@ -964,7 +976,19 @@ Nissaggiya Pācittiya）戒律條例。這次檢查做得很徹底。儘管有�
    無逸不死道，放逸趨死路。
    《法句經》第 21 偈
 
-隆波查帶領僧人們托缽 (img)
+------
+
+.. container:: image of Luang Por Cha led the monks on their alms round
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-07%E9%9A%86%E6%B3%A2%E6%9F%A5%E5%B8%B6%E9%A0%98%E5%83%A7%E4%BA%BA%E5%80%91%E6%89%98%E7%BC%BD.png?raw=true
+     :width: 298
+     :height: 217
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查帶領僧人們托缽
+
+隆波查帶領僧人們托缽
+
+------
 
 
 **世間八風**
@@ -1112,7 +1136,19 @@ paṭipatti）中。他會根據特定的時間、地點及聽眾，來選取他
 來勞動……我們展現出：為集體做奉獻如何能成為有益的佛法
 修行。”
 
-僧人們正在修建通往金剛光洞寺的公路 (img)
+------
+
+.. container:: image of Monks Build a Road
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-07%E5%83%A7%E4%BA%BA%E5%80%91%E4%BF%AE%E5%BB%BA%E5%85%AC%E8%B7%AF.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 僧人們正在修建通往金剛光洞寺的公路
+
+僧人們正在修建通往金剛光洞寺的公路
+
+------
 
 巴蓬寺僧團最傳奇的工程項目，是用四個月時間修造的一條山路。
 這條路攀上陡山密林，一直通到巴蓬寺以北八十公里外的分院金剛光
@@ -2333,6 +2369,7 @@ abhaytan”，直譯是：“在此處，我們把免受恐懼做為禮物，獻
 
 
 ..
+  08-03 add photos
   2026-07-26; create rst on 2026-07-09
   准備 -- 准備
   啊羅漢 -- 阿羅漢

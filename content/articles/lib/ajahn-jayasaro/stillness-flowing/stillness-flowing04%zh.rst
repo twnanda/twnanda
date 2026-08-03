@@ -3,7 +3,7 @@
 ==================================
 
 :date: 2026-07-19
-:modified: 2026-07-19
+:modified: 2026-08-03
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第四章：善教的一生（靜心之流(Stillness Flowing)）
@@ -72,9 +72,19 @@
 舉止，學生們形成對他的看法，並建立起對他的信任和信心。為了在
 法中 取得進步，學生們甘願做出必要的犧牲，為修習付出精進與熱忱。
 
+------
 
-隆波查給小鹿餵食(img)
+.. container:: image of Luang Por Chah Feeds a Fawn
 
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-04%E9%9A%86%E6%B3%A2%E6%9F%A5%E9%A4%B5%E9%A3%9F%E5%B0%8F%E9%B9%BF.png?raw=true
+     :width: 334
+     :height: 250
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查餵食小鹿
+
+隆波查餵食小鹿
+
+------
 
 在這當中發揮作用的，不僅僅是他們對求道與奉獻已然有所了解，還
 取決於他們對老師的認知、對老師的愛戴和尊重以及效法老師的力度。
@@ -652,7 +662,19 @@ kusalachanda kusalachanda，善欲 ) 或“想要追求真理”（巴： 或“
 他帶來了一群國際讀者。不久，他的教導接連被譯成德文、法文、西
 班牙文、中文和其他文字。
 
-隆波查接受泰王賜封昭坤僧銜後返回烏汶 (img)
+------
+
+.. container:: image of Returned to Ubon after receiving the monastic title of Chaokun
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-04%E6%8E%A5%E5%8F%97%E5%83%A7%E9%8A%9C%E5%BE%8C%E5%9B%9E%E7%83%8F%E6%B1%B6.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查接受泰王賜封昭坤僧銜後返回烏汶
+
+隆波查接受泰王賜封昭坤僧銜後返回烏汶
+
+------
 
 面對紛湧而來的名聲與地位，隆波不為所動，一如他面對誣陷和誹
 謗一樣。1973 年 12 月 5 日，他接受了普密蓬 日，他接受了普密蓬 · 阿杜德國王陛下頒授的 阿杜德國王陛下頒授的
@@ -985,7 +1007,19 @@ kusalachanda kusalachanda，善欲 ) 或“想要追求真理”（巴： 或“
 都是一位老人了——他的身體過早地衰老了。這些開示洋溢著一種父
 輩的語調，幽默和溫暖總是充盈在話語之間。
 
-隆波查在巴蓬寺法堂為僧團開示(img)
+------
+
+.. container:: image of Luang Por Chah Delivers a Dhamma Talk to the Sangha in the Dhamma Hall at Wat Pah Pong
+
+  .. image:: https://github.com/twnanda/dispersed-design/  .png?raw=true
+     :width: 334
+     :height: 218
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查在巴蓬寺法堂為僧團開示
+
+隆波查在巴蓬寺法堂為僧團開示
+
+------
 
 隆波開示的主要特點是即興而發，隨感而起。他堅持佛法開示不
 能、也不應該事先準備好講稿。雖然他在開口之前，通常心裡已有了
@@ -1067,7 +1101,19 @@ kusalachanda kusalachanda，善欲 ) 或“想要追求真理”（巴： 或“
 個著名的開示，無論他的語氣如何變化，貫穿隆波講法的鮮明特徵從
 未有過改變。
 
-隆波查 (img)
+------
+
+.. container:: image of Luang Por Chah
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-04%E9%9A%86%E6%B3%A2%E6%9F%A5.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查
+
+隆波查
+
+------
 
 這樣的開示，只使用簡單的語言和最少的理論（就像隆普曼的同
 輩人曾說過的，“盡可能地簡單，但無法再簡單”），同時大量運用比喻，
@@ -1350,6 +1396,7 @@ kusalachanda kusalachanda，善欲 ) 或“想要追求真理”（巴： 或“
 
 
 ..
+  08-03 add photos (08-02)
   2026-07-19 post; 07-18; create rst on 2026-07-17
   平舍心  平捨心
   時不時  Every now and again 

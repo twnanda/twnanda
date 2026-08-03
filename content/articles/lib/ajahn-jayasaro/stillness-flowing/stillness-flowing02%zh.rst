@@ -3,7 +3,7 @@
 =================================
 
 :date: 2026-07-19
-:modified: 2026-08-01
+:modified: 2026-08-03
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第二章：世間的啟迪（靜心之流(Stillness Flowing)）
@@ -916,8 +916,8 @@ Upasampadā）在當地的剃度寺院——康內寺舉行。隆波的戒師是
 .. container:: image of Luang Pu Mun
 
   .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E9%9A%86%E6%99%AE%E6%9B%BC.png?raw=true
-     :width: 567
-     :height: 853
+     :width: 283
+     :height: 426
      :target: https://nanda.dhamma-online.net/
      :alt: 隆普曼
 
@@ -981,8 +981,8 @@ Nong Peu）。
 .. container:: image of Wat Pah Nong Peu
 
   .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02%E6%B3%8A%E6%B1%A0%E6%A3%AE%E6%9E%97%E5%AF%BA.png?raw=true
-     :width: 568
-     :height: 382
+     :width: 284
+     :height: 191
      :target: https://nanda.dhamma-online.net/
      :alt: 泊池森林寺
 
@@ -1366,8 +1366,8 @@ Daeng）等，宛如莊重但友好的哨兵。當他沿途行走時，不時會
 .. container:: image of Luang Pu Kinaree Candiyo
 
   .. image:: https://github.com/twnanda/dispersed-design/https://github.com/twnanda/dispersed-design/blob/9c7af20434b76ab7656a346caaff0aacc5c9c1fb/content/img/stillness-flowing/ch-02Luang%20Pu%20Kinaree%20Candiyo.png?raw=true
-     :width: 456
-     :height: 685
+     :width: 228
+     :height: 342
      :target: https://nanda.dhamma-online.net/
      :alt: 隆普欽納理·堪諦尤 (Luang Pu Kinaree Candiyo)
 
@@ -1705,7 +1705,19 @@ Daeng）等，宛如莊重但友好的哨兵。當他沿途行走時，不時會
 他十分不情願地放棄了行禪，全部改為坐禪。三天之後，劇烈的腳痛
 才消失。
 
-隆波查(img)
+------
+
+.. container:: image of Luang Por Chah
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-02%E9%9A%86%E6%B3%A2%E6%9F%A5.png?raw=true
+     :width: 287
+     :height: 426
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查
+
+隆波查
+
+------
 
 在他寄宿的這間廢棄的寺院裡，前任居住者們留下的微小痕跡隨
 處可見。地板上，星星點點地灑落著蠟滴；供桌後面，褪了色的書籍
@@ -2349,6 +2361,7 @@ osadha）。八個日夜，他靠清水生存，完全不睡覺，傾盡全力�
 
 
 ..
+  08-03 rev. size of photo
   08-01 add photo
   2026-07-19 post; 07-17; create rst on 2026-07-16
   作為  做為; 保准 保證

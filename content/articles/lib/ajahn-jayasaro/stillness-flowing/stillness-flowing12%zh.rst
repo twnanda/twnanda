@@ -3,7 +3,7 @@
 ===================================
 
 :date: 2026-07-19
-:modified: 2026-07-29
+:modified: 2026-08-03
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第十二章：廣闊的畫卷（靜心之流 (Stillness Flowing)）
@@ -285,7 +285,19 @@ dee）或“正確性”——時的挑戰。當你還不知道那個目標是�
 - 　　　　　　當我們人類體驗到同樣的事情時，我們就不必說太多。只要看著彼此，我們已經理解了對方。當我走進這裡時，我就有這種感覺。
 
 
-隆波查給予眾人祝福 (img)
+------
+
+.. container:: image of Luang Por Chah extends his blessings to everyone
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-12%E9%9A%86%E6%B3%A2%E6%9F%A5%E7%A5%9D%E7%A6%8F%E7%9C%BE%E4%BA%BA.png?raw=true
+     :width: 298
+     :height: 216
+     :target: https://nanda.dhamma-online.net/
+     :alt: 隆波查祝福眾人
+
+隆波查祝福眾人
+
+------
 
 
 **種下蓮花**
@@ -481,10 +493,20 @@ dee）或“正確性”——時的挑戰。當你還不知道那個目標是�
 
 - 　　　　　　我對這次出國旅行的感受是，這是個幽默事件。多年來，我一直覺得自己是個猴王，被看客們指點耍弄。我尋思，“若是出國，試著做一段時間的阿姜青蛙，會是什麼感覺？”我知道我肯定會是一個阿姜青蛙，因為我不懂他們的語言。而結果則是：雖說青蛙不懂人話，一旦它開始呱呱叫，人們就跑來了 [12-11]_ 。對我來說，這就像啞巴教瘋子。但還不算太糟。你不必學習或通過考試來得到佛陀授予的學位。於是，一個啞巴僧人在倫敦建立一家寺院分院，讓瘋癲的人在裡面學習。這真是個喜劇。
 
+------
 
-1977 年，隆波查在漢普斯特精舍內僧人們居住的房間前 (img)
+.. container:: image of Luang Por Chah Hampstead Vihaara1977
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-12%E9%9A%86%E6%B3%A2%E6%9F%A51977%E6%BC%A2%E6%99%AE%E6%96%AF%E7%89%B9.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 1977 年，隆波查在漢普斯特精舍內僧人們居住的房間前
+
+1977 年，隆波查在漢普斯特精舍內僧人們居住的房間前
 
 ------
+
 
 二、第二次西行
 ~~~~~~~~~~~~~~~~~
@@ -1001,9 +1023,19 @@ dee）或“正確性”——時的挑戰。當你還不知道那個目標是�
 個月的僧人生涯。行程開始時，保羅發現隆波對北美地理依然茫無所
 知。“馬薩諸塞也在美國嗎？”他問，“波士頓呢，是在紐約嗎？”
 
+------
 
-1979 年，隆波查到訪內觀禪修社 (img)
+.. container:: image of Luang Por Cha Visit to the Vipassana Meditation Center1979
 
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-12%E9%9A%86%E6%B3%A2%E6%9F%A51979%E8%A8%AA%E5%85%A7%E8%A7%80%E7%A6%AA%E4%BF%AE%E7%A4%BE.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 1979 年，隆波查到訪內觀禪修社
+
+1979 年，隆波查到訪內觀禪修社
+
+------
 
 隆波在內觀禪修社逗留了八天，指導一個大約七十人的禪修營。
 早上，隆波會把時間給工作人員——大多是中心的老學員——讓他們
@@ -1194,9 +1226,20 @@ Sussex）包括一組極其珍貴的鏡頭，笑容滿面的隆波正與英國�
 重要的多。最重要的事情就是高質量的適應能力，隨時準備好與周遭
 的世界平靜相處，而不是讓世界符合你對平靜的看法。”
 
-1980 年，位於戚瑟斯特的心遠離森林寺院 (img)
+------
+
+.. container:: image of Cittaviveka Forest Monastery Chithurst1980
+
+  .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-12%E5%BF%83%E9%81%A0%E9%9B%A2%E6%A3%AE%E6%9E%97%E5%AF%BA%E9%99%A21980.png?raw=true
+     :width: 334
+     :height: 223
+     :target: https://nanda.dhamma-online.net/
+     :alt: 1980 年，位於戚瑟斯特的心遠離森林寺院
+
+1980 年，位於戚瑟斯特的心遠離森林寺院
 
 ------
+
 
 三、最後一晚
 ~~~~~~~~~~~~~~~
@@ -1322,6 +1365,7 @@ Sussex）包括一組極其珍貴的鏡頭，笑容滿面的隆波正與英國�
 
 
 ..
+  08-03 add photos
   2026-07-29; create rst on 2026-07-09
    慈、悲、喜、舍 -- 慈、悲、喜、捨
    米 -- 公尺
