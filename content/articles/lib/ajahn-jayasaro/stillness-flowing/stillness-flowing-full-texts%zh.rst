@@ -11974,7 +11974,7 @@ abhaytan”，直譯是：“在此處，我們把免受恐懼做為禮物，獻
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-08%E9%9A%86%E6%B3%A2%E6%9F%A5%E8%88%87%E8%A5%BF%E6%96%B9%E5%BC%9F%E5%AD%90%E5%80%91.png?raw=true
      :width: 334
-     :height: 250
+     :height: 500
      :target: https://nanda.dhamma-online.net/
      :alt: 隆波查與西方弟子們
 
@@ -18885,8 +18885,8 @@ Sussex）包括一組極其珍貴的鏡頭，笑容滿面的隆波正與英國�
 .. container:: image of Handwritten English Manuscript of Luang Por Chah Song
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/5eab3e6c4521667cf916aca50bd461e85f6a07d8/content/img/stillness-flowing/%E9%9A%86%E6%B3%A2%E9%A0%8C%E8%8B%B1%E6%96%87%E6%89%8B%E5%AF%AB%E7%A8%BF.png?raw=true
-     :width: 900
-     :height: 1400
+     :width: 600
+     :height: 900
      :target: https://nanda.dhamma-online.net/
      :alt: 隆波頌英文手寫稿
 

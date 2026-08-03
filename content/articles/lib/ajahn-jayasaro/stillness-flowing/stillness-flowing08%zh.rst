@@ -516,7 +516,7 @@
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/2ce121f70a9280ad3524cc23456daab621fa6e62/content/img/stillness-flowing/ch-08%E9%9A%86%E6%B3%A2%E6%9F%A5%E8%88%87%E8%A5%BF%E6%96%B9%E5%BC%9F%E5%AD%90%E5%80%91.png?raw=true
      :width: 334
-     :height: 250
+     :height: 500
      :target: https://nanda.dhamma-online.net/
      :alt: 隆波查與西方弟子們
 
