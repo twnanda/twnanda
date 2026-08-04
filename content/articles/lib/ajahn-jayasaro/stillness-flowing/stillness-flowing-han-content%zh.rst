@@ -133,7 +133,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
 - `術語注釋表 <{filename}stillness-flowing-buddhist-term%zh.rst>`_ 
 
-- `靜心之流（整本書） <{filename}stillness-flowing-full-texts%zh.rst>`_ （ **建構中！** ）
+- `靜心之流（整本書） <{filename}stillness-flowing-full-texts%zh.rst>`_ 
 
 - 本書
 
@@ -286,6 +286,8 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
   舍棄 -- 捨棄
   舍戒 -- 捨戒
   敢說敢幹 -- 敢說敢做
+
+  舍離 -- 捨離
 
   知者 -- 智者 ?
 
