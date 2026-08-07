@@ -3,7 +3,7 @@
 ==================================
 
 :date: 2026-07-19
-:modified: 2026-08-04
+:modified: 2026-08-06
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第九章：了卻紅塵緣（靜心之流(Stillness Flowing)）
@@ -511,7 +511,7 @@ Precepts）——這意味著，她們在修行時無緣得到比丘尼戒律所
 
 “隆波會親自分配布料。他為每位戒尼準備好一摞布料，然後鈴
 聲會響起，美琪按資歷順序逐個上到高台接受布料。之後，我們會比
-較布料的數量、質量和手感粗細。它們完全一樣。”
+較布料的數量、品質和手感粗細。它們完全一樣。”
 
 
 **成為美琪**
@@ -730,6 +730,7 @@ the knowing in the knowing）。不是對冷熱、苦樂、晝夜的知曉，而
 
 
 ..
+  08-06 rev. 質量 -- 品質
   08-04 rev. 舍離 
   08-03 add photo
   2026-07-27; create rst on 2026-07-09

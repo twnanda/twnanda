@@ -3,7 +3,7 @@
 ==============================
 
 :date: 2026-07-19
-:modified: 2026-07-31
+:modified: 2026-08-07
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 靜心之流：阿姜查的生平與教誨 (The Life and Teachings of Ajahn Chah)
@@ -137,7 +137,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
 - 本書
 
-  * PDF
+  * PDF (建構中！)
 
 ----
 
@@ -246,7 +246,8 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
 
 
 ..
-  07-31 finished 附錄
+  08-07 rev. 靜心之流（整本書）
+  07-31 finished 附錄; add: 靜心之流（整本書）
   07-29 add 術語注釋表 & chap 12
   07-28 add chap 11 & 10
   07-27 add chap 9 & 8
@@ -292,3 +293,9 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
   知者 -- 智者 ?
 
    慈、悲、喜、舍 -- 慈、悲、喜、捨
+   拿嘎 -- 那伽; 
+   硬裝本 -- 精裝本;  
+   數碼化 -- 數位化; 
+   質量 -- 品質
+   屍羅 -- 尸羅
+   屍迦羅越經 -- 尸伽羅經
