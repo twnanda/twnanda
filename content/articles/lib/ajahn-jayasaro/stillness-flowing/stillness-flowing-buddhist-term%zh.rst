@@ -3,7 +3,7 @@
 =========================
 
 :date: 2026-07-29
-:modified: 2026-08-11
+:modified: 2026-08-13
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 術語注釋表（靜心之流 (Stillness Flowing)）
@@ -92,7 +92,7 @@ D.
 E.
 ~~~
 
-餓鬼 ( 巴：peta；梵：preta)　　　下界中的一類眾生，有時能在人類面前現形。
+餓鬼 ( 巴：peta；梵：preta)　　　下界中的一類有情眾生，有時能在人類面前現形。
 
 F.
 ~~~
@@ -483,6 +483,7 @@ Z.
 
 
 ..
+  08-13 rev. add 有情(眾生)
   08-11 rev. 老撾 -- 寮國; 生靈 -- 眾生; duplicated: e.g. (alertness (alertness
   08-04 rev.  隆普掃 -- 隆普韶
   2026-07-29 post; create rst on 2026-07-29
