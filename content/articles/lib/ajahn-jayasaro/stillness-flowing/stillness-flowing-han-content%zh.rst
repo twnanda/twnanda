@@ -137,9 +137,9 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
 - 本書
 
-  * PDF <{static}/extra/pdf/靜心之流-阿姜查的生平與教誨-初版.pdf>`_ （背景：豆沙綠，閱讀用）(2026-08-17) 
+  * PDF <https://drive.google.com/file/d/1BPid1vC4RLWrVBp_Nj-OL5bCfU-zh96U/view?usp=sharing>`__ （背景：豆沙綠，閱讀用）(2026-08-17) 
 
-  * PDF <{static}/extra/pdf/靜心之流-阿姜查的生平與教誨-初版-print.pdf>`_ （背景：白，印刷用） (2026-08-17)
+  * PDF <https://drive.google.com/file/d/1eI2-aUoqzo13QTwFiMX14yqkKa7KhvZ4/view?usp=sharing>`__ （背景：白，印刷用） (2026-08-17)
 
 ----
 
