@@ -3,7 +3,7 @@
 ==================================
 
 :date: 2026-07-19
-:modified: 2026-08-15
+:modified: 2026-08-16
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第六章：萬物的本質（靜心之流(Stillness Flowing)）
@@ -447,7 +447,7 @@ nakhā，dantā，taco——可以把它們當作咒語在心裡念誦，讓心�
 | 1. 感官欲想 (sensual thoughts, 巴：Kāmacchanda，又譯：欲貪 )
 | 2. 惡意 (ill-will, 巴：Vyāpāda，又譯：瞋恚 )
 | 3. 懶散與萎靡(sloth and torpor，巴：Thīnamiddha，又譯：昏沉睡眠)
-| 4. 煩亂、內疚、懊悔（ 煩亂、內疚、懊悔（agitation agitation，guilt，remorse remorse，巴：Uddhaccakukkucca，又譯：掉舉惡作）
+| 4. 煩亂、內疚、懊悔（ 煩亂、內疚、懊悔（agitation，guilt，remorse，巴：Uddhaccakukkucca，又譯：掉舉惡作）
 | 5.懷疑與無決斷力(doubt and indecision，巴：Vicikicchā，又譯：疑)
 | 
 
@@ -1379,6 +1379,7 @@ insight）”。此時，尚未證悟的禪修者可能會誤認為，那種極�
 
 
 ..
+    08-16 rev. duplicated: e.g. agitation; remorse
     08-15 rev. duplicated: e.g. saw the body in the body saw the body in the body -- saw 'the body in the body'; 禪修者必須時刻覺知，自身行為背後的意志性動機是否被染汙所擾。 -- 驅動自身行為的意志衝動是否沾染了煩惱。
   08-13 rev. 魔類（或譯：惡魔）。這裡用於形象地比喻內心的染汙（煩惱、心魔）。
   08-12 rev. 部份眾生改回生靈

@@ -3,7 +3,7 @@
 ==================================
 
 :date: 2026-07-19
-:modified: 2026-08-15
+:modified: 2026-08-17
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第八章：君自遠方來（靜心之流(Stillness Flowing)）
@@ -578,7 +578,7 @@
 些觸發他們的決心以及導致他們出發去泰國的事件。比如帕巴卡羅
 （Pabhakaro），一位美國直升機駕駛員，他在越戰期間因休假首次
 來到這個國家。還有和平工作隊的志願者們，以及跨越亞洲的年輕背
-包客，如加拿大人提拉達摩（ 包客，如加拿大人提拉達摩（Tiradhammo）和維拉達摩（ Viradhammo）。
+包客，如加拿大人提拉達摩（Tiradhammo）和維拉達摩（ Viradhammo）。
 這裡還有像英國人布拉姆萬索（Brahmavamso） 和澳大利亞人雅納達
 摩（Nyanadhammo）這樣的人，他們帶著明確的意圖來到這裡出家
 為僧。
@@ -1970,6 +1970,7 @@ sāmaṇera 沙彌）。在做為沙彌受訓的一年裡，他們會過著和�
 
 
 ..
+  08-17 rev. duplicated: e.g. 包客，如加拿大人提拉達摩（
   08-15 rev. duplicated: e.g. 我們叫它（熱水）“; Tiradhammo Tiradhammo
   08-13 rev. 一個生靈開始顯形 -- 一個生命體開始顯形
   08-11 rev. 老撾 -- 寮國

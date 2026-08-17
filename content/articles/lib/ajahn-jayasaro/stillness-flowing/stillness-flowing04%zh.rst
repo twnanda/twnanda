@@ -508,7 +508,7 @@ Peu）拜見他的第二年圓寂，而隆普通拉在 1956 年隆波返回烏�
 佛陀區分了兩種不同的欲望：一種根植於對事物實相的無明（巴：
 tanhā，貪慾），另一種根植於對事物實相的洞悉。第一種要拋棄，
 第二種要培育。第二種可欲之慾被闡釋為“想要一心向善”( 巴：
-kusalachanda kusalachanda，善欲 ) 或“想要追求真理”（巴： 或“想要追求真理”（巴：dhammachanda dhammachanda， 善
+kusalachanda，善欲 ) 或“想要追求真理”（巴： 或“想要追求真理”（巴：dhammachanda， 善
 法欲 )，它表現為對佛法修行的激情。
 
 隆波從來不乏激情。他曾經公開表示，他在出家後所遭遇的問題
@@ -664,7 +664,7 @@ kusalachanda kusalachanda，善欲 ) 或“想要追求真理”（巴： 或“
 
 ------
 
-.. container:: image of Returned to Ubon after receiving the monastic title of Chaokun
+.. container:: image of Returned to Ubon after receiving the monastic title of Chao Khun
 
   .. image:: https://github.com/twnanda/dispersed-design/blob/c2c3a37bb0d87d75da960dfe7fa8fa714b94bbeb/content/img/stillness-flowing/ch-04%E6%8E%A5%E5%8F%97%E5%83%A7%E9%8A%9C%E5%BE%8C%E5%9B%9E%E7%83%8F%E6%B1%B6.png?raw=true
      :width: 334
@@ -1396,6 +1396,7 @@ kusalachanda kusalachanda，善欲 ) 或“想要追求真理”（巴： 或“
 
 
 ..
+  08-16 rev. duplicated: e.g. dhammachanda ; kusalachanda
   08-14 rev. duplicated: e.g. 日，他接受了普密蓬
   08-11 rev. 老撾 -- 寮國
   08-06 rev.   08-03 拿嘎 -- 那伽; 硬裝本 -- 精裝本;  數碼化 -- 數位化; 質量 -- 品質
