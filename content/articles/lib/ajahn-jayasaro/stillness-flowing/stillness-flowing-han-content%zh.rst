@@ -3,7 +3,7 @@
 ==============================
 
 :date: 2026-07-19
-:modified: 2026-08-17
+:modified: 2026-08-18
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 靜心之流：阿姜查的生平與教誨 (The Life and Teachings of Ajahn Chah)
@@ -137,9 +137,9 @@ Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
 - 本書
 
-  * PDF <https://drive.google.com/file/d/1BPid1vC4RLWrVBp_Nj-OL5bCfU-zh96U/view?usp=sharing>`__ （背景：豆沙綠，閱讀用）(2026-08-17) 
+  * `PDF <https://drive.google.com/file/d/1BPid1vC4RLWrVBp_Nj-OL5bCfU-zh96U/view?usp=sharing>`__ （背景：豆沙綠，閱讀用）(2026-08-17) 
 
-  * PDF <https://drive.google.com/file/d/1eI2-aUoqzo13QTwFiMX14yqkKa7KhvZ4/view?usp=sharing>`__ （背景：白，印刷用） (2026-08-17)
+  * `PDF <https://drive.google.com/file/d/1eI2-aUoqzo13QTwFiMX14yqkKa7KhvZ4/view?usp=sharing>`__ （背景：白，印刷用） (2026-08-17)
 
 ----
 
@@ -248,6 +248,7 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
 
 
 ..
+  08-18 rev. corect grammar of rst for PDF of 靜心之流 
   08-17 add. PDF of 靜心之流 
   08-07 rev. 靜心之流（整本書）
   07-31 finished 附錄; add: 靜心之流（整本書）
