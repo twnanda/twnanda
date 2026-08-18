@@ -3,7 +3,7 @@
 =================================
 
 :date: 2025-03-11
-:modified: 2026-04-05
+:modified: 2026-08-18
 :tags: 鄔達摩, 鄔達摩長老, 鄔達摩尊者, 尊者鄔達摩比丘, 尊者鄔達摩長老, 莫哥西亞多開示錄, 空性、有為及無為, 莫哥西亞多, 禪修開示, 阿締佳嵐溪長老, Uttamo, Mogok Sayadaw, Ādiccaramsī 
 :category: path of nirvana
 :summary: 鄔達摩(Uttamo)長老出版品
@@ -29,9 +29,11 @@
 
 - 以開放的心（With an Open Mind），Sayadaw Jhaneyya (Mya Sein Taung Sayadaw）開示錄；由　尊者　 鄔達摩長老　自緬甸語錄音帶譯為 `英文 <{filename}dhamma-talks-by-jhaneyya-sayadaw/content-of-dhamma-talks-by-jhaneyya-sayadaw%zh.rst>`__ （ `參考用中譯文 <https://nanda.online-dhamma.net/Sayadaw-Nyanabhasa-Jotika-Jhaneyya-Kanni-etc-Bhante-Uttamo/pdf-html-odt/with-an-open-mind-Mya-Sein-Taung-Sayadaw-ref-bilingual.html>`__ 、 及 `參考用中譯文 PDF <https://nanda.online-dhamma.net/Sayadaw-Nyanabhasa-Jotika-Jhaneyya-Kanni-etc-Bhante-Uttamo/pdf-html-odt/with-an-open-mind-Mya-Sein-Taung-Sayadaw-ref-bilingual.pdf>`__ 、 `印刷用 PDF <https://nanda.online-dhamma.net/Sayadaw-Nyanabhasa-Jotika-Jhaneyya-Kanni-etc-Bhante-Uttamo/pdf-html-odt/with-an-open-mind-Mya-Sein-Taung-Sayadaw-ref-bilingual-print.pdf>`__  ）
 
+- 神聖之光與法光（Divine Light and Dhamma Light）：這是一本關於「甘尼」禪修體系(Kanni meditation system)的書；由　尊者　 鄔達摩長老　自緬甸文譯為 `英文 <{filename}divine-light-and-dhamma-light/content-of-divine-light-and-dhamma-light%zh.rst>`__ （ `參考用中譯文 <https://nanda.online-dhamma.net/Sayadaw-Nyanabhasa-Jotika-Jhaneyya-Kanni-etc-Bhante-Uttamo/pdf-html-odt/Divine_Light_and_Dhamma_Light-ref-bilingual.html>`__ 、及 `參考用中譯文 PDF <https://drive.google.com/file/d/1wH-bdr8bjuiRNqhLNDFPxOBFbMMT_2Pk/view?usp=sharing>`__ 、 `印刷用 PDF <https://drive.google.com/file/d/1j1rhO1StvwNrgn-5CnyQYM3AXyiTXVIM/view?usp=sharing>`__  ）
 
 
 ..
+  08-18 add: Divine Light and Dhamma Light 神聖之光與法光
   04-05 rev. move to identical Repo (& add 以開放的心（With an Open Mind） 
   04-04 add: test account
   2026-04-04 add: 眼見為實（見即是信，Seeing Is Believing），耀智西亞多(Sayadaw U Ñāṇabhāsa, Sayadaw U Nyanabhasa)開示錄、按部就班（Step by Step），教締卡西亞多(Sayadaw U Jotika)2011 年在澳洲開示錄、以開放的心（With an Open Mind），Sayadaw Jhaneyya (Mya Sein Taung Sayadaw）開示錄
