@@ -3,7 +3,7 @@
 =================================
 
 :date: 2026-07-19
-:modified: 2026-08-14
+:modified: 2026-08-24
 :tags: 靜心之流, 阿姜查的生平與教誨, 阿瞻, 阿姜, 阿贊, 阿瞻查, 阿姜查, 阿瞻蘇美多, 阿瞻袈亞裟柔, 阿姜袈亞裟柔, 阿贊查亞挲羅, buddhism; dhamma; biography; ajahn chah; luang por chah, Ajahn Jayasaro, Ajahn Jayasāro
 :category: 書選
 :summary: 第三章：不走尋常路（靜心之流(Stillness Flowing)）
@@ -947,6 +947,7 @@ chat）覆蓋在竹子編成的圍框上做成牆壁。到了傍晚，已有四�
 
 
 ..
+  08-24 rev. 沒的吃 -- 沒得吃
   08-14 rev. duplicated: e.g. 日，隆波查和弟子們從康村出發，沿著牛車小道一
   08-04 rev.  隆普掃 -- 隆普韶
   08-03 rev. size of  photo

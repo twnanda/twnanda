@@ -305,3 +305,4 @@ from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org
    屍迦羅越經 -- 尸伽羅經
    幹涸 -- 乾涸; 幹草 -- 乾草; 幹巴巴 -- 乾巴巴
    着 -- 著 （對着幹）
+   磁帶 -- 錄音帶
