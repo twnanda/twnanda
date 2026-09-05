@@ -42,5 +42,6 @@
 
 
 ..
-  12-03 rev. add icon and photo
+  2025-09-05 add pdf
+  12-03 rev. add icon and photo; https://drive.google.com/drive/folders/1oO5WAdBek3TjDpPyirdAXR634LE68bgF?usp=sharing  pdf
   2025-11-21 post; 11-12 created rst
