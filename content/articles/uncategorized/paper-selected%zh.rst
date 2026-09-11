@@ -3,7 +3,7 @@
 =================
 
 :date: 2005-05-01
-:modified: 2026-07-22
+:modified: 2026-09-11
 :tags: 
 :category: 書選
 :summary: 書籍、文章選讀
@@ -40,7 +40,6 @@
          <li> <a class="reference internal" href="#eighteen-days-in-solitude"><strong>《18天禪修營》</strong></a>，尊者　阿締佳嵐溪長老 開示錄》；由　尊者　鄔達摩長老自緬甸語錄音帶譯為 英文，Eighteen Days In Solitude --Instructional Dhamma Talks in Retreat, By Venerable U Ādiccaramsī</li>
          <li> <a class="reference internal" href="#two-sides-of-a-coin"><strong>《銅板的兩面》</strong></a>，尊者 帖因古西亞多 開示錄；《神聖的追尋》， 強諦瑪西亞多 開示錄；由　尊者　 鄔達摩長老自緬甸語錄音帶譯為英文，Two Sides of A Coin (Dhamma Talks by Sayadaw U Ukkaṭṭha) and A Noble Search [Dhamma Talks by Sayadaw U Candima (or Sandima)]</li>
          <li> <a class="reference internal" href="#divine-light-and-dhamma-light"><strong>《神聖之光與法光》</strong></a>，一本關於「甘尼」（Kanni）禪修體系的書；由　尊者　 鄔達摩長老自緬甸文譯為英文，Divine Light and Dhamma Light: a book on the Kanni meditation system</li>
-         <li> <a class="reference internal" href="#stillness-flowing"><strong>《靜心之流：阿姜 查的生平與教誨》</strong></a> ，阿瞻 袈亞裟柔 著，Stillness Flowing – The Life and Teachings of Ajahn Chah (by Ajahn Jayasaro)</li>
          <li> <a class="reference internal" href="#unexpected-freedom"><strong>《意想不到的自由》</strong></a> -- 阿瞻 穆寧多[穆寧多(牟尼度) 法師]演講輯，UNEXPECTED FREEDOM (by AJAHN MUNINDO)</li>
          <li> <a class="reference internal" href="#mae-chee-kaew"><strong>《美琪喬》</strong></a>—— 一位阿羅漢尼修道證果之旅，阿瞻 戒寶 編輯，捷平 翻譯，Ajaan Dick Sīlaratano</li>
          <li> <a class="reference internal" href="#ajahn-suchart"><strong>《我的人生道路》</strong></a>，——阿瞻 蘇查自傳，My Way- An Autobiography by Ajahn Suchart Abhijāto</li>
@@ -402,17 +401,6 @@ https://buddhism.lib.ntu.edu.tw/en/search/search_detail.jsp?seq=690102&comefrom=
 
 ------
 
-.. _靜心之流: stillness-flowing_
-
-.. _stillness-flowing:
-
-《靜心之流》
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-- `《靜心之流》：阿姜 查的生平與教誨 <{filename}/articles/lib/ajahn-jayasaro/stillness-flowing/stillness-flowing-han-content%zh.rst>`_ ，阿姜 袈亞裟柔 著， `Stillness Flowing <https://www.jayasaro.panyaprateep.org/uploads/book/1/10/files/00000010.pdf>`__ - The Life and Teachings of Ajahn Chah (by Ajahn Jayasaro) (PDF)； `簡體中文版 <https://www.jayasaro.panyaprateep.org/uploads/book/1/80/files/00000080.pdf>`__ (PDF) (from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org/en/home>`_ )
-
-------
-
 .. _unexpected-freedom:
 
 《意想不到的自由》
@@ -718,6 +706,19 @@ UNEXPECTED FREEDOM (by AJAHN MUNINDO):
 
 
 ..
+  09-11 Remove: <li> <a class="reference internal" href="#stillness-flowing"><strong>《靜心之流：阿姜 查的生平與教誨》</strong></a> ，阿瞻 袈亞裟柔 著，Stillness Flowing – The Life and Teachings of Ajahn Chah (by Ajahn Jayasaro)</li>
+
+    ------
+
+    .. _靜心之流: stillness-flowing_
+
+    .. _stillness-flowing:
+
+    《靜心之流》
+    ~~~~~~~~~~~~~~~~~~~~~~~~
+
+    - `《靜心之流》：阿姜 查的生平與教誨 <{filename}/articles/lib/ajahn-jayasaro/stillness-flowing/stillness-flowing-han-content%zh.rst>`_ ，阿姜 袈亞裟柔 著， `Stillness Flowing <https://www.jayasaro.panyaprateep.org/uploads/book/1/10/files/00000010.pdf>`__ - The Life and Teachings of Ajahn Chah (by Ajahn Jayasaro) (PDF)； `簡體中文版 <https://www.jayasaro.panyaprateep.org/uploads/book/1/80/files/00000080.pdf>`__ (PDF) (from: `Dhamma Teachings by Ajahn Jayasaro <https://www.jayasaro.panyaprateep.org/en/home>`_ )
+
   07-22 改回：阿姜 袈亞裟柔; 07-20 rev. reStructuredText 語法
   2026-07-19 add 靜心之流 (Stillness Flowing) and Divine Light and Dhamma Light
   07-28 rev. and add: 當代南傳佛教大師、煩惱熄滅--　隆波連佛法開示錄與傳略直接閱讀siongui.github、吉祥經［注解］
