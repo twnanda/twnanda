@@ -2,7 +2,7 @@
 ################
 
 :date: 2016-02-14
-:modified: 2025-05-28
+:modified: 2026-09-21
 :slug: index
 :lang: zh
 :order: 1
@@ -67,19 +67,18 @@
 
 - `佛教團體資源 <{filename}/articles/uncategorized/buddhist-org%zh.rst>`_
 
-  * `臺灣內觀中心 <http://www.udaya.dhamma.org/>`_
   * `法雨道場 <http://www.dhammarain.org.tw/>`_
+  * `臺灣內觀中心 <https://udaya.dhamma.org/zh-tw/>`_
   * `台灣南傳上座部佛教學院 <http://www.taiwandipa.org.tw/>`_
   * `法寂禪林 <http://www.buddhadipa.tw/>`_ 等等。
 
 - `電子佛典資源  <{filename}/articles/uncategorized/canon-resource%zh.rst>`_
 
   * `莊春江工作站 <http://agama.buddhason.org/>`_
-  * `巴利文佛典選譯 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_ (香港 志蓮淨苑)
+  * `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`_ (香港 志蓮淨苑)
   * `SuttaCentral <https://suttacentral.net/>`_ (包含漢文之多種語文)
   * `覺醒之翼——上座部佛教文獻選譯集 <http://www.theravadacn.org/>`_
-  * `Access to Insight <http://www.accesstoinsight.org/>`_ , `Sutta Piṭaka <https://www.dhammatalks.org/suttas/>`_ (Suttas from the Pāli Canon, translated by Ṭhānissaro Bhikkhu)
-  * `觉悟之路網 <http://dhamma.sutta.org/>`_ (上座部佛教, Theravada Buddhism, 漢文簡體)
+  * `Sutta Piṭaka <https://www.dhammatalks.org/suttas/>`_ (Suttas from the Pāli Canon, translated by Ṭhānissaro Bhikkhu), `Access to Insight <http://www.accesstoinsight.org/>`_ 
   * `多語言巴利藏閱讀 <http://tipitaka.sutta.org/>`_
   * `巴利字典-- 巴利-英文,中文,日文,越南文,緬甸文 字典 <http://dictionary.sutta.org/>`_ 
   * `佛學數位圖書館暨博物館 <http://ccbs.ntu.edu.tw/>`_ (＊Digital Library & Museum of Buddhist Studies; 原"台大佛學研究中心")
@@ -101,6 +100,7 @@
 
 
 ..
+  2026-09-21 rev.  old: `巴利文佛典選譯 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_ (香港 志蓮淨苑); del: * `觉悟之路網 <http://dhamma.sutta.org/>`_ (上座部佛教, Theravada Buddhism, 漢文簡體) (失效鏈結)
   05-28 rev. old: 【意想不到的自由】 {static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>
   2025-03-11 add 鄔達摩(Uttamo)長老出版品
   2024-05-20 add attribute of order=1 & replace filename with static on image and html
