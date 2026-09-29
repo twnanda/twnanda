@@ -3,7 +3,7 @@
 ===============================
 
 :date: 2026-09-27
-:modified: 2026-09-28
+:modified: 2026-09-29
 :tags: 校園民歌, 露莎蘭, 戴懷恩, Venson Tsai, Rosaland, lusalan, 蘇格蘭民謠, 以色列民謠, 陳式達, 陳式璉, 回來吧露莎蘭, 鄭惠端, 泣血杜鵑, 杜鵑泣血, He dies! the friend of sinners dies
 :category: 藝術-文化
 :summary: 有那麼一首校園民歌《露莎蘭》
@@ -215,6 +215,8 @@ Venson Tsai 寫作於 2022年6月
 
 **本網頁經作者 Venson Tsai 同意無償授權，轉載於此。**
 
+- `本文 PDF 檔 <https://nanda.online-dhamma.net/Academia-and-Education/study-campus-folk-song-lusalan.pdf>`_
+
 ------
 
 備註：
@@ -259,5 +261,6 @@ Venson Tsai 寫作於 2022年6月
 
 
 ..
+  09-29 add pdf file
   09-28 rev. linking of 有那麼一首校園民歌《露莎蘭》 (下) 完
   2026-09-27 post; create rst
