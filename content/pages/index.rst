@@ -2,7 +2,7 @@
 ################
 
 :date: 2016-02-14
-:modified: 2026-09-21
+:modified: 2026-10-09
 :slug: index
 :lang: zh
 :order: 1
@@ -79,6 +79,7 @@
   * `SuttaCentral <https://suttacentral.net/>`_ (包含漢文之多種語文)
   * `覺醒之翼——上座部佛教文獻選譯集 <http://www.theravadacn.org/>`_
   * `Sutta Piṭaka <https://www.dhammatalks.org/suttas/>`_ (Suttas from the Pāli Canon, translated by Ṭhānissaro Bhikkhu), `Access to Insight <http://www.accesstoinsight.org/>`_ 
+  * `三藏之路 <https://www.tipitaka.cn/>`_ Tipitaka Path——漢譯巴利三藏（南傳大藏經）線上閱讀（簡體）
   * `多語言巴利藏閱讀 <http://tipitaka.sutta.org/>`_
   * `巴利字典-- 巴利-英文,中文,日文,越南文,緬甸文 字典 <http://dictionary.sutta.org/>`_ 
   * `佛學數位圖書館暨博物館 <http://ccbs.ntu.edu.tw/>`_ (＊Digital Library & Museum of Buddhist Studies; 原"台大佛學研究中心")
@@ -100,6 +101,7 @@
 
 
 ..
+  10-09 add 三藏之路
   2026-09-21 rev.  old: `巴利文佛典選譯 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_ (香港 志蓮淨苑); del: * `觉悟之路網 <http://dhamma.sutta.org/>`_ (上座部佛教, Theravada Buddhism, 漢文簡體) (失效鏈結)
   05-28 rev. old: 【意想不到的自由】 {static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>
   2025-03-11 add 鄔達摩(Uttamo)長老出版品

@@ -3,7 +3,7 @@
 =============
 
 :date: 2008-07-27
-:modified: 2026-09-21
+:modified: 2026-10-09
 :tags: 電子佛典資源
 :category: 未分類
 :summary: 電子佛典資源
@@ -28,6 +28,8 @@
 
 - `SuttaCentral <https://suttacentral.net/>`_ , Early Buddhist texts, translations, and parallels [Pāli, Chinese, Sanskrit, Tibetan, Prākrit, Gāndhārī, etc. 巴利、漢文、梵文、藏文、普拉克里特諸語言(古印度土語)、犍陀羅語(健馱邏語) 等等]
 
+- `三藏之路 <https://www.tipitaka.cn/>`_ Tipitaka Path——漢譯巴利三藏（南傳大藏經）線上閱讀（簡體；經/律/論/義注/複註/隨附/藏外七藏；目錄，每段巴漢逐段對照、點詞查巴漢字典、經末歸納講解助讀。）
+
 - `覺醒之翼 <http://www.theravadacn.org/DhammaIndex2.htm>`_ ——上座部佛教文獻選譯集(漢文； `簡體 <http://www.theravadacn.org/>`__ )
 
 - `台語與佛典 <http://yifertw.blogspot.com/>`_ (探討漢譯四阿含與巴利五部尼柯耶的教導，也介紹古漢譯和台語的關聯。)(by 藏經閣外的掃葉人, 漢文)
@@ -36,7 +38,7 @@
 
 - `Pali 聖典 <https://palishengdian.blog.fc2.com>`__ （ `Pali 聖典舊站 <https://sites.google.com/site/palishengdian/>`__ ）
 
-- ` 阿含經專題  <https://www.jcedu.org/jlyj/ahj>`_ (戒幢佛教育網；漢文簡體)
+- `阿含經專題  <https://www.jcedu.org/jlyj/ahj>`_ (戒幢佛教育網；漢文簡體)
 
 - `Ancient Buddhist Texts <http://www.ancient-buddhist-texts.net/index.htm>`__ (in English)
 
@@ -85,6 +87,7 @@
 資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2569; (09.21, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2026 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 ..
+  10-09 add 三藏之路
   2026-09-21 rev.  巴利文佛典選譯; old: <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_ (香港 `志蓮淨苑文化部--佛學園圃 <http://www.chilin.edu.hk/edu/report.asp>`_ --5. 南傳佛教；或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`_ --南傳佛教)(漢文); 阿含經讀書會 <https://sites.google.com/site/nckujrcs/du-shu-hui>`__ ; `印順法師佛學著作集 <http://ipad.yinshun.org.tw/>`_ (new linking: 03.09 '12)
    old: 佛光電子大藏經 `線上簡易查詢 http://etext.fgs.org.tw/search01.aspx?index=1 、 `漢地佛國 <https://blog.udn.com/Pantisocracy/article>`__ (hidden)
    del:  巴漢、巴英比照對讀 `備用站 <http://epalitipitaka.appspot.com/>`__ ） (鍊結失效); `覺悟之路網 <http://dhamma.sutta.org/>`_ (上座部佛教, Theravada Buddhism, 漢文簡體； `中國境外 <http://anicca.online-dhamma.net/>`__ ) (鍊結失效); - `南傳佛教典籍 <http://www.fodian.net/nanchuan/nanchuan.htm>`__ (漢文簡體)(鍊結失效);     in English, `eBook <http://www.sasanarakkha.org/ebook/ebook.html>`__, `Publication <http://www.sasanarakkha.org/publication.html>`__ ; - `新修阿含藏 <http://a-vun.myweb.hinet.net/02/A/AHG/index.html>`__ （網站年久失修，多處連結失效；建議有興趣者直接下載閱讀： `新修佛經下載 <https://skydrive.live.com/?cid=3AB1CB8A20E303FE&id=3AB1CB8A20E303FE!7741>`__ 。 原始出處： `阿文的世界(潘文良) <http://a-vun.myweb.hinet.net/>`__ 。 07.07 '15）(鍊結失效);  (原始佛法)“三摩地學會”南傳經論文集(漢文)  ( www.samadhi-buddha.org/Item006_main.html, 暫時無效 temporarily unavailable) (鍊結失效)

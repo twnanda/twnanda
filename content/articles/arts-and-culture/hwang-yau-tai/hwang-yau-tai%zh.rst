@@ -137,7 +137,9 @@
   12-04 add images of heading
   12-01 rev. replace music-papers%zh.rst with sheet-music%zh.rst
   2025-11-21 post; 11-08 created rst; start on 2025-11-07
-  (建構中！)
+  (建構中！) psudo-hidden
+   https://drive.google.com/drive/folders/1oO5WAdBek3TjDpPyirdAXR634LE68bgF?usp=sharing
+
   資料庫檢索	MusicWorksGuide.aspx
 
 		分類查詢	MusicWorksGuide.aspx
