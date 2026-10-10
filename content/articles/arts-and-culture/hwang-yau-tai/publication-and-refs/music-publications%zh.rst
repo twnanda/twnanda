@@ -3,7 +3,7 @@
 =========================================
 
 :date: 2025-11-21
-:modified: 2026-10-09
+:modified: 2026-10-10
 :tags: 黃友棣音樂數位資料庫, 黃友棣, 黃友棣教授, 樂風泱泱, 大樂必易
 :category: 藝術-文化
 :summary: 音樂著作（黃友棣音樂數位資料庫）
@@ -210,6 +210,8 @@
          
             封面及歌名題字——韋瀚章先生
 
+         `唐宋詩詞合唱曲（第一輯）PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%94%90%E5%AE%8B%E8%A9%A9%E8%A9%9E%E5%90%88%E5%94%B1%E6%9B%B2%EF%BC%88%E7%AC%AC%E4%B8%80%E8%BC%AF%EF%BC%89.pdf>`_
+
          ——————————————————————————————————————————
 
        	.. _`唐宋詩詞合唱曲（第二輯）`:
@@ -289,6 +291,8 @@
             封面及歌名題字——韋瀚章先生
          
             香港幸運樂譜服務社印行
+
+         `唐宋詩詞合唱曲（第二輯）PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%94%90%E5%AE%8B%E8%A9%A9%E8%A9%9E%E5%90%88%E5%94%B1%E6%9B%B2%EF%BC%88%E7%AC%AC%E4%BA%8C%E8%BC%AF%EF%BC%89.pdf>`_
 
          ——————————————————————————————————————————
 
@@ -457,7 +461,7 @@
 
        	.. _`黃友棣作品專集（二）獨唱藝術歌曲選`:
 
-       - **黃友棣作品專集  （二）唐宋詩詞合唱曲**
+       - **黃友棣作品專集  （二）獨唱藝術歌曲選**
        
          黃友棣 ∕ 樂譜 ∕ 騰譜及出版： 香港幸運樂譜騰印服務社 / 1987
 
@@ -846,6 +850,8 @@
               - 1985
               - 231
 
+         `黃友棣作品專集（二）獨唱藝術歌曲選PDF <https://drive.google.com/file/d/1UFUh88GWMzg_GaTFKB9xybCUhrFbLd5J/view>`_
+
          ——————————————————————————————————————————
 
        	.. _`黃友棣作品專集（三）合唱藝術歌曲選`:
@@ -1177,6 +1183,8 @@
               - 何志浩
               - 1985
               - 287
+
+         `黃友棣作品專集（三）合唱藝術歌曲選PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E9%BB%83%E5%8F%8B%E6%A3%A3%E4%BD%9C%E5%93%81%E5%B0%88%E9%9B%86%EF%BC%88%E4%B8%89%EF%BC%89%E5%90%88%E5%94%B1%E8%97%9D%E8%A1%93%E6%AD%8C%E6%9B%B2%E9%81%B8.pdf>`_
 
          ——————————————————————————————————————————
 
@@ -1520,9 +1528,8 @@
               - 黃瑩
               - 1989
               -
-         
 
-
+         `黃友棣作品專集（三）B合唱藝術歌曲選PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E9%BB%83%E5%8F%8B%E6%A3%A3%E4%BD%9C%E5%93%81%E5%B0%88%E9%9B%86%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%A2%E5%90%88%E5%94%B1%E8%97%9D%E8%A1%93%E6%AD%8C%E6%9B%B2%E9%81%B8.pdf>`_
 
          ——————————————————————————————————————————
 
@@ -1664,6 +1671,7 @@
               -
               - 220
 
+         `黃友棣作品專集（四）合唱民歌組曲選PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E9%BB%83%E5%8F%8B%E6%A3%A3%E4%BD%9C%E5%93%81%E5%B0%88%E9%9B%86%EF%BC%88%E5%9B%9B%EF%BC%89%E5%90%88%E5%94%B1%E6%B0%91%E6%AD%8C%E7%B5%84%E6%9B%B2%E9%81%B8.pdf>`_
 
          ——————————————————————————————————————————
 
@@ -2814,6 +2822,8 @@
               - 1941
               - 332
 
+         `黃友棣作品專集（八）同聲（少年）合唱歌曲選PDF <https://drive.google.com/file/d/1TeXYg4jhHvA03hJ4MqYVtYFRWnTJfShF/view>`_
+
          ——————————————————————————————————————————
 
        	.. _`黃友棣作品專集（九）清唱劇．歌劇．舞劇選`:
@@ -2953,6 +2963,8 @@
               - 黃友棣
               - 1991
               - 319–345
+
+         `黃友棣作品專集（九）清唱劇．歌劇．舞劇選PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E9%BB%83%E5%8F%8B%E6%A3%A3%E4%BD%9C%E5%93%81%E5%B0%88%E9%9B%86%EF%BC%88%E4%B9%9D%EF%BC%89%E6%B8%85%E5%94%B1%E5%8A%87%E2%80%A7%E6%AD%8C%E5%8A%87%E2%80%A7%E8%88%9E%E5%8A%87%E9%81%B8.pdf>`_
 
          ——————————————————————————————————————————
 
@@ -3128,6 +3140,8 @@
               - 黃友棣
               - 220
 
+         `黃友棣作品專集（十）中國藝術歌曲選萃（合唱新編）（增訂本）PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E9%BB%83%E5%8F%8B%E6%A3%A3%E4%BD%9C%E5%93%81%E5%B0%88%E9%9B%86%EF%BC%88%E4%B9%9D%EF%BC%89%E6%B8%85%E5%94%B1%E5%8A%87%E2%80%A7%E6%AD%8C%E5%8A%87%E2%80%A7%E8%88%9E%E5%8A%87%E9%81%B8.pdf>`_
+
          ——————————————————————————————————————————
 
        	.. _`樂府新聲――黃友棣合唱新歌曲集`:
@@ -3286,6 +3300,7 @@
               - 黃瑩
               - 185
 
+         `樂府新聲――黃友棣合唱新歌曲集PDF <https://drive.google.com/file/d/1z8WqOAKaH9jR6ZyBF3HRA6oC6OmxgDLg/view>`_
 
          ——————————————————————————————————————————
 
@@ -3533,6 +3548,8 @@
               - 阮不知啦
               - 212
 
+         `黃友棣教授新編閩南語歌謠合唱組曲PDF <https://drive.google.com/file/d/1MS-AsGLfF18kxGkrNLHp_8cLUqRac0GR/view>`_
+
          ——————————————————————————————————————————
 
        	.. _`金門之歌`:
@@ -3570,6 +3587,8 @@
             聯篇合唱歌曲，五章；1982年。
          
             出版／發行：中國音樂書房
+
+         `金門之歌PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E9%87%91%E9%96%80%E4%B9%8B%E6%AD%8C.pdf>`_
 
          ——————————————————————————————————————————
 
@@ -3818,6 +3837,8 @@
 
             （台北東大圖書公司出版）
 
+         `芳菲集PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E8%8A%B3%E8%8F%B2%E9%9B%86.pdf>`_
+
          ——————————————————————————————————————————
 
        	.. _`中國民歌組曲集（第一集）`:
@@ -3938,6 +3959,8 @@
          
             原目錄第 3 首〈蒙古牧歌〉頁數誤植為 27–34；
             據紙本及 PDF 正文校訂為 27–43。第 44 頁另插〈黃花歌〉。
+
+         `中國民歌組曲集（第一集）PDF <https://drive.google.com/file/d/1NQi_gG8-Cho8Z0csZln8Uz1ytzOcw1Aj/view>`_
 
          ——————————————————————————————————————————
 
@@ -4073,8 +4096,11 @@
               -
               - 207–210
 
+         `中國民歌組曲集（第二集）PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%B8%AD%E5%9C%8B%E6%B0%91%E6%AD%8C%E7%B5%84%E6%9B%B2%E9%9B%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E9%9B%86%EF%BC%89.pdf>`_
+
 
 ..
+  2026-10-10 add some PDF (from 唐宋詩詞合唱曲（第一輯） to 中國民歌組曲集（第二集）)
   2026-10-06 add from 唐宋詩詞合唱曲（第一輯） to 中國民歌組曲集（第二集）
   12-03 rev. add icon and photo
   2025-11-21 post; 11-12 created rst
