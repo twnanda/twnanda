@@ -48,6 +48,13 @@
 .. |pic2| image:: https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage/magnificent-style-of-music/dot.gif
    :width: 2%
 
+------
+
+`黃友棣教授作品彙誌 <{filename}../hwang-yau-tai-collection-of-works%zh.rst>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+------
+
 .. list-table:: 音樂著作
    :widths: 10 90
 
@@ -4098,8 +4105,14 @@
 
          `中國民歌組曲集（第二集）PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%B8%AD%E5%9C%8B%E6%B0%91%E6%AD%8C%E7%B5%84%E6%9B%B2%E9%9B%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E9%9B%86%EF%BC%89.pdf>`_
 
+------
+
+`黃友棣教授作品彙誌 <{filename}../hwang-yau-tai-collection-of-works%zh.rst>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 ..
+  10-11 add 黃友棣教授作品彙誌
   2026-10-10 add some PDF (from 唐宋詩詞合唱曲（第一輯） to 中國民歌組曲集（第二集）)
   2026-10-06 add from 唐宋詩詞合唱曲（第一輯） to 中國民歌組曲集（第二集）
   12-03 rev. add icon and photo

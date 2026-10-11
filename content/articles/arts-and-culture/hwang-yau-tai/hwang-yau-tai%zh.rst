@@ -3,7 +3,7 @@
 =======================
 
 :date: 2025-11-21
-:modified: 2025-12-06
+:modified: 2026-10-11
 :tags: 黃友棣音樂數位資料庫, 黃友棣, 黃友棣教授, 樂風泱泱, 大樂必易
 :category: 藝術-文化
 :summary: 黃友棣音樂數位資料庫
@@ -40,6 +40,13 @@
      :alt: 黃友棣教授-2
      :align: center
      :width: 50%
+
+------
+
+`黃友棣教授作品彙誌 <{filename}hwang-yau-tai-collection-of-works%zh.rst>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+------
 
 .. _樂風泱泱:
 
@@ -131,8 +138,14 @@
 
 取材自： 高雄市政府文化局 （ `頁面存檔備份 <https://web.archive.org/web/20100212170156/http://mim.khcc.gov.tw/hyl/1_1index.asp>`__ ，存於網際網路檔案館, 2010-02-12）
 
+------
+
+`黃友棣教授作品彙誌 <{filename}hwang-yau-tai-collection-of-works%zh.rst>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 ..
+  2026-10-11 add 黃友棣教授作品彙誌
   12-06 add photos of homepage
   12-04 add images of heading
   12-01 rev. replace music-papers%zh.rst with sheet-music%zh.rst
