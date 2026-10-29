@@ -65,7 +65,7 @@ revised on 2024-07-09
 **According to the translator— Ven. Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2026-10-29 del. "animal homo" proofread by bhante Uttamo
+  2026-10-29 del. `animal homo` proofread by bhante Uttamo
   07-09 rev. proofread by bhante Uttamo
   06-09 rev. proofread by bhante Uttamo
   2024-03-27 create rst
