@@ -220,7 +220,7 @@
 * 勝利的前奏
 
 .. note::
-   ( `解說見「音樂創作散記」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E9%9F%B3%E6%A8%82%E5%89%B5%E4%BD%9C%E6%95%A3%E8%A8%98.pdf>`__  <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E9%9F%B3%E6%A8%82%E5%89%B5%E4%BD%9C%E6%95%A3%E8%A8%98.pdf>`__ 第十九篇)
+   ( `解說見「音樂創作散記」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E9%9F%B3%E6%A8%82%E5%89%B5%E4%BD%9C%E6%95%A3%E8%A8%98.pdf>`__ 第十九篇)
 
 
 二〇、中國小曲兩首（提琴獨奏曲）「米蘭 Carisch 公司印行」
@@ -277,7 +277,7 @@
 * 舟中（舟過吳江，舟宿茜灣）（蔣捷）
 
 .. note::
-   (各曲`解說見「音樂創作散記」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E9%9F%B3%E6%A8%82%E5%89%B5%E4%BD%9C%E6%95%A3%E8%A8%98.pdf>`__ 第二十七篇)
+   (各曲 `解說見「音樂創作散記」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E9%9F%B3%E6%A8%82%E5%89%B5%E4%BD%9C%E6%95%A3%E8%A8%98.pdf>`__ 第二十七篇)
 
 
 二四、舞劇曲集（何志浩）「幸運社」
@@ -661,7 +661,7 @@
 .. note::
    (獨唱歌曲三首，合唱一首)
 
-   (王文山先生喜歡作歌詞，遍邀國內作曲人士爲他的歌詞作曲。凡是他送來的歌詞，作好樂曲，他就負責情人謄譜與印刷，也就等於減輕了我的負擔了。上列各歌曲之解說，見「音樂創作散記」第三十八篇與第三十九篇。)
+   (王文山先生喜歡作歌詞，遍邀國內作曲人士爲他的歌詞作曲。凡是他送來的歌詞，作好樂曲，他就負責情人謄譜與印刷，也就等於減輕了我的負擔了。上列各歌曲之解說，見 `解說見「音樂創作散記」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E9%9F%B3%E6%A8%82%E5%89%B5%E4%BD%9C%E6%95%A3%E8%A8%98.pdf>`__ 第三十八篇與第三十九篇。)
 
 
 六五、雲南民歌組曲（彌度山歌）（合唱）「作品專集第四冊」
@@ -758,7 +758,7 @@
 
 .. note::
    (最後用大合唱「雲南民歌組曲」（彌度山歌）爲總結束)
-   (爲賀香港香島專學校二十一周年而作。曾用歌劇形式演出，由香港麗的呼聲電視臺播。`解說見「音樂創作散記」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E9%9F%B3%E6%A8%82%E5%89%B5%E4%BD%9C%E6%95%A3%E8%A8%98.pdf>`__ 第四十六篇，「音樂人生」第二十三篇。)
+   (爲賀香港香島專學校二十一周年而作。曾用歌劇形式演出，由香港麗的呼聲電視臺播。`解說見「音樂創作散記」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E9%9F%B3%E6%A8%82%E5%89%B5%E4%BD%9C%E6%95%A3%E8%A8%98.pdf>`__ 第四十六篇， `「音樂人生」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E9%9F%B3%E6%A8%82%E4%BA%BA%E7%94%9F.pdf>`__ 第二十三篇。)
 
 
 七六、國民生活歌曲四首（齊唱歌曲）「教育部文化局」
@@ -3360,6 +3360,7 @@
         PS: 樂教流芳 → 五　論樂文摘一百篇 →  (B)欣賞方法（二十五篇） →  （二十五）詩經裡的「摽有梅」; 
         add: linking of 詳細 解說見「音樂創作散記」; 
              逆旅之夜  （附註：第三十六篇：碧海夜遊）
+             七五、雲南跳月（雲南民歌組曲）→ 「音樂人生」
 
   10-24 rev. 鄭禹平（誤） → 鄧禹平; 印出隻為贈送（誤） → 印出只為贈送; 方燕軍（誤） → 方蕪軍
   10-21 add 作品解說PDF; rev. 驪德頌（誤） → 驢德頌; 樂圖長春（誤） → 樂圃長春; 樂園長春（誤） → 樂圃長春; 樂面長春（誤） → 樂圃長春; 樂風決決（誤） → 樂風泱泱; 孟薑女（誤） → 孟姜女; 思義夫婦合唱團（誤） → 思義夫合唱團; 「樂境花開」第五十八篇（誤） → 「樂苑春回」第五十八篇; 明明儀合唱團（誤） → 賀明儀合唱團; 野草讀（黃螢）（誤） → 野草讚（黃瑩）; 樂浦珠選（誤） → 樂浦珠還
