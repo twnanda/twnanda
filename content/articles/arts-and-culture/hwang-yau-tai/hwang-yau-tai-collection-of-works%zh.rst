@@ -3,7 +3,7 @@
 ==========================================
 
 :date: 2026-10-11
-:modified: 2026-11-08
+:modified: 2026-11-09
 :tags: 黃友棣音樂數位資料庫, 黃友棣, 黃友棣教授, 樂風泱泱, 大樂必易
 :category: 藝術-文化
 :summary: 黃友棣作品彙誌——作品編號與附記（黃友棣音樂數位資料庫）
@@ -204,7 +204,7 @@
 ------------------------------------------------------
 
 .. note::
-   (解說見「樂韻飄香」第二十三篇)
+   ( `解說見「樂韻飄香」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%9F%BB%E9%A3%84%E9%A6%99.pdf>`__ 第二十三篇)
 
 
 一九五八年至一九六三年，在義大利進修，下列作品由十九號至二十四號，皆是作成於羅馬，返香港乃陸續印出。
@@ -263,7 +263,7 @@
 * 尋泉記（傳奇曲）
 
 .. note::
-   (各曲解說見「樂韻飄香」第二十三篇)
+   (各曲 `解說見「樂韻飄香」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%9F%BB%E9%A3%84%E9%A6%99.pdf>`__ 第二十三篇)
 
 
 二三、藝術新歌（獨唱新歌十首）「幸運社」
@@ -733,7 +733,7 @@
 ----------------------------------------
 
 .. note::
-   (這是作品第三十四號的重訂本。解說見「樂韻飄香」第二十二篇，「樂風泱泱」第十六篇。)
+   (這是作品第三十四號的重訂本。 `解說見「樂韻飄香」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%9F%BB%E9%A3%84%E9%A6%99.pdf>`__ 第二十二篇，「樂風泱泱」第十六篇。)
 
 
 七四、大板城姑娘（中國民歌組曲）（合唱）「作品專集第四冊」
@@ -1185,7 +1185,7 @@
 * 黃鶯
 
 .. note::
-   (獨唱曲 `解說見「音樂人生」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E9%9F%B3%E6%A8%82%E4%BA%BA%E7%94%9F.pdf>`__ 第十二篇。後來，應香港音專之請，於一九八〇年改編爲合唱曲，印在作品專集第三冊，解說見「樂韻飄香」第二十七篇)
+   (獨唱曲 `解說見「音樂人生」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E9%9F%B3%E6%A8%82%E4%BA%BA%E7%94%9F.pdf>`__ 第十二篇。後來，應香港音專之請，於一九八〇年改編爲合唱曲，印在作品專集第三冊， `解說見「樂韻飄香」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%9F%BB%E9%A3%84%E9%A6%99.pdf>`__ 第二十七篇)
 
 
 一二六、秋夜聞笛（女低音獨唱，鋼琴伴奏，長笛輔奏）（韋瀚章）
@@ -1844,7 +1844,7 @@
 * 風荷（蔣捷，燕歸梁）
 
 .. note::
-   (解說見「樂韻飄香」第二十六篇)
+   ( `解說見「樂韻飄香」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%9F%BB%E9%A3%84%E9%A6%99.pdf>`__ 第二十六篇)
 
 
 一八九、澎湖姑娘（二部合唱）（何志浩）
@@ -1855,8 +1855,8 @@
 --------------------------------------------
 
 .. note::
-   (上列三輯唐宋詩詞合唱曲，解說見「樂韻飄香」第二十一篇)
-   (上列兩首歌曲，均印於作品專集第八冊，解說見「樂韻飄香」第二十七，二十八篇)
+   (上列三輯唐宋詩詞合唱曲， `解說見「樂韻飄香」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%9F%BB%E9%A3%84%E9%A6%99.pdf>`__ 第二十一篇)
+   (上列兩首歌曲，均印於作品專集第八冊， `解說見「樂韻飄香」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%9F%BB%E9%A3%84%E9%A6%99.pdf>`__ 第二十七，二十八篇)
 
 
 一九八一年
@@ -1870,7 +1870,7 @@
 * 愛在人間
 
 .. note::
-   (解說見「樂韻飄香」第二十四篇)
+   ( `解說見「樂韻飄香」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%9F%BB%E9%A3%84%E9%A6%99.pdf>`__ 第二十四篇)
 
 
 一九二、春風攪動楊柳梢（合唱民歌組曲）「作品專集第四冊」
@@ -1881,7 +1881,7 @@
 * 繡荷包（山西民歌）
 
 .. note::
-   (解說見「樂韻飄香」第二十六篇)
+   ( `解說見「樂韻飄香」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%9F%BB%E9%A3%84%E9%A6%99.pdf>`__ 第二十六篇)
 
 
 一九三、社教歌曲三首「美哉中華」
@@ -1892,7 +1892,7 @@
 3. 自強晨跑歌（何志浩）「中華民國體育協會請作」
 
 .. note::
-   (解說見「樂韻飄香」第二十九篇)
+   ( `解說見「樂韻飄香」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%9F%BB%E9%A3%84%E9%A6%99.pdf>`__ 第二十九篇)
 
 
 一九四、母親您在何方（合唱）（周定遠）
@@ -1907,7 +1907,7 @@
 * 春天的陽光
 
 .. note::
-   (解說見「樂韻飄香」第二十五篇)
+   ( `解說見「樂韻飄香」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%9F%BB%E9%A3%84%E9%A6%99.pdf>`__ 第二十五篇)
 
 
 一九六、社教歌曲二首（合唱）「美哉中華」
@@ -1942,7 +1942,7 @@
 * 喜相逢（掀起你的蓋頭來，新疆維吾爾族民歌）
 
 .. note::
-   (解說見「樂韻飄香」第二十六篇)
+   ( `解說見「樂韻飄香」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%9F%BB%E9%A3%84%E9%A6%99.pdf>`__ 第二十六篇)
 
 
 一九九、中華民族萬壽無疆（合唱）（毛松年）「僑委會」
@@ -3356,6 +3356,7 @@
 
 
 ..
+  11-09 add: linking of 解說見「樂韻飄香」
   11-08 rev. 揀有梅（誤） → 摽有梅 
         PS: 樂教流芳 → 五　論樂文摘一百篇 →  (B)欣賞方法（二十五篇） →  （二十五）詩經裡的「摽有梅」; 
         add: linking of 詳細 解說見「音樂創作散記」; 
