@@ -3,7 +3,7 @@
 ==========================================
 
 :date: 2026-10-11
-:modified: 2026-11-09
+:modified: 2026-11-12
 :tags: 黃友棣音樂數位資料庫, 黃友棣, 黃友棣教授, 樂風泱泱, 大樂必易
 :category: 藝術-文化
 :summary: 黃友棣作品彙誌——作品編號與附記（黃友棣音樂數位資料庫）
@@ -733,7 +733,7 @@
 ----------------------------------------
 
 .. note::
-   (這是作品第三十四號的重訂本。 `解說見「樂韻飄香」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%9F%BB%E9%A3%84%E9%A6%99.pdf>`__ 第二十二篇，「樂風泱泱」第十六篇。)
+   (這是作品第三十四號的重訂本。 `解說見「樂韻飄香」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%9F%BB%E9%A3%84%E9%A6%99.pdf>`__ 第二十二篇， `「樂風泱泱」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%A2%A8%E6%B3%B1%E6%B3%B1.pdf>`__ 第十六篇。)
 
 
 七四、大板城姑娘（中國民歌組曲）（合唱）「作品專集第四冊」
@@ -1280,7 +1280,7 @@
 --------------------------------------------------------------------
 
 .. note::
-   ( `解說見「音樂人生」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E9%9F%B3%E6%A8%82%E4%BA%BA%E7%94%9F.pdf>`__ 第二十篇，「樂韻飄香」第二十八篇)
+   ( `解說見「音樂人生」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E9%9F%B3%E6%A8%82%E4%BA%BA%E7%94%9F.pdf>`__ 第二十篇， `「樂韻飄香」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E9%9F%BB%E9%A3%84%E9%A6%99.pdf>`__ 第二十八篇)
 
 
 一三七、在銀色的月光下（新疆民歌）（歌詞稍加修訂）「作品專集第四冊」
@@ -1452,7 +1452,7 @@
 2. 岡陵頌（程瑞流）
 
 .. note::
-   ( `解說見「樂境花開」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E5%A2%83%E8%8A%B1%E9%96%8B.pdf>`__ 第二十三篇，「樂浦珠還」第十三篇)
+   ( `解說見「樂境花開」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E5%A2%83%E8%8A%B1%E9%96%8B.pdf>`__ 第二十三篇， `「樂浦珠還」 <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AA-cited-from-%E6%A8%82%E6%B5%A6%E7%8F%A0%E9%82%84.pdf>`__ 第十三篇)
 
 
 一五三、笑哈哈（合唱）（韋瀚章）「作品專集第三冊」
@@ -3356,6 +3356,7 @@
 
 
 ..
+  11-12 add: linking of 「樂風泱泱」第十六篇; 「樂韻飄香」第二十八篇; 「樂浦珠還」第十三篇
   11-09 add: linking of 解說見「樂韻飄香」
   11-08 rev. 揀有梅（誤） → 摽有梅 
         PS: 樂教流芳 → 五　論樂文摘一百篇 →  (B)欣賞方法（二十五篇） →  （二十五）詩經裡的「摽有梅」; 
