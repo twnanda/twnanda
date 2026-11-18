@@ -3,7 +3,7 @@
 =============
 
 :date: 2008-07-27
-:modified: 2026-10-09
+:modified: 2026-11-18
 :tags: 電子佛典資源
 :category: 未分類
 :summary: 電子佛典資源
@@ -37,6 +37,10 @@
 - `Dhamma Talks <http://www.dhammatalks.net/>`__ , for attaining Peace from Knowing and Seeing, a Handful of Leaves (multilingual-- English, Chinese, Japanese, ไทย, Myanmar, Sinhalese, Deutsch, Español, Français, Italiano, Português, Swedish, Hebrew, Indonesian, Malay, Vietnamese etc. 多種語文-- 英、漢、日、泰、緬、錫蘭、德、西、法、義、葡、瑞典、俄、希伯來、印尼、馬來、越文 等等)
 
 - `Pali 聖典 <https://palishengdian.blog.fc2.com>`__ （ `Pali 聖典舊站 <https://sites.google.com/site/palishengdian/>`__ ）
+
+- `一天一偈 <https://sutta423.com/zh-hant/>`__ （法句經閱讀 App）
+
+   讀它。陪它坐一會兒。幾分鐘，就夠了。每天一段安靜的法句經閱讀。不打卡。沒有壓力。只有教導，一天又一天。(目前僅提供 iOS, Apple蘋果版手機)
 
 - `阿含經專題  <https://www.jcedu.org/jlyj/ahj>`_ (戒幢佛教育網；漢文簡體)
 
@@ -84,9 +88,10 @@
 
 ------
 
-資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2569; (09.21, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2026 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
+資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2569; (11.18, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2026 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 ..
+  11-18 add 一天一偈（法句經閱讀）
   10-09 add 三藏之路
   2026-09-21 rev.  巴利文佛典選譯; old: <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_ (香港 `志蓮淨苑文化部--佛學園圃 <http://www.chilin.edu.hk/edu/report.asp>`_ --5. 南傳佛教；或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`_ --南傳佛教)(漢文); 阿含經讀書會 <https://sites.google.com/site/nckujrcs/du-shu-hui>`__ ; `印順法師佛學著作集 <http://ipad.yinshun.org.tw/>`_ (new linking: 03.09 '12)
    old: 佛光電子大藏經 `線上簡易查詢 http://etext.fgs.org.tw/search01.aspx?index=1 、 `漢地佛國 <https://blog.udn.com/Pantisocracy/article>`__ (hidden)
