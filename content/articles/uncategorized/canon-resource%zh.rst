@@ -28,7 +28,7 @@
 
 - `SuttaCentral <https://suttacentral.net/>`_ , Early Buddhist texts, translations, and parallels [Pāli, Chinese, Sanskrit, Tibetan, Prākrit, Gāndhārī, etc. 巴利、漢文、梵文、藏文、普拉克里特諸語言(古印度土語)、犍陀羅語(健馱邏語) 等等]
 
-- `巴利三藏漢譯 <https://michojk.github.io/>_ (米球（Micho）的南傳巴利三藏現代語譯)
+- `巴利三藏漢譯 <https://michojk.github.io/>`_ (米球（Micho）的南傳巴利三藏現代語譯)
 
   關於這套譯本：底本--Mahāsaṅgīti 版巴利三藏（取自 SuttaCentral）。
 
