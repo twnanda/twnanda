@@ -3,7 +3,7 @@
 =============
 
 :date: 2008-07-27
-:modified: 2026-11-18
+:modified: 2026-11-20
 :tags: 電子佛典資源
 :category: 未分類
 :summary: 電子佛典資源
@@ -27,6 +27,12 @@
   依上述 `The Tipitaka website <http://www.tipitaka.org/>`__ (VRI)架構，做比照對讀；且附有點選巴利語即時翻譯之功能。因站長幾乎是獨立作業，所以進度無法如大眾所願。誠徵發心大德共襄盛舉！意洽該站站主，或由本站管理者 lsn46＜ａｔ＞mail（ｄｏｔ）ncku（ｄｏｔ）edu（ｄｏｔ）tw 轉告。(new linking: 09.23 '12)
 
 - `SuttaCentral <https://suttacentral.net/>`_ , Early Buddhist texts, translations, and parallels [Pāli, Chinese, Sanskrit, Tibetan, Prākrit, Gāndhārī, etc. 巴利、漢文、梵文、藏文、普拉克里特諸語言(古印度土語)、犍陀羅語(健馱邏語) 等等]
+
+- `巴利三藏漢譯 <https://michojk.github.io/>_ (米球（Micho）的南傳巴利三藏現代語譯)
+
+  關於這套譯本：底本--Mahāsaṅgīti 版巴利三藏（取自 SuttaCentral）。
+
+  阿含引文：《早期共通核心選編》的阿含對讀所引漢譯，取自 CBETA 電子佛典所錄的《大正新脩大藏經》，經由 SuttaCentral 取得，依創用 CC 姓名標示－非商業性－相同方式分享 4.0 國際授權條款使用。引文照原樣錄出，只刪去大正藏的行號。
 
 - `三藏之路 <https://www.tipitaka.cn/>`_ Tipitaka Path——漢譯巴利三藏（南傳大藏經）線上閱讀（簡體；經/律/論/義注/複註/隨附/藏外七藏；目錄，每段巴漢逐段對照、點詞查巴漢字典、經末歸納講解助讀。）
 
@@ -88,9 +94,10 @@
 
 ------
 
-資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2569; (11.18, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2026 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
+資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2569; (11.20, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2026 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 ..
+  11-20 add 米球（Micho）的南傳巴利三藏現代語譯)
   11-18 add 一天一偈（法句經閱讀）
   10-09 add 三藏之路
   2026-09-21 rev.  巴利文佛典選譯; old: <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_ (香港 `志蓮淨苑文化部--佛學園圃 <http://www.chilin.edu.hk/edu/report.asp>`_ --5. 南傳佛教；或 `志蓮淨苑文化部--研究員工作--研究文章 <http://www.chilin.edu.hk/edu/work_paragraph.asp>`_ --南傳佛教)(漢文); 阿含經讀書會 <https://sites.google.com/site/nckujrcs/du-shu-hui>`__ ; `印順法師佛學著作集 <http://ipad.yinshun.org.tw/>`_ (new linking: 03.09 '12)

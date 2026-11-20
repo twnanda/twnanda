@@ -2,7 +2,7 @@
 ################
 
 :date: 2016-02-14
-:modified: 2026-10-09
+:modified: 2026-11-20
 :slug: index
 :lang: zh
 :order: 1
@@ -76,6 +76,7 @@
 
   * `莊春江工作站 <http://agama.buddhason.org/>`_
   * `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`_ (香港 志蓮淨苑)
+  * `巴利三藏漢譯 <https://michojk.github.io/>_ (米球（Micho）的南傳巴利三藏現代語譯)
   * `SuttaCentral <https://suttacentral.net/>`_ (包含漢文之多種語文)
   * `覺醒之翼——上座部佛教文獻選譯集 <http://www.theravadacn.org/>`_
   * `Sutta Piṭaka <https://www.dhammatalks.org/suttas/>`_ (Suttas from the Pāli Canon, translated by Ṭhānissaro Bhikkhu), `Access to Insight <http://www.accesstoinsight.org/>`_ 
@@ -101,6 +102,7 @@
 
 
 ..
+  11-20 add 米球（Micho）的南傳巴利三藏現代語譯)
   10-09 add 三藏之路
   2026-09-21 rev.  old: `巴利文佛典選譯 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_ (香港 志蓮淨苑); del: * `觉悟之路網 <http://dhamma.sutta.org/>`_ (上座部佛教, Theravada Buddhism, 漢文簡體) (失效鏈結)
   05-28 rev. old: 【意想不到的自由】 {static}/extra/authors/ajahn-munindo/unexpected-freeodm/cmn-Hans/index-han.html>
