@@ -3,7 +3,7 @@ A Noble Search [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ===============================================================
 
 :date: 2022-02-13
-:modified: 2024-11-13
+:modified: 2026-11-21
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Noble Search (Dhamma Talks by Sayadaw U Candima)
@@ -480,7 +480,7 @@ If no person exists, and no need for practice. While mind exists, mental states 
 
 Sati is the result dhamma. At the time of the cessation of mental states (factors), it enters Nibbāna as a result. Nibbāna cannot be created with one’s desire. The clinging to “I”, and “me” diṭṭhi-taṇhā cease. 
 
-I was not entering the steam yet (i.e., sotāpatti magga). It was near of entering the path. My teacher came back from the toilet, and opening the door, it was making the sound of chwee! And I regained my sati. When the mind arose in contact with the sound and the ear, sati cut it off at this moment. This was entering the stream. Before this mind was wanting to contemplate, to know, and to desire. What was sticking with the mind? 
+I was not entering the stream yet (i.e., sotāpatti magga). It was near of entering the path. My teacher came back from the toilet, and opening the door, it was making the sound of chwee! And I regained my sati. When the mind arose in contact with the sound and the ear, sati cut it off at this moment. This was entering the stream. Before this mind was wanting to contemplate, to know, and to desire. What was sticking with the mind? 
 
 The I-ness of diṭṭhi-taṇhā-māna was sticking with the mind. The mind came to overwhelm sati before and it was now in cessation. So this sati was left behind as an object of contemplation. Now this ownerless sati with the cause ceased, and became the resulted anatta sati (not-self mindfulness) which didn’t have a person, a being or me.  The mind clinging to the result of the cause as my khandha was arising this loneliness of sati discerned the identity view of atta and craving (diṭṭhi-taṇhā). Here is the cessation of the five khandhas when the object and contemplative mind were freed from atta.
 
@@ -544,6 +544,7 @@ revised on 2023-07-30
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2026-11-21 rev. proofread by bhante; old: and at the clear from of ear arhh! sound; I was not entering the steam yet (i.e., sotāpatti magga).
   2024-11-13 rev. proofread by bhante; erase very similar to ..., ..., ...; old: Path knowledge is the cause, and fruition knowledge is the result, very similar to jhāna. To become mature, skills have to be developed many times.
   07-30 rev. old: in Thailand at the beginning of the 20th century villages, and forests did not have clear boundaries.
   2023-06-08 rev. proofread by bhante

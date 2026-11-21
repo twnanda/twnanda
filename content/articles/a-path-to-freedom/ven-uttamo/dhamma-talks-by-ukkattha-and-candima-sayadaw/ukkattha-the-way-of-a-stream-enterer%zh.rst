@@ -3,7 +3,7 @@ The Way of a Stream Enterer (Dhamma Talks by Sayadaw U Ukkaṭṭha)
 ===================================================================
 
 :date: 2022-02-13
-:modified: 2022-08-05
+:modified: 2026-11-21
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Ukkaṭṭha, Two Sides of A Coin
 :category: path of nirvana
 :summary: The Way of a Stream Enterer (Dhamma Talks by Sayadaw U Ukkaṭṭha)
@@ -58,7 +58,7 @@ There used to be many red flag communists over in the countryside before.
 
 (After Burma Independence in 1948 Burmese communist parties started the revolution. They were one party before, they split into two later; one inclining toward Soviet Russia and the other toward China.) 
 
-I had to make friend with them. Even before, I was not afraid of the Red Flat. Here I am talking about the mind. We were also bad that once time arrested by the red flag group. When I was in prison, my second younger brother was killed by them. (It seems he was put in a communist cell and not by the government.)
+I had to make friend with them. Even before, I was not afraid of the Red Flag. Here I am talking about the mind. We were also bad that once time arrested by the red flag group. When I was in prison, my second younger brother was killed by them. (It seems he was put in a communist cell and not by the government.)
 
 As soon as I heard the news, I was so angry and making an angry sound. When hearing and knowing something we don’t like become angry, but with what we like it becomes pleasant and taking pleasure in it, because we don’t know about mind and form. I didn’t know that the cause of his past kamma that now he had to pay for it. Not knowing about mind and form arise when the senses of door and the sense objects meet together and only raga, dosa, moha and māna arise (on the seeing, hearing, etc.) For 46 years if I died with these states of mind and never rising up again (to good destinations) because these were sinking dhamma. What I want you to know is whether you have these mental states (i.e., warnings.) These mind states lead one to become dog, pig, chicken when minds arise during the seeing, hearing, etc. Do lobha, dosa, moha and māna happen to you? If happening, then you have to go down kneeling with your four legs. These knowing are not the right knowing and non-existing knowing. Therefore, the Buddha taught that these were not the ways of seeing and knowing and not the way of hearing and knowing, etc. (whatever arises from the six objects). You must see and know the existing dhamma. Now what I am talking is about the sinking dhamma. Dāyakas and dāyikās! Check your own minds. If you have wrong view and knowing, then practice quickly when you still have times. 
 
@@ -194,6 +194,7 @@ revised on 2022-08-05
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2026-11-21 rev. proofread by bhante; old: Even before, I was not afraid of the Red Flag.
   08-05 rev. proofread by bhante
   07-20 rev. proofread by bhante
   03-29 add "Obstacles for realization of Dhamma"
