@@ -3,7 +3,7 @@
 =============
 
 :date: 2008-07-27
-:modified: 2026-11-20
+:modified: 2026-11-21
 :tags: 電子佛典資源
 :category: 未分類
 :summary: 電子佛典資源
@@ -41,6 +41,8 @@
 - `台語與佛典 <http://yifertw.blogspot.com/>`_ (探討漢譯四阿含與巴利五部尼柯耶的教導，也介紹古漢譯和台語的關聯。)(by 藏經閣外的掃葉人, 漢文)
 
 - `Dhamma Talks <http://www.dhammatalks.net/>`__ , for attaining Peace from Knowing and Seeing, a Handful of Leaves (multilingual-- English, Chinese, Japanese, ไทย, Myanmar, Sinhalese, Deutsch, Español, Français, Italiano, Português, Swedish, Hebrew, Indonesian, Malay, Vietnamese etc. 多種語文-- 英、漢、日、泰、緬、錫蘭、德、西、法、義、葡、瑞典、俄、希伯來、印尼、馬來、越文 等等)
+
+- `PaliVerse <https://www.paliverse.org/>`_ (the Pāli Canon and its commentaries in English, with the Pāli text alongside)
 
 - `Pali 聖典 <https://palishengdian.blog.fc2.com>`__ （ `Pali 聖典舊站 <https://sites.google.com/site/palishengdian/>`__ ）
 
@@ -94,9 +96,10 @@
 
 ------
 
-資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2569; (11.20, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2026 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
+資訊更新日期: `佛曆 <http://zh.wikipedia.org/wiki/%E4%BD%9B%E6%9B%86>`_ ( `BE <http://en.wikipedia.org/wiki/Buddhist_calendar>`__ ) 2569; (11.21, `西元 <http://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%83>`__ 2026 `CE <http://en.wikipedia.org/wiki/Common_Era>`__ )
 
 ..
+  11-21 add add PaliVerse
   11-20 add 米球（Micho）的南傳巴利三藏現代語譯)
   11-18 add 一天一偈（法句經閱讀）
   10-09 add 三藏之路

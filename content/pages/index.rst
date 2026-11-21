@@ -2,7 +2,7 @@
 ################
 
 :date: 2016-02-14
-:modified: 2026-11-20
+:modified: 2026-11-21
 :slug: index
 :lang: zh
 :order: 1
@@ -78,6 +78,7 @@
   * `巴利文佛典翻譯 <https://www.chilin.org/news/news-detail.php?id=202&type=2>`_ (香港 志蓮淨苑)
   * `巴利三藏漢譯 <https://michojk.github.io/>`_ (米球（Micho）的南傳巴利三藏現代語譯)
   * `SuttaCentral <https://suttacentral.net/>`_ (包含漢文之多種語文)
+  * `PaliVerse <https://www.paliverse.org/>`_ (the Pāli Canon and its commentaries in English, with the Pāli text alongside)
   * `覺醒之翼——上座部佛教文獻選譯集 <http://www.theravadacn.org/>`_
   * `Sutta Piṭaka <https://www.dhammatalks.org/suttas/>`_ (Suttas from the Pāli Canon, translated by Ṭhānissaro Bhikkhu), `Access to Insight <http://www.accesstoinsight.org/>`_ 
   * `三藏之路 <https://www.tipitaka.cn/>`_ Tipitaka Path——漢譯巴利三藏（南傳大藏經）線上閱讀（簡體）
@@ -102,6 +103,7 @@
 
 
 ..
+  11-21 add PaliVerse
   11-20 add 米球（Micho）的南傳巴利三藏現代語譯)
   10-09 add 三藏之路
   2026-09-21 rev.  old: `巴利文佛典選譯 <http://www.chilin.edu.hk/edu/report_section.asp?section_id=5>`_ (香港 志蓮淨苑); del: * `觉悟之路網 <http://dhamma.sutta.org/>`_ (上座部佛教, Theravada Buddhism, 漢文簡體) (失效鏈結)
