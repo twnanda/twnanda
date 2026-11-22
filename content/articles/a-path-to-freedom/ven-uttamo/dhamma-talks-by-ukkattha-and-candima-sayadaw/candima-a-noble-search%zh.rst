@@ -3,7 +3,7 @@ A Noble Search [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ===============================================================
 
 :date: 2022-02-13
-:modified: 2026-11-21
+:modified: 2026-11-22
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Noble Search (Dhamma Talks by Sayadaw U Candima)
@@ -390,7 +390,7 @@ It was appearing in the knowledge as the form dhamma of “arhh!” (i.e., at th
 
 (Sometimes, we are using language as not very accurate, e.g., here seeing is form should be—seeing is visual form or object, knowing of visual form or object is mind, etc. Here Sayadaw’s experience supported the teaching in the Abhidhamma. When we see a visual form it appears at two doors—i.e., the eye-door, and mind-door; sound also in the ear-door, and mind-door, etc. If we contemplate a sound, the mind should not go out to the outside where the sound comes from. The mind should be at the ear, if not we are contemplating at the wrong place. As a teaching theory teachers are talking—seeing is visual form, and knowing of visual form is mind, etc. That is also true, not wrong. We can also contemplate them separately, e.g., sound object at the ear, and knowing mind object of the sound at the heart area, etc. Contemplating together as above-mentioned is another thing. This is dependent on the context.)
 
-Arhh! Arhh! was form dhamma and mind dhamma. This was knowing mind, and form. Before was form, and perception (rūpa, and saññā). Now was clear form dhamma (eye, ear, nose, tongue, and body-doors), and clear bhavaṅga form dhamma (i.e., mind-door). The elements of earth (paṭhavī), water (āpo), etc. ceased, and at the clear from of ear arhh! sound, and at the bhavaṅga arhh! Knowing element appeared. [It was quite significant—arhh! was form (sound) and arhh! also the knowing mind.] Both of them were arhh! Before what I heard was hearing is form, and knowing is mind. This is mixing them up. 
+Arhh! Arhh! was form dhamma and mind dhamma. This was knowing mind, and form. Before was form, and perception (rūpa, and saññā). Now was clear form dhamma (eye, ear, nose, tongue, and body-doors), and clear bhavaṅga form dhamma (i.e., mind-door). The elements of earth (paṭhavī), water (āpo), etc. ceased, and at the clear form of ear arhh! sound, and at the bhavaṅga arhh! Knowing element appeared. [It was quite significant—arhh! was form (sound) and arhh! also the knowing mind.] Both of them were arhh! Before what I heard was hearing is form, and knowing is mind. This is mixing them up. 
 
 So in ānāpāna it should be—touching is form, and touching is mind. It is not—touching is form, and knowing is mind. (Here was an interpretation problem—it should be— touching is form, and knowing the touching is mind). These were seeing nature, and knowing the seeing nature. It was not known as body, head, hand, and feet. Touching was form dhamma, and knowing the touching was mind dhamma. So this body was a lump of clear element, and a lump of knowing element. 
 
@@ -450,7 +450,7 @@ This matter could not be created by oneself. And then my teacher said to me; “
 
 My teacher asked me to increase my breathing, this also was not me. I was getting tired. Before, I was always thinking about it as me. Now breathing was not me, with increased breathing also not me. Then I became seeing it. 
 
-Looking at my establishment of ānāpānasati—touching/knowing, touching/knowing, etc., these were original knowing and not me. Which one was my khandha? Touching/knowing was arising on the tip of the nostril, hearing on the ears. Inside the ears was hearing the sound of shu/shel! Shu/shel!, etc. knowing it was another thing, and not me. (?? Inside my ears I hear shu/shel! Shu/shel! etc.; knowing that it is something else, and not me. ??) The expressions of the five khandhas were not me. 
+Looking at my establishment of ānāpānasati—touching/knowing, touching/knowing, etc., these were original knowing and not me. Which one was my khandha? Touching/knowing was arising on the tip of the nostril, hearing on the ears. Inside the ears was hearing the sound of shu/shel! Shu/shel!, etc. knowing it was another thing, and not me. The expressions of the five khandhas were not me. 
 
 These were not of my knowing and my perception, and not my hearing the original mind, and form. It couldn’t go out, and inside was also not me. 
 
@@ -545,6 +545,7 @@ revised on 2023-07-30
 
 ..
   2026-11-21 rev. proofread by bhante; old: and at the clear from of ear arhh! sound; I was not entering the steam yet (i.e., sotāpatti magga).
+    (?? Inside my ears I hear shu/shel! Shu/shel! etc.; knowing that it is something else, and not me. ??)
   2024-11-13 rev. proofread by bhante; erase very similar to ..., ..., ...; old: Path knowledge is the cause, and fruition knowledge is the result, very similar to jhāna. To become mature, skills have to be developed many times.
   07-30 rev. old: in Thailand at the beginning of the 20th century villages, and forests did not have clear boundaries.
   2023-06-08 rev. proofread by bhante
