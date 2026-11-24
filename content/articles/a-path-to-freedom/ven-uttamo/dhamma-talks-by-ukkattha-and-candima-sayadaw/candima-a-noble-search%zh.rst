@@ -3,7 +3,7 @@ A Noble Search [Dhamma Talks by Sayadaw U Candima (Sandima)]
 ===============================================================
 
 :date: 2022-02-13
-:modified: 2026-11-22
+:modified: 2026-11-24
 :tags: Bhikkhu Uttamo, Sayadaw U Ukkaṭṭha and Sayadaw U Candima, Sayadaw U Candima, A Noble Search, Syadaw U Sandima, Ashin Sandimar, Aung Lan Sayadaw
 :category: path of nirvana
 :summary: A Noble Search (Dhamma Talks by Sayadaw U Candima)
@@ -529,7 +529,7 @@ There is a saying in Zen (Chan) tradition—before the practice river is river, 
 
 ------
 
-revised on 2023-07-30
+revised on 2026-11-21
 
 ------
 
@@ -544,7 +544,7 @@ revised on 2023-07-30
 **According to the translator—Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
-  2026-11-21 rev. proofread by bhante; old: and at the clear from of ear arhh! sound; I was not entering the steam yet (i.e., sotāpatti magga).
+  2026-11-24, 21 rev. proofread by bhante; old: and at the clear from of ear arhh! sound; I was not entering the steam yet (i.e., sotāpatti magga).
     (?? Inside my ears I hear shu/shel! Shu/shel! etc.; knowing that it is something else, and not me. ??)
   2024-11-13 rev. proofread by bhante; erase very similar to ..., ..., ...; old: Path knowledge is the cause, and fruition knowledge is the result, very similar to jhāna. To become mature, skills have to be developed many times.
   07-30 rev. old: in Thailand at the beginning of the 20th century villages, and forests did not have clear boundaries.

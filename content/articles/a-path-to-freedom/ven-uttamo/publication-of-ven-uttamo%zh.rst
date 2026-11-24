@@ -3,7 +3,7 @@ Publications of Bhikkhu Uttamo
 =================================
 
 :date: 2019-01-13
-:modified: 2026-07-03
+:modified: 2026-11-24
 :tags: publication, Bhikkhu Uttamo, Ven. Uttamo, Dhamma Talks by Mogok Sayadaw, Mogok Sayadaw, Emptiness, Conditioned, Unconditioned, Eighteen Days in Solitude, Ādiccaramsī
 :category: path of nirvana
 :summary: Publications of Bhikkhu Uttamo
@@ -26,7 +26,7 @@ Publications of Bhikkhu Uttamo
 - `Seeing Is Believing <{filename}dhamma-talks-by-nyanabhasa-sayadaw/content-of-dhamma-talks-by-nyanabhasa-sayadaw%zh.rst>`_ -- Dhamma Talks by Sayadaw U Nyanabhasa
 - `Step by Step <{filename}dhamma-talks-by-jotika-sayadaw/content-of-dhamma-talks-by-jotika-sayadaw%zh.rst>`_ -- Dhamma Talks by Sayadaw Jotika
 - `With an Open Mind <{filename}dhamma-talks-by-jhaneyya-sayadaw/content-of-dhamma-talks-by-jhaneyya-sayadaw%zh.rst>`_ -- Dhamma Talks by Sayadaw Jhaneyya
-- `Divine Light and Dhamma Light <{filename}divine-light-and-dhamma-light/content-of-divine-light-and-dhamma-light%zh.rst>`_
+- `Divine Light and Dhamma Light <{filename}divine-light-and-dhamma-light/content-of-divine-light-and-dhamma-light%zh.rst>`_ : a book on the Kanni meditation system
 
 ------
 
@@ -1336,7 +1336,7 @@ A Noble Search
 
 ------
 
-- `PDF <http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/odt-pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-A4.pdf>`__ (For Print, Size: A4, 378 pages, 2026-01-26)
+- `PDF <http://nanda.online-dhamma.net/thae-inn-gu-sayadaw-uttamo/odt-pdf/thae-inn-gu-ukkattha-and-candima-14pt-print-A4.pdf>`__ (For Print, Size: A4, 378 pages, 2026-11-21)
 
 - `Cover <https://github.com/tw-nanda/pdf-etc/blob/main/image/thae-inn-gu-ukkattha-and-candima-2.png>`__ of Bound volume of "Two Sides of A Coin" and "A Noble Search" (2022-08-23)
 
@@ -1396,6 +1396,7 @@ Right Samādhi and Right Insight
 **According to the translator— Bhikkhu Uttamo's words, this is strictly for free distribution only, as a gift of Dhamma—Dhamma Dāna. You may re-format, reprint, translate, and redistribute this work in any medium.**
 
 ..
+  2026-11-24 rev. thae-inn-gu-ukkattha-and-candima-14pt-print-A4.pdf (11-21, proved by Bante)
   07-03 add: Divine Light and Dhamma Light
   02-06 add: Seeing Is Believing, Step by Step, With an Open Mind
   2026-01-26 rev. & move files of 18days in solitude and thae-inn-gu-ukkattha-and-candima-14pt-print-A4.pdf (odt and pdf) to another repository for reading directly
