@@ -3,7 +3,7 @@
 =============================
 
 :date: 2026-11-19
-:modified: 2026-11-21
+:modified: 2026-11-24
 :tags: 黃友棣音樂數位資料庫, 黃友棣, 黃友棣教授, 樂風泱泱, 大樂必易, 音樂作品解說, 樂曲解說
 :category: 藝術-文化
 :summary: 黃友棣作品彙誌——作品編號與附記（黃友棣音樂數位資料庫）
@@ -74,6 +74,8 @@
 
   「杜鵑花」的詞作者方健鵬君，在文學院畢業後，任教於廣西桂林師範學校。在旅行時因入水救援遭溺的學生而自遭滅頂；師友們皆為惋惜。此事距今已三十餘年。每當杜鵑盛開的季節來臨，追懷往事，使我不禁黯然神傷了！
 
+  `「琴臺碎語」，第一一二篇〈杜鵑花〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/%E6%9D%9C%E9%B5%91%E8%8A%B1-from%E7%90%B4%E8%87%BA%E7%A2%8E%E8%AA%9E.pdf>`__
+
   ——————————————————
 
   「音樂創作散記」，第廿五篇〈提琴獨奏曲〉，解說：
@@ -84,6 +86,7 @@
 
   這首舊作，曾於一九五四年由香港大成文化事業公司與「阿里山變奏曲」等同時印行。這回，我乃修訂其伴奏部份，使有更濃厚的中國風味。
 
+  `「音樂創作散記」，第廿五篇〈提琴獨奏曲〉，解說：PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/杜鵑花-from-音樂創作散記.pdf>`__
 
 .. raw:: html
    
@@ -144,6 +147,8 @@
   就是為了「遺忘」的作曲工作，為我帶來許多瑣碎的麻煩。原來當年（一九五七年）我未有為此詩作曲之時, 另有人已經替此詩作了曲。作曲者用了民歌風格的曲調，無法配合這些典雅的詩句；詩人大表不滿。後來鍾女士再請我為此詩作曲之時，我對此事一無所知。待我把「遺忘」作好樂曲，鍾女士表示讚美之時，就為我帶來許多僧恨。當我每次提出創作意見，這位作曲先生就群集數人，反駁我所說的話。我說「要鼓舞創作中國風格的樂曲」，他們便說「藝術無國界」。我勸「青年作曲者要多讀書」，他們說「讀死書毫無用處」。我認為「必須學好和聲的基礎」，他們說「世界進展，和聲基礎已經不值得去學了」。看來，真是難為他們費心來做辯駁的工作。朋友們勸我不要為這種人的謾罵所騷擾：「這種人專以破壞為樂事；如果你們讀美你，你才是真的倒霉！」
 
   鍾梅音女士後來，僑居泰國，再遷居星加坡；曾經寄給我幾首新詩，包括「田園音樂會」，「紡織娘出嫁」等等。我辦好了女高音獨唱的「田園音樂會」，也用提琴為助奏，使能描繪各種鳥語。經過不少時間，賠了錢，謄譜，校對，印刷，郵寄，送給中國廣播公司應用。寄來錄音帶，我聽過之後，深覺得，奏的速度，表情，皆甚草率。後來我才知道，唱奏者臨時錄音，為了趕時間，根本不會經過練習。由於錯誤太多，重複錄音多次，乃能選出用的各個片段，拼裝起來，所以成績不如理想。我聽過錄音，雖然感到失望；但他們為了趕時間，也很難加以責怪。但工作人員卻向我訴苦；因為此次錄音，使他們多做了許多冤枉工作，才剪接得像一首歌的樣子。鍾女士來信說，「聽過廣播，印像不佳；似乎失去創作水準了」。作曲者倘若因此被氣死，可真不值了！
+
+  `「音樂創作散記」，第三十七篇〈遺忘〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/%E9%81%BA%E5%BF%98-from-%E9%9F%B3%E6%A8%82%E5%89%B5%E4%BD%9C%E6%95%A3%E8%A8%98.pdf>`__
 
   ——————————————————
 
@@ -303,6 +308,8 @@
 
   在藝壇上，她的敬業精神，俠義氣概，親友們對她不勝懷念；也令我常持敬佩之忱。
 
+  `「樂浦珠還」，第一五篇〈從「晚霞」到「遺忘」——鍾梅音女士的歌詞創作〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/%E5%BE%9E%E3%80%8C%E6%99%9A%E9%9C%9E%E3%80%8D%E5%88%B0%E3%80%8C%E9%81%A3%E5%BF%98%E3%80%8D-from-%E6%A8%82%E6%B5%A6%E7%8F%A0%E9%82%84.pdf>`__
+
   ——————————————————
 
   「琴臺碎語」，第一一一篇〈遺 忘〉，解說：
@@ -327,16 +334,17 @@
 
   「遺忘」共有四種版本，一是具有提琴助奏。二是改編只用鋼琴伴奏。三是改編為混聲四部合唱，只用鋼琴伴奏。四是移低了一個音，以適合中音唱者的聲域，也是只用鋼琴伴奏。（這些版本都是香港幸樂樂譜社白雲鵬先生廖譜印出應用的）。近年來，各團體演唱此曲，常改用管絃樂隊伴奏，音色更增瑰麗。中國廣播公司主辦第六屆中國藝術歌曲之夜，請費明儀小姐獨唱此曲，也是用管絃樂伴奏；伴奏譜之編作，由林聲翕教授執筆。
 
+  `「琴臺碎語」，第一一一篇〈遺 忘〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/%E9%81%BA%E5%BF%98-from%E7%90%B4%E8%87%BA%E7%A2%8E%E8%AA%9E.pdf>`__
+
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
 
 
-
 當晚霞滿天
 ~~~~~~~~~~~~~~~~
 
-  「樂浦珠還」，第一五篇〈從「晚霞」到「遺忘」——鍾梅音女士的歌詞創作〉，解說： 參考： 2__3_
+  參考上列：「樂浦珠還」，第一五篇〈從「晚霞」到「遺忘」——鍾梅音女士的歌詞創作〉，解說。
 
 .. raw:: html
    
@@ -388,6 +396,8 @@
   全曲之內，第二主題用得較多；開展部全是用它爲變奏材料。原因是，在這裡曲裡，我要使用第二主題（商婦）來說服第一主題（詩人）。這個作曲設計，乃是根據詩人的原序：「余出己二年，恬然自安。感斯人言，是夕覺有遷謫意；因長詩以贈之。」這是說，白居易被貶到江西九江做官，本來心中安適。這一晚聽了商婦自述一生的不幸遭遇，覺得自己實在有點像商婦一般，受了委屈，乃有「同是天涯淪落人」的感想。我刻意要使溫婉的第二主題能夠具有說服力量，會請示於卡爾祺老師。老師命我先細心分析貝多芬鋼琴協奏曲第四首第二章。這一章內，樂隊齊奏兇悍的主題，終被溫婉的鋼琴主題所說服；誠如鋼琴詩人李斯特所說，宛似樂聖奧菲斯奏起柔和的古琴，馴服了兇悍的獅子。當然，我研究貝多芬的名曲，乃是參考其處理對比的手法；樂語和聲，我必須以中國風格為重，何況我的第一主題乃是雄厚大方的詩人，而不是兇悍的獅子呢！
 
   「琵琶行」原為管絃樂曲，為了應用便利，乃改爲鋼琴獨奏；獨奏，朗誦，合唱，要融成一體。此曲完成於一九六二年。一九六六年由香港幸運樂鷟服務社印行。一九六六年七月首次演出於香港大會堂音樂廳。由費明儀小姐擔任朗誦，梅雅麗夫人鋼琴，薛偉祥先生指揮儀合唱團助助。一九七一年，費明儀小姐與其合唱團，再演唱此曲，故加重訂。重訂本仍由幸運樂譜社印行，譜中詳註各段落的小節號數，以利查考。重訂的原則，是簡化一些不利於獨奏的樂段，並副短一些餐句，更於朗誦部份加入一件伴奏和絃與輔調；使音樂與朗誦，有更緊密的融洽進行。費小姐苦幹的精神，加上她的藝術造詣，使演出有極佳的成績，獲得各界人士的讚美。
+
+  `「音樂創作散記」，第四十一篇〈琵琶行（音詩）〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/琵琶行（音詩）-from-音樂創作散記.pdf>`__
 
        ——————————————————
   
@@ -443,6 +453,8 @@
   此曲原是管絃樂的合奏曲，爲了便於演出，改用鋼琴獨奏。有人問，何以不用琵琶獨奏於曲中？我的設計是把詩中樂境表現出來，並不側重中國樂器之使用。如果需要，將來演出，加入琵琶，也是極易做到的事。
 
   「琵琶行」作成於一九六二年。首演於香港大會堂音樂廳，是在一九六六年七月，由費明儀小姐朗誦，梅雅麗夫人鋼琴獨奏，薛偉祥先生指揮明儀合唱團協助。一九七一年，費小姐與其合唱團再演出此曲，故重訂該譜。重訂的原則，是將一些樂句簡化，又在朗誦部份加入一些伴奏和絃與短句，使音樂與朗誦有更緊密的關係。此次演出，是費小姐期誦，彭薏賜小姐鋼琴獨奏，阮品強先生指揮明儀合唱團協助，成績更為美滿，使我得沾光彩。直至一九八一年四月，中國廣播公司將此曲演唱於臺北，不覺已是首演後十五年了。
+
+  `「樂韻飄香」，第二十二篇〈「琵琶行」的內容〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/琵琶行的內容-from-樂韻飄香.pdf>`__
 
   ——————————————————
 
@@ -593,11 +605,11 @@
 
   在此曲內，第二主題（商婦）用得較多，開展部的變奏，全是第二主題的材料；原因是，我要用第二主題來說服了第一主題（詩人）。這是根據白居易的序文而來：「余出官二年，恬然自安。感斯人言，是夕覺有遷謫意；因為長詩以贈之。」這是說，白居易被貶到江西九江，本來心中安適。這一晚，聽了商婦自述一生的不幸遭遇，覺得自己實在是受了委屈，乃有「同是天涯淪落人」的感嘆。
 
+  `「樂風泱泱」，第一六篇〈琵琶行與胡笳弄〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/琵琶行與胡笳弄-from樂風泱泱.pdf>`__
 
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 
 在銀色的月光下
@@ -625,11 +637,11 @@
 
   看來，眾人歡喜這首稍加修訂的詞句。自從費明儀小姐指揮明儀合唱團演唱於香港大會堂音樂廳之後，許多合唱團體常有演唱它。
 
+  `「音樂人生」，第二十篇〈民歌新唱，（二）在銀色的月光下（新疆塔塔爾民歌）〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/在銀色的月光下-彌度山歌-馬蘭姑娘-from-音樂人生.pdf>`__
 
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 
 楓橋夜泊
@@ -649,9 +661,11 @@
 
   去年八月，思義夫合唱團音樂會聘請常蔭藍先生（男高音），歐成耀先生（提琴），周端明小姐（鋼琴）擔任一個項目。我設計為他們編作新歌曲，並加入女聲合唱團，造成一個較為新穎的節目，乃用「楓橋夜泊」編成合唱。在這首合唱之中，我要用豪放的男聲獨唱，秀麗的女聲合唱，加入明亮的提琴，沉雄的鋼琴，以描繪出一幅秋夜旅思的圖畫。演唱後，甚獲聽眾之喜愛：這都是樂境豐富的唐詩所賜。
 
+  `「琴臺碎語」，第一一四篇〈楓橋夜泊〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/楓橋夜泊-from-琴臺碎語.pdf>`__
+
   ——————————————————
 
-  「樂韻飄香 唐宋詩詞合唱曲」，二一，〈一、楓橋夜泊（唐）張繼（公元742年為進士）〉，解說：
+  「樂韻飄香」，「唐宋詩詞合唱曲」，二一，〈一、楓橋夜泊（唐）張繼（公元742年為進士）〉，解說：
 
   （唐）張繼（公元742年為進士）
 
@@ -662,11 +676,12 @@
 
   「霜滿天」的一句，是向上行的曲調，句尾是漸強的減七和絃；伴奏裏的和絃活動，增加了感情的緊張。「對愁眠」的一句，是漸趨鬆弛的答句。前段初用男聲唱出，女聲以鼻音相和，繪出朦朧的秋夜景色。結尾時，伴奏裏有斷續的鐘聲，倍添惆悵。（此曲另有一份譜本，是給男中音獨唱，女聲和唱，並加提琴輔奏。亦列在曲集附篇之內）。
 
+  `「樂韻飄香」，「唐宋詩詞合唱曲」，二一，〈一、楓橋夜泊（唐）張繼（公元742年為進士）〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/唐宋詩詞合唱曲-from-樂韻飄香.pdf>`__
+
+
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
-
 
 阿里山之歌
 ~~~~~~~~~~~~~~~
@@ -679,6 +694,8 @@
 
   記得一九六八年在臺北一個敘會中，巧遇「阿里山姑娘」原來的作詞者雷先生。他告訴我，最初此曲是爲電影插曲而作，作曲者是張先生。他慨嘆，今日人人只知唱新配的詞「高山青」，却全然不知道他是原來的作詞者。我勸他，實在不必爲此生氣。人人吃雞蛋，只顧吃到的不是壞蛋。總不會感謝生蛋的母雞，更不會查問生該蛋的母雞貴姓大名。母雞們也從來不會爲此生氣，何況人乎？
 
+  `「樂韻飄香」，第二十八篇〈馬蘭、澎湖、阿里山〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/馬蘭、澎湖、阿里山-from-樂韻飄香.pdf>`__
+
   ——————————————————
 
   選用台灣流行小曲「阿里山姑娘」作成提琴變奏曲，再根據之編為合唱組曲。在柔和抒情的主題之後，接以歡欣鼓舞的圓舞曲，激昂奮發的進行曲，足以顯示阿里山的儀容。 
@@ -686,7 +703,6 @@
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 
 問鶯燕
@@ -727,6 +743,7 @@
 
   許建吾先生的歌詞，我為之作曲的尚有「雲山戀」（三章），「生命之歌」，「羊腸小道」；獨唱曲有「春之歌」（三章），「黑霧」，「遠景」，「十字街頭」等。「黑霧」並改編戒混聲合唱，為各合唱團所常用。
 
+  `「琴臺碎語」，第一〇三篇〈問鶯燕〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/問鶯燕-天山明月-鳳陽歌舞-from-琴臺碎語.pdf>`__
 
 .. raw:: html
    
@@ -747,10 +764,11 @@
   | 小黃鸝鳥
   | 
 
+  `黃友棣作品專集（四）合唱民歌組曲選PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E9%BB%83%E5%8F%8B%E6%A3%A3%E4%BD%9C%E5%93%81%E5%B0%88%E9%9B%86%EF%BC%88%E5%9B%9B%EF%BC%89%E5%90%88%E5%94%B1%E6%B0%91%E6%AD%8C%E7%B5%84%E6%9B%B2%E9%81%B8.pdf>`__
+
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 
 滿山春色
@@ -770,10 +788,11 @@
   | 心心相印，青春上蓋好。咱的親蜜，圓滿萬事和。
   | 
 
+  `「閩南語歌謠合唱組曲」，〈滿山春色組曲〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/滿山春色-我有一句話-from-閩南語歌謠合唱組曲.pdf>`__
+
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 
 秋花秋蝶
@@ -792,6 +811,8 @@
 
   （註）藝術新歌與鋼琴曲集，民歌新編等，皆於一九六八年我赴臺講學時，贈給國防研究院與中華學術院音樂研究所印行。
 
+  `「音樂創作散記」，第廿七篇〈藝術新歌〉，（十）〈秋花秋蝶〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/舟中-燕詩-塞下曲-聞捷-陌上花-秋花秋蝶-from-音樂創作散記.pdf>`__
+
   ——————————————————
 
   「樂韻飄香」，第二一篇〈唐宋詩詞合唱曲〉 ，十二、秋花秋蝶，解說：
@@ -809,11 +830,11 @@
 
   這首歌曲，我作成獨唱之時，曾經使用許多不協和絃為裝飾。但編為混聲四部合唱，我盡量減少使用這些不協和絃。恰似辛棄疾所說：「少年不識愁滋味，為賦新詞强說愁」。現在，我切實地感覺到，中國樂語配合以調式和聲，已能充份表現出我國藝術的樸素之美；再加濃厚脂粉，反而有損麗質，失却端莊。
 
+  `「樂韻飄香」，第二一篇〈唐宋詩詞合唱曲〉 ，十二、秋花秋蝶，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/唐宋詩詞合唱曲-from-樂韻飄香.pdf>`__
 
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 
 天山明月
@@ -905,6 +926,8 @@
 
   還有許多未及詳列。中國地大物博，民歌更是量多質美。但願作曲同仁，將素材發展為合唱、管絃樂曲、舞劇，歌劇；使我中華民族的音樂，光照寰宇。
 
+  `「音樂創作散記」，第四十七篇〈天山明月〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/天山明月-from-音樂創作散記.pdf>`__
+
   ——————————————————
 
   「琴臺碎語」，第一〇五篇〈天山明月〉，解說：
@@ -926,12 +949,11 @@
 
   運用已有的民歌為襯托，恰似利用大提琴以裁新衣，可以例證使用對位技術來把民歌藝術化。我編「迎春接福」（粵北民歌組曲），「紅棉花開」（廣東小調組曲），皆屬於此類設計。我國民歌，量多質美，宛如各地豐富的礦藏；該如何去開採這些礦藏呢？徒靠雙手去挖，只用鋤鏟去掘；是否就能開採得了呢？從事音樂工作的人，當然懂得答案。
 
+  `「琴臺碎語」，第一〇五篇〈天山明月〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/問鶯燕-天山明月-鳳陽歌舞-from-琴臺碎語.pdf>`__
 
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
-
 
 彌度山歌
 ~~~~~~~~~~
@@ -1059,6 +1081,8 @@
 
   其他組曲，組織較爲嚴密的如「天山明月」等等，在下兩章再詳加解說。
 
+  `「音樂創作散記」，第四十六篇〈串珠工作〉與〈雲南民歌組曲〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/雲南民歌組曲-from-音樂創作散記.pdf>`__
+
   ——————————————————
 
   「音樂人生」，民歌新唱，〈（五）彌度山歌（雲南民歌）〉，解說：
@@ -1076,11 +1100,11 @@
   | 誘球拋落粉牆外，願借東風吹過來。
   | 
 
+  `「音樂人生」，民歌新唱，〈（五）彌度山歌（雲南民歌）〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/在銀色的月光下-彌度山歌-馬蘭姑娘-from-音樂人生.pdf>`__
 
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 
 鳳陽歌舞
@@ -1145,6 +1169,8 @@
 
   「鳳陽歌舞」合唱組曲，是一九六九年多編作成。大概由於側重對位技術，一般合唱團感覺到不容易處理；尤其是指揮者，對這曲的提示動作，頗感困難。一九七〇年底，香港市政局主辦聖誕音樂會，老慕賢教授指揮風藝合唱團唱出此曲，才是此曲的首次演唱。關於指揮此曲的技術設計，老慕賢教授對我說，曾經費去她不少心血。演唱時，指揮與唱眾合作得有極好的成績；又因曲調為聽眾所熟悉，故情況甚為熱烈。一九七一年三月香港校際音樂比賽，選此曲為混合合唱比賽用曲。後來許多多團體在演唱會中，常列為合唱項目，聽眾遂有機會接觸它。但我仍然覺得，此曲結構較為複雜，非有充份時間磨練，不易拿來表演。為了要將民歌組曲廣為推行，我必須編作多些內容豐富而技術容易的合唱曲。這又一次提醒我以「大樂必易」的原則，指出我以後編曲所該走的路。
 
+  `「音樂創作散記」，第四十五篇〈爲灰姑娘製玻璃鞋〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/鳳陽歌舞-from-音樂創作散記.pdf>`__
+
   ——————————————————
 
   「琴臺碎語」，第一〇四篇〈鳳陽歌舞〉，解說：
@@ -1172,11 +1198,11 @@
 
   把兩首民歌，用對位技術編成合唱，宛如把桃樹與小樓結合起來，各自獨立而互為輔助。如果聽起來覺得有趣，只因我國有無數珍貴如鑽石的民歌為素材；我只是串石為鍊的工人而已。
 
+  `「琴臺碎語」，第一〇四篇〈鳳陽歌舞〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/問鶯燕-天山明月-鳳陽歌舞-from-琴臺碎語.pdf>`__
 
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 
 聽董大彈胡笳弄
@@ -1238,6 +1264,8 @@
 
   上述的三首誦唱曲，琵琶行，聽董大彈胡笳弄，傷別離，近年由戴金泉教授指揮演唱於各地，使合唱，朗誦與琴聲配合得更為緊密，成績進展，至為可喜。歷年來我聽過許多團體演出唐詩宋詞的合唱曲，發覺到一件最值得注意之事：就是各人平日朗誦詩詞，為數尚少，所以欠缺了「詩意」。倘若唱者、奏者、以及指揮者，未唱未奏之前，先把詩詞精心研讀；使每人心中都有了詩的境界，詩的聲韻，詩的結構；使唱出的歌聲充滿詩意，奏出的琴聲充滿詩意，指揮的處理也充滿詩意；則演出成績，必然優異。這道理很簡單，就是「先求有之於內，然後表之於外」。我更期望每一位聽眾都能多讀詩詞，以提升生活的品質與生命的格調。
 
+  `「樂風泱泱」，第一六篇〈琵琶行與胡笳弄〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/琵琶行與胡笳弄-from樂風泱泱.pdf>`__
+
   ——————————————————
 
   「琴臺碎語」，第一一〇篇〈聽董大彈「胡笳弄」〉，解說：
@@ -1288,12 +1316,11 @@
 
   此曲作成於一九六七年，目的是想例證中國風格和聲的應用，並且要把朗誦，合唱，獨奏，三者結成一體。一九六九年鍾梅音女士製唱片，邀請名鋼琴家藤田梓女士擔任獨奏，楊敏先生朗誦，國光合唱團演唱，楊樹樸先生指揮，成績甚佳。去年中國廣播公司第六屆中國藝術歌曲之夜，演唱此曲，由蔡盛通先生編作樂隊伴奏，成績不弱。以前因為朗誦人才較少，此曲很少演唱。近年來人才輩出，殊為可喜；我聽過好幾個團體演出此曲的錄音，都證明已經能夠把獨奏，朗誦，合唱三者結成一體；顯然是大有進步了！
 
+  `「琴臺碎語」，第一一〇篇〈聽董大彈「胡笳弄」〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/聽董大彈胡笳弄-from-琴臺碎語.pdf>`__
 
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
-
 
 寒夜
 ~~~~~~~~~~~~~~~~~~~
@@ -1321,12 +1348,11 @@
 
   最後的一句「艷陽快昇」的「昇」字，樂譜上註明用強音唱出。如果能夠用漸強以達最強，則顯示太陽漸昇，更為傳神；這種處理手法，指揮者是有權運用於詮釋工作之內的。
 
+  `「樂苑春回」，第六十篇〈寒夜紅燈竹簫謠〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/寒夜-我要歸故鄉-北風-中秋怨-from-樂苑春回.pdf>`__
 
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
-
 
 思我故鄉
 ~~~~~~~~~~~~~~~~~~~
@@ -1466,11 +1492,11 @@
 
   秦先生這三詩，各有特點，「思我故鄉」有散文式的句法，「白雲詞」有中國古詩的格律，「大忠大勇」則有論文的結構；任何一種，都使作曲者感到棘手。但，對於一個從事作曲的人，詞句縱使不利於唱，總有辦法去處理它。正如從事荒荒的人，無論遇到泥田、沙田、草田、石田，都總會想出開墾的辦法來。
 
+  `「音樂創作散記」，第三十五篇〈思我故鄉〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/思我故鄉-from-音樂創作散記.pdf>`__
 
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 
 我要歸故鄉
@@ -1547,11 +1573,11 @@
 
 也會有音樂老師問我，「故鄉的田園荒草長」的「長」字，能否當作「生長」的「長」字去唱？他認為，「生長」的「長」字，是動詞，可以加重句語力量。我的答案是，這個「長」字，並非動詞而是形容詞。只要明白這首歌詞所用的韻腳是平聲（陽韻），就可決定這個「長」字不是「生長」的「長」，而是「長短」的「長」了。
 
+  `「樂苑春回」，第五八篇〈我要歸故鄉與北風〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/我要歸故鄉-from樂苑春回.pdf>`__
 
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 
 月光曲
@@ -1599,6 +1625,8 @@
 
   我深信，中國音樂可以重新振作起來，只要我們在創作之中，使用現代化的技術，演奏世界化的樂器，保持中國風格的曲調，配合中國風格的和聲。如此，國樂與西樂的壁壘，必可救平。這是當前音樂創作的重要課題。
 
+  `「音樂創作散記」，第四篇〈月光曲〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/月光曲-from-音樂創作散記.pdf>`__
+
   ——————————————————
 
   「樂谷鳴泉」，第五十篇〈抗戰歌組曲六首〉（SIX SUITES for VIOLIN and PIANO），解說：
@@ -1642,7 +1670,6 @@
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
 
 
-
 歸不得故鄉
 ~~~~~~~~~~~~~~~~~~~
 
@@ -1652,7 +1679,6 @@
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 
 喜相逢
@@ -1672,11 +1698,11 @@
 
   「在那遙遠的地方」是情意綿綿的懷念，「燕子」是刻骨銘心的相思，「掀起你的蓋頭來」則是歡欣喜悅的相逢。在「掀起蓋頭」的開始，兩段都給男聲唱出，「看看你的眉」、「看看你的眼」；皆用圓舞曲的節奏，表現出輕巧活潑的情調。隨着，轉回雙數拍子。「看看你的嘴」是各聲部用賦格式輪替加入，以增強熱鬧的氣氛，最後一段「看看你的臉」，才是快速的舞曲節奏，以快樂的情感來結束全首組曲。
 
+  `「樂韻飄香」，第二十六篇〈中國民歌組曲〉，〈喜相逢〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/喜相逢-from-樂韻飄香.pdf>`__
 
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 
 馬蘭姑娘
@@ -1701,6 +1727,8 @@
   | 從這山澗踏過那邊的清涼山澗，
   | 採得那山花一笑為君妍。
   | 
+
+  `「音樂人生」，民歌新唱，〈（一）馬蘭姑娘（臺灣山地民歌）〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/在銀色的月光下-彌度山歌-馬蘭姑娘-from-音樂人生.pdf>`__
 
   ——————————————————
 
@@ -1773,11 +1801,12 @@
   | 青年漁郎見了姑娘心兒會跳出來？！
   | 
 
+  `「樂韻飄香」，第二十八篇〈馬蘭、澎湖、阿里山〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/馬蘭、澎湖、阿里山-from-樂韻飄香.pdf>`__
+
 
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 
 木蘭辭
@@ -1877,7 +1906,6 @@
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
 
 
-
 秋夕
 ~~~~~~~~~~~~~~~~~~~
 
@@ -1904,11 +1932,11 @@
 
   這麼親切的同情與安慰，使我感激萬分；但我卻很難原諒他的胡塗。我張開口要說話，但我說不出什麼。
 
+  `「音樂人生」，第三十一篇〈自作聰明的批評者〉，〈（一）秋夕〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/秋夕-from-音樂人生.pdf>`__
 
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 我有一句話
 ~~~~~~~~~~~~~~~~~~~
@@ -1927,6 +1955,7 @@
   | 若是有決心，希望永久欲相好；請你講一句，毋免害阮憨憨猜。
   | 
 
+  `「閩南語歌謠合唱組曲」，〈我有一句話組曲〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/滿山春色-我有一句話-from-閩南語歌謠合唱組曲.pdf>`__
 
 .. raw:: html
    
@@ -1984,6 +2013,7 @@
 
   一九八五年四月，此曲首唱於高雄市政府主辦的「黃友棣樂展」，由徐天輝先生指揮高雄市教師合唱團演唱，深得聽眾稱許，作曲者與有榮焉。這曲是混聲四部合唱、與同聲三部合唱、獨唱、三種譜本，同時發表，由幸運樂譜社白雲鵬先生印贈高雄市各個音樂團體，以增音樂節日喜氣。
 
+  `「樂圃長春」，三七，〈高雄禮讚〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/高雄禮讚-from-樂圃長春.pdf>`__
 
 .. raw:: html
    
@@ -2054,6 +2084,7 @@
 
   在七十八年一月十五日晚，在中正文化中心至德堂，第二次「大港都組曲」音樂發表會中，因時間所限，尚未能將全部樂曲發表完畢；但這些樂曲，將與歌詞、書、畫，彙印成冊以面世。從這些詩、畫、樂的內容，可以概見高雄的風貌。這種歌頌家鄉，榮耀國家的藝壇創作，實在是完美的教育設計，值得推行全國。
 
+  `「樂苑春回」，四九，說解與曲樂，〈畫中有詩、詩中有樂（大港都組曲禮讚）〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/木棉花之歌-詩畫港都-from-樂苑春回.pdf>`__
 
 .. raw:: html
    
@@ -2141,6 +2172,7 @@
 
   「春回寶島」，「愛河夜色」，兩首合唱歌曲，皆首唱於民國開國八十年音樂會，在八十年一月八日，由向多芬小姐領唱，高雄縣教師合唱團伴唱，李志衛先生指揮，陳雅慧小姐伴奏，效果優異。在三月十七日，中國電視公司「陽光下的港都」節目，播出雷起鳴先生導播的「不謝的杜鵑花」，將此曲與「高雄禮讚」三章同時播出，加插瑰麗而充滿詩意的畫面，獲得人人讚美，作曲者與有榮焉。
 
+  `「樂風泱泱」，一九，〈明潭，花海與愛河〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/愛河月色-from-樂風泱泱.pdf>`__
 
 .. raw:: html
    
@@ -2177,6 +2209,7 @@
   這首歌曲，是 G Ionian 調式。它與 G 大調音階組織完全相同，只是和聲法有異。引句的材料，採自「索食聲嗷嗷」句後的伴奏樂句；這是描繪群兒索食，父母勞勞，痛苦充滿快樂的情況。樂曲之內，各段都有轉調。「一旦羽翼成」開始，就隨以一連串促促的轉調，表現出急激的變化。「喃啾終夜悲」之後，以挿曲回顧全篇，然後帶到「燕燕爾勿悲」的尾段。這段挿曲，在登台演唱時，實在可以省省。（一九七三年重訂此曲，特將調子移低，並加簡化。）
   尾段開始，用朗誦式的演唱，唱出親切的勸告，然後接以詠嘆式的歌唱。歌中的強弱變化，極爲重要。尾段聲奏，乃是再現群兒索食，父母勞勞的樂冒。最後的兩個強力變慢和絃，顯示出「撫今追昔，同聲嗟嘆」的心情。
 
+  `「音樂創作散記」，第六篇〈燕詩〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/舟中-燕詩-塞下曲-聞捷-陌上花-秋花秋蝶-from-音樂創作散記.pdf>`__
 
 .. raw:: html
    
@@ -2198,6 +2231,7 @@
 
   尾段「更行更遠」的重覆出現，說明同形句子應如何避去方塊句的呆滯：㈠同形出現的句子，移位的度數不是每音皆同。㈡同形句內各音的時值有差異。㈢同形句有速度之變換。㈣同形句有強弱的變化。
 
+  `「樂韻飄香」，二一，唐宋詩詞合唱曲，二十七、離恨，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/唐宋詩詞合唱曲-from-樂韻飄香.pdf>`__
 
 .. raw:: html
    
@@ -2230,6 +2264,8 @@
 
   因爲次高音的聲樂家嫌此曲太高，我將它另寫爲低一個音的用譜，給幸運樂譜服務社印行，以利應用。
 
+  `「音樂創作散記」，第九篇〈陌上花〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/舟中-燕詩-塞下曲-聞捷-陌上花-秋花秋蝶-from-音樂創作散記.pdf>`__
+
   —————————————————
 
   「樂韻飄香」，二一，唐宋詩詞合唱曲，二十五、陌上花，解說：
@@ -2257,6 +2293,7 @@
 
   最後，用混聲四部合唱，再唱出第一段詩句，以作結束。
 
+  `「樂韻飄香」，二一，唐宋詩詞合唱曲，二十五、陌上花，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/唐宋詩詞合唱曲-from-樂韻飄香.pdf>`__
 
 .. raw:: html
    
@@ -2464,6 +2501,12 @@
 
   一九八六年六月二十三日，香港音專三十六周年音樂會，在香港大會堂音樂廳舉行，需要一首莊嚴題材的合唱曲，就選用了這首羅子英先生作詞的「歲寒三友頌」，由費明儀教授指揮。在九年前（一九七七年八月），費教授也曾指揮香港音專演唱李韶先生作詞的「歲寒三友」。她自己身任團長的明儀合唱團，在二十年前，也曾首唱「歲寒三友」。這次她擔任首唱「歲寒三友頌」，可說與松竹梅有夙緣了。
 
+  `「樂圃長春」，三一，〈歌頌松竹梅的合唱曲〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/歲寒三友-from-樂圃長春.pdf>`__
+
+.. raw:: html
+   
+   <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
+
 
 碧海夜遊
 ~~~~~~~~
@@ -2539,10 +2582,11 @@
 
   此曲初介紹於中廣「音樂風」。一九七三年十一月，華南合唱團首唱於香港大會堂音樂廳，效果甚佳。
 
+  `「音樂創作散記」，（三六），〈碧海夜遊〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/碧海夜遊-from-音樂創作散記.pdf>`__
+
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 佳節頌
 ~~~~~~
@@ -2613,11 +2657,11 @@
 
   一九七八年九月，香港音專慶祝建校二十八周年，舉行盛大音樂會於香港大會堂音樂廳，首唱此曲，由羅炳良先生指揮音專合唱團，嚴仙霞小姐鋼琴伴奏，成績優異。
 
+  `「樂谷鳴泉」，四四，〈佳節頌〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/佳節頌-from-樂谷鳴泉.pdf>`__
 
 .. raw:: html
    
    <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
-
 
 牧牛圖頌
 ~~~~~~~~~~
@@ -2777,11 +2821,17 @@
   | 昧初因，忘根本，迷失了自己。
   | 
 
+  `「樂風泱泱」，二六，〈安祥的頌讚〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/牧牛圖頌-from-樂風泱泱.pdf>`__
+
+.. raw:: html
+   
+   <hr style="border-top: 1px solid #ccc; margin: 2em 0;">
+
 
 中秋怨
 ~~~~~~~~
 
-  「樂苑春回」，說解與曲樂，第五九篇〈中秋的怨與淚〉，解說：
+  「樂苑春回」，第五九篇〈中秋的怨與淚〉，解說：
 
   民國四十二年中秋節，李韶先生流亡在香港，影隻形單，徘徊月下，思鄉念親，終宵無法安眠；次日便寫好一首歌詞送我。這是滿懷抑鬱的「中秋怨」，足以代表所有流亡海外同胞們的心聲，其詞句如下：
 
@@ -2826,6 +2876,7 @@
 
   這是一首很單純的獨唱曲，伴奏的琴聲，是連綿不斷的雨聲淅瀝。由於此曲是哀婉的小調，常得歌者與聽者之偏愛；為了需要，也改編成混聲四部合唱，分別印在我的歌曲選集之內。
 
+  `「樂苑春回」，第五九篇〈中秋的怨與淚〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/寒夜-我要歸故鄉-北風-中秋怨-from-樂苑春回.pdf>`__
 
 .. raw:: html
    
@@ -2834,7 +2885,7 @@
 自性的禮讚
 ~~~~~~~~~~~~~
 
-  參考：「樂風泱泱」，二六，〈安祥的頌讚〉，解說：
+  參考：「樂風泱泱」，二六，〈安祥的頌讚〉，解說。
 
 .. raw:: html
    
@@ -2843,8 +2894,7 @@
 北風
 ~~~~~~~
 
-  參考：「樂苑春回」，說解與曲樂，第五八篇〈我要歸故鄉與北風〉，解說：
-
+  參考：「樂苑春回」，說解與曲樂，第五八篇〈我要歸故鄉與北風〉，解說。
 
 .. raw:: html
    
@@ -2890,6 +2940,7 @@
 
   我在羅馬學習了六年，一九六三年返回香港，仍然執教於珠海書院；一方面整理我的理論著作，一方面安心清還債務。民國五十七年（一九六八年）是我國所定的音樂年，是年八月，我接受教育部等九個文化機構之邀請，（這九個機構，是教育部，省教育廳，市教育局，中央第三組，僑務委員會，救國團總部，文藝協會，音樂學會，國樂會），回台灣講學兩月，分別在台北，台中，為音樂教師講學一周；又在高雄，花蓮，舉行音樂創作座談會，以鼓舞音樂創作風氣。此項講學工作結束，我乃能著手為秦孝儀先生所作歌詞「思我故鄉」編作合唱。鍾女士乃提起十一年前她曾寄給我的那首歌詞「遺忘」。當年我因忙於登程赴歐尋師，未能為她作成歌曲，不勝歉疚。現在再次提出，我就無從推卻了。
 
+  `「樂浦珠還」，第一五篇〈從「晚霞」到「遺忘」——鍾梅音女士的歌詞創作〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/從「晚霞」到「遣忘」-from-樂浦珠還.pdf>`__
 
 .. raw:: html
    
@@ -2967,8 +3018,11 @@
 
   在這首樂曲之中，樂聲與朗誦，合唱，三者立於同等重要的地位。指揮者把三者揉合為整體，恰似牛奶加入咖啡，再加砂糖，只要手法高明，就可造成美味的飲品了。
 
+  `「樂風泱泱」，一五，〈傷別離〉，解說 PDF <https://nanda.online-dhamma.net/Academia-and-Education/Hwang-YauTai-Music-Digital-Database/hwang-yau-tai-homepage%20/publication-and-refs/%E5%90%84%E6%9B%B2%E8%A7%A3%E8%AA%AA-PDF/傷別離-from-樂風泱泱.pdf>`__
+
 
 .. 
+  11-24 add 各曲解說-PDF
   2026-11-21 post; 11-19 created rst
         .. |杜鵑花| replace::**杜鵑花**
       	.. |遺忘| replace::**遺忘**
